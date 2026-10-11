@@ -10,8 +10,9 @@ last_amended: 2009-03-27
 status: unknown
 status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "76/93, 38/09"
+narodne_novine: "76/93, 11/94, 38/09"
 amendments:
+  - "NN 11/1994 (207) Zakon o izmjenama i dopunama Zakona o tehničkoj kulturi"
   - "NN 38/2009 (848) Zakon o izmjenama Zakona o tehničkoj kulturi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1549"
 retrieved: 2026-10-12
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 76/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1549).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 38/2009.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 11/1994, NN 38/2009.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -448,6 +449,54 @@ Stjepan Mesić, v. r.
 ---
 
 # Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o tehničkoj kulturi (NN 11/1994)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1994/11/207*
+
+URED PREDSJEDNIKA REPUBLIKE
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O TEHNIČKOJ KULTURI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o tehničkoj kulturi. koji je donio Zastupnički dom Sabora Republike Hrvatske na sjednici dana 2. veljače I994. godine.
+
+Broj : PA4-26/ 1-94.
+
+Zagreb. B. veljače 1994.
+
+Predsjednik Republike Hrvatske
+
+dr. Franjo Tuđman, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O TEHNIČKOJ KULTURI**
+
+### Članak 1.
+
+U Zakonu o tehničkoj kulturi ("Narodne novine", br. 78/93.) u članku 44. stavci 2.. 3.. 4., 5.. 6. i 7. brišu se.
+
+### Članak 2.
+
+Sabor Republike Hrvatske može do 30. lipnja 1994. godine utvrditi da je određeni objekt, odnosno druga nekretnina tehničke kulture u društvenom vlasništvu na kojima pravo raspolaganja imaju organizacije tehničke kulture, od interesa za Republiku, te odlučiti da postaje vlasništvo Republike Hrvatske. Postoječe društvene organizacije tehničke kulture. njihovi savezi i zajednice te Hrvatska zajednica tehničke kulture imaju pravo koristiti sredstva u društvenom vlasništvu na kojima imaju pravo raspolaganja s tim da nepokretnu imovinu ne mogu otuđiti iz društvenog vlasništva dok se zakonom ne uredi pretvorba tih društvenih sredstava.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu danom objave u "Narodnim novinama".
+
+Klasa: H30-01/93-01/03
+
+Zagreb. 2. veljače 1994.
+
+ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
+
+Predsjednik Zastupničkog doma Sabora
+
+Stjepan Mesić, v. r.
 
 ## Zakon o izmjenama Zakona o tehničkoj kulturi (NN 38/2009)
 

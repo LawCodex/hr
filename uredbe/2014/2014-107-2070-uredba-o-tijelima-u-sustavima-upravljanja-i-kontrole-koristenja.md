@@ -6,14 +6,17 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2014-09-05
-last_amended: 2015-11-27
+last_amended: 2021-04-30
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "107/14, 23/15, 129/15"
+narodne_novine: "107/14, 23/15, 129/15, 15/17, 18/17, 46/21"
 amendments:
   - "NN 23/2015 (479) Uredba o izmjenama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem \"Ulaganje za rast i radna mjesta\""
   - "NN 129/2015 (2439) Uredba o izmjeni Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem \"Ulaganje za rast i radna mjesta\""
+  - "NN 15/2017 (351) Uredba o izmjenama i dopunama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta«"
+  - "NN 18/2017 (433) Ispravak Uredbe o izmjenama i dopunama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta«"
+  - "NN 46/2021 (935) Uredba o izmjenama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta«"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/107/2070"
 retrieved: 2026-10-12
 ---
@@ -22,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 107/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/107/2070).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 23/2015, NN 129/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 23/2015, NN 129/2015, NN 15/2017, NN 18/2017, NN 46/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -368,158 +371,131 @@ Zoran Milanović, v. r.
 ## PRIKAZ POSREDNIČKIH TIJELA NADLEŽNIH ZA PROVEDBU IZABRANIH PRIORITETA ULAGANJA, PO OPERATIVNOM PROGRAMU
 
 <table><tbody>
-
 <tr>
 <td colspan="4">Prikaz 1<br> Operativni program iz područja konkurentnosti i kohezije »Konkurentnost i kohezija«</td>
 </tr>
-
 <tr>
 <td>Prioritetna os</td>
 <td>Izabrani prioritet ulaganja</td>
 <td>Posredničko tijelo razine 1</td>
 <td>Posredničko tijelo razine 2</td>
 </tr>
-
 <tr>
 <td rowspan="2">Jačanje gospodarstva primjenom istraživanja i inovacija</td>
 <td>Poboljšanje infrastrukture i kapaciteta za istraživanje i inovacije, s ciljem razvijanja uspješnosti istraživanja i inovacija te promoviranje centara za kompetencije, posebice onih od europskog interesa</td>
 <td>Ministarstvo znanosti, obrazovanja i sporta</td>
 <td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije<br> Agencija za strukovno obrazovanje i obrazovanje odraslih</td>
 </tr>
-
 <tr>
 <td>Promicanje poslovnih ulaganja u inovacijama i istraživanjima te razvoj veza i sinergija između poduzeća, centara za istraživanje i inovacije i visokog obrazovanja, osobito promicanje ulaganja u razvoj proizvoda i usluga, transfer tehnologija, socijalne inovacije, ekološke inovacije, usluge javnog servisa, zahtjeva za poticanjima, umrežavanje, klastere i otvorene inovacije, kroz pametnu specijalizaciju i podržavanje tehnoloških i primijenjenih istraživanja, pilot linija, predproizvodna provjera valjanosti, naprednih proizvodnih mogućnosti i početne proizvodnje, osobito u ključnim tehnologijama koje potiču razvoj i inovacije te širenje tehnologija za opću namjenu</td>
 <td>Ministarstvo gospodarstva</td>
 <td>Hrvatska agencija za malo gospodarstvo, inovacije i investicije<br> Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td rowspan="2">Korištenje informacijske i komunikacijske tehnologije</td>
 <td>Proširivanje dostupnosti širokopojasne veze i predstavljanje visokobrzinskih mreža i podrška nastajanju novonastalih tehnologija i mreža za digitalno gospodarstvo</td>
 <td>Hrvatska regulatorna agencija za mrežne djelatnosti</td>
 <td rowspan="2">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td>Jačanje aplikacija informacijskih i komunikacijskih tehnologija za e-vladu, e-učenje, e-uključenost, e-kulturu i e-zdravlje</td>
 <td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 </tr>
-
 <tr>
 <td rowspan="2">Poslovna konkurentnost</td>
 <td>Promicanje poduzetništva, osobito olakšavanjem ekonomskog iskorištavanja novih ideja i poticanjem stvaranja novih poduzeća, uključujući i putem poduzetničkih inkubatora</td>
 <td rowspan="2">Ministarstvo poduzetništva i obrta</td>
 <td rowspan="2">Hrvatska agencija za malo gospodarstvo, inovacije i investicije</td>
 </tr>
-
 <tr>
 <td>Podupiranje kapaciteta MSP-ova za rast na regionalnim, državnim i međunarodnim tržištima te njihovom provođenju inovacijskih procesa</td>
 </tr>
-
 <tr>
 <td rowspan="3">Promicanje energetske učinkovitosti i obnovljivih izvora energije</td>
 <td>Podupiranje energetske učinkovitosti i korištenje obnovljivih izvora energije u poduzećima</td>
 <td>Ministarstvo gospodarstva</td>
 <td rowspan="2">Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td>Podupiranje energetske učinkovitosti, pametnog gospodarenja energijom i korištenje obnovljivih izvora energije u javnoj infrastrukturi, uključujući javne zgrade i zgrade stambenog sektora</td>
 <td>Ministarstvo graditeljstva i prostornoga uređenja</td>
 </tr>
-
 <tr>
 <td>Razvoj i provedba pametnih sustava distribucije koji djeluju pri niskim i srednjim razinama napona</td>
 <td>Ministarstvo gospodarstva</td>
 <td>Ministarstvo gospodarstva</td>
 </tr>
-
 <tr>
 <td rowspan="2">Klimatske promjene i upravljanje rizicima</td>
 <td>Podupiranje ulaganja za prilagodbu na klimatske promjene, uključujući pristupe temeljene na ekosustavu</td>
 <td>Ministarstvo zaštite okoliša i prirode</td>
 <td>Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td>Promicanje ulaganja koja se odnose na posebne rizike, osiguranje otpornosti na katastrofe i razvoj sustava za upravljanje katastrofama</td>
 <td>Ministarstvo poljoprivrede</td>
 <td>Hrvatske vode</td>
 </tr>
-
 <tr>
 <td rowspan="6">Zaštita okoliša i održivost resursa</td>
 <td>Očuvanje, zaštita, promicanje i razvoj prirodne i kulturne baštine</td>
 <td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td rowspan="2">Aktivnosti kojima se poboljšava urbani okoliš, revitalizacija gradova, obnova i dekontaminacija nekadašnjeg industrijskog zemljišta (uključujući prenamijenjena područja), smanjenje zagađenja zraka i promicanje mjera za smanjenje buke</td>
 <td>Ministarstvo zaštite okoliša i prirode</td>
 <td>Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td>Ulaganje u sektor otpada kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td>
 <td>Ministarstvo zaštite okoliša i prirode</td>
 <td>Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td>Ulaganje u vodni sektor kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td>
 <td>Ministarstvo poljoprivrede</td>
 <td>Hrvatske vode</td>
 </tr>
-
 <tr>
 <td>Zaštita i obnova biološke raznolikosti i tla te promicanje eko usluga, uključujući putem mreže NATURA 2000 i »zelenu« infrastrukturu</td>
 <td>Ministarstvo zaštite okoliša i prirode</td>
 <td>Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td rowspan="4">Povezanost i mobilnost</td>
 <td>Poboljšavanje regionalne mobilnosti povezivanjem sekundarnih i tercijarnih čvorišta s infrastrukturom TEN-T-a, uključujući multimodalna čvorišta</td>
 <td rowspan="4">Ministarstvo pomorstva, prometa i infrastrukture</td>
 <td rowspan="4">Ministarstvo pomorstva, prometa i infrastrukture</td>
 </tr>
-
 <tr>
 <td>Podupiranje multimodalnog jedinstvenog europskog prometnog prostora ulaganjem u TEN-T</td>
 </tr>
-
 <tr>
 <td>Razvoj i unaprjeđenje prometnih sustava prihvatljivih za okoliš (uključujući nisku razinu buke), i prometni sustavi sa niskim emisijama CO2, uključujući unutarnje plovne putove i pomorski prijevoz, luke, multimodalne veze i aerodromsku infrastrukturu, radi promicanja održive regionalne i lokalne mobilnosti</td>
 </tr>
-
 <tr>
 <td>Razvoj i obnova sveobuhvatnih, visokokvalitetnih i interoperabilnih željezničkih sustava te promicanje mjera za smanjenje buke</td>
 </tr>
-
 <tr>
 <td rowspan="2">Socijalno uključivanje i zdravlje</td>
 <td>Ulaganje u zdravstvenu i socijalnu infrastrukturu što pridonosi državnom, regionalnom i lokalnom razvoju, smanjujući nejednakosti u smislu zdravstvenog statusa, promičući socijalnu uključenost, kulturne i rekreativne usluge te prelazak s institucijske skrbi na skrb u zajednici</td>
 <td rowspan="2">Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td rowspan="2">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td>Pružanje podrške fizičkoj, gospodarskoj i socijalnoj obnovi ugroženih zajednica u urbanim i ruralnim područjima</td>
 </tr>
-
 <tr>
 <td>Obrazovanje, vještine i cjeloživotno učenje</td>
 <td>Ulaganje u obrazovanje, vještine i cjeloživotno učenje kroz razvoj infrastrukture za obrazovanje i osposobljavanje</td>
 <td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td>Tehnička pomoć</td>
 <td>Nije primjenjivo</td>
@@ -531,11 +507,9 @@ Zoran Milanović, v. r.
 
 <table>
 <thead>
-
 <tr>
 <td colspan="4"><b>Prikaz 2</b><br> <b>Operativni program iz područja učinkovitih ljudskih potencijala »Učinkoviti ljudski potencijali«</b></td>
 </tr>
-
 <tr>
 <td><b>Prioritetna os</b></td>
 <td><b>Izabrani prioritet ulaganja</b></td>
@@ -544,84 +518,70 @@ Zoran Milanović, v. r.
 </tr>
 </thead>
 <tbody>
-
 <tr>
 <td rowspan="5">Visoka zapošljivost i mobilnost radne snage</td>
 <td rowspan="3">Pristup zapošljavanju za osobe koje traže posao i neaktivne osobe, uključujući one koji su dugotrajno nezaposleni i one koji su daleko od tržišta rada, kao i provedbom lokalnih inicijativa za zapošljavanje i potpore za mobilnost radne snage</td>
 <td>Ministarstvo rada i mirovinskoga sustava<br> Hrvatski zavod za zapošljavanje</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>Ministarstvo rada i mirovinskoga sustava<br> Ministarstvo poduzetništva i obrta</td>
 <td>Hrvatski zavod za zapošljavanje<br> Hrvatska agencija za malo gospodarstvo, inovacije i investicije</td>
 </tr>
-
 <tr>
 <td>Ministarstvo rada i mirovinskoga sustava</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>Održiva integracija mladih na tržište rada, posebno onih koji nisu zaposleni, ne obrazuju se niti osposobljavaju, uključujući mlade koji su izloženi riziku od socijalne isključenosti i mlade iz marginaliziranih zajednica, uključujući provedbom Jamstva za mlade</td>
 <td>Ministarstvo rada i mirovinskoga sustava<br> Hrvatski zavod za zapošljavanje</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>Modernizacija ustanova tržišta rada kao što su javne i privatne službe za zapošljavanje te bolja usklađenost s potrebama tržišta rada, uključujući putem djelovanja koja povećavaju transnacionalnu mobilnost radne snage, kao i putem programa mobilnosti, te bolja suradnja institucija i relevantnih dionika</td>
 <td>Ministarstvo rada i mirovinskoga sustava</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td rowspan="3">Socijalno uključivanje</td>
 <td>Aktivna uključenost, uključujući s ciljem promicanja jednakih mogućnosti te aktivnog sudjelovanja i poboljšanja zapošljivosti</td>
 <td>Ministarstvo socijalne politike i mladih<br> Hrvatski zavod za zapošljavanje</td>
 <td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnog društva</td>
 </tr>
-
 <tr>
 <td>Poboljšanje pristupa pristupačnim, održivim i visokokvalitetnim uslugama, uključujući usluge zdravstvene skrbi i socijalne usluge od općeg interesa</td>
 <td>Ministarstvo socijalne politike i mladih<br> Ministarstvo zdravlja<br> Ministarstvo turizma</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>Promicanje socijalnog poduzetništva i strukovne integracije u socijalnim poduzećima te socijalne ekonomije i ekonomije solidarnosti radi olakšavanja pristupa zapošljavanju</td>
 <td>Ministarstvo rada i mirovinskoga sustava<br> Ministarstvo socijalne politike i mladih<br> Ministarstvo poduzetništva i obrta</td>
 <td>Nacionalna zaklada za razvoj civilnog društva<br> Hrvatska agencija za malo gospodarstvo, inovacije i investicije</td>
 </tr>
-
 <tr>
 <td rowspan="3">Obrazovanje i cjeloživotno učenje</td>
 <td>Poboljšanje kvalitete i učinkovitosti tercijarnog i ekvivalentnog obrazovanja te pristupa njemu radi povećanja sudjelovanja u njemu i njegova stjecanja, posebno za skupine u nepovoljnom položaju</td>
 <td rowspan="2">Ministarstvo znanosti, obrazovanja i sporta</td>
 <td rowspan="3">Agencija za strukovno obrazovanje i obrazovanje odraslih</td>
 </tr>
-
 <tr>
 <td>Povećanje jednakog pristupa cjeloživotnom učenju za sve dobne skupine u formalnom, neformalnom i informalnom okruženju, unaprjeđenje znanja, vještina i kompetencija radne snage, promicanje fleksibilnih načina učenja, između ostalog profesionalnim savjetovanjem i potvrđivanjem stečenih kompetencija</td>
 </tr>
-
 <tr>
 <td>Poboljšanje značaja obrazovnih sustava i sustava osposobljavanja za tržište rada, olakšavanje prijelaza iz škole na posao, jačanje sustava strukovnog obrazovanja i osposobljavanja te njihove kvalitete, između ostalog mehanizmima za predviđanje vještina, prilagodbom nastavnih planova i programa te uvođenjem i razvojem sustava učenja koji se temelje na radu, uključujući dualne sustave učenja i programe naukovanja</td>
 <td>Ministarstvo znanosti obrazovanja i sporta<br> Ministarstvo turizma</td>
 </tr>
-
 <tr>
 <td rowspan="2">Pametna administracija</td>
 <td>Ulaganje u institucionalne kapacitete te u učinkovitost javnih uprava i javnih usluga na nacionalnoj, regionalnoj i lokalnoj razini s ciljem reformiranja, boljeg uređivanja i dobrog upravljanja</td>
 <td>Ministarstvo rada i mirovinskoga sustava</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>Izgradnja kapaciteta za sve dionike koji osiguravaju obrazovanje, cjeloživotno obrazovanje, osposobljavanje te zapošljavanje i socijalne politike, uključujući uz pomoć sektorskih i teritorijalnih paktova radi omogućavanja reformi na nacionalnoj, regionalnoj i lokalnoj razini</td>
 <td>Ministarstvo rada i mirovinskoga sustava<br> Ured Vlade Republike Hrvatske za udruge</td>
 <td>Nacionalna zaklada za razvoj civilnog društva<br> Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>Tehnička pomoć</td>
 <td>Nije primjenjivo</td>
@@ -629,7 +589,6 @@ Zoran Milanović, v. r.
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
 </tbody>
-
 </table>
 
 ---
@@ -690,11 +649,9 @@ Zoran Milanović, v. r.
 ### PRIKAZ POSREDNIČKIH TIJELA NADLEŽNIH ZA PROVEDBU IZABRANIH INVESTICIJSKIH PRIORITETA, PO OPERATIVNOM PROGRAMU
 
 <table><tbody>
-
 <tr>
 <td colspan="6">Prikaz 1<br>Operativni program »Konkurentnost i kohezija«</td>
 </tr>
-
 <tr>
 <td>Prioritetna os</td>
 <td>Izabrani investicijski prioritet</td>
@@ -703,7 +660,6 @@ Zoran Milanović, v. r.
 <td>Posredničko tijelo razine 1</td>
 <td>Posredničko tijelo razine 2</td>
 </tr>
-
 <tr>
 <td rowspan="3">1. Jačanje gospodarstva primjenom istraživanja i inovacija</td>
 <td>Poboljšanje infrastrukture i kapaciteta za istraživanje i inovacije s ciljem razvijanja uspješnosti istraživanja i inovacija te promoviranje centara za kompetencije, posebno onih od europskog interesa</td>
@@ -712,7 +668,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo znanosti, obrazovanja i sporta</td>
 <td>Agencija za strukovno obrazovanje i obrazovanje odraslih<br> Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td rowspan="2">Promicanje poslovnih ulaganja u inovacijama i istraživanjima te razvoj veza i sinergija između poduzeća, IR centara i visokog obrazovanja, posebno razvoja proizvoda i usluga,tehnološko povezivanje, socijalna inovacija, ekološka inovacija, usluge javnog servisa, zahtjevi za poticajima, umrežavanje, klasteri i otvorena inovacija kroz pametnu specijalizaciju, tehnološko jačanje i primijenjeno istraživanje, pilot linije, pred proizvodna provjera valjanosti, napredne proizvodne mogućnosti i početne proizvodnje, posebno u Ključnim tehnologijama koje potiču razvoj i inovacije i širenje tehnologija za opću namjenu</td>
 <td>1b1</td>
@@ -720,13 +675,11 @@ Zoran Milanović, v. r.
 <td rowspan="2">Ministarstvo gospodarstva</td>
 <td>Hrvatska agencija za malo gospodarstvo, inovacije i investicije</td>
 </tr>
-
 <tr>
 <td>1b2</td>
 <td>Jačanje djelatnosti istraživanja, razvoja i inovacija (IRI) poslovnog sektora kroz stvaranje povoljnog inovacijskog okruženja</td>
 <td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td rowspan="2">2. Korištenje informacijskih i komunikacijskih tehnologija</td>
 <td>Proširenje dostupnosti širokopojasnog pristupa i izgradnja mreža velikih brzina te podrška usvajanju novih tehnologija i mreža za digitalno gospodarstvo</td>
@@ -735,7 +688,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo pomorstva, prometa i infrastrukture</td>
 <td>Ministarstvo pomorstva, prometa i infrastrukture</td>
 </tr>
-
 <tr>
 <td>Jačanje aplikacija informacijskih i komunikacijskih tehnologija za e–upravu, e–učenje, e–uključenost, e–kulturu i e–zdravlje</td>
 <td>2c1</td>
@@ -743,7 +695,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td rowspan="4">3. Poslovna konkurentnost</td>
 <td rowspan="2">Promicanje poduzetništva, posebno olakšavajući ekonomsko iskorištavanje novih ideja i poticanje stvaranja novih poduzeća, uključujući putem poslovnih inkubatora</td>
@@ -752,23 +703,19 @@ Zoran Milanović, v. r.
 <td rowspan="4">Ministarstvo poduzetništva i obrta</td>
 <td rowspan="4">Hrvatska agencija za malo gospodarstvo, inovacije i investicije</td>
 </tr>
-
 <tr>
 <td>3a2</td>
 <td>Omogućavanje povoljnog okruženja za razvoj poduzetništva</td>
 </tr>
-
 <tr>
 <td rowspan="2">Podupiranje kapaciteta MSP-ova za rast na regionalnom, nacionalnom i međunarodnom tržištu te angažiranost u inovacijskim procesima</td>
 <td>3d1</td>
 <td>Poboljšani razvoj i rast malih i srednjih poduzetnika na domaćem i stranim tržištima</td>
 </tr>
-
 <tr>
 <td>3d2</td>
 <td>Poboljšana inovativnost malih i srednjih poduzetnika</td>
 </tr>
-
 <tr>
 <td rowspan="7">4. Promicanje energetske učinkovitosti i obnovljivih izvora energije</td>
 <td rowspan="2">Promicanje energetske učinkovitosti i korištenja obnovljivih izvora energije u poduzećima</td>
@@ -777,42 +724,35 @@ Zoran Milanović, v. r.
 <td rowspan="2">Ministarstvo gospodarstva</td>
 <td rowspan="4">Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td>4b2</td>
 <td>Povećanje energetske učinkovitosti i korištenja OIE u privatnom uslužnom sektoru (turizam i trgovina)</td>
 </tr>
-
 <tr>
 <td rowspan="4">Podupiranje energetske učinkovitosti, pametnog upravljanja energijom i korištenja OIE u javnoj infrastrukturi, uključujući javne zgrade, i u stambenom sektoru</td>
 <td>4c1</td>
 <td>Smanjenje potrošnje energije u zgradama javnog sektora</td>
 <td rowspan="2">Ministarstvo graditeljstva i prostornoga uređenja</td>
 </tr>
-
 <tr>
 <td>4c2</td>
 <td>Smanjenje potrošnje energije u stambenim zgradama (u višestambenim zgradama i obiteljskim kućama)</td>
 </tr>
-
 <tr>
 <td>4c3</td>
 <td>Povećanje učinkovitosti sustava toplinarstva</td>
 <td rowspan="3">Ministarstvo gospodarstva</td>
 <td rowspan="3">Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td>4c4</td>
 <td>Povećanje učinkovitosti javne rasvjete</td>
 </tr>
-
 <tr>
 <td>Razvoj i provedba pametnih sustava distribucije koji djeluju pri niskim i srednjim razinama napona</td>
 <td>4d1</td>
 <td>Pilot-projekt uvođenja naprednih mreža</td>
 </tr>
-
 <tr>
 <td rowspan="2">5. Klimatske promjene i upravljanje rizicima</td>
 <td>Podupiranje ulaganja za prilagodbu na klimatske promjene, uključujući pristupe temeljene na ekosustavu</td>
@@ -821,7 +761,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo zaštite okoliša i prirode</td>
 <td>Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td>Promicanje ulaganja koja se odnose na posebne rizike, osiguranje otpornosti na katastrofe i razvoj sustava za upravljanje katastrofama</td>
 <td>5b1</td>
@@ -829,7 +768,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo poljoprivrede</td>
 <td>Hrvatske vode</td>
 </tr>
-
 <tr>
 <td rowspan="10">6. Zaštita okoliša i održivost resursa</td>
 <td rowspan="2">Očuvanje, zaštita, promicanje i razvoj prirodne i kulturne baštine</td>
@@ -838,12 +776,10 @@ Zoran Milanović, v. r.
 <td rowspan="2">Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td rowspan="2">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td>6c2</td>
 <td>Povećanje atraktivnosti, edukativnog kapaciteta i održivog upravljanja odredištima prirodne baštine</td>
 </tr>
-
 <tr>
 <td rowspan="2">Aktivnosti kojima se poboljšava urbani okoliš, revitalizacija gradova, obnova i dekontaminacija nekadašnjeg industrijskog zemljišta (uključujući prenamijenjena područja), smanjenje zagađenja zraka i promicanje mjera za smanjenje buke</td>
 <td>6e1</td>
@@ -851,14 +787,12 @@ Zoran Milanović, v. r.
 <td>Ministarstvo zaštite okoliša i prirode</td>
 <td>Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td>6e2</td>
 <td>Obnova brownfield lokacija (bivša vojna i/ili industrijska područja) unutar ITU</td>
 <td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td>Ulaganje u sektor otpada kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td>
 <td>6i1</td>
@@ -866,7 +800,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo zaštite okoliša i prirode</td>
 <td>Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td rowspan="2">Ulaganje u vodni sektor kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td>
 <td>6ii1</td>
@@ -874,12 +807,10 @@ Zoran Milanović, v. r.
 <td rowspan="2">Ministarstvo poljoprivrede</td>
 <td rowspan="2">Hrvatske vode</td>
 </tr>
-
 <tr>
 <td>6ii2</td>
 <td>Razvoj sustava prikupljanja i obrade otpadnih voda s ciljem doprinosa poboljšanju stanja voda</td>
 </tr>
-
 <tr>
 <td rowspan="3">Zaštita i obnova biološke raznolikosti i tla te promicanje eko usluga, uključujući NATURA 2000 i »zelenu« infrastrukturu</td>
 <td>6iii1</td>
@@ -887,17 +818,14 @@ Zoran Milanović, v. r.
 <td rowspan="3">Ministarstvo zaštite okoliša i prirode</td>
 <td rowspan="3">Fond za zaštitu okoliša i energetsku učinkovitost</td>
 </tr>
-
 <tr>
 <td>6iii2</td>
 <td>Uspostava okvira za održivo upravljanje bioraznolikošću (primarno Natura 2000)</td>
 </tr>
-
 <tr>
 <td>6iii3</td>
 <td>Razminiranje, obnova i zaštita šuma i šumskog zemljišta u zaštićenim i Natura 2000 područjima</td>
 </tr>
-
 <tr>
 <td rowspan="7">7. Povezanost i mobilnost</td>
 <td>Podupiranje multimodalnog jedinstvenog europskog prometnog prostora ulaganjem u TEN–T</td>
@@ -906,41 +834,34 @@ Zoran Milanović, v. r.
 <td rowspan="7">Ministarstvo pomorstva, prometa i infrastrukture</td>
 <td rowspan="7">Ministarstvo pomorstva, prometa i infrastrukture</td>
 </tr>
-
 <tr>
 <td>Poboljšavanje regionalne mobilnosti povezivanjem sekundarnih i tercijarnih čvorišta s infrastrukturom TEN–T–a, uključujući multimodalna čvorišta</td>
 <td>7b1</td>
 <td>Poboljšanje cestovne sigurnosti u dijelovima s visokom razinom mješovitog prometa</td>
 </tr>
-
 <tr>
 <td>Podupiranje multimodalnog jedinstvenog europskog prometnog prostora ulaganjem u TEN–T</td>
 <td>7i1</td>
 <td>Povećanje teretnog prometa na unutarnjim vodnim putovima</td>
 </tr>
-
 <tr>
 <td rowspan="3">Razvoj i unapređenje prometnih sustava prihvatljivih za okoliš (uključujući one s niskom razinom buke), i prometni sustavi s niskim emisijama CO2, uključujući unutarnje plovne putove i pomorski prijevoz, luke, multimodalne veze i aerodromsku infrastrukturu, radi promicanja održive regionalne i lokalne mobilnosti</td>
 <td>7ii1</td>
 <td>Poboljšanje dostupnosti naseljenih otoka za njihove stanovnika</td>
 </tr>
-
 <tr>
 <td>7ii2</td>
 <td>Povećanje broja putnika u javnom prijevozu</td>
 </tr>
-
 <tr>
 <td>7ii3</td>
 <td>Poboljšanje dostupnosti Dubrovnika zrakom</td>
 </tr>
-
 <tr>
 <td>Razvoj i obnova sveobuhvatnih, visokokvalitetnih i interoperabilnih željezničkih sustava te promicanje mjera za smanjenje buke</td>
 <td>7iii1</td>
 <td>Povećanje uporabe i važnosti željezničke mreže</td>
 </tr>
-
 <tr>
 <td rowspan="5">8. Socijalno uključivanje i zdravlje</td>
 <td rowspan="4">Ulaganje u zdravstvenu i socijalnu infrastrukturu što pridonosi nacionalnom, regionalnom i lokalnom razvoju, smanjujući nejednakosti u smislu zdravstvenog statusa, promičući socijalnu uključenost, kulturne i rekreativne usluge te prelazak s institucionalne skrbi na skrb u zajednici</td>
@@ -949,28 +870,23 @@ Zoran Milanović, v. r.
 <td rowspan="5">Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td rowspan="5">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td>9a2</td>
 <td>Poboljšanje učinkovitosti i dostupnosti bolničkog liječenja</td>
 </tr>
-
 <tr>
 <td>9a3</td>
 <td>Promicanje socijalne uključenosti i smanjenje nejednakosti kroz poboljšani pristup socijalnim uslugama te prelazak s institucionalne skrbi na skrb u zajednici putem poboljšane socijalne infrastrukture</td>
 </tr>
-
 <tr>
 <td>9a4</td>
 <td>Provedba pilot aktivnosti koje imaju za cilj promociju socijalne uključenosti i smanjenje siromaštva ratnih veterana i civilnih žrtava Domovinskog rata</td>
 </tr>
-
 <tr>
 <td>Pružanje podrške fizičkoj, gospodarskoj i socijalnoj obnovi ugroženih zajednica u urbanim i ruralnim područjima</td>
 <td>9b1</td>
 <td>Održiva fizička, socijalna i gospodarska regeneracija pet depriviranih pilot područja s ciljem smanjenja socijalnih nejednakosti, isključenosti i siromaštva</td>
 </tr>
-
 <tr>
 <td rowspan="3">9. Obrazovanje, vještine i cjeloživotno učenje</td>
 <td rowspan="3">Ulaganje u obrazovanje, vještine i cjeloživotno učenje kroz razvoj infrastrukture za obrazovanje i osposobljavanje</td>
@@ -979,17 +895,14 @@ Zoran Milanović, v. r.
 <td rowspan="3">Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td rowspan="3">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td>10a2</td>
 <td>Modernizacija, unaprjeđenje i povećanje infrastrukture studentskog smještaja u visokom obrazovanju s ciljem poboljšanja pristupa visokom obrazovanju te završetak studija za studente u nepovoljnom položaju</td>
 </tr>
-
 <tr>
 <td>10a3</td>
 <td>Povećanje relevantnosti strukovnog obrazovanja kroz poboljšanje uvjeta za stjecanje praktičnih vještina u ciljanim sektorima srednjeg strukovnog obrazovanja s ciljem postizanja veće zapošljivosti učenika srednjeg strukovnog obrazovanja</td>
 </tr>
-
 <tr>
 <td rowspan="3">10. Tehnička pomoć</td>
 <td rowspan="3">Nije primjenjivo</td>
@@ -998,12 +911,10 @@ Zoran Milanović, v. r.
 <td rowspan="3">Ministarstvo regionalnoga razvoja i fondova Europske unije</td>
 <td rowspan="3">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td>
 </tr>
-
 <tr>
 <td>TA2</td>
 <td>Podrška učinkovitoj provedbi, praćenju i evaluaciji programa</td>
 </tr>
-
 <tr>
 <td>TA3</td>
 <td>Podrška informiranju javnosti i podizanju kapaciteta potencijalnih korisnika za pripremu projekata i njihovu provedbu</td>
@@ -1012,11 +923,9 @@ Zoran Milanović, v. r.
 </table>
 
 <table><tbody>
-
 <tr>
 <td colspan="6">Prikaz 2<br>Operativni program »Učinkoviti ljudski potencijali«</td>
 </tr>
-
 <tr>
 <td>Prioritetna os </td>
 <td>Izabrani investicijski prioritet</td>
@@ -1025,7 +934,6 @@ Zoran Milanović, v. r.
 <td>Posredničko tijelo razine 1</td>
 <td>Posredničko tijelo razine 2</td>
 </tr>
-
 <tr>
 <td rowspan="7">1. Visoka zapošljivost i mobilnost radne snage</td>
 <td rowspan="3">Pristup zapošljavanju za osobe koje traže posao i neaktivne osobe, uključujući one koji su dugotrajno nezaposleni i one koji su daleko od tržišta rada, kao i provedbom lokalnih inicijativa za zapošljavanje i potpore za mobilnost radne snage</td>
@@ -1034,17 +942,14 @@ Zoran Milanović, v. r.
 <td rowspan="3">Ministarstvo rada i mirovinskoga sustava</td>
 <td rowspan="3">Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>8.i.2</td>
 <td>Povećanje održivog samozapošljavanja nezaposlenih osoba, posebice žena</td>
 </tr>
-
 <tr>
 <td>8.i.3</td>
 <td>Očuvanje radnih mjesta, zadržavanje u zaposlenju radnika koji su proglašeni viškom te jačanje brzog ponovnog zapošljavanja osoba koje su postale nezaposlene nakon što su proglašene viškom</td>
 </tr>
-
 <tr>
 <td>Održiva integracija mladih na tržište rada (ESF), posebno onih koji nisu zaposleni, ne obrazuju se niti osposobljavaju, uključujući mlade koji su izloženi riziku od socijalne isključenosti i mlade iz marginaliziranih zajednica, uključujući provedbom Garancije za mlade</td>
 <td>8.ii.1 (ESF)</td>
@@ -1052,7 +957,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo rada i mirovinskoga sustava</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>Održiva integracija mladih na tržište rada (Inicijativa za zapošljavanje mladih IZM-YEI), posebno onih koji nisu zaposleni, ne obrazuju se niti osposobljavaju, uključujući mlade koji su izloženi riziku od socijalne isključenosti i mlade iz marginaliziranih zajednica, uključujući provedbom Garancije za mlade</td>
 <td>8.ii.1 (YEI)</td>
@@ -1060,7 +964,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo rada i mirovinskoga sustava<br> Ministarstvo znanosti, obrazovanja i sporta</td>
 <td>Hrvatski zavod za zapošljavanje<br> Agencija za strukovno obrazovanje i obrazovanje odraslih</td>
 </tr>
-
 <tr>
 <td rowspan="2">Modernizacija ustanova tržišta rada kao što su javne i privatne službe za zapošljavanje te bolja usklađenost s potrebama tržišta rada, uključujući putem djelovanja koja povećavaju transnacionalnu mobilnost radne snage, kao i putem programa mobilnosti, te bolja suradnja institucija i relevantnih dionika</td>
 <td>8.vii.1</td>
@@ -1068,12 +971,10 @@ Zoran Milanović, v. r.
 <td rowspan="2">Ministarstvo rada i mirovinskoga sustava</td>
 <td rowspan="2">Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>8.vii.2</td>
 <td>Povećanje dostupnosti i kvalitete javno dostupnih informacija i usluga na tržištu rada, uključujući mjere APZ-a</td>
 </tr>
-
 <tr>
 <td rowspan="5">2. Socijalno uključivanje</td>
 <td rowspan="2">Aktivna uključenost, uključujući s ciljem promicanja jednakih mogućnosti te aktivnog sudjelovanja i poboljšanja zapošljivosti</td>
@@ -1082,14 +983,12 @@ Zoran Milanović, v. r.
 <td>Ministarstvo socijalne politike i mladih<br> Ministarstvo rada i mirovinskoga sustava<br> Ministarstvo kulture</td>
 <td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnoga društva</td>
 </tr>
-
 <tr>
 <td>9.i.2</td>
 <td>Jačanje aktivnog uključivanja kroz implementaciju integriranih projekata za obnovu 5 nerazvijenih pilot područja.</td>
 <td>Ministarstvo rada i mirovinskoga sustava</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td rowspan="2">Poboljšanje pristupa pristupačnim, održivim i visokokvalitetnim uslugama, uključujući usluge zdravstvene skrbi i socijalne usluge od općeg interesa</td>
 <td>9.iv.1</td>
@@ -1097,14 +996,12 @@ Zoran Milanović, v. r.
 <td>Ministarstvo zdravlja</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>9.iv.2</td>
 <td>Poboljšanje pristupa visokokvalitetnim socijalnim uslugama, uključujući podršku procesu deinstitucionalizacije</td>
 <td>Ministarstvo socijalne politike i mladih<br> Ministarstvo turizma</td>
 <td>Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>Promicanje društvenog poduzetništva i strukovne integracije u društvenim poduzećima te društvene ekonomije i ekonomije solidarnosti radi olakšavanja pristupa zapošljavanju</td>
 <td>9.v.1</td>
@@ -1112,7 +1009,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo rada i mirovinskoga sustava<br> Ministarstvo socijalne politike i mladih</td>
 <td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnoga društva</td>
 </tr>
-
 <tr>
 <td rowspan="7">3. Obrazovanje i cjeloživotno učenje</td>
 <td rowspan="3">Poboljšanje kvalitete i učinkovitosti tercijarnog i ekvivalentnog obrazovanja te pristupa njemu radi povećanja sudjelovanja u njemu i njegova stjecanja, posebno za skupine u nepovoljnom položaju</td>
@@ -1121,40 +1017,33 @@ Zoran Milanović, v. r.
 <td rowspan="6">Ministarstvo znanosti, obrazovanja i sporta</td>
 <td rowspan="7">Agencija za strukovno obrazovanje i obrazovanje odraslih</td>
 </tr>
-
 <tr>
 <td>10.ii.2</td>
 <td>Povećanje stope stečenog visokog obrazovanja</td>
 </tr>
-
 <tr>
 <td>10.ii.3</td>
 <td>Poboljšanje uvjeta rada za hrvatske istraživače</td>
 </tr>
-
 <tr>
 <td rowspan="3">Povećanje jednakog pristupa cjeloživotnom učenju za sve dobne skupine u formalnom, neformalnom i informalnom okruženju, unapređenje znanja, vještina i kompetencija radne snage, promicanje fleksibilnih načina učenja, između ostalog profesionalnim savjetovanjem i potvrđivanjem stečenih kompetencija</td>
 <td>10.iii.1</td>
 <td>Omogućavanje boljeg pristupa obrazovanju učenicima u nepovoljnom položaju u pred-tercijarnom obrazovanju</td>
 </tr>
-
 <tr>
 <td>10.iii.2</td>
 <td>Promicanje pristupa cjeloživotnom učenju kroz unaprjeđivanje ključnih kompetencija studenata, te primjenu informacijskih i komunikacijskih tehnologija u poučavanju i učenju</td>
 </tr>
-
 <tr>
 <td>10.iii.3</td>
 <td>Poboljšanje obrazovnog sustava za odrasle i unapređenje vještina i kompetencija odraslih polaznika</td>
 </tr>
-
 <tr>
 <td>Poboljšanje značaja obrazovnih sustava i sustava osposobljavanja za tržište rada, olakšavanje prijelaza iz škole na posao, jačanje sustava strukovnog obrazovanja i osposobljavanja te njihove kvalitete, između ostalog mehanizmima za predviđanje vještina, prilagodbom nastavnih planova i programa te uvođenjem i razvojem sustava učenja koji se temelje na radu, uključujući dualne sustave učenja i programe naukovanja</td>
 <td>10.iv.1</td>
 <td>Modernizacija ponude strukovnog obrazovanja te podizanje njegove kvalitete radi povećanja zapošljivosti učenika kao i mogućnosti za daljnje obrazovanje</td>
 <td>Ministarstvo znanosti, obrazovanja i sporta<br> Ministarstvo turizma</td>
 </tr>
-
 <tr>
 <td rowspan="3">4. Dobro upravljanje</td>
 <td rowspan="2">Ulaganje u institucionalne kapacitete te u učinkovitost javnih uprava i javnih usluga na nacionalnoj, regionalnoj i lokalnoj razini s ciljem reformiranja, boljeg uređivanja i dobrog upravljanja</td>
@@ -1163,12 +1052,10 @@ Zoran Milanović, v. r.
 <td rowspan="2">Ministarstvo rada i mirovinskoga sustava</td>
 <td rowspan="2">Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>11.i.2</td>
 <td>Unapređenje kapaciteta i funkcioniranja pravosuđa kroz poboljšanje upravljanja i kompetencija</td>
 </tr>
-
 <tr>
 <td>Izgradnja kapaciteta za sve dionike koji osiguravaju obrazovanje, cjeloživotno obrazovanje, osposobljavanje te zapošljavanje i socijalne politike, uključujući uz pomoć sektorskih i teritorijalnih paktova radi omogućavanja reformi na nacionalnoj, regionalnoj i lokalnoj razini</td>
 <td>11.ii.1</td>
@@ -1176,7 +1063,6 @@ Zoran Milanović, v. r.
 <td>Ministarstvo rada i mirovinskoga sustava<br> Ured za udruge<br> Ministarstvo kulture</td>
 <td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnoga društva</td>
 </tr>
-
 <tr>
 <td rowspan="3">5. Tehnička pomoć</td>
 <td rowspan="3">Nije primjenjivo</td>
@@ -1185,12 +1071,10 @@ Zoran Milanović, v. r.
 <td rowspan="3">Ministarstvo rada i mirovinskoga sustava</td>
 <td rowspan="3">Hrvatski zavod za zapošljavanje</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>Podrška potencijalnim korisnicima i regionalnim dionicima u uspješnom prijavljivanju i provedbi ESF projekata jačanjem njihovih kapaciteta i razvijanjem kvalitetne zalihe budućih projekata</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>Podrška komunikacijskim aktivnostima u svrhu djelotvorne provedbe Komunikacijske strategije i osiguranje kvalitetnog informiranja potencijalnih korisnika i voditelja projekata o mogućnostima i uvjetima financiranja u okviru Operativnog programa</td>
@@ -1228,3 +1112,427 @@ Zagreb, 26. studenoga 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (NN 15/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/15/351*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 7. stavka 7. podstavka 1. Zakona o uspostavi institucionalnog okvira za provedbu europskih strukturnih i investicijskih fondova u Republici Hrvatskoj u financijskom razdoblju 2014. – 2020. (»Narodne novine«, broj 92/14), Vlada Republike Hrvatske je na sjednici održanoj 16. veljače 2017. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O TIJELIMA U SUSTAVIMA UPRAVLJANJA I KONTROLE KORIŠTENJA EUROPSKOG SOCIJALNOG FONDA, EUROPSKOG FONDA ZA REGIONALNI RAZVOJ I KOHEZIJSKOG FONDA, U VEZI S CILJEM »ULAGANJE ZA RAST I RADNA MJESTA«**
+
+#### Članak 1.
+
+U Uredbi o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (»Narodne novine«, br. 107/14, 23/15 i 129/15) u članku 4. stavku 2. točka 3. briše se.
+
+Dosadašnja točka 4. postaje točka 3.
+
+#### Članak 2.
+
+U članku 5. stavku 3. točki 10. riječi: »Posredničkom tijelu razine 1 i Posredničkom tijelu razine 2« zamjenjuju se riječima: »Posredničkim tijelima«.
+
+Iza stavka 3. dodaju se stavci 4. – 7. koji glase:
+
+»(4) Pored funkcija navedenih u stavku 3. ovoga članka, Upravljačko tijelo za Operativni program iz članka 4. stavka 2. točke 1.a) Zakona (u daljnjem tekstu: Upravljačko tijelo za Operativni program »Konkurentnost i kohezija«), u odnosu na specifične ciljeve iz članka 9.a stavaka 1. i 2. ove Uredbe koji se provode kao integrirana teritorijalna ulaganja, obavlja i sljedeće dodatne funkcije:
+
+1. planira proračun vezano uz korištenje i kontrolu korištenja Fondova
+
+2. osigurava financiranje projekata iz javnih sredstava
+
+3. izrađuje kriterije za odabir projekata te ih podnosi na odobravanje Odboru za praćenje i, ako je primjenjivo, sudjeluje u odabiru projekata u skladu s člankom 125. stavkom 3. točkama (a) i (b) Uredbe (EU) br. 1303/2013
+
+4. izrađuje upute za prijavitelje
+
+5. objavljuje pozive na dodjelu bespovratnih sredstava
+
+6. dostavlja tijelu iz članka 3. stavka 3. ove Uredbe zahtjeve za isplatu javnih sredstava korisnicima te odobrava i osigurava ukupnost plaćanja istih
+
+7. osigurava povrat nepravilno utrošenih sredstava od strane korisnika, vodi evidenciju o povratima te dostavlja tijelu iz članka 3. ove Uredbe informacije o utvrđenim i izvršenim povratima.
+
+(5) Funkcije iz stavka 4. ovoga članka Upravljačko tijelo za Operativni program »Konkurentnost i kohezija« obavlja u suradnji s Posredničkim tijelima.
+
+(6) Upravljačko tijelo za Operativni program »Konkurentnost i kohezija« koordinira provedbu mehanizma integriranih teritorijalnih ulaganja na nacionalnoj razini.
+
+(7) U okviru obavljanja funkcije iz stavka 6. ovoga članka, u cilju utvrđivanja međusobnih prava i obveza, Upravljačko tijelo za Operativni program »Konkurentnost i kohezija« sklapa sporazum s Upravljačkim tijelom za Operativni program iz članka 4. stavka 2. točke 1.b) Zakona (u daljnjem tekstu: Upravljačko tijelo za Operativni program »Učinkoviti ljudski potencijali«).«.
+
+#### Članak 3.
+
+U članku 6. stavku 1. riječi: »Posrednička tijela razine 1 i Posrednička tijela razine 2 (u daljnjem tekstu: Posrednička tijela),« zamjenjuju se riječima: »Posrednička tijela«.
+
+U stavku 2. iza riječi: »Posredničko tijelo razine 2« dodaju se riječi: »te Upravljačko tijelo za Operativni program »Konkurentnost i kohezija« i Posredničko tijelo integriranih teritorijalnih ulaganja«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Ako se operacija koja funkcionalno predstavlja jedinstvenu investiciju financira iz više Fondova (iz Europskog socijalnog fonda i/ili Europskog fonda za regionalni razvoj i/ili Kohezijskog fonda), Upravljačko tijelo za Operativni program »Konkurentnost i kohezija«, Upravljačko tijelo za Operativni program »Učinkoviti ljudski potencijali« i nadležna posrednička tijela sklapaju sporazum o međusobnoj suradnji u svrhu utvrđivanja postupanja u odnosu na provedbu i praćenje provedbe operacije.«.
+
+#### Članak 4.
+
+U članku 7. točki 5. iza riječi: »tijela« dodaju se riječi: »i projekata koji se kao integrirana teritorijalna ulaganja provode kroz specifične ciljeve iz članka 9.a stavaka 1. i 2. ove Uredbe;«.
+
+U točkama 6. i 7. točka zarez zamjenjuje se zarezom te se dodaju riječi: »osim kod projekata koji se kao integrirana teritorijalna ulaganja provode kroz specifične ciljeve iz članka 9.a stavaka 1. i 2. ove Uredbe;«.
+
+U točki 9. iza riječi: »tijela« dodaju se riječi: »i projekata koji se kao integrirana teritorijalna ulaganja provode kroz specifične ciljeve iz članka 9.a stavaka 1. i 2. ove Uredbe;«.
+
+U točki 10. točka zarez zamjenjuje se zarezom te se dodaju riječi: »osim kod projekata koji se kao integrirana teritorijalna ulaganja provode kroz specifične ciljeve iz članka 9.a stavaka 1. i 2. ove Uredbe;«.
+
+#### Članak 5.
+
+Iza članka 9. dodaju se članci 9.a i 9.b koji glase:
+
+»Članak 9.a
+
+(1) Specifični ciljevi 4c3 (Povećanje učinkovitosti sustava toplinarstva) i 6e2 (Obnova brownfield lokacija (bivša vojna i/ili industrijska područja) unutar ITU) Operativnog programa »Konkurentnost i kohezija« provode se kao integrirana teritorijalna ulaganja iz članka 36. Uredbe (EU) br. 1303/2013.
+
+(2) Specifični ciljevi 3a2 (Omogućavanje povoljnog okruženja za razvoj poduzetništva), 6c1 (Povećanje zapošljavanja i turističkih izdataka kroz unaprjeđenje kulturne baštine) i 7ii2 (Povećanje broja putnika u javnom prijevozu) Operativnog programa »Konkurentnost i kohezija«, se mogu u cijelosti ili djelomično provoditi kao integrirana teritorijalna ulaganja.
+
+(3) Okvirna financijska sredstva iz svake prioritetne osi, koja se odnose na specifične ciljeve iz stavaka 1. i 2. ovoga članka, u dijelu u kojem se provode kao integrirana teritorijalna ulaganja, utvrđena su u Operativnom programu »Konkurentnost i kohezija«.
+
+(4) Posredničko tijelo integriranih teritorijalnih ulaganja jest grad središte urbanog područja u kojem se provode integrirana teritorijalna ulaganja (područja integriranih teritorijalnih ulaganja).
+
+(5) U odnosu na specifične ciljeve iz stavaka 1. i 2. ovoga članka, Posredničko tijelo integriranih teritorijalnih ulaganja obavlja aktivnost ocjenjivanja kvalitete projektnih prijedloga.
+
+(6) Pored delegirane aktivnosti ocjenjivanja kvalitete projektnih prijedloga, Posredničko tijelo integriranih teritorijalnih ulaganja obavlja i sljedeće dodatne aktivnosti:
+
+– surađuje s Koordinacijskim tijelom, Upravljačkim tijelom, Posredničkim tijelima tijekom provedbe i praćenja Operativnog programa
+
+– sudjeluje u radu Odbora za praćenje Operativnog programa
+
+– sudjeluje u izradi kriterija za odabir projekata
+
+– sudjeluje u izradi uputa za prijavitelje
+
+– sudjeluje u aktivnostima zatvaranja Operativnog programa
+
+– izrađuje priručnike o internim procedurama i odgovarajućem revizijskom tragu
+
+– ako je ujedno i korisnik u okviru Operativnog programa, osigurava odgovarajuće razdvajanje funkcija u skladu s člankom 125. stavkom 7. Uredbe (EU) br. 1303/2013
+
+– osigurava čuvanje dokumenata i evidencija o provedbi funkcija radi osiguravanja odgovarajućeg revizijskog traga
+
+– u opsegu u kojem je primjenjivo, u sustav iz članka 125. stavka 2. točke (d) Uredbe (EU) br. 1303/2013 prikuplja, unosi, pohranjuje i razvrstava podatke sukladno točki (e) istoga stavka
+
+– provodi aktivnosti prevencije, otkrivanja i ispravljanja nepravilnosti te utvrđuje mjere za suzbijanje prijevara, uzimajući u obzir utvrđene rizike.
+
+(7) Ako je tako utvrđeno u Sporazumu iz članka 6. stavka 2. ove Uredbe i u opsegu u kojem je to utvrđeno, a u skladu sa smjernicama iz članka 5. stavka 3. točki 3. i 4. ove Uredbe, Posredničko tijelo integriranih teritorijalnih ulaganja obavlja i dodatne zadaće i aktivnosti.
+
+#### Članak 9.b
+
+(1) U odnosu na projekte koji se financiraju u okviru Operativnog programa »Konkurentnost i kohezija« i Operativnog programa »Učinkoviti ljudski potencijali«, Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije prethodno (ex-ante) provjerava javne nabave koje korisnici bespovratnih sredstava provode u svrhu provedbe projekata.
+
+(2) Kriterije na temelju kojih će se odrediti javne nabave koje će prethodno (ex-ante) provjeravati Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije, određuje Upravljačko tijelo za svaki Operativni program iz stavka 1. ovoga članka, u smjernicama iz članka 5. stavka 3. točke 3. ove Uredbe.
+
+(3) Prethodne (ex-ante) provjere javnih nabava koje na temelju kriterija iz stavka 2. ovoga članka ne ulaze u opseg javnih nabava koje prethodno (ex-ante) provjerava Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije, provode nadležna posrednička tijela, u skladu sa smjernicama iz članka 5. stavka 3. točke 3. ove Uredbe te njihovim internim procedurama.«.
+
+#### Članak 6.
+
+Prilog – Prikaz Posredničkih tijela nadležnih za provedbu izabranih investicijskih prioriteta, po Operativnom programu, Prikaz 1 Operativni program »Konkurentnost i kohezija« i Prikaz 2 Operativni program »Učinkoviti ljudski potencijali«, koji je sastavni dio Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (»Narodne novine«, br. 107/14, 23/15 i 129/15), zamjenjuje se novim Prilogom – Prikaz Posredničkih tijela nadležnih za provedbu izabranih investicijskih prioriteta, po Operativnom programu, Prikazom 1 Operativni program »Konkurentnost i kohezija« i Prikazom 2 Operativni program »Učinkoviti ljudski potencijali«, koji je sastavni dio ove Uredbe.
+
+#### Članak 7.
+
+Agencija za strukovno obrazovanje i obrazovanje odraslih i Ministarstvo mora, prometa i infrastrukture dužni su u roku 30 dana od dana stupanja na snagu ove Uredbe dostaviti Središnjoj agenciji za financiranje i ugovaranje programa i projekata Europske unije, odnosno Ministarstvu regionalnoga razvoja i fondova Europske unije pismohranu i drugu dokumentaciju kojom raspolažu i koja proizlazi iz izvršavanja ovlasti na temelju Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (»Narodne novine«, br. 107/14, 23/15 i 129/15), koje se odnose na funkcije Posredničkog tijela razine 2 u pogledu specifičnih ciljeva 1a1, 2a1, 7a1, 7b1, 7i1, 7ii1, 7ii2, 7ii3 i 7iii1, te funkcije Posredničkog tijela razine 1 u pogledu specifičnog cilja 2a1.
+
+#### Članak 8.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-03/38
+
+Urbroj: 50301-25/25-17-3
+
+Zagreb, 16. veljače 2017.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+### PRILOG
+
+PRIKAZ POSREDNIČKIH TIJELA NADLEŽNIH ZA PROVEDBU IZABRANIH INVESTICIJSKIH PRIORITETA, PO OPERATIVNOM PROGRAMU
+
+<table>
+<tr><td colspan="7">Prikaz 1<br>Operativni program »Konkurentnost i kohezija«</td></tr>
+<tr><td>Prioritetna os</td><td>Izabrani investicijski prioritet</td><td>Oznaka specifičnog cilja (OSC)</td><td>Naziv specifičnog cilja</td><td>Posredničko tijelo razine 1</td><td>Posredničko tijelo razine 2</td><td>Posredničko tijelo integriranih teritorijalnih ulaganja</td></tr>
+<tr><td rowspan="3">1. Jačanje gospodarstva primjenom istraživanja i inovacija</td><td>Poboljšanje infrastrukture i kapaciteta za istraživanje i inovacije s ciljem razvijanja uspješnosti istraživanja i inovacija te promoviranje centara za kompetencije, posebno onih od europskog interesa</td><td>1a1</td><td>Povećana sposobnost sektora istraživanja i razvoja (IR) za obnavljanje istraživanja vrhunske kvalitete i zadovoljavanje potreba gospodarstva</td><td>Ministarstvo znanosti i obrazovanja</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td rowspan="2">Promicanje poslovnih ulaganja u inovacijama i istraživanjima te razvoj veza i sinergija između poduzeća, IR centara i visokog obrazovanja, posebno razvoja proizvoda i usluga, tehnološko povezivanje, socijalna inovacija, ekološka inovacija, usluge javnog servisa, zahtjevi za poticajima, umrežavanje, klasteri i otvorena inovacija kroz pametnu specijalizaciju, tehnološko jačanje i primijenjeno istraživanje, pilot linije, pred proizvodna provjera valjanosti, napredne proizvodne mogućnosti i početne proizvodnje, posebno u Ključnim tehnologijama koje potiču razvoj i inovacije i širenje tehnologija za opću namjenu</td><td>1b1</td><td>Novi proizvodi i usluge kao rezultat djelatnosti istraživanja, razvoja i inovacija (IRI)</td><td rowspan="2">Ministarstvo gospodarstva, poduzetništva i obrta</td><td>Hrvatska agencija za malo gospodarstvo, inovacije i investicije</td><td></td></tr>
+<tr><td>1b2</td><td>Jačanje djelatnosti istraživanja, razvoja i inovacija (IRI) poslovnog sektora kroz stvaranje povoljnog inovacijskog okruženja</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td rowspan="2">2. Korištenje informacijskih i komunikacijskih tehnologija</td><td>Proširenje dostupnosti širokopojasnog pristupa i izgradnja mreža velikih brzina te podrška usvajanju novih tehnologija i mreža za digitalno gospodarstvo</td><td>2a1</td><td>Razvoj infrastrukturne širokopojasne mreže sljedeće generacije u područjima bez infrastrukture širokopojasne mreže sljedeće generacije i bez dovoljno komercijalnog interesa, za maksimalno povećanje socijalne i ekonomske dobrobiti</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>Jačanje aplikacija informacijskih i komunikacijskih tehnologija za e–upravu, e–učenje, e–uključenost, e–kulturu i e–zdravlje</td><td>2c1</td><td>Povećanje korištenja IKT-a u komunikaciji između građana i javne uprave putem uspostave IKT koordinacijske strukture i softverskih rješenja</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td rowspan="4">3. Poslovna konkurentnost</td><td rowspan="2">Promicanje poduzetništva, posebno olakšavajući ekonomsko iskorištavanje novih ideja i poticanje stvaranja novih poduzeća, uključujući putem poslovnih inkubatora</td><td>3a1</td><td>Bolji pristup financiranju za male i srednje poduzetnike</td><td rowspan="4">Ministarstvo gospodarstva, poduzetništva i obrta</td><td rowspan="4">Hrvatska agencija za malo gospodarstvo, inovacije i investicije (osim za specifični cilj 3a1 koji se provodi putem financijskih instrumenata iz Glave IV. Uredbe (EU) br. 1303/2013)<br> Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije (za specifični cilj 3a2, u dijelu u kojem se provodi kao integrirano teritorijalno ulaganje – isključivo Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije)</td><td></td></tr>
+<tr><td>3a2</td><td>Omogućavanje povoljnog okruženja za razvoj poduzetništva</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td rowspan="2">Podupiranje kapaciteta MSP-ova za rast na regionalnom, nacionalnom i međunarodnom tržištu te angažiranost u inovacijskim procesima</td><td>3d1</td><td>Poboljšani razvoj i rast malih i srednjih poduzetnika na domaćem i stranim tržištima</td><td></td></tr>
+<tr><td>3d2</td><td>Poboljšana inovativnost malih i srednjih poduzetnika</td><td></td></tr>
+<tr><td rowspan="7">4. Promicanje energetske učinkovitosti i obnovljivih izvora energije</td><td rowspan="2">Promicanje energetske učinkovitosti i korištenja obnovljivih izvora energije u poduzećima</td><td>4b1</td><td>Povećanje energetske učinkovitosti i korištenja OIE u proizvodnim industrijama</td><td rowspan="2">Ministarstvo zaštite okoliša i energetike</td><td rowspan="4">Fond za zaštitu okoliša i energetsku učinkovitost</td><td rowspan="4"></td></tr>
+<tr><td>4b2</td><td>Povećanje energetske učinkovitosti i korištenja OIE u privatnom uslužnom sektoru (turizam i trgovina)</td></tr>
+<tr><td rowspan="4">Podupiranje energetske učinkovitosti, pametnog upravljanja energijom i korištenja OIE u javnoj infrastrukturi, uključujući javne zgrade, i u stambenom sektoru</td><td>4c1</td><td>Smanjenje potrošnje energije u zgradama javnog sektora</td><td rowspan="2">Ministarstvo graditeljstva i prostornoga uređenja</td></tr>
+<tr><td>4c2</td><td>Smanjenje potrošnje energije u stambenim zgradama (u višestambenim zgradama i obiteljskim kućama)</td></tr>
+<tr><td>4c3</td><td>Povećanje učinkovitosti sustava toplinarstva</td><td rowspan="3">Ministarstvo zaštite okoliša i energetike</td><td rowspan="3">Fond za zaštitu okoliša i energetsku učinkovitost<br> Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije (za specifični cilj 4c3 koji se provodi kao integrirano teritorijalno ulaganje)</td><td rowspan="3">Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td>4c4</td><td>Povećanje učinkovitosti javne rasvjete</td></tr>
+<tr><td>Razvoj i provedba pametnih sustava distribucije koji djeluju pri niskim i srednjim razinama napona</td><td>4d1</td><td>Pilot-projekt uvođenja naprednih mreža</td></tr>
+<tr><td rowspan="2">5. Klimatske promjene i upravljanje rizicima</td><td>Podupiranje ulaganja za prilagodbu na klimatske promjene, uključujući pristupe temeljene na ekosustavu</td><td>5a1</td><td>Poboljšanje praćenja, predviđanja i planiranja mjera prilagodbe klimatskim promjenama</td><td>Ministarstvo zaštite okoliša i energetike</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td>Promicanje ulaganja koja se odnose na posebne rizike, osiguranje otpornosti na katastrofe i razvoj sustava za upravljanje katastrofama</td><td>5b1</td><td>Jačanje sustava upravljanja katastrofama</td><td>Ministarstvo zaštite okoliša i energetike</td><td>Hrvatske vode</td><td></td></tr>
+<tr><td rowspan="10">6. Zaštita okoliša i održivost resursa</td><td rowspan="2">Očuvanje, zaštita, promicanje i razvoj prirodne i kulturne baštine</td><td>6c1</td><td>Povećanje zapošljavanja i turističkih izdataka kroz unaprjeđenje kulturne baštine</td><td rowspan="2">Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td rowspan="2">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td>6c2</td><td>Povećanje atraktivnosti, edukativnog kapaciteta i održivog upravljanja odredištima prirodne baštine</td><td></td></tr>
+<tr><td rowspan="2">Aktivnosti kojima se poboljšava urbani okoliš, revitalizacija gradova, obnova i dekontaminacija nekadašnjeg industrijskog zemljišta (uključujući prenamijenjena područja), smanjenje zagađenja zraka i promicanje mjera za smanjenje buke</td><td>6e1</td><td>Poboljšanje sustava upravljanja i praćenja kvalitete zraka sukladno Uredbi 2008/50/EZ</td><td>Ministarstvo zaštite okoliša i energetike</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td>6e2</td><td>Obnova brownfield lokacija (bivša vojna i/ili industrijska područja) unutar ITU</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td>Ulaganje u sektor otpada kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td><td>6i1</td><td>Smanjena količina otpada koji se odlaže na odlagališta</td><td>Ministarstvo zaštite okoliša i energetike</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td rowspan="2">Ulaganje u vodni sektor kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td><td>6ii1</td><td>Unaprjeđenje javnog vodoopskrbnog sustava u svrhu osiguranja kvalitete i sigurnosti usluga opskrbe pitkom vodom</td><td rowspan="2">Ministarstvo zaštite okoliša i energetike</td><td rowspan="2">Hrvatske vode</td><td></td></tr>
+<tr><td>6ii2</td><td>Razvoj sustava prikupljanja i obrade otpadnih voda s ciljem doprinosa poboljšanju stanja voda</td><td></td></tr>
+<tr><td rowspan="3">Zaštita i obnova biološke raznolikosti i tla te promicanje eko usluga, uključujući NATURA 2000 i »zelenu« infrastrukturu</td><td>6iii1</td><td>Poboljšano znanje o stanju bioraznolikosti kao temelja za učinkovito praćenje i upravljanje bioraznolikošću</td><td rowspan="3">Ministarstvo zaštite okoliša i energetike</td><td rowspan="3">Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td>6iii2</td><td>Uspostava okvira za održivo upravljanje bioraznolikošću (primarno Natura 2000)</td><td></td></tr>
+<tr><td>6iii3</td><td>Razminiranje, obnova i zaštita šuma i šumskog zemljišta u zaštićenim i Natura 2000 područjima</td><td></td></tr>
+<tr><td rowspan="7">7. Povezanost i mobilnost</td><td>Podupiranje multimodalnog jedinstvenog europskog prometnog prostora ulaganjem u TEN–T</td><td>7a1</td><td>Unaprjeđenje cestovne mreže TEN–T i pristupa cestovnoj mreži TEN–T</td><td rowspan="7">Ministarstvo mora, prometa i infrastrukture</td><td rowspan="7">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>Poboljšavanje regionalne mobilnosti povezivanjem sekundarnih i tercijarnih čvorišta s infrastrukturom TEN–T–a, uključujući multimodalna čvorišta</td><td>7b1</td><td>Poboljšanje cestovne sigurnosti u dijelovima s visokom razinom mješovitog prometa</td><td></td></tr>
+<tr><td>Podupiranje multimodalnog jedinstvenog europskog prometnog prostora ulaganjem u TEN–T</td><td>7i1</td><td>Povećanje teretnog prometa na unutarnjim vodnim putovima</td><td></td></tr>
+<tr><td rowspan="3">Razvoj i unapređenje prometnih sustava prihvatljivih za okoliš (uključujući one s niskom razinom buke), i prometni sustavi s niskim emisijama CO<sub>2</sub>, uključujući unutarnje plovne putove i pomorski prijevoz, luke, multimodalne veze i aerodromsku infrastrukturu, radi promicanja održive regionalne i lokalne mobilnosti</td><td>7ii1</td><td>Poboljšanje dostupnosti naseljenih otoka za njihove stanovnike</td><td></td></tr>
+<tr><td>7ii2</td><td>Povećanje broja putnika u javnom prijevozu</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td>7ii3</td><td>Poboljšanje dostupnosti Dubrovnika zrakom</td><td></td></tr>
+<tr><td>Razvoj i obnova sveobuhvatnih, visokokvalitetnih i interoperabilnih željezničkih sustava te promicanje mjera za smanjenje buke</td><td>7iii1</td><td>Povećanje uporabe i važnosti željezničke mreže</td><td></td></tr>
+<tr><td rowspan="5">8. Socijalno uključivanje i zdravlje</td><td rowspan="4">Ulaganje u zdravstvenu i socijalnu infrastrukturu što pridonosi nacionalnom, regionalnom i lokalnom razvoju, smanjujući nejednakosti u smislu zdravstvenog statusa, promičući socijalnu uključenost, kulturne i rekreativne usluge te prelazak s institucionalne skrbi na skrb u zajednici</td><td>9a1</td><td>Poboljšanje pristupa primarnoj i hitnoj zdravstvenoj zaštiti, s fokusom na udaljena i deprivirana područja</td><td rowspan="5">Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td rowspan="5">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>9a2</td><td>Poboljšanje učinkovitosti i dostupnosti bolničkog liječenja</td><td></td></tr>
+<tr><td>9a3</td><td>Promicanje socijalne uključenosti i smanjenje nejednakosti kroz poboljšani pristup socijalnim uslugama te prelazak s institucionalne skrbi na skrb u zajednici putem poboljšane socijalne infrastrukture</td><td></td></tr>
+<tr><td>9a4</td><td>Provedba pilot aktivnosti koje imaju za cilj promociju socijalne uključenosti i smanjenje siromaštva ratnih veterana i civilnih žrtava Domovinskog rata</td><td></td></tr>
+<tr><td>Pružanje podrške fizičkoj, gospodarskoj i socijalnoj obnovi ugroženih zajednica u urbanim i ruralnim područjima</td><td>9b1</td><td>Održiva fizička, socijalna i gospodarska regeneracija pet depriviranih pilot područja s ciljem smanjenja socijalnih nejednakosti, isključenosti i siromaštva</td><td></td></tr>
+<tr><td rowspan="3">9. Obrazovanje, vještine i cjeloživotno učenje</td><td rowspan="3">Ulaganje u obrazovanje, vještine i cjeloživotno učenje kroz razvoj infrastrukture za obrazovanje i osposobljavanje</td><td>10a1</td><td>Razvoj digitalno zrelih škola koje su spremne za korištenje potencijala informacijsko komunikacijske tehnologije u obrazovanju i razvoju vještina za 21. stoljeće, potrebnih na tržištu rada</td><td rowspan="3">Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td rowspan="3">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>10a2</td><td>Modernizacija, unaprjeđenje i povećanje infrastrukture studentskog smještaja u visokom obrazovanju s ciljem poboljšanja pristupa visokom obrazovanju te završetak studija za studente u nepovoljnom položaju</td><td></td></tr>
+<tr><td>10a3</td><td>Povećanje relevantnosti strukovnog obrazovanja kroz poboljšanje uvjeta za stjecanje praktičnih vještina u ciljanim sektorima srednjeg strukovnog obrazovanja s ciljem postizanja veće zapošljivosti učenika srednjeg strukovnog obrazovanja</td><td></td></tr>
+<tr><td rowspan="3">10. Tehnička pomoć</td><td rowspan="3">Nije primjenjivo</td><td>TA1</td><td>Osiguravanje odgovarajućih i učinkovitih ljudskih resursa za provedbu operativnih programa</td><td rowspan="3">Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td rowspan="3">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>TA2</td><td>Podrška učinkovitoj provedbi, praćenju i evaluaciji programa</td><td></td></tr>
+<tr><td>TA3</td><td>Podrška informiranju javnosti i podizanju kapaciteta potencijalnih korisnika za pripremu projekata i njihovu provedbu</td><td></td></tr>
+</table>
+
+<table>
+<tr><td colspan="6">Prikaz 2<br>Operativni program »Učinkoviti ljudski potencijali«</td></tr>
+<tr><td>Prioritetna os</td><td>Izabrani investicijski prioritet</td><td>Oznaka specifičnog cilja (OSC)</td><td>Naziv specifičnog cilja</td><td>Posredničko tijelo razine 1</td><td>Posredničko tijelo razine 2</td></tr>
+<tr><td rowspan="7">1. Visoka zapošljivost i mobilnost radne snage</td><td rowspan="3">Pristup zapošljavanju za osobe koje traže posao i neaktivne osobe, uključujući one koji su dugotrajno nezaposleni i one koji su daleko od tržišta rada, kao i provedbom lokalnih inicijativa za zapošljavanje i potpore za mobilnost radne snage</td><td>8.i.1</td><td>Povećanje zapošljavanja nezaposlenih osoba, posebice dugotrajno nezaposlenih i osoba čije vještine ne odgovaraju potrebama tržišta rada</td><td rowspan="3">Ministarstvo rada i mirovinskoga sustava</td><td rowspan="3">Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td>8.i.2</td><td>Povećanje održivog samozapošljavanja nezaposlenih osoba, posebice žena</td></tr>
+<tr><td>8.i.3</td><td>Očuvanje radnih mjesta, zadržavanje u zaposlenju radnika koji su proglašeni viškom te jačanje brzog ponovnog zapošljavanja osoba koje su postale nezaposlene nakon što su proglašene viškom</td></tr>
+<tr><td>Održiva integracija mladih na tržište rada (ESF), posebno onih koji nisu zaposleni, ne obrazuju se niti osposobljavaju, uključujući mlade koji su izloženi riziku od socijalne isključenosti i mlade iz marginaliziranih zajednica, uključujući provedbom Garancije za mlade</td><td>8.ii.1 (ESF)</td><td>Povećanje zapošljavanja i integracije dugotrajno nezaposlenih iz NEET skupine na tržište rada i za sve iz NEET skupine od 2019. godine</td><td>Ministarstvo rada i mirovinskoga sustava</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td>Održiva integracija mladih na tržište rada (Inicijativa za zapošljavanje mladih IZM-YEI), posebno onih koji nisu zaposleni, ne obrazuju se niti osposobljavaju, uključujući mlade koji su izloženi riziku od socijalne isključenosti i mlade iz marginaliziranih zajednica, uključujući provedbom Garancije za mlade</td><td>8.ii.1 (YEI)</td><td>Povećanje zapošljavanja i brze integracije NEET skupine kroz Inicijativu za zapošljavanje mladih na tržište rada</td><td>Ministarstvo rada i mirovinskoga sustava<br> Ministarstvo znanosti i obrazovanja</td><td>Hrvatski zavod za zapošljavanje<br> Agencija za strukovno obrazovanje i obrazovanje odraslih</td></tr>
+<tr><td rowspan="2">Modernizacija ustanova tržišta rada kao što su javne i privatne službe za zapošljavanje te bolja usklađenost s potrebama tržišta rada, uključujući putem djelovanja koja povećavaju transnacionalnu mobilnost radne snage, kao i putem programa mobilnosti, te bolja suradnja institucija i relevantnih dionika</td><td>8.vii.1</td><td>Jačanje kapaciteta lokalnih partnerstava za zapošljavanje i povećanje zaposlenosti najranjivijih skupina na lokalnim tržištima rada</td><td rowspan="2">Ministarstvo rada i mirovinskoga sustava</td><td rowspan="2">Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td>8.vii.2</td><td>Povećanje dostupnosti i kvalitete javno dostupnih informacija i usluga na tržištu rada, uključujući mjere APZ-a</td></tr>
+<tr><td rowspan="5">2. Socijalno uključivanje</td><td rowspan="2">Aktivna uključenost, uključujući s ciljem promicanja jednakih mogućnosti te aktivnog sudjelovanja i poboljšanja zapošljivosti</td><td>9.i.1</td><td>Borba protiv siromaštva i socijalne isključenosti kroz promociju integracije na tržište rada i socijalne integracije ranjivih skupina, i borba protiv svih oblika diskriminacije</td><td>Ministarstvo za demografiju, obitelj, mlade i socijalnu politiku<br> Ministarstvo rada i mirovinskoga sustava<br> Ministarstvo kulture</td><td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnoga društva</td></tr>
+<tr><td>9.i.2</td><td>Jačanje aktivnog uključivanja kroz implementaciju integriranih projekata za obnovu 5 nerazvijenih pilot područja.</td><td>Ministarstvo rada i mirovinskoga sustava</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td rowspan="2">Poboljšanje pristupa pristupačnim, održivim i visokokvalitetnim uslugama, uključujući usluge zdravstvene skrbi i socijalne usluge od općeg interesa</td><td>9.iv.1</td><td>Održivo poboljšanje pristupa zdravstvenoj skrbi u nerazvijenim područjima i za ranjive skupine te promocija zdravlja</td><td>Ministarstvo zdravstva</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td>9.iv.2</td><td>Poboljšanje pristupa visokokvalitetnim socijalnim uslugama, uključujući podršku procesu deinstitucionalizacije</td><td>Ministarstvo za demografiju, obitelj, mlade i socijalnu politiku<br> Ministarstvo turizma</td><td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnoga društva</td></tr>
+<tr><td>Promicanje društvenog poduzetništva i strukovne integracije u društvenim poduzećima te društvene ekonomije i ekonomije solidarnosti radi olakšavanja pristupa zapošljavanju</td><td>9.v.1</td><td>Povećanje broja i održivosti društvenih poduzeća i njihovih zaposlenika</td><td>Ministarstvo rada i mirovinskoga sustava<br> Ministarstvo za demografiju, obitelj, mlade i socijalnu politiku</td><td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnoga društva</td></tr>
+<tr><td rowspan="7">3. Obrazovanje i cjeloživotno učenje</td><td rowspan="3">Poboljšanje kvalitete i učinkovitosti tercijarnog i ekvivalentnog obrazovanja te pristupa njemu radi povećanja sudjelovanja u njemu i njegova stjecanja, posebno za skupine u nepovoljnom položaju</td><td>10.ii.1</td><td>Poboljšanje kvalitete, relevantnosti i učinkovitosti visokog obrazovanja</td><td rowspan="6">Ministarstvo znanosti i obrazovanja</td><td rowspan="7">Agencija za strukovno obrazovanje i obrazovanje odraslih</td></tr>
+<tr><td>10.ii.2</td><td>Povećanje stope stečenog visokog obrazovanja</td></tr>
+<tr><td>10.ii.3</td><td>Poboljšanje uvjeta rada za hrvatske istraživače</td></tr>
+<tr><td rowspan="3">Povećanje jednakog pristupa cjeloživotnom učenju za sve dobne skupine u formalnom, neformalnom i informalnom okruženju, unapređenje znanja, vještina i kompetencija radne snage, promicanje fleksibilnih načina učenja, između ostalog profesionalnim savjetovanjem i potvrđivanjem stečenih kompetencija</td><td>10.iii.1</td><td>Omogućavanje boljeg pristupa obrazovanju učenicima u nepovoljnom položaju u pred-tercijarnom obrazovanju</td></tr>
+<tr><td>10.iii.2</td><td>Promicanje pristupa cjeloživotnom učenju kroz unapređivanje ključnih kompetencija studenata, te primjenu informacijskih i komunikacijskih tehnologija u poučavanju i učenju</td></tr>
+<tr><td>10.iii.3</td><td>Poboljšanje obrazovnog sustava za odrasle i unapređenje vještina i kompetencija odraslih polaznika</td></tr>
+<tr><td>Poboljšanje značaja obrazovnih sustava i sustava osposobljavanja za tržište rada, olakšavanje prijelaza iz škole na posao, jačanje sustava strukovnog obrazovanja i osposobljavanja te njihove kvalitete, između ostalog mehanizmima za predviđanje vještina, prilagodbom nastavnih planova i programa te uvođenjem i razvojem sustava učenja koji se temelje na radu, uključujući dualne sustave učenja i programe naukovanja</td><td>10.iv.1</td><td>Modernizacija ponude strukovnog obrazovanja te podizanje njegove kvalitete radi povećanja zapošljivosti učenika kao i mogućnosti za daljnje obrazovanje</td><td>Ministarstvo znanosti i obrazovanja<br> Ministarstvo turizma</td></tr>
+<tr><td rowspan="3">4. Dobro upravljanje</td><td rowspan="2">Ulaganje u institucionalne kapacitete te u učinkovitost javnih uprava i javnih usluga na nacionalnoj, regionalnoj i lokalnoj razini s ciljem reformiranja, boljeg uređivanja i dobrog upravljanja</td><td>11.i.1</td><td>Povećanje djelotvornosti i kapaciteta u javnoj upravi kroz poboljšanje pružanja usluga i upravljanja ljudskim potencijalima</td><td rowspan="2">Ministarstvo rada i mirovinskoga sustava</td><td rowspan="2">Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td>11.i.2</td><td>Unapređenje kapaciteta i funkcioniranja pravosuđa kroz poboljšanje upravljanja i kompetencija</td></tr>
+<tr><td>Izgradnja kapaciteta za sve dionike koji osiguravaju obrazovanje, cjeloživotno obrazovanje, osposobljavanje te zapošljavanje i socijalne politike, uključujući uz pomoć sektorskih i teritorijalnih paktova radi omogućavanja reformi na nacionalnoj, regionalnoj i lokalnoj razini</td><td>11.ii.1</td><td>Razvoj kapaciteta organizacija civilnog društva, osobito udruga i socijalnih partnera, te jačanje civilnog i socijalnog dijaloga radi boljeg upravljanja</td><td>Ministarstvo rada i mirovinskoga sustava<br> Ured za udruge<br> Ministarstvo kulture</td><td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnoga društva</td></tr>
+<tr><td rowspan="3">5. Tehnička pomoć</td><td rowspan="3">Nije primjenjivo</td><td>1.</td><td>Osiguranje učinkovite pripreme, upravljanja, provedbe, praćenja, vrednovanja i kontrole Operativnog programa</td><td rowspan="3">Ministarstvo rada i mirovinskoga sustava</td><td rowspan="3">Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td>2.</td><td>Podrška potencijalnim korisnicima i regionalnim dionicima u uspješnom prijavljivanju i provedbi ESF projekata jačanjem njihovih kapaciteta i razvijanjem kvalitetne zalihe budućih projekata</td></tr>
+<tr><td>3.</td><td>Podrška komunikacijskim aktivnostima u svrhu djelotvorne provedbe Komunikacijske strategije i osiguranje kvalitetnog informiranja potencijalnih korisnika i voditelja projekata o mogućnostima i uvjetima financiranja u okviru Operativnog programa</td></tr>
+</table>
+
+## Ispravak Uredbe o izmjenama i dopunama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (NN 18/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/18/433*
+
+NARODNE NOVINE
+
+Nakon uspoređivanja s izvornim tekstom Uredbe o izmjenama i dopunama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta«, koja je objavljena u »Narodnim novinama« broj 15/17, utvrđena je tiskarska pogreška te se daje sljedeći
+
+ISPRAVAK
+
+### UREDBE O IZMJENAMA I DOPUNAMA UREDBE O TIJELIMA U SUSTAVIMA UPRAVLJANJA I KONTROLE KORIŠTENJA EUROPSKOG SOCIJALNOG FONDA, EUROPSKOG FONDA ZA REGIONALNI RAZVOJ I KOHEZIJSKOG FONDA, U VEZI S CILJEM »ULAGANJE ZA RAST I RADNA MJESTA«
+
+U tablici Prikaz 1 Operativni program »Konkurentnost i kohezija« pogrešno je označeno da je Posredničko tijelo integriranih teritorijalnih ulaganja, nadležno za specifične ciljeve 4c3, 4c4 i 4d1, a ispravno treba stajati samo za specifični 4c3. Isto tako pogrešno je označeno da je Posredničko tijelo integriranih teritorijalnih ulaganja nadležno za specifične ciljeve 6c1 i 6c2, a ispravno treba stajati samo za specifični cilj 6c1.
+
+Tablica Prikaz 1 Operativni program »Konkurentnost i kohezija« ispravno glasi:
+
+<table>
+<tr><td colspan="7">Prikaz 1<br>Operativni program »Konkurentnost i kohezija«</td></tr>
+<tr><td>Prioritetna os</td><td>Izabrani investicijski prioritet</td><td>Oznaka specifičnog cilja (OSC)</td><td>Naziv specifičnog cilja</td><td>Posredničko tijelo razine 1</td><td>Posredničko tijelo razine 2</td><td>Posredničko tijelo integriranih teritorijalnih ulaganja</td></tr>
+<tr><td rowspan="3">1. Jačanje gospodarstva primjenom istraživanja i inovacija</td><td>Poboljšanje infrastrukture i kapaciteta za istraživanje i inovacije s ciljem razvijanja uspješnosti istraživanja i inovacija te promoviranje centara za kompetencije, posebno onih od europskog interesa</td><td>1a1</td><td>Povećana sposobnost sektora istraživanja i razvoja (IR) za obnavljanje istraživanja vrhunske kvalitete i zadovoljavanje potreba gospodarstva</td><td>Ministarstvo znanosti i obrazovanja</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td rowspan="2">Promicanje poslovnih ulaganja u inovacijama i istraživanjima te razvoj veza i sinergija između poduzeća, IR centara i visokog obrazovanja, posebno razvoja proizvoda i usluga, tehnološko povezivanje, socijalna inovacija, ekološka inovacija, usluge javnog servisa, zahtjevi za poticajima, umrežavanje, klasteri i otvorena inovacija kroz pametnu specijalizaciju, tehnološko jačanje i primijenjeno istraživanje, pilot linije, pred proizvodna provjera valjanosti, napredne proizvodne mogućnosti i početne proizvodnje, posebno u Ključnim tehnologijama koje potiču razvoj i inovacije i širenje tehnologija za opću namjenu</td><td>1b1</td><td>Novi proizvodi i usluge kao rezultat djelatnosti istraživanja, razvoja i inovacija (IRI)</td><td rowspan="2">Ministarstvo gospodarstva, poduzetništva i obrta</td><td>Hrvatska agencija za malo gospodarstvo, inovacije i investicije</td><td></td></tr>
+<tr><td>1b2</td><td>Jačanje djelatnosti istraživanja, razvoja i inovacija (IRI) poslovnog sektora kroz stvaranje povoljnog inovacijskog okruženja</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td rowspan="2">2. Korištenje informacijskih i komunikacijskih tehnologija</td><td>Proširenje dostupnosti širokopojasnog pristupa i izgradnja mreža velikih brzina te podrška usvajanju novih tehnologija i mreža za digitalno gospodarstvo</td><td>2a1</td><td>Razvoj infrastrukturne širokopojasne mreže sljedeće generacije u područjima bez infrastrukture širokopojasne mreže sljedeće generacije i bez dovoljno komercijalnog interesa, za maksimalno povećanje socijalne i ekonomske dobrobiti</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>Jačanje aplikacija informacijskih i komunikacijskih tehnologija za e–upravu, e–učenje, e–uključenost, e–kulturu i e–zdravlje</td><td>2c1</td><td>Povećanje korištenja IKT-a u komunikaciji između građana i javne uprave putem uspostave IKT koordinacijske strukture i softverskih rješenja</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td rowspan="4">3. Poslovna konkurentnost</td><td rowspan="2">Promicanje poduzetništva, posebno olakšavajući ekonomsko iskorištavanje novih ideja i poticanje stvaranja novih poduzeća, uključujući putem poslovnih inkubatora</td><td>3a1</td><td>Bolji pristup financiranju za male i srednje poduzetnike</td><td rowspan="4">Ministarstvo gospodarstva, poduzetništva i obrta</td><td rowspan="4">Hrvatska agencija za malo gospodarstvo, inovacije i investicije (osim za specifični cilj 3a1 koji se provodi putem financijskih instrumenata iz Glave IV. Uredbe (EU) br. 1303/2013)<br> Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije (za specifični cilj 3a2, u dijelu u kojem se provodi kao integrirano teritorijalno ulaganje – isključivo Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije)</td><td></td></tr>
+<tr><td>3a2</td><td>Omogućavanje povoljnog okruženja za razvoj poduzetništva</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td rowspan="2">Podupiranje kapaciteta MSP-ova za rast na regionalnom, nacionalnom i međunarodnom tržištu te angažiranost u inovacijskim procesima</td><td>3d1</td><td>Poboljšani razvoj i rast malih i srednjih poduzetnika na domaćem i stranim tržištima</td><td></td></tr>
+<tr><td>3d2</td><td>Poboljšana inovativnost malih i srednjih poduzetnika</td><td></td></tr>
+<tr><td rowspan="7">4. Promicanje energetske učinkovitosti i obnovljivih izvora energije</td><td rowspan="2">Promicanje energetske učinkovitosti i korištenja obnovljivih izvora energije u poduzećima</td><td>4b1</td><td>Povećanje energetske učinkovitosti i korištenja OIE u proizvodnim industrijama</td><td rowspan="2">Ministarstvo zaštite okoliša i energetike</td><td rowspan="4">Fond za zaštitu okoliša i energetsku učinkovitost</td><td rowspan="4"></td></tr>
+<tr><td>4b2</td><td>Povećanje energetske učinkovitosti i korištenja OIE u privatnom uslužnom sektoru (turizam i trgovina)</td></tr>
+<tr><td rowspan="4">Podupiranje energetske učinkovitosti, pametnog upravljanja energijom i korištenja OIE u javnoj infrastrukturi, uključujući javne zgrade, i u stambenom sektoru</td><td>4c1</td><td>Smanjenje potrošnje energije u zgradama javnog sektora</td><td rowspan="2">Ministarstvo graditeljstva i prostornoga uređenja</td></tr>
+<tr><td>4c2</td><td>Smanjenje potrošnje energije u stambenim zgradama (u višestambenim zgradama i obiteljskim kućama)</td></tr>
+<tr><td>4c3</td><td>Povećanje učinkovitosti sustava toplinarstva</td><td rowspan="3">Ministarstvo zaštite okoliša i energetike</td><td rowspan="3">Fond za zaštitu okoliša i energetsku učinkovitost<br> Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije (za specifični cilj 4c3 koji se provodi kao integrirano teritorijalno ulaganje)</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td>4c4</td><td>Povećanje učinkovitosti javne rasvjete</td><td rowspan="2"></td></tr>
+<tr><td>Razvoj i provedba pametnih sustava distribucije koji djeluju pri niskim i srednjim razinama napona</td><td>4d1</td><td>Pilot-projekt uvođenja naprednih mreža</td></tr>
+<tr><td rowspan="2">5. Klimatske promjene i upravljanje rizicima</td><td>Podupiranje ulaganja za prilagodbu na klimatske promjene, uključujući pristupe temeljene na ekosustavu</td><td>5a1</td><td>Poboljšanje praćenja, predviđanja i planiranja mjera prilagodbe klimatskim promjenama</td><td>Ministarstvo zaštite okoliša i energetike</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td>Promicanje ulaganja koja se odnose na posebne rizike, osiguranje otpornosti na katastrofe i razvoj sustava za upravljanje katastrofama</td><td>5b1</td><td>Jačanje sustava upravljanja katastrofama</td><td>Ministarstvo zaštite okoliša i energetike</td><td>Hrvatske vode</td><td></td></tr>
+<tr><td rowspan="10">6. Zaštita okoliša i održivost resursa</td><td rowspan="2">Očuvanje, zaštita, promicanje i razvoj prirodne i kulturne baštine</td><td>6c1</td><td>Povećanje zapošljavanja i turističkih izdataka kroz unaprjeđenje kulturne baštine</td><td rowspan="2">Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td rowspan="2">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td>6c2</td><td>Povećanje atraktivnosti, edukativnog kapaciteta i održivog upravljanja odredištima prirodne baštine</td><td></td></tr>
+<tr><td rowspan="2">Aktivnosti kojima se poboljšava urbani okoliš, revitalizacija gradova, obnova i dekontaminacija nekadašnjeg industrijskog zemljišta (uključujući prenamijenjena područja), smanjenje zagađenja zraka i promicanje mjera za smanjenje buke</td><td>6e1</td><td>Poboljšanje sustava upravljanja i praćenja kvalitete zraka sukladno Uredbi 2008/50/EZ</td><td>Ministarstvo zaštite okoliša i energetike</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td>6e2</td><td>Obnova brownfield lokacija (bivša vojna i/ili industrijska područja) unutar ITU</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td>Ulaganje u sektor otpada kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td><td>6i1</td><td>Smanjena količina otpada koji se odlaže na odlagališta</td><td>Ministarstvo zaštite okoliša i energetike</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td rowspan="2">Ulaganje u vodni sektor kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td><td>6ii1</td><td>Unaprjeđenje javnog vodoopskrbnog sustava u svrhu osiguranja kvalitete i sigurnosti usluga opskrbe pitkom vodom</td><td rowspan="2">Ministarstvo zaštite okoliša i energetike</td><td rowspan="2">Hrvatske vode</td><td></td></tr>
+<tr><td>6ii2</td><td>Razvoj sustava prikupljanja i obrade otpadnih voda s ciljem doprinosa poboljšanju stanja voda</td><td></td></tr>
+<tr><td rowspan="3">Zaštita i obnova biološke raznolikosti i tla te promicanje eko usluga, uključujući NATURA 2000 i »zelenu« infrastrukturu</td><td>6iii1</td><td>Poboljšano znanje o stanju bioraznolikosti kao temelja za učinkovito praćenje i upravljanje bioraznolikošću</td><td rowspan="3">Ministarstvo zaštite okoliša i energetike</td><td rowspan="3">Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td>6iii2</td><td>Uspostava okvira za održivo upravljanje bioraznolikošću (primarno Natura 2000)</td><td></td></tr>
+<tr><td>6iii3</td><td>Razminiranje, obnova i zaštita šuma i šumskog zemljišta u zaštićenim i Natura 2000 područjima</td><td></td></tr>
+<tr><td rowspan="7">7. Povezanost i mobilnost</td><td>Podupiranje multimodalnog jedinstvenog europskog prometnog prostora ulaganjem u TEN–T</td><td>7a1</td><td>Unaprjeđenje cestovne mreže TEN–T i pristupa cestovnoj mreži TEN–T</td><td rowspan="7">Ministarstvo mora, prometa i infrastrukture</td><td rowspan="7">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>Poboljšavanje regionalne mobilnosti povezivanjem sekundarnih i tercijarnih čvorišta s infrastrukturom TEN–T–a, uključujući multimodalna čvorišta</td><td>7b1</td><td>Poboljšanje cestovne sigurnosti u dijelovima s visokom razinom mješovitog prometa</td><td></td></tr>
+<tr><td>Podupiranje multimodalnog jedinstvenog europskog prometnog prostora ulaganjem u TEN–T</td><td>7i1</td><td>Povećanje teretnog prometa na unutarnjim vodnim putovima</td><td></td></tr>
+<tr><td rowspan="3">Razvoj i unapređenje prometnih sustava prihvatljivih za okoliš (uključujući one s niskom razinom buke), i prometni sustavi s niskim emisijama CO<sub>2</sub>, uključujući unutarnje plovne putove i pomorski prijevoz, luke, multimodalne veze i aerodromsku infrastrukturu, radi promicanja održive regionalne i lokalne mobilnosti</td><td>7ii1</td><td>Poboljšanje dostupnosti naseljenih otoka za njihove stanovnike</td><td></td></tr>
+<tr><td>7ii2</td><td>Povećanje broja putnika u javnom prijevozu</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td>7ii3</td><td>Poboljšanje dostupnosti Dubrovnika zrakom</td><td></td></tr>
+<tr><td>Razvoj i obnova sveobuhvatnih, visokokvalitetnih i interoperabilnih željezničkih sustava te promicanje mjera za smanjenje buke</td><td>7iii1</td><td>Povećanje uporabe i važnosti željezničke mreže</td><td></td></tr>
+<tr><td rowspan="5">8. Socijalno uključivanje i zdravlje</td><td rowspan="4">Ulaganje u zdravstvenu i socijalnu infrastrukturu što pridonosi nacionalnom, regionalnom i lokalnom razvoju, smanjujući nejednakosti u smislu zdravstvenog statusa, promičući socijalnu uključenost, kulturne i rekreativne usluge te prelazak s institucionalne skrbi na skrb u zajednici</td><td>9a1</td><td>Poboljšanje pristupa primarnoj i hitnoj zdravstvenoj zaštiti, s fokusom na udaljena i deprivirana područja</td><td rowspan="5">Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td rowspan="5">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>9a2</td><td>Poboljšanje učinkovitosti i dostupnosti bolničkog liječenja</td><td></td></tr>
+<tr><td>9a3</td><td>Promicanje socijalne uključenosti i smanjenje nejednakosti kroz poboljšani pristup socijalnim uslugama te prelazak s institucionalne skrbi na skrb u zajednici putem poboljšane socijalne infrastrukture</td><td></td></tr>
+<tr><td>9a4</td><td>Provedba pilot aktivnosti koje imaju za cilj promociju socijalne uključenosti i smanjenje siromaštva ratnih veterana i civilnih žrtava Domovinskog rata</td><td></td></tr>
+<tr><td>Pružanje podrške fizičkoj, gospodarskoj i socijalnoj obnovi ugroženih zajednica u urbanim i ruralnim područjima</td><td>9b1</td><td>Održiva fizička, socijalna i gospodarska regeneracija pet depriviranih pilot područja s ciljem smanjenja socijalnih nejednakosti, isključenosti i siromaštva</td><td></td></tr>
+<tr><td rowspan="3">9. Obrazovanje, vještine i cjeloživotno učenje</td><td rowspan="3">Ulaganje u obrazovanje, vještine i cjeloživotno učenje kroz razvoj infrastrukture za obrazovanje i osposobljavanje</td><td>10a1</td><td>Razvoj digitalno zrelih škola koje su spremne za korištenje potencijala informacijsko komunikacijske tehnologije u obrazovanju i razvoju vještina za 21. stoljeće, potrebnih na tržištu rada</td><td rowspan="3">Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td rowspan="3">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>10a2</td><td>Modernizacija, unaprjeđenje i povećanje infrastrukture studentskog smještaja u visokom obrazovanju s ciljem poboljšanja pristupa visokom obrazovanju te završetak studija za studente u nepovoljnom položaju</td><td></td></tr>
+<tr><td>10a3</td><td>Povećanje relevantnosti strukovnog obrazovanja kroz poboljšanje uvjeta za stjecanje praktičnih vještina u ciljanim sektorima srednjeg strukovnog obrazovanja s ciljem postizanja veće zapošljivosti učenika srednjeg strukovnog obrazovanja</td><td></td></tr>
+<tr><td rowspan="3">10. Tehnička pomoć</td><td rowspan="3">Nije primjenjivo</td><td>TA1</td><td>Osiguravanje odgovarajućih i učinkovitih ljudskih resursa za provedbu operativnih programa</td><td rowspan="3">Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td rowspan="3">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>TA2</td><td>Podrška učinkovitoj provedbi, praćenju i evaluaciji programa</td><td></td></tr>
+<tr><td>TA3</td><td>Podrška informiranju javnosti i podizanju kapaciteta potencijalnih korisnika za pripremu projekata i njihovu provedbu</td><td></td></tr>
+</table>
+
+Urbroj: 50501-4/2-17
+
+Zagreb, 28. veljače 2017.
+
+Glavna urednica  
+Zdenka Pogarčić, v. r.
+
+## Uredba o izmjenama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (NN 46/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/46/935*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 7. stavka 7. podstavka 1. Zakona o uspostavi institucionalnog okvira za provedbu europskih strukturnih i investicijskih fondova u Republici Hrvatskoj u financijskom razdoblju 2014. – 2020. (»Narodne novine«, broj 92/14.), Vlada Republike Hrvatske je na sjednici održanoj 29. travnja 2021. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O TIJELIMA U SUSTAVIMA UPRAVLJANJA I KONTROLE KORIŠTENJA EUROPSKOG SOCIJALNOG FONDA, EUROPSKOG FONDA ZA REGIONALNI RAZVOJ I KOHEZIJSKOG FONDA, U VEZI S CILJEM »ULAGANJE ZA RAST I RADNA MJESTA«**
+
+##### Članak 1.
+
+U Uredbi o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (»Narodne novine«, br. 107/14., 23/15., 129/15., 15/17. i 18/17. – ispravak), u članku 3. stavku 1. riječi: »Središnje tijelo državne uprave« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 3. riječi: »Središnje tijelo državne uprave« zamjenjuju se riječju: »Ministarstvo«.
+
+##### Članak 2.
+
+U članku 5. stavku 1. riječi: »Središnje tijelo državne uprave« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 2. riječi: »Središnje tijelo državne uprave nadležno za poslove rada i mirovinskoga sustava« zamjenjuju se riječima: »Ministarstvo nadležno za poslove rada, mirovinskoga sustava, obitelji i socijalne politike«.
+
+##### Članak 3.
+
+Prilog – Prikaz Posredničkih tijela nadležnih za provedbu izabranih investicijskih prioriteta, po Operativnom programu, Prikaz 1 Operativni program »Konkurentnost i kohezija« i Prikaz 2 Operativni program »Učinkoviti ljudski potencijali«, koji je sastavni dio Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta« (»Narodne novine«, br. 107/14., 23/15., 129/15., 15/17. i 18/17. – ispravak), zamjenjuje se novim Prilogom – Prikaz Posredničkih tijela nadležnih za provedbu izabranih investicijskih prioriteta, po Operativnom programu, Prikazom 1 Operativni program »Konkurentnost i kohezija« i Prikazom 2 Operativni program »Učinkoviti ljudski potencijali«, koji je sastavni dio ove Uredbe.
+
+##### Članak 4.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/87
+
+Urbroj: 50301-05/14-21-3
+
+Zagreb, 29. travnja 2021.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+#### PRILOG
+
+### PRIKAZ POSREDNIČKIH TIJELA NADLEŽNIH ZA PROVEDBU IZABRANIH INVESTICIJSKIH PRIORITETA, PO OPERATIVNOM PROGRAMU
+
+<table>
+<tr><td colspan="7">Prikaz 1<br> Operativni program »Konkurentnost i kohezija«</td></tr>
+<tr><td>Prioritetna os</td><td>Izabrani investicijski prioritet</td><td>Oznaka<br> specifičnog cilja (OSC)</td><td>Naziv specifičnog cilja</td><td>Posredničko tijelo razine 1</td><td>Posredničko tijelo razine 2</td><td>Posredničko tijelo integriranih teritorijalnih ulaganja</td></tr>
+<tr><td>1. Jačanje gospodarstva primjenom istraživanja i inovacija</td><td>Poboljšanje infrastrukture i kapaciteta za istraživanje i inovacije (I&amp;I) s ciljem razvijanja uspješnosti I&amp;I te promoviranje centara za kompetencije, posebno onih od europskog interesa</td><td>1a1</td><td>Povećana sposobnost sektora istraživanja i razvoja (IR) za obavljanje istraživanja vrhunske kvalitete i zadovoljavanje potreba gospodarstva</td><td>Ministarstvo znanosti i obrazovanja</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td></td><td rowspan="2">Promicanje poslovnih ulaganja u inovacijama i istraživanjima te razvoj veza i sinergija između poduzeća, IR centara i visokog obrazovanja, osobito razvoja proizvoda i usluga, tehnološko povezivanje, socijalna inovacija, ekološka inovacija, kulturna i kreativna industrija, usluge javnog servisa, zahtjevi za poticajima, umrežavanje, klasteri i otvorena inovacija kroz pametnu specijalizaciju, tehnološko jačanje i primijenjeno istraživanje, pilot linije, pred proizvodna provjera valjanosti, napredne proizvodne mogućnosti i početne proizvodnje, posebno u Ključnim tehnologijama koje potiču razvoj i inovacije i širenje tehnologija za opću namjenu</td><td>1b1</td><td>Novi proizvodi i usluge kao rezultat djelatnosti istraživanja, razvoja i inovacija (IRI)</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije<br> Ministarstvo gospodarstva i održivog razvoja</td><td>Hrvatska agencija za malo gospodarstvo, inovacije i investicije</td><td></td></tr>
+<tr><td></td><td>1b2</td><td>Jačanje djelatnosti istraživanja, razvoja i inovacija (IRI) poslovnog sektora kroz stvaranje povoljnog inovacijskog okruženja</td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td>2. Korištenje informacijske i komunikacijske tehnologije</td><td>Proširenje dostupnosti širokopojasnog pristupa i izgradnja mreža velikih brzina te podrška usvajanju novih tehnologija i mreža za digitalno gospodarstvo</td><td>2a1</td><td>Razvoj infrastrukture širokopojasne mreže sljedeće generacije u područjima bez infrastrukture širokopojasne mreže sljedeće generacije i bez dovoljno komercijalnog interesa, za maksimalno povećanje socijalne i ekonomske dobrobiti</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td></td><td>Jačanje aplikacija informacijskih i komunikacijskih tehnologija za e – vladu, e – učenje, e – uključenost, e – kulturu i e – zdravlje</td><td>2c1</td><td>Povećanje korištenja IKT-a u komunikaciji između građana i javne uprave putem uspostave IKT koordinacijske strukture i softverskih rješenja</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td rowspan="4">3. Poslovna konkurentnost</td><td rowspan="2">Promicanje poduzetništva, posebno olakšavajući ekonomsko iskorištavanje novih ideja i poticanje stvaranja novih poduzeća, uključujući putem poslovnih inkubatora</td><td>3a1</td><td>Bolji pristup financiranju za male i srednje poduzetnike</td><td>Ministarstvo gospodarstva i održivog razvoja<br> p class="T-9 pleft"&gt;Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje&lt;/p</td><td rowspan="2">Hrvatska agencija za malo gospodarstvo, inovacije i investicije (osim za specifični cilj 3a1 koji se provodi putem financijskih instrumenata iz Glave IV. Uredbe (EU) br. 1303/2013)</td><td></td></tr>
+<tr><td>3a2</td><td>Omogućavanje povoljnog okruženja za razvoj poduzetništva</td><td></td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td rowspan="2">Podupiranje kapaciteta MSP-ova za rast na regionalnom, nacionalnom i međunarodnom tržištu te angažiranost u inovacijskim procesima</td><td>3d1</td><td>Poboljšani razvoj i rast malih i srednjih poduzetnika na domaćim i stranim tržištima</td><td></td><td rowspan="2">Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije (za specifični cilj 3a2, u dijelu u kojem se provodi kao integrirano teritorijalno ulaganje – isključivo Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije)</td><td></td></tr>
+<tr><td>3d2</td><td>Poboljšana inovativnost malih i srednjih poduzetnika</td><td></td><td></td></tr>
+<tr><td>4. Promicanje energetske učinkovitosti i obnovljivih izvora energije</td><td rowspan="2">Promicanje energetske učinkovitosti i korištenja obnovljivih izvora energije u poduzećima</td><td>4b1</td><td>Povećanje energetske učinkovitosti i korištenja OIE u proizvodnim industrijama</td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td></td><td>4b2</td><td>Povećanje energetske učinkovitosti i korištenja OIE u privatnom uslužnom sektoru (turizam i trgovina)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Podupiranje energetske učinkovitosti, pametnog upravljanja energijom i korištenja OIE u javnoj infrastrukturi, uključujući javne zgrade, i u stambenom sektoru</td><td>4c1</td><td>Smanjenje potrošnje energije u zgradama javnog sektora</td><td>Ministarstvo prostornoga uređenja, graditeljstva i državne imovine</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>4c2</td><td>Smanjenje potrošnje energije u višestambenim zgradama</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>4c3</td><td>Povećanje učinkovitosti sustava toplinarstva</td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije (za specifični cilj 4c3 koji se provodi kao integrirano teritorijalno ulaganje)<br> Fond za zaštitu okoliša i energetsku učinkovitost (za specifične ciljeve 4c4 i 4d1)</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td></td><td></td><td>4c4</td><td>Povećanje učinkovitosti sustava javne rasvjete</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Razvoj i provedba pametnih sustava distribucije koji djeluju pri niskim i srednjim razinama napona</td><td>4d1</td><td>Pilot-projekt uvođenja naprednih mreža</td><td></td><td></td><td></td></tr>
+<tr><td>5. Klimatske promjene i upravljanje rizicima</td><td>Podupiranje ulaganja za prilagodbu na klimatske promjene, uključujući pristupe temeljene na ekosustavu</td><td>5a1</td><td>Poboljšanje praćenja, predviđanja i planiranja mjera prilagodbe klimatskim promjenama</td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td></td><td>Promicanje ulaganja koja se odnose na posebne rizike, osiguranje otpornosti na katastrofe i razvoj sustava za upravljanje katastrofama</td><td>5b1</td><td>Jačanje sustava upravljanja katastrofama</td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Hrvatske vode</td><td></td></tr>
+<tr><td>6. Zaštita okoliša i održivost resursa</td><td>Očuvanje, zaštita, promicanje i razvoj prirodne i kulturne baštine</td><td>6c1</td><td>Povećanje zapošljavanja i turističkih izdataka kroz unaprjeđenje kulturne baštine</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td></td><td></td><td>6c2</td><td>Povećanje atraktivnosti, edukativnog kapaciteta i održivog upravljanja odredištima prirodne baštine</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Aktivnosti kojima se poboljšava urbani okoliš, revitalizacija gradova, obnova i dekontaminacija nekadašnjeg industrijskog zemljišta (uključujući prenamijenjena područja), smanjenje zagađenja zraka i promicanje mjera za smanjenje buke</td><td>6e1</td><td>Poboljšanje sustava upravljanja i praćenja kvalitete zraka sukladno Uredbi 2008/50/EZ</td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td></td><td></td><td>6e2</td><td>Obnova brownfield lokacija (bivša vojna i/ili industrijska područja) unutar ITU</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td></td><td>Ulaganje u sektor otpada kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td><td>6i1</td><td>Smanjena količina otpada koji se odlaže na odlagališta</td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td></td><td>Ulaganje u vodni sektor kako bi se ispunili zahtjevi pravne stečevine Unije u području okoliša i zadovoljile potrebe koje su utvrdile države članice za ulaganjem koje nadilazi te zahtjeve</td><td>6ii1</td><td>Unaprjeđenje javnog vodoopskrbnog sustava sa svrhom osiguranja kvalitete i sigurnosti usluga opskrbe pitkom vodom</td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Hrvatske vode</td><td></td></tr>
+<tr><td></td><td></td><td>6ii2</td><td>Razvoj sustava prikupljanja i obrade otpadnih voda s ciljem doprinosa poboljšanju stanja voda</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Zaštita i obnova biološke raznolikosti i tla te promicanje eko usluga, uključujući NATURA 2000 i »zelenu« infrastrukturu</td><td>6iii1</td><td>Poboljšano znanje o stanju bioraznolikosti kao temelja za učinkovito praćenje i upravljanje bioraznolikošću</td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Fond za zaštitu okoliša i energetsku učinkovitost</td><td></td></tr>
+<tr><td></td><td></td><td>6iii2</td><td>Uspostava okvira za održivo upravljanje bioraznolikošću (primarno Natura 2000)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>6iii3</td><td>Razminiranje, obnova i zaštita šuma i šumskog zemljišta u zaštićenim i Natura 2000 područjima</td><td></td><td></td><td></td></tr>
+<tr><td>7. Povezanost i mobilnost</td><td>Podupiranje multimodalnog jedinstvenog europskog prometnog prostora ulaganjem u TEN – T</td><td>7a1</td><td>Unaprjeđenje cestovne mreže TEN – T i pristupa cestovnoj mreži TEN – T</td><td>Ministarstvo mora, prometa i infrastrukture<br> p class="T-9 pleft"&gt;Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje&lt;/p</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td></td><td>Poboljšavanje regionalne mobilnosti povezivanjem sekundarnih i tercijarnih čvorišta s infrastrukturom TEN – T – a, uključujući multimodalna čvorišta</td><td>7b1</td><td>Poboljšanje cestovne sigurnosti u dijelovima s visokom razinom mješovitog prometa</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Podupiranje multimodalnog jedinstvenog europskog prometnog prostora ulaganjem u TEN – T</td><td>7i1</td><td>Povećanje teretnog prometa na unutarnjim vodnim putovima</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Razvoj i unapređenje prometnih sustava prihvatljivih za okoliš, i prometni sustavi s niskim emisijama CO2, uključujući unutarnje plovne putove i pomorski prijevoz, luke, multimodalne veze i aerodromsku infrastrukturu, radi promicanja održive regionalne i lokalne mobilnosti</td><td>7ii1</td><td>Poboljšanje dostupnosti naseljenih otoka za njihove stanovnike</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>7ii2</td><td>Povećanje broja putnika u javnom prijevozu</td><td></td><td></td><td>Grad središte urbanog područja u kojem se provodi integrirano teritorijalno ulaganje</td></tr>
+<tr><td></td><td></td><td>7ii3</td><td>Poboljšanje dostupnosti Dubrovnika i otoka zrakom</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Razvoj i obnova sveobuhvatnih, visokokvalitetnih i interoperabilnih željezničkih sustava te promicanje mjera za smanjenje buke</td><td>7iii1</td><td>Povećanje uporabe i važnosti željezničke mreže</td><td></td><td></td><td></td></tr>
+<tr><td>8. Socijalno uključivanje i zdravlje</td><td>Ulaganje u zdravstvenu i socijalnu infrastrukturu što pridonosi nacionalnom, regionalnom i lokalnom razvoju, smanjujući nejednakosti u smislu zdravstvenog statusa, promičući socijalnu uključenost, kulturne i rekreativne usluge te prelazak s institucijske skrbi na skrb u zajednici</td><td>9a1</td><td>Poboljšanje pristupa primarnoj i hitnoj zdravstvenoj zaštiti, s fokusom na udaljena i deprivirana područja</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td></td><td></td><td>9a2</td><td>Poboljšanje učinkovitosti i dostupnosti bolničkog liječenja</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>9a3</td><td>Promicanje socijalne uključenosti i smanjenje nejednakosti kroz poboljšani pristup socijalnim uslugama te prelazak s institucionalne skrbi na skrb u zajednici putem poboljšane socijalne infrastrukture</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>9a4</td><td>Provedba pilot aktivnosti koje imaju za cilj promociju socijalne uključenosti i smanjenje siromaštva ratnih veterana i civilnih žrtava Domovinskog rata</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>9a5</td><td>Jačanje kapaciteta sustava za borbu protiv COVID-19 u Republici Hrvatskoj</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Pružanje podrške fizičkoj, gospodarskoj i socijalnoj obnovi ugroženih zajednica u urbanim i ruralnim područjima</td><td>9b1</td><td>Održiva fizička, socijalna i gospodarska regeneracija pet depriviranih pilot područja s ciljem smanjenja socijalnih nejednakosti, isključenosti i siromaštva</td><td></td><td></td><td></td></tr>
+<tr><td>9.Obrazovanje, vještine i cjeloživotno učenje</td><td>Ulaganje u obrazovanje, vještine i cjeloživotno učenje kroz razvoj infrastrukture za obrazovanje i osposobljavanje</td><td>10a1</td><td>Razvoj digitalno zrelih škola koje su spremne za korištenje potencijala informacijsko komunikacijske tehnologije u obrazovanju i razvoju vještina za 21. stoljeća, potrebnih na tržištu rada</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td></td><td></td><td>10a2</td><td>Modernizacija, unaprjeđenje i povećanje infrastrukture studentskog smještaja u visokom obrazovanju s ciljem poboljšanja pristupa visokom obrazovanju te završetak studija za studente u nepovoljnom položaju</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>10a3</td><td>Povećanje relevantnosti strukovnog obrazovanja kroz poboljšanje uvjeta za stjecanje praktičnih vještina u ciljanim sektorima srednjeg strukovnog obrazovanja s ciljem postizanja veće zapošljivosti učenika srednjeg strukovnog obrazovanja</td><td></td><td></td><td></td></tr>
+<tr><td>10. Tehnička pomoć</td><td>Nije primjenjivo</td><td>TA1</td><td>Osiguravanje odgovarajućih i učinkovitih ljudskih resursa za provedbu operativnih programa</td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+<tr><td></td><td></td><td>TA2</td><td>Podrška učinkovitoj provedbi, praćenju i evaluaciji programa</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>TA3</td><td>Podrška informiranju javnosti i podizanju kapaciteta potencijalnih korisnika za pripremu projekata i njihovu provedbu</td><td></td><td></td><td></td></tr>
+<tr><td>11. Jačanje oporavka od krize u kontekstu pandemije COVID-19 i priprema za zeleni, digitalni i otporni oporavak gospodarstva</td><td></td><td></td><td></td><td>Ministarstvo gospodarstva i održivog razvoja</td><td>Hrvatska agencija za malo gospodarstvo, inovacije i investicije</td><td></td></tr>
+<tr><td>12. Sanacija šteta od potresa</td><td></td><td></td><td></td><td>Ministarstvo regionalnoga razvoja i fondova Europske unije</td><td>Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije</td><td></td></tr>
+</table>
+
+<table>
+<tr><td colspan="6">Prikaz 2<br> Operativni program »Učinkoviti ljudski potencijali«</td></tr>
+<tr><td>Prioritetna os</td><td>Izabrani investicijski prioritet</td><td>Oznaka<br> specifičnog cilja (OSC)</td><td>Naziv specifičnog cilja</td><td>Posredničko tijelo<br> razine 1</td><td>Posredničko tijelo razine 2</td></tr>
+<tr><td>1. Visoka zapošljivost i mobilnost radne snage</td><td>Pristup zapošljavanju za osobe koje traže posao i neaktivne osobe, uključujući one koji su dugotrajno nezaposleni i one koji su daleko od tržišta rada, kao i provedbom lokalnih inicijativa za zapošljavanje i potpore za mobilnost radne snage</td><td>8.i.1</td><td>Povećanje zapošljavanja nezaposlenih osoba, posebice dugotrajno nezaposlenih i osoba čije vještine ne odgovaraju potrebama tržišta rada</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td></td><td></td><td>8.i.2</td><td>Povećanje održivog samozapošljavanja nezaposlenih osoba, posebice žena</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>8.i.3</td><td>Očuvanje radnih mjesta, zadržavanje u zaposlenju radnika koji su proglašeni viškom te jačanje brzog ponovnog zapošljavanja osoba koje su postale nezaposlene nakon što su proglašene viškom</td><td></td><td></td></tr>
+<tr><td></td><td>Održiva integracija mladih na tržište rada (ESF), posebno onih koji nisu zaposleni, ne obrazuju se niti osposobljavaju, uključujući mlade koji su izloženi riziku od socijalne isključenosti i mlade iz marginaliziranih zajednica, uključujući provedbom Garancije za mlade</td><td>8.ii.1 (ESF)</td><td>Povećanje zapošljavanja i integracije dugotrajno nezaposlenih iz NEET skupine na tržište rada i za sve iz NEET skupine od 2019. godine</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike</td><td>Hrvatski zavod za zapošljavanje (i za specifični cilj 8.ii.1 (ESF), u dijelu koji se provodi kao integrirano teritorijalno ulaganje)</td></tr>
+<tr><td></td><td>Održiva integracija mladih na tržište rada (Inicijativa za zapošljavanje mladih IZM-YEI), posebno onih koji nisu zaposleni, ne obrazuju se niti osposobljavaju, uključujući mlade koji su izloženi riziku od socijalne isključenosti i mlade iz marginaliziranih zajednica, uključujući provedbom Garancije za mlade</td><td>8.ii.1 (YEI)</td><td>Povećanje zapošljavanja i brze integracije NEET skupine kroz Inicijativu za zapošljavanje mladih na tržište rada</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike<br> Ministarstvo znanosti i obrazovanja</td><td>Hrvatski zavod za zapošljavanje<br> Agencija za strukovno obrazovanje i obrazovanje odraslih</td></tr>
+<tr><td></td><td>Modernizacija ustanova tržišta rada kao što su javne i privatne službe za zapošljavanje te bolja usklađenost s potrebama tržišta rada, uključujući putem djelovanja koja povećavaju transnacionalnu mobilnost radne snage, kao i putem programa mobilnosti, te bolja suradnja institucija i relevantnih dionika</td><td>8.vii.1</td><td>Jačanje kapaciteta lokalnih partnerstava za zapošljavanje i povećanje zaposlenosti najranjivijih skupina na lokalnim tržištima rada</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td></td><td></td><td>8.vii.2</td><td>Povećanje dostupnosti i kvalitete javno dostupnih informacija i usluga na tržištu rada, uključujući mjere APZ-a</td><td></td><td></td></tr>
+<tr><td>2. Socijalno uključivanje</td><td>Aktivna uključenost, uključujući s ciljem promicanja jednakih mogućnosti te aktivnog sudjelovanja i poboljšanja zapošljivosti</td><td>9.i.1</td><td>Borba protiv siromaštva i socijalne isključenosti kroz promociju integracije na tržište rada i socijalne integracije ranjivih skupina, i borba protiv svih oblika diskriminacije</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike<br> Ministarstvo kulture i medija</td><td>Hrvatski zavod za zapošljavanje (i za specifični cilj 9.i.1, u dijelu koji se provodi kao integrirano teritorijalno ulaganje)<br> Nacionalna zaklada za razvoj civilnoga društva</td></tr>
+<tr><td></td><td></td><td>9.i.2</td><td>Jačanje aktivnog uključivanja kroz implementaciju integriranih projekata za obnovu 5 nerazvijenih pilot područja.</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td></td><td>Poboljšanje pristupa pristupačnim, održivim i visokokvalitetnim uslugama, uključujući usluge zdravstvene skrbi i socijalne usluge od općeg interesa</td><td>9.iv.1</td><td>Održivo poboljšanje pristupa zdravstvenoj skrbi u nerazvijenim područjima i za ranjive skupine te promocija zdravlja</td><td>Ministarstvo zdravstva</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td></td><td></td><td>9.iv.2</td><td>Poboljšanje pristupa visokokvalitetnim socijalnim uslugama, uključujući podršku procesu deinstitucionalizacije</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike<br> Ministarstvo turizma i sporta</td><td>Hrvatski zavod za zapošljavanje (i za specifični cilj 9.iv.2, u dijelu koji se provodi kao integrirano teritorijalno ulaganje)<br> Nacionalna zaklada za razvoj civilnoga društva</td></tr>
+<tr><td></td><td>Promicanje društvenog poduzetništva i strukovne integracije u društvenim poduzećima te društvene ekonomije i ekonomije solidarnosti radi olakšavanja pristupa zapošljavanju</td><td>9.v.1</td><td>Povećanje broja i održivosti društvenih poduzeća i njihovih zaposlenika</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike</td><td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnoga društva</td></tr>
+<tr><td>3. Obrazovanje i cjeloživotno učenje</td><td>Poboljšanje kvalitete i učinkovitosti tercijarnog i ekvivalentnog obrazovanja te pristupa njemu radi povećanja sudjelovanja u njemu i njegova stjecanja, posebno za skupine u nepovoljnom položaju</td><td>10.ii.1</td><td>Poboljšanje kvalitete, relevantnosti i učinkovitosti visokog obrazovanja</td><td rowspan="2">Ministarstvo znanosti i obrazovanja</td><td rowspan="2">Agencija za strukovno obrazovanje i obrazovanje odraslih (i za specifične ciljeve 10.iii.3 i 10.iv.1, u dijelu koji se provodi kao integrirano teritorijalno ulaganje)</td></tr>
+<tr><td></td><td></td><td>10.ii.2</td><td>Povećanje stope stečenog visokog obrazovanja</td></tr>
+<tr><td></td><td></td><td>10.ii.3</td><td>Poboljšanje uvjeta rada za hrvatske istraživače</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike (za specifični cilj 10.iii.3, u dijelu koji se provodi kao integrirano teritorijalno ulaganje)</td><td></td></tr>
+<tr><td></td><td>Povećanje jednakog pristupa cjeloživotnom učenju za sve dobne skupine u formalnom, neformalnom i informalnom okruženju, unapređenje znanja, vještina i kompetencija radne snage, promicanje fleksibilnih načina učenja, između ostalog profesionalnim savjetovanjem i potvrđivanjem stečenih kompetencija</td><td>10.iii.1</td><td>Omogućavanje boljeg pristupa obrazovanju učenicima u nepovoljnom položaju u pred-tercijarnom obrazovanju</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>10.iii.2</td><td>Promicanje pristupa cjeloživotnom učenju kroz unapređivanje ključnih kompetencija studenata, te primjenu informacijskih i komunikacijskih tehnologija u poučavanju i učenju</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>10.iii.3</td><td>Poboljšanje obrazovnog sustava za odrasle i unapređenje vještina i kompetencija odraslih polaznika</td><td></td><td></td></tr>
+<tr><td></td><td>Poboljšanje značaja obrazovnih sustava i sustava osposobljavanja za tržište rada, olakšavanje prijelaza iz škole na posao, jačanje sustava strukovnog obrazovanja i osposobljavanja te njihove kvalitete, između ostalog mehanizmima za predviđanje vještina, prilagodbom nastavnih planova i programa te uvođenjem i razvojem sustava učenja koji se temelje na radu, uključujući dualne sustave učenja i programe naukovanja</td><td>10.iv.1</td><td>Modernizacija ponude strukovnog obrazovanja te podizanje njegove kvalitete radi povećanja zapošljivosti učenika kao i mogućnosti za daljnje obrazovanje</td><td>Ministarstvo znanosti i obrazovanja<br> Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike (za specifični cilj 10.iv.1, u dijelu koji se provodi kao integrirano teritorijalno ulaganje)<br> Ministarstvo turizma i sporta</td><td></td></tr>
+<tr><td>4. Dobro upravljanje</td><td>Ulaganje u institucionalne kapacitete te u učinkovitost javnih uprava i javnih usluga na nacionalnoj, regionalnoj i lokalnoj razini s ciljem reformiranja, boljeg uređivanja i dobrog upravljanja</td><td>11.i.1</td><td>Povećanje djelotvornosti i kapaciteta u javnoj upravi kroz poboljšanje pružanja usluga i upravljanja ljudskim potencijalima</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td></td><td></td><td>11.i.2</td><td>Unapređenje kapaciteta i funkcioniranja pravosuđa kroz poboljšanje upravljanja i kompetencija</td><td></td><td></td></tr>
+<tr><td></td><td>Izgradnja kapaciteta za sve dionike koji osiguravaju obrazovanje, cjeloživotno obrazovanje, osposobljavanje te zapošljavanje i socijalne politike, uključujući uz pomoć sektorskih i teritorijalnih paktova radi omogućavanja reformi na nacionalnoj, regionalnoj i lokalnoj razini</td><td>11.ii.1</td><td>Razvoj kapaciteta organizacija civilnog društva, osobito udruga i socijalnih partnera, te jačanje civilnog i socijalnog dijaloga radi boljeg upravljanja</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike<br> Ured za udruge<br> Ministarstvo kulture i medija</td><td>Hrvatski zavod za zapošljavanje<br> Nacionalna zaklada za razvoj civilnoga društva</td></tr>
+<tr><td>5. Tehnička pomoć</td><td>Nije primjenjivo</td><td>1.</td><td>Osiguranje učinkovite pripreme, upravljanja, provedbe, praćenja, vrednovanja i kontrole Operativnog programa</td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+<tr><td></td><td></td><td>2.</td><td>Podrška potencijalnim korisnicima i regionalnim dionicima u uspješnom prijavljivanju i provedbi ESF projekata jačanjem njihovih kapaciteta i razvijanjem kvalitetne zalihe budućih projekata</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>3.</td><td>Podrška komunikacijskim aktivnostima u svrhu djelotvorne provedbe Komunikacijske strategije i osiguranje kvalitetnog informiranja potencijalnih korisnika i voditelja projekata o mogućnostima i uvjetima financiranja u okviru Operativnog programa</td><td></td><td></td></tr>
+<tr><td>6. Ublažavanje posljedica krize u kontekstu pandemije bolesti COVID -19</td><td></td><td></td><td></td><td>Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike</td><td>Hrvatski zavod za zapošljavanje</td></tr>
+</table>

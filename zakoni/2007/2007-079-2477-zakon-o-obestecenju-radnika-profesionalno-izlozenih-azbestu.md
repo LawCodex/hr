@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
-last_amended: 2010-12-10
+last_amended: 2026-05-08
 status: in_force
-status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "79/07, 139/10"
+narodne_novine: "79/07, 139/10, 111/18, 48/26"
 amendments:
   - "NN 139/2010 (3537) Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu"
+  - "NN 111/2018 (2148) Zakon o izmjeni Zakona o obeštećenju radnika profesionalno izloženih azbestu"
+  - "NN 48/2026 (580) Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2477"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2477).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 139/2010.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 139/2010, NN 111/2018, NN 48/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -167,3 +169,111 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o obeštećenju radnika profesionalno izloženih azbestu (NN 111/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/111/2148*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O OBEŠTEĆENJU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU
+
+Proglašavam Zakon o izmjeni Zakona o obeštećenju radnika profesionalno izloženih azbestu, koji je Hrvatski sabor donio na sjednici 3. prosinca 2018.
+
+Klasa: 011-01/18-01/155
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 5. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O OBEŠTEĆENJU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU**
+
+### Članak 1.
+
+U Zakonu o obeštećenju radnika profesionalno izloženih azbestu (»Narodne novine«, br. 79/07. i 139/10.) u članku 5. stavku 2. riječi: »Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu« zamjenjuju se riječima: »Hrvatskog zavoda za javno zdravstvo«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/180
+
+Zagreb, 3. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu (NN 48/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/48/580*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBEŠTEĆENJU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU
+
+Proglašavam Zakon o izmjenama Zakona o obeštećenju radnika profesionalno izloženih azbestu, koji je Hrvatski sabor donio na sjednici 30. travnja 2026.
+
+Klasa: 011-02/26-02/32  
+Urbroj: 71-10-01/1-26-2  
+Zagreb, 5. svibnja 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBEŠTEĆENJU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU**
+
+### Članak 1.
+
+U Zakonu o obeštećenju radnika profesionalno izloženih azbestu (»Narodne novine«, br. 79/07., 139/10. i 111/18.) u članku 7. stavku 1. tablica se mijenja i glasi:
+
+| Bolest/stanje | Koeficijent | Povećanje<br>koeficijenta |
+|---|---|---|
+| Pleuralni plakovi i difuzna zadebljanja pleure Kronični pleuralni izljev | 1,5 | 0,1 za svakih 10 % oštećenja funkcija |
+| Azbestoza | 4 | 0,1 za svakih 10 % oštećenja funkcija |
+| Mezoteliom | 12 | 0 |
+| Maligni tumori dišnog sustava (karcinom pluća, bronha i grkljana) | 9 | 0 |
+| Maligni tumori probavnog sustava (ždrijela, želuca, debelog crijeva i rektuma) | 9 | 0 |
+| Maligni tumori jajnika | 9 | 0 |
+
+### Članak 2.
+
+U članku 9. stavak 1. mijenja se i glasi:
+
+»Novčane naknade na ime odštetnih zahtjeva isplaćuju se u punom iznosu odmah po pravomoćnosti rješenja Povjerenstva.«.
+
+### Članak 3.
+
+Svi postupci pokrenuti prema Zakonu o obeštećenju radnika profesionalno izloženih azbestu (»Narodne novine«, br. 79/07., 139/10. i 111/18.), a nedovršeni prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama ovoga Zakona, ako je to povoljnije za radnika.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/129  
+Zagreb, 30. travnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

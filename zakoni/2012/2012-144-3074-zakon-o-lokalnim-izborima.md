@@ -6,11 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2012-12-21
+last_amended: 2021-04-09
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "144/12"
-amendments: []
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "144/12, 121/16, 98/19, 42/20, 144/20, 37/21"
+amendments:
+  - "NN 121/2016 (2629) Zakon o dopunama Zakona o lokalnim izborima"
+  - "NN 98/2019 (1937) Zakon o izmjenama Zakona o lokalnim izborima"
+  - "NN 42/2020 (881) Zakon o izmjeni i dopunama Zakona o lokalnim izborima"
+  - "NN 144/2020 (2763) Zakon o izmjenama i dopunama Zakona o lokalnim izborima"
+  - "NN 37/2021 (757) Zakon o izmjenama i dopunama Zakona o lokalnim izborima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3074"
 retrieved: 2026-10-12
 ---
@@ -18,6 +24,8 @@ retrieved: 2026-10-12
 # Zakon o lokalnim izborima
 
 > Izvor: Narodne novine, NN 144/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3074).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 121/2016, NN 98/2019, NN 42/2020, NN 144/2020, NN 37/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1848,3 +1856,463 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopunama Zakona o lokalnim izborima (NN 121/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/121/2629*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O LOKALNIM IZBORIMA
+
+Proglašavam Zakon o dopunama Zakona o lokalnim izborima, koji je Hrvatski sabor donio na sjednici 15. prosinca 2016. godine.
+
+Klasa: 011-01/16-01/81
+
+Urbroj: 71-06-01/1-16-2
+
+Zagreb, 20. prosinca 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O LOKALNIM IZBORIMA**
+
+### Članak 1.
+
+U Zakonu o lokalnim izborima (»Narodne novine«, br. 144/12.) u članku 13. ispred stavka 1. dodaje se oznaka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Birači i političke stranke ne smiju za člana predstavničkog tijela jedinice niti za općinskog načelnika, gradonačelnika i župana i njihovog zamjenika kandidirati osobe koje su pravomoćnom sudskom odlukom osuđene (uključujući tu i uvjetnu osudu) na kaznu zatvora u trajanju od najmanje šest mjeseci za sljedeća kaznena djela propisana Kaznenim zakonom:
+
+1. ubojstvo (članak 90.), teško ubojstvo (članak 91.), otmica (članak 125. stavak 3.), veleizdaja (članak 135.), priznavanje okupacije i kapitulacije (članak 136.), ubojstvo najviših državnih dužnosnika (članak 138.), otmica najviših državnih dužnosnika (članak 139.), nasilje prema najvišim državnim dužnosnicima (članak 140.), odavanje državne tajne (članak 144.), sprječavanje borbe protiv neprijatelja (članak 147.), služba u neprijateljskoj vojsci (članak 148.), pomaganje neprijatelju (članak 149.), podrivanje vojne i obrambene moći države (članak 150.), špijunaža (članak 146.), povreda ugleda Republike Hrvatske (članak 151.), pripremanje kaznenih djela protiv Republike Hrvatske (članak 153.), genocid (članak 156.), agresivni rat (članak 157.), zločin protiv čovječnosti (članak 157.a), ratni zločin protiv civilnog pučanstva (članak 158.), ratni zločin protiv ranjenika i bolesnika (članak 159.), ratni zločin protiv ratnih zarobljenika (članak 160.), protupravno ubijanje i ranjavanje neprijatelja (članak 161.), protupravno oduzimanje stvari od ubijenih i ranjenih na bojištu (članak 162.), nedozvoljena sredstva borbe (članak 163. stavak 2.), grubo postupanje s ranjenicima, bolesnicima i ratnim zarobljenicima (članak 165.), uništavanje kulturnih dobara i objekata u kojima se nalaze kulturna dobra (članak 167.), međunarodni terorizam (članak 169.), javno poticanje na terorizam (članak 169.a), novačenje i obuka za terorizam (članak 169.b), mučenje i drugo okrutno, neljudsko ili ponižavajuće postupanje (članak 176.), trgovanje ljudima i ropstvo (članak 175.), silovanje (članak 188.), spolni odnošaj s nemoćnom osobom (članak 189. stavci 2., 3. i 4.), spolni odnošaj zlouporabom položaja (članak 191. stavak 2.), spolni odnošaj s djetetom (članak 192.), bludne radnje (članak 193. stavak 2.), zadovoljenje pohote pred djetetom ili maloljetnom osobom (članak 194.), podvođenje (članak 195. stavci 1., 4., 5. i 6.), iskorištavanje djece ili maloljetnih osoba za pornografiju (članak 196.) i dječja pornografija na računalnom sustavu ili mreži (članak 197.a stavak 1.) iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08. i 57/11.),
+
+2. genocid (članak 88.), zločin agresije (članak 89.), zločin protiv čovječnosti (članak 90.), ratni zločin (članak 91.), terorizam (članak 97.), financiranje terorizma (članak 98.), javno poticanje na terorizam (članak 99.), novačenje za terorizam (članak 100.), obuka za terorizam (članak 101.), terorističko udruženje (članak 102.), pripremanje kaznenih djela protiv vrijednosti zaštićenih međunarodnih pravom (članak 103.), mučenje i drugo okrutno, neljudsko ili ponižavajuće postupanje ili kažnjavanje (članak 104.), ropstvo (članak 105.), trgovanje ljudima (članak 106.), trgovanje dijelovima ljudskog tijela i ljudskim zamecima (članak 107.), ubojstvo (članak 110.), teško ubojstvo (članak 111.), otmica (članak 137. stavak 3.), silovanje (članak 153.), teška kaznena djela protiv spolne slobode (članak 154.), spolna zlouporaba djeteta mlađeg od 15 godina (članak 158.), spolna zlouporaba djeteta starijeg od 15 godina (članak 159.), zadovoljenje pohote pred djetetom mlađim od petnaest godina (članak 160.), podvođenje djeteta (članak 162.), iskorištavanje djece za pornografiju (članak 163.), iskorištavanje djece za pornografske predstave (članak 164.), teška kaznena djela spolnog zlostavljanja i iskorištavanja djeteta (članak 166.), prisila prema pravosudnom dužnosniku (članak 312.), prisila prema službenoj osobi (članak 314.), veleizdaja (članak 340.), priznavanje okupacije i kapitulacije (članak 341.), sprječavanje borbe protiv neprijatelja (članak 342.), služba u neprijateljskoj vojsci (članak 343.), pomaganje neprijatelju (članak 344.), podrivanje vojne i obrambene moći države (članak 345.), prisila prema najvišim državnim dužnosnicima Republike Hrvatske (članak 346.), odavanje tajnih podataka (članak 347.), špijunaža (članak 348.), povreda ugleda Republike Hrvatske (članak 349.) i pripremanje kaznenih djela protiv Republike Hrvatske (članak 350.) iz Kaznenog zakona,
+
+3. povreda prava na podnošenje pravnih lijekova i predstavki (članak 112.), zlouporaba položaja i ovlasti (članak 337.), zlouporaba obavljanja dužnosti državne vlasti (članak 338.), protuzakonito posredovanje (članak 343.), primanje mita (članak 347.) i davanje mita (članak 348.) iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08. i 57/11.), a koja su počinjena s namjerom i radi pribavljanja imovinske koristi ili kakve druge koristi sebi ili drugoj osobi,
+
+4. zlouporaba položaja i ovlasti (članak 291.), nezakonito pogodovanje (članak 292.), primanje mita (članak 293.), davanje mita (članak 294.), trgovanje utjecajem (članak 295.) i davanje mita za trgovanje utjecajem (članak 296.) iz Kaznenog zakona, a koja su počinjena s namjerom i radi pribavljanja imovinske ili kakve druge koristi sebi ili drugoj osobi,
+
+5. kaznena djela koja ne zastarijevaju prema Ustavu Republike Hrvatske, sukladno Zakonu o nezastarijevanju kaznenih djela ratnog profiterstva i kaznenih djela iz procesa pretvorbe i privatizacije (»Narodne novine«, br. 57/11.).«.
+
+### Članak 2.
+
+»U članku 17. stavku 1. iza riječi: »povjerenstva« briše se točka i dodaju riječi: »i potvrda o podacima iz kaznene evidencije Ministarstva pravosuđa, sukladno članku 13. stavku 2. ovoga Zakona.«.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 015-01/16-01/03  
+Zagreb, 15. prosinca 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Zakon o izmjenama Zakona o lokalnim izborima (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1937*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O LOKALNIM IZBORIMA
+
+Proglašavam Zakon o izmjenama Zakona o lokalnim izborima, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/145
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O LOKALNIM IZBORIMA**
+
+### Članak 1.
+
+U Zakonu o lokalnim izborima (»Narodne novine«, br. 144/12. i 121/16.) u članku 59. stavku 3. riječ: »državnog« briše se.
+
+### Članak 2.
+
+U članku 78. stavku 1. podstavku 19. riječi: »predstojnik državnog ureda« zamjenjuju se riječima: »državni tajnik središnjeg državnog ureda«.
+
+U podstavku 20. riječi: »zamjenik ministra« zamjenjuju se riječima: »državni tajnik«.
+
+U podstavku 21. riječi: »pomoćnik ministra« zamjenjuju se riječima: »rukovoditelj upravne organizacije u sastavu ministarstva«.
+
+U podstavku 22. riječi: »ravnatelj i zamjenik ravnatelja« zamjenjuju se riječima: »glavni ravnatelj i zamjenik glavnog ravnatelja«.
+
+Podstavak 23. briše se.
+
+Dosadašnji podstavci 24. do 27. postaju podstavci 23. do 26.
+
+U dosadašnjem podstavku 28., koji postaje podstavak 27., riječi: »glavni inspektor Državnog inspektorata« zamjenjuju se riječima: »glavni državni inspektor«.
+
+Dosadašnji podstavci 29. do 37. postaju podstavci 28. do 36.
+
+### Članak 3.
+
+U članku 89. stavku 2. podstavku 18. riječi: »predstojnik državnog ureda« zamjenjuju se riječima: »državni tajnik središnjeg državnog ureda«.
+
+U podstavku 19. riječi: »zamjenik ministra« zamjenjuju se riječima: »državni tajnik«.
+
+U podstavku 20. riječi: »pomoćnik ministra« zamjenjuju se riječima: »rukovoditelj upravne organizacije u sastavu ministarstva«.
+
+U podstavku 23. riječi: »ravnatelj i zamjenik ravnatelja« zamjenjuju se riječima: »glavni ravnatelj i zamjenik glavnog ravnatelja«.
+
+Podstavci 24. i 25. brišu se.
+
+Dosadašnji podstavci 26. do 29. postaju podstavci 24. do 27.
+
+U dosadašnjem podstavku 30., koji postaje podstavak 28., riječi: »glavni inspektor Državnog inspektorata« zamjenjuju se riječima: »glavni državni inspektor«.
+
+Dosadašnji podstavci 31. do 42. postaju podstavci 29. do 40.
+
+### Članak 4.
+
+U cijelom tekstu Zakona o lokalnim izborima (»Narodne novine«, br. 144/12. i 121/16.) riječi: »središnje tijelo državne uprave« u određenom padežu zamjenjuju se riječima: »tijelo državne uprave« u odgovarajućem padežu.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/140
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o lokalnim izborima (NN 42/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/881*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O LOKALNIM IZBORIMA
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o lokalnim izborima, koji je Hrvatski sabor donio na sjednici 7. travnja 2020.
+
+Klasa: 011-01/20-01/38
+
+Urbroj: 71-06-01/1-20-2
+
+Zagreb, 7. travnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O LOKALNIM IZBORIMA**
+
+### Članak 1.
+
+U Zakonu o lokalnim izborima (»Narodne novine«, br. 144/12., 121/16. i 98/19.) u članku 6. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) U slučaju nastupanja posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje trenutačno ugrožava pravni poredak, život, zdravlje ili sigurnost stanovništva te imovinu veće vrijednosti, Vlada Republike Hrvatske može odgoditi raspisivanje prijevremenih izbora, odnosno staviti izvan snage odluku kojom su raspisani prijevremeni izbori do prestanka posebnih okolnosti.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., iza riječi: »izbora« dodaju se riječi: »i odluka o stavljanju izvan snage odluke o raspisivanju prijevremenih izbora«, riječi: »dostavlja se« zamjenjuju se riječima: »dostavljaju se« te riječi: »je donesena« zamjenjuju se riječima: »su donesene«.
+
+### Članak 2.
+
+U članku 7. iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Iznimno od rokova propisanih stavcima 2., 3., 4. i 5. ovoga članka, u slučaju nastupanja posebnih okolnosti iz članka 6. stavka 3. ovoga Zakona prijevremeni izbori održat će se nakon prestanka posebnih okolnosti, a najkasnije u roku od 90 dana od dana prestanka tih okolnosti.«.
+
+U dosadašnjem stavku 6., koji postaje stavak 7., riječi: »4. i 5.« zamjenjuju se riječima: »4., 5. i 6.«.
+
+Dosadašnji stavak 7. postaje stavak 8.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/48  
+Zagreb, 7. travnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o lokalnim izborima (NN 144/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/144/2763*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNIM IZBORIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o lokalnim izborima, koji je Hrvatski sabor donio na sjednici 15. prosinca 2020.
+
+Klasa: 011-01/20-01/116
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 17. prosinca 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNIM IZBORIMA**
+
+### Članak 1.
+
+U Zakonu o lokalnim izborima (»Narodne novine«, br. 144/12., 121/16., 98/19. i 42/20.) u članku 1. stavku 1. iza riječi: »zamjenika« dodaju se riječi: »u jedinicama lokalne i područne (regionalne) samouprave u kojima se zamjenici biraju sukladno odredbama zakona kojim se uređuje lokalna i područna (regionalna) samouprava«.
+
+### Članak 2.
+
+U članku 3. stavku 2. riječi: »njihovog zamjenika« zamjenjuju se riječima: »zamjenika gradonačelnika i župana«, a riječi: »najmanje šest mjeseci« brišu se.
+
+### Članak 3.
+
+U članku 7. stavku 8. riječi: »općinskog načelnika,« i »općinskim načelnikom,« brišu se.
+
+### Članak 4.
+
+U članku 8. stavak 4. mijenja se i glasi:
+
+»Iznimno od stavka 3. ovoga članka, mandat općinskog načelnika, gradonačelnika i župana te zamjenika gradonačelnika i župana koje je Vlada Republike Hrvatske razriješila traje do stupanja na snagu odluke Vlade Republike Hrvatske o razrješenju, odnosno istovremenom raspuštanju predstavničkog tijela i razrješenju općinskog načelnika, gradonačelnika, odnosno župana.«.
+
+### Članak 5.
+
+U naslovu iznad članka 12. riječi: »njihovih zamjenika« zamjenjuju se riječima: »zamjenika gradonačelnika i župana«.
+
+U članku 12. stavku 1. riječi: »njihovih zamjenika« zamjenjuju se riječima: »zamjenika gradonačelnika i župana«.
+
+### Članak 6.
+
+U naslovu iznad članka 19. riječi: »njihove zamjenike« zamjenjuju se riječima: »zamjenika gradonačelnika i župana«.
+
+U članku 19. stavak 1. mijenja se i glasi:
+
+»(1) U kandidaturi za općinskog načelnika i gradonačelnika koji nema zamjenika koji se bira zajedno s njim, navode se ime i prezime kandidata za općinskog načelnika, odnosno gradonačelnika, prebivalište, datum rođenja, osobni identifikacijski broj (OIB) i spol.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) U kandidaturi za gradonačelnika koji ima zamjenika koji se bira zajedno s njim i župana navode se ime i prezime kandidata za gradonačelnika i župana te njihovog zamjenika, prebivalište, datum rođenja, osobni identifikacijski broj (OIB) i spol.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4..
+
+### Članak 7.
+
+U članku 25. stavku 1. riječi: »njihove zamjenike« zamjenjuju se riječima: »zamjenike gradonačelnika i župana«.
+
+U stavku 4. riječi: »općinskog načelnika,« brišu se.
+
+### Članak 8.
+
+U članku 26. stavku 1. podstavku 2. riječi: »i njihovog zamjenika« zamjenjuju se riječima: »te zamjenika gradonačelnika i župana«.
+
+### Članak 9.
+
+U članku 51. točkama 1., 4., i 5. riječ: »njegovih« zamjenjuju se riječju: »njegova«.
+
+### Članak 10.
+
+U članku 52. točkama 1., 3., 4. i 9. riječ: »njegovih« zamjenjuju se riječju: »njegova«.
+
+### Članak 11.
+
+U članku 53. točkama 1., 3. i 4. riječi: »njihovih zamjenika« zamjenjuju se riječima: »zamjenika gradonačelnika«.
+
+U točki 8. riječi: »njegovih zamjenika« zamjenjuju se riječima: »zamjenika župana«.
+
+U točkama 9. i 10. riječi: »njihovih zamjenika« zamjenjuju se riječima: »zamjenika gradonačelnika«.
+
+### Članak 12.
+
+U članku 78. stavku 3. riječ: »njihov« zamjenjuje se riječju »njegov«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Član predstavničkog tijela jedinice lokalne samouprave ne može istovremeno biti privremeni zamjenik općinskog načelnika, odnosno gradonačelnika koji zamjenjuje općinskog načelnika, odnosno gradonačelnika za vrijeme trajanja duže odsutnosti ili drugih razloga spriječenosti zbog kojih je općinski načelnik, odnosno gradonačelnik kojemu mandat nije prestao onemogućen obavljati svoju dužnost.«.
+
+### Članak 13.
+
+U članku 79. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Članu predstavničkog tijela jedinice lokalne samouprave kojeg je općinski načelnik, odnosno gradonačelnik imenovao za privremenog zamjenika općinskog načelnika, odnosno gradonačelnika, mandat miruje po sili zakona od dana kada je općinski načelnik, odnosno gradonačelnik onemogućen obavljati svoju dužnost zbog odsutnosti ili drugih razloga spriječenosti.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., brojka: »4« zamjenjuje se brojkom: »5«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+U dosadašnjem stavku 7., koji postaje stavak 8., brojka: »6« zamjenjuje se brojkom: »7«.
+
+Dosadašnji stavci 8. i 9. postaju stavci 9. i 10.
+
+Iza dosadašnjeg stavka 10., koji postaje stavak 11., dodaje se stavak 12. koji glasi:
+
+»(12) Iznimno, ograničenje iz stavka 11. ovoga članka ne primjenjuje se u slučaju nastavljanja obnašanja dužnosti člana predstavničkog tijela kojemu je mandat mirovao zbog razloga utvrđenog stavkom 4. ovoga članka.«.
+
+### Članak 14.
+
+U članku 87. stavak 1. mijenja se i glasi:
+
+»(1) Konstituirajuću sjednicu predstavničkog tijela jedinice saziva pročelnik upravnog tijela nadležnog za poslove predstavničkog tijela ili službenik kojeg on ovlasti. Ako u jedinici nije imenovan pročelnik upravnog tijela nadležnog za poslove predstavničkog tijela ili službenik ovlašten za obavljanje poslova tog pročelnika, konstituirajuću sjednicu sazvat će čelnik tijela državne uprave nadležnog za lokalnu i područnu (regionalnu) samoupravu ili osoba koju on ovlasti.«.
+
+### Članak 15.
+
+U naslovu iznad članka 88. riječi: »NJIHOVIH ZAMJENIKA« zamjenjuju se riječima: »ZAMJENIKA GRADONAČELNIKA I ŽUPANA«.
+
+### Članak 16.
+
+U članku 94. stavku 1. riječi: »njihovi zamjenici« zamjenjuju se riječima: »zamjenik gradonačelnika i župana«.
+
+### Članak 17.
+
+U članku 100. stavku 1. podstavku 2. riječi: »i njihovog zamjenika« zamjenjuju se riječima: »te zamjenika gradonačelnika i župana«.
+
+### Članak 18.
+
+U članku 102. stavku 1. podstavku 4. riječi: »i njihovog zamjenika« zamjenjuju se riječima: »te zamjenika gradonačelnika i župana«.
+
+### Članak 19.
+
+U članku 107. stavci 3., 4., 5., 6. i 7. brišu se.
+
+Dosadašnji stavak 8. koji postaje stavak 3. mijenja se i glasi:
+
+»(3) Radi ostvarenja odgovarajuće zastupljenosti nacionalnih manjina u predstavničkom tijelu, Vlada Republike Hrvatske raspisat će dopunske izbore za predstavnike nacionalnih manjina u roku od 90 dana od konstituiranja predstavničkog tijela jedinice, u kojem slučaju broj članova predstavničkog tijela može biti paran.«.
+
+### Članak 20.
+
+U članku 112. stavku 3. riječi: »najmanje šest mjeseci« brišu se.
+
+### Članak 21.
+
+U članku 117. stavku 2. iza riječi: »izbora« dodaje se riječ: »zamjenika«.
+
+### Članak 22.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/147  
+Zagreb, 15. prosinca 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o lokalnim izborima (NN 37/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/37/757*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNIM IZBORIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o lokalnim izborima, koji je Hrvatski sabor donio na sjednici 9. travnja 2021.
+
+Klasa: 011-01/21-01/22  
+Urbroj: 71-10-01/1-21-2  
+Zagreb, 9. travnja 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNIM IZBORIMA**
+
+### Članak 1.
+
+U Zakonu o lokalnim izborima (»Narodne novine«, br. 144/12., 121/16., 98/19., 42/20. i 144/20.) u članku 1. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Odredbe ovoga Zakona koje se odnose na zamjenika gradonačelnika koji se bira zajedno s gradonačelnikom primjenjuju se i na zamjenika općinskog načelnika koji se bira zajedno s općinskim načelnikom.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 2.
+
+U članku 13. stavak 2. mijenja se i glasi:
+
+»(2) Birači i političke stranke ne smiju za člana predstavničkog tijela jedinice niti za općinskog načelnika, gradonačelnika i župana i njihova zamjenika kandidirati osobe koje su pravomoćnom sudskom presudom osuđene za kazneno djelo na kaznu zatvora u trajanju od najmanje šest mjeseci ili im je ta kazna zamijenjena radom za opće dobro ili uvjetnom osudom.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Zabrana kandidiranja iz stavka 2. ovoga članka ne odnosi se na osobe koje su pravomoćnom sudskom presudom osuđene za kaznena djela počinjena iz nehaja na kaznu zatvora ako im je ta kazna zamijenjena radom za opće dobro ili uvjetnom osudom.«.
+
+### Članak 3.
+
+U članku 17. stavku 3. riječi: »te izjava o činjenici potrebnog trajanja prebivališta kandidata na području jedinice, sukladno odredbama ovoga Zakona« brišu se.
+
+### Članak 4.
+
+U članku 80. stavku 1. točke 3. i 4. mijenjaju se i glase:
+
+»3. ako je pravomoćnom sudskom presudom osuđen za kazneno djelo na kaznu zatvora u trajanju od najmanje šest mjeseci ili mu je ta kazna zamijenjena radom za opće dobro ili uvjetnom osudom, danom pravomoćnosti presude, osim za kaznena djela iz članka 13. stavka 3. ovoga Zakona,
+
+4. danom odjave prebivališta s područja jedinice,«.
+
+### Članak 5.
+
+U članku 93. stavku 1. točke 3. i 4. mijenjaju se i glase:
+
+»3. ako je pravomoćnom sudskom presudom osuđen za kazneno djelo na kaznu zatvora ili mu je ta kazna zamijenjena radom za opće dobro ili uvjetnom osudom, danom pravomoćnosti presude, osim za kaznena djela iz članka 13. stavka 3. ovoga Zakona,
+
+4. danom odjave prebivališta s područja jedinice,«.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/28  
+Zagreb, 9. travnja 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

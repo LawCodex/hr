@@ -6,14 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-06-11
-last_amended: 2014-12-24
+last_amended: 2018-10-31
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "71/14, 118/14, 154/14"
+narodne_novine: "71/14, 118/14, 154/14, 94/18, 96/18"
 amendments:
   - "NN 118/2014 (2233) Ispravak Zakona o zaštiti na radu"
   - "NN 154/2014 (2906) Uredba o izmjeni Zakona o zaštiti na radu"
+  - "NN 94/2018 (1819) Zakon o izmjenama i dopunama Zakona o zaštiti na radu"
+  - "NN 96/2018 (1869) Ispravak Zakona o izmjenama i dopunama Zakona o zaštiti na radu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/71/1334"
 retrieved: 2026-10-12
 ---
@@ -22,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 71/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/71/1334).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 118/2014, NN 154/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 118/2014, NN 154/2014, NN 94/2018, NN 96/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2002,3 +2004,378 @@ Zagreb, 23. prosinca 2014.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti na radu (NN 94/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/94/1819*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI NA RADU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti na radu, koji je Hrvatski sabor donio na sjednici 12. listopada 2018.
+
+Klasa: 011-01/18-01/110  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 17. listopada 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI NA RADU**
+
+#### Članak 1.
+
+U Zakonu o zaštiti na radu (»Narodne novine«, br. 71/14. i 118/14.) u članku 1. stavak 1. mijenja se i glasi:
+
+»(1) Ovim Zakonom uređuje se sustav zaštite na radu u Republici Hrvatskoj, a osobito nacionalna politika i aktivnosti, opća načela prevencije i pravila zaštite na radu, obveze poslodavca, prava i obveze radnika i povjerenika radnika za zaštitu na radu, djelatnosti u vezi sa zaštitom na radu te nadzor i prekršajna odgovornost.«.
+
+U stavku 2. riječ: »drugih« briše se.
+
+U stavku 4. iza riječi: »skupina« dodaju se riječi: »radnika i«.
+
+#### Članak 2.
+
+U članku 2. stavku 1. iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3) Direktiva Vijeća 92/57/EEZ od 24. lipnja 1992. o primjeni minimalnih sigurnosnih i zdravstvenih zahtjeva na privremenim ili pokretnim gradilištima (osma pojedinačna direktiva u smislu članka 16. stavka 1. Direktive 89/391/EEZ) (SL L 245, 26. 8. 1992.)«.
+
+Dosadašnje točke 3. – 5. postaju točke 4. – 6.
+
+#### Članak 3.
+
+U članku 3. stavku 1. iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2) Bolesti u vezi s radom su bolesti koje uzrokuje više čimbenika od kojih je rad jedan od njih«.
+
+Dosadašnje točke 2. – 12. postaju točke 3. – 13.
+
+U dosadašnjoj točki 13., koja postaje točka 14., riječi: »drugi prostor« zamjenjuju se riječima: »u drugom prostoru«.
+
+Dosadašnje točke 14. – 31. postaju točke 15. – 32.
+
+#### Članak 4.
+
+U članku 4. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Odredbe iz ovoga Zakona ne odnose se na obrtnika koji obrt obavlja sam kao niti na poslodavca kojeg zastupa jedna fizička osoba koja je ujedno i jedini radnik kod poslodavca, osim kada za njih obavljaju određene aktivnosti osobe na radu.
+
+(3) Osobe iz stavka 2. ovoga članka obvezne su primjenjivati ovaj Zakon kada zajedno s drugom osobom ili s više drugih osoba obavljaju radove na istom mjestu rada.«.
+
+Dosadašnji stavak 2., koji postaje stavak 4., mijenja se i glasi:
+
+»(4) Pri obavljanju pojedinih specifičnih poslova kod kojih se zbog njihovih posebnosti i neizbježne proturječnosti s ovim Zakonom ne mogu u cijelosti primijeniti opća načela prevencije, kao pri pojedinim poslovima Oružanih snaga Republike Hrvatske, policije, zaštite i spašavanja, zaštite osoba i imovine, vatrogasaca i pirotehničara te drugim specifičnim poslovima, zaštita na radu uređuje se posebnim propisima ili priznatim pravilima zaštite na radu.«.
+
+Dosadašnji stavak 3. briše se.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 5.
+
+U članku 6. stavak 3. mijenja se i glasi:
+
+»(3) Članove Nacionalnog vijeća iz stavka 2. ovoga članka imenuje Vlada odlukom kao svoje savjetodavno tijelo za zaštitu na radu, a čine ga dva predstavnika koje predlaže ministar nadležan za rad (u daljnjem tekstu: ministar), jedan predstavnik kojeg predlaže ministar nadležan za zdravstvo i po dva predstavnika poslodavaca i radnika koje predlažu reprezentativne udruge poslodavaca i radnika više razine prema posebnom propisu.«.
+
+Stavci 4. i 5. brišu se.
+
+Dosadašnji stavak 6. postaje stavak 4.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Administrativne poslove za Nacionalno vijeće za zaštitu na radu obavlja ministarstvo nadležno za rad.«.
+
+#### Članak 6.
+
+U članku 18. stavak 5. mijenja se i glasi:
+
+»(5) Poslodavac je obvezan radnike odnosno njihove predstavnike uključiti u postupak procjene rizika i o tome imati dokumentirane informacije.«.
+
+#### Članak 7.
+
+U članku 20. stavak 7. mijenja se i glasi:
+
+»(7) Više poslodavaca koji posluju na istoj lokaciji mogu međusobno ugovoriti zajedničko obavljanje poslova zaštite na radu, primjenjujući kriterij broja radnika i ostale kriterije iz stavaka 1., 2., 3. i 4. ovoga članka.«.
+
+#### Članak 8.
+
+U članku 21. stavku 1. točki 6. riječi: »Zavodom za unapređivanje zaštite na radu,« brišu se.
+
+#### Članak 9.
+
+U članku 22. stavak 3. mijenja se i glasi:
+
+»(3) Ministar pravilnikom iz članka 20. stavka 9. ovoga Zakona propisuje način i uvjete polaganja stručnog ispita za stručnjaka zaštite na radu, sastav i način rada ispitne komisije, visinu naknade kojom se podmiruju troškovi polaganja stručnog ispita za stručnjaka zaštite na radu te uvjete za priznavanje statusa stručnjaka zaštite na radu, oblike stalnog stručnog usavršavanja i načine njegova vrednovanja te evidenciju izdanih uvjerenja stručnjacima zaštite na radu.«.
+
+#### Članak 10.
+
+U članku 32. stavku 5. točki 2. iza riječi: »stavka 1.« dodaju se riječi: »i 2.«.
+
+#### Članak 11.
+
+U članku 34. stavku 7. riječi: »tri mjeseca« zamjenjuju se riječima: »šest mjeseci«.
+
+U stavku 8. riječi: »smrtne, teške ozljede na mjestu rada« zamjenjuju se riječima: »događaja iz članka 65. stavka 1. i 2. ovoga Zakona«.
+
+#### Članak 12.
+
+U članku 43. stavku 4. iza riječi: »radničkog vijeća« briše se točka, dodaje se zarez i riječi: »odnosno sindikalnog povjerenika s pravima i obvezama radničkog vijeća.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Ako radničko vijeće, odnosno sindikalni povjerenik s pravima i obvezama radničkog vijeća uskrati suglasnost, poslodavac može u roku od 15 dana od dana dostave izjave o uskrati suglasnosti tražiti da tu suglasnost nadomjesti sudska ili arbitražna odluka u skladu s općim propisom o radu.«.
+
+#### Članak 13.
+
+U članku 54. stavak 2. briše se.
+
+#### Članak 14.
+
+U članku 56. stavku 2. brojka: »20« zamjenjuje se s brojkom: »50«, a riječi: »i u pisanom obliku dobiti obavijest da je određen za pružanje prve pomoći« se brišu.
+
+Iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»(3) Broj osposobljenih i imenovanih radnika za pružanje prve pomoći mora odgovarati broju lokacija poslodavca, smjenskom radu te drugim organizacijskim okolnostima kod poslodavca.
+
+(4) Poslodavac je radnicima osposobljenim za pružanje prve pomoći dužan uručiti pisanu odluku o imenovanju za pružanje prve pomoći te obavijestiti sve ostale radnike o radnicima koji su osposobljeni i imenovani za pružanje prve pomoći.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 5. i 6.
+
+#### Članak 15.
+
+U članku 57. stavku 1. riječi: »duhanskog dima« zamjenjuju se riječima: »dima duhanskih i srodnih proizvoda, biljnih proizvoda za pušenje te para elektroničkih cigareta«.
+
+U stavku 2., 3. i 4. iza riječi: »pušenje« dodaju se riječi: »duhanskih i srodnih proizvoda, elektroničkih cigareta i biljnih proizvoda za pušenje«.
+
+#### Članak 16.
+
+U članku 62. stavku 3. brojka: »30« zamjenjuje se s brojkom: »60«.
+
+#### Članak 17.
+
+U članku 64. stavku 4. riječ: »radne« mijenja se riječju: »zdravstvene«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ministar nadležan za zdravstvo, uz prethodnu suglasnost ministra, pravilnikom propisuje sadržaj i način izdavanja isprava iz stavka 3. ovoga članka.«.
+
+#### Članak 18.
+
+Članak 65. mijenja se i glasi:
+
+»(1) Poslodavac je obvezan obavijestiti tijelo nadležno za inspekcijski nadzor o smrtnoj ozljedi nastaloj u prostoriji ili na prostoru u kojem poslodavac obavlja rad.
+
+(2) Poslodavac je obvezan obavijestiti tijelo nadležno za inspekcijski nadzor o ozljedi nastaloj u prostoriji ili na prostoru u kojem poslodavac obavlja rad zbog koje je radniku ili osobi na radu pružena hitna medicinska pomoć i zbog koje je ozlijeđena osoba zadržana na liječenju u stacionarnoj zdravstvenoj ustanovi ili dnevnoj bolnici.
+
+(3) Obavijest iz stavka 1. i 2. ovoga članka poslodavac je obvezan dostaviti odmah po nastanku ozljede.
+
+(4) Smatra se da je poslodavac ispunio obvezu iz stavka 3. ovoga članka ako je nakon isključenja izvora ozljede, pružanja prve pomoći ozlijeđenoj osobi te pozivanja hitne medicinske pomoći ili zbrinjavanja ozlijeđene osobe u stacionarnu zdravstvenu ustanovu ili dnevnu bolnicu, bez odgađanja obavijestio mjesno nadležni ured tijela nadležnog za inspekcijski nadzor na broj telefona objavljen na službenim stranicama toga tijela ili na jedinstveni telefonski broj za hitne službe 112.«.
+
+#### Članak 19.
+
+Članak 72. mijenja se i glasi:
+
+»(1) Poslodavac je obvezan povjereniku radnika za zaštitu na radu:
+
+1) osigurati potrebno vrijeme za nesmetano obnašanje dužnosti
+
+2) davati sve potrebne obavijesti i omogućiti mu uvid u sve propise i isprave iz zaštite na radu
+
+3) osigurati uvjete za nesmetano obnašanje dužnosti u skladu s općim propisima o radu kojima su propisani uvjeti za rad radničkog vijeća.
+
+(2) Poslodavac ne smije povjereniku radnika za zaštitu na radu, tijekom obnašanja dužnosti, bez suglasnosti radničkog vijeća ili sindikalnog povjerenika koji ima prava i obveze radničkog vijeća, otkazati ugovor o radu, niti ga na drugi način staviti u nepovoljniji položaj u odnosu na njegove dotadašnje uvjete rada i u odnosu na ostale radnike.
+
+(3) Ako radničko vijeće ili sindikalni povjerenik koji ima prava i obveze radničkog vijeća uskrati suglasnost na otkaz, uskrata mora biti pisano obrazložena, a poslodavac može u roku od 15 dana od dana dostave tog očitovanja zatražiti da suglasnost nadomjesti sudska odluka.
+
+(4) Za obnašanje dužnosti povjerenika radnika za zaštitu na radu povjerenik ima pravo na naknadu plaće za najmanje tri sata tjedno, osim ako se kolektivnim ugovorom to pitanje drukčije ne uredi, a bez mogućnosti ustupanja toga prava drugom povjereniku.«.
+
+#### Članak 20.
+
+U članku 77. stavku 1. riječ: »izvedbenog« briše se.
+
+#### Članak 21.
+
+Članak 78. mijenja se i glasi:
+
+»Ministar pravilnikom propisuje način i uvjete polaganja stručnog ispita za koordinatora zaštite na radu, sastav i način rada ispitne komisije, visinu naknade kojom se podmiruju troškovi polaganja stručnog ispita za koordinatora zaštite na radu te uvjete za priznavanje statusa koordinatora zaštite na radu, mjere, pravila, postupke i aktivnosti zaštite na radu na gradilištu te uvjete koje mora ispunjavati koordinator zaštite na radu tijekom izrade projekta, odnosno izvođenja radova.«.
+
+#### Članak 22.
+
+U članku 81. stavku 2. riječi: »ako je« zamjenjuju se riječima: »a koje«.
+
+#### Članak 23.
+
+Članak 82. mijenja se i glasi:
+
+»(1) Poslove zaštite na radu kod poslodavca mogu obavljati ovlaštene osobe.
+
+(2) Osoba ovlaštena za obavljanje poslova zaštite na radu obvezna je poslove zaštite na radu obavljati u skladu s odredbama ovoga Zakona i drugih propisa zaštite na radu.
+
+(3) Osoba može biti ovlaštena za izradu procjene rizika, osposobljavanje za rad na siguran način, ispitivanje sredstava rada, ispitivanja u radnom okolišu te obavljanje poslova zaštite na radu u skladu sa stavkom 10. ovoga članka.
+
+(4) Ovlaštenje iz stavka 3. ovoga članka može se dati za obavljanje pojedinog ili više poslova zaštite na radu.
+
+(5) Ovlaštena osoba izdaje isprave o provedenim ispitivanjima radne opreme, odnosno radnog okoliša.
+
+(6) Ako ovlaštena osoba obavlja poslove zaštite na radu suprotno odredbama ovoga Zakona i drugih pravila zaštite na radu, ovlaštenoj fizičkoj osobi, ovlaštenoj pravnoj osobi i odgovornoj osobi u ovlaštenoj pravnoj osobi poništit će se i ukinuti ovlaštenja u skladu s propisom iz stavka 12. ovoga članka.
+
+(7) Ministarstvo postupa i rješava u upravnim stvarima u prvostupanjskom postupku u vezi s davanjem ovlaštenja osobama za zaštitu na radu.
+
+(8) Ministarstvo obavlja stručni nadzor i reviziju poslovanja ovlaštenih osoba u odnosu na dobivena ovlaštenja.
+
+(9) Rješenja iz stavka 7. ovoga članka su upravni akti, protiv kojih se može pokrenuti upravni spor.
+
+(10) Tijela državne uprave, tijela s javnim ovlastima te javne ustanove dužne su na zahtjev tijela državne i javne uprave te javnih ustanova osigurati dostupnost podataka s područja zaštite na radu, poštujući propise o zaštiti osobnih podataka.
+
+(11) Ministar pravilnikom propisuje obveznike, načine, postupke, rokove, vrste podataka i izvješća koje ministarstvu dostavljaju poslodavci, ovlaštene osobe, zavod nadležan za zaštitu zdravlja na radu, zavod nadležan za zdravstveno osiguranje, tijelo nadležno za poslove inspekcije rada te pravila o pristupanju podacima.
+
+(12) Ministar pravilnikom propisuje uvjete pod kojima poslodavac za svoje potrebe i osobe iz stavka 1. ovoga članka mogu biti ovlašteni za obavljanje poslova iz stavaka 3. i 5. ovoga članka, postupak izdavanja, poništavanja i ukidanja ovlaštenja, stručni nadzor nad obavljanjem poslova za koje su ovlašteni, postupak izdavanja isprava o provedenim ispitivanjima i osposobljavanju, obveze i način evidentiranja izdanih i oduzetih ovlaštenja.«.
+
+#### Članak 24.
+
+Članci 83. – 88. i naslovi iznad njih brišu se.
+
+#### Članak 25.
+
+Članak 93. mijenja se i glasi:
+
+»(1) Nadležni inspektor rada dužan je obaviti nadzor povodom događaja iz članka 65. stavka 1. i 2. ovoga Zakona odmah nakon primitka obavijesti o nastanku takvoga događaja od poslodavca, policije, radnika ili liječnika koji je ozlijeđenoj osobi pružio medicinsku pomoć.
+
+(2) Nadležni inspektor rada dužan je obaviti nadzor kod poslodavca kod kojeg je utvrđena profesionalna bolest radnika.
+
+(3) O događaju iz članka 65. stavka 1. ovoga Zakona nadležni inspektor rada dužan je, najkasnije u roku od 24 sata od primljene obavijesti o događaju, izvijestiti svoga čelnika.
+
+(4) Čelnik tijela nadležnog za inspekciju rada naputkom određuje koje podatke mora sadržavati izvješće iz stavka 3. ovoga članka.«.
+
+#### Članak 26.
+
+U članku 95. stavku 1. točka 1. mijenja se i glasi:
+
+»1) ako ne organizira sastajanje odbora za zaštitu na radu najmanje jedanput u šest mjeseci i ako u slučaju smrtne ozljede ne sazove sjednicu odbora za zaštitu na radu u roku od dva radna dana od nastanka takve ozljede (članak 34. stavci 7. i 8.)«.
+
+Točka 3. mijenja se i glasi:
+
+»3) ako ne provodi zaštitu nepušača od djelovanja dima duhanskih i srodnih proizvoda, biljnih proizvoda za pušenje i para elektroničkih cigareta te ako ne spriječi pušenje na radnim sastancima ili na mjestu rada (članak 57. stavci 1., 2. i 3.)«.
+
+#### Članak 27.
+
+U članku 96. stavku 1. riječi: »investitor, vlasnik građevine, koncesionar ili druga osoba« brišu se.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Za prekršaj iz stavka 1. ovoga članka može se izreći novčana kazna na mjestu izvršenja prekršaja pravnoj osobi u iznosu od 10.000,00 kuna, a poslodavcu fizičkoj osobi i odgovornoj osobi pravne osobe u iznosu od 1.900,00 kuna.«.
+
+#### Članak 28.
+
+U članku 98. stavku 1. točka 1. mijenja se i glasi:
+
+»1) ako nije procijenio rizike za život i zdravlje radnika i osoba na radu u pisanom ili elektroničkom obliku, uzimajući u obzir poslove i njihovu prirodu, ili ako procjena rizika nije dostupna radniku na mjestu rada, ili ako u postupku izrade procjene rizika nisu sudjelovali radnici odnosno njihovi predstavnici (članak 18. stavci 1., 2. i 5.)«.
+
+Točka 4. mijenja se i glasi:
+
+»4) ako odmah po nastanku smrtne ozljede i ozljede nastale u prostoriji ili na prostoru u kojem poslodavac obavlja rad zbog koje je radniku ili osobi na radu pružena hitna medicinska pomoć i zbog koje je ozlijeđena osoba zadržana na liječenju u stacionarnoj zdravstvenoj ustanovi ili dnevnoj bolnici, ne obavijesti tijelo nadležno za inspekcijski nadzor (članak 65. stavci 1., 2. i 3.)«.
+
+#### Članak 29.
+
+U članku 99. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 100.000,00 kuna kaznit će se za prekršaj pravna osoba ovlaštena za obavljanje poslova zaštite na radu ako poslove zaštite na radu ne obavlja u skladu s odredbama ovoga Zakona i drugih propisa na temelju njega (članak 82. stavak 2.).«.
+
+#### Članak 30.
+
+U članku 103. stavku 7. točki 3. riječi: »osim članaka« zamjenjuju se riječju: »članci«.
+
+#### Članak 31.
+
+U cijelom tekstu Zakona riječi: »ministar nadležan za zdravlje« u određenom padežu zamjenjuju se riječima: »ministar nadležan za zdravstvo« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 32.
+
+(1) Ministar nadležan za zdravstvo će, uz prethodnu suglasnost ministra, donijeti pravilnik iz članka 17. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Čelnik tijela nadležnog za inspekciju rada donijet će naputak iz članka 25. stavka 4. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 33.
+
+(1) Na dan 1. siječnja 2019. Zavod za unapređivanje zaštite na radu prestaje s radom.
+
+(2) Ravnatelj Zavoda za unapređivanje zaštite na radu podnijet će nadležnom sudu prijedlog za brisanje Zavoda za unapređivanje zaštite na radu iz sudskog registra u roku od osam dana od dana prestanka rada Zavoda za unapređivanje zaštite na radu.
+
+(3) Danom brisanja iz sudskog registra prestaje mandat predsjednici i članovima Upravnog vijeća Zavoda za unapređivanje zaštite na radu.
+
+(4) Danom iz stavka 1. ovoga članka Ministarstvo rada i mirovinskoga sustava preuzet će poslove, imovinu, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze Zavoda za unapređivanje zaštite na radu.
+
+(5) Danom iz stavka 1. ovoga članka Ministarstvo rada i mirovinskoga sustava će postupati i rješavati u upravnim stvarima u prvostupanjskom postupku o svim pravima i obvezama propisanim ovim Zakonom.
+
+(6) Postupke započete prema odredbama Zakona o zaštiti na radu (»Narodne novine«, br. 71/14. i 118/14.) koji nisu pravomoćno dovršeni do prestanka rada Zavoda za unapređivanje zaštite na radu dovršit će Ministarstvo rada i mirovinskoga sustava.
+
+(7) Rješenja o ovlaštenju za obavljanje pojedinih poslova zaštite na radu koja je na temelju Zakona o zaštiti na radu (»Narodne novine«, br. 71/04. i 118/14.) i njegovih podzakonskih propisa donio Zavod za unapređivanje zaštite na radu, ostaju na snazi.
+
+#### Članak 34.
+
+(1) Vlada Republike Hrvatske će u roku od 15 dana od dana stupanja na snagu ovoga Zakona uredbom urediti unutarnji ustroj Ministarstva rada i mirovinskoga sustava.
+
+(2) Ministar rada i mirovinskoga sustava uskladit će Pravilnik o unutarnjem redu u roku od 15 dana od dana stupanja na snagu Uredbe iz stavka 1. ovoga članka.
+
+#### Članak 35.
+
+(1) Danom stupanja na snagu Uredbe iz članka 34. stavka 1. ovoga Zakona radnike zaposlene i zatečene u Zavodu za unapređivanje zaštite na radu preuzet će Ministarstvo rada i mirovinskoga sustava.
+
+(2) Radnici iz stavka 1. ovoga članka do rasporeda na radno mjesto nastavljaju obavljati poslove koje su obavljali i zadržavaju sva prava iz radnog odnosa koja su stekli do njihova preuzimanja u Ministarstvo rada i mirovinskoga sustava.
+
+(3) Donošenjem Pravilnika iz članka 34. stavka 2. ovoga Zakona, radnici iz stavka 1. ovoga članka rješenjem će se rasporediti na radna mjesta za koja ispunjavaju uvjete sukladno Pravilniku.
+
+(4) Danom izvršnosti rješenja iz stavka 3. ovoga članka prestaju ugovori o radu radnika iz stavka 1. ovoga članka.
+
+#### Članak 36.
+
+(1) Vlada Republike Hrvatske imenovat će članove Nacionalnog vijeća za zaštitu na radu u roku od tri mjeseca od stupanja na snagu članka 5. ovoga Zakona.
+
+(2) Članovi Nacionalnog vijeća za zaštitu na radu, imenovani na temelju Zakona o zaštiti na radu (»Narodne novine«, br. 71/14. i 118/14.), nastavljaju s radom do 1. siječnja 2019.
+
+#### Članak 37.
+
+Tri mjeseca nakon stupanja na snagu ovoga Zakona prestaje važiti Pravilnik o evidenciji, ispravama, izvještajima i knjizi nadzora iz područja zaštite na radu (»Narodne novine«, br. 52/84.).
+
+#### Članak 38.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu osmoga dana od dana objave, osim odredaba članka 5., 23. i 24. ovoga Zakona koje stupaju na snagu dana 1. siječnja 2019.
+
+Klasa: 022-03/18-01/64
+
+Zagreb, 12. listopada 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Ispravak Zakona o izmjenama i dopunama Zakona o zaštiti na radu (NN 96/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/96/1869*
+
+HRVATSKI SABOR
+
+Nakon izvršene usporedbe s izvornim tekstom utvrđena je pogreška u Zakonu o izmjenama i dopunama Zakona o zaštiti na radu koji je objavljen u »Narodnim novinama« broj 94 od 24. listopada 2018. te se daje
+
+ISPRAVAK
+
+### ZAKONA O IZMJENAMA I DOPUNAMA — ZAKONA O ZAŠTITI NA RADU
+
+U članku 33. stavku 7. riječi u zagradi koje glase: »(»Narodne novine«, br. 71/04. i 118/14.)« trebaju glasiti: »(»Narodne novine«, br. 71/14. i 118/14.)«.
+
+Klasa: 022-03/18-01/64  
+Zagreb, 29. listopada 2018.
+
+Tajnik  
+Hrvatskoga sabora  
+Davor Orlović, dipl. iur., v. r.

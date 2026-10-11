@@ -1102,117 +1102,97 @@ PRILOZI
 Dodatak 1. Omotnica za ZPP izravna plaćanja i omotnica za plaćanja u iznimno osjetljivim sektorima prema članku 21.
 
 <table><tbody>
-
 <tr>
 <td colspan="3">Omotnica za ZPP izravna plaćanja, eura u kunskoj<br>protuvrijednosti</td>
 </tr>
-
 <tr>
 <td>Komponente</td>
 <td>Oznaka</td>
 <td>Gornja granica obaveza</td>
 </tr>
-
 <tr>
 <td>Prava na regionalno plaćanje</td>
 <td>RP</td>
 <td>= ZPP – NR – PVP – SP</td>
 </tr>
-
 <tr>
 <td>Prava na plaćanje iz Nacionalne rezerve</td>
 <td>NR</td>
 <td>74.600.000,00</td>
 </tr>
-
 <tr>
 <td>Mlijeko (kravlje, ovčje i kozje)</td>
 <td></td>
 <td>39.404.088,00</td>
 </tr>
-
 <tr>
 <td>Tov goveda</td>
 <td></td>
 <td>27.773.828,00</td>
 </tr>
-
 <tr>
 <td>Ovce i koze</td>
 <td></td>
 <td>3.836.640,00</td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td></td>
 <td>3.585.444,00</td>
 </tr>
-
 <tr>
 <td>Proizvodno vezana plaćanja</td>
 <td>PVP</td>
 <td>26.535.317,00</td>
 </tr>
-
 <tr>
 <td>Krave dojilje</td>
 <td></td>
 <td>21.054.000,00</td>
 </tr>
-
 <tr>
 <td>Ovce i koze</td>
 <td></td>
 <td>5.481.317,00</td>
 </tr>
-
 <tr>
 <td>Specifična plaćanja</td>
 <td>SP</td>
 <td>do 10% omotnice za ZPP</td>
 </tr>
-
 <tr>
 <td>Ukupno</td>
 <td>ZPP</td>
 <td>373.000.000,00</td>
 </tr>
-
 <tr>
 <td colspan="3">Omotnica za plaćanja u iznimno osjetljivim sektorima, kn</td>
 </tr>
-
 <tr>
 <td>Mliječne krave</td>
 <td></td>
 <td>48.000.000,00</td>
 </tr>
-
 <tr>
 <td>Krmače</td>
 <td></td>
 <td>33.120.000,00</td>
 </tr>
-
 <tr>
 <td>Šećerna repa</td>
 <td></td>
 <td>30.969.000,00</td>
 </tr>
-
 <tr>
 <td>Maslinovo ulje</td>
 <td></td>
 <td>15.380.000,00</td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td></td>
 <td>40.125.780,00</td>
 </tr>
-
 <tr>
 <td>Ukupno</td>
 <td></td>
@@ -1224,71 +1204,59 @@ Dodatak 1. Omotnica za ZPP izravna plaćanja i omotnica za plaćanja u iznimno o
 Dodatak 2. Posebna nacionalna rezerva za razminirano zemljište za razdoblje od 2013. do 2022. godine prema članku 24.
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Godina</td>
 <td colspan="2">Maksimalna godišnja vrijednost, eura u kunskoj protuvrijednosti</td>
 </tr>
-
 <tr>
 <td>RH</td>
 <td>EU</td>
 </tr>
-
 <tr>
 <td>2013.</td>
 <td>7.200.000,00</td>
 <td>2.400.000,00</td>
 </tr>
-
 <tr>
 <td>2014.</td>
 <td>6.720.000,00</td>
 <td>2.880.000,00</td>
 </tr>
-
 <tr>
 <td>2015.</td>
 <td>6.240.000,00</td>
 <td>3.360.000,00</td>
 </tr>
-
 <tr>
 <td>2016.</td>
 <td>5.760.000,00</td>
 <td>3.840.000,00</td>
 </tr>
-
 <tr>
 <td>2017.</td>
 <td>4.800.000,00</td>
 <td>4.800.000,00</td>
 </tr>
-
 <tr>
 <td>2018.</td>
 <td>3.840.000,00</td>
 <td>5.760.000,00</td>
 </tr>
-
 <tr>
 <td>2019.</td>
 <td>2.880.000,00</td>
 <td>6.720.000,00</td>
 </tr>
-
 <tr>
 <td>2020.</td>
 <td>1.920.000,00</td>
 <td>7.680.000,00</td>
 </tr>
-
 <tr>
 <td>2021.</td>
 <td>960.000,00</td>
 <td>8.640.000,00</td>
 </tr>
-
 <tr>
 <td>2022.</td>
 <td>0</td>

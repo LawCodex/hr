@@ -11,9 +11,10 @@ status: unknown
 status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
 text_version: official_consolidated
 consolidated_text: "NN 136/2002 (2199) https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2199"
-narodne_novine: "51/94, 141/98, 67/01, 107/01, 136/02, 107/07"
+narodne_novine: "51/94, 141/98, 55/00, 67/01, 107/01, 136/02, 107/07"
 amendments:
   - "NN 141/1998 (1732) Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol"
+  - "NN 55/2000 (1214) Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol"
   - "NN 67/2001 (1103) Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol"
   - "NN 107/2001 (1765) Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol"
   - "NN 107/2007 (3145) Zakon o dopunama Zakona o posebnom porezu na alkohol"

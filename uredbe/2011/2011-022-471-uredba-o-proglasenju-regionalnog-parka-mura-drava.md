@@ -91,7 +91,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td colspan="2">DUŽINA (m)</td>
 </tr></thead>
 <tbody>
-
 <tr>
 <td>1</td>
 <td>Od</td>
@@ -104,7 +103,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>u duljini od</td>
 <td>372,77</td>
 </tr>
-
 <tr>
 <td>2</td>
 <td>Od</td>
@@ -117,7 +115,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1037,73</td>
 </tr>
-
 <tr>
 <td>3</td>
 <td>Od</td>
@@ -130,7 +127,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>115,55</td>
 </tr>
-
 <tr>
 <td>4</td>
 <td>Od</td>
@@ -143,7 +139,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1376,16</td>
 </tr>
-
 <tr>
 <td>5</td>
 <td>Od</td>
@@ -156,7 +151,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>376,05</td>
 </tr>
-
 <tr>
 <td>6</td>
 <td>Od</td>
@@ -169,7 +163,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>8087,38</td>
 </tr>
-
 <tr>
 <td>7</td>
 <td>Od</td>
@@ -182,7 +175,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>694,12</td>
 </tr>
-
 <tr>
 <td>8</td>
 <td>Od</td>
@@ -195,7 +187,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2939,38</td>
 </tr>
-
 <tr>
 <td>9</td>
 <td>Od</td>
@@ -208,7 +199,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1389,10</td>
 </tr>
-
 <tr>
 <td>10</td>
 <td>Od</td>
@@ -221,7 +211,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>4474,42</td>
 </tr>
-
 <tr>
 <td>11</td>
 <td>Od</td>
@@ -234,7 +223,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1108,81</td>
 </tr>
-
 <tr>
 <td>12</td>
 <td>Od</td>
@@ -247,7 +235,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2229,14</td>
 </tr>
-
 <tr>
 <td>13</td>
 <td>Od</td>
@@ -260,7 +247,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>753,19</td>
 </tr>
-
 <tr>
 <td>14</td>
 <td>Od</td>
@@ -273,7 +259,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1972,25</td>
 </tr>
-
 <tr>
 <td>15</td>
 <td>Od</td>
@@ -286,7 +271,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>732,51</td>
 </tr>
-
 <tr>
 <td>16</td>
 <td>Od</td>
@@ -299,7 +283,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2591,26</td>
 </tr>
-
 <tr>
 <td>17</td>
 <td>Od</td>
@@ -312,7 +295,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>42,00</td>
 </tr>
-
 <tr>
 <td>18</td>
 <td>Od</td>
@@ -325,7 +307,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1061,93</td>
 </tr>
-
 <tr>
 <td>19</td>
 <td>Od</td>
@@ -338,7 +319,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>95,06</td>
 </tr>
-
 <tr>
 <td>20</td>
 <td>Od</td>
@@ -351,7 +331,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>131,13</td>
 </tr>
-
 <tr>
 <td>21</td>
 <td>Od</td>
@@ -364,7 +343,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>877,35</td>
 </tr>
-
 <tr>
 <td>22</td>
 <td>Od</td>
@@ -377,7 +355,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>102,97</td>
 </tr>
-
 <tr>
 <td>23</td>
 <td>Od</td>
@@ -390,7 +367,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>92,26</td>
 </tr>
-
 <tr>
 <td>24</td>
 <td>Od</td>
@@ -403,7 +379,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>641,46</td>
 </tr>
-
 <tr>
 <td>25</td>
 <td>Od</td>
@@ -416,7 +391,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>64,96</td>
 </tr>
-
 <tr>
 <td>26</td>
 <td>Od</td>
@@ -429,7 +403,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>253,01</td>
 </tr>
-
 <tr>
 <td>27</td>
 <td>Od</td>
@@ -442,7 +415,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>489,45</td>
 </tr>
-
 <tr>
 <td>28</td>
 <td>Od</td>
@@ -455,7 +427,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2576,18</td>
 </tr>
-
 <tr>
 <td>29</td>
 <td>Od</td>
@@ -468,7 +439,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>384,41</td>
 </tr>
-
 <tr>
 <td>30</td>
 <td>Od</td>
@@ -481,7 +451,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>477,99</td>
 </tr>
-
 <tr>
 <td>31</td>
 <td>Od</td>
@@ -494,7 +463,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2603,36</td>
 </tr>
-
 <tr>
 <td>32</td>
 <td>Od</td>
@@ -507,7 +475,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>43326,33</td>
 </tr>
-
 <tr>
 <td>33</td>
 <td>Od</td>
@@ -520,7 +487,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5545,52</td>
 </tr>
-
 <tr>
 <td>34</td>
 <td>Od</td>
@@ -533,7 +499,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2162,59</td>
 </tr>
-
 <tr>
 <td>35</td>
 <td>Od</td>
@@ -546,7 +511,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>310,59</td>
 </tr>
-
 <tr>
 <td>36</td>
 <td>Od</td>
@@ -559,7 +523,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>31,83</td>
 </tr>
-
 <tr>
 <td>37</td>
 <td>Od</td>
@@ -572,7 +535,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>663,40</td>
 </tr>
-
 <tr>
 <td>38</td>
 <td>Od</td>
@@ -585,7 +547,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>294,88</td>
 </tr>
-
 <tr>
 <td>39</td>
 <td>Od</td>
@@ -598,7 +559,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2627,85</td>
 </tr>
-
 <tr>
 <td>40</td>
 <td>Od</td>
@@ -611,7 +571,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>690,54</td>
 </tr>
-
 <tr>
 <td>41</td>
 <td>Od</td>
@@ -624,7 +583,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>400,49</td>
 </tr>
-
 <tr>
 <td>42</td>
 <td>Od</td>
@@ -637,7 +595,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1102,80</td>
 </tr>
-
 <tr>
 <td>43</td>
 <td>Od</td>
@@ -650,7 +607,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5816,13</td>
 </tr>
-
 <tr>
 <td>44</td>
 <td>Od</td>
@@ -663,7 +619,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1875,95</td>
 </tr>
-
 <tr>
 <td>45</td>
 <td>Od</td>
@@ -676,7 +631,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>72,48</td>
 </tr>
-
 <tr>
 <td>46</td>
 <td>Od</td>
@@ -689,7 +643,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>6711,78</td>
 </tr>
-
 <tr>
 <td>47</td>
 <td>Od</td>
@@ -702,7 +655,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>830,97</td>
 </tr>
-
 <tr>
 <td>48</td>
 <td>Od</td>
@@ -715,7 +667,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>181,62</td>
 </tr>
-
 <tr>
 <td>49</td>
 <td>Od</td>
@@ -728,7 +679,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1385,25</td>
 </tr>
-
 <tr>
 <td>50</td>
 <td>Od</td>
@@ -741,7 +691,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>137,73</td>
 </tr>
-
 <tr>
 <td>51</td>
 <td>Od</td>
@@ -754,7 +703,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>186,25</td>
 </tr>
-
 <tr>
 <td>52</td>
 <td>Od</td>
@@ -767,7 +715,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>314,92</td>
 </tr>
-
 <tr>
 <td>53</td>
 <td>Od</td>
@@ -780,7 +727,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>569,58</td>
 </tr>
-
 <tr>
 <td>54</td>
 <td>Od</td>
@@ -793,7 +739,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>401,79</td>
 </tr>
-
 <tr>
 <td>55</td>
 <td>Od</td>
@@ -806,7 +751,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>570,16</td>
 </tr>
-
 <tr>
 <td>56</td>
 <td>Od</td>
@@ -819,7 +763,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>576,61</td>
 </tr>
-
 <tr>
 <td>57</td>
 <td>Od</td>
@@ -832,7 +775,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2243,07</td>
 </tr>
-
 <tr>
 <td>58</td>
 <td>Od</td>
@@ -845,7 +787,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>313,34</td>
 </tr>
-
 <tr>
 <td>59</td>
 <td>Od</td>
@@ -858,7 +799,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>402,57</td>
 </tr>
-
 <tr>
 <td>60</td>
 <td>Od</td>
@@ -871,7 +811,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>467,06</td>
 </tr>
-
 <tr>
 <td>61</td>
 <td>Od</td>
@@ -884,7 +823,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>226,34</td>
 </tr>
-
 <tr>
 <td>62</td>
 <td>Od</td>
@@ -897,7 +835,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1819,57</td>
 </tr>
-
 <tr>
 <td>63</td>
 <td>Od</td>
@@ -910,7 +847,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>779,16</td>
 </tr>
-
 <tr>
 <td>64</td>
 <td>Od</td>
@@ -923,7 +859,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>62,02</td>
 </tr>
-
 <tr>
 <td>65</td>
 <td>Od</td>
@@ -936,7 +871,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>309,65</td>
 </tr>
-
 <tr>
 <td>66</td>
 <td>Od</td>
@@ -949,7 +883,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>127,32</td>
 </tr>
-
 <tr>
 <td>67</td>
 <td>Od</td>
@@ -962,7 +895,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>59,79</td>
 </tr>
-
 <tr>
 <td>68</td>
 <td>Od</td>
@@ -975,7 +907,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>72,91</td>
 </tr>
-
 <tr>
 <td>69</td>
 <td>Od</td>
@@ -988,7 +919,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>545,47</td>
 </tr>
-
 <tr>
 <td>70</td>
 <td>Od</td>
@@ -1001,7 +931,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>357,20</td>
 </tr>
-
 <tr>
 <td>71</td>
 <td>Od</td>
@@ -1014,7 +943,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>273,74</td>
 </tr>
-
 <tr>
 <td>72</td>
 <td>Od</td>
@@ -1027,7 +955,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>308,93</td>
 </tr>
-
 <tr>
 <td>73</td>
 <td>Od</td>
@@ -1040,7 +967,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>527,73</td>
 </tr>
-
 <tr>
 <td>74</td>
 <td>Od</td>
@@ -1053,7 +979,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>155,46</td>
 </tr>
-
 <tr>
 <td>75</td>
 <td>Od</td>
@@ -1066,7 +991,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>544,44</td>
 </tr>
-
 <tr>
 <td>76</td>
 <td>Od</td>
@@ -1079,7 +1003,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>312,88</td>
 </tr>
-
 <tr>
 <td>77</td>
 <td>Od</td>
@@ -1092,7 +1015,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>774,96</td>
 </tr>
-
 <tr>
 <td>78</td>
 <td>Od</td>
@@ -1105,7 +1027,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>466,36</td>
 </tr>
-
 <tr>
 <td>79</td>
 <td>Od</td>
@@ -1118,7 +1039,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>211,96</td>
 </tr>
-
 <tr>
 <td>80</td>
 <td>Od</td>
@@ -1131,7 +1051,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>505,27</td>
 </tr>
-
 <tr>
 <td>81</td>
 <td>Od</td>
@@ -1144,7 +1063,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1088,51</td>
 </tr>
-
 <tr>
 <td>82</td>
 <td>Od</td>
@@ -1157,7 +1075,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>731,24</td>
 </tr>
-
 <tr>
 <td>83</td>
 <td>Od</td>
@@ -1170,7 +1087,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>698,73</td>
 </tr>
-
 <tr>
 <td>84</td>
 <td>Od</td>
@@ -1183,7 +1099,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>674,56</td>
 </tr>
-
 <tr>
 <td>85</td>
 <td>Od</td>
@@ -1196,7 +1111,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>322,37</td>
 </tr>
-
 <tr>
 <td>86</td>
 <td>Od</td>
@@ -1209,7 +1123,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>851,92</td>
 </tr>
-
 <tr>
 <td>87</td>
 <td>Od</td>
@@ -1222,7 +1135,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>195,13</td>
 </tr>
-
 <tr>
 <td>88</td>
 <td>Od</td>
@@ -1235,7 +1147,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5339,35</td>
 </tr>
-
 <tr>
 <td>89</td>
 <td>Od</td>
@@ -1248,7 +1159,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1895,32</td>
 </tr>
-
 <tr>
 <td>90</td>
 <td>Od</td>
@@ -1261,7 +1171,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>22,68</td>
 </tr>
-
 <tr>
 <td>91</td>
 <td>Od</td>
@@ -1274,7 +1183,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>412,85</td>
 </tr>
-
 <tr>
 <td>92</td>
 <td>Od</td>
@@ -1287,7 +1195,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>38,05</td>
 </tr>
-
 <tr>
 <td>93</td>
 <td>Od</td>
@@ -1300,7 +1207,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>573,80</td>
 </tr>
-
 <tr>
 <td>94</td>
 <td>Od</td>
@@ -1313,7 +1219,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>291,59</td>
 </tr>
-
 <tr>
 <td>95</td>
 <td>Od</td>
@@ -1326,7 +1231,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>181,15</td>
 </tr>
-
 <tr>
 <td>96</td>
 <td>Od</td>
@@ -1339,7 +1243,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>4003,93</td>
 </tr>
-
 <tr>
 <td>97</td>
 <td>Od</td>
@@ -1352,7 +1255,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3074,80</td>
 </tr>
-
 <tr>
 <td>98</td>
 <td>Od</td>
@@ -1365,7 +1267,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>237,26</td>
 </tr>
-
 <tr>
 <td>99</td>
 <td>Od</td>
@@ -1378,7 +1279,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>391,20</td>
 </tr>
-
 <tr>
 <td>100</td>
 <td>Od</td>
@@ -1391,7 +1291,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>577,25</td>
 </tr>
-
 <tr>
 <td>101</td>
 <td>Od</td>
@@ -1404,7 +1303,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>361,56</td>
 </tr>
-
 <tr>
 <td>102</td>
 <td>Od</td>
@@ -1417,7 +1315,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>174,26</td>
 </tr>
-
 <tr>
 <td>103</td>
 <td>Od</td>
@@ -1430,7 +1327,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>147,75</td>
 </tr>
-
 <tr>
 <td>104</td>
 <td>Od</td>
@@ -1443,7 +1339,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>80,39</td>
 </tr>
-
 <tr>
 <td>105</td>
 <td>Od</td>
@@ -1456,7 +1351,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>27,79</td>
 </tr>
-
 <tr>
 <td>106</td>
 <td>Od</td>
@@ -1469,7 +1363,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>580,00</td>
 </tr>
-
 <tr>
 <td>107</td>
 <td>Od</td>
@@ -1482,7 +1375,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>251,26</td>
 </tr>
-
 <tr>
 <td>108</td>
 <td>Od</td>
@@ -1495,7 +1387,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>661,07</td>
 </tr>
-
 <tr>
 <td>109</td>
 <td>Od</td>
@@ -1508,7 +1399,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>25642,60</td>
 </tr>
-
 <tr>
 <td>110</td>
 <td>Od</td>
@@ -1521,7 +1411,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5914,08</td>
 </tr>
-
 <tr>
 <td>111</td>
 <td>Od</td>
@@ -1534,7 +1423,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2010,47</td>
 </tr>
-
 <tr>
 <td>112</td>
 <td>Od</td>
@@ -1547,7 +1435,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2792,81</td>
 </tr>
-
 <tr>
 <td>113</td>
 <td>Od</td>
@@ -1560,7 +1447,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1969,79</td>
 </tr>
-
 <tr>
 <td>114</td>
 <td>Od</td>
@@ -1573,7 +1459,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>129,40</td>
 </tr>
-
 <tr>
 <td>115</td>
 <td>Od</td>
@@ -1586,7 +1471,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2067,38</td>
 </tr>
-
 <tr>
 <td>116</td>
 <td>Od</td>
@@ -1599,7 +1483,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>545,73</td>
 </tr>
-
 <tr>
 <td>117</td>
 <td>Od</td>
@@ -1612,7 +1495,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>261,62</td>
 </tr>
-
 <tr>
 <td>118</td>
 <td>Od</td>
@@ -1625,7 +1507,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>6829,98</td>
 </tr>
-
 <tr>
 <td>119</td>
 <td>Od</td>
@@ -1638,7 +1519,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>583,15</td>
 </tr>
-
 <tr>
 <td>120</td>
 <td>Od</td>
@@ -1651,7 +1531,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5928,45</td>
 </tr>
-
 <tr>
 <td>121</td>
 <td>Od</td>
@@ -1664,7 +1543,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2166,70</td>
 </tr>
-
 <tr>
 <td>122</td>
 <td>Od</td>
@@ -1677,7 +1555,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>117,31</td>
 </tr>
-
 <tr>
 <td>123</td>
 <td>Od</td>
@@ -1690,7 +1567,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>446,89</td>
 </tr>
-
 <tr>
 <td>124</td>
 <td>Od</td>
@@ -1703,7 +1579,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1662,34</td>
 </tr>
-
 <tr>
 <td>125</td>
 <td>Od</td>
@@ -1716,7 +1591,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>201,33</td>
 </tr>
-
 <tr>
 <td>126</td>
 <td>Od</td>
@@ -1729,7 +1603,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>588,21</td>
 </tr>
-
 <tr>
 <td>127</td>
 <td>Od</td>
@@ -1742,7 +1615,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>751,78</td>
 </tr>
-
 <tr>
 <td>128</td>
 <td>Od</td>
@@ -1755,7 +1627,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1588,41</td>
 </tr>
-
 <tr>
 <td>129</td>
 <td>Od</td>
@@ -1768,7 +1639,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>640,50</td>
 </tr>
-
 <tr>
 <td>130</td>
 <td>Od</td>
@@ -1781,7 +1651,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1758,67</td>
 </tr>
-
 <tr>
 <td>131</td>
 <td>Od</td>
@@ -1794,7 +1663,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>911,18</td>
 </tr>
-
 <tr>
 <td>132</td>
 <td>Od</td>
@@ -1807,7 +1675,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1708,71</td>
 </tr>
-
 <tr>
 <td>133</td>
 <td>Od</td>
@@ -1820,7 +1687,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2744,63</td>
 </tr>
-
 <tr>
 <td>134</td>
 <td>Od</td>
@@ -1833,7 +1699,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>7983,87</td>
 </tr>
-
 <tr>
 <td>135</td>
 <td>Od</td>
@@ -1846,7 +1711,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>577,51</td>
 </tr>
-
 <tr>
 <td>136</td>
 <td>Od</td>
@@ -1859,7 +1723,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>203,83</td>
 </tr>
-
 <tr>
 <td>137</td>
 <td>Od</td>
@@ -1872,7 +1735,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>292,82</td>
 </tr>
-
 <tr>
 <td>138</td>
 <td>Od</td>
@@ -1885,7 +1747,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>426,76</td>
 </tr>
-
 <tr>
 <td>139</td>
 <td>Od</td>
@@ -1898,7 +1759,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1026,55</td>
 </tr>
-
 <tr>
 <td>140</td>
 <td>Od</td>
@@ -1911,7 +1771,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1534,27</td>
 </tr>
-
 <tr>
 <td>141</td>
 <td>Od</td>
@@ -1924,7 +1783,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>947,41</td>
 </tr>
-
 <tr>
 <td>142</td>
 <td>Od</td>
@@ -1937,7 +1795,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2237,49</td>
 </tr>
-
 <tr>
 <td>143</td>
 <td>Od</td>
@@ -1950,7 +1807,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>808,61</td>
 </tr>
-
 <tr>
 <td>144</td>
 <td>Od</td>
@@ -1963,7 +1819,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>55,97</td>
 </tr>
-
 <tr>
 <td>145</td>
 <td>Od</td>
@@ -1976,7 +1831,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>83,99</td>
 </tr>
-
 <tr>
 <td>146</td>
 <td>Od</td>
@@ -1989,7 +1843,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>476,15</td>
 </tr>
-
 <tr>
 <td>147</td>
 <td>Od</td>
@@ -2002,7 +1855,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>839,60</td>
 </tr>
-
 <tr>
 <td>148</td>
 <td>Od</td>
@@ -2015,7 +1867,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>515,09</td>
 </tr>
-
 <tr>
 <td>149</td>
 <td>Od</td>
@@ -2028,7 +1879,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>421,25</td>
 </tr>
-
 <tr>
 <td>150</td>
 <td>Od</td>
@@ -2041,7 +1891,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1982,38</td>
 </tr>
-
 <tr>
 <td>151</td>
 <td>Od</td>
@@ -2054,7 +1903,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>319,03</td>
 </tr>
-
 <tr>
 <td>152</td>
 <td>Od</td>
@@ -2067,7 +1915,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>184,13</td>
 </tr>
-
 <tr>
 <td>153</td>
 <td>Od</td>
@@ -2080,7 +1927,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>408,86</td>
 </tr>
-
 <tr>
 <td>154</td>
 <td>Od</td>
@@ -2093,7 +1939,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>365,13</td>
 </tr>
-
 <tr>
 <td>155</td>
 <td>Od</td>
@@ -2106,7 +1951,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2325,67</td>
 </tr>
-
 <tr>
 <td>156</td>
 <td>Od</td>
@@ -2119,7 +1963,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1234,94</td>
 </tr>
-
 <tr>
 <td>157</td>
 <td>Od</td>
@@ -2132,7 +1975,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>618,16</td>
 </tr>
-
 <tr>
 <td>158</td>
 <td>Od</td>
@@ -2145,7 +1987,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>152,18</td>
 </tr>
-
 <tr>
 <td>159</td>
 <td>Od</td>
@@ -2158,7 +1999,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>950,44</td>
 </tr>
-
 <tr>
 <td>160</td>
 <td>Od</td>
@@ -2171,7 +2011,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>373,59</td>
 </tr>
-
 <tr>
 <td>161</td>
 <td>Od</td>
@@ -2184,7 +2023,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>432,44</td>
 </tr>
-
 <tr>
 <td>162</td>
 <td>Od</td>
@@ -2197,7 +2035,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>367,22</td>
 </tr>
-
 <tr>
 <td>163</td>
 <td>Od</td>
@@ -2210,7 +2047,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1862,52</td>
 </tr>
-
 <tr>
 <td>164</td>
 <td>Od</td>
@@ -2223,7 +2059,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2090,50</td>
 </tr>
-
 <tr>
 <td>165</td>
 <td>Od</td>
@@ -2236,7 +2071,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>933,75</td>
 </tr>
-
 <tr>
 <td>166</td>
 <td>Od</td>
@@ -2249,7 +2083,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>868,01</td>
 </tr>
-
 <tr>
 <td>167</td>
 <td>Od</td>
@@ -2262,7 +2095,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2383,38</td>
 </tr>
-
 <tr>
 <td>168</td>
 <td>Od</td>
@@ -2275,7 +2107,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1495,55</td>
 </tr>
-
 <tr>
 <td>169</td>
 <td>Od</td>
@@ -2288,7 +2119,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>942,24</td>
 </tr>
-
 <tr>
 <td>170</td>
 <td>Od</td>
@@ -2301,7 +2131,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>506,72</td>
 </tr>
-
 <tr>
 <td>171</td>
 <td>Od</td>
@@ -2314,7 +2143,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>877,33</td>
 </tr>
-
 <tr>
 <td>172</td>
 <td>Od</td>
@@ -2327,7 +2155,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1355,24</td>
 </tr>
-
 <tr>
 <td>173</td>
 <td>Od</td>
@@ -2340,7 +2167,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1813,41</td>
 </tr>
-
 <tr>
 <td>174</td>
 <td>Od</td>
@@ -2353,7 +2179,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2555,70</td>
 </tr>
-
 <tr>
 <td>175</td>
 <td>Od</td>
@@ -2366,7 +2191,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>182,50</td>
 </tr>
-
 <tr>
 <td>176</td>
 <td>Od</td>
@@ -2379,7 +2203,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2435,64</td>
 </tr>
-
 <tr>
 <td>177</td>
 <td>Od</td>
@@ -2392,7 +2215,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>926,34</td>
 </tr>
-
 <tr>
 <td>178</td>
 <td>Od</td>
@@ -2405,7 +2227,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2837,09</td>
 </tr>
-
 <tr>
 <td>179</td>
 <td>Od</td>
@@ -2418,7 +2239,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1511,16</td>
 </tr>
-
 <tr>
 <td>180</td>
 <td>Od</td>
@@ -2431,7 +2251,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1361,18</td>
 </tr>
-
 <tr>
 <td>181</td>
 <td>Od</td>
@@ -2444,7 +2263,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1507,64</td>
 </tr>
-
 <tr>
 <td>182</td>
 <td>Od</td>
@@ -2457,7 +2275,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>220,50</td>
 </tr>
-
 <tr>
 <td>183</td>
 <td>Od</td>
@@ -2470,7 +2287,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>316,05</td>
 </tr>
-
 <tr>
 <td>184</td>
 <td>Od</td>
@@ -2483,7 +2299,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1483,24</td>
 </tr>
-
 <tr>
 <td>185</td>
 <td>Od</td>
@@ -2496,7 +2311,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1571,46</td>
 </tr>
-
 <tr>
 <td>186</td>
 <td>Od</td>
@@ -2509,7 +2323,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1470,16</td>
 </tr>
-
 <tr>
 <td>187</td>
 <td>Od</td>
@@ -2522,7 +2335,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1919,66</td>
 </tr>
-
 <tr>
 <td>188</td>
 <td>Od</td>
@@ -2535,7 +2347,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1189,68</td>
 </tr>
-
 <tr>
 <td>189</td>
 <td>Od</td>
@@ -2548,7 +2359,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1570,09</td>
 </tr>
-
 <tr>
 <td>190</td>
 <td>Od</td>
@@ -2561,7 +2371,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>401,63</td>
 </tr>
-
 <tr>
 <td>191</td>
 <td>Od</td>
@@ -2574,7 +2383,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2518,17</td>
 </tr>
-
 <tr>
 <td>192</td>
 <td>Od</td>
@@ -2587,7 +2395,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1598,05</td>
 </tr>
-
 <tr>
 <td>193</td>
 <td>Od</td>
@@ -2600,7 +2407,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1138,98</td>
 </tr>
-
 <tr>
 <td>194</td>
 <td>Od</td>
@@ -2613,7 +2419,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>497,28</td>
 </tr>
-
 <tr>
 <td>195</td>
 <td>Od</td>
@@ -2626,7 +2431,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>149,54</td>
 </tr>
-
 <tr>
 <td>196</td>
 <td>Od</td>
@@ -2639,7 +2443,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3391,83</td>
 </tr>
-
 <tr>
 <td>197</td>
 <td>Od</td>
@@ -2652,7 +2455,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1593,20</td>
 </tr>
-
 <tr>
 <td>198</td>
 <td>Od</td>
@@ -2665,7 +2467,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2519,22</td>
 </tr>
-
 <tr>
 <td>199</td>
 <td>Od</td>
@@ -2678,7 +2479,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1044,64</td>
 </tr>
-
 <tr>
 <td>200</td>
 <td>Od</td>
@@ -2691,7 +2491,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>936,07</td>
 </tr>
-
 <tr>
 <td>201</td>
 <td>Od</td>
@@ -2704,7 +2503,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>745,20</td>
 </tr>
-
 <tr>
 <td>202</td>
 <td>Od</td>
@@ -2717,7 +2515,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>693,77</td>
 </tr>
-
 <tr>
 <td>203</td>
 <td>Od</td>
@@ -2730,7 +2527,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1010,21</td>
 </tr>
-
 <tr>
 <td>204</td>
 <td>Od</td>
@@ -2743,7 +2539,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>6147,73</td>
 </tr>
-
 <tr>
 <td>205</td>
 <td>Od</td>
@@ -2756,7 +2551,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>523,72</td>
 </tr>
-
 <tr>
 <td>206</td>
 <td>Od</td>
@@ -2769,7 +2563,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>7006,90</td>
 </tr>
-
 <tr>
 <td>207</td>
 <td>Od</td>
@@ -2782,7 +2575,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>444,56</td>
 </tr>
-
 <tr>
 <td>208</td>
 <td>Od</td>
@@ -2795,7 +2587,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>808,36</td>
 </tr>
-
 <tr>
 <td>209</td>
 <td>Od</td>
@@ -2808,7 +2599,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>469,64</td>
 </tr>
-
 <tr>
 <td>210</td>
 <td>Od</td>
@@ -2821,7 +2611,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>9455,85</td>
 </tr>
-
 <tr>
 <td>211</td>
 <td>Od</td>
@@ -2834,7 +2623,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>361,35</td>
 </tr>
-
 <tr>
 <td>212</td>
 <td>Od</td>
@@ -2847,7 +2635,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>526,90</td>
 </tr>
-
 <tr>
 <td>213</td>
 <td>Od</td>
@@ -2860,7 +2647,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1433,49</td>
 </tr>
-
 <tr>
 <td>214</td>
 <td>Od</td>
@@ -2873,7 +2659,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>459,74</td>
 </tr>
-
 <tr>
 <td>215</td>
 <td>Od</td>
@@ -2886,7 +2671,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1090,47</td>
 </tr>
-
 <tr>
 <td>216</td>
 <td>Od</td>
@@ -2899,7 +2683,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>188,51</td>
 </tr>
-
 <tr>
 <td>217</td>
 <td>Od</td>
@@ -2912,7 +2695,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1875,19</td>
 </tr>
-
 <tr>
 <td>218</td>
 <td>Od</td>
@@ -2925,7 +2707,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2092,90</td>
 </tr>
-
 <tr>
 <td>219</td>
 <td>Od</td>
@@ -2938,7 +2719,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2036,20</td>
 </tr>
-
 <tr>
 <td>220</td>
 <td>Od</td>
@@ -2951,7 +2731,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2192,49</td>
 </tr>
-
 <tr>
 <td>221</td>
 <td>Od</td>
@@ -2964,7 +2743,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1250,69</td>
 </tr>
-
 <tr>
 <td>222</td>
 <td>Od</td>
@@ -2977,7 +2755,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1653,43</td>
 </tr>
-
 <tr>
 <td>223</td>
 <td>Od</td>
@@ -2990,7 +2767,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>970,29</td>
 </tr>
-
 <tr>
 <td>224</td>
 <td>Od</td>
@@ -3003,7 +2779,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>753,42</td>
 </tr>
-
 <tr>
 <td>225</td>
 <td>Od</td>
@@ -3016,7 +2791,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1562,60</td>
 </tr>
-
 <tr>
 <td>226</td>
 <td>Od</td>
@@ -3029,7 +2803,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1474,58</td>
 </tr>
-
 <tr>
 <td>227</td>
 <td>Od</td>
@@ -3042,7 +2815,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>513,36</td>
 </tr>
-
 <tr>
 <td>228</td>
 <td>Od</td>
@@ -3055,7 +2827,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>185,44</td>
 </tr>
-
 <tr>
 <td>229</td>
 <td>Od</td>
@@ -3068,7 +2839,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>102,70</td>
 </tr>
-
 <tr>
 <td>230</td>
 <td>Od</td>
@@ -3081,7 +2851,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1303,74</td>
 </tr>
-
 <tr>
 <td>231</td>
 <td>Od</td>
@@ -3094,7 +2863,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>294,05</td>
 </tr>
-
 <tr>
 <td>232</td>
 <td>Od</td>
@@ -3107,7 +2875,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>277,89</td>
 </tr>
-
 <tr>
 <td>233</td>
 <td>Od</td>
@@ -3120,7 +2887,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>305,45</td>
 </tr>
-
 <tr>
 <td>234</td>
 <td>Od</td>
@@ -3133,7 +2899,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>964,57</td>
 </tr>
-
 <tr>
 <td>235</td>
 <td>Od</td>
@@ -3146,7 +2911,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2297,92</td>
 </tr>
-
 <tr>
 <td>236</td>
 <td>Od</td>
@@ -3159,7 +2923,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2308,84</td>
 </tr>
-
 <tr>
 <td>237</td>
 <td>Od</td>
@@ -3172,7 +2935,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2651,94</td>
 </tr>
-
 <tr>
 <td>238</td>
 <td>Od</td>
@@ -3185,7 +2947,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1880,17</td>
 </tr>
-
 <tr>
 <td>239</td>
 <td>Od</td>
@@ -3198,7 +2959,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1155,03</td>
 </tr>
-
 <tr>
 <td>240</td>
 <td>Od</td>
@@ -3211,7 +2971,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3029,68</td>
 </tr>
-
 <tr>
 <td>241</td>
 <td>Od</td>
@@ -3224,7 +2983,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>821,21</td>
 </tr>
-
 <tr>
 <td>242</td>
 <td>Od</td>
@@ -3237,7 +2995,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>159,60</td>
 </tr>
-
 <tr>
 <td>243</td>
 <td>Od</td>
@@ -3250,7 +3007,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1812,26</td>
 </tr>
-
 <tr>
 <td>244</td>
 <td>Od</td>
@@ -3263,7 +3019,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>344,69</td>
 </tr>
-
 <tr>
 <td>245</td>
 <td>Od</td>
@@ -3276,7 +3031,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>719,09</td>
 </tr>
-
 <tr>
 <td>246</td>
 <td>Od</td>
@@ -3289,7 +3043,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>469,86</td>
 </tr>
-
 <tr>
 <td>247</td>
 <td>Od</td>
@@ -3302,7 +3055,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>88,70</td>
 </tr>
-
 <tr>
 <td>248</td>
 <td>Od</td>
@@ -3315,7 +3067,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>501,93</td>
 </tr>
-
 <tr>
 <td>249</td>
 <td>Od</td>
@@ -3328,7 +3079,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>182,87</td>
 </tr>
-
 <tr>
 <td>250</td>
 <td>Od</td>
@@ -3341,7 +3091,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>447,02</td>
 </tr>
-
 <tr>
 <td>251</td>
 <td>Od</td>
@@ -3354,7 +3103,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>973,91</td>
 </tr>
-
 <tr>
 <td>252</td>
 <td>Od</td>
@@ -3367,7 +3115,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1307,99</td>
 </tr>
-
 <tr>
 <td>253</td>
 <td>Od</td>
@@ -3380,7 +3127,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1191,17</td>
 </tr>
-
 <tr>
 <td>254</td>
 <td>Od</td>
@@ -3393,7 +3139,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2746,93</td>
 </tr>
-
 <tr>
 <td>255</td>
 <td>Od</td>
@@ -3406,7 +3151,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>454,53</td>
 </tr>
-
 <tr>
 <td>256</td>
 <td>Od</td>
@@ -3419,7 +3163,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2183,21</td>
 </tr>
-
 <tr>
 <td>257</td>
 <td>Od</td>
@@ -3432,7 +3175,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>231,25</td>
 </tr>
-
 <tr>
 <td>258</td>
 <td>Od</td>
@@ -3445,7 +3187,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>543,80</td>
 </tr>
-
 <tr>
 <td>259</td>
 <td>Od</td>
@@ -3458,7 +3199,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>119,65</td>
 </tr>
-
 <tr>
 <td>260</td>
 <td>Od</td>
@@ -3471,7 +3211,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>783,21</td>
 </tr>
-
 <tr>
 <td>261</td>
 <td>Od</td>
@@ -3484,7 +3223,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>827,60</td>
 </tr>
-
 <tr>
 <td>262</td>
 <td>Od</td>
@@ -3497,7 +3235,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1134,14</td>
 </tr>
-
 <tr>
 <td>263</td>
 <td>Od</td>
@@ -3510,7 +3247,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1106,35</td>
 </tr>
-
 <tr>
 <td>264</td>
 <td>Od</td>
@@ -3523,7 +3259,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>313,36</td>
 </tr>
-
 <tr>
 <td>265</td>
 <td>Od</td>
@@ -3536,7 +3271,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>305,53</td>
 </tr>
-
 <tr>
 <td>266</td>
 <td>Od</td>
@@ -3549,7 +3283,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>236,59</td>
 </tr>
-
 <tr>
 <td>267</td>
 <td>Od</td>
@@ -3562,7 +3295,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>243,04</td>
 </tr>
-
 <tr>
 <td>268</td>
 <td>Od</td>
@@ -3575,7 +3307,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>461,42</td>
 </tr>
-
 <tr>
 <td>269</td>
 <td>Od</td>
@@ -3588,7 +3319,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>244,46</td>
 </tr>
-
 <tr>
 <td>270</td>
 <td>Od</td>
@@ -3601,7 +3331,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>284,94</td>
 </tr>
-
 <tr>
 <td>271</td>
 <td>Od</td>
@@ -3614,7 +3343,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>200,35</td>
 </tr>
-
 <tr>
 <td>272</td>
 <td>Od</td>
@@ -3627,7 +3355,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>135,67</td>
 </tr>
-
 <tr>
 <td>273</td>
 <td>Od</td>
@@ -3640,7 +3367,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>10165,33</td>
 </tr>
-
 <tr>
 <td>274</td>
 <td>Od</td>
@@ -3653,7 +3379,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1226,16</td>
 </tr>
-
 <tr>
 <td>275</td>
 <td>Od</td>
@@ -3666,7 +3391,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3642,32</td>
 </tr>
-
 <tr>
 <td>276</td>
 <td>Od</td>
@@ -3679,7 +3403,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1873,22</td>
 </tr>
-
 <tr>
 <td>277</td>
 <td>Od</td>
@@ -3692,7 +3415,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3875,42</td>
 </tr>
-
 <tr>
 <td>278</td>
 <td>Od</td>
@@ -3705,7 +3427,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1767,61</td>
 </tr>
-
 <tr>
 <td>279</td>
 <td>Od</td>
@@ -3718,7 +3439,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1586,52</td>
 </tr>
-
 <tr>
 <td>280</td>
 <td>Od</td>
@@ -3731,7 +3451,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1355,87</td>
 </tr>
-
 <tr>
 <td>281</td>
 <td>Od</td>
@@ -3744,7 +3463,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1670,65</td>
 </tr>
-
 <tr>
 <td>282</td>
 <td>Od</td>
@@ -3757,7 +3475,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2813,20</td>
 </tr>
-
 <tr>
 <td>283</td>
 <td>Od</td>
@@ -3770,7 +3487,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>642,58</td>
 </tr>
-
 <tr>
 <td>284</td>
 <td>Od</td>
@@ -3783,7 +3499,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1638,78</td>
 </tr>
-
 <tr>
 <td>285</td>
 <td>Od</td>
@@ -3796,7 +3511,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>86,16</td>
 </tr>
-
 <tr>
 <td>286</td>
 <td>Od</td>
@@ -3809,7 +3523,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>577,15</td>
 </tr>
-
 <tr>
 <td>287</td>
 <td>Od</td>
@@ -3822,7 +3535,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>736,78</td>
 </tr>
-
 <tr>
 <td>288</td>
 <td>Od</td>
@@ -3835,7 +3547,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>389,36</td>
 </tr>
-
 <tr>
 <td>289</td>
 <td>Od</td>
@@ -3848,7 +3559,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>786,05</td>
 </tr>
-
 <tr>
 <td>290</td>
 <td>Od</td>
@@ -3861,7 +3571,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1202,52</td>
 </tr>
-
 <tr>
 <td>291</td>
 <td>Od</td>
@@ -3874,7 +3583,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>325,48</td>
 </tr>
-
 <tr>
 <td>292</td>
 <td>Od</td>
@@ -3887,7 +3595,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>462,22</td>
 </tr>
-
 <tr>
 <td>293</td>
 <td>Od</td>
@@ -3900,7 +3607,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1705,84</td>
 </tr>
-
 <tr>
 <td>294</td>
 <td>Od</td>
@@ -3913,7 +3619,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1004,59</td>
 </tr>
-
 <tr>
 <td>295</td>
 <td>Od</td>
@@ -3926,7 +3631,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1888,57</td>
 </tr>
-
 <tr>
 <td>296</td>
 <td>Od</td>
@@ -3939,7 +3643,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>888,36</td>
 </tr>
-
 <tr>
 <td>297</td>
 <td>Od</td>
@@ -3952,7 +3655,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3456,56</td>
 </tr>
-
 <tr>
 <td>298</td>
 <td>Od</td>
@@ -3965,7 +3667,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1687,28</td>
 </tr>
-
 <tr>
 <td>299</td>
 <td>Od</td>
@@ -3978,7 +3679,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2782,10</td>
 </tr>
-
 <tr>
 <td>300</td>
 <td>Od</td>
@@ -3991,7 +3691,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>148,76</td>
 </tr>
-
 <tr>
 <td>301</td>
 <td>Od</td>
@@ -4004,7 +3703,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1532,97</td>
 </tr>
-
 <tr>
 <td>302</td>
 <td>Od</td>
@@ -4017,7 +3715,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>409,43</td>
 </tr>
-
 <tr>
 <td>303</td>
 <td>Od</td>
@@ -4030,7 +3727,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2872,27</td>
 </tr>
-
 <tr>
 <td>304</td>
 <td>Od</td>
@@ -4043,7 +3739,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>4561,82</td>
 </tr>
-
 <tr>
 <td>305</td>
 <td>Od</td>
@@ -4056,7 +3751,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>616,85</td>
 </tr>
-
 <tr>
 <td>306</td>
 <td>Od</td>
@@ -4069,7 +3763,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5936,44</td>
 </tr>
-
 <tr>
 <td>307</td>
 <td>Od</td>
@@ -4082,7 +3775,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>84,28</td>
 </tr>
-
 <tr>
 <td>308</td>
 <td>Od</td>
@@ -4095,7 +3787,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2001,85</td>
 </tr>
-
 <tr>
 <td>309</td>
 <td>Od</td>
@@ -4108,7 +3799,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>502,87</td>
 </tr>
-
 <tr>
 <td>310</td>
 <td>Od</td>
@@ -4121,7 +3811,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>273,30</td>
 </tr>
-
 <tr>
 <td>311</td>
 <td>Od</td>
@@ -4134,7 +3823,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2264,10</td>
 </tr>
-
 <tr>
 <td>312</td>
 <td>Od</td>
@@ -4147,7 +3835,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>124,31</td>
 </tr>
-
 <tr>
 <td>313</td>
 <td>Od</td>
@@ -4160,7 +3847,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3933,19</td>
 </tr>
-
 <tr>
 <td>314</td>
 <td>Od</td>
@@ -4173,7 +3859,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>35,85</td>
 </tr>
-
 <tr>
 <td>315</td>
 <td>Od</td>
@@ -4186,7 +3871,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2087,01</td>
 </tr>
-
 <tr>
 <td>316</td>
 <td>Od</td>
@@ -4199,7 +3883,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3994,46</td>
 </tr>
-
 <tr>
 <td>317</td>
 <td>Od</td>
@@ -4212,7 +3895,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1222,39</td>
 </tr>
-
 <tr>
 <td>318</td>
 <td>Od</td>
@@ -4225,7 +3907,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>316,10</td>
 </tr>
-
 <tr>
 <td>319</td>
 <td>Od</td>
@@ -4238,7 +3919,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5342,50</td>
 </tr>
-
 <tr>
 <td>320</td>
 <td>Od</td>
@@ -4251,7 +3931,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>965,66</td>
 </tr>
-
 <tr>
 <td>321</td>
 <td>Od</td>
@@ -4264,7 +3943,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1569,81</td>
 </tr>
-
 <tr>
 <td>322</td>
 <td>Od</td>
@@ -4277,7 +3955,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>4455,24</td>
 </tr>
-
 <tr>
 <td>323</td>
 <td>Od</td>
@@ -4290,7 +3967,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3477,44</td>
 </tr>
-
 <tr>
 <td>324</td>
 <td>Od</td>
@@ -4303,7 +3979,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1983,63</td>
 </tr>
-
 <tr>
 <td>325</td>
 <td>Od</td>
@@ -4316,7 +3991,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>989,56</td>
 </tr>
-
 <tr>
 <td>326</td>
 <td>Od</td>
@@ -4329,7 +4003,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>937,41</td>
 </tr>
-
 <tr>
 <td>327</td>
 <td>Od</td>
@@ -4342,7 +4015,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1760,79</td>
 </tr>
-
 <tr>
 <td>328</td>
 <td>Od</td>
@@ -4355,7 +4027,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1325,68</td>
 </tr>
-
 <tr>
 <td>329</td>
 <td>Od</td>
@@ -4368,7 +4039,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2930,74</td>
 </tr>
-
 <tr>
 <td>330</td>
 <td>Od</td>
@@ -4381,7 +4051,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>6664,06</td>
 </tr>
-
 <tr>
 <td>331</td>
 <td>Od</td>
@@ -4394,7 +4063,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3432,53</td>
 </tr>
-
 <tr>
 <td>332</td>
 <td>Od</td>
@@ -4407,7 +4075,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5575,53</td>
 </tr>
-
 <tr>
 <td>333</td>
 <td>Od</td>
@@ -4420,7 +4087,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2928,10</td>
 </tr>
-
 <tr>
 <td>334</td>
 <td>Od</td>
@@ -4433,7 +4099,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>4776,65</td>
 </tr>
-
 <tr>
 <td>335</td>
 <td>Od</td>
@@ -4446,7 +4111,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1903,76</td>
 </tr>
-
 <tr>
 <td>336</td>
 <td>Od</td>
@@ -4459,7 +4123,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3855,94</td>
 </tr>
-
 <tr>
 <td>337</td>
 <td>Od</td>
@@ -4472,7 +4135,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3736,35</td>
 </tr>
-
 <tr>
 <td>338</td>
 <td>Od</td>
@@ -4485,7 +4147,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>12375,66</td>
 </tr>
-
 <tr>
 <td>339</td>
 <td>Od</td>
@@ -4498,7 +4159,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2372,43</td>
 </tr>
-
 <tr>
 <td>340</td>
 <td>Od</td>
@@ -4511,7 +4171,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>209,75</td>
 </tr>
-
 <tr>
 <td>341</td>
 <td>Od</td>
@@ -4524,7 +4183,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2312,64</td>
 </tr>
-
 <tr>
 <td>342</td>
 <td>Od</td>
@@ -4537,7 +4195,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1710,56</td>
 </tr>
-
 <tr>
 <td>343</td>
 <td>Od</td>
@@ -4550,7 +4207,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1386,17</td>
 </tr>
-
 <tr>
 <td>344</td>
 <td>Od</td>
@@ -4563,7 +4219,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1986,56</td>
 </tr>
-
 <tr>
 <td>345</td>
 <td>Od</td>
@@ -4576,7 +4231,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2094,18</td>
 </tr>
-
 <tr>
 <td>346</td>
 <td>Od</td>
@@ -4589,7 +4243,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3435,36</td>
 </tr>
-
 <tr>
 <td>347</td>
 <td>Od</td>
@@ -4602,7 +4255,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>379,19</td>
 </tr>
-
 <tr>
 <td>348</td>
 <td>Od</td>
@@ -4615,7 +4267,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>24256,96</td>
 </tr>
-
 <tr>
 <td>349</td>
 <td>Od</td>
@@ -4628,7 +4279,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2649,61</td>
 </tr>
-
 <tr>
 <td>350</td>
 <td>Od</td>
@@ -4641,7 +4291,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2650,95</td>
 </tr>
-
 <tr>
 <td>351</td>
 <td>Od</td>
@@ -4654,7 +4303,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1388,81</td>
 </tr>
-
 <tr>
 <td>352</td>
 <td>Od</td>
@@ -4667,7 +4315,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2364,39</td>
 </tr>
-
 <tr>
 <td>353</td>
 <td>Od</td>
@@ -4680,7 +4327,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1307,24</td>
 </tr>
-
 <tr>
 <td>354</td>
 <td>Od</td>
@@ -4693,7 +4339,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2370,40</td>
 </tr>
-
 <tr>
 <td>355</td>
 <td>Od</td>
@@ -4706,7 +4351,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2176,93</td>
 </tr>
-
 <tr>
 <td>356</td>
 <td>Od</td>
@@ -4719,7 +4363,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2314,51</td>
 </tr>
-
 <tr>
 <td>357</td>
 <td>Od</td>
@@ -4732,7 +4375,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2076,69</td>
 </tr>
-
 <tr>
 <td>358</td>
 <td>Od</td>
@@ -4745,7 +4387,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1954,76</td>
 </tr>
-
 <tr>
 <td>359</td>
 <td>Od</td>
@@ -4758,7 +4399,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2901,57</td>
 </tr>
-
 <tr>
 <td>360</td>
 <td>Od</td>
@@ -4771,7 +4411,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>4143,20</td>
 </tr>
-
 <tr>
 <td>361</td>
 <td>Od</td>
@@ -4784,7 +4423,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>853,47</td>
 </tr>
-
 <tr>
 <td>362</td>
 <td>Od</td>
@@ -4797,7 +4435,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1827,68</td>
 </tr>
-
 <tr>
 <td>363</td>
 <td>Od</td>
@@ -4810,7 +4447,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1292,88</td>
 </tr>
-
 <tr>
 <td>364</td>
 <td>Od</td>
@@ -4823,7 +4459,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2754,63</td>
 </tr>
-
 <tr>
 <td>365</td>
 <td>Od</td>
@@ -4836,7 +4471,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1428,13</td>
 </tr>
-
 <tr>
 <td>366</td>
 <td>Od</td>
@@ -4849,7 +4483,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>375,40</td>
 </tr>
-
 <tr>
 <td>367</td>
 <td>Od</td>
@@ -4862,7 +4495,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3879,65</td>
 </tr>
-
 <tr>
 <td>368</td>
 <td>Od</td>
@@ -4875,7 +4507,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3509,74</td>
 </tr>
-
 <tr>
 <td>369</td>
 <td>Od</td>
@@ -4888,7 +4519,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2555,92</td>
 </tr>
-
 <tr>
 <td>370</td>
 <td>Od</td>
@@ -4901,7 +4531,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1866,41</td>
 </tr>
-
 <tr>
 <td>371</td>
 <td>Od</td>
@@ -4914,7 +4543,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5876,99</td>
 </tr>
-
 <tr>
 <td>372</td>
 <td>Od</td>
@@ -4927,7 +4555,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5191,26</td>
 </tr>
-
 <tr>
 <td>373</td>
 <td>Od</td>
@@ -4940,7 +4567,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>860,15</td>
 </tr>
-
 <tr>
 <td>374</td>
 <td>Od</td>
@@ -4953,7 +4579,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3234,78</td>
 </tr>
-
 <tr>
 <td>375</td>
 <td>Od</td>
@@ -4966,7 +4591,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1664,97</td>
 </tr>
-
 <tr>
 <td>376</td>
 <td>Od</td>
@@ -4979,7 +4603,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2210,41</td>
 </tr>
-
 <tr>
 <td>377</td>
 <td>Od</td>
@@ -4992,7 +4615,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>3077,76</td>
 </tr>
-
 <tr>
 <td>378</td>
 <td>Od</td>
@@ -5005,7 +4627,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>779,09</td>
 </tr>
-
 <tr>
 <td>379</td>
 <td>Od</td>
@@ -5018,7 +4639,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>808,21</td>
 </tr>
-
 <tr>
 <td>380*</td>
 <td>Od</td>
@@ -5031,7 +4651,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>321251,44</td>
 </tr>
-
 <tr>
 <td>381</td>
 <td>Od</td>
@@ -5044,7 +4663,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>890,58</td>
 </tr>
-
 <tr>
 <td>382</td>
 <td>Od</td>
@@ -5057,7 +4675,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1193,09</td>
 </tr>
-
 <tr>
 <td>383</td>
 <td>Od</td>
@@ -5070,7 +4687,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1321,01</td>
 </tr>
-
 <tr>
 <td>384</td>
 <td>Od</td>
@@ -5083,7 +4699,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1193,42</td>
 </tr>
-
 <tr>
 <td>385</td>
 <td>Od</td>
@@ -5096,7 +4711,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>463,38</td>
 </tr>
-
 <tr>
 <td>386</td>
 <td>Od</td>
@@ -5109,7 +4723,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>567,30</td>
 </tr>
-
 <tr>
 <td>387</td>
 <td>Od</td>
@@ -5122,7 +4735,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>714,50</td>
 </tr>
-
 <tr>
 <td>388</td>
 <td>Od</td>
@@ -5135,7 +4747,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>6651,81</td>
 </tr>
-
 <tr>
 <td>389</td>
 <td>Od</td>
@@ -5148,7 +4759,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>450,27</td>
 </tr>
-
 <tr>
 <td>390**</td>
 <td>Od</td>
@@ -5161,7 +4771,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>496,26</td>
 </tr>
-
 <tr>
 <td>391</td>
 <td>Od</td>
@@ -5174,7 +4783,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>160,05</td>
 </tr>
-
 <tr>
 <td>392</td>
 <td>Od</td>
@@ -5187,7 +4795,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1190,85</td>
 </tr>
-
 <tr>
 <td>393</td>
 <td>Od</td>
@@ -5200,7 +4807,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5368,44</td>
 </tr>
-
 <tr>
 <td>394</td>
 <td>Od</td>
@@ -5213,7 +4819,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2020,00</td>
 </tr>
-
 <tr>
 <td>395</td>
 <td>Od</td>
@@ -5226,7 +4831,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>1246,63</td>
 </tr>
-
 <tr>
 <td>396</td>
 <td>Od</td>
@@ -5239,7 +4843,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>895,93</td>
 </tr>
-
 <tr>
 <td>397</td>
 <td>Od</td>
@@ -5252,7 +4855,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2591,42</td>
 </tr>
-
 <tr>
 <td>398</td>
 <td>Od</td>
@@ -5265,7 +4867,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2270</td>
 </tr>
-
 <tr>
 <td>399</td>
 <td>Od</td>
@@ -5278,7 +4879,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>703</td>
 </tr>
-
 <tr>
 <td>400</td>
 <td>Od</td>
@@ -5291,7 +4891,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>225,90</td>
 </tr>
-
 <tr>
 <td>401</td>
 <td>Od</td>
@@ -5304,7 +4903,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>241,94</td>
 </tr>
-
 <tr>
 <td>402</td>
 <td>Od</td>
@@ -5317,7 +4915,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>124,40</td>
 </tr>
-
 <tr>
 <td>403</td>
 <td>Od</td>
@@ -5330,7 +4927,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>177,11</td>
 </tr>
-
 <tr>
 <td>404</td>
 <td>Od</td>
@@ -5343,7 +4939,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>82,30</td>
 </tr>
-
 <tr>
 <td>405</td>
 <td>Od</td>
@@ -5356,7 +4951,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>193,95</td>
 </tr>
-
 <tr>
 <td>406</td>
 <td>Od</td>
@@ -5369,7 +4963,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>31,05</td>
 </tr>
-
 <tr>
 <td>407</td>
 <td>Od</td>
@@ -5382,7 +4975,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>761,62</td>
 </tr>
-
 <tr>
 <td>408</td>
 <td>Od</td>
@@ -5395,7 +4987,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>316,97</td>
 </tr>
-
 <tr>
 <td>409</td>
 <td>Od</td>
@@ -5408,7 +4999,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>504,66</td>
 </tr>
-
 <tr>
 <td>410</td>
 <td>Od</td>
@@ -5421,7 +5011,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>605,69</td>
 </tr>
-
 <tr>
 <td>411</td>
 <td>Od</td>
@@ -5434,7 +5023,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>555,22</td>
 </tr>
-
 <tr>
 <td>412</td>
 <td>Od</td>
@@ -5447,7 +5035,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>5133,00</td>
 </tr>
-
 <tr>
 <td>413</td>
 <td>Od</td>
@@ -5460,7 +5047,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>194,46</td>
 </tr>
-
 <tr>
 <td>414</td>
 <td>Od</td>
@@ -5473,7 +5059,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>197,72</td>
 </tr>
-
 <tr>
 <td>415</td>
 <td>Od</td>
@@ -5486,7 +5071,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>678,68</td>
 </tr>
-
 <tr>
 <td>416</td>
 <td>Od</td>
@@ -5499,7 +5083,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>U duljini od</td>
 <td>2123,41</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -5513,5 +5096,4 @@ Jadranka Kosor, dipl. iur., v. r.
 <td></td>
 </tr>
 </tbody>
-
 </table>

@@ -6,17 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2001-10-30
-last_amended: 2015-07-24
+last_amended: 2023-12-27
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "94/01, 138/06, 107/07, 61/11, 112/12, 82/15"
+narodne_novine: "94/01, 138/06, 107/07, 61/11, 112/12, 82/15, 58/18, 156/23"
 amendments:
   - "NN 138/2006 (3115) Zakon o izmjenama i dopunama Zakona o doplatku za djecu"
   - "NN 107/2007 (3134) Zakon o izmjeni i dopunama Zakona o doplatku za djecu"
   - "NN 61/2011 (1358) Zakon o izmjenama i dopunama Zakona o doplatku za djecu"
   - "NN 112/2012 (2429) Zakon o izmjeni i dopuni Zakona o doplatku za djecu"
   - "NN 82/2015 (1572) Zakon o izmjenama i dopuni Zakona o doplatku za djecu"
+  - "NN 58/2018 (1186) Zakon o izmjenama i dopunama Zakona o doplatku za djecu"
+  - "NN 156/2023 (2386) Zakon o izmjenama i dopunama Zakona o doplatku za djecu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1588"
 retrieved: 2026-10-12
 ---
@@ -25,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 94/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1588).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 138/2006, NN 107/2007, NN 61/2011, NN 112/2012, NN 82/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 138/2006, NN 107/2007, NN 61/2011, NN 112/2012, NN 82/2015, NN 58/2018, NN 156/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -747,3 +749,319 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o doplatku za djecu (NN 58/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/58/1186*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DOPLATKU ZA DJECU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o doplatku za djecu, koji je Hrvatski sabor donio na sjednici 29. lipnja 2018.
+
+Klasa: 011-01/18-01/67
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 29. lipnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DOPLATKU ZA DJECU**
+
+#### Članak 1.
+
+U Zakonu o doplatku za djecu (»Narodne novine«, br. 94/01., 138/06., 107/07., 37/08. – Odluka Ustavnog suda Republike Hrvatske, 61/11., 112/12. i 82/15.) članak 1.a mijenja se i glasi:
+
+»Članak 1.a
+
+Ovim Zakonom u hrvatsko zakonodavstvo preuzima se Direktiva 2011/95/EU Europskog parlamenta i Vijeća od 13. prosinca 2011. o standardima za kvalifikaciju državljana trećih zemalja ili osoba bez državljanstva za ostvarivanje međunarodne zaštite, za jedinstveni status izbjeglica ili osoba koje ispunjavaju uvjete za supsidijarnu zaštitu te sadržaj odobrene zaštite (SL L 337, 20. 12. 2011.).«.
+
+#### Članak 2.
+
+U članku 6. stavku 1. riječi: »na temelju rješenja nadležnog tijela za poslove socijalne skrbi« zamjenjuju se riječima: »na temelju odluke nadležnog tijela«.
+
+#### Članak 3.
+
+U članku 10. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Iznimno od odredbe stavka 3. ovoga članka, za dijete koje pohađa srednju školu u kojoj srednjoškolsko obrazovanje traje pet godina, doplatak za djecu pripada do završetka redovitog školovanja u srednjoj školi, a najduže do kraja školske godine u kojoj dijete navršava 20 godina života.«.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., riječi: »prema propisima iz socijalne skrbi« zamjenjuju se riječima: »prema posebnim propisima«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 4.
+
+U članku 11. riječ: »srednju« briše se.
+
+#### Članak 5.
+
+U članku 16. točki 1. broj: »50« zamjenjuje se brojem: »70«.
+
+#### Članak 6.
+
+U članku 17. stavku 3. broj: »50« zamjenjuje se brojem: »70«.
+
+#### Članak 7.
+
+U članku 23. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimno od odredbe stavka 2. ovoga članka, pravo na doplatak za djecu pripada od dana rođenja djeteta ako je zahtjev podnesen u roku od mjesec dana od rođenja djeteta.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 8.
+
+(1) Postupci za ostvarivanje prava na doplatak za djecu koji su pokrenuti, a nisu dovršeni do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o doplatku za djecu (»Narodne novine«, br. 94/01., 138/06., 107/07., 37/08. – Odluka Ustavnog suda Republike Hrvatske, 61/11., 112/12. i 82/15.).
+
+(2) U postupcima u kojima je zahtjev podnesen u roku od 90 dana od dana stupanja na snagu ovoga Zakona pravo na doplatak za djecu priznat će se od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 9.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/62
+
+Zagreb, 29. lipnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o doplatku za djecu (NN 156/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2386*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DOPLATKU ZA DJECU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o doplatku za djecu, koji je Hrvatski sabor donio na sjednici 15. prosinca 2023.
+
+Klasa: 011-02/23-02/130
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 20. prosinca 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DOPLATKU ZA DJECU**
+
+#### Članak 1.
+
+U Zakonu o doplatku za djecu (»Narodne novine«, br. 94/01., 138/06., 107/07., 37/08. – Odluka Ustavnog suda Republike Hrvatske, 61/11., 112/12., 82/15. i 58/18.) u članku 3. stavku 1. na kraju rečenice iza riječi: »doplatak« dodaju se riječi: »i radi namirenja tražbine po osnovi nepripadne isplate doplatka za djecu«.
+
+U stavku 4. riječi: »bračna druga« zamjenjuju se riječju: »roditelja«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ako roditelji ne postignu sporazum iz stavka 4. ovoga članka, pravo na doplatak za djecu ostvaruje roditelj kod kojeg dijete ima prijavljeno prebivalište.«.
+
+#### Članak 2.
+
+U članku 6. stavku 1. iza riječi: »roditelj,« dodaju se riječi: »druga osoba koja na temelju odluke nadležnog tijela ostvaruje roditeljsku skrb,«, a riječi: »čuvanje i odgoj« zamjenjuju se riječima: »svakodnevnu skrb«.
+
+#### Članak 3.
+
+Članak 8. mijenja se i glasi:
+
+»Doplatak za djecu pripada za svu djecu koju korisnik stvarno uzdržava, i to:
+
+1. za vlastitu djecu, posvojenu djecu, pastorčad ili djecu za koju ostvaruje roditeljsku skrb na temelju odluke nadležnog tijela
+
+2. za uzdržavanu unučad u skladu s propisom kojim se uređuju obiteljski odnosi i
+
+3. za djecu koja su povjerena na svakodnevnu skrb skrbniku, udomiteljskoj obitelji ili drugim osobama.«.
+
+#### Članak 4.
+
+U članku 10. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Iznimno od odredbe stavka 2. ovoga članka, za dijete koje se školuje u skladu s propisima o školovanju djece s teškoćama u razvoju doplatak za djecu pripada i nakon navršene životne dobi iz stavka 2. ovoga članka, a najduže do 21. godine života.«.
+
+#### Članak 5.
+
+Članak 13. mijenja se i glasi:
+
+»Doplatak za djecu ne pripada za vrijeme dok je djetetu u cijelosti na teret sredstava iz državnog proračuna, odnosno proračuna jedinice lokalne i područne (regionalne) samouprave priznata usluga smještaja tijekom svih dana u tjednu ili organiziranog stanovanja u ustanovi prema posebnim propisima.«.
+
+#### Članak 6.
+
+Članak 15. mijenja se i glasi:
+
+»(1) Stupanjem djeteta u brak prestaje pravo na doplatak za djecu za to dijete.
+
+(2) Ako brak djeteta iz stavka 1. ovoga članka bude razveden, korisnik može ostvariti pravo na doplatak za djecu za to dijete ako su ispunjeni uvjeti propisani ovim Zakonom.«.
+
+#### Članak 7.
+
+U članku 16. točki 1. broj: »70« zamjenjuje se brojem: »140«.
+
+#### Članak 8.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Ako ukupni dohodak po članu kućanstva korisnika mjesečno ne prelazi 20 % proračunske osnovice, korisniku pripada doplatak za djecu u visini od 14 % proračunske osnovice, po djetetu.
+
+(2) Ako je ukupni dohodak po članu kućanstva korisnika mjesečno iznad 20 % do 40 % proračunske osnovice, korisniku pripada doplatak za djecu u visini od 12,5 % proračunske osnovice, po djetetu.
+
+(3) Ako je ukupni dohodak po članu kućanstva korisnika mjesečno iznad 40 % do 60 % proračunske osnovice, korisniku pripada doplatak za djecu u visini od 11 % proračunske osnovice, po djetetu.
+
+(4) Ako je ukupni dohodak po članu kućanstva korisnika mjesečno iznad 60 % do 100 % proračunske osnovice, korisniku pripada doplatak za djecu u visini od 9 % proračunske osnovice, po djetetu.
+
+(5) Ako je ukupni dohodak po članu kućanstva korisnika mjesečno iznad 100 % do 140 % proračunske osnovice, korisniku pripada doplatak za djecu u visini od 7 % proračunske osnovice, po djetetu.«.
+
+#### Članak 9.
+
+U članku 18. riječi: »500,00 kuna« zamjenjuju se riječima: »66,36 eura«.
+
+#### Članak 10.
+
+U članku 21. stavku 1. iza riječi: »poslovna sposobnost« dodaju se riječi: »ili su lišeni prava na roditeljsku skrb ili su lišeni poslovne sposobnosti u odnosu na roditeljsku skrb«.
+
+U stavku 2. iza riječi: »poslovna sposobnost« dodaju se riječi: »ili je lišen prava na roditeljsku skrb ili je lišen poslovne sposobnosti u odnosu na roditeljsku skrb«.
+
+#### Članak 11.
+
+U članku 24. stavak 1. mijenja se i glasi:
+
+»(1) O pravu na doplatak za djecu rješava u prvom stupnju područna ustrojstvena jedinica Zavoda.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Zavod može ugovoriti s Hrvatskom poštom obavljanje poslova zaprimanja zahtjeva i dokumentacije u vezi s rješavanjem o pravu na doplatak za djecu.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 12.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Doplatak za djecu isplaćuje se u mjesečnim svotama i to u tekućem mjesecu za protekli mjesec.
+
+(2) Doplatak za djecu isplaćuje se korisniku na račun za plaćanje u banci.
+
+(3) Doplatak za djecu koji je isplaćen sukladno stavku 2. ovoga članka nakon smrti korisnika ili djeteta pripada državnom proračunu Republike Hrvatske, a na zahtjev Zavoda banka je ovlaštena i obvezna vratiti ga u roku od osam dana.
+
+(4) Banka ne može vlastita potraživanja namirivati iz sredstava doplatka za djecu.
+
+(5) Ako banka ne vrati sredstva isplaćena sukladno stavku 3. ovoga članka zato što je njima raspolagala neka druga osoba, banka je obvezna na zahtjev Zavoda dati podatke o osobi koja je raspolagala tim sredstvima.«.
+
+#### Članak 13.
+
+Članak 30. mijenja se i glasi:
+
+»(1) Nadležno tijelo socijalne skrbi dužno je izvijestiti Zavod u roku od 15 dana od saznanja da korisnik doplatak za djecu ne koristi za uzdržavanje i odgoj djece.
+
+(2) Ako se utvrdi da korisnik doplatak za djecu ne koristi za uzdržavanje i odgoj djece, nadležno tijelo socijalne skrbi donijet će odluku o imenovanju posebnog skrbnika za isplatu doplatka za djecu i o tome izvijestiti Zavod.«.
+
+#### Članak 14.
+
+U članku 32. stavku 1. riječi: »ministarstvo nadležno za obitelj« zamjenjuju se riječima: »tijelo državne uprave nadležno za demografiju«.
+
+U stavku 2. riječi: »ministarstvu nadležnom za obitelj« zamjenjuju se riječima: »tijelu državne uprave nadležnom za demografiju«.
+
+#### Članak 15.
+
+Naziv poglavlja VII. mijenja se i glasi: »STJECANJE BEZ OSNOVE­«.
+
+#### Članak 16.
+
+Članak 34. mijenja se i glasi:
+
+»(1) Korisnik doplatka za djecu koji je primio doplatak za djecu koji mu ne pripada, dužan ga je na zahtjev Zavoda vratiti Zavodu zbog stjecanja bez osnove (u daljnjem tekstu: nepripadna isplata).
+
+(2) Zavod rješenjem u upravnom postupku po službenoj dužnosti utvrđuje iznos nepripadno isplaćenih sredstava iz stavka 1. ovoga članka i razdoblje na koje se nepripadna isplata odnosi.
+
+(3) Rješenje iz stavka 2. ovoga članka mora sadržavati i rok u kojem korisnik koji je primio nepripadno isplaćena sredstva može dobrovoljno ispuniti obvezu povrata nepripadno isplaćenih sredstava uplatom na račun državnog proračuna.
+
+(4) Rješenje iz stavka 2. ovoga članka je ovršna isprava.
+
+(5) Zavod može potraživanje s osnove nepripadne isplate iz stavka 1. ovoga članka namiriti i prijebojem iz pripadajućih dospjelih, a neisplaćenih svota doplatka za djecu.«.
+
+#### Članak 17.
+
+Iza članka 34. dodaje se članak 34.a koji glasi:
+
+»Članak 34.a
+
+(1) Pravo Zavoda na utvrđivanje nepripadne isplate i pravo na povrat nepripadne isplate zastarijeva za pet godina računajući od dana kada je zastara počela teći.
+
+(2) Zastara prava na utvrđivanje nepripadne isplate počinje teći prvoga dana nakon isteka godine u kojoj je Zavod saznao za nepripadnu isplatu, odnosno za osobu primatelja nepripadne isplate.
+
+(3) Zastara prava na povrat nepripadne isplate počinje teći od pravomoćnosti rješenja kojim je utvrđena nepripadna isplata.
+
+(4) Tijek zastare prava na utvrđivanje i prava na povrat nepripadne isplate te prava na naplatu kamata i troškova postupka naplate prekida se svakim službenim aktom Zavoda radi utvrđivanja ili povrata nepripadne isplate te naplate kamata i troškova postupka naplate, a koji je dostavljen obvezniku povrata.
+
+(5) Na nepripadnu isplatu, odnosno stjecanje bez osnove primjenjuju se odgovarajuće odredbe propisa kojim se uređuju obvezni odnosi, ako nisu u suprotnosti s odredbama ovoga Zakona.«.
+
+#### Članak 18.
+
+Naziv poglavlja VIII. mijenja se i glasi: »PREKRŠAJNE ­ODREDBE«.
+
+#### Članak 19.
+
+Članak 35. mijenja se i glasi:
+
+»(1) Korisnik doplatka za djecu kaznit će se za prekršaj novčanom kaznom u iznosu od 130,00 do 1320,00 eura ako:
+
+1. ostvari pravo na doplatak za djecu na osnovi neistinitih i netočnih podataka (članak 27. stavak 1. i članak 28. stavak 1.)
+
+2. ne prijavi u propisanom roku svaku promjenu koja utječe na gubitak prava na doplatak za djecu ili na smanjenje svote doplatka za djecu (članak 28. stavak 1.).
+
+(2) Odgovorna osoba nadležnoga tijela državne uprave ili tijela jedinica lokalne i područne (regionalne) samouprave, javne ustanove, odnosno drugoga nadležnog tijela ili pravne osobe i fizička osoba koja Zavodu uskrati dostavu ili stavljanje na raspolaganje podataka iz članka 30.a stavka 2. ovoga Zakona kaznit će se za prekršaj novčanom kaznom u iznosu od 190,00 do 660,00 eura.
+
+(3) Banka koja obavlja platni promet u Republici Hrvatskoj kaznit će se za prekršaj novčanom kaznom u iznosu od 1300,00 do 13.300,00 eura ako na zahtjev Zavoda ne vrati doplatak za djecu nakon smrti korisnika ili djeteta (članak 26. stavak 3.) ili ako vlastita potraživanja namiruje iz sredstava doplatka za djecu (članak 26. stavak 4.) ili ako na zahtjev Zavoda ne da podatke o drugoj osobi koja je raspolagala sredstvima za doplatak za djecu (članak 26. stavak 5.).
+
+(4) Odgovorna osoba nadležnog tijela socijalne skrbi kaznit će se za prekršaj novčanom kaznom u iznosu od 190,00 do 660,00 eura ako u propisanom roku ne izvijesti Zavod da korisnik doplatak za djecu ne koristi za uzdržavanje i odgoj djece (članak 30. stavak 1.) ili ako ne donese odluku o imenovanju posebnog skrbnika za isplatu doplatka za djecu i o tome ne izvijesti Zavod (članak 30. stavak 2.).
+
+(5) Ako Zavod utvrdi postojanje osnovane sumnje da je povredom propisa počinjen prekršaj iz stavaka 1. do 4. ovoga članka, ovlašten je podnijeti optužni prijedlog za pokretanje prekršajnog postupka.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 20.
+
+(1) Postupci za ostvarivanje prava na doplatak za djecu, pokrenuti do 31. prosinca 2023. koji su u tijeku, dovršit će se prema odredbama Zakona o doplatku za djecu (»Narodne novine«, br. 94/01., 138/06., 107/07., 37/08. – Odluka Ustavnog suda Republike Hrvatske, 61/11., 112/12., 82/15. i 58/18.).
+
+(2) Zahtjevi za ostvarivanje prava na doplatak za djecu podneseni u razdoblju od 1. siječnja do 29. veljače 2024. riješit će se prema odredbama ovoga Zakona.
+
+(3) U postupcima u kojima je zahtjev za priznanje prava na doplatak za djecu podnesen u roku od 120 dana od dana stupanja na snagu ovoga Zakona, pravo na doplatak za djecu pod uvjetima iz ovoga Zakona priznat će se od dana stupanja na snagu ovoga Zakona.
+
+(4) Korisnicima prava na doplatak za djecu za dijete s oštećenjem zdravlja, ostvarenog prema članku 21. stavku 1. Zakona o doplatku za djecu važećem do 31. prosinca 2023., kojima je Zavod isplaćivao doplatak za djecu do 29. veljače 2024. prema uvjetima propisanim propisom kojim se uređuje inkluzivni dodatak, koji podnesu zahtjev za nastavno ostvarivanje prava na doplatak za djecu, ako ispunjavaju uvjete za priznavanje prava, svota doplatka za djecu će se nakon stupanja na snagu ovoga Zakona odrediti prema članku 7. i 8. ovoga Zakona.
+
+(5) Korisnicima prava na doplatak za djecu za dijete s težim ili teškim invaliditetom, ostvarenog prema članku 22. Zakona o doplatku za djecu važećem do 31. prosinca 2023., koji podnesu zahtjev za nastavno ostvarivanje prava na doplatak za djecu, ako ispunjavaju uvjete za priznavanje prava, svota doplatka za djecu odredit će se prema članku 7. i 8. ovoga Zakona.
+
+#### Članak 21.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. ožujka 2024.
+
+Klasa: 022-02/23-01/135
+
+Zagreb, 15. prosinca 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

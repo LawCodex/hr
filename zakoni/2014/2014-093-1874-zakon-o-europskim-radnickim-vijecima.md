@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-07-30
+last_amended: 2017-12-20
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "93/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "93/14, 127/17"
+amendments:
+  - "NN 127/2017 (2878) Zakon o izmjenama i dopunama Zakona o europskim radničkim vijećima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/93/1874"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o europskim radničkim vijećima
 
 > Izvor: Narodne novine, NN 93/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/93/1874).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 127/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -520,3 +524,74 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o europskim radničkim vijećima (NN 127/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/127/2878*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O EUROPSKIM RADNIČKIM VIJEĆIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o europskim radničkim vijećima, koji je Hrvatski sabor donio na sjednici 8. prosinca 2017.
+
+Klasa: 011-01/17-01/114  
+Urbroj: 71-06-01/1-17-2  
+Zagreb, 13. prosinca 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O EUROPSKIM RADNIČKIM VIJEĆIMA**
+
+### Članak 1.
+
+U Zakonu o europskim radničkim vijećima (»Narodne novine«, br. 93/14.) članak 2. mijenja se i glasi:
+
+»Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+
+– Direktiva 2009/38/EZ Europskog parlamenta i Vijeća od 6. svibnja 2009. o osnivanju Europskog radničkog vijeća ili uvođenju postupka koji obuhvaća poduzeća i skupine poduzeća na razini Zajednice radi obavješćivanja i savjetovanja radnika (preinačeno) (Tekst značajan za EGP), (SL L 122, 16. 5. 2009.) i
+
+– Direktiva (EU) 2015/1794 Europskog parlamenta i Vijeća od 6. listopada 2015. o izmjeni direktiva 2008/94/EZ, 2009/38/EZ i 2002/14/EZ Europskog parlamenta i Vijeća te direktiva Vijeća 98/59/EZ i 2001/23/EZ u pogledu pomoraca (Tekst značajan za EGP), (SL L 263, 8. 10. 2015.).«.
+
+### Članak 2.
+
+U članku 14. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Središnja uprava dužna je planirati sastanke kako bi se olakšalo sudjelovanje svim članovima pregovaračkog odbora, a ako ne mogu prisustvovati sastanku, dužna im je osigurati, ako je to s obzirom na okolnosti moguće, upotrebu informacijskih i komunikacijskih tehnologija, odnosno tehnologija koje omogućuju daljinsku komunikaciju.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., broj: »4.« zamjenjuje se brojem: »5.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+### Članak 3.
+
+U članku 31. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Članovima europskog radničkog vijeća moraju se osigurati uvjeti za sudjelovanje na sastanku europskog radničkog vijeća, na način da se sastanci planiraju tako da se olakša njihovo sudjelovanje, uz osiguranje upotrebe informacijskih i komunikacijskih tehnologija, odnosno tehnologija koje omogućuju daljinsku komunikaciju, ako je to s obzirom na okolnosti moguće, u slučaju kada nisu u mogućnosti prisustvovati sastanku.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/125  
+Zagreb, 8. prosinca 2017.
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

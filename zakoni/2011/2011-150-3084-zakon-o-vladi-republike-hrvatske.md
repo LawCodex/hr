@@ -6,13 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-12-22
-last_amended: 2014-10-07
+last_amended: 2024-07-01
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "150/11, 119/14"
+narodne_novine: "150/11, 119/14, 116/18, 80/22, 78/24"
 amendments:
   - "NN 119/2014 (2234) Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske"
+  - "NN 116/2018 (2289) Zakon o izmjeni Zakona o Vladi Republike Hrvatske"
+  - "NN 80/2022 (1168) Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske"
+  - "NN 78/2024 (1331) Zakon o izmjenama i dopuni Zakona o Vladi Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3084"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 150/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3084).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 119/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 119/2014, NN 116/2018, NN 80/2022, NN 78/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -430,3 +433,303 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o Vladi Republike Hrvatske (NN 116/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/116/2289*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O VLADI REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjeni Zakona o Vladi Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 14. prosinca 2018.
+
+Klasa: 011-01/18-01/237
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O VLADI REPUBLIKE HRVATSKE**
+
+#### Članak 1.
+
+U Zakonu o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14. i 93/16.) u članku 27. stavku 1. podstavci 5. i 6. brišu se.
+
+Dosadašnji podstavci 7. i 8. postaju podstavci 5. i 6.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 2.
+
+Danom stupanja na snagu ovoga Zakona Ministarstvo unutarnjih poslova preuzima sve poslove iz djelokruga Ureda za razminiranje te opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze te državne službenike zatečene na obavljanju preuzetih poslova.
+
+Do donošenja rješenja o rasporedu državnih službenika, državni službenici iz stavka 1. ovoga članka nastavljaju obavljati poslove sukladno dosadašnjim rješenjima i zadržavaju sva prava iz radnog odnosa sukladno tim rješenjima.
+
+Na preuzete državne službenike iz stavka 1. ovoga članka koji neće biti raspoređeni primijenit će se odredbe zakona kojim se uređuje radnopravni status državnih službenika o stavljanju državnih službenika na raspolaganje Vladi Republike Hrvatske.
+
+#### Članak 3.
+
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti Uredbu o unutarnjem ustrojstvu Ministarstva unutarnjih poslova s odredbama ovoga Zakona.
+
+Čelnik tijela iz stavka 1. ovoga članka dužan je uskladiti Pravilnik o unutarnjem redu u roku od 30 dana od dana stupanja na snagu Uredbe iz stavka 1. ovoga članka.
+
+#### Članak 4.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o Uredu za razminiranje (»Narodne novine«, br. 21/12.).
+
+#### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/263
+
+Zagreb, 14. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske (NN 80/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1168*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VLADI REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 1. srpnja 2022.
+
+Klasa: 011-02/22-02/58
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 6. srpnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VLADI REPUBLIKE HRVATSKE**
+
+#### Članak 1.
+
+U Zakonu o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.) u članku 20. stavak 5. mijenja se i glasi: »Glavni tajnik Vlade, sukladno Poslovniku Vlade Republike Hrvatske (u daljnjem tekstu: Poslovnik), pomaže predsjedniku Vlade u pripremanju sjednica i drugim poslovima Vlade.«.
+
+#### Članak 2.
+
+U članku 23. stavak 5. mijenja se i glasi:
+
+»Za posebnog savjetnika iz stavka 1. ovoga članka mogu se imenovati osobe neovisno o njihovu radnopravnom statusu, a rješenjem o imenovanju može se odrediti naknada za njihov rad.«.
+
+Stavak 7. mijenja se i glasi:
+
+»Pojedini član Vlade može, uz suglasnost predsjednika Vlade, imenovati i razriješiti posebnoga savjetnika uz odgovarajuću primjenu odredaba ovoga članka.«.
+
+Iza stavka 7. dodaju se stavci 8., 9., 10. i 11. koji glase:
+
+»Za člana savjeta iz stavka 1. ovoga članka mogu se imenovati osobe iz reda znanstvenih, kulturnih i drugih javnih djelatnika, iz reda udruga civilnog društva, kao i gospodarstvenici i drugi stručnjaci za pitanja iz djelokruga rada savjeta koji su se istaknuli svojim radom.
+
+Podaci o posebnim savjetnicima, kao i o članovima savjeta objavljuju se na posebnom obrascu na mrežnim stranicama Vlade u roku od 14 dana od dana njihova imenovanja.
+
+Podaci o posebnim savjetnicima pojedinog člana Vlade iz stavka 7. ovoga članka objavljuju se na posebnom obrascu na mrežnim stranicama ministarstva u roku od 14 dana od dana njihova imenovanja.
+
+Vlada će donijeti odluku kojom će propisati sadržaj obrazaca iz stavaka 9. i 10. ovoga članka.«.
+
+#### Članak 3.
+
+Iza članka 23. dodaje se članak 23. a koji glasi:
+
+»Članak 23.a
+
+Posebni savjetnik i član savjeta iz članka 23. ovoga Zakona dužan je svoje poslove obavljati zakonito i nepristrano pazeći pri tome da svoj privatni interes ne stavlja ispred javnog interesa.
+
+Posebni savjetnik i član savjeta iz članka 23. ovoga Zakona dužan je u roku od osam dana od dana donošenja odluke o imenovanju potpisati Izjavu o interesima i nepristranosti.
+
+U slučaju nastanka okolnosti koje narušavaju ili bi mogle narušiti nepristranost posebnog savjetnika ili predstavljaju postojanje sukoba interesa ili mogućeg sukoba interesa, posebni savjetnik dužan je bez odgode izvijestiti predsjednika Vlade ili drugog člana Vlade za kojeg obavlja savjetničke poslove.
+
+Vlada će donijeti odluku kojom će propisati sadržaj Izjave o interesima i nepristranosti iz stavka 2. ovoga članka.«.
+
+#### Članak 4.
+
+U članku 34. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Iznimno od stavka 1. ovoga članka, protiv člana Vlade može se voditi kazneni postupak, bez prethodnog odobrenja Vlade, za koruptivna kaznena djela za koja se progon poduzima po službenoj dužnosti.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 5.
+
+Vlada Republike Hrvatske donijet će odluke iz članaka 2. i 3. ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 6.
+
+Glavno tajništvo Vlade Republike Hrvatske i ministarstva će, u roku od 30 dana od dana stupanja na snagu odluke iz članka 2. ovoga Zakona, objaviti obrazac na svojim mrežnim stranicama.
+
+Posebni savjetnici i članovi savjeta imenovani na temelju Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.) će u roku od 30 dana od dana stupanja na snagu odluke iz članka 3. ovoga Zakona potpisati Izjavu o interesima i nepristranosti.
+
+#### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/22-01/29
+
+Zagreb, 1. srpnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o Vladi Republike Hrvatske (NN 78/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/78/1331*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O VLADI REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o Vladi Republike Hrvatske koji je Hrvatski sabor donio na sjednici 21. lipnja 2024. godine.
+
+Klasa: 011-02/24-02/45
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 21. lipnja 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O VLADI REPUBLIKE HRVATSKE**
+
+#### Članak 1.
+
+U Zakonu o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.) članak 19. mijenja se i glasi:
+
+»Predstojnik Ureda ima zamjenike koje imenuje i razrješava Vlada na prijedlog predsjednika Vlade.
+
+Zamjenici predstojnika Ureda predsjednika Vlade su državni dužnosnici.«.
+
+#### Članak 2.
+
+Članak 21. mijenja se i glasi:
+
+»Glavni tajnik Vlade ima zamjenike koje imenuje i razrješuje Vlada na prijedlog predsjednika Vlade.
+
+Zamjenici glavnog tajnika Vlade su državni dužnosnici.«.
+
+#### Članak 3.
+
+Iza članka 21. dodaju se članci 21.a, 21.b, 21.c i 21.d koji glase:
+
+»Članak 21.a
+
+U Vladi se ustrojava Ured za odnose s javnošću.
+
+Ured za odnose s javnošću obavlja stručne i administrativne poslove za potrebe Vlade i predsjednika Vlade koji se odnose na izvješćivanje javnosti o politici i aktivnostima Vlade, komunikaciju s medijima i građanima, upoznavanje Vlade o sadržaju i stajalištima medija i javnosti, koordinaciju komunikacijskih aktivnosti tijela državne uprave, provedbu Zakona o pravu na pristup informacijama u Vladi te koordinaciju rada u vezi s provedbom tog Zakona u Vladinim uredima i službama.
+
+Radom Ureda za odnose s javnošću upravlja glasnogovornik Vlade kojeg imenuje Vlada na prijedlog predsjednika Vlade, a koji za svoj rad odgovara predsjedniku Vlade i Vladi.
+
+Glasnogovornik Vlade ima položaj državnog tajnika i državni je dužnosnik.
+
+U upravljanju Uredom za odnose s javnošću glasnogovornik Vlade ima prava i ovlasti čelnika tijela državne uprave.
+
+Unutarnje ustrojstvo i način rada Ureda za odnose s javnošću propisuju se uredbom Vlade.
+
+#### Članak 21.b
+
+Glasnogovornik Vlade ima zamjenike koje imenuje i razrješava Vlada na prijedlog predsjednika Vlade.
+
+Zamjenici glasnogovornika Vlade su državni dužnosnici.
+
+#### Članak 21.c
+
+U Vladi se ustrojava Ured za socijalno partnerstvo.
+
+Ured za socijalno partnerstvo obavlja stručne, analitičke, savjetodavne i administrativne poslove za potrebe Vlade i predsjednika Vlade koji se odnose na stvaranje uvjeta za unaprjeđenje socijalnog dijaloga i partnerstva u Republici Hrvatskoj na nacionalnoj razini.
+
+Radom Ureda za socijalno partnerstvo upravlja predstojnik Ureda kojeg imenuje Vlada na prijedlog predsjednika Vlade, a koji za svoj rad odgovara predsjedniku Vlade i Vladi.
+
+Predstojnik Ureda za socijalno partnerstvo ima položaj državnog tajnika i državni je dužnosnik.
+
+U upravljanju Uredom za socijalno partnerstvo predstojnik Ureda ima prava i ovlasti čelnika tijela državne uprave.
+
+Unutarnje ustrojstvo i način rada Ureda za socijalno partnerstvo propisuju se uredbom Vlade.
+
+#### Članak 21.d
+
+Predstojnik Ureda za socijalno partnerstvo ima zamjenika kojeg imenuje i razrješava Vlada na prijedlog predsjednika Vlade.
+
+Zamjenik predstojnika Ureda je državni dužnosnik.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 4.
+
+Danom stupanja na snagu ovoga Zakona Ured za odnose s javnošću preuzima dio poslova iz djelokruga Ureda predsjednika Vlade Republike Hrvatske, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze te državne službenike zatečene na obavljanju preuzetih poslova.
+
+Službenici zatečeni u državnoj službi u Uredu predsjednika Vlade Republike Hrvatske nastavljaju s radom do stupanja na snagu Uredbe iz članka 21.a koji je dodan člankom 3. ovoga Zakona.
+
+Do donošenja rješenja o rasporedu državnih službenika iz stavka 1. ovoga članka državni službenici nastavljaju obavljati poslove sukladno dotadašnjim rješenjima i zadržavaju sva prava iz radnog odnosa sukladno tim rješenjima.
+
+#### Članak 5.
+
+Danom stupanja na snagu ovoga Zakona Ured za socijalno partnerstvo preuzima poslove iz djelokruga Ministarstva rada, mirovinskoga sustava, obitelji i socijalne politike, Službe za socijalno partnerstvo, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze te državne službenike zatečene na obavljanju preuzetih poslova.
+
+Službenici zatečeni u državnoj službi u Ministarstvu rada, mirovinskoga sustava, obitelji i socijalne politike, Službi za socijalno partnerstvo nastavljaju s radom do stupanja na snagu Uredbe iz članka 21.c koji je dodan člankom 3. ovoga Zakona.
+
+Do donošenja rješenja o rasporedu državnih službenika iz stavka 1. ovoga članka državni službenici nastavljaju obavljati poslove sukladno dotadašnjim rješenjima i zadržavaju sva prava iz radnog odnosa sukladno tim rješenjima.
+
+#### Članak 6.
+
+Na plaću zamjenika glasnogovornika Vlade i zamjenika predstojnika Ureda za socijalno partnerstvo iz članaka 21.b i 21.d koji su dodani člankom 3. ovoga Zakona primjenjuju se odredbe Zakona o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 131/00., 30/01., 59/01., 114/01., 153/02., 163/03., 16/04., 30/04., 105/04., 187/04., 121/05., 151/05., 135/06. ‒ Odluka Ustavnog suda Republike Hrvatske, 141/06., 17/07., 34/07., 82/07., 107/07., 60/08., 38/09., 150/11., 22/13., 102/14., 103/14., 3/15., 93/16., 44/17. i 66/19.) u dijelu koji se odnosi na plaću zamjenika glavnog tajnika Vlade Republike Hrvatske.
+
+#### Članak 7.
+
+Sredstva osigurana u državnom proračunu za rad Ureda predsjednika Vlade Republike Hrvatske i Službe za socijalno partnerstvo iz Ministarstva rada, mirovinskoga sustava, obitelji i socijalne politike preraspodijelit će se na urede iz članka 3. ovoga Zakona na temelju Odluke Vlade o rasporedu sredstava sukladno preuzetim poslovima.
+
+#### Članak 8.
+
+Vlada će u roku od 30 dana od dana stupanja na snagu ovoga Zakona donijeti uredbe iz članaka 21.a i 21.c koje su dodane člankom 3. ovoga Zakona.
+
+Vlada će u roku od 30 dana od dana stupanja na snagu ovoga Zakona uskladiti Uredbu o Uredu predsjednika Vlade Republike Hrvatske (»Narodne novine«, br. 145/13.) s odredbama ovoga Zakona.
+
+#### Članak 9.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/39
+
+Zagreb, 21. lipnja 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

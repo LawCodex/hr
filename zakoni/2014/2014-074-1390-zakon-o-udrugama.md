@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-06-18
+last_amended: 2022-12-22
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "74/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "74/14, 70/17, 98/19, 151/22"
+amendments:
+  - "NN 70/2017 (1665) Zakon o izmjeni Zakona o udrugama"
+  - "NN 98/2019 (1932) Zakon o izmjenama i dopuni Zakona o udrugama"
+  - "NN 151/2022 (2346) Zakon o izmjenama i dopunama Zakona o udrugama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1390"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Zakon o udrugama
 
 > Izvor: Narodne novine, NN 74/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1390).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 70/2017, NN 98/2019, NN 151/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -826,3 +832,489 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o udrugama (NN 70/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1665*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O UDRUGAMA
+
+Proglašavam Zakon o izmjeni Zakona o udrugama, koji je Hrvatski sabor donio na sjednici 7. srpnja 2017.
+
+Klasa: 011-01/17-01/60
+
+Urbroj: 71-06-01/1- 17-2
+
+Zagreb, 13. srpnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O UDRUGAMA**
+
+### Članak 1.
+
+U Zakonu o udrugama (»Narodne novine«, br. 74/14.) u članku 13. stavku 3. podstavak 3. briše se.
+
+Dosadašnji podstavci 4. – 15. postaju podstavci 3. – 14.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/36
+
+Zagreb, 7. srpnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o udrugama (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1932*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O UDRUGAMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o udrugama, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/140
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O UDRUGAMA**
+
+### Članak 1.
+
+U Zakonu o udrugama (»Narodne novine«, br. 74/14. i 70/17.) u članku 14. stavku 7. riječi: »tijelu državne uprave koje vodi registar udruga« brišu se.
+
+### Članak 2.
+
+U članku 19. podstavak 4. mijenja se i glasi:
+
+» – dostavlja zapisnik s redovne sjednice skupštine nadležnom upravnom tijelu županije, odnosno Grada Zagreba (u daljnjem tekstu: nadležno upravno tijelo) koje vodi registar udruga«.
+
+### Članak 3.
+
+U članku 22. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Udruge se upisuju u registar udruga pri županijama, odnosno Gradu Zagrebu, prema sjedištu udruge.
+
+(4) Registar udruga i registar stranih udruga su središnje elektroničke baze podataka koje se vode pri nadležnom upravnom tijelu jedinstveno za sve udruge, odnosno strane udruge u Republici Hrvatskoj.«.
+
+### Članak 4.
+
+U članku 24. stavku 2. riječ: »središnjeg« briše se.
+
+### Članak 5.
+
+U članku 25. stavku 1. riječi: »Nadležni ured« zamjenjuju se riječima: »Nadležno upravno tijelo«.
+
+U stavku 2. riječi: »nadležnog ureda« zamjenjuju se riječima: »nadležnog upravnog tijela«.
+
+U stavku 5. riječi: »nadležni ured« zamjenjuju se riječima: »nadležno upravno tijelo«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Rješenje o upisu udruge koja je u statutu propisala obavljanje gospodarske djelatnosti nadležno upravno tijelo dužno je odmah po upisu u registar udruga dostaviti Ministarstvu financija, Poreznoj upravi.«.
+
+U stavku 8. riječi: »nadležni ured« zamjenjuju se riječima: »nadležno upravno tijelo«.
+
+### Članak 6.
+
+U članku 27. stavku 1. riječi: »nadležnom uredu« zamjenjuju se riječima: »nadležnom upravnom tijelu«.
+
+U stavku 6. riječi: »nadležni ured« zamjenjuju se riječima: »nadležno upravno tijelo«.
+
+U stavku 7. riječi: »nadležnog ureda« zamjenjuju se riječima: »nadležnog upravnog tijela«.
+
+### Članak 7.
+
+U članku 28. stavku 1. riječi: »nadležnom uredu« zamjenjuju se riječima: »nadležnom upravnom tijelu«.
+
+### Članak 8.
+
+U članku 29. stavku 1. riječi: »nadležnog ureda« zamjenjuju se riječima: »nadležnog upravnog tijela«, a riječ: »središnje« briše se.
+
+U stavku 2. riječ: »središnjeg« briše se.
+
+### Članak 9.
+
+Iza članka 29. dodaje se članak 29.a koji glasi:
+
+»Članak 29.a
+
+Poslove upisa u registar udruga i registar stranih udruga te vođenja registra udruga i registra stranih udruga obavlja nadležno upravno tijelo, kao povjerene poslove državne uprave.«.
+
+### Članak 10.
+
+Naslov iznad članka 43. mijenja se i glasi: »Nadzor nad radom udruge«.
+
+Članak 43. mijenja se i glasi:
+
+»(1) Nadzor nad radom udruge, u smislu ovoga Zakona, obavljaju ovlašteni službenici nadležnog upravnog tijela.
+
+(2) Nadzor nad radom udruge iz stavka 1. ovoga članka posebno se odnosi na to prijavljuju li udruge, sukladno članku 27. ovoga Zakona, promjene statuta, naziva, adrese sjedišta, izbor osoba ovlaštenih za zastupanje i prestanak rada ili rabe li u pravnom prometu podatke o promjenama, odnosno postupaju li po promjenama prije nego što su upisane u registar udruga, rabe li naziv pod kojim su upisane u registar udruga, održavaju li sjednice skupštine i dostavljaju li zapisnike s redovnih sjednica skupštine udruge, vode li popis članova udruge na način propisan ovim Zakonom te jesu li prestale djelovati, sukladno članku 48. stavku 1. točkama 2., 3. i 6. ovoga Zakona.«.
+
+### Članak 11.
+
+Naslov iznad članka 44. mijenja se i glasi: »Postupak provođenja nadzora nad radom udruge«.
+
+Članak 44. mijenja se i glasi:
+
+»(1) Ako službenik ovlašten za provedbu nadzora nad radom udruge utvrdi da je povrijeđen ovaj Zakon, ovlašten je rješenjem narediti otklanjanje utvrđenih nedostataka i nepravilnosti u određenom roku.
+
+(2) Rješenje iz stavka 1. ovoga članka ovlašteni službenik dužan je dostaviti tijelu državne uprave u čiji djelokrug spadaju ciljevi osnivanja udruge i tijelu državne uprave u čiji djelokrug spadaju gospodarske djelatnosti udruge, sukladno zakonu.«.
+
+### Članak 12.
+
+Članak 45. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor nad obavljanjem djelatnosti kojima se ostvaruju ciljevi osnivanja udruge i nad obavljanjem gospodarskih djelatnosti udruge obavljaju nadležni inspektori ovisno o djelokrugu udruge, sukladno posebnim propisima.
+
+(2) Popis članova udruge iz članka 12. stavka 4. ovoga Zakona mora biti dostupan inspektorima u obavljanju inspekcijskog nadzora.
+
+(3) Ako nadležni inspektor iz stavka 1. ovoga članka nad udrugom poduzme propisane mjere iz svog djelokruga, dužan je o tome odmah obavijestiti nadležno upravno tijelo.«.
+
+### Članak 13.
+
+U članku 47. riječ: »središnje« briše se.
+
+### Članak 14.
+
+U članku 48. stavku 2. riječi: »nadležnom uredu« zamjenjuju se riječima: »nadležnom upravnom tijelu«.
+
+U stavcima 3. i 4. riječi: »nadležni ured« zamjenjuju se riječima: »nadležno upravno tijelo«.
+
+### Članak 15.
+
+U članku 49. stavku 2. riječi: »Nadležni ured« zamjenjuju se riječima: »Nadležno upravno tijelo«.
+
+U stavku 4. riječi: »nadležnog ureda« zamjenjuju se riječima: »nadležnog upravnog tijela«.
+
+U stavku 6. riječi: »nadležnom uredu« zamjenjuju se riječima: »nadležnom upravnom tijelu«.
+
+U stavku 8. riječi: »nadležni ured« zamjenjuju se riječima: »nadležno upravno tijelo«.
+
+### Članak 16.
+
+U članku 51. stavku 2. riječi: »nadležnom uredu« zamjenjuju se riječima: »nadležnom upravnom tijelu«.
+
+U stavku 4. riječi: »nadležni ured« zamjenjuju se riječima: »nadležno upravno tijelo«.
+
+### Članak 17.
+
+U članku 52. stavku 1. riječi: »Nadležni ured« zamjenjuju se riječima: »Nadležno upravno tijelo«.
+
+### Članak 18.
+
+Naziv dijela, naslov iznad članka 54. i članak 54. brišu se.
+
+### Članak 19.
+
+U članku 55. stavku 1. riječi: »nadležnom uredu« zamjenjuju se riječima: »nadležnom upravnom tijelu«.
+
+U stavcima 2. i 3. riječi: »nadležni ured« zamjenjuju se riječima: »nadležno upravno tijelo«.
+
+### Članak 20.
+
+Ministar nadležan za poslove opće uprave uskladit će Pravilnik o sadržaju i načinu vođenja Registra udruga Republike Hrvatske i Registra stranih udruga u Republici Hrvatskoj (»Narodne novine«, br. 4/15.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 21.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/135
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o udrugama (NN 151/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2346*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O UDRUGAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o udrugama, koji je Hrvatski sabor donio na sjednici 16. prosinca 2022.
+
+Klasa: 011-02/22-02/178
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 20. prosinca 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O UDRUGAMA**
+
+#### Članak 1.
+
+U Zakonu o udrugama (»Narodne novine, br. 74/14., 70/17. i 98/19.) u članku 11. iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+
+»(7) Osnivač udruge ne može biti osoba koja je:
+
+1. pravomoćno osuđena za kazneno djelo financiranja terorizma ili kazneno djelo pranja novca za vrijeme dok traju pravne posljedice osude te osoba za koju su uvedene međunarodne mjere ograničavanja raspolaganja imovinom, dok su te mjere na snazi ili
+
+2. pravomoćno osuđena za kazneno djelo neke druge države koje po svojim bitnim obilježjima odgovara kaznenim djelima iz točke 1. ovoga stavka.
+
+(8) Osnivač udruge koja je u izravnom doticaju s djecom ne može biti osoba koja je pravomoćno osuđena za neko od kaznenih djela spolnog zlostavljanja i iskorištavanja djeteta na temelju zakona kojim se uređuju kaznena djela i kaznenopravne sankcije.«.
+
+#### Članak 2.
+
+U članku 19. ispred riječi: »Osoba« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Osoba ovlaštena za zastupanje ne može biti osoba koja je:
+
+1. pravomoćno osuđena za kazneno djelo financiranja terorizma, pranja novca, zlouporabe povjerenja u gospodarskom poslovanju, prijevare u gospodarskom poslovanju, prouzročenja stečaja, pogodovanja vjerovnika ili povrede obveze vođenja trgovačkih i poslovnih knjiga iz zakona kojim se uređuju kaznena djela i kaznenopravne sankcije ili ranije važeća kaznena djela zlouporabe stečaja i zlouporabe u postupku stečaja i to za vrijeme dok traju pravne posljedice osude kao i kojoj su uvedene međunarodne mjere ograničavanja raspolaganja imovinom, dok su te mjere na snazi ili
+
+2. pravomoćno osuđena za kazneno djelo neke druge države koje po svojim bitnim obilježjima odgovara kaznenim djelima iz točke 1. ovoga stavka.
+
+(3) Osoba ovlaštena za zastupanje udruge koja je u izravnom doticaju s djecom ne može biti osoba koja je pravomoćno osuđena za neko od kaznenih djela spolnog zlostavljanja i iskorištavanja djeteta na temelju zakona kojim se uređuju kaznena djela i kaznenopravne sankcije.«.
+
+#### Članak 3.
+
+U članku 22. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Tijelo državne uprave nadležno za poslove opće uprave upravlja informacijskim sustavom registra udruga i registra stranih udruga te brine za održavanje i nadogradnju toga sustava.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 4.
+
+U članku 23. iza podstavka 7. dodaju se novi podstavci 8. i 9. koji glase:
+
+» – ovjerene izjave osnivača o nepostojanju zapreke iz članka 11. stavaka 7. i 8. ovoga Zakona
+
+– ovjerene izjave osoba ovlaštenih za zastupanje i likvidatora o nepostojanju zapreke iz članka 19. stavaka 2. i 3. ovoga Zakona«.
+
+Dosadašnji podstavci 8., 9. i 10. postaju podstavci 10., 11. i 12.
+
+#### Članak 5.
+
+Iza članka 24. dodaju se članci 24.a i 24.b koji glase:
+
+»Članak 24.a
+
+U svrhu utvrđivanja činjenica iz članka 11. stavaka 7. i 8. te članka 19. stavaka 2. i 3. ovoga Zakona, nadležno upravno tijelo dužno je u postupcima upisa u registar udruga i registar stranih udruga provjeriti u službenoj evidenciji podatke o osnivaču udruge, osobi ovlaštenoj za zastupanje udruge i likvidatoru odnosno o stranoj udruzi, osobi ovlaštenoj za zastupanje strane udruge i osobi ovlaštenoj za zastupanje strane udruge u Republici Hrvatskoj.
+
+#### Članak 24.b
+
+Registar udruga i registar stranih udruga povezuju se s odgovarajućim službenim evidencijama i zbirkama podataka u svrhu provedbe ovoga Zakona.«.
+
+#### Članak 6.
+
+U članku 25. stavku 1. riječ: »dužan« zamjenjuje se riječju: »dužno«.
+
+#### Članak 7.
+
+U članku 27. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Osoba ovlaštena za zastupanje ili druga ovlaštena osoba udruge dužna je nadležnom upravnom tijelu podnijeti zahtjev za upis promjene osobe ovlaštene za zastupanje i likvidatora udruge i u slučaju postojanja zapreke za zastupanje iz članka 19. stavaka 2. i 3. ovoga Zakona najkasnije u roku od 15 dana od dana donošenja odluke o promjeni.«.
+
+Dosadašnji stavak 2., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Zahtjevu se prilažu zapisnik o radu i odlukama tijela udruge koje je po statutu nadležno za donošenje odluke zbog koje se traži upis promjene u registar udruga, novi statut ili njegove izmjene i dopune, preslika osobne iskaznice ili putovnice osoba ovlaštenih za zastupanje odnosno likvidatora te ovjerene izjave osoba ovlaštenih za zastupanje odnosno likvidatora o nepostojanju zapreke iz članka 19. stavaka 2. i 3. ovoga Zakona.«.
+
+Dosadašnji stavci 3., 4., 5., 6., i 7. postaju stavci 4., 5., 6., 7. i 8.
+
+#### Članak 8.
+
+U članku 28. stavak 2. mijenja se i glasi:
+
+»(2) Zahtjevu za upis prilažu se:
+
+– izvadak iz registra u kojem je, u državi po čijem pravu je osnovana strana udruga upisana, ne stariji od šest mjeseci, iz kojega je vidljivo tko je ovlašten zastupati stranu udrugu
+
+– odluka o osnivanju strane udruge ovjerena od nadležnog tijela strane države, ako prema pravu države po kojem je osnovana nije propisan upis u registar
+
+– ovjerena izjava nadležnog tijela strane udruge da za stranu udrugu i osobu ovlaštenu za zastupanje strane udruge ne postoji zapreka u smislu članka 19. stavaka 2. i 3. ovoga Zakona
+
+– ovjerena izjava osobe ovlaštene za zastupanje strane udruge u Republici Hrvatskoj o nepostojanju zapreke iz članka 19. stavaka 2. i 3. ovoga Zakona
+
+– odluka o imenovanju osobe ovlaštene za zastupanje strane udruge u Republici Hrvatskoj
+
+– odluka o ciljevima i djelatnostima koje će strana udruga obavljati u Republici Hrvatskoj
+
+– ovjereni prijevod na hrvatskom jeziku i latiničnom pismu izvoda iz statuta ili drugog akta iz kojeg su vidljivi ciljevi i djelatnosti strane udruge
+
+– ovjereni prijevod na hrvatskom jeziku i latiničnom pismu dokumenata iz podstavaka 1., 2., 3., 4., 5. i 6. ovoga stavka
+
+– preslika isprave o identitetu osobe ovlaštene za zastupanje strane udruge u Republici Hrvatskoj
+
+– drugi dokazi ako su posebnim zakonom propisani posebni uvjeti za upis u registar stranih udruga.«.
+
+U stavku 3. iza riječi: »odredbe« dodaju se riječi: »članka 19. stavaka 2. i 3.,«.
+
+#### Članak 9.
+
+U članku 29. stavku 3. riječi: »kojim udruga prestaje« zamjenjuju se riječima: »o brisanju udruge iz registra udruga«.
+
+#### Članak 10.
+
+Naslov iznad članka 43. mijenja se i glasi: »Nadzor nad prijavom podataka u registar udruga«.
+
+Članak 43. mijenja se i glasi:
+
+»(1) Nadzor nad prijavom podataka u registar udruga obavljaju ovlašteni službenici nadležnog upravnog tijela.
+
+(2) Nadzor iz stavka 1. ovoga članka posebno se odnosi na to prijavljuju li udruge promjene podataka u registar udruga, sukladno članku 27. ovoga Zakona odnosno postupaju li po promjenama prije nego što su upisane u registar udruga, postoji li zapreka za zastupanje udruge sukladno članku 19. stavcima 2. i 3. ovoga Zakona, rabe li naziv pod kojim su upisane u registar udruga, održavaju li sjednice skupštine i dostavljaju li zapisnike s redovnih sjednica skupštine udruge, vode li popis članova udruge na način propisan ovim Zakonom te jesu li prestale djelovati, sukladno članku 48. stavku 1. točkama 2., 3. i 6. ovoga Zakona.
+
+(3) Odredbe ovoga članka na odgovarajući način primjenjuju se i na strane udruge.«.
+
+#### Članak 11.
+
+Naslov iznad članka 44. mijenja se i glasi: »Postupak provođenja nadzora nad prijavom podataka u registar udruga«.
+
+Članak 44. mijenja se i glasi:
+
+»(1) Ako službenik ovlašten za provedbu nadzora nad prijavom podataka za upis u registar udruga utvrdi da je povrijeđen ovaj Zakon, odredit će rok u kojem je udruga dužna otkloniti utvrđene nedostatke i nepravilnosti.
+
+(2) Ako u određenom roku udruga ne otkloni nedostatke i nepravilnosti utvrđene u nadzoru nad prijavom podataka, službenik ovlašten za provedbu nadzora izdat će udruzi obvezni prekršajni nalog.
+
+(3) Iznimno od stavaka 1. i 2. ovoga članka, službenik ovlašten za provedbu nadzora nad prijavom podataka podnijet će optužni prijedlog ako udruga ne otkloni zapreku iz članka 19. stavaka 2. i 3. ovoga Zakona i ne podnese zahtjev za upis promjene u registar udruga u roku koji ne može biti duži od 30 dana.
+
+(4) Ovlašteni službenik za provedbu nadzora nad prijavom podataka za upis u registar udruga bez odgode će upisati u registar udruga postojanje zapreke iz članka 19. stavaka 2. i 3. ovoga Zakona i podatak o mjeri iz stavka 3. ovoga članka.
+
+(5) O mjeri iz stavaka 1., 2. i 3. ovoga članka ovlašteni službenik dužan je obavijestiti tijelo državne uprave u čijem su djelokrugu ciljevi osnivanja udruge i tijelo državne uprave u čiji djelokrug spadaju gospodarske djelatnosti udruge, sukladno zakonu.
+
+(6) Odredbe ovoga članka na odgovarajući način primjenjuju se i na strane udruge.«.
+
+#### Članak 12.
+
+U članku 50. ispred riječi: »Likvidator« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Na likvidatora se na odgovarajući način primjenjuju odredbe članka 19. stavaka 2. i 3. ovoga Zakona.«.
+
+#### Članak 13.
+
+U članku 51. stavku 1. iza riječi: »većina svih članova upravnog (izvršnog) tijela udruge« dodaju se riječi: »ili osoba ovlaštena za zastupanje udruge«.
+
+#### Članak 14.
+
+U članku 52. stavku 2. iza riječi: »postojati« briše se točka i dodaju se riječi: »i ne smije nastaviti s djelovanjem.«.
+
+#### Članak 15.
+
+Iza članka 52. dodaje se naslov iznad članka i članak 52.a koji glase:
+
+*»Brisanje iz registra stranih udruga*
+
+#### Članak 52.a
+
+Nadležno upravno tijelo brisat će stranu udrugu iz registra stranih udruga na temelju rješenja o prestanku djelovanja iz članka 27. ovoga Zakona ili po službenoj dužnosti ako utvrdi da je strana udruga prestala djelovati u Republici Hrvatskoj.«.
+
+#### Članak 16.
+
+Iza članka 54. dodaje se glava IX.a, naziv glave i članak 54.a s naslovom iznad njega koji glase:
+
+### »IX.a PREKRŠAJNE ODREDBE
+
+*Prekršaji*
+
+#### Članak 54.a
+
+(1) Novčanom kaznom od 300,00 do 1990,00 eura kaznit će se za prekršaj udruga ili strana udruga ako u određenom roku ne otkloni nedostatke i nepravilnosti utvrđene u nadzoru nad prijavom podataka (članak 44. stavci 2. i 6.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom od 150,00 do 663,00 eura i odgovorna osoba udruge ili strane udruge.
+
+(3) Novčanom kaznom od 3000,00 do 5000,00 eura kaznit će se za prekršaj udruga ili strana udruga ako u određenom roku ne otkloni zapreku iz članka 19. stavaka 2. i 3. ovoga Zakona i ne podnese zahtjev za upis promjene u registre (članak 44. stavci 3. i 6.).
+
+(4) Za prekršaj iz stavka 3. ovoga članka kaznit će se novčanom kaznom od 500,00 do 3000,00 eura i odgovorna osoba udruge ili strane udruge.
+
+(5) Novčanom kaznom od 300,00 do 1990,00 eura kaznit će se za prekršaj udruga ako nastavi s djelovanjem nakon brisanja udruge iz registra udruga (članak 52. stavak 2.).
+
+(6) Za prekršaj iz stavka 5. ovoga članka kaznit će se novčanom kaznom od 150,00 do 663,00 eura i odgovorna osoba udruge.
+
+(7) Novčanom kaznom od 300,00 do 1990,00 eura kaznit će se za prekršaj pravna osoba likvidator ako:
+
+1. ne provede likvidacijski postupak u roku od 60 dana od dana primitka rješenja nadležnog upravnog tijela o otvaranju likvidacijskog postupka (članak 49. stavak 4.)
+
+2. ne utvrdi stanje na poslovnom računu udruge, knjigovodstveno stanje dugovanja i potraživanja, ostalu imovinu udruge te ne pribavi iz službene evidencije Ministarstva financija, Porezne uprave potvrdu o nepostojanju duga s osnove javnih davanja te ako utvrdi da udruga ima dugovanja, ne objavi poziv vjerovnicima da prijave svoje tražbine prema udruzi u roku od 30 dana od dana objave poziva odnosno ako za eventualna potraživanja ne pozove dužnike na plaćanje dugova u roku od 30 dana te preostalu imovinu udruge ne raspodijeli u skladu s odredbom članka 53. ovoga Zakona (članak 49. stavak 5.)
+
+3. nakon raspodjele preostale imovine ne podnese nadležnom upravnom tijelu u propisanom roku završni račun i izvješće o provedenom likvidacijskom postupku (članak 49. stavak 6.)
+
+4. u propisanom roku ne obavijesti nadležni sud prema sjedištu udruge radi pokretanja stečajnog postupka ako utvrdi da imovina udruge nije dovoljna za namirenje obveza (članak 49. stavak 7.).
+
+(8) Novčanom kaznom od 150,00 do 663,00 eura kaznit će se za prekršaj fizička osoba likvidator ako:
+
+1. ne provede likvidacijski postupak u roku od 60 dana od dana primitka rješenja nadležnog upravnog tijela o otvaranju likvidacijskog postupka (članak 49. stavak 4.)
+
+2. ne utvrdi stanje na poslovnom računu udruge, knjigovodstveno stanje dugovanja i potraživanja, ostalu imovinu udruge te ne pribavi iz službene evidencije Ministarstva financija, Porezne uprave potvrdu o nepostojanju duga s osnove javnih davanja te ako utvrdi da udruga ima dugovanja, ne objavi poziv vjerovnicima da prijave svoje tražbine prema udruzi u roku od 30 dana od dana objave poziva odnosno ako za eventualna potraživanja ne pozove dužnike na plaćanje dugova u roku od 30 dana te preostalu imovinu udruge ne raspodijeli u skladu s odredbom članka 53. ovoga Zakona (članak 49. stavak 5.)
+
+3. nakon raspodjele preostale imovine ne podnese nadležnom upravnom tijelu u propisanom roku završni račun i izvješće o provedenom likvidacijskom postupku (članak 49. stavak 6.)
+
+4. u propisanom roku ne obavijesti nadležni sud prema sjedištu udruge radi pokretanja stečajnog postupka ako utvrdi da imovina udruge nije dovoljna za namirenje obveza (članak 49. stavak 7.).«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 17.
+
+(1) Za udruge kojima je rješenjem utvrđen prestanak djelovanja prema odredbama Zakona o udrugama (»Narodne novine«, br. 88/01. i 11/02.), a do dana stupanja na snagu ovoga Zakona nisu brisane iz registra udruga, nadležno upravno tijelo će po službenoj dužnosti donijeti rješenje o njihovu brisanju iz registra udruga.
+
+(2) Za udruge koje do dana stupanja na snagu ovoga Zakona nisu uskladile svoje statute sa Zakonom o udrugama (»Narodne novine«, br. 74/14., 70/17. i 98/19.) i nisu podnijele nadležnom upravnom tijelu zahtjev za upis promjena, nadležno upravno tijelo će po službenoj dužnosti donijeti rješenje o prestanku njihova djelovanja i brisanju iz registra udruga.
+
+#### Članak 18.
+
+Ministar nadležan za poslove opće uprave uskladit će Pravilnik o sadržaju i načinu vođenja Registra udruga Republike Hrvatske i Registra stranih udruga u Republici Hrvatskoj (»Narodne novine«, br. 4/15. i 14/20.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 19.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2023.
+
+Klasa: 022-02/22-01/173
+
+Zagreb, 16. prosinca 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2012-05-28
-last_amended: 2016-05-11
+last_amended: 2024-11-27
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "59/12, 44/16"
+narodne_novine: "59/12, 44/16, 118/20, 136/24"
 amendments:
   - "NN 44/2016 (1136) Zakon o izmjenama i dopunama Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata"
+  - "NN 118/2020 (2295) Zakon o izmjenama Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata"
+  - "NN 136/2024 (2245) Zakon o izmjenama i dopuni Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/59/1456"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 59/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/59/1456).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 44/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 44/2016, NN 118/2020, NN 136/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -432,3 +434,201 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 akademik Željko Reiner, v. r.
+
+## Zakon o izmjenama Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata (NN 118/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/118/2295*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O KONAČNOSTI NAMIRE U PLATNIM SUSTAVIMA I SUSTAVIMA ZA NAMIRU FINANCIJSKIH INSTRUMENATA
+
+Proglašavam Zakon o izmjenama Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata, koji je Hrvatski sabor donio na sjednici 16. listopada 2020.
+
+Klasa: 011-01/20-01/93
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 22. listopada 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O KONAČNOSTI NAMIRE U PLATNIM SUSTAVIMA I SUSTAVIMA ZA NAMIRU FINANCIJSKIH INSTRUMENATA**
+
+### Članak 1.
+
+U Zakonu o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata (»Narodne novine«, br. 59/12. i 44/16.) u članku 2. stavak 1. mijenja se i glasi:
+
+»(1) Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+
+– Direktivom 98/26/EZ Europskog parlamenta i Vijeća od 19. svibnja 1998. o konačnosti namire u platnim sustavima i sustavima za namiru vrijednosnih papira (SL L 166, 11. 6. 1998.),
+
+– Direktivom 2009/44/EZ Europskog parlamenta i Vijeća od 6. svibnja 2009. o izmjeni Direktive 98/26/EZ o konačnosti namire u platnim sustavima i sustavima za namiru vrijednosnih papira i Direktive 2002/47/EZ o ugovorima o financijskom kolateralu s obzirom na povezane sustave i kreditna potraživanja (SL L 146, 10. 6. 2009.),
+
+– Direktivom 2010/78/EU Europskog parlamenta i Vijeća od 24. studenoga 2010. o izmjeni direktiva 98/26/EZ, 2002/87/EZ, 2003/6/EZ, 2003/41/EZ, 2003/71/EZ, 2004/39/EZ, 2004/109/EZ, 2005/60/EZ, 2006/48/EZ, 2006/49/EZ i 2009/65/EZ u pogledu ovlasti Europskog nadzornog tijela (Europskog nadzornog tijela za bankarstvo), Europskog nadzornog tijela (Europskog nadzornog tijela za osiguranje i strukovno mirovinsko osiguranje) i Europskog nadzornog tijela (Europskog nadzornog tijela za vrijednosne papire i tržišta kapitala) (Tekst značajan za EGP) (SL L 331, 15. 12. 2010.) i
+
+– Direktivom (EU) 2019/879 Europskog parlamenta i Vijeća od 20. svibnja 2019. o izmjeni Direktive 2014/59/EU u pogledu kapaciteta pokrivanja gubitaka i dokapitalizacije kreditnih institucija i investicijskih društava te Direktive 98/26/EZ (SL L 150, 7. 6. 2019.).«.
+
+### Članak 2.
+
+U članku 3. točka 3. mijenja se i glasi:
+
+»3) »središnja druga ugovorna strana« jest središnja druga ugovorna strana kako je definirana u članku 2. točki 1. Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (Tekst značajan za EGP) (SL L 201, 27. 7. 2012., u daljnjem tekstu: Uredba (EU) br. 648/2012);«
+
+Točka 6. mijenja se i glasi:
+
+»6) »sudionik« jest institucija, središnja druga ugovorna strana, agent za namiru, klirinška organizacija, upravitelj sustava ili klirinški član središnje druge ugovorne strane koji ima odobrenje na temelju članka 17. Uredbe (EU) br. 648/2012;«.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/103
+
+Zagreb, 16. listopada 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata (NN 136/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/136/2245*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O KONAČNOSTI NAMIRE U PLATNIM SUSTAVIMA I SUSTAVIMA ZA NAMIRU FINANCIJSKIH INSTRUMENATA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata, koji je Hrvatski sabor donio na sjednici 15. studenoga 2024.
+
+Klasa: 011-02/24-02/64
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 22. studenoga 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O KONAČNOSTI NAMIRE U PLATNIM SUSTAVIMA I SUSTAVIMA ZA NAMIRU FINANCIJSKIH INSTRUMENATA**
+
+#### Članak 1.
+
+U Zakonu o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata (»Narodne novine«, br. 59/12., 44/16. i 118/20.) u članku 1. stavak 1. mijenja se i glasi:
+
+»(1) Ovim se Zakonom uređuju:
+
+– konačnost namire u sustavima za namiru naloga za prijenos i posljedice postupaka zbog insolventnosti nad sudionikom na prava i obveze koje proizlaze iz sudjelovanja ili su u vezi sa sudjelovanjem sudionika u platnom sustavu ili sustavu za namiru financijskih instrumenata na koje se primjenjuje hrvatsko pravo,
+
+– pravo mjerodavno za prava i obveze koje proizlaze iz sudjelovanja ili su u vezi sa sudjelovanjem u sustavu na koje se primjenjuje pravo druge države članice, sudionika nad kojim se postupak zbog insolventnosti provodi prema hrvatskom pravu te
+
+– prava primatelja instrumenta osiguranja u slučaju postupka zbog insolventnosti nad davateljem instrumenta osiguranja vezano uz sudjelovanje u platnom sustavu ili sustavu za namiru financijskih instrumenata na koje se primjenjuje hrvatsko pravo ili uz djelovanje Hrvatske narodne banke, središnje banke druge države članice ili Europske središnje banke u svojstvu središnje banke.«.
+
+Stavci 2. i 3. brišu se.
+
+Dosadašnji stavak 4. postaje stavak 2.
+
+#### Članak 2.
+
+U članku 2. stavku 2. podstavku 1. na kraju rečenice veznik: »i« briše se i stavlja zarez.
+
+Iza podstavka 2. briše se točka i stavlja veznik: »i« te se dodaje podstavak 3. koji glasi:
+
+» – Uredbe (EU) 2024/886 Europskog parlamenta i Vijeća od 13. ožujka 2024. o izmjeni uredaba (EU) br. 260/2012 i (EU) 2021/1230 i direktiva 98/26/EZ i (EU) 2015/2366 u pogledu instant kreditnih transfera u eurima (Tekst značajan za EGP) (SL L, 2024/886, 19. 3. 2024.).«.
+
+#### Članak 3.
+
+U članku 3. točke 1. i 2. mijenjaju se i glase:
+
+»1) »sustav« jest formalni sporazum koji udovoljava sljedećim uvjetima:
+
+1. ima najmanje tri sudionika, ne uključujući upravitelja toga sustava, agenta za namiru, središnju drugu ugovornu stranu, klirinšku organizaciju ili posrednog sudionika,
+
+2. ima zajednička pravila i standardizirane postupke za obračun (poravnanje), bilo da se obračun provodi preko središnje druge ugovorne strane bilo bez njezina sudjelovanja, ili za izvršavanje naloga za prijenos između sudionika,
+
+3. pravilima rada sustava utvrđeni su trenutak prihvata i trenutak neopozivosti naloga za prijenos,
+
+4. na sustav se primjenjuje hrvatsko pravo, a barem jedan od sudionika ima sjedište u Republici Hrvatskoj,
+
+5. posluje s financijskim instrumentima odnosno u eurima ili u drugoj valuti ili u više valuta koje se u sustavu preračunavaju jedna u drugu,
+
+6. da je o sustavu donesena odluka nadležnog tijela iz članka 5. ovoga Zakona i
+
+7. da je o sustavu obaviještena ESMA sukladno članku 14. ovoga Zakona;
+
+2) »institucija« jest:
+
+a) sljedeći subjekt koji sudjeluje u sustavu i koji je odgovoran za ispunjenje financijskih obveza koje proizlaze iz naloga za prijenos u tom sustavu:
+
+1. kreditna institucija sa sjedištem u Republici Hrvatskoj te kreditna institucija iz države članice (uključujući institucije država članica iz članka 2. stavka 5. točaka 3. do 24. važeće Direktive 2013/36/EU Europskog parlamenta i Vijeća od 26. lipnja 2013. o pristupanju djelatnosti kreditnih institucija i bonitetnom nadzoru nad kreditnim institucijama i investicijskim društvima, izmjeni Direktive 2002/87/EZ te stavljanju izvan snage direktiva 2006/48/EZ i 2006/49/EZ (Tekst značajan za EGP),
+
+2. investicijsko društvo sa sjedištem u Republici Hrvatskoj te investicijsko društvo sa sjedištem izvan Republike Hrvatske u smislu zakona koji uređuje tržište kapitala,
+
+3. tijelo javne vlasti Republike Hrvatske ili druge države članice te subjekt za čije obveze jamči Republika Hrvatska ili druga država članica,
+
+4. Hrvatska narodna banka te središnja banka druge države članice,
+
+5. svaki subjekt koji ima sjedište izvan Europske unije i čije funkcije odgovaraju funkcijama kreditnih institucija ili investicijskih društava iz podpodtočaka 1. i 2. ove podtočke, ili
+
+b) sljedeći subjekt koji sudjeluje u sustavu čije se poslovanje sastoji od izvršavanja naloga za prijenos kako je definiran u točki 9. podtočki 1. ovoga članka i koji je odgovoran za podmirenje financijskih obveza koje proizlaze iz tih naloga za prijenos unutar tog sustava:
+
+1. institucija za platni promet u smislu zakona koji uređuje platni promet isključujući subjekt na koji je primijenjeno izuzeće iz članka 32. ili 33. važeće Direktive (EU) 2015/2366 Europskog parlamenta i Vijeća od 25. studenoga 2015. o platnim uslugama na unutarnjem tržištu, o izmjeni direktiva 2002/65/EZ, 2009/110/EZ i 2013/36/EU te Uredbe (EU) br. 1093/2010 i o stavljanju izvan snage Direktive 2007/64/EZ (Tekst značajan za EGP),
+
+2. institucija za elektronički novac u smislu zakona koji uređuje elektronički novac isključujući subjekt na koji je primijenjeno izuzeće iz članka 9. važeće Direktive 2009/110/EZ Europskog parlamenta i Vijeća od 16. rujna 2009. o osnivanju, obavljanju djelatnosti i bonitetnom nadzoru poslovanja institucija za elektronički novac te o izmjeni direktiva 2005/60/EZ i 2006/48/EZ i stavljanju izvan snage Direktive 2000/46/EZ (Tekst značajan za EGP);«.
+
+Točke 6. i 7. mijenjaju se i glase:
+
+»6) »sudionik« jest institucija, središnja druga ugovorna strana, agent za namiru, klirinška organizacija, upravitelj sustava ili klirinški član središnje druge ugovorne strane koja ima odobrenje na temelju članka 17. Uredbe (EU) br. 648/2012; u skladu s pravilima rada sustava, jedan sudionik može djelovati kao središnja druga ugovorna strana, agent za namiru ili klirinška organizacija ili može obavljati sve ili neke od tih poslova; institucija iz točke 2. podtočke a) podpodtočaka 1., 2., i 5. i podtočke b) ovoga članka smatra se sudionikom u platnom sustavu u smislu ovoga Zakona i kad u tom platnom sustavu sudjeluje kao posredni sudionik, pri čemu to ne ograničava odgovornost sudionika preko kojega taj posredni sudionik šalje naloge za prijenos u platni sustav;
+
+7) »posredni sudionik« jest institucija, središnja druga ugovorna strana, agent za namiru, klirinška organizacija ili upravitelj sustava koji je u ugovornom odnosu sa sudionikom sustava u kojem se izvršavaju nalozi za prijenos, koji omogućava posrednom sudioniku provođenje naloga za prijenos preko sustava, pod uvjetom da je taj posredni sudionik poznat upravitelju sustava;«.
+
+Točka 10. mijenja se i glasi:
+
+»10) »postupak zbog insolventnosti nad sudionikom« jest prisilna likvidacija kreditne institucije, privremene zabrane uređene zakonom kojim se uređuje prisilna likvidacija kreditnih institucija, stečaj, mjera osiguranja zabrane isplate s računa i zabrane raspolaganja financijskim instrumentima određena prema zakonu kojim se uređuje stečajni postupak te svaka druga skupna mjera predviđena zakonom Republike Hrvatske, druge države članice ili treće države koja je usmjerena na prestanak ili reorganizaciju sudionika, a uključuje privremenu ili trajnu obustavu ili ograničenje plaćanja ili prijenosa financijskih instrumenata;«.
+
+Točka 15. mijenja se i glasi:
+
+»15) »interoperabilni sustav« jest sustav čiji je upravitelj sklopio sporazum s upraviteljem odnosno upraviteljima jednog ili više sustava koji uključuje izvršavanje naloga za prijenos između tih sustava, neovisno o tome pravo koje države članice se na taj interoperabilni sustav primjenjuje; sporazum sklopljen između interoperabilnih sustava ne čini sustav u smislu ovoga Zakona;«.
+
+#### Članak 4.
+
+U članku 6. stavku 3. druga rečenica mijenja se i glasi:
+
+»Na trenutak prihvata u sustav i trenutak neopozivosti koji su uređeni pravilima rada tog sustava ne utječu pravila rada svih drugih međusobno interoperabilnih sustava, osim ako to nije izričito propisano pravilima rada svih međusobno interoperabilnih sustava.«.
+
+#### Članak 5.
+
+Članak 10. mijenja se i glasi:
+
+»U slučaju otvaranja postupka zbog insolventnosti nad sudionikom nad kojim se postupak zbog insolventnosti provodi prema hrvatskom pravu, a koji sudjeluje u sustavu na koji se primjenjuje pravo druge države članice, na prava i obveze koje proizlaze iz sudjelovanja ili su u vezi sa sudjelovanjem tog sudionika u tom sustavu primjenjuje se pravo države mjerodavno za sustav.«.
+
+### ZAVRŠNA ODREDBA
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/102
+
+Zagreb, 15. studenoga 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

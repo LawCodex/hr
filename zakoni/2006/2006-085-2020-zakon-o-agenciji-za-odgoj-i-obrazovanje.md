@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-07-26
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "85/06"
-amendments: []
+last_amended: 2022-12-22
+status: in_force
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "85/06, 151/22"
+amendments:
+  - "NN 151/2022 (2342) Zakon o izmjenama i dopuni Zakona o Agenciji za odgoj i obrazovanje"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2020"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Agenciji za odgoj i obrazovanje
 
 > Izvor: Narodne novine, NN 85/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2020).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 151/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -253,3 +257,99 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o Agenciji za odgoj i obrazovanje (NN 151/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2342*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O AGENCIJI ZA ODGOJ I OBRAZOVANJE
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o Agenciji za odgoj i obrazovanje, koji je Hrvatski sabor donio na sjednici 16. prosinca 2022.
+
+Klasa: 011-02/22-02/174
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 20. prosinca 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O AGENCIJI ZA ODGOJ I OBRAZOVANJE**
+
+### Članak 1.
+
+U Zakonu o Agenciji za odgoj i obrazovanje (»Narodne novine«, br. 85/06.) u članku 4. stavku 3. iza podstavka 12. dodaje se novi podstavak 13. koji glasi:
+
+» – surađuje s drugim ustanovama nadležnima za obrazovanje te znanstvenim, odgojno-obrazovnim i ostalim ustanovama u području obrazovanja,«.
+
+Dosadašnji podstavak 13. postaje podstavak 14.
+
+### Članak 2.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Ustrojstvo Agencije uređuje se statutom Agencije i ovim Zakonom.
+
+(2) Agencija može osnovati podružnice, a njihova se djelatnost uređuje statutom Agencije.«.
+
+### Članak 3.
+
+Članak 9. mijenja se i glasi:
+
+»(1) Agencijom upravlja Upravno vijeće koje ima predsjednika i šest članova.
+
+(2) Jedan član Upravnog vijeća iz reda radnika Agencije imenuje se ili bira u skladu s općim propisima kojima su uređeni radni odnosi.
+
+(3) Predsjednika i pet članova Upravnog vijeća imenuje i razrješava Vlada Republike Hrvatske iz reda istaknutih odgojno-obrazovnih radnika i stručnjaka, na prijedlog ministra, a na temelju javnog poziva koji objavljuje Ministarstvo.
+
+(4) Predsjednik i članovi Upravnog vijeća imenuju se na četiri godine.«.
+
+### Članak 4.
+
+U članku 11. stavak 2. mijenja se i glasi:
+
+»(2) Za ravnatelja Agencije može biti imenovana osoba koja ispunjava sljedeće uvjete:
+
+– završen najmanje diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij
+
+– najmanje deset godina radnog iskustva u obrazovanju ili u znanstvenoj djelatnosti u području odgoja i obrazovanja.«.
+
+### Članak 5.
+
+(1) Vlada Republike Hrvatske na prijedlog ministra imenovat će Upravno vijeće sukladno odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Upravno vijeće imenovano na temelju Zakona o Agenciji za odgoj i obrazovanje (»Narodne novine«, br. 85/06.) nastavlja obavljati dužnost do imenovanja Upravnog vijeća sukladno odredbama ovoga Zakona.
+
+(3) Upravno vijeće Agencije, imenovano sukladno ovome Zakonu, uskladit će statut i druge opće akte Agencije s odredbama ovoga Zakona u roku od 60 dana od dana njegova imenovanja sukladno ovome Zakonu.
+
+(4) Upravno vijeće Agencije, imenovano sukladno ovome Zakonu, raspisat će natječaj za imenovanje ravnatelja Agencije u roku od 30 dana od dana stupanja na snagu statuta usklađenog s odredbama ovoga Zakona.
+
+(5) Ravnatelj Agencije imenovan na temelju Zakona o Agenciji za odgoj i obrazovanje (»Narodne novine«, br. 85/06.) nastavlja obavljati dužnost ravnatelja do imenovanja ravnatelja Agencije sukladno odredbama ovoga Zakona.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/22-01/51
+
+Zagreb, 16. prosinca 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

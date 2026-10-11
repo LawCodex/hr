@@ -6,12 +6,12 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-07-25
-last_amended: 2014-12-22
+last_amended: 2023-12-27
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 126/2012 (2705) https://narodne-novine.nn.hr/eli/sluzbeni/2012/126/2705"
-narodne_novine: "87/08, 86/09, 92/10, 90/11, 5/12, 16/12, 86/12, 126/12, 94/13, 152/14"
+narodne_novine: "87/08, 86/09, 92/10, 90/11, 5/12, 16/12, 86/12, 126/12, 94/13, 152/14, 7/17, 68/18, 98/19, 64/20, 151/22, 156/23"
 amendments:
   - "NN 86/2009 (2125) Zakon o izmjenama i dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
   - "NN 92/2010 (2593) Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
@@ -21,6 +21,12 @@ amendments:
   - "NN 86/2012 (1967) Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
   - "NN 94/2013 (2131) Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
   - "NN 152/2014 (2864) Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
+  - "NN 7/2017 (210) Zakon o izmjeni i dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
+  - "NN 68/2018 (1398) Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
+  - "NN 98/2019 (1956) Zakon o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
+  - "NN 64/2020 (1270) Uredba o dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
+  - "NN 151/2022 (2341) Zakon o dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
+  - "NN 156/2023 (2387) Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/126/2705"
 retrieved: 2026-10-12
 ---
@@ -31,7 +37,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 126/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/126/2705).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 94/2013, NN 152/2014.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 94/2013, NN 152/2014, NN 7/2017, NN 68/2018, NN 98/2019, NN 64/2020, NN 151/2022, NN 156/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3409,3 +3415,1125 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjeni i dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (NN 7/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/7/210*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi, koji je Hrvatski sabor donio na sjednici 20. siječnja 2017. godine.
+
+Klasa: 011-01/17-01/01
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 23. siječnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI**
+
+### Članak 1.
+
+U Zakonu o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10., 90/11., 16/12., 86/12., 94/13. i 152/14.) u članku 99. stavku 11. iza riječi: »uključivanja« dodaju se riječi: »te način i sadržaj osposobljavanja«, a iza riječi: »ispunjavati« stavlja se zarez i dodaju riječi: »kao i postupak radi ostvarivanja prava učenika s teškoćama u razvoju na potporu pomoćnika u nastavi i stručnih komunikacijskih posrednika«.
+
+### Članak 2.
+
+Članak 126.a briše se.
+
+### Članak 3.
+
+Osobe imenovane za ravnatelje školskih ustanova do 31. prosinca 2016., koje se na dan stupanja na snagu ovoga Zakona zateknu na dužnosti ravnatelja, nastavit će obnašati tu dužnost do isteka mandata.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/05
+
+Zagreb, 20. siječnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (NN 68/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/68/1398*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi, koji je Hrvatski sabor donio na sjednici 13. srpnja 2018.
+
+Klasa: 011-01/18-01/104
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. srpnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI**
+
+### Članak 1.
+
+U Zakonu o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 16/12., 86/12., 94/13., 152/14. i 7/17.) u članku 4. stavku 2. iza riječi: »Načela« dodaju se riječi: »odgoja i«.
+
+U točki 1. riječi: »osnovno školovanje« zamjenjuju se riječima: »osnovnoškolski odgoj i obrazovanje«.
+
+Iza točke 8. dodaju se točke 9. i 10. koje glase:
+
+»9. promicanje odgojnih vrijednosti iz stavka 1. točke 3. ovoga članka, a u skladu s pravom roditelja da samostalno odlučuju o odgoju djece,
+
+10. svatko ima pravo na obrazovanje. Djeca imaju pravo na dotok informacija ili sadržaja utemeljenih na suvremenim znanstvenim i obrazovnim standardima važnim za potpun i skladan razvoj njihove osobnosti, a koje se prenose na objektivan, kritički i pluralistički način. Zadaća je javnog školskog sustava da bude neutralan i uravnotežen te da omogući djetetu ostvarivanje tog prava.«.
+
+### Članak 2.
+
+U članku 5. stavku 1. iza riječi: »nacionalnog kurikuluma« dodaju se zarez i riječi: »drugih kurikularnih dokumenata«.
+
+### Članak 3.
+
+U članku 8. stavku 1. iza riječi: »i programom« dodaju se riječi: »ili kurikulumom«.
+
+U stavku 2. briše se točka na kraju rečenice i dodaju se riječi: »nadležan za obrazovanje (u daljnjem tekstu: ministar).«.
+
+### Članak 4.
+
+U članku 9. stavku 2. točki a) podtočki 3. iza riječi: »razrednim odjelima« dodaju se riječi: »i/ili posebni programi za darovite učenike«.
+
+Stavak 10. mijenja se i glasi:
+
+»(10) Školska ustanova uvrštena u mrežu iz stavka 1. ovoga članka može proširiti djelatnost izvođenjem novog programa na temelju odluke koju donosi ministar uz prethodnu suglasnost ministra nadležnog za financije.«.
+
+### Članak 5.
+
+U članku 11. stavak 1. mijenja se i glasi:
+
+»(1) U osnovnoj školi mogu se izvoditi redoviti, alternativni, međunarodni programi, programi na jeziku i pismu nacionalnih manjina, posebni programi odgoja i obrazovanja za učenike s teškoćama i/ili darovite učenike, umjetnički programi te ostali programi koje donosi ministar odlukom ili koji se izvode uz suglasnost Ministarstva. Osnovna škola traje osam godina.«.
+
+### Članak 6.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Osnovnoškolski odgoj i obrazovanje počinje upisom u prvi razred osnovne škole, obvezno je za svu djecu, u pravilu od šeste do petnaeste godine života.
+
+(2) Učenici s višestrukim teškoćama imaju pravo pohađati osnovnoškolski odgoj i obrazovanje do 21. godine života.
+
+(3) Srednje obrazovanje počinje upisom u srednju školu.
+
+(4) Obrazovanje u školama koje ostvaruju umjetničke obrazovne programe izvodi se u skladu s posebnim propisom.
+
+(5) Obrazovanje u školama koje ostvaruju športske obrazovne programe počinje upisom u neki od tih programa čije se trajanje utvrđuje obrazovnim programima koje donosi ministar odlukom.«.
+
+### Članak 7 .
+
+U članku 20. stavku 4. riječi: »nadležan za obrazovanje (u daljnjem tekstu: ministar)« brišu se.
+
+### Članak 8.
+
+U članku 23. stavak 4. mijenja se i glasi:
+
+»(4) Škola iz koje učenik odlazi izdaje prijepis ocjena, a ispisuje učenika u roku od sedam dana od dana primitka obavijesti o upisu učenika u drugu školu.«.
+
+Iza stavka 9. dodaje se stavak 10. koji glasi:
+
+»(10) Iznimno od stavka 9. ovoga članka, škola može upisati učenika i ako je od prekida obrazovanja prošlo više od dvije školske godine, uz suglasnost Ministarstva.«.
+
+### Članak 9.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Odgoj i obrazovanje u školi ostvaruje se na temelju nacionalnog kurikuluma, nastavnih planova i programa i školskog kurikuluma.
+
+(2) Nacionalni kurikulumi donose se za pojedine razine i vrste odgoja i obrazovanja sukladno okvirnom nacionalnom kurikularnom dokumentu koji na općoj razini određuje elemente kurikularnog sustava za sve razine i vrste osnovnoškolskog i srednjoškolskog odgoja i obrazovanja.
+
+(3) Nacionalnim kurikulumima iz stavka 2. ovoga članka određuje se svrha, vrijednosti, ciljevi i načela određenih dijelova sustava odgoja i obrazovanja te odgojno-obrazovna područja, kao i smjernice za poticanje i prilagodbu iskustava učenja te vrednovanje postignuća. U njima se navode načela odgojno-obrazovnog procesa, učenja i poučavanja te vrednovanja i izvješćivanja karakteristična za pojedinu razinu, odnosno vrstu odgoja i obrazovanja.
+
+(4) Nacionalnim kurikulumima iz stavka 2. ovoga članka utvrđuju se nastavni predmeti koji se izvode na pojedinoj vrsti i/ili razini obrazovanja, osim nacionalnim kurikulumom za strukovno obrazovanje i nacionalnim kurikulumom za umjetničko obrazovanje, koji sadrže omjere grupa nastavnih predmeta. Nacionalni kurikulum za umjetničko obrazovanje sadrži i općeobrazovne predmete.
+
+(5) Nacionalne kurikulume iz stavka 2. ovoga članka i okvirni nacionalni kurikularni dokument donosi ministar odlukom.«.
+
+### Članak 10.
+
+Naslov iznad članka 27. mijenja se i glasi: »Kurikulumi, nastavni planovi i programi«.
+
+Članak 27. mijenja se i glasi:
+
+»(1) Kurikulumom nastavnih predmeta određuju se svrha i ciljevi učenja i poučavanja nastavnog predmeta, struktura pojedinog predmeta u cijeloj odgojno-obrazovnoj vertikali, odgojno-obrazovni ishod i/ili sadržaji, pripadajuća razrada i opisi razina usvojenosti ishoda, učenje i poučavanje te vrednovanje u pojedinom nastavnom predmetu, a može se utvrditi i popis potrebnih kvalifikacija učitelja i nastavnika za izvođenje kurikuluma.
+
+(2) Kurikulumi koji se izvode kao međupredmetne i/ili kao interdisciplinarne teme i/ili moduli izvode se u nastavnim predmetima i programima kao dio odgojno-obrazovnog standarda i programa u koje je učenik uključen.
+
+(3) Odgojno-obrazovni standard učenika čine obvezni i izborni predmeti.
+
+(4) Nastavnim planom određuje se oblik izvođenja kurikuluma (obvezno, izborno, fakultativno, međupredmetno i/ili interdisciplinarno), godišnji broj nastavnih sati i njihov raspored po razredima. Nastavni plan može biti zajednički za razinu, odnosno vrstu na pojedinoj razini obrazovanja, a iznimno se može donijeti i uz kurikulum određenoga nastavnog predmeta.
+
+(5) Predmeti koji se izvode izborno obvezni su tijekom cijele školske godine za sve učenike koji se za njih opredijele. Učenik bira izborni predmet ili izborne predmete pri upisu u prvi razred ili najkasnije do 30. lipnja tekuće godine za iduću školsku godinu. Za uključivanje učenika u izbornu nastavu potrebna je pisana suglasnost roditelja.
+
+(6) Učenik može prestati pohađati nastavu izbornog predmeta nakon pisanog zahtjeva roditelja učenika koji se mora dostaviti učiteljskom/nastavničkom vijeću nakon završetka nastavne godine, a najkasnije do 30. lipnja tekuće godine za sljedeću školsku godinu. Učenik srednje škole izborni predmet koji je prestao pohađati mora zamijeniti drugim izbornim predmetom.
+
+(7) Iznimno od stavka 5. ovoga članka, roditelj djeteta osnovne škole u slučaju dugotrajnih zdravstvenih teškoća djeteta ili zbog drugih opravdanih razloga može podnijeti pisani zahtjev za prestanak pohađanja izbornog predmeta i tijekom nastavne godine.
+
+(8) Predmeti koji se izvode fakultativno u srednjoj školi, na temelju kurikuluma koji donosi srednja škola, obuhvaćaju nastavne sadržaje kojima se zadovoljavaju interesi učenika, u skladu s mogućnostima škole. Ako se učenik srednje škole opredijeli za fakultativni predmet, dužan ga je pohađati tijekom cijele nastavne godine.
+
+(9) Kurikulume i nastavne planove iz stavaka 1., 2. i 4. ovoga članka donosi ministar odlukom.
+
+(10) Nastavnim planom i programom utvrđeni su tjedni i godišnji broj nastavnih sati za obvezne i izborne nastavne predmete, međupredmetne i/ili interdisciplinarne sadržaje i/ili module, njihov raspored po razredima, tjedni broj nastavnih sati, godišnji broj sati te ciljevi, zadaće i sadržaji svakog nastavnog predmeta.«.
+
+### Članak 11.
+
+U članku 28. stavak 3. mijenja se i glasi:
+
+»(3) Školski kurikulum određuje nastavni plan izbornih i fakultativnih predmeta, izvannastavne i izvanškolske aktivnosti, izborni dio međupredmetnih i/ili interdisciplinarnih tema i/ili modula i druge odgojno-obrazovne aktivnosti, programe i projekte te njihove kurikulume ako nisu određeni nacionalnim kurikulumom.«.
+
+U stavku 4. dodaje se novi podstavak 1. koji glasi:
+
+» – strategija razvoja škole«.
+
+Dosadašnji podstavci 1. – 8. postaju podstavci 2. – 9.
+
+Iza stavka 4. dodaju se novi stavci 5. i 6. koji glase:
+
+»(5) Školskim kurikulumom mogu se utvrditi i druge odrednice sukladno kurikularnim dokumentima.
+
+(6) Za sudjelovanje učenika u izbornim i fakultativnim predmetima, aktivnostima, modulima, programima i projektima koji nisu obvezni potrebno je informirati roditelje i pribaviti njihovu pisanu suglasnost.«.
+
+U dosadašnjem stavku 5., koji postaje stavak 7., riječi: »do 30. rujna« zamjenjuju se riječima: »do 7. listopada«.
+
+U dosadašnjem stavku 6., koji postaje stavak 8., riječi: »do 30. rujna« zamjenjuju se riječima: »do 7. listopada«.
+
+Dosadašnji stavak 7. postaje stavak 9.
+
+U dosadašnjem stavku 8., koji postaje stavak 10., riječi: »do 5. listopada« zamjenjuju se riječima: »do 15. listopada«.
+
+Dosadašnji stavak 9. postaje stavak 11.
+
+### Članak 12.
+
+U članku 29. stavku 2. podstavku 1. riječ: »rezultate« zamjenjuje se riječju: »ishode«.
+
+Stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Eksperimentalni program može predložiti školska ustanova, Ministarstvo, agencija nadležna za obrazovanje ili druga institucija iz sustava odgoja i obrazovanja.
+
+(4) Kada eksperimentalni program predlaže školska ustanova, podnosi Ministarstvu zahtjev radi odobravanja izvođenja eksperimentalnog programa uz koji obvezno prilaže dokaze o osiguranim uvjetima iz stavka 2. ovoga članka.«.
+
+### Članak 13.
+
+Iza članka 34. dodaju se članak 34.a i naslov iznad njega koji glase:
+
+*»Produženi boravak*
+
+### Članak 34.a
+
+(1) Za učenike osnovne škole može se organizirati produženi boravak.
+
+(2) Produženi boravak organizira osnivač školske ustanove, a može se izvoditi u školskoj ustanovi sukladno propisanim standardima uz odobrenje Ministarstva.
+
+(3) Organizaciju i provedbu produženoga boravka propisuje ministar pravilnikom.«.
+
+### Članak 14.
+
+U članku 37. stavku 2. briše se točka na kraju rečenice i dodaju se riječi: »i drugih kurikularnih dokumenata iz članka 27. ovoga Zakona.«.
+
+### Članak 15.
+
+U članku 51. stavku 1. iza riječi: »nastava« dodaju se riječi: »predmeta koji se izvode obvezno«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Za učenike srednje škole godišnji i tjedni broj nastavnih sati propisuje se nastavnim planom i kurikulumom, pritom ukupan broj tjednih sati ne smije prelaziti 40.«.
+
+### Članak 16.
+
+U članku 52. stavku 2. briše se točka na kraju rečenice i dodaju se riječi: »uz prethodno mišljenje osnivača.«.
+
+### Članak 17.
+
+U članku 73. stavku 2. iza riječi: »nastavni predmet« dodaje se zarez i riječi: »kao i ocjena iz vladanja«.
+
+### Članak 18.
+
+U cijelom članku 75. riječi: »dopunski rad« u određenom padežu zamjenjuju se riječima: »dopunski nastavni rad« u odgovarajućem padežu.
+
+U stavku 2. dodaje se druga rečenica koja glasi:
+
+»Učitelji/nastavnici obavljaju dopunski nastavni rad u okviru 40-satnog radnog tjedna.«.
+
+### Članak 19.
+
+U članku 76. stavku 7. iza riječi: »dva dana« dodaju se riječi: »od završetka nastavne godine«.
+
+### Članak 20.
+
+U članku 79. dodaje se stavak 4. koji glasi:
+
+»(4) Iznimno od stavka 1. ovoga članka, u opravdanim slučajevima učenik srednje škole može upisati isti razred i više od dva puta, uz suglasnost ministra.«.
+
+### Članak 21.
+
+U članku 82. iza stavka 10. dodaje se stavak 11. koji glasi:
+
+»(11) Iznos novčane naknade za polaganje ispita državne mature za pojedine kategorije pristupnika utvrđuje se odlukom Vlade Republike Hrvatske i predstavlja namjenski prihod.«.
+
+### Članak 22.
+
+Članak 84. mijenja se i glasi:
+
+»(1) Pedagoške mjere zbog povreda dužnosti, neispunjavanja obveza i nasilničkog ponašanja u osnovnoj školi su opomena, ukor, strogi ukor i preseljenje u drugu školu.
+
+(2) Pedagoške mjere zbog povreda dužnosti, neispunjavanja obveza i nasilničkog ponašanja u srednjoj školi su opomena, ukor, opomena pred isključenje i isključenje iz srednje škole.
+
+(3) Pedagoške mjere izriču se za tekuću školsku godinu, osim mjere preseljenja u drugu školu koja vrijedi do kraja osnovnoškolskog obrazovanja.
+
+(4) Učenik koji je isključen ima pravo polagati razredni ispit.
+
+(5) Opomena, ukor, strogi ukor i opomena pred isključenje su mjere upozorenja koje se ne izriču u upravnom postupku. Pedagošku mjeru opomene izriče razrednik, ukora razredno vijeće, strogog ukora izriče učiteljsko vijeće, a opomene pred isključenje izriče nastavničko vijeće. Na izrečene mjere učenik ili roditelj može podnijeti prigovor ravnatelju škole u roku od osam dana od dana izricanja.
+
+(6) Ravnatelj rješenjem odlučuje o pedagoškoj mjeri preseljenja u drugu školu na temelju prijedloga učiteljskog vijeća, a o pedagoškoj mjeri isključenja iz škole na temelju prijedloga nastavničkog vijeća. O žalbi protiv rješenja odlučuje Ministarstvo.
+
+(7) Ravnatelj može rješenjem privremeno udaljiti učenika iz odgojno-obrazovnog procesa do donošenja odluke o izricanju pedagoške mjere, ali ne duže od osam dana, o čemu je dužan pisanim putem izvijestiti roditelja i nadležni centar za socijalnu skrb. Protiv rješenja o privremenom udaljenju ne može se izjaviti žalba, već se može pokrenuti upravni spor tužbom kod nadležnog upravnog suda u roku od 30 dana od dana dostave rješenja.
+
+(8) Škole su dužne provoditi pedagoške mjere, uvažavajući učenikovo psihofizičko stanje i njegovu dob, te utvrditi sve okolnosti koje utječu na njegov razvoj.
+
+(9) U slučaju promjene ponašanja učenika izrečena pedagoška mjera iz stavka 5. ovoga članka može se ukinuti.«.
+
+### Članak 23.
+
+U članku 86. stavci 1. i 2. brišu se.
+
+Dosadašnji stavak 3. postaje stavak 1.
+
+### Članak 24.
+
+U članku 95. iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Osnivač školske ustanove koja je prestala s radom dužan je Ministarstvu dostaviti pisanu obavijest o prestanku rada.
+
+(7) Ravnatelj osnovne škole koja ima područnu školu, a koja će privremeno ili u potpunosti prestati s radom, dužan je o tome dostaviti odluku Ministarstvu u roku od 15 dana od dana donošenja odluke.«.
+
+### Članak 25.
+
+U članku 97. stavku 2. iza riječi: »planu i programu« dodaju se riječi: »ili kurikulumu«.
+
+### Članak 26.
+
+Iza članka 99. dodaje se članak 99.a koji glasi:
+
+»Članak 99.a
+
+(1) Ravnatelj školske ustanove može, uz suglasnost školskog odbora, omogućiti radniku školske ustanove obavljanje poslova na projektu Europske unije ili fondovima Europske unije ako su sredstva za plaću osigurana iz sredstava projekta ili fonda, uz pripadajuće doprinose poslodavca, ako je za vrijeme obavljanja poslova radnika na projektu moguće osigurati nesmetani nastavak radnog procesa u školskoj ustanovi.
+
+(2) Iznimno, uz suglasnost školskog odbora, i ravnatelj školske ustanove može kao radnik školske ustanove obavljati poslove na projektu iz stavka 1. ovoga članka u dijelu radnog vremena ako su sredstva za plaću osigurana iz sredstava projekta ili fonda, uz pripadajuće doprinose poslodavca, ako je za vrijeme obavljanja poslova ravnatelja školske ustanove na projektu moguće osigurati nesmetano obavljanje poslovodno i stručno vođenje poslova u školskoj ustanovi.
+
+(3) Za vrijeme obavljanja poslova na projektu iz stavka 1. ovoga članka radniku školske ustanove iz stavka 1. ovoga članka umanjit će se ukupne tjedne obveze u trajanju koje odgovara radnom vremenu na poslovima na projektu, i to tako da se razmjerno umanje svi oblici rada.
+
+(4) Za vrijeme obavljanja poslova na projektu iz stavka 1. ovoga članka ravnatelj iz stavka 2. ovoga članka samostalno će određivati svoje radno vrijeme tako da poslove na projektu iz stavka 1. obavlja unutar svog redovitog radnog vremena.
+
+(5) Radniku školske ustanove iz stavka 1. ovoga članka koji u školskoj ustanovi radi u nepunom radnom vremenu na temelju ugovora o radu sklopljenog za nepuno radno vrijeme, iznimno od odredbe stavka 3. ovoga članka, za vrijeme obavljanja poslova na projektu iz stavka 1. ovoga članka na njegov se zahtjev ukupne tjedne obveze mogu uvećati u trajanju koje odgovara radnom vremenu na poslovima na projektu.
+
+(6) Radnik školske ustanove iz stavka 1. ovoga članka ne može kod jednog ili više školskih ustanova, odnosno poslodavaca raditi s ukupnim radnim vremenom dužim od četrdeset sati tjedno.
+
+(7) Radnik školske ustanove iz stavka 3. ovoga članka za obavljanje poslova na projektu iz stavka 1. ovoga članka ostvaruje pravo na uvećanje plaće u iznosu od 30 % u odnosu na plaću koju bi ostvarivao obavljajući poslove svog radnog mjesta, koje uvećanje se obračunava i isplaćuje za radno vrijeme na poslovima na projektu za vrijeme u kojem obavlja poslove na projektu.
+
+(8) Ravnatelj školske ustanove iz stavka 2. ovoga članka za obavljanje poslova na projektu iz stavka 1. ovoga članka ostvaruje pravo na plaću za uvećano trajanje ukupnih tjednih obveza, pri čemu za radno vrijeme na poslovima na projektu za vrijeme u kojem obavlja poslove na projektu ostvaruje pravo na uvećanje plaće u iznosu od 30 % u odnosu na plaću koju bi ostvarivao obavljajući poslove svog radnog mjesta, koje uvećanje se obračunava i isplaćuje za radno vrijeme na poslovima na projektu za vrijeme u kojem obavlja poslove na projektu.
+
+(9) O obavljanju poslova na projektu iz stavka 1. ovoga članka ravnatelj školske ustanove i radnik školske ustanove sklapaju sporazum na određeno vrijeme (sporazum, dodatak ugovora o radu, aneks ugovora o radu, izmjena ugovora o radu i sl.) kojim će na određeno vrijeme, najduže za vrijeme trajanja projekta iz stavka 1. ovoga članka, izmijeniti odredbe ugovora o radu na jedan od načina kako je to uređeno stavcima 3., 5., 6. i 7. ovoga članka.
+
+(10) Protekom vremena trajanja projekta iz stavka 1. ovoga članka sporazum iz stavka 9. ovoga članka prestaje te radnik školske ustanove nastavlja radni odnos na temelju ugovora o radu koji je radnik školske ustanove imao prije sklapanja sporazuma iz stavka 9. ovoga članka.
+
+(11) Za vrijeme obavljanje poslova na projektu iz stavka 1. ovoga članka školska ustanova može zasnovati radni odnos ugovorom na određeno vrijeme s osobom koja će zamjenjivati radnika školske ustanove koji obavlja poslove na projektu na njegovim redovitim poslovima.
+
+(12) Školska ustanova može zasnovati radni odnos ugovorom na određeno vrijeme s osobom koja će kao radnik školske ustanove obavljati samo poslove na projektu iz stavka 1. ovoga članka, pri čemu se njegova plaća može ugovoriti ako su sredstva za plaću osigurana iz sredstava projekta ili fonda, maksimalno do najvećeg propisanog koeficijenta za radno mjesto savjetnika u školskim ustanovama, uvećanog za 30 %.
+
+(13) Ravnatelj školske ustanove iz stavka 2. ovoga članka ostvaruje pravo na uvećanje plaće u iznosu od 30 % koje uvećanje se obračunava i isplaćuje za radno vrijeme na poslovima na projektu za vrijeme u kojem obavlja poslove na projektu, a najviše u ukupnom trajanju od 30 % od tjednog radnog vremena, o čemu odlučuje školski odbor koji sklapa s ravnateljem sporazum na određeno vrijeme o obavljanju poslova na projektu.«.
+
+### Članak 27.
+
+U članku 100. stavku 1. iza riječi: »predmetne nastave« dodaju se zarez i riječi: »učitelji edukatori rehabilitatori«.
+
+U stavku 4. briše se točka na kraju rečenice i dodaju se riječi: »(edukator rehabilitator, logoped i socijalni pedagog).«.
+
+### Članak 28.
+
+U članku 104. stavku 1. riječ: »rješenje« zamjenjuje se riječju: »odluka«.
+
+U stavku 4. iza riječi: »stručnog suradnika« dodaju se riječi: »u školskoj ustanovi«.
+
+### Članak 29.
+
+U članku 105. stavku 6. točka b) mijenja se i glasi:
+
+»b) – studijski program odgovarajuće vrste na razini diplomskog sveučilišnog studija ili integriranog preddiplomskog i diplomskog sveučilišnog studija ili specijalistički diplomski stručni studij odgovarajuće vrste te je stekla potrebno pedagoško-psihološko-didaktičko-metodičko obrazovanje s najmanje 55 ECTS-a (u daljnjem tekstu: pedagoške kompetencije), ako se na natječaj ne javi osoba iz točke a) ovoga stavka
+
+– četverogodišnji dodiplomski stručni studij razredne nastave s pojačanim programom iz odgovarajućeg nastavnog predmeta ili integrirani preddiplomski i diplomski sveučilišni studij primarnog obrazovanja s modulom za izvođenje nastave odgovarajućeg nastavnog predmeta, ako se na natječaj ne javi osoba iz točke a) ovoga stavka.«.
+
+U stavku 15. dodaje se druga rečenica koja glasi:
+
+»Popis kvalifikacija može se utvrditi i kurikulumom nastavnog predmeta.«.
+
+### Članak 30.
+
+Članak 107. mijenja se i glasi:
+
+»(1) Radni odnos u školskoj ustanovi zasniva se ugovorom o radu na temelju natječaja koji se objavljuje na mrežnim stranicama i oglasnim pločama Hrvatskog zavoda za zapošljavanje te mrežnim stranicama i oglasnim pločama školskih ustanova, a rok za primanje prijava kandidata ne može biti kraći od osam dana.
+
+(2) Radni odnos u školskoj ustanovi zasniva se s osobom koja ispunjava uvjete iz članka 105. ovoga Zakona za zasnivanje radnog odnosa, a u natječaju se navode i posebni uvjeti za zasnivanje radnog odnosa u školskoj ustanovi.
+
+(3) Potreba i prestanak potrebe za radnikom prijavljuje se uredu državne uprave, odnosno Gradskom uredu i Hrvatskom zavodu za zapošljavanje. Školska ustanova obvezna je prijaviti uredu državne uprave, odnosno Gradskom uredu prestanak potrebe za radnikom nakon što je određenog radnika utvrdila organizacijskim viškom.
+
+(4) Ured državne uprave, odnosno Gradski ured vodi evidenciju o radnicima za kojima je prestala potreba u punom ili dijelu radnog vremena te im u skladu s njihovom kvalifikacijom predlaže zasnivanje radnog odnosa sa školskim ustanovama koje su prijavile odgovarajuću potrebu.
+
+(5) Radnik koji je upisan u evidenciju iz stavka 4. ovoga članka briše se iz evidencije ako zasnuje ili odbije zasnovati radni odnos u skladu s odredbom stavka 4. ovoga članka najkasnije istekom otkaznog roka.
+
+(6) Školska ustanova može popuniti radno mjesto na način propisan odredbom stavka 1. ovoga članka tek nakon što ju je ured državne uprave, odnosno Gradski ured iz stavka 3. ovoga članka obavijestio da u evidenciji nema odgovarajuće osobe, odnosno nakon što se školska ustanova istom tijelu pisano očitovala o razlozima zbog kojih nije primljena upućena osoba.
+
+(7) Ured državne uprave, odnosno Gradski ured poslove iz stavaka 4. 5. i 6. ovoga članka obavlja u suradnji s tijelom predviđenim kolektivnim ugovorom.
+
+(8) Način i postupak utvrđivanja lista evidencija, način raspoređivanja zaposlenika te kriterije kojima se svim kandidatima za zapošljavanje osiguravaju jednaki i transparentni uvjeti uređuju se pravilnikom koji donosi ministar.
+
+(9) Način i postupak kojim se svim kandidatima za zapošljavanje u školskim ustanovama osigurava jednaka dostupnost javnim službama pod jednakim uvjetima, vrednovanje kandidata prijavljenih na natječaj, odnosno kandidata koje je uputio ured državne uprave, odnosno Gradski ured, kao i odredbe vezane uz sastav posebnog povjerenstva koje sudjeluje u procjeni kandidata uređuju se pravilnikom školske ustanove, na koji suglasnost daje ured državne uprave, odnosno Gradski ured.
+
+(10) Odredbe stavaka 3. do 9. ovoga članka ne primjenjuju se u školskim ustanovama čija se sredstva za plaće radnika ne osiguravaju u državnom proračunu.
+
+(11) Iznimno od odredbe stavka 1. ovoga članka, radni odnos može se zasnovati ugovorom o radu i bez natječaja:
+
+– na određeno vrijeme, kada obavljanje poslova ne trpi odgodu, do zasnivanja radnog odnosa na temelju natječaja ili na drugi propisan način, ali ne dulje od 60 dana,
+
+– s osobom kojoj je ugovor o radu na neodređeno vrijeme otkazan zbog gospodarskih, tehničkih ili organizacijskih razloga i koja se nalazi u evidenciji ureda državne uprave, odnosno Gradskog ureda,
+
+– do punog radnog vremena, s radnikom koji u školskoj ustanovi ima zasnovan radni odnos na neodređeno nepuno radno vrijeme,
+
+– na temelju sporazuma školskih ustanova u kojima su radnici u radnom odnosu na neodređeno vrijeme ako žele zamijeniti mjesto rada zbog udaljenosti mjesta rada od mjesta stanovanja,
+
+– s osobom koja se zapošljava na radnom mjestu vjeroučitelja.
+
+(12) Ako se na natječaj ne javi osoba koja ispunjava uvjete iz članka 105. ovoga Zakona, natječaj će se ponoviti u roku od pet mjeseci, a do zasnivanja radnog odnosa na osnovi ponovljenog natječaja radni se odnos može zasnovati s osobom koja ne ispunjava propisane uvjete.«.
+
+### Članak 31.
+
+U članku 108. stavku 3. dodaje se druga rečenica koja glasi:
+
+»Rok za polaganje stručnog ispita u slučaju privremene nesposobnosti radnika za rad, korištenja rodiljnog, roditeljskog ili posvojiteljskog dopusta produžuje se za onoliko vremena koliko je trajala njegova privremena nesposobnost za rad.«.
+
+### Članak 32.
+
+U članku 109. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Rok za polaganje stručnog ispita u slučaju privremene nesposobnosti radnika za rad, korištenja rodiljnog, roditeljskog ili posvojiteljskog dopusta produžuje se za onoliko vremena koliko je trajala njegova privremena nesposobnost za rad.«.
+
+### Članak 33.
+
+U članku 110. stavku 2. dodaje se druga rečenica koja glasi:
+
+»Rok za stjecanje pedagoških kompetencija i polaganje stručnog ispita u slučaju privremene nesposobnosti radnika za rad, korištenja rodiljnog, roditeljskog ili posvojiteljskog dopusta produžuje se za onoliko vremena koliko je trajala njegova privremena nesposobnost za rad.«.
+
+### Članak 34.
+
+U članku 112. iza stavka 3. dodaju se stavci 4., 5. 6. i 7. koji glase:
+
+»(4) Iznimno od stavka 1. ovoga članka, radnik školske ustanove kojem školska ustanova otkazuje nakon dvije godine neprekidnog rada neće imati pravo na otpremninu sukladno općim propisima o radu, kolektivnom ugovoru ili pravilniku o radu ako po prestanku otkazanog ugovora o radu bez prekida zasnuje radni odnos u skladu s odredbom članka 107. stavka 4. ovoga Zakona.
+
+(5) Prekid kraći od dva mjeseca ne smatra se prekidom iz stavka 4. ovoga članka.
+
+(6) Radniku školske ustanove koji, po prestanku otkazanog ugovora o radu, bez prekida zasnuje radni odnos u skladu s odredbom članka 107. stavka 4. ovoga Zakona te koji zbog toga nema pravo na isplatu otpremnine, trajanje radnog odnosa kod poslodavca kod kojeg zbog razloga iz stavka 4. ovoga članka nije imao pravo na otpremninu, uzet će se u obzir pri utvrđivanju iznosa prava na otpremninu ako prilikom prestanka tog sljedećeg radnog odnosa radnik bude imao pravo na otpremninu.
+
+(7) Radnik školske ustanove kojem je školska ustanova isplatila otpremninu sukladno općim propisima o radu, kolektivnom ugovoru ili pravilniku o radu, a kasnije se utvrdi da prema odredbi stavka 4. ovoga članka nije imao pravo na otpremninu, vratit će školskoj ustanovi otpremninu u iznosu u kojem mu je isplaćena najkasnije do petnaestog dana u idućem mjesecu nakon zasnivanja radnog odnosa u skladu s odredbom članka 107. stavka 4. ovoga Zakona.«.
+
+### Članak 35.
+
+Članak 113. mijenja se i glasi:
+
+»(1) U slučaju sumnje da je radniku školske ustanove psihofizičko zdravlje narušeno u mjeri da bi njegova radna sposobnost mogla biti smanjena, ravnatelj će uputiti školskom odboru obrazloženi prijedlog za donošenje odluke o upućivanju radnika na liječnički pregled kod ovlaštenog izabranog doktora specijalista medicine rada radi utvrđivanja radne sposobnosti.
+
+(2) Ako školski odbor utvrdi da je prijedlog ravnatelja opravdan, donijet će odluku o upućivanju radnika na liječnički pregled kod ovlaštenog izabranog doktora specijalista medicine rada radi ovlaštenog utvrđivanja prosudbe radne sposobnosti.
+
+(3) Radniku koji odbije izvršiti odluku iz stavka 2. ovoga članka, otkazat će se ugovor o radu zbog skrivljenog ponašanja zbog kršenja obveza iz radnog odnosa.
+
+(4) Ako se ovlaštenom prosudbom izabranog doktora specijalista medicine rada utvrdi da radnik nije u mogućnosti uredno izvršavati obveze u odgojno-obrazovnom radu, ravnatelj će istu prosudbu uputiti izabranom doktoru medicine primarne zdravstvene zaštite radnika radi pokretanja postupka za ostvarivanje prava iz mirovinskog osiguranja na temelju smanjenja radne sposobnosti uz preostalu radnu sposobnost ili djelomičnog, odnosno potpunog gubitka radne sposobnosti.«.
+
+### Članak 36.
+
+U članku 114. stavku 1. broj: »15« zamjenjuje se brojem: »60«.
+
+### Članak 37.
+
+U članku 116. stavku 1. riječ: »tri« zamjenjuje se riječju: »dvije«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Razdoblja privremene nesposobnosti radnika za rad, korištenja rodiljnog ili roditeljskog dopusta ili mirovanja radnog odnosa ne uračunavaju se u rokove za stjecanje prava iz stavka 3. ovoga članka.«.
+
+### Članak 38.
+
+U članku 119. stavku 1. podstavku 3. riječ: »samostalno« briše se.
+
+U stavku 3. riječi: »stavka 1.« zamjenjuju se riječima: »stavaka 1. i 2.«.
+
+U stavku 4. riječi: »samostalno u pravilu« brišu se.
+
+### Članak 39.
+
+U članku 126. stavku 1. iza riječi: »ispunjavati« dodaje se riječ: »nužne«.
+
+U točki 1. iza podtočke c) dodaje se podtočka d) koja glasi:
+
+»d) položen stručni ispit za učitelja, nastavnika ili stručnog suradnika, osim u slučaju iz članka 157. stavaka 1. i 2. Zakona.«.
+
+U točki 3) riječi: »staža osiguranja« zamjenjuju se riječima: »radnog iskustva«.
+
+U stavku 2. riječi: »podstavka 1.« zamjenjuju se riječima: »točke 1.«.
+
+U stavku 3. riječi. »podstavka 1.« zamjenjuju se riječima: »točke 1.«.
+
+### Članak 40.
+
+Članak 127. mijenja se i glasi:
+
+»(1) Ravnatelj se imenuje na pet godina, a ista osoba može biti ponovno imenovana za ravnatelja.
+
+(2) Ravnatelja imenuje školski odbor, uz suglasnost ministra.
+
+(3) U postupku imenovanja ravnatelja članovi školskog odbora koje je imenovalo, odnosno izabralo učiteljsko/nastavničko/odgajateljsko vijeće, vijeće roditelja te radničko vijeće/radnici, obvezni su zastupati i iznositi stajališta tijela koje ih je imenovalo, odnosno izabralo u školski odbor.
+
+(4) Ravnatelj se imenuje na temelju natječaja koji raspisuje školski odbor, a objavljuje se u »Narodnim novinama« i na mrežnim stranicama školske ustanove.
+
+(5) Uz prijavu na natječaj kandidat je uz potrebnu dokumentaciju dužan dostaviti program rada za mandatno razdoblje.
+
+(6) Pregledavanje natječajne dokumentacije, utvrđivanje kandidata koji ispunjavaju nužne uvjete i vrednovanje dodatnih kompetencija potrebnih za ravnatelja, odnosno rangiranje po bodovima obavlja školski odbor.
+
+(7) Dodatne kompetencije koje se vrednuju su poznavanje stranog jezika, osnovne digitalne vještine i iskustvo rada na projektima.
+
+(8) Nakon utvrđivanja ukupnog rezultata ostvarenog na vrednovanju školski odbor utvrđuje listu dva najbolje rangirana kandidata i dostavlja je učiteljskom/nastavničkom/odgajateljskom vijeću, vijeću roditelja, radničkom vijeću/radnicima i školskom odboru.
+
+(9) Ako dva ili više kandidata imaju jednak broj bodova na listi iz stavka 8. ovoga članka, učiteljskom/nastavničkom/odgajateljskom vijeću, vijeću roditelja, radničkom vijeću/radnicima i školskom odboru dostavlja se lista u kojoj su navedeni svi kandidati koji ostvaruju jednak broj bodova.
+
+(10) Iznimno od stavka 9. ovoga članka, kada je jedan ili više kandidata koji su ostvarili jednak broj bodova osoba koja ostvaruje prednost pri zapošljavanju prema posebnom propisu, u daljnju proceduru upućuje se lista u kojoj se navode samo osoba/osobe koje ostvaruju prednost pri zapošljavanju prema posebnom propisu.
+
+(11) Kandidati predstavljaju program rada za mandatno razdoblje na sjednicama učiteljskog/ nastavničkog/odgajateljskog vijeća, vijeća roditelja, zbora radnika i školskog odbora.
+
+(12) Na sjednicama učiteljskog/nastavničkog/odgajateljskog vijeća, vijeća roditelja i zbora radnika zauzimaju se stajališta iz stavka 3. ovoga članka tajnim glasovanjem, o čemu se pisani zaključak dostavlja školskom odboru.
+
+(13) Školski odbor imenuje ravnatelja odlukom koja stupa na snagu nakon dobivene suglasnosti ministra.
+
+(14) Ako ministar ne uskrati suglasnost u roku od 15 dana od dana dostave zahtjeva za suglasnošću, smatra se da je suglasnost dana.
+
+(15) Sadržaj i postupak vrednovanja dodatnih kompetencija kandidata, kao i detalje vezane uz način postupanja pri imenovanju ravnatelja pobliže se uređuju statutom školske ustanove.«.
+
+### Članak 41.
+
+U članku 131. stavku 3. riječi: »ne izvrši izbor« zamjenjuju se riječima: »ne imenuje ravnatelj«.
+
+### Članak 42.
+
+U članku 135. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Roditelj učenika ima pravo i obvezu biti upoznat sa svim sadržajima obuhvaćenima nastavnim planom i programom i školskim kurikulumom objavljenim na mrežnim stranicama škole: obveznim i izbornim nastavnim predmetima, međupredmetnim i/ili interdisciplinarnim sadržajima i/ili modulima, izvannastavnim, eksperimentalnim i posebnim programima te dati suglasnost za sudjelovanje učenika u svim navedenim sadržajima osim u nastavnim predmetima koji su dio odgojno-obrazovanog standarda.«.
+
+### Članak 43.
+
+U članku 142. stavku 1. točka 3. mijenja se i glasi:
+
+»3. rashode za sudjelovanje u projektima javno-privatnog partnerstva u skladu s odredbama posebnih propisa kojima se uređuje javno-privatno partnerstvo, a za potrebe obnove oštećenih ili izgradnju novih građevina školskih ustanova, sukladno programima Vlade Republike Hrvatske te raspoloživim sredstvima u državnom proračunu,«.
+
+Iza točke 4. dodaje se nova točka 5. koja glasi:
+
+»5. rashode za izgradnju, dogradnju i rekonstrukciju školskog prostora te opremanje školskih ustanova u slučajevima nedovoljne sigurnosti i ugroze života i zdravlja učenika škole utvrđene na temelju:
+
+– nalaza ovlaštenog sudskog vještaka za graditeljstvo, odnosno inspektora nadležne inspekcije kada je izvjesno da je stanje školskog objekta u stanju koje može dovesti do ugroze sigurnosti.
+
+Ishod vještačenja bit će osnova za ocjenu nužnosti, kao i za prioritetnost realizacije takvih kapitalnih projekata, a sve sukladno osiguranim i raspoloživim sredstvima u državnom proračunu.«.
+
+### Članak 44.
+
+(1) Postupci imenovanja ravnatelja školskih ustanova započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama članka 127. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 16/12., 86/12., 94/13., 152/14. i 7/17.).
+
+(2) Osobe kojima je istekao mandat ravnatelja nakon stupanja ovoga Zakona na snagu, a kontinuirano su obavljale dužnost ravnatelja u tri i više mandata, a nisu ponovno imenovane, po isteku mandata imaju pravo biti prijavljene uredu državne uprave, odnosno Gradskom uredu iz članka 107. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi, koji vodi evidenciju o radnicima za kojima je prestala potreba.
+
+### Članak 45.
+
+(1) Školske ustanove dužne su uskladiti odredbe statuta i drugih općih akata s odredbama ovoga Zakona u roku od šest mjeseci od dana njegova stupanja na snagu.
+
+(2) Pravilnik iz članka 30. ovoga Zakona, kojim se mijenja članak 107. stavak 9. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 16/12., 86/12., 94/13., 152/14. i 7/17.), o načinu i postupku zapošljavanja u školskim ustanovama, školske ustanove dužne su donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(3) Do usklađenja iz stavka 1. ovoga članka i donošenja pravilnika iz stavka 2. ovoga članka primjenjivat će se važeći opći akti škole.
+
+(4) Kurikulumski dokumenti, doneseni prije donošenja nacionalnih kurikuluma iz članka 9. ovoga Zakona, uskladit će se s nacionalnim kurikulumima u roku od jedne godine od dana njihova donošenja.
+
+### Članak 46.
+
+(1) Pravilnik iz članka 13. ovoga Zakona o organizaciji i provedbi produženog boravka ministar će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Odluku iz članka 21. ovoga Zakona kojom se utvrđuje iznos novčane naknade za polaganje ispita državne mature za pojedine kategorije pristupnika Vlada Republike Hrvatske donijet će u roku od četiri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(3) Pravilnik iz članka 30. ovoga Zakona kojim se mijenja članak 107. stavak 8. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 16/12., 86/12., 94/13., 152/14. i 7/17.), o načinu i postupku utvrđivanja lista evidencija, načinu raspoređivanja zaposlenika te kriterijima kojima se svim kandidatima za zapošljavanje osiguravaju jednaki i transparentni uvjeti ministar će donijeti u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+### Članak 47.
+
+(1) Neutrošena sredstva za rashode za zaposlene raspoloživa na računu školske ustanove ostvarena iz projekata Europske unije, koji su provedeni prije stupanja na snagu ovoga Zakona, školska ustanova mora uplatiti u državni proračun kao namjenski prihod Ministarstva.
+
+(2) Ministarstvo će namjenski prihod iz stavka 1. ovoga članka koristiti za unaprjeđenje djelatnosti školske ustanove koja je taj prihod ostvarila.
+
+### Članak 48.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/59
+
+Zagreb, 13. srpnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1956*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI
+
+Proglašavam Zakon o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/164
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI**
+
+### Članak 1.
+
+U Zakonu o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 16/12., 86/12., 94/13., 152/14., 7/17. i 68/18.) članak 17. mijenja se i glasi:
+
+»(1) Poslove u vezi s obavljanjem djelatnosti osnovnog i srednjeg odgoja i obrazovanja u skladu s odredbama ovoga Zakona obavlja upravno tijelo županije, odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na te djelatnosti.
+
+(2) Upis djece u osnovnu školu provodi se prema planu upisa koji donosi upravno tijelo županije nadležno za poslove obrazovanja (u daljnjem tekstu: nadležno upravno tijelo županije), odnosno Gradski ured Grada Zagreba nadležan za poslove obrazovanja (u daljnjem tekstu: Gradski ured), na temelju upisnih područja utvrđenih u skladu s odredbama članka 16. ovoga Zakona.«.
+
+### Članak 2.
+
+U članku 107. stavku 6. riječi: »nakon što ju je ured državne uprave, odnosno Gradski ured iz stavka 3. ovoga članka obavijestio« zamjenjuju se riječima: »nakon što su je nadležno upravno tijelo županije, odnosno Gradski ured iz stavka 3. ovoga članka obavijestili«.
+
+U stavku 9. riječi: »koje je uputio ured državne uprave« zamjenjuju se riječima: »koje je uputilo nadležno upravno tijelo županije«, a riječi: »na koji suglasnost daje ured državne uprave,« zamjenjuju se riječima: »na koji suglasnost daje nadležno upravno tijelo županije«.
+
+### Članak 3.
+
+U članku 121. stavcima 7. i 10. riječ: »ured« zamjenjuje se riječima: »nadležno upravno tijelo županije, odnosno Gradski ured«.
+
+### Članak 4.
+
+U članku 122. riječ: »ured« zamjenjuje se riječima: »nadležno upravno tijelo županije, odnosno Gradski ured«.
+
+### Članak 5.
+
+U cijelom tekstu Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 16/12., 86/12., 94/13., 152/14., 7/17. i 68/18.) riječi: »ured državne uprave« u određenom padežu zamjenjuju se riječima: »nadležno upravno tijelo županije« u odgovarajućem padežu.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/159  
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Uredba o dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (NN 64/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/64/1270*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 2. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 118/19), Vlada Republike Hrvatske je na sjednici održanoj 28. svibnja 2020. donijela
+
+**UREDBU**
+
+**O DOPUNAMA ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI**
+
+### Članak 1.
+
+U Zakonu o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08, 86/09, 92/10, 105/10 – ispravak, 90/11, 16/12, 86/12, 94/13, 152/14, 7/17, 68/18 i 98/19), u članku 74. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Iznimno od stavka 4. ovoga članka, zbog Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, u školskoj godini 2019./2020. učeniku se utvrđuje opći uspjeh nedovoljan (1) ako mu je na kraju nastavne godine zaključena ocjena nedovoljan (1) iz najmanje pet nastavnih predmeta, odnosno ako nije položio popravni ispit u propisanim rokovima.«.
+
+### Članak 2.
+
+U članku 75. iza stavka 6. dodaju se stavci 7., 8. i 9. koji glase:
+
+»(7) Iznimno od stavka 1. ovoga članka, zbog Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, u školskoj godini 2019./2020. za učenika koji na kraju nastavne godine ima ocjenu nedovoljan (1) iz najviše četiri nastavna predmeta, škola je dužna organizirati pomoć u učenju i nadoknađivanju znanja kroz dopunski nastavni rad koji je učenik dužan pohađati.
+
+(8) Iznimno od stavka 4. ovoga članka, zbog Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, u školskoj godini 2019./2020. na popravni ispit koji se održava krajem školske godine, a najkasnije do 25. kolovoza tekuće godine upućuje se učenik od petog do osmog razreda osnovne škole i učenik srednje škole, kojemu nakon dopunskog nastavnog rada nije zaključena prolazna ocjena.
+
+(9) Zbog Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, u školskoj godini 2019./2020. škola je iznimno dužna učenicima, kojima je na popravnom ispitu zaključena ocjena nedovoljan (1), organizirati dodatni popravni ispit najkasnije do kraja školske godine 2019./2020.«.
+
+### Članak 3.
+
+U članku 76. iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Iznimno od stavka 5. ovoga članka, zbog Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, u školskoj godini 2019./2020. u slučaju da je povjerenstvo učeniku utvrdilo ocjenu nedovoljan (1), a učenik ima zaključenu ocjenu nedovoljan iz najviše četiri nastavna predmeta, upućuje ga se na dopunski rad iz članka 75. ovoga Zakona.«.
+
+### Članak 4.
+
+U članku 78. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Iznimno od stavaka 1. i 2. ovoga članka, zbog Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, u školskoj godini 2019./2020., učenik od prvog do četvrtog razreda osnovne škole koji je ocijenjen jednom ili više ocjena nedovoljan (1), može prijeći u viši razred.«.
+
+### Članak 5.
+
+Učenici završnih razreda srednje škole, koji na dan stupanja na snagu ove Uredbe imaju utvrđen opći uspjeh nedovoljan (1), odnosno koji su na kraju nastavne godine imali više od dvije ocjene nedovoljan (1), te nisu uključeni u dopunski nastavni rad, ukoliko imaju ocjenu nedovoljan (1) iz najviše četiri nastavna predmeta, stupanjem na snagu ove Uredbe, stječu pravo na pomoć u učenju i nadoknađivanju znanja kroz dopunski nastavni rad koji su dužni pohađati, kao i na polaganje popravnih ispita.
+
+### Članak 6.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-44/06  
+Urbroj: 50301-27/12-20-1  
+Zagreb, 28. svibnja 2020.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Zakon o dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (NN 151/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2341*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI
+
+Proglašavam Zakon o dopuni Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi, koji je Hrvatski sabor donio na sjednici 16. prosinca 2022.
+
+Klasa: 011-02/22-02/173
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 20. prosinca 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI**
+
+### Članak 1.
+
+U Zakonu o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 5/12., 16/12., 86/12., 126/12. – pročišćeni tekst, 94/13., 152/14., 7/17., 68/18., 98/19. i 64/20.) u članku 143. iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+
+»(4) Vlada Republike Hrvatske može, sukladno raspoloživim sredstvima državnog proračuna, za svaku školsku godinu donijeti odluku o financiranju, odnosno sufinanciranju prehrane za učenike osnovnih škola.
+
+(5) Za svrhu iz stavka 4. ovoga članka Vlada Republike Hrvatske će odlukom utvrditi mjerila i kriterije na temelju kojih će se ostvarivati pravo na financiranje, odnosno sufinanciranje prehrane učenika osnovnih škola.«.
+
+Dosadašnji stavci 4., 5., 6. i 7. postaju stavci 6., 7., 8. i 9.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/22-01/186
+
+Zagreb, 16. prosinca 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (NN 156/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2387*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi, koji je Hrvatski sabor donio na sjednici 15. prosinca 2023.
+
+Klasa: 011-02/23-02/131
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 20. prosinca 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ODGOJU I OBRAZOVANJU U OSNOVNOJ I SREDNJOJ ŠKOLI**
+
+#### Članak 1.
+
+U Zakonu o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 5/12., 16/12., 86/12., 126/12. – pročišćeni tekst, 94/13., 152/14., 7/17., 68/18., 98/19., 64/20. i 151/22.) u članku 9. stavak 3. mijenja se i glasi:
+
+»(3) Na temelju prijedloga osnivača Ministarstvo izrađuje konačan prijedlog mreže iz stavka 1. ovoga članka, a Vlada Republike Hrvatske na prijedlog Ministarstva donosi mrežu za područje Republike Hrvatske.«.
+
+Stavak 4. briše se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+U dosadašnjim stavcima 6. do 8., koji postaju stavci 5. do 7., broj: »5.« zamjenjuje se brojem: »4.«.
+
+Dosadašnji stavci 9. do 11. postaju stavci 8. do 10.
+
+#### Članak 2.
+
+Članak 10. briše se.
+
+#### Članak 3.
+
+U članku 11. stavku 1. iza riječi: »redoviti,« dodaje se riječ: »izborni,«.
+
+#### Članak 4.
+
+U članku 16. stavak 1. mijenja se i glasi:
+
+»(1) Upisno područje za osnovne škole kojima je osnivač jedinica lokalne ili područne (regionalne) samouprave je prostorno područje s kojeg se učenici upisuju u određenu osnovnu školu na temelju prebivališta, odnosno prijavljenog boravišta i određuje ga osnivač škole.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavci 3. do 7. postaju stavci 2. do 6.
+
+#### Članak 5.
+
+U članku 18. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Odluku o upisu učenika u osnovnu školu kojoj ne pripada prema upisnom području, za školske ustanove kojima je osnivač jedinica lokalne i područne (regionalne) samouprave, donosi nadležno upravno tijelo županije, odnosno Gradski ured.«.
+
+#### Članak 6.
+
+U članku 19. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Upisi u prvi razred osnovnog obrazovanja mogu se provoditi elektroničkim putem.«.
+
+Dosadašnji stavci 2. do 5. postaju stavci 3. do 6.
+
+#### Članak 7.
+
+U članku 28. stavku 6. iza riječi: »projektima« dodaje se riječ: »škole«.
+
+#### Članak 8.
+
+U članku 29. iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Školska ustanova može, uz prethodnu suglasnost Ministarstva, s radnikom sklopiti ugovor o radu na određeno vrijeme radi provođenja eksperimentalnog programa, u trajanju toga programa, ali ne duže od šest godina.«.
+
+#### Članak 9.
+
+U članku 30.a iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Učeniku osnovne škole koji nastavlja obrazovanje prema međunarodnom programu u istom ciklusu na srednjoškolskoj razini u školi koja izvodi isti međunarodni program u istom ciklusu, srednja škola dužna je omogućiti nastavak obrazovanja u istom programu.«.
+
+Iza dosadašnjeg stavka 6., koji postaje stavak 7., dodaje se stavak 8. koji glasi:
+
+»(8) Školska ustanova osnovana na temelju međunarodnih sporazuma/ugovora i bilateralnih ugovora/sporazuma između Republike Hrvatske i partnerske zemlje i drugih međunarodnih akata, aktom o osnivanju ili općim aktom ustanove uređuje organizaciju rada škole, upravljanje školskom ustanovom, praćenje i ocjenjivanje učeničkih postignuća te vrstu i razinu obrazovanja za zasnivanje radnog odnosa.«.
+
+#### Članak 10.
+
+Iza članka 34.a dodaje se naslov iznad članka i članak 34.b koji glase:
+
+*»Potpomognuto i obogaćeno učenje*
+
+#### Članak 34.b
+
+(1) Osnovna škola dužna je organizirati potpomognuto i obogaćeno učenje za sve učenike.
+
+(2) Potpomognuto i obogaćeno učenje sastoji se od obveznog i izbornog dijela.
+
+(3) Učenik je obvezan sudjelovati u obveznom dijelu potpomognutog i obogaćenog učenja.
+
+(4) U izborni dio potpomognutog i obogaćenog učenja učenik se uključuje na temelju osobnog odabira ili na prijedlog učitelja.
+
+(5) Potpomognuto i obogaćeno učenje treba učeniku omogućiti ostvarivanje više razine usvojenosti ishoda ili ostvarivanje očekivanja u skladu s njegovim specifičnim potrebama.
+
+(6) Potpomognuto i obogaćeno učenje može se organizirati i za učenje materinskog jezika pripadnika nacionalnih manjina koji su uključeni u Model C.«.
+
+#### Članak 11.
+
+U članku 42. stavku 1. iza riječi: »ustanovi« dodaju se riječi: »na prijedlog liječnika školske medicine«.
+
+U stavku 2. iza riječi: »komunikacije« dodaju se riječi: »uz odobrenje Ministarstva«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Odluku o oslobađanju pohađanja redovite nastave u školskoj ustanovi za učenika iz stavka 1. ovoga članka donosi učiteljsko/nastavničko vijeće na prijedlog nadležnog liječnika školske medicine.«.
+
+#### Članak 12.
+
+U članku 48. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Škola koja zbog proglašenja katastrofe, elementarne nepogode ili stanja neposredne ugroženosti nije održala nastavu za dio učenika ili za sve učenike, dužna je organizirati nadoknadu neodržane nastave do ispunjenja uvjeta iz stavka 3. ovoga članka.«.
+
+Iza dosadašnjeg stavka 5., koji postaje stavak 6., dodaju se stavci 7. i 8. koji glase:
+
+»(7) U izvanrednim okolnostima, kada nije moguće izvođenje nastave u školi, škola može za sve učenike ili dio učenika određenih razrednih odjela izvoditi nastavu na daljinu.
+
+(8) Nastava na daljinu iz stavka 7. ovoga članka može se izvoditi uz suglasnost osnivača na temelju prethodne suglasnosti ministra.«.
+
+#### Članak 13.
+
+U članku 49. stavak 1. mijenja se i glasi:
+
+»(1) Škola koja ima prostorne, kadrovske i druge uvjete rada dužna je izvoditi odgojno-obrazovni rad u jednoj smjeni.«.
+
+#### Članak 14.
+
+U članku 51. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, učenik koji pohađa nastavu u školi koja radi u jednoj smjeni može biti opterećen većim dnevnim brojem sati.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., broj: »2« zamjenjuje se brojem »3«.
+
+Dosadašnji stavci 4. do 6. postaju stavci 5. do 7.
+
+#### Članak 15.
+
+U članku 77. stavku 2. iza riječi: »pristupio ispitu« stavlja se zarez i dodaju se riječi: »ali ne kasnije od 15. listopada kalendarske godine.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, u slučaju da učenik nije mogao pristupiti popravnom ili predmetnom ispitu, odnosno razrednom ispitu zbog iznimno teške bolesti, hospitalizacije ili drugih iznimno teških okolnosti, škola je dužna učeniku omogućiti polaganje ispita i nakon roka iz stavka 2. ovoga članka, uz suglasnost ministra.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 16.
+
+U članku 84. stavku 6. iza riječi: »Ministarstvo« briše se točka te se dodaju zarez i riječi: »odnosno ministarstvo nadležno za unutarnje poslove kada mjeru isključenja izriče ravnatelj škole koja provodi obrazovanje za zanimanje policajac.«.
+
+Iza stavka 9. dodaje se stavak 10. koji glasi:
+
+»(10) Iznimno od odredbi ovoga članka, osim postupka za izricanje mjere isključenja iz srednje škole, škola koja provodi obrazovanje za zanimanje policajac svojim općim aktima uređuje pedagoške mjere, kriterije i tijela za izricanje pedagoških mjera.«.
+
+#### Članak 17.
+
+U članku 105. stavku 5. riječi: »integrirani preddiplomski i diplomski studij za učitelje ili diplomski sveučilišni studij« zamjenjuju se riječima: »sveučilišni integrirani prijediplomski i diplomski studij za učitelje ili sveučilišni diplomski studij«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Poslove učitelja predmetne nastave u osnovnoj školi može obavljati osoba koja je završila:
+
+a) studij nastavničkoga smjera odgovarajućeg nastavnog predmeta na razini sveučilišnog diplomskog studija ili sveučilišnog integriranog prijediplomskog i diplomskog studija,
+
+b) 1. studij odgovarajuće vrste na razini sveučilišnog diplomskog studija ili sveučilišnog integriranog prijediplomskog i diplomskog studija ili stručni diplomski studij odgovarajuće vrste te je stekla potrebno pedagoško-psihološko-didaktičko-metodičko obrazovanje s najmanje 55 ECTS-a (u daljnjem tekstu: pedagoške kompetencije), ako se na natječaj ne javi osoba iz točke a) ovoga stavka
+
+2. četverogodišnji dodiplomski stručni studij razredne nastave s pojačanim programom iz odgovarajućeg nastavnog predmeta ili sveučilišni integrirani prijediplomski i diplomski studij primarnog obrazovanja s modulom za izvođenje nastave odgovarajućeg nastavnog predmeta, ako se na natječaj ne javi osoba iz točke a) ovoga stavka
+
+c) sveučilišni prijediplomski ili stručni prijediplomski studij na kojem se stječe najmanje 180 ECTS bodova te je stekla pedagoške kompetencije, ako se na natječaj ne javi osoba iz točaka a) i b) ovoga stavka.«.
+
+U stavku 7. riječi: »diplomski sveučilišni studij« zamjenjuju se riječima: »sveučilišni diplomski studij«, a riječi: »diplomski specijalistički stručni studij« zamjenjuju se riječima: »stručni diplomski studij«.
+
+U stavku 8. riječi: »preddiplomski sveučilišni studij ili stručni studij« zamjenjuju se riječima: »sveučilišni prijediplomski studij ili stručni prijediplomski studij«.
+
+U stavku 12. riječi: »diplomski sveučilišni studij« zamjenjuju se riječima: »sveučilišni diplomski studij«.
+
+U stavku 13. riječi: »diplomski sveučilišni studij« zamjenjuju se riječima: »sveučilišni diplomski studij«.
+
+Stavak 16. mijenja se i glasi:
+
+»(16) Poslove tajnika može obavljati osoba koja je završila:
+
+a) sveučilišni integrirani prijediplomski i diplomski studij pravne struke ili stručni diplomski studij javne uprave,
+
+b) stručni prijediplomski studij upravne struke, ako se na natječaj ne javi osoba iz točke a) ovoga stavka.«.
+
+#### Članak 18.
+
+U članku 106. iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+
+»(4) Ako školska ustanova kao poslodavac sazna da je protiv osobe u radnom odnosu u školskoj ustanovi podnesena kaznena prijava za neko od kaznenih djela spolnog zlostavljanja i iskorištavanja djeteta, ravnatelj je istu dužan privremeno udaljiti od obavljanja poslova, uz pravo na naknadu plaće u visini pune mjesečne plaće koju je osoba ostvarila u tri mjeseca prije udaljenja od obavljanja poslova, do zaprimanja dokaza da je protiv osobe pokrenut kazneni postupak ili odbačena kaznena prijava.
+
+(5) Ako školska ustanova kao poslodavac zaprimi dokaz da je protiv osobe u radnom odnosu u školskoj ustanovi pokrenut i vodi se kazneni postupak za neko od kaznenih djela iz stavka 1. i stavka 2. ovoga članka, udaljit će osobu od obavljanja poslova do obustave kaznenog postupka, odnosno najduže do pravomoćnosti sudske presude, uz pravo na naknadu plaće u visini dvije trećine prosječne mjesečne plaće koju je osoba ostvarila u tri mjeseca prije udaljenja od obavljanja poslova.«.
+
+Dosadašnji stavak 4. postaje stavak 6.
+
+Dosadašnji stavak 5. briše se.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+#### Članak 19.
+
+U članku 107. stavku 11. podstavci 3. i 4. mijenjaju se i glase:
+
+» – s radnikom koji u školskoj ustanovi ima zasnovan radni odnos na neodređeno nepuno radno vrijeme, do punog radnog vremena u školskoj ustanovi u kojoj je zaposlen,
+
+– na zahtjev radnika zaposlenog u školskoj ustanovi na neodređeno vrijeme, premještajem u drugu školsku ustanovu, na temelju sporazuma ravnatelja školskih ustanova,«.
+
+Iza podstavka 5. na kraju rečenice briše se točka i stavlja zarez te se dodaje podstavak 6. koji glasi:
+
+» – s osobom koja je tijekom studija bila korisnik državne stipendije Ministarstva za STEM nastavničke studije i koja je, sukladno uvjetima stipendiranja, preuzela obvezu rada u školskoj ustanovi.«.
+
+Iza stavka 11. dodaje se novi stavak 12. koji glasi:
+
+»(12) Ako se na natječaj ne javi osoba koja ispunjava uvjete iz članka 105. ovoga Zakona za rad učitelja i nastavnika u osnovnoj i srednjoj školi, radni odnos može se zasnovati bez natječaja na određeno vrijeme do godinu dana s osobom u mirovini koja ispunjava uvjete natječaja, s mogućnošću produljenja ugovora na određeno vrijeme za dodatnih godinu dana, ali ne dulje od 67. godine života.«.
+
+U dosadašnjem stavku 12., koji postaje stavak 13., iza riječi: »Zakona,« dodaju se riječi: »niti se radni odnos zasnuje s osobom iz stavka 12. ovoga članka,«.
+
+Iza stavka 13., dodaju se stavci 14. i 15. koji glase:
+
+»(14) Popise i kontakte osoba iz stavka 11. podstavka 6. ovoga članka Ministarstvo će dostaviti školi na zahtjev, na temelju kojeg će škola uputiti službeni poziv osobi za zasnivanje radnog odnosa.
+
+(15) Odbijanje ili neprihvaćanje poziva škole iz stavka 14. ovoga članka smatrat će se kršenjem uvjeta stipendiranja.«.
+
+#### Članak 20.
+
+Članak 111. mijenja se i glasi:
+
+»(1) Republika Hrvatska kao punopravna članica Europske unije sudjeluje u upravljanju i radu europskih škola te upućuje odgojno-obrazovne radnike na rad u europske škole.
+
+(2) Odgojno-obrazovni radnik koji je prije upućivanja na rad iz stavka 1. ovoga članka imao zasnovan radni odnos na puno neodređeno vrijeme, ima pravo povratka na rad, na poslove koje je obavljao prije upućivanja, bez provedbe javnog natječaja, sukladno sporazumu između radnika i poslodavca.
+
+(3) Odgojno-obrazovni radnik izabran za rad u hrvatskoj nastavi u inozemstvu ili osoba koja je izabrana za lektora hrvatskog jezika i književnosti na visokoškolskoj ustanovi u inozemstvu, a koja je prije upućivanja imala zasnovan radni odnos u školskoj ustanovi na neodređeno vrijeme, ima pravo povratka na rad, na poslove koje je obavljala prije upućivanja, bez provedbe javnog natječaja, sukladno sporazumu između radnika i poslodavca.
+
+(4) Radnik iz stavaka 1. i 3. ovoga članka ima se pravo vratiti na rad u školsku ustanovu u kojoj je prethodno radio ako o svojoj namjeri povratka obavijesti školsku ustanovu najkasnije u roku od sedam dana od dana prestanka trajanja izbora iz stavaka 1. i 3. ovoga članka.
+
+(5) Ako radnik iskoristi pravo iz stavaka 2. i 3. ovoga članka, ima pravo povratka na poslove na kojima je prethodno radio u roku od sedam dana od dana dostave obavijesti iz stavka 4. ovoga članka.«.
+
+#### Članak 21.
+
+U članku 136. stavku 1. iza riječi: »izostanka učenika« dodaju se riječi: »u pravilu putem e-Dnevnika«.
+
+#### Članak 22.
+
+U članku 138. stavak 1. mijenja se i glasi:
+
+»(1) U školskim se ustanovama vodi pedagoška dokumentacija i evidencija o učenicima, praćenju nastave i drugih oblika odgojno-obrazovnog rada, upisu i ispisu učenika, vrednovanju učenika, pedagoškim mjerama isključivo u elektroničkom obliku.«.
+
+Stavak 9. briše se.
+
+Dosadašnji stavak 10. postaje stavak 9.
+
+#### Članak 23.
+
+Članak 151. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 660 do 1320 eura kaznit će se za prekršaj školska ustanova:
+
+1. ako se ne pridržava odluke o upisu iz članka 22. ovoga Zakona,
+
+2. ako izvodi nastavu suprotno odredbama članka 27. ovoga Zakona ili izvodi nastavu bez suglasnosti odnosno rješenja Ministarstva na program suprotno odredbama članaka 29., 30., 30.a, 31. i 32. ovoga Zakona i/ili izvodi nastavu bez rješenja o početku rada protivno odredbama članka 92. stavka 1. ovoga Zakona,
+
+3. ako nije donijela školski kurikulum i godišnji plan i program rada školske ustanove te ako isti nisu u skladu s odredbama članka 28. ovoga Zakona,
+
+4. ako ravnatelj ne izvršava poslove propisane godišnjim planom i programom rada škole iz članka 28. ovoga Zakona i poslove propisane člankom 125. ovoga Zakona,
+
+5. ako ne provodi mjere sigurnosti te prava i obveze korisnika u skladu s pravilnikom kojim se propisuje izvođenje izleta, ekskurzija i drugih odgojno-obrazovnih aktivnosti izvan škole iz članka 37. ovoga Zakona,
+
+6. ako ne utvrdi broj učenika u razrednom odjelu sukladno odredbama pravilnika kojim se propisuje broj učenika u redovitom i kombiniranom razrednom odjelu i odgojno-obrazovnoj skupini u osnovnoj školi iz članka 54. ovoga Zakona,
+
+7. ako koristi udžbenike koji nisu odobreni sukladno posebnom zakonu (članak 56.),
+
+8. ako u svojim prostorima organizira promidžbu koja nije u skladu s ciljevima i sadržajem obrazovanja protivno odredbi članka 59. ovoga Zakona,
+
+9. ako ne provodi primjerene programe školovanja i primjerene oblike pomoći školovanja sukladno pravilniku kojim se propisuje osnovnoškolski i srednjoškolski odgoj i obrazovanje učenika s teškoćama u razvoju iz članka 65. ovoga Zakona,
+
+10. ako ne poduzme mjere zaštite prava učenika te ne prijavi svako kršenje tih prava nadležnim tijelima u skladu s pravilnikom kojim se propisuje način postupanja odgojno-obrazovnih radnika školskih ustanova u poduzimanju mjera zaštite prava učenika te prijave svakog kršenja tih prava nadležnim tijelima (članak 70.),
+
+11. ako učitelj/nastavnik i ravnatelj ne provode postupke vrednovanja tijekom školske godine sukladno pravilniku kojim se propisuju načini, postupci i elementi vrednovanja učenika u osnovnoj i srednjoj školi iz članka 72. ovoga Zakona,
+
+12. ako ne provodi izricanje pedagoških mjera učenicima osnovnih i srednjih škola sukladno odredbama pravilnika kojim se propisuju kriteriji za izricanje pedagoških mjera iz članka 86. ovoga Zakona,
+
+13. ako ne vodi evidenciju radnog vremena ili je ne vodi u skladu s pravilnikom kojim se propisuje evidencija radnog vremena za radnike školskih ustanova iz članka 99. ovoga Zakona,
+
+14. ako ne utvrdi tjedne obveze nastavnika sukladno pravilniku kojim se propisuje norma rada nastavnika u srednjoškolskoj ustanovi i sukladno pravilniku kojim se propisuju tjedne radne obveze učitelja i stručnih suradnika u osnovnoj školi iz članka 104. ovoga Zakona,
+
+15. ako ne izda odluku o tjednom i godišnjem zaduženju učiteljima, nastavnicima, odgajateljima i stručnim suradnicima u skladu s odredbama članka 104. ovoga Zakona,
+
+16. ako ne provodi postupak zapošljavanja radnika sukladno odredbama članaka 105., 106. i 107. ovoga Zakona,
+
+17. ako postupak imenovanja ravnatelja ne provodi u skladu s člancima 127. i 128. ovoga Zakona,
+
+18. ako ne vodi pedagošku dokumentaciju i evidenciju koja se obvezno vodi u školskim ustanovama sukladno pravilniku kojim se propisuje pedagoška dokumentacija i evidencija te javne isprave u školskim ustanovama iz članka 138. ovoga Zakona,
+
+19. ako ne vodi dokumentaciju i evidenciju propisanu odredbama članaka 139. i 140. ovoga Zakona te ako podaci nisu upisani u evidenciju u roku iz članka 139. stavka 3. ovoga Zakona,
+
+20. ako prihode koje ostvari obavljanjem vlastite djelatnosti, uplatama roditelja, donacijama i iz drugih izvora ne upotrijebi namjenski za razvoj djelatnosti (članak 145.),
+
+21. ako u propisanom roku ne uskladi svoje opće akte s odredbama ovoga Zakona (članak 162.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u školskoj ustanovi novčanom kaznom u iznosu od 260 do 660 eura.«.
+
+#### Članak 24.
+
+U članku 152. riječi: »500,00 do 5.000,00 kuna« zamjenjuju se riječima: »60 do 660 eura«, a iza riječi: »sukladno članku 19. ovog Zakona,« dodaju se riječi: »sprječava ili ne osigurava redovito pohađanje nastave,«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 25.
+
+Mreža školskih ustanova iz članka 1. ovoga Zakona, kojim se mijenja članak 9. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 5/12., 16/12., 86/12., 126/12. – pročišćeni tekst, 94/13., 152/14., 7/17., 68/18., 98/19., 64/20. i 151/22.), ostaje na snazi do donošenja Mreže sukladno odredbama ovoga Zakona.
+
+#### Članak 26.
+
+(1) Školske ustanove dužne su uskladiti svoje opće akte s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+(2) Pravilnik o pedagoškoj dokumentaciji i evidenciji te javnim ispravama u školskim ustanovama (»Narodne novine«, br. 47/17., 41/19. i 76/19.) ministar će uskladiti s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 27.
+
+Postupci zasnivanja radnih odnosa u školskim ustanovama, započeti prije stupanja na snagu ovoga Zakona, dovršit će se prema odredbama članka 107. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. – ispravak, 90/11., 5/12., 16/12., 86/12., 126/12. – pročišćeni tekst, 94/13., 152/14., 7/17., 68/18., 98/19., 64/20. i 151/22.).
+
+#### Članak 28.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članaka 10. i 14. ovoga Zakona koje stupaju na snagu 1. rujna 2027.
+
+Klasa: 022-02/23-01/146
+
+Zagreb, 15. prosinca 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

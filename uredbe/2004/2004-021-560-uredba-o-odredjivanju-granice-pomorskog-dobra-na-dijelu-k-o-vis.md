@@ -40,54 +40,46 @@ Ovom Uredbom određuje se granica pomorskog dobra na dijelu k.o. Vis, ispred ben
 Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim točkama:
 
 <table>
-
 <tr>
 <td colspan="3">[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td colspan="3">Y</td>
 <td colspan="2">X</td>
 </tr>
-
 <tr>
 <td>TOČKA 1</td>
 <td colspan="3">5 596 920.67</td>
 <td colspan="2">4 596 455.93</td>
 <td></td>
 </tr>
-
 <tr>
 <td>TOČKA 2</td>
 <td colspan="3">5 596 916.69</td>
 <td colspan="2">4 596 471.58</td>
 <td></td>
 </tr>
-
 <tr>
 <td>TOČKA 3</td>
 <td colspan="3">5 596 940.71</td>
 <td colspan="2">4 596 478.15</td>
 <td></td>
 </tr>
-
 <tr>
 <td>TOČKA 4</td>
 <td colspan="3">5 596 979.28</td>
 <td colspan="2">4 596 486.09</td>
 <td></td>
 </tr>
-
 <tr>
 <td>TOČKA 5</td>
 <td colspan="3">5 597 007.43</td>
 <td colspan="2">4 596 491.65</td>
 <td></td>
 </tr>
-
 <tr>
 <td>TOČKA 6</td>
 <td colspan="3">5 597 010.56</td>
@@ -95,7 +87,6 @@ Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim
 <td></td>
 </tr>
 [if !supportMisalignedColumns]
-
 <tr>
 <td></td>
 <td></td>
@@ -106,7 +97,6 @@ Granica pomorskog dobra iz članka 1. ove Uredbe prolazi sljedećim koordinatnim
 <td></td>
 </tr>
 [endif]
-
 </table>
 
 a sve kako je nacrtano i označeno u grafičkom prilogu, na kopiji katastarskog plana k.o. Vis, broj lista plana 9, u mjerilu 1:2880, i na snimci stvarnog stanja u mjerilu 1:500.

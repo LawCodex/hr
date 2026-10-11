@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-04-03
-last_amended: 2014-04-16
+last_amended: 2020-05-27
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "39/13, 47/14"
+narodne_novine: "39/13, 47/14, 115/18, 62/20"
 amendments:
   - "NN 47/2014 (880) Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda"
+  - "NN 115/2018 (2261) Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda"
+  - "NN 62/2020 (1235) Zakon o izmjeni i dopunama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/726"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 39/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/726).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 47/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 47/2014, NN 115/2018, NN 62/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -381,3 +383,251 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda (NN 115/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2261*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EU) BR. 528/2012 EUROPSKOGA PARLAMENTA I VIJEĆA U VEZI SA STAVLJANJEM NA RASPOLAGANJE NA TRŽIŠTU I UPORABI BIOCIDNIH PROIZVODA
+
+Proglašavam Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/186
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EU) BR. 528/2012 EUROPSKOGA PARLAMENTA I VIJEĆA U VEZI SA STAVLJANJEM NA RASPOLAGANJE NA TRŽIŠTU I UPORABI BIOCIDNIH PROIZVODA**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda (»Narodne novine«, br. 39/13. i 47/14.) u članku 3. stavku 1. riječi: »ministarstvo nadležno za zdravlje« zamjenjuju se riječima: »ministarstvo nadležno za zdravstvo«.
+
+U stavku 2. riječi: »ministar nadležan za zdravlje« zamjenjuju se riječima: »ministar nadležan za zdravstvo«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Pri provedbi Uredbe (EU) br. 528/2012 i ovoga Zakona Ministarstvo surađuje s Institutom za medicinska istraživanja i medicinu rada, Hrvatskom agencijom za poljoprivredu i hranu i Hrvatskim zavodom za javno zdravstvo.«.
+
+### Članak 2.
+
+U članku 4. točka 9. briše se.
+
+Dosadašnja točka 10. postaje točka 9.
+
+### Članak 3.
+
+Naslov iznad članka 5. mijenja se i glasi: »Inspekcijski i upravni nadzor«.
+
+Članak 5. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor nad provedbom Uredbe (EU) br. 528/2012 i ovoga Zakona obavljaju sanitarni inspektori Državnog inspektorata sukladno propisima kojima je uređen djelokrug i ovlasti Državnog inspektorata te nadzor nad kemikalijama.
+
+(2) Upravni nadzor nad provedbom Uredbe (EU) br. 528/2012 i ovoga Zakona obavlja Ministarstvo.
+
+(3) Ako određeni biocidni proizvod koji je odobren sukladno Uredbi (EU) br. 528/2012 predstavlja rizik za zdravlje ljudi, životinja i okoliša, nadležni sanitarni inspektor Državnog inspektorata ovlašten je privremeno zabraniti stavljanje na raspolaganje na tržištu tog biocidnog proizvoda na području Republike Hrvatske, narediti povlačenje tog proizvoda s tržišta Republike Hrvatske, njegov povrat od potrošača ili ograničiti njegovu dostupnost na tržištu Republike Hrvatske.
+
+(4) Ako nadležni sanitarni inspektor Državnog inspektorata u obavljanju inspekcijskoga nadzora utvrdi da biocidni proizvod ne ispunjava zahtjeve iz Uredbe (EU) br. 528/2012, obvezan je narediti povlačenje biocidnog proizvoda s tržišta Republike Hrvatske ili njegov povrat od potrošača, određujući rok u kojem se nepravilnost mora otkloniti.«.
+
+### Članak 4.
+
+Naslov iznad članka 6. i članak 6. brišu se.
+
+### Članak 5.
+
+U članku 20. stavku 3. riječi: »nadležni inspektor« zamjenjuju se riječima: »sanitarni inspektor Državnog inspektorata«.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim članaka 2. do 5. koji stupaju na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/204  
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda (NN 62/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/62/1235*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O PROVEDBI UREDBE (EU) BR. 528/2012 EUROPSKOGA PARLAMENTA I VIJEĆA U VEZI SA STAVLJANJEM NA RASPOLAGANJE NA TRŽIŠTU I UPORABI BIOCIDNIH PROIZVODA
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda, koji je Hrvatski sabor donio na sjednici 18. svibnja 2020.
+
+Klasa: 011-01/20-01/81  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 22. svibnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O PROVEDBI UREDBE (EU) BR. 528/2012 EUROPSKOGA PARLAMENTA I VIJEĆA U VEZI SA STAVLJANJEM NA RASPOLAGANJE NA TRŽIŠTU I UPORABI BIOCIDNIH PROIZVODA**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda (»Narodne novine«, br. 39/13., 47/14. i 115/18.) iza članka 4. dodaju se naslov iznad članka i članak 4.a koji glase:
+
+*»Prikupljanje podataka o trovanjima i profesionalnim bolestima koje uključuju biocidne proizvode*
+
+### Članak 4.a
+
+Centar za kontrolu otrovanja Instituta za medicinska istraživanja i medicinu rada prikupljene podatke o eventualnim trovanjima šalje u Hrvatski zavod za javno zdravstvo, a Hrvatski zavod za javno zdravstvo te podatke nadopunjuje svojim podacima te zajedno s podacima o profesionalnim bolestima koje uključuju biocidne proizvode dostavlja Ministarstvu za potrebe podnošenja izvješća Europskoj komisiji o provedbi Uredbe (EU) br. 528/2012.«.
+
+### Članak 2.
+
+U članku 5. stavku 3. iza riječi: »Uredbi (EU) br. 528/2012« dodaju se riječi: »ili ovome Zakonu«.
+
+U stavku 4. iza riječi: »Uredbe (EU) br. 528/2012« dodaju se riječi: »ili ovoga Zakona«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Ako nadležni sanitarni inspektor Državnog inspektorata u obavljanju inspekcijskoga nadzora utvrdi da se prilikom stavljanja na raspolaganje na tržištu i uporabe biocidnog proizvoda ne poštuje mjesto prodaje ili druga ograničenja utvrđena odobrenjem iz članka 8.a ovoga Zakona, zabranit će pravnoj ili fizičkoj osobi stavljanje na raspolaganje na tržištu ili uporabu tog biocidnog proizvoda.
+
+(6) Ako nadležni sanitarni inspektor Državnog inspektorata u obavljanju inspekcijskoga nadzora nad uvozom biocidnog proizvoda iz treće države utvrdi da biocidni proizvod nije odobren u skladu s Uredbom (EU) br. 528/2012 ili u skladu s člankom 8.a ovoga Zakona, zabranit će uvoz biocidnog proizvoda te narediti njegovo vraćanje pošiljatelju ili uništenje ako se pošiljka ne može vratiti pošiljatelju.«.
+
+### Članak 3.
+
+Iza članka 7. dodaju se naslov iznad članka i članak 7.a koji glase:
+
+*»Uvjeti za stavljanje na raspolaganje na tržištu i uporabu biocidnih proizvoda u Republici Hrvatskoj*
+
+### Članak 7.a
+
+Biocidni proizvod može se stavljati na raspolaganje na tržištu i rabiti u Republici Hrvatskoj samo ako je:
+
+– odobren sukladno Uredbi (EU) br. 528/2012 ili
+
+– odobren sukladno postupku iz članka 8.a ovoga Zakona, ako sadrži aktivnu tvar iz članka 89. stavka 2. Uredbe (EU) br. 528/2012.«.
+
+### Članak 4.
+
+Iza članka 8. dodaju se naslov iznad članka i članak 8.a koji glase:
+
+*»Odobrenje za stavljanje na raspolaganje na tržištu i uporabu biocidnih proizvoda koji sadrže aktivnu tvar iz članka 89. stavka 2. Uredbe (EU) br. 528/2012 u Republici Hrvatskoj*
+
+### Članak 8.a
+
+(1) Zahtjev za davanje odobrenja za stavljanje na raspolaganje na tržištu i uporabu biocidnog proizvoda iz članka 7.a podstavka 2. ovoga Zakona na području Republike Hrvatske podnosi se Ministarstvu.
+
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se najkasnije 60 dana prije dana odobrenja aktivne tvari ili ako biocidni proizvod sadrži nekoliko aktivnih tvari prije dana odobrenja posljednje aktivne tvari za tu vrstu biocidnog proizvoda.
+
+(3) Uz zahtjev iz stavka 1. ovoga članka mora se priložiti sljedeće:
+
+– potpisani obrazac kreiran ispunjavanjem online obrasca dostupnog na mrežnim stranicama Ministarstva
+
+– prijedlog deklaracije na hrvatskom jeziku
+
+– sigurnosno-tehnički list
+
+– dokaz o ispunjavanju uvjeta iz članka 95. Uredbe (EU) br. 528/2012
+
+– dokaz o uplati troškova sukladno pravilniku iz članka 17. stavka 3. ovoga Zakona.
+
+(4) Podnositelj zahtjeva obvezan je na zahtjev Ministarstva dostaviti i uzorke biocidnog proizvoda, njegov sastav te drugu dokumentaciju potrebnu za utvrđivanje svojstava biocidnog proizvoda.
+
+(5) O zahtjevu iz stavka 1. ovoga članka Ministarstvo odlučuje rješenjem, protiv kojeg nije dopuštena žalba, ali se može pokrenuti upravni spor.
+
+(6) Pri donošenju rješenja uzima se u obzir mišljenje Povjerenstva iz članka 9. ovoga Zakona, koje daje stručno mišljenje u postupku davanja odobrenja za stavljanje na raspolaganje na tržištu i uporabu biocidnog proizvoda.
+
+(7) Na temelju mišljenja Povjerenstva iz članka 9. ovoga Zakona o sigurnom načinu uporabe i mogućim štetnim učincima na zdravlje ljudi, životinja ili za okoliš Ministarstvo može dati odobrenje za stavljanje biocidnog proizvoda na raspolaganje na tržištu i uvrstiti takav proizvod u registar ili zatražiti dopunu dokumentacije.
+
+(8) U slučaju negativnog mišljenja Povjerenstva iz članka 9. ovoga Zakona ili ako se ne dostavi tražena dopuna dokumentacije, Ministarstvo će odbiti zahtjev za stavljanje na raspolaganje na tržištu i upis biocidnog proizvoda u registar.
+
+(9) Odobrenja izdana rješenjem iz stavka 5. ovoga članka prestaju važiti sukladno rokovima određenima u članku 89. Uredbe (EU) br. 528/2012.
+
+(10) U odobrenju iz stavka 5. ovoga članka mogu se odrediti posebni uvjeti za stavljanje na raspolaganje na tržištu i uporabu biocidnog proizvoda, kao primjerice mjesto prodaje biocidnog proizvoda, veličine pakiranja, kategorije korisnika te druge mjere s ciljem smanjena rizika pod kojima se biocidni proizvod mora stavljati na raspolaganje na tržištu i rabiti.
+
+(11) Ako biocidni proizvod ispunjava kriterije sukladno Uredbi (EZ) br. 1272/2008 Europskog parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označivanju i pakiranju tvari i smjesa, o izmjeni i stavljanju izvan snage Direktive 67/548/EEZ i Direktive 1999/45/EZ i o izmjeni Uredbe (EZ) br. 1907/2006 (Tekst značajan za EGP) (SL L 353, 31. 12. 2008.) za razvrstavanje iz članka 19. Uredbe (EU) br. 528/2012, ne odobrava se za stavljanje na raspolaganje na tržištu za uporabu opće javnosti.
+
+(12) Prilikom davanja odobrenja uzimaju se u obzir odredbe posebnih propisa kojima je uređena zaštita na radu, zaštita potrošača, zaštita zdravlja životinja ili zaštita okoliša, a po potrebi se u odobrenju navode uvjeti sukladno tim propisima.
+
+(13) Troškove provođenja postupka davanja odobrenja za stavljanje na raspolaganje na tržištu te uporabu biocidnog proizvoda snosi podnositelj zahtjeva.«.
+
+### Članak 5.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Obavijest o biocidnom proizvodu (deklaracija) koja je izrađena u skladu s Uredbom (EU) br. 528/2012 mora biti na hrvatskom jeziku i latiničnom pismu te sadržavati broj odobrenja iz Registra biocidnih proizvoda Europske unije i/ili klasifikacijsku oznaku odobrenja.
+
+(2) Biocidni proizvodi odobreni u skladu s člankom 8.a ovoga Zakona moraju biti označeni na način propisan člankom 69. Uredbe (EU) br. 528/2012, a na obavijesti o proizvodu (deklaraciji) mora biti navedena klasifikacijska oznaka odobrenja.
+
+(3) Biocidni proizvodi koji se stavljaju na raspolaganje na tržište Republike Hrvatske moraju se koristiti u skladu s informacijama sadržanim na obavijesti o proizvodu (deklaracija) iz stavaka 1. i 2. ovoga članka.«.
+
+### Članak 6.
+
+Iza članka 16. dodaju se naslov iznad članka i članak 16.a koji glase:
+
+*»Popis biocidnih proizvoda*
+
+### Članak 16.a
+
+Popis biocidnih proizvoda iz članka 8.a ovoga Zakona kojima je dano odobrenje za stavljanje na raspolaganje na tržištu i uporabu objavljuje se na mrežnim stranicama Ministarstva.«.
+
+### Članak 7.
+
+Iza članka 19. dodaje se članak 19.a koji glasi:
+
+»Članak 19.a
+
+Pravne i fizičke osobe koje obavljaju djelatnost proizvodnje, uvoza odnosno unosa biocidnih proizvoda na tržište Republike Hrvatske obvezne su voditi očevidnike sukladno posebnim propisima kojima su uređene kemikalije.«.
+
+### Članak 8.
+
+U članku 20. stavku 1. iza točke 15. briše se točka na kraju rečenice te se dodaju točke 16. do 20. koje glase:
+
+»16. koristi biocidni proizvod protivno informacijama na obavijesti (deklaraciji) o proizvodu (članak 10. stavak 3.)
+
+17. stavlja na raspolaganje na tržištu i rabi biocidni proizvod protivno uvjetima navedenima u odobrenju (članak 22. stavak 2. točke (a) do (q) Uredbe (EU) br. 528/2012)
+
+18. stavlja na raspolaganje na tržištu i rabi biocidni proizvod protivno uvjetima navedenima u odobrenju (članak 8.a stavak 11.)
+
+19. stavlja na raspolaganje na tržištu i/ili koristi biocidni proizvod koji ne ispunjava uvjete iz članka 95. stavka 3. Uredbe (EU) br. 528/2012
+
+20. stavlja na raspolaganje na tržištu biocidni proizvod odnosno tretirani proizvod koji ne sadrži obavijest o proizvodu (deklaraciju) na hrvatskome jeziku i latiničnom pismu (članak 10. stavci 1. i 2.).«.
+
+### Članak 9.
+
+Odobrenja za stavljanje na tržište i uporabu biocidnih pripravaka u Republici Hrvatskoj koja su izdana sukladno Zakonu o biocidnim pripravcima (»Narodne novine«, br. 63/07., 35/08., 56/10. i 39/13.) smatraju se važećima, uzimajući u obzir rokove propisane člankom 89. Uredbe (EU) br. 528/2012.
+
+### Članak 10.
+
+Danom stupanja na snagu ovoga Zakona prestaju važiti članak 7. stavak 2., u dijelu koji se odnosi na ovlasti ministra da utvrdi popis postojećih aktivnih tvari dopuštenih u biocidnim pripravcima, te članci 23., 65. i 65.a Zakona o biocidnim pripravcima (»Narodne novine«, br. 63/07., 35/08., 56/10. i 39/13.).
+
+### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/15  
+Zagreb, 18. svibnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

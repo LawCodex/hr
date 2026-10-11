@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2000-12-20
-last_amended: 2013-06-21
+last_amended: 2023-10-04
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "127/00, 76/13"
+narodne_novine: "127/00, 76/13, 115/16, 114/23"
 amendments:
   - "NN 76/2013 (1529) Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu"
+  - "NN 115/2016 (2533) Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu"
+  - "NN 114/2023 (1615) Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2354"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 127/2000 (https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2354).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013, NN 115/2016, NN 114/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -590,3 +592,375 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu (NN 115/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2533*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZNOM SAVJETNIŠTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu, koji je Hrvatski sabor donio na sjednici 2. prosinca 2016.
+
+Klasa: 011-01/16-01/60
+
+Urbroj: 71-06-01/1-16-2
+
+Zagreb, 6. prosinca 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZNOM SAVJETNIŠTVU**
+
+#### Članak 1.
+
+U Zakonu o poreznom savjetništvu (»Narodne novine«, br. 127/00. i 76/13.) u članku 2. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Porezno savjetništvo je djelatnost davanja savjeta o pitanjima iz zakonodavstva vezanog za poreze i druga javna davanja, izrada i ovjera poreznih prijava i drugih akata u porezno-pravnom odnosu, kontinuirano ugovoreni nadzor pravilnosti vođenja poreznih i računovodstvenih evidencija koje se vode radi izrade poreznih prijava i drugih poreznih isprava i porezno praćenje pojedinog poreznog obveznika koje porezna uprava uzima u obzir prilikom sustavne procjene umanjenja rizika prije pokretanja nadzora, stjecanja posebnog statusa tog poreznog obveznika u svrhu promicanja dobrovoljnog ispunjenja poreznih obveza pred poreznim tijelima i drugih poreznih postupaka, zastupanje u svim poreznim i prekršajnim postupcima pred poreznim tijelima, sudjelovanje u poreznim upravnim sporovima, vještačenja po odluci suda i/ili poreznog tijela u poreznim predmetima.
+
+(3) Uz poslove poreznog savjetništva mogu se obavljati i poslovi vođenja poslovnih knjiga, izrada financijskih izvješća, usluge iz područja računovodstva i financija, usluge procjene vrijednosti poduzeća i druge srodne usluge.«.
+
+#### Članak 2.
+
+Naslov iznad članka 5. mijenja se i glasi: »Diploma, odobrenje za rad i osobe ovlaštene za djelatnost poreznog savjetništva«.
+
+Članak 5. mijenja se i glasi:
+
+»(1) Osobi koja ispuni opće i posebne uvjete iz ovoga Zakona Komora izdaje diplomu o položenom ispitu i upisuje ju u Imenik osoba koje su položile ispit za poreznog savjetnika.
+
+(2) Osoba iz stavka 1. ovoga članka može osobno, klasičnom poštom ili elektroničkim putem predati zahtjev za dobivanje odobrenja za rad prije početka obavljanja registrirane djelatnosti, te će dobiti odobrenje elektroničkim putem, u skladu s odredbama ovoga Zakona i odredbama zakona kojim je uređeno pravo na poslovni nastan i slobodu pružanja usluga na teritoriju Republike Hrvatske.
+
+(3) Komora je dužna rješenjem izdati odobrenje za rad u roku od 15 dana od dana predaje zahtjeva, odnosno u istom roku uskratiti odobrenje za rad poreznom savjetniku.
+
+(4) Protiv rješenja iz stavka 3. ovoga članka dopuštena je žalba nadležnom ministarstvu.
+
+(5) Poreznim savjetništvom ovlaštene su baviti se samo fizičke osobe koje imaju odobrenje za rad i djelatnost obavljaju u skladu s odredbama ovoga Zakona.
+
+(6) Porezni savjetnik je ovlašten i dužan u pravnom prometu u poslovnim ispravama istaknuti broj i nadnevak odobrenja za rad. Isto vrijedi i za trgovačka društva, koja ističu broj i nadnevak odobrenja za rad svih svojih poreznih savjetnika.«.
+
+#### Članak 3.
+
+Naslov iznad članka 6. briše se.
+
+U članku 6. stavku 1. iza točke 2. dodaju se točke 3. i 4. koje glase:
+
+»3. društvo s ograničenom odgovornošću za porezno savjetništvo
+
+4. inozemni porezni savjetnici i društva.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Društvo iz stavka 1. točke 3. ovoga članka mora imati u radnom odnosu na puno radno vrijeme najmanje jednog poreznog savjetnika s odobrenjem za rad iz članka 5. stavka 3. ovoga Zakona.«.
+
+#### Članak 4.
+
+Naslov iznad članka 7. briše se.
+
+Članak 7. mijenja se i glasi:
+
+»Iznimno od odredbi članka 6. ovoga Zakona, porezne savjete mogu ograničeno u okviru svoje djelatnosti, ali bez prava na potpisivanje poreznih prijava, kontinuiranog ugovorenog nadzora pravilnosti vođenja poreznih evidencija iz članka 2. stavka 2. ovoga Zakona, sudjelovanja i zastupanja stranke u poreznim i prekršajnim postupcima pred poreznim tijelima i poreznim upravnim sporovima, obavljati samostalni ovlašteni revizori i revizorska društva u okviru svoje ovlasti iz Zakona o reviziji.«.
+
+#### Članak 5.
+
+U članku 8. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Porezni savjetnik mora ispunjavati sljedeće opće uvjete:
+
+1. da ima poslovnu sposobnost
+
+2. da ima prebivalište na teritoriju Republike Hrvatske ili države ugovornice Europskog gospodarskog prostora
+
+3. da govori hrvatskim jezikom i piše latiničnim pismom i drugim jezikom i pismom koji je u službenoj uporabi na području na kojemu treba obavljati djelatnost
+
+4. da nije kažnjen za kaznena djela protiv imovine, protiv sigurnosti platnog prometa i poslovanja, protiv pravosuđa, protiv vjerodostojnosti isprava te protiv službene dužnosti iz zakona kojim su uređena kaznena djela i kaznene sankcije, i to za vrijeme od pet godina po pravomoćnosti presude kojom je osuđen, s time što se u to vrijeme ne računa vrijeme provedeno na izdržavanju kazne te da protiv njega nije izrečena mjera sigurnosti zabrane obavljanja zanimanja koje je u potpunosti ili djelomično obuhvaćeno člankom 2. ovoga Zakona
+
+5. da nije kažnjen za kaznena djela protiv imovine, protiv krivotvorenja, protiv službene dužnosti, te protiv pravosuđa iz zakona kojim su uređena kaznena djela i kaznene sankcije, i to za vrijeme od pet godina po pravomoćnosti presude kojom je osuđen, s time što se u to vrijeme ne računa vrijeme provedeno na izdržavanju kazne te da protiv njega nije izrečena mjera sigurnosti zabrane obavljanja zanimanja koje je u potpunosti ili djelomično obuhvaćeno predmetom poreznog savjetništva.
+
+(3) Iznimno od stavka 2. točke 3. ovoga članka, državljani države ugovornice Europskog gospodarskog prostora koji u Republici Hrvatskoj obavljaju porezno-savjetničku djelatnost moraju poznavati hrvatski jezik najmanje na razini koja je potrebna za nesmetanu i nužnu komunikaciju s primateljem usluga i poreznim tijelom te razumijevanje hrvatskog poreznog zakonodavstva. Provjeru provodi Komora.«.
+
+#### Članak 6.
+
+U članku 9. stavku 1. točka 1. mijenja se i glasi:
+
+»1. a) da je diplomirani ekonomist ili diplomirani pravnik ili magistar ekonomije ili magistar prava s diplomom priznatom u Republici Hrvatskoj i najmanje pet godina radnog iskustva na poreznim poslovima ili
+
+b) da je stručni specijalist s diplomom priznatom u Republici Hrvatskoj, završenog specijalističkog diplomskog stručnog studija koji u svom planu i programu sadrži minimalno 50 posto predmeta istovjetnih/sukladnih sadržaja iz Programa za polaganje ispita za poreznog savjetnika i najmanje sedam godina radnog iskustva na poreznim poslovima, i«.
+
+#### Članak 7.
+
+Članak 9.a mijenja se i glasi:
+
+»(1) Porezni savjetnik druge države koji je u matičnoj državi – državi ugovornici Europskog gospodarskog prostora registrirao poslovni nastan, odnosno stekao pravo obavljanja porezno-savjetničke djelatnosti može, u skladu s uvjetima koje propisuje ovaj Zakon, u Republici Hrvatskoj obavljati:
+
+1. porezno-savjetničke radnje sukladno članku 9.d ovoga Zakona,
+
+2. porezno-savjetničku djelatnost pod nazivom »porezni savjetnik« sukladno članku 9.b ovoga Zakona.
+
+(2) Matična je ona država u kojoj porezni savjetnik ima, prema propisima te države ugovornice Europskog gospodarskog prostora, pravo obavljati porezno-savjetničku djelatnost kao zanimanje.
+
+(3) Porezni savjetnik iz druge države, koja je država ugovornica Europskog gospodarskog prostora, prema ovome Zakonu je porezni savjetnik koji prema propisima te države ima pravo obavljati porezno-savjetničku djelatnost kao zanimanje u toj ili nekoj od država ugovornica Europskog gospodarskog prostora.
+
+(4) Porezni savjetnik sa sjedištem u drugoj državi članici Europske unije ili drugoj državi ugovornici Ugovora o Europskom gospodarskom prostoru može trajno obavljati djelatnost poreznog savjetništva u Republici Hrvatskoj ako obavljanje djelatnosti poreznog savjetništva upiše u odgovarajući registar i nadležnu Komoru u Republici Hrvatskoj, u skladu s ovim Zakonom.
+
+(5) Iznimno, porezni savjetnici iz stavka 4. ovoga članka mogu obavljati djelatnost poreznog savjetništva na privremenoj ili povremenoj osnovi u Republici Hrvatskoj, bez upisa djelatnosti poreznog savjetništva u odgovarajući registar u Republici Hrvatskoj, sukladno odredbama ovoga Zakona i zakona kojim je uređeno pravo na poslovni nastan i slobodu pružanja usluga na teritoriju Republike Hrvatske.
+
+(6) Porezni savjetnici iz stavka 5. ovoga članka dužni su obavijestiti Komoru o započinjanju obavljanja djelatnosti poreznog savjetništva u Republici Hrvatskoj na privremenoj ili povremenoj osnovi elektroničkim putem slanjem obavijesti putem Jedinstvene kontaktne točke ili na drugi način po izboru. Ako se šalje obavijest putem Jedinstvene kontaktne točke, ista se obavijest odmah prosljeđuje Komori koja vrši upis u registar povremenih i privremenih pružatelja usluga.«.
+
+#### Članak 8.
+
+U članku 9.b stavku 3. riječi: »ne smiju biti stariji od šest mjeseci te« brišu se.
+
+#### Članak 9.
+
+U članku 9.d stavci 1., 2. i 3. mijenjaju se i glase:
+
+»(1) Porezni savjetnik pružatelj usluga poreznog savjetništva iz države ugovornice Europskog gospodarskog prostora ima slobodu prekograničnog pružanja usluga u Hrvatskoj, na povremenoj i privremenoj osnovi, bez obveze osnivanja podružnice i stalnog mjesta poslovanja.
+
+(2) Porezni savjetnik koji namjerava obavljati radnje na temelju stavka 1. ovoga članka dužan je o tome elektroničkom poštom obavijestiti Komoru radi provjere osposobljenosti za obavljanje porezno-savjetničke djelatnosti u državi ugovornici Europskog gospodarskog prostora, te elektronički zatražiti prethodni upis u registar povremenih i privremenih pružatelja usluga poreznog savjetništva koji vodi Komora.
+
+(3) Na temelju obavijesti i zahtjeva poreznog savjetnika iz stavka 2. ovoga članka Komora nakon provjere upisat će u registar povremenih i privremenih pružatelja usluga poreznog savjetništva iz države ugovornice Europskog gospodarskog prostora koji vodi Komora.«.
+
+U stavku 4. riječ: »Imenik« zamjenjuje se riječju: »Registar«.
+
+#### Članak 10.
+
+Naslov iznad članka 11. mijenja se i glasi: »Predstavljanje«.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Fizičke i pravne osobe koje nisu navedene u člancima 6., 6.a, te 9.a do 9.f ovoga Zakona ne smiju obavljati djelatnost poreznog savjetništva niti se predstavljati za poreznog savjetnika.
+
+(2) Ako Komora ima saznanja o činjenicama koje opravdavaju sumnju da netko obavlja djelatnost poreznog savjetništva ili se predstavlja za poreznog savjetnika suprotno članku 3. ovoga Zakona, o tim činjenicama će izvijestiti nadležni registar i tijelo koje će na temelju toga pokrenuti propisani postupak zabrane obavljanja djelatnosti i/ili izricanje propisane kazne.«.
+
+#### Članak 11.
+
+U članku 14. stavku 1. riječi: »prema tarifi« brišu se.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Visinu naknade za usluge poreznog savjetništva porezni savjetnici i društva za porezno savjetništvo ugovarat će prema tržišnim uvjetima.«.
+
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Izbor poreznog savjetnika, kod društava koja su obveznici javne nabave, ne smije biti ničim uvjetovan.
+
+(7) U slučaju da je izbor uvjetovan, smatra se nevažećim i potrebno je provesti ponovni izbor.«.
+
+#### Članak 12.
+
+Naslov iznad članka 17. mijenja se i glasi: »Društva za porezno savjetništvo«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Članom javnog trgovačkog društva za porezno savjetništvo može biti samo porezni savjetnik.«.
+
+Stavak 4. briše se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 13.
+
+Iza članka 17. dodaju se članci 17.a i 17.b koji glase:
+
+»Članak 17.a
+
+(1) Jedan ili više poreznih savjetnika upisanih u Imenik Komore mogu osnovati društvo s ograničenom odgovornošću za porezno savjetništvo (u daljnjem tekstu: društvo za porezno savjetništvo). U nazivu tvrtke treba koristiti oznaku »porezno savjetništvo«.
+
+(2) Na porezno savjetnička društva na odgovarajući način primjenjuju se odredbe zakona kojim su uređena trgovačka društva, osim ako ovim Zakonom nije drukčije uređeno.
+
+(3) Kada se osniva porezno savjetničko društvo s ograničenom odgovornošću, najniži temeljni kapital društva određuje se u skladu s odredbama zakona kojim su uređena trgovačka društva te je podijeljen na udjele.
+
+(4) Porezni savjetnici obvezni su imatelji udjela u društvu s ograničenom odgovornošću i imaju najmanje 51% članstva i glasačkih prava u tom porezno-savjetničkom društvu.
+
+(5) Većina članova uprave društva moraju biti porezni savjetnici.
+
+#### Članak 17.b
+
+(1) U društvima za porezno savjetništvo samo porezni savjetnici koji su zaposleni u pojedinom porezno-savjetničkom društvu mogu obavljati poslove zastupanja iz članka 2. stavka 2. ovoga Zakona.
+
+(2) Društva za porezno savjetništvo dužna su izvijestiti Komoru o upisu društva u sudski registar, najkasnije u roku od 15 dana od dana primitka rješenja o upisu.
+
+(3) Društva za porezno savjetništvo nisu obveznici članarine prema odlukama Hrvatske gospodarske komore.«.
+
+#### Članak 14.
+
+U članku 23. stavci 1., 6. i 7. mijenjaju se i glase:
+
+»(1) Porezni savjetnik ili društvo za porezno savjetništvo dužni su se osigurati od odgovornosti za štetu koju bi mogli počiniti stranci obavljanjem djelatnosti poreznog savjetništva. Ugovor o odgovornosti za porezne savjetnike članove trgovačkog društva za porezno savjetništvo i porezne savjetnike koji rade u tom društvu sklapa to društvo.
+
+(6) Porezni savjetnik i društva za porezno savjetništvo dužni su uredno produžavati osiguranje od odgovornosti.
+
+(7) Najniža visina osigurane svote na koju mora biti ugovoreno osiguranje po poreznom savjetniku je 200.000,00 kuna. Odgovornost svakog poreznog savjetnika zaposlenog u trgovačkom društvu za porezno savjetništvo mora biti osigurana na navedenu svotu. Odgovornost društva za porezno savjetništvo osnovanog kao društvo s ograničenom odgovornošću mora biti osigurana na najnižu svotu od 1.000.000,00 kuna po osiguranom slučaju bez ograničenja broja osiguranih slučajeva. Za štetu koju bi društvo za porezno savjetništvo osnovano kao društvo s ograničenom odgovornošću moglo prouzročiti obavljanjem usluga kod banaka, mirovinskih i investicijskih fondova i osiguravajućih društava, minimalna svota pokrića po štetnom događaju iznosi 3.000.000,00 kuna.«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Ako društvo s ograničenom odgovornošću nema sklopljen ugovor o osiguranju na najnižu svotu, članovi društva solidarno odgovaraju za obveze društva do visine najniže svote osiguranja propisane za to društvo.«.
+
+Dosadašnji stavak 8., koji postaje stavak 9., mijenja se i glasi:
+
+»(9) Stranim poreznim savjetnicima, koji imaju osiguranje ili jamstvo profesionalne odgovornosti ugovoreno u matičnoj državi ili drugoj državi ugovornici Europskog gospodarskog prostora, kao dokaz se prihvaćaju potvrde takvog osiguranja ako je ono istovrijedno, izdane od kreditnih institucija i osiguravatelja s poslovnim nastanom u matičnoj zemlji ili drugoj državi ugovornici Europskog gospodarskog prostora.«.
+
+#### Članak 15.
+
+U članku 25. stavak 3. mijenja se i glasi:
+
+»(3) Komora propisuje pravila za vođenje i vodi imenik osoba koje su položile ispit za poreznog savjetnika i registre osoba koje obavljaju djelatnost prema ovom Zakonu. U imenik i registre se upisuju sve promjene, a podaci su javni.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 16.
+
+U roku od godinu dana od stupanja na snagu ovoga Zakona trgovačka društva koja su registrirana za porezno savjetništvo i koja u nazivu tvrtke koriste oznaku »porezno savjetništvo«, bez obzira na pravni oblik, dužna su uskladiti svoje poslovanje i ispuniti uvjete propisane ovim Zakonom.
+
+#### Članak 17.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2017.
+
+Klasa: 022-03/16-01/89
+
+Zagreb, 2. prosinca 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu (NN 114/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1615*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZNOM SAVJETNIŠTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o poreznom savjetništvu, koji je Hrvatski sabor donio na sjednici 28. rujna 2023.
+
+Klasa: 011-02/23-02/77  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 3. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZNOM SAVJETNIŠTVU**
+
+#### Članak 1.
+
+U Zakonu o poreznom savjetništvu (»Narodne novine«, br. 127/00., 76/13., 115/16.) u članku 2. stavku 2. riječi: »sudjelovanje u poreznim upravnim sporovima« zamjenjuju se riječima: »sudjelovanje u porezno-upravnim stvarima pred upravnim sudovima«.
+
+#### Članak 2.
+
+U članku 4. stavku 3. riječi: »sudjelovati u poreznim sporovima pred sudovima« zamjenjuju se riječima: »sudjelovati u pore­zno-upravnim stvarima pred upravnim sudovima«.
+
+#### Članak 3.
+
+U članku 6. stavak 2. briše se.
+
+Iza dosadašnjeg stavka 3., koji postaje stavak 2., dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, porezni savjetnik ako je u mirovini, može biti zaposlen na pola radnog vremena.«.
+
+#### Članak 4.
+
+U članku 8. stavku 2. točka 2. mijenja se i glasi:
+
+»2. da ima prebivalište na teritoriju Republike Hrvatske, države ugovornice Europskoga gospodarskog prostora, države članice Organizacije za ekonomsku suradnju i razvoj (OECD) ili države pristupnice Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija«.
+
+#### Članak 5.
+
+U članku 9. stavku 1. točki 1. podtočki a) riječ: »pet« zamjenjuje se riječju: »tri«.
+
+U podtočki b) riječ: »sedam« zamjenjuje se riječju: »pet«.
+
+#### Članak 6.
+
+U članku 10. stavak 2. mijenja se i glasi:
+
+»(2) Ispit se polaže pred povjerenstvom koje čine najmanje tri člana, a imenuje ga ministar financija na prijedlog Komore.«.
+
+#### Članak 7.
+
+Članak 17.a mijenja se i glasi:
+
+»(1) Jedan ili više poreznih savjetnika ili društava za porezno savjetništvo upisanih u Imenik odnosno registre Komore, uz bilo koju drugu fizičku ili pravnu osobu, može osnovati društvo s ograničenom odgovornošću za porezno savjetništvo (u daljnjem tekstu: društvo za porezno savjetništvo).
+
+(2) U nazivu tvrtke treba koristiti oznaku »porezno savjetništvo«.
+
+(3) Suglasnost na ispunjavanje uvjeta za upis društva u sudski registar iz stavka 1. ovoga članka daje Komora.
+
+(4) Na poreznosavjetnička društva na odgovarajući se način primjenjuju odredbe zakona kojim su uređena trgovačka društva, osim ako ovim Zakonom nije drukčije uređeno.
+
+(5) Kada se osniva poreznosavjetničko društvo s ograničenom odgovornošću, najniži temeljni kapital društva određuje se u skladu s odredbama zakona kojim su uređena trgovačka društva te je podijeljen na udjele.
+
+(6) Porezni savjetnici obvezni su imatelji udjela u društvu s ograničenom odgovornošću i imaju najmanje 51 % glasačkih prava u tom poreznosavjetničkom društvu.
+
+(7) Većina članova uprave društva moraju biti porezni savjetnici.«.
+
+#### Članak 8.
+
+U članku 23. stavku 7. riječi: »200.000,00 kuna« zamjenjuju se riječima: »26.540,00 eura«, riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »132.720,00 eura«, a riječi: »3.000.000,00 kuna« zamjenjuju se riječima: »398.160,00 eura«.
+
+#### Članak 9.
+
+Iza članka 30. dodaju se naziv iznad članka i članak 30.a koji glase:
+
+### »V.a PREKRŠAJNE ODREDBE
+
+#### Članak 30.a
+
+(1) Novčanom kaznom u iznosu od 700,00 do 40.000,00 eura kaznit će se pravna osoba:
+
+1. ako obavlja djelatnost poreznog savjetništva, a nije navedena u člancima 6., 6.a te 9.a do 9.f ovoga Zakona (članak 11.)
+
+2. ako u nazivu tvrtke koristi oznaku »porezno savjetništvo«, a ne ispunjava uvjete propisane ovim Zakonom (članak 17. stavak 1. i članak 17.a stavak 1.).
+
+(2) Novčanom kaznom u iznosu od 400,00 do 4000,00 eura kaznit će se i odgovorna osoba u pravnoj osobi za prekršaje iz stavka 1. ovoga članka.
+
+(3) Novčanom kaznom od 300,00 do 27.000,00 eura za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba obrtnik i fizička osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Novčanom kaznom od 60,00 do 4000,00 eura za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba.
+
+(5) Za ponovljeni prekršaj iz stavka 1. ovoga članka kaznit će se za prekršaj pravna osoba novčanom kaznom u iznosu od 1100,00 do 54.000,00 eura, fizička osoba obrtnik i fizička osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom u iznosu od 400,00 do 40.000,00 eura, fizička osoba novčanom kaznom u iznosu od 150,00 do 5300,00 eura, a odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 700,00 do 6630,00 eura.«.
+
+#### Članak 10.
+
+U članku 32. stavku 1. oznaka stavka: »(1)« briše se.
+
+Stavak 2. briše se.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 11.
+
+Porezni savjetnici i društva za porezno savjetništvo dužni su uskladiti visinu osigurane svote na koju mora biti ugovoreno osiguranje u roku od dvije godine od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 12.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2024.
+
+Klasa: 022-02/23-01/58
+
+Zagreb, 28. rujna 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

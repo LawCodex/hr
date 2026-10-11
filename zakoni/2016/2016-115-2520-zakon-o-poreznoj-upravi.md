@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2016-12-09
+last_amended: 2024-12-24
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "115/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "115/16, 98/19, 152/24"
+amendments:
+  - "NN 98/2019 (1919) Zakon o izmjeni Zakona o poreznoj upravi"
+  - "NN 152/2024 (2507) Zakon o izmjenama i dopunama Zakona o poreznoj upravi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2520"
 retrieved: 2026-10-12
 ---
@@ -19,11 +22,11 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 115/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2520).
 >
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2019, NN 152/2024.
+>
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
 HRVATSKI SABOR
-
-2520
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
@@ -536,3 +539,379 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o poreznoj upravi (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1919*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O O POREZNOJ UPRAVI
+
+Proglašavam Zakon o izmjeni Zakona o poreznoj upravi, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/127
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O POREZNOJ UPRAVI**
+
+### Članak 1.
+
+U Zakonu o Poreznoj upravi (»Narodne novine«, br. 115/16.) u članku 6. stavku 2. riječi: »s položajem pomoćnika ministra financija« brišu se.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/122
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o poreznoj upravi (NN 152/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2507*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZNOJ UPRAVI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porez­noj upravi, koji je Hrvatski sabor donio na sjednici 13. prosinca 2024.
+
+Klasa: 011-02/24-02/92
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 17. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZNOJ UPRAVI**
+
+#### Članak 1.
+
+U Zakonu o Poreznoj upravi (»Narodne novine«, br. 115/16., 98/19. i 155/23.) članak 9. mijenja se i glasi:
+
+»Poslovi Središnjeg ureda su:
+
+1. predlaganje unaprjeđenja poreznog sustava i porezne politike, izrada nacrta prijedloga zakona i podzakonskih propisa radi unaprjeđenja poreznog sustava, provođenje porezne politike i učinkovito ubiranje poreza, doprinosa i drugih javnih davanja
+
+2. informiranje javnosti o aktivnostima i rezultatima rada Porezne uprave
+
+3. odgovaranje na usmene i pisane upite građana i poreznih obveznika koji moraju sadržavati OIB podnositelja upita ili zahtjeva
+
+4. izrada obvezujućih mišljenja te izrada stručnih mišljenja i objašnjenja o primjeni poreznih propisa
+
+5. vođenje i koordinacija postupaka naplate, ovrhe, stečajeva i likvidacije
+
+6. identificiranje, kreiranje i upravljanje rizicima
+
+7. praćenje provedbe propisa i donošenje uputa, mišljenja, metodologija rada i smjernica za ujednačenu, pravilnu, pravodobnu i učinkovitu primjenu poreznih propisa
+
+8. nadziranje i ujednačavanje rada područnih ureda u primjeni poreznih i drugih propisa iz djelokruga rada Porezne uprave
+
+9. provođenje postupka provjere utvrđivanjem činjenica bitnih za oporezivanje koji uključuje i komunikaciju s poreznim obveznikom te neizravnog nadzora koji uključuje utvrđivanje činjenica bitnih za oporezivanje na temelju podataka iz dostupnih izvora
+
+10. suradnja, koordiniranje, razvoj i unaprjeđenje metoda i tehnika u provođenju postupaka provjere, neizravnog nadzora, poreznog nadzora te nadzora prema posebnim propisima i postupaka sprječavanja i otkrivanja prijevara iz nadležnosti Porezne uprave
+
+11. financijske istrage putem prikupljanja, kontrole i analitičke obrade podataka u predmetima s naznakama organiziranog kriminaliteta, koruptivnih kaznenih djela i subvencijskih prijevara na štetu sredstava Europske unije te suradnja i razmjena informacija s tijelima kaznenog progona
+
+12. izrada prijedloga stajališta Republike Hrvatske za Vijeće Europske unije i Europsko vijeće te izrada prijedloga očitovanja u postupcima zbog povrede prava Europske unije
+
+13. osiguravanje međunarodne pravne pomoći, proučavanje poreznih sustava i sustava prikupljanja doprinosa drugih država i suradnja s međunarodnim organizacijama i strukovnim udruženjima
+
+14. administrativna suradnja s državama članicama Europske unije i trećim zemljama u području oporezivanja, naplate i sprječavanja pranja novca
+
+15. pripremanje, sklapanje i provođenje međunarodnih ugovora
+
+16. obavljanje poslova u području međunarodnog oporezivanja putem bilateralne i multilateralne suradnje s tijelima Europske unije, Organizacije za gospodarsku suradnju i razvoj (OECD), Ujedinjenih naroda (UN) i drugih međunarodnih organizacija
+
+17. provođenje natječaja za davanje prava priređivanja igara na sreću te izdavanje odobrenja za priređivanje igara na sreću, zabavnih i nagradnih igara
+
+18. međuinstitucionalna suradnja razmjene podataka o imovini s javnopravnim tijelima i tijelima sudbene vlasti koja vode službene evidencije o vlasništvu imovine osoba radi pravilnog utvrđivanja porezne osnovice i ispunjenja poreznih obveza
+
+19. razmjena podataka o osobama upisanim u evidenciju o osobnim identifikacijskim brojevima s nadležnim javnopravnim tijelima i razmjena podataka iz evidencije o dohocima i primicima putem državne informacijske infrastrukture
+
+20. međuinstitucionalna suradnja razmjene podataka o stanovništvu, srodstvu i kućanstvima upisanim u Središnji registar stanovništva s javnopravnim tijelima putem državne informacijske infrastrukture
+
+21. izdavanje prekršajnih naloga, podnošenje optužnih prijedloga i kaznenih prijava
+
+22. vođenje prekršajnog postupka u prvom stupnju zbog povrede poreznih propisa i propisa o doprinosima
+
+23. razvijanje i unaprjeđenje postupka digitalizacije i elektroničke komunikacije
+
+24. opći, pravni, financijski poslovi, planiranje i upravljanje ljudskim potencijalima te poslovi u vezi s radnopravnim statusom službenika i namještenika
+
+25. obavljanje i usklađivanje poslova strateškog planiranja te planiranje godišnjih aktivnosti Porezne uprave i izvještavanje o njima
+
+26. razvoj, unaprjeđenje i korištenje informacijskog sustava Porezne uprave, sustava za međunarodnu razmjenu informacija i sustava za usluge poreznim obveznicima
+
+27. međuinstitucionalna i međunarodna suradnja planiranja projekata informacijsko-komunikacijske tehnologije
+
+28. primjena mjera i standarda informacijske sigurnosti
+
+29. obavljanje i drugih poslova određenih ovim Zakonom ili drugim propisima.«.
+
+#### Članak 2.
+
+Članak 10. mijenja se i glasi:
+
+»Poslovi područnih ureda su:
+
+1. ujednačavanje i nadzor rada ispostava na poslovima utvrđivanja poreza, doprinosa i drugih javnih davanja
+
+2. provođenje postupka provjere i neizravnog nadzora
+
+3. provođenje poreznog nadzora poreza, doprinosa, fiskalizacije te drugih javnih davanja i sklapanje poreznih nagodbi
+
+4. suzbijanje poreznih prijevara
+
+5. provođenje nadzora nad priređivanjem igara na sreću, zabavnih i nagradnih igara
+
+6. utvrđivanje i analiza rizika u poštivanju propisa o porezima, doprinosima i drugim javnim davanjima
+
+7. provođenje mjera osiguranja naplate, postupka naplate i ovrhe radi naplate poreza, doprinosa i drugih javnih davanja, poslova u vezi s predstečajnim i stečajnim postupkom, stečajem potrošača, likvidacije i postupkom predstečajne nagodbe te koordiniranje i sklapanje upravnih ugovora
+
+8. izdavanje prekršajnih naloga, podnošenje optužnih prijedloga i kaznenih prijava
+
+9. odgovaranje poreznim obveznicima na usmene i pisane upite koji moraju sadržavati osobni identifikacijski broj (OIB) podnositelja upita ili zahtjeva
+
+10. utvrđivanje nerazmjera između ostvarenog dohotka i imovine i zlouporabe prava
+
+11. opći, pravni i financijski poslovi te poslovi u vezi s radnopravnim statusom službenika i namještenika
+
+12. čuvanje i prodaja oduzetih predmeta u prekršajnom postupku po pravomoćnoj odluci nadležnog tijela
+
+13. provođenje poslova administrativne suradnje
+
+14. provođenje ovrhe radi naplate proračunskih prihoda čije je utvrđivanje i naplata u djelokrugu drugih ustrojstvenih jedinica Ministarstva financija te ovrhe radi naplate drugih javnih davanja po zahtjevima javnopravnih tijela i sudova u skladu s posebnim propisima
+
+15. obavljanje i drugih poslova određenih ovim Zakonom ili drugim propisima.«.
+
+#### Članak 3.
+
+U članku 11. točka 4. mijenja se i glasi:
+
+»4. provođenje postupaka neizravnog nadzora, provjere i nadzora«.
+
+Točka 5. mijenja se i glasi:
+
+»5. podrška u provedbi postupaka naplate, ovrhe, stečajeva i likvidacije«.
+
+Iza točke 9. dodaje se nova točka 10. koja glasi:
+
+»10. ustroj i vođenje Središnjeg registra stanovništva te zaprimanje i obrada podataka iz izjava stanovnika«.
+
+Dosadašnje točke 10. i 11. postaju točke 11. i 12.
+
+Iza točke 12. dodaje se točka 13. koja glasi:
+
+»13. obavljanje administrativnih i općih poslova iz nadležnosti ispostave«.
+
+Dosadašnja točka 12. postaje točka 14.
+
+#### Članak 4.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Službenici Porezne uprave ovlašteni su provoditi postupke i radnje u skladu s odredbama ovoga Zakona, Općeg poreznog zakona, zakona kojima se uređuju pojedine vrste poreza, doprinosa i drugih javnih davanja te drugih propisa koji se odnose na oporezivanje i fiskalizaciju u prometu gotovinom.
+
+(2) Službenici Porezne uprave ovlašteni su utvrđivati istovjetnost osoba u poreznom postupku.
+
+(3) U službenim prostorijama Porezne uprave nije dozvoljeno neovlašteno korištenje uređaja za snimanje zvuka i/ili slike.
+
+(4) Službenici koji obavljaju poslove poreznog nadzora, osim ovlasti iz stavaka 1. i 2. ovoga članka, ovlašteni su i:
+
+1. privremeno oduzeti predmete, domaća ili strana sredstva plaćanja, vrijednosnice i dokumentaciju koji mogu poslužiti kao dokaz u prekršajnom ili kaznenom postupku
+
+2. privremeno zabraniti obavljanje djelatnosti pečaćenjem postrojenja, opreme ili prostorija u kojima se obavlja djelatnost, u skladu s posebnim zakonima.
+
+(5) Službenici koji obavljaju poslove naplate i ovrhe, osim ovlasti iz stavaka 1. i 2. ovoga članka, ovlašteni su i:
+
+1. uzimati prokaznu izjavu i prokazni popis imovine
+
+2. obavljati provjeru poslovnih knjiga i evidencija poreznih obveznika te provjeravati vjerodostojnost i istinitost isprava
+
+3. stupiti na zemljište i u poslovne prostorije u kojima porezni obveznik obavlja djelatnost te ih pregledati
+
+4. davati upozorenja i naredbe
+
+5. provoditi ovrhu popisom, pljenidbom, procjenom i prodajom pokretnina, tražbina i drugih imovinskih prava.
+
+(6) Službenici koji obavljaju poslove suzbijanja poreznih prijevara te službenici Samostalnog sektora za financijske istrage su istražitelji u poreznom postupku s ovlastima prikupljanja i korištenja dokaza u poreznom postupku, prikupljenih putem tijela kaznenog progona, a u svrhu sprječavanja, otkrivanja i porezne istrage poreznih prijevara, osim ovlasti iz stavaka 1., 2. i 4. ovoga članka, ovlašteni su i:
+
+1. u postupanju na odgovarajući način primjenjivati odredbe Zakona o kaznenom postupku
+
+2. poduzimati i druge radnje i postupke propisane posebnim zakonima
+
+3. ostvariti međunarodnu suradnju i suradnju s javnopravnim tijelima.
+
+(7) Službeno svojstvo, identitet i ovlasti za obavljanje poslova iz nadležnosti Porezne uprave dokazuju se službenom iskaznicom ili službenom iskaznicom i značkom.
+
+(8) Ministar financija pravilnikom propisuje sadržaj i oblik službene iskaznice i značke.
+
+(9) Ministar financija pravilnikom propisuje postupanje s privremeno oduzetim predmetima, domaćim ili stranim sredstvima plaćanja, vrijednosnicama i dokumentacijom.«.
+
+#### Članak 5.
+
+Članak 16. mijenja se i glasi:
+
+»(1) Na prava, obveze i odgovornosti službenika Porezne uprave primjenjuju se propisi o državnim službenicima, ako ovim Zakonom nije drugačije propisano.
+
+(2) Na prijam i prestanak službe te prava, obveze i odgovornosti namještenika Porezne uprave odgovarajuće se primjenjuju propisi o državnim službenicima, osim odredaba o vježbeničkom stažu i obvezi polaganja državnog ispita, ako ovim Zakonom nije drugačije propisano.
+
+(3) Ako službenik i namještenik Porezne uprave podnese zahtjev za ostvarivanje prava iz Kolektivnog ugovora za državne službenike i namještenike putem aplikativnog sustava Porezne uprave, nadležna ustrojstvena jedinica Porezne uprave će putem aplikativnog sustava Porezne uprave zahtjev usvojiti ili odbiti.
+
+(4) Ako zahtjev službenika i namještenika iz stavka 3. ovoga članka u aplikativnom sustavu Porezne uprave nije osnovan, nadležna ustrojstvena jedinica Porezne uprave najkasnije u roku od 30 dana od dana podnošenja zahtjeva donosi rješenje ili odluku o istome.
+
+(5) Na zahtjev službenika i namještenika nadležna ustrojstvena jedinica Porezne uprave donijet će i pisano rješenje ili odluku o usvajanju zahtjeva službenika i namještenika.
+
+(6) Iznimno od stavaka 3. i 4. ovoga članka, zahtjevi za ostvarivanje materijalnih prava iz Kolektivnog ugovora za državne službenike i namještenike podnose se pisanim putem nadležnoj ustrojstvenoj jedinici Porezne uprave koja će donijeti rješenje ili odluku o istome.«.
+
+#### Članak 6.
+
+U članku 19. stavku 1. riječi: »sukladno opisu« zamjenjuju se riječima: »u skladu s opisom«.
+
+Iza stavka 5. dodaju se stavci 6., 7. i 8. koji glase:
+
+»(6) Službenici područnih ureda i ispostava područnih ureda koji obavljaju poslove poreznog nadzora, suzbijanja poreznih prijevara te ostale poslove nadzora dužni su privremeno obavljati dodijeljene poslove u drugom područnom uredu po nalogu ravnatelja Porezne uprave.
+
+(7) Protiv službenika Porezne uprave koji postupi protivno odredbi članka 28.a stavka 8. ovoga Zakona ili koji neovlašteno pristupi podacima koji su izvan opsega poslova i zadataka radnog mjesta na koje je raspoređen bit će pokrenut postupak zbog teške povrede službene dužnosti ili drugi odgovarajući postupak.
+
+(8) Na temelju saznanja za protupravno postupanje iz stavka 7. ovoga članka službeniku će biti onemogućen pristup Informacijskom sustavu Porezne uprave i bit će udaljen iz državne službe ili privremeno premješten na radno mjesto bez mogućnosti pristupa Informacijskom sustavu Porezne uprave, do okončanja postupka pred nadležnim sudom.«.
+
+#### Članak 7.
+
+U članku 21. ispred riječi: »Porezna« briše se oznaka stavka: »(1)«.
+
+Stavak 2. briše se.
+
+#### Članak 8.
+
+U članku 23. točki 6. na kraju rečenice briše se točka.
+
+Iza točke 6. dodaje se točka 7. koja glasi:
+
+»7. neovlašteno pristupanje podacima, neodgovorno postupanje s podacima, neuvažavanje povjerljivosti i tajnosti svih podataka te korištenja istih u privatne svrhe ili na način koji nije u skladu s propisima o poreznoj i poslovnoj tajni.«.
+
+#### Članak 9.
+
+Članak 27. mijenja se i glasi:
+
+»(1) Porezna uprava surađuje sa svim javnopravnim tijelima, tijelima sudbene vlasti i drugim tijelima koja imaju javne ovlasti i rade na utvrđivanju, naplati i nadzoru javnih davanja.
+
+(2) Radi praćenja pravilnosti utvrđivanja porezne osnovice i naplate poreznih obveza Porezna uprava surađuje i razmjenjuje podatke s domaćim i inozemnim javnopravnim tijelima i tijelima sudbene vlasti koja vode službene evidencije o osobama, djelatnostima, primicima i vlasništvu imovine, i to nekretnina, motornih vozila, plovila, zrakoplova, vrijednosnih papira, računa te ostale imovine.
+
+(3) Domaća javnopravna tijela i tijela sudbene vlasti iz stavka 2. ovoga članka omogućit će Poreznoj upravi razmjenu te pravodobnu dostupnost podataka iz službenih evidencija putem državne informacijske infrastrukture prema propisu kojim se uređuje sustav državne informacijske infrastrukture, razmjenom u realnom vremenu.
+
+(4) Porezna uprava omogućit će dostupnost podataka sadržanih u evidenciji o osobnim identifikacijskim brojevima javnopravnim tijelima i drugim tijelima putem državne informacijske infrastrukture prema propisu kojim se uređuje sustav državne informacijske infrastrukture, kada je to propisano posebnim propisima radi obavljanja poslova iz njihova djelokruga.
+
+(5) Radi ostvarivanja suradnje i razmjene podataka s tijelima iz stavka 4. ovoga članka Porezna uprava, nakon zaprimljenog zahtjeva od tijela državne uprave nadležnog za digitalnu transformaciju zaduženog za razmjenu podataka prema propisu kojim se uređuje sustav državne informacijske infrastrukture, izdaje mišljenje za preuzimanje podatka iz evidencije o osobnim identifikacijskim brojevima.
+
+(6) Javnopravnim tijelima i drugim tijelima, radi obavljanja poslova iz njihova djelokruga, Porezna uprava omogućit će dostupnost podataka sadržanih u Središnjem registru stanovništva.
+
+(7) Porezna uprava osigurava tijelima iz stavka 6. ovoga članka, na njihov zahtjev, dostupnost podataka sadržanih u Središnjem registru stanovništva, prema propisu kojim se uređuje sustav državne informacijske infrastrukture, u skladu s propisima kojima je uređena zaštita osobnih podataka.«.
+
+#### Članak 10.
+
+Članak 28. mijenja se i glasi:
+
+»(1) Javnopravnim tijelima, na njihov zahtjev, a radi obavljanja poslova iz njihova djelokruga, Porezna uprava omogućit će dostupnost podataka uspostavljenoj evidenciji o dohocima i primicima putem državne informacijske infrastrukture prema propisu kojim se uređuje sustav državne informacijske infrastrukture, u skladu s propisima kojima je uređena zaštita osobnih podataka.
+
+(2) Porezna uprava omogućit će javnopravnim tijelima dostupnost i ostalih podataka sadržanih u informacijskom sustavu Porezne uprave (ISPU), kada je to propisano posebnim propisima radi obavljanja poslova iz njihova djelokruga.
+
+(3) Razmjena podataka iz stavka 2. ovoga članka obavlja se primjenom informacijskih tehnologija.
+
+(4) Ministar financija pravilnikom utvrđuje kriterije i način preuzimanja podataka iz evidencije o dohocima i primicima.«.
+
+#### Članak 11.
+
+Iza članka 28. dodaje se naslov iznad članka i članak 28.a koji glase:
+
+*»Sigurnost, korištenje podataka i prava pristupa podacima*
+
+#### Članak 28.a
+
+(1) Porezna uprava za potrebe ovoga Zakona mora primjenjivati sustav upravljanja informacijskom sigurnošću, sustav upravljanja kvalitetom, sustav upravljanja kontinuitetom poslovanja i sustav upravljanja uslugama.
+
+(2) Porezna uprava mora implementirati mjere za sigurnost podataka kontrolom pristupa sustavu od strane ovlaštenih osoba, zaštitom podataka prilikom prijenosa enkripcijom te zapisom o akcijama na sustavu u svrhu praćenja pristupa i izmjena podataka u sustavu.
+
+(3) Porezna uprava mora implementirati mjere za sigurnost infrastrukture zaštitom mreže, alatima za upravljanje privilegiranim pristupom, alatima za nadzor baza podataka, sigurnosti računala, za upravljanje ranjivostima; nadzorom svih sigurnosno relevantnih događaja i upravljanjem incidentima kibernetičke sigurnosti; zaštitom podataka u sustavu te sigurnosnim testiranjima sustava od strane specijaliziranih kompanija prije puštanja sustava u produkcijski rad.
+
+(4) Prikupljanje podataka koje proizlazi iz ovoga Zakona, a koje koristi Ministarstvo financija u okviru svojih nadležnosti, ne smatra se povredom poslovne i porezne tajne niti povredom osobnih podataka.
+
+(5) Iznimno od stavka 4. ovoga članka, podaci se mogu dostaviti na zahtjev nadležnih tijela u poreznom, prekršajnom, kaznenom, sudskom postupku ili drugim postupcima samo ako postoji zakonska osnova za dostavu podataka.
+
+(6) Prikupljeni podaci za potrebe ovoga Zakona mogu se koristiti u statističke svrhe, ako se time ne otkriva porezna i poslovna tajna.
+
+(7) Porezna uprava je pod uvjetima iz stavka 6. ovoga članka ovlaštena razmjenjivati podatke s drugim javnopravnim tijelima u skladu s odredbama posebnih propisa.
+
+(8) Službenici Porezne uprave koji imaju pristup prikupljenim podacima za potrebe primjene ovoga Zakona dužni su s podacima postupati odgovorno, uvažavati povjerljivost i tajnost svih podataka te ih ne smiju koristiti u privatne svrhe ili na način koji nije u skladu s propisima o poreznoj i poslovnoj tajni.«.
+
+#### Članak 12.
+
+Članak 30. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 1320,00 do 66.360,00 eura kaznit će se za prekršaj pravna osoba, a novčanom kaznom u iznosu od 390,00 do 6630,00 eura odgovorna osoba u pravnoj osobi, kao i fizička osoba ako na zahtjev ovlaštenog službenika u određenom roku i/ili na određenom mjestu i/ili na određeni način ne omogući provođenje postupaka, mjera i radnji iz članka 13. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 1320,00 do 6630,00 eura kaznit će se fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako je prekršaj iz stavka 1. ovoga članka počinila u vezi s obavljanjem njezina obrta ili druge samostalne djelatnosti.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 13.
+
+(1) Vlada Republike Hrvatske u roku od 60 dana od dana stupanja na snagu ovoga Zakona uredbom će uskladiti unutarnje ustrojstvo Ministarstva financija s odredbama ovoga Zakona.
+
+(2) Ministar financija uskladit će Pravilnik o unutarnjem redu Ministarstva financija u roku od 60 dana od dana stupanja na snagu uredbe iz stavka 1. ovoga članka.
+
+(3) Ministar financija će u roku od 60 dana od dana stupanja na snagu ovoga Zakona donijeti pravilnike iz članka 13. stavaka 8. i 9., koji su izmijenjeni člankom 4. ovoga Zakona, i članka 28. stavka 4., koji je izmijenjen člankom 10. ovoga Zakona.
+
+(4) Do stupanja na snagu pravilnika iz stavka 3. ovoga članka ostaju na snazi pravilnici: Pravilnik o izgledu i sadržaju službenih iskaznica i značaka službenika Porezne uprave (»Narodne novine«, br. 72/17.) i Pravilnik o postupanju s privremeno oduzetim predmetima, domaćim ili stranim sredstvima plaćanja, vrijednosnicama i dokumentacijom (»Narodne novine«, br. 39/17.).
+
+#### Članak 14.
+
+Ministarstvo financija će u roku od tri godine od dana stupanja na snagu ovoga Zakona provesti vrednovanje ovoga Zakona.
+
+#### Članak 15.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2025.
+
+Klasa: 022-02/24-01/111
+
+Zagreb, 13. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

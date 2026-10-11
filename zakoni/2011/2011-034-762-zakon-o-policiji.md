@@ -6,15 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-03-23
-last_amended: 2015-03-24
+last_amended: 2019-07-10
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "34/11, 130/12, 151/14, 33/15"
+narodne_novine: "34/11, 130/12, 151/14, 33/15, 121/16, 66/19"
 amendments:
   - "NN 130/2012 (2767) Zakon o izmjeni Zakona o policiji"
   - "NN 151/2014 (2823) Uredba o izmjeni Zakona o policiji"
   - "NN 33/2015 (678) Zakon o izmjenama i dopunama Zakona o policiji"
+  - "NN 121/2016 (2628) Zakon o izmjeni Zakona o policiji"
+  - "NN 66/2019 (1296) Zakon o izmjenama i dopunama Zakona o policiji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/762"
 retrieved: 2026-10-12
 ---
@@ -23,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 34/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/762).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 130/2012, NN 151/2014, NN 33/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 130/2012, NN 151/2014, NN 33/2015, NN 121/2016, NN 66/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1591,3 +1593,346 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o policiji (NN 121/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/121/2628*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O POLICIJI
+
+Proglašavam Zakon o izmjeni Zakona o policiji, koji je Hrvatski sabor donio na sjednici 15. prosinca 2016. godine.
+
+Klasa: 011-01/16-01/80
+
+Urbroj. 71-06-01/1-16-2
+
+Zagreb, 20. prosinca 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O POLICIJI**
+
+### Članak 1.
+
+U Zakonu o policiji (»Narodne novine«, br. 34/11., 130/12. i 89/14.) u članku 128. riječi: »koje stupaju na snagu 1. siječnja 2017.« zamjenjuju se riječima: »koje stupaju na snagu 1. siječnja 2018.«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 31. prosinca 2016.
+
+Klasa: 022-03/16-01/123  
+Zagreb, 15. prosinca 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o policiji (NN 66/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/66/1296*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o policiji, koji je Hrvatski sabor donio na sjednici 28. lipnja 2019.
+
+Klasa: 011-01/19-01/104
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 5. srpnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJI**
+
+#### Članak 1.
+
+U Zakonu o policiji (»Narodne novine«, br. 34/11., 130/12., 89/14. – vjerodostojno tumačenje, 151/14., 33/15. i 121/16.) članak 4. mijenja se i glasi:
+
+»Glavni ravnatelj policije (u daljnjem tekstu: glavni ravnatelj) najkasnije do 31. ožujka ministru unutarnjih poslova (u daljnjem tekstu: ministar) dostavlja pisano izvješće o radu policije za prethodnu godinu, koji ga dostavlja Vladi Republike Hrvatske.
+
+Vlada Republike Hrvatske dostavlja izvješće o radu policije Hrvatskome saboru najkasnije do 1. lipnja.
+
+Ministar Odboru za unutarnju politiku i nacionalnu sigurnost Hrvatskoga sabora, na njegovo traženje, dostavlja pisano izvješće o obavljanju policijskih poslova za pojedinačne slučajeve.«.
+
+#### Članak 2.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+»Fizička ili pravna osoba koja smatra da su djelovanjem ili propuštanjem djelovanja policijskog službenika u primjeni policijskih ovlasti povrijeđena njezina prava ili slobode, ima pravo Ministarstvu podnijeti pritužbu u roku od 30 dana od dana saznanja za povredu.«.
+
+#### Članak 3.
+
+U članku 5.b riječi: »nadležnom povjerenstvu za rad po pritužbama« zamjenjuju se riječima: »Povjerenstvu za rad po pritužbama (u daljnjem tekstu: Povjerenstvo)«.
+
+#### Članak 4.
+
+Članak 5.c mijenja se i glasi:
+
+»Za rješavanje pritužbi na rad policijskih službenika osniva se Povjerenstvo.
+
+Povjerenstvo čini devet predstavnika građana koje imenuje i razrješava Hrvatski sabor na prijedlog Odbora za ljudska prava i prava nacionalnih manjina Hrvatskoga sabora, a koje su, na javni poziv, predložile organizacije civilnog društva, organizacije stručne javnosti i nevladine organizacije ili su se osobno javili na javni poziv.
+
+Članovi Povjerenstva, na konstituirajućoj sjednici, biraju predsjednika i potpredsjednika.
+
+Povjerenstvo donosi Poslovnik o svom radu kojim detaljnije uređuje pitanja iz svoga djelokruga i na koji prethodno mišljenje daje Odbor za ljudska prava i prava nacionalnih manjina Hrvatskoga sabora.
+
+Stručnu i administrativnu pomoć Povjerenstvu pruža Ministarstvo.
+
+Odluka Povjerenstva dostavlja se podnositelju pritužbe, glavnom ravnatelju, Ministarstvu i osobi ovlaštenoj za pokretanje disciplinskog postupka protiv policijskog službenika čiji rad je bio predmet pritužbe.
+
+Ako je Povjerenstvo utvrdilo da je pritužba djelomično ili u cijelosti bila utemeljena, Ministarstvo je dužno, u roku od 30 dana od dana zaprimanja odluke Povjerenstva, preispitati svoju prethodnu odluku i o tome izvijestiti podnositelja pritužbe.
+
+Godišnje izvješće o svome radu Povjerenstvo podnosi Hrvatskome saboru.«.
+
+#### Članak 5.
+
+Članak 5.d mijenja se i glasi:
+
+»Članovi Povjerenstva su osobe koje uživaju profesionalni i osobni ugled u javnosti.
+
+Članovi Povjerenstva za sudjelovanje na sjednici Povjerenstva primaju naknadu u visini 5% prosječne neto plaće isplaćene u Republici Hrvatskoj u prethodnoj godini za svaki završeni predmet.
+
+Za članove Povjerenstva provodi se postupak temeljne sigurnosne provjere, sukladno zakonu kojim se uređuje područje sigurnosnih provjera.
+
+Član Povjerenstva dužan je čuvati tajnost podataka koje je doznao sudjelujući u rješavanju pritužbi na rad policijskih službenika.
+
+Član Povjerenstva ne može biti osoba koja:
+
+– nije državljanin Republike Hrvatske,
+
+– je član političke stranke,
+
+– je osuđena ili se protiv nje vodi kazneni postupak za kazneno djelo koje se progoni po službenoj dužnosti,
+
+– je osuđena ili se protiv nje vodi postupak za prekršaj s obilježjem nasilja ili za teži prekršaj za koji je propisana kazna zatvora.
+
+Članove Povjerenstva imenuje se na vrijeme od četiri godine, s mogućnošću ponovnog imenovanja.
+
+Člana Povjerenstva može se razriješiti prije isteka roka na koji je imenovan ako:
+
+– sam to zatraži,
+
+– nastupi neki od razloga zbog kojih ne može biti imenovan članom Povjerenstva,
+
+– bez valjanog opravdanja nije prisustvovao dvjema sjednicama Povjerenstva u roku od jedne godine ili nemarno obavlja poslove člana Povjerenstva.
+
+Članovi Povjerenstva, za dolazak na sjednicu Povjerenstva, imaju pravo na naknadu prijevoznih troškova u visini stvarnih troškova ili naknadu troškova za korištenje privatnog automobila u službene svrhe, kako je utvrđeno za korisnike koji se financiraju iz sredstava državnog proračuna Republike Hrvatske.
+
+Sredstva za naknade članovima Povjerenstva iz stavaka 2. i 8. ovoga članka osiguravaju se u državnom proračunu Republike Hrvatske u razdjelu Ministarstva.
+
+Odredbe ovoga članka koje se odnose na članove Povjerenstva odnose se i na predsjednika i potpredsjednika Povjerenstva.«.
+
+#### Članak 6.
+
+U članku 5.f stavak 2. mijenja se i glasi:
+
+»Način rada i postupanja po pritužbama, vođenje evidencije i rokove čuvanja podataka u evidenciji propisuje ministar pravilnikom.«.
+
+#### Članak 7.
+
+U članku 8. stavku 2. riječi: »glavni ravnatelj policije (u daljnjem tekstu: glavni ravnatelj) zamjenjuju se riječima: »glavni ravnatelj«.
+
+#### Članak 8.
+
+Članak 32. briše se.
+
+#### Članak 9.
+
+Članak 46. mijenja se i glasi:
+
+»Odlučivanje o prijmu, rasporedu, izboru, imenovanju, raz­rješenju, plaći, premještaju, stavljanju na raspolaganje te prestanku službe policijskog službenika upravna je stvar.
+
+Žalba na rješenje o prijmu, rasporedu, izboru, imenovanju, razrješenju, plaći, premještaju, stavljanju na raspolaganje, prestanku službe po sili zakona te udaljenju iz službe policijskog službenika ne odgađa izvršenje rješenja.
+
+Protiv rješenja iz stavka 1. ovoga članka policijski službenik može izjaviti žalbu Odboru za državnu službu u roku od 15 dana od dana dostave rješenja.«.
+
+#### Članak 10.
+
+U članku 47. stavku 1. točka 2. mijenja se i glasi:
+
+»2. imati završenu srednju školu u trogodišnjem ili četverogodišnjem trajanju,«.
+
+#### Članak 11.
+
+U članku 60. stavak 1. mijenja se i glasi:
+
+»Slobodna radna mjesta rukovodećih policijskih službenika, i to: zamjenika glavnog ravnatelja i načelnika policijske uprave popunjavaju se putem internog oglasa.«.
+
+#### Članak 12.
+
+U članku 61. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Osim razloga iz članka 59. stavka 3. ovoga Zakona, izabrani kandidat iz članka 60. stavka 1. ovoga Zakona može se razriješiti prije isteka roka na koji je imenovan i ako je za prethodnu kalendarsku godinu ocijenjen ocjenom »zadovoljava«.«.
+
+Dosadašnji stavak 2., koji postaje stavak 3., mijenja se i glasi:
+
+»Zamjenika glavnog ravnatelja te načelnika policijske uprave imenuje i razrješuje ministar na prijedlog glavnog ravnatelja.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., riječi: »i pomoćnikom« brišu se.
+
+Dosadašnji stavak 5. briše se.
+
+#### Članak 13.
+
+Članak 62. mijenja se i glasi:
+
+»Slobodna radna mjesta rukovodećih policijskih službenika potkategorije glavni rukovoditelj, a koja nisu navedena u članku 60. ovoga Zakona, i slobodna radna mjesta načelnika policijske postaje popunjavaju se putem internog oglasa premještajem ili rasporedom.
+
+Odabir kandidata za radno mjesto pomoćnika glavnog ravnatelja i načelnika policijske postaje provodi povjerenstvo iz članka 60. ovoga Zakona.«.
+
+#### Članak 14.
+
+Članak 63. mijenja se i glasi:
+
+»Raspored na radno mjesto policijskog službenika provodi se:
+
+1. prilikom prijma u policiju,
+
+2. ako se ukine ustrojstvena jedinica ili radno mjesto na koje je raspoređen,
+
+3. ako se smanji broj izvršitelja radnog mjesta na koje je raspoređen,
+
+4. istekom razdoblja na koje su imenovane osobe iz članka 58. stavka 1. i članka 60. stavka 1. ovoga Zakona,
+
+5. u slučaju razrješenja osoba iz članka 58. stavka 1. i članka 60. stavka 1. ovoga Zakona, zbog razloga iz članka 59. stavka 3. i članka 61. stavka 2. ovoga Zakona.«.
+
+#### Članak 15.
+
+U članku 64. stavku 1. riječi: »točke 2. i 3.« zamjenjuju se riječima: »točke 2., 3., 4. i 5.«.
+
+U stavku 2. riječi: »točke 2. i 3.« zamjenjuju se riječima: »točke 2., 3., 4. i 5.«, a riječi: »uz pisani pristanak« brišu se.
+
+#### Članak 16.
+
+Iza članka 64. dodaje se članak 64.a koji glasi:
+
+»Članak 64.a
+
+Policijskom službeniku raspoređenom u mjesto rada koje je udaljeno više od 100 kilometara od mjesta njegova prebivališta, ako nema riješeno stambeno pitanje te ne prima naknadu troškova međumjesnog prijevoza na posao i s posla, isplatit će se naknada za stanovanje.
+
+Pravo iz stavka 1. ovoga članka priznaje se i policijskim službenicima kojima je mjesto rada na otoku, a mjesto prebivališta na kopnu ili drugom otoku, ili obratno, bez obzira na udaljenost.
+
+Smatra se da policijski službenik ima riješeno stambeno pitanje ako on ili član njegove obitelji (supružnik, maloljetno dijete ili dijete na redovitom školovanju, a s kojim živi u obiteljskom domaćinstvu) u mjestu rada ili u mjestu udaljenom do 100 kilometara od mjesta rada ima u vlasništvu stan ili obiteljsku kuću.
+
+Visinu naknade iz stavaka 1. i 2. ovoga članka određuje odlukom ministar.«.
+
+#### Članak 17.
+
+Članak 72. mijenja se i glasi:
+
+»Policijskog službenika može se po potrebi službe premjestiti na slobodno radno mjesto iste ili više složenosti poslova za koje ispunjava uvjete, vodeći računa o njegovu stručnom znanju, vještinama i sposobnostima, u istoj ili drugoj ustrojstvenoj jedinici, u istom ili drugom mjestu rada.
+
+Policijskog službenika može se po potrebi službe premjestiti na slobodno radno mjesto niže složenosti poslova u okviru istog stupnja obrazovanja ako je za prethodnu kalendarsku godinu ocijenjen ocjenom »zadovoljava«, vodeći računa o njegovu stručnom znanju, vještinama i sposobnostima, u istoj ili drugoj ustrojstvenoj jedinici, u istom ili drugom mjestu rada.
+
+Premještaj po potrebi službe temelji se na slobodnoj ocjeni o potrebi da se policijskog službenika premjesti na drugo radno mjesto zbog potrebe popunjavanja radnog mjesta na kojem se poslovi moraju obavljati u kontinuitetu ili zbog povećanja broja izvršitelja zbog povećanog opsega posla, zbog bolje organizacije rada ili potrebe za angažiranjem drugog policijskog službenika na određenom radnom mjestu radi pravodobnog ili efikasnijeg obavljanja određenih poslova i zadataka.«.
+
+#### Članak 18.
+
+U članku 75. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Policijskom službeniku iz stavka 1. ovoga članka pravo na prehranu prestaje nakon godine dana od dana trajnog premještaja.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+#### Članak 19.
+
+U članku 86. stavku 2. riječi: »uz suglasnost ministra znanosti, obrazovanja i športa« zamjenjuju se riječima: »uz prethodnu suglasnost ministra nadležnog za znanost i obrazovanje«.
+
+#### Članak 20.
+
+Članak 88. mijenja se i glasi:
+
+»Visoko obrazovanje provodi Visoka policijska škola kroz stručne i sveučilišne studijske programe sukladno Statutu i propisima o znanstvenoj djelatnosti i visokom obrazovanju.
+
+Stručne studijske programe za potrebe visokog policijskog obrazovanja izvodi Visoka policijska škola na temelju dopusnice koju izdaje ministar nadležan za znanost i obrazovanje.
+
+Visoka policijska škola sudjeluje u izvođenju diplomskih sveučilišnih studija, poslijediplomskih sveučilišnih studija i poslijediplomskih specijalističkih studija prilagođenih potrebama policije i javnosti, sukladno ugovoru sa sveučilištem i propisima o znanstvenoj djelatnosti i visokom obrazovanju.
+
+Visoka policijska škola provodi znanstvenoistraživački rad za potrebe Ministarstva.
+
+Poslovi Visoke policijske škole u području visokoškolskog obrazovanja i znanosti uređuju se Statutom.«.
+
+#### Članak 21.
+
+U članku 96. točki 7. iza riječi: »kada« dodaje se riječ: »teško«.
+
+U točki 10. na kraju rečenice umjesto točke stavlja se zarez te se dodaje točka 11. koja glasi:
+
+»11. nasilje u obitelji.«.
+
+#### Članak 22.
+
+U članku 98. stavku 1. iza riječi: »ovoga Zakona« dodaju se riječi: »te za osobe iz članka 50. ovoga Zakona«.
+
+#### Članak 23.
+
+U članku 99. stavku 2. riječ: »četiri« zamjenjuje se riječju: »dva«.
+
+#### Članak 24.
+
+U članku 110. stavku 2. točka 4. mijenja se i glasi:
+
+»4. premještaj na drugo radno mjesto iste ili niže složenosti poslova istog stupnja obrazovanja,«.
+
+Stavak 5. mijenja se i glasi:
+
+»Kazna premještaja na drugo radno mjesto iste ili niže složenosti poslova istog stupnja obrazovanja može se izreći samo ako postoji slobodno radno mjesto u Ministarstvu.«.
+
+#### Članak 25.
+
+U članku 112. stavak 1. mijenja se i glasi:
+
+»Ministar ili nadležni rukovoditelj rješenjem će udaljiti iz službe policijskog službenika protiv kojeg je pokrenut kazneni postupak ili postupak zbog teže povrede službene dužnosti zbog djela s obilježjima korupcije ili protiv kojeg je nakon provedenog kriminalističkog istraživanja podnesena kaznena prijava nadležnom državnom odvjetništvu zbog osnovane sumnje u počinjenje kaznenog djela nasilja u obitelji.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 26.
+
+Stupanjem na snagu ovoga Zakona policijski službenici imenovani na radna mjesta pomoćnika glavnog ravnatelja i načelnika policijske postaje prema odredbama Zakona o policiji (»Narodne novine«, br. 34/11., 130/12., 89/14., 151/14., 33/15. i 121/16.) nastavljaju obavljati poslove tog radnog mjesta u skladu s odredbama ovoga Zakona.
+
+Policijskim službenicima iz stavka 1. ovoga članka u roku od 30 dana od dana stupanja na snagu ovoga Zakona izdat će se rješenja o rasporedu u skladu s odredbama ovoga Zakona.
+
+#### Članak 27.
+
+Pravilnik o načinu rada i postupanja po pritužbama te radu povjerenstava za rad po pritužbama (»Narodne novine«, br. 78/15.) ministar će uskladiti s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+Visoka policijska škola uskladit će Statut Visoke policijske škole s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 28.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/15
+
+Zagreb, 28. lipnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

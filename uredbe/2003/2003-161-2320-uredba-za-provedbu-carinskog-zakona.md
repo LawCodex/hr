@@ -6624,544 +6624,466 @@ U ovim posebnim slučajevima izrada je nepotpuna ako nisu izvršeni postupci zav
 ### PRILOG 3 B — LISTA OBRADA ILI PRERADA ŠTO IH JE POTREBNO OBAVITI NA MATERIJALIMA BEZ PODRIJETLA KAKO BI DOBIVENI PROIZVOD STEKAO STATUS PROIZVODA S PODRIJETLOM — Tkanine i proizvodi od tkanina iz Odlomka XI
 
 <table>
-
 <tr>
 <td></td>
 <td>Tarifni broj<br> </td>
 <td>Opis proizvoda<br> </td>
 <td colspan="2">Prerada ili obrada, obavljena na materijalima bez podrijetla, kojom se stječe status proizvoda s podrijetlom</td>
 </tr>
-
 <tr>
 <td></td>
 <td>(1)</td>
 <td>(2)</td>
 <td colspan="2">(3)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 5101</td>
 <td>Vuna, nevlačena i nečešljana:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– odmašćena vuna, nekarbonizirana<br> </td>
 <td colspan="2">Proizvodnja iz masne vune, uključujući vunene otpatke, vrijednost koje ne premašuje 50% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– karbonizirana<br> </td>
 <td colspan="2">Proizvodnja iz odmašćene vune, nakarbonizirane, vrijednost koje ne premašuje 50% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 5103<br> </td>
 <td>Otpaci od vune i fine ili grube životinjske dlake, karbonizirani<br> </td>
 <td colspan="2">Proizvodnja iz nekarboniziranih otpadaka, vrijednost kojih ne premašuje 50% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 5201<br> </td>
 <td>Pamuk, nevlačen i nečešljan, bijeljen<br> </td>
 <td colspan="2">Proizvodnja iz sirovog pamuka, vrijednost kojega ne premašuje 50% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5501 do 5507</td>
 <td>Rezana sintetička i umjetna vlakna:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– nečešljana i nevlačena niti drugačije pripremljena za pređu</td>
 <td colspan="2">Proizvodnja iz kemijskih materijala ili tekstilne pulpe</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– vlačena ili češljana ili drugo<br> </td>
 <td colspan="2">Proizvodnja iz kemijskih materijala ili tekstilne pulpe ili otpadaka iz tarifnog broja 5505</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex poglavlja 50 do 55</td>
 <td>Pređa, monofilament i konac, osim papirne pređe:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– tiskani ili bojani<br> </td>
 <td colspan="2">Proizvodnja iz:<br> – prirodnih vlakana nečešljanih i nevlačenih niti drugačije pripremljenih za pređu,<br> – sirove svile ili svilenih otpadaka,<br> – kemijskih materijala ili tekstilne pulpe,<br> ili<br> – rezanih sintetičkih i umjetnih vlakana, filamenta kučine ili otpadaka vlakana, nečešljanih i nevlačenih niti drugačije pripremljenih za pređu</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">ili<br> Tisak ili bojenje pređe ili monofilamenata, nebijeljenih ili predbijeljenih (1), popraćeno pripremnom ili završnom obradom, u koje ne uključujemo uvijanje ili teksturiranje, pod uvjetom da vrijednost materijala bez podrijetla (uključujući pređu) ne premašuje 48% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– ostalo<br> </td>
 <td colspan="2">Proizvodnja iz:<br> – prirodnih vlakana nečešljanih i nevlačenih niti drugačije pripremljenih za pređu,<br> – sirove svile ili svilenih otpadaka,<br> – kemijskih materijala ili tekstilne pulpe,<br> ili<br> – rezanih sintetičkih i umjetnih vlakana, filamenta kučine ili otpadaka vlakana, nečešljanih i nevlačenih niti drugačije pripremljenih za pređu</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>Satkane tkanine, osim tkanina od papirne pređe:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– tiskane ili bojane<br> </td>
 <td colspan="2">Proizvodnja iz pređe<br> ili<br> Tisak ili bojenje nebijeljene li predbijeljene tkanine, popraćeni pripremnom ili završnom obradom (1)(2)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– drugo</td>
 <td colspan="2">Proizvodnja iz pređe</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5601<br> </td>
 <td>Vata od tekstilnih materijala i proizvodi od vate; tekstilna vlakna ne dulja od 5 mm (flok), tekstilni prah i tvorničke nopne</td>
 <td colspan="2">Proizvodnja iz vlakana<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>5602<br> </td>
 <td>Pust, uključujući impregniran, prevučen, prekriven ili laminiran:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– tiskan ili bojan<br> </td>
 <td colspan="2">Proizvodnja iz vlakana <br> ili<br> Tisak ili bojenje nebijeljenog ili predbijeljenog pusta, popraćeni pripremnom ili završnom obradom (1) (2)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– impregniran, prevučen, prekriven ili laminiran:<br> </td>
 <td colspan="2">Impregniranje, prevlačenje, prekrivanje ili laminiranje netkanih materijala, nebijeljenih (3)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– drugo</td>
 <td colspan="2">Proizvodnja iz vlakana</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5603<br> </td>
 <td>Netkani materijali, uključujući impregnirane, prevučene, prekrivene ili laminirane:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– tiskani ili bojani<br> </td>
 <td colspan="2">Proizvodnja iz vlakana ili<br> Tisak ili bojenje nebijeljenih ili predbijeljenih netkanih materijala, popraćeni pripremnom ili završnom obradom (1) (2)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– impregnirani, prevučeni, prekriveni ili laminirani:<br> </td>
 <td colspan="2">Impregniranje, prevlačenje, prekrivanje ili laminiranje netkanih materijala, nebijeljenih (3)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– drugo</td>
 <td colspan="2">Proizvodnja iz vlakana</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5604<br> </td>
 <td>Gumene niti i kord, prevučeni tkaninom, tekstilna pređe, vrpce i slično iz tarifnog broja 5404 ili 5405, impregnirani, prevučeni, prekriveni ili obloženi s gumom ili plastičnom masom:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– gumene niti i kord, prevučeni tkaninom</td>
 <td colspan="2">Proizvodnja iz gumenih niti ili korda, neprevučenih tkaninom</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– drugo<br> </td>
 <td colspan="2">Impregniranje, prevlačenje, prekrivanje ili oblaganje tekstilne pređe, traka i slično, nebijeljenih</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5607<br> </td>
 <td>Uzice, užad, konopci i kabeli, uključujući pletene ili prepletene te uključujući impregnirane, prevučene, prekrivene ili obložene s gumom ili plastičnom masom</td>
 <td colspan="2">Proizvodnja iz vlakana, pređe od kokosovog vlakna, sintetičke ili umjetne filamentne pređe ili monofilamenta</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5609<br> </td>
 <td>Proizvodi od pređa, vrpci ili slično iz tarifnih brojeva 5404 ili 5405, uzice, užad, konopci i kabeli, koji nisu navedeni ili uključeni na drugom mjestu</td>
 <td colspan="2">Proizvodnja iz vlakana, pređe od kokosovog vlakna, sintetičke ili umjetne filamentne pređe ili monofilamenta<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>5704<br> </td>
 <td>Sagovi i ostali tekstilni prostirači za pod od pusta, isključujući one dobivene postupkom taftinga i flokirane, dovršeni ili nedovršeni</td>
 <td colspan="2">Proizvodnja iz vlakana</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Poglavlje 58.<br> </td>
 <td>Specijalno tkane tkanine; tekstilne tkanine dobivene postupkom taftinga; čipke; tapiserije, pozamenterija; vez</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– vez u metraži, u vrpcama ili u motivima (tarifni broj 5810)<br> </td>
 <td colspan="2">Proizvodnja u kojoj vrijednost korištenih materijala ne premašuje 50% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– tiskani ili bojani<br> </td>
 <td colspan="2">Proizvodnja iz pređe<br> ili<br> Tisak ili bojenje nebijeljene li predbijeljene tkanine, od pusta ili netkanog materijala, popraćeni pripremnom ili završnom obradom (1)(2)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– impregnirani, prevučeni ili prekriveni<br> </td>
 <td colspan="2">Proizvodnja od nebijeljenih tkanina, od pusta ili netkanog materijala</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– drugo</td>
 <td colspan="2">Proizvodnja iz pređe</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5901<br> </td>
 <td>Tekstilne tkanine prevučene ljepilom ili škrobnim tvarima, što ih se rabi za vanjsko uvezivanje knjiga i za sličnu uporabu; tkanine za kopiranje; pripremljeno slikarsko platno, bugram i slični kruti tekstilni materijali koje se upotrebljavaju za izradu šešira</td>
 <td colspan="2">Proizvodnja iz nebijeljenih tkanina<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>5902<br> </td>
 <td>Kord tkanine za vanjske pneumatske gume od najlonskog prediva, poliestera i viskoznog rajona, velike jakosti</td>
 <td colspan="2">Proizvodnja iz pređe<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>5903<br> </td>
 <td>Tekstilni materijali, impregnirani, prevučeni, prekriveni ili laminirani plastičnim masama, osim onih iz tarifnog broja 5902</td>
 <td colspan="2">Proizvodnja od nebijeljenih tkanina<br> ili<br> Tisak ili bojenje nebijeljenih ili predbijeljenih tkanina, zajedno s pripremnom ili završnom obradom (1) (2)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5904<br> </td>
 <td>Linoleum, uključujući rezan u oblike; podni pokrivači od prevučene ili prekrivene tekstilne podloge, uključujući rezane u oblike</td>
 <td colspan="2">Proizvodnja od nebijeljenih tkanina, pusta ili netkanog materijala</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5905<br> </td>
 <td>Zidne tapete od tkanine<br> </td>
 <td colspan="2">Proizvodnja od nebijeljenih tkanina<br> ili<br> Tisak ili bojenje nebijeljenih ili predbijeljenih tkanina, zajedno s pripremnom ili završnom obradom (1) (2)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5906<br> </td>
 <td>Gumirane tekstilne tkanine, osim onih iz tarifnog broja 5902<br> </td>
 <td colspan="2">Proizvodnja od bijeljene pletene ili kukičane tkanine ili od drugih nebijeljenih tkanina</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5907<br> </td>
 <td>Tekstilne tkanine na drugi način impregnirane, prevučene ili prekrivene; platna slikana za kazališne kulise, tkanine ateljea i slične svrhe</td>
 <td colspan="2">Proizvodnja od nebijeljenih tkanina<br> ili<br> Tisak ili bojenje nebijeljenih ili predbijeljenih tkanina, zajedno s pripremnom ili završnom obradom (1) (2)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>5908<br> </td>
 <td>Fitilji od tekstila, tkani, prepleteni ili pleteni, za svjetiljke, peći, upaljače, svijeće i slično; čarapice za plinsku rasvjetu i cjevasti pleteni materijali za čarapice; impregnirani ili neimpregnirani</td>
 <td colspan="2">Proizvodnja iz pređe<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>5909<br> </td>
 <td>Cijevi i crijeva za crpke i slične cijevi i crijeva od tekstilnog materijala uključujući obložene i armirane, sa priborom ili bez pribora od drugog materijala</td>
 <td colspan="2">Proizvodnja iz pređe ili vlakana<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>5910<br> </td>
 <td>Vrpce i remenje od tekstilnog materijala za transportne i svrhe prijenosa, pojačani ili nepojačani metalom ili drugim materijalom</td>
 <td colspan="2">Proizvodnja iz pređe ili vlakana<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>5911<br> </td>
 <td>Tekstilni proizvodi i predmeti, za tehničku upotrebu, navedeni u napomeni 7. poglavlju 59. sadržanih naziva:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– Diskovi ili obruči za poliranje, osim od pusta<br> </td>
 <td colspan="2">Proizvodnja iz pređe, otpadaka tkanina ili krpa iz tarifnog broja 6310.</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– drugo</td>
 <td colspan="2">Proizvodnja iz pređe or vlakana</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Poglavlje 60.<br> </td>
 <td>Pletene ili kukičane tkanine:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– tiskane ili bojene<br> </td>
 <td colspan="2">Proizvodnja iz pređe<br> ili<br> Tisak ili bojenje nebijeljenih ili predbijeljenih tkanina, zajedno s pripremnom ili završnom obradom (1) (2)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– drugo</td>
 <td colspan="2">Proizvodnja iz pređe</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Poglavlje 61.<br> </td>
 <td>Odjeća i pribor za odjeću, pleteni ili kukičani</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– dobiveni šivanjem ili spajanjem na drugi način dvaju ili više dijelova od pletenih ili kukičanih tkanina, što su bili razrezani u krojne oblike ili bili proizvedeni već oblikovani</td>
 <td colspan="2">Potpuna izrada (4)<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– drugo</td>
 <td colspan="2">Proizvodnja iz pređe</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex Poglavlje 62.<br> </td>
 <td>Odjeća i pribor za odjeću, koji nisu pleteni ili kukičani, isključujući one iz tarifnih brojeva 6213 i 6214 za koje su propise navedeni ispod:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– izrađeni ili završeni</td>
 <td colspan="2">Potpuna izrada (4)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– neizrađeni ili nezavršeni</td>
 <td colspan="2">Proizvodnja iz pređe</td>
 </tr>
-
 <tr>
 <td></td>
 <td>6213 i 6214<br> </td>
 <td>Rupčići, šalovi, rupci, marame, velovi i slični proizvodi:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– vezeni<br> </td>
 <td colspan="2">Proizvodnja iz pređe<br> ili<br> Proizvodnja iz nevezene tkanine, pod uvjetom da vrijednost korištene nevezene tkanine ne premašuje 40% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– drugo</td>
 <td colspan="2">Proizvodnja iz pređe</td>
 </tr>
-
 <tr>
 <td></td>
 <td>6301 do ex 6306<br> </td>
 <td>Deke i slični pokrivači; posteljina, stolno rublje, toaletno i kuhinjsko rublje; zavjese (uključujući draperije) i unutrašnje platnene rolete; kratke ukrasne draperije za prozore ili krevete; drugi proizvodi za unutarnje uređenje (isključujući one iz tarifnog broja 9494); vreće i vrećice za pakiranje robe; cerade, nadstrešnice i proizvodi za kampiranje:<br> – od pusta ili netkanog materijala:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– neimpregnirani, neprevučeni, neprekriveni i nelaminirani:</td>
 <td colspan="2">Proizvodnja iz vlakana<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– impregnirani, prevučeni, prekriveni ili laminirani:<br> – drugo:</td>
 <td colspan="2">Impregniranje, prevlačenje, prekrivanje ili laminiranje pusta ili netkanih materijala, nebijeljenih (4)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– pleteni ili kukičani</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– nevezeni</td>
 <td colspan="2">Potpuna izrada (5) (SIC! (4))</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– vezeni<br> </td>
 <td colspan="2">Potpuna izrada (5) (SIC! (4))<br> ili<br> Proizvodnja iz nevezene pletene ili kukičane tkanine, pod uvjetom da vrijednost korištene nevezene pletene ili kukičane tkanine ne premašuje 40% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– nepleteni i nekukičani</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– nevezeni</td>
 <td colspan="2">Proizvodnja iz pređe</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– vezeni<br> </td>
 <td colspan="2">Proizvodnja iz pređe<br> ili<br> Proizvodnja iz nevezene tkanine, pod uvjetom da vrijednost korištene nevezene tkanine ne premašuje 40% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td>6307<br> </td>
 <td>Drugi gotovi tekstilni proizvodi (uključujući modne krojeve za odjeću), osim lepeza i ručnih zaklona, nemehaničkih, okvira i ručki lepeza i ručnih zaklona te dijelova takvih okvira i ručki:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– krpe za pod, za posuđe, krpe za brisanje prašine i slično</td>
 <td colspan="2">Proizvodnja iz pređe</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>– ostalo<br> </td>
 <td colspan="2">Proizvodnja u kojoj vrijednost korištenih materijala ne premašuje 40% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td>6308<br> </td>
 <td>Kompleti koji se sastoje od komada tkanine i pređa, s priborom ili bez pribora, za izradu prostirki, tapiserija, vezenih stolnjaka i ubrusa ili sličnih tekstilnih proizvoda, pripremljeni u pakovanjima za prodaju na malo</td>
 <td colspan="2">Uključivanje u komplet u kojemu ukupna vrijednost svih uključenih proizvoda bez podrijetla ne premašuje 25% cijene proizvoda fco tvornica kompleta</td>
 </tr>
-
 <tr>
 <td></td>
 <td>6309<br> </td>
 <td>Iznošena odjeća i ostali iznošeni proizvodi</td>
 <td colspan="2">Prikupljanje i pakiranje za otpremu</td>
 </tr>
-
 <tr>
 <td colspan="4"><sup> (1) </sup> Vidjeti uvodnu napomenu 7.1 u Prilogu 4a.<br> <sup>(2) </sup> Međutim, da bi ga se termalni tisak smatralo obradom ili preradom koja daje status proizvoda s podrijetlom, on mora biti popraćenim tiskom papira za tiskanje.<br> <sup>(3) </sup> Vidjeti uvodnu napomenu 7.3 u Prilogu 4a.<br> <sup>(4) </sup> Vidjeti uvodnu napomenu 7.2 u Prilogu 4a.</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -7169,249 +7091,213 @@ U ovim posebnim slučajevima izrada je nepotpuna ako nisu izvršeni postupci zav
 <td></td>
 <td></td>
 </tr>
-
 </table>
 
 ### PRILOG 3 C — LISTA PRERADA ILI OBRADA ŠTO IH JE POTREBNO OBAVITI NA MATERIJALIMA BEZ PODRIJETLA KAKO BI DOBIVENI PROIZVOD STEKAO STATUS PROIZVODA S PODRIJETLOM — Proizvodi osim tkanina i proizvodi od tkanina iz Odlomka XI
 
 <table>
-
 <tr>
 <td></td>
 <td>Tarifni broj<br> </td>
 <td>Opis proizvoda<br> </td>
 <td colspan="2">Prerada ili obrada, obavljena na materijalima bez podrijetla, kojom se stječe status proizvoda s podrijetlom</td>
 </tr>
-
 <tr>
 <td></td>
 <td>(1)</td>
 <td>(2)</td>
 <td colspan="2">(3)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>0201<br> </td>
 <td>Goveđe meso, svježe ili rashlađeno</td>
 <td colspan="2">Klanje, nakon tovljenja u trajanju najmanje tri mjeseca<sup> (1)</sup></td>
 </tr>
-
 <tr>
 <td></td>
 <td>0202<br> </td>
 <td>Goveđe meso, smrznuto<br> </td>
 <td colspan="2">Klanje, nakon tovljenja u trajanju najmanje tri mjeseca<sup> (1)</sup></td>
 </tr>
-
 <tr>
 <td></td>
 <td>0203<br> </td>
 <td>Svinjsko meso, svježe, rashlađeno ili smrznuto</td>
 <td colspan="2">Klanje, nakon tovljenja u trajanju najmanje dva mjeseca<sup> (1)</sup></td>
 </tr>
-
 <tr>
 <td></td>
 <td>0204<br> </td>
 <td>Ovčje ili kozje meso, svježe, rashlađeno ili smrznuto</td>
 <td colspan="2">Klanje, nakon tovljenja u trajanju najmanje dva mjeseca<sup> (1)</sup></td>
 </tr>
-
 <tr>
 <td></td>
 <td>0205<br> </td>
 <td>Konjsko i magareće meso, meso mula ili mazgi, svježe, rashlađeno ili smrznuto</td>
 <td colspan="2">S Klanje, nakon tovljenja u trajanju najmanje tri mjeseca<sup> (1)</sup></td>
 </tr>
-
 <tr>
 <td></td>
 <td>0206<br> </td>
 <td>Jestivi klaonični proizvodi od goveđega, svinjskoga, ovčjega, kozjega; konjskoga i magarećeg mesa ili od mesa mula i mazgi, svježi, rashlađeni ili smrznuti</td>
 <td colspan="2">Klanje, nakon tovljenja u trajanju najmanje tri mjeseca, ili dva mjeseca u slučaju svinja, ovaca ili koz<sup> (1)</sup></td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 0408<br> </td>
 <td>Ptičja jaja, bez ljuske, sušena te žumanjci jajeta, sušeni<br> </td>
 <td colspan="2">Sušenje (nakon razbijanja i razdvajanja, ako je potrebno):<br> – ptičjih jaja, u ljusci, svježih ili konzerviranih, iz tarifnog broja ex 0407<br> – ptičjih jaja, bez ljuske, izuzev sušenih, iz tarifnog broja ex 0408<br> – bjelanjaka, izuzev sušenih, iz tarifnog broja ex 0408</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 1404<br> </td>
 <td>Pamučni linters, bijeljen<br> </td>
 <td colspan="2">Proizvodnja iz sirovog pamuka, vrijednost kojega ne premašuje 50% cijene proizvoda fco tvornica</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 2009<br> </td>
 <td>Sok od grožđa, nefermentiran i bez dodanog alkohola, s dodanim ili bez dodanog šećera ili drugih sladila</td>
 <td colspan="2">Proizvodnja iz grožđanog mošta</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 2204<br> </td>
 <td>Vino od svježeg grožđa namijenjeno pripremi vermuta s dodatkom svježeg grožđa, koncentriranoga ili ne, ili alkohola</td>
 <td colspan="2">Proizvodnja iz vina od svježeg grožđa</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 2205<br> </td>
 <td>Vermut<br> </td>
 <td colspan="2">Proizvodnja iz vina od svježeg grožđa, s dodatkom mošta od svježeg grožđa, koncentriranoga ili ne, ili alkohola, iz tarifnog broja 2204</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 3401<br> </td>
 <td>Pust i netkani materijali, impregnirani, prevučeni ili prekriveni sapunom ili deterdžentom</td>
 <td colspan="2">Proizvodnja iz pusta i netkanih materijala</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 3405<br> </td>
 <td>Pust i netkani materijali, impregnirani, prevučeni ili prekriveni lakovima i kremama, za obuću, namještaj, podove, karoserije, staklo ili metal, pastama i praškovima za čišćenje i sličnim preparatima</td>
 <td colspan="2">Proizvodnja iz pusta i netkanih materijala</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 3502<br> </td>
 <td>Sušeni albumin od jaja<br> </td>
 <td colspan="2">Sušenje (nakon razbijanja i razdvajanja, ako je potrebno):<br> – ptičjih jaja, u ljusci, svježih ili konzerviranih, iz tarifnog broja ex 0407<br> – ptičjih jaja, bez ljuske, izuzev sušenih, iz tarifnog broja ex 0408<br> – bjelanjaka, izuzev sušenih, iz tarifnog broja ex 3502</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 4203<br> </td>
 <td>Odjeća od kože ili umjetne (rekonstituirane) kože</td>
 <td colspan="2">Šivanje ili sklapanje dvije ili više komada kože ili umjetne (rekonstituirane) kože</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 4910<br> </td>
 <td>Keramički kalendari bilo kakve vrste, tiskani, uključujući kalendare sa satom, ukrašeni</td>
 <td colspan="2">Ukrašavanje odnosnog keramičkog proizvoda, pod uvjetom da se zbog toga ukrašavanja dobiveni proizvedi svrstavaju u drugi tarifni broj od onoga upotrijebljenih proizvoda</td>
 </tr>
-
 <tr>
 <td></td>
 <td>6401 do 6405<br> </td>
 <td>Obuća<br> </td>
 <td colspan="2">Proizvodnja iz materijala bilo kojeg tarifnog broja osim spajanja gornjišta na unutarnje potplate ili druge dijelove potplata iz tarifnog broja 6406.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 6911 do<br> ex 6913</td>
 <td>Keramičko stolno i kuhinjsko posuđe, ostali predmeti za kućanstvo i toaletnu upotrebu; figurice i ostali ukrasni keramički proizvodi, ukrašeni</td>
 <td colspan="2">Ukrašavanje odnosnog keramičkog proizvoda, pod uvjetom da se zbog toga ukrašavanja dobiveni proizvedi svrstavaju u drugi tarifni broj od onoga upotrijebljenih proizvoda</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 7117<br> </td>
 <td>Keramičke imitacije nakita, ukrašene<br> </td>
 <td colspan="2">Ukrašavanje odnosnog keramičkog proizvoda, pod uvjetom da se zbog toga ukrašavanja dobiveni proizvedi svrstavaju u drugi tarifni broj od onoga upotrijebljenih proizvoda</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 8482<br> </td>
 <td>Kuglični, valjkasti ili igličasto-valjkasti ležajevi, sastavljeni (2)</td>
 <td colspan="2">Sastavljanje nakon termička obrade, brušenja i laštenja unutarnjih i vanjskih prstenova</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 8520</td>
 <td>Magnetofoni s ugrađenim uređajima za reprodukciju zvuka ili bez njih</td>
 <td colspan="2">Proizvodnja u kojoj povećanje vrijednosti radi sastavljanja i, ako je primjenjivo, uključivanja dijelova s porijeklom iz države sastavljanja, predstavlja najmanje 45% cijene proizvoda fco tvornica<br> Ako uvjet od 45% nije ispunjen, smatra se da uređaj potječe iz države porijekla onih dijelova čija cijena fco tvornica predstavlja više od 35% cijene uređaja fco tvornica <br> Ako je uvjet od 35% ispunjen u dvije države, smatra se da uređaj potječe iz države porijekla onih dijelova koji predstavljaju veći postotak</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 8523 20 90<br> </td>
 <td>Nesnimljene 31-inčne mikrodiskete, preformatirane ili ne, s analognim signalom za provjeravanje kakvoće sloja prevlake diskete ili bez njega<br> </td>
 <td colspan="2">Sklapanje diskete (uključujući umetanje magnetskog diska i sklapanje košuljice) uz proizvodnju:<br> ili magnetskog diska (uključujući laštenje) ili gornjeg i donjeg dijela košuljice.<br> Ako niti disk niti gornji i donji dio košuljice nisu proizvedeni u državi gdje se disketa sastavlja, smatra se da disketa potječe iz države porijekla sastavnica koje predstavljaju najviši postotak cijene fco tvornica. Samo sklapanje diskete (uključujući umetanje magnetskog diska i sklapanje košuljice) i pakiranje ne daje status proizvoda s podrijetlom.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 8527<br> </td>
 <td>Prijemnici za radiodifuziju, uključujući i prijemnike kombinirane u istom kućištu s aparatom za snimanje ili reprodukciju zvuka ili satom<br> </td>
 <td colspan="2">Proizvodnja u kojoj povećanje vrijednosti radi sastavljanja i, ako je primjenjivo, uključivanja dijelova s porijeklom iz države sastavljanja, predstavlja najmanje 45% cijene proizvoda fco tvornica<br> Ako uvjet od 45% nije ispunjen, smatra se da uređaj potječe iz države porijekla onih dijelova čija cijena fco tvornica predstavlja više od 35% cijene uređaja fco tvornica<br> Ako je uvjet od 35% ispunjen u dvije države, smatra se da uređaj potječe iz države porijekla onih dijelova koji predstavljaju veći postotak</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 8528<br> </td>
 <td>Televizijski prijemnici (osim videotunera, televizijske projekcijske opreme i video monitora), bez obzira kombinirani ili nekombinirani u istom kućištu sa radio-prijemnicima ili aparatima za snimanje ili reprodukciju zvuka, ali bez aparata za snimanje ili reprodukciju slike<br> </td>
 <td colspan="2">Proizvodnja u kojoj povećanje vrijednosti radi sastavljanja i, ako je primjenjivo, uključivanja dijelova s porijeklom iz države sastavljanja, predstavlja najmanje 45% cijene proizvoda fco tvornica<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ako uvjet od 45% nije ispunjen, smatra se da uređaj potječe iz države porijekla onih dijelova čija cijena fco tvornica predstavlja više od 35% cijene uređaja fco tvornica<br> Ako je uvjet od 35% ispunjen u dvije države, smatra se da uređaj potječe iz države porijekla onih dijelova koji predstavljaju veći postotak</td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 8542<br> </td>
 <td>Integrirani krugovi<br> </td>
 <td colspan="2">Operacija širenja (kada se integrirani krugovi formiraju na poluvodičkom supstratu selektivnim uvođenjem odgovarajuće primjese<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 9009<br> </td>
 <td>Aparati za fotokopiranje s ugrađenim optičkim sustavom ili aparati za kontaktno kopiranje<br> </td>
 <td colspan="2">Sklapanje fotokopirnih uređaja uz proizvodnju remena, bubnja, valjaka, stranica, ležajeva, vijaka i matica<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 9113<br> </td>
 <td>Remeni, trake i narukvice za ručne satove i dijelovi za remene, trake i narukvice od tkanine<br> </td>
 <td colspan="2">Proizvodnja u kojoj vrijednost upotrijebljenog materijala ne premašuje 40% cijene proizvoda fco tvornica<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 9401 i<br> ex 9403</td>
 <td>Keramička sjedala (osim onih iz tarifnog broja 9402), uključujući ona koja se mogu pretvoriti u ležajeve ili drugi namještaj, te njihovi dijelovi, ukrašeni<br> </td>
 <td colspan="2">Ukrašavanje odnosnog keramičkog proizvoda, pod uvjetom da se zbog toga ukrašavanja dobiveni proizvedi svrstavaju u drugi tarifni broj od onoga upotrijebljenih proizvoda<br> </td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td>ex 9405<br> </td>
 <td>Keramičke svjetiljke i druga svjetleća tijela, uključujući reflektore i njihove dijelove, koji nisu spomenuti niti obuhvaćeni na drugom mjestu; osvijetljeni znakovi, osvijetljene pločice s imenima i slično, s trajno pričvršćenim svjetlosnim izvorom te njihovi dijelovi na drugom mjestu nespomenuti niti obuhvaćeni<br> </td>
 <td colspan="2">Ukrašavanje odnosnog keramičkog proizvoda, pod uvjetom da se zbog toga ukrašavanja dobiveni proizvedi svrstavaju u drugi tarifni broj od onoga upotrijebljenih proizvoda<br> </td>
 </tr>
-
 <tr>
 <td colspan="4"><sup>(1)</sup> Gdje ovi uvjeti nisu ispunjeni, smatra se da meso (klaonični proizvodi) imaju podrijetlo države u kojoj su životinje od kojih je dobiveno tovljene ili uzgajane najduže vrijeme.<br> <sup>(2)</sup> Izraz »sastavljen« uključuje djelomično sastavljene dijelove, ali isključuje dijelove u nesastavljenom stanju.<br> </td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -7419,7 +7305,6 @@ U ovim posebnim slučajevima izrada je nepotpuna ako nisu izvršeni postupci zav
 <td></td>
 <td></td>
 </tr>
-
 </table>
 
 ### PRILOG 24 A — ZAHTJEV — ZA IZDAVANJE MIŠLJENJA O ISPUNJENJU GOSPODARSKIH UVJETA
@@ -7427,62 +7312,51 @@ U ovim posebnim slučajevima izrada je nepotpuna ako nisu izvršeni postupci zav
 Podaci o podnositelju zahtjeva:
 
 <table>
-
 <tr>
 <td>Naziv tvrtke:</td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>Adresa:</td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>Osoba za kontakt:</td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>Telefon:</td>
 <td></td>
 <td>Telefaks:</td>
 <td></td>
 </tr>
-
 </table>
 
 Podaci o robi koja se uvozi/izvozi:
 
 <table>
-
 <tr>
 <td>Naziv robe:</td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>Tarifni broj:</td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>Vrijednost robe:</td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>Količina robe:</td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>Inozemni partner (naziv i adresa)</td>
 <td></td>
 <td>Zemlja:</td>
 <td></td>
 </tr>
-
 </table>
 
 Podaci o robi/usluzi koja se ugrađuje/obavlja u RH /izvan RH:
@@ -9114,38 +8988,30 @@ d) prosječna neto težina po jedinici pakiranih banana stoga se utvrđuje za sv
 ### Obrazac iz članka 204.b stavka 1. Uredbe
 
 <table><tbody>
-
 <tr>
 <td colspan="7">POTVRDA O TEŽINI BANANA</td>
 </tr>
-
 <tr>
 <td rowspan="2" colspan="4">1. Ime osobe ovlaštene za vaganje</td>
 <td colspan="3">2. Datum i broj izdavanja potvrde o težini</td>
 </tr>
-
 <tr>
 <td colspan="3">3. Oznaka trgovca</td>
 </tr>
-
 <tr>
 <td colspan="4">4. Identitet prijevoznog sredstva u dolasku</td>
 <td colspan="3">5. Država podrijetla</td>
 </tr>
-
 <tr>
 <td colspan="4">6. Broj i vrsta paketa</td>
 <td colspan="3">7. Ukupno utvrđena neto težina</td>
 </tr>
-
 <tr>
 <td colspan="7">8. Oznaka (oznake) robe</td>
 </tr>
-
 <tr>
 <td colspan="7">9. Pregledane jedinice pakiranih banana (upis bruto težine za svaku izvaganu jedinicu)</td>
 </tr>
-
 <tr>
 <td>1</td>
 <td></td>
@@ -9154,7 +9020,6 @@ d) prosječna neto težina po jedinici pakiranih banana stoga se utvrđuje za sv
 <td>15</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2</td>
 <td></td>
@@ -9163,7 +9028,6 @@ d) prosječna neto težina po jedinici pakiranih banana stoga se utvrđuje za sv
 <td>16</td>
 <td></td>
 </tr>
-
 <tr>
 <td>3</td>
 <td></td>
@@ -9172,7 +9036,6 @@ d) prosječna neto težina po jedinici pakiranih banana stoga se utvrđuje za sv
 <td>17</td>
 <td></td>
 </tr>
-
 <tr>
 <td>4</td>
 <td></td>
@@ -9181,7 +9044,6 @@ d) prosječna neto težina po jedinici pakiranih banana stoga se utvrđuje za sv
 <td>18</td>
 <td></td>
 </tr>
-
 <tr>
 <td>5</td>
 <td></td>
@@ -9190,7 +9052,6 @@ d) prosječna neto težina po jedinici pakiranih banana stoga se utvrđuje za sv
 <td>19</td>
 <td></td>
 </tr>
-
 <tr>
 <td>6</td>
 <td></td>
@@ -9199,7 +9060,6 @@ d) prosječna neto težina po jedinici pakiranih banana stoga se utvrđuje za sv
 <td>20</td>
 <td></td>
 </tr>
-
 <tr>
 <td>7</td>
 <td></td>
@@ -9208,11 +9068,9 @@ d) prosječna neto težina po jedinici pakiranih banana stoga se utvrđuje za sv
 <td>21</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="7">10. Ukupna bruto težina pregledanih jedinica pakiranih banana:<br> 11. Broj jedinica pregledanih pakiranih banana:<br> 12. Prosječna bruto težina:<br> 13. Tara:<br> 14. Prosječna neto težina po jedinici pakiranih banana:</td>
 </tr>
-
 <tr>
 <td colspan="7">15. Potpis i pečat osobe ovlaštene za vaganje:<br> 16. Mjesto i datum:</td>
 </tr>

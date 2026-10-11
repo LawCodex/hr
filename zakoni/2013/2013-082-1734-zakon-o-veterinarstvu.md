@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-30
-last_amended: 2013-12-11
+last_amended: 2021-05-14
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "82/13, 148/13"
+narodne_novine: "82/13, 148/13, 115/18, 52/21"
 amendments:
   - "NN 148/2013 (3151) Zakon o izmjenama i dopunama Zakona o veterinarstvu"
+  - "NN 115/2018 (2252) Zakon o izmjenama i dopuni Zakona o veterinarstvu"
+  - "NN 52/2021 (1053) Zakon o izmjenama i dopunama Zakona o veterinarstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/82/1734"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 82/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/82/1734).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 148/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 148/2013, NN 115/2018, NN 52/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3652,3 +3654,673 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o veterinarstvu (NN 115/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2252*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O VETERINARSTVU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o veterinarstvu, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/177
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O VETERINARSTVU**
+
+### Članak 1.
+
+U Zakonu o veterinarstvu (»Narodne novine«, br. 82/13. i 148/13.) u članku 3. točka 63. mijenja se i glasi:
+
+»63. Uprava – Uprava nadležna za poslove veterinarstva, ustrojstvena jedinica Ministarstva koja organizira poslove službene veterinarske kontrole i nadzora nad provedbom veterinarskih propisa i drugih odgovarajućih standarda i preporuka Svjetske organizacije za zdravlje životinja (u daljnjem tekstu: OIE).«.
+
+Iza točke 76. dodaje se točka 77. koja glasi:
+
+»77. Državni inspektorat – središnji državni ured koji obavlja inspekcijske poslove na području Republike Hrvatske.«.
+
+### Članak 2.
+
+U članku 40. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Iznimno od odredbe stavka 1. ovoga članka, označavanje uzgojno valjanih životinja, u skladu s propisanim uvjetima iz stavka 9. ovoga članka, obavlja Hrvatska agencija za poljoprivredu i hranu (u daljnjem tekstu: Agencija).
+
+(3) Kopitari podliježu obveznom označavanju koje provode Ministarstvo, ovlaštene uzgojne organizacije, Agencija i ovlaštene veterinarske organizacije.«.
+
+Stavak 10. mijenja se i glasi:
+
+»(10) Ministarstvo uspostavlja Jedinstveni registar domaćih životinja (u daljnjem tekstu: JRDŽ) kao integriranu bazu podataka koja obuhvaća Registar farmi, Jedinstveni registar goveda, Jedinstveni registar ovaca i koza, Jedinstveni registar svinja, Središnji registar kopitara te registre drugih vrsta životinja.«.
+
+Stavak 12. briše se.
+
+### Članak 3.
+
+U članku 41. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Nadležno tijelo za provedbu uredbi Europske unije (u daljnjem tekstu: uredbe EU) u području identifikacije i registracije goveda (uključujući vrste bizon i bivol) te dostavu informacija prema Europskoj komisiji i nadležnim tijelima drugih država članica je Ministarstvo, a za provedu nadzora Državni inspektorat.
+
+(2) Ministarstvo uspostavlja Jedinstveni registar goveda kao računalnu bazu podataka o označenim i registriranim govedima u skladu s odredbama članka 5. Uredbe (EZ) br. 1760/2000.«.
+
+### Članak 4.
+
+U članku 42. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Nadležno tijelo za provedbu uredbi EU u području identifikacije i registracije ovaca i koza te dostavu informacija prema Europskoj komisiji i nadležnim tijelima drugih država članica je Ministarstvo, a za provedbu nadzora Državni inspektorat.
+
+(2) Ministarstvo uspostavlja Jedinstveni registar ovaca i koza kao računalnu bazu podataka o označenim i registriranim ovcama i kozama u skladu s odredbama članka 8. Uredbe (EZ) br. 21/2004.«.
+
+### Članak 5.
+
+Članak 43. mijenja se i glasi:
+
+»(1) Nadležno tijelo za provedbu Uredbe (EU) br. 504/2008 u području identifikacije i registracije kopitara te dostavu informacija prema Europskoj komisiji i nadležnim tijelima drugih država članica je Ministarstvo, a provedbu nadzora Državni inspektorat.
+
+(2) Identifikacijske dokumente za kopitare izdaju ovlaštene uzgojne organizacije i Ministarstvo.
+
+(3) Ministarstvo vodi Središnji registar kopitara koji je sastavni dio JRDŽ-a.
+
+(4) Ministarstvo distribuira i vodi evidenciju izdanih mikročipova za označavanje kopitara.
+
+(5) Mjere propisane člankom 19. Uredbe (EZ) br. 504/2008 provodi subjekt u poslovanju s hranom kada je riječ o klanju kopitara odnosno odobreni prijevoznik nusproizvoda, kada se radi o usmrćivanju ili uginuću.
+
+(6) Ministar je ovlašten donijeti pravilnike, naredbe i naputke za provedbu uredbi EU i propisa EU donesenih na temelju uredbi EU koje uređuju područje identifikacije i registracije kopitara.«.
+
+### Članak 6.
+
+U članku 45. stavak 2. mijenja se i glasi:
+
+»(2) Svi psi, mačke i pitome vretice koji su označeni moraju biti upisani u Upisnik kućnih ljubimaca koji vodi Ministarstvo.«.
+
+### Članak 7.
+
+Članak 137. mijenja se i glasi:
+
+»Inspekcijske i druge poslove u području veterinarstva i sigurnosti hrane provode veterinarski inspektori i granični veterinarski inspektori na temelju ovlasti danih Zakonom o državnom inspektoratu, u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona te propisima EU.«.
+
+### Članak 8.
+
+Članak 138. briše se.
+
+### Članak 9.
+
+Članak 139. briše se.
+
+### Članak 10.
+
+Članak 140. briše se.
+
+### Članak 11.
+
+Članak 141. briše se.
+
+### Članak 12.
+
+Članak 142. briše se.
+
+### Članak 13.
+
+U članku 144. stavci 2., 3, 4. i 5. brišu se.
+
+### Članak 14.
+
+Članak 146. briše se.
+
+### Članak 15.
+
+Članak 147. briše se.
+
+### Članak 16.
+
+Članak 149. briše se.
+
+### Članak 17.
+
+Članak 150. briše se.
+
+### Članak 18.
+
+Članak 151. briše se.
+
+### Članak 19.
+
+U članku 177. stavku 1. točke 3., 4. i 5. brišu se.
+
+Dosadašnja točka 6. postaje točka 3.
+
+### Članak 20.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim članaka 1., 7., 8., 9., 10., 11., 12., 13., 14., 15., 16., 17., 18. i 19. ovoga Zakona koji stupaju na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/213
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o veterinarstvu (NN 52/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/52/1053*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VETERINARSTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o veterinarstvu, koji je Hrvatski sabor donio na sjednici 7. svibnja 2021.
+
+Klasa: 011-01/21-01/33
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 12. svibnja 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VETERINARSTVU**
+
+#### Članak 1.
+
+U Zakonu o veterinarstvu (»Narodne novine«, br. 82/13., 148/13. i 115/18.) u članku 2. stavku 1. točka 5. mijenja se i glasi:
+
+»5. Uredbe (EU) br. 576/2013 Europskog parlamenta i Vijeća od 12. lipnja 2013. o nekomercijalnom premještanju kućnih ljubimaca i o stavljanju izvan snage Uredbe (EZ) br. 998/2003 (SL L 178, 11. 8. 2015.),«.
+
+Točke 10. i 11. brišu se.
+
+Dosadašnje točke 12., 13. i 14. postaju točke 10., 11. i 12.
+
+Dosadašnja točka 15. briše se.
+
+Dosadašnja točka 16., koja postaje točka 13., mijenja se i glasi:
+
+»13. Uredbe 2017/625 Europskog parlamenta i Vijeća od 15. ožujka 2017. o službenim kontrolama i drugim službenim aktivnostima kojima se osigurava primjena propisa o hrani i hrani za životinje, pravila o zdravlju i dobrobiti životinja, zdravlju bilja i sredstvima za zaštitu bilja, o izmjeni uredaba (EZ) br. 999/2001, (EZ) br. 396/2005, (EZ) br. 1069/2009, (EZ) br. 1107/2009, (EU) br. 1151/2012, (EU) br. 652/2014, (EU) 2016/429 i (EU) 2016/2031 Europskog parlamenta i Vijeća, uredaba Vijeća (EZ) br. 1/2005 i (EZ) br. 1099/2009 i direktiva Vijeća 98/58/EZ, 1999/74/EZ, 2007/43/EZ, 2008/119/EZ i 2008/120/EZ te o stavljanju izvan snage uredaba (EZ) br. 854/2004 i (EZ) br. 882/2004 Europskog parlamenta i Vijeća, direktiva Vijeća 89/608/EEZ, 89/662/EEZ, 90/425/EEZ, 91/496/EEZ, 96/23/EZ, 96/93/EZ i 97/78/EZ te Odluke Vijeća 92/438/EEZ (Uredba o službenim kontrolama) (SL L 95, 7. 4. 2017.); (u daljnjem tekstu: Uredba (EU) 2017/625),«.
+
+Dosadašnje točke 17., 18. i 19. postaju točke 14., 15. i 16.
+
+Dosadašnja točka 20., koja postaje točka 17., mijenja se i glasi:
+
+»17. Provedbene uredbe Komisije (EU) 2015/1375 оd 10. kolovoza 2015. o utvrđivanju posebnih pravila za službene kontrole trihinele u mesu (SL L 212, 11. 8. 2015.); (u daljnjem tekstu: Provedbena uredba Komisije (EU) 2015/1375),«.
+
+Dosadašnja točka 21. postaje točka 18.
+
+Dosadašnja točka 22., koja postaje točka 19., mijenja se i glasi:
+
+»19. Provedbene uredbe Komisije (EU) 2015/262 оd 17. veljače 2015. o utvrđivanju pravila u skladu s direktivama Vijeća 90/427/EEZ i 2009/156/EZ s obzirom na metode za identifikaciju kopitara (Uredba o putovnici za kopitare) (SL L 59, 3. 3. 2015.); (u daljnjem tekstu: Provedbena uredba Komisije (EU) 2015/262),«.
+
+Dosadašnje točke 23. do 34. postaju točke 20. do 31.
+
+Iza točke 31. briše se točka i stavlja zarez te se dodaje nova točka 32. koja glasi:
+
+»32. Delegirane uredbe Komisije (EU) 2019/2035 оd 28. lipnja 2019. o dopuni Uredbe (EU) 2016/429 Europskog parlamenta i Vijeća u pogledu pravila za objekte u kojima se drže kopnene životinje i valionice te u pogledu pravila o sljedivosti određenih držanih kopnenih životinja i jaja za valjenje (SL L 314, 5. 12. 2019.); (u daljnjem tekstu: Delegirana uredba Komisije (EU) 2019/2035).«.
+
+U stavku 2. točke 2., 3. i 4. brišu se.
+
+Dosadašnje točke 5., 6. i 7. postaju točke 2., 3. i 4.
+
+Točke 8. i 9. brišu se.
+
+Dosadašnje točke 10. do 13. postaju točke 5. do 8.
+
+#### Članak 2.
+
+U članku 3. točka 3. mijenja se i glasi:
+
+»3. Čelnik Uprave – službena osoba koja rukovodi radom upravne organizacije nadležne za veterinarstvo u sastavu ministarstva nadležnog za poljoprivredu.«.
+
+Točka 4. mijenja se i glasi:
+
+»4. Dokumentacijski pregled – kako je utvrđeno za provjeru dokumentacije člankom 3. točkom 41. Uredbe (EU) 2017/625.«.
+
+Točka 9. mijenja se i glasi:
+
+»9. Fizički pregled pošiljke – kako je utvrđeno za fizičku provjeru člankom 3. točkom 43. Uredbe (EU) 2017/625.«.
+
+Točka 14. mijenja se i glasi:
+
+»14. Identifikacijski pregled – kako je utvrđeno za provjeru identifikacije člankom 3. točkom 42. Uredbe (EU) 2017/625.«.
+
+Točka 35. briše se.
+
+Dosadašnje točke 36. do 52. postaju točke 35. do 51.
+
+Dosadašnja točka 53., koja postaje točka 52., mijenja se i glasi:
+
+»52. Službene kontrole – kako je utvrđeno člankom 2. stavkom 1. Uredbe (EU) 2017/625.«.
+
+Dosadašnje točke 54. do 61. postaju točke 53. do 60.
+
+Dosadašnja točka 62., koja postaje točka 61., mijenja se i glasi:
+
+»61. Unošenje – kako je utvrđeno člankom 3. točkom 40. Uredbe (EU) 2017/625 za ulazak u Europsku uniju.«.
+
+Dosadašnja točka 63., koja postaje točka 62., mijenja se i glasi:
+
+»62. Uprava – upravna organizacija nadležna za veterinarstvo u sastavu ministarstva nadležnog za poljoprivredu.«.
+
+Dosadašnje točke 64. do 76. postaju točke 63. do 75.
+
+Dosadašnja točka 77., koja postaje točka 76., mijenja se i glasi:
+
+»76. Državni inspektorat – državna upravna organizacija koja obavlja inspekcijske poslove na području Republike Hrvatske.«.
+
+Iza točke 76. dodaju se nova točka 77. i točke 78., 79. i 80. koje glase:
+
+»77. Delegirana tijela kojima su povjereni poslovi službenih kontrola – delegirana tijela kako su definirana Uredbom (EU) 2017/625, za provedbu službenih kontrola i drugih službenih aktivnosti u područjima iz članka 1. stavka 2. točaka a), c), e) i f) Uredbe (EU) 2017/625.
+
+78. Delegirana tijela kojima su povjereni poslovi drugih službenih aktivnosti – delegirana tijela za provedbu drugih službenih aktivnosti kako su definirana Uredbom (EU) 2017/625 u području iz članka 1. stavka 2. točke d) Uredbe (EU) 2017/625.
+
+79. Službeni veterinar – kako je definiran Uredbom (EU) 2017/625 je veterinarski inspektor i ovlašteni veterinar.
+
+80. Službena osoba za certificiranje – kako je definirana Uredbom (EU) 2017/625 je veterinarski inspektor te ovlašteni veterinar kojeg za certificiranje ovlasti glavni državni inspektor.«.
+
+#### Članak 3.
+
+U članku 7. stavku 5. riječi: »Uprava mora« zamjenjuju se riječima: »Uprava i Državni inspektorat, u okviru svojih nadležnosti određenih propisima o službenim kontrolama i ovim Zakonom, moraju«.
+
+U stavku 6. riječi: »Uprava osigurava« zamjenjuju se riječima: »Državni inspektorat, u okviru svojih nadležnosti određenih propisima o službenim kontrolama i ovim Zakonom, osigurava«.
+
+#### Članak 4.
+
+U članku 17. stavak 5. briše se.
+
+#### Članak 5.
+
+U članku 43. stavak 1. mijenja se i glasi:
+
+»(1) Nadležno tijelo za provedbu Provedbene uredbe Komisije (EU) 2015/262 i Delegirane uredbe Komisije (EU) 2019/2035 u području identifikacije i registracije kopitara te dostavu informacija prema Europskoj komisiji i nadležnim tijelima drugih država članica je Ministarstvo, a za provedbu nadzora Državni inspektorat.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Mjere propisane člankom 34. Provedbene uredbe Komisije (EU) 2015/262, pod nadzorom službenog veterinara, provodi subjekt u poslovanju s hranom kada je riječ o klanju kopitara odnosno odobreni prijevoznik nusproizvoda kada se radi o usmrćivanju ili uginuću.«.
+
+#### Članak 6.
+
+U članku 49. stavku 3. riječi: »i Prilogom I., Odjeljkom IV. Poglavljem X. Uredbe (EZ) br. 854/2004« brišu se.
+
+#### Članak 7.
+
+Naslov iznad članka 55. mijenja se i glasi: »Pregled tijekom prijevoza«.
+
+U članku 55. stavak 1. mijenja se i glasi:
+
+»(1) Nadzor prijevoza životinja, proizvoda i nusproizvoda životinjskog podrijetla i hrane za životinje obavljaju mobilne jedinice veterinarskih inspektora, a ovlaštene su zaustavljati vozila koja prevoze životinje, proizvode i nusproizvode životinjskog podrijetla i hranu za životinje.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+Dosadašnji stavak 4., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Način i postupke obavljanja veterinarskih pregleda, zaustavljanja vozila, osposobljavanje članova mobilnih jedinica, opremu i oznake mobilnih jedinica te njihovih vozila pravilnikom propisuje ministar nadležan za poljoprivredu, uz prethodnu suglasnost glavnog državnog inspektora, ministra nadležnog za unutarnje poslove i ministra nadležnog za promet.«.
+
+#### Članak 8.
+
+U članku 62. stavak 1. mijenja se i glasi:
+
+»(1) Postupak certificiranja i izdavanja službenih certifikata i potvrda, kada je to primjenjivo, u pogledu usklađenosti s jednim ili više zahtjeva utvrđenih pravilima iz članka 1. stavka 2. točke a) kada se radi o sigurnosti hrane životinjskog podrijetla te točaka c), d), e), i f) Uredbe 2017/625 provodi veterinarski inspektor te ovlašteni veterinar delegiranog tijela kojem je Državni inspektorat povjerio posao službenog certificiranja.«.
+
+Stavci 2. i 3. brišu se.
+
+Dosadašnji stavci 4. do 8. postaju stavci 2. do 6.
+
+#### Članak 9.
+
+Članak 66. mijenja se i glasi:
+
+»(1) Nekomercijalno premještanje kućnih ljubimaca preko granice Republike Hrvatske obavlja se u skladu s Uredbom (EU) 576/2013.
+
+(2) Ministar pravilnikom propisuje detaljna pravila za provedbu Uredbe (EU) 576/2013 iz stavka 1. ovoga članka u odnosu na uvjete koji se primjenjuju prilikom nekomercijalnog premještanja kućnih ljubimaca u Republiku Hrvatsku.«.
+
+#### Članak 10.
+
+Naslovi iznad članaka i članci 68. do 76. brišu se.
+
+#### Članak 11.
+
+Naslovi iznad članaka i članci 78. do 89. brišu se.
+
+#### Članak 12.
+
+U članku 101. stavku 1. riječi: »članaka 37. i 87. ovoga Zakona« zamjenjuju se riječima: »članka 37. ovoga Zakona i korisnici objekata u poslovanju s hranom životinjskog podrijetla«.
+
+#### Članak 13.
+
+U članku 103. stavku 1. riječi: »članaka 37. i 87. ovoga Zakona« zamjenjuju se riječima: »članka 37. ovoga Zakona te iz objekata u poslovanju s hranom životinjskog podrijetla«.
+
+#### Članak 14.
+
+U članku 109. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Poslove iz stavka 1. točaka 1., 7., 9., 11. i 13. ovoga članka te članka 17. ovoga Zakona može obavljati samo veterinarska ambulanta, odnosno veterinarska stanica koju na vrijeme od sedam godina ovlasti Uprava kao delegirano tijelo kojemu su povjereni poslovi službenih aktivnosti pod uvjetima propisanima člankom 31. stavkom 1. Uredbe (EU) 2017/625.
+
+(4) Iznimno od odredbe stavka 3. ovoga članka, za određene poslove drugih službenih aktivnosti kao stručnih poslova od javnog interesa iz stavka 3. ovoga članka, kada nije moguće ovlastiti veterinarsku organizaciju, Uprava može ovlastiti i doktore veterinarske medicine kao fizičke osobe, pod uvjetima propisanima člankom 31. stavkom 2. Uredbe (EU) 2017/625.«.
+
+Iza stavka 4. dodaju se novi stavci 5. i 6. koji glase:
+
+»(5) Poslove iz stavka 1. točke 12. ovoga članka i članka 115. stavka 1. ovoga Zakona može obavljati samo veterinarska organizacija koju ovlasti Državni inspektorat kao delegirano tijelo pod uvjetima propisanima člankom 29. Uredbe (EU) 2017/625.
+
+(6) Iznimno od odredbe stavka 5. ovoga članka, kada nije moguće ovlastiti delegirano tijelo, za određene poslove drugih službenih aktivnosti kao stručnih poslova od javnog interesa navedenih u članku 115. stavku 1. ovoga Zakona, Državni inspektorat može ovlastiti i doktore veterinarske medicine, kao fizičke osobe, pod uvjetima propisanim člankom 30. Uredbe (EU) br. 2017/625.«.
+
+Dosadašnji stavci 5. do 9. postaju stavci 7 do 11.
+
+#### Članak 15.
+
+Članak 115. mijenja se i glasi:
+
+»(1) Državni inspektorat može ovlastiti veterinarske organizacije kao delegirana tijela kojima su povjereni poslovi službenih kontrola za obavljanje pojedinih poslova službenih kontrola i drugih službenih aktivnosti u područjima iz članka 1. stavka 2. točaka a), c), e) i f) Uredbe (EU) 2017/625 u skladu s člankom 28. Uredbe (EU) 2017/625 i odredbama propisa o službenim kontrolama.
+
+(2) Iznimno od odredbe stavka 1. ovog članka, kada nije moguće ovlastiti veterinarske organizacije iz stavka 1. ovoga članka, za provedbu drugih službenih aktivnosti kao stručnih poslova od javnog interesa, u skladu s člankom 109. stavkom 6. ovoga Zakona i člankom 30. Uredbe (EU) 2017/625, Državni inspektorat može ovlastiti i doktore veterinarske medicine kao fizičke osobe.
+
+(3) Delegirana tijela kojima su povjereni poslovi službenih kontrola iz stavka 1. ovoga članka moraju ispunjavati uvjete propisane člankom 29. Uredbe (EU) 2017/625, a ovlašteni veterinari kao fizičke osobe, uvjete iz članka 30. Uredbe (EU) 2017/625.
+
+(4) Državni inspektorat s delegiranim tijelom kojemu su povjereni poslovi službenih kontrola odnosno s fizičkom osobom kao ovlaštenim veterinarom zaključuje ugovor o povjeravanju poslova na vrijeme od sedam godina.
+
+(5) Veterinarska inspekcija provodi službene kontrole nad radom delegiranih tijela kojima su povjereni poslovi službenih kontrola i ovlaštenih veterinara kao fizičkih osoba kojima su povjereni poslovi drugih službenih aktivnosti kao stručnih poslova od javnog interesa.
+
+(6) Ako se nadzorom, odnosno revizijom utvrdi da delegirana tijela kojima su povjereni poslovi službenih kontrola ili fizičke osobe iz stavka 3. ovoga članka ne izvršavaju ugovorne obveze, Državni inspektorat može raskinuti ugovor o povjeravanju poslova, a ako ne poduzmu odgovarajuće aktivnosti i pravodobne korekcije nesukladnosti čije neotklanjanje može predstavljati rizik za zdravlje ljudi i životinja, ugovor se može raskinuti bez otkaznog roka.
+
+(7) Odluka o davanju ovlasti za obavljanje poslova iz ovoga članka donosi se na temelju javnoga natječaja.
+
+(8) Javni natječaj iz stavka 7. ovoga članka raspisuje Državni inspektorat, a provodi ga povjerenstvo koje imenuje glavni državni inspektor.
+
+(9) Odluku o davanju ovlasti najpovoljnijem ponuditelju Državni inspektorat donosi na prijedlog povjerenstva iz stavka 8. ovoga članka.
+
+(10) Glavni državni inspektor, na temelju odluke iz stavka 9. ovoga članka, s delegiranim tijelom kojemu su povjereni poslovi službenih kontrola odnosno ovlaštenim veterinarom kao fizičkom osobom kojoj su povjereni poslovi drugih službenih aktivnosti sklapa ugovor o povjeravanju poslova.
+
+(11) Ugovor iz stavka 10. ovoga članka obvezno sadrži odredbe koje su propisane člankom 11. stavkom 2. ovoga Zakona.
+
+(12) Ugovor iz stavka 10. ovoga članka prestaje protekom vremena na koji je sklopljen, otkazom ili raskidom.
+
+(13) Državni inspektorat može i prije isteka roka otkazati ugovor iz stavka 10. ovoga članka, bez otkaznog roka ili uz otkazni rok, ako utvrdi da delegirano tijelo kojemu su povjereni poslovi službenih kontrola:
+
+– ne obavlja ili nepotpuno obavlja povjerene poslove,
+
+– obavlja povjerene poslove protivno ugovornim odredbama.«.
+
+#### Članak 16.
+
+U članku 122. stavak 2. mijenja se i glasi:
+
+»(2) Iznimno od odredbe stavka 1. ovoga članka, pojedine poslove iz članka 109. stavka 3. ovoga Zakona može obavljati i veterinarska praksa u slučajevima iz članka 109. stavaka 3., 4. i 6. ovoga Zakona.«.
+
+#### Članak 17.
+
+U nazivu odjeljka 10. iznad članka 132. riječi: »PRISTOJBE, NAKNADE I« brišu se.
+
+Naslov iznad članka i članak 132. brišu se.
+
+#### Članak 18.
+
+U naslovu iznad članka 133. oznaka: »b)« briše se.
+
+#### Članak 19.
+
+Iza članka 137. dodaju se članci 137.a i 137.b koji glase:
+
+»Članak 137.a
+
+Veterinarski inspektori pri provedbi inspekcijskog nadzora vode postupak, sastavljaju zapisnik i donose rješenja kada su za to ovlašteni odredbama propisa EU, ovoga Zakona te propisima donesenim na temelju ovoga Zakona.
+
+#### Članak 137.b
+
+(1) Ako veterinarski inspektor u obavljanju inspekcijskog nadzora utvrdi da ovaj Zakon ili drugi propis na temelju kojeg je ovlašten postupati nije primijenjen ili da nije pravilno primijenjen, naredit će rješenjem otklanjanje utvrđene nepravilnosti, određujući rok u kojem je pravna ili fizička osoba dužna postupiti.
+
+(2) Veterinarski inspektor rješenje iz stavka 1. ovoga članka donosi bez odgađanja, a najkasnije u roku od 15 dana od dana provedenog nadzora.«.
+
+#### Članak 20.
+
+U članku 143. riječi: »Uredbe (EZ) br. 882/2004 i Uredbe (EZ) br. 854/2004« zamjenjuju se riječima: »Uredbe (EU) 2017/625«.
+
+#### Članak 21.
+
+U članku 144. ispred riječi: »Protiv« stavlja se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Protiv rješenja veterinarskog inspektora i graničnog veterinarskog inspektora donesenog u prvom stupnju može se izjaviti žalba nadležnoj unutarnjoj ustrojstvenoj jedinici za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata.
+
+(3) Žalba iz stavka 2. ovoga članka ne odgađa izvršenje rješenja.«.
+
+#### Članak 22.
+
+U članku 152. točka 18. mijenja se i glasi:
+
+»18. privremeno zabraniti rad objekta u poslovanju s hranom životinjskog podrijetla ili u objektu u poslovanju s hranom za životinje ako u razdoblju duljem od 60 dana od dana izdavanja računa subjekt nije platio pristojbu utvrđenu posebnim provedbenim propisom o financiranju službenih kontrola odnosno privremeno zabraniti izdavanje certifikata svim subjektima koji nisu podmirili pristojbe za poslove certificiranja u roku od 60 dana od dana izdavanja računa, a do dana podmirenja pristojbi,«.
+
+U točki 27. iza riječi: »ovlašten« dodaju se riječi: »u skladu s odredbama ovoga Zakona,«.
+
+#### Članak 23.
+
+U članku 153. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Ovlašteni veterinar je doktor veterinarske medicine ovlašten za obavljanje poslova koji su na temelju ovoga Zakona preneseni na veterinarske organizacije i veterinarske prakse ili na njega kao fizičku osobu.
+
+(2) Za ovlaštenog veterinara iz stavka 1. ovoga članka može se imenovati veterinar koji ima najmanje šest mjeseci radnog iskustva u struci, licenciju i položen državni stručni ispit za ovlaštenog veterinara, dok za samostalnu provedbu poslova službenih kontrola i certificiranja ovlašteni veterinari moraju, u delegiranom tijelu kojemu su povjereni ovi poslovi, dodatno proći još i šest mjeseci rada pod nadzorom ovlaštenog veterinara s iskustvom od najmanje dvije godine samostalnog rada na istim poslovima, u svrhu stručnog osposobljavanja.«.
+
+Iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+
+»(6) Na prijedlog veterinarskog inspektora iz stavka 5. podstavka 2. ovoga članka, čelnik Uprave može primijeniti opomenu kao blažu mjeru i suspenziju ovlaštenja do okončanja postupka pred Upravom, Hrvatskom veterinarskom komorom ili stvarno nadležnim sudom.
+
+(7) Prijedlog za novo imenovanje ovlaštenog veterinara razriješenog na temelju stavka 5. podstavka 2. ovoga članka delegirano tijelo kojemu su povjereni poslovi službenih kontrola i/ili drugih službenih aktivnosti ili veterinarska praksa može podnijeti nakon što prođu najmanje tri godine od razrješenja.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 8. i 9.
+
+#### Članak 24.
+
+U članku 154. stavak 2. mijenja se i glasi:
+
+»(2) U skladu s opsegom poslova koji su povjereni veterinarskoj organizaciji ili veterinarskoj praksi ili njemu kao fizičkoj osobi, ovlašteni veterinar obavlja sljedeće poslove:
+
+– veterinarske preglede i kontrole na gospodarstvima, farmama, stočnim sajmovima, izložbama životinja i drugim objektima kada je za to ovlaštena veterinarska organizacija u kojoj je zaposlen,
+
+– službene kontrole hrane životinjskog podrijetla, hrane za životinje te nusproizvoda i od njih dobivenih proizvoda povjerenih delegiranom tijelu kojemu su povjereni poslovi službenih kontrola,
+
+– certificiranje,
+
+– izdavanje svjedodžbi o zdravstvenom stanju životinja.«.
+
+Iza stavka 2. dodaju se novi stavak 3. i stavak 4. koji glase:
+
+»(3) Pod odgovornošću ovlaštenog veterinara obavljaju se sljedeći poslovi povjereni ovlaštenim veterinarskim organizacijama ili veterinarskoj praksi ili njemu kao fizičkoj osobi:
+
+– provedba obveznog označavanja životinja te vođenje propisane evidencije o označavanju i prometu životinja,
+
+– provedba propisanih mjera za otkrivanje, sprječavanje, suzbijanje i kontrolu zaraznih ili nametničkih bolesti,
+
+– uzorkovanje dijagnostičkog materijala od životinja, proizvoda životinjskog podrijetla i hrane za životinje radi ispitivanja zdravstvenog stanja životinja odnosno zdravstvene ispravnosti proizvoda životinjskog podrijetla i hrane za životinje.
+
+(4) Ovlašteni veterinar ima pravo i obvezu:
+
+– zabraniti otpremu životinja, proizvoda životinjskog podrijetla i nusproizvoda životinjskog podrijetla ako se prilikom veterinarskog pregleda utvrdi ili posumnja da je pošiljka zaražena ili zdravstveno neispravna, ako potječe iz zaraženog područja, ako ne udovoljava drugim propisanim uvjetima zdravstvene ispravnosti, ako pošiljka nije propisno označena, ne prati je propisana i uredna dokumentacija, ako prijevozno sredstvo ne udovoljava propisanim veterinarskim uvjetima te o tomu neodgodivo izvijestiti veterinarskog inspektora,
+
+– provesti i druge veterinarske mjere iz ovoga Zakona ako je za to ovlašten.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+#### Članak 25.
+
+U članku 161. točke 8. do 12. mijenjaju se i glase:
+
+»8. ne podnese zahtjev za izdavanje jedinstvenog doživotnog identifikacijskog dokumenta za kopitare sukladno odredbama članka 58. stavka 3. Delegirane uredbe Komisije (EU) 2019/2035,
+
+9. ne osigura da se, u skladu s odredbama članka 83. Delegirane uredbe Komisije (EU) 2019/2035, kopitari nakon ulaska u Europsku uniju, te ako ostaju u Europskoj uniji, označe u skladu s člankom 58. iste Uredbe,
+
+10. ne osigura da držane kopitare u svakom trenutku prati njihov jedinstveni doživotni identifikacijski dokument u skladu s člankom 66. stavkom 1. Delegirane uredbe Komisije (EU) 2019/2035, osim u slučajevima iz stavka 2. istog članka,
+
+11. u skladu s člankom 66. stavkom 4. Delegirane uredbe Komisije (EU) 2019/2035 ne vrati jedinstveni doživotni identifikacijski dokument nadležnom tijelu koje ga je izdalo ili tijelu kojem je dodijeljena zadaća izdavanja u roku od 30 dana od uginuća ili gubitka kopitara,
+
+12. prije liječenja kopitara iz članka 37. stavka 3. Provedbene uredbe Komisije (EU) 2015/262, neopozivo ne proglasi kopitara životinjom koja nije namijenjena klanju radi prehrane ljudi,«.
+
+#### Članak 26.
+
+Članak 162. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 10.000,00 do 30.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. ne osigura da je njezin pas označen najkasnije 90 dana od dana štenjenja u skladu s člankom 45. stavkom 1. ovoga Zakona,
+
+2. ne upiše označenog psa, mačku i pitomu vreticu u Upisnik kućnih ljubimaca u skladu s člankom 45. stavkom 2. ovoga Zakona,
+
+3. ne prijavi nabavu psa odnosno odjavu psa u slučaju svakog gubitka posjeda životinje (nestanka, prodaje, darovanja, uginuća) u roku od 14 dana od nastalog događaja u skladu s člankom 45. stavkom 6. ovoga Zakona,
+
+4. premješta kućnog ljubimca, vrsta navedenih u Prilogu I. dijela A Uredbe (EU) 576/2013, iz Republike Hrvatske u drugu državu članicu ili iz druge države članice u Republiku Hrvatsku i ne ispunjava uvjete iz članka 6. Uredbe (EU) 576/2013,
+
+5. premješta kućnog ljubimca iz članka 7. stavka 1. Uredbe (EU) 576/2013 iz Republike Hrvatske u drugu državu članicu ili iz druge države članice u Republiku Hrvatsku i ne ispunjava uvjete iz članka 7. stavka 2. Uredbe (EU) 576/2013,
+
+6. premješta kućnog ljubimca, vrsta navedenih u Prilogu I. dijelu A Uredbe (EU) 576/2013, iz treće države ili državnog područja u Republiku Hrvatsku i ne ispunjava uvjete iz članka 10. stavka 1. Uredbe (EU) 576/2013,
+
+7. naknadno nekomercijalno premješta kućne ljubimce, vrsta navedenih u Prilogu I. dijelu A Uredbe (EU) 576/2013, iz članka 11. stavka 1. Uredbe (EU) 576/2013, iz druge države članice u Republiku Hrvatsku u suprotnosti s člankom 11. stavkom 3. Uredbe (EU) 576/2013,
+
+8. premješta kućne ljubimce, vrsta navedenih u Prilogu I. dijelu B Uredbe (EU) br. 576/2013, s državnog područja ili iz treće zemlje u Republiku Hrvatsku u suprotnosti s člankom 14. stavkom 1. Uredbe (EU) 576/2013, odnosno u suprotnosti s pravilima donesenim na temelju članka 14. stavka 2. Uredbe (EU) 576/2013 i članka 66. stavka 2. ovoga Zakona,
+
+9. izda identifikacijski dokument iz članka 6. točke (d) Uredbe (EU) 576/2013 u suprotnosti s člankom 22. stavcima 1. i 2. Uredbe (EU) 576/2013,
+
+10. za izdani identifikacijski dokument ne čuva podatke iz članka 22. stavka 3. Uredbe (EU) 576/2013 najmanje tri godine,
+
+11. izda identifikacijski dokument iz članka 9. stavka 2. točke (c) Uredbe (EU) 576/2013 u suprotnosti s člankom 29. stavkom 1. Uredbe (EU) 576/2013 te stavkom 2. istog članka,
+
+12. za vrijeme bilo kojeg nekomercijalnog premještanja kućnih ljubimaca u državu članicu iz druge države članice ili s državnog područja ili iz treće zemlje navedenih na popisu u skladu s člankom 13. stavkom 1. ili člankom 15. Uredbe (EU) 576/2013, posjednik ili ovlaštena osoba na zahtjev veterinarskog inspektora ne predoči identifikacijski dokument za kućnog ljubimca i/ili ne omogući da je kućni ljubimac dostupan za preglede, u skladu s člankom 33. stavkom 2. Uredbe (EU) 576/2013.
+
+(2) Za prekršaj naveden u stavku 1. ovoga članka novčanom kaznom od 2.000,00 do 6.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi te fizička osoba.«.
+
+#### Članak 27.
+
+U članku 163. točka 4. mijenja se i glasi:
+
+»4. postupa protivno odredbama propisa o načinu i postupcima obavljanja veterinarskih pregleda, zaustavljanja vozila, osposobljavanju članova mobilnih jedinica, opremi i oznakama mobilnih jedinica te njihovih vozila iz članka 55. stavka 3. ovoga Zakona,«.
+
+#### Članak 28.
+
+Naslovi iznad članaka i članci 165. i 166. brišu se.
+
+#### Članak 29.
+
+U članku 167. točke 1. i 2. brišu se.
+
+Dosadašnja točka 3. postaje točka 1.
+
+Točka 4. briše se.
+
+Dosadašnje točke 5. do 8. postaju točke 2. do 5.
+
+U dosadašnjoj točki 9., koja postaje točka 6., riječi: »Uredbe (EZ) 854/2004« zamjenjuju se riječima: »Uredbe (EU) 2017/625«.
+
+#### Članak 30.
+
+U članku 168. točki 4. riječi: »Uredbe (EZ) 854/2004« zamjenjuju se riječima: »Uredbe (EU) 2017/625«.
+
+Točke 5. do 11. mijenjaju se i glase:
+
+»5. ne omogući ovlaštenoj osobi uzorkovanje trupova konja, divljih svinja i drugih uzgojenih ili divljih vrsta životinja prijemljivih na invaziju trihinelom u klaonicama ili objektima za obradu i rasijecanje divljači, sukladno članku 2. stavku 2. Provedbene uredbe Komisije (EU) 2015/1375,
+
+6. do dobivanja rezultata pretrage na trihinelu, trupove svinja i konja rasijeca u suprotnosti s odredbama članka 2. stavka 3. Provedbene uredbe Komisije (EU) 2015/1375,
+
+7. izmjesti trupove ili njihove dijelove namijenjene za prehranu ljudi ili hranidbu životinja, koji sadrže tkivo poprečno-prugastih mišića, iz prostorija objekta prije nego što se utvrdi da je rezultat pretrage na trihinelu negativan protivno odredbama članka 4. stavka 1. Provedbene uredbe Komisije (EU) 2015/1375,
+
+8. trupove zaklanih životinja označava oznakom zdravstvene ispravnosti protivno odredbama članka 4. stavka 3. Provedbene Uredbe Komisije (EU) 2015/1375,
+
+9. za pretragu uzoraka ne koristi metode pretraživanja sukladno odredbama članka 6. stavka 1. Provedbene uredbe Komisije (EU) 2015/1375, tamo gdje postoji osnova za sumnju na invaziju trihinelom,
+
+10. postupa protivno odredbama članka 9. Provedbene uredbe Komisije (EU) 2015/1375 i ne obavijesti nadležno tijelo o činjenicama koje bi mogle utjecati na status uzgoja slobodnog od trihinele,
+
+11. uvozi meso podrijetlom od životinjskih vrsta koje mogu biti nosioci trihinele protivno odredbama članaka 13. i 14. Provedbene uredbe Komisije (EU) 2015/1375.«.
+
+#### Članak 31.
+
+U članku 169. iza točke 3. umjesto zareza stavlja se točka, a točka 4. briše se.
+
+#### Članak 32.
+
+U članku 176. točka 6. briše se.
+
+Dosadašnja točka 7., koja postaje točka 6., mijenja se i glasi:
+
+»6. ne otkloni utvrđene nepravilnosti na način i u roku kako je odredio veterinarski inspektor u skladu s člankom 137.b. stavkom 1. ovoga Zakona.«.
+
+#### Članak 33.
+
+Članak 177. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 10.000,00 do 30.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. njezin uposlenik obavlja poslove iz članka 154. stavka 2. ovoga Zakona za koje nije ovlašten, ili koji nisu u skladu s opsegom poslova koji su povjereni veterinarskoj organizaciji ili veterinarskoj praksi u kojoj je uposlen,
+
+2. njezin ovlašteni veterinar propusti zabraniti otpremu životinja, proizvoda životinjskog podrijetla i nusproizvoda životinjskog podrijetla kad se prilikom veterinarskog pregleda utvrdi ili posumnja da je pošiljka zaražena ili zdravstveno neispravna, ako potječe iz zaraženog područja, ako ne udovoljava drugim propisanim uvjetima zdravstvene ispravnosti, ako pošiljka nije propisno označena, ne prati je propisana i uredna dokumentacija, ako prijevozno sredstvo ne udovoljava propisanim veterinarskim uvjetima ili o tomu propusti neodgodivo izvijestiti veterinarskog inspektora, sukladno članku 154. stavku 4. ovoga Zakona,
+
+3. njezin ovlašteni veterinar propusti izvijestiti veterinarskog inspektora ovlaštenog da naredi mjere za otklanjanje utvrđenih nepravilnosti, u skladu s člankom 154. stavkom 5. ovoga Zakona.
+
+(2) Novčanom kaznom od 2.000,00 do 6.000,00 kuna kaznit će se za prekršaj:
+
+1. odgovorna osoba u pravnoj osobi, fizička osoba, odnosno ovlašteni veterinar u slučaju iz stavka 1. točke 1. ovoga članka,
+
+2. odgovorna osoba u pravnoj osobi i ovlašteni veterinar u slučaju iz stavka 1. točke 2. ovoga članka,
+
+3. odgovorna osoba u pravnoj osobi i ovlašteni veterinar u slučaju iz stavka 1. točke 3. ovoga članka.
+
+(3) Novčanom kaznom od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj fizička osoba kojoj su povjereni poslovi službenih kontrola ili drugih službenih aktivnosti kao fizičkim osobama ako:
+
+1. obavlja poslove iz članka 154. stavka 2. ovoga Zakona za koje nije ovlaštena, ili koji nisu u skladu s opsegom poslova koji su joj povjereni,
+
+2. propusti zabraniti otpremu životinja, proizvoda životinjskog podrijetla i nusproizvoda životinjskog podrijetla, u skladu s člankom 154. stavkom 4. ovoga Zakona, kada je za to ovlaštena, ili ako o zabrani propusti neodgodivo izvijestiti veterinarskog inspektora,
+
+3. ako propusti izvijestiti veterinarskog inspektora ovlaštenog da naredi mjere za otklanjanje utvrđenih nepravilnosti, u skladu s člankom 154. stavkom 5. ovoga Zakona.«.
+
+#### Članak 34.
+
+U cijelom tekstu Zakona riječi: »osoba ovlaštena za certificiranje« u određenom padežu zamjenjuju se riječima: »službena osoba za certificiranje« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 35.
+
+(1) Pravilnik iz članka 7. ovoga Zakona donijet će ministar nadležan za poljoprivredu uz prethodnu suglasnost glavnog državnog inspektora, ministra nadležnog za unutarnje poslove i ministra nadležnog za promet u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Pravilnik iz članka 9. ovoga Zakona donijet će ministar nadležan za poljoprivredu u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+
+(3) Do stupanja na snagu pravilnika iz stavka 2. ovoga članka na snazi ostaju: Pravilnik o izdavanju certifikata za žive životinje i proizvode životinjskog podrijetla u međunarodnom prometu (»Narodne novine«, br. 137/08.), Pravilnik o uvjetima koji se primjenjuju prilikom nekomercijalnog premještanja kućnih ljubimaca u Republiku Hrvatsku (»Narodne novine«, br. 65/16.) i Pravilnik o uvjetima kojima moraju udovoljavati veterinarske organizacije, veterinarska praksa i veterinarska služba u sustavu provedbe veterinarske djelatnosti (»Narodne novine«, br. 103/13., 130/14. i 9/19.).
+
+#### Članak 36.
+
+(1) Svi ugovori sklopljeni između Uprave i delegiranih tijela kojima su povjereni poslovi službenih kontrola o obavljanju pojedinih poslova službenih kontrola prije stupanja na snagu odredbi iz članka 115. Zakona o veterinarstvu (»Narodne novine«, br. 82/13.,148/13. i 115/18.) ostaju na snazi do isteka roka na koji su sklopljeni.
+
+(2) Aneksom ugovora iz stavka 1. ovoga članka izmijenit će se odredbe ugovora o izvješćivanju i raskidu u skladu s nadležnostima propisanim člankom 115. Zakona o veterinarstvu (»Narodne novine«, br. 82/13., 148/13. i 115/18.).
+
+(3) Aneksi ugovora iz stavka 2. sklopit će se u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 37.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredaba članaka 14., 15., 17. i 18. koje stupaju na snagu u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+Klasa: 022-03/20-01/169
+
+Zagreb, 7. svibnja 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

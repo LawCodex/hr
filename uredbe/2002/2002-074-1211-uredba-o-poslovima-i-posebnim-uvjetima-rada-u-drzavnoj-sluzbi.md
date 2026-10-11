@@ -6,16 +6,17 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2002-06-21
-last_amended: 2015-06-12
+last_amended: 2017-01-04
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "74/02, 58/08, 119/11, 33/13, 65/15"
+narodne_novine: "74/02, 58/08, 119/11, 33/13, 65/15, 2/17"
 amendments:
   - "NN 58/2008 (1953) Uredba o dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi"
   - "NN 119/2011 (2316) Uredba o izmjenama i dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi"
   - "NN 33/2013 (595) Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi"
   - "NN 65/2015 (1241) Uredba o izmjenama i dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi"
+  - "NN 2/2017 (28) Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/74/1211"
 retrieved: 2026-10-12
 ---
@@ -24,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 74/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/74/1211).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 58/2008, NN 119/2011, NN 33/2013, NN 65/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 58/2008, NN 119/2011, NN 33/2013, NN 65/2015, NN 2/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -735,3 +736,74 @@ Zagreb, 11. lipnja 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi (NN 2/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/2/28*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 112. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/01), a u vezi s člankom 144. stavkom 2. točkom b) Zakona o državnim službenicima (»Narodne novine«, br. 92/05, 107/07, 27/08, 34/11, 49/11, 150/11, 34/12, 49/12 – pročišćeni tekst, 37/13, 38/13 i 138/15 – Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2016. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O POSLOVIMA I POSEBNIM UVJETIMA RADA U DRŽAVNOJ SLUŽBI**
+
+#### Članak 1.
+
+U Uredbi o poslovima i posebnim uvjetima rada u državnoj službi (»Narodne novine«, br. 74/02, 58/08, 119/11, 33/13 i 65/15), naziv Uredbe mijenja se i glasi:
+
+»Uredba o poslovima s posebnim uvjetima rada u državnoj službi«.
+
+#### Članak 2.
+
+U članku 5. podstavak a) mijenja se i glasi:
+
+*»a) Radna mjesta I. vrste*
+
+1. viši inspektor
+
+2. inspektor 10%
+
+Državnom službeniku koji obavlja inspekcijske poslove, raspoređenom na položaj, odnosno radno mjesto glavnog inspektora, zamjenika glavnog inspektora ili višeg inspektora – specijaliste, dodatak za poslove s posebnim uvjetima rada određuje se u visini od 10% osnovne plaće višeg inspektora.«.
+
+#### Članak 3.
+
+Članak 10. mijenja se i glasi:
+
+»Utvrđuju se poslovi radnih mjesta s posebnim uvjetima rada u Ministarstvu mora, prometa i infrastrukture i visina dodatka, i to:
+
+### a) Radna mjesta I. vrste
+
+1. nautičar 10%
+
+### b) Radna mjesta II. vrste
+
+1. nautičar
+
+2. upravitelj stroja na brodu 10%
+
+### c) Radna mjesta III. vrste
+
+1. nautičar
+
+2. zapovjednik broda
+
+3. voditelj brodice
+
+4. pomorski strojar
+
+5. mornar na brodu 10%«.
+
+#### Članak 4.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-03/52
+
+Urbroj: 50301-24/04-16-2
+
+Zagreb, 29. prosinca 2016.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

@@ -6,11 +6,11 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1998-07-28
-last_amended: 2016-10-15
+last_amended: 2019-07-10
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "101/98, 135/98, 105/99, 25/00, 73/00, 131/00, 30/01, 59/01, 114/01, 153/02, 16/04, 30/04, 187/04, 151/05, 141/06, 17/07, 82/07, 107/07, 60/08, 38/09, 150/11, 22/13, 3/15, 93/16"
+narodne_novine: "101/98, 135/98, 105/99, 25/00, 73/00, 131/00, 30/01, 59/01, 114/01, 153/02, 16/04, 30/04, 187/04, 151/05, 141/06, 17/07, 82/07, 107/07, 60/08, 38/09, 150/11, 22/13, 3/15, 93/16, 66/19"
 amendments:
   - "NN 135/1998 (1626) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
   - "NN 105/1999 (1750) Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika"
@@ -35,6 +35,7 @@ amendments:
   - "NN 22/2013 (363) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
   - "NN 3/2015 (58) Uredba o izmjeni i dopuni Zakona o obvezama i pravima državnih dužnosnika"
   - "NN 93/2016 (1972) Zakon o izmjenama Zakona o obvezama i pravima državnih dužnosnika"
+  - "NN 66/2019 (1291) Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1395"
 retrieved: 2026-10-12
 ---
@@ -43,7 +44,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 101/1998 (https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1395).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 135/1998, NN 105/1999, NN 25/2000, NN 73/2000, NN 131/2000, NN 30/2001, NN 59/2001, NN 114/2001, NN 153/2002, NN 16/2004, NN 30/2004, NN 187/2004, NN 151/2005, NN 141/2006, NN 17/2007, NN 82/2007, NN 107/2007, NN 60/2008, NN 38/2009, NN 150/2011, NN 22/2013, NN 3/2015, NN 93/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 135/1998, NN 105/1999, NN 25/2000, NN 73/2000, NN 131/2000, NN 30/2001, NN 59/2001, NN 114/2001, NN 153/2002, NN 16/2004, NN 30/2004, NN 187/2004, NN 151/2005, NN 141/2006, NN 17/2007, NN 82/2007, NN 107/2007, NN 60/2008, NN 38/2009, NN 150/2011, NN 22/2013, NN 3/2015, NN 93/2016, NN 66/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2370,3 +2371,133 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika (NN 66/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/66/1291*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika, koji je Hrvatski sabor donio na sjednici 28. lipnja 2019.
+
+Klasa: 011-01/19-01/99
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 5. srpnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZAMA I PRAVIMA DRŽAVNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o obvezama i pravima državnih dužnosnika (»Narodne novine«, br. 101/98., 135/98., 105/99., 25/00., 73/00., 30/01., 59/01., 114/01., 153/02., 154/02., 163/03., 16/04., 30/04., 105/04., 187/04., 92/05., 121/05., 151/05., 135/06., 141/06., 17/07., 34/07., 82/07., 107/07., 60/08., 38/09., 150/11., 22/13., 102/14., 103/14., 3/15., 93/16. i 44/17.) u članku 1. stavku 2. podstavku 13. riječi: »glavni inspektor Državnog inspektorata« zamjenjuju se riječima: »glavni državni inspektor«.
+
+Iza podstavka 13. dodaje se novi podstavak 14. koji glasi:
+
+» – glavni vatrogasni zapovjednik,«.
+
+Dosadašnji podstavci 14. do 21. postaju podstavci 15. do 22.
+
+Dosadašnji podstavak 22. briše se.
+
+Podstavak 26. briše se.
+
+Dosadašnji podstavak 27. postaje podstavak 26.
+
+U dosadašnjem podstavku 28., koji postaje podstavak 27., riječi: »ravnatelji državnih upravnih organizacija« zamjenjuju se riječima: »glavni ravnatelji državnih uprava, državnih zavoda i državnih ravnateljstava«.
+
+U dosadašnjem podstavku 29., koji postaje podstavak 28., iza riječi: »ravnatelj« briše se zarez i riječi: »zamjenik ravnatelja i pomoćnici ravnatelja«.
+
+U dosadašnjem podstavku 30., koji postaje podstavak 29., riječi: »direktor, zamjenik direktora i pomoćnici direktora« zamjenjuju se riječju: »ravnatelj«.
+
+U dosadašnjem podstavku 31., koji postaje podstavak 30., iza riječi: »ravnatelj« briše se zarez i riječi: »zamjenik ravnatelja i pomoćnici ravnatelja«.
+
+Dosadašnji podstavci 32. do 37. postaju podstavci 31. do 36.
+
+### Članak 2.
+
+U članku 12. stavku 3. točki 4. iza podtočke f) dodaje se podtočka g) koja glasi:
+
+»g) glavni državni inspektor 6,21«.
+
+U točki 5. iza podtočke g) dodaje se podtočka h) koja glasi:
+
+»h) glavni vatrogasni zapovjednik 5,70«.
+
+U točki 7. podtočka e) briše se.
+
+Dosadašnje podtočke f), g) i h) postaju podtočke e), f) i g).
+
+Podtočka i) briše se.
+
+Dosadašnje podtočke j) i k) postaju podtočke h) i i).
+
+Podtočka l) briše se.
+
+Dosadašnja podtočka m) postaje podtočka j).
+
+U dosadašnjoj podtočki n), koja postaje podtočka k), riječi: »ravnatelji državnih upravnih organizacija« zamjenjuju se riječima: »glavni ravnatelji državnih uprava, državnih zavoda i državnih ravnateljstava«.
+
+Dosadašnje podtočke o), p), r) i s) postaju podtočke l), m), n) i o).
+
+U točki 8. podtočke b) i c) brišu se.
+
+U točki 10. podtočke d) i e) brišu se.
+
+U točki 11. podtočka a) briše se.
+
+Dosadašnje podtočke b), c), d) i e) postaju podtočke a), b), c) i d).
+
+Točka 12. briše se.
+
+U stavku 6. riječi: »pomoćnika ministara« zamjenjuju se riječima: »glavnih ravnatelja državnih uprava, državnih zavoda i državnih ravnateljstava«.
+
+### Članak 3.
+
+Plaća pomoćnika ministara i ravnatelja državnih upravnih organizacija koji su na dan stupanja na snagu ovoga Zakona zatečeni na tim dužnostima, do njihova razrješenja s tih dužnosti obračunavat će se prema koeficijentu 5,27.
+
+Plaća zamjenika i pomoćnika ravnatelja Hrvatskog zavoda za zdravstveno osiguranje koji su na dan stupanja na snagu ovoga Zakona zatečeni na tim dužnostima, do prestanka obnašanja tih dužnosti obračunavat će se prema sljedećim koeficijentima:
+
+– zamjenik ravnatelja Hrvatskog zavoda za zdravstveno osiguranje 4,98,
+
+– pomoćnik ravnatelja Hrvatskog zavoda za zdravstveno osiguranje 4,55.
+
+Zamjenik i pomoćnik ravnatelja Hrvatskog zavoda za zdravstveno osiguranje iz stavka 2. ovoga članka prestaju obnašati dužnost u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+Plaća zamjenika i pomoćnika ravnatelja Hrvatskog zavoda za mirovinsko osiguranje te plaća zamjenika i pomoćnika ravnatelja Hrvatskog zavoda za zapošljavanje koji su na dan stupanja na snagu ovoga Zakona zatečeni na tim dužnostima, do prestanka obnašanja dužnosti obračunavat će se prema sljedećim koeficijentima:
+
+– zamjenik ravnatelja Hrvatskog zavoda za mirovinsko osiguranje 4,98,
+
+– pomoćnik ravnatelja Hrvatskog zavoda za mirovinsko osiguranje 4,55,
+
+– zamjenik ravnatelja Hrvatskog zavoda za zapošljavanje 4,26,
+
+– pomoćnik ravnatelja Hrvatskog zavoda za zapošljavanje 3,97.
+
+Zamjenik i pomoćnik ravnatelja Hrvatskog zavoda za mirovinsko osiguranje te zamjenik i pomoćnik ravnatelja Hrvatskog zavoda za zapošljavanje iz stavka 4. ovoga članka prestaju obnašati dužnost u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 1. stavaka 2. i 3. i članka 2. stavka 2. ovoga Zakona koji stupaju na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/35
+
+Zagreb, 28. lipnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

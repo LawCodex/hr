@@ -577,257 +577,220 @@ SMANJENJE:
 Tablica 1.: POVEĆANJE ZAJAMČENE CIJENE ZA SADRŽAJ VLAGE
 
 <table><tbody>
-
 <tr>
 <td colspan="2">Kukuruz i sirak</td>
 <td colspan="2">Ostale žitarice</td>
 </tr>
-
 <tr>
 <td>Sadržaj vlage (%)</td>
 <td>Povećanje<br>(kn/toni)</td>
 <td>Sadržaj vlage (%)</td>
 <td>Povećanje<br>(kn/toni)</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>13,4</td>
 <td>0,73</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>13,3</td>
 <td>1,46</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>13,2</td>
 <td>2,19</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>13,1</td>
 <td>2,92</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>13,0</td>
 <td>3,65</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>12,9</td>
 <td>4,38</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>12,8</td>
 <td>5,11</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>12,7</td>
 <td>5,84</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>12,6</td>
 <td>6,57</td>
 </tr>
-
 <tr>
 <td>-</td>
 <td>-</td>
 <td>12,5</td>
 <td>7,30</td>
 </tr>
-
 <tr>
 <td>12,4</td>
 <td>8,03</td>
 <td>12,4</td>
 <td>8,03</td>
 </tr>
-
 <tr>
 <td>12,3</td>
 <td>8,76</td>
 <td>12,3</td>
 <td>8,76</td>
 </tr>
-
 <tr>
 <td>12,2</td>
 <td>9,49</td>
 <td>12,2</td>
 <td>9,49</td>
 </tr>
-
 <tr>
 <td>12,1</td>
 <td>10,22</td>
 <td>12,1</td>
 <td>10,22</td>
 </tr>
-
 <tr>
 <td>12,0</td>
 <td>10,95</td>
 <td>12,0</td>
 <td>10,95</td>
 </tr>
-
 <tr>
 <td>11,9</td>
 <td>11,68</td>
 <td>11,9</td>
 <td>11,68</td>
 </tr>
-
 <tr>
 <td>11,8</td>
 <td>12,41</td>
 <td>11,8</td>
 <td>12,41</td>
 </tr>
-
 <tr>
 <td>11,7</td>
 <td>13,14</td>
 <td>11,7</td>
 <td>13,14</td>
 </tr>
-
 <tr>
 <td>11,6</td>
 <td>13,87</td>
 <td>11,6</td>
 <td>13,87</td>
 </tr>
-
 <tr>
 <td>11,5</td>
 <td>14,60</td>
 <td>11,5</td>
 <td>14,60</td>
 </tr>
-
 <tr>
 <td>11,4</td>
 <td>15,33</td>
 <td>11,4</td>
 <td>15,33</td>
 </tr>
-
 <tr>
 <td>11,3</td>
 <td>16,06</td>
 <td>11,3</td>
 <td>16,06</td>
 </tr>
-
 <tr>
 <td>11,2</td>
 <td>16,79</td>
 <td>11,2</td>
 <td>16,79</td>
 </tr>
-
 <tr>
 <td>11,1</td>
 <td>17,52</td>
 <td>11,1</td>
 <td>17,52</td>
 </tr>
-
 <tr>
 <td>11,0</td>
 <td>18,25</td>
 <td>11,0</td>
 <td>18,25</td>
 </tr>
-
 <tr>
 <td>10,9</td>
 <td>18,98</td>
 <td>10,9</td>
 <td>18,98</td>
 </tr>
-
 <tr>
 <td>10,8</td>
 <td>19,71</td>
 <td>10,8</td>
 <td>19,71</td>
 </tr>
-
 <tr>
 <td>10,7</td>
 <td>20,44</td>
 <td>10,7</td>
 <td>20,44</td>
 </tr>
-
 <tr>
 <td>10,6</td>
 <td>21,17</td>
 <td>10,6</td>
 <td>21,17</td>
 </tr>
-
 <tr>
 <td>10,5</td>
 <td>21,90</td>
 <td>10,5</td>
 <td>21,90</td>
 </tr>
-
 <tr>
 <td>10,4</td>
 <td>22,63</td>
 <td>10,4</td>
 <td>22,63</td>
 </tr>
-
 <tr>
 <td>10,3</td>
 <td>23,36</td>
 <td>10,3</td>
 <td>23,36</td>
 </tr>
-
 <tr>
 <td>10,2</td>
 <td>24,09</td>
 <td>10,2</td>
 <td>24,09</td>
 </tr>
-
 <tr>
 <td>10,1</td>
 <td>24,82</td>
 <td>10,1</td>
 <td>24,82</td>
 </tr>
-
 <tr>
 <td>10,0</td>
 <td>25,55</td>
@@ -840,47 +803,40 @@ Tablica 1.: POVEĆANJE ZAJAMČENE CIJENE ZA SADRŽAJ VLAGE
 Tablica 2: SMANJENJE ZAJAMČENE CIJENE ZA SADRŽAJ VLAGE
 
 <table><tbody>
-
 <tr>
 <td colspan="2">Kukuruz i sirak</td>
 <td colspan="2">Ostale žitarice</td>
 </tr>
-
 <tr>
 <td>Sadržaj vlage (%)</td>
 <td>Smanjenje<br>(kn/toni)</td>
 <td>Sadržaj vlage (%)</td>
 <td>Smanjenje<br>(kn/toni)</td>
 </tr>
-
 <tr>
 <td>13,5</td>
 <td>7,30</td>
 <td>14,5</td>
 <td>7,30</td>
 </tr>
-
 <tr>
 <td>13,4</td>
 <td>5,84</td>
 <td>14,4</td>
 <td>5,84</td>
 </tr>
-
 <tr>
 <td>13,3</td>
 <td>4,38</td>
 <td>14,3</td>
 <td>4,38</td>
 </tr>
-
 <tr>
 <td>13,2</td>
 <td>2,92</td>
 <td>14,2</td>
 <td>2,92</td>
 </tr>
-
 <tr>
 <td>13,1</td>
 <td>1,46</td>
@@ -1247,31 +1203,26 @@ MJESEČNA IZJAVA O ZALIHAMA
 Obrazac 5
 
 <table><tbody>
-
 <tr>
 <td colspan="2"></td>
 <td colspan="3">Skladištar:</td>
 <td>Godina:</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">Proizvodi:</td>
 <td colspan="3">Skladište: Br.:</td>
 <td>Mjesec:</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td colspan="3">Adresa:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Partija</td>
 <td rowspan="2">Opis</td>
@@ -1279,13 +1230,11 @@ Obrazac 5
 <td rowspan="2">Datum</td>
 <td rowspan="2">Napomena</td>
 </tr>
-
 <tr>
 <td>(Serija)</td>
 <td>Ulaz</td>
 <td>Izlaz</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Prenesena količina</td>
@@ -1294,7 +1243,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1303,7 +1251,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1312,7 +1259,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1321,7 +1267,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1330,7 +1275,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1339,7 +1283,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1348,7 +1291,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1357,7 +1299,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1366,7 +1307,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1375,7 +1315,6 @@ Obrazac 5
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>Količina za prenijeti</td>
@@ -1396,27 +1335,22 @@ Ime i prezime
 SAŽETAK MJESEČNE IZJAVE O ZALIHAMA ŽITARICA
 
 <table><tbody>
-
 <tr>
 <td colspan="4">Skladištar:</td>
 <td colspan="2">Godina:</td>
 </tr>
-
 <tr>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td colspan="4">Skladište: Br.:</td>
 <td colspan="2">Mjesec:</td>
 </tr>
-
 <tr>
 <td colspan="4">Adresa:</td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td>Opis</td>
 <td>Pšenica</td>
@@ -1425,7 +1359,6 @@ SAŽETAK MJESEČNE IZJAVE O ZALIHAMA ŽITARICA
 <td>Ukupno</td>
 <td>Napomena</td>
 </tr>
-
 <tr>
 <td>Stanje na početku mjeseca (t)</td>
 <td></td>
@@ -1434,7 +1367,6 @@ SAŽETAK MJESEČNE IZJAVE O ZALIHAMA ŽITARICA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ulaz u skladište s fizičkim kretanjem robe</td>
 <td></td>
@@ -1443,7 +1375,6 @@ SAŽETAK MJESEČNE IZJAVE O ZALIHAMA ŽITARICA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ulaz u skladište bez fizičkog kretanja robe</td>
 <td></td>
@@ -1452,7 +1383,6 @@ SAŽETAK MJESEČNE IZJAVE O ZALIHAMA ŽITARICA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Izlaz iz skladišta s fizičkim kretanjem robe</td>
 <td></td>
@@ -1461,7 +1391,6 @@ SAŽETAK MJESEČNE IZJAVE O ZALIHAMA ŽITARICA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Izlaz iz skladišta bez fizičkog kretanja robe</td>
 <td></td>
@@ -1470,7 +1399,6 @@ SAŽETAK MJESEČNE IZJAVE O ZALIHAMA ŽITARICA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Stanje na kraju mjeseca (t)</td>
 <td></td>
@@ -1479,7 +1407,6 @@ SAŽETAK MJESEČNE IZJAVE O ZALIHAMA ŽITARICA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Skladištenje (stanje na početku mjeseca+stanje na kraju mjeseca)/2 (t)</td>
 <td></td>
@@ -1504,116 +1431,99 @@ GODIŠNJA IZJAVA O ZALIHAMA
 Obrazac 6
 
 <table><tbody>
-
 <tr>
 <td colspan="2"></td>
 <td>Skladištar:</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">Proizvodi:</td>
 <td>Skladište: Br.:</td>
 <td>Godina:</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td>Adresa:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Partija (Serija)</td>
 <td>Opis</td>
 <td>Uknjižena količina i/ili težina</td>
 <td>Komentari</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1634,224 +1544,182 @@ DODATAK VII.
 POPIS INTERVENTNIH CENTARA I INTERVENTNIH SKLADIŠTA
 
 <table><tbody>
-
 <tr>
 <td>INTERVENTNI CENTAR</td>
 <td>INTERVENTNO SKLADIŠTE</td>
 <td>SILOS</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Tvrtka/sjedište</td>
 <td>Adresa na lokaciji silosa</td>
 </tr>
-
 <tr>
 <td rowspan="6">Osijek</td>
 <td>Belje d.d., Darda</td>
 <td>Darda, Sv. Ivana Krstitelja 1a</td>
 </tr>
-
 <tr>
 <td>Žito d.o.o., Osijek</td>
 <td>Osijek, Divaltova 193</td>
 </tr>
-
 <tr>
 <td>PPK Valpovo d.d., Valpovo</td>
 <td>Valpovo, A. B. Šimića 27</td>
 </tr>
-
 <tr>
 <td>Žitar d.o.o., Donji Miholjac</td>
 <td>Donji Miholjac, Kolodvorska 105</td>
 </tr>
-
 <tr>
 <td>Žito d.o.o., Đakovo</td>
 <td>Đakovo, Električne centrale 12</td>
 </tr>
-
 <tr>
 <td>Papuk d.d.; Našice</td>
 <td>Našice, Kolodvorska 1.</td>
 </tr>
-
 <tr>
 <td rowspan="5">Vinkovci</td>
 <td>PIK Vinkovci d.d.,Vinkovci</td>
 <td>Vinkovci, Matije Gupca 130</td>
 </tr>
-
 <tr>
 <td>Vupik d.d., Vukovar</td>
 <td>Vukovar, Priljevo b.b.</td>
 </tr>
-
 <tr>
 <td>Slavonija Nova d.d., Županja</td>
 <td>Županja, J.J. Strossmayera 65</td>
 </tr>
-
 <tr>
 <td>PZ Jankovci</td>
 <td>Stari Jankovci, Vinkovačka 15</td>
 </tr>
-
 <tr>
 <td>PZ Osatina</td>
 <td>Semeljci, Kralja Tomislava 91</td>
 </tr>
-
 <tr>
 <td rowspan="5">Slavonski Brod</td>
 <td>Granolio d.d., Zagreb</td>
 <td>Slavonski Brod, Industrijska zona Bjeliš b.b.</td>
 </tr>
-
 <tr>
 <td>Granolio d.d., Zagreb</td>
 <td>Velika Kopanica, Ivana Filipovića b.b.</td>
 </tr>
-
 <tr>
 <td>PPK Kutjevo d.d., Kutjevo</td>
 <td>Požega, Industrijska 22</td>
 </tr>
-
 <tr>
 <td>KLAS d.d.(u stečaju)</td>
 <td>Nova Gradiška, Urije b.b.</td>
 </tr>
-
 <tr>
 <td>Poljoprivreda Lipik d.o.o., Lipik</td>
 <td>Dobrovac, Ul. Josipa Kozarca b.b.</td>
 </tr>
-
 <tr>
 <td rowspan="5">Virovitica</td>
 <td>PP Orahovica d.d., Orahovica</td>
 <td>Orahovica, Stjepana Mlakara 5</td>
 </tr>
-
 <tr>
 <td>Žito d.o.o., Osijek</td>
 <td>Slatina, Vladimira Nazora 65-69</td>
 </tr>
-
 <tr>
 <td>VTC d.o.o., Virovitica</td>
 <td>Virovitica, Stjapana Radića 132</td>
 </tr>
-
 <tr>
 <td>Žito d.d., (Otkupni centar Čađavica)</td>
 <td>Čađavica, Kolodvorska b.b.</td>
 </tr>
-
 <tr>
 <td>Diba d.o.o., Virovitica</td>
 <td>Suhopolje, Kralja Tomislava 5</td>
 </tr>
-
 <tr>
 <td rowspan="5">Bjelovar</td>
 <td>Prerada d.d., Bjelovar</td>
 <td>Bjelovar, A. Mihanovića 10</td>
 </tr>
-
 <tr>
 <td>Granolio d.d., Zagreb, (zasebna poslovna jednica Prerada žitarica d.o.o)</td>
 <td>Grubišno Polje, Braće Radić 45</td>
 </tr>
-
 <tr>
 <td>Gorup d.o.o., Klanjec</td>
 <td>Garešnica, Kolodvorska 11</td>
 </tr>
-
 <tr>
 <td>Podravka d.d., Koprivnica</td>
 <td>Koprivnica, A. Stračevića 32</td>
 </tr>
-
 <tr>
 <td>Belje d.d., Darda</td>
 <td>Križevci, Bjelovarska cesta 10</td>
 </tr>
-
 <tr>
 <td rowspan="2">Čakovec</td>
 <td>Čakovečki Mlinovi d.d., Čakovec</td>
 <td>Čakovec, Mlinska ulica 1</td>
 </tr>
-
 <tr>
 <td>Poljoprivredna zadruga Čakovec</td>
 <td>Čakovec, Industrijska zona »Jug«, Kotoriba</td>
 </tr>
-
 <tr>
 <td rowspan="5">Sisak</td>
 <td>Ljudevit Posavkski mlin i pekare d.d., Sisak</td>
 <td>Sisak, Kralja Zvonimira 24</td>
 </tr>
-
 <tr>
 <td>Korina proizvodnja d.o.o., Novska</td>
 <td>Novska, Osiječka 70</td>
 </tr>
-
 <tr>
 <td>Belje d.d., Popovača</td>
 <td>Popovača, Kolodvorska 93</td>
 </tr>
-
 <tr>
 <td>Žito proizvod d.d., Karlovac</td>
 <td>Karlovac, Banija 69</td>
 </tr>
-
 <tr>
 <td>Pristanište i skladište d.d., Sisak</td>
 <td>Sisak, Rimska ulica 29</td>
 </tr>
-
 <tr>
 <td rowspan="3">Rijeka</td>
 <td>Luka Rijeka</td>
 <td>Rijeka, Riva 1</td>
 </tr>
-
 <tr>
 <td>Agrolaguna d.d., Poreč</td>
 <td>Pula, Višnjan b.b.</td>
 </tr>
-
 <tr>
 <td>Brionka d.d., Pula</td>
 <td>Pula, Tršćanska 35</td>
 </tr>
-
 <tr>
 <td>Split</td>
 <td>Žitni Terminal d.o.o., Split</td>
 <td>Solin, Vranjički put 16</td>
 </tr>
-
 <tr>
 <td rowspan="3">Zagreb</td>
 <td>Klara Zagreb d.d., Zagreb</td>
 <td>Zagreb, Koturaška cesta 1</td>
 </tr>
-
 <tr>
 <td>Agroprerada d.d., Ivanić-Grad</td>
 <td>Ivanić-Grad, Žitna 1</td>
 </tr>
-
 <tr>
 <td>Božjakovina d.d., Božjakovina</td>
 <td>Dugo Selo, Lupoglav b.b.</td>
@@ -1895,35 +1763,29 @@ DODATAK VII.
 POPIS INTERVENTNOG CENTRA I INTERVENTNIH SKLADIŠTA
 
 <table><tbody>
-
 <tr>
 <td>INTERVENTNI CENTAR</td>
 <td>INTERVENTNO<br>SKLADIŠTE</td>
 <td>SILOS</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Tvrtka/sjedište</td>
 <td>Adresa na lokaciji silosa</td>
 </tr>
-
 <tr>
 <td rowspan="4">Požega</td>
 <td>Žito d.o.o., Osijek – silos Đakovo</td>
 <td>Električne centrale 12, Đakovo</td>
 </tr>
-
 <tr>
 <td>Kutjevo d.d., Kutjevo – silos Požega</td>
 <td>Industrijska 22, Požega</td>
 </tr>
-
 <tr>
 <td>Prerada žitarica d.o.o., Grubišno Polje</td>
 <td>Braće Radić 45, Grubišno polje</td>
 </tr>
-
 <tr>
 <td>Slavonija Nova d.d., Županja</td>
 <td>J. J. Strossmayera 65, Županja</td>

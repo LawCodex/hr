@@ -204,7 +204,7 @@ Aktivnosti tijekom provođenja mjera smanjenja ili obustave opskrbe prirodnog pl
 7. Ukoliko poduzete mjere iz proglašenog stupnja smanjenja ili obustave opskrbe prirodnim plinom nisu dovoljne operator transportnog sustava proglašava viši stupanj smanjenja ili obustave opskrbe prirodnim plinom i o tome obavještava sve energetske subjekte i nadležnu osobu u Ministarstvu.  
 8. Provedbu mjera iz ovoga Operativnog plana nadzire Ministarstvo.
 
-## II.
+II.
 
 Aktivnosti tijekom provođenja mjera smanjenja ili obustave opskrbe prirodnog plina pojedinim kategorijama kupaca u vremenu od petka u 16:00 sati do ponedjeljka u 08:00 sati, neradnim danima, blagdanima i radnim danom u 16:00 sati do sljedećeg radnog dana u 08:00 sati:  
 1. Ministarstvo putem govorne veze, uz naknadnu pisanu obavijest, obavještava operatora transportnog sustava, a putem javnih glasila energetske subjekte i javnost, uz naknadnu pisanu obavijest energetskim subjektima za plin, o uvođenju mjera smanjenja ili obustave opskrbe prirodnog plina.  

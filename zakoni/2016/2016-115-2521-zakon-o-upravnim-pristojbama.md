@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2016-12-09
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "115/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "115/16, 114/22"
+amendments:
+  - "NN 114/2022 (1682) Zakon o izmjenama i dopuni Zakona o upravnim pristojbama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2521"
 retrieved: 2026-10-12
 ---
@@ -19,11 +21,11 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 115/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2521).
 >
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2022.
+>
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
 HRVATSKI SABOR
-
-2521
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
@@ -503,3 +505,81 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o upravnim pristojbama (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1682*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O UPRAVNIM PRISTOJBAMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o upravnim pristojbama, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/80  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O UPRAVNIM PRISTOJBAMA**
+
+### Članak 1.
+
+U Zakonu o upravnim pristojbama (»Narodne novine«, br. 115/16.) članak 7. mijenja se i glasi:
+
+»Pri obračunavanju pristojbe propisane u postotku pristojbena osnovica zaokružit će se na cijelu deseticu tako da se iznos do 5,00 eura zaokruži na nižu deseticu, a iznos iznad 5,00 eura na višu deseticu.«.
+
+### Članak 2.
+
+U članku 8. točki 5. riječi: »30.000,00 kuna« zamjenjuju se riječima: »3981,68 eura«.
+
+### Članak 3.
+
+U članku 13. stavku 2. riječi: »100,00 kuna« zamjenjuju se riječima: »13,27 eura«.
+
+### Članak 4.
+
+U članku 15. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Konzularne pristojbe u inozemstvu plaćaju se u iznosu utvrđenom Tarifom u pravilu u eurima.
+
+(3) Ako se konzularne pristojbe plaćaju u stranoj valuti, preračunavaju se prema tečaju eura koji se utvrđuje najmanje dva puta godišnje te vrijedi za tu valutu.«.
+
+### Članak 5.
+
+U članku 16. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Pristojbeni obveznik koji iz inozemstva traži da mu tijelo iz članka 1. stavka 1. ovoga Zakona obavi radnju za koju se plaća pristojba, pristojbu plaća u stranoj valuti prema srednjem tečaju eura iz tečajne liste Hrvatske narodne banke na dan plaćanja pristojbe.
+
+(2) Ako neke od nacionalnih valuta nema u tečajnoj listi iz stavka 1. ovoga članka, primjenjuje se tečaj američkog dolara.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Iznimno od stavka 1. ovoga članka, pristojbe se putem diplomatskih misija i konzularnih ureda Republike Hrvatske u inozemstvu plaćaju sukladno članku 15. stavcima 2. i 3. ovoga Zakona.«.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/79
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

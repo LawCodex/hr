@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-28
+last_amended: 2020-03-19
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "80/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "80/13, 115/18, 32/20"
+amendments:
+  - "NN 115/2018 (2247) Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla"
+  - "NN 32/2020 (707) Zakon o dopuni Zakona o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1663"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla
 
 > Izvor: Narodne novine, NN 80/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1663).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 115/2018, NN 32/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -282,3 +287,123 @@ Hrvatskoga sabora
 Josip Leko, v. r.
 
 [1] Pravilnikom o metodama uzorkovanja za provedbu službene kontrole ostataka pesticida u i na proizvodima biljnog i životinjskog podrijetla se preuzimaju odredbe Direktive Komisije 2002/63/EZ od 11. srpnja 2002. godine kojom se utvrđuju na razini Zajednice metode uzorkovanja za službenu kontrolu ostataka pesticida u i na proizvodima biljnog i životinjskog podrijetla i kojom se ukida Direktiva 79/700/EEZ
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla (NN 115/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2247*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 396/2005 O MAKSIMALNIM RAZINAMA OSTATAKA PESTICIDA U I NA HRANI I HRANI ZA ŽIVOTINJE BILJNOG I ŽIVOTINJSKOG PODRIJETLA
+
+Proglašavam Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/172
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 396/2005 O MAKSIMALNIM RAZINAMA OSTATAKA PESTICIDA U I NA HRANI I HRANI ZA ŽIVOTINJE BILJNOG I ŽIVOTINJSKOG PODRIJETLA**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla (»Narodne novine«, br. 80/13.) u članku 3. stavku 1. riječi: »ministarstvo nadležno za zdravlje« zamjenjuju se riječima: »Državni inspektorat«.
+
+### Članak 2.
+
+U članku 4. stavku 3. riječi: »ministarstvo nadležno za zdravlje« zamjenjuju se riječima: »Državni inspektorat«.
+
+### Članak 3.
+
+U članku 5. stavku 1. riječi: »Hrvatskim centrom za poljoprivredu, hranu i selo – Zavodom za zaštitu bilja« zamjenjuju se riječima: »Hrvatskom agencijom za poljoprivredu i hranu«.
+
+U stavku 4. riječi: »Hrvatski centar za poljoprivredu, hranu i selo – Zavod za zaštitu bilja« zamjenjuju se riječima: »Hrvatska agencija za poljoprivredu i hranu«.
+
+### Članak 4.
+
+U članku 8. stavku 3. riječi: »Ministarstvo nadležno za zdravlje« zamjenjuju se riječima: »Državni inspektorat«.
+
+### Članak 5.
+
+U članku 12. stavku 2. riječi: »Povjerenstvu za žalbe pri tijelima nadležnim za provođenje inspekcije, koje čine tri člana i koje imenuje Vlada Republike Hrvatske« zamjenjuju se riječima: »Državnom inspektoratu«.
+
+### Članak 6.
+
+U članku 14. riječi: »ministarstvo nadležno za zdravlje« zamjenjuju se riječima: »Državni inspektorat«.
+
+### Članak 7.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/225
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o dopuni Zakona o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla (NN 32/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/707*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O PROVEDBI UREDBE (EZ) BR. 396/2005 O MAKSIMALNIM RAZINAMA OSTATAKA PESTICIDA U I NA HRANI I HRANI ZA ŽIVOTINJE BILJNOG I ŽIVOTINJSKOG PODRIJETLA
+
+Proglašavam Zakon o dopuni Zakona o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla, koji je Hrvatski sabor donio na sjednici 19. ožujka 2020.
+
+Klasa: 011-01/20-01/34  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 19. ožujka 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O PROVEDBI UREDBE (EZ) BR. 396/2005 O MAKSIMALNIM RAZINAMA OSTATAKA PESTICIDA U I NA HRANI I HRANI ZA ŽIVOTINJE BILJNOG I ŽIVOTINJSKOG PODRIJETLA**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla (»Narodne novine«, br. 80/13. i 115/18.) u članku 9. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Neutrošeni namjenski prihodi iz ovoga članka mogu se iznimno koristiti za rashode nastale uslijed posebnih okolnosti odnosno događaja ili određenog stanja koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, o čemu odlučuje ministar.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/42
+
+Zagreb, 19. ožujka 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

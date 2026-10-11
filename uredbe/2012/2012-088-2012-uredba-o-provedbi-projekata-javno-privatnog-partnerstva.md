@@ -400,148 +400,118 @@ PRILOG III.
 ## Obrazac izvješća o provedbi projekta javno-privatnog partnerstva
 
 <table><tbody>
-
 <tr>
 <td colspan="2">1. PROJEKT:</td>
 </tr>
-
 <tr>
 <td>a) PREDMET</td>
 <td></td>
 </tr>
-
 <tr>
 <td>b) NAZIV</td>
 <td></td>
 </tr>
-
 <tr>
 <td>c) TRAJANJE UGOVORA</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">2. JAVNI PARTNER:</td>
 </tr>
-
 <tr>
 <td>a) NAZIV</td>
 <td></td>
 </tr>
-
 <tr>
 <td>b) ADRESA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>c) OIB, MB</td>
 <td></td>
 </tr>
-
 <tr>
 <td>d) KONTAKT OSOBA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>e) TELEFON, ELEKTRONIČKA ADRESA</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">3. PRIVATNI PARTNER:</td>
 </tr>
-
 <tr>
 <td>a) NAZIV</td>
 <td></td>
 </tr>
-
 <tr>
 <td>b) ADRESA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>c) OIB, MB</td>
 <td></td>
 </tr>
-
 <tr>
 <td>d) KONTAKT OSOBA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>e) TELEFON, ELEKTRONIČKA ADRESA</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">4. UGOVORENA NAKNADA:</td>
 </tr>
-
 <tr>
 <td>a) Plaća JP – mjesečni iznos</td>
 <td></td>
 </tr>
-
 <tr>
 <td>b) Plaća PP – mjesečni iznos</td>
 <td></td>
 </tr>
-
 <tr>
 <td>5. IZVRŠAVANJE OBVEZA:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>a) Izvršava li javni partner redovito obveze, ako ne – koje?</td>
 <td></td>
 </tr>
-
 <tr>
 <td>b) Izvršava li privatni partner redovito obveze, ako ne – koje?</td>
 <td></td>
 </tr>
-
 <tr>
 <td>6. SPOR:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>a) Je li u posljednjih 6 mjeseci pokrenut spor pri provedbi projekta – zbog čega?</td>
 <td></td>
 </tr>
-
 <tr>
 <td>b) Je li pokrenut postupak rješavanja spora – kada i gdje, trenutni status?</td>
 <td></td>
 </tr>
-
 <tr>
 <td>7. KAZNE/PENALI:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>a) Postoji li razlika ugovorenog i izvršavanog plaćanja naknade uslijed evidentiranih propusta partnera u tijeku provedbe projekta – zašto?</td>
 <td></td>
 </tr>
-
 <tr>
 <td>b) Koji partner nije izvršavao ugovorne obveze?</td>
 <td></td>
 </tr>
-
 <tr>
 <td>c) Navedite iznos razlike – umanjenje vrijednosti</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">8. OSTALE NAPOMENE:</td>
 </tr>
@@ -802,142 +772,118 @@ Zoran Milanović, v. r.
 Za razdoblje od_______ do_________ godine<sup>1</sup>
 
 <table><tbody>
-
 <tr>
 <td>1.</td>
 <td>PROJEKT:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1.1.</td>
 <td>PREDMET</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1.2.</td>
 <td>NAZIV</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1.3.</td>
 <td>TRAJANJE UGOVORA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1.4.</td>
 <td>PREOSTALO VRIJEME DO ISTEKA UGOVORA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>JAVNI PARTNER:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2.1.</td>
 <td>NAZIV</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2.2.</td>
 <td>ADRESA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2.3.</td>
 <td>OIB, MB</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2.4.</td>
 <td>KONTAKT OSOBA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2.5.</td>
 <td>TELEFON, E-MAIL ADRESA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>PRIVATNI PARTNER:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>3.1.</td>
 <td>NAZIV</td>
 <td></td>
 </tr>
-
 <tr>
 <td>3.2.</td>
 <td>ADRESA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>3.3.</td>
 <td>OIB, MB</td>
 <td></td>
 </tr>
-
 <tr>
 <td>3.4.</td>
 <td>KONTAKT OSOBA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>3.5.</td>
 <td>TELEFON, E-MAIL ADRESA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td colspan="2">UGOVORENA NAKNADA:</td>
 </tr>
-
 <tr>
 <td>4.1.</td>
 <td>UGOVORENA NAKNADA RAZDOBLJA2</td>
 <td></td>
 </tr>
-
 <tr>
 <td>4.2.</td>
 <td>USKLAĐENA NAKNADA RAZDOBLJA3</td>
 <td></td>
 </tr>
-
 <tr>
 <td>4.3.</td>
 <td>ISPLAĆENA NAKNADA RAZDOBLJA4</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">5. UMANJENJA PLAĆANJA</td>
 </tr>
-
 <tr>
 <td>5.1.</td>
 <td>Razlozi umanjenja naknade:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>OSTALE NAPOMENE:</td>

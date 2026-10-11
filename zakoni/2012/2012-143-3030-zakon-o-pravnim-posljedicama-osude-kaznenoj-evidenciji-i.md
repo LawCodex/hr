@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2012-12-20
-last_amended: 2015-10-02
+last_amended: 2022-05-06
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "143/12, 105/15"
+narodne_novine: "143/12, 105/15, 32/17, 53/22"
 amendments:
   - "NN 105/2015 (2039) Zakon o dopuni Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji"
+  - "NN 32/2017 (708) Zakon o dopuni Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji"
+  - "NN 53/2022 (682) Zakon o izmjenama i dopunama Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3030"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 143/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/143/3030).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 105/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 105/2015, NN 32/2017, NN 53/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -533,3 +535,269 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o dopuni Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji (NN 32/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/32/708*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O PRAVNIM POSLJEDICAMA OSUDE, KAZNENOJ EVIDENCIJI I REHABILITACIJI
+
+Proglašavam Zakon o dopuni Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji, koji je Hrvatski sabor donio na sjednici 6. travnja 2017. godine.
+
+Klasa: 011-01/17-01/14  
+Urbroj: 71-06-01/1-17-2  
+Zagreb, 6. travnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O PRAVNIM POSLJEDICAMA OSUDE, KAZNENOJ EVIDENCIJI I REHABILITACIJI**
+
+### Članak 1.
+
+U Zakonu o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji (»Narodne novine«, br. 143/12. i 105/15.) iza članka 14.c dodaju se članci 14.d i 14.e koji glase:
+
+»Članak 14.d
+
+(1) Osoba može u sjedištu općinskog suda ili u njegovim stalnim službama ili preko sustava e-Građani za sebe zatražiti izdavanje potvrde iz kaznene evidencije radi kandidiranja za člana predstavničkog tijela jedinice lokalne i područne (regionalne) samouprave i za općinskog načelnika, gradonačelnika i župana te njihova zamjenika, kao i za zamjenika općinskog načelnika, gradonačelnika i župana iz reda pripadnika nacionalnih manjina, odnosno iz reda pripadnika hrvatskog naroda.
+
+(2) Izdavanje potvrde iz stavka 1. ovoga članka može se zatražiti nakon stupanja na snagu Odluke o raspisivanju izbora do predlaganja kandidacijskih lista za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave i kandidatura za općinske načelnike, gradonačelnike i župane te njihove zamjenike, kao i za zamjenike općinskih načelnika, gradonačelnika i župana iz reda pripadnika nacionalnih manjina, odnosno iz reda pripadnika hrvatskog naroda.
+
+(3) Općinski sud odnosno stalna služba će bez odgode izvršiti provjeru podataka iz kaznene evidencije te podnositelju zahtjeva izdati potvrdu o tome nalazi li se podnositelj zahtjeva u kaznenoj evidenciji. Općinski sud i stalna služba izdaju potvrdu prema podacima iz kaznene evidencije kojima raspolažu na dan izdavanja potvrde. Sadržaj potvrde propisuje se Pravilnikom iz članka 35. ovoga Zakona.
+
+(4) Ako se osoba nalazi u kaznenoj evidenciji, općinski sud i stalna služba će na njezin zahtjev bez odgode zatražiti od Ministarstva izdavanje posebnog uvjerenja u svrhu propisanu člankom 13. stavkom 2. Zakona o lokalnim izborima (»Narodne novine«, br. 144/12. i 121/16.). Ministarstvo će izdati posebno uvjerenje bez odgode, a najkasnije u roku od tri dana od dana zaprimanja zahtjeva.
+
+(5) Zahtjev iz stavka 1. ovoga članka podnosi se na obrascu propisanom Pravilnikom iz članka 35. ovoga Zakona. Zahtjev mora sadržavati ime i prezime osobe za koju se podaci traže, OIB, ime oca, datum i mjesto rođenja te potpis osobe za koju se podaci traže.
+
+(6) Izdavanje potvrde i uvjerenja iz ovoga članka oslobođeno je plaćanja sudskih i upravnih pristojbi.
+
+### Članak 14.e
+
+Ministarstvo izdaje uvjerenje iz članka 14.d ovoga Zakona prema podacima iz kaznene evidencije kojima raspolaže na dan izdavanja uvjerenja.«.
+
+### Članak 2.
+
+Ministar nadležan za pravosuđe dužan je uskladiti Pravilnik o kaznenoj evidenciji (»Narodne novine«, br. 7/13., 66/13. i 106/15.) s odredbama ovoga Zakona u roku od tri dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/49  
+Zagreb, 6. travnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji (NN 53/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/53/682*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PRAVNIM POSLJEDICAMA OSUDE, KAZNENOJ EVIDENCIJI I REHABILITACIJI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji, koji je Hrvatski sabor donio na sjednici 29. travnja 2022.
+
+Klasa: 011-02/22-02/36  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 3. svibnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PRAVNIM POSLJEDICAMA OSUDE, KAZNENOJ EVIDENCIJI I REHABILITACIJI**
+
+#### Članak 1.
+
+U Zakonu o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji (»Narodne novine«, br. 143/12., 105/15. i 32/17.) u članku 1. stavak 2. mijenja se i glasi:
+
+»(2) Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:
+
+– Okvirna Odluka Vijeća 2009/315/PUP od 26. veljače 2009. o organizaciji i sadržaju razmjene informacija iz kaznene evidencije između država članica,
+
+– Odluka Vijeća 2009/316/PUP od 6. travnja 2009. o uspostavi Europskog informacijskog sustava kaznene evidencije (ECRIS) na temelju članka 11. Okvirne Odluke 2009/315/PUP,
+
+– Direktiva (EU) 2019/884 Europskog parlamenta i Vijeća od 17. travnja 2019. o izmjeni Okvirne odluke Vijeća 2009/315/PUP u vezi s razmjenom podataka o državljanima trećih zemalja i u vezi s Europskim informacijskim sustavom kaznene evidencije (ECRIS) te o zamjeni Odluke Vijeća 2009/316/PUP (SL L 151. 7. 6. 2019.).«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ovim Zakonom osigurava se provedba Uredbe (EU) 2019/816 Europskog parlamenta i Vijeća od 17. travnja 2019. o uspostavi centraliziranog sustava za utvrđivanje država članica koje imaju podatke o osuđujućim presudama protiv državljana trećih zemalja i osoba bez državljanstva (sustav ECRIS-TCN) za dopunu Europskog informacijskog sustava kaznene evidencije te o izmjeni Uredbe (EU) 2018/1726 (SL L 135. 22. 5. 2019.).«.
+
+#### Članak 2.
+
+U članku 6. točki a) iza riječi: »državljanstvo« briše se zarez i dodaju se riječi: »ili državljanstva osuđene osobe ako je ona i državljanin druge države članice Europske unije ili državljanin treće zemlje, spol, biometrijski podaci (otisci prstiju i prikaz lica ako ga ima),«.
+
+#### Članak 3.
+
+U članku 9. stavak 1. mijenja se i glasi:
+
+»(1) Ministarstvo osigurava sudovima i državnim odvjetništvima neposredan pristup podacima upisanim u kaznenu evidenciju u odnosu na osobu za koju je započeo kazneni progon ili se vodi prekršajni postupak za prekršaj s elementima nasilja ili prekršaj za koji se može izreći kazna zatvora.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Neposredan pristup podacima iz Kaznene evidencije osigurava se sudovima i u području obiteljsko-pravne zaštite vezano uz zaštitu prava i interesa djece.«.
+
+#### Članak 4.
+
+U članku 10. stavku 1. iza riječi: »uvjerenja« dodaju se riječi: »i potvrda«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Uvjerenje iz stavka 1. ovoga članka sadržava cjelovite podatke iz kaznene evidencije za određenu osobu (opće uvjerenje) ili djelomične podatke iz kaznene evidencije za određenu osobu (posebno uvjerenje). Potvrda iz stavka 1. ovoga članka sadržava cjelovite podatke iz Kaznene evidencije za određenu osobu, a izdaje se u svrhu ostvarivanja prava u inozemstvu ili međunarodnoj organizaciji.«.
+
+#### Članak 5.
+
+U članku 11. točki k) na kraju rečenice točka se zamjenjuje zarezom i dodaje se točka l) koja glasi:
+
+»l) tijela nadležnog za izdavanje dozvola za obavljanje udomiteljstva, imenovanje skrbnika ili posebnog skrbnika i u području obiteljsko-pravne zaštite djece vezano uz zaštitu prava i interesa djece.«.
+
+#### Članak 6.
+
+U članku 13. stavku 4. podstavku 2. riječi: »članka 155. stavka 2.« zamjenjuju se riječima: »članka 155. stavka 3.«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Ministarstvo može omogućiti elektronski pristup podacima iz kaznene evidencije nadležnim tijelima javne vlasti kad postupaju po posebnim zakonima.
+
+(6) Javni naručitelji koji provode postupak javne nabave sukladno zakonu kojim se uređuje postupak provođenja javne nabave zatražit će od Ministarstva posebno uvjerenje iz kaznene evidencije elektronskim putem.«.
+
+#### Članak 7.
+
+U članku 14. stavku 2. riječ: »može« zamjenjuje se s riječju: »mora«.
+
+U stavku 3. iza riječi: »Osoba ima pravo« dodaju se riječi: »od Ministarstva ili preko sustava e-Građani«.
+
+#### Članak 8.
+
+U članku 14.a stavak 1. mijenja se i glasi:
+
+»(1) Osoba može za sebe u sjedištu općinskog suda ili u njegovoj stalnoj službi ili preko sustava e-Građani zatražiti izdavanje potvrde iz kaznene evidencije radi kandidiranja za zastupnika u Hrvatski sabor.«.
+
+U stavku 3. riječi: »Općinski sud će bez odgode« zamjenjuju se riječima: »Općinski sud ili njegova stalna služba će bez odgode«.
+
+U stavku 4. iza riječi: »općinski sud« dodaju se riječi: »ili njegova stalna služba«.
+
+#### Članak 9.
+
+U članku 19. stavku 4. podstavak 5. mijenja se i glasi:
+
+» – tri godine od dana izdržane, zastarjele ili oproštene kazne kod osude na kaznu zatvora ili kaznu maloljetničkog zatvora manju od jedne godine, od dana plaćanja novčane kazne, od dana isteka roka provjeravanja kod uvjetne osude i od dana izvršenja rada za opće dobro,«.
+
+Iza podstavka 5. dodaje se podstavak 6. koji glasi:
+
+» – jedna godina od dana pravomoćnosti odluke o oslobođenju od kazne.«.
+
+Iza stavka 4. dodaju se novi stavci 5. i 6. koji glase:
+
+(5) Ako je novčana kazna izrečena kao sporedna kazna, rehabilitacija nastupa istekom rokova za glavnu kaznu propisanih u stavcima 4. i 6. ovog članka i uz uvjet da je sporedna novčana kazna izvršena.
+
+(6) Ako je izrečena djelomična uvjetna osuda, rehabilitacija nastupa nakon izdržane kazne zatvora i protekom tri godine od dana isteka roka provjeravanja od uvjetne osude.
+
+U dosadašnjem stavku 5., koji postaje stavak 7., riječi: »u stavku 4.« zamjenjuju se riječima: »u stavcima 4., 5. i 6.«.
+
+U dosadašnjem stavku 6., koji postaje stavak 8., riječi: »iz stavka 4. ovoga članka« zamjenjuju se riječima: »iz stavaka 4., 5. i 6. ovoga članka«.
+
+Dosadašnji stavak 7. postaje stavak 9.«
+
+#### Članak 10.
+
+U članku 24. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Referentni implementacijski računalni program za ECRIS je računalni program koji je Europska komisija razvila i stavila na raspolaganje državama članicama za razmjenu podataka iz kaznenih evidencija putem ECRIS-a.«.
+
+#### Članak 11.
+
+U članku 27. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Podaci o otiscima prstiju su podaci koji se odnose na ravne otiske i otiske uzete zakretanjem svih prstiju osobe.
+
+(5) Prikaz lica znači digitalni prikaz lica osobe.«.
+
+#### Članak 12.
+
+U članku 29. iza stavka 6. dodaju se stavci 7. do 10. koji glase:
+
+»(7) Ako su podaci iz kaznene evidencije o osuđujućim presudama izrečenima protiv državljanina treće zemlje zatraženi na temelju članka 6. Okvirne odluke Vijeća 2009/315/PUP za potrebe kaznenog postupka, država članica koja zaprima zahtjev dostavlja podatke o svim osuđujućim presudama izrečenima u državi članici koja zaprima zahtjev i unesenima u kaznenu evidenciju te o svim osuđujućim presudama izrečenima u trećim zemljama koje su joj naknadno dostavljene i unesene u kaznenu evidenciju.
+
+(8) Ako državljanin treće zemlje zatraži od središnjeg tijela države članice podatke o vlastitoj kaznenoj evidenciji, to središnje tijelo podnosi zahtjev za podacima i povezanim informacijama iz kaznene evidencije samo onim središnjim tijelima država članica koje posjeduju podatke iz kaznene evidencije o toj osobi te uključuje podatke i povezane informacije u izvadak koji treba izdati dotičnoj osobi.
+
+(9) Ako su podaci iz kaznene evidencije o osuđujućim presudama izrečenima protiv državljanina države članice zatraženi na temelju članka 6. Okvirne odluke Vijeća 2009/315/PUP od središnjeg tijela države članice koja nije država članica čiji je osoba državljanin, država članica koja zaprima zahtjev dostavlja takve podatke u istom opsegu kako je predviđeno člankom 13. Europske konvencije o uzajamnoj sudskoj pomoći u kaznenim stvarima.
+
+(10) Ako se podaci iz stavaka 7. do 9. ovog članka traže u bilo koju drugu svrhu osim u svrhu kaznenog postupka, na odgovarajući način primjenjuje se stavak 2. ovog članka.«.
+
+#### Članak 13.
+
+U članku 32. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Državljanin treće zemlje je osoba koja nije građanin Unije u smislu članka 20. stavka 1. Ugovora o funkcioniranju Europske unije ili koja je osoba bez državljanstva ili čije državljanstvo nije poznato.«.
+
+#### Članak 14.
+
+Iza članka 33. dodaje se članak 33.a koji glasi:
+
+»Članak 33.a
+
+(1) ECRIS se sastoji od sljedećih elemenata:
+
+– referentnog implementacijskog računalnog programa za ECRIS,
+
+– zajedničke komunikacijske infrastrukture između država članica.
+
+Svi podaci iz kaznenih evidencija pohranjuju se isključivo u bazama podataka kojima upravljaju države članice.
+
+Središnja tijela država članica nemaju izravan pristup bazama podataka kaznene evidencije drugih država članica.
+
+Za rad referentnog implementacijskog računalnog programa za ECRIS i baza podataka za pohranjivanje, slanje i primanje podataka iz kaznenih evidencija odgovorna je dotična država članica. Agencija EU-LISA podupire države članice u skladu sa svojim zadaćama kako su utvrđene u Uredbi 2019/816 Europskog parlamenta i Vijeća.
+
+(2) Komisija u provedbenim aktima utvrđuje:
+
+– standardizirani format u pogledu podataka o kaznenom djelu,
+
+– podatke o sadržaju osuđujuće presude,
+
+– pravila o tehničkoj provedbi ECRIS-a i razmjeni podataka o otiscima prstiju,
+
+– sva druga tehnička sredstva za organizaciju i olakšavanje razmjene podataka, kao što su:
+
+a) sredstva za olakšavanje razumijevanja i automatski prijevod prenesenih podataka,
+
+b) sredstva kojima se podaci mogu razmjenjivati u elektroničkom obliku, posebno u pogledu tehničkih specifikacija i primjenjivih postupaka razmjene.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 15.
+
+Ministar nadležan za pravosuđe dužan je uskladiti Pravilnik o kaznenoj evidenciji (»Narodne novine«, br. 37/21. i 39/21.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 16.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/159  
+Zagreb, 29. travnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

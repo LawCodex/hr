@@ -6,14 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1990-02-13
-last_amended: 1990-11-14
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 1990; may be obsolete or implicitly repealed"
+last_amended: 2023-05-03
+status: in_force
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 5/1990 (59) https://narodne-novine.nn.hr/eli/sluzbeni/1990/5/59"
-narodne_novine: "5/90, 47/90"
+narodne_novine: "5/90, 47/90, 114/22, 47/23"
 amendments:
   - "NN 47/1990 (881) Zakon o Izmjenama i dopunama Zakona o prekršajima protiv javnog reda i mira"
+  - "NN 114/2022 (1706) Zakon o izmjenama Zakona o prekršajima protiv javnog reda i mira"
+  - "NN 47/2023 (806) Zakon o izmjenama Zakona o prekršajima protiv javnog reda i mira"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1990/5/59"
 retrieved: 2026-10-12
 ---
@@ -24,7 +26,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 5/1990 (https://narodne-novine.nn.hr/eli/sluzbeni/1990/5/59).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 47/1990.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 47/1990, NN 114/2022, NN 47/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -331,3 +333,281 @@ dr. Žarko Domljan, v. r.
 Predsjednik Društveno-političkog vkjeća
 
 Ivan Vekić, v. r.
+
+## Zakon o izmjenama Zakona o prekršajima protiv javnog reda i mira (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1706*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PREKRŠAJIMA PROTIV JAVNOG REDA I MIRA
+
+Proglašavam Zakon o izmjenama Zakona o prekršajima protiv javnog reda i mira, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/104
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PREKRŠAJIMA PROTIV JAVNOG REDA I MIRA**
+
+### Članak 1.
+
+U Zakonu o prekršajima protiv javnog reda i mira (»Narodne novine«, br. 41/77., 52/87., 47/89., 55/89., 5/90. – pročišćeni tekst, 30/90. – ispravak pročišćenog teksta, 47/90. i 29/94.) u članku 4. riječi: »u protuvrijednosti domaće valute od 50 do 250 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 120,00 eura«.
+
+### Članak 2.
+
+U članku 5. stavku 1. riječi: »u protuvrijednosti domaće valute od 50 do 300 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 150,00 eura«.
+
+U stavku 2. riječi: »u protuvrijednosti domaće valute od 50 do 300 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 150,00 eura«.
+
+U stavku 3. riječi: »u protuvrijednosti domaće valute od 50 do 300 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 150,00 eura«.
+
+### Članak 3.
+
+U članku 6. riječi: »u protuvrijednosti domaće valute od 50 do 350 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 170,00 eura«.
+
+### Članak 4.
+
+U članku 7. riječi: »u protuvrijednosti domaće valute od 50 do 350 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 170,00 eura«.
+
+### Članak 5.
+
+U članku 8. riječi: »u protuvrijednosti domaće valute od 50 do 350 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 170,00 eura«.
+
+### Članak 6.
+
+U članku 9. riječi: »u protuvrijednosti domaće valute od 50 do 300 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 150,00 eura«.
+
+### Članak 7.
+
+U članku 10. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 8.
+
+U članku 11. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 9.
+
+U članku 12. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 10.
+
+U članku 13. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 11.
+
+U članku 14. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 12.
+
+U članku 15. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 13.
+
+U članku 16. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 14.
+
+U članku 17. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 15.
+
+U članku 18. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 16.
+
+U članku 19. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 17.
+
+U članku 20. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 18.
+
+U članku 21. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 19.
+
+U članku 22. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 20.
+
+U članku 23. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 21.
+
+U članku 26. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 22.
+
+U članku 27. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 23.
+
+U članku 28. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 24.
+
+U članku 29. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 25.
+
+U članku 30. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 26.
+
+U članku 36. stavku 5. riječi: »u protuvrijednosti domaće valute od 50 do 200 DEM« zamjenjuju se riječima: »u iznosu od 20,00 do 100,00 eura«.
+
+### Članak 27.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/104
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o prekršajima protiv javnog reda i mira (NN 47/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/47/806*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PREKRŠAJIMA PROTIV JAVNOG REDA I MIRA
+
+Proglašavam Zakon o izmjenama Zakona o prekršajima protiv javnog reda i mira, koji je Hrvatski sabor donio na sjednici 21. travnja 2023.
+
+Klasa: 011-02/23-02/33  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 27. travnja 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PREKRŠAJIMA PROTIV JAVNOG REDA I MIRA**
+
+### Članak 1.
+
+U Zakonu o prekršajima protiv javnog reda i mira (»Narodne novine«, br. 41/77., 52/87., 47/89., 55/89., 5/90. – pročišćeni tekst, 30/90. – ispravak pročišćenog teksta, 47/90., 29/94. i 114/22.) u članku 5. stavku 1. riječi: »u iznosu od 20,00 do 150,00 eura« zamjenjuju se riječima: »u iznosu od 700,00 do 4000,00 eura«.
+
+U stavku 2. riječi: »u iznosu od 20,00 do 150,00 eura« zamjenjuju se riječima: »u iznosu od 300,00 do 2000,00 eura«.
+
+U stavku 3. riječi: »u iznosu od 20,00 do 150,00 eura« zamjenjuju se riječima: »u iznosu od 300,00 do 2000,00 eura«.
+
+### Članak 2.
+
+U članku 6. riječi: »u iznosu od 20,00 do 170,00 eura« zamjenjuju se riječima: »u iznosu od 700,00 do 4000,00 eura«.
+
+### Članak 3.
+
+U članku 7. riječi: »u iznosu od 20,00 do 170,00 eura« zamjenjuju se riječima: »u iznosu od 300,00 do 2000,00 eura«.
+
+### Članak 4.
+
+U članku 8. riječi: »u iznosu od 20,00 do 170,00 eura« zamjenjuju se riječima: »u iznosu od 300,00 do 2000,00 eura«.
+
+### Članak 5.
+
+U članku 10. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 300,00 do 2000,00 eura«.
+
+### Članak 6.
+
+U članku 13. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 300,00 do 2000,00 eura«.
+
+### Članak 7.
+
+U članku 14. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 200,00 do 1000,00 eura«.
+
+### Članak 8.
+
+U članku 16. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 700,00 do 4000,00 eura«.
+
+### Članak 9.
+
+U članku 17. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 700,00 do 4000,00 eura«.
+
+### Članak 10.
+
+U članku 18. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 200,00 do 1000,00 eura«.
+
+### Članak 11.
+
+U članku 19. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 200,00 do 1000,00 eura«.
+
+### Članak 12.
+
+U članku 20. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 200,00 do 1000,00 eura«.
+
+### Članak 13.
+
+U članku 21. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 700,00 do 4000,00 eura«.
+
+### Članak 14.
+
+U članku 22. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 300,00 do 2000,00 eura«.
+
+### Članak 15.
+
+U članku 23. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 300,00 do 2000,00 eura«.
+
+### Članak 16.
+
+U članku 26. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 200,00 do 1000,00 eura«.
+
+### Članak 17.
+
+U članku 27. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 700,00 do 4000,00 eura«.
+
+### Članak 18.
+
+U članku 28. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 200,00 do 1000,00 eura«.
+
+### Članak 19.
+
+U članku 29. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 200,00 do 1000,00 eura«.
+
+### Članak 20.
+
+U članku 30. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 200,00 do 1000,00 eura«.
+
+### Članak 21.
+
+U članku 36. stavku 5. riječi: »u iznosu od 20,00 do 100,00 eura« zamjenjuju se riječima: »u iznosu od 200,00 do 1000,00 eura«.
+
+### Članak 22.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/22
+
+Zagreb, 21. travnja 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

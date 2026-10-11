@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-04-03
+last_amended: 2022-03-18
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "39/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "39/13, 114/18, 36/22"
+amendments:
+  - "NN 114/2018 (2209) Zakon o izmjenama Zakona o prehrambenim aditivima, aromama i prehrambenim enzimima"
+  - "NN 36/2022 (433) Zakon o izmjenama i dopuni Zakona o prehrambenim aditivima, aromama i prehrambenim enzimima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/725"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o prehrambenim aditivima, aromama i prehrambenim enzimima
 
 > Izvor: Narodne novine, NN 39/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/725).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2018, NN 36/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -356,3 +361,292 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o prehrambenim aditivima, aromama i prehrambenim enzimima (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2209*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PREHRAMBENIM ADITIVIMA, AROMAMA I PREHRAMBENIM ENZIMIMA
+
+Proglašavam Zakon o izmjenama Zakona o prehrambenim aditivima, aromama i prehrambenim enzimima, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/197
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PREHRAMBENIM ADITIVIMA, AROMAMA I PREHRAMBENIM ENZIMIMA**
+
+### Članak 1.
+
+U Zakonu o prehrambenim aditivima, aromama i prehrambenim enzimima (»Narodne novine«, br. 39/13.) u članku 3. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Nadležno tijelo za vođenje politike u području prehrambenih aditiva, aroma i prehrambenih enzima te za provedbu upravnih i stručnih poslova prema odredbama ovoga Zakona i uredbi iz članka 1. ovoga Zakona je ministarstvo nadležno za zdravstvo (u daljnjem tekstu: Ministarstvo).
+
+(2) Nadležno tijelo za provedbu inspekcijskog nadzora, odnosno službenih kontrola prema odredbama ovoga Zakona i uredbi iz članka 1. ovoga Zakona je Državni inspektorat.«.
+
+Stavci 3., 4. i 5. brišu se.
+
+Dosadašnji stavak 6. postaje stavak 3.
+
+### Članak 2.
+
+U članku 4. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Ministarstvo u području prehrambenih aditiva, aroma i prehrambenih enzima uređuje politiku sigurnosti hrane, prati i usklađuje zakonodavstvo te izrađuje smjernice za planove inspekcijskih nadzora, odnosno službenih kontrola.
+
+(2) Državni inspektorat donosi i provodi planove inspekcijskih nadzora, odnosno službenih kontrola na temelju procjene rizika, a koji obvezno sadržavaju planove monitoringa, uzimajući u obzir smjernice Ministarstva.«.
+
+Stavci 6. i 7. mijenjaju se i glase:
+
+»(6) Financijska sredstva za provedbu planova iz stavka 2. ovoga članka osigurava Državni inspektorat.
+
+(7) Izvješćivanje o provedenim monitorinzima, inspekcijskim nadzorima, odnosno službenim kontrolama iz stavka 2. ovoga članka provodi se sukladno posebnim propisima kojima su uređene službene kontrole hrane.«.
+
+Stavak 8. briše se.
+
+### Članak 3.
+
+U članku 6. stavku 2. podstavak 1. mijenja se i glasi:
+
+» – po potrebi sudjeluje u izradi smjernica za planove inspekcijskih nadzora, odnosno službenih kontrola,«.
+
+### Članak 4.
+
+U članku 7. stavku 2. riječi: »nadležnim tijelima« zamjenjuju se riječima: »Državnom inspektoratu«.
+
+### Članak 5.
+
+U članku 10. stavak 1. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor, odnosno službene kontrole nad provedbom ovoga Zakona i uredbi iz članka 1. ovoga Zakona obavljaju sanitarni inspektori i veterinarski inspektori Državnog inspektorata sukladno propisima kojima je uređen djelokrug i ovlasti Državnog inspektorata te službene kontrole hrane (u daljnjem tekstu: osobe ovlaštene za provedbu službenih kontrola).«.
+
+U stavku 11. riječi: »nadležno tijelo« zamjenjuju se riječima: »Državni inspektorat«.
+
+### Članak 6.
+
+U članku 12. stavak 3. mijenja se i glasi:
+
+»(3) Na zahtjev Državnog inspektorata laboratoriji su obvezni izdati izvješća o provedenim analizama službenih uzoraka na način i u obliku u kojem to od njih traži Državni inspektorat.«.
+
+### Članak 7.
+
+U cijelom tekstu Zakona riječi: »Ministarstvo nadležno za zdravlje« i »ministarstvo nadležno za zdravlje« u određenom padežu zamjenjuju se riječju: »Ministarstvo«, a riječi: »ministar nadležan za zdravlje« zamjenjuju se riječima: »ministar nadležan za zdravstvo« u odgovarajućem padežu.
+
+### Članak 8.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/189  
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o prehrambenim aditivima, aromama i prehrambenim enzimima (NN 36/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/36/433*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PREHRAMBENIM ADITIVIMA, AROMAMA I PREHRAMBENIM ENZIMIMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o prehrambenim aditivima, aromama i prehrambenim enzimima, koji je Hrvat­ski sabor donio na sjednici 11. ožujka 2022.
+
+Klasa: 011-02/22-02/26  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 16. ožujka 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PREHRAMBENIM ADITIVIMA, AROMAMA I PREHRAMBENIM ENZIMIMA**
+
+### Članak 1.
+
+U Zakonu o prehrambenim aditivima, aromama i prehrambenim enzimima (»Narodne novine«, br. 39/13. i 114/18.) u članku 2. riječi: »Uredbi (EZ) br. 882/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. o službenim kontrolama koje se provode radi provjeravanja poštivanja propisa o hrani i hrani za životinje te propisa o zdravlju i dobrobiti životinja (u daljnjem tekstu: Uredba (EZ) br. 882/2004)« zamjenjuju se riječima: »Uredbi (EU) 2017/625 Europskog parlamenta i Vijeća od 15. ožujka 2017. o službenim kontrolama i drugim službenim aktivnostima kojima se osigurava primjena propisa o hrani i hrani za životinje, pravila o zdravlju i dobrobiti životinja, zdravlju bilja i sredstvima za zaštitu bilja, o izmjeni uredaba (EZ) br. 999/2001, (EZ) br. 396/2005, (EZ) br. 1069/2009, (EZ) br. 1107/2009, (EU) br. 1151/2012, (EU) br. 652/2014, (EU) 2016/429 i (EU) 2016/2031 Europskog parlamenta i Vijeća, uredaba Vijeća (EZ) br. 1/2005 i (EZ) br. 1099/2009 i direktiva Vijeća 98/58/EZ, 1999/74/EZ, 2007/43/EZ, 2008/119/EZ i 2008/120/EZ te o stavljanju izvan snage uredaba (EZ) br. 854/2004 i (EZ) br. 882/2004 Europskog parlamenta i Vijeća, direktiva Vijeća 89/608/EEZ, 89/662/EEZ, 90/425/EEZ, 91/496/EEZ, 96/23/EZ, 96/93/EZ i 97/78/EZ te Odluke Vijeća 92/438/EEZ (SL L 95, 7. 4. 2017.; u daljnjem tekstu: Uredba (EU) 2017/625)«.
+
+### Članak 2.
+
+U članku 4. stavak 3. briše se.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., točka f) briše se.
+
+Dosadašnji stavci 5., 6. i 7. postaju stavci 4., 5. i 6.
+
+### Članak 3.
+
+U članku 7. stavak 3. mijenja se i glasi:
+
+»(3) U okviru sustava samokontrole i analize opasnosti subjekti u poslovanju s hranom obvezni su utvrditi kontrolne mjere u pogledu korištenja prehrambenih aditiva, aroma i enzima i izraditi godišnji plan uzorkovanja proizvoda te iste ispitati na sadržaj prehrambenih aditiva i aroma koje koriste u proizvodnji, a koji imaju propisane maksimalno dopuštene količine dodavanja ili prisutnosti u proizvodu.«.
+
+### Članak 4.
+
+Naslov iznad članka 9. i članak 9. brišu se.
+
+### Članak 5.
+
+U članku 10. stavku 3. riječi: »Uredbe (EZ) br. 882/2004« zamjenjuju se riječima: »Uredbe (EU) 2017/625«.
+
+Stavak 8. briše se.
+
+Dosadašnji stavak 9. postaje stavak 8.
+
+U dosadašnjem stavku 10., koji postaje stavak 9., riječi: »iz stavka 9.« zamjenjuju se riječima: »iz stavka 8.«.
+
+Dosadašnji stavak 11. postaje stavak 10.
+
+### Članak 6.
+
+U članku 11. stavku 1. podstavku 1. riječi: »člankom 54. stavkom 2. Uredbe (EZ) br. 882/2004« zamjenjuju se riječima: »člankom 138. stavkom 2. Uredbe (EU) 2017/625«.
+
+U stavku 6. riječi: »članku 54. stavku 5. Uredbe (EZ) br. 882/2004« zamjenjuju se riječima: »članku 138. stavku 4. Uredbe (EU) 2017/625«.
+
+### Članak 7.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+– stavlja na tržište ili koristi prehrambeni aditiv koji nije obuhvaćen popisom Zajednice iz Priloga II. Uredbe (EZ) br. 1333/2008 (članak 4. stavak 1. Uredbe (EZ) br. 1333/2008),
+
+– stavlja na tržište prehrambeni aditiv protivno uvjetima propisanim u Prilogu II. Uredbe (EZ) br. 1333/2008 (članak 4. stavak 1. Uredbe (EZ) br. 1333/2008),
+
+– stavlja na tržište hranu koja sadrži prehrambeni aditiv protivno uvjetima propisanim u Prilogu II. i Prilogu III. Uredbe (EZ) br. 1333/2008 (članak 4. stavci 1. i 2. Uredbe (EZ) br. 1333/2008),
+
+– stavlja na tržište prehrambeni aditiv, aromu, enzim ili prehrambenu tvar u kojima je prehrambeni aditiv korišten protivno uvjetima propisanim u Prilogu III. Uredbe (EZ) br. 1333/2008 (članak 4. stavak 2. Uredbe (EZ) br. 1333/2008),
+
+– stavlja na tržište prehrambeni aditiv koji nije namijenjen prodaji krajnjem potrošaču, na čijoj ambalaži ili spremniku ili na dokumentaciji koja prati pošiljku nisu navedene informacije iz članka 22. stavka 1. točaka a), d), f), g), i) i j) Uredbe (EZ) br. 1333/2008,
+
+– stavlja na tržište stolno sladilo bez upozorenja iz članka 23. stavka 3. Uredbe (EZ) br. 1333/2008,
+
+– stavlja na tržište hranu s dodanom aromom i/ili sastojkom hrane s osobinama aroma, koji ne ispunjavaju uvjete iz članka 4. Uredbe (EZ) br. 1334/2008,
+
+– stavlja na tržište hranu u koju su dodane tvari iz Priloga III. dijela A Uredbe (EZ) br. 1334/2008 (članak 6. stavak 1. Uredbe (EZ) br. 1334/2008),
+
+– stavlja na tržište hranu s dodanom aromom i/ili sastojkom s osobinama aroma u kojoj su prekoračene najviše dopuštene razine nekih tvari iz Priloga III. dijela B Uredbe (EZ) br. 1334/2008 (članak 6. stavak 2. Uredbe (EZ) br. 1334/2008),
+
+– stavlja na tržište i/ili proizvodi aromu i/ili sastojak hrane s osobinama aroma u kojoj su korištene nedozvoljene tvari iz Priloga IV. dijela A Uredbe (EZ) br. 1334/2008 (članak 7. stavak 1. Uredbe (EZ) br. 1334/2008),
+
+– stavlja na tržište hranu u kojoj su korištene arome i/ili sastojci hrane s osobinama aroma protivno uvjetima propisanim u članku 7. stavku 2. Uredbe (EZ) br. 1334/2008,
+
+– stavlja na tržište aromu i/ili izvornu sirovinu iz članka 9. Uredbe (EZ) br. 1334/2008, koja nije uključena u popis Zajednice (članak 10. Uredbe (EZ) br. 1334/2008),
+
+– stavlja na tržište hranu koja sadrži aromu i/ili izvornu sirovinu iz članka 9. Uredbe (EZ) br. 1334/2008 koja nije uključena u popis Zajednice (članak 10. Uredbe (EZ) br. 1334/2008),
+
+– stavlja na tržište aromu koja nije namijenjena prodaji krajnjem potrošaču na čijoj ambalaži ili spremniku ili na dokumentaciji koja prati pošiljku nisu navedene informacije iz članka 15. stavka 1. točaka a), d), f), g), i) i j) Uredbe (EZ) br. 1334/2008,
+
+– stavlja na tržište aromu dima protivno članku 4. stavku 2. Uredbe (EZ) br. 2065/2003,
+
+– stavlja na tržište hranu u kojoj je korištena aroma dima protivno članku 4. stavku 2. Uredbe (EZ) br. 2065/2003,
+
+– proizvodi aromu dima protivno članku 5. Uredbe (EZ) br. 2065/2003,
+
+– ne osigura sljedivost sukladno članku 13. Uredbe (EZ) br. 2065/2003,
+
+– stavlja na tržište i/ili upotrebljava u hrani enzim koji nije uvršten u Popis prehrambenih enzima Zajednice (članak 4. Uredbe (EZ) br. 1332/2008),
+
+– upotrebljava u hrani enzim protivno uvjetima iz Popisa prehrambenih enzima Zajednice (članak 4. Uredbe (EZ) br. 1332/2008),
+
+– stavlja na tržište enzim i/ili pripravak enzima koji nije namijenjen za prodaju krajnjem potrošaču na čijoj ambalaži ili spremniku ili na dokumentaciji koja prati pošiljku nisu navedene informacije iz članka 11. stavka 1. točaka a), d), f), g), j) i k) Uredbe (EZ) br. 1332/2008,
+
+– stavi na tržište aditiv, aromu ili enzim koji nisu označeni na hrvatskom jeziku sukladno odredbi članka 7. stavka 5. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 5000,00 do 10.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 5000,00 do 10.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost.«.
+
+### Članak 8.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 30.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+– stavlja na tržište ili koristi prehrambeni aditiv, aromu ili enzim koji nisu u skladu s utvrđenim specifikacijama, sukladno članku 7. stavku 1. ovoga Zakona,
+
+– stavlja na tržište prehrambeni aditiv koji nije namijenjen prodaji krajnjem potrošaču, na čijoj ambalaži ili spremniku ili na dokumentaciji koja prati pošiljku nisu navedene informacije iz članka 22. stavka 1. točaka b), c), e) i h) te stavaka 2., 3. i 4. Uredbe (EZ) br. 1333/2008,
+
+– stavlja na tržište prehrambeni aditiv koji je namijenjen prodaji krajnjem potrošaču na čijoj ambalaži nisu navedene informacije iz članka 23. stavaka 1. i 2. Uredbe (EZ) br. 1333/2008,
+
+– stavlja na tržište hranu koja sadrži bojilo navedeno u Prilogu V. Uredbe (EZ) br. 1333/2008 na kojoj nisu navedene dodatne informacije (članak 24. stavak 1. Uredbe (EZ) br. 1333/2008),
+
+– stavlja na tržište aromu koja nije namijenjena prodaji krajnjem potrošaču, na čijoj ambalaži ili spremniku ili na dokumentaciji koja prati pošiljku nisu navedene informacije iz članka 15. stavka 1. točaka b), c), e) i h) Uredbe (EZ) br. 1334/2008,
+
+– koristi izraz »prirodna« za arome koje ne udovoljavaju zahtjevima iz članka 16. Uredbe (EZ) br. 1334/2008,
+
+– stavlja na tržište aromu koja je namijenjena prodaji krajnjem potrošaču na čijoj ambalaži nisu navedene informacije sukladno članku 17. Uredbe (EZ) br. 1334/2008,
+
+– stavlja na tržište enzim i/ili pripravak enzima koji nije namijenjen za prodaju krajnjem potrošaču na čijoj ambalaži ili spremniku ili na dokumentaciji koja prati pošiljku nisu navedene informacije iz članka 11. stavka 1. točaka b), c), e), h) i i) te stavaka 2. i 3. Uredbe (EZ) br. 1332/2008,
+
+– stavlja na tržište enzim i/ili pripravak enzima koji je namijenjen prodaji krajnjem potrošaču na čijoj ambalaži nisu navedene informacije sukladno članku 12. Uredbe (EZ) br. 1332/2008.
+
+(2) Novčanom kaznom u iznosu od 2000,00 do 5000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 3000,00 do 7000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Osoba ovlaštena za provedbu službenih kontrola neće podnositi optužni prijedlog ili prekršajni nalog ako je učinjen prekršaj iz stavka 1. podstavaka 2., 5. i 8. ovoga članka, ako subjekt u poslovanju s hranom tijekom nadzora ili u rješenjem određenom roku otkloni utvrđene nesukladnosti za koje je utvrđeno da ih je počinio prvi put.«.
+
+### Članak 9.
+
+Iza članka 14. dodaje se članak 14.a koji glasi:
+
+»Članak 14.a
+
+(1) Novčanom kaznom u iznosu od 5000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+– nije provela analizu opasnosti i uspostavila kontrolne mjere (članak 7. stavak 3.),
+
+– nije izradila godišnji plan uzorkovanja proizvoda i postupila po istom sukladno članku 7. stavku 3. ovoga Zakona,
+
+– nije provela postupak validacije za prehrambene aditive koji se dodaju u količinama čija maksimalna količina nije utvrđena (quantum satis) sukladno članku 7. stavku 4. ovoga Zakona,
+
+– skladišti aditiv, aromu i enzim ili njihove mješavine protivno članku 7. stavku 6. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 500,00 do 1000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 2000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaje iz stavka 1. ovoga članka novčana kazna u iznosu od 2500,00 kuna na mjestu počinjenja prekršaja može se izreći pravnoj osobi.
+
+(5) Za prekršaje iz stavka 1. ovoga članka novčana kazna u iznosu od 250,00 kuna na mjestu počinjenja prekršaja može se izreći odgovornoj osobi u pravnoj osobi.
+
+(6) Za prekršaje iz stavka 1. ovoga članka novčana kazna u iznosu od 1000,00 kuna na mjestu počinjenja prekršaja može se izreći fizičkoj osobi obrtniku i osobi koja obavlja drugu samostalnu djelatnost.«.
+
+### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/90
+
+Zagreb, 11. ožujka 2022.
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

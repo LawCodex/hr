@@ -68,12 +68,10 @@ f = čimbenik korekcije.
 Čimbenik korekcije određuje se na temelju podataka o klasi i stupnju prekrivenosti masnim tkivom, a dobije se postupkom klasiranja toplog trupa na temelju Pravilnika. Čimbenik korekcije određuje se prema sljedećoj tablici:
 
 <table>
-
 <tr>
 <td rowspan="2">Klasa</td>
 <td colspan="5">Stupanj prekrivenosti masnim tkivom</td>
 </tr>
-
 <tr>
 <td>1</td>
 <td>2</td>
@@ -81,7 +79,6 @@ f = čimbenik korekcije.
 <td>4</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>E</td>
 <td>1,0750</td>
@@ -90,7 +87,6 @@ f = čimbenik korekcije.
 <td>1,1000</td>
 <td>1,0750</td>
 </tr>
-
 <tr>
 <td>U</td>
 <td>1,0125</td>
@@ -99,7 +95,6 @@ f = čimbenik korekcije.
 <td>1,0375</td>
 <td>1,0125</td>
 </tr>
-
 <tr>
 <td>R</td>
 <td>0,9500</td>
@@ -108,7 +103,6 @@ f = čimbenik korekcije.
 <td>0,9750</td>
 <td>0,9500</td>
 </tr>
-
 <tr>
 <td>O</td>
 <td>0,8875</td>
@@ -117,7 +111,6 @@ f = čimbenik korekcije.
 <td>0,9125</td>
 <td>0,8875</td>
 </tr>
-
 <tr>
 <td>P</td>
 <td>0,6500</td>
@@ -126,7 +119,6 @@ f = čimbenik korekcije.
 <td>0,6750</td>
 <td>0,6500</td>
 </tr>
-
 </table>
 
 ## Članak 6.

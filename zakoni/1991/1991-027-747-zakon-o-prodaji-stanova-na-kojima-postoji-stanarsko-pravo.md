@@ -10,7 +10,7 @@ last_amended: 1999-09-22
 status: unknown
 status_basis: "no repeal detected in Narodne novine, but no amendment since 1999; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "27/91, 33/91, 6/92, 8/92, 8/92, 33/92, 69/92, 25/93, 48/93, 44/94, 47/94, 58/95, 68/98, 96/99"
+narodne_novine: "27/91, 33/91, 6/92, 8/92, 8/92, 33/92, 69/92, 25/93, 48/93, 2/94, 44/94, 47/94, 58/95, 68/98, 96/99"
 amendments:
   - "NN 33/1991 (942) Ispravak Zakona o prodaji stanova na kojima postoji stanarsko pravo"
   - "NN 6/1992 (97) Uredba o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo"
@@ -20,6 +20,7 @@ amendments:
   - "NN 69/1992 (1824) Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo"
   - "NN 25/1993 (441) Zakon o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo"
   - "NN 48/1993 (936) Zakon o dopuni Zakona o prodaji stanova na kojima postoji stanarsko pravo"
+  - "NN 2/1994 (14) Zakon o dopuni Zakona o prodaji stanova na kojima postoji stanarsko pravo"
   - "NN 44/1994 (778) Zakon o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo"
   - "NN 47/1994 (827) Ispravak Zakona o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo"
   - "NN 58/1995 (1089) Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo"
@@ -33,7 +34,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 27/1991 (https://narodne-novine.nn.hr/eli/sluzbeni/1991/27/747).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 33/1991, NN 6/1992, NN 8/1992, NN 8/1992, NN 33/1992, NN 69/1992, NN 25/1993, NN 48/1993, NN 44/1994, NN 47/1994, NN 58/1995, NN 68/1998, NN 96/1999.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 33/1991, NN 6/1992, NN 8/1992, NN 8/1992, NN 33/1992, NN 69/1992, NN 25/1993, NN 48/1993, NN 2/1994, NN 44/1994, NN 47/1994, NN 58/1995, NN 68/1998, NN 96/1999.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1190,6 +1191,50 @@ ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
 Predsjednik Zastupničkog doma Sabora
 
 Stjepan Mesić, v. r.
+
+## Zakon o dopuni Zakona o prodaji stanova na kojima postoji stanarsko pravo (NN 2/1994)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1994/2/14*
+
+ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O PRODAJI STANOVA NA KOJIMA POSTOJI STANARSKO PRAVO
+
+Proglašavam Zakon o dopuni Zakona o prodaji stanova na kojima postoji stanarsko pravo, koji je donio Zastupnički dom Sabora Republike Hrvatske na sjednici dana 30. prosinca 1993. godine.
+
+Broj: PA4-6/1-93.
+
+Zagreb. 6. siječnja 1994.
+
+Predsjednik Republike Hrvatske
+
+dr. Franjo Tuđman, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O PRODAJI STANOVA NA KOJIMA POSTOJI STANARSKO PRAVO**
+
+### Članak 1.
+
+U Zakonu o prodaji stanova na kojima postoji stanarsko pravo "Narodne novine", br. 43/92. - pročišćeni tekst, 62/92., 25/93. i 48/93." u članku 16. na kraju stavka 1. briše se tka i dodaju riječi: " - 20% kada stan kupuje osoba s invaliditetom radi kojega se u prostoru kreće isključivo u invalidskim kolicima kada stan kupuje za sebe ili kada stanuje i koristi stan kojeg kupuje jedan od njenih roditelja (usvojitelja). Jednaki popust ostvaruje i osoba koja je trajno i potpuno nesposobna za rad i privređivanje uslijed svog zdravstvenog.stanja i opće radne sposobnosti za obavljanje bilo kojeg posla, a čija je nesposobnost nastala prije navršene 15. godine života ili za vrijeme redovnog obrazovanja, odnosno njen roditelj (usvojitelj". Kada u slučaju iz ove alineje pravo na popust ostvaruje roditelj (usvojitelj) osobe s invaliditetom stanje u suvlasništvu roditelja (usvojitelja) i djeteta. Osobe iz ove alineje koje su sklopile ugovor o kupoprodaji stana do stupanja na snagu ovoga Zakona nemaju pravo na taj popust."
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim novinama".
+
+Klasa: 370-01/92-03/09
+
+Zagreb, 30. prosinca 1993.
+
+ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
+
+Predsjednik Zastupničkog doma Sabora
+
+Stjepan Mestć, v. r.
 
 ## Zakon o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo (NN 44/1994)
 

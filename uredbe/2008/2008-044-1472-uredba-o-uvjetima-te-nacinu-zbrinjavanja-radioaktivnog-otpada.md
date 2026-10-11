@@ -129,44 +129,36 @@ Radioaktivni otpad, iskorišteni zatvoreni radioaktivni izvori i izvori ionizira
 Radioaktivni otpad, s obzirom na koncentraciju aktivnosti ili ukupnu aktivnost i vrijeme poluraspada radionuklida sadržanih u radioaktivnom otpadu, svrstava se u sljedeće razrede:
 
 <table>
-
 <tr>
 <td colspan="2">Razred radioaktivnog otpada</td>
 <td>Tipična svojstva<br> </td>
 </tr>
-
 <tr>
 <td colspan="2">Izuzeti i otpušteni radioaktivni otpad<br> </td>
 <td>Koncentracija aktivnosti ili ukupna aktivnost u radioaktivnom otpadu jednaka ili niža od propisanih razina izuzimanja ili otpuštanja</td>
 </tr>
-
 <tr>
 <td colspan="2">Nisko radioaktivni kratkoživući otpad<br> </td>
 <td>Radioaktivni otpad sadrži radionuklide s vremenom poluraspada kraćim od 100 dana koji će se raspasti do razine otpuštanja za 3 godine od dana nastanka</td>
 </tr>
-
 <tr>
 <td colspan="2">Nisko i srednje radioaktivni otpad<br> </td>
 <td>Radioaktivni otpad s vremenom poluraspada kraćim od 30 godina i koncentracijom aktivnosti ili ukupnom aktivnosti koja će i poslije 3 godine biti iznad propisanih razina izuzimanja ili otpuštanja, a proizvodnja topline u radioaktivnom otpadu je niža od 2 kW/m<sup>3 (1)</sup></td>
 </tr>
-
 <tr>
 <td></td>
 <td>2.1.Kratkoživući<br> </td>
 <td>Radioaktivni otpad sadrži radionuklide s vremenom poluraspada kraćim od 30 godina (za alfa radionuklide ograničenje koncentracije aktivnosti od 4000 Bq/g u pojedinom pakiranju i 400 Bq/g u prosjeku za sveukupni radioaktivni otpad)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>2.2.Dugoživući<br> </td>
 <td>Radioaktivni otpad s koncentracijom aktivnosti iznad granica za kratkoživući otpad</td>
 </tr>
-
 <tr>
 <td colspan="2">Visoko radioaktivni otpad<br> </td>
 <td>Toplinska snaga u radioaktivnom otpadu je iznad 2 kW/m<sup>3</sup> i koncentracija aktivnosti iznad granica za kratkoživući radioaktivni otpad</td>
 </tr>
-
 </table>
 
 ______  

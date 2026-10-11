@@ -6,11 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2016-12-09
+last_amended: 2024-12-24
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "115/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "115/16, 101/17, 114/22, 114/23, 152/24"
+amendments:
+  - "NN 101/2017 (2321) Zakon o izmjenama Zakona o lokalnim porezima"
+  - "NN 114/2022 (1680) Zakon o izmjenama Zakona o lokalnim porezima"
+  - "NN 114/2023 (1610) Zakon o izmjenama i dopuni Zakona o lokalnim porezima"
+  - "NN 152/2024 (2504) Zakon o izmjenama i dopuni Zakona o lokalnim porezima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2524"
 retrieved: 2026-10-12
 ---
@@ -19,11 +24,11 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 115/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2524).
 >
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 101/2017, NN 114/2022, NN 114/2023, NN 152/2024.
+>
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
 HRVATSKI SABOR
-
-2524
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
@@ -172,12 +177,10 @@ Porez na nasljedstva i darove ne plaćaju:
 1. za osobne automobile:
 
 <table>
-
 <tr>
 <td colspan="2">Ako je snaga motora</td>
 <td colspan="3">Plaća se kuna</td>
 </tr>
-
 <tr>
 <td>preko kW</td>
 <td>do kW</td>
@@ -185,7 +188,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>od 2 do 5 godina starosti</td>
 <td>od 5 do 10 godina starosti</td>
 </tr>
-
 <tr>
 <td></td>
 <td>55</td>
@@ -193,7 +195,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>250,00</td>
 <td>200,00</td>
 </tr>
-
 <tr>
 <td>55</td>
 <td>70</td>
@@ -201,7 +202,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>350,00</td>
 <td>250,00</td>
 </tr>
-
 <tr>
 <td>70</td>
 <td>100</td>
@@ -209,7 +209,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>500,00</td>
 <td>400,00</td>
 </tr>
-
 <tr>
 <td>100</td>
 <td>130</td>
@@ -217,7 +216,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>700,00</td>
 <td>600,00</td>
 </tr>
-
 <tr>
 <td>130</td>
 <td></td>
@@ -225,18 +223,15 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>1.200,00</td>
 <td>1.000,00</td>
 </tr>
-
 </table>
 
 2. za motocikle:
 
 <table>
-
 <tr>
 <td colspan="2">Ako je snaga motora</td>
 <td colspan="4">Plaća se kuna</td>
 </tr>
-
 <tr>
 <td>preko kW</td>
 <td>do kW</td>
@@ -245,7 +240,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>od 5 do 10 godina starosti</td>
 <td>preko 10<br>godina starosti</td>
 </tr>
-
 <tr>
 <td></td>
 <td>20</td>
@@ -254,7 +248,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>50,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>20</td>
 <td>50</td>
@@ -263,7 +256,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>100,00</td>
 <td>50,00</td>
 </tr>
-
 <tr>
 <td>50</td>
 <td>80</td>
@@ -272,7 +264,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>300,00</td>
 <td>200,00</td>
 </tr>
-
 <tr>
 <td>80</td>
 <td></td>
@@ -281,18 +272,15 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>800,00</td>
 <td>600,00</td>
 </tr>
-
 </table>
 
 3. za lake četverocikle i četverocikle:
 
 <table>
-
 <tr>
 <td colspan="2">Ako je snaga motora</td>
 <td colspan="4">Plaća se kuna</td>
 </tr>
-
 <tr>
 <td>preko kW</td>
 <td>do kW</td>
@@ -301,7 +289,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>od 5 do 10 godina starosti</td>
 <td>preko 10<br>godina starosti</td>
 </tr>
-
 <tr>
 <td></td>
 <td>4</td>
@@ -310,7 +297,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>30,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>4</td>
 <td>10</td>
@@ -319,7 +305,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>50,00</td>
 <td>30,00</td>
 </tr>
-
 <tr>
 <td>10</td>
 <td>15</td>
@@ -328,7 +313,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>80,00</td>
 <td>50,00</td>
 </tr>
-
 </table>
 
 ##### Članak 12.
@@ -358,12 +342,10 @@ Porez na nasljedstva i darove ne plaćaju:
 1. za plovila bez kabine:
 
 <table>
-
 <tr>
 <td colspan="2">Ako je dužina plovila u metrima</td>
 <td colspan="3">Plaća se kuna</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -371,7 +353,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>preko</td>
 <td>do</td>
@@ -379,7 +360,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>preko 30 do 100</td>
 <td>preko 100</td>
 </tr>
-
 <tr>
 <td>5</td>
 <td>7</td>
@@ -387,7 +367,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>200,00</td>
 <td>400,00</td>
 </tr>
-
 <tr>
 <td>7</td>
 <td>10</td>
@@ -395,7 +374,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>300,00</td>
 <td>500,00</td>
 </tr>
-
 <tr>
 <td>10</td>
 <td>-</td>
@@ -403,13 +381,11 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>450,00</td>
 <td>600,00</td>
 </tr>
-
 </table>
 
 2. za plovila s kabinom na motorni pogon:
 
 <table>
-
 <tr>
 <td colspan="2">Ako je dužina plovila u metrima</td>
 <td>Plaća se kuna</td>
@@ -417,7 +393,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -426,7 +401,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>preko</td>
 <td>do</td>
@@ -435,7 +409,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>preko 100 do 500</td>
 <td>preko 500</td>
 </tr>
-
 <tr>
 <td>5</td>
 <td>7</td>
@@ -444,7 +417,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>300,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>7</td>
 <td>10</td>
@@ -453,7 +425,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>500,00</td>
 <td>2.500,00</td>
 </tr>
-
 <tr>
 <td>10</td>
 <td>12</td>
@@ -462,7 +433,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>1.000,00</td>
 <td>3.500,00</td>
 </tr>
-
 <tr>
 <td>12</td>
 <td>-</td>
@@ -471,18 +441,15 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>3.000,00</td>
 <td>5.000,00</td>
 </tr>
-
 </table>
 
 3. za plovila s kabinom i pogonom na jedra:
 
 <table>
-
 <tr>
 <td colspan="2">Ako je dužina plovila u metrima</td>
 <td colspan="4">Plaća se kuna</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -491,7 +458,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>preko</td>
 <td>do</td>
@@ -500,7 +466,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>preko 25 do 50</td>
 <td>preko 50</td>
 </tr>
-
 <tr>
 <td>5</td>
 <td>7</td>
@@ -509,7 +474,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>400,00</td>
 <td>500,00</td>
 </tr>
-
 <tr>
 <td>7</td>
 <td>10</td>
@@ -518,7 +482,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>1.000,00</td>
 <td>2.000,00</td>
 </tr>
-
 <tr>
 <td>10</td>
 <td>12</td>
@@ -527,7 +490,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>2.000,00</td>
 <td>3.000,00</td>
 </tr>
-
 <tr>
 <td>12</td>
 <td>-</td>
@@ -536,7 +498,6 @@ Porez na nasljedstva i darove ne plaćaju:
 <td>3.000,00</td>
 <td>4.000,00</td>
 </tr>
-
 </table>
 
 ##### Članak 15.
@@ -1130,3 +1091,711 @@ PRILOG (uz članak 23.)
 Obrazac PP-MI-PO
 
 ![](https://narodne-novine.nn.hr/files/_web/sluzbeni-dio/2016/129622/images/2527.jpg)
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o lokalnim porezima (NN 101/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/101/2321*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O LOKALNIM POREZIMA
+
+Proglašavam Zakon o izmjenama Zakona o lokalnim porezima, koji je Hrvatski sabor donio na sjednici 4. listopada 2017.
+
+Klasa: 011-01/17-01/82
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 10. listopada 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O LOKALNIM POREZIMA**
+
+#### Članak 1.
+
+U Zakonu o lokalnim porezima (»Narodne novine«, br. 115/16.) u članku 2. stavku 1. točke od 13. do 18. brišu se.
+
+#### Članak 2.
+
+U članku 11. stavku 3. točke 2. i 3. mijenjaju se i glase:
+
+»2. za motocikle:
+
+<table>
+<tr><td colspan="2">Ako je snaga motora</td><td colspan="3">Plaća se kuna</td></tr>
+<tr><td>preko kw</td><td>do kw</td><td>do 2 godine starosti</td><td>od 2 do 5 godina starosti</td><td>od 5 do 10 godina starosti</td></tr>
+<tr><td></td><td>20</td><td>100</td><td>80</td><td>50</td></tr>
+<tr><td>20</td><td>50</td><td>200</td><td>150</td><td>100</td></tr>
+<tr><td>50</td><td>80</td><td>500</td><td>400</td><td>300</td></tr>
+<tr><td>80</td><td></td><td>1.200</td><td>1.000</td><td>800</td></tr>
+</table>
+
+3. za lake četverocikle i četverocikle:
+
+<table>
+<tr><td colspan="2">Ako je snaga motora</td><td colspan="3">Plaća se kuna</td></tr>
+<tr><td>preko kw</td><td>do kw</td><td>do 2 godine starosti</td><td>od 2 do 5 godina starosti</td><td>od 5 do 10 godina starosti</td></tr>
+<tr><td></td><td>4</td><td>50</td><td>40</td><td>30</td></tr>
+<tr><td>4</td><td>10</td><td>80</td><td>60</td><td>50</td></tr>
+<tr><td>10</td><td>15</td><td>120</td><td>100</td><td>80</td></tr>
+<tr><td>15</td><td></td><td>140</td><td>120</td><td>100</td></tr>
+</table>
+
+«.
+
+#### Članak 3.
+
+U članku 20. stavak 2. briše se.
+
+#### Članak 4.
+
+U POGLAVLJU II. Odjeljak 5. »Porez na nekretnine« i članci od 30. do 40. brišu se.
+
+#### Članak 5.
+
+U članku 41. stavku 4. riječi: »poreza na nekretnine i« brišu se.
+
+#### Članak 6.
+
+U članku 42. stavku 1. iza točke 4. stavlja se točka, a točka 5. briše se.
+
+#### Članak 7.
+
+U POGLAVLJU IV. Odjeljak 6. »Porez na nekretnine« i članci 50. i 51. brišu se.
+
+#### Članak 8.
+
+U članku 54. točka 1. briše se.
+
+Dosadašnje točke 2. i 3. postaju točke 1. i 2.
+
+#### Članak 9.
+
+U članku 56. stavku 1. točke 2. i 3. brišu se.
+
+Dosadašnja točka 4. postaje točka 2.
+
+#### Članak 10.
+
+Članci 57., 58. i 59. brišu se.
+
+#### Članak 11.
+
+Članak 63. briše se.
+
+#### Članak 12.
+
+Članak 65. briše se.
+
+#### Članak 13.
+
+U članku 67. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+#### Članak 14.
+
+Članak 68. briše se.
+
+#### Članak 15.
+
+U članku 70. iza riječi: »1. siječnja 2017.« zarez i riječi: »osim odredbi članaka 30. – 40. ovoga Zakona i članaka 50. i 51. ovoga Zakona koji stupaju na snagu 1. siječnja 2018.« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 16.
+
+(1) Uspostavljeni elektronički sustavi iz članka 58. stavka 2. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16.) mogu se koristiti za komunalnu naknadu koja se utvrđuje i naplaćuje po posebnom propisu.
+
+(2) Podaci prikupljeni do stupanja na snagu ovoga Zakona temeljem članaka 58. i 59. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16.) mogu se koristiti za utvrđivanje i naplatu komunalne naknade, poreza na kuće za odmor i spomeničke rente koja se plaća ako se gospodarska djelatnost obavlja u nepokretnom kulturnom dobru ili na području kulturno-povijesne cjeline.
+
+#### Članak 17.
+
+Jedinice lokalne samouprave koje su donijele odluke temeljem članaka 41. i 42., a u vezi s člankom 67. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16.), dužne su ih uskladiti do 15. prosinca 2017. s odredbama ovoga Zakona.
+
+#### Članak 18.
+
+Postupci utvrđivanja i naplate poreza na cestovna motorna vozila započeti po Zakonu o lokalnim porezima (»Narodne novine«, br. 115/16.) završit će se po odredbama toga Zakona.
+
+#### Članak 19.
+
+Ministarstvo financija će najkasnije do 1. siječnja 2019. provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 20.
+
+Pravilnik o utvrđivanju korektivnih koeficijenata i evidenciji o nekretninama (»Narodne novine«, br. 1/17. i 33/17. – ispravak) prestaje važiti danom stupanja na snagu ovoga Zakona.
+
+#### Članak 21.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 2. i 18. koji stupaju na snagu 1. siječnja 2018.
+
+Klasa: 022-03/17-01/128  
+Zagreb, 4. listopada 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o lokalnim porezima (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1680*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O LOKALNIM POREZIMA
+
+Proglašavam Zakon o izmjenama Zakona o lokalnim porezima, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/78  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O LOKALNIM POREZIMA**
+
+### Članak 1.
+
+U Zakonu o lokalnim porezima (»Narodne novine«, br. 115/16. i 101/17.) u članku 4. stavku 1. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6636,14 eura«.
+
+### Članak 2.
+
+U članku 11. stavku 3. točke 1., 2. i 3. mijenjaju se i glase:
+
+»1. za osobne automobile:
+
+<table>
+<tr><td colspan="2">Ako je snaga motora</td><td colspan="3">Plaća se eura</td></tr>
+<tr><td>preko kW</td><td>do kW</td><td>do 2 godine starosti</td><td>od 2 do 5<br> godina starosti</td><td>od 5 do 10 godina starosti</td></tr>
+<tr><td></td><td>55</td><td>39,82</td><td>33,18</td><td>26,54</td></tr>
+<tr><td>55</td><td>70</td><td>53,09</td><td>46,45</td><td>33,18</td></tr>
+<tr><td>70</td><td>100</td><td>79,63</td><td>66,36</td><td>53,09</td></tr>
+<tr><td>100</td><td>130</td><td>119,45</td><td>92,91</td><td>79,63</td></tr>
+<tr><td>130</td><td></td><td>199,08</td><td>159,27</td><td>132,72</td></tr>
+</table>
+
+2. za motocikle:
+
+<table>
+<tr><td colspan="2">Ako je snaga motora</td><td colspan="3">Plaća se eura</td></tr>
+<tr><td>preko kw</td><td>do kw</td><td>do 2 godine starosti</td><td>od 2 do 5<br> godina starosti</td><td>od 5 do 10 godina starosti</td></tr>
+<tr><td></td><td>20</td><td>13,27</td><td>10,62</td><td>6,64</td></tr>
+<tr><td>20</td><td>50</td><td>26,54</td><td>19,91</td><td>13,27</td></tr>
+<tr><td>50</td><td>80</td><td>66,36</td><td>53,09</td><td>39,82</td></tr>
+<tr><td>80</td><td></td><td>159,27</td><td>132,72</td><td>106,18</td></tr>
+</table>
+
+3. za lake četverocikle i četverocikle:
+
+<table>
+<tr><td colspan="2">Ako je snaga motora</td><td colspan="3">Plaća se eura</td></tr>
+<tr><td>preko kw</td><td>do kw</td><td>do 2 godine starosti</td><td>od 2 do 5 godina starosti</td><td>od 5 do 10 godina starosti</td></tr>
+<tr><td></td><td>4</td><td>6,64</td><td>5,31</td><td>3,98</td></tr>
+<tr><td>4</td><td>10</td><td>10,62</td><td>7,96</td><td>6,64</td></tr>
+<tr><td>10</td><td>15</td><td>15,93</td><td>13,27</td><td>10,62</td></tr>
+<tr><td>15</td><td></td><td>18,58</td><td>15,93</td><td>13,27</td></tr>
+</table>
+
+«.
+
+### Članak 3.
+
+U članku 14. stavku 2. točke 1., 2. i 3. mijenjaju se i glase:
+
+»1. za plovila bez kabine:
+
+<table>
+<tr><td rowspan="2" colspan="2">Ako je dužina plovila u metrima</td><td colspan="3">Plaća se eura</td></tr>
+<tr><td colspan="3">Snaga motora (kW)</td></tr>
+<tr><td>preko</td><td>do</td><td>do 30</td><td>preko 30<br> do 100</td><td>preko 100</td></tr>
+<tr><td>5</td><td>7</td><td>–</td><td>26,54</td><td>53,09</td></tr>
+<tr><td>7</td><td>10</td><td>13,27</td><td>39,82</td><td>66,36</td></tr>
+<tr><td>10</td><td>–</td><td>26,54</td><td>59,73</td><td>79,63</td></tr>
+</table>
+
+2. za plovila s kabinom na motorni pogon:
+
+<table>
+<tr><td rowspan="2" colspan="2">Ako je dužina plovila u metrima</td><td colspan="4">Plaća se eura</td></tr>
+<tr><td colspan="4">Snaga motora (kW)</td></tr>
+<tr><td>preko</td><td>do</td><td>do 30</td><td>preko 30 do 100</td><td>preko 100 do 500</td><td>preko 500</td></tr>
+<tr><td>5</td><td>7</td><td>–</td><td>26,54</td><td>39,82</td><td>–</td></tr>
+<tr><td>7</td><td>10</td><td>26,54</td><td>53,09</td><td>66,36</td><td>331,81</td></tr>
+<tr><td>10</td><td>12</td><td>39,82</td><td>66,36</td><td>132,72</td><td>464,53</td></tr>
+<tr><td>12</td><td>–</td><td>53,09</td><td>132,72</td><td>398,17</td><td>663,61</td></tr>
+</table>
+
+3. za plovila s kabinom i pogonom na jedra:
+
+<table>
+<tr><td rowspan="2" colspan="2">Ako je dužina plovila u metrima</td><td colspan="4">Plaća se eura</td></tr>
+<tr><td colspan="4">Snaga motora (kW)</td></tr>
+<tr><td>preko</td><td>do</td><td>do 10</td><td>preko 10 do 25</td><td>preko 25 do 50</td><td>preko 50</td></tr>
+<tr><td>5</td><td>7</td><td>–</td><td>39,82</td><td>53,09</td><td>66,36</td></tr>
+<tr><td>7</td><td>10</td><td>26,54</td><td>79,63</td><td>132,72</td><td>265,45</td></tr>
+<tr><td>10</td><td>12</td><td>39,82</td><td>106,18</td><td>265,45</td><td>398,17</td></tr>
+<tr><td>12</td><td>–</td><td>53,09</td><td>199,08</td><td>398,17</td><td>530,89</td></tr>
+</table>
+
+«.
+
+### Članak 4.
+
+U članku 18. stavku 1. riječi: »100,00 kuna« zamjenjuju se riječima: »13,27 eura«.
+
+### Članak 5.
+
+U članku 26. stavku 1. riječi: »od 5 do 15 kuna/m<sup>2</sup>« zamjenjuju se riječima: »od 0,66 do 1,99 eura/m<sup>2</sup>«.
+
+### Članak 6.
+
+U članku 54. riječi: »od 5.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 13.270,00 eura«.
+
+### Članak 7.
+
+U članku 55. stavku 1. riječi: »od 5.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »od 5.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 3980,00 eura«.
+
+U stavku 3. riječi: »od 1.000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 1320,00 eura«.
+
+### Članak 8.
+
+U članku 56. stavku 1. riječi: »od 2.000,00 do 25.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 3310,00 eura«.
+
+U stavku 2. riječi: »od 1.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 100,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 10,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 1.000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 1320,00 eura«.
+
+### Članak 9.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/77
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o lokalnim porezima (NN 114/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1610*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O LOKALNIM POREZIMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o lokalnim porezima, koji je Hrvatski sabor donio na sjednici 28. rujna 2023.
+
+Klasa: 011-02/23-02/72  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 3. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O LOKALNIM POREZIMA**
+
+#### Članak 1.
+
+U Zakonu o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17. i 114/22.) u članku 4. stavku 1. riječi: »6636,14 eura« zamjenjuju se riječima: »6700,00 eura«.
+
+#### Članak 2.
+
+U članku 11. stavku 3. točke 1., 2. i 3. mijenjaju se i glase:
+
+»1. za osobne automobile:
+
+<table>
+<tr><td colspan="2">Ako je snaga motora</td><td colspan="3">Plaća se eura</td></tr>
+<tr><td>preko kW</td><td>do kW</td><td>do 2 godine starosti</td><td>od 2 do 5 godina starosti</td><td>od 5 do 10 godina starosti</td></tr>
+<tr><td></td><td>55</td><td>40,00</td><td>33,00</td><td>27,00</td></tr>
+<tr><td>55</td><td>70</td><td>53,00</td><td>46,00</td><td>33,00</td></tr>
+<tr><td>70</td><td>100</td><td>80,00</td><td>66,00</td><td>53,00</td></tr>
+<tr><td>100</td><td>130</td><td>119,00</td><td>93,00</td><td>80,00</td></tr>
+<tr><td>130</td><td></td><td>199,00</td><td>159,00</td><td>133,00</td></tr>
+</table>
+
+2. za motocikle:
+
+<table>
+<tr><td colspan="2">Ako je snaga motora</td><td colspan="3">Plaća se eura</td></tr>
+<tr><td>preko kw</td><td>do kw</td><td>do 2 godine starosti</td><td>od 2 do 5 godina starosti</td><td>od 5 do 10 godina starosti</td></tr>
+<tr><td></td><td>20</td><td>13,00</td><td>11,00</td><td>7,00</td></tr>
+<tr><td>20</td><td>50</td><td>27,00</td><td>20,00</td><td>13,00</td></tr>
+<tr><td>50</td><td>80</td><td>66,00</td><td>53,00</td><td>40,00</td></tr>
+<tr><td>80</td><td></td><td>159,00</td><td>133,00</td><td>106,00</td></tr>
+</table>
+
+3. za lake četverocikle i četverocikle:
+
+<table>
+<tr><td colspan="2">Ako je snaga motora</td><td colspan="3">Plaća se eura</td></tr>
+<tr><td>preko kw</td><td>do kw</td><td>do 2 godine starosti</td><td>od 2 do 5 godina starosti</td><td>od 5 do 10 godina starosti</td></tr>
+<tr><td></td><td>4</td><td>7,00</td><td>5,00</td><td>4,00</td></tr>
+<tr><td>4</td><td>10</td><td>11,00</td><td>8,00</td><td>7,00</td></tr>
+<tr><td>10</td><td>15</td><td>16,00</td><td>13,00</td><td>11,00</td></tr>
+<tr><td>15</td><td></td><td>19,00</td><td>16,00</td><td>13,00</td></tr>
+</table>
+
+«.
+
+#### Članak 3.
+
+U članku 14. stavku 2. točke 1., 2. i 3. mijenjaju se i glase:
+
+»1. za plovila bez kabine:
+
+<table>
+<tr><td rowspan="2" colspan="2">Ako je dužina plovila u metrima</td><td colspan="3">Plaća se eura</td></tr>
+<tr><td colspan="3">Snaga motora (kW)</td></tr>
+<tr><td>preko</td><td>do</td><td>do 30</td><td>preko 30 do 100</td><td>preko 100</td></tr>
+<tr><td>5</td><td>7</td><td>–</td><td>27,00</td><td>53,00</td></tr>
+<tr><td>7</td><td>10</td><td>13,00</td><td>40,00</td><td>66,00</td></tr>
+<tr><td>10</td><td>–</td><td>27,00</td><td>60,00</td><td>80,00</td></tr>
+</table>
+
+2. za plovila s kabinom na motorni pogon:
+
+<table>
+<tr><td rowspan="2" colspan="2">Ako je dužina<br> plovila u metrima</td><td colspan="4">Plaća se eura</td></tr>
+<tr><td colspan="4">Snaga motora (kW)</td></tr>
+<tr><td>preko</td><td>do</td><td>do 30</td><td>preko<br> 30 do 100</td><td>preko<br> 100 do 500</td><td>preko 500</td></tr>
+<tr><td>5</td><td>7</td><td>–</td><td>27,00</td><td>40,00</td><td>–</td></tr>
+<tr><td>7</td><td>10</td><td>27,00</td><td>53,00</td><td>66,00</td><td>332,00</td></tr>
+<tr><td>10</td><td>12</td><td>40,00</td><td>66,00</td><td>133,00</td><td>465,00</td></tr>
+<tr><td>12</td><td>–</td><td>53,00</td><td>133,00</td><td>398,00</td><td>664,00</td></tr>
+</table>
+
+3. za plovila s kabinom i pogonom na jedra:
+
+<table>
+<tr><td rowspan="2" colspan="2">Ako je dužina plovila u metrima</td><td colspan="4">Plaća se eura</td></tr>
+<tr><td colspan="4">Snaga motora (kW)</td></tr>
+<tr><td>preko</td><td>do</td><td>do 10</td><td>preko<br> 10 do 25</td><td>preko<br> 25 do 50</td><td>preko 50</td></tr>
+<tr><td>5</td><td>7</td><td>–</td><td>40,00</td><td>53,00</td><td>66,00</td></tr>
+<tr><td>7</td><td>10</td><td>27,00</td><td>80,00</td><td>133,00</td><td>265,00</td></tr>
+<tr><td>10</td><td>12</td><td>40,00</td><td>106,00</td><td>265,00</td><td>398,00</td></tr>
+<tr><td>12</td><td>–</td><td>53,00</td><td>199,00</td><td>398,00</td><td>531,00</td></tr>
+</table>
+
+«.
+
+#### Članak 4.
+
+U članku 18. stavku 1. riječi: »13,27 eura« zamjenjuju se riječima: »13,30 eura«.
+
+#### Članak 5.
+
+U članku 20. stavku 1. točka 1. briše se.
+
+Dosadašnje točke 2., 3. i 4. postaju točke 1., 2. i 3.
+
+#### Članak 6.
+
+Iznad članka 21. oznaka i naziv odjeljka l. brišu se.
+
+Članak 21. briše se.
+
+#### Članak 7.
+
+U članku 25. ispred riječi: »Porez« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Obveza plaćanja poreza na dohodak s osnove obavljanja djelatnosti iznajmljivanja stanova, soba i postelja putnicima i turistima te organiziranja kampova prema odredbama posebnog propisa o porezu na dohodak nema utjecaja na utvrđivanje statusa kuće za odmor.«.
+
+#### Članak 8.
+
+U članku 26. stavku 1. riječi: »od 0,66 do 1,99 eura/m<sup>2</sup>« zamjenjuju se riječima: »od 0,60 do 5,00 eura/m<sup>2</sup>«.
+
+#### Članak 9.
+
+U članku 41. stavku 1. riječi: »prireza porezu na dohodak i« brišu se.
+
+U stavku 2. riječi: »prireza porezu na dohodak i« brišu se.
+
+#### Članak 10.
+
+Članak 42. mijenja se i glasi:
+
+»(1) Predstavničko tijelo jedinice lokalne samouprave svojom odlukom utvrđuje:
+
+1. za potrebe plaćanja poreza na potrošnju, visinu stope poreza na potrošnju i nadležno porezno tijelo za utvrđivanje i naplatu poreza
+
+2. za potrebe plaćanja poreza na kuće za odmor, visinu poreza na kuće za odmor, a ovisno o mjestu, starosti, stanju infrastrukture te drugim okolnostima bitnim za korištenje kuće za odmor, i nadležno porezno tijelo za utvrđivanje i naplatu poreza
+
+3. za potrebe plaćanja poreza na korištenje javnih površina, što se smatra javnom površinom, visinu, način i uvjete plaćanja poreza na korištenje javnih površina, kao i nadležno porezno tijelo za utvrđivanje i naplatu poreza.
+
+(2) Odluka predstavničkog tijela jedinice lokalne samouprave iz stavka 1. ovoga članka, kao i odluka predstavničkog tijela jedinica lokalne i područne (regionalne) samouprave iz članka 41. stavka 4. ovoga Zakona može se mijenjati najkasnije do 15. prosinca tekuće godine, a stupa na snagu 1. siječnja iduće godine.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 11.
+
+(1) Odluku iz članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17. i 114/22.) jedinice lokalne samouprave dužne su uskladiti s odredbama ovoga Zakona do 15. prosinca 2023.
+
+(2) Odluka koju su jedinice lokalne samouprave donijele u skladu s člankom 42. stavkom 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17. i 114/22.) ostaje na snazi do 31. prosinca 2023.
+
+(3) Ako jedinica lokalne samouprave ne postupi u skladu sa stavkom 1. ovoga članka, odluka jedinice lokalne samouprave donesena na temelju Zakona o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17. i 114/22.) primjenjuje se u dijelovima koji nisu u suprotnosti s odredbama ovoga Zakona.
+
+(4) Postupci utvrđivanja i naplate lokalnih poreza započeti po Zakonu o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17. i 114/22.) završit će se po odredbama toga Zakona.
+
+#### Članak 12.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu prvoga dana od dana objave u »Narodnim novinama«, osim članaka 1. do 4. ovoga Zakona koji stupaju na snagu 1. siječnja 2024.
+
+Klasa: 022-02/23-01/53  
+Zagreb, 28. rujna 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o lokalnim porezima (NN 152/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2504*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O LOKALNIM POREZIMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o lokalnim porezima, koji je Hrvatski sabor donio na sjednici 13. prosinca 2024.
+
+Klasa: 011-02/24-02/89
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 17. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O LOKALNIM POREZIMA**
+
+#### Članak 1.
+
+U Zakonu o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17., 114/22. i 114/23.) u članku 2. stavku 1. točka 12. mijenja se i glasi:
+
+»12. nekretnina je svaka stambena zgrada ili stambeni dio stambeno-poslovne zgrade ili stan te svaki drugi samostalni funkcionalni prostor namijenjen stanovanju. Nekretninom se ne smatraju gospodarstvene zgrade koje služe samo za smještaj poljoprivrednih strojeva, oruđa i drugog pribora te nekretnine za koje se prema odluci o komunalnoj naknadi određuje koeficijent namjene za proizvodni ili neproizvodni poslovni prostor.«.
+
+#### Članak 2.
+
+Članak 20. mijenja se i glasi:
+
+»(1) Jedinice lokalne samouprave dužne su uvesti porez na nekretnine.
+
+(2) Jedinice lokalne samouprave mogu uvesti porez na potrošnju i porez na korištenje javnih površina.«.
+
+#### Članak 3.
+
+Naziv odjeljka 3. iznad članka 25. mijenja se i glasi: »Porez na nekretnine«.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Porez na nekretnine plaćaju domaće i strane, pravne i fizičke osobe koje su vlasnici nekretnina na dan 31. ožujka godine za koju se utvrđuje porez.
+
+(2) Iznimno od stavka 1. ovoga članka, ako se ne može utvrditi vlasnik, porez na nekretnine plaća korisnik nekretnine određen prema odredbama propisa kojim se uređuje komunalno gospodarstvo.
+
+(3) Za novoizgrađene nekretnine obveza plaćanja poreza na nekretnine nastaje danom izvršnosti uporabne dozvole godine za koju se utvrđuje porez odnosno danom početka korištenja nekretnine koja se koristi bez uporabne dozvole.
+
+(4) Obveza plaćanja poreza na dohodak od iznajmljivanja kuća, stanova, soba i postelja te objekata za robinzonski smještaj putnicima i turistima i organiziranja kampova prema odredbama propisa o porezu na dohodak, obveza plaćanja drugih poreza s osnove obavljanja djelatnosti te prijava prostora kao nekomercijalnog smještaja nema utjecaja na utvrđivanje statusa nekretnine za potrebe utvrđivanja poreza na nekretnine.«.
+
+#### Članak 4.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Porez na nekretnine plaća se godišnje od 0,60 do 8,00 eura/m² korisne površine nekretnine, određene propisom kojim se uređuju uvjeti i mjerila za izračun zaštićene najamnine.
+
+(2) Visinu poreza na nekretnine u granicama određenim stavkom 1. ovoga članka predstavničko tijelo jedinice lokalne samouprave propisuje svojom odlukom.
+
+(3) Ako predstavničko tijelo jedinice lokalne samouprave svojom odlukom ne propiše visinu poreza na nekretnine, porez se određuje u iznosu od 0,60 eura/m² korisne površine nekretnina.
+
+(4) U slučaju iz stavka 3. ovoga članka, Porezna uprava nadležno je porezno tijelo za utvrđivanje i naplatu poreza na nekretnine.
+
+(5) Jedinica lokalne samouprave može propisati visinu poreza na nekretnine ovisno o mjestu, ulici, naselju ili zoni gdje se nekretnina nalazi.
+
+(6) Jedinica lokalne samouprave može propisati da će se visina poreza utvrđena stavkom 5. ovoga članka uvećati ovisno o drugim kriterijima koji utječu na vrijednost nekretnine kao što je starost nekretnine i prisutnost sadržaja koji povećavaju vrijednost nekretnine.«.
+
+#### Članak 5.
+
+Članak 27. mijenja se i glasi:
+
+»(1) Porez na nekretnine ne plaća se na nekretnine:
+
+1. koje služe za stalno stanovanje
+
+2. koje se iznajmljuju na temelju ugovora o najmu za stalno stanovanje
+
+3. javne namjene i nekretnine namijenjene institucionalnom smještaju osoba
+
+4. koje se u poslovnim knjigama trgovačkih društava vode kao nekretnine namijenjene prodaji, ako je od dana unosa u poslovne knjige do 31. ožujka godine za koju se utvrđuje porez proteklo manje od šest mjeseci
+
+5. preuzete u zamjenu za nenaplaćena potraživanja, ako je od dana preuzimanja do 31. ožujka godine za koju se utvrđuje porez proteklo manje od šest mjeseci
+
+6. koje zbog proglašenja prirodnih nepogoda u određenom poreznom razdoblju nisu podobne kao stambeni prostor
+
+7. u slučajevima kada se iz svih okolnosti može utvrditi da je onemogućena stambena namjena nekretnine
+
+8. u vlasništvu jedinica lokalne samouprave koje se nalaze isključivo na teritoriju te jedinice lokalne samouprave
+
+9. koje domaćinu određenom prema propisu kojim se uređuje ugostiteljska djelatnost služe za stalno stanovanje.
+
+(2) Od obveze plaćanja poreza na nekretnine može se osloboditi socijalno ugroženi građanin pod uvjetima koje svojom odlukom odredi predstavničko tijelo jedinice lokalne samouprave.
+
+(3) Radi dokazivanja da se radi o nekretnini koja služi za stalno stanovanje, u skladu sa stavkom 1. točkom 1. ovoga članka, porezni obveznik dužan je na poziv poreznog tijela dokazati činjenicu stalnog stanovanja, pri čemu se činjenica stalnog stanovanja ne smatra dokazanom prijavom prebivališta na nekretnini.
+
+(4) Porezno tijelo ovlašteno je prikupljati podatke potrebne za dokazivanje činjenice stalnog stanovanja od drugih osoba koje raspolažu tim podacima, a osobito od osoba koje raspolažu podacima o korištenju dijelova infrastrukture.
+
+(5) U slučaju iz stavka 1. točke 2. ovoga članka smatra se da se nekretnina iznajmljuje na temelju ugovora o najmu za stalno stanovanje ako je u određenom poreznom razdoblju iznajmljena najmanje deset mjeseci.
+
+(6) U slučaju iz stavka 1. točke 7. ovoga članka stambena namjena nekretnine u smislu ovoga Zakona utvrđuje se na temelju postojanja infrastrukture ili opreme ili uređaja koji zamjenjuju priključak na infrastrukturu.
+
+(7) Za nekretnine iz stavka 1. točke 7. ovoga članka porezni obveznik dužan je dokazati da je onemogućena stambena namjena nekretnine.«.
+
+#### Članak 6.
+
+Članak 28. mijenja se i glasi:
+
+»Porez na nekretnine lokalni je porez čiji se prihod dijeli:
+
+1. 80 % udio jedinice lokalne samouprave na čijem se području nekretnina nalazi
+
+2. 20 % udio jedinice područne (regionalne) samouprave na čijem se području nekretnina nalazi.«.
+
+#### Članak 7.
+
+U članku 42. stavku 1. točka 2. mijenja se i glasi:
+
+»2. za potrebe plaćanja poreza na nekretnine, visinu poreza na nekretnine ovisno o kriterijima iz članka 26. stavaka 5. i 6. ovoga Zakona, uvjete za oslobođenje od plaćanja poreza na nekretnine za socijalno ugrožene osobe iz članka 27. stavka 2. ovoga Zakona i nadležno porezno tijelo za utvrđivanje i naplatu poreza«.
+
+#### Članak 8.
+
+Naziv odjeljak 5. iznad članka 49. mijenja se i glasi: »Porez na nekretnine«.
+
+Članak 49. mijenja se i glasi:
+
+»(1) Porezno tijelo donosi rješenje o porezu na nekretnine za svaku kalendarsku godinu prema stanju, namjeni i vlasništvu nekretnine utvrđenima na dan 31. ožujka godine za koju se utvrđuje porez.
+
+(2) Iznimno od stavka 1. ovoga članka, porezno tijelo neće donositi rješenje o porezu na nekretnine u slučaju kada se poreznog obveznika oslobađa od obveze poreza na nekretnine.
+
+(3) Promjene koje nastanu tijekom godine, a od utjecaja su na utvrđivanje porezne obveze, primjenjuju se od sljedeće kalendarske godine.
+
+(4) Porez na nekretnine plaća se u roku od 15 dana od dana dostave rješenja o utvrđivanju poreza.
+
+(5) Žalba izjavljena na rješenje o utvrđivanju poreza na nekretnine ne odgađa izvršenje rješenja.«.
+
+#### Članak 9.
+
+Iza članka 49. dodaju se članci 49.a i 49.b koji glase:
+
+»Članak 49.a
+
+Obveznik poreza na nekretnine dužan je do 31. ožujka godine za koju se utvrđuje porez poreznom tijelu prijaviti promjenu podataka bitnih za utvrđivanje obveze plaćanja poreza na nekretnine, a osobito promjenu obračunske površine nekretnine odnosno promjenu namjene nekretnine koja utječe na obračun poreza ili dokaze koji utječu na ostvarivanje uvjeta za oslobođenje od plaćanja poreza na nekretnine iz članka 27. stavka 1. točaka 2. do 7. ovoga Zakona.
+
+#### Članak 49.b
+
+(1) Za potrebe utvrđivanja poreza na nekretnine jedinice lokalne samouprave na čijem se području nekretnina nalazi i Porezna uprava ili drugo nadležno porezno tijelo dužni su razmjenjivati podatke o nekretnini i poreznom obvezniku.
+
+(2) Porezna uprava omogućuje nadležnoj jedinici lokalne samouprave ili drugom nadležnom poreznom tijelu dohvat podataka iz Evidencije OIB i Evidencije prometa nekretnina Informacijskog sustava Porezne uprave te ostale podatke koji mogu utjecati na utvrđivanje poreza na nekretnine.
+
+(3) Ako su Porezna uprava ili jedinica lokalne samouprave odnosno jedinica područne (regionalne) samouprave nadležno porezno tijelo, nadležna jedinica lokalne samouprave dostavlja nadležnom poreznom tijelu podatke iz evidencije komunalne naknade, ostale podatke koji mogu utjecati na utvrđivanje poreza na nekretnine, uključujući podatke o drugim kriterijima iz članka 26. stavka 6. ovoga Zakona i osobe koje su oslobođene od plaćanja poreza na nekretnine kao socijalno ugrožene osobe iz članka 27. stavka 2. ovoga Zakona.«.
+
+#### Članak 10.
+
+Članak 52. mijenja se i glasi:
+
+»Glede utvrđivanja, naplate, povrata poreza, žalbenog postupka, zastare i prekršajnog postupka primjenjuju se odredbe zakona kojim je uređen opći porezni postupak, osim ako je ovim Zakonom drukčije uređeno, i zakona kojim se uređuje prekršajni postupak.«.
+
+#### Članak 11.
+
+U članku 56. stavku 1. u uvodnoj rečenici riječi: »od 260,00 do 3310,00 eura« zamjenjuju se riječima: »od 1000,00 do 6630,00 eura«.
+
+Točka 2. mijenja se i glasi:
+
+»2. koja ne dostavi podatke za utvrđivanje poreza na nekretnine (članak 49.a).«.
+
+U stavku 2. riječi: »od 130,00 do 1990,00 eura« zamjenjuju se riječima: »od 1000,00 do 6630,00 eura«.
+
+U stavku 3. riječi: »od 10,00 do 660,00 eura« zamjenjuju se riječima: »od 1000,00 do 6630,00 eura«.
+
+U stavku 4. riječi: »od 130,00 do 1320,00 eura« zamjenjuju se riječima: »od 1000,00 do 6630,00 eura«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 12.
+
+(1) Odluku iz članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17., 114/22. i 114/23.) jedinice lokalne samouprave dužne su uskladiti s odredbama ovoga Zakona te je dostaviti Poreznoj upravi najkasnije do 28. veljače 2025. za primjenu tijekom 2025. godine.
+
+(2) Za jedinice lokalne samouprave koje su svojim odlukama propisale visinu poreza na kuće za odmor primjenjivu u 2024. godini, a u roku iz stavka 1. ovoga članka ne usklade svoje odluke, za potrebe utvrđivanja i naplate poreza na nekretnine smatrat će se da je donesena odluka o visini poreza na nekretnine, a u visini poreza na kuće za odmor utvrđenom prema tim odlukama.
+
+(3) Ako jedinica lokalne samouprave ne postupi u skladu sa stavkom 1. ovoga članka, odluka jedinice lokalne samouprave donesena na temelju Zakona o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17., 114/22. i 114/23.) primjenjuje se samo u dijelovima koji nisu u suprotnosti s odredbama ovoga Zakona.
+
+(4) Ako su Porezna uprava ili jedinica lokalne samouprave odnosno jedinica područne (regionalne) samouprave nadležno porezno tijelo, nadležna jedinica lokalne samouprave dužna je nadležnom poreznom tijelu dostaviti podatke za obračun poreza na nekretnine najkasnije do 30. lipnja 2025.
+
+#### Članak 13.
+
+Postupci utvrđivanja i naplate lokalnih poreza započeti po Zakonu o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17., 114/22. i 114/23.) završit će se po odredbama toga Zakona.
+
+#### Članak 14.
+
+Ministarstvo financija će u roku od tri godine od dana stupanja na snagu ovoga Zakona provesti vrednovanje ovoga Zakona.
+
+#### Članak 15.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2025.
+
+Klasa: 022-02/24-01/108
+
+Zagreb, 13. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

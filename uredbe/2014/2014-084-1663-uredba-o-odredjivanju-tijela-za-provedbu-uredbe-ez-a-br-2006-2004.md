@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2014-07-14
-last_amended: 2014-10-10
+last_amended: 2019-04-17
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "84/14, 120/14"
+narodne_novine: "84/14, 120/14, 39/19"
 amendments:
   - "NN 120/2014 (2284) Uredba o dopuni Uredbe o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača)"
+  - "NN 39/2019 (810) Uredba o izmjenama i dopuni Uredbe o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača)"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/84/1663"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 84/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/84/1663).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 120/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 120/2014, NN 39/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -150,3 +151,68 @@ Zagreb, 9. listopada 2014.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama i dopuni Uredbe o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača) (NN 39/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/39/810*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 123. Zakona o zaštiti potrošača (»Narodne novine«, br. 41/14, 110/15 i 14/19), Vlada Republike Hrvatske je na sjednici održanoj 15. travnja 2019. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O ODREĐIVANJU TIJELA ZA PROVEDBU UREDBE (EZ-a) BR. 2006/2004 EUROPSKOG PARLAMENTA I VIJEĆA OD 27. LISTOPADA 2004. O SURADNJI IZMEĐU NACIONALNIH TIJELA ODGOVORNIH ZA PROVEDBU PROPISA O ZAŠTITI POTROŠAČA (UREDBA O SURADNJI U ZAŠTITI POTROŠAČA)**
+
+### Članak 1.
+
+U Uredbi o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača) (»Narodne novine«, br. 84/14, 120/14 i 68/18), članak 1. mijenja se i glasi:
+
+»Ovom Uredbom određuju se tijela koja su nadležna za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača) (u daljnjem tekstu: Uredba (EZ) br. 2006/2004), kako je posljednji put izmijenjena Uredbom (EU) 2018/302 Europskog parlamenta i Vijeća od 28. veljače 2018. o rješavanju pitanja neopravdanog geografskog blokiranja i drugih oblika diskriminacije na unutarnjem tržištu na temelju državljanstva, mjesta boravišta ili mjesta poslovnog nastana klijenata te o izmjeni uredbi (EZ) br. 2006/2004 i (EU) 2017/2394 i Direktive 2009/22/EZ (Tekst značajan za EGP) (SL L 601, 2.3.2018.).«.
+
+### Članak 2.
+
+U članku 2. točki 15. riječi: »lijekova i homeopatskih proizvoda« zamjenjuju se riječima: »o lijekovima«.
+
+Iza točke 18. dodaje se točka 19. koja glasi:
+
+»19. zakon kojim se uređuje provedba Uredbe (EU) 2018/302 Europskog parlamenta i Vijeća od 28. veljače 2018. o rješavanju pitanja neopravdanoga geografskog blokiranja i drugih oblika diskriminacije na unutarnjem tržištu na temelju državljanstva, mjesta boravišta ili mjesta poslovnog nastana klijenta te o izmjeni uredbi (EZ) br. 2006/2004 i EU 2017/2394 i Direktive 2009/22/EZ.«.
+
+### Članak 3.
+
+Članak 3. mijenja se i glasi:
+
+»(1) Određuje se središnji ured Državnog inspektorata kao jedinstveni ured za vezu nadležan za koordinaciju Uredbe (EZ) br. 2006/2004, u skladu sa svojim ovlastima određenima posebnim propisima.
+
+(2) Nadležna tijela u Republici Hrvatskoj za provedbu Uredbe (EZ) br. 2006/2004 jesu:
+
+– Državni inspektorat
+
+– ministarstvo nadležno za financije
+
+– ministarstvo nadležno za more, promet i infrastrukturu
+
+– ministarstvo nadležno za zdravstvo
+
+– Agencija za elektroničke medije
+
+– Agencija za obalni linijski pomorski promet
+
+– Hrvatska regulatorna agencija za mrežne djelatnosti
+
+– Hrvatska agencija za civilno zrakoplovstvo
+
+– Hrvatska agencija za nadzor financijskih usluga
+
+– Hrvatska narodna banka.«.
+
+### Članak 4.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-03/18  
+Urbroj: 50301-25/16-19-2  
+Zagreb, 15. travnja 2019.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

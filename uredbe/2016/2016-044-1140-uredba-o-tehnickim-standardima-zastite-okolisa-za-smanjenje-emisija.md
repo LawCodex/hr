@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2016-05-11
+last_amended: 2019-11-07
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "44/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "44/16, 107/19"
+amendments:
+  - "NN 107/2019 (2143) Uredba o izmjenama i dopuni Uredbe o tehničkim standardima zaštite okoliša za smanjenje emisija hlapivih organskih spojeva koje nastaju tijekom punjenja motornih vozila benzinom na benzinskim postajama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/44/1140"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o tehničkim standardima zaštite okoliša za smanjenje emisija hlapivih organskih spojeva koje nastaju tijekom punjenja motornih vozila benzinom na benzinskim postajama
 
 > Izvor: Narodne novine, NN 44/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/44/1140).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 107/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -177,3 +181,50 @@ Tihomir Orešković, v. r.
 ## PROPISANA OZNAKA
 
 UGRAĐEN SUSTAV ZA POVRAT BENZINSKIH PARA
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopuni Uredbe o tehničkim standardima zaštite okoliša za smanjenje emisija hlapivih organskih spojeva koje nastaju tijekom punjenja motornih vozila benzinom na benzinskim postajama (NN 107/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/107/2143*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 61. stavaka 6. i 7. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13, 78/15, 12/18 i 118/18), Vlada Republike Hrvat­ske je na sjednici održanoj 7. studenoga 2019. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O TEHNIČKIM STANDARDIMA ZAŠTITE OKOLIŠA ZA SMANJENJE EMISIJA HLAPIVIH ORGANSKIH SPOJEVA KOJE NASTAJU TIJEKOM PUNJENJA MOTORNIH VOZILA BENZINOM NA BENZINSKIM POSTAJAMA**
+
+### Članak 1.
+
+U Uredbi o tehničkim standardima zaštite okoliša za smanjenje emisija hlapivih organskih spojeva koje nastaju tijekom punjenja motornih vozila benzinom na benzinskim postajama (»Narodne novine«, broj 44/16), u članku 3. točka 5. mijenja se i glasi:
+
+»5. inspekcijska tijela vrste A i C su pravne osobe akreditirane prema hrvatskoj normi koja utvrđuje zahtjeve za rad različitih vrsta tijela koja provode inspekciju«.
+
+### Članak 2.
+
+U članku 6. stavku 5. iza riječi: »vrste A« dodaju se riječi: »i/ili vrste C«.
+
+### Članak 3.
+
+U članku 8. stavku 1. riječi: »Hrvatskoj agenciji za okoliš i prirodu (u daljnjem tekstu: Agencija)« zamjenjuju se riječima: »ministarstvu nadležnom za zaštitu okoliša (u daljnjem tekstu: Ministarstvo)«.
+
+U stavcima 2., 3., 4., i 5. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+### Članak 4.
+
+Članak 10. briše se.
+
+### Članak 5.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-03/25  
+Urbroj: 50301-25/14-19-5  
+Zagreb, 7. studenoga 2019.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

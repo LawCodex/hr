@@ -6,13 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-28
-last_amended: 2013-11-15
+last_amended: 2025-07-23
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "80/13, 137/13"
+narodne_novine: "80/13, 137/13, 98/19, 33/23, 105/25"
 amendments:
   - "NN 137/2013 (2944) Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju"
+  - "NN 98/2019 (1971) Zakon o izmjeni Zakona o obveznom zdravstvenom osiguranju"
+  - "NN 33/2023 (583) Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju"
+  - "NN 105/2025 (1474) Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1666"
 retrieved: 2026-10-12
 ---
@@ -21,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 80/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1666).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 137/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 137/2013, NN 98/2019, NN 33/2023, NN 105/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1984,3 +1987,1103 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o obveznom zdravstvenom osiguranju (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1971*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O OBVEZNOM ZDRAVSTVENOM OSIGURANJU
+
+Proglašavam Zakon o izmjeni Zakona o obveznom zdravstvenom osiguranju, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/179
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O OBVEZNOM ZDRAVSTVENOM OSIGURANJU**
+
+### Članak 1.
+
+U Zakonu o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13. i 137/13.) u članku 15. stavku 1. riječi: »ured državne uprave nadležan za poslove socijalne skrbi« zamjenjuju se riječima: »nadležno upravno tijelo županije, odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na socijalnu skrb«.
+
+Člank 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/174
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju (NN 33/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/583*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNOM ZDRAVSTVENOM OSIGURANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju, koji je Hrvatski sabor donio na sjednici 17. ožujka 2023.
+
+Klasa: 011-02/23-02/29
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 22. ožujka 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNOM ZDRAVSTVENOM OSIGURANJU**
+
+#### Članak 1.
+
+U Zakonu o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.) u članku 4. stavku 1. iza riječi: »boravkom« dodaju se riječi: »ili dugotrajnim boravištem«.
+
+#### Članak 2.
+
+Članak 5. mijenja se i glasi:
+
+»Na obvezno zdravstveno osiguranje, prema odredbama ovoga Zakona, obvezno se osiguravaju i državljani drugih država članica Europske unije, državljani države Europskoga gospodarskog prostora, Švicarske Konfederacije i Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske (u daljnjem tekstu: države članice), državljani države koja s Republikom Hrvatskom ima sklopljen ugovor o socijalnom osiguranju kojim je uređeno pitanje zdravstvenog osiguranja (u daljnjem tekstu: ugovorna država) te državljani države koja nije država članica niti ugovorna država (u daljnjem tekstu: treća država) s odobrenim privremenim boravkom u Republici Hrvatskoj, a na temelju radnog odnosa, odnosno obavljanja gospodarske ili profesionalne djelatnosti na državnom području Republike Hrvatske, ako su ispunjeni uvjeti prema propisima kojima se uređuje pitanje boravka i rada stranaca u Republici Hrvatskoj i ako propisima Europske unije, odnosno međunarodnim ugovorom nije drukčije određeno.«.
+
+#### Članak 3.
+
+Članak 7. mijenja se i glasi:
+
+»(1) Na obvezno zdravstveno osiguranje, prema ovom Zakonu, obvezno se osiguravaju i stječu status osiguranika:
+
+1. osobe u radnom odnosu, službenici i namještenici i s njima, prema posebnim propisima, izjednačene osobe zaposlene na državnom području Republike Hrvatske,
+
+2. osobe koje su izabrane ili imenovane na dužnosti u određenim tijelima javne vlasti, odnosno jedinicama lokalne i područne (regionalne) samouprave, ako za taj rad primaju plaću,
+
+3. osobe s prebivalištem, odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj zaposlene u drugoj državi članici ili ugovornoj državi koje nemaju zdravstveno osiguranje nositelja zdravstvenog osiguranja države članice ili ugovorne države, odnosno koje nisu obvezno zdravstveno osigurane prema propisima države rada na način kako je to određeno propisima Europske unije, odnosno međunarodnim ugovorom,
+
+4. članovi uprave trgovačkih društava, izvršni direktori trgovačkih društava, likvidatori i upravitelji zadruga, ako nisu obvezno zdravstveno osigurani po osnovi rada i ako posebnim propisom nije drukčije određeno,
+
+5. osobe koje se stručno osposobljavaju za rad bez zasnivanja radnog odnosa, odnosno koje se stručno osposobljavaju za rad uz mogućnost korištenja mjera aktivne politike zapošljavanja, u skladu s posebnim propisima,
+
+6. osobe koje na području Republike Hrvatske obavljaju gospodarsku djelatnost obrta i s obrtom izjednačenih djelatnosti, osobe koje samostalno u obliku slobodnog zanimanja obavljaju profesionalnu djelatnost te osobe koje u Republici Hrvatskoj obavljaju djelatnost poljoprivrede i šumarstva kao jedino ili glavno zanimanje, ako su obveznici poreza na dohodak ili poreza na dobit i ako nisu osigurane po osnovi rada ili su korisnici prava na mirovinu,
+
+7. osobe koje u Republici Hrvatskoj obavljaju poljoprivrednu djelatnost kao jedino ili glavno zanimanje, ako su vlasnici, posjednici ili zakupci ili ako poljoprivrednu djelatnost obavljaju u obliku samoopskrbnoga poljoprivrednog gospodarstva te ako nisu obveznici poreza na dohodak ili poreza na dobit i ako nisu obvezno zdravstveno osigurane po osnovi rada ili su korisnici prava na mirovinu ili se nalaze na redovitom školovanju,
+
+8. osobe koje obavljaju poljoprivrednu i šumarsku djelatnost kao jedino ili glavno zanimanje, a upisane su u Upisnik obiteljskih poljoprivrednih gospodarstava, odnosno Upisnik šumoposjednika u svojstvu nositelja ili člana obiteljskoga poljoprivrednog gospodarstva, ako nisu obvezno zdravstveno osigurane po osnovi rada ili su korisnici prava na mirovinu ili se nalaze na redovitom školovanju,
+
+9. svećenici i drugi vjerski službenici vjerske zajednice koja je upisana u evidenciju vjerskih zajednica koju vodi nadležno državno tijelo, ako nisu obvezno zdravstveno osigurani po osnovi rada,
+
+10. korisnici prava na mirovinu prema propisima o mirovinskom osiguranju Republike Hrvatske, ako imaju prebivalište, odobren stalni boravak ili dugotrajno boravište u Republici Hrvatskoj,
+
+11. korisnici prava na profesionalnu rehabilitaciju prema propisima o mirovinskom osiguranju Republike Hrvatske, ako imaju prebivalište, odobren stalni boravak ili dugotrajno boravište u Republici Hrvatskoj,
+
+12. korisnici mirovine i invalidnine koji to pravo ostvaruju isključivo od stranog nositelja mirovinskog i invalidskog osiguranja, ako propisima Europske unije, odnosno međunarodnim ugovorom nije drukčije određeno, ako imaju prebivalište, odobren stalni boravak ili dugotrajno boravište u Republici Hrvatskoj,
+
+13. osobe s prebivalištem, odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj, koje nisu obvezno zdravstveno osigurane po drugoj osnovi i koje su se prijavile Zavodu u roku od 30 dana od dana:
+
+a) prestanka radnog odnosa, prestanka obavljanja djelatnosti ili od dana prestanka primanja naknade plaće na koju imaju pravo prema ovom Zakonu,
+
+b) prijevremenog prestanka služenja vojnog roka, odnosno dragovoljnog služenja vojnog roka, odnosno od dana isteka propisanog roka za služenje vojnog roka, odnosno dragovoljnog služenja vojnog roka,
+
+c) otpuštanja iz ustanove za izvršenje kaznenih i prekršajnih sankcija, iz zdravstvene ili druge specijalizirane ustanove, ako je bila primijenjena sigurnosna mjera obveznoga psihijatrijskog liječenja ili obveznoga liječenja od ovisnosti u zdravstvenoj ustanovi,
+
+d) navršenih 18 godina života, ako nisu obvezno zdravstveno osigurane po drugoj osnovi,
+
+e) isteka školske, odnosno akademske godine u kojoj su završile redovito školovanje prema propisima o redovitom školovanju u Republici Hrvatskoj ili drugoj državi članici, odnosno položenoga završnog ispita,
+
+14. redoviti učenici srednjih škola i redoviti studenti visokih učilišta stariji od 18 godina života koji su državljani Republike Hrvatske i imaju prebivalište ili boravište u Republici Hrvatskoj, odnosno koji su državljani Republike Hrvatske s prebivalištem u drugoj državi članici koji u Republici Hrvatskoj imaju boravište, pod uvjetom da nisu obvezno zdravstveno osigurani u drugoj državi članici, te stranci s odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj, s tim da status osiguranika po toj osnovi mogu koristiti najduže do isteka školske godine, odnosno završetka akademske godine u kojoj su završili redovito školovanje, a najduže u trajanju od ukupno osam godina po toj osnovi, ako obvezno zdravstveno osiguranje ne ostvaruju po drugoj osnovi,
+
+15. redoviti učenici srednjih škola i redoviti studenti visokih učilišta u drugim državama članicama stariji od 18 godina života koji su državljani Republike Hrvatske i imaju prebivalište u Republici Hrvatskoj te stranci s odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj, s tim da status osiguranika po toj osnovi mogu koristiti najduže do isteka školske godine, odnosno završetka akademske godine u kojoj su završili redovito školovanje prema propisima države školovanja, a najduže u trajanju od ukupno osam godina po toj osnovi, ako obvezno zdravstveno osiguranje ne ostvaruju po drugoj osnovi,
+
+16. osobe s prebivalištem, odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj starije od 18 godina života koje su prema propisima o redovitom školovanju u Republici Hrvatskoj ili u drugoj državi članici izgubile status redovitog učenika, odnosno redovitog studenta, ako su se prijavile Zavodu u roku od 30 dana od dana gubitka statusa redovitog učenika, odnosno redovitog studenta, ako obvezno zdravstveno osiguranje ne mogu ostvariti po drugoj osnovi,
+
+17. supružnik umrlog osiguranika, odnosno životni partner i neformalni životni partner umrlog osiguranika, hrvatski državljanin s prebivalištem ili stranac s odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj koji nakon smrti supružnika, odnosno životnog partnera nije stekao pravo na obiteljsku mirovinu, ako se Zavodu prijavio u roku od 30 dana od dana smrti supružnika, odnosno životnog partnera, ako obvezno zdravstveno osiguranje ne može ostvariti po drugoj osnovi,
+
+18. osobe s prebivalištem, odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj kojima je priznat status ratnog vojnog ili civilnog invalida rata, mirnodopskoga vojnog invalida, status žrtve seksualnog nasilja u Domovinskom ratu, odnosno status korisnika obiteljske invalidnine u skladu s posebnim propisima o zaštiti vojnih i civilnih invalida rata, o civilnim stradalnicima iz Domovinskog rata ili o pravima žrtava seksualnog nasilja za vrijeme oružane agresije na Republiku Hrvatsku u Domovinskom ratu, ako obvezno zdravstveno osiguranje ne mogu ostvariti po drugoj osnovi,
+
+19. osobe kojima je priznat status hrvatskog branitelja iz Domovinskog rata, ako obvezno zdravstveno osiguranje ne mogu ostvariti po drugoj osnovi,
+
+20. osobe koje pružaju njegu i pomoć hrvatskom ratnom vojnom invalidu Domovinskog rata u skladu sa zakonom kojim se uređuju prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, ako obvezno zdravstveno osiguranje ne ostvaruju po drugoj osnovi,
+
+21. osobe na odsluženju vojnog roka, odnosno dragovoljnom odsluženju vojnog roka (ročnici), kadeti te pričuvnici za vrijeme obavljanja službe u Oružanim snagama Republike Hrvatske, ako obvezno zdravstveno osiguranje ne ostvaruju po drugoj osnovi,
+
+22. osobe koje su prekinule rad zbog toga što ih je pravna ili fizička osoba uputila na obrazovanje ili stručno usavršavanje, dok traje obrazovanje, odnosno stručno usavršavanje,
+
+23. osobe koje je pravna ili fizička osoba prije stupanja u radni odnos uputila kao svoje stipendiste na praktičan rad u drugu pravnu osobu ili kod druge fizičke osobe radi stručnog osposobljavanja ili usavršavanja, dok traje praktični rad,
+
+24. osobe upućene u drugu državu članicu, ugovornu ili treću državu u sklopu međunarodne obrazovne, znanstvene i kulturne suradnje, dok se tamo nalaze po toj osnovi,
+
+25. osobe kojima je priznato pravo na status roditelja njegovatelja, odnosno status njegovatelja u skladu sa zakonom kojim se uređuje socijalna skrb,
+
+26. osobe koje imaju status člana obitelji smrtno stradalog ili nestaloga hrvatskog branitelja u skladu sa zakonom kojim se uređuju prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, ako obvezno zdravstveno osiguranje ne mogu ostvariti po drugoj osnovi,
+
+27. osobe s prebivalištem, odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj kojima je odlukom nadležnog suda oduzeta sloboda i nalaze se u ustrojstvenim jedinicama ministarstva nadležnog za pravosuđe, prema prijavi ministarstva nadležnog za pravosuđe,
+
+28. osobe koje obavljaju udomiteljstvo kao zanimanje, u skladu sa zakonom kojim se uređuje udomiteljstvo,
+
+29. osobe koje su ostvarile pravo na nacionalnu naknadu za starije osobe u skladu sa zakonom kojim se uređuje nacionalna naknada za starije osobe, ako obvezno zdravstveno osiguranje ne mogu ostvariti po drugoj osnovi.
+
+(2) Pod radnim odnosom iz stavka 1. točke 1. ovoga članka podrazumijeva se odnos poslodavca i radnika prema propisima o radu i drugim propisima kojima se uređuju pitanja zapošljavanja.
+
+(3) Djelatnosti osobe iz stavka 1. točke 6. ovoga članka su: registrirana djelatnost obrta, poljoprivrede i šumarstva, slobodnog zanimanja (profesionalna djelatnost) i ostale samostalne djelatnosti za čije je obavljanje odobrenje izdalo nadležno tijelo za samostalno obavljanje djelatnosti fizičke osobe, upisane u odgovarajući registar toga tijela te djelatnost s obilježjem samostalnosti, trajnosti i namjere stvaranja stalnog izvora prihoda poreznog obveznika upisanog u registar obveznika poreza na dohodak, u skladu s propisima o porezu na dohodak kada se radi o samostalnoj djelatnosti za čije obavljanje nije propisano izdavanje odobrenja ili obveza registracije te djelatnosti.
+
+(4) Osiguranici iz stavka 1. točaka 1. do 6., 8., 9., 20., 25. i 28. ovoga članka obvezno se osiguravaju i za slučaj ozljede na radu i profesionalne bolesti.
+
+(5) Za osobe iz stavka 1. točaka 13., 16., 17. i 19. te stavka 6. ovoga članka i osobe iz članka 11. stavka 1. točke 3. i članka 11. stavaka 2. i 3. ovoga Zakona Zavod i Hrvatski zavod za zapošljavanje međusobno će razmjenjivati podatke o statusu nezaposlenih osoba iz evidencije nezaposlenih osoba Hrvatskog zavoda za zapošljavanje.
+
+(6) Pod uvjetima i na način utvrđen stavkom 1. točkom 13. ovoga članka, status osiguranika može steći hrvatski državljanin s prebivalištem u Republici Hrvatskoj i stranac s odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj nakon prestanka mandata zastupnika u Europskom parlamentu, odnosno nakon prestanka radnog odnosa u institucijama, tijelima, uredima i agencijama Europske unije koje zapošljavaju dužnosnike i privremene ili ugovorne službenike te državljanin druge države članice s odobrenim privremenim boravkom u Republici Hrvatskoj nakon prestanka radnog odnosa, odnosno obavljanja gospodarske ili profesionalne djelatnosti na državnom području Republike Hrvatske.
+
+(7) Osigurane osobe kojima je utvrđen status u obveznom zdravstvenom osiguranju u skladu sa stavkom 1. točkom 13. ovoga članka, a koje se ne vode u evidenciji Hrvatskog zavoda za zapošljavanje kao nezaposlene osobe obvezne su jednom u tri mjeseca osobno pristupiti Zavodu radi provjere okolnosti na temelju kojih im je taj status utvrđen.
+
+(8) Osigurane osobe iz stavka 7. ovoga članka Zavod će odjaviti iz obveznoga zdravstvenog osiguranja po službenoj dužnosti bez donošenja rješenja prvoga dana nakon isteka tri mjeseca od zadnjega osobnog pristupanja Zavodu.«.
+
+#### Članak 4.
+
+U članku 10. stavku 1. iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2. životni partner i neformalni životni partner u skladu sa zakonom kojim se uređuje životno partnerstvo osoba istog spola,«.
+
+U dosadašnjoj točki 2., koja postaje točka 3., iza riječi: »pastorčad« stavlja se zarez i dodaju riječi: »u partnerskoj skrbi«.
+
+Dosadašnje točke 3. i 4. postaju točke 4. i 5.
+
+U stavku 2. iza riječi: »stalni boravak« dodaju se riječi: »ili dugotrajno boravište«.
+
+#### Članak 5.
+
+U članku 11. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Odredbe stavaka 1. i 2. ovoga članka primjenjuju se pod istim uvjetima i na životnog partnera nakon raskida životnog partnerstva, u skladu sa zakonom kojim se uređuje životno partnerstvo osoba istog spola.«.
+
+#### Članak 6.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Osobe s prebivalištem, odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj koje obvezno zdravstveno osiguranje ne mogu ostvariti prema jednoj od osnova osiguranja utvrđenih člancima 7. ‒ 12. te člancima 14. i 15. ovoga Zakona obvezne su osigurati se na obvezno zdravstveno osiguranje kao osigurane osobe te su obveznici plaćanja doprinosa za obvezno zdravstveno osiguranje u skladu sa zakonom kojim se uređuju doprinosi za obvezna osiguranja.
+
+(2) Osobe iz stavka 1. ovoga članka prava i obveze iz obveznoga zdravstvenog osiguranja stječu pod uvjetom da su prethodno jednokratno uplatile novčani iznos u visini doprinosa za obvezno zdravstveno osiguranje na najnižu osnovicu za obračun doprinosa za obvezno zdravstveno osiguranje, i to od dana prestanka prijašnjeg statusa osigurane osobe u obveznom zdravstvenom osiguranju ili od dana prestanka osiguranja u drugoj državi koje osiguranje se ubraja u staž osiguranja u skladu s propisima Europske unije, odnosno međunarodnim ugovorom, a najdulje za razdoblje od 12 mjeseci.
+
+(3) Iznimno od stavka 1. ovoga članka, hrvatski državljani s boravištem u Republici Hrvatskoj kojima obvezno zdravstveno osiguranje i zdravstvena zaštita nije osigurana po drugoj osnovi, odnosno koji nisu obvezno zdravstveno osigurani u drugoj državi članici ili ugovornoj državi osiguravaju se na obvezno zdravstveno osiguranje, a status osigurane osobe i prava iz obveznoga zdravstvenog osiguranja stječu pod uvjetom jednokratne uplate novčanog iznosa u skladu sa stavkom 2. ovoga članka te su obveznici plaćanja doprinosa za obvezno zdravstveno osiguranje u skladu sa zakonom kojim se uređuju doprinosi za obvezna osiguranja.«.
+
+#### Članak 7.
+
+Članak 15. mijenja se i glasi:
+
+»(1) Osobe s prebivalištem odnosno odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj koje nemaju sredstava za uzdržavanje i osobe koje su nesposobne za samostalan život i rad, a pod uvjetom da nemaju sredstava za uzdržavanje, osiguravaju se na obvezno zdravstveno osiguranje kao osigurane osobe na osnovi rješenja koje u prvom stupnju donosi nadležno upravno tijelo županije, odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih im poslova državne uprave koji se odnose na socijalnu skrb, ako obvezno zdravstveno osiguranje ne mogu ostvariti po drugoj osnovi.
+
+(2) Protiv rješenja iz stavka 1. ovoga članka može se izjaviti žalba ministarstvu nadležnom za poslove socijalne skrbi.
+
+(3) Žalba iz stavka 2. ovoga članka ne odgađa izvršenje rješenja.
+
+(4) Obvezno zdravstveno osiguranje prema osnovi osiguranja utvrđenoj stavkom 1. ovoga članka traje za sve vrijeme dok se ne promijene okolnosti na osnovi kojih je osobi utvrđen status osigurane osobe.
+
+(5) Mjerila i način utvrđivanja nesposobnosti za samostalan život i rad i nedostatka sredstava za uzdržavanje iz stavka 1. ovoga članka pravilnikom propisuje ministar nadležan za poslove socijalne skrbi.«.
+
+#### Članak 8.
+
+U članku 18. stavku 1. točka 7. mijenja se i glasi:
+
+»7. zdravstvenu zaštitu u drugim državama članicama, ugovornim državama i trećim državama.«.
+
+Stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Zdravstvena zaštita iz stavka 1. točaka 1. do 3. ovoga članka osigurava se provedbom mjera zdravstvene zaštite iz obveznoga zdravstvenog osiguranja koje utvrđuje Zavod općim aktom, uz prethodnu suglasnost ministra nadležnog za zdravstvo, na temelju plana i programa mjera zdravstvene zaštite koji se donosi u skladu sa zakonom kojim se uređuje zdravstvena zaštita.
+
+(3) Opći akt iz stavka 2. ovoga članka donosi se u okviru utvrđenih prava osiguranih osoba u obveznom zdravstvenom osiguranju, u skladu s načinom provođenja zdravstvene zaštite iz obveznoga zdravstvenog osiguranja, elementima i kriterijima za definiranje ugovora o provođenju zdravstvene zaštite iz obveznoga zdravstvenog osiguranja i osiguranim financijskim sredstvima.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Zavod mjere zdravstvene zaštite iz obveznoga zdravstvenog osiguranja u skladu sa zakonom kojim se uređuje zdravstvena zaštita donosi na temelju sljedećih kriterija: mreže javne zdravstvene službe, načela zdravstvene zaštite, organizacijskih oblika obavljanja zdravstvene djelatnosti te financijskog plana Zavoda kojim su osigurana sredstva za provedbu prava iz obveznoga zdravstvenog osiguranja.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 9.
+
+Članak 19. mijenja se i glasi:
+
+»(1) Pravo na zdravstvenu zaštitu iz članka 18. ovoga Zakona osigurava se pod jednakim uvjetima za sve osigurane osobe.
+
+(2) Osiguranim osobama u ostvarivanju prava na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja iz članka 18. ovoga Zakona Zavod osigurava plaćanje zdravstvenih usluga u cijelosti za:
+
+1. cjelokupnu zdravstvenu zaštitu djece do navršene 18. godine života, osiguranih osoba iz članka 12. stavaka 2. i 3. te članka 15. ovoga Zakona,
+
+2. specifičnu zdravstvenu zaštitu redovitih učenika i redovitih studenata prema propisima o redovitom školovanju u Republici Hrvatskoj,
+
+3. preventivnu zdravstvenu zaštitu,
+
+4. zdravstvenu zaštitu žena u vezi s praćenjem trudnoće i poroda,
+
+5. zdravstvenu zaštitu u vezi s medicinski pomognutom oplodnjom, u skladu sa zakonom kojim se uređuje medicinski pomognuta oplodnja,
+
+6. preventivnu zdravstvenu zaštitu osoba starijih od 65 godina života,
+
+7. preventivnu zdravstvenu zaštitu osoba s invaliditetom iz registra osoba s invaliditetom utvrđenog zakonom kojim se uređuje registar osoba s invaliditetom,
+
+8. cjelokupno liječenje zaraznih bolesti za koje je zakonom određeno provođenje mjera za sprječavanje njihova širenja,
+
+9. obvezno cijepljenje, imunoprofilaksu i kemoprofilaksu,
+
+10. cjelokupno liječenje kroničnih psihijatrijskih bolesti,
+
+11. cjelokupno liječenje zloćudnih bolesti,
+
+12. cjelokupno liječenje koje je posljedica priznate ozljede na radu, odnosno profesionalne bolesti,
+
+13. hemodijalizu i peritonejsku dijalizu,
+
+14. zdravstvenu zaštitu u vezi s uzimanjem i presađivanjem dijelova ljudskoga tijela u svrhu liječenja,
+
+15. izvanbolničku hitnu medicinsku pomoć u djelatnosti hitne medicine koja uključuje hitni prijevoz kopnenim, vodenim i zračnim putem,
+
+16. kućne posjete i kućno liječenje,
+
+17. patronažnu zdravstvenu zaštitu,
+
+18. sanitetski prijevoz za posebne kategorije bolesnika,
+
+19. lijekove s osnovne liste lijekova Zavoda propisane na recept,
+
+20. zdravstvenu njegu u kući osigurane osobe,
+
+21. laboratorijsku dijagnostiku na razini primarne zdravstvene zaštite,
+
+22. palijativnu zdravstvenu zaštitu,
+
+23. postupke koji su sastavni dio preventivnih pregleda u okviru specifične zdravstvene zaštite iz obveznoga zdravstvenog osiguranja.
+
+(3) Osigurane osobe obvezne su sudjelovati u troškovima zdravstvene zaštite u visini od 20 % pune cijene zdravstvene zaštite, a koji iznos ne može biti manji od postotaka proračunske osnovice utvrđenih točkama 1. do 8. ovoga stavka za:
+
+1. specijalističko-konzilijarnu zdravstvenu zaštitu, uključujući dnevnu bolnicu i kirurške zahvate u dnevnoj bolnici, osim ambulantne fizikalne medicine i rehabilitacije ‒ 1 % proračunske osnovice,
+
+2. specijalističku dijagnostiku koja nije na razini primarne zdravstvene zaštite ‒ 2 % proračunske osnovice,
+
+3. ortopedska i druga pomagala utvrđena osnovnom listom ortopedskih i drugih pomagala Zavoda ‒ 2 % proračunske osnovice,
+
+4. specijalističko-konzilijarnu zdravstvenu zaštitu u ambulantnoj fizikalnoj medicini i rehabilitaciji i za fizikalnu medicinu i rehabilitaciju u kući ‒ 1 % proračunske osnovice po danu,
+
+5. liječenje u drugim državama članicama i trećim državama u skladu s propisima Europske unije, međunarodnim ugovorom, ovim Zakonom i općim aktom Zavoda, ako propisima Europske unije, odnosno međunarodnim ugovorom nije drukčije određeno,
+
+6. troškove bolničke zdravstvene zaštite ‒ 4,01 % proračunske osnovice po danu,
+
+7. dentalna pomagala utvrđena osnovnom listom dentalnih pomagala Zavoda za odrasle osobe u dobi od 18 do 65 godina ‒ 40,09 % proračunske osnovice,
+
+8. dentalna pomagala utvrđena osnovnom listom dentalnih pomagala Zavoda za osobe starije od 65 godina ‒ 20,04 % proračunske osnovice.
+
+(4) Osigurane osobe obvezne su sudjelovati u visini od 0,30 % proračunske osnovice za:
+
+1. zdravstvenu zaštitu pruženu kod izabranog doktora primarne zdravstvene zaštite: obiteljske (opće) medicine, ginekologije i dentalne medicine, u skladu s općim aktom Zavoda,
+
+2. izdavanje lijeka po receptu.
+
+(5) Najviši iznos sudjelovanja u troškovima zdravstvene zaštite iz stavka 3. ovoga članka koji je obvezna snositi osigurana osoba može po jednom ispostavljenom računu za izvršenu zdravstvenu zaštitu iznositi najviše 120,26 % proračunske osnovice.
+
+(6) Zdravstvene usluge koje se osiguravaju osiguranim osobama u okviru zdravstvene zaštite iz stavaka 2., 3. i 4. ovoga članka utvrđuje općim aktom Zavod.
+
+(7) Način provođenja preventivne zdravstvene zaštite iz stavka 2. točke 3. ovoga članka pravilnikom propisuje ministar nadležan za zdravstvo.
+
+(8) Način provođenja izvanbolničke hitne medicinske pomoći u djelatnosti hitne medicine koja uključuje hitni prijevoz iz stavka 2. točke 15. ovoga članka pravilnikom propisuje ministar nadležan za zdravstvo.
+
+(9) Posebne kategorije bolesnika i način provođenja sanitetskog prijevoza iz stavka 2. točke 18. ovoga članka pravilnikom propisuje ministar nadležan za zdravstvo.«.
+
+#### Članak 10.
+
+Članak 20. mijenja se i glasi:
+
+»(1) Osnovna i dopunska lista lijekova Zavoda iz članka 18. stavka 1. točke 4. ovoga Zakona sadrži lijekove, magistralne pripravke, cjepiva, namirnice za enteralnu primjenu te ostale pripravke koji se koriste u liječenju i koji imaju odgovarajuće odobrenje za stavljanje u promet (u daljnjem tekstu: lijekovi).
+
+(2) Liste lijekova Zavoda iz stavka 1. ovoga članka sadrže lijekove prema šifri anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije, uobičajenom (nezaštićenom) nazivu lijeka, zaštićenom nazivu lijeka, nazivu nositelja odobrenja za stavljanje lijeka u promet, obliku lijeka i načinu primjene, cijeni lijeka za definiranu dnevnu dozu, cijeni pakiranja i jediničnog oblika lijeka te uvjete pod kojima se lijekovi mogu propisivati na recept Zavoda ili primijeniti u liječenju osigurane osobe u okviru zdravstvene zaštite iz obveznoga zdravstvenog osiguranja.
+
+(3) Liste lijekova iz stavka 1. ovoga članka s podacima iz stavka 2. ovoga članka Zavod je obvezan staviti na uvid ugovornim partnerima Zavoda koji su povezani s prometom lijekova te nositeljima odobrenja za stavljanje lijeka u promet s kojima Zavod utvrđuje cijenu lijeka.
+
+(4) Osnovna lista lijekova Zavoda sadrži lijekove koji se u cijelosti osiguravaju na teret sredstava obveznoga zdravstvenog osiguranja.
+
+(5) Dopunska lista lijekova Zavoda obvezno sadrži iznos sudjelovanja u cijeni lijeka koju osigurava osigurana osoba Zavoda neposredno ili putem dopunskoga zdravstvenog osiguranja, u skladu sa zakonom kojim se uređuje dobrovoljno zdravstveno osiguranje.
+
+(6) Liste lijekova iz stavka 1. ovoga članka utvrđuje Upravno vijeće Zavoda, a na mrežnoj stranici Zavoda objavljuju se sljedeći podaci: šifra anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije, uobičajeni (nezaštićeni) naziv lijeka, zaštićeni naziv lijeka, naziv nositelja odobrenja za stavljanje lijeka u promet, oblik i pakiranje lijeka te iznos sudjelovanja osigurane osobe u cijeni lijeka.
+
+(7) Mjerila za stavljanje lijekova na liste lijekova Zavoda, način utvrđivanja cijena lijekova koje će plaćati Zavod te način izvještavanja o njima propisuje pravilnikom ministar nadležan za zdravstvo, u skladu sa zakonom kojim se uređuju lijekovi.
+
+(8) Način propisivanja i izdavanja lijekova na recept Zavoda te oblik i sadržaj recepta utvrđuje općim aktom Zavod.«.
+
+#### Članak 11.
+
+Iza članka 20. dodaje se članak 20.a koji glasi:
+
+»Članak 20.a
+
+(1) Popis posebno skupih lijekova utvrđuje se u okviru osnovne liste lijekova za koje se sredstva u cijelosti osiguravaju iz obveznoga zdravstvenog osiguranja, a koja ne terete sredstva bolničke zdravstvene ustanove.
+
+(2) Osigurana osoba ostvaruje pravo na lijekove iz stavka 1. ovoga članka ako ispunjava kriterije koji su uz pojedini lijek navedeni u osnovnoj listi lijekova.
+
+(3) Primjenu lijeka iz stavka 1. ovoga članka s popisa posebno skupih lijekova kod osigurane osobe odobrava povjerenstvo za lijekove bolničke zdravstvene ustanove u kojoj se osigurana osoba liječi.
+
+(4) Bolnička zdravstvena ustanova čije je povjerenstvo za lijekove odobrilo lijek iz stavka 1. ovoga članka obvezna je dostaviti Zavodu dokumentaciju na temelju koje je odobren početak, odnosno nastavak primjene lijeka kod osigurane osobe sukladno stavku 3. ovoga članka radi procjene kriterija u svrhu praćenja ishoda liječenja.
+
+(5) U slučaju prestanka primjene lijeka iz stavka 3. ovoga članka, radi praćenja ishoda liječenja, uz dokumentaciju iz stavka 4. ovoga članka bolnička zdravstvena ustanova obvezna je Zavodu dostaviti i dokumentaciju ili dokument kojim se navodi razlog prestanka primjene lijeka kod osigurane osobe iz stavka 3. ovoga članka.
+
+(6) Način prikupljanja dokumentacije iz stavaka 4. i 5. ovoga članka i praćenje ishoda liječenja utvrđuje općim aktom Zavod, uz prethodnu suglasnost ministra nadležnog za zdravstvo.«.
+
+#### Članak 12.
+
+U članku 21. iza stavka 4. dodaju se stavci 5., 6. i 7. koji glase:
+
+»(5) Bolnička zdravstvena ustanova obvezna je Zavodu i Hrvatskom zavodu za javno zdravstvo svaka tri mjeseca dostavljati izvješće o potrošnji lijekova i rezultatima mjerenja ishoda liječenja lijekovima koji su odobreni u skladu sa stavcima 2., 3. i 4. ovoga članka.
+
+(6) Podatke iz stavka 5. ovoga članka u obliku registra ishoda liječenja sistematizira i vodi Hrvatski zavod za javno zdravstvo.
+
+(7) Sadržaj i način vođenja registra iz stavka 6. ovoga članka pravilnikom propisuje ministar nadležan za zdravstvo.«.
+
+#### Članak 13.
+
+U članku 24. stavak 3. mijenja se i glasi:
+
+»(3) U prethodno obvezno zdravstveno osiguranje iz stavka 1. ovoga članka ubraja se i zdravstveno osiguranje ostvareno na temelju mandata zastupnika u Europskom parlamentu, odnosno radnog odnosa u institucijama, tijelima, uredima i agencijama Europske unije koje zapošljavaju dužnosnike i privremene ili ugovorne službenike.«.
+
+#### Članak 14.
+
+U članku 26. stavku 1. iza riječi: »drugim državama članicama« stavlja se zarez i dodaje riječ: »ugovornim«.
+
+#### Članak 15.
+
+Naslov iznad članka 33. mijenja se i glasi: »4. Standardi zdravstvene zaštite«.
+
+Članak 33. mijenja se i glasi:
+
+»Standarde zdravstvene zaštite iz obveznoga zdravstvenog osiguranja, uključujući i specifičnu zdravstvenu zaštitu radnika, u skladu s mjerama zdravstvene zaštite iz članka 18. stavka 2. ovoga Zakona, utvrđuje općim aktom Zavod, uz prethodnu suglasnost ministra nadležnog za zdravstvo.«.
+
+#### Članak 16.
+
+Članak 35. mijenja se i glasi:
+
+»(1) Osigurane osobe obvezne su sudjelovati u troškovima zdravstvene zaštite iz članka 19. stavaka 3. i 4. i članka 20. stavka 5. ovoga Zakona.
+
+(2) Osigurane osobe troškove zdravstvene zaštite iz stavka 1. ovoga članka plaćaju osobno prilikom korištenja zdravstvene zaštite, odnosno putem dopunskoga zdravstvenog osiguranja, u skladu sa zakonom kojim se uređuje dobrovoljno zdravstveno osiguranje.
+
+(3) Sredstva ostvarena sudjelovanjem osigurane osobe u troškovima zdravstvene zaštite iz članka 19. stavka 3. i članka 20. stavka 5. ovoga Zakona prihod su ugovornih subjekata Zavoda i ugovornih isporučitelja pomagala, a sredstva iz članka 19. stavka 4. ovoga Zakona prihod su Zavoda.
+
+(4) U troškovima zdravstvene zaštite iz članka 19. stavaka 3. i 4. ovoga Zakona nije obvezno sudjelovati dijete do navršene 18. godine života i osigurane osobe iz članka 12. stavaka 2. i 3. te članka 15. stavka 1. ovoga Zakona.«.
+
+#### Članak 17.
+
+Članak 39. mijenja se i glasi:
+
+»Pravo na naknadu plaće pripada osiguraniku u vezi s korištenjem zdravstvene zaštite iz obveznoga zdravstvenog osiguranja, odnosno drugih okolnosti utvrđenih ovim Zakonom, ako je:
+
+1. privremeno nesposoban za rad zbog bolesti ili ozljede, odnosno ako je radi liječenja ili medicinskih ispitivanja smješten u zdravstvenu ustanovu,
+
+2. privremeno spriječen obavljati rad zbog određenog liječenja ili medicinskog ispitivanja koje se ne može obaviti izvan radnog vremena osiguranika,
+
+3. izoliran kao kliconoša ili privremeno nesposoban za rad zbog transplantacije živog tkiva i organa u korist druge osigurane osobe Zavoda,
+
+4. pratitelj osigurane osobe upućene na liječenje ili liječnički pregled ugovornom subjektu Zavoda izvan mjesta prebivališta, odnosno boravišta osigurane osobe koja se upućuje,
+
+5. određen da njeguje oboljelog člana uže obitelji ‒ dijete, supružnika i životnog partnera, uz uvjete propisane ovim Zakonom,
+
+6. privremeno nesposoban za rad zbog bolesti i komplikacija u vezi s trudnoćom i porodom,
+
+7. privremeno spriječen za rad zbog korištenja rodiljnog dopusta i prava na rad u polovici punoga radnog vremena u skladu sa zakonom kojim se uređuju rodiljne i roditeljske potpore,
+
+8. privremeno nesposoban za rad zbog korištenja dopusta za slučaj smrti djeteta, mrtvorođenog djeteta ili smrti djeteta za vrijeme korištenja rodiljnog dopusta u skladu sa zakonom kojim se uređuju rodiljne i roditeljske potpore,
+
+9. privremeno nesposoban za rad zbog rane, ozljede ili bolesti koja je neposredna posljedica sudjelovanja u Domovinskom ratu,
+
+10. privremeno nesposoban za rad zbog priznate ozljede na radu, odnosno profesionalne bolesti,
+
+11. izoliran zbog pojave zaraze u njegovoj okolini.«.
+
+#### Članak 18.
+
+U članku 41. stavak 2. mijenja se i glasi:
+
+»(2) Naknadu plaće iz članka 39. točaka 9. i 11. ovoga Zakona Zavod isplaćuje osiguraniku na teret sredstava državnog proračuna.«.
+
+#### Članak 19.
+
+U članku 45. stavku 3. iza riječi: »pastorče,« dodaju se riječi: »dijete u partnerskoj skrbi«.
+
+U stavku 4. iza riječi: »života« stavlja se zarez, a riječi: »ili supružnika« zamjenjuju se riječima: »supružnika ili životnog partnera«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Njega člana obitelji iz stavka 4. ovoga članka može se odobriti samo u slučaju teškog zdravstvenog stanja člana obitelji uzrokovanog bolešću, odnosno ozljedom, koje utvrđuje izabrani doktor osiguranika na osnovi medicinske dokumentacije izabranog doktora člana obitelji za kojeg se određuje njega.«.
+
+Stavci 6. i 7. brišu se.
+
+Dosadašnji stavak 8. postaje stavak 6.
+
+#### Članak 20.
+
+Članak 46. mijenja se i glasi:
+
+»(1) Početak i dužinu trajanja privremene nesposobnosti utvrđuje izabrani doktor.
+
+(2) Izabrani doktor utvrđuje dužinu trajanja privremene nesposobnosti osiguranika ovisno o vrsti bolesti koja utječe na privremenu nesposobnost osiguranika u skladu s njegovim zdravstvenim stanjem i medicinskom indikacijom, odnosno ovisno o drugim razlozima privremene spriječenosti za rad utvrđene člankom 39. ovoga Zakona.
+
+(3) Kada izabrani doktor utvrdi da se zdravstveno stanje osiguranika, čija privremena nesposobnost traje neprekidno najmanje šest mjeseci, poboljšalo i da bi rad u polovici punog radnog vremena bio koristan za brže uspostavljanje pune radne sposobnosti osiguranika, izabrani doktor može odrediti da osiguranik određeno vrijeme radi polovicu punog radnog vremena, ali ne duže od 60 dana.
+
+(4) Izabrani doktor obvezan je utvrditi prestanak privremene nesposobnosti osiguraniku kod kojega je nalazom i mišljenjem tijela vještačenja Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom nadležnog za provođenje vještačenja u svrhu ostvarivanja prava u području mirovinskog osiguranja (u daljnjem tekstu: nadležno tijelo vještačenja), zbog trajnih promjena u zdravstvenom stanju koje se ne mogu otkloniti liječenjem, utvrđena smanjena radna sposobnost uz preostalu radnu sposobnost, utvrđen djelomični gubitak radne sposobnosti ili potpuni gubitak radne sposobnosti, s danom zaprimanja obavijesti Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom, a osiguranik pravo na naknadu plaće za vrijeme te privremene nesposobnosti ostvaruje u skladu s člankom 48. stavkom 1. ovoga Zakona.
+
+(5) Izabrani doktor nakon što je utvrdio prestanak privremene nesposobnosti u skladu sa stavkom 4. ovoga članka, može privremenu nesposobnost ponovno utvrditi samo osiguraniku kod kojeg je utvrđena smanjena radna sposobnost uz preostalu radnu sposobnost, odnosno kod kojeg je utvrđen djelomični gubitak radne sposobnosti, i to u slučaju pogoršanja bolesti na osnovi koje mu je to utvrđeno ili pojavom bolesti na osnovi druge dijagnoze bolesti.
+
+(6) Nadzor i kontrolu nad korištenjem privremene nesposobnosti osiguranika, odnosno utvrđivanja postojanja medicinskih indikacija ili drugih razloga za privremenu nesposobnost, u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona, obavlja Zavod putem osoba ovlaštenih za provedbu kontrole ili drugoga nadležnog tijela u skladu s općim aktom Zavoda iz stavka 10. ovoga članka.
+
+(7) Nadzor i kontrolu nad korištenjem privremene nesposobnosti obuhvaća kontrolu rada izabranog doktora u vezi s utvrđivanjem privremene nesposobnosti te, u pravilu, neposrednu kontrolu osiguranika u ordinaciji ili izvan ordinacije izabranog doktora, uključujući i kućni posjet.
+
+(8) Ako se u postupku provedbe kontrole iz stavka 6. ovoga članka utvrdi nepostojanje medicinskih indikacija za daljnje korištenje privremene nesposobnosti, osobe ovlaštene za provedbu kontrole prema ovome Zakonu imaju pravo zaključiti privremenu nesposobnost osiguraniku.
+
+(9) U posebno opravdanim slučajevima, kada ima saznanja ili opravdanu sumnju na zlouporabu privremene nesposobnosti osiguranika, poslodavac može za vrijeme trajanja potonje zahtijevati od Zavoda kontrolu opravdanosti privremene nesposobnosti osiguranika.
+
+(10) Način provođenja nadzora i kontrole privremene nesposobnosti osiguranika utvrđuje općim aktom Zavod.«.
+
+#### Članak 21.
+
+U članku 47. stavak 1. mijenja se i glasi:
+
+»(1) Osiguraniku nezadovoljnom ocjenom izabranog doktora u vezi s utvrđivanjem privremene nesposobnosti, odnosno ako mu izabrani doktor ne utvrdi privremenu nesposobnost, promijeni dijagnozu bolesti tijekom trajanja utvrđene privremene nesposobnosti te kada mu utvrdi prestanak privremene nesposobnosti, radi zaštite prava iz obveznoga zdravstvenog osiguranja, izdat će se na njegov zahtjev rješenje u upravnom postupku, a na osnovi prethodno pribavljenoga obrazloženog nalaza, mišljenja i ocjene liječničkog povjerenstva Zavoda koje je obvezno prije donošenja nalaza, mišljenja i ocjene izvršiti pregled osiguranika.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ovaj članak na odgovarajući se način primjenjuje i u slučaju zaključivanja privremene nesposobnosti za rad u postupku kontrole iz članka 46. stavka 8. ovoga Zakona.«.
+
+#### Članak 22.
+
+Članak 48. mijenja se i glasi:
+
+»(1) Osiguranik za vrijeme privremene nesposobnosti iz članka 39. točaka 1. do 6. te točaka 9. do 11. ovoga Zakona ima pravo na naknadu plaće na teret sredstava Zavoda, odnosno državnog proračuna dok izabrani doktor ne utvrdi da je sposoban za rad ili dok se u postupku kontrole iz članka 46. stavka 6. ovoga Zakona ne utvrdi da je sposoban za rad, odnosno dok kod osiguranika nisu nalazom i mišljenjem nadležnog tijela vještačenja utvrđene trajne promjene u zdravstvenom stanju iz članka 46. stavka 4. ovoga Zakona koje se ne mogu otkloniti liječenjem.
+
+(2) Kada je prema ocjeni izabranog doktora, a nakon provedenog liječenja i medicinske rehabilitacije zdravstveno stanje osiguranika takvo da se daljnjim liječenjem ne može poboljšati te je kod osiguranika nastupila trajna nesposobnost za rad na poslovima koje osiguranik obavlja, kao i u slučaju kada privremena nesposobnost osiguranika traje neprekidno 12 mjeseci zbog iste dijagnoze bolesti, izabrani doktor obvezan je obraditi osiguranika za upućivanje na ocjenu radne sposobnosti te ga sa svom propisanom dokumentacijom uputiti Hrvatskom zavodu za mirovinsko osiguranje koje će zahtjev za ocjenu radne sposobnosti uputiti Zavodu za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom čije je nadležno tijelo vještačenja obvezno donijeti nalaz i mišljenje o radnoj sposobnosti, odnosno smanjenju ili gubitku radne sposobnosti osiguranika ili neposrednoj opasnosti od nastanka smanjenja radne sposobnosti najkasnije u roku od 60 dana od dana zaprimanja prijedloga izabranog doktora.
+
+(3) O donesenom nalazu i mišljenju iz stavka 2. ovoga članka Zavod za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom obvezan je obavijestiti izabranog doktora, poslodavca osiguranika i Zavod u roku od osam dana od dana njegova donošenja.
+
+(4) Kada nadležno tijelo vještačenja utvrdi da je kod osiguranika nastupilo smanjenje radne sposobnosti za više od polovice u odnosu na zdravog osiguranika iste ili slične razine obrazovanja, odnosno neposredna opasnost od nastanka smanjenja radne sposobnosti, obvezno je u nalazu i mišljenju navesti poslove i radne zadatke koje osiguranik s obzirom na preostalu radnu sposobnost može obavljati, odnosno koje poslove i radne zadatke ne može obavljati.
+
+(5) Ako nadležno tijelo vještačenja ne donese nalaz i mišljenje te ne izvijesti izabranog doktora, poslodavca osiguranika i Zavod u roku iz stavaka 2. i 3. ovoga članka, naknada plaće za tog osiguranika od prvoga idućeg dana, nakon isteka roka od 60 dana iz stavka 2. ovoga članka, tereti sredstva Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom.
+
+(6) Obrada osiguranika za upućivanje na ocjenu radne sposobnosti tereti sredstva Zavoda samo u slučajevima kada je izabrani doktor uputio osiguranika na ocjenu radne sposobnosti u skladu sa stavkom 2. ovoga članka.«.
+
+#### Članak 23.
+
+Članak 49. mijenja se i glasi:
+
+»(1) Za vrijeme ponovno utvrđene privremene nesposobnosti osiguranika kojem je nalazom i mišljenjem nadležnog tijela vještačenja utvrđeno smanjenje radne sposobnosti uz preostalu radnu sposobnost, odnosno djelomični gubitak radne sposobnosti, neovisno o tome radi li se o privremenoj nesposobnosti koja je posljedica pogoršanja bolesti na osnovi koje mu je to utvrđeno ili pojavom bolesti zbog druge dijagnoze bolesti, a kojem poslodavac nije ponudio i s njim sklopio ugovor o radu u pisanom obliku za obavljanje poslova za koje je sposoban u skladu s propisima o radu, naknadu plaće osiguraniku isplaćuje poslodavac iz svojih sredstava.
+
+(2) Naknada plaće za vrijeme privremene nesposobnosti tereti sredstva poslodavca i u slučaju kada je osiguraniku utvrđena neposredna opasnost od nastanka smanjenja radne sposobnosti, a poslodavac nije osiguraniku u skladu s propisima o radu ponudio i s njim sklopio ugovor o radu u pisanom obliku za obavljanje poslova za koje je sposoban, i to od dana utvrđene neposredne opasnosti od nastanka smanjene radne sposobnosti.
+
+(3) Naknada plaće iz stavka 2. ovoga članka tereti sredstva poslodavca sve do dana sklapanja pisanog ugovora o radu za obavljanje poslova za koje je osiguranik sposoban.
+
+(4) Osiguranik koji ne prihvati ponudu poslodavca iz stavaka 1. i 2. ovoga članka i s poslodavcem ne sklopi ugovor o radu za obavljanje poslova za koje je sposoban nema pravo na naknadu plaće prema ovome Zakonu za vrijeme privremene nesposobnosti od dana zaprimanja ponude poslodavca.
+
+(5) Osiguranik iz članka 7. stavka 1. točaka 3., 4., 6., 8. i 9. ovoga Zakona kod kojeg je nalazom i mišljenjem nadležnog tijela vještačenja utvrđena smanjena radna sposobnost uz preostalu radnu sposobnost, odnosno djelomični gubitak radne sposobnosti ili neposredna opasnost od nastanka smanjenja radne sposobnosti nema pravo na naknadu plaće na teret sredstava obveznoga zdravstvenog osiguranja od dana utvrđene smanjene radne sposobnosti uz preostalu radnu sposobnost, odnosno utvrđenoga djelomičnog gubitka radne sposobnosti ili neposredne opasnosti od nastanka smanjenja radne sposobnosti.«.
+
+#### Članak 24.
+
+Članak 50. mijenja se i glasi:
+
+»Osiguranik koji je navršio 70 godina života i 15 godina mirovinskog staža na temelju nesamostalnog ili samostalnog rada nema pravo na naknadu plaće na teret sredstava obveznoga zdravstvenog osiguranja za vrijeme privremene nesposobnosti, već na teret sredstava poslodavca, odnosno na teret sredstava osiguranika obveznika uplate doprinosa.«.
+
+#### Članak 25.
+
+U članku 51. stavku 1. riječ: »osam« zamjenjuje se brojkom: »15«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Uvjet utvrđene privremene nesposobnosti od najmanje 15 dana prije prestanka radnog odnosa, odnosno obavljanja djelatnosti osobnim radom iz stavka 1. ovoga članka ne odnosi se na osiguranika kojem je privremena nesposobnost utvrđena unutar toga roka zbog priznate nove ozljede na radu, odnosno nove profesionalne bolesti te na osiguranika pomorca u međunarodnoj plovidbi kojem je privremena nesposobnost utvrđena unutar toga roka od strane brodskog doktora ili osobe ovlaštene za pružanje zdravstvene zaštite na brodu.«.
+
+#### Članak 26.
+
+U članku 52. stavak 1. mijenja se i glasi:
+
+»(1) Osiguranik ima pravo na teret sredstava Zavoda, odnosno državnog proračuna ostvariti pravo na naknadu plaće za vrijeme privremene nesposobnosti iz članka 39. točaka 1. do 5. te točaka 9., 10. i 11. ovoga Zakona, počevši od prvoga dana utvrđene privremene nesposobnosti u maksimalnom trajanju od 18 mjeseci po istoj dijagnozi bolesti, bez prekida, u visini utvrđenoj u skladu s ovim Zakonom i općim aktima Zavoda.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Tijekom praćenja privremene nesposobnosti iz stavka 1. ovoga članka izabrani doktor obvezan je pridržavati se medicinskih indikacija te nije dopušteno mijenjanje dijagnoze bolesti osiguranika, odnosno zaključivanje privremene nesposobnosti ako za to ne postoji medicinska indikacija.«.
+
+#### Članak 27.
+
+U članku 53. stavak 1. mijenja se i glasi:
+
+»(1) Osiguranik nema pravo na naknadu plaće prema ovome Zakonu ako:
+
+1. je svjesno prouzročio privremenu nesposobnost,
+
+2. ne izvijesti izabranog doktora o nastanku privremene nesposobnosti u roku od tri dana od dana početka bolesti ili nastanka drugih okolnosti utvrđenih člankom 39. ovoga Zakona, odnosno u roku od tri dana od dana prestanka razloga koji ga je u tome onemogućio,
+
+3. namjerno sprječava ozdravljenje, odnosno osposobljavanje za rad,
+
+4. za vrijeme privremene nesposobnosti radi, odnosno obavlja poslove na osnovi kojih je obvezno zdravstveno osiguran, obavlja ugovorene poslove na temelju ugovora o djelu te bilo koje druge poslove kao što su poljoprivredni radovi i sl.,
+
+5. se bez opravdanog razloga ne odazove na poziv za liječnički pregled izabranog doktora, odnosno ovlaštene osobe ili tijela Zavoda ovlaštenih za nadzor i kontrolu privremene nesposobnosti,
+
+6. izabrani doktor, ovlaštena osoba ili tijelo Zavoda ovlašteno za kontrolu privremene nesposobnosti utvrdi da se ne pridržava uputa za liječenje, odnosno bez suglasnosti izabranog doktora otputuje iz mjesta prebivališta, odnosno boravišta ili zlorabi privremenu nesposobnost na neki drugi način,
+
+7. za vrijeme privremene nesposobnosti zadržava pravo na naknadu za rad u skladu s posebnim zakonom,
+
+8. mu je odlukom nadležnog suda oduzeta sloboda,
+
+9. mu je za vrijeme dok je udaljen s rada ili otkaznog roka za vrijeme kojeg nema obvezu rada utvrđena privremena nesposobnost.«.
+
+#### Članak 28.
+
+Članak 54. mijenja se i glasi:
+
+»(1) Naknada plaće određuje se od osnovice za naknadu plaće koju čini prosječni iznos plaće koja je osiguraniku isplaćena u posljednjih šest mjeseci prije mjeseca u kojem je nastupio slučaj na osnovi kojeg se stječe pravo na naknadu plaće, neovisno o tome na čiji se teret isplaćuje, osim kada je posebnim zakonom drukčije propisano.
+
+(2) Plaća na osnovi koje se utvrđuje osnovica za naknadu plaće, u smislu ovoga Zakona, redovita je mjesečna plaća osiguranika te naknada plaće isplaćena za vrijeme odsutnosti s rada, odnosno za vrijeme godišnjeg odmora, plaćenog dopusta i privremene nesposobnosti, koja se isplaćuje na teret pravne ili fizičke osobe kod koje je osiguranik zaposlen.
+
+(3) Za osiguranika iz članka 7. stavka 1. točke 1. ovoga Zakona upućenog na privremeni rad u inozemstvo te osiguranika iz članka 7. stavka 1. točaka 3., 4., 6., 8. i 9. ovoga Zakona osnovica za naknadu plaće jest mjesečna osnovica osiguranja za obračun i uplatu doprinosa za obvezno zdravstveno osiguranje za posljednjih šest mjeseci prije mjeseca u kojem je nastupio osigurani slučaj na osnovi kojeg se stječe pravo na naknadu plaće, umanjena za zakonom propisane obvezne doprinose, poreze i prireze.
+
+(4) Iznimno od stavka 1. ovoga članka, osiguranicima koji pravo na naknadu plaće za vrijeme privremene nesposobnosti ostvaruju na teret sredstava Zavoda ili državnog proračuna u osnovicu za naknadu plaće uračunavaju se i drugi dohoci ostvareni prema primicima od kojih se, prema propisima o porezu na dohodak, utvrđuje drugi dohodak, a u skladu s propisima o doprinosima za obvezna osiguranja, pod uvjetom da su isplaćeni u šestomjesečnom razdoblju na temelju kojih se utvrđuje osnovica za naknadu plaće te da imaju ostvaren staž osiguranja u Zavodu propisan člankom 56. stavkom 1. ovoga Zakona.
+
+(5) Kad se osnovica za naknadu plaće ne može utvrditi prema stavku 1. ovoga članka, osnovicu za naknadu plaće čini plaća isplaćena do dana nastanka slučaja na osnovi kojeg se stječe pravo na naknadu plaće, odnosno pripadajuća plaća za mjesec za koji se određuje naknada plaće, s tim da tako određena osnovica, kada se naknada plaće isplaćuje na teret sredstava Zavoda, odnosno na teret sredstava državnog proračuna za naknadu plaće za vrijeme privremene nesposobnosti zbog pojave zaraze u okolini osiguranika iz članka 39. točke 11. ovoga Zakona, ne može biti veća od najniže osnovice osiguranja koja služi za obračun doprinosa za obvezno zdravstveno osiguranje, važeće za mjesec koji prethodi mjesecu u kojem je nastupio osigurani slučaj, umanjene za zakonom propisane obvezne doprinose, poreze i prireze.
+
+(6) Iznimno od stavka 5. ovoga članka, kada se osnovica za naknadu plaće, koja pripada osiguraniku u slučaju privremene nesposobnosti zbog priznate ozljede na radu ili profesionalne bolesti, ne može utvrditi prema stavku 1. ovoga članka, osnovicu za naknadu plaće čini pripadajuća plaća za mjesec za koji se određuje naknada plaće.
+
+(7) Način utvrđivanja osnovice za naknadu plaće pobliže utvrđuje općim aktom Zavod.«.
+
+#### Članak 29.
+
+U članku 55. stavak 3. mijenja se i glasi:
+
+»(3) Visinu naknade plaće koja se isplaćuje na teret sredstava Zavoda, odnosno na teret sredstava državnog proračuna za naknadu plaće za vrijeme privremene nesposobnosti zbog pojave zaraze u okolini osiguranika iz stavka 2. točke 7. ovoga članka utvrđuje Zavod, s tim da najviši mjesečni iznos naknade plaće, obračunate prema odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona, ne može za puno radno vrijeme iznositi više od proračunske osnovice uvećane za 28 %, osim naknade plaće iz stavka 2. točaka 3., 4. i 8. ovoga članka.«.
+
+#### Članak 30.
+
+U članku 56. stavak 1. mijenja se i glasi:
+
+»(1) Naknada plaće koja se isplaćuje na teret sredstava Zavoda, odnosno na teret sredstava državnog proračuna za naknadu plaće za vrijeme privremene nesposobnosti zbog pojave zaraze u okolini osiguranika iz članka 39. točke 11. ovoga Zakona pripada osiguraniku u visini propisanoj ovim Zakonom, odnosno propisima i općim aktima donesenim na temelju ovoga Zakona, pod uvjetom da prije dana nastanka osiguranog slučaja na osnovi kojeg se stječe pravo na naknadu plaće ima ostvaren staž osiguranja u Zavodu na temelju radnog odnosa, obavljanja gospodarske djelatnosti ili obavljanja profesionalne djelatnosti samostalno u obliku zanimanja, odnosno na temelju primanja naknade plaće nakon prestanka radnog odnosa, odnosno prestanka obavljanja djelatnosti osobnim radom ostvarene prema ovom Zakonu od najmanje devet mjeseci neprekidno ili 12 mjeseci s prekidima u posljednje dvije godine (prethodno osiguranje), ako posebnim zakonom nije drukčije utvrđeno.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) U prethodno osiguranje iz stavka 1. ovoga članka ubraja se i zdravstveno osiguranje ostvareno na temelju mandata zastupnika u Europskom parlamentu, odnosno radnog odnosa u institucijama, tijelima, uredima i agencijama Europske unije koje zapošljavaju dužnosnike i privremene ili ugovorne službenike radnog odnosa.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+#### Članak 31.
+
+U članku 60. riječ: »osam« zamjenjuje se brojkom: »15«.
+
+#### Članak 32.
+
+U članku 70. stavku 1. brojevi: »20. i 25.« zamjenjuju se brojevima: »20., 25. i 28.«.
+
+#### Članak 33.
+
+Članak 71. mijenja se i glasi:
+
+»Osiguranicima iz članka 7. stavka 1. točaka 1. do 6. te točaka 8., 9., 20., 25. i 28. ovoga Zakona osiguravaju se mjere specifične zdravstvene zaštite radnika koje provode doktori specijalisti medicine rada / medicine rada i sporta, u skladu sa zakonom kojim se uređuje zdravstvena zaštita i posebnim zakonima te pravilnicima donesenim na temelju tih zakona.«.
+
+#### Članak 34.
+
+Članak 72. mijenja se i glasi:
+
+»(1) Prihodi obveznoga zdravstvenog osiguranja su:
+
+1. doprinosi za obvezno zdravstveno osiguranje,
+
+2. doprinosi za obvezno zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti,
+
+3. doprinosi za obvezno zdravstveno osiguranje osoba iz članka 7. stavka 1. točaka 13., 16., 17. i 19. te stavka 6. ovoga Zakona i članka 11. stavka 1. točke 3. te stavaka 2. i 3. ovoga Zakona koje se vode u evidenciji nezaposlenih osoba prema zakonu kojim se uređuje tržište rada,
+
+4. doprinosi za obvezno zdravstveno osiguranje osiguranih osoba kojima je odlukom nadležnoga suda oduzeta sloboda iz članka 7. stavka 1. točke 27. ovoga Zakona,
+
+5. doprinosi za obvezno zdravstveno osiguranje drugih obveznika plaćanja doprinosa utvrđenih ovim i drugim zakonom,
+
+6. posebni doprinos za korištenje zdravstvene zaštite u inozemstvu,
+
+7. prihodi iz državnog proračuna u skladu s člankom 82. ovoga Zakona,
+
+8. prihodi od sudjelovanja u troškovima zdravstvene zaštite osiguranih osoba, odnosno njihovih osiguravatelja u dopunskom zdravstvenom osiguranju,
+
+9. prihodi Zavoda od dividendi, kamata, financijskih ugovora i drugih prihoda,
+
+10. prihodi od obveznoga osiguranja od automobilske odgovornosti.
+
+(2) Prihod iz stavka 1. točke 10. ovoga članka uplaćuju društva za osiguranje u visini od 5 % naplaćene funkcionalne premije osiguranja od obveznoga osiguranja od automobilske odgovornosti na ime troškova za zdravstvenu zaštitu koja je posljedica ozljeda prouzročenih od strane vlasnika, odnosno korisnika osiguranoga motornog vozila.
+
+(3) Društva za osiguranje obvezna su sredstva od prihoda iz stavka 1. točke 10. ovoga članka u iznosu propisanom stavkom 2. ovoga članka uplatiti do 10. u mjesecu za prethodni mjesec na ukupan iznos naplaćene funkcionalne premije osiguranja od obveznoga osiguranja.
+
+(4) Društva za osiguranje obvezna su Ministarstvu financija, Poreznoj upravi podnijeti izvješće o obračunatim i uplaćenim mjesečnim sredstvima od prihoda iz stavka 1. točke 10. ovoga članka do 15. u mjesecu za prethodni mjesec.
+
+(5) Nadzor nad provedbom ovoga Zakona u dijelu kojim se uređuje prihod obveznoga zdravstvenog osiguranja po osnovi prihoda od obveznoga osiguranja od automobilske odgovornosti provodi Ministarstvo financija, Porezna uprava.
+
+(6) Doprinosi i ostali prihodi obveznoga zdravstvenog osiguranja utvrđeni u stavku 1. ovoga članka uplaćuju se u korist računa Zavoda i prihod su Zavoda.
+
+(7) Način plaćanja i izvješćivanja, kao i postupak nadzora nad provedbom odredbi stavaka 3. i 4. ovoga članka utvrđuje pravilnikom ministar nadležan za financije.«.
+
+#### Članak 35.
+
+U članku 82. stavku 1. točka 1. mijenja se i glasi:
+
+»1. sredstva za naknadu plaće za vrijeme privremene nesposobnosti iz članka 39. točaka 9. i 11. i članka 52. stavka 2. ovoga Zakona,«.
+
+U točki 2. podtočka a) mijenja se i glasi:
+
+»a. osiguranike iz članka 7. stavka 1. točaka 13., 16., 17. i 19. i stavka 6. te članka 11. stavka 1. točke 3. te stavaka 2. i 3. ovoga Zakona za koje se doprinos ne uplaćuje u skladu s člankom 72. stavkom 1. točkom 3. ovoga Zakona te za osiguranike iz članka 7. stavka 1. točaka 14., 15., 18., 20., 21., 25., 26., 28. i 29. ovoga Zakona,«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Iznimno od stavka 1. ovoga članka, Republika Hrvatska osigurat će dodatna sredstva u državnom proračunu za pokriće prava iz obveznoga zdravstvenog osiguranja, sukladno potrebama i u skladu s fiskalnim mogućnostima.
+
+(4) Opći akt kojim se utvrđuju način i elementi za izračun prava iz obveznoga zdravstvenog osiguranja iz stavka 1. ovoga članka donosi Zavod, uz prethodnu suglasnost ministra nadležnog za zdravstvo i uz prethodnu suglasnost ministra nadležnog za financije.«.
+
+#### Članak 36.
+
+Iza članka 87. dodaje se članak 87.a koji glasi:
+
+»Članak 87.a
+
+(1) Zavod općim aktom utvrđuje cijene usluga zdravstvene zaštite iz obveznoga zdravstvenog osiguranja najmanje jednom u pet godina, a revidira ih najmanje jednom godišnje.
+
+(2) Prilikom utvrđivanja rokova za plaćanje računa ugovornim subjektima Zavoda za pruženu zdravstvenu zaštitu primjenjuje se zakon kojim se uređuje financijsko poslovanje i predstečajna nagodba.«.
+
+#### Članak 37.
+
+Iza članka 88. dodaje se članak 88.a koji glasi:
+
+»Članak 88.a
+
+(1) Iznimno od članka 88. stavka 1. ovoga Zakona, ako se na temelju praćenja listi čekanja utvrdi značajno produženje čekanja na određene zdravstvene usluge iz obveznoga zdravstvenog osiguranja, Zavod može, na zahtjev ministarstva nadležnog za zdravstvo, raspisati natječaj u skladu s općim aktom iz članka 87. stavka 1. ovoga Zakona i ugovoriti provođenje tih zdravstvenih usluga s pojedinim zdravstvenim ustanovama i privatnim zdravstvenim radnicima.
+
+(2) Odredbe članka 88. stavaka 3., 4. i 5. te članaka 89. do 92. ovoga Zakona odgovarajuće se primjenjuju i na postupke iz stavka 1. ovoga članka.«.
+
+#### Članak 38.
+
+Iza članka 98. dodaje se članak 98.a koji glasi:
+
+»Članak 98.a
+
+(1) U obavljanju poslova iz članka 98. ovoga Zakona Zavod prikuplja i dalje obrađuje osobne podatke osiguranih osoba nužne za primjenu ovoga Zakona.
+
+(2) Osobni podaci osiguranih osoba prikupljaju se samo u opsegu koji je nužan radi ostvarivanja prava i utvrđivanja obveza iz ovoga Zakona, kao i izvršavanja zadaća od javnog interesa ili javnih ovlasti Zavoda koje proizlaze iz ovoga Zakona.
+
+(3) Razmjena osobnih podataka s drugim tijelima javne vlasti, kao i ugovornim subjektima obavlja se isključivo u svrhu utvrđivanja prava i obveza osiguranih osoba u skladu s ovim Zakonom i drugim propisima, a mora biti nužna i proporcionalna svrsi za koju se obavlja.
+
+(4) Zavod može odbiti zahtjev drugog tijela javne vlasti, kao i ugovornih subjekata za dostavu osobnih podataka osigurane osobe ako nije sukladan Uredbi (EU) 2016/679 Europskog parlamenta i Vijeća od 27. travnja 2016. o zaštiti pojedinaca u vezi s obradom osobnih podataka i o slobodnom kretanju takvih podataka te o stavljanju izvan snage Direktive 95/46/EZ (Opća uredba o zaštiti podataka) (SL L 119, 4. 5. 2016., u daljnjem tekstu: Uredba 679/2016) i drugim propisima kojima je uređena zaštita osobnih podataka.
+
+(5) Osobni podaci osiguranih osoba koje Zavod prikuplja i dalje obrađuje u provedbi odredbi ovoga Zakona predstavljaju službenu tajnu.«.
+
+#### Članak 39.
+
+Članak 99. mijenja se i glasi:
+
+»(1) Zavod obavlja poslove iz svoje djelatnosti putem središnje ustrojstvene jedinice i područnih ustrojstvenih jedinica.
+
+(2) Djelokrug i područja rada ustrojstvenih jedinica Zavoda, njezini nazivi, kao i druga pitanja značajna za obavljanje poslova u Zavodu uređuju se statutom Zavoda.«.
+
+#### Članak 40.
+
+Članci 100. i 101. brišu se.
+
+#### Članak 41.
+
+U članku 104. stavku 2. iza riječi: »Narodnim novinama« stavlja se zarez i dodaju riječi: »osim ako ovim Zakonom nije drukčije propisano«.
+
+#### Članak 42.
+
+U članku 105. stavak 2. mijenja se i glasi:
+
+»(2) Ravnatelj mora imati završen diplomski sveučilišni studij pravnog, ekonomskog ili zdravstvenog usmjerenja i najmanje pet godina radnog iskustva na poslovima upravljanja na temelju stečenoga akademskog naziva propisanog za ravnatelja.«.
+
+#### Članak 43.
+
+Članak 106. mijenja se i glasi:
+
+»(1) Ravnatelja Zavoda na prijedlog ministra nadležnog za zdravstvo imenuje i razrješuje Vlada Republike Hrvatske.
+
+(2) Ravnatelj Zavoda imenuje se na temelju javnog natječaja koji raspisuje Zavod na vrijeme od četiri godine.
+
+(3) Odluku o raspisivanju javnog natječaja iz stavka 2. ovoga članka u skladu sa zakonom kojim se uređuju ustanove donosi Upravno vijeće Zavoda, a postupak odabira kandidata za ravnatelja provodi ministarstvo nadležno za zdravstvo.«.
+
+#### Članak 44.
+
+Članak 110. mijenja se i glasi:
+
+»(1) Zamjenik ravnatelja Zavoda mora imati završen diplomski sveučilišni studij pravnog, ekonomskog ili zdravstvenog usmjerenja i najmanje pet godina radnog iskustva na poslovima upravljanja na temelju stečenoga akademskog naziva.
+
+(2) Zamjenika ravnatelja Zavoda na prijedlog ministra nadležnog za zdravstvo imenuje i razrješuje Vlada Republike Hrvatske.
+
+(3) Zamjenik ravnatelja Zavoda imenuje se na temelju javnog natječaja koji raspisuje Zavod na vrijeme od četiri godine.
+
+(4) Odluku o raspisivanju javnog natječaja iz stavka 3. ovoga članka u skladu sa zakonom kojim se uređuju ustanove donosi Upravno vijeće Zavoda, a postupak odabira kandidata za ravnatelja provodi ministarstvo nadležno za zdravstvo.«.
+
+#### Članak 45.
+
+Članak 114. briše se.
+
+#### Članak 46.
+
+Članak 115. mijenja se i glasi:
+
+»Djelokrug, ovlaštenja i odgovornost ravnatelja, zamjenika ravnatelja i pomoćnika ravnatelja Zavoda detaljnije se uređuju statutom Zavoda.«.
+
+#### Članak 47.
+
+Članak 119. mijenja se i glasi:
+
+»(1) Status osigurane osobe utvrđuje Zavod, a osigurana osoba prava i obveze iz obveznoga zdravstvenog osiguranja stječe, u pravilu, danom stjecanja statusa osigurane osobe, ako ovim Zakonom, odnosno općim aktom Zavoda kojim se uređuje ostvarivanje prava osiguranih osoba iz obveznoga zdravstvenog osiguranja te obveze osiguranih osoba u ostvarivanju tih prava nije drukčije određeno.
+
+(2) Osiguranoj osobi prestaje status osigurane osobe prema pojedinoj osnovi osiguranja danom prestanka okolnosti na temelju kojih je stekla status osigurane osobe prema toj osnovi osiguranja, odnosno danom prestanka radnog odnosa ili obavljanja gospodarske, odnosno profesionalne djelatnosti, danom brisanja poslodavca iz sudskog registra, danom prestanka statusa osiguranika u mirovinskom osiguranju na osobni zahtjev samostalnog obveznika doprinosa na osnovi odobrene privremene obustave, odnosno odobrenog mirovanja obavljanja djelatnosti i sl., odnosno gubitkom statusa osobe na prebivalištu, stalnom boravku ili dugotrajnom boravištu u Republici Hrvatskoj, odnosno u slučaju prijave privremenog odlaska izvan Republike Hrvatske, ako je njezin status osigurane osobe uvjetovan prebivalištem, stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj te ako ovim Zakonom, propisima Europske unije i međunarodnim ugovorom nije drukčije određeno, odnosno smrću osigurane osobe.
+
+(3) Osobi koja ispunjava uvjete za stjecanje statusa osigurane osobe Zavod utvrđuje taj status od dana nastanka okolnosti na osnovi kojih se stječe status u obveznom zdravstvenom osiguranju prema ovome Zakonu te joj se izdaje iskaznica zdravstveno osigurane osobe.
+
+(4) Za ostvarivanje prava u prekograničnoj zdravstvenoj zaštiti osiguranoj osobi izdaje se europska kartica zdravstvenog osiguranja ili certifikat koji privremeno zamjenjuje europsku karticu zdravstvenog osiguranja, odnosno druga odgovarajuća potvrda u skladu s propisima Europske unije i međunarodnim ugovorima.
+
+(5) Ispravu iz stavka 4. ovoga članka izdaje Zavod na zahtjev osigurane osobe.
+
+(6) Opći akt o sadržaju, obliku i naknadi za troškove izdavanja isprave iz stavka 3. ovoga članka, kao i načinu njezina izdavanja te uvjetima i načinu izdavanja europske kartice zdravstvenog osiguranja iz stavka 4. ovoga članka donosi Zavod.«.
+
+#### Članak 48.
+
+U članku 120. stavak 2. mijenja se i glasi:
+
+»(2) Status osigurane osobe, odnosno prestanak statusa osigurane osobe Zavod utvrđuje u pravilu bez donošenja rješenja, na osnovi prijave iz stavka 4. ovoga članka, odnosno po službenoj dužnosti na osnovi podataka dostavljenih od nadležnih tijela koja imaju ovlasti prikupljanja i dostave podataka radi prijave na obvezno zdravstveno osiguranje, odnosno odjave s obveznoga zdravstvenog osiguranja, ako ovim Zakonom nije drukčije određeno.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, Zavod donosi rješenje na zahtjev osobe kojoj je utvrđen status osigurane osobe, odnosno prestanak toga statusa u skladu sa stavkom 2. ovoga članka.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 49.
+
+U članku 125. stavku 1. točki 1. riječi: »ustrojstvena jedinica regionalnog ureda Zavoda nadležna prema mjestu prebivališta, odnosno boravišta osigurane osobe« zamjenjuju se riječima: »područna ustrojstvena jedinica Zavoda«.
+
+U točki 2. riječi: »Direkcija Zavoda« zamjenjuju se riječima: »središnja ustrojstvena jedinica Zavoda«.
+
+#### Članak 50.
+
+U članku 129. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) U postupku priznavanja ozljede na radu, radi utvrđivanja činjenica i okolnosti nastanka ozljede, odnosno bolesti Zavod može za određeni događaj koristiti nalaze inspekcijskog nadzora obavljenog u područja zaštite na radu, odnosno može zatražiti obavljanje takvog nadzora u području zaštite na radu u slučaju ako je ozlijeđena osoba bila zadržana na bolničkom liječenju.«.
+
+#### Članak 51.
+
+Članak 131. mijenja se i glasi:
+
+»Utvrđivanje i priznavanje ozljede na radu, odnosno profesionalne bolesti te način njihova ostvarivanja pobliže uređuje općim aktom Zavod.«.
+
+#### Članak 52.
+
+U članku 146. ispred riječi: »Pri« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Radi utvrđivanja prava Zavoda iz stavka 1. ovoga članka tijela državne vlasti i druga nadležna tijela, pravne i fizičke osobe obvezni su Zavodu omogućiti pristup podacima kojima raspolažu i o kojima vode službene evidencije.«.
+
+#### Članak 53.
+
+Članak 149. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 66.360,00 do 132.720,00 eura kaznit će se za prekršaj društvo za osiguranje ako sredstva od prihoda od obveznoga osiguranja od automobilske odgovornosti u visini od 5 % naplaćene funkcionalne premije osiguranja od obveznoga osiguranja od automobilske odgovornosti na ime troškova za zdravstvenu zaštitu koja je posljedica ozljeda prouzročenih od strane vlasnika, odnosno korisnika osiguranoga motornog vozila ne uplati do 10. u mjesecu za prethodni mjesec na ukupan iznos naplaćene funkcionalne premije osiguranja od obveznoga osiguranja (članak 72. stavak 3.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 3980,00 do 6630,00 eura kaznit će se i odgovorna osoba u društvu za osiguranje.
+
+(3) Novčanom kaznom u iznosu od 660,00 do 13.270,00 eura kaznit će se za prekršaj društvo za osiguranje ako Ministarstvu financija, Poreznoj upravi ne podnese izvješće o obračunatim i uplaćenim mjesečnim sredstvima od prihoda od obveznoga osiguranja od automobilske odgovornosti do 15. u mjesecu za prethodni mjesec (članak 72. stavak 4.).
+
+(4) Za prekršaj iz stavka 3. ovoga članka novčanom kaznom u iznosu od 660,00 do 2650,00 eura kaznit će se i odgovorna osoba u društvu za osiguranje.«.
+
+#### Članak 54.
+
+Članak 150. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 9290,00 do 13.270,00 eura kaznit će se za prekršaj pravna osoba ako:
+
+‒ ne isplati naknadu plaće u skladu s obračunom koji je dostavio Zavod najkasnije u roku od 15 dana od dana zaprimanja obračuna naknade plaće (članak 43. stavak 3.),
+
+‒ ne podnese prijavu na obvezno zdravstveno osiguranje, prijavu promjene u obveznom zdravstvenom osiguranju te odjavu s obveznoga zdravstvenog osiguranja u roku od osam dana od dana nastanka, promjene ili prestanka okolnosti na osnovi kojih se stječe ili prestaje status osigurane osobe (članak 120. stavak 4.),
+
+‒ podnese prijavu na osnovi zaključenog ugovora o radu koji se ne temelji na istinitom činjeničnom stanju i postojanju stvarnih okolnosti koje su osnova za stjecanje statusa u obveznom zdravstvenom osiguranju, odnosno ako svrha zaključenog ugovora o radu nije bila obavljanje poslova u skladu s tim ugovorom već isključivo ostvarivanje prava iz obveznoga zdravstvenog osiguranja (članak 122. stavak 4.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 1060,00 do 1990,00 eura kaznit će se i odgovorna osoba u pravnoj osobi i fizička osoba.
+
+(3) Za prekršaj iz stavka 1. ovoga članka pravnoj ili fizičkoj osobi iz stavaka 1. i 2. ovoga članka može se uz novčanu kaznu izreći i mjera zabrane obavljanja djelatnosti.«.
+
+#### Članak 55.
+
+Članak 151. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 1320,00 do 1990,00 eura kaznit će se za prekršaj pravna osoba obveznik podnošenja prijave na obvezno zdravstveno osiguranje ako na traženje Zavoda ne predoči sve činjenice i dokaze kojima se dokazuje osnovanost prijave na obvezno zdravstveno osiguranje, odnosno valjanost važećeg statusa osigurane osobe (članak 122. stavak 2.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 390,00 do 660,00 eura kaznit će se i odgovorna osoba u pravnoj osobi.
+
+(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 1060,00 do 1720,00 eura kaznit će se i fizička osoba obveznik podnošenja prijave na obvezno zdravstveno osiguranje.«.
+
+#### Članak 56.
+
+Članak 152. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 1320,00 do 6630,00 eura kaznit će se ravnatelj ugovorne zdravstvene ustanove, odnosno ugovorni zdravstveni radnik privatne prakse te voditelj ustrojstvene jedinice u zdravstvenoj ustanovi, svatko iz svoje nadležnosti, ako u okviru ugovorenih sredstava ne osiguraju osiguranim osobama zdravstvenu zaštitu koju su sa Zavodom ugovorili te nenamjenski troše sredstva osigurana za provođenje zdravstvene zaštite iz obveznoga zdravstvenog osiguranja (članak 93.).
+
+(2) Novčanom kaznom u iznosu od 6630,00 do 33.180,00 eura kaznit će se za prekršaj ugovorna zdravstvena ustanova ako ne koristi namjenski sredstva ostvarena na temelju ugovora sa Zavodom o provođenju zdravstvene zaštite iz obveznoga zdravstvenog osiguranja (članak 94. stavak 3. točka 4.).
+
+(3) Za prekršaj iz stavka 2. ovoga članka novčanom kaznom u iznosu od 1320,00 do 6630,00 eura kaznit će se i odgovorna osoba u ugovornoj zdravstvenoj ustanovi.
+
+(4) Novčanom kaznom u iznosu od 660,00 do 2650,00 eura kaznit će se za prekršaj izabrani doktor ako:
+
+‒ utvrdi dužinu trajanja privremene nesposobnosti osiguranika koja nije u skladu s njegovim zdravstvenim stanjem i medicinskom indikacijom, odnosno s drugim razlozima privremene spriječenosti za rad utvrđene člankom 39. ovoga Zakona (članak 46. stavak 2.),
+
+‒ ne utvrdi prestanak privremene nesposobnosti osiguraniku kod kojega je nalazom i mišljenjem nadležnog tijela vještačenja Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom nadležnog za provođenje vještačenja u svrhu ostvarivanja prava u području mirovinskog osiguranja, zbog trajnih promjena u zdravstvenom stanju koje se ne mogu otkloniti liječenjem, utvrđena smanjena radna sposobnost uz preostalu radnu sposobnost, utvrđen djelomični gubitak radne sposobnosti ili potpuni gubitak radne sposobnosti, s danom zaprimanja obavijesti Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom (članak 46. stavak 4.),
+
+‒ je utvrdio privremenu nesposobnost osiguraniku kod kojeg je utvrđena smanjena radna sposobnost uz preostalu radnu sposobnost, odnosno kod kojeg je utvrđen djelomični gubitak radne sposobnosti, a nije došlo do pogoršanja bolesti na osnovi koje mu je to utvrđeno ili pojavom bolesti na osnovi druge dijagnoze bolesti (članak 46. stavak 5.),
+
+‒ mijenja dijagnozu bolesti osiguranika, odnosno neopravdano zaključuje privremenu nesposobnost kada za to ne postoji medicinska indikacija, a radi izbjegavanja primjene članka 52. stavka 2. ovoga Zakona (članak 52. stavak 4.).
+
+(5) Novčanom kaznom u iznosu od 660,00 do 1990,00 eura kaznit će se za prekršaj doktor specijalist bolničke zdravstvene ustanove koji je osiguranoj osobi predložio liječenje lijekom iz članka 21. stavaka 2. i 3. ovoga Zakona, ako nije uputio prijedlog povjerenstvu za lijekove bolničke zdravstvene ustanove u kojoj se osigurana osoba liječi (članak 21. stavak 4.).«.
+
+#### Članak 57.
+
+Članak 153. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 1060,00 do 1990,00 eura kaznit će se za prekršaj osigurana osoba ako:
+
+‒ je svjesno prouzročila privremenu nesposobnost (članak 53. stavak 1. točka 1.),
+
+‒ ne izvijesti izabranog doktora o nastanku privremene nesposobnosti u roku od tri dana od dana početka bolesti ili nastanka drugih okolnosti utvrđenih člankom 39. ovoga Zakona, odnosno u roku od tri dana od dana prestanka razloga koji ga je u tome onemogućio (članak 53. stavak 1. točka 2.),
+
+‒ namjerno sprječava ozdravljenje, odnosno osposobljavanje za rad (članak 53. stavak 1. točka 3.),
+
+‒ za vrijeme privremene nesposobnosti radi, odnosno obavlja poslove na osnovi kojih je obvezno zdravstveno osiguran, obavlja ugovorene poslove na temelju ugovora o djelu te bilo koje druge poslove (npr. poljoprivredni radovi i sl.) (članak 53. stavak 1. točka 4.),
+
+‒ se bez opravdanog razloga ne odazove na poziv za liječnički pregled izabranog doktora, odnosno ovlaštene osobe ili tijela Zavoda ovlaštenih za nadzor i kontrolu privremene nesposobnosti (članak 53. stavak 1. točka 5.),
+
+‒ izabrani doktor, ovlaštena osoba ili tijelo Zavoda ovlašteni za kontrolu privremene nesposobnosti utvrde da se ne pridržava uputa za liječenje, odnosno bez suglasnosti izabranog doktora otputuje iz mjesta prebivališta, odnosno boravišta ili zlorabi privremenu nesposobnost na neki drugi način (članak 53. stavak 1. točka 6.).«.
+
+#### Članak 58.
+
+U cijelom tekstu Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.) riječi: »ministar nadležan za zdravlje« u određenom padežu zamjenjuju se riječima: »ministar nadležan za zdravstvo« u odgovarajućem padežu, a riječi: »ministarstvo nadležno za zdravlje« u određenom padežu zamjenjuju se riječima: »ministarstvo nadležno za zdravstvo« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 59.
+
+(1) Ministar nadležan za poslove socijalne skrbi donijet će pravilnik iz članka 7. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Ministar nadležan za zdravstvo donijet će pravilnike iz članaka 9. i 12. ovoga Zakona u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+(3) Ministar nadležan za financije donijet će pravilnik iz članka 34. ovoga Zakona u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 60.
+
+(1) Upravno vijeće Zavoda će u roku od godine dana od dana stupanja na snagu ovoga Zakona uskladiti statut i druge opće akte s odredbama ovoga Zakona.
+
+(2) Upravno vijeće Zavoda će opće akte iz članaka 8., 9., 10., 11., 15., 20., 28., 35., 36., 47. i 51. ovoga Zakona donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 61.
+
+Do dana stupanja na snagu pravilnika i općih akta iz članaka 59. i 60. ovoga Zakona ostaju na snazi:
+
+1. Pravilnik o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu i profesionalne bolesti (»Narodne novine«, br. 75/14., 154/14., 79/15., 139/15., 105/16., 40/17., 66/17., 109/17., 132/17., 119/18., 41/19., 22/20., 39/20. i 2/22.),
+
+2. Pravilnik o načinu propisivanja i izdavanja lijekova na recept (»Narodne novine«, br. 17/09., 46/09., 4/10., 110/10., 131/10., 1/11., 52/11., 129/13., 146/13., 45/14., 81/14., 17/15., 113/16., 129/17. i 89/20.),
+
+3. Pravilnik o načinu prijavljivanja i odjavljivanja, te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju (»Narodne novine«, br. 82/14., 17/15., 99/17. i 129/17.),
+
+4. Pravilnik o načinu obračunavanja i plaćanja te izvješćivanja o prihodu obveznog zdravstvenog osiguranja po osnovi obveznog osiguranja od automobilske odgovornosti (»Narodne novine«, br. 135/14., 128/17. i 156/22.),
+
+5. Pravilnik o mjerilima i postupku za utvrđivanje nesposobnosti za samostalan život i rad i nedostatak sredstava za uzdržavanje osobe s prebivalištem u Republici Hrvatskoj kojima se zdravstvena zaštita ne osigurava po drugoj osnovi (»Narodne novine«, br. 39/02.),
+
+6. Odluka o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 143/22., 153/22. i 14/23.),
+
+7. Odluka o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 143/22., 153/22. i 14/23.),
+
+8. Odluka o utvrđivanju popisa posebno skupih lijekova (»Narodne novine«, br. 6/22., 16/22., 39/22., 65/22., 68/22., 77/22., 90/22., 112/22., 132/22., 143/22. i 14/23.),
+
+9. Plan i program mjera zdravstvene zaštite iz obveznog zdravstvenog osiguranja (»Narodne novine«, br. 126/06. i 156/08.),
+
+10. Pravilnik o kontroli privremene nesposobnosti za rad (»Narodne novine«, br. 130/13.).
+
+#### Članak 62.
+
+(1) Osigurane osobe koje su status u obveznom zdravstvenom osiguranju stekle prema članku 7. stavku 1. točki 13. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.), koje se ne vode u evidenciji Hrvatskog zavoda za zapošljavanje kao nezaposlene osobe, obvezne su u roku od 90 dana od dana stupanja na snagu ovoga Zakona osobno pristupiti Zavodu radi provjere okolnosti na temelju kojih im je taj status utvrđen.
+
+(2) Osigurane osobe iz stavka 1. ovoga članka koje osobno ne pristupe Zavodu u roku iz stavka 1. ovoga članka Zavod će istekom toga roka odjaviti iz obveznoga zdravstvenog osiguranja po službenoj dužnosti, bez donošenja rješenja.
+
+(3) Osigurane osobe koje su status u obveznom zdravstvenom osiguranju stekle prema osnovi osiguranja za koju je propisan uvjet prebivališta, stalnog boravka ili dugotrajnog boravišta u Republici Hrvatskoj, a koje imaju prijavljen privremeni odlazak izvan Republike Hrvatske zadržavaju taj status još najduže 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 63.
+
+Zavod i Hrvatski zavod za zapošljavanje obvezni su uspostaviti međusobnu digitalnu razmjenu podataka radi provedbe razmjene podataka o nezaposlenim osobama koje se vode u evidenciji nezaposlenih osoba Hrvatskog zavoda za zapošljavanje te provjere postojanja okolnosti na temelju kojih su nezaposlene osobe koje se ne vode u evidenciji nezaposlenih osoba Hrvatskog zavoda za zapošljavanje stekle status osiguranika iz članka 3. ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 64.
+
+Upravni postupci pokrenuti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.) te propisa i općih akata donesenih na temelju toga Zakona.
+
+#### Članak 65.
+
+Do dana stupanja na snagu članka 19. stavaka 3. i 5. koji su izmijenjeni člankom 9. ovoga Zakona osigurane osobe obvezne su sudjelovati u troškovima zdravstvene zaštite sukladno članku 19. stavcima 3. i 5. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.).
+
+#### Članak 66.
+
+Konačan obračun uplaćenih sredstava od naplaćene funkcionalne premije osiguranja od obveznoga osiguranja od automobilske odgovornosti i stvarnih troškova prouzročene štete Zavodu koju su prouzročili vlasnici, odnosno korisnici osiguranoga motornog vozila provest će se za 2022. te za 2023. za razdoblje do dana stupanja na snagu ovoga Zakona na način utvrđen člankom 72. stavcima 6. i 7. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.).
+
+#### Članak 67.
+
+Ministarstvo zdravstva će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 68.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 19. stavaka 3. i 5. koji su izmijenjeni člankom 9. ovoga Zakona koji stupaju na snagu 1. siječnja 2024.
+
+Klasa: 022-02/22-01/194
+
+Zagreb, 17. ožujka 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju (NN 105/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/105/1474*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O OBVEZNOM ZDRAVSTVENOM OSIGURANJU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom osiguranju, koji je Hrvatski sabor donio na sjednici 15. srpnja 2025.
+
+Klasa: 011-02/25-02/66  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 17. srpnja 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O OBVEZNOM ZDRAVSTVENOM OSIGURANJU**
+
+#### Članak 1.
+
+U Zakonu o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13., 98/19. i 33/23.) u članku 7. stavku 7. riječi: »točkom 13.« zamjenjuju se riječima: »točkama 13. i 16.«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Iznimno, osigurane osobe iz stavka 7. ovoga članka nemaju obvezu osobnog pristupa za vrijeme korištenja prava na rodiljne i roditeljske potpore ako imaju status osobe s invaliditetom kojoj je utvrđen treći ili četvrti stupanj težine invaliditeta, samohrani roditelji djece do sedme godine života, osobe koje u kućanstvu skrbe za teško bolesnog člana obitelji, kao i učenici i studenti koji su u postupku ponovnog upisa u obrazovnu ustanovu nakon prekida školovanja te ako zbog svoga zdravstvenog stanja ili drugog opravdanog razloga nisu u mogućnosti osobno pristupiti Zavodu radi provjere okolnosti na temelju kojih im je taj status utvrđen, dok traje objektivna nemogućnost, pod uvjetom da su o tome obavijestile Zavod.«.
+
+#### Članak 2.
+
+U članku 55. stavku 1. broj: »25« zamjenjuje se brojem: »80«.
+
+U stavku 2. točki 5. riječi: »tri godine« zamjenjuju se riječima: »sedam godina«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Visinu naknade plaće koja se isplaćuje na teret sredstava Zavoda odnosno na teret sredstava državnog proračuna za naknadu plaće za vrijeme privremene nesposobnosti zbog pojave zaraze u okolini osiguranika iz stavka 2. točke 7. ovoga članka utvrđuje Zavod, s tim da najviši mjesečni iznos naknade plaće, obračunate prema odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona, ne može za puno radno vrijeme iznositi više od 225,5 % proračunske osnovice, osim naknade plaće iz stavka 2. točaka 3., 4. i 8. ovoga članka.«.
+
+#### Članak 3.
+
+U članku 56. stavku 4. broj: »25« zamjenjuje se brojem: »80«.
+
+#### Članak 4.
+
+U članku 62. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Osigurana osoba ima pravo na naknadu za troškove prijevoza pod uvjetom da je radi ostvarivanja prava na zdravstvenu zaštitu iz obveznoga zdravstvenog osiguranja upućena najbližem ugovornom subjektu odnosno isporučitelju pomagala Zavoda u drugom mjestu u odnosu na mjesto prebivališta odnosno boravišta te da ne ispunjava uvjete za korištenje sanitetskog prijevoza propisane pravilnikom iz članka 19. stavka 9. ovoga Zakona i utvrđene općim aktom Zavoda.
+
+(2) Osigurana osoba iz stavka 1. ovoga članka ima pravo na naknadu za troškove prijevoza ako je radi korištenja zdravstvene zaštite upućena u ugovornu zdravstvenu ustanovu odnosno ordinaciju ugovornog doktora privatne prakse ili ugovornom isporučitelju pomagala koji su udaljeni 50 i više kilometara od adrese prebivališta odnosno boravišta jer odgovarajuću zdravstvenu zaštitu, sukladno svom zdravstvenom stanju, ne može ostvariti u mjestu prebivališta ili boravišta odnosno u najbližoj ugovornoj zdravstvenoj ustanovi odnosno ordinaciji ugovornog doktora privatne prakse s ugovorenom djelatnošću za tu vrstu zdravstvene zaštite ili kod najbližeg ugovornog isporučitelja pomagala.«.
+
+#### Članak 5.
+
+Članak 65. mijenja se i glasi:
+
+»(1) Naknada za troškove prijevoza iz članka 62. ovoga Zakona pripada osiguranoj osobi u visini 0,025 % od proračunske osnovice po kilometru za najkraću relaciju cestovnog prometa između adrese prebivališta odnosno boravišta i adrese ugovornog subjekta Zavoda ili zdravstvene ustanove kamo je upućena na liječenje u skladu s člankom 26. stavkom 3. ovoga Zakona, adrese ugovornog isporučitelja pomagala odnosno adrese ustrojstvene jedinice Zavoda kamo je pozvana radi ostvarivanja prava iz obveznoga zdravstvenog osiguranja.
+
+(2) Iznimno od stavka 1. ovoga članka, osigurana osoba kojoj je, zbog zdravstvenog stanja rješenjem Zavoda o upućivanju na liječenje u inozemstvo u skladu s člankom 26. stavkom 3. ovoga Zakona, a na osnovi nalaza, mišljenja i ocjene nadležnog tijela vještačenja Zavoda, odobren prijevoz zrakoplovom ima pravo na naknadu za troškove prijevoza u visini najniže cijene zrakoplovne karte za ekonomsku klasu.
+
+(3) Pravo na naknadu za troškove prijevoza osigurana osoba ostvaruje na osnovi tiskanice putnog naloga koji izdaje izabrani doktor medicine primarne zdravstvene zaštite ili izabrani doktor dentalne medicine odnosno ovlašteni radnik Zavoda kada je osigurana osoba pozvana od strane Zavoda radi ostvarivanja prava iz obveznoga zdravstvenog osiguranja te na osnovi rješenja Zavoda o upućivanju na liječenje u skladu s člankom 26. stavkom 3. ovoga Zakona.
+
+(4) Pod mjestom iz članka 62. stavka 1. ovoga Zakona podrazumijeva se grad odnosno naselje koje nije u sastavu grada, u skladu sa zakonom kojim se uređuju područja županija, gradova i općina u Republici Hrvatskoj.
+
+(5) Pod mjestom iz stavka 4. ovoga članka iznimno se podrazumijeva i naselje koje je u sastavu grada ako je od grada u čijem je sastavu udaljeno 20 i više kilometara.
+
+(6) Udaljenost iz stavka 1. ovoga članka utvrđuje se primjenom Interaktivne karte Hrvatskog autokluba.
+
+(7) Sadržaj i oblik tiskanice putnog naloga iz stavka 3. ovoga članka utvrđuje općim aktom Zavod.«.
+
+#### Članak 6.
+
+Članak 86. mijenja se i glasi:
+
+»U svrhu osiguravanja podataka potrebnih za provođenje obveznoga zdravstvenog osiguranja te nadzora nad ostvarivanjem prava iz obveznoga zdravstvenog osiguranja u Zavodu se vode evidencije u elektroničkom obliku.«.
+
+#### Članak 7.
+
+U članku 88. stavci 1. do 4. mijenjaju se i glase:
+
+»(1) Sukladno aktu iz članka 87. stavka 1. ovoga Zakona, Zavod u skladu s utvrđenim potrebama za popunu mreže javne zdravstvene službe, mreže hitne medicine i mreže ugovornih subjekata medicine rada, u pravilu svake treće godine, ako općim aktom iz članka 87. stavka 1. ovoga Zakona nije drukčije određeno, objavljuje natječaj odnosno poziv na dostavu dokumentacije za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za provođenje zdravstvene zaštite iz obveznoga zdravstvenog osiguranja u zdravstvenim djelatnostima na primarnoj, sekundarnoj i tercijarnoj razini zdravstvene djelatnosti te na razini zdravstvenih zavoda, ako posebnim zakonom nije drukčije utvrđeno.
+
+(2) Sukladno aktu iz članka 87. stavka 2. ovoga Zakona, Zavod u pravilu svake treće godine, ako općim aktom iz članka 87. stavka 2. ovoga Zakona nije drukčije određeno, objavljuje poziv na dostavu ponuda za sklapanje ugovora s isporučiteljima ortopedskih i drugih pomagala.
+
+(3) Na temelju ponuda za provođenje zdravstvene zaštite prema objavljenom natječaju i pozivu iz stavaka 1. i 2. ovoga članka Zavod, uz prethodnu suglasnost ministra nadležnog za zdravstvo, donosi odluku o izboru najpovoljnijih ponuditelja.
+
+(4) Ponuditelj čija ponuda na natječaj iz stavka 1. ovoga članka nije prihvaćena ima pravo uložiti žalbu ministru nadležnom za zdravstvo u roku od 15 dana od dana zaprimanja obavijesti o neprihvaćanju ponude.«.
+
+#### Članak 8.
+
+U članku 110. stavku 4. riječi: »za ravnatelja« zamjenjuju se riječima: »za zamjenika ravnatelja«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 9.
+
+Upravno vijeće Zavoda u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona uskladit će opće akte s odredbama ovoga Zakona.
+
+#### Članak 10.
+
+(1) Osigurane osobe koje su status u obveznom zdravstvenom osiguranju stekle prema članku 7. stavku 1. točki 16. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13., 98/19. i 33/23.), koje se ne vode u evidenciji Hrvatskog zavoda za zapošljavanje kao nezaposlene osobe, obvezne su u roku od 90 dana od dana stupanja na snagu ovoga Zakona osobno pristupiti Zavodu radi provjere okolnosti na temelju kojih im je taj status utvrđen.
+
+(2) Osigurane osobe iz stavka 1. ovoga članka koje osobno ne pristupe Zavodu u roku iz stavka 1. ovoga članka Zavod će istekom toga roka odjaviti iz obveznoga zdravstvenog osiguranja po službenoj dužnosti, bez donošenja rješenja.
+
+#### Članak 11.
+
+Upravni postupci pokrenuti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13., 98/19. i 33/23.) te propisa i općih akata donesenih na temelju toga Zakona.
+
+#### Članak 12.
+
+Zavod će korisnicima naknade plaće koje terete sredstva Zavoda odnosno državnog proračuna od dana stupanja na snagu ovoga Zakona po službenoj dužnosti obračunati naknadu plaće u visini utvrđenoj ovim Zakonom.
+
+#### Članak 13.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. kolovoza 2025.
+
+Klasa: 022-02/25-01/39
+
+Zagreb, 15. srpnja 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

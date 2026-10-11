@@ -6,15 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2009-03-09
-last_amended: 2016-05-02
+last_amended: 2021-02-12
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "30/09, 55/13, 153/13, 41/16"
+narodne_novine: "30/09, 55/13, 153/13, 41/16, 114/18, 14/21"
 amendments:
   - "NN 55/2013 (1118) Zakon o izmjenama i dopunama Zakona o zaštiti od buke"
   - "NN 153/2013 (3225) Zakon o izmjenama i dopuni Zakona o zaštiti od buke"
   - "NN 41/2016 (1065) Zakon o izmjenama i dopuni Zakona o zaštiti od buke"
+  - "NN 114/2018 (2199) Zakon o izmjeni i dopunama Zakona o zaštiti od buke"
+  - "NN 14/2021 (272) Zakon o izmjenama i dopunama Zakona o zaštiti od buke"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/648"
 retrieved: 2026-10-12
 ---
@@ -23,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 30/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/648).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 55/2013, NN 153/2013, NN 41/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 55/2013, NN 153/2013, NN 41/2016, NN 114/2018, NN 14/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -714,3 +716,205 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 akademik Željko Reiner, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o zaštiti od buke (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2199*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O ZAŠTITI OD BUKE
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o zaštiti od buke, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/187
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O ZAŠTITI OD BUKE**
+
+### Članak 1.
+
+U Zakonu o zaštiti od buke (»Narodne novine«, br. 30/09., 55/13., 153/13. i 41/16.) članak 16. mijenja se i glasi:
+
+»Inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavljaju sanitarni inspektori Državnog inspektorata.
+
+Upravni nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavlja Ministarstvo.
+
+Iznimno od stavka 1. ovoga članka, nadzor nad provedbom odluka predstavničkih tijela jedinica lokalne samouprave donesenih na temelju članka 6. stavka 2. i članka 10. ovoga Zakona provodi komunalno redarstvo.
+
+Komunalno redarstvo pri provedbi nadzora iz stavka 2. ovoga članka ovlašteno je poduzimati upravne mjere sukladno ovlastima propisanim člankom 18. stavkom 1. točkama 1., 2., 3. i 4. ovoga Zakona, predlagati pokretanje prekršajnog postupka sukladno članku 19. stavku 1. točkama 1., 2., 3., 4. i 9. ovoga Zakona i naplaćivati kazne na mjestu počinjenja prekršaja sukladno članku 19. stavcima 5. i 6. ovoga Zakona.«.
+
+### Članak 2.
+
+U članku 17. stavku 1. iza riječi: »Sanitarni inspektori« dodaju se riječi: »Državnog inspektorata«.
+
+U stavku 2. iza riječi: »Sanitarni inspektori« dodaju se riječi: »Državnog inspektorata«.
+
+U stavku 3. iza riječi: »sanitarni inspektori« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 3.
+
+U članku 18. stavku 1. iza riječi: »sanitarni inspektori« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 4.
+
+U članku 19. stavku 5. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/186  
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti od buke (NN 14/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/14/272*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OD BUKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti od buke, koji je Hrvatski sabor donio na sjednici 5. veljače 2021.
+
+Klasa: 011-01/21-01/04  
+Urbroj: 71-10-01/1-21-2  
+Zagreb, 10. veljače 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OD BUKE**
+
+#### Članak 1.
+
+U Zakonu o zaštiti od buke (»Narodne novine«, br. 30/09., 55/13., 153/13., 41/16. i 114/18.) članak 1.a mijenja se i glasi:
+
+»Ovim Zakonom u hrvatsko zakonodavstvo preuzima se Direktiva 2002/49/EZ Europskog parlamenta i Vijeća od 25. lipnja 2002. o procjeni i upravljanju bukom iz okoliša (SL 189, 18. 7. 2002.), kako je posljednji puta izmijenjena Uredbom (EU) 2019/1010 Europskog parlamenta i Vijeća od 5. lipnja 2019. o usklađivanju obveza izvješćivanja u području zakonodavstva povezanoga s okolišem te o izmjeni uredaba (EZ) br. 166/2006 i (EU) br. 995/2010 Europskog parlamenta i Vijeća, direktiva 2002/49/EZ, 2004/35/EZ, 2007/2/EZ, 2009/147/EZ i 2010/63/EU Europskog parlamenta i Vijeća, uredaba Vijeća (EZ) br. 338/97 i (EZ) br. 2173/2005 te Direktive Vijeća 86/278/EEZ (SL L 170, 25. 6. 2019.).«.
+
+#### Članak 2.
+
+U članku 2. točki 1. riječi: »rješenje o objedinjenim uvjetima zaštite okoliša« zamjenjuju se riječima: »rješenje o okolišnoj dozvoli«.
+
+Iza točke 27. na kraju rečenice umjesto točke stavlja se zarez i dodaje se točka 28. koja glasi:
+
+»28. Repozitorij podataka jest informacijski sustav kojim upravlja Europska agencija za okoliš i koji sadržava informacije i podatke o buci iz okoliša koji su stavljeni na raspolaganje putem nacionalnog tijela za izvješćivanje i razmjenu podataka.«.
+
+#### Članak 3.
+
+U članku 7. stavci 5. i 6. mijenjaju se i glase:
+
+»Strateške karte buke usklađuju se s izmjenama u prostoru, a obvezno se obnavljaju svakih pet godina od dana izrade, odnosno od dana odobravanja. Akcijski planovi preispituju se i, prema potrebi, revidiraju u slučaju veće promjene koja utječe na postojeće stanje buke, a najmanje svakih pet godina nakon datuma odobrenja tih planova. Strateške karte buke i akcijski planovi izrađuju se i odobravaju sukladno rokovima propisanim ovim Zakonom.
+
+Strateške karte buke i akcijski planovi u potpunosti moraju biti dostupni javnosti sukladno posebnim propisima koji uređuju informiranje i sudjelovanje javnosti i zainteresirane javnosti u pitanjima zaštite okoliša, posebnim propisima koji uređuju nacionalnu infrastrukturu prostornih podataka, odredbama pravilnika iz stavka 9. ovoga članka, kao i putem dostupnih informacijskih tehnologija.«.
+
+U stavku 11. iza prve rečenice dodaje se druga rečenica koja glasi: »U slučaju potrebe za ažuriranjem informacija, odnosno prilikom dostavljanja ažuriranih informacija, opisuju se razlike između ažuriranih i izvornih informacija te razlozi za ažuriranjem podataka.«.
+
+U stavku 14. iza riječi: »Europskoj komisiji« stavlja se zarez i dodaju se riječi: »elektroničkim putem u obvezni repozitorij podataka,«.
+
+#### Članak 4.
+
+Iza članka 7. dodaju se članci 7.a i 7.b koji glase:
+
+»Članak 7.a
+
+Obveznici izrade strateških karata buke i akcijskih planova iz članka 7. ovoga Zakona obvezni su Ministarstvu dostaviti:
+
+– najkasnije do 30. lipnja 2022. i svakih pet godina nakon toga strateške karte buke koje će pokazati stanje u prethodnoj kalendarskoj godini za naseljena područja s više od 100.000 stanovnika, za glavne zračne luke s više od 50.000 operacija (uzlijetanja i/ili slijetanja) godišnje, za glavne ceste s više od 3.000.000 prolaza vozila godišnje i za glavne željezničke pruge s više od 30.000 prolaza vlakova godišnje,
+
+– najkasnije do 18. srpnja 2024. i svakih pet godina nakon toga donesene, odnosno usvojene akcijske planove za naseljena područja s više od 100.000 stanovnika, za glavne zračne luke s više od 50.000 operacija (uzlijetanja i/ili slijetanja) godišnje, za glavne ceste s više od 3.000.000 prolaza vozila godišnje i za glavne željezničke pruge s više od 30.000 prolaza vlakova godišnje.
+
+#### Članak 7.b
+
+Ministarstvo će nakon savjetovanja s obveznicima izrade strateških karata buke i akcijskih planova iz članka 7. ovoga Zakona obavijestiti Europsku komisiju najkasnije do:
+
+– 31. prosinca 2022. i svakih pet godina nakon toga o strateškim kartama buke za naseljena područja s više od 100.000 stanovnika, za glavne ceste s više od 3.000.000 prolaza vozila godišnje, za glavne željezničke pruge s više od 30.000 prolaza vlakova godišnje i za glavne zračne luke s više od 50.000 operacija (uzlijetanja i/ili slijetanja) godišnje,
+
+– 18. siječnja 2025. i svakih pet godina nakon toga o akcijskim planovima i programima zaštite od buke koji su provedeni u prošlom razdoblju te o važećim dopuštenim razinama buke prije donošenja akcijskih planova za naseljena područja s više od 100.000 stanovnika, za glavne ceste s više od 3.000.000 prolaza vozila godišnje, za glavne željezničke pruge s više od 30.000 prolaza vlakova godišnje i za glavne zračne luke s više od 50.000 operacija (uzlijetanja i/ili slijetanja) godišnje.«.
+
+#### Članak 5.
+
+U članku 8. stavak 1. mijenja se i glasi:
+
+»U postupku izdavanja rješenja o prihvatljivosti zahvata za okoliš i rješenja o okolišnoj dozvoli sukladno posebnim propisima iz područja zaštite okoliša utvrđuju se uvjeti koji se moraju ispunjavati vezano uz provedbu mjera zaštite od buke.«.
+
+#### Članak 6.
+
+U članku 9. stavci 1. i 2. mijenjaju se i glase:
+
+»U postupku izdavanja lokacijske dozvole, posebnih uvjeta, potvrde glavnog projekta, građevinske dozvole ili uporabne dozvole, prema posebnom zakonu kojim se uređuju navedena područja, sanitarni inspektor Državnog inspektorata sudjeluje radi utvrđivanja uvjeta, odnosno potvrđivanja ispunjavanja uvjeta vezanih uz provedbu mjera zaštite od buke.
+
+Ako za obavljanje djelatnosti nije potrebna građevina, odnosno da se obavlja u građevini, nadležno upravno tijelo županije, odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave za utvrđivanje minimalno-tehničkih uvjeta i drugih propisanih uvjeta za obavljanje djelatnosti, odnosno tijelo državne uprave nadležno za utvrđivanje minimalno-tehničkih uvjeta i drugih propisanih uvjeta za obavljanje djelatnosti ne može izdati rješenje o ispunjavanju tih uvjeta ako Ministarstvo rješenjem ne utvrdi da su provedene mjere zaštite od buke.«.
+
+Stavak 4. briše se.
+
+Iza dosadašnjeg stavka 5., koji postaje stavak 4., dodaje se novi stavak 5. koji glasi:
+
+»Zahvate i djelatnosti za koje je potrebno sudjelovati u postupku iz stavka 1. ovoga članka, odnosno utvrditi rješenjem iz stavka 2. ovoga članka da su provedene mjere zaštite od buke te postupak i način utvrđivanja tih uvjeta pravilnikom će, uz prethodno pribavljenu suglasnost ministra nadležnog za poslove gospodarstva i održivog razvoja i ministra nadležnog za poslove prostornoga uređenja, graditeljstva i državne imovine, propisati ministar.«.
+
+#### Članak 7.
+
+U članku 11. stavku 1. iza broja: »17025« stavlja se točka, a riječi: »uz prijelazni period za dobivanje akreditacije od dvije godine.« brišu se.
+
+U stavku 2. riječi: »uz prethodno pribavljeno mišljenje ministra nadležnog za zaštitu okoliša, prostorno uređenje i graditeljstvo« brišu se.
+
+#### Članak 8.
+
+U članku 16. stavku 4. riječi: »iz stavka 2. ovoga članka« zamjenjuju se riječima: »iz stavka 3. ovoga članka«.
+
+#### Članak 9.
+
+U članku 19. stavku 1. točka 5. briše se.
+
+Dosadašnje točke 6. do 9. postaju točke 5. do 8.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Novčanom kaznom u iznosu od 1.000,00 kuna za prekršaj, kao i za pokušaj prekršaja iz članka 9. stavka 2. ovoga Zakona kaznit će se odgovorna osoba u pravnoj osobi. Uz kaznu za prekršaj iz ovoga stavka pravnoj ili fizičkoj osobi može se izreći i zaštitna mjera zabrane obavljanja djelatnosti u trajanju od tri mjeseca do jedne godine.«.
+
+Dosadašnji stavci 2. do 7. postaju stavci 3. do 8.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 10.
+
+Pravilnik iz članka 6. ovoga Zakona ministar će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/94  
+Zagreb, 5. veljače 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

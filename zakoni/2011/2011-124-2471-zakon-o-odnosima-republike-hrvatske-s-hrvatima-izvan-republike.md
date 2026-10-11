@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-11-04
-last_amended: 2012-02-08
+last_amended: 2025-07-04
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "124/11, 16/12"
+narodne_novine: "124/11, 16/12, 98/25"
 amendments:
   - "NN 16/2012 (441) Zakon o izmjenama i dopunama Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske"
+  - "NN 98/2025 (1360) Zakon o izmjenama i dopunama Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2471"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 124/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2471).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 16/2012.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 16/2012, NN 98/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -773,3 +774,627 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Boris Šprem. v. r.
+
+## Zakon o izmjenama i dopunama Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske (NN 98/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/98/1360*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ODNOSIMA REPUBLIKE HRVATSKE S HRVATIMA IZVAN REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 27. lipnja 2025.
+
+Klasa: 011-02/25-02/61
+
+Urbroj: 71-10-01/1-25-2
+
+Zagreb, 2. srpnja 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ODNOSIMA REPUBLIKE HRVATSKE S HRVATIMA IZVAN REPUBLIKE HRVATSKE**
+
+#### Članak 1.
+
+U Zakonu o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske (»Narodne novine«, br. 124/11. i 16/12.) članak 1. mijenja se i glasi:
+
+»Ovim se Zakonom uređuju odnosi Republike Hrvatske s Hrvatima izvan Republike Hrvatske, osniva se Savjet Vlade Republike Hrvatske za Hrvate izvan Republike Hrvatske, osniva se Savjet mladih Hrvata izvan Republike Hrvatske, uređuju se odnosi između tijela koja u svom djelokrugu imaju poslove vezane za Hrvate izvan Republike Hrvatske, zaštita prava i interesa Hrvata izvan Republike Hrvatske te jačanje njihovih zajednica, način ostvarivanja suradnje s Hrvatima izvan Republike Hrvatske, poticanje povratka i useljavanja pripadnika hrvatskog iseljeništva u Republiku Hrvatsku, kao i druga pitanja od značaja za Hrvate izvan Republike Hrvatske.«.
+
+#### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»U smislu ovoga Zakona Hrvati izvan Republike Hrvatske su:
+
+– pripadnici suverenog i konstitutivnog hrvatskoga naroda u Bosni i Hercegovini (u daljnjem tekstu: Hrvati u Bosni i Hercegovini),
+
+– pripadnici hrvatske nacionalne manjine u europskim državama (u daljnjem tekstu: hrvatska nacionalna manjina),
+
+– Hrvati iseljenici u prekomorskim i europskim državama i njihovi potomci (u daljnjem tekstu: hrvatsko iseljeništvo).«.
+
+#### Članak 3.
+
+Članak 3. mijenja se i glasi:
+
+»Ovaj Zakon odnosi se na Hrvate izvan Republike Hrvatske s hrvatskim državljanstvom i bez hrvatskog državljanstva.«.
+
+#### Članak 4.
+
+Članak 5. mijenja se i glasi:
+
+»S ciljem promicanja veza s Republikom Hrvatskom, slijedom Ustavom Republike Hrvatske i aktima strateškog planiranja preuzetih obveza, Republika Hrvatska svoj odnos s Hrvatima izvan Republike Hrvatske temelji na uzajamnoj suradnji i pružanju pomoći te jačanju njihovih zajednica, uvažavajući pri tome sve posebnosti i različite potrebe hrvatskih zajednica izvan Republike Hrvatske.«.
+
+#### Članak 5.
+
+U članku 6. stavku 3. riječi: »hrvatske manjine« zamjenjuju se riječima: »hrvatske nacionalne manjine«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»Republika Hrvatska putem diplomatskih misija i konzularnih ureda prati stanje ugroženih hrvatskih zajednica i pojedinaca u državama u kojima žive te ih štiti i pomaže im, sukladno međunarodnim i nacionalnim propisima, uključujući i mogućnost povratka/useljenja u Republiku Hrvatsku.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 6.
+
+U članku 7. stavci 2. i 3. mijenjaju se i glase:
+
+»Republika Hrvatska poduzima mjere kojima potiče povratak i integraciju hrvatskih iseljenika i useljavanje njihovih potomaka u Republiku Hrvatsku.
+
+Hrvati izvan Republike Hrvatske ostvaruju sva prava i obveze propisane posebnim propisima Republike Hrvatska iz područja odgoja, obrazovanja i znanosti, socijalnog i zdravstvenog osiguranja, rada i zapošljavanja, ali i druga prava sukladno posebnim propisima«.
+
+Stavak 4. briše se.
+
+#### Članak 7.
+
+Članak 10. mijenja se i glasi:
+
+»Hrvatski sabor na prijedlog Vlade Republike Hrvatske donosi odluku o proglašenju Tjedna Hrvata izvan Republike Hrvatske.«.
+
+#### Članak 8.
+
+Naslov iznad članka 12. mijenja se i glasi: »Središnji državni ured za Hrvate izvan Republike Hrvatske«.
+
+Članak 12. mijenja se i glasi:
+
+»Provedba aktivnosti, projekata i mjera iz ovoga Zakona u nadležnosti je Središnjeg državnog ureda za Hrvate izvan Republike Hrvatske (u daljnjem tekstu: Ured) i Ministarstva demografije i useljeništva, kao i drugih tijela državne uprave, sukladno djelokrugu propisanom posebnim zakonom o ustrojstvu i djelokrugu tijela državne uprave.«.
+
+#### Članak 9.
+
+Članak 13. mijenja se i glasi:
+
+»Nadležnost Ureda je:
+
+– koordinacija aktivnosti između nadležnih ministarstava, drugih tijela državne uprave i ostalih nositelja suradnje Republike Hrvatske s Hrvatima izvan Republike Hrvatske,
+
+– briga za zaštitu prava i interesa Hrvata izvan Republike Hrvatske,
+
+– briga za očuvanje i jačanje identiteta Hrvata izvan Republike Hrvatske,
+
+– uspostavljanje, održavanje i promicanje veza s Hrvatima izvan Republike Hrvatske,
+
+– jačanje suradnje s Hrvatima izvan Republike Hrvatske i izrada komunikacijske strategije za Hrvate izvan Republike Hrvatske,
+
+– pružanje pomoći u poduzetničkim ulaganjima,
+
+– gospodarska potpora povratku i održivom opstanku Hrvata kao konstitutivnog naroda u Bosni i Hercegovini i autohtone nacionalne manjine u Republici Srbiji, Crnoj Gori i Republici Kosovo,
+
+– gospodarska potpora i drugim hrvatskim zajednicama po potrebi,
+
+– vođenje propisanih evidencija o Hrvatima izvan Republike Hrvatske,
+
+– planiranje i osiguranje financijskih sredstava za programe i projekte Hrvatima izvan Republike Hrvatske.«.
+
+#### Članak 10.
+
+Članak 14. mijenja se i glasi:
+
+»U Uredu će se imenovati savjetnici s posebnim položajem za pitanja Hrvata u Bosni i Hercegovini, hrvatske nacionalne manjine te hrvatskog iseljeništva.«.
+
+#### Članak 11.
+
+Članak 15. mijenja se i glasi:
+
+»Ured priprema godišnje izvješće o provedbi Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske, koje Vlada Republike Hrvatske podnosi Hrvatskome saboru.«.
+
+#### Članak 12.
+
+U članku 16. podstavak 2. mijenja se i glasi:
+
+» – tijela državne uprave nadležna za vanjske i europske poslove, unutarnje poslove, demografiju i useljeništvo, obranu, financije, gospodarstvo, zaštitu okoliša i zelenu tranziciju, pravosuđe, upravu i digitalnu transformaciju, znanost, obrazovanje i mlade, kulturu i medije, turizam i sport, regionalni razvoj i fondove Europske unije, rad, mirovinski sustav, obitelj i socijalnu politiku, poljoprivredu, šumarstvo i ribarstvo, more, promet i infrastrukturu, prostorno uređenje, graditeljstvo i državnu imovinu, hrvatske branitelje, zdravstvo,«.
+
+Iza podstavka 4. dodaje se novi podstavak 5. koji glasi:
+
+» – Savjet mladih Hrvata izvan Republike Hrvatske,«.
+
+Dosadašnji podstavak 5., koji postaje podstavak 6., mijenja se i glasi:
+
+» – druga tijela, institucije i organizacije koja u svom djelokrugu imaju poslove vezane za odnose s Hrvatima izvan Republike Hrvatske ili je njihova djelatnost od interesa za Hrvate izvan Republike Hrvatske.«.
+
+#### Članak 13.
+
+Članak 19. mijenja se i glasi:
+
+»Zajednice Hrvata izvan Republike Hrvatske svoje predstavnike u Savjet predlažu iz redova najznačajnijih i najbrojnijih udruga, organizacija, institucija ili drugih oblika organiziranja, na mandat od četiri godine.
+
+Zastupljenost predstavnika Hrvata izvan Republike Hrvatske u Savjetu određuje se sukladno brojnosti i značaju Hrvata u pojedinoj državi, aktivnosti i povezanosti zajednice s Republikom Hrvatskom, kao i radu na afirmaciji ugleda i interesa Republike Hrvatske, kako slijedi:
+
+– 13 članova predstavnika Hrvata iz Bosne i Hercegovine od kojih jedan predstavnik Katoličke crkve iz Bosne i Hercegovine,
+
+– 17 članova predstavnika hrvatske nacionalne manjine,
+
+– 35 članova predstavnika hrvatskog iseljeništva.«.
+
+#### Članak 14.
+
+Članak 20. mijenja se i glasi:
+
+»Broj članova Savjeta, predstavnika hrvatske nacionalne manjine, po državama:
+
+– tri iz Srbije,
+
+– po dva iz Austrije, Mađarske i Slovenije,
+
+– po jedan iz Bugarske, Crne Gore, Češke, Italije, Kosova, Rumunjske, Sjeverne Makedonije i Slovačke.«.
+
+#### Članak 15.
+
+Članak 21. mijenja se i glasi:
+
+»Broj članova Savjeta, predstavnika hrvatskog iseljeništva, po državama:
+
+– po pet iz Sjedinjenih Američkih Država i Njemačke,
+
+– četiri iz Australije,
+
+– tri iz Kanade,
+
+– po dva iz Argentine i Čilea,
+
+– po jedan iz Austrije, Brazila, Francuske, Irske, Italije, Republike Južne Afrike, Novog Zelanda, Švedske, Švicarske i Ujedinjenog Kraljevstva,
+
+– jedan skupno za Dansku i Norvešku,
+
+– jedan skupno za Belgiju, Luksemburg i Nizozemsku,
+
+– jedan skupno za Boliviju, Ekvador i Peru,
+
+– jedan skupno za Paragvaj, Urugvaj i Venezuelu.«.
+
+#### Članak 16.
+
+Članak 22. mijenja se i glasi:
+
+»Članovi Savjeta po položaju su:
+
+– državni tajnik Ureda i njegov zamjenik,
+
+– dužnosnici u tijelima državne uprave nadležnim za vanjske i europske poslove, unutarnje poslove, demografiju i useljeništvo, obranu, financije, gospodarstvo, zaštitu okoliša i zelenu tranziciju, pravosuđe, upravu i digitalnu transformaciju, znanost, obrazovanje i mlade, kulturu i medije, turizam i sport, regionalni razvoj i fondove Europske unije, rad, mirovinski sustav, obitelj i socijalnu politiku, poljoprivredu, šumarstvo i ribarstvo, more, promet i infrastrukturu, prostorno uređenje, graditeljstvo i državnu imovinu, hrvatske branitelje, zdravstvo,
+
+– zastupnici u Hrvatskom saboru koji predstavljaju Hrvate izvan Republike Hrvatske,
+
+– ravnatelj Hrvatske matice iseljenika,
+
+– predstavnik akademske zajednice,
+
+– glavni ravnatelj Državnog zavoda za statistiku,
+
+– predstavnik Hrvatske radiotelevizije,
+
+– predstavnik Hrvatske akademije znanosti i umjetnosti,
+
+– predstavnik Katoličke crkve u Republici Hrvatskoj (nacionalni ravnatelj Dušobrižništva za Hrvate u inozemstvu),
+
+– predstavnik Nacionalne sveučilišne knjižnice,
+
+– predstavnik Hrvatske gospodarske komore,
+
+– predstavnik Hrvatske obrtničke komore,
+
+– predstavnik Hrvatske udruge poslodavaca,
+
+– predstavnik Matice hrvatske,
+
+– predstavnik Hrvatskoga državnog arhiva,
+
+– predstavnik znanstvenih institucija,
+
+– predstavnik nevladinih udruga koje u svom djelovanju promiču razvijanje odnosa s Hrvatima izvan Republike Hrvatske.«.
+
+#### Članak 17.
+
+Članak 24. mijenja se i glasi:
+
+»Izbor predsjednika i druga pitanja od značaja za ustroj i rad Savjeta uredit će se poslovnikom, koji donosi Savjet.«.
+
+#### Članak 18.
+
+Članci od 25. do 29. brišu se.
+
+#### Članak 19.
+
+Naslov iznad članka 30. mijenja se i glasi: »Nadležna tijela državne uprave«.
+
+Članak 30. mijenja se i glasi:
+
+»Nadležna tijela državne uprave koja su propisani nositelji odnosa i suradnje, a koja u svojem djelokrugu imaju poslove vezane za odnose s Hrvatima izvan Republike Hrvatske, dužna su obavljanje tih poslova koordinirati s Uredom.
+
+Nadležna tijela državne uprave koja su propisani nositelji odnosa i suradnje, a koja u svojem djelokrugu imaju poslove vezane za useljeništvo, dužna su obavljanje tih poslova koordinirati s Ministarstvom demografije i useljeništva.«.
+
+#### Članak 20.
+
+Članak 31. mijenja se i glasi:
+
+»Odbor za Hrvate izvan Republike Hrvatske, kao matično radno tijelo Hrvatskoga sabora zaduženo za Hrvate izvan Republike Hrvatske, u obavljanju poslova iz svoje nadležnosti surađuje s Uredom i Savjetom u ostvarivanju ciljeva iz ovoga Zakona.
+
+U obavljanju poslova vezanih za useljeništvo Odbor za Hrvate izvan Republike Hrvatske surađuje s Ministarstvom demografije i useljeništva.
+
+Odbor za Hrvate izvan Republike Hrvatske na svoje sjednice, po potrebi, poziva državnog tajnika Ureda i ministra nadležnog za demografiju i useljeništvo.«.
+
+#### Članak 21.
+
+Iza članka 32. dodaje se članak 32.a koji glasi:
+
+*»Članak 32.a*
+
+Vlada Republike Hrvatske osniva Savjet mladih Hrvata izvan Republike Hrvatske (dalje u tekstu: Savjet mladih) s ciljem jačanja hrvatskog identiteta među mladim generacijama hrvatskog iseljeništva, poticanja povezivanja i suradnje unutar hrvatske zajednice diljem svijeta, promoviranja kulturnih, obrazovnih i poslovnih mogućnosti u Hrvatskoj te osnaživanja za povratak u Hrvatsku.
+
+Savjet mladih čine predstavnici mladih generacija Hrvata izvan Republike Hrvatske (dalje u tekstu: imenovani predstavnici) te predstavnici državnih tijela i organizacija te udruga (dalje u tekstu: predstavnici po položaju).
+
+Imenovani predstavnici istaknuti su pojedinci koji su snažno angažirani na promicanju hrvatskog identiteta i jačanju povezanosti s Republikom Hrvatskom.
+
+Članovi Savjeta mladih po položaju su predstavnici tijela državne uprave, Katoličke crkve i organizacija civilnoga društva.
+
+Predsjednik i potpredsjednici Savjeta mladih sudjeluju i u radu Savjeta.
+
+Zajednice Hrvata izvan Republike Hrvatske svoje predstavnike u Savjet mladih predlažu iz redova najznačajnijih i najbrojnijih udruga, organizacija, institucija ili drugih oblika organiziranja, na mandat od četiri godine.
+
+Zastupljenost predstavnika Hrvata izvan Republike Hrvatske u Savjetu mladih određuje se sukladno brojnosti i značaju Hrvata u dotičnoj državi, aktivnosti i povezanosti zajednice s Republikom Hrvatskom, kao i radu na afirmaciji ugleda i interesa Republike Hrvatske, kako slijedi:
+
+– 13 članova predstavnika Hrvata iz Bosne i Hercegovine od kojih jedan predstavnik Katoličke crkve iz Bosne i Hercegovine,
+
+– 17 članova predstavnika hrvatske nacionalne manjine,
+
+– 35 članova predstavnika hrvatskog iseljeništva.
+
+Broj članova Savjeta mladih, predstavnika hrvatske nacionalne manjine, po državama:
+
+– tri iz Srbije,
+
+– po dva iz Austrije, Mađarske i Slovenije,
+
+– po jedan iz Bugarske, Crne Gore, Češke, Italije, Kosova, Rumunjske, Sjeverne Makedonije i Slovačke.
+
+Broj članova Savjeta mladih, predstavnika hrvatskog iseljeništva, po državama:
+
+– po pet iz Sjedinjenih Američkih Država i Njemačke,
+
+– četiri iz Australije,
+
+– tri iz Kanade,
+
+– po dva iz Argentine i Čilea,
+
+– po jedan iz Austrije, Brazila, Francuske, Irske, Italije, Republike Južne Afrike, Novog Zelanda, Švedske, Švicarske i Ujedinjenog Kraljevstva,
+
+– jedan skupno za Dansku i Norvešku,
+
+– jedan skupno za Belgiju, Luksemburg i Nizozemsku,
+
+– jedan skupno za Boliviju, Ekvador i Peru,
+
+– jedan skupno za Paragvaj, Urugvaj i Venezuelu.
+
+Članovi Savjeta mladih po položaju su:
+
+– državni tajnik Ureda i njegov zamjenik,
+
+– predstavnici tijela državne uprave nadležnih za vanjske i europske poslove, unutarnje poslove, demografiju i useljeništvo, obranu, financije, gospodarstvo, zaštitu okoliša i zelenu tranziciju, pravosuđe, upravu i digitalnu transformaciju, znanost, obrazovanje i mlade, kulturu i medije, turizam i sport, regionalni razvoj i fondove Europske unije, rad, mirovinski sustav, obitelj i socijalnu politiku, poljoprivredu, šumarstvo i ribarstvo, more, promet i infrastrukturu, prostorno uređenje, graditeljstvo i državnu imovinu, hrvatske branitelje, zdravstvo,
+
+– zastupnici u Hrvatskom saboru koji predstavljaju Hrvate izvan Republike Hrvatske,
+
+– ravnatelj Hrvatske matice iseljenika,
+
+– predstavnik akademske zajednice,
+
+– predstavnik Agencije za mobilnost i programe Europske unije,
+
+– glavni ravnatelj Državnog zavoda za statistiku,
+
+– predstavnik Hrvatske radiotelevizije,
+
+– predstavnik Hrvatske akademije znanosti i umjetnosti,
+
+– predstavnik Katoličke crkve u Republici Hrvatskoj (nacionalni ravnatelj Dušobrižništva za Hrvate u inozemstvu),
+
+– predstavnik Nacionalne sveučilišne knjižnice,
+
+– predstavnik Hrvatske gospodarske komore,
+
+– predstavnik Hrvatske obrtničke komore,
+
+– predstavnik Hrvatske udruge poslodavaca,
+
+– predstavnik Matice hrvatske,
+
+– predstavnik Hrvatskoga državnog arhiva,
+
+– predstavnik znanstvenih institucija,
+
+– predstavnik Savjeta mladih Republike Hrvatske,
+
+– predstavnik nevladinih udruga koje u svom djelovanju promiču razvijanje odnosa s Hrvatima izvan Republike Hrvatske.«.
+
+Članove Savjeta mladih, predstavnike Hrvata izvan Republike Hrvatske imenuje Vlada Republike Hrvatske na prijedlog hrvatskih zajednica iz država iz kojih dolaze.
+
+Izbor predsjednika i druga pitanja od značaja za ustroj i rad Savjeta mladih uredit će se poslovnikom, koji donosi Savjet mladih.«.
+
+#### Članak 22.
+
+Članak 33. mijenja se i glasi:
+
+»Republika Hrvatska omogućuje Hrvatima izvan Republike Hrvatske besplatno učenje hrvatskoga jezika.
+
+Republika Hrvatska omogućuje pohađanje hrvatske nastave pripadnicima hrvatske nacionalne manjine i hrvatskog iseljeništva, pokreće programe učenja hrvatskog jezika i kulture te podržava programe za koje postoji interes.
+
+Republika Hrvatska omogućuje korištenje e-obrazovanja, kao i udžbenika iz Republike Hrvatske za učenje hrvatskog kao drugog jezika u zajednicama Hrvata izvan Republike Hrvatske.
+
+Republika Hrvatska potiče osnivanje lektorata hrvatskog jezika i književnosti na stranim visokim učilištima, kao i utemeljenje katedri za hrvatski jezik na sveučilištima u inozemstvu, u sredinama gdje žive Hrvati.
+
+Republika Hrvatska osigurava financijska sredstva za stipendiranje studenata u njihovim lokalnim sredinama i u Republici Hrvatskoj, sa svrhom unaprjeđenja znanja i intelektualnog potencijala hrvatskih zajednica u inozemstvu.
+
+Radi olakšavanja postupka upisa potiču se visoka učilišta u Republici Hrvatskoj na donošenje posebnih upisnih kvota za pripadnike hrvatske nacionalne manjine i hrvatskoga iseljeništva.
+
+Republika Hrvatska osigurava financijska sredstva za smještaj u učeničke domove i subvencionirano stanovanje u studentske domove učenika i studenata hrvatskoga podrijetla koji se školuju ili pohađaju visoka učilišta u Republici Hrvatskoj. Prava na školarinu, smještaj i prehranu učenika i studenata Hrvata izvan Republike Hrvatske izjednačavaju se s pravima učenika i studenata koji imaju hrvatsko državljanstvo, u skladu s propisima koji uređuju smještaj u učeničke domove i subvencionirano stanovanje u studentske domove.
+
+Republika Hrvatska omogućava obavljanje studentskih poslova studentima Hrvatima izvan Republike Hrvatske. Prava na obavljanje studentskih poslova studenata Hrvata izvan Republike Hrvatske izjednačavaju se s pravima studenata koji imaju hrvatsko državljanstvo, u skladu s propisima koji uređuju obavljanje studentskih poslova.
+
+Hrvatske obrazovne i znanstvene institucije te druge organizacije potiču se na osmišljavanje i provedbu projekata razmjene učenika, studenata i mladih Hrvata u Republici Hrvatskoj i Hrvata izvan Republike Hrvatske.
+
+Državni tajnik Ureda donijet će pravilnik o stipendiranju studenata iz stavka 5. ovoga članka.«.
+
+#### Članak 23.
+
+Članak 34. mijenja se i glasi:
+
+»Republika Hrvatska informira Hrvate izvan Republike Hrvatske putem internetskih tehnologija, prikladnih publikacija, neposrednom komunikacijom te pružanjem informacija medijima u Republici Hrvatskoj i medijima Hrvata izvan Republike Hrvatske.
+
+Hrvatska radiotelevizija, kao javna ustanova, na temelju svojih zakonskih obveza, izrađuje plan i program rada za radio, televiziju i javne radiodifuzijske usluge za Hrvate izvan Republike Hrvatske te usklađuje termine emitiranja i čini ih dostupnima.
+
+Informiranje Hrvata izvan Republike Hrvatske i promocija Republike Hrvatske u svijetu od javnog je interesa te će Hrvatska radiotelevizija proizvoditi i objavljivati multimedijalni program s višejezičnim televizijskim i radijskim sadržajima, što će se urediti ugovorom između Vlade Republike Hrvatske i Hrvatske radiotelevizije.«.
+
+#### Članak 24.
+
+Naslovi iznad članaka i članci od 37. do 43. brišu se.
+
+#### Članak 25.
+
+U članku 46. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»S ciljem boljeg upoznavanja Republike Hrvatske potiče se organiziranje dolaska mladih hrvatskog podrijetla u Republiku Hrvatsku, provedba ljetnih/zimskih škola hrvatskog jezika, različitih kulturnih i obrazovnih programa te obavljanja studentskih poslova.«.
+
+#### Članak 26.
+
+Članak 47. mijenja se i glasi:
+
+»Republika Hrvatska, u svrhu ostvarivanja hrvatskog kulturnog zajedništva, potiče:
+
+– suradnju udruga i kulturnih institucija iz Republike Hrvatske s udrugama i kulturnim institucijama izvan Republike Hrvatske,
+
+– međusobnu suradnju hrvatskih udruga i kulturnih institucija iz Republike Hrvatske u svijetu,
+
+– razmjenu hrvatskoga kulturnog stvaralaštva i baštine nastale u lokalnim zajednicama Hrvata izvan Republike Hrvatske s Republikom Hrvatskom,
+
+– predstavljanje i promidžbu umjetničkog i kulturnog stvaralaštva nastalih u zajednicama Hrvata izvan Republike Hrvatske u Republici Hrvatskoj te umjetničke i kulturne baštine Republike Hrvatske izvan Republike Hrvatske,
+
+– jačanje postojećih i poticanje uspostave novih hrvatskih kulturnih instituta/centara u zemljama s hrvatskim zajednicama.«.
+
+#### Članak 27.
+
+Članak 49. mijenja se i glasi:
+
+»Republika Hrvatska potiče sustavno istraživanje i proučavanje Hrvata u Bosni i Hercegovini, hrvatske nacionalne manjine i hrvatskog iseljeništva.«.
+
+#### Članak 28.
+
+U članku 51. iza riječi: »Ured« dodaju se riječi: »od nadležnih tijela državne uprave«.
+
+Iza podstavka 1. dodaje se novi podstavak 2. koji glasi:
+
+» – udrugama, institucijama i istaknutim kulturnim djelatnicima i umjetnicima hrvatskog podrijetla,«.
+
+Dosadašnji podstavci od 2. do 5. postaju podstavci od 3. do 6.«.
+
+Dosadašnji podstavak 6., koji postaje podstavak 7., mijenja se i glasi:
+
+» – sportskim udrugama, klubovima i istaknutim sportskim djelatnicima i sportašima hrvatskog podrijetla.«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Nadležna tijela državne uprave dužna su Uredu i ministarstvu nadležnom za demografiju i useljeništvo dostavljati podatke za evidencije iz stavka 1. ovoga članka, pri čemu će se poštivati odredbe zakona kojim se uređuje zaštita osobnih podataka.«.
+
+#### Članak 29.
+
+Članak 52. mijenja se i glasi:
+
+»Republika Hrvatska potiče povezivanje hrvatskih gospodarstvenika izvan Republike Hrvatske i njihovih udruga s gospodarstvenicima i udrugama u Republici Hrvatskoj, unaprjeđuje poslovne veze s Hrvatima izvan Republike Hrvatske te potiče ulaganja u Republiku Hrvatsku.
+
+Radi stjecanja novih tržišta i promicanja izvoza hrvatskih proizvoda i usluga, Republika Hrvatska potiče suradnju s gospodarstvenicima hrvatskog podrijetla u svijetu.
+
+Republika Hrvatska, u suradnji s gospodarstvenicima iz Republike Hrvatske i gospodarstvenicima hrvatskog podrijetla potiče projekte koji sadrže programe zapošljavanja povratnika i useljenika.«.
+
+#### Članak 30.
+
+Članak 53. mijenja se i glasi:
+
+»Republika Hrvatska, kao oblik gospodarske suradnje s Hrvatima u Bosni i Hercegovini, susjednim i ostalim državama, potiče prekograničnu i regionalnu suradnju kroz zajedničke programe i pomoć u korištenju fondova Europske unije.«.
+
+#### Članak 31.
+
+U članku 54. stavak 2. mijenja se i glasi:
+
+»U suradnji s nadležnim tijelima, udrugama i gospodarskim subjektima u Bosni i Hercegovini osigurava se financiranje programa potpore i razvoja obiteljskih gospodarstava i obrta, malog i srednjeg poduzetništva Hrvata u Bosni i Hercegovini.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Republika Hrvatska osigurava financiranje programa kojima se pridonosi socijalnom i održivom razvoju, stvaranju preduvjeta za povratak i ostanak Hrvata u Bosni i Hercegovini te programa kojima se potiče demografska revitalizacija i podiže kvaliteta života kroz razvoj lokalnih zajednica.«.
+
+Dosadašnji stavak 3., koji postaje stavak 4., mijenja se i glasi:
+
+»Odredbe stavaka 2. i 3. ovoga članka na odgovarajući način odnose se i na pripadnike hrvatske nacionalne manjine.«.
+
+#### Članak 32.
+
+Članak 55. mijenja se i glasi:
+
+»Radi praćenja stanja gospodarskih odnosa i razvoja gospodarske suradnje s Hrvatima izvan Republike Hrvatske, Ured u suradnji s nadležnim tijelima Republike Hrvatske prikuplja podatke o:
+
+– novčanim doznakama Hrvata izvan Republike Hrvatske,
+
+– vanjskotrgovinskim bilancama s državama nastanjenja Hrvata izvan Republike Hrvatske.
+
+Nadležna tijela Republike Hrvatske dužna su Uredu i ministarstvu nadležnom za demografiju i useljeništvo dostavljati podatke za evidencije iz stavka 1. ovoga članka, pri čemu će se poštivati odredbe zakona kojim se uređuje zaštita osobnih podataka.«.
+
+#### Članak 33.
+
+Naziv glave V. iznad članka 56. mijenja se i glasi: »POTICANJE POVRATKA I USELJAVANJA PRIPADNIKA HRVATSKOG ISELJENIŠTVA U REPUBLIKU HRVATSKU«.
+
+Članak 56. mijenja se i glasi:
+
+»Republika Hrvatska poduzima mjere kojima potiče povratak i useljavanje pripadnika hrvatskog iseljeništva i njihovih potomaka u Republiku Hrvatsku te njihovo uključivanje u gospodarski i društveni život u Republici Hrvatskoj.«.
+
+#### Članak 34.
+
+Iza članka 56. dodaju se naslovi iznad članaka i članci 56.a, 56.b, 56.c, 56.d, 56.e, 56.f, 56.g i 56.h koji glase:
+
+*»Unaprjeđenje poticajnog okruženja*
+
+#### Članak 56.a
+
+Vlada Republike Hrvatske provodi mjere i pruža podršku razvojnim planovima jedinica lokalne i područne (regionalne) samouprave s ciljem unapređenja poticajnih uvjeta za povratak, useljavanje i integraciju pripadnika hrvatskog iseljeništva i njihovih potomaka u Republiku Hrvatsku.
+
+Vlada Republike Hrvatske razvija poticajne uvjete za transfer znanja, investiranja i primjenjivanja tehnološkog, inovacijskog i drugog stečenog kapitala pripadnika hrvatskog iseljeništva koji se prenosi useljavanjem u Republiku Hrvatsku.
+
+*Reguliranje boravka useljenika i povratnika pripadnika hrvatskog iseljeništava bez hrvatskog državljanstva*
+
+#### Članak 56.b
+
+Republika Hrvatska omogućava useljenicima i povratnicima pripadnicima hrvatskog iseljeništva bez hrvatskog državljanstva reguliranje boravka u Republici Hrvatskoj pod povoljnijim uvjetima sukladno posebnom propisu uz prilaganje potvrde ministarstva nadležnog za demografiju i useljeništvo.
+
+*Reguliranje boravka*
+
+#### Članak 56.c
+
+U svrhu reguliranja privremenog boravka u svrhu useljavanja i povratka hrvatskog iseljeništva ili reguliranja stalnog boravka ministarstvo nadležno za demografiju i useljeništvo može izdati potvrdu hrvatskom iseljeniku, članu obitelji hrvatskog iseljenika, potomku hrvatskog iseljenika ili članu obitelji potomka hrvatskog iseljenika.
+
+U smislu odredbi ovoga Zakona članovima obitelji smatraju se bračni i izvanbračni drug, životni partner i neformalni životni partner i maloljetno dijete.
+
+Potvrda iz stavka 1. ovoga članka može se izdati i korisniku mjera, programa i projekata koje provodi ministarstvo nadležno za demografiju i useljeništvo samostalno ili u suradnji s drugim tijelima javne vlasti.
+
+Potvrda iz stavka 1. ovoga članka može se izdati s rokom važenja do dvije godine.
+
+Potvrda iz stavka 1. ovoga članaka ne prejudicira pripadnost hrvatskom narodu u postupku primitka u hrvatsko državljanstvo sukladno posebnom propisu.
+
+*Podnošenje zahtjeva za izdavanjem potvrde za reguliranje boravka*
+
+#### Članak 56.d
+
+O zahtjevu za izdavanjem potvrde iz članka 56.c stavka 1. ovoga Zakona odlučuje ministarstvo nadležno za demografiju i useljeništvo.
+
+Protiv odluke o zahtjevu iz stavka 1. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+
+*Uvjeti za izdavanje potvrde u svrhu reguliranja boravka*
+
+#### Članak 56.e
+
+Uz zahtjev za izdavanjem potvrde za reguliranje privremenog boravka u svrhu useljavanja i povratka hrvatskog iseljeništva prilaže se valjana putna isprava, potvrda o prijavi kratkotrajnog boravka u Republici Hrvatskoj, izvadak iz matice rođenih, životopis, dokaz o pripadnosti hrvatskom narodu te druga dokumentacija kojom se dokazuje predanost njegovanju hrvatskog identiteta i promicanju hrvatskog kulturnog zajedništva, preporuka diplomatske misije / konzularnog ureda Republike Hrvatske, udruga i institucija hrvatskih zajednica izvan Republike Hrvatske.
+
+Korisnici mjera, programa i projekata osim dokaza iz stavka 1. ovoga članka prilažu i dokaz o korištenju mjere, programa i projekta koje provodi ministarstvo nadležno za demografiju i useljeništvo samostalno ili u suradnji s drugim tijelima javne vlasti.
+
+Uz zahtjev za izdavanjem potvrde u svrhu reguliranja stalnog boravka prilaže se valjana strana putna isprava, dokaz o reguliranom privremenom boravku u svrhu useljavanja i povratka hrvatskog iseljeništva zadnje tri godine u Republici Hrvatskoj i važeća biometrijska dozvola boravka. U rok neprekidnog boravka od tri godine uračunava se i vrijeme odobrenih privremenih boravaka iz humanitarnih razloga uz potvrdu tijela državne uprave nadležnog za odnose s Hrvatima izvan Republike Hrvatske odnosno ministarstva nadležnog za demografiju i useljeništvo sukladno zakonu kojim se uređuje boravak stranaca u Republici Hrvatskoj.
+
+Ministar nadležan za demografiju i useljeništvo donijet će pravilnik o načinu izdavanja potvrde za reguliranje boravka iz stavaka 1. i 3. ovoga članka i ispravama koje se prilažu zahtjevu.
+
+*Prava s odobrenim boravkom u Republici Hrvatskoj*
+
+#### Članak 56.f
+
+Na temelju odobrenog privremenog boravka u svrhu useljeništva i povratka hrvatskog iseljeništva odnosno stalnog boravka uz potvrdu ministarstva nadležnog za demografiju i useljeništvo ostvaruje se pravo na rad i samozapošljavanje, pravo na programe obrazovanja, obrazovanje i studiranje, kao i druga prava sukladno posebnim propisima.
+
+*Savjetodavna potpora*
+
+#### Članak 56.g
+
+Povratnicima i useljenicima pripadnicima hrvatskog iseljeništva bez hrvatskog državljanstva pruža se savjetodavna potpora u rješavanju statusnih pitanja u području reguliranja boravka i primitka u hrvatsko državljanstvo.
+
+*Specijalizirane integracijske mjere i aktivnosti*
+
+#### Članak 56.h
+
+Republika Hrvatska pruža podršku razvoju i provodi specijalizirane integracijske mjere i aktivnosti za povratnike i useljenike odnosno pripadnike hrvatskog iseljeništva za uključivanje u društveni i gospodarski život Republike Hrvatske.
+
+Republika Hrvatska omogućuje i provodi program stipendiranja za povratnike i useljenike odnosno pripadnike hrvatskog iseljeništva radi učenja hrvatskoga jezika.
+
+Republika Hrvatska omogućuje dostupnost informacija i savjetodavnu potporu useljenicima pripadnicima hrvatskog iseljeništva u prvim koracima njihove integracije u Republiku Hrvatsku.
+
+Ministar nadležan za demografiju i useljeništvo donijet će pravilnik o provedbi specijaliziranih integracijskih mjera i aktivnosti iz stavka 1. ovoga članka i dokumentaciji koja se prilaže zahtjevu.
+
+Ministar nadležan za demografiju i useljeništvo donijet će pravilnik o provedbi programa stipendiranja učenja hrvatskog jezika iz stavka 2. ovoga članka i dokumentaciji koja se prilaže zahtjevu.«.
+
+#### Članak 35.
+
+Naslovi iznad članaka i članci od 57. do 61. brišu se.
+
+#### Članak 36.
+
+Naslov iznad članka 63. mijenja se i glasi: »Zapošljavanje u skladu s potrebama tržišta rada«.
+
+Članak 63. mijenja se i glasi:
+
+»Ministarstvo nadležno za rad odnosno ministarstvo nadležno za demografiju i useljeništvo u suradnji s Hrvatskim zavodom za zapošljavanje provodi projekte zapošljavanja povratnika, useljenika i pripadnika hrvatskoga iseljeništva.
+
+Hrvatski zavod za zapošljavanje osigurava dostupnost strukturiranih evidencija o potrebama tržišta rada u Republici Hrvatskoj te u suradnji s drugim tijelima javne vlasti provodi edukacije i radionice za povratnike, useljenike i pripadnike hrvatskoga iseljeništva.«.
+
+#### Članak 37.
+
+Članak 64. mijenja se i glasi:
+
+»Republika Hrvatska sklapanjem međunarodnih ugovora o socijalnoj sigurnosti stvara uvjete za olakšavanje povratka umirovljenika i drugih osoba u Republiku Hrvatsku.«.
+
+#### Članak 38.
+
+Članak 65. briše se.
+
+#### Članak 39.
+
+U cijelom tekstu Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske (»Narodne novine«, br. 124/11. i 16/12.) riječ: »šport« u određenom rodu, broju i padežu zamjenjuje se riječju: »sport« u odgovarajućem rodu, broju i padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 40.
+
+Državni tajnik Ureda će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 33. koji je izmijenjen člankom 22. ovoga Zakona.
+
+Ministar nadležan za poslove demografije i useljeništva će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike iz članka 56.e stavka 4. i članka 56.h stavaka 4. i 5. koji su dodani člankom 34. ovoga Zakona.
+
+#### Članak 41.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/141
+
+Zagreb, 27. lipnja 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

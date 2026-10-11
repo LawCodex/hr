@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-02-19
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "22/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "22/14, 98/19, 114/22"
+amendments:
+  - "NN 98/2019 (1962) Zakon o izmjeni Zakona o inspekciji cestovnog prometa i cesta"
+  - "NN 114/2022 (1735) Zakon o izmjenama Zakona o inspekciji cestovnog prometa i cesta"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/22/400"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o inspekciji cestovnog prometa i cesta
 
 > Izvor: Narodne novine, NN 22/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/22/400).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2019, NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -466,3 +471,117 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o inspekciji cestovnog prometa i cesta (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1962*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O INSPEKCIJI CESTOVNOG PROMETA I CESTA
+
+Proglašavam Zakon o izmjeni Zakona o inspekciji cestovnog prometa i cesta, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/170
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O INSPEKCIJI CESTOVNOG PROMETA I CESTA**
+
+### Članak 1.
+
+U Zakonu o inspekciji cestovnog prometa i cesta (»Narodne novine«, br. 22/14.) u članku 9. riječi: »pomoćnika ministra« zamjenjuju se riječima: »ravnatelja upravne organizacije u sastavu Ministarstva«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/165
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o inspekciji cestovnog prometa i cesta (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1735*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O INSPEKCIJI CESTOVNOG PROMETA I CESTA
+
+Proglašavam Zakon o izmjenama Zakona o inspekciji cestovnog prometa i cesta, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/133
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 23. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O INSPEKCIJI CESTOVNOG PROMETA I CESTA**
+
+### Članak 1.
+
+U Zakonu o inspekciji cestovnog prometa i cesta (»Narodne novine«, br. 22/14. i 98/19.) u članku 35. stavku 1. riječi: »od 10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 3980,00 eura«.
+
+U stavku 2. riječi: »od 5000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 5000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 2650,00 eura«.
+
+U stavku 4. riječi: »od 300,00 do 5000,00 kuna« zamjenjuju se riječima: »od 30,00 do 660,00 eura«.
+
+U stavku 5. riječi: »300,00 kuna« zamjenjuju se riječima: »30,00 eura«.
+
+### Članak 2.
+
+U članku 36. stavku 1. riječi: »od 5000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 2. riječi: »od 2000,00 do 6000,00 kuna« zamjenjuju se riječima: »od 260,00 do 790,00 eura«.
+
+U stavku 3. riječi: »od 3000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 1320,00 eura«.
+
+U stavku 4. riječi: »od 300,00 do 2000,00 kuna« zamjenjuju se riječima: »od 30,00 do 260,00 eura«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/133
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -855,1102 +855,914 @@ Zoran Milanović, v. r.
 OKVIRNI BROJ DRŽAVNIH SLUŽBENIKA I NAMJEŠTENIKA U DRŽAVNOJ UPRAVI ZA ZAŠTITU I SPAŠAVANJE
 
 <table><tbody>
-
 <tr>
 <td>Redni broj</td>
 <td>Naziv unutarnje ustrojstvene jedinice</td>
 <td>Broj<br><br>službenika i namještenika</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Državnoj upravi za zaštitu i spašavanje izvan sastava ustrojstvenih jedinica</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>Kabinet ravnatelja</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>Sektor za civilnu zaštitu</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>2.1.</td>
 <td>Služba za preventivu, planiranje i analitiku</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>2.2.</td>
 <td>Služba za operativu, opremanje i razvoj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>2.2.1.</td>
 <td>Odjel za operativne poslove</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>2.2.2.</td>
 <td>Odjel za opremanje i razvoj</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>2.3.</td>
 <td>Državna intervencijska postrojba civilne zaštite</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>2.3.1.</td>
 <td>Državna intervencijska postrojba civilne zaštite – Odjel Zagreb</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td>2.3.2.</td>
 <td>Državna intervencijska postrojba civilne zaštite – Odjel Split</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>2.3.3.</td>
 <td>Državna intervencijska postrojba civilne zaštite – Odjel Rijeka</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>2.3.4.</td>
 <td>Državna intervencijska postrojba civilne zaštite – Odjel Osijek</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td colspan="2">Sektor za civilnu zaštitu – ukupno</td>
 <td>62</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>Sektor za vatrogastvo</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>3.1.</td>
 <td>Služba za preventivno-planske poslove i analitiku</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>3.2.</td>
 <td>Služba za operativu, opremanje i razvoj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>3.2.1.</td>
 <td>Odjel za operativne poslove</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>3.2.2.</td>
 <td>Odjel za opremanje i razvoj</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>3.3.</td>
 <td>Državna vatrogasna intervencijska postrojba</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>3.3.1.</td>
 <td>Državna intervencijska postrojba – Odjel Dubrovnik</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>3.3.2.</td>
 <td>Državna intervencijska postrojba – Odjel Split</td>
 <td>21</td>
 </tr>
-
 <tr>
 <td>3.3.3.</td>
 <td>Državna intervencijska postrojba – Odjel Šibenik</td>
 <td>19</td>
 </tr>
-
 <tr>
 <td>3.3.4.</td>
 <td>Državna intervencijska postrojba – Odjel Zadar</td>
 <td>18</td>
 </tr>
-
 <tr>
 <td colspan="2">Sektor za vatrogastvo – ukupno</td>
 <td>100</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>Državni informacijski i komunikacijski sustav zaštite i spašavanja</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>4.1.</td>
 <td>Državni centar zaštite i spašavanja</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>4.1.1.</td>
 <td>Odjel za operativno-komunikacijske poslove</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>4.1.2.</td>
 <td>Vatrogasno operativno središte</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td>4.1.3.</td>
 <td>Odjel za plansku, analitičku i GIS potporu</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>4.2.</td>
 <td>Služba za sustav 112</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>4.2.1.</td>
 <td>Odjel za sustav uzbunjivanja i obavješćivanja</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>4.2.2.</td>
 <td>Odjel za propise, nadzor i razvoj kompetencije sustava zaštite i spašavanja</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>4.3.</td>
 <td>Služba za informacijsku i komunikacijsku tehnologiju</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>4.3.1.</td>
 <td>Odjel za telekomunikacijsku i radiokomunikacijsku tehnologiju</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>4.3.2.</td>
 <td>Odjel za informacijsku tehnologiju i računalno-komunikacijske mreže</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td colspan="2">Državni informacijski i komunikacijski sustav zaštite i spašavanja – ukupno</td>
 <td>71</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>Učilište vatrogastva, zaštite i spašavanja</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>5.1.</td>
 <td>Vatrogasna škola</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td>5.2.</td>
 <td>Centar za specijalističko osposobljavanje</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>5.2.1.</td>
 <td>Odjel za specijalističko osposobljavanje Zagreb</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>5.2.2.</td>
 <td>Odjel za specijalističko osposobljavanje Split</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>5.3.</td>
 <td>Centar za ispitivanje i normizaciju tehnike</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td colspan="2">Učilište vatrogastva i zaštite i spašavanja – ukupno</td>
 <td>36</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>Sektor općih poslova</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>6.1.</td>
 <td>Služba za pravne i opće poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>6.1.1</td>
 <td>Pododsjek za pisarnicu i pismohranu</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>6.2.</td>
 <td>Služba za razvoj i upravljanje ljudskim potencijalima</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>6.3.</td>
 <td>Služba za financijske poslove</td>
 <td>14</td>
 </tr>
-
 <tr>
 <td>6.4.</td>
 <td>Služba za nabavu i materijalne poslove</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>6.4.1.</td>
 <td>Odjel za planiranje i nabavu</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>6.4.2.</td>
 <td>Odjel za materijalne poslove i skladišno poslovanje</td>
 <td>16</td>
 </tr>
-
 <tr>
 <td colspan="2">Sektor općih poslova – ukupno</td>
 <td>60</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>Samostalna služba za inspekcijske poslove</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.</td>
 <td>Odjel inspekcije za zaštitu i spašavanje</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>7.1.1.</td>
 <td>Područna jedinica Bjelovar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.2.</td>
 <td>Područna jedinica Čakovec – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.3.</td>
 <td>Područna jedinica Dubrovnik – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.4.</td>
 <td>Područna jedinica Gospić – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.5.</td>
 <td>Područna jedinica Karlovac – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.6.</td>
 <td>Područna jedinica Koprivnica – samostalni izvršitelj)</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.7.</td>
 <td>Područna jedinica Krapina – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.8.</td>
 <td>Područna jedinica Osijek – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.9.</td>
 <td>Područna jedinica Pazin – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.10.</td>
 <td>Područna jedinica Požega – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.11.</td>
 <td>Područna jedinica Rijeka – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.12.</td>
 <td>Područna jedinica Sisak – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.13.</td>
 <td>Područna jedinica Slavonski Brod – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.14.</td>
 <td>Područna jedinica Split – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.15.</td>
 <td>Područna jedinica Šibenik – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.16.</td>
 <td>Područna jedinica Varaždin – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.17.</td>
 <td>Područna jedinica Virovitica – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.18.</td>
 <td>Područna jedinica Vukovar – samostalni izvršitelj)</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.19.</td>
 <td>Područna jedinica Zadar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.20.</td>
 <td>Područna jedinica Zagreb – samostalni izvršitelj</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>7.2.</td>
 <td>Odjel inspekcije za vatrogastvo</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>7.2.1.</td>
 <td>Područna jedinica Bjelovar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.2.</td>
 <td>Područna jedinica Čakovec – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.3.</td>
 <td>Područna jedinica Dubrovnik – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.4.</td>
 <td>Područna jedinica Gospić -samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.5.</td>
 <td>Područna jedinica Karlovac – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.6.</td>
 <td>Područna jedinica Koprivnica – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.7.</td>
 <td>Područna jedinica Krapina – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.8.</td>
 <td>Područna jedinica Osijek – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.9.</td>
 <td>Područna jedinica Pazin – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.10.</td>
 <td>Područna jedinica Požega – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.11.</td>
 <td>Područna jedinica Rijeka – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.12.</td>
 <td>Područna jedinica Sisak – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.13.</td>
 <td>Područna jedinica Slavonski Brod – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.14.</td>
 <td>Područna jedinica Split– samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.15.</td>
 <td>Područna jedinica Šibenik – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.16.</td>
 <td>Područna jedinica Varaždin -samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.17.</td>
 <td>Područna jedinica Virovitica – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.18.</td>
 <td>Područna jedinica Vukovar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.19.</td>
 <td>Područna jedinica Zadar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.20.</td>
 <td>Područna jedinica Zagreb – samostalni izvršitelj</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="2">Samostalna služba za inspekcijske poslove – ukupno</td>
 <td>51</td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td>Samostalna služba za međunarodne odnose</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>8.1.</td>
 <td>Odjel za multilateralnu i bilateralnu suradnju</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>8.2.</td>
 <td>Odjel za Europsku uniju i projekte</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td colspan="2">Samostalna služba za međunarodne odnose – ukupno</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td>Samostalni odjel za unutarnju reviziju</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td>Područni ured za zaštitu i spašavanje Bjelovar</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>10.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>10.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Bjelovar – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td>Područni ured za zaštitu i spašavanje Čakovec</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>11.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>11.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Čakovec – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td>Područni ured za zaštitu i spašavanje Dubrovnik</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>12.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>12.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Dubrovnik – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td>Područni ured za zaštitu i spašavanje Gospić</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>13.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>13.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Gospić – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>14.</td>
 <td>Područni ured za zaštitu i spašavanje Karlovac</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>14.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>14.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Karlovac – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>15.</td>
 <td>Područni ured za zaštitu i spašavanje Koprivnica</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>15.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>15.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Koprivnica – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>16.</td>
 <td>Područni ured za zaštitu i spašavanje Krapina</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>16.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>16.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Krapina – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>17.</td>
 <td>Područni ured za zaštitu i spašavanje Osijek</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>17.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>17.2.</td>
 <td>Županijski centar 112</td>
 <td>21</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Osijek – ukupno</td>
 <td>27</td>
 </tr>
-
 <tr>
 <td>18.</td>
 <td>Područni ured za zaštitu i spašavanje Pazin</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>18.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>18.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Pazin – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>19.</td>
 <td>Područni ured za zaštitu i spašavanje Požega</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>19.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>19.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Požega – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>20.</td>
 <td>Područni ured za zaštitu i spašavanje Rijeka</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>20.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>20.2.</td>
 <td>Županijski centar 112</td>
 <td>23</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Rijeka – ukupno</td>
 <td>29</td>
 </tr>
-
 <tr>
 <td>21.</td>
 <td>Područni ured za zaštitu i spašavanje Sisak</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>21.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>21.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Sisak – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>22.</td>
 <td>Područni ured za zaštitu i spašavanje Slavonski Brod</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>22.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>22.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Slavonski Brod – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>23.</td>
 <td>Područni ured za zaštitu i spašavanje Split</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>23.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>23.2.</td>
 <td>Županijski centar 112</td>
 <td>24</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Split – ukupno</td>
 <td>30</td>
 </tr>
-
 <tr>
 <td>24.</td>
 <td>Područni ured za zaštitu i spašavanje Šibenik</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>24.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>24.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Šibenik – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>25.</td>
 <td>Područni ured za zaštitu i spašavanje Varaždin</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>25.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>25.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Varaždin – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>26.</td>
 <td>Područni ured za zaštitu i spašavanje Virovitica</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>26.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>26.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Virovitica – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>27.</td>
 <td>Područni ured za zaštitu i spašavanje Vukovar</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>27.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>27.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Vukovar – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>28.</td>
 <td>Područni ured za zaštitu i spašavanje Zadar</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>28.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>28.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Zadar – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>29.</td>
 <td>Područni ured za zaštitu i spašavanje Zagreb</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>29.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>29.2.</td>
 <td>Županijski centar 112</td>
 <td>30</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Zagreb – ukupno</td>
 <td>36</td>
 </tr>
-
 <tr>
 <td colspan="2">DRŽAVNA UPRAVA ZA ZAŠTITU I SPAŠAVANJE – UKUPNO:</td>
 <td>800</td>
@@ -2156,1096 +1968,909 @@ Zoran Milanović, v. r.
 OKVIRNI BROJ DRŽAVNIH SLUŽBENIKA I NAMJEŠTENIKA U DRŽAVNOJ UPRAVI ZA ZAŠTITU I SPAŠAVANJE
 
 <table><tbody>
-
 <tr>
 <td>Redni broj</td>
 <td>Naziv unutarnje ustrojstvene jedinice</td>
 <td>Br.<br>službenika i <br>namještenika</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Državnoj upravi za zaštitu i spašavanje izvan sastava ustrojstvenih jedinica</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>Kabinet ravnatelja</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>Sektor za civilnu zaštitu</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>2.1.</td>
 <td>Služba za preventivu, planiranje i analitiku</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>2.2.</td>
 <td>Služba za operativu, opremanje i razvoj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>2.2.1.</td>
 <td>Odjel za operativne poslove</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>2.2.2.</td>
 <td>Odjel za opremanje i razvoj</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>2.3.</td>
 <td>Državna intervencijska postrojba civilne zaštite</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>2.3.1.</td>
 <td>Državna intervencijska postrojba civilne zaštite – Odjel Zagreb</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td>2.3.2.</td>
 <td>Državna intervencijska postrojba civilne zaštite – Odjel Split</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>2.3.3.</td>
 <td>Državna intervencijska postrojba civilne zaštite – Odjel Rijeka</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>2.3.4.</td>
 <td>Državna intervencijska postrojba civilne zaštite – Odjel Osijek</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td colspan="2">Sektor za civilnu zaštitu – ukupno</td>
 <td>62</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>Sektor za vatrogastvo</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>3.1.</td>
 <td>Služba za preventivno-planske poslove i analitiku</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>3.2.</td>
 <td>Služba za operativu, opremanje i razvoj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>3.2.1.</td>
 <td>Odjel za operativne poslove</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>3.2.2.</td>
 <td>Odjel za opremanje i razvoj</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>3.3.</td>
 <td>Državna vatrogasna intervencijska postrojba</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>3.3.1.</td>
 <td>Državna intervencijska postrojba Dubrovnik – Odjel Dubrovnik</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>3.3.2.</td>
 <td>Državna intervencijska postrojba Split – Odjel Split</td>
 <td>21</td>
 </tr>
-
 <tr>
 <td>3.3.3.</td>
 <td>Državna intervencijska postrojba Šibenik – Šibenik</td>
 <td>19</td>
 </tr>
-
 <tr>
 <td>3.3.4.</td>
 <td>Državna intervencijska postrojba Zadar – Zadar</td>
 <td>18</td>
 </tr>
-
 <tr>
 <td colspan="2">Sektor za vatrogastvo – ukupno</td>
 <td>100</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>Državni informacijski i komunikacijski sustav zaštite i spašavanja</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>4.1.</td>
 <td>Državni centar zaštite i spašavanja</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>4.1.1.</td>
 <td>Odjel za operativno-komunikacijske poslove</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>4.1.2.</td>
 <td>Vatrogasno operativno središte</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td>4.1.3.</td>
 <td>Odjel za plansku, analitičku i GIS potporu</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>4.2.</td>
 <td>Služba za sustav 112</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>4.2.1.</td>
 <td>Odjel za sustav uzbunjivanja i obavješćivanja</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>4.2.2.</td>
 <td>Odjel za propise, nadzor i razvoj kompetencije sustava zaštite i spašavanja</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>4.3.</td>
 <td>Služba za informacijsku i komunikacijsku tehnologiju</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>4.3.1.</td>
 <td>Odjel za telekomunikacijsku i radiokomunikacijsku tehnologiju</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>4.3.2.</td>
 <td>Odjel za informacijsku tehnologiju i računalno-komunikacijske mreže</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td colspan="2">Državni informacijski i komunikacijski sustav zaštite i spašavanja – ukupno</td>
 <td>71</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>Učilište vatrogastva, zaštite i spašavanja</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>5.1.</td>
 <td>Vatrogasna škola</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td>5.2.</td>
 <td>Centar za specijalističko osposobljavanje</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>5.2.1.</td>
 <td>Odjel za specijalističko osposobljavanje Zagreb</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>5.2.2.</td>
 <td>Odjel za specijalističko osposobljavanje Split</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>5.3.</td>
 <td>Centar za ispitivanje i normizaciju tehnike</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td colspan="2">Učilište vatrogastva i zaštite i spašavanja – ukupno</td>
 <td>36</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>Sektor općih poslova</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>– neposredno u Sektoru, izvan sastava nižih ustrojstvenih jedinica Sektora</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>6.1.</td>
 <td>Služba za pravne i opće poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>6.1.1</td>
 <td>Pododsjek za pisarnicu i pismohranu</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>6.2.</td>
 <td>Služba za razvoj i upravljanje ljudskim potencijalima</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>6.3.</td>
 <td>Služba za financijske poslove</td>
 <td>14</td>
 </tr>
-
 <tr>
 <td>6.4.</td>
 <td>Služba za nabavu i materijalne poslove</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>6.4.1.</td>
 <td>Odjel za planiranje i nabavu</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>6.4.2.</td>
 <td>Odjel za materijalne poslove i skladišno poslovanje</td>
 <td>16</td>
 </tr>
-
 <tr>
 <td colspan="2">Sektor općih poslova – ukupno</td>
 <td>60</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>Samostalna služba za inspekcijske poslove</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.</td>
 <td>Odjel inspekcije za zaštitu i spašavanje</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>7.1.1.</td>
 <td>Područna jedinica Bjelovar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.2.</td>
 <td>Područna jedinica Čakovec – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.3.</td>
 <td>Područna jedinica Dubrovnik – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.4.</td>
 <td>Područna jedinica Gospić – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.5.</td>
 <td>Područna jedinica Karlovac – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.6.</td>
 <td>Područna jedinica Koprivnica – samostalni izvršitelj)</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.7.</td>
 <td>Područna jedinica Krapina – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.8.</td>
 <td>Područna jedinica Osijek – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.9.</td>
 <td>Područna jedinica Pazin – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.10.</td>
 <td>Područna jedinica Požega – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.11.</td>
 <td>Područna jedinica Rijeka – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.12.</td>
 <td>Područna jedinica Sisak – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.13.</td>
 <td>Područna jedinica Slavonski Brod – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.14.</td>
 <td>Područna jedinica Split – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.15.</td>
 <td>Područna jedinica Šibenik – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.16.</td>
 <td>Područna jedinica Varaždin – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.17.</td>
 <td>Područna jedinica Virovitica – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.18.</td>
 <td>Područna jedinica Vukovar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.19.</td>
 <td>Područna jedinica Zadar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.1.20.</td>
 <td>Područna jedinica Zagreb – samostalni izvršitelj</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>7.2.</td>
 <td>Odjel inspekcije za vatrogastvo</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>7.2.1.</td>
 <td>Područna jedinica Bjelovar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.2.</td>
 <td>Područna jedinica Čakovec – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.3.</td>
 <td>Područna jedinica Dubrovnik – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.4.</td>
 <td>Područna jedinica Gospić – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.5.</td>
 <td>Područna jedinica Karlovac – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.6.</td>
 <td>Područna jedinica Koprivnica – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.7.</td>
 <td>Područna jedinica Krapina – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.8.</td>
 <td>Područna jedinica Osijek – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.9.</td>
 <td>Područna jedinica Pazin – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.10.</td>
 <td>Područna jedinica Požega – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.11.</td>
 <td>Područna jedinica Rijeka – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.12.</td>
 <td>Područna jedinica Sisak – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.13.</td>
 <td>Područna jedinica Slavonski Brod – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.14.</td>
 <td>Područna jedinica Split– samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.15.</td>
 <td>Područna jedinica Šibenik – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.16.</td>
 <td>Područna jedinica Varaždin – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.17.</td>
 <td>Područna jedinica Virovitica – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.18.</td>
 <td>Područna jedinica Vukovar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.19.</td>
 <td>Područna jedinica Zadar – samostalni izvršitelj</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>7.2.20.</td>
 <td>Područna jedinica Zagreb – samostalni izvršitelj</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="2">Samostalna služba za inspekcijske poslove – ukupno</td>
 <td>51</td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td>Samostalna služba za međunarodne odnose</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>8.1.</td>
 <td>Odjel za multilateralnu i bilateralnu suradnju</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>8.2.</td>
 <td>Odjel za Europsku uniju i projekte</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td colspan="2">Samostalna služba za međunarodne odnose – ukupno</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td>Područni ured za zaštitu i spašavanje Bjelovar</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>9.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>9.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Bjelovar – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td>Područni ured za zaštitu i spašavanje Čakovec</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>10.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>10.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Čakovec – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td>Područni ured za zaštitu i spašavanje Dubrovnik</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>11.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>11.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Dubrovnik – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td>Područni ured za zaštitu i spašavanje Gospić</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>12.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>12.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Gospić – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td>Područni ured za zaštitu i spašavanje Karlovac</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>13.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>13.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Karlovac – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>14.</td>
 <td>Područni ured za zaštitu i spašavanje Koprivnica</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>14.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>14.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Koprivnica – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>15.</td>
 <td>Područni ured za zaštitu i spašavanje Krapina</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>15.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>15.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Krapina – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>16.</td>
 <td>Područni ured za zaštitu i spašavanje Osijek</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>16.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>16.2.</td>
 <td>Županijski centar 112</td>
 <td>21</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Osijek – ukupno</td>
 <td>27</td>
 </tr>
-
 <tr>
 <td>17.</td>
 <td>Područni ured za zaštitu i spašavanje Pazin</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>17.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>17.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Pazin – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>18.</td>
 <td>Područni ured za zaštitu i spašavanje Požega</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>18.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>18.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Požega – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>19.</td>
 <td>Područni ured za zaštitu i spašavanje Rijeka</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>19.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>19.2.</td>
 <td>Županijski centar 112</td>
 <td>23</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Rijeka – ukupno</td>
 <td>29</td>
 </tr>
-
 <tr>
 <td>20.</td>
 <td>Područni ured za zaštitu i spašavanje Sisak</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>20.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>20.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Sisak – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>21.</td>
 <td>Područni ured za zaštitu i spašavanje Slavonski Brod</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>21.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>21.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Slavonski Brod – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>22.</td>
 <td>Područni ured za zaštitu i spašavanje Split</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>22.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>22.2.</td>
 <td>Županijski centar 112</td>
 <td>24</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Split – ukupno</td>
 <td>30</td>
 </tr>
-
 <tr>
 <td>23.</td>
 <td>Područni ured za zaštitu i spašavanje Šibenik</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>23.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>23.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Šibenik – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>24.</td>
 <td>Područni ured za zaštitu i spašavanje Varaždin</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>24.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>24.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Varaždin – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>25.</td>
 <td>Područni ured za zaštitu i spašavanje Virovitica</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>25.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>25.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Virovitica – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>26.</td>
 <td>Područni ured za zaštitu i spašavanje Vukovar</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>26.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>26.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Vukovar – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>27.</td>
 <td>Područni ured za zaštitu i spašavanje Zadar</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>27.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>27.2.</td>
 <td>Županijski centar 112</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Zadar – ukupno</td>
 <td>17</td>
 </tr>
-
 <tr>
 <td>28.</td>
 <td>Područni ured za zaštitu i spašavanje Zagreb</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>28.1.</td>
 <td>Odjel za preventivne i planske poslove</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>28.2.</td>
 <td>Županijski centar 112</td>
 <td>30</td>
 </tr>
-
 <tr>
 <td colspan="2">PUZS Zagreb – ukupno</td>
 <td>36</td>
 </tr>
-
 <tr>
 <td colspan="2">DRŽAVNA UPRAVA ZA ZAŠTITU I SPAŠAVANJE – UKUPNO:</td>
 <td>798</td>

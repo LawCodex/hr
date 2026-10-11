@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-07-17
+last_amended: 2019-11-15
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "78/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "78/15, 114/18, 110/19"
+amendments:
+  - "NN 114/2018 (2217) Zakon o dopuni Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju"
+  - "NN 110/2019 (2216) Zakon o izmjenama i dopunama Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/78/1490"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju
 
 > Izvor: Narodne novine, NN 78/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/78/1490).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2018, NN 110/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -820,3 +825,508 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopuni Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2217*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O KOMORI ARHITEKATA I KOMORAMA INŽENJERA U GRADITELJSTVU I PROSTORNOM UREĐENJU
+
+Proglašavam Zakon o dopuni Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/205
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O KOMORI ARHITEKATA I KOMORAMA INŽENJERA U GRADITELJSTVU I PROSTORNOM UREĐENJU**
+
+### Članak 1.
+
+U Zakonu o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, br. 78/15.) u članku 32. ispred riječi: »Ovlaštenom arhitektu« stavlja se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Odredba stavka 1. podstavka 4. ovoga članka ne odnosi se na državne službenike Ministarstva zaposlene u nadležnoj unutarnjoj ustrojstvenoj jedinici koja izrađuje prostorne planove.«.
+
+### Članak 2.
+
+Komore su dužne u roku od 90 dana od dana stupanja na snagu ovoga Zakona uskladiti Statut i druge opće akte s odredbama ovoga Zakona.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/244
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (NN 110/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2216*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KOMORI ARHITEKATA I KOMORAMA INŽENJERA U GRADITELJSTVU I PROSTORNOM UREĐENJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju, koji je Hrvatski sabor donio na sjednici 31. listopada 2019.
+
+Klasa: 011-01/19-01/195
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 7. studenoga 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KOMORI ARHITEKATA I KOMORAMA INŽENJERA U GRADITELJSTVU I PROSTORNOM UREĐENJU**
+
+#### Članak 1.
+
+U Zakonu o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, br. 78/15. i 114/18.) u članku 1. stavak 2. mijenja se i glasi:
+
+»(2) Ovim se Zakonom uređuje javnost rada Komore, tijela Komore, opći akti koje donosi Komora, upisi u imenike Komore, mirovanje i prestanak članstva u Komori, kvaliteta pružene usluge u poslovima prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, stručni nadzor nad radom članova Komore, stegovna odgovornost članova Komore, profesionalno osiguranje i osiguranje od odgovornosti, pracekršajne odredbe i nadzor nad provođenjem Zakona.«.
+
+#### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»(1) Komora je samostalna strukovna organizacija koja čuva ugled, čast i prava članova Komore, promiče, zastupa i usklađuje njihove zajedničke interese pred državnim i drugim tijelima u zemlji i inozemstvu te se skrbi o tome da članovi Komore savjesno i u skladu sa zakonom i javnim interesom obavljaju svoje poslove i pri tome štite i unapređuju hrvatsku graditeljsku baštinu i vrsnoću izgrađenog prostora u skladu s posebnim propisima.
+
+(2) U Komoru se obvezno udružuju ovlašteni arhitekti, ovlašteni arhitekti urbanisti i ovlašteni inženjeri koji u svojstvu ovlaštene osobe obavljaju stručne poslove projektiranja i/ili stručnog nadzora građenja te poslove prostornog uređenja radi zastupanja i usklađivanja zajedničkih interesa, zaštite javnog interesa i zaštite interesa trećih osoba.
+
+(3) Inženjeri gradilišta i voditelji radova slobodno odlučuju o svojem pristupanju članstvu Komore i istupu iz članstva Komore.
+
+(4) Inženjeri gradilišta i voditelji radova koji nisu članovi Komore ne smiju biti stavljeni u nepovoljniji položaj u odnosu na inženjere gradilišta i voditelje radova koji su članovi Komore.
+
+(5) Postupanje protivno stavcima 3. i 4. ovoga članka predstavlja diskriminaciju u smislu zakona kojim se uređuje suzbijanje diskriminacije.
+
+(6) Osobe iz stavka 2. ovoga članka obavljaju poslove regulirane profesije u skladu s posebnim propisima te postupaju samostalno i odgovorno.«.
+
+#### Članak 3.
+
+U članku 9. stavak 1. mijenja se i glasi:
+
+»(1) Tijela Komore su Skupština, Upravni odbor, Nadzorni odbor i predsjednik.«.
+
+#### Članak 4.
+
+U članku 12. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Skupština Komore donosi:
+
+– statut Komore i druge opće akte određene ovim Zakonom i statutom Komore
+
+– program rada Komore i prihvaća izvješće o izvršenju tog programa
+
+– godišnji plan prihoda i rashoda Komore i prihvaća izvješće o izvršenju tog plana
+
+– poslovnik o radu Skupštine Komore i drugih tijela Komore i
+
+– strateške odluke važne za rad Komore.
+
+(2) Skupština Komore odlučuje o:
+
+– visini upisnine, članarine i naknade za usluge Komore
+
+– raspisivanju izbora za tijela Komore te provodi imenovanja i razrješenja u skladu s ovim Zakonom, statutom Komore te drugim općim aktima Komore
+
+– međusobnim odnosima i suradnji s drugim komorama i udrugama radi provedbe programa od zajedničkog interesa i
+
+– drugim pitanjima određenim ovim Zakonom ili statutom Komore.«.
+
+#### Članak 5.
+
+U članku 13. stavku 4. podstavak 6. mijenja se i glasi:
+
+» – osniva i imenuje članove radnih tijela Komore u skladu s općim aktima Komore«.
+
+#### Članak 6.
+
+U članku 14. stavku 1. podstavku 1. riječi: »te ostvarivanje prava i ispunjavanje obveza članova Komore« brišu se.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Nadzorni odbor ima predsjednika i dva člana koje bira Skupština Komore.«.
+
+#### Članak 7.
+
+U članku 15. stavak 6. mijenja se i glasi:
+
+»(6) Predsjednik Komore obavlja svoju funkciju profesionalno na temelju ugovora o radu u punom radnom vremenu ili bez zasnivanja radnog odnosa.«.
+
+#### Članak 8.
+
+U članku 16. stavak 5. briše se.
+
+#### Članak 9.
+
+Članak 20. mijenja se i glasi:
+
+»(1) Opće akte Komore, i to statut, kodeks strukovne etike, poslovnike i druge opće akte donose tijela Komore u okviru svojih nadležnosti.
+
+(2) Opći akti Komore kojima se uređuju upisi u imenike, upisnike i evidencije Komore, stručni nadzor članova Komore i uvjeti za privremeno ili povremeno pružanje usluga stranih profesionalnih osoba te priznavanje inozemnih stručnih kvalifikacija donose se uz prethodnu suglasnost ministarstva nadležnog za graditeljstvo i prostorno uređenje (u daljnjem tekstu: Ministarstvo).
+
+(3) Komora je dužna svoje opće akte usklađivati s propisima Europske unije, zakonima i drugim propisima Republike Hrvatske.«.
+
+#### Članak 10.
+
+U članku 21. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Statutom Komore pobliže se uređuje:
+
+– nadležnost, zadaće i poslovi Komore
+
+– ustrojstvo Komore
+
+– tijela Komore
+
+– postupak izbora i razrješenja članova tijela Komore
+
+– oblici organiziranja članova Komore (područni odbori, sekcije, radna tijela)
+
+– imenici, upisnici i evidencije Komore
+
+– prava i dužnosti članova Komore
+
+– stegovna tijela i centar za mirenje i
+
+– druga pitanja od važnosti za rad Komore.
+
+(2) Statut Komore donosi Skupština Komore uz prethodnu suglasnost Ministarstva.«.
+
+#### Članak 11.
+
+Članak 23. mijenja se i glasi:
+
+»(1) Komora u skladu s ovim Zakonom ima sljedeće javne ovlasti:
+
+– vodi imenik ovlaštenih arhitekata, imenik ovlaštenih arhitekata urbanista i imenik ovlaštenih inženjera koji su njezini članovi, a koji sadržava struku i stručni smjer ovlaštenog arhitekta, ovlaštenog arhitekta urbanista, odnosno ovlaštenog inženjera
+
+– vodi imenik stranih ovlaštenih osoba koje su njezini članovi, a koji sadržava struku i stručni smjer ovlaštenog arhitekta, ovlaštenog arhitekta urbanista, odnosno ovlaštenog inženjera
+
+– uspostavlja i vodi imenik inženjera gradilišta i imenik voditelja radova odgovarajuće struke
+
+– vodi upisnik ureda za samostalno obavljanje poslova projektiranja i/ili stručnog nadzora građenja
+
+– vodi upisnik zajedničkih ureda
+
+– vodi evidenciju odobrenja za rad izdanih stranim arhitektima, odnosno inženjerima
+
+– vodi evidenciju stranih ovlaštenih osoba koje povremeno ili privremeno obavljaju poslove projektiranja i/ili stručnog nadzora građenja u svojstvu odgovorne osobe
+
+– vodi evidenciju osoba kojima je priznala inozemne stručne kvalifikacije
+
+– vodi evidenciju izdanih EU potvrda
+
+– vodi druge pomoćne evidencije radi unapređenja struke
+
+– provodi obradu i pripremu IMI dosjea u informacijskom sustavu unutarnjeg tržišta i izdaje europsku profesionalnu karticu
+
+– izdaje rješenja, uvjerenja, odnosno potvrde o činjenicama o kojima Komora vodi službene i druge evidencije radi unapređenja struke i zaštite javnog interesa
+
+– izdaje i oduzima članovima Komore pečat, iskaznicu i poslovnu karticu s potpisnim i identifikacijskim certifikatom
+
+– organizira i provodi stručno usavršavanje
+
+– obavlja stručni nadzor nad radom svojih članova i
+
+– obavlja druge poslove s javnim ovlastima sukladno zakonu.
+
+(2) Hrvatska komora arhitekata, osim javnih ovlasti iz stavka 1. ovoga članka, ima još i sljedeće javne ovlasti:
+
+– uspostavlja i vodi imenik krajobraznih arhitekata koji stručne poslove prostornog uređenja i poslove projektiranja obavljaju u svojstvu suradnika, odnosno izrađuju elaborate za potrebe projekata
+
+– uspostavlja i vodi upisnik ureda za samostalno obavljanje stručnih poslova prostornog uređenja
+
+– uspostavlja i vodi upisnik zajedničkih ureda za obavljanje stručnih poslova prostornog uređenja i
+
+– vodi evidenciju stranih ovlaštenih osoba koje povremeno ili privremeno obavljaju poslove prostornog uređenja u svojstvu odgovorne osobe.
+
+(3) Hrvatska komora inženjera građevinarstva, osim javnih ovlasti iz stavka 1. ovoga članka, ima još i sljedeće javne ovlasti:
+
+– unutar imenika ovlaštenih inženjera građevinarstva uspostavlja i vodi razred revidenata
+
+– uspostavlja i vodi evidenciju stranih ovlaštenih osoba koje povremeno ili privremeno obavljaju poslove kontrole projekata u svojstvu odgovorne osobe.
+
+(4) Imenici, upisnici i evidencije koje vodi Komora su javni registri u smislu zakona kojim se uređuje državna informacijska infrastruktura.«.
+
+#### Članak 12.
+
+U članku 24. riječi: »stavaka 1. i 2.« brišu se.
+
+#### Članak 13.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Članstvo u Komori i pravo uporabe pečata, iskaznice i poslovne kartice s potpisnim i identifikacijskim certifikatom stječe se izvršnošću rješenja o upisu u odgovarajući imenik članova odgovarajuće komore.
+
+(2) Upisom u imenik ovlaštenih arhitekata i inženjera stječe se strukovni naziv: ovlašteni arhitekt, ovlašteni arhitekt urbanist, ovlašteni inženjer građevinarstva, ovlašteni inženjer strojarstva, ovlašteni inženjer elektrotehnike.
+
+(3) Rješenje o upisu u odgovarajući imenik te rješenje o brisanju, odnosno prestanku članstva odgovarajuće komore donosi Komora.
+
+(4) Komora može imati počasne članove u skladu s uvjetima propisanim statutom Komore.«.
+
+#### Članak 14.
+
+Iza članka 27. dodaju se naslov iznad članka i članak 27.a koji glase:
+
+*»Revident*
+
+#### Članak 27.a
+
+(1) Osoba upisana u imenik ovlaštenih inženjera građevinarstva ima pravo na upis u razred revidenata ako ima najmanje deset godina radnog iskustva u projektiranju statički složenih konstrukcija u području kontrole projekata i koja dostavi podatke povezane s radnim iskustvom propisane pravilnikom iz stavka 4. ovoga članka.
+
+(2) Rješenje o upisu u razred revidenata donosi Hrvatska komora inženjera građevinarstva.
+
+(3) Protiv rješenja kojim je odlučeno o zahtjevu za upis u razred revidenata i rješenja o brisanju iz tog razreda može se izjaviti žalba Ministarstvu.
+
+(4) Dokumentaciju koja se predaje uz zahtjev za upis u razred revidenata te sastav i način rada povjerenstva koje je zaduženo za stručnu provjeru ispunjavanja uvjeta za upis u razred revidenata propisuje ministar nadležan za poslove graditeljstva i prostornog uređenja pravilnikom.«.
+
+#### Članak 15.
+
+Naslov iznad članka 28. mijenja se i glasi: »Imenik inženjera gradilišta«.
+
+Članak 28. mijenja se i glasi:
+
+»(1) Komore su dužne ustrojiti i voditi imenik inženjera gradilišta.
+
+(2) Pravo na upis u imenik iz stavka 1. ovoga članka imaju osobe koje mogu biti imenovane za inženjera gradilišta u skladu s propisom kojim se uređuju poslovi i djelatnosti prostornog uređenja i gradnje.«.
+
+#### Članak 16.
+
+Naslov iznad članka 29. mijenja se i glasi: »Imenik voditelja radova«.
+
+Članak 29. mijenja se i glasi:
+
+»(1) Komore su dužne ustrojiti i voditi imenik voditelja radova.
+
+(2) Pravo na upis u imenik iz stavka 1. ovoga članka imaju osobe koje mogu biti imenovane za voditelja radova u skladu s propisom kojim se uređuju poslovi i djelatnosti prostornog uređenja i gradnje.«.
+
+#### Članak 17.
+
+Naslovi iznad članaka 30. i 31. i članci 30. i 31. brišu se.
+
+#### Članak 18.
+
+U članku 32. stavku 1. riječi: »Ovlaštenom arhitektu, ovlaštenom arhitektu urbanistu, ovlaštenom inženjeru, ovlaštenom voditelju građenja i ovlaštenom voditelju radova« zamjenjuju se riječima: »Članu Komore«.
+
+#### Članak 19.
+
+U članku 33. stavku 1. riječi: »ovlaštenog arhitekta, ovlaštenog arhitekta urbanista, ovlaštenog inženjera, ovlaštenog voditelja građenja i ovlaštenog voditelja radova« zamjenjuju se riječima: »člana Komore«.
+
+U stavku 2. riječi: »ovlaštenom arhitektu, ovlaštenom arhitektu urbanistu, ovlaštenom inženjeru, ovlaštenom voditelju građenja i ovlaštenom voditelju radova« zamjenjuju se riječima: »članu Komore«.
+
+#### Članak 20.
+
+U članku 34. stavku 1. riječi: »Ovlaštenom arhitektu, ovlaštenom arhitektu urbanistu, ovlaštenom inženjeru, ovlaštenom voditelju građenja, odnosno ovlaštenom voditelju radova« zamjenjuju se riječima: »Članu Komore«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) U slučaju prestanka članstva u Komori nadležno tijelo Komore rješenjem određuje brisanje člana iz odgovarajućeg imenika Komore, osim u slučaju iz stavka 1. podstavka 6. ovoga članka kada članstvo u Komori prestaje na temelju presude Stegovnog suda Komore.«.
+
+#### Članak 21.
+
+Članak 35. mijenja se i glasi:
+
+»(1) Prestankom članstva u Komori gubi se strukovni naziv ovlašteni arhitekt, ovlašteni arhitekt urbanist i strukovni naziv ovlašteni inženjer te pravo na obavljanje poslova koje obavlja osoba s tim nazivom.
+
+(2) Pravo na obavljanje poslova ovlaštenog arhitekta, ovlaštenog arhitekta urbanista, odnosno ovlaštenog inženjera u slučaju iz članka 34. stavka 1. podstavaka 1., 5. i 6. ovoga Zakona prestaje danom pravomoćnosti odluke o oduzimanju poslovne sposobnosti, odluke kojom se izriče sigurnosna mjera zabrane obavljanja dužnosti ili djelatnosti, odnosno presude Stegovnog suda Komore.
+
+(3) Pravo na obavljanje poslova ovlaštenog arhitekta, ovlaštenog arhitekta urbanista, odnosno ovlaštenog inženjera u slučaju iz članka 34. stavka 1. podstavaka 2., 3., 4. i 7. ovoga Zakona prestaje danom pravomoćnosti rješenja o brisanju člana iz odgovarajućeg imenika Komore.«.
+
+#### Članak 22.
+
+U članku 38. riječi: »ovlaštenih arhitekata, ovlaštenih arhitekata urbanista, ovlaštenih inženjera i ovlaštenih voditelja građenja, odnosno ovlaštenih voditelja radova u poslovima prostornog uređenja, projektiranja i/ili stručnog nadzora građenja te vođenja građenja« zamjenjuju se riječima: »osoba koje obavljaju poslove prostornog uređenja i gradnje«.
+
+#### Članak 23.
+
+Članak 39. mijenja se i glasi:
+
+»Članovi Komore dostavljaju Komori potvrdu, odnosno certifikat o završenom stručnom usavršavanju i osposobljavanju u svrhu vođenja evidencije o stručnom usavršavanju.«.
+
+#### Članak 24.
+
+Članak 40. briše se.
+
+#### Članak 25.
+
+U članku 41. stavku 1. riječi: »ovlaštenih arhitekata, ovlaštenih arhitekata urbanista, ovlaštenih inženjera, ovlaštenih voditelja građenja i ovlaštenih voditelja radova« zamjenjuju se riječima: »članova Komore«.
+
+#### Članak 26.
+
+U članku 42. stavku 1. podstavku 1. iza riječi: »nepravilnosti« dodaju se riječi: »i ako se uočene nepravilnosti ponove, poduzeti druge mjere propisane propisima iz područja prostornog uređenja i gradnje«.
+
+#### Članak 27.
+
+U članku 43. stavku 2. riječi: »nadležnu inspekciju Ministarstva« zamjenjuju se riječju: »Ministarstvo«.
+
+#### Članak 28.
+
+Naziv poglavlja IX. mijenja se i glasi: »IX. STEGOVNA ODGOVORNOST ČLANOVA KOMORE«.
+
+#### Članak 29.
+
+Članak 45. mijenja se i glasi:
+
+»(1) Članovi Komore odgovaraju za teže i lakše povrede dužnosti i ugleda arhitekata, odnosno inženjera pred stegovnim tijelima Komore.
+
+(2) Teža povreda je svako narušavanje dužnosti i ugleda arhitekata ili inženjera i povreda načela i pravila utvrđenih statutom i Kodeksom strukovne etike, koje ima teže značenje s obzirom na važnost ugroženog dobra, prirodu povrijeđene dužnosti, visinu materijalne štete ili druge posljedice te s obzirom na okolnosti pod kojima je radnja izvršena ili propuštena.
+
+(3) Lakša povreda je narušavanje dužnosti i ugleda i povreda Kodeksa strukovne etike manjeg značenja te druge povrede dužnosti propisane propisima iz područja prostornog uređenja i gradnje koje su manjeg značenja.
+
+(4) Neispunjavanje obveze stručnog usavršavanja člana Komore za prethodno razdoblje smatra se lakšom povredom i kažnjava najstrožom stegovnom mjerom za lakše povrede.«.
+
+#### Članak 30.
+
+Članak 46. mijenja se i glasi:
+
+»(1) Za teže povrede dužnosti i ugleda arhitekata, odnosno inženjera može se članu Komore statutom Komore odrediti stegovna mjera:
+
+– ukor
+
+– novčana kazna u iznosu od 5000,00 do 50.000,00 kuna
+
+– zabrana obavljanja poslova u trajanju od jednog mjeseca do tri godine
+
+– prestanak članstva u Komori ili
+
+– brisanje iz evidencije.
+
+(2) Za lakše povrede dužnosti i ugleda arhitekata, odnosno inženjera može se članu Komore statutom Komore odrediti stegovna mjera:
+
+– opomena ili
+
+– novčana kazna u iznosu od 500,00 do 5000,00 kuna.
+
+(3) U slučaju izricanja stegovne mjere zabrane obavljanja poslova nadležno tijelo Komore će po službenoj dužnosti istu upisati u odgovarajući imenik.
+
+(4) Članovi Komore kojima je izrečena stegovna mjera zabrane obavljanja poslova dužni su u roku od osam dana od dana pravomoćnosti odluke kojom je takva mjera izrečena vratiti pečat, iskaznicu i poslovnu karticu s potpisnim i identifikacijskim certifikatom, koji se pohranjuju u Komori za vrijeme trajanja stegovne mjere.«.
+
+#### Članak 31.
+
+U članku 49. stavak 1. mijenja se i glasi:
+
+»(1) Pravo žalbe u stegovnom postupku protiv presude Stegovnog suda za povrede dužnosti i ugleda članova Komore ima stranka kojoj je izrečena stegovna mjera i stegovni tužitelj.«.
+
+#### Članak 32.
+
+U članku 50. riječi: »ovlaštenog arhitekta, ovlaštenog arhitekta urbanista, ovlaštenog inženjera, ovlaštenog voditelja građenja i ovlaštenog voditelja radova te strane ovlaštene osobe« zamjenjuju se riječima: »člana Komore«.
+
+#### Članak 33.
+
+U članku 53. stavku 1. riječi: »ovlaštenog arhitekta, ovlaštenog arhitekta urbanista, ovlaštenog inženjera, ovlaštenog voditelja građenja i ovlaštenog voditelja radova te strane ovlaštene osobe« zamjenjuju se riječima: »člana Komore«.
+
+#### Članak 34.
+
+U članku 54. stavku 1. iza riječi: »urbanist« briše se zarez i dodaje se riječ: »i«, a iza riječi: »inženjer« zarez i riječi: »ovlašteni voditelj građenja, ovlašteni voditelj radova i strana ovlaštena osoba« brišu se.
+
+U stavku 2. riječi: »Ovlaštenom arhitektu, ovlaštenom arhitektu urbanistu, ovlaštenom inženjeru, ovlaštenom voditelju građenja i ovlaštenom voditelju radova, upisanom u imenik stranih ovlaštenih osoba, koji« zamjenjuju se riječima: »Osobi upisanoj u imenik stranih ovlaštenih osoba, koja«.
+
+#### Članak 35.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Komora preuzima osnovno osiguranje od profesionalne odgovornosti svojih članova ovlaštenih arhitekata, ovlaštenih arhitekata urbanista, ovlaštenih inženjera i stranih ovlaštenih osoba upisanih u imenik komore, koji su Komori dužni plaćati naknadu za profesionalno osiguranje.
+
+(2) Kršenje obveze profesionalnog osiguranja, odnosno neplaćanje naknade za profesionalno osiguranje Komori teža je povreda dužnosti člana Komore.
+
+(3) Profesionalno osiguranje člana Komore preko Komore ne isključuje mogućnost njegova dodatnog individualnog profesionalnog osiguranja za štetu koju bi obavljanjem poslova, odnosno djelatnosti mogao učiniti investitoru ili drugim osobama.«.
+
+#### Članak 36.
+
+U članku 56. iza riječi: »inženjere« zarez i riječi: »ovlaštene voditelje građenja, ovlaštene voditelje radova« brišu se.
+
+#### Članak 37.
+
+U članku 57. oznaka stavka (1) i stavci 2. i 3. brišu se.
+
+#### Članak 38.
+
+U članku 58. stavku 1. riječ: »proračunu« zamjenjuje se riječju: »planu«.
+
+#### Članak 39.
+
+U članku 60. stavak 2. briše se.
+
+Dosadašnji stavci 3. i 4. postaju stavci 2. i 3.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 40.
+
+Komore su dužne u roku od 90 dana od dana stupanja na snagu ovoga Zakona uskladiti organizaciju, poslovanje, statut i druge opće akte s odredbama ovoga Zakona.
+
+#### Članak 41.
+
+(1) Postupci za upis u imenik ovlaštenih arhitekata, imenik ovlaštenih arhitekata urbanista, imenik ovlaštenih inženjera i postupci za upis u evidencije stranih ovlaštenih osoba i upisnike komora te stegovni i prekršajni postupci započeti prema Zakonu o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, br. 78/15. i 114/18.), do dana stupanja na snagu ovoga Zakona, dovršit će se prema odredbama toga Zakona i propisima donesenim za provedbu toga Zakona.
+
+(2) Postupci za upis u imenik ovlaštenih voditelja građenja, odnosno u imenik ovlaštenih voditelja radova, započeti do dana stupanja na snagu ovoga Zakona, po odredbama Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, br. 78/15. i 114/18.), obustavit će se po službenoj dužnosti.
+
+(3) Osobe upisane u imenik ovlaštenih voditelja građenja, odnosno imenik ovlaštenih voditelja radova po odredbama Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, br. 78/15. i 114/18.) dužne su u roku od 90 dana od dana stupanja na snagu ovoga Zakona podnijeti zahtjev za upis u odgovarajući imenik u skladu s odredbama ovoga Zakona, po isteku kojeg će se, ako zahtjevi nisu podneseni, rješenja o upisu u imenik ovlaštenih voditelja građenja, odnosno imenik ovlaštenih voditelja radova ukinuti.
+
+#### Članak 42.
+
+(1) Hrvatska komora inženjera građevinarstva će u roku od 90 dana od dana stupanja na snagu ovoga Zakona po službenoj dužnosti upisati revidente, koji su ovlaštenje za obavljanje kontrole projekata dobili na temelju odredbi propisa koje su važile do stupanja na snagu ovoga Zakona, u razred revidenata unutar imenika ovlaštenih inženjera građevinarstva.
+
+(2) Hrvatska komora inženjera građevinarstva će u roku od 90 dana od dana stupanja na snagu ovoga Zakona po službenoj dužnosti upisati strane revidente iz država ugovornica EGP-a, koji poslove kontrole projekata u Republici Hrvatskoj obavljaju do isteka ovlaštenja na temelju odredbi propisa koje su važile do stupanja na snagu ovoga Zakona, u evidenciju stranih ovlaštenih osoba koje povremeno ili privremeno obavljaju poslove kontrole projekata u svojstvu odgovorne osobe.
+
+(3) Revidentima iz stavaka 1. i 2. ovoga članka Hrvatska komora inženjera građevinarstva izdaje rješenje, odnosno potvrdu.
+
+#### Članak 43.
+
+(1) Komore su dužne ustrojiti imenik inženjera gradilišta i imenik voditelja radova odgovarajuće struke u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Hrvatska komora arhitekata dužna je ustrojiti imenik krajobraznih arhitekata u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(3) Hrvatska komora inženjera građevinarstva dužna je ustrojiti razred revidenata unutar imenika ovlaštenih inženjera građevinarstva u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 44.
+
+(1) Ministar je dužan donijeti pravilnik iz članka 14. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Do stupanja na snagu pravilnika iz stavka 1. ovoga članka primjenjuje se Pravilnik o uvjetima i mjerilima za davanje ovlaštenja za kontrolu projekata (»Narodne novine«, br. 32/14., 69/14. i 27/15.).
+
+#### Članak 45.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 14. ovoga Zakona koji stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/97  
+Zagreb, 31. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2012-02-15
+last_amended: 2018-09-21
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "18/12"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "18/12, 84/18"
+amendments:
+  - "NN 84/2018 (1667) Uredba o izmjenama i dopuni Uredbe o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/18/503"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava
 
 > Izvor: Narodne novine, NN 18/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/18/503).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 84/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -227,3 +231,134 @@ OKVIRNI BROJ SLUŽBENIKA I NAMJEŠTENIKA UREDA ZASTUPNIKA REPUBLIKE HRVATSKE PRE
 | Odjel za izvršenje presuda i odluka Europskog suda za ljudska prava | 3 |
 | Odjel za usklađivanje propisa s Konvencijom za zaštitu ljudskih prava i temeljnih sloboda i praćenje sudske prakse Europskog suda za ljudska prava te drugih sudova Europske unije i drugih međunarodnih tijela u području ljudskih prava | 3 |
 | UKUPNO: | 12 |
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopuni Uredbe o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava (NN 84/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/84/1667*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 27. stavaka 2. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14 i 93/16), a u vezi s člankom 9. stavkom 4. Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, br. 93/16 i 104/16), Vlada Republike Hrvatske je na sjednici održanoj 20. rujna 2018. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O UREDU ZASTUPNIKA REPUBLIKE HRVATSKE PRED EUROPSKIM SUDOM ZA LJUDSKA PRAVA**
+
+### Članak 1.
+
+U Uredbi o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava (»Narodne novine«, broj 18/12), u članku 1. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Suradnja Republike Hrvatske i Europskog suda za ljudska prava odvija se putem Ureda.«.
+
+### Članak 2.
+
+U članku 4. stavak 5. mijenja se i glasi:
+
+»Zastupnik ima pomoćnika koji ga u slučaju odsutnosti ili spriječenosti mijenja u poslovima upravljanja Uredom, te obavlja i druge poslove po nalogu zastupnika.«.
+
+### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»U vezi sa zastupanjem Republike Hrvatske pred Europskim sudom za ljudska prava i drugim tijelima Vijeća Europe u Uredu se obavljaju sljedeći poslovi:
+
+– poslovi pripreme svih očitovanja Republike Hrvatske u postupcima pred Europskim sudom za ljudska prava i sudjelovanja na usmenim ročištima pred Europskim sudom za ljudska prava, poslovi razmatranja, pripreme i miješanja u predmete protiv drugih država pred Europskim sudom za ljudska prava, poslovi suradnje s pravosudnim tijelima, Ustavnim sudom Republike Hrvatske, ministarstvima i drugim tijelima državne uprave i drugim tijelima u svrhu zastupanja, te poslovi suradnje s Europskim sudom za ljudska prava
+
+– poslovi koordiniranja izvršenja presuda i odluka Europskog suda za ljudska prava s tijelima svih grana vlasti, poslovi suradnje s pravosudnim tijelima, ministarstvima i drugim tijelima državne uprave te drugim tijelima, kao i s Tajništvom Odbora ministara Vijeća Europe u svrhu izvršenja presuda i odluka Europskog suda za ljudska prava
+
+– poslovi pripreme i sudjelovanja na sastancima Odbora ministara Vijeća Europe o izvršenju presuda Europskog suda za ljudska prava, kao i u drugim aktivnostima Vijeća Europe koje se odnose na izvršenje presuda i odluka Europskog suda za ljudska prava
+
+– poslovi analize sudske prakse Europskog suda za ljudska prava, Suda Europske unije, drugih međunarodnih sudova i tijela u području međunarodne zaštite ljudskih prava, te prakse drugih tijela za potrebe poslova iz nadležnosti Ureda
+
+– poslovi analize propisa Republike Hrvatske u svrhu davanja mišljenja o usklađenosti istih s Konvencijom za zaštitu ljudskih prava i temeljnih sloboda (»Narodne novine – Međunarodni ugovori«, br. 18/97, 6/99, 14/02, 13/03, 9/05, 1/06, 2/10 i 13/17; u daljnjem tekstu: Konvencija) i sudskom praksom Europskog suda za ljudska prava, te davanje mišljenja o drugim dokumentima na traženje nadležnih tijela
+
+– poslovi praćenja konvencijskog sustava zaštite ljudskih prava i razvoja ljudskih prava u tom sustavu
+
+– poslovi suradnje sa zastupnicima drugih država/vlada pred Europskim sudom za ljudska prava
+
+– poslovi koordinacije prevođenja, jezične i pravne redakture i lekture, te poslovi prevođenja dokumenata na hrvatski i engleski jezik za potrebe Ureda
+
+– poslovi upoznavanja pravosudnih tijela, tijela državne uprave i drugih tijela, te stručne i opće javnosti s Konvencijom, sudskom praksom Europskog suda za ljudska prava i konvencijskim sustavom zaštite ljudskih prava, te komunikacije s medijima vezano za poslove iz nadležnosti Ureda i
+
+– poslovi prikupljanja, analize i sistematizacije podataka za izradu statistika, izvješća i drugih dokumenata iz nadležnosti Ureda.«.
+
+### Članak 4.
+
+Članak 6. mijenja se i glasi:
+
+»Za obavljanje poslova iz djelokruga Ureda, u Uredu se ustrojavaju sljedeće unutarnje ustrojstvene jedinice:
+
+1. Odjel za pripremu predmeta pred Europskim sudom za ljudska prava
+
+2. Odjel za koordinaciju izvršenja presuda i odluka Europskog suda za ljudska prava
+
+3. Odjel za praćenje sudske prakse Europskog suda za ljudska prava i drugih međunarodnih tijela u području ljudskih prava i usklađivanje propisa s Konvencijom za zaštitu ljudskih prava i temeljnih sloboda.«.
+
+### Članak 5.
+
+Članak 7. mijenja se i glasi:
+
+»Odjel za pripremu predmeta pred Europskim sudom za ljudska prava obavlja poslove prikupljanja svih relevantnih činjenica, analize domaćeg i međunarodnog mjerodavnog prava, te prikupljanja i analize domaće sudske i upravne prakse za potrebe zastupanja u postupcima pred Europskim sudom za ljudska prava pokrenutim na temelju pojedinačnih i međudržavnih zahtjeva protiv Republike Hrvatske, kao i u predmetima u kojima se Republika Hrvatska miješa u spor drugih stranaka; priprema nacrte očitovanja i svih podnesaka u svakom sporu pred Europskim sudom za ljudska prava u kojem je Republika Hrvatska stranka, te s tim u vezi surađuje s pravosudnim tijelima, Ustavnim sudom Republike Hrvatske, ministarstvima i drugim tijelima državne uprave, te drugim tijelima; definira i analizira predmete u svrhu potencijalnog sklapanja sporazuma o prijateljskom rješenju spora ili jednostranog priznanja povrede, te s time u vezi priprema sva očitovanja i podneske koji tome prethode; priprema očitovanja u postupcima po dostavljenim privremenim mjerama Europskog suda za ljudska prava; obavlja sve stručne poslove vezane za pripremu zahtjeva za upućivanje predmeta Velikom vijeću Europskog suda za ljudska prava te sudjeluje na usmenim ročištima Europskog suda za ljudska prava; prati i sudjeluje u stručnim poslovima izmjena i dopuna Konvencije, Poslovnika Europskog suda za ljudska prava, te drugih dokumenata koji se odnose na rad Europskog suda za ljudska prava; obavlja poslove pripreme izvješća iz nadležnosti Odjela.«.
+
+### Članak 6.
+
+Naslov iznad članka 8. i članak 8. mijenjaju se i glase:
+
+*»Odjel za koordinaciju izvršenja presuda i odluka Europskog suda za ljudska prava*
+
+### Članak 8.
+
+Odjel za koordinaciju izvršenja presuda i odluka Europskog suda za ljudska prava obavlja poslove koordinacije postupanja pravosudnih tijela, Ustavnog suda Republike Hrvatske, ministarstava i tijela državne uprave, te drugih tijela u postupku izvršenja presuda i odluka Europskog suda za ljudska prava u Republici Hrvatskoj i poslove suradnje s Odborom ministara Vijeća Europe u cilju izvršenja presuda i odluka Europskog suda, posebice poslove pripreme i sudjelovanja na sastancima Odbora ministara Vijeća Europe o izvršenju presuda Europskog suda za ljudska prava, poslove suradnje s Tajništvom Odbora ministara Vijeća Europe vezano za nadzor izvršenja, praćenje promjena i razvoja metoda rada Odbora ministara Vijeća Europe u tom dijelu, te sekundiranja djelatnika Odjela po potrebi; izrađuje analize presuda i odluka Europskog suda za ljudska prava protiv Republike Hrvatske; prati praksu Odbora ministara Vijeća Europe o izvršenju presuda Europskog suda za ljudska prava u odnosu na druge države; pribavlja, objedinjava i stručno obrađuje podatke nadležnih tijela i druge potrebne podatke radi izrade dokumenta iz nadležnosti Odjela; izrađuje komparativne analize relevantnih pitanja radi procjene učinaka na postupke izvršenja presuda Europskog suda za ljudska prava protiv Republike Hrvatske; priprema mišljenja o mogućim načinima izvršenja presuda Europskog suda za ljudska prava u odnosu na domaće zakonodavstvo i sudsku praksu; izrađuje nacrte akcijskih planova i akcijskih izvješća Republike Hrvatske o izvršenju pojedinih presuda ili grupa presuda Europskog suda za ljudska prava; organizira sastanke Stručnog savjeta za izvršenje presuda i odluka Europskog suda za ljudska prava; poduzima mjere za ubrzanje postupaka izvršenja presuda i odluka Europskog suda za ljudska prava; prikuplja potrebnu dokumentaciju i surađuje s nadležnim tijelima radi osiguranja urednih i pravovremenih isplata na temelju presuda i odluka Europskog suda za ljudska prava i obavještava Odbor ministara Vijeća Europe o izvršenim isplatama; obavlja poslove pripreme izvješća iz nadležnosti Odjela.«.
+
+### Članak 7.
+
+Naslov iznad članka 9. i članak 9. mijenjaju se i glase:
+
+*»Odjel za praćenje sudske prakse Europskog suda za ljudska prava i drugih međunarodnih tijela u području ljudskih prava i usklađivanje propisa s Konvencijom za zaštitu ljudskih prava i temeljnih sloboda*
+
+### Članak 9.
+
+Odjel za praćenje sudske prakse Europskog suda za ljudska prava i drugih međunarodnih tijela u području ljudskih prava i usklađivanje propisa s Konvencijom za zaštitu ljudskih prava i temeljnih sloboda obavlja poslove stalnog praćenja razvoja sudske prakse Europskog suda za ljudska prava, Suda Europske unije, drugih međunarodnih sudova i tijela u području međunarodne zaštite ljudskih prava, te prakse drugih tijela za potrebe zastupanja Republike Hrvatske u postupcima pred Europskim sudom za ljudska prava i davanja mišljenja o usklađenosti zakona i drugih propisa Republike Hrvatske s Konvencijom i sudskom praksom Europskog suda za ljudska prava; analizira prijedloge zakona te drugih propisa i akata iz djelokruga Vlade Republike Hrvatske i priprema mišljenja o usklađenosti istih s Konvencijom i sudskom praksom Europskog suda za ljudska prava; surađuje sa zastupnicima drugih država/vlada u svrhu razmjene informacija o propisima, te upravnoj i sudskoj praksi, kao i u svrhu miješanja u sporove drugih država pred Europskim sudom za ljudska prava; surađuje s državnim tijelima i drugim institucijama radi širenja znanja o Konvenciji i konvencijskom sustavu zaštite ljudskih prava; obavlja poslove odabira, sažimanja i pripreme periodičnih publikacija o najvažnijoj praksi Europskog suda za ljudska prava; obavlja poslove pripreme izvješća iz nadležnosti Odjela.«.
+
+### Članak 8.
+
+Zastupnik može iznimno, ovisno o potrebama službe, za pojedine unutarnje ustrojstvene jedinice i za pojedine službenike, odrediti drukčiji raspored tjednog radnog vremena nego što je to propisano Uredbom o načelima za unutarnje ustrojstvo tijela državne uprave (»Narodne novine«, br. 154/11, 17/12 i 118/16).
+
+### Članak 9.
+
+Zastupnik može iznimno, ovisno o potrebama službe, za pojedine službenike odrediti rad na izdvojenom mjestima (rad na daljinu) u skladu s Uredbom o mogućnosti rada državnog službenika na izdvojenom mjestu i rada s nepunim radnim vremenom (»Narodne novine«, broj 33/06).
+
+### Članak 10.
+
+Okvirni broj službenika i namještenika Ureda prikazan u tablici koja je sastavni dio Uredbe o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava (»Narodne novine«, broj 18/12) zamjenjuje se Okvirnim brojem službenika i namještenika Ureda zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava sadržanim u tablici u prilogu ove Uredbe koja je njen sastavni dio.
+
+### Članak 11.
+
+Zastupnik, uz prethodnu suglasnost središnjeg tijela državne uprave nadležnog za službeničke odnose, uskladit će Pravilnik o unutarnjem redu Ureda zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava s odredbama ove Uredbe u roku od 30 dana od dana njezina stupanja na snagu.
+
+### Članak 12.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-03/57
+
+Urbroj: 50301-25/05-18-3
+
+Zagreb, 20. rujna 2018.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+OKVIRNI BROJ SLUŽBENIKA I NAMJEŠTENIKA UREDA ZASTUPNIKA REPUBLIKE HRVATSKE PRED EUROPSKIM SUDOM ZA LJUDSKA PRAVA
+
+| UNUTARNJE USTROJSTVENE JEDINICE UREDA | BROJ<br>SLUŽBENIKA<br>I NAMJEŠTENIKA |
+|---|---|
+| Izvan sastava ustrojstvenih jedinica (poslovi koji se obavljaju za cijeli Ured): – pomoćnik zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava – savjetnik – administrativni tajnik zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava – stručni referent | 4 |
+| Odjel za pripremu predmeta pred Europskim sudom za ljudska prava | 6 |
+| Odjel za koordinaciju izvršenja presuda i odluka Europskog suda za ljudska prava | 4 |
+| Odjel za praćenje sudske prakse Europskog suda za ljudska prava i drugih međunarodnih tijela u području ljudskih prava i usklađivanje propisa s Konvencijom za zaštitu ljudskih prava i temeljnih sloboda | 4 |
+| UKUPNO: | 18 |

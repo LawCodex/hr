@@ -6,11 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-21
+last_amended: 2026-05-08
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "76/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "76/13, 130/17, 39/19, 118/20, 48/26"
+amendments:
+  - "NN 130/2017 (2990) Zakon o izmjenama i dopunama Zakona o građevnim proizvodima"
+  - "NN 39/2019 (798) Zakon o izmjenama Zakona o građevnim proizvodima"
+  - "NN 118/2020 (2296) Zakon o izmjenama i dopunama Zakona o građevnim proizvodima"
+  - "NN 48/2026 (585) Zakon o izmjenama i dopunama Zakona o građevnim proizvodima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1523"
 retrieved: 2026-10-12
 ---
@@ -18,6 +23,8 @@ retrieved: 2026-10-12
 # Zakon o građevnim proizvodima
 
 > Izvor: Narodne novine, NN 76/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1523).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 130/2017, NN 39/2019, NN 118/2020, NN 48/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1402,3 +1409,1024 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o građevnim proizvodima (NN 130/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/130/2990*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O GRAĐEVNIM PROIZVODIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o građevnim proizvodima, koji je Hrvatski sabor donio na sjednici 15. prosinca 2017.
+
+Klasa: 011-01/17-01/127
+
+Urbroj 71-06-01/1-17-2
+
+Zagreb, 20. prosinca 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O GRAĐEVNIM PROIZVODIMA**
+
+### Članak 1.
+
+U Zakonu o građevnim proizvodima (»Narodne novine«, br. 76/13. i 30/14.) članak 2. mijenja se i glasi:
+
+»Ovim Zakonom osigurava se provedba sljedećih akata Europske unije:
+
+– Uredbe (EZ) br. 764/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju postupaka koji se odnose na primjenu određenih nacionalnih tehničkih propisa na proizvode koji se zakonito stavljaju na tržište u drugoj državi članici i o stavljanju izvan snage Odluke br. 3052/95/EZ Tekst značajan za EGP (SL L 218, 13. 8. 2008.) – u daljnjem tekstu: Uredba (EZ) br. 764/2008,
+
+– Uredbe (EZ) br. 765/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju zahtjeva za akreditaciju i za nadzor tržišta u odnosu na stavljanje proizvoda na tržište i o stavljanju izvan snage Uredbe (EEZ) br. 339/93 Tekst značajan za EGP (SL L 218, 13. 8. 2008.) – u daljnjem tekstu: Uredba (EZ) br. 765/2008,
+
+– Uredbe (EU) br. 305/2011,
+
+– Delegirane Uredbe Komisije (EU) br. 568/2014 оd 18. veljače 2014. o izmjeni Priloga V. Uredbe (EU) br. 305/2011 Europskog parlamenta i Vijeća u pogledu ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda (SL L 157, 27. 5. 2014.)
+
+– Delegirane Uredbe Komisije (EU) br. 574/2014 оd 21. veljače 2014. o izmjeni Priloga III. Uredbe (EU) br. 305/2011 Europskog parlamenta i Vijeća o predlošku za sastavljanje izjave o svojstvima građevnih proizvoda (SL L 159, 28. 5. 2014.).«.
+
+### Članak 2.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Rješenje o ispunjavanju zahtjeva iz članka 43. Uredbe (EU) br. 305/2011 donosi Ministarstvo po prethodno pribavljenom mišljenju Povjerenstva za građevne proizvode.
+
+(2) Rješenje iz stavka 1. ovoga članka može se donijeti za:
+
+– laboratorij,
+
+– laboratorij za radnje ocjenjivanja i provjere svojstava građevnih proizvoda u odnosu na bitne značajke: reakcije na požar, otpornosti na požar, svojstva prilikom vanjskog požara, akustična svojstva, odnosno emisija opasnih tvari,
+
+– tijelo za certificiranje kontrole tvorničke proizvodnje,
+
+– tijelo za certificiranje proizvoda.
+
+(3) Rješenjem iz stavka 2. podstavaka 1., 2. i 4. ovoga članka, a sukladno članku 46. stavku 1. Uredbe (EU) br. 305/2011, pravna osoba može biti posebno imenovana kao stručna za rad izvan svojih akreditiranih jedinica u skladu sa zahtjevima za prijavljena tijela propisanim pravilnikom iz članka 23. ovoga Zakona.
+
+(4) Protiv rješenja iz stavka 1. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+
+(5) Rješenje iz stavka 1. ovoga članka važi do njegova ukidanja.
+
+(6) Ako se u postupku provjeravanja ispunjavanja zahtjeva potrebnih za donošenje rješenja iz stavka 1. ovoga članka utvrdi da je riječ o podnositelju zahtjeva koji je već prijavljen Europskoj komisiji, a akreditacijski postupak prema građevnom proizvodu za koji se podnosi zahtjev je u tijeku, donijet će se privremeno rješenje.
+
+(7) Rješenje iz stavka 1. ovoga članka ukinut će se zbog prestanka ispunjavanja zahtjeva na temelju kojih je rješenje izdano.«.
+
+### Članak 3.
+
+Iza članka 13. dodaje se članak 13.a koji glasi:
+
+»Članak 13.a
+
+Prijavljena tijela iz članka 13. stavka 2. podstavaka 1., 3. i 4. ovoga Zakona provode sljedeće radnje u okviru zadaća treće strane u postupcima ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda za koje je doneseno rješenje:
+
+– laboratorij ocjenjuje svojstva građevnih proizvoda na temelju ispitivanja (utemeljenoga na uzorkovanju koje je proveo proizvođač), proračuna, tabličnih vrijednosti ili opisne dokumentacije građevnog proizvoda,
+
+– tijelo za certificiranje kontrole tvorničke proizvodnje donosi odluku o izdavanju, ograničenju, obustavi ili povlačenju certifikata o sukladnosti kontrole tvorničke proizvodnje na temelju ishoda sljedećih ocjenjivanja i provjera koje provodi to tijelo:
+
+1. početnog pregleda proizvodnog pogona i kontrole tvorničke proizvodnje,
+
+2. kontinuiranog nadzora, ocjenjivanja i vrednovanja kontrole tvorničke proizvodnje,
+
+– tijelo za certificiranje proizvoda donosi odluku o izdavanju, ograničenju, obustavi ili povlačenju certifikata o stalnosti svojstava proizvoda na temelju ishoda sljedećih ocjenjivanja i provjera koje to tijelo provodi:
+
+1. ocjenjivanja svojstava građevnog proizvoda koje se provodi na temelju ispitivanja (uključujući uzorkovanje), proračuna, tabličnih vrijednosti ili opisne dokumentacije proizvoda,
+
+2. početnog pregleda proizvodnog pogona i kontrole tvorničke proizvodnje,
+
+3. kontinuiranog nadzora, ocjenjivanja i vrednovanja kontrole tvorničke proizvodnje,
+
+4. ispitivanja slučajnih uzoraka koje prijavljeno tijelo za certificiranje proizvoda uzima u proizvodnom pogonu ili skladišnim prostorima proizvođača.«.
+
+### Članak 4.
+
+U članku 14. stavku 1. riječ: »pravomoćnosti« zamjenjuje se riječju: »izvršnosti«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Ako prijavljeno tijelo podnese tužbu na rješenje iz članka 13. ovoga Zakona, Ministarstvo pokreće postupak povlačenja prijave podnesene sukladno stavku 1. ovoga članka.
+
+(4) Ako zahtjev tijela koje je prijavljeno Europskoj komisiji na temelju privremenog rješenja iz članka 13. stavka 6. ovoga Zakona bude odbačen ili odbijen, Ministarstvo će nakon izvršnosti rješenja kojim je zahtjev odbačen ili odbijen pokrenuti postupak povlačenja prijave.«.
+
+### Članak 5.
+
+U članku 18. stavku 1. riječ: »pravomoćnosti« zamjenjuje se riječju: »izvršnosti«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ako imenovano tijelo podnese tužbu na rješenje iz članka 17. ovoga Zakona, Ministarstvo pokreće postupak povlačenja imenovanja podnesenog sukladno stavku 1. ovoga članka.«.
+
+### Članak 6.
+
+U članku 19. stavku 1. riječ: »pravomoćnosti« zamjenjuje se riječju: »izvršnosti«, a iza riječi: »s propisanim zahtjevima« stavlja se zarez i dodaju riječi: »kao i dokaze kojima prijavljeno tijelo dokazuje da i nadalje ispunjava zahtjeve na temelju kojih mu je doneseno rješenje iz članka 13. ovoga Zakona«.
+
+U stavku 2. riječ: »pravomoćnosti« zamjenjuje se riječju: »izvršnosti«, a iza riječi: »s propisanim zahtjevima« stavlja se zarez i dodaju riječi: »kao i dokaze kojima imenovano tijelo dokazuje da i nadalje ispunjava zahtjeve na temelju kojih mu je doneseno rješenje iz članka 17. ovoga Zakona«.
+
+U stavku 3. riječi: »tri radna dana« zamjenjuju se riječima: »15 dana«.
+
+### Članak 7.
+
+U članku 42. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ispitivanja koja su provedena tijekom izrade hrvatske tehničke ocjene radi utvrđivanja pojedinog svojstva ili bitne značajke građevnog proizvoda koji je predmetom izdane hrvatske tehničke ocjene, kao i rezultati istih radnji, prihvaćaju se u smislu provođenja zadaća treće strane u postupcima ocjenjivanja i provjere stalnosti svojstava toga građevnog proizvoda i ne treba ih ponavljati.«.
+
+### Članak 8.
+
+U članku 44. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Radnje ocjenjivanja i provjere stalnosti svojstava koje, ovisno o sustavu iz stavka 1. ovoga članka, provodi proizvođač su:
+
+– ocjenjivanje svojstava građevnog proizvoda na temelju ispitivanja (uključujući uzorkovanje), proračuna, tabličnih vrijednosti ili opisne dokumentacije tog proizvoda,
+
+– kontrola tvorničke proizvodnje,
+
+– daljnja ispitivanja uzoraka koje proizvođač uzima u proizvodnom pogonu u skladu s propisanim planom ispitivanja.
+
+(4) Radnje ocjenjivanja i provjere stalnosti svojstava koje, ovisno o sustavu iz stavka 1. ovoga članka, provodi odobreno tijelo su:
+
+– ocjenjivanje svojstava građevnog proizvoda koje se provodi na temelju ispitivanja (uključujući uzorkovanje), proračuna, tabličnih vrijednosti ili opisne dokumentacije tog proizvoda,
+
+– radnje ocjenjivanja i provjere svojstava građevnih proizvoda u odnosu na bitne značajke: reakcije na požar, otpornosti na požar, svojstva prilikom vanjskog požara, akustična svojstva, odnosno emisija opasnih tvari,
+
+– početni pregled proizvodnog pogona i kontrole tvorničke proizvodnje,
+
+– kontinuirani nadzor, ocjenjivanje i vrednovanje kontrole tvorničke proizvodnje,
+
+– ispitivanja slučajnih uzoraka koje odobreno tijelo uzima u pogonu ili skladišnim prostorima proizvođača.«.
+
+### Članak 9.
+
+U članku 45. stavku 3. riječ: »pravomoćnosti« zamjenjuje se riječju: »izvršnosti«.
+
+Stavak 5. briše se.
+
+Dosadašnji stavak 6. postaje stavak 5.
+
+### Članak 10.
+
+U članku 47. stavku 4. riječ: »pravomoćnosti« zamjenjuje se riječju: »izvršnosti«.
+
+Iza stavka 6. dodaju se stavci 7. do 10. koji glase:
+
+»(7) Ako se u postupku provjeravanja ispunjavanja zahtjeva potrebnih za donošenje rješenja iz stavka 1. ovoga članka utvrdi da je riječ o podnositelju zahtjeva koji već ima status odobrenog ili prijavljenog tijela za provođenje zadaća treće strane u postupcima ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda, a akreditacijski postupak prema građevnom proizvodu za koji se podnosi zahtjev je u tijeku, donijet će se privremeno rješenje.
+
+(8) Radnju u okviru zadaća treće strane prema izdanoj hrvatskoj tehničkoj ocjeni, donesenoj na temelju hrvatskog dokumenta za ocjenjivanje, može provesti odobreno ili prijavljeno tijelo koje ima rješenje iz stavka 1. ovoga članka ili rješenje iz članka 13. stavka 1. ovoga Zakona, i to za građevni proizvod ili skupinu građevnih proizvoda u koju skupinu spada i građevni proizvod koji je predmetom izdane hrvatske tehničke ocjene.
+
+(9) Odobreno, odnosno prijavljeno tijelo iz stavka 8. ovoga članka dužno je obavijestiti Ministarstvo najkasnije 15 dana prije početka te 15 dana nakon završetka provođenja radnji u okviru zadaća treće strane prema izdanoj hrvatskoj tehničkoj ocjeni, donesenoj na temelju hrvatskog dokumenta za ocjenjivanje. Uz obavijest o početku provođenja tih radnji odobreno, odnosno prijavljeno tijelo mora dostaviti rješenje i hrvatsku tehničku ocjenu iz stavka 8. ovoga članka.
+
+(10) Ministarstvo na svojim službenim internetskim stranicama objavljuje popis izdanih hrvatskih tehničkih ocjena i odobrenih ili prijavljenih tijela koja su provela radnje iz stavka 8. ovoga članka, kao i svaku promjenu s tim u vezi.«.
+
+### Članak 11.
+
+U članku 51. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ako odobreno tijelo prestane ispunjavati zahtjeve na temelju kojih je doneseno rješenje iz članka 47. ovoga Zakona, dužno je najkasnije u roku od 15 dana od dana izvršnosti rješenja o ukidanju ili djelomičnom ukidanju rješenja koje mu je doneseno o nastaloj situaciji obavijestiti proizvođače kod kojih je provodio zadaće treće strane, Ministarstvo i ministarstvo nadležno za gospodarstvo, i to na način propisan pravilnikom iz članka 55. ovoga Zakona.«.
+
+### Članak 12.
+
+U članku 54. stavci 3. i 4. brišu se.
+
+### Članak 13.
+
+U članku 55. podstavak 13. briše se.
+
+Dosadašnji podstavak 14. postaje podstavak 13.
+
+### Članak 14.
+
+Naslov iznad članka 61. mijenja se i glasi: »Ovlasti inspektora i poduzimanje mjera«.
+
+Članak 61. mijenja se i glasi:
+
+»(1) Nadležni inspektori imaju ovlasti na temelju ovoga Zakona:
+
+– zahtijevati od gospodarskih subjekata sve podatke i potrebnu dokumentaciju o ocjenjivanju i provjeri stalnosti svojstava te o sukladnosti građevnih proizvoda sa zahtjevima utvrđenim u Uredbi (EU) br. 305/2011, ovim Zakonom i propisima donesenim za provedbu ovoga Zakona,
+
+– provoditi odgovarajuće preglede i ispitivanja građevnih proizvoda radi utvrđivanja njihove sukladnosti s objavljenim svojstvima, sukladnosti s Uredbom (EU) br. 305/2011, ovim Zakonom te propisima donesenim za provedbu ovoga Zakona i nakon što su stavljeni na tržište ili na raspolaganje na tržištu,
+
+– besplatno uzimati uzorke proizvoda i dati ih na ispitivanje i ocjenu sukladnosti s objavljenim svojstvima te utvrditi njihovu sukladnost s Uredbom (EU) br. 305/2011, ovim Zakonom i propisima donesenim za provedbu ovoga Zakona.
+
+(2) Ako nadležni inspektor ne raspolaže potrebnim stručnim znanjem ili opremom za provedbu pregleda ili ispitivanja iz stavka 1. ovoga članka, provedbu tih radnji u okviru inspekcijskog nadzora može povjeriti stručnoj instituciji koja nije bila uključena u ispitivanje te ocjenjivanje i provjeru stalnosti svojstava istog građevnog proizvoda prije stavljanja na tržište ili na raspolaganje na tržištu.
+
+(3) Ako u provedbi inspekcijskog nadzora nadležni inspektor ima dovoljno razloga vjerovati da građevni proizvod obuhvaćen hrvatskom tehničkom specifikacijom ili usklađenom tehničkom specifikacijom nije u skladu sa svojstvima u odnosu na njegove bitne značajke, nadležni inspektor provjerava ispunjava li građevni proizvod zahtjeve s obzirom na objavljena svojstva te zahtjeve utvrđene Uredbom (EU) br. 305/2011, ovim Zakonom i propisima donesenim za provedbu ovoga Zakona.
+
+(4) Kada se tijekom provjere iz stavka 3. ovoga članka utvrdi da građevni proizvod nije u skladu sa zahtjevima s obzirom na njegova objavljena svojstva te sa zahtjevima utvrđenim Uredbom (EU) br. 305/2011, ovim Zakonom i propisima donesenim za provedbu ovoga Zakona, nadležni inspektor će zahtijevati, bez odgađanja, od gospodarskog subjekta koji građevni proizvod stavlja na tržište ili na raspolaganje na tržište da provede potrebne korektivne mjere (dragovoljne mjere) u primjerenom roku kako bi se građevni proizvod uskladio s propisanim zahtjevima ili da proizvod povuče s tržišta ili izvrši povrat od krajnjih korisnika, razmjerno prirodi ili vrsti rizika. Nadležni inspektor obavještava prijavljeno, odnosno odobreno tijelo o poduzetim aktivnostima ako je isto tijelo, u skladu s odgovarajućim sustavom ocjenjivanja, provelo zadaće treće strane za taj građevni proizvod.
+
+(5) Prije poduzimanja mjera ograničavanja (zabrana ili ograničavanje stavljanja na tržište ili na raspolaganje na tržištu građevnog proizvoda, povlačenje s tržišta ili povrat od krajnjih korisnika) gospodarskom subjektu omogućit će se izjašnjavanje u odgovarajućem roku ne kraćem od 10 dana, osim kada to nije moguće zbog hitnosti poduzimanja mjera radi zaštite zdravlja ili sigurnosti koja se odnosi na javne interese.
+
+(6) Ako gospodarski subjekt ne provede potrebne korektivne mjere u roku iz stavka 4. ovoga članka, nadležni inspektor će rješenjem gospodarskom subjektu koji građevni proizvod stavlja na tržište ili na raspolaganje na tržište:
+
+– zabraniti ili ograničiti stavljanje na tržište ili na raspolaganje na tržište građevnog proizvoda ili
+
+– narediti povlačenje građevnog proizvoda s tržišta ili povrat od krajnjih korisnika.
+
+(7) Ako u provedbi inspekcijskog nadzora utvrdi jednu od sljedećih nesukladnosti (formalne nesukladnosti), nadležni inspektor će od gospodarskog subjekta koji građevni proizvod stavlja na tržište ili na raspolaganje na tržište zahtijevati da provede korektivne mjere (dragovoljne mjere) kako bi se nesukladnosti otklonile u primjerenom roku:
+
+– na proizvod nije postavljena oznaka ili postavljena oznaka nije u skladu s člancima 8. ili 9. Uredbe (EU) br. 305/2011 ili u skladu s člankom 29. ovoga Zakona,
+
+– izjava o svojstvima nije sastavljena ili nije stavljena u skladu s člancima 4., 6. i 7. Uredbe (EU) br. 305/2011 ili u skladu s člancima 26. i 28. ovoga Zakona, uzimajući u obzir članak 5. Uredbe (EU) br. 305/2011 i članak 27. ovoga Zakona,
+
+– tehnička dokumentacija nije dostupna ili je nepotpuna ili
+
+– proizvod je bez propisanih tehničkih uputa, odnosno uputa i sigurnosnih obavijesti ili su one nepotpune ili ne prate proizvod.
+
+(8) Ako gospodarski subjekt ne otkloni nesukladnosti u primjerenom roku iz stavka 5. ovoga članka, nadležni inspektor će rješenjem gospodarskom subjektu koji proizvod stavlja na tržište ili na raspolaganje na tržištu zabraniti ili ograničiti stavljanje na tržište ili na raspolaganje na tržište građevnih proizvoda ili narediti povlačenje s tržišta.
+
+(9) Žalba izjavljena protiv rješenja nadležnog inspektora iz stavaka 6. i 8. ovoga članka ne odgađa izvršenja rješenja, a o njoj odlučuje tijelo određeno zakonom kojim se uređuju inspekcije u gospodarstvu.«.
+
+### Članak 15.
+
+U članku 66. stavku 1. podstavak 8. mijenja se i glasi:
+
+» – suprotno članku 47. stavku 4. ovoga Zakona počne obavljati zadaće treće strane, osim u slučaju propisanom u stavku 8. toga članka,«.
+
+### Članak 16.
+
+U članku 68. stavak 4. mijenja se i glasi:
+
+»(4) U slučaju iz stavka 1. ovoga članka, a u vezi s člankom 61. stavkom 7. ovoga Zakona, odnosno člankom 59. stavkom 1. Uredbe (EU) br. 305/2011, nadležni inspektor neće podnositi optužni prijedlog za proizvod s formalnom nesukladnošću ako gospodarski subjekt otkloni utvrđene nesukladnosti u primjerenom roku iz rješenja, osim ako ponovno utvrdi isti prekršaj.«.
+
+### Članak 17.
+
+(1) Dokumenti o provedenim radnjama ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda, izvještaji o ispitivanju, certifikati te izjave o svojstvima izdani u skladu sa Zakonom o građevnim proizvodima (»Narodne novine«, br. 76/13. i 30/14.) važe do isteka roka njihova trajanja i smatraju se dokumentima, izvještajima, certifikatima i izjavama izdanima prema odredbama ovoga Zakona.
+
+(2) Rješenja donesena u skladu s člankom 13. stavkom 1., člankom 17. stavkom 1., člankom 45. stavkom 1. i člankom 47. stavkom 1. Zakona o građevnim proizvodima (»Narodne novine«, br. 76/13. i 30/14.), važeća na dan stupanja na snagu ovoga Zakona, važeća su i smatraju se rješenjima izdanima prema odredbama ovoga Zakona.
+
+(3) Rješenja iz stavka 2. ovoga članka mogu se ukinuti zbog prestanka ispunjavanja zahtjeva na temelju kojih su rješenja dana.
+
+(4) Postupci započeti prema odredbama Zakona o građevnim proizvodima (»Narodne novine«, br. 76/13. i 30/14.) i propisima donesenima za provedbu toga Zakona dovršit će se prema odredbama toga Zakona.
+
+(5) Iznimno od stavka 4. ovoga članka, postupci započeti prema odredbama Zakona o građevnim proizvodima (»Narodne novine«, br. 76/13. i 30/14.) i propisima donesenim za provedbu toga Zakona do stupanja na snagu ovoga Zakona dovršit će se prema odredbama zakona koji je povoljniji za stranku po čijem je zahtjevu postupak započet, ako to stranka zatraži.
+
+### Članak 18.
+
+Ovaj Zakon notificiran je u skladu s Direktivom (EU) 2015/1535 Europskog parlamenta i Vijeća od 9. rujna 2015. o utvrđivanju postupka pružanja informacija u području tehničkih propisa i pravila o uslugama informacijskog društva (kodificirani tekst) (Tekst značajan za EGP).
+
+### Članak 19.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/135
+
+Zagreb, 15. prosinca 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o građevnim proizvodima (NN 39/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/39/798*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O GRAĐEVNIM PROIZVODIMA
+
+Proglašavam Zakon o izmjenama Zakona o građevnim proizvodima, koji je Hrvatski sabor donio na sjednici 5. travnja 2019.
+
+Klasa: 011-01/19-01/67
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 11. travnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O GRAĐEVNIM PROIZVODIMA**
+
+### Članak 1.
+
+U Zakonu o građevnim proizvodima (»Narodne novine«, br. 76/13., 30/14. i 130/17.) u članku 61. stavku 9. riječi: »uređuju inspekcije u gospodarstvu« zamjenjuju se riječima: »uređuje Državni inspektorat«.
+
+### Članak 2.
+
+U cijelom tekstu Zakona o građevnim proizvodima (»Narodne novine«, br. 76/13., 30/14. i 130/17.) riječi: »ministarstvo nadležno za gospodarstvo« u određenom padežu zamjenjuju se riječima: »Državni inspektorat« u odgovarajućem padežu.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/45  
+Zagreb, 5. travnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o građevnim proizvodima (NN 118/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/118/2296*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O GRAĐEVNIM PROIZVODIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o građevnim proizvodima, koji je Hrvatski sabor donio na sjednici 16. listopada 2020.
+
+Klasa: 011-01/20-01/92
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 22. listopada 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O GRAĐEVNIM PROIZVODIMA**
+
+### Članak 1.
+
+U Zakonu o građevnim proizvodima (»Narodne novine«, br. 76/13., 30/14., 130/17. i 39/19.) članak 1. mijenja se i glasi:
+
+»Ovim se Zakonom uređuju sustavi ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda, radnje koje u okviru ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda provode proizvođači građevnih proizvoda te prijavljena i odobrena tijela, dokumenti ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda, zahtjevi za prijavljena i odobrena tijela, postupak prijave, obveze prijavljenih i odobrenih tijela, obveze i zahtjevi za imenovanje tijela za tehničko ocjenjivanje i druga pitanja bitna za stavljanje na tržište ili stavljanje na raspolaganje na tržište građevnih proizvoda.«.
+
+### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»Ovim Zakonom osigurava se provedba sljedećih akata Europske unije:
+
+– Uredbe (EZ) br. 765/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju zahtjeva za akreditaciju i za nadzor tržišta u odnosu na stavljanje proizvoda na tržište i o stavljanju izvan snage Uredbe (EEZ) br. 339/93 (Tekst značajan za EGP) (SL L 218, 13. 8. 2008.) (u daljnjem tekstu: Uredba (EZ) br. 765/2008),
+
+– Uredbe (EU) br. 305/2011 Europskog parlamenta i Vijeća od 9. ožujka 2011. o utvrđivanju usklađenih uvjeta za stavljanje na tržište građevnih proizvoda i stavljanju izvan snage Direktive Vijeća 89/106/EEZ (Tekst značajan za EGP) (SL L 88, 4. 4. 2011.) (u daljnjem tekstu: Uredba (EU) br. 305/2011),
+
+– Delegirane uredbe Komisije (EU) br. 568/2014 оd 18. veljače 2014. o izmjeni Priloga V. Uredbi (EU) br. 305/2011 Europskog parlamenta i Vijeća u pogledu ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda (SL L 157, 27. 5. 2014.),
+
+– Delegirane uredbe Komisije (EU) br. 574/2014 оd 21. veljače 2014. o izmjeni Priloga III. Uredbi (EU) br. 305/2011 Europskog parlamenta i Vijeća o predlošku za sastavljanje izjave o svojstvima građevnih proizvoda (SL L 159, 28. 5. 2014.),
+
+– Uredbe (EU) 2019/515 Europskog parlamenta i Vijeća od 19. ožujka 2019. o uzajamnom priznavanju robe koja se zakonito stavlja na tržište u drugoj državi članici i stavljanju izvan snage Uredbe (EZ) br. 764/2008 (Tekst značajan za EGP) (SL L 91/1, 29. 3. 2019.) (u daljnjem tekstu: Uredba (EU) 2019/515),
+
+– Uredbe (EU) 2019/1020 Europskog parlamenta i Vijeća od 20. lipnja 2019. o nadzoru tržišta i sukladnosti proizvoda i o izmjeni Direktive 2004/42/EZ i uredbi (EZ) br. 765/2008 i (EU) br. 305/2011 (Tekst značajan za EGP) (SL L 169/1, 25. 6. 2019.) (u daljnjem tekstu: Uredba (EU) 2019/1020).«.
+
+### Članak 3.
+
+U članku 42. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Hrvatska tehnička ocjena donosi se s rokom važenja do donošenja usklađene tehničke specifikacije ili hrvatske norme ili do donošenja tehničkog propisa za građevni proizvod koji je predmetom izdane hrvatske tehničke ocjene.«.
+
+### Članak 4.
+
+U članku 54. stavak 1. mijenja se i glasi:
+
+»(1) Građevni proizvodi na koje se ne odnosi Uredba (EU) br. 305/2011, a zakonito su stavljeni na tržište u drugoj državi članici Europske unije ili Turskoj, ili građevni proizvodi koji su podrijetlom i zakonito stavljeni na tržište u državi EFTA-e koja je ugovorna stranka Sporazuma o EGP-u, smatraju se kompatibilnima u pogledu primjene Uredbe (EU) 2019/515 od 19. ožujka 2019. o uzajamnom priznavanju robe koja se zakonito stavlja na tržište u drugoj državi članici i stavljanju izvan snage Uredbe (EZ) br. 764/2008.«.
+
+Iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
+
+»(3) Ako gospodarski subjekt koji stavlja građevni proizvod iz stavka 1. ovoga članka na raspolaganje na tržište unutar granica Republike Hrvatske ne dostavi izjavu o uzajamnom priznavanju u skladu s Uredbom (EU) 2019/515, dostavlja dokumentaciju i informacije u skladu s člankom 5. stavcima 5. i 6. Uredbe (EU) 2019/515.
+
+(4) Izjava o uzajamnom priznavanju te dokumentacija i informacije iz stavka 3. ovoga članka moraju biti pisane na hrvatskom jeziku latiničnim pismom.
+
+(5) Postupci i pravila u smislu primjene Uredbe (EU) 2019/515, a koji se odnose na stavljanje na raspolaganje na tržište unutar granica Republike Hrvatske na proizvode iz stavka 1. ovoga članka, propisuju se pravilnikom iz članka 55. ovoga Zakona.«.
+
+### Članak 5.
+
+U članku 55. iza podstavka 13. na kraju rečenice umjesto točke stavlja se zarez i dodaje se podstavak 14. koji glasi:
+
+» – postupke i pravila za utvrđivanje jesu li građevni proizvodi u neusklađenom području, a koji se stavljaju na raspolaganje na tržište na području Republike Hrvatske, zakonito stavljeni na tržište države članice iz koje se distribuiraju i jesu li javni interesi Republike Hrvatske adekvatno zaštićeni u skladu s člankom 36. Ugovora o funkcioniranju Europske unije.«.
+
+### Članak 6.
+
+U članku 58. stavku 1. iza riječi: »za provedbu ovoga Zakona« dodaju se riječi: »te Uredbe (EU) br. 305/2011«.
+
+U stavku 2. iza riječi: »za provedbu ovoga Zakona« dodaju se riječi: »te Uredbe (EU) br. 305/2011«.
+
+### Članak 7.
+
+Članak 59. briše se.
+
+### Članak 8.
+
+U članku 61. stavku 8. riječi: »iz stavka 5. ovoga članka« zamjenjuju se riječima: »iz stavka 7. ovoga članka«.
+
+### Članak 9.
+
+U članku 63. riječi: »člancima 27. do 29. Uredbe (EZ) br. 765/2008« zamjenjuju se riječima: »člancima 25. do 28. Uredbe (EU) 2019/1020«.
+
+### Članak 10.
+
+U članku 69. stavku 1. iza podstavka 11. na kraju rečenice umjesto točke stavlja se zarez i dodaju se podstavci 12., 13. i 14. koji glase:
+
+» – suprotno članku 54. stavku 2. ovoga Zakona ne osigura prateću dokumentaciju s propisanim podacima,
+
+– suprotno članku 54. stavku 3. ovoga Zakona ne dostavi na zahtjev nadležnog inspektora izjavu o uzajamnom priznavanju odnosno dokumentaciju i informacije u skladu s člankom 5. stavcima 5. i 6. Uredbe (EU) 2019/515,
+
+– suprotno članku 54. stavku 4. ovoga Zakona ne osigura na hrvatskom jeziku latiničnim pismom izjavu o uzajamnom priznavanju odnosno dokumentaciju i informacije.«.
+
+### Članak 11.
+
+Hrvatska tehnička ocjena važeća na dan stupanja na snagu ovoga Zakona, a za koju se utvrdi da za građevni proizvod koji je predmetom izdane hrvatske tehničke ocjene nije donesena usklađena tehnička specifikacija niti hrvatska norma niti tehnički propis, smatra se hrvatskom tehničkom ocjenom donesenom u skladu s rokom važenja iz članka 3. ovoga Zakona.
+
+### Članak 12.
+
+Ministar će pravilnik iz članka 4. ovoga Zakona donijeti u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 13.
+
+Ovaj Zakon notificiran je u skladu s Direktivom (EU) 2015/1535 Europskog parlamenta i Vijeća od 9. rujna 2015. o utvrđivanju postupka pružanja informacija u području tehničkih propisa i pravila o uslugama informacijskog društva (kodificirani tekst) (Tekst značajan za EGP).
+
+### Članak 14.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 9. ovoga Zakona koji stupa na snagu 16. srpnja 2021.
+
+Klasa: 022-03/20-01/102
+
+Zagreb, 16. listopada 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o građevnim proizvodima (NN 48/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/48/585*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O GRAĐEVNIM PROIZVODIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o građevnim proizvodima, koji je Hrvatski sabor donio na sjednici 30. travnja 2026.
+
+Klasa: 011-02/26-02/37  
+Urbroj: 71-10-01/1-26-2  
+Zagreb, 5. svibnja 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O GRAĐEVNIM PROIZVODIMA**
+
+### Članak 1.
+
+U Zakonu o građevnim proizvodima (»Narodne novine«, br. 76/13., 30/14., 130/17., 39/19. i 118/20.) u članku 1. iza riječi: »u okviru ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda« dodaju se riječi: »te u okviru ocjenjivanja i provjere građevnih proizvoda«.
+
+### Članak 2.
+
+U članku 2. iza podstavka 6. umjesto točke stavlja se zarez i dodaje se podstavak 7. koji glasi:
+
+» – Uredbe (EU) 2024/3110 Europskog parlamenta i Vijeća od 27. studenoga 2024. o utvrđivanju usklađenih pravila za stavljanje na tržište građevnih proizvoda i stavljanju izvan snage Uredbe (EU) br. 305/2011 (Tekst značajan za EGP) (SL L, 2024/3110 18. 12. 2024.) (u daljnjem tekstu: Uredba (EU) 2024/3110).«.
+
+### Članak 3.
+
+U članku 3. stavku 1. iza riječi: »Uredbi (EU) br. 305/2011« dodaju se riječi: »te u Uredbi (EU) 2024/3110«.
+
+U stavku 2. iza riječi: »Uredba (EU) br. 305/2011« dodaju se riječi: »i Uredba (EU) 2024/3110«, a iza riječi: »Uredbom (EU) br. 305/2011« dodaju se riječi: »i Uredbom (EU) 2024/3110«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) U svrhu provedbe Uredbe (EU) 2024/3110 riječi: »Nadležna nacionalna tijela« imaju značenje:
+
+– »nadležna nacionalna tijela« imaju značenje riječi: »Ministarstvo i Državni inspektorat«,
+
+– »tijelo za nadzor tržišta« imaju značenje riječi: »Državni inspektorat«.«.
+
+### Članak 4.
+
+U članku 4. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Nadležno tijelo za provedbu Uredbe (EU) 2024/3110 i ovoga Zakona je Ministarstvo.
+
+(4) Uredbom o unutarnjem ustrojstvu i Pravilnikom o unutarnjem redu Ministarstva osigurava se ispunjavanje zahtjeva iz članaka 39., 44. i 72. Uredbe (EU) 2024/3110 i drugih zahtjeva za provedbu ovoga Zakona.«.
+
+### Članak 5.
+
+U članku 5. ispred riječi: »U provedbi« stavlja se oznaka stavka: »(1)«
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) U provedbi Uredbe (EU) 2024/3110 Ministarstvo je:
+
+– kontaktna točka za građevne proizvode,
+
+– tijelo koje podnosi prijavu,
+
+– tijelo nadležno za imenovanje TAB-a,
+
+– član Stručne skupine za pravnu stečevinu Uredbe o građevnim proizvodima iz članka 4. Uredbe (EU) 2024/3110 i
+
+– član Odbora za građevne proizvode iz članka 90. Uredbe (EU) 2024/3110.«.
+
+### Članak 6.
+
+U članku 7. stavku 1. iza riječi: »članka 64. Uredbe (EU) br. 305/2011« dodaju se riječi: »i u Odboru za građevne proizvode iz članka 90. Uredbe (EU) 2024/3110«.
+
+### Članak 7.
+
+U članku 9. stavak 3. briše se.
+
+### Članak 8.
+
+Naziv GLAVE II. iznad članka 11. mijenja se i glasi: »PROVEDBA UREDBE (EU) BR. 305/2011 I UREDBE (EU) 2024/3110 – USKLAĐENO PODRUČJE«.
+
+### Članak 9.
+
+U članku 11. iza riječi: »Uredbe (EU) br. 305/2011« dodaju se riječi: »i Uredbe (EU) 2024/3110«.
+
+### Članak 10.
+
+Naslov iznad članka 12. mijenja se i glasi: »Postupak provjeravanja ispunjavanja zahtjeva za prijavljena tijela prema Uredbi (EU) br. 305/2011«.
+
+### Članak 11.
+
+Iza članka 13.a dodaju se naslovi iznad članaka i članci 13.b, 13.c i 13.d koji glase:
+
+*»Postupak provjeravanja ispunjavanja zahtjeva za tijela za ocjenjivanje sukladnosti prema Uredbi (EU) 2024/3110*
+
+### Članak 13.b
+
+(1) Za provedbu zadaća treće strane u procesu ocjenjivanja i provjere pravna osoba podnosi zahtjev Ministarstvu u skladu s člankom 50. Uredbe (EU) 2024/3110.
+
+(2) Nakon zaprimanja zahtjeva iz stavka 1. ovoga članka Ministarstvo provjerava ispunjavanje zahtjeva iz članka 46. Uredbe (EU) 2024/3110.
+
+(3) Tijela za ocjenjivanje sukladnosti dokazuju ispunjavanje zahtjeva iz članka 46. Uredbe (EU) 2024/3110 potvrdom o akreditaciji izdanom od nacionalnog akreditacijskog tijela i priloženom dokumentacijom.
+
+*Rješenje o ispunjavanju zahtjeva*
+
+### Članak 13.c
+
+(1) Rješenje o ispunjavanju zahtjeva iz članka 46. Uredbe (EU) 2024/3110 donosi Ministarstvo po prethodno pribavljenom mišljenju Povjerenstva za građevne proizvode.
+
+(2) Rješenje iz stavka 1. ovoga članka može se donijeti za:
+
+– ispitni laboratorij,
+
+– ispitni laboratorij za radnje ocjenjivanja i provjere u odnosu na bitne značajke: reakcije na požar, otpornosti na požar, svojstva pri vanjskom požaru, apsorpcije buke, ispuštanje i sadržaj opasnih tvari odnosno okolišne održivosti,
+
+– tijelo za validaciju ocjenjivanja,
+
+– tijelo za certificiranje kontrole tvorničke proizvodnje i/ili
+
+– tijelo za certificiranje proizvoda.
+
+(3) Rješenjem iz stavka 2. podstavaka 1., 2. i 5. ovoga članka, a sukladno članku 49. stavku 1. Uredbe (EU) 2024/3110, pravna osoba može biti posebno imenovana kao stručna za rad izvan svojih akreditiranih jedinica u skladu sa zahtjevima za prijavljena tijela.
+
+(4) Ako se u postupku provjeravanja ispunjavanja zahtjeva potrebnih za donošenje rješenja iz stavka 1. ovoga članka utvrdi da je riječ o podnositelju zahtjeva koji je već prijavljen Europskoj komisiji, a akreditacijski postupak prema građevnom proizvodu za koji se podnosi zahtjev je u tijeku, donosi se privremeno rješenje.
+
+(5) Rješenje iz stavka 1. ovoga članka ukida se rješenjem zbog prestanka ispunjavanja zahtjeva na temelju kojih je rješenje doneseno.
+
+(6) Protiv rješenja iz stavaka 1., 4. i 5. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+
+(7) Rješenje iz stavka 1. ovoga članka može se na zahtjev prijavljenog tijela izmijeniti u dijelu koji se odnosi na odgovornu osobu.
+
+*Radnje u okvira zadaća treće strane*
+
+### Članak 13.d
+
+Prijavljena tijela iz članka 13.c stavka 2. podstavaka 1., 3., 4. i 5. ovoga Zakona provode sljedeće radnje u okviru zadaća treće strane u postupcima ocjenjivanja i provjere za koje je doneseno rješenje:
+
+– ispitni laboratorij donosi odluku o izdavanju, ograničavanju, suspenziji ili povlačenju certifikata o svojstvima i sukladnosti proizvoda na temelju:
+
+1. ocjene svojstva na temelju ispitivanja koje je proveo prijavljeni laboratorij za ispitivanje (temelji se na uzorkovanju koje provodi proizvođač), izračuna, tabličnih vrijednosti ili dokumentacije kojom se opisuje proizvod i
+
+2. potvrde da su ispravno određene vrsta proizvoda i kategorija proizvoda,
+
+– tijelo za validaciju ocjenjivanja donosi odluku o izdavanju, ograničavanju, suspenziji ili povlačenju izvješća o validaciji na temelju:
+
+1. validacije ulaznih vrijednosti, postavljenih pretpostavki i usklađenosti s primjenjivim generičkim ili posebnim pravilima za kategoriju proizvoda,
+
+2. validacije proizvođačevog ocjenjivanja,
+
+3. validacije postupka primijenjenog u tom ocjenjivanju,
+
+4. validacije ispravne uporabe softvera prikladnog za ocjenjivanje i
+
+5. početne inspekcije proizvodnog pogona za validaciju eventualnih podataka specifičnih za društvo,
+
+– tijelo za certificiranje kontrole tvorničke proizvodnje donosi odluku o izdavanju, ograničavanju, suspenziji ili povlačenju certifikata o sukladnosti tvorničke proizvodnje na temelju:
+
+1. potvrde da su ispravno određene vrste proizvoda i kategorija proizvoda te da su svojstva proizvoda ispravno ocijenjena na temelju pregleda dokumentacije proizvoda,
+
+2. početne inspekcije proizvodnog pogona i kontrole tvorničke proizvodnje,
+
+3. kontinuiranog nadzora, ocjenjivanja i vrednovanja kontrole tvorničke proizvodnje, uključujući periodične inspekcije proizvodnog pogona, i
+
+4. potpune provjere radnji koje provodi proizvođač:
+
+a) izrade tehničke dokumentacije koja sadržava dokaz o ispravnoj primjeni Uredbe (EU) 2024/3110 u pogledu ocjenjivanja svojstava i
+
+b) izrade tehničke dokumentacije koja sadržava dokaz o sukladnosti s primjenjivim zahtjevima za proizvode na temelju Uredbe (EU) 2024/3110,
+
+– tijelo za certificiranje proizvoda donosi odluku o izdavanju, ograničavanju, suspenziji ili povlačenju certifikata o stalnosti svojstava i sukladnosti proizvoda na temelju:
+
+1. potvrde da su ispravno određene vrsta i kategorija proizvoda,
+
+2. ocjenjivanja svojstava proizvoda na temelju ispitivanja tipa (uključujući uzorkovanje predmeta koji se smatraju reprezentativnima za taj tip), izračuna tipa ili tabličnih vrijednosti ili dokumentacije s opisom proizvoda,
+
+3. početne inspekcije proizvodnog pogona i kontrole tvorničke proizvodnje,
+
+4. kontinuiranog nadzora, ocjenjivanja i vrednovanja kontrole tvorničke proizvodnje, uključujući periodične inspekcije proizvodnog pogona
+
+5. revizijskog ispitivanja uzoraka uzetih prije stavljanja proizvoda na tržište i
+
+6. potpune provjere radnji koje provodi proizvođač:
+
+a) izrade tehničke dokumentacije koja sadržava dokaz o ispravnoj primjeni Uredbe (EU) 2024/3110 u pogledu ocjenjivanja svojstava i
+
+b) izrade tehničke dokumentacije koja sadržava dokaz o sukladnosti s primjenjivim zahtjevima za proizvode na temelju Uredbe (EU) 2024/3110.«.
+
+### Članak 12.
+
+Iza članka 15. dodaju se članci 15.a i 15.b koji glase:
+
+»Članak 15.a
+
+(1) Nakon izvršnosti rješenja iz članka 13.c ovoga Zakona Ministarstvo podnosi prijavu Europskoj komisiji i drugim državama članicama u skladu s člankom 51. Uredbe (EU) 2024/3110.
+
+(2) Ako prijavljeno tijelo podnese tužbu na rješenje iz članka 13.c ovoga Zakona, Ministarstvo pokreće postupak povlačenja prijave podnesene sukladno stavku 1. ovoga članka.
+
+(3) Ako zahtjev tijela koje je prijavljeno Europskoj komisiji na temelju privremenog rješenja iz članka 13.c stavka 4. ovoga Zakona bude odbačen ili odbijen, Ministarstvo će nakon izvršnosti rješenja kojim je zahtjev odbačen ili odbijen pokrenuti postupak povlačenja prijave.
+
+### Članak 15.b
+
+Ministarstvo omogućuje da prijavljena tijela sudjeluju u radu grupe iz članka 58. Uredbe (EU) 2024/3110, izravno ili putem imenovanih predstavnika, ili omogućuje da su predstavnici prijavljenih tijela informirani o tom radu.«.
+
+### Članak 13.
+
+Naslov iznad članka 16. mijenja se i glasi: »Postupak provjeravanja ispunjavanja zahtjeva za imenovanje TAB-ova prema Uredbi (EU) br. 305/2011«.
+
+### Članak 14.
+
+Iza članka 18. dodaju se naslovi iznad članaka i članci 18.a, 18.b i 18.c koji glase:
+
+*»Postupak provjeravanja ispunjavanja zahtjeva za imenovanje TAB-ova prema Uredbi (EU) 2024/3110*
+
+### Članak 18.a
+
+(1) Za imenovanje TAB-om i provedbu ocjenjivanja i izdavanja Europske tehničke ocjene za jedno ili više područja proizvoda iz Priloga VII. Uredbe (EU) 2024/3110 pravna osoba podnosi zahtjev Ministarstvu s priloženom dokumentacijom.
+
+(2) Nakon zaprimanja zahtjeva iz stavka 1. ovoga članka Ministarstvo provjerava ispunjavanje zahtjeva iz Priloga VIII. Uredbe (EU) 2024/3110.
+
+*Rješenje o ispunjavanju propisanih zahtjeva i imenovanju*
+
+### Članak 18.b
+
+(1) O ispunjavanju propisanih zahtjeva i imenovanju TAB-om Ministarstvo po prethodno pribavljenom mišljenju Povjerenstva za građevne proizvode donosi rješenje.
+
+(2) Rješenje iz stavka 1. ovoga članka donosi se za provedbu ocjenjivanja i izdavanja europske tehničke ocjene za jedno ili više područja proizvoda iz Priloga VII. Uredbe (EU) 2024/3110.
+
+(3) Rješenje iz stavka 1. ovoga članka ukida se rješenjem zbog prestanka ispunjavanja zahtjeva na temelju kojih je rješenje doneseno.
+
+(4) Protiv rješenja iz stavaka 1. i 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+
+(5) Rješenje iz stavka 1. ovoga članka može se na zahtjev imenovanog tijela izmijeniti u dijelu koji se odnosi na odgovornu osobu.
+
+*Dostava podataka o imenovanju*
+
+### Članak 18.c
+
+(1) Nakon izvršnosti rješenja iz članka 18.b ovoga Zakona Ministarstvo dostavlja Europskoj komisiji i drugim državama članicama podatke sukladno članku 39. stavku 1. Uredbe (EU) 2024/3110.
+
+(2) Ako imenovano tijelo podnese tužbu na rješenje iz članka 18.b ovoga Zakona, Ministarstvo pokreće postupak povlačenja imenovanja podnesenog sukladno stavku 1. ovoga članka.«.
+
+### Članak 15.
+
+U članku 19. stavci 1., 2. i 3. mijenjaju se i glase:
+
+»(1) Prijavljeno tijelo dužno je redovito, jedanput godišnje od dana izvršnosti rješenja iz članka 13. odnosno 13.c ovoga Zakona, a na pisani zahtjev Ministarstva i češće, izvještavati Ministarstvo o provedbi zadaća treće strane u procesu ocjenjivanja i provjere stalnosti svojstava odnosno u procesu ocjenjivanja i provjere te uz izvještaj dostavljati dokaze potrebne za provjeru, priznavanje i redoviti nadzor usklađenosti s propisanim zahtjevima, kao i dokaze kojima prijavljeno tijelo dokazuje da i nadalje ispunjava zahtjeve na temelju kojih je doneseno rješenje iz članka 13. odnosno 13.c ovoga Zakona.
+
+(2) Imenovano tijelo dužno je redovito, jedanput godišnje od dana izvršnosti rješenja iz članka 17. odnosno 18.b ovoga Zakona, a na pisani zahtjev Ministarstva i češće, izvještavati Ministarstvo o provedbi ocjenjivanja i izdavanja europskih tehničkih ocjena za područje proizvoda za koje je imenovano te uz izvještaj dostavljati dokaze potrebne za provjeru, priznavanje i redoviti nadzor usklađenosti s propisanim zahtjevima, kao i dokaze kojima imenovano tijelo dokazuje da i nadalje ispunjava zahtjeve na temelju kojih je doneseno rješenje iz članka 17. odnosno članka 18.b ovoga Zakona.
+
+(3) Ako prijavljeno tijelo odnosno imenovano tijelo prestane ispunjavati zahtjeve na temelju kojih je doneseno rješenje iz članka 13. ili članka 13.c ili članka 17. odnosno članka 18.b ovoga Zakona, dužno je bez odgode obavijestiti Ministarstvo o prestanku ispunjavanja zahtjeva, a najkasnije u roku od 15 dana od dana prestanka ispunjavanja zahtjeva.«.
+
+### Članak 16.
+
+U članku 20. stavku 3. riječi: »članka 13. ili 17.« zamjenjuju se riječima: »članka 13., 13.c, 17. ili 18.b«.
+
+### Članak 17.
+
+Naslov iznad članka 21. mijenja se i glasi: »Označavanje i uputa građevnog proizvoda prema Uredbi (EU) br. 305/2011«.
+
+### Članak 18.
+
+Iza članka 22. dodaju se naslovi iznad članaka i članci 22.a i 22.b koji glase:
+
+*»Označavanje i uputa građevnog proizvoda prema Uredbi (EU) 2024/3110*
+
+### Članak 22.a
+
+(1) Proizvođač sastavlja izjavu o svojstvima i sukladnosti sukladno člancima 13., 15. i 16. Uredbe (EU) 2024/3110 sa sadržajem napisanim na hrvatskom jeziku latiničnim pismom.
+
+(2) Na građevni proizvod za koji je proizvođač sastavio izjavu o svojstvima i sukladnosti postavlja se oznaka CE sukladno člancima 17. i 18. Uredbe (EU) 2024/3110, sa sadržajem napisanim na hrvatskom jeziku latiničnim pismom.
+
+(3) Odredba stavka 2. ovoga članka ne isključuje mogućnost stavljanja oznake CE i na drugim jezicima i pismima.
+
+*Jezik i pismo informacija i uputa za uporabu*
+
+### Članak 22.b
+
+Opće informacije o proizvodu, upute za uporabu i informacije o sigurnosti koje se prilažu uz građevni proizvod sastavljaju se sukladno članku 9. i Prilogu IV. Uredbe (EU) 2024/3110, sa sadržajem napisanim na hrvatskom jeziku latiničnim pismom.«.
+
+### Članak 19.
+
+U članku 23. iza podstavka 3. dodaje se novi podstavak 4. koji glasi:
+
+» – dokumentaciju koja se prilaže zahtjevima iz članka 13.b stavaka 1. i 3. i članka 18.a stavka 1. ovoga Zakona,«.
+
+Dosadašnji podstavci 4., 5. i 6. postaju podstavci 5., 6. i 7.
+
+### Članak 20.
+
+Naziv Glave IV. iznad članka 56. mijenja se i glasi: »NADZOR, PRAĆENJE PROVEDBE UREDBE (EU) BR. 305/2011, UREDBE (EU) 2024/3110, OVOGA ZAKONA I INSPEKCIJSKI NADZOR«.
+
+### Članak 21.
+
+U članku 58. stavku 1. iza riječi: »propisa donesenih za provedbu ovoga Zakona« stavlja se zarez i dodaju se riječi: »Uredbe (EU) 2024/3110«.
+
+U stavku 2. iza riječi: »propisa donesenih za provedbu ovoga Zakona« stavlja se zarez i dodaju se riječi: »Uredbe (EU) 2024/3110«, a iza riječi: »inspektori rada« briše se zarez i riječi: »sanitarni inspektori«.
+
+### Članak 22.
+
+U članku 61. stavku 1. podstavku 1. iza riječi: »ocjenjivanju i provjeri stalnosti svojstava« dodaju se riječi: »odnosno ocjenjivanju i provjeri«, a iza riječi: »Uredbi (EU) br. 305/2011,« dodaju se riječi: »u skladu s Uredbom (EU) 2024/3110,«.
+
+U podstavku 2. iza riječi: »Uredbom (EU) br. 305/2011,« dodaju se riječi: »Uredbom (EU) 2024/3110,«.
+
+U podstavku 3. iza riječi: »Uredbom (EU) br. 305/2011,« dodaju se riječi: »Uredbom (EU) 2024/3110,« te se na kraju rečenice umjesto točke stavlja zarez.
+
+Iza podstavka 3. dodaje se podstavak 4. koji glasi:
+
+» – za sve proizvode obuhvaćene Uredbom (EU) 2024/3110 naložiti internetskoj platformi za trgovanje u skladu s člankom 9. Uredbe (EU) 2022/2065 Europskog parlamenta i Vijeća od 19. listopada 2022. o jedinstvenom tržištu digitalnih usluga i izmjeni Direktive 2000/31/EZ Europskog parlamenta i Vijeća od 8. lipnja 2000. o određenim pravnim aspektima usluga informacijskog društva na unutarnjem tržištu, posebno elektroničke trgovine (Direktiva o elektroničkoj trgovini), da sa svojeg internetskog sučelja ukloni određeni nezakoniti sadržaj koji se odnosi na nesukladni proizvod, da mu onemogući pristup ili da se krajnjim korisnicima prikaže izričito upozorenje kad pristupaju tom proizvodu.«.
+
+U stavku 2. iza riječi: »ocjenjivanje i provjeru stalnosti svojstava« dodaju se riječi: »odnosno ocjenjivanje i provjeru«.
+
+U stavku 3. iza riječi: »Uredbom (EU) br. 305/2011,« dodaju se riječi: »odnosno Uredbom (EU) 2024/3110,«.
+
+U stavku 4. iza riječi: »Uredbom (EU) br. 305/2011,« dodaju se riječi: »odnosno Uredbom (EU) 2024/3110,«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Ako u provedbi inspekcijskog nadzora utvrdi jednu od sljedećih nesukladnosti, odnosno formalne nesukladnosti, nadležni inspektor će od gospodarskog subjekta koji građevni proizvod stavlja na tržište ili na raspolaganje na tržište zahtijevati da provede korektivne mjere odnosno dragovoljne mjere kako bi se nesukladnosti otklonile u primjerenom roku:
+
+– na proizvod nije postavljena oznaka ili postavljena oznaka nije u skladu s člancima 17. i 18. Uredbe (EU) br. 2024/3110,
+
+– izjava o svojstvima i sukladnosti nije sastavljena ili nije stavljena u skladu s člancima 13., 15. i 16. Uredbe (EU) br. 2024/3110, uzimajući u obzir članak 14. Uredbe (EU) br. 2024/3110,
+
+– tehnička dokumentacija nije dostupna ili je nepotpuna ili
+
+– proizvod je bez propisanih općih informacija o proizvodu, uputa za uporabu i informacija o sigurnosti ili su one nepotpune ili ne prate proizvod.«.
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+U dosadašnjem stavku 9., koji postaje stavak 10., riječi: »stavaka 6. i 8.« zamijenjuju se riječima: »stavaka 6. i 9.«.
+
+### Članak 23.
+
+U članku 65. stavku 1. iza riječi: »Uredbe (EU) br. 305/2011« dodaju se riječi: »odnosno postupanje u skladu s člancima 65. do 68. Uredbe (EU) 2024/3110«.
+
+### Članak 24.
+
+U članku 66. stavku 1. riječi: »30.000,00 do 60.000,00 kuna« zamjenjuju se riječima: »5000,00 do 10.000,00 eura«.
+
+Podstavak 1. mijenja se i glasi:
+
+» – suprotno člancima 13.a i 13.d ovoga Zakona provodi radnje u okviru zadaća treće strane u postupcima ocjenjivanja i provjere stalnosti svojstava građevnih proizvoda za koje nije prijavljeno,«.
+
+Iza podstavka 15. umjesto točke stavlja se zarez i dodaju se podstavci 16. do 21. koji glase:
+
+» – suprotno članku 51. stavku 5. Uredbe (EU) 2024/3110 počne obavljati aktivnosti prijavljenog tijela za koje nije prijavljeno,
+
+– suprotno članku 37. stavku 1. i članku 31. stavku 6. Uredbe (EU) 2024/3110 izda europsku tehničku ocjenu nakon povlačenja upućivanja na europski dokument za ocjenjivanje iz Službenog lista Europske unije,
+
+– suprotno članku 40. stavku 1. Uredbe (EU) 2024/3110 provodi ocjenjivanje porodica proizvoda za koje nije imenovan,
+
+– suprotno članku 48. stavku 1. Uredbe (EU) 2024/3110 ne osigura da podugovaratelj ili društvo kći ispunjavaju sve zahtjeve iz članka 46. Uredbe (EU) 2024/3110 i o tome ne obavijesti Ministarstvo,
+
+– suprotno članku 49. Uredbe (EU) 2024/3110 provodi ispitivanja izvan svojih akreditiranih jedinica,
+
+– suprotno članku 56. Uredbe (EU) 2024/3110 ne dostavi obavijest i podatke Ministarstvu i/ili Državnom inspektoratu odnosno drugim prijavljenim tijelima.«.
+
+U stavku 2. riječi: »3.000,00 do 6.000,00 kuna« zamjenjuju se riječima: »500,00 do 1000,00 eura«.
+
+### Članak 25.
+
+U članku 67. stavku 1. riječi: »50.000,00 do 200.000,00 kuna« zamjenjuju se riječima: »9000,00 do 36.000,00 eura«.
+
+Iza podstavka 9. umjesto točke stavlja se zarez i dodaju se podstavci 10. do 13. koji glase:
+
+» – suprotno članku 33. Uredbe (EU) 2024/3110 izda europsku tehničku ocjenu,
+
+– suprotno člancima 59., 60. i 61. Uredbe (EU) 2024/3110 primijeni pojednostavljene postupke pri ocjenjivanju i provjeri građevnih proizvoda,
+
+– suprotno članku 55. stavcima 1. i 2. Uredbe (EU) 2024/3110 provodi ocjenjivanja i provjere,
+
+– suprotno članku 55. stavcima 3. do 6. Uredbe (EU) 2024/3110 ne zatraži od proizvođača poduzimanje prikladnih korektivnih mjera te izda certifikat odnosno propusti, prema potrebi, ograničiti, suspendirati ili povući certifikate ili izvješća o validaciji.«.
+
+U stavku 2. riječi: »5.000,00 do 10.000,00 kuna« zamjenjuju se riječima: »900,00 do 1800,00 eura«.
+
+### Članak 26.
+
+U članku 68. stavku 1. riječi: »6.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1000,00 do 5000,00 eura«.
+
+Iza podstavka 12. umjesto točke stavlja se zarez i dodaju se podstavci 13. do 42. koji glase:
+
+» – suprotno članku 22.a stavku 1. ovoga Zakona ne sastavi izjavu o svojstvima i sukladnosti sa sadržajem napisanim na hrvatskom jeziku latiničnim pismom,
+
+– suprotno članku 22.a stavku 2. ovoga Zakona ne postavi oznaku CE sa sadržajem napisanim na hrvatskom jeziku latiničnim pismom,
+
+– suprotno članku 22.b ovoga Zakona ne sastavi opće informacije o proizvodu, upute za uporabu i informacije o sigurnosti sa sadržajem napisanim na hrvatskom jeziku latiničnim pismom,
+
+– suprotno članku 16. stavku 4. Uredbe (EU) 2024/3110 ne dostavi ili ne učini dostupnom izjavu o svojstvima i sukladnosti u putovnici za proizvode u skladu s člankom 16. stavkom 1. Uredbe (EU) 2024/3110 ili na internetskim stranicama u skladu s člankom 16. stavkom 2. Uredbe (EU) 2024/3110 napisanu na hrvatskom jeziku latiničnim pismom, u skladu s člankom 22.a ovoga Zakona,
+
+– suprotno članku 20. stavku 4. Uredbe (EU) 2024/3110 ne drži na raspolaganju sve dokumente i informacije u propisanom roku,
+
+– suprotno članku 22. stavku 1. Uredbe (EU) 2024/3110 ne odredi vrstu proizvoda,
+
+– suprotno članku 22. stavku 1. Uredbe (EU) 2024/3110 ne osigura da se svojstva proizvoda ocjenjuju u odnosu na obvezne bitne značajke i u odnosu na one bitne značajke koje se namjeravaju deklarirati,
+
+– suprotno članku 22. stavku 1. Uredbe (EU) 2024/3110 ne osigura da je proizvod projektiran i izgrađen u skladu s propisanim zahtjevima za proizvode,
+
+– suprotno članku 22. stavku 2. Uredbe (EU) 2024/3110 sastavi izjavu o svojstvima i sukladnosti odnosno postavi oznaku CE,
+
+– suprotno članku 22. stavku 3. Uredbe (EU) 2024/3110 sastavi izjavu o svojstvima i sukladnosti, a da nije sastavio tehničku dokumentaciju,
+
+– suprotno članku 22. stavku 3. Uredbe (EU) 2024/3110 sastavi tehničku dokumentaciju,
+
+– suprotno članku 22. stavku 4. Uredbe (EU) 2024/3110 ne osigura njegovu provedbu,
+
+– suprotno članku 22. stavku 5. Uredbe (EU) 2024/3110 ne osigura da su ispunjeni zahtjevi propisani za identifikaciju proizvoda,
+
+– suprotno članku 22. stavku 5. Uredbe (EU) 2024/3110 ne označi proizvod oznakom »samo za profesionalnu uporabu«,
+
+– suprotno članku 22. stavku 6. Uredbe (EU) 2024/3110 ne osigura da su uz proizvod priložene opće informacije o proizvodu, upute za uporabu i informacije o sigurnosti napisane na hrvatskom jeziku latiničnim pismom, u skladu s člankom 22.b ovoga Zakona,
+
+– suprotno članku 22. stavku 7. Uredbe (EU) 2024/3110 ne stavi na raspolaganje digitalnu putovnicu za proizvode,
+
+– suprotno članku 22. stavku 8. Uredbe (EU) 2024/3110 ne stavi na raspolaganje na tržištu posebne rezervne dijelove koji nisu široko dostupni za proizvode koje stavlja na tržište,
+
+– suprotno članku 23. stavku 3. Uredbe (EU) 2024/3110 ne provjeri propisanu dokumentaciju i oznake te ispunjavanje propisanih zahtjeva,
+
+– suprotno članku 25. stavku 2. točki (a) Uredbe (EU) 2024/3110 ne provjeri da se na proizvodu nalazi CE oznaka napisana na hrvatskom jeziku latiničnim pismom, kao i oznaka u skladu s člankom 22. stavkom 9. Uredbe (EU) 2024/3110,
+
+– suprotno članku 25. stavku 2. točki (b) Uredbe (EU) 2024/3110 ne provjeri da je proizvod popraćen izjavom o svojstvima i sukladnosti napisanom na hrvatskom jeziku latiničnim pismom ili da je izjava dostupna u skladu s člankom 16. stavkom 2. Uredbe (EU) 2024/3110,
+
+– suprotno članku 25. stavku 2. točki (c) Uredbe (EU) 2024/3110 ne provjeri da je proizvod popraćen općim informacijama o proizvodu, uputama za uporabu i informacijama o sigurnosti u skladu s člankom 22. stavkom 6. Uredbe (EU) 2024/3110 napisanim na hrvatskom jeziku latiničnim pismom,
+
+– suprotno članku 25. stavku 2. točki (d) Uredbe (EU) 2024/3110 ne provjeri da proizvođač i uvoznik ispunjavaju zahtjeve utvrđene u članku 22. stavcima 5. i 7. Uredbe (EU) 2024/3110 odnosno u članku 24. stavku 6. Uredbe (EU) 2024/3110,
+
+– suprotno članku 25. stavku 3. Uredbe (EU) 2024/3110 ne prikaže na vidljiv način informacije koje se moraju pružiti u skladu s Uredbom (EU) 2024/3110,
+
+– suprotno članku 25. stavku 5. Uredbe (EU) 2024/3110 ne osigura da, dok je proizvod pod njegovom odgovornošću, uvjeti skladištenja ili prijevoza ne dovode u opasnost sukladnost proizvoda s njegovim deklariranim svojstvima ili njegovu sukladnost s drugim primjenjivim zahtjevima iz Uredbe (EU) 2024/3110,
+
+– suprotno članku 26. stavku 4. Uredbe (EU) 2024/3110 ne obavijesti proizvođača ili njegova ovlaštenog predstavnika o obavljanju aktivnosti iz članka 26. stavka 3. Uredbe (EU) 2024/3110,
+
+– suprotno članku 26. stavku 4. Uredbe (EU) 2024/3110 prepakira proizvod,
+
+– suprotno članku 27. stavku 2. Uredbe (EU) 2024/3110 ne osigura da su ispunjeni zahtjevi za sastavljanje izjave o svojstvima i sukladnosti, stavljanje oznake CE i oznake u skladu s člankom 22. stavkom 9. Uredbe (EU) 2024/3110 te sastavljanje općih informacija o proizvodu, upute za uporabu te informacije o sigurnosti,
+
+– suprotno članku 77. stavku 3. Uredbe (EU) 2024/3110 ne dostavi gospodarskom subjektu koji proizvod stavlja na raspolaganje na tržište putem interneta ili drugog načina prodaje na daljinu digitalni primjerak nosača podataka i identifikacijsku oznaku,
+
+– suprotno članku 78. Uredbe (EU) 2024/3110 ne stavi na raspolaganje digitalnu putovnicu za proizvod koja je u skladu s osnovnim zahtjevima,
+
+– suprotno članku 91. stavku 2. Uredbe (EU) 2024/3110 ne dostavi izjavu o svojstvima i sukladnosti, opće informacije o proizvodu, upute za uporabu i informacije o sigurnosti u papirnatom obliku.«.
+
+U stavku 2. riječi: »3.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »500,00 do 2500,00 eura«.
+
+U stavku 3. riječi: »1.500,00 do 3.000,00 kuna« zamjenjuju se riječima: »250,00 do 500,00 eura«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) U slučaju iz stavka 1. ovoga članka, a u vezi s člankom 61. stavkom 8. ovoga Zakona odnosno člankom 65. Uredbe (EU) 2024/3110, nadležni inspektor neće podnositi optužni prijedlog za proizvod s formalnom nesukladnošću ako gospodarski subjekt otkloni utvrđene nesukladnosti u primjerenom roku iz rješenja, osim ako ponovno utvrdi isti prekršaj.«.
+
+### Članak 27.
+
+U članku 69. stavku 1. riječi: »12.000,00 do 60.000,00 kuna« zamjenjuju se riječima: »2000,00 do 10.000,00 eura«.
+
+Iza podstavka 14. umjesto točke stavlja se zarez i dodaju se podstavci 15. do 33. koji glase:
+
+» – suprotno članku 20. stavku 2. Uredbe (EU) 2024/3110 ne poduzme sve potrebne mjere kako bi osigurao stalnu sukladnost s Uredbom (EU) 2024/3110,
+
+– suprotno članku 20. stavku 2. Uredbe (EU) 2024/3110 ne podnese izvješće Državnom inspektoratu,
+
+– suprotno članku 20. stavcima 3. i 4. Uredbe (EU) 2024/3110 ne postupi po zahtjevu Ministarstva i Državnog inspektorata,
+
+– suprotno članku 20. stavku 6. Uredbe (EU) 2024/3110 ne obavijesti Ministarstvo i Državni inspektorat da nesukladni proizvod ugrožava zdravlje i sigurnost ljudi ili okoliš,
+
+– suprotno članku 23. stavku 4. Uredbe (EU) 2024/3110 ne zatraži, u slučaju utvrđene nesukladnosti, postupanje proizvođača u skladu s člankom 22. stavcima 11. i 12. Uredbe (EU) 2024/3110,
+
+– suprotno članku 24. stavku 2. Uredbe (EU) 2024/3110 ne osigura da je proizvođač dokazao sukladnost proizvoda s primjenjivim zahtjevima, kao i njegova svojstva u odnosu na relevantne bitne značajke u skladu s člankom 22. stavcima 1. i 2. Uredbe (EU) 2024/3110,
+
+– suprotno članku 24. stavku 2. točki (a) Uredbe (EU) 2024/3110 ne osigura da je proizvođač sastavio tehničku dokumentaciju iz članka 22. stavka 3. Uredbe (EU) 2024/3110,
+
+– suprotno članku 24. stavku 2. točki (b) Uredbe (EU) 2024/3110 ne osigura da se na proizvodu nalazi oznaka CE napisana na hrvatskom jeziku latiničnim pismom, kao i oznaka u skladu s člankom 22. stavkom 9. Uredbe (EU) 2024/3110,
+
+– suprotno članku 24. stavku 2. točki (c) Uredbe (EU) 2024/3110 ne osigura da je proizvod popraćen izjavom o svojstvima i sukladnosti napisanom na hrvatskom jeziku latiničnim pismom ili da je ta izjava dostupna u skladu s člankom 16. stavkom 1. ili stavkom 2. Uredbe (EU) 2024/3110,
+
+– suprotno članku 24. stavku 2. točki (d) Uredbe (EU) 2024/3110 ne osigura da proizvođač ispunjava zahtjeve utvrđene u članku 22. stavcima 5., 6. i 7. Uredbe (EU) 2024/3110,
+
+– suprotno članku 24. stavku 3. Uredbe (EU) 2024/3110 ne osigura da je proizvod propisno deklariran i da su priložene opće informacije o proizvodu, upute za uporabu i informacije o sigurnosti,
+
+– suprotno članku 24. stavku 3. Uredbe (EU) 2024/3110 ne prikaže propisane podatke u slučaju prodaje proizvoda na daljinu,
+
+– suprotno članku 24. stavku 4. Uredbe (EU) 2024/3110 ne osigura da, dok je proizvod pod njegovom odgovornošću, uvjeti skladištenja ili prijevoza ne dovode u opasnost njegovu sukladnost s izjavom o svojstvima i sukladnosti ili njegovu sukladnost s drugim primjenjivim zahtjevima iz Uredbe (EU) 2024/3110,
+
+– suprotno članku 24. stavku 6. Uredbe (EU) 2024/3110 ne navede na građevnom proizvodu, ili ako to nije moguće, na njegovoj ambalaži ili u dokumentu koji prilaže uz proizvod propisane podatke,
+
+– suprotno članku 24. stavku 7. Uredbe (EU) 2024/3110 ne osigura njegovu provedbu,
+
+– suprotno članku 27. stavku 3. Uredbe (EU) 2024/3110 ne osigura propisane uvjete skladištenja, pakiranja, adresiranja ili otpreme proizvoda,
+
+– suprotno članku 27. stavku 3. Uredbe (EU) 2024/3110 ne pruži detaljne informacije potrebne za sigurno skladištenje, pakiranje, adresiranje ili otpremu te daljnje funkcioniranje proizvoda,
+
+– suprotno članku 28. stavku 1. Uredbe (EU) 2024/3110 ne osigura provedbu propisanih zahtjeva,
+
+– suprotno članku 28. stavku 3. Uredbe (EU) 2024/3110 ne poduzme potrebne mjere za primanje i obradu narudžbi.«.
+
+U stavku 2. riječi: »6.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1000,00 do 5000,00 eura«.
+
+U stavku 3. riječi: »3.000,00 do 6.000,00 kuna« zamjenjuju se riječima: »500,00 do 1000,00 eura«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) U slučaju iz stavka 1. ovoga članka, a u vezi s člankom 61. stavkom 8. ovoga Zakona odnosno člankom 65. Uredbe (EU) 2024/3110, nadležni inspektor neće podnositi optužni prijedlog za proizvod s formalnom nesukladnošću ako gospodarski subjekt otkloni utvrđene nesukladnosti u primjerenom roku iz rješenja, osim ako ponovno utvrdi isti prekršaj.«.
+
+### Članak 28.
+
+U članku 70. stavku 1. riječi: »20.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »3600,00 do 18.000,00 eura«.
+
+Iza podstavka 10. umjesto točke stavlja se zarez i dodaju se podstavci 11. do 18. koji glase:
+
+» – suprotno članku 22. stavku 11. Uredbe (EU) 2024/3110 ne poduzme propisane korektivne mjere odnosno proizvod ne povuče ili opozove te ne obavijesti Ministarstvo i Državni inspektorat te odgovarajući gospodarski subjekt o građevnom proizvodu koji nije u skladu s njegovim deklariranim svojstvima ili nije u skladu s Uredbom (EU) 2024/3110,
+
+– suprotno članku 22. stavku 12., članku 24. stavku 8. i članku 25. stavku 6. Uredbe (EU) 2024/3110 ne poduzme propisane korektivne mjere odnosno proizvod ne povuče ili opozove te ne obavijesti Ministarstvo i Državni inspektorat te odgovarajući gospodarski subjekt o građevnom proizvodu koji predstavlja rizik,
+
+– suprotno članku 23. stavku 2. Uredbe (EU) 2024/3110 obavlja zadaće koje nisu navedene u ovlaštenju,
+
+– suprotno članku 24. stavku 1. i članku 25. stavku 1. Uredbe (EU) 2024/3110 stavi na tržište, odnosno na raspolaganje na tržište Unije proizvode koji nisu u skladu s Uredbom (EU) 2024/3110,
+
+– suprotno članku 24. stavku 5., članku 25. stavku 4. i članku 27. stavku 5. Uredbe (EU) 2024/3110 stavi na tržište, odnosno na raspolaganje na tržištu proizvod koji ne ispunjava propisane zahtjeve i ne obavijesti odgovarajući gospodarski subjekt te Ministarstvo i Državni inspektorat,
+
+– suprotno članku 24. stavku 8. i članku 25. stavku 6. Uredbe (EU) 2024/3110 ne poduzme propisane nužne korektivne mjere odnosno proizvod ne povuče ili ne opozove te ne obavijesti Ministarstvo i Državni inspektorat o proizvodu koji predstavlja rizik,
+
+– suprotno članku 27. stavku 1. Uredbe (EU) 2024/3110 ne postupi u skladu s propisanim zahtjevima prilikom stavljanja proizvoda na raspolaganje na tržištu,
+
+– suprotno članku 29. stavku 2. Uredbe (EU) 2024/3110 stavi na raspolaganje na tržištu putem interneta ili drugim sredstvima prodaje na daljinu proizvod za koji nije naveo propisane oznake, informacije i nosač podataka povezan s digitalnom putovnicom.«.
+
+U stavku 2. riječi: »10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »1800,00 do 9000,00 eura«.
+
+U svaku 3. riječi: »6.000,00 do 12.000,00« zamjenjuju se riječima: »1000,00 do 2000,00 eura«.
+
+### Članak 29.
+
+U članku 71. stavku 1. riječi: »4.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »720,00 do 3600,00 eura«.
+
+U stavku 2. riječi: »2.000,00 do 10.000,00 kuna« zamjenjuju se riječima: »360,00 do 1800,00 eura«.
+
+U stavku 3. riječi: »1.000,00 do 2.000,00 kuna« zamjenjuju se riječima: »180,00 do 360,00 eura«.
+
+PRIJELAZNA I ZAVRŠNA ODREDBA
+
+### Članak 30.
+
+Ministar će uskladiti Pravilnik o tijelima, dokumentaciji i postupcima tržišta građevnih proizvoda (»Narodne novine«, br. 118/19.) i Pravilnik o sastavu, uvjetima za imenovanje, načinu rada i drugim pitanjima vezanima uz rad Povjerenstva za građevne proizvode (»Narodne novine«, br. 38/24.) s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 31.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/26-01/30
+
+Zagreb, 30. travnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

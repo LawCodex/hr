@@ -1423,127 +1423,104 @@ Sustav pokazatelja zajedničke provedbe vezane za aktivnosti koje su poduzele pr
 2. ZAJEDNIČKI POKAZATELJI PROIZVODNJE (GODIŠNJE)
 
 <table><tbody>
-
 <tr>
 <td>Mjera</td>
 <td>Tip aktivnosti</td>
 <td>Pokazatelji ulaganja<br>(godišnje)</td>
 </tr>
-
 <tr>
 <td rowspan="3">aktivnosti usmjerene prema planiranju proizvodnje</td>
 <td>a) kupovina dugotrajne materijalne imovine</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti,<br> ukupna vrijednost ulaganja (u kunama)2</td>
 </tr>
-
 <tr>
 <td>b) drugi oblici stjecanja dugotrajne materijalne imovine, uključujući otplatu, najam i leasing</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td>c) druge aktivnosti</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima,<br> broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td rowspan="3">aktivnosti usmjerene prema poboljšanju ili održanju kvalitete proizvoda</td>
 <td>a) kupovina dugotrajne materijalne imovine</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti,<br> ukupna vrijednost ulaganja (u kunama)2</td>
 </tr>
-
 <tr>
 <td>b) drugi oblici stjecanja dugotrajne materijalne imovine, uključujući otplatu, najam i leasing</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td>c) druge aktivnosti</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima,<br> broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td rowspan="3">aktivnosti usmjerene prema poboljšanju<br> plasmana na tržište</td>
 <td>a) kupovina dugotrajne materijalne imovine</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti<br> ukupna vrijednost ulaganja (u kunama)2</td>
 </tr>
-
 <tr>
 <td>b) drugi oblici stjecanja dugotrajne materijalne imovine, uključujući otplatu, najam i leasing</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td>c) promicanje i izvješćivanje o aktivnostima (koje se ne odnose na sprječavanje krize i upravljanje krizom)</td>
 <td>broj poduzetih aktivnosti3</td>
 </tr>
-
 <tr>
 <td></td>
 <td>d) druge aktivnosti</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima,<br> broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td rowspan="3">istraživanje i eksperimentalna<br> proizvodnja</td>
 <td>a) kupovina dugotrajne materijalne imovine</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti,<br> ukupna vrijednost ulaganja (u kunama)</td>
 </tr>
-
 <tr>
 <td>b) drugi oblici stjecanja dugotrajne materijalne imovine, uključujući otplatu, najam i leasing</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima 1,<br> broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td>c) druge aktivnosti</td>
 <td>broj poduzetih aktivnosti,<br> broj gospodarstava koja sudjeluju u aktivnostima4,<br> broj hektara u vezi s aktivnošću5</td>
 </tr>
-
 <tr>
 <td>aktivnosti izobrazbe (koje se ne odnose na sprječavanje krize i upravljanje krizom)<br> i/ili aktivnosti usmjerene<br> prema promicanju<br> pristupa savjetodavnim službama</td>
 <td>Temeljeno na obuhvaćenom glavnom pitanju:<br> a) ekološka proizvodnja<br> b) integrirana proizvodnja ili integrirana zaštita bilja<br> c) druga pitanja zaštite okoliša<br> d) sljedivost<br> e) kvaliteta proizvoda, uključujući ostatke pesticida<br> f) druga pitanja</td>
 <td>broj poduzetih aktivnosti6,7,<br> broj dana izobrazbe koju su sudionici dobili</td>
 </tr>
-
 <tr>
 <td>mjere za sprječavanje krize i upravljanje krizom</td>
 <td>a) povlačenje s tržišta;<br> b) zelena berba ili neubiranje voća i povrća;<br> c) aktivnosti promicanja i dostavljanja informacija<br> d) aktivnosti izobrazbe<br> e) osiguranje priroda<br> f) potpora za upravne troškove za osnivanje zajedničkih fondova.</td>
 <td>broj poduzetih aktivnosti 3, 6, 8, 9</td>
 </tr>
-
 <tr>
 <td rowspan="4">aktivnosti zaštite okoliša</td>
 <td>a) kupovina dugotrajne materijalne imovine10</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima 1,<br> broj poduzetih aktivnosti,<br> ukupna vrijednost ulaganja (u kunama)</td>
 </tr>
-
 <tr>
 <td>b) drugi oblici stjecanja dugotrajne materijalne imovine, uključujući otplatu, najam i leasing 11</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td>c) druge aktivnosti<br> (1) proizvodnja<br> i) ekološka proizvodnja<br> ii) integrirana proizvodnja<br> iii) poboljšana uporaba i/ili vodno gospodarstvo, uključujući uštedu vode i odvodnju<br> iv) aktivnosti za očuvanje tla (tj. tehnike pri izvođenju radova za sprječavanje/smanjenje erozije tla, zelenoga pokrivača, očuvanje poljoprivrede, malčiranje)<br> v) aktivnosti za stvaranje ili održavanje staništa korisnih za bioraznolikost (tzv. močvarna staništa) ili za održavanje krajolika, uključujući očuvanje povijesnih obilježja (tzv. kamenih zidina, terasa, drvenih objekata)<br> vi) aktivnosti za uštedu energije<br> vii) aktivnosti vezane za smanjenje proizvodnje otpada i poboljšanje zbrinjavanja otpada<br> viii) druge aktivnosti</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima,<br> broj poduzetih aktivnosti,<br> broj hektara u vezi s aktivnošću</td>
 </tr>
-
 <tr>
 <td>(2) prijevoz<br> (3) plasman na tržište</td>
 <td>broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td rowspan="3">druge aktivnosti</td>
 <td>a) kupovina dugotrajne materijalne imovine</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti,<br> ukupna vrijednost ulaganja (u kunama)2</td>
 </tr>
-
 <tr>
 <td>b) drugi oblici stjecanja dugotrajne materijalne imovine, uključujući otplatu, najam i leasing</td>
 <td>broj gospodarstava koja sudjeluju u aktivnostima1,<br> broj poduzetih aktivnosti</td>
 </tr>
-
 <tr>
 <td>c) druge aktivnosti</td>
 <td>broj poduzetih aktivnosti</td>
@@ -1574,80 +1551,64 @@ Napomena: Pokazatelje rezultata treba dostaviti tek nakon ocjene rezultata.
 Napomena: Pokazatelji učinka dostavljaju se samo kada je učinak procijenjen.
 
 <table><tbody>
-
 <tr>
 <td>Mjera</td>
 <td>Sveukupni ciljevi</td>
 <td>Pokazatelji učinka (mjerenje)</td>
 </tr>
-
 <tr>
 <td>aktivnosti usmjerene prema planiranju proizvodnje</td>
 <td rowspan="6">poboljšanje konkurentnosti<br> povećanje privlačnosti učlanjenja u organizaciju proizvođača</td>
 <td rowspan="6">procijenjena promjena u vrijednosti utržene proizvodnje (u kunama);<br> promjena u ukupnom broju proizvođača voća i povrća koji su aktivni članovi15 dotičnih proizvođačkih organizacija/udruženja proizvođačkih organizacija (broj);<br> promjena ukupne površine na kojima se proizvodi voće i povrće koje su zasadili članovi dotičnih proizvođačkih organizacija /udruženja proizvođačkih organizacija (ha)</td>
 </tr>
-
 <tr>
 <td>aktivnosti s ciljem poboljšanja ili održavanja kakvoće proizvoda</td>
 </tr>
-
 <tr>
 <td>aktivnosti s ciljem poboljšanja plasmana na tržište</td>
 </tr>
-
 <tr>
 <td>istraživanje i eksperimentalna proizvodnja</td>
 </tr>
-
 <tr>
 <td>aktivnosti izobrazbe (koje nisu u vezi sa sprječavanjem krize i upravljanjem krizom) i/ili aktivnosti s ciljem promicanja pristupa savjetodavnim službama</td>
 </tr>
-
 <tr>
 <td>mjere za sprječavanje krize i upravljanje krizom</td>
 </tr>
-
 <tr>
 <td rowspan="8">aktivnosti zaštite okoliša</td>
 <td>održavanje i zaštita okoliša:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>– tlo</td>
 <td></td>
 </tr>
-
 <tr>
 <td>– kvaliteta vode</td>
 <td>procijenjena promjena u ukupnoj potrošnji mineralnih gnojiva, po tipu gnojiva (N i P2O3) (u tonama)</td>
 </tr>
-
 <tr>
 <td>– održiva uporaba vodnih resursa</td>
 <td>procijenjena promjena u ukupnoj uporabi vode (m3)</td>
 </tr>
-
 <tr>
 <td>– staništa i bioraznolikost</td>
 <td></td>
 </tr>
-
 <tr>
 <td>– krajolik</td>
 <td></td>
 </tr>
-
 <tr>
 <td>– ublažavanje klimatskih promjena</td>
 <td>procijenjena promjena u ukupnoj uporabi izvora energije ili tipa goriva (litara/m3/Kwh)</td>
 </tr>
-
 <tr>
 <td>– smanjenje otpada</td>
 <td>procijenjena promjena u ukupno proizvedenoj količini otpada (u tonama);<br> procijenjena promjena u uporabi ambalaže (u tonama)</td>
 </tr>
-
 <tr>
 <td>druge aktivnosti</td>
 <td>poboljšanje konkurentnosti<br> povećanje privlačnosti učlanjenja u proizvođačku organizaciju</td>
@@ -1663,154 +1624,126 @@ Napomena: Osnovni pokazatelji potrebni su u analizi stanja na početku razdoblja
 Kao opće pravilo, osnovni pokazatelji trebaju se izračunati kao trogodišnji prosjeci. Ako podatci nisu dostupni, trebali bi se izračunati barem s podatcima koji se odnose na jednu godinu.
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Ciljevi</td>
 <td colspan="2">Osnovni pokazatelji koji se odnose na ciljeve</td>
 </tr>
-
 <tr>
 <td>Pokazatelj</td>
 <td>Definicija (i mjerenje)</td>
 </tr>
-
 <tr>
 <td colspan="3">Sveukupni ciljevi</td>
 </tr>
-
 <tr>
 <td>poboljšanje konkurentnosti</td>
 <td>vrijednost utržene proizvodnje</td>
 <td>vrijednost utržene proizvodnje proizvođačke organizacije /udruženja proizvođačkih organizacija (u kunama)</td>
 </tr>
-
 <tr>
 <td rowspan="2">poboljšanje privlačnosti članstva u proizvođačkoj organizaciji</td>
 <td>broj proizvođača voća i povrća koji su aktivni članovi dotičnih proizvođačke organizacije /udruženja proizvođačkih organizacija</td>
 <td>broj proizvođača voća i povrća koji su aktivni članovi proizvođačke organizacije /udruženja proizvođačkih organizacija16</td>
 </tr>
-
 <tr>
 <td>ukupna površina na kojoj se proizvodi voće i povrće koje su zasadili članovi dotičnih proizvođačke organizacije /udruženja proizvođačkih organizacija</td>
 <td>ukupna površina na kojoj se proizvodi voće i povrće koje su zasadili članovi proizvođačke organizacije /udruženja proizvođačkih organizacija (ha)</td>
 </tr>
-
 <tr>
 <td>održavanje i zaštita okoliša</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">Posebni ciljevi</td>
 </tr>
-
 <tr>
 <td>promicanje koncentriranja opskrbe</td>
 <td rowspan="3">količina utržene proizvodnje</td>
 <td rowspan="2">ukupna količina utržene proizvodnje (u tonama)</td>
 </tr>
-
 <tr>
 <td>promicanje stavljanja na tržište proizvoda koje su proizveli članovi</td>
 </tr>
-
 <tr>
 <td>osiguranje da se proizvodnja prilagodi zahtjevima u odnosu na kvalitetu i količinu</td>
 <td>količina utržene proizvodnje koja udovoljava zahtjevima određenoga »programa kvalitete« 17 po glavnim tipovima dotičnoga »programa kvalitete« (u tonama)</td>
 </tr>
-
 <tr>
 <td>optimiziranje troškova proizvodnje</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>stimuliranje trgovinske vrijednosti proizvoda</td>
 <td>prosječna jedinična vrijednost utržene proizvodnje</td>
 <td>vrijednost utržene proizvodnje/količina utržene proizvodnje (kn/kg)</td>
 </tr>
-
 <tr>
 <td>stabiliziranje cijena proizvođača</td>
 <td>fluktuacija u tržišnim cijenama</td>
 <td>količina utržene proizvodnje po manje od 80% prosječne cijene koju su primile proizvođačke organizacije /udruženja proizvođačkih organizacija (u tonama)18</td>
 </tr>
-
 <tr>
 <td rowspan="2">promicanje znanja i poboljšanje ljudskoga potencijala</td>
 <td>broj ljudi koji je sudjelovao u aktivnostima izobrazbe</td>
 <td>broj osoba koje su završile aktivnosti/program izobrazbe tijekom posljednje tri godine (broj)</td>
 </tr>
-
 <tr>
 <td>broj gospodarstava koja uporabljuju usluge savjetodavne službe</td>
 <td>broj gospodarstava članova proizvođačke organizacije /udruženja proizvođačkih organizacija koja su koristila usluge savjetodavne službe (broj)</td>
 </tr>
-
 <tr>
 <td>razvijanje tehničkih i gospodarskih izvedbi i promicanje inovacija</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">Posebni ciljevi u zaštiti okoliša</td>
 </tr>
-
 <tr>
 <td>doprinos zaštiti tla</td>
 <td>površina na kojoj postoji opasnost od erozije tla s mjerama protiv erozije</td>
 <td>površina na kojoj se proizvodi voće i povrće na kojoj postoji opasnost od erozije tla gdje se primjenjuju mjere protiv erozije (ha)19</td>
 </tr>
-
 <tr>
 <td>doprinos održavanju i poboljšanju kvalitete vode</td>
 <td>površina sa smanjenom uporabom/boljim gospodarenjem gnojivima</td>
 <td>površina na kojoj se proizvodi voće i povrće na kojoj se smanjuje uporaba gnojiva i bolje gospodari gnojivima (ha)</td>
 </tr>
-
 <tr>
 <td>doprinos održivoj uporabi zaliha vode</td>
 <td>površina na kojoj se provode mjere za štednju vode</td>
 <td>površina na kojoj se proizvodi voće i povrće, te primjenjuju mjere za uštedu vode (ha)</td>
 </tr>
-
 <tr>
 <td rowspan="3">doprinos zaštiti staništa i bioraznolikosti</td>
 <td>ekološka proizvodnja</td>
 <td>površina pod ekološkom proizvodnjom voća i povrća (ha)</td>
 </tr>
-
 <tr>
 <td>integrirana proizvodnja</td>
 <td>površina pod integriranom proizvodnjom voća i povrća (ha)</td>
 </tr>
-
 <tr>
 <td>druge aktivnosti koje doprinose zaštiti staništa i zaštiti bioraznolikosti</td>
 <td>površina na koju se odnose druge aktivnosti koje doprinose zaštiti staništa i bioraznolikosti (ha)</td>
 </tr>
-
 <tr>
 <td>doprinos očuvanju krajolika</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>doprinos ublažavanju klimatskih promjena – Proizvodnja</td>
 <td>grijanje zaštićenih prostora – iskorištenost energije</td>
 <td>procijenjena godišnja potrošnja energije u svrhu grijanja zaštićenog prostora prema tipu izvora energije (tone/litre/m3/kwh po toni utržene proizvodnje)</td>
 </tr>
-
 <tr>
 <td>doprinos ublažavanju klimatskih promjena – prijevoz<br> doprinos održavanju i poboljšanju kakvoće zraka – prijevoz</td>
 <td>prijevoz – iskorištenost energije</td>
 <td>procijenjena godišnja potrošnja energije u svrhu unutarnjeg prijevoza20 prema tipu goriva (litre/m3/kwh po toni utržene proizvodnje)</td>
 </tr>
-
 <tr>
 <td>smanjenje količine proizvedenoga otpada</td>
 <td></td>

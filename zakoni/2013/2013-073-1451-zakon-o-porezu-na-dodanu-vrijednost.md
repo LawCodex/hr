@@ -6,15 +6,28 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-18
-last_amended: 2016-12-09
+last_amended: 2026-05-08
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "73/13, 148/13, 143/14, 115/16"
+narodne_novine: "73/13, 148/13, 143/14, 115/16, 106/18, 121/19, 138/20, 39/22, 113/22, 33/23, 114/23, 35/24, 152/24, 52/25, 151/25, 32/26, 48/26"
 amendments:
   - "NN 148/2013 (3138) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
   - "NN 143/2014 (2682) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
   - "NN 115/2016 (2526) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 106/2018 (2059) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 121/2019 (2381) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 138/2020 (2626) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 39/2022 (478) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 113/2022 (1660) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 33/2023 (578) Zakon o izmjenama Zakona o porezu na dodanu vrijednost"
+  - "NN 114/2023 (1614) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 35/2024 (539) Zakon o izmjeni Zakona o porezu na dodanu vrijednost"
+  - "NN 152/2024 (2508) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 52/2025 (673) Zakon o izmjeni Zakona o porezu na dodanu vrijednost"
+  - "NN 151/2025 (2262) Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost"
+  - "NN 32/2026 (377) Zakon o izmjeni Zakona o porezu na dodanu vrijednost"
+  - "NN 48/2026 (578) Zakon o dopuni Zakona o porezu na dodanu vrijednost"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/73/1451"
 retrieved: 2026-10-12
 ---
@@ -23,7 +36,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 73/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/73/1451).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 148/2013, NN 143/2014, NN 115/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 148/2013, NN 143/2014, NN 115/2016, NN 106/2018, NN 121/2019, NN 138/2020, NN 39/2022, NN 113/2022, NN 33/2023, NN 114/2023, NN 35/2024, NN 152/2024, NN 52/2025, NN 151/2025, NN 32/2026, NN 48/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2576,250 +2589,208 @@ DODATAK II.
 POPIS DOBARA KOJA SE SMJEŠTAJU U SKLADIŠTA IZ ČLANKA 52. OVOGA ZAKONA
 
 <table><tbody>
-
 <tr>
 <td colspan="2">Oznaka KN</td>
 <td>Opis dobara</td>
 </tr>
-
 <tr>
 <td colspan="3">_________________________________________________</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>0701</td>
 <td>Krumpir</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>0711 20</td>
 <td>Masline</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>0801</td>
 <td>Kokosov orah, brazilski i indijski orah</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>0802</td>
 <td>Ostali orašasti plodovi</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>0901 11 00</td>
 <td>Kava, nepržena</td>
 </tr>
-
 <tr>
 <td></td>
 <td>0901 12 00</td>
 <td></td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>0902</td>
 <td>Čaj</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>1001 do 1005</td>
 <td>Žitarice</td>
 </tr>
-
 <tr>
 <td></td>
 <td>1007 do 1008</td>
 <td></td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td>1006</td>
 <td>Ljuštena riža</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td>1201 do 1207</td>
 <td>Zrnje i uljno sjemenje (uključujući soju) i uljno voće</td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td>1507 do 1515</td>
 <td>Biljna ulja i masti i njihovi nusprodukti, sirovi ili rafinirani, ali ne kemijski izmijenjeni</td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td>1701 11</td>
 <td>Sirovi šećer</td>
 </tr>
-
 <tr>
 <td></td>
 <td>1701 12</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td>1801</td>
 <td>Sjeme kakaa, cijelo ili razlomljeno, sirovo ili prženo</td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td>2709</td>
 <td>Mineralna ulja (uključujući propan i butan; te uključujući sirova naftna ulja)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>2710</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>2711 12</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>2711 13</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>2711 14</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>2711 19</td>
 <td></td>
 </tr>
-
 <tr>
 <td>14.</td>
 <td>Poglavlja 28. i 29.</td>
 <td>Kemijski proizvodi u rasutom obliku</td>
 </tr>
-
 <tr>
 <td>15.</td>
 <td>4001</td>
 <td>Kaučuk, u izvornom obliku ili u obliku ploča, listova ili traka</td>
 </tr>
-
 <tr>
 <td></td>
 <td>4002</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16.</td>
 <td>5101</td>
 <td>Vuna</td>
 </tr>
-
 <tr>
 <td>17.</td>
 <td>7106</td>
 <td>Srebro</td>
 </tr>
-
 <tr>
 <td>18.</td>
 <td>7110 11 00</td>
 <td>Platina (paladij, rodij)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>7110 21 00</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>7110 31 00</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19.</td>
 <td>7402</td>
 <td>Bakar</td>
 </tr>
-
 <tr>
 <td></td>
 <td>7403</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>7405</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>7408</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20.</td>
 <td>7502</td>
 <td>Nikl</td>
 </tr>
-
 <tr>
 <td>21.</td>
 <td>7601</td>
 <td>Aluminij</td>
 </tr>
-
 <tr>
 <td>22.</td>
 <td>7801</td>
 <td>Olovo</td>
 </tr>
-
 <tr>
 <td>23.</td>
 <td>7901</td>
 <td>Cink</td>
 </tr>
-
 <tr>
 <td>24.</td>
 <td>8001</td>
 <td>Kositar</td>
 </tr>
-
 <tr>
 <td>25.</td>
 <td>prijašnji 8112 92</td>
 <td>Indij</td>
 </tr>
-
 <tr>
 <td></td>
 <td>prijašnji 8112 99</td>
@@ -3554,8 +3525,6 @@ Josip Leko, v. r.
 
 HRVATSKI SABOR
 
-2526
-
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
 ODLUKU
@@ -3939,3 +3908,2553 @@ c) 8805 – Oprema za lansiranje zrakoplova; oprema za zaustavljanje na palubi i
 d) 8905 – Brodovi-svjetionici, vatrogasna plovila, plovna jaružala, plovne dizalice i ostala plovila kod kojih je plovnost sporedna u odnosu na njihovu glavnu funkciju; plutajući dokovi; plutajuće ili uronjive platforme za bušenje ili pridobivanje,
 
 e) 8907 – Ostali plutajući objekti (na primjer, splavi, spremnici, kesoni, iskrcajne platforme, plutače i svjetionici-plutače).
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 106/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/106/2059*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 21. studenoga 2018.
+
+Klasa: 011-01/18-01/136  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 26. studenoga 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14. i 115/16.) u članku 2. podstavak 4. mijenja se i glasi:
+
+» – Direktiva Vijeća (EU) 2018/912 od 22. lipnja 2018. o izmjeni Direktive 2006/112/EZ o zajedničkom sustavu poreza na dodanu vrijednost u pogledu obveze poštovanja odredbe o najnižoj standardnoj stopi (SL L 162, 27. 6. 2018.),«.
+
+U podstavku 5. iza riječi: (SL L 177, 1. 7. 2016.) umjesto točke stavlja se zarez te se dodaju podstavci 6. i 7. koji glase:
+
+» – Direktiva Vijeća (EU) 2017/2455 od 5. prosinca 2017. o izmjeni Direktive 2006/112/EZ i Direktive 2009/132/EZ u pogledu određenih obveza u vezi s porezom na dodanu vrijednost za isporuku usluga i prodaju robe na daljinu (SL L 348, 29. 12. 2017.)
+
+– Direktiva Vijeća (EU) 2018/1713 od 6. studenoga 2018. o izmjeni Direktive 2006/112/EZ u pogledu stopa poreza na dodanu vrijednost koje se primjenjuju na knjige, novine i časopise (SL L 286, 14. 11. 2018.).«.
+
+#### Članak 2.
+
+U članku 8. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Iznimno od stavka 3. točke a) ovoga članka, obavljenim uslugama uz naknadu ne smatra se korištenje osobnih automobila za privatne potrebe za koje je izvršen odbitak pretporeza prema članku 61. stavku 2. ovoga Zakona.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 3.
+
+U članku 10. stavku 2. točki a) riječi: »i nije registriran za potrebe PDV-a« brišu se.
+
+#### Članak 4.
+
+U članku 11.a iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ministar financija pravilnikom propisuje oblik vrijednosnih kupona te što se ne smatra vrijednosnim kuponima.«.
+
+#### Članak 5.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Mjestom obavljanja sljedećih usluga osobi koja nije porezni obveznik smatra se mjesto gdje ta osoba ima sjedište, prebivalište ili uobičajeno boravište:
+
+a) telekomunikacijske usluge,
+
+b) usluge radijskog i televizijskog emitiranja,
+
+c) elektronički obavljene usluge.
+
+(2) Ako porezni obveznik koji obavlja usluge i primatelj usluga komuniciraju putem elektroničke pošte, ne radi se o elektronički obavljenoj usluzi.
+
+(3) Iznimno, stavak 1. ovoga članka ne primjenjuje se ako su ispunjeni sljedeći uvjeti:
+
+a) porezni obveznik koji obavlja usluge ima sjedište, prebivalište ili uobičajeno boravište u Republici Hrvatskoj,
+
+b) usluge se obavljaju osobama koje nisu porezni obveznici i koje nemaju sjedište, prebivalište ili uobičajeno boravište u Republici Hrvatskoj i
+
+c) ukupna vrijednost, bez PDV-a, usluga iz točke b) ovoga stavka u prethodnoj kalendarskoj godini odnosno u tekućoj kalendarskoj godini nije veća od 77.000,00 kuna.
+
+(4) Ako porezni obveznik koji obavlja usluge tijekom kalendarske godine ostvari vrijednost obavljenih usluga veću od 77.000,00 kuna, obvezan je od trenutka prelaska vrijednosti primjenjivati odredbe stavka 1. ovoga članka o mjestu obavljanja usluga.
+
+(5) Porezni obveznik koji obavlja usluge i ispunjava uvjete iz stavka 3. ovoga članka te ima sjedište, prebivalište ili uobičajeno boravište u Republici Hrvatskoj može odabrati primjenu mjesta oporezivanja usluga iz stavka 1. ovoga članka, što ga obvezuje na rok od dvije kalendarske godine.
+
+(6) »Telekomunikacijskim uslugama« u smislu ovoga Zakona smatraju se usluge koje se odnose na prenošenje, emitiranje i prijam signala, teksta, slika i zvukova ili informacija bilo koje vrste putem žica, radija, optičkih ili drugih elektromagnetskih sustava, uključujući i s tim uslugama povezan prijenos ili ustupanje prava na korištenje kapaciteta za takvo prenošenje, emitiranje ili prijam. Telekomunikacijske usluge u smislu ovoga Zakona uključuju i omogućavanje pristupa globalnim informacijskim mrežama.
+
+(7) »Elektronički obavljenim uslugama« u smislu ovoga Zakona osobito se smatra:
+
+a) isporuka web-sjedišta, udomljavanje web-sjedišta, daljinsko održavanje programa i opreme,
+
+b) isporuka računalnih programa i njihovo ažuriranje,
+
+c) isporuka slika, tekstova i informacija te omogućavanje pristupa bazama podataka,
+
+d) isporuka glazbe, filmova i igara, uključujući igre na sreću i kockarske igre te emitiranje političkih, kulturnih, umjetničkih, sportskih, znanstvenih i zabavnih programa i priredbi,
+
+e) učenje na daljinu.«.
+
+#### Članak 6.
+
+Članak 38. mijenja se glasi:
+
+»(1) PDV se obračunava i plaća po stopi od 24%.
+
+(2) PDV se obračunava i plaća po sniženoj stopi od 5% na isporuke sljedećih dobara i usluga:
+
+a) sve vrste kruha,
+
+b) sve vrste mlijeka (kravlje, ovčje, kozje) koje se stavlja u promet pod istim nazivom u tekućem stanju, svježe, pasterizirano, homogenizirano, kondenzirano (osim kiselog mlijeka, jogurta, kefira, čokoladnog mlijeka i drugih mliječnih proizvoda), nadomjestke za majčino mlijeko,
+
+c) knjige stručnog, znanstvenog, umjetničkog, kulturnog i obrazovnog sadržaja, udžbenike za pedagoški odgoj i obrazovanje, za osnovnoškolsko, srednjoškolsko i visokoškolsko obrazovanje, osim onih koje u cijelosti ili većim dijelom sadrže oglase ili služe oglašavanju te osim onih koje se u cijelosti ili većim dijelom sastoje od videozapisa ili glazbenog sadržaja,
+
+d) lijekove koji imaju odobrenje nadležnog tijela za lijekove i medicinske proizvode,
+
+e) medicinsku opremu, pomagala i druge sprave koje se koriste za ublažavanje liječenja invalidnosti isključivo za osobnu uporabu invalida propisane Pravilnikom o ortopedskim i drugim pomagalima Hrvatskog zavoda za zdravstveno osiguranje,
+
+f) kinoulaznice,
+
+g) novine novinskog nakladnika koji ima statut medija, koje izlaze dnevno, osim onih koje u cijelosti ili većim dijelom sadrže oglase ili služe oglašavanju te osim onih koje se u cijelosti ili većim dijelom sastoje od videozapisa ili glazbenog sadržaja,
+
+h) znanstvene časopise.
+
+(3) PDV se obračunava i plaća po sniženoj stopi od 13% na isporuke sljedećih dobara i usluga:
+
+a) usluge smještaja ili smještaja s doručkom, polupansiona ili punog pansiona u hotelima ili objektima slične namjene, uključujući smještaj za vrijeme odmora, iznajmljivanje prostora u kampovima za odmor ili u mjestima određenima za kampiranje te smještaj u plovnim objektima nautičkog turizma,
+
+b) novine« i časopise novinskog nakladnika koji ima statut medija te novine« i časopise nakladnika za koje ne postoji obveza donošenja statuta medija prema posebnom propisu, osim onih iz stavka 2. točke g) ovoga članka koji izlaze periodično te osim onih koji u cijelosti ili većim dijelom sadrže oglase ili služe oglašavanju te osim onih koji se u cijelosti ili većim dijelom sastoje od videozapisa ili glazbenog sadržaja,
+
+c) jestiva ulja i masti, biljnog i životinjskog podrijetla,
+
+d) dječje sjedalice za automobile, dječje pelene te dječju hranu i prerađenu hranu na bazi žitarica za dojenčad i malu djecu,
+
+e) isporuku vode, osim vode koja se stavlja na tržište u bocama ili u drugoj ambalaži, u smislu javne vodoopskrbe i javne odvodnje prema posebnom propisu,
+
+f) ulaznice za koncerte,
+
+g) isporuku električne energije do drugog isporučitelja ili krajnjeg korisnika, uključujući naknade vezane uz tu isporuku,
+
+h) javnu uslugu prikupljanja miješanog komunalnog otpada, biorazgradivog komunalnog otpada i odvojenog sakupljanja otpada prema posebnom propisu,
+
+i) urne i ljesove,
+
+j) sadnice i sjemenje,
+
+k) gnojiva i pesticide te druge agrokemijske proizvode,
+
+l) proizvode koji se pretežito koriste kao hrana za životinje, osim hrane za kućne ljubimce,
+
+m) isporuku živih životinja: goveda, svinja, ovaca, koza, konja, magaraca, domaće peradi, kunića i zečeva,
+
+n) isporuku svježeg ili rashlađenog mesa i jestivih klaoničkih proizvoda od: goveda, svinja, ovaca, koza, konja, magaraca, domaće peradi, kunića i zečeva,
+
+o) isporuku svježih ili rashlađenih kobasica i sličnih proizvoda od mesa, mesnih klaoničkih proizvoda ili krvi,
+
+p) isporuku žive ribe,
+
+r) isporuku svježe ili rashlađene ribe, mekušaca i ostalih vodenih beskralježnjaka,
+
+s) isporuku svježih ili rashlađenih rakova: jastoga, hlapova, škampa, kozica,
+
+t) isporuku svježeg ili rashlađenog povrća, korijena i gomolja, uključujući mahunasto suho povrće,
+
+u) isporuku svježeg i suhog voća i orašastih plodova,
+
+v) isporuku svježih jaja peradi, u ljusci,
+
+z) usluge i povezana autorska prava pisaca, skladatelja i umjetnika izvođača koji su članovi odgovarajućih organizacija za kolektivno ostvarivanje prava koje obavljaju tu djelatnost prema posebnim propisima iz područja autorskog i srodnih prava te uz prethodno odobrenje središnjeg državnog tijela nadležnog za intelektualno vlasništvo.
+
+(4) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s primjenom snižene stope PDV-a, koristeći za isporuku dobara iz stavka 3. točaka j) do v) ovoga članka Kombiniranu nomenklaturu (KN) iz Priloga I Uredbe Vijeća (EEZ) br. 2658/1987.«.
+
+#### Članak 7.
+
+U članku 61. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Porezni obveznik ne može odbiti 50% pretporeza obračunanog za nabavu ili najam osobnih automobila, uključujući nabavu svih dobara i usluga u vezi s tim dobrima. Osobnim automobilima smatraju se motorna vozila namijenjena za prijevoz osoba koja, osim sjedala za vozača, imaju najviše osam sjedala.
+
+(3) Iznimno, odredbe stavka 2. ovoga članka ne primjenjuju se ako se radi o osobnim automobilima koji se koriste za obuku vozača, testiranje vozila, servisnu službu, djelatnost prijevoza putnika i dobara, prijevoza umrlih, iznajmljivanja ili se nabavljaju za daljnju prodaju te motornim vozilima kategorije N1 koja su razvrstana u tarifnu oznaku 8703 Carinske tarife i nisu predmet oporezivanja prema posebnom propisu o posebnom porezu na motorna vozila.«.
+
+#### Članak 8.
+
+U članku 67. stavku 2. točka b) mijenja se i glasi:
+
+»b) usluga i isporuka dobara za koje je u skladu s člankom 10. stavkom 4., člankom 75. stavkom 1. točkama 6. i 7. te člankom 75. stavkom 2. ovoga Zakona PDV obvezna platiti osoba kojoj su isporuke obavljene.«.
+
+#### Članak 9.
+
+U članku 68. stavku 3. točki 2. podtočki b) riječi: »stavcima 2. i 3.« zamjenjuju se riječima: »stavkom 2.«.
+
+#### Članak 10.
+
+U članku 75. stavku 2. iza riječi: »boravište« dodaju se riječi: »i nije registriran za potrebe PDV-a«.
+
+U stavku 3. točki f) točka se zamjenjuje zarezom i dodaje se točka g) koja glasi:
+
+»g) isporuke betonskog čelika i željeza te proizvoda od betonskog čelika i željeza (armatura).«.
+
+#### Članak 11.
+
+U članku 76. stavku 8. iza riječi: »(Službeni list br. L 256 od 7. 9. 1987.))« stavlja se zarez i dodaju riječi: »a koji se uvoze kao dugotrajna materijalna imovina,«.
+
+#### Članak 12.
+
+U članku 77. stavku 1. iza riječi: »prethodnoj« dodaju se riječi: »ili tekućoj«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) U slučaju sumnje u opravdanost dodjele PDV identifikacijskog broja Porezna uprava može od poreznog obveznika kojem je PDV identifikacijski broj dodijeljen tražiti podnošenje instrumenta osiguranja plaćanja PDV-a za razdoblje od najviše 12 mjeseci. Ako porezni obveznik ne podnese instrument osiguranja, Porezna uprava ukinut će PDV identifikacijski broj, o čemu donosi rješenje, a žalba ne odgađa izvršenje rješenja.«
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+U dosadašnjem stavku 9., koji postaje stavak 10., iza riječi: »PDV identifikacijskog broja« stavlja se zarez i dodaju riječi: »postupak vezan uz podnošenje instrumenta osiguranja plaćanja PDV-a«.
+
+#### Članak 13.
+
+U članku 78. stavku 10. iza riječi: »ne sudjeluje u isporuci« dodaju se riječi: »u smislu članka 75. stavka 4. točke b) ovoga Zakona«.
+
+Iza stavka 11. dodaje se novi stavak 12. koji glasi:
+
+»(12) Iznimno od stavka 9. ovoga članka, izdavanje računa podliježe pravilima koja se primjenjuju u državi članici u kojoj se porezni obveznik prijavio za korištenje jednog od posebnih postupaka iz članaka 118. do 125.h ovoga Zakona.«.
+
+Dosadašnji stavak 12. postaje stavak 13.
+
+#### Članak 14.
+
+U članku 85. stavak 10. mijenja se i glasi:
+
+»(10) Porezni obveznik upisan u registar obveznika PDV-a uz prijavu PDV-a iz stavka 1. ovoga članka u rokovima iz stavka 6. ovoga članka podnosi elektroničkim putem i posebnu evidenciju o primljenim računima. Iznimno, evidenciju o primljenim računima ne podnosi porezni obveznik koji prijavu PDV-a može podnijeti u papirnatom obliku prema stavku 9. ovoga članka.«.
+
+Stavak 12. mijenja se i glasi:
+
+»(12) Ministar financija pravilnikom propisuje oblik i sadržaj obrasca prijave PDV-a i evidencije o primljenim računima, oblik, sadržaj i rokove podnošenja prijave iz stavka 11. ovoga članka te rokove podnošenja prijave PDV-a koju podnosi porezni obveznik koji obavlja isključivo povremeni međunarodni cestovni prijevoz putnika na području Republike Hrvatske.«.
+
+#### Članak 15.
+
+U članku 90. stavku 1. iza riječi: »prethodnoj« dodaju se riječi: »ili tekućoj«.
+
+#### Članak 16.
+
+U članku 119. točki 1. riječi: »i koji ne mora biti registriran za potrebe PDV-a« brišu se.
+
+#### Članak 17.
+
+U članku 120. stavku 2. riječi: »i izjavu da nije registriran za potrebe PDV-a unutar Europske unije« zamjenjuju se riječima: »i izjavu da na području Europske unije nema sjedište, stalnu poslovnu jedinicu, prebivalište ili uobičajeno boravište«.
+
+#### Članak 18.
+
+Iza članka 127.a dodaje se članak 127.b koji glasi:
+
+»Članak 127.b
+
+(1) Porezna uprava ili Carinska uprava može od poreznog obveznika koji stječe rabljena prijevozna sredstva iz druge države članice, prije njihove registracije, zatražiti polaganje osiguranja za ispunjenje obveze PDV-a koja proizlazi iz stjecanja rabljenih prijevoznih sredstava.
+
+(2) Ministar financija pravilnikom propisuje postupak vezan uz polaganje osiguranja za ispunjenje obveza PDV-a koje proizlaze iz stjecanja rabljenih prijevoznih sredstava.«
+
+#### Članak 19.
+
+U članku 131. stavku 1. točki 10. riječi: »i 10.« zamjenjuju se riječima: »i 11.«.
+
+Točka 28. mijenja se i glasi:
+
+»28. ne podnese ili ne podnese u propisanom roku posebnu evidenciju o primljenim računima ili ako u njoj ne iskaže sve potrebne podatke (članak 85. stavak 10.).«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 20.
+
+(1) Odredbe Pravilnika o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17. i 128/17.) ostaju na snazi u dijelu koji nije u suprotnosti s ovim Zakonom.
+
+(2) Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17. i 128/17.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+#### Članak 21.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 22.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim članka 6. ovoga Zakona u dijelu kojim se mijenja članak 38. stavak 1. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14. i 115/16.) koji stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/18-01/142  
+Zagreb, 21. studenoga 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 121/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/121/2381*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 29. studenoga 2019.
+
+Klasa: 011-01/19-01/206  
+Urbroj: 71-06-01/1-19-2  
+Zagreb, 4. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16. i 106/18.) u članku 2. iza podstavka 7. točka se zamjenjuje zarezom i dodaju se podstavci 8. i 9. koji glase:
+
+» – Direktiva Vijeća (EU) 2018/1910 od 4. prosinca 2018. o izmjeni Direktive 2006/112/EZ u pogledu usklađivanja i pojednostavnjenja određenih pravila sustava poreza na dodanu vrijednost za oporezivanje trgovine među državama članicama (SL L 311, 7. 12. 2018.),
+
+– Direktiva Vijeća (EU) 2019/475 od 18. veljače 2019. o izmjeni direktiva 2006/112/EZ i 2008/118/EZ u pogledu uključivanja talijanske općine Campione d΄Italia i talijanskih voda Luganskog jezera u carinsko područje Unije i teritorijalno područje primjene Direktive 2008/118/EZ (SL L 83, 25. 3. 2019.).«.
+
+#### Članak 2.
+
+Iza članka 7. dodaje se članak 7.a koji glasi:
+
+»Članak 7.a
+
+(1) Prijenos dobara koji obavlja porezni obveznik, a koja čine dio njegove poslovne imovine, u drugu državu članicu na temelju aranžmana za premještanje dobara ne smatra se isporukom dobara uz naknadu.
+
+(2) U smislu ovoga članka aranžman za premještanje dobara postoji ako su ispunjeni sljedeći uvjeti:
+
+a) porezni obveznik ili treća osoba za njegov račun otprema ili prevozi dobra u drugu državu članicu s namjerom da ta dobra u toj državi članici naknadno i nakon dolaska isporuči drugom poreznom obvezniku koji ima pravo preuzeti vlasništvo nad tim dobrima u skladu s postojećim dogovorom između oba porezna obveznika,
+
+b) porezni obveznik koji otprema ili prevozi dobra nema sjedište, prebivalište ili uobičajeno boravište niti stalnu poslovnu jedinicu u državi članici u koju se dobra otpremaju ili prevoze,
+
+c) porezni obveznik kojem je namijenjena isporuka dobara registriran je za potrebe PDV-a u državi članici u koju se dobra otpremaju ili prevoze te su njegov identitet i PDV identifikacijski broj koji mu je ta država članica dodijelila poznati poreznom obvezniku iz točke b) ovoga stavka u trenutku kada otprema ili prijevoz započinju i
+
+d) porezni obveznik koji otprema ili prevozi dobra upisuje prijenos dobara u evidenciju iz članka 83. stavka 3. ovoga Zakona te u Zbirnoj prijavi iz članka 88. ovoga Zakona navodi PDV identifikacijski broj poreznog obveznika koji stječe dobra, a koji mu je dodijelila država članica u koju se dobra otpremaju ili prevoze.
+
+(3) Ako su ispunjeni uvjeti iz stavka 2. ovoga članka te ako se prijenos obavlja u roku iz stavka 4. ovoga članka, u trenutku prijenosa prava raspolaganja dobrima u svojstvu vlasnika na poreznog obveznika iz stavka 2. točke c) ovoga članka primjenjuju se sljedeća pravila:
+
+a) smatra se da je isporuku dobara u skladu s člankom 41. stavkom 1. točkom a) ovoga Zakona obavio porezni obveznik koji je sam otpremio ili prevezao dobra u državi članici iz koje su dobra otpremljena ili prevezena ili je to za njegov račun obavila treća osoba,
+
+b) smatra se da je stjecanje dobara unutar Europske unije obavio porezni obveznik kojem se ta dobra isporučuju u državi članici u koju su dobra otpremljena ili prevezena.
+
+(4) Ako u roku od 12 mjeseci nakon dolaska dobara u državu članicu u koju su otpremljena ili prevezena dobra nisu isporučena poreznom obvezniku kojem su namijenjena sukladno stavku 2. točki c) i stavku 6. ovoga članka, a nije nastupila niti jedna okolnost iz stavka 7. ovoga članka, smatra se da je isporuka dobara u smislu članka 7. stavka 5. ovoga Zakona obavljena na dan koji slijedi nakon isteka razdoblja od 12 mjeseci.
+
+(5) Ne smatra se da je isporuka dobara u smislu članka 7. stavka 5. ovoga Zakona obavljena ako su ispunjeni sljedeći uvjeti:
+
+a) pravo na raspolaganje dobrima nije preneseno, a ta su dobra vraćena u državu članicu iz koje su prevezena ili otpremljena, u roku iz stavka 4. ovoga članka i
+
+b) porezni obveznik koji je otpremio ili prevezao dobra upisuje povrat dobara u evidenciju iz članka 83. stavka 3. ovoga Zakona.
+
+(6) Ako se u roku iz stavka 4. ovoga članka porezni obveznik iz stavka 2. točke c) ovoga članka zamijeni drugim poreznim obveznikom, ne smatra se da je isporuka dobara u smislu članka 7. stavka 5. ovoga Zakona obavljena u trenutku zamjene ako su ispunjeni sljedeći uvjeti:
+
+a) ispunjeni su svi drugi primjenjivi uvjeti iz stavka 2. ovoga članka i
+
+b) porezni obveznik iz stavka 2. točke b) ovoga članka upisao je zamjenu u evidenciju iz članka 83. stavka 3. ovoga Zakona.
+
+(7) Ako u roku iz stavka 4. ovoga članka bilo koji uvjet iz stavaka 2. i 6. ovoga članka više nije ispunjen, smatra se da je isporuka dobara u smislu članka 7. stavka 5. ovoga Zakona obavljena u trenutku u kojem taj uvjet više nije ispunjen. Ako se dobra isporučuju osobi koja nije porezni obveznik iz stavka 2. točke c) ili stavka 6. ovoga članka, smatra se da uvjeti iz stavaka 2. i 6. ovoga članka više nisu ispunjeni neposredno prije te isporuke. Ako se dobra otpremaju ili prevoze u državu koja nije država članica iz koje su izvorno premještena, smatra se da uvjeti iz stavaka 2. i 6. ovoga članka više nisu ispunjeni neposredno prije početka takve otpreme ili prijevoza. U slučaju uništenja, gubitka ili krađe dobara smatra se da uvjeti iz stavaka 2. i 6. ovoga članka više nisu ispunjeni na dan kada su dobra nestala ili su uništena ili, ako je nemoguće utvrditi taj dan, na dan kada je utvrđeno da su dobra uništena ili da nedostaju.«.
+
+#### Članak 3.
+
+Iza članka 13. dodaje se članak 13.a koji glasi:
+
+»Članak 13.a
+
+(1) Kada se ista dobra isporučuju uzastopno te se otpremaju ili prevoze iz jedne države članice u drugu državu članicu izravno od prvog isporučitelja do zadnjeg kupca u nizu, otprema ili prijevoz pripisuje se samo isporuci koja je obavljena posredniku.
+
+(2) Odstupajući od stavka 1. ovoga članka, otprema ili prijevoz pripisuje se samo isporuci dobara koju je obavio posrednik u slučaju u kojem je posrednik svojeg isporučitelja obavijestio o PDV identifikacijskom broju koji mu je izdala država članica iz koje se dobra otpremaju ili prevoze.
+
+(3)»Posrednik« u smislu ovoga članka je isporučitelj u nizu različit od prvog isporučitelja, koji sam otprema ili prevozi dobra ili to za njegov račun obavlja treća osoba.«.
+
+#### Članak 4.
+
+U članku 33. stavku 7. na kraju rečenice briše se točka i dodaje tekst koji glasi: »ili ako porezni obveznik kojemu su isporučena dobra ili obavljene usluge koji nema sjedište, prebivalište ili uobičajeno boravište i nije registriran za potrebe PDV-a u tuzemstvu pisano izvijesti isporučitelja da nije zatražio povrat PDV-a prema odredbama članka 67. ili članka 68. ovoga Zakona.«.
+
+#### Članak 5.
+
+U članku 38. stavku 2. točki e) riječi: »Pravilnikom o ortopedskim i drugim pomagalima« zamjenjuju se riječima: »općim aktom o ortopedskim i drugim pomagalima«.
+
+U stavku 3. točka z) mijenja se i glasi:
+
+»z) usluge i povezana autorska prava pisaca, skladatelja i umjetnika izvođača te nositelja fonogramskih prava koji su članovi odgovarajućih organizacija za kolektivno ostvarivanje prava koje obavljaju tu djelatnost prema posebnim propisima iz područja autorskog i srodnih prava te uz prethodno odobrenje tijela državne uprave nadležnog za intelektualno vlasništvo,«.
+
+Iza točke z) dodaje se točka za) koja glasi:
+
+»za) pripremanje i usluživanje jela i slastica u i izvan ugostiteljskog objekta prema posebnom propisu.«.
+
+U stavku 4. iza riječi: »stope PDV-a,« dodaju se riječi: »te što se smatra pripremanjem i usluživanjem jela i slastica u i izvan ugostiteljskog objekta.«.
+
+#### Članak 6.
+
+U članku 39. stavku 1. točki c) riječi: »neovisno o pravnom obliku,« brišu se.
+
+U točki e) riječi: »neovisno o pravnom obliku,« brišu se.
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+#### Članak 7.
+
+U članku 41. stavku 1. točka a) mijenja se i glasi:
+
+»a) isporuke dobara koje prodavatelj ili osoba koja stječe dobra ili druga osoba za njihov račun otpremi ili preveze iz tuzemstva u drugu državu članicu, ako su ispunjeni sljedeći uvjeti:
+
+1. dobra se isporučuju drugom poreznom obvezniku ili pravnoj osobi koja nije porezni obveznik, a koja djeluje kao takva, u toj drugoj državi članici i
+
+2. porezni obveznik ili pravna osoba koja nije porezni obveznik kojoj se obavlja isporuka registrirana je za potrebe PDV-a u toj drugoj državi članici te je isporučitelju dala svoj PDV identifikacijski broj,«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Oslobođenje iz stavka 1. točke a) ovoga članka ne primjenjuje se ako porezni obveznik isporučitelj ne podnese Zbirnu prijavu iz članka 88. ovoga Zakona ili ako u podnesenoj Zbirnoj prijavi ne iskaže točne podatke iz članka 88. stavaka 3., 4. i 5. ovoga Zakona, osim ako može opravdati svoj propust u skladu sa zahtjevima Porezne uprave.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+#### Članak 8.
+
+U članku 48. stavku 2. riječi: »iz stavka 1. točaka a) i c)« zamjenjuju se riječima: »iz stavka 1. točaka a), b), c), d) i e)«.
+
+#### Članak 9.
+
+U članku 77. stavku 1. iza prve rečenice dodaje se rečenica koja glasi:
+
+»Ako se porezni obveznik ne prijavi u registar obveznika PDV-a, iako je vrijednost njegovih isporuka u prethodnoj ili tekućoj kalendarskoj godini prešla iznos iz članka 90. stavka 1. ovoga Zakona, Porezna uprava upisuje ga u registar obveznika PDV-a po službenoj dužnosti o čemu donosi rješenje, a žalba ne odgađa izvršenje rješenja.«.
+
+#### Članak 10.
+
+U članku 83. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Porezni obveznik koji prenosi dobra u okviru aranžmana za premještanje dobara iz članka 7.a ovoga Zakona mora voditi evidenciju koja Poreznoj upravi omogućava provjeru pravilne primjene tog aranžmana. Porezni obveznik kojemu se isporučuju dobra u okviru aranžmana za premještanje dobara iz članka 7.a ovoga Zakona mora voditi evidenciju tih dobara.«
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., riječi: »stavaka 1., 2., 3. i 4.« zamjenjuju se riječima: »stavaka 1., 2., 3., 4. i 5.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 7. i 8.
+
+#### Članak 11.
+
+U članku 85. stavku 10. u prvoj rečenici iza riječi: »posebnu evidenciju o primljenim računima« dodaju se riječi: »za razdoblje oporezivanja za koje je u prijavi PDV-a iskazan pretporez u točki III.1, III.2 i/ili III.3«.
+
+Iza stavka 11. dodaje se novi stavak 12. koji glasi:
+
+»(12) Porezni obveznik iz stavka 9. ovoga članka koji obavlja povremeni međunarodni cestovni prijevoz putnika na području Republike Hrvatske obvezan je podnijeti Prijavu usluga međunarodnog cestovnog prijevoza putnika prije ulaska u Republiku Hrvatsku te ju je obvezan u pisanom obliku imati u prijevoznom sredstvu.«.
+
+U dosadašnjem stavku 12., koji postaje stavak 13., iza riječi: »Republike Hrvatske« dodaju se riječi: »te način podnošenja, oblik i podatke koji se upisuju u Prijavu usluga međunarodnog cestovnog prijevoza putnika«.
+
+#### Članak 12.
+
+U članku 88. stavku 1. iza točke c) točka se zamjenjuje zarezom.
+
+Iza točke c) dodaje se točka d) koja glasi:
+
+»d) PDV identifikacijskom broju poreznih obveznika kojima su namijenjena dobra koja se otpremaju ili prevoze u okviru aranžmana za premještanje dobara u skladu s uvjetima iz članka 7.a ovoga Zakona te o svakoj izmjeni dostavljenih podataka.«.
+
+#### Članak 13.
+
+U članku 125.i stavku 1. broj: »3.000.000,00« zamjenjuje se brojem: »7.500.000,00«.
+
+#### Članak 14.
+
+U članku 125.k stavku 2. broj: »3.000.000,00« zamjenjuje se brojem: »7.500.000,00«.
+
+#### Članak 15.
+
+U članku 131. stavku 1. točki 3. riječi: »članak 39. stavci 1., 2. i 3.,« zamjenjuju se riječima: »članak 39. stavci 1. i 2.,«.
+
+U stavku 1. točki 28. iza riječi: »posebnu evidenciju o primljenim računima« dodaju se riječi: »za razdoblje oporezivanja za koje je u prijavi PDV-a iskazan pretporez u točki III.1, III.2 i/ili III.3« te se točka zamjenjuje zarezom.
+
+Iza točke 28. dodaje se točka 29. koja glasi:
+
+»29. ne podnese Prijavu usluga međunarodnog cestovnog prijevoza putnika i/ili u njoj iskaže netočne i/ili nepotpune podatke (članak 85. stavak 12.).«.
+
+#### Članak 16.
+
+U članku 6. Zakona o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 106/18.) u izmijenjenom članku 38. stavak 1. mijenja se i glasi:
+
+»(1) PDV se obračunava i plaća po stopi od 25%.«.
+
+#### Članak 17.
+
+U članku 22. Zakona o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 106/18.) riječi: »osim članka 6. ovog Zakona u dijelu kojim se mijenja članak 38. stavak 1. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14. i 115/16.) koji stupa na snagu 1. siječnja 2020.« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 18.
+
+(1) Porezni obveznici koji nisu ispunjavali uvjete iz članka 39. stavka 3. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16. i 106/18.) te su na obavljene isporuke obračunavali PDV, od 1. siječnja 2020. primjenjuju oslobođenje od plaćanja PDV-a temeljem odredbi članka 39. stavka 1. točaka b), g), h), i), l), m) i n) toga Zakona i obvezni su ispraviti odbitak pretporeza za gospodarska dobra koja će koristiti za obavljanje isporuka oslobođenih plaćanja PDV-a sukladno odredbama članaka 63. i 64. toga Zakona.
+
+(2) Porezni obveznici iz stavka 1. ovoga članka koji su 2019. godine upisani u registar obveznika PDV-a na vlastiti zahtjev, mogu iznimno od odredbi članka 90. stavka 3. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16. i 106/18.) do 15. siječnja 2021. podnijeti zahtjev za brisanje iz registra obveznika PDV-a nadležnoj ispostavi Porezne uprave ako u 2020. godini nisu ostvarili vrijednosti isporuka dobara ili obavljenih usluga veće od iznosa iz članka 90. stavka 1. toga Zakona.
+
+#### Članak 19.
+
+Porezni obveznici sa sjedištem, stalnom poslovnom jedinicom, prebivalištem ili uobičajenim boravištem u tuzemstvu čija vrijednost isporuka dobara i usluga u 2019. godini nije bila veća od 7.500.000,00 kuna bez PDV-a, koji žele početi primjenjivati postupak oporezivanja prema naplaćenim naknadama od 1. siječnja 2020., moraju o tome najkasnije do 20. siječnja 2020. dostaviti pisanu izjavu nadležnoj ispostavi Porezne uprave.
+
+#### Članak 20.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine« br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17. i 1/19.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+#### Članak 21.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 22.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/210
+
+Zagreb, 29. studenoga 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 138/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/138/2626*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 4. prosinca 2020.
+
+Klasa: 011-01/20-01/109
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 9. prosinca 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+##### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18. i 121/19.) u članku 2. podstavku 1. riječi: »kako je zadnje izmijenjena Direktivom Vijeća (EU) 2016/1065 od 27. lipnja 2016. o izmjeni Direktive 2006/112/EZ u vezi s tretmanom vrijednosnih kupona (SL L, 177, 1. 7. 2016.)« brišu se.
+
+Iza podstavka 9. umjesto točke stavlja se zarez i dodaju podstavci 10., 11. i 12. koji glase:
+
+» – Direktiva Vijeća (EU) 2019/1995 od 21. studenoga 2019. o izmjeni Direktive 2006/112/EZ u pogledu odredaba koje se odnose na prodaju robe na daljinu i određene isporuke robe na domaćem tržištu (SL L 310, 2. 12. 2019.),
+
+– Direktiva Vijeća (EU) 2019/2235 od 16. prosinca 2019. o izmjeni Direktive 2006/112/EZ o zajedničkom sustavu poreza na dodanu vrijednost i Direktive 2008/118/EZ o općim aranžmanima za trošarine u pogledu obrambenih napora unutar okvira Unije (SL L 336, 30. 12. 2019.),
+
+– Direktiva Vijeća (EU) 2020/1756 od 20. studenoga 2020. o izmjeni Direktive 2006/112/EZ o zajedničkom sustavu poreza na dodanu vrijednost u pogledu identifikacije poreznih obveznika u Sjevernoj Irskoj (SL L 396, 25. 11. 2020.).«.
+
+##### Članak 2.
+
+U članku 7. iza stavka 10. dodaje se novi stavak 11. koji glasi:
+
+»(11) U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+
+1. »prodaja dobara na daljinu unutar Europske unije« je isporuka dobara koju otprema ili prevozi isporučitelj ili druga osoba za njegov račun, uključujući kada isporučitelj neizravno sudjeluje u prijevozu ili otpremi dobara, iz države članice koja nije država članica u kojoj otprema ili prijevoz dobara kupcu završava, ako su ispunjeni sljedeći uvjeti:
+
+a) isporuka dobara obavlja se poreznom obvezniku ili pravnoj osobi koja nije porezni obveznik, a čije stjecanje dobara unutar Europske unije ne podliježe plaćanju PDV-a u skladu s člankom 5. stavkom 1. ovoga Zakona, ili bilo kojoj drugoj osobi koja nije porezni obveznik i
+
+b) isporučeno dobro nije novo prijevozno sredstvo niti dobro koje isporučitelj ili druga osoba za njegov račun sastavlja ili postavlja s ili bez probnog rada
+
+2. »prodaja dobara na daljinu uvezenih iz trećih područja ili trećih zemalja« je isporuka dobara koju otprema ili prevozi isporučitelj ili druga osoba za njegov račun, uključujući kada isporučitelj neizravno sudjeluje u prijevozu ili otpremi dobara, iz trećeg područja ili treće zemlje kupcu u državi članici, ako su ispunjeni sljedeći uvjeti:
+
+a) isporuka dobara obavlja se poreznom obvezniku ili pravnoj osobi koja nije porezni obveznik, a čije stjecanje dobara unutar Europske unije ne podliježe plaćanju PDV-a u skladu s člankom 5. stavkom 1. ovoga Zakona, ili bilo kojoj drugoj osobi koja nije porezni obveznik i
+
+b) isporučeno dobro nije novo prijevozno sredstvo niti dobro koje isporučitelj ili druga osoba za njegov račun sastavlja ili postavlja s ili bez probnog rada.«.
+
+Dosadašnji stavak 11. postaje stavak 12.
+
+##### Članak 3.
+
+Iza članka 7.a dodaje se članak 7.b koji glasi:
+
+»Članak 7.b
+
+(1) Kada porezni obveznik, putem uporabe elektroničkog sučelja, kao što je mjesto trgovanja, platforma, portal ili slično sredstvo, omogućuje prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja u pošiljkama čija unutarnja vrijednost nije veća od 1.135,00 kuna, smatra se da je taj porezni obveznik isporučitelj.
+
+(2) Kada porezni obveznik, putem uporabe elektroničkog sučelja, kao što je mjesto trgovanja, platforma, portal ili slično sredstvo, omogućuje isporuku dobara unutar Europske unije od strane poreznog obveznika koji nema sjedište unutar Europske unije osobi koja nije porezni obveznik, smatra se da je porezni obveznik koji omogućuje isporuku isporučitelj.«.
+
+##### Članak 4.
+
+U članku 9. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Stjecanjem dobara unutar Europske unije uz naknadu smatra se kada oružane snage države članice koja sudjeluje u obrambenim naporima koji se poduzimaju radi provedbe aktivnosti Europske unije u okviru zajedničke sigurnosne i obrambene politike, koriste za vlastite potrebe ili za potrebe njihova civilnog osoblja dobra koja nisu kupili prema općim pravilima oporezivanja u tuzemstvu, ako pri uvozu tih dobara ne ispunjavaju uvjete za oslobođenje iz članka 44. stavka 1. točke 31. ovoga Zakona.«.
+
+Dosadašnji stavci 3., 4. i 5. postaju stavci 4., 5. i 6.
+
+##### Članak 5.
+
+U članku 13. stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od stavaka 1. i 2. ovoga članka:
+
+a) mjestom isporuke za prodaju dobara na daljinu unutar Europske unije smatra se mjesto gdje se dobra nalaze u trenutku u kojem otprema ili prijevoz dobara kupcu završava,
+
+b) mjestom isporuke za prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja u državu članicu u kojoj ne završava otprema ili prijevoz dobara smatra se mjesto gdje se dobra nalaze u trenutku u kojem otprema ili prijevoz dobara kupcu završava,
+
+c) smatra se da se mjesto isporuke za prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja nalazi u državi članici u kojoj otprema ili prijevoz dobara kupcu završava ako se PDV na ta dobra mora prijaviti prema posebnom postupku iz članaka 125.ha do 125.hk ovoga Zakona.«.
+
+Stavci 4. do 9. brišu se.
+
+Dosadašnji stavak 10. postaje stavak 4.
+
+##### Članak 6.
+
+U članku 13.a iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Odredbe ovoga članka ne primjenjuju se na isporuke iz članka 7.b ovoga Zakona.«.
+
+##### Članak 7.
+
+Iza članka 13.a dodaje se članak 13.b koji glasi:
+
+»Članak 13.b
+
+Ako je porezni obveznik primio i isporučio dobra u skladu s člankom 7.b ovoga Zakona, otprema ili prijevoz dobara pripisuju se isporuci koju je obavio taj porezni obveznik.«.
+
+##### Članak 8.
+
+U članku 26. stavci 3., 4. i 5. brišu se.
+
+Dosadašnji stavci 6. i 7. postaju stavci 3. i 4.
+
+##### Članak 9.
+
+Iza članka 26. dodaje se naslov iznad članka i članak 26.a koji glase:
+
+*»2.2.10. Prag za porezne obveznike koji isporučuju dobra obuhvaćena člankom 13. stavkom 3. točkom a) ovoga Zakona i isporučuju usluge obuhvaćene člankom 26. ovoga Zakona*
+
+##### Članak 26.a
+
+(1) Članak 13. stavak 3. točka a) i članak 26. ovoga Zakona ne primjenjuju se ako su ispunjeni sljedeći uvjeti:
+
+a) isporučitelj ima sjedište, prebivalište ili uobičajeno boravište u Republici Hrvatskoj,
+
+b) usluge se obavljaju osobama koje nisu porezni obveznici i koje imaju sjedište, prebivalište ili uobičajeno boravište u drugoj državi članici ili se dobra otpremaju ili prevoze u drugu državu članicu i
+
+c) ukupna vrijednost, bez PDV-a, isporuka iz točke b) ovoga stavka u tekućoj kalendarskoj godini nije veća od 77.000,00 kuna te nije bila veća od navedenog iznosa tijekom prethodne kalendarske godine.
+
+(2) Ako se tijekom kalendarske godine prijeđe prag iz stavka 1. točke c) ovoga članka, od tog se trenutka primjenjuju članak 13. stavak 3. točka a) i članak 26. ovoga Zakona.
+
+(3) Porezni obveznik koji isporučuje dobra koja se nalaze na području Republike Hrvatske u trenutku kada počinje njihova otprema ili prijevoz ili koji obavlja telekomunikacijske usluge, usluge radijskog i televizijskog emitiranja i elektronički obavljene usluge i ima sjedište u Republici Hrvatskoj te ispunjava uvjete iz stavka 1. ovoga članka može odabrati određivanje mjesta isporuke u skladu s člankom 13. stavkom 3. točkom a) i člankom 26. ovoga Zakona, što ga obvezuje na razdoblje od dvije kalendarske godine.
+
+(4) Ministar financija pravilnikom propisuje način praćenja jesu li ispunjeni uvjeti iz ovoga članka.«.
+
+##### Članak 10.
+
+Iza članka 30. dodaje se članak 30.a koji glasi:
+
+»Članak 30.a
+
+Iznimno od članka 30. ovoga Zakona, oporezivi događaj za isporuku dobara koju obavlja porezni obveznik za kojeg se smatra da je isporučitelj u skladu s člankom 7.b ovoga Zakona, kao i oporezivi događaj za isporuku dobara tom poreznom obvezniku, te obveza obračuna PDV-a nastaju u trenutku prihvaćanja plaćanja.«.
+
+##### Članak 11.
+
+U članku 40. iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) PDV-a je oslobođena isporuka dobara poreznom obvezniku za kojeg se smatra da je isporučitelj tih dobara u skladu s člankom 7.b stavkom 2. ovoga Zakona.«.
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+##### Članak 12.
+
+U članku 41. stavku 1. točki a) podtočkama 1. i 2. riječ: »toj« briše se.
+
+##### Članak 13.
+
+U članku 44. stavku 1. točka 7. mijenja se i glasi:
+
+»7. uvoz dobara za koja se PDV treba prijaviti u skladu s posebnim postupkom iz članaka 125.ha do 125.hk ovoga Zakona i ako je, najkasnije pri podnošenju uvozne deklaracije, nadležnom carinskom uredu dostavljen, za primjenu posebnog postupka, pojedinačni identifikacijski broj isporučitelja ili posrednika koji djeluje za njegov račun, koji se dodjeljuje na temelju članka 125.hf ovoga Zakona,«.
+
+Iza točke 38. umjesto točke stavlja se zarez i dodaje se točka 39. koja glasi:
+
+»39. uvoz dobara koji obave oružane snage drugih država članica za potrebe tih snaga ili njihova civilnog osoblja ili za opskrbu njihovih menzi ili kantina, kad takve snage sudjeluju u obrambenim naporima koji se poduzimaju radi provedbe aktivnosti Europske unije u okviru zajedničke sigurnosne i obrambene politike.«.
+
+##### Članak 14.
+
+U članku 48. stavku 1. iza točke c) dodaju se nove točke d) i e) koje glase:
+
+»d) isporuke dobara ili obavljanje usluga na području Republike Hrvatske za potrebe oružanih snaga drugih država članica ili njihova civilnog osoblja te za opskrbu njihovih menzi ili kantina, kada takve snage sudjeluju u obrambenim naporima koji se poduzimaju radi provedbe aktivnosti Europske unije u okviru zajedničke sigurnosne i obrambene politike,
+
+e) isporuke dobara ili obavljanje usluga u drugu državu članicu namijenjenih oružanim snagama bilo koje države članice koja nije država članica odredišta, za potrebe tih snaga ili njihova civilnog osoblja ili za opskrbu njihovih menzi ili kantina, kada takve snage sudjeluju u obrambenim naporima koji se poduzimaju radi provedbe aktivnosti Europske unije u okviru zajedničke sigurnosne i obrambene politike,«.
+
+Dosadašnje točke d), e) i f) postaju točke f), g) i h).
+
+##### Članak 15.
+
+U članku 58. stavku 6. iza riječi: »isporuke dobara i usluge iz« dodaju se riječi: »članka 40. stavka 8.,«.
+
+##### Članak 16.
+
+U članku 76. stavak 8. mijenja se i glasi:
+
+»(8) Iznimno od stavka 7. ovoga članka, smatra se da je PDV pri uvozu plaćen ako ga porezni obveznik upisan u registar obveznika PDV-a koji ima pravo na odbitak pretporeza u cijelosti iskaže kao obvezu u prijavi PDV-a, a takav način obračunavanja i plaćanja PDV-a porezni obveznik zatraži odgovarajućim popunjavanjem carinske deklaracije kojom se dobra puštaju u slobodni promet.«.
+
+Iza stavka 8. dodaju se novi stavci 9. i 10. koji glase:
+
+»(9) Ako se u postupku prihvaćanja carinske deklaracije iz stavka 8. ovoga članka u skladu s odredbama carinskog zakonodavstva polaže osiguranje za carinski dug koji je nastao ili bi mogao nastati, to osiguranje obuhvaća iznos uvoznog PDV-a koji je nastao ili bi mogao nastati.
+
+(10) Odredba stavka 8. ovoga članka ne primjenjuje se kada se podnosi deklaracija za puštanje u slobodni promet pošiljaka male vrijednosti (definirana člankom 143.a Delegirane uredbe Komisije (EU) 2015/2446 od 28. srpnja 2015. o dopuni Uredbe (EU) br. 952/2013 Europskog parlamenta i Vijeća o detaljnim pravilima koja se odnose na pojedine odredbe Carinskog zakonika Unije (SL L, 343, 29. 12. 2015.)) ili kada se podnosi deklaracija za dobra u poštanskim pošiljkama (definirana člankom 144. Delegirane uredbe Komisije (EU) 2015/2446 od 28. srpnja 2015. o dopuni Uredbe (EU) br. 952/2013 Europskog parlamenta i Vijeća o detaljnim pravilima koja se odnose na pojedine odredbe Carinskog zakonika Unije).«.
+
+Dosadašnji stavak 9. postaje stavak 11.
+
+Dosadašnji stavak 10. briše se.
+
+##### Članak 17.
+
+U članku 78. stavku 1. točka 2. mijenja se i glasi:
+
+»2. isporuke dobara u smislu članka 13. stavka 3. ovoga Zakona, osim ako porezni obveznik primjenjuje posebni postupak iz članaka 125.a do 125.h ovoga Zakona,«.
+
+##### Članak 18.
+
+U članku 83. iza stavka 7. dodaje se novi stavak 8. i stavak 9. koji glase:
+
+»(8) Ako porezni obveznik, putem uporabe elektroničkog sučelja, kao što je mjesto trgovanja, platforma, portal ili slično sredstvo, osobi koja nije porezni obveznik unutar Europske unije u skladu s odredbama članaka 12. do 28. ovoga Zakona omogućuje isporuku dobara ili usluga, porezni obveznik koji omogućuje isporuku dužan je voditi evidenciju o tim isporukama. Ta evidencija mora biti dovoljno detaljna kako bi se poreznim tijelima država članica u kojima su te isporuke oporezive omogućilo da provjere je li PDV pravilno obračunan.
+
+(9) Evidencija iz stavka 8. ovoga članka mora se državama članicama staviti na raspolaganje elektroničkim putem te se mora čuvati deset godina od isteka godine u kojoj je transakcija obavljena.«.
+
+Dosadašnji stavak 8. postaje stavak 10.
+
+##### Članak 19.
+
+U članku 95. stavku 5. riječi: »stavaka 3., 4., 5., 6., 7., 8. i 9.« zamjenjuju se riječima: »stavka 3.«.
+
+##### Članak 20.
+
+Naslov iznad članka 118. mijenja se i glasi:
+
+»6. Posebni postupci oporezivanja za porezne obveznike koji obavljaju usluge osobama koje nisu porezni obveznici ili prodaju dobra na daljinu ili obavljaju određene isporuke na domaćem tržištu«.
+
+U članku 118. stavak 1. mijenja se i glasi:
+
+»(1) U vezi s posebnim postupcima oporezivanja iz članaka 119. do 125.h ovoga Zakona, »prijava PDV-a za posebni postupak oporezivanja« je prijava koja sadrži podatke potrebne za utvrđivanje iznosa PDV-a koji pripada pojedinoj državi članici potrošnje.«.
+
+##### Članak 21.
+
+Naslov iznad članka 119. mijenja se i glasi:
+
+»6.2. Posebni postupak oporezivanja za usluge koje obavljaju porezni obveznici bez sjedišta unutar Europske unije«.
+
+U članku 119. točka 2. mijenja se i glasi:
+
+»2. »država članica prijave« je država članica koju izabere porezni obveznik koji nema sjedište na području Europske unije kako bi u njoj prijavio početak obavljanja svoje djelatnosti kao poreznog obveznika na području Europske unije,«.
+
+Iza točke 2. dodaje se točka 3. koja glasi:
+
+»3. »država članica potrošnje« je država članica za koju se smatra da se u njoj obavlja usluga u skladu s člancima 16. do 26. ovoga Zakona.«.
+
+##### Članak 22.
+
+Članak 119.a mijenja se i glasi:
+
+»Posebni postupak oporezivanja za usluge primjenjuje se na usluge iz članaka 16. do 26. ovoga Zakona koje porezni obveznik koji nema sjedište na području Europske unije obavi na području Europske unije osobama koje nisu porezni obveznici, a koje imaju sjedište, prebivalište ili uobičajeno boravište u bilo kojoj državi članici.«.
+
+##### Članak 23.
+
+U članku 120. stavku 3. iza riječi: »dodjeljuje« dodaju se riječi: »pojedinačni«.
+
+##### Članak 24.
+
+U članku 121. točka a) mijenja se i glasi:
+
+»a) podnese obavijest da više ne obavlja usluge obuhvaćene posebnim postupkom oporezivanja usluga koje obavljaju porezni obveznici bez sjedišta unutar Europske unije.«.
+
+##### Članak 25.
+
+U članku 122. stavak 1. mijenja se i glasi:
+
+»(1) Porezni obveznik iz članka 120. stavka 1. ovoga Zakona obvezan je za svako kalendarsko tromjesečje do zadnjeg dana u tekućem mjesecu po proteku tromjesečja za koje se prijava podnosi, Poreznoj upravi podnijeti prijavu PDV-a za posebni postupak oporezivanja, bez obzira na to je li ili nije u tom razdoblju obavljao usluge obuhvaćene ovim posebnim postupkom. Prijava PDV-a za posebni postupak oporezivanja podnosi se elektroničkim putem.«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) U prijavi PDV-a iz stavka 1. ovoga članka porezni obveznik mora navesti svoj identifikacijski broj iz članka 120. stavka 3. ovoga Zakona i za svaku državu članicu potrošnje u kojoj treba platiti PDV, ukupnu vrijednost obavljenih usluga obuhvaćenih ovim posebnim postupkom u razdoblju oporezivanja bez PDV-a, ukupan iznos pripadajućeg PDV-a po stopama, stope PDV-a koje se primjenjuju te ukupan iznos PDV-a koji treba platiti. U slučaju izmjene podnesene prijave PDV-a za posebni postupak oporezivanja, izmjene se uključuju u sljedeću prijavu u roku od tri godine od propisanog roka iz stavka 1. ovoga članka. U toj prijavi navodi se država članica potrošnje, razdoblje oporezivanja i iznos PDV-a koji se mijenja.«.
+
+##### Članak 26.
+
+U članku 124. stavku 1. riječi: »za telekomunikacijske usluge, usluge radijskog i televizijskog emitiranja i elektronički obavljene usluge« brišu se.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ako se porezni obveznik iz stavka 1. ovoga članka registrirao za potrebe PDV-a u tuzemstvu s osnove obavljanja djelatnosti koje nisu obuhvaćene ovim posebnim postupkom, ostvaruje pravo na odbitak PDV-a u vezi s oporezivom djelatnošću koja je obuhvaćena ovim posebnim postupkom u prijavi PDV-a iz članka 85. ovoga Zakona.«.
+
+##### Članak 27.
+
+Naslov iznad članka 125.a mijenja se i glasi:
+
+»6.3. Posebni postupak oporezivanja za prodaju dobara na daljinu unutar Europske unije, za isporuke dobara unutar države članice koje obavljaju elektronička sučelja koja omogućuju te isporuke i za usluge koje isporučuju porezni obveznici sa sjedištem unutar Europske unije, ali bez sjedišta u državi članici potrošnje«.
+
+U članku 125.a stavku 1. iza točke 2. umjesto točke stavlja se zarez i dodaje se točka 3. koja glasi:
+
+»3. »država članica potrošnje« je:
+
+a) u slučaju obavljanja usluga, država članica za koju se smatra da se u njoj obavlja usluga u skladu s člancima 16. do 26. ovoga Zakona,
+
+b) u slučaju prodaje dobara na daljinu unutar Europske unije, država članica u kojoj završava otprema ili prijevoz dobara kupcu,
+
+c) u slučaju da isporuke dobara obavlja porezni obveznik koji omogućuje te isporuke u skladu s člankom 7.b stavkom 2. ovoga Zakona pri čemu otprema ili prijevoz dobara počinje i završava u istoj državi članici, ta država članica.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ako porezni obveznik nema sjedište, prebivalište ili uobičajeno boravište ili stalnu poslovnu jedinicu na području Europske unije, država članica prijave je država članica u kojoj započinje otprema ili prijevoz dobara. Ako otprema ili prijevoz dobara počinje u više država članica, porezni obveznik navodi koja je od tih država članica država članica prijave, a ta ga odluka obvezuje u tekućoj kalendarskoj godini i tijekom sljedeće dvije kalendarske godine.«.
+
+##### Članak 28.
+
+Članak 125.b mijenja se i glasi:
+
+»(1) Posebni postupak za prodaju dobara na daljinu unutar Europske unije, za isporuke dobara unutar države članice koje obavljaju elektronička sučelja koja omogućuju te isporuke i za usluge koje obavljaju porezni obveznici sa sjedištem unutar Europske unije, ali bez sjedišta u državi članici potrošnje može primjenjivati:
+
+a) porezni obveznik koji obavlja prodaju dobara na daljinu unutar Europske unije,
+
+b) porezni obveznik koji omogućuje isporuku dobara u skladu s člankom 7.b stavkom 2. ovoga Zakona, a otprema ili prijevoz isporučenih dobara počinje i završava u istoj državi članici,
+
+c) porezni obveznik koji nema sjedište u državi članici potrošnje i obavlja usluge osobi koja nije porezni obveznik.
+
+(2) Posebni postupak iz stavka 1. ovoga članka primjenjuje se na sva dobra i usluge koje porezni obveznik isporučuje u Europskoj uniji.«.
+
+##### Članak 29.
+
+U članku 125.c stavak 1. mijenja se i glasi:
+
+»(1) Porezni obveznik koji je Republiku Hrvatsku odabrao kao državu članicu prijave, mora Poreznoj upravi elektroničkim putem prijaviti početak i prestanak svoje djelatnosti u okviru posebnog postupka oporezivanja ili promjenu te djelatnosti na način da više ne ispunjava uvjete za primjenu posebnog postupka oporezivanja.
+
+##### Članak 30.
+
+U članku 125.d točka a) mijenja se i glasi:
+
+»a) podnese obavijest da više ne obavlja isporuke dobara i usluga obuhvaćene ovim posebnim postupkom oporezivanja,«.
+
+##### Članak 31.
+
+Članak 125.e mijenja se i glasi:
+
+»(1) Porezni obveznik iz članka 125.c stavka 1. ovoga Zakona obvezan je za svako kalendarsko tromjesečje do zadnjeg dana u tekućem mjesecu po proteku tromjesečja za koje se prijava podnosi, Poreznoj upravi podnijeti prijavu PDV-a za posebni postupak oporezivanja, bez obzira na to je li ili nije u tom razdoblju obavljao isporuke dobara i usluga obuhvaćene posebnim postupkom.
+
+(2) U prijavi PDV-a iz stavka 1. ovoga članka navodi se PDV identifikacijski broj iz članka 77. ovoga Zakona, i za svaku državu članicu potrošnje u kojoj postoji obveza plaćanja PDV-a, ukupna vrijednost bez PDV-a, stope PDV-a koje se primjenjuju, ukupni iznos pripadajućeg PDV-a po stopama i ukupni PDV za sljedeće isporuke obuhvaćene posebnim postupkom koje se obave tijekom razdoblja oporezivanja:
+
+a) prodaju dobara na daljinu unutar Europske unije,
+
+b) isporuke dobara u skladu s člankom 7.b stavkom 2. ovoga Zakona ako otprema ili prijevoz tih dobara počinje i završava u istoj državi članici,
+
+c) obavljanje usluga,
+
+d) u prijavu PDV-a za posebni postupak oporezivanja uključuju se i izmjene koje se odnose na prethodna razdoblja oporezivanja u smislu stavka 8. ovoga članka.
+
+(3) Ako se dobra otpremaju ili prevoze iz druge države članice, u prijavu PDV-a za posebni postupak oporezivanja uključuje se i ukupna vrijednost bez PDV-a, stope PDV-a koje se primjenjuju, ukupni iznos pripadajućeg PDV-a po stopama i ukupni PDV za sljedeće isporuke obuhvaćene posebnim postupkom za svaku državu članicu iz koje se ta dobra otpremaju ili prevoze:
+
+a) prodaju dobara na daljinu unutar Europske unije, osim one koju obavlja porezni obveznik u skladu s člankom 7.b stavkom 2. ovoga Zakona,
+
+b) prodaju dobara na daljinu i isporuke dobara unutar Europske unije ako otprema ili prijevoz tih dobara počinje i završava u istoj državi članici i ako ih izvrši porezni obveznik u skladu s člankom 7.b stavkom 2. ovoga Zakona.
+
+(4) U odnosu na isporuke iz stavka 3. točke a) ovoga članka prijava PDV-a za posebni postupak oporezivanja uključuje i PDV identifikacijski broj ili referentni porezni broj koji dodjeljuje svaka država članica iz koje se ta dobra otpremaju ili prevoze.
+
+(5) U odnosu na isporuke iz stavka 3. točke b) ovoga članka prijava PDV-a za posebni postupak oporezivanja uključuje i PDV identifikacijski broj ili referentni porezni broj koji dodjeljuje svaka država članica iz koje se ta dobra otpremaju ili prevoze, ako on postoji.
+
+(6) Prijava PDV-a uključuje informacije iz stavaka 3., 4. i 5. ovoga članka raščlanjene po državi članici potrošnje.
+
+(7) Ako porezni obveznik iz članka 125.c stavka 1. ovoga Zakona ima jednu ili više stalnih poslovnih jedinica, osim one u tuzemstvu, iz kojih obavlja usluge, prijava PDV-a za posebni postupak oporezivanja uključuje i ukupnu vrijednost bez PDV-a, stope PDV-a koje se primjenjuju, ukupni iznos pripadajućeg PDV-a po stopama i ukupni PDV za takve isporuke za svaku državu članicu u kojoj ima stalnu poslovnu jedinicu, zajedno s PDV identifikacijskim brojem ili referentnim poreznim brojem te stalne poslovne jedinice, raščlanjeno po državama članicama potrošnje.
+
+(8) U slučaju izmjene podnesene prijave PDV-a za posebni postupak oporezivanja, izmjene se uključuju u sljedeću prijavu u roku od tri godine od propisanog roka iz stavka 1. ovoga članka. U toj prijavi navodi se država članica potrošnje, razdoblje oporezivanja i iznos PDV-a koji se mijenja.
+
+(9) Iznosi u prijavi PDV-a iz stavka 1. ovoga članka iskazuju se u kunama. Ako su isporuke obavljene u drugim valutama, porezni obveznik iz članka 125.c stavka 1. ovoga Zakona primjenjuje tečaj koji vrijedi na posljednji dan razdoblja oporezivanja. Preračunavanje se obavlja prema tečaju koji objavljuje Europska središnja banka za taj dan ili, ako se tečaj za taj dan ne objavljuje, za dan sljedeće objave tečaja.«.
+
+##### Članak 32.
+
+Članak 125.g mijenja se i glasi:
+
+»(1) Porezni obveznik iz članka 125.c stavka 1. ovoga Zakona nema pravo na odbitak pretporeza u državi članici potrošnje.
+
+(2) Porezni obveznik iz stavka 1. ovoga članka u državi članici potrošnje može zatražiti povrat PDV-a u skladu s postupkom povrata PDV-a poreznim obveznicima sa sjedištem u drugoj državi članici.
+
+(3) Ako se porezni obveznik iz članka 125.c stavka 1. ovoga Zakona mora registrirati za potrebe PDV-a u državi članici potrošnje za isporuke koje nisu obuhvaćene posebnim postupkom oporezivanja, ima pravo na odbitak pretporeza za isporuke obuhvaćene posebnim postupkom u prijavi PDV-a.«.
+
+##### Članak 33.
+
+Iza članka 125.h dodaju se naslovi iznad članaka i članci 125.ha do 125.hp koji glase:
+
+*»6.4. Posebni postupak oporezivanja za prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja*
+
+##### Članak 125.ha
+
+(1) U vezi s člancima 125.hb do 125.hk ovoga Zakona prodaja dobara na daljinu uvezenih iz trećih područja ili trećih zemalja obuhvaća samo dobra, uz iznimku dobara koja podliježu trošarinama, u pošiljkama čija unutarnja vrijednost nije veća od 1.135,00 kuna.
+
+(2) U vezi s člancima 125.hb do 125.hk ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+
+1. »porezni obveznik koji nema sjedište u Europskoj uniji« je porezni obveznik koji nema sjedište, stalnu poslovnu jedinicu, prebivalište ili uobičajeno boravište na području Europske unije,
+
+2. »posrednik« je osoba sa sjedištem u Europskoj uniji koju imenuje porezni obveznik koji prodaje dobra na daljinu uvezena iz trećih područja ili trećih zemalja kao osobu odgovornu za plaćanje PDV-a i za ispunjavanje obveza u vezi s ovim posebnim postupkom u ime i za račun poreznog obveznika,
+
+3. »država članica prijave« je:
+
+a) ako porezni obveznik nema sjedište u Europskoj uniji, država članica u kojoj se odluči prijaviti,
+
+b) ako porezni obveznik ima sjedište izvan Europske unije, ali u njoj ima jednu ili više stalnih poslovnih jedinica, država članica sa stalnom poslovnom jedinicom za koju porezni obveznik naznači da će se u njoj koristiti ovim posebnim postupkom,
+
+c) ako porezni obveznik ima sjedište poslovanja u državi članici, ta država članica,
+
+d) ako posrednik ima sjedište poslovanja u državi članici, ta država članica,
+
+e) ako posrednik ima sjedište poslovanja izvan Europske unije, ali u njoj ima jednu ili više stalnih poslovnih jedinica, država članica sa stalnom poslovnom jedinicom za koju posrednik naznači da će se u njoj koristiti ovim posebnim postupkom,
+
+4. »država članica potrošnje« je država članica u kojoj završava isporuka ili prijevoz dobara kupcu.
+
+(3) Za potrebe stavka 2. točke 3. podtočaka b) i e) ovoga članka, ako porezni obveznik ili posrednik ima više od jedne stalne poslovne jedinice u Europskoj uniji za posebni postupak oporezivanja, odluka u kojoj je naznačio državu članicu stalne poslovne jedinice obvezuje ga u tekućoj kalendarskoj godini i tijekom sljedeće dvije kalendarske godine.
+
+#### 6.4.1. Primjena posebnog postupka
+
+##### Članak 125.hb
+
+(1) Posebni postupak za prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja mogu primjenjivati:
+
+a) svi porezni obveznici sa sjedištem u Europskoj uniji koji prodaju dobra na daljinu uvezena iz trećih područja ili trećih zemalja,
+
+b) svi porezni obveznici, neovisno o tome imaju li sjedište u Europskoj uniji, koji prodaju dobra na daljinu uvezena iz trećih područja ili trećih zemalja te koje zastupa posrednik sa sjedištem u Europskoj uniji,
+
+c) svi porezni obveznici sa sjedištem u trećoj zemlji s kojom je Europska unija sklopila sporazum o uzajamnoj pomoći čije je područje primjene slično području primjene propisa kojim se uređuje administrativna suradnja u području poreza i Uredbe Vijeća (EU) br. 904/2010 od 7. listopada 2010. o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (preinaka) (SL L, 268, 12. 10. 2010.) te koji se bave prodajom dobara na daljinu iz te treće zemlje.
+
+(2) Porezni obveznici iz stavka 1. ovoga članka primjenjuju ovaj posebni postupak na svu svoju prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja.
+
+(3) Porezni obveznik iz stavka 1. točke b) ovoga članka ne može istodobno imenovati više od jednog posrednika.
+
+#### 6.4.2. Nastanak porezne obveze
+
+##### Članak 125.hc
+
+Za prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja na koja se primjenjuje posebni postupak, oporezivi događaj i obveza obračuna PDV-a nastaju u trenutku isporuke, pri čemu se smatra da su dobra isporučena u trenutku prihvaćanja plaćanja.
+
+#### 6.4.3. Prijava Poreznoj upravi za primjenu posebnog postupka
+
+##### Članak 125.hd
+
+Porezni obveznik koji primjenjuje ovaj posebni postupak ili posrednik koji djeluje za njegov račun mora Poreznoj upravi elektroničkim putem prijaviti početak i prestanak svoje djelatnosti u okviru ovog posebnog postupka ili promjenu te djelatnosti na način da više ne ispunjava uvjete za primjenu posebnog postupka.
+
+##### Članak 125.he
+
+(1) Porezni obveznik koji ne imenuje posrednika mora Poreznoj upravi prije početka primjene posebnog postupka dostaviti sljedeće podatke:
+
+a) ime i prezime / naziv,
+
+b) adresu,
+
+c) adresu elektroničke pošte i internetske stranice,
+
+d) PDV identifikacijski broj ili nacionalni porezni broj.
+
+(2) Posrednik mora Poreznoj upravi prije početka primjene posebnog postupka za račun poreznog obveznika dostaviti sljedeće podatke:
+
+a) ime i prezime / naziv,
+
+b) adresu,
+
+c) adresu elektroničke pošte,
+
+d) PDV identifikacijski broj.
+
+(3) Posrednik mora Poreznoj upravi prije početka primjene posebnog postupka za svakog poreznog obveznika kojeg zastupa dostaviti sljedeće podatke:
+
+a) ime i prezime / naziv,
+
+b) adresu,
+
+c) adresu elektroničku pošte i internetske stranice,
+
+d) PDV identifikacijski broj ili nacionalni porezni broj,
+
+e) pojedinačni identifikacijski broj koji mu je dodijeljen u skladu s člankom 125.hf stavkom 2. ovoga Zakona.
+
+(4) Svaki porezni obveznik koji primjenjuje posebni postupak ili ako je moguće njegov posrednik Poreznu upravu trebaju obavijestiti o svakoj promjeni dostavljenih podataka.
+
+##### Članak 125.hf
+
+(1) Porezna uprava dodjeljuje poreznom obvezniku koji primjenjuje ovaj posebni postupak pojedinačni identifikacijski broj za primjenu posebnog postupka oporezivanja o čemu ga obavještava elektroničkim putem.
+
+(2) Porezna uprava dodjeljuje posredniku pojedinačni identifikacijski broj o čemu ga obavještava elektroničkim putem.
+
+(3) Porezna uprava dodjeljuje posredniku pojedinačni identifikacijski broj za primjenu posebnog postupka u odnosu na svakog poreznog obveznika za kojeg je imenovan.
+
+(4) Pojedinačni identifikacijski broj dodijeljen na temelju ovoga članka koristi se samo za potrebe ovog posebnog postupka.
+
+#### 6.4.4. Brisanje iz evidencije
+
+##### Članak 125.hg
+
+(1) Porezna uprava brisat će poreznog obveznika koji ne imenuje posrednika iz evidencije poreznih obveznika koji primjenjuju posebni postupak oporezivanja u slučajevima ako:
+
+a) podnese obavijest da više ne obavlja prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja,
+
+b) se može pretpostaviti da su prestale njegove oporezive djelatnosti prodaje dobara na daljinu uvezenih iz trećih područja ili trećih zemalja,
+
+c) više ne ispunjava uvjete potrebne za primjenu posebnog postupka,
+
+d) ne postupa u skladu s odredbama posebnog postupka.
+
+(2) Porezna uprava brisat će posrednika iz evidencije poreznih obveznika koji primjenjuju posebni postupak oporezivanja u slučajevima ako:
+
+a) u razdoblju od dva uzastopna kalendarska tromjesečja nije radio kao posrednik u ime poreznog obveznika koji primjenjuje posebni postupak,
+
+b) više ne ispunjava uvjete potrebne za rad kao posrednik,
+
+c) ne postupa u skladu s odredbama posebnog postupka.
+
+(3) Porezna uprava brisat će poreznog obveznika kojeg zastupa posrednik iz evidencije poreznih obveznika koji primjenjuju posebni postupak oporezivanja u slučajevima ako:
+
+a) posrednik obavijesti Poreznu upravu da porezni obveznik više ne obavlja prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja,
+
+b) se može pretpostaviti da su prestale oporezive djelatnosti poreznog obveznika u vezi s prodajom dobara na daljinu uvezenih iz trećih područja ili trećih zemalja,
+
+c) porezni obveznik više ne ispunjava uvjete potrebne za primjenu posebnog postupka,
+
+d) porezni obveznik ne postupa u skladu s odredbama posebnog postupka,
+
+e) posrednik obavijesti Poreznu upravu da više ne zastupa tog poreznog obveznika.
+
+#### 6.4.5. Podnošenje prijave PDV-a za posebni postupak oporezivanja
+
+##### Članak 125.hh
+
+(1) Porezni obveznik koji primjenjuje posebni postupak ili njegov posrednik obvezan je za svaki kalendarski mjesec do zadnjeg dana u tekućem mjesecu po proteku mjeseca za koji se prijava podnosi, Poreznoj upravi elektroničkim putem podnijeti prijavu PDV-a za posebni postupak oporezivanja, bez obzira na to je li ili nije u tom razdoblju obavljao prodaju dobara na daljinu uvezenih iz trećih područja ili trećih zemalja.
+
+(2) U prijavi PDV-a iz stavka 1. ovoga članka mora se navesti pojedinačni identifikacijski broj iz članka 125.hf ovoga Zakona i za svaku državu članicu potrošnje u kojoj postoji obveza plaćanja PDV-a, ukupnu vrijednost, bez PDV-a, prodaje dobara na daljinu uvezenih iz trećih područja ili trećih zemalja za koju je nastala obveza obračuna PDV-a tijekom razdoblja oporezivanja, kao i ukupni iznos pripadajućeg PDV-a po stopama, stope PDV-a koje se primjenjuju te ukupni iznos PDV-a za uplatu.
+
+(3) U slučaju izmjene podnesene prijave PDV-a za posebni postupak oporezivanja, izmjene se uključuju u sljedeću prijavu u roku od tri godine od propisanog roka iz stavka 1. ovoga članka. U toj prijavi navodi se država članica potrošnje, razdoblje oporezivanja i iznos PDV-a koji se mijenja.
+
+(4) Iznosi u prijavi PDV-a iz stavka 1. ovoga članka iskazuju se u kunama. Ako su isporuke obavljene u drugim valutama, porezni obveznik iz članka 125.hb ovoga Zakona primjenjuje tečaj koji vrijedi na posljednji dan razdoblja oporezivanja. Preračunavanje se obavlja prema tečaju koji objavljuje Europska središnja banka za taj dan ili, ako se tečaj za taj dan ne objavljuje, za dan sljedeće objave tečaja.
+
+#### 6.4.6. Plaćanje PDV-a
+
+##### Članak 125.hi
+
+Porezni obveznik koji primjenjuje posebni postupak ili njegov posrednik plaćaju PDV pozivajući se na odgovarajući referentni broj prijave PDV-a za posebni postupak oporezivanja najkasnije do isteka roka za podnošenje te prijave. Uplata se obavlja u kunama na uplatni račun propisan posebnim propisom o uplatnim računima.
+
+#### 6.4.7. Pravo na odbitak pretporeza
+
+##### Članak 125.hj
+
+(1) Porezni obveznik koji primjenjuje posebni postupak nema pravo na odbitak pretporeza u državi članici potrošnje.
+
+(2) Porezni obveznik iz stavka 1. ovoga članka u državi članici potrošnje može zatražiti povrat PDV-a u skladu s postupkom povrata PDV-a poreznim obveznicima sa sjedištem u drugoj državi članici te postupkom povrata PDV-a poreznim obveznicima koji nemaju sjedište na području Europske unije.
+
+(3) Ako se porezni obveznik koji primjenjuje posebni postupak oporezivanja mora registrirati za potrebe PDV-a u državi članici potrošnje za isporuke koje nisu obuhvaćene posebnim postupkom, ima pravo na odbitak pretporeza za isporuke obuhvaćene posebnim postupkom u prijavi PDV-a.
+
+#### 6.4.8. Vođenje evidencije i čuvanje podataka
+
+##### Članak 125.hk
+
+(1) Porezni obveznik koji primjenjuje posebni postupak mora voditi evidenciju o transakcijama obuhvaćenim ovim posebnim postupkom. Posrednik mora voditi evidenciju za svakog poreznog obveznika kojega zastupa. Ta evidencija mora biti dovoljno detaljna kako bi se poreznom tijelu države članice potrošnje omogućila provjera točnosti prijave PDV-a za posebni postupak oporezivanja.
+
+(2) Evidencija iz stavka 1. ovoga članka mora na zahtjev, u elektroničkom obliku biti stavljena na raspolaganje Poreznoj upravi i poreznom tijelu države članice potrošnje. Ta se evidencija mora čuvati deset godina od završetka godine u kojoj su transakcije obavljene.
+
+*6.5. Posebni postupak za prijavu i plaćanje PDV-a na uvoz*
+
+##### Članak 125.hl
+
+Ako se, za uvoz dobara, uz iznimku dobara koja podliježu trošarinama, u pošiljkama čija unutarnja vrijednost nije veća od 1.135,00 kuna ne primjenjuje posebni postupak iz članka 125.ha ovoga Zakona, osoba koja prijavljuje dobra Carinskoj upravi za račun osobe kojoj su dobra namijenjena unutar područja Europske unije može primjenjivati posebni postupak za prijavu i plaćanje PDV-a pri uvozu za dobra čija otprema ili prijevoz završavaju u tuzemstvu.
+
+##### Članak 125.hm
+
+Za potrebe posebnog postupka za prijavu i plaćanje PDV-a na uvoz primjenjuje se sljedeće:
+
+a) osoba kojoj su dobra namijenjena odgovorna je za plaćanje PDV-a,
+
+b) osoba koja dobra prijavljuje Carinskoj upravi unutar područja Europske unije naplaćuje PDV od osobe kojoj su dobra namijenjena i obavlja plaćanje takvog PDV-a.
+
+##### Članak 125.hn
+
+Iznimno od članka 37. stavka 2. točke b) ovoga Zakona, za potrebe posebnog postupka za prijavu i plaćanje PDV-a na uvoz PDV se obračunava i plaća po stopi iz članka 38. stavka 1. ovoga Zakona.
+
+##### Članak 125.ho
+
+(1) PDV naplaćen u okviru ovog posebnog postupka prijavljuje se elektroničkim putem u mjesečnoj prijavi u kojoj se mora navesti ukupan PDV naplaćen tijekom kalendarskog mjeseca za koji se prijava podnosi.
+
+(2) Prijava iz stavka 1. ovoga članka podnosi se do zadnjeg dana u tekućem mjesecu za prethodni mjesec.
+
+(3) PDV iz stavka 1. ovoga članka plaća se mjesečno do isteka roka za plaćanje koji se primjenjuje na plaćanje carine pri uvozu.
+
+(4) Osobe koje primjenjuju ovaj posebni postupak obvezne su čuvati evidenciju transakcija obuhvaćenih ovim posebnim postupkom deset godina od završetka godine u kojoj su transakcije obavljene. Evidencija mora biti dovoljno detaljna kako bi se Poreznoj upravi i Carinskoj upravi omogućila provjera točnosti prijave iz stavka 1. ovoga članka te im na zahtjev mora biti u elektroničkom obliku stavljena na raspolaganje.
+
+(5) Ministar financija pravilnikom propisuje sadržaj evidencije transakcija iz stavka 4. ovoga članka.
+
+##### Članak 125.hp
+
+Ministar financija najkasnije do 31. prosinca tekuće godine donosi odluku o vrijednosti iz članaka 7.b, 125.ha i 125.hl ovoga Zakona koja se primjenjuje od 1. siječnja sljedeće godine ako protuvrijednost iznosa od 150 EUR u kunama prema tečaju Europske središnje banke prvog radnog dana u listopadu tekuće godine rezultira povećanjem te vrijednosti od 5% ili više.«.
+
+##### Članak 34.
+
+U članku 125.i stavku 1. broj: »7.500.000,00« zamjenjuje se brojem: »15.000.000,00«.
+
+##### Članak 35.
+
+U članku 125.k stavku 2. broj: »7.500.000,00« zamjenjuje se brojem: »15.000.000,00«.
+
+##### Članak 36.
+
+U članku 126. stavku 2. druga rečenica mijenja se i glasi:
+
+»Porezni obveznik iz ovoga stavka ne mora imenovati poreznog zastupnika ako se radi o poreznom obvezniku iz članka 119. točke 1. ovoga Zakona te u slučaju kada obavlja isključivo povremeni međunarodni cestovni prijevoz putnika na području Republike Hrvatske.«.
+
+##### Članak 37.
+
+U članku 131. stavku 1. točki 22. riječi: »članak 122. stavak 1. i članak 125.e stavak 1.« zamjenjuju se riječima: »članak 122. stavak 1., članak 125.e stavak 1., članak 125.hh stavak 1. i članak 125.ho stavci 1. i 2.«.
+
+U točki 23. riječi: »u kunama na uplatni račun propisan posebnim propisom (članak 123. i 125.f)« zamjenjuju se riječima: »(članci 123., 125.f, 125.hi i članak 125.ho stavak 3.)«.
+
+U točki 24. riječi: »članak 125. i 125.h« zamjenjuju se riječima: »članci 125., 125.h, 125.hk i članak 125.ho stavak 4.«.
+
+##### Članak 38.
+
+Dodatak IV. koji je sastavni dio Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18. i 121/19.) briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+##### Članak 39.
+
+Porezni obveznici sa sjedištem, stalnom poslovnom jedinicom, prebivalištem ili uobičajenim boravištem u tuzemstvu čija vrijednost isporuka dobara i usluga u 2020. godini nije bila veća od 15.000.000,00 kuna bez PDV-a, koji žele početi primjenjivati postupak oporezivanja prema naplaćenim naknadama od 1. siječnja 2021., moraju o tome najkasnije do 20. siječnja 2021. dostaviti pisanu izjavu nadležnoj ispostavi Porezne uprave.
+
+##### Članak 40.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19. i 1/20.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+##### Članak 41.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Pravilnik o plaćanju poreza na dodanu vrijednost pri uvozu strojeva i opreme putem prijave poreza na dodanu vrijednost (»Narodne novine«, br. 132/17.).
+
+##### Članak 42.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2021., osim odredbi članka 2. podstavka 10. koji je dodan člankom 1. ovoga Zakona, članaka 2., 3., 5. do 12. ovoga Zakona, članka 44. stavka 1. točke 7. koja je izmijenjena člankom 13. ovoga Zakona, članka 15., članaka 17. do 33. i članaka 36. i 37. ovoga Zakona koje stupaju na snagu 1. srpnja 2021. te odredbi članka 2. podstavka 11. koji je dodan člankom 1. ovoga Zakona, članka 4. ovoga Zakona, članka 44. stavka 1. točke 39. koja je dodana člankom 13. ovoga Zakona te članka 14. ovoga Zakona koje stupaju na snagu 1. srpnja 2022.
+
+Klasa: 022-03/20-01/121
+
+Zagreb, 4. prosinca 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 39/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/39/478*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 25. ožujka 2022.
+
+Klasa: 011-02/22-02/28  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 28. ožujka 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19. i 138/20.) u članku 1. stavku 3. podstavku 3. iza riječi: »ovoga Zakona« briše se zarez i stavlja točka.
+
+Podstavak 4. briše se.
+
+#### Članak 2.
+
+U članku 4. stavku 1. točki 2. podtočki a) riječi: »stavaka 3., 4. i 10.« zamjenjuju se riječima: »stavaka 3. i 4.«.
+
+#### Članak 3.
+
+U članku 7. stavku 6. točki a) riječi: »stavaka 3. i 4.« zamjenjuju se riječima: »stavka 3. točke a)«.
+
+U točki h) riječi: »stavka 10.« zamjenjuju se riječima: »stavka 4.«.
+
+#### Članak 4.
+
+U članku 9. stavku 3. riječi: »točke 31.« zamjenjuju se riječima: »točke 39.«.
+
+#### Članak 5.
+
+U članku 30. stavku 8. riječi: »stavka 4.« zamjenjuju se riječima: »stavka 3.«.
+
+#### Članak 6.
+
+U članku 31. stavku 2. riječi: »stavka 4.« zamjenjuju se riječima: »stavka 3.«.
+
+#### Članak 7.
+
+Članak 38. mijenja se i glasi:
+
+»(1) PDV se obračunava i plaća po stopi od 25%.
+
+(2) PDV se obračunava i plaća po sniženoj stopi od 5% na isporuke sljedećih dobara i usluga:
+
+a) sve vrste kruha,
+
+b) sve vrste mlijeka (kravlje, ovčje, kozje) koje se stavlja u promet pod istim nazivom u tekućem stanju, svježe, pasterizirano, homogenizirano, kondenzirano (osim kiselog mlijeka, jogurta, kefira, čokoladnog mlijeka i drugih mliječnih proizvoda), nadomjestke za majčino mlijeko,
+
+c) knjige stručnog, znanstvenog, umjetničkog, kulturnog i obrazovnog sadržaja, udžbenike za pedagoški odgoj i obrazovanje, za osnovnoškolsko, srednjoškolsko i visokoškolsko obrazovanje, osim onih koje u cijelosti ili većim dijelom sadrže oglase ili služe oglašavanju te osim onih koje se u cijelosti ili većim dijelom sastoje od videozapisa ili glazbenog sadržaja,
+
+d) lijekove koji imaju odobrenje nadležnog tijela za lijekove i medicinske proizvode,
+
+e) medicinsku opremu, pomagala i druge sprave koje se koriste za ublažavanje liječenja invalidnosti isključivo za osobnu uporabu invalida propisane općim aktom o ortopedskim i drugim pomagalima Hrvatskog zavoda za zdravstveno osiguranje,
+
+f) kinoulaznice, ulaznice za koncerte, sportska događanja i kulturna događanja, osim onih iz članka 39. stavka 1. točke n) ovoga Zakona,
+
+g) novine novinskog nakladnika koji ima statut medija, koje izlaze dnevno, osim onih koje u cijelosti ili većim dijelom sadrže oglase ili služe oglašavanju te osim onih koje se u cijelosti ili većim dijelom sastoje od videozapisa ili glazbenog sadržaja,
+
+h) znanstvene časopise,
+
+i) dječju hranu i prerađenu hranu na bazi žitarica za dojenčad i malu djecu,
+
+j) jestiva ulja i masti, biljnog i životinjskog podrijetla, maslac i margarin,
+
+k) isporuku živih životinja: goveda, svinja, ovaca, koza, konja, magaraca, domaće peradi, kunića i zečeva,
+
+l) isporuku svježeg ili rashlađenog mesa i jestivih klaoničkih proizvoda od: goveda, svinja, ovaca, koza, konja, magaraca, domaće peradi, kunića i zečeva,
+
+m) isporuku svježih ili rashlađenih kobasica i sličnih proizvoda od mesa, mesnih klaoničkih proizvoda ili krvi,
+
+n) isporuku žive ribe,
+
+o) isporuku svježe ili rashlađene ribe, mekušaca i ostalih vodenih beskralježnjaka,
+
+p) isporuku svježih ili rashlađenih rakova: jastoga, hlapova, škampa, kozica,
+
+r) isporuku svježeg ili rashlađenog povrća, korijena i gomolja, uključujući mahunasto suho povrće,
+
+s) isporuku svježeg i suhog voća i orašastih plodova,
+
+t) isporuku svježih jaja peradi, u ljusci,
+
+u) sadnice i sjemenje,
+
+v) gnojiva i pesticide te druge agrokemijske proizvode,
+
+z) proizvode koji se pretežito koriste kao hrana za životinje, osim hrane za kućne ljubimce.
+
+(3) PDV se obračunava i plaća po sniženoj stopi od 13% na isporuke sljedećih dobara i usluga:
+
+a) usluge smještaja ili smještaja s doručkom, polupansiona ili punog pansiona u hotelima ili objektima slične namjene, uključujući smještaj za vrijeme odmora, iznajmljivanje prostora u kampovima za odmor ili u mjestima određenima za kampiranje te smještaj u plovnim objektima nautičkog turizma,
+
+b) novine i časopise novinskog nakladnika koji ima statut medija te novine i časopise nakladnika za koje ne postoji obveza donošenja statuta medija prema posebnom propisu, osim onih iz stavka 2. točke g) ovoga članka koji izlaze periodično, osim onih koji u cijelosti ili većim dijelom sadrže oglase ili služe oglašavanju te osim onih koji se u cijelosti ili većim dijelom sastoje od videozapisa ili glazbenog sadržaja,
+
+c) dječje sjedalice za automobile i dječje pelene,
+
+d) menstrualne potrepštine,
+
+e) isporuku vode, osim vode koja se stavlja na tržište u bocama ili u drugoj ambalaži, u smislu javne vodoopskrbe i javne odvodnje prema posebnom propisu,
+
+f) isporuku električne energije do drugog isporučitelja ili krajnjeg korisnika, uključujući naknade vezane uz tu isporuku,
+
+g) isporuku prirodnog plina i grijanja iz toplinskih stanica, uključujući naknade vezane uz te isporuke,
+
+h) ogrjevno drvo, pelet, briket i sječku,
+
+i) javnu uslugu prikupljanja miješanog komunalnog otpada, biorazgradivog komunalnog otpada i odvojenog sakupljanja otpada prema posebnom propisu,
+
+j) urne i ljesove,
+
+k) usluge i povezana autorska prava pisaca, skladatelja i umjetnika izvođača te nositelja fonogramskih prava koji su članovi odgovarajućih organizacija za kolektivno ostvarivanje prava koje obavljaju tu djelatnost prema posebnim propisima iz područja autorskog i srodnih prava te uz prethodno odobrenje tijela državne uprave nadležnog za intelektualno vlasništvo,
+
+l) pripremanje i usluživanje jela i slastica u ugostiteljskom objektu i izvan ugostiteljskog objekta prema posebnom propisu.
+
+(4) Iznimno od stavka 3. točke g) ovoga članka, na isporuke prirodnog plina, uključujući naknade vezane uz tu isporuku, obavljene u razdoblju od 1. travnja 2022. do 31. ožujka 2023., PDV se obračunava i plaća po sniženoj stopi od 5%.
+
+(5) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s primjenom snižene stope PDV-a te što se smatra pripremanjem i usluživanjem jela i slastica u ugostiteljskom objektu i izvan ugostiteljskog objekta, koristeći za isporuku dobara iz stavka 2. točaka j) do z) i stavka 3. točaka g) i h) ovoga članka Kombiniranu nomenklaturu (KN) iz Priloga I. Uredbe Vijeća (EEZ) br. 2658/1987.«.
+
+#### Članak 8.
+
+U članku 44. stavku 1. točki 20. iza riječi: »dokumenata,« dodaje se riječ: »predmeta,«.
+
+#### Članak 9.
+
+U članku 78. stavku 1. točki 2. iza riječi: »stavka 3.« dodaju se riječi: »točke a)«.
+
+Stavak 2. briše se.
+
+U dosadašnjem stavku 3., koji postaje stavak 2., riječi: »i 2.« brišu se.
+
+Dosadašnji stavci 4. do 9. postaju stavci 3. do 8.
+
+U dosadašnjem stavku 10., koji postaje stavak 9., riječi: »stavku 9.« zamjenjuju se riječima: »stavku 8.«, a riječi: »stavak 9.« zamjenjuju se riječima: »stavak 8.«.
+
+Dosadašnji stavak 11. postaje stavak 10.
+
+U dosadašnjem stavku 12., koji postaje stavak 11., riječi: »stavka 9.« zamjenjuju se riječima: »stavka 8.«.
+
+Dosadašnji stavak 13. postaje stavak 12.
+
+#### Članak 10.
+
+U članku 79. stavku 12. točki 7. riječi: »stavkom 8.« zamjenjuju se riječima: »stavkom 7.«.
+
+#### Članak 11.
+
+U članku 85. stavku 2. točki c) riječi: »stavaka 3., 4. i 10.« zamjenjuju se riječima: »stavaka 3. i 4.«.
+
+U točki d) riječi: »stavaka 3., 4. i 10.« zamjenjuju se riječima: »stavaka 3. i 4.«.
+
+#### Članak 12.
+
+U članku 125.j točki f) riječi: »posebnog postupka oporezivanja za telekomunikacijske usluge, usluge radijskog i televizijskog emitiranja i elektronički obavljene usluge osobama koje nisu porezni obveznici,« zamjenjuju se riječima: »posebnih postupaka oporezivanja iz članaka 119.a, 125.b i 125.hb ovoga Zakona,«.
+
+#### Članak 13.
+
+U članku 127. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Podaci iz stavka 3. ovoga članka ne predstavljaju povredu porezne tajne.«.
+
+#### Članak 14.
+
+U članku 131. stavku 1. točki 6. riječi: »stavci 1., 2. i 4.« zamjenjuju se riječima: »stavci 1. i 3.«.
+
+U točki 7. riječi: »stavak 6.« zamjenjuju se riječima: »stavak 5.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 15.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19., 1/20., 1/21. i 73/21.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+#### Članak 16.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 17.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2022., osim članka 4. ovoga Zakona koji stupa na snagu 1. srpnja 2022.
+
+Klasa: 022-02/22-01/14
+
+Zagreb, 25. ožujka 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 113/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/113/1660*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/74
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20. i 39/22.) u članku 2. iza podstavka 12. umjesto točke stavlja se zarez i dodaje podstavak 13. koji glasi:
+
+» – Direktiva Vijeća (EU) 2022/542 od 5. travnja 2022. o izmjeni Direktive 2006/112/EZ i Direktive (EU) 2020/285 u pogledu stopa poreza na dodanu vrijednost (SL L 107, 6. 4. 2022.).«.
+
+#### Članak 2.
+
+U članku 5. stavku 2. točki a) riječi: »77.000,00 kuna« zamjenjuju se riječima: »10.000,00 eura«.
+
+#### Članak 3.
+
+U članku 7. stavku 4. riječi: »160,00 kuna« zamjenjuju se riječima: »21,24 eura«.
+
+#### Članak 4.
+
+U članku 7.b stavku 1. riječi: »1.135,00 kuna« zamjenjuju se riječima: »150,00 eura«.
+
+#### Članak 5.
+
+U članku 26.a. stavku 1. točki c) riječi: »77.000,00 kuna« zamjenjuju se riječima: »10.000,00 eura«.
+
+#### Članak 6.
+
+U članku 36. stavku 2. riječ: »kune« zamjenjuje se riječju: »eure«.
+
+#### Članak 7.
+
+U članku 38. iza stavka 4. dodaje se novi stavak 5. i stavak 6. koji glase:
+
+»(5) Iznimno od stavka 3. točaka g) i h) ovoga članka, na isporuku grijanja iz toplinskih stanica uključujući naknade vezane za tu isporuku te isporuku ogrjevnog drva, peleta, briketa i sječke, obavljene do 31. ožujka 2023., PDV se obračunava i plaća po sniženoj stopi od 5%.
+
+(6) PDV se obračunava i plaća po stopi od 0% na isporuku i ugradnju solarnih ploča na privatne stambene objekte, prostore za stanovanje te javne i druge zgrade koje se koriste za aktivnosti od javnog interesa te isporuku i ugradnju solarnih ploča u blizini takvih objekata, prostora i zgrada.«.
+
+Dosadašnji stavak 5. postaje stavak 7.
+
+#### Članak 8.
+
+U članku 45. stavku 2. točki b) riječi: »740,00 kuna« zamjenjuju se riječima: »98,21 eura«.
+
+#### Članak 9.
+
+U članku 58. stavku 6. iza riječi: »na isporuke dobara i usluge iz« dodaju se riječi: »članka 38. stavka 6.,«.
+
+#### Članak 10.
+
+U članku 64. stavku 4. riječi: »1.000,00 kuna« zamjenjuju se riječima: »132,72 eura«.
+
+#### Članak 11.
+
+U članku 67. stavku 7. riječi: »3.100,00 kuna« zamjenjuju se riječima: »400,00 eura«.
+
+U stavku 8. riječi: »400,00 kuna« zamjenjuju se riječima: »50,00 eura«.
+
+#### Članak 12.
+
+U članku 70. stavku 3. točki d) riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+U točki e) riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+U stavku 9. riječi: »3.100,00 kuna« zamjenjuju se riječima: »400,00 eura«.
+
+U stavku 10. riječi: »400,00 kuna« zamjenjuju se riječima: »50,00 eura«.
+
+#### Članak 13.
+
+U članku 79. stavku 12. riječi: »700,00 kuna« zamjenjuju se riječima: »100,00 eura«.
+
+#### Članak 14.
+
+U članku 81. riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+#### Članak 15.
+
+U članku 84. stavku 2. riječi: »800.000,00 kuna« zamjenjuju se riječima: »106.178,25 eura«.
+
+#### Članak 16.
+
+U članku 90. stavku 1. riječi: »300.000,00 kuna« zamjenjuju se riječima: »39.816,84 eura«.
+
+#### Članak 17.
+
+U članku 122. stavku 3. riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+#### Članak 18.
+
+U članku 123. riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+#### Članak 19.
+
+U članku 125.e stavku 9. riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+#### Članak 20.
+
+U članku 125.f riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+#### Članak 21.
+
+U članku 125.ha stavku 1. riječi: »1.135,00 kuna« zamjenjuju se riječima: »150,00 eura«.
+
+#### Članak 22.
+
+U članku 125.hh stavku 4. riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+#### Članak 23.
+
+U članku 125.hi riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+#### Članak 24.
+
+U članku 125.hl riječi: »1.135,00 kuna« zamjenjuju se riječima: »150,00 eura«.
+
+#### Članak 25.
+
+Članak 125.hp briše se.
+
+#### Članak 26.
+
+U članku 125.i stavku 1. riječi: »15.000.000,00 kuna« zamjenjuju se riječima: »2.000.000,00 eura«.
+
+#### Članak 27.
+
+U članku 125.k stavku 2. riječi: »15.000.000,00 kuna« zamjenjuju se riječima: »2.000.000,00 eura«.
+
+#### Članak 28.
+
+U članku 130. stavku 1. riječi: »od 1.000,00 do 200.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 26.540,00 eura«.
+
+U točki 5. riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+U stavku 2. riječi: »od 500,00 do 40.000,00 kuna« zamjenjuju se riječima: »od 60,00 do 5300,00 eura«.
+
+#### Članak 29.
+
+U članku 131. stavku 1. riječi: »od 2.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 66.360,00 eura«.
+
+U stavku 2. riječi: »od 1.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 6630,00 eura«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 30.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19., 1/20., 1/21., 73/21. i 41/22.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 31.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«, osim članaka 2. do 6., članka 8. i članaka 10. do 29. koji stupaju na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/73
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o porezu na dodanu vrijednost (NN 33/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/578*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjeni Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 17. ožujka 2023.
+
+Klasa: 011-02/23-02/26
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 22. ožujka 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22. i 113/22.) u članku 38. stavku 4. riječi: »31. ožujka 2023.« zamjenjuju se riječima: »31. ožujka 2024.«.
+
+U stavku 5. riječi: »31. ožujka 2023.« zamjenjuju se riječima: »31. ožujka 2024.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 2.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19., 1/20., 1/21., 73/21., 41/22. i 133/22.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 3.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2023.
+
+Klasa: 022-02/23-01/14
+
+Zagreb, 17. ožujka 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 114/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1614*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU  
+NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 28. rujna 2023.
+
+Klasa: 011-02/23-02/76  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 3. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22. i 33/23.) u članku 2. stavku 1. iza podstavka 13. umjesto točke stavlja se zarez i dodaje podstavak 14. koji glasi:
+
+» – Direktiva Vijeća (EU) 2020/284 od 18. veljače 2020. o izmjeni Direktive 2006/112/EZ u pogledu uvođenja određenih zahtjeva za pružatelje platnih usluga (SL L 62, 2. 3. 2020.).«.
+
+#### Članak 2.
+
+U članku 5. stavku 1. točki a) riječi: »i e)« zamjenjuju se riječima: »i f)«.
+
+#### Članak 3.
+
+U članku 7. stavku 4. riječi: »21,24 eura« zamjenjuju se riječima: »22,00 eura«.
+
+#### Članak 4.
+
+U članku 33. stavak 7. mijenja se i glasi:
+
+»(7) U slučaju opoziva ili različitih vrsta popusta porezni obveznik koji je obavio isporuku može umanjiti poreznu osnovicu pod uvjetom da poreznog obveznika kojemu je isporučeno dobro ili obavljena usluga obavijesti o provedenom ispravku.«.
+
+Iza stavka 7. dodaju se novi stavci 8. do 11. koji glase:
+
+»(8) Porezna osnovica za obavljenu isporuku može se umanjiti na način propisan stavkom 7. ovoga članka i u slučaju nemogućnosti naplate cijelog ili dijela dospjelih potraživanja koja nisu naplaćena dulje od jedne godine.
+
+(9) U slučaju iz stavka 8. ovoga članka porezni obveznik može provesti umanjenje porezne osnovice u roku od šest mjeseci od dana nastanka prava na umanjenje ako su obavljene radnje pažnjom dobroga gospodarstvenika. Porezni obveznik mora imati dokaze da je poduzeo radnje u svrhu naplate dospjelog potraživanja, osobito da se za dospjela potraživanja vodi ovršni postupak ili su utužena na sudu ili je postignuta nagodba s dužnikom koji nije povezana osoba u smislu stavka 13. ovoga članka, ili da na drugi način dokaže da je zahtijevao naplatu potraživanja od svog kupca.
+
+(10) Ako porezni obveznik nakon umanjenja porezne osnovice naknadno djelomično ili u cijelosti naplati potraživanje za obavljenu isporuku, obvezan je u odgovarajućem iznosu povećati poreznu osnovicu.
+
+(11) Porezni obveznik koji je ispravio poreznu osnovicu u skladu sa stavkom 8. ovoga članka obvezan je o obavljenom ispravku obavijestiti nadležnu ispostavu Porezne uprave u roku za podnošenje prijave PDV-a za razdoblje oporezivanja u kojem je ispravak obavljen.«.
+
+Dosadašnji stavak 8. postaje stavak 12.
+
+U dosadašnjem stavku 9., koji postaje stavak 13., riječi: »stavka 10.« zamjenjuju se riječima: »stavka 14.«.
+
+Dosadašnji stavci 10. i 11. postaju stavci 14. i 15.
+
+U dosadašnjem stavku 12., koji postaje stavak 16., iza riječi: »osnovici« stavlja se zarez i dodaju riječi: »ispravku porezne osnovice i sadržaju obavijesti Poreznoj upravi o obavljenom ispravku porezne osnovice«.
+
+#### Članak 5.
+
+U članku 45. stavku 2. točki b) riječi: »98,21 eura« zamjenjuju se riječima: »100,00 eura«.
+
+#### Članak 6.
+
+U članku 48. stavku 2. riječi: »i e)« zamjenjuju se riječima: »i f)«.
+
+#### Članak 7.
+
+U članku 63. iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»(3) Porezni obveznik mora u odgovarajućem iznosu ispraviti odbitak pretporeza korištenog za primljenu isporuku dobra ili usluge ako je isporučitelj za tu isporuku naknadno ispravio poreznu osnovicu i PDV u skladu s odredbama članka 33. stavaka 7. i 8. ovoga Zakona. Porezni obveznik ispravak odbitka pretporeza obavlja u razdoblju oporezivanja u kojem je od isporučitelja primio obavijest o ispravku porezne osnovice iz članka 33. stavka 7. ovoga Zakona.
+
+(4) Ako porezni obveznik u slučaju iz članka 33. stavka 8. ovoga Zakona ne ispravi odbitak pretporeza na način propisan stavkom 3. ovoga članka, nadležna ispostava Porezne uprave zadužuje ga za odgovarajući iznos korištenog odbitka pretporeza koji je bio dužan ispraviti, o čemu donosi rješenje, a žalba ne odgađa izvršenje rješenja.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 5. i 6.
+
+#### Članak 8.
+
+U članku 64. stavku 4. riječi: »132,72 eura« zamjenjuju se riječima: »135,00 eura«.
+
+#### Članak 9.
+
+U članku 77. stavku 5. točki a) riječi: »stavcima 1.« zamjenjuju se riječima: »stavkom 1.«.
+
+#### Članak 10.
+
+Iza članka 83. dodaju se naslov iznad članka i članci 83.a do 83.d koji glase:
+
+*»6. Obveze pružatelja platnih usluga*
+
+#### Članak 83.a
+
+U vezi s člancima 83.b do 83.d ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+
+1. »pružatelj platnih usluga« je pružatelj platnih usluga bilo koje kategorije iz članka 7. stavka 1. točaka od 1. do 5. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.),
+
+2. »platna usluga« je bilo koja poslovna aktivnost iz članka 4. točaka od 3. do 6. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.),
+
+3. »plaćanje« je, uzimajući u obzir isključenja iz članka 5. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.), »platna transakcija« iz članka 3. stavka 1. točke 33. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.) ili »novčana pošiljka« iz članka 3. stavka 1. točke 25. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.),
+
+4. »platitelj« je »platitelj« iz članka 3. stavka 1. točke 31. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.),
+
+5. »primatelj plaćanja« je »primatelj plaćanja« iz članka 3. stavka 1. točke 44. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.),
+
+6. »matična država članica« je »matična država članica« iz članka 3. stavka 1. točke 21. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.),
+
+7. »država članica domaćin« je »država članica domaćin« iz članka 3. stavka 1. točke 6. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.),
+
+8. »račun za plaćanje« je »račun za plaćanje« iz članka 3. stavka 1. točke 48. Zakona o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.),
+
+9. »IBAN« je »IBAN« iz članka 2. točke 15. Uredbe (EU) br. 260/2012 Europskog parlamenta i Vijeća od 14. ožujka 2012. o utvrđivanju tehničkih i poslovnih zahtjeva za kreditne transfere i izravna terećenja u eurima i o izmjeni Uredbe (EZ) br. 924/2009 (SL L 94, 30. 3. 2012.),
+
+10. »BIC« je »BIC« iz članka 2. točke 16. Uredbe (EU) br. 260/2012. Europskog parlamenta i Vijeća od 14. ožujka 2012. o utvrđivanju tehničkih i poslovnih zahtjeva za kreditne transfere i izravna terećenja u eurima i o izmjeni Uredbe (EZ) br. 924/2009 (SL L 94, 30. 3. 2012.).
+
+#### Članak 83.b
+
+(1) Pružatelj platnih usluga mora voditi dovoljno detaljnu evidenciju primatelja plaćanja i plaćanja u vezi s platnim uslugama koje obavlja za svako kalendarsko tromjesečje kako bi se nadležnim tijelima država članica omogućilo provođenje kontrola nad isporukama dobara i usluga koje se u skladu s odredbama o mjestu oporezivanja iz članaka 12. do 28. ovoga Zakona smatraju izvršenima u državi članici kako bi se ostvario cilj suzbijanja prijevara u vezi s PDV-om.
+
+(2) Obveza iz stavka 1. ovoga članka odnosi se samo na platne usluge koje se obavljaju u vezi s prekograničnim plaćanjima. Plaćanje se smatra prekograničnim kada se platitelj nalazi u jednoj državi članici, a primatelj plaćanja se nalazi u drugoj državi članici, na trećem teritoriju ili u trećoj zemlji.
+
+(3) Obveza pružatelja platnih usluga iz stavka 1. ovoga članka primjenjuje se ako pružatelj platnih usluga tijekom kalendarskog tromjesečja istom primatelju plaćanja obavi platne usluge koje predstavljaju više od 25 prekograničnih plaćanja.
+
+(4) Broj prekograničnih plaćanja iz stavka 3. ovoga članka izračunava se uzimajući u obzir platne usluge koje pružatelj platnih usluga obavi po državi članici i po identifikacijskoj oznaci iz članka 83.c stavka 2. ovoga Zakona. Ako pružatelj platnih usluga ima informaciju da primatelj plaćanja ima više identifikacijskih oznaka, izračun se provodi po primatelju plaćanja.
+
+(5) Obveza iz stavka 1. ovoga članka ne primjenjuje se na platne usluge koje obavljaju pružatelji platnih usluga platitelja u vezi s bilo kojim plaćanjem pri kojem se barem jedan pružatelj platnih usluga primatelja plaćanja nalazi u državi članici, što pokazuje BIC pružatelja platnih usluga ili bilo koja druga poslovna identifikacijska oznaka kojom se pružatelj platnih usluga i gdje se on nalazi nedvosmisleno identificiraju. Pružatelji platnih usluga platitelja bez obzira na to uključuju te platne usluge u izračun iz stavka 3. ovoga članka.
+
+(6) Ako se primjenjuje obveza za pružatelje platnih usluga iz stavka 1. ovoga članka:
+
+a) evidenciju vodi pružatelj platnih usluga u elektroničkom obliku tijekom razdoblja od tri kalendarske godine od kraja kalendarske godine u kojoj je plaćanje izvršeno,
+
+b) evidencija se u skladu s člankom 24.b. Uredbe Vijeća (EU) br. 904/2010 od 7. listopada 2010. o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (SL L 268, 12. 10. 2010.) stavlja na raspolaganje matičnoj državi članici pružatelja platnih usluga ili državi članici domaćinu ako pružatelj platnih usluga obavlja platne usluge u državama članicama koje nisu matična država članica.
+
+#### Članak 83.c
+
+(1) U svrhu primjene članka 83.b stavka 2. ovoga Zakona i iznimno od odredbi o mjestu oporezivanja iz članaka 12. do 28. ovoga Zakona, smatra se da se platitelj nalazi u državi članici kojoj odgovara:
+
+a) IBAN račun za plaćanje platitelja ili bilo koja druga identifikacijska oznaka kojom se platitelj nedvosmisleno identificira i kojom se daje informacija gdje se on nalazi, ili ako nedostaju takve identifikacijske oznake,
+
+b) BIC ili bilo koja druga poslovna identifikacijska oznaka kojom se pružatelj platnih usluga koji djeluje u ime platitelja nedvosmisleno identificira i kojom se daje informacija gdje se on nalazi.
+
+(2) U svrhu primjene članka 83.b stavka 2. ovoga Zakona smatra se da se primatelj plaćanja nalazi u državi članici, na trećem teritoriju ili u trećoj zemlji kojoj odgovara:
+
+a) IBAN račun za plaćanje primatelja plaćanja ili bilo koja druga identifikacijska oznaka kojom se primatelj plaćanja nedvosmisleno identificira i kojom se daje informacija gdje se on nalazi, ili ako nedostaju takve identifikacijske oznake,
+
+b) BIC ili bilo koja druga poslovna identifikacijska oznaka kojom se pružatelj platnih usluga koji djeluje u ime primatelja plaćanja nedvosmisleno identificira i kojom se daje informacija gdje se on nalazi.
+
+#### Članak 83.d
+
+(1) Evidencija koju u skladu s člankom 83.b ovoga Zakona vode pružatelji platnih usluga sadržava sljedeće informacije:
+
+a) BIC ili bilo koju drugu poslovnu identifikacijsku oznaku kojom se pružatelj platnih usluga nedvosmisleno identificira,
+
+b) ime ili naziv primatelja plaćanja kako je navedeno u evidenciji pružatelja platnih usluga,
+
+c) ako je dostupan, bilo koji identifikacijski broj za PDV ili neki drugi nacionalni porezni broj primatelja plaćanja,
+
+d) IBAN ili, ako IBAN nije dostupan, bilo koju drugu identifikacijsku oznaku kojom se primatelj plaćanja nedvosmisleno identificira i kojom se daje informacija gdje se on nalazi,
+
+e) BIC ili bilo koju drugu poslovnu identifikacijsku oznaku kojom se pružatelj platnih usluga koji djeluje u ime primatelja plaćanja nedvosmisleno identificira i kojom se daje informacija gdje se on nalazi kada primatelj plaćanja prima sredstva, a sam nema račun za plaćanje,
+
+f) ako je dostupna, adresu primatelja plaćanja, kako je navedena u evidenciji pružatelja platnih usluga,
+
+g) detalje svih prekograničnih plaćanja kako je navedeno u članku 83.b stavku 1. ovoga Zakona,
+
+h) detalje svih povrata plaćanja koji su utvrđeni kao povezani s prekograničnim plaćanjima iz točke g) ovoga stavka.
+
+(2) Informacije iz stavka 1. točaka g) i h) ovoga članka sadržavaju sljedeće pojedinosti:
+
+a) datum i vrijeme plaćanja ili povrata plaćanja,
+
+b) iznos i valutu plaćanja ili povrata plaćanja,
+
+c) državu članicu podrijetla plaćanja koje je primio primatelj plaćanja ili koje je primljeno u njegovo ime, državu članicu koja je odredište isplate povrata, kako je primjenjivo, te informacije s pomoću kojih je utvrđeno podrijetlo ili odredište plaćanja ili povrata plaćanja u skladu s člankom 83.c ovoga Zakona,
+
+d) svaku referentnu oznaku kojom se plaćanje nedvosmisleno identificira,
+
+e) ako postoji, informaciju o tome je li plaćanje inicirano u fizičkom poslovnom prostoru trgovca.«.
+
+#### Članak 11.
+
+U članku 84. stavku 2. riječi: »106.178,25 eura« zamjenjuju se riječima: »110.000,00 eura«.
+
+#### Članak 12.
+
+U članku 85. iza stavka 12. dodaje se novi stavak 13. koji glasi:
+
+»(13) Porezni obveznik upisan u registar obveznika PDV-a uz prijavu PDV-a iz stavka 1. ovoga članka podnosi elektroničkim putem i obavijest o obavljenom ispravku porez-ne osnovice. Iznimno, obavijest o obavljenom ispravku porezne osnovice u papirnatom obliku podnosi porezni obveznik koji prijavu PDV-a može podnijeti u papirnatom obliku prema stavku 9. ovoga članka.«.
+
+Dosadašnji stavak 13. postaje stavak 14.
+
+#### Članak 13.
+
+U članku 88. stavku 3. točki d) riječi: »stavkom 7.« zamjenjuju se riječima: »stavcima 7. i 8.«.
+
+#### Članak 14.
+
+U članku 90. stavku 1. riječi: »39.816,84 eura« zamjenjuju se riječima: »40.000,00 eura«.
+
+#### Članak 15.
+
+U članku 131. stavku 1. iza točke 29. umjesto točke stavlja se zarez i dodaju točke 30. do 33. koje glase:
+
+»30. ne stavi na raspolaganje ili ne stavi na raspolaganje u roku propisanom člankom 24.b Uredbe Vijeća (EU) br. 904/2010 od 7. listopada 2010. o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost evidenciju primatelja plaćanja i plaćanja u vezi s platnim uslugama koje obavlja ili ako u njoj ne iskaže sve potrebne podatke (članak 83.b stavak 1. i članak 83.d),
+
+31. ne poveća poreznu osnovicu ako naknadno djelomično ili u cijelosti naplati potraživanje za obavljenu isporuku (članak 33. stavak 11.),
+
+32. ne obavijesti ili ne obavijesti u propisanom roku nadležnu ispostavu Porezne uprave o obavljenom ispravku porezne osnovice zbog nemogućnosti naplate cijelog ili dijela dospjelih potraživanja (članak 33. stavak 12.),
+
+33. ne ispravi odbitak pretporeza korištenog za primljenu isporuku dobra ili usluge, a isporučitelj je za tu isporuku naknadno ispravio poreznu osnovicu i PDV (članak 63. stavak 3.).«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 16.
+
+Na račune izdane do dana stupanja na snagu ovoga Zakona primjenjuju se odredbe o ispravku porezne osnovice iz članka 33. stavka 7. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22. i 33/23.).
+
+#### Članak 17.
+
+Porezni obveznici koji u 2023. godini ostvare vrijednost isporuka dobara i usluga, uključujući PDV, manju od 110.000,00 eura mogu se do 15. siječnja 2024. odlučiti za podnošenje prijava za razdoblje oporezivanja od prvog do posljednjeg dana u tromjesečju.
+
+#### Članak 18.
+
+(1) Porezni obveznici koji u 2023. godini ostvare vrijednost isporuka dobara ili obavljenih usluga iz članka 90. stavaka 5. i 6. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22. i 33/23.) veću od 40.000,00 eura (bez PDV-a) obvezni su se od 1. siječnja 2024. upisati u registar obveznika PDV-a.
+
+(2) Porezni obveznici koji u 2023. godini ne ostvare isporuke iz stavka 1. ovoga članka veće od 40.000,00 eura mogu do 15. siječnja 2024. podnijeti zahtjev za brisanje iz registra obveznika PDV-a nadležnoj ispostavi Porezne uprave ili u tome roku pisanim putem zatražiti da se na njih primjenjuju odredbe članka 90. stavka 3. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22. i 33/23.).
+
+(3) Porezni obveznici koji u 2023. godini ne ostvare isporuke iz stavka 1. ovoga članka veće od 40.000,00 eura ostaju do isteka roka od tri kalendarske godine porezni obveznici ako su bili upisani u registar obveznika PDV-a na vlastiti zahtjev.
+
+#### Članak 19.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19., 1/20., 1/21., 73/21., 41/22., 133/22. i 43/23.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 20.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2024.
+
+Klasa: 022-02/23-01/57  
+Zagreb, 28. rujna 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o porezu na dodanu vrijednost (NN 35/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/35/539*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjeni Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 14. ožujka 2024.
+
+Klasa: 011-02/24-02/36
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 18. ožujka 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23. i 114/23.) u članku 38. stavku 4. riječi: »31. ožujka 2024.« zamjenjuju se riječima: »31. ožujka 2025.«.
+
+U stavku 5. riječi: »31. ožujka 2024.« zamjenjuju se riječima: »31. ožujka 2025.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19., 1/20., 1/21., 73/21., 41/22., 133/22., 43/23. i 1/24.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2024.
+
+Klasa: 022-02/24-01/25
+
+Zagreb, 14. ožujka 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 152/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2508*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 13. prosinca 2024.
+
+Klasa: 011-02/24-02/93
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 17. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23. i 35/24.) u članku 2. iza podstavka 14. briše se točka i dodaje se podstavak 15. koji glasi:
+
+»− Direktiva Vijeća (EU) 2020/285 od 18. veljače 2020. o izmjeni Direktive 2006/112/EZ o zajedničkom sustavu poreza na dodanu vrijednost u pogledu posebne odredbe za mala poduzeća i Uredbe (EU) br. 904/2010 u pogledu administrativne suradnje i razmjene informacija u svrhe praćenja ispravne primjene posebne odredbe za mala poduzeća (SL L 62, 2. 3. 2020.).«.
+
+#### Članak 2.
+
+U članku 4. stavku 1. točki 2. podtočki a) iza riječi: »mali porezni obveznik« dodaju se riječi: »iz članka 90. ovoga Zakona«.
+
+#### Članak 3.
+
+U članku 21. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Odredba stavka 1. ovoga članka ne primjenjuje se na pristup događanjima iz toga stavka ako je prisutnost virtualna.«.
+
+Iza dosadašnjeg stavka 2., koji postaje stavak 3., dodaje se stavak 4. koji glasi:
+
+»(4) Ako se usluge i pomoćne usluge iz stavka 3. ovoga članka odnose na aktivnosti koje se prenose preko interneta ili se na drugi način u virtualnom obliku stavljaju na raspolaganje, mjesto obavljanja usluge je mjesto u kojem osoba koja nije porezni obveznik ima sjedište, prebivalište ili uobičajeno boravište.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+#### Članak 4.
+
+U članku 25. stavku 1. riječ: »članaka« zamjenjuje se riječju: »članka« te se iza broja: »17.,« dodaju riječi: »članka 21. stavka 4. i članaka«.
+
+#### Članak 5.
+
+U članku 37. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Na uvoz dobara primjenjuje se stopa PDV-a koja se za takva dobra primjenjuje u tuzemstvu.«.
+
+#### Članak 6.
+
+U članku 38. stavku 3. točka i) mijenja se i glasi:
+
+»i) javnu uslugu sakupljanja komunalnog otpada koju pruža davatelj javne usluge sakupljanja komunalnog otpada sukladno posebnom propisu kojim se uređuje gospodarenje otpadom,«.
+
+#### Članak 7.
+
+U članku 41. stavku 3. iza riječi: »članka 90.« riječi: »stavka 1.« brišu se.
+
+U stavku 4. iza riječi: »članka 90.« riječi: »stavka 1.« brišu se.
+
+#### Članak 8.
+
+Iza članka 44. dodaje se naslov iznad članka i članak 44.a koji glase:
+
+*»4.1. Oslobođenje od PDV-a u izvanrednim situacijama*
+
+#### Članak 44.a
+
+(1) Nakon primitka odobrenja Europske komisije, danog na temelju zahtjeva Republike Hrvatske, o primjeni oslobođenja od PDV-a za dobra uvezena u korist žrtava katastrofa, ministar financija može, pod istim uvjetima, naredbom propisati da je plaćanja PDV-a u tuzemstvu oslobođeno stjecanje dobara unutar Europske unije i isporuke tih dobara i usluga povezanih s tim dobrima, uključujući usluge iznajmljivanja.
+
+(2) Ako se dobra ili usluge za koje je primijenjeno oslobođenje od PDV-a iz stavka 1. ovoga članka koriste u svrhe koje nisu obuhvaćene odobrenjem Europske komisije, korištenje tih dobara ili usluga podliježe PDV-u pod istim uvjetima koji su na snazi u trenutku kada uvjeti za oslobođenje više nisu ispunjeni.«.
+
+#### Članak 9.
+
+U članku 45. stavku 2. točki d) riječi: »potvrdila carinarnica« zamjenjuju se riječima: »potvrdio carinski ured«.
+
+#### Članak 10.
+
+U članku 51. stavku 1. točki a) riječ: »carinarnici« zamjenjuje se riječima: »carinskom uredu«.
+
+U točki b) riječi: »ili slobodno skladište« brišu se.
+
+#### Članak 11.
+
+U članku 58. stavku 5. iza riječi: »transakcije« dodaju se zarez i riječi: »osim onih koje su oslobođene na temelju članka 90. ovoga Zakona,«.
+
+#### Članak 12.
+
+Iza članka 65.a dodaje se naslov iznad članka i članak 65.b koji glase:
+
+*»7.4. Odbitak pretporeza na temelju rješenja*
+
+#### Članak 65.b
+
+(1) Ako se iznos PDV-a koji je porezni obveznik obračunao ili trebao obračunati na obavljene isporuke poveća na temelju rješenja Porezne uprave, tada porezni obveznik može izdati ispravljeni račun s ispravno obračunanim PDV-om, a primatelj isporuke može, za nastalu razliku, ostvariti pravo na odbitak pretporeza u skladu s člankom 57. ovoga Zakona u razdoblju oporezivanja u kojem je primio taj račun.
+
+(2) Ako se promijeni iznos PDV-a obračunan pri uvozu dobara koji je porezni obveznik odbio kao pretporez, porezni obveznik može na temelju dokumenta Carinske uprave ispraviti odbitak pretporeza za nastalu razliku.
+
+(3) Ministar financija pravilnikom propisuje sadržaj računa iz stavka 1. ovoga članka.«.
+
+#### Članak 13.
+
+U članku 67. stavku 1. druga rečenica briše se.
+
+#### Članak 14.
+
+U članku 77. stavku 1. riječi: »u prethodnoj ili tekućoj kalendarskoj godini« brišu se.
+
+U stavku 2. riječi: »stavka 1.« brišu se.
+
+#### Članak 15.
+
+U članku 79. stavku 12. prva rečenica mijenja se i glasi: »Porezni obveznik može izdati pojednostavnjeni račun u slučaju kada iznos računa nije veći od 100,00 eura, kada je izdani račun isprava koja se smatra računom u skladu s člankom 78. stavkom 7. ovoga Zakona ili kada primjenjuje posebni postupak oporezivanja za male porezne obveznike iz članka 90. ovoga Zakona.«.
+
+#### Članak 16.
+
+U glavi XV. iza naslova: »1. Posebni postupak oporezivanja za male porezne obveznike« dodaju se naslovi iznad članaka i članci 89.a i 89.b koji glase:
+
+*»1.1. Općenito*
+
+#### Članak 89.a
+
+U smislu članaka 90. do 90.f ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+
+1. »godišnji promet u državi članici« je ukupna godišnja vrijednost isporuka dobara i usluga, bez PDV-a, koje je porezni obveznik obavio u toj državi članici tijekom kalendarske godine,
+
+2. »godišnji promet u Uniji« je ukupna godišnja vrijednost isporuka dobara i usluga, bez PDV-a, koje je porezni obveznik obavio na području Europske unije tijekom kalendarske godine.
+
+*1.2. Oslobođenje od plaćanja PDV-a*
+
+#### Članak 89.b
+
+(1) Oslobođenje od plaćanja PDV-a propisano člankom 90. ovoga Zakona primjenjuje se na isporuke dobara i usluga koje obavljaju mali porezni obveznici.
+
+(2) Oslobođenje od plaćanja PDV-a iz ovoga članka ne primjenjuje se:
+
+a) na isporuke novih prijevoznih sredstava prema uvjetima iz članka 41. stavka 1. točaka a) i b) ovoga Zakona,
+
+b) u slučaju prijenosa porezne obveze na male porezne obveznike u smislu članka 75. stavka 1. točaka 6. i 7. te članka 75. stavka 2. ovoga Zakona.«.
+
+#### Članak 17.
+
+Članak 90. mijenja se i glasi:
+
+»(1) Porezni obveznik sa sjedištem, prebivalištem ili uobičajenim boravištem u tuzemstvu, čiji godišnji promet u tuzemstvu nije bio veći od 60.000,00 eura oslobođen je plaćanja PDV-a na isporuke dobara i usluga obavljene u tuzemstvu.
+
+(2) Porezni obveznik sa sjedištem, prebivalištem ili uobičajenim boravištem u drugoj državi članici ima pravo primijeniti oslobođenje od plaćanja PDV-a iz stavka 1. ovoga članka ako su ispunjeni sljedeći uvjeti:
+
+a) godišnji promet u Uniji nije bio veći od 100.000,00 eura,
+
+b) vrijednost isporuka dobara i usluga obavljenih u tuzemstvu nije bila veća od 60.000,00 eura.
+
+(3) Godišnja vrijednost isporuka dobara i usluga za primjenu oslobođenja iz ovoga članka, bez PDV-a, obuhvaća:
+
+a) vrijednost isporuka dobara i usluga koje bi bile oporezive kad bi ih isporučio porezni obveznik koji nema pravo na oslobođenje,
+
+b) vrijednosti isporuka iz članka 38. stavka 6. ovoga Zakona, za koje postoji pravo na odbitak pretporeza,
+
+c) vrijednost isporuka oslobođenih plaćanja PDV-a iz članaka 45. do 49. ovoga Zakona,
+
+d) vrijednosti isporuka oslobođenih plaćanja PDV-a iz članka 41. ovoga Zakona ako se primjenjuje oslobođenje iz tog članka,
+
+e) vrijednosti transakcija nekretninama i transakcija iz članka 40. stavka 1. točaka a) do g) ovoga Zakona, osim ako su te transakcije pomoćne.
+
+(4) Isporuka materijalnih ili nematerijalnih gospodarskih dobara poreznog obveznika ne uzima se u obzir u svrhu izračunavanja vrijednosti isporuka iz stavka 3. ovoga članka.
+
+(5) Neovisno o članku 90.i stavku 2. ovoga Zakona, kako bi porezni obveznik primijenio oslobođenje od PDV-a u državi članici u kojoj nema sjedište, prebivalište ili uobičajeno boravište:
+
+a) dostavlja prethodnu obavijest državi članici sjedišta, prebivališta ili uobičajenog boravišta i
+
+b) za primjenu oslobođenja od PDV-a dodijeljen mu je individualni identifikacijski broj za oslobođenje samo u državi članici sjedišta, prebivališta ili uobičajenog boravišta.
+
+(6) Individualni identifikacijski broj za oslobođenje iz stavka 5. točke b) ovoga članka je osobni identifikacijski broj (OIB) kojemu se dodaje nastavak »EX«.
+
+(7) Porezni obveznik unaprijed obavješćuje državu članicu sjedišta, prebivališta ili uobičajenog boravišta putem ažuriranja prethodne obavijesti, o svakoj promjeni prethodno dostavljenih informacija u skladu sa stavkom 5. točkom a) ovoga članka, uključujući namjeru da primjenjuje oslobođenje u državi članici ili državama članicama koje nisu države članice navedene u prethodnoj obavijesti te odluku o prestanku primjene odredbe o oslobođenju u državi članici ili državama članicama u kojima taj porezni obveznik nema sjedište, prebivalište ili uobičajeno boravište.
+
+(8) Primjena odredbe o oslobođenju iz stavka 7. ovoga članka prestaje od prvoga dana sljedećeg kalendarskog tromjesečja koji slijedi nakon primitka informacija od poreznog obveznika ili, ako su te informacije primljene tijekom zadnjeg mjeseca kalendarskog tromjesečja, od prvoga dana drugog mjeseca sljedećeg kalendarskog tromjesečja.
+
+(9) Oslobođenje od plaćanja PDV-a primjenjuje se u pogledu države članice u kojoj porezni obveznik nema sjedište, prebivalište ili uobičajeno boravište i u kojoj taj porezni obveznik namjerava primjenjivati oslobođenje od plaćanja PDV-a:
+
+a) od dana kada je poreznog obveznika država članica njegova sjedišta, prebivališta ili uobičajenog boravišta obavijestila o individualnom identifikacijskom broju u slučaju kada je porezni obveznik dostavio prethodnu obavijest ili
+
+b) od dana kada je država članica sjedišta, prebivališta ili uobičajenog boravišta poreznom obvezniku potvrdila individualni identifikacijski broj u slučaju kada je porezni obveznik dostavio ažuriranu prethodnu obavijest.
+
+(10) Država članica iz stavka 9. točke a) ovoga članka najkasnije u roku od 35 radnih dana nakon primitka prethodne obavijesti iz stavka 5. točke a) ovoga članka ili obavijesti o ažuriranju prethodne obavijesti iz stavka 7. ovoga članka, osim u posebnim slučajevima u kojima radi sprečavanja utaje ili izbjegavanja plaćanja poreza državi članici može biti potrebno dodatno vrijeme za provedbu potrebnih provjera, obavještava poreznog obveznika o individualnom identifikacijskom broju, odnosno potvrdi toga broja.
+
+(11) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s registracijom za potrebe PDV-a, odnosno upisom u registar obveznika PDV-a poreznih obveznika iz stavaka 1. i 2. ovoga članka, prijelazom s redovnog oporezivanja na posebni postupak oporezivanja iz stavka 1. ovoga članka i obrnuto te propisuje dodjelu i ukidanje individualnog identifikacijskog broja u slučaju kada porezni obveznik iz stavka 1. ovoga članka želi primjenjivati posebni postupak oporezivanja za male porezne obveznike u drugim državama članicama u kojima nema sjedište, prebivalište i uobičajeno boravište.«.
+
+#### Članak 18.
+
+Iza članka 90. dodaju se naslovi iznad članaka i članci 90.a do 90.i koji glase:
+
+*»1.3. Prethodna obavijest*
+
+#### Članak 90.a
+
+(1) Prethodna obavijest iz članka 90. stavka 5. točke a) ovoga Zakona sadržava sljedeće informacije:
+
+a) ime, djelatnost, pravni oblik i adresu poreznog obveznika,
+
+b) državu članicu ili države članice u kojima porezni obveznik namjerava primjenjivati oslobođenje,
+
+c) ukupnu vrijednost isporuka dobara i/ili usluga obavljenih u državi članici u kojoj porezni obveznik ima sjedište, prebivalište ili uobičajeno boravište i u svim drugim državama članicama tijekom prethodne kalendarske godine,
+
+d) ukupnu vrijednost isporuka dobara i/ili usluga obavljenih u državi članici u kojoj porezni obveznik ima sjedište, prebivalište ili uobičajeno boravište i u svim drugim državama članicama tijekom tekuće kalendarske godine prije obavijesti.
+
+(2) Informacije iz stavka 1. točke c) ovoga članka potrebno je navesti za svaku prethodnu kalendarsku godinu u vezi s bilo kojom državom članicom koja primjenjuje mogućnost produljenja razdoblja zabrane primjene oslobođenja na dvije kalendarske godine.
+
+(3) Ako obavijesti državu članicu sjedišta, prebivališta ili uobičajenog boravišta u skladu s člankom 90. stavkom 7. ovoga Zakona da namjerava primjenjivati oslobođenje od plaćanja PDV-a u državi članici ili državama članicama koje nisu države članice navedene u prethodnoj obavijesti, porezni obveznik nije obvezan dati informacije iz stavka 1. ovoga članka koje su već uključene u izvješća koja su prethodno podnesena na temelju članka 90.b ovoga Zakona.
+
+(4) Ažuriranje prethodne obavijesti iz stavka 3. ovoga članka uključuje individualni identifikacijski broj iz članka 90. stavka 5. točke b) ovoga Zakona.
+
+*1.4. Tromjesečno izvješće*
+
+#### Članak 90.b
+
+(1) Porezni obveznik, koji primjenjuje oslobođenje iz članka 90. stavka 1. ovoga Zakona u državi članici u kojoj nema sjedište, prebivalište ili uobičajeno boravište u skladu s postupkom iz članka 90. stavaka 5. do 8. ovoga Zakona, za svako kalendarsko tromjesečje državi članici sjedišta, prebivališta ili uobičajenog boravišta podnosi sljedeće informacije, uključujući individualni identifikacijski broj iz članka 90. stavka 5. točke b) ovoga Zakona:
+
+a) ukupnu vrijednost isporuka obavljenih tijekom kalendarskog tromjesečja u državi članici sjedišta, prebivališta ili uobičajenog boravišta ili »0« ako nije bilo isporuka,
+
+b) ukupnu vrijednost isporuka obavljenih tijekom kalendarskog tromjesečja u svakoj državi članici koja nije država članica sjedišta, prebivališta ili uobičajenog boravišta ili »0« ako nije bilo isporuka.
+
+(2) Porezni obveznik informacije iz stavka 1. ovoga članka dostavlja u roku od jednog mjeseca od završetka kalendarskog tromjesečja.
+
+(3) Ako prijeđe prag godišnjeg prometa u Uniji iz članka 90. stavka 2. točke a) ovoga Zakona, porezni obveznik o tome obavješćuje državu članicu sjedišta, prebivališta ili uobičajenog boravišta u roku od 15 radnih dana. Istodobno porezni obveznik mora prijaviti vrijednost isporuka iz stavka 1. ovoga članka koje su izvršene od početka tekućeg kalendarskog tromjesečja do datuma prelaska praga godišnjeg prometa u Uniji.
+
+*1.5. Zajedničke odredbe o prethodnoj obavijesti i tromjesečnom izvješću*
+
+#### Članak 90.c
+
+(1) U vezi s člankom 90.a stavkom 1. točkama c) i d) i člankom 90.b stavkom 1. ovoga Zakona primjenjuje se sljedeće:
+
+a) vrijednosti se sastoje od iznosa navedenih u članku 90. stavcima 3. i 4. ovoga Zakona,
+
+b) vrijednosti se navode u eurima,
+
+c) ako država članica koja odobrava oslobođenje primjenjuje različite pragove za različite poslovne sektore, porezni obveznik mora toj državi članici zasebno prijaviti ukupnu vrijednost isporuka dobara i/ili usluga u pogledu svakog praga koji se eventualno primjenjuje.
+
+(2) Informacije iz članka 90. stavaka 5. do 8. te iz članka 90.b stavaka 1. i 3. ovoga Zakona podnose se elektroničkim putem.
+
+*1.6. Izuzeća od određenih obveza u pogledu PDV-a*
+
+#### Članak 90.d
+
+(1) Porezni obveznik koji primjenjuje oslobođenje u tuzemstvu i koji nema sjedište, prebivalište ili uobičajeno boravište u tuzemstvu ne mora u odnosu na isporuke obuhvaćene oslobođenjem u tuzemstvu:
+
+a) biti registriran za potrebe PDV-a na temelju članka 77. ovoga Zakona,
+
+b) podnositi prijavu PDV-a na temelju članka 85. ovoga Zakona.
+
+(2) Porezni obveznik koji primjenjuje oslobođenje od plaćanja PDV-a u tuzemstvu gdje ima sjedište, prebivalište ili uobičajeno boravište i u bilo kojoj državi članici u kojoj nema sjedište, prebivalište ili uobičajeno boravište ne mora u vezi s isporukama obuhvaćenima oslobođenjem u tuzemstvu podnositi prijavu PDV-a na temelju članka 85. ovoga Zakona.
+
+(3) Iznimno od ovoga članka, ako porezni obveznik ne poštuje pravila iz članka 90.b ovoga Zakona, Porezna uprava može od njega zahtijevati da ispuni obveze iz stavka 1. ovoga članka.
+
+*1.7. Prestanak primjene oslobođenja od PDV-a*
+
+#### Članak 90.e
+
+Država članica sjedišta, prebivališta ili uobičajenog boravišta bez odgode deaktivira individualni identifikacijski broj iz članka 90. stavka 5. točke b) ovoga Zakona ili, ako porezni obveznik i dalje primjenjuje oslobođenje u drugoj državi članici ili drugim državama članicama, prilagođuje informacije primljene na temelju članka 90. stavaka 5. do 8. ovoga Zakona u pogledu dotične države članice ili država članica u sljedećim slučajevima:
+
+a) ukupna vrijednost isporuka koje je prijavio porezni obveznik prelazi iznos iz članka 90. stavka 2. točke a) ovoga Zakona,
+
+b) država članica koja odobrava oslobođenje od plaćanja PDV-a obavijestila je da porezni obveznik nema pravo na oslobođenje ili da se oslobođenje prestalo primjenjivati u toj državi članici,
+
+c) porezni obveznik dostavio je obavijest o svojoj odluci da prestaje primjenjivati oslobođenje ili
+
+d) porezni obveznik dostavio je obavijest o tome, ili se inače može pretpostaviti da su njegove djelatnosti prestale.
+
+#### Članak 90.f
+
+(1) Porezni obveznik, neovisno o tome ima li sjedište, prebivalište ili uobičajeno boravište u tuzemstvu, ne može primjenjivati oslobođenje iz članka 90. stavka 1. ovoga Zakona u tuzemstvu tijekom razdoblja od jedne kalendarske godine ako je u prethodnoj kalendarskoj godini prešao prag iz članka 90. stavka 2. točke b) ovoga Zakona.
+
+(2) Oslobođenje iz članka 90. stavka 1. ovoga Zakona prestaje se primjenjivati od trenutka kada je prijeđen prag iz tog stavka.
+
+(3) Porezni obveznik koji nema sjedište, prebivalište ili uobičajeno boravište u državi članici koja odobrava oslobođenje od plaćanja PDV-a ne može primjenjivati to oslobođenje ako je prešao prag godišnjeg prometa u Uniji iz članka 90. stavka 2. točke a) ovoga Zakona u prethodnoj kalendarskoj godini.
+
+(4) Ako je tijekom kalendarske godine prijeđen prag godišnjeg prometa u Uniji iz članka 90. stavka 2. točke a) ovoga Zakona, oslobođenje koje se odobrava poreznom obvezniku koji nema sjedište, prebivalište ili uobičajeno boravište u državi članici koja odobrava oslobođenje od plaćanja PDV-a prestaje se primjenjivati od tog trenutka.
+
+*1.8. Računi i odbitak pretporeza*
+
+#### Članak 90.g
+
+Porezni obveznik iz članka 90. stavaka 1. i 2. ovoga Zakona nema pravo iskazivati PDV na izdanim računima i nema pravo na odbitak pretporeza.
+
+*1.9. Izbor za primjenu redovnog postupka oporezivanja*
+
+#### Članak 90.h
+
+Porezni obveznik iz članka 90. stavka 1. ovoga Zakona može od Porezne uprave zatražiti da se na njega primjenjuje redovni postupak oporezivanja PDV-om koji je obvezan primjenjivati u tekućoj i sljedećoj kalendarskoj godini. Ako je porezni obveznik podnio zahtjev za registriranje za potrebe PDV-a radi upisa u registar obveznika PDV-a, smatrat će se da je zahtjev usvojen ako Porezna uprava u roku od osam dana od dana primitka zahtjeva ne donese rješenje o istom.
+
+*1.10. Pojednostavnjenje obveza za male porezne obveznike*
+
+#### Članak 90.i
+
+(1) »Mali porezni obveznik« je svaki porezni obveznik koji primjenjuje oslobođenje od plaćanja PDV-a u državi članici u kojoj postoji obveza plaćanja PDV-a u skladu s člankom 90. stavcima 1. i 2. ovoga Zakona.
+
+(2) Porezni obveznici sa sjedištem, prebivalištem ili uobičajenim boravištem u tuzemstvu koji primjenjuju oslobođenje od plaćanja PDV-a samo u tuzemstvu nisu obvezni zatražiti izdavanje PDV identifikacijskog broja, osim ako obavljaju transakcije iz članka 77. stavka 5. točaka b), d) ili e) ovoga Zakona.
+
+(3) Porezni obveznici sa sjedištem, prebivalištem ili uobičajenim boravištem u tuzemstvu koji primjenjuju oslobođenje od plaćanja PDV-a samo u tuzemstvu nisu obvezni podnositi prijavu PDV-a iz članka 85. ovoga Zakona, osim u slučajevima iz članka 85. stavka 3. ovoga Zakona.«.
+
+#### Članak 19.
+
+U članku 95. stavku 4. točki c) riječi: »stavcima 1. i 2.« brišu se.
+
+#### Članak 20.
+
+U članku 97. stavku 1. iza točke b) umjesto točke stavlja se zarez i dodaje točka c) koja glasi:
+
+»c) umjetničkih djela koja mu isporuči porezni obveznik koji nije preprodavatelj.«.
+
+#### Članak 21.
+
+U članku 106. točki c) riječi: »stavkom 1.« brišu se.
+
+#### Članak 22.
+
+U članku 125.hn riječi: »članka 37. stavka 2. točke b)« zamjenjuju se riječima: »članka 37. stavka 4.«.
+
+#### Članak 23.
+
+U članku 125.i stavku 2. riječi: »stavaka 5. i 6.« zamjenjuju se riječima: »stavaka 3. i 4.«.
+
+#### Članak 24.
+
+U članku 131. stavku 1. iza točke 33. umjesto točke stavlja se zarez i dodaju točke 34. i 35. koje glase:
+
+»34. ne dostavi ili ne dostavi u propisanom roku informacije o ukupnoj vrijednosti isporuka obavljenih tijekom kalendarskog tromjesečja u državi članici sjedišta, prebivališta ili uobičajenog boravišta i u svakoj državi članici koja nije država članica sjedišta, prebivališta ili uobičajenog boravišta (članak 90.b stavci 1. i 2.),
+
+35. ne obavijesti u roku od 15 radnih dana državu članicu sjedišta, prebivališta ili uobičajenog boravišta o prijeđenom pragu godišnjeg prometa u Uniji (članak 90.b stavak 3.).«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 25.
+
+(1) Porezni obveznik koji na području Europske unije nema sjedište, stalnu poslovnu jedinicu iz koje su obavljene isporuke, prebivalište ili uobičajeno boravište pravo na povrat PDV-a za 2024. godinu ostvaruje u skladu s odredbama članka 67. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23. i 35/24.).
+
+(2) Porezni obveznici koji u 2024. godini ostvare vrijednost isporuka dobara ili obavljenih usluga iz članka 90. stavaka 5. i 6. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23. i 35/24.) veću od 60.000,00 eura (bez PDV-a) obvezni su se od 1. siječnja 2025. upisati u registar obveznika PDV-a.
+
+(3) Porezni obveznici koji u 2024. godini ne ostvare isporuke iz stavka 1. ovoga članka veće od 60.000,00 eura mogu do 15. siječnja 2025. podnijeti zahtjev za brisanje iz registra obveznika PDV-a nadležnoj ispostavi Porezne uprave, osim ako su bili upisani u registar obveznika PDV-a na vlastiti zahtjev tijekom 2024. godine.
+
+#### Članak 26.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19., 1/20., 1/21., 73/21., 41/22., 133/22., 43/23., 1/24. i 39/24.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 27.
+
+Ministarstvo financija će u roku od tri godine od dana stupanja na snagu ovoga Zakona provesti vrednovanje ovoga Zakona.
+
+#### Članak 28.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2025.
+
+Klasa: 022-02/24-01/112
+
+Zagreb, 13. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o porezu na dodanu vrijednost (NN 52/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/52/673*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjeni Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 14. ožujka 2025.
+
+Klasa: 011-02/25-02/26  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 18. ožujka 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23., 35/24. i 152/24.) u članku 38. stavku 4. riječi: »31. ožujka 2025.« zamjenjuju se riječima: »31. ožujka 2026.«.
+
+U stavku 5. riječi: »31. ožujka 2025.« zamjenjuju se riječima: »31. ožujka 2026.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13., 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19., 1/20., 1/21., 73/21., 41/22., 133/22., 43/23., 1/24., 39/24. i 16/25.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 30. ožujka 2025.
+
+Klasa: 022-02/25-01/16  
+Zagreb, 14. ožujka 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost (NN 151/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/151/2262*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 5. prosinca 2025.
+
+Klasa: 011-02/25-02/107  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 9. prosinca 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13. – Rješenje Ustavnog suda Republike Hrvatske, 148/13., 153/13. – Rješenje Ustavnog suda Republike Hrvatske, 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23., 35/24., 152/24. i 52/25.) u članku 44. stavku 3. riječi: »do 20-og dana u mjesecu« zamjenjuju se riječima: »do zadnjeg dana u tekućem mjesecu«.
+
+#### Članak 2.
+
+U članku 78. stavku 2. iza riječi: »Zakona« zarez i riječi: »osim u slučaju obavljanja mjenjačkih poslova u tuzemstvu« brišu se.
+
+#### Članak 3.
+
+U članku 80. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, suglasnost primatelja za prihvat računa u elektroničkom obliku nije potrebna u slučaju obveze izdavanja računa u elektroničkom obliku u smislu propisa o fiskalizaciji u dijelu izdavanja i fiskalizacije eRačuna u poslovanju poreznih obveznika.«.
+
+Dosadašnji stavci 2. do 5. postaju stavci 3. do 6.
+
+U dosadašnjem stavku 6., koji postaje stavak 7., iza riječi: »u elektroničkom obliku« stavlja se zarez i dodaju riječi: »osim računa koji su propisani propisom o fiskalizaciji u dijelu izdavanja i fiskalizacije eRačuna u poslovanju poreznih obveznika«.
+
+#### Članak 4.
+
+U članku 85. stavku 6. riječi: »do 20-og dana u mjesecu« zamjenjuju se riječima: »do zadnjeg dana u tekućem mjesecu«.
+
+Stavci 10. i 11. brišu se.
+
+U dosadašnjem stavku 12., koji postaje stavak 10., riječi: »ju je obvezan u pisanom obliku imati u prijevoznom sredstvu« zamjenjuju se riječima: »u svakom trenutku mora omogućiti nadležnim osobama uvid u istu«.
+
+Dosadašnji stavak 13. postaje stavak 11.
+
+Dosadašnji stavak 14., koji postaje stavak 12., mijenja se i glasi:
+
+»(12) Ministar financija pravilnikom propisuje oblik i sadržaj obrasca prijave PDV-a, rokove podnošenja prijave PDV-a koju podnosi porezni obveznik koji obavlja isključivo povremeni međunarodni cestovni prijevoz putnika na području Republike Hrvatske te način podnošenja, oblik i podatke koji se upisuju u Prijavu usluga međunarodnog cestovnog prijevoza putnika.«.
+
+#### Članak 5.
+
+U članku 86. stavku 2. riječi: »do 20-og dana u mjesecu« zamjenjuju se riječima: »do zadnjeg dana u tekućem mjesecu«.
+
+#### Članak 6.
+
+U članku 88. stavku 2. riječi: »do 20-og dana u mjesecu« zamjenjuju se riječima: »do zadnjeg dana u tekućem mjesecu«.
+
+#### Članak 7.
+
+U članku 124. stavku 2. riječi: »i u tom slučaju ne primjenjuje se uvjet uzajamnosti« brišu se.
+
+#### Članak 8.
+
+U članku 125.k stavku 5. iza riječi: »koje nije platio do promjene načina obračuna PDV-a« stavlja se zarez i dodaju riječi: »a koje mu je obavio porezni obveznik koji obračunava PDV prema obavljenim isporukama«.
+
+#### Članak 9.
+
+U članku 131. stavku 1. točka 10. mijenja se i glasi:
+
+»10. ne podnese ili ne podnese u propisanom roku nadležnoj ispostavi Porezne uprave prijavu PDV-a (članak 85. stavak 6.),«.
+
+Točka 28. briše se.
+
+U dosadašnjoj točki 29., koja postaje točka 28., riječi: »članak 85. stavak 12.« zamjenjuju se riječima: »članak 85. stavak 10.«.
+
+Dosadašnje točke 30. do 35. postaju točke 29. do 34.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 10.
+
+(1) Za posljednje razdoblje oporezivanja 2025. podnose se prijave propisane Zakonom o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13. – Rješenje Ustavnog suda Republike Hrvatske, 148/13., 153/13. – Rješenje Ustavnog suda Republike Hrvatske, 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23., 35/24., 152/24. i 52/25.).
+
+(2) Prijave iz stavka 1. ovoga članka podnose se u rokovima propisanim Zakonom o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13. – Rješenje Ustavnog suda Republike Hrvatske, 148/13., 153/13. – Rješenje Ustavnog suda Republike Hrvatske, 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23., 35/24., 152/24. i 52/25.).
+
+#### Članak 11.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«, br. 79/13., 85/13. – ispravak, 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19., 1/20., 1/21., 73/21., 41/22., 133/22., 43/23., 1/24., 39/24., 16/25. i 68/25.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 12.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2026.
+
+Klasa: 022-02/25-01/121
+
+Zagreb, 5. prosinca 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o porezu na dodanu vrijednost (NN 32/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/32/377*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o izmjeni Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 27. ožujka 2026.
+
+Klasa: 011-02/26-02/20
+
+Urbroj: 71-10-01/1-26-2
+
+Zagreb, 27. ožujka 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine« br. 73/13., 99/13. – Rješenje Ustavnog suda Republike Hrvatske, 148/13., 153/13. – Rješenje Ustavnog suda Republike Hrvatske, 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23., 35/24., 152/24., 52/25. i 151/25.) u članku 38. stavku 4. riječi: »31. ožujka 2026.« zamjenjuju se riječima: »31. ožujka 2027.«.
+
+U stavku 5. riječi: »31. ožujka 2026.« zamjenjuju se riječima: »31. ožujka 2027.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Ministar financija uskladit će Pravilnik o porezu na dodanu vrijednost (»Narodne novine«br. 79/13., 85/13. – ispravak, 160/13., 35/14., 157/14., 130/15., 1/17., 41/17., 128/17., 1/19., 1/20., 1/21., 73/21., 41/22., 133/22., 43/23., 1/24., 39/24., 16/25., 68/25. i 11/26.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 30. ožujka 2026.
+
+Klasa: 022-02/26-01/18
+
+Zagreb, 27. ožujka 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o dopuni Zakona o porezu na dodanu vrijednost (NN 48/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/48/578*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O POREZU NA DODANU VRIJEDNOST
+
+Proglašavam Zakon o dopuni Zakona o porezu na dodanu vrijednost, koji je Hrvatski sabor donio na sjednici 30. travnja 2026.
+
+Klasa: 011-02/26-02/35  
+Urbroj: 71-10-01/1-26-2  
+Zagreb, 5. svibnja 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O POREZU NA DODANU VRIJEDNOST**
+
+#### Članak 1.
+
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13. – Rješenje Ustavnog suda Republike Hrvatske, 148/13., 153/13. – Rješenje Ustavnog suda Republike Hrvatske, 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23., 35/24., 152/24., 52/25., 151/25. i 32/26.) iza članka 38. dodaju se naslov iznad članka i članak 38.a koji glase:
+
+*»3. Stopa PDV-a na energente u posebnim okolnostima*
+
+#### Članak 38.a
+
+Iznimno od članka 38. ovoga Zakona Vlada Republike Hrvatske, u svrhu stabilnosti tržišta, može na ograničeno vrijeme, u posebnim okolnostima, a osobito u slučaju poremećaja na tržištu energenata, a radi zaštite potrošača, regulacije tržišta ili zbog drugih opravdanih razloga, uredbom propisati visinu stope PDV-a na energente koji podliježu trošarinama prema propisima kojima se uređuju trošarine.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Ministarstvo financija će u roku od tri godine od dana stupanja na snagu ovoga Zakona provesti vrednovanje ovoga Zakona.
+
+#### Članak 3.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/26-01/36
+
+Zagreb, 30. travnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -200,11 +200,9 @@ U prazno polje križićem označite djelatnost za koju podnosite Zahtjev
 ## I. OPĆI PODACI O PODNOSITELJU ZAHTJEVA
 
 <table>
-
 <tr>
 <td colspan="9">1. Naziv obrta, trgovačkog društva ili zadruge – sjedište, ulica i br.<br> _________________________________________________<br> </td>
 </tr>
-
 <tr>
 <td>Matični broj</td>
 <td></td>
@@ -216,7 +214,6 @@ U prazno polje križićem označite djelatnost za koju podnosite Zahtjev
 <td></td>
 <td></td>
 </tr>
-
 </table>
 
 Djelatnost
@@ -224,92 +221,75 @@ Djelatnost
 slovima: ___________________________________________
 
 <table>
-
 <tr>
 <td colspan="2">2. Telefon<br> Faks</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">3. Datum i mjesto registracije, broj dokumenta registracije</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">4. Žiroračun</td>
 <td></td>
 </tr>
-
 <tr>
 <td rowspan="2" colspan="2">5. Ukupan broj zaposlenih na dan _______,<br> – od toga: – na određeno vrijeme</td>
 <td><br> </td>
 </tr>
-
 <tr>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">– žene</td>
 <td></td>
 </tr>
-
 <tr>
 <td>– stručna sprema:</td>
 <td>NKV</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>PKV</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>KV, VKV</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>SSS</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>VŠS</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>VSS</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">6. Struktura vlasništva:</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td>privatno 100 %</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td>suvlasništvo %</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td>fondovi %</td>
 </tr>
-
 </table>
 
 II. PODACI O RADNICIMA ZA KOJE SE PODNOSI ZAHTJEV

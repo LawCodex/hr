@@ -6,17 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1992-12-12
-last_amended: 2013-12-11
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "86/92, 76/94, 108/95, 82/01, 103/03, 148/13"
+narodne_novine: "86/92, 2/94, 76/94, 108/95, 82/01, 103/03, 148/13, 98/19"
 amendments:
+  - "NN 2/1994 (15) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
   - "NN 76/1994 (1302) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
   - "NN 108/1995 (1785) Zakon o izmjeni Zakona o zaštiti vojnih i civilnih invalida rata"
   - "NN 82/2001 (1407) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
   - "NN 103/2003 (1367) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
   - "NN 148/2013 (3157) Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata"
+  - "NN 98/2019 (1969) Zakon o izmjenama Zakona o zaštiti vojnih i civilnih invalida rata"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2229"
 retrieved: 2026-10-12
 ---
@@ -25,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 86/1992 (https://narodne-novine.nn.hr/eli/sluzbeni/1992/86/2229).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/1994, NN 108/1995, NN 82/2001, NN 103/2003, NN 148/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 2/1994, NN 76/1994, NN 108/1995, NN 82/2001, NN 103/2003, NN 148/2013, NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1001,6 +1003,70 @@ Odredbe članka 2. Zakona o izmjenama i dopunama Zakona o zaštiti vojnih i civi
 
 # Izmjene, dopune i ispravci nakon izvornog teksta
 
+## Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata (NN 2/1994)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1994/2/15*
+
+ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA
+
+Proglašavam zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata, koji je donio Zastupnički dom Sabora Republike Hrvatske na sjednici dana 30. prosinca 1993. godine.
+
+Broj: PA4-4/1-93.
+
+Zagreb, 6. siječnja 1994.
+
+Predsjednik Republike Hrvatske
+
+dr. Franjo Tuđman, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA**
+
+### Članak 1.
+
+U Zakonu o zaštiti vojnih i civilnih invalida rata "Narodne novine" br. 33/92. 72/92. i 58/93., u članku 10. dodaje se točka 3. koja glasi: "3. u sastavu hrvatske domovinske vojske mobilizirane od 17. travnja 1941. do 15. svibnja 1945., odnosno u zarobljeništvu kao pripadnik hrvatske domovinske vojske u tom razdoblju."
+
+### Članak 2.
+
+U članku 56. stavku 1. riječi: "o načinu ostvarivanja i korištenja prava na besplatnu i povlaštenu vožnju i" brišu se.
+
+### Članak 3.
+
+Članak 71. mijenja se i glasi: "O pravima po ovom Zakonu glede zaštite boraca domovinskog rata, ratnih, mirnodopskih i civilnih invalida tog rata te članova njihovih obitelji i obitelji poginulih boraca domovinskog rata u prvom stupnju rješava nadležni ured za obranu, a u drugom stupnju Ministarstvo obrane. O pravima glede zaštite sudionika II. svjetskog rata, zaštiti vojnih invalida i civilnih invalida II. svjetskog rata, te članova njihovih obitelji u prvom stupnju rješava nadležni županijski ured odnosno gradski ured grada Zagreba, a u drugom stupnju Ministarstvo rada i socijalne skrbi. O pravima osoba iz stavka I. ovoga članka koje nemaju prebivalište na teritoriju Republike Hrvatske, u prvom stupnju rješava Ured za obranu Centar, a za osobe iz stavka 2. gradski ured Grada Zagreba, a u drugom stupnju nadležno ministarstvo."
+
+### Članak 4.
+
+U članku 87. stavku 1. riječi "nadležni općinski organ uprave po službenoj dužnosti. ukoliko ministar obrane, odnosno ministar rada i socijalne skrbi drukčije ne odredi" zamjenjuju se riječima: "nadležno tijelo državne uprave koje rješava u prvom stupnju. ako ministar obrane, odnosno ministar rada i socijalne skrbi drukčije ne odredi."
+
+### Članak 5.
+
+U članku 106. stavku I. riječi: "Nadležni općinski organ uprave" zamjenjuju se riječima "Nadležni županijski ured odnosno gradski ured grada Zagreba", a riječi: "do 31. prosinca 1993. godine" zamjenjuju se riječima: "do 30. lipnja 1994. godine."
+
+### Članak 6.
+
+U članku 15. stavku 2. Zakona o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata ("Narodne novine", br. 77/92." riječi: "Nadležni općinski organ uprave" zamjenjuju se riječima: "Nadležni županijski ured. odnosno gradski ured Grada Zagreba"
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u "Narodnim. novinama".
+
+Klasa: 562-01/93-01/02
+
+Zagreb. 30. prosinca 1993.
+
+ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE
+
+Predsjednik Zastupničkog doma Sabora
+
+Stjepan Mesić, v. r.
+
 ## Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata (NN 76/1994)
 
 *Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/1994/76/1302*
@@ -1927,3 +1993,55 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o zaštiti vojnih i civilnih invalida rata (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1969*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA
+
+Proglašavam Zakon o izmjenama Zakona o zaštiti vojnih i civilnih invalida rata, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/177
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZAŠTITI VOJNIH I CIVILNIH INVALIDA RATA**
+
+### Članak 1.
+
+U Zakonu o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 33/92., 57/92., 77/92., 27/93., 58/93., 2/94., 76/94., 108/95., 108/96., 82/01., 103/03. i 148/13.) u članku 48.a stavku 7. riječi: »Nadležni ured državne uprave u jedinici područne (regionalne) samouprave odnosno nadležno upravno tijelo Grada Zagreba« zamjenjuju se riječima: »Nadležno upravno tijelo u županiji odnosno Gradu Zagrebu«.
+
+### Članak 2.
+
+U članku 71. stavak 1. mijenja se i glasi:
+
+»Nadležno upravno tijelo u županiji odnosno Gradu Zagrebu obavlja poslove odlučivanja u prvom stupnju o pravima iz ovoga Zakona kao povjerene poslove državne uprave, a ministarstvo nadležno za branitelje u drugom stupnju ako ovim Zakonom nije drugačije određeno.«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/172
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

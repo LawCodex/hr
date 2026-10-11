@@ -6,15 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2013-04-17
-last_amended: 2016-10-27
+last_amended: 2020-11-27
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "46/13, 151/14, 10/16, 99/16"
+narodne_novine: "46/13, 151/14, 10/16, 99/16, 131/20"
 amendments:
   - "NN 151/2014 (2828) Uredba o izmjenama i dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja"
   - "NN 10/2016 (256) Uredba o izmjenama i dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja"
   - "NN 99/2016 (2087) Uredba o izmjenama Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja"
+  - "NN 131/2020 (2490) Uredba o dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/46/881"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 46/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/46/881).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 151/2014, NN 10/2016, NN 99/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 151/2014, NN 10/2016, NN 99/2016, NN 131/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -695,6 +696,39 @@ Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
 Klasa: 022-03/16-03/42  
 Urbroj: 50301-09/09-16-2  
 Zagreb, 27. listopada 2016.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja (NN 131/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/131/2490*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 47. stavka 2. Zakona o sigurnosno-obavještajnom sustavu Republike Hrvatske (»Narodne novine«, br. 79/06 i 105/06 – ispravak) i članka 43. Zakona o sigurnosnim provjerama (»Narodne novine«, br. 85/08 i 86/12), Vlada Republike Hrvatske je na sjednici održanoj 26. studenoga 2020. donijela
+
+**UREDBU**
+
+**O DOPUNI UREDBE O ODREĐIVANJU ŠTIĆENIH OSOBA, OBJEKATA I PROSTORA TE PROVOĐENJU NJIHOVE ZAŠTITE I OSIGURANJA**
+
+### Članak 1.
+
+U Uredbi o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja (»Narodne novine«, br. 46/13, 103/14 – Odluka Ustavnog suda Republike Hrvatske, 151/14, 10/16 i 99/16) u članku 15. stavku 2. iza podstavka 3. dodaje se novi podstavak 4. koji glasi:
+
+» – prostor u neposrednom okruženju sjedišta Hrvatskoga sabora i Vlade Republike Hrvatske, i to: 1,2 metra od vanjskog ruba objekta Hrvatskoga sabora sa sjeverne, istočne i južne strane; 1,2 metra od vanjskog ruba objekta Vlade Republike Hrvatske sa sjeverne i zapadne strane; prostor Trga sv. Marka između istočne strane objekta Vlade Republike Hrvatske, zapadne strane objekta Hrvatskoga sabora te sjevernog i južnog kolnika na Trgu sv. Marka; Freudenreichova ulica i dio južnog kolnika Trga sv. Marka od Freudenreichove ulice do Ćirilometodske ulice«.
+
+Dosadašnji podstavci 4. do 6. postaju podstavci 5. do 7.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/88
+
+Urbroj: 50301-29/09-20-2
+
+Zagreb, 26. studenoga 2020.
 
 Predsjednik  
 mr. sc. Andrej Plenković, v. r.

@@ -6,16 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-31
-last_amended: 2014-03-05
+last_amended: 2019-03-29
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "173/03, 67/08, 36/09, 130/11, 30/14"
+narodne_novine: "173/03, 67/08, 36/09, 130/11, 30/14, 32/19"
 amendments:
   - "NN 67/2008 (2228) Zakon o izmjenama i dopunama Zakona o elektroničkoj trgovini"
   - "NN 36/2009 (796) Zakon o izmjeni Zakona o elektroničkoj trgovini"
   - "NN 130/2011 (2611) Zakon o izmjenama i dopunama Zakona o elektroničkoj trgovini"
   - "NN 30/2014 (509) Zakon o izmjeni Zakona o elektroničkoj trgovini"
+  - "NN 32/2019 (646) Zakon o izmjeni Zakona o elektroničkoj trgovini"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2504"
 retrieved: 2026-10-12
 ---
@@ -24,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 173/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2504).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 67/2008, NN 36/2009, NN 130/2011, NN 30/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 67/2008, NN 36/2009, NN 130/2011, NN 30/2014, NN 32/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -742,3 +743,48 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o elektroničkoj trgovini (NN 32/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/32/646*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O ELEKTRONIČKOJ TRGOVINI
+
+Proglašavam Zakon o izmjeni Zakona o elektroničkoj trgovini, koji je Hrvatski sabor donio na sjednici 23. ožujka 2019.
+
+Klasa: 011-01/19-01/49  
+Urbroj: 71-06-01/1-19-2  
+Zagreb, 27. ožujka 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O ELEKTRONIČKOJ TRGOVINI**
+
+### Članak 1.
+
+U Zakonu o elektroničkoj trgovini (»Narodne novine«, br. 173/03., 67/08., 36/09., 130/11. i 30/14.) u članku 22. stavak 1. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavljaju tržišni inspektori središnjeg tijela državne uprave nadležnog za inspekcijske poslove u skladu s ovlastima određenim posebnim zakonom.«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/22  
+Zagreb, 23. ožujka 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

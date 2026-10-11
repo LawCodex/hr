@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-04-16
+last_amended: 2017-07-14
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "47/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "47/14, 69/17"
+amendments:
+  - "NN 69/2017 (1609) Zakon o izmjenama i dopuni Zakona o državnim potporama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/47/873"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o državnim potporama
 
 > Izvor: Narodne novine, NN 47/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/47/873).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 69/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -349,3 +353,115 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o državnim potporama (NN 69/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1609*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O DRŽAVNIM POTPORAMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o državnim potporama, koji je Hrvatski sabor donio na sjednici 30. lipnja 2017.
+
+Klasa: 011-01/17-01/44
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 5. srpnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O DRŽAVNIM POTPORAMA**
+
+### Članak 1.
+
+U Zakonu o državnim potporama (»Narodne novine«, br. 47/14.) iza članka 1. dodaje se članak 1.a i naslov iznad članka koji glase:
+
+*»Usklađenost s pravnim aktima Europske unije*
+
+### Članak 1.a
+
+Ovim Zakonom osiguravaju se pretpostavke za provedbu Uredbe Komisije (EU) br. 651/2014 od 17. lipnja 2014. o ocjenjivanju određenih kategorija potpora spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora (Tekst značajan za EGP) (SL L 187, 26. 6. 2014.).«.
+
+### Članak 2.
+
+U članku 4. podstavku 7. riječi: »i potpora male vrijednosti« brišu se.
+
+### Članak 3.
+
+Naslov iznad članka 12. mijenja se i glasi: »Objava programa državnih potpora i pojedinačnih državnih potpora«.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Mrežne stranice Ministarstva financija sadrže objedinjene podatke o programima državnih potpora i pojedinačnim državnim potporama.
+
+(2) Davatelj državne potpore objavljuje program državne potpore na svojim mrežnim stranicama prije dodjele državnih potpora temeljem programa državne potpore.
+
+(3) Sadržaj, oblik, rok i način dostave podataka o programima državnih potpora i pojedinačnim državnim potporama iz stavka 1. ovoga članka ministar financija uredit će pravilnikom.«.
+
+### Članak 4.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Davatelji državnih potpora i potpora male vrijednosti dužni su voditi evidenciju dodijeljenih državnih potpora i potpora male vrijednosti iz svoje nadležnosti, uključujući porezne mjere koje predstavljaju državne potpore odnosno potpore male vrijednosti. Ako davatelj dodjeljuje državne potpore i potpore male vrijednosti, evidenciju potpora male vrijednosti vodi zasebno od evidencije državnih potpora.
+
+(2) Davatelji državnih potpora i potpora male vrijednosti dostavljaju Ministarstvu financija podatke o dodijeljenim državnim potporama i potporama male vrijednosti.
+
+(3) Osim podataka iz stavka 2. ovoga članka, davatelji državnih potpora godišnje dostavljaju Ministarstvu financija analizu učinkovitosti dodijeljenih državnih potpora iz svoje nadležnosti.
+
+(4) Davatelji državnih potpora, odnosno potpora male vrijednosti dostavljaju podatke iz stavaka 2. i 3. ovoga članka i po potrebi na zahtjev Ministarstva financija u za to određenom roku.
+
+(5) Davatelji državnih potpora i potpora male vrijednosti odgovorni su za istinitost dostavljenih podataka iz stavaka 2., 3. i 4. ovoga članka.
+
+(6) Sadržaj, oblik, rok i način dostave podataka iz stavaka 2. i 3. ovoga članka ministar financija uredit će pravilnikom.«.
+
+### Članak 5.
+
+U članku 15. stavak 1. mijenja se i glasi:
+
+»(1) Ministarstvo financija vodi registar:
+
+– pojedinačnih državnih potpora i programa državnih potpora za koje postoji obveza prijave Europskoj komisiji iz članka 8. ovoga Zakona
+
+– pojedinačnih državnih potpora i programa državnih potpora izuzetih od obveze prijave Europskoj komisiji iz članka 9. ovoga Zakona
+
+– dodijeljenih državnih potpora i potpora male vrijednosti iz članka 14. ovoga Zakona te
+
+– ostalih podataka potrebnih za provedbu sustava državnih potpora.«.
+
+### Članak 6.
+
+Članak 19. mijenja se i glasi:
+
+»Pravilnik iz članka 8. stavka 13., članka 9. stavka 12., članka 12. stavka 3., članka 14. stavka 6. te članka 15. stavka 3. ovoga Zakona ministar financija donijet će do 1. srpnja 2017.«.
+
+### Članak 7.
+
+U članku 20. stavku 2. riječi: »stavka 1.« brišu se.
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/15
+
+Zagreb, 30. lipnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

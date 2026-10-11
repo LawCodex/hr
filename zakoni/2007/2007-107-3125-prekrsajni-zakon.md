@@ -6,15 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-10-19
-last_amended: 2015-10-13
+last_amended: 2026-08-07
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "107/07, 39/13, 157/13, 110/15"
+narodne_novine: "107/07, 39/13, 157/13, 110/15, 70/17, 118/18, 114/22, 86/26"
 amendments:
   - "NN 39/2013 (728) Zakon o izmjenama i dopunama Prekršajnog zakona"
   - "NN 157/2013 (3294) Zakon o izmjenama i dopunama Prekršajnog zakona"
   - "NN 110/2015 (2131) Zakon o izmjenama i dopunama Prekršajnog zakona"
+  - "NN 70/2017 (1663) Zakon o izmjenama i dopunama Prekršajnog zakona"
+  - "NN 118/2018 (2354) Zakon o izmjenama i dopunama Prekršajnog zakona"
+  - "NN 114/2022 (1715) Zakon o izmjenama Prekršajnog zakona"
+  - "NN 86/2026 (1073) Zakon o izmjenama i dopunama Prekršajnog zakona"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3125"
 retrieved: 2026-10-12
 ---
@@ -23,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 107/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3125).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 39/2013, NN 157/2013, NN 110/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 39/2013, NN 157/2013, NN 110/2015, NN 70/2017, NN 118/2018, NN 114/2022, NN 86/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3907,3 +3911,788 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Prekršajnog zakona (NN 70/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1663*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Prekršajnog zakona, koji je Hrvatski sabor donio na sjednici 7. srpnja 2017.
+
+Klasa: 011-01/17-01/58
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 13. srpnja 2017,
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA**
+
+### Članak 1.
+
+U Prekršajnom zakonu (»Narodne novine«, br. 107/07., 39/13., 157/13. i 110/15.) u članku 33. stavku 7. riječi: »rada i zapošljavanja na crno« zamjenjuju se riječima: »neregistriranog rada i zapošljavanja«.
+
+Stavak 9. mijenja se i glasi:
+
+»(9) Uz naznaku posebnog minimuma i maksimuma postotka novčane kazne, propisom o prekršaju može se za najteže prekršaje iz stavka 7. ovoga članka propisati i izreći novčana kazna u postotku od 1 % do 10 % prema povrijeđenoj zaštićenoj vrijednosti ili u postotku od 1 % do 10 % ukupnog prihoda počinitelja prekršaja ostvarenog u godini počinjenja prekršaja, a koji je utvrđen službenim financijskim izvješćima za tu godinu, a ako izvješća za tu godinu nema, uzet će se posljednje dostupno službeno godišnje financijsko izvješće. U tim slučajevima ne vrijede ograničenja o maksimumu novčane kazne iz stavaka 1. – 8. ovoga članka, ni prigodom utvrđivanja kazne ni prigodom izricanja ukupne novčane kazne.«.
+
+Iza stavka 9. dodaje se novi stavak 10. koji glasi:
+
+»(10) Za prekršaje za koje je pravno obvezujućim aktom Europske unije određen raspon novčane kazne ili opći minimum ili opći maksimum novčane kazne ili način izračuna novčane kazne, zakonom se za počinitelja prekršaja može propisati i izreći novčana kazna u iznosu za koji ne vrijede ograničenja iz stavaka 1. – 9. ovoga članka.«.
+
+Dosadašnji stavci 10. i 11. postaju stavci 11. i 12.
+
+### Članak 2.
+
+Članak 33.a briše se.
+
+### Članak 3.
+
+U članku 37. stavku 3. točki 3. riječi: »i člankom 33.a« brišu se.
+
+### Članak 4.
+
+U članku 54. stavak 7. mijenja se i glasi:
+
+»(7) Iznimno, okrivljeniku odgovornoj osobi u pravnoj osobi za prekršaj iz članka 33. stavka 10. ovoga Zakona sud može izreći trajno zaštitnu mjeru iz stavka 1. ovoga članka.«.
+
+### Članak 5.
+
+U članku 55. stavak 5. mijenja se i glasi:
+
+»(5) Iznimno, okrivljenoj pravnoj osobi za prekršaj iz članka 33. stavka 10. ovoga Zakona sud može izreći trajno zaštitnu mjeru iz stavka 1. ovoga članka.«.
+
+### Članak 6.
+
+U članku 184. stavku 5. iza riječi: »tužitelj« dodaju se riječi: »za prekršaj iz članka 33. stavka 10. ovoga Zakona i ovlašteni tužitelj«.
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/51
+
+Zagreb, 7. srpnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Prekršajnog zakona (NN 118/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/118/2354*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Prekršajnog zakona, koji je Hrvatski sabor donio na sjednici 14. prosinca 2018.
+
+Klasa: 011-01/18-01/238
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA**
+
+#### Članak 1.
+
+U Prekršajnom zakonu (»Narodne novine«, br. 107/07., 39/13., 157/13. 110/15. i 70/17.) u članku 33. stavku 7. iza riječi: »a za prekršaj u području« dodaju se riječi: »poreza, carine i financija te«.
+
+#### Članak 2.
+
+U članku 58. stavak 2. mijenja se i glasi:
+
+»(2) Mjera iz stavka 1. ovoga članka počinje teći od izvršnosti presude.«.
+
+#### Članak 3.
+
+U članku 82. stavku 1. riječ: »prekršajnim« zamjenjuje se riječju: »općinskim«.
+
+U stavku 3. iza riječi: »Zakona o kaznenom postupku« dodaju se riječi: »i Zakona o sudovima za mladež«.
+
+#### Članak 4.
+
+U članku 92. riječi: »prekršajni sud« zamjenjuju se riječima: »općinski sud«.
+
+#### Članak 5.
+
+U članku 93. stavku 1. riječi: »prekršajni sudovi« zamjenjuju se riječima: »općinski sudovi«.
+
+#### Članak 6.
+
+Naslov iznad članka 94. mijenja se i glasi: »Nadležnost općinskih sudova u prekršajnim predmetima«.
+
+Članak 94. mijenja se i glasi:
+
+»(1) Općinski sudovi kada rješavaju prekršajne predmete nadležni su:
+
+1. suditi u prvom stupnju za sve prekršaje, osim za one za koje je zakonom propisana nadležnost tijela državne uprave,
+
+2. odlučivati o prigovorima protiv obaveznih prekršajnih naloga svih ovlaštenih izdavatelja,
+
+3. odlučivati o zahtjevu za obnovu prekršajnog postupka:
+
+a) u predmetima u kojima su sudili,
+
+b) protiv pravomoćnih prekršajnih naloga ovlaštenih tužitelja ako je riječ o prekršajima iz stvarne nadležnosti suda te
+
+c) protiv svih pravomoćnih obaveznih prekršajnih naloga,
+
+4. pružati pravnu pomoć prema odredbama međunarodnih ugovora i ovoga Zakona,
+
+5. obavljati i druge poslove propisane zakonom.
+
+(2) Općinski prekršajni sud u Zagrebu je isključivo mjesno nadležan za suđenje u postupcima koje kod suda pokreće ovlašteni tužitelj pravna osoba s javnim ovlastima kojoj je posebnim zakonom utvrđen status neovisnog regulatora.«.
+
+#### Članak 7.
+
+Članak 95. mijenja se i glasi:
+
+»Visoki prekršajni sud Republike Hrvatske nadležan je:
+
+1. odlučivati u drugom stupnju o redovnim pravnim lijekovima protiv odluka općinskih sudova u prekršajnim predmetima, odluka tijela državne uprave koja vode prekršajni postupak, odluka ovlaštenih tužitelja i drugih odluka kada je to propisano zakonom,
+
+2. odlučivati o prigovorima protiv prekršajnih naloga svih ovlaštenih izdavatelja kada je prigovor podnesen zbog odluke o prekršajnopravnoj sankciji, troškovima postupka, oduzimanja imovinske koristi ili oduzimanja predmeta,
+
+3. odlučivati o izvanrednim pravnim lijekovima u slučajevima propisanim ovim Zakonom,
+
+4. odlučivati o sukobu nadležnosti između općinskih sudova u prekršajnim predmetima,
+
+5. odlučivati o žalbama u predmetima međunarodne pravosudne suradnje s državama članicama Europske unije iz prekršajne nadležnosti,
+
+6. obavljati druge poslove propisane zakonom.«.
+
+#### Članak 8.
+
+Članak 97. mijenja se i glasi:
+
+»(1) U općinskom sudu, kada rješava prekršajne predmete, odluke donosi sudac pojedinac, ako drukčije nije propisano ovim Zakonom.
+
+(2) Visoki prekršajni sud Republike Hrvatske odluke donosi u vijeću od tri suca, ako drukčije nije propisano zakonom.«.
+
+#### Članak 9.
+
+U članku 98. stavak 2. mijenja se i glasi:
+
+»(2) Zakonom se može odrediti općinski sud koji će odlučivati u određenoj vrsti prekršaja iz nadležnosti općinskih sudova s područja više općinskih sudova ili na području Republike Hrvatske.«.
+
+U stavku 9. riječ: »prekršajnih« zamjenjuje se riječju: »općinskih«.
+
+#### Članak 10.
+
+U članku 101. stavku 3. riječi: »prekršajnog suda« zamjenjuju se riječima: »općinskog suda koji rješava prekršajne predmete«.
+
+#### Članak 11.
+
+U članku 103. stavku 3. riječi: »prekršajnih sudova« zamjenjuju se riječima: »općinskih sudova, kada rješavaju prekršajne predmete,«.
+
+#### Članak 12.
+
+U članku 106. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) O zahtjevu za izuzeće iz članka 105. ovoga Zakona odlučuje predsjednik općinskog suda. Ako se istim zahtjevom traži izuzeće suca i predsjednika suda, o izuzeću suca odlučuje zamjenik predsjednika suda, a o izuzeću predsjednika suda, ako se zahtjev odnosi na prekršajni predmet, odlučuje predsjednik Visokog prekršajnog suda Republike Hrvatske.
+
+(2) Ako se traži izuzeće predsjednika Visokog prekršajnog suda Republike Hrvatske, odluka o izuzeću donosi se na sjednici svih sudaca toga suda na kojoj pri donošenju odluke o izuzeću ne može sudjelovati predsjednik suda.«.
+
+U stavku 5. riječ: »prekršajnog« zamjenjuje se riječju: »općinskog«.
+
+#### Članak 13.
+
+U članku 125. stavak 2. mijenja se i glasi:
+
+»(2) O molbi za povrat u prijašnje stanje odlučuje Visoki prekršajni sud Republike Hrvatske.«.
+
+U stavku 3. riječi: »nadležni će sud« zamjenjuju se riječima: »Visoki prekršajni sud Republike Hrvatske će«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Nakon donošenja rješenja iz stavka 3. ovoga članka Visoki prekršajni sud Republike Hrvatske će, osim u slučaju iz stavka 3. točke 4. ovoga članka, rješenjem odlučiti o pravodobnosti žalbe.«.
+
+U stavku 6. riječi: »nadležni će sud« zamjenjuju se riječima: »Visoki prekršajni sud Republike Hrvatske će«.
+
+#### Članak 14.
+
+U članku 138. stavku 2. točka 3. mijenja se i glasi:
+
+»3. paušalni iznos troškova prekršajnog postupka:
+
+a) tijela postupka kada vode postupak,
+
+b) općinskog suda kada odlučuje o prigovoru na obavezni prekršajni nalog (članak 244. stavak 2. ovoga Zakona),
+
+c) Visokog prekršajnog suda Republike Hrvatske kada je donio odluku kojom je pravomoćno utvrđena prekršajna odgovornost okrivljenika, ako je odlučivao o redovnom pravnom lijeku tužitelja i okrivljenika ili samo okrivljenika«.
+
+#### Članak 15.
+
+Članak 140. mijenja se i glasi:
+
+»(1) U odluci kojom se okrivljenik oslobađa od optužbe ili kojom se optužba odbija ili kojom se postupak obustavlja odlučit će se i o troškovima postupka.
+
+(2) U slučaju iz stavka 1. ovoga članka izreći će se u presudi da troškovi prekršajnog postupka iz članka 138. stavka 2. točaka 2. do 5. i točke 7. ovoga Zakona padaju na teret proračunskih sredstava suda, osim ako ovim Zakonom nije drukčije određeno.
+
+(3) Odredbe ovoga Zakona o troškovima postupka na jednak se način primjenjuju na sve ovlaštene tužitelje.
+
+(4) Ako se postupak vodi i dovrši na zahtjev oštećenika tužitelja, obvezat će ga se da podmiri troškove postupka iz članka 138. stavka 2. točaka 2. do 5. ovoga Zakona te nužne izdatke i nagradu branitelja okrivljenika, ako je svjesno podnio lažan optužni prijedlog.
+
+(5) Osobe koje imaju pravo na trošak u postupku dužne su postaviti zahtjev za ostvarenje troškova odmah. Sud će te osobe upozoriti da imaju pravo na trošak. Iznimno, ako te osobe nemaju sve podatke potrebne za izračun troška, sud može odobriti da zahtjev postave u roku koji odredi sud, a najdulje u roku od tri mjeseca.
+
+(6) Osobe koje zahtjev za isplatu troškova ne postave u roku iz stavka 5. ovoga članka gube pravo na ostvarenje tih troškova.
+
+(7) Okrivljenik koji je pravo na troškove stekao nakon donošenja odluke o prekršaju može to pravo ostvariti ako zahtjev za naknadu troškova podnese u roku od tri mjeseca od dana kada mu je uručena pravomoćna odluka o prekršaju.
+
+(8) Ako sud nije dijelom ili u cijelosti odlučio o troškovima postupka u odluci o prekršaju, učinit će to posebnim rješenjem.
+
+(9) Ako ovim Zakonom nisu obuhvaćena sva pitanja troškova prekršajnog postupka, na odgovarajući će se način, kad to bude primjereno svrsi prekršajnog postupka, primijeniti odredbe Zakona o kaznenom postupku.«.
+
+#### Članak 16.
+
+U članku 152. stavku 7. riječi: »obavijest tijela nadležnog za ovrhu« zamjenjuju se riječima: »odgovarajućim podatkom u smislu stavka 5. ovoga članka«.
+
+U stavku 11. na kraju rečenice umjesto točke stavlja se zarez i dodaju riječi: »osim kada je to tijelo postupka Carinska uprava.«.
+
+U stavku 12. riječ: »prekršajni« zamjenjuje se riječju: »općinski«.
+
+#### Članak 17.
+
+U članku 152.a stavku 1. riječ: »prekršajnog« zamjenjuje se riječju: »općinskog«.
+
+#### Članak 18.
+
+U članku 152.e stavak 5. mijenja se i glasi:
+
+»(5) Protiv rješenja kojim se odbija molba za odgodu ili prekid izvršavanja rada za opće dobro osuđenik može u roku od tri dana od primitka rješenja podnijeti žalbu Visokom prekršajnom sudu Republike Hrvatske.«.
+
+#### Članak 19.
+
+U članku 153. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Podaci iz prekršajne evidencije su neklasificirani podaci u smislu posebnog zakona i smiju se koristiti samo u službene svrhe, a u odnosu na te podatke ne može se ostvariti pravo na pristup informaciji prema zakonu kojim se određuje to pravo.«.
+
+#### Članak 20.
+
+U članku 160. stavku 2. točki 9. iza riječi: »Zakona« dodaju se riječi: »potpisanu od strane počinitelja ili kopiju te obavijesti uz dokaz o dostavi ili potvrdu o obavljenoj dostavi kad je ta obavijest dostavljena sukladno članku 145. ili 148. ovoga Zakona«.
+
+#### Članak 21.
+
+U članku 161. stavku 4. iza riječi: »članka 109.a ovoga Zakona« dodaju se riječi: »potpisana od strane počinitelja ili kopija te obavijesti uz dokaz o dostavi ili potvrdu o obavljenoj dostavi ako je ta obavijest dostavljena sukladno članku 145. ili 148. ovoga Zakona«.
+
+#### Članak 22.
+
+U članku 189. stavku 6. riječi: »prekršajnog suda« zamjenjuju se riječima: »općinskog suda«.
+
+U stavku 7. riječ: »prekršajnog« zamjenjuje se riječju: »općinskog«.
+
+#### Članak 23.
+
+U članku 191. stavak 4. briše se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 24.
+
+U članku 202. stavak 1. mijenja se i glasi:
+
+»(1) Drugostupanjski sud ispituje presudu u onom dijelu u kojem se pobija žalbom, i to iz osnova i razloga koje žalitelj navodi u žalbi. Po službenoj dužnosti drugostupanjski sud mora uvijek ispitati jesu li počinjene bitne povrede odredaba prekršajnog postupka iz članka 195. stavka 1. točaka 6., 7., 9. i 10. ovoga Zakona, jesu li presudom na štetu okrivljenika povrijeđene odredbe prekršajnog materijalnog prava i je li u postupku nastupila zastara prekršajnog progona.«.
+
+U stavku 5. iza riječi: »imovinske koristi« dodaju se riječi: »i oduzimanju predmeta«.
+
+U stavku 6. iza riječi: »takva žalba postoji« zarez i riječi: »osim ako se protiv žalitelja presudom odbija optužba zbog nastupanja zastare prekršajnog progona« brišu se.
+
+#### Članak 25.
+
+U članku 206. stavku 1. riječi: »stavka 1.« brišu se.
+
+#### Članak 26.
+
+U članku 215. stavku 3. riječ: »prekršajnom« zamjenjuje se riječju: »općinskom«.
+
+#### Članak 27.
+
+U članku 218. stavak 1. mijenja se i glasi:
+
+»(1) Zahtjev za izvanredno ublažavanje kazne podnosi se tijelu koje je donijelo u prvom stupnju odluku o prekršaju.«.
+
+#### Članak 28.
+
+U članku 221. stavku 2. riječ: »prekršajni« zamjenjuje se riječju: »općinski«.
+
+#### Članak 29.
+
+U članku 238. stavku 8. riječi: »nadležni sud« zamjenjuju se riječima: »Visoki prekršajni sud Republike Hrvatske«.
+
+U točki 4. zadnja rečenica mijenja se i glasi: »Ako se, u ovom slučaju, radi o prigovoru iz članka 237. stavka 1. točke 2. ovoga Zakona, postupit će se prema stavku 11. ovoga članka.«.
+
+U stavku 11. riječi: »nadležnom prekršajnom sudu iz članka 94. stavka 2. ovoga Zakona« zamjenjuju se riječima: »Visokom prekršajnom sudu Republike Hrvatske«.
+
+#### Članak 30.
+
+U članku 243. stavku 1. riječ: »prekršajnom« zamjenjuje se riječju: »općinskom«.
+
+#### Članak 31.
+
+U članku 245. stavku 7. riječ: »prekršajnom« briše se, a iza riječi: »sucu« dodaju se riječi: »općinskog suda«.
+
+U drugoj rečenici riječi: »Prekršajni će sudac« zamjenjuju se riječima: »Sudac općinskog suda će«.
+
+#### Članak 32.
+
+U članku 249. briše se oznaka stavka koja glasi: »(1)«.
+
+Stavak 2. briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 33.
+
+Predmete za koje je, na temelju ovoga Zakona, stvarno nadležan Visoki prekršajni sud Republike Hrvatske općinski sudovi dostavit će tom sudu najkasnije u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 34.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/109
+
+Zagreb, 14. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Prekršajnog zakona (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1715*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA PREKRŠAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama Prekršajnog zakona, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/113
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA PREKRŠAJNOG ZAKONA**
+
+### Članak 1.
+
+U Prekršajnom zakonu (»Narodne novine, br. 107/07., 39/13., 157/13., 110/15., 70/17. i 118/18.) u članku 33. stavku 1. riječi: »2000,00 kuna« zamjenjuju se riječima: »260,00 eura«, a riječi: »1.000.000,00 kuna.« zamjenjuju se riječima: »132.720,00 eura.«.
+
+U stavku 2. riječi: »1000,00 kuna« zamjenjuju se riječima: »130,00 eura«, a riječi: »500.000,00 kuna.« zamjenjuju se riječima: »66.360,00 eura.«.
+
+U stavku 3. riječi: »100,00 kuna« zamjenjuju se riječima: »10,00 eura«, a riječi: »50.000,00 kuna.« zamjenjuju se riječima: »6630,00 eura.«.
+
+U stavku 4. riječi: »500,00 kuna« zamjenjuju se riječima: »60,00 eura«, a riječi: »10.000,00 kuna.« zamjenjuju se riječima: »1320,00 eura.«.
+
+U stavku 5. riječi: »300,00 kuna« zamjenjuju se riječima: »30,00 eura«, a riječi: »5.000,00 kuna.« zamjenjuju se riječima: »660,00 eura.«.
+
+U stavku 6. riječi: »100,00 kuna« zamjenjuju se riječima: »10,00 eura«, a riječi: »2.000,00 kuna.« zamjenjuju se riječima: »260,00 eura.«.
+
+U stavku 7. riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »132.720,00 eura«.
+
+### Članak 2.
+
+U članku 34. stavku 2. riječi: »2.000,00 kuna« zamjenjuju se riječima: »265,45 eura«.
+
+U stavku 4. riječi: »2.000,00 kuna« zamjenjuju se riječima: »265,45 eura«.
+
+U stavku 6. riječi: »tristo kuna« zamjenjuju se riječima: »39,82 eura«.
+
+### Članak 3.
+
+U članku 37. stavku 3. točka 1. mijenja se i glasi:
+
+»1. ako je za prekršaj propisana novčana kazna do 5308,91 eura ili u točno određenom iznosu do 5308,91 eura ili u minimumu do 1327,23 eura, kazna se može ublažiti do općeg zakonskog minimuma kazne propisanog ovim Zakonom, za odgovarajuću vrstu okrivljenika (članak 33. ovoga Zakona),«.
+
+U točki 2. riječi: »10.000,00 kuna« zamjenjuju se riječima: »1327,23 eura«, a riječi: »40.000,00 kuna« zamjenjuju se riječima: »5308,91 eura«.
+
+### Članak 4.
+
+U članku 40. stavku 2. riječi: »tristo kuna« zamjenjuju se riječima: »39,82 eura«.
+
+### Članak 5.
+
+U članku 43. stavku 1. riječi: »5.000,00 kuna« zamjenjuju se riječima: »663,61 eura«.
+
+### Članak 6.
+
+U članku 118. stavku 1. riječi: »5.000,00 kuna« zamjenjuju se riječima: »660,00 eura«.
+
+### Članak 7.
+
+U članku 132. stavku 5. riječi: »10.000,00 kuna« zamjenjuju se riječima: »1320,00 eura«.
+
+U stavku 6. riječi: »10.000,00 kuna.« zamjenjuju se riječima: »1320,00 eura.«.
+
+U stavku 7. riječi: »20.000 kuna.« zamjenjuju se riječima: »2650,00 eura.«.
+
+### Članak 8.
+
+U članku 135. stavku 1. riječi: »10.000 kuna« zamjenjuju se riječima: »1327,23 eura«.
+
+### Članak 9.
+
+U članku 152. stavku 5. riječi: »2.000,00 kuna« zamjenjuju se riječima: »265,45 eura«.
+
+U stavku 10. riječi: »2.000,00 kuna« zamjenjuju se riječima: »265,45 eura«.
+
+### Članak 10.
+
+U članku 159. stavku 6. riječi: »5.000,00 kuna.« zamjenjuju se riječima: »660,00 eura.«.
+
+### Članak 11.
+
+U članku 166. stavku 1. riječi: »5.000,00 kuna.« zamjenjuju se riječima: »660,00 eura.«.
+
+U stavku 2. riječi: »5.000,00 kuna« zamjenjuju se riječima: »660,00 eura«, a riječi: »10.0000,00 kuna.« zamjenjuju se riječima: »1320,00 eura.«.
+
+### Članak 12.
+
+U članku 217. stavku 1. riječi: »deset tisuća kuna« zamjenjuju se riječima: »1327,23 eura«, riječi: »trideset tisuća kuna« zamjenjuju se riječima: »3981,68 eura«, a riječi: »pedeset tisuća kuna« zamjenjuju se riječima: »6636,14 eura«.
+
+### Članak 13.
+
+U članku 221. stavku 1. točka 1. mijenja se i glasi:
+
+»1. za prekršaje za koje je kao jedina kazna propisana novčana kazna do 1327,23 eura za fizičku osobu, novčana kazna do 3981,68 eura za pravnu osobu i do 1327,23 eura za odgovornu osobu u pravnoj osobi.«.
+
+### Članak 14.
+
+U članku 239. stavku 1. točka 2. mijenja se i glasi:
+
+»2. prekršaj propisan zakonom za koji je kao kazna propisana samo novčana kazna do 663,61 eura za fizičku osobu, do 1327,23 eura za počinitelja prekršaja fizičku osobu obrtnika i osobu koja obavlja drugu samostalnu djelatnost, do 1990,84 eura za pravnu osobu i do 663,61 eura za odgovornu osobu u pravnoj osobi. Kod prekršaja pravne osobe i u njoj odgovorne osobe obvezni prekršajni nalog izdat će se kada je uvjet iz ove točke ostvaren u odnosu na počinitelja pravnu osobu.«.
+
+U stavku 4. riječi: »200,00 kuna« zamjenjuju se riječima: »26,54 eura«, a riječi: »2.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »265,45 do 663,61 eura«.
+
+### Članak 15.
+
+U članku 245. stavku 1. riječi: »2.000,00 kuna« zamjenjuju se riječima: »265,45 eura«, riječi: »5.000,00 kuna« zamjenjuju se riječima: »663,61 eura«, a riječi: »15.000,00 kuna« zamjenjuju se riječima: »1990,84 eura«.
+
+U stavku 8. riječi: »1.000,00 kuna« zamjenjuju se riječima: »132,72 eura«.
+
+### Članak 16.
+
+U članku 248. stavku 1. riječi: »dvije tisuće kuna« zamjenjuju se riječima: »265,45 eura«.
+
+### Članak 17.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/113
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Prekršajnog zakona (NN 86/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/86/1073*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Prekršajnog zakona, koji je Hrvatski sabor donio na sjednici 15. srpnja 2026.
+
+Klasa: 011-02/26-02/70  
+Urbroj: 71-10-01/1-26-2  
+Zagreb, 21. srpnja 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA PREKRŠAJNOG ZAKONA**
+
+#### Članak 1.
+
+U Prekršajnom zakonu (»Narodne novine«, br. 107/07., 39/13., 157/13., 110/15., 70/17., 118/18. i 114/22.) iza članka 109.a dodaje se članak 109.aa koji glasi:
+
+»Članak 109.aa
+
+(1) Ovlašteni tužitelji iz članka 109. stavka 1. točaka 1. – 3. ovoga Zakona pisanu obavijest iz članka 109.a stavka 1. ovoga Zakona mogu dostaviti počinitelju prekršaja pravnoj osobi u korisnički pretinac informacijskog sustava povezanog na državnu informacijsku infrastrukturu.
+
+(2) Dostava u korisnički pretinac informacijskog sustava povezanog na državnu informacijsku infrastrukturu smatra se obavljenom potvrdom primitka pisane obavijesti iz stavka 1. ovoga članka, a najkasnije istekom osmoga dana od dana kad je pisana obavijest zabilježena na poslužitelju za primanje poruka.
+
+(3) Dostava iz stavka 1. ovoga članka smatra se osobnom dostavom.«.
+
+#### Članak 2.
+
+Naslov iznad članka 117.a mijenja se i glasi: »Podnesci u elektroničkom obliku«.
+
+Članak 117.a mijenja se i glasi:
+
+»(1) Podnesci se sudu mogu podnijeti u elektroničkom obliku putem informacijskog sustava. Ako je podnesak podnesen putem informacijskog sustava, na isti način podnose se i prilozi koji postoje u elektroničkom obliku.
+
+(2) Iznimno od stavka 1. ovoga članka, državna tijela, jedinice lokalne i područne (regionalne) samouprave, državno odvjetništvo, pravne osobe, odvjetnici, sudski vještaci i sudski tumači dužni su podneske i njihove priloge koji postoje u elektroničkom obliku sudu podnositi putem informacijskog sustava.
+
+(3) Podnesak u elektroničkom obliku mora biti potpisan kvalificiranim elektroničkim potpisom u skladu s posebnim propisima. Podnesak u elektroničkom obliku potpisan kvalificiranim elektroničkim potpisom smatrat će se vlastoručno potpisanim.
+
+(4) Trenutak kada je informacijski sustav podnositelju potvrdio primitak podneska smatra se trenutkom predaje podneska sudu.
+
+(5) Ako podnesak podnesen u elektroničkom obliku nije prikladan za obradu, sud će o tome obavijestiti podnositelja i naložiti mu da podnesak podnese u odgovarajućem obliku.
+
+(6) Ministarstvo nadležno za pravosuđe uspostavlja siguran informacijski sustav sukladan odredbama ovoga Zakona i drugih propisa kojima se regulira zaštita osobnih podataka.
+
+(7) Ministar nadležan za pravosuđe donijet će pravilnik kojim se uređuju pretpostavke za podnošenje podnesaka i dostavu u elektroničkom obliku, oblike zapisa podnesaka u elektroničkom obliku te organizaciju i djelovanje informacijskog sustava.«.
+
+#### Članak 3.
+
+Iza članka 117.a dodaje se članak 117.b koji glasi:
+
+»Članak 117.b
+
+(1) Osobe koje nisu obvezne postupati po članku 117.a stavku 2. ovoga Zakona mogu tijelu koje vodi postupak podneske podnositi elektroničkim putem u skladu s posebnim propisima.
+
+(2) Osobe koje su obvezne postupati po članku 117.a stavku 2. ovoga Zakona mogu tijelu državne uprave koje vodi postupak podnesak podnijeti na način propisan stavkom 1. ovoga članka, a iznimno sudu kada zbog opravdanih razloga ne mogu podnijeti podnesak putem informacijskog sustava.
+
+(3) Podnesak iz stavka 1. ovoga članka smatra se zaprimljenim u elektroničkoj pošti ili drugom odgovarajućem telekomunikacijskom uređaju tijela koje vodi postupak trenutkom potvrde njegova primitka. Tijelo koje vodi postupak osigurava uredno djelovanje automatiziranog sustava potvrde primitka. Ako pošiljatelj ne zaprimi potvrdu primitka, obavijestit će o tome primatelja, pa ako u roku koji je odredio ne primi tu potvrdu, smatrat će se da podnesak nije podnesen.
+
+(4) O podnesku iz stavka 1. ovoga članka tijelo koje vodi postupak sastavlja službenu zabilješku.
+
+(5) Ako podnesak iz stavka 1. ovoga članka nije prikladan za obradu, tijelo koje vodi postupak će o tome obavijestiti podnositelja i naložiti mu da podnesak podnese u odgovarajućem obliku.
+
+(6) U ocjeni pitanja pravne valjanosti, uporabe, prometa, čuvanja i tajnosti podnesaka koji su podneseni elektroničkim putem odgovarajuće se primjenjuju odredbe posebnih propisa.
+
+(7) Pismena koja se sastavljaju u vezi s prekršajnim postupkom mogu se sastavljati, popunjavati, voditi, ispisivati i arhivirati u elektroničkom obliku. Ako se takvo pismeno potpisuje, može se potpisivati na elektroničkom uređaju, u skladu s tehničkim mogućnostima uređaja.«.
+
+#### Članak 4.
+
+U članku 122. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Kada je izjava dana putem informacijskog sustava u skladu s člankom 117.a ovoga Zakona, trenutak kada je informacijski sustav podnositelju potvrdio primitak podneska smatra se trenutkom predaje podneska sudu. Smatra se da pošiljatelj podneska koji je postupio u roku nije propustio rok ako sustav nije potvrdio primitak ili podnositelj nije primio izjavu suda o primitku podneska zbog pogrešnog rada informacijskog sustava, a za koji pošiljatelj nije znao.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., prva rečenica mijenja se i glasi:
+
+»Kad je izjava predana poštom preporučenom pošiljkom, brzojavom ili drugim telekomunikacijskim sredstvom, dan predaje pošti ili drugoj ovlaštenoj organizaciji odnosno dan slanja telekomunikacijskim sredstvom sukladno odredbi članka 117.b stavka 3. ovoga Zakona smatra se danom predaje onomu komu je dostavljena.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 5.
+
+U članku 145. stavku 1. točki 3. riječ: »ili« briše se.
+
+Iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. putem informacijskog sustava ili«.
+
+Dosadašnja točka 4. postaje točka 5.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Dostava se obavlja:
+
+1. tužitelju na adresu koju je naznačio u optužnom prijedlogu odnosno na adresu koju je prijavio tijelu koje vodi postupak,
+
+2. okrivljeniku fizičkoj osobi na adresu njegova stanovanja ili drugu adresu koju je prijavio tijelu koje vodi postupak, radnom mjestu ili na bilo koje drugo mjesto gdje je vjerojatno da će se zateći,
+
+3. okrivljeniku fizičkoj osobi obrtniku i okrivljeniku koji se bavi drugom samostalnom djelatnošću na adresu sjedišta obrta ili samostalne djelatnosti, na adresu stanovanja ili na drugu adresu koju je prijavio tijelu koje vodi postupak ili na bilo koje drugo mjesto gdje je vjerojatno da će se zateći,
+
+4. okrivljeniku pravnoj osobi i drugom subjektu koji je s njom izjednačen na adresu sjedišta odnosno na adresu koju je prijavila tijelu koje vodi postupak ili na bilo koje drugo mjesto gdje je vjerojatno da će se zateći osoba koja je za nju ovlaštena primiti dopis,
+
+5. sudionicima prekršajnog postupka iz članka 108. stavka 2. točaka 2. do 4. ovoga Zakona, osim opunomoćenika, na adresu sjedišta djelatnosti, adresu stanovanja, adresu naznačenu u punomoći odnosno na adresu koju su prijavili tijelu koje vodi postupak ili na bilo koje drugo mjesto gdje je vjerojatno da će se zateći,
+
+6. branitelju okrivljenika i opunomoćeniku na adresu sjedišta djelatnosti, adresu naznačenu u punomoći odnosno na adresu koju je prijavio tijelu koje vodi postupak.«.
+
+#### Članak 6.
+
+Iza članka 147. dodaju se naslov iznad članaka i članci 147.a i 147.b koji glase:
+
+*»Dostava sudskih pismena putem informacijskog sustava*
+
+#### Članak 147.a
+
+(1) Državnom tijelu, jedinici lokalne i područne (regionalne) samouprave, državnom odvjetništvu, pravnim osobama, odvjetnicima, sudskim vještacima i sudskim tumačima sudske odluke i dopisi dostavljaju se putem informacijskog sustava, osim u slučaju iz članka 149. stavka 6. ovoga Zakona.
+
+(2) Strankama i sudionicima postupka koji nisu obveznici elektroničke dostave iz stavka 1. ovoga članka dostava sudskih odluka i dopisa obavit će se putem informacijskog sustava ako stranka ili drugi sudionik postupka izjavi da je suglasan s takvim načinom dostave. Izjavu stranka ili drugi sudionik postupka daje pisano ili usmeno na zapisnik te je može povući u svakom trenutku tijekom postupka.
+
+(3) Ako stranka ili drugi sudionik postupka sudu podnese podnesak putem informacijskog sustava, sud će pozvati stranku ili drugog sudionika da se očituje pisano ili usmeno na zapisnik je li suglasan da mu se dostava obavlja putem informacijskog sustava.
+
+(4) Ako dostava putem informacijskog sustava nije moguća ili ako okolnosti slučaja to opravdavaju, sud će dostavu obaviti na drugi način.
+
+#### Članak 147.b
+
+(1) Dostava putem informacijskog sustava obavlja se slanjem sudske odluke ili dopisa u sigurni elektronički poštanski pretinac primatelja.
+
+(2) Informacijski sustav istodobno sa slanjem odluke ili dopisa iz stavka 1. ovoga članka šalje primatelju na adresu elektroničke pošte i informativnu poruku u kojoj ga obavještava o dostavi. U poruci se primatelja upozorava na pravnu posljedicu iz stavka 4. ovoga članka.
+
+(3) Odluku ili dopis iz stavka 1. ovoga članka primatelj može preuzeti u roku od osam dana otkad su odluka ili dopis pristigli u njegov sigurni elektronički poštanski pretinac te elektronički potvrditi njihov primitak.
+
+(4) Ako primatelj u roku iz stavka 3. ovoga članka ne potvrdi primitak odluke ili dopisa, smatrat će se da su sudska odluka ili dopis dostavljeni istekom osmoga dana od dana kada su zaprimljeni u sigurni elektronički poštanski pretinac primatelja.
+
+(5) Na način određen u ovom članku putem informacijskog sustava mogu se dostaviti i sudske odluke i dopisi koji imaju izvornike u fizičkom obliku ako je elektronički (skenirani) prijepis koji je izrađen na temelju izvornika u fizičkom obliku ovjeren kvalificiranim elektroničkim pečatom suda.
+
+(6) Dostava obavljena putem informacijskog sustava smatra se neposrednom dostavom.«.
+
+#### Članak 7.
+
+U članku 149. stavku 6. riječi: »sredstvom za komuniciranje na daljinu« zamjenjuju se riječima: »telekomunikacijskim sredstvom«.
+
+#### Članak 8.
+
+U članku 152. stavku 3. na kraju rečenice briše se točka, stavlja se zarez i dodaju riječi: »osim u presudi kojom se okrivljenik proglašava krivim i presudi kojom se odbija prigovor i potvrđuje prekršajni nalog.«.
+
+#### Članak 9.
+
+U članku 160. stavku 2. točki 9. riječ: »članku« zamjenjuje se riječima: »člancima 109.aa,«.
+
+#### Članak 10.
+
+U članku 161. stavku 4. riječi: »članku 145. ili 148.« zamjenjuju se riječima: »člancima 109.aa, 145. ili 148.«.
+
+#### Članak 11.
+
+Iza članka 165. dodaju se naslovi iznad članaka i članci 165.a i 165.b koji glase:
+
+*»Tonsko snimanje glavne rasprave u prekršajnom postupku pred sudom*
+
+#### Članak 165.a
+
+(1) U prekršajnom postupku pred sudom glavna rasprava se snima. Snimanje se provodi uređajem za audiosnimanje rasprave. O postupanju na raspravi vodi se zapisnik.
+
+(2) Zapisnik tvore audiosnimka rasprave i zapisnik o tijeku rasprave. Strankama će se odmah omogućiti preuzimanje audiosnimke. Zapisniku se prilaže transkript rasprave učinjen uz pomoć uređaja za automatsku transkripciju, koji služi kao pomoćno sredstvo uz audiosnimku.
+
+(3) Sudac može odlučiti da se izradi prijepis audiosnimke rasprave kada za to postoje opravdani razlozi, a uvijek kada to zatraži okrivljenik koji nema branitelja. Prijepis se izrađuje u roku od pet radnih dana te ga sudac pregledava, ovjerava i prilaže zapisniku o raspravi, a zbog opravdanih razloga taj rok može se produljiti za daljnjih deset radnih dana.
+
+*Zapisnik o tijeku glavne rasprave u prekršajnom postupku pred sudom*
+
+#### Članak 165.b
+
+(1) Kada se glavna rasprava u prekršajnom postupku pred sudom snima uređajem za audiosnimanje rasprave, u uvodu zapisnika mora se naznačiti sud pred kojim se održava glavna rasprava, mjesto i vrijeme održavanja rasprave, ime i prezime suca i zapisničara, tužitelja odnosno njegova zastupnika, okrivljenika i branitelja, oštećenika i njegova zakonskog zastupnika ili opunomoćenika, tumača, prekršaj koji je predmet raspravljanja te je li glavna rasprava javna ili je javnost isključena.
+
+(2) Zapisnik mora sadržavati podatke o tome koji je optužni prijedlog na glavnoj raspravi pročitan ili usmeno izložen, je li tijekom rasprave optužni prijedlog izmijenjen ili proširen, kakve su prijedloge podnijele stranke i kakve je odluke donosio sudac, koji su dokazi izvedeni, jesu li pročitani kakvi zapisnici i drugi podnesci, jesu li reproducirane zvučne ili druge snimke i kakve su primjedbe dale stranke u vezi s pročitanim zapisnicima, podnescima ili reproduciranim snimkama te popis drugih bitnih radnji koje su poduzete na glavnoj raspravi bez navođenja njihova sadržaja. U zapisnik će se unijeti i izreka presude. Ako je s glavne rasprave isključena javnost, u zapisniku će se naznačiti da je sudac upozorio nazočne na posljedice ako neovlašteno otkriju ono što su na toj glavnoj raspravi saznali kao tajnu.
+
+(3) Ako je na glavnoj raspravi doneseno rješenje o zadržavanju, mjeri opreza ili jamstvu, to će se rješenje unijeti u zapisnik. Ako je na kakvo rješenje doneseno tijekom glavne rasprave dopuštena posebna žalba, takvo će se rješenje izraditi i zasebno, osim ako su se stranke odrekle prava na žalbu.
+
+(4) U zapisnik o glavnoj raspravi unosi se potpuna izreka presude, uz naznaku je li javno objavljena. Izreka presude u zapisniku o glavnoj raspravi je izvornik presude.«.
+
+#### Članak 12.
+
+U članku 183. stavku 2. druga rečenica briše se.
+
+#### Članak 13.
+
+U članku 184. stavku 2. riječ: »potpisuju« zamjenjuje se riječju: »potpisuje«, a riječi: »i zapisničar« brišu se.
+
+#### Članak 14.
+
+U članku 187. ispred riječi: »Tijela« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Odredbe o podnescima iz članka 117.a ovoga Zakona i dostavi sudskih pismena putem informacijskog sustava te odredbe članaka 165.a i 165.b ovoga Zakona ne primjenjuju se u postupcima koje vode tijela državne uprave.«.
+
+#### Članak 15.
+
+U članku 190. stavak 3. mijenja se i glasi:
+
+»(3) Ako ovim Zakonom nije drukčije određeno, rješenje o prekršaju kojim se okrivljenik proglašava krivim ima odgovarajući sadržaj prema članku 183. ovoga Zakona. Ako je okrivljeniku izrečena novčana kazna, u izreci rješenja o prekršaju odredit će se rok njezina plaćanja. Izrekom rješenja o prekršaju okrivljenika će se također upozoriti da ako u roku koji mu je određen za plaćanje novčane kazne uplati dvije trećine izrečene novčane kazne, smatrat će se da je novčana kazna u cjelini uplaćena u skladu s člankom 152. stavkom 3. ovoga Zakona.«.
+
+#### Članak 16.
+
+U članku 234. stavak 1. mijenja se i glasi:
+
+»(1) Prekršajni se nalog u pisanom obliku izdaje sadržajno odgovarajućom primjenom odredbi članaka 183. i 185. ovoga Zakona, ako odredbama ovoga članka nije nešto drukčije određeno. Ako je okrivljeniku izrečena novčana kazna, u izreci prekršajnog naloga odredit će se rok njezina plaćanja. Izrekom prekršajnog naloga okrivljenika će se također upozoriti da ako u roku koji mu je određen za plaćanje novčane kazne uplati dvije trećine izrečene novčane kazne, smatrat će se da je novčana kazna u cjelini uplaćena u skladu s člankom 152. stavkom 3. ovoga Zakona.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) U uputi o pravu na prigovor protiv prekršajnog naloga okrivljenika će se upozoriti da u slučaju podnošenja prigovora protiv prekršajnog naloga ne može ostvariti pogodnost u slučaju iznimke iz članka 152. stavka 3. ovoga Zakona.«.
+
+Dosadašnji stavci 3. – 5. postaju stavci 4. – 6.
+
+#### Članak 17.
+
+U članku 235. stavku 1. točki 3. briše se točka na kraju rečenice i stavlja se zarez.
+
+Iza točke 3. dodaje se točka 4. koja glasi:
+
+»4. ovlašteni tužitelj koji je podnio optužni prijedlog.«.
+
+#### Članak 18.
+
+U članku 239. stavku 1. točki 2. riječi: »663,61 eura« zamjenjuju se riječima: »1000,00 eura«.
+
+U stavku 4. riječi: »663,61 eura« zamjenjuju se riječima: »1000,00 eura«.
+
+#### Članak 19.
+
+U članku 245. stavku 1. riječi: »265,45 eura« zamjenjuju se riječima: »390,00 eura«.
+
+U stavku 8. riječi: »132,72 eura« zamjenjuju se riječima: »300,00 eura«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 20.
+
+Ministar nadležan za pravosuđe donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona pravilnik iz članka 117.a stavka 7. koji je izmijenjen člankom 2. ovoga Zakona.
+
+#### Članak 21.
+
+Odredbe članaka 8. i 12. ovoga Zakona ne primjenjuju se u postupcima u kojima je u trenutku stupanja na snagu ovoga Zakona podnesen prigovor protiv prekršajnog naloga ili obaveznog prekršajnog naloga ili u kojima je podnesena žalba protiv presude prvostupanjskog suda do pravomoćnog okončanja tih postupaka.
+
+#### Članak 22.
+
+Odredba članka 18. ovoga Zakona primjenjuje se i na prekršaje počinjene prije stupanja na snagu ovoga Zakona, ako za iste ovlašteni tužitelj nije već pokrenuo prekršajni postupak podnošenjem optužnog prijedloga nadležnom tijelu postupka odnosno izdao prekršajni nalog.
+
+#### Članak 23.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 11. ovoga Zakona koji stupa na snagu 1. srpnja 2027.
+
+Klasa: 022-02/26-01/23  
+Zagreb, 15. srpnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

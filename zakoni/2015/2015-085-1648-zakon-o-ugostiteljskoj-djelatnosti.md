@@ -6,11 +6,20 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-08-01
+last_amended: 2024-12-24
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "85/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "85/15, 121/16, 99/18, 25/19, 98/19, 32/20, 42/20, 126/21, 152/24"
+amendments:
+  - "NN 121/2016 (2626) Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti"
+  - "NN 99/2018 (1917) Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti"
+  - "NN 25/2019 (493) Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti"
+  - "NN 98/2019 (1951) Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti"
+  - "NN 32/2020 (700) Zakon o dopunama Zakona o ugostiteljskoj djelatnosti"
+  - "NN 42/2020 (888) Zakon o izmjenama i dopuni Zakona o ugostiteljskoj djelatnosti"
+  - "NN 126/2021 (2132) Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti"
+  - "NN 152/2024 (2514) Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/85/1648"
 retrieved: 2026-10-12
 ---
@@ -18,6 +27,8 @@ retrieved: 2026-10-12
 # Zakon o ugostiteljskoj djelatnosti
 
 > Izvor: Narodne novine, NN 85/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/85/1648).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 121/2016, NN 99/2018, NN 25/2019, NN 98/2019, NN 32/2020, NN 42/2020, NN 126/2021, NN 152/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1060,3 +1071,1148 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti (NN 121/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/121/2626*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti, koji je Hrvatski sabor donio na sjednici 15. prosinca 2016. godine.
+
+Klasa: 011-01/16-01/78
+
+Urbroj: 71-06-01/1-16-2
+
+Zagreb, 20. prosinca 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI**
+
+### Članak 1.
+
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15.) u članku 25. stavku 1. riječi: »31. prosinca 2016.« zamjenjuju se riječima: »31. prosinca 2020.«.
+
+### Članak 2.
+
+U članku 34. stavku 4. riječi: »31. prosinca 2016.« zamjenjuju se riječima: »31. prosinca 2020.«.
+
+U stavku 5. riječi: »31. prosinca 2016.« zamjenjuju se riječima: »31. prosinca 2020.«.
+
+### Članak 3.
+
+Ugostitelji, iznajmljivači i nositelji ili članovi obiteljskog poljoprivrednog gospodarstva koji na dan stupanja na snagu ovoga Zakona obavljaju ugostiteljsku djelatnost, odnosno pružaju ugostiteljske usluge temeljem privremenog rješenja iz članka 25. stavka 1., članka 34. stavaka 4. i 5. i članka 39. stavka 9., a u vezi s člankom 34. stavcima 4. i 5. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15.), temeljem istih privremenih rješenja nastavljaju obavljati ugostiteljsku djelatnost, odnosno pružati ugostiteljske usluge, najdulje do 31. prosinca 2020.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-01/120
+
+Zagreb, 15. prosinca 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti (NN 99/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/99/1917*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti, koji je Hrvatski sabor donio na sjednici 31. listopada 2018.
+
+Klasa: 011-01/18-01/131
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 5. studenoga 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI**
+
+#### Članak 1.
+
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15. i 121/16.) u članku 5. stavku 2. podstavak 2. mijenja se i glasi:
+
+» – zdravstvene ustanove, trgovačka društva za obavljanje zdravstvene djelatnosti i zdravstveni radnici, sukladno posebnim propisima kojima je regulirana zdravstvena zaštita«.
+
+Podstavak 10. mijenja se i glasi:
+
+» – pružatelji usluga socijalne skrbi u svojim poslovnim prostorijama i prostorima u svrhu pripreme i usluživanja napitaka, pića, slastica i slično, za potrebe svojih korisnika«.
+
+#### Članak 2.
+
+U članku 6. stavku 1. točka 1. mijenja se i glasi:
+
+»1. pružanje usluge prehrane i smještaja u objektima socijalne skrbi, zdravstva, odgoja i obrazovanja i drugih sličnih ustanova, ako te usluge pružaju djelatnici navedenih ustanova djelatnicima i korisnicima tih ustanova, ili djelatnicima i korisnicima neke druge od navedenih ustanova, ili djelatnicima i korisnicima drugih pružatelja socijalnih usluga, ili udomiteljima i njihovim korisnicima, kao i na usluge prehrane i smještaja koje pružaju obrti registrirani za obavljanje djelatnosti dadilje u prostoru u kojem obavljaju tu djelatnost, ako te usluge djelatnici obrta pružaju svojim djelatnicima i korisnicima usluga dadilje«.
+
+Na kraju točke 8. briše se točka i dodaju točke 9. i 10. koje glase:
+
+»9. korištenje prostorija pravnih i fizičkih osoba za smještaj njihovih sezonskih i terenskih radnika radi obavljanja poslova
+
+10. organiziranje smještaja za sudionike domaćih ili međunarodnih umjetničkih programa koji u vlastitim objektima organiziraju ustanove kulture, udruge i druge organizacije u kulturi, uz prethodno mišljenje ministarstva nadležnog za kulturu.«.
+
+#### Članak 3.
+
+U članku 9. stavku 3. podstavku 1. riječi: »iz stavka 2. podstavaka 5. i 6.« zamjenjuju se riječima: »iz stavka 2. podstavaka 1., 5. i 6.«.
+
+#### Članak 4.
+
+U članku 12. stavku 2. riječi: »uz obvezu isticanja i pridržavanja istaknutih cijena te izdavanja čitljivog i točnog računa za pruženu uslugu« zamjenjuju se riječima: »uz obvezu isticanja tvrtke odnosno naziva, isticanja i pridržavanja istaknutih cijena, izdavanja čitljivog i točnog računa za pruženu uslugu i isticanja na vidljivom mjestu oznake o zabrani usluživanja alkoholnih pića, drugih pića i/ili napitaka koji sadržavaju alkohol osobama mlađim od 18 godina te poštivanja te zabrane«.
+
+#### Članak 5.
+
+U članku 30. stavku 3. iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. smještaja u objektu za robinzonski smještaj u kojem se usluge pružaju u prostorijama ili na prostorima, kapacitet koji se određuje prema broju gostiju koji mogu sigurno u njemu boraviti, ali do najviše deset smještajnih jedinica odnosno 30 gostiju istodobno, u koje se ne ubrajaju djeca do 12 godina starosti«.
+
+Dosadašnja točka 3., koja postaje točka 4., mijenja se i glasi:
+
+»4. doručka gostima kojima iznajmljivač pruža usluge smještaja.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Ukupni smještajni kapacitet u objektima iz stavka 3. točaka 2. i 3. ovoga članka može biti do deset smještajnih jedinica odnosno 30 gostiju istodobno, u koji se ne ubrajaju djeca do 12 godina starosti.«.
+
+Iza dosadašnjeg stavka 4. koji postaje stavak 5. dodaje se stavak 6. koji glasi:
+
+»(6) Iznimno od stavka 3. točke 4. ovoga članka, ako u krugu od 15 kilometara cestovne linije nema objekta registriranog za pružanje ugostiteljske usluge pripremanja i usluživanja jela, iznajmljivač koji pruža gostima uslugu smještaja, može gostima osim doručka pružati i uslugu polupansiona i/ili punog pansiona.«.
+
+#### Članak 6.
+
+Naslov iznad članka 31. mijenja se i glasi: »Minimalni uvjeti za vrstu, uvjeti za kategoriju i posebni standard«.
+
+Članak 31. mijenja se i glasi:
+
+»(1) Za pružanje ugostiteljskih usluga u domaćinstvu objekti iz članka 30. ovoga Zakona moraju ispunjavati minimalne uvjete za vrstu i uvjete za kategoriju.
+
+(2) Nadležni ured na zahtjev iznajmljivača rješenjima iz članaka 34. i 34.a ovoga Zakona utvrđuje jesu li ispunjeni minimalni uvjeti za vrstu i uvjeti za kategoriju te uvjeti za posebni standard za objekte iz članka 30. ovoga Zakona.
+
+(3) Ministar pravilnikom propisuje minimalne uvjete za vrstu, kategorije, uvjete za kategoriju, oznake za kategorije, način označavanja kategorija, vrste objekata za koje će se utvrditi poseban standard, vrste posebnih standarda, uvjete i elemente koji moraju biti ispunjeni za pojedini standard, oznake i način označavanja posebnih standarda te sastav povjerenstva koje provodi očevid u objektu.«.
+
+#### Članak 7.
+
+U članku 32. stavku 1. točkama 1. i 2. iza riječi: »kategorije objekta« dodaju se riječi: »te vrstu posebnog standarda«.
+
+Točka 7. briše se.
+
+Dosadašnja točka 8. postaje točka 7.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Prilikom oglašavanja i reklamiranja usluga i isticanja poruka u promidžbenim materijalima iznajmljivač smije koristiti samo oznaku propisane vrste te kategoriju i vrstu posebnog standarda objekta koja je utvrđena rješenjem nadležnog ureda, a prilikom oglašavanja i reklamiranja usluga s poreznim obveznicima iz Europske unije mora istaknuti porezni broj, odnosno PDV identifikacijski broj.«.
+
+#### Članak 8.
+
+Članak 33. mijenja se i glasi:
+
+»Boravak više od 15 osoba u stanovima, apartmanima i kućama za odmor koje nisu članovi uže obitelji vlasnika stana, apartmana ili kuće za odmor i za koje je on obvezan platiti boravišnu pristojbu po svakom ostvarenom noćenju u punom iznosu, sukladno posebnom propisu kojim se propisuje obveza plaćanja boravišne pristojbe, u turističkim mjestima od 15. lipnja do 15. rujna, smatra se pružanjem ugostiteljskih usluga u domaćinstvu.«.
+
+#### Članak 9.
+
+U članku 34. stavku 2. točka 1. mijenja se i glasi:
+
+»1. da je vlasnik objekta (objekt za robinzonski smještaj, soba, apartman ili kuća za odmor) ili vlasnik zemljišta za objekt za robinzonski smještaj, kamp ili kamp-odmorište«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od stavka 2. točke 1. ovoga članka, iznajmljivač može pružati usluge i u objektu (objekt za robinzonski smještaj, soba, apartman ili kuća za odmor) ili i na zemljištu (objekt za robinzonski smještaj, kamp, kamp-odmorište) koji su u vlasništvu njegova bračnog ili izvanbračnog druga, životnog partnera sukladno posebnom propisu koji regulira životno partnerstvo osoba istog spola (u daljnjem tekstu: životni partner), srodnika u ravnoj liniji ili člana obitelji, uz njihovu pisanu suglasnost za pružanje ugostiteljskih usluga u domaćinstvu.«.
+
+#### Članak 10.
+
+Iza članka 34. dodaju se članak 34.a i naslov iznad njega koji glase:
+
+*»Rješenje o ispunjavanju uvjeta za posebni standard u domaćinstvu*
+
+#### Članak 34.a
+
+(1) Rješenje o ispunjavanju uvjeta za posebni standard izdat će se na zahtjev iznajmljivača ako objekt ispunjava uvjete utvrđene pravilnikom iz članka 31. stavka 3. ovoga Zakona.
+
+(2) U slučaju nastavka pružanja ugostiteljskih usluga u domaćinstvu sukladno članku 35. stavku 1. ovoga Zakona iznajmljivač je dužan zahtjevu priložiti izjavu da nije došlo do bitnih promjena vezanih uz ispunjavanje propisanih uvjeta uređenja i opreme za utvrđivanje posebnog standarda.
+
+(3) Rješenje iz stavka 1. ovoga članka kojim se usvaja zahtjev upisuje se u Središnji registar.
+
+(4) Na rješenje nadležnog ureda iz stavka 1. ovoga članka stranka ima pravo izjaviti žalbu Ministarstvu.
+
+(5) Primjerak izvršnog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnoj službi turističke inspekcije Ministarstva, nadležnoj ispostavi područnog ureda Ministarstva financija, Porezne uprave i nadležnom područnom uredu Ministarstva financija, Carinske uprave, nadležnoj ispostavi sanitarne inspekcije Ministarstva zdravstva te Državnom zavodu za statistiku.«.
+
+#### Članak 11.
+
+U članku 36. riječi: »točkama 1. i 2.« zamjenjuju se riječima: »točkama 1. do 3.«.
+
+#### Članak 12.
+
+U članku 38. stavku 1. točki 1. zarez i riječi: »osim ako nasljednik iznajmljivača ne nastavi obavljati pružanje ugostiteljskih usluga u skladu s člankom 35. stavkom 1. ovoga Zakona« brišu se.
+
+#### Članak 13.
+
+U članku 39. stavku 2. točka 3. mijenja se i glasi:
+
+»3. smještaja u sobi, apartmanu, ruralnoj kući za odmor do najviše deset soba odnosno za 20 gostiju istodobno, u koji broj se ne ubrajaju pomoćni kreveti, i/ili usluge smještaja u objektu za robinzonski smještaj i/ili u kampu i/ili kamp-odmorištu, s ukupno najviše 20 smještajnih jedinica odnosno za 60 gostiju istodobno, u koji se broj ne ubrajaju djeca do 12 godina starosti. Gostima mora biti omogućeno korištenje usluge pripremanja i usluživanja jela, pića i napitaka (doručak ili polupansion ili puni pansion) iz pretežito vlastite proizvodnje. Usluge se mogu pružati u više vrsta objekata do ukupno 80 gostiju istodobno.«.
+
+U stavku 3. riječ: »pet« zamjenjuje se riječju: deset«.
+
+U stavku 8. iza riječi: »kategorija« dodaju se riječi: «vrste objekata za koje će se utvrditi poseban standard, vrste posebnih standarda, uvjete i elemente koji moraju biti ispunjeni za pojedini standard, oznake i način označavanja posebnih standarda«.
+
+U stavku 9. iza riječi: »članka 34. stavaka 4., 5., 8. i 9.,« dodaju se riječi: »članka 34.a stavka 2.,«.
+
+#### Članak 14.
+
+Iza članka 40. dodaju se članak 40.a i naslov iznad njega koji glase:
+
+*»Rješenje o ispunjavanju uvjeta za posebni standard na obiteljskom poljoprivrednom gospodarstvu*
+
+#### Članak 40.a
+
+(1) Rješenje o ispunjavanju uvjeta za posebni standard izdat će se na zahtjev nositelja ili člana obiteljskog poljoprivrednog gospodarstva ako objekt ispunjava uvjete utvrđene pravilnikom iz članka 39. stavka 8. ovoga Zakona.
+
+(2) Rješenje iz stavka 1. ovoga članka kojim se usvaja zahtjev upisuje se u Središnji registar.
+
+(3) Na rješenje nadležnog ureda iz stavka 1. ovoga članka stranka ima pravo izjaviti žalbu Ministarstvu.
+
+(4) Primjerak izvršnog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnoj službi turističke inspekcije Ministarstva, nadležnoj ispostavi područnog ureda Ministarstva financija, Porezne uprave i nadležnom područnom uredu Ministarstva financija, Carinske uprave, nadležnoj ispostavi sanitarne inspekcije Ministarstva zdravstva te Državnom zavodu za statistiku.«.
+
+#### Članak 15.
+
+U članku 42. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Nadzor nad zabranom kampiranja izvan kampova i prostora određenih za kampiranje izvan kampova sukladno stavcima 1., 2. i 3. članka 29. ovoga Zakona provode i komunalni redari.«.
+
+Iza stavka 4., koji postaje stavak 5., dodaje se stavak 6. koji glasi:
+
+»(6) U obavljanju nadzora iz stavka 4. ovoga članka komunalni redari ovlašteni su protiv prekršitelja podnijeti optužni prijedlog ili izdati prekršajni nalog ili naplatiti novčanu kaznu na mjestu izvršenja prekršaja.«.
+
+#### Članak 16.
+
+Iza članka 42. dodaju se članak 42.a i naslov iznad njega koji glase:
+
+*»Ovlaštenja turističkog inspektora*
+
+#### Članak 42.a
+
+(1) Turistički inspektor neće podnijeti optužni prijedlog, odnosno izdati prekršajni nalog, ili naplatiti kaznu na mjestu izvršenja prekršaja ako:
+
+– nadzirana pravna ili fizička osoba tijekom inspekcijskog nadzora, odnosno do donošenja rješenja otkloni nepravilnosti i nedostatke utvrđene u inspekcijskom nadzoru, što će turistički inspektor utvrditi u zapisniku
+
+– je za utvrđene nepravilnosti doneseno rješenje, a nadzirana osoba je postupila po izvršnom rješenju inspektora
+
+– nadzirana osoba očitovanjem na zapisnik preuzme obvezu da u određenom roku otkloni nepravilnosti i nedostatke utvrđene u inspekcijskom nadzoru za koje nije izrečena upravna mjera, a turistički inspektor utvrdi da je počinjen prekršaj.
+
+(2) Radi ispunjenja obveze iz stavka 1. podstavka 3. ovoga članka turistički inspektor će nadziranoj osobi izdati pisanu naredbu u sklopu zapisnika o obavljenom inspekcijskom nadzoru u kojoj će točno odrediti obvezu i rok za izvršenje, a ovisno o prirodi obveze.
+
+(3) Ako nadzirana osoba ne postupi na način opisan u stavku 1. podstavcima 1. i 2. ovoga članka, odnosno ne ispuni obvezu u određenom roku iz naredbe iz stavka 2. ovoga članka, turistički inspektor je dužan bez odgađanja, a najkasnije u roku od 15 dana od dana završetka inspekcijskog nadzora, odnosno od dana kontrole izvršenja rješenja kojim je utvrđeno da stranka nije postupila po rješenju ili od roka za ispunjenje obveze iz naredbe, podnijeti optužni prijedlog za pokretanje prekršajnog postupka, odnosno izdati prekršajni nalog ili naplatiti kaznu na mjestu izvršenja prekršaja.
+
+(4) Iznimno od odredaba ovoga članka, turistički inspektor dužan je bez odgađanja, a najkasnije u roku od 15 dana od dana završetka inspekcijskog nadzora, podnijeti optužni prijedlog za pokretanje prekršajnog postupka, odnosno izdati prekršajni nalog ili naplatiti kaznu na mjestu izvršenja prekršaja u svim slučajevima kada je propisana upravna mjera zabrane, te u slučajevima utvrđenja prekršaja iz članka 46. stavka 1. točaka 1., 3. i 5. i stavka 4. u dijelu nepoštivanja zabrane usluživanja alkoholnih pića, drugih pića i/ili napitaka koji sadržavaju alkohol osobama mlađim od 18 godina, članka 47. stavka 1. točke 5. u dijelu nepridržavanja istaknutih cijena, te točaka 6., 7., 8., 11., 12., 14., 15. i 16., članka 48. stavka 1. točaka 1. do 6. i točke 8., članka 49. stavka 1. točke 2. u dijelu nepridržavanja istaknutih cijena, te točaka 4., 5., 8. i 9., članka 50. stavka 1. točaka 1., 2. i 6., članka 51. stavka 1. točke 2. u dijelu nepridržavanja istaknutih cijena, te točaka 4., 5., 8. i 9. i članka 52. ovoga Zakona te u svim slučajevima ponavljanja prekršaja u istom objektu.«.
+
+#### Članak 17.
+
+U članku 44. stavku 1. iza riječi: »i/ili ne pruža ugostiteljske usluge koje su utvrđene rješenjem nadležnog ureda, odnosno Ministarstva« dodaju se riječi: »ili ističe oznaku za kategoriju (zvjezdice) ili posebni standard na objektu i/ili u promidžbenim materijalima suprotno odredbama ovoga Zakona«.
+
+U stavku 7. riječi: »stavka 5.« zamjenjuju se riječima: »stavaka 3. i 5.«.
+
+#### Članak 18.
+
+U članku 45. stavcima 1. i 3. iza riječi: »turistički inspektor« dodaju se riječi: »i komunalni redar«.
+
+#### Članak 19.
+
+U članku 46. stavci 4. i 5. mijenjaju se i glase:
+
+»(4) Novčanom kaznom u iznosu od 1000,00 do 2000,00 kuna kaznit će se sudionik proslava i manifestacije, uključivo nositelj ili član obiteljskog poljoprivrednog gospodarstva, iz članka 12. stavka 2. ovoga Zakona, koji nije ugostitelj, koji prilikom pružanja ugostiteljskih usluga iz članka 12. stavka 2. ovoga Zakona ne istakne tvrtku odnosno naziv ili ne istakne i ne pridržava se istaknutih cijena ili ne izda čitljiv i točan račun za pruženu uslugu ili ne istakne na vidljivom mjestu oznaku o zabrani usluživanja alkoholnih pića, drugih pića i/ili napitaka koji sadržavaju alkohol osobama mlađim od 18 godina te ne poštuje tu zabranu (članak 12. stavak 2.).
+
+(5) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka u istom ugostiteljskom objektu pravna osoba i fizička osoba – obrtnik kaznit će se novčanom kaznom u iznosu od 10.000,00 do 90.000,00 kuna.«.
+
+Stavak 6. briše se.
+
+U dosadašnjem stavku 7., koji postaje stavak 6., riječi: »stavaka 5. i 6.« zamjenjuju se riječima: »stavka 5.«.
+
+Dosadašnji stavci 8. i 9. postaju stavci 7. i 8.
+
+#### Članak 20.
+
+U članku 47. stavak 3. mijenja se i glasi:
+
+»(3) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka u istom ugostiteljskom objektu pravna osoba i fizička osoba – obrtnik kaznit će se novčanom kaznom u iznosu od 5000,00 do 40.000,00 kuna.«.
+
+#### Članak 21.
+
+U članku 48. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Novčanom kaznom u iznosu od 2500,00 do 10.000,00 kuna kaznit će se za prekršaj iznajmljivač ako:
+
+1. pruža usluge smještaja u više od deset soba, odnosno 20 kreveta, u koji broj se ne ubrajaju pomoćni kreveti (članak 30. stavak 3. točka 1.)
+
+2. pruža usluge smještaja u kampu i/ili kamp-odmorištu u više od deset smještajnih jedinica, odnosno za više od 30 gostiju istodobno, u koji broj se ne ubrajaju djeca u dobi do 12 godina (članak 30. stavak 3. točka 2.)
+
+3. pruža usluge smještaja u objektu za robinzonski smještaj u više od deset smještajnih jedinica, odnosno za više od 30 gostiju istodobno, u koje se ne ubrajaju djeca do 12 godina starosti (članak 30. stavak 3. točka 3.)
+
+4. pruža usluge doručka osobama koje nisu gosti kojima pruža usluge smještaja (članak 30. stavak 3. točka 4.)
+
+5. pruža usluge smještaja u objektima iz članka 30. stavka 3. točaka 2. i 3. u smještajnom kapacitetu većem od propisanog u članku 30. stavku 4. ovoga Zakona (članak 30. stavak 4.)
+
+6. nudi i prodaje usluge neposredno ili putem drugih osoba koje nisu registrirane za posredovanje u prodaji usluga smještaja, ili nudi i prodaje svoje usluge iz članka 30. stavka 3. ovoga Zakona izvan svog objekta, osim na prostorima, pod uvjetima i na način koji svojom odlukom propisuje predstavničko tijelo (članak 30. stavak 5.)
+
+7. objekt u kojem pruža usluge ne ispunjava minimalne uvjete za vrstu i uvjete za kategoriju (članak 31. stavak 1.)
+
+8. pruža usluge iz članka 30. stavka 3. ovoga Zakona suprotno izdanom rješenju o odobrenju za pružanje ugostiteljskih usluga u domaćinstvu iz članka 34. stavka 1. ovoga Zakona ili suprotno izdanom privremenom rješenju o pružanju ugostiteljskih usluga u domaćinstvu iz članka 34. stavka 4. ovoga Zakona (članak 34. stavci 1. i 4.)
+
+9. objekt u kojem pruža usluge ne ispunjava uvjete za posebni standard (članak 34.a stavak 1.).
+
+(2) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka kaznit će se iznajmljivač novčanom kaznom u iznosu od 5000,00 do 20.000,00 kuna.«.
+
+#### Članak 22.
+
+U članku 49. stavku 1. točkama 1. i 2. iza riječi: »kategorije« dodaju se riječi: »te posebnog standarda«.
+
+Točka 8. mijenja se i glasi:
+
+»8. prilikom oglašavanja i reklamiranja usluga i isticanja poruka u promidžbenim materijalima koristi oznaku propisane vrste i kategoriju objekta te posebnog standarda koja nije utvrđena rješenjem nadležnog ureda ili prilikom oglašavanja i reklamiranja usluga s poreznim obveznicima iz Europske unije ne istakne porezni broj, odnosno PDV identifikacijski broj (članak 32. stavak 2.)«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka u istom objektu kaznit će se iznajmljivač novčanom kaznom u iznosu od 4000,00 do 10.000,00 kuna.«.
+
+#### Članak 23.
+
+U članku 50. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Novčanom kaznom u iznosu od 2500,00 do 10.000,00 kuna kaznit će se za prekršaj fizička osoba – nositelj ili član obiteljskog poljoprivrednog gospodarstva ako:
+
+1. pruža usluge za više gostiju ili u više smještajnih jedinica od propisanog, ili gostima ne omogući uslugu pripremanja ili usluživanja jela, pića i napitaka (doručak ili polupansion ili pansion) (članak 39. stavak 2. točke 1. do 3.)
+
+2. pruža usluge za više od 80 osoba (izletnika) radi organiziranja prigodnih tradicijskih proslava i manifestacija više od deset puta tijekom kalendarske godine ili ne izvrši prijavu mjesno nadležnoj službi turističke inspekcije Ministarstva najkasnije tri dana prije započinjanja pružanja tih usluga (članak 39. stavak 3.)
+
+3. jela, pića i napici koji se uslužuju nisu uobičajeni za kraj u kojem je obiteljsko poljoprivredno gospodarstvo (članak 39. stavak 4.)
+
+4. nudi i prodaje usluge iz članka 39. stavka 2. ovoga Zakona bez ispunjavanja uvjeta propisanih posebnim propisima o hrani (članak 39. stavak 5.)
+
+5. objekt u kojem se pružaju usluge iz članka 39. stavka 2. ovoga Zakona ne ispunjava minimalne uvjete za vrstu i uvjete za kategoriju (članak 39. stavak 7.)
+
+6. pruža usluge iz članka 39. stavka 2. ovoga Zakona suprotno izdanom rješenju o odobrenju za pružanje ugostiteljskih usluga na obiteljskom poljoprivrednom gospodarstvu iz članka 40. stavka 1. ovoga Zakona ili suprotno izdanom privremenom rješenju o pružanju ugostiteljskih usluga na obiteljskom poljoprivrednom gospodarstvu sukladno članku 34. stavku 4. ovoga Zakona (članak 40. stavak 1. i članak 39. stavak 10. u vezi s člankom 34. stavkom 4.)
+
+7. objekt u kojem pruža usluge ne ispunjava uvjete za posebni standard (članak 40.a stavak 1.).
+
+(2) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka u istom objektu kaznit će se fizička osoba – nositelj ili član obiteljskog poljoprivrednoga gospodarstva novčanom kaznom u iznosu od 5000,00 do 20.000,00 kuna.«.
+
+#### Članak 24.
+
+U članku 51. stavku 1. točkama 1. do 9. riječi: »stavak 9.« zamjenjuju se riječima: »stavak 10.«.
+
+U točki 8. iza riječi: »kategoriju« dodaju se riječi: »te posebnog standarda«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka u istom objektu kaznit će se fizička osoba – nositelj ili član obiteljskog poljoprivrednoga gospodarstva novčanom kaznom u iznosu od 4000,00 do 10.000,00 kuna.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 25.
+
+(1) Iznajmljivači koji na dan stupanja na snagu ovoga Zakona pružaju ugostiteljske usluge u domaćinstvu temeljem rješenja o odobrenju izdanih do 1. rujna 2007. godine, odnosno prije stupanja na snagu Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu (»Narodne novine«, br. 88/07.) ili temeljem rješenja izdanog povodom zahtjeva podnesenog prije 1. rujna 2007. dužni su, radi nastavka pružanja ugostiteljskih usluga s pravom isticanja oznake za kategoriju (zvjezdice) na objektu u kojem pružaju ugostiteljske usluge, podnijeti uredni zahtjev za izdavanje rješenja o odobrenju za pružanje ugostiteljskih usluga u domaćinstvu sukladno odredbama ovoga Zakona i Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu (»Narodne novine«, br. 9/16., 54/16., 61/16. i 69/17.), u roku od:
+
+– dvije godine od stupanja na snagu ovoga Zakona, ako su rješenje o odobrenju ishodili do 31. prosinca 2000.
+
+– tri godine od stupanja na snagu ovoga Zakona, ako su rješenje o odobrenju ishodili u razdoblju od 1. siječnja 2001. do 31. prosinca 2004.
+
+– četiri godine od stupanja na snagu ovoga Zakona, ako su rješenje o odobrenju ishodili nakon 31. prosinca 2004.
+
+(2) Nadležni ured, na zahtjev iznajmljivača, izdaje rješenje iz stavka 1. ovoga članka.
+
+(3) U postupku izdavanja rješenja iz stavka 1. ovoga članka ne utvrđuje se ispunjavanje uvjeta iz članka 34. stavka 2. točaka 1. i 3. Zakona.
+
+(4) Na rješenje nadležnog ureda iz stavka 1. ovoga članka stranka ima pravo izjaviti žalbu Ministarstvu.
+
+(5) Primjerak izvršnog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnoj službi turističke inspekcije Ministarstva, nadležnoj ispostavi područnog ureda Ministarstva financija, Porezne uprave i nadležnom područnom uredu Ministarstva financija, Carinske uprave, nadležnoj ispostavi sanitarne inspekcije Ministarstva zdravstva te Državnom zavodu za statistiku.
+
+(6) Iznajmljivači iz stavka 1. ovoga članka koji ne podnesu zahtjev za izdavanje rješenja iz stavka 1. ovoga članka nastavljaju pružati ugostiteljske usluge, ali gube pravo isticati oznaku za kategoriju (zvjezdice) na objektu u kojem pružaju ugostiteljske usluge i u promidžbenim materijalima.
+
+#### Članak 26.
+
+(1) Novčanom kaznom u iznosu od 2000,00 do 5000,00 kuna kaznit će se za prekršaj iznajmljivač ako ističe na objektu oznaku za kategoriju (zvjezdice) bez rješenja iz članka 25. stavka 1. ovoga Zakona ili ističe zvjezdice u promidžbenim materijalima bez rješenja iz članka 25. stavka 1. ovoga Zakona (članak 25. stavak 6.).
+
+(2) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka kaznit će se iznajmljivač novčanom kaznom u iznosu od 4000,00 do 10.000,00 kuna.
+
+(3) Za prekršaje iz stavka 1. ovoga članka turistički inspektor može naplatiti novčanu kaznu na mjestu izvršenja prekršaja u iznosu od 1000,00 kuna, osim u slučaju iz stavka 2. ovoga članka.
+
+#### Članak 27.
+
+(1) Iznajmljivači ili nositelji ili članovi obiteljskog poljoprivrednog gospodarstva koji su do dana stupanja na snagu ovoga Zakona ishodili rješenje za pružanje ugostiteljskih usluga u objektu kamp-odmorište – robinzonski smještaj, sukladno Pravilniku o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu (»Narodne novine«, br. 9/16., 54/16., 61/16. i 69/17.) ili Pravilniku o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge na obiteljskom poljoprivrednom gospodarstvu (»Narodne novine«, br. 54/16. i 69/17.), dužni su uskladiti smještajni kapacitet sukladno odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(2) Iznajmljivači koji su do dana stupanja na snagu ovoga Zakona temeljem rješenja nadležnog ureda iz članka 34. stavaka 1., 4. i 5. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15. i 121/16.) pružali usluge polupansiona i punog pansiona, dužni su uskladiti svoje poslovanje s odredbama ovoga Zakona u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 28.
+
+Ministar će u roku od 30 dana od dana stupanja na snagu ovoga Zakona s odredbama ovoga Zakona uskladiti Pravilnik o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu (»Narodne novine«, br. 9/16., 54/16., 61/16. i 69/17.) i Pravilnik o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge na obiteljskom poljoprivrednom gospodarstvu (»Narodne novine«, br. 54/16. i 69/17.).
+
+#### Članak 29.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/92
+
+Zagreb, 31. listopada 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti (NN 25/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/25/493*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti, koji je Hrvatski sabor donio na sjednici 1. ožujka 2019.
+
+Klasa: 011-01/19-01/39
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 6. ožujka 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI**
+
+### Članak 1.
+
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16. i 99/18.) u članku 6. stavku 1. točki 5. riječi: »nadležnoj službi turističke inspekcije Ministarstva turizma« zamjenjuju se riječima: »nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva«.
+
+### Članak 2.
+
+U članku 20. stavak 6. mijenja se i glasi:
+
+»(6) Primjerak izvršnih rješenja iz stavaka 1. i 2. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije, nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav te središnjem tijelu državne uprave nadležnom za poslove statistike, a za ugostiteljske objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
+
+### Članak 3.
+
+U članku 21. stavak 6. mijenja se i glasi:
+
+»(6) Primjerak izvršnih rješenja iz stavaka 1. i 3. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije, nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav te središnjem tijelu državne uprave nadležnom za poslove statistike, a za ugostiteljske objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
+
+U stavku 7. riječi: »nadležnoj službi turističke inspekcije Ministarstva i Državnom zavodu za statistiku« zamjenjuju se riječima: »nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i središnjem tijelu državne uprave nadležnom za poslove statistike«.
+
+### Članak 4.
+
+U članku 22. stavak 7. mijenja se i glasi:
+
+»(7) Primjerak izvršnih rješenja iz stavaka 3. i 4. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva, središnjem tijelu državne uprave nadležnom za poslove statistike, a u slučaju prestanka važenja izdanog rješenja primjerak rješenja iz stavka 3. ovoga članka dostavlja se i nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav.«.
+
+### Članak 5.
+
+U članku 25. stavak 4. mijenja se i glasi:
+
+»(4) Primjerak izvršnog privremenog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije, nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav te središnjem tijelu državne uprave nadležnom za poslove statistike, a za ugostiteljske objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
+
+### Članak 6.
+
+U članku 26. stavak 6. mijenja se i glasi:
+
+»(6) Primjerak izvršnih rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije, nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav te središnjem tijelu državne uprave nadležnom za poslove statistike.«.
+
+### Članak 7.
+
+U članku 27. stavak 4. mijenja se i glasi:
+
+»(4) Primjerak izvršnih rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva, nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav te središnjem tijelu državne uprave nadležnom za poslove statistike, a za ugostiteljske objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
+
+### Članak 8.
+
+U članku 34. stavak 8. mijenja se i glasi:
+
+»(8) Primjerak izvršnog rješenja o odobrenju dostavlja se nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav, mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije te središnjem tijelu državne uprave nadležnom za poslove statistike, a za objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
+
+### Članak 9.
+
+U članku 34.a stavak 5. mijenja se i glasi:
+
+»(5) Primjerak izvršnog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije, nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav te središnjem tijelu državne uprave nadležnom za poslove statistike.«.
+
+### Članak 10.
+
+U članku 35. stavak 6. mijenja se i glasi:
+
+»(6) Primjerak izvršnog rješenja o odobrenju dostavlja se nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav, mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije te središnjem tijelu državne uprave nadležnom za poslove statistike, a za objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
+
+### Članak 11.
+
+U članku 38. stavak 2. mijenja se i glasi:
+
+»(2) Primjerak rješenja iz stavka 1. ovoga članka dostavlja se nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav, mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije te središnjem tijelu državne uprave nadležnom za poslove statistike, a za objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
+
+### Članak 12.
+
+U članku 39. stavku 3. riječi: »nadležnoj službi turističke inspekcije Ministarstva« zamjenjuju se riječima: »nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva«.
+
+### Članak 13.
+
+U članku 40.a stavak 4. mijenja se i glasi:
+
+»(4) Primjerak izvršnog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije, nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav te središnjem tijelu državne uprave nadležnom za poslove statistike.«.
+
+### Članak 14.
+
+U članku 46. stavku 3. riječi: »nadležnoj službi turističke inspekcije Ministarstva« zamjenjuju se riječima: »nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva«.
+
+### Članak 15.
+
+U članku 49. stavku 1. točki 7. u zagradi broj: »8.« zamjenjuje se brojem: »7.«.
+
+### Članak 16.
+
+U članku 50. stavku 1. točki 2. riječi: »nadležnoj službi turističke inspekcije Ministarstva« zamjenjuju se riječima: »nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva«.
+
+### Članak 17.
+
+U članku 51. stavku 1. točkama 1. do 9. u zagradi broj: »10.« zamjenjuje se brojem: »9.«.
+
+### Članak 18.
+
+U članku 25. Zakona o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 99/18.) stavak 5. mijenja se i glasi:
+
+»(5) Primjerak izvršnog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije središnjeg tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije središnjeg tijela državne uprave nadležnog za poslove sanitarne inspekcije, nadležnoj ispostavi područnog ureda središnjeg tijela državne uprave nadležnog za porezni sustav te središnjem tijelu državne uprave nadležnom za poslove statistike.«.
+
+### Članak 19.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/16
+
+Zagreb, 1. ožujka 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1951*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/159
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI**
+
+### Članak 1.
+
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18. i 25/19.) u članku 10. stavku 1. točki 1. riječi: »ureda državne uprave u županiji, odnosno upravnog tijela Grada Zagreba nadležnog za poslove ugostiteljstva prema mjestu sjedišta objekta (u daljnjem tekstu: nadležni ured)« zamjenjuju se riječima: »nadležnog upravnog tijela županije, odnosno Grada Zagreba prema mjestu sjedišta objekta, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na ugostiteljstvo (u daljnjem tekstu: nadležno upravno tijelo)«.
+
+U točkama 12. i 14. riječi: »nadležni ured« u određenom padežu zamjenjuju se riječima: »nadležno upravno tijelo« u odgovarajućem padežu.
+
+### Članak 2.
+
+U članku 6. stavku 1. točki 5., članku 20. stavku 6., članku 21. stavcima 6. i 7., članku 22. stavku 7., članku 25. stavku 4., članku 26. stavku 6., članku 27. stavku 4., članku 34. stavku 8., članku 34.a stavku 5., članku 35. stavku 6., članku 38. stavku 2., članku 39. stavku 3., članku 40.a stavku 4., članku 46. stavku 3. i članku 50. stavku 1. točki 2. riječ: »središnje« u određenom padežu briše se.
+
+### Članak 3.
+
+U članku 11., članku 12. stavku 1., članku 16. stavku 3., članku 17. stavku 3., članku 18. stavku 3., članku 19. stavku 1., naslovu iznad članka 20. i članku 20. stavcima 1., 2. i 5., članku 24. stavku 1. točki 5., članku 25. stavku 3., članku 26. stavku 5., članku 27. stavku 1. točki 2. i stavku 3., članku 28. stavku 1., članku 31. stavku 2., članku 32. stavku 1. točkama 1. i 7. i stavku 2., članku 34. stavku 1., stavku 2. točki 3. i stavcima 7. i 9., članku 34.a stavku 4., članku 35. stavcima 1. i 5., članku 38. stavku 1. točki 2. i stavku 4., članku 40. stavku 1., stavku 2. točki 4. i stavku 4., članku 40.a stavku 3., članku 43. stavku 1., članku 44. stavku 1., članku 46. stavku 1. točkama 2. i 5., članku 47. stavku 1. točkama 1., 11. i 15., članku 49. stavku 1. točkama 1., 7. i 8., članku 51. stavku 1. točkama 1., 7. i 8. i članku 60. riječi: »nadležni ured« u određenom broju i padežu zamjenjuju se riječima: »nadležno upravno tijelo« u odgovarajućem broju i padežu.
+
+### Članak 4.
+
+U članku 54. riječi: »nadležni će ured« zamjenjuju se riječima: »nadležno upravno tijelo će«.
+
+### Članak 5.
+
+U članku 25. stavcima 2. i 4. Zakona o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 99/18.) riječi: »nadležni ured« u određenom padežu zamjenjuju se riječima: »nadležno upravno tijelo« u odgovarajućem padežu.
+
+U stavku 5. riječ: »središnje« u određenom padežu briše se.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/154
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o dopunama Zakona o ugostiteljskoj djelatnosti (NN 32/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/700*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI
+
+Proglašavam Zakon o dopunama Zakona o ugostiteljskoj djelatnosti, koji je Hrvatski sabor donio na sjednici 19. ožujka 2020.
+
+Klasa: 011-01/20-01/27  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 19. ožujka 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI**
+
+### Članak 1.
+
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19. i 98/19.) iza članka 9. dodaje se članak 9.a koji glasi:
+
+»Članak 9.a
+
+(1) Stožer civilne zaštite Republike Hrvatske može odlukom privremeno urediti ili zabraniti rad svih ili pojedinih skupina i/ili vrsta ugostiteljskih objekata ili ograničiti radno vrijeme pojedinih ili svih skupina i/ili vrsta ugostiteljskih objekata propisanih člankom 9. ovoga Zakona te pružatelja ugostiteljskih usluga iz članka 41. ovoga Zakona na cijelom ili pojedinom području Republike Hrvatske, u uvjetima posebnih okolnosti.
+
+(2) »Posebne okolnosti« podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu.
+
+(3) Za vrijeme važenja odluke Stožera civilne zaštite Republike Hrvatske iz stavka 1. ovoga članka na ugostiteljske objekte koji su obuhvaćeni tom odlukom ne primjenjuju se odredbe članka 9. ovoga Zakona.
+
+(4) Odluka iz stavka 1. ovoga članka objavljuje se u »Narodnim novinama«.«.
+
+### Članak 2.
+
+U članku 46. stavku 1. iza točke 5. briše se točka i dodaje se točka 6. koja glasi:
+
+»6. pruža ugostiteljske usluge suprotno odluci Stožera civilne zaštite Republike Hrvatske iz članka 9.a ovoga Zakona za vrijeme dok je takva odluka na snazi (članak 9.a).«.
+
+### Članak 3.
+
+U članku 50. stavku 1. iza točke 7. briše se točka i dodaje se točka 8. koja glasi:
+
+»8. pruža ugostiteljske usluge suprotno odluci Stožera civilne zaštite Republike Hrvatske iz članka 9.a ovoga Zakona za vrijeme dok je takva odluka na snazi (članak 9.a).«.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/35
+
+Zagreb, 19. ožujka 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o ugostiteljskoj djelatnosti (NN 42/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/888*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O UGOSTITELJSKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o ugostiteljskoj djelatnosti, koji je Hrvatski sabor donio na sjednici 7. travnja 2020.
+
+Klasa: 011-01/20-01/45
+
+Urbroj: 71-06-01/1-20-2
+
+Zagreb, 7. travnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O UGOSTITELJSKOJ DJELATNOSTI**
+
+#### Članak 1.
+
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19. i 32/20.) u članku 5. stavku 1. iza riječi: »zadruge« zarez i riječi: »trgovci pojedinci« brišu se.
+
+#### Članak 2.
+
+U članku 10. stavku 1. točki 14. iza riječi: »Ministarstva«, dodaje se zarez i riječi: »osim u uvjetima posebnih okolnosti iz članka 9.a stavka 2. ovoga Zakona kada može pružati samo pojedine od tih usluga.«.
+
+#### Članak 3.
+
+U članku 12. stavku 2. iza riječi: »osobe« zarez i riječi: »trgovci pojedinci« brišu se.
+
+#### Članak 4.
+
+U članku 22. iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Iznimno od stavka 1. ovoga članka, Ministarstvo će po službenoj dužnosti postupak ponovne kategorizacije ugostiteljskih objekata kojima je rok za pokretanje postupka ponovne kategorizacije dok traju i šest mjeseci po prestanku posebnih okolnosti iz članka 9.a stavka 2. ovoga Zakona, pokrenuti po isteku jedne godine od prestanka posebnih okolnosti iz članka 9.a stavka 2. ovoga Zakona.«.
+
+#### Članak 5.
+
+U članku 25. stavku 1. riječi: »31. prosinca 2020.« zamjenjuju se riječima: »31. prosinca 2021.«.
+
+#### Članak 6.
+
+U članku 32. stavku 1. točki 7. iza riječi: »upravnog tijela« briše se točka i dodaju se zarez i riječi: »osim u uvjetima posebnih okolnosti iz članka 9.a stavka 2. ovoga Zakona kada može pružati samo pojedine od tih usluga.«.
+
+#### Članak 7.
+
+U članku 34. stavku 4. riječi: »31. prosinca 2020.« zamjenjuju se riječima: »31. prosinca 2021.«.
+
+U stavku 5. riječi: »31. prosinca 2020.« zamjenjuju se riječima: »31. prosinca 2021.«.
+
+#### Članak 8.
+
+Iza članka 41. dodaju se članak 41.a i naslov iznad članka koji glase:
+
+*»Obavljanje ugostiteljske djelatnosti, pružanje ugostiteljskih usluga u domaćinstvu i na obiteljskom poljoprivrednom gospodarstvu u uvjetima posebnih okolnosti*
+
+#### Članak 41.a
+
+Ovlašćuje se ministar da pravilnikom, uz prethodnu suglasnost ministra nadležnog za zdravstvo i ministra nadležnog za područje zaštite od požara, u uvjetima posebnih okolnosti iz članka 9.a stavka 2. ovoga Zakona, propiše odstupanja od:
+
+1. obveze ispunjavanja uvjeta za vrstu, odnosno vrstu i kategoriju ugostiteljskih objekta iz članaka 15. i 16. ovoga Zakona
+
+2. obveze ispunjavanja uvjeta za kategoriju objekata u domaćinstvu iz članka 31. ovoga Zakona.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 9.
+
+Ugostitelji, iznajmljivači i nositelji ili članovi obiteljskog poljoprivrednog gospodarstva koji na dan stupanja na snagu ovoga Zakona obavljaju ugostiteljsku djelatnost, odnosno pružaju ugostiteljske usluge temeljem privremenih rješenja iz članka 25. stavka 1., članka 34. stavaka 4. i 5. i članka 39. stavka 9., a u vezi s člankom 34. stavcima 4. i 5. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19. i 32/20.), temeljem tih privremenih rješenja nastavljaju obavljati ugostiteljsku djelatnost, odnosno pružati ugostiteljske usluge najdulje do 31. prosinca 2021.
+
+#### Članak 10.
+
+Ugostitelji koji su ishodili rješenje o privremenom obavljanju ugostiteljske djelatnosti temeljem članka 21. stavka 3. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19. i 32/20.), mogu nastaviti obavljati djelatnost temeljem ishođenog rješenja do isteka roka godinu dana nakon prestanka posebnih okolnosti iz članka 9.a stavka 2. ovoga Zakona.
+
+#### Članak 11.
+
+(1) Iznajmljivači koji na dan stupanja na snagu ovoga Zakona pružaju ugostiteljske usluge u domaćinstvu temeljem rješenja o odobrenju izdanih do 1. rujna 2007., odnosno prije stupanja na snagu Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu (»Narodne novine«, br. 88/07.) ili temeljem rješenja izdanog povodom zahtjeva podnesenog prije 1. rujna 2007. dužni su, radi nastavka pružanja ugostiteljskih usluga s pravom isticanja oznake za kategoriju (zvjezdice) na objektu u kojem pružaju ugostiteljske usluge, podnijeti uredni zahtjev za izdavanje rješenja o odobrenju za pružanje ugostiteljskih usluga u domaćinstvu sukladno odredbama Zakona i Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu (»Narodne novine«, br. 9/16., 54/16., 61/16. – ispravak, 69/17. i 120/19.), u roku od:
+
+– dvije godine od dana stupanja na snagu ovoga Zakona, ako su rješenje o odobrenju ishodili do 31. prosinca 2000.
+
+– tri godine od stupanja na snagu ovoga Zakona, ako su rješenje o odobrenju ishodili u razdoblju od 1. siječnja 2001. do 31. prosinca 2004.
+
+– četiri godine od stupanja na snagu ovoga Zakona, ako su rješenje o odobrenju ishodili nakon 31. prosinca 2004.
+
+(2) Nadležno upravno tijelo, na zahtjev iznajmljivača, izdaje rješenje iz stavka 1. ovoga članka.
+
+(3) U postupku izdavanja rješenja iz stavka 1. ovoga članka ne utvrđuje se ispunjavanje uvjeta iz članka 34. stavka 2. točaka 1. i 3. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19. i 32/20.).
+
+(4) Na rješenje nadležnog upravnog tijela iz stavka 1. ovoga članka stranka ima pravo izjaviti žalbu Ministarstvu.
+
+(5) Primjerak izvršnog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnom uredu turističke inspekcije tijela državne uprave nadležnog za inspekcijske poslove u području ugostiteljstva i nadležnom uredu sanitarne inspekcije tijela državne uprave nadležnog za poslove sanitarne inspekcije, nadležnoj ispostavi područnog ureda tijela državne uprave nadležnog za porezni sustav te tijelu državne uprave nadležnom za poslove statistike.
+
+(6) Iznajmljivači iz stavka 1. ovoga članka koji ne podnesu zahtjev za izdavanje rješenja iz stavka 1. ovoga članka nastavljaju pružati ugostiteljske usluge, ali gube pravo isticati oznaku za kategoriju (zvjezdice) na objektu u kojem pružaju ugostiteljske usluge i u promidžbenim materijalima.
+
+#### Članak 12.
+
+(1) Novčanom kaznom u iznosu od 2000,00 do 5000,00 kuna kaznit će se za prekršaj iznajmljivač ako ističe na objektu oznaku za kategoriju (zvjezdice) bez rješenja iz članka 11. stavka 1. ovoga Zakona ili ističe zvjezdice u promidžbenim materijalima bez rješenja iz članka 11. stavka 1. ovoga Zakona (članak 11. stavak 6.).
+
+(2) U slučaju ponavljanja prekršaja iz stavka 1. ovoga članka kaznit će se iznajmljivač novčanom kaznom u iznosu od 4000,00 do 10.000,00 kuna.
+
+(3) Za prekršaje iz stavka 1. ovoga članka turistički inspektor može naplatiti novčanu kaznu na mjestu izvršenja prekršaja u iznosu od 1000,00 kuna, osim u slučaju iz stavka 2. ovoga članka.
+
+#### Članak 13.
+
+Pravilnik iz članka 8. ovoga Zakona ministar će donijeti u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 14.
+
+Pravilnik iz članka 8. ovoga Zakona prestaje važiti u roku od tri mjeseca od dana prestanka posebnih okolnosti iz članka 9.a stavka 2. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19. i 32/20.).
+
+#### Članak 15.
+
+Odredbe članaka 25. i 26. Zakona o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 99/18.) prestaju važiti danom stupanja na snagu ovoga Zakona.
+
+#### Članak 16.
+
+Postupci započeti temeljem članaka 25. i 26. Zakona o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 99/18.), do dana stupanja na snagu ovoga Zakona, dovršit će se po odredbama članka 11. ovoga Zakona.
+
+#### Članak 17.
+
+Ministarstvo turizma će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 18.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/60
+
+Zagreb, 7. travnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti (NN 126/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/126/2132*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama Zakona o ugostiteljskoj djelatnosti, koji je Hrvatski sabor donio na sjednici 12. studenoga 2021.
+
+Klasa: 011-01/21-01/87
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 17. studenoga 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI**
+
+#### Članak 1.
+
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19., 32/20. i 42/20.) u članku 15. stavku 2. riječi: »uz prethodno mišljenje« zamjenjuju se riječima: »uz prethodnu suglasnost«.
+
+#### Članak 2.
+
+U članku 25. stavku 1. riječi: »31. prosinca 2021.« zamjenjuju se riječima: »31. prosinca 2024.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Primjerak izvršnog privremenog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnoj područnoj jedinici tijela državne uprave nadležnog za poslove turističke inspekcije i poslove sanitarne inspekcije, mjesno nadležnoj područnoj jedinici tijela državne uprave nadležnog za porezni sustav, tijelu državne uprave nadležnom za poslove statistike te nadležnom upravnom tijelu za izdavanje rješenja o izvedenom stanju koje će dostaviti nadležnom upravnom tijelu primjerak izvršnog rješenja kojim se odlučilo o zahtjevu za pokretanje postupka ozakonjenja nezakonito izgrađene građevine, a za ugostiteljske objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
+
+#### Članak 3.
+
+U članku 30. stavak 6. briše se.
+
+#### Članak 4.
+
+U članku 34. stavku 4. riječi: »31. prosinca 2021.« zamjenjuju se riječima: »31. prosinca 2024.«.
+
+U stavku 5. riječi: »31. prosinca 2021.« zamjenjuju se riječima: »31. prosinca 2024.«.
+
+#### Članak 5.
+
+U članku 39. stavku 8. riječi: »uz prethodno mišljenje« zamjenjuju se riječima: »uz prethodnu suglasnost«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 6.
+
+Ugostitelji, iznajmljivači i nositelji ili članovi obiteljskog poljoprivrednoga gospodarstva koji na dan stupanja na snagu ovoga Zakona obavljaju ugostiteljsku djelatnost, odnosno pružaju ugostiteljske usluge na temelju privremenog rješenja iz članka 25. stavka 1., članka 34. stavaka 4. i 5. i članka 39. stavka 9., a u vezi s člankom 34. stavcima 4. i 5. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19., 32/20. i 42/20.), na temelju istih privremenih rješenja nastavljaju obavljati ugostiteljsku djelatnost, odnosno pružati ugostiteljske usluge, najdulje do 31. prosinca 2024.
+
+#### Članak 7.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/109  
+Zagreb, 12. studenoga 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti (NN 152/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2514*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti, koji je Hrvatski sabor donio na sjednici 13. prosinca 2024. godine.
+
+Klasa: 011-02/24-02/99
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 17. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O UGOSTITELJSKOJ DJELATNOSTI**
+
+#### Članak 1.
+
+U Zakonu o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19., 32/20., 42/20. i 126/21.) iza članka 21. dodaju se naslov iznad članka i članak 21.a koji glase:
+
+*»Izdavanje rješenja sukladno odlukama predstavničkih tijela jedinica lokalne samouprave*
+
+#### Članak 21.a
+
+(1) Nadležno upravno tijelo, odnosno Ministarstvo rješenje iz članka 20. stavka 1. i članka 21. stavka 1. ovoga Zakona donosi u skladu s odlukom predstavničkog tijela jedinice lokalne samouprave o broju, vrsti i kategoriji ugostiteljskih objekata te objekata u kojima se pružaju ugostiteljske usluge smještaja u dijelu ili na cijelom području jedinice lokalne samouprave te o kapacitetima smještajnih objekata u destinaciji, a koje su donesene sukladno propisu kojim se uređuje sustav turizma.
+
+(2) Nadležno upravno tijelo, odnosno Ministarstvo odlučuje o zahtjevima za izdavanje rješenja iz stavka 1. ovoga članka prema redoslijedu zaprimanja, o čemu je dužno voditi zasebnu evidenciju.«.
+
+#### Članak 2.
+
+U članku 24. stavku 1. na kraju točke 5. briše se točka i dodaje točka 6. koja glasi:
+
+»6. da objekt u kojem će se obavljati ugostiteljska djelatnost ispunjava uvjet koji se odnosi na prethodnu pisanu suglasnost suvlasnika za kratkoročni najam sukladno propisu kojim se uređuje upravljanje i održavanje zgrada.«.
+
+#### Članak 3.
+
+Članak 25. briše se.
+
+#### Članak 4.
+
+Iza članka 30. dodaju se naslov iznad članka i članak 30.a koji glase:
+
+*»Domaćin*
+
+#### Članak 30.a
+
+(1) Domaćin je iznajmljivač koji ima prijavljeno prebivalište na području jedinice područne (regionalne) samouprave ili otoku Pagu gdje se nalazi objekt u kojem pruža ugostiteljsku uslugu smještaja u domaćinstvu iz članka 30. stavka 3. točke 1. ovoga Zakona.
+
+(2) Domaćin uz ugostiteljsku uslugu smještaja u domaćinstvu iz stavka 1. ovoga članka može pružati i uslugu doručka gostima kojima pruža usluge smještaja.
+
+(3) Domaćinom se ne smatra iznajmljivač koji pruža usluge iz stavka 1. ovoga članka u višestambenoj i stambeno-poslovnoj zgradi kako je definirana propisom kojim se uređuje upravljanje i održavanje zgrada.
+
+(4) Odredbe ovoga Zakona koje se odnose na iznajmljivača na odgovarajući se način primjenjuju i na domaćina.«.
+
+#### Članak 5.
+
+U članku 32. stavku 1. točka 1. mijenja se i glasi:
+
+»1. vidno istaknuti na ulazu u objekt ili u neposrednoj blizini, na propisani način, natpis s oznakom vrste, kategorije objekta te vrste posebnog standarda, utvrđene rješenjem nadležnog upravnog tijela, ili samo natpis s oznakom vrste objekta ako je iznajmljivač izgubio pravo isticanja oznake za kategoriju«.
+
+#### Članak 6.
+
+U članku 34. stavku 2. na kraju točke 3. briše se točka i dodaje točka 4. koja glasi:
+
+»4. da objekt u kojem se pružaju ugostiteljske usluge u domaćinstvu ispunjava uvjet koji se odnosi na prethodnu pisanu suglasnost suvlasnika za kratkoročni najam sukladno propisu kojim se uređuje upravljanje i održavanje zgradama.«.
+
+Stavci 4. i 5. brišu se.
+
+Dosadašnji stavak 6., koji postaje stavak 4., mijenja se i glasi:
+
+»(4) Rješenje iz stavka 1. ovoga članka kojim se usvaja zahtjev upisuje se u Središnji registar.«.
+
+Dosadašnji stavak 7., koji postaje stavak 5., mijenja se i glasi:
+
+»(5) Na rješenje nadležnog upravnog tijela iz stavka 1. ovoga članka stranka ima pravo izjaviti žalbu Ministarstvu.«.
+
+Dosadašnji stavak 8. postaje stavak 6.
+
+Stavak 9. briše se.
+
+#### Članak 7.
+
+Iza članka 35. dodaju se naslov iznad članka i članak 35.a koji glase:
+
+*»Izdavanje rješenja sukladno odlukama predstavničkih tijela jedinica lokalne samouprave*
+
+#### Članak 35.a
+
+(1) Nadležno upravno tijelo rješenje iz članka 34. stavka 1. i članka 35. stavka 1. ovoga Zakona donosi u skladu s odlukom predstavničkog tijela jedinice lokalne samouprave o broju, vrsti i kategoriji ugostiteljskih objekata te objekata u kojima se pružaju ugostiteljske usluge smještaja u dijelu ili na cijelom području jedinice lokalne samouprave te odlukom o kapacitetima smještajnih objekata u destinaciji, a koje su donesene sukladno propisu kojim se uređuje sustav turizma.
+
+(2) Nadležno upravno tijelo odlučuje o zahtjevima za izdavanje rješenja iz stavka 1. ovoga članka prema redoslijedu zaprimanja, o čemu je dužno voditi zasebnu evidenciju.«.
+
+#### Članak 8.
+
+U članku 39. stavak 9. mijenja se i glasi:
+
+»(9) Na pružanje usluga na obiteljskom poljoprivrednom gospodarstvu na odgovarajući se način primjenjuju odredbe članka 30. stavka 4., članka 32. stavaka 1., 2. i 3., članka 33., članka 34. stavka 6., članka 34.a stavka 2., članka 35. stavaka 1. i 3. te članaka 35.a, 36., 37. i 38. ovoga Zakona.«.
+
+#### Članak 9.
+
+U članku 46. stavku 1. riječi: »od 5000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 3980,00 eura«.
+
+U stavku 2. riječi: »od 3000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 1320,00 eura«.
+
+U stavku 3. riječi: »od 1000,00 do 2000,00 kuna« zamjenjuju se riječima: »od 130,00 do 260,00 eura«.
+
+U stavku 4. riječi: »od 1000,00 do 2000,00 kuna« zamjenjuju se riječima: »od 130,00 do 260,00 eura«.
+
+U stavku 5. riječi: »od 10.000,00 do 90.000,00 kuna« zamjenjuju se riječima: »1320,00 do 11.940,00 eura«.
+
+U stavku 6. riječi: »od 2000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«, a riječi: »od 1500,00 kuna« zamjenjuju se riječima: »od 190,00 eura«.
+
+U stavku 7. riječi: »od 1000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 8. riječi: »od 1000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+#### Članak 10.
+
+U članku 47. stavku 1. riječi: »od 2500,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 330,00 do 2650,00 eura«.
+
+U stavku 2. riječi: »od 2000,00 do 7000,00 kuna« zamjenjuju se riječima: »od 260,00 do 920,00 eura«.
+
+U stavku 3. riječi: »od 5000,00 do 40.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 5300,00 eura«.
+
+U stavku 4. riječi: »od 1500,00 kuna« zamjenjuju se riječima: »od 190,00 eura«, a riječi: »od 1000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 5. riječi: »od 1500,00 kuna« zamjenjuju se riječima: »od 190,00 eura«, a riječi: »od 1000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+#### Članak 11.
+
+U članku 48. stavku 1. riječi: »od 2500,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 330,00 do 1320,00 eura«.
+
+Točka 8. mijenja se i glasi:
+
+»8. pruža usluge iz članka 30. stavka 3. ovoga Zakona suprotno izdanom rješenju o odobrenju za pružanje ugostiteljskih usluga u domaćinstvu iz članka 34. stavka 1. ovoga Zakona (članak 34. stavak 1.)«.
+
+U stavku 2. riječi: »od 5000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 2650,00 eura«.
+
+U stavku 3. riječi: »od 1000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+#### Članak 12.
+
+U članku 49. stavku 1. riječi: »od 2000,00 do 5000,00 kuna« zamjenjuju se riječima: »od 260,00 do 660,00 eura«.
+
+Točka 1. mijenja se i glasi:
+
+»1. vidno ne istakne na ulazu u objekt ili u neposrednoj blizini, na propisani način, natpis s oznakom vrste, kategorije objekta te vrste posebnog standarda, utvrđene rješenjem nadležnog upravnog tijela, ili samo natpis s oznakom vrste objekta ako je iznajmljivač izgubio pravo isticanja oznake za kategoriju (članak 32. stavak 1. točka 1.)«.
+
+U stavku 2. riječi: »od 4000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 530,00 do 1320,00 eura«.
+
+U stavku 3. riječi: »od 750,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+#### Članak 13.
+
+U članku 50. stavku 1. riječi: »od 2500,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 330,00 do 1320,00 eura«.
+
+Točka 6. mijenja se i glasi:
+
+»6. pruža usluge iz članka 39. stavka 2. ovoga Zakona suprotno izdanom rješenju o odobrenju za pružanje ugostiteljskih usluga na obiteljskom poljoprivrednom gospodarstvu iz članka 40. stavka 1. ovoga Zakona (članak 40. stavak 1.).«.
+
+U stavku 2. riječi: »od 5000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 2650,00 eura«.
+
+U stavku 3. riječi: »od 1000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+#### Članak 14.
+
+U članku 51. stavku 1. riječi: »do 2000,00 do 5000,00 kuna« zamjenjuju se riječima: »od 260,00 do 660,00 eura«.
+
+U stavku 2. riječi: »od 4000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 530,00 do 1320,00 eura«.
+
+U stavku 3. riječi: »od 1000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+#### Članak 15.
+
+U članku 52. stavku 1. riječi: »od 1500,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 1320,00 eura«.
+
+U stavku 2. riječi: »od 1000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+*Započeti postupci*
+
+#### Članak 16.
+
+Postupci započeti do stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19., 32/20., 42/20. i 126/21.).
+
+*Prestanak važenja rješenja zbog isteka roka za usklađivanje*
+
+#### Članak 17.
+
+Ugostitelji, iznajmljivači i nositelji ili članovi obiteljskoga poljoprivrednoga gospodarstva koji na dan stupanja na snagu ovoga Zakona obavljaju ugostiteljsku djelatnost odnosno pružaju ugostiteljske usluge na temelju privremenog rješenja iz članka 25. stavka 1., članka 34. stavaka 4. i 5. i članka 39. stavka 9., a u vezi s člankom 34. stavcima 4. i 5. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19., 32/20., 42/20. i 126/21.), na temelju istih privremenih rješenja nastavljaju obavljati ugostiteljsku djelatnost odnosno pružati ugostiteljske usluge, najdulje do 31. prosinca 2026.
+
+*Obveze ugostitelja i iznajmljivača u prijelaznom razdoblju*
+
+#### Članak 18.
+
+(1) Ugostitelji i iznajmljivači koji na dan stupanja na snagu ovoga Zakona obavljaju ugostiteljsku djelatnost odnosno pružaju ugostiteljske usluge u domaćinstvu i osobe koje su do dana stupanja na snagu ovoga Zakona podnijele zahtjev i ishodile rješenje o obavljanju ugostiteljske djelatnosti odnosno odobrenju za pružanje ugostiteljskih usluga u domaćinstvu sukladno odredbama Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19., 32/20., 42/20. i 126/21.), za objekt u višestambenoj i stambeno-poslovnoj zgradi kako je definirana odredbama zakona kojim se uređuje upravljanje i održavanje zgrada, dužni su pribaviti suglasnost iz članaka 2. i 6. ovoga Zakona u roku od pet godina od dana stupanja na snagu ovoga Zakona.
+
+(2) Ugostiteljima i iznajmljivačima koji u roku iz stavka 1. ovoga članka ne pribave suglasnost iz članaka 2. i 6. ovoga Zakona pravo na obavljanje ugostiteljske djelatnosti odnosno pružanje ugostiteljskih usluga u domaćinstvu prestaje po sili zakona istekom roka od pet godina od dana stupanja na snagu ovoga Zakona.
+
+(3) Rješenja o obavljanju ugostiteljske djelatnosti odnosno odobrenju za pružanje ugostiteljskih usluga u domaćinstvu izdana sukladno propisu kojim se uređuje ugostiteljska djelatnost fizičkim i pravnim osobama za objekt u višestambenoj i stambeno-poslovnoj zgradi kako je definirana odredbama zakona kojim se uređuje upravljanje i održavanje zgrada, za koje u ostavljenom roku nije pribavljena suglasnost iz članaka 2. i 6. ovoga Zakona ukinut će se po službenoj dužnosti istekom roka iz stavka 1. ovoga članka.
+
+*Pružanje ugostiteljskih usluga u domaćinstvu sukladno izdanom rješenju*
+
+#### Članak 19.
+
+(1) Iznajmljivači koji na dan stupanja na snagu ovoga Zakona pružaju ugostiteljske usluge u domaćinstvu sukladno rješenju o odobrenju donesenom na temelju propisa kojima se uređuje ugostiteljska djelatnost nastavljaju pružati ugostiteljske usluge u domaćinstvu sukladno izdanom rješenju.
+
+(2) Iznajmljivač koji na dan stupanja na snagu ovoga Zakona pruža ugostiteljske usluge u domaćinstvu sukladno rješenju o odobrenju donesenom na temelju propisa kojima se uređuje ugostiteljska djelatnost i ispunjava uvjete iz članka 4. ovoga Zakona smatra se domaćinom.
+
+*Stupanje na snagu Zakona*
+
+#### Članak 20.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«, osim članaka 2., 3., 4., 6., 8., 18. i 19. koji stupaju na snagu 1. siječnja 2025.
+
+Klasa: 022-02/24-01/135
+
+Zagreb, 13. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

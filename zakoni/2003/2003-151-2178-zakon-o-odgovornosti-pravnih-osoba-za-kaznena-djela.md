@@ -6,14 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-09-24
-last_amended: 2012-12-20
+last_amended: 2023-10-04
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "151/03, 110/07, 143/12"
+narodne_novine: "151/03, 110/07, 143/12, 114/22, 114/23"
 amendments:
   - "NN 110/2007 (3228) Zakon o izmjenama Zakona o odgovornosti pravnih osoba za kaznena djela"
   - "NN 143/2012 (3032) Zakon o izmjenama i dopunama Zakona o odgovornosti pravnih osoba za kaznena djela"
+  - "NN 114/2022 (1718) Zakon o izmjenama Zakona o odgovornosti pravnih osoba za kaznena djela"
+  - "NN 114/2023 (1619) Zakon o izmjenama i dopuni Zakona o odgovornosti pravnih osoba za kaznena djela"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/151/2178"
 retrieved: 2026-10-12
 ---
@@ -22,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 151/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/151/2178).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 110/2007, NN 143/2012.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 110/2007, NN 143/2012, NN 114/2022, NN 114/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -611,3 +613,131 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o odgovornosti pravnih osoba za kaznena djela (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1718*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ODGOVORNOSTI PRAVNIH OSOBA ZA KAZNENA DJELA
+
+Proglašavam Zakon o izmjenama Zakona o odgovornosti pravnih osoba za kaznena djela, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/116
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ODGOVORNOSTI PRAVNIH OSOBA ZA KAZNENA DJELA**
+
+### Članak 1.
+
+U Zakonu o odgovornosti pravnih osoba za kaznena djela (»Narodne novine«, br. 151/03., 110/07., 45/11. i 143/12.) u članku 10. stavku 1. riječi: »5.000,00 do 8.000.000,00 kuna« zamjenjuju se riječima: »660,00 do 1.061.780,00 eura«.
+
+U stavku 2. riječi: »15.000,00 do 10.000.000,00 kuna« zamjenjuju se riječima: »1990,00 do 1.327.220,00 eura«.
+
+U stavku 3. riječi : »30.000,00 do 12.000.000,00 kuna« zamjenjuju se riječima: »3980,00 do 1.592.670,00 eura«.
+
+U stavku 4. riječi: »50.000,00 do 15.000.000,00 kuna« zamjenjuju se riječima: »6630,00 do 1.990.840,00 eura«.
+
+### Članak 2.
+
+U članku 13. stavku 2. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6636,14 eura«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvat­skoj.
+
+Klasa: 022-02/22-01/116
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o odgovornosti pravnih osoba za kaznena djela (NN 114/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1619*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O ODGOVORNOSTI PRAVNIH OSOBA ZA KAZNENA DJELA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o odgovornosti pravnih osoba za kaznena djela, koji je Hrvatski sabor donio na sjednici 28. rujna 2023.
+
+Klasa: 011-02/23-02/81  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 3. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O ODGOVORNOSTI PRAVNIH OSOBA ZA KAZNENA DJELA**
+
+### Članak 1.
+
+U Zakonu o odgovornosti pravnih osoba za kaznena djela (»Narodne novine«, br. 151/03., 110/07., 45/11., 143/12. i 114/22.) članak 3. mijenja se i glasi:
+
+»(1) Pravna osoba kaznit će se za kazneno djelo odgovorne osobe ako se njime povređuje neka dužnost pravne osobe ili je njime pravna osoba ostvarila ili trebala ostvariti korist za sebe ili drugoga.
+
+(2) Pod uvjetima iz stavka 1. ovoga članka pravna osoba kaznit će se za kazneno djelo odgovorne osobe kojoj je povjereno obavljanje poslova iz područja djelovanja pravne osobe i ako je do počinjenja kaznenog djela došlo zbog propuštanja nadzora ili kontrole od strane odgovorne osobe koja vodi poslove pravne osobe.
+
+(3) Pod uvjetima iz stavaka 1. i 2. ovoga članka pravna osoba kaznit će se za kaznena djela propisana Kaznenim zakonom i drugim zakonima u kojima su propisana kaznena djela.«.
+
+### Članak 2.
+
+U članku 4. iza riječi: »joj je« dodaju se riječi: »na bilo kojoj razini«.
+
+### Članak 3.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Ako je za kazneno djelo propisana novčana kazna ili kaz­na zatvora s posebnom najvećom mjerom od jedne godine zatvora, pravna se osoba može kazniti novčanom kaznom od 5000,00 do 10.000.000,00 eura.
+
+(2) Ako je za kazneno djelo propisana kazna zatvora s posebnom najvećom mjerom od pet godina zatvora, pravna se osoba može kazniti novčanom kaznom od 10.000,00 do 15.000.000,00 eura.
+
+(3) Ako je za kazneno djelo propisana kazna zatvora s posebnom najvećom mjerom od deset godina zatvora, pravna se osoba može kazniti novčanom kaznom od 15.000,00 do 20.000.000,00 eura.
+
+(4) Ako je za kazneno djelo propisana kazna zatvora s posebnom najvećom mjerom od petnaest godina zatvora ili teža kazna, pravna se osoba može kazniti novčanom kaznom od 20.000,00 do 25.000.000,00 eura.
+
+(5) Ako se kaznama iz stavaka 1. do 4. ovoga članka svrha kaž­njavanja ne bi ostvarila, pravna osoba može se kazniti novčanom kaznom u iznosu do 10 % ukupnoga godišnjeg prihoda pravne osobe ostvarenog u poslovnoj godini koja prethodi godini donošenja presude.«.
+
+### Članak 4.
+
+U članku 13. stavku 2. broj: »6636,14« zamjenjuje se brojem: »20.000,00«.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/77
+
+Zagreb, 28. rujna 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

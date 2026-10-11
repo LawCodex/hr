@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-01-17
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "7/07"
-amendments: []
+last_amended: 2017-08-09
+status: in_force
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "7/07, 78/17"
+amendments:
+  - "NN 78/2017 (1925) Uredba o izmjenama Uredbe o osnivanju Državnog arhiva u Šibeniku"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/7/290"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o osnivanju Državnog arhiva u Šibeniku
 
 > Izvor: Narodne novine, NN 7/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/7/290).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 78/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -95,3 +99,40 @@ Zagreb, 11. siječnja 2007.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o osnivanju Državnog arhiva u Šibeniku (NN 78/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/78/1925*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 39. stavka 2. i članka 49. stavka 1. Zakona o arhivskom gradivu i arhivima (»Narodne novine«, br. 105/97, 64/00, 65/09, 125/11 i 46/17) i članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97 – ispravak, 47/99 – ispravak i 35/08), Vlada Republike Hrvatske je na sjednici održanoj 4. kolovoza 2017. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU DRŽAVNOG ARHIVA U ŠIBENIKU**
+
+### Članak 1.
+
+U Uredbi o osnivanju Državnog arhiva u Šibeniku (»Narodne novine«, broj 7/07), u članku 2. stavku 3. brišu se zarez i riječi: »Velimira Škorpika 5«.
+
+### Članak 2.
+
+U članku 6. riječi: »Velimira Škorpika 5« zamjenjuju se riječima: »Velimira Škorpika 6/A«.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-03/59
+
+Urbroj: 50301-27/20-17-2
+
+Zagreb, 4. kolovoza 2017.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

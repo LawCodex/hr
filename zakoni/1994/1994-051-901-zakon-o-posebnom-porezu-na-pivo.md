@@ -11,9 +11,10 @@ status: unknown
 status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
 text_version: official_consolidated
 consolidated_text: "NN 136/2002 (2200) https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2200"
-narodne_novine: "51/94, 139/97, 107/01, 136/02"
+narodne_novine: "51/94, 139/97, 55/00, 107/01, 136/02"
 amendments:
   - "NN 139/1997 (1979) Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo"
+  - "NN 55/2000 (1215) Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo"
   - "NN 107/2001 (1763) Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2200"
 retrieved: 2026-10-12

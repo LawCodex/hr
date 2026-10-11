@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-12-18
-last_amended: 2013-05-07
+last_amended: 2025-12-15
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "147/08, 54/13"
+narodne_novine: "147/08, 54/13, 51/23, 151/25"
 amendments:
   - "NN 54/2013 (1088) Zakon o izmjenama i dopunama Zakona o financijskim konglomeratima"
+  - "NN 51/2023 (841) Zakon o izmjenama i dopunama Zakona o financijskim konglomeratima"
+  - "NN 151/2025 (2256) Zakon o dopunama Zakona o financijskim konglomeratima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/147/4044"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 147/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/147/4044).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 54/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 54/2013, NN 51/2023, NN 151/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1436,3 +1438,192 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o financijskim konglomeratima (NN 51/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/51/841*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIJSKIM KONGLOMERATIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o financijskim konglomeratima, koji je Hrvatski sabor donio na sjednici 5. svibnja 2023.
+
+Klasa: 011-02/23-02/37
+
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 9. svibnja 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIJSKIM KONGLOMERATIMA**
+
+### Članak 1.
+
+U Zakonu o financijskim konglomeratima (»Narodne novine«, br. 147/08. i 54/13.) u članku 2. iza točke 36. dodaje se točka 37. koja glasi:
+
+»37. ESB je Europska središnja banka koja u skladu s Uredbom Vijeća (EU) br. 1024/2013 od 15. listopada 2013. o dodjeli određenih zadaća Europskoj središnjoj banci u vezi s politikama bonitetnog nadzora kreditnih institucija (SL L 287, 29. 10. 2013., u daljnjem tekstu: Uredba (EU) br. 1024/2013) unutar jedinstvenog nadzornog mehanizma sudjeluje u dodatnoj superviziji financijskih konglomerata.«.
+
+### Članak 2.
+
+U članku 3. stavku 2. podstavku 1. riječi: »podstavka 4.« zamjenjuju se riječima: »podstavka 2.«.
+
+### Članak 3.
+
+U članku 4. stavku 3. riječi: »članka 3. stavka 1. točke 5.« zamjenjuju se riječima: »članka 3. stavka 2. podstavka 3. ili članka 3. stavka 3. podstavka 3.«, a riječi: »4,5 milijardi kuna« zamjenjuju se riječima: »6 milijardi eura«.
+
+### Članak 4.
+
+U članku 5. stavku 2. riječi: »4,5 milijardi kuna« zamjenjuju se riječima: »6 milijardi eura«.
+
+### Članak 5.
+
+U članku 9. stavku 2. riječi: »3,6 milijardi kuna« zamjenjuju se riječima: »5 milijardi eura«.
+
+### Članak 6.
+
+U članku 23. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Kada izvršava svoje zadaće iz članka 4. stavka 1. točke (h) Uredbe (EU) br. 1024/2013, Europska središnja banka ima ovlasti Hrvatske narodne banke iz ovoga Zakona.«.
+
+### Članak 7.
+
+U članku 36. stavku 1. u uvodnoj rečenici riječi: »od 500.000,00 do 1.000.000,00 kuna« zamjenjuju se riječima: »od 66.360,00 do 132.720,00 eura«.
+
+U stavku 2. riječi: »od 25.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 3310,00 do 6630,00 eura«.
+
+U stavku 3. riječi: »od 250.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »od 33.180,00 do 66.360,00 eura«.
+
+U stavku 4. riječi: »od 25.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 3310,00 do 6630,00 eura«.
+
+### Članak 8.
+
+U članku 37. stavku 1. u uvodnoj rečenici riječi: »od 250.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »od 33.180,00 do 66.360,00 eura«.
+
+U stavku 2. riječi: »od 30.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 3980,00 do 6630,00 eura«.
+
+U stavku 3. riječi: »od 250.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »od 33.180,00 do 66.360,00 eura«.
+
+U stavku 4. riječi: »od 25.000,00 do 45.000,00 kuna« zamjenjuju se riječima: »od 3310,00 do 5970,00 eura«.
+
+U stavku 5. riječi: »od 150.000,00 do 250.000,00 kuna« zamjenjuju se riječima: »od 19.900,00 do 33.180,00 eura«.
+
+U stavku 6. riječi: »od 25.000,00 do 45.000,00 kuna« zamjenjuju se riječima: »od 3310,00 do 5970,00 eura«.
+
+*Stupanje na snagu*
+
+### Članak 9.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/24
+
+Zagreb, 5. svibnja 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o dopunama Zakona o financijskim konglomeratima (NN 151/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/151/2256*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O FINANCIJSKIM KONGLOMERATIMA
+
+Proglašavam Zakon o dopunama Zakona o financijskim konglomeratima, koji je Hrvatski sabor donio na sjednici 5. prosinca 2025. godine.
+
+Klasa: 011-02/25-02/101  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 9. prosinca 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O FINANCIJSKIM KONGLOMERATIMA**
+
+#### Članak 1.
+
+U Zakonu o financijskim konglomeratima (»Narodne novine«, br. 147/08., 54/13. i 51/23.) u članku 1.a stavku 1. točki 2. iza riječi: »kapitala)« dodaje se zarez, a veznik: »i« briše se.
+
+U točki 3. iza riječi: »konglomeratu« točka se zamjenjuje zarezom.
+
+Iza točke 3. dodaje se točka 4. koja glasi:
+
+»4. Direktiva (EU) 2023/2864 Europskog parlamenta i Vijeća od 13. prosinca 2023. o izmjeni određenih direktiva u pogledu uspostave i funkcioniranja jedinstvene europske pristupne točke (Tekst značajan za EGP) (SL L 2023/2864, 20. 12. 2023.).«.
+
+#### Članak 2.
+
+U članku 2. iza točke 37. dodaje se točka 38. koja glasi:
+
+»38. Uredba (EU) 2023/2859 je Uredba (EU) 2023/2859 Europskog parlamenta i Vijeća od 13. prosinca 2023. o uspostavi jedinstvene europske pristupne točke za centralizirani pristup javno dostupnim informacijama koje su od važnosti za financijske usluge, tržišta kapitala i održivost (Tekst značajan za EGP) (SL L, 2023/2859, 20. 12. 2023.).«.
+
+#### Članak 3.
+
+Iza članka 21.a dodaju se naslov iznad članka i članak 21.b koji glase:
+
+*»Dostupnost informacija na jedinstvenoj europskoj pristupnoj točki*
+
+#### Članak 21.b
+
+(1) Kada regulirani subjekt javno objavljuje informacije iz članka 21. stavka 7. ovoga Zakona, dužan je istodobno s javnom objavom informacija dostaviti te informacije Hrvatskoj agenciji za nadzor financijskih usluga za potrebe njihove dostupnosti na jedinstvenoj europskoj pristupnoj točki (ESAP) uspostavljenoj na temelju Uredbe (EU) 2023/2859.
+
+(2) Regulirani subjekt dužan je osigurati da informacije iz stavka 1. ovoga članka ispunjavaju sljedeće zahtjeve:
+
+– dostavljaju se u formatu iz kojeg se mogu izdvojiti podaci kako je definirano u članku 2. točki 3. Uredbe (EU) 2023/2859 ili, ako je to propisano pravom Europske unije, u strojno čitljivom formatu kako je definirano u članku 2. točki 4. Uredbe (EU) 2023/2859
+
+– priloženi su im sljedeći metapodaci:
+
+1. sva imena reguliranog subjekta na koji se informacije odnose
+
+2. identifikacijska oznaka pravne osobe reguliranog subjekta kako je utvrđena u skladu s člankom 7. stavkom 4. točkom (b) Uredbe (EU) 2023/2859
+
+3. veličina reguliranog subjekta po kategorijama kako su utvrđene u skladu s člankom 7. stavkom 4. točkom (d) Uredbe (EU) 2023/2859
+
+4. vrsta informacija kako je klasificirana u skladu s člankom 7. stavkom 4. točkom (c) Uredbe (EU) 2023/2859
+
+5. naznaka o tome sadržavaju li informacije osobne podatke.
+
+(3) Ako regulirani subjekt nema identifikacijsku oznaku pravne osobe kako je utvrđena u skladu s člankom 7. stavkom 4. točkom (b) Uredbe (EU) 2023/2859, dužan je istu ishoditi prije dostave informacija iz stavka 1. ovoga članka.
+
+(4) Hrvatska agencija za nadzor financijskih usluga dužna je osigurati da su informacije iz stavka 1. ovoga članka dostupne na jedinstvenoj europskoj pristupnoj točki (ESAP) uspostavljenoj na temelju Uredbe (EU) 2023/2859 te da iste ispunjavaju zahtjeve iz stavka 2. ovoga članka.
+
+(5) Hrvatska agencija za nadzor financijskih usluga je, u smislu ovoga Zakona, tijelo za prikupljanje kako je definirano u članku 2. točki 2. Uredbe (EU) 2023/2859.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 4.
+
+Hrvatska agencija za nadzor financijskih usluga dužna je u roku od 30 dana od dana stupanja na snagu članka 3. ovoga Zakona obavijestiti Europsko nadzorno tijelo za vrijednosne papire i tržišta kapitala da je, sukladno članku 3. ovoga Zakona, ona tijelo za prikupljanje kako je definirano u članku 2. točki 2. Uredbe (EU) 2023/2859.
+
+#### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 3. ovoga Zakona koji stupa na snagu 10. siječnja 2030.
+
+Klasa: 022-02/25-01/86
+
+Zagreb, 5. prosinca 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

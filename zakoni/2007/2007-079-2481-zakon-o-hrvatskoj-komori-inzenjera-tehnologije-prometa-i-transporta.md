@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2007; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/07"
-amendments: []
+last_amended: 2023-06-02
+status: in_force
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/07, 59/23"
+amendments:
+  - "NN 59/2023 (1000) Zakon o izmjenama Zakona o Hrvatskoj komori inženjera tehnologije prometa i transporta"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2481"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Hrvatskoj komori inženjera tehnologije prometa i transporta
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2481).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 59/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -266,3 +270,69 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o Hrvatskoj komori inženjera tehnologije prometa i transporta (NN 59/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/59/1000*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O HRVATSKOJ KOMORI INŽENJERA TEHNOLOGIJE PROMETA I TRANSPORTA
+
+Proglašavam Zakon o izmjenama Zakona o Hrvatskoj komori inženjera tehnologije prometa i transporta, koji je Hrvatski sabor donio na sjednici 24. svibnja 2023.
+
+Klasa: 011-02/23-02/44
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 26. svibnja 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O HRVATSKOJ KOMORI INŽENJERA TEHNOLOGIJE PROMETA I TRANSPORTA**
+
+### Članak 1.
+
+U članku 1. stavku 1. Zakona o Hrvatskoj komori inženjera tehnologije prometa i transporta (»Narodne novine«, br. 79/07.) riječi: »Hrvatska komora inženjera prometa i transporta« zamjenjuju se riječima: »Hrvatska komora inženjera tehnologije prometa i transporta«, a riječi: »poštansko-telekomunikacijskog prometa« zamjenjuju se riječima: »poštanskog prometa, informacijsko-komunikacijskog prometa«.
+
+### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»(1) Inženjer tehnologije prometa i transporta prema ovome Zakonu je osoba koja je završila odgovarajući sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij i stekla akademski naziv sveučilišni magistar inženjer, ili je završila odgovarajući stručni diplomski studij i stekla stručni naziv magistar inženjer ako je tijekom cijelog svog studija stekla najmanje 300 ECTS bodova, odnosno ako je na drugi način propisan posebnim zakonom stekla kvalifikaciju odgovarajuće razine u odgovarajućem znanstvenom polju.
+
+(2) Inženjer tehnologije prometa i transporta je i osoba koja je kvalifikaciju stekla u inozemstvu na odgovarajućem visokom učilištu iz polja tehnologije prometa i transporta, čija se kvalifikacija može priznati sukladno posebnom propisu o priznavanju i vrednovanju inozemnih obrazovnih kvalifikacija.«.
+
+### Članak 3.
+
+U članku 19. stavku 1. riječi: »obvezu i« brišu se.
+
+### Članak 4.
+
+U članku 24. stavku 1. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/08
+
+Zagreb, 24. svibnja 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

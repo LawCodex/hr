@@ -98,34 +98,29 @@ v<sub>2</sub> = novčana vrijednost jedinice bjelančevine, koja iznosi kod
 Osnovna cijena mlijeka usklađuje se korište­­njem ispravka vrijednosti za mlijeko standardne kakvoće (3,7% mliječne masti i 3,2% bjelančevina za kravlje, 6,0% mliječne masti i 4,0% bjelančevina za ovčje, odnosno 3,5% mliječne masti i 2,6% bjelančevina za kozje mlijeko), zavisno od klase u koju je razvrstano glede broja mikroorganizama, a za krav­­lje mlijeko i na osnovu broja somatskih stanica prema sljedećoj tablici:
 
 <table>
-
 <tr>
 <td rowspan="4"><b>Ispravak</b><br> <b>vrijednost</b></td>
 <td colspan="3"><b>Krav­­lje mlijeko</b></td>
 <td colspan="3"><b>Ovčje i kozje mlijeko</b></td>
 </tr>
-
 <tr>
 <td colspan="2"><b><br> Razvrstava­­nje u klase</b></td>
 <td rowspan="3"><b>Broj</b><br> <b>somatskih</b><br> <b>stanica</b></td>
 <td rowspan="3"><b>Ispravak</b><br> <b>vrijednosti</b></td>
 <td colspan="2"><b><br> Razvrstava­­nje u klase</b></td>
 </tr>
-
 <tr>
 <td><b>Klasa</b></td>
 <td><b>Broj</b></td>
 <td><b>Klasa</b></td>
 <td><b>Broj</b></td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
 <td><b>mikroorganizama</b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
 <td><b>mikroorganizama</b></td>
 </tr>
-
 <tr>
 <td>1,15</td>
 <td>E</td>
@@ -135,7 +130,6 @@ Osnovna cijena mlijeka usklađuje se korište­­njem ispravka vrijednosti za ml
 <td>E</td>
 <td>£1.200.000</td>
 </tr>
-
 <tr>
 <td>1,00</td>
 <td>I</td>
@@ -145,7 +139,6 @@ Osnovna cijena mlijeka usklađuje se korište­­njem ispravka vrijednosti za ml
 <td>I</td>
 <td>£ 1.500.000</td>
 </tr>
-
 <tr>
 <td>0,95</td>
 <td>II</td>
@@ -155,7 +148,6 @@ Osnovna cijena mlijeka usklađuje se korište­­njem ispravka vrijednosti za ml
 <td>II</td>
 <td>£ 6.000.000</td>
 </tr>
-
 <tr>
 <td>0,90</td>
 <td>III</td>
@@ -165,7 +157,6 @@ Osnovna cijena mlijeka usklađuje se korište­­njem ispravka vrijednosti za ml
 <td>III</td>
 <td>&gt; 6.000.000</td>
 </tr>
-
 </table>
 
 Pri određiva­­nju ispravka vrijednosti krav­­lje mlijeko se razvrstava u onaj razred kod koje­g je utvrđena niža klasa, odnosno veći broj somatskih stanica.
@@ -216,13 +207,11 @@ Na temelju članka 9. stavka 2. Zakona o poljoprivredi (»Narodne novine«, br. 
 U Uredbi o ciljnoj cijeni svježeg sirovog mlijeka (»Narodne novine«, broj 156/2002), u članku 5. mijenja se tablica i glasi:
 
 <table>
-
 <tr>
 <td>Ispravak vrijednosti</td>
 <td colspan="3">Kravlje mlijeko</td>
 <td colspan="3">Ovčje i kozje mlijeko</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">Razvrstavanje u klase</td>
@@ -230,7 +219,6 @@ U Uredbi o ciljnoj cijeni svježeg sirovog mlijeka (»Narodne novine«, broj 156
 <td>Ispravak vrijednosti</td>
 <td colspan="2">Razvrstavanje u klase</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Klasa</td>
@@ -240,7 +228,6 @@ U Uredbi o ciljnoj cijeni svježeg sirovog mlijeka (»Narodne novine«, broj 156
 <td>Klasa</td>
 <td>Broj mikroorganizama</td>
 </tr>
-
 <tr>
 <td>1,125</td>
 <td>E</td>
@@ -250,7 +237,6 @@ U Uredbi o ciljnoj cijeni svježeg sirovog mlijeka (»Narodne novine«, broj 156
 <td>-</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>1,025</td>
 <td>I</td>
@@ -260,7 +246,6 @@ U Uredbi o ciljnoj cijeni svježeg sirovog mlijeka (»Narodne novine«, broj 156
 <td>I</td>
 <td>≤1.000.000</td>
 </tr>
-
 <tr>
 <td>0,95</td>
 <td>II</td>
@@ -270,7 +255,6 @@ U Uredbi o ciljnoj cijeni svježeg sirovog mlijeka (»Narodne novine«, broj 156
 <td>II</td>
 <td>≤1.500.000</td>
 </tr>
-
 <tr>
 <td>0,85</td>
 <td>III</td>
@@ -280,7 +264,6 @@ U Uredbi o ciljnoj cijeni svježeg sirovog mlijeka (»Narodne novine«, broj 156
 <td>III</td>
 <td>&gt;1.500.000</td>
 </tr>
-
 </table>
 
 ### Članak 2.
@@ -337,13 +320,11 @@ v<sub>2</sub> = novčana vrijednost jedinice bjelančevine, koja iznosi kod
 U članku 5. mijenja se tablica i glasi:
 
 <table>
-
 <tr>
 <td>Ispravak vrijednosti</td>
 <td colspan="3">Kravlje mlijeko</td>
 <td colspan="3">Ovčje i kozje mlijeko</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">Razvrstavanje u klase</td>
@@ -351,7 +332,6 @@ U članku 5. mijenja se tablica i glasi:
 <td>Ispravak vrijednosti</td>
 <td colspan="2">Razvrstavanje u klase</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Klasa</td>
@@ -361,7 +341,6 @@ U članku 5. mijenja se tablica i glasi:
 <td>Klasa</td>
 <td>Broj mikroorganizama</td>
 </tr>
-
 <tr>
 <td>1,15</td>
 <td>E</td>
@@ -371,7 +350,6 @@ U članku 5. mijenja se tablica i glasi:
 <td>-</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>1,025</td>
 <td>I</td>
@@ -381,7 +359,6 @@ U članku 5. mijenja se tablica i glasi:
 <td>I</td>
 <td>≤1.000.000</td>
 </tr>
-
 <tr>
 <td>0,90</td>
 <td>II</td>
@@ -391,7 +368,6 @@ U članku 5. mijenja se tablica i glasi:
 <td>II</td>
 <td>≤1.500.000</td>
 </tr>
-
 <tr>
 <td>0,80</td>
 <td>III</td>
@@ -401,7 +377,6 @@ U članku 5. mijenja se tablica i glasi:
 <td>III</td>
 <td>&gt;1.500.000</td>
 </tr>
-
 </table>
 
 ### Članak 3.
@@ -459,12 +434,10 @@ v2 = novčana vrijednost jedinice bjelančevina, koja iznosi kod:
 »Osnovna cijena mlijeka usklađuje se korištenjem ispravka vrijednosti za mlijeko standardne kvalitete (3,7% mliječne masti i 3,2% bjelančevina za kravlje, 6% mliječne masti i 4% bjelančevina za ovčje, odnosno 3,5% mliječne masti i 2,6% bjelančevina za kozje mlijeko), zavisno od razreda u koji je razvrstano glede broja mikroorganizama, a za kravlje mlijeko i na osnovi broja somatskih stanica prema sljedećoj tablici:
 
 <table>
-
 <tr>
 <td colspan="3">Kravlje mlijeko<br> </td>
 <td colspan="4">Ovčje i kozje mlijeko<br> </td>
 </tr>
-
 <tr>
 <td rowspan="2">Ispravak vrijednosti<br> </td>
 <td>Razvrstavanje u razrede<br> </td>
@@ -473,13 +446,11 @@ v2 = novčana vrijednost jedinice bjelančevina, koja iznosi kod:
 <td rowspan="2">Ispravak vrijednosti<br> </td>
 <td colspan="2">Razvrstavanje u razrede<br> </td>
 </tr>
-
 <tr>
 <td>Razred<br> </td>
 <td>Razred<br> </td>
 <td>Broj mikroorganizama<br> </td>
 </tr>
-
 <tr>
 <td>1,00<br> </td>
 <td>I<br> </td>
@@ -489,7 +460,6 @@ v2 = novčana vrijednost jedinice bjelančevina, koja iznosi kod:
 <td>I<br> </td>
 <td>≤ 1.500.000<br> </td>
 </tr>
-
 <tr>
 <td>0,70<br> </td>
 <td>II<br> </td>
@@ -499,7 +469,6 @@ v2 = novčana vrijednost jedinice bjelančevina, koja iznosi kod:
 <td>II<br> </td>
 <td>&gt; 1.500.000<br> </td>
 </tr>
-
 </table>
 
 Članak 5.  

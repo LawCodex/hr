@@ -1083,7 +1083,7 @@ Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama ure�
 
 **O IZMJENI ZAKONA O STAMBENOJ ŠTEDNJI I DRŽAVNOM POTICANJU STAMBENE ŠTEDNJE**
 
-#### Članak 1.
+### Članak 1.
 
 U Zakonu o stambenoj štednji i državnom poticanju stambene štednje (»Narodne novine«, br. 109/97, 117/97, 76/99, 10/2001, 92/2005, 21/2010, 15/2013 i 139/2013), članak 21. mijenja se i glasi:
 
@@ -1091,7 +1091,7 @@ U Zakonu o stambenoj štednji i državnom poticanju stambene štednje (»Narodne
 
 (2) Postotak državnih poticajnih sredstava određuje se po sljedećoj formuli:
 
-### % DPS = Kp + Fs
+% DPS = Kp + Fs
 
 pri čemu je:
 
@@ -1109,11 +1109,11 @@ Fs – faktor stabilizacije kamatne stope izračunava se jednom godišnje kao po
 
 (6) Vlada Republike Hrvatske na prijedlog Ministarstva financija do 31. listopada tekuće godine propisuje postotak državnih poticajnih sredstava za stambenu štednju prikupljenu u sljedećoj kalendarskoj godini.«.
 
-#### Članak 2.
+### Članak 2.
 
 Iznimno od članka 1. ove Uredbe u dijelu koji se odnosi na članak 21. stavak 6. Zakona o stambenoj štednji i državnom poticanju stambene štednje, Vlada Republike Hrvatske će na prijedlog Ministarstva financija do 31. prosinca 2014. godine propisati postotak državnih poticajnih sredstava za stambenu štednju prikupljenu u 2015. godini sukladno formuli iz članka 1. ove Uredbe koji se odnosi na članak 21. stavak 2. Zakona o stambenoj štednji i državnom poticanju stambene štednje.
 
-#### Članak 3.
+### Članak 3.
 
 Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
 

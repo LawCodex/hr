@@ -29,7 +29,7 @@ Na temelju članka 2. Zakona o ovlasti Vlade Republike Hrvatske da uredbama ure�
 
 ### O IMENOVANJU ČLANOVA UPRAVNOG VIJEĆA HRVATSKOG ZAVODA ZA TELEKOMUNIKACIJE
 
-## I.
+I.
 
 Za članove Upravnog vijeća Hrvatskog zavoda za telekomunikacije, imenuju se:
 
@@ -43,7 +43,7 @@ Za članove Upravnog vijeća Hrvatskog zavoda za telekomunikacije, imenuju se:
 
 - MLADEN REJKUBA.
 
-## II.
+II.
 
 Članovi Upravnog vijeća Hrvatskog zavoda za telekomunikacije imenuju se na razdoblje od pet godina, s tim da mogu biti imenovani za još jedno petogodišnje razdoblje.
 

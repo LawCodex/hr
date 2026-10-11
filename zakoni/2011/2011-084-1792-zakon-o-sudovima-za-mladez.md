@@ -6,15 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-07-20
-last_amended: 2015-05-22
+last_amended: 2019-12-24
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "84/11, 143/12, 148/13, 56/15"
+narodne_novine: "84/11, 143/12, 148/13, 56/15, 126/19"
 amendments:
   - "NN 143/2012 (3033) Zakon o izmjenama i dopunama Zakona o sudovima za mladež"
   - "NN 148/2013 (3148) Zakon o izmjenama i dopunama Zakona o sudovima za mladež"
   - "NN 56/2015 (1096) Zakon o izmjenama i dopunama Zakona o sudovima za mladež"
+  - "NN 126/2019 (2528) Zakon o izmjenama i dopunama Zakona o sudovima za mladež"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1792"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 84/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1792).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 143/2012, NN 148/2013, NN 56/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 143/2012, NN 148/2013, NN 56/2015, NN 126/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1734,3 +1735,275 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sudovima za mladež (NN 126/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/126/2528*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA ZA MLADEŽ
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudovima za mladež, koji je Hrvatski sabor donio na sjednici 13. prosinca 2019.
+
+Klasa: 011-01/19-01/236
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA ZA MLADEŽ**
+
+#### Članak 1.
+
+U Zakonu o sudovima za mladež (»Narodne novine«, br. 84/11., 143/12., 148/13. i 56/15.) članak 1.a mijenja se i glasi:
+
+»Ovim se Zakonom u pravni poredak Republike Hrvatske prenose:
+
+1. Direktiva 2011/93/EU Europskog parlamenta i Vijeća od 13. prosinca 2011. o suzbijanju seksualnog zlostavljanja i seksualnog iskorištavanja djece i dječje pornografije te o zamjeni Okvirne odluke Vijeća 2004/68/PUP (SL L 335, 17. 12. 2011.)
+
+2. Direktiva 2012/29/EU Europskog parlamenta i Vijeća od 25. listopada 2012. o uspostavi minimalnih standarda za prava, potporu i zaštitu žrtava kaznenih djela te o zamjeni Okvirne odluke Vijeća 2001/220/PUP (SL L 315, 14. 11. 2012.)
+
+3. Direktiva 2016/800/EU Europskog parlamenta i Vijeća od 11. svibnja 2016. o postupovnim jamstvima za djecu koja su osumnjičenici ili optuženici u kaznenim postupcima (SL L 132, 21. 5. 2016.).«.
+
+#### Članak 2.
+
+U članku 15. stavak 2. mijenja se i glasi:
+
+»(2) Odgojna mjera upućivanja u odgojnu ustanovu izvršava se u pravilu u ustanovi socijalne skrbi, a može se izvršavati i u udrugama specijaliziranim za djecu s problemima u ponašanju i kod udomitelja koji obavlja specijalizirano udomiteljstvo za djecu prema posebnom propisu, sukladno njihovu pojedinačnom programu postupanja. Mjesto izvršavanja odgojne mjere moguće je, prema procjeni stručnog tima, promijeniti.«.
+
+#### Članak 3.
+
+Članak 30. mijenja se i glasi:
+
+»Kazna maloljetničkog zatvora ne može se izvršiti ako protekne:
+
+– deset godina od pravomoćnosti odluke kojom je izrečena kazna maloljetničkog zatvora u trajanju duljem od pet godina
+
+– šest godina od pravomoćnosti odluke kojom je izrečena kazna maloljetničkog zatvora u trajanju duljem od tri godine
+
+– četiri godine od pravomoćnosti odluke kojom je izrečena kazna maloljetničkog zatvora u trajanju do tri godine.«.
+
+#### Članak 4.
+
+U članku 37. stavku 3. riječ: »Vrhovnom« zamjenjuje se riječima: »Visokom kaznenom«.
+
+#### Članak 5.
+
+U članku 39. stavku 1. iza riječi: »županijskim sudovima« dodaju se riječi: »i Visokom kaznenom sudu Republike Hrvatske«.
+
+#### Članak 6.
+
+Članak 40. briše se.
+
+#### Članak 7.
+
+U članku 45. stavku 5. prvoj rečenici riječ: »Vrhovnog« zamjenjuje se riječima: »Visokog kaznenog«.
+
+#### Članak 8.
+
+U članku 46. stavku 3. riječ: »Vrhovnog« zamjenjuje se riječima: »Visokog kaznenog«.
+
+#### Članak 9.
+
+U članku 48. stavku 2. iza riječi: »članka 53.,« dodaju se riječi: »članka 53.a stavaka 3. do 7., članka 53.b,«.
+
+#### Članak 10.
+
+Iza članka 53. dodaju se članci 53.a i 53.b koji glase:
+
+»Članak 53.a
+
+(1) Pouka o pravima maloljetnika, uz sadržaj pouke o pravima iz članka 108.a stavka 1., članka 208.a stavka 2. i članka 239. stavka 1. Zakona o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11., 91/12., 143/12., 56/13., 145/13., 152/14. i 70/17.), mora sadržavati i obavijesti o:
+
+1. pravu da roditelju, skrbniku ili drugoj odgovarajućoj odrasloj osobi iz stavka 4. ovoga članka koju je izabrao maloljetnik ili posebnom skrbniku iz stavka 5. ovoga članka bude uručena ili dostavljena ista pouka o pravima koja se uručuje ili dostavlja maloljetniku
+
+2. tome da su izvidi kaznenih djela i postupak prema maloljetniku tajni
+
+3. pravu na pratnju roditelja, skrbnika ili druge odgovarajuće odrasle osobe iz članka 53.b stavka 3. ovoga Zakona koju je izabrao maloljetnik ili posebnog skrbnika iz članka 53.b stavka 4. ovoga Zakona tijekom izvida i postupka prema maloljetniku
+
+4. tome da će se u postupku prema maloljetniku pribaviti podaci potrebni za ocjenu njegove psihofizičke razvijenosti i podaci o osobnim i obiteljskim prilikama
+
+5. pravu na liječnički pregled, uključujući pravo na liječničku pomoć, ako mu je oduzeta sloboda
+
+6. tome da mu mogu biti određene mjere opreza ili privremene mjere, a kao krajnja mjera istražni zatvor, sukladno odredbama ovoga Zakona
+
+7. pravu da mu se ne može suditi u odsutnosti
+
+8. pravu na podnošenje pravnih lijekova.
+
+(2) Maloljetnika će se uvijek na njemu razumljiv način usmeno poučiti o značenju prava iz pouke. Dužnost je tijela koje poduzima radnju uvjeriti se da je maloljetnik pouku o pravima razumio.
+
+(3) Pouka o pravima maloljetnika uručuje se ili dostavlja i roditelju ili skrbniku maloljetnika.
+
+(4) Ako su oba roditelja ili skrbnik nedostupni ili njihov identitet nije poznat ili postoje okolnosti zbog kojih bi se znatno ugrozio kazneni postupak ili je to u suprotnosti s najboljim interesom maloljetnika, pouka o pravima maloljetnika uručit će se ili dostaviti drugoj odgovarajućoj odrasloj osobi koju je izabrao maloljetnik i koju je kao takvu prihvatilo tijelo koje vodi postupak ili provodi radnju.
+
+(5) Ako maloljetnik nije izabrao drugu odgovarajuću odraslu osobu ili ako u odnosu na tu drugu odgovarajuću odraslu osobu koju je izabrao maloljetnik postoje okolnosti iz stavka 4. ovoga članka zbog kojih tu osobu nije prihvatilo tijelo koje vodi postupak ili provodi radnju, to će tijelo zatražiti imenovanje posebnog skrbnika maloljetniku kojem će uručiti ili dostaviti pouku o pravima maloljetnika.
+
+(6) Ako prestanu postojati okolnosti iz stavka 4. ovoga članka, tijelo koje provodi radnju uručit će ili dostaviti pouku o pravima maloljetnika roditelju ili skrbniku maloljetnika.
+
+(7) Tijelo koje vodi postupak ili provodi radnju zabilježit će na zapisnik da prihvaća drugu odgovarajuću odraslu osobu iz stavka 4. ovoga članka koju je izabrao maloljetnik, kao i njezine osobne podatke. Ako to tijelo nije prihvatilo drugu odgovarajuću odraslu osobu iz stavka 4. ovoga članka koju je izabrao maloljetnik, na zapisnik će zabilježiti razloge neprihvaćanja, a u kojem će slučaju zabilježiti osobne podatke posebnog skrbnika iz stavka 5. ovoga članka.
+
+#### Članak 53.b
+
+(1) Maloljetnik ima pravo na pratnju roditelja ili skrbnika tijekom ispitivanja pred sudom i sudskog postupka.
+
+(2) Ako je to u najboljem interesu maloljetnika i ako nazočnost roditelja ili skrbnika neće ugroziti kazneni postupak, maloljetnik ima pravo na pratnju roditelja ili skrbnika i tijekom drugih radnji u postupku kojima je prisutan.
+
+(3) Ako su oba roditelja ili skrbnik nedostupni ili njihov identitet nije poznat ili postoje okolnosti zbog kojih bi se znatno ugrozio kazneni postupak ili je pratnja roditelja ili skrbnika u suprotnosti s najboljim interesom maloljetnika, maloljetnik ima pravo na pratnju druge odgovarajuće odrasle osobe koju je sam izabrao i koju je kao takvu prihvatilo tijelo koje vodi postupak ili provodi radnju.
+
+(4) Ako maloljetnik nije izabrao drugu odgovarajuću odraslu osobu ili ako u odnosu na tu drugu odgovarajuću odraslu osobu koju je izabrao maloljetnik postoje okolnosti iz stavka 3. ovoga članka zbog kojih tu osobu nije prihvatilo tijelo koje vodi postupak ili provodi radnju, to će tijelo zatražiti imenovanje posebnog skrbnika maloljetniku za pratnju tijekom radnji sukladno stavcima 1. i 2. ovoga članka.
+
+(5) Ako prestanu postojati okolnosti iz stavka 3. ovoga članka, maloljetnik ima pravo na pratnju roditelja ili skrbnika tijekom nastavka ispitivanja pred sudom, odnosno sudskog postupka.
+
+(6) Tijelo koje vodi postupak ili provodi radnju zabilježit će na zapisnik da prihvaća drugu odgovarajuću odraslu osobu iz stavka 3. ovoga članka koju je izabrao maloljetnik, kao i njezine osobne podatke. Ako to tijelo nije prihvatilo drugu odgovarajuću odraslu osobu iz stavka 3. ovoga članka koju je izabrao maloljetnik, na zapisnik će zabilježiti razloge neprihvaćanja, a u kojem će slučaju zabilježiti osobne podatke posebnog skrbnika iz stavka 4. ovoga članka.
+
+(7) Ako maloljetnik izjavi da ne želi pratnju roditelja, skrbnika, druge odgovarajuće odrasle osobe iz stavka 3. ovoga članka ili posebnog skrbnika iz stavka 4. ovoga članka, tijelo koje vodi postupak ili provodi radnju dužno ga je upoznati na jednostavan i razumljiv način sa značenjem prava na pratnju i posljedicama odricanja od tog prava. Ako maloljetnik i dalje ne želi pratnju, tijelo može nastaviti s postupkom ili provođenjem radnje. Odricanje maloljetnika od prava na pratnju mora se zabilježiti u zapisnik, a ako se radnja snima, mora se zabilježiti i snimkom.«.
+
+#### Članak 11.
+
+U članku 54. stavku 1. riječi: »prvog ispitivanja« zamjenjuju se riječima: »prve radnje poduzete zbog postojanja osnova sumnje da je počinio kazneno djelo«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) U slučaju postupanja protivno stavku 1. ovoga članka, zapisnici i snimka ne mogu se upotrijebiti kao dokaz u postupku.«.
+
+#### Članak 12.
+
+U članku 55. stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, maloljetnika se može vezati ako je opasan za vlastiti ili tuđi život ili sigurnost. Vezivanje maloljetnika je mjera koja se primjenjuje kao krajnje sredstvo i samo dok je maloljetnik opasan.«.
+
+U stavku 4. riječi: »članka 175.« brišu se.
+
+#### Članak 13.
+
+U članku 61. stavku 8. prvoj rečenici riječ: »Vrhovnog« zamjenjuje se riječima: »Visokog kaznenog«.
+
+U drugoj rečenici iza riječi: »vijeće« dodaju se riječi: »Vrhovnog suda Republike Hrvatske«.
+
+#### Članak 14.
+
+U članku 63. iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Tijelo koje provodi radnju ili vodi postupak dužno je uhićenom maloljetniku bez odgađanja osigurati liječnički pregled kad posebne okolnosti vezane uz zdravstveno stanje maloljetnika opravdavaju takav pregled ili na zahtjev maloljetnika, branitelja ili roditelja, skrbnika i druge odgovarajuće odrasle osobe koju je maloljetnik izabrao i koju je kao takvu prihvatilo tijelo koje vodi postupak ili provodi radnju ili posebnog skrbnika. Rezultati i zaključak liječničkog pregleda daju se u pisanom obliku te se uzimaju u obzir prilikom utvrđivanja sposobnosti maloljetnika da bude ispitan i da sudjeluje u drugim dokaznim radnjama.«.
+
+#### Članak 15.
+
+U članku 66. stavku 2. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Maloljetnik koji za vrijeme trajanja istražnog zatvora navrši osamnaest godina života ostaje smješten u zatvorenoj zavodskoj ustanovi, ako je to opravdano s obzirom na okolnosti koje se tiču maloljetnika i ako je to u skladu s najboljim interesom drugih maloljetnika koji su smješteni zajedno s njim.«.
+
+#### Članak 16.
+
+U članku 75. stavku 5. točki 2. iza riječi: »sjednice vijeća« dodaju se riječi: »ili rasprave«.
+
+#### Članak 17.
+
+Članak 76. mijenja se i glasi:
+
+»(1) Policija provodi ispitivanje maloljetnika prema odredbama ovoga Zakona i zakona kojim se uređuje kazneni postupak.
+
+(2) Ako maloljetnika nije ispitala policija ili sudac za mladež prema članku 63. ovoga Zakona, ispitivanje maloljetnika prva je dokazna radnja koju će provesti državni odvjetnik, osim hitnih dokaznih radnji.
+
+(3) Za kaznena djela iz nadležnosti županijskog suda maloljetnika mora ispitati državni odvjetnik ili sudac za mladež.
+
+(4) Ispitivanje maloljetnika koje provodi policija i državni odvjetnik snima se audio-video uređajem.«.
+
+#### Članak 18.
+
+U članku 77. stavak 4. mijenja se i glasi:
+
+»(4) Nakon što je maloljetnik ispitan, dokaznim radnjama mogu biti prisutni maloljetnik i branitelj. O poduzimanju dokazne radnje bit će prije njezina poduzimanja obaviješten maloljetnik i branitelj, osim ako radnja ne trpi odgodu. Tijelo koje provodi radnju može odobriti da radnji, uz osobe navedene u članku 53.b ovoga Zakona, budu nazočni žrtva ili oštećenik.«.
+
+#### Članak 19.
+
+U članku 78. stavku 3. riječ: »i« zamjenjuje se riječju: »ili«.
+
+#### Članak 20.
+
+U članku 83. stavku 3. na kraju rečenice briše se točka i dodaju se riječi: »ili raspravu.«.
+
+#### Članak 21.
+
+Iza članka 83. dodaje se članak 83.a koji glasi:
+
+»Članak 83.a
+
+Sud će na temelju izvješća stručnog suradnika, centra za socijalnu skrb ili drugih stručnih osoba ili tijela utvrditi jesu li tijekom trajanja postupka nastupile značajne promjene u odnosu na podatke iz članka 78. ovoga Zakona.«.
+
+#### Članak 22.
+
+U članku 84. stavak 1. mijenja se i glasi:
+
+»(1) Na sjednicu vijeća pozvat će se državnog odvjetnika, maloljetnika, branitelja, roditelje maloljetnika, odnosno skrbnika, žrtvu i oštećenika, predstavnika centra za socijalnu skrb i stručnog suradnika suda.«.
+
+#### Članak 23.
+
+U članku 89. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Troškovi pribavljanja podataka potrebnih za ocjenu psihofizičke razvijenosti maloljetnika i podataka o osobnim i obiteljskim prilikama maloljetnika, troškovi liječničkog pregleda koji nisu pokriveni zdravstvenim osiguranjem i troškovi audio-video snimanja ispitivanja maloljetnika padaju na teret državnog proračuna.«.
+
+#### Članak 24.
+
+U članku 90. stavak 5. briše se.
+
+#### Članak 25.
+
+U članku 91. stavku 2. riječ: »presudu« zamjenjuje se riječju: »odluku«.
+
+#### Članak 26.
+
+Članak 99. mijenja se i glasi:
+
+»(1) Kada se ispituju uvjeti predviđeni u ovom Zakonu za obustavu izvršenja odgojne mjere ili za zamjenu odgojne mjere (članak 15. stavak 3., članak 16. stavak 2., članak 17. stavak 4., članci 18. i 20. ovoga Zakona) ili za odluku prema članku 10. stavku 6., članku 13. stavku 5., člancima 14. i 21. ovoga Zakona, o tome odlučuje vijeće suda za mladež koji je u prvom stupnju donio rješenje o odgojnoj mjeri, po službenoj dužnosti ili na prijedlog maloljetnika ili njegova zakonskog zastupnika, državnog odvjetnika, ravnatelja ustanove, upravitelja odgojnog zavoda ili službe koja provodi pojačani nadzor nad maloljetnikom.
+
+(2) Stručni suradnik u sudu obavlja po uputi suca pojedine radnje radi pripremanja odluke suda iz stavka 1. ovoga članka.
+
+(3) Prije donošenja odluke sud će u sjednici vijeća ispitati maloljetnika, roditelja ili skrbnika maloljetnika ili druge osobe, pročitat će pribavljena izvješća od ustanove u kojoj maloljetnik izvršava zavodsku mjeru, od centra za socijalnu skrb ili drugih tijela ili ustanova. O prijedlogu iz stavka 1. ovoga članka mišljenje će dati državni odvjetnik.
+
+(4) Sjednicu vijeća iz stavka 3. ovoga članka sud će održati u roku od 15 dana od podnesenog prijedloga.
+
+(5) Prijedlog iz stavka 1. ovoga članka maloljetnik ili njegov zakonski zastupnik može ponovno staviti protekom roka od tri mjeseca.
+
+(6) Ako nije udovoljeno uvjetima za obustavu izvršenja ili zamjenu odgojne mjere, nastavlja se izvršenje izrečene odgojne mjere bez donošenja posebnog rješenja. Ako sud, s obzirom na postignuti uspjeh, odluči obustaviti ili zamijeniti odgojnu mjeru, donosi rješenje protiv kojeg žalbu mogu podnijeti osobe navedene u članku 90. stavcima 1. i 2. ovoga Zakona u roku od osam dana. O žalbi odlučuje vijeće za mladež višeg suda.
+
+(7) Rješenje o uvjetnom otpustu s izvršavanja zavodske odgojne mjere sud za mladež će po pravomoćnosti dostaviti ustanovi, odnosno tijelu u kojem se odgojna mjera izvršavala te policijskoj upravi i centru za socijalnu skrb mjesta prebivališta, odnosno boravišta maloljetnika.«.
+
+#### Članak 27.
+
+U članku 111. stavku 3. prvoj rečenici riječ: »Vrhovnog« zamjenjuje se riječima: »Visokog kaznenog«.
+
+U drugoj rečenici iza riječi: »vijeće« dodaju se riječi: »Vrhovnog suda Republike Hrvatske«.
+
+#### Članak 28.
+
+U članku 121. stavku 3. prvoj rečenici riječ: »Vrhovnog« zamjenjuje se riječima: »Visokog kaznenog«.
+
+U drugoj rečenici iza riječi: »vijeće« dodaju se riječi: »Vrhovnog suda Republike Hrvatske«.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 29.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 4. do 8., članka 13., članaka 27. i 28. ovoga Zakona koji stupaju na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/95
+
+Zagreb, 13. prosinca 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

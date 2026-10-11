@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-02-06
-last_amended: 2016-12-09
+last_amended: 2019-12-11
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "15/13, 115/16"
+narodne_novine: "15/13, 115/16, 127/17, 121/19"
 amendments:
   - "NN 115/2016 (2530) Zakon o izmjenama i dopunama Zakona o posebnom porezu na motorna vozila"
+  - "NN 127/2017 (2876) Zakon o izmjenama i dopuni Zakona o posebnom porezu na motorna vozila"
+  - "NN 121/2019 (2388) Zakon o izmjeni i dopuni Zakona o posebnom porezu na motorna vozila"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/15/241"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 15/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/15/241).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 115/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 115/2016, NN 127/2017, NN 121/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -218,75 +220,64 @@ o) »Plug-in« hibridno električno vozilo je motorno vozilo koje za pogonske el
 TABLICA 1
 
 <table><tbody>
-
 <tr>
 <td colspan="3">Porezna osnovica u kn</td>
 <td>%</td>
 </tr>
-
 <tr>
 <td>0,00</td>
 <td>do</td>
 <td>100.000,00</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>100.000,01</td>
 <td>do</td>
 <td>150.000,00</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>150.000,01</td>
 <td>do</td>
 <td>200.000,00</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>200.000,01</td>
 <td>do</td>
 <td>250.000,00</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>250.000,01</td>
 <td>do</td>
 <td>300.000,00</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>300.000,01</td>
 <td>do</td>
 <td>350.000,00</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>350.000,01</td>
 <td>do</td>
 <td>400.000,00</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>400.000,01</td>
 <td>do</td>
 <td>450.000,00</td>
 <td>11</td>
 </tr>
-
 <tr>
 <td>450.000,01</td>
 <td>do</td>
 <td>500.000,00</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>500.000,01</td>
 <td>do</td>
@@ -299,89 +290,76 @@ TABLICA 1
 TABLICA 2 – dizelsko gorivo
 
 <table><tbody>
-
 <tr>
 <td colspan="3">Emisija CO2 (g/km)</td>
 <td>%</td>
 </tr>
-
 <tr>
 <td>86</td>
 <td>do</td>
 <td>100</td>
 <td>1,5</td>
 </tr>
-
 <tr>
 <td>101</td>
 <td>do</td>
 <td>110</td>
 <td>2,5</td>
 </tr>
-
 <tr>
 <td>111</td>
 <td>do</td>
 <td>120</td>
 <td>3,5</td>
 </tr>
-
 <tr>
 <td>121</td>
 <td>do</td>
 <td>130</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>131</td>
 <td>do</td>
 <td>140</td>
 <td>11,5</td>
 </tr>
-
 <tr>
 <td>141</td>
 <td>do</td>
 <td>160</td>
 <td>16</td>
 </tr>
-
 <tr>
 <td>161</td>
 <td>do</td>
 <td>180</td>
 <td>18</td>
 </tr>
-
 <tr>
 <td>181</td>
 <td>do</td>
 <td>200</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>201</td>
 <td>do</td>
 <td>225</td>
 <td>23</td>
 </tr>
-
 <tr>
 <td>226</td>
 <td>do</td>
 <td>250</td>
 <td>27</td>
 </tr>
-
 <tr>
 <td>251</td>
 <td>do</td>
 <td>300</td>
 <td>29</td>
 </tr>
-
 <tr>
 <td>301</td>
 <td>do</td>
@@ -394,89 +372,76 @@ TABLICA 2 – dizelsko gorivo
 TABLICA 3 – benzin, ukapljeni naftni plin, prirodni plin i dizelsko gorivo s razinom emisije ispušnih plinova EURO VI
 
 <table><tbody>
-
 <tr>
 <td colspan="3">Emisija CO2 (g/km)</td>
 <td>%</td>
 </tr>
-
 <tr>
 <td>91</td>
 <td>do</td>
 <td>100</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>101</td>
 <td>do</td>
 <td>110</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>111</td>
 <td>do</td>
 <td>120</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>121</td>
 <td>do</td>
 <td>130</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>131</td>
 <td>do</td>
 <td>140</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>141</td>
 <td>do</td>
 <td>160</td>
 <td>14</td>
 </tr>
-
 <tr>
 <td>161</td>
 <td>do</td>
 <td>180</td>
 <td>16</td>
 </tr>
-
 <tr>
 <td>181</td>
 <td>do</td>
 <td>200</td>
 <td>18</td>
 </tr>
-
 <tr>
 <td>201</td>
 <td>do</td>
 <td>225</td>
 <td>21</td>
 </tr>
-
 <tr>
 <td>226</td>
 <td>do</td>
 <td>250</td>
 <td>23</td>
 </tr>
-
 <tr>
 <td>251</td>
 <td>do</td>
 <td>300</td>
 <td>27</td>
 </tr>
-
 <tr>
 <td>301</td>
 <td>do</td>
@@ -503,54 +468,46 @@ Posebni porez na motorna vozila iz članka 5. stavka 1. točke 2., 4. i 5. ovoga
 TABLICA 4
 
 <table><tbody>
-
 <tr>
 <td colspan="3">Obujam motora u kubičnim centimetrima (cm³)</td>
 <td>%</td>
 </tr>
-
 <tr>
 <td>51</td>
 <td>do</td>
 <td>125</td>
 <td>2,5</td>
 </tr>
-
 <tr>
 <td>126</td>
 <td>do</td>
 <td>250</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>251</td>
 <td>do</td>
 <td>400</td>
 <td>3,5</td>
 </tr>
-
 <tr>
 <td>401</td>
 <td>do</td>
 <td>600</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>601</td>
 <td>do</td>
 <td>800</td>
 <td>4,5</td>
 </tr>
-
 <tr>
 <td>801</td>
 <td>do</td>
 <td>1000</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>1001</td>
 <td>do</td>
@@ -969,8 +926,6 @@ Josip Leko, v. r.
 
 HRVATSKI SABOR
 
-2530
-
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
 ODLUKU
@@ -1078,95 +1033,81 @@ PC – postotak od prodajne cijene motornog vozila prema Tablici 1
 TABLICA 1 – prodajna cijena
 
 <table>
-
 <tr>
 <td colspan="3">Prodajna cijena u kn</td>
 <td>%</td>
 </tr>
-
 <tr>
 <td>0,00</td>
 <td>do</td>
 <td>100.000,00</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>100.000,01</td>
 <td>do</td>
 <td>150.000,00</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>150.000,01</td>
 <td>do</td>
 <td>200.000,00</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>200.000,01</td>
 <td>do</td>
 <td>250.000,00</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>250.000,01</td>
 <td>do</td>
 <td>300.000,00</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>300.000,01</td>
 <td>do</td>
 <td>350.000,00</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>350.000,01</td>
 <td>do</td>
 <td>400.000,00</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>400.000,01</td>
 <td>do</td>
 <td>500.000,00</td>
 <td>15</td>
 </tr>
-
 <tr>
 <td>500.000,01</td>
 <td>do</td>
 <td>600.000,00</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>600.000,01</td>
 <td>do</td>
 <td></td>
 <td>25</td>
 </tr>
-
 </table>
 
 TABLICA 2 – dizelsko gorivo
 
 <table>
-
 <tr>
 <td></td>
 <td colspan="3">Emisija CO<sub>2</sub> (g/km)</td>
 <td>ON u kn</td>
 <td>Iznos u kn za 1 g/km CO<sub>2</sub></td>
 </tr>
-
 <tr>
 <td>prva skupina</td>
 <td>70</td>
@@ -1175,7 +1116,6 @@ TABLICA 2 – dizelsko gorivo
 <td>185</td>
 <td>55</td>
 </tr>
-
 <tr>
 <td>druga skupina</td>
 <td>85</td>
@@ -1184,7 +1124,6 @@ TABLICA 2 – dizelsko gorivo
 <td>1.010</td>
 <td>175</td>
 </tr>
-
 <tr>
 <td>treća skupina</td>
 <td>120</td>
@@ -1193,7 +1132,6 @@ TABLICA 2 – dizelsko gorivo
 <td>7.135</td>
 <td>1.150</td>
 </tr>
-
 <tr>
 <td>četvrta skupina</td>
 <td>140</td>
@@ -1202,7 +1140,6 @@ TABLICA 2 – dizelsko gorivo
 <td>30.135</td>
 <td>1.250</td>
 </tr>
-
 <tr>
 <td>peta skupina</td>
 <td>170</td>
@@ -1211,7 +1148,6 @@ TABLICA 2 – dizelsko gorivo
 <td>67.635</td>
 <td>1.350</td>
 </tr>
-
 <tr>
 <td>šesta skupina</td>
 <td>200</td>
@@ -1220,20 +1156,17 @@ TABLICA 2 – dizelsko gorivo
 <td>108.135</td>
 <td>1.450</td>
 </tr>
-
 </table>
 
 TABLICA 3 – benzin, ukapljeni naftni plin, prirodni plin i druga goriva osim dizelskog
 
 <table>
-
 <tr>
 <td></td>
 <td colspan="3">Emisija CO<sub>2</sub> (g/km)</td>
 <td>ON u kn</td>
 <td>Iznos u kn za 1 g/km CO<sub>2</sub></td>
 </tr>
-
 <tr>
 <td>prva skupina</td>
 <td>75</td>
@@ -1242,7 +1175,6 @@ TABLICA 3 – benzin, ukapljeni naftni plin, prirodni plin i druga goriva osim d
 <td>95</td>
 <td>35</td>
 </tr>
-
 <tr>
 <td>druga skupina</td>
 <td>90</td>
@@ -1251,7 +1183,6 @@ TABLICA 3 – benzin, ukapljeni naftni plin, prirodni plin i druga goriva osim d
 <td>620</td>
 <td>135</td>
 </tr>
-
 <tr>
 <td>treća skupina</td>
 <td>120</td>
@@ -1260,7 +1191,6 @@ TABLICA 3 – benzin, ukapljeni naftni plin, prirodni plin i druga goriva osim d
 <td>4.670</td>
 <td>450</td>
 </tr>
-
 <tr>
 <td>četvrta skupina</td>
 <td>140</td>
@@ -1269,7 +1199,6 @@ TABLICA 3 – benzin, ukapljeni naftni plin, prirodni plin i druga goriva osim d
 <td>13.670</td>
 <td>700</td>
 </tr>
-
 <tr>
 <td>peta skupina</td>
 <td>170</td>
@@ -1278,7 +1207,6 @@ TABLICA 3 – benzin, ukapljeni naftni plin, prirodni plin i druga goriva osim d
 <td>34.670</td>
 <td>1.200</td>
 </tr>
-
 <tr>
 <td>šesta skupina</td>
 <td>200</td>
@@ -1287,7 +1215,6 @@ TABLICA 3 – benzin, ukapljeni naftni plin, prirodni plin i druga goriva osim d
 <td>70.670</td>
 <td>1.300</td>
 </tr>
-
 </table>
 
 (2) Iznos emisije ugljičnog dioksida (CO<sub>2</sub>) utvrđuje se na temelju certifikata o sukladnosti (COC dokumenta), potvrde proizvođača prema podatku o iznosu prosječne emisije ugljičnog dioksida (CO<sub>2</sub>) u kombiniranoj vožnji, izjave o sukladnosti ili potvrde o sukladnosti pojedinačno pregledanog vozila prema podatku o iznosu prosječne emisije ugljičnog dioksida (CO<sub>2</sub>) u kombiniranoj vožnji. Ako se u postupku oporezivanja ne može podnijeti dokaz o iznosu emisije ugljičnog dioksida (CO<sub>2</sub>), uzima se da je iznos emisije ugljičnog dioksida (CO<sub>2</sub>) motornog vozila 201 g/km.
@@ -1327,47 +1254,40 @@ KO – koeficijent obujma motora prema Tablici 4 koji se uvećava ovisno o razin
 TABLICA 4 – obujam motora
 
 <table>
-
 <tr>
 <td colspan="3">Obujam motora u kubičnim centimetrima</td>
 <td>KO</td>
 </tr>
-
 <tr>
 <td>51</td>
 <td>do</td>
 <td>125</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>126</td>
 <td>do</td>
 <td>300</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>301</td>
 <td>do</td>
 <td>700</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>701</td>
 <td>do</td>
 <td>1000</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>1001</td>
 <td>do</td>
 <td></td>
 <td>10</td>
 </tr>
-
 </table>
 
 (2) Iznimno od odredbe stavka 1. ovoga članka, na sva motorna vozila iz članka 5. stavka 1. točaka 2. i 4. ovoga Zakona te druga motorna vozila prenamijenjena u takva motorna vozila koja su proizvedena prije 30 i više godina, a koja sukladno posebnim propisima nisu razvrstana u kategoriju starodobnih (oldtimer) vozila, posebni porez se plaća u paušalnom iznosu od 2.000,00 kuna.
@@ -1587,3 +1507,195 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o posebnom porezu na motorna vozila (NN 127/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/127/2876*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O POSEBNOM POREZU NA MOTORNA VOZILA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o posebnom porezu na motorna vozila, koji je Hrvatski sabor donio na sjednici 8. prosinca 2017.
+
+Klasa: 011-01/17-01/112
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 13. prosinca 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O POSEBNOM POREZU NA MOTORNA VOZILA**
+
+#### Članak 1.
+
+U Zakonu o posebnom porezu na motorna vozila (»Narodne novine«, br. 15/13., 108/13. i 115/16.) članak 12. mijenja se i glasi:
+
+»(1) Posebni porez na motorna vozila iz članka 5. stavka 1. točaka 1. i 3. ovoga Zakona te druga motorna vozila prenamijenjena u takva motorna vozila plaća se prema prosječnoj emisiji ugljičnog dioksida (CO<sub>2</sub>), ovisno o vrsti goriva koje vozilo koristi za pogon i prodajnoj cijeni motornog vozila.
+
+(2) Iznos emisije ugljičnog dioksida (CO<sub>2</sub>) utvrđuje se na temelju certifikata o sukladnosti (COC dokumenta), potvrde proizvođača prema podatku o iznosu prosječne emisije ugljičnog dioksida (CO<sub>2</sub>) u kombiniranoj vožnji, izjave o sukladnosti ili potvrde o sukladnosti pojedinačno pregledanog vozila prema podatku o iznosu prosječne emisije ugljičnog dioksida (CO<sub>2</sub>) u kombiniranoj vožnji. Ako se u postupku oporezivanja ne može podnijeti dokaz o iznosu emisije ugljičnog dioksida (CO<sub>2</sub>), uzima se da je iznos emisije ugljičnog dioksida (CO<sub>2</sub>) motornog vozila 401 g/km.
+
+(3) U postupcima koji se vode po službenoj dužnosti zbog nezakonite uporabe motornog vozila Carinska uprava će, ako stranka ne raspolaže valjanom potvrdom, od ovlaštene pravne osobe zatražiti podatke o prosječnoj emisiji ugljičnog dioksida (CO<sub>2</sub>) izraženoj u gramima po kilometru. Ako ovlaštena pravna osoba ne može utvrditi prosječnu emisiju ugljičnog dioksida (CO<sub>2</sub>), uzima se da je prosječna emisija za vozila koja za pogon koriste dizelsko gorivo, benzin, ukapljeni naftni plin i prirodni plin 401 g/km.
+
+(4) Za »plug-in« hibridna električna vozila iznos posebnog poreza utvrđen na temelju ovoga članka umanjuje se za postotni iznos koji odgovara dosegu vozila u kilometrima u potpuno električnom načinu rada.
+
+(5) Za motorna vozila s devet sjedala iznos posebnog poreza utvrđen na temelju ovoga članka umanjuje se za 75%, a za motorna vozila s osam sjedala iznos posebnog poreza utvrđen na temelju ovoga članka umanjuje se za 50%.
+
+(6) Za kamper vozila iznos posebnog poreza utvrđen na temelju ovoga članka umanjuje se za 85%.
+
+(7) Na motorna vozila iz članka 5. stavka 1. točke 3. ovoga Zakona te druga motorna vozila prenamijenjena u motorna vozila iz članka 5. stavka 1. točke 3. ovoga Zakona, a koja se razvrstavaju u tarifnu oznaku KN 8704, posebni porez plaća se prema snazi motora u kilovatima (kW).
+
+(8) Iznimno od odredbe stavaka 1. i 7. ovoga članka, na sva motorna vozila iz članka 5. stavka 1. točaka 1. i 3. ovoga Zakona te druga motorna vozila prenamijenjena u takva motorna vozila koja su proizvedena prije 30 i više godina, a koja sukladno posebnim propisima nisu razvrstana u kategoriju starodobnih (oldtimer) vozila, posebni porez plaća se u paušalnom iznosu od 2.000,00 kuna.
+
+(9) Vlada Republike Hrvatske uredbom utvrđuje način izračuna i visine sastavnica za izračun posebnog poreza iz stavaka 1. i 7. ovoga članka.«.
+
+#### Članak 2.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Posebni porez na motorna vozila iz članka 5. stavka 1. točaka 2. i 4. ovoga Zakona te druga motorna vozila prenamijenjena u takva motorna vozila plaća se prema obujmu motora u kubičnim centimetrima (cm³) i ovisno o razinama emisija ispušnih plinova.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, na sva motorna vozila iz članka 5. stavka 1. točaka 2. i 4. ovoga Zakona te druga motorna vozila prenamijenjena u takva motorna vozila koja su proizvedena prije 30 i više godina, a koja sukladno posebnim propisima nisu razvrstana u kategoriju starodobnih (oldtimer) vozila, posebni porez plaća se u paušalnom iznosu od 2.000,00 kuna.
+
+(3) Vlada Republike Hrvatske uredbom utvrđuje način izračuna i visine sastavnica za izračun posebnog poreza iz stavka 1. ovoga članka.«.
+
+#### Članak 3.
+
+U članku 25.a stavku 3. riječi: »stavka 1. ovoga članka« zamjenjuju se riječima: »stavka 2. ovoga članka«.
+
+U stavku 4. riječi: »stavka 1. ovoga članka« zamjenjuju se riječima: »stavka 2. ovoga članka«.
+
+#### Članak 4.
+
+Naziv glave iznad članka 26. mijenja se i glasi: »XIII. STJECANJE RABLJENIH MOTORNIH VOZILA U REPUBLICI HRVATSKOJ«.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Pravne i fizičke osobe sa sjedištem ili prebivalištem u Republici Hrvatskoj plaćaju upravnu pristojbu na stjecanje rabljenih motornih vozila u Republici Hrvatskoj na koja se plaća posebni porez na motorna vozila iz članka 1. ovoga Zakona.
+
+(2) Stjecanjem se, u smislu stavka 1. ovoga članka, ne smatra stjecanje rabljenih motornih vozila na temelju pravomoćnih rješenja o nasljeđivanju niti stjecanje rabljenih motornih vozila temeljem statusnih promjena sukladno propisima kojima se uređuju trgovačka društva.
+
+(3) Pristojbeni obveznik plaćanja upravne pristojbe na stjecanje rabljenih motornih vozila iz stavka 1. ovoga članka je stjecatelj.
+
+(4) Pristojbena obveza plaćanja upravne pristojbe na stjecanje iz stavka 1. ovoga članka nastaje u trenutku registracije motornog vozila na ime stjecatelja rabljenog motornog vozila.
+
+(5) Upravna pristojba iz stavka 1. ovoga članka plaća se prema propisanom iznosu upravne pristojbe u kunama po kilovatu (KW), ovisno o godini starosti rabljenog motornog vozila, a propisuje se posebnim propisom kojim se uređuje plaćanje upravnih pristojbi za pojedina pismena i radnje te iznose tih pristojbi.
+
+(6) Godina starosti rabljenog motornog vozila iz stavka 5. ovoga članka izračunava se prema godini proizvodnje vozila, odnosno godinu starosti rabljenog motornog vozila čini tekuća godina umanjena za godinu proizvodnje. Ako je tekuća godina jednaka godini proizvodnje, smatra se da je vozilo staro jednu godinu.
+
+(7) Upravna pristojba iz stavka 1. ovoga članka ne plaća se:
+
+a) na stjecanje rabljenih motornih vozila koja su namijenjena za potrebe propisane člankom 15. stavkom 1. ovoga Zakona
+
+b) ako se na stjecanje rabljenih motornih vozila, u postupku stjecanja ili isporuke prema posebnom propisu o porezu na dodanu vrijednost plaća porez na dodanu vrijednost ili se primjenjuje posebni postupak oporezivanja marže
+
+c) na stjecanje rabljenih motornih vozila temeljem ugovora o darovanju ako je stjecatelj bračni drug, potomak i predak koji čini uspravnu liniju te posvojenik i posvojitelj koji je u tom odnosu s darovateljem ili ako se na stjecanje rabljenih motornih vozila temeljem ugovora o darovanju plaća porez na nasljedstva i darove prema posebnom propisu
+
+d) ako je stjecatelj temeljem općih oslobođenja prema posebnom propisu kojim se uređuje područje upravnih pristojbi oslobođen od plaćanja upravne pristojbe.
+
+(8) Bez dokaza o plaćenoj upravnoj pristojbi ili plaćenom porezu na nasljedstva i darove na stjecanje rabljenog motornog vozila ne može se kod nadležnog tijela obaviti registracija tog motornog vozila, osim u slučajevima iz stavka 7. ovoga članka.
+
+(9) Obračun i kontrolu naplate upravne pristojbe na stjecanje rabljenih motornih vozila izvršava tijelo nadležno za registraciju motornih vozila.«.
+
+#### Članak 5.
+
+U članku 30. iza točke 3. briše se zarez i stavlja točka, a točke 4. i 5. brišu se.
+
+#### Članak 6.
+
+U članku 31. stavku 2. iza riječi: »Carinska uprava« briše se zarez, kao i riječi: »osim za prekršaje iz članka 30. stavka 1. točke 4. i 5. ovoga Zakona za koje je nadležna Porezna uprava«.
+
+#### Članak 7.
+
+U članku 31.a ispred riječi: »Po« stavlja se oznaka stavka (1) te se dodaje stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, upravne pristojbe plaćaju se na stjecanje rabljenih motornih vozila prilikom registracije motornog vozila sukladno članku 26. ovoga Zakona.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 8.
+
+(1) Vlada Republike Hrvatske donijet će uredbe iz članaka 1. i 2. ovoga Zakona u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Do stupanja na snagu uredbi iz stavka 1. ovoga članka primjenjuju se visine posebnog poreza propisane člancima 12. i 13. Zakona o posebnom porezu na motorna vozila (»Narodne novine«, br. 15/13., 108/13. i 115/16.).
+
+#### Članak 9.
+
+(1) Na sva stjecanja rabljenih motornih vozila koja su nastala do stupanja na snagu ovoga Zakona primjenjuju se odredbe Zakona o posebnom porezu na motorna vozila (»Narodne novine«, br. 15/13., 108/13. i 115/16.).
+
+(2) Postupci utvrđivanja i naplate poreza na rabljena motorna vozila započeti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o posebnom porezu na motorna vozila (»Narodne novine«, br. 15/13., 108/13. i 115/16.).
+
+#### Članak 10.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2018.
+
+Klasa: 022-03/17-01/163
+
+Zagreb, 8. prosinca 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni i dopuni Zakona o posebnom porezu na motorna vozila (NN 121/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/121/2388*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O POSEBNOM POREZU NA MOTORNA VOZILA
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o posebnom porezu na motorna vozila, koji je Hrvatski sabor donio na sjednici 29. studenoga 2019.
+
+Klasa: 011-01/19-01/213
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O POSEBNOM POREZU NA MOTORNA VOZILA**
+
+#### Članak 1.
+
+U Zakonu o posebnom porezu na motorna vozila (»Narodne novine«, br. 15/13., 108/13., 115/16. i 127/17.) u članku 26. stavku 5. iza riječi: »kilovatu (KW)« dodaju se riječi: »odnosno kubičnom centimetru (cm³)«.
+
+U stavku 7. točka c) mijenja se i glasi:
+
+»c) na stjecanje rabljenih motornih vozila na temelju ugovora o darovanju, ako je motorno vozilo u Republici Hrvatskoj registrirano na darovatelja, a stjecatelj je bračni drug, potomak i predak koji čini uspravnu liniju te posvojenik i posvojitelj koji je u tom odnosu s darovateljem ili ako se na stjecanje rabljenih motornih vozila na temelju ugovora o darovanju plaća porez na nasljedstva i darove prema posebnom propisu«.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/216
+
+Zagreb, 29. studenoga 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

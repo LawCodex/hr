@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-07-24
+last_amended: 2022-07-11
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "82/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "82/15, 80/22"
+amendments:
+  - "NN 80/2022 (1167) Zakon o izmjenama Zakona o zakladi »Hrvatska za djecu«"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/82/1571"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Zakladi "Hrvatska za djecu"
 
 > Izvor: Narodne novine, NN 82/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/82/1571).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 80/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -276,3 +280,85 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o zakladi »Hrvatska za djecu« (NN 80/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1167*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZAKLADI »HRVATSKA ZA DJECU«
+
+Proglašavam Zakon o izmjenama Zakona o zakladi »Hrvatska za djecu«, koji je Hrvatski sabor donio na sjednici 1. srpnja 2022.
+
+Klasa: 011-02/22-02/57
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 6. srpnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZAKLADI »HRVATSKA ZA DJECU«**
+
+### Članak 1.
+
+U Zakonu o Zakladi »Hrvatska za djecu« (»Narodne novine«, br. 82/15.) u članku 1. stavku 2. riječi: »zakona kojim se uređuju zaklade i fundacije« zamjenjuju se riječima: »propisa kojim se uređuju zaklade«.
+
+### Članak 2.
+
+U članku 2. stavku 5. riječi: »Zakladni upisnik« zamjenjuju se riječima: »Registar zaklada Republike Hrvatske«.
+
+### Članak 3.
+
+U članku 6. stavku 4. iza riječi: »interesima Zaklade« zarez se zamjenjuje točkom, a riječi: »ili ne ispunjava neki od uvjeta iz članka 21. stavka 1. Zakona o zakladama i fundacijama (»Narodne novine«, br. 36/95. i 64/01.).« brišu se.
+
+### Članak 4.
+
+U članku 10. stavku 6. riječ: »neodređeno« zamjenjuje se riječju: »određeno«.
+
+### Članak 5.
+
+U članku 12. stavku 1. riječi: »ili ne ispunjava jedan ili više uvjeta iz članka 21. stavka 1. Zakona o zakladama i fundacijama (»Narodne novine«, br. 36/95. i 64/01.)« brišu se.
+
+### Članak 6.
+
+U članku 18. stavku 1. podstavku 1. iza riječi: »sreću« zarez i riječi: »sukladno članku 17. stavku 5. Zakona o zakladama i fundacijama (»Narodne novine«, br. 36/95. i 64/01.)« brišu se.
+
+### Članak 7.
+
+U članku 20. stavku 3. riječi: »odredbom članka 31. stavka 3. Zakona o zakladama i fundacijama (»Narodne novine«, br. 36/95. i 64/01.)« zamjenjuju se riječima: »propisom kojim se uređuju zaklade«.
+
+### Članak 8.
+
+U članku 22. riječi: »propisanih člankom 25. Zakona o zakladama i fundacijama (»Narodne novine«, br. 36/95. i 64/01.)« brišu se.
+
+### Članak 9.
+
+Upravni odbor Zaklade dužan je uskladiti Statut i druge opće akte Zaklade s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/21-01/112
+
+Zagreb, 1. srpnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

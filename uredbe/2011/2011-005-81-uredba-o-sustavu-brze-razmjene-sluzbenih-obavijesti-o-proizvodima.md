@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2011-01-12
-last_amended: 2014-10-10
+last_amended: 2019-04-17
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "5/11, 120/14"
+narodne_novine: "5/11, 120/14, 39/19"
 amendments:
   - "NN 120/2014 (2283) Uredba o izmjeni Uredbe o sustavu brze razmjene službenih obavijesti o proizvodima koji predstavljaju rizik za zdravlje i sigurnost potrošača (RAPEX)"
+  - "NN 39/2019 (811) Uredba o izmjeni i dopuni Uredbe o sustavu brze razmjene službenih obavijesti o proizvodima koji predstavljaju rizik za zdravlje i sigurnost potrošača (RAPEX)"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/5/81"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 5/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/5/81).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 120/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 120/2014, NN 39/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -156,3 +157,54 @@ Zagreb, 9. listopada 2014.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjeni i dopuni Uredbe o sustavu brze razmjene službenih obavijesti o proizvodima koji predstavljaju rizik za zdravlje i sigurnost potrošača (RAPEX) (NN 39/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/39/811*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 10. Zakona o općoj sigurnosti proizvoda (»Narodne novine«, br. 30/09, 139/10, 14/14 i 32/19), Vlada Republike Hrvatske je na sjednici održanoj 15. travnja 2019. godine donijela
+
+**UREDBU**
+
+**O IZMJENI I DOPUNI UREDBE O SUSTAVU BRZE RAZMJENE SLUŽBENIH OBAVIJESTI O PROIZVODIMA KOJI PREDSTAVLJAJU RIZIK ZA ZDRAVLJE I SIGURNOST POTROŠAČA (RAPEX)**
+
+### Članak 1.
+
+U Uredbi o sustavu brze razmjene službenih obavijesti o pro­i­z­vodima koji predstavljaju rizik za zdravlje i sigurnost potrošača ­(RAPEX) (»Narodne novine«, br. 5/11 i 120/14), iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovom se Uredbom, u hrvatsko zakonodavstvo, preuzima Direktiva 2001/95/EZ Europskog parlamenta i Vijeća od 3. prosinca 2001. o općoj sigurnosti proizvoda (Tekst značajan za EGP) (SL L 218, 13. 8. 2008.), kako je posljednji put izmijenjena Uredbom (EZ) br. 765/2008 Europskog parlamenta i Vijeća od 9. srpnja 2008. o utvrđivanju zahtjeva za akreditaciju i za nadzor tržišta u odnosu na stavljanje proizvoda na tržište i o stavljanju izvan snage Uredbe (EEZ) br. 339/93 Tekst značajan za EGP) (SL L 218, 13. 8. 2008.).«.
+
+### Članak 2.
+
+Članak 3. mijenja se i glasi:
+
+»(1) Kontaktna točka iz članka 2. stavka 1. ove Uredbe je središnji ured Državnog inspektorata.
+
+(2) Kontaktna mjesta iz članka 2. stavka 2. ove Uredbe jesu:
+
+– područni uredi Državnog inspektorata
+
+– ministarstvo nadležno za more, promet i infrastrukturu
+
+– ministarstvo nadležno za unutarnje poslove
+
+– ministarstvo nadležno za financije
+
+– središnje tijelo državne uprave nadležno za mjeriteljstvo
+
+– Hrvatska regulatorna agencija za mrežne djelatnosti.«.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-03/17  
+Urbroj: 50301-25/16-19-2  
+Zagreb, 15. travnja 2019.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

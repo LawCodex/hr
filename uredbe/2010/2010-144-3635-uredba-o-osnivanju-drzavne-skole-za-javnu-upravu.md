@@ -6,15 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2010-12-22
-last_amended: 2015-06-30
+last_amended: 2018-09-21
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "144/10, 62/12, 112/12, 72/15"
+narodne_novine: "144/10, 62/12, 112/12, 72/15, 84/18"
 amendments:
   - "NN 62/2012 (1497) Uredba o izmjenama i dopuni Uredbe o osnivanju Državne škole za javnu upravu"
   - "NN 112/2012 (2432) Uredba o izmjeni Uredbe o osnivanju Državne škole za javnu upravu"
   - "NN 72/2015 (1371) Uredba o izmjenama i dopuni Uredbe o osnivanju Državne škole za javnu upravu"
+  - "NN 84/2018 (1666) Uredba o izmjeni Uredbe o osnivanju Državne škole za javnu upravu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3635"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 144/2010 (https://narodne-novine.nn.hr/eli/sluzbeni/2010/144/3635).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 62/2012, NN 112/2012, NN 72/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 62/2012, NN 112/2012, NN 72/2015, NN 84/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -360,3 +361,38 @@ Zagreb, 24. lipnja 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjeni Uredbe o osnivanju Državne škole za javnu upravu (NN 84/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/84/1666*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93, 29/97, 47/99 i 35/08), Vlada Republike Hrvatske je na sjednici održanoj 20. rujna 2018. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O OSNIVANJU DRŽAVNE ŠKOLE ZA JAVNU UPRAVU**
+
+### Članak 1.
+
+U Uredbi o osnivanju Državne škole za javnu upravu (»Narodne novine«, br. 144/10, 62/12, 112/12 i 72/15) članak 4. mijenja se i glasi:
+
+»Djelatnost Državne škole je stručno osposobljavanje i usavršavanje državnih dužnosnika, državnih službenika, javnih službenika i zaposlenika u pravnim osobama s javnim ovlastima, izabranih dužnosnika i službenika u tijelima lokalne i područne (regionalne) samouprave te obrazovanje odraslih, s ciljem trajnog podizanja razine i kvalitete njihovog znanja, vještina i sposobnosti, radi oblikovanja profesionalnog, djelotvornog i učinkovitog javnog sektora koji će pružati pravodobne i kvalitetne javne usluge, u skladu s najboljim općeprihvaćenim standardima.«.
+
+### Članak 2.
+
+Upravno vijeće Državne škole za javnu upravu će u roku od 30 dana od dana stupanja na snagu ove Uredbe uskladiti Statut Državne škole za javnu upravu s odredbama ove Uredbe.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-03/42
+
+Urbroj: 50301-25/27-18-5
+
+Zagreb, 20. rujna 2018.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

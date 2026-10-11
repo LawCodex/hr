@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
-last_amended: 2010-12-10
+last_amended: 2026-05-08
 status: in_force
-status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "79/07, 139/10"
+narodne_novine: "79/07, 139/10, 111/18, 48/26"
 amendments:
   - "NN 139/2010 (3538) Zakon o izmjenama Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu"
+  - "NN 111/2018 (2149) Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu"
+  - "NN 48/2026 (579) Zakon o izmjenama Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2475"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2475).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 139/2010.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 139/2010, NN 111/2018, NN 48/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -188,3 +190,136 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu (NN 111/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/111/2149*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O OBVEZNOM ZDRAVSTVENOM NADZORU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu, koji je Hrvatski sabor donio na sjednici 3. prosinca 2018.
+
+Klasa: 011-01/18-01/156
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 5. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O OBVEZNOM ZDRAVSTVENOM NADZORU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU**
+
+### Članak 1.
+
+U Zakonu o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu (»Narodne novine«, br. 79/07. i 139/10.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovim se Zakonom u hrvatsko zakonodavstvo preuzima Direktiva 2009/148/EZ Europskog parlamenta i Vijeća od 30. studenog 2009. o zaštiti radnika od rizika povezanih s izlaganjem azbestu na radu (kodificirana verzija), Tekst značajan za EGP (SL L 330, 16. 12. 2009.).«.
+
+### Članak 2.
+
+U članku 5. stavku 3. riječi: »Hrvatskog zavoda za zaštitu zdravlja i sigurnost na radu« zamjenjuju se riječima: »Hrvatskog zavoda za javno zdravstvo«.
+
+### Članak 3.
+
+U članku 9. stavcima 1. i 2. riječi: »Hrvatski zavod za zaštitu zdravlja i sigurnost na radu« zamjenjuju se riječima: »Hrvatski zavod za javno zdravstvo«.
+
+### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/181
+
+Zagreb, 3. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu (NN 48/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/48/579*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBVEZNOM ZDRAVSTVENOM NADZORU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU
+
+Proglašavam Zakon o izmjenama Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu, koji je Hrvatski sabor donio na sjednici 30. travnja 2026.
+
+Klasa: 011-02/26-02/31  
+Urbroj: 71-10-01/1-26-2  
+Zagreb, 5. svibnja 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBVEZNOM ZDRAVSTVENOM NADZORU RADNIKA PROFESIONALNO IZLOŽENIH AZBESTU**
+
+### Članak 1.
+
+U Zakonu o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu (»Narodne novine«, br. 79/07., 139/10. i 111/18.) članak 1.a mijenja se i glasi:
+
+»Ovim se Zakonom u hrvatsko zakonodavstvo preuzimaju sljedeći akti Europske unije:
+
+– Direktiva 2009/148/EZ Europskog parlamenta i Vijeća od 30. studenoga 2009. o zaštiti radnika od rizika povezanih s izlaganjem azbestu na radu (SL L 330, 16. 12. 2009.)
+
+– Direktiva (EU) 2023/2668 Europskog parlamenta i Vijeća od 22. studenoga 2023. o izmjeni Direktive 2009/148/EZ o zaštiti radnika od rizika povezanih s izlaganjem azbestu na radu (SL L 2023/2668, 30. 11. 2023.).«.
+
+### Članak 2.
+
+U članku 2. podstavak 1. mijenja se i glasi:
+
+»Azbest jesu sljedeći vlaknasti silikati koji su razvrstani kao karcinogeni kategorije 1.A u skladu s Prilogom VI. dijelom 3. Uredbe (EZ) br. 1272/2008 Europskog parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označivanju i pakiranju tvari i smjesa, o izmjeni i stavljanju izvan snage Direktive 67/548/EEZ i Direktive 1999/45/EZ i o izmjeni Uredbe (EZ) br. 1907/2006 (Tekst značajan za EGP) (SL L 353, 31. 12. 2008.): azbest aktinolit, azbest amozit (grinerit), azbest antofilit, azbest krizotil, azbest krokidolit i azbest tremolit.«.
+
+### Članak 3.
+
+Članak 4. mijenja se i glasi:
+
+»Profesionalne bolesti uzrokovane azbestom u smislu ovoga Zakona jesu:
+
+− bolesti dišnog sustava uzrokovane azbestom, odnosno azbestoza pluća, plak poplućnice, difuzna zadebljanja poplućnice i kronični pleuralni izljev
+
+− mezoteliom seroznih membrana uzrokovan azbestom
+
+− maligni tumori dišnog sustava (pluća, bronha, grkljana), jajnika i probavnog sustava (ždrijela, želuca, debelog crijeva i rektuma).«.
+
+### Članak 4.
+
+Svi postupci pokrenuti prema Zakonu o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu (»Narodne novine«, br. 79/07., 139/10. i 111/18.), a nedovršeni prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama ovoga Zakona, ako je to povoljnije za radnika.
+
+### Članak 5.
+
+Ministar nadležan za zdravstvo u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladit će Pravilnik o uvjetima i načinu praćenja zdravstvenog stanja, dijagnostičkim postupcima kod sumnje na postojanje profesionalnih bolesti uzrokovanih azbestom te mjerilima za priznavanje profesionalne bolesti uzrokovane azbestom (»Narodne novine«, br. 134/08.) s odredbama ovoga Zakona.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/128  
+Zagreb, 30. travnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-10-25
-last_amended: 2013-06-21
+last_amended: 2022-11-11
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "96/93, 76/13"
+narodne_novine: "96/93, 76/13, 98/19, 133/22"
 amendments:
   - "NN 76/2013 (1525) Zakon o izmjenama i dopunama Zakona o državnim maticama"
+  - "NN 98/2019 (1928) Zakon o izmjenama Zakona o državnim maticama"
+  - "NN 133/2022 (1997) Zakon o izmjenama Zakona o državnim maticama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1878"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 96/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1878).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013, NN 98/2019, NN 133/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -858,3 +860,389 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o državnim maticama (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1928*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O DRŽAVNIM MATICAMA
+
+Proglašavam Zakon o izmjenama Zakona o državnim maticama, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/136
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O DRŽAVNIM MATICAMA**
+
+#### Članak 1.
+
+U Zakonu o državnim maticama (»Narodne novine«, br. 96/93. i 76/13.) članak 4. mijenja se i glasi:
+
+»Poslove osobnih stanja građana obavlja nadležno upravno tijelo županije odnosno Grada Zagreba (u daljnjem tekstu: nadležno upravno tijelo) kao povjerene poslove državne uprave.
+
+Državne matice neposredno vode matičari.
+
+Ministarstvo uprave utvrđuje i vodi jedinstveni informacijski sustav državnih matica te se brine za njegovo održavanje i nadogradnju.
+
+Ministarstvo uprave je voditelj zbirke osobnih podataka državnih matica sukladno propisima kojima se uređuje zaštita osobnih podataka.«.
+
+#### Članak 2.
+
+U članku 5. stavak 4. briše se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 3.
+
+U članku 9.a stavku 1. riječ: »ureda« zamjenjuje se riječima: »upravnog tijela«.
+
+#### Članak 4.
+
+U članku 27. riječ: »ureda« zamjenjuje se riječima: »upravnog tijela«.
+
+#### Članak 5.
+
+U članku 30. stavku 1. riječ: »ureda« zamjenjuje se riječima: »upravnog tijela«.
+
+#### Članak 6.
+
+U članku 31. stavku 2. riječi: »nadležni ured« zamjenjuju se riječima: »nadležno upravno tijelo«.
+
+#### Članak 7.
+
+U članku 36. riječ: »ureda« zamjenjuje se riječima: »upravnog tijela«.
+
+#### Članak 8.
+
+U članku 39. stavcima 2. i 3. riječ: »ureda« zamjenjuje se riječima: »upravnog tijela«.
+
+#### Članak 9.
+
+U članku 40. stavku 2. u prvoj rečenici riječ: »ureda« zamjenjuje se riječima »upravnog tijela«, a u drugoj rečenici riječi: »Nadležni ured« zamjenjuju se riječima: »Nadležno upravno tijelo«.
+
+#### Članak 10.
+
+U članku 47. riječ: »državni« briše se.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 11.
+
+Ministar nadležan za poslove opće uprave uskladit će Naputak za provedbu Zakona o državnim maticama i upisu posvojenja u maticu rođenih (»Narodne novine«, br. 26/08.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Ministar nadležan za poslove opće uprave uskladit će Pravilnik o obrascu matice vjenčanih, izvacima i potvrdama koji se izdaju na temelju državnih matica (»Narodne novine«, br. 91/13.) u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 12.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/131  
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o državnim maticama (NN 133/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/133/1997*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O DRŽAVNIM MATICAMA
+
+Proglašavam Zakon o izmjenama Zakona o državnim maticama, koji je Hrvatski sabor donio na sjednici 4. studenoga 2022.
+
+Klasa: 011-02/22-02/151  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 7. studenoga 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O DRŽAVNIM MATICAMA**
+
+#### Članak 1.
+
+U Zakonu o državnim maticama (»Narodne novine«, br. 96/93., 76/13. i 98/19.) u članku 3. stavku 2. riječi: »Ministarstva uprave« zamjenjuju se riječima: »tijela državne uprave nadležnog za poslove opće uprave«.
+
+#### Članak 2.
+
+U članku 4. stavcima 3. i 4. riječi: »Ministarstvo uprave« zamjenjuju se riječima: »Tijelo državne uprave nadležno za poslove opće uprave«.
+
+#### Članak 3.
+
+Članak 9. mijenja se i glasi:
+
+»U maticu rođenih, prilikom temeljnog upisa, upisuju se:
+
+1. podaci o rođenju:
+
+a) osobno ime,
+
+b) spol,
+
+c) dan, mjesec, godina i sat rođenja,
+
+d) mjesto rođenja,
+
+e) nacionalnost,
+
+f) državljanstvo,
+
+2. podaci o roditeljima djeteta:
+
+a) osobni identifikacijski broj,
+
+b) osobno ime (i rođeno prezime),
+
+c) datum rođenja,
+
+d) mjesto rođenja,
+
+e) nacionalnost,
+
+f) državljanstvo,
+
+g) zanimanje,
+
+h) prebivalište.
+
+Kao naknadni upisi upisuju se bilješke:
+
+1. osobni identifikacijski broj,
+
+2. priznanje i utvrđivanje očinstva i utvrđivanje majčinstva,
+
+3. osporavanje očinstva i majčinstva,
+
+4. skrbništvo za djecu i skrbništvo za punoljetne osobe, prestanak skrbništva i vraćanje poslovne sposobnosti,
+
+5. posvojenje i zabrana izdavanja isprava iz tog upisa,
+
+6. lišenje i vraćanje prava na roditeljsku skrb i partnerska skrb,
+
+7. sklapanje i prestanak braka ili životnog partnerstva,
+
+8. promjena osobnog imena, imena ili prezimena,
+
+9. promjena osobnog imena, imena ili prezimena roditelja i skrbnika,
+
+10. promjena spola,
+
+11. promjena državljanstva,
+
+12. smrt i proglašenje umrlim,
+
+13. naknadni ispravci grešaka i dopune podataka.«.
+
+#### Članak 4.
+
+Članak 16. mijenja se i glasi:
+
+»U maticu vjenčanih, prilikom temeljnog upisa, upisuju se:
+
+1. podaci o ženiku i nevjesti:
+
+a) osobni identifikacijski broj,
+
+b) osobno ime,
+
+c) dan, mjesec i godina rođenja,
+
+d) mjesto rođenja,
+
+e) nacionalnost,
+
+f) državljanstvo,
+
+g) zanimanje,
+
+h) prebivalište,
+
+i) dan, mjesec, godina i mjesto sklapanja braka,
+
+j) sporazumna izjava o prezimenu nakon sklapanja braka,
+
+2. osobna imena roditelja ženika i nevjeste,
+
+3. osobno ime i prebivalište svjedoka pri sklapanju braka i njihov OIB ako im je dodijeljen,
+
+4. osobno ime matičara,
+
+5. osobno ime i prebivalište sudskog tumača ako je pri sklapanju braka bio prisutan tumač te njegov OIB ako mu je dodijeljen.
+
+Kao naknadni upisi upisuju se bilješke:
+
+1. prestanak braka:
+
+a) smrću bračnog druga,
+
+b) proglašenjem nestalog bračnog druga umrlim,
+
+c) poništenjem ili razvodom braka,
+
+2. promjena osobnih imena bračnih drugova,
+
+3. naknadni ispravci grešaka i dopune podataka.«.
+
+#### Članak 5.
+
+Članak 18. mijenja se i glasi:
+
+»U maticu umrlih, prilikom temeljnog upisa, upisuju se:
+
+1. podaci o umrlom:
+
+a) osobni identifikacijski broj,
+
+b) osobno ime i prezime prije sklapanja braka ili životnog partnerstva,
+
+c) spol,
+
+d) dan, mjesec, godina i sat smrti,
+
+e) mjesto smrti,
+
+f) dan, mjesec i godina rođenja,
+
+g) mjesto rođenja,
+
+h) bračno stanje,
+
+i) nacionalnost,
+
+j) državljanstvo,
+
+k) zanimanje,
+
+l) prebivalište,
+
+2. podaci o bračnom drugu ili životnom partneru umrlog ako je umrli bio u braku ili životnom partnerstvu:
+
+a) osobni identifikacijski broj,
+
+b) osobno ime bračnog druga ili životnog partnera i njegovo prezime prije sklapanja braka ili životnog partnerstva,
+
+3. osobno ime roditelja umrlog,
+
+4. osobno ime i prebivalište osobe koja je prijavila smrt, odnosno naziv ustanove ako je smrt prijavila ustanova,
+
+5. proglašenje nestale osobe umrlom i činjenica smrti utvrđena u izvanparničnom postupku s podacima naznačenim u rješenju suda.
+
+Kao naknadni upisi upisuju se bilješke:
+
+1. utvrđivanje identiteta nepoznate umrle osobe,
+
+2. ukidanje odluke o proglašenju osobe umrlom,
+
+3. ukidanje ili preinačenje sudskog rješenja o utvrđivanju smrti,
+
+4. naknadni ispravci grešaka i dopune podataka.«.
+
+#### Članak 6.
+
+Članak 32. mijenja se i glasi:
+
+»Poslove matičara smije obavljati službenik koji je, osim ispunjavanja uvjeta propisanih zakonom i drugim propisima kojima se uređuju službenički odnosi, završio program osposobljavanja, odnosno usavršavanja za obavljanje poslova matičara u Državnoj školi za javnu upravu.
+
+Program osposobljavanja matičar je dužan završiti u roku od godine dana od dana početka rada na radnom mjestu matičara utvrđenom rješenjem o rasporedu. Svaki matičar dužan je završiti program usavršavanja najmanje jednom u svakih pet godina. Matičar se prijavljuje na program osposobljavanja odnosno usavršavanja putem informacijskog sustava Državne škole za javnu upravu.
+
+Matičar koji ne završi program osposobljavanja, odnosno usavršavanja u rokovima iz stavka 2. ovoga članka rasporedit će se na radno mjesto za koje ispunjava uvjete, a ako nema slobodnog radnog mjesta na koje se može rasporediti, stavit će se na raspolaganje. Na raspolaganje se odgovarajuće primjenjuju odredbe posebnog propisa kojim se uređuju službenički odnosi.
+
+U slučaju privremene nesposobnosti za rad, korištenja rodiljnog, očinskog ili roditeljskog dopusta te drugog opravdanog razloga rokovi iz stavka 2. produžit će se na zahtjev matičara za onoliko vremena koliko je trajao opravdani razlog.
+
+Zahtjev iz stavka 4. ovoga članka podnosi se pročelniku nadležnog upravnog tijela. O zahtjevu pročelnik odlučuje rješenjem.
+
+Protiv rješenja iz stavka 5. ovoga članka može se izjaviti žalba županu odnosno gradonačelniku Grada Zagreba.
+
+Državna škola za javnu upravu dužna je tijelu državne uprave nadležnom za poslove opće uprave podnijeti godišnje izvješće o završenim programima iz stavka 1. ovoga članka do kraja ožujka tekuće godine za prethodnu godinu.
+
+Izvješće iz stavka 7. ovoga članka treba sadržavati:
+
+1. naziv programa,
+
+2. ime i prezime matičara koji je završio program,
+
+3. naziv županije u koju je matičar raspoređen odnosno Grada Zagreba,
+
+4. datum završetka programa.«.
+
+#### Članak 7.
+
+Članak 33. mijenja se i glasi:
+
+»Matičar je odgovoran za točno i pravilno vođenje državnih matica te poduzimanje radnji u zakonom propisanim rokovima.
+
+Neizvršavanje obveza iz stavka 1. ovoga članka teška je povreda službene dužnosti.
+
+O pokretanju postupka zbog teške povrede službene dužnosti protiv matičara nadležno upravno tijelo dužno je bez odgode elektroničkim putem obavijestiti tijelo državne uprave nadležno za poslove opće uprave.«.
+
+#### Članak 8.
+
+Članak 34. briše se.
+
+#### Članak 9.
+
+U članku 41. stavcima 1. i 2. riječ: »posljednje« u odgovarajućem padežu briše se.
+
+#### Članak 10.
+
+Članak 45. mijenja se i glasi:
+
+»Upravni nadzor nad provedbom ovoga Zakona provodi tijelo državne uprave nadležno za poslove opće uprave.«.
+
+#### Članak 11.
+
+U članku 46. stavku 1. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 2. riječi: »od 3.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 660,00 eura«, a riječi: »od 2.000,00 do 3.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 390,00 eura«.
+
+U stavku 4. riječi: »od 1.000,00 do 4.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 530,00 eura«.
+
+#### Članak 12.
+
+Članak 47. briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 13.
+
+Službenici zatečeni na radnom mjestu matičara na dan stupanja na snagu ovoga Zakona dužni su završiti program usavršavanja iz članka 6. ovoga Zakona, u roku od dvije godine od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 14.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2023.
+
+Klasa: 022-02/22-01/160  
+Zagreb, 4. studenoga 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

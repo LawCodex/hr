@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-12-24
-last_amended: 2014-12-22
+last_amended: 2020-03-19
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "157/13, 152/14"
+narodne_novine: "157/13, 152/14, 39/18, 32/20"
 amendments:
   - "NN 152/2014 (2863) Zakon o izmjenama i dopunama Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom"
+  - "NN 39/2018 (742) Zakon o izmjenama i dopunama Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom"
+  - "NN 32/2020 (696) Zakon o izmjenama i dopuni Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3292"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 157/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3292).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 152/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 152/2014, NN 39/2018, NN 32/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -820,3 +822,565 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (NN 39/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/39/742*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PROFESIONALNOJ REHABILITACIJI I ZAPOŠLJAVANJU OSOBA S INVALIDITETOM
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom, koji je Hrvatski sabor donio na sjednici 20. travnja 2018.
+
+Klasa: 011-01/18-01/41  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 24. travnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PROFESIONALNOJ REHABILITACIJI I ZAPOŠLJAVANJU OSOBA S INVALIDITETOM**
+
+#### Članak 1.
+
+U Zakonu o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13. i 152/14.) u članku 4. stavak 1. mijenja se i glasi:
+
+»(1) Pravo na profesionalnu rehabilitaciju može ostvariti osoba kojoj je prema posebnom propisu utvrđen status osobe s invaliditetom te time ispunjava uvjete za upis u očevidnik zaposlenih osoba s invaliditetom iz članka 13. ovoga Zakona.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Profesionalna rehabilitacija obuhvaća usluge koje uključuju sljedeće mjere i aktivnosti:
+
+‒ sudjelovanje u utvrđivanju preostalih radnih i općih sposobnosti
+
+‒ profesionalno informiranje, savjetovanje i procjenu profesionalnih mogućnosti
+
+‒ analizu tržišta rada, mogućnosti zapošljavanja i uključivanja u rad
+
+‒ procjenu mogućnosti izvođenja, razvoja i usavršavanja programa profesionalnog osposobljavanja
+
+‒ radno osposobljavanje, obrazovanje i programe održavanja i usavršavanja radnih i radno-socijalnih vještina i sposobnosti u razdoblju do zapošljavanja
+
+‒ informiranje i savjetovanje o mogućnostima koje asistivna tehnologija pruža u učenju i radu
+
+‒ pojedinačne i skupne programe za unapređenje radno-socijalne uključenosti u zajednicu
+
+‒ informiranje i savjetovanje o primjeni različitih učinkovitih tehnika u učenju i radu
+
+‒ razvoj motivacije i osposobljavanje osobe s invaliditetom u korištenju odabrane tehnologije
+
+‒ tehničku pomoć i podršku u provedbi usluga profesionalne rehabilitacije, praćenje i procjenu rezultata profesionalne rehabilitacije
+
+‒ informiranje i podršku u izvorima financiranja.«.
+
+Stavak 5. briše se.
+
+Dosadašnji stavci 6. i 7. postaju stavci 5. i 6.
+
+U dosadašnjem stavku 8., koji postaje stavak 7., riječi: »cijenu usluge« zamjenjuju se riječima: »standarde usluga profesionalne rehabilitacije«.
+
+#### Članak 2.
+
+Članak 5. mijenja se i glasi:
+
+»(1) O pravu na profesionalnu rehabilitaciju nezaposlenih osoba s invaliditetom odlučuje rješenjem u prvom stupnju regionalna odnosno područna ustrojstvena jedinica Hrvatskog zavoda za zapošljavanje u kojoj je nezaposlena osoba s invaliditetom prijavljena kao nezaposlena.
+
+(2) Postupak za ostvarivanje prava iz stavka 1. ovoga članka pokreće se na zahtjev osobe s invaliditetom ili njezina zakonskog zastupnika. Zahtjevu se prilaže dokaz o invaliditetu na temelju kojega se osoba može upisati u očevidnik zaposlenih osoba s invaliditetom.
+
+(3) O žalbi protiv rješenja iz stavka 1. ovoga članka odlučuje središnja ustrojstvena jedinica Hrvatskog zavoda za zapošljavanje.«.
+
+#### Članak 3.
+
+Članak 6. mijenja se i glasi:
+
+»(1) Naručitelj usluge profesionalne rehabilitacije može biti:
+
+– Hrvatski zavod za mirovinsko osiguranje
+
+– Hrvatski zavod za zapošljavanje
+
+– Hrvatski zavod za zdravstveno osiguranje
+
+– Zavod za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom
+
+– ministarstvo nadležno za socijalnu politiku putem centara za socijalnu skrb
+
+– osiguravajuće društvo
+
+– poslodavac
+
+– jedinica lokalne i područne (regionalne) samouprave
+
+– privatni naručitelj (osoba s invaliditetom, zakonski zastupnik).
+
+(2) Naručitelj usluge iz stavka 1. ovoga članka dužan je financirati profesionalnu rehabilitaciju.
+
+(3) Profesionalnu rehabilitaciju može naručiti i financirati jedan ili više naručitelja usluge.
+
+(4) Međusobna prava i obveze između centra za profesionalnu rehabilitaciju i jednog ili više naručitelja usluge uređuju se ugovorom koji se sklapa za svakog korisnika posebno.
+
+(5) Naručitelj usluge kontrolira troškove usluge i odlučuje o provođenju daljnjih mjera i aktivnosti profesionalne rehabilitacije.
+
+(6) Cijene usluga profesionalne rehabilitacije utvrđuju se cjenikom koji donosi ministar nadležan za rad odlukom.«.
+
+#### Članak 4.
+
+U članku 7. stavak 1. mijenja se i glasi:
+
+»(1) Osobe s invaliditetom mogu se zaposliti na otvorenom tržištu rada ili pod posebnim uvjetima, uz obvezu osiguranja razumne prilagodbe od strane poslodavca prilikom provedbe testiranja i/ili intervjua u okviru natječajnog postupka te obvezu osiguranja razumne prilagodbe radnog mjesta, uvjeta i organizacije rada.«.
+
+U stavku 2. riječi: »radnog mjesta« zamjenjuju se riječima: »iz stavka 1. ovoga članka«.
+
+#### Članak 5.
+
+U članku 8. stavak 4. mijenja se i glasi:
+
+»(4) Obvezu kvotnog zapošljavanja osoba s invaliditetom poslodavac može ispuniti tako da ima zaposlen propisani broj osoba s invaliditetom upisanih u očevidnik zaposlenih osoba s invaliditetom i/ili zamjenskom kvotom u koju se ubrajaju:
+
+‒ učenici s teškoćama u razvoju i studenti s invaliditetom na praktičnoj nastavi kod poslodavca
+
+‒ rehabilitanti na praksi kod poslodavca
+
+‒ studenti s invaliditetom zaposleni prema posebnom propisu
+
+‒ osobe s invaliditetom na stručnom osposobljavanju za rad bez zasnivanja radnog odnosa i
+
+‒ osobe s invaliditetom čije redovito obrazovanje poslodavac stipendira.«.
+
+U stavku 5. riječi: »ispunjavanje obveze kvotnog zapošljavanja osoba s invaliditetom« zamjenjuju se riječima: »zamjensku kvotu«.
+
+Stavak 6. briše se.
+
+Dosadašnji stavak 7., koji postaje stavak 6., mijenja se i glasi:
+
+»(6) Obvezu kvotnog zapošljavanja osoba s invaliditetom iz stavka 1. ovoga članka nema novoosnovani poslodavac u razdoblju od 24 mjeseca od dana upisa u odgovarajući registar odnosno dana ustrojavanja prema posebnom propisu.«.
+
+U dosadašnjem stavku 8., koji postaje stavak 7., broj: »9« zamjenjuje se brojem: »8«.
+
+Dosadašnji stavak 9. postaje stavak 8.
+
+U dosadašnjem stavku 10., koji postaje stavak 9., riječi: »i ministarstvo nadležno za financije« brišu se.
+
+#### Članak 6.
+
+U članku 9. stavku 2. riječi: »uz prijavu, odnosno ponudu« zamjenjuju se riječima: »u prijavi, odnosno ponudi«.
+
+U stavku 7. broj: »15« zamjenjuje se brojem: »30«.
+
+U stavku 9. riječi: »oglasit će ništavim« zamjenjuju se riječima: »će ukinuti«.
+
+U stavku 10. riječi: »rješenjem poništiti« zamjenjuju se riječima: »donijeti rješenje kojim će ukinuti«.
+
+U stavku 13. broj: »15« zamjenjuje se brojem: »30«, a iza riječi: »iz stavka 12. ovoga članka« dodaju se riječi: »ili u roku od 30 dana od dana saznanja o sklapanju ugovora o radu s izabranim kandidatom, a najkasnije u roku od šest mjeseci od dana sklapanja ugovora o radu s izabranim kandidatom«.
+
+U stavku 14. riječi: »u roku predviđenom zakonom kojim je reguliran upravni postupak« zamjenjuju se riječima: »u roku od 60 dana od dana podnošenja urednog zahtjeva«.
+
+U stavku 15. riječ: »Izvršno« zamjenjuje se riječju: »Pravomoćno«.
+
+U stavku 18. podstavak 1. mijenja se i glasi:
+
+»‒ prestanku službe po sili zakona«.
+
+U stavku 19. riječi: »ili neke druge osobito važne činjenice« brišu se.
+
+Iza stavka 19. dodaju se stavci 20. i 21. koji glase:
+
+»(20) Pravo prednosti pri zapošljavanju iz ovoga članka ne odnosi se na zapošljavanje putem mjere javnih radova.
+
+(21) Odredbe ovoga članka primjenjuju se na odgovarajući način na postupak popunjavanja slobodnih radnih mjesta putem internog oglasa.«.
+
+#### Članak 7.
+
+U članku 10. stavak 4. briše se.
+
+U dosadašnjem stavku 5., koji postaje stavak 4., riječi: »obvezu podnošenja izvješća iz stavka 4. ovoga članka,« brišu se.
+
+Dosadašnji stavak 6. postaje stavak 5.
+
+Dosadašnji stavak 7., koji postaje stavak 6., mijenja se i glasi:
+
+»(6) Sredstva uplaćena s osnove novčane naknade koriste se za:
+
+‒ održivost i razvoj sustava profesionalne rehabilitacije
+
+‒ poticaje i nagrade pri zapošljavanju osoba s invaliditetom koje isplaćuje Zavod za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom
+
+‒ projekte i programe za zapošljavanje osoba s invaliditetom koje provodi Zavod za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom
+
+‒ poticaje pri zapošljavanju osoba s invaliditetom koje isplaćuju korisnici utvrđeni Registrom proračunskih i izvanproračunskih korisnika i
+
+‒ projekte i programe za zapošljavanje osoba s invaliditetom koje provode korisnici utvrđeni Registrom proračunskih i izvanproračunskih korisnika.«.
+
+Iza dosadašnjeg stavka 7., koji je postao stavak 6., dodaje se novi stavak 7. koji glasi:
+
+»(7) Ministar nadležan za rad donosi odluku o korištenju i raspodjeli sredstava iz stavka 6. ovoga članka, najkasnije do 1. rujna tekuće godine za sljedeću godinu.«.
+
+#### Članak 8.
+
+U članku 12. stavak 4. mijenja se i glasi:
+
+»(4) Poslodavac je, ovisno o radnim sposobnostima, karakteristikama i individualnim potrebama osobe s invaliditetom koja se zapošljava, dužan osigurati odgovarajuće oblike razumne prilagodbe u vezi s prilagodbom organizacijskih, psihofizičkih i socijalnih aspekata radnog mjesta i radnog okoliša, kao i potrebne prilagodbe vezane uz učinkovitost i trajanje rada.«.
+
+#### Članak 9.
+
+U članku 15. stavci 2., 3. i 4. mijenjaju se i glase:
+
+»(2) Osnivač centra za profesionalnu rehabilitaciju je Republika Hrvatska, a osnivačka prava i dužnosti u ime osnivača obavlja Vlada Republike Hrvatske putem ministarstva nadležnog za rad.
+
+(3) Centar za profesionalnu rehabilitaciju osniva se uredbom Vlade Republike Hrvatske.
+
+(4) Uredbom iz stavka 3. ovoga članka uređuju se: naziv i sjedište centra za profesionalnu rehabilitaciju, djelatnost, tijela i područje njihova rada, sredstva za rad, imovina, međusobna prava i obveze osnivača i centra za profesionalnu rehabilitaciju te druga pitanja značajna za osnivanje i rad centra za profesionalnu rehabilitaciju.«.
+
+U stavku 8. broj: »8« zamjenjuje se brojem: »7«.
+
+#### Članak 10.
+
+Članak 16. mijenja se i glasi:
+
+»Tijela centra za profesionalnu rehabilitaciju su upravno vijeće i ravnatelj.«.
+
+#### Članak 11.
+
+Iza članka 16. dodaju se članci 16.a, 16.b i 16.c koji glase:
+
+»Članak 16.a
+
+(1) Centrom za profesionalnu rehabilitaciju upravlja upravno vijeće koje ima pet članova.
+
+(2) U upravno vijeće imenuju se:
+
+1. dva predstavnika osnivača na prijedlog ministra nadležnog za rad
+
+2. jedan predstavnik radnika izabran sukladno propisima o radu
+
+3. jedan predstavnik jedinice lokalne ili područne (regionalne) samouprave, odnosno Grada Zagreba
+
+4. jedan predstavnik udruga osoba s invaliditetom.
+
+(3) Članove upravnog vijeća imenuje i razrješuje ministar nadležan za rad.
+
+(4) Predsjednika upravnog vijeća biraju članovi iz redova članova upravnog vijeća iz stavka 2. točke 1. ovoga članka.
+
+(5) Način imenovanja člana upravnog vijeća iz stavka 2. točaka 3. i 4. ovoga članka propisat će se aktom o osnivanju.
+
+(6) Mandat članova upravnog vijeća traje četiri godine.
+
+#### Članak 16.b
+
+(1) Voditelj centra za profesionalnu rehabilitaciju je ravnatelj.
+
+(2) Ravnatelj je odgovoran za zakonitost rada centra za profesionalnu rehabilitaciju.
+
+(3) Ravnatelja imenuje i razrješuje upravno vijeće uz suglasnost ministra nadležnog za rad.
+
+(4) Ravnatelj se imenuje na temelju provedenog javnog natječaja.
+
+(5) Mandat ravnatelja traje četiri godine.
+
+#### Članak 16.c
+
+(1) Centar za profesionalnu rehabilitaciju može imati stručna i savjetodavna tijela.
+
+(2) Sastav, osnivanje i poslovi tijela iz stavka 1. ovoga članka utvrđuju se statutom.«.
+
+#### Članak 12.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Centar za profesionalnu rehabilitaciju je proračunski korisnik državnog proračuna u nadležnosti ministarstva nadležnog za rad.
+
+(2) Sredstva za rad centra za profesionalnu rehabilitaciju osiguravaju se u državnom proračunu.
+
+(3) Centar za profesionalnu rehabilitaciju može se financirati iz namjenskih prihoda uplaćenih s osnove novčane naknade i iz ostalih namjenskih prihoda i primitaka.
+
+(4) Centar za profesionalnu rehabilitaciju može ostvariti prihode od pružanja ugovorenih usluga korisnicima, prodaje proizvoda nastalih u tijeku profesionalne rehabilitacije i ostalih vlastitih prihoda.«.
+
+#### Članak 13.
+
+U članku 19. stavku 2. riječi: »ili ugovorom« brišu se.
+
+#### Članak 14.
+
+U članku 20. stavku 1. iza riječi: »zaposlenih,« dodaju se riječi: »od čega 20%«.
+
+#### Članak 15.
+
+U članku 21. stavku 2. riječi: »ili ugovorom« brišu se.
+
+#### Članak 16.
+
+U članku 24. stavku 1. riječi: »centra za profesionalnu rehabilitaciju,« brišu se.
+
+#### Članak 17.
+
+U članku 25. stavku 2. riječi: »centru za profesionalnu rehabilitaciju,« brišu se.
+
+#### Članak 18.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Integrativna radionica i zaštitna radionica osnovana kao ustanova mogu imati stručno vijeće.
+
+(2) Sastav, osnivanje i poslovi stručnog vijeća utvrđuju se statutom.«.
+
+#### Članak 19.
+
+U članku 27. stavku 1. riječi: »centar za profesionalnu rehabilitaciju,« brišu se.
+
+#### Članak 20.
+
+U članku 28. stavak 1. mijenja se i glasi:
+
+»(1) Integrativna radionica i zaštitna radionica osnovana kao ustanova odgovaraju za obveze cijelom svojom imovinom.«.
+
+#### Članak 21.
+
+U nazivu glave V. riječi: »OLAKŠICE I« brišu se.
+
+#### Članak 22.
+
+U članku 29. stavak 1. mijenja se i glasi:
+
+»(1) Poslodavac koji zapošljava osobu s invaliditetom, odnosno osoba s invaliditetom koja se samozapošljava može ostvariti poticaje koje osigurava Zavod za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom, pod uvjetom da je osoba s invaliditetom upisana u očevidnik zaposlenih osoba s invaliditetom.«.
+
+U stavcima 2. i 3. riječi: »točke 3.« brišu se.
+
+#### Članak 23.
+
+Članak 30. briše se.
+
+#### Članak 24.
+
+U članku 31. riječi: »točkom 3. i člankom 30. stavkom 1.« brišu se.
+
+#### Članak 25.
+
+U članku 32. stavak 1. mijenja se i glasi:
+
+»(1) Integrativna radionica i zaštitna radionica mogu primati pomoć i darove u novcu ili materijalnim sredstvima.«.
+
+U stavku 4. riječi: »centar za profesionalnu rehabilitaciju,« brišu se.
+
+#### Članak 26.
+
+Članak 37. mijenja se i glasi:
+
+»(1) Zavod obavlja sljedeće poslove:
+
+– vještačenje prema posebnim propisima radi utvrđivanja tjelesnog, intelektualnog, osjetilnog i mentalnog oštećenja, invaliditeta, funkcionalne sposobnosti, razine potpore te radne sposobnosti osobe
+
+– isplatu poticaja pri zapošljavanju osoba s invaliditetom iz članka 29. stavka 1. ovoga Zakona
+
+– financiranje ili sufinanciranje programa i projekata za poticanje zapošljavanja i za održavanje zaposlenosti osoba s invaliditetom
+
+– vođenje evidencije o poslodavcima koji su obveznici kvotnog sustava zapošljavanja osoba s invaliditetom
+
+– utvrđivanje obveze i obračunavanje iznosa novčane naknade
+
+– izdavanje uvjerenja o utvrđenom invaliditetu u odnosu na rad na temelju nalaza i mišljenja centra za profesionalnu rehabilitaciju.
+
+(2) Osim poslova iz stavka 1. ovoga članka, Zavod obavlja i sljedeće poslove:
+
+– provođenje politike razvitka i unapređivanja profesionalne rehabilitacije i zapošljavanja osoba s invaliditetom
+
+– organiziranje izobrazbe i seminara za poslodavce i stručne osobe iz područja profesionalne rehabilitacije i zapošljavanja osoba s invaliditetom
+
+– kontinuiranu suradnju s poslodavcima u svrhu analiziranja i utvrđivanja mogućnosti zapošljavanja osoba s invaliditetom
+
+– provođenje kampanje i senzibiliziranje javnosti na potrebu zapošljavanja osoba s invaliditetom i ukazivanje na njihovu ravnopravnost s drugima
+
+– razvijanje međunarodne suradnje i razmjene iskustva na područjima svog djelovanja
+
+– stručni nadzor nad radom centra za profesionalnu rehabilitaciju, integrativne radionice i zaštitne radionice
+
+– analizu financijskog poslovanja integrativnih radionica i zaštitnih radionica te
+
+– druge poslove utvrđene odredbama ovoga Zakona, posebnih propisa, Statutom i aktima Zavoda.«.
+
+#### Članak 27.
+
+U članku 38. stavak 2. mijenja se i glasi:
+
+»(2) Upravno vijeće čini devet članova koje imenuje i razrješuje Vlada Republike Hrvatske, i to:
+
+1. dva člana na prijedlog ministra nadležnog za rad
+
+2. dva člana na prijedlog ministra nadležnog za socijalnu politiku
+
+3. tri člana na prijedlog Gospodarsko-socijalnog vijeća, sukladno zastupljenosti Vlade i socijalnih partnera u Gospodarsko-socijalnom vijeću
+
+4. jednog člana, predstavnika radnika Zavoda, izabranog sukladno propisima o radu i
+
+5. jednog člana na prijedlog udruga osoba s invaliditetom.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 28.
+
+(1) Zahtjevi za ostvarivanje prava na profesionalnu rehabilitaciju, koji su podneseni do dana stupanja na snagu ovoga Zakona, riješit će se prema propisima koji su bili na snazi u vrijeme podnošenja zahtjeva.
+
+(2) Postupci u vezi s ostvarivanjem prava prednosti pri zapošljavanju iz članka 9. Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13. i 152/14.) koji nisu riješeni do stupanja na snagu ovoga Zakona riješit će se prema propisima koji su bili na snazi u vrijeme pokretanja postupka.
+
+#### Članak 29.
+
+Obveza podnošenja izvješća o iznosu obračunane novčane nak­nade iz članka 10. stavka 4. Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13. i 152/14.) prestaje zaključno s podnošenjem izvješća o iznosu obračunane novčane naknade za lipanj 2018.
+
+#### Članak 30.
+
+(1) Sredstva koja su ostvarena s osnove novčane naknade na temelju Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13. i 152/14.), a koja su na dan stupanja na snagu ovoga Zakona ostala neutrošena mogu se koristiti za namjene utvrđene člankom 7. ovoga Zakona.
+
+(2) Iznimno od odredbe članka 7. ovoga Zakona, ministar nadležan za rad donijet će u roku od 30 dana od dana stupanja na snagu ovoga Zakona odluku o korištenju i raspodjeli sredstava uplaćenih s osnove novčane naknade za 2018. godinu.
+
+#### Članak 31.
+
+(1) Republika Hrvatska preuzet će prava i obveze osnivača nad Centrom za profesionalnu rehabilitaciju Zagreb, Centrom za profesio­nalnu rehabilitaciju Osijek, Centrom za profesionalnu rehabilitaciju Rijeka i Centrom za profesionalnu rehabilitaciju Split danom stupanja na snagu uredbi iz članka 9. ovoga Zakona.
+
+(2) Uredbe o osnivanju centara za profesionalnu rehabilitaciju iz stavka 1. ovoga članka Vlada Republike Hrvatske donijet će najkasnije do 1. siječnja 2019.
+
+(3) Centri za profesionalnu rehabilitaciju iz stavka 1. ovoga članka osnovani sukladno Zakonu o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13. i 152/14.) nastavljaju s radom sukladno tom Zakonu do stupanja na snagu uredbi iz članka 9. ovoga Zakona.
+
+(4) Ravnatelji i članovi upravnih vijeća centara za profesionalnu rehabilitaciju iz stavka 1. ovoga članka koji su imenovani sukladno Zakonu o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13. i 152/14.) nastavljaju s radom do imenovanja novih ravnatelja i članova upravnih vijeća.
+
+(5) Ministar nadležan za rad imenovat će u roku od 30 dana od dana stupanja na snagu uredbi iz stavka 2. ovoga članka članove upravnih vijeća centara za profesionalnu rehabilitaciju.
+
+(6) Upravna vijeća centara za profesionalnu rehabilitaciju iz stavka 4. ovoga članka dužna su u roku od 30 dana od dana imenovanja raspisati natječaj za ravnatelja.
+
+#### Članak 32.
+
+Zavod je dužan uskladiti Statut i druge opće akte s odredbama ovoga Zakona u roku od 60 dana od dana njegova stupanja na snagu.
+
+#### Članak 33.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/109  
+Zagreb, 20. travnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (NN 32/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/696*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PROFESIONALNOJ REHABILITACIJI I ZAPOŠLJAVANJU OSOBA S INVALIDITETOM
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o profesio­nalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom, koji je Hrvatski sabor donio na sjednici 19. ožujka 2020.
+
+Klasa: 011-01/20-01/23  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 19. ožujka 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PROFESIONALNOJ REHABILITACIJI I ZAPOŠLJAVANJU OSOBA S INVALIDITETOM**
+
+#### Članak 1.
+
+U Zakonu o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13., 152/14. i 39/18.) članak 8. mijenja se i glasi:
+
+»(1) Poslodavci koji zapošljavaju najmanje 20 radnika dužni su zaposliti, na primjerenom radnom mjestu prema vlastitom odabiru, u primjerenim radnim uvjetima, određeni broj osoba s invaliditetom, ovisno o ukupnom broju zaposlenih radnika i djelatnosti koju obavljaju.
+
+(2) Obveza kvotnog zapošljavanja osoba s invaliditetom iz stavka 1. ovoga članka ne odnosi se na:
+
+– predstavništva stranih osoba
+
+– strana diplomatska i konzularna predstavništva
+
+– integrativne radionice i zaštitne radionice
+
+– poslodavce u sektoru proizvodnje tekstila, odjeće, kože, drva i namještaja i
+
+– novoosnovane poslodavce.
+
+(3) Novoosnovani poslodavci iz stavka 2. podstavka 5. ovoga članka oslobođeni su obveze kvotnog zapošljavanja osoba s invaliditetom iz stavka 1. ovoga članka u razdoblju od 24 mjeseca od dana upisa u odgovarajući registar odnosno dana ustrojavanja prema posebnom propisu.
+
+(4) Kvota iz stavka 1. ovoga članka može biti različita, ali ne može biti manja od 2% niti veća od 6% od ukupnog broja zaposlenih radnika kod poslodavca koji je obveznik kvotnog zapošljavanja osoba s invaliditetom.
+
+(5) Ako izračun kvote iz stavka 4. ovoga članka ne predstavlja cijeli broj, vrijednosti do 0,5% zaokružuju se na manji broj, a vrijednosti iznad 0,5%, uključujući i 0,5%, zaokružuju se na veći broj.
+
+(6) Obvezu kvotnog zapošljavanja osoba s invaliditetom poslodavac može ispuniti tako da ima zaposlen propisani broj osoba s invaliditetom upisanih u očevidnik zaposlenih osoba s invaliditetom i/ili zamjenskom kvotom u koju se ubrajaju:
+
+‒ učenici s teškoćama u razvoju i studenti s invaliditetom na praktičnoj nastavi kod poslodavca
+
+‒ rehabilitanti na praksi kod poslodavca
+
+‒ studenti s invaliditetom zaposleni prema posebnom propisu
+
+‒ osobe s invaliditetom na stručnom osposobljavanju za rad bez zasnivanja radnog odnosa i
+
+‒ osobe s invaliditetom čije redovito obrazovanje poslodavac stipendira.
+
+(7) U zamjensku kvotu ubraja se i sklapanje ugovora o poslovnoj suradnji sa zaštitnom radionicom i integrativnom radionicom, odnosno trgovačkim društvom, zadrugom ili udrugom u kojima više od polovine radnika čine osobe s invaliditetom, odnosno s osobom s invaliditetom koja se samozapošljava sukladno članku 11. podstavcima 4. do 7. ovoga Zakona.
+
+(8) Poslodavci koji nemaju obvezu kvotnog zapošljavanja osoba s invaliditetom iz stavka 1. ovoga članka, a imaju zaposlene osobe s invaliditetom, kao i poslodavci koji zapošljavaju više osoba s invaliditetom od propisane kvote iz stavka 4. ovoga članka mogu ostvariti novčanu nagradu propisanu pravilnikom iz stavka 9. ovoga članka.
+
+(9) Ministar nadležan za rad pravilnikom će propisati utvrđivanje obveze kvotnog zapošljavanja osoba s invaliditetom iz stavka 1. ovoga članka.
+
+(10) Radi praćenja ispunjenja obveze kvotnog zapošljavanja osoba s invaliditetom iz stavka 1. ovoga članka Hrvatski zavod za mirovinsko osiguranje prema posebnom će propisu o zaštiti osobnih podatka dostavljati podatke Zavodu za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom.«.
+
+#### Članak 2.
+
+U članku 10. stavku 2. brojka: »30%« zamjenjuje se brojkom: »20%«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) U slučaju posebnih okolnosti koje se nisu mogle predvidjeti i na koje se nije moglo utjecati, a koje ugrožavaju život i zdravlje građana, imovinu veće vrijednosti, znatno narušavaju okoliš, narušavaju gospodarsku aktivnost ili uzrokuju znatnu gospodarsku štetu, ministar nadležan za rad može posebnom odlukom utvrditi da se:
+
+– sredstva uplaćena s osnove novčane naknade mogu, osim za namjene propisane stavkom 6. ovoga članka, koristiti i za druge namjene u svrhu očuvanja radnih mjesta i zadržavanja u zaposlenosti
+
+– obveza plaćanja novčane naknade iz stavka 3. ovoga članka može odgoditi za vrijeme trajanja posebnih okolnosti.«.
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+U dosadašnjim stavcima 9., 10. i 11., koji postaju stavci 10., 11. i 12., broj: »8.« zamjenjuje se brojem: »9.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 3.
+
+(1) Obveza novčane naknade iz članka 10. Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13., 152/14. i 39/18.) obračunava se po stopi od 30% zaključno sa zadnjim danom veljače 2020.
+
+(2) Poslodavci u sektoru proizvodnje tekstila, odjeće, kože, drva i namještaja oslobađaju se obveze kvotnog zapošljavanja osoba s invaliditetom, počevši od 1. travnja 2020.
+
+#### Članak 4.
+
+Sredstva koja su ostvarena s osnove novčane naknade na temelju Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom (»Narodne novine«, br. 157/13., 152/14. i 39/18.), a koja su na dan stupanja na snagu ovoga Zakona ostala neutrošena mogu se koristiti i za druge namjene u svrhu očuvanja radnih mjesta i zadržavanja u zaposlenosti, sukladno odluci ministra nadležnog za rad iz članka 2. ovoga Zakona.
+
+#### Članak 5.
+
+Ministar nadležan za rad uskladit će Pravilnik o utvrđivanju kvote za zapošljavanje osoba s invaliditetom (»Narodne novine«, br. 75/18. i 120/18.) s odredbama ovoga Zakona u roku od osam dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 6.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/31  
+Zagreb, 19. ožujka 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

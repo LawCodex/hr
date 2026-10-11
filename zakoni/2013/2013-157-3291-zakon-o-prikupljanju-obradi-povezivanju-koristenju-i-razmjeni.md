@@ -6,15 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-12-24
-last_amended: 2015-09-09
+last_amended: 2018-03-14
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "157/13, 154/14, 36/15, 96/15"
+narodne_novine: "157/13, 154/14, 36/15, 96/15, 25/18"
 amendments:
   - "NN 154/2014 (2907) Uredba o izmjeni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima"
   - "NN 36/2015 (736) Zakon o izmjeni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima"
   - "NN 96/2015 (1841) Uredba o izmjeni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima"
+  - "NN 25/2018 (479) Zakon o dopuni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3291"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 157/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/157/3291).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 154/2014, NN 36/2015, NN 96/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 154/2014, NN 36/2015, NN 96/2015, NN 25/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -440,3 +441,50 @@ Zagreb, 7. rujna 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Zakon o dopuni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima (NN 25/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/25/479*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O PRIKUPLJANJU, OBRADI, POVEZIVANJU, KORIŠTENJU I RAZMJENI PODATAKA O PRIMICIMA I JAVNIM DAVANJIMA PO OSIGURANICIMA
+
+Proglašavam Zakon o dopuni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima, koji je Hrvatski sabor donio na sjednici 2. ožujka 2018.
+
+Klasa: 011-01/18-01/31
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 8. ožujka 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O PRIKUPLJANJU, OBRADI, POVEZIVANJU, KORIŠTENJU I RAZMJENI PODATAKA O PRIMICIMA I JAVNIM DAVANJIMA PO OSIGURANICIMA**
+
+### Članak 1.
+
+U Zakonu o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima (»Narodne novine«, br. 157/13., 154/14., 36/15. i 96/15.) u članku 1. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Iznimno od stavka 1. ovoga članka, za podatke o javnim davanjima nastale u razdoblju od 1. siječnja 2002. do 31. prosinca 2013. prikupljanje i obrada dovršit će se na obrascu važećem u vrijeme nastanka obveze podnošenja podataka.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/167  
+Zagreb, 2. ožujka 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

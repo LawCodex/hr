@@ -6,13 +6,15 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-07-16
-last_amended: 2009-04-17
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+last_amended: 2021-04-30
+status: in_force
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "73/07, 48/09"
+narodne_novine: "73/07, 48/09, 2/18, 46/21"
 amendments:
   - "NN 48/2009 (1069) Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida"
+  - "NN 2/2018 (58) Uredba o izmjeni Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida"
+  - "NN 46/2021 (934) Uredba o izmjeni Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/73/2280"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 73/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/73/2280).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2009.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2009, NN 2/2018, NN 46/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -316,3 +318,63 @@ Zagreb, 9. travnja 2009.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+## Uredba o izmjeni Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida (NN 2/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/2/58*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 17. stavka 1. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine«, br. 107/03 i 144/12), Vlada Republike Hrvatske je na sjednici održanoj 4. siječnja 2018. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O JEDINIČNIM NAKNADAMA, KOREKTIVNIM KOEFICIJENTIMA I POBLIŽIM KRITERIJIMA I MJERILIMA ZA UTVRĐIVANJE NAKNADE NA EMISIJU U OKOLIŠ UGLJIKOVOG DIOKSIDA**
+
+### Članak 1.
+
+U Uredbi o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida (»Narodne novine«, br. 73/07 i 48/09), u članku 2. podstavku 16. broj: »30« zamjenjuje se brojem: »450«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-03/98
+
+Urbroj: 50301-25/27-18-2
+
+Zagreb, 4. siječnja 2018.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjeni Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida (NN 46/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/46/934*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 17. stavka 1. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine«, br. 107/03. i 144/12.), Vlada Republike Hrvatske je na sjednici održanoj 29. travnja 2021. donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O JEDINIČNIM NAKNADAMA, KOREKTIVNIM KOEFICIJENTIMA I POBLIŽIM KRITERIJIMA I MJERILIMA ZA UTVRĐIVANJE NAKNADE NA EMISIJU U OKOLIŠ UGLJIKOVOG DIOKSIDA**
+
+### Članak 1.
+
+U Uredbi o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida (»Narodne novine«, br. 73/07., 48/09. i 2/18.) članak 5. mijenja se i glasi:
+
+»Jedinična naknada za jednu tonu emisije CO<sub>2</sub> iznosi 11,20 kuna.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/40
+
+Urbroj: 50301-05/27-21-6
+
+Zagreb, 29. travnja 2021.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

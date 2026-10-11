@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-07-29
-last_amended: 2011-05-25
+last_amended: 2024-10-23
 status: in_force
-status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "121/03, 117/08, 57/11"
+narodne_novine: "121/03, 117/08, 57/11, 123/24"
 amendments:
   - "NN 117/2008 (3378) Zakon o dopunama Zakona o sestrinstvu"
   - "NN 57/2011 (1255) Zakon o izmjenama i dopunama Zakona o sestrinstvu"
+  - "NN 123/2024 (2050) Zakon o izmjenama i dopunama Zakona o sestrinstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1710"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 121/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1710).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 117/2008, NN 57/2011.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 117/2008, NN 57/2011, NN 123/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -844,3 +845,116 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sestrinstvu (NN 123/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/123/2050*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SESTRINSTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sestrinstvu koji je Hrvatski sabor donio na sjednici 11. listopada 2024. godine.
+
+Klasa: 011-02/24-02/51  
+Urbroj: 71-10-01/1-24-2  
+Zagreb, 17. listopada 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SESTRINSTVU**
+
+### Članak 1.
+
+U Zakonu o sestrinstvu (»Narodne novine«, br. 121/03., 117/08. i 57/11.) članak 8. mijenja se i glasi:
+
+»Viša razina obrazovanja medicinskih sestara stječe se završetkom prijediplomskog stručnog ili sveučilišnog studija sestrinstva i/ili diplomskog stručnog ili sveučilišnog studija sestrinstva nakon završenog prijediplomskog studija sestrinstva.«.
+
+### Članak 2.
+
+U članku 14. stavak 1. mijenja se i glasi:
+
+»Voditelj tima zdravstvene njege jest medicinska sestra koja je završila najmanje sveučilišni ili stručni prijediplomski studij sestrinstva, koja je upisana u registar medicinskih sestara pri Hrvatskoj komori medicinskih sestara (u daljnjem tekstu: registar) i kojoj je dano odobrenje za samostalan rad u skladu s kompetencijama stečenim obrazovanjem.«.
+
+### Članak 3.
+
+U članku 16.a stavak 2. mijenja se i glasi:
+
+»Kompetencije medicinske sestre obuhvaćaju znanja i vještine određene zakonom kojim se uređuju regulirane profesije i priznavanje inozemnih stručnih kvalifikacija te spoznaje i postupke planiranja, organiziranja, provođenja i procjene kvalitete provedene zdravstvene/sestrinske njege sukladno razinama obrazovanja. Medicinske sestre sudjeluju u razvoju i evaluaciji zdravstvenih informacijskih sustava, koriste informacijske tehnologije za analizu podataka u sestrinskoj dokumentaciji i daju prijedloge za poboljšanje informacijskih tehnologija koje su vezane za sestrinsku praksu.«.
+
+Stavak 6. mijenja se i glasi:
+
+»Kompetencije medicinske sestre sa završenim specijalističkim usavršavanjem i završenim studijem sestrinstva određene su popisom izlaznih kompetencija / ishodima učenja sukladno propisima o specijalističkom usavršavanju medicinskih sestara, odnosno propisima o visokom obrazovanju, koje se nadovezuju na temeljne sestrinske kompetencije.«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»Prvostupnica sestrinstva iz stavka 4. ovoga članka sa završenim specijalističkim usavršavanjem iz hitne medicine, tijekom hitnog zbrinjavanja životno ugroženog bolesnika, samostalno propisuje i primjenjuje lijekove propisane pravilnikom iz članka 10. stavka 3. ovoga Zakona.«.
+
+### Članak 4.
+
+U članku 20. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Medicinska sestra može odbiti pružiti zdravstvenu njegu osobi koja joj prijeti ili je prema njoj, odnosno drugim zdravstvenim radnicima fizički agresivna ako time ne uzrokuje trajne posljedice za zdravlje ili ne ugrozi život te osobe, a o svojoj odluci mora hitno izvijestiti neposredno nadređenu osobu.«.
+
+### Članak 5.
+
+U članku 26. stavku 1. podstavku 3. na kraju rečenice briše se točka i stavlja zarez te se dodaje podstavak 4. koji glasi:
+
+» – provodi postupak priznavanja inozemnih stručnih kvalifikacija.«.
+
+### Članak 6.
+
+U članku 27. iza točke 19. dodaje se nova točka 20. koja glasi:
+
+»20. donosi preporuke o osobnoj radnoj odjeći medicinske sestre,«.
+
+Dosadašnja točka 20. postaje točka 21.
+
+### Članak 7.
+
+Naziv poglavlja IX. mijenja se i glasi: »IX. PREKRŠAJNE ODREDBE«.
+
+### Članak 8.
+
+Članak 33. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 1320,00 do 2650,00 eura kaznit će se za prekršaj ustanova ako na radno mjesto voditelja ili člana tima zdravstvene njege rasporedi medicinsku sestru koja nije upisana u registar, odnosno nema važeće odobrenje za samostalan rad (članak 14. stavci 1. i 2.).
+
+Novčanom kaznom u iznosu od 390,00 do 1320,00 eura kaznit će se za prekršaj medicinska sestra ako:
+
+1. obavlja samostalan rad bez važećeg odobrenja za samostalan rad (članak 15. stavak 1.),
+
+2. provodi zdravstvenu njegu kao voditelj ili član tima, a nije upisana u registar odnosno nema važeće odobrenje za samostalan rad u skladu s kompetencijama stečenim obrazovanjem (članak 15. stavci 2. i 4.),
+
+3. u slučaju nemogućnosti provedbe ordiniranog postupka, kada unatoč primjeni najboljeg znanja i vještina poslodavac nije osigurao ordinirane lijekove, sredstva, minimalno potrebni pribor ili tehničku opremu u skladu s minimalnim standardima za provođenje uspješne zdravstvene njege, medicinska sestra odmah pisano ne izvijesti nadređenu osobu (članak 21. stavci 1. i 2.).«.
+
+### Članak 9.
+
+Hrvatska komora medicinskih sestara obvezna je uskladiti Statut s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Ostale opće akte Hrvatska komora medicinskih sestara obvezna je uskladiti s ovim Zakonom i Statutom u roku od jedne godine od dana stupanja na snagu ovoga Zakona.
+
+### Članak 10.
+
+Postupci pokrenuti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o sestrinstvu (»Narodne novine«, br. 121/03., 117/08. i 57/11.) te propisa i općih akata donesenih na temelju toga Zakona.
+
+### Članak 11.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/35  
+Zagreb, 11. listopada 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

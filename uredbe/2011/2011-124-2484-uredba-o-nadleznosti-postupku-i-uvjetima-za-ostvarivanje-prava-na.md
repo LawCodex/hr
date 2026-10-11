@@ -283,75 +283,59 @@ Obrazac 1
 OPĆI PODACI
 
 <table><tbody>
-
 <tr>
 <td colspan="2">Naziv jedinice lokalne i/ili područne (regionalne) samouprave (JLRS)</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td colspan="2">Ime i prezime osobe ovlaštene za zastupanje<br> (župana, gradonačelnika, načelnika)</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td colspan="2">Adresa</td>
 </tr>
-
 <tr>
 <td>Ulica:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mjesto/poštanski br.:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Županija</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">Kontakt</td>
 </tr>
-
 <tr>
 <td>Telefon:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Fax:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>E-mail:</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">Ostali podaci</td>
 </tr>
-
 <tr>
 <td>OIB:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Br. žiro-računa:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Naziv banke:</td>
 <td></td>

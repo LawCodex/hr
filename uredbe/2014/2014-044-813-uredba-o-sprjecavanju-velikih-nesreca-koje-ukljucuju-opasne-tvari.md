@@ -6,11 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2014-04-07
+last_amended: 2017-05-10
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "44/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "44/14, 31/17, 45/17"
+amendments:
+  - "NN 31/2017 (694) Uredba o izmjenama i dopunama Uredbe o sprječavanju velikih nesreća koje uključuju opasne tvari"
+  - "NN 45/2017 (1068) Ispravak Uredbe o izmjenama i dopunama Uredbe o sprječavanju velikih nesreća koje uključuju opasne tvari"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/44/813"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # UREDBA O SPRJEČAVANJU VELIKIH NESREĆA KOJE UKLJUČUJU OPASNE TVARI
 
 > Izvor: Narodne novine, NN 44/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/44/813).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 31/2017, NN 45/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -603,192 +608,164 @@ Ako je opasna tvar obuhvaćena dijelom 1. ovoga Priloga, odnosno Prilogom I.B, a
 Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasnosti iz stupca 1.:
 
 <table><tbody>
-
 <tr>
 <td colspan="2">Stupac 1.</td>
 <td>Stupac 2.</td>
 <td>Stupac 3.</td>
 </tr>
-
 <tr>
 <td rowspan="2">Redni<br>broj</td>
 <td rowspan="2">Kategorije opasnih tvari</td>
 <td colspan="2">Donje granične količine opasnih tvari (u tonama)</td>
 </tr>
-
 <tr>
 <td>male količine</td>
 <td>velike količine</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Odjeljak H OPASNOSTI ZA ZDRAVLJE</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>H1 AKUTNA TOKSIČNOST<br><br>Kategorija 1. svi putovi izlaganja</td>
 <td>5</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>H2 AKUTNA TOKSIČNOST<br><br>Kategorija 2. svi putovi izlaganja<br><br>Kategorija 3. izlaganje inhalacijskim putem (vidi Uputu 7. ovoga Priloga)</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>H3 SPECIFIČNA TOKSIČNOST ZA CILJNE ORGANE – JEDNOKRATNO IZLAGANJE TCOJ<br>Kategorija 1.</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Odjeljak P – FIZIKALNE OPASNOSTI</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>P1a EKSPLOZIVI (vidi Uputu 8. ovoga Priloga)<br> — Nestabilni eksplozivi ili<br> — Eksplozivi, odlomci 1.1., 1.2., 1.3., 1.5. ili 1.6., ili<br> — Tvari ili smjese koje imaju eksplozivna svojstva u skladu s metodom A.14 Uredbe Komisije (EZ)<br> br. 440/2008 od 30. svibnja 2008. o utvrđivanju ispitnih metoda u skladu s Uredbom (EZ) br. 1907/2006 Europskoga parlamenta i Vijeća o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (REACH) (Tekst značajan za EGP) (SL L 142, 31.5.2008., str. 1.) (vidi Uputu 9. ovoga Priloga) i ne pripadaju razredima opasnosti organskih peroksida ili samoreagirajućih tvari i smjesa</td>
 <td>10</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>P1b EKSPLOZIVI (vidi Uputu 8. ovoga Priloga)<br> Eksplozivi, odlomak 1.4. (vidi Uputu 10. ovoga Priloga)</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>P2 ZAPALJIVI PLINOVI<br> Zapaljivi plinovi 1. ili 2. kategorije</td>
 <td>10</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>P3a ZAPALJIVI AEROSOLI (vidi Uputu 11.1. ovoga Priloga)<br> »Zapaljivi« aerosoli 1. ili 2. kategorije, koji sadrže zapaljive plinove 1. ili 2. kategorije ili zapaljive <br>tekućine 1. kategorije</td>
 <td>150 (neto)</td>
 <td>500 (neto)</td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td>P3b ZAPALJIVI AEROSOLI (vidi Uputu 11.1. ovoga Priloga)<br> »Zapaljivi« aerosoli 1. ili 2. kategorije, koji ne sadrže zapaljive plinove 1. ili 2. kategorije, niti zapaljive <br>tekućine 1. kategorije (vidi Uputu 11.2. ovoga Priloga)</td>
 <td>5 000 (neto)</td>
 <td>50 000 (neto)</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td>P4 OKSIDIRAJUĆI PLINOVI<br> Oksidirajući plinovi 1. kategorije</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td>P5a ZAPALJIVE TEKUĆINE<br> — Zapaljive tekućine 1. kategorije ili<br> — Zapaljive tekućine 2. ili 3. kategorije, koje se održavaju na temperaturi iznad njihove temperature vrelišta ili<br> — Druge tekućine s plamištem ≤ 60 °C, koje se održavaju na temperaturi iznad njihova vrelišta (vidi Uputu 12.)</td>
 <td>10</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td>P5b ZAPALJIVE TEKUĆINE<br> — Zapaljive tekućine 2. ili 3. kategorije, koje zbog specifičnih uvjeta postupaka u kojima se koriste, poput visokog tlaka ili temperature, mogu izazvati rizik od velike nesreće ili<br> — Ostale tekućine s plamištem ≤ 60 °C, koje zbog specifičnih uvjeta postupaka u kojima se koriste, poput visokog tlaka ili temperature, mogu izazvati rizik od velike nesreće (vidi Uputu 12. ovoga Priloga)</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td>P5c ZAPALJIVE TEKUĆINE<br> Zapaljive tekućine 2. ili 3. kategorije, koje ne potpadaju pod P5a i P5b</td>
 <td>5 000</td>
 <td>50 000</td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td>P6a SAMOREAGIRAJUĆE TVARI I SMJESE te ORGANSKI PEROKSIDI<br> Samoreagirajuće tvari i smjese tipa A ili B ili organski peroksidi tipa A ili B</td>
 <td>10</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>14.</td>
 <td>P6b SAMOREAGIRAJUĆE TVARI I SMJESE te ORGANSKI PEROKSIDI<br> Samoreagirajuće tvari i smjese tipa C, D, E ili F ili organski peroksidi tipa C, D, E ili F</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>15.</td>
 <td>P7 PIROFORNE TEKUĆINE I KRUTINE<br> Piroforne tekućine 1. kategorije<br> Piroforne krutine 1. kategorije</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>16.</td>
 <td>P8 OKSIDIRAJUĆE TEKUĆINE I KRUTINE<br> Oksidirajuće tekućine 1., 2. ili 3. kategorije ili<br> Oksidirajuće krutine 1., 2. ili 3. kategorije</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Odjeljak E – OPASNOSTI ZA OKOLIŠ</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17.</td>
 <td>E1 Opasno za vodeni okoliš u 1. kategoriji akutne toksičnosti ili 1. kategoriji kronične toksičnosti</td>
 <td>100</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>18.</td>
 <td>E2 Opasno za vodeni okoliš u 2. kategoriji kronične toksičnosti</td>
 <td>200</td>
 <td>500</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Odjeljak O – OSTALE OPASNOSTI</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19.</td>
 <td>O1 Tvari ili smjese s oznakom opasnosti EUH014</td>
 <td>100</td>
 <td>500</td>
 </tr>
-
 <tr>
 <td>20.</td>
 <td>O2 Tvari ili smjese koje u dodiru s vodom otpuštaju zapaljive plinove, 1. kategorija</td>
 <td>100</td>
 <td>500</td>
 </tr>
-
 <tr>
 <td>21.</td>
 <td>O3 Tvari ili smjese s oznakom opasnosti EUH029</td>
@@ -801,20 +778,17 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 ## DIO 2. — Imenovane opasne tvari
 
 <table><tbody>
-
 <tr>
 <td colspan="3">Stupac 1.</td>
 <td>Stupac 2.</td>
 <td>Stupac 3.</td>
 </tr>
-
 <tr>
 <td>Redni broj</td>
 <td>Opasne tvari</td>
 <td>CAS broj<sup>1</sup></td>
 <td colspan="2">Donje granične količine opasnih tvari (u tonama):</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -822,7 +796,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>male količine</td>
 <td>velike količine</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>amonijev nitrat (vidi Uputu 13. ovoga Priloga)</td>
@@ -830,7 +803,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5 000</td>
 <td>10 000</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>amonijev nitrat (vidi Uputu 14. ovoga Priloga)</td>
@@ -838,7 +810,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>1 250</td>
 <td>5 000</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>amonijev nitrat (vidi Uputu 15. ovoga Priloga)</td>
@@ -846,7 +817,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>350</td>
 <td>2 500</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>amonijev nitrat (vidi Uputu 16. ovoga Priloga)</td>
@@ -854,7 +824,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>10</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>kalijev nitrat (vidi Uputu 17. ovoga Priloga)</td>
@@ -862,7 +831,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5 000</td>
 <td>10 000</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>kalijev nitrat (vidi Uputu 18. ovoga Priloga)</td>
@@ -870,7 +838,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>1 250</td>
 <td>5 000</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>arsenov pentoksid, arsenska(V) kiselina i/ili soli</td>
@@ -878,7 +845,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>1</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td>arsenov trioksid, arsenska(III) kiselina i/ili soli</td>
@@ -886,7 +852,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>-</td>
 <td>0,1</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td>brom</td>
@@ -894,7 +859,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>20</td>
 <td>100</td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td>klor</td>
@@ -902,7 +866,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>10</td>
 <td>25</td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td>spojevi nikla u praškastom respiratornom obliku (niklov monoksid, niklov dioksid, <br>niklov sulfid, triniklov disulfid, diniklov trioksid)</td>
@@ -910,7 +873,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>-</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td>etilenimin</td>
@@ -918,7 +880,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>10</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td>fluor</td>
@@ -926,7 +887,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>10</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>14.</td>
 <td>formaldehid (koncentracija ≥90%)</td>
@@ -934,7 +894,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>15.</td>
 <td>vodik</td>
@@ -942,7 +901,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>16.</td>
 <td>vodikov klorid (ukapljeni plin)</td>
@@ -950,7 +908,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>25</td>
 <td>250</td>
 </tr>
-
 <tr>
 <td>17.</td>
 <td>olovni alkili</td>
@@ -958,7 +915,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>18.</td>
 <td>ukapljeni vrlo lako zapaljivi plinovi (uključujući UNP) i prirodni plin <br>(vidi Uputu 7. ovoga Priloga)</td>
@@ -966,7 +922,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>19.</td>
 <td>acetilen</td>
@@ -974,7 +929,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>20.</td>
 <td>etilen oksid</td>
@@ -982,7 +936,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>21.</td>
 <td>propilen oksid</td>
@@ -990,7 +943,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>22.</td>
 <td>metanol</td>
@@ -998,7 +950,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>500</td>
 <td>5 000</td>
 </tr>
-
 <tr>
 <td>23.</td>
 <td>4,4'-metilen-bis(2-kloroanilin) i/ili soli, u praškastom obliku</td>
@@ -1006,7 +957,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>-</td>
 <td>0,01</td>
 </tr>
-
 <tr>
 <td>24.</td>
 <td>metilizocianat</td>
@@ -1014,7 +964,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>-</td>
 <td>0,15</td>
 </tr>
-
 <tr>
 <td>25.</td>
 <td>kisik</td>
@@ -1022,7 +971,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>200</td>
 <td>2 000</td>
 </tr>
-
 <tr>
 <td>26.</td>
 <td>2,4-diizocianatotoluen<br> 2,6– diizocianatotoluen</td>
@@ -1030,7 +978,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>10</td>
 <td>100</td>
 </tr>
-
 <tr>
 <td>27.</td>
 <td>karbonil-diklorid (fozgen)</td>
@@ -1038,7 +985,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>0,3</td>
 <td>0,75</td>
 </tr>
-
 <tr>
 <td>28.</td>
 <td>arsenov trihidrid (arsin)</td>
@@ -1046,7 +992,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>0,2</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>29.</td>
 <td>fosforov trihidrid (fosfin)</td>
@@ -1054,7 +999,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>0,2</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>30.</td>
 <td>sumporov diklorid</td>
@@ -1062,7 +1006,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>-</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>31.</td>
 <td>sumporov trioksid</td>
@@ -1070,7 +1013,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>15</td>
 <td>75</td>
 </tr>
-
 <tr>
 <td>32.</td>
 <td>poliklorirani dibenzofurani i poliklorirani dibenzodioksini (uključujući i TCDD), <br>izračunani u TCDD ekvivalentnim vrijednostima (vidi Uputu 8. ovoga Priloga)</td>
@@ -1078,7 +1020,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>-</td>
 <td>0,001</td>
 </tr>
-
 <tr>
 <td>33.</td>
 <td>karcinogene tvari ili smjese tvari koje sadrže navedene karcinogene tvari u <br>koncentracijama većim od 5% po masi: 4-aminobifenil i/ili njegove soli, <br>benzotriklorid, benzidin i/ili njegove soli, bis(klorometil) eter, klorometil-metil-eter, <br>1,2-dibromoetan, dietil-sulfat, dimetil-sulfat, dimetilkarbamoil-klorid, <br>1,2-dibromo-3-klorpropan, 1,2-dimetilhidrazin, dimetilnitrozamin, heksametilfosforov<br> triamid, hidrazin, 2-naftilamin i/ili soli, 4-nitrodifenil, te 1,3-propansulton</td>
@@ -1086,7 +1027,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>0,5</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>34.</td>
 <td>Naftni derivati i alternativna goriva:<br>(a) benzini i ligroini<br>(b) kerozini (uključujući goriva za mlazne motore)<br>(c) plinska ulja (uključujući dizel goriva, loživa ulja za domaćinstva i mješavine <br>plinskih ulja)<br>(d) teška loživa ulja<br>(e) alternativna goriva s istim namjenama i sa sličnim svojstvima zapaljivosti i <br>opasnosti za okoliš, kao i proizvodi navedeni u točkama od (a) do (d)</td>
@@ -1094,7 +1034,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>2 500</td>
 <td>25 000</td>
 </tr>
-
 <tr>
 <td>35.</td>
 <td>bezvodni amonijak</td>
@@ -1102,7 +1041,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>36.</td>
 <td>borov trifluorid</td>
@@ -1110,7 +1048,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>37.</td>
 <td>vodikov sulfid</td>
@@ -1118,7 +1055,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>5</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>38.</td>
 <td>piperidin</td>
@@ -1126,7 +1062,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>39.</td>
 <td>bis(2-dimetilaminoetil)(metil)amin</td>
@@ -1134,7 +1069,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>40.</td>
 <td>3-(2-etilheksiloksi)propilamin</td>
@@ -1142,7 +1076,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>41.</td>
 <td>Smjese<sup>2</sup> natrijeva hipoklorita razvrstane u 1. kategoriju akutne toksičnosti za <br>vodeni okoliš (H400), koje sadrže manje od 5% aktivnog klora i nisu razvrstane <br>niti pod jednu drugu kategoriju opasnosti u dijelu 1., ovoga Priloga, odnosno Priloga I.B ove Uredbe</td>
@@ -1150,7 +1083,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>200</td>
 <td>500</td>
 </tr>
-
 <tr>
 <td>42.</td>
 <td>propilamin (vidi Uputu 21. ovoga Priloga)</td>
@@ -1158,7 +1090,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>500</td>
 <td>2000</td>
 </tr>
-
 <tr>
 <td>43.</td>
 <td>tert-butil-akrilat (vidi Uputu 21. ovoga Priloga)</td>
@@ -1166,7 +1097,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>200</td>
 <td>500</td>
 </tr>
-
 <tr>
 <td>44.</td>
 <td>2-metil-3-butennitril (vidi Uputu 21. ovoga Priloga)</td>
@@ -1174,7 +1104,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>500</td>
 <td>2000</td>
 </tr>
-
 <tr>
 <td>45.</td>
 <td>tetrahidro-3,5-dimetil-1,3,5-tiadiazin-2-tion (dazomet) (vidi Uputu 21. ovoga Priloga)</td>
@@ -1182,7 +1111,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>100</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>46.</td>
 <td>metil-akrilat (vidi Uputu 21. ovoga Priloga)</td>
@@ -1190,7 +1118,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>500</td>
 <td>2000</td>
 </tr>
-
 <tr>
 <td>47.</td>
 <td>3-metilpiridin (vidi Uputu 21. ovoga Priloga)</td>
@@ -1198,7 +1125,6 @@ Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasn
 <td>500</td>
 <td>2000</td>
 </tr>
-
 <tr>
 <td>48.</td>
 <td>1-brom-3-klorpropan (vidi Uputu 21. ovoga Priloga)</td>
@@ -1318,44 +1244,37 @@ Radi provedbe ove Uredbe poboljšani se bioplin može razvrstati u dio 2. pod re
 Količine polikloriranih dibenzofurana i polikloriranih dibenzodioksina izračunavaju se uz pomoć sljedećih faktora:<sup>9</sup>
 
 <table><tbody>
-
 <tr>
 <td colspan="4">WHO 2005 TEF (faktori ekvivalentne toksičnosti za odgovarajuće srodne spojeve)<sup>9</sup></td>
 </tr>
-
 <tr>
 <td rowspan="2">2,3,7,8-TCDD</td>
 <td rowspan="2">1,0</td>
 <td>2,3,7,8-TCDF</td>
 <td>0,1</td>
 </tr>
-
 <tr>
 <td>2,3,4,7,8-PeCDF</td>
 <td>0,3</td>
 </tr>
-
 <tr>
 <td>1,2,3,7,8-PeCDD</td>
 <td>1,0</td>
 <td>1,2,3,7,8-PeCDF</td>
 <td>0,03</td>
 </tr>
-
 <tr>
 <td>1,2,3,4,7,8-HxCDD<br> 1,2,3,6,7,8-HxCDD<br> 1,2,3,7,8,9-HxCDD</td>
 <td>0,1</td>
 <td>1,2,3,4,7,8-HxCDF<br> 1,2,3,6,7,8-HxCDF<br> 1,2,3,7,8,9-HxCDF<br> 2,3,4,6,7,8-HxCDF</td>
 <td>0,1</td>
 </tr>
-
 <tr>
 <td>1,2,3,4,6,7,8-HpCDD</td>
 <td>0,01</td>
 <td>1,2,3,4,6,7,8-HpCDF<br> 1,2,3,4,7,8,9-HpCDF</td>
 <td>0,01</td>
 </tr>
-
 <tr>
 <td>OCDD</td>
 <td>0,0003</td>
@@ -1377,128 +1296,109 @@ Odredbe ovoga Priloga primjenjivat će se na smjese opasnih tvari sukladno poseb
 
 <table>
 <thead>
-
 <tr>
 <td colspan="2">Stupac 1.</td>
 <td>Stupac 2.</td>
 <td>Stupac 3.</td>
 </tr>
-
 <tr>
 <td rowspan="2">Redni<br>broj</td>
 <td rowspan="2">Kategorije opasnih tvari</td>
 <td colspan="2">Donje granične količine opasnih tvari u tonama</td>
 </tr>
-
 <tr>
 <td>male<br>količine</td>
 <td>velike<br>količine</td>
 </tr>
 </thead>
 <tbody>
-
 <tr>
 <td>1.</td>
 <td>VRLO OTROVNE TVARI</td>
 <td>5</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>OTROVNE TVARI</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>OKSIDIRAJUĆE TVARI</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>EKSPLOZIVNA TVAR (vidi Uputu 2. ovoga Priloga)<br> Gdje opasna tvar spada u UN/ADR skupinu 1.4</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>EKSPLOZIVNA TVAR (vidi Uputu 2. ovoga Priloga)<br> Gdje opasna tvar pripada u UN/ADR skupinu 1.1, 1.2, 1.3, 1.5 ili 1.6 ili pod oznake upozorenja R2 ili R3</td>
 <td>10</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>ZAPALJIVE TVARI (tvari ili pripravci obuhvaćeni određenjem iz Upute 3., točke (a) ovoga Priloga)</td>
 <td>5 000</td>
 <td>50 000</td>
 </tr>
-
 <tr>
 <td>7a.</td>
 <td>LAKO ZAPALJIVE TVARI (tvari ili pripravci obuhvaćeni određenjem iz Upute 3., točke (b), podtočke 1. ovoga Priloga)</td>
 <td>50</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>7b.</td>
 <td>LAKO ZAPALJIVE tekućine (tvari ili pripravci obuhvaćeni određenjem iz Upute 3., točke (b), podtočke 2. ovoga Priloga)</td>
 <td>5 000</td>
 <td>50 000</td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td>VRLO LAKO ZAPALJIVE TVARI (tvari ili pripravci obuhvaćeni određenjem iz Upute 3., točke (c) ovoga Priloga)</td>
 <td>10</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td rowspan="3">9.</td>
 <td>OPASNO ZA OKOLIŠ u kombinaciji s oznakom upozorenja</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>(i) R50: "Vrlo otrovno za organizme koji žive u vodi" (uključujući R50/53)</td>
 <td>100</td>
 <td>200</td>
 </tr>
-
 <tr>
 <td>(ii) R51/53: „Otrovno za organizme koji žive u vodi, može dugotrajno štetno djelovati u vodi»</td>
 <td>200</td>
 <td>500</td>
 </tr>
-
 <tr>
 <td rowspan="3">10.</td>
 <td>OSTALE TVARI, nepokrivene nijednom od gore navedenih razvrstavanja i u kombinaciji s oznakom upozorenja</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>(i) R14: »Burno reagira s vodom« (uključujući R14/15)</td>
 <td>100</td>
 <td>500</td>
 </tr>
-
 <tr>
 <td>(ii) R29: »U dodiru s vodom oslobađa otrovni plin«</td>
 <td>50</td>
 <td>200</td>
 </tr>
 </tbody>
-
 </table>
 
 ### UPUTE UZ PRILOG I.B
@@ -1585,354 +1485,293 @@ Napomena: Tablica graničnih vrijednosti izloženosti koristi se kao pomoćno sr
 ### OBRAZAC OBAVIJESTI O PRISUTNOSTI OPASNIH TVARI U PODRUČJU POSTROJENJA S KOLIČINAMA ISPOD GRANIČNIH VRIJEDNOSTI IZ PRILOGA I.A, ODNOSNO PRILOGA I.B OVE UREDBE
 
 <table><tbody>
-
 <tr>
 <td colspan="18">OBRAZAC OBAVIJESTI O PRISUTNOSTI OPASNIH TVARI<br> Za definicije vidi članak 3. ove Uredbe i članak 4. Zakona</td>
 </tr>
-
 <tr>
 <td colspan="18">1. OPĆI PODACI O OPERATERU</td>
 </tr>
-
 <tr>
 <td colspan="18">1.1 Tvrtka ili ime i prezime:</td>
 </tr>
-
 <tr>
 <td colspan="18">1.2 Broj iz baze podataka:<br>(automatski se dodjeljuje)</td>
 </tr>
-
 <tr>
 <td colspan="8">1.3 Sjedište:<br>(ulica i kućni broj)</td>
 <td colspan="4">Poštanski broj:</td>
 <td colspan="6">Mjesto:</td>
 </tr>
-
 <tr>
 <td colspan="18">1.4 Šifra djelatnosti/podskupina:</td>
 </tr>
-
 <tr>
 <td colspan="18">1.5 Opis djelatnosti:</td>
 </tr>
-
 <tr>
 <td colspan="18">2. PODACI O PODRUČJU POSTROJENJA<br>(Ako operater ima postrojenja na više lokacija, za svaku lokaciju je potrebno ispuniti zaseban obrazac.)</td>
 </tr>
-
 <tr>
 <td colspan="18">2.1 Naziv lokacije:</td>
 </tr>
-
 <tr>
 <td colspan="5">2.2 OIB:</td>
 <td colspan="13">2.3 MBS:</td>
 </tr>
-
 <tr>
 <td colspan="18">2.4 NKD/opis poddjelatnosti:</td>
 </tr>
-
 <tr>
 <td colspan="18">2.5 Opis uže djelatnosti:</td>
 </tr>
-
 <tr>
 <td colspan="8">2.6 Adresa:<br>(ulica i kućni broj)</td>
 <td colspan="4">Poštanski broj:</td>
 <td colspan="6">Mjesto:</td>
 </tr>
-
 <tr>
 <td colspan="18">2.7 Unos položaja područja postrojenja u GIS formatu, opcionalno, operater može unijeti geografsku dužinu /širinu pored X i Y ako posjeduje informacije<br> a) Gauss-Krügerove koordinate područja postrojenja (centrirani položaj ili položaj glavnog ulaza):<br>(X,Y)<br> b) Gauss-Krügerove koordinate rizičnog uređaja u postrojenju i naziv uređaja ako postoji:<br>(X,Y)<br> c) Gauss-Krügerove koordinate drugog rizičnog uređaja u postrojenju i naziv uređaja itd.:<br>(X,Y)<br> (navesti što više uređaja u skladu s rezultatima procjene rizika)</td>
 </tr>
-
 <tr>
 <td colspan="3">2.8 Odgovorna osoba u pravnoj osobi (osoba ovlaštena za zastupanje operatera):<br>(pozicija, ime i prezime)</td>
 <td colspan="6">Telefon:</td>
 <td colspan="8">Telefaks:</td>
 <td>e-mail:</td>
 </tr>
-
 <tr>
 <td colspan="3">2.9 Odgovorna osoba za organizaciju djelovanja kod iznenadnog događaja:(pozicija, ime i prezime – ako se razlikuje od 2.10)</td>
 <td colspan="6">Telefon:</td>
 <td colspan="8">Telefaks:</td>
 <td>e-mail:</td>
 </tr>
-
 <tr>
 <td colspan="3">2.10 Ostali:<br>(npr. osoba za kontakt – ako se razlikuje od 2.8)</td>
 <td colspan="6">Telefon:</td>
 <td colspan="8">Telefaks:</td>
 <td>e-mail:</td>
 </tr>
-
 <tr>
 <td colspan="9">2.11 Kratki opis okruženja područja postrojenja (položaj prometnica, stambenih i poslovnih objekata u odnosu na postrojenje, s naglaskom na elemente koji bi mogli uzrokovati veliku nesreću ili pridonijeti ozbiljnosti njezinih posljedica):<br>Priložiti kartu na kojoj je vidljivo najmanje 1 km uokrug područja postrojenja sa stambenim objektima ili elementima prirodnog okoliša koji mogu biti ugroženi (škola, bolnica, stadion, rijeka, šuma i dr.)</td>
 <td colspan="9"></td>
 </tr>
-
 <tr>
 <td colspan="18">3. MJERE ZA SPRJEČAVANJE I UBLAŽAVANJE POSLJEDICA IZNENADNOG DOGAĐAJA<br> (Umnožite ovaj dio obrasca ako je potrebno. Vidi procjenu rizika.)</td>
 </tr>
-
 <tr>
 <td colspan="11">3.1 Mjere za sprječavanje posljedica iznenadnog događaja</td>
 <td colspan="7"></td>
 </tr>
-
 <tr>
 <td colspan="11">3.2 Sredstva i oprema za sprječavanje nastanka i uklanjanje posljedica iznenadnog <br>događaja i velike nesreće</td>
 <td colspan="7"><br> </td>
 </tr>
-
 <tr>
 <td colspan="11">3.3 Postoji li u sastavu područja postrojenja vatrogasna postrojba?</td>
 <td colspan="7">☐ da<br>☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="18">3.4 Kooperant koji će biti pozvan radi ograničavanja i sanacije posljedica iznenadnog događaja:<br> (ako opseg aktivnosti nadilazi mogućnost operatera, odnosno područja postrojenja, a ako postoji više kooperanata, potrebno ih je sve navesti)</td>
 </tr>
-
 <tr>
 <td colspan="3">Adresa:</td>
 <td colspan="7">Telefon:</td>
 <td colspan="7">Telefaks:</td>
 <td>e-mail:</td>
 </tr>
-
 <tr>
 <td colspan="13">3.5 Kad je izrađena posljednja Obavijest?</td>
 <td colspan="5">Datum:</td>
 </tr>
-
 <tr>
 <td colspan="13">3.6 Postoji li izrađen Operativni plan zaštite i spašavanja?</td>
 <td colspan="5">Datum:</td>
 </tr>
-
 <tr>
 <td colspan="13">3.7 Provodi li se sustavna edukacija djelatnika s ciljem upoznavanja opasnosti i ponašanja u slučaju iznenadnog događaja?</td>
 <td colspan="5">☐ da<br>☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="18">4. PODACI O OPASNIM TVARIMA ČIJA JE PRISUTNOST UTVRĐENA U POSTROJENJU<br> (sve opasne tvari)<br> (Umnožite ovaj dio obrasca ako je potrebno.)</td>
 </tr>
-
 <tr>
 <td>4.1 Vrste (naziv) opasnih tvari u postrojenju (prema Prilogu I.A, odnosno Prilogu I.B ove Uredbe)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td>4.2 Kemijski naziv</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td>4.3 CAS broj</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td>4.4 INDEKS</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td>4.5 EC</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td>4.6 Razvrstavanje</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td>4.7 U kojem dijelu Priloga I.A, odnosno Prilogu I.B ove Uredbe se nalazi?</td>
 <td colspan="5">☐ Prilog I.A dio 1.<br><br>Rbr.:<br><br>(upisati redni broj opasne tvari)<br><br>☐ Prilog I.A dio 2.<br>Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td>
 <td colspan="8">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td>
 <td colspan="4">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td>
 </tr>
-
 <tr>
 <td>4.8 Vrsta opasnosti<br> (odaberite jedno ili više od ponuđenoga)</td>
 <td colspan="5">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td>
 <td colspan="8">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td>
 <td colspan="4">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td>
 </tr>
-
 <tr>
 <td>4.9 Maksimalna količina (u tonama)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td>4.10 Agregatno stanje</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td>4.11 Način skladištenja opasne tvari u postrojenju (odaberite od ponuđenoga)</td>
 <td colspan="5">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td>
 <td colspan="8">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td>
 <td colspan="4">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td>
 </tr>
-
 <tr>
 <td>4.12 Lokacija opasne tvari u području postrojenja (naziv postrojenja)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td>4.13 Postoji li stalni nadzor spremnika s opasnim tvarima?</td>
 <td colspan="5">☐ da<br> ☐ ne<br> Opis:</td>
 <td colspan="8">☐ da<br> ☐ ne<br> Opis:</td>
 <td colspan="4">☐ da<br> ☐ ne<br> Opis:</td>
 </tr>
-
 <tr>
 <td colspan="18">5. REZULTATI PROCJENE RIZIKA (obveza prema propisima iz zaštite i spašavanja<br> (svi scenariji)<br> (Umnožite ovaj dio obrasca ako je potrebno.)</td>
 </tr>
-
 <tr>
 <td colspan="2">5.1 Naziv scenarija</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.2 Opis</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.3 Koordinate XY izvora opasnosti</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.4 Tvari koje sudjeluju u događaju</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.5 Vjerojatnost događaja (događaj/godina)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.6 Procjena broja žrtava</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.7 Visoka smrtnost</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.8 Trajne posljedice</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.9 Privremene posljedice</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.10 Područje učinka<br>(u metrima)<br>(vidi bilješku 1.)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.11 Prostire li se područje učinka izvan područja postrojenja? </td>
 <td colspan="5">☐ da<br> ☐ ne</td>
 <td colspan="8">☐ da<br> ☐ ne</td>
 <td colspan="3">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="2">5.12 Jesu li obaviješteni ostali ugroženi objekti?</td>
 <td colspan="5">☐ da<br> ☐ ne</td>
 <td colspan="8">☐ da<br> ☐ ne</td>
 <td colspan="3">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="2">5.13 Postoji li opasnost od domino efekta prema tablici graničnih vrijednosti izloženosti?<br> (vidi bilješku 1.)</td>
 <td colspan="5">☐ da<br> ☐ ne</td>
 <td colspan="8">☐ da<br> ☐ ne</td>
 <td colspan="3">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="2">5.14 Jeste li obavijestili susjedna postrojenja?<br> (ako je odgovor na točku 5.13 »da«)</td>
 <td colspan="5">☐ da<br> ☐ ne</td>
 <td colspan="8">☐ da<br> ☐ ne</td>
 <td colspan="3">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="18">6. TAJNOST PODATAKA O PODRUČJU POSTROJENJA</td>
 </tr>
-
 <tr>
 <td colspan="5">6.1 Popis podataka iz obrasca koji predstavljaju tajnu</td>
 <td colspan="13"></td>
 </tr>
-
 <tr>
 <td colspan="5">6.2 Popis priloženih dokumenata kojima se dokazuje tajnost podataka ili odobrenje od nadležnog tijela prema članku 13. ove Uredbe</td>
 <td colspan="13"></td>
 </tr>
-
 <tr>
 <td colspan="18">Izjavljujem da su svi podaci i informacije u ovom obrascu istiniti i ispravni te snosim materijalnu i krivičnu odgovornost za netočnost i neispravnost podataka.</td>
 </tr>
-
 <tr>
 <td colspan="4">Ime i prezime i potpis osobe iz točke 2.8 i pečat operatera:</td>
 <td colspan="12">Mjesto i adresa</td>
@@ -1946,408 +1785,338 @@ Napomena: Tablica graničnih vrijednosti izloženosti koristi se kao pomoćno sr
 ### OBRAZAC OBAVIJESTI O PRISUTNOSTI OPASNIH TVARI U PODRUČJU POSTROJENJA S KOLIČINAMA IZNAD GRANIČNIH VRIJEDNOSTI IZ PRILOGA I.A, ODNOSNO PRILOGA I.B OVE UREDBE
 
 <table><tbody>
-
 <tr>
 <td colspan="19">OBRAZAC OBAVIJESTI O PRISUTNOSTI OPASNIH TVARI<br> za definicije vidi članak 3. ove Uredbe i članak 4. Zakona</td>
 </tr>
-
 <tr>
 <td colspan="19">1. OPĆI PODACI O OPERATERU</td>
 </tr>
-
 <tr>
 <td colspan="19">1.1 Tvrtka ili ime i prezime:</td>
 </tr>
-
 <tr>
 <td colspan="19">1.2 Broj iz baze podataka:<br> (automatski se dodjeljuje)</td>
 </tr>
-
 <tr>
 <td colspan="8">1.3 Sjedište:<br>(ulica i kućni broj)</td>
 <td colspan="5">Poštanski broj:</td>
 <td colspan="6">Mjesto:</td>
 </tr>
-
 <tr>
 <td colspan="19">1.4 Šifra djelatnosti/podskupina:</td>
 </tr>
-
 <tr>
 <td colspan="19">1.5 Opis djelatnosti:</td>
 </tr>
-
 <tr>
 <td colspan="19">2. PODACI O PODRUČJU POSTROJENJA<br> (Ako operater ima postrojenja na više lokacija, za svaku lokaciju je potrebno ispuniti zaseban obrazac.)</td>
 </tr>
-
 <tr>
 <td colspan="19">2.1 Naziv lokacije:</td>
 </tr>
-
 <tr>
 <td colspan="5">2.2 Administrativni položaj prema ovoj Uredbi</td>
 <td colspan="14">☐ niži razred postrojenja<br> ☐ viši razred postrojenja</td>
 </tr>
-
 <tr>
 <td colspan="5">2.3 OIB:</td>
 <td colspan="14">2.4 MBS:</td>
 </tr>
-
 <tr>
 <td colspan="19">2.5 NKD / opis poddjelatnosti:</td>
 </tr>
-
 <tr>
 <td colspan="19">2.6 Opis uže djelatnosti:</td>
 </tr>
-
 <tr>
 <td colspan="8">2.7 Adresa:<br>(ulica i kućni broj)</td>
 <td colspan="5">Poštanski broj:</td>
 <td colspan="6">Mjesto:</td>
 </tr>
-
 <tr>
 <td colspan="19">2.8 Unos položaja područja postrojenja u GIS formatu, opcionalno, operater može unijeti geografsku dužinu /širinu pored X i Y ako posjeduje informacije<br> a) Gauss-Krügerove koordinate područja postrojenja (centrirani položaj ili položaj glavnog ulaza):<br>(X,Y)<br> b) Gauss-Krügerove koordinate rizičnog uređaja u postrojenju i naziv uređaja ako postoji:<br>(X,Y)<br> c) Gauss-Krügerove koordinate drugog rizičnog uređaja u postrojenju i naziv uređaja itd.:<br>(X,Y)<br> (navesti što više uređaja u skladu s rezultatima procjene rizika)</td>
 </tr>
-
 <tr>
 <td colspan="3">2.9 Odgovorna osoba u pravnoj osobi (osoba ovlaštena za zastupanje operatera):<br> (pozicija, ime i prezime)</td>
 <td colspan="6">Telefon:</td>
 <td colspan="8">Telefaks:</td>
 <td colspan="2">e-mail:</td>
 </tr>
-
 <tr>
 <td colspan="3">2.10 Odgovorna osoba za organizaciju djelovanja kod iznenadnog događaja:<br> (pozicija, ime i prezime – ako se razlikuje od 2.9)</td>
 <td colspan="6">Telefon:</td>
 <td colspan="8">Telefaks:</td>
 <td colspan="2">e-mail:</td>
 </tr>
-
 <tr>
 <td colspan="3">2.11 Ostali:<br> (npr. osoba za kontakt – ako se razlikuje od 2.9)</td>
 <td colspan="6">Telefon:</td>
 <td colspan="8">Telefaks:</td>
 <td colspan="2">e-mail:</td>
 </tr>
-
 <tr>
 <td colspan="9">2.12 Kratki opis okruženja područja postrojenja (položaj prometnica, stambenih i poslovnih objekata u odnosu na postrojenje, s naglaskom na elemente koji bi mogli uzrokovati veliku nesreću ili pridonijeti ozbiljnosti njezinih posljedica):<br>Priložiti kartu na kojoj je vidljivo najmanje 1 km uokrug područja postrojenja sa stambenim objektima ili elementima prirodnog okoliša koji mogu biti ugroženi (škola, bolnica, stadion, rijeka, šuma i dr.)</td>
 <td colspan="10"></td>
 </tr>
-
 <tr>
 <td colspan="19">3. MJERE ZA SPRJEČAVANJE I UBLAŽAVANJE POSLJEDICA IZNENADNOG DOGAĐAJA<br> (Umnožite ovaj dio obrasca ako je potrebno. Vidi procjenu rizika.)</td>
 </tr>
-
 <tr>
 <td colspan="11">3.1 Mjere za sprječavanje posljedica iznenadnog događaja</td>
 <td colspan="8"></td>
 </tr>
-
 <tr>
 <td colspan="11">3.2 Mjere za sprječavanje posljedica velike nesreće s posljedicama izvan područja postrojenja</td>
 <td colspan="8"></td>
 </tr>
-
 <tr>
 <td colspan="11">3.3 Sredstva i oprema za sprječavanje nastanka i uklanjanje posljedica iznenadnog događaja i velike nesreće</td>
 <td colspan="8"></td>
 </tr>
-
 <tr>
 <td colspan="11">3.4 Postoji li u sastavu područja postrojenja vatrogasna postrojba? </td>
 <td colspan="8">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="19">3.5 Kooperant koji će biti pozvan radi ograničavanja i sanacije posljedica iznenadnog događaja:<br> (ako opseg aktivnosti nadilazi mogućnost operatera odnosno područja postrojenja, a ako postoji više kooperanata, potrebno ih je sve navesti)</td>
 </tr>
-
 <tr>
 <td colspan="3">Adresa kooperanta:</td>
 <td colspan="7">Telefon:</td>
 <td colspan="7">Telefaks:</td>
 <td colspan="2">e-mail:</td>
 </tr>
-
 <tr>
 <td colspan="12">3.6 Kada je izrađena posljednja Obavijest o prisutnosti opasnih tvari u području postrojenja?</td>
 <td colspan="6">Datum:</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="12">3.7 (a) Kada je izrađen posljednji Unutarnji plan za slučaj sprječavanja velike nesreće?<br> (ispunjava samo viši razred postrojenja)</td>
 <td colspan="6">Datum:</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="12">3.7 (b) Kada je izrađen posljednji Operativni plan zaštite i spašavanja?<br> (ispunjava samo niži razred postrojenja)</td>
 <td colspan="6">Datum:</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="12">3.8 Kada je izrađeno posljednje odobreno Izvješće o sigurnosti?<br> (ispunjava samo viši razred postrojenja)</td>
 <td colspan="6">Datum:</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="12">3.9 Napišite klasu suglasnosti na posljednje odobreno Izvješće o sigurnosti:<br> (ispunjava samo viši razred postrojenja)</td>
 <td colspan="6">Datum:</td>
 <td>KLASA: </td>
 </tr>
-
 <tr>
 <td colspan="12">3.10 Je li novo Izvješće o sigurnosti u postupku izdavanja suglasnosti pri nadležnom tijelu?<br> (ispunjava samo viši razred postrojenja)</td>
 <td colspan="6">Datum:</td>
 <td>☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="12">3.11 Kada su županiji/Gradu Zagrebu dostavljeni podaci za izradu Vanjskog plana zaštite i spašavanja<br> (ispunjava samo viši razred postrojenja)</td>
 <td colspan="6">Datum:</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="12">3.12 Provodi li se sustavna edukacija djelatnika s ciljem upoznavanja opasnosti i ponašanja u slučaju iznenadnog događaja?</td>
 <td colspan="7">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="12">3.13 Provodi li se sustavna edukacija djelatnika s ciljem upoznavanja opasnosti i ponašanja u slučaju velike nesreće?</td>
 <td colspan="7">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="19">4. PODACI O OPASNIM TVARIMA ČIJA JE PRISUTNOST UTVRĐENA U POSTROJENJU<br> (sve opasne tvari)<br> (Umnožite ovaj dio obrasca ako je potrebno.)</td>
 </tr>
-
 <tr>
 <td>4.1 Vrste (naziv) opasnih tvari u postrojenju<br> (prema Prilogu I.A, odnosno Prilogu I.B ove Uredbe)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td>4.2 Kemijski naziv</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td>4.3 CAS broj</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td>4.4 INDEKS</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td>4.5 EC</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td>4.6 Razvrstavanje</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td>4.7 U kojem dijelu Priloga I.A, odnosno Prilogu I.B ove Uredbe se nalazi?</td>
 <td colspan="5">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td>
 <td colspan="8">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td>
 <td colspan="5">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td>
 </tr>
-
 <tr>
 <td>4.8 Vrsta opasnosti<br> (odaberite jedno ili više od ponuđenoga)</td>
 <td colspan="5">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td>
 <td colspan="8">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td>
 <td colspan="5">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td>
 </tr>
-
 <tr>
 <td>4.9 Maksimalna količina (u tonama)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td>4.10 Agregatno stanje</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td>4.11 Način skladištenja opasne tvari u postrojenju (odaberite od ponuđenoga)</td>
 <td colspan="5">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td>
 <td colspan="8">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td>
 <td colspan="5">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td>
 </tr>
-
 <tr>
 <td>4.12 Lokacija opasne tvari u području postrojenja (naziv postrojenja)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td>4.13 Postoji li stalni nadzor spremnika s opasnim tvarima?</td>
 <td colspan="5">☐ da<br> ☐ ne<br> Opis:</td>
 <td colspan="8">☐ da<br> ☐ ne<br> Opis:</td>
 <td colspan="5">☐ da<br> ☐ ne<br> Opis:</td>
 </tr>
-
 <tr>
 <td colspan="19">5. REZULTATI PROCJENE RIZIKA<br> (svi scenariji)<br> (Umnožite ovaj dio obrasca ako je potrebno.)</td>
 </tr>
-
 <tr>
 <td colspan="2">5.1 Naziv scenarija</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.2 Opis</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.3 Koordinate XY izvora opasnosti<br> (opcionalno geografska dužina i širina)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.4 Tvari koje sudjeluju u događaju</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.5 Vjerojatnost događaja (događaj/godina)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.6 Procjena broja žrtava</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.7 Visoka smrtnost</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.8 Trajne posljedice</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.9 Privremene posljedice</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.10 Područje učinka<br>(u metrima)<br>(vidi bilješku 1.)</td>
 <td colspan="5"></td>
 <td colspan="8"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="2">5.11 Prostire li se područje učinka izvan područja postrojenja? </td>
 <td colspan="5">☐ da<br> ☐ ne</td>
 <td colspan="8">☐ da<br> ☐ ne</td>
 <td colspan="4">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="2">5.12 Jesu li obaviješteni ostali ugroženi objekti?</td>
 <td colspan="5">☐ da<br> ☐ ne</td>
 <td colspan="8">☐ da<br> ☐ ne</td>
 <td colspan="4">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="2">5.13 Postoji li opasnost od domino efekta prema tablici graničnih vrijednosti izloženosti?<br> (vidi bilješku 1.)</td>
 <td colspan="5">☐ da<br> ☐ ne</td>
 <td colspan="8">☐ da<br> ☐ ne</td>
 <td colspan="4">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="2">5.14 Jeste li obavijestili susjedna postrojenja?<br> (ako je odgovor na točku 5.13 »da«)</td>
 <td colspan="5">☐ da<br> ☐ ne</td>
 <td colspan="8">☐ da<br> ☐ ne</td>
 <td colspan="4">☐ da<br> ☐ ne</td>
 </tr>
-
 <tr>
 <td colspan="2">5.15 Postoji li opasnost od prekograničnog utjecaja velike nesreće?</td>
 <td colspan="5">☐ da<br> ☐ ne<br> Država:</td>
 <td colspan="8">☐ da<br> ☐ ne<br> Država:</td>
 <td colspan="4">☐ da<br> ☐ ne<br> Država:</td>
 </tr>
-
 <tr>
 <td colspan="19">6. TAJNOST PODATAKA O PODRUČJU POSTROJENJA</td>
 </tr>
-
 <tr>
 <td colspan="5">6.1 Popis podataka iz obrasca koji predstavljaju tajnu</td>
 <td colspan="14"></td>
 </tr>
-
 <tr>
 <td colspan="5">6.2 Popis priloženih dokumenata kojima se dokazuje tajnost podataka ili odobrenje od nadležnog tijela prema članku 13. ove Uredbe</td>
 <td colspan="14"></td>
 </tr>
-
 <tr>
 <td colspan="19">Izjavljujem da su svi podaci i informacije u ovom obrascu istiniti i ispravni te snosim materijalnu i krivičnu odgovornost za netočnost i neispravnost podataka.</td>
 </tr>
-
 <tr>
 <td colspan="4">Ime i prezime i potpis osobe iz točke 2.9 i pečat operatera:</td>
 <td colspan="12">Mjesto i adresa</td>
@@ -2611,3 +2380,883 @@ II. Europska komisija putem Agencije za zaštitu okoliša mora biti obaviješten
 [15]IDLH, Immediately Dangerous to Life or Health – trenutna opasnost po život i zdravlje definirana Nacionalnim institutom za zaštitu na radu (National Institute for Occupational Safety and Health (NIOSH))
 
 [16]LOC, Level of Concern – razina ozbiljnosti učinka
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o sprječavanju velikih nesreća koje uključuju opasne tvari (NN 31/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/31/694*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 120. stavka 2. i članka 122. stavka 2. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13 i 78/15), Vlada Republike Hrvatske je na sjednici održanoj 31. ožujka 2017. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O SPRJEČAVANJU VELIKIH NESREĆA KOJE UKLJUČUJU OPASNE TVARI**
+
+###### Članak 1.
+
+U Uredbi o sprječavanju velikih nesreća koje uključuju opasne tvari (»Narodne novine«, broj 44/14) članak 1. mijenja se i glasi:
+
+»Ovom Uredbom uređuje se popis vrsta opasnih tvari; način utvrđivanja količina, granične količine i kriteriji prema kojima se te tvari klasificiraju kao opasne; način podnošenja i obvezni sadržaj obavijesti o prisutnosti opasnih tvari u postrojenju; obvezni sadržaj Politike sprječavanja velikih nesreća; obvezni sadržaj Izvješća o sigurnosti, uvjeti za izdavanje suglasnosti na Politiku sprječavanja velikih nesreća, uvjeti za izdavanje suglasnosti na Izvješće o sigurnosti; obvezni sadržaj i način davanja suglasnosti na Izvješće o sigurnosti i Politiku sprječavanja velikih nesreća; uvjeti za produženje izdane suglasnosti na Politiku sprječavanja velikih nesreća i Izvješće o sigurnosti i rokove s tim u vezi; tajnost podataka; način i uvjeti za nadzor nad provedbom aktivnosti i mjera sukladno izdanoj suglasnosti na Izvješće o sigurnosti i Politiku sprječavanja velikih nesreća; posebne obveze operatera: u poduzimanju mjera za sprječavanje velikih nesreća, u slučaju značajne promjene u području postrojenja operatera, u slučaju velike nesreće, postupak i obveze u slučaju velike nesreće s prekograničnim učincima, drugi uvjeti i mjere za sprječavanje velikih nesreća u skladu s međunarodno priznatim standardima i propisima; sadržaj i način vođenja očevidnika o operaterima i njihovim područjima postrojenja koja mogu uzrokovati nesreće s domino-efektom te druga pitanja s tim u vezi.«.
+
+###### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»Ovom se Uredbom u pravni poredak Republike Hrvatske prenosi Direktiva 2012/18/EU Europskog parlamenta i Vijeća od 4. srpnja 2012. o kontroli opasnosti od velikih nesreća koje uključuju opasne tvari, o izmjeni i kasnijem stavljanju izvan snage Direktive Vijeća 96/82/EZ (Tekst značajan za EGP) (SL L 197, 24. 7. 2012.).«.
+
+###### Članak 3.
+
+U članku 3. stavku 1. točka 1. mijenja se i glasi:
+
+»1. »Iznenadni događaj« je događaj koji uključuje opasne tvari s posljedicama na zdravlje ljudi i/ili okoliš koji ne doseže kriterije iz Priloga VII. ove Uredbe.«.
+
+Točka 9. mijenja se i glasi:
+
+»9. »Područje postrojenja« označava cijelo područje koje je pod kontrolom operatera i u kojem su prisutne opasne tvari u jednom ili više postrojenja, uključujući zajedničku ili s njima povezanu infrastrukturu ili djelatnosti. Područje postrojenja može biti višeg ili nižeg razreda.«.
+
+U točki 11. riječ: »postrojenje« zamjenjuje se riječima: »područje postrojenja«.
+
+U točki 13. riječ: »području« zamjenjuje se riječima: »području postrojenja«.
+
+U točki 14. iza riječi: »određenog« dodaje se riječ: »učinka«.
+
+Točke 16. i 17. mijenjaju se i glase:
+
+»16. »Susjedno postrojenje« je područje postrojenja koje se nalazi u takvoj blizini drugog područja postrojenja da isto povećava rizik ili posljedice velike nesreće.
+
+17. »Unutarnji plan« je plan za postupanje unutar postrojenja višeg razreda koji donosi operater, a izrađuje se uz savjetovanje sa zaposlenim osobljem i važnim kooperantima čije se osoblje često nalazi na području postrojenja, kako bi se upravljalo rizicima i unutarnjim posljedicama iznenadnih događaja koje uključuju opasne tvari. Unutarnji plan uključuje postupke koji aktiviraju Vanjski plan.«.
+
+U točki 18. iza riječi: »izvan« dodaje se riječ: »područja«.
+
+U točki 20. iza riječi: »kojeg« dodaje se riječ: »područja«.
+
+###### Članak 4.
+
+U članku 4. stavak 4. mijenja se i glasi:
+
+»(4) Iznimno od stavka 1. ovoga članka kada operater u području postrojenja utvrdi prisutnost opasnih tvari iz popisa u Prilogu I.A odnosno iz popisa u Prilogu I.B ove Uredbe u količinama manjim od propisanih graničnih vrijednosti prema popisima u Prilogu I.A, dijelovima 1. i 2. u stupcu 2. odnosno prema popisu u Prilogu I.B u stupcu 2. ove Uredbe dužan je o tome obavijestiti Hrvatsku agenciju za okoliš i prirodu (u daljnjem tekstu: Agencija) na način propisan člankom 10. stavkom 2. ove Uredbe te će se za njih koristiti odgovarajući izrazi koji se koriste za obveznike Uredbe. Operater iz ovoga stavka postupit će i prema zahtjevima propisa kojim se uređuje zaštita i spašavanje.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Odredbe ove Uredbe ne primjenjuju se na operatere iz stavka 4. ovoga članka koji u području postrojenja imaju utvrđenu samo prisutnost opasnih tvari u količinama ispod 1% donjih graničnih malih količina.«.
+
+###### Članak 5.
+
+U članku 6. stavku 1. riječ: »postrojenju« zamjenjuje se riječima: »području postrojenja«.
+
+U stavku 3. točka 3. mijenja se i glasi:
+
+»3. uplitanje neovlaštenih osoba pri radu područja postrojenja (sudjelovanje i radnje osoba, primjerice: rukovanje određenim strojem odnosno druge aktivnosti u proizvodnom procesu, a da to nije proces rada – radno mjesto te osobe) i pri radu s opasnim tvarima u području postrojenja.«.
+
+U stavku 5. riječi: »u postrojenju« zamjenjuju se riječima: »u području postrojenja«.
+
+###### Članak 6.
+
+U članku 7. stavak 1. mijenja se i glasi:
+
+»(1) Operater će obveze iz članka 6. stavka 1. ove Uredbe ispuniti na način da:
+
+1. poduzme sve mjere kako bi spriječio velike nesreće i ograničio njihove posljedice za zdravlje ljudi i okoliš te osigurao da velika ispuštanja/istjecanja opasnih tvari, požar i/ili eksplozija:
+
+– budu spriječene unutar područja postrojenja
+
+– u jednom postrojenju ne mogu imati utjecaj na druga postrojenja unutar područja postrojenja i
+
+– nastali izvan područja postrojenja ne mogu djelovati na područje postrojenja na način da ugroze njegovu sigurnost
+
+2. opremi područje postrojenja odgovarajućim upozorenjima, alarmom i sigurnosnom opremom
+
+3. opremi područje postrojenja uređajima za mjerenje i kontrolu koji će biti odvojeni i neovisni o drugim sigurnosnim sustavima
+
+4. zaštiti sigurnost važnih dijelova područja postrojenja od mogućnosti djelovanja i uplitanja neovlaštenih osoba.«.
+
+U stavku 3. riječi: »za zaštitu okoliša« brišu se.
+
+###### Članak 7.
+
+U članku 8. točki 2. iza riječi: »dijelova« dodaje se riječ: »područja«.
+
+U točki 3. riječ: »postrojenje« zamjenjuje se riječima: »područje postrojenja«.
+
+###### Članak 8.
+
+U članku 9. točka 1. mijenja se i glasi:
+
+»1. sukladno posebnim propisima osigura nadzor svake gradnje u svezi s područjem postrojenja, nadzire rad sigurnosnih uređaja i sustava unutar područja postrojenja te kontinuirano nadzire i redovito održava područje postrojenja po pitanju sigurnosti;«.
+
+U točkama 2. i 3. riječi: »u postrojenju« zamjenjuju se riječima: »u području postrojenja«.
+
+Točka 6. mijenja se i glasi:
+
+»6. osigura izradu Unutarnjeg plana u skladu s minimalnim sadržajem iz Priloga V. ove Uredbe i propisima iz područja zaštite i spašavanja, zaštite okoliša, zaštite na radu, zaštite od požara i zaštite zdravlja za postrojenje višeg razreda.«.
+
+###### Članak 9.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Operater je dužan u skladu s popisom opasnih tvari iz Priloga I.A, odnosno iz Priloga I.B ove Uredbe utvrditi prisutnost opasnih tvari u području postrojenja.
+
+(2) O utvrđenoj prisutnosti opasnih tvari ispod graničnih vrijednosti iz popisa Priloga I.A, dijelova 1. i 2., stupca 2. odnosno iz popisa Priloga I.B, stupca 2. ove Uredbe, operater je dužan obavijestiti Agenciju sukladno obrascu obavijesti koji je propisan u Prilogu II.A ove Uredbe, bez odgađanja za prvu obavijest na način da dostavi podatke putem Interneta, prijavom u Registar postrojenja u kojima su prisutne opasne tvari, na način propisan posebnim propisom kojim se ustrojava i vodi Registar postrojenja u kojima su prisutne opasne tvari.
+
+(3) O utvrđenoj prisutnosti opasnih tvari u količinama jednakim ili iznad graničnih vrijednosti iz popisa Priloga I.A, dijelova 1. i 2., stupaca 2. ili 3. odnosno iz popisa Priloga I.B, stupaca 2. ili 3. ove Uredbe (niži i viši razred postrojenja), operater je dužan obavijestiti Agenciju sukladno obrascu obavijesti koji je propisan u Prilogu II.B ove Uredbe, bez odgađanja za prvu obavijest koja će sadržavati i informaciju o razredu kojem područje postrojenja pripada, na način da dostavi podatke putem Interneta prijavom u bazu Registar postrojenja u kojima su prisutne opasne tvari, na način propisan posebnim propisom kojim se ustrojava i vodi Registar postrojenja u kojima su prisutne opasne tvari te vodi očevidnik.
+
+(4) Nakon prve obavijesti, operater je dužan ažurirati podatke iz obavijesti najmanje svakih 5 godina, izuzev u slučaju navedenom u članku 12. stavku 1. ove Uredbe.«.
+
+###### Članak 10.
+
+U članku 11. stavku 1. podstavku 1. riječ: »postrojenje« zamjenjuje se riječima: »područje postrojenja«.
+
+U stavku 2. iza riječi: »položaja« dodaje se riječ: »područja«.
+
+###### Članak 11.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Operater je dužan prije planirane promjene u području postrojenja ili postrojenju dostaviti ažurirane podatke u Registar postrojenja u kojima su prisutne opasne tvari.
+
+(2) Značajnost promjene u području postrojenja u smislu stavka 1. ovoga članka za postrojenja nižeg i višeg razreda utvrđuje Ministarstvo mišljenjem.
+
+(3) U slučaju trajnog zatvaranja područja postrojenja u kojem su prisutne opasne tvari operater je dužan donijeti pisanu odluku u kojoj će utvrditi način i krajnji rok prestanka rada područja postrojenja u kojem su prisutne opasne tvari kako ono više ne bi predstavljalo rizik od velikih nesreća. Odluka mora sadržavati sve potrebne informacije vezane uz način postupanja s opasnim tvarima, kao i informacije vezane uz stavljanje područja postrojenja izvan rada uključujući uklanjanje opasnih tvari, sigurnost i zaštitu lokacije.
+
+(4) U svrhu cjelovitog i pravodobnog obavještavanja nadležnih tijela i/ili osoba, odluku iz stavka 3. ovoga članka operater je dužan dostaviti Agenciji, središnjem tijelu državne uprave nadležnom za zaštitu i spašavanje, te za postrojenja nižeg i višeg razreda Ministarstvu u roku od 15 dana od dana donošenja odluke o prestanku rada područja postrojenja.«.
+
+###### Članak 12.
+
+U članku 14. stavku 1. riječi: »u postrojenju« zamjenjuju se riječima: »u području postrojenja«.
+
+Stavak 3. briše se.
+
+###### Članak 13.
+
+U članku 15. stavku 1. riječi: »njegovom postrojenju« zamjenjuju se riječima: »području postrojenja«.
+
+U stavku 2. točki 2. riječ: »postrojenju« zamjenjuje se riječima: »području postrojenja«.
+
+U točki 3. iza riječi: »unutar« dodaje se riječ: »područja«.
+
+###### Članak 14.
+
+Naslov iznad članka 18. i članak 18. mijenjaju se i glase:
+
+*»Dostava Izvješća o sigurnosti i Politike sprječavanja velikih nesreća*
+
+###### Članak 18.
+
+Operater je za nova područja postrojenja i rekonstrukcije postojećih postrojenja dužan ishoditi suglasnost Ministarstva na Izvješće o sigurnosti ili Politiku sprječavanja velikih nesreća prije početka rada ili prije promjene koja uzrokuje promjenu popisa opasnih tvari.«.
+
+###### Članak 15.
+
+U članku 19. stavak 1. mijenja se i glasi:
+
+»(1) Operater je dužan ažurirati Politiku sprječavanja velikih nesreća i Izvješće o sigurnosti te u tom smislu izvršiti dopune podataka i informacija, i to:
+
+1. najmanje svakih 5 godina od izdavanja suglasnosti na Izvješće o sigurnosti odnosno donošenja Politike sprječavanja velikih nesreća
+
+2. bez odlaganja, a prije planirane značajne promjene i/ili rekonstrukcije:
+
+– u području postrojenja
+
+– u skladišnom prostoru
+
+– u postupku u kojem se koristi opasna tvar
+
+– u količini, prirodi, agregatnom stanju opasne tvari u usporedbi s podacima sadržanim u postojećem Izvješću o sigurnosti
+
+3. u bilo koje drugo vrijeme:
+
+– iz razloga uzimanja u obzir saznanja o novim tehnologijama, sigurnosnim mjerama i napretku u znanju koje se odnosi na pristup opasnostima, na primjer koji proizlaze iz analize nesreća ili, u mjeri u kojoj je to moguće, iz izbjegnutih nesreća
+
+– u slučaju bilo kakvih saznanja i pretpostavki o promjenama glede mogućih bitnih posljedica u vezi s opasnostima povezanima s velikom nesrećom
+
+– nakon velike nesreće
+
+– na zahtjev inspektora ili nadležnih tijela.«.
+
+###### Članak 16.
+
+Iznad članka 20. naziv Glave V. mijenja se i glasi:
+
+»V. UVJETI ZA IZDAVANJE SUGLASNOSTI NA IZVJEŠĆE O SIGURNOSTI I POLITIKU SPRJEČAVANJA VELIKIH NESREĆA«.
+
+###### Članak 17.
+
+Članak 20. mijenja se i glasi:
+
+»(1) Zahtjev za izdavanje suglasnosti na Izvješće o sigurnosti potrebno je podnijeti u pisanom obliku i pohranjen na elektroničkom mediju za pohranjivanje podataka (CD, DVD ili slično) te mora sadržavati Izvješće o sigurnosti za koje se traži suglasnost.
+
+(2) Zahtjev iz stavka 1. ovoga članka mora sadržavati:
+
+1. podatke o operateru koji upravlja područjem postrojenja:
+
+– za pravnu osobu i fizičku osobu obrtnika: tvrtka i sjedište operatera, osobni identifikacijski broj, matični broj, ime odgovorne osobe za zastupanje operatera, telefon i telefaks te adresu elektroničke pošte, ako postoji
+
+– za fizičke osobe: ime i prezime, osobni identifikacijski broj, adresa, telefon te adresa elektroničke pošte, ako postoji
+
+2. podatke o lokaciji područja postrojenja:
+
+– za lokaciju: naziv jedinice lokalne i područne (regionalne) samouprave gdje se nalazi lokacija područja postrojenja, uključujući podatke o katastarskoj općini i adresu
+
+– za područje postrojenja: točan naziv područja postrojenja na lokaciji, osobni identifikacijski broj, matični broj i sve vrste djelatnosti koje se u području postrojenja obavljaju
+
+3. podatke o ovlašteniku koji je izradio Izvješće o sigurnosti
+
+4. upravnu pristojbu u propisanom iznosu.
+
+(3) Zahtjev za izdavanje suglasnosti na Politiku sprječavanja velikih nesreća potrebno je podnijeti u pisanom obliku i pohranjen na elektroničkom mediju za pohranjivanje podataka (CD, DVD ili slično) te mora sadržavati Politiku sprječavanja velikih nesreća za koje se traži suglasnost.
+
+(4) Zahtjev iz stavka 3. ovoga članka mora sadržavati:
+
+1. podatke o operateru koji upravlja područjem postrojenja:
+
+– za pravnu osobu i fizičku osobu obrtnika: tvrtka i sjedište operatera, osobni identifikacijski broj, matični broj, ime odgovorne osobe za zastupanje operatera, telefon i telefaks te adresu elektroničke pošte, ako postoji
+
+– za fizičke osobe: ime i prezime, osobni identifikacijski broj, adresa, telefon te adresa elektroničke pošte, ako postoji
+
+2. podatke o lokaciji područja postrojenja:
+
+– za lokaciju: naziv jedinice lokalne i područne (regionalne) samouprave gdje se nalazi lokacija područja postrojenja, uključujući podatke o katastarskoj općini i adresu
+
+– za područje postrojenja: točan naziv područja postrojenja na lokaciji, osobni identifikacijski broj, matični broj i sve vrste djelatnosti koje se u području postrojenja obavljaju
+
+3. upravnu pristojbu u propisanom iznosu.
+
+(5) Službena osoba pribavit će po službenoj dužnosti podatke o činjenicama o kojima službenu evidenciju vodi javnopravno tijelo kod kojeg se vodi postupak, odnosno drugo javnopravno tijelo ili sud.«.
+
+###### Članak 18.
+
+Članak 21. mijenja se i glasi:
+
+»(1) Ako zahtjevi iz članka 20. stavaka 1. i 3. ove Uredbe ne sadrže sve propisane podatke i dokaze, odnosno kada Izvješće o sigurnosti ili Politika sprječavanja velikih nesreća koje prilaže tome zahtjevu ne sadrži sve podatke i informacije sukladno odredbama ove Uredbe, Ministarstvo će pozvati operatera da u primjerenom roku, a koji ne može biti duži od trideset dana, ukloni nedostatke u zahtjevu odnosno Izvješću o sigurnosti ili Politici sprječavanja velikih nesreća.
+
+(2) O zahtjevu operatera za izdavanje suglasnosti na Izvješće o sigurnosti ili Politiku sprječavanja velikih nesreća Ministarstvo je dužno informirati javnost i zainteresiranu javnost nakon što utvrdi da zahtjev sadrži sve propisane podatke i dokaze te da Izvješće o sigurnosti ili Politika sprječavanja velikih nesreća sadrži sve propisane podatke i informacije sukladno odredbama ove Uredbe.
+
+(3) O zahtjevima iz stavka 1. ovoga članka javnost i zainteresirana javnost se informira sukladno Zakonu i provedbenom propisu kojim se uređuje informiranje i sudjelovanje javnosti i zainteresirane javnosti u pitanjima zaštite okoliša.«.
+
+###### Članak 19.
+
+Naslov iznad članka 22. i članak 22. mijenjaju se i glase:
+
+*»Izdavanje suglasnosti na Izvješće o sigurnosti ili Politiku sprječavanja velikih nesreća*
+
+###### Članak 22.
+
+(1) Nakon što utvrdi da je zahtjev operatera za izdavanje suglasnosti na Izvješće o sigurnosti uredan Ministarstvo će sazvati Stručno vijeće za davanje mišljenja na Izvješće o sigurnosti. Troškove pribavljanja suglasnosti snosi operater.
+
+(2) Suglasnost na Izvješće o sigurnosti izdaje Ministarstvo na temelju mišljenja Stručnog vijeća u roku od šest mjeseci od predaje urednog zahtjeva.
+
+(3) Suglasnost na Politiku sprječavanja velikih nesreća izdaje Ministarstvo u roku od šest mjeseci od predaje urednog zahtjeva.
+
+(4) Suglasnost na Izvješće o sigurnosti ili Politiku sprječavanja velikih nesreća može se dati kada se utvrdi da su ispunjeni svi zahtjevi prema odredbama ove Uredbe i posebnog propisa kojim se uređuje prostorno uređenje.
+
+(5) Kada utvrdi da Izvješće o sigurnosti ili Politika sprječavanja velikih nesreća ne ispunjava sve zahtjeve prema odredbama ove Uredbe, Ministarstvo će donijeti rješenje o odbijanju zahtjeva za izdavanje suglasnosti.
+
+(6) O suglasnostima iz stavaka 1. i 3. ovoga članka odnosno rješenju iz stavka 5. ovoga članka Ministarstvo je dužno informirati javnost i zainteresiranu javnost sukladno Zakonu i provedbenom propisu kojim se uređuje informiranje i sudjelovanje javnosti i zainteresirane javnosti u pitanjima zaštite okoliša.«.
+
+###### Članak 20.
+
+U članku 23. stavak 1. mijenja se i glasi:
+
+»(1) Zahtjev za produženje suglasnosti na Izvješće o sigurnosti ili Politiku sprječavanja velikih nesreća podnosi se najkasnije šest mjeseci prije isteka roka važenja suglasnosti.«.
+
+Stavak 3. briše se.
+
+###### Članak 21.
+
+U članku 24. stavak 1. mijenja se i glasi:
+
+»(1) Suglasnost uz ostalo sadrži izreku kojom se daje suglasnost na Izvješće o sigurnosti ili Politiku sprječavanja velikih nesreća, razdoblje za koje se suglasnost daje, izreku da je Izvješće o sigurnosti ili Politika sprječavanja velikih nesreća obvezni prilog suglasnosti, te odgovarajuće obrazloženje.«.
+
+###### Članak 22.
+
+U članku 26. stavku 2. riječ: »Ministarstvo« zamjenjuje se riječima: »Nadležno tijelo«.
+
+###### Članak 23.
+
+U članku 27. stavku 3. riječi: »za zaštitu okoliša« brišu se.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Očevidnik je sastavni dio Registra postrojenja u kojima su prisutne opasne tvari.«.
+
+###### Članak 24.
+
+U članku 28. stavak 4. briše se.
+
+###### Članak 25.
+
+U članku 30. stavku 1. riječi: »za zaštitu okoliša« brišu se.
+
+###### Članak 26.
+
+Dosadašnji Prilozi I.A, II.A, II.B, III. i VII. zamjenjuju se novim Prilozima I.A, II.A, II.B, III. i VII. koji su tiskani uz ovu Uredbu i sastavni su dio ove Uredbe.
+
+#### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+###### Članak 27.
+
+(1) Operateri postojećih postrojenja dužni su uskladiti postojeća postrojenja s odredbama ove Uredbe u roku od šest mjeseci od stupanja na snagu ove Uredbe.
+
+(2) Operateri postojećih postrojenja koji su do dana stupanja na snagu ove Uredbe ispunili obveze vezane za obvezu obavještavanja o prisutnosti opasnih tvari u postrojenju prema Zakonu i Uredbi o sprječavanju velikih nesreća koje uključuju opasne tvari (»Narodne novine«, broj 44/14) nisu obvezni dostavljati ažurirane podatke u Registar postrojenja u kojima su prisutne opasne tvari, osim u slučaju promjene u skladu sa Zakonom.
+
+(3) Nova postrojenja za koja su operateri do dana stupanja na snagu ove Uredbe ispunili obveze vezane na obvezu obavještavanja o prisutnosti opasnih tvari u postrojenju prema Zakonu i Uredbi o sprječavanju velikih nesreća koje uključuju opasne tvari (»Narodne novine«, broj 44/14) smatrat će se postojećim postrojenjima.
+
+(4) Postojeća postrojenja nižeg razreda koja do dana stupanja na snagu ove Uredbe nisu dostavila zahtjev za izdavanje suglasnosti na Politiku sprječavanja velikih nesreća obvezna su ga dostaviti u roku od šest mjeseci od stupanja na snagu ove Uredbe.
+
+(5) Područja postrojenja za koja je izdana suglasnost na Izvješće o sigurnosti ili je započeo postupak izdavanja suglasnosti na Izvješće o sigurnosti do dana stupanja na snagu ove Uredbe nisu obvezni mijenjati Izvješće o sigurnosti u skladu s Prilogom III. ove Uredbe osim u slučajevima propisanim Zakonom.
+
+(6) Nova postrojenja Izvješćem o sigurnosti dokazuju da su započela s primjenom Politike sprječavanja velikih nesreća u skladu s načelima i zahtjevima navedenim u Prilogu IV. Uredbe o sprječavanju velikih nesreća koje uključuju opasne tvari (»Narodne novine«, broj 44/14).
+
+###### Članak 28.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-03/26
+
+Urbroj: 50301-25/25-17-4
+
+Zagreb, 31. ožujka 2017.
+
+Redsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+##### PRILOG I.A
+
+POPIS OPASNIH TVARI I GRANIČNE KOLIČINE KADA SE TVARI SMATRAJU OPASNIMA
+
+Opasne tvari koje su obuhvaćene kategorijama opasnosti iz dijela 1. stupca 1. ovoga Priloga podliježu propisanim količinama utvrđenima u Dijelu 1. stupcima 2. i 3. ovoga Priloga.
+
+Ako je opasna tvar obuhvaćena Dijelom 1. ovoga Priloga, odnosno Prilogom I.B ove Uredbe, a navedena je i u Dijelu 2. ovoga Priloga, primjenjuju se propisane količine koje su utvrđene u dijelu 2. stupcima 2. i 3. ovoga Priloga.
+
+### DIO 1. — Kategorije opasnih tvari
+
+Ovim su dijelom obuhvaćene sve opasne tvari koje potpadaju pod kategorije opasnosti iz stupca 1.:
+
+<table>
+<tr><td colspan="2">Stupac 1.</td><td>Stupac 2.</td><td>Stupac 3.</td></tr>
+<tr><td rowspan="2">Redni<br> broj</td><td rowspan="2">Kategorije opasnih tvari</td><td colspan="2">Donje granične količine opasnih tvari (u tonama)</td></tr>
+<tr><td>male količine</td><td>velike količine</td></tr>
+<tr><td></td><td>Odjeljak H OPASNOSTI ZA ZDRAVLJE</td><td></td><td></td></tr>
+<tr><td>1.</td><td>H1 AKUTNA TOKSIČNOST<br> Kategorija 1. svi putovi izlaganja</td><td>5</td><td>20</td></tr>
+<tr><td>2.</td><td>H2 AKUTNA TOKSIČNOST<br> Kategorija 2. svi putovi izlaganja<br> Kategorija 3. izlaganje inhalacijskim putem (vidi Uputu 7. ovoga Priloga)</td><td>50</td><td>200</td></tr>
+<tr><td>3.</td><td>H3 SPECIFIČNA TOKSIČNOST ZA CILJNE ORGANE – JEDNOKRATNO IZLAGANJE TCOJ<br> Kategorija 1.</td><td>50</td><td>200</td></tr>
+<tr><td></td><td>Odjeljak P – FIZIKALNE OPASNOSTI</td><td></td><td></td></tr>
+<tr><td>4.</td><td>P1a EKSPLOZIVI (vidi Uputu 8. ovoga Priloga)<br> – nestabilni eksplozivi ili<br> – eksplozivi, odjeljci 1.1., 1.2., 1.3., 1.5. ili 1.6., ili<br> – tvari ili smjese koje imaju eksplozivna svojstva u skladu s metodom A.14 Uredbe Komisije (EZ) br. 440/2008 od 30. svibnja 2008. o utvrđivanju ispitnih metoda u skladu s Uredbom (EZ) br. 1907/2006 Europskog parlamenta i Vijeća o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (REACH) (Tekst značajan za EGP) (SL L 142, 31. 5. 2008., str. 1.) (vidi Uputu 9. ovoga Priloga) i ne pripadaju razredima opasnosti organskih peroksida ili samoreagirajućih tvari i smjesa</td><td>10</td><td>50</td></tr>
+<tr><td>5.</td><td>P1b EKSPLOZIVI (vidi Uputu 8. ovoga Priloga)<br> Eksplozivi, odjeljak 1.4. (vidi Uputu 10. ovoga Priloga)</td><td>50</td><td>200</td></tr>
+<tr><td>6.</td><td>P2 ZAPALJIVI PLINOVI<br> Zapaljivi plinovi 1. ili 2. kategorije</td><td>10</td><td>50</td></tr>
+<tr><td>7.</td><td>P3a ZAPALJIVI AEROSOLI (vidi Uputu 11.1. ovoga Priloga)<br> »Zapaljivi« aerosoli 1. ili 2. kategorije, koji sadrže zapaljive plinove 1. ili 2. kategorije ili zapaljive tekućine 1. kategorije</td><td>150 (neto)</td><td>500 (neto)</td></tr>
+<tr><td>8.</td><td>P3b ZAPALJIVI AEROSOLI (vidi Uputu 11.1. ovoga Priloga)<br> »Zapaljivi« aerosoli 1. ili 2. kategorije, koji ne sadrže zapaljive plinove 1. ili 2. kategorije, niti zapaljive tekućine 1. kategorije (vidi Uputu 11.2. ovoga Priloga)</td><td>5 000 (neto)</td><td>50 000 (neto)</td></tr>
+<tr><td>9.</td><td>P4 OKSIDIRAJUĆI PLINOVI<br> Oksidirajući plinovi 1. kategorije</td><td>50</td><td>200</td></tr>
+<tr><td>10.</td><td>P5a ZAPALJIVE TEKUĆINE<br> – zapaljive tekućine 1. kategorije ili<br> – zapaljive tekućine 2. ili 3. kategorije, koje se održavaju na temperaturi iznad njihove temperature vrelišta ili<br> – druge tekućine s plamištem ≤ 60 °C, koje se održavaju na temperaturi iznad njihova vrelišta (vidi Uputu 12. ovoga Priloga)</td><td>10</td><td>50</td></tr>
+<tr><td>11.</td><td>P5b ZAPALJIVE TEKUĆINE<br> – zapaljive tekućine 2. ili 3. kategorije, koje zbog specifičnih uvjeta postupaka u kojima se koriste, poput visokog tlaka ili temperature, mogu izazvati rizik od velike nesreće ili<br> – ostale tekućine s plamištem ≤ 60 °C, koje zbog specifičnih uvjeta postupaka u kojima se koriste, poput visokog tlaka ili temperature, mogu izazvati rizik od velike nesreće (vidi Uputu 12. ovoga Priloga)</td><td>50</td><td>200</td></tr>
+<tr><td>12.</td><td>P5c ZAPALJIVE TEKUĆINE<br> Zapaljive tekućine 2. ili 3. kategorije, koje ne potpadaju pod P5a i P5b</td><td>5 000</td><td>50 000</td></tr>
+<tr><td>13.</td><td>P6a SAMOREAGIRAJUĆE TVARI I SMJESE te ORGANSKI PEROKSIDI<br> Samoreagirajuće tvari i smjese tipa A ili B ili organski peroksidi tipa A ili B</td><td>10</td><td>50</td></tr>
+<tr><td>14.</td><td>P6b SAMOREAGIRAJUĆE TVARI I SMJESE te ORGANSKI PEROKSIDI<br> Samoreagirajuće tvari i smjese tipa C, D, E ili F ili organski peroksidi tipa C, D, E ili F</td><td>50</td><td>200</td></tr>
+<tr><td>15.</td><td>P7 PIROFORNE TEKUĆINE I KRUTINE<br> Piroforne tekućine 1. kategorije<br> Piroforne krutine 1. kategorije</td><td>50</td><td>200</td></tr>
+<tr><td>16.</td><td>P8 OKSIDIRAJUĆE TEKUĆINE I KRUTINE<br> Oksidirajuće tekućine 1., 2. ili 3. kategorije ili<br> Oksidirajuće krutine 1., 2. ili 3. kategorije</td><td>50</td><td>200</td></tr>
+<tr><td></td><td>Odjeljak E – OPASNOSTI ZA OKOLIŠ</td><td></td><td></td></tr>
+<tr><td>17.</td><td>E1 Opasno za vodeni okoliš u 1. kategoriji akutne toksičnosti ili 1. kategoriji kronične toksičnosti</td><td>100</td><td>200</td></tr>
+<tr><td>18.</td><td>E2 Opasno za vodeni okoliš u 2. kategoriji kronične toksičnosti</td><td>200</td><td>500</td></tr>
+<tr><td></td><td>Odjeljak O – OSTALE OPASNOSTI</td><td></td><td></td></tr>
+<tr><td>19.</td><td>O1 Tvari ili smjese s oznakom opasnosti EUH014</td><td>100</td><td>500</td></tr>
+<tr><td>20.</td><td>O2 Tvari ili smjese koje u dodiru s vodom otpuštaju zapaljive plinove, 1. kategorija</td><td>100</td><td>500</td></tr>
+<tr><td>21.</td><td>O3 Tvari ili smjese s oznakom opasnosti EUH029</td><td>50</td><td>200</td></tr>
+</table>
+
+### DIO 2. — Imenovane opasne tvari
+
+<table>
+<tr><td colspan="3">Stupac 1.</td><td>Stupac 2.</td><td>Stupac 3.</td></tr>
+<tr><td rowspan="2">Redni broj</td><td rowspan="2">Opasne tvari</td><td rowspan="2">CAS broj<sup>1</sup></td><td colspan="2">Donje granične količine opasnih tvari (u tonama):</td></tr>
+<tr><td>male količine</td><td>velike količine</td></tr>
+<tr><td>1.</td><td>amonijev nitrat (vidi Uputu 13. ovoga Priloga)</td><td>-</td><td>5 000</td><td>10 000</td></tr>
+<tr><td>2.</td><td>amonijev nitrat (vidi Uputu 14. ovoga Priloga)</td><td>-</td><td>1 250</td><td>5 000</td></tr>
+<tr><td>3.</td><td>amonijev nitrat (vidi Uputu 15. ovoga Priloga)</td><td>-</td><td>350</td><td>2 500</td></tr>
+<tr><td>4.</td><td>amonijev nitrat (vidi Uputu 16. ovoga Priloga)</td><td>-</td><td>10</td><td>50</td></tr>
+<tr><td>5.</td><td>kalijev nitrat (vidi Uputu 17. ovoga Priloga)</td><td>-</td><td>5 000</td><td>10 000</td></tr>
+<tr><td>6.</td><td>kalijev nitrat (vidi Uputu 18. ovoga Priloga)</td><td>-</td><td>1 250</td><td>5 000</td></tr>
+<tr><td>7.</td><td>arsenov pentoksid, arsenska(V) kiselina i/ili soli</td><td>1303-28-2</td><td>1</td><td>2</td></tr>
+<tr><td>8.</td><td>arsenov trioksid, arsenska(III) kiselina i/ili soli</td><td>1327-53-3</td><td>-</td><td>0,1</td></tr>
+<tr><td>9.</td><td>brom</td><td>7726-95-6</td><td>20</td><td>100</td></tr>
+<tr><td>10.</td><td>klor</td><td>7782-50-5</td><td>10</td><td>25</td></tr>
+<tr><td>11.</td><td>spojevi nikla u praškastom respiratornom obliku (niklov monoksid, niklov dioksid, niklov sulfid, triniklov disulfid, diniklov trioksid)</td><td>-</td><td>-</td><td>1</td></tr>
+<tr><td>12.</td><td>etilenimin</td><td>151-56-4</td><td>10</td><td>20</td></tr>
+<tr><td>13.</td><td>fluor</td><td>7782-41-4</td><td>10</td><td>20</td></tr>
+<tr><td>14.</td><td>formaldehid (koncentracija ≥90%)</td><td>50-00-0</td><td>5</td><td>50</td></tr>
+<tr><td>15.</td><td>vodik</td><td>1333-74-0</td><td>5</td><td>50</td></tr>
+<tr><td>16.</td><td>vodikov klorid (ukapljeni plin)</td><td>7647-01-0</td><td>25</td><td>250</td></tr>
+<tr><td>17.</td><td>olovni alkili</td><td>-</td><td>5</td><td>50</td></tr>
+<tr><td>18.</td><td>ukapljeni zapaljivi plinovi 1. i 2. kategorije (uključujući UNP) i prirodni plin (vidi Uputu 19. ovoga Priloga)</td><td>-</td><td>50</td><td>200</td></tr>
+<tr><td>19.</td><td>acetilen</td><td>74-86-2</td><td>5</td><td>50</td></tr>
+<tr><td>20.</td><td>etilen oksid</td><td>75-21-8</td><td>5</td><td>50</td></tr>
+<tr><td>21.</td><td>propilen oksid</td><td>75-56-9</td><td>5</td><td>50</td></tr>
+<tr><td>22.</td><td>metanol</td><td>67-56-1</td><td>500</td><td>5 000</td></tr>
+<tr><td>23.</td><td>4,4’-metilen-bis(2-kloroanilin) i/ili soli, u praškastom obliku</td><td>101-14-4</td><td>-</td><td>0,01</td></tr>
+<tr><td>24.</td><td>metilizocianat</td><td>624-83-9</td><td>-</td><td>0,15</td></tr>
+<tr><td>25.</td><td>kisik</td><td>7782-44-7</td><td>200</td><td>2 000</td></tr>
+<tr><td>26.</td><td>2,4-diizocianatotoluen<br> 2,6-diizocianatotoluen</td><td>584-84-9<br> 91-08-7</td><td>10</td><td>100</td></tr>
+<tr><td>27.</td><td>karbonil-diklorid (fozgen)</td><td>75-44-5</td><td>0,3</td><td>0,75</td></tr>
+<tr><td>28.</td><td>arsenov trihidrid (arsin)</td><td>7784-42-1</td><td>0,2</td><td>1</td></tr>
+<tr><td>29.</td><td>fosforov trihidrid (fosfin)</td><td>7803-51-2</td><td>0,2</td><td>1</td></tr>
+<tr><td>30.</td><td>sumporov diklorid</td><td>10545-99-0</td><td>-</td><td>1</td></tr>
+<tr><td>31.</td><td>sumporov trioksid</td><td>7446-11-9</td><td>15</td><td>75</td></tr>
+<tr><td>32.</td><td>poliklorirani dibenzofurani i poliklorirani dibenzodioksini (uključujući i TCDD), izračunani u TCDD ekvivalentnim vrijednostima (vidi Uputu 20. ovoga Priloga)</td><td>-</td><td>-</td><td>0,001</td></tr>
+<tr><td>33.</td><td>karcinogene tvari ili smjese tvari koje sadrže navedene karcinogene tvari u koncentracijama većim od 5% po masi: 4-aminobifenil i/ili njegove soli, benzotriklorid, benzidin i/ili njegove soli, bis(klorometil) eter, klorometil-metil-eter, 1,2-dibromoetan, dietil-sulfat, dimetil-sulfat, dimetilkarbamoil-klorid, 1,2-dibromo-3-klorpropan, 1,2-dimetilhidrazin, dimetilnitrozamin, heksametilfosforov triamid, hidrazin, 2-naftilamin i/ili soli, 4-nitrodifenil, te 1,3-propansulton</td><td>-</td><td>0,5</td><td>2</td></tr>
+<tr><td>34.</td><td>Naftni derivati i alternativna goriva:<br> (a) benzini i ligroini<br> (b) kerozini (uključujući goriva za mlazne motore)<br> (c) plinska ulja (uključujući dizel goriva, loživa ulja za domaćinstva i mješavine plinskih ulja)<br> (d) teška loživa ulja<br> (e) alternativna goriva s istim namjenama i sa sličnim svojstvima zapaljivosti i opasnosti za okoliš, kao i proizvodi navedeni u točkama od (a) do (d)</td><td>-</td><td>2 500</td><td>25 000</td></tr>
+<tr><td>35.</td><td>bezvodni amonijak</td><td>7664-41-7</td><td>50</td><td>200</td></tr>
+<tr><td>36.</td><td>borov trifluorid</td><td>7637-07-2</td><td>5</td><td>20</td></tr>
+<tr><td>37.</td><td>vodikov sulfid</td><td>7783-06-4</td><td>5</td><td>20</td></tr>
+<tr><td>38.</td><td>piperidin</td><td>110-89-4</td><td>50</td><td>200</td></tr>
+<tr><td>39.</td><td>bis(2-dimetilaminoetil)(metil)amin</td><td>3030-47-5</td><td>50</td><td>200</td></tr>
+<tr><td>40.</td><td>3-(2-etilheksiloksi)propilamin</td><td>5397-31-9</td><td>50</td><td>200</td></tr>
+<tr><td>41.</td><td>Smjese<sup>2</sup> natrijeva hipoklorita razvrstane u 1. kategoriju akutne toksičnosti za vodeni okoliš (H400), koje sadrže manje od 5% aktivnog klora i nisu razvrstane niti pod jednu drugu kategoriju opasnosti u Dijelu 1. ovoga Priloga, odnosno Priloga I.B ove Uredbe</td><td>-</td><td>200</td><td>500</td></tr>
+<tr><td>42.</td><td>propilamin (vidi Uputu 21. ovoga Priloga)</td><td>107-10-8</td><td>500</td><td>2 000</td></tr>
+<tr><td>43.</td><td>tert-butil-akrilat (vidi Uputu 21. ovoga Priloga)</td><td>1663-39-4</td><td>200</td><td>500</td></tr>
+<tr><td>44.</td><td>2-metil-3-butennitril (vidi Uputu 21. ovoga Priloga)</td><td>16529-56-9</td><td>500</td><td>2 000</td></tr>
+<tr><td>45.</td><td>tetrahidro-3,5-dimetil-1,3,5-tiadiazin-2-tion (dazomet) (vidi Uputu 21. ovoga Priloga)</td><td>533-74-4</td><td>100</td><td>200</td></tr>
+<tr><td>46.</td><td>metil-akrilat (vidi Uputu 21. ovoga Priloga)</td><td>96-33-3</td><td>500</td><td>2 000</td></tr>
+<tr><td>47.</td><td>3-metilpiridin (vidi Uputu 21. ovoga Priloga)</td><td>108-99-6</td><td>500</td><td>2 000</td></tr>
+<tr><td>48.</td><td>1-brom-3-klorpropan (vidi Uputu 21. ovoga Priloga)</td><td>109-70-6</td><td>500</td><td>2 000</td></tr>
+</table>
+
+<sup>1</sup> CAS (Chemical Abstracts Service ) registarski broj je jedinstveni identifikacijski broj za kemijske elemente, spojeve, polimere, biološke sljedove, smjese i slitine koji dodjeljuje odjel Američkog kemijskog društva (American Chemical Society) te je naveden zbog lakšeg pretraživanja baza podataka, a mjerodavan je naziv opasne tvari.
+
+<sup>2</sup> Pod uvjetom da ta smjesa bez natrijevog hipoklorita ne bi bila razvrstana u 1. kategoriju akutne toksičnosti za vodeni okoliš (H400)
+
+#### UPUTE UZ PRILOG I.A
+
+1. Tvari i smjese razvrstane su u skladu s posebnim propisom kojim se uređuje upravno područje kemikalija.
+
+2. Sa smjesama treba postupati na isti način, kao i s čistim tvarima, pod uvjetom da ostaju unutar graničnih vrijednosti koncentracije koje su utvrđene prema njihovim svojstvima u skladu s posebnim propisom kojim se uređuje upravno područje kemikalija, ili njegovom posljednjom prilagodbom tehničkom napretku, osim ako je točno naveden njihov postotni sastav ili drugi opis.
+
+3. Gore navedene propisane količine odnose se na svako pojedino područje postrojenja.
+
+Količine koje treba uzeti u razmatranje pri odlučivanju o primjeni odgovarajućih članaka najveće su količine koje su prisutne ili bi mogle biti prisutne u bilo kojem trenutku unutar područja postrojenja. Opasne tvari prisutne u području postrojenja u količinama jednakim ili manjim od 2% od navedenih graničnih vrijednosti, potrebno je zanemariti za potrebe izračuna ukupne prisutne količine navedene opasne tvari ili grupe opasnih tvari, u onim slučajevima kada je njihov položaj unutar postrojenja takav da ne mogu djelovati kao pokretači velike nesreće na bilo kojoj lokaciji unutar lokacije samog područja postrojenja.
+
+4. U slučaju da se u području postrojenja ne nalazi niti jedna pojedinačna tvar ili smjesa u količini većoj ili jednakoj relevantnim propisanim količinama, primjenjuje se sljedeće pravilo kako bi se odredilo je li dotično postrojenje obuhvaćeno relevantnim odredbama ove Uredbe.
+
+1) Primjenjuju se odredbe ove Uredbe koje se odnose na viši razred postrojenja u slučaju da je zbroj:
+
+q<sub>1</sub>/Q<sub>U</sub><sub>1</sub> + q<sub>2</sub>/Q<sub>U</sub><sub>2</sub> + q<sub>3</sub>/Q<sub>U</sub><sub>3</sub> + q<sub>4</sub>/Q<sub>U</sub><sub>4</sub> + q<sub>5</sub>/Q<sub>U</sub><sub>5</sub> + … veći ili jednak 1,
+
+pri čemu je q<sub>x</sub> = količina opasnih tvari x (ili kategorije opasnih tvari) koje potpadaju pod Dio 1. ili 2. ovoga Priloga, odnosno kategorije iz Priloga I.B ove Uredbe,
+
+i Q<sub>U</sub><sub>X</sub> = odgovarajuća granična količina za tvar ili kategoriju x iz Dijela 1. ili 2., stupca 3. ovoga Priloga, odnosno kategorije iz Priloga I.B ove Uredbe.
+
+Ako je gornji zbroj manji od 1, pristupa se sljedećoj provjeri:
+
+2) Primjenjuju se odredbe ove Uredbe koje se odnose na niži razred postrojenja, u slučaju da je zbroj:
+
+q<sub>1</sub>/Q<sub>L</sub><sub>1</sub> + q<sub>2</sub>/Q<sub>L</sub><sub>2</sub> + q<sub>3</sub>/Q<sub>L</sub><sub>3</sub> C+ q<sub>4</sub>/Q<sub>L</sub><sub>4</sub> + q<sub>5</sub>/Q<sub>L</sub><sub>5</sub> +…veći ili jednak 1,
+
+gdje je q<sub>x</sub> = količina opasne tvari x (ili kategorije opasnih tvari) koje potpadaju pod Dio 1. ili 2. ovoga Priloga, odnosno kategorije iz Priloga I.B ove Uredbe,
+
+i Q<sub>L</sub><sub>X</sub> = odgovarajuća granična količina za tvar ili kategoriju x iz Dijela 1. ili 2., stupca 2. odnosno kategorije iz Priloga I.B ove Uredbe.
+
+Ovo se pravilo koristi za procjenu cjelokupne opasnosti povezane s toksičnosti, zapaljivosti i ekotoksičnosti. Stoga se mora primjenjivati tri puta:
+
+(a) za zbrajanje opasnih tvari, navedenih u Dijelu 2. ovoga Priloga, koje potpadaju pod 1., 2. ili 3. kategoriju akutne toksičnosti (izlaganje inhalacijskim putem) ili 1. kategoriju TCOJ, zajedno s opasnim tvarima koje potpadaju pod Dio 1. odjeljak H kategorije H1 do H3 ovoga Priloga
+
+(b) za zbrajanje opasnih tvari, navedenih u Dijelu 2. ovoga Priloga, koje su eksplozivi, zapaljivi plinovi, zapaljivi aerosoli, oksidirajući plinovi, zapaljive tekućine, samoreagirajuće tvari i smjese, organski peroksidi, piroforne tekućine i krutine, oksidirajuće tekućine i krutine, zajedno s opasnim tvarima koje potpadaju pod Dio 1. odjeljak P kategorije P1 do P8 ovoga Priloga
+
+(c) za zbrajanje opasnih tvari, navedenih u Dijelu 2. ovoga Priloga, koje potpadaju pod 1. kategoriju akutne toksičnosti za vodeni okoliš, 1. kategoriju kronične toksičnosti ili 2. kategoriju kronične toksičnosti, zajedno s opasnim tvarima koje potpadaju pod Dio 1. odjeljak E kategorije E1 i E2 ovoga Priloga.
+
+Odgovarajuće odredbe ove Uredbe primjenjuju se, ako je bilo koji od zbrojeva dobivenih pod (a), (b) ili (c) veći od ili jednak 1.
+
+5. U slučaju tvari i smjesa koje posebni propis kojim se uređuje upravno područje kemikalija ne svrstava u opasne tvari, primjerice otpad, ali koji su svejedno prisutni ili su vrlo vjerojatno prisutni u području postrojenja i koji, u okolnostima ustanovljenima u području postrojenja, posjeduju ili bi mogle posjedovati jednaka svojstva u smislu potencijala za izazivanje velikih nesreća, privremeno se dodjeljuju najsličnijoj kategoriji ili imenovanoj opasnoj tvari koja je obuhvaćena ovim Prilogom.
+
+6. U slučaju opasnih tvari koje se zbog svojih svojstava mogu razvrstati u više kategorija, za potrebe ove Uredbe primjenjuju se najmanje propisane količine. Međutim, za potrebe primjene pravila iz Upute 4. uz Prilog I.A koristi se najmanja propisana količina za svaku skupinu kategorija iz Upute 4. točaka (a), (b) i (c) uz Prilog I.A, koja odgovara dotičnom razvrstavanju.
+
+7. Opasne tvari koje potpadaju pod 3. kategoriju akutne oralne toksičnosti (H 301) potpadaju pod Dio 1. kategoriju H2 AKUTNA TOKSIČNOST ovoga Priloga, u slučaju da ih nije moguće razvrstati ni na temelju akutne inhalacijske toksičnosti, ni na temelju akutne dermalne toksičnosti, na primjer zbog nedostatka uvjerljivih podataka o inhalacijskoj i dermalnoj toksičnosti.
+
+8. Razred opasnosti »eksplozivi« uključuje eksplozivne predmete (vidi Prilog I. odjeljak 2.1. posebnog propisa kojim se uređuje provedba Uredbe (EZ) br. 1272/2008 Europskog parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označivanju i pakiranju tvari i smjesa, o izmjeni i stavljanju izvan snage Direktive 67/548/EEZ i Direktive 1999/45/EZ i o izmjeni Uredbe (EZ) br. 1907/2006. Ako je poznata količina eksplozivne tvari ili smjese sadržane u predmetu, ta se količina uzima u obzir za potrebe ove Uredbe. Ako količina eksplozivne tvari ili smjese sadržane u predmetu nije poznata, onda se za potrebe ove Uredbe cijeli predmet smatra eksplozivom.
+
+9. Ispitivanje eksplozivnih svojstava tvari i smjesa potrebno je samo, ako je postupkom kontrole u skladu s Dodatkom 6. Dijelom 3. Preporuka Ujedinjenih naroda o prijevozu opasnih tvari, Priručnikom za ispitivanja s kriterijima (Priručnik Ujedinjenih naroda s ispitivanjima i kriterijima)<sup>[1]</sup>(Dodatne smjernice o odustajanju od ispitivanja nalaze se u opisu metode A.14, vidi Uredbu Komisije (EZ) br. 440/2008 od 30. svibnja 2008. o utvrđivanju ispitnih metoda u skladu s Uredbom (EZ) br. 1907/2006 Europskog parlamenta i Vijeća o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (REACH) (Tekst značajan za EGP) (SL L 142, 31. 5. 2008., str. 1.).) utvrđeno da bi tvar ili smjesa mogla imati eksplozivna svojstva.
+
+10. Ako eksplozivi iz odjeljka 1.4. nisu pakirani ili su prepakirani, dodjeljuju se kategoriji P1a ovoga Priloga, osim ako se dokaže da opasnost još uvijek odgovara odjeljku 1.4., u skladu s posebnim propisom kojim se uređuje provedba Uredbe (EZ) br. 1272/2008.
+
+11.1. Zapaljivi aerosoli razvrstavaju se u skladu s Direktivom Vijeća 75/324/EEZ od 20. svibnja 1975. o usklađivanju zakonodavstava država članica o aerosolnim raspršivačima<sup>[2]</sup>(SL L 147, 9. 6. 1975., str. 40.) (Direktiva o dozatorima aerosola). »Vrlo lako zapaljivi« i »zapaljivi« aerosoli iz Direktive 75/324/EEZ odgovaraju zapaljivim aerosolima 1. odnosno 2. kategorije iz posebnog propisa kojim se uređuje provedba Uredbe (EZ) br. 1272/2008.
+
+11.2. Za uvrštavanje u ovu kategoriju potrebno je dokazati da dozator aerosola ne sadrži zapaljivi plin 1. ili 2. kategorije, niti zapaljivu tekućinu 1. kategorije.
+
+12. U skladu s Prilogom I. odjeljkom 2.6.4.5. posebnog propisa kojim se uređuje provedba Uredbe (EZ) br. 1272/2008, tekućine s plamištem iznad 35 °C nije potrebno razvrstati u 3. kategoriju, ako su rezultati testa podržavanja gorenja L.2, iz odjeljka 32. u III. Dijelu Preporuka Ujedinjenih naroda za prijevoz opasnih tereta, Priručnika za ispitivanja s kriterijima, negativni. To međutim ne vrijedi u izmijenjenim uvjetima, kao što je visoka temperatura ili tlak, i zbog toga su takve tekućine uključene u ovu kategoriju.
+
+13. Amonijev nitrat (5 000/10 000): gnojiva sposobna za samoodrživu razgradnju
+
+Ovo se odnosi na složena/kombinirana gnojiva na bazi amonijevog nitrata (složena/kombinirana gnojiva koja sadrže amonijev nitrat s fosfatom i/ili kalijem) koja su sposobna za samoodrživu razgradnju prema Pokusu s koritom UN-a (vidi Preporuke Ujedinjenih naroda za prijevoz opasne robe: Priručnik za ispitivanja s kriterijima, III. dio, odjeljak 38.2) u kojima je maseni udio dušika koji dolazi iz amonijevog nitrata):
+
+a) između 15,75%<sup>[3]</sup>(15,75% je maseni udio dušika koji dolazi iz amonijevog nitrata, te odgovara 45%-tnom amonijevom nitratu.) i 24,5%<sup>[4]</sup>(24,5% je maseni udio dušika koji dolazi iz amonijevog nitrata, te odgovara 70%-tnom amonijevom nitratu.), te koja ili ne sadrže više od 0,4% ukupnih zapaljivih/organskih tvari ili pak ispunjavaju uvjete iz Priloga III-2. Uredbe (EZ) br. 2003/2003 Europskog parlamenta i Vijeća od 13. listopada 2003. o gnojivima (Tekst značajan za EGP) (SL L 304, 21. 11. 2003.) i Uredbe Vijeća (EZ) br. 807/2003 od 14. travnja 2003. o prilagodbi odredbi u vezi odbora koji pomažu Komisiji u izvršavanju njezinih provedbenih ovlasti utvrđenih u instrumentima Vijeća donesenim u skladu s postupkom savjetovanja (jednoglasnost), Odluci 1999/468/EZ (SL L 122, 16. 5. 2003.).<sup>[5]</sup>(Uredba 2003/2003, str. 1.)
+
+b) 15,75% ili manje koja sadrže zapaljive tvari čije količine nisu ograničene.
+
+14. Amonijev nitrat (1 250/5 000): u kvaliteti gnojiva
+
+Ovo se odnosi na čista gnojiva na bazi amonijevog nitrata i na složena/kombinirana gnojiva na bazi amonijevog nitrata koja zadovoljavaju uvjete iz Priloga III-2. Uredbe (EZ) br. 2003/2003 i u kojima je, maseni udio dušika koji dolazi iz amonijevog nitrata:
+
+a) veći od 24,5%, osim za mješavine amonijevog nitrata s dolomitom, vapnencem, i/ili kalcijevim karbonatom s čistoćom od najmanje 90%
+
+b) veći od 15,75% za mješavine amonijevog nitrata i amonijevog sulfata
+
+c) veći od 28%<sup>[6]</sup>(28% je maseni udio dušika koji dolazi iz amonijevog nitrata, odgovara 80%-tnom amonijevom nitratu.) za mješavine amonijevog nitrata s dolomitom, vapnencem i/ili kalcijevim karbonatom s čistoćom od najmanje 90%.
+
+15. Amonijev nitrat (350/2 500): tehničke kvalitete
+
+Ovo se odnosi na amonijev nitrat i smjese amonijevog nitrata u kojima je, maseni udio dušika koji dolazi iz amonijevog nitrata
+
+a) između 24,5% i 28%, a koji ne sadrže više od 0,4% zapaljivih tvari
+
+b) veći od 28%, a koji ne sadrže više od 0,2% zapaljivih tvari.
+
+Također se odnosi na vodene otopine amonijevog nitrata u kojima je maseni udio amonijevog nitrata veći od 80%.
+
+16. Amonijev nitrat (10/50): nestandardizirani materijal i gnojiva koja nisu zadovoljila ispitivanje otpornosti na detonaciju
+
+Ovo se odnosi na:
+
+a) materijal odbačen u proizvodnom postupku, te na amonijev nitrat i smjese od amonijevog nitrata, gnojiva na bazi čistog amonijevog nitrata i složena/kombinirana gnojiva na bazi amonijevog nitrata iz Upute 14. i 15. uz Prilog I.A, koja krajnji korisnik vraća ili je vratio proizvođaču, mjestu privremenog uskladištenja ili pogonu za preradu zbog prerade, recikliranja ili obrade za sigurnu upotrebu, budući da više ne zadovoljava karakteristike propisane u Uputi 14. i 15. uz Prilog I.A
+
+b) gnojiva iz točke a) Upute 14. i iz Upute 15. uz Prilog I.A, koja ne zadovoljavaju odredbe Priloga III-2. Uredbe (EZ) br. 2003/2003.
+
+17. Kalijev nitrat (5 000/10 000): kombinirana gnojiva na bazi kalijevog nitrata (u obliku granula i mikrogranula) koja imaju ista svojstva opasnosti kao i čisti kalijev nitrat.
+
+18. Kalijev nitrat (1 250/5 000): kombinirana gnojiva na bazi kalijevog nitrata (u obliku kristala) koja imaju ista svojstva opasnosti kao i čisti kalijev nitrat.
+
+19. Poboljšani bioplin
+
+Radi provedbe ove Uredbe poboljšani se bioplin može razvrstati u Dio 2. ovoga Priloga pod rednim brojem 18., ako je prerađen u skladu s važećim normama za pročišćeni i poboljšani bioplin, na način da se zajamči kvaliteta koja je jednaka kvaliteti prirodnog plina, uključujući sadržaj metana, i ako sadrži najviše 1% kisika.
+
+20. Poliklorirani dibenzofurani i poliklorirani dibenzodioksini
+
+Količine polikloriranih dibenzofurana i polikloriranih dibenzodioksina izračunavaju se uz pomoć sljedećih faktora:
+
+<table>
+<tr><td colspan="4">WHO 2005 TEF (faktori ekvivalentne toksičnosti za odgovarajuće srodne spojeve)<sup>1</sup></td></tr>
+<tr><td rowspan="2">2,3,7,8-TCDD</td><td rowspan="2">1,0</td><td>2,3,7,8-TCDF</td><td>0,1</td></tr>
+<tr><td>2,3,4,7,8-PeCDF</td><td>0,3</td></tr>
+<tr><td>1,2,3,7,8-PeCDD</td><td>1,0</td><td>1,2,3,7,8-PeCDF</td><td>0,03</td></tr>
+<tr><td>1,2,3,4,7,8-HxCDD<br> 1,2,3,6,7,8-HxCDD<br> 1,2,3,7,8,9-HxCDD</td><td>0,1</td><td>1,2,3,4,7,8-HxCDF<br> 1,2,3,6,7,8-HxCDF<br> 1,2,3,7,8,9-HxCDF<br> 2,3,4,6,7,8-HxCDF</td><td>0,1</td></tr>
+<tr><td>1,2,3,4,6,7,8-HpCDD</td><td>0,01</td><td>1,2,3,4,6,7,8-HpCDF<br> 1,2,3,4,7,8,9-HpCDF</td><td>0,01</td></tr>
+<tr><td>OCDD</td><td>0,0003</td><td>OCDF</td><td>0,0003</td></tr>
+</table>
+
+(T = tetra, Pe = penta, Hx = heksa, Hp = hepta, O = okta)
+
+<sup>1</sup> Martin van den Berg i dr., Re-evaluacija faktora ekvivalentne toksičnosti za dioksine i spojeve slične dioksinu kod ljudi i sisavaca Svjetske zdravstvene organizacije provedena 2005. godine
+
+21. U slučajevima kad ova opasna tvar potpada pod kategoriju P5a Zapaljive tekućine ili P5b Zapaljive tekućine, za potrebe ove Uredbe primjenjuju se najmanje propisane količine.
+
+PRILOG II.A
+
+OBRAZAC OBAVIJESTI O PRISUTNOSTI OPASNIH TVARI U PODRUČJU POSTROJENJA S KOLIČINAMA ISPOD GRANIČNIH VRIJEDNOSTI IZ PRILOGA I.A, ODNOSNO PRILOGA I.B OVE UREDBE
+
+<table>
+<tr><td colspan="18">OBRAZAC OBAVIJESTI O PRISUTNOSTI OPASNIH TVARI<br> Za definicije vidi članak 3. ove Uredbe i članak 4. Zakona.</td></tr>
+<tr><td colspan="18">1. OPĆI PODACI O OPERATERU</td></tr>
+<tr><td colspan="18">1.1 Tvrtka ili ime i prezime:</td></tr>
+<tr><td colspan="18">1.2 Broj iz baze podataka:<br> (automatski se dodjeljuje)</td></tr>
+<tr><td colspan="9">1.3 Sjedište:<br> (ulica i kućni broj)</td><td colspan="4">Poštanski broj:</td><td colspan="5">Mjesto:</td></tr>
+<tr><td colspan="18">1.4 Šifra djelatnosti/podskupina:</td></tr>
+<tr><td colspan="18">1.5 Opis djelatnosti:</td></tr>
+<tr><td colspan="18">2. PODACI O PODRUČJU POSTROJENJA<br> (Ako operater ima područja postrojenja na više lokacija, za svaku lokaciju je potrebno ispuniti zaseban obrazac.)</td></tr>
+<tr><td colspan="18">2.1 Naziv lokacije:</td></tr>
+<tr><td colspan="5">2.2 OIB:</td><td colspan="13">2.3 MBS:</td></tr>
+<tr><td colspan="18">2.4 NKD/opis poddjelatnosti:</td></tr>
+<tr><td colspan="18">2.5 Opis uže djelatnosti:</td></tr>
+<tr><td colspan="9">2.6 Adresa:<br> (ulica i kućni broj)</td><td colspan="4">Poštanski broj:</td><td colspan="5">Mjesto:</td></tr>
+<tr><td colspan="18">2.7 Unos položaja područja postrojenja u GIS formatu, opcionalno, operater može unijeti geografsku dužinu/širinu pored X i Y ako posjeduje informacije<br> a) Gauss-Krügerove koordinate područja postrojenja (centrirani položaj ili položaj glavnog ulaza):<br> (X,Y)<br> b) Gauss-Krügerove koordinate rizičnog uređaja u postrojenju i naziv uređaja ako postoji:<br> (X,Y)<br> c) Gauss-Krügerove koordinate drugog rizičnog uređaja u postrojenju i naziv uređaja itd.:<br> (X,Y)<br> (navesti što više uređaja u skladu s rezultatima procjene rizika)</td></tr>
+<tr><td colspan="3">2.8 Odgovorna osoba u pravnoj osobi (osoba ovlaštena za zastupanje operatera):<br> (pozicija, ime i prezime)</td><td colspan="7">Telefon:</td><td colspan="7">Telefaks:</td><td>e-mail:</td></tr>
+<tr><td colspan="3">2.9 Odgovorna osoba za organizaciju djelovanja kod iznenadnog događaja:<br> (pozicija, ime i prezime – ako se razlikuje od 2.8)</td><td colspan="7">Telefon:</td><td colspan="7">Telefaks:</td><td>e-mail:</td></tr>
+<tr><td colspan="3">2.10 Ostali:<br> (npr. osoba za kontakt – ako se razlikuje od 2.8)</td><td colspan="7">Telefon:</td><td colspan="7">Telefaks:</td><td>e-mail:</td></tr>
+<tr><td colspan="10">2.11 Kratki opis okruženja područja postrojenja (položaj prometnica, stambenih i poslovnih objekata u odnosu na postrojenje, s naglaskom na elemente koji bi mogli uzrokovati veliku nesreću ili pridonijeti ozbiljnosti njezinih posljedica):<br> Priložiti kartu na kojoj je vidljivo najmanje 1 km uokrug područja postrojenja sa stambenim objektima ili elementima prirodnog okoliša koji mogu biti ugroženi (škola, bolnica, stadion, rijeka, šuma i dr.)</td><td colspan="8"></td></tr>
+<tr><td colspan="10">2.12 Nalazi li se vaša lokacija unutar lokacije nekog drugog operatera?</td><td colspan="8">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="10">2.13 Navedite njegovo ime (ako je odgovor na točku 2.12 »da«)</td><td colspan="8"></td></tr>
+<tr><td colspan="18">3. MJERE ZA SPRJEČAVANJE I UBLAŽAVANJE POSLJEDICA IZNENADNOG DOGAĐAJA<br> (Umnožite ovaj dio obrasca ako je potrebno. Vidi procjenu rizika.)</td></tr>
+<tr><td colspan="12">3.1 Mjere za sprječavanje posljedica iznenadnog događaja</td><td colspan="6"></td></tr>
+<tr><td colspan="12">3.2 Sredstva i oprema za sprječavanje nastanka i uklanjanje posljedica iznenadnog događaja i velike nesreće</td><td colspan="6"></td></tr>
+<tr><td colspan="12">3.3 Postoji li u sastavu područja postrojenja vatrogasna postrojba?</td><td colspan="6">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="18">3.4 Kooperant koji će biti pozvan radi ograničavanja i sanacije posljedica iznenadnog događaja:<br> (ako opseg aktivnosti nadilazi mogućnost operatera, odnosno područja postrojenja, a ako postoji više kooperanata, potrebno ih je sve navesti)</td></tr>
+<tr><td colspan="3">Adresa kooperanta:</td><td colspan="8">Telefon:</td><td colspan="6">Telefaks:</td><td>e-mail:</td></tr>
+<tr><td colspan="17">3.5 Kad je izrađena posljednja Obavijest o prisutnosti opasnih tvari u području postrojenja?</td><td>Datum:</td></tr>
+<tr><td colspan="17">3.6 Postoji li izrađen Operativni plan zaštite i spašavanja?</td><td>Datum:</td></tr>
+<tr><td colspan="17">3.7 Provodi li se sustavna edukacija djelatnika s ciljem upoznavanja opasnosti i ponašanja u slučaju iznenadnog događaja?</td><td>☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="18">4. PODACI O OPASNIM TVARIMA ČIJA JE PRISUTNOST UTVRĐENA U POSTROJENJU<br> (sve opasne tvari)<br> (Umnožite ovaj dio obrasca ako je potrebno.)</td></tr>
+<tr><td></td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.1 Vrste (naziv) ili kategorija opasnih tvari u postrojenju (prema Prilogu I.A, odnosno Prilogu I.B ove Uredbe)</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.2 Kemijski naziv</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.3 CAS broj</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.4 INDEKS broj</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.5 EC broj</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.6 Razvrstavanje</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.7 U kojem dijelu Priloga I.A, odnosno Prilogu I.B ove Uredbe se nalazi?</td><td colspan="5">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td><td colspan="8">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td><td colspan="4">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td></tr>
+<tr><td>4.8 Vrsta opasnosti<br> (odaberite jedno ili više od ponuđenoga)</td><td colspan="5">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td><td colspan="8">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td><td colspan="4">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td></tr>
+<tr><td>4.9 Maksimalna količina (u tonama)</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.10 Agregatno stanje</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.11 Način skladištenja opasne tvari u postrojenju (odaberite od ponuđenoga)</td><td colspan="5">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td><td colspan="8">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td><td colspan="4">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td></tr>
+<tr><td>4.12 Lokacija opasne tvari u području postrojenja (naziv postrojenja)</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td>4.13 Postoji li stalni nadzor spremnika s opasnim tvarima?</td><td colspan="5">☐ da<br> ☐ ne<br> Opis:</td><td colspan="8">☐ da<br> ☐ ne<br> Opis:</td><td colspan="4">☐ da<br> ☐ ne<br> Opis:</td></tr>
+<tr><td colspan="18">5. REZULTATI PROCJENE RIZIKA (obveza prema propisima iz zaštite i spašavanja)<br> (svi scenariji)<br> (Umnožite ovaj dio obrasca ako je potrebno.)</td></tr>
+<tr><td colspan="2">5.1 Naziv scenarija</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.2 Opis</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.3 Koordinate XY izvora opasnosti</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.4 Tvari koje sudjeluju u događaju</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.5 Vjerojatnost događaja (događaj/godina)</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.6 Procjena broja žrtava</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.7 Visoka smrtnost</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.8 Trajne posljedice</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.9 Privremene posljedice</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.10 Područje učinka<br> (u metrima)<br> (ukupno i za domino-efekt)<br> (vidi bilješku 1. Priloga II. ove Uredbe)</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">5.11 Prostire li se područje učinka izvan područja postrojenja?</td><td colspan="5">☐ da<br> ☐ ne</td><td colspan="8">☐ da<br> ☐ ne</td><td colspan="3">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="2">5.12 Jesu li obaviješteni ostali ugroženi objekti?</td><td colspan="5">☐ da<br> ☐ ne</td><td colspan="8">☐ da<br> ☐ ne</td><td colspan="3">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="2">5.13 Postoji li opasnost od domino efekta prema tablici graničnih vrijednosti izloženosti?<br> (vidi bilješku 1. Priloga II. ove Uredbe)</td><td colspan="5">☐ da<br> ☐ ne</td><td colspan="8">☐ da<br> ☐ ne</td><td colspan="3">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="2">5.14 Jeste li obavijestili susjedna postrojenja?<br> (ako je odgovor na točku 5.13 »da«)</td><td colspan="5">☐ da<br> ☐ ne</td><td colspan="8">☐ da<br> ☐ ne</td><td colspan="3">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="2">5.15 Navedite imena susjednih postrojenja koja ste obavijestili (ako je odgovor na točku 5.14 »da«</td><td colspan="5"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="18">6. TAJNOST PODATAKA O PODRUČJU POSTROJENJA</td></tr>
+<tr><td colspan="8">6.1 Popis podataka iz obrasca koji predstavljaju tajnu</td><td colspan="10"></td></tr>
+<tr><td colspan="8">6.2 Popis priloženih dokumenata kojima se dokazuje tajnost podataka ili odobrenje od nadležnog tijela prema članku 13. ove Uredbe</td><td colspan="10"></td></tr>
+<tr><td colspan="18">Izjavljujem da su svi podaci i informacije u ovom obrascu istiniti i ispravni te snosim materijalnu i krivičnu odgovornost za netočnost i neispravnost podataka.</td></tr>
+<tr><td colspan="4">Ime i prezime i potpis osobe iz točke 2.8:</td><td colspan="12">Mjesto i adresa</td><td colspan="2">Datum</td></tr>
+</table>
+
+PRILOG II.B
+
+OBRAZAC OBAVIJESTI O PRISUTNOSTI OPASNIH TVARI U PODRUČJU POSTROJENJA S KOLIČINAMA JEDNAKIM ILI IZNAD GRANIČNIH VRIJEDNOSTI IZ PRILOGA I.A, ODNOSNO PRILOGA I.B OVE UREDBE
+
+<table>
+<tr><td colspan="19">OBRAZAC OBAVIJESTI O PRISUTNOSTI OPASNIH TVARI<br> za definicije vidi članak 3. ove Uredbe i članak 4. Zakona</td></tr>
+<tr><td colspan="19">1. OPĆI PODACI O OPERATERU</td></tr>
+<tr><td colspan="19">1.1 Tvrtka ili ime i prezime:</td></tr>
+<tr><td colspan="19">1.2 Broj iz baze podataka:<br> (automatski se dodjeljuje)</td></tr>
+<tr><td colspan="8">1.3 Sjedište:<br> (ulica i kućni broj)</td><td colspan="5">Poštanski broj:</td><td colspan="6">Mjesto:</td></tr>
+<tr><td colspan="19">1.4 Šifra djelatnosti/podskupina:</td></tr>
+<tr><td colspan="19">1.5 Opis djelatnosti:</td></tr>
+<tr><td colspan="19">2. PODACI O PODRUČJU POSTROJENJA<br> (Ako operater ima područja postrojenja na više lokacija, za svaku lokaciju je potrebno ispuniti zaseban obrazac.)</td></tr>
+<tr><td colspan="19">2.1 Naziv lokacije:</td></tr>
+<tr><td colspan="5">2.2 Administrativni položaj prema ovoj Uredbi</td><td colspan="14">☐ niži razred postrojenja<br> ☐ viši razred postrojenja</td></tr>
+<tr><td colspan="5">2.3 OIB:</td><td colspan="14">2.4 MBS:</td></tr>
+<tr><td colspan="19">2.5 NKD / opis poddjelatnosti:</td></tr>
+<tr><td colspan="19">2.6 Opis uže djelatnosti:</td></tr>
+<tr><td colspan="8">2.7 Adresa:<br> (ulica i kućni broj)</td><td colspan="5">Poštanski broj:</td><td colspan="6">Mjesto:</td></tr>
+<tr><td colspan="19">2.8 Unos položaja područja postrojenja u GIS formatu, opcionalno, operater može unijeti geografsku dužinu/širinu pored X i Y ako posjeduje informacije<br> a) Gauss-Krügerove koordinate područja postrojenja (centrirani položaj ili položaj glavnog ulaza):<br> (X,Y)<br> b) Gauss-Krügerove koordinate rizičnog uređaja u postrojenju i naziv uređaja ako postoji:<br> (X,Y)<br> c) Gauss-Krügerove koordinate drugog rizičnog uređaja u postrojenju i naziv uređaja itd.:<br> (X,Y)<br> (navesti što više uređaja u skladu s rezultatima procjene rizika)</td></tr>
+<tr><td colspan="3">2.9 Odgovorna osoba u pravnoj osobi (osoba ovlaštena za zastupanje operatera):<br> (pozicija, ime i prezime)</td><td colspan="6">Telefon:</td><td colspan="8">Telefaks:</td><td colspan="2">e-mail:</td></tr>
+<tr><td colspan="3">2.10 Odgovorna osoba za organizaciju djelovanja kod iznenadnog događaja:<br> (pozicija, ime i prezime – ako se razlikuje od 2.9)</td><td colspan="6">Telefon:</td><td colspan="8">Telefaks:</td><td colspan="2">e-mail:</td></tr>
+<tr><td colspan="3">2.11 Ostali:<br> (npr. osoba za kontakt – ako se razlikuje od 2.9)</td><td colspan="6">Telefon:</td><td colspan="8">Telefaks:</td><td colspan="2">e-mail:</td></tr>
+<tr><td colspan="9">2.12 Kratki opis okruženja područja postrojenja (položaj prometnica, stambenih i poslovnih objekata u odnosu na postrojenje, s naglaskom na elemente koji bi mogli uzrokovati veliku nesreću ili pridonijeti ozbiljnosti njezinih posljedica):<br> Priložiti kartu na kojoj je vidljivo najmanje 1 km uokrug područja postrojenja sa stambenim objektima ili elementima prirodnog okoliša koji mogu biti ugroženi (škola, bolnica, stadion, rijeka, šuma i dr.)</td><td colspan="10"></td></tr>
+<tr><td colspan="9">2.13 Nalazi li se vaša lokacija unutar lokacije nekog drugog operatera?</td><td colspan="10">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="9">2.14 Navedite njegovo ime (ako je odgovor na točku 2.13 »da«)</td><td colspan="10"></td></tr>
+<tr><td colspan="19">3. MJERE ZA SPRJEČAVANJE I UBLAŽAVANJE POSLJEDICA IZNENADNOG DOGAĐAJA<br> (Umnožite ovaj dio obrasca ako je potrebno. Vidi procjenu rizika.)</td></tr>
+<tr><td colspan="11">3.1 Mjere za sprječavanje posljedica iznenadnog događaja</td><td colspan="8"></td></tr>
+<tr><td colspan="11">3.2 Mjere za sprječavanje posljedica velike nesreće s posljedicama izvan područja postrojenja</td><td colspan="8"></td></tr>
+<tr><td colspan="11">3.3 Sredstva i oprema za sprječavanje nastanka i uklanjanje posljedica iznenadnog događaja i velike nesreće</td><td colspan="8"></td></tr>
+<tr><td colspan="11">3.4 Postoji li u sastavu područja postrojenja vatrogasna postrojba?</td><td colspan="8">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="19">3.5 Kooperant koji će biti pozvan radi ograničavanja i sanacije posljedica iznenadnog događaja:<br> (ako opseg aktivnosti nadilazi mogućnost operatera odnosno područja postrojenja, a ako postoji više kooperanata, potrebno ih je sve navesti)</td></tr>
+<tr><td colspan="3">Adresa kooperanta:</td><td colspan="7">Telefon:</td><td colspan="7">Telefaks:</td><td colspan="2">e-mail:</td></tr>
+<tr><td colspan="12">3.6 Kada je izrađena posljednja Obavijest o prisutnosti opasnih tvari u području postrojenja?</td><td colspan="6">Datum:</td><td></td></tr>
+<tr><td colspan="12">3.7 (a) Kada je izrađen posljednji Unutarnji plan za slučaj sprječavanja velike nesreće?<br> (ispunjava samo viši razred postrojenja)</td><td colspan="6">Datum:</td><td></td></tr>
+<tr><td colspan="12">3.7 (b) Kada je izrađen posljednji Operativni plan zaštite i spašavanja?<br> (ispunjava samo niži razred postrojenja)</td><td colspan="6">Datum:</td><td></td></tr>
+<tr><td colspan="12">3.8 Kada je izrađeno posljednje odobreno Izvješće o sigurnosti?<br> (ispunjava samo viši razred postrojenja)</td><td colspan="6">Datum:</td><td></td></tr>
+<tr><td colspan="12">3.9 Napišite klasu suglasnosti na posljednje odobreno Izvješće o sigurnosti:<br> (ispunjava samo viši razred postrojenja)</td><td colspan="6">Datum:</td><td>KLASA:</td></tr>
+<tr><td colspan="12">3.10 Je li novo Izvješće o sigurnosti u postupku izdavanja suglasnosti pri nadležnom tijelu?<br> (ispunjava samo viši razred postrojenja)</td><td colspan="6">Datum:</td><td>☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="12">3.11 Kada su županiji/Gradu Zagrebu dostavljeni podaci za izradu Vanjskog plana zaštite i spašavanja<br> (ispunjava samo viši razred postrojenja)</td><td colspan="6">Datum:</td><td></td></tr>
+<tr><td colspan="12">3.12 Provodi li se sustavna edukacija djelatnika s ciljem upoznavanja opasnosti i ponašanja u slučaju iznenadnog događaja?</td><td colspan="7">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="12">3.13 Provodi li se sustavna edukacija djelatnika s ciljem upoznavanja opasnosti i ponašanja u slučaju velike nesreće?</td><td colspan="7">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="19">4. PODACI O OPASNIM TVARIMA ČIJA JE PRISUTNOST UTVRĐENA U POSTROJENJU<br> (sve opasne tvari)<br> (Umnožite ovaj dio obrasca ako je potrebno.)</td></tr>
+<tr><td></td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.1 Vrste (naziv) ili kategorija opasnih tvari u postrojenju (prema Prilogu I.A, odnosno Prilogu I.B ove Uredbe)</td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.2 Kemijski naziv</td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.3 CAS broj</td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.4 INDEKS broj</td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.5 EC broj</td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.6 Razvrstavanje</td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.7 U kojem dijelu Priloga I.A, odnosno Prilogu I.B ove Uredbe se nalazi?</td><td colspan="5">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td><td colspan="8">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td><td colspan="5">☐ Prilog I.A dio 1.<br> Rbr.:<br> (upisati redni broj opasne tvari)<br> ☐ Prilog I.A dio 2.<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)<br> ☐ Prilog I.B<br> Rbr.:<br> (upisati redni broj kategorije opasne tvari)</td></tr>
+<tr><td>4.8 Vrsta opasnosti<br> (odaberite jedno ili više od ponuđenoga)</td><td colspan="5">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td><td colspan="8">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td><td colspan="5">☐ vatra<br> ☐ eksplozija<br> ☐ oblak toksičnog plina<br> ☐ ispuštanje/<br> emisija opasnih tvari (šteta po okoliš – tlo i voda)</td></tr>
+<tr><td>4.9 Maksimalna količina (u tonama)</td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.10 Agregatno stanje</td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.11 Način skladištenja opasne tvari u postrojenju (odaberite od ponuđenoga)</td><td colspan="5">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td><td colspan="8">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td><td colspan="5">☐ podzemni spremnik<br> ☐ nadzemni spremnik<br> ☐ procesna oprema<br> ☐ cjevovod<br> ☐ ostalo<br> Opis:</td></tr>
+<tr><td>4.12 Lokacija opasne tvari u području postrojenja (naziv postrojenja)</td><td colspan="5"></td><td colspan="8"></td><td colspan="5"></td></tr>
+<tr><td>4.13 Postoji li stalni nadzor spremnika s opasnim tvarima?</td><td colspan="5">☐ da<br> ☐ ne<br> Opis:</td><td colspan="8">☐ da<br> ☐ ne<br> Opis:</td><td colspan="5">☐ da<br> ☐ ne<br> Opis:</td></tr>
+<tr><td colspan="19">5. REZULTATI PROCJENE RIZIKA<br> (svi scenariji)<br> (Umnožite ovaj dio obrasca ako je potrebno.)</td></tr>
+<tr><td colspan="2">5.1 Naziv scenarija</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.2 Opis</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.3 Koordinate XY izvora opasnosti<br> (opcionalno geografska dužina i širina)</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.4 Tvari koje sudjeluju u događaju</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.5 Vjerojatnost događaja (događaj/godina)</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.6 Procjena broja žrtava</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.7 Visoka smrtnost</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.8 Trajne posljedice</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.9 Privremene posljedice</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.10 Područje učinka<br> (u metrima)<br> (ukupno i za domino-efekt)<br> (vidi bilješku 1. Priloga II. ove Uredbe)</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.11 Prostire li se područje učinka izvan područja postrojenja?</td><td colspan="5">☐ da<br> ☐ ne</td><td colspan="8">☐ da<br> ☐ ne</td><td colspan="4">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="2">5.12 Jesu li obaviješteni ostali ugroženi objekti?</td><td colspan="5">☐ da<br> ☐ ne</td><td colspan="8">☐ da<br> ☐ ne</td><td colspan="4">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="2">5.13 Postoji li opasnost od domino efekta prema tablici graničnih vrijednosti izloženosti?<br> (vidi bilješku 1. Priloga II. ove Uredbe)</td><td colspan="5">☐ da<br> ☐ ne</td><td colspan="8">☐ da<br> ☐ ne</td><td colspan="4">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="2">5.14 Jeste li obavijestili susjedna postrojenja?<br> (ako je odgovor na točku 5.13 »da«)</td><td colspan="5">☐ da<br> ☐ ne</td><td colspan="8">☐ da<br> ☐ ne</td><td colspan="4">☐ da<br> ☐ ne</td></tr>
+<tr><td colspan="2">5.15 Navedite imena susjednih postrojenja koja ste obavijestili (ako je odgovor na točku 5.14 »da«)</td><td colspan="5"></td><td colspan="8"></td><td colspan="4"></td></tr>
+<tr><td colspan="2">5.16 Postoji li opasnost od prekograničnog utjecaja velike nesreće?</td><td colspan="5">☐ da<br> ☐ ne<br> Država:</td><td colspan="8">☐ da<br> ☐ ne<br> Država:</td><td colspan="4">☐ da<br> ☐ ne<br> Država:</td></tr>
+<tr><td colspan="19">6. TAJNOST PODATAKA O PODRUČJU POSTROJENJA</td></tr>
+<tr><td colspan="5">6.1 Popis podataka iz obrasca koji predstavljaju tajnu</td><td colspan="14"></td></tr>
+<tr><td colspan="5">6.2 Popis priloženih dokumenata kojima se dokazuje tajnost podataka ili odobrenje od nadležnog tijela prema članku 13. ove Uredbe</td><td colspan="14"></td></tr>
+<tr><td colspan="19">Izjavljujem da su svi podaci i informacije u ovom obrascu istiniti i ispravni te snosim materijalnu i krivičnu odgovornost za netočnost i neispravnost podataka.</td></tr>
+<tr><td colspan="4">Ime i prezime i potpis osobe iz točke 2.9:</td><td colspan="12">Mjesto i adresa</td><td colspan="3">Datum</td></tr>
+</table>
+
+PRILOG III.
+
+PODACI I INFORMACIJE KOJE MORA SADRŽAVATI IZVJEŠĆE O SIGURNOSTI
+
+Izvješće o sigurnosti mora sadržavati sljedeće podatke i informacije:
+
+I. Informacije o sustavu upravljanja i organizaciji područja postrojenja iz perspektive sprječavanje velikih nesreća.
+
+Ove informacije moraju sadržavati podatke prema Prilogu IV. ove Uredbe.
+
+II. Opis lokacije područja postrojenja:
+
+A. opis lokacije na kojoj se područje postrojenja nalazi i njegovog okruženja, uključujući zemljopisni smještaj, meteorološke, geološke i hidrografske uvjete te, ako je potrebno, povijest terena
+
+B. određenje postrojenja i drugih aktivnosti područja postrojenja koje bi mogle predstavljati rizik od velikih nesreća
+
+C. na temelju raspoloživih informacija, identificirati susjedna postrojenja, kao i područja, uključujući javne objekte poput bolnica ili škola, koja su izvan djelokruga ove Uredbe te područja i zbivanja koja bi mogla biti izvor ili povećati rizik izbijanja te posljedice velikih nesreća i domino efekta
+
+D. opis područja na kojima bi moglo doći do velike nesreće
+
+III. Tehnološki opis postrojenja:
+
+A. opis glavnih aktivnosti i proizvoda u dijelovima postrojenja bitnih za sigurnost, izvora rizika od velikih nesreća te okolnosti pod kojima bi takva nesreća mogla izbiti te opis planiranih preventivnih mjera
+
+B. opis procesa, ponajprije načina rada, a gdje je primjenjivo uzeti u obzir raspoložive informacije o najboljim praksama
+
+C. opis opasnih tvari:
+
+1. popis opasnih tvari, koji uključuje:
+
+– utvrđivanje opasnih tvari: kemijski naziv, CAS broj, naziv po IUPAC nomenklaturi, oznake upozorenja
+
+– najveću količinu opasnih tvari koje jesu ili bi mogle biti prisutne na lokaciji
+
+– kapacitet (maksimalni kapacitet spremnika i sl.)
+
+2. fizikalna, kemijska i toksikološka i ekotoksikološka svojstva i nagovještaji neposrednih i odgođenih opasnosti za zdravlje čovjeka i okoliš
+
+3. fizikalno i kemijsko ponašanje u normalnim uvjetima korištenja te u uvjetima opasnosti od velike nesreće i u slučaju velike nesreće
+
+IV. Utvrđivanje i analizu rizika od nesreća te načine sprječavanja:
+
+A. detaljan opis mogućih scenarija velikih nesreća i vjerojatnosti njihova izbijanja ili uvjeta pod kojima izbijaju, uključujući i sažetak događaja koji mogu sudjelovati u pokretanju bilo kojih od navedenih scenarija, bez obzira jesu li uzroci unutar područja postrojenja ili izvan njega
+
+– operativni uzroci
+
+– vanjski čimbenici kao što su oni koji se odnose na domino efekt, mjesta koja su izvan djelokruga ove Uredbe, područja i zbivanja koja bi mogla biti izvor ili povećanje rizika ili posljedica velike nesreće
+
+– prirodni uzroci, primjerice potresi ili poplave
+
+B. procjena dosega i ozbiljnosti posljedica ustanovljenih velikih nesreća, uključujući karte, prikaze ili prema potrebi, odgovarajuće opise, koji prikazuju područja koja mogu biti zahvaćena takvim nesrećama nastalim na području postrojenja
+
+C. pregled prošlih nesreća i akcidenata s istim prisutnim tvarima i procesima, naučena iskustva na osnovi istih te eksplicitni osvrt na specifične mjere koje su poduzete i planirane kako bi se budući akcidenti i velike nesreće spriječile
+
+D. opis tehničkih parametara i opreme korištene za sigurnost postrojenja
+
+E. u slučaju domino efekta, dodatne informacije vezane uz mogućnost izbijanja istog
+
+V. Mjere zaštite i interventne mjere za ograničavanje posljedica nesreće:
+
+A. opis opreme u postrojenju korištene za ograničavanje posljedica velikih nesreća na ljudsko zdravlje i okoliš, uključujući npr. sustave otkrivanja/zaštite, tehničke uređaje za ograničavanje opsega slučajnih ispuštanja, uključujući raspršivače vode, vodene zavjese, posude ili sabirne prostore za slučaj opasnosti, zaporne ventile, sustave za inertizaciju, zadržavanje vode za gašenje požara
+
+B. organizacija uzbunjivanja i intervencije
+
+C. opis vanjskih i unutrašnjih raspoloživih resursa koji se mogu mobilizirati
+
+D. opis tehničkih i netehničkih mjera važnih za ograničavanje učinka velike nesreće.
+
+PRILOG VII.
+
+KRITERIJ ZA OBAVJEŠĆIVANJE O VELIKOJ NESREĆI
+
+I. Agencija mora biti obaviještena o svakoj velikoj nesreći obuhvaćenoj točkom 1. ovoga Priloga te svakoj nesreći čija je barem jedna posljedica opisana u točkama 2., 3., 4. i 5. ovoga Priloga te će ona o tome obavijestiti Europsku komisiju.
+
+1. Uključena količina opasne tvari
+
+Svaki požar, eksplozija ili slučajna emisija opasne tvari u koju je uključena količina od barem 5% granične količine opasne tvari utvrđene u Priloga I.A, Dijelovima 1. i 2. stupcu 3., odnosno Prilogu I.B stupcu 3. ove Uredbe.
+
+2. Ozljede osoba i oštećenje nekretnina
+
+Svaka nesreća izravno vezana uz opasne tvari čija je posljedica jedan od sljedećih slučajeva:
+
+a) smrt
+
+b) šest osoba ozlijeđenih u području postrojenja i hospitaliziranih na najmanje 24 sata
+
+c) jedna osoba izvan područja postrojenja hospitalizirana najmanje na 24 sata
+
+d) stambena/e jedinica/e izvan područja postrojenja oštećene i nefunkcionalne zbog posljedica nesreće
+
+e) evakuacija ili zatočenje osoba duže od 2 sata (osobe×sati): kad je umnožak najmanje 500
+
+f) prekid opskrbe pitkom vodom, strujom, plinom ili telefonskim uslugama na duže od 2 sata (osobe×sati): kad je umnožak najmanje 1 000
+
+3. Neposredno oštećenje okoliša
+
+a) trajna ili dugoročna oštećenja kopnenih staništa:
+
+– najmanje 0,5 ha ekološki bitnog staništa ili staništa bitnog za očuvanje prirode zaštićenog posebnim propisom kojim se uređuje zaštita prirode
+
+– najmanje 10 ha rasprostranjenog staništa, uključujući poljoprivredne površine
+
+b) značajna ili dugoročna oštećenja slatkovodnih ili morskih staništa
+
+– najmanje 10 km rijeke ili kanala
+
+– najmanje 1 ha jezera ili ribnjaka
+
+– najmanje 2 ha delte
+
+– najmanje 2 ha obalnog pojasa ili otvorenog mora
+
+c) značajna oštećenja vodonosnog sloja ili podzemnih voda
+
+– najmanje 1 ha
+
+4. Oštećenja imovine
+
+a) oštećenja imovine u području postrojenja: vrijednosti najmanje 2.000.000,00 eura
+
+b) oštećenja imovine izvan područja postrojenja: vrijednosti najmanje 500.000,00 eura.
+
+5. Prekogranični učinci.
+
+Svaka nesreća izravno vezana uz opasne tvari čije se posljedice osjećaju izvan teritorija države članice o kojoj je riječ.
+
+II. Europska komisija putem Agencije mora biti obaviještena o nesrećama ili izbjegnutim nesrećama koje država članica s tehničkog stajališta smatra posebno značajnim za sprječavanje velikih nesreća i ograničavanje njihovih posljedica, a koje ne zadovoljavaju gore navedene količinske kriterije.
+
+## Ispravak Uredbe o izmjenama i dopunama Uredbe o sprječavanju velikih nesreća koje uključuju opasne tvari (NN 45/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/45/1068*
+
+NARODNE NOVINE
+
+Nakon uspoređivanja s izvornim tekstom Uredbe o izmjenama i dopunama Uredbe o sprječavanju velikih nesreća koje uključuju opasne tvari objavljene u »Narodnim novinama« br. 31 od 5. travnja 2017., utvrđena je tiskarska pogreška te se daje
+
+ISPRAVAK
+
+### UREDBE O IZMJENAMA I DOPUNAMA UREDBE O SPRJEČAVANJU VELIKIH NESREĆA KOJE UKLJUČUJU OPASNE TVARI
+
+U potpisu Uredbe o izmjenama i dopunama Uredbe o sprječavanju velikih nesreća koje uključuju opasne tvari umjesto riječi »Redsjednik«, treba biti riječ »Predsjednik«.
+
+U Uputi uz Prilog I.A Uredbe u točki 4. podtočki 2) umjesto jednadžbe:
+
+»q<sub>1</sub>/Q<sub>L</sub><sub>1</sub> + q<sub>2</sub>/Q<sub>L</sub><sub>2</sub> + q<sub>3</sub>/Q<sub>L</sub><sub>3</sub> C+ q<sub>4</sub>/Q<sub>L</sub><sub>4</sub> + q<sub>5</sub>/Q<sub>L</sub><sub>5</sub> +…veći ili jednak 1,«
+
+treba stajati jednadžba:
+
+»q<sub>1</sub>/Q<sub>L</sub><sub>1</sub> + q<sub>2</sub>/Q<sub>L</sub><sub>2</sub> + q<sub>3</sub>/Q<sub>L</sub><sub>3</sub> + q<sub>4</sub>/Q<sub>L</sub><sub>4</sub> + q<sub>5</sub>/Q<sub>L</sub><sub>5</sub> +…veći ili jednak 1,«.
+
+U Uputi uz Prilog I.A Uredbe u točkama 9. – 20. mijenjaju se brojčane oznake fusnota tako da u točki 9. fusnota započinje sa oznakom »3« a u točki 20. završava sa oznakom »9«.
+
+Urbroj: 50501-7/1-17
+
+Zagreb, 8. svibnja 2017.
+
+Glavna urednica  
+Zdenka Pogarčić, v. r.

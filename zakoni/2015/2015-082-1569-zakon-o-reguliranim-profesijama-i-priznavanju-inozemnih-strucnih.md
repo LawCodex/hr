@@ -6,11 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-07-24
+last_amended: 2025-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "82/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "82/15, 70/19, 47/20, 123/23, 126/25"
+amendments:
+  - "NN 70/2019 (1452) Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija"
+  - "NN 47/2020 (948) Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija"
+  - "NN 123/2023 (1698) Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija"
+  - "NN 126/2025 (1814) Zakon o izmjenama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/82/1569"
 retrieved: 2026-10-12
 ---
@@ -18,6 +23,8 @@ retrieved: 2026-10-12
 # Zakon o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija
 
 > Izvor: Narodne novine, NN 82/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/82/1569).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 70/2019, NN 47/2020, NN 123/2023, NN 126/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1676,3 +1683,1016 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (NN 70/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/70/1452*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O REGULIRANIM PROFESIJAMA I PRIZNAVANJU INOZEMNIH STRUČNIH KVALIFIKACIJA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija koji je Hrvatski sabor donio na sjednici 12. srpnja 2019.
+
+Klasa: 011-01/19-01/114
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. srpnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O REGULIRANIM PROFESIJAMA I PRIZNAVANJU INOZEMNIH STRUČNIH KVALIFIKACIJA**
+
+#### Članak 1.
+
+U Zakonu o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15.) u članku 5. stavku 1. podstavku 1. iza riječi: »nazivom« stavlja se zarez i dodaju riječi: »kao i korištenje profesionalnog naziva koji je posebnim propisima ograničen na nositelje određenih stručnih kvalifikacija te predstavlja jedan od načina obavljanja djelatnosti«.
+
+U podstavku 8. točki d) iza riječi: »iskustvom« briše se zarez i riječi: »na temelju kojeg je nositelj stručne kvalifikacije stekao pravo obavljanja određene regulirane profesije u državi članici«.
+
+U podstavku 15. iza riječi: »kvalifikacija« stavlja se zarez i dodaju riječi: »kao i nadležno tijelo druge države članice«.
+
+U podstavku 28. iza riječi: »EPC kartice« briše se točka.
+
+Iza podstavka 28. dodaju se podstavci 29. i 30. koji glase:
+
+»29. stručno osposobljavanje i usavršavanje – osposobljavanje i usavršavanje nakon završetka formalnog obrazovanja koje je izričito usmjereno na obavljanje određene regulirane profesije, a koja obuhvaća jedan ili više programa koji su, tamo gdje je to primjereno, nadopunjeni odgovarajućim stručnim osposobljavanjem, odnosno pripravničkom ili stručnom praksom
+
+30. odgovorna osoba u trgovačkom društvu – osoba koja se sukladno posebnom propisu o trgovačkim društvima smatra odgovornom.«.
+
+#### Članak 2.
+
+U članku 6. stavku 5. riječi: »kojima se utvrđuju stručne kvalifikacije za obavljanje reguliranih profesija« zamjenjuju se riječima: »o stručnim kvalifikacijama«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Odredbe ove glave ne primjenjuju se na državljane trećih zemalja.«.
+
+#### Članak 3.
+
+U članku 7. stavku 3. točki f) riječi: »mogu imati posljedice za javno zdravlje i sigurnost primatelja usluga sukladno članku 10. ovoga Zakona« zamjenjuju se riječima: »utječu na sigurnost pacijenata«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Nadležno tijelo, osim dokumenata iz stavaka 2. i 3. ovoga članka, može zatražiti i druge dokumente kada:
+
+a) se takvi dokumenti zahtijevaju i od državljana Republike Hrvatske
+
+b) ih nije moguće pribaviti na drugi način
+
+c) je profesija različito regulirana u nekim dijelovima državnog područja ili
+
+d) su razlike u takvoj regulativi opravdane zbog prevladavajućih razloga općeg interesa koji se odnose na javno zdravlje ili sigurnost primatelja usluga.«.
+
+Iza stavka 7. dodaju se stavci 8. i 9. koji glase:
+
+»(8) Nadležno tijelo dužno je ministarstvu nadležnom za rad dostavljati podatke o ukupnom broju zaprimljenih izjava i državama članicama poslovnog nastana osoba koje su podnijele izjavu iz stavka 2. ovoga članka.
+
+(9) Nadležno tijelo dužno je dostavljati podatke iz stavka 8. ovoga članka jedanput godišnje, a najkasnije do 30. travnja tekuće godine za prethodnu kalendarsku godinu.«.
+
+#### Članak 4.
+
+U članku 10. stavak 1. mijenja se i glasi:
+
+»(1) U slučaju profesija koje mogu imati posljedice za javno zdravlje i sigurnost primatelja usluga, osim profesija na koje se primjenjuje automatsko priznavanje iz glave IV. ovoga Zakona, nadležno tijelo može provjeriti stručne kvalifikacije osobe prije prvog pružanja usluga.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Ako nadležno tijelo zbog opravdanih razloga ne može donijeti rješenje u roku iz stavka 3. ovoga članka, o tome će bez odgode obavijestiti osobu, vodeći pritom računa da se razlozi koji su doveli do kašnjenja odluke otklone u roku od mjesec dana od dana obavijesti o razlozima kašnjenja.«.
+
+Stavak 8. mijenja se i glasi:
+
+»(8) Nadležno tijelo mora omogućiti osobi pružanje usluga u roku od mjesec dana od dana donošenja rješenja o obvezi provjere kompetentnosti iz stavka 4. ovoga članka.«.
+
+U stavku 9. riječi: »3., 4., 6. i 8.« zamjenjuju se riječima: »3., 4. i 6.«.
+
+#### Članak 5.
+
+U članku 17. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Nadležno tijelo dužno je u roku od mjesec dana od dana primitka zahtjeva iz stavka 1. ovoga članka potvrditi njegov primitak.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+U dosadašnjim stavcima 4. i 5., koji postaju stavci 5. i 6., broj: »3.« zamjenjuje se brojem: »4.«.
+
+Iza dosadašnjeg stavka 5., koji postaje stavak 6., dodaje se novi stavak 7. koji glasi:
+
+»(7) Potvrdu o autentičnosti iz stavka 6. ovoga članka nadležno tijelo dužno je dostaviti na zahtjev nadležnog tijela države članice domaćina.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 8. i 9.
+
+U dosadašnjem stavku 8., koji postaje stavak 10., broj: »3.« zamjenjuje se brojem: »4.«, a broj: »4.« zamjenjuje se brojem: »5.«.
+
+U dosadašnjem stavku 9., koji postaje stavak 11., broj: »3.« zamjenjuje se brojem: »4.«.
+
+Iza dosadašnjeg stavka 10., koji postaje stavak 12., dodaje se stavak 13. koji glasi:
+
+»(13) Nadležno tijelo dužno je na zahtjev nadležnog tijela države članice domaćina u roku od dva mjeseca dostaviti dokaze iz točaka 1. d) i e) Priloga VII. Direktive.«.
+
+#### Članak 6.
+
+U članku 18. stavak 6. mijenja se i glasi:
+
+»(6) Bitno različit sadržaj iz stavka 2. ovoga članka podrazumijeva sadržaj osposobljavanja, odnosno stečene kompetencije odlučujuće za obavljanje profesije, a osposobljavanje kandidata pokazuje značajne sadržajne razlike od osposobljavanja koja su propisana u Republici Hrvatskoj.«.
+
+U stavku 12. iza riječi: »ponovljenom roku« dodaju se riječi: »od šest mjeseci«.
+
+#### Članak 7.
+
+U članku 19. stavku 2. iza riječi: »razlozi« umjesto točke stavlja se zarez te dodaju riječi: »osim u slučaju automatskog priznavanja inozemnih stručnih kvalifikacija za obavljanje reguliranih profesija na temelju usklađivanja minimalnih uvjeta osposobljavanja iz poglavlja I. glave IV. ovoga Zakona.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Nadležno tijelo dužno je odlučiti o zahtjevu kandidata iz članka 17. stavka 1. ovoga Zakona u roku od mjesec dana od dana provedene dopunske mjere iz članka 18. ovoga Zakona.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., broj: »4.« zamjenjuje se brojem: »5.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+#### Članak 8.
+
+U članku 20. stavku 3. riječi: »se može« zamjenjuju se riječima: »će se«.
+
+#### Članak 9.
+
+U članku 21. stavku 2. riječi: »primatelja usluga« zamjenjuju se riječju: »pacijenata«.
+
+#### Članak 10.
+
+U članku 22. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Nadležno tijelo dužno je na zahtjev nadležnog tijela države članice domaćina izdati potvrdu da kandidat ispunjava minimalne uvjete osposobljavanja iz stavka 4. ovoga članka.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+U dosadašnjem stavku 6., koji postaje stavak 7., iza riječi: »zdravstvene zaštite« dodaju se riječi: »u mreži javne zdravstvene službe«.
+
+Dosadašnji stavci 7., 8., 9. i 10. postaju stavci 8., 9., 10. i 11.
+
+U dosadašnjem stavku 11., koji postaje stavak 12., broj: »9.« zamjenjuje se brojem: »10.«.
+
+Dosadašnji stavci 12. i 13. postaju stavci 13. i 14.
+
+#### Članak 11.
+
+U članku 26. stavak 1. mijenja se i glasi:
+
+»(1) Dokaz o stručnoj kvalifikaciji iz točke 5.1.4. Priloga V. Direktive potreban je za obavljanje djelatnosti opće/obiteljske medicine u mreži javne zdravstvene službe, osim za specijalizante obiteljske medicine, uz posjedovanje dokaza o:
+
+a) završenom i priznatom programu sveučilišnog studija medicine iz članka 23. stavka 2. ovoga Zakona u kojem je polaznik stekao potrebna znanja za obavljanje profesije doktora medicine i
+
+b) završenom posebnom stručnom usavršavanju u općoj medicini u trajanju od najmanje tri godine s punom satnicom obavljenom u ovlaštenoj zdravstvenoj ustanovi.«.
+
+U stavku 2. iza riječi: »obavljanja djelatnosti opće/obiteljske medicine« dodaju se riječi: »u mreži javne zdravstvene službe«.
+
+U stavku 4. riječi: »na dan pristupanja« zamjenjuju se riječima: »do dana pristupanja«.
+
+#### Članak 12.
+
+U članku 35. stavku 6. iza četvrte rečenice dodaje se peta rečenica koja glasi:
+
+»Polaznici sudjeluju u djelatnostima predmetnog odjela primjerenima njihovu obrazovanju, što im omogućuje da nauče preuzeti odgovornost zdravstvene njege.«.
+
+#### Članak 13.
+
+U članku 36. stavku 2. iza druge rečenice dodaje se treća rečenica koja glasi:
+
+»Obrazovna ustanova, odnosno visoko učilište koje provodi osposobljavanje za medicinske sestre odgovorne za djelatnost opće njege odgovorno je za usklađivanje teorijskog i kliničkog osposobljavanja tijekom cijelog obrazovnog, odnosno studijskog programa.«.
+
+#### Članak 14.
+
+U članku 37. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Nadležno tijelo izdaje potvrdu da je primalja nakon stjecanja stručne kvalifikacije iz točke 5.5.2. Priloga V. Direktive tijekom odgovarajućeg razdoblja uspješno obavljala sve stručne poslove primalje u zdravstvenoj ustanovi koja ima odobrenje za obavljanje djelatnosti.«.
+
+#### Članak 15.
+
+U članku 38. stavak 2. mijenja se i glasi:
+
+»(2) Teorijsku i tehničku nastavu iz stavka 1. točke a) ovoga članka visoko učilište usklađuje tijekom cijelog studijskog programa s kliničkim osposobljavanjem iz stavka 1. točke b) ovoga članka, na način da se stečena znanja i vještine mogu usvojiti na odgovarajući način.«.
+
+#### Članak 16.
+
+U članku 43. stavak 4. mijenja se i glasi:
+
+»(4) Pripravnički staž iz stavka 1. točke b) ovoga članka obavlja se nakon završene prve tri godine studija. Najmanje godina dana pripravničkog staža nadopunjuje kompetencije stečene tijekom studija iz stavka 2. ovoga članka. Pripravnički staž odvija se u bilo kojoj državi pod nadzorom ovlaštenog kvalificiranog stručnjaka ili tijela koje su nadležna tijela matične države članice za to ovlastila, a ocjenjuje ga nadležno tijelo matične države članice.«.
+
+#### Članak 17.
+
+U članku 49. stavku 1. iza riječi: »čije je specijalističko usavršavanje« dodaju se riječi: »skraćene satnice«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Nadležno tijelo priznaje državljanima Republike Hrvatske i državljanima drugih država članica stečeno pravo u vezi sa stručnom kvalifikacijom doktora medicine specijalista iz točaka 5.1.2. i 5.1.3. Priloga V. Direktive, kad je stručna kvalifikacija stečena na temelju zakonskih i drugih propisa u državi članici koji više nisu na snazi, ako je dokaz o stručnoj kvalifikaciji doktora medicine specijalista izdan prije datuma od kojeg je država članica domaćin prestala izdavati navedeni dokaz o stručnoj kvalifikaciji doktora medicine specijalista.«.
+
+#### Članak 18.
+
+U članku 52. stavku 1. riječ: »završili« zamjenjuje se riječju: »započeli«.
+
+U stavku 2. točki a) iza riječi: »tri godine« dodaje se riječ: »uzastopno«.
+
+#### Članak 19.
+
+U članku 56. stavku 1. riječi: »stavkom 7.« zamjenjuju se riječima: »stavkom 8.«.
+
+#### Članak 20.
+
+U članku 67. stavku 1. riječi: »te koja nije pod automatskim sustavom priznavanja u skladu s glavom IV. ovoga Zakona« brišu se.
+
+#### Članak 21.
+
+U članku 68. stavku 2. iza riječi: »ne pruža« dodaju se riječi: »inozemnom nositelju stručne kvalifikacije koji se namjerava poslovno nastaniti u Republici Hrvatskoj«.
+
+#### Članak 22.
+
+U članku 69. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Korištenje profesionalnog naziva ili odgovarajuće kratice te profesija koju obavljaju članovi strukovne organizacije ili drugog nadležnog tijela ili organizacije s popisa iz Priloga I. Direktive smatra se reguliranom profesijom.«.
+
+#### Članak 23.
+
+U članku 71. stavku 1. riječi: »može odobriti« zamjenjuju se riječima: »odobrit će«.
+
+#### Članak 24.
+
+U članku 74. stavku 2. točki d) riječi: »12. i 13.« zamjenjuju se riječima: »13. i 14.«.
+
+#### Članak 25.
+
+U članku 76. stavku 1. točki f) broj: »4.« zamjenjuje se brojem: »5.«.
+
+#### Članak 26.
+
+U članku 78. stavku 2. točki f) iza riječi: »pravnih akata proizašlih na temelju ovoga Zakona« stavlja se točka i briše riječ: »i«.
+
+Točka g) briše se.
+
+#### Članak 27.
+
+U članku 80. stavak 2. briše se.
+
+U dosadašnjem stavku 3., koji postaje stavak 2., riječi: »stavaka 1. i 2.« zamjenjuju se riječima: »stavka 1.«.
+
+Dosadašnji stavak 4., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Popis iz stavka 1. ovoga članka dostupan je na mrežnim stranicama ministarstva nadležnog za rad te Jedinstvene kontaktne točke za usluge sukladno članku 78. stavku 2. ovoga Zakona.«.
+
+#### Članak 28.
+
+U članku 81. stavku 4. riječi: »12. i 13.« zamjenjuju se riječima: »13. i 14.«.
+
+#### Članak 29.
+
+U članku 82. stavak 6. mijenja se i glasi:
+
+»(6) Nositelj stručnih kvalifikacija o kojemu se šalje upozorenje unutar IMI sustava obavještava se bez odgode pisanim putem o upozorenju odlukom.«.
+
+Iza stavka 6. dodaje se novi stavak 7. i stavci 8. i 9. koji glase:
+
+»(7) U svrhu sprječavanja štetnih posljedica mogućeg neosnovano objavljenog upozorenja nositelj stručne kvalifikacije ima pravo prigovora na odluku o upozorenju iz stavka 6. ovoga članka.
+
+(8) Ako nositelj stručne kvalifikacije izjavi prigovor na odluku o upozorenju iz stavka 6. ovoga članka, odnosno žalbu protiv odluke o ograničenju ili potpunoj ili djelomičnoj zabrani obavljanja profesionalne djelatnosti, nadležno tijelo dužno je o prigovoru, odnosno žalbi obavijestiti nadležna tijela drugih država članica putem IMI sustava.
+
+(9) U slučaju štete uzrokovane neosnovano objavljenim upozorenjem iz stavka 2. ovoga članka nositelj stručnih kvalifikacija ima pravo na naknadu štete prema općim propisima obveznog prava.«.
+
+Dosadašnji stavak 7. postaje stavak 10.
+
+#### Članak 30.
+
+Članak 84. mijenja se i glasi:
+
+»(1) Na postupak priznavanja inozemnih stručnih kvalifikacija stečenih u trećim zemljama na odgovarajući način primjenjuju se odredbe glave III. ovoga Zakona, osim članka 19. stavka 7. ovoga Zakona.
+
+(2) Iznimno od stavka 1. ovoga članka, nadležno tijelo može zatražiti provjeru kompetentnosti, i to bez:
+
+a) prethodne usporedbe programa obrazovanja ustanove na kojoj je kandidat stekao svoje obrazovne kvalifikacije u trećoj zemlji i programa obrazovanja koje se pohađa za istu profesiju na istoj razini obrazovanja u Republici Hrvatskoj i
+
+b) utvrđivanja dopunskih mjera iz članka 18. ovoga Zakona.
+
+(3) Na priznavanje inozemnih stručnih kvalifikacija stečenih u trećim zemljama ne primjenjuju se odredbe glava IV. i V. ovoga Zakona.
+
+(4) Iznimno od odredbe stavka 3. ovoga članka, za profesije stečene u trećim zemljama za koje se provodi automatsko priznavanje inozemnih stručnih kvalifikacija za obavljanje reguliranih profesija na temelju usklađivanja minimalnih uvjeta osposobljavanja iz poglavlja I. glave IV. ovoga Zakona nadležno tijelo dužno je utvrditi minimalne uvjete osposobljavanja iz odjeljaka 1.2., 1.3. i 1.4. ovoga Zakona.
+
+(5) Dodatni i posebni uvjeti za priznavanje inozemnih stručnih kvalifikacija stečenih u trećim zemljama te način ispunjavanja tih uvjeta, kao i detaljniji postupak priznavanja inozemnih stručnih kvalifikacija stečenih u trećim zemljama mogu se regulirati posebnim zakonom ili pravilnikom iz djelokruga nadležnih središnjih tijela državne uprave, odnosno općim aktima nadležnih tijela iz članka 5. stavka 1. podstavka 15. ovoga Zakona koje ona donose na temelju zakonskog ovlaštenja.
+
+(6) Priznavanje inozemne stručne kvalifikacije može zatražiti azilant i stranac pod supsidijarnom zaštitom u Republici Hrvatskoj koji su u pravima i dužnostima izjednačeni s hrvatskim državljanima, a u postupku priznavanja inozemnih stručnih kvalifikacija primjenjuju se odredbe glave III. ovoga Zakona, osim članka 19. stavka 7. ovoga Zakona.«.
+
+#### Članak 31.
+
+Članak 85. mijenja se i glasi:
+
+»Nadležno tijelo dopustit će pristup reguliranoj profesiji i bavljenje tom profesijom pod istim uvjetima koji se primjenjuju na državljane Republike Hrvatske, i to kandidatu koji:
+
+a) je stekao stručnu kvalifikaciju u trećoj zemlji i
+
+b) ima tri godine stručnog iskustva u istoj profesiji na području države članice koja je priznala stručnu kvalifikaciju stečenu u trećoj zemlji, a što dokazuje potvrdom izdanom u toj državi članici.«.
+
+#### Članak 32.
+
+U članku 86. stavku 1. iza riječi: »priznavanja« dodaje se riječ: »stručnih«.
+
+Iza stavka 3. dodaju se novi stavci 4., 5. i 6. koji glase:
+
+»(4) Nadležno tijelo dužno je prije traženja mišljenja iz stavka 1. ovoga članka zatražiti od centra za pomoć iz članka 75. ovoga Zakona provjeru akreditacije studijskog programa, odnosno akreditacije visokog učilišta na kojem je kandidat stekao obrazovnu kvalifikaciju u trećoj zemlji.
+
+(5) Kada je kandidat studijski program završio na više visokih učilišta u trećoj zemlji, akreditacija se provjerava za svako visoko učilište, i to za svaku godinu provedenog obrazovanja.
+
+(6) Ako studijski program, odnosno visoko učilište nije akreditirano, nadležno tijelo odbit će zahtjev za priznavanje inozemne stručne kvalifikacije.«.
+
+Dosadašnji stavak 4. postaje stavak 7.
+
+U dosadašnjem stavku 5., koji postaje stavak 8., broj: »4.« zamjenjuje se brojem: »7.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 9. i 10.
+
+U dosadašnjem stavku 8., koji postaje stavak 11., broj: »4.« zamjenjuje se brojem: »5.«, a broj: »3.« zamjenjuje se brojem: »4.«.
+
+U dosadašnjem stavku 9., koji postaje stavak 12., broj: »4.« zamjenjuje se brojem: »5.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 33.
+
+Postupci priznavanja inozemnih stručnih kvalifikacija započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15.).
+
+#### Članak 34.
+
+Ministar nadležan za rad uskladit će Pravilnik o izdavanju Europske profesionalne kartice (»Narodne novine«, br. 123/15.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 35.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/40
+
+Zagreb, 12. srpnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (NN 47/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/47/948*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O REGULIRANIM PROFESIJAMA I PRIZNAVANJU INOZEMNIH STRUČNIH KVALIFIKACIJA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija, koji je Hrvatski sabor donio na sjednici 7. travnja 2020.
+
+Klasa: 011-01/20-01/52  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 9. travnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O REGULIRANIM PROFESIJAMA I PRIZNAVANJU INOZEMNIH STRUČNIH KVALIFIKACIJA**
+
+#### Članak 1.
+
+U Zakonu o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15. i 70/19.) članak 2. mijenja se i glasi:
+
+»Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeće direktive Europske unije:
+
+– Direktiva 2005/36/EZ Europskog parlamenta i Vijeća od 7. rujna 2005. o priznavanju stručnih kvalifikacija (Tekst značajan za EGP) (SL L 255, 30. 9. 2005.), kako je zadnje izmijenjena i dopunjena Direktivom 2013/55/EU Europskog parlamenta i Vijeća od 20. studenoga 2013. o izmjeni Direktive 2005/36/EZ o priznavanju stručnih kvalifikacija i Uredbe (EU) br. 1024/2012 o administrativnoj suradnji putem Informacijskog sustava unutarnjeg tržišta (»Uredba IMI«) (Tekst značajan za EGP) (SL L 354, 28. 12. 2013.) i
+
+– Direktiva (EU) 2018/958 Europskog parlamenta i Vijeća od 28. lipnja 2018. o ispitivanju proporcionalnosti prije donošenja novih propisa kojima se reguliraju profesije (SL L 173, 9. 7. 2018.).«.
+
+#### Članak 2.
+
+U članku 5. stavku 1. podstavci 29. i 30. mijenjaju se i glase:
+
+»29. stručno osposobljavanje i usavršavanje radi obavljanja regulirane profesije – osposobljavanje i usavršavanje nakon formalnog obrazovanja koje obuhvaća jedan ili više programa koji su, tamo gdje je to primjereno, nadopunjeni odgovarajućim stručnim osposobljavanjem, odnosno pripravničkom ili stručnom praksom; struktura i razina stručnog osposobljavanja, odnosno pripravničke ili stručne prakse određuje se posebnim propisima ili ga nadzire ili odobrava nadležno tijelo
+
+30. odgovorna osoba na upravljačkim i rukovodećim pozicijama – osoba koja je u okviru predmetne profesije radila u gospodarskom subjektu, uključujući podružnicu, kao odgovorna osoba gospodarskog subjekta ili podružnice ili kao zamjenik odgovorne osobe gospodarskog subjekta, ako taj položaj uključuje odgovornost koja je istovjetna odgovornosti odgovorne osobe koju zamjenjuje ili kao osoba na rukovodećem položaju u gospodarskom subjektu«.
+
+Iza podstavka 30. briše se točka i dodaju se podstavci 31. i 32. koji glase:
+
+»31. zaštićeni profesionalni naziv – naziv koji se može upotrebljavati za obavljanje profesionalne djelatnosti ili skupine profesionalnih djelatnosti izravno ili neizravno, isključivo uz posjedovanje određene stručne kvalifikacije na temelju zakona ili drugih pravnih akata, a čija neovlaštena upotreba podliježe sankcijama
+
+32. rezervirani poslovi – poslovi ili grupe poslova koje su ograničene na određenu profesiju na temelju zakona ili drugih pravnih akta, a koje može obavljati, izravno ili neizravno, isključivo osoba ovlaštena za obavljanje regulirane profesije, iako su ti poslovi zajednički i drugim reguliranim profesijama.«.
+
+#### Članak 3.
+
+Iza članka 5. dodaju se članci 5.a, 5.b, 5.c, 5.d, 5.e, 5.f i 5.g koji glase:
+
+»Članak 5.a
+
+(1) Prilikom utvrđivanja novih ili izmjene postojećih uvjeta kojima se ograničava pristup reguliranim profesijama ili njihovo obavljanje, uključujući korištenje profesionalnog naziva i profesionalnih djelatnosti koje su dopuštene na temelju takvog naziva, nadležno tijelo dužno je prethodno provesti ocjenu proporcionalnosti.
+
+(2) Ocjena proporcionalnosti provodi se za svaki propisani uvjet kojim se ograničava pristup reguliranoj profesiji ili njezino obavljanje.
+
+(3) Opseg ocjenjivanja mora biti proporcionalan prirodi, sadržaju i učinku uvjeta kojim se ograničava pristup reguliranoj profesiji ili njezino obavljanje.
+
+(4) O ocjeni uvjeta kojim se ograničava pristup reguliranoj profesiji ili njezino obavljanje nadležno tijelo sastavlja izjavu.
+
+(5) Izjava iz stavka 4. ovoga članka mora omogućiti procjenu usklađenosti s načelom proporcionalnosti sukladno člancima 5.c i 5.d ovoga Zakona, a uključuje podatke o nadležnom tijelu, uvjetu kojim se ograničava pristup reguliranoj profesiji ili njezino obavljanje za koji je provedena ocjena proporcionalnosti te opravdane razloge za utvrđivanje ocijenjenog uvjeta.
+
+(6) Ocjena proporcionalnosti provodi se objektivno i neovisno, a temelji se na kvalitativnim, a kada je moguće i relevantno, i kvantitativnim dokazima.
+
+(7) Nakon uvođenja novih ili izmjene postojećih uvjeta kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje, nadležno tijelo dužno je pratiti njihovu usklađenost s načelom proporcionalnosti, uzimajući u obzir promjene koje su nastupile nakon njihova uvođenja.
+
+#### Članak 5.b
+
+(1) Uvjeti kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje ne smiju utjecati izravno ili neizravno na diskriminaciju na temelju državljanstva ili boravišta.
+
+(2) Uvjeti kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje moraju biti opravdani zaštitom javnog interesa.
+
+(3) Zaštita javnog interesa iz stavka 2. ovoga članka može se objektivno opravdati na temelju javne politike, javne sigurnosti, javnog zdravlja ili prevladavajućim razlozima od javnog interesa, kao što su: očuvanje financijske ravnoteže sustava socijalne sigurnosti; zaštita potrošača, primatelja usluga i radnika; jamstvo odgovarajuće sudske zaštite; osiguravanje pravednosti trgovinskih transakcija; borba protiv prijevara i sprečavanje utaje ili izbjegavanja poreza te očuvanje učinkovitosti fiskalnog nadzora; prometna sigurnost; zaštita okoliša i urbanog okoliša; zdravlje životinja; intelektualno vlasništvo; zaštita i očuvanje nacionalne povijesne i umjetničke baštine; ciljevi socijalne politike i ciljevi kulturne politike.
+
+(4) Pod prevladavajućim razlozima od javnog interesa iz stavka 3. ovoga članka ne podrazumijevaju se razlozi isključivo gospodarske prirode ili administrativni razlozi.
+
+#### Članak 5.c
+
+(1) Uvjeti kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje moraju biti prikladni za ostvarenje cilja koji se želi postići i ne smiju prelaziti okvire potrebne za ostvarenje tog cilja.
+
+(2) Za ocjenjivanje proporcionalnosti uvjeta kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje primjenjuju se sljedeći opći kriteriji:
+
+a) priroda rizika koji su povezani s određenim ciljevima od javnog interesa, posebno rizika za primatelje usluga, uključujući potrošače, stručnjake ili treće osobe
+
+b) prikladnost i učinkovitost postojećih uvjeta sukladno posebnim propisima o općoj sigurnosti proizvoda i zaštiti potrošača
+
+c) prikladnost uvjeta za ostvarenje određenog cilja na dosljedan i sustavan način
+
+d) učinak uvjeta na slobodno kretanje osoba i slobodno pružanje usluga unutar Europske unije, izbor potrošača i kvalitetu pružene usluge
+
+e) mogućnost primjene manje ograničavajućih uvjeta za ostvarenje cilja od javnog interesa, posebice ako su ograničenja opravdana samo zaštitom potrošača i ako su utvrđeni rizici ograničeni na odnos stručnjaka i potrošača bez negativnog utjecaja na treće osobe i
+
+f) učinak uvjeta u kombinaciji s drugim uvjetima kojima se ograničava pristup profesiji ili njezino obavljanje, a koji se ocjenjuje prema:
+
+1. djelatnostima koje su ograničene na određenu profesiju, zaštićeni profesionalni naziv ili svaki drugi oblik reguliranja iz članka 5. stavka 1. podstavka 1. ovoga Zakona
+
+2. obvezi kontinuiranog stručnog usavršavanja
+
+3. pravilima koja se odnose na organizaciju profesije, profesionalnu etiku i nadzor
+
+4. obvezi članstva u strukovnoj organizaciji ili tijelu odnosno dobivanju ovlaštenja, licencija i dopusnica kao uvjetima za rad, posebice ako podrazumijevaju posjedovanje određenih stručnih kvalifikacija
+
+5. kvantitativnim ograničenjima, posebice ograničenjima broja dozvola za obavljanje djelatnosti ili broja zaposlenika, rukovoditelja ili predstavnika koji imaju određene stručne kvalifikacije
+
+6. ograničenjima koja se odnose na poseban pravni oblik ili na vlasničku strukturu ili poslovno upravljanje, i to u mjeri u kojoj su ti uvjeti izravno povezani s obavljanjem regulirane profesije
+
+7. teritorijalnim ograničenjima, ako je profesija različito regulirana u nekim dijelovima državnog područja
+
+8. ograničenjima koja se odnose na zajedničko ili partnersko obavljanje regulirane profesije te pravilima o nespojivosti
+
+9. ograničenjima koja se odnose na osiguravateljska pokrića ili druge osobne ili kolektivne zaštite od profesionalne odgovornosti
+
+10. ograničenjima koja se odnose na znanje jezika, i to u mjeri potrebnoj za obavljanje profesije
+
+11. fiksnim minimalnim i/ili maksimalnim tarifama i
+
+12. ograničenjima u pogledu oglašavanja.
+
+(3) Ovisno o reguliranoj profesiji koja se analizira za ocjenjivanje proporcionalnosti uvjeta kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje primjenjuju se sljedeći dodatni kriteriji:
+
+a) veza između opsega djelatnosti obuhvaćenih određenom profesijom ili ograničenih na tu profesiju i potrebnih stručnih kvalifikacija
+
+b) veza između složenosti poslova koji se obavljaju unutar profesije i potrebnih stručnih kvalifikacija, posebice u pogledu razine, prirode i trajanja osposobljavanja ili potrebnog iskustva
+
+c) mogućnost stjecanja stručne kvalifikacije na druge načine
+
+d) mogućnost podjele obavljanja određene profesije s drugim profesijama
+
+e) stupanj samostalnosti u obavljanju regulirane profesije, posebice ako su poslovi povezani s reguliranom profesijom koja se obavlja pod nadzorom i odgovornošću propisno kvalificiranog stručnjaka i
+
+f) stupanj znanstvenog i tehnološkog razvoja kojim se može učinkovito smanjiti ili povećati nesrazmjer u informiranosti između stručnjaka i potrošača.
+
+#### Članak 5.d
+
+(1) Prilikom utvrđivanja novih ili izmjene postojećih uvjeta kojima se ograničava pristup reguliranim profesijama ili njihovo obavljanje na privremenoj ili povremenoj osnovi, sukladno glavi II. ovoga Zakona, ocjena proporcionalnosti provodi se u odnosu na:
+
+a) odobrenje, registraciju ili članstvo u nadležnom tijelu iz članka 6. stavka 3. točke a) ovoga Zakona
+
+b) izjavu i dokumentaciju koja se prilaže uz izjavu iz članka 7. ovoga Zakona i
+
+c) plaćanje naknade ili drugih troškova koje snosi osoba koja želi pružati usluge u postupcima koji se odnose na pristup reguliranim profesijama.
+
+(2) Odredbe stavka 1. ovoga članka ne primjenjuju se na uvjete koji se odnose na opće uvjete zapošljavanja.
+
+#### Članak 5.e
+
+Prilikom utvrđivanja novih ili izmjene postojećih uvjeta kojima se ograničava pristup reguliranim profesijama ili njihovo obavljanje iz područja zdravstva koje utječu na sigurnost pacijenata, ocjena proporcionalnosti provodi se tako da osigurava visoku razinu zaštite zdravlja ljudi.
+
+#### Članak 5.f
+
+Nositelju stručne kvalifikacije jamči se sudska zaštita zbog nametanja neproporcionalnih uvjeta kojima se ograničava pristup reguliranim profesijama ili njihovo obavljanje.
+
+#### Članak 5.g
+
+O izjavi iz članka 5.a stavka 4. ovoga Zakona provodi se savjetovanje s javnošću i zainteresiranom javnošću sukladno posebnim propisima.«.
+
+#### Članak 4.
+
+U članku 7. stavku 6. točki c) riječ: »ili« zamjenjuje se riječju: »i«.
+
+#### Članak 5.
+
+U članku 17. iza stavka 11. dodaje se novi stavak 12. koji glasi:
+
+»(12) Zahtjev iz stavka 1. ovoga članka može se podnijeti putem Jedinstvene kontaktne točke za usluge iz članka 78. ovoga Zakona elektroničkim putem.«.
+
+Dosadašnji stavci 12. i 13. postaju stavci 13. i 14.
+
+#### Članak 6.
+
+U članku 20. stavak 6. briše se.
+
+#### Članak 7.
+
+U članku 52. stavak 1. mijenja se i glasi:
+
+»(1) Nadležno tijelo, u svrhu obavljanja poslova doktora dentalne medicine, priznaje dokaze o stručnoj kvalifikaciji iz točke 5.3.2. Priloga V. Direktive za doktora dentalne medicine izdane u Talijanskoj Republici, Kraljevini Španjolskoj, Saveznoj Republici Austriji, Češkoj Republici, Slovačkoj Republici i Rumunjskoj doktorima dentalne medicine koji su započeli studij na datum ili prije datuma navedenog u Prilogu V. Direktive, ako je takvim dokazima priložena potvrda koju izdaju nadležna tijela te države članice.«.
+
+U stavku 2. točka a) mijenja se i glasi:
+
+»a) da je nositelj stručne kvalifikacije stvarno, zakonito i kao glavnu djelatnost obavljao djelatnosti iz članka 29. stavka 4. ovoga Zakona u toj državi članici najmanje tri godine uzastopno tijekom zadnjih pet godina prije izdavanja potvrde i«.
+
+#### Članak 8.
+
+U članku 63. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) U slučaju djelatnosti navedenih u popisu I. Priloga IV. Direktive nadležno tijelo priznat će prethodno bavljenje tom djelatnošću u drugoj državi članici kao dokaz kompetencija ako se kandidat tom djelatnošću prethodno bavio:
+
+a) tijekom šest uzastopnih godina kao samozaposlena osoba ili kao odgovorna osoba na upravljačkim i rukovodećim pozicijama u gospodarskom subjektu
+
+b) tijekom tri uzastopne godine kao samozaposlena osoba ili kao odgovorna osoba na upravljačkim i rukovodećim pozicijama u gospodarskom subjektu, kad kandidat dokaže da je završio osposobljavanje u trajanju od najmanje tri godine za djelatnost o kojoj je riječ, što potvrđuje javnom ispravom koju je priznala država članica ili čiju je punu valjanost ocijenilo nadležno tijelo
+
+c) tijekom četiri uzastopne godine kao samozaposlena osoba ili kao odgovorna osoba na upravljačkim i rukovodećim pozicijama u gospodarskom subjektu, kad kandidat može dokazati da je za djelatnost o kojoj je riječ prethodno završio osposobljavanje u trajanju od najmanje dvije godine, što potvrđuje javnom ispravom koju je priznala država članica ili čiju je punu valjanost ocijenilo nadležno tijelo
+
+d) tijekom tri uzastopne godine kao samozaposlena osoba, kad kandidat može dokazati da je obavljao djelatnost o kojoj je riječ kao samozaposlena osoba najmanje pet godina ili
+
+e) tijekom pet uzastopnih godina na rukovodećim pozicijama od kojih je najmanje tri godine obavljao tehničke funkcije i bio odgovoran za najmanje jedan odjel gospodarskog subjekta, kad kandidat može dokazati da je za djelatnost o kojoj je riječ prethodno završio osposobljavanje u trajanju od najmanje tri godine, što potvrđuje javnom ispravom koju je priznala država članica ili čiju je punu valjanost ocijenilo nadležno tijelo.
+
+(2) U slučajevima iz stavka 1. točaka a) i d) ovoga članka obavljanje djelatnosti nije smjelo završiti prije više od deset godina računajući od dana kada je kandidat podnio potpun zahtjev nadležnom tijelu.«.
+
+#### Članak 9.
+
+Članak 64. mijenja se i glasi:
+
+»(1) U slučaju djelatnosti navedenih u popisu II. Priloga IV. Direktive nadležno tijelo priznat će prethodno bavljenje tom djelatnošću u drugoj državi članici kao dokaz kompetencija ako se kandidat tom djelatnošću prethodno bavio:
+
+a) tijekom pet uzastopnih godina kao samozaposlena osoba ili kao odgovorna osoba na upravljačkim i rukovodećim pozicijama u gospodarskom subjektu
+
+b) tijekom tri uzastopne godine kao samozaposlena osoba ili kao odgovorna osoba na upravljačkim i rukovodećim pozicijama u gospodarskom subjektu, ako kandidat dokaže da je za djelatnost o kojoj je riječ prethodno završio osposobljavanje u trajanju od najmanje tri godine, što potvrđuje javnom ispravom koju je priznala država članica ili čiju je punu valjanost ocijenilo nadležno tijelo
+
+c) tijekom četiri uzastopne godine kao samozaposlena osoba ili kao odgovorna osoba na upravljačkim i rukovodećim pozicijama u gospodarskom subjektu, kad kandidat može dokazati da je za djelatnost o kojoj je riječ prethodno završio osposobljavanje u trajanju od najmanje dvije godine, što potvrđuje javnom ispravom koju je priznala država članica ili čiju je punu valjanost ocijenilo nadležno tijelo
+
+d) tijekom tri uzastopne godine kao samozaposlena osoba, ako kandidat može dokazati da je obavljao djelatnost o kojoj je riječ kao samozaposlena osoba najmanje pet godina
+
+e) tijekom pet uzastopnih godina na osnovi zaposlenja, ako kandidat može dokazati da je prethodno završio osposobljavanje u trajanju od najmanje tri godine za djelatnost o kojoj je riječ, što potvrđuje javnom ispravom koju je priznala država članica ili čiju je punu valjanost ocijenilo nadležno tijelo ili
+
+f) tijekom šest uzastopnih godina na osnovi zaposlenja, ako kandidat može dokazati da je prethodno završio osposobljavanje u trajanju od najmanje dvije godine za djelatnost o kojoj je riječ, što potvrđuje javnom ispravom koju je priznala država članica ili čiju je punu valjanost ocijenilo nadležno tijelo.
+
+(2) U slučajevima iz stavka 1. točaka a) i d) ovoga članka obavljanje djelatnosti nije smjelo završiti prije više od deset godina računajući od dana kada je kandidat podnio potpun zahtjev nadležnom tijelu.«.
+
+#### Članak 10.
+
+Članak 65. mijenja se i glasi:
+
+»(1) U slučaju djelatnosti iz popisa III. Priloga IV. Direktive nadležno tijelo priznat će prethodno bavljenje tom djelatnošću u drugoj državi članici kao dokaz kompetencija za obavljanje takve djelatnosti ako se kandidat tom djelatnošću prethodno bavio:
+
+a) tijekom tri uzastopne godine kao samozaposlena osoba ili kao odgovorna osoba na upravljačkim i rukovodećim pozicijama u gospodarskom subjektu
+
+b) tijekom dvije uzastopne godine kao samozaposlena osoba ili kao odgovorna osoba na upravljačkim i rukovodećim pozicijama u gospodarskom subjektu, ako kandidat može dokazati da je prethodno završio osposobljavanje za djelatnost o kojoj je riječ, što potvrđuje javnom ispravom koju je priznala država članica ili čiju je punu valjanost ocijenilo nadležno tijelo
+
+c) tijekom dvije uzastopne godine kao samozaposlena osoba ili kao odgovorna osoba na upravljačkim i rukovodećim pozicijama u gospodarskom subjektu, ako kandidat može dokazati da je obavljao djelatnost o kojoj je riječ na osnovi zaposlenja najmanje tri godine ili
+
+d) tijekom tri uzastopne godine, na osnovi zaposlenja, ako kandidat može dokazati da je prethodno završio osposobljavanje za djelatnost o kojoj je riječ, što potvrđuje javnom ispravom koju je priznala država članica ili čiju je punu valjanost ocijenilo nadležno tijelo.
+
+(2) U slučajevima iz stavka 1. točaka a) i c) ovoga članka obavljanje djelatnosti nije smjelo završiti prije više od deset godina računajući od dana kada je kandidat podnio potpun zahtjev nadležnom tijelu.«.
+
+#### Članak 11.
+
+U cijelom tekstu Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15. i 70/19.) riječi: »središnje tijelo državne uprave« u određenom broju i padežu zamjenjuju se riječima: »tijelo državne uprave« u odgovarajućem broju i padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 12.
+
+Postupci priznavanja inozemnih stručnih kvalifikacija započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15. i 70/19.).
+
+#### Članak 13.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/02  
+Zagreb, 7. travnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (NN 123/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/123/1698*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O REGULIRANIM PROFESIJAMA I PRIZNAVANJU INOZEMNIH STRUČNIH KVALIFIKACIJA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija, koji je Hrvatski sabor donio na sjednici 17. listopada 2023.
+
+Klasa: 011-02/23-02/87  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 20. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O REGULIRANIM PROFESIJAMA I PRIZNAVANJU INOZEMNIH STRUČNIH KVALIFIKACIJA**
+
+#### Članak 1.
+
+U Zakonu o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15., 70/19. i 47/20.) u članku 5. na kraju podstavka 32. briše se točka i dodaju se podstavci 33. i 34. koji glase:
+
+»33. provoditelj ocjene proporcionalnosti – ovlašteni predlagatelj zakona, podnositelj amandmana te ovlašteni predlagatelj i donositelj drugih propisa i općih akata čijim se odredbama ograničava pristup reguliranoj profesiji ili njezino obavljanje
+
+34. nadležno tijelo za nadzor i praćenje ocjene proporcionalnosti – tijela državne uprave u čijem su djelokrugu određene regulirane profesije.«.
+
+#### Članak 2.
+
+Članak 5.a mijenja se i glasi:
+
+»(1) Provoditelj ocjene proporcionalnosti dužan je provesti ocjenu proporcionalnosti prilikom utvrđivanja novih ili izmjene postojećih uvjeta kojima se ograničava pristup reguliranim profesijama ili njihovo obavljanje, uključujući korištenje profesionalnog naziva i profesionalnih djelatnosti koje su dopuštene na temelju takvog naziva.
+
+(2) Ocjena proporcionalnosti provodi se za svaki propisani uvjet kojim se ograničava pristup reguliranoj profesiji ili njezino obavljanje.
+
+(3) Ocjena proporcionalnosti provodi se objektivno i neovisno, a temelji se na kvalitativnim, a kada je moguće i relevantno, i kvantitativnim dokazima.
+
+(4) Opseg ocjenjivanja mora biti proporcionalan prirodi, sadržaju i učinku uvjeta kojim se ograničava pristup reguliranoj profesiji ili njezino obavljanje.
+
+(5) O ocjeni uvjeta kojim se ograničava pristup reguliranoj profesiji ili njezino obavljanje provoditelj ocjene proporcionalnosti sastavlja izjavu.
+
+(6) Izjava iz stavka 5. ovoga članka mora omogućiti procjenu usklađenosti s načelom proporcionalnosti sukladno člancima 5.c i 5.d ovoga Zakona, a uključuje podatke o provoditelju ocjene proporcionalnosti, nadležnom tijelu za nadzor i praćenje ocjene proporcionalnosti, uvjetu kojim se ograničava pristup reguliranoj profesiji ili njezino obavljanje za koji je provedena ocjena proporcionalnosti te opravdane razloge za utvrđivanje ocijenjenog uvjeta.
+
+(7) Ako je provoditelj ocjene proporcionalnosti nadležna strukovna organizacija koja je ovim Zakonom i posebnim propisima ovlaštena za provođenje postupka i utvrđivanje uvjeta za priznavanje inozemnih stručnih kvalifikacija, ista je dužna ishoditi suglasnost nadležnog tijela za nadzor i praćenje ocjene proporcionalnosti na izrađenu izjavu iz stavka 5. ovoga članka.
+
+(8) Nadležno tijelo za nadzor i praćenje ocjene proporcionalnosti dužno je dostaviti izjavu i suglasnost iz stavka 7. ovoga članka koordinatoru iz članka 74. ovoga Zakona.
+
+(9) Nakon uvođenja novih ili izmjene postojećih uvjeta kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje, nadležno tijelo za nadzor i praćenje ocjene proporcionalnosti dužno je pratiti njihovu usklađenost s načelom proporcionalnosti, uzimajući u obzir promjene koje su nastupile nakon njihova uvođenja.
+
+(10) Praćenje usklađenosti novih ili izmijenjenih uvjeta kojima se ograničava pristup reguliranim profesijama s načelom proporcionalnosti nakon njihova usvajanja provodi se za razdoblje od dvije godine, počevši od početka primjene novih ili izmijenjenih uvjeta.
+
+(11) Nakon proteka razdoblja praćenja primjene novih ili izmijenjenih uvjeta iz stavka 10. ovoga članka nadležno tijelo za nadzor i praćenje ocjene proporcionalnosti sastavlja izvješće o usklađenosti novih ili uvjeta kojima se ograničava pristup reguliranim profesijama s načelom proporcionalnosti.
+
+(12) Izvješće iz stavka 11. ovoga članka nadležno tijelo za nadzor i praćenje ocjene proporcionalnosti dostavlja koordinatoru iz članka 74. ovoga Zakona.
+
+(13) Ministar nadležan za rad pravilnikom propisuje način provedbe ocjene proporcionalnosti te način i tijek praćenja usklađenosti novih ili izmijenjenih uvjeta kojima se ograničava pristup reguliranim profesijama s načelom proporcionalnosti.«.
+
+#### Članak 3.
+
+Članak 5.c mijenja se i glasi:
+
+»(1) Uvjeti kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje moraju biti potrebni i prikladni za ostvarenje cilja koji se želi postići i ne smiju prelaziti okvire potrebne za ostvarenje tog cilja.
+
+(2) Za ocjenjivanje proporcionalnosti uvjeta kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje primjenjuju se sljedeći kriteriji:
+
+a) priroda rizika koji su povezani s određenim ciljevima od javnog interesa, posebno rizika za primatelje usluga, uključujući potrošače, stručnjake ili treće osobe
+
+b) prikladnost i učinkovitost postojećih uvjeta sukladno općim ili posebnim propisima poput onih o općoj sigurnosti proizvoda ili zaštiti potrošača
+
+c) prikladnost uvjeta za ostvarenje određenog cilja na dosljedan i sustavan način i odražava li taj uvjet određeni cilj na dosljedan i sustavan način te tako rješava utvrđene rizike na sličan način kao u usporedivim uslužnim djelatnostima i profesijama
+
+d) učinak uvjeta na slobodno kretanje osoba i slobodno pružanje usluga unutar Europske unije, izbor potrošača i kvalitetu pružene usluge
+
+e) mogućnost primjene manje ograničavajućih uvjeta za ostvarenje cilja od javnog interesa; ako su ograničenja opravdana isključivo zaštitom potrošača i utvrđeni rizici isključivo se odnose na odnos između stručnjaka i potrošača te nemaju negativnog utjecaja na treće osobe, potrebno je dodatno procijeniti može li se cilj ostvariti manje ograničavajućim sredstvima od ograničavanja poslova ili grupe poslova u određenoj profesiji i
+
+f) učinak uvjeta u kombinaciji s drugim (postojećim) uvjetima kojima se ograničava pristup profesiji ili njezino obavljanje, a posebno način na koji novi ili izmijenjeni uvjeti u kombinaciji s drugim uvjetima pridonose postizanju istog cilja od javnog interesa, te pitanje jesu li novi ili izmijenjeni uvjeti nužni za postizanje tog cilja, a koji se ocjenjuje prema:
+
+1. djelatnostima koje su ograničene na određenu profesiju, zaštićeni profesionalni naziv ili svaki drugi oblik reguliranja iz članka 5. podstavka 1. ovoga Zakona
+
+2. obvezi kontinuiranog stručnog usavršavanja
+
+3. pravilima koja se odnose na organizaciju profesije, profesionalnu etiku i nadzor
+
+4. obvezi članstva u strukovnoj organizaciji ili tijelu odnosno dobivanju ovlaštenja, licencija i dopusnica kao uvjetima za rad, posebice ako podrazumijevaju posjedovanje određenih stručnih kvalifikacija
+
+5. kvantitativnim ograničenjima, posebice ograničenjima broja dozvola za obavljanje djelatnosti ili broja zaposlenika, rukovoditelja ili predstavnika koji imaju određene stručne kvalifikacije
+
+6. ograničenjima koja se odnose na poseban pravni oblik ili na vlasničku strukturu ili poslovno upravljanje, i to u mjeri u kojoj su ti uvjeti izravno povezani s obavljanjem regulirane profesije
+
+7. teritorijalnim ograničenjima i u slučajevima kada je profesija različito regulirana u nekim dijelovima državnog područja
+
+8. ograničenjima koja se odnose na zajedničko ili partnersko obavljanje regulirane profesije te pravilima o nespojivosti
+
+9. ograničenjima koja se odnose na osiguravateljska pokrića ili druge osobne ili kolektivne zaštite od profesionalne odgovornosti
+
+10. ograničenjima koja se odnose na znanje jezika, i to u mjeri potrebnoj za obavljanje profesije
+
+11. fiksnim minimalnim i/ili maksimalnim tarifama odnosno reguliranim cijenama i
+
+12. ograničenjima u pogledu oglašavanja.
+
+(3) Za ocjenjivanje proporcionalnosti uvjeta kojima se ograničava pristup reguliranoj profesiji ili njezino obavljanje primjenjuju se i sljedeći kriteriji ako su relevantni za sadržaj i prirodu uvjeta koji se analiziraju:
+
+a) veza između opsega djelatnosti obuhvaćenih određenom profesijom ili ograničenih na tu profesiju i potrebnih stručnih kvalifikacija
+
+b) veza između složenosti poslova koji se obavljaju unutar profesije i potrebnih stručnih kvalifikacija, posebice u pogledu razine, prirode i trajanja osposobljavanja ili potrebnog iskustva
+
+c) mogućnost stjecanja stručne kvalifikacije na druge načine
+
+d) mogućnost podjele obavljanja određene profesije s drugim profesijama
+
+e) stupanj samostalnosti u obavljanju regulirane profesije, posebice ako su poslovi povezani s reguliranom profesijom koja se obavlja pod nadzorom i odgovornošću propisno kvalificiranog stručnjaka i
+
+f) stupanj znanstvenog i tehnološkog razvoja kojim se može učinkovito smanjiti ili povećati nesrazmjer u informiranosti između stručnjaka i potrošača.«.
+
+#### Članak 4.
+
+Članak 5.d mijenja se i glasi:
+
+»(1) Pri utvrđivanju novih ili izmjeni postojećih uvjeta kojima se ograničava pristup reguliranim profesijama ili njihovo obavljanje na privremenoj ili povremenoj osnovi sukladno glavi II. ovoga Zakona ocjena proporcionalnosti provodi se u odnosu na:
+
+a) automatsku privremenu registraciju ili pro forma članstvo u nadležnoj strukovnoj organizaciji iz članka 6. stavka 4. ovoga Zakona
+
+b) izjavu, dokumentaciju ili bilo koji jednakovrijedan zahtjev koji se prilaže uz izjavu iz članka 7. ovoga Zakona i
+
+c) plaćanje naknade ili drugih troškova koje snosi osoba koja želi pružati usluge u postupcima koji se odnose na pristup reguliranim profesijama ili njihovo obavljanje.
+
+(2) Odredbe stavka 1. ovoga članka ne primjenjuju se na uvjete koji se odnose na opće uvjete zapošljavanja.«.
+
+#### Članak 5.
+
+U članku 6. stavku 3. točki a) riječi: »nadležnom tijelu« zamjenjuju se riječima: »nadležnoj strukovnoj organizaciji«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Iznimno od stavka 3. točke a) ovoga članka, nadležno tijelo može predvidjeti automatsku privremenu registraciju ili pro forma članstvo u nadležnoj strukovnoj organizaciji kako bi se olakšala primjena disciplinskih odredbi koje su na snazi u Republici Hrvatskoj na temelju posebnih propisa.«.
+
+Dosadašnji stavci 4., 5. i 6. postaju stavci 5., 6. i 7.
+
+#### Članak 6.
+
+Članak 7. mijenja se i glasi:
+
+»(1) Osoba koja prvi put želi pružati usluge obavljanjem regulirane profesije u Republici Hrvatskoj dužna je o tome izvijestiti nadležno tijelo ili Jedinstvenu kontaktnu točku za usluge iz članka 78. ovoga Zakona izjavom u pisanom obliku ili elektroničkim putem.
+
+(2) Izjava iz stavka 1. ovoga članka:
+
+a) podnosi se prije početka prvog pružanja usluga u Republici Hrvatskoj
+
+b) uključuje osobne podatke i podatke o osiguranju ili bilo kojeg drugog sredstva osobne ili kolektivne zaštite s obzirom na profesionalnu odgovornost
+
+c) podnosi se za svaku godinu u kojoj osoba namjerava privremeno ili povremeno pružati usluge u Republici Hrvatskoj.
+
+(3) Prije početka prvog pružanja usluga nadležno tijelo može zahtijevati da osoba uz izjavu iz stavka 2. ovoga članka priloži sljedeće dokumente, ako nije moguće provjeriti relevantne podatke i informacije putem Informacijskog sustava unutarnjeg tržišta (IMI):
+
+a) dokaz o državljanstvu
+
+b) potvrdu kojom se potvrđuje da je poslovno nastanjena u državi članici poslovnog nastana za bavljenje profesijom, odnosno djelatnostima o kojima je riječ i da u trenutku izdavanja potvrde nema, čak ni privremeno, zabranu obavljanja profesije, odnosno djelatnosti
+
+c) dokaz o stručnim kvalifikacijama
+
+d) bilo koji dokaz da je osoba obavljala profesiju o kojoj je riječ najmanje godinu dana tijekom zadnjih deset godina, u slučaju da profesija, stručno osposobljavanje i usavršavanje za tu profesiju nisu regulirani u državi članici poslovnog nastana
+
+e) dokaz o nekažnjavanju, odnosno dokaz da nije bilo privremenog ili trajnog oduzimanja prava na obavljanje profesije, isključivo u slučajevima profesija iz sigurnosnog sektora, zdravstvenog sektora i obrazovanja maloljetnih osoba, uključujući brigu o djeci i predškolsko obrazovanje, kada to Republika Hrvatska traži za svoje državljane
+
+f) odgovarajući dokaz da osoba posjeduje potrebnu razinu znanja hrvatskog jezika za potrebe obavljanja profesije u Republici Hrvatskoj, isključivo u slučaju profesija koje utječu na sigurnost pacijenata
+
+g) potvrdu o prirodi i trajanju djelatnosti koju je izdalo nadležno tijelo države članice poslovnog nastana za profesije koje su obuhvaćene automatskim sustavom priznavanja na temelju prethodnog stručnog iskustva iz članka 62. ovoga Zakona i koje su na popisu profesija za koje je potrebna prethodna provjera kvalifikacija u skladu s člankom 79. stavkom 2. ovoga Zakona.
+
+(4) Osoba iz stavka 1. ovoga članka dužna je nadležnom tijelu prijaviti svaku promjenu okolnosti iz stavka 3. ovoga članka, a na temelju koje joj je omogućeno pružati usluge obavljanjem regulirane profesije u Republici Hrvatskoj.
+
+(5) Podnošenjem izjave iz stavka 2. ovoga članka osoba dobiva pravo pristupa profesiji, odnosno pružanju usluga na području Republike Hrvatske.
+
+(6) Nadležno tijelo, osim dokumenata iz stavaka 2. i 3. ovoga članka, može zatražiti i druge dokumente:
+
+a) kada se takvi dokumenti zahtijevaju i od državljana Republike Hrvatske
+
+b) kada ih nije moguće pribaviti na drugi način, odnosno nije moguće provjeriti relevantne podatke i informacije putem Informacijskog sustava unutarnjeg tržišta (IMI)
+
+c) kada je profesija različito regulirana u nekim dijelovima državnog područja i
+
+d) kada su razlike u takvoj regulativi opravdane zbog prevladavajućih razloga općeg interesa koji se odnose na javno zdravlje ili sigurnost primatelja usluga.
+
+(7) Na temelju izjave iz stavka 2. ovoga članka nadležno tijelo može odobriti osobi iz stavka 1. ovoga članka pružanje usluga na privremenoj i povremenoj osnovi te postupak registracije ne može utjecati na početak pružanja usluga niti na bilo koji način ograničiti pružanje usluga u Republici Hrvatskoj te ne može imati kao posljedicu dodatne troškove za osobu.
+
+(8) Nadležno tijelo dužno je ministarstvu nadležnom za rad dostavljati podatke o ukupnom broju zaprimljenih izjava i državama članicama poslovnog nastana osoba koje su podnijele izjavu iz stavka 2. ovoga članka.
+
+(9) Nadležno tijelo dužno je dostavljati podatke iz stavka 8. ovoga članka jedanput godišnje, a najkasnije do 30. travnja tekuće godine za prethodnu kalendarsku godinu.«.
+
+#### Članak 7.
+
+Članak 74. mijenja se i glasi:
+
+»(1) Ministarstvo nadležno za rad određuje osobu koja će obavljati poslove nacionalnog koordinatora.
+
+(2) Koordinator iz stavka 1. ovoga članka:
+
+a) promiče jedinstvenu primjenu Direktive i ovoga Zakona, kao i svih drugih propisa koji se odnose na priznavanje inozemnih stručnih kvalifikacija
+
+b) od nadležnih tijela prikuplja sve informacije koje su relevantne za primjenu ovoga Zakona, kao što su informacije o uvjetima pristupa određenoj reguliranoj profesiji ili njihovu obavljanju te izjavu iz članka 5.a stavka 5. i suglasnost iz članka 5.a stavka 7. ovoga Zakona
+
+c) razmatra prijedloge za zajedničke kompetencijske okvire i zajedničke ispite iz glave IV. ovoga Zakona
+
+d) razmjenjuje informacije i najbolje prakse među državama članicama u području trajnog profesionalnog razvoja u reguliranim profesijama sukladno članku 22. stavcima 13. i 14. ovoga Zakona
+
+e) razmjenjuje informacije i najbolje prakse o primjeni dopunskih mjera iz članka 18. ovoga Zakona
+
+f) dostavlja Europskoj komisiji izvješće o primjeni ovoga Zakona te statistički prikaz donesenih rješenja o priznavanju inozemnih stručnih kvalifikacija, na temelju podataka iz baze podataka iz članka 76. ovoga Zakona
+
+g) zastupa Republiku Hrvatsku u koordinacijskoj skupini pri Europskoj komisiji i
+
+h) saziva i vodi Povjerenstvo za međuresornu suradnju u području reguliranih profesija.
+
+(3) Za prikupljanje informacija i obavljanje poslova iz stavka 2. ovoga članka koordinator iz stavka 1. ovoga članka može zatražiti pomoć centra za pomoć iz članka 75. ovoga Zakona, kao i od drugih nadležnih tijela.
+
+(4) Povjerenstvo za međuresornu suradnju u području reguliranih profesija osniva se pri ministarstvu nadležnom za rad.
+
+(5) Povjerenstvo za međuresornu suradnju u području reguliranih profesija čini po jedan predstavnik svakoga nadležnog tijela državne uprave.
+
+(6) Povjerenstvo za međuresornu suradnju saziva i vodi koordinator iz stavka 1. ovoga članka.
+
+(7) Članove Povjerenstva za međuresornu suradnju u području reguliranih profesija imenuje odlukom ministar nadležan za rad na razdoblje od tri godine, na prijedlog nadležnih tijela državne uprave.
+
+(8) Zadaće Povjerenstva za međuresornu suradnju su:
+
+1. ostvarivanje međuresorne koordinacije u području reguliranih profesija
+
+2. pružanje informacija koordinatoru i kontaktnoj točki (Nacionalni ENIC/NARIC ured) o reguliranim profesijama te primjenjivim zakonskim i podzakonskim aktima
+
+3. praćenje primjene ovoga Zakona
+
+4. pružanje informacija o reguliranim profesijama radi provedbe članka 76. ovoga Zakona, odnosno izrade relevantnih popisa
+
+5. praćenje popunjavanja baze podataka reguliranih profesija Europske unije i baze reguliranih profesija u Republici Hrvatskoj
+
+6. pružanje informacija o reguliranim profesijama radi uspostave računalnog programa/aplikacije za regulirane profesije kroz projekt financiran iz Europskog socijalnog fonda
+
+7. sudjelovanje u radu Povjerenstva za stručno vrednovanje zahtjeva za upis standarda zanimanja i skupova kompetencija u izradi stručnih mišljenja o ispunjenosti formalnih i stručnih uvjeta za upis standarda zanimanja u Registar Hrvatskog kvalifikacijskog okvira, sukladno posebnom propisu kojim se uređuje Hrvatski kvalifikacijski okvir.
+
+(9) Ministarstvo nadležno za rad obavlja stručne i administrativne poslove za Povjerenstvo.«.
+
+#### Članak 8.
+
+U članku 78. stavci 2., 3. i 4. mijenjaju se i glase:
+
+»(2) Nadležna tijela osiguravaju da su sljedeće informacije dostupne putem mrežnih stranica Jedinstvene kontaktne točke za usluge u Republici Hrvatskoj (u daljnjem tekstu: Jedinstvena kontaktna točka za usluge), određene posebnim propisima iz područja pružanja profesionalnih usluga, te da se ti podaci redovito ažuriraju, i to:
+
+a) popis reguliranih profesija u Republici Hrvatskoj, uključujući i podatke za kontakt nadležnih tijela za svaku reguliranu profesiju i centra za pomoć iz članka 75. ovoga Zakona
+
+b) popis profesija za koje je dostupna EPC kartica, njezino funkcioniranje, uključujući sve povezane naknade koje nositelji stručnih kvalifikacija trebaju platiti te popis nadležnih tijela za izdavanje EPC kartice
+
+c) popis svih profesija za koje Republika Hrvatska propisuje prethodnu provjeru stručnih kvalifikacija prije prvog pružanja usluga na privremenoj i povremenoj osnovi iz članka 10. ovoga Zakona
+
+d) popis programa obrazovanja i osposobljavanja ili, u slučaju reguliranih profesija, stručnog osposobljavanja s posebnom strukturom iz članka 13. stavka 1. točke c) podtočke 2. ovoga Zakona
+
+e) zahtjevi i postupci iz članaka 7., 17. i 21. ovoga Zakona za profesije regulirane u Republici Hrvatskoj, uključujući sve povezane naknade i dokumente koji se podnose nadležnim tijelima
+
+f) pojedinosti o pravima žalbe na odluke nadležnih tijela na temelju ovoga Zakona i drugih pravnih akata proizašlih na temelju ovoga Zakona.
+
+(3) Jedinstvena kontaktna točka za usluge dužna je na svaki zahtjev korisnika odgovoriti u roku od 15 dana od dana zaprimanja zahtjeva, davati detaljne upute o pokretanju i provođenju postupka priznavanja inozemnih stručnih kvalifikacija te osigurati da se informacije iz stavka 1. ovoga članka pružaju korisnicima na jasan i sveobuhvatan način, a svi postupci moraju biti dostupni elektroničkim putem.
+
+(4) Nadležna tijela dužna su surađivati s Jedinstvenom kontakt­nom točkom za usluge te dostavljati potrebne podatke radi ažuriranja podataka iz stavka 2. ovoga članka i davanja pravodobnih informacija korisnicima i pružateljima.«.
+
+#### Članak 9.
+
+U članku 79. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Centar za pomoć iz članka 75. ovoga Zakona i nadležna tijela iz članka 5. podstavka 15. ovoga Zakona provode administrativnu suradnju s nadležnim tijelima država članica.
+
+(2) Suradnja iz stavka 1. ovoga članka podrazumijeva međusobnu suradnju, razmjenu informacija i podataka putem Informacijskog sustava unutarnjeg tržišta (IMI) o disciplinskim mjerama ili kaznenim sankcijama stručne naravi poduzetim protiv nositelja stručnih kvalifikacija te o bilo kakvim drugim teškim i posebnim okolnostima koje bi mogle utjecati na obavljanje profesionalne djelatnosti, kao i dostavljanje svih informacija o stručnim kvalifikacijama, poslovnom nastanu i o drugim bitnim okolnostima u svrhu obavljanja reguliranih profesija u Republici Hrvatskoj.«.
+
+#### Članak 10.
+
+U članku 86. stavku 6. iza riječi: »akreditirano,« dodaju se riječi: »od dana upisa studija određenog kandidata pa do dana završetka studija,«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 11.
+
+Postupci priznavanja inozemnih stručnih kvalifikacija i postupci ocjene proporcionalnosti započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15., 70/19. i 47/20.).
+
+#### Članak 12.
+
+Ministar nadležan za rad će, u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona, donijeti pravilnik iz članka 5.a stavka 13. koji je izmijenjen člankom 2. ovoga Zakona.
+
+#### Članak 13.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/39  
+Zagreb, 17. listopada 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (NN 126/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/126/1814*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O REGULIRANIM PROFESIJAMA I PRIZNAVANJU INOZEMNIH STRUČNIH KVALIFIKACIJA
+
+Proglašavam Zakon o izmjenama Zakona o reguliranim profe­sijama i priznavanju inozemnih stručnih kvalifikacija, koji je Hrvatski sabor donio na sjednici 26. rujna 2025.
+
+Klasa: 011-02/25-02/73  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 1. listopada 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O REGULIRANIM PROFESIJAMA I PRIZNAVANJU INOZEMNIH STRUČNIH KVALIFIKACIJA**
+
+#### Članak 1.
+
+U Zakonu o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15., 70/19., 47/20. i 123/23.) članak 2. mijenja se i glasi:
+
+»Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeće direktive Europske unije:
+
+– Direktiva 2005/36/EZ Europskog parlamenta i Vijeća od 7. rujna 2005. o priznavanju stručnih kvalifikacija (Tekst značajan za EGP) (SL L 255, 30. 9. 2005.) kako je zadnje izmijenjena i dopunjena Direktivom (EU) 2024/505 Europskog parlamenta i Vijeća od 7. veljače 2024. o izmjeni Direktive 2005/36/EZ u pogledu priznavanja stručnih kvalifikacija medicinskih sestara za opću zdravstvenu njegu osposobljenih u Rumunjskoj (SL L, 2024/505, 12. 2. 2024.)
+
+– Direktiva (EU) 2018/958 Europskog parlamenta i Vijeća od 28. lipnja 2018. o ispitivanju proporcionalnosti prije donošenja novih propisa kojima se reguliraju profesije (SL L 173, 9. 7. 2018.).«.
+
+#### Članak 2.
+
+Članak 55. mijenja se i glasi:
+
+»(1) U odnosu na kvalifikacije za medicinske sestre odgovorne za djelatnost opće njege stečene u Rumunjskoj primjenjuju se samo odredbe o stečenim pravima iz stavka 2. ovoga članka.
+
+(2) Državljanima država članica čije je osposobljavanje za medicinske sestre odgovorne za djelatnost opće njege stečeno u Rumunjskoj i čije osposobljavanje ne ispunjava minimalne uvjete osposobljavanja navedene u članku 35. ovoga Zakona, nadležno tijelo priznaje:
+
+a) bilo koji od sljedećih dokaza o stručnoj kvalifikaciji za medicinsku sestru odgovornu za djelatnost opće njege, pod uvjetom da je priložena potvrda u kojoj je navedeno da je nositelj stručne kvalifikacije stvarno i zakonito obavljao djelatnost medicinske sestre opće njege u Rumunjskoj, uključujući punu odgovornost za planiranje, organiziranje i provođenje zdravstvene njege pacijenata tijekom razdoblja od najmanje tri godine uzastopno, unutar pet godina prije izdavanja potvrde:
+
+1. Certificat de competenţe profesionale de asistent medical generalist sa završenim programom osposobljavanja nakon srednje škole u şcoală postliceală, kojom se potvrđuje da je osposobljavanje započelo prije 1. siječnja 2007.
+
+2. Diplomă de absolvire de asistent medical generalist sa završenim skraćenim obrazovanjem višeg učilišta, kojom se potvrđuje da je osposobljavanje započelo prije 1. listopada 2003. ili
+
+3. Diplomă de licenţă de asistent medical generalist sa završenim obrazovanjem u punoj satnici višeg učilišta, kojom se potvrđuje da je osposobljavanje započelo prije 1. listopada 2003.
+
+b) bilo koji dokaz o stručnoj kvalifikaciji naveden u točki a) podtočkama 2. i 3. ovoga stavka, pod uvjetom da je tom dokazu priložen sljedeći dokaz o stručnoj kvalifikaciji stečen na osnovi posebnog programa usavršavanja:
+
+Diplomă de licenţă iz članka 3. stavka 2. Zajedničke uredbe ministra nacionalnog obrazovanja i ministra zdravstva br. 4317/943/2014 od 11. kolovoza 2014. o odobrenju posebnog programa usavršavanja za početno osposobljavanje medicinskih sestara odgovornih za djelatnost opće njege stečeno prije 1. siječnja 2007. za osobe s diplomom poslijesrednjoškolskog i visokog obrazovanja (Službeni list Rumunjske br. 624 od 26. kolovoza 2014.), uz koju je priložena dopunska isprava uz diplomu u kojoj je navedeno da je student završio poseban program usavršavanja ili
+
+c) bilo koji dokaz o stručnoj kvalifikaciji na poslijesrednjo­školskoj razini naveden u članku 4. Uredbe ministra nacionalnog obrazovanja br. 5114/2014 o odobrenju metodologije organiziranja, provođenja i dovršetka posebnog programa usavršavanja za početno osposobljavanje medicinskih sestara za opću zdravstvenu njegu stečeno prije 1. siječnja 2007. za osobe s diplomom poslijesrednjoškolskog obrazovanja (Službeni list Rumunjske br. 5 od 6. siječnja 2015.), pod uvjetom da je takvom dokazu priložen sljedeći dokaz o stručnoj kvalifikaciji stečenoj na osnovi posebnog programa usavršavanja:
+
+*Certificat de revalorizare a competenţelor profesionale iz članka 3. stavka 1. i Priloga 3. Zajedničke uredbe ministra nacionalnog obrazovanja i ministra zdravstva br. 4317/943/2014 i iz članka 16. Uredbe ministra nacionalnog obrazovanja br. 5114/2014.*
+
+(3) Nadležno tijelo jamči valjanost odluka o priznanju rumunjskih kvalifikacija za medicinske sestre odgovorne za djelatnost opće njege koje su priznate prije 3. ožujka 2024., na temelju odredbi članaka 13., 14., 15., 16. i 18. ovoga Zakona, u slučaju državljana država članica koji su u Rumunjskoj stekli osposobljavanje za medicinske sestre odgovorne za djelatnost opće njege, a nisu ispunjavali uvjete iz članka 55. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15., 70/19., 47/20. i 123/23.).«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 3.
+
+Postupci priznavanja inozemnih stručnih kvalifikacija stečenih u Rumunjskoj za medicinske sestre odgovorne za djelatnost opće njege započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15., 70/19., 47/20. i 123/23.).
+
+#### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/72  
+Zagreb, 26. rujna 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

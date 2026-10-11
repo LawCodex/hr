@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2010-11-19
+last_amended: 2017-09-27
 status: in_force
-status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "129/10"
-amendments: []
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "129/10, 96/17"
+amendments:
+  - "NN 96/2017 (2204) Uredba o izmjenama i dopunama Uredbe o kriterijima za oslobođenje ili umanjenje upravno-kaznene mjere"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2010/129/3367"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o kriterijima za oslobođenje ili umanjenje upravno-kaznene mjere
 
 > Izvor: Narodne novine, NN 129/2010 (https://narodne-novine.nn.hr/eli/sluzbeni/2010/129/3367).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 96/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -328,3 +332,132 @@ Zagreb, 11. studenoga 2010.
 
 Predsjednica  
 Jadranka Kosor, dipl. iur., v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o kriterijima za oslobođenje ili umanjenje upravno-kaznene mjere (NN 96/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/96/2204*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 65. stavka 4. Zakona o zaštiti tržišnog natjecanja (»Narodne novine«, br. 79/09 i 80/13), Vlada Republike Hrvatske je na sjednici održanoj 22. rujna 2017. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O KRITERIJIMA ZA OSLOBOĐENJE ILI UMANJENJE UPRAVNO-KAZNENE MJERE**
+
+##### Članak 1.
+
+U Uredbi o kriterijima za oslobođenje ili umanjenje upravno-kaznene mjere (»Narodne novine«, broj 129/10), u članku 2. točka i) mijenja se i glasi:
+
+»i) Izjava poduzetnika je usmeno ili pisano dobrovoljno priznanje poduzetnika, izjavljeno od odgovorne osobe poduzetnika ili ovlaštenog predstavnika poduzetnika-sudionika prijavljenog kartela o postojanju kartela i o njegovom sudjelovanju i ulozi u tom kartelu, posebno sastavljeno za podnošenje tijelu nadležnom za zaštitu tržišnog natjecanja s ciljem dobivanja oslobođenja od plaćanja upravno-kaznene mjere,«.
+
+Iza točke i) dodaju se točke j) i k) koje glase:
+
+»j) ECN (eng. European Competition Network) – označava Europsku mrežu tijela nadležnih za zaštitu tržišnog natjecanja država članica i Europsku komisiju koja služi kao forum za raspravu i suradnju u području primjene i provedbe članaka 101. i 102. Ugovora o funkcioniranju EU (SL C 115 od 9. 5. 2008.; u daljnjem tekstu: UFEU),
+
+k) ECN ogledni program za oslobođenje od kazne ili njezino umanjenje – označava ogledni program Europske mreže tijela nadležnih za zaštitu tržišnog natjecanja za davanje imuniteta odnosno oslobođenje od kazne za poduzetnika-sudionika u kartelu koji prvi pristupi tijelu nadležnom za zaštitu tržišnog natjecanja i podnese nove i bitne dokaze o postojanju i djelovanju kartela i umanjenje kazne za svakog sljedećeg poduzetnika koji pristupi s dokazima i kojim se osigurava da sva nacionalna tijela nadležna za zaštitu tržišnog natjecanja mogu dodijeliti oslobođenje od kazne i umanjenje kazne te prihvatiti skraćene prijave pod istim uvjetima.«
+
+##### Članak 2.
+
+Iza članka 10. dodaje se članak 10.a i naslov iznad njega koji glase:
+
+*»Skraćena prijava*
+
+##### Članak 10.a
+
+(1) Kada je Europska komisija najprikladnije tijelo za postupanje u predmetu utvrđivanja povrede članka 101. UFEU u smislu Obavijesti Komisije o suradnji unutar Europske mreže tijela nadležnih za zaštitu tržišnog natjecanja (SL C 101, od 27. travnja 2004., str: 0043-0053), tada poduzetnik – sudionik kartela podnosi potpunu prijavu za oslobođenje od plaćanja ili umanjenje upravno-kaznene mjere Europskoj komisiji.
+
+(2) U slučaju iz stavka 1. ovoga članka poduzetnik može u vezi s istim kartelom Agenciji i/ili drugom tijelu nadležnom za zaštitu tržišnog natjecanja koje smatra najprikladnijim za postupanje podnijeti skraćenu prijavu za oslobođenje od plaćanja ili umanjenje upravno-kaznene mjere.
+
+(3) Skraćena prijava iz stavka 2. ovoga članka odnosi se na isti proizvod, zemljopisno područje i istog je trajanja kao i prijava za oslobođenje od plaćanja kazne ili njezino umanjenje podnesene Europskoj komisiji.
+
+(4) Skraćena prijava podnosi se na obrascu iz Priloga 1. koji je sastavni dio ove Uredbe u mjeri u kojoj je to poznato podnositelju prijave u vrijeme njezinoga podnošenja, a mora sadržavati sljedeće informacije:
+
+a) naziv i adresu podnositelja skraćene prijave
+
+b) druge sudionike u prijavljenom kartelu
+
+c) proizvode na koje prijavljeni kartel ima učinak
+
+d) zemljopisno područje na kojem prijavljeni kartel ima učinak
+
+e) trajanje prijavljenog kartela
+
+f) opis prijavljenog kartela
+
+g) države članice Europske unije u kojima se dokazi o prijavljenom kartelu vjerojatno mogu pronaći
+
+h) informacije o podnesenoj prijavi Europskoj komisiji
+
+i) informaciju o tome je li podnositelj podnio prijavu nekom drugom tijelu nadležnom za zaštitu tržišnog natjecanja u državama članicama Europske unije ili u drugim državama, odnosno je li se na bilo koji drugi način obratio ili se ima namjeru obratiti tim tijelima u svezi prijavljenog kartela.
+
+(5) Po zaprimanju skraćene prijave, Agencija će podnositelju dati potvrdu o zaprimanju skraćene prijave i staviti zabilježbu navodeći datum i vrijeme primitka. Ako je poduzetnik prvi podnio skraćenu prijavu, Agencija će ga pisanim putem obavijestiti o tome.
+
+(6) Agencija može od podnositelja skraćene prijave zatražiti dostavu dodatnih informacija.
+
+(7) Ako Europska komisija obavijesti Agenciju da u predmetu neće uopće ili neće djelomično postupati, Agencija može provesti postupak i pozvati poduzetnika da u određenom roku dostavi sve relevantne dokaze i podnese punu prijavu za oslobođenje od plaćanja ili umanjenje upravno-kaznene mjere.
+
+(8) U slučaju iz stavka 7. ovoga članka smatrat će se da je prijava za oslobođenje od plaćanja ili umanjenje upravno-kaznene mjere dostavljena u vrijeme podnošenja skraćene prijave.
+
+(9) Skraćena prijava može se podnijeti i na engleskom jeziku koristeći obrazac iz ECN oglednog programa za oslobođenje od kazne ili njezino umanjenje.«.
+
+##### Članak 3.
+
+U članku 11. stavku 1. i stavku 2. točki 6. broj: »7« zamjenjuje se brojem: »5«.
+
+##### Članak 4.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-03/72
+
+Urbroj: 50301-25/18-17-2
+
+Zagreb, 22. rujna 2017.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+#### PRILOG 1.
+
+### OBRAZAC ZA PODNOŠENJE SKRAĆENE PRIJAVE
+
+1. Podaci o poduzetniku-sudioniku kartela:
+
+1.1. Naziv i sjedište podnositelja prijave
+
+1.2. Kontakt osoba (ime i prezime, funkcija, adresa, broj telefona, elektronička pošta)
+
+1.3. Zastupnik (ime i prezime, funkcija, adresa, broj telefona, elektronička pošta)
+
+1.4. Druge pravne osobe na koje se prijava odnosi (npr. društva unutar grupe)
+
+*Uz prijavu zastupnik mora dostaviti valjani pisani dokaz da je ovlašten na zastupanje. Odgovorna osoba mora uz prijavu priložiti original pisanog ovlaštenja.*
+
+2. Podaci o drugim sudionicima prijavljenog kartela:
+
+2.1. Naziv i sjedište
+
+2.2. Kratak opis djelatnosti.
+
+3. Podaci o prijavljenom kartelu:
+
+3.1. Opis proizvoda i usluga na koje kartel ima učinak
+
+3.2. Opis zemljopisnog područja na kojem kartel ima učinak
+
+3.3. Procijenjeno trajanje kartela.
+
+4. Podaci o državama članicama EU u kojima se očekuje pronalaženje dokaza o prijavljenom kartelu.
+
+5. Podaci o svim podnesenim ili planiranim prijavama za oslobođenje ili umanjenje upravno-kaznene mjere koje je poduzetnik-sudionik kartela podnio ili namjerava podnijeti Europskoj komisiji ili drugim nacionalnim tijelima nadležnim za zaštitu tržišnog natjecanja.
+
+6. Mjesto i datum:_________________________________
+
+7. Ime, prezime i funkcija: ___________________________
+
+8. Potpis: _______________________________________

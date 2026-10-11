@@ -6,16 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2009-06-05
-last_amended: 2014-02-05
+last_amended: 2021-05-14
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "65/09, 145/10, 26/11, 144/12, 14/14"
+narodne_novine: "65/09, 145/10, 26/11, 144/12, 14/14, 94/18, 52/21"
 amendments:
   - "NN 145/2010 (3674) Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz"
   - "NN 26/2011 (548) Zakon o dopunama Zakona o biogorivima za prijevoz"
   - "NN 144/2012 (3080) Zakon o izmjenama Zakona o biogorivima za prijevoz"
   - "NN 14/2014 (293) Zakon o izmjenama Zakona o biogorivima za prijevoz"
+  - "NN 94/2018 (1820) Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz"
+  - "NN 52/2021 (1055) Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/65/1454"
 retrieved: 2026-10-12
 ---
@@ -24,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 65/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/65/1454).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 145/2010, NN 26/2011, NN 144/2012, NN 14/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 145/2010, NN 26/2011, NN 144/2012, NN 14/2014, NN 94/2018, NN 52/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1398,3 +1400,981 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz (NN 94/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/94/1820*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O BIOGORIVIMA ZA PRIJEVOZ
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz, koji je Hrvatski sabor donio na sjednici 12. listopada 2018.
+
+Klasa: 011-01/18-01/111  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 17. listopada 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O BIOGORIVIMA ZA PRIJEVOZ**
+
+#### Članak 1.
+
+U Zakonu o biogorivima za prijevoz (»Narodne novine«, br. 65/09., 145/10., 26/11., 144/12. i 14/14.) u članku 1. na kraju rečenice točka se zamjenjuje zarezom te se dodaju riječi: »te poticanja istraživanja i razvoja novih, naprednih biogoriva koja se ne natječu s prehrambenim kulturama.«.
+
+#### Članak 2.
+
+Naslov iznad članka 2. mijenja se i glasi: »Prijenos Direktive«.
+
+Članak 2. mijenja se i glasi:
+
+»Ovim se Zakonom u pravni poredak Republike Hrvatske prenosi Direktiva (EU) 2015/1513 Europskog parlamenta i Vijeća od 9. rujna 2015. o izmjeni Direktive 98/70/EZ o kakvoći benzinskih i dizelskih goriva i izmjeni Direktive 2009/28/EZ o promicanju uporabe energije iz obnovljivih izvora (Tekst značajan za EGP) (SL L 239).«.
+
+#### Članak 3.
+
+Naslov iznad članka 3. mijenja se i glasi: »Svrha, posebni propisi i interes Republike Hrvatske«.
+
+Članak 3. mijenja se i glasi:
+
+»(1) Svrha je ovoga Zakona ostvarivanje ciljeva održivog razvoja u području prijevoza: smanjenje negativnih utjecaja na okoliš, poboljšanje sigurnosti opskrbe gorivom na ekološki prihvatljiv način, zadovoljavanje potreba potrošača za gorivom i ispunjavanje međunarodnih obveza Republike Hrvatske u području smanjenja emisija stakleničkih plinova, i to poticanjem korištenja biogoriva u prijevozu kao zamjene za dizelsko gorivo ili motorni benzin.
+
+(2) Na odnose koji nisu uređeni ovim Zakonom primjenjuju se posebni propisi kojima se uređuje: energetika, zaštita okoliša, zaštita zraka, zaštita prirode, zaštita od opasnih kemikalija, gospodarenje otpadom, poslovi Fonda za zaštitu okoliša i energetsku učinkovitost, tehnički zahtjevi za proizvode i ocjenjivanje sukladnosti, prijevoz u cestovnom prometu i obalnom pomorskom prijevozu, poljoprivreda, šumarstvo, državna potpora, državna potpora u poljoprivredi i ruralnom razvoju, državna uprava, lokalna i područna (regionalna) samouprava, proračun, porezi i trošarine i drugi propisi u vezi s proizvodnjom i korištenjem goriva za pogon motornih vozila i brodova.
+
+(3) Korištenjem biogoriva i naprednih biogoriva i električne energije proizvedene iz obnovljivih izvora energije u prijevozu ostvaruju se interesi Republike Hrvatske u području energetike, utvrđeni Strategijom energetskog razvitka Republike Hrvatske (»Narodne novine«, br. 130/09.), zakonima i drugim propisima kojima se uređuje obavljanje energetskih djelatnosti, osobito u smislu postizanja nacionalnog cilja korištenja energije iz obnovljivih izvora energije u svim oblicima prijevoza u 2020. od 10% ukupne neposredne potrošnje energije u prijevozu u Republici Hrvatskoj.«.
+
+#### Članak 4.
+
+U članku 4. stavak 1. mijenja se i glasi:
+
+»(1) U smislu ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+
+1. Agencija za ugljikovodike je pravna osoba s javnim ovlastima osnovana posebnim zakonima kojima se uređuje istraživanje i eksploatacija ugljikovodika, tržište nafte i naftnih derivata (u daljnjem tekstu: AZU),
+
+2. biogorivo je tekuće ili plinovito gorivo za pogon motornih vozila i brodova za potrebe prijevoza, proizvedeno iz biomase,
+
+3. biogoriva i tekuća biogoriva s niskim rizikom od neizravnih promjena uporabe zemljišta su biogoriva i tekuća biogoriva čije su sirovine proizvedene u okviru programa čija je svrha smanjenje premještanja proizvodnje za potrebe koje nisu potrebe za proizvodnju biogoriva i tekućih biogoriva i koja su proizvedena u skladu s kriterijima održivosti za biogoriva i tekuća biogoriva propisana u Pravilniku o načinu i uvjetima primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva (»Narodne novine«, br. 83/13.),
+
+4. biomasa je biorazgradivi dio proizvoda, otpada i ostataka biološkog podrijetla iz poljoprivrede (uključujući tvari biljnoga i životinjskoga podrijetla), šumarstva i srodnih proizvodnih djelatnosti, uključujući ribarstvo i akvakulturu, kao i biorazgradivi dio industrijskoga i komunalnoga otpada,
+
+5. distributer je pravna ili fizička osoba koja u lancu nabave u svojstvu trgovca stavlja gorivo na tržište kao dizelsko gorivo ili motorni benzin, biogorivo ili mješavinu dizelskog goriva ili motornog benzina s biogorivom i osigurava provedbu postupaka ocjene sukladnosti goriva s propisanim tehničkim zahtjevima za kakvoću goriva prije stavljanja na tržište ili u uporabu, u skladu s posebnim zakonom kojim se uređuje zaštita zraka i posebnim zakonom kojim se uređuju tehnički zahtjevi za proizvode i ocjenjivanje sukladnosti,
+
+6. energija iz obnovljivih izvora je energija iz obnovljivih nefosilnih izvora kao što je energija vjetra, solarna energija, aerotermalna, geotermalna i hidrotermalna energija, energija mora, energija vodotoka, energija iz biomase, plina iz deponija otpada, plina iz postrojenja za obradu otpadnih voda i bioplina,
+
+7. energija za prijevoz iz obnovljivih izvora je energija biogoriva, energija vodika iz obnovljivih izvora za potrebe prijevoza te električna energija iz obnovljivih izvora za potrebe prijevoza,
+
+8. energijska vrijednost je donja ogrjevna vrijednost goriva,
+
+9. Fond za zaštitu okoliša i energetsku učinkovitost je pravna osoba s javnim ovlastima osnovana posebnim zakonom (u daljnjem tekstu: Fond),
+
+10. gorivo je gorivo za pogon motornih vozila i brodova za potrebe prijevoza, u skladu s propisom kojim se uređuje kakvoća goriva,
+
+11. Hrvatska energetska regulatorna agencija je pravna osoba s javnim ovlastima nadležna za regulaciju energetskih djelatnosti osnovana posebnim zakonom (u daljnjem tekstu: Agencija),
+
+12. Hrvatski operator tržišta energije, d.o.o., Zagreb je pravna osoba s javnim ovlastima čije udjele u cijelosti drži Republika Hrvatska,
+
+13. javni sektor je proračunski i izvanproračunski korisnik državnog proračuna, proračunski i izvanproračunski korisnik proračuna jedinice lokalne i područne (regionalne) samouprave, trgovačko društvo i pravna osoba u kojoj Republika Hrvatska odnosno jedinica lokalne i područne (regionalne) samouprave ima odlučujući utjecaj na upravljanje,
+
+14. kakvoća goriva je kvaliteta goriva propisana posebnim propisima kojima se uređuju zahtjevi za kvalitetu goriva,
+
+15. korisnik goriva u javnom prijevozu je korisnik goriva u javnom cestovnom prijevozu i korisnik goriva u željezničkom prijevozu,
+
+16. korisnik goriva u javnom cestovnom prijevozu je domaći prijevoznik koji koristi gorivo za pogon motornog vozila u obavljanju javnog i/ili posebnog linijskog prijevoza, upisan u upisnik o izdanim dozvolama za autobusne linije koji vodi upravno tijelo županije ili ministarstvo nadležno za promet, u skladu s posebnim propisima kojima se uređuje prijevoz u cestovnom prometu,
+
+17. korisnik goriva u javnom sektoru je proračunski i izvanproračunski korisnik državnog proračuna, proračunski i izvanproračunski korisnik proračuna jedinice lokalne i područne (regionalne) samouprave, trgovačko društvo i pravna osoba u kojoj Republika Hrvatska odnosno jedinica lokalne i područne (regionalne) samouprave ima odlučujući utjecaj na upravljanje, koji koristi gorivo za pogon motornog vozila u obavljanju svojih djelatnosti, upisan u registar proračunskih i izvanproračunskih korisnika koji vodi ministarstvo nadležno za financije, u skladu s posebnim propisima kojima se uređuje proračun,
+
+18. korisnik električne energije u javnom cestovnom i željezničkom prijevozu je pravna i fizička osoba koja koristi električnu energiju za pogon bilo koje vrste električnih prijevoznih sredstava u javnom cestovnom i željezničkom prijevozu,
+
+19. krajnji korisnik je korisnik goriva u javnom prijevozu i korisnik goriva u javnom sektoru,
+
+20. kulture bogate škrobom su kulture koje se sastoje uglavnom od žitarica (bez obzira na to koriste li se isključivo zrna ili se koristi cijela biljka, kao u slučaju zelenog kukuruza), gomolja, korjenastih kultura (poput krumpira, čičoka, slatkih krumpira, manioke i jama) te izdanaka korijenja (poput taroa i cocoyama),
+
+21. lignocelulozni materijal je materijal koji se sastoji od lignina, celuloze i hemiceluloze, poput biomase dobivene iz šuma, drvenih energetskih kultura i šumskih industrijskih ostataka i otpada,
+
+22. ministar je ministar nadležan za energetiku,
+
+23. Ministarstvo je središnje tijelo državne uprave nadležno za energetiku,
+
+24. nacionalni cilj stavljanja na tržište biogoriva je minimalni obvezatni cilj stavljanja na tržište biogoriva za potrebe prijevoza u Republici Hrvatskoj, a određuje se kao dio ukupnog udjela energije iz obnovljivih izvora u ukupnoj godišnjoj neposrednoj potrošnji energije u prijevozu, u koju se uračunava samo energija dizelskog goriva, motornog benzina i biogoriva potrošena u cestovnom i željezničkom prijevozu te električna energija potrošena u prijevozu, uključujući električnu energiju za proizvodnju obnovljivih tekućih i plinovitih goriva nebiološkog podrijetla namijenjenih uporabi u prometu, a izražava se kao postotak u Nacionalnom akcijskom planu, uzimajući u obzir propisane energijske vrijednosti goriva,
+
+25. napredna biogoriva su biogoriva koja su proizvedena iz sirovina i drugih goriva, propisanih u prilogu III. dijelu A. Pravilnika o mjerama poticanja korištenja biogoriva u prijevozu (»Narodne novine«, br. 42/10.),
+
+26. neprehrambeni celulozni materijali su sirovine koje se uglavnom sastoje od celuloze i hemiceluloze te imaju manji udio lignina od lignoceluloznog materijala; to uključuje ostatke kultura za proizvodnju hrane za ljude i hrane za životinje (poput slame, kukuruznih stabljika, pljeve i ljusaka), travnate energetske kulture s malim udjelom škroba (poput ljulja, proso trave, trave Miscanthus, divovske trske i pokrovnih usjeva prije i nakon glavnih usjeva), industrijske ostatke (uključujući ostatke kultura za proizvodnju hrane za ljude i hrane za životinje nakon ekstrakcije biljnih ulja, šećera, škroba i proteina) te materijal od biološkog otpada,
+
+27. obnovljiva tekuća i plinovita goriva nebiološkog podrijetla namijenjena uporabi u prometu su tekuća ili plinovita goriva koja nisu biogoriva, čiji energetski sadržaj potječe iz obnovljivih izvora energije koji nisu biomasa i koja se upotrebljavaju u prometu,
+
+28. obveza povezana s energijom za prijevoz iz obnovljivih izvora je nacionalni program poticanja korištenja energije za prijevoz iz obnovljivih izvora kojim se od proizvođača energije traži da u svoju proizvodnju uključe određeni dio energije iz obnovljivih izvora, kojim se od distributera energije traži da u svoju isporuku uključe određeni dio energije iz obnovljivih izvora ili kojim se od potrošača energije traži da u svoju potrošnju uključe određeni dio energije iz obnovljivih izvora,
+
+29. obveza korištenja biogoriva u javnom prijevozu i javnom sektoru je obveza na temelju koje je krajnji korisnik goriva dužan osigurati da najmanje 70% vozila koja su kupljena, unajmljena ili uzeta na lizing u pojedinoj godini koristi biogorivo umiješano u dizelsko gorivo ili motorni benzin u udjelu većem od standardnog, ili biodizel u obliku čistog biogoriva, ili bioplin u obliku čistog biogoriva, ili hibridni pogon, ili električni pogon, ili vodik,
+
+30. obveznik stavljanja biogoriva na tržište je distributer koji stavlja na tržište dizelsko gorivo ili motorni benzin za pogon motornih vozila koji se, po posebnom zakonu kojim se uređuju trošarine, smatra trošarinskim obveznikom, osim AZU-a,
+
+31. ostaci iz poljoprivrede, akvakulture, ribarstva i šumarstva su ostaci koji su izravno proizvedeni u okviru djelatnosti poljoprivrede, akvakulture, ribarstva i šumarstva; oni ne uključuju ostatke iz povezanih industrija ili prerade,
+
+32. ostaci prerade su tvar koja nije jedan od konačnih proizvoda koji su neposredni cilj proizvodnog postupka; ona nije primarni cilj proizvodnog postupka i postupak nije bio namjerno izmijenjen radi njezine proizvodnje,
+
+33. ovlaštena osoba za provedbu monitoringa količine biogoriva je osoba koja je to ovlaštenje stekla po propisu kojim se uređuju zahtjevi za kakvoću goriva (u daljnjem tekstu: ovlaštena osoba za monitoring količine biogoriva),
+
+34. posebna naknada za okoliš je prihod Fonda, a plaća je obveznik stavljanja biogoriva na tržište koji propusti ispuniti obvezu stavljanja biogoriva na tržište,
+
+35. pošiljka biogoriva je određena količina biogoriva, u obliku čistog biogoriva ili umiješanog u dizelsko gorivo ili motorni benzin, koju distributer dostavlja do prodajnog mjesta,
+
+36. praćenje količine biogoriva stavljene na tržište ili na korištenje (u daljnjem tekstu: monitoring količine biogoriva) je postupak utvrđivanja količine biogoriva stavljenog na tržište ili na korištenje koji uključuje neposrednu provjeru tehnoloških postupaka dodavanja biogoriva naftnom gorivu, provjeravanje isprava o sukladnosti na osnovi kojih proizvođači goriva jamče za količinu biogoriva u dizelskom gorivu ili motornom benzinu i utvrđivanje količine biogoriva u pojedinim pošiljkama goriva odnosno provjeravanje dokumentacije koja prati pošiljku goriva po postupku utvrđenom u programu monitoringa količine biogoriva,
+
+37. proizvođač je pravna ili fizička osoba koja proizvodi biogorivo. Proizvođač se smatra distributerom kada proizvodi i stavlja proizvod na tržište,
+
+38. stavljanje na tržište je puštanje u promet i/ili potrošnju dizelskog goriva ili motornog benzina, biogoriva ili mješavine dizelskog goriva ili motornog benzina s biogorivom za pogon motornih vozila ili brodova u skladu s posebnim zakonom kojim se uređuju trošarine, posebnim zakonom kojim se uređuje zaštita zraka i posebnim zakonom kojim se uređuju tehnički zahtjevi za proizvode i ocjenjivanje sukladnosti,
+
+39. sustavi poticanja proizvodnje i korištenja biogoriva su opći instrumenti koje koristi Republika Hrvatska ili tijela državne uprave, jedinica lokalne i područne (regionalne) samouprave ili javne ustanove kako bi stvorili okvir podrške ili poticaja za sudionike tržišta da proizvode i koriste biogorivo za potrebe prijevoza,
+
+40. trgovac je pravna ili fizička osoba koja kupuje i prodaje biogorivo ili mješavinu biogoriva i dizelskog goriva ili motornog benzina,
+
+41. ukupna neposredna potrošnja energije je energetski proizvod isporučen za energetske potrebe industriji, prijevozu, kućanstvima, sektoru usluga, uključujući i javne usluge, poljoprivredi, šumarstvu i ribarstvu, uključujući potrošnju energije u energetskom sektoru za potrebe proizvodnje električne i toplinske energije, kao i gubitke električne i toplinske energije u distribuciji i prijenosu,
+
+42. uvoznik je trgovac na veliko biogorivom ili gorivom koji stavlja na tržište u Republici Hrvatskoj gorivo ili biogorivo ili mješavinu biogoriva i dizelskog goriva ili motornog benzina proizvedenog u drugoj državi,
+
+43. zahtjev održivosti je zahtjev propisan za proizvodnju i korištenje biogoriva radi ostvarivanja ciljeva održivog razvoja, a primjenjuje se kao kriterij pri utvrđivanju ispunjenja nacionalnog cilja i obveze stavljanja biogoriva na tržište.«.
+
+#### Članak 5.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Nacionalni cilj stavljanja na tržište biogoriva je minimalni obvezatni cilj stavljanja na tržište biogoriva za potrebe prijevoza u Republici Hrvatskoj, a određuje se kao dio ukupnog udjela energije iz obnovljivih izvora u ukupnoj godišnjoj neposrednoj potrošnji energije u prijevozu, u koju se uračunava samo energija dizelskog goriva, motornog benzina i biogoriva potrošena u cestovnom i željezničkom prijevozu te električna energija potrošena u prijevozu, a izražava se kao postotak u Nacionalnom akcijskom planu, uzimajući u obzir propisane prosječne energijske vrijednosti pojedinih goriva (u daljnjem tekstu: Nacionalni cilj).
+
+(2) Maksimalni doprinos biogoriva proizvedenih iz žitarica i drugih kultura bogatih škrobom, šećernih kultura i uljarica te kultura koje se uzgajaju kao glavne kulture na poljoprivrednoj površini prvenstveno za proizvodnju energije u postizanju nacionalnog cilja iz stavka 1. ovoga članka ne može prijeći 7% u ukupnoj godišnjoj neposrednoj potrošnji energije u prijevozu.
+
+(3) Prosječne energijske vrijednosti goriva propisuje ministar pravilnikom.
+
+(4) Za izračun i utvrđivanje ispunjenja nacionalnog cilja primjenjuju se sljedeća pravila:
+
+1. uzima se u obzir samo ona energija biogoriva koja ispunjavaju zahtjev održivosti propisan ovim Zakonom, neovisno o tome jesu li sirovine za proizvodnju biogoriva uzgojene u Republici Hrvatskoj ili su uvezene,
+
+2. biogoriva proizvedena iz otpada i ostataka, osim ostataka iz poljoprivrede, akvakulture, ribarstva i šumarstva, moraju ispuniti samo zahtjev smanjenja emisije stakleničkih plinova u odnosu na emisiju koja nastaje korištenjem dizelskog goriva i motornog benzina,
+
+3. za potrebe dokazivanja ispunjenja nacionalnog cilja stavljanja biogoriva na tržište i ispunjenje obveze obveznika stavljanja na tržište biogoriva, energija biogoriva proizvedenih iz otpada, ostataka, neprehrambenih celuloznih i lignoceluloznih sirovina uračunava se u 2 puta većoj vrijednosti od stvarno potrošene energije u odnosu na biogoriva proizvedena iz drugih sirovina, dok se električna energija iz obnovljivih izvora utrošena u električnim cestovnim vozilima uračunava u 5 puta većoj vrijednosti od stvarno potrošene energije, a električna energija proizvedena iz obnovljivih izvora potrošena u elektrificiranom željezničkom prijevozu uračunava se u 2,5 puta većoj vrijednosti od stvarno potrošene energije,
+
+4. ne uzima se u obzir ona količina dizelskog goriva ili motornog benzina koju pojedini distributer stavlja na tržište radi punjenja obveznih zaliha nafte i naftnih derivata, u skladu s posebnim zakonom kojim se uređuje tržište nafte i naftnih derivata, niti ona količina dizelskog goriva ili motornog benzina koju stavlja na tržište za obrambene potrebe Hrvatske vojske ili za namjene u skladu s međunarodnim obvezama Republike Hrvatske,
+
+5. za potrebe dokazivanja ispunjenja nacionalnog cilja stavljanja biogoriva na tržište i ispunjenja obveza obveznika stavljanja na tržište biogoriva, energija biogoriva proizvedenih iz žitarica i drugih kultura bogatih škrobom, šećernih kultura i uljarica te kultura koje se uzgajaju kao glavne kulture na poljoprivrednoj površini prvenstveno u energetske svrhe ne smije prelaziti 7% u ukupnoj godišnjoj neposrednoj potrošnji energije u prijevozu,
+
+6. za potrebe dokazivanja ispunjenja nacionalnog cilja stavljanja biogoriva na tržište i ispunjenja obveza obveznika stavljanja na tržište biogoriva u 2020. godini, energija iz biogoriva proizvedenih iz sirovina navedenim u prilogu III. dijelu A Pravilnika o mjerama za poticanje korištenja biogoriva u prijevozu prelazi minimalnu vrijednost od 0,1% u ukupnoj godišnjoj neposrednoj potrošnji energije u prijevozu,
+
+7. postavljeni minimalni cilj Ministarstvo treba revidirati do kraja rujna 2019. kako bi se utvrdila mogućnost ostvarenja cilja, uzimajući u obzir tržišni potencijal i cijenu navedenih biogoriva.«.
+
+#### Članak 6.
+
+U članku 16. stavku 2. točka 6. briše se.
+
+Dosadašnja točka 7. postaje točka 6.
+
+#### Članak 7.
+
+U članku 17. iza riječi: »korištenja« dodaju se riječi: »te istraživanja i razvoja naprednih«.
+
+#### Članak 8.
+
+U članku 17.a stavak 3. mijenja se i glasi:
+
+»(3) Ispunjenje zahtjeva održivosti uvjet je za priznavanje energije biogoriva za ispunjenje nacionalnog cilja stavljanja biogoriva na tržište i obveze stavljanja biogoriva na tržište.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Način, uvjeti i rok primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva te metodologija za izračun smanjenja emisija stakleničkih plinova u odnosu na emisije koje nastaju korištenjem dizelskog goriva i motornog benzina te sadržaj i rokovi godišnjeg izvješćivanja propisuju se pravilnikom koji donosi ministar, u suradnji s ministrom nadležnim za zaštitu okoliša, ministrom nadležnim za zaštitu prirode, ministrom nadležnim za poljoprivredu i ministrom nadležnim za šumarstvo.«.
+
+#### Članak 9.
+
+Naslovi iznad članaka i članci 18., 19., 20., 21. i 22. brišu se.
+
+#### Članak 10.
+
+U članku 23. stavci 3. i 7. brišu se.
+
+Dosadašnji stavci 4., 5. i 6. postaju stavci 3., 4. i 5.
+
+#### Članak 11.
+
+Naslov iznad članka i članak 24. brišu se.
+
+#### Članak 12.
+
+U članku 26. stavak 1. mijenja se i glasi:
+
+»(1) Obveznik stavljanja biogoriva na tržište izrađuje Izvješće o provedbi godišnjeg plana obveznika koje sadrži podatke i analizu ispunjenja obveze stavljanja biogoriva na tržište u prethodnoj godini i buduće mjere (u daljnjem tekstu: Izvješće obveznika).«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ako je obveznik stavio na tržište manju količinu biogoriva u odnosu na količinu za koju je obvezan, dužan je u Izvješću obveznika naznačiti tu nedostajuću količinu i za nju platiti posebnu naknadu za okoliš iz članka 29. ovoga Zakona.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+#### Članak 13.
+
+U članku 27. stavku 1. iza riječi: »na tržište« dodaju se riječi: »i obveze smanjenja stakleničkih plinova«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako obveznik stavljanja biogoriva na tržište nije ispunio propisane obveze iz stavka 1. ovoga članka, Ministarstvo donosi rješenje kojim utvrđuje energetsku vrijednost biogoriva koju je obveznik propustio staviti na tržište u prethodnoj godini sukladno članku 29. ovoga Zakona, kao i količinu emisija stakleničkih plinova koju nije ispunio u prethodnoj godini sukladno članku 29.a ovoga Zakona te određuje iznos posebne naknade koju je obveznik dužan platiti.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Protiv rješenja Ministarstva iz stavka 3. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 14.
+
+Naslov iznad članka 29. mijenja se i glasi: »Posebna naknada za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisija stakleničkih plinova«.
+
+U članku 29. stavku 1. riječi: »dvije kalendarske godine uzastopno« zamjenjuju se riječima: »prethodnoj kalendarskoj godini«.
+
+U stavku 2. iza riječi: »te rok plaćanja« umjesto točke stavlja se zarez i dodaju riječi: »uključujući uvjete u kojima se može ostvariti popust i visina popusta na jednokratno plaćanje te uvjete, kriterije i postupak obročne otplate.«.
+
+U stavku 3. iza riječi: »Ministarstva« umjesto zareza stavlja se točka, a riječi: »u suradnji s ministarstvom nadležnim za zaštitu okoliša.« brišu se.
+
+#### Članak 15.
+
+Iza članka 29. dodaje se članak 29.a koji glasi:
+
+»Članak 29.a
+
+(1) Obveznik stavljanja biogoriva na tržište dužan je smanjivati emisije stakleničkih plinova u životnom vijeku isporučenog tekućeg naftnog goriva i energije, koje je stavio na tržište Republike Hrvatske, u odnosu na razinu emisije iz 2010. godine, koja je iznosila 94,1 gCO<sub>2</sub>eg/MJ, sukladno sljedećoj dinamici:
+
+1. najmanje 2% do 31. prosinca 2018.,
+
+2. najmanje 3% do 31. prosinca 2019.,
+
+3. najmanje 6% do 31. prosinca 2020.
+
+(2) Obveznik stavljanja biogoriva na tržište koji ne ostvari smanjenje emisija sukladno stavku 1. ovoga članka dužan je platiti posebnu novčanu naknadu za okoliš za razliku emisija stakleničkih plinova koja je određena Uredbom iz članka 29. ovoga Zakona.
+
+(3) Naknada za neostvareno smanjenje emisija uplaćuje se na račun Fonda.
+
+(4) Sredstva naknade koriste se za smanjenje emisija stakleničkih plinova i povećanje učinkovitosti u prometnom sektoru, a koja su u skladu s propisima kojima se uređuje djelatnost Fonda.
+
+(5) Distributeri biogoriva za korištenje u zračnom prometu mogu preuzeti obvezu sudjelovanja u sustavu smanjenja emisije stakleničkih plinova pod uvjetom da su ta biogoriva u skladu s kriterijima održivosti navedenim u pravilniku o načinu i uvjetima primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva.«.
+
+#### Članak 16.
+
+U članku 30. stavku 1. riječi: »ili brodova« brišu se.
+
+U stavku 1. točki 1. riječi: »u udjelu većem od standardnog« zamjenjuju se riječima: »s visokim udjelima biogoriva većim od B5, B7, E5 i E10«.
+
+U stavku 2. riječi: »ili brodove« brišu se.
+
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Radi postizanja nacionalnog cilja iz članka 8. stavka 1. ovoga Zakona, korisnik električne energije u željezničkom prijevozu dužan je za potrebe prijevoza nabavljati isključivo električnu energiju proizvedenu iz postrojenja koje koristi obnovljive izvore energije, a koja je u sustavu jamstva podrijetla.
+
+(7) Radi postizanja nacionalnog cilja iz članka 8. stavka 1. ovoga Zakona, korisnik električne energije u javnom cestovnom prijevozu dužan je za potrebe prijevoza nabavljati isključivo električnu energiju proizvedenu iz postrojenja koje koristi obnovljivi izvor energije, a koja je u sustavu jamstva podrijetla.«.
+
+#### Članak 17.
+
+U članku 32. stavku 4. točke 3. i 5. brišu se.
+
+Dosadašnja točka 4. postaje točka 3.
+
+Dosadašnje točke 6., 7., 8., 9. i 10. postaju točke 4., 5., 6., 7. i 8.
+
+#### Članak 18.
+
+U nazivu glave VIII. riječ: »KAZNENE« zamjenjuje se riječju: »PREKRŠAJNE«.
+
+#### Članak 19.
+
+U članku 33. stavku 1. iza riječi: »pravna« dodaje se riječ: »osoba«, a riječi: »ili fizička osoba« brišu se.
+
+U stavku 1. točke 4. i 5. brišu se.
+
+Dosadašnje točke 6., 7. i 8. postaju točke 4., 5. i 6.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Novčanom kaznom u iznosu od 2.000 do 50.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka fizička osoba, obrtnik ili osoba koja obavlja samostalnu djelatnost, a obveznik je stavljanja biogoriva na tržište.«.
+
+#### Članak 20.
+
+Članak 35. briše se.
+
+#### Članak 21.
+
+Članak 36. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 10.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba korisnik goriva u javnom prijevozu ako ne dostavi Ministarstvu izvješće o ispunjavanju obveze u vezi s korištenjem biogoriva u roku određenom u članku 31. stavku 5. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 2.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba, obrtnik ili osoba koja obavlja samostalnu djelatnost, a korisnik je goriva u javnom prijevozu.
+
+(3) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba korisnika u javnom prijevozu.
+
+(4) Novčanom kaznom u iznosu od 10.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba korisnik električne energije u javnom cestovnom i željezničkom prijevozu ako za potrebe prijevoza ne nabavlja isključivo električnu energiju proizvedenu iz postrojenja koje koristi obnovljive izvore energije, a koja je u sustavu jamstva podrijetla, počevši od 1. siječnja 2019., a sukladno članku 30. stavcima 6. i 7. ovoga Zakona.
+
+(5) Novčanom kaznom u iznosu od 2.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 4. ovoga članka fizička osoba, obrtnik ili osoba koja obavlja samostalnu djelatnost, a korisnik je električne energije u javnom cestovnom i željezničkom prijevozu.
+
+(6) Novčanom kaznom u iznosu od 2.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 4. ovoga članka i odgovorna osoba korisnika električne energije u javnom cestovnom i željezničkom prijevozu.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 22.
+
+(1) Na obveznike stavljanja biogoriva na tržište koji su u 2017. godini na tržište stavili manju količinu biogoriva u odnosu na količinu koju su bili obvezni i prenijeli obvezu stavljanja biogoriva na tržište u 2018. godinu primjenjuju se odredbe Zakona o biogorivima za prijevoz (»Narodne novine«, br. 65/09., 145/10., 26/11., 144/12. i 14/14.) i propisa donesenih na temelju toga Zakona, osim u slučajevima propisanim odredbama ovoga članka.
+
+(2) Obveznik stavljanja biogoriva na tržište koji u 2017. godini nije stavio na tržište količinu biogoriva koju je bio dužan staviti na tržište sukladno odredbama Zakona o biogorivima za prijevoz (»Narodne novine«, br. 65/09., 145/10., 26/11., 144/12. i 14/14.) može ostvariti pravo na popust u postotnom iznosu na utvrđeni iznos posebne naknade za okoliš zbog nestavljanja biogoriva na tržište, u dijelu koji se odnosi na količinu biogoriva koju je propustio staviti na tržište u 2017. godini.
+
+(3) Obveznik stavljanja biogoriva na tržište iz stavka 2. ovoga članka može podnijeti zahtjev Ministarstvu u pisanom obliku u roku od 15 dana od dana stupanja na snagu ovoga Zakona.
+
+(4) Posebna naknada za okoliš s popustom iz stavka 2. ovoga članka određuje se rješenjem Ministarstva.
+
+(5) Protiv rješenja iz stavka 4. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+
+(6) Posebnu naknadu za okoliš s popustom iz stavka 2. ovoga članka obveznik stavljanja biogoriva na tržište dužan je platiti u korist Fonda, u roku od 15 dana od primitka rješenja Ministarstva, i dokaz o uplati dostaviti Ministarstvu.
+
+(7) Ako obveznik stavljanja biogoriva na tržište ne plati posebnu naknadu u dijelu koji se odnosi na količinu biogoriva koju je propustio staviti na tržište u 2017. godini u roku iz stavka 6. ovoga članka, Ministarstvo će ukinuti rješenje iz stavka 4. ovoga članka.
+
+(8) Protiv rješenja iz stavka 7. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+
+(9) Prilikom utvrđivanja posebne naknade za okoliš za količinu biogoriva koju je obveznik propustio staviti na tržište u 2017. i 2018. godini, količina biogoriva za koju je obveznik platio posebnu naknadu za okoliš iz stavka 2. ovoga članka oduzet će se od ukupne količine biogoriva koju je obveznik stavljanja biogoriva na tržište propustio staviti na tržište u 2018. godini.
+
+(10) Obvezniku stavljanja biogoriva na tržište koji ne ostvari pravo na popust iz stavka 2. ovoga članka odnosno ne plati posebnu naknadu za okoliš zbog nestavljanja biogoriva na tržište s popustom sukladno odredbama ovoga članka, posebna naknada za okoliš zbog nestavljanja biogoriva na tržište utvrđuje se sukladno odredbama članka 29. Zakona o biogorivima za prijevoz (»Narodne novine«, br. 65/09., 145/10., 26/11., 144/12. i 14/14.) i propisa donesenih na temelju toga Zakona.
+
+(11) Obvezniku stavljanja biogoriva na tržište kojem je utvrđena posebna naknada sukladno stavku 10. ovoga članka može se odobriti obročna otplata pod uvjetima propisanima Uredbom iz članka 23. stavka 1. ovoga Zakona.
+
+(12) Obveznik stavljanja biogoriva na tržište koji do 31. prosinca 2018. ne stavi na tržište količinu biogoriva koju je bio dužan staviti na tržište sukladno odredbama Zakona o biogorivima za prijevoz (»Narodne novine«, br. 65/09., 145/10., 26/11., 144/12. i 14/14.) može ostvariti pravo na popust u postotnom iznosu i/ili pravo na obročnu otplatu na utvrđeni iznos posebne naknade za okoliš zbog nestavljanja biogoriva na tržište, sukladno odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona.
+
+(13) Visinu popusta iz stavaka 2. i 12. ovoga članka, sadržaj zahtjeva za ostvarivanje prava na popust i dokaze koji se prilažu uz zahtjev, uvjete i način ostvarivanja prava na popust te obročnu otplatu i sva ostala pitanja vezana za posebnu naknadu za okoliš zbog nestavljanja biogoriva na tržište koja nisu uređena ovim člankom propisuje Vlada Republike Hrvatske uredbom iz članka 23. stavka 1. ovoga Zakona.
+
+#### Članak 23.
+
+(1) Vlada Republike Hrvatske će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona donijeti uredbu o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisija stakleničkih plinova.
+
+(2) Ministar će u roku od mjesec dana od dana stupanja na snagu ovoga Zakona uskladiti s odredbama ovoga Zakona Pravilnik o mjerama za poticanje korištenja biogoriva u prijevozu (»Narodne novine«, br. 42/10.) i Pravilnik o načinu i uvjetima primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva (»Narodne novine«, br. 83/13.).
+
+#### Članak 24.
+
+Do stupanja na snagu uredbe iz članka 23. stavka 1. ovoga Zakona i pravilnika iz članka 23. stavka 2. ovoga Zakona ostaju na snazi Uredba o posebnoj naknadi za okoliš radi nestavljanja biogoriva na tržište (»Narodne novine«, br. 125/10.), Pravilnik o mjerama za poticanje korištenja biogoriva u prijevozu (»Narodne novine«, br. 42/10.) i Pravilnik o načinu i uvjetima primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva (»Narodne novine«, br. 83/13.).
+
+#### Članak 25.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o poticanju proizvodnje biogoriva za prijevoz (»Narodne novine«, br. 1/14.).
+
+#### Članak 26.
+
+Postupci započeti do dana stupanja na snagu ovoga Zakona prema odredbama Zakona o biogorivima za prijevoz (»Narodne novine«, br. 65/09., 145/10., 26/11., 144/12. i 14/14.) dovršit će se prema odredbama toga Zakona i provedbenih propisa donesenih na temelju njega.
+
+#### Članak 27.
+
+Ministarstvo će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 28.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 16. ovoga Zakona koji stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/72
+
+Zagreb, 12. listopada 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz (NN 52/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/52/1055*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O BIOGORIVIMA ZA PRIJEVOZ
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o biogorivima za prijevoz, koji je Hrvatski sabor donio na sjednici 7. svibnja 2021.
+
+Klasa: 011-01/21-01/35
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 12. svibnja 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O BIOGORIVIMA ZA PRIJEVOZ**
+
+#### Članak 1.
+
+U Zakonu o biogorivima za prijevoz (»Narodne novine«, br. 65/09., 145/10., 26/11., 144/12., 14/14. i 94/18.) članak 1. mijenja se i glasi:
+
+»Ovim se Zakonom uređuje proizvodnja, trgovina i skladištenje biogoriva, korištenje obnovljivih izvora energije u prijevozu, donošenje programa i planova za poticanje proizvodnje i korištenja obnovljivih izvora energije u prijevozu, ovlasti i odgovornosti za utvrđivanje i provođenje politike poticanja proizvodnje i korištenja obnovljivih izvora energije u prijevozu, mjere poticanja proizvodnje i korištenja obnovljivih izvora energije u prijevozu, kao i poticanja istraživanja i razvoja novih, naprednih biogoriva koja se ne natječu s kulturama za hranu i krmivo te utvrđuju kriteriji održivosti i uštede emisije stakleničkih plinova za biogoriva, tekuća biogoriva i goriva iz biomase.«.
+
+#### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»(1) Ovim se Zakonom u hrvatsko zakonodavstvo preuzima Direktiva (EU) 2018/2001 Europskog parlamenta i Vijeća od 11. prosinca 2018. o promicanju uporabe energije iz obnovljivih izvora (Tekst značajan za EGP) (SL L 328, 21. 12. 2018.).
+
+(2) Ovim se Zakonom osigurava provedba Uredbe (EU) 2018/1999 Europskog parlamenta i Vijeća od 11. prosinca 2018. o upravljanju energetskom unijom i djelovanjem u području klime, izmjeni uredaba (EZ) br. 663/2009 i (EZ) br. 715/2009 Europskog parlamenta i Vijeća, direktiva 94/22/EZ, 98/70/EZ, 2009/31/EZ, 2009/73/EZ, 2010/31/EU, 2012/27/EU i 2013/30/EU Europskog parlamenta i Vijeća, direktiva Vijeća 2009/119/EZ i (EU) 2015/652 te stavljanju izvan snage Uredbe (EU) br. 525/2013 Europskog parlamenta i Vijeća (SL L 328, 21. 12. 2018.) (u daljnjem tekstu: Uredba o upravljanju energetskom unijom) u dijelu koji se odnosi na korištenje biogoriva i energije iz obnovljivih izvora energije u prometu.«.
+
+#### Članak 3.
+
+U članku 3. stavku 1. iza riječi: »u području prijevoza« stavlja se zarez i dodaju riječi: »odnosno uključivanje obnovljive energije u sektor prometa«, a iza riječi: »biogoriva« stavlja se zarez i dodaju riječi: »odnosno obnovljive energije«.
+
+U stavku 2. iza riječi: »pomorskom prijevozu,« dodaju se riječi: »infrastruktura za alternativna goriva,«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Korištenjem biogoriva i naprednih biogoriva odnosno električne energije i vodika proizvedenih iz obnovljive energije u prijevozu ostvaruju se interesi Republike Hrvatske u području energetike utvrđeni dokumentima energetske i klimatske politike Republike Hrvatske, zakonima i drugim propisima kojima se uređuje obavljanje energetskih djelatnosti, osobito u smislu ostvarenja nacionalnog cilja od najmanje 10 % obnovljivih izvora energije u neposrednoj potrošnji u prijevozu do 2020. godine, odnosno od najmanje 14 % do 2030. godine u Republici Hrvatskoj.«.
+
+#### Članak 4.
+
+Članak 4. mijenja se i glasi:
+
+»(1) U smislu ovoga Zakona pojedini pojmovi imaju sljedeća značenja:
+
+1. Agencija za ugljikovodike (u daljnjem tekstu: AZU) je pravna osoba s javnim ovlastima osnovana zakonom kojim se uređuje istraživanje i eksploatacija ugljikovodika, tržište nafte i naftnih derivata,
+
+2. biogorivo je tekuće ili plinovito gorivo namijenjeno uporabi u prijevozu proizvedeno iz biomase,
+
+3. biogoriva, tekuća biogoriva i biogoriva iz biomase s niskim rizikom od neizravnih promjena uporabe zemljišta su biogoriva, tekuća biogoriva i biogoriva iz biomase čije su sirovine proizvedene u okviru programa kojima se izbjegavaju učinci premještanja biogoriva, tekućih biogoriva i biogoriva iz biomase koja se temelje na kulturama za proizvodnju hrane i krmiva putem poboljšanih poljoprivrednih praksi, kao i putem uzgoja kultura na područjima koja prethodno nisu upotrebljavana za uzgoj kultura i koja su proizvedena u skladu s kriterijima održivosti za biogoriva, tekuća biogoriva i biogoriva iz biomase navedenima u pravilniku kojim se uređuje način i uvjeti primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva,
+
+4. biomasa je biorazgradiv dio proizvoda, otpada i ostataka biološkog podrijetla iz poljoprivrede, uključujući tvari biljnog i životinjskog podrijetla, iz šumarstva i s njima povezanih proizvodnih djelatnosti, uključujući ribarstvo i akvakulturu, te biorazgradiv udio otpada, uključujući industrijski i komunalni otpad biološkog podrijetla,
+
+5. distributer je pravna ili fizička osoba koja u lancu nabave u svojstvu trgovca stavlja gorivo na tržište kao dizelsko gorivo ili motorni benzin, biogorivo ili mješavinu dizelskog goriva ili motornog benzina s biogorivom i osigurava provedbu postupaka ocjene sukladnosti goriva s propisanim tehničkim zahtjevima za kakvoću goriva prije stavljanja na tržište ili u uporabu, u skladu sa zakonom kojim se uređuje zaštita zraka i zakonom kojim se uređuju tehnički zahtjevi za proizvode i ocjenjivanje sukladnosti,
+
+6. energija iz obnovljivih izvora energije je energija iz obnovljivih nefosilnih izvora, primjerice energija vjetra, solarna energija (toplinska i fotonaponska) te geotermalna energija, energija iz okoliša, energija plime, oseke i druga energija oceana, hidroenergija, biomasa, plin dobiven od otpada, plin dobiven iz uređaja za obradu otpadnih voda i bioplin,
+
+7. obnovljiva energija u prijevozu je energija goriva iz recikliranog ugljika, obnovljiva tekuća i plinovita goriva nebiološkog podrijetla namijenjena u prometu, te električna energija iz obnovljivih izvora za potrebe prijevoza i vodik iz obnovljivih izvora za potrebe prijevoza,
+
+8. energijska vrijednost je donja ogrjevna vrijednost goriva,
+
+9. Fond za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Fond) je pravna osoba s javnim ovlastima osnovana posebnim zakonom,
+
+10. gorivo je gorivo za pogon motornih vozila i plovnih objekata za potrebe prijevoza, u skladu s propisom kojim se uređuje kakvoća goriva,
+
+11. goriva iz recikliranog ugljika su tekuća i plinovita goriva proizvedena iz tekućih ili krutih tokova otpada neobnovljiva podrijetla koji nisu prikladni za oporabu materijala sukladno zakonskim odredbama o održivom gospodarenju otpadom, ili plin iz obrade otpada i ispušni plin neobnovljiva podrijetla koji su proizvedeni kao neizbježni i nisu namjerna posljedica proizvodnog procesa u industrijskim postrojenjima,
+
+12. Hrvatska energetska regulatorna agencija (u daljnjem tekstu: Agencija) je pravna osoba s javnim ovlastima nadležna za regulaciju energetskih djelatnosti osnovana posebnim zakonom,
+
+13. Hrvatski operator tržišta energije, d.o.o., Zagreb je pravna osoba s javnim ovlastima čije udjele u cijelosti drži Republika Hrvatska,
+
+14. Integrirani nacionalni energetski i klimatski plan za Republiku Hrvatsku je plan, odnosno dokument iz članka 3. Uredbe o upravljanju energetskom unijom, a koji donosi Vlada Republike Hrvatske na prijedlog ministarstva nadležnog za energetiku,
+
+15. javni sektor je proračunski i izvanproračunski korisnik državnog proračuna, proračunski i izvanproračunski korisnik proračuna jedinice lokalne i područne (regionalne) samouprave, trgovačko društvo i pravna osoba u kojoj Republika Hrvatska odnosno jedinica lokalne i područne (regionalne) samouprave ima odlučujući utjecaj na upravljanje,
+
+16. kakvoća goriva je kvaliteta goriva propisana propisima kojima se uređuju zahtjevi za kvalitetu goriva,
+
+17. korisnik goriva u javnom prijevozu je korisnik goriva u javnom cestovnom prijevozu, u javnom obalnom linijskom prijevozu i korisnik goriva u željezničkom prijevozu,
+
+18. korisnik goriva u javnom cestovnom prijevozu je domaći prijevoznik koji koristi gorivo za pogon motornog vozila u obavljanju javnog i/ili linijskog prijevoza, upisan u upisnik o izdanim dozvolama za autobusne linije koji vodi upravno tijelo županije ili ministarstvo nadležno za promet, u skladu s propisima kojima se uređuje prijevoz u cestovnom prometu,
+
+19. korisnik goriva u javnom sektoru je proračunski i izvanproračunski korisnik državnog proračuna, proračunski i izvanproračunski korisnik proračuna jedinice lokalne i područne (regionalne) samouprave, trgovačko društvo i pravna osoba u kojoj Republika Hrvatska odnosno jedinica lokalne i područne (regionalne) samouprave ima odlučujući utjecaj na upravljanje, koji koristi gorivo za pogon motornog vozila u obavljanju svojih djelatnosti, upisan u registar proračunskih i izvanproračunskih korisnika koji vodi ministarstvo nadležno za financije, u skladu s propisima kojima se uređuje proračun,
+
+20. korisnik električne energije u javnom cestovnom, brodskom i željezničkom prijevozu je pravna i fizička osoba koja koristi električnu energiju za pogon bilo koje vrste električnih prijevoznih sredstava u javnom cestovnom, brodskom i željezničkom prijevozu,
+
+21. krajnji korisnik je korisnik goriva u javnom prijevozu i korisnik goriva u javnom sektoru,
+
+22. kulture bogate škrobom su kulture koje se sastoje uglavnom od žitarica (bez obzira na to koriste li se isključivo zrna ili se koristi cijela biljka, kao u slučaju zelenog kukuruza), gomolja, korjenastih kultura (poput krumpira, čičoka, slatkih krumpira, manioke i jama) te izdanaka korijenja (poput taroa i cocoyama),
+
+23. kulture za proizvodnju hrane i krmiva su kulture bogate škrobom, šećerne kulture ili uljarice proizvedene na poljoprivrednom zemljištu kao glavne kulture, isključujući ostatke, otpad ili lignocelulozni materijal i međuusjevi, kao što su postrni usjevi i pokrovni usjevi, uz uvjet da uporaba takvih međuusjeva ne dovodi do potražnje za dodatnim zemljištem,
+
+24. lignocelulozni materijal je materijal koji se sastoji od lignina, celuloze i hemiceluloze, poput biomase dobivene iz šuma, drvenih energetskih kultura i šumskih industrijskih ostataka i otpada,
+
+25. ministar je ministar nadležan za energetiku,
+
+26. Ministarstvo je tijelo državne uprave nadležno za energetiku,
+
+27. nacionalni cilj za biogoriva i obnovljivu energiju u prijevozu je udio energije iz biogoriva i obnovljivih izvora energije u godišnjoj neposrednoj potrošnji energije u prijevozu, a izražava se kao postotak u Integriranom nacionalnom energetskom i klimatskom planu,
+
+28. napredna biogoriva su biogoriva koja su proizvedena iz sirovina navedenih u stavku 3. ovoga članka,
+
+29. neprehrambeni celulozni materijali su sirovine koje se uglavnom sastoje od celuloze i hemiceluloze te imaju manji udio lignina od lignoceluloznog materijala; to uključuje ostatke kultura za proizvodnju hrane za ljude i hrane za životinje, travnate energetske kulture s malim udjelom škroba, kulture za ugar, industrijske ostatke te materijal od biološkog otpada, kada se kulture za ugar i pokrovne usjeve smatraju kao privremeni, kratkoročno zasijani pašnjaci koji obuhvaćaju kombinaciju trave i mahunarki s malim udjelom škroba kako bi se dobila stočna hrana za stoku i poboljšala plodnost tla radi dobivanja većih prinosa ratarskih glavnih usjeva,
+
+30. obnovljiva tekuća i plinovita goriva nebiološkog podrijetla namijenjena uporabi u prometu su tekuća ili plinovita goriva koja se upotrebljavaju u prometu, koja nisu biogoriva ni bioplin, čiji energetski sadržaj potječe iz obnovljivih izvora energije koji nisu biomasa,
+
+31. obveza povezana s energijom za prijevoz iz obnovljivih izvora energije je nacionalni program poticanja korištenja energije za prijevoz iz obnovljivih izvora kojim se od proizvođača energije traži da u svoju proizvodnju uključe određeni dio energije iz obnovljivih izvora, kojim se od distributera energije traži da u svoju isporuku uključe određeni dio energije iz obnovljivih izvora ili kojim se od potrošača energije traži da u svoju potrošnju uključe određeni dio energije iz obnovljivih izvora,
+
+32. obveza korištenja obnovljivih izvora energije u javnom prijevozu i javnom sektoru je obveza na temelju koje je krajnji korisnik goriva dužan osigurati da najmanje 70 % vozila koja su kupljena, unajmljena ili uzeta na lizing u pojedinoj godini koristi biogorivo umiješano u dizelsko gorivo ili motorni benzin u udjelu većem od standardnog, ili biodizel u obliku čistog biogoriva, ili bioplin u obliku čistog biogoriva, ili električni pogon, ili vodik,
+
+33. obveznik stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu (u daljnjem tekstu: obveznik) je distributer koji stavlja na tržište dizelsko gorivo ili motorni benzin za pogon motornih vozila koji se, po posebnom zakonu kojim se uređuju trošarine, smatra trošarinskim obveznikom, osim AZU-a,
+
+34. ostaci iz poljoprivrede, akvakulture, ribarstva i šumarstva su ostaci koji su izravno proizvedeni u okviru djelatnosti poljoprivrede, akvakulture, ribarstva i šumarstva; oni ne uključuju ostatke iz povezanih industrija ili prerade,
+
+35. ostaci su tvar koja nije jedan od konačnih proizvoda koji su neposredni cilj proizvodnog postupka; ona nije primarni cilj proizvodnog postupka i postupak nije bio namjerno izmijenjen radi njezine proizvodnje,
+
+36. ovlaštena osoba za provedbu monitoringa količine biogoriva (u daljnjem tekstu: ovlaštena osoba za monitoring količine biogoriva) je osoba koja je to ovlaštenje stekla po propisu kojim se uređuju zahtjevi za kakvoću goriva,
+
+37. posebna naknada za okoliš je prihod Fonda, a plaća je obveznik stavljanja biogoriva na tržište koji propusti ispuniti obvezu stavljanja biogoriva te smanjiti emisiju stakleničkih plinova,
+
+38. pošiljka biogoriva je određena količina biogoriva, u obliku čistog biogoriva ili umiješanog u dizelsko gorivo ili motorni benzin, koju distributer dostavlja do prodajnog mjesta,
+
+39. praćenje količine obnovljive energije u prijevozu stavljene na tržište ili na korištenje (u daljnjem tekstu: monitoring količine obnovljive energije u prijevozu) je postupak utvrđivanja količine biogoriva stavljenog na tržište ili na korištenje koji uključuje neposrednu provjeru tehnoloških postupaka dodavanja biogoriva naftnom gorivu, provjeravanje isprava o sukladnosti na osnovi kojih proizvođači goriva jamče za količinu biogoriva u dizelskom gorivu ili motornom benzinu i utvrđivanje količine biogoriva u pojedinim pošiljkama goriva odnosno provjeravanje dokumentacije koja prati pošiljku goriva po postupku utvrđenom u programu monitoringa količine biogoriva. Ono također obuhvaća postupak utvrđivanja količine električne energije i vodika proizvedenih iz obnovljivih izvora i stavljenih na tržište za potrebe prijevoza,
+
+40. proizvođač je pravna ili fizička osoba koja proizvodi biogorivo. Proizvođač se smatra distributerom kada proizvodi i stavlja proizvod na tržište,
+
+41. stavljanje na tržište je puštanje u promet i/ili potrošnju dizelskog goriva ili motornog benzina, biogoriva ili mješavine dizelskog goriva ili motornog benzina s biogorivom, električne energije ili vodika za pogon motornih vozila ili brodova u skladu s zakonom kojim se uređuju trošarine, zakonom kojim se uređuje zaštita zraka i zakonom kojim se uređuju tehnički zahtjevi za proizvode i ocjenjivanje sukladnosti,
+
+42. sustavi poticanja proizvodnje i korištenja te istraživanja i razvoja naprednih biogoriva su opći instrumenti koje koristi Republika Hrvatska ili tijela državne uprave, jedinica lokalne i područne (regionalne) samouprave ili javne ustanove kako bi stvorili okvir podrške ili poticaja za sudionike tržišta da proizvode i koriste biogorivo za potrebe prijevoza,
+
+43. trgovac je pravna ili fizička osoba koja kupuje i prodaje biogorivo ili mješavinu biogoriva i dizelskog goriva ili motornog benzina,
+
+44. neposredna potrošnja energije je energetski proizvod isporučen za energetske potrebe industriji, prijevozu, kućanstvima, sektoru usluga, uključujući i javne usluge, poljoprivredi, šumarstvu i ribarstvu, uključujući potrošnju energije u energetskom sektoru za potrebe proizvodnje električne energije, toplinske energije i goriva u prometu, kao i gubitke električne i toplinske energije u distribuciji i prijenosu,
+
+45. uvoznik je trgovac na veliko biogorivom ili gorivom koji stavlja na tržište u Republici Hrvatskoj gorivo ili biogorivo ili mješavinu biogoriva i dizelskog goriva ili motornog benzina proizvedenog u drugoj državi,
+
+46. zahtjev održivosti je zahtjev propisan za proizvodnju i korištenje biogoriva po načelu održivog razvoja, a primjenjuje se kao kriterij pri utvrđivanju ispunjenja nacionalnog cilja za obnovljive izvore energije i obveze stavljanja na tržište obnovljivih izvora energije u prijevozu.
+
+(2) Sirovine za proizvodnju bioplina za promet i naprednih biogoriva čiji se doprinos nacionalnom cilju za obnovljive izvore energiju u prijevozu može smatrati dvostruko većim od njihova energetskog sadržaja su:
+
+1. alge, ako su uzgojene na zemljištu u ribnjacima ili fotobioreaktorima,
+
+2. dio biomase koji odgovara miješanom gradskom otpadu, a ne sortiranom otpadu iz kućanstava, podložan ciljevima recikliranja sukladno zakonu kojim se uređuje područje održivog gospodarenja otpadom,
+
+3. biootpad kako je definiran sukladno zakonu kojim se uređuje područje održivog gospodarenja otpadom iz privatnih kućanstava podložan odvojenom prikupljanju kako je utvrđeno sukladno zakonu kojim se uređuje područje održivog gospodarenja otpadom,
+
+4. dio biomase iz industrijskog otpada koji nije pogodan za korištenje u prehrambenom lancu za ljude ili za životinje, uključujući materijale iz sektora trgovine na malo i veletrgovine te poljoprivredno-prehrambenog sektora i sektora ribarstva i akvakulture, isključujući sirovine navedene u stavku 3. ovoga članka,
+
+5. slama,
+
+6. životinjski gnoj i mulj od rafiniranja,
+
+7. tekući otpad iz uljara za proizvodnju palminog ulja i prazni grozdovi palminog ploda,
+
+8. smola tal ulja,
+
+9. sirovi glicerin,
+
+10. bagasa,
+
+11. otpad od grožđa i vinski talog,
+
+12. orahove ljuske,
+
+13. pljeva,
+
+14. klipovi kukuruza bez zrna,
+
+15. dio biomase iz otpada i ostataka iz šumarstva i industrija koje se temelje na šumarstvu, odnosno kora, grane, pretkomercijalna proreda, lišće, iglice, krošnje stabala, piljevina, trijeske od sječe, crni lug, sulfitna lužina, mulj koji sadrži vlakna, lignin i tal ulje,
+
+16. drugi neprehrambeni celulozni materijal,
+
+17. drugi lignocelulozni materijal uz iznimku pilanskih i furnirskih trupaca.
+
+(3) Sirovine za proizvodnju biogoriva i bioplina za promet, čiji se doprinos nacionalnom cilju za obnovljive izvore energiju ograničava i može se smatrati dvostruko većim od njihova energetskog sadržaja su:
+
+1. korišteno ulje za kuhanje,
+
+2. životinjske masti iz kategorija 1. i 2. u skladu s Uredbom (EZ) br. 1069/2009.«.
+
+#### Članak 5.
+
+Naziv poglavlja IV. iznad naslova članka 7. mijenja se i glasi: »PROGRAMI I PLANOVI POTICANJA PROIZVODNJE I KORIŠTENJA BIOGORIVA I OBNOVLJIVE ENERGIJE U PRIJEVOZU«.
+
+#### Članak 6.
+
+Naslov iznad članka 7. mijenja se i glasi: »Integrirani nacionalni energetski i klimatski plan za Republiku Hrvatsku«.
+
+Članak 7. mijenja se i glasi:
+
+»(1) Integrirani nacionalni energetski i klimatski plan za Repub­liku Hrvatsku je osnovni planski dokument energetske i klimatske politike Republike Hrvatske koji se donosi za razdoblje od deset godina, a kojim je u smislu ovoga Zakona određena putanja nacionalnog cilja za obnovljive izvore energiju u prijevozu i putanja obveze stavljanja na tržište obnovljivih izvora energije u prijevozu za razdoblje od 2021. do 2030. godine i svako sljedeće desetljeće.
+
+(2) Integrirani nacionalni energetski i klimatski plan za Republiku Hrvatsku donosi Vlada Republike Hrvatske, na prijedlog Ministarstva.«.
+
+#### Članak 7.
+
+Naslov iznad članka 8. mijenja se i glasi: »Nacionalni cilj za biogoriva odnosno obnovljivu energiju u prijevozu«.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Nacionalni cilj za biogoriva odnosno obnovljivu energiju u prijevozu određuje se kao udio energije iz obnovljivih izvora energije u godišnjoj neposrednoj potrošnji energije u prijevozu, u koju se uračunava samo energija benzina, dizela, prirodnog plina, biogoriva, bioplina, obnovljivih tekućih i plinovitih goriva nebiološkog podrijetla namijenjenih uporabi u prometu, goriva iz recikliranog ugljika i električna energija isporučena sektorima cestovnog i željezničkog prometa, a izražava se kao postotak u Integriranom nacionalnom energetskom i klimatskom planu, uzimajući u obzir propisane prosječne energijske vrijednosti pojedinih goriva.
+
+(2) U ispunjenju nacionalnog cilja iz stavka 1. ovoga članka sudjeluju: obveznici, korisnici goriva u javnom sektoru i korisnici električne energije u javnom cestovnom i željezničkom prijevozu, županije i veliki gradovi stavljanjem na tržište obnovljive energije u prijevozu, poticanjem energetske učinkovitosti u prometu i izgradnjom infrastrukture za alternativna goriva.
+
+(3) Udio obveznika stavljanja na tržište biogoriva odnosno obnovljive energije u prijevozu (u daljnjem tekstu: udio obveznika) dio je nacionalnog cilja iz stavka 1. ovoga članka, a izražava se kao postotak u Integriranom nacionalnom energetskom i klimatskom planu za svaku godinu u razdoblju od 2021. do 2030. godine.
+
+(4) Za izračun i utvrđivanje ispunjenja nacionalnog cilja iz stavka 1. ovoga članka i udjela obveznika iz stavka 3. ovoga članka primjenjuju se sljedeća pravila:
+
+1. uzima se u obzir isključivo energija biogoriva koja ispunjavaju zahtjev održivosti sukladno odredbama ovoga Zakona, neovisno o tome jesu li sirovine za proizvodnju biogoriva uzgojene u Republici Hrvatskoj ili su uvezene,
+
+2. biogoriva proizvedena iz otpada i ostataka, osim ostataka iz poljoprivrede, akvakulture, ribarstva i šumarstva, moraju ispuniti samo zahtjev smanjenja emisije stakleničkih plinova u odnosu na emisiju koja nastaje korištenjem dizelskog goriva i motornog benzina,
+
+3. za potrebe dokazivanja ispunjenja nacionalnog cilja iz stavka 1. ovoga članka i ispunjenja udjela obveznika iz stavka 3. ovoga članka, energija biogoriva proizvedenih iz sirovina navedenih u članku 4. stavcima 2. i 3. ovoga Zakona uračunava se u dva puta većoj vrijednosti od stvarno potrošene energije u odnosu na biogoriva proizvedena iz drugih sirovina, električna energija iz obnovljivih izvora utrošena u električnim cestovnim vozilima uračunava se u četiri puta većoj vrijednosti od stvarno potrošene energije, a električna energija proizvedena iz obnovljivih izvora potrošena u elektrificiranom željezničkom prijevozu uračunava se u 1,5 puta većoj vrijednosti od stvarno potrošene energije, dok se, uz iznimku goriva proizvedenih iz kultura za proizvodnju hrane i hrane za životinje, energija goriva iz obnovljivih izvora isporučenih u sektoru zrakoplovstva i pomorstva uračunava u 1,2 puta većoj vrijednosti od stvarno potrošene energije,
+
+4. ne uzima se u obzir ona količina dizelskog goriva ili motornog benzina koju pojedini distributer stavlja na tržište radi punjenja obveznih zaliha nafte i naftnih derivata, u skladu sa zakonom kojim se uređuje tržište nafte i naftnih derivata, niti ona količina dizelskog goriva ili motornog benzina koju stavlja na tržište za obrambene potrebe Hrvatske vojske ili za namjene u skladu s međunarodnim obvezama Republike Hrvatske,
+
+5. maksimalni doprinos biogoriva proizvedenih iz kultura za proizvodnju hrane i krmiva u postizanju nacionalnog cilja iz stavka 1. ovoga članka ne može prijeći 7 % u godišnjoj neposrednoj potrošnji energije u prijevozu pri čemu se biogoriva proizvedena iz sirovina navedenih u članku 4. stavcima 2. i 3. ovoga Zakona ne uračunavaju u ovo ograničenje. Prilikom ispunjenja udjela obveznika, maksimalni doprinos biogoriva proizvedenih iz kultura za proizvodnju hrane i krmiva može biti najviše za jedan postotni poen veći od postotnog udjela obveze koju je obveznik ostvario u 2020. godini stavljanjem na tržište biogoriva proizvedenih iz kultura za proizvodnju hrane i krmiva. Ako je obveznik u 2020. godini ostvario udio biogoriva proizvedenih iz kultura za proizvodnju hrane i krmiva manji od 1 %, tada se taj udio može povećati na najviše 2 % u svakoj sljedećoj godini do 2030. godine,
+
+6. prilikom ispunjenja minimalnog udjela obveznika, doprinos naprednih biogoriva i bioplina proizvedenih iz sirovina navedenih u članku 4. stavku 2. ovoga Zakona mora iznositi najmanje 0,2 % u 2022. godine, 1 % u 2025. godini te 3,5 % u 2030. godini,
+
+7. prilikom ispunjenja udjela obveznika iz stavka 3. ovoga članka, udio biogoriva proizvedenih iz sirovina navedenih u članku 4. stavku 3. ovoga Zakona ograničava se na 1,7 % energetskog sadržaja goriva namijenjenih uporabi u prometu koja su isporučena za potrošnju ili uporabu na tržištu,
+
+8. pri izračunu godišnje neposredne potrošnje energije iz obnovljivih izvora za prijevoz iz stavka 1. ovoga članka udio biogoriva, tekućih biogoriva i goriva iz biomase proizvedenih iz kultura za proizvodnju hrane i hrane za životinje s visokim rizikom od neizravnih promjena uporabe zemljišta za koje je uočeno znatno proširenje proizvodnog područja na zemljište s velikim zalihama ugljika, ne prelazi razinu potrošnje takvih goriva u 2019. godini, osim ako su certificirana kao biogoriva, tekuća biogoriva ili goriva iz biomase s niskim rizikom od neizravnih promjena uporabe zemljišta. Od 31. prosinca 2023. do najkasnije 31. prosinca 2030. ta se granica postupno smanjuje do 0 %,
+
+9. postavljeni nacionalni cilj Ministarstvo može revidirati do kraja rujna 2023. godine kako bi se utvrdila mogućnost ostvarenja nacionalnog cilja, uzimajući u obzir tržišni potencijal i cijenu navedenih biogoriva.
+
+(5) Prosječne energijske vrijednosti goriva propisuje ministar pravilnikom.«.
+
+#### Članak 8.
+
+U članku 11. stavak 1. mijenja se i glasi:
+
+»(1) Program poticanja proizvodnje i korištenja biogoriva, odnosno obnovljive energije u prijevozu županije i velikog grada je planski dokument koji se donosi za vrijeme od tri godine, kojim se utvrđuje politika poticanja povećanja proizvodnje i korištenja biogoriva, odnosno obnovljive energije u prijevozu na području županije i velikog grada (u daljnjem tekstu: program županije i velikog grada).«.
+
+U stavku 2. iza riječi: »biogoriva« stavlja se zarez i dodaju riječi: »odnosno obnovljive energije«.
+
+#### Članak 9.
+
+Naslov iznad članka 14. mijenja se i glasi: »Program obveznika stavljanja na tržište biogoriva odnosno obnovljive energije u prijevozu«.
+
+U članku 14. stavak 1. mijenja se i glasi:
+
+»(1) Program obveznika stavljanja na tržište biogoriva odnosno obnovljive energije u prijevozu je planski dokument obveznika koji se donosi za razdoblje od tri godine (u daljnjem tekstu: program obveznika) i koji sadrži sljedeće podatke:
+
+1. predviđene godišnje količine i vrste goriva koje namjerava staviti na tržište,
+
+2. predviđene godišnje količine biogoriva i vrste biogoriva, iz domaće proizvodnje i/ili uvoza koje namjerava staviti na tržište,
+
+3. prosječni godišnji udio biogoriva u pojedinoj vrsti goriva koje namjerava staviti na tržište,
+
+4. predviđene godišnje količine električne energije iz obnovljivih izvora za potrebe prijevoza koje namjerava staviti na tržište putem javno dostupne punionice u svojem vlasništvu,
+
+5. predviđene godišnje količine vodika iz obnovljivih izvora za potrebe prijevoza koje namjerava staviti na tržište,
+
+6. druge podatke o distribuciji biogoriva.«.
+
+U stavku 2. riječi: »stavljanja biogoriva na tržište« brišu se, a riječi: »do kraja listopada tekuće godine« zamjenjuju se riječima: »do 31. listopada tekuće godine«.
+
+#### Članak 10.
+
+Članak 14.a mijenja se i glasi:
+
+»(1) Pravilnikom o mjerama za poticanje korištenja biogoriva u prijevozu, koji donosi ministar, propisuje se način izrade programa i plana obveznika, vođenja registra obveznika, vođenja evidencija o stavljanju na tržište obnovljive energije u prijevozu, izrade izvješća obveznika i odgovarajući obrasci, način vođenja registra korisnika goriva u javnom prijevozu i javnom sektoru, vođenja evidencija korisnika goriva u javnom prijevozu i javnom sektoru o korištenju obnovljive energije u prijevozu, izrade izvješća korisnika goriva u javnom prijevozu i javnom sektoru o korištenju obnovljive energije u prijevozu te odgovarajući obrasci i drugi uvjeti o načinu primjene mjera za poticanje korištenja obnovljive energije u prijevozu.
+
+(2) Pravilnikom iz stavka 1. ovoga članka utvrđuje se i metodologija za izračun nacionalnog cilja za obnovljivu energiju u prijevozu koja služi za utvrđivanje ispunjenja obveze stavljanja na tržište obnovljive energije u prijevozu.«.
+
+#### Članak 11.
+
+Naslov iznad članka 15. mijenja se i glasi: »Plan obveznika«.
+
+U članku 15. stavak 1. mijenja se i glasi:
+
+»(1) Plan obveznika je planski dokument obveznika koji se donosi za vrijeme od jedne godine, a utvrđuje provedbu programa obveznika (u daljnjem tekstu: godišnji plan obveznika) i sadrži sljedeće podatke:
+
+1. predviđene godišnje količine i vrste goriva koje namjerava staviti na tržište,
+
+2. predviđene godišnje količine biogoriva i vrste biogoriva koje namjerava staviti na tržište iz domaće proizvodnje i/ili uvoza,
+
+3. prosječni godišnji udio biogoriva u pojedinoj vrsti goriva koje namjerava staviti na tržište,
+
+4. predviđeni način i mjesto isporuke biogoriva krajnjim korisnicima,
+
+5. druge podatke o distribuciji biogoriva važne za provođenje monitoringa količine biogoriva,
+
+6. predviđene godišnje količine električne energije iz obnovljivih izvora za potrebe prijevoza koje namjerava staviti na tržište putem javno dostupne punionice u svom vlasništvu,
+
+7. predviđene godišnje količine vodika iz obnovljivih izvora za potrebe prijevoza koje namjerava staviti na tržište.«.
+
+U stavku 2. riječi: »stavljanja biogoriva na tržište« brišu se, a riječi: »do kraja listopada tekuće godine« zamjenjuju se riječima: »do 31. listopada tekuće godine«.
+
+#### Članak 12.
+
+Članak 16. mijenja se i glasi:
+
+»(1) U pripremi i provođenju politike poticanja proizvodnje biogoriva, odnosno korištenja obnovljive energije u prijevozu Ministarstvo, u suradnji s ministarstvom nadležnim za poljoprivredu i šumarstvo, ministarstvom nadležnim za promet i ministarstvom nadležnim za financije, ima sljedeće ovlasti:
+
+1. izrađuje Integrirani nacionalni energetski i klimatski plan, dostavlja Integrirani nacionalni energetski i klimatski plan Europskoj komisiji te koordinira aktivnosti u njegovoj provedbi, sukladno članku 3. Uredbe o upravljanju energetskom unijom,
+
+2. ocjenjuje učinak provedbe programa i mjera za poticanje proizvodnje biogoriva, odnosno korištenja obnovljive energije u prijevozu,
+
+3. priprema izvješće o ostvarenju nacionalnog cilja i udjela obveznika određenih Integriranim nacionalnim energetskim i klimatskim planom, u skladu s člankom 17. Uredbe o upravljanju energetskom unijom,
+
+4. provodi politiku Vlade Republike Hrvatske u području poticanja proizvodnje i korištenja biogoriva, odnosno obnovljive energije u prijevozu.
+
+(2) U pripremi i provođenju politike poticanja proizvodnje i korištenja biogoriva, odnosno obnovljive energije u prijevozu Ministarstvo:
+
+1. vodi sustav praćenja proizvodnje i ostvarenja ciljeva u korištenju biogoriva, odnosno obnovljive energije u prijevozu te izrađuje i objavljuje izvješća o postignutim rezultatima,
+
+2. ostvaruje međunarodnu suradnju Republike Hrvatske u području poticanja proizvodnje i korištenja biogoriva, odnosno obnovljive energije u prijevozu,
+
+3. priprema podzakonske akte u području poticanja proizvodnje i korištenja biogoriva, odnosno obnovljive energije u prijevozu koje donosi Vlada Republike Hrvatske ili ministar u skladu s odredbama ovoga Zakona,
+
+4. surađuje s drugim državnim tijelima, jedinicama lokalne i područne (regionalne) samouprave i javnim ustanovama u provedbi politike Vlade Republike Hrvatske u području poticanja proizvodnje i korištenja biogoriva, odnosno obnovljive energije u prijevozu,
+
+5. priprema izvješća o prijenosu pravne stečevine Europske unije, u području poticanja proizvodnje i korištenja biogoriva, odnosno obnovljive energije u prijevozu, u pravni sustav Republike Hrvatske,
+
+6. provodi upravni postupak i odlučuje o pojedinačnim pravima i obvezama u upravnim stvarima, u skladu s odredbama ovoga Zakona.«.
+
+#### Članak 13.
+
+Naziv poglavlja VI. iznad naslova članka 17. mijenja se i glasi: »MJERE ZA POTICANJE PROIZVODNJE I KORIŠTENJA BIOGORIVA I OBNOVLJIVE ENERGIJE U PRIJEVOZU«.
+
+#### Članak 14.
+
+Članak 17.a mijenja se i glasi:
+
+»(1) Proizvodnja i korištenje biogoriva moraju biti u skladu s ciljevima održivog razvoja i ispunjavati zahtjev održivosti i ostvarivati minimalne uštede emisija stakleničkih plinova određene pravilnikom kojim se određuje način i uvjeti primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva.
+
+(2) Zahtjev održivosti obuhvaća zahtjev za:
+
+1. zaštitu zemljišta važnog za očuvanje biološke raznolikosti,
+
+2. zaštitu zemljišta s velikom zalihom ugljika,
+
+3. zaštitu tresetišta,
+
+4. održivo upravljanje zemljištem kako bi se održala ili unaprijedila kvaliteta poljoprivrednog tla, odnosno osiguralo dugoročno održavanje ili jačanje razina zaliha i ponora ugljika u šumi,
+
+5. uštede emisija stakleničkih plinova u odnosu na emisije koje nastaju korištenjem dizelskoga goriva i motornog benzina.
+
+(3) Ispunjenje zahtjeva održivosti iz stavka 2. ovoga članka uvjet je za priznavanje udjela biogoriva za ispunjenje nacionalnog cilja iz članka 7. stavka 1. ovoga Zakona i udjela obveznika iz članka 7. stavka 3. ovoga Zakona.
+
+(4) Način, uvjeti i rok primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva, metodologija za izračun ušteda emisija stakleničkih plinova u odnosu na emisije koje nastaju korištenjem dizelskog goriva i motornog benzina te sadržaj i rokovi godišnjeg izvješćivanja propisuju se pravilnikom koji donosi ministar uz prethodnu suglasnost ministra nadležnog za poljoprivredu i šumarstvo.«.
+
+#### Članak 15.
+
+Naslov iznad članka 23. mijenja se i glasi: »Obveza stavljanja na tržište biogoriva i obnovljive energije u prijevozu«.
+
+Članak 23. mijenja se i glasi:
+
+»(1) Obveznik je dužan tijekom kalendarske godine staviti na tržište onu količinu biogoriva i/ili električne energije i/ili vodika proizvedenih iz obnovljivih izvora čija energijska vrijednost odgovara njegovoj obvezi stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu utvrđenoj primjenom metodologije propisane pravilnikom o mjerama za poticanje korištenja biogoriva u prijevozu.
+
+(2) Obveza stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu iz stavka 1. ovoga članka može se osigurati miješanjem biogoriva, goriva iz recikliranog ugljika ili obnovljivih tekućih i plinovitih goriva nebiološkog podrijetla s dizelskim gorivom ili motornim benzinom ili prirodnim plinom ili stavljanjem čistog biogoriva, goriva iz recikliranog ugljika ili obnovljivih tekućih i plinovitih goriva na tržište, u skladu sa zahtjevom održivosti propisanim odredbama ovoga Zakona i zahtjevom za kakvoću goriva propisanim posebnim propisom.
+
+(3) Obveza stavljanja na tržište obnovljive energije u prijevozu iz stavka 1. ovoga članka može se osigurati i stavljanjem na tržište električne energije proizvedene iz obnovljivih izvora za potrebe prijevoza, putem javno dostupnih punionica u vlasništvu obveznika.
+
+(4) Obveza iz stavka 1. ovoga članka može se prenijeti na treće osobe pisanim ugovorom, koji sadržava podatke o vrsti i količini biogoriva, odnosno obnovljive energije u prijevozu za koju se treća osoba obvezala da će je staviti na tržište, načinu stavljanja na tržište, vremenu ispunjenja obveze i trajanju ugovora.
+
+(5) Ugovor iz stavka 4. ovoga članka dostavlja se Ministarstvu zajedno s obavijesti o prenošenju obveze na treću osobu u elektroničkom i pisanom obliku na obrascu propisanom pravilnikom o mjerama za poticanje korištenja biogoriva u prijevozu.
+
+(6) Ministarstvo će svakom obvezniku izdati registarski broj i voditi registar obveznika u elektroničkom obliku u skladu s pravilnikom iz članka 14.a ovoga Zakona.«.
+
+#### Članak 16.
+
+Naslov iznad članka 25. mijenja se i glasi: »Evidencija stavljanja na tržište obnovljive energije u prijevozu«.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Obveznik je dužan voditi evidenciju o količini i vrsti biogoriva, odnosno obnovljive energije stavljene na tržište za potrebe prijevoza na propisani način.
+
+(2) Ako je obveza prenesena na treću osobu, evidenciju o količini i vrsti biogoriva, odnosno obnovljive energije stavljene na tržište za potrebe prijevoza za obveznika vodi treća osoba.
+
+(3) Obveznici unose informacije potrebne za provjeru usklađenosti s ispunjenjem udjela obveznika prema pravilniku iz članka 14.a ovoga Zakona izravno u bazu podataka Europske unije.
+
+(4) Republika Hrvatska surađuje s drugim državama članicama i Europskom komisijom u cilju smanjenja rizika višestruke deklaracije jedinstvene pošiljke u Europskoj uniji uključujući prema potrebi i razmjenu podataka iz sustava i programa uspostavljenih na temelju ovoga Zakona te obavještavanje o prijevari ili sumnji na prijevaru.«.
+
+#### Članak 17.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Obveznik izrađuje Izvješće o provedbi godišnjeg plana obveznika koje sadrži podatke i analizu ispunjenja udjela obveznika u prethodnoj godini i buduće mjere (u daljnjem tekstu: Izvješće obveznika).
+
+(2) Ako je obveznik stavio na tržište manju količinu biogoriva, odnosno obnovljive energije u prijevozu u odnosu na količinu za koju je obvezan, dužan je u Izvješću obveznika naznačiti tu nedostajuću količinu i za nju platiti posebnu naknadu za okoliš iz članka 21. ovoga Zakona.
+
+(3) Izvješće obveznika podnosi se Ministarstvu do 28. veljače tekuće godine za prethodnu godinu. Izvješće obveznika dostavlja se Ministarstvu u elektroničkom i pisanom obliku na propisanom obrascu.
+
+(4) Ako je obveza stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu prenesena na treću osobu, obveznik je dužan u Izvješću obveznika naznačiti količinu koju je treća osoba stavila na tržište u ispunjenju ugovornih obveza prema obvezniku.
+
+(5) Sastavni dio Izvješća obveznika je izvješće o provedbi monitoringa količine biogoriva, odnosno obnovljive energije u prijevozu za prethodnu godinu koje je izradila ovlaštena osoba za monitoring količine obnovljive energije u prijevozu.«.
+
+#### Članak 18.
+
+Članak 27. mijenja se i glasi:
+
+»(1) Ministarstvo utvrđuje ispunjenje obveze stavljanja na tržište biogoriva i obnovljive energije u prijevozu za prethodnu godinu najkasnije do 30. travnja tekuće godine i obvezniku izdaje potvrdu.
+
+(2) Potvrda iz stavka 1. ovoga članka nije upravni akt, a Ministarstvo je donosi na temelju:
+
+1. izvješća obveznika,
+
+2. dokaza o ispunjenju zahtjeva održivosti,
+
+3. izvješća o monitoringu količine biogoriva, odnosno obnovljive energije u prijevozu.
+
+(3) Ako obveznik nije ispunio propisane obveze iz stavka 1. ovoga članka, Ministarstvo donosi rješenje kojim utvrđuje energetsku vrijednost obnovljive energije u prijevozu koju je obveznik propustio staviti na tržište u prethodnoj godini sukladno članku 21. ovoga Zakona te određuje iznos posebne naknade koju je obveznik dužan platiti.
+
+(4) Protiv rješenja Ministarstva iz stavka 3. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+(5) Za izračun i utvrđivanje ispunjenja obveze stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu uzima se u obzir samo ona energija biogoriva koja ispunjava zahtjev održivosti propisan ovim Zakonom neovisno o tome jesu li sirovine za proizvodnju biogoriva uzgojene u Republici Hrvatskoj ili su uvezene.
+
+(6) Za izračun i utvrđivanje ispunjenja obveze obveznika uzima se u obzir i električna energija iz obnovljivih izvora stavljena na tržište putem javno dostupnih punionica i energija vodika proizvedenog iz obnovljivih izvora i stavljena na tržište za potrebe prijevoza.«.
+
+#### Članak 19.
+
+Naslov iznad članka 28. mijenja se i glasi: »Utvrđivanje na temelju monitoringa biogoriva, odnosno obnovljive energije u prijevozu«.
+
+Članak 28. mijenja se i glasi:
+
+»(1) Ministarstvo utvrđuje ispunjenje obveze stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu na temelju podataka iz izvješća o monitoringu obnovljive energije stavljene na tržište za potrebe prijevoza.
+
+(2) Obveznik iz stavka 1. ovoga članka stavlja na tržište biogoriva, odnosno obnovljivu energiju za potrebe prijevoza uz uvjet da je prethodno ishodio od Ministarstva potvrdu programa monitoringa biogoriva, odnosno obnovljive energije u prijevozu. Potvrda nije upravni akt.
+
+(3) Obveznik iz stavka 1. ovoga članka dužan je, uz zahtjev, dostaviti program monitoringa biogoriva, odnosno obnovljive energije u prijevozu koji sadrži utvrđen opseg i način stavljanja na tržište biogoriva, odnosno obnovljive energije za potrebe prijevoza, uz poštivanje propisanih zahtjeva za kakvoću goriva, a osobito podatke:
+
+1. o vrsti biogoriva,
+
+2. o načinu umješavanja biogoriva u dizelsko gorivo ili motorni benzin,
+
+3. o mjestu umješavanja biogoriva s dizelskim gorivom ili motornim benzinom,
+
+4. o izdavanju potvrde (certifikata) o sukladnosti,
+
+5. o načinu provjere vjerodostojnosti podataka iz točke 1. do točke 4. ovoga stavka,
+
+6. o provjeravanju količine biogoriva u pojedinim pošiljkama goriva,
+
+7. o načinu i mjestu isporuke biogoriva krajnjem korisniku,
+
+8. druge podatke iz godišnjeg plana obveznika,
+
+9. o količini i podrijetlu električne energije iz obnovljivih izvora za potrebe prijevoza koje je obveznik stavio na tržište putem javno dostupne punionice u svojem vlasništvu,
+
+10. o količini i podrijetlu vodika uz potvrdu (certifikat) o podrijetlu.
+
+(4) Obveznik iz stavka 1. ovoga članka mora osigurati provođenje monitoringa količine biogoriva, odnosno obnovljive energije u prijevozu po programu koji je Ministarstvo potvrdilo.
+
+(5) Program monitoringa količine biogoriva, odnosno obnovljive energije u prijevozu smiju provoditi samo ovlaštene osobe za monitoring količine biogoriva, odnosno obnovljive energije u prijevozu.
+
+(6) Obveznik i ovlaštena osoba ugovorom u pisanom obliku uređuju sva pitanja povezana s provođenjem monitoringa količine biogoriva, odnosno obnovljive energije u prijevozu. Troškove provođenja monitoringa količine biogoriva, odnosno obnovljive energije snosi obveznik.«.
+
+#### Članak 20.
+
+Naslov iznad članka 29. mijenja se i glasi: »Posebna naknada za okoliš zbog nestavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu«.
+
+Članak 29. mijenja se i glasi:
+
+»(1) Ako je obveznik u prethodnoj kalendarskoj godini propustio staviti na tržište propisanu količinu biogoriva, odnosno obnovljive energije u prijevozu, dužan je platiti posebnu novčanu naknadu za okoliš, po načelu onečišćivač plaća, zbog nestavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu.
+
+(2) Posebna naknada za okoliš iz stavka 1. ovoga članka određuje se rješenjem Ministarstva, a plaća se u korist Fonda. Protiv rješenja Ministarstva žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+(3) Ako treća osoba iz članka 16. stavka 4. ovoga Zakona propusti ispuniti obvezu stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu koju je preuzela u ime i za račun obveznika, Ministarstvo će obvezu plaćanja naknade iz stavka 1. ovoga članka odrediti obvezniku.
+
+(4) Posebna naknada za okoliš iz stavka 1. ovoga članka određuje se u novčanom iznosu po jedinici energije ovisno o količini biogoriva, odnosno obnovljive energije koju je obveznik propustio staviti na tržište izračunano na temelju njihove energijske vrijednosti. Uredbom o posebnoj naknadi za okoliš zbog nestavljanja biogoriva, odnosno obnovljive energije u prijevozu na tržište propisuju se ostali elementi i visina posebne naknade za okoliš te rok plaćanja, i uvjeti po kojima se može ostvariti popust i visina popusta na jednokratno plaćanje te uvjeti, kriteriji i postupak obročne otplate. Uredbu donosi Vlada Republike Hrvatske na prijedlog Ministarstva.«.
+
+#### Članak 21.
+
+U članku 29.a stavak 1. mijenja se i glasi:
+
+»(1) Obveznik je dužan smanjivati emisije stakleničkih plinova u životnom vijeku isporučenog tekućeg naftnog goriva i energije, koje je stavio na tržište Republike Hrvatske, u odnosu na razinu emisije iz 2010. godine, koja je iznosila 94,1 gCO<sub>2eg</sub>/MJ, u iznosu od najmanje 6 %.«.
+
+#### Članak 22.
+
+U članku 30. stavku 1. točka 1. mijenja se i glasi:
+
+»1. biogorivo umiješano u dizelsko gorivo ili motorni benzin s visokim udjelima biogoriva većim od B7, E5 i E10 ili«.
+
+Točka 4. briše se.
+
+Dosadašnje točke 5. i 6. postaju točke 4. i 5.
+
+U stavku 3. riječi: »stavljanja biogoriva na tržište« brišu se, a riječi: »dužan je« zamjenjuju se riječima: »je dužan«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Za potrebe korisnika goriva u javnom prijevozu i javnom sektoru obveznik je dužan osigurati isporuku biogoriva umiješanog u dizelsko gorivo ili motorni benzin s visokim udjelima biogoriva do B7, E5 i E10, odnosno do razine udjela biogoriva u važećim normama HRN EN 228 i HRN EN 590.«.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Radi postizanja nacionalnog cilja iz članka 8. ovoga Zakona, korisnik električne energije u javnom obalnom linijskom prijevozu dužan je za potrebe prijevoza nabavljati isključivo električnu energiju proizvedenu iz postrojenja koje koristi obnovljive izvore energije, a koja je u sustavu jamstva podrijetla.«.
+
+#### Članak 23.
+
+U članku 31. stavku 1. iza prve riječi: »biogoriva« dodaju se riječi: »i obnovljive energije u prijevozu«.
+
+U stavku 4. iza riječi: »biogoriva« dodaju se riječi: »i obnovljive energije u prijevozu«.
+
+#### Članak 24.
+
+U članku 32. stavak 4. mijenja se i glasi:
+
+»(4) Osim ovlasti iz stavka 3. ovoga članka nadležni inspektori iz stavka 2. ovoga članka ovlašteni su i:
+
+1. narediti obvezniku dostavljanje Ministarstvu programa obveznika (članak 14. stavak 2.),
+
+2. narediti obvezniku dostavljanje Ministarstvu plana obveznika (članak 15. stavak 2.),
+
+3. narediti obvezniku provođenje obveze stavljanja na tržište biogoriva, odnosno obnovljive energije za potrebe prijevoza (članak 23. stavak 1.),
+
+4. narediti obvezniku vođenje evidencije o količini i vrsti biogoriva, odnosno obnovljive energije u prijevozu stavljene na tržište (članak 25.),
+
+5. narediti obvezniku dostavljanje Ministarstvu izvješća o provedbi godišnjeg plana obveznika (članak 26.),
+
+6. narediti obvezniku dostavljanje Ministarstvu programa monitoringa količine biogoriva, odnosno obnovljive energije u prijevozu (članak 28.),
+
+7. narediti korisniku goriva u javnom prijevozu i javnom sektoru vođenje evidencije o ispunjenju obveze korištenja biogoriva, odnosno obnovljive energije u prijevozu (članak 25. stavak 1.),
+
+8. narediti korisniku goriva u javnom prijevozu i javnom sektoru dostavljanje izvješća Ministarstvu o ispunjenju obveze korištenja biogoriva, odnosno obnovljive energije u prijevozu (članak 31.).«.
+
+#### Članak 25.
+
+Članak 33. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 10.000,00 do 150.000,00 kuna kaznit će se za prekršaj pravna osoba, obveznik stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu ako:
+
+1. ne dostavi Ministarstvu program obveznika do 31. listopada tekuće godine na način određen sukladno članku 14. stavku 2. ovoga Zakona,
+
+2. ne dostavi Ministarstvu godišnji plan obveznika do 31. listopada tekuće godine na način određen sukladno članku 15. stavku 2. ovoga Zakona,
+
+3. ne ispunjava obvezu tijekom kalendarske godine stavljanja na tržište biogoriva i/ili električne energije i/ili vodika proizvedenih iz obnovljivih izvora odnosno obnovljive energije u prijevozu na način kako to određuje članak 23. stavak 1. ovoga Zakona,
+
+4. ne izradi i ne dostavi Ministarstvu izvješće o provedbi godišnjeg plana obveznika na način određen u članku 26. stavcima 1., 2. i 4. ovoga Zakona,
+
+5. ne dostavi Ministarstvu izvješće o provedbi godišnjeg plana obveznika do 28. veljače tekuće godine za prethodnu godinu na način određen sukladno članku 26. stavku 3. ovoga Zakona,
+
+6. ne ishodi od Ministarstva potvrdu programa monitoringa biogoriva, odnosno obnovljive energije u prijevozu sukladno članku 28. stavku 2. ovoga Zakona,
+
+7. ne dostavi Ministarstvu program monitoringa biogoriva, odnosno obnovljive energije u prijevozu sukladno članku 28. stavku 3. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba pravne osobe obveznika stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu.
+
+(3) Novčanom kaznom u iznosu od 2.000 do 50.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka fizička osoba obrtnik ili osoba koja obavlja samostalnu djelatnost, a obveznik je stavljanja na tržište biogoriva, odnosno obnovljive energije u prijevozu.«.
+
+#### Članak 26.
+
+U članku 36. stavku 1. iza riječi: »biogoriva« stavlja se zarez i dodaju riječi: »odnosno obnovljive energije u prijevozu«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 27.
+
+(1) Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti Uredbu o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova (»Narodne novine«, br. 116/18.) s odredbama ovoga Zakona.
+
+(2) Ministar će u roku od 30 dana od dana stupanja na snagu ovoga Zakona uskladiti Pravilnik o mjerama za poticanje korištenja biogoriva u prijevozu (»Narodne novine«, br. 42/10. i 119/18.), Pravilnik o načinu i uvjetima primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva (»Narodne novine«, br. 83/13. i 118/18.) i Pravilnik o utvrđivanju prosječnih energijskih vrijednosti goriva (»Narodne novine«, br. 36/11.) s odredbama ovoga Zakona.
+
+#### Članak 28.
+
+(1) Do stupanja na snagu uredbe iz članka 21. ovoga Zakona primjenjuje se Uredba o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova (»Narodne novine«, br. 116/18.).
+
+(2) Do stupanja na snagu pravilnika iz članka 7. ovoga Zakona primjenjuje se Pravilnik o utvrđivanju prosječnih energijskih vrijednosti goriva (»Narodne novine«, br. 36/11.).
+
+(3) Do stupanja na snagu pravilnika iz članka 10. ovoga Zakona primjenjuje se Pravilnik o mjerama za poticanje korištenja biogoriva u prijevozu (»Narodne novine«, br. 42/10. i 119/18.).
+
+(4) Do stupanja na snagu pravilnika iz članka 15. ovoga Zakona primjenjuje se Pravilnik o načinu i uvjetima primjene zahtjeva održivosti u proizvodnji i korištenju biogoriva (»Narodne novine«, br. 83/13 i 118/18.).
+
+#### Članak 29.
+
+Postupci započeti do dana stupanja na snagu ovoga Zakona prema odredbama Zakona o biogorivima za prijevoz (»Narodne novine«, br. 65/09., 145/10., 26/11., 144/12., 14/14. i 94/18.) dovršit će se prema odredbama toga Zakona i provedbenih propisa donesenih na temelju njega.
+
+#### Članak 30.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/18
+
+Zagreb, 7. svibnja 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

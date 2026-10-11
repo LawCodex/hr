@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-07-17
+last_amended: 2019-11-15
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "78/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "78/15, 118/18, 110/19"
+amendments:
+  - "NN 118/2018 (2350) Zakon o izmjenama i dopunama Zakona o poslovima i djelatnostima prostornog uređenja i gradnje"
+  - "NN 110/2019 (2215) Zakon o izmjenama i dopunama Zakona o poslovima i djelatnostima prostornog uređenja i gradnje"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/78/1489"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o poslovima i djelatnostima prostornog uređenja i gradnje
 
 > Izvor: Narodne novine, NN 78/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/78/1489).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 118/2018, NN 110/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -968,3 +973,983 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o poslovima i djelatnostima prostornog uređenja i gradnje (NN 118/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/118/2350*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POSLOVIMA I  
+DJELATNOSTIMA PROSTORNOG UREĐENJA I GRADNJE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o poslovima djelatnostima prostornog uređenja i gradnje, koji je Hrvatski sabor donio na sjednici 14. prosinca 2018.
+
+Klasa: 011-01/18-01/231
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POSLOVIMA I DJELATNOSTIMA PROSTORNOG UREĐENJA I GRADNJE**
+
+### Članak 1.
+
+U Zakonu o poslovima i djelatnostima prostornog uređenja i gradnje (»Narodne novine«, br. 78/15.) u članku 1. stavak 1. mijenja se i glasi:
+
+»(1) Ovim se Zakonom uređuje obavljanje stručnih poslova i djelatnosti prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, građenja, upravljanja projektom gradnje te ispitivanja i prethodnih istraživanja, propisuju se zadaće struka, stručni ispit i stručno usavršavanje te uvjeti za strane osobe koje obavljaju poslove i djelatnosti prostornog uređenja i gradnje.«.
+
+### Članak 2.
+
+U članku 3. stavak 1. mijenja se i glasi:
+
+»(1) Pod obavljanjem stručnih poslova prostornog uređenja, koje se smatra negospodarskom uslugom od općeg interesa, u smislu ovoga Zakona, podrazumijeva se izrada nacrta prostornih planova i nacrta izvješća o stanju u prostoru te obavljanje poslova u vezi s pripremom i donošenjem prostornih planova i izvješća o stanju u prostoru.«.
+
+U stavku 9. riječ: »ovlaštene« zamjenjuje se riječju: »ovlaštenje«.
+
+Iza stavka 9. dodaje se novi stavak 10. koji glasi:
+
+»(10) Komora, u smislu ovoga Zakona, je Hrvatska komora arhitekata, Hrvatska komora inženjera građevinarstva, Hrvatska komora inženjera strojarstva i Hrvatska komora inženjera elektrotehnike.«.
+
+Dosadašnji stavci 10. i 11. postaju stavci 11. i 12.
+
+### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»Za obavljeni posao pravna osoba ili fizička osoba koja obavlja poslove i djelatnosti prostornog uređenja, projektiranja i/ili stručnog nadzora građenja te pravna ili fizička osoba obrtnik koja obavlja djelatnosti građenja, ispitivanja i prethodnih istraživanja ili upravljanja projektom gradnje odgovaraju investitoru i drugim osobama prema odredbama ovoga Zakona te posebnih propisa.«.
+
+### Članak 4.
+
+U članku 8. riječi: »ovlaštenog arhitekta« i riječi: »ili Hrvatskom zavodu za prostorni razvoj« brišu se.
+
+### Članak 5.
+
+U članku 12. iza stavka 2. dodaje se novi stavak 3. i stavak 4. koji glase:
+
+»3) Rješenje o upisu u upisnik ureda za samostalno obavljanje stručnih poslova prostornog uređenja donosi Hrvatska komora arhitekata.
+
+(4) Protiv rješenja kojim je odlučeno o zahtjevu za upis ureda za samostalno obavljanje stručnih poslova prostornog uređenja u upisnik koji vodi Hrvatska komora arhitekata i rješenja o brisanju iz tog upisnika može se izjaviti žalba Ministarstvu.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 5., iza riječi: »graditeljstvu« dodaju se riječi: »prema posebnom propisu kojim se uređuje polaganje stručnog ispita«.
+
+### Članak 6.
+
+U članku 13. stavak 2. mijenja se i glasi:
+
+»(2) Zajednički ured za obavljanje poslova prostornog uređenja osniva se upisom u upisnik zajedničkih ureda Hrvatske komore arhitekata, na zahtjev ovlaštenih arhitekata koji su sklopili ugovor iz stavka 1. ovoga članka.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»3) Rješenje o upisu u upisnik zajedničkih ureda donosi Hrvatska komora arhitekata.
+
+(4) Protiv rješenja kojim je odlučeno o zahtjevu za upis zajedničkih ureda u upisnik koji vodi Hrvatska komora arhitekata i rješenja o brisanju iz tog upisnika može se izjaviti žalba Ministarstvu.«.
+
+### Članak 7.
+
+U članku 15. stavak 1. mijenja se i glasi:
+
+»(1) Ovlašteni arhitekt urbanist koji samostalno obavlja stručne poslove prostornog uređenja, odnosno pravna osoba registrirana za obavljanje stručnih poslova prostornog uređenja, ovisno o razini i sadržaju prostornog plana koji izrađuje u izradi nacrta prostornog plana, po potrebi osigurat će sudjelovanje:
+
+– ovlaštenog inženjera građevinarstva, ovlaštenog inženjera prometa, odnosno ovlaštenog inženjera strojarstva, ovlaštenog inženjera elektrotehnike, s najmanje dvije godine radnog iskustva na poslovima prostornog uređenja
+
+– magistra geografije, odnosno magistra inženjera biologije, ekologije, krajobrazne arhitekture, šumarstva, agronomije ili slične struke koji ima najmanje dvije godine radnog iskustva na poslovima prostornog uređenja i
+
+– magistra ekonomije, sociologije, prava ili slične struke koji ima najmanje dvije godine radnog iskustva na poslovima prostornog uređenja.«.
+
+### Članak 8.
+
+U članku 16. riječi: »zajednički ured,« brišu se.
+
+### Članak 9.
+
+U članku 17. riječi: »i/ili glavnog projektanta« brišu se.
+
+### Članak 10.
+
+U članku 20. iza stavka 1. dodaje se novi stavak 2. i stavak 3. koji glase:
+
+»(2) Rješenje o upisu u upisnik ureda za samostalno obavljanje poslova projektiranja i/ili stručnog nadzora građenja donosi Komora.
+
+(3) Protiv rješenja kojim je odlučeno o zahtjevu za upis ureda za samostalno obavljanje poslova projektiranja i/ili stručnog nadzora građenja u upisnik koji vodi Komora i rješenja o brisanju iz tog upisnika može se izjaviti žalba Ministarstvu.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+### Članak 11.
+
+U članku 21. stavak 2. mijenja se i glasi:
+
+»(2) Zajednički ured osniva se upisom u upisnik zajedničkih ureda odgovarajuće komore na zahtjev ovlaštenih arhitekata i/ili ovlaštenih inženjera koji su sklopili ugovor iz stavka 1. ovoga članka.«.
+
+Iza stavka 2. dodaje se novi stavak 3. i stavci 4. i 5. koji glase:
+
+»3) Zajednički ured koji osnivaju ovlašteni arhitekti ili ovlašteni inženjeri istih struka osniva se upisom u upisnik zajedničkih ureda Komore u koju se udružuje njihova struka, a zajednički ured koji osnivaju ovlašteni arhitekt i ovlašteni inženjer ili ovlašteni inženjeri različitih struka osniva se upisom u upisnik zajedničkih ureda Komore određene ugovorom iz stavka 1. ovoga članka.
+
+(4) Rješenje o upisu u upisnik zajedničkih ureda donosi Komora.
+
+(5) Protiv rješenja kojim je odlučeno o zahtjevu za upis zajedničkih ureda u upisnik koji vodi Komora i rješenja o brisanju iz tog upisnika može se izjaviti žalba Ministarstvu.«.
+
+Dosadašnji stavak 3. postaje stavak 6.
+
+### Članak 12.
+
+U članku 22. ispred riječi: »Pravna osoba« stavlja se oznaka stavka: »(1)« i dodaje se stavak 2. koji glasi:
+
+»(2) Ovisno o građevini koju projektira, odnosno na kojoj provodi stručni nadzor građenja, pravna osoba iz stavka 1. ovoga članka koja nema zaposlene sve potrebne ovlaštene inženjere, odnosno ovlaštenog arhitekta iste mora osigurati putem ugovora u skladu s odredbama posebnih propisa.«.
+
+### Članak 13.
+
+U članku 23. riječi: »uređuje građenje« zamjenjuju se riječima: »uređuje gradnja«.
+
+### Članak 14.
+
+Naslov iznad članka 24. mijenja se i glasi: »Inženjer gradilišta«.
+
+Članak 24. mijenja se i glasi:
+
+»(1) Poslove inženjera gradilišta obavlja ovlašteni voditelj građenja, sukladno zakonu kojim se uređuje udruživanje u Komoru.
+
+(2) Ovlašteni voditelj građenja iz stavka 1. ovoga članka vodi građenje, odnosno izvođenje građevinskih i drugih radova različitih struka kojima se gradi nova građevina, rekonstruira, održava ili uklanja postojeća građevina.
+
+(3) Ovlašteni voditelj građenja je osoba arhitektonske, građevinske, strojarske ili elektrotehničke struke koja ispunjava uvjete propisane zakonom kojim se uređuje udruživanje u Komoru.
+
+(4) Ovlašteni voditelj građenja može, u okviru zadaća svoje struke, obavljati poslove ovlaštenog voditelja radova.«.
+
+### Članak 15.
+
+Naslov iznad članka 25. mijenja se i glasi: »Voditelj radova«.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Poslove voditelja radova u svojstvu odgovorne osobe obavlja ovlašteni voditelj radova, sukladno zakonu kojim se uređuje udruživanje u Komoru.
+
+(2) Ovlašteni voditelj radova iz stavka 1. ovoga članka, u okviru zadaća svoje struke, vodi izvođenje građevinskih i drugih radova: pripremnih, zemljanih, konstruktorskih, instalaterskih, završnih te ugradnju građevnih proizvoda, opreme ili postrojenja.
+
+(3) Ovlašteni voditelj radova je osoba arhitektonske, građevinske, strojarske, elektrotehničke ili geotehničke, odnosno geoinženjerske struke koja ispunjava uvjete propisane zakonom kojim se uređuje udruživanje u Komoru.«.
+
+### Članak 16.
+
+Iza članka 25. dodaju se naslovi iznad članaka te članci 25.a i 25.b koji glase:
+
+*»Vođenje manje složenih radova*
+
+### Članak 25.a
+
+(1) Poslove vođenja manje složenih radova, osim osobe iz članka 25. ovoga Zakona, može obavljati osoba koja je završila odgovarajuću srednju školu po programu za tehničara odgovarajuće struke te ima najmanje pet godina radnog iskustva u struci i položen stručni ispit, odnosno osoba koja ima položen majstorski ispit ili priznati majstorski status iz područja graditeljstva koja te poslove obavlja u okviru svojeg majstorskog zvanja.
+
+(2) Manje složene radove koje vode osobe iz stavka 1. ovoga članka propisat će ministar pravilnikom.
+
+*Posebni slučajevi u građenju*
+
+### Članak 25.b
+
+(1) Ako se na građevini izvode manje složeni radovi različitih struka, za vođenje tih radova može se imenovati ovlašteni voditelj radova.
+
+(2) Izvođač iz članka 29. stavka 1. ovoga Zakona, koji za pojedini rad nema zaposlenu osobu s odgovarajućim stručnim kvalifikacijama, sudjelovanje te osobe u građenju građevine koju gradi može osigurati sklapanjem ugovora o poslovnoj suradnji s drugom pravnom ili fizičkom osobom obrtnikom koja izvodi radove na istoj građevini, registrirana je za obavljanje djelatnosti građenja i ima zaposlenu takvu osobu.
+
+(3) U slučaju iz stavka 2. ovoga članka inženjer gradilišta i/ili voditelj radova, koji je zaposlenik izvođača, obavlja poslove inženjera gradilišta i/ili voditelja radova i za drugu pravnu ili fizičku osobu obrtnika s kojom je izvođač sklopio ugovor o poslovnoj suradnji.«.
+
+### Članak 17.
+
+Članci 26., 27. i 28. brišu se.
+
+### Članak 18.
+
+U članku 29. ispred riječi: »Graditi i/ili« stavlja se oznaka stavka: »(1)« i dodaje se stavak 2. koji glasi:
+
+»(2) Izvođač je dužan osigurati da pojedini rad obavlja osoba koja ima odgovarajuće stručne kvalifikacije.«.
+
+### Članak 19.
+
+U članku 30. stavku 1. iza riječi: »ovlaštenog voditelja radova« točka se zamjenjuje zarezom te se dodaju riječi: »odnosno osobu za vođenje manje složenih radova, ovisno o radovima koje izvodi, osim u slučajevima iz članka 25.b ovoga Zakona.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Izvođač je dužan osigurati se od odgovornosti za štetu koju bi obavljanjem poslova, odnosno djelatnosti mogao učiniti investitoru ili drugim osobama za sve vrijeme obavljanja poslova, odnosno djelatnosti.«.
+
+### Članak 20.
+
+U članku 31. iza riječi: »građevine« dodaju se riječi: »te obavljanje ispitivanja iz članka 40. ovoga Zakona.«.
+
+### Članak 21.
+
+Članak 33. mijenja se i glasi:
+
+»Djelatnost upravljanja projektom gradnje obuhvaća sljedeće poslove:
+
+– financijsko, pravno i tehničko savjetovanje u vezi s projektiranjem, građenjem, uporabom i uklanjanjem građevina
+
+– financijska, pravna i tehnička priprema i planiranje poslova u vezi s gradnjom te praćenje provođenja tog plana
+
+– programiranje i planiranje u fazi koncipiranja projekta, što uključuje prikupljanje podataka, razvoj programa projekta i praćenje provođenja tog programa
+
+– savjetovanje, odabir i ugovaranje poslova za projektanta, revidenta, nadzornog inženjera, izvođača, ovlaštenog inženjera geodezije i drugih osoba koje obavljaju poslove u vezi s gradnjom građevina te savjetovanje u ugovaranju poslova s tim osobama
+
+– povezivanje i usklađivanje rada projektanta, revidenta, nadzornog inženjera, izvođača, ovlaštenog inženjera geodezije i drugih osoba koje sudjeluju u gradnji te nadzor nad njihovim radom u svrhu zaštite prava i interesa investitora
+
+– pribavljanje akata, analiza, studija, elaborata i drugih dokumenata potrebnih za izradu idejnog, glavnog i izvedbenog projekta te projekta uklanjanja građevine
+
+– pribavljanje svih dokumenata i sklapanje svih pravnih poslova potrebnih za izdavanje akata za provođenje prostornih planova, građenja, uporabu i/ili uklanjanje građevina i pribavljanje tih akata
+
+– pribavljanje svih dokumenata i sklapanje svih pravnih poslova potrebnih za građenje građevine te obavljanje radnji koje je investitor dužan obavljati tijekom građenja građevine
+
+– razvoj sustava kontrole projekta te praćenje i kontrola realizacije, što uključuje izradu i prikaz planiranog vremenskog izvršenja s angažiranim resursima, ažuriranje početno planiranog u odnosu na realizaciju projekta, dinamičku analizu rizika kroz cjeloživotni vijek projekta, izvješća o kontroli kvalitete ostvarenja investicija, prijedloge rješenja tekućih ili predviđenih problema u vremenskom, tehnološkom i troškovnom aspektu realizacije.«.
+
+### Članak 22.
+
+U članku 36. stavak 1. briše se.
+
+U stavku 2., koji postaje stavak 1., riječi: »projektant i« brišu se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+### Članak 23.
+
+U članku 37. stavku 1. riječi: »s obrazovanjem iz područja arhitekture« zamjenjuju se riječima: »s obrazovanjem iz znanstvenog područja tehničkih znanosti u nekom od znanstvenih polja: arhitekture i urbanizma«.
+
+U stavku 2. podstavku 2. riječi: »obrazovanje iz područja arhitekture« zamjenjuju se riječima: »obrazovanje iz znanstvenog područja tehničkih znanosti u nekom od znanstvenih polja: arhitekture i urbanizma«.
+
+### Članak 24.
+
+U članku 38. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Voditelja projekta imenuje investitor radi optimizacije utrošaka sredstava i vremena prije donošenja investicijske odluke i planiranja proračunskih sredstava te radi zakonite i kvalitetne pripreme projekta te njegove uspješne provedbe.
+
+(2) Investitori koji se u smislu propisa kojima se uređuje javna nabava smatraju obveznicima javne nabave obvezni su imenovati voditelja projekta u slučaju:
+
+1. ulaganja sredstava u gradnju infrastrukturnih i drugih građevina, osim cesta, ukupne investicijske vrijednosti veće od 10.000.000,00 kuna bez PDV-a
+
+2. ulaganja sredstava u gradnju cesta ukupne investicijske vrijednosti veće od 50.000.000,00 kuna bez PDV-a
+
+3. ulaganja sredstava u gradnju zgrada javne namjene ukupne investicijske vrijednosti veće od 35.000.000,00 kn bez PDV-a
+
+4. ulaganja sredstava u istodobnu gradnju više zgrada koje su djelomično ili potpuno namijenjene stanovanju, grade se na području istoga grada ili općine i imaju ukupno više od stotinu stanova.«.
+
+### Članak 25.
+
+Članak 42. mijenja se i glasi:
+
+»(1) Djelatnost ispitivanja obavlja pravna osoba ili fizička osoba obrtnik koja:
+
+– je registrirana za djelatnost tehničkog ispitivanja i analize
+
+– je osigurala i imenovala stručnu osobu za obavljanje ispitivanja
+
+– u ispitivanju koristi umjerene instrumente i/ili opremu.
+
+(2) Popis ispitivanja i svojstva za koja je uz uvjete iz stavka 1. ovoga članka potrebno imati i potvrdu o akreditaciji prema normi HRN EN ISO/IEC 17025 koju je izdalo nacionalno akreditacijsko tijelo propisuje ministar pravilnikom.«.
+
+### Članak 26.
+
+Članak 43. mijenja se i glasi:
+
+»1) Djelatnost prethodnih istraživanja obavlja pravna osoba ili fizička osoba obrtnik koja:
+
+– je registrirana za djelatnost tehničkog ispitivanja i analize
+
+– je osigurala i imenovala stručnu osobu za obavljanje prethodnih istraživanja.
+
+(2) Stručna osoba za obavljanje prethodnih istraživanja u području elektrotehnike i strojarstva može ujedno biti i stručna osoba za obavljanje poslova ispitivanja.«.
+
+### Članak 27.
+
+Članak 44. briše se.
+
+### Članak 28.
+
+U članku 48. iza riječi: »prometnu« zarez i riječ: »komunalnu« brišu se.
+
+### Članak 29.
+
+Članak 49. mijenja se i glasi:
+
+»Zadaće arhitektonske struke u obavljanju poslova projektiranja su:
+
+– izrada arhitektonskih projekata: za zgrade, za krajobrazno uređenje građevina i krajobraznu arhitekturu te projekata instalacije vodovoda i kanalizacije u zgradama
+
+– izrada iskaza procijenjenih troškova građenja, u okviru zadaća za koje je arhitektonska struka ovlaštena za projektiranje
+
+– izrada arhitektonskog projekta postojećeg stanja za sve građevine, u okviru zadaća za koje je arhitektonska struka ovlaštena za projektiranje
+
+– utvrđivanje ispunjavanja temeljnih zahtjeva za građevinu za sve građevine s izradom dokaza o ispunjavanju temeljnih zahtjeva, u okviru zadaća za koje je arhitektonska struka ovlaštena za projektiranje
+
+– izrada arhitektonske snimke izvedenog stanja, u okviru zadaća za koje je arhitektonska struka ovlaštena za projektiranje
+
+– izrada dijelova projekta uklanjanja za sve građevine, u okviru zadaća za koje je arhitektonska struka ovlaštena za projektiranje
+
+– nostrifikacija arhitektonskih projekata.«.
+
+### Članak 30.
+
+U članku 50. stavku 1. podstavku 3. riječi: »koji uključuju projekt izvedenog stanja« brišu se.
+
+Iza podstavka 3. dodaje se novi podstavak 4. koji glasi:
+
+» – izrada snimke izvedenog stanja za sve građevine«.
+
+Dosadašnji podstavci 4., 5., 6. i 7. postaju podstavci: 5., 6., 7. i 8.
+
+Stavak 2. briše se.
+
+### Članak 31.
+
+U članku 51. podstavku 3. riječi: »koji uključuju projekt izvedenog stanja strojarskih instalacija, opreme i postrojenja« brišu se.
+
+Iza podstavka 3. dodaje se novi podstavak 4. koji glasi:
+
+» – izrada snimke izvedenog stanja u okviru zadaća za koje je strojarska struka ovlaštena za projektiranje«.
+
+Dosadašnji podstavci 4., 5. i 6. postaju podstavci: 5., 6. i 7.
+
+### Članak 32.
+
+U članku 52. podstavku 3. riječi: »koji uključuju projekt izvedenog stanja elektrotehničkih instalacija, opreme i postrojenja« brišu se.
+
+Iza podstavka 3. dodaje se novi podstavak 4. koji glasi:
+
+» – izrada snimke izvedenog stanja u okviru zadaća za koje je elektrotehnička struka ovlaštena za projektiranje«.
+
+Dosadašnji podstavci 4., 5. i 6. postaju podstavci: 5., 6. i 7.
+
+### Članak 33.
+
+Iza članka 52. dodaje se članak 52.a koji glasi:
+
+»Članak 52.a
+
+(1) Poslove projektiranja iz članaka 49. do 52. obavljaju osobe s obrazovanjem iz znanstvenog područja tehničkih znanosti.
+
+(2) Zadaće struke krajobrazne arhitekture u svojstvu suradnika osoba iz stavka 1. ovoga članka uređuju se statutom Hrvatske komore arhitekata.«.
+
+### Članak 34.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Poslove projektantskog nadzora obavlja projektant arhitektonske, građevinske, strojarske i/ili elektrotehničke struke koji je izradio glavni projekt prema kojem se gradi građevina.
+
+(2) Osoba koja obavlja projektantski nadzor odgovorna je u svojstvu projektanta odgovarajuće struke.
+
+(3) Ako projektant projekta, u skladu s kojim se izvode radovi, za vrijeme izvođenja radova više ne obavlja projektantsku djelatnost ili izričito svojom voljom pismeno izrazi da to ne može iz objektivnih razloga, poslove projektantskog nadzora obavlja projektant odgovarajuće struke.«.
+
+### Članak 35.
+
+U članku 56. stavku 2. riječi: »voditelja građenja, voditelja radova« zamjenjuju se riječima: »vođenja građenja«.
+
+### Članak 36.
+
+Članak 58. mijenja se i glasi:
+
+»1) Osobe iz članka 56. stavaka 1. i 2. ovoga Zakona nakon položenog stručnog ispita nastavljaju obvezno stručno usavršavanje koje obuhvaća različite oblike usavršavanja stjecanjem i unaprjeđivanjem stručnog znanja.
+
+(2) Stručno usavršavanje provodi se prema programu koji, uz prethodnu suglasnost Ministarstva, svake dvije godine utvrđuju i provode komore te strukovne organizacije, sveučilišta, veleučilišta i druge pravne osobe (u daljnjem tekstu: nositelj programa).
+
+(3) Nositelj programa stručnog usavršavanja izdaje potvrdu, odnosno certifikat o završenom stručnom usavršavanju i osposobljavanju, koje je osoba iz članka 56. stavaka 1. i 2. ovoga Zakona dužna dostaviti Komori u svrhu vođenja evidencije o stručnom usavršavanju.
+
+(4) Uvjete i način provođenja te praćenja stručnog usavršavanja osoba iz članka 56. stavaka 1. i 2. ovoga Zakona Komora utvrđuje općim aktom, koji se donosi svake dvije godine uz prethodnu suglasnost Ministarstva.«.
+
+### Članak 37.
+
+Naslov iznad članka 59. mijenja se i glasi: »Poslovi prostornoga uređenja, projektiranja i/ili stručnog nadzora građenja, poslovi vođenja građenja, voditelja projekta i poslovi ispitivanja i prethodnih istraživanja«.
+
+U članku 59. stavak 2. mijenja se i glasi:
+
+»(2) Fizička osoba koja u stranoj državi ima pravo obavljati poslove projektiranja i/ili stručnog nadzora građenja, vođenja građenja ili voditelja projekta i poslove ispitivanja i prethodnih istraživanja ima pravo u Republici Hrvatskoj, pod pretpostavkom uzajamnosti, trajno obavljati te poslove u svojstvu ovlaštene osobe pod istim uvjetima kao i ovlašteni arhitekt odnosno ovlašteni inženjer, ovlašteni voditelj građenja, odnosno ovlašteni voditelj radova, voditelj projekta, odnosno stručna osoba za obavljanje poslova prethodnih istraživanja, ako ima stručne kvalifikacije potrebne za obavljanje tih poslova u skladu s posebnim zakonom kojim se uređuje priznavanje inozemnih stručnih kvalifikacija i drugim posebnim propisima.«.
+
+### Članak 38.
+
+U članku 60. riječi: »voditelja građenja, voditelja radova, voditelja projekta, poslove ispitivanja i prethodnih istraživanja u svojstvu ovlaštene osobe« zamjenjuju se riječima: »odnosno vođenja građenja«.
+
+### Članak 39.
+
+Članak 61. mijenja se i glasi:
+
+»Ovlaštena fizička osoba iz države ugovornice EGP-a ima pravo u Republici Hrvatskoj povremeno ili privremeno obavljati poslove prostornoga uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno poslove vođenja građenja pod strukovnim nazivom koji ovlaštene osobe za obavljanje tih poslova imaju u Republici Hrvatskoj, ako prije početka prvog posla izjavom u pisanom ili elektroničkom obliku izvijesti o tome odgovarajuću komoru, uz uvjet da:
+
+– ima stručne kvalifikacije potrebne za obavljanje poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno vođenja građenja u skladu s posebnim zakonom kojim se uređuje priznavanje inozemnih stručnih kvalifikacija i drugim posebnim propisima
+
+– je osigurana od profesionalne odgovornosti za štetu koju bi obavljanjem poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno vođenja građenja u svojstvu odgovorne osobe mogla učiniti investitoru ili drugim osobama.«.
+
+### Članak 40.
+
+Članak 62. mijenja se i glasi:
+
+»(1) Uz izjavu iz članka 61. ovoga Zakona podnositelj mora priložiti:
+
+– dokaz o državljanstvu
+
+– potvrdu kojom se potvrđuje da u državi ugovornici EGP-a obavlja poslove prostornog uređenja, projektiranja i/ili stručnog nadzora građenja ili poslove vođenja građenja u svojstvu ovlaštene osobe
+
+– uvjerenje/dokaz o nekažnjavanju, odnosno da nije izrečena mjera privremenog ili trajnog oduzimanja prava na obavljanje profesije, s obzirom na to da se radi o profesiji iz sigurnosnog sektora
+
+– ovlaštenje za obavljanje poslova prostornog uređenja, projektiranja i/ili provođenje stručnog nadzora građenja, odnosno vođenja građenja u svojstvu odgovorne osobe u državi iz koje dolazi
+
+– dokaz da je osiguran od profesionalne odgovornosti, primjereno vrsti i stupnju opasnosti, za štetu koju bi obavljanjem poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja ili vođenja građenja u svojstvu odgovorne osobe mogao učiniti investitoru ili drugim osobama.
+
+(2) Ako se u državi iz koje dolazi strana ovlaštena osoba poslovi prostornog uređenja, poslovi projektiranja i/ili stručnog nadzora građenja, poslovi vođenja građenja obavljaju bez posebnog ovlaštenja, umjesto dokaza iz stavka 1. podstavka 4. ovoga članka uz prijavu se prilaže dokaz da je podnositelj prijave poslove prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, poslove vođenja građenja u svojstvu odgovorne osobe obavljao u punom ili nepunom radnom vremenu istovjetnog ukupnog trajanja najmanje godinu dana u zadnjih deset godina u državi članici u kojoj ta profesija nije regulirana.«.
+
+### Članak 41.
+
+U članku 65. stavku 1. riječi: »voditelja građenja, voditelja radova, poslove voditelja projekta i poslove ispitivanja i prethodnih istraživanja« zamjenjuju se riječima: »vođenja građenja«.
+
+U stavku 2. riječ: »obvezno« briše se.
+
+### Članak 42.
+
+U članku 66. stavku 1. riječi: »voditelja građenja, voditelja radova, voditelja projekta ili poslove ispitivanja i prethodnih istraživanja« zamjenjuju se riječima: »vođenja građenja«.
+
+U stavku 2. riječi: »voditelja građenja, voditelja radova, voditelja projekta, odnosno poslova ispitivanja i prethodnih istraživanja« zamjenjuju se riječima: »vođenja građenja«.
+
+### Članak 43.
+
+U članku 67. iza stavka 3. dodaje se novi stavak 4. i stavak 5. koji glase:
+
+»4) Rješenje o upisu u evidenciju odobrenja za rad stranoj ovlaštenoj osobi donosi Komora.
+
+(5) Protiv rješenja kojim je odlučeno o zahtjevu za izdavanje odobrenja za rad iz stavka 4. ovoga članka može se izjaviti žalba Ministarstvu.«.
+
+Dosadašnji stavak 4. briše se.
+
+### Članak 44.
+
+Iznad članka 69. dodaje se naslov koji glasi: »Strana pravna ili strana fizička osoba obrtnik«.
+
+Članak 69. mijenja se i glasi:
+
+»(1) Strana pravna osoba sa sjedištem u drugoj državi koja obavlja djelatnost prostornoga uređenja, projektiranja i/ili stručnog nadzora građenja te strana pravna ili strana fizička osoba obrtnik koja obavlja djelatnost građenja, upravljanja projektom gradnje ili ispitivanja i prethodnih istraživanja može u Republici Hrvatskoj, pod pretpostavkom uzajamnosti, na privremenoj i povremenoj osnovi obavljati one poslove koje je prema propisima države u kojoj ima sjedište ovlaštena obavljati, nakon što o tome obavijesti Ministarstvo izjavom u pisanom obliku.
+
+(2) Uz izjavu iz stavka 1. ovoga članka mora priložiti isprave kojima se dokazuje:
+
+– pravo obavljanja djelatnosti u državi sjedišta strane osobe
+
+– da je osigurana od odgovornosti za štetu koju bi obavljanjem djelatnosti mogla učiniti investitoru ili drugim osobama.
+
+(3) Pretpostavka uzajamnosti iz stavaka 1. ovoga članka ne primjenjuje se na stranu pravnu osobu sa sjedištem u drugoj državi koja obavlja djelatnost prostornog uređenja, projektiranja i/ili stručnog nadzora građenja te stranu pravnu ili stranu fizičku osobu obrtnika koji obavlja djelatnost građenja, upravljanja projektom gradnje ili ispitivanja i prethodnih istraživanja sa sjedištem u drugoj državi EGP-a, odnosno državi članici Svjetske trgovinske organizacije.
+
+(4) Na temelju izjave iz stavka 1. ovoga članka Ministarstvo izdaje obavijest.«.
+
+### Članak 45.
+
+Članak 70. mijenja se i glasi:
+
+»(1) Strana pravna osoba sa sjedištem u drugoj državi koja obavlja djelatnost prostornoga uređenja, projektiranja i/ili stručnog nadzora građenja te strana pravna ili strana fizička osoba obrtnik koja obavlja djelatnost građenja, upravljanja projektom gradnje ili ispitivanja i prethodnih istraživanja može, pod pretpostavkom uzajamnosti, u Republici Hrvatskoj trajno obavljati djelatnost pod istim uvjetima kao i osoba sa sjedištem u Republici Hrvatskoj, u skladu s ovim Zakonom i drugim posebnim propisima.
+
+(2) Pretpostavka uzajamnosti iz stavka 1. ovoga članka ne primjenjuje se na stranu pravnu osobu sa sjedištem u drugoj državi koja obavlja djelatnost prostornog uređenja, projektiranja i/ili stručnog nadzora građenja te stranu pravnu ili stranu fizičku osobu obrtnika koji obavlja djelatnost građenja, upravljanja projektom gradnje ili ispitivanja i prethodnih istraživanja sa sjedištem u drugoj državi EGP-a, odnosno državi članici Svjetske trgovinske organizacije.«.
+
+### Članak 46.
+
+Članak 71. briše se.
+
+### Članak 47.
+
+Iznad članka 72. dodaje se naslov koji glasi: »Strana ovlaštena fizička osoba«.
+
+U članku 72. stavak 3. mijenja se i glasi:
+
+»(3) Komora je dužna stranu ovlaštenu osobu kojoj je priznala inozemnu stručnu kvalifikaciju uputiti na provjeru znanja hrvatskog jezika kada postoji ozbiljna i osnovana sumnja o dovoljnom poznavanju hrvatskog jezika u odnosu na profesionalnu djelatnost koja se namjerava obavljati, u slučaju profesije koja utječe na sigurnost primatelja usluga i drugih profesija, pri čemu provjera znanja hrvatskog jezika mora biti razmjerna djelatnosti koju osoba namjerava obavljati.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Provjeru znanja hrvatskog jezika provodi ovlaštena škola za strane jezike.«.
+
+### Članak 48.
+
+U članku 73. stavku 1. riječi: »voditelja građenja, voditelja radova, voditelja projekta ili ispitivanja i prethodnih istraživanja« zamjenjuju se riječima: »vođenja građenja i poslove voditelja projekta«.
+
+### Članak 49.
+
+Članak 74. mijenja se i glasi:
+
+»Potvrdu za neometano pružanje usluga na teritoriju druge države ugovornice EGP-a pravnoj ili fizičkoj osobi poslovno nastanjenoj u Republici Hrvatskoj (u daljnjem tekstu: EU potvrda) koja namjerava u drugoj državi ugovornici EGP-a obavljati poslove prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, vođenja građenja izdaje odgovarajuća strukovna Komora, prema posebnom propisu kojim se uređuje izdavanje EU potvrde i odgovarajućem općem aktu Komore.«.
+
+### Članak 50.
+
+U članku 75. riječi: »pravnoj ili« brišu se.
+
+### Članak 51.
+
+U članku 76. stavku 2. riječi: »vrši nadzor zakonitosti« zamjenjuju se riječima: »nadzire zakonitost«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ako službenik iz stavka 3. ovoga članka tijekom provođenja nadzora utvrdi povredu propisa u dijelu u kojem je iste obvezan nadzirati, ima pravo i obvezu podnijeti optužni prijedlog ili kaznenu prijavu.«.
+
+### Članak 52.
+
+Članak 77. mijenja se i glasi:
+
+»(1) Komora je dužna Ministarstvu u svrhu provođenja nadzora dostaviti sve zatražene podatke, dokumente i izvješća u zatraženom roku, a po potrebi omogućiti službeniku Ministarstva kojeg ovlasti ministar pristup u prostorije Komore te neposrednu provedbu nadzora dokumentacije koja se nalazi u Komori.
+
+(2) Ako Komora ne postupi po traženju Ministarstva iz stavka 1. ovoga članka, rješenjem se poziva na ispunjenje zatraženog.
+
+(3) Protiv rješenja iz stavka 2. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+(4) Komora je dužna u roku od 15 dana od isteka roka za poduzimanje mjera izrečenih rješenjem dostaviti Ministarstvu izvješće i dokaze o izvršenju mjera.
+
+(5) Nadzor izvršenja izrečenih mjera Ministarstvo obavlja u pravilu posredno, pribavljanjem izvješća i dokaza o izvršenju mjera, a po potrebi nadzor izvršenja može se provesti i neposredno u Komori.«.
+
+### Članak 53.
+
+U članku 82. podstavku 1. riječi: »i/ili glavnog projektanta« brišu se.
+
+### Članak 54.
+
+U članku 84. podstavku 1. riječi: »glavnog inženjera gradilišta ili« brišu se.
+
+### Članak 55.
+
+U članku 85. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se pravna osoba koja gradi ili izvodi radove, a nije imenovala inženjera gradilišta i/ili voditelja radova iz članka 24. stavka 3. i/ili članka 25. stavka 3. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 25.000,00 do 50.000,00 kuna kaznit će se fizička osoba obrtnik koja gradi ili izvodi radove, a nije imenovala inženjera gradilišta i/ili voditelja radova iz članka 24. stavka 3. i/ili članka 25. stavka 3. ovoga Zakona.«.
+
+### Članak 56.
+
+U članku 86. stavku 1. podstavku 2. iza riječi: »ovlaštenog voditelja radova« stavlja se zarez i dodaju riječi: »odnosno voditelja manje složenih radova«.
+
+Iza podstavka 2. dodaje se novi podstavak 3. koji glasi:
+
+» – obavlja djelatnost građenja bez osiguranja od odgovornosti (članak 30. stavak 3.)«.
+
+Dosadašnji podstavak 3. postaje podstavak 4.
+
+### Članak 57.
+
+U članku 89. stavku 1. podstavku 2. riječi: »stavaka 1. i 2.« zamjenjuju se riječima: »stavka 2.«.
+
+### Članak 58.
+
+U članku 90. riječ: »gradnje« briše se.
+
+### Članak 59.
+
+U članku 92. stavku 1. riječi: »odredbi članka 42. ovoga Zakona« zamjenjuju se riječima: »odredbama članaka 42. i 43. ovoga Zakona«.
+
+U stavku 2. riječi: »odredbi članka 42. ovoga Zakona« zamjenjuju se riječima: »odredbama članaka 42. i 43. ovoga Zakona«.
+
+### Članak 60.
+
+Članak 93. briše se.
+
+### Članak 61.
+
+U članku 97. riječi: »vođenja građenja, voditelja projekta ili ispitivanja i prethodnih istraživanja« zamjenjuju se riječima: »odnosno vođenja građenja«.
+
+### Članak 62.
+
+Iza članka 98. dodaje se članak 98.a koji glasi:
+
+»Članak 98.a
+
+(1) Novčanom kaznom od 100.000,00 do 150.000,00 kuna kaznit će se za prekršaj strana pravna osoba koja u Republici Hrvatskoj:
+
+– privremeno ili povremeno obavlja poslove prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, građenja, upravljanja projektom gradnje ili ispitivanja i prethodnih istraživanja, a prije početka prvog posla izjavom u pisanom obliku o tome ne obavijesti Ministarstvo u skladu s odredbom članka 69. stavka 1. ovoga Zakona
+
+– uz izjavu iz članka 69. stavka 1. ovoga Zakona ne priloži isprave iz članka 69. stavka 2. ovoga Zakona (članak 69. stavak 2.).
+
+(2) Novčanom kaznom od 20.000,00 do 30.000,00 kuna kaznit će se strana fizička osoba obrtnik za prekršaj iz stavka 1. ovoga članka.
+
+(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom od 5000,00 do 20.000,00 kuna kaznit će se i odgovorna osoba u stranoj pravnoj osobi.«.
+
+### Članak 63.
+
+Članak 99. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 50.000,00 do 150.000,00 kuna kaznit će se za prekršaj Komora ako ne postupi po rješenju Ministarstva iz članka 77. stavka 2. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom od 5000,00 do 10.000,00 kuna kaznit će se i odgovorna osoba u Komori.«.
+
+### Članak 64.
+
+Komora je dužna donijeti opći akt iz članka 36. ovoga Zakona, za prvo predstojeće dvogodišnje razdoblje, do 1. listopada 2019.
+
+### Članak 65.
+
+Komora je dužna uskladiti statut i druge opće akte s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 66.
+
+Ministar je dužan donijeti pravilnike iz članaka 16. i 25. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 67.
+
+Postupci započeti prema Zakonu o poslovima i djelatnostima prostornog uređenja i gradnje (»Narodne novine«, br. 78/15.) i propisima donesenim za provedbu toga Zakona dovršit će se prema odredbama toga Zakona.
+
+### Članak 68.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/108
+
+Zagreb, 14. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o poslovima i djelatnostima prostornog uređenja i gradnje (NN 110/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2215*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POSLOVIMA I DJELATNOSTIMA PROSTORNOG UREĐENJA I GRADNJE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o poslovima i djelatnostima prostornog uređenja i gradnje, koji je Hrvatski sabor donio na sjednici 31. listopada 2019.
+
+Klasa: 011-01/19-01/194
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 7. studenoga 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POSLOVIMA I DJELATNOSTIMA PROSTORNOG UREĐENJA I GRADNJE**
+
+#### Članak 1.
+
+U Zakonu o poslovima i djelatnostima prostornog uređenja i gradnje (»Narodne novine«, br. 78/15. i 118/18.) u članku 3. stavku 1. iza riječi: »uređenja« zarez i riječi: »koje se smatra negospodarskom uslugom od općeg interesa« brišu se.
+
+#### Članak 2.
+
+Članak 9. mijenja se i glasi:
+
+»(1) Ovlašteni arhitekt urbanist koji poslove obavlja samostalno u vlastitom uredu, zajedničkom uredu i pravna osoba registrirana za obavljanje stručnih poslova prostornog uređenja mogu započeti obavljati stručne poslove prostornog uređenja ako imaju suglasnost Ministarstva.
+
+(2) Ministarstvo suglasnost iz stavka 1. ovoga članka izdaje na zahtjev stranke u formi rješenja i na neodređeno vrijeme.
+
+(3) Ministarstvo vodi evidenciju izdanih suglasnosti za obavljanje stručnih poslova prostornog uređenja.
+
+(4) Dokumentaciju koja se predaje uz zahtjev i sadržaj evidencije izdanih suglasnosti za obavljanje stručnih poslova prostornog uređenja pravilnikom propisuje ministar.«.
+
+#### Članak 3.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Suglasnost za obavljanje stručnih poslova prostornog uređenja Ministarstvo će ukinuti rješenjem ako osoba iz članka 9. stavka 1. ovoga Zakona:
+
+– prestane ispunjavati uvjete propisane za davanje suglasnosti, uvjete koji moraju biti ispunjeni prilikom izrade prostornih planova ili
+
+– ako stručne poslove prostornog uređenja obavlja protivno ovom Zakonu, propisima donesenim na temelju ovoga Zakona ili protivno propisima kojima se uređuje područje prostornog uređenja.
+
+(2) Osoba iz članka 9. stavka 1. ovoga Zakona, koja ima suglasnost za obavljanje stručnih poslova prostornog uređenja, dužna je o svakoj promjeni ispunjavanja uvjeta za obavljanje stručnih poslova prostornog uređenja obavijestiti Ministarstvo u roku od 30 dana od dana nastanka promjene.«.
+
+#### Članak 4.
+
+U članku 12. stavak 1. mijenja se i glasi:
+
+»(1) Ovlašteni arhitekt urbanist može sve stručne poslove prostornog uređenja obavljati u vlastitom uredu za samostalno obavljanje poslova prostornog uređenja.«.
+
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Smatra se da ovlašteni arhitekt urbanist koji samostalno obavlja poslove prostornog uređenja u samostalnom uredu ima suglasnost za obavljanje stručnih poslova izrade nacrta prijedloga urbanističkih planova uređenja i obavljanje poslova u vezi s pripremom i donošenjem urbanističkih planova uređenja.
+
+(7) Ovlašteni arhitekt urbanist koji samostalno obavlja poslove prostornog uređenja u samostalnom uredu mora u obavljanju poslova izrade nacrta prijedloga prostornih planova i izvješća o stanju u prostoru te obavljanju poslova u vezi s pripremom i donošenjem prostornih planova i izvješća o stanju u prostoru osigurati sudjelovanje još jednog ovlaštenog arhitekta urbanista ili osigurati sudjelovanje najmanje tri stručnjaka različitih struka iz članka 15. stavka 1. ovoga Zakona.«.
+
+#### Članak 5.
+
+U članku 13. stavku 1. riječi: »izrade nacrta prijedloga prostornih planova i izvješća o stanju u prostoru te obavljanje poslova u vezi s pripremom i donošenjem prostornih planova i izvješća o stanju u prostoru« zamjenjuju se riječima: »prostornog uređenja«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Smatra se da zajednički ured ima suglasnost za obavljanje svih stručnih poslova prostornog uređenja.«.
+
+#### Članak 6.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Pravna osoba registrirana za obavljanje stručnih poslova prostornog uređenja mora u obavljanju poslova izrade nacrta prijedloga urbanističkih planova uređenja i u obavljanju poslova u vezi s pripremom i donošenjem urbanističkih planova uređenja imati zaposlenu osobu ovlaštenog arhitekta urbanista prema zakonu kojim se uređuje udruživanje u Komoru.
+
+(2) Pravna osoba registrirana za obavljanje stručnih poslova prostornog uređenja mora u obavljanju poslova izrade nacrta prijedloga prostornih planova i izvješća o stanju u prostoru te obavljanju poslova u vezi s pripremom i donošenjem prostornih planova i izvješća o stanju u prostoru, osim ispunjavanja uvjeta iz stavka 1. ovoga članka, osigurati sudjelovanje još jednog ovlaštenog arhitekta urbanista ili osigurati sudjelovanje najmanje tri stručnjaka različitih struka iz članka 15. stavka 1. ovoga Zakona.«.
+
+#### Članak 7.
+
+U članku 15. stavku 1. riječi: »Ovlašteni arhitekt urbanist koji samostalno obavlja stručne poslove prostornog uređenja, odnosno pravna osoba registrirana za obavljanje stručnih poslova prostornog uređenja« zamjenjuju se riječima: »Osobe iz članka 9. stavka 1. ovoga Zakona«, a riječ: »izrađuje« zamjenjuje se riječju: »izrađuju,«.
+
+#### Članak 8.
+
+U članku 22. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Pravna osoba registrirana za djelatnost prostornog uređenja ili djelatnost projektiranja i/ili stručnog nadzora građenja solidarno odgovara za štetu nastalu radom svojih zaposlenika ovlaštenih arhitekata, ovlaštenih arhitekata urbanista i ovlaštenih inženjera u obavljanju poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja.«.
+
+#### Članak 9.
+
+Članak 24. mijenja se i glasi:
+
+»(1) Inženjer gradilišta vodi građenje, odnosno izvođenje građevinskih i drugih radova različitih struka kojima se gradi nova građevina, rekonstruira, održava ili uklanja postojeća građevina.
+
+(2) Za inženjera gradilišta može se imenovati osoba s obrazovanjem iz znanstvenog područja tehničkih znanosti u nekom od znanstvenih polja: arhitekture i urbanizma, građevinarstva, strojarstva ili elektrotehničke struke koja:
+
+– je završila preddiplomski sveučilišni studij i stekla akademski naziv sveučilišni prvostupnik (baccalaureus) inženjer odgovarajuće struke ili stručni studij i stekla stručni naziv stručni prvostupnik (baccalaureus) inženjer odgovarajuće struke ako je tijekom cijelog svog studija stekla najmanje 180 ECTS bodova, odnosno koja je na drugi način propisan posebnim propisom stekla odgovarajući stupanj obrazovanja odgovarajuće struke i ima položen stručni ispit ili
+
+– je upisana u imenik inženjera gradilišta Komore, u skladu sa zakonom kojim se uređuje udruživanje u Komoru.
+
+(3) Inženjer gradilišta može ujedno biti i voditelj radova.«.
+
+#### Članak 10.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Voditelj radova u okviru zadaća svoje struke vodi izvođenje građevinskih i drugih radova: pripremnih, zemljanih, konstruktorskih, instalaterskih i završnih te ugradnju građevnih proizvoda, opreme ili postrojenja.
+
+(2) Za voditelja radova može se imenovati osoba arhitektonske, građevinske, strojarske, elektrotehničke ili geotehničke struke, odnosno geoinženjerske struke koja:
+
+– je završila preddiplomski sveučilišni studij i stekla akademski naziv sveučilišni prvostupnik (baccalaureus) inženjer odgovarajuće struke ili stručni studij i stekla stručni naziv stručni prvostupnik (baccalaureus) inženjer odgovarajuće struke ako je tijekom cijelog svog studija stekla najmanje 180 ECTS bodova, odnosno koja je na drugi način propisan posebnim propisom stekla odgovarajući stupanj obrazovanja odgovarajuće struke i ima položen stručni ispit ili
+
+– je upisana u imenik voditelja radova Komore, u skladu sa zakonom kojim se uređuje udruživanje u Komoru.«.
+
+#### Članak 11.
+
+Članak 25.a mijenja se i glasi:
+
+»(1) Poslove vođenja manje složenih radova, osim osobe iz članka 25. ovoga Zakona, unutar zadaća svoje struke, obavlja osoba koja je završila odgovarajuću srednju školu po programu za tehničara odgovarajuće struke te ima najmanje pet godina radnog iskustva u struci i položen stručni ispit.
+
+(2) Poslove vođenja manje složenih radova, osim osobe iz stavka 1. ovoga članka, u okviru svojeg majstorskog zvanja, obavlja osoba koja ima položen majstorski ispit ili priznati majstorski status iz područja graditeljstva.
+
+(3) Manje složene radove koje vode osobe iz stavka 1. ovoga članka, odnosno osobe iz stavka 2. ovoga članka, kao i manje složene radove za koje nije potrebno imenovati voditelja propisuje ministar pravilnikom.«.
+
+#### Članak 12.
+
+Članak 25.b mijenja se i glasi:
+
+»(1) Ako se na građevini izvode manje složeni radovi različitih struka, za vođenje tih radova može se imenovati voditelj radova.
+
+(2) Ako se na zgradi stambene namjene s najviše dvije stambene jedinice čija građevinska (bruto) površina ne prelazi 400 m² ili zgradi poljoprivredne namjene čija građevinska (bruto) površina ne prelazi 600 m², za koje se ne utvrđuju posebni uvjeti, izvode manje složeni radovi različitih struka, za vođenje tih radova može se imenovati osoba koja je završila srednju školu po programu za tehničara te ima najmanje pet godina radnog iskustva u struci i položen stručni ispit.
+
+(3) Izvođač iz članka 29. stavka 1. ovoga Zakona koji za pojedini rad nema zaposlenu osobu s odgovarajućim stručnim kvalifikacijama sudjelovanje te osobe u građenju građevine koju gradi može osigurati sklapanjem ugovora o poslovnoj suradnji s drugim izvođačem koji izvodi radove na istoj građevini i ima zaposlenu takvu osobu.
+
+(4) U slučaju iz stavka 3. ovoga članka inženjer gradilišta i/ili voditelj radova, koji je zaposlenik glavnog izvođača, mora osigurati cjelovitost i međusobnu usklađenost radova koje izvode izvođači iz stavka 3. ovoga članka.«.
+
+#### Članak 13.
+
+U članku 30. stavku 1. riječi: »ovlaštenog voditelja građenja i/ili ovlaštenog voditelja radova« zamjenjuju se riječima: »inženjera gradilišta i/ili voditelja radova«.
+
+U stavku 2. riječi: »ovlašteni voditelji građenja i ovlašteni voditelji radova« zamjenjuju se riječima: »inženjeri gradilišta i/ili voditelji radova«.
+
+#### Članak 14.
+
+U članku 37. iza stavka 2. dodaju se novi stavak 3. i stavak 4. koji glase:
+
+»(3) Voditelj projekta iz stavka 1. ovoga članka ima pravo na upis u evidenciju voditelja projekta koju vodi Ministarstvo.
+
+(4) Na zahtjev za upis u evidenciju iz stavka 4. ovoga članka, osobi koja ne ispunjava uvjete za obavljanje poslova voditelja projekta Ministarstvo izdaje obavijest.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+#### Članak 15.
+
+U članku 38. stavku 2. riječi: »imenovati voditelja projekta« zamjenjuju se riječima: »ugovoriti upravljanje projektom gradnje s osobom registriranom za djelatnost upravljanja projektom ili imenovati voditelja projekta koji je njezin zaposlenik«.
+
+#### Članak 16.
+
+U članku 42. stavku 2. riječi: »i svojstva« zamjenjuju se riječju: »svojstava«.
+
+#### Članak 17.
+
+U članku 56. iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Podatke iz Registra iz stavka 7. ovoga članka, koji obuhvaća ime i prezime te akademski, odnosno stručni naziv osobe koja je položila stručni ispit, strukovno područje, vrstu posla, datum polaganja stručnog ispita i redni broj evidencije, Ministarstvo objavljuje na svojim mrežnim stranicama.«.
+
+#### Članak 18.
+
+U članku 58. stavku 4. riječi: »Komora utvrđuje općim aktom, koji se donosi svake dvije godine uz prethodnu suglasnost Ministarstva« zamjenjuju se riječima: »propisuje ministar pravilnikom«.
+
+#### Članak 19.
+
+U članku 59. stavku 2. iza riječi: »stručnog nadzora građenja, dodaju se riječi: »kontrole projekata,, a riječi: »ovlašteni voditelj građenja, odnosno ovlašteni voditelj radova« zamjenjuju se riječima: »revident, inženjer gradilišta i/ili voditelj radova«.
+
+#### Članak 20.
+
+Članak 60. mijenja se i glasi:
+
+»Strana ovlaštena fizička osoba ima pravo u Republici Hrvatskoj trajno obavljati poslove prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno kontrole projekata pod strukovnim nazivom koje ovlaštene osobe za obavljanje tih poslova imaju u Republici Hrvatskoj, ako je upisana u imenik stranih ovlaštenih arhitekata urbanista, imenik stranih ovlaštenih arhitekata, odnosno imenik stranih ovlaštenih inženjera odgovarajuće komore, u skladu sa zakonom kojim se uređuje udruživanje u Komoru.«.
+
+#### Članak 21.
+
+Članak 61. mijenja se i glasi:
+
+»Ovlaštena fizička osoba iz države ugovornice EGP-a ima pravo u Republici Hrvatskoj povremeno ili privremeno obavljati poslove prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno poslove kontrole projekata u svojstvu odgovorne osobe pod strukovnim nazivom koji ovlaštene osobe za obavljanje tih poslova imaju u Republici Hrvatskoj, ako prije početka prvog posla izjavom u pisanom ili elektroničkom obliku izvijesti o tome odgovarajuću komoru, uz uvjet da dostavi podatke:
+
+– povezane sa stručnim kvalifikacijama, potrebnim za obavljanje poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno poslova kontrole projekata u državi iz koje dolazi i
+
+– o pojedinostima svakog osiguranja ili drugog načina osobne ili kolektivne zaštite s obzirom na profesionalnu odgovornost.«.
+
+#### Članak 22.
+
+Članak 62. mijenja se i glasi:
+
+»(1) Uz izjavu iz članka 61. ovoga Zakona podnositelj mora priložiti:
+
+– dokaz o državljanstvu
+
+– potvrdu da njezin nositelj ima poslovni nastan u državi ugovornici EGP-a u svrhu obavljanja poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno poslova kontrole projekata u svojstvu ovlaštene osobe
+
+– uvjerenje kojim se potvrđuje da pravo na obavljanje profesionalnih poslova nije privremeno ili trajno oduzeto, s obzirom na to da se radi o profesiji koja ima utjecaj na javno zdravlje i sigurnost i
+
+– dokaz o stručnim kvalifikacijama.
+
+(2) Ako se u državi iz koje dolazi strana ovlaštena osoba poslovi prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno poslovi kontrole projekata obavljaju bez posebnog ovlaštenja ili ako obrazovanje i stručno osposobljavanje koji dovode do te profesije nisu regulirani, umjesto dokaza iz stavka 1. podstavka 4. ovoga članka uz izjavu se prilaže dokaz da je podnositelj izjave profesionalne poslove obavljao u državi ugovornici EGP-a u punom ili nepunom radnom vremenu istovjetnog ukupnog trajanja najmanje godinu dana u posljednjih deset godina.
+
+(3) Strana profesionalna osoba može početi pružati svoje usluge odmah nakon dane izjave iz članka 61. ovoga Zakona uz koju dostavi potpunu dokumentaciju.«.
+
+#### Članak 23.
+
+Članak 63. mijenja se i glasi:
+
+»Stranoj ovlaštenoj osobi priznaje se osiguranje, odnosno jamstvo profesionalne odgovornosti u drugoj državi ugovornici EGP-a u kojoj ima poslovni nastan ako je osiguranik pokriven osiguranjem profesionalne odgovornosti ili drugim jamstvom koje je jednakovrijedno ili bitno usporedivo s obzirom na namjenu ili pokriće koje se osigurava, a u slučaju djelomične jednakovrijednosti strana ovlaštena osoba dužna je dodatno se osigurati za pokriće nepokrivenih aspekata: osiguranog rizika, osigurane gornje granice jamstva ili mogućeg isključenja iz pokrića.«.
+
+#### Članak 24.
+
+Članak 65. mijenja se i glasi:
+
+»(1) Prilikom podnošenja prve izjave iz članka 61. ovoga Zakona Komora provodi postupak provjere inozemne stručne kvalifikacije u skladu s odredbama posebnog zakona kojim se uređuje priznavanje inozemnih stručnih kvalifikacija i drugim posebnim propisima i o tome izdaje potvrdu.
+
+(2) Provjera iz stavka 1. ovoga članka ne odnosi se na arhitekte koji će u Republici Hrvatskoj obavljati poslove projektiranja i/ili stručnog nadzora građenja i posjeduju dokaz o formalnoj osposobljenosti naveden u točki 5.7.1. Priloga V. i točki 6. Priloga VI. Direktive 2005/36/EZ i Direktive 2013/55/EU.
+
+(3) Potvrda iz stavka 1. ovoga članka strane ovlaštene osobe za povremeno ili privremeno obavljanje poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno poslova kontrole projekata u svojstvu odgovorne osobe upisuje se u evidenciju odgovarajuće komore.«.
+
+#### Članak 25.
+
+Članak 66. mijenja se i glasi:
+
+»(1) Ako dođe do bitnih promjena okolnosti na temelju kojih je izdana potvrda iz članka 65. stavka 1. ovoga Zakona, uz izjavu iz članka 61. ovoga Zakona, prilikom ponovnog podnošenja izjave iz članka 61. ovoga Zakona, prilažu se dokumenti odlučni za ocjenu te bitne promjene.
+
+(2) Komora provodi postupak provjere podataka iz stavka 1. ovoga članka i o tome izdaje potvrdu.
+
+(3) Potvrda iz stavka 2. ovoga članka strane ovlaštene osobe za povremeno ili privremeno obavljanje poslova prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno poslova kontrole projekata u svojstvu odgovorne osobe upisuje se u evidenciju odgovarajuće komore.«.
+
+#### Članak 26.
+
+Članak 69. mijenja se i glasi:
+
+»(1) Strana pravna osoba sa sjedištem u drugoj državi koja obavlja djelatnost prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno kontrole projekta te strana pravna ili strana fizička osoba obrtnik koja obavlja djelatnost građenja može u Republici Hrvatskoj, pod pretpostavkom uzajamnosti, na privremenoj i povremenoj osnovi, obavljati one poslove koje je prema propisima države u kojoj ima sjedište ovlaštena obavljati ako prije početka prvog posla izjavom u pisanom ili elektroničkom obliku izvijesti o tome Ministarstvo, uz uvjet da dostavi isprave kojima se dokazuje:
+
+– pravo obavljanja djelatnosti u državi sjedišta strane osobe
+
+– da je pokrivena jamstvom, odnosno osiguranjem od odgovornosti za štetu koju bi obavljanjem djelatnosti mogla učiniti investitoru ili drugim osobama, pri čemu se priznaje jednakovrijedno jamstvo, odnosno osiguranje sklopljeno u državi sjedišta strane osobe.
+
+(2) Pretpostavka uzajamnosti iz stavka 1. ovoga članka ne primjenjuje se na stranu pravnu osobu sa sjedištem u drugoj državi koja obavlja djelatnost prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, odnosno kontrole projekta te stranu pravnu ili stranu fizičku osobu obrtnika koji obavlja djelatnost građenja sa sjedištem u drugoj državi EGP-a, odnosno državi članici Svjetske trgovinske organizacije.
+
+(3) Ministarstvo provodi postupak provjere podataka iz stavaka 1. i 2. ovoga članka i o tome izdaje potvrdu.«.
+
+#### Članak 27.
+
+U članku 73. stavku 1. iza riječi: »stručnog nadzora građenja«, dodaju se riječi: »kontrole projekata,«.
+
+#### Članak 28.
+
+U članku 74. iza riječi: »stručnog nadzora građenja«, dodaju se riječi: »kontrole projekata,«.
+
+#### Članak 29.
+
+U članku 79. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom od 25.000,00 do 50.000,00 kuna kaznit će se za prekršaj ovlašteni arhitekt urbanist koji samostalno obavlja poslove izrade nacrta prijedloga prostornih planova i izvješća o stanju u prostoru te poslove u vezi s pripremom i donošenjem prostornih planova i izvješća o stanju u prostoru.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 30.
+
+U članku 80. stavku 2. riječi: »samostalno obavlja stručne poslove prostornog uređenja« zamjenjuju se riječima: »stručne poslove prostornog uređenja obavlja samostalno u vlastitom uredu ili zajedničkom uredu«.
+
+#### Članak 31.
+
+U članku 83. stavku 1. podstavak 1. mijenja se i glasi:
+
+» – ne zaposli ovlaštenog arhitekta ili ovlaštenog inženjera (članak 22. stavak 1.)«.
+
+#### Članak 32.
+
+Članak 85. briše se.
+
+#### Članak 33.
+
+U članku 86. stavku 1. podstavku 2. riječi: »ovlaštenog voditelja građenja i/ili ovlaštenog voditelja radova« zamjenjuju se riječima: »inženjera gradilišta i/ili voditelja radova«.
+
+#### Članak 34.
+
+U članku 91. stavku 1. riječi: »javni naručitelj koji ne imenuje voditelja projekta« zamjenjuju se riječima: »obveznik javne nabave koji ne ugovori upravljanje projektom gradnje s osobom registriranom za djelatnost upravljanja projektom ili ne imenuje voditelja projekta koji je njegov zaposlenik,«.
+
+#### Članak 35.
+
+Članak 94. mijenja se i glasi:
+
+»Novčanom kaznom od 35.000,00 do 50.000,00 kuna kaznit će se za prekršaj strana ovlaštena fizička osoba koja obavlja poslove u Republici Hrvatskoj ako nije upisana u imenik stranih ovlaštenih arhitekata urbanista, imenik stranih ovlaštenih arhitekata, odnosno imenik stranih ovlaštenih inženjera odgovarajuće komore (članak 60. ovoga Zakona).«.
+
+#### Članak 36.
+
+U članku 96. iza riječi: »Hrvatskoj« stavlja se zarez, a riječi: »bez sklopljenog ugovora o profesionalnom osiguranju« zamjenjuju se riječima: »a nije pokrivena osiguranjem profesionalne odgovornosti ili drugim jamstvom koje je jednakovrijedno ili bitno usporedivo s obzirom na namjenu ili pokriće koje se osigurava, odnosno ako se u slučaju djelomične jednakovrijednosti nije dodatno osigurala za pokriće nepokrivenih aspekata: osiguranog rizika, osigurane gornje granice jamstva ili mogućeg isključenja iz pokrića,«.
+
+#### Članak 37.
+
+Članci 97. i 98. brišu se.
+
+#### Članak 38.
+
+U članku 98.a stavak 1. mijenja se i glasi:
+
+(1) Novčanom kaznom od 100.000,00 kuna kaznit će se za prekršaj strana pravna osoba koja u Republici Hrvatskoj privremeno ili povremeno obavlja poslove prostornog uređenja, projektiranja i/ili stručnog nadzora građenja, kontrole projekata ili poslove građenja, a prije početka prvog posla izjavom u pisanom ili elektroničkom obliku o tome ne obavijesti Ministarstvo i ne dostavi isprave iz članka 69. stavka 1. ovoga Zakona.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 39.
+
+Postupci započeti prema Zakonu o poslovima i djelatnostima prostornog uređenja i gradnje (»Narodne novine«, br. 78/15. i 118/18.) do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona i propisima donesenima za provedbu toga Zakona.
+
+#### Članak 40.
+
+Pravne osobe registrirane za obavljanje stručnih poslova prostornog uređenja kojima su suglasnosti za obavljanje stručnih poslova prostornog uređenja izdane prema odredbama Zakona o poslovima i djelatnostima prostornog uređenja i gradnje (»Narodne novine«, br. 78/15. i 118/18.) i Pravilnika o izdavanju suglasnosti za obavljanje stručnih poslova prostornog uređenja (»Narodne novine«, br. 136/15.) mogu nastaviti obavljati poslove prostornog uređenja.
+
+#### Članak 41.
+
+Do stupanja na snagu pravilnika iz članka 2. ovoga Zakona primjenjuje se Pravilnik o izdavanju suglasnosti za obavljanje stručnih poslova prostornog uređenja (»Narodne novine«, br. 136/15.).
+
+#### Članak 42.
+
+Komore su dužne u roku od 14 dana od dana stupanja na snagu ovoga Zakona Ministarstvu predati evidencije voditelja projekata.
+
+#### Članak 43.
+
+Komore su dužne uskladiti statute i druge opće akte s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 44.
+
+Ministar je dužan donijeti pravilnike iz članaka 2., 11. i 18. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 45.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/96  
+Zagreb, 31. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

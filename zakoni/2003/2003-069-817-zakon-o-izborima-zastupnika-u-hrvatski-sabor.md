@@ -6,16 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-04-23
-last_amended: 2015-06-15
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 66/2015 (1259) https://narodne-novine.nn.hr/eli/sluzbeni/2015/66/1259"
-narodne_novine: "69/03, 19/07, 145/10, 120/11, 19/15, 66/15"
+narodne_novine: "69/03, 19/07, 145/10, 120/11, 19/15, 66/15, 98/19"
 amendments:
   - "NN 19/2007 (774) Zakon o izmjenama i dopuni Zakona o izborima zastupnika u Hrvatski sabor"
   - "NN 145/2010 (3671) Zakon o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor"
   - "NN 19/2015 (398) Zakon o izmjenama i dopunama Zakona o izborima zastupnika u Hrvatski sabor"
+  - "NN 98/2019 (1926) Zakon o izmjeni Zakona o izborima zastupnika u Hrvatski sabor"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/66/1259"
 retrieved: 2026-10-12
 ---
@@ -25,6 +26,8 @@ retrieved: 2026-10-12
 > Izvor: Narodne novine, NN 69/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/69/817).
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 66/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/66/1259).
+>
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1458,3 +1461,52 @@ Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
 Zaključak:
 
 Na dan objave ovoga Pročišćenog teksta stavlja se izvan uporabe pročišćeni tekst ovoga Zakona objavljen u »Narodnim novinama«, br. 120/11.
+
+---
+
+# Izmjene, dopune i ispravci nakon pročišćenog teksta
+
+## Zakon o izmjeni Zakona o izborima zastupnika u Hrvatski sabor (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1926*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O IZBORIMA ZASTUPNIKA U HRVATSKI SABOR
+
+Proglašavam Zakon o izmjeni Zakona o izborima zastupnika u Hrvatski sabor, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/134
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O IZBORIMA ZASTUPNIKA U HRVATSKI SABOR**
+
+### Članak 1.
+
+U Zakonu o izborima zastupnika u Hrvatski sabor (»Narodne novine«, br. 116/99., 109/00., 53/03., 69/03., 44/06., 19/07., 20/09., 145/10., 24/11., 93/11., 120/11., 19/15. i 104/15.) u članku 9. stavku 1. riječi: »ili drugi član Vlade Republike Hrvatske, zamjenik ministra, pomoćnik ministra, ravnatelj državne upravne organizacije, zamjenik ravnatelja državne upravne organizacije« zamjenjuju se riječima: »državni tajnik, čelnik državne upravne organizacije, zamjenik čelnika državne upravne organizacije, rukovoditelj upravne organizacije u sastavu ministarstva«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/129  
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

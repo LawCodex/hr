@@ -6,11 +6,11 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-07-18
-last_amended: 2016-12-09
+last_amended: 2024-12-24
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "84/08, 152/08, 94/09, 18/11, 22/12, 144/12, 148/13, 41/14, 143/14, 115/16"
+narodne_novine: "84/08, 152/08, 94/09, 18/11, 22/12, 144/12, 148/13, 41/14, 143/14, 115/16, 106/18, 33/23, 114/23, 152/24"
 amendments:
   - "NN 152/2008 (4157) Zakon o izmjenama i dopunama Zakona o doprinosima"
   - "NN 94/2009 (2363) Zakon o izmjeni Zakona o doprinosima"
@@ -21,6 +21,10 @@ amendments:
   - "NN 41/2014 (732) Zakon o izmjenama i dopunama Zakona o doprinosima"
   - "NN 143/2014 (2680) Zakon o izmjenama i dopunama Zakona o doprinosima"
   - "NN 115/2016 (2528) Zakon o izmjenama i dopunama Zakona o doprinosima"
+  - "NN 106/2018 (2063) Zakon o izmjenama i dopunama Zakona o doprinosima"
+  - "NN 33/2023 (579) Zakon o izmjenama Zakona o doprinosima"
+  - "NN 114/2023 (1611) Zakon o izmjenama i dopunama Zakona o doprinosima"
+  - "NN 152/2024 (2506) Zakon o izmjenama Zakona o doprinosima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/84/2716"
 retrieved: 2026-10-12
 ---
@@ -29,7 +33,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 84/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/84/2716).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 152/2008, NN 94/2009, NN 18/2011, NN 22/2012, NN 144/2012, NN 148/2013, NN 41/2014, NN 143/2014, NN 115/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 152/2008, NN 94/2009, NN 18/2011, NN 22/2012, NN 144/2012, NN 148/2013, NN 41/2014, NN 143/2014, NN 115/2016, NN 106/2018, NN 33/2023, NN 114/2023, NN 152/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3978,8 +3982,6 @@ Josip Leko, v. r.
 
 HRVATSKI SABOR
 
-2528
-
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
 ODLUKU
@@ -4233,3 +4235,882 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o doprinosima (NN 106/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/106/2063*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DOPRINOSIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o doprinosima, koji je Hrvatski sabor donio na sjednici 21. studenoga 2018.
+
+Klasa: 011-01/18-01/140  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 26. studenoga 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DOPRINOSIMA**
+
+##### Članak 1.
+
+U Zakonu o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14. i 115/16.) u članku 2. stavak 1. mijenja se i glasi:
+
+»(1) Obveznim osiguranjima, u smislu ovoga Zakona, smatraju se:
+
+1. obvezno mirovinsko osiguranje na temelju generacijske solidarnosti,
+
+2. obvezno mirovinsko osiguranje za starost na temelju individualne kapitalizirane štednje,
+
+3. obvezno zdravstveno osiguranje i obvezno zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti.«.
+
+##### Članak 2.
+
+U članku 5. stavku 2. iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2. član je uprave ili izvršni direktor trgovačkog društva ili likvidator ili upravitelj zadruge, a nije osiguran po toj, već po nekoj drugoj osnovi osiguranja, ili«.
+
+Dosadašnja točka 2. postaje točka 3.
+
+U dosadašnjoj točki 3., koja postaje točka 4., riječi: »iz točaka 1., 2. i 3.,« zamjenjuju se riječima: »iz točaka 1., 3. i 4.«, a iza riječi: »ne isključuju.« dodaje se rečenica koja glasi: »Fizičkoj osobi iz stavka 2. točke 2. utvrđuje se razlika obveze doprinosa sukladno člancima 187.c do 187.g ovoga Zakona.«.
+
+##### Članak 3.
+
+U članku 7. točki 16. riječi: »te zdravstvenog osiguranja zaštite zdravlja na radu« brišu se.
+
+U točki 17. iza riječi: »obveznoga zdravstvenog osiguranja« briše se zarez i riječi: »zdravstvenog osiguranja zaštite zdravlja na radu i osiguranja u slučaju nezaposlenosti«.
+
+Točka 19. mijenja se i glasi:
+
+»19. najviša godišnja osnovica najviši je iznos do kojega je obveza uplatiti doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti po stopama iz članka 13. stavka 1. točke 1. ovoga Zakona, i to prema svim osnovama za jednu godinu;«.
+
+Iza točke 54. umjesto točke stavlja se točka sa zarezom i dodaju se točke od 55. do 58. koje glase:
+
+»55. vrijednosni kupon je javna isprava kojom se dokazuje da je poslodavac za sezonskog radnika u poljoprivredi uplatio doprinose za obvezna osiguranja;
+
+56. sezonski radnik u poljoprivredi je osoba koja na temelju ugovora o sezonskom radu obavlja privremene odnosno povremene poslove u poljoprivredi sukladno posebnom propisu kojim se uređuje tržište rada;
+
+57. poslodavac koji može zapošljavati na privremenim odnosno povremenim poslovima u poljoprivredi je fizička ili pravna osoba koja obavlja registriranu poljoprivrednu djelatnost, fizička osoba nositelj obiteljskog poljoprivrednog gospodarstva odnosno fizička osoba;
+
+58. razlika obveze doprinosa je razlika utvrđena po osnovi člana uprave, izvršnog direktora, likvidatora i upravitelja zadruge koji nije po toj osnovi osiguran, utvrđena rješenjem Porezne uprave.«.
+
+##### Članak 4.
+
+U članku 9. stavku 1. riječi: »te osiguranja za slučaj nezaposlenosti« brišu se.
+
+U točki 1. podtočka 3., točki 2. podtočka 3., točki 3. podtočka 3., točki 6. podtočka 3., točki 9. podtočka 3., točki 10. podtočka 3., točki 11. podtočka 3., točki 12. podtočka 3., točki 13. podtočka 3., točki 14.a podtočka 3., točki 15. podtočka 3., točki 18. podtočka 3., točki 19. podtočka 3. i točki 31. podtočka 3. koja glasi: » – članku 6. stavku 1. Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti;« briše se.
+
+U točki 7. iza riječi: »roditelj njegovatelj« stavlja se zarez, a riječi: »ili njegovatelj« zamjenjuju se riječima: »njegovatelj djeteta s teškoćama u razvoju ili njegovatelj osobe s invaliditetom«.
+
+Iza točke 14.a dodaje se točka 14.b koja glasi:
+
+»14.b osoba upisana u Upisnik poljoprivrednika – obvezno osigurane osobe prema članku 11.a Zakona o mirovinskom osiguranju;«.
+
+U točki 15. iza riječi: »društva« stavlja se zarez i dodaje riječ: »likvidator«.
+
+Iza točke 33. umjesto točke stavlja se točka sa zarezom i dodaje točka 34. koja glasi:
+
+»34. sezonski radnik u poljoprivredi – obvezno osigurane osobe prema članku 9. stavku 1. točki 8. Zakona o mirovinskom osiguranju.«.
+
+##### Članak 5.
+
+U članku 11. stavku 1. točki 3. riječi: »stavku 6.« zamjenjuju se riječima: »stavku 9.«.
+
+##### Članak 6.
+
+Članak 12. mijenja se i glasi:
+
+»Ovisno o statusu osiguranika u odnosu na obvezna osiguranja, za financiranje obveznih osiguranja obveza je obračunavanja i plaćanja doprinosa po vrstama i stopama za obračun, i to:
+
+1. doprinosa za obvezno mirovinsko osiguranje na temelju generacijske solidarnosti,
+
+2. doprinosa za obvezno zdravstveno osiguranje i zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti i
+
+3. doprinosa za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje.«.
+
+##### Članak 7.
+
+U članku 13. stavku 2. iza riječi: »Zakona« dodaju se riječi: »i za osiguranika po osnovi osobe upisane u Upisnik poljoprivrednika iz članka 9. stavka 1. točke 14.b ovoga Zakona«.
+
+##### Članak 8.
+
+U članku 14. stavku 1. točki 1. riječi: »15%« zamjenjuju se riječima: »16,5%«.
+
+Točka 4. mijenja se i glasi:
+
+»4. posebni doprinos za zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti – koji se obračunava po stopi od 0,5%.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Iznimno od odredbe stavka 1. točke 4. ovoga članka, za osiguranike iz članka 10. stavka 1. točaka 2. i 4. ovoga Zakona posebni doprinos za zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti obračunava se po stopi od 0,1%.«.
+
+U stavku 5. riječi: »Doprinosi za obvezno zdravstveno osiguranje i zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti plaćaju« zamjenjuju se riječima: »Doprinos za obvezno zdravstveno osiguranje plaća«.
+
+##### Članak 9.
+
+Naslov iznad članka 16. i članak 16. brišu se.
+
+##### Članak 10.
+
+U članku 20. stavku 1. podtočki 2.1. iza riječi: »zdravstveno osiguranje« stavlja se točka, a podtočke 2.2. i 2.3. brišu se.
+
+##### Članak 11.
+
+U članku 21. stavku 2. iza riječi: »izvršni direktor trgovačkog društva« dodaju se riječi: »ili likvidator«.
+
+##### Članak 12.
+
+U članku 28. podtočki 2.1. iza riječi: »zdravstveno osiguranje« stavlja se točka, a podtočke 2.2. i 2.3. brišu se.
+
+##### Članak 13.
+
+U članku 36. stavku 1. podtočki 2.1. iza riječi: »zdravstveno osiguranje« stavlja se točka, a podtočke 2.2. i 2.3. brišu se.
+
+##### Članak 14.
+
+U članku 37. stavku 2. iza riječi: »izvršni direktor trgovačkog društva« dodaju se riječi: »ili likvidator«.
+
+##### Članak 15.
+
+U članku 43. stavku 2. točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točka 4. briše se.
+
+##### Članak 16.
+
+U članku 52. podtočki 2.1. iza riječi: »zdravstveno osiguranje« stavlja se točka, a podtočke 2.2. i 2.3. brišu se.
+
+##### Članak 17.
+
+Naslov iznad članka 56. mijenja se i glasi:
+
+»1.7. Za osiguranika po osnovi roditelja njegovatelja, njegovatelja djeteta s teškoćama u razvoju i njegovatelja osobe s invaliditetom«.
+
+U članku 56. iza riječi: »roditelja njegovatelja« stavlja se zarez, a riječi: »i njegovatelja« zamjenjuju se riječima: »njegovatelja djeteta s teškoćama u razvoju i njegovatelja osobe s invaliditetom«.
+
+##### Članak 18.
+
+U članku 57. točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točke 4. i 5. brišu se.
+
+##### Članak 19.
+
+U članku 61. točki 5. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točka 6. briše se.
+
+##### Članak 20.
+
+U članku 65. stavku 1. ispred riječi »Doprinosi« briše se oznaka stavka koja glasi: »(1)«.
+
+U točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točke 4. i 5. brišu se.
+
+Stavak 2. briše se.
+
+##### Članak 21.
+
+U članku 69. točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točke 4. i 5. brišu se.
+
+##### Članak 22.
+
+U članku 73. točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točke 4. i 5. brišu se.
+
+##### Članak 23.
+
+U članku 77. točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točka 4. briše se.
+
+##### Članak 24.
+
+U članku 81. stavku 1. ispred riječi »Doprinosi« briše se oznaka stavka koja glasi: »(1)«.
+
+U točki 2. podtočki 2.1. iza riječi: »zdravstveno osiguranje« stavlja se točka, a podtočke 2.2. i 2.3. brišu se.
+
+Stavak 2. briše se.
+
+##### Članak 25.
+
+U članku 85.b točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točke 4. i 5. brišu se.
+
+##### Članak 26.
+
+Iza članka 85.d dodaju se naslov 1.13.b i članci od 85.e do 85.h koji glase:
+
+*»1.13.b Za osiguranika po osnovi osobe upisane u Upisnik poljoprivrednika*
+
+##### Članak 85.e
+
+(1) Osiguranik po osnovi osobe upisane u Upisnik poljoprivrednika (članak 9. stavak 1. točka 14.b) obveznik je doprinosa i obveznik plaćanja doprinosa za osobno osiguranje.
+
+(2) Obvezu doprinosa, vrste i mjesečne iznose doprinosa te razdoblje na koje se obveza odnosi utvrđuje Porezna uprava rješenjem.
+
+##### Članak 85.f
+
+Doprinosi se obračunavaju na osnovicu prema mjesečnoj osnovici iz članka 85.g ovoga Zakona, i to:
+
+1. doprinos za mirovinsko osiguranje,
+
+2. doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje (za osiguranika tog osiguranja).
+
+##### Članak 85.g
+
+Mjesečna osnovica za obračun doprinosa umnožak je iznosa prosječne plaće i koeficijenta 0,38.
+
+##### Članak 85.h
+
+Doprinosi dospijevaju na naplatu do 15. dana u mjesecu za prethodni mjesec.«.
+
+##### Članak 27.
+
+Naslov iznad članka 90. mijenja se i glasi:
+
+»1.15. Za osiguranika po osnovi člana uprave trgovačkog društva i izvršnog direktora trgovačkog društva i likvidatora i upravitelja zadruge«.
+
+U članku 90. stavku 1. iza riječi: »izvršni direktor trgovačkog društva« dodaju se riječi: »i likvidator«.
+
+##### Članak 28.
+
+U članku 91. točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točke 4. i 5. brišu se.
+
+##### Članak 29.
+
+U članku 94. iza riječi: »direktoru toga društva« dodaju se riječi: »ili likvidatoru«, a iza riječi: »direktora« dodaju se riječi: »ili likvidatora«.
+
+##### Članak 30.
+
+U članku 96. točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točka 4. briše se.
+
+##### Članak 31.
+
+Članak 98. mijenja se i glasi:
+
+»Doprinosi dospijevaju na naplatu do 15. dana u mjesecu za prethodni mjesec.«.
+
+##### Članak 32.
+
+U članku 104. točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točke 4. i 5. brišu se.
+
+##### Članak 33.
+
+U članku 108. točki 3. iza riječi: »zdravstveno osiguranje« stavlja se točka, a točke 4. i 5. brišu se.
+
+##### Članak 34.
+
+U članku 143. riječi: »i na zdravstveno osiguranje zaštite zdravlja na radu« brišu se.
+
+##### Članak 35.
+
+U naslovu iznad članka 159. riječi: »zaštite zdravlja na radu« brišu se.
+
+##### Članak 36.
+
+U članku 160. točka 2. mijenja se i glasi:
+
+»2. posebni doprinos za zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti.«.
+
+##### Članak 37.
+
+U članku 163. riječi: »zaštite zdravlja na radu« brišu se.
+
+##### Članak 38.
+
+U članku 164. točka 2. mijenja se i glasi:
+
+»2. posebni doprinos za zdravstveno osiguranje za slučaj ozljede na radu i profesionalne bolesti (za osiguranika tog osiguranja).«.
+
+##### Članak 39.
+
+Iza članka 187. dodaju se glave VI.A i VI.B, nazivi glava i članci od 187.a do 187.g koji glase:
+
+### »VI.A SEZONSKI RADNIK U POLJOPRIVREDI
+
+##### Članak 187.a
+
+(1) Za osiguranika po osnovi sezonskog rada u poljoprivredi obveznik doprinosa je osiguranik, a obveznik plaćanja doprinosa je poslodavac.
+
+(2) Poslodavac kupnjom vrijednosnog kupona plaća dnevne doprinose za obvezna osiguranja obračunane na dnevnu osnovicu iz stavka 3. ovoga članka, koji podrazumijevaju doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti i doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje.
+
+(3) Dnevna osnovica za obračun doprinosa iz stavka 2. ovoga članka je umnožak iznosa prosječne plaće i koeficijenta 0,4 podijeljen brojkom 30.
+
+##### Članak 187.b
+
+(1) Vrijednosni kupon iz članka 7. točke 55. ovoga Zakona izdaje Ministarstvo financija, Porezna uprava, a prilikom njegove kupnje evidentira se podatak o poslodavcu, njegovu sjedištu i vrsti posla.
+
+(2) Na vrijednosnom kuponu iz stavka 1. ovoga članka iskazuje se iznos plaćenog dnevnog doprinosa iz članka 187.a ovoga Zakona.
+
+(3) Sadržaj i oblik vrijednosnog kupona, postupak izdavanja i distribucije te postupak njihove zamjene, način evidentiranja podataka te vođenje registra izdanih vrijednosnih kupona propisat će ministar financija.
+
+#### VI.B OBVEZE DOPRINOSA PO OSNOVI ČLANA UPRAVE, IZVRŠNOG DIREKTORA, LIKVIDATORA I UPRAVITELJA ZADRUGE KOJI NIJE PO TOJ OSNOVI OSIGURAN
+
+##### Članak 187.c
+
+(1) Član uprave, izvršni direktor trgovačkog društva, likvidator i upravitelj zadruge koji nije po toj osnovi osiguran obveznik je doprinosa u visini razlike između doprinosa prema osnovici osiguranja propisanoj člankom 21. stavkom 2. ovoga Zakona odnosno člankom 37. stavkom 2. ovoga Zakona i doprinosa prema osnovi temeljem koje je prijavljen kao osigurana osoba.
+
+(2) Za člana uprave, izvršnog direktora trgovačkog društva, likvidatora i upravitelja zadruge koji je osiguran po osnovi radnog odnosa i korisnik je mirovine, osim ako je korisnik invalidske mirovine zbog djelomičnog gubitka radne sposobnosti, ne utvrđuje se obveza doprinosa prema stavku 1. ovoga članka.
+
+##### Članak 187.d
+
+Doprinosi se obračunavaju na godišnju osnovicu iz članka 187.e ovoga Zakona, i to:
+
+1. doprinos za mirovinsko osiguranje,
+
+2. doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje (za osiguranika toga osiguranja),
+
+3. doprinos za zdravstveno osiguranje.
+
+##### Članak 187.e
+
+Godišnja osnovica za obračun doprinosa utvrđuje se kao razlika između osnovice na koju su doprinosi utvrđeni prema osnovi osiguranja temeljem koje je prijavljen kao obvezni osiguranik i najniže osnovice za člana uprave, izvršnog direktora, likvidatora i upravitelja zadruge iz članka 21. stavka 2. ovoga Zakona odnosno članka 37. stavka 2. ovoga Zakona.
+
+##### Članak 187.f
+
+(1) Razdoblje mjerodavno za obračun doprinosa je razdoblje od imenovanja do opoziva člana uprave, izvršnog direktora, likvidatora i upravitelja zadruge odnosno do nastupa pravnih učinaka otvaranja stečajnog postupka i/ili likvidacije trgovačkog društva odnosno zadruge, prema podacima iz nadležnog sudskog registra.
+
+(2) Kada se doprinosi obračunavaju prema osnovici iz članka 187.e ovoga Zakona, a razdoblje mjerodavno za obračun doprinosa kraće je od kalendarske godine, iznos godišnje osnovice razmjeran je broju dana za koje se utvrđuje obveza.
+
+##### Članak 187.g
+
+(1) Iznos godišnje osnovice, vrste i godišnje iznose doprinosa te razdoblje na koje se obveza odnosi utvrđuje Porezna uprava rješenjem.
+
+(2) Rješenje prema stavku 1. ovoga članka donosi se za obračunsko razdoblje (kalendarsku godinu) za koje postoji obveza, a godišnje obveze doprinosa utvrđene rješenjem konačna su obveza.
+
+(3) Godišnja obveza doprinosa obvezniku iz članka 187.c ovoga Zakona dospijeva na naplatu u roku od 15 dana od dana uručenja rješenja.
+
+(4) Postupak utvrđivanja godišnje osnovice u skladu sa stavkom 1. ovoga članka propisat će ministar financija«.
+
+##### Članak 40.
+
+U članku 206. stavku 1. iza riječi: »za istu godinu« dodaju se riječi: »po stopama iz članka 13. stavka 1. točke 1. ovoga Zakona«.
+
+U stavku 3. točka 4. briše se.
+
+##### Članak 41.
+
+U članku 207. stavku 2. riječi: »te prema primicima od kojih se utvrđuje drugi dohodak za osiguranika« brišu se.
+
+##### Članak 42.
+
+U članku 219. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Članu uprave trgovačkog društva i/ili izvršnom direktoru trgovačkog društva i/ili likvidatoru i/ili upravitelju zadruge kojem se godišnja obveza doprinosa utvrđuje sukladno članku 187.c. ovoga Zakona obveza svih doprinosa miruje pod uvjetima i na način propisan odredbama članaka 217. i 218. ovoga Zakona.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., riječi: »sa stavkom 1. i 2.« zamjenjuju se riječima: »sa stavcima 1., 2. i 3.«.
+
+##### Članak 43.
+
+Članak 223. mijenja se i glasi:
+
+»Obveznik doprinosa koji je sam uplatio ili su u njegovo ime i u njegovu korist drugi obveznici plaćanja doprinosa uplatili doprinos za mirovinsko osiguranje na temelju generacijske solidarnosti, za određenu kalendarsku godinu, a koji je viši od iznosa doprinosa obračunanog prema najvišoj godišnjoj osnovici propisanoj za tu godinu ima pravo na povrat toga doprinosa.«.
+
+##### Članak 44.
+
+U članku 239. stavku 1. točki 3. iza riječi: »izvršni direktor trgovačkog društva« dodaju se riječi: »i likvidator«.
+
+##### Članak 45.
+
+U članku 239.a stavku 1. iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. osiguranik po osnovi osobe upisane u Upisnik poljoprivrednika,«.
+
+Dosadašnje točke od 4. do 9. postaju točke od 5. do 10.
+
+Stavak 6. briše se.
+
+##### Članak 46.
+
+U članku 242. stavku 1. točka 6. briše se.
+
+##### Članak 47.
+
+U članku 245. stavku 2. riječi: »i doprinosa za zapošljavanje« brišu se.
+
+##### Članak 48.
+
+U članku 245.b stavku 2. riječi: »i doprinosa za zapošljavanje« brišu se.
+
+##### Članak 49.
+
+Članak 252. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 5.000,00 do 30.000,00 kuna kaznit će se za prekršaj osiguranik koji je sam obveznik doprinosa za svoje osobno osiguranje ako dospjelu obvezu doprinosa ne uplati u roku, i to:
+
+1. osiguranik po osnovi pomorca – člana posade broda u međunarodnoj plovidbi (članak 62.),
+
+2. osiguranik po osnovi obavljanja samostalnih djelatnosti obrta, slobodnog zanimanja (profesionalne djelatnosti), športaša, poljoprivrede i šumarstva te ostalih samostalnih djelatnosti koji od tih djelatnosti utvrđuje dohodak od samostalne djelatnosti (članak 67.),
+
+3. osiguranik po osnovi obavljanja samostalnih djelatnosti obrta te poljoprivrede i šumarstva koji od tih djelatnosti porez na dohodak plaća prema paušalnom dohotku (članak 71.),
+
+4. osiguranik po osnovi obavljanja samostalne djelatnosti slobodnog zanimanja, i to novinara, samostalnih umjetnika ili športaša koji prema primicima od djelatnosti porez na dohodak plaćaju po odbitku (članak 75.),
+
+5. osiguranik po osnovi obavljanja samostalnih djelatnosti obrta i trgovca pojedinca, slobodnog zanimanja, športaša, poljoprivrede i šumarstva te ostalih samostalnih djelatnosti koji od tih djelatnosti utvrđuje dobit (članak 83.),
+
+6. osiguranik po osnovi poljoprivrednika upisanog u upisnik kao nositelj ili član obiteljskog poljoprivrednog gospodarstva te šumoposjednik i član njegova obiteljskog kućanstva (članak 85.d),
+
+7. osiguranik po osnovi osobe upisane u Upisnik poljoprivrednika (članak 85.h),
+
+8. osiguranik po osnovi poljoprivrede (članak 89.),
+
+9. osiguranik po osnovi člana uprave trgovačkog društva (članak 93.),
+
+10. osiguranik po osnovi svećenika i drugih članova vjerske zajednice (članak 98.),
+
+11. osiguranik po osnovi zaposlenja u inozemstvu kod međunarodnih organizacija, stranih poslodavaca i u institucijama Europske unije (članak 106.),
+
+12. osiguranik po osnovi zaposlenja u tuzemstvu kod poslodavca sa sjedištem u inozemstvu (članak 110.),
+
+13. osiguranik produženog mirovinskog osiguranja (članak 121.),
+
+14. osiguranik po osnovi mirovine ili invalidnine iz inozemstva (članak 134.),
+
+15. osiguranik po osnovi osobe koja zdravstveno osiguranje ne ostvaruje po drugoj osnovi (članak 154.),
+
+16. osoba zaposlena u inozemstvu za osiguranika po osnovi člana obitelji osobe zaposlene u inozemstvu (članak 158.),
+
+17. osiguranik po osnovi stranca (članak 170.),
+
+18. stranac za osiguranika po osnovi člana obitelji stranca (članak 174.),
+
+19. obveznik doprinosa po osnovi obavljanja druge djelatnosti (članak 187.).«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+##### Članak 50.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+##### Članak 51.
+
+(1) Odredbe Pravilnika o doprinosima (»Narodne novine«, br. 2/09., 9/09. – ispravak, 97/09., 25/11., 61/12., 86/13., 157/14. i 128/17.) ostaju na snazi u dijelu koji nije u suprotnosti s ovim Zakonom.
+
+(2) Ministar financija uskladit će Pravilnik o doprinosima (»Narodne novine«, br. 2/09., 9/09. – ispravak, 97/09., 25/11., 61/12., 86/13., 157/14. i 128/17.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+(3) Odredbe Pravilnika o sadržaju i obliku ugovora o sezonskom radu u poljoprivredi i vrijednosnog kupona (»Narodne novine«, br. 64/12.) u dijelu koji se odnosi na sadržaj i oblik vrijednosnog kupona, postupak izdavanja i distribucije te postupak njihove zamjene, način evidentiranja podataka te vođenja registra izdanih vrijednosnih kupona ostaju na snazi do donošenja Pravilnika iz stavka 2. ovoga članka.
+
+(4) Iznimno od odredbe članka 254. stavka 1. Zakona o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14. i 115/16.), Naredbu o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2019. godinu ministar financija donijet će u roku od osam dana od dana stupanja na snagu ovoga Zakona.
+
+##### Članak 52.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/145  
+Zagreb, 21. studenoga 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o doprinosima (NN 33/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/579*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O DOPRINOSIMA
+
+Proglašavam Zakon o izmjenama Zakona o doprinosima, koji je Hrvatski sabor donio na sjednici 17. ožujka 2023.
+
+Klasa: 011-02/23-02/27
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 22. ožujka 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O DOPRINOSIMA**
+
+### Članak 1.
+
+U Zakonu o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14., 115/16. i 106/18.) u članku 9. stavku 1. točka 25. briše se.
+
+### Članak 2.
+
+U članku 14. stavku 1. točka 3. mijenja se i glasi:
+
+»3. dodatni doprinos za zdravstveno osiguranje za osiguranika po osnovi nezaposlene osobe i za osiguranika po osnovi osobe kojoj je oduzeta sloboda – koji se obračunava po stopi od 5%«.
+
+### Članak 3.
+
+U članku 78. riječi: »koeficijenta 0,8« zamjenjuju se riječima: »koeficijenta 1,2«.
+
+### Članak 4.
+
+Naslov iznad članka 134.a i članci od 134.a do 134.d brišu se.
+
+### Članak 5.
+
+Ministar financija uskladit će Pravilnik o doprinosima (»Narodne novine«, br. 2/09., 9/09. – ispravak, 97/09., 25/11., 61/12., 86/13., 157/14., 128/17. i 1/19.) i Pravilnik o načinu izvješćivanja, obliku i sadržaju te roku podnošenja izvješća o obračunanom dodatnom doprinosu za zdravstveno osiguranje (»Narodne novine«, br. 28/09. i 160/13.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2023.
+
+Klasa: 022-02/23-01/15
+
+Zagreb, 17. ožujka 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o doprinosima (NN 114/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1611*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DOPRINOSIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o doprinosima, koji je Hrvatski sabor donio na sjednici 28. rujna 2023.
+
+Klasa: 011-02/23-02/73  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 3. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DOPRINOSIMA**
+
+#### Članak 1.
+
+U Zakonu o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14., 115/16., 106/18. i 33/23.) u članku 7. stavku 1. točka 2. briše se.
+
+U točki 46. riječi: »doprinosa za zdravstveno osiguranje« zamjenjuju se riječima: »doprinosa za obvezno zdravstveno osiguranje«.
+
+#### Članak 2.
+
+U članku 9. stavku 1. točki 1. podtočki 1. riječi: »5. ili 6.« zamjenjuju se riječima: »4. ili 5.«.
+
+U točki 3. podtočki 1. riječi: »točki 7.« zamjenjuju se riječima: »točki 6.«.
+
+U točki 4. u uvodnoj rečenici riječi: »bez zasnivanja radnog odnosa« zamjenjuju se riječima: »prema posebnim propisima«.
+
+U podtočki 1. riječi: »točki 3. ili 4.« zamjenjuju se riječima: »točki 3.«.
+
+U točki 9. u uvodnoj rečenici riječi: »i trgovca pojedinca« brišu se.
+
+U točki 10. podtočki 2. riječi: »članku 6.« zamjenjuju se riječima: »članku 7.«.
+
+U točki 34. riječi: »točki 8.« zamjenjuju se riječima: »točki 7.«.
+
+Iza točke 34. umjesto točke stavlja se točka sa zarezom i dodaje točka 35. koja glasi:
+
+»35. udomitelj – obvezno osigurane osobe prema:
+
+– članku 14. stavku 4. Zakona o mirovinskom osiguranju i
+
+– članku 7. stavku 1. točki 28. Zakona o obveznom zdravstvenom osiguranju.«.
+
+#### Članak 3.
+
+U članku 10. stavku 1. u uvodnoj rečenici iza riječi: »profesionalne bolesti i/ili na« dodaje se riječ: »obvezno«.
+
+#### Članak 4.
+
+Iza članka 21. dodaje se članak 21.a koji glasi:
+
+»Članak 21.a
+
+(1) Mjesečna osnovica iz članka 21. ovoga Zakona za obračun doprinosa za mirovinsko osiguranje za osiguranika čiji je ukupan iznos mjesečnih bruto plaća do 700,00 eura uključujući i iznos od 700,00 eura umanjuje se za 300,00 eura.
+
+(2) Mjesečna osnovica iz članka 21. ovoga Zakona za obračun doprinosa za mirovinsko osiguranje za osiguranika čiji je ukupan iznos mjesečnih bruto plaća od 700,01 eura do 1300,00 eura umanjuje se za iznos dobiven izračunom:
+
+0,5x(1300,00 – ukupan iznos bruto plaća za određeni mjesec).
+
+(3) Umanjenje iz stavka 1. ili 2. ovoga članka koristi se bez obzira na broj dana provedenih u osiguranju određenog mjeseca te bez obzira na to radi li se o radu u punom odnosno nepunom radnom vremenu.
+
+(4) Ako se plaća za određeni mjesec isplaćuje u više navrata, umanjenje iz stavka 1. ili 2. ovoga članka primjenjuje se pri prvoj isplati. Ako je umanjenje veće od iznosa mjesečne osnovice iz članka 21. ovoga Zakona pri prvoj isplati, preostali dio umanjenja koristi se pri sljedećim isplatama za određeni mjesec.
+
+(5) Ako osiguranik radi kod dva ili više poslodavaca, poslodavac će pri obračunu koristiti umanjenje mjesečne osnovice razmjerno udjelu pojedine bruto plaće po poslodavcu u odnosu na ukupan iznos bruto plaća kod svih poslodavaca na temelju:
+
+1. izjave radnika o broju poslodavaca i iznosu bruto plaće kod svakog poslodavca u tom mjesecu ili
+
+2. prema podacima Porezne uprave o ukupnom pravu na umanjenje prema podacima za prethodni mjesec ako radnik ne dostavi izjavu iz točke 1. ovoga stavka.
+
+(6) Ako se za osiguranika tijekom mjeseca uspostavi novo osiguranje po osnovi radnog odnosa, radi korištenja umanjenja iz stavka 1. ili 2. ovoga članka osiguranik mora dati izjavu iz stavka 5. točke 1. ovoga članka svim poslodavcima. Ako osiguranik ne dostavi izjave svim poslodavcima, ne može koristiti umanjenje iz stavka 1. ili 2. ovoga članka.
+
+(7) Za utvrđivanje prava iz mirovinskog osiguranja koristi se osnovica iz članka 21. ovoga Zakona bez umanjenja iz ovoga članka.
+
+(8) Ministar financija pravilnikom propisuje način provedbe ovoga članka u vezi s umanjenjem mjesečne osnovice za obračun doprinosa za mirovinsko osiguranje.«.
+
+#### Članak 5.
+
+U članku 22. stavku 3. točka 3. mijenja se i glasi:
+
+»3. premije osiguranja koje poslodavci plaćaju za svoje radnike po osnovi životnog osiguranja, osiguranja njihove imovine, privatnoga zdravstvenog osiguranja, dopunskog i dodatnog zdravstvenog osiguranja iznad propisanog iznosa i dobrovoljnoga mirovinskog osiguranja iznad propisanog iznosa, sukladno propisima o porezu na dohodak,«.
+
+#### Članak 6.
+
+U naslovu iznad članka 42. i članku 42. riječi: »bez zasnivanja radnog odnosa« zamjenjuju se riječima: »prema posebnim propisima«.
+
+#### Članak 7.
+
+U članku 43. stavku 1. riječi: »bez zasnivanja radnog odnosa« zamjenjuju se riječima: »prema posebnim propisima«.
+
+#### Članak 8.
+
+Iza članka 59. dodaju se naslov iznad članka i članci 59.a do 59.d koji glase:
+
+*»1.7.a Za osiguranika po osnovi udomitelja*
+
+#### Članak 59.a
+
+Za osiguranika po osnovi udomitelja koji obavlja standardno udomiteljstvo i udomitelja koji obavlja specijalizirano udomiteljstvo za djecu (članak 9. stavak 1. točka 35.) obveznik doprinosa te obveznik obračunavanja i obveznik plaćanja doprinosa jest ministarstvo nadležno za socijalnu skrb, putem centra udomitelja.
+
+#### Članak 59.b
+
+Doprinosi se obračunavaju na osnovicu prema mjesečnoj osnovici iz članka 59.c ovoga Zakona, i to:
+
+1. doprinos za mirovinsko osiguranje,
+
+2. doprinos za mirovinsko osiguranje na temelju individualne kapitalizirane štednje (za osiguranika tog osiguranja),
+
+3. doprinos za zdravstveno osiguranje.
+
+#### Članak 59.c
+
+Mjesečna osnovica za obračun doprinosa:
+
+1. za osiguranika po osnovi udomitelja koji obavlja standardno udomiteljstvo jest umnožak iznosa prosječne plaće i koeficijenta 0,38,
+
+2. za osiguranika po osnovi udomitelja koji obavlja specijalizirano udomiteljstvo za djecu jest umnožak iznosa prosječne plaće i koeficijenta 1,0.
+
+#### Članak 59.d
+
+(1) Doprinosi se obračunavaju i dospijevaju na naplatu do posljednjeg dana u mjesecu za prethodni mjesec.
+
+(2) O vrsti i iznosu obveze doprinosa, osnovici prema kojoj su doprinosi obračunani, razdoblju na koje se obveza odnosi i o drugim podacima koje utvrdi, obveznik obračunavanja sastavlja obračunsku ispravu za svakoga osiguranika te sastavlja izvješće i dostavlja ga Poreznoj upravi. Način i rok te oblik i sadržaj izvješća propisat će ministar financija.«.
+
+#### Članak 9.
+
+U članku 80. riječi: »i trgovca pojedinca« brišu se.
+
+#### Članak 10.
+
+U članku 133. stavku 2. riječi: »kunsku vrijednost prema srednjem tečaju Hrvatske narodne banke« zamjenjuju se riječima: »euro primjenom srednjeg tečaja koji Hrvatska narodna banka objavljuje«.
+
+U stavku 3. točki 2. riječ: »kune« zamjenjuje se riječju: »eura«.
+
+#### Članak 11.
+
+U članku 163. u uvodnoj rečenici, iza riječi: »okolnostima i na« dodaje se riječ: »obvezno«.
+
+U točki 1. riječ: »dodiplomskom« zamjenjuje se riječju: »prije­diplomskom«.
+
+#### Članak 12.
+
+U članku 179. stavku 1. riječi: »Hrvatski zavod za obvezno zdravstveno osiguranje« zamjenjuju se riječima: »Hrvatski zavod za zdravstveno osiguranje«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Za osiguranika koji ostvaruje pravo na naknadu plaće odnosno novčanu naknadu kao zaposleni ili samozaposleni korisnik na teret državnog proračuna u skladu sa zakonom kojim se uređuju rodiljne i roditeljske potpore, doprinos se plaća iz državnog proračuna, a obveznik obračunavanja doprinosa je Hrvatski zavod za zdravstveno osiguranje, a obveznik plaćanja doprinosa je tijelo državne uprave nadležno za demografiju.«.
+
+#### Članak 13.
+
+U članku 182. stavku 2. iza riječi: »obveznik obračunavanja« dodaju se riječi: »ili obveznik plaćanja«.
+
+#### Članak 14.
+
+U članku 187. stavku 2. riječi: »s danom podnošenja godišnje prijave« zamjenjuju se riječima: »sa zadnjim danom roka za podnošenje godišnje porezne prijave«.
+
+U stavku 3. riječi: »s danom podnošenja godišnje prijave« zamjenjuju se riječima: »sa zadnjim danom roka za podnošenje godišnje porezne prijave«.
+
+#### Članak 15.
+
+U članku 196. stavku 1. riječi: »članka 7.« zamjenjuju se riječima: »članka 26.«.
+
+#### Članak 16.
+
+U članku 197. riječi: »stavka 2.« zamjenjuju se riječima: »stavka 1. točke 2.2.«.
+
+#### Članak 17.
+
+U članku 203. stavku 2. riječi: »koeficijenti: 1,0 ili 2,0 ili 3,0 ili 4,0 ili 5,0 ili 6,0« zamjenjuju se riječima: »koeficijenti: 0,5 ili 0,75 ili 1,0 ili 1,5, ili 2,0 ili 2,5 ili 3,0 ili 3,5 ili 4,0 ili 4,5 ili 5,0 ili 5,5 ili 6,0«.
+
+#### Članak 18.
+
+U članku 209. stavku 1. točki 12. riječ: »i« briše se.
+
+Na kraju točke 13. briše se točka i dodaje riječ: »i«.
+
+Iza točke 13. dodaje se točka 14. koja glasi:
+
+»14. nagrada za dobro obavljenu uslugu (napojnica).«.
+
+#### Članak 19.
+
+U članku 234. stavku 3. iza riječi: »pravomoćno« dodaju se riječi: »odnosno do isteka pet godina od dana sistemskog otpisa duga zbog zastare prava na naplatu«.
+
+#### Članak 20.
+
+U članku 248.b stavku 3. riječ: »Naredbom« zamjenjuje se riječju: »Naputkom«.
+
+#### Članak 21.
+
+U članku 249. stavku 1. u uvodnoj rečenici riječi: »5.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »660,00 do 13.270,00 eura«, a u točki 4. riječi: »bez zasnivanja radnog odnosa« zamjenjuju se riječima: »prema posebnim propisima«.
+
+U stavku 2. riječi: »5.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »660,00 do 2650,00 eura«.
+
+#### Članak 22.
+
+U članku 250. stavku 1. u uvodnoj rečenici riječi: »5.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »660,00 do 6630,00 eura«, a u točki 2. riječi: »ili trgovca pojedinca« brišu se.
+
+U stavku 2. riječi: » 3.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »390,00 do 2650,00 eura«.
+
+#### Članak 23.
+
+U članku 251. stavku 1. u uvodnoj rečenici riječi: »5.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »660,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »3.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »390,00 do 2650,00 eura«.
+
+#### Članak 24.
+
+U članku 252. u uvodnoj rečenici riječi: »5.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »660,00 do 3980,00 eura«, a u točki 5. riječi: »i trgovca pojedinca« brišu se.
+
+#### Članak 25.
+
+U članku 252.a stavku 1. u uvodnoj rečenici riječi: »100.000,00 do 1.000.000,00 kuna« zamjenjuju se riječima: »13.270,00 do 132.720,00 eura«.
+
+U stavku 2. riječi: »5.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »660,00 do 2650,00 eura«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 26.
+
+(1) Odredbe članka 14. ovoga Zakona primjenjuju se za obveze doprinosa utvrđene za 2023. godinu.
+
+(2) Ministar financija uskladit će Pravilnik o doprinosima (»Narodne novine«, br. 2/09., 9/09. – ispravak, 97/09., 25/11., 61/12., 86/13., 157/14., 128/17., 1/19. i 43/23.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+(3) Iznimno od odredbe članka 254. stavka 1. Zakona o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14., 115/16., 106/18. i 33/23.), Naredbu o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2024. godinu ministar financija donijet će u roku od osam dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 27.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 28.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. prosinca 2023., osim članaka 17. i 18. ovoga Zakona koji stupaju na snagu 1. siječnja 2024.
+
+Klasa: 022-02/23-01/54
+
+Zagreb, 28. rujna 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o doprinosima (NN 152/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2506*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O DOPRINOSIMA
+
+Proglašavam Zakon o izmjenama Zakona o doprinosima, koji je Hrvatski sabor donio na sjednici 13. prosinca 2024.
+
+Klasa: 011-02/24-02/91
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 17. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O DOPRINOSIMA**
+
+#### Članak 1.
+
+U Zakonu o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14., 115/16., 106/18., 33/23. i 114/23.) u članku 7. točki 22. riječi: »iznose poreza i prireza porezu« zamjenjuju se riječima: »iznos poreza«.
+
+Točka 31. mijenja se i glasi:
+
+»31. osoba koja se prvi put zapošljava jest fizička osoba koju poslodavac po osnovi ugovora o stručnom osposobljavanju za rad prijavljuje na obvezno mirovinsko osiguranje i obvezno zdravstveno osiguranje te do dana početka osiguranja nema evidentiran staž u mirovinskom osiguranju odnosno ima evidentiran staž do osam dana (uključujući i osmi dan) po osnovi drugog dohotka, osim po osnovi roditelja koji obavlja roditeljske dužnosti, niti je staž mirovinskog osiguranja ostvarila kod inozemnog nositelja obveznoga mirovinskog osiguranja;«.
+
+U točkama 33. do 35. riječi: »iznose poreza i prireza porezu« zamjenjuju se riječima: »iznos poreza«.
+
+U točki 39. riječi: »i prireza porezu« brišu se.
+
+Točka 54. mijenja se i glasi:
+
+»54. osoba koja se prvi put zapošljava po osnovi ugovora o radu jest fizička osoba koju poslodavac po osnovi ugovora o radu sklopljenog na neodređeno vrijeme prijavljuje na obvezno mirovinsko osiguranje i obvezno zdravstveno osiguranje, a do dana sklapanja ugovora o radu nije imala prethodno sklopljen ugovor o radu na neodređeno vrijeme;«.
+
+#### Članak 2.
+
+U članku 20. stavci 4. i 5. brišu se.
+
+#### Članak 3.
+
+U članku 36. stavci 4. i 5. brišu se.
+
+#### Članak 4.
+
+U članku 115. stavku 3. riječi: »kunsku vrijednost« zamjenjuju se riječju: »euro«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 5.
+
+Poslodavac koji je započeo koristiti oslobođenje od obveze doprinosa na osnovicu za osobu koja se prvi put zapošljava i/ili za mladu osobu prema odredbama Zakona o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14., 115/16., 106/18., 33/23. i 114/23.) nastavlja koristiti oslobođenje sukladno odredbama toga Zakona.
+
+#### Članak 6.
+
+Poslodavac koji koristi ili je iskoristio oslobođenje od obveze doprinosa za osobu koja se prvi put zapošljava na temelju ugovora o radu na određeno vrijeme prema članku 7. stavku 1. točki 31. Zakona o doprinosima (»Narodne novine«, br. 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14., 115/16., 106/18., 33/23. i 114/23.) može koristiti oslobođenje od obveze doprinosa za osobu koja se prvi put zapošljava po osnovi ugovora o radu na neodređeno vrijeme sukladno članku 1. stavku 5. ovoga Zakona i ako sklopi s istom osobom ugovor o radu na neodređeno vrijeme.
+
+#### Članak 7.
+
+Ministar financija uskladit će Pravilnik o doprinosima (»Narodne novine«, br. 2/09., 9/09. – ispravak, 97/09., 25/11., 61/12., 86/13., 157/14., 128/17., 1/19., 43/23., 143/23. i 14/24. – ispravak) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+#### Članak 8.
+
+Ministarstvo financija će u roku od tri godine od dana stupanja na snagu ovoga Zakona provesti vrednovanje ovoga Zakona.
+
+#### Članak 9.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2025.
+
+Klasa: 022-02/24-01/110
+
+Zagreb, 13. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

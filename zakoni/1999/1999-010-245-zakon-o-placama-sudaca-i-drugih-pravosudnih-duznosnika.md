@@ -6,11 +6,11 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-02-01
-last_amended: 2012-12-20
+last_amended: 2023-06-30
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "10/99, 25/00, 1/01, 30/01, 59/01, 114/01, 64/02, 153/02, 17/04, 8/06, 142/06, 134/07, 146/08, 155/08, 39/09, 155/09, 14/11, 154/11, 143/12"
+narodne_novine: "10/99, 25/00, 1/01, 30/01, 59/01, 114/01, 64/02, 153/02, 17/04, 8/06, 142/06, 134/07, 146/08, 155/08, 39/09, 155/09, 14/11, 154/11, 143/12, 120/16, 16/19, 71/23"
 amendments:
   - "NN 25/2000 (437) Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
   - "NN 1/2001 (5) Uredba o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
@@ -30,6 +30,9 @@ amendments:
   - "NN 14/2011 (264) Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
   - "NN 154/2011 (3212) Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
   - "NN 143/2012 (3035) Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 120/2016 (2614) Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 16/2019 (318) Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
+  - "NN 71/2023 (1176) Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/10/245"
 retrieved: 2026-10-12
 ---
@@ -38,7 +41,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 10/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/10/245).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2000, NN 1/2001, NN 30/2001, NN 59/2001, NN 114/2001, NN 64/2002, NN 153/2002, NN 17/2004, NN 8/2006, NN 142/2006, NN 134/2007, NN 146/2008, NN 155/2008, NN 39/2009, NN 155/2009, NN 14/2011, NN 154/2011, NN 143/2012.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2000, NN 1/2001, NN 30/2001, NN 59/2001, NN 114/2001, NN 64/2002, NN 153/2002, NN 17/2004, NN 8/2006, NN 142/2006, NN 134/2007, NN 146/2008, NN 155/2008, NN 39/2009, NN 155/2009, NN 14/2011, NN 154/2011, NN 143/2012, NN 120/2016, NN 16/2019, NN 71/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1253,3 +1256,370 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 120/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/120/2614*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je Hrvatski sabor donio na sjednici 9. prosinca 2016. godine.
+
+Klasa: 011-01/16-01/70
+
+Urbroj: 71-06-01/1-16-2
+
+Zagreb, 13. prosinca 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 30/01., 59/01., 114/01., 116/01., 64/02., 153/02., 154/02., 17/04., 34/07., 146/08., 39/09., 14/11., 12/12., 143/12., 100/14. i 147/14.), članak 5. briše se.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2017.
+
+Klasa: 022-03/16-01/119
+
+Zagreb, 9. prosinca 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 16/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/16/318*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je Hrvatski sabor donio na sjednici 8. veljače 2019. godine.
+
+Klasa: 011-01/19-01/28  
+Urbroj: 71-06-01/1-19-2  
+Zagreb, 13. veljače 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 30/01., 59/01., 114/01., 116/01., 64/02., 153/02., 154/02., 17/04., 8/06., 142/06., 34/07., 146/08., 155/08., 39/09., 155/09., 14/11., 154/11., 12/12., 143/12., 100/14., 147/14. i 120/16.) u članku 4. stavku 2. brojka: »4.443,958« zamjenjuje se brojkom: »4.710,595«.
+
+U stavku 3. točke 4., 5., 6., 7. i 8. mijenjaju se i glase:
+
+| »4. a) predsjednik Visokog upravnog suda Republike Hrvatske | 6,42 |
+|---|---|
+| b) predsjednik Visokog trgovačkog suda Republike Hrvatske | 6,42 |
+| c) predsjednik Visokog prekršajnog suda Republike Hrvatske | 6,42 |
+| d) predsjednik Visokog kaznenog suda Republike Hrvatske | 6,42 |
+| e) suci Vrhovnog suda Republike Hrvatske | 6,42 |
+| f) zamjenici Glavnog državnog odvjetnika Republike Hrvatske | 6,42 |
+| 5. a) suci Visokog upravnog suda Republike Hrvatske | 5,70 |
+| b) suci Visokog trgovačkog suda Republike Hrvatske | 5,70 |
+| c) suci Visokog prekršajnog suda Republike Hrvatske | 5,70 |
+| d) suci Visokog kaznenog suda Republike Hrvatske | 5,70 |
+| e) zamjenici ravnatelja Ureda za suzbijanje korupcije i organiziranog kriminaliteta | 5,70 |
+| 6. a) predsjednici županijskih sudova određenih za postupanje u predmetima kaznenih djela određenih zakonom kojim se uređuje ustrojstvo i nadležnost Ureda za suzbijanje korupcije i organiziranog kriminaliteta | 5,80 |
+| b) predsjednici županijskih sudova | 4,98 |
+| c) županijski državni odvjetnici | 4,98 |
+| 7. a) suci županijskih sudova iz točke 6. a) ovoga članka određeni za postupanje u kaznenim predmetima korupcije i organiziranog kriminaliteta | 5,70 |
+| b) suci županijskih sudova | 4,55 |
+| c) zamjenici županijskih državnih odvjetnika | 4,55 |
+| d) predsjednici općinskih sudova | 4,55 |
+| e) predsjednici upravnih sudova | 4,55 |
+| f) predsjednici trgovačkih sudova | 4,55 |
+| g) općinski državni odvjetnici | 4,55 |
+| 8. a) suci općinskih sudova | 3,54 |
+| b) suci upravnih sudova | 3,54 |
+| c) suci trgovačkih sudova | 3,54 |
+| d) zamjenici općinskih državnih odvjetnika | 3,54«. |
+
+Točka 9. briše se.
+
+Stavak 4. mijenja se i glasi:
+
+»Predsjednici županijskih, općinskih, upravnih i trgovačkih sudova te županijski i općinski državni odvjetnici imaju pravo na povišeni koeficijent:
+
+– u sudovima ili državnim odvjetništvima koji imaju 21 – 50 sudaca ili zamjenika za 0,29
+
+– u sudovima ili državnim odvjetništvima koji imaju 51 – 100 sudaca ili zamjenika za 0,43
+
+– u sudovima ili državnim odvjetništvima koji imaju više od 100 sudaca ili zamjenika za 0,58.«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. ožujka 2019., osim članka 1. ovoga Zakona u dijelu u kojem se mijenja članak 4. stavak 3. točka 4.d) i točka 5.d) Zakona koje stupaju na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/12
+
+Zagreb, 8. veljače 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika (NN 71/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/71/1176*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika, koji je Hrvatski sabor donio na sjednici 28. lipnja 2023.
+
+Klasa: 011-02/23-02/56
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 28. lipnja 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PLAĆAMA SUDACA I DRUGIH PRAVOSUDNIH DUŽNOSNIKA**
+
+#### Članak 1.
+
+U Zakonu o plaćama sudaca i drugih pravosudnih dužnosnika (»Narodne novine«, br. 10/99., 25/00., 30/01., 59/01., 114/01., 116/01., 64/02., 153/02., 154/02., 17/04., 8/06., 142/06., 34/07., 134/07., 146/08., 155/08., 39/09., 155/09., 14/11., 154/11., 12/12., 143/12., 100/14., 147/14., 120/16. i 16/19.) naziv Zakona mijenja se i glasi: »Zakon o plaći i drugim materijalnim pravima pravosudnih dužnosnika«.
+
+#### Članak 2.
+
+Članak 1. mijenja se i glasi:
+
+»Ovim se Zakonom uređuju plaće i druga materijalna prava predsjednika i sudaca svih sudova te državnih odvjetnika i njihovih zamjenika (u daljnjem tekstu: pravosudni dužnosnici).
+
+Pravosudni dužnosnici u smislu ovoga Zakona jesu:
+
+1. u sudovima:
+
+– predsjednik Vrhovnog suda Republike Hrvatske,
+
+– suci Vrhovnog suda Republike Hrvatske,
+
+– predsjednik Visokoga upravnog suda Republike Hrvatske,
+
+– suci Visokoga upravnog suda Republike Hrvatske,
+
+– predsjednik Visokoga trgovačkog suda Republike Hrvatske,
+
+– suci Visokoga trgovačkog suda Republike Hrvatske,
+
+– predsjednik Visokoga prekršajnog suda Republike Hrvatske,
+
+– suci Visokoga prekršajnog suda Republike Hrvatske,
+
+– predsjednik Visokoga kaznenog suda Republike Hrvatske,
+
+– suci Visokoga kaznenog suda Republike Hrvatske,
+
+– predsjednici županijskih sudova,
+
+– suci županijskih sudova,
+
+– predsjednici općinskih sudova,
+
+– suci općinskih sudova,
+
+– predsjednici upravnih sudova,
+
+– suci upravnih sudova,
+
+– predsjednici trgovačkih sudova,
+
+– suci trgovačkih sudova.
+
+2. u državnim odvjetništvima:
+
+– Glavni državni odvjetnik Republike Hrvatske,
+
+– zamjenici Glavnoga državnog odvjetnika Republike Hrvatske,
+
+– ravnatelj Ureda za suzbijanje korupcije i organiziranog kriminaliteta,
+
+– zamjenici ravnatelja Ureda za suzbijanje korupcije i organiziranog kriminaliteta,
+
+– županijski državni odvjetnici,
+
+– zamjenici županijskih državnih odvjetnika,
+
+– općinski državni odvjetnici,
+
+– zamjenici općinskih državnih odvjetnika.«.
+
+#### Članak 3.
+
+U članku 4. stavci 2. i 3. mijenjaju se i glase:
+
+»Osnovica za izračun plaće pravosudnih dužnosnika utvrđuje se u visini od 706,50 eura bruto.
+
+Koeficijenti za izračun plaće sudaca i drugih pravosudnih dužnosnika su:
+
+1.a) predsjednik Vrhovnog suda Republike Hrvatske 7,86
+
+2.a) Glavni državni odvjetnik Republike Hrvatske 7,86
+
+3.a) ravnatelj Ureda za suzbijanje korupcije i organiziranog kriminaliteta 7,14
+
+4. a) predsjednik Visokoga upravnog suda Republike Hrvatske 6,42
+
+b) predsjednik Visokoga trgovačkog suda Republike Hrvatske 6,42
+
+c) predsjednik Visokoga prekršajnog suda Republike Hrvatske 6,42
+
+d) predsjednik Visokoga kaznenog suda Republike Hrvatske 6,42
+
+e) suci Vrhovnog suda Republike Hrvatske 6,42
+
+f) zamjenici Glavnoga državnog odvjetnika Republike Hrvatske 6,42
+
+5. a) suci Visokoga upravnog suda Republike Hrvatske 5,70
+
+b) suci Visokoga trgovačkog suda Republike Hrvatske 5,70
+
+c) suci Visokoga prekršajnog suda Republike Hrvatske 5,70
+
+d) suci Visokoga kaznenog suda Republike Hrvatske 5,70
+
+e) zamjenici ravnatelja Ureda za suzbijanje korupcije i organiziranog kriminaliteta 5,70
+
+6. a) predsjednici županijskih sudova određenih za postupanje u predmetima kaznenih djela određenih zakonom kojim se uređuje ustrojstvo i nadležnost Ureda za suzbijanje korupcije i organiziranog kriminaliteta 5,80
+
+b) predsjednici županijskih sudova koji imaju više od 100 sudaca 5,56
+
+c) predsjednici županijskih sudova koji imaju 51 – 100 sudaca 5,41
+
+d) predsjednici županijskih sudova koji imaju 21 – 50 sudaca 5,27
+
+e) predsjednici županijskih sudova koji imaju manje od 20 sudaca 4,98
+
+f) županijski državni odvjetnici u županijskim državnim odvjetništvima koja imaju više od 100 zamjenika 5,56
+
+g) županijski državni odvjetnici u županijskim državnim odvjetništvima koja imaju 51 – 100 zamjenika 5,41
+
+h) županijski državni odvjetnici u županijskim državnim odvjetništvima koja imaju 21 – 50 zamjenika 5,27
+
+i) županijski državni odvjetnici u županijskim državnim odvjetništvima koja imaju manje od 20 zamjenika 4,98
+
+7. a) suci županijskih sudova iz točke 6. a) ovoga članka određeni za postupanje u kaznenim predmetima korupcije i organiziranog kriminaliteta 5,70
+
+b) suci županijskih sudova 4,55
+
+c) zamjenici županijskih državnih odvjetnika 4,55
+
+d) predsjednici općinskih sudova koji imaju više od 100 sudaca 5,13
+
+e) predsjednici općinskih sudova koji imaju 51 – 100 sudaca 4,98
+
+f) predsjednici općinskih sudova koji imaju 21 – 50 sudaca 4,84
+
+g) predsjednici općinskih sudova koji imaju manje od 20 sudaca 4,55
+
+h) predsjednici upravnih sudova koji imaju više od 100 sudaca 5,13
+
+i) predsjednici upravnih sudova koji imaju 51 – 100 sudaca 4,98
+
+j) predsjednici upravnih sudova koji imaju 21 – 50 sudaca 4,84
+
+k) predsjednici upravnih sudova koji imaju manje od 20 sudaca 4,55
+
+l) predsjednici trgovačkih sudova koji imaju više od 100 sudaca 5,13
+
+m) predsjednici trgovačkih sudova koji imaju 51 – 100 sudaca 4,98
+
+n) predsjednici trgovačkih sudova koji imaju 21 – 50 sudaca 4,84
+
+o) predsjednici trgovačkih sudova koji imaju manje od 20 sudaca 4,55
+
+p) općinski državni odvjetnici u općinskim državnim odvjetništvima koja imaju više od 100 zamjenika 5,13
+
+r) općinski državni odvjetnici u općinskim državnim odvjetništvima koja imaju 51 – 100 zamjenika 4,98
+
+s) općinski državni odvjetnici u općinskim državnim odvjetništvima koja imaju 21 – 50 zamjenika 4,84
+
+t) općinski državni odvjetnici u općinskim državnim odvjetništvima koja imaju manje od 20 zamjenika 4,55
+
+8. a) suci općinskih sudova 4,21
+
+b) suci upravnih sudova 4,21
+
+c) suci trgovačkih sudova 4,21
+
+d) zamjenici općinskih državnih odvjetnika 4,21.«.
+
+Stavak 4. briše se.
+
+#### Članak 4.
+
+U članku 6. riječi: »i 5.« brišu se.
+
+#### Članak 5.
+
+U članku 7. stavku 1. iza riječi: »ministar« dodaju se riječi: »nadležan za poslove«.
+
+#### Članak 6.
+
+U članku 8. stavak 2. mijenja se i glasi:
+
+»Naknada za odvojeni život od obitelji iz stavka 1. točke 1. ovoga članka priznaje se pravosudnom dužnosniku u iznosu od 132,72 eura mjesečno odnosno 66,36 eura mjesečno kada je pravosudnom dužnosniku osiguran smještaj na teret državnog proračuna. Troškovi putovanja u mjesto stanovanja obitelji u vrijeme tjednog odmora i državnog blagdana iz stavka 1. točke 1. ovoga članka priznaju se pravosudnom dužnosniku u visini cijene putne karte za prijevoz najkraćim putem i najekonomičnijim sredstvom javnog prijevoza.«.
+
+#### Članak 7.
+
+Članak 9. mijenja se i glasi:
+
+»Rješenja o utvrđivanju prava iz članka 4. i 8. ovoga Zakona donosi čelnik pravosudnog tijela.
+
+Protiv rješenja iz stavka 1. ovoga članka može se izjaviti žalba ministarstvu nadležnom za poslove pravosuđa u roku od 15 dana od dana dostave rješenja.«.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 8.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/47
+
+Zagreb, 28. lipnja 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

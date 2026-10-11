@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-07-21
-last_amended: 2012-02-28
+last_amended: 2024-11-27
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "85/08, 55/11, 25/12"
+narodne_novine: "85/08, 55/11, 25/12, 136/24"
 amendments:
   - "NN 55/2011 (1205) Zakon o izmjenama i dopuni Zakona o Financijskom inspektoratu Republike Hrvatske"
   - "NN 25/2012 (631) Zakon o izmjenama i dopuni Zakona o Financijskom inspektoratu Republike Hrvatske"
+  - "NN 136/2024 (2246) Zakon o izmjenama i dopunama Zakona o Financijskom inspektoratu Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/85/2731"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 85/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/85/2731).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 55/2011, NN 25/2012.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 55/2011, NN 25/2012, NN 136/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -430,3 +431,199 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Boris Šprem, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Financijskom inspektoratu Republike Hrvatske (NN 136/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/136/2246*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIJSKOM INSPEKTORATU REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Financijskom inspektoratu Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 15. studenoga 2024.
+
+Klasa: 011-02/24-02/65
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 22. studenoga 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIJSKOM INSPEKTORATU REPUBLIKE HRVATSKE**
+
+#### Članak 1.
+
+U Zakonu o Financijskom inspektoratu Republike Hrvatske (»Narodne novine«, br. 85/08., 55/11. i 25/12.) u članku 1. stavak 2. mijenja se i glasi:
+
+»(2) Financijski inspektorat je upravna organizacija u sastavu Ministarstva financija koja nadzire primjenu propisa u području sprječavanja pranja novca i financiranja terorizma, u području deviznog i prekograničnog poslovanja i pružanja usluga platnog prometa i prijenosa novca, u području provedbe ovrhe na novčanim sredstvima te u području djelatnosti kupoprodaje i servisiranja potraživanja.«.
+
+#### Članak 2.
+
+U članku 3. iza stavka 3. dodaju se novi stavak 4. i stavak 5. koji glase:
+
+»(4) U području provedbe ovrhe na novčanim sredstvima Financijski inspektorat nadzire postupanje Financijske agencije i drugih pravnih i fizičkih osoba sukladno odredbama zakona kojim se uređuje ovrha na novčanim sredstvima te propisima donesenim na temelju toga zakona.
+
+(5) U području djelatnosti kupoprodaje i servisiranja potraživanja Financijski inspektorat obavlja nadzor nad kupcem drugog potraživanja, zastupnikom kupca drugog potraživanja, imenovanim subjektom za pružanje usluga servisiranja koji je pravna osoba i ima odobrenje Ministarstva financija za pružanje usluga potrošačkog kreditiranja, pružateljem usluge servisiranja drugog potraživanja i izvoditeljem usluge servisiranja drugog potraživanja sukladno odredbama zakona kojim se uređuje način, uvjeti i postupak servisiranja i kupoprodaje potraživanja te propisima donesenim na temelju toga zakona.«.
+
+Dosadašnji stavak 4. postaje stavak 6.
+
+#### Članak 3.
+
+U članku 5. riječi: »upravlja predstojnik Financijskog inspektorata« zamjenjuju se riječima: »rukovodi glavni financijski inspektor«.
+
+#### Članak 4.
+
+U članku 17. stavku 1. točka 4. mijenja se i glasi:
+
+»4. privremeno ograničiti i/ili zabraniti obavljanje određene poslovne aktivnosti ili pružanje usluge,«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ministar financija donosi pravilnik kojim će detaljnije urediti način izricanja nadzornih mjera iz stavka 1. ovoga članka.«.
+
+#### Članak 5.
+
+Članak 21. briše se.
+
+#### Članak 6.
+
+U članku 22. riječi: »kune koje su bile« zamjenjuju se riječima: »euri koji su bili«.
+
+#### Članak 7.
+
+Naslov iznad članka 23. mijenja se i glasi: »Privremena mjera ograničavanja i/ili zabrane obavljanja određene poslovne aktivnosti ili pružanja usluge«.
+
+Članak 23. mijenja se i glasi:
+
+»(1) Financijski inspektorat može subjektu nadzora rješenjem ograničiti i/ili zabraniti obavljanje određene poslovne aktivnosti ili pružanje usluge ako tijekom nadzora utvrdi da će obavljanje poslovne aktivnosti ili pružanje usluge dovesti do novih povreda odredbi zakona iz nadležnosti Financijskog inspektorata.
+
+(2) Ograničenje i/ili zabrana obavljanja određene poslovne aktivnosti ili pružanja usluge može trajati najdulje 12 mjeseci.
+
+(3) Protiv rješenja iz stavka 1. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.«.
+
+#### Članak 8.
+
+Iza članka 25. dodaje se naslov iznad članka i članak 25.a koji glase:
+
+*»Međunarodna suradnja*
+
+#### Članak 25.a
+
+(1) Financijski inspektorat surađuje s nadležnim tijelima drugih država članica i nadležnim tijelima Europske unije u skladu s pravnim aktima Europske unije i propisima Republike Hrvatske.
+
+(2) Financijski inspektorat razmjenjuje informacije iz djelokruga i nadležnosti propisanih ovim Zakonom u svrhu obavljanja nadzora i drugih poslova za koje je ovlašten s nadležnim tijelima drugih država članica te europskim nadležnim tijelima i organizacijama radi omogućavanja obavljanja njihovih zadaća.
+
+(3) Financijski inspektorat može surađivati i razmjenjivati informacije u svrhu obavljanja nadzora ili drugih poslova za koje je ovlašten s nadležnim tijelima trećih zemalja na temelju sklopljenih sporazuma u skladu s pravnim aktima Europske unije i propisima Republike Hrvatske.
+
+(4) Financijski inspektorat će dostaviti tražene informacije nadležnom tijelu iz stavka 2. ovoga članka ako to tijelo može osigurati zaštitu razmijenjenih informacija i čuvati ih kao povjerljive u skladu s nacionalnim zakonodavstvom toga tijela te ako će se razmijenjene informacije upotrijebiti samo i isključivo u svrhu za koju su dostavljene.
+
+(5) Financijski inspektorat o međunarodnoj suradnji iz svoje nadležnosti vodi posebnu evidenciju.«.
+
+#### Članak 9.
+
+U članku 28. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Ako su ispunjeni uvjeti za vođenje žurnog postupka, prekršajni postupak može provesti te odluku o prekršaju i druge odluke donijeti voditelj postupka pojedinac.«.
+
+Dosadašnji stavak 4., koji postaje stavak 5., mijenja se i glasi:
+
+»(5) O žalbi protiv odluka Vijeća iz stavka 3. ovoga članka i odluka voditelja postupka pojedinca iz stavka 4. ovoga članka odlučuje Visoki prekršajni sud Republike Hrvatske.«.
+
+#### Članak 10.
+
+U članku 29. stavak 3. mijenja se i glasi:
+
+»(3) Za predsjednika Vijeća i voditelja postupka pojedinca iz članka 28. stavka 4. ovoga Zakona može se imenovati osoba koja ima završen diplomski sveučilišni studij prava odnosno integrirani preddiplomski i diplomski sveučilišni studij prava i položen pravosudni ispit.«.
+
+#### Članak 11.
+
+U članku 31. iza riječi: »članova Vijeća« dodaju se riječi: »i voditelja postupka pojedinca«.
+
+#### Članak 12.
+
+U članku 32. iza riječi: »Član Vijeća« dodaju se riječi: »i voditelj postupka pojedinac«.
+
+#### Članak 13.
+
+U članku 33. stavku 1. iza riječi: »Članove Vijeća« dodaju se riječi: »i voditelje postupka pojedince«.
+
+U stavku 4. iza riječi: »članovi Vijeća« dodaju se riječi: »ili voditelji postupka pojedinci«.
+
+#### Članak 14.
+
+U članku 34. stavku 1. iza riječi: »Vijeće« dodaju se riječi: »i voditelj postupka pojedinac«.
+
+#### Članak 15.
+
+Članak 35. mijenja se i glasi:
+
+»Ako osuđenik u roku koji je određen u odluci o prekršaju ne plati izrečenu novčanu kaznu i troškove postupka u cijelosti ili djelomično, postupak izvršenja pravomoćne odluke o prekršaju provest će službe za prekršajni postupak Financijskog inspektorata primjenom odredbi zakona kojim se uređuje prekršajni postupak i zakona kojim se uređuje provedba ovrhe na novčanim sredstvima.«.
+
+#### Članak 16.
+
+U članku 36. stavku 4. iza točke 3. na kraju rečenice briše se točka i dodaje se točka 4. koja glasi:
+
+»4. ako se podaci daju u postupku međunarodne suradnje iz članka 25.a ovoga Zakona.«.
+
+#### Članak 17.
+
+Iznad članka 40. naziv odjeljka IX. mijenja se i glasi: »PREKRŠAJNE ODREDBE«.
+
+U članku 40. stavku 1. riječi: »ne dade« zamjenjuju se riječima: »ne da«, a riječi: »od 20.000,00 do 800.000,00 kuna« zamjenjuju se riječima: »od 2650,00 do 106.170,00 eura«.
+
+U stavku 2. riječi: »od 5.000,00 do 40.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 5300,00 eura«.
+
+U stavku 3. riječi: »od 20.000,00 do 80.000,00 kuna« zamjenjuju se riječima: »od 2650,00 do 10.610,00 eura«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Novčanom kaznom u iznosu od 10,00 do 5300,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba građanin.«.
+
+#### Članak 18.
+
+U članku 41. stavku 1. riječi: »od 50.000,00 do 1.000.000,00 kuna« zamjenjuju se riječima: »od 6630,00 do 132.720,00 eura«.
+
+U stavku 2. riječi: »od 10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 6630,00 eura«.
+
+U stavku 3. riječi: »od 35.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 4640,00 do 13.270,00 eura«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Novčanom kaznom u iznosu od 10,00 do 6630,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba građanin.«.
+
+#### Članak 19.
+
+Članak 42. briše se.
+
+#### Članak 20.
+
+U cijelom tekstu Zakona o Financijskom inspektoratu (»Narodne novine«, br. 85/08., 55/11. i 25/12.) riječi: »Zakon o sprječavanju pranja novca i financiranja terorizma« u određenom padežu zamjenjuju se riječima: »zakon kojim se uređuje sprječavanje pranja novca i financiranje terorizma« u odgovarajućem padežu, riječi: »Zakon o deviznom poslovanju« u određenom padežu zamjenjuju se riječima: »zakon kojim se uređuje devizno i prekogranično poslovanje« u odgovarajućem padežu, riječi: »Prekršajni zakon« u određenom padežu zamjenjuju se riječima: »zakon kojim se uređuje prekršajni postupak« u odgovarajućem padežu, a riječi: »predstojnik« i »predstojnik Financijskog inspektorata« u određenom padežu zamjenjuju se riječima: »glavni financijski inspektor« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 21.
+
+Ministar financija donijet će pravilnik iz članka 4. ovoga Zakona u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 22.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/51
+
+Zagreb, 15. studenoga 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

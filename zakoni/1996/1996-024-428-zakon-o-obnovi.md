@@ -6,11 +6,11 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-03-26
-last_amended: 2013-04-30
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "24/96, 54/96, 87/96, 57/00, 38/09, 45/11, 51/13"
+narodne_novine: "24/96, 54/96, 87/96, 57/00, 38/09, 45/11, 51/13, 98/19"
 amendments:
   - "NN 54/1996 (1002) Zakon o izmjenama Zakona o obnovi"
   - "NN 87/1996 (1522) Zakon o dopuni Zakona o obnovi"
@@ -18,6 +18,7 @@ amendments:
   - "NN 38/2009 (836) Zakon o izmjenama Zakona o obnovi"
   - "NN 45/2011 (1049) Zakon o izmjenama Zakona o obnovi"
   - "NN 51/2013 (1048) Zakon o izmjenama Zakona o obnovi (NN br. 51A)"
+  - "NN 98/2019 (1974) Zakon o izmjenama Zakona o obnovi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/24/428"
 retrieved: 2026-10-12
 ---
@@ -26,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 24/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/24/428).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 54/1996, NN 87/1996, NN 57/2000, NN 38/2009, NN 45/2011, NN 51/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 54/1996, NN 87/1996, NN 57/2000, NN 38/2009, NN 45/2011, NN 51/2013, NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1320,3 +1321,49 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o obnovi (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1974*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBNOVI
+
+Proglašavam Zakon o izmjenama Zakona o obnovi, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/182
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBNOVI**
+
+### Članak 1.
+
+U Zakonu o obnovi (»Narodne novine«, br. 24/96., 54/96., 87/96., 57/00., 38/09., 45/11. i 51A/13.) u cijelom tekstu Zakona riječi: »ured državne uprave u županiji« u određenom padežu zamjenjuju se riječima: »upravno tijelo županije, odnosno Grada Zagreba« u odgovarajućem padežu.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/177
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

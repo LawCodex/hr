@@ -93,7 +93,6 @@ ZBIRNI PREGLED SREDSTAVA ZA DECENTRALIZIRANE FUNKCIJE U PRVOM TROMJESEČJU
 Tablica 1.
 
 <table>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">ŠKOLSTVO</td>
@@ -102,7 +101,6 @@ Tablica 1.
 <td>VATROGASTVO</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>OSNOVNO</td>
@@ -113,7 +111,6 @@ Tablica 1.
 <td>JAVNE</td>
 <td>SVEUKUPNE</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>ŠKOLSTVO</td>
@@ -124,7 +121,6 @@ Tablica 1.
 <td>VATROGASNE</td>
 <td>OBVEZE ZA</td>
 </tr>
-
 <tr>
 <td>ŽUPANIJA</td>
 <td>(OBVEZA</td>
@@ -135,7 +131,6 @@ Tablica 1.
 <td>POSTROJBE</td>
 <td>DECENTRALIZIRANE</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>GRADOVA I</td>
@@ -146,7 +141,6 @@ Tablica 1.
 <td>(OBVEZA OPĆINA I</td>
 <td>FUNKCIJE</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>ŽUPANIJA)</td>
@@ -157,7 +151,6 @@ Tablica 1.
 <td>GRADOVA)</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>1</td>
 <td>2</td>
@@ -168,7 +161,6 @@ Tablica 1.
 <td>7</td>
 <td>8 (2+3+4+5+6+7)</td>
 </tr>
-
 <tr>
 <td>ZAGREBAČKA</td>
 <td>13.744.448</td>
@@ -179,7 +171,6 @@ Tablica 1.
 <td>3.014.247</td>
 <td>25.051.919</td>
 </tr>
-
 <tr>
 <td>KRAPINSKO-ZAGORSKA</td>
 <td>6.169.000</td>
@@ -190,7 +181,6 @@ Tablica 1.
 <td>1.013.520</td>
 <td>15.045.514</td>
 </tr>
-
 <tr>
 <td>SISAČKO-MOSLAVAČKA</td>
 <td>8.245.098</td>
@@ -201,7 +191,6 @@ Tablica 1.
 <td>2.740.078</td>
 <td>24.398.957</td>
 </tr>
-
 <tr>
 <td>KARLOVAČKA</td>
 <td>6.482.562</td>
@@ -212,7 +201,6 @@ Tablica 1.
 <td>2.060.792</td>
 <td>17.123.471</td>
 </tr>
-
 <tr>
 <td>VARAŽDINSKA</td>
 <td>7.670.833</td>
@@ -223,7 +211,6 @@ Tablica 1.
 <td>1.272.117</td>
 <td>18.899.092</td>
 </tr>
-
 <tr>
 <td>KOPRIVNIČKO-KRIŽEVAČKA</td>
 <td>5.437.447</td>
@@ -234,7 +221,6 @@ Tablica 1.
 <td>2.412.571</td>
 <td>14.996.551</td>
 </tr>
-
 <tr>
 <td>BJELOVARSKO-BILOGORSKA</td>
 <td>6.161.815</td>
@@ -245,7 +231,6 @@ Tablica 1.
 <td>1.987.273</td>
 <td>16.139.598</td>
 </tr>
-
 <tr>
 <td>PRIMORSKO-GORANSKA</td>
 <td>10.523.254</td>
@@ -256,7 +241,6 @@ Tablica 1.
 <td>6.459.472</td>
 <td>36.339.668</td>
 </tr>
-
 <tr>
 <td>LIČKO-SENJSKA</td>
 <td>3.145.610</td>
@@ -267,7 +251,6 @@ Tablica 1.
 <td>914.507</td>
 <td>9.248.055</td>
 </tr>
-
 <tr>
 <td>VIROVITIČKO-PODRAVSKA</td>
 <td>4.333.119</td>
@@ -278,7 +261,6 @@ Tablica 1.
 <td>990.680</td>
 <td>10.118.292</td>
 </tr>
-
 <tr>
 <td>POŽEŠKO-SLAVONSKA</td>
 <td>3.995.241</td>
@@ -289,7 +271,6 @@ Tablica 1.
 <td>467.520</td>
 <td>10.491.144</td>
 </tr>
-
 <tr>
 <td>BRODSKO-POSAVSKA</td>
 <td>7.897.474</td>
@@ -300,7 +281,6 @@ Tablica 1.
 <td>1.425.692</td>
 <td>18.859.523</td>
 </tr>
-
 <tr>
 <td>ZADARSKA</td>
 <td>6.724.617</td>
@@ -311,7 +291,6 @@ Tablica 1.
 <td>4.214.131</td>
 <td>21.662.893</td>
 </tr>
-
 <tr>
 <td>OSJEČKO-BARANJSKA</td>
 <td>13.826.175</td>
@@ -322,7 +301,6 @@ Tablica 1.
 <td>3.126.126</td>
 <td>35.577.213</td>
 </tr>
-
 <tr>
 <td>ŠIBENSKO-KNINSKA</td>
 <td>4.763.046</td>
@@ -333,7 +311,6 @@ Tablica 1.
 <td>2.177.389</td>
 <td>15.987.502</td>
 </tr>
-
 <tr>
 <td>VUKOVARSKO-SRIJEMSKA</td>
 <td>8.582.977</td>
@@ -344,7 +321,6 @@ Tablica 1.
 <td>2.407.891</td>
 <td>21.074.698</td>
 </tr>
-
 <tr>
 <td>SPLITSKO-DALMATINSKA</td>
 <td>17.481.610</td>
@@ -355,7 +331,6 @@ Tablica 1.
 <td>3.618.215</td>
 <td>46.917.729</td>
 </tr>
-
 <tr>
 <td>ISTARSKA</td>
 <td>9.580.100</td>
@@ -366,7 +341,6 @@ Tablica 1.
 <td>6.297.443</td>
 <td>29.703.234</td>
 </tr>
-
 <tr>
 <td>DUBROVAČKO-NERETVANSKA</td>
 <td>5.607.514</td>
@@ -377,7 +351,6 @@ Tablica 1.
 <td>2.361.400</td>
 <td>18.490.222</td>
 </tr>
-
 <tr>
 <td>MEĐIMURSKA</td>
 <td>4.971.792</td>
@@ -388,7 +361,6 @@ Tablica 1.
 <td>999.856</td>
 <td>12.422.938</td>
 </tr>
-
 <tr>
 <td>GRAD ZAGREB</td>
 <td>26.827.182</td>
@@ -399,7 +371,6 @@ Tablica 1.
 <td>9.422.757</td>
 <td>85.696.890</td>
 </tr>
-
 <tr>
 <td><b>UKUPNO</b></td>
 <td><b>182.170.914</b></td>
@@ -410,7 +381,6 @@ Tablica 1.
 <td><b>59.383.677</b></td>
 <td><b>504.245.103</b></td>
 </tr>
-
 </table>
 
 PREGLED SREDSTAVA ZA DECENTRALIZIRANE FUNKCIJE ZA OSNOVNO ŠKOLSTVO PO ŽUPANIJAMA U PRVOM TROMJESEČJU  

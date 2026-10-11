@@ -174,7 +174,6 @@ ZBIRNI PREGLED SREDSTAVA ZA DECENTRALIZIRANE FUNKCIJE ZA 2002. GODINU PO ŽUPANI
 u kunama
 
 <table>
-
 <tr>
 <td rowspan="4"><b><br> <br> <br> ŽUPANIJA</b></td>
 <td colspan="2"><b>ŠKOLSTVO</b></td>
@@ -182,7 +181,6 @@ u kunama
 <td><b>ZDRAVSTVO</b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
 </tr>
-
 <tr>
 <td><b><br> OSNOVNO</b><br> <b>ŠKOLSTVO</b></td>
 <td><b><br> SREDNJE</b><br> <b>ŠKOLSTVO</b></td>
@@ -191,7 +189,6 @@ u kunama
 <td><b><br> ZDRAVSTVENE</b><br> <b>USTANOVE</b></td>
 <td><b><br> OBVEZE ZA</b><br> <b>DECENTRALIZI-</b><br> <b>RANE FUNKCIJE</b></td>
 </tr>
-
 <tr>
 <td rowspan="2"><b>(obveza županija i</b><br> <b>(gradova)</b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
@@ -200,7 +197,6 @@ u kunama
 <td>[if !supportEmptyParas] [endif]<b></b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -208,7 +204,6 @@ u kunama
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>1</td>
 <td>2</td>
@@ -218,7 +213,6 @@ u kunama
 <td>6</td>
 <td>(2+3+4+5+6+7)</td>
 </tr>
-
 <tr>
 <td>ZAGREBAČKA</td>
 <td>41.962.426</td>
@@ -228,7 +222,6 @@ u kunama
 <td>18.450.000<b></b></td>
 <td><b>73.897.820</b></td>
 </tr>
-
 <tr>
 <td>KRAPINSKO-ZAGORSKA</td>
 <td>19.804.999</td>
@@ -238,7 +231,6 @@ u kunama
 <td>14.000.000<b></b></td>
 <td><b>46.516.451</b></td>
 </tr>
-
 <tr>
 <td>SISAČKO-MOSLAVAČKA</td>
 <td>25.273.470</td>
@@ -248,7 +240,6 @@ u kunama
 <td>18.250.000<b></b></td>
 <td><b>67.709.789</b></td>
 </tr>
-
 <tr>
 <td>KARLOVAČKA</td>
 <td>19.227.487</td>
@@ -258,7 +249,6 @@ u kunama
 <td>13.000.000<b></b></td>
 <td><b>49.642.896</b></td>
 </tr>
-
 <tr>
 <td>VARAŽDINSKA</td>
 <td>24.401.562</td>
@@ -268,7 +258,6 @@ u kunama
 <td>17.000.000<b></b></td>
 <td><b>58.614.114</b></td>
 </tr>
-
 <tr>
 <td>KOPRIVNIČKO-KRIŽEVAČKA</td>
 <td>17.146.428</td>
@@ -278,7 +267,6 @@ u kunama
 <td>10.700.000</td>
 <td><b>42.017.234</b></td>
 </tr>
-
 <tr>
 <td>BJELOVARSKO-BILOGORSKA</td>
 <td>18.764.139</td>
@@ -288,7 +276,6 @@ u kunama
 <td>12.000.000<b></b></td>
 <td><b>45.325.010</b></td>
 </tr>
-
 <tr>
 <td>PRIMORSKO-GORANSKA</td>
 <td>32.875.954</td>
@@ -298,7 +285,6 @@ u kunama
 <td>27.870.025<b></b></td>
 <td><b>101.352.940</b></td>
 </tr>
-
 <tr>
 <td>LIČKO-SENJSKA</td>
 <td>8.635.413</td>
@@ -308,7 +294,6 @@ u kunama
 <td>6.439.592<b></b></td>
 <td><b>25.471.470</b></td>
 </tr>
-
 <tr>
 <td>VIROVITIČKO-PODRAVSKA</td>
 <td>13.656.121</td>
@@ -318,7 +303,6 @@ u kunama
 <td>8.500.000<b></b></td>
 <td><b>30.223.880</b></td>
 </tr>
-
 <tr>
 <td>POŽEŠKO-SLAVONSKA</td>
 <td>12.367.167</td>
@@ -328,7 +312,6 @@ u kunama
 <td>7.150.000<b></b></td>
 <td><b>31.436.595</b></td>
 </tr>
-
 <tr>
 <td>BRODSKO-POSAVSKA</td>
 <td>24.616.822</td>
@@ -338,7 +321,6 @@ u kunama
 <td>14.900.000<b></b></td>
 <td><b>58.598.389</b></td>
 </tr>
-
 <tr>
 <td>ZADARSKA</td>
 <td>20.256.451</td>
@@ -348,7 +330,6 @@ u kunama
 <td>15.500.000<b></b></td>
 <td><b>57.307.010</b></td>
 </tr>
-
 <tr>
 <td>OSJEČKO-BARANJSKA</td>
 <td>43.647.921</td>
@@ -358,7 +339,6 @@ u kunama
 <td>25.218.525<b></b></td>
 <td><b>106.671.741</b></td>
 </tr>
-
 <tr>
 <td>ŠIBENSKO-KNINSKA</td>
 <td>13.906.276</td>
@@ -368,7 +348,6 @@ u kunama
 <td>13.179.181<b></b></td>
 <td><b>43.982.723</b></td>
 </tr>
-
 <tr>
 <td>VUKOVARSKO-SRIJEMSKA</td>
 <td>26.823.816</td>
@@ -378,7 +357,6 @@ u kunama
 <td>16.000.000<b></b></td>
 <td><b>63.483.983</b></td>
 </tr>
-
 <tr>
 <td>SPLITSKO-DALMATINSKA</td>
 <td>55.981.971</td>
@@ -388,7 +366,6 @@ u kunama
 <td>34.459.266<b></b></td>
 <td><b>143.340.370</b></td>
 </tr>
-
 <tr>
 <td>ISTARSKA</td>
 <td>30.697.565</td>
@@ -398,7 +375,6 @@ u kunama
 <td>18.500.000<b></b></td>
 <td><b>77.845.591</b></td>
 </tr>
-
 <tr>
 <td>DUBROVAČKO-NERETVANSKA</td>
 <td>17.731.813</td>
@@ -408,7 +384,6 @@ u kunama
 <td>14.779.181<b></b></td>
 <td><b>53.857.746</b></td>
 </tr>
-
 <tr>
 <td>MEĐIMURSKA</td>
 <td>15.136.636</td>
@@ -418,7 +393,6 @@ u kunama
 <td>9.901.000<b></b></td>
 <td><b>36.322.832</b></td>
 </tr>
-
 <tr>
 <td>GRAD ZAGREB</td>
 <td>82.885.562</td>
@@ -428,7 +402,6 @@ u kunama
 <td>68.802.184<b></b></td>
 <td><b>278.114.679</b></td>
 </tr>
-
 <tr>
 <td><b>UKUPNO</b></td>
 <td><b>565.799.999</b></td>
@@ -438,7 +411,6 @@ u kunama
 <td><b>384.598.954</b></td>
 <td><b>1.491.733.261</b></td>
 </tr>
-
 </table>
 
 PREGLED SREDSTAVA ZA DECENTRALIZIRANE FUNKCIJE ZA OSNOVNO ŠKOLSTVO PO ŽUPANIJAMA U 2002. GOD.

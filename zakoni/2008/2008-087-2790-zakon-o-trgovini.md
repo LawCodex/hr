@@ -6,17 +6,22 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-07-25
-last_amended: 2014-03-05
+last_amended: 2026-06-09
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "87/08, 96/08, 116/08, 114/11, 68/13, 30/14"
+narodne_novine: "87/08, 96/08, 116/08, 114/11, 68/13, 30/14, 32/19, 98/19, 32/20, 33/23, 59/26"
 amendments:
   - "NN 96/2008 (2998) Uredba o izmjeni i dopuni Zakona o trgovini"
   - "NN 116/2008 (3351) Zakon o izmjeni i dopuni Zakona o trgovini"
   - "NN 114/2011 (2222) Zakon o izmjenama i dopunama Zakona o trgovini"
   - "NN 68/2013 (1349) Zakon o izmjenama i dopunama Zakona o trgovini"
   - "NN 30/2014 (508) Zakon o izmjenama i dopunama Zakona o trgovini"
+  - "NN 32/2019 (648) Zakon o izmjenama Zakona o trgovini"
+  - "NN 98/2019 (1965) Zakon o izmjenama Zakona o trgovini"
+  - "NN 32/2020 (698) Zakon o dopunama Zakona o trgovini"
+  - "NN 33/2023 (580) Zakon o izmjenama i dopuni Zakona o trgovini"
+  - "NN 59/2026 (729) Zakon o izmjenama i dopunama Zakona o trgovini"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/87/2790"
 retrieved: 2026-10-12
 ---
@@ -25,7 +30,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 87/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/87/2790).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 96/2008, NN 116/2008, NN 114/2011, NN 68/2013, NN 30/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 96/2008, NN 116/2008, NN 114/2011, NN 68/2013, NN 30/2014, NN 32/2019, NN 98/2019, NN 32/2020, NN 33/2023, NN 59/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1547,3 +1552,498 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o trgovini (NN 32/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/32/648*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O TRGOVINI
+
+Proglašavam Zakon o izmjenama Zakona o trgovini, koji je Hrvatski sabor donio na sjednici 23. ožujka 2019.
+
+Klasa: 011-01/19-01/51  
+Urbroj: 71-06-01/1-19-2  
+Zagreb, 27. ožujka 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O TRGOVINI**
+
+### Članak 1.
+
+U Zakonu o trgovini (»Narodne novine«, br. 87/08., 116/08., 76/09., 114/11., 68/13. i 30/14.) u članku 66. stavak 2. mijenja se i glasi:
+
+»(2) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavljaju tržišni inspektori središnjeg tijela državne uprave nadležnog za inspekcijske poslove u skladu s ovlastima određenim posebnim zakonom.«.
+
+### Članak 2.
+
+Članak 76. mijenja se i glasi:
+
+»Prekršajni postupak za prekršaje propisane člancima 71.a i 71.b ovoga Zakona u prvom stupnju vodi Ministarstvo financija, Carinska uprava, ako se postupak vodi na temelju prijave ili optužnog prijedloga Ministarstva financija, Carinske uprave.«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/23  
+Zagreb, 23. ožujka 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o trgovini (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1965*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O TRGOVINI
+
+Proglašavam Zakon o izmjenama Zakona o trgovini, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/173
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O TRGOVINI**
+
+### Članak 1.
+
+U Zakonu o trgovini (»Narodne novine«, br. 87/08., 116/08., 76/09., 114/11., 68/13., 30/14. i 32/19.) u članku 13. stavku 1. riječi: »mjesno nadležnom uredu državne uprave u županiji, odnosno nadležnom upravnom tijelu Grada Zagreba nadležnom za gospodarstvo,« zamjenjuju se riječima: »nadležnom upravnom tijelu županije, odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na gospodarstvo«.
+
+U stavcima 2. i 3. riječi: »mjesno nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba nadležnom za gospodarstvo«, zamjenjuju se riječima: »nadležno upravno tijelo županije, odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na gospodarstvo«.
+
+U stavku 4. riječi: »Mjesno nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba nadležnom za gospodarstvo«, zamjenjuju se riječima: »Nadležno upravno tijelo županije, odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na gospodarstvo «.
+
+U stavcima 5., 6. i 7. riječi: »mjesno nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba nadležnom za gospodarstvo«, zamjenjuju se riječima: »nadležno upravno tijelo županije, odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na gospodarstvo«.
+
+### Članak 2.
+
+U članku 66. stavku 2. riječ: »središnjeg« briše se.
+
+### Članak 3.
+
+U članku 68. stavku 1. podstavku 5. riječi: »mjesno nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba«, zamjenjuju se riječima: »nadležno upravno tijelo županije, odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na gospodarstvo «.
+
+### Članak 4.
+
+U članku 70. stavku 1. podstavku 6. riječi: »mjesno nadležni ured državne uprave u županiji, odnosno nadležno upravno tijelo Grada Zagreba«, zamjenjuju se riječima: »nadležno upravno tijelo županije, odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na gospodarstvo«.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/168
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o dopunama Zakona o trgovini (NN 32/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/698*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O TRGOVINI
+
+Proglašavam Zakon o dopunama Zakona o trgovini, koji je Hrvatski sabor donio na sjednici 19. ožujka 2020.
+
+Klasa: 011-01/20-01/25  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 19. ožujka 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O TRGOVINI**
+
+#### Članak 1.
+
+U Zakonu o trgovini (»Narodne novine«, br. 87/08., 116/08., 76/09., 114/11., 68/13., 30/14., 32/19. i 98/19.) u članku 2. iza točke 11. briše se točka i dodaje se točka 12. koja glasi:
+
+»12. »Posebne okolnosti« podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu.«.
+
+#### Članak 2.
+
+Iza članka 57. dodaje se članak 57.a i naslov iznad njega koji glasi:
+
+### »ODREĐIVANJE RADNOG VREMENA U DJELATNOSTI TRGOVINE U POSEBNIM OKOLNOSTIMA
+
+#### Članak 57.a
+
+Radno vrijeme u djelatnosti trgovine u posebnim okolnostima određuje Stožer civilne zaštite Republike Hrvatske.«.
+
+#### Članak 3.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/33  
+Zagreb, 19. ožujka 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o trgovini (NN 33/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/33/580*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O TRGOVINI
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o trgovini, koji je Hrvatski sabor donio na sjednici 17. ožujka 2023.
+
+Klasa: 011-02/23-02/24
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 22. ožujka 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O TRGOVINI**
+
+#### Članak 1.
+
+U Zakonu o trgovini (»Narodne novine«, br. 87/08., 96/08, 116/08., 76/09., 114/11., 68/13., 30/14., 32/19., 98/19. i 32/20.) u članku 13. stavak 10. mijenja se i glasi:
+
+»(10) Na nastavak obavljanja djelatnosti trgovine iz stavka 9. ovoga članka bez izdavanja novog rješenja o ispunjavanju uvjeta za obavljanje djelatnosti trgovine ne utječe vrijeme izdavanja prijašnjeg rješenja o ispunjavanju uvjeta za obavljanje djelatnosti trgovine ako su uvjeti za obavljanje djelatnosti trgovine usklađeni s odredbama pravilnika iz članka 12. ovoga Zakona, kao niti promjena vrste robe kojom se obavlja djelatnost trgovine ako se ne radi o robi opasnoj za život i zdravlje ljudi i životinja te prirodu i okoliš.«.
+
+#### Članak 2.
+
+Članak 57. mijenja se i glasi:
+
+»(1) Radno vrijeme prodajnih objekata određuje trgovac u razdobljima od ponedjeljka do subote u ukupnom trajanju do 90 sati tjedno, a koje trgovac samostalno raspoređuje.
+
+(2) Prodajni objekti zatvoreni su nedjeljom.
+
+(3) Prodajni objekti zatvoreni su u dane blagdana. Vlada Republike Hrvatske može odlukom odrediti prodajne objekte koji su dužni raditi u dane blagdana u Republici Hrvatskoj sukladno zakonu kojim se uređuju blagdani, spomendani i neradni dani u Republici Hrvatskoj.
+
+(4) Trgovac može samostalno 16 nedjelja u godini odrediti kao radne, s time da se trajanju radnog vremena prodajnih objekata iz stavka 1. ovoga članka dodaje 15 sati koje raspoređuje od ponedjeljka do nedjelje.
+
+(5) Odredbe stavaka 1. do 4. ovoga članka ne primjenjuju se na prodajne objekte koji se nalaze unutar ili su sastavni dio cjeline:
+
+– željezničkih i autobusnih kolodvora, zračnih luka, luka otvorenih za javni promet, luka unutarnje plovidbe brodova, zrakoplova i trajekata za prijevoz osoba i vozila,
+
+– benzinskih postaja,
+
+– bolnica,
+
+– hotela, prostora kulturnih i vjerskih ustanova te drugih subjekata u kulturi, muzeja, centara za posjetitelje odnosno interpretacijskih centara, nautičkih marina, kampova, obiteljskih poljoprivrednih gospodarstava,
+
+– proglašenih zaštićenih područja prirode u skladu s posebnim propisima.
+
+(6) Odredbe stavaka 1. do 4. ovoga članka ne primjenjuju se na otkup primarnih poljoprivrednih proizvoda, prodaju vlastitih poljoprivrednih proizvoda na štandovima i klupama na tržnicama na malo i prodaju vlastitih poljoprivrednih proizvoda na štandovima i klupama na tržnicama na veliko, prigodnu prodaju na sajmovima i javnim manifestacijama, prodaju putem automata i prodaju na daljinu.
+
+(7) Distribucija tiska putem kioska kao posebnog oblika prodaje izvan prodavaonica može biti otvorena nedjeljom i blagdanom u vremenu od 7:00 sati do 13:00 sati.
+
+(8) Trgovac mora voditi evidenciju radnog vremena za svaku radnu nedjelju tijekom tekuće godine u obliku pisane isprave ili elektroničkog zapisa.
+
+(9) Trgovac mora nadležnom inspektoru tijekom nadzora omogućiti uvid u evidenciju iz stavka 8. ovoga članka.
+
+(10) Radi provedbe inspekcijskog postupka Ministarstvo financija, Porezna uprava, dužna je nadležnom inspektoru, na njegov zahtjev, dostaviti podatke iz sustava fiskalizacije o radnoj nedjelji trgovca.«.
+
+#### Članak 3.
+
+U članku 68. stavku 5. riječi: »30.000,00 kuna« zamjenjuju se riječima: »3981,68 eura«.
+
+#### Članak 4.
+
+U članku 70. stavku 1. u uvodnoj rečenici riječi: »od 5.000,00 do 300.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 39.810,00 eura«, a riječi: »od 4.000,00 do 70.000,00 kuna« zamjenjuju se riječima: »od 530,00 do 9290,00 eura«.
+
+Podstavak 6. mijenja se i glasi:
+
+» – djelatnost trgovine započne obavljati prije nego što nadležno upravno tijelo županije odnosno Grada Zagreba, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na gospodarstvo, izda rješenje da prodajni objekt, oprema i sredstva pomoću kojih se obavlja trgovina ispunjava propisane uvjete za obavljanje djelatnosti trgovine (članak 13. stavak 5.),«.
+
+Iza podstavka 6. dodaje se novi podstavak 7. koji glasi:
+
+» – ne ispunjava uvjete za nastavak obavljanja djelatnosti trgovine bez izdavanja novog rješenja (članak 13. stavak 9.),«.
+
+Iza dosadašnjeg podstavka 7., koji postaje podstavak 8., dodaju se podstavci 9. do 15. koji glase:
+
+» – se ne pridržava propisanog radnog vremena prodajnih objekata u razdobljima od ponedjeljka do subote u ukupnom trajanju do 90 sati tjedno (članak 57. stavak 1.),
+
+– se ne pridržava odredbe o neradnoj nedjelji (članak 57. stavak 2.),
+
+– se ne pridržava odredbe o neradnim blagdanima (članak 57. stavak 3.),
+
+– se ne pridržava propisanog broja dodanih 15 sati, a koje ukupno trgovac samostalno raspoređuje od ponedjeljka do nedjelje u 16 tjedana za koje je trgovac odredio radnu nedjelju (članak 57. stavak 4.),
+
+– se ne pridržava propisanog radnog vremena za distribuciju tiska putem kioska (članak 57. stavak 7.),
+
+– ne vodi evidenciju radnog vremena za svaku radnu nedjelju tijekom tekuće godine u obliku pisane isprave ili elektroničkog zapisa (članak 57. stavak 8.),
+
+– nadležnom inspektoru tijekom nadzora ne osigura evidenciju radnog vremena (članak 57. stavak 9.),«.
+
+Dosadašnji podstavak 8. postaje podstavak 16.
+
+U stavku 2. riječi: »od 4.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 530,00 do 13.270,00 eura«.
+
+#### Članak 5.
+
+U članku 71. stavku 1. u uvodnoj rečenici riječi: »od 4.000,00 do 250.000,00 kuna« zamjenjuju se riječima: »od 530,00 do 33.180,00 eura«, a riječi: »od 3.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »od 3.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 13.270,00 eura«.
+
+#### Članak 6.
+
+U članku 71.a stavku 1. u uvodnoj rečenici riječi: »od 3.000,00 do 200.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 26.540,00 eura«, a riječi: »od 1.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »od 2.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 13.270,00 eura«.
+
+#### Članak 7.
+
+U članku 71.b stavku 1. u uvodnoj rečenici riječi: »od 2.000,00 do 200.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 26.540,00 eura«, a riječi: »od 1.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »od 1.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 13.270,00 eura«.
+
+#### Članak 8.
+
+U članku 72. stavku 1. u uvodnoj rečenici riječi: »od 2.000,00 do 200.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 26.540,00 eura«, a riječi: »od 1.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »od 1.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 13.270,00 eura«.
+
+#### Članak 9.
+
+U članku 75. stavak 1. mijenja se i glasi:
+
+»(1) Predmeti, sredstva i/ili imovinska korist koji su namijenjeni ili uporabljeni za počinjenje prekršaja ili su nastali počinjenjem prekršaja iz članka 70. stavka 1. podstavaka 1. do 7., podstavaka 9. do 13. i podstavka 16. te članka 71. stavka 1. podstavaka 2. do 4. ovoga Zakona oduzimaju se.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 10.
+
+Ministarstvo nadležno za gospodarstvo dužno je provesti naknadnu procjenu učinaka ovoga Zakona u roku od godine dana od dana njegova stupanja na snagu.
+
+#### Članak 11.
+
+(1) Danom stupanja na snagu ovoga Zakona, prodajni objekti, oprema i sredstva za obavljanje djelatnosti trgovine sukladno članku 12. Zakona o trgovini (»Narodne novine«, br. 87/08., 96/08., 116/08., 76/09., 114/11., 68/13., 30/14., 32/19., 98/19. i 32/20.), koji ispunjavaju uvjete propisane Pravilnikom o minimalnim tehničkim i drugim uvjetima koji se odnose na prodajne objekte, opremu i sredstva u prodajnim objektima i uvjetima za prodaju robe izvan prodavaonica (»Narodne novine«, br. 66/09., 108/09., 8/10. i 108/14.), nastavljaju s radom prema uvjetima iz tog Pravilnika.
+
+(2) Iznimno od stavka 1. ovoga članka, ako su se stekli uvjeti koji utječu na prodajni objekt, opremu i sredstva, a koji nisu propisani Pravilnikom iz stavka 1. ovoga članka, potrebno je uskladiti uvjete za obavljanje djelatnosti trgovine s Pravilnikom iz stavka 1. ovoga članka u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 12.
+
+U 16 nedjelja iz članka 2. stavka 4. ovoga Zakona u 2023. godini ne ubrajaju se nedjelje koje su do stupanja na snagu ovoga Zakona bile radne.
+
+#### Članak 13.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. srpnja 2023.
+
+Klasa: 022-02/22-01/189
+
+Zagreb, 17. ožujka 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o trgovini (NN 59/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/59/729*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O TRGOVINI
+
+Proglašavam Zakon o o izmjenama i dopunama Zakona o trgo­vini, koji je Hrvatski sabor donio na sjednici 29. svibnja 2026.
+
+Klasa: 011-02/26-02/48  
+Urbroj: 71-10-01/1-26-2  
+Zagreb, 1. lipnja 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O TRGOVINI**
+
+#### Članak 1.
+
+U Zakonu o trgovini (»Narodne novine«, br. 87/08., 96/08., 116/08., 76/09., 114/11., 68/13., 30/14., 32/19., 98/19., 32/20. i 33/23.) u članku 11. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) U trgovini na malo zabranjuje se prodaja energetskih pića osobama mlađim od 18 godina.«.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., riječi: »1., 3. i 4.« zamjenjuju se riječima: »1., 3., 4. i 5.«.
+
+Iza dosadašnjeg stavka 6., koji postaje stavak 7., dodaje se stavak 8. koji glasi:
+
+»(8) Obveza iz stavka 6. ovoga članka odnosi se i na prodaju alkoholnih pića i drugih pića koja sadrže alkohol te energetskih pića putem automatiziranih blagajni.«.
+
+#### Članak 2.
+
+Iza članka 11. dodaje se članak 11.a koji glasi:
+
+»Članak 11.a
+
+(1) Prilikom prodaje alkoholnih pića i pića koja sadrže alkohol i energetskih pića putem interneta, trgovac, osobe iz članka 5. stavka 1. podstavaka 1. i 5. ovoga Zakona i internetske platforme dužni su putem vlastitog informacijskog sustava implementirati i osigurati korištenje tehničkog rješenja za vjerodostojnu provjeru punoljetnosti kupca.
+
+(2) Provjera punoljetnosti iz stavka 1. ovoga članka provodi se posredstvom informacijskog sustava e-Građani, u skladu s propisima kojima se uređuje državna informacijska infrastruktura.
+
+(3) Prilikom kupnje alkoholnih pića i pića koja sadrže alkohol putem interneta i energetskih pića kupac je dužan dokazati punoljetnost korištenjem informacijskog sustava iz stavka 2. ovoga članka.
+
+(4) Subjekti iz stavka 1. ovoga članka koji su registrirani za trgovinu na malo putem interneta i/ili usluge informacijskog društva, u skladu s propisima kojima se uređuje elektronička trgovina, i prodaju alkoholna pića i pića koja sadrže alkohol i energetska pića, dužni su upisati se u evidenciju pri ministarstvu nadležnom za gospodarstvo.
+
+(5) Zahtjev za upis u evidenciju iz stavka 4. ovoga članka podnosi se elektroničkim putem ministarstvu nadležnom za gospodarstvo te mora sadržavati sljedeće podatke:
+
+– naziv subjekta iz stavka 1. ovoga članka
+
+– matični broj subjekta iz stavka 1. ovoga članka
+
+– OIB subjekta iz stavka 1. ovoga članka.
+
+(6) Na temelju upisa u evidenciju iz stavka 4. ovoga članka ministarstvo nadležno za gospodarstvo najkasnije u roku od pet radnih dana od dana zaprimanja urednog zahtjeva za upis trgovcu dostavlja podatke potrebne za uspostavu tehničkog rješenja za vjerodostojnu provjeru punoljetnosti kupca putem sustava e-Građani.
+
+(7) Podaci dobiveni provjerom dobi smiju se koristiti isključivo za trenutačnu verifikaciju i obrađivati sukladno propisima o zaštiti osobnih podataka i uporabi informacijskog sustava e-Građani.
+
+(8) Trgovac, osobe iz članka 5. stavka 1. podstavaka 1. i 5. ovoga Zakona i internetske platforme dužni su uskratiti prodaju alkoholnih pića i pića koja sadrže alkohol i energetskih pića ako kupac odbije provjeru punoljetnosti iz stavka 3. ovoga članka.«.
+
+#### Članak 3.
+
+Iza članka 57.a dodaje se članak 57.b koji glasi:
+
+»Članak 57.b
+
+(1) Predstavničko tijelo jedinice lokalne samouprave može odlukom propisati ograničenje prodaje alkoholnih pića i drugih pića koja sadrže alkohol u prodajnim objektima na cijelom području jedinice lokalne samouprave unutar određenog vremena, ako je to u interesu zaštite javnog zdravlja, zaštite javnog reda i mira, zaštite kulturne baštine ili zaštite okoliša.
+
+(2) Ograničenje iz stavka 1. ovoga članka može se odnositi na ograničenje prodaje alkoholnih pića i drugih pića koja sadrže alkohol u vremenu od 21:00 sat do 6:00 sati sljedećeg dana.
+
+(3) Trgovac iz članka 4. ovoga Zakona i pravne ili fizičke osobe iz članka 5. stavka 1. podstavaka 1., 5. i 6. ovoga Zakona dužni su pridržavati se ograničenja propisanog odlukom iz stavka 1. ovoga članka.
+
+(4) Predstavničko tijelo jedinice lokalne samouprave dužno je odluku iz stavka 1. ovoga članka bez odgađanja, a najkasnije u roku od 15 dana od dana donošenja, dostaviti Državnom inspektoratu.«.
+
+#### Članak 4.
+
+U članku 68. stavku 1., iza podstavka 4. dodaje se novi podstavak 5. koji glasi:
+
+» – prodaje energetska pića osobama mlađim od 18 godina (članak 11. stavak 5.).«.
+
+Dosadašnji podstavci 5. do 9. postaju podstavci 6. do 10.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Nadležni inspektor će u slučajevima iz stavka 1. podstavaka 1., 2., 4., 5. i 10. ovoga članka zabraniti pravnoj i fizičkoj osobi obavljanje djelatnosti trgovine usmenim rješenjem.«.
+
+U stavku 7. riječi: »30.000,00 kuna« zamjenjuju se riječima: »3981,68 eura«.
+
+Iza stavka 11. podstavka 1. dodaje se novi podstavak 2. koji glasi:
+
+» – prodaje alkoholna pića i pića koja sadrže alkohol i energetska pića putem interneta bez da je osigurao korištenje tehničkog rješenja za vjerodostojnu provjeru punoljetnosti kupca putem informacijskog sustava iz članka 11.a stavka 2. ovoga Zakona (članak 11.a stavak 1.).«.
+
+Podstavci 2. i 3. postaju podstavci 3. i 4.
+
+#### Članak 5.
+
+U članku 70. stavku 1. podstavak 5. mijenja se i glasi:
+
+» – ne uskrati prodaju robe iz članka 11. stavka 1., 4. i 5. ovoga Zakona kupcu ako procijeni da je mlađi od 18 godina, a kupac dobrovoljno ne dokaže da nije mlađi od 18 godina davanjem na uvid prodavaču neke od osobnih isprava (članak 11. stavak 6.)«.
+
+Iza podstavka 5. dodaju se novi podstavci 6. i 7. koji glase:
+
+» – ne uskrati prodaju robe iz članka 11. stavka 5. ovoga Zakona kupcu ako procijeni da je mlađi od 18 godina, a kupac dobrovoljno ne dokaže da nije mlađi od 18 godina davanjem na uvid prodavaču neke od osobnih isprava (članak 11. stavak 6.)
+
+– ne uskrati prodaju alkoholnih pića i pića koja sadrže alkohol i energetskih pića putem automatiziranih blagajni kupcu ako procijeni da je mlađi od 18 godina, a kupac dobrovoljno ne dokaže da nije mlađi od 18 godina davanjem na uvid prodavaču neke od osobnih isprava (članak 11. stavak 8.).«.
+
+Dosadašnji podstavci 6. do 16. postaju podstavci 8. do 18.
+
+#### Članak 6.
+
+Iza članka 70. dodaje se članak 70.a koji glasi:
+
+»Članak 70.a
+
+(1) Novčanom kaznom od 5000,00 do 39.810,00 eura kaznit će se za prekršaj pravna osoba ako:
+
+– prodaje u trgovini na malo alkoholna pića i druga pića koja sadrže alkohol, robu pornografskog sadržaja i energetska pića osobama mlađim od 18 godina suprotno odredbama ovoga Zakona (članak 11. stavci 1., 4. i 5.)
+
+– prodaje alkoholna pića i pića koja sadrže alkohol i energetska pića putem interneta bez da je osigurao korištenje tehničkog rješenja za vjerodostojnu provjeru punoljetnosti kupca putem informacijskog sustava iz članka 11.a stavka 2. ovoga Zakona (članak 11.a stavak 1.)
+
+– prodaje alkoholna pića i pića koja sadrže alkohol i energetska pića bez da je upisan u evidenciju pri ministarstvu nadležnom za gospodarstvo (članak 11.a stavak 4.)
+
+– ne uskrati prodaju alkoholnih pića i drugih pića koja sadrže alkohol i energetskih pića ako kupac odbije provjeru punoljetnosti iz članka 11.a stavka 3. ovoga Zakona (članak 11.a stavak 8.)
+
+– se ne pridržava odluke iz članka 57.b stavka 1. ovoga Zakona (članak 57.b stavak 3.).
+
+(2) Novčanom kaznom od 2000,00 do 6630,00 eura kaznit će se odgovorna osoba u pravnoj osobi za prekršaj iz stavka 1. ovoga članka.
+
+(3) Novčanom kaznom od 5000,00 do 13.270,00 eura kaznit će se fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost za prekršaj iz stavka 1. ovoga članka koji je počinila u vezi s obavljanjem svojeg obrta ili druge samostalne djelatnosti.
+
+(4) Novčanom kaznom od 2000,00 do 6630,00 eura kaznit će se fizička osoba za prekršaj iz stavka 1. ovoga članka.«.
+
+### PRIJELAZNE I ZAVRŠNA ODREDBA
+
+#### Članak 7.
+
+Prekršajni postupci pokrenuti po Zakonu o trgovini (»Narodne novine«, br. 87/08., 96/08., 116/08., 76/09., 114/11., 68/13., 30/14., 32/19., 98/19., 32/20. i 33/23.) do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona ili ovoga Zakona, ako je povoljniji za stranku.
+
+#### Članak 8.
+
+Trgovci su dužni uskladiti svoje poslovne procese s odredbama članka 2. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 9.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/26-01/49  
+Zagreb, 29. svibnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

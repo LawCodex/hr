@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-04-03
+last_amended: 2018-12-19
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "39/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "39/13, 114/18"
+amendments:
+  - "NN 114/2018 (2207) Zakon o izmjenama Zakona o prehrambenim i zdravstvenim tvrdnjama te hrani obogaćenoj nutrijentima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/722"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o prehrambenim i zdravstvenim tvrdnjama te hrani obogaćenoj nutrijentima
 
 > Izvor: Narodne novine, NN 39/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/39/722).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -368,3 +372,93 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o prehrambenim i zdravstvenim tvrdnjama te hrani obogaćenoj nutrijentima (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2207*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PREHRAMBENIM I ZDRAVSTVENIM TVRDNJAMA TE HRANI OBOGAĆENOJ NUTRIJENTIMA
+
+Proglašavam Zakon o izmjenama Zakona o prehrambenim i zdravstvenim tvrdnjama te hrani obogaćenoj nutrijentima, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/195
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PREHRAMBENIM I ZDRAVSTVENIM TVRDNJAMA TE HRANI OBOGAĆENOJ NUTRIJENTIMA**
+
+### Članak 1.
+
+U Zakonu o prehrambenim i zdravstvenim tvrdnjama te hrani obogaćenoj nutrijentima (»Narodne novine«, br. 39/13.) u članku 3. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Nadležno tijelo za vođenje politike u području prehrambenih i zdravstvenih tvrdnji koje se navode na hrani, dodavanja vitamina, minerala i drugih tvari hrani i dodataka prehrani te provedbu upravnih i stručnih poslova prema odredbama ovoga Zakona i uredbi iz članka 1. ovoga Zakona je ministarstvo nadležno za zdravstvo (u daljnjem tekstu: Ministarstvo).
+
+(2) Nadležno tijelo za provedbu inspekcijskog nadzora, odnosno službenih kontrola prema odredbama ovoga Zakona i uredbi iz članka 1. ovoga Zakona je Državni inspektorat.«.
+
+Stavak 3. briše se.
+
+### Članak 2.
+
+Naslov iznad članka 4. mijenja se i glasi: »Zadaće nadležnih tijela«.
+
+Članak 4. mijenja se i glasi:
+
+»(1) Ministarstvo u području prehrambenih i zdravstvenih tvrdnji koje se navode na hrani, dodavanja vitamina, minerala i drugih tvari hrani i dodataka prehrani uređuje politiku sigurnosti hrane, prati i usklađuje zakonodavstvo te izrađuje smjernice za planove inspekcijskih nadzora, odnosno službenih kontrola.
+
+(2) Ministarstvo u provedbi ovoga Zakona, uredbi i Odluke iz članka 1. ovoga Zakona, kao i provedbenih propisa donesenih na temelju ovoga Zakona uspostavlja i provodi program monitoringa hrane kojoj su dodani vitamini, minerali i druge tvari, hrane s prehrambenim i zdravstvenim tvrdnjama i dodataka prehrani, a u skladu s člankom 26. Uredbe (EZ) br. 1924/2006 i člankom 15. Uredbe (EZ) br. 1925/2006.
+
+(3) Državni inspektorat donosi i provodi planove inspekcijskih nadzora, odnosno službenih kontrola na temelju procjene rizika, uzimajući u obzir smjernice Ministarstva.«.
+
+### Članak 3.
+
+Članak 7. mijenja se i glasi:
+
+»(1) Ministar nadležan za zdravstvo rješenjem određuje brisanje iz registra iz članka 5. stavka 1. točke a) hrane za koju se naknadno utvrdi da ne ispunjava uvjete propisane ovim Zakonom, uredbama i Odlukom iz članka 1. ovoga Zakona i provedbenim propisima donesenim na temelju ovoga Zakona.
+
+(2) Ministar nadležan za zdravstvo rješenjem odobrava ili uskraćuje korištenje tvrdnji kojima se upućuje na preporuke nacionalnih udruženja liječničkih, nutricionističkih, kao i drugih sa zdravljem povezanih udruga iz članka 11. Uredbe (EZ) br. 1924/2006.
+
+(3) Protiv rješenja iz stavaka 1. i 2. ovoga članka nije dopuštena žalba, već se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+
+(4) U slučaju obogaćivanja hrane tvarima koje nisu obuhvaćene uredbama iz članka 1. ovoga Zakona i provedbenih propisa donesenih na temelju ovoga Zakona, a koje ugrožavaju ili mogu ugrožavati zdravlje ljudi ministar nadležan za zdravlje može odrediti i druge mjere i radnje te donijeti i druge provedbene propise koji nisu utvrđeni ovim Zakonom, uzimajući pritom u obzir mišljenje Povjerenstva iz članka 6. ovoga Zakona.«.
+
+### Članak 4.
+
+U članku 9. stavak 1. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor, odnosno službene kontrole nad provedbom ovoga Zakona, uredbi i Odluke iz članka 1. ovoga Zakona i provedbenih propisa donesenih na temelju ovoga Zakona provode sanitarni inspektori Državnog inspektorata, sukladno propisima kojima su uređeni djelokrug i ovlasti Državnog inspektorata te službene kontrole hrane (u daljnjem tekstu: osobe ovlaštene za provedbu službene kontrole).«.
+
+### Članak 5.
+
+U cijelom tekstu Zakona riječi: »Ministarstvo nadležno za zdravlje«, »ministarstvo nadležno za zdravlje«, »Ministar nadležan za zdravlje« i »ministar nadležan za zdravlje« u određenom padežu, zamjenjuju se riječima: »Ministarstvo«, »Ministar nadležan za zdravstvo« i »ministar nadležan za zdravstvo« u odgovarajućem padežu.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/191
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,16 +6,20 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2010-10-13
-last_amended: 2015-07-24
+last_amended: 2026-07-15
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "116/10, 57/11, 130/11, 28/13, 82/15"
+narodne_novine: "116/10, 57/11, 130/11, 28/13, 82/15, 67/18, 126/19, 80/22, 77/26"
 amendments:
   - "NN 57/2011 (1257) Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću"
   - "NN 130/2011 (2604) Zakon o izmjeni i dopuni Zakona o Državnom sudbenom vijeću"
   - "NN 28/2013 (474) Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću"
   - "NN 82/2015 (1575) Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću"
+  - "NN 67/2018 (1363) Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću"
+  - "NN 126/2019 (2533) Zakon o izmjeni Zakona o Državnom sudbenom vijeću"
+  - "NN 80/2022 (1172) Zakon o izmjenama i dopunama Zakona o državnom sudbenom vijeću"
+  - "NN 77/2026 (902) Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2010/116/3051"
 retrieved: 2026-10-12
 ---
@@ -24,7 +28,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 116/2010 (https://narodne-novine.nn.hr/eli/sluzbeni/2010/116/3051).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 57/2011, NN 130/2011, NN 28/2013, NN 82/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 57/2011, NN 130/2011, NN 28/2013, NN 82/2015, NN 67/2018, NN 126/2019, NN 80/2022, NN 77/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1661,3 +1665,1081 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću (NN 67/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/67/1363*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću, koji je Hrvatski sabor donio na sjednici 6. srpnja 2018.
+
+Klasa: 011-01/18-01/87
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 10. srpnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU**
+
+### Članak 1.
+
+U Zakonu o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13., 28/13. i 82/15.) u članku 4. stavak 2. mijenja se i glasi:
+
+»(2) Članove Vijeća iz reda sudaca čine:
+
+– dva suca Vrhovnog suda Republike Hrvatske,
+
+– jedan sudac visokih sudova,
+
+– tri suca županijskog suda,
+
+– jedan sudac prvostupanjskih sudova.«.
+
+### Članak 2.
+
+U članku 4.a brojka: »50%« zamjenjuje se brojkom: »20%«.
+
+### Članak 3.
+
+U članku 7. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Povjerenstvo ima pet članova, od kojih se dva imenuju iz reda sudaca Vrhovnog suda Republike Hrvatske, a tri iz reda sudaca visokih sudova.
+
+(2) Povjerenstvo imenuje Opća sjednica Vrhovnog suda Repub­like Hrvatske, koju čine svi suci Vrhovnog suda Republike Hrvatske, uz sudjelovanje po dva predstavnika svakog visokog suda te po jednog predstavnika svakoga županijskog suda (u daljnjem tekstu: Proširena opća sjednica).«.
+
+U stavku 3. riječi: »Proširena opća sjednica« zamjenjuju se riječju: »Povjerenstvo«.
+
+### Članak 4.
+
+U članku 8. ispred riječi: »Povjerenstvo« stavlja se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Način rada kandidacijskih odbora i postupak kandidiranja propisat će se Poslovnikom o radu kandidacijskih odbora koji donosi Povjerenstvo.«.
+
+### Članak 5.
+
+U članku 9. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Po jedan kandidacijski odbor imenuje se za Vrhovni sud Republike Hrvatske, za visoke sudove i za prvostupanjske sudove, a tri kandidacijska odbora za županijske sudove.
+
+(2) Kandidacijski odbor Vrhovnog suda Republike Hrvatske nadležan je za Vrhovni sud Republike Hrvatske.«.
+
+Iza stavka 2. dodaju se novi stavci 3., 4. i 5. koji glase:
+
+»(3) Kandidacijski odbor visokih sudova nadležan je za Visoki trgovački sud Republike Hrvatske, Visoki upravni sud Republike Hrvatske, Visoki kazneni sud Republike Hrvatske i Visoki prekršajni sud Republike Hrvatske.
+
+(4) Kandidacijski odbori županijskih sudova nadležni su za:
+
+– Županijski sud u Sisku, Županijski sud u Velikoj Gorici i Županijski sud u Zagrebu,
+
+– Županijski sud u Dubrovniku, Županijski sud u Puli – Pola, Županijski sud u Rijeci, Županijski sud u Splitu, Županijski sud u Šibeniku i Županijski sud u Zadru,
+
+– Županijski sud u Bjelovaru, Županijski sud u Karlovcu, Županijski sud u Osijeku, Županijski sud u Slavonskom Brodu, Županijski sud u Varaždinu i Županijski sud u Vukovaru.
+
+(5) Kandidacijski odbor prvostupanjskih sudova nadležan je za sve općinske, trgovačke i upravne sudove u Republici Hrvatskoj.«.
+
+Dosadašnji stavci 3., 4., 5., 6. i 7. postaju stavci 6., 7., 8., 9. i 10.
+
+### Članak 6.
+
+U članku 12. stavak 2. mijenja se i glasi:
+
+»(2) Kandidat za člana Vijeća ne može biti sudac kojemu je u posljednje četiri godine izrečena stegovna kazna.«.
+
+### Članak 7.
+
+U članku 14. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Prijedlozi kandidata za članove Vijeća iz reda sudaca županijskih sudova podnose se nadležnom kandidacijskom odboru za područje nadležnih županijskih sudova iz članka 9. stavka 3. ovoga Zakona. Kandidat za člana Vijeća iz reda sudaca županijskih sudova može biti sudac koji najmanje pet godina obnaša dužnost suca županijskog suda.
+
+(3) Prijedlozi kandidata za članove Vijeća iz reda sudaca prvostupanjskih sudova podnose se kandidacijskom odboru prvostupanjskih sudova. Kandidat za člana Vijeća iz reda sudaca prvostupanjskih sudova može biti sudac koji najmanje pet godina obnaša sudačku dužnost.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Prijedlozi kandidata za članove Vijeća iz reda sudaca Visokog trgovačkog suda Republike Hrvatske, Visokog upravnog suda Republike Hrvatske, Visokog kaznenog suda Republike Hrvatske i Visokog prekršajnog suda Republike Hrvatske podnose se kandidacijskom odboru visokih sudova. Kandidat za člana Vijeća iz reda sudaca visokih sudova može biti sudac koji najmanje pet godina obnaša dužnost suca pojedinog visokog suda.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+### Članak 8.
+
+U članku 15. stavak 3. mijenja se i glasi:
+
+»(3) Za kandidate iz reda sudaca prvostupanjskih sudova glasuju svi suci prvostupanjskih sudova, za kandidate iz reda sudaca županijskih sudova glasuju suci županijskih sudova iz nadležnog kandidacijskog odbora, za kandidate iz reda sudaca visokih sudova glasuju svi suci visokih sudova te za kandidate iz reda sudaca Vrhovnog suda Republike Hrvatske glasuju svi suci Vrhovnog suda Republike Hrvatske.«.
+
+### Članak 9.
+
+U članku 16. stavak 2. mijenja se i glasi:
+
+»(2) Povjerenstvo utvrđuje listu kandidata za članove Vijeća iz reda sudaca Vrhovnog suda Republike Hrvatske, listu kandidata za članove Vijeća iz reda sudaca visokih sudova, tri liste kandidata za članove Vijeća iz reda sudaca županijskih sudova i listu kandidata za članove Vijeća iz reda sudaca prvostupanjskih sudova.«.
+
+Stavci 4., 5. i 6. mijenjaju se i glase:
+
+»(4) Liste kandidata za članove Vijeća iz reda sudaca županijskih sudova čini najviše 15 kandidata koji su ostvarili najveći broj glasova na području pojedinog kandidacijskog odbora.
+
+(5) Listu kandidata za članove Vijeća iz reda sudaca prvostupanjskih sudova čini najviše 15 kandidata koji su ostvarili najveći broj glasova.
+
+(6) Listu kandidata za članove Vijeća iz reda sudaca visokih sudova čini najviše 15 kandidata koji su ostvarili najveći broj glasova.«.
+
+### Članak 10.
+
+U članku 17. stavak 2. mijenja se i glasi:
+
+»(2) Za kandidate iz reda sudaca prvostupanjskih sudova glasuju svi suci prvostupanjskih sudova, za kandidate iz reda sudaca županijskih sudova glasuju suci županijskih sudova iz nadležnog kandidacijskog odbora, za kandidate iz reda sudaca visokih sudova glasuju svi suci visokih sudova te za kandidate iz reda sudaca Vrhovnog suda Republike Hrvatske glasuju svi suci Vrhovnog suda Republike Hrvatske.«.
+
+### Članak 11.
+
+U članku 28. stavak 2. mijenja se i glasi:
+
+»(2) Za članove Vijeća iz reda sudaca Vrhovnog suda Republike Hrvatske izabrana su dva kandidata s najvećim brojem glasova, a za članove vijeća iz redova sudaca visokih, županijskih i prvostupanjskih sudova oni kandidati koji su na svakoj listi dobili najveći broj glasova.«.
+
+### Članak 12.
+
+U članku 42. stavku 1. iza podstavka 9. dodaje se novi podstavak 10. koji glasi:
+
+» – davanje odobrenja za obavljanje druge službe ili posla uz obnašanje sudačke dužnosti,«.
+
+Dosadašnji podstavak 10. postaje podstavak 11.
+
+U stavku 2. točka 3. mijenja se i glasi:
+
+„3) u odnosu skrbnika, štićenika, posvojitelja i posvojenika.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Kandidat u postupku pred Vijećem može tražiti izuzeće njegova člana ako smatra da postoje okolnosti koje izazivaju sumnju u njegovu nepristranost u navedenom postupku.«.
+
+### Članak 13.
+
+U članku 44. ispred riječi: »Vijeće« stavlja se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Odluke i akti Vijeća objavljuju se na internetskim stranicama Vijeća.
+
+(3) Razgovori s kandidatima u postupcima imenovanja i premještaja sudaca mogu se snimati audiovizualnim uređajima te se snimke nakon donošenja odluka mogu objaviti na internetskim stranicama Vijeća.«.
+
+### Članak 14.
+
+U članku 45. stavak 3. mijenja se i glasi:
+
+»(3) Unutarnje ustrojstvo i druga pitanja važna za organizaciju rada Vijeća propisuju se Pravilnikom o unutarnjem redu Vijeća, koji donosi predsjednik Vijeća uz prethodnu suglasnost Ministarstva pravosuđa.«.
+
+### Članak 15.
+
+U članku 46. stavak 2. mijenja se i glasi:
+
+»(2) Tajnik Vijeća ima položaj načelnika sektora u ministarstvu.«.
+
+### Članak 16.
+
+U članku 47. stavak 1. mijenja se i glasi:
+
+»(1) Vijeće donosi poslovnik o radu kojim se uređuje način rada Vijeća.«.
+
+### Članak 17.
+
+Članci 48. i 49. brišu se.
+
+### Članak 18.
+
+U članku 51. stavku 2. riječ: »prekršajnog« i zarez brišu se, a iza riječi: »dužnosnike« dodaju se riječi: »odnosno koja već obnaša pravosudnu dužnost«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Za suca županijskog suda može biti imenovana osoba koja je radila kao pravosudni dužnosnik najmanje deset godina.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Za suca Visokog prekršajnog suda Republike Hrvatske, Visokog kaznenog suda Republike Hrvatske, Visokog trgovačkog suda Republike Hrvatske i Visokog upravnog suda Republike Hrvatske može biti imenovana osoba koja je radila kao pravosudni dužnosnik najmanje dvanaest godina.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+### Članak 19.
+
+U članku 52. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Predsjednik suda dužan je izvijestiti Ministarstvo pravosuđa o broju sudaca koji ispunjavaju uvjete za mirovinu u iduće dvije kalendarske godine te o potrebi popunjavanja sudačkih mjesta koja će se uprazniti, vodeći računa o radnoj opterećenosti suda.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+### Članak 20.
+
+Članak 54. briše se.
+
+### Članak 21.
+
+Iza članka 54. dodaje se članak 54.a koji glasi:
+
+»Članak 54.a
+
+Postupak imenovanja sudaca mora se dovršiti u roku od šest mjeseci od dana objave oglasa o slobodnim sudačkim mjestima.«.
+
+### Članak 22.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Kada pravosudni dužnosnik podnosi prijavu na oglas o slobodnom mjestu suca u županijskim i visokim sudovima, Vijeće će od nadležnog sudačkog vijeća odnosno državnog odvjetnika zatražiti ocjenu obnašanja dužnosti.
+
+(2) Ocjenom obnašanja dužnosti može se ostvariti najviše 150 bodova.
+
+(3) Na temelju ukupnog broja bodova utvrđenog ocjenom obnašanja dužnosti Vijeće utvrđuje redoslijed kandidata koji se objavljuje na internetskim stranicama Vijeća.
+
+(4) Vijeće će na razgovor pozvati kandidate koji su prema utvrđenom redoslijedu ostvarili više od 130 bodova, a iznimno i manje ako je broj kandidata s najmanje 130 bodova manji od broja sudaca koji se imenuju.
+
+(5) Na razgovoru iz stavka 4. ovoga članka kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, a na temelju kojih se može utvrditi njihov osjećaj za pravdu, sposobnost primjerenog i odgovornog obnašanja dužnosti te njihova motiviranost za obnašanje dužnosti. Kandidat na razgovoru može ostvariti najviše 15 bodova. Bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom.
+
+(6) Zbrajanjem broja bodova ostvarenog ocjenom obnašanja dužnosti i na razgovoru Vijeće utvrđuje redoslijed kandidata i objavljuje ga na svojim internetskim stranicama. Vijeće će imenovati suce između najviše 10 kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i kandidata s najvećim brojem bodova ne smije biti veća od 10 bodova.«.
+
+### Članak 23.
+
+U članku 55.a stavci 1. do 8. mijenjaju se i glase:
+
+»(1) Kada pravosudni dužnosnik podnosi prijavu na oglas o slobodnom mjestu suca Vrhovnog suda Republike Hrvatske, Vijeće će od nadležnog sudačkog vijeća odnosno državnog odvjetnika zatražiti ocjenu obnašanja dužnosti.
+
+(2) Kandidati za suca Vrhovnog suda Republike Hrvatske koji su podnijeli prijave na oglas, a nisu pravosudni dužnosnici pristupaju provjeri znanja pred Vijećem koja se sastoji od izrade jedne ili više pisanih radnji.
+
+(3) Ocjenom obnašanja dužnosti odnosno pisanom provjerom znanja može se ostvariti najviše 150 bodova.
+
+(4) Na temelju ukupnog broja bodova utvrđenog ocjenom obnašanja dužnosti odnosno rezultata pisane provjere znanja Vijeće utvrđuje redoslijed kandidata koji se objavljuje na internetskim stranicama Vijeća.
+
+(5) Vijeće će na razgovor pozvati kandidate koji su prema utvrđenom redoslijedu ostvarili više od 130 bodova, a iznimno i manje ako je broj kandidata s najmanje 130 bodova manji od broja sudaca koji se imenuju.
+
+(6) Na razgovoru iz stavka 5. ovoga Zakona kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, a na temelju kojih se može utvrditi njihov osjećaj za pravdu, sposobnost primjerenog i odgovornog obnašanja dužnosti te njihova motiviranost za obnašanje dužnosti. Kandidat na razgovoru može ostvariti najviše 15 bodova. Bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom.
+
+(7) Zbrajanjem broja bodova ostvarenog ocjenom obnašanja dužnosti odnosno na pisanoj provjeri znanja i na razgovoru Vijeće utvrđuje redoslijed kandidata i objavljuje ga na svojim internetskim stranicama. Vijeće će imenovati suce između najviše 10 kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i kandidata s najvećim brojem bodova ne smije biti veća od deset bodova.
+
+(8) Vijeće donosi Pravila o načinu provođenja i ocjenjivanju pisanih radnji iz stavka 2. ovoga članka te načinu provođenja i ocjenjivanja razgovora iz stavka 6. ovoga članka.«.
+
+### Članak 24.
+
+U članku 56. stavci 1. do 7. mijenjaju se i glase:
+
+»(1) Kada Vijeće za suca općinskog, trgovačkog ili upravnog suda imenuje kandidate koji su završili Državnu školu za pravosudne dužnosnike, izbor mora biti utemeljen na završnoj ocjeni koju su kandidati ostvarili u Državnoj školi i ostvarenim bodovima na razgovoru s kandidatima.
+
+(2) Kada Vijeće za suce imenuje kandidate koji su završili Državnu školu za pravosudne dužnosnike, a završnu ocjenu u Državnoj školi za pravosudne dužnosnike ostvarili su na temelju različitih mjerila, vrijednost završne ocjene tih kandidata usklađuje se tako da se završna ocjena svakog kandidata pomnoži koeficijentom koji se izračunava tako da se najviša moguća završna ocjena prema propisima koji su važili u vrijeme prijave na oglas o slobodnom sudačkom mjestu podijeli najvišom mogućom završnom ocjenom koju je prema važećim propisima kandidat mogao ostvariti u vrijeme njegova ocjenjivanja.
+
+(3) Kada u postupku imenovanja sudaca općinskih, trgovačkih ili upravnih sudova sudjeluje osoba koja već obnaša pravosudnu dužnost, ocjena obnašanja dužnosti množi se koeficijentom dva.
+
+(4) Na temelju završnih ocjena u Državnoj školi za pravosudne dužnosnike odnosno ocjene obnašanja dužnosti iz stavka 3. ovoga članka Vijeće utvrđuje redoslijed kandidata koji se objavljuje na internetskim stranicama Vijeća.
+
+(5) Na razgovor pred Vijećem pozivaju se kandidati prema utvrđenom redoslijedu iz stavka 4. ovoga članka. Kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, a na temelju kojih se može utvrditi njihov osjećaj za pravdu, sposobnost primjerenog i odgovornog obnašanja dužnosti te njihova motiviranost za obnašanje dužnosti. Kandidati na razgovoru mogu ostvariti najviše 15 bodova. Bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom.
+
+(6) Zbrajanjem broja bodova ostvarenog završnom ocjenom odnosno ocjenom obnašanja dužnosti i na razgovoru Vijeće utvrđuje redoslijed kandidata koji se objavljuje na internetskim stranicama Vijeća. Vijeće će imenovati suce između najviše 10 kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i kandidata s najvećim brojem bodova ne smije biti veća od deset bodova.
+
+(7) Prije donošenja odluke o imenovanju Vijeće kandidate iz stavka 6. ovoga članka upućuje na psihološko testiranje radi utvrđenja sposobnosti za obnašanje sudačke dužnosti. Pravila o sadržaju psihološkog testiranja donosi Vijeće. Za suca se ne može imenovati kandidat koji ne zadovolji na psihološkom testiranju.«.
+
+### Članak 25.
+
+U članku 56.a iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ako je prema utvrđenom redoslijedu iz članka 55. stavka 6., članka 55.a stavka 7. i članka 56. stavka 6. ovoga Zakona više kandidata ostvarilo isti broj bodova te ako je za suca Vijeće imenovalo kandidata koji nije ostvario najveći broj bodova, Vijeće će u odluci o imenovanju posebno obrazložiti razloge zbog kojih je prednost dalo izabranom kandidatu u odnosu na kandidate s istim odnosno većim brojem bodova.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 26.
+
+Iza članka 59. dodaje se članak 59.a koji glasi:
+
+»Članak 59.a
+
+Ako je protiv odluke o imenovanju suca podnesena ustavna tužba Ustavnom sudu Republike Hrvatske, imenovani sudac ne može položiti prisegu niti stupiti na dužnost dok Ustavni sud Republike Hrvatske ne odluči o ustavnoj tužbi.«.
+
+### Članak 27.
+
+U članku 60. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Državno sudbeno vijeće će prilikom donošenja odluka iz stavka 1. ovoga članka uzeti u obzir iskazan interes sudaca, mjesto rada sudaca te duljinu obnašanja sudačke dužnosti i vrstu predmeta u kojima sude.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 28.
+
+U članku 61. stavku 5. iza riječi: »pravo na« dodaju se riječi: »plaću koja je za njega povoljnija,«.
+
+### Članak 29.
+
+U članku 62. stavku 2. u točki 8. iza riječi: »dužnosti« umjesto točke stavlja se zarez i dodaje točka 9. koja glasi:
+
+„9. povreda propisa o zaštiti osobnih podataka.«.
+
+U stavku 3. točki 3. riječi: »bitno ispod broja« zamjenjuju se riječima: »manje od 80%«.
+
+U točki 4. riječ: »bitno« briše se.
+
+### Članak 30.
+
+U članku 80. stavku 2. druga rečenica mijenja se i glasi:
+
+„Nitko ne može biti imenovan na dužnost predsjednika suda u sudu istog stupnja i vrste više od dva puta.«.
+
+Stavak 4. briše se.
+
+### Članak 31.
+
+U članku 81. stavku 1. riječi: »tri mjeseca« zamjenjuju se riječima: »šest mjeseci«.
+
+### Članak 32.
+
+U članku 83. stavak 4. mijenja se i glasi:
+
+»(4) Mišljenje o kandidatima za predsjednika suda i njihovim programima rada zatražit će se od predsjednika neposredno višeg suda i predsjednika Vrhovnog suda Republike Hrvatske, koji su ga dužni dati u roku od 30 dana.«.
+
+### Članak 33.
+
+Članak 87. mijenja se i glasi:
+
+»(1) Sudac je dužan u roku od 30 dana od dana prvog stupanja na dužnost Vijeću podnijeti izvješće o svojoj imovini te imovini svoga bračnog druga, izvanbračnog druga odnosno životnog partnera i maloljetne djece sa stanjem na dan stupanja na dužnost (imovinska kartica suca).
+
+(2) Ako je tijekom godine došlo do bitne promjene u imovini suca i osoba iz stavka 1. ovoga članka, sudac je dužan najkasnije do 1. ožujka sljedeće godine Vijeću podnijeti izvješće o nastalim promjenama u imovini.«.
+
+### Članak 34.
+
+Članak 88. mijenja se i glasi:
+
+»(1) Podaci o imovini suca obuhvaćaju podatke o naslijeđenoj imovini i podatke o stečenoj imovini suca i osoba iz članka 87. stavka 1. ovoga Zakona.
+
+(2) Podaci o naslijeđenoj imovini obuhvaćaju podatke o vrsti i ukupnoj vrijednosti nasljedstva te podatke od koga je nasljedstvo naslijeđeno.
+
+(3) Podaci o stečenoj imovini obuhvaćaju podatke o:
+
+– nekretninama stečenim kupoprodajom, zamjenom, darovanjem, unošenjem i izuzimanjem nekretnina iz trgovačkog društva, stečenim u postupku likvidacije ili stečaja, stečenim na temelju odluka suda ili drugog tijela, povratom imovine stečene u postupku denacionalizacije te na drugi način stečenim nekretninama od drugih osoba,
+
+– pokretninama veće vrijednosti,
+
+– poslovnim udjelima i dionicama u trgovačkim društvima,
+
+– udjelima u vlasništvu drugih poslovnih subjekata,
+
+– novčanoj štednji ako ona premašuje jednogodišnji iznos netoplaće suca,
+
+– dugovima, preuzetim jamstvima i ostalim obvezama,
+
+– dohotku od nesamostalnog rada, dohotku od imovine i imovinskih prava, dohotku od kapitala, dohotku od osiguranja i drugom dohotku,
+
+– primicima koji se ne smatraju dohotkom i primicima na koje se ne plaća porez na dohodak.
+
+(4) Pod pokretninama veće vrijednosti iz stavka 3. podstavka 2. ovoga članka podrazumijevaju se vozila, plovila, zrakoplovi, radni strojevi, lovačko oružje, umjetnine, nakit, drugi predmeti osobne uporabne vrijednosti, vrijednosni papiri, životinje i druge stečene pokretnine pojedinačne vrijednosti veće od 30.000,00 kuna, osim predmeta kućanstva i odjevnih predmeta.«.
+
+### Članak 35.
+
+Iza članka 88. dodaju se članci 88.a i 88.b koji glase:
+
+»Članak 88.a
+
+(1) Izvješće o imovini suca podnosi se u elektroničkom obliku. Sadržaj obrasca izvješća o imovini suca i način njegova podnošenja Vijeće uređuje pravilima.
+
+(2) Podaci o imovini suca iz članka 88. ovoga Zakona su javni i objavljuju se na internetskim stranicama Vijeća. Ne objavljuju se podaci zaštićeni propisima o zaštiti osobnih podataka.
+
+### Članak 88.b
+
+(1) Vijeće vodi evidenciju izvješća o imovini suca i kontrolira podatke o njegovoj imovini.
+
+(2) Nakon primitka izvješća te dopune izvješća o imovini suca Vijeće će od Porezne uprave Ministarstva financija i drugih tijela pribaviti podatke kojima raspolažu o njegovoj imovini i usporediti ih s podacima u izvješću o imovini.
+
+(3) Ako za imovinu koju je sudac naveo u izvješću nije dostavio podatke o načinu stjecanja te imovine, Vijeće će zatražiti od suca pisano očitovanje.
+
+(4) Ako se podaci u izvješću o imovini koje je Vijeće pribavilo na način opisan u stavku 2. ovoga članka razlikuju od podataka koje je sudac naveo u izvješću, Vijeće će o tome obavijestiti predsjednika suda u kojemu sudac obnaša dužnost i predsjednika neposredno višeg suda radi podnošenja zahtjeva za pokretanje stegovnog postupka.
+
+(5) Ako se iz očitovanja suca utvrdi nesrazmjer vrijednosti i načina stjecanja imovine suca, Vijeće će o tome obavijestiti Poreznu upravu Ministarstva financija.«.
+
+*Prijelazne i završne odredbe*
+
+### Članak 36.
+
+Ograničenje mandata iz članka 30. stavka 1. ovoga Zakona primjenjuje se na sve osobe koje su do dana stupanja na snagu ovoga Zakona obnašale dužnost predsjednika suda.
+
+### Članak 37.
+
+Postupci započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13., 28/13. i 82/15.).
+
+### Članak 38.
+
+Poslovnik iz članka 4. ovoga Zakona Povjerenstvo će donijeti u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+Pravilnik iz članka 14. ovoga Zakona Vijeće će uskladiti s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Poslovnik iz članka 16. ovoga Zakona Vijeće će uskladiti s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Pravila iz članaka 23., 24. i 35. ovoga Zakona Vijeće će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+### Članak 39.
+
+Suci su dužni podnijeti izvješća o svojoj imovini te imovini svoga bračnog druga, izvanbračnog druga odnosno životnog partnera i maloljetne djece sukladno odredbama ovoga Zakona u roku od tri mjeseca od donošenja pravila iz članka 35. ovoga Zakona.
+
+### Članak 40.
+
+Na prvim izborima za članove Državnog sudbenog vijeća iz reda sudaca prvostupanjskih sudova koji će se provesti nakon stupanja na snagu ovoga Zakona sudjeluju i suci prekršajnih sudova.
+
+### Članak 41.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. rujna 2018.
+
+Klasa: 022-03/18-01/30
+
+Zagreb, 6. srpnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o Državnom sudbenom vijeću (NN 126/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/126/2533*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU
+
+Proglašavam Zakon o izmjeni Zakona o Državnom sudbenom vijeću, koji je Hrvatski sabor donio na sjednici 13. prosinca 2019.
+
+Klasa: 011-01/19-01/241
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU**
+
+### Članak 1.
+
+U Zakonu o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13., 28/13., 82/15. i 67/18.) članak 88.a mijenja se i glasi:
+
+»(1) Izvješće o imovini suca podnosi se u elektroničkom obliku.
+
+(2) Sadržaj obrasca izvješća o imovini suca, način njegova podnošenja i sadržaj podataka o imovini suca koji se objavljuju na mrežnim stranicama Vijeća uređuje Vijeće pravilima.
+
+(3) Podaci o imovini suca objavljuju se radi osiguranja dostupnosti i jačanja povjerenja javnosti te jačanja integriteta, transparentnosti i sprječavanja sukoba interesa i drugih nedopuštenih utjecaja u obnašanju sudačke dužnosti.
+
+(4) Na obradu i objavu osobnih podataka iz stavka 2. ovoga članka primjenjuju se propisi o zaštiti osobnih podataka.«.
+
+### Članak 2.
+
+Vijeće je dužno u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti pravila o sadržaju obrasca izvješća o imovini suca, načinu njegova podnošenja i sadržaju podataka o imovini suca koji se objavljuju u skladu s ovim Zakonom.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/236  
+Zagreb, 13. prosinca 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o državnom sudbenom vijeću (NN 80/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1172*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću, koji je Hrvatski sabor donio na sjednici 1. srpnja 2022.
+
+Klasa: 011-02/22-02/62  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 6. srpnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU**
+
+### Članak 1.
+
+U Zakonu o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13., 28/13., 82/15., 67/18. i 126/19.) u članku 7. stavak 7. briše se.
+
+### Članak 2.
+
+U članku 12. stavak 3. mijenja se i glasi:
+
+»(3) Svaki kandidat za člana Vijeća mora dati pisani pristanak na kandidaturu i priložiti životopis.«.
+
+### Članak 3.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Prijedlozi kandidata za članove Vijeća iz reda sudaca Vrhovnog suda Republike Hrvatske podnose se kandidacijskom odboru Vrhovnog suda Republike Hrvatske.
+
+(2) Prijedlozi kandidata za članove Vijeća iz reda sudaca županijskih sudova podnose se nadležnom kandidacijskom odboru za područje nadležnih županijskih sudova iz članka 9. stavka 4. ovoga Zakona.
+
+(3) Prijedlozi kandidata za članove Vijeća iz reda sudaca prvostupanjskih sudova podnose se kandidacijskom odboru prvostupanjskih sudova.
+
+(4) Prijedlozi kandidata za članove Vijeća iz reda sudaca Visokog trgovačkog suda Republike Hrvatske, Visokog upravnog suda Republike Hrvatske, Visokog kaznenog suda Republike Hrvatske i Visokog prekršajnog suda Republike Hrvatske podnose se kandidacijskom odboru visokih sudova.
+
+(5) Kandidati za članove Vijeća iz reda sudaca sudova određene vrste mogu biti suci koji u toj vrsti suda obnašaju dužnost najmanje pet godina.
+
+(6) Nadležni kandidacijski odbori utvrđuju pravovaljanost kandidatura za članove vijeća.«.
+
+### Članak 4.
+
+U članku 16. stavak 7. mijenja se i glasi:
+
+»(7) Utvrđene liste kandidata i njihove životopise Povjerenstvo objavljuje na mrežnim stranicama Vrhovnog suda Republike Hrvatske.«.
+
+### Članak 5.
+
+U članku 42. stavku 1. podstavak 9. briše se.
+
+Dosadašnji podstavci 10. i 11. postaju podstavci 9. i 10.
+
+### Članak 6.
+
+U članku 51. stavak 2. mijenja se i glasi:
+
+»(2) Za suca općinskog, trgovačkog i upravnog suda može biti imenovana osoba koja je završila Državnu školu za pravosudne dužnosnike i koja ne obnaša pravosudnu dužnost.«.
+
+### Članak 7.
+
+U članku 52. stavku 2. riječi: »iduće dvije kalendarske godine« zamjenjuju se riječima: »idućoj kalendarskoj godini«.
+
+U stavku 3. riječi: »sljedeće dvije godine« zamjenjuju se riječima: »iduću kalendarsku godinu«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Plan popunjavanja slobodnih sudačkih mjesta i njegove izmjene objavljuju se na mrežnim stranicama ministarstva nadležnog za poslove pravosuđa i Vijeća.«.
+
+### Članak 8.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Kada pravosudni dužnosnik podnosi prijavu na oglas o slobodnom mjestu suca u županijskim i visokim sudovima, Vijeće će od nadležnog sudačkog vijeća odnosno državnog odvjetnika zatražiti ocjenu obnašanja dužnosti.
+
+(2) Kandidati za suca u županijskim i visokim sudovima koji u trenutku prijave više ne obnašaju pravosudnu dužnost pristupaju pisanoj provjeri znanja pred Vijećem koja se sastoji od izrade jedne pisane radnje.
+
+(3) Ocjenom obnašanja dužnosti odnosno pisanom provjerom znanja može se ostvariti najviše 150 bodova.
+
+(4) Na temelju ukupnog broja bodova utvrđenog ocjenom obnašanja dužnosti odnosno pisanom provjerom znanja Vijeće utvrđuje redoslijed kandidata koji se objavljuje na mrežnim stranicama Vijeća.
+
+(5) Vijeće će na razgovor pozvati kandidate prema utvrđenom broju bodova iz stavka 4. ovoga članka, od najmanjeg prema najvećem broju bodova, i u skladu sa stavkom 9. ovoga članka.
+
+(6) Na razgovoru iz stavka 5. ovoga članka kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, a na temelju kojih se može utvrditi njihov osjećaj za pravdu, sposobnost primjerenog i odgovornog obnašanja dužnosti te njihova motiviranost za obnašanje dužnosti.
+
+(7) Kandidat na razgovoru može ostvariti najviše 20 bodova, a bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom te objavljuju na mrežnim stranicama Vijeća.
+
+(8) Zbrajanjem broja bodova ostvarenih ocjenom obnašanja dužnosti odnosno pisanom provjerom znanja i na razgovoru Vijeće utvrđuje redoslijed kandidata i objavljuje ga na svojim mrežnim stranicama.
+
+(9) Vijeće će imenovati suce između najviše 15 kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i kandidata s najvećim brojem bodova ne smije biti veća od 15 bodova.«.
+
+### Članak 9.
+
+U članku 55.a stavku 2. riječi: »ili više pisanih radnji« zamjenjuju se riječima: »pisane radnje«.
+
+Stavci 5., 6. i 7. mijenjaju se i glase:
+
+»(5) Vijeće će na razgovor pozvati kandidate prema utvrđenom broju bodova iz stavka 4. ovoga članka, od najmanjeg prema najvećem broju bodova, i u skladu sa stavkom 7. ovoga članka.
+
+(6) Na razgovoru iz stavka 5. ovoga članka kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, a na temelju kojih se može utvrditi njihov osjećaj za pravdu, sposobnost primjerenog i odgovornog obnašanja dužnosti te njihova motiviranost za obnašanje dužnosti. Kandidat na razgovoru može ostvariti najviše 20 bodova. Bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom te objavljuju na mrežnim stranicama Vijeća.
+
+(7) Zbrajanjem bodova ostvarenih ocjenom obnašanja dužnosti odnosno na pisanoj provjeri znanja i na razgovoru Vijeće utvrđuje redoslijed kandidata i objavljuje ga na svojim mrežnim stranicama. Vijeće će imenovati suce između najviše 15 kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i kandidata s najvećim brojem bodova ne smije biti veća od 15 bodova.«.
+
+Stavak 8. briše se.
+
+Dosadašnji stavci 9. i 10. postaju stavci 8. i 9.
+
+U dosadašnjem stavku 11., koji postaje stavak 10., brojka: »9« zamjenjuje se brojkom: »8«.
+
+Dosadašnji stavak 12. postaje stavak 11.
+
+### Članak 10.
+
+Članak 56. mijenja se i glasi:
+
+»(1) Za suca općinskog, trgovačkog ili upravnog suda mogu se imenovati kandidati koji su završili Državnu školu za pravosudne dužnosnike i koji ne obnašaju pravosudnu dužnost.
+
+(2) U odnosu na kandidate iz stavka 1. ovoga članka koji su primljeni u državnu službu na neodređeno vrijeme i raspoređeni na radno mjesto savjetnika u pravosudnim tijelima izbor mora biti utemeljen na ocjeni rada u svojstvu savjetnika, završnoj ocjeni koju su ostvarili u Državnoj školi i ostvarenim bodovima na razgovoru s Vijećem, a u odnosu na kandidate koji su Državnu školu završili polaganjem završnog ispita na broju bodova ostvarenih na završnom ispitu u Državnoj školi i ostvarenim bodovima na razgovoru s Vijećem.
+
+(3) Ocjenu rada savjetnika u pravosudnim tijelima u svrhu sudjelovanja u postupku imenovanja sudaca utvrđuje čelnik pravosudnog tijela u koje su raspoređeni na zahtjev Vijeća sukladno metodologiji ocjenjivanja rada sudskih savjetnika odnosno metodologiji ocjenjivanja rada državnoodvjetničkih savjetnika, a na temelju ocjenjivanja rada kandidati mogu ostvariti najviše 100 bodova.
+
+(4) Protiv odluke o ocjeni iz stavka 3. ovoga članka kandidat ima pravo u roku od osam dana od dana dostave izjaviti žalbu predsjedniku neposredno višeg suda odnosno neposredno višem državnom odvjetniku, koji su o žalbi dužni odlučiti u roku od 15 dana od dana zaprimanja.
+
+(5) Kada Vijeće za suce imenuje kandidate koji su završili Državnu školu za pravosudne dužnosnike, a završnu ocjenu u Državnoj školi za pravosudne dužnosnike ostvarili su na temelju različitih mjerila, vrijednost završne ocjene tih kandidata usklađuje se tako da se završna ocjena svakog kandidata pomnoži koeficijentom koji se izračunava tako da se najviša moguća završna ocjena prema propisima koji su važili u vrijeme prijave na oglas o slobodnom sudačkom mjestu podijeli najvišom mogućom završnom ocjenom koju je prema važećim propisima kandidat mogao ostvariti u vrijeme njegova ocjenjivanja.
+
+(6) Na temelju ocjene rada savjetnika u pravosudnim tijelima i završne ocjene u Državnoj školi odnosno broja bodova na završnom ispitu u Državnoj školi Vijeće utvrđuje redoslijed kandidata koji se objavljuje na mrežnim stranicama Vijeća.
+
+(7) Metodologiju ocjenjivanja rada sudskih savjetnika donosi ministarstvo nadležno za poslove pravosuđa.«.
+
+### Članak 11.
+
+Članak 56.a mijenja se i glasi:
+
+»(1) U postupcima iz članka 56. ovoga Zakona na razgovor pred Vijećem pozivaju se kandidati prema utvrđenom broju bodova iz članka 56. stavka 6. ovoga Zakona, od najmanjeg prema najvećem broju bodova, i u skladu sa stavkom 4. ovoga članka.
+
+(2) Kandidati na razgovoru mogu ostvariti najviše 20 bodova, a bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom te objavljuju na mrežnim stranicama Vijeća. Kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, na temelju kojih se može utvrditi njihov osjećaj za pravdu, sposobnost primjerenog i odgovornog obnašanja dužnosti te njihova motiviranost za obnašanje dužnosti.
+
+(3) Zbrajanjem broja bodova ostvarenih ocjenom rada savjetnika u pravosudnim tijelima i završnom ocjenom u Državnoj školi odnosno bodovima na završnom ispitu u Državnoj školi i na razgovoru Vijeće utvrđuje redoslijed kandidata koji se objavljuje na mrežnim stranicama Vijeća.
+
+(4) Vijeće imenuje suce između najviše 15 kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i kandidata s najvećim brojem bodova ne smije biti veća od 15 bodova.
+
+(5) Prije donošenja odluke o imenovanju Vijeće kandidate iz stavka 4. ovoga članka upućuje na psihološko testiranje radi utvrđenja sposobnosti za obnašanje sudačke dužnosti.
+
+(6) Za kandidate s najvećim brojem bodova koji zadovolje na psihološkom testiranju Vijeće nadležnoj sigurnosno-obavještajnoj agenciji podnosi zahtjev za provedbu temeljne sigurnosne provjere, i to za onoliko kandidata koliko se sudaca imenuje.
+
+(7) Temeljna sigurnosna provjera provodi se sukladno zakonu kojim se uređuju sigurnosne provjere, a na temelju izvješća o rezultatu temeljne sigurnosne provjere nadležne sigurnosno-obavještajne agencije Vijeće donosi ocjenu o postojanju sigurnosnih zapreka. Za suca ne može se imenovati kandidat u odnosu na kojeg se utvrdi postojanje sigurnosnih zapreka
+
+(8) Ako kandidat iz stavka 4. ovoga članka odbije dati suglasnost za provođenje temeljne sigurnosne provjere ili se u odnosu na tog kandidata utvrdi postojanje sigurnosnih zapreka, Vijeće nadležnoj sigurnosno-obavještajnoj agenciji podnosi zahtjev za provedbu temeljne sigurnosne provjere kandidata koji je ostvario sljedeći najveći broj bodova.«.
+
+### Članak 12.
+
+Članak 56.b mijenja se i glasi:
+
+»Pravila o načinu provođenja provjere znanja i ocjenjivanju pisanih radnji te načinu provođenja i ocjenjivanja razgovora i načinu provedbe psihološkog testiranja iz članaka 55., 55.a i 56.a ovoga Zakona donosi Vijeće.«.
+
+### Članak 13.
+
+Iza članka 56.b dodaje se članak 56.c koji glasi:
+
+»Članak 56.c
+
+(1) Odluka o imenovanju sudaca mora biti obrazložena.
+
+(2) Ako je prema utvrđenom redoslijedu iz članka 55. stavka 8., članka 55.a stavka 7. i članka 56.a stavka 3. ovoga Zakona više kandidata ostvarilo isti broj bodova te ako je za suca Vijeće imenovalo kandidata koji nije ostvario najveći broj bodova, Vijeće će u odluci o imenovanju posebno obrazložiti razloge zbog kojih je prednost dalo izabranom kandidatu u odnosu na kandidate s istim odnosno većim brojem bodova.
+
+(3) Odluka o imenovanju sudaca objavljuje se u »Narodnim novinama«.«.
+
+### Članak 14.
+
+U članku 61. stavak 1. mijenja se i glasi:
+
+»(1) Sudac može uz svoj pristanak biti privremeno upućen na rad u drugi sud na vrijeme do četiri godine, s time da se to vrijeme može produžiti za još četiri godine.«.
+
+U stavku 4. riječi: »viši sudski savjetnik« zamjenjuju se riječima: »viši sudski savjetnik – specijalist«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Pravo na povoljniju plaću iz stavka 5. ovoga članka isključuje pravo na dodatak na plaću kada je sudac upućen na rad u drugi sud sukladno zakonu kojim se uređuju prava i dužnosti sudaca.«.
+
+### Članak 15.
+
+Članak 61.a mijenja se i glasi:
+
+»(1) Najviše 30% slobodnih sudačkih mjesta predviđenih planom iz članka 52. stavka 1. ovoga Zakona može se popuniti trajnim premještajem sudaca iz sudova istog stupnja.
+
+(2) Nakon donošenja plana iz članka 52. stavka 1. ovoga Zakona, a prije objave oglasa iz članka 53. ovoga Zakona, Vijeće na svojim internetskim stranicama objavljuje poziv sucima da, u roku koji odredi Vijeće, podnesu prijavu za trajni premještaj.
+
+(3) U drugi sud trajno se mogu premjestiti suci koji obnašaju sudačku dužnost najmanje tri godine.
+
+(4) Suci koji žele biti trajno premješteni u drugi sud, u roku koji odredi Vijeće, dostavljaju Vijeću pisanu prijavu uz koju prilažu rješenje predsjednika suda o ispunjavanju svoje sudačke obveze za posljednje tri godine.
+
+(5) Nakon proteka roka za dostavu prijava iz stavka 4. ovoga članka Vijeće će utvrditi potrebe i stanje popunjenosti sudačkih mjesta te broj primljenih, riješenih i neriješenih predmeta u sudovima u kojima prijavljeni kandidati obnašaju sudačku dužnost. Prijave sudaca koji sudačku dužnost obnašaju u sudovima u kojima bi u slučaju premještaja došlo do većih poteškoća u organizaciji rada neće se razmatrati.
+
+(6) Ako se na poziv Vijeća javi više kandidata, Vijeće ih poziva na razgovor na kojem im se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, a na temelju kojih se može utvrditi njihova motiviranost za trajan premještaj i obnašanje dužnosti u drugom sudu.
+
+(7) Kandidat na razgovoru može ostvariti najviše 20 bodova, a bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom.
+
+(8) Na temelju utvrđenja o ispunjavanju sudačke obveze iz stavka 4. ovoga članka i bodova ostvarenih na razgovoru Vijeće utvrđuje redoslijed kandidata, objavljuje ga na svojim mrežnim stranicama te donosi obrazloženu odluku o premještaju.«.
+
+### Članak 16.
+
+U članku 62. stavku 2. iza točke 8. dodaje se nova točka 9. koja glasi:
+
+»9. nedavanje suglasnosti za provođenje sigurnosne provjere,«.
+
+Dosadašnja točka 9. postaje točka 10.
+
+U stavku 3. točki 3. riječi: »manje od 80% odluka utvrđenih« zamjenjuju se riječima: »manji od broja utvrđenog«.
+
+U točki 4. iza riječi: »hitnosti« točka se zamjenjuje zarezom i dodaje točka 5. koja glasi:
+
+»5. ako bez opravdanog razloga zbog nepoduzimanja postupovnih radnji u sudskom predmetu nastupi zastara.«.
+
+### Članak 17.
+
+U članku 63. stavak 8. mijenja se i glasi:
+
+»(8) O pravomoćnoj odluci kojom je sucu izrečena kazna Državno sudbeno vijeće obavještava nadležno sudačko vijeće, predsjednika suda u kojem sudac obnaša sudačku dužnost i ministarstvo nadležno za poslove pravosuđa koje vodi evidenciju o izrečenim kaznama.«.
+
+### Članak 18.
+
+U članku 64. iza riječi: »drugi sud« dodaju se riječi: »niti za predsjednika suda«.
+
+### Članak 19.
+
+U članku 65. stavak 1. mijenja se i glasi:
+
+»(1) Stegovni postupak ne smije se pokrenuti nakon jedne godine od saznanja za počinjeno stegovno djelo i počinitelja odnosno tri godine od počinjenoga stegovnog djela. Zastara vođenja stegovnog postupka nastupa istekom roka od šest godina od dana dovršetka stegovnog djela.«.
+
+### Članak 20.
+
+U članku 70. stavak 1. mijenja se i glasi:
+
+»(1) Prijavljenom sucu će se po zaprimanju zahtjeva za pokretanje stegovnog postupka pružiti mogućnost da iznese svoju obranu, osobno, u pisanom obliku ili po branitelju kojeg izabere. Ako prijavljeni sudac ne iznese svoju obranu, rasprava se provodi u njegovoj odsutnosti.«.
+
+U stavku 3. brojka: »15« zamjenjuje se brojkom: »30«.
+
+### Članak 21.
+
+U članku 72. stavak 1. mijenja se i glasi:
+
+»(1) Stegovni postupak provodi se odgovarajućom primjenom odredaba važećeg Zakona o kaznenom postupku koje se odnose na raspravu, ako ovim Zakonom nije drukčije određeno. U odnosu na stegovna djela na odgovarajući se način primjenjuju odredbe važećeg Kaznenog zakona.«.
+
+### Članak 22.
+
+U članku 73. stavku 1. podstavak 1. mijenja se i glasi:
+
+» – ako je protiv njega započet kazneni postupak zbog kaznenog djela za koje je predviđena kazna zatvora od pet godina ili teža kazna, ili dok se nalazi u pritvoru odnosno istražnom zatvoru,«.
+
+U stavku 2. podstavak 1. mijenja se i glasi:
+
+» – ako je protiv njega započet kazneni postupak zbog kaznenog djela za koje je predviđena kazna zatvora do pet godina,«.
+
+### Članak 23.
+
+Članak 75. mijenja se i glasi:
+
+»(1) Privremeno udaljenje od obavljanja dužnosti određuje se na rok od tri mjeseca, a po proteku toga roka može ga Vijeće zbog opravdanih razloga na jednak način produljiti za daljnja tri mjeseca.
+
+(2) Privremeno udaljenje može trajati do pravomoćnog okončanja stegovnog postupka, koji u tom slučaju Vijeće mora provesti u roku od dvije godine, a samo iznimno, zbog opravdanih razloga i u duljem roku odnosno najdulje do pravomoćnog okončanja kaz­nenog postupka.
+
+(3) Za vrijeme privremenog udaljenja s dužnosti sudac ima pravo na jednu polovinu plaće.
+
+(4) U slučaju oslobađajuće odluke u stegovnom ili kaznenom postupku odluka o privremenom udaljenju prestaje po sili zakona danom pravomoćnosti odluke, a u tom slučaju sudac ima pravo na isplatu razlike neisplaćene plaće za vrijeme trajanja posljedica odluke o udaljenju od obnašanja dužnosti.«.
+
+### Članak 24.
+
+U članku 78. stavku 2. riječi: »tjelesnih i duševnih sposobnosti« zamjenjuju se riječima: »tjelesnih i duševnih svojstava«.
+
+### Članak 25.
+
+U članku 80. stavak 2. mijenja se i glasi:
+
+»(2) Predsjednik suda imenuje se na vrijeme od četiri godine. Predsjednik suda može biti imenovan na dužnost u sudu istog stupnja najviše dva puta uzastopce.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Predsjednik suda može biti ponovno imenovan na dužnost predsjednika suda nakon što je obnašao sudačku dužnost razmjerno vremenu na koje je prethodno bio imenovan predsjednikom suda.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 26.
+
+Članak 82. mijenja se i glasi:
+
+»(1) Za predsjednika suda može biti imenovan sudac iste vrste i istog stupnja suda u kojem se imenuje predsjednik suda ili sudac višeg suda.
+
+(2) Sudac višeg suda imenovan za predsjednika nižeg suda ima pravo na plaću koja je za njega povoljnija.«.
+
+### Članak 27.
+
+U članku 87. stavak 1. mijenja se i glasi:
+
+»(1) Sudac je dužan u roku od 30 dana od dana prvog stupanja na dužnost Vijeću podnijeti izvješće o svojoj imovini te imovini svog bračnog druga, izvanbračnog druga, životnog partnera odnosno neformalnog životnog partnera te maloljetne djece sa stanjem na dan stupanja na dužnost (imovinska kartica suca).«.
+
+### Članak 28.
+
+U članku 88. stavku 4. riječi: »30.000,00 kuna« zamjenjuju se riječima: »3980,00 eura«.
+
+### Članak 29.
+
+U članku 88.b stavak 2. mijenja se i glasi:
+
+»(2) Nakon primitka izvješća te dopune izvješća o imovini suca Vijeće će od Porezne uprave Ministarstva financija i drugih tijela pribaviti podatke kojima raspolažu o njegovoj imovini i usporediti ih s podacima u izvješću o imovini, a u slučaju potrebe Vijeće može od Porezne uprave Ministarstva financija zatražiti provedbu postupka provjere načina stjecanja imovine, koje je rezultate Porezna uprava Ministarstva financija dužna bez odgode dostaviti Vijeću.«.
+
+### Članak 30.
+
+Članak 89. briše se.
+
+### Članak 31.
+
+U cijelom tekstu Zakona o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13., 28/13., 82/15., 67/18. i 126/19.) riječi: »ministar pravosuđa« i riječi: »Ministarstvo pravosuđa« u određenom padežu zamjenjuju se riječima: »ministar nadležan za poslove pravosuđa« i riječima: »ministarstvo nadležno za poslove pravosuđa« u odgovarajućem padežu.
+
+### Članak 32.
+
+Postupci imenovanja sudaca i predsjednika sudova za koje je objavljen oglas, postupci trajnog premještaja za koje je objavljen poziv te postupci privremenog upućivanja na rad i stegovni postupci započeti do stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13., 28/13., 82/15., 67/18. i 126/19.).
+
+### Članak 33.
+
+Kada u postupku imenovanja sudaca općinskih, trgovačkih ili upravnih sudova sudjeluju kandidati koji su do dana stupanja na snagu ovoga Zakona završili Državnu školu za pravosudne dužnosnike i koji se mogu ocijeniti kao savjetnici u pravosudnim tijelima sukladno članku 10. stavku 3. ovoga Zakona, vrijednost završne ocjene tih kandidata množi se koeficijentom 0,666.
+
+### Članak 34.
+
+Iznimno od članka 14. stavka 5., koji je izmijenjen člankom 3. ovoga Zakona, suci Visokog kaznenog suda Republike Hrvatske, imenovani odlukom Vijeća broj: IS-11/19-25 od 8. studenoga 2019., imaju pravo biti kandidati za članove Vijeća na prvim izborima koji će se provesti nakon stupanja na snagu ovoga Zakona.
+
+### Članak 35.
+
+(1) Pravila o načinu provođenja provjere znanja i ocjenjivanju pisanih radnji te načinu provođenja i ocjenjivanja razgovora i načinu provedbe psihološkog testiranja iz članka 12. ovoga Zakona Vijeće će donijeti u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Metodologiju ocjenjivanja rada sudskih savjetnika iz članka 10. ovoga Zakona ministarstvo nadležno za poslove pravosuđa donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 36.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 28. ovoga Zakona koji stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/33  
+Zagreb, 1. srpnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću (NN 77/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/77/902*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću, koji je Hrvatski sabor donio na sjednici 3. srpnja 2026.
+
+Klasa: 011-02/26-02/64  
+Urbroj: 71-10-01/1-26-2  
+Zagreb, 8. srpnja 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOM SUDBENOM VIJEĆU**
+
+#### Članak 1.
+
+U Zakonu o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13. – Odluka Ustavnog suda Republike Hrvatske, 28/13., 82/15., 67/18., 126/19., 80/22., 16/23. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 83/23. – Odluka Ustavnog suda Republike Hrvatske i 155/23.) Članak 51. mijenja se i glasi:
+
+»(1) Za suca može biti imenovana osoba koja je hrvatski državljanin, ima položen pravosudni ispit i radno iskustvo u skladu s ovim Zakonom, protiv koje nije započet kazneni postupak za kaznena djela za koja se postupak pokreće po službenoj dužnosti te koja nije osuđena za kazneno djelo koje je čini nedostojnom za obnašanje sudačke dužnosti.
+
+(2) Za suca općinskog, trgovačkog i upravnog suda može biti imenovana osoba koja je radila kao pravosudni dužnosnik, odvjetnik, javni bilježnik, javnobilježnički prisjednik, osoba koja je nakon položenog pravosudnog ispita najmanje dvije godine radila u svojstvu savjetnika u pravosudnim tijelima, odvjetničkog vježbenika ili javnobilježničkog savjetnika ili najmanje četiri godine na drugim pravnim poslovima.
+
+(3) Vrijeme provedeno na radu u svojstvu savjetnika u pravosudnim tijelima, odvjetničkog vježbenika ili javnobilježničkog savjetnika i na drugim pravnim poslovima priznaje se i razmjerno uračunava u potrebno vrijeme za ispunjenje uvjeta iz stavka 2. ovoga članka, na način da se rad u svojstvu vježbenika ili savjetnika dvostruko vrednuje u odnosu na rad na drugim pravnim poslovima.
+
+(4) Za suca županijskog suda može biti imenovana osoba koja je radila kao pravosudni dužnosnik najmanje deset godina.
+
+(5) Za suca Visokog prekršajnog suda Republike Hrvatske, Visokog kaznenog suda Republike Hrvatske, Visokog trgovačkog suda Republike Hrvatske i Visokog upravnog suda Republike Hrvatske može biti imenovana osoba koja je radila kao pravosudni dužnosnik najmanje dvanaest godina.
+
+(6) Za suca Vrhovnog suda Republike Hrvatske može biti imenovana osoba koja je najmanje 15 godina radila kao pravosudni dužnosnik, odvjetnik ili javni bilježnik ili sveučilišni profesor pravnih znanosti s najmanje 15 godina radnog iskustva nakon položenog pravosudnog ispita, ili ugledni pravnik s najmanje 20 godina radnog iskustva nakon položenog pravosudnog ispita, koji se dokazao svojim stručnim radom na određenom pravnom području, kao i stručnim i znanstvenim radovima.«.
+
+#### Članak 2.
+
+U članku 52. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Državno sudbeno vijeće najmanje dva puta godišnje obavještava ministarstvo nadležno za poslove pravosuđa i Vrhovni sud Republike Hrvatske o provedbi Plana popunjavanja slobodnih sudačkih mjesta.«.
+
+#### Članak 3.
+
+U članku 53. ispred riječi: »Oglas« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Osoba koja ne podnese pravodobnu ili potpunu prijavu ili koja ne ispunjava propisane uvjete ne smatra se kandidatom u postupku te joj se o tome dostavlja obrazložena obavijest putem elektroničke pošte.«.
+
+#### Članak 4.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Kada pravosudni dužnosnik podnosi prijavu na oglas o slobodnom mjestu suca u županijskim i visokim sudovima, Vijeće će od nadležnog sudačkog vijeća odnosno državnog odvjetnika zatražiti ocjenu obnašanja dužnosti.
+
+(2) Kandidati za suca u županijskim i visokim sudovima koji u trenutku prijave ne obnašaju pravosudnu dužnost pristupaju pisanoj provjeri znanja pred Vijećem koja se sastoji od izrade jedne pisane radnje.
+
+(3) Poziv na pisanu provjeru znanja upućuje se kandidatima putem mrežne stranice Vijeća. Ako kandidat ne pristupi pisanoj provjeri, smatra se da je povukao prijavu na oglas.
+
+(4) Ocjenom obnašanja dužnosti odnosno pisanom provjerom znanja može se ostvariti najviše 150 bodova.
+
+(5) Na temelju ukupnog broja bodova utvrđenog ocjenom obnašanja dužnosti odnosno pisanom provjerom znanja Vijeće utvrđuje redoslijed kandidata koji se objavljuje na mrežnim stranicama Vijeća.
+
+(6) Vijeće će na razgovor pozvati kandidate prema utvrđenom broju bodova iz stavka 5. ovoga članka, od najmanjeg prema najvećem broju bodova. Poziv na razgovor upućuje se kandidatima putem mrežne stranice Vijeća. Iz opravdanih razloga razgovor se može obaviti putem uređaja koji omogućava audiovizualnu komunikaciju.
+
+(7) Na razgovoru iz stavka 6. ovoga članka kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, specijalizaciju i stručno usavršavanje, a na temelju kojih se procjenjuju njihove profesionalne, etične i osobne kompetencije za obnašanje dužnosti suca županijskog odnosno visokog suda, uključujući odgovornost, profesionalni integritet i motiviranost za obnašanje dužnosti suca županijskog odnosno visokog suda.
+
+(8) Kandidat na razgovoru može ostvariti najviše 20 bodova, a bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom te objavljuju na mrežnim stranicama Vijeća.
+
+(9) Ako kandidat ne pristupi razgovoru, smatra se da je povukao prijavu na oglas.
+
+(10) Zbrajanjem broja bodova ostvarenih ocjenom obnašanja dužnosti odnosno pisanom provjerom znanja i na razgovoru Vijeće utvrđuje redoslijed kandidata i objavljuje ga na svojim mrežnim stranicama.
+
+(11) Vijeće će imenovati suce između kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i neizabranog kandidata s najvećim brojem bodova ne smije biti veća od 15 bodova.«.
+
+#### Članak 5.
+
+Članak 55.a mijenja se i glasi:
+
+»(1) Kada pravosudni dužnosnik podnosi prijavu na oglas o slobodnom mjestu suca Vrhovnog suda Republike Hrvatske, Vijeće će od nadležnog sudačkog vijeća odnosno državnog odvjetnika zatražiti ocjenu obnašanja dužnosti.
+
+(2) Kandidati za suca Vrhovnog suda Republike Hrvatske koji su podnijeli prijave na oglas, a nisu pravosudni dužnosnici, pristupaju provjeri znanja pred Vijećem koja se sastoji od izrade jedne pisane radnje.
+
+(3) Poziv na pisanu provjeru znanja upućuje se kandidatima putem mrežne stranice Vijeća. Ako kandidat ne pristupi pisanoj provjeri, smatra se da je povukao prijavu na oglas.
+
+(4) Ocjenom obnašanja dužnosti odnosno pisanom provjerom znanja može se ostvariti najviše 150 bodova.
+
+(5) Na temelju ukupnog broja bodova utvrđenog ocjenom obnašanja dužnosti odnosno rezultata pisane provjere znanja Vijeće utvrđuje redoslijed kandidata koji se objavljuje na mrežnim stranicama Vijeća.
+
+(6) Vijeće će na razgovor pozvati kandidate prema utvrđenom broju bodova iz stavka 5. ovoga članka. Poziv na razgovor upućuje se kandidatima putem mrežne stranice Vijeća. Iz opravdanih razloga razgovor se može obaviti putem uređaja koji omogućava audiovizualnu komunikaciju.
+
+(7) Na razgovoru iz stavka 6. ovoga članka kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, specijalizaciju i stručno usavršavanje, a na temelju kojih se procjenjuju njihove profesionalne, etične i osobne kompetencije za obnašanje dužnosti suca Vrhovnog suda Republike Hrvatske, uključujući odgovornost, profesionalni integritet i motiviranost za obnašanje dužnosti suca Vrhovnog suda Republike Hrvatske. Kandidat na razgovoru može ostvariti najviše 20 bodova. Bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom te objavljuju na mrežnim stranicama Vijeća.
+
+(8) Ako kandidat ne pristupi razgovoru, smatra se da je povukao prijavu na oglas.
+
+(9) Zbrajanjem bodova ostvarenih ocjenom obnašanja dužnosti odnosno na pisanoj provjeri znanja i na razgovoru Vijeće utvrđuje redoslijed kandidata i objavljuje ga na svojim mrežnim stranicama. Vijeće će imenovati suce između kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i neizabranog kandidata s najvećim brojem bodova ne smije biti veća od 15 bodova.
+
+(10) Za kandidate iz stavka 9. ovoga članka Vijeće nadležnoj sigurnosno-obavještajnoj agenciji podnosi zahtjev za provedbu temeljne sigurnosne provjere.
+
+(11) Na temelju izvješća o rezultatu sigurnosne provjere nadležne sigurnosno-obavještajne agencije Vijeće donosi ocjenu o postojanju sigurnosnih zapreka.
+
+(12) Za suca se ne može imenovati kandidat koji odbije dati suglasnost za provođenje temeljne sigurnosne provjere ili u odnosu na kojeg se utvrdi postojanje sigurnosnih zapreka.
+
+(13) Sigurnosna provjera provodi se sukladno zakonu kojim se uređuju sigurnosne provjere.«.
+
+#### Članak 6.
+
+Članak 56. mijenja se i glasi:
+
+»(1) U odnosu na kandidate za suce općinskih, trgovačkih i upravnih sudova koji su u trenutku prijave na oglas raspoređeni na radno mjesto savjetnika u pravosudnim tijelima izbor se temelji na ostvarenom broju bodova na pravosudnom ispitu, ocjeni rada u svojstvu savjetnika i ostvarenim bodovima na razgovoru s Vijećem.
+
+(2) U odnosu na kandidate koji u trenutku prijave na oglas obnašaju pravosudnu dužnost izbor se temelji na ocjeni obnašanja dužnosti pomnoženoj s koeficijentom 1,333 i ostvarenim bodovima na razgovoru s Vijećem.
+
+(3) U odnosu na ostale kandidate izbor se temelji na ostvarenom broju bodova na pravosudnom ispitu, na ostvarenom broju bodova na pisanoj provjeri i ostvarenim bodovima na razgovoru s Vijećem.
+
+(4) Pisanu provjeru iz stavka 3. ovoga članka, koja se sastoji od izrade jedne pisane radnje, provodi Vijeće, a na njoj kandidati mogu ostvariti najviše 100 bodova.
+
+(5) Poziv na pisanu provjeru znanja upućuje se kandidatima putem mrežne stranice Vijeća. Ako kandidat ne pristupi pisanoj provjeri, smatra se da je povukao prijavu na oglas.
+
+(6) Na temelju broja bodova ostvarenih na pravosudnom ispitu i ocjenom rada savjetnika u pravosudnim tijelima, broja bodova ostvarenih ocjenom obnašanja dužnosti odnosno broja bodova ostvarenih na pravosudnom ispitu i na pisanoj provjeri znanja Vijeće utvrđuje redoslijed kandidata koji se objavljuje na mrežnim stranicama Vijeća.«.
+
+#### Članak 7.
+
+Članak 56.a mijenja se i glasi:
+
+»(1) U postupcima iz članka 56. ovoga Zakona na razgovor pred Vijećem pozivaju se kandidati prema utvrđenom broju bodova iz članka 56. stavka 6. ovoga Zakona. Iz opravdanih razloga razgovor se može obaviti putem uređaja koji omogućava audiovizualnu komunikaciju.
+
+(2) Kandidati na razgovoru mogu ostvariti najviše 20 bodova, a bodovi se dodjeljuju neposredno nakon razgovora sa svakim pojedinim kandidatom te objavljuju na mrežnim stranicama Vijeća. Kandidatima se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti, na temelju kojih se može utvrditi njihova sposobnost primjerenog, odgovornog i etičnog obnašanja dužnosti te njihova motiviranost za obnašanje dužnosti.
+
+(3) Poziv na razgovor upućuje se kandidatima putem mrežne stranice Vijeća. Ako kandidat ne pristupi razgovoru, smatra se da je povukao prijavu na oglas.
+
+(4) Zbrajanjem broja bodova ostvarenih na pravosudnom ispitu i ocjenom rada savjetnika u pravosudnim tijelima, broja bodova ostvarenih ocjenom obnašanja dužnosti odnosno broja bodova ostvarenih na pravosudnom ispitu i na pisanoj provjeri znanja s brojem bodova ostvarenih na razgovoru Vijeće utvrđuje redoslijed kandidata koji se objavljuje na mrežnim stranicama Vijeća.
+
+(5) Vijeće imenuje suce između kandidata koji su ostvarili najveći broj bodova, s tim da razlika između izabranog kandidata i neizabranog kandidata s najvećim brojem bodova ne smije biti veća od 15 bodova.
+
+(6) Prije donošenja odluke o imenovanju Vijeće kandidate koji prema broju bodova zadovoljavaju uvjet iz stavka 5. ovoga članka upućuje na psihološko testiranje radi utvrđenja sposobnosti za obnašanje sudačke dužnosti.
+
+(7) Za kandidate iz stavka 5. ovoga članka koji zadovolje na psihološkom testiranju Vijeće nadležnoj sigurnosno-obavještajnoj agenciji podnosi zahtjev za provedbu temeljne sigurnosne provjere.
+
+(8) Temeljna sigurnosna provjera provodi se sukladno zakonu kojim se uređuju sigurnosne provjere, a na temelju izvješća o rezultatu temeljne sigurnosne provjere nadležne sigurnosno-obavještajne agencije Vijeće donosi ocjenu o postojanju sigurnosnih zapreka. Za suca se ne može imenovati kandidat koji odbije dati suglasnost za provođenje temeljne sigurnosne provjere ili u odnosu na kojeg se utvrdi postojanje sigurnosnih zapreka.«.
+
+#### Članak 8.
+
+Članak 56.c mijenja se i glasi:
+
+»(1) Odluka o imenovanju sudaca mora biti obrazložena.
+
+(2) Ako je prema utvrđenom redoslijedu iz članka 55. stavka 10., članka 55.a stavka 9. i članka 56.a stavka 4. ovoga Zakona više kandidata ostvarilo isti broj bodova te ako je za suca Vijeće imenovalo kandidata koji nije ostvario najveći broj bodova, Vijeće će u odluci o imenovanju posebno obrazložiti razloge zbog kojih je prednost dalo izabranom kandidatu u odnosu na kandidate s istim odnosno većim brojem bodova.
+
+(3) Odluka o imenovanju sudaca dostavlja se javnom objavom na mrežnim stranicama Vijeća, a dostava se smatra obavljenom istekom osmoga dana od dana javne objave.
+
+(4) Javno objavljena odluka Vijeća uklanja se s mrežnih stranica nakon isteka roka od šest mjeseci od dana objave.
+
+(5) Odluka o imenovanju sudaca objavljuje se u »Narodnim novinama«.
+
+(6) Ako se na oglas ne javi niti jedan kandidat ili Vijeće ne imenuje ni jednog od kandidata, Vijeće ponovno objavljuje oglas.«.
+
+#### Članak 9.
+
+U članku 61. stavku 5. riječi: »plaću koja je za njega povoljnija,« brišu se.
+
+Stavak 6. briše se.
+
+#### Članak 10.
+
+U članku 61.a stavku 3. iza riječi: »tri godine« dodaju se riječi: »u sudu iz kojeg se traži premještaj«.
+
+#### Članak 11.
+
+U članku 70. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ako sudac u stegovnom postupku ima branitelja, branitelj se smatra punomoćnikom za primanje pismena.«.
+
+#### Članak 12.
+
+U članku 73. stavak 3. mijenja se i glasi:
+
+»(3) Zahtjev za udaljenje s dužnosti Vijeću podnosi predsjednik suda odnosno osoba ovlaštena za obavljanje poslova sudske uprave u sudu u kojem sudac obnaša sudačku dužnost, predsjednik neposredno višeg suda, nadležno sudačko vijeće ili predsjednik Vrhovnog suda Republike Hrvatske.«.
+
+U stavku 4. iza riječi: »suda« dodaju se riječi: »ili osoba ovlaštena za obavljanje poslova sudske uprave«.
+
+#### Članak 13.
+
+U članku 87. stavak 2. mijenja se i glasi:
+
+»(2) Ako je tijekom godine došlo do bitne promjene u imovini suca i osoba iz stavka 1. ovoga članka, kojom se smatra promjena u sadržaju imovine, povećanje vrijednosti imovine u iznosu iznad 13.000,00 eura, svaka promjena u prihodu od honorara ili drugih naknada te svaka promjena u podacima o nekretninama u zemljišnim knjigama, sudac je dužan najkasnije do 1. ožujka sljedeće godine Vijeću podnijeti izvješće o nastalim promjenama u imovini.«.
+
+#### Članak 14.
+
+U članku 88. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Podaci o svakom dohotku i primitku iz stavka 3. podstavaka 7. i 8. ovoga članka podnose se odvojeno.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 15.
+
+(1) Kandidati za suce općinskih, trgovačkih i upravnih sudova koji su završili Državnu školu za pravosudne dužnosnike, a nisu imenovani na pravosudnu dužnost do dana stupanja na snagu ovoga Zakona, u postupku imenovanja sudjeluju s postignutom završnom ocjenom.
+
+(2) Ako je najviša moguća završna ocjena koju su kandidati iz stavka 1. ovoga članka mogli postići u Državnoj školi za pravosudne dužnosnike različita od 100, vrijednost postignute ocjene ovih kandidata usklađuje se tako da se postignuta završna ocjena pomnoži koeficijentom koji se izračunava na način da se brojka 100 podijeli najvišom mogućom završnom ocjenom koju je prema važećim propisima kandidat mogao ostvariti u vrijeme njegova ocjenjivanja.
+
+#### Članak 16.
+
+(1) Kandidati za suce općinskih, trgovačkih i upravnih sudova koji nisu završili Državnu školu za pravosudne dužnosnike i koji su pravosudni ispit položili prije 1. rujna 2009. u postupku imenovanja sudjeluju s brojem bodova na pravosudnom ispitu na način da kandidati koji su položili pravosudni ispit sudjeluju sa 75 bodova, a kandidati koji su pravosudni ispit položili s posebnom pohvalom s 90 bodova.
+
+(2) Kandidati za suce općinskih, trgovačkih i upravnih sudova koji nisu završili Državnu školu za pravosudne dužnosnike i koji su pravosudni ispit položili nakon 1. rujna 2009., a prije stupanja na snagu ovoga Zakona, u postupku imenovanja sudjeluju s brojem bodova ostvarenim na pravosudnom ispitu.
+
+#### Članak 17.
+
+(1) Postupci imenovanja i trajnog premještaja sudaca, stegovni postupci protiv sudaca te postupci udaljenja od obavljanja sudačke dužnosti započeti do stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13. – Odluka Ustavnog suda Republike Hrvatske, 28/13., 82/15., 67/18., 126/19., 80/22., 16/23. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 83/23. – Odluka Ustavnog suda Republike Hrvatske i 155/23.).
+
+(2) Pravila o vrednovanju kandidata u postupku imenovanja sudaca prvostupanjskih, županijskih i visokih sudova (»Narodne novine«, br. 132/22.) Vijeće će uskladiti s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 18.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. rujna 2026.
+
+Klasa: 022-02/26-01/37
+
+Zagreb, 3. srpnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

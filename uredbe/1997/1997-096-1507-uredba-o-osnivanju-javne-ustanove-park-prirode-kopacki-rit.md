@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 1997-09-16
-last_amended: 2014-07-16
+last_amended: 2025-05-07
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "96/97, 85/14"
+narodne_novine: "96/97, 85/14, 77/25"
 amendments:
   - "NN 85/2014 (1695) Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove \"Park prirode Kopački rit\""
+  - "NN 77/2025 (996) Uredba o izmjenama Uredbe o osnivanju Javne ustanove »Park prirode Kopački rit«"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1997/96/1507"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 96/1997 (https://narodne-novine.nn.hr/eli/sluzbeni/1997/96/1507).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 85/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 85/2014, NN 77/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -362,3 +363,66 @@ Zagreb, 10. srpnja 2014.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama Uredbe o osnivanju Javne ustanove »Park prirode Kopački rit« (NN 77/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/77/996*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 130. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13., 15/18., 14/19., 127/19. i 155/23.), Vlada Republike Hrvatske je na sjednici održanoj 6. svibnja 2025. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU JAVNE USTANOVE »PARK PRIRODE KOPAČKI RIT«**
+
+### Članak 1.
+
+U Uredbi o osnivanju Javne ustanove »Park prirode Kopački rit« (»Narodne novine«, br. 96/97. i 85/14.) u članku 1. stavku 2. riječ: »Lugu« zamjenjuje se riječju: »Kopačevu«.
+
+### Članak 2.
+
+U članku 2. stavku 2. riječ: »središnje« briše se.
+
+### Članak 3.
+
+U članku 5. stavku 2. podstavci 8., 9. i 10. mijenjaju se i glase:
+
+» – donosi pravilnik o unutarnjem ustrojstvu i pravilnik o radu,
+
+– donosi odluke o raspolaganju nekretninama u vlasništvu Ustanove i stjecanju nekretnina u vlasništvo Ustanove pojedinačne vrijednosti od 50.000,01 euro do 500.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, samostalno, odluke o raspolaganju nekretninama u vlasništvu Ustanove i stjecanju nekretnina u vlasništvo Ustanove pojedinačne vrijednosti od 500.000,01 euro do 1.000.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, uz prethodnu suglasnost Ministarstva, a iznad navedenog iznosa uz suglasnost Vlade Republike Hrvatske,
+
+– donosi odluke o raspolaganju pokretnom imovinom u vlasništvu Ustanove i stjecanju pokretne imovine u vlasništvo Ustanove te sklapanju pravnih poslova pojedinačne vrijednosti od 50.000,01 euro do 500.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, samostalno, odluke o raspolaganju pokretnom imovinom u vlasništvu Ustanove i stjecanju pokretne imovine u vlasništvo Ustanove te sklapanju pravnih poslova pojedinačne vrijednosti od 500.000,01 euro do 1.000.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, uz prethodnu suglasnost Ministarstva, a odluke o raspolaganju pokretnom imovinom u vlasništvu Ustanove i stjecanju pokretne imovine u vlasništvo Ustanove te sklapanju pravnih poslova pojedinačne vrijednosti iznad 1.000.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, uz suglasnost Vlade Republike Hrvatske i«.
+
+Stavci 3. i 4. mijenjaju se i glase:
+
+»Upravno vijeće donosi plan upravljanja Parkom prirode Kopački rit i godišnji program zaštite, održavanja, očuvanja, promicanja i korištenja Parka prirode Kopački rit uz suglasnost Ministarstva.
+
+Upravno vijeće donosi statut i pravilnik o unutarnjem ustrojstvu uz suglasnost Ministarstva, a pravilnik o radu sukladno propisu kojim se uređuju radni odnosi.«.
+
+### Članak 4.
+
+U članku 10. stavku 1. podstavak 4. mijenja se i glasi:
+
+» – donosi odluke o raspolaganju pokretnom imovinom u vlasništvu Ustanove i stjecanju pokretne imovine u vlasništvo Ustanove te sklapanju drugoga pravnog posla pojedinačne vrijednosti koja ne prelazi iznos od 50.000,00 eura (slovima: pedesettisućaeura), u koje iznose nije uračunat porez na dodanu vrijednost,«.
+
+### Članak 5.
+
+U članku 17. stavku 3. riječi: »i Zavodu« brišu se.
+
+### Članak 6.
+
+Ustanova je dužna u roku od 90 dana od dana stupanja na snagu ove Uredbe uskladiti s odredbama ove Uredbe i podnijeti na suglasnost Ministarstvu statut i druge opće akte za koje je takva suglasnost potrebna.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/25-03/36
+
+Urbroj: 50301-05/31-25-4
+
+Zagreb, 6. svibnja 2025.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

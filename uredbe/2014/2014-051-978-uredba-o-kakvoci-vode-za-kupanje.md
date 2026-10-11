@@ -383,35 +383,30 @@ Zoran Milanović, v. r.
 ## Tablica 1. STANDARDI ZA OCJENU KAKVOĆE VODA NAKON SVAKOG ISPITIVANJA
 
 <table><tbody>
-
 <tr>
 <td>A</td>
 <td>B</td>
 <td>C</td>
 <td>F</td>
 </tr>
-
 <tr>
 <td>Pokazatelj</td>
 <td>Izvrsna</td>
 <td>Dobra</td>
 <td>Metoda ispitivanja</td>
 </tr>
-
 <tr>
 <td>crijevni enterokoki (bik/100 ml)</td>
 <td>≤200</td>
 <td>≤400</td>
 <td>HRN EN ISO 7899-1 ili HRN EN ISO 7899-2</td>
 </tr>
-
 <tr>
 <td>Escherichia coli<br><br>(bik/100 ml)</td>
 <td>≤500</td>
 <td>≤1000</td>
 <td>HRN EN ISO 9308-1 ili HRN EN ISO 9308-3</td>
 </tr>
-
 <tr>
 <td colspan="4">Kada su vrijednosti bik/100 ml pojedinog pokazatelja više od vrijednosti navedenih u stupcu C smatra se da je došlo do kratkotrajnog onečišćenja i da kakvoća vode nije zadovoljavajuća</td>
 </tr>

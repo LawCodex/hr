@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2009-07-01
-last_amended: 2014-07-28
+last_amended: 2019-07-24
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "76/09, 92/14"
+narodne_novine: "76/09, 92/14, 70/19"
 amendments:
   - "NN 92/2014 (1845) Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima"
+  - "NN 70/2019 (1449) Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/76/1835"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 76/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/76/1835).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/2014, NN 70/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1799,3 +1800,231 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima (NN 70/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/70/1449*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJSKIM POSLOVIMA I OVLASTIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima, koji je Hrvatski sabor donio na sjednici 12. srpnja 2019.
+
+Klasa: 011-01/19-01/111
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. srpnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJSKIM POSLOVIMA I OVLASTIMA**
+
+### Članak 1.
+
+U Zakonu o policijskim poslovima i ovlastima (»Narodne novine«, br. 76/09. i 92/14.) članak 1.a mijenja se i glasi:
+
+»Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:
+
+1) 2002/465/PUP: Okvirna odluka Vijeća od 13. lipnja 2002. o zajedničkim istražnim timovima (SL L 162, 20. 6. 2002.) i
+
+2) Direktiva (EU) 2016/680 Europskog parlamenta i Vijeća od 27. travnja 2016. o zaštiti pojedinaca u vezi s obradom osobnih podataka od strane nadležnih tijela u svrhe sprječavanja, istrage, otkrivanja ili progona kaznenih djela ili izvršavanja kaznenih sankcija i o slobodnom kretanju takvih podataka te o stavljanju izvan snage Okvirne odluke Vijeća 2008/977/PUP (SL L 119, 4. 5. 2016.).«.
+
+### Članak 2.
+
+U članku 3. stavku 1. točki 11. riječi: »plovnim putovima« zamjenjuju se riječju: »vodama«.
+
+### Članak 3.
+
+U članku 3.a iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Glavni ravnatelj ili osoba koju on ovlasti može odrediti objavljivanje snimke iz stavka 1. ovoga članka ako je to potrebno radi obavještavanja javnosti ili radi provođenja policijskih poslova.
+
+(5) Snimka iz stavka 1. ovoga članka može se objaviti samo uz zaštitu osobnih podataka policijskih službenika i sudionika, osim ako je objavljivanje potrebno radi mjera traganja.«.
+
+### Članak 4.
+
+U članku 11.b stavak 2. mijenja se i glasi:
+
+»(2) Istražitelj koji ispituje svjedoka ili okrivljenika može biti policijski službenik s najmanje osobnim policijskim zvanjem policijski narednik.«.
+
+### Članak 5.
+
+Članak 11.f briše se.
+
+### Članak 6.
+
+U članku 18. stavak 1. mijenja se i glasi:
+
+»(1) Policijsku ovlast prema maloljetnim osobama, mlađim punoljetnim osobama i u predmetima zaštite zdravlja, razvoja i odgoja te kaznenopravne zaštite djece primjenjuje posebno osposobljen policijski službenik za mladež, pri čemu je dužan voditi računa o zaštiti najboljeg interesa maloljetnika, kao i o zaštiti njegove privatnosti.«.
+
+### Članak 7.
+
+U članku 22. stavak 3. mijenja se i glasi:
+
+»(3) Policijski službenik strane države ili međunarodnog tijela može obavljati pojedini policijski posao na području Republike Hrvatske u skladu s međunarodnim pravom ili na temelju pisanog odobrenja ministra.«.
+
+### Članak 8.
+
+U članku 26. stavku 1. točki 6. na kraju, umjesto točke stavlja se zarez te se dodaju točke 7. i 8. koje glase:
+
+»7. u odnosu na osobe za koje postoji sumnja da su počinile prekršaj, a prekršajni postupak nije pokrenut, četiri godine od dana počinjenja prekršaja,
+
+8. u odnosu na osobe za koje postoji sumnja da su počinile prekršaj, a prekršajni postupak je pokrenut, deset godina od dana počinjenja prekršaja.«.
+
+### Članak 9.
+
+U članku 31. stavak 2. mijenja se i glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, provjera identiteta može biti provedena uvidom u informacijski sustav Ministarstva ili na temelju iskaza osobe čiji je identitet provjeren.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ako je provjera identiteta osobe zatražena na temelju članka 30. stavka 1. točke 11. ovoga Zakona, izvršit će se uvidom u informacijski sustav Ministarstva, a na temelju stavka 1. ovoga članka samo ako je to naložilo tijelo nadležno za vođenje postupka.«.
+
+### Članak 10.
+
+U članku 32. stavku 3. riječ: »dvanaest« zamjenjuje se riječju: »pet«.
+
+### Članak 11.
+
+U članku 33. stavku 1. točka 2. mijenja se i glasi:
+
+»2. za koju postoje osnove sumnje da je sudjelovala u kaznenom djelu za koje se progoni po službenoj dužnosti ili prekršaju za koji se može izreći kazna zatvora ili se prema počinitelju primjenjuje mjera uhićenja ili mu je određena mjera smještaja u posebnoj prostoriji do prestanka djelovanja opojnog sredstva.«.
+
+### Članak 12.
+
+U članku 38. stavku 1. iza riječi: »službenik« dodaju se riječi: »za mladež«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od stavka 1. ovoga članka, prikupljanje obavijesti od djeteta smije se obaviti i u prostorima odgojno-obrazovne ustanove u nazočnosti ravnatelja te ustanove ili pedagoga odnosno psihologa kojeg on odredi, i to samo ako osoba iz stavka 1. ovoga članka ne može ili ne želi doći.«.
+
+### Članak 13.
+
+U članku 54. stavku 1. točki 3. riječi: »za koje se progoni po službenoj dužnosti« brišu se.
+
+### Članak 14.
+
+U članku 59. točka 1. mijenja se i glasi:
+
+»1. vjerojatno da je predmet namijenjen za počinjenje ili pribavljen počinjenjem kaznenog djela ili prekršaja, osim ako se radi o kaznenim djelima uvrede ili klevete,«.
+
+### Članak 15.
+
+U članku 60. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Privremeno oduzeti predmeti pribavljeni počinjenjem kaznenog djela koje se progoni po privatnoj tužbi vratit će se vlasniku na njegov zahtjev.«.
+
+### Članak 16.
+
+U članku 69. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»Posebno osposobljen policijski službenik (poligrafist) ovlašten je provesti poligrafsko ispitivanje nakon što osobu upozna:«.
+
+U stavku 3. iza riječi: »Policijski službenik« dodaju se riječi: »iz stavka 1. ovoga članka«.
+
+### Članak 17.
+
+U članku 74. stavku 1. točki 2. iza riječi: »pomoć« dodaju se riječi: »ili radi provjere dojave o smrti osobe«.
+
+U točki 4. iza riječi: »izvršenja« dodaju se riječi: »zapovijedi ili«.
+
+### Članak 18.
+
+U članku 75. stavku 1. točka 1. mijenja se i glasi:
+
+»1. treba spriječiti bijeg počinitelja kaznenog djela za koje se progoni po službenoj dužnosti ili prekršaja,«.
+
+Točka 2. mijenja se i glasi:
+
+»2. je potrebno otkriti tragove ili predmete koji mogu poslužiti utvrđivanju činjenica kaznenog djela ili prekršaja.«.
+
+### Članak 19.
+
+U članku 76. stavku 3. u prvoj rečenici iza riječi: »imovinu« dodaju se riječi: »ili radi hvatanja počinitelja kaznenog djela«.
+
+### Članak 20.
+
+U članku 86. stavku 1. ispred riječi: »Uporaba« dodaje se oznaka stavka: »(1)« te se iza stavka 1. dodaje stavak 2. koji glasi:
+
+»(2) Kao sredstvo prisile za zaustavljanje vozila u slučajevima iz stavka 1. ovoga članka mogu se koristiti i službena i druga vozila.«.
+
+### Članak 21.
+
+U članku 93. stavak 3. mijenja se i glasi:
+
+»(3) Ne smatra se uporabom vatrenog oružja kao sredstva prisile u smislu ovoga Zakona:
+
+– ispaljivanje upozoravajućeg hitca kad su ispunjeni uvjeti za uporabu vatrenog oružja iz članka 91. ovoga Zakona
+
+– ispaljivanje hitca radi traženja pomoći.«.
+
+### Članak 22.
+
+Iza članka 97. dodaju se naslov iznad članka i članak 97.a koji glase:
+
+*»m) Uporaba sredstava prisile ili drugih sredstava za ometanje prema pokretnim uređajima na daljinsko upravljanje*
+
+### Članak 97.a
+
+(1) Uporaba sredstava prisile ili drugih sredstava za ometanje je dopuštena prema pokretnom uređaju koji je daljinski upravljan ili programiran i autonoman ako na drugi način nije moguće spriječiti kazneno djelo, prekršaj ili otkloniti opasnost.
+
+(2) Sredstva iz stavka 1. ovoga članka primjenjuju se s posebnim obzirom prema imovini i pravima drugih građana.«.
+
+### Članak 23.
+
+Naslov iznad članka 98. mijenja se i glasi: »n) Zaštita policijskog službenika nakon uporabe sredstava prisile«.
+
+Članak 98. mijenja se i glasi:
+
+»Kada su sredstva prisile uporabljena na način propisan zakonom, isključena je odgovornost policijskog službenika koji ih je uporabio.«.
+
+### Članak 24.
+
+Iza članka 98. dodaju se članci 98.a i 98.b koji glase:
+
+»Članak 98.a
+
+(1) Osobni podaci policijskog službenika koji je uporabio vatreno oružje su klasificirani podaci.
+
+(2) Policijskom službeniku koji uporabi vatreno oružje Ministarstvo će osigurati potrebnu psihosocijalnu i medicinsku pomoć.
+
+(3) Policijskom službeniku koji uporabi sredstva prisile, zbog čije uporabe nastane teža posljedica, Ministarstvo će, na njegov zahtjev, osigurati potrebnu psihosocijalnu i medicinsku pomoć.
+
+### Članak 98.b
+
+(1) Ministarstvo policijskom službeniku osigurava pravnu pomoć na trošak Ministarstva kad se protiv njega poduzimaju radnje u okviru prethodnog postupka, kaznenog postupka ili postupka naknade štete u vezi s obavljanjem policijskih poslova, ako je po ocjeni policije navedene poslove obavio u skladu sa zakonom.
+
+(2) Ocjenu zakonitosti obavljanja poslova donosi glavni ravnatelj ili osoba koju on ovlasti na prijedlog povjerenstva koje imenuje glavni ravnatelj.
+
+(3) Ministarstvo osigurava pravnu pomoć na trošak Ministarstva i građaninu koji je pružio pomoć policijskom službeniku protiv kojega se poduzimaju radnje ili vodi postupak iz stavka 1. ovoga članka, zbog radnje počinjene u vezi s pružanjem pomoći policijskom službeniku.
+
+(4) Pravna pomoć iz stavka 1. ovoga članka osigurat će se policijskom službeniku i nakon što mu je prestao radni odnos u Ministarstvu.«.
+
+### Članak 25.
+
+U članku 100. stavku 1. riječi: »plovnim putovima« zamjenjuju se riječju: »vodama«.
+
+### Članak 26.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/59
+
+Zagreb, 12. srpnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2016-02-10
+last_amended: 2019-01-25
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "13/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "13/16, 9/19"
+amendments:
+  - "NN 9/2019 (190) Uredba o dopunama Uredbe o kriterijima i načinu obračuna i plaćanja nagrade povjerenicima u postupku stečaja potrošača"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/13/312"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o kriterijima i načinu obračuna i plaćanja nagrade povjerenicima u postupku stečaja potrošača
 
 > Izvor: Narodne novine, NN 13/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/13/312).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 9/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -66,12 +70,10 @@ Nagrada za rad povjereniku do zaključenja postupka stečaja potrošača iznosi 
 (2) Nagrada povjereniku s osnove vrijednosti unovčene stečajne mase obračunava se primjenom tablice vrijednosti unovčene stečajne mase i nagrade u postocima:
 
 <table><tbody>
-
 <tr>
 <td colspan="4">Vrijednost unovčene stečajne mase u kunama</td>
 <td>Nagrada u %</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -79,7 +81,6 @@ Nagrada za rad povjereniku do zaključenja postupka stečaja potrošača iznosi 
 <td>100.000,00</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>na razliku od</td>
 <td>100.000,01</td>
@@ -87,7 +88,6 @@ Nagrada za rad povjereniku do zaključenja postupka stečaja potrošača iznosi 
 <td>1.000.000,00</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>na razliku iznad</td>
 <td>1.000,000,01</td>
@@ -158,3 +158,50 @@ Zagreb, 4. veljače 2016.
 
 Predsjednik  
 Tihomir Orešković, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopunama Uredbe o kriterijima i načinu obračuna i plaćanja nagrade povjerenicima u postupku stečaja potrošača (NN 9/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/9/190*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 43. stavka 2. i članka 79.j Zakona o stečaju potrošača (»Narodne novine«, br. 100/15 i 67/18), Vlada Republike Hrvatske je na sjednici održanoj 23. siječnja 2019. godine donijela
+
+**UREDBU**
+
+**O DOPUNAMA UREDBE O KRITERIJIMA I NAČINU OBRAČUNA I PLAĆANJA NAGRADE POVJERENICIMA U POSTUPKU STEČAJA POTROŠAČA**
+
+### Članak 1.
+
+U Uredbi o kriterijima i načinu obračuna i plaćanja nagrade povjerenicima u postupku stečaja potrošača (»Narodne novine«, broj 13/16), u članku 1. iza riječi: »stečaja potrošača« dodaju se riječi: »te nagrada i naknada troškova za rad povjerenika u jednostavnom postupku stečaja potrošača«.
+
+### Članak 2.
+
+Iza članka 8. dodaje se članak 8.a koji glasi:
+
+»Članak 8.a
+
+U slučajevima u kojima se provodi otvoreni jednostavni postupak stečaja potrošača povjereniku pripada pravo na jednokratnu nagradu u iznosu od 1.000,00 kuna i pravo na naknadu troškova u iznosu od 200,00 kuna.«.
+
+### Članak 3.
+
+U članku 11. ispred stavka 1. dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, naknada troškova povjereniku u jednostavnom postupku stečaja potrošača izražena je u neto iznosu.«.
+
+### Članak 4.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa 022-03/19-03/03  
+Urbroj 50301-25/18-19-2  
+Zagreb, 23. siječnja 2019.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-03-28
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "37/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "37/13, 98/19"
+amendments:
+  - "NN 98/2019 (1941) Zakon o izmjenama Zakona o dadiljama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/37/668"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o dadiljama
 
 > Izvor: Narodne novine, NN 37/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/37/668).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -552,3 +556,73 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o dadiljama (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1941*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O DADILJAMA
+
+Proglašavam Zakon o izmjenama Zakona o dadiljama, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/149
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O DADILJAMA**
+
+#### Članak 1.
+
+U Zakonu o dadiljama (»Narodne novine«, br. 37/13.) u članku 24. stavku 2. podstavku 2. riječi: »ureda državne uprave u županiji, odnosno upravnog tijela Grada Zagreba« zamjenjuju se riječima: »nadležnog upravnog tijela županije odnosno Grada Zagreba (u daljnjem tekstu: nadležno upravno tijelo)«.
+
+#### Članak 2.
+
+U članku 25. stavku 2. riječi: »uredu državne uprave u županiji« zamjenjuju se riječima: »nadležnom upravnom tijelu«.
+
+#### Članak 3.
+
+U članku 26. stavku 1. riječi: »ured državne uprave u županiji« zamjenjuju se riječima: »nadležno upravno tijelo«.
+
+U stavku 2. riječi: »Ured državne uprave u županiji« zamjenjuju se riječima: »Nadležno upravno tijelo«.
+
+#### Članak 4.
+
+U članku 29. stavcima 3. i 4. riječi: »uredu državne uprave« zamjenjuju se riječima: »nadležnom upravnom tijelu«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 5.
+
+Ministar nadležan za socijalnu skrb dužan je uskladiti Pravilnik o uvjetima prostora, opremljenosti prostora odgovarajućom opremom i ostalim uvjetima za obavljanje djelatnosti dadilje (»Narodne novine«, br. 74/13.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/144
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

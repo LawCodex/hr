@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2010-07-23
+last_amended: 2018-12-19
 status: in_force
-status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "91/10"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "91/10, 114/18"
+amendments:
+  - "NN 114/2018 (2204) Zakon o izmjenama i dopunama Zakona o zaštiti od neionizirajućeg zračenja"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2010/91/2571"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o zaštiti od neionizirajućeg zračenja
 
 > Izvor: Narodne novine, NN 91/2010 (https://narodne-novine.nn.hr/eli/sluzbeni/2010/91/2571).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -382,3 +386,69 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti od neionizirajućeg zračenja (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2204*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OD NEIONIZIRAJUĆEG ZRAČENJA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti od neionizirajućeg zračenja, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018. godine.
+
+Klasa: 011-01/18-01/192
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OD NEIONIZIRAJUĆEG ZRAČENJA**
+
+### Članak 1.
+
+U Zakonu o zaštiti od neionizirajućeg zračenja (»Narodne novine«, br. 91/10.) u članku 27. stavak 2. mijenja se i glasi:
+
+»Inspekcijski nadzor nad provedbom odredbi ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavljaju sanitarni inspektori Državnog inspektorata.«.
+
+### Članak 2.
+
+U članku 28. stavku 1. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+U stavku 2. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 3.
+
+U članku 29. stavku 1. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 4.
+
+Iznad članka 30. naziv glave XIII. mijenja se i glasi: »XIII. PREKRŠAJNE ODREDBE«.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/193
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

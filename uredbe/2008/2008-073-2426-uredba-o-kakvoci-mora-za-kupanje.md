@@ -291,19 +291,16 @@ Tablica 1. STANDARDI ZA OCJENU KAKVOĆE MORA NAKON
 SVAKOG ISPITIVANJA
 
 <table>
-
 <tr>
 <td rowspan="2">Pokazatelj</td>
 <td colspan="3">Kakvoća mora</td>
 <td rowspan="2">Metoda<br> ispitivanja</td>
 </tr>
-
 <tr>
 <td>izvrsna</td>
 <td>dobra</td>
 <td>zadovoljavajuća</td>
 </tr>
-
 <tr>
 <td>crijevni enterokoki (bik*/100 ml)</td>
 <td>&lt;60</td>
@@ -311,7 +308,6 @@ SVAKOG ISPITIVANJA
 <td>101-200</td>
 <td>HRN EN ISO 7899-1 ili HRN EN ISO 7899-2</td>
 </tr>
-
 <tr>
 <td><i> Escherichia coli<br> </i>(bik*/100 ml)</td>
 <td>&lt;100<br> </td>
@@ -319,7 +315,6 @@ SVAKOG ISPITIVANJA
 <td>201-300<br> </td>
 <td>HRN EN ISO 9308-1 ili HRN EN ISO 9308-3</td>
 </tr>
-
 </table>
 
 \* bik – broj izraslih kolonija  
@@ -362,7 +357,6 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 *Obrazac – UMK*
 
 <table>
-
 <tr>
 <td rowspan="2">Uzorak<br> </td>
 <td rowspan="2">Datum<br> </td>
@@ -378,13 +372,11 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 <td rowspan="2">CEu 100 ml<br> </td>
 <td rowspan="2">E. coli u 100 ml<br> </td>
 </tr>
-
 <tr>
 <td>P/O</td>
 <td>Jačina J/U</td>
 <td>Smjer N/S/E/W</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -402,7 +394,6 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -420,7 +411,6 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -438,7 +428,6 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -456,7 +445,6 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -474,7 +462,6 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -492,7 +479,6 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -510,7 +496,6 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -528,7 +513,6 @@ Vrijeme između uzorkovanja i analize mora biti što je moguće kraće. Preporu�
 <td></td>
 <td></td>
 </tr>
-
 </table>
 
 Opažanja ili mjerenja na dan uzorkovanja:  

@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-21
-last_amended: 2014-07-25
+last_amended: 2025-11-05
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "76/13, 90/14"
+narodne_novine: "76/13, 90/14, 100/18, 136/25"
 amendments:
   - "NN 90/2014 (1809) Zakon o izmjeni Zakona o lijekovima"
+  - "NN 100/2018 (1931) Zakon o izmjenama i dopunama Zakona o lijekovima"
+  - "NN 136/2025 (2014) Zakon o izmjenama i dopunama Zakona o lijekovima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1522"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 76/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1522).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 90/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 90/2014, NN 100/2018, NN 136/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3465,3 +3467,495 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o lijekovima (NN 100/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/100/1931*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O LIJEKOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o lijekovima, koji je Hrvatski sabor donio na sjednici 31. listopada 2018.
+
+Klasa: 011-01/18-01/130
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 5. studenoga 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O LIJEKOVIMA**
+
+### Članak 1.
+
+U Zakonu o lijekovima (»Narodne novine«, br. 76/13. i 90/14.) u članku 6. stavak 4. briše se.
+
+### Članak 2.
+
+U članku 92. stavku 2. riječi: »pravilnikom će propisati ministar.« zamjenjuju se riječima: »uređen je Delegiranom uredbom Komisije (EU) 2016/161 оd 2. listopada 2015. o dopuni Direktive 2001/83/EZ Europskog parlamenta i Vijeća utvrđivanjem detaljnih pravila za sigurnosne oznake na pakiranjima lijekova za humanu primjenu.«.
+
+### Članak 3.
+
+U članku 118. stavak 2. briše se.
+
+Dosadašnji stavci 3. i 4. postaju stavci 2. i 3.
+
+### Članak 4.
+
+U članku 129. stavku 1. iza podstavka 3. dodaje se novi podstavak 4. koji glasi:
+
+» – za klinička ispitivanja,«.
+
+Dosadašnji podstavci 4. – 6. postaju podstavci 5. – 7.
+
+### Članak 5.
+
+Članak 188. mijenja se i glasi:
+
+»Cijene lijekova koji su, sukladno odobrenju za stavljanje lijeka u promet u Republici Hrvatskoj, s obzirom na način izdavanja razvrstani u lijekove koji se izdaju na recept i koje nositelj odobrenja za stavljanje lijeka u promet namjerava staviti u promet u Republici Hrvatskoj, određuje Agencija u skladu s ovim Zakonom.«.
+
+### Članak 6.
+
+Iza članka 188. dodaje se članak 188.a koji glasi:
+
+»Članak 188.a
+
+(1) Za lijek iz članka 188. ovoga Zakona, koji može biti u prometu u Republici Hrvatskoj sukladno članku 22. stavku 1. i članku 113. stavku 1. ovoga Zakona, Agencija temeljem zahtjeva nositelja odobrenja za stavljanje lijeka u promet, odnosno veleprodaje u slučaju paralelnog prometa određuje najvišu dozvoljenu cijenu lijeka.
+
+(2) Nositelj odobrenja za stavljanje lijeka u promet, odnosno veleprodaja nisu obvezni podnijeti zahtjev za određivanje najviše dozvoljene cijene lijeka Agenciji ako je Agencija već odredila najvišu dozvoljenu cijenu za lijek pod uobičajenim imenom.
+
+(3) Nositelj odobrenja za stavljanje lijeka u promet može Agenciji podnijeti zahtjev za iznimno povećanje najviše dozvoljene cijene lijeka iz stavka 1. ovoga članka.
+
+(4) O zahtjevu iz stavka 3. ovoga članka odlučuje Agencija uz prethodno pribavljenu suglasnost ministra.
+
+(5) Suglasnost iz stavka 4. ovoga članka ministar daje, odnosno uskraćuje sukladno potrebi optimalne opskrbe stanovništva lijekovima nužnim za provođenje zdravstvene zaštite.
+
+(6) Troškove izračuna cijena lijekova iz stavka 1. ovoga članka, kojima se po prvi puta određuje cijena, utvrđuje uz prethodnu suglasnost ministra Agencija, a snosi ih podnositelj zahtjeva.
+
+(7) Agencija provodi postupak godišnjeg izračuna cijena lijekova za sve lijekove iz stavaka 1. i 3. ovoga članka.
+
+(8) Agencija na svojim mrežnim stranicama redovito objavljuje popis lijekova s utvrđenom najvišom dozvoljenom cijenom te popis lijekova s utvrđenom iznimno višom od najviše dozvoljene cijene lijeka.
+
+(9) Nositelj odobrenja za stavljanje lijeka u promet, odnosno veleprodaja ne smije prodavati lijek po cijeni višoj od najviše dozvoljene cijene lijeka iz stavka 1. ovoga članka, odnosno iznimno višoj od najviše dozvoljene cijene lijeka iz stavka 4. ovoga članka.«.
+
+### Članak 7.
+
+Članak 189. mijenja se i glasi:
+
+»(1) Na temelju zahtjeva iz članka 188.a stavaka 1. i 3. ovoga Zakona Agencija je obvezna donijeti rješenje u roku od 30 dana od dana primitka urednog zahtjeva.
+
+(2) Agencija može u postupku iz stavka 1. ovoga članka od podnositelja zahtjeva zatražiti nadopunu dokumentacije, pri čemu se rok iz stavka 1. ovoga članka produžuje za 15 dana.
+
+(3) Protiv rješenja iz stavka 1. ovoga članka nije dopuštena žalba, već se protiv tog rješenja može pokrenuti upravni spor.
+
+(4) Agencija će jednom godišnje dostaviti Europskoj komisiji popis svih lijekova s utvrđenom najvišom dozvoljenom cijenom te lijekova s utvrđenom iznimno višom od najviše dozvoljene cijene lijeka.
+
+(5) Ministar će pravilnikom pobliže odrediti mjerila za određivanje najviše dozvoljene cijene lijeka na veliko i iznimno više od najviše dozvoljene cijene lijeka na veliko i godišnjeg izračuna cijene lijeka.«.
+
+### Članak 8.
+
+Članak 190. mijenja se i glasi:
+
+»(1) Zavod može utvrditi i nižu cijenu lijeka od one određene sukladno članku 188.a ovoga Zakona, u postupku stavljanja lijeka na listu lijekova Zavoda u skladu s odredbom članka 191. ovoga Zakona.
+
+(2) Cijena lijeka određena sukladno članku 188.a ovoga Zakona može biti niža i na temelju ugovornog odnosa sa:
+
+– ugovornim zdravstvenim ustanovama (ugovornim subjektima Zavoda), u postupku javne nabave
+
+– drugim fizičkim i pravnim osobama koje imaju odobrenje za obavljanje zdravstvene djelatnosti
+
+– Ministarstvom obrane u svrhu potpore zdravstvene zaštite pripadnika oružanih snaga ili
+
+– Hrvatskim zavodom za javno zdravstvo.
+
+(3) Nositelji odobrenja za stavljanje lijeka u promet, koji su ujedno zdravstvene ustanove čiji je osnivač Republika Hrvatska i proizvode lijekove od nacionalnog interesa, prilikom određivanja cijena iz stavaka 1. i 2. ovoga članka obvezne su primjenjivati mjerilo troškovno utemeljene cijene.
+
+(4) Pri određivanju cijena lijekova sukladno stavku 3. ovoga članka nositelji odobrenja za stavljanje lijeka u promet obvezni su ishoditi prethodnu suglasnost ministra.
+
+(5) Nakon ishođenja prethodne suglasnosti ministra sukladno stavku 4. ovoga članka nositelji odobrenja za stavljanje lijeka u promet dogovaraju cijene sa subjektima iz stavaka 1. i 2. ovoga članka.«.
+
+### Članak 9.
+
+Članak 191. mijenja se i glasi:
+
+»(1) Zahtjev za stavljanje lijeka na listu lijekova Zavoda može podnijeti nositelj odobrenja za stavljanje lijeka u promet samo za lijek kojem je Agencija prethodno utvrdila najvišu dozvoljenu cijenu lijeka u skladu s odredbama ovoga Zakona.
+
+(2) Osim osobe iz stavka 1. ovoga članka prijedlog za promjenu statusa, odnosno izmjenu ili dopunu indikacije za primjenu ili smjernice propisivanja lijeka koji je već stavljen na listu lijekova Zavoda mogu podnijeti i Povjerenstvo za lijekove Zavoda, povjerenstva za lijekove bolničkih zdravstvenih ustanova, stručna društva Hrvatskog liječničkog zbora, odnosno druga stručna tijela i referentni centri Ministarstva.
+
+(3) Povjerenstvo za lijekove Zavoda i povjerenstva za lijekove bolničkih zdravstvenih ustanova mogu predložiti stavljanje lijeka na listu lijekova Zavoda pod uobičajenim imenom ako postoji opravdana potreba za njegovu primjenu.
+
+(4) O zahtjevu iz stavka 1. ovoga članka Zavod je obvezan donijeti rješenje u roku od 90 dana od dana primitka urednog zahtjeva.
+
+(5) Rok za donošenje rješenja Agencije iz članka 189. stavka 1. ovoga Zakona te rok za donošenje rješenja Zavoda iz stavka 4. ovoga članka zajedno ne mogu biti duži od 180 dana.
+
+(6) Protiv rješenja Zavoda iz stavka 4. ovoga članka nije dopuštena žalba, već se protiv tog rješenja može pokrenuti upravni spor.
+
+(7) Ministar će pravilnikom pobliže odrediti mjerila za stavljanje lijekova na listu lijekova Zavoda, kao i načinu utvrđivanja cijena lijekova koje će plaćati Zavod te načinu izvještavanja o njima.«.
+
+### Članak 10.
+
+Iza članka 191. dodaje se članak 191.a koji glasi:
+
+»Članak 191.a
+
+(1) Zavod donosi odluku o brisanju lijekova s liste lijekova Zavoda temeljem prethodno pribavljenog mišljenja Povjerenstva za lijekove Zavoda, a na zahtjev nositelja odobrenja za stavljanje lijeka u promet.
+
+(2) Temeljem odluke iz stavka 1. ovoga članka Zavod će donijeti rješenje o brisanju lijeka s liste lijekova Zavoda.
+
+(3) Ako se lijek briše s liste lijekova Zavoda, a postoji opravdana potreba za njegovu daljnju primjenu, lijek može ostati na listi lijekova Zavoda pod uobičajenim imenom.
+
+(4) Protiv rješenja iz stavka 2. ovoga članka žalba nije dopuštena, ali se protiv toga rješenja može pokrenuti upravni spor.«.
+
+### Članak 11.
+
+Članak 192. briše se.
+
+### Članak 12.
+
+U članku 212. stavku 1. iza podstavka 4. dodaje se novi podstavak 5. koji glasi:
+
+» – određuje najvišu dozvoljenu cijenu lijeka, odnosno iznimno višu od najviše dozvoljene cijene lijeka koji ima odobrenje za stavljanje u promet u Republici Hrvatskoj iz članka 188.a stavka 1., odnosno članka 188.a stavka 3. ovoga Zakona i provodi postupak godišnjeg izračuna cijene lijekova«.
+
+Dosadašnji podstavci 5. – 41. postaju podstavci 6. – 42.
+
+### Članak 13.
+
+U članku 226. stavku 1. točka 31. mijenja se i glasi:
+
+»31. ako prodaje lijek po cijeni višoj od najviše dozvoljene cijene lijeka, odnosno višoj od iznimno više od najviše dozvoljene cijene lijeka (članak 188.a stavak 9.)«.
+
+### Članak 14.
+
+Pravilnike iz članaka 7. i 9. ovoga Zakona ministar će donijeti u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+### Članak 15.
+
+Za lijekove koji imaju odobrenje za stavljanje lijeka u promet u Republici Hrvatskoj i s obzirom na način izdavanja razvrstani su u lijekove koji se izdaju na recept, a nisu stavljeni na liste lijekova Zavoda i nalaze se u prometu u Republici Hrvatskoj na dan stupanja na snagu ovoga Zakona, važit će cijene po kojima su takvi lijekovi stavljeni u promet do dana stupanja na snagu ovoga Zakona sve dok Agencija ne provede postupak godišnjeg izračuna cijena lijekova sukladno ovom Zakonu.
+
+### Članak 16.
+
+Cijene lijekova koje je Zavod izračunao u postupku godišnjeg izračuna prije stupanja na snagu ovoga Zakona primjenjuju se do završetka postupka godišnjeg izračuna cijena lijekova u skladu s člankom 188.a ovoga Zakona, koji će se provesti nakon stupanja na snagu ovoga Zakona.
+
+### Članak 17.
+
+U cijelom tekstu Zakona o lijekovima (»Narodne novine«, br. 76/13. i 90/14.) riječi: »osnovna, odnosno dopunska lista lijekova Zavoda« iz određenog broja i padeža zamjenjuju se riječima: »lista lijekova Zavoda sukladno zakonu kojim se uređuje obvezno zdravstveno osiguranje«, u odgovarajućem broju i padežu.
+
+### Članak 18.
+
+Postupci započeti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o lijekovima (»Narodne novine«, br. 76/13. i 90/14.).
+
+### Članak 19.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/99
+
+Zagreb, 31. listopada 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o lijekovima (NN 136/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/136/2014*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O LIJEKOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o lijekovima, koji je Hrvatski sabor donio na sjednici 24. listopada 2025.
+
+Klasa: 011-02/25-02/81  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 30. listopada 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O LIJEKOVIMA**
+
+#### Članak 1.
+
+U Zakonu o lijekovima (»Narodne novine«, br. 76/13., 90/14. i 100/18.) u članku 2. stavku 2. na kraju točke 10. točka se zamjenjuje zarezom, a iza točke 10. dodaje se točka 11. koja glasi:
+
+»11. Uredba (EU) 2022/123 Europskog parlamenta i Vijeća od 25. siječnja 2022. o pojačanoj ulozi Europske agencije za lijekove u pripravnosti za krizne situacije i upravljanju njima u području lijekova i medicinskih proizvoda (Tekst značajan za EGP) (SL L 20/1,  
+31. 1. 2022.).«.
+
+#### Članak 2.
+
+U članku 55. stavku 1. riječi: »za svaki farmaceutski oblik i dozu« zamjenjuju se riječima: »za svaki farmaceutski oblik, dozu te vrstu i veličinu pakiranja.«.
+
+#### Članak 3.
+
+Članak 186. mijenja se i glasi:
+
+»(1) Nositelj odobrenja za stavljanje lijeka u promet, kao i fizičke i pravne osobe koje obavljaju promet toga lijeka na području Republike Hrvatske obvezni su u okviru svojih odgovornosti osigurati prikladnu i neprekinutu opskrbu lijekom.
+
+(2) Ministarstvo i Agencija provode, sukladno ovome Zakonu, aktivnosti radi osiguranja redovite opskrbe lijekovima na hrvatskom tržištu.
+
+(3) Za praćenje opskrbe lijekovima za područje Republike Hrvatske nadležna je Agencija.
+
+(4) Nositelji odobrenja za stavljanje lijeka u promet obvezni su o okolnostima koje mogu dovesti do poremećaja opskrbe hrvatskog tržišta lijekom ili nestašice lijeka bez odgode u pisanom obliku obavijestiti Agenciju i Ministarstvo, a za lijek koji je uvršten u listu lijekova Hrvatskog zavoda za zdravstveno osiguranje i Hrvatski zavod za zdravstveno osiguranje (u daljnjem tekstu: Zavod).
+
+(5) Nositelji odobrenja za stavljanje lijeka u promet obvezni su u okviru svojih odgovornosti redovito dostavljati podatke Agenciji i Ministarstvu o planiranim količinama lijekova te zalihama lijekova za hrvatsko tržište, u elektroničkom obliku putem informacijskog sustava za praćenje i preveniranje nestašica lijekova u Republici Hrvatskoj.
+
+(6) Pravne i fizičke osobe koje obavljaju promet lijekova na veliko sukladno članku 115. ovoga Zakona te koje obavljaju paralelni promet i paralelni uvoz lijeka na području Republike Hrvatske obvezni su u okviru svojih odgovornosti redovito dostavljati podatke Agenciji i Ministarstvu o planiranim, naručenim i isporučenim količinama lijekova te zalihama lijekova za hrvatsko tržište, u elektroničkom obliku putem informacijskog sustava za praćenje i preveniranje nestašica lijekova u Republici Hrvatskoj.
+
+(7) Pravne i fizičke osobe koje obavljaju promet lijekova na malo sukladno članku 135. stavku 1. ovoga Zakona na području Republike Hrvatske obvezni su u okviru svojih odgovornosti redovito dostavljati podatke Agenciji i Ministarstvu o planiranim, naručenim i izdanim količinama lijekova te zalihama lijekova za hrvatsko tržište, u elektroničkom obliku putem informacijskog sustava za praćenje i preveniranje nestašica lijekova u Republici Hrvatskoj.
+
+(8) Veleprodaja i uvoznik obvezni su u okviru svojih odgovornosti o izvanrednom unošenju ili uvozu lijeka na temelju suglasnosti u slučajevima iz članka 129. stavka 1. podstavaka 1., 6. i 7. ovoga Zakona redovito dostavljati podatke Agenciji i Ministarstvu o naručenim i isporučenim količinama lijekova za hrvatsko tržište, u elektroničkom obliku putem informacijskog sustava za praćenje i preveniranje nestašica lijekova u Republici Hrvatskoj.
+
+(9) Zavod je obvezan u okviru svojih odgovornosti redovito dostavljati podatke Agenciji i Ministarstvu o količinama pakiranja lijekova izdanih na recept, u elektroničkom obliku putem informacijskog sustava za praćenje i preveniranje nestašica lijekova u Republici Hrvatskoj.
+
+(10) Hrvatski zavod za javno zdravstvo obvezan je u okviru svojih odgovornosti redovito dostavljati podatke Agenciji i Ministarstvu o zalihi cjepiva i distribuiranim cjepivima, u elektroničkom obliku putem informacijskog sustava za praćenje i preveniranje nestašica lijekova u Republici Hrvatskoj.
+
+(11) Pravilnik o vrsti, načinu i dinamici dostave podataka iz stavaka 5. do 10. ovoga članka donosi ministar.«.
+
+#### Članak 4.
+
+U članku 191. stavku 1. iza riječi: »promet« stavlja se zarez i dodaju riječi: »nositelj odobrenja za paralelni promet lijeka ili nositelj odobrenja za paralelni uvoz lijeka.«.
+
+#### Članak 5.
+
+U članku 191.a stavku 1. iza riječi: »promet« briše se točka i stavlja se zarez te se dodaju riječi: »nositelja odobrenja za paralelni promet lijeka ili nositelja odobrenja za paralelni uvoz lijeka.«.
+
+#### Članak 6.
+
+Članak 226. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 13.270,00 do 19.900,00 eura kaznit će se za prekršaj pravna osoba:
+
+1. ako stavi u promet lijek bez obavljenog ispitivanja te ako provodi ispitivanje lijeka protivno odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona (članak 8. stavak 1.)
+
+2. ako ne obavijesti Središnje etičko povjerenstvo i Ministarstvo o svim značajnim izmjenama i dopunama kliničkog ispitivanja (članak 16. stavak 1.)
+
+3. ako provodi kliničko ispitivanje bez informiranog pristanka osobe na kojoj se ispitivanje provodi (članak 17. stavak 1.)
+
+4. ako isplati naknadu ispitivačima i ispitanicima protivno odredbi članka 18. stavka 4. ovoga Zakona
+
+5. ako lijek za koji je potrebno odobrenje za stavljanje u promet, stavi u promet u Republici Hrvatskoj bez prethodno danoga odobrenja za stavljanje lijeka u promet (članak 22. stavci 1., 3. i 5. i članak 113. stavak 1.)
+
+6. ako u dokumentaciji o lijeku uz zahtjev za davanje odobrenja za stavljanje u promet lijeka navede netočne podatke (članak 26. stavak 3., članci 28., 29., 32., 33., 34., 35. i 36.)
+
+7. ako ne ispuni uvjete i obveze sukladno uvjetima određenim odredbom članka 46. stavka 1., članka 47. stavka 1. i članka 48. stavka 1. ovoga Zakona
+
+8. ako nakon davanja odobrenja za stavljanje lijeka u promet ne postupi sukladno odredbama članka 50. stavka 1., članaka 51. i 55. ovoga Zakona
+
+9. ako ne pokrene obustavu stavljanja lijeka u promet ili povlačenje lijeka iz prometa (članak 62. stavci 6. i 7.)
+
+10. ako stavi u promet tradicionalni biljni ili homeopatski lijek bez prethodno danog odobrenja Agencije ili rješenja Agencije o registraciji (članci 63. i 66. i članak 68. stavak 1.)
+
+11. ako u dokumentaciji uz zahtjev za registraciju homeopatskog lijeka navede netočne podatke (članak 69. stavci 2. i 3.)
+
+12. ako proizvodi lijek, ispitivani lijek, djelatne ili pomoćne tvari u Republici Hrvatskoj bez proizvodne dozvole (članak 72.)
+
+13. ako navede netočne podatke u zahtjevu za davanje pro­izvodne dozvole i ako ne izvijesti Agenciju o promjenama u odnosu na podatke na temelju kojih je proizvodna dozvola dana (članak 75. stavak 2. i članak 79. stavak 1.)
+
+14. ako se bavi uvozom lijekova protivno odredbi članka 81. ovoga Zakona
+
+15. ako u proizvodnji djelatne tvari ne ispunjava zahtjeve dobre proizvođačke prakse za djelatne tvari (članak 82.)
+
+16. ako uvozi djelatne tvari protivno odredbi članka 83. ovoga Zakona
+
+17. ako ne označi radiofarmaceutik u skladu s odredbom članka 103. ovoga Zakona
+
+18. ako na vanjskom, na unutarnjem pakiranju proizvoda te na uputi navede terapijske indikacije, a taj proizvod nema odobrenje za stavljanje u promet kao lijek ili homeopatski lijek (članak 105.)
+
+19. ako se bavi prometom lijeka na veliko ili na malo, a nema dozvolu za promet (članak 115., članak 119. stavak 1. i članak 135.)
+
+20. ako se bavi posredovanjem lijekova, a nema dozvolu za obavljanje posredovanja (članak 116.)
+
+21. ako nema odobrenje za paralelni uvoz lijeka (članak 130. stavak 1.)
+
+22. ako izdaje lijek na mjestu suprotno odobrenom u odobrenju za stavljanje lijeka u promet (članak 135. stavci 2. i 3.)
+
+23. ako nudi lijekove koji se izdaju bez recepta na daljinu putem interneta protivno odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona (članak 136. stavci 1., 2. i 3.)
+
+24. ako ne obavi redovitu provjeru kakvoće svake serije lijeka (članak 174. stavak 1.)
+
+25. ako ne osigura puštanje serije lijeka u promet u Europskoj uniji za svaku seriju lijeka koji ima odobrenje za stavljanje lijeka u promet u Republici Hrvatskoj (članak 174. stavak 2.)
+
+26. ako ne osigura da se provjera kakvoće provede u Europskoj uniji za svaku seriju lijeka koji ima odobrenje za stavljanje lijeka u promet u Republici Hrvatskoj (članak 174. stavak 3.)
+
+27. ako ne podvrgne lijek posebnoj provjeri kakvoće (članak 175. stavak 1.)
+
+28. ako oglašava o lijeku protivno odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona (članak 183.)
+
+29. ako u oglasu navede da proizvod ima ljekovita svojstva, ako taj proizvod nema odobrenje za stavljanje u promet kao lijek odnosno ako nije registriran kao tradicionalni biljni lijek (članak 185.)
+
+30. ako u okviru svojih odgovornosti ne osigura prikladnu i neprekinutu opskrbu lijekom (članak 186. stavak 1.)
+
+31. ako bez odgode u pisanom obliku ne obavijesti Agenciju i Ministarstvo o okolnostima koje mogu dovesti do poremećaja opskrbe hrvatskog tržišta lijekom ili nestašice lijeka, a za lijek koji je uvršten u listu lijekova Zavoda i Zavod (članak 186. stavak 4.)
+
+32. ako redovito ne izvještava Agenciju i Ministarstvo o planiranim količinama lijeka te zalihama lijekova za hrvatsko tržište sukladno članku 186. stavku 5. ovoga Zakona
+
+33. ako redovito ne izvještava Agenciju i Ministarstvo o planiranim, naručenim i isporučenim količinama lijekova te zalihama lijekova za hrvatsko tržište sukladno članku 186. stavku 6. ovoga Zakona
+
+34. ako redovito ne izvještava Agenciju i Ministarstvo o planiranim, naručenim i izdanim količinama lijekova te zalihama lijekova za hrvatsko tržište sukladno članku 186. stavku 7. ovoga Zakona
+
+35. ako redovito ne izvještava Agenciju i Ministarstvo o naručenim i isporučenim količinama lijekova za hrvatsko tržište sukladno članku 186. stavku 8. ovoga Zakona
+
+36. ako prodaje lijek po cijeni višoj od najviše dozvoljene cijene lijeka odnosno višoj od iznimno više od najviše dozvoljene cijene lijeka (članak 188.a stavak 9.)
+
+37. ako farmaceutskom inspektoru i inspektoru Agencije ne omogući obavljanje nadzora sukladno odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona (članci 198. i 199.)
+
+38. ako ne postupi u roku po izvršnom rješenju farmaceutskog inspektora i inspektora Agencije kojim je naređeno poduzimanje određenih mjera i radnji ili je zabranjen rad (članak 201.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 1320,00 do 1990,00 eura i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 1320,00 do 1990,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba.«.
+
+#### Članak 7.
+
+Članak 227. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 9290,00 do 13.270,00 eura kaznit će se za prekršaj pravna osoba:
+
+1. ako bez odobrenja obavlja kliničko ispitivanje lijeka ili neintervencijsko ispitivanje lijeka (članak 9. stavak 2. i članak 12. stavci 2. i 3.)
+
+2. ako obavlja ili dopusti obavljanje kliničkog ispitivanja lijeka protivno odredbi članka 18. stavka 2. ovoga Zakona
+
+3. ako obavlja promet lijekom za koji dano odobrenje za stavljanje u promet nije važeće (članak 53. stavak 1.)
+
+4. ako oglašava o homeopatskom lijeku iz članka 71. stavaka 3. i 4. ovoga Zakona
+
+5. ako proizvodi, uvozi ili isporučuje djelatne tvari, a nije upisana u očevidnik proizvođača, uvoznika odnosno veleprodaja djelatnih tvari (članak 84.)
+
+6. ako u dokumentaciji uz zahtjev za upis u očevidnik proizvođača, uvoznika odnosno veleprodaja djelatnih tvari navede netočne podatke (članak 85. stavak 2.)
+
+7. ako jednom godišnje ne prijavi Agenciji sve izmjene u dokumentaciji, odnosno podacima i dokumentima na temelju kojih je izvršen upis u očevidnik proizvođača, uvoznika odnosno veleprodaja djelatnih tvari ili ne podnese zahtjev za odobrenje izmjene/izmjena (članak 88. stavci 1. i 2.)
+
+8. ako je stavila u promet u Republici Hrvatskoj lijek koji nije označen ili ne sadrži uputu sukladno odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona (članak 92. stavci 1. i 2., članak 93. stavci 2. i 3., članak 95., članak 96. stavak 1. i članak 98. stavci 1. i 2.)
+
+9. ako ne provjeri kod ciljanih skupina bolesnika razumljivost i jednostavnost upute o lijeku (članak 98. stavak 4.)
+
+10. ako uz pakiranje radiofarmaceutika ne priloži iscrpnu uputu za uporabu (članak 104.)
+
+11. ako izda lijek na način i na mjestu protivno danom odobrenju za stavljanje u promet (članci 106. i 107.)
+
+12. ako ne osigura prijevoz, smještaj i čuvanje lijekova u skladu s propisanim uvjetima (članak 114. stavak 1.)
+
+13. ako o početku obavljanja djelatnosti na području Republike Hrvatske ne obavijesti Agenciju (članak 121.)
+
+14. ako ne izvijesti Agenciju o svim izmjenama koje se odnose na uvjete, dokumente i podatke na temelju kojih je dozvola za promet na veliko i dozvola za posredovanje dana (članak 126. stavci 1. i 2.)
+
+15. ako bez propisane suglasnosti unosi ili uvozi lijek (članak 128. stavci 1. i 2. i članak 129. stavak 1.)
+
+16. ako u roku od 15 dana prije unosa lijeka na temelju odobrenja za paralelni uvoz ne obavijesti Agenciju i nositelja odobrenja za stavljanje lijeka u promet (članak 131.)
+
+17. ako ne izvijesti Agenciju o svim izmjenama koje se odnose na dokumentaciju te dokumente i podatke na temelju kojih je dozvola za paralelni uvoz lijeka dana (članak 134. stavak 1.)
+
+18. ako ne izvijesti Agenciju o svim izmjenama koje se odnose na uvjete, dokumente i podatke na temelju kojih je dozvola dana (članak 140. stavak 1.)
+
+19. ako ne dostavi Agenciji podatke o prometu lijekovima (članak 141. stavak 1.)
+
+20. ako je stavila u promet lijekove koji nemaju odgovarajuću kakvoću, djelotvornost i sigurnost primjene te kojima je istekao rok valjanosti (članak 143. stavak 1.)
+
+21. ako ne uspostavi sustav farmakovigilancije za provođenje farmakovigilancijskih dužnosti sukladno članku 147. i članku 148. stavku 1. ovoga Zakona
+
+22. ako ne ispunjava obveze iz članka 150. Zakona
+
+23. ako u roku ne prijavi u bazu podataka Eudravigilance sve sumnje na neozbiljne i ozbiljne nuspojave iz članka 151. stavka 1. podstavaka 1. – 5. ovoga Zakona
+
+24. ako ne uspostavi postupke za dobivanje točnih i provjerljivih podataka za znanstvenu procjenu prijava o sumnji na nuspojave te ne prikuplja nastavna izvješća o tim prijavama i ne dostavi ih u bazu podataka Eudravigilance (članak 151. stavak 2.)
+
+25. ako ne surađuje s Agencijom i EMA-om u otkrivanju duplikata prijava o sumnji na nuspojave (članak 151. stavak 3.)
+
+26. ako ne ispunjava obveze iz članka 152. stavka 1. ovoga Zakona
+
+27. ako nije prijavila Agenciji nuspojave sukladno članku 152. stavku 2. ovoga Zakona
+
+28. ako prije javne objave informacije o farmakovigilanciji u vezi s primjenom lijeka pisano ne obavijesti Agenciju (članak 158. stavak 1.)
+
+29. ako objavljuje informaciju o farmakovigilanciji koja utječe na primjenu lijeka, a ta informacija nije objektivna te navodi na pogrešan zaključak (članak 158. stavak 2.)
+
+30. ako PRAC-u ne dostavi nacrt plana ispitivanja sigurnosti primjene lijeka sukladno članku 163. stavku 1. ovoga Zakona
+
+31. ako Agenciji ne dostavi nacrt plana ispitivanja sigurnosti primjene lijeka sukladno članku 163. stavku 2. ovoga Zakona
+
+32. ako nakon početka ispitivanja iz članka 163. stavka 1. ovoga Zakona ne dostavi PRAC-u i/ili ne dobije pisanu suglasnost ­PRAC-a za sve značajne izmjene i dopune plana ispitivanja prije njihove provedbe (članak 164. stavak 1.)
+
+33. ako prihvaćene značajne izmjene i dopune plana ispitivanja njihove provedbe ne dostavi Agenciji (članak 164. stavak 2.)
+
+34. ako nakon početka ispitivanja iz članka 163. stavka 2. ovoga Zakona provodi ispitivanje bez odobrenja Agencije kojim su prihvaće­ne značajne izmjene i dopune plana ispitivanja (članak 164. stavak 3.)
+
+35. ako nakon završetka ispitivanja iz članka 163. stavka 1. ovoga Zakona ne dostavi PRAC-u završno izvješće o ispitivanju i sažetak rezultata ispitivanja u roku od 12 mjeseci od završetka prikupljanja podataka, osim ako PRAC pisano ne odobri produženje roka ili izuzimanje od obveze za dostavu završnog izvješća (članak 165. stavak 1.)
+
+36. ako nakon završetka ispitivanja iz članka 163. stavka 2. ovoga Zakona ne dostavi Agenciji završno izvješće o ispitivanju i sažetak rezultata ispitivanja u roku od 12 mjeseci od završetka prikupljanja podataka, osim ako Agencija pisano ne odobri produženje roka ili izuzimanje od obveze za dostavu završnog izvješća (članak 165. stavak 2.)
+
+37. ako Agenciji ne podnese zahtjev za odobrenje izmjene sukladno člancima 50., 51. i 52. ovoga Zakona (članak 165. stavak 3.)
+
+38. ako Agenciji ne dostavi PSUR u propisanim slučajevima i skladu s propisanim rokovima (članak 168. i članak 169. stavak 1.)
+
+39. ako stavi u promet u Republici Hrvatskoj lijek čija kakvoća, uključujući kakvoću svih sirovina za proizvodnju lijeka, kao i materijala za unutarnje pakiranje, nije u skladu s Hrvatskom farmakopejom ili drugom farmakopejom sukladno članku 179. stavku 3. ovoga Zakona
+
+40. ako o redovitoj, izvanrednoj i posebnoj provjeri kakvoće lijeka ne vodi očevidnik u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona (članak 180. stavci 1., 2. i 4.).«.
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 920,00 do 1320,00 eura kaznit će se i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 920,00 do 1320,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba.«.
+
+#### Članak 8.
+
+Članak 228. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu 6630,00 do 9290,00 eura kaz­nit će se za prekršaj pravna osoba ako navede netočan podatak u postupku davanja suglasnosti za unos ili uvoz lijeka za koji nije dano odobrenje za stavljanje u promet u Republici Hrvatskoj (članak 129. stavak 1.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 660,00 do 920,00 eura kaznit će se i odgovorna osoba u pravnoj osobi i fizička osoba.
+
+(3) Novčanom kaznom u iznosu od 660,00 do 920,00 eura kaz­nit će se za prekršaj doktor medicine odnosno doktor dentalne medicine koji protivno članku 129. stavku 1. ovoga Zakona i pravilniku iz članka 129. stavka 2. ovoga Zakona propiše lijek za koji nije dano odobrenje za stavljanje u promet u Republici Hrvatskoj.«.
+
+#### Članak 9.
+
+Članak 229. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 3980,00 do 6630,00 eura kaznit će se za prekršaj pravna osoba:
+
+1. ako stavi u promet homeopatski lijek koji nije označen i koji nema uputu sukladno ovome Zakonu (članak 70. i članak 71. stavci 1. i 2.)
+
+2. ako pisano ne izvijesti Agenciju, a u slučaju cjepiva i Hrvatski zavod za javno zdravstvo, o nuspojavama lijeka sukladno odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona (članak 145. stavci 1., 2. i 3.)
+
+3. ako pisano ne izvijesti Agenciju o neispravnosti u kakvoći lijeka ili o sumnji na krivotvoreni lijek protivno članku 181. stavcima 1. i 2. ovoga Zakona i pravilnika donesenog na temelju ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 390,00 do 660,00 eura kaznit će se i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 390,00 do 660,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 10.
+
+Pravilnik iz članka 3. ovoga Zakona ministar će donijeti u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 11.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/93  
+Zagreb, 24. listopada 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-02-15
+last_amended: 2018-12-20
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "18/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "18/13, 115/18"
+amendments:
+  - "NN 115/2018 (2255) Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EZ) br. 1223/2009 Europskoga parlamenta i Vijeća od 30. studenoga 2009. godine o kozmetičkim proizvodima (preinačena verzija)"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/18/296"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o provedbi Uredbe (EZ) br. 1223/2009 Europskoga parlamenta i Vijeća od 30. studenoga 2009. godine o kozmetičkim proizvodima (preinačena verzija)
 
 > Izvor: Narodne novine, NN 18/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/18/296).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 115/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -198,3 +202,72 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EZ) br. 1223/2009 Europskoga parlamenta i Vijeća od 30. studenoga 2009. godine o kozmetičkim proizvodima (preinačena verzija) (NN 115/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2255*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 1223/2009 EUROPSKOGA PARLAMENTA I VIJEĆA OD 30. STUDENOGA 2009. GODINE O KOZMETIČKIM PROIZVODIMA  
+(preinačena verzija)
+
+proglašavam Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EZ) br. 1223/2009 Europskoga parlamenta i Vijeća od 30. studenoga 2009. godine o kozmetičkim proizvodima (preinačena verzija), koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/180
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 1223/2009 EUROPSKOGA PARLAMENTA I VIJEĆA OD 30. STUDENOGA 2009. GODINE O KOZMETIČKIM PROIZVODIMA (preinačena verzija)**
+
+članak 1.
+
+U Zakonu o provedbi Uredbe (EZ) br. 1223/2009 Europskoga parlamenta i Vijeća od 30. studenoga 2009. godine o kozmetičkim proizvodima (preinačena verzija) (»Narodne novine«, br. 18/13.) u članku 3. stavku 1. riječi: »ministarstvo nadležno za zdravlje« zamjenjuju se riječima: »ministarstvo nadležno za zdravstvo«.
+
+U stavku 2. riječi: »ministar nadležan za zdravlje« zamjenjuju se riječima: »ministar nadležan za zdravstvo«
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Pri provedbi Uredbe (EZ) br. 1223/2009 i ovoga Zakona Ministarstvo surađuje s centrima za kontrolu otrovanja, zavodima za javno zdravstvo i Hrvatskim zavodom za javno zdravstvo.«.
+
+### Članak 2.
+
+U članku 6. stavak 1. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor nad provedbom Uredbe (EZ) br. 1223/2009 i ovoga Zakona provode sanitarni inspektori Državnog inspektorata sukladno propisima kojima su uređeni djelokrug i ovlasti Državnog inspektorata te nadzor nad predmetima opće uporabe i kemikalijama.«.
+
+U stavcima 2., 3., 4. i 5. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 3.
+
+U članku 8. stavku 5. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim članaka 2. i 3. koji stupaju na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/199
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

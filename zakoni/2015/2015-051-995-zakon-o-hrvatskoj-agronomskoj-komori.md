@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-05-12
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "51/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "51/15, 114/22"
+amendments:
+  - "NN 114/2022 (1730) Zakon o izmjeni Zakona o Hrvatskoj agronomskoj komori"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/51/995"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Hrvatskoj agronomskoj komori
 
 > Izvor: Narodne novine, NN 51/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/51/995).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -598,3 +602,53 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o Hrvatskoj agronomskoj komori (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1730*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O HRVATSKOJ AGRONOMSKOJ KOMORI
+
+Proglašavam Zakon o izmjeni Zakona o Hrvatskoj agronomskoj komori, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/128
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O HRVATSKOJ AGRONOMSKOJ KOMORI**
+
+### Članak 1.
+
+U Zakonu o Hrvatskoj agronomskoj komori (»Narodne novine«, br. 51/15.) u članku 35. stavku 1. riječi: »5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »660,00 do 1990,00 eura«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/128
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

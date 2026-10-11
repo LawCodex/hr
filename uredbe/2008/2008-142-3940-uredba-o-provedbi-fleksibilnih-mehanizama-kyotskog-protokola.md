@@ -513,95 +513,76 @@ BASELINE AND ADDITIONALITY
 
 <table>
 <tbody>
-
 <tr>
 <td colspan="2">REFERENTNI SCENARIJ<br> BASELINE</td>
 </tr>
-
 <tr>
 <td>• Vrsta emisija koje se provedbom projektne aktivnosti smanjuju<br> What kind of emissions will be reduced within the project ?</td>
 <td></td>
 </tr>
-
 <tr>
 <td>• Opis stanja u izostanku projektne aktivnosti<br> What would have happened in the absence of the project ?</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">DODATNI DOPRINOS<br> ADDITIONALITY</td>
 </tr>
-
 <tr>
 <td>• Okolišni<br> Environmental</td>
 <td></td>
 </tr>
-
 <tr>
 <td>• Tehnološki<br> Technological</td>
 <td></td>
 </tr>
-
 <tr>
 <td>• Pravni<br> Legal</td>
 <td></td>
 </tr>
-
 <tr>
 <td>• Financijski<br> Financial</td>
 <td></td>
 </tr>
-
 <tr>
 <td>• Doprinos u planiranju (rizici i prepreke)<br> Additionality in Planning (risks and obstacles)</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">METODOLOGIJA<br> METHODOLOGY</td>
 </tr>
-
 <tr>
 <td>• Primjena referentnog scenarija i plana praćenja sukladno Dodatku B smjernica za JI iz Marrakesha<br> The project will use a baseline and a monitoring plan in accordance with appendix B of the JI guidelines (Marrakesh Accords) ?</td>
 <td></td>
 </tr>
-
 <tr>
 <td>• Primjena odobrene metodologije za CDM projektne aktivnosti<br> The project will use an approved CDM methodology ?</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Prikaz područja obuhvata projektne aktivnosti (uključujući i značajne emisije stakleničkih plinova koje se mogu pripisati projektnoj aktivnosti, a pod nadzorom su sudionika)<br> Project boundary (including the important GHG emissions that are under the control of the participants and can be attributable to the project)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Prikaz i procjena istjecanja uslijed projektne aktivnosti (neto mjerljive promjene u emisijama stakleničkih plinova do kojih dolazi izvan područja obuhvata, a mogu se pripisati projektnoj aktivnosti)<br> Description and estimation of the project leakage (meaning the net measurable changes of the GHG emissions that happened outside the project boundary and can be attributable to the project)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Procjena smanjenja emisija stakleničkih plinova (t CO2-eq.)<br> Estimation of the GHG emissions reduction (in t CO2-eq)</td>
 <td>Godišnje (Prosječni iznos):<br> Annual (average)<br> Ukupno:<br> Total</td>
 </tr>
-
 <tr>
 <td>Iznos jedinica smanjenja emisija namijenjenih trgovanju<br> The quantitiy of the Emissions Reduction Units that will be traded</td>
 <td>Iznos jedinica smanjenja emisija:<br> Ammount of Emission Reduction Units</td>
 </tr>
-
 <tr>
 <td>Prikaz praćenja / provjere smanjenja emisija<br> Description of the monitoring / verification of the emissions reductions</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Postojanje pravnog okvira s državom investitorom (Memorandum ili Sporazum)<br> Is there any legal framework (Memorandum or Agreement) with the investing country ?</td>
 <td></td>
 </tr>
 </tbody>
-
 </table>
 
 5. FINANCIJSKI ASPEKTI *

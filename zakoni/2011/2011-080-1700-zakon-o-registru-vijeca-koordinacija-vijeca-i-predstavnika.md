@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-07-13
-last_amended: 2012-03-21
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "80/11, 34/12"
+narodne_novine: "80/11, 34/12, 98/19"
 amendments:
   - "NN 34/2012 (816) Zakon o izmjenama i dopunama Zakona o registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina"
+  - "NN 98/2019 (1931) Zakon o izmjeni Zakona o Registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/80/1700"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 80/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/80/1700).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 34/2012.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 34/2012, NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -409,3 +410,55 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Boris Šprem, v. r.
+
+## Zakon o izmjeni Zakona o Registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1931*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O REGISTRU VIJEĆA, KOORDINACIJA VIJEĆA I PREDSTAVNIKA NACIONALNIH MANJINA
+
+Proglašavam Zakon o izmjeni Zakona o registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/139
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O REGISTRU VIJEĆA, KOORDINACIJA VIJEĆA I PREDSTAVNIKA NACIONALNIH MANJINA**
+
+### Članak 1.
+
+U Zakonu o Registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina (»Narodne novine«, br. 80/11. i 34/12.) u članku 6. stavci 4. i 5. mijenjaju se i glase:
+
+»(4) Nadzor zakonitosti statuta vijeća obavlja ministarstvo nadležno za poslove opće uprave.
+
+(5) Statute koordinacija ovjerava ministarstvo nadležno za poslove opće uprave.«.
+
+Stavak 6. briše se.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/134
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

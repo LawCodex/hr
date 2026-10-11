@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2012-08-24
-last_amended: 2016-02-26
+last_amended: 2017-01-11
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "97/12, 18/16"
+narodne_novine: "97/12, 18/16, 3/17"
 amendments:
   - "NN 18/2016 (484) Uredba o izmjeni i dopuni Uredbe o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj"
+  - "NN 3/2017 (119) Uredba o izmjenama Uredbe o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/97/2169"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 97/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/97/2169).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 18/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 18/2016, NN 3/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -210,3 +211,58 @@ Zagreb, 17. veljače 2016.
 
 Predsjednik  
 Tihomir Orešković, v. r.
+
+## Uredba o izmjenama Uredbe o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj (NN 3/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/3/119*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 5. stavka 4. Zakona o uspostavi institucionalnog okvira za korištenje strukturnih instrumenata Europske unije u Republici Hrvatskoj (»Narodne novine«, br. 78/12, 143/13 i 157/13 – ispravak), Vlada Republike Hrvatske je na sjednici održanoj 5. siječnja 2017. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O TIJELIMA U SUSTAVU UPRAVLJANJA I KONTROLE KORIŠTENJA STRUKTURNIH INSTRUMENATA EUROPSKE UNIJE U REPUBLICI HRVATSKOJ**
+
+### Članak 1.
+
+U Uredbi o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj (»Narodne novine«, br. 97/12 i 18/16), u članku 6. stavku 2. riječi: »Ministarstvo pomorstva, prometa i infrastrukture« zamjenjuju se riječima: »Ministarstvo mora, prometa i infrastrukture«.
+
+### Članak 2.
+
+U članku 7. stavku 2. riječi: »Ministarstvo zaštite okoliša i prirode« zamjenjuju se riječima: »Ministarstvo zaštite okoliša i energetike«.
+
+U stavku 3. podstavak 1. briše se.
+
+Dosadašnji podstavci 2., 3. i 4. postaju podstavci 1., 2. i 3.
+
+### Članak 3.
+
+U članku 8. stavku 3. podstavak 1. mijenja se i glasi:
+
+»– Ministarstvo gospodarstva, poduzetništva i obrta kao Posredničko tijelo razine 1 za prioritetnu os 2 – intervencije iz područja malog i srednjeg poduzetništva i poslovne klime i prioritetnu os 3;«.
+
+U podstavku 2. riječi: »Ministarstvo znanosti, obrazovanja i sporta« zamjenjuju se riječima: »Ministarstvo znanosti i obrazovanja«.
+
+Podstavak 3. briše se.
+
+Dosadašnji podstavak 4. postaje podstavak 3.
+
+### Članak 4.
+
+U članku 9. stavku 3. podstavku 1. riječi: »Ministarstvo socijalne politike i mladih« zamjenjuju se riječima: »Ministarstvo za demografiju, obitelj, mlade i socijalnu politiku«.
+
+U podstavku 2. riječi: »Ministarstvo znanosti, obrazovanja i sporta« zamjenjuju se riječima: »Ministarstvo znanosti i obrazovanja«.
+
+### Članak 5.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-03/54
+
+Urbroj: 50301-25/05-17-2
+
+Zagreb, 5. siječnja 2017.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

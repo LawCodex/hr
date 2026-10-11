@@ -10,8 +10,9 @@ last_amended: 2008-12-17
 status: unknown
 status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
 text_version: original_with_amendments
-narodne_novine: "61/00, 146/08"
+narodne_novine: "61/00, 117/00, 146/08"
 amendments:
+  - "NN 117/2000 (2253) Zakon o dopuni Zakona o carinskoj tarifi"
   - "NN 146/2008 (4024) Zakon o izmjeni Zakona o carinskoj tarifi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2000/61/1340"
 retrieved: 2026-10-12
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 61/2000 (https://narodne-novine.nn.hr/eli/sluzbeni/2000/61/1340).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 146/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 117/2000, NN 146/2008.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -388,6 +389,55 @@ ODSJEK XXI<br>UMJETNINE, KOLEKCIONARSKI PREDMETI I STARINE (ANTIKVITETI)
 ---
 
 # Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopuni Zakona o carinskoj tarifi (NN 117/2000)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2000/117/2253*
+
+ZASTUPNIČKI DOM HRVATSKOGA SABORA
+
+2253
+
+Na teme­lju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA  
+O CARINSKOJ TARIFI
+
+Proglašavam Zakon o dopuni Zakona o carinskoj tarifi, koji je donio Zastupnički dom Hrvatskoga sabora na sjednici 15. studenoga 2000.
+
+Broj: 01-081-00-3953/2  
+Zagreb, 15. studenoga 2000.
+
+Predsjednik  
+Republike Hrvatske  
+Stjepan Mesić, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O CARINSKOJ TARIFI**
+
+### Članak 1.
+
+U Zakonu o carinskoj tarifi (»Narodne novine«, br. 61/00.) u članku 5. stavku 1. iza točke 2. dodaje se točka 3. koja glasi:
+
+»3. za uvoz strojeva, uređaja i opreme za razminira­nje«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu danom objave u »Narodnim novinama«.
+
+Klasa: 413-01/00-01/02  
+Zagreb, 15. studenoga 2000.
+
+ZASTUPNIČKI DOM  
+HRVATSKOGA SABORA
+
+Predsjednik  
+Zastupničkog doma  
+Hrvatskoga sabora  
+Zlatko Tomčić, v. r.
 
 ## Zakon o izmjeni Zakona o carinskoj tarifi (NN 146/2008)
 

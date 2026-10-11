@@ -501,216 +501,178 @@ Zoran Milanović, v. r.
 ## PRAVILA IZJEDNAČAVANJA OVLAŠTENJA, — kojim se uređuju pravila za izjednačavanje ovlaštenja danih temeljem članka 25. Zakona o građevnim proizvodima i rješenja iz članka 22. ove Uredbe
 
 <table><tbody>
-
 <tr>
 <td colspan="2">OVLAŠTENJA ZA PODRUČJA PROIZVODA PREMA PRAVILNIKU O TEHNIČKIM DOPUŠTENJIMA ZA GRAĐEVNE PROIZVODE (»Narodne novine«, broj 103/2008)</td>
 <td colspan="2">IMENOVANJA ZA PODRUČJA PROIZVODA PREMA Prilogu I. OVE UREDBE</td>
 </tr>
-
 <tr>
 <td>Oznaka</td>
 <td>PODRUČJE<br><br>PROIZVODA</td>
 <td>Šifra područja</td>
 <td>PODRUČJE PROIZVODA</td>
 </tr>
-
 <tr>
 <td rowspan="6">A</td>
 <td rowspan="6">GRAĐEVINARSTVO</td>
 <td>8</td>
 <td>GEOTEKSTILI, GEOMEMBRANE I SRODNI PROIZVODI</td>
 </tr>
-
 <tr>
 <td>12</td>
 <td>PROIZVODI ZA UREĐENJE PROMETNICA: CESTOVNA OPREMA</td>
 </tr>
-
 <tr>
 <td>18</td>
 <td>PROIZVODI ZA SUSTAVE OTPADNIH VODA</td>
 </tr>
-
 <tr>
 <td>19</td>
 <td>PODNE OBLOGE</td>
 </tr>
-
 <tr>
 <td>23</td>
 <td>PROIZVODI ZA GRADNJU CESTA</td>
 </tr>
-
 <tr>
 <td>24</td>
 <td>AGREGATI</td>
 </tr>
-
 <tr>
 <td>B</td>
 <td>POTPUNO/DJELOMIČNO PREDGOTOVLJENI GRAĐEVNI ELEMENTI</td>
 <td>34</td>
 <td>SKLOPOVI ZGRADA, JEDINICE I PREDGOTOVLJENI ELEMENTI</td>
 </tr>
-
 <tr>
 <td rowspan="7">C</td>
 <td rowspan="7">NOSIVI MATERIJALI I KOMPONENTE</td>
 <td>1</td>
 <td>PREDGOTOVLJENI PROIZVODI OD OBIČNOG, LAGANOG I PORASTOG BETONA</td>
 </tr>
-
 <tr>
 <td>5</td>
 <td>KONSTRUKCIJSKI LEŽAJEVI. SVORNJACI ZA KONSTRUKCIJSKE ZGLOBOVE</td>
 </tr>
-
 <tr>
 <td>13</td>
 <td>PROIZVODI OD KONSTRUKCIJSKOG DRVA/ELEMENTI I POMOĆNI PROIZVODI</td>
 </tr>
-
 <tr>
 <td>15</td>
 <td>CEMENT, GRAĐEVNA VAPNA I DRUGA HIDRAULIČKA VEZIVA</td>
 </tr>
-
 <tr>
 <td>16</td>
 <td>ČELIK ZA ARMIRANJE I PREDNAPIJANJE BETONA (I POMOĆNI PROIZVODI). SKLOPOVI ZA NAKNADNO NAPINJANJE</td>
 </tr>
-
 <tr>
 <td>20</td>
 <td>KONSTRUKCIJSKI METALNI PROIZVODI I POMOĆNI PROIZVODI</td>
 </tr>
-
 <tr>
 <td>26</td>
 <td>PROIZVODI SRODNI S BETONOM, MORTOM I MJEŠAVINAMA ZA INJEKTIRANJE</td>
 </tr>
-
 <tr>
 <td rowspan="5">D</td>
 <td rowspan="5">OVOJNICE<br><br>KROVOVA I<br><br>ZGRADA</td>
 <td>2</td>
 <td>VRATA, PROZORI, ZAKLOPCI, ULAZNA VRATA I SRODNI PROIZVODI</td>
 </tr>
-
 <tr>
 <td>3</td>
 <td>MEMBRANE, UKLJUČUJUĆI I ONE KOJE SE NANOSE U TEKUĆEM STANJU, I SKLOPOVI (ZA KONTROLU VODE I/ILI VODENE PARE)</td>
 </tr>
-
 <tr>
 <td>9</td>
 <td>OVJEŠENE FASADE/OBLOGE/<br> ZABRTVLJENE STAKLENE KONSTRUKCIJE</td>
 </tr>
-
 <tr>
 <td>22</td>
 <td>KROVNI POKROVI, KROVNI SVJETLICI, KROVNI PROZORI I POMOĆNI PROIZVODI. KROVNI SKLOPOVI</td>
 </tr>
-
 <tr>
 <td>30</td>
 <td>PROIZVODI OD RAVNOG STAKLA, PROFILIRANOG STAKLA I STAKLENIH BLOKOVA</td>
 </tr>
-
 <tr>
 <td rowspan="5">E</td>
 <td rowspan="5">UNUTARNJE/VANJSKE KOMPONENTE/SKLOPOVIZGRADA</td>
 <td>7</td>
 <td>GIPSANI PROIZVODI</td>
 </tr>
-
 <tr>
 <td>11</td>
 <td>SANITARNI UREĐAJI</td>
 </tr>
-
 <tr>
 <td>14</td>
 <td>PANELI NA OSNOVI DRVA I ELEMENTI</td>
 </tr>
-
 <tr>
 <td>17</td>
 <td>ZIĐE I SRODNI PROIZVODI. ZIDNI ELEMENTI, MORTOVI I POMOĆNI PROIZVODI</td>
 </tr>
-
 <tr>
 <td>21</td>
 <td>ZAVRŠNI PROIZVODI ZA UNUTARNJE I VANJSKE ZIDOVE TE STROPOVE. SKLOPOVI ZA UNUTARNJE PREGRADE</td>
 </tr>
-
 <tr>
 <td rowspan="3">F</td>
 <td rowspan="3">GRIJANJE/VENTILACIJA/IZOLACIJA</td>
 <td>4</td>
 <td>PROIZVODI ZA TOPLINSKU IZOLACIJU. SPREGNUTI IZOLACIJSKI SKLOPOVI/SUSTAVI</td>
 </tr>
-
 <tr>
 <td>6</td>
 <td>DIMNJACI, DIMOVODI I POSEBNI PROIZVODI</td>
 </tr>
-
 <tr>
 <td>27</td>
 <td>UREĐAJI ZA GRIJANJE PROSTORA</td>
 </tr>
-
 <tr>
 <td rowspan="3">G</td>
 <td rowspan="3">PRIČVRŠĆENJA/BRTVLJENJA/<br> ADHEZIVI</td>
 <td>25</td>
 <td>GRAĐEVNA LJEPILA</td>
 </tr>
-
 <tr>
 <td>32</td>
 <td>BRTVILA ZA SPOJEVE</td>
 </tr>
-
 <tr>
 <td>33</td>
 <td>PROIZVODI ZA PRIČVRŠĆENJE</td>
 </tr>
-
 <tr>
 <td rowspan="2">H</td>
 <td rowspan="2">ZAŠTITA OD POŽARA I SRODNI PROIZVODI</td>
 <td>10</td>
 <td>STABILNA PROTUPOŽARNA OPREMA (POŽARNI ALARMI/DETEKTORI, STABILNI PROIZVODI ZA ZAŠTITU OD POŽARA, PROIZVODI ZA KONTROLU POŽARA I DIMA I PROIZVODI ZA UBLAŽAVANJE EKSPLOZIJE)</td>
 </tr>
-
 <tr>
 <td>35</td>
 <td>PROIZVODI ZA ZAUSTAVLJANJE POŽARA, BRTVLJENJE I ZAŠTITU OD POŽARA. PROIZVODI ZA USPORAVANJE POŽARA</td>
 </tr>
-
 <tr>
 <td>I</td>
 <td>ELEKTRIČNE INSTALACIJE</td>
 <td>31</td>
 <td>KABELI ZA STRUJU, KONTROLU I KOMUNIKACIJE</td>
 </tr>
-
 <tr>
 <td>J</td>
 <td>PLINSKE INSTALACIJE</td>
 <td>-</td>
 <td>---------------</td>
 </tr>
-
 <tr>
 <td rowspan="2">K</td>
 <td rowspan="2">OPSKRBA VODOM I KANALIZACIJA</td>
 <td>28</td>
 <td>CIJEVI, SPREMNICI I POMOĆNI PROIZVODI KOJI NISU U DODIRU S VODOM NAMIJENJENOM ZA LJUDSKU POTROŠNJU</td>
 </tr>
-
 <tr>
 <td>29</td>
 <td>GRAĐEVNI PROIZVODI U DODIRU S VODOM NAMIJENJENOM ZA LJUDSKU POTROŠNJU</td>
@@ -795,41 +757,34 @@ Građevine moraju biti projektirane, izgrađene i uklonjene tako da je uporaba p
 ## TABLICA ZAHTJEVA ZA TIJELA ZA TEHNIČKO OCJENJIVANJE, — kojim se uređuju zahtjevi koje moraju ispunjavati tijela za tehničko ocjenjivanje građevnih proizvoda
 
 <table><tbody>
-
 <tr>
 <td>Sposobnost</td>
 <td>Opis sposobnosti</td>
 <td>Zahtjev</td>
 </tr>
-
 <tr>
 <td>1. Analiza rizika</td>
 <td>Identificiranje mogućih rizika i koristi od uporabe inovativnih građevnih proizvoda za koje ne postoje utvrđeni/konsolidirani tehnički podaci u vezi s njihovim svojstvima prilikom ugradnje u građevine.</td>
 <td rowspan="3">Tijelo za tehničko ocjenjivanje se uspostavlja na temelju nacionalnog prava i ima pravnu osobnost. Neovisan je od aktera i svih posebnih interesa.<br> Nadalje, tijelo za tehničko ocjenjivanje ima osoblje koje ima:<br> (a) objektivnost i jasnu tehničku prosudbu;<br> (b) detaljno znanje o regulatornim odredbama i drugim zahtjevima koji su na snazi u državama članicama u kojima su imenovani, prema područjima proizvoda za koje će biti imenovan;<br> (c) opće znanje o građevnoj praksi i detaljno tehničko znanje prema područjima proizvoda za koje će biti imenovan;<br> (d) detaljno znanje o uključenim posebnim rizicima i tehničkim aspektima postupka građenja;<br> (e) detaljno znanje o postojećim usklađenim normama i ispitnim metodama unutar područja proizvoda za koji će biti imenovan;<br> (f) prikladne lingvističke vještine.<br> Naknada dodijeljena osoblju tijela za tehničko ocjenjivanje ne ovisi o broju provedenih ocjenjivanja niti o rezultatima takvih ocjenjivanja.</td>
 </tr>
-
 <tr>
 <td>2. Utvrđivanje tehničkih kriterija</td>
 <td>Pretvoriti rezultate analiza rizika u tehničke kriterije za procjenu ponašanja i svojstava građevnih proizvoda u vezi s ispunjavanjem primjenjivih nacionalnih zahtjeva;<br> Zajamčiti tehničke podatke potrebne sudionicima u postupku građenja kao mogućim korisnicima građevnih proizvoda (proizvođači, projektanti, podugovarači, instalateri).</td>
 </tr>
-
 <tr>
 <td>3. Postavljanje metoda ocjenjivanja</td>
 <td>Osmisliti i ocijeniti prikladne metode (testove ili izračune) za ocjenjivanje svojstava glavnih značajki građevnih proizvoda, vodeći računa o trenutačnom stanju predmeta.</td>
 </tr>
-
 <tr>
 <td>4. Utvrđivanje posebne kontrole tvorničke proizvodnje</td>
 <td>Razumjeti i ocijeniti proizvodni postupak posebnog proizvoda kako bi se identificirale prikladne mjere kojima se jamči stalnost proizvoda tijekom određenog proizvodnog postupka.</td>
 <td>Tijelo za tehničko ocjenjivanje ima osoblje s:<br> (g) odgovarajućim znanjem o odnosu između proizvodnog postupka i značajki proizvoda u vezi s kontrolom tvorničke proizvodnje.</td>
 </tr>
-
 <tr>
 <td>5. Ocjenjivanje proizvoda</td>
 <td>Ocijeniti svojstva bitnih značajki građevnog proizvoda na temelju usklađenih metoda prema usklađenim kriterijima.</td>
 <td>Osim zahtjeva navedenih u točkama 1., 2. i 3. ovoga Priloga, tijelo za tehničko ocjenjivanje ima:<br> (h) pristup potrebnim sredstvima i opremi za ocjenjivanje svojstava bitnih značajki građevnih proizvoda unutar proizvodnog područja za koje će biti imenovan.</td>
 </tr>
-
 <tr>
 <td>6. Opće upravljanje</td>
 <td>Zajamčiti dosljednost, pouzdanost, objektivnost i sljedivost stalnom primjenom odgovarajućih metoda upravljanja</td>

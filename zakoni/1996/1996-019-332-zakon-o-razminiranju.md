@@ -44,7 +44,7 @@ Predsjednik Republike Hrvatske dr. Franjo Tuđman, v. r.
 
 **O RAZMINIRANJU**
 
-## I. T E M E L J N E O D R E D B E
+I. T E M E L J N E O D R E D B E
 
 ### Članak 1.
 
@@ -54,7 +54,7 @@ Ovim Zakonom uređuje se obavljanje razminiranja područja u Republici Hrvatskoj
 
 Poslovi razminiranja u smislu ovoga Zakona su poslovi od značaja za sigurnost Republike Hrvatske te zaštite ljudskog okoliša i zdravlja ljudi.
 
-## II. P R O V E D B A R A Z M I N I R A N J A
+II. P R O V E D B A R A Z M I N I R A N J A
 
 ### Članak 3.
 
@@ -204,7 +204,7 @@ Ovlaštena pravna osoba dužna je sklopiti s osiguravajućim društvom skupno ž
 
 Pirotehničar ili član njegove obitelji u slučaju povrede pirotehničara na radu, odnosno za slučaj smrti pri obavljanju poslova razminiranja, ima prava utvrđena za hrvatske branitelje iz domovinskog rata na temelju Zakona o pravima hrvatskih branitelja iz domovinskog rata, osim prava utvrđena glavom IX. i X. toga Zakona.
 
-## IV. I N S P E K C I J S K I N A D Z O R
+IV. I N S P E K C I J S K I N A D Z O R
 
 ### Članak 19.
 
@@ -256,7 +256,7 @@ Ministarstvo unutarnjih poslova dužno je u roku od osam dana od dana prijama ž
 
 Ministarstvo unutarnjih poslova o nalazima inspekcijskih nadzora izvješćuje Vladu Republike Hrvatske.
 
-## V. P O S E B N E O D R E D B E
+V. P O S E B N E O D R E D B E
 
 ### Članak 23.
 
@@ -294,7 +294,7 @@ O razminiranju u smislu stavka 1. ovoga članka sklapa se poseban ugovor o razmi
 
 Ministar unutarnjih poslova odredit će cijenu koštanja razminiranja u smislu stavka 1. ovoga članka.
 
-## VI. O V L A S T I Z A D O N O Š E N J E P R O P I S A
+VI. O V L A S T I Z A D O N O Š E N J E P R O P I S A
 
 ### Članak 27.
 

@@ -228,184 +228,157 @@ Službenik pravosudne policije koji je obvezan nadoknaditi štetu zbog oštećen
 Dijelovi odore i najkraći rokovi uporabe:
 
 <table><tbody>
-
 <tr>
 <td>RB</td>
 <td>DIJELOVI ODORE</td>
 <td>Količina (kom./pari) po službeniku</td>
 <td>Rok uporabe (mjeseci)</td>
 </tr>
-
 <tr>
 <td colspan="3">A) OSNOVNA ODORA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1</td>
 <td>kapa beretka</td>
 <td>1</td>
 <td>36</td>
 </tr>
-
 <tr>
 <td>2</td>
 <td>kapa vunena</td>
 <td>1</td>
 <td>48</td>
 </tr>
-
 <tr>
 <td>3</td>
 <td>hlače zimske (muške/ženske)</td>
 <td>2</td>
 <td>24</td>
 </tr>
-
 <tr>
 <td>4</td>
 <td>hlače ljetne (muške/ženske)</td>
 <td>3</td>
 <td>24</td>
 </tr>
-
 <tr>
 <td>5</td>
 <td>suknja ljetna</td>
 <td>2</td>
 <td>24</td>
 </tr>
-
 <tr>
 <td>6</td>
 <td>suknja zimska</td>
 <td>2</td>
 <td>24</td>
 </tr>
-
 <tr>
 <td>7</td>
 <td>košulja dugih rukava (muška/ženska)</td>
 <td>3</td>
 <td>24</td>
 </tr>
-
 <tr>
 <td>8</td>
 <td>košulja kratkih rukava (muška/ženska)</td>
 <td>3</td>
 <td>24</td>
 </tr>
-
 <tr>
 <td>9</td>
 <td>majica kratkih rukava (muška/ženska)</td>
 <td>4</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>10</td>
 <td>pulover (muški/ženski)</td>
 <td>1</td>
 <td>24</td>
 </tr>
-
 <tr>
 <td>11</td>
 <td>jakna zimska s kapuljačom (muška/ženska)</td>
 <td>1</td>
 <td>60</td>
 </tr>
-
 <tr>
 <td>12</td>
 <td>jakna (muška/ženska)</td>
 <td>1</td>
 <td>36</td>
 </tr>
-
 <tr>
 <td>13</td>
 <td>čarape ljetne muške</td>
 <td>5</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>14</td>
 <td>čarape zimske muške</td>
 <td>4</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>15</td>
 <td>čarape ženske (nylon)</td>
 <td>10</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>16</td>
 <td>cipele visoke zimske</td>
 <td>1</td>
 <td>36</td>
 </tr>
-
 <tr>
 <td>17</td>
 <td>čizme ženske</td>
 <td>1</td>
 <td>36</td>
 </tr>
-
 <tr>
 <td>18</td>
 <td>cipele niske ljetne (muške/ženske)</td>
 <td>1</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>19</td>
 <td>cipele ženske s petom</td>
 <td>1</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>20</td>
 <td>rukavice zimske (muške/ženske)</td>
 <td>1</td>
 <td>60</td>
 </tr>
-
 <tr>
 <td>21</td>
 <td>komplet za nošenje oružja i opreme (muški/ženski)</td>
 <td>1</td>
 <td>84</td>
 </tr>
-
 <tr>
 <td colspan="4">B) DODATNI DIJELOVI ODORE</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>crna potkapa</td>
 <td>1</td>
 <td>48</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>kombinezon</td>
 <td>1</td>
 <td>36</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>kišni ogrtač</td>

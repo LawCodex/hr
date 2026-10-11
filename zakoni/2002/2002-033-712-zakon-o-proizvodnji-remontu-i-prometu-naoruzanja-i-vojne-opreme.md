@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2002-03-29
-last_amended: 2008-12-17
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2019-02-20
+status: in_force
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "33/02, 173/03, 146/08"
+narodne_novine: "33/02, 173/03, 146/08, 17/19"
 amendments:
   - "NN 173/2003 (2507) Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme"
   - "NN 146/2008 (4020) Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme"
+  - "NN 17/2019 (359) Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2002/33/712"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 33/2002 (https://narodne-novine.nn.hr/eli/sluzbeni/2002/33/712).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 173/2003, NN 146/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 173/2003, NN 146/2008, NN 17/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -654,3 +655,249 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme (NN 17/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/17/359*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PROIZVODNJI, REMONTU I PROMETU NAORUŽANJA I VOJNE OPREME
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme, koji je Hrvatski sabor donio na sjednici 8. veljače 2019.
+
+Klasa: 011-01/19-01/26
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 13. veljače 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PROIZVODNJI, REMONTU I PROMETU NAORUŽANJA I VOJNE OPREME**
+
+#### Članak 1.
+
+U Zakonu o proizvodnji, remontu i prometu naoružanja i vojne opreme (»Narodne novine«, br. 33/02., 173/03. i 146/08.) u članku 2. točki 2. iza riječi: »projektiranje – konstruiranje,« dodaje se riječ »pojedinačnu«.
+
+Točka 4. briše se.
+
+Točke 5. do 8. postaju točke 4. do 7.
+
+Točka 9. briše se.
+
+Točka 10. postaje točka 8.
+
+#### Članak 2.
+
+U članku 3. stavci 1. i 2. brišu se.
+
+U dosadašnjem stavku 3., koji postaje stavak 1., riječi: »Zakonom o izvozu i uvozu robe vojne namjene i nevojnih ubojnih sredstava« zamjenjuju se riječima: »zakonom kojim se uređuje nadzor prometa robe vojne namjene i nevojnih ubojnih sredstava«.
+
+U dosadašnjem stavku 4., koji postaje stavak 2., riječi: »Zakonom o izvozu i uvozu robe vojne namjene i nevojnih ubojnih sredstava« zamjenjuju se riječima: »zakonom kojim se uređuje nadzor prometa robe vojne namjene i nevojnih ubojnih sredstava«.
+
+Dosadašnji stavak 5. postaje stavak 3.
+
+#### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»Proizvodnja NVO-a za potrebe izvoza obavlja se na temelju ugovora proizvođača iz članka 6. stavka 1. ovoga Zakona i kupca, uz prethodnu suglasnost Agencije iz članka 3. stavka 3. ovoga Zakona.
+
+Iznimno od odredbe stavka 1. ovoga članka, za potrebe izvoza NVO-a, ugovor s proizvođačem može sklopiti i Agencija iz članka 3. stavka 3. ovoga Zakona.
+
+Agencija uz suglasnost ministarstva nadležnoga za poslove obrane vodi projekte razvoja, proizvodnje i prometa NVO-a.«.
+
+#### Članak 4.
+
+Članak 6. mijenja se i glasi:
+
+»NVO mogu proizvoditi:
+
+– pravne osobe (u daljnjem tekstu: proizvođači) koji imaju odobrenje za proizvodnju NVO-a u skladu s odredbama ovoga Zakona i drugih zakona,
+
+– fizičke osobe – obrtnici (u daljnjem tekstu: proizvođači) koji imaju odobrenje za proizvodnju NVO-a u skladu s odredbama ovoga Zakona i drugih zakona.
+
+Proizvođači proizvode NVO za potrebe ministarstva nadležnoga za poslove obrane na temelju ugovora koji sklapaju s ministarstvom nadležnim za poslove obrane.«.
+
+#### Članak 5.
+
+Članak 7. briše se.
+
+#### Članak 6.
+
+Članak 8. mijenja se i glasi:
+
+»Nositelji razvoja NVO-a, nositelji izrade prototipova ili prototipskih dijelova NVO-a te tehnološkog usvajanja proizvodnje i remonta NVO-a su proizvođači, znanstvenoistraživačke institucije koje imaju odobrenje za istraživanje i/ili razvoj prema ovom Zakonu i drugim zakonima te remontni kapaciteti Oružanih snaga.
+
+Ministar nadležan za poslove obrane propisat će pravilnikom posebne uvjete za obavljanje poslova razvoja NVO-a koje moraju ispunjavati proizvođači i znanstvenoistraživačke institucije iz stavka 1. ovoga članka, ako drugim propisima nije drugačije propisano.«.
+
+#### Članak 7.
+
+U članku 9. iza riječi: »u svojim remontnim kapacitetima« dodaju se riječi: »odnosno pravne osobe i obrti koji imaju odobrenje ministarstva nadležnoga za unutarnje poslove u skladu s posebnim zakonom«.
+
+#### Članak 8.
+
+Naziv glave III. iznad članka 10. i članci 10., 11., 12., 13. i 14. brišu se.
+
+#### Članak 9.
+
+U članku 15. stavak 2. mijenja se i glasi:
+
+»Poslovi trgovine odnosno poslovi pružanja usluga iz stavka 1. ovoga članka propisani su zakonom kojim se uređuje nadzor prometa robe vojne namjene i nevojnih ubojnih sredstava te zakonom kojim se uređuje područje vezano za eksplozivne tvari te proizvodnju i promet oružja.«.
+
+Stavak 3. briše se.
+
+#### Članak 10.
+
+Članak 16. mijenja se i glasi:
+
+»Promet NVO-a u zemlji mogu obavljati pravne osobe i obrtnici u skladu s odredbama ovoga Zakona i drugih zakona.«.
+
+#### Članak 11.
+
+Članak 17. mijenja se i glasi:
+
+»Ministarstvo nadležno za poslove obrane vodi evidenciju o izdanim dozvolama za izvoz i uvoz NVO-a namijenjenoga Oružanim snagama.«.
+
+#### Članak 12.
+
+Članak 21. briše se.
+
+#### Članak 13.
+
+Članak 22. mijenja se i glasi:
+
+»Osiguranje, zaštita i razvoj proizvodnje, prometa i remonta NVO-a provode se u skladu s odredbama ovoga Zakona, drugih zakona i međunarodnih ugovora.«.
+
+#### Članak 14.
+
+U članku 23. stavak 2. mijenja se i glasi:
+
+»Opće i posebne mjere koje čine cjelovit sustav osiguranja i zaštite iz stavka 1. ovoga članka propisat će pravilnikom ministar nadležan za poslove obrane, u dijelu koji se odnosi na Oružane snage.«.
+
+#### Članak 15.
+
+Članak 25. mijenja se i glasi:
+
+»Proizvođači su obvezni organizirati osiguranje kapaciteta od pristupa neovlaštenih osoba odgovarajućom fizičko-tehničkom zaštitom tijekom radnog procesa povezanoga s proizvodnjom, remontom i prometom NVO-a u skladu s odredbama ovoga Zakona i drugih zakona.«.
+
+#### Članak 16.
+
+Naziv glave VI. iznad članka 26. mijenja se i glasi: »Glava VI. OSIGURANJE KVALITETE I KONTROLA KVALITETE NAORUŽANJA I VOJNE OPREME«.
+
+Članak 26. mijenja se i glasi:
+
+»Tijekom procesa proizvodnje i remonta, zbog utvrđivanja sukladnosti s propisanim zahtjevima za NVO namijenjen za potrebe Oružanih snaga, ministar nadležan za poslove obrane ovlašten je proizvođačima uputiti i osobe koje nisu na službi u ministarstvu nadležnom za poslove obrane i Oružanim snagama.
+
+Proizvođači NVO-a obvezni su ministarstvu nadležnom za poslove obrane omogućiti pristup procesu proizvodnje, tehničko-tehnološkoj dokumentaciji te osigurati uvjete za provedbu procesa kontrole kvalitete.«.
+
+#### Članak 17.
+
+Članak 27. mijenja se i glasi:
+
+»Postupak osiguranja kvalitete i kontrole kvalitete NVO-a provodi se u skladu sa STANAG normom 4107, koja je usvojena kao hrvatska vojna norma.
+
+Osiguranje kvalitete i kontrola kvalitete s ugovornim zahtjevima za NVO obavlja se na temelju propisa o kakvoći proizvoda kojim se utvrđuju:
+
+1. tehnički podaci o sredstvima ili sustavima NVO-a,
+
+2. sadržaj sredstava ili sustava NVO-a,
+
+3. pripadajuća tehnička dokumentacija,
+
+4. zahtjevi kakvoće sredstava ili sustava NVO-a,
+
+5. metode ispitivanja i provjere propisanih karakteristika kakvoće,
+
+6. kriteriji za utvrđivanje i ocjenu kakvoće sredstava ili sustava NVO-a.
+
+Odredbe stavaka 1. i 2. ovoga članka provode se za potrebe Oružanih snaga ili na zahtjev kupca u skladu s odredbama ovoga Zakona i ugovora sklopljenih između proizvođača i kupca.
+
+Pravilnik o utvrđivanju kvalitete i kontrole kvalitete za NVO donosi ministar nadležan za poslove obrane.«
+
+#### Članak 18.
+
+Iza »članka 27. dodaju se naziv glave VI.a i članci 27.a i 27.b koji glase:
+
+### GLAVA VI.a — KODIFIKACIJA NAORUŽANJA I VOJNE OPREME
+
+#### Članak 27.a
+
+Postupak kodifikacije koji se odnosi na kodifikacijsku klauzulu NVO-a provodi se u skladu sa STANAG normom 4177, koja je usvojena kao hrvatska vojna norma.
+
+#### Članak 27.b
+
+Postupak kodifikacije koji se odnosi na identifikaciju i kodifikaciju prema NATO sustavu kodifikacije NVO-a provodi se u skladu sa STANAG normama 3150 i 3151, koje su usvojene kao hrvatske vojne norme.
+
+Pravilnik o kodifikaciji koji se odnosi na identifikaciju i kodifikaciju prema NATO sustavu kodifikacije te na implementaciju kodifikacijske klauzule NVO-a donosi ministar nadležan za poslove obrane.«.
+
+#### Članak 19.
+
+U članku 33. stavku 4. riječi: »u roku od 90 dana« zamjenjuju se riječima: »u roku od 60 dana«.
+
+#### Članak 20.
+
+Naziv glave IX. iznad članka 39. mijenja se i glasi: »Glava IX. PREKRŠAJNE ODREDBE«.
+
+#### Članak 21.
+
+U članku 39. stavak 1. mijenja se i glasi:
+
+»Novčanom kaznom od 20.000,00 kuna do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako, protivno odredbama ovoga Zakona:
+
+1. obavlja poslove uvoza i izvoza NVO-a (članak 3. stavak 1.),
+
+2. pokrene proizvodnju NVO-a za potrebe izvoza (članak 5. stavak 1.),
+
+3. obavlja poslove remonta NVO-a (članak 9.).«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Novčanom kaznom od 5.000,00 kuna do 50.000,00 kuna kaznit će se za prekršaj fizička osoba – obrtnik ako, protivno odredbama ovoga Zakona:
+
+1. obavlja poslove uvoza i izvoza NVO-a (članak 3. stavak 1.),
+
+2. pokrene proizvodnju NVO-a za potrebe izvoza (članak 5. stavak 1.),
+
+3. obavlja poslove remonta NVO-a (članak 9.).«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 22.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Naputak o načinu i uvjetima primjene »offset programa« (»Narodne novine«, br. 78/16.).
+
+#### Članak 23.
+
+Ugovori o nabavi naoružanja i vojne opreme (NVO) s inozemnim dobavljačem sklopljeni u skladu s člankom 21. Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme (»Narodne novine«, br. 33/02., 173/03. i 146/08.) ostaju na snazi za razdoblje za koje su sklopljeni.
+
+#### Članak 24.
+
+(1) Provedbeni propisi na temelju ovlasti iz članaka 6., 14., 17. i 18. ovoga Zakona donijet će se u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Provedbeni propisi doneseni na temelju ovlasti iz Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme (»Narodne novine«, br. 33/02., 173/03. i 146/08.) uskladit će se s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 25.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/153
+
+Zagreb, 8. veljače 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

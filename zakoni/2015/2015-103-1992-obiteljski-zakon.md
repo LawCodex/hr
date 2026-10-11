@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-09-28
+last_amended: 2023-12-27
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "103/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "103/15, 98/19, 156/23"
+amendments:
+  - "NN 98/2019 (1944) Zakon o izmjenama Obiteljskog zakona"
+  - "NN 156/2023 (2385) Zakon o izmjenama i dopunama Obiteljskog zakona"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/103/1992"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Obiteljski zakon
 
 > Izvor: Narodne novine, NN 103/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/103/1992).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2019, NN 156/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -6389,3 +6394,499 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Obiteljskog zakona (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1944*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA OBITELJSKOG ZAKONA
+
+Proglašavam Zakon o izmjenama Obiteljskog zakona, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/152
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA OBITELJSKOG ZAKONA**
+
+#### Članak 1.
+
+U Obiteljskom zakonu (»Narodne novine«, br. 103/15.) u članku 16. stavku 1. riječi: »uredu za poslove opće uprave« zamjenjuju se riječima: »upravnom tijelu županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na sklapanje braka (u daljnjem tekstu: nadležno upravno tijelo)«.
+
+U stavku 2. riječi: »Nadležni ured« zamjenjuju se riječima: »Nadležno upravno tijelo«.
+
+#### Članak 2.
+
+U članku 253. stavku 4. riječi: »ureda državne uprave« zamjenjuju se riječima: »upravnog tijela županije odnosno Grada Zagreba«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 3.
+
+Ministar nadležan za socijalnu skrb dužan je uskladiti Pravilnik o načinu vođenja očevidnika i spisa predmeta osoba pod skrbništvom, načinu popisa i opisa njihove imovine, podnošenju izvješća i polaganju računa skrbnika te sadržaju i obliku punomoći i anticipiranih naredbi (»Narodne novine«, br. 106/14.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/147
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Obiteljskog zakona (NN 156/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2385*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA OBITELJSKOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Obiteljskog zakona, koji je Hrvatski sabor donio na sjednici 15. prosinca 2023.
+
+Klasa: 011-02/23-02/129
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 20. prosinca 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA OBITELJSKOG ZAKONA**
+
+#### Članak 1.
+
+U Obiteljskom zakonu (»Narodne novine«, br. 103/15., 98/19., 47/20. i 49/23. – Odluka Ustavnog suda Republike Hrvatske) u članku 54. stavku 3. riječi: »su dužni« zamjenjuju se riječju: »mogu«.
+
+Stavci 4. i 5. brišu se.
+
+#### Članak 2.
+
+Naslov iznad članka 58. mijenja se i glasi: »Načini utvrđivanja majčinstva«.
+
+Članak 58. mijenja se i glasi:
+
+»Majčinstvo se može utvrditi:
+
+1. presumpcijom majčinstva
+
+2. priznanjem ili
+
+3. sudskom odlukom.«.
+
+#### Članak 3.
+
+Iza članka 58. dodaju se naslovi iznad članaka i članci 58.a, 58.b, 58.c, 58.d, 58.e i 58.f koji glase:
+
+*»Presumpcija majčinstva*
+
+#### Članak 58.a
+
+Djetetova majka jest žena koja ga je rodila.
+
+*Priznanje majčinstva i postupak priznanja*
+
+#### Članak 58.b
+
+(1) Majčinstvo se može priznati na zapisnik pred matičarom, Hrvatskim zavodom za socijalni rad ili sudom. Navedena tijela dužna su bez odgode dostaviti primjerak zapisnika matičaru nadležnom za upis djeteta u maticu rođenih.
+
+(2) Ako priznanje majčinstva ili pristanak na priznanje daje maloljetna osoba ili osoba lišena poslovne sposobnosti u dijelu koji se odnosi na osobna stanja, te osobe izjavu o priznanju majčinstva, odnosno pristanku na priznanje majčinstva daju pred Hrvatskim zavodom za socijalni rad nadležnim prema mjestu svoga prebivališta, odnosno boravišta.
+
+(3) Majčinstvo se može priznati i u oporuci.
+
+*Osoba koja priznaje majčinstvo*
+
+#### Članak 58.c
+
+(1) Majčinstvo može priznati:
+
+1. punoljetna osoba neovisno o svojoj poslovnoj sposobnosti
+
+2. maloljetna osoba koja je navršila šesnaest godina ako je sposobna shvatiti značenje i pravne posljedice priznanja i
+
+3. maloljetna osoba mlađa od šesnaest godina, uz suglasnost njezina zakonskog zastupnika.
+
+(2) Ako su zakonski zastupnici maloljetne osobe koja priznaje majčinstvo iz stavka 1. točke 3. ovoga članka roditelji, za priznanje majčinstva djeteta potrebna je suglasnost roditelja sukladno članku 100. ovoga Zakona.
+
+*Pristanak i prethodno mišljenje za priznanje majčinstva*
+
+#### Članak 58.d
+
+(1) Priznanje majčinstva upisat će se u maticu rođenih ako je Hrvatski zavod za socijalni rad nadležan prema mjestu djetetova rođenja dao prethodno mišljenje.
+
+(2) Hrvatski zavod za socijalni rad dužan je u roku od 15 dana od dana kad ga je to zatražio matičar dostaviti mišljenje iz stavka 1. ovoga članka.
+
+(3) Za upis priznanja majčinstva potreban je pristanak djeteta koje je navršilo četrnaest godina, a kojemu se priznaje majčinstvo.
+
+(4) Ministar nadležan za poslove socijalne skrbi pravilnikom će propisati sadržaj, oblik i način utvrđivanja prethodnog mišljenja iz stavka 1. ovoga članka.
+
+*Posebne odredbe o priznanju majčinstva*
+
+#### Članak 58.e
+
+(1) Priznanje majčinstva je neopozivo.
+
+(2) Majčinstvo se ne može priznati nakon djetetove smrti, osim ako to dijete ima potomstvo.
+
+*Postupanje matičara kad primi izjavu o priznanju majčinstva*
+
+#### Članak 58.f
+
+(1) Kad primi izjavu ili zapisnik o priznanju majčinstva, odnosno oporuku bez pristanka, suglasnosti i prethodnog mišljenja propisanih člancima 58.c i 58.d ovoga Zakona, matičar nadležan za upis djeteta u maticu rođenih dužan je zatražiti pristanak i suglasnosti koji su potrebni s obzirom na okolnosti pojedinog slučaja, kao i prethodno mišljenje.
+
+(2) Pozive kojima se traže pristanci i suglasnosti punoljetnih i poslovno sposobnih osoba matičar dostavlja sukladno pravilima o osobnoj dostavi. Rok za davanje pristanaka i suglasnosti je 15 dana od dana dostave poziva.
+
+(3) Pristanak i suglasnosti koji se traže od djeteta ili osobe lišene poslovne sposobnosti matičar traži posredstvom Hrvatskoga zavoda za socijalni rad nadležnog prema prebivalištu, odnosno boravištu osoba od kojih se pristanci traže.
+
+(4) U slučaju iz stavka 3. ovoga članka Hrvatski zavod za socijalni rad nadležan prema prebivalištu, odnosno boravištu osoba od kojih se pristanci traže dužan je u roku od 15 dana od dana kad ga je to zatražio matičar dostaviti pristanke.
+
+(5) Matičar će u roku od 30 dana od dana priznanja majčinstva osobu koja je priznala majčinstvo i njezine zakonske zastupnike ako ih ima obavijestiti jesu li pribavljeni propisani pristanci, odnosno suglasnosti.«.
+
+#### Članak 4.
+
+Članak 59. mijenja se i glasi:
+
+»(1) Ako majčinstvo nije utvrđeno presumpcijom majčinstva ili priznanjem, utvrđuje su u sudskom postupku.
+
+(2) Tužbu radi utvrđivanja majčinstva može podnijeti:
+
+1. dijete
+
+2. žena koja sebe smatra majkom djeteta ili
+
+3. Hrvatski zavod za socijalni rad.
+
+(3) Ako se majčinstvo djeteta, čija je moguća majka osoba lišena poslovne sposobnosti u dijelu koji se odnosi na osobna stanja, nije uspjelo utvrditi priznanjem, skrbnik majke, ovisno o okolnostima slučaja, dužan je pokrenuti postupak radi utvrđivanja majčinstva sudskom odlukom u roku od 30 dana od dana primitka obavijesti da nije pribavljen pristanak, odnosno od dana uskrate suglasnosti iz članaka 58.c i 58.d ovoga Zakona.
+
+(4) Ako osoba za koju se tvrdi da je majka djeteta nije živa, tužba radi utvrđivanja majčinstva podnosi se protiv njezinih nasljednika.
+
+(5) Rokovi za podnošenje tužbe radi utvrđivanja majčinstva propisani su odredbama članka 383. stavka 1., članka 385. stavka 1. i članaka 386. i 387. ovoga Zakona.«.
+
+#### Članak 5.
+
+U naslovu iznad članka 61. riječi: »i iznimke« brišu se.
+
+U članku 61. stavku 2. riječ: »smrću,« briše se.
+
+Stavci 3., 4. i 5. brišu se.
+
+#### Članak 6.
+
+Iza članka 61. dodaje se naslov iznad članka i članak 61.a koji glase:
+
+*»Iznimka od presumpcije bračnog očinstva*
+
+#### Članak 61.a
+
+(1) Muškarac koji sebe smatra ocem djeteta rođenog za vrijeme trajanja braka ili u razdoblju do tristo dana od prestanka braka razvodom ili poništajem može uz pristanak majke i majčina muža priznati dijete do upisa djeteta u maticu rođenih.
+
+(2) Muškarac koji sebe smatra ocem djeteta rođenog za vrijeme trajanja braka koji je sklopljen u razdoblju do tristo dana od prestanka ranijeg braka može uz pristanak majke i majčinog muža iz kasnijeg braka priznati dijete do upisa djeteta u maticu rođenih.
+
+(3) Na priznanje očinstva iz ovoga članka na odgovarajući se način primjenjuju odredbe ovoga Zakona o priznanju očinstva.«.
+
+#### Članak 7.
+
+U članku 84. stavak 4. mijenja se i glasi:
+
+»(4) Dijete ima pravo na ostvarivanje osobnih odnosa s roditeljima i drugim osobama iz članka 120. ovoga Zakona, kao i pravo na točnu informaciju o važnim okolnostima u vezi s roditeljima i tim osobama, sukladno odredbama ovoga Zakona.«.
+
+#### Članak 8.
+
+U članku 95. stavak 2. mijenja se i glasi:
+
+»(2) Roditelj koji stanuje s djetetom ima dužnost i odgovornost omogućivati i poticati ostvarivanje osobnih odnosa djeteta s drugim roditeljem, osim ako ostvarivanje osobnih odnosa djeteta s drugim roditeljem nije u interesu djeteta.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Roditelji su dužni omogućiti djetetu ostvarivanje osobnih odnosa s osobama iz članka 120. ovoga Zakona.«.
+
+#### Članak 9.
+
+U članku 98. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+#### Članak 10.
+
+U članku 108. stavak 3. mijenja se i glasi:
+
+»(3) Odluke iz stavka 1. ovoga članka koje su bitne za dijete mogu biti i druge odluke koje mogu znatno utjecati na život djeteta, kao što je ostvarivanje osobnih odnosa s osobama iz članka 120. ovoga Zakona, izvanredni medicinski postupci ili liječenje te izbor škole za koje odluke se smatra da je drugi roditelj dao svoju suglasnost.«.
+
+#### Članak 11.
+
+U članku 119. stavku 2. iza riječi: »tim roditeljem« točka se zamjenjuje zarezom i dodaju se riječi: »osim ako ostvarivanje osobnih odnosa djeteta s drugim roditeljem nije u interesu djeteta.«.
+
+#### Članak 12.
+
+U članku 124. stavak 2. mijenja se i glasi:
+
+»(2) U odluci kojom određuje mjeru iz stavka 1. ovoga članka sud određuje vrijeme te mjesto ostvarivanja osobnih odnosa djeteta s roditeljem koje mora biti prikladno za dijete, a može se odrediti i nazočnost drugog roditelja ili druge punoljetne osobe iz članka 120. ovoga Zakona.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) U iznimno opravdanim okolnostima mjera nadzora nad ostvarivanjem osobnih odnosa djeteta s roditeljem iz stavka 3. ovoga članka može se produžiti do šest mjeseci, a ako je to od osobite važnosti za zaštitu prava i interesa djeteta do dodatnih šest mjeseci.«.
+
+U stavku 5. riječ: »pravomoćne« zamjenjuje se riječju: »ovršne«.
+
+#### Članak 13.
+
+U članku 130. stavak 4. mijenja se i glasi:
+
+»(4) U postupku određivanja mjera za zaštitu djeteta može biti saslušan udomitelj koji se dulje vrijeme skrbi o djetetu, kao i druge osobe koje dulje vrijeme žive s djetetom i skrbe o njemu.«.
+
+#### Članak 14.
+
+U članku 132. stavku 1. iza riječi: »izrabljivanje djeteta« točka se zamjenjuje zarezom i dodaju se riječi: »izloženost djeteta obiteljskom nasilju.«.
+
+#### Članak 15.
+
+Članak 160. mijenja se i glasi:
+
+»Svakodnevna skrb obuhvaća uobičajenu njegu i skrb o djetetu, brigu o prehrani, zdravlju, sigurnosti, odgoju, obrazovanju i psihosocijalnim potrebama djeteta.«.
+
+#### Članak 16.
+
+U članku 161. stavku 4. riječi: »i drugih članova djetetove obitelji ili djetetu bliskih osoba« zamjenjuju se riječima: »i drugih osoba iz članka 120. ovoga Zakona«.
+
+#### Članak 17.
+
+U članku 168. stavku 4. riječi: »bliskim osobama« zamjenjuju se riječima: »osobama iz članka 120. ovoga Zakona«.
+
+#### Članak 18.
+
+U članku 171. točka 5. briše se.
+
+Dosadašnja točka 6. postaje točka 5.
+
+#### Članak 19.
+
+U članku 172. stavak 2. mijenja se i glasi:
+
+»(2) Hrvatski zavod za socijalni rad je uz prijedlog za lišenje prava na roditeljsku skrb dužan sudu dostaviti izvješća i procjene na kojima temelji svoj zahtjev.«.
+
+#### Članak 20.
+
+U članku 190. stavku 1. točki 1. riječi: »ili svojim ponašanjem pokazuje nezainteresiranost za dijete« brišu se.
+
+#### Članak 21.
+
+U članku 213. stavku 1. točki 5. i stavku 3. iza riječi: »rođenih« dodaju se riječi: »i evidenciju o državljanstvu«.
+
+#### Članak 22.
+
+U članku 214. stavku 3. iza riječi: »rođenih« dodaju se riječi: »i evidenciju o državljanstvu«.
+
+#### Članak 23.
+
+Naslov iznad članka 215. mijenja se i glasi: »Upis osobnih podataka na temelju posvojenja u maticu rođenih i evidenciju o državljanstvu«.
+
+U članku 215. stavku 1., stavku 2. i stavku 4. iza riječi: »rođenih« dodaju se riječi: »i evidenciju o državljanstvu«.
+
+#### Članak 24.
+
+U članku 234. stavku 1. riječi: »o kojima je dužna skrbiti se« brišu se.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, ako je to od osobite važnosti za zaštitu prava i interesa punoljetne osobe, sud može potpuno lišiti poslovne sposobnosti osobu koja nije sposobna ostvariti smisleni kontakt s drugom osobom i izraziti svoju volju.«.
+
+U stavku 4. iza riječi: »sposobnosti« dodaju se riječi: »osobe iz stavka 1. ovoga članka«.
+
+#### Članak 25.
+
+U članku 258. točkama 1. i 2. iza riječi: »priznanje« dodaju se riječi: »majčinstva i«.
+
+Točke 3., 4. i 5. brišu se.
+
+Dosadašnje točke 6., 7. i 8. postaju točke 3., 4. i 5.
+
+#### Članak 26.
+
+U članku 320. stavak 3. briše se.
+
+#### Članak 27.
+
+U članku 323. stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, ako Hrvatski zavod za socijalni rad ima saznanja o postojanju obiteljskog nasilja ili ako procijeni da u okolnostima konkretnog slučaja zajednički sastanak ne bi bio svrhovit ili ako to jedna ili obje stranke iz opravdanih razloga zahtijevaju, zakazat će se i provesti odvojeni razgovori sa strankama.«.
+
+#### Članak 28.
+
+U članku 324. stavku 1. točka 3. briše se.
+
+Dosadašnje točke 4. i 5. postaju točke 3. i 4.
+
+U dosadašnjoj točki 6., koja postaje točka 5., zarez i riječi: »te ocjena o mogućnosti ravnopravnog sudjelovanja stranaka u postupku obiteljske medijacije« brišu se.
+
+#### Članak 29.
+
+U članku 325. stavku 1. točka 6. briše se.
+
+Dosadašnja točka 7. postaje točka 6.
+
+U stavku 2. riječi: »točaka 1., 4., 5. i 6.« zamjenjuju se riječima: »točaka 1., 4. i 5.«.
+
+#### Članak 30.
+
+U članku 332. stavku 1. točka 1. mijenja se i glasi:
+
+»1. u slučajevima postojanja tvrdnji o obiteljskom nasilju«.
+
+#### Članak 31.
+
+U članku 346. iza riječi: »postupak« dodaje se zarez i riječi: »zakona kojim se uređuje izvanparnični postupak«.
+
+#### Članak 32.
+
+U članku 360. stavak 3. briše se.
+
+Dosadašnji stavci 4. i 5. postaju stavci 3. i 4.
+
+U dosadašnjem stavku 6., koji postaje stavak 5., riječi: »iz stavka 5.« zamjenjuju se riječima: »iz stavka 4.«.
+
+Dosadašnji stavak 7. postaje stavak 6.
+
+#### Članak 33.
+
+U članku 379. stavcima 1. i 3. riječi: »i dokaz o sudjelovanju na prvom sastanku obiteljske medijacije« brišu se.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Smatrat će se da je tužba radi razvoda braka povučena ako izvješće o obveznom savjetovanju ne bude podneseno u roku od osam dana, a ako ponovo bude podnesena tužba radi razvoda braka bez izvješća o obveznom savjetovanju, sud će odbaciti tužbu radi razvoda braka.«.
+
+Stavak 7. briše se.
+
+#### Članak 34.
+
+Članak 392. mijenja se i glasi:
+
+»Protiv drugostupanjske presude o utvrđivanju majčinstva ili očinstva dopuštena je revizija prema odredbama zakona kojim se uređuje parnični postupak.«.
+
+#### Članak 35.
+
+U članku 416. stavku 1. iza točke 3. briše se točka i dodaje točka 4. koja glasi:
+
+»4. uzeti u obzir postojanje obiteljskog nasilja.«.
+
+U stavku 2. točki 1. riječi: »ili spremnost na sudjelovanje u obiteljskoj medijaciji« brišu se.
+
+#### Članak 36.
+
+U članku 417. stavku 3. točki 1. riječi: »trideset tisuća kuna« zamjenjuju se riječima: »3980,00 eura«.
+
+#### Članak 37.
+
+U članku 418. stavku 1. riječi: »ako posumnja« zamjenjuju se riječima: »ako postoji opasnost«.
+
+#### Članak 38.
+
+Članak 422. mijenja se i glasi:
+
+»Protiv drugostupanjske odluke o tome s kojim će roditeljem dijete stanovati, o roditeljskoj skrbi, o ostvarivanju osobnih odnosa djeteta s drugim roditeljem i o uzdržavanju djeteta dopuštena je revizija prema odredbama zakona kojim se uređuje parnični postupak.«.
+
+#### Članak 39.
+
+Članak 428. mijenja se i glasi:
+
+»Protiv drugostupanjske odluke o uzdržavanju djeteta dopuštena je revizija prema odredbama zakona kojim se uređuje parnični postupak.«.
+
+#### Članak 40.
+
+Članak 447. mijenja se i glasi:
+
+»Protiv rješenja drugostupanjskog suda kojim je postupak završen dopuštena je revizija prema odredbama zakona kojim se uređuje parnični postupak.«.
+
+#### Članak 41.
+
+U članku 478. stavku 1. dodaje se nova točka 1. koja glasi:
+
+»1. neslaganju roditelja i djeteta o upravljanju sredstvima koja su stečena djetetovim radom sukladno članku 85. stavku 2. ovoga Zakona«.
+
+Dosadašnje točke 1. do 6. postaju točke 2. do 7.
+
+#### Članak 42.
+
+U članku 493. stavku 4. riječi: »koje su bliske s djetetom« zamjenjuju se riječima: »iz članka 120. ovoga Zakona.«.
+
+#### Članak 43.
+
+Naslov iznad članka 501. mijenja se i glasi: »Posebne odredbe«.
+
+U članku 501. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Sud će po službenoj dužnosti upisati u očevidnik osoba lišenih poslovne sposobnosti podatke iz pravomoćnog rješenja o lišenju poslovne sposobnost i pravomoćnog rješenja o vraćanju poslovne sposobnosti, odnosno o pravnim učincima navedenih rješenja ako oni nastupaju prije pravomoćnosti, kao i promjenu podataka upisanih u očevidnik.
+
+(4) Ministar nadležan za poslove pravosuđa pravilnikom će propisati sadržaj, oblik i način vođenja očevidnika iz stavka 3. ovoga članka.«.
+
+#### Članak 44.
+
+U članku 514. stavku 1. točki 1. riječi: »trideset tisuća kuna« zamjenjuju se riječima: »3980,00 eura«.
+
+#### Članak 45.
+
+U članku 523. stavku 1. točki 1. riječi: »trideset tisuća kuna« zamjenjuju se riječima: »3980,00 eura«.
+
+#### Članak 46.
+
+U cijelom tekstu Obiteljskog zakona (»Narodne novine«, br. 103/15., 98/19., 47/20. i 49/23. – Odluka Ustavnog suda Republike Hrvatske) riječi: »centar za socijalnu skrb« u određenom broju i padežu zamjenjuju se riječima: »Hrvatski zavod za socijalni rad« u odgovarajućem broju i padežu.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 47.
+
+(1) Ministar nadležan za poslove socijalne skrbi će u roku od 60 dana od dana stupanja na snagu ovoga Zakona s odredbama ovoga Zakona uskladiti sljedeće pravilnike:
+
+1. Pravilnik o sadržaju i načinu vođenja Registra obiteljskih medijatora, uvjetima stručne osposobljenosti obiteljskih medijatora, prostornim uvjetima i načinu provođenja obiteljske medijacije (»Narodne novine«, br. 29/21.)
+
+2. Pravilnik o obveznom savjetovanju (»Narodne novine«, br. 123/15.)
+
+3. Pravilnik o načinu pribavljanja mišljenja djeteta (»Narodne novine«, br. 123/15.).
+
+(2) Ministar nadležan za poslove socijalne skrbi će u roku od 90 dana od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 58.d stavka 4., koji je dodan člankom 3. ovoga Zakona.
+
+(3) Ministar nadležan za poslove pravosuđa će u roku od 90 dana od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 501. stavka 4., koji je dodan člankom 43. ovoga Zakona.
+
+#### Članak 48.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 31. prosinca 2023.
+
+Klasa: 022-02/23-01/108
+
+Zagreb, 15. prosinca 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

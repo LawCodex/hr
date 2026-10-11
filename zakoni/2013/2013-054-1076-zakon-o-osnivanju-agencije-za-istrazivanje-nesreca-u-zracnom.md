@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-05-07
+last_amended: 2018-10-31
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "54/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "54/13, 96/18"
+amendments:
+  - "NN 96/2018 (1854) Zakon o izmjenama i dopunama Zakona o osnivanju agencije za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1076"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o osnivanju Agencije za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu
 
 > Izvor: Narodne novine, NN 54/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1076).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 96/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -358,3 +362,127 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o osnivanju agencije za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu (NN 96/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/96/1854*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OSNIVANJU AGENCIJE ZA ISTRAŽIVANJE NESREĆA U ZRAČNOM, POMORSKOM I ŽELJEZNIČKOM PROMETU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o osnivanju Agencije za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu, koji je Hrvatski sabor donio na sjednici 19. listopada 2018.
+
+Klasa: 011-01/18-01/118  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 25. listopada 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OSNIVANJU AGENCIJE ZA ISTRAŽIVANJE NESREĆA U ZRAČNOM, POMORSKOM I ŽELJEZNIČKOM PROMETU**
+
+### Članak 1.
+
+U Zakonu o osnivanju Agencije za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu (»Narodne novine«, br. 54/13.) članak 2. mijenja se i glasi:
+
+»(1) Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:
+
+1) Direktiva 2009/18/EZ Europskog parlamenta i Vijeća od 23. travnja 2009. o određivanju temeljnih načela o istraživanju nesreća u području pomorskog prometa i o izmjeni Direktive Vijeća 1999/35/EZ i Direktive 2002/59/EZ Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 131, 28. 5. 2009.)
+
+2) Direktiva (EU) 2016/798 Europskog parlamenta i Vijeća od 11. svibnja 2016. o sigurnosti željeznica (preinaka) (Tekst značajan za EGP) (SL L 138, 26. 5. 2016.).
+
+(2) Ovim Zakonom osigurava se provedba Uredbe (EU) br. 996/2010 Europskog parlamenta i Vijeća od 20. listopada 2010. o istragama i sprečavanju nesreća i nezgoda u civilnom zrakoplovstvu i stavljanju izvan snage Direktive 94/56/EZ (Tekst značajan za EGP) (SL L 295, 12. 11. 2010.), kako je posljednji put izmijenjena Uredbom (EU) br. 376/2014 Europskog parlamenta i Vijeća od 3. travnja 2014. o izvješćivanju, analizi i naknadnom postupanju u vezi s događajima u civilnom zrakoplovstvu, o izmjeni Uredbe (EU) br. 996/2010 Europskog parlamenta i Vijeća i stavljanju izvan snage Direktive 2003/42/EZ Europskog parlamenta i Vijeća i uredbi Komisije (EZ) br. 1321/2007 i (EZ) br. 1330/2007 (Tekst značajan za EGP) (SL L 122, 24. 4. 2014.).«.
+
+### Članak 2.
+
+U članku 5. ispred riječi: »Agencija« stavlja se oznaka stavka koja glasi: »(1)«. Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Zabranjeno je sprječavati i ometati službene radnje koje Agencija i njezini istražitelji poduzimaju u skladu s ovlastima koje su im dane ovim Zakonom i drugim propisima kojima se uređuje istraživanje nesreća u zračnom, pomorskom i željezničkom prometu.
+
+(3) Zabranjen je svaki oblik utjecaja na neovisnost stručnog rada Agencije i njezinih istražitelja.«.
+
+### Članak 3.
+
+U članku 6. stavku 1. podstavak 3. mijenja se i glasi:
+
+» – istraživanja svake ozbiljne nesreće u željezničkom sustavu i moguća istraživanja i onih nesreća i incidenata koji su pod neznatno drukčijim uvjetima mogli dovesti do ozbiljnih nesreća, uključujući tehničke kvarove strukturnih podsustava ili sastavnih dijelova interoperabilnosti željezničkog sustava.«.
+
+U stavku 4. riječi: »Europska agencija za željeznice«, u određenom padežu, zamjenjuju se riječima: »Agencija Europske unije za željeznice«, u odgovarajućem padežu.
+
+### Članak 4.
+
+U članku 10. stavci 6. i 7. mijenjaju se i glase:
+
+»(6) Glavni istražitelji i drugi istražitelji u Agenciji moraju imati službenu značku i službenu iskaznicu kojom se dokazuje njihovo službeno svojstvo, identitet i ovlasti.
+
+(7) Ministar donosi pravilnik o službenoj znački i službenoj iskaznici istražitelja u Agenciji za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu kojim propisuje oblik i sadržaj službene značke i iskaznice te način i postupak izdavanja, vraćanja, oduzimanja i vođenja evidencije o službenoj znački i iskaznici istražitelja Agencije.«.
+
+### Članak 5.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Agencija može imati stalna i povremena stručna savjetodavna tijela u svakom od područja istraživanja iz nadležnosti Agencije, čiji članovi imaju pravo na naknadu za svoj rad.
+
+(2) Sastav, način osnivanja, djelokrug te način određivanja visine naknade za članove tijela iz stavka 1. ovoga članka utvrđuju se Statutom Agencije.
+
+(3) Iznimno od stavka 1. ovoga članka, pravo na naknadu za svoj rad nema član stalnog i povremenog stručnog savjetodavnog tijela koji je zaposlenik Agencije ili druga osoba u čijem je opisu poslova obavljanje poslova iz djelokruga Agencije.«.
+
+### Članak 6.
+
+U članku 13. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+### Članak 7.
+
+Iza članka 21. dodaju se članci 21.a i 21.b koji glase:
+
+»Članak 21.a
+
+(1) Novčanom kaznom u iznosu od 5000,00 do 10.000,00 kuna kaznit će se pravna osoba koja spriječi ili omete službenu radnju koju Agencija i njezini istražitelji poduzimaju u skladu s ovlastima koje su im dane ovim Zakonom i drugim propisima kojima se uređuje istraživanje nesreća u zračnom, pomorskom i željezničkom prometu (članak 5. stavak 2.).
+
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 2000,00 do 5000,00 kuna.
+
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom od 5000,00 do 10.000,00 kuna.
+
+(4) Za prekršaje iz stavka 1. ovoga članka kaznit će se fizička osoba novčanom kaznom od 2000,00 do 5000,00 kuna.
+
+### Članak 21.b
+
+Agencija ima status ovlaštenog tužitelja u postupcima protiv počinitelja prekršaja propisanih ovim Zakonom.«.
+
+### Članak 8.
+
+Upravno vijeće Agencije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijet će novi Statut Agencije usklađen s odredbama ovoga Zakona.
+
+### Članak 9.
+
+(1) Ministar će pravilnik iz članka 4. ovoga Zakona donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Do stupanja na snagu pravilnika iz članka 4. ovoga Zakona ostaje na snazi Pravilnik o službenoj iskaznici glavnih istražitelja u Agenciji za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu (»Narodne novine«, br. 93/14.).
+
+### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/98
+
+Zagreb, 19. listopada 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

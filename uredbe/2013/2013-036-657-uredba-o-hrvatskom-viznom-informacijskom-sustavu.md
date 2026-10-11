@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2013-03-27
+last_amended: 2017-10-27
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "36/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "36/13, 105/17"
+amendments:
+  - "NN 105/2017 (2403) Uredba o izmjeni Uredbe o Hrvatskom viznom informacijskom sustavu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/36/657"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o Hrvatskom viznom informacijskom sustavu
 
 > Izvor: Narodne novine, NN 36/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/36/657).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 105/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -769,3 +773,38 @@ Zagreb, 21. ožujka 2013.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjeni Uredbe o Hrvatskom viznom informacijskom sustavu (NN 105/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/105/2403*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 230. stavka 1. Zakona o strancima (»Narodne novine«, br. 130/11, 74/13 i 69/17), Vlada Republike Hrvatske je na sjednici održanoj 26. listopada 2017. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O HRVATSKOM VIZNOM INFORMACIJSKOM SUSTAVU**
+
+### Članak 1.
+
+U Uredbi o Hrvatskom viznom informacijskom sustavu (»Narodne novine«, broj 36/13), u članku 21. stavak 3. mijenja se i glasi:
+
+»(3) Ovlašteni službenici ustrojstvenih jedinica Uprave za granicu Ministarstva unutarnjih poslova imaju pristup zbirkama podataka viznih tijela nadležnih za izdavanje vize iz stavka 1. ovoga članka u svrhu odlučivanja o opravdanosti zahtjeva za izdavanje vize na granici i praćenja postupanja na graničnim prijelazima u skladu s ovom Uredbom.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-03/76
+
+Urbroj: 50301-23/21-17-2
+
+Zagreb, 26. listopada 2017.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

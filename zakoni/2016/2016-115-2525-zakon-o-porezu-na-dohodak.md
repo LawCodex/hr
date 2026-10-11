@@ -6,11 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2016-12-09
+last_amended: 2024-12-24
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "115/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23, 152/24"
+amendments:
+  - "NN 106/2018 (2062) Zakon o izmjenama i dopunama Zakona o porezu na dohodak"
+  - "NN 121/2019 (2385) Zakon o izmjenama i dopunama Zakona o porezu na dohodak"
+  - "NN 32/2020 (692) Zakon o izmjeni i dopunama Zakona o porezu na dohodak"
+  - "NN 138/2020 (2625) Zakon o izmjenama i dopunama Zakona o porezu na dohodak"
+  - "NN 151/2022 (2337) Zakon o izmjenama i dopunama Zakona o porezu na dohodak"
+  - "NN 114/2023 (1609) Zakon o izmjenama i dopunama Zakona o porezu na dohodak"
+  - "NN 152/2024 (2505) Zakon o izmjenama i dopunama Zakona o porezu na dohodak"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2525"
 retrieved: 2026-10-12
 ---
@@ -19,11 +27,11 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 115/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2525).
 >
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 106/2018, NN 121/2019, NN 32/2020, NN 138/2020, NN 151/2022, NN 114/2023, NN 152/2024.
+>
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
 HRVATSKI SABOR
-
-2525
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
@@ -322,110 +330,94 @@ Godišnjim dohotkom smatra se ukupan dohodak od nesamostalnog rada, dohodak od s
 (4) Rezident može uvećati osnovni osobni odbitak iz stavka 2. ovoga članka u visini:
 
 <table>
-
 <tr>
 <td>R.<br>br.</td>
 <td>Osnova za uvećanje osnovnog osobnog odbitka</td>
 <td>Koeficijent</td>
 <td>Mjesečni iznos<br> (u kunama i lipama)</td>
 </tr>
-
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>Uzdržavani članovi uže obitelji</td>
 <td>0,7</td>
 <td>1.750,00</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>Prvo uzdržavano dijete</td>
 <td>0,7</td>
 <td>1.750,00</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>Drugo uzdržavano dijete</td>
 <td>1,0</td>
 <td>2.500,00</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>Treće uzdržavano dijete</td>
 <td>1,4</td>
 <td>3.500,00</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>Četvrto uzdržavano dijete</td>
 <td>1,9</td>
 <td>4.750,00</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>Peto uzdržavano dijete</td>
 <td>2,5</td>
 <td>6.250,00</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>Šesto uzdržavano dijete</td>
 <td>3,2</td>
 <td>8.000,00</td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td>Sedmo uzdržavano dijete</td>
 <td>4,0</td>
 <td>10.000,00</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td>Osmo uzdržavano dijete</td>
 <td>4,9</td>
 <td>12.250,00</td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td>Deveto uzdržavano dijete</td>
 <td>5,9</td>
 <td>14.750,00</td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td colspan="3">Za svako daljnje uzdržavano dijete koeficijent osnovnoga osobnog odbitka progresivno se uvećava se za 1,1 … više u odnosu prema koeficijentu za prethodno dijete</td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td>Invalidnost poreznog obveznika, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta</td>
 <td>0,4</td>
 <td>1.000,00</td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td>Invalidnost utvrđena po jednoj osnovi 100% i/ili korištenje, na temelju posebnih propisa, prava na doplatak za pomoć i njegu poreznog obveznika odnosno prava na osobnu invalidninu, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta. Korištenje uvećanja osnovnog osobnog odbitka po ovoj osnovi isključuje korištenje uvećanja osnovnog osobnog odbitka iz r. br. 12.</td>
 <td>1,5</td>
 <td>3.750,00</td>
 </tr>
-
 </table>
 
 (5) Djecom se u smislu stavka 4. ovoga članka smatraju djeca koju roditelji, posvojitelji, udomitelji i skrbnici uzdržavaju. Djecom se smatraju i djeca nakon završetka redovnog školovanja do prvog zapošljavanja.
@@ -1834,3 +1826,1626 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 106/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/106/2062*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA  
+I DOPUNAMA ZAKONA O POREZU NA DOHODAK
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dohodak, koji je Hrvatski sabor donio na sjednici 21. studenoga 2018.
+
+Klasa: 011-01/18-01/139  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 26. studenoga 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK**
+
+#### Članak 1.
+
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16.) u članku 5. stavku 1. iza riječi: »kapitala« briše se zarez i riječ: »osiguranja«.
+
+U stavku 2. točki 4. iza riječi: »kapitala« dodaju se riječi: »i/ili«.
+
+Točka 5. briše se.
+
+Dosadašnja točka 6. postaje točka 5.
+
+#### Članak 2.
+
+U članku 6. stavku 1. iza riječi: »kapitala« briše se zarez i riječi: »dohodak od osiguranja«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Po osnovi primitaka koje ostvare fizičke osobe – nerezidenti u svojstvu izvođača (umjetnika, zabavljača, športaša) ne postoji obveza obračuna, obustave i uplate predujma poreza na dohodak odnosno poreza na dohodak kada se za njihove nastupe prema ugovoru s inozemnom osobom koja nije fizička osoba plaća naknada toj inozemnoj osobi te se na iste naknade (plaćanja), sukladno propisima o oporezivanju dobiti, plaća porez po odbitku.«.
+
+#### Članak 3.
+
+U članku 8. stavku 1. točki 4. iza riječi: »operativne zahvate, liječenja, nabavu lijekova i ortopedskih pomagala« dodaju se riječi: »te troškove prijevoza i smještaja u zdravstvene ustanove«, a riječ: »osnovnim« zamjenjuje se riječju: »obveznim«.
+
+U stavku 2. točki 8. iza riječi: »fizičke osobe« brišu se riječi: »i/ili«.
+
+U točki 9. iza riječi: »ovoga Zakona« briše se točka i dodaju točke 10. i 11. koje glase:
+
+»10. udžbenici, radne bilježnice i bilježnice koje jedinice lokalne i područne (regionalne) samouprave daju učenicima osnovnih i srednjih škola na redovitom školovanju odnosno novčane naknade koje isplaćuju za te svrhe na temelju svojih općih akata i za koje su sredstva planirana u proračunima tih jedinica i/ili
+
+11. formalni i neformalni programi obrazovanja nezaposlenih osoba i drugih socijalno ugroženih skupina koje bez naplate organiziraju pravne i/ili fizičke osobe, a koji se financiraju iz državnog proračuna i/ili proračuna lokalne i područne (regionalne) samouprave i/ili iz fondova i programa Europske unije i drugih međunarodnih fondova.«.
+
+U stavku 3. iza riječi: »mirovinskog osiguranja« briše se zarez i riječi: »osim ako su uplaćene premije bile porezno priznati izdatak«.
+
+#### Članak 4.
+
+U članku 11. stavku 8. na kraju stavka dodaje se rečenica koja glasi:
+
+»Primitak se ne utvrđuje po osnovi otpisanih potraživanja koja su potvrđena u skladu s posebnim propisom o stečaju potrošača i posebnim propisom o postupku izvanredne uprave u trgovačkim društvima od sistemskog značaja.«.
+
+#### Članak 5.
+
+U članku 12. stavak 4. mijenja se i glasi:
+
+»(4) Konačnim dohotkom iz stavka 2. točke 2. ovoga članka smatra se dohodak koji ima izvor u primicima od imovine i imovinskih prava i kapitala te drugim primicima koji se smatraju konačnim.«.
+
+#### Članak 6.
+
+U članku 14. stavku 5. iza riječi: »roditelji,« dodaju se riječi: »maćehe odnosno očusi,«.
+
+U stavku 6. iza riječi: »roditelji poreznog obveznika,« dodaju se riječi: »maćehe odnosno očusi koje punoljetno pastorče uzdržava,«.
+
+#### Članak 7.
+
+U članku 17. stavku 2. točki 8. iza riječi: »porez na dohodak« umjesto točke stavlja se zarez i dodaju točke 9., 10. i 11. koje glase:
+
+»9. odštete od osiguranja isplaćene zbog teške ozljede i priznate invalidnosti
+
+10. stipendije, nagrade za izvrsnost učenika i studenata isplaćene iz proračuna i bespovratna sredstva koja se isplaćuju iz proračuna, fondova i programa Europske unije i drugih međunarodnih fondova i programa uređenih posebnim propisima i međunarodnim sporazumima, u svrhu obrazovanja i stručnog usavršavanja
+
+11. potpore djetetu za školovanje do 15. godine života odnosno do završetka osnovnoškolskog obrazovanja, koje poslodavac isplaćuje djetetu umrlog radnika ili djetetu bivšeg radnika kod kojeg je nastupio potpuni gubitak radne sposobnosti, uz uvjet da bivši radnik ne ostvaruje primitke iz članka 21. ovoga Zakona.«.
+
+#### Članak 8.
+
+U članku 19. stavku 1. riječi: »do visine 210.000,00 kuna« zamjenjuju se riječima: »do visine 360.000,00 kuna«, a riječi: »od 210.000,00 kuna« zamjenjuju se riječima: »od 360.000,00 kuna«.
+
+#### Članak 9.
+
+U članku 21. stavku 3. iza riječi: »odobravanju kredita« zarez i riječi: »dodjela ili opcijska kupnja vlastitih dionica po povoljnijim uvjetima« brišu se, a riječi: »kamate od 3%« zamjenjuju se riječima: »kamate od 2%«.
+
+U stavku 4. iza točke 2. dodaje se točka 3. koja glasi:
+
+»3. primici u naravi po osnovi dodjele ili opcijske kupnje vlastitih dionica po povoljnijim uvjetima koje poslodavci i isplatitelji primitka odnosno plaće iz stavaka 1. i 2. ovoga članka daju radnicima i fizičkim osobama koje ostvaruju primitke iz stavaka 1. i 2. ovoga članka.«.
+
+U stavku 5. iza riječi: »Zakona« umjesto točke stavlja se zarez i dodaju riječi koje glase: »osim primitaka iz stavka 4. točke 3. ovoga članka koji se smatraju dohotkom od kapitala iz članka 68. stavka 2. ovoga Zakona.«.
+
+#### Članak 10.
+
+U članku 24. stavku 3. riječi: »do visine 17.500,00 kuna« zamjenjuju se riječima: »do visine 30.000,00 kuna«, a riječi: »iznad 17.500,00 kuna« zamjenjuju se riječima: »iznad 30.000,00 kuna«.
+
+#### Članak 11.
+
+U članku 36. stavku 1. riječi: »pisani zahtjev« zamjenjuju se riječima: »pisanu izjavu«.
+
+U stavku 2. riječi: »Pisani zahtjev iz stavka 1. ovoga članka kojim se na vlastiti zahtjev« zamjenjuju se riječima: »Pisana izjava iz stavka 1. ovoga članka kojom se«.
+
+U stavku 3. riječi: »podnesenog zahtjeva« zamjenjuju se riječima: »pisane izjave«.
+
+U stavku 4. riječi: »pisanog zahtjeva« zamjenjuju se riječima: »pisane izjave«.
+
+#### Članak 12.
+
+U članku 39. stavku 2. točki 4. iza riječi: »ovoga Zakona« briše se riječ: »i« i stavlja točka.
+
+Točka 5. briše se.
+
+#### Članak 13.
+
+Članak 45. mijenja se i glasi:
+
+»Obveznicima poreza na dohodak koji obavljaju samostalne djelatnosti iz članka 29. ovoga Zakona dohodak od samostalne djelatnosti može se u poreznom razdoblju dodatno umanjiti po osnovi izdataka za istraživanje i razvoj u skladu s posebnim propisom kojim se uređuju državne potpore za istraživačko-razvojne projekte.«.
+
+#### Članak 14.
+
+U članku 46. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Godišnji porez na dohodak utvrđuje se prema poreznoj osnovici iz članka 18. ovoga Zakona te se tako utvrđen godišnji porez umanjuje za 50% razmjernog dijela porezne obveze koja se odnosi na mirovinu ili za 50% razmjernog dijela porezne obveze koja se odnosi na ostali dohodak od nesamostalnog rada ako porezni obveznik ima prebivalište i boravi na području jedinica lokalne samouprave razvrstanih u I. skupinu po stupnju razvijenosti prema posebnom propisu o regionalnom razvoju Republike Hrvatske i/ili na području Grada Vukovara utvrđenog prema posebnom propisu o obnovi i razvoju Grada Vukovara.
+
+(2) Od utvrđenog i umanjenog godišnjeg poreza na dohodak, sukladno stavku 1. ovoga članka, odbijaju se iznosi plaćenog predujma poreza po svim iskazanim dohocima prema članku 13. ovoga Zakona te se utvrđuje razlika za uplatu ili povrat poreza.«.
+
+#### Članak 15.
+
+U članku 49. stavku 1. točka 3. briše se.
+
+Dosadašnja točka 4. postaje točka 3.
+
+U dosadašnjoj točki 5., koja postaje točka 4., iza riječi: »ovoga Zakona i« dodaju se riječi: »drugi dohodak po osnovi privremenih odnosno povremenih sezonskih poslova u poljoprivredi prema članku 76.a ovoga Zakona te«.
+
+Dosadašnja točka 6. postaje točka 5.
+
+#### Članak 16.
+
+U članku 55. stavku 1. riječi: »i osiguranja« brišu se.
+
+#### Članak 17.
+
+U članku 57. iza stavka 2. dodaju se novi stavci 3., 4. i 5. koji glase:
+
+»(3) Za slučaj iz stavka 2. ovoga članka, predstavničko tijelo jedinice lokalne samouprave obvezno je donijeti odluku kojom će propisati visine paušalnog poreza po krevetu odnosno po smještajnoj jedinici u kampu, a koje ne mogu biti manje od 150,00 kuna niti veće od 1500,00 kuna.
+
+(4) Odluka predstavničkog tijela jedinice lokalne samouprave iz stavka 3. ovoga članka može se mijenjati najkasnije do 15. prosinca tekuće godine, a primjenjuje se od 1. siječnja sljedeće godine do donošenja nove odluke kojom će se propisati visina paušalnog poreza po krevetu odnosno po smještajnoj jedinici u kampu.
+
+(5) Jedinice lokalne samouprave dužne su odluku svog predstavničkog tijela iz stavka 3. ovoga članka dostaviti Ministarstvu financija, Poreznoj upravi u roku od osam dana od dana njezina donošenja radi objave na mrežnim stranicama Porezne uprave.«.
+
+Dosadašnji stavak 3. postaje stavak 6.
+
+U dosadašnjim stavcima 4. i 5., koji postaju stavci 7. i 8., riječi: »stavka 3.« zamjenjuju se riječima: »stavka 6.«.
+
+#### Članak 18.
+
+Članak 68. mijenja se i glasi:
+
+»(1) Dohotkom od kapitala iz članka 64. stavka 1. ovoga Zakona smatraju se i primici u naravi po osnovi udjela u dobiti članova uprave trgovačkih društava, a koje ostvaruju putem dodjele ili opcijske kupnje vlastitih dionica.
+
+(2) Dohotkom od kapitala iz članka 64. stavka 1. ovoga Zakona smatraju se i primici u naravi po osnovi udjela u dobiti koji se ostvaruju po osnovi dodjele ili opcijske kupnje vlastitih dionica, a koje poslodavci i/ili isplatitelji primitaka daju radnicima.
+
+(3) Dohotkom od kapitala iz članka 64. stavka 1. ovoga Zakona smatraju se i primici koje ostvaruju radnici i članovi uprave tuzemnog društva odnosno fizičke osobe koje nisu u radnom odnosu s isplatiteljem po osnovi udjela u dobiti putem dodjele vlastitih dionica povezanog društva u tuzemstvu ili u inozemstvu ili realizacijom prava iz opcijskog ugovora sklopljenog s povezanim društvom u tuzemstvu ili u inozemstvu.
+
+(4) Dohodak od kapitala po osnovi opcijske kupnje dionica iz stavaka 1., 2. i 3. ovoga članka utvrđuje se kao razlika između tržišne vrijednosti dionice i opcijskim ugovorom utvrđene cijene dionica, ako je tržišna vrijednost viša u trenutku realizacije prava iz opcije.
+
+(5) Realizacijom prava iz opcije u smislu stavaka 1., 2. i 3. ovoga članka smatra se trenutak kupnje dionica društva od strane vlasnika opcije (članova uprave društva), radnika i drugih fizičkih osoba ili trenutak prijenosa prava na kupnju dionica društva na treću osobu.
+
+(6) Dohodak od kapitala po osnovi opcijske kupnje vlastitih dionica utvrđuje se poreznom obvezniku koji je vlasnik opcije u trenutku realizacije prava iz opcije prema stavku 5. ovoga članka.
+
+(7) Primici po osnovi udjela u dobiti koje članovi uprave trgovačkih društava ostvaruju dodjelom vlastitih dionica tih društava, kao i po osnovi dodjele dionica koje poslodavci i/ili isplatitelji daju radnicima i/ili fizičkim osobama koje nisu u radnom odnosu s isplatiteljem primitka utvrđuju se u visini tržišne vrijednosti ili razlike između tržišne vrijednosti dodijeljenih dionica i plaćene naknade, ako se dionice stječu uz djelomičnu naknadu.«.
+
+#### Članak 19.
+
+U članku 69. stavku 1. iza riječi: »kapitalu« dodaju se riječi: »i drugi istovjetni primici koji se smatraju raspodjelom dobiti«.
+
+#### Članak 20.
+
+Članak 72. briše se.
+
+#### Članak 21.
+
+Članak 73. briše se.
+
+#### Članak 22.
+
+Članak 74. briše se.
+
+#### Članak 23.
+
+Iza članka 76. dodaju se članak 76.a i naslov iznad njega koji glase:
+
+*»Drugi dohodak po osnovi privremenih odnosno povremenih sezonskih poslova u poljoprivredi*
+
+#### Članak 76.a
+
+(1) Drugim dohotkom smatraju se primici ostvareni po osnovi privremenih odnosno povremenih sezonskih poslova u poljoprivredi sukladno posebnom propisu kojim se uređuje tržište rada.
+
+(2) Pri utvrđivanju drugog dohotka iz stavka 1. ovoga članka ne priznaju se izdaci.«.
+
+#### Članak 24.
+
+Iza članka 78. dodaju se članak 78.a i naslov iznad njega koji glase:
+
+*»Utvrđivanje poreza na dohodak od drugog dohotka po osnovi privremenih odnosno povremenih sezonskih poslova u poljoprivredi*
+
+#### Članak 78.a
+
+(1) Porez na dohodak od drugog dohotka iz članka 76.a ovoga Zakona plaća se po odbitku, po stopi od 12%.
+
+(2) Porez na dohodak iz stavka 1. ovoga članka obračunavaju, obustavljaju i uplaćuju isplatitelji do posljednjeg dana u mjesecu u kojem je izvršena isplata odnosno davanje.
+
+(3) Isplatitelji su obvezni dostavljati Poreznoj upravi izvješća o isplaćenim primicima po osnovi kojih se utvrđuje drugi dohodak i obustavljenom i uplaćenom porezu na dohodak, u propisanom roku, na propisanom obrascu.«.
+
+#### Članak 25.
+
+Iza članka 80. dodaje se članak 80.a koji glasi:
+
+»Članak 80.a
+
+(1) Oporeziv dohodak iz članka 12. stavka 7. ovoga Zakona preuzima se na način kako ga je utvrdila država izvora dohotka.
+
+(2) Oporeziv dohodak iz stavka 1. ovoga članka umanjuje se za obvezne doprinose ako oni nisu bili priznati kao izdatak u državi izvora dohotka.
+
+(3) Porezni obveznici koji ostvaruju dohodak iz stavka 1. ovoga članka koji se sukladno odredbama ovoga Zakona smatra dohotkom od samostalne djelatnosti dužni su upisati se u registar poreznih obveznika poreza na dohodak, ali nisu dužni utvrđivati taj dohodak na temelju poslovnih knjiga i evidencija iz članka 34. stavka 1. ovoga Zakona.
+
+(4) Odredbe stavaka 1. i 3. ovoga članka neće se primjenjivati ako država izvora, sukladno odredbama međunarodnog ugovora, nije imala pravo oporezivanja odnosnog dohotka ili ako država izvora ne oporezuje odnosni dohodak, prema izvoru dohotka iz članka 5. ovoga Zakona odnosno po pojedinoj osnovi dohotka prema izvorima dohotka iz članka 5. ovoga Zakona, ili ako porezni obveznik izabere u Republici Hrvatskoj utvrđivati i plaćati predujmove poreza na dohodak, odnosno konačni porez na dohodak, sukladno odredbama ovoga Zakona.«.
+
+#### Članak 26.
+
+U članku 81. stavku 3. riječi: »po osnovi primitka ostvarenog iz inozemstva ili u inozemstvu u tijeku poreznog razdoblja predujam poreza na dohodak, odnosno konačni porez na dohodak, plaća« zamjenjuju se riječima: »ostvaruje primitke iz inozemstva ili u inozemstvu za koje u tijeku poreznog razdoblja postoji obveza plaćanja predujma poreza na dohodak, odnosno konačnog poreza na dohodak,«.
+
+#### Članak 27.
+
+U članku 82. stavak 8. mijenja se i glasi:
+
+»(8) Ministar financija pravilnikom propisuje samostalne djelatnosti prema stavku 1. ovoga članka koje će se paušalno oporezivati, visinu paušalnog dohotka i poreza na dohodak, rokove plaćanja poreza te evidencije i izvješća u svezi s paušalnim oporezivanjem.«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Ministar financija pravilnikom propisuje djelatnosti iznajmljivanja i organiziranja kampova prema stavcima 2. i 3. ovoga članka koje će se paušalno oporezivati, visinu paušalnog dohotka, rokove plaćanja poreza, evidencije i izvješća u svezi s paušalnim oporezivanjem te kriterije po kojima će predstavničko tijelo jedinice lokalne samouprave svojom odlukom propisati visine paušalnog poreza na dohodak u Zakonom predviđenom rasponu.«.
+
+#### Članak 28.
+
+U članku 83. stavak 4. mijenja se i glasi:
+
+»(4) Porezna uprava može, putem sustava ePorezna, temeljem podataka iz svojih službenih evidencija, omogućiti isplatiteljima primitaka od kojih se utvrđuje drugi dohodak, dohodak od imovinskih prava i kapitala, uvid u podatke koji se odnose na pripadnost općini/gradu primatelja.«.
+
+#### Članak 29.
+
+U članku 91. stavku 1. točki 5. riječi: »članak 74. stavak 1.,« zamjenjuju se riječima: »članak 78.a stavak 3.,«.
+
+Točka 11. mijenja se i glasi:
+
+»11. isplatitelj primitka od kojeg se utvrđuje drugi dohodak, koji u propisanom roku ne uplati ili uplati manji porez na dohodak od drugog dohotka (članak 78.a stavak 2.)«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 30.
+
+(1) Predstavnička tijela jedinica lokalne samouprave obvezna su za 2019. godinu donijeti odluke iz članka 17. ovoga Zakona kojima će se propisati visina paušalnog poreza po krevetu odnosno po smještajnoj jedinici u kampu do 31. siječnja 2019. te ih dostaviti Poreznoj upravi najkasnije do 15. veljače 2019. Donesena odluka primjenjuje se sve do donošenja nove odluke sukladno članku 17. ovoga Zakona.
+
+(2) Ako predstavničko tijelo jedinice lokalne samouprave ne donese odluku u propisanom roku, visina paušalnog poreza po krevetu odnosno po smještajnoj jedinici u kampu određuje se u iznosu od 750,00 kuna.
+
+(3) Članak 14. ovoga Zakona primjenjuje se pri utvrđivanju godišnjeg poreza na dohodak za 2018. godinu i nadalje.
+
+#### Članak 31.
+
+(1) Ministar financija uskladit će provedbene propise Zakona o porezu na dohodak (»Narodne novine«, br. 115/16.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+(2) Odredbe Pravilnika o porezu na dohodak (»Narodne novine«, br. 10/17. i 128/17.) ostaju na snazi u dijelu koji nije u suprotnosti s ovim Zakonom.
+
+#### Članak 32.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 33.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/144  
+Zagreb, 21. studenoga 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 121/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/121/2385*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dohodak, koji je Hrvatski sabor donio na sjednici 29. studenoga 2019.
+
+Klasa: 011-01/19-01/210
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK**
+
+#### Članak 1.
+
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16. i 106/18.) u članku 1. iza stavka 2. dodaje se novi stavak 3. i stavak 4. koji glase:
+
+»(3) Pripadnost poreza na dohodak određuje se prema prebivalištu/uobičajenom boravištu poreznog obveznika. Kada porezni obveznik u Republici Hrvatskoj nema prebivalište niti uobičajeno boravište, pripadnost se određuje prema sjedištu odnosno prebivalištu/uobičajenom boravištu isplatitelja.
+
+(4) Iznimno od stavka 3. ovoga članka, pripadnost poreza na dohodak i prireza porezu na dohodak, po osnovi ostvarenog dohotka iz članka 57. stavka 2. ovoga Zakona određuje se prema mjestu gdje se nekretnina odnosno smještajna jedinica nalaze.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+#### Članak 2.
+
+U članku 8. stavku 1. iza točke 3. brišu se riječi: »i/ili«.
+
+Iza točke 4. briše se točka te se dodaju riječi: »i/ili« i točka 5. koja glasi:
+
+»5. primici koje fizičke osobe ostvaruju po osnovi darovanja (materijalnih i financijskih dobara) od pravnih i fizičkih osoba, za podmirivanje potreba, prikupljenih u humanitarnim akcijama i javno oglašenim akcijama koje imaju općekorisnu svrhu u korist osjetljivih skupina.«.
+
+U stavku 2. točki 9. iza riječi: »poreza na dobit« dodaju se riječi: »te članovima uže obitelji preminulog člana neprofitne organizacije«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Ministar financija pravilnikom propisuje način provedbe ovoga članka u vezi s primicima koji se ne smatraju dohotkom.«.
+
+#### Članak 3.
+
+U članku 9. stavku 1. točka 4. mijenja se i glasi:
+
+»4. nagrade učenicima za vrijeme praktičnog rada i naukovanja i naknade učenicima za vrijeme dualnog obrazovanja, do propisanog iznosa«.
+
+Iza točke 22. brišu se riječi: » i/ili «.
+
+Iza točke 23. briše se točka te se dodaju riječi: » i/ili « i točka 24. koja glasi:
+
+»24. premije dodatnog i dopunskog zdravstvenog osiguranja koje poslodavac uplaćuje u korist svojeg radnika, osiguravatelju odnosno Hrvatskom zavodu za zdravstveno osiguranje prema propisu kojim je uređeno dobrovoljno zdravstveno osiguranje, do propisanog iznosa.«.
+
+#### Članak 4.
+
+U članku 11. stavak 8. mijenja se i glasi:
+
+»(8) Ako se porezni obveznik zbog osobnih razloga odrekne tražbine po osnovi prodane robe ili obavljenih usluga koja bi u poreznomu razdoblju u kojemu se odrekao tražbine ili kasnijim poreznim razdobljima dovela do primitaka, tada se iznos tražbine utvrđuje kao primitak u godini u kojoj je donesena odluka o odricanju od tražbine.«.
+
+Iza stavka 8. dodaje se novi stavak 9. i stavci 10.,11. i 12. koji glase:
+
+»(9) Primitak se ne utvrđuje po osnovi tražbina od nepovezane osobe koje su se pokazale nenaplativima nakon provedenoga sudskog postupka ili drugog postupka sukladno posebnim propisima.
+
+(10) Primitak se ne utvrđuje po osnovi otpisanih tražbina koje su potvrđene u skladu s posebnim propisom o stečaju potrošača i propisom o postupku izvanredne uprave u trgovačkim društvima od sistemskog značaja.
+
+(11) Primitak se ne utvrđuje po osnovi otpisanih tražbina od nepovezane osobe ako porezni obveznik dokaže da troškovi pokretanja određenih postupaka (tražbine koje su utužene ili se zbog njih vodi ovršni postupak, ako su prijavljene u stečajnom postupku nad dužnikom ili drugom postupku u skladu s posebnim propisima) premašuju iznos tražbine, ili ako dokaže da je pokrenuo određene radnje radi naplate tražbine pri čemu je utvrdio konačnu nemogućnost naplate otpisanog iznosa tražbine.
+
+(12) Primicima se ne smatraju otpisi tražbina od nepovezanih osoba, koje su zastarjele i koje u svakom pojedinom poreznom razdoblju ne prelaze 5000,00 kuna po pojedinom dužniku koji je obveznik poreza na dobit ili obveznik poreza na dohodak po osnovi samostalne djelatnosti. Primicima se ne smatraju otpisi tražbina do 200,00 kuna od nepovezanih fizičkih osoba čiji dug nije nastao po osnovi obavljanja samostalne djelatnosti, ako ukupno utvrđena tražbina po pojedinoj osobi na zadnji dan poreznog razdoblja ne prelazi taj iznos.«.
+
+Dosadašnji stavak 9. postaje stavak 13.
+
+#### Članak 5.
+
+U članku 14. stavku 3. riječi: »u visini 3800,00 kuna« zamjenjuju se riječima: »u visini 4000,00 kuna«, a riječi: »koeficijent 1,5 osnovice osobnog odbitka iz stavka 1. ovoga članka zaokruženo na stoticu« zamjenjuju se riječima: »koeficijent 1,6 osnovice osobnog odbitka iz stavka 1. ovoga članka«.
+
+#### Članak 6.
+
+U članku 17. stavku 2. iza točke 7. brišu se riječi: »i/ili«.
+
+Iza točke 8. briše se zarez.
+
+Iza točke 11. briše se točka te se dodaju riječi: »i/ili« i točka 12. koja glasi:
+
+»12. nagrade učenicima za vrijeme praktičnog rada i naukovanja i naknade učenicima za vrijeme dualnog obrazovanja.«.
+
+#### Članak 7.
+
+U članku 21. stavku 1. točki 1. podtočka e) mijenja se i glasi:
+
+»e) premije osiguranja koje poslodavci plaćaju za svoje radnike po osnovi životnog osiguranja, osiguranja njihove imovine, privatnoga zdravstvenog osiguranja, dopunskog i dodatnog zdravstvenog osiguranja iznad propisanog iznosa i dobrovoljnoga mirovinskog osiguranja iznad propisanog iznosa«.
+
+#### Članak 8.
+
+U članku 24. stavku 5. riječi: »ovoga Zakona« zamjenjuju se riječima: »ovoga članka«.
+
+#### Članak 9.
+
+U članku 26. iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Poslodavac i isplatitelj plaće pri isplati plaće bivšim radnicima za posljednji mjesec rada kod tog poslodavca ima uvid u poreznu karticu bivšeg radnika, a najkasnije do dana dospjelosti plaće za posljednji mjesec rada te isti može koristiti podatke iz stavka 1. ovoga članka iz porezne kartice bivšeg radnika.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+#### Članak 10.
+
+Iza članka 27. dodaje se naslov iznad članka i članak 27.a koji glase:
+
+*»Obilježja nesamostalnog rada*
+
+#### Članak 27.a
+
+(1) Za potrebe oporezivanja primicima po osnovi radnog odnosa smatraju se i primici proizašli iz korištenja poreznih pogodnosti protivno svrsi zakona propisanih propisom kojim je uređen opći porezni postupak kod kojih postoje obilježja nesamostalnog rada.
+
+(2) Obilježja nesamostalnog rada za slučajeve korištenja poreznih pogodnosti protivno svrsi zakona iz stavka 1. ovoga članka određuju se temeljem ispunjenja triju kriterija: kontrole ponašanja, financijske kontrole i odnosa stranaka.
+
+(3) Obilježja kriterija:
+
+– kontrola ponašanja obuhvaća činjenice koje pokazuju ima li poslodavac pravo usmjeriti i kontrolirati što posloprimac radi i kako obavlja posao, kroz upute, obuku ili druga sredstva
+
+– financijska kontrola obuhvaća činjenice koje pokazuju ima li poslodavac pravo usmjeriti ili kontrolirati financijske i poslovne aspekte posloprimčevog rada te
+
+– odnos stranaka obuhvaća činjenice koje pokazuju vrstu odnosa među strankama.
+
+(4) Ministar financija pravilnikom propisuje elemente koji pobliže određuju kriterije te način provedbe ovoga članka u vezi s obilježjima nesamostalnog rada.«.
+
+#### Članak 11.
+
+U članku 39. stavku 3. točka 6. mijenja se i glasi:
+
+»6. nagrade učenicima za vrijeme praktičnog rada i naukovanja i naknade učenicima za vrijeme dualnog obrazovanja iz članka 9. točke 4. ovoga Zakona, iznad propisanog iznosa«.
+
+#### Članak 12.
+
+U članku 40. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 1. ovoga članka, predujam poreza na dohodak od drugog dohotka prema članku 39. stavku 1. ovoga Zakona po osnovi primitaka učenika i studenata na redovitom školovanju za rad preko učeničkih i studentskih udruga plaća se po odbitku, po stopi od 24% od osnovice koju čini iznos primitka iznad propisanog neoporezivog iznosa primitaka učenika i studenata na redovitom školovanju za rad preko učeničkih i studentskih udruga i iznosa godišnjeg osnovnog osobnog odbitka iz članka 14. stavka 3. ovoga Zakona.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 13.
+
+U članku 46. iza stavka 1. dodaju se novi stavci 2., 3. i 4. koji glase:
+
+»(2) Godišnji porez na dohodak koji se utvrđuje prema poreznoj osnovici iz članka 18. ovoga Zakona umanjuje se:
+
+– fizičkim osobama do 25 godina života koje ostvare dohodak od nesamostalnog rada (plaću iz članka 21. stavka 1. točke 1. ovoga Zakona) i to za 100% razmjernog dijela porezne obveze obračunane na dio porezne osnovice na koju se sukladno članku 19. ovoga Zakona plaća godišnji porez po stopi od 24%, a koja se odnosi na dohodak od nesamostalnog rada (plaću iz članka 21. stavka 1. točke 1. ovoga Zakona)
+
+– fizičkim osobama od 26 do 30 godina života koje ostvare dohodak od nesamostalnog rada (plaću iz članka 21. stavka 1. točke 1. ovoga Zakona) i to za 50% razmjernog dijela porezne obveze obračunane na dio porezne osnovice na koju se sukladno članku 19. ovoga Zakona plaća godišnji porez po stopi od 24%, a koja se odnosi na dohodak od nesamostalnog rada (plaću iz članka 21. stavka 1. točke 1. ovoga Zakona).
+
+(3) Umanjenje iz stavka 2. ovoga članka utvrđuje se prije umanjenja iz stavka 1. ovoga članka.
+
+(4) Umanjenje godišnjeg poreza na dohodak iz stavka 2. ovoga članka koristi se za cijelo porezno razdoblje u kojem obveznik navršava određenu godinu života.«.
+
+Dosadašnji stavci od 2. do 5. postaju stavci od 5. do 8.
+
+#### Članak 14.
+
+U članku 53. stavak 4. mijenja se i glasi:
+
+»(4) Na porezne obveznike koji su ostvarili dohodak u inozemstvu ili iz inozemstva, u posebnom postupku iz članka 51. ovoga Zakona, uzet će se u obzir podaci iz izvješća propisanog člankom 81. stavkom 4. ovoga Zakona. Ako porezni obveznici ne dostave izvješće iz članka 81. stavka 4. ovoga Zakona do roka propisanog za dostavu, a žele da im se uplaćeni porez u inozemstvu uračuna u tuzemnu obvezu poreza na dohodak, dužni su o tome izvijestiti Poreznu upravu na podnesenom obrascu za priznavanjem prava u posebnom postupku u roku iz stavka 1. ovoga članka.«.
+
+#### Članak 15.
+
+U članku 82. stavak 5. mijenja se i glasi:
+
+»(5) Poreznim obveznicima iz stavaka 2. i 3. ovoga članka godišnji porez u paušalnom iznosu po stopi od 12% utvrđuje Porezna uprava rješenjem.«.
+
+Iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+
+»(6) Porezni obveznici iz stavka 1. ovoga članka godišnji porez u paušalnom iznosu po stopi od 12% utvrđuju na temelju izvješća iz stavka 10. ovoga članka. Razlika godišnjeg paušalnog poreza za uplatu ili za povrat utvrđuje se na temelju izvješća iz stavka 10. ovoga članka, koje porezni obveznik podnosi Poreznoj upravi najkasnije u roku od 15 dana od dana isteka godine za koju se izvješće podnosi. Porezni obveznik obvezan je razliku godišnjeg paušalnog poreza uplatiti s danom podnošenja izvješća.
+
+(7) Poreznim obveznicima iz stavka 6. ovoga članka koji ne podnesu izvješće iz stavka 10. ovoga članka ili su podaci u navedenom izvješću netočni ili nepotpuni, porez na dohodak utvrđuje se procjenom.«.
+
+Dosadašnji stavak 6., koji postaje stavak 8., mijenja se i glasi:
+
+»(8) Porezna uprava može na temelju obavljenog nadzora i prikupljenih podataka o ostvarenom prometu donijeti rješenje o obvezi plaćanja predujma poreza na dohodak, u skladu s člankom 37. stavkom 1. ovoga Zakona, ako utvrdi da je porezni obveznik ostvario primitke po toj osnovi iznad iznosa propisanog za obvezni ulazak u sustav poreza na dodanu vrijednost.«.
+
+Dosadašnji stavci od 7. do 9. postaju stavci od 9. do 11.
+
+#### Članak 16.
+
+U članku 83. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Porezna uprava može, putem sustava ePorezna, temeljem podataka iz svojih službenih evidencija omogućiti poslodavcima i isplatiteljima plaće uvid u podatke koji se odnose na isplaćene neoporezive primitke koje radnik može ostvariti od više poslodavaca i isplatitelja plaće do određenoga godišnjeg iznosa u poreznom razdoblju te uvid u neiskorišteni iznos osobnog odbitka u slučaju iz članka 26. stavka 6. ovoga Zakona.«.
+
+#### Članak 17.
+
+U članku 92. stavku 1. točki 1. riječi: »stavak 4.« zamjenjuju se riječima: »stavak 6.«.
+
+U točki 2. riječi: »članak 82. stavak 6.« zamjenjuju se riječima: »članak 82. stavak 8.«.
+
+#### Članak 18.
+
+U članku 93. riječi: »članka 26. stavka 6.« zamjenjuju se riječima: »članka 26. stavka 7.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 19.
+
+Ministar financija uskladit će provedbene propise Zakona o porezu na dohodak (»Narodne novine«, br. 115/16. i 106/18.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+#### Članak 20.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 21.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/212
+
+Zagreb, 29. studenoga 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o porezu na dohodak (NN 32/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/692*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O POREZU NA DOHODAK
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o porezu na dohodak, koji je Hrvatski sabor donio na sjednici 19. ožujka 2020.
+
+Klasa: 011-01/20-01/19  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 19. ožujka 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O POREZU NA DOHODAK**
+
+#### Članak 1.
+
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18. i 121/19.) u članku 31. iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Iznimno od stavka 1. ovoga članka, poslovnim primicima poreznog razdoblja ne smatraju se primici po osnovi potpora primljenih radi ublažavanja posebnih okolnosti propisanih propisom kojim je uređen opći porezni postupak.«.
+
+#### Članak 2.
+
+U članku 54. stavku 2. iza točke dodaje se rečenica koja glasi:
+
+»Porezna uprava će temeljem dostavljenih privremenih poreznih rješenja izvršiti zaduženje poreznih obveznika za utvrđenu razliku poreza na dohodak i prireza porezu na dohodak za uplatu ili poreznim obveznicima izvršiti povrat ako porezni obveznik ispunjava uvjete za povrat preplaćenog poreza na dohodak i prireza porezu na dohodak sukladno ovom Zakonu i propisu kojim je uređen opći porezni postupak.«.
+
+U stavku 3. rečenica: »Izjavljeni prigovor odgađa izvršenje privremenog poreznog rješenja do donošenja rješenja po prigovoru.« briše se.
+
+U stavku 7. rečenica: »Izjavljena žalba ne odgađa izvršenje poreznog rješenja.“ briše se.
+
+U stavku 8. iza riječi: »poreznom obvezom« dodaje se točka, a riječi: »te će Porezna uprava temeljem dostavljenih privremenih poreznih rješenja izvršiti zaduženje poreznih obveznika za utvrđenu razliku poreza na dohodak i prireza porezu na dohodak za uplatu ili poreznim obveznicima izvršiti povrat ako porezni obveznik ispunjava uvjete za povrat preplaćenog poreza na dohodak i prireza porezu na dohodak sukladno ovom Zakonu i zakonu kojim je uređen opći porezni postupak.« brišu se.
+
+U stavku 9. riječi: »stavkom 8.« zamjenjuju se riječima: »stavkom 2.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 3.
+
+Odredba članka 2. ovoga Zakona primjenjuje se pri postupanju Porezne uprave u posebnom postupku utvrđivanja godišnjeg poreza na dohodak i prireza porezu na dohodak za 2019. godinu i nadalje.
+
+#### Članak 4.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/27  
+Zagreb, 19. ožujka 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 138/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/138/2625*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dohodak, koji je Hrvatski sabor donio na sjednici 4. prosinca 2020.
+
+Klasa: 011-01/20-01/108
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 9. prosinca 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK**
+
+#### Članak 1.
+
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19. i 32/20.) u članku 8. stavku 4. riječi: »stavaka 2. i 3.« zamjenjuju se riječima: »stavka 2.«.
+
+#### Članak 2.
+
+U članku 9. stavku 1. točki 6. riječ: »redovitom« briše se.
+
+U točki 23. riječi: »i/ili« brišu se.
+
+U točki 24. na kraju rečenice briše se točka.
+
+Iza točke 24. dodaju se točke 25. i 26. koje glase:
+
+»25. nacionalnu naknadu za starije osobe prema posebnim propisima i/ili
+
+26. primitke fizičkih osoba ostvarene po osnovi obavljanja nesamostalnog rada ili djelatnosti za poslodavca koji nije registriran u Republici Hrvatskoj temeljem stečenog statusa digitalnog nomada sukladno posebnom propisu.«.
+
+#### Članak 3.
+
+U članku 17. stavku 2. točki 11. riječi: »i/ili« brišu se.
+
+U točki 12. na kraju rečenice briše se točka i dodaju se riječi: »i/ili«.
+
+Iza točke 12. dodaje se točka 13. koja glasi:
+
+»13. nacionalna naknada za starije osobe.«.
+
+#### Članak 4.
+
+U članku 19. oznaka stavka 1. briše se.
+
+Stavak 2. briše se.
+
+#### Članak 5.
+
+U članku 22. stavku 1. točki 5. riječi: »i/ili« brišu se.
+
+U točki 6. na kraju rečenice briše se točka i dodaju se riječi: » i/ili «.
+
+Iza točke 6. dodaje se točka 7. koja glasi:
+
+»7. trošak cijepljenja protiv zaraznih bolesti što ga poslodavac i isplatitelj primitka odnosno plaće na svoj teret omogućuje radnicima i fizičkim osobama koje ostvaruju primitke iz članka 21. stavka 1. ovoga Zakona u interesu obavljanja djelatnosti poslodavca i isplatitelja primitka odnosno plaće neovisno o načinu podmirenja troška cijepljenja.«.
+
+#### Članak 6.
+
+U članku 39. stavku 3. točki 6. ispred riječi: »točke« dodaju se riječi: »stavka 1.«.
+
+U točki 7. riječ: »redovitom« briše se, a ispred riječi: »točke« dodaju se riječi: »stavka 1.«.
+
+U točkama 8., 9. i 10. ispred riječi: »točke« dodaju se riječi: »stavka 1.«.
+
+#### Članak 7.
+
+U članku 40. stavku 3. riječi: »redovitom« brišu se.
+
+#### Članak 8.
+
+U članku 62. iza stavka 6. dodaje se novi stavak 7. i stavak 8. koji glase:
+
+»(7) Radi utvrđivanja poreza na dohodak iz stavka 1. ovoga članka porezni obveznik obvezan je ispravu o nastanku ili promjeni činjenica vezanih za ostvarivanje najamnine i zakupnine nekretnina i pokretnina dostaviti ispostavi Porezne uprave nadležnoj prema svome prebivalištu ili uobičajenom boravištu, u roku od osam dana od dana nastanka ili promjena činjenica bitnih za oporezivanje.
+
+(8) Iznimno od stavka 7. ovoga članka, ako je javni bilježnik na ispravi o nastanku ili promjeni činjenica vezanih za ostvarivanje najamnine i zakupnine nekretnina i pokretnina ovjerio potpis poreznog obveznika ili je takvu ispravu potvrdio (solemnizirao) odnosno sastavio u obliku javnobilježničkog akta, javni bilježnik dužan je bez odgode, a najkasnije u roku od 30 dana od dana obavljene službene radnje jedan primjerak te isprave dostaviti elektroničkim putem ispostavi Porezne uprave nadležnoj prema prebivalištu ili uobičajenom boravištu poreznog obveznika koji ostvaruje dohodak od imovine iz stavka 1. ovog članka, u kojem slučaju sam porezni obveznik nema obvezu podnošenja isprave prema stavku 7. ovoga članka.«.
+
+Dosadašnji stavak 7. postaje stavak 9.
+
+#### Članak 9.
+
+U članku 68. stavcima 1., 2., 3. i 7. riječi: »po osnovi udjela u dobiti« brišu se.
+
+#### Članak 10.
+
+U članku 78. stavku 2. riječi: »50%« zamjenjuju se riječima: »100%«.
+
+#### Članak 11.
+
+U članku 82. stavku 9. broj: »6« zamjenjuje se brojem »8«.
+
+#### Članak 12.
+
+U članku 87. iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Iznimno od stavka 1. ovoga članka, kada javni bilježnik dostavi ispravu o ostvarivanju najamnine i zakupnine nekretnina i pokretnina sukladno članku 62. stavku 8. ovoga Zakona, smatra se da je izvršena prijava upisa u registar poreznih obveznika.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+#### Članak 13.
+
+U članku 89. stavak 10. briše se.
+
+#### Članak 14.
+
+U članku 91. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Novčanom kaznom od 5000,00 do 50.000,00 kuna kaznit će se za prekršaj javni bilježnik ako po obavljenoj službenoj radnji iz članka 62. stavka 8. ovoga Zakona, a najkasnije u roku od 30 dana od dana obavljene službene radnje nadležnoj ispostavi Porezne uprave ne dostavi ispravu o ostvarivanju najamnine i zakupnine nekretnina i pokretnina (članak 62. stavak 8. ovoga Zakona).«.
+
+#### Članak 15.
+
+U članku 92. stavku 1. iza točke 4. briše se točka i dodaje se točka 5. koja glasi:
+
+»5. ako radi utvrđivanja poreza na dohodak od imovine ne dostavi ispostavi Porezne uprave nadležnoj prema svome prebivalištu ili uobičajenom boravištu u roku od osam dana od dana nastanka ili promjena činjenica bitnih za oporezivanje, ispravu o nastanku ili promjeni činjenica vezanih za ostvarivanje najamnine i zakupnine nekretnina i pokretnina (članak 62. stavak 7.).«.
+
+#### Članak 16.
+
+U cijelom tekstu Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19. i 32/20.) riječi: »stope od 24%« u određenom broju i padežu zamjenjuju se riječima: »stope od 20%« u odgovarajućem broju i padežu, riječi: »stope od 36%« u određenom broju i padežu zamjenjuju se riječima: »stope od 30%« u odgovarajućem broju i padežu, riječi: »stope od 12%« u određenom broju i padežu zamjenjuju se riječima: »stope od 10%« u odgovarajućem broju i padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 17.
+
+(1) Odredbe članaka 4. i 16. ovoga Zakona primjenjuju se pri utvrđivanju poreza na dohodak za 2021. godinu i nadalje.
+
+(2) Pri izračunu predujma poreza na dohodak iz članka 37. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/18. i 32/20.) za 2021. godinu, na temelju prijave poreza na dohodak za 2020. godinu, primjenjuju se odredbe članka 16. ovoga Zakona.
+
+(3) Odredbe članaka 10. i 16. ovoga Zakona primjenjuju se na sve postupke utvrđivanja dohotka iz članka 76. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/18. i 32/20.) pokrenute od stupanja na snagu ovoga Zakona.
+
+#### Članak 18.
+
+Porez na dohodak ne plaća se pri isplati dividendi i udjela u dobiti iz članka 70. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19. i 32/20.) ako se isplaćuju iz dobiti ostvarene do 29. veljače 2012., osim dividendi i udjela u dobiti na temelju udjela u kapitalu koji su ostvareni u razdoblju od 1. siječnja 2001. do 31. prosinca 2004., a isplaćuju se nakon stupanja na snagu ovoga Zakona te se oporezuju stopom predujma poreza na dohodak od 10%.
+
+#### Članak 19.
+
+Ministar financija uskladit će provedbene propise Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19. i 32/20.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu, i to:
+
+– Pravilnik o porezu na dohodak (»Narodne novine«, br. 10/17., 128/17., 106/18., 1/19., 80/19., 1/20. i 74/20.)
+
+– Pravilnik o paušalnom oporezivanju samostalnih djelatnosti (»Narodne novine«, br. 1/20.)
+
+– Pravilnik o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu (»Narodne novine«, br. 1/19. i 1/20.).
+
+#### Članak 20.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 21.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2021.
+
+Klasa: 022-03/20-01/123
+
+Zagreb, 4. prosinca 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 151/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2337*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dohodak, koji je Hrvatski sabor donio na sjednici 16. prosinca 2022.
+
+Klasa: 011-02/22-02/169
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 20. prosinca 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK**
+
+#### Članak 1.
+
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20. i 138/20.) u članku 8. stavku 1. točki 4. riječ: »žiroračun« zamjenjuje se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet«.
+
+#### Članak 2.
+
+U članku 9. stavku 1. točki 18. riječi: »do visine 500,00 kuna« zamjenjuju se riječima: »do visine 66,37 eura«, a riječi: »do 6000,00 kuna« zamjenjuju se riječima: »do 796,44 eura«.
+
+#### Članak 3.
+
+U članku 11. stavku 12. riječi: »ne prelaze 5000,00 kuna« zamjenjuju se riječima: »ne prelaze 663,61 euro«, a riječi: »do 200,00 kuna« zamjenjuju se riječima: »do 26,54 eura«.
+
+#### Članak 4.
+
+U članku 12. stavak 8. mijenja se i glasi:
+
+»(8) Dohodak ostvaren u stranoj valuti preračunava se u euro primjenom srednjeg tečaja koji Hrvatska narodna banka objavljuje na dan isplate.«.
+
+#### Članak 5.
+
+U članku 14. stavku 1. riječi: »iznosi 2500,00 kuna« zamjenjuju se riječima: »iznosi 331,81 euro«.
+
+U stavku 3. riječi: »u visini 4000,00 kuna« zamjenjuju se riječima: »u visini 530,90 eura«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Rezident može uvećati osnovni osobni odbitak iz stavka 2. ovoga članka u visini:
+
+<table>
+<tr><td>R. br.</td><td>Osnova za uvećanje<br> osnovnog osobnog odbitka</td><td>Koeficijent</td><td>Mjesečni iznos<br> (u eurima i centima)</td></tr>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td>1.</td><td>Uzdržavani članovi uže obitelji</td><td>0,7</td><td>232,27</td></tr>
+<tr><td>2.</td><td>Prvo uzdržavano dijete</td><td>0,7</td><td>232,27</td></tr>
+<tr><td>3.</td><td>Drugo uzdržavano dijete</td><td>1,0</td><td>331,81</td></tr>
+<tr><td>4.</td><td>Treće uzdržavano dijete</td><td>1,4</td><td>464,53</td></tr>
+<tr><td>5.</td><td>Četvrto uzdržavano dijete</td><td>1,9</td><td>630,44</td></tr>
+<tr><td>6.</td><td>Peto uzdržavano dijete</td><td>2,5</td><td>829,53</td></tr>
+<tr><td>7.</td><td>Šesto uzdržavano dijete</td><td>3,2</td><td>1061,79</td></tr>
+<tr><td>8.</td><td>Sedmo uzdržavano dijete</td><td>4,0</td><td>1327,24</td></tr>
+<tr><td>9.</td><td>Osmo uzdržavano dijete</td><td>4,9</td><td>1625,87</td></tr>
+<tr><td>10.</td><td>Deveto uzdržavano dijete</td><td>5,9</td><td>1957,68</td></tr>
+<tr><td>11.</td><td colspan="3">Za svako daljnje uzdržavano dijete koeficijent osnovnoga osobnog odbitka progresivno se uvećava se za 1,1 … više u odnosu prema koeficijentu za prethodno dijete</td></tr>
+<tr><td>12.</td><td>Invalidnost poreznog obveznika, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta</td><td>0,4</td><td>132,72</td></tr>
+<tr><td>13.</td><td>Invalidnost utvrđena po jednoj osnovi 100 % i/ili korištenje, na temelju posebnih propisa, prava na doplatak za pomoć i njegu poreznog obveznika odnosno prava na osobnu invalidninu, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta. Korištenje uvećanja osnovnog osobnog odbitka po ovoj osnovi isklju­čuje korištenje uvećanja osnovnog osobnog odbitka iz r. br. 12.</td><td>1,5</td><td>497,72</td></tr>
+</table>
+
+#### Članak 6.
+
+U članku 15. stavku 2. riječ: »žiroračun« zamjenjuje se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet«.
+
+#### Članak 7.
+
+U članku 17. stavku 1. riječi: »iznos od 15.000,00 kuna na godišnjoj razini izračunan kao šesterostruki iznos osnovice osobnog odbitka« zamjenjuju se riječima: »šesterostruki iznos osnovnog osobnog odbitka iz članka 14. stavka 3. ovoga Zakona na godišnjoj razini«.
+
+U stavku 6. riječi: »15.000,00 kuna« zamjenjuju se riječima: »šesterostrukog iznosa osnovnog osobnog odbitka«.
+
+U stavku 8. riječi: »od 15.000,00 kuna ili manjem« zamjenjuju se riječima: »do šesterostrukog iznosa osnovnog osobnog odbitka«.
+
+#### Članak 8.
+
+U članku 19. riječi: »do visine 360.000,00 kuna« zamjenjuju se riječima: »do visine 47.780,28 eura«, a riječi: »od 360.000,00 kuna« zamjenjuju se riječima: »od 47.780,28 eura«.
+
+#### Članak 9.
+
+U članku 24. stavku 3. riječi: »do visine 30.000,00 kuna« zamjenjuju se riječima: »do visine 3981,69 eura«, a riječi: »iznad 30.000,00 kuna« zamjenjuju se riječima: »iznad 3981,69 eura«.
+
+#### Članak 10.
+
+U članku 28. iza riječi: »dohodak od slobodnih zanimanja« riječ: »i« briše se, stavlja se zarez, a iza riječi: »dohodak od poljoprivrede i šumarstva« dodaju se riječi: »i dohodak od djelatnosti proizvodnje električne energije«.
+
+#### Članak 11.
+
+U članku 29. stavku 3. riječi: »od 80.500,00 kuna« zamjenjuju se riječima: »od 10.684,19 eura«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Djelatnošću proizvodnje električne energije smatra se djelatnost proizvodnje električne energije od strane krajnjih kupaca s vlastitom proizvodnjom električne energije uz ispunjenje ostalih uvjeta propisanih propisom kojim se uređuje preuzimanje električne energije od krajnjih kupaca s vlastitom proizvodnjom ili korisnika postrojenja za samoopskrbu. Ako fizičke osobe, proizvođači električne energije koje kao krajnji kupci s vlastitom proizvodnjom, a koje su prethodno bile proizvođači električne energije kao korisnici postrojenja za samoopskrbu, ostvare ukupan godišnji primitak veći od četverostrukog iznosa osnovice osobnog odbitka iz članka 14. stavka 1. ovoga Zakona, obveznici su poreza na dohodak.«.
+
+#### Članak 12.
+
+U članku 32. stavku 12. riječi: »do 160,00 kuna« zamjenjuju se riječima: »do 21,24 eura«.
+
+#### Članak 13.
+
+U članku 35. stavku 2. riječi: »od 3500,00 kuna« zamjenjuju se riječima: »od 464,53 eura«.
+
+#### Članak 14.
+
+U članku 57. stavku 3. riječi: »od 150,00 kuna niti veće od 1500,00 kuna« zamjenjuju se riječima: »od 19,91 euro niti veće od 199,08 eura«.
+
+#### Članak 15.
+
+U članku 65. stavku 1. točki 1. riječi: »od kamata na kunsku i deviznu štednju« zamjenjuju se riječima: »od kamata na štednju u eurima i deviznu štednju«.
+
+U stavku 2. točki 3. riječi: »žiroračunu, tekućem i deviznom računu« zamjenjuju se riječima: »računu za plaćanje sukladno propisu kojim se uređuje platni promet«.
+
+#### Članak 16.
+
+U članku 81. stavku 2. riječi: »do 100,00 kuna« zamjenjuju se riječima: »do 13,27 eura«.
+
+#### Članak 17.
+
+U članku 86. stavku 1. riječi: »žiroračun kod banke, a iznimno na njihov tekući račun sukladno posebnim propisima te u« zamjenjuju se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet kod banke, a iznimno u«.
+
+U stavku 2. riječi: »tekući račun« zamjenjuju se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet«.
+
+#### Članak 18.
+
+U članku 91. stavku 1. u uvodnoj rečenici riječi: »od 10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 6630,00 eura«.
+
+U točki 12. riječi: »žiroračun kod banke, a iznimno na njihov tekući račun kod banke u skladu s posebnim propisima« zamjenjuju se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet kod banke«.
+
+U stavku 2. riječi: »od 5000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 3980,00 eura«.
+
+U stavku 3. riječi: »od 2000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 2650,00 eura«.
+
+U stavku 4. riječi: »od 2000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 1320,00 eura«.
+
+U stavku 5. riječi: »od 5000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 6630,00 eura«.
+
+#### Članak 19.
+
+U članku 92. stavku 1. u uvodnoj rečenici riječi: »od 5000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 6630,00 eura«.
+
+U stavku 2. u uvodnoj rečenici riječi: »od 2000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 2650,00 eura«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 20.
+
+Razlike koje poreznim obveznicima nastanu zbog primjene pravila za preračunavanje i zaokruživanje u skladu sa Zakonom o uvođenju eura kao službene valute u Republici Hrvatskoj (»Narodne novine«, br. 57/22. i 88/22. – ispravak) uključuju se u poreznu osnovicu.
+
+#### Članak 21.
+
+Odredba članka 7. ovoga Zakona primjenjuje se u postupku godišnjeg obračuna poreza na dohodak za 2022. godinu i nadalje.
+
+#### Članak 22.
+
+Ministar financija uskladit će provedbene propise Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20. i 138/20.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu, i to:
+
+– Pravilnik o porezu na dohodak (»Narodne novine«, br. 10/17., 128/17., 106/18., 1/19., 80/19., 1/20., 74/20., 1/21., 102/22. i 112/22.)
+
+– Pravilnik o paušalnom oporezivanju samostalnih djelatnosti (»Narodne novine«, br. 1/20. i 1/21.)
+
+– Pravilnik o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu (»Narodne novine«, br. 1/19., 1/20. i 1/21.).
+
+#### Članak 23.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu prvoga dana od dana objave u »Narodnim novinama«, osim članaka 1. do 6., članaka 8. do 20. i članka 22. ovoga Zakona koji stupaju na snagu 1. siječnja 2023.
+
+Klasa: 022-02/22-01/154
+
+Zagreb, 16. prosinca 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 114/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1609*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dohodak, koji je Hrvatski sabor donio na sjednici 28. rujna 2023.
+
+Klasa: 011-02/23-02/71  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 3. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK**
+
+#### Članak 1.
+
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20. i 151/22.) u članku 1. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., riječi: »stavka 3.« zamjenjuju se riječima: »stavka 2.«, a riječi: »i prireza porezu na dohodak,« brišu se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 2.
+
+U članku 9. stavku 1. točke 14. i 15. mijenjaju se i glase:
+
+»14. stipendije učenicima za redovito školovanje na srednjim školama te studentima u redovitom statusu na sveučilišnim prijediplomskim studijima, sveučilišnim diplomskim studijima, sveučilišnim integriranim prijediplomskim i diplomskim studijima odnosno stručnim prijediplomskim studijima i stručnim diplomskim studijima, ukupno do propisanog iznosa
+
+15. stipendije studenata u redovitom statusu na sveučilišnim prijediplomskim studijima, sveučilišnim diplomskim studijima, sveučilišnim integriranim prijediplomskim i diplomskim studijima odnosno stručnim prijediplomskim studijima i stručnim diplomskim studijima i studenata na poslijediplomskoj razini te poslijedoktoranada za koje su sredstva planirana u državnom proračunu Republike Hrvatske i stipendije koje se isplaćuju, odnosno dodjeljuju iz proračuna Europske unije, uređene posebnim međunarodnim sporazumima, i to studentima za redovito školovanje na visokim učilištima«.
+
+U točki 18. riječi: »66,37 eura« zamjenjuju se riječima: »67,00 eura«, a riječi: »796,44 eura« zamjenjuju se riječima: »804,00 eura«.
+
+U točki 19. riječi: »stipendije studentima izabranima na javnim natječajima kojima mogu pristupiti svi studenti pod jednakim uvjetima, za redovito školovanje na visokim učilištima« zamjenjuju se riječima: »stipendije studentima u redovitom statusu na visokim učilištima, izabranima na javnim natječajima kojima mogu pristupiti svi studenti pod jednakim uvjetima«.
+
+Točka 22. mijenja se i glasi:
+
+»22. Primitke u visini razlike između primljenih bespovratnih novčanih sredstava isplaćenih iz fondova Europske unije i državnog proračuna Republike Hrvatske za provedbu mjere trajne obustave ribolovne aktivnosti ili mjere trajnog ukidanja prava na obavljanje ribolova obalnim mrežama potegačama, malim plivaricama i gospodarskog sakupljanja crvenog koralja uz uništenje plovila ili ribolovnih alata, u skladu s posebnim propisima, i knjigovodstvene vrijednosti uništenog plovila odnosno ribolovnih alata«.
+
+U točki 23. riječ: »poslijediplomantima« zamjenjuje se riječima: »studentima na poslijediplomskoj razini«.
+
+U točki 25. riječi: »i/ili« brišu se.
+
+U točki 26. iza riječi: »propisu« briše se točka i dodaju riječi: »i/ili«.
+
+Iza točke 26. dodaje se točka 27. koja glasi:
+
+»27. primitke, po osnovi nagrade za dobro obavljenu uslugu primljene od strane trećih osoba (napojnice) evidentirane u sustavu fiskalizacije prema posebnom propisu o fiskalizaciji, do propisanog iznosa.«.
+
+U stavku 2. riječi: »21. i 23. ovoga članka« zamjenjuju se riječima: »21., 23., 24. i 27. ovoga članka«.
+
+#### Članak 3.
+
+U članku 11. stavku 12. riječi: »663,61 euro« zamjenjuju se riječima: »665,00 eura«, a riječi: »26,54 eura« zamjenjuju se riječima: »40,00 eura«.
+
+#### Članak 4.
+
+U članku 14. stavak 1. briše se.
+
+Dosadašnji stavci 2., 3. i 4., koji postaju stavci 1., 2. i 3., mijenjaju se i glase:
+
+»(1) Poreznom obvezniku se ostvareni dohodak iz članka 13. ovoga Zakona umanjuje za osnovni osobni odbitak u visini 560,00 eura i to za svaki mjesec poreznog razdoblja za koji se utvrđuje porez na dohodak.
+
+(2) Dijelovi osobnog odbitka za uzdržavane članove uže obitelji i djecu te invalidnost/tjelesno oštećenje izračunavaju se primjenom propisanih koeficijenata i osnovnog osobnog odbitka iz stavka 1. ovoga članka.
+
+(3) Rezident može uvećati osnovni osobni odbitak iz stavka 1. ovoga članka u visini iznosa:
+
+<table>
+<tr><td>R.<br> br.</td><td>Osnova za uvećanje<br> osnovnog osobnog odbitka</td><td>Koeficijent</td><td>Mjesečni iznos<br> (u eurima i centima)</td></tr>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td>1.</td><td>Uzdržavani članovi uže obitelji</td><td>0,5</td><td>280,00</td></tr>
+<tr><td>2.</td><td>Prvo uzdržavano dijete</td><td>0,5</td><td>280,00</td></tr>
+<tr><td>3.</td><td>Drugo uzdržavano dijete</td><td>0,7</td><td>392,00</td></tr>
+<tr><td>4.</td><td>Treće uzdržavano dijete</td><td>1,0</td><td>560,00</td></tr>
+<tr><td>5.</td><td>Četvrto uzdržavano dijete</td><td>1,4</td><td>784,00</td></tr>
+<tr><td>6.</td><td>Peto uzdržavano dijete</td><td>1,9</td><td>1064,00</td></tr>
+<tr><td>7.</td><td>Šesto uzdržavano dijete</td><td>2,5</td><td>1400,00</td></tr>
+<tr><td>8.</td><td>Sedmo uzdržavano dijete</td><td>3,2</td><td>1792,00</td></tr>
+<tr><td>9.</td><td>Osmo uzdržavano dijete</td><td>4,0</td><td>2240,00</td></tr>
+<tr><td>10.</td><td>Deveto uzdržavano dijete</td><td>4,9</td><td>2744,00</td></tr>
+<tr><td>11.</td><td colspan="3">Za svako daljnje uzdržavano dijete koeficijent osnovnoga osobnog odbitka progresivno se uvećava za 1,1 … više u odnosu prema koeficijentu za prethodno dijete</td></tr>
+<tr><td>12.</td><td>Invalidnost poreznog obveznika, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta</td><td>0,3</td><td>168,00</td></tr>
+<tr><td>13.</td><td>Invalidnost utvrđena po jednoj osnovi 100 % i/ili korištenje, na temelju posebnih propisa, prava na doplatak za pomoć i njegu poreznog obveznika odnosno prava na osobnu invalidninu, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta. Korištenje uvećanja osnovnog osobnog odbitka po ovoj osnovi isključuje korištenje uvećanja osnovnog osobnog odbitka iz r. br. 12.</td><td>1,0</td><td>560,00</td></tr>
+</table>
+
+U dosadašnjim stavcima 5., 6. i 7., koji postaju stavci 4., 5. i 6., riječi: »stavka 4. ovoga članka« zamjenjuju se riječima: »stavka 3. ovoga članka«.
+
+Dosadašnji stavak 8. postaje stavak 7.
+
+#### Članak 5.
+
+U članku 15. stavku 2. riječi: »i prireza porezu na dohodak« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, osobni odbitak uvećava se za darovanja dana iznad propisane visine, pod uvjetom da su dana za svrhe utvrđene strateškim projektima prema posebnim propisima ili strategijom nadležnih ministarstava na temelju odluke nadležnog ministarstva donesene uz suglasnost Vlade Republike Hrvatske.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ministar financija pravilnikom propisuje način ostvarivanja prava iz stavka 3. ovoga članka.«.
+
+#### Članak 6.
+
+U članku 16. stavku 1. riječi: »stavka 3.« zamjenjuju se riječima: »stavka 1.«.
+
+U stavku 3. riječi: »stavka 4.« zamjenjuju se riječima: »stavka 3.«.
+
+#### Članak 7.
+
+U članku 17. stavku 1. riječi: »stavka 3.« zamjenjuju se riječima: »stavka 1.«.
+
+U stavku 3. riječi: »stavaka 3. i 4.« zamjenjuju se riječima: »stavaka 1. i 3.«, a riječi: »i prireza porezu na dohodak« brišu se.
+
+U stavcima 6. i 8. riječi: »stavku 4.« zamjenjuju se riječima: »stavku 3.«.
+
+#### Članak 8.
+
+Članak 19. mijenja se i glasi:
+
+»Godišnji porez na dohodak plaća se po nižoj stopi na poreznu osnovicu do visine 50.400,00 eura te po višoj stopi na dio porezne osnovice koji prelazi iznos od 50.400,00 eura.«.
+
+#### Članak 9.
+
+Iza članka 19. dodaje se članak 19.a koji glasi:
+
+»Članak 19.a
+
+(1) Visine poreznih stopa iz članka 19. ovoga Zakona određuju predstavnička tijela jedinica lokalne samouprave svojom odlukom.
+
+(2) Predstavničko tijelo jedinica lokalne samouprave može svojom odlukom propisati visine poreznih stopa u granicama propisanim ovim Zakonom, i to:
+
+1. općina – nižu stopu u granicama od 15 % do 22 % te višu stopu u granicama od 25 % do 33 %
+
+2. grad s manje od 30.000 stanovnika nižu stopu u granicama od 15 % do 22,40 % te višu stopu u granicama od 25 % do 33,60 %
+
+3. grad s više od 30.000 stanovnika nižu stopu u granicama od 15 % do 23 % te višu stopu u granicama od 25 % do 34,50 %
+
+4. Grad Zagreb nižu stopu u granicama od 15 % do 23,60 % te višu stopu u granicama od 25 % do 35,40 %.
+
+(3) Odluka predstavničkog tijela jedinice lokalne samouprave iz stavka 1. ovoga članka objavljuje se u »Narodnim novinama«, donosi se najkasnije do kraja studenoga tekuće godine, sa stupanjem na snagu 1. siječnja iduće godine i primjenjuje se do donošenja nove odluke.
+
+(4) Jedinice lokalne samouprave dužne su odluku svog predstavničkog tijela iz stavka 1. ovoga članka dostaviti Ministarstvu financija, Poreznoj upravi u roku od osam dana od dana njezina donošenja radi objave na mrežnim stranicama Porezne uprave.
+
+(5) Ako predstavničko tijelo jedinice lokalne samouprave ne donese odluku kojom će propisati visinu poreznih stopa u propisanom roku, određuje se stopa od 20 % na poreznu osnovicu do visine 50.400,00 eura i 30 % na dio porezne osnovice koji prelazi iznos od 50.400,00 eura.«.
+
+#### Članak 10.
+
+U članku 21. stavku 4. točki 3. iza riječi: »vlastitih dionica« dodaju se riječi: »te udjela u društvu«.
+
+#### Članak 11.
+
+U članku 24. stavku 2. riječi: »stavcima 3. i 4.« zamjenjuju se riječima: »stavcima 1. i 3.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Predujam poreza na dohodak od nesamostalnog rada obračunava se primjenom stopa utvrđenih prema članku 19.a ovoga Zakona, i to:
+
+– niže stope na mjesečnu poreznu osnovicu do visine 4200,00 eura te
+
+– više stope na mjesečnu poreznu osnovicu koji prelazi iznos od 4200,00 eura.«.
+
+#### Članak 12.
+
+U članku 25. stavku 6. riječi: »i prireza porezu na dohodak« i riječi: »i prirez porezu na dohodak« brišu se.
+
+#### Članak 13.
+
+U članku 29. stavku 3. riječi: »10.684,19 eura« zamjenjuju se riječima: »10.685,00 eura«.
+
+U stavku 4. riječi: »četverostrukog iznosa osnovice osobnog odbitka« zamjenjuju se riječima: »trostrukog iznosa osnovnog osobnog odbitka«.
+
+#### Članak 14.
+
+U članku 32. stavku 12. riječi: »21,24 eura« zamjenjuju se riječima: »22,00 eura«.
+
+#### Članak 15.
+
+U članku 35. stavku 2. riječi: »veći od 464,53 eura« zamjenjuju se riječima: »veći od 665,00 eura«.
+
+#### Članak 16.
+
+U članku 39. stavku 3. točka 8. mijenja se i glasi:
+
+»8. stipendije učenicima za redovito školovanje na srednjim školama te studentima u redovitom statusu na sveučilišnim prijediplomskim studijima, sveučilišnim diplomskim studijima, sveučilišnim integriranim prijediplomskim i diplomskim studijima odnosno stručnim prijediplomskim studijima i stručnim diplomskim studijima iz članka 9. stavka 1. točke 14. ovoga Zakona, iznad propisanog iznosa«.
+
+#### Članak 17.
+
+U članku 40. stavak 1. mijenja se i glasi:
+
+»(1) Predujam poreza na dohodak od drugog dohotka prema članku 39. stavku 1. ovoga Zakona plaća se po odbitku, primjenom niže stope utvrđene prema članku 19.a ovoga Zakona.«.
+
+U stavku 3. riječi: »po stopi od 20 %« zamjenjuju se riječima: »po nižoj stopi utvrđenoj prema članku 19.a ovoga Zakona«, a riječi: »stavka 3.« zamjenjuju se riječima: »stavka 1.«.
+
+#### Članak 18.
+
+U članku 46. stavku 2. podstavcima 1. i 2. riječi: »po stopi od 20 %« zamjenjuju se riječima: »po nižoj stopi«.
+
+U stavku 7. riječi: »s danom podnošenja godišnje porezne prijave« zamjenjuju se riječima: »sa zadnjim danom roka za podnošenje godišnje porezne prijave«.
+
+#### Članak 19.
+
+U članku 47. stavku 1. riječi: »i prireza porezu na dohodak« brišu se, a riječi: »stavaka 3. i 4.« zamjenjuju se riječima: »stavaka 1. i 3.«.
+
+U stavku 2. riječi: »koje su propisale plaćanje prireza porezu na dohodak« brišu se.
+
+#### Članak 20.
+
+U članku 49. stavku 1. točki 4. iza riječi: »76. ovoga Zakona« riječ: »i« briše se, stavlja se zarez, a iza riječi: »76.a ovoga Zakona« dodaju se riječi: »i drugi dohodak po osnovi nagrade za dobro obavljenu uslugu (napojnice) prema članku 76.b ovoga Zakona«.
+
+#### Članak 21.
+
+U članku 51. stavku 1. riječi: »i prireza porezu na dohodak« brišu se.
+
+#### Članak 22.
+
+U članku 54. stavcima 1., 2., 3., 9. i 10. riječi: »i prireza porezu na dohodak« brišu se.
+
+U stavku 11. riječi: »i prireza porezu na dohodak« i riječi: »i prirezu porezu na dohodak« brišu se.
+
+#### Članak 23.
+
+U članku 58. stavcima 2. i 4. riječi: »stavaka 5. i 6.« zamjenjuju se riječima: »stavaka 4. i 5.«.
+
+#### Članak 24.
+
+U članku 62. stavku 1. riječi: »od 10 %« zamjenjuju se riječima: »od 12 %«.
+
+U stavcima 2., 3. i 4. riječi: »od 20 %« zamjenjuju se riječima: »od 24 %«.
+
+U stavku 6. riječi: »od 10 %« zamjenjuju se riječima: »od 12 %«.
+
+#### Članak 25.
+
+U članku 65. stavku 2. točki 4. iza riječi: »obveznica« dodaju se riječi: »te u dužničke vrijednosne papire i instrumente tržišta novca koje izdaje Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave«.
+
+#### Članak 26.
+
+U članku 67. stavku 4. točki 4. riječi: »i/ili« brišu se.
+
+U točki 5. iza riječi: »obitelji« briše se točka i dodaju riječi: »i/ili«.
+
+Iza točke 5. dodaje se točka 6. koja glasi:
+
+»6. otuđenje dužničkih vrijednosnih papira i instrumenata tržišta novca koje izdaje Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave.«.
+
+U stavku 8. riječi: »stavaka 5. i 6.« zamjenjuju se riječima: »stavaka 4. i 5.«.
+
+U stavku 10. riječi: »stavaka 5. i 6.« zamjenjuju se riječima: »stavaka 4. i 5.«, a riječi: »dan prvotnog stjecanja kada je primijenjeno izuzeće od oporezivanja« zamjenjuju se riječima: »dan nabave pravnog prednika«.
+
+#### Članak 27.
+
+U naslovu iznad članka 68. iza riječi: »dionica« dodaju se riječi: »i udjela u društvu«.
+
+U članku 68. stavcima 1. i 2. iza riječi: »vlastitih dionica« dodaju se riječi: »te udjela u društvu«.
+
+U stavku 3. riječi: »vlastitih dionica« zamjenjuju se riječima: »dionica i udjela«.
+
+U stavku 6. riječ: »vlastitih« briše se.
+
+#### Članak 28.
+
+U članku 70. stavku 1. riječi: »od 10 %« zamjenjuju se riječima: »od 12 %«.
+
+U stavku 2. riječi: »od 30 %« zamjenjuju se riječima: »od 36 %«.
+
+U stavcima 4. i 17. riječi: »od 10 %« zamjenjuju se riječima: »od 12 %«.
+
+U stavku 18. riječi: »od 20 %« zamjenjuju se riječima: »od 24 %«.
+
+U stavku 19. riječi: »od 10 %« zamjenjuju se riječima: »od 12 %«.
+
+#### Članak 29.
+
+Iza članka 76.a dodaju se naslov iznad članka i članak 76.b koji glase:
+
+*»Drugi dohodak po osnovi nagrade za dobro obavljenu uslugu (napojnice)*
+
+#### Članak 76.b
+
+(1) Drugim dohotkom smatraju se primici po osnovi nagrade iz članka 9. stavka 1. točke 27. ovoga Zakona iznad propisanog iznosa.
+
+(2) Pri utvrđivanju drugog dohotka iz stavka 1. ovoga članka ne priznaju se izdaci.«.
+
+#### Članak 30.
+
+U članku 77. riječi: »od 30 %« zamjenjuju se riječima: »od 36 %«.
+
+#### Članak 31.
+
+U članku 78. stavku 1. riječi: »od 30 %« zamjenjuju se riječima: »od 36 %«.
+
+#### Članak 32.
+
+Iza članka 78.a dodaju se naslov iznad članka i članak 78.b koji glase:
+
+*»Utvrđivanje poreza na dohodak od drugog dohotka po osnovi nagrade za dobro obavljenu uslugu (napojnice)*
+
+#### Članak 78.b
+
+(1) Porez na dohodak od drugog dohotka iz članka 76.b ovoga Zakona plaća se iz primitka po osnovi nagrade iz članka 9. stavka 1. točke 27. ovoga Zakona iznad propisanog iznosa po odbitku po stopi od 20 %.
+
+(2) Porez na dohodak iz stavka 1. ovoga Zakona obračunavaju, obustavljaju i uplaćuju isplatitelji primitaka do 15. dana u mjesecu koji slijedi nakon mjeseca u kojem su ostvareni primici iz članka 76.b stavka 1. ovoga Zakona.
+
+(3) Isplatitelji primitaka iz stavka 2. ovoga članka obvezni su Poreznoj upravi dostavljati izvješća o isplaćenim primicima po osnovi kojih se utvrđuje drugi dohodak iz članka 76.b stavka 1. ovoga Zakona i obustavljenom i uplaćenom porezu na dohodak, u propisanom roku, na propisanom obrascu.
+
+(4) Ministar financija pravilnikom propisuje način provedbe ovoga članka.«.
+
+#### Članak 33.
+
+U članku 81. stavku 2. riječi: »i prireza porezu na dohodak« brišu se, a riječi: »13,27 eura« zamjenjuju se riječima: »15,00 eura«.
+
+#### Članak 34.
+
+U članku 82. stavcima 5. i 6. riječi: »od 10 %« zamjenjuju se riječima: »od 12 %«.
+
+#### Članak 35.
+
+U članku 83. stavku 3. riječi: »i prireza porezu na dohodak« brišu se.
+
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Porezna uprava može putem sustava ePorezna, na temelju podataka iz svojih službenih evidencija, omogućiti isplatiteljima primitaka uvid u podatke koji se odnose na isplaćene neoporezive primitke po osnovi nagrade za dobro obavljenu uslugu (napojnice).
+
+(7) U slučaju uočenih nepravilnosti Porezna uprava može naknadno od isplatitelja napojnice zatražiti ispravak podnesenog izvješća po primatelju.«.
+
+#### Članak 36.
+
+U članku 91. stavku 1. točki 5. riječi: »i prirezu« brišu se.
+
+U točki 11. iza riječi: »članak 78.a stavak 2.« dodaju se riječi: »i članak 78.b stavak 2.«.
+
+#### Članak 37.
+
+U članku 94. stavku 2. riječi: »od 10 %« zamjenjuju se riječima: »od 12 %«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 38.
+
+(1) Odredba članka 46. stavka 7. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20. i 151/22.), koja je izmijenjena člankom 18. ovoga Zakona, primjenjuje se u postupku godišnjeg obračuna poreza na dohodak za 2023. godinu i nadalje.
+
+(2) Odluke iz članka 9. ovoga Zakona jedinice lokalne samouprave donose i objavljuju u »Narodnim novinama« do kraja 2023. godine, a stupaju na snagu 1. siječnja 2024.
+
+#### Članak 39.
+
+Ministar financija uskladit će provedbene propise Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20. i 151/22.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu, i to:
+
+– Pravilnik o porezu na dohodak (»Narodne novine«, br. 10/17., 128/17., 106/18., 1/19., 80/19., 1/20., 74/20., 1/21., 102/22., 112/22., 156/22., 1/23. 3/23. i 56/23.)
+
+– Pravilnik o paušalnom oporezivanju samostalnih djelatnosti (»Narodne novine«, br. 1/20., 1/21., 156/22. i 15/23.)
+
+– Pravilnik o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu (»Narodne novine«, br. 1/19., 1/20., 1/21. i 156/22.).
+
+#### Članak 40.
+
+Dohodak ostvaren do 31. prosinca 2023. oporezivat će se po Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20. i 151/22.).
+
+#### Članak 41.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 42.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu prvoga dana od dana objave u »Narodnim novinama«, osim članaka 1. do 8. i članaka 10. do 37. ovoga Zakona koji stupaju na snagu 1. siječnja 2024.
+
+Klasa: 022-02/23-01/52
+
+Zagreb, 28. rujna 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dohodak (NN 152/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2505*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dohodak, koji je Hrvatski sabor donio na sjednici 13. prosinca 2024.
+
+Klasa: 011-02/24-02/90
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 17. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK**
+
+#### Članak 1.
+
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) u članku 1. stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, pripadnost poreza na dohodak po osnovi ostvarenog dohotka od imovine na temelju najma ili zakupa nekretnina iz članka 57. stavka 1. ovoga Zakona i dohotka od iznajmljivanja kuća, stanova, soba i postelja te objekata za robinzonski smještaj putnicima i turistima i organiziranja kampova iz članka 57. stavka 2. ovoga Zakona određuje se prema mjestu gdje se nekretnina odnosno smještajna jedinica nalazi.«.
+
+#### Članak 2.
+
+U članku 14. stavku 1. riječi: »560,00 eura« zamjenjuju se riječima: »600,00 eura«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Rezident može uvećati osnovni osobni odbitak iz stavka 1. ovoga članka u visini iznosa:
+
+<table>
+<tr><td>R. br.</td><td>Osnova za uvećanje<br> osnovnog osobnog odbitka</td><td>Koeficijent</td><td>Mjesečni iznos<br> (u eurima i centima)</td></tr>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td>1.</td><td>Uzdržavani članovi uže obitelji</td><td>0,5</td><td>300,00</td></tr>
+<tr><td>2.</td><td>Prvo uzdržavano dijete</td><td>0,5</td><td>300,00</td></tr>
+<tr><td>3.</td><td>Drugo uzdržavano dijete</td><td>0,7</td><td>420,00</td></tr>
+<tr><td>4.</td><td>Treće uzdržavano dijete</td><td>1,0</td><td>600,00</td></tr>
+<tr><td>5.</td><td>Četvrto uzdržavano dijete</td><td>1,4</td><td>840,00</td></tr>
+<tr><td>6.</td><td>Peto uzdržavano dijete</td><td>1,9</td><td>1140,00</td></tr>
+<tr><td>7.</td><td>Šesto uzdržavano dijete</td><td>2,5</td><td>1500,00</td></tr>
+<tr><td>8.</td><td>Sedmo uzdržavano dijete</td><td>3,2</td><td>1920,00</td></tr>
+<tr><td>9.</td><td>Osmo uzdržavano dijete</td><td>4,0</td><td>2400,00</td></tr>
+<tr><td>10.</td><td>Deveto uzdržavano dijete</td><td>4,9</td><td>2940,00</td></tr>
+<tr><td>11.</td><td colspan="3">Za svako daljnje uzdržavano dijete koeficijent osnovnoga osobnog odbitka progresivno se uvećava se za 1,1 … više u odnosu prema koeficijentu za prethodno dijete</td></tr>
+<tr><td>12.</td><td>Invalidnost poreznog obveznika, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta</td><td>0,3</td><td>180,00</td></tr>
+<tr><td>13.</td><td>Invalidnost utvrđena po jednoj osnovi 100 % i/ili korištenje, na temelju posebnih propisa, prava na doplatak za pomoć i njegu poreznog obveznika odnosno prava na osobnu invalidninu ili prava na inkluzivni dodatak poreznog obveznika, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta. Korištenje uvećanja osnovnog osobnog odbitka po ovoj osnovi isključuje korištenje uvećanja osnovnog osobnog odbitka iz r. br. 12.</td><td>1,0</td><td>600,00</td></tr>
+</table>
+
+«.
+
+#### Članak 3.
+
+U članku 19. riječi: »50.400,00 eura« zamjenjuju se riječima: »60.000,00 eura«.
+
+#### Članak 4.
+
+U članku 19.a stavak 2. mijenja se i glasi:
+
+»(2) Predstavničko tijelo jedinice lokalne samouprave može svojom odlukom propisati visine poreznih stopa u granicama propisanim ovim Zakonom, i to:
+
+1. općina − nižu stopu u granicama od 15 % do 20 % te višu stopu u granicama od 25 % do 30 %
+
+2. grad − nižu stopu u granicama od 15 % do 21 % te višu stopu u granicama od 25 % do 31 %
+
+3. veliki grad i grad sjedište županije − nižu stopu u granicama od 15 % do 22 % te višu stopu u granicama od 25 % do 32 %
+
+4. Grad Zagreb − nižu stopu u granicama od 15 % do 23 % te višu stopu u granicama od 25 % do 33 %.«.
+
+U stavku 5. riječi: »50.400,00 eura« zamjenjuju se riječima: »60.000,00 eura«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Predstavničko tijelo jedinice lokalne samouprave donosi odluku iz stavka 1. ovoga članka na prijedlog izvršnog tijela.«.
+
+#### Članak 5.
+
+U članku 24. stavku 3. podstavcima 1. i 2. riječi: »4200,00 eura« zamjenjuju se riječima »5000,00 eura«.
+
+#### Članak 6.
+
+U članku 40. stavku 1. na kraju rečenice briše se točka i dodaju riječi: »bez priznavanja osobnog odbitka iz članka 14. ovoga Zakona.«.
+
+#### Članak 7.
+
+U članku 46. iza stavka 2. dodaju se novi stavci 3., 4., 5. i 6. koji glase:
+
+»(3) Godišnji porez na dohodak koji se utvrđuje prema porez­noj osnovici iz članka 18. ovoga Zakona umanjuje se fizičkim osobama s prebivalištem i boravištem u Republici Hrvatskoj koje imaju državljanstvo Republike Hrvatske i koje su neprekidno, najmanje dvije godine boravile u inozemstvu prema podacima iz zbirke podataka o prebivalištu i boravištu ministarstva nadležnog za unutarnje poslove, a koje nisu po nalogu tuzemnog poslodavca izaslane na rad u inozemstvo, za 100 % razmjernog dijela porezne obveze koja se odnosi na dohodak od nesamostalnog rada iz članka 21. stavka 1. točke 1. ovoga Zakona u razdoblju od pet godina.
+
+(4) Umanjenje iz stavka 3. ovoga članka primjenjuje se na fizičke osobe hrvatske iseljenike i njihove potomke u prekomorske i europske države utvrđene u skladu s propisom kojim se uređuju odnosi Republike Hrvatske s Hrvatima izvan Republike Hrvatske i na fizičke osobe hrvatske iseljenike, članove obitelji hrvatskog iseljenika, potomke hrvatskog iseljenika ili članove obitelji potomka hrvatskog iseljenika u prekomorske države utvrđene u skladu s tim propisom, a kojima je odobren privremeni boravak u svrhu useljavanja i povratka hrvatskog iseljeništva ili im je odobren stalni boravak sukladno propisu kojim se uređuju boravci stranaca u Republici Hrvatskoj.
+
+(5) Razdoblje od pet godina iz stavka 3. ovoga članka primjenjuje se od 1. siječnja godine u kojoj su ispunjeni uvjeti iz stavaka 3. i 4. ovoga članka.
+
+(6) Porezni obveznik koji ostvaruje pravo na umanjenje iz stavka 3. ovoga članka, iznimno može isto dokazivati podnošenjem obrasca za priznavanjem prava u posebnom postupku na način iz članka 53. stavka 1. ovoga Zakona ili do propisanog roka za podnošenje prigovora iz članka 54. stavka 3. ovoga Zakona.«.
+
+Dosadašnji stavak 3. postaje stavak 7.
+
+Iza dosadašnjeg stavka 4., koji postaje stavak 8., dodaje se stavak 9. koji glasi:
+
+»(9) Umanjenje iz stavka 3. ovoga članka isključuje korištenje umanjenja iz stavaka 1. i 2. ovoga članka.«.
+
+U dosadašnjem stavku 5., koji postaje stavak 10., riječi: »sukladno stavku 1.« zamjenjuju se riječima: »sukladno stavcima 1. do 3.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 11. i 12.
+
+Iza dosadašnjeg stavka 8., koji postaje stavak 13., dodaje se stavak 14. koji glasi:
+
+»(14) Ministar financija pravilnikom detaljnije propisuje ostvarivanje prava na umanjenja i primjene umanjenja propisanih ovim člankom te način provedbe ovoga članka.«.
+
+#### Članak 8.
+
+U članku 57. stavak 3. mijenja se i glasi:
+
+»(3) Porezni obveznik koji ostvaruje dohodak od imovine iz stavka 2. ovoga članka je fizička osoba – građanin, iznajmljivač kojemu je na temelju rješenja o odobrenju nadležnog ureda odobreno pružanje ugostiteljskih usluga u domaćinstvu u skladu s odredbama zakona kojima se uređuje ugostiteljska djelatnost.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Za slučaj iz stavka 2. ovoga članka, predstavničko tijelo jedinice lokalne samouprave obvezno je donijeti odluku kojom će propisati visine paušalnog poreza po krevetu odnosno po smještajnoj jedinici u kampu odnosno smještajnoj jedinici u objektu za robinzonski smještaj. Odluku o visini iznosa paušalnog poreza predstavničko tijelo jedinice lokalne samouprave donosi sukladno kategoriji u koju je jedinica lokalne samouprave razvrstana prema indeksu turističke razvijenosti, utvrđenom za prethodnu godinu, sukladno posebnom propisu, u granicama propisanim ovim Zakonom, i to:
+
+| Kategorija jedinice lokalne samouprave prema indeksu turističke razvijenosti | Iznos paušalnog poreza u eurima i centima |
+|---|---|
+| I | 100,00 − 300,00 |
+| II | 70,00 − 200,00 |
+| III | 30,00 − 150,00 |
+| IV,0 | 20,00 − 100,00 |
+
+«.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., iza riječi: »smještajnoj jedinici u kampu« dodaju se riječi: »odnosno po smještajnoj jedinici u objektu za robinzonski smještaj«.
+
+Iza dosadašnjeg stavka 5., koji postaje stavak 6., dodaju se novi stavci 7. i 8. koji glase:
+
+»(7) Ako predstavničko tijelo jedinice lokalne samouprave ne donese odluku kojom će propisati visine paušalnog poreza u propisanom roku, visina paušalnog poreza po krevetu odnosno po smještajnoj jedinici u kampu odnosno po smještanoj jedinici u objektu za robinzonski smještaj određuje se:
+
+| Kategorija jedinice lokalne samouprave prema indeksu turističke razvijenosti | Iznos paušalnog poreza u eurima i centima |
+|---|---|
+| I | 200,00 |
+| II | 135,00 |
+| III | 90,00 |
+| IV, 0 | 60,00 |
+
+(8) Predstavničko tijelo jedinice lokalne samouprave donosi odluku iz stavka 4. ovoga članka na prijedlog izvršnog tijela.«.
+
+Dosadašnji stavak 6. postaje stavak 9.
+
+U dosadašnjim stavcima 7. i 8., koji postaju stavci 10. i 11., riječi: »stavka 6.« zamjenjuju se riječima: »stavka 9.«.
+
+#### Članak 9.
+
+U članku 58. stavku 1. četvrta rečenica mijenja se i glasi: »Troškovi ulaganja za koje porezni obveznik posjeduje vjerodostojne isprave te troškovi otuđenja mogu se odbiti kao izdaci.«.
+
+Stavci 2., 3. i 4. mijenjaju se i glase:
+
+»(2) Dohodak od otuđenja nekretnina iz stavka 1. ovoga članka ne oporezuje se ako je nekretnina ili imovinsko pravo otuđeno nakon dvije godine od dana nabave odnosno nakon dvije godine od dana kada je nekretnina osposobljena za uporabu, ako je nekretnina izgrađena, rekonstruirana ili je promijenila oblik i namjenu.
+
+(3) Iznimno od stavka 2. ovoga članka, dohodak od otuđenja nekretnina i imovinskih prava oporezuje se ako je otuđeno više od tri nekretnine iste vrste ili više od tri imovinska prava iste vrste u razdoblju od pet godina od dana stjecanja nekretnine ili imovinskog prava odnosno u razdoblju od pet godina od dana kada su stečene nekretnine osposobljene za uporabu u slučaju izgradnje, rekonstrukcije ili promjene oblika i namjene. Ako se otuđuje zgrada s više stanova ili poslovnih prostora ili građevinsko zemljište ili više zemljišnih čestica, jednom nekretninom smatra se svaki stan, poslovni prostor, gradilište ili zemljišna čestica. Dohodak čini razlika između ukupnog iznosa primitka utvrđenog prema tržišnoj vrijednosti nekretnina ili imovinskih prava koji se otuđuju u razdoblju od pet godina i njihove nabavne vrijednosti uvećane za rast proizvođačkih cijena industrijskih proizvoda te za troškove ulaganja i otuđenja za koje porezni obveznik posjeduje vjerodostojne isprave.
+
+(4) Dohodak od otuđenja nekretnina iz stavaka 1. i 3. ovoga članka ne oporezuje se:
+
+1. ako je nekretnina služila za stanovanje poreznom obvezniku ili uzdržavanim članovima njegove uže obitelji iz članka 14. stavaka 4. i 5. ovoga Zakona
+
+2. ako se nekretnine izvlašćuju na temelju posebnog zakona
+
+3. ako je otuđenje izvršeno između bračnih drugova i srodnika u prvoj liniji i drugih članova uže obitelji iz članka 14. stavaka 4. i 5. ovoga Zakona, te između razvedenih bračnih drugova ako je otuđenje u neposrednoj svezi s razvodom braka, osim u slučaju kada porezni obveznik tako stečene nekretnine otuđi u izmijenjenom obliku od stečenog ovisno o njihovim obilježjima i namjenama
+
+4. ako je otuđenje u neposrednoj vezi s nasljeđivanjem nekretnina i imovinskih prava, osim u slučaju kada porezni obveznik tako stečene nekretnine otuđi u izmijenjenom obliku od stečenog ovisno o njihovim obilježjima i namjenama.«.
+
+Iza stavka 4. dodaju se novi stavci 5. i 6. koji glase:
+
+»(5) Radi dokazivanja da se radi o nekretnini koja je služila za stanovanje poreznom obvezniku ili uzdržavanim članovima njegove uže obitelji iz članka 14. stavaka 4. i 5. ovoga Zakona, porezni obveznik dužan je dokazati činjenicu stalnog stanovanja, pri čemu se prijava prebivališta na adresi nekretnine ne smatra dovoljnim dokazom.
+
+(6) Dohodak od otuđenja nekretnina iz stavka 3. ovoga članka ne oporezuje se ako se otuđuju zemljišta čija je pojedinačna površina do 250 m², a ukupno do 1000 m².«.
+
+Dosadašnji stavci 5. do 8. postaju stavci 7. do 10.
+
+U dosadašnjim stavcima 9. i 10., koji postaju stavci 11. i 12., riječi: »stavka 8.« zamjenjuju se riječima: »stavka 10.«.
+
+#### Članak 10.
+
+U članku 62. iza stavka 8. dodaje se novi stavak 9. i stavak 10. koji glase:
+
+»(9) Smatra se da je ostvarena najamnina i zakupnina i u slučaju kada je nekretnina i/ili pokretnina predana na uporabu ili korištenje drugoj osobi bez isprave o nastanku ili promjeni činjenica vezanih za ostvarivanje najamnine i zakupnine nekretnina i pokretnina.
+
+(10) Iznimno od stavka 9. ovoga članka, najamnina i zakupnina nije ostvarena u slučaju kada porezni obveznik nekretninu i pokretninu preda na uporabu ili korištenje sljedećim osobama: njegovu bračnom drugu, njegovu krvnom srodniku u ravnoj liniji, u pobočnoj liniji do drugog stupnja, po tazbini do istog stupnja bez obzira na to je li brak prestao ili nije, posvojitelju, posvojeniku, skrbniku, osobi pod skrbništvom te osobi koja s njime živi u zajedničkom kućanstvu.«.
+
+Dosadašnji stavak 9. postaje stavak 11.
+
+#### Članak 11.
+
+U članku 82. stavku 5. iza prve rečenice dodaje se druga rečenica koja glasi: »Utvrđeni godišnji porez na dohodak plaća se tromjesečno do posljednjeg dana svakog tromjesečja.«.
+
+Iza stavka 9. dodaje se novi stavak 10. koji glasi:
+
+»(10) Ako je uvjet vezan za ulazak u sustav poreza na dodanu vrijednost iz stavaka 1. i 2. ovoga članka ispunjen tijekom mjeseca, dohodak i porez na dohodak utvrđuje se u paušalnom iznosu do kraja mjeseca u kojem je isti ispunjen, osim u slučaju ispunjenja uvjeta tijekom zadnjeg mjeseca poreznog razdoblja.«.
+
+Dosadašnji stavak 10. postaje stavak 11.
+
+Dosadašnji stavak 11., koji postaje stavak 12., mijenja se i glasi:
+
+»(12) Ministar financija pravilnikom propisuje evidencije i izvješća u svezi s paušalnim oporezivanjem prema stavcima 2. i 3. ovoga članka te kriterije i postupke po kojima će predstavničko tijelo jedinice lokalne samouprave svojom odlukom propisati visine paušalnog poreza na dohodak u Zakonom predviđenom rasponu.«.
+
+#### Članak 12.
+
+U članku 92. stavku 1. točki 1. riječi: »članak 46. stavak 6.« zamjenjuju se riječima: »članak 46. stavak 11.«.
+
+#### Članak 13.
+
+U cijelom tekstu Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) riječi: »iznajmljivanja stanova, soba i postelja putnicima i turistima i organiziranja kampova« u određenom broju i padežu zamjenjuju se riječima: »iznajmljivanja kuća, stanova, soba i postelja te objekata za robinzonski smještaj putnicima i turistima i organiziranja kampova« u odgovarajućem broju i padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 14.
+
+(1) Predstavnička tijela jedinica lokalne samouprave koja su visinu poreznih stopa utvrdila odlukom sukladno članku 19.a stavku 2. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) dužna su donijeti novu odluku sukladno članku 4. ovoga Zakona ako je visina poreznih stopa izvan granica propisanih člankom 4. ovoga Zakona.
+
+(2) Odluku iz stavka 1. ovoga članka predstavnička tijela jedinice lokalne samouprave dužna su donijeti i objaviti u »Narodnim novinama« najkasnije do 28. veljače 2025.
+
+(3) Odluka iz stavka 1. ovoga članka primijenit će se pri utvrđivanju predujmova poreza na dohodak iz članaka 24. i 40. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) od 1. ožujka 2025., a u postupku godišnjeg obračuna poreza na dohodak za cijelo porezno razdoblje 2025. godine.
+
+(4) Do donošenja odluke iz stavka 1. ovoga članka i stupanjem na snagu u roku iz stavka 3. ovoga članka, pri utvrđivanju predujmova poreza na dohodak iz članaka 24. i 40. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) primjenjuje se odluka donesena sukladno članku 19.a stavku 2. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.).
+
+(5) Zbog različitog poreznog opterećenja u poreznom razdoblju proizišlog na temelju primjene stavaka 3. i 4. ovoga članka, poslodavac i isplatitelj primitaka i mirovina može za 2025. godinu izvršiti godišnji obračun na način propisan člankom 47. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.).
+
+#### Članak 15.
+
+(1) Predstavnička tijela jedinica lokalne samouprave koja su visinu paušalnog poreza po krevetu odnosno po smještajnoj jedinici u kampu odnosno po smještajnoj jedinici za robinzonski smještaj utvrdila odlukom sukladno članku 57. stavku 3. Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) dužna su donijeti novu odluku sukladno članku 8. ovoga Zakona ako je visina paušalnog poreza po krevetu odnosno po smještajnoj jedinici u kampu odnosno po smještajnoj jedinici za robinzonski smještaj izvan granica propisanih člankom 8. ovoga Zakona.
+
+(2) Odluku iz stavka 1. ovoga članka predstavnička tijela jedinice lokalne samouprave dužna su donijeti te dostaviti Poreznoj upravi najkasnije do 28. veljače 2025.
+
+(3) Ako predstavničko tijelo jedinice lokalne samouprave ne donese odluku u propisanom roku iz stavka 1. ovoga članka, visina paušalnog poreza po krevetu odnosno po smještajnoj jedinici u kampu odnosno po smještajnoj jedinici za robinzonski smještaj određuje se sukladno članku 57. stavku 7. koji je dodan člankom 8. ovoga Zakona.
+
+#### Članak 16.
+
+Dohodak ostvaren do 31. prosinca 2024. oporezivat će se po Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.).
+
+#### Članak 17.
+
+Ministar financija će u roku od 90 dana od dana stupanja na snagu ovoga Zakona uskladiti sljedeće pravilnike s odredbama ovoga Zakona:
+
+– Pravilnik o porezu na dohodak (»Narodne novine«, br. 10/17., 128/17., 106/18., 1/19., 80/19., 1/20., 74/20., 1/21., 102/22., 112/22., 156/22., 1/23., 3/23. − ispravak, 56/23. i 143/23.)
+
+– Pravilnik o paušalnom oporezivanju samostalnih djelatnosti (»Narodne novine«, br. 1/20., 1/21., 156/22., 15/23. i 1/24.)
+
+– Pravilnik o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu (»Narodne novine«, br. 1/19., 1/20., 1/21., 156/22. i 1/24).
+
+#### Članak 18.
+
+Ministarstvo financija će u roku od tri godine od dana stupanja na snagu ovoga Zakona provesti vrednovanje ovoga Zakona.
+
+#### Članak 19.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2025.
+
+Klasa: 022-02/24-01/109
+
+Zagreb, 13. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

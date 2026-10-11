@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2015-03-09
+last_amended: 2021-04-09
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "26/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "26/15, 37/21"
+amendments:
+  - "NN 37/2021 (759) Uredba o izmjenama i dopunama Uredbe o kriterijima, mjerilima i postupcima financiranja i ugovaranja programa i projekata od interesa za opće dobro koje provode udruge"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/26/546"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o kriterijima, mjerilima i postupcima financiranja i ugovaranja programa i projekata od interesa za opće dobro koje provode udruge
 
 > Izvor: Narodne novine, NN 26/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/26/546).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 37/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1151,3 +1155,140 @@ Zagreb, 5. ožujka 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o kriterijima, mjerilima i postupcima financiranja i ugovaranja programa i projekata od interesa za opće dobro koje provode udruge (NN 37/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/37/759*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 33. stavka 2. Zakona o udrugama (»Narodne novine«, br. 74/14., 70/17. i 98/19.), Vlada Republike Hrvatske je na sjednici održanoj 8. travnja 2021. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O KRITERIJIMA, MJERILIMA I POSTUPCIMA FINANCIRANJA I UGOVARANJA PROGRAMA I PROJEKATA OD INTERESA ZA OPĆE DOBRO KOJE PROVODE UDRUGE**
+
+### Članak 1.
+
+U Uredbi o kriterijima, mjerilima i postupcima financiranja i ugovaranja programa i projekata od interesa za opće dobro koje provode udruge (»Narodne novine«, broj 26/15.), u članku 4. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. podstavka C) točke 2. ovoga članka, ako davatelj financijskih sredstava sredstva dodjeljuje na temelju posebnih propisa, obveza i opseg dostave podataka za potrebe godišnjeg izvješća uredit će se sporazumom sklopljenim između davatelja financijskih sredstava i Ureda za udruge.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+### Članak 2.
+
+U članku 6. stavku 3. iza podstavka 4. briše se točka i dodaje se podstavak 5. koji glasi:
+
+» – kada je to propisano posebnim propisom.«.
+
+### Članak 3.
+
+Iza članka 12. dodaju se naslov iznad članka i članak 12.a koji glase:
+
+*»Digitalizacija postupka*
+
+### Članak 12.a
+
+(1) Svi davatelji financijskih sredstava obvezni su omogućiti podnošenje cjelokupne prijavne dokumentacije elektroničkim putem korištenjem elektroničkog sustava prijavljivanja ili na drugi prikladan elektronički način.
+
+(2) Svi davatelji sredstava obvezni su omogućiti elektroničko podnošenje na pregled svih izvještaja (programskih i financijskih) u odnosu na svaki potpisani ugovor, kao i elektroničko podnošenje sve propisane popratne dokazne dokumentacije i obveznih priloga.
+
+(3) Davatelj financijskih sredstava podnošenje cjelokupne prijave na način iz stavka 1. ovoga članka osigurava korištenjem elektroničkog sustava ili na drugi prikladan elektronički način, a u skladu s primjenjivim nacionalnim zakonodavstvom i pravnim propisima Europske unije.
+
+(4) Podnositelji prijave koja se podnosi na način iz stavka 1. ovoga članka na zahtjev davatelja financijskih sredstava su dužni istome na uvid dostaviti svu potrebnu izvornu dokumentaciju i obvezne priloge u izvorniku.«.
+
+### Članak 4.
+
+U članku 13. stavak 3. mijenja se i glasi:
+
+»(3) Svi propisani obrasci trebaju biti potpisani i ovjereni pečatom od strane ovlaštene osobe podnositelja zahtjeva i voditelja programa ili projekata te na zahtjev davatelja financijskih sredstava dostavljaju se u izvorniku.«.
+
+### Članak 5.
+
+U članku 17. iza riječi: »javnim natječajem« umjesto zareza stavlja se točka, a riječi: »a obavezno mora sadržavati datum popunjavanja i potpis voditelja programa ili projekta.« brišu se.
+
+### Članak 6.
+
+U članku 20. iza stavka 2. dodaju se stavci 3. do 5. koji glase:
+
+»(3) Kriteriji za procjenjivanje programa ili projekata minimalno sadržavaju kriterij odnosa vrijednosti projekta u odnosu na društvenu korist.
+
+(4) Uz obvezne kriterije davatelj sredstava može uključiti dodatne kriterije za odabir projektnih prijava.
+
+(5) Ako davatelj financijskih sredstava uključi i kriterije za odabir projektnih prijava iz stavka 2. ovoga članka, kriterij odnosa vrijednosti projekta u odnosu na društvenu korist mora biti obvezno zastupljen s minimalnim udjelom od 30 % ukupnog broja bodova koje se mogu dodijeliti projektnoj prijavi.«.
+
+### Članak 7.
+
+U članku 29. iza stavka 6. dodaju se stavci 7. do 9. koji glase:
+
+»(7) Ako povjerenstvo za ocjenjivanje, osnovano od strane davatelja financijskih sredstava ili drugog tijela zaduženog za provedbu postupka ocjenjivanja u koje je davatelj financijskih sredstava i/ili tijelo zaduženo za provedbu postupka ocjenjivanja imenovao zaposlenike bilo davatelja financijskih sredstava bilo tijela zaduženog za provedbu postupka ocjenjivanja, ne završi postupak ocjenjivanja u roku od 50 dana od dana dodjele prijava za ocjenjivanje pojedinim članovima povjerenstva, davatelj financijskih sredstava ili tijelo zaduženo za provedbu postupka ocjenjivanja kao osnivač povjerenstava obvezan je, radi ubrzanja postupka dodjele sredstava, obustaviti rad povjerenstva te za ocjenjivanje prijava angažirati kompetentne vanjske stručnjake.
+
+(8) Davatelj financijskih sredstava ili tijelo zaduženo za provedbu postupka ocjenjivanja kao osnivač povjerenstva obvezan je, nakon obustave rada povjerenstva propisane stavkom 7. ovoga članka, kompetentne vanjske stručnjake angažirati u roku od 14 dana.
+
+(9) Nakon angažiranja kompetentnih vanjskih stručnjaka iz stavka 7. ovoga članka, davatelj financijskih sredstava ili tijelo zaduženo za provedbu postupka ocjenjivanja kao osnivač povjerenstva obvezan je osigurati da angažirani stručnjaci ocjenjivanje projektnih prijedloga provedu u roku od 30 dana.«.
+
+### Članak 8.
+
+U članku 34. iza stavka 5. dodaju se stavci 6. do 9. koji glase:
+
+»(6) Prilikom praćenja provedbe aktivnosti i namjenskog trošenja sredstava iz javnih izvora u okviru ugovorenog programa davatelj sredstava obvezan je troškove osoblja koji se odnose na osobe koje na projektu rade dio radnog vremena ugovoriti primjenom fiksnog postotka radnog vremena, u skladu s fiksnim postotkom radnog vremena upotrijebljenog za operaciju mjesečno, bez obveze uspostave zasebnog sustava za evidentiranje radnog vremena.
+
+(7) Ako su osobe zaposlene na projektu svaki mjesec tijekom trajanja provedbe projekta na fiksni postotak radnog vremena davatelj sredstava za iste ne provjerava niti prikuplja izvještaje o radu osoba.
+
+(8) Za korištenje metodologije iz stavaka 6. i 7. ovoga članka prilikom objave javnog natječaja, odnosno ugovaranja projekta nužno je definirati mjerljive ishode projekta i financijske korekcije za slučaj neispunjenja mjerljivih ishoda te se ostvarenjem mjerljivog ishoda na razini projekta zaključuje kako je osoba izvršila sve projektne obveze.
+
+(9) Mjerljive ishode i financijske korekcije iz stavka 8. ovoga članka davatelj financijskih sredstava će jasno utvrditi u natječajnoj dokumentaciji javnog natječaja, dok će količinu svakog pojedinog ostvarenog mjerljivog ishoda prijavitelj na natječaj točno odrediti u svojoj prijavi.«.
+
+### Članak 9.
+
+U članku 50. iza stavka 5. dodaju se stavci 6. do 15. koji glase:
+
+»(6) Davatelji sredstava mogu koristiti pojednostavljenu troškovnu opciju (u daljnjem tekstu: PTO), koja je utemeljena na posebnoj metodologiji obračuna troškova.
+
+(7) Kada se odluči na korištenje PTO-a, svaki davatelj financijskih sredstava samostalno razvija metodologiju koja uključuje financijske okvire troškova koji mogu biti financirani iz javnih izvora ili može preuzeti iste iz Uredbe (EU) br. 1303/2013 Europskog parlamenta i Vijeća od 17. prosinca 2013. o utvrđivanju zajedničkih odredbi o Europskom fondu za regionalni razvoj, Europskom socijalnom fondu, Kohezijskom fondu, Europskom poljoprivrednom fondu za ruralni razvoj i Europskom fondu za pomorstvo i ribarstvo i o utvrđivanju općih odredbi o Europskom fondu za regionalni razvoj, Europskom socijalnom fondu, Kohezijskom fondu i Europskom fondu za pomorstvo i ribarstvo te o stavljanju izvan snage Uredbe Vijeća (EZ) br. 1083/2006 (SL L 347, 20. 12. 2013.).
+
+(8) Ako se za natječaje za financiranje iz javnih izvora izvan natječaja ESI fondova preuzimaju metodologije previđene Uredbom iz stavka 7. ovoga članka za financiranje kroz natječaje, davatelj sredstava iste uvrštava u natječajnu dokumentaciju bez potrebe daljnjih izračuna, razrada metodologija ili obrazloženja.
+
+(9) Ako se davatelj sredstava iz javnih izvora odluči na korištenje PTO-a u natječajnoj dokumentaciji obvezan je navesti sadržajne mjerljive ishode i financijske korekcije te druge dokaze provedbe projekta koje očekuje za intervencije za koja se sredstva pravdaju na temelju PTO-a.
+
+(10) Obračunska metoda obvezno se objavljuje javno u okviru natječajne dokumentacije.
+
+(11) Prilikom razvoja vlastite metodologije PTO-a davatelj sredstava obvezan je istu sastaviti na način da je metodologija revizorski provjerljiva ili utemeljena na povijesnim podacima davatelja sredstava.
+
+(12) U svrhu korištenja PTO-a davatelj financijskih sredstava može razviti metodologiju standardne veličine jediničnih troškova na razini pojedinog javnog natječaja ili javnog poziva.
+
+(13) Ured za udruge će u svrhu korištenja PTO-a izraditi Nacionalni katalog vrijednosti standardnih veličina jediničnih troškova za pojedine vrste troškova (paušalnih iznosa) temeljem metodologije utvrđene u Uredbi iz stavka 7. ovoga članka na način koji će biti revizijski provjerljiv, utemeljen na povijesnim podacima ili relevantnom istraživanju tržišta uz poštivanje načela ekonomičnosti te će isti ažurirati svakih šest mjeseci.
+
+(14) Nacionalni katalog vrijednosti standardnih veličina jediničnih troškova za pojedine vrste troškova iz stavka 13. ovoga članka Ured za udruge objavit će na službenim mrežnim stranicama.
+
+(15) Ako koristi podatke iz Nacionalnog kataloga vrijednosti standardnih veličina jediničnih troškova za pojedine vrste troškova iz stavka 13. ovoga članka, davatelj financijskih sredstava nije obvezan primjenjivati posebnu metodologiju za izračun pojedinih troškova na razini pojedinog javnog natječaja niti izraditi dodatne izračune, metodologije ili obrazloženja.«.
+
+*Prijelazne i završne odredbe*
+
+### Članak 10.
+
+Postupci dodjele financijskih sredstava započeti prije stupanja na snagu ove Uredbe dovršit će se sukladno odredbama Uredbe o kriterijima, mjerilima i postupcima financiranja i ugovaranja programa i projekata od interesa za opće dobro koje provode udruge (»Narodne novine«, broj 26/15.).
+
+### Članak 11.
+
+(1) Svi davatelji financijskih sredstava iz javnih izvora dužni su svoje opće akte, smjernice, pravila i druge dokumente kojima se uređuje financiranje i ugovaranje programa i projekata uskladiti s odredbama ove Uredbe, u roku od 60 dana od dana stupanja na snagu ove Uredbe.
+
+(2) Ured za udruge izradit će Nacionalni katalog vrijednosti standardnih veličina jediničnih troškova za pojedine vrste troškova (paušalnih iznosa) iz članka 50. stavka 13. koji je dodan člankom 9. ove Uredbe, u roku od 120 dana od dana stupanja na snagu ove Uredbe.
+
+### Članak 12.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-03/14
+
+Urbroj: 50301-04/25-21-3
+
+Zagreb, 8. travnja 2021.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

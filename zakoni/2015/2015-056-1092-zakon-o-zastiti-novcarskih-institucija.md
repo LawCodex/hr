@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-05-22
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "56/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "56/15, 46/21, 114/22"
+amendments:
+  - "NN 46/2021 (932) Zakon o izmjenama i dopunama Zakona o zaštiti novčarskih institucija"
+  - "NN 114/2022 (1703) Zakon o izmjenama Zakona o zaštiti novčarskih institucija"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/56/1092"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o zaštiti novčarskih institucija
 
 > Izvor: Narodne novine, NN 56/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/56/1092).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 46/2021, NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1138,3 +1143,253 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti novčarskih institucija (NN 46/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/46/932*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI NOVČARSKIH INSTITUCIJA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti novčarskih institucija, koji je Hrvatski sabor donio na sjednici 23. travnja 2021.
+
+Klasa: 011-01/21-01/27
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 27. travnja 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI NOVČARSKIH INSTITUCIJA**
+
+#### Članak 1.
+
+U Zakonu o zaštiti novčarskih institucija (»Narodne novine«, br. 56/15.) u članku 7. točka 4. mijenja se i glasi:
+
+»4. Poslovnice banaka i štednih banaka s pripadajućim internim i eksternim bankomatima, dnevno-noćnim trezorima i sigurnosnim depozitnim spremnicima te interni i eksterni bankomati drugih pravnih osoba štite se:
+
+– primjenom protuprepadnog sustava s centraliziranom dojavom i nadzorom alarma
+
+– primjenom protuprovalnog sustava s centraliziranom dojavom i nadzorom alarma i spajanjem na unutarnje sirene i vanjske sirene s bljeskalicama
+
+– neprekidnim sustavom video-nadzora unutar i izvan objekta s pohranom video-zapisa u digitalnom obliku
+
+– primjenom sustava kontrole pristupa u prostorije i prostore s posebnom namjenom, sukladno propisanim sigurnosnim procedurama
+
+– tjelesnom zaštitom, pri čemu u poslovnicama poslovnih banaka u kojima se novčarsko poslovanje obavlja na deset i više aktivnih uplatno-isplatnih mjesta s najmanje dva zaštitara u smjeni
+
+– pohranom dnevnog manipulativnog novca u ladice s vremenskom odgodom otvaranja ili kase s vremenskom odgodom otvaranja
+
+– pohranom gotovog novca s uplatno-isplatnih mjesta iznad blagajničkog maksimuma propisanog sigurnosnim procedurama u: centralne trezore ili trezore ili čvrste neprobojne (zidane ili protubalističke) prostore ili prostorije s protuprovalnim ili drugim neprobojnim vratima u sefove s mehaničkim otvaranjem ili sefove s vremenskom odgodom otvaranja ili sefove koji imaju vremensku odgodu otvaranja, ako se nalaze izvan centralnih trezora, trezora ili čvrstih neprobojnih (zidanih ili protubalističkih) prostora ili prostorija s protuprovalnim ili drugim neprobojnim vratima.
+
+4.1. Centralni trezori, trezori i čvrsti neprobojni (zidani ili protubalistički) prostori te prostorije s protuprovalnim ili drugim neprobojnim vratima štite se sustavima protuprovalne i protuprepadne zaštite te sustavom video-nadzora s pohranom video-zapisa. Pristup trezoru i centralnom trezoru mora biti osiguran kontrolom pristupa, a pristup centralnom trezoru dodatno i mehaničkom zaštitom pretprostora čeličnim vratima s rešetkama ili bez njih.
+
+4.2. Uplatno-isplatna mjesta na kojima se posluje tzv. drive-in načinom, odnosno na kojima je omogućeno strankama obaviti novčarsko poslovanje iz vozila, moraju imati neprobojnu protubalističku pregradu, tehničku izvedbu koja omogućava glasovnu komunikaciju te pokretnu transfer-ladicu za provedbu transakcija sa strankama.
+
+4.3. Interni bankomati štite se protuprovalnim sustavom koji detektira otvaranje vrata, a svaki nasilni pokušaj ulaza u prostor sefa bankomata dojavljuje na centralni dojavni sustav zaštitarske tvrtke i putem zvučnog alarma, neprekidnim video-nadzorom s pohranom video-zapisa kojim se pokriva i korisnički i pozadinski dio bankomata te, u skladu s prosudbom ugroženosti svake pojedine lokacije u odnosu na povećani rizik za osobe i imovinu, sustavom elektrokemijske zaštite čijom se aktivacijom trajno označavaju i uništavaju novčanice s vidljivo istaknutom oznakom o uništenju i obojenju novca pri pokušaju nasilne provale u bankomat. Prosudbu ugroženosti svake pojedine lokacije internih bankomata u odnosu na povećani rizik za osobe i imovinu provodi banka, sukladno propisu kojim se uređuje djelatnost privatne zaštite.
+
+4.4. Eksterni bankomati štite se sustavom elektrokemijske zaštite čijom se aktivacijom trajno označavaju i uništavaju novčanice s vidljivo istaknutom oznakom o uništenju i obojenju novca pri pokušaju nasilne provale u bankomat i protuprovalnim sustavom koji svaki nasilni pokušaj ulaza u prostor sefa bankomata dojavljuje na centralni dojavni sustav zaštitarske tvrtke i putem zvučnog alarma, a iznimno neprekidnim video-nadzorom koji pokriva korisnički dio bankomata s pohranom video-zapisa za bankomate nad kojima je počinjeno kazneno djelo provale, pokušaja provale ili skimminga. Pohrana video-zapisa s eksternih bankomata može biti na snimaču unutar bankomata ili u prostoriji za bankomat u zaštićenom protusabotažnom metalnom kućištu odgovarajuće klase protuprovalnosti s dojavom neovlaštenog pristupa snimaču ili se video signal može odaslati na izdvojenu lokaciju na kojoj se snima.
+
+4.5. Svaki novi eksterni bankomat koji se stavlja u promet na korištenje građanima ili se zamjenjuje radi amortizacije ili uništenja po počinjenju kaznenog djela mora prije primjene, odnosno puštanja u pogon odmah biti opremljen sustavom elektrokemijske zaštite.
+
+4.6. Interni i eksterni bankomati moraju imati neprekidni nadzor komunikacijske veze bankomata s dojavnim centrom, a sefovi bankomata moraju imati EN 1143-1 europski certifikat za protuprovalnost.
+
+4.7. Dnevno-noćni trezori banaka štite se protuprovalnim sustavom koji registrira i dojavljuje nasilni pokušaj ulaza u trezor na centralni dojavni sustav zaštitarske tvrtke te obveznim neprekidnim video-nadzorom koji pokriva vanjski korisnički dio trezora, s pohranom video-zapisa. Konstrukcija depozitnog sefa za dnevno-noćne trezore mora imati EN 1143-2 europski certifikat za protuprovalnost.
+
+4.8. Sigurnosni depozitni spremnici u koje se pohranjuje novac i vrijednosti štite se kombiniranom zaštitom (minimalno protuprovalni sustav s dojavom na centralni dojavni sustav zaštitarske tvrtke ili zvučnim alarmom te mehanička zaštita putem učvršćenja spremnika za čvrstu podlogu i načinom otvaranja vrata putem elektromehaničkih brava sa šiframa ili suključarstvom).«.
+
+#### Članak 2.
+
+U članku 15. stavku 1. iza riječi: »i kretanja,« dodaju se riječi: »sustava elektrokemijske zaštite,«.
+
+#### Članak 3.
+
+U članku 16. stavku 1. iza riječi: »članka 29. stavka 2.« dodaju se riječi: »točke 2.«.
+
+U podstavku 7. iza riječi: »spremnik« stavlja se zarez i dodaju se riječi: »kasetu bankomata«.
+
+#### Članak 4.
+
+U članku 19. stavku 2. točka 8. mijenja se i glasi:
+
+»8. bankomate i druge uplatno-isplatne uređaje s tehnologijom kojom se postiže isti ili veći učinak zaštite novčanica ili se zbog drugih sigurnosnih, tehničkih ili organizacijskih razloga ne mogu uspostaviti osnovne mjere zaštite«.
+
+#### Članak 5.
+
+U članku 42. stavku 1. točka 30. mijenja se i glasi:
+
+»30. u kojoj ugradnja elemenata i sustava tehničke zaštite (protuprovalnih i protuprepadnih sustava, sustava video-nadzora, sustava kontrole ulaza/izlaza i kretanja, sustava elektrokemijske zaštite, protubalističke pregrade i drugi ugrađeni elementi i sustavi) nije provedena sukladno posebnim propisima kojima se uređuje djelatnost tehničke zaštite, kao i normama navedenim u popisu iz članka 14. stavka 3. i članka 45. stavka 1. (članak 15. stavak 1.)«.
+
+#### Članak 6.
+
+U članku 43. stavku 1. točka 6. mijenja se i glasi:
+
+»6. koja u tehničkoj dokumentaciji za uređaje i sustave elektrokemijske zaštite nema izvješća o ispitivanju s pozivom na normu kojom se ispituju svi sigurnosni parametri (elektro-ispitivanja, ispitivanja na mehanički, termički i drugi prodor u spremnik, kasetu bankomata ili uređaj te ispitivanje na postotak oštećenja novčanica) (članak 16. stavak 1. podstavak 7.)«.
+
+Iza točke 6. dodaje se točka 6.a koja glasi:
+
+»6.a koja u tehničkoj dokumentaciji za uređaje i sustave mehaničke i elektroničke zaštite u spremnicima za prijenos vrijednosti nema izvješća o ispitivanju s pozivom na normu kojom se ispituju svi sigurnosni parametri (elektro-ispitivanja, ispitivanja na mehanički, termički i drugi prodor u spremnik) (članak 16. stavak 1. podstavak 8.)«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 7.
+
+(1) Novčarske institucije dužne su uspostaviti mjere elektrokemijske zaštite novca u bankomate propisane ovim Zakonom u roku od tri godine od dana stupanja na snagu ovoga Zakona, osim kada se novi eksterni bankomat stavlja u promet na korištenje građanima ili se zamjenjuje radi amortizacije ili uništenja po počinjenju kaznenog djela, koji mora prije primjene, odnosno puštanja u pogon odmah biti opremljen sustavom elektrokemijske zaštite.
+
+(2) Uspostava mjera iz stavka 1. ovoga članka mora biti provedena tako da se elektrokemijska zaštita uvede u najmanje jednu trećinu od ukupnog broja eksternih bankomata svake godine, a prioriteti ugradnje ovise o procjeni rizika za počinjenje kaznenih djela na bankomatima na svakoj pojedinoj lokaciji u odnosu na povećani rizik za osobe i imovinu, koju provodi banka.
+
+#### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/166
+
+Zagreb, 23. travnja 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o zaštiti novčarskih institucija (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1703*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZAŠTITI NOVČARSKIH INSTITUCIJA
+
+Proglašavam Zakon o izmjenama Zakona o zaštiti novčarskih institucija, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/101
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZAŠTITI NOVČARSKIH INSTITUCIJA**
+
+### Članak 1.
+
+U Zakonu o zaštiti novčarskih institucija (»Narodne novine«, br. 56/15. i 46/21.) u članku 7. točki 6. podtočki 6.1. riječi: »do 30.000,00 kuna« zamjenjuju se riječima: »do 3981,68 eura«.
+
+U podtočki 6.2. riječi: »od 30.000,01 do 150.000,00 kuna« zamjenjuju se riječima: »veće od 3981,68 do 19.908,42 eura«.
+
+U podtočki 6.3. riječi: »od 150.000,00 kuna« zamjenjuju se riječima: »od 19.908,42 eura«.
+
+### Članak 2.
+
+U članku 11. stavku 2. riječi: »od 150.000,00 kuna« zamjenjuju se riječima: »od 19.908,42 eura«.
+
+### Članak 3.
+
+U članku 30. stavku 2. riječi: »do 400.000,00 kuna« zamjenjuju se riječima: »do 53.089,12 eura«, a riječi: »od 400.000,00 do 800.000,00 kuna« zamjenjuju se riječima: »od 53.089,12 do 106.178,25 eura«.
+
+U stavku 4. riječi: »od 800.000,00 kuna« zamjenjuju se riječima: »od 106.178,25 eura«.
+
+### Članak 4.
+
+U članku 31. stavku 3. riječi: »od 800.000,00 kuna« zamjenjuju se riječima: »od 106.178,25 eura«.
+
+### Članak 5.
+
+U članku 32. stavku 2. riječi: »do 800.000,00 kuna« zamjenjuju se riječima: »do 106.178,25 eura«.
+
+U stavku 3. riječi: »od 20.000,01 do 150.000,00 kuna« zamjenjuju se riječima: »većem od 2654,46 do 19.908,42 eura«.
+
+### Članak 6.
+
+U članku 33. stavku 1. riječi: »od 150.000,00 do 800.000,00 kuna« zamjenjuju se riječima: »od 19.908,42 do 106.178,25 eura«.
+
+U stavku 2. riječi: »od 20.000,01 do 150.000,00 kuna« zamjenjuju se riječima: »većem od 2654,46 do 19.908,42 eura«.
+
+### Članak 7.
+
+U članku 42. stavku 1. riječi: »od 50.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »od 6630,00 do 66.360,00 eura«.
+
+U točki 17. riječi: »od 150.000,00 kuna« zamjenjuju se riječima: »od 19.908,42 eura«.
+
+U točki 34. riječi: »od 150.000,00 do 800.000,00 kuna« zamjenjuju se riječima: »od 19.908,42 do 106.178,25 eura«.
+
+U točki 35. riječi: »od 800.000,00 kuna« zamjenjuju se riječima: »od 106.178,25 eura«.
+
+U točki 36. riječi: »od 20.000,01 do 150.000,00 kuna« zamjenjuju se riječima: »većem od 2654,46 do 19.908,42 eura«.
+
+U točki 37. riječi: »od 150.000,00 kuna« zamjenjuju se riječima: »od 19.908,42 eura«.
+
+U točki 38. riječi: »od 150.000,00 do 800.000,00 kuna« zamjenjuju se riječima: »od 19.908,42 do 106.178,25 eura«.
+
+U točki 39. riječi: »od 800.000,00 kuna« zamjenjuju se riječima: »od 106.178,25 eura«.
+
+U točki 40. riječi: »od 20.000,01 do 150.000,00 kuna« zamjenjuju se riječima: »većem od 2654,46 do 19.908,42 eura«.
+
+U stavku 2. riječi: »od 2000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 6630,00 eura«.
+
+U stavku 3. riječi: »od 5000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 2650,00 eura«.
+
+U stavku 5. riječi: »od 10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 3980,00 eura.«.
+
+### Članak 8.
+
+U članku 43. stavku 1. riječi: »od 5000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »od 1000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 250.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »od 33.180,00 do 66.360,00 eura«, a riječi: »od 20.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 2650,00 do 6630,00 eura«.
+
+U stavku 4. riječi: »od 2000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 6630,00 eura«.
+
+U točki 4. riječi: »od 800.000,00 kuna« zamjenjuju se riječima: »od 106.178,25 eura«.
+
+U točki 5. riječi: »do 400.000,00 kuna« zamjenjuju se riječima: »do 53.089,12 eura«.
+
+U točki 6. riječi: »od 400.000,00 do 800.000,00 kuna« zamjenjuju se riječima: »od 53.089,12 do 106.178,25 eura«.
+
+U točki 12. riječi: »od 150.000,00 do 800.000,00 kuna« zamjenjuju se riječima: »od 19.908,42 do 106.178,25 eura«.
+
+U točki 13. riječi: »od 800.000,00 kuna« zamjenjuju se riječima: »od 106.178,25 eura«.
+
+U stavku 5. riječi: »od 1000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 1990,00 eura«.
+
+### Članak 9.
+
+U članku 44. riječi: »od 1000,00 do 5000,00 kuna« zamjenjuju se riječima: »od 130,00 do 660,00 eura«.
+
+### Članak 10.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/101
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

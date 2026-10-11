@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-28
-last_amended: 2015-07-17
+last_amended: 2018-12-27
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "80/13, 78/15"
+narodne_novine: "80/13, 78/15, 12/18, 118/18"
 amendments:
   - "NN 78/2015 (1498) Zakon o izmjenama i dopunama Zakona o zaštiti okoliša"
+  - "NN 12/2018 (264) Zakon o izmjenama i dopunama Zakona o zaštiti okoliša"
+  - "NN 118/2018 (2345) Zakon o izmjenama i dopunama Zakona o zaštiti okoliša"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1659"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 80/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1659).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 78/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 78/2015, NN 12/2018, NN 118/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -5048,3 +5050,1423 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti okoliša (NN 12/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/12/264*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OKOLIŠA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti okoliša, koji je Hrvatski sabor donio na sjednici 26. siječnja 2018.
+
+Klasa: 011-01/18-01/03
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 31. siječnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OKOLIŠA**
+
+#### Članak 1.
+
+U Zakonu o zaštiti okoliša (»Narodne novine«, br. 80/13., 153/13. – Zakon o gradnji i 78/15.) u članku 2. stavku 1. iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2. Direktiva 2014/52/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o izmjeni Direktive 2011/92/EU o procjeni utjecaja određenih javnih i privatnih projekata na okoliš (tekst značajan za EGP) (SL L 124, 25. 4. 2014.);«.
+
+Dosadašnje točke 2. do 20. postaju točke 3. do 21.
+
+U stavku 2. iza točke 4. na kraju rečenice umjesto točke stavlja se točka sa zarezom te se dodaje točka 5. koja glasi:
+
+»5. Uredbe (EU) 2016/1628 Europskog parlamenta i Vijeća od 14. rujna 2016. o zahtjevima koji se odnose na ograničenja emisija plinovitih i krutih onečišćujućih tvari i homologaciju tipa za motore s unutarnjim izgaranjem za necestovne pokretne strojeve, o izmjeni uredbi (EU) br. 1024/2012 i (EU) br. 167/2013 te o izmjeni i stavljanju izvan snage Direktive 97/68/EZ (tekst značajan za EGP) (SL L 252, 16. 9. 2016.).«.
+
+#### Članak 2.
+
+U članku 4. stavak 1. mijenja se i glasi:
+
+»(1) Pojmovi koji se koriste u ovom Zakonu i u provedbi ovoga Zakona i propisa donesenih na temelju ovoga Zakona imaju sljedeće značenje:
+
+1. cjelovito upravljanje zaštitom okoliša je skup povezanih i usklađenih odluka i mjera kojima je svrha ostvarivanje jedinstvene zaštite okoliša, izbjegavanje i smanjivanje rizika po okoliš te poboljšavanje i ostvarivanje učinkovite zaštite okoliša,
+
+2. domino-efekt je niz povezanih učinaka koji zbog međusobnog razmještaja i blizine područja postrojenja, postrojenja, odnosno dijelova postrojenja ili grupe postrojenja i količina opasnih tvari prisutnih u tim područjima postrojenja povećavaju mogućnost izbijanja velike nesreće ili pogoršavaju posljedice nastale nesreće,
+
+3. dozvole prema posebnim propisima su dozvole za rad, u pisanom obliku, čitavog postrojenja ili jednog njegovog dijela ili uređaja za loženje, postrojenja za spaljivanje otpada ili postrojenja za suspaljivanje otpada prema posebnim propisima, a koje se izdaju temeljem nadležnosti za posebnu sastavnicu okoliša ili za posebnu djelatnost u vezi s okolišem,
+
+4. ekološka mreža je sustav međusobno povezanih ili prostorno bliskih ekološki značajnih područja, koja uravnoteženom biogeografskom raspoređenošću značajno pridonose očuvanju prirodne ravnoteže i bioraznolikosti; utvrđuje se prema posebnom propisu iz područja zaštite prirode,
+
+5. emisija je ispuštanje ili istjecanje tvari i smjesa, uključujući radioaktivne tvari i genetski modificirane organizme, u tekućem, plinovitom ili čvrstom agregatnom stanju, i/ili ispuštanje topline, buke, vibracije iz nepokretnih ili difuznih izvora u zrak, more, vodu i tlo, te ispuštanje svjetlosti i organizama, iz pojedinog izvora u okoliš, nastalo kao rezultat čovjekovih djelatnosti, kao i mikrobiološko onečišćivanje okoliša,
+
+6. granična vrijednost emisije je propisana ili određena vrijednost, koncentracija i/ili razina emisije u posebnim pokazateljima, izražena kao prosjek tijekom zadanog vremenskog razdoblja, pod posebnim referentnim uvjetima koja u jednom ili tijekom više vremenskih razdoblja ne smije biti prekoračena,
+
+7. imisija je koncentracija tvari na određenom mjestu i u određenom vremenu u okolišu,
+
+8. industrijska nesreća je događaj koji je posljedica nekontroliranog slijeda događanja u tijeku neke radnje ili aktivnosti u postrojenju, tijekom proizvodnje i/ili uporabe proizvoda, skladištenja i/ili rukovanja proizvodom ili odlaganja otpada,
+
+9. industrijska emisija je ispuštanje ili istjecanje tvari, ispuštanje energije (toplina, buka, vibracije) iz stacionarnih ili difuznih izvora u postrojenju u zrak, vodu i tlo,
+
+10. informacija o okolišu je svaka informacija u pisanom, vizualnom, slušnom, elektroničkom ili drugom materijalnom obliku, koja se odnosi na okoliš, njegove sastavnice i opterećenja, a posebice o opterećivanju okoliša: emisijama, imisijama, otpadu, bioraznolikosti i krajobraznoj raznolikosti, prostoru, kulturnoj baštini, prirodnim pojavama, stanju sastavnica okoliša, postupcima tijela javne vlasti koji se odnose na donošenje propisa, općih i pojedinačnih akata u vezi sa zaštitom okoliša, i/ili koji se odnose na donošenje strategija, planova, programa i izvješća o okolišu, sastavnicama okoliša i opterećenjima, te informacija o učinkovitosti provedbe strategija, planova, programa i mjera, stanju i mjerama i načinima održavanja projektiranog stanja postrojenja i drugih objekata, koji bi mogli utjecati na onečišćivanje okoliša i sastavnica okoliša, odnosno koji bi mogli utjecati na s okolišem povezana opterećenja i/ili postupke,
+
+11. informacije pohranjene kod tijela javne vlasti su informacije o okolišu koje su u posjedu tijela javne vlasti i koje su ta tijela sama proizvela ili zaprimila,
+
+12. informacije tijela javne vlasti pohranjene kod drugih su informacije o okolišu koje čuvaju osobe – ovlaštenici u ime tijela javne vlasti,
+
+13. integralno upravljanje obalnim područjem je dinamički proces održivog upravljanja i korištenja obalnih područja, uzimajući istodobno u obzir krhkost obalnih ekosustava i krajobraza, raznolikost aktivnosti i korištenja, njihovo međusobno djelovanje, pomorsku usmjerenost pojedinih aktivnosti i korištenja i njihov utjecaj na morske i kopnene dijelove,
+
+14. izbjegnuta nesreća je neplanirani događaj koji je unutar područja postrojenja i/ili izvan njega imao potencijal za uzrokovanje štetnih posljedica za zdravlje ljudi, oštećenje materijalnih dobara ili ugrožavanje prirode i okoliša, ali je ono izbjegnuto,
+
+15. iznenadni događaj na postojećem ili planiranom odobalnom objektu ili povezanoj infrastrukturi znači događaj ili slijed takvih događaja prema propisu kojim se uređuje sigurnost pri odobalnom istraživanju i eksploataciji ugljikovodika,
+
+16. izvancestovni pokretni stroj je svaki pokretni stroj, industrijska oprema ili vozilo s karoserijom ili bez nje, koji nije namijenjen cestovnom prijevozu putnika i roba i u kojemu je ugrađen motor s unutarnjim izgaranjem,
+
+17. javni interes je interes u pitanjima zaštite okoliša koji iskazuje Država ili jedinica lokalne, odnosno područne (regionalne) samouprave sukladno svojem statutu,
+
+18. javnost je jedna ili više fizičkih ili pravnih osoba, njihove skupine, udruge i organizacije sukladno posebnim propisima i praksi,
+
+19. kapacitet postrojenja je najveća vrijednost pokazatelja obavljanja djelatnosti postrojenja, koja je određena tehničkim razlozima u postrojenju (tehnička mogućnost obavljanja djelatnosti),
+
+20. kakvoća okoliša je stanje okoliša i/ili sastavnica okoliša, koje je posljedica djelovanja prirodnih pojava i/ili ljudskog djelovanja, izraženo morfološkim, fizikalnim, kemijskim, biološkim, estetskim i drugim pokazateljima,
+
+21. kompenzacijski uvjeti su mjere koje se određuju radi osiguranja opće povezanosti (koherentnosti) ekološke mreže, a utvrđuju se prema posebnom propisu,
+
+22. krajobraz je određeno područje viđeno ljudskim okom, čija je narav rezultat međusobnog djelovanja prirodnih i ljudskih čimbenika, a predstavlja bitnu sastavnicu čovjekovog okruženja, izraz raznolikosti zajedničke kulturne i prirodne baštine te temelj identiteta područja,
+
+23. tehnike zaštite okoliša (kraće: tehnike) su mjere zaštite okoliša koje se propisuju u postupku utvrđivanja okolišne dozvole kroz utvrđivanje najboljih raspoloživih tehnika za postrojenje, a uključuju i tehnologiju te način na koji se tehnologija planira, gradi, održava, koristi i uklanja,
+
+24. morski ekosustavi su područja oceanskog prostora koja uključuju obalna područja od riječnih ušća (estuarija) i granica morskih struja uz obalu do granica epikontinentalnog pojasa prema moru, a ta područja obilježava osebujna produktivnost i trofičke, batimetrijske i hidrografske karakteristike područja,
+
+25. morski okoliš je životni prostor organizama i njihovih zajednica koji je određen karakterističnim fizičkim, kemijskim i biološkim značajkama, a obuhvaća: područja otvorenog mora, riječna ušća (estuarije) te morska obalna područja, uključujući unutarnje morske vode, teritorijalno more, morsko dno, morsko podzemlje, odnosno morske vode pod suverenitetom Republike Hrvatske, te u kojima Republike Hrvatska ostvaruje suverena prava i jurisdikciju,
+
+26. nacionalna lista pokazatelja (NLP) jest skup podatkovnih tablica za izradu pokazatelja stanja okoliša kojima se za pojedino tematsko područje na temelju nacionalnih te propisa Europske unije i međunarodnih propisa navodi izvor, set i tijek te vremenska razdoblja prikupljanja podataka, definira metoda izračuna i način prikaza podataka, obveze izvješćivanja i dostupnost podataka,
+
+27. najbolje raspoložive tehnike (u daljnjem tekstu: NRT) su: najnaprednija faza u razvoju aktivnosti i njihovih načina rada, što pokazuje kolika je praktična primjenjivost pojedinih tehnika kao osnova za granične vrijednosti emisije i ostale uvjete dozvole koji su osmišljeni kako bi spriječili i, gdje to nije izvedivo, smanjili emisije i utjecaj na okoliš u cijelosti:
+
+– tehnike označavaju i tehnologiju koja se koristi i način na koji se postrojenje projektira, gradi, održava, koristi i stavlja izvan upotrebe,
+
+– raspoložive tehnike označavaju tehnike koje su razvijene u opsegu koji dozvoljava primjenu u odgovarajućem industrijskom sektoru, pod ekonomski i tehnički održivim uvjetima, vodeći računa o troškovima i prednostima, bez obzira jesu li tehnike korištene ili proizvedene u Republici Hrvatskoj, sve dok su operateru raspoložive po prihvatljivim uvjetima,
+
+– najbolje podrazumijeva najučinkovitije u postizanju visoke opće razine zaštite okoliša u cijelosti,
+
+28. nositelj odobrenja odobalnih objekata je ovlaštenik dozvole prema propisu koji uređuje sigurnost pri odobalnom istraživanju i eksploataciji ugljikovodika,
+
+29. nositelj zahvata je podnositelj zahtjeva: za ocjenu o potrebi procjene utjecaja na okoliš, za utvrđivanje sadržaja studije o utjecaju na okoliš ili za procjenu utjecaja na okoliš,
+
+30. obalno područje mora je geomorfološko područje s obje strane obalne crte (crta plimnog vala), uključujući uži obalni pojas akvatorija, zaobalje i otoke, u kojem se međusobno djelovanje između morskih i kopnenih dijelova odvija u obliku složenih ekoloških sustava koji čine biotske i abiotske komponente, životni prostor za ljudske zajednice i njihove društvenogospodarske aktivnosti. Zemljopisni obuhvat obalnog područja uključuje područje određeno vanjskom granicom teritorijalnog mora Republike Hrvatske dok granicu obalnog područja u smjeru kopna čini granica obalnih jedinica lokalne samouprave i jedinica lokalne samouprave čiji dio teritorija zahvaća kopneni dio zaštićenog obalnog područja od 1000 m,
+
+31. ocjena prihvatljivosti za ekološku mrežu je postupak kojim se ocjenjuje utjecaj plana, programa ili zahvata, samog ili s drugim planovima, programima i zahvatima na ciljeve očuvanja i cjelovitost područja ekološke mreže,
+
+32. odobalni objekt znači objekt prema propisu kojim se uređuje sigurnost pri odobalnom istraživanju i eksploataciji ugljikovodika,
+
+33. održivi razvitak je razvitak društva, koji kao temeljne kriterije uključuje ekološku, gospodarsku i socio-kulturnu održivost, i koji s ciljem unaprjeđenja kvalitete života i zadovoljavanja potreba današnjeg naraštaja uvažava iste mogućnosti zadovoljavanja potreba idućih naraštaja, te omogućuje dugoročno očuvanje kakvoće okoliša, georaznolikosti, bioraznolikosti te krajobraza,
+
+34. okoliš je prirodno i svako drugo okruženje organizama i njihovih zajednica, uključivo i čovjeka koje omogućuje njihovo postojanje i njihov daljnji razvoj: zrak, more, vode, tlo, zemljina kamena kora, energija te materijalna dobra i kulturna baština kao dio okruženja koje je stvorio čovjek; svi u svojoj raznolikosti i ukupnosti uzajamnog djelovanja,
+
+35. okolišna dozvola je dozvola za rad postrojenja u pisanom obliku koja se izdaje temeljem jedinstvenog postupka utvrđivanja mjera zaštite okoliša kako je propisano odredbama ovoga Zakona,
+
+36. onečišćavanje morskog okoliša znači čovjekovo izravno ili neizravno unošenje tvari ili energije u morski okoliš, koje uzrokuje ili može prouzročiti pogubne posljedice na uvjete života biljnog i životinjskog svijeta u moru i morskom podzemlju, odnosno općenito ugroziti uvjete života u moru i ugroziti ljudsko zdravlje, te može ometati pomorske djelatnosti, uključujući ribolov i druge zakonite uporabe mora i podmorja, izazvati pogoršanje uporabne kakvoće morske vode i umanjenje privlačnosti morskog okoliša,
+
+37. onečišćivač je svaka fizička i pravna osoba, koja posrednim ili neposrednim djelovanjem, ili propuštanjem djelovanja uzrokuje onečišćavanje okoliša,
+
+38. onečišćavanje okoliša je promjena stanja okoliša uslijed nedozvoljene emisije i/ili drugog štetnog djelovanja, ili izostanaka potrebnog djelovanja, ili utjecaja zahvata koji može promijeniti kakvoću okoliša,
+
+39. onečišćenje je izravno ili neizravno unošenje, kao posljedica ljudske aktivnosti, tvari, vibracija, topline ili buke u zrak, vodu ili zemlju, što može biti štetno za zdravlje ljudi ili kvalitetu okoliša, može dovesti do oštećenja materijalne imovine ili narušiti ili umanjiti vrijednost i ostale legitimne načine korištenja okoliša,
+
+40. onečišćujuća tvar je tvar ili skupina tvari, koje zbog svojih svojstava, količine i unošenja u okoliš, odnosno u pojedine sastavnice okoliša, mogu štetno utjecati na zdravlje ljudi, biljni i/ili životinjski svijet, odnosno bioraznolikost i krajobraznu raznolikost,
+
+41. opasna tvar je posebnim propisom određena tvar, mješavina ili pripravak, koji je u području postrojenja prisutan kao sirovina, proizvod, nusproizvod ostatak ili među proizvod, uključujući i one tvari za koje se može pretpostaviti da mogu nastati u slučaju nesreće, a koje mogu imati štetne posljedice za zdravlje ljudi, materijalna dobra te prirodu i okoliš,
+
+42. opasnost je unutarnje svojstvo opasne tvari ili uvjeti u kojima se ta tvar može zateći, a kojima se može ugroziti ljudsko zdravlje i život, materijalna dobra i okoliš,
+
+43. opća obvezujuća pravila su pravila koja sadrže granične vrijednosti emisije ili druge mjere i tehnike na razini djelatnosti i koja su donesena kako bi se pomoću njih izravno utvrdili uvjeti (mjere i tehnike) okolišne dozvole ili dozvole prema posebnim propisima,
+
+44. operater je pravna ili fizička osoba koja u skladu s posebnim propisom obavlja ili nadzire gospodarsku djelatnost na temelju dozvole, drugog odobrenja, upisa u registar ili u drugu javnu evidenciju, uključujući upravljanje radom ili nadzor postrojenja, uređaja za loženje, postrojenja za spaljivanje ili postrojenja za suspaljivanje otpada u cijelosti ili dijelu postrojenja, ili na koju je prenesena ovlast donošenja ekonomskih odluka o tehničkom funkcioniranju postrojenja ili kako se određuje prema provedbenim propisima ovoga Zakona,
+
+45. operator ili vlasnik odobalnog objekta znači operator prema propisu kojim se uređuje sigurnost pri odobalnom istraživanju i eksploataciji ugljikovodika,
+
+46. opterećenja su emisije tvari i njihovih pripravaka, fizikalni i biološki činitelji (energija, buka, toplina, svjetlost i dr.) te djelatnosti koje ugrožavaju ili bi mogle ugrožavati sastavnice okoliša,
+
+47. opterećivanje okoliša je svaki zahvat ili posljedica utjecaja zahvata u okoliš ili utjecaj na okoliš određene aktivnosti, koja sama ili povezana s drugim aktivnostima može izazvati ili je mogla izazvati onečišćavanje okoliša, smanjenje kakvoće okoliša, štetu u okolišu, rizik po okoliš ili korištenje okoliša,
+
+48. ovlaštenik je pravna ili fizička osoba koja posjeduje suglasnost za obavljanje stručnih poslova iz područja zaštite okoliša,
+
+49. područje postrojenja označava cijelo područje koje je pod kontrolom operatera i u kojem su prisutne opasne tvari u jednom ili više postrojenja, uključujući zajedničku ili s njima povezanu infrastrukturu ili djelatnosti,
+
+50. pogon u smislu ovoga Zakona je posebna jedinica unutar postrojenja ili pogon kako se određuje prema provedbenim propisima ovoga Zakona,
+
+51. postrojenje u smislu ovoga Zakona je nepokretna tehnička jedinica u kojoj se odvija jedna ili više djelatnosti prema prilozima iz provedbenih propisa ovoga Zakona, kao i bilo koja druga izravno povezana aktivnost na istoj lokaciji koja je tehnički povezana s aktivnostima iz tih priloga i koja bi mogla imati utjecaj na industrijske emisije i s njima povezanog onečišćenja, ili kako se određuje prema provedbenim propisima ovoga Zakona,
+
+52. uređaj za loženje je svaki tehnički uređaj u kojem goriva oksidiraju kako bi se iskoristila na taj način dobivena toplina,
+
+53. postrojenje za spaljivanje otpada je nepokretna ili pokretna tehnička jedinica te oprema namijenjena toplinskoj obradi otpada, sa ili bez oporabe topline proizvedene izgaranjem, putem spaljivanja oksidacijom otpada, kao i ostalim postupcima toplinske obrade kao što su piroliza, uplinjavanje ili plazma postupak, ako se tvari nastale obradom kasnije spaljuju,
+
+54. postrojenje za suspaljivanje otpada je nepokretna ili pokretna tehnička jedinica kojoj je osnovna svrha proizvodnja energije ili proizvoda i koja koristi otpad kao redovno ili dodatno gorivo ili u kojoj se otpad termički obrađuje u svrhu njegova zbrinjavanja putem spaljivanja oksidacijom otpada, kao i ostalim postupcima toplinske obrade kao što su piroliza, uplinjavanje ili plazma postupak, ako se tvari nastale obradom kasnije spaljuju,
+
+55. postojeće postrojenje je postrojenje koje je u radu, uključujući i probni rad, ili je bilo u radu te ima mogućnost ponovnog pokretanja rada, neovisno o tome ima li ili nema okolišnu dozvolu, a koje je barem jednom dobilo dozvolu za početak rada sukladno posebnom propisu,
+
+56. područje utjecaja je područje na kojem se prostire značajan utjecaj zahvata u okoliš, bilo da je uzrokovan samim zahvatom u okoliš ili sinergijom s postojećim ili planiranim zahvatima u okoliš,
+
+57. praćenje stanja okoliša (monitoring) je niz aktivnosti koje uključuju uzorkovanje, ispitivanje i sustavno mjerenje emisija, imisija, praćenje prirodnih i drugih pojava u okolišu u svrhu zaštite okoliša,
+
+58. pravo na pristup pravosuđu je pravo na izjavljivanje žalbe nadležnom tijelu, odnosno pravo na podnošenje tužbe nadležnom sudu, koje se ovim Zakonom, uz propisane uvjete, utvrđuje osobama – građanima, drugim fizičkim te pravnim osobama, njihovim skupinama, udrugama i organizacijama radi ostvarivanja prava na zdrav život i održiv okoliš i u svrhu zaštite okoliša i pojedinih sastavnica okoliša i zaštite od štetnog utjecaja opterećenja,
+
+59. prijeteća opasnost od štete je dovoljna vjerojatnost da se u bliskoj budućnosti može dogoditi šteta u okolišu,
+
+60. prirodna pojava je fizikalno – kemijski proces, zračenje, geološka pojava, hidrografski i biološki uvjeti, uvjeti podneblja, kao i druge prirodne pojave koje uzrokuju i/ili utječu na promjene okoliša,
+
+61. prirodno dobro je dio prirode koje je isključivo ili istodobno prirodno javno dobro, prirodni izvor ili prirodna vrijednost ili kako se određuje prema provedbenim propisima ovoga Zakona,
+
+62. promjena u radu postrojenja jest promjena u naravi i/ili funkcioniranju, odnosno organizacijskom ustrojstvu postrojenja i/ili zaposlenika tvrtke ili proširenje postrojenja, koji mogu biti od utjecaja na okoliš,
+
+63. razine emisije povezane s najboljim raspoloživim tehnikama su razine industrijskih emisija koje su postignute u normalnim uvjetima rada koristeći najbolju raspoloživu tehniku ili kombinaciju najboljih raspoloživih tehnika, kako je opisano u zaključcima o NRT-u, izraženo kao prosjek tijekom zadanog vremenskog razdoblja, pod posebnim (referentnim) uvjetima,
+
+64. referentni dokument o najboljim raspoloživim tehnikama (u daljnjem tekstu: RDNRT) je dokument nastao kao rezultat razmjene podataka koju organizira Europska komisija između država članica, predmetnih industrija, nevladinih organizacija koje promoviraju zaštitu okoliša i Komisije, sastavljen za utvrđene djelatnosti. Ovaj dokument posebno opisuje primijenjene tehnike, sadašnje razine emisija i potrošnje, tehnike koje su razmatrane kod određivanja najboljih raspoloživih tehnika, kao i zaključke o referentnom dokumentu o NRT-u i bilo koje tehnike u nastajanju, vodeći posebno računa o kriterijima propisanim posebnim propisom,
+
+65. rizik po okoliš je veličina koja se mjeri vjerojatnošću pojavljivanja događaja i potencijalom štete za okoliš koji taj događaj može uzrokovati,
+
+66. sanacija je skup propisanih mjera i/ili aktivnosti kojima se uspostavlja ili nadomješta stanje okoliša koje je bilo prije nastanka štete, odnosno onečišćenja okoliša,
+
+67. sastavnice okoliša su: zrak, vode, more, tlo, krajobraz, biljni i životinjski svijet te zemljina kamena kora,
+
+68. standard kakvoće okoliša je skup zahtjeva koje određeni okoliš ili njegov pojedini dio moraju ispuniti u određenom roku, kako je utvrđeno aktima Europske unije,
+
+69. stanje morskog okoliša je sveukupno stanje okoliša u morskim vodama uzimajući u obzir strukturu, funkcije i procese sastavnica morskog okoliša zajedno s prirodnim fiziografskim, geografskim i klimatskim faktorima, kao i fizičkim, kemijskim i biološkim uvjetima, uključujući one koji su rezultat ljudske aktivnosti,
+
+70. strategija, plan i program je dokument koji je podložan pripremi i/ili usvajanju na državnoj, područnoj (regionalnoj) ili lokalnoj razini, ili koji je pripremljen za donošenje kroz zakonodavnu proceduru Hrvatskoga sabora ili procedure Vlade Republike Hrvatske te koji je uređen zakonom ili provedbenim propisom zakona, uključujući i strategije, planove i programe o izmjenama i dopunama tih strategija, planova i programa, te one koji se financiraju sredstvima Europske unije,
+
+71. stručna osoba ovlaštenika je fizička osoba u svojstvu radnika ovlaštenika koja obavlja stručne poslove zaštite okoliša u ulozi voditelja poslova ili stručnog suradnika,
+
+72. šteta u okolišu je svaka šteta nanesena:
+
+a) zaštićenim vrstama i prirodnim staništima prema posebnom propisu iz područja zaštite prirode, a koja ima značajan nepovoljan utjecaj na postizanje ili održavanje povoljnog stanja očuvanosti tih staništa i vrsta i ne uključuje prethodno utvrđene nepovoljne posljedice proizašle iz operaterove radnje koju je nadležno tijelo izričito odobrilo u skladu s posebnim propisima iz područja zaštite prirode,
+
+b) vodama, a koja ima značajan negativan utjecaj na ekološko, kemijsko i/ili količinsko stanje ili ekološki potencijal voda, uključujući štetu nastalu u skladu s posebnim propisima iz područja vodnoga gospodarstva uz iznimku onoga što se po tim propisima smatra neodstupanjem od postizanja ciljeva zaštite voda,
+
+c) morskim vodama koja ima značajan negativan utjecaj na očuvanje i postizanje dobrog stanja okoliša morskih voda, u skladu s provedbenim propisima iz područja upravljanja morskim okolišem i obalnim područjem,
+
+d) zemljištu, čije onečišćenje uzrokuje značajan rizik od štetnog utjecaja na zdravlje ljudi zbog izravnog ili neizravnog unošenja tvari, smjesa, organizama ili mikroorganizama u, na ili pod zemljište,
+
+73. šteta u smislu odgovornosti za štetu u okolišu je mjerljiv štetni učinak, odnosno nepovoljna ili negativna promjena na prirodnim dobrima ili uslugama prirodnih dobara, koji može nastati na izravan ili neizravan način,
+
+74. štetna tvar je tvar štetna za ljudsko zdravlje ili okoliš, s dokazanim akutnim i kroničnim toksičnim učincima, vrlo nadražujuća, kancerogena, mutagena, nagrizajuća, zapaljiva i eksplozivna tvar, ili tvar koja u određenoj dozi i/ili koncentraciji ima takva svojstva,
+
+75. tlo je gornji sloj Zemljine kore, smješten između kamene podloge i površine. Tlo se sastoji od čestica minerala, organske tvari, vode, zraka i živih organizama,
+
+76. tvari su kemijski elementi i njihovi spojevi u prirodnom stanju ili dobiveni proizvodnim postupkom, uključujući i dodatke (aditive) koji su nužni za održavanje njihove stabilnosti te nečistoće koje proizlaze iz proizvodnog postupka, uključujući radioaktivne tvari i genetski modificirane mikroorganizme i genetski modificirane organizme. U odredbama ovoga Zakona koje se odnose na okolišnu dozvolu tvar su kemijski elementi i njihovi spojevi, osim:
+
+– radioaktivnih tvari određenih posebnim propisom kojim se utvrđuju osnovne sigurnosne norme za zaštitu zdravlja radnika i šire javnosti od opasnosti od ionizirajućeg zračenja,
+
+– genetski modificiranih mikroorganizama koji su određeni posebnim propisom o kontroliranoj upotrebi genetski modificiranih mikroorganizama,
+
+– genetski modificiranih organizama koji su određeni posebnim propisom kojim se uređuje namjerno ispuštanje genetski modificiranih organizama u okoliš,
+
+77. tehnika u nastajanju je nova tehnika za industrijsku aktivnost koja bi, ako se komercijalno razvije, mogla pružiti višu opću razinu zaštite okoliša ili barem jednaku razinu zaštite okoliša, uz veće uštede troškova od postojećih najboljih raspoloživih tehnika,
+
+78. temeljno izvješće je izvješće o stanju tla i podzemnih voda koje su onečišćene opasnim tvarima povezanim s djelatnošću operatera,
+
+79. tijelo javne vlasti je tijelo državne vlasti, tijelo jedinica lokalne i područne (regionalne) samouprave i pravne osobe s javnim ovlastima koje obavljaju djelatnosti u vezi s okolišem,
+
+80. učinci industrijske i velike nesreće su sve neposredne ili posredne, trenutačne ili odgođene nepovoljne posljedice izazvane tim nesrećama na zdravlje i život ljudi, materijalna dobra i okoliš,
+
+81. uređaj je oprema ili dio opreme postrojenja koji podrazumijeva: strojeve, oruđa/alate, električne provodnike, cjevovode, željezničke kolosijeke i iskrcajne dokove u sklopu postrojenja, uključujući i skladišta te brane i sl. što je nužno za obavljanje djelatnosti operatera,
+
+82. velika nesreća je događaj, odnosno nekontrolirana pojava izazvana velikom emisijom, požarom ili eksplozijom i sl. koji su uzrokovani nekontroliranim razvitkom događanja tijekom djelovanja u području postrojenja u kojem su prisutne opasne tvari te jedna ili više tih opasnih tvari i/ili njihovih spojeva nastalih zbog događaja, odnosno nekontrolirane pojave koji dovode u ozbiljnu trenutačnu ili odgođenu – naknadnu opasnost za ljudsko zdravlje i život, materijalna dobra i/ili okoliš unutar područja postrojenja i/ili izvan područja postrojenja,
+
+83. veliki grad je jedinica lokalne samouprave sukladno zakonu kojim se uređuje lokalna i područna (regionalna) samouprava,
+
+84. verifikacija je standardizirani postupak kojim se osigurava pouzdanost, točnost i vjerodostojnost izvješća o emisijama u okoliš te njegova usklađenost s propisanim uputama o praćenju i izvješćivanju,
+
+85. zahvat u okoliš je privremeno ili trajno djelovanje čovjeka koje bi moglo utjecati na okoliš, za koje je potrebno ishoditi odgovarajuće odobrenje za realizaciju,
+
+86. zaključci o NRT-u su dokumenti koji sadrže dijelove referentnog dokumenta o NRT-u kojima se propisuju zaključci o najboljim raspoloživim tehnikama, opis najboljih raspoloživih tehnika, podatke za procjenu primjenjivosti NRT-a tehnika, razine emisija povezanih s najboljim raspoloživim tehnikama, povezano praćenje procesnih pokazatelja i emisija, povezane razine potrošnje i prema potrebi odgovarajuće mjere za oporavak lokacije,
+
+87. zainteresirana javnost je javnost na koju utječe ili bi moglo utjecati odlučivanje o okolišu, ili ima interes u odlučivanju o okolišu; udruge civilnog društva koje djeluju na području zaštite okoliša i ispunjavaju sve uvjete sukladno ovom Zakonu smatrat će zainteresiranima,
+
+88. zaštita okoliša je skup odgovarajućih aktivnosti i mjera kojima je cilj sprječavanje opasnosti za okoliš, sprječavanje nastanka šteta i/ili onečišćivanja okoliša, smanjivanje i/ili otklanjanje šteta nanesenih okolišu te povrat okoliša u stanje prije nastanka štete,
+
+89. zdravstvena ekologija je znanstveno stručna disciplina koja se bavi pitanjima zdravlja i bolesti ljudi koji su uvjetovani čimbenicima okoliša; to je i teorija i praksa praćenja, držanja pod kontrolom te sprječavanja negativnog djelovanja na zdravlje štetnih čimbenika okoliša,
+
+90. značajna promjena je svaki zahvat i/ili njegova izmjena, uključujući promjenu prirode rada i/ili funkcioniranja i/ili opsega rada, postrojenja, uređaja za loženje, postrojenja za spaljivanje ili postrojenja za suspaljivanje otpada koja prema mišljenju nadležnih tijela može imati značajan negativan utjecaj na zdravlje ljudi ili na okoliš.«.
+
+#### Članak 3.
+
+Članak 57. mijenja se i glasi:
+
+»(1) Planom intervencija utvrđuju se postupci i mjere za predviđanje, sprječavanje, ograničavanje, spremnost za i reagiranje na iznenadna onečišćenja mora i na iznenadne prirodne događaje u moru radi zaštite morskog okoliša i obalnog područja.
+
+(2) Plan intervencija sadrži osobito:
+
+– vrste rizika i prijetnji od onečišćenja mora,
+
+– područje djelovanja po Planu intervencija,
+
+– subjekte koji su dužni provoditi mjere, ovlaštenja u vezi s provedbom mjera zaštite morskog okoliša te odgovornost i ovlaštenja za postupanje i način rukovođenja, koordiniranja i zapovijedanja,
+
+– postupke i mjere za predviđanje, sprječavanje i ograničavanje onečišćenja mora i morskoga podzemlja,
+
+– postupke i mjere za smanjenje šteta u morskom okolišu te otklanjanja posljedica šteta u okolišu kod iznenadnog onečišćenja mora većih razmjera,
+
+– postupke i mjere za smanjenje šteta u morskom okolišu te otklanjanje posljedica šteta u okolišu uzrokovanih iznenadnim događajem na postojećem ili planiranom odobalnom objektu ili povezanoj infrastrukturi,
+
+– plan ljudskih resursa i materijalno – tehničkih sredstava koje je moguće angažirati za dopunu redovitih snaga,
+
+– način provedbe pripravnosti i način aktiviranja operativnih snaga,
+
+– način djelovanja operativnih snaga i drugih sudionika,
+
+– način održavanja reda i sigurnosti pri intervencijama u zaštiti morskog okoliša,
+
+– način osiguravanja financijskih sredstava za provedbu plana,
+
+– način praćenja stanja morskog okoliša i ocjenu potrebe uspostave mreže za dodatno praćenje stanja okoliša,
+
+– način provedbe interventnih mjera u iznenadnim slučajevima onečišćavanja morskog okoliša,
+
+– rokove za poduzimanje pojedinih mjera,
+
+– izvore financiranja za provedbu pojedinih mjera i procjenu potrebnih sredstava,
+
+− način korištenja kemijskih sredstava (disperzanata) kod iznenadnih onečišćenja mora.
+
+(3) Plan intervencija te njegove izmjene i dopune izrađuje Ministarstvo u suradnji sa središnjim tijelima državne uprave nadležnim za poslove pomorstva, gospodarstva, unutarnjih poslova, vodnoga gospodarstva, vanjskih poslova, financija, obrane, ribarstva i akvakulture, zaštite i spašavanja te relevantnim operatorima ili vlasnicima i nositeljima odobrenja odobalnih objekata.
+
+(4) Plan intervencija sukladno ovom Zakonu, Pomorskom zakoniku te posebnom propisu o sigurnosti pri odobalnom istraživanju i eksploataciji ugljikovodika predlaže Ministarstvo uz prethodnu suglasnost središnjeg tijela državne uprave nadležnog za poslove pomorstva, a donosi Vlada.
+
+(5) Plan intervencija se objavljuje u »Narodnim novinama«.
+
+(6) Plan intervencija daje se na raspolaganje Europskoj komisiji, drugim državama članicama, odnosno susjednim trećim zemljama koje bi mogle biti pogođene i javnosti.
+
+(7) Republika Hrvatska sukladno ovom Zakonu i Zakonu o potvrđivanju Sporazuma o Subregionalnom planu intervencija za sprječavanje, spremnost za i reagiranje na iznenadna onečišćenja Jadranskog mora većih razmjera (»Narodne novine« – Međunarodni ugovori, br. 7/08.), kojim je uspostavljen mehanizam suradnje država članica, odnosno trećim zemljama, redovito ispituje svoju pripravnost za učinkovito djelovanje u suradnji s državama članicama koje bi mogle biti pogođene, relevantnim agencijama Europske unije te na osnovi uzajamnosti s trećim zemljama koje bi mogle biti pogođene.«.
+
+#### Članak 4.
+
+U članku 76. stavak 2. mijenja se i glasi:
+
+»(2) Procjenom utjecaja na okoliš prepoznaje se, opisuje i ocjenjuje, na prikladan način, utjecaj svakog pojedinačnog zahvata iz stavka 1. ovoga članka na okoliš, tako da se utvrđuje mogući izravni i neizravni utjecaj zahvata na sljedeće čimbenike: zemljište, tlo, vode, more, zrak i klimu, šume, stanovništvo i zdravlje ljudi, biljni i životinjski svijet, biološku raznolikost, s posebnom pozornošću usmjerenom na vrste i staništa zaštićene sukladno posebnom zakonu, prirodne vrijednosti, krajobraz, materijalnu imovinu, kulturnu baštinu, uzimajući u obzir njihove međuodnose, te podložnost zahvata riziku od nastanka velike nesreće ili katastrofa ako je to relevantno za zahvat.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Procjena utjecaja zahvata na okoliš provodi se u okviru pripreme namjeravanog zahvata, prije podnošenja zahtjeva za izdavanje lokacijske dozvole za provedbu zahvata ili drugog odobrenja za zahvat za koji izdavanje lokacijske dozvole nije obvezno i taj postupak obuhvaća:
+
+– podnošenje zahtjeva sukladno članku 80. ovoga Zakona,
+
+– razmatranje mišljenja tijela i/ili osoba određenih posebnim propisom, mišljenja jedinica lokalne i područne (regionalne) samouprave na čijem području se nalazi zahvat ili bi zahvat mogao imati utjecaj na njihovo područje, sukladno članku 89. stavku 4. ovoga Zakona,
+
+– informiranje i sudjelovanje javnosti sukladno člancima 160. do 163. ovoga Zakona i, ako je relevantno, sukladno člancima 135. i 136. ovog Zakona,
+
+– donošenje rješenja sukladno članku 89. ovoga Zakona,
+
+– ugrađivanje rezultata procjene utjecaja zahvata na okoliš u sadržaj dozvola za provedbu zahvata sukladno članku 89.a ovoga Zakona.«.
+
+#### Članak 5.
+
+U članku 84. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) U slučaju kada je nositelj zahvata nadležno upravno tijelo u županiji, odnosno nadležno tijelo u Gradu Zagrebu, za provedbu postupka procjene utjecaja zahvata na okoliš, odnosno provedbu postupka ocjene o potrebi procjene utjecaja zahvata na okoliš, nadležno je Ministarstvo.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 6.
+
+U članku 88. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Iznimno od stavka 3. ovoga članka, rok za provedbu postupka ocjene o potrebi procjene utjecaja zahvata na okoliš može se produžiti. U tom slučaju Ministarstvo, odnosno nadležno upravno tijelo u županiji te u Gradu Zagrebu dužno je pisanim putem obavijestiti nositelja zahvata o razlozima produženja roka i o novom roku za provedbu postupka.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 7.
+
+U članku 89. stavak 1. mijenja se i glasi:
+
+»(1) O zahtjevu za procjenu utjecaja zahvata na okoliš odlučuje se rješenjem koje sadrži obrazloženje razloga prihvatljivosti zahvata za okoliš i/ili ekološku mrežu, odnosno razloga neprihvatljivosti za okoliš i/ili ekološku mrežu.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Prije donošenja rješenja o prihvatljivosti zahvata za okoliš iz svoje nadležnosti, Ministarstvo, nadležno upravno tijelo u županiji, odnosno u Gradu Zagrebu, dužni su o zahtjevu iz članka 80. ovog Zakona informirati jedinice lokalne i područne (regionalne) samouprave na čijem području se nalazi zahvat ili bi zahvat mogao imati utjecaj na njihovo područje, te omogućiti njihovo sudjelovanje u postupku.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 8.
+
+Članak 89.a mijenja se i glasi:
+
+»Mjere i/ili program praćenja stanja okoliša utvrđeni rješenjem o prihvatljivosti zahvata za okoliš, odnosno rješenjem iz postupka ocjene o potrebi procjene utjecaja zahvata na okoliš, obvezni su sadržaj glavnog projekta koji je sastavni dio akta kojim se odobrava građenje ili drugih akata za provedbu zahvata koje se izdaju prema posebnom zakonu.«.
+
+#### Članak 9.
+
+U članku 95. stavak 2. mijenja se i glasi:
+
+»(2) Prije puštanja u rad postrojenja, uključujući probni rad, za rad postojećih postrojenja, te prije značajne promjene u radu postrojenja namijenjenog obavljanju djelatnosti kojom se mogu prouzročiti industrijske emisije, operater je dužan ishoditi okolišnu dozvolu u skladu s ovim Zakonom i uredbom iz stavka 5. ovoga članka.«.
+
+#### Članak 10.
+
+U članku 96. podstavak 3. mijenja se i glasi:
+
+» – izbjegava stvaranje i/ili proizvodnja otpada, odnosno ako je otpad nastao da je isti prema redoslijedu važnosti pripremljen za ponovnu uporabu, recikliran, oporabljen, odnosno ako je to tehnički i ekonomski nemoguće postići, da je otpad zbrinut na način kojim se izbjegavaju ili smanjuju utjecaji na okoliš sukladno hijerarhiji gospodarenja otpadom i načelu blizine prema posebnom propisu,«.
+
+#### Članak 11.
+
+U članku 99. stavku 3. podstavak 12. mijenja se i glasi:
+
+» – opis glavnih alternativa predloženim tehnikama, koje je razmotrio operater postrojenja, te«
+
+Iza podstavka 12. dodaje se novi podstavak 13. koji glasi:
+
+» – ne-tehnički sažetak svih podataka navedenih u podstavcima 1. – 12. ovoga stavka,«.
+
+Dosadašnji podstavak 13. postaje podstavak 14.
+
+#### Članak 12.
+
+U članku 103. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Okolišna dozvola (u daljnjem tekstu: dozvola), pored ostalog, sadrži:
+
+1. popis djelatnosti u postrojenju koje potpadaju pod obveze iz dozvole,
+
+2. odredbu kojom se utvrđuje da su mjere i uvjeti kojima se postiže zaštita okoliša utvrđene u obliku knjige koja prileži dozvoli i dio su dozvole,
+
+3. odredbu o tajnosti podataka u kojoj se navodi koji podaci iz dozvole uključujući izreku (podrazumijeva se i priložena knjiga) i obrazloženje podliježu propisima o tajnosti podataka,
+
+4. odredbu da propisane mjere i uvjeti za postrojenje priležu unutar knjige iz točke 2. ovoga stavka,
+
+5. rok za razmatranje mjera i uvjeta iz dozvole kako je propisano člankom 115. stavkom 1. ovoga Zakona,
+
+6. odredbu da se dozvola upisuje u Očevidnik okolišnih dozvola.
+
+(2) U dozvoli se određuju obvezno sljedeće mjere i uvjeti:
+
+1. mjere i uvjeti vezani za proces u postrojenju:
+
+– procesne tehnike s definiranjem normalnih i neredovitih uvjeta rada, uključujući tehnike kod pokretanja i zaustavljanja postrojenja, kvarova, ispuštanja, trenutačnih zaustavljanja postrojenja te konačnog prestanka rada,
+
+– uvjeti kontrole i prevencije onečišćenja, s odgovarajućim uvjetima kojima se osigurava zaštita tla i podzemnih voda, uvjeti redovnog održavanja i kontrole mjera za prevenciju emisija u tlo i podzemne vode, kao i uvjeti periodičnog praćenja emisija u podzemne vode i tlo uslijed korištenja opasnih tvari u postrojenju, uzimajući u obzir mogućnost takvog onečišćenja,
+
+– uvjeti praćenja i gospodarenja otpadom iz postrojenja,
+
+– opis mjera predviđenih za praćenje emisija u okoliš (monitoring), s metodologijom mjerenja, učestalosti mjerenja i vrednovanjem rezultata mjerenja, te uvjeti za ocjenu poštivanja graničnih vrijednosti emisija, ili upućivanje na primjenjive zahtjeve koji su drugdje navedeni,
+
+– način uklanjanja postrojenja u skladu s budućom namjenom postrojenja,
+
+2. granične vrijednosti emisija za onečišćujuće tvari određene uredbom iz članka 95. stavka 5. ovoga Zakona i ostale onečišćujuće tvari (uključujući i odredbe za smanjenje dalekosežnog ili prekograničnog onečišćenja) za:
+
+– industrijske emisije u zrak,
+
+– industrijske emisije u vode, odnosno more,
+
+– industrijske emisije u sustav javne odvodnje,
+
+– industrijske emisije u tlo,
+
+– industrijske emisije buke,
+
+3. mjere koje se primjenjuju izvan postrojenja (ako je potrebno, primjerice: zaštita prirode),
+
+4. obveze izvještavanja javnosti i nadležnih tijela o rezultatima praćenja industrijskih emisija i drugim podacima s kojima se može provjeriti usklađenost s utvrđenim mjerama i uvjetima iz dozvole sukladno ovom Zakonu.«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Za postrojenja koja su prema Zakonu o potvrđivanju Ugovora o pristupanju Republike Hrvatske Europskoj uniji dobila prijelazne rokove, uz mjere i uvjete propisane u dozvoli navode se i rokovi primjene navedenih mjera i uvjeta.«.
+
+#### Članak 13.
+
+U članku 111. iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Operater je u obvezi dostaviti Ministarstvu relevantne podatke o mjerama koje je poduzeo nakon konačnog prestanka aktivnosti u skladu sa stavcima 5., 6. i 7. ovoga članka, a koje Ministarstvo objavljuje na svojim internetskim stranicama.«.
+
+Dosadašnji stavci 8. do 12. postaju stavci 9. do 13.
+
+#### Članak 14.
+
+Članak 114. mijenja se i glasi:
+
+»(1) Ministarstvo svakih deset godina, po službenoj dužnosti, razmatra, te ako je potrebno, posebnim rješenjem mijenja i/ili dopunjava dozvolu. Neovisno od roka po službenoj dužnosti, Ministarstvo obvezno razmatra dozvolu u slučajevima kada:
+
+– je onečišćenje koje uzrokuje postrojenje takvog značaja da je potrebno razmotriti granične vrijednosti industrijskih emisija utvrđene izdanom okolišnom dozvolom i u svrhu učinkovite zaštite okoliša utvrditi nove granične vrijednosti emisija,
+
+– postrojenje nije obuhvaćeno nijednim od zaključaka o NRT-u, ­ako razvoj NRT-a omogućava značajno smanjenje industrijskih emisija, odnosno u slučaju iz članka 107. stavka 1. ovoga Zakona,
+
+– sigurnosni uvjeti rada u postrojenju nalažu uporabu drugih raspoloživih i dostupnih tehnika,
+
+– to nalaže usklađivanje s ovim Zakonom, odnosno s europskim i/ili međunarodnim propisima,
+
+– je potrebno usklađenje s novonastalim standardom kakvoće okoliša.
+
+(2) Šest mjeseci prije isteka roka za razmatranje uvjeta dozvole iz stavka 1. ovog članka operater dostavlja obavijest Ministarstvu o isteku tog roka.
+
+(3) Na zahtjev Ministarstva, operater je dužan dostaviti sve podatke potrebne za ponovno razmatranje uvjeta okolišne dozvole u smislu stavka 1. ovoga članka, uključujući rezultate praćenja industrijskih emisija i ostale podatke koji omogućuju usporedbu rada postrojenja s NRT-om opisanim u primjenjivim zaključcima o NRT-u i s razinama industrijskih emisija koje su povezane s NRT-om, za slučaj da postrojenje nije obuhvaćeno nijednim od zaključaka o NRT-u.
+
+(4) U slučaju iz stavka 1. ovoga članka Ministarstvo mora koristiti podatke nastale praćenjem i/ili utvrđene inspekcijskim nadzorom.
+
+(5) Na postupak izmjene i dopune okolišne dozvole iz stavka 1. ovoga članka odgovarajuće se primjenjuju odredbe ovoga Zakona koje se odnose na podnošenje zahtjeva i postupak izdavanja okolišne dozvole.«.
+
+#### Članak 15.
+
+U članku 115. stavku 1. riječi: »uređaja za loženje odnosno postrojenja za spaljivanje i suspaljivanje otpada« brišu se.
+
+#### Članak 16.
+
+U članku 116. podstavak 2. mijenja se i glasi:
+
+» – bez odgađanja poduzeti mjere za ograničavanje posljedica za okoliš i za sprječavanje mogućih nezgoda i nesreća,«.
+
+#### Članak 17.
+
+U članku 117. stavak 2. mijenja se i glasi:
+
+»(2) Ako povreda uvjeta dozvole predstavlja neposrednu opasnost za zdravlje ljudi ili ako prijeti uzrokovanjem neposrednog značajnog štetnog učinka na okoliš, postrojenje ili njegov odgovarajući dio mora prestati s radom do ponovnog postizanja sukladnosti rada prema uvjetima dozvole, odnosno prema stavku 1. podstavcima 2. i 3. ovoga članka. Razloge za postupanje iz ovog stavka ocjenjuje Ministarstvo.«.
+
+#### Članak 18.
+
+Članak 137. mijenja se i glasi:
+
+»(1) Ako Ministarstvo procijeni da bi emisije iz postrojenja mogle znatnije utjecati na okoliš u drugoj državi ili ako druga država to zahtijeva, istovremeno s provedbom postupka sudjelovanja javnosti u postupku ishođenja okolišne dozvole za to postrojenje, Ministarstvo dostavlja nadležnom tijelu te države obavijest o zahtjevu operatera za ishođenje okolišne dozvole za postrojenje, odnosno za značajnu izmjenu u postrojenju koje ima okolišnu dozvolu. Obavijest sadrži sažeti opis zahtjeva operatera, informaciju o postupku koji se provodi s tim u vezi, rok u kojem druga država treba obavijestiti Ministarstvo o namjeri sudjelovanja u postupku okolišne dozvole. Obavijest o zahtjevu Ministarstvo će dostaviti i na zahtjev druge države. Ova obavijest se dostavlja najkasnije nakon što se o primitku zahtjeva informira javnost države.
+
+(2) Ako druga država iz stavka 1. ovoga članka obavijesti Ministarstvo da želi sudjelovati u postupku ishođenja okolišne dozvole za postrojenje, Ministarstvo dostavlja nadležnom tijelu te države sve podatke o podnesenom zahtjevu operatera, a koje Ministarstvo stavlja na raspolaganje vlastitoj javnosti i u isto vrijeme u koje ih stavlja na raspolaganje vlastitoj javnosti sukladno ovom Zakonu i propisu kojim se regulira informiranje i sudjelovanje javnosti i zainteresirane javnosti te propisu kojim se regulira ishođenje okolišne dozvole te određuje rok za dostavljanje mišljenja.
+
+(3) Podaci prema stavcima 1. i 2. ovoga članka koriste se za provedbu potrebnih savjetovanja u okviru dvostranih odnosa između država u skladu sa stavcima 1. i 2. ovoga članka.
+
+(4) Po provedenom postupku ishođenja okolišne dozvole za postrojenje, Ministarstvo dostavlja državi iz stavka 1. ovoga članka obavijest o mogućoj vrsti odluke glede podnesenog zahtjeva operatera te o donesenom rješenju glede zahtjeva operatera u tom postupku, kao i razloge na kojima se temelji odluka, a koji sadrži i rezultate provedenih savjetovanja između Ministarstva i druge države, a koja uključuje i rješenje.«.
+
+#### Članak 19.
+
+U članku 167. stavku 1. iza riječi: »utjecaja zahvata« dodaju se riječi: »ili koja je pogođena ili će vjerojatno biti pogođena štetom u okolišu«.
+
+#### Članak 20.
+
+U članku 173. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Djelatnosti koje se smatraju opasnima za okoliš i/ili ljudsko zdravlje u smislu odredbe stavka 1. ovoga članka, popis djelatnosti/aktivnosti, kriterije prema kojima se procjenjuje prijeteća opasnost i utvrđuje šteta u okolišu, najprikladnije mjere za otklanjanje štete u okolišu, njihovu svrhu i način odabira, način otklanjanja štete u okolišu (uključujući posebne uvjete glede pojedinih sastavnica okoliša, zaštićenih vrsta i prirodnih staništa), te način specificiranja troškova vezano za utvrđivanje i otklanjanje prijeteće opasnosti i štete u okolišu, izuzeća od primjene te druga pitanja s tim u vezi pobliže uređuje Vlada uredbom.
+
+(4) Šteta u okolišu i prijeteća opasnost od štete uzrokovana zaštićenim vrstama i/ili prirodnim staništima prema posebnom propisu nastaje i uslijed obavljanja ostalih djelatnosti osim onih navedenih u popisu djelatnosti/aktivnosti određenih u uredbi iz stavka 3. ovoga članka.«.
+
+#### Članak 21.
+
+U članku 177. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Operater koji obavlja opasnu djelatnost s popisa djelatnosti/aktivnosti određenih u uredbi iz članka 173. stavka 3. odgovara za štetu u okolišu i/ili prijeteću opasnost od štete osim ako, u skladu s ovim Zakonom, dokaže da opasna djelatnost nije bila uzrok štete u okolišu odnosno prijeteće opasnosti.
+
+(2) Operater odgovara za štetu u okolišu i/ili prijeteću opasnost od štete i u slučaju kada obavlja djelatnost koja nije određena popisom djelatnosti/aktivnosti u uredbi iz članka 173. stavka 3. ovoga članka, a u obavljanju te djelatnosti ne otklanja opasnosti i ne sprječava nastanak štete u okolišu na zaštićenim vrstama i prirodnim staništima.«.
+
+#### Članak 22.
+
+Članak 178. mijenja se i glasi:
+
+»(1) Operater koji obavlja opasnu djelatnost u smislu članka 177. stavka 1. ovoga Zakona odgovara po načelu objektivne odgovornosti (uzročnosti).
+
+(2) Operater iz članka 177. stavka 2. ovoga Zakona za prouzročenu štetu u okolišu i/ili prijeteću opasnost od štete odgovara po načelu krivnje ili nemarnog djelovanja.«.
+
+#### Članak 23.
+
+Članak 180. mijenja se i glasi:
+
+»(1) Operater iz članka 177. stavaka 1. i 2. ovoga Zakona nije odgovoran za štetu u okolišu i prijeteću opasnost od štete ako dokaže da je šteta ili prijeteća opasnost od štete nastala:
+
+– kao posljedica prirodne pojave nepredvidivog i neizbježnog obilježja, koja se nije mogla niti spriječiti niti otkloniti,
+
+– kao posljedica ratnog stanja ili drugog oružanog neprijateljstva,
+
+– djelovanjem treće osobe iako su poduzete primjerene mjere sigurnosti,
+
+– iz pridržavanja obvezne naredbe ili upute koja je potekla od tijela javne vlasti, izuzev naredbe ili upute dane nakon emisije ili iznenadnog događaja prouzročenog vlastitom djelatnošću operatera.
+
+(2) U slučajevima iz stavka 1. podstavaka 3. i 4. i stavka 3. ovoga članka operater ima pravo na povrat troškova djelovanja na sprječavanju ili otklanjanju štete u okolišu od tijela javne vlasti koje su izdale obveznu naredbu ili uputu operateru ili od treće osobe čijim je djelovanjem prouzročena šteta u okolišu unatoč poduzetim primjerenim mjerama sigurnosti operatera.
+
+(3) Operater iz članka 177. stavaka 1. i 2. ovoga Zakona oslobađa se obveze snošenja troškova djelovanja na otklanjanju štete u okolišu ako dokaže da u obavljanju djelatnosti nije djelovao namjerno ili iz nepažnje te da je šteta nastala:
+
+– emisijom ili događajem koji je izrijekom dopušten odgovarajućim aktom i u potpunosti u skladu s danim uvjetima navedenim u aktu,
+
+– emisijom ili djelatnošću ili načinom korištenja određenog proizvoda tijekom određene djelatnosti za koju dokaže da se na temelju stanja znanstvenih i tehničkih saznanja u trenutku nastanka štete nije smatralo vjerojatnim da će prouzročiti štetu u okolišu.
+
+(4) Preventivne mjere i mjere otklanjanja nastalih šteta u okolišu kao i mjere obavješćivanja koje poduzima nadležno tijelo ne dovode u pitanje odgovornost operatera za prijeteću opasnost od štete i nastalu štetu u okolišu.«.
+
+#### Članak 24.
+
+U članku 181. stavku 1. riječ: »opasnom« zamjenjuje se riječju: »svojom«.
+
+#### Članak 25.
+
+U članku 183. stavku 1. iza riječi: »otklanjanja« dodaju se riječi: »prijeteće opasnosti od štete«.
+
+U stavku 3. riječ: »neposredna« zamjenjuje se riječju: »prijeteća«.
+
+#### Članak 26.
+
+U članku 187. stavku 1. riječ: »postrojenja« briše se.
+
+#### Članak 27.
+
+Članak 191. mijenja se i glasi:
+
+»(1) Javnost koja je pogođena štetom u okolišu, uključujući i zainteresiranu javnost, može nadležnom tijelu podnijeti prijavu štete u okolišu. Uz prijavu se prilažu odgovarajuće informacije i podaci koji potkrepljuju primjedbe o postojanju štete u okolišu.
+
+(2) Po prijavi štete u okolišu inspekcijske službe nadležnog tijela obavit će očevid na lokaciji na koju se odnosi prijava i ako je nakon razmatranja prijava uvjerljivo ukazala na postojanje štete u okolišu daje se dotičnom operateru prilika da se očituje na prijavu popratnim primjedbama.
+
+(3) Nadležno tijelo o podnesenoj prijavi štete u okolišu odlučuje rješenjem.
+
+(4) Protiv rješenja iz stavka 3. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 28.
+
+U članku 199. u stavku 1. riječ »uklanjanje« zamjenjuje se riječju »otklanjanje«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Ako se utvrdi da je operater iz članka 177. ovoga Zakona odgovoran za štetu u okolišu i/ili prijeteću opasnost od štete, prema ovom Zakonu, u tom slučaju operater je sukladno postavljenom zahtjevu za naknadu troškova i sanaciju štete obvezan nadoknaditi:
+
+– troškove procjene štete i prijeteće opasnosti od štete,
+
+– troškove utvrđivanja mjera za sanaciju okoliša u postupku izrade i odobravanja sanacijskog programa,
+
+– troškove povrata okoliša u stanje prije nastanka štete ako je takav povrat moguć, odnosno troškove sanacije posljedica štete u okolišu, troškove dopunskih i kompenzacijskih mjera,
+
+– troškove provedbe mjera otklanjanja prijeteće opasnosti od šteta,
+
+– troškove provedbe mjera za sprječavanje ili ublažavanje štete u okolišu,
+
+– troškove praćenja,
+
+– troškove nadzora provedbe mjera,
+
+– troškove prikupljanja podataka,
+
+– sve druge troškove određene zakonom, troškove postupaka i ostale nepredviđene troškove nastale uslijed provedbe mjera otklanjanja štete i prijeteće opasnosti od štete.«.
+
+#### Članak 29.
+
+U članku 202. stavku 1. riječ: »neposrednu« zamjenjuje se riječju: »prijeteću«.
+
+U stavku 2. iza riječi: »strane« dodaje se zarez i riječi: »ovisno o tome što nastupi kasnije«.
+
+#### Članak 30.
+
+U članku 205. iza stavka 1. dodaju se novi stavak 2. i stavak 3. koji glase:
+
+»(2) Ako operater iz članka 177. stavaka 1. i 2. nije osigurao sredstva za podmirenje svih troškova u svezi s provedbom mjera otklanjanja prijeteće opasnosti od štete i štete u okolišu, tijelo koje propisuje mjere za otklanjanje prijeteće opasnosti od štete, odnosno mjere saniranja štete u okolišu rješenjem će tražiti pokriće u imovini ili druga primjerena jamstva za nadoknadu nastalih troškova.
+
+(3) Tijelo iz stavka 2. ovoga članka može odustati od zahtjeva za nadoknadu troškova djelomično ili u cijelosti ako bi za to potrebni izdaci bili veći od svote koja se može naplatiti ili ako se ne može utvrditi operatera.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+#### Članak 31.
+
+U članku 224. dodaje se novi stavak 4. koji glasi:
+
+»(4) Koordinirani inspekcijski nadzor obuhvaća sve aktivnosti, uključujući i posjete lokaciji, praćenje emisija i provjeravanje internih izvješća i prateće dokumentacije, ovjeru samopraćenja, provjeravanje tehnika koje se koriste i prikladnosti upravljanja okolišem postrojenja, koje poduzima nadležno tijelo ili se poduzimaju u njegovo ime, kako bi se provjerila i unaprijedila sukladnost postrojenja s uvjetima njihovih dozvola i kako bi se, prema potrebi, pratio njihov učinak na okoliš.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 32.
+
+U članku 227. stavku 8. iza riječi: »dopuna okolišne dozvole« dodaju se riječi: »što prije«.
+
+Iza stavka 9. dodaje se stavak 10. koji glasi:
+
+»(10) Sustavno procjenjivanje rizika za okoliš iz stavka 4. ovoga članka, za postrojenja koja su obveznici okolišne dozvole, temelji se najmanje na sljedećim kriterijima:
+
+– potencijalni i stvarni učinci koje predmetno postrojenje ima na zdravlje ljudi i okoliš, vodeći računa o razinama i vrstama emisija, osjetljivosti lokalnog okoliša i riziku od nesreća,
+
+– podaci o poštovanju uvjeta dozvole,
+
+– sudjelovanje operatera u sustavu upravljanja okolišem i neovisnog ocjenjivanja (EMAS) Unije, u skladu s Uredbom 1221/2009.«.
+
+#### Članak 33.
+
+U članku 228. stavku 5. iza riječi: »mjerama« dodaju se riječi: »osobito odgovarajuća zapažanja vezana za sukladnost postrojenja s uvjetima okolišne dozvole i zaključke o tome je li potrebno poduzimati kakve daljnje radnje«.
+
+#### Članak 34.
+
+U članku 262. stavku 1. iza točke 11. dodaje se točka 12. koja glasi:
+
+»12. ne provodi mjere i/ili program praćenja stanja okoliša propisane rješenjem o prihvatljivosti zahvata za okoliš, odnosno rješenjem nakon provedene ocjene o potrebi procjene utjecaja zahvata za okoliš (članak 89.a i članak 93. stavak 3.).«.
+
+#### Članak 35.
+
+Iza članka 265. dodaje se članak 265.a koji glasi:
+
+»Članak 265.a
+
+(1) Novčanom kaznom u iznosu od 50.000,00 do 300.000,00 kuna kaznit će se za prekršaj pravna osoba u slučaju davanja lažnih izjava tijekom postupaka homologacije ili postupaka koji dovode do opoziva, zadržavanja podataka ili tehničkih specifikacija koji bi mogli dovesti do opoziva ili ukidanja homologacije tipa te uporabe poremećajnih uređaja ako se na tom iskazu ne temelji konačna odluka u tom postupku (članak 61. stavak 8.).
+
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se fizička osoba – obrtnik novčanom kaznom u iznosu od 7.000,00 do 15.000,00 kuna.
+
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 1.500,00 do 5.000,00 kuna.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 36.
+
+Postupci pokrenuti po odredbama Zakona o zaštiti okoliša (»Narodne novine« br. 80/13., 153/13. – Zakon o gradnji i 78/15.) do stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona.
+
+#### Članak 37.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/129
+
+Zagreb, 26. siječnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti okoliša (NN 118/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/118/2345*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OKOLIŠA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti okoliša, koji je Hrvatski sabor donio na sjednici 14. prosinca 2018.
+
+Klasa: 011-01/18-01/225
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OKOLIŠA**
+
+#### Članak 1.
+
+U Zakonu o zaštiti okoliša (»Narodne novine«, br. 80/13., 153/13. – Zakon o gradnji, 78/15. i 12/18.) u članku 4. stavku 1. točka 4. mijenja se i glasi:
+
+»4. ekološka mreža Natura 2000 (u daljnjem tekstu: ekološka mreža) je koherentna europska ekološka mreža sastavljena od područja u kojima se nalaze prirodni stanišni tipovi i staništa divljih vrsta od interesa za Europsku uniju, a omogućuje očuvanje ili, kad je to potrebno, povrat u povoljno stanje očuvanja određenih prirodnih stanišnih tipova i staništa vrsta u njihovu prirodnom području rasprostranjenosti,«.
+
+Točka 31. mijenja se i glasi:
+
+»31. ocjena prihvatljivosti za ekološku mrežu je postupak kojim se ocjenjuje utjecaj strategije, plana, programa ili zahvata, samog ili s drugim strategijama, planovima, programima i zahvatima na ciljeve očuvanja i cjelovitost područja ekološke mreže,«.
+
+Točka 48. mijenja se i glasi:
+
+»48. ovlaštenik je pravna ili fizička osoba – obrtnik koja posjeduje suglasnost za obavljanje stručnih poslova iz područja zaštite okoliša i prirode,«.
+
+Točka 71. mijenja se i glasi:
+
+»71. stručna osoba ovlaštenika je fizička osoba u svojstvu radnika ovlaštenika koja obavlja stručne poslove zaštite okoliša i prirode u ulozi voditelja stručnih poslova ili stručnog suradnika,«.
+
+#### Članak 2.
+
+U članku 5. stavak 2. briše se.
+
+Dosadašnji stavci 3. do 8. postaju stavci 2. do 7.
+
+#### Članak 3.
+
+U članku 34. podstavku 6. riječi: »Hrvatska agencija za okoliš i prirodu i« brišu se.
+
+#### Članak 4.
+
+Iza članka 36. dodaje se članak 36.a koji glasi:
+
+»Članak 36.a
+
+(1) Poslove prikupljanja i objedinjavanja prikupljenih podataka i informacija o okolišu i prirodi, radi osiguravanja i praćenja provedbe politike zaštite okoliša i održivog razvitka, obavlja Ministarstvo.
+
+(2) Djelatnost Ministarstva, među ostalim, obuhvaća i:
+
+– uspostavu, razvoj, vođenje i koordinaciju jedinstvenog informacijskog sustava zaštite okoliša u Državi,
+
+– prikupljanje i objedinjavanje podataka i /ili informacija o okolišu,
+
+– vođenje odgovarajućih baza podataka o okolišu te upis u registar sustava za ekološko upravljanje i neovisno ocjenjivanje EMAS te ostale poslove u skladu s člankom 211. ovoga Zakona,
+
+– praćenje i izvješćivanje o stanju okoliša,
+
+– praćenje i izvješćivanje o utjecaju okoliša na zdravlje, u suradnji s Hrvatskim zavodom za javno zdravstvo,
+
+– obavljanje stručno-savjetodavnih poslova pri određivanju sadržaja, metodologije i načina praćenja stanja okoliša i vođenja jedinstvenog informacijskog sustava zaštite okoliša,
+
+– pripremu podataka za izradu dokumenata i izvješća u vezi sa zaštitom okoliša i održivim razvitkom,
+
+– izradu stručnih podloga za izradu, odnosno suradnju na izradi, dokumenata održivog razvitka i zaštite okoliša te izvješća koja se daju u vezi s provedbom tih dokumenata,
+
+– izradu Izvješća o stanju okoliša iz članka 58. stavka 1. ovoga Zakona,
+
+– izradu Nacionalne liste pokazatelja,
+
+– suradnju s tijelima državne uprave, upravnim odjelima županije, upravnim odjelima Grada Zagreba, upravnim odjelima velikog grada, grada i općine, pravnim osobama s javnim ovlastima i drugim osobama, međunarodnim tijelima, institucijama i udrugama na izradi i realizaciji projekata i programa zaštite okoliša,
+
+– provođenje, odnosno sudjelovanje u provedbi međunarodnih ugovora i sporazuma iz područja zaštite okoliša kojih je Država stranka, u dijelu koji se odnosi na izvješćivanje prema preuzetima obvezama,
+
+– sudjelovanje u projektima i programima iz područja zaštite okoliša koji se provode na temelju međunarodnih ugovora,
+
+– osiguravanje uvjeta za pristup informacijama o okolišu, kojima raspolaže i koje nadzire.
+
+(3) Ministarstvo obavlja i stručne poslove zaštite prirode sukladno posebnom zakonu kojim se uređuje zaštita prirode.
+
+(4) Ministarstvo je središnje informacijsko tijelo države za koordinaciju izvješćivanja i izvješćivanje Europske komisije o provedbi pojedinih propisa zaštite okoliša te provodi koordinaciju izvješćivanja i izvješćivanje.
+
+(5) Ministarstvo surađuje s Europskom agencijom za okoliš i izvješćuje u skladu sa zahtjevima Europske okolišne informacijske i promatračke mreže (EIONET).
+
+(6) Nacionalna lista pokazatelja iz stavka 2. podstavka 10. ovoga članka izrađuje se na temelju posebnih propisa i međunarodnih ugovora, vodeći računa o specifičnim zahtjevima za zaštitu okoliša.
+
+(7) Nacionalna lista pokazatelja redovito se ažurira i objavljuje na internetskim stranicama Ministarstva.«.
+
+#### Članak 5.
+
+Naslov iznad članka 38. i članak 38. brišu se.
+
+#### Članak 6.
+
+Članak 40. mijenja se i glasi:
+
+»(1) Stručne poslove zaštite okoliša i prirode, pod uvjetima propisanim ovim Zakonom, obavlja ovlaštenik.
+
+(2) Ovlaštenik pod uvjetima određenim ovim Zakonom i pravilnikom iz stavka 9. ovoga članka može obavljati stručne poslove koji se odnose na sljedeće grupe stručnih poslova:
+
+1. GRUPA:
+
+– izradu studija o značajnom utjecaju strategije, plana ili programa na okoliš (u daljnjem tekstu: strateška studija),
+
+2. GRUPA:
+
+– izradu studija o utjecaju zahvata na okoliš, uključujući i dokumentaciju za provedbu postupka ocjene o potrebi procjene utjecaja zahvata na okoliš, dokumentacije za određivanje sadržaja studije o utjecaju na okoliš i dokumentaciju o usklađenosti glavnog projekta s mjerama zaštite okoliša i programom praćenja stanja okoliša,
+
+3. GRUPA:
+
+– izradu poglavlja i studija ocjene prihvatljivosti strategije, plana ili programa za ekološku mrežu,
+
+– izradu poglavlja i studija ocjene prihvatljivosti zahvata za ekološku mrežu,
+
+– pripremu i izradu dokumentacije za postupak utvrđivanja prevladavajućeg javnog interesa s prijedlogom kompenzacijskih uvjeta,
+
+4. GRUPA:
+
+– izradu procjene rizika i osjetljivosti za sastavnice okoliša,
+
+– izradu programa zaštite okoliša,
+
+– izradu izvješća o stanju okoliša,
+
+5. GRUPA:
+
+– praćenje stanja okoliša,
+
+6. GRUPA:
+
+– izradu dokumentacije vezano za postupak izdavanja okolišne dozvole, uključujući izradu Temeljnog izvješća,
+
+– izradu izvješća o sigurnosti,
+
+– izradu sanacijskih elaborata, programa i sanacijskih izvješća,
+
+– procjenu šteta nastalih u okolišu, uključujući i prijeteće opasnosti,
+
+7. GRUPA:
+
+– izradu projekcija emisija izvješća o provedbi politike i mjera smanjenja emisija i nacionalnog izvješća o promjeni klime,
+
+– izradu izvješća o proračunu (inventaru) emisija stakleničkih plinova i drugih emisija onečišćujućih tvari u okoliš,
+
+– izradu i/ili verifikaciju izvješća o emisijama stakleničkih plinova iz postrojenja i zrakoplova,
+
+– izradu i/ili verifikaciju izvješća o održivosti proizvodnje biogoriva i izvješća o emisijama stakleničkih plinova,
+
+– izradu i/ili verifikaciju izvješća o emisijama stakleničkih plinova u životnom vijeku fosilnih goriva,
+
+– izradu i/ili verifikaciju posebnih elaborata, proračuna i projekcija za potrebe sastavnica okoliša,
+
+8. GRUPA:
+
+– obavljanje stručnih poslova za potrebe sustava upravljanja okolišem i neovisnog ocjenjivanja,
+
+– izradu elaborata o usklađenosti proizvoda s mjerilima u postupku ishođenja znaka zaštite okoliša »Prijatelj okoliša« i znaka EU Ecolabel,
+
+– izradu elaborata o utvrđivanju mjerila za određenu skupinu proizvoda za dodjelu znaka zaštite okoliša »Prijatelj okoliša«,
+
+– izradu elaborata o zaštiti okoliša koji se odnose na zahvate za koje nije propisana obveza procjene utjecaja na okoliš, niti ocjene o potrebi procjene,
+
+– obavljanje stručnih poslova za potrebe Registra onečišćavanja okoliša.
+
+(3) Ovlaštenik za obavljanje stručnih poslova iz stavka 2. ovoga članka mora ispunjavati uvjete sukladno ovom Zakonu i pravilniku iz stavka 9. ovoga članka.
+
+(4) Ovlaštenik može započeti obavljati neki od stručnih poslova iz stavka 2. ovoga članka nakon što ishodi suglasnost Ministarstva za obavljanje tih stručnih poslova.
+
+(5) Iznimno od stavka 2. ovoga članka, ovlaštenik za stručne poslove izrade i/ili verifikacije izvješća o emisijama stakleničkih plinova iz postrojenja i zrakoplova te verifikacije izvješća o održivosti proizvodnje biogoriva, uključujući izvješća o emisijama stakleničkih plinova, te za verifikaciju izvješća o emisijama stakleničkih plinova u životnom vijeku fosilnih goriva mora biti akreditiran sukladno posebnom propisu kojim se uređuje zaštita zraka.
+
+(6) O izdanim suglasnostima iz stavka 4. ovoga članka Ministarstvo vodi očevidnik.
+
+(7) Ministarstvo redovito ažurira i objavljuje na internetskim stranicama popis izdanih suglasnosti iz stavka 4. ovoga članka.
+
+(8) Nositelj zahvata, operater i izrađivač strategije, plana ili programa ne mogu obavljati stručne poslove zaštite okoliša i prirode u svojstvu ovlaštenika, u istom postupku koji se vodi sukladno odredbama ovoga Zakona.
+
+(9) Način izdavanja suglasnosti za obavljanje stručnih poslova, sadržaj i način vođenja očevidnika iz stavka 6. ovoga članka te druga pitanja s tim u vezi pobliže propisuje ministar pravilnikom.«.
+
+#### Članak 7.
+
+Članak 41. mijenja se i glasi:
+
+»(1) Zahtjev za izdavanje suglasnosti iz članka 40. stavka 4. ovoga Zakona (u daljnjem tekstu: zahtjev) podnosi se Ministarstvu.
+
+(2) U zahtjevu pravna osoba, odnosno fizička osoba – obrtnik mora navesti nazive stručnih poslova odnosno grupu/grupe poslova za koje traži suglasnost.
+
+(3) Uz zahtjev pravna osoba odnosno fizička osoba – obrtnik dužna je priložiti dokaze o ispunjavanju propisanih uvjeta, i to:
+
+1. za voditelja stručnih poslova:
+
+– presliku diplome,
+
+– dokaz o radnom stažu,
+
+– presliku uvjerenja o položenom stručnom ispitu,
+
+– i druge dokaze sukladno pravilniku iz članka 40. stavka 9. ovoga Zakona,
+
+2. za svakog stručnog suradnika:
+
+– presliku diplome,
+
+– dokaz o radnom stažu,
+
+– presliku uvjerenja o položenom stručnom ispitu,
+
+– i druge dokaze sukladno pravilniku iz članka 40. stavka 9. ovoga Zakona,
+
+3. presliku odgovarajuće potvrde Hrvatske akreditacijske agencije ako je obveza pribavljanja takve potvrde propisana ovim Zakonom, odnosno posebnim propisom.
+
+4. ostale dokaze sukladno pravilniku iz članka 40. stavka 9. ovoga Zakona.«.
+
+#### Članak 8.
+
+U članku 42. stavak 1. mijenja se i glasi:
+
+»(1) Ovlaštenik može pribaviti suglasnost za obavljanje grupe stručnih poslova ili više grupa stručnih poslova.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Suglasnost za obavljanje stručnih poslova daje se za razdoblje od pet godina.«.
+
+#### Članak 9.
+
+Članak 43. mijenja se i glasi:
+
+»(1) U slučaju prestanka ispunjavanja propisanih uvjeta, odnosno promjene u propisanim uvjetima za obavljanje registrirane djelatnosti ovlaštenik je dužan u roku od 30 dana od prestanka ispunjavanja propisanih uvjeta, odnosno promjene obavijestiti Ministarstvo o novonastalim okolnostima.
+
+(2) Ministarstvo će rješenjem ukinuti suglasnost nakon obavijesti iz stavka 1. ovog članka ako nisu ispunjeni uvjeti iz članka 41. ovoga Zakona.
+
+(3) Protiv rješenja iz stavka 2. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.«.
+
+#### Članak 10.
+
+U članku 44. stavak 1. mijenja se i glasi:
+
+»(1) Ministarstvo će, po službenoj dužnosti rješenjem, ovlašteniku ukinuti suglasnost za obavljanje stručnih poslova i prije isteka roka iz članka 42. stavka 3. ovoga Zakona u sljedećim slučajevima:
+
+– na zahtjev ovlaštenika,
+
+– ako prestane ispunjavati uvjete za davanje suglasnosti,
+
+– ako stručne poslove obavlja protivno ovom Zakonu, propisima donesenim na temelju ovoga Zakona ili posebnim propisima,
+
+– ako se u dva postupka koji se vode temeljem ovoga Zakona utvrdi stručna neutemeljenost i necjelovitost dokumenata koje izrađuje sukladno izdanoj suglasnosti,
+
+– ako se inspekcijskim nadzorom utvrdi da je ovlaštenik prestao ispunjavati neki od Zakonom, odnosno posebnim propisom propisanih posebnih uvjeta,
+
+– ako Ministarstvo uvidom u odgovarajuću dokumentaciju u spisima utvrdi da ovlaštenik stručne poslove ne obavlja na propisani način.«.
+
+#### Članak 11.
+
+U članku 45. stavcima 1. i 2. iza riječi: »fizička osoba« dodaje se crtica i riječ: »obrtnik«.
+
+#### Članak 12.
+
+Članak 47. mijenja se i glasi:
+
+»(1) Za poslove voditelja stručnih poslova polaže se stručni ispit.
+
+(2) Stručnim ispitom provjerava se poznavanje važećih propisa iz područja koja se uređuju ovim Zakonom i drugim propisima važnim za primjenu ovoga Zakona.
+
+(3) Stručne ispite iz stavka 1. ovoga članka provodi Ministarstvo.
+
+(4) Troškove polaganja stručnog ispita iz stavka 1. ovoga članka snosi osoba koja polaže stručni ispit.
+
+(5) Program, uvjete i način polaganja stručnog ispita, kao i upotpunjavanje i usavršavanje znanja osoba koje su položile ispit iz stavka 1. ovoga članka, te njegove provjere, propisuje ministar pravilnikom.«.
+
+#### Članak 13.
+
+U članku 53. stavku 10. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 14.
+
+U članku 54. stavku 4 riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 15.
+
+Članak 57. mijenja se i glasi:
+
+»(1) Planom intervencija utvrđuju se postupci i mjere za predviđanje, sprječavanje, ograničavanje, spremnost za i reagiranje na iznenadna onečišćenja mora radi zaštite morskog okoliša i obalnog područja.
+
+(2) Plan intervencija temelji se na procjeni rizika i prijetnji od onečišćenja mora koja se izrađuje za razdoblje od deset godina.
+
+(3) Plan intervencija te njegove izmjene i dopune sukladno ovom Zakonu, zakonu kojim se uređuje zaštita i očuvanje prirodnih morskih bogatstava i morskog okoliša te posebnom propisu o sigurnosti pri odobalnom istraživanju i eksploataciji ugljikovodika predlaže ministarstvo nadležno za pomorstvo u suradnji sa središnjim tijelom državne uprave nadležnim za zaštitu okoliša, a donosi ga Vlada.
+
+(4) Plan intervencija objavljuje se u »Narodnim novinama«.
+
+(5) Plan intervencija daje se na raspolaganje Europskoj komisiji, drugim državama članicama, odnosno susjednim trećim zemljama koje bi mogle biti pogođene i javnosti.
+
+(6) Država sukladno ovom Zakonu i Zakonu o potvrđivanju Sporazuma o Subregionalnom planu intervencija za sprječavanje, spremnost za i reagiranje na iznenadna onečišćenja Jadranskog mora većih razmjera (»Narodne novine« – Međunarodni ugovori, br. 7/08.), kojim je uspostavljen mehanizam suradnje država članica, odnosno trećih zemalja, redovito ispituje svoju pripravnost za učinkovito djelovanje u suradnji s državama članicama koje bi mogle biti pogođene, relevantnim agencijama Europske unije te na osnovi uzajamnosti s trećim zemljama koje bi mogle biti pogođene.«.
+
+#### Članak 16.
+
+U članku 58. stavak 2. mijenja se i glasi:
+
+»(2) Izvješće o stanju okoliša sadrži osobito: pregled ostvarivanja ciljeva Strategije i Plana, podatke o stanju sastavnica okoliša i opterećenja na okoliš, integriranih tema te tema opće politike zaštite okoliša te druge podatke od značenja za zaštitu okoliša.«.
+
+#### Članak 17.
+
+U članku 59. stavku 5. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 18.
+
+U članku 60. stavku 3. iza riječi: »fizičke osobe« dodaje se crtica i riječ: »obrtnici«, a riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+U stavku 4. iza riječi: »fizička osoba« dodaje se crtica i riječ: »obrtnik«.
+
+#### Članak 19.
+
+U članku 63. stavku 1. podstavak 1. mijenja se i glasi:
+
+» – strategije, planove i programe, njihove izmjene i dopune, uključujući i one čija se provedba financira iz sredstava Europske unije, a koji se donose na državnoj, područnoj (regionalnoj) te na lokalnoj razini, iz područja: poljoprivrede, šumarstva, ribarstva, energetike, industrije, rudarstva, prometa, elektroničkih komunikacija, turizma, prostornog planiranja, regionalnog razvoja, gospodarenja otpadom i vodnog gospodarstva kada daju okvir za zahvate koji podliježu ocjeni o potrebi procjene utjecaja na okoliš, odnosno procjeni utjecaja na okoliš«.
+
+Podstavak 2. briše se.
+
+Dosadašnji podstavak 3. postaje podstavak 2.
+
+#### Članak 20.
+
+U članku 64. stavku 2. iza riječi: »okoliš« dodaju se riječi: »odnosno ocjeni o potrebi procjene utjecaja na okoliš«.
+
+U stavku 4. riječi: »o strateškoj procjeni strategije, plana i programa« brišu se.
+
+#### Članak 21.
+
+Članak 66. mijenja se i glasi:
+
+»(1) Tijelo zaduženo za izradu strategije, plana ili programa dužno je prije započinjanja postupka izrade strategije, plana ili programa ishoditi mišljenje Ministarstva, odnosno nadležnog upravnog tijela za zaštitu okoliša u županiji o potrebi provedbe postupka ocjene, odnosno strateške procjene.
+
+(2) Postupak ocjene o potrebi strateške procjene za strategiju, plan i program, iz članka 64. ovoga Zakona, provodi nadležno tijelo za područje za koje se strategija, plan ili program donosi, u suradnji s Ministarstvom, odnosno nadležnim upravnim tijelom za zaštitu okoliša u županiji.
+
+(3) Stratešku procjenu za strategiju, plan i program iz članka 63. i članka 64. stavka 4. ovoga Zakona provodi nadležno tijelo za područje za koje se strategija, plan ili program donosi, u suradnji s Ministarstvom, odnosno nadležnim upravnim tijelom za zaštitu okoliša u županiji.«.
+
+#### Članak 22.
+
+U članku 71. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Tijelo nadležno za provedbu strateške procjene prije upućivanja prijedloga strategije, plana ili programa u proceduru donošenja, obvezno je o strateškoj procjeni ishoditi mišljenje Ministarstva, odnosno nadležnog upravnog tijela za zaštitu okoliša u županiji.
+
+(2) Tijelo nadležno za provedbu postupka ocjene o potrebi strateške procjene dužno je, prije upućivanja prijedloga strategije, plana ili programa u proceduru donošenja, o postupku ocjene ishoditi mišljenje Ministarstva, odnosno nadležnog upravnog tijela za zaštitu okoliša u županiji.«.
+
+#### Članak 23.
+
+U članku 72. stavku 1. iza riječi: »izlaganje, nacrt« dodaje se riječ: »prijedloga«.
+
+U stavku 4. iza riječi: »upravnog tijela« dodaju se riječi: »za zaštitu okoliša«.
+
+#### Članak 24.
+
+U članku 73. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Prije stavljanja u proceduru donošenja pri utvrđivanju konačnog prijedloga strategije, plana ili programa tijelo nadležno za provedbu strateške procjene obvezno je uzeti u obzir rezultate strateške procjene, mišljenja tijela i/ili osoba određenih posebnim propisom, razmotriti primjedbe, prijedloge i mišljenja javnosti i rezultate prekograničnih konzultacija ako su bile obvezne sukladno ovom Zakonu, koji su dani na nacrt prijedloga strategije, plana i programa, mišljenje savjetodavnog stručnog povjerenstva i mišljenje Ministarstva, odnosno nadležnog upravnog tijela za zaštitu okoliša u županiji.
+
+(2) Postupak strateške procjene završava izvješćem tijela nadležnog za provedbu strateške procjene.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Izvješće sadrži informaciju o: načinu na koji su pitanja zaštite okoliša integrirana u strategiju, plan ili program, rezultatima toga postupka te mjerama zaštite okoliša i načinu praćenja primjene mjera koje su postale sadržajem strategije plana ili programa kao i načinu praćenja značajnih utjecaja na okoliš donesene strategije plana ili programa, te ostale podatke sukladno uredbi iz članka 64. stavka 6. ovoga Zakona.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 25.
+
+U članku 74. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) U slučaju iz stavka 1. ovoga članka izvješće tijela nadležnog za provedbu postupka strateške procjene sadrži i informaciju o provedenom postupku ocjene prihvatljivosti za ekološku mrežu, rezultatima tog postupka te mjere ublažavanja negativnih utjecaja na ciljeve očuvanja i cjelovitost područja ekološke mreže.
+
+(3) Rezultati ocjene prihvatljivosti za ekološku mrežu, mjere ublažavanja negativnih utjecaja na ciljeve očuvanja i cjelovitost područja ekološke mreže obvezujući su za tijelo koje donosi i tijelo koje provodi strategiju, plan ili program.«.
+
+#### Članak 26.
+
+U članku 78. stavak 3. mijenja se i glasi:
+
+»(3) Obvezni sadržaj zahtjeva i kriterije za procjenu utjecaja zahvata na okoliš, sadržaj studije o utjecaju zahvata na okoliš kada sadržaj studije nije određen uputom, način sudjelovanja ovlaštenika koji je izradio studiju o utjecaju zahvata na okoliš, način pojedinačnih ispitivanja i kriteriji na temelju kojih se odlučuje o potrebi procjene utjecaja zahvata na okoliš, način davanja ocjene; obvezni sadržaj zahtjeva za izdavanje upute o sadržaju studije o utjecaju zahvata na okoliš i način izdavanja te upute; obvezni sadržaj pismena koja se izdaju vezano za informiranje javnosti i sudjelovanje zainteresirane javnosti u postupcima: procjene utjecaja zahvata na okoliš, ocjene o potrebi procjene utjecaja zahvata na okoliš i izdavanja upute o sadržaju studije o utjecaju zahvata na okoliš, te način rada i obvezni sadržaj mišljenja koje izdaje povjerenstvo koje sudjeluje u postupku procjene utjecaja zahvata na okoliš, način izrade smjernica za izradu studije o utjecaju zahvata na okoliš, sadržaj elaborata iz članka 82. stavka 2. podstavka 2. ovoga Zakona, te druga pitanja s tim u vezi pobliže uređuje Vlada uredbom.«.
+
+#### Članak 27.
+
+U članku 80. stavku 2. točki 1. iza riječi: »zahvata« dodaju se riječi: »i ovlašteniku«.
+
+U točki 3. iza riječi: »potvrdom« zarez i riječi: »uvjerenjem i sl.« brišu se.
+
+Točka 5. briše se.
+
+Dosadašnja točka 6. postaje točka 5.
+
+#### Članak 28.
+
+U članku 90. stavku 6. riječi: »Na zahtjev nositelja zahvata« brišu se, a riječ: »rješenje« zamjenjuje se riječju: »Rješenje«.
+
+#### Članak 29.
+
+U članku 93. stavak 1. mijenja se i glasi:
+
+»(1) Za značajnu izmjenu ili dopunu namjeravanog zahvata, odnosno za izmjenu propisanih mjera zaštite okoliša i/ili programa praćenja stanja okoliša za koji je izdano rješenje iz članka 89. stavka 1. ovoga Zakona, odnosno članka 90. ovoga Zakona nositelj zahvata obvezan je prije podnošenja zahtjeva za izdavanje lokacijske dozvole ili drugog akta prema posebnom propisu ishoditi rješenje iz članka 90. ovoga Zakona s obzirom na nastale promjene.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Značajnost izmjena zahvata u odnosu na značaj utjecaja te izmjene na okoliš utvrđuje nadležno tijelo mišljenjem, odnosno u postupku ocjene o potrebi procjene utjecaja na okoliš.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+#### Članak 30.
+
+U članku 103. stavku 5. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 31.
+
+U članku 109. stavku 1. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 32.
+
+U članku 111. stavak 9. briše se.
+
+Dosadašnji stavci 10. do 13. postaju stavci 9. do 12.
+
+#### Članak 33.
+
+U članku 118. stavku 1. podstavku 1. riječi: »članka 114. stavka 2.« zamjenjuju se riječima: »članka 114. stavka 3.«, a riječi: »članka 115. stavka 2.« zamjenjuju se riječima: »članka 115. stavka 3.«.
+
+#### Članak 34.
+
+Članak 119. mijenja se i glasi:
+
+»(1) Ministarstvo ustrojava i vodi očevidnik izdanih okolišnih dozvola za postrojenja.
+
+(2) Sadržaj i način vođenja očevidnika iz stavka 1. ovoga članka propisuje ministar pravilnikom.«.
+
+#### Članak 35.
+
+U članku 121. stavku 4. riječi: »U slučajevima iz stavka 3. ovoga članka operater je dužan« zamjenjuju se riječima: »Operater koji je utvrdio moguću prisutnost, odnosno prisutnost opasnih tvari, prema vrstama i količinama, sukladno odredbama uredbe iz članka 120. stavka 2. dužan je«.
+
+#### Članak 36.
+
+Članak 123. mijenja se i glasi:
+
+»(1) Odredbe ovoga Zakona o sprječavanju velikih nesreća koje uključuju opasne tvari, koje se primjenjuju na područja postrojenja, ne primjenjuju se na posebnim propisima uređene sustave izvan područja postrojenja kao što su:
+
+1. vojna područja postrojenja, postrojenja i skladišta,
+
+2. opasnosti od ionizirajućeg zračenja koje potječu iz tvari,
+
+3. cestovni, željeznički, zračni prijevoz opasnih tvari i prijevoz opasnih tvari unutarnjim plovnim putovima i morem, te izravno povezano privremeno skladištenje opasnih tvari izvan područja postrojenja na koje se odnose odredbe o sprječavanju velikih nesreća, uključujući ukrcavanje i iskrcavanje te prijevoz iz jednog u drugo prijevozno sredstvo u morskim lukama, pristaništima i lukama unutarnje plovidbe ili ranžirnim kolodvorima,
+
+4. prijevoz opasnih tvari cjevovodima, uključujući pumpne stanice, izvan područja postrojenja na koje se odnose odredbe o sprječavanju velikih nesreća,
+
+5. istraživanje i eksploatacija (vađenje/pridobivanje i oplemenjivanje) mineralnih sirovina u/na istražnim prostorima / eksploatacijskim poljima mineralnih sirovina, uključujući u obliku bušotina,
+
+6. istraživanje i eksploatacija mineralnih sirovina na moru, uključujući ugljikovodike,
+
+7. skladištenje i trajno zbrinjavanje plinova u geološkim strukturama na moru, uključujući lokacije namijenjene skladištenju i lokacije u kojima se također provodi istraživanje i eksploatacija mineralnih sirovina, uključujući ugljikovodike,
+
+8. odlagališta otpada, uključujući podzemno skladištenje otpada.
+
+(2) Iznimno od stavka 1. podstavaka 5. i 8. ovoga članka, odredbe ovoga Zakona o sprječavanju velikih nesreća koje uključuju opasne tvari, koje se primjenjuju na područja postrojenja operatera, primjenjuju se i na podzemno skladištenje i trajno zbrinjavanje plinova na kopnu, u geološkim strukturama vodonosnicima, slanicima i iscrpljenim rudnicima te na vezane kemijske i termičke postupke prerade i skladištenja opasnih tvari sukladno uredbi iz članka 120. stavka 2. ovoga Zakona, kao i na jalovišta koja uključuju akumulacije, pregrade i/ili brane te građevine za odlaganje i zadržavanje procesne jalovine koji sadrže opasne tvari sukladno uredbi iz članka 120. stavka 2. ovoga Zakona.«.
+
+#### Članak 37.
+
+U članku 124. stavak 5. mijenja se i glasi:
+
+»(5) Suglasnost na Politiku sprječavanja velikih nesreća izdaje se na temelju ocjene je li Politika sprječavanja velikih nesreća u skladu s odredbama Zakona i uredbe iz članka 120. stavka 2. ovoga Zakona.«.
+
+#### Članak 38.
+
+U članku 126. stavku 1. riječi: »i ocjenjivanja provedbe Politike sprječavanja velikih nesreća« brišu se.
+
+#### Članak 39.
+
+U članku 127. stavku 1. riječ: »uvede« zamjenjuje se riječju: »planira«, a iza riječi: »način« dodaju se riječi: »prije promjene«.
+
+#### Članak 40.
+
+U članku 129. stavku 3. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 41.
+
+U članku 130. stavku 1. riječ: »Agencije« zamjenjuje se riječju »Ministarstva«, a riječi: »putem Agencije« brišu se.
+
+#### Članak 42.
+
+U članku 132. stavku 1. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 43.
+
+U članku 134. stavak 3. mijenja se i glasi:
+
+»(3) Kada nadležno ministarstvo, nadležno upravno tijelo u županiji te u Gradu Zagrebu, odnosno izvršno tijelo jedinice lokalne i područne (regionalne) samouprave u postupku strateške procjene procijeni da bi provedba strategije, plana ili programa mogla znatnije utjecati na okoliš i/ili zdravlje ljudi druge države, o tome će radi provedbe postupka iz stavka 1. ovoga članka bez odgađanja obavijestiti Ministarstvo.«.
+
+#### Članak 44.
+
+U članku 141. stavku 4. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+U stavku 5. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 45.
+
+U članku 142. stavku 2. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 46.
+
+U članku 144. stavku 3. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 47.
+
+Naslov iznad članka 145. mijenja se i glasi: »Osnivanje referentnih centara«.
+
+Članak 145. mijenja se i glasi:
+
+»(1) U svrhu praćenja stanja okoliša te za potrebe informacijskog sustava zaštite okoliša i izvješćivanja, te razmjene podataka i informacija u sklopu EIONET mreže i sudjelovanje u radu tematskih skupina Europske agencije za okoliš, na prijedlog ministra, Vlada posebnom odlukom određuje referentne centre.
+
+(2) Referentni centri iz stavka 1. ovoga članka prikupljaju i analiziraju podatke o praćenju stanja okoliša uključujući i pokazatelje s Nacionalne liste pokazatelja, za koje su zaduženi.
+
+(3) Referentni centri podatke praćenja stanja, pokazatelje i rezultate analiza ažurno dostavljaju Ministarstvu.
+
+(4) Sredstva za rad referentnih centara iz stavka 1. ovoga članka osiguravaju se u državnom proračunu uz izuzeće referentnih centara koji za obavljanje svoje djelatnosti imaju osigurano financiranje iz drugog izvora prema posebnom zakonu.
+
+(5) Opseg poslova, način obavljanja poslova koji su mu određeni u nadležnost, postupak određivanja referentnih centara, način njihova financiranja te rok na koji se određuju, te druga pitanja s tim u svezi pravilnikom propisuje ministar.«.
+
+#### Članak 48.
+
+U članku 146. stavku 1. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«, a riječi: »u suradnji s Ministarstvom, odnosno« brišu se.
+
+#### Članak 49.
+
+U članku 149. stavku 3. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 50.
+
+U članku 150. stavak 1. mijenja se i glasi:
+
+»(1) Tijela državne uprave, nadležno upravno tijelo u županiji, odnosno u Gradu Zagrebu, pravne osobe s javnim ovlastima i ovlaštenici, koji obavljaju poslove praćenja stanja okoliša u skladu s ovim Zakonom, dužni su sukladno uredbi iz članka 149. stavka 3. ovoga Zakona Ministarstvu za potrebe informacijskog sustava u propisanim rokovima dostavljati propisane podatke i informacije kao i odgovarajuća izvješća, te su obvezni Ministarstvu osigurati nesmetan pristup podacima i korištenje podataka za potrebe informacijskog sustava. Podaci koji se dostavljaju moraju biti točni, potpuni i vjerodostojni.«.
+
+#### Članak 51.
+
+U članku 151. stavku 2. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+U stavku 5. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 52.
+
+U članku 152. stavku 2. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+U stavku 3. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+Stavci 4. i 5. mijenjaju se i glase:
+
+»(4) Nadležna tijela dužna su dostaviti informacije i podatke iz stavka 3. ovoga članka Ministarstvu bez naknade, te ih na zahtjev Ministarstva dopuniti u fazama izvješća i reviziji koju provode nadležna tijela Europske unije te međunarodna tijela i organizacije.
+
+(5) Ako nadležna tijela ne dostave podatke, dužna su obavijestiti Ministarstvo o razlozima njihova nedostavljanja s prijedlogom mjera koje će se poduzeti u svrhu njihove dostave.«.
+
+#### Članak 53.
+
+U članku 153. stavcima 1. i 2. riječi: »putem Agencije« brišu se.
+
+#### Članak 54.
+
+Članak 211. mijenja se i glasi:
+
+»(1) U svrhu provedbe Uredbe br. 1221/2009 inspekcija zaštite okoliša je nadležna za provedbu inspekcijskog nadzora.
+
+(2) U svrhu provedbe Uredbe br. 1221/2009 Ministarstvo je nadležno za:
+
+– provedbu upravnog nadzora,
+
+– vođenje registra EMAS,
+
+– zaprimanje prijava za registraciju u EMAS i vođenje postupka provjere zaprimljenih prijava,
+
+– upis organizacija u registar EMAS i izdavanje potvrda o upisu u registar EMAS,
+
+– suspenziju i brisanje organizacija iz registra EMAS.
+
+(3) U svrhu provedbe Uredbe br. 1221/2009 Hrvatska akreditacijska agencija nadležna je za:
+
+– akreditiranje verifikatora,
+
+– stručni nadzor nad radom verifikatora.«.
+
+#### Članak 55.
+
+Članak 216. mijenja se i glasi:
+
+»U svrhu provedbe Uredbe br. 66/2010 Ministarstvo je nadležno za:
+
+– dodjelu znaka EU Ecolabel,
+
+– provođenje nadzora nad upotrebom znaka,
+
+– provjeru sukladnosti proizvoda s mjerilima za dodjelu znaka EU Ecolabel,
+
+– za vođenje baze podataka nositelja znaka EU Ecolabel.«.
+
+#### Članak 56.
+
+U članku 223. riječi: »Agencije i« brišu se.
+
+#### Članak 57.
+
+U članku 224. stavku 1. riječi: »provode državni službenici u Ministarstvu raspoređeni na radna mjesta s ovlastima obavljanja inspekcijskog nadzora zaštite okoliša, ako ovim Zakonom nije drugačije određeno« zamjenjuju se riječima: »obavljaju inspektori zaštite okoliša«.
+
+U stavku 5. riječi: »Ministarstva gospodarstva« brišu se.
+
+#### Članak 58.
+
+Naslovi iznad članaka i članci 225. i 226. brišu se.
+
+#### Članak 59.
+
+U članku 227. stavku 5. riječ: »Ministarstva« zamjenjuje se riječima: »Državnog inspektorata«.
+
+U stavku 6. riječ: »Ministar« zamjenjuje se riječima: »Glavni državni inspektor«.
+
+Stavak 7. briše se.
+
+Dosadašnji stavci 8., 9. i 10. postaju stavci 7., 8. i 9.
+
+#### Članak 60.
+
+U članku 228. stavku 4. riječi: »sukladno sporazumu iz članka 227. stavka 7. ovoga Zakona« brišu se.
+
+#### Članak 61.
+
+U članku 248. stavak 6. briše se.
+
+#### Članak 62.
+
+Članak 250. mijenja se i glasi:
+
+»(1) Protiv rješenja inspektora može se izjaviti žalba sukladno zakonu kojim se uređuje Državni inspektorat.
+
+(2) Žalba protiv rješenja iz stavka 1. ovoga članka ne odgađa izvršenje rješenja.«.
+
+#### Članak 63.
+
+U članku 251. stavcima 1. i 2. riječ: »Ministarstva« zamjenjuje se riječima: »Državnog inspektorata«.
+
+#### Članak 64.
+
+U članku 255. iza riječi: »okoliša« dodaju se riječi: »i prirode«.
+
+#### Članak 65.
+
+U članku 256. stavak 3. mijenja se i glasi:
+
+»(3) Godišnje izvješće iz stavka 1. ovoga članka Državni inspektorat dostavlja Vladi i objavljuje se na internetskoj stranici Ministarstva i Državnog inspektorata.«
+
+#### Članak 66.
+
+U članku 257. stavak 1. mijenja se i glasi:
+
+»(1) Informacije o pojedinim inspekcijskim nadzorima i aktivnostima inspekcije zaštite okoliša i koordiniranim inspekcijskim nadzorima i drugim aktivnostima provedenim u okviru međusobne suradnje inspekcije zaštite okoliša i drugih inspekcija u području okoliša objavljuju se na internetskim stranicama Državnog inspektorata i Ministarstva.«.
+
+#### Članak 67.
+
+U članku 258. riječ: »Ministarstvo« zamjenjuje se riječima: »Državni inspektorat«.
+
+#### Članak 68.
+
+Članak 259. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 50.000,00 do 200.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. obavlja stručne poslove zaštite okoliša i prirode, a ne ispunjava uvjete propisane ovim Zakonom, odnosno posebnim propisom (članak 40. stavak 3.),
+
+2. započne obavljati stručne poslove zaštite okoliša i prirode bez ishođene suglasnosti Ministarstva za obavljanje tih poslova (članak 40. stavak 4.),
+
+3. obavlja stručne poslove zaštite okoliša i prirode u svojstvu ovlaštenika, u istom postupku u kojem je nositelj zahvata, operater ili izrađivač strategije, plana ili programa (članak 40. stavak 8.),
+
+4. ne dostavi u registar onečišćavanja okoliša vjerodostojne, točne i ažurne podatke u propisanom roku (članak 151. stavak 4.).
+
+(2) Novčanom kaznom iz stavka 1. ovog članka kaznit će se za prekršaj pravna osoba ovlaštenik koja Ministarstvu za potrebe informacijskog sustava zaštite okoliša u propisanim rokovima ne dostavlja točne, potpune i vjerodostojne podatke i informacije kao i odgovarajuća izvješća ili ako ne osigura nesmetan pristup podacima i korištenje podataka za potrebe informacijskog sustava zaštite okoliša (članak 150. stavak 1.).
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba ovlaštenika novčanom kaznom od 10.000,00 do 15.000,00 kuna.
+
+(4) Za prekršaj iz stavka 1. podstavaka 1. i 2. ovoga članka kaznit će se i fizička osoba – obrtnik novčanom kaznom od 5.000,00 do 10.000,00 kuna.«.
+
+#### Članak 69.
+
+U članku 260. stavku 1. točki 4. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+U točki 20. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 70.
+
+Članak 274. briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 71.
+
+Postupci pokrenuti po odredbama Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13., 153/13. – Zakon o gradnji, 78/15. i 12/18.) do stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona.
+
+#### Članak 72.
+
+Do donošenja nove Strategije održivog razvitka Republike Hrvatske sukladno odredbama ovoga Zakona, a koja se treba donijeti za novo razdoblje, ostaje na snazi Plan zaštite okoliša Republike Hrvatske za razdoblje 2018. – 2020.
+
+#### Članak 73.
+
+(1) Danom stupanja na snagu ovoga Zakona Ministarstvo zaštite okoliša i energetike preuzima sve poslove i radnike zatečene na preuzetim poslovima, imovinu, opremu, pismohranu i drugu dokumentaciju, sredstava za rad, nekretnine, prava i obveze te financijska sredstva Agencije za zaštitu okoliša i prirode.
+
+(2) Ministar zaštite okoliša i energetike će u roku od osam dana od dana stupanja na snagu ovog Zakona podnijeti zahtjev za upis brisanja Agencije za zaštitu okoliša i prirode iz sudskog registra.
+
+(3) Agencija za zaštitu okoliša i prirode prestaje danom upisa brisanja u sudskom registru.
+
+(4) Danom upisa brisanja Agencije za zaštitu okoliša i prirode iz sudskog registra prestaje mandat ravnatelja, pomoćnika ravnatelja i Upravnog vijeća Agencije za zaštitu okoliša i prirode
+
+(5) Preuzeti radnici iz stavka 1. ovoga članka danom stupanja na snagu ovoga Zakona postaju državni službenici i do donošenja rješenja o rasporedu prema Pravilniku o unutarnjem redu Ministarstva zaštite okoliša i energetike nastavljaju obavljati poslove i zadržavaju pravo na plaću i druga prava iz radnog odnosa te obveze i odgovornosti prema dosadašnjim ugovorima o radu.
+
+(6) Preuzeti radnici iz stavka 1. ovoga članka koji neće moći biti raspoređeni, stavljaju se na raspolaganje Vladi Republike Hrvatske sukladno propisima o državnim službenicima.
+
+#### Članak 74.
+
+(1) Vlada Republike Hrvatske izmijenit će Uredbu o unutarnjem ustrojstvu Ministarstva u roku od 60 dana od dana stupanja na snagu ovog Zakona.
+
+(2) Ministar će u roku od 30 dana od dana stupanja na snagu Uredbe iz stavka 1. ovoga članka uskladiti Pravilnik o unutarnjem redu Ministarstva s odredbama Uredbe iz stavka 1. ovoga članka.
+
+(3) Danom stupanja na snagu ovog Zakona prestaje važiti Uredba o osnivanju Hrvatske agencije za okoliš i prirodu (»Narodne novine«, br. 72/15.).
+
+(4) Ministar zaštite okoliša i energetike će propise iz članaka 6. i 12. ovoga Zakona donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 75.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim odredaba članaka 57., 58., 59., 60., 61., 62., 63., 65., 66. i 67. ovoga Zakona koje stupaju na snagu dana 1. travnja 2019.
+
+Klasa: 022-03/18-01/135
+
+Zagreb, 14. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

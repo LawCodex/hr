@@ -73,7 +73,6 @@ dr. sc. Ivo Sanader, v. r.
 POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROIZVODIMA KAO SLUČAJNI ILI TEHNOLOŠKI NEIZBJEŽNI TRAGOVI U SMISLU UREDBE O RAZINI GENETSKI MODIFICIRANIH ORGANIZAMA U PROIZVODIMA ISPOD KOJE PROIZVODI KOJI SE STAVLJAJU NA TRŽIŠTE NE MORAJU BITI OZNAČENI KAO PROIZVODI KOJI SADRŽE GENETSKI MODIFICIRANE ORGANIZME
 
 <table>
-
 <tr>
 <td><b> Br.</b><br> </td>
 <td><b> Oznaka</b><br> </td>
@@ -82,7 +81,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td><b> Izvedena promjena</b><br> </td>
 <td><b> Moguća uporaba</b><br> </td>
 </tr>
-
 <tr>
 <td>1.<br> </td>
 <td>Carnation Moonlite<br> (Dianthus caryophyllus L. line 123.2.38)</td>
@@ -91,7 +89,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Modificirana boja cvijeta<br> </td>
 <td>Uvoz i prerada<br> </td>
 </tr>
-
 <tr>
 <td>2.<br> </td>
 <td>Carnation Mooshadow 1<br> </td>
@@ -100,7 +97,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Modificirana boja cvijeta<br> </td>
 <td>Kultiviranje<br> </td>
 </tr>
-
 <tr>
 <td>3.<br> </td>
 <td>Carnation Moonshadow 2<br> </td>
@@ -109,7 +105,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Produženje trajnosti<br> </td>
 <td>Kultiviranje<br> </td>
 </tr>
-
 <tr>
 <td>4.<br> </td>
 <td>Carnation Moondust<br> </td>
@@ -118,7 +113,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Modificirana boja cvijeta<br> </td>
 <td>Uvoz i prerada<br> </td>
 </tr>
-
 <tr>
 <td>5.<br> </td>
 <td>1507<br> </td>
@@ -127,7 +121,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Otpornost na insekte i podnošenje herbicida<br> </td>
 <td>Kao hrana i hrana za životinje<br> </td>
 </tr>
-
 <tr>
 <td>6.<br> </td>
 <td>59122<br> </td>
@@ -136,7 +129,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Otpornost na insekte i podnošenje herbicida<br> </td>
 <td>Kao hrana, sastojak hrane i kao hrana za životinje<br> </td>
 </tr>
-
 <tr>
 <td>7.<br> </td>
 <td>1507 X NK603<br> </td>
@@ -145,7 +137,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Otpornost na insekte i podnošenje herbicida<br> </td>
 <td>Kao hrana, sastojak hrane i kao hrana za životinje<br> </td>
 </tr>
-
 <tr>
 <td>8.<br> </td>
 <td>MON863<br> </td>
@@ -154,7 +145,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Otpornost na insekte<br> </td>
 <td>Kao hrana i hrana za životinje, za preradu<br> </td>
 </tr>
-
 <tr>
 <td>9.<br> </td>
 <td>GA21<br> </td>
@@ -163,7 +153,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Podnošenje herbicida<br> </td>
 <td>Kao hrana i hrana za životinje, za preradu<br> </td>
 </tr>
-
 <tr>
 <td>10.<br> </td>
 <td>MON863X<br> MON810</td>
@@ -172,7 +161,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Otpornost na insekte<br> </td>
 <td>Kao hrana i hrana za životinje, za kultiviranje<br> </td>
 </tr>
-
 <tr>
 <td>11.<br> </td>
 <td>NK603<br> </td>
@@ -181,7 +169,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Podnošenje herbicida<br> </td>
 <td rowspan="2">Kao hrana i hrana za životinje<br> </td>
 </tr>
-
 <tr>
 <td>12.<br> </td>
 <td>Bt11<br> </td>
@@ -189,7 +176,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Syngenta<br> </td>
 <td>Otpornost na insekte<br> </td>
 </tr>
-
 <tr>
 <td>13.<br> </td>
 <td>MON810<br> </td>
@@ -198,7 +184,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Otpornost na insekte<br> </td>
 <td rowspan="4">Kao hrana i hrana za životinje<br> </td>
 </tr>
-
 <tr>
 <td>14.<br> </td>
 <td>T25<br> </td>
@@ -206,7 +191,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Monsanto<br> </td>
 <td>Podnošenje herbicida<br> </td>
 </tr>
-
 <tr>
 <td>15.<br> </td>
 <td>MON863 X NK603<br> </td>
@@ -214,7 +198,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Monsanto<br> </td>
 <td>Otpornost na insekte podnošenje herbicida<br> </td>
 </tr>
-
 <tr>
 <td>16.<br> </td>
 <td>NK603 X MON810<br> </td>
@@ -222,7 +205,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Monsanto<br> </td>
 <td>Otpornost na insekte podnošenje herbicida<br> </td>
 </tr>
-
 <tr>
 <td>17.<br> </td>
 <td>MON1445<br> </td>
@@ -231,7 +213,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Podnošenje herbicida<br> </td>
 <td rowspan="3">Hrana i hrana za životinje<br> </td>
 </tr>
-
 <tr>
 <td>18.<br> </td>
 <td>MON531<br> </td>
@@ -239,7 +220,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Monsanto<br> </td>
 <td>Otpornost na insekte<br> </td>
 </tr>
-
 <tr>
 <td>19.<br> </td>
 <td>MON15985<br> </td>
@@ -247,7 +227,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Monsanto<br> </td>
 <td>Otpornost na insekte<br> </td>
 </tr>
-
 <tr>
 <td>20.<br> </td>
 <td>MON15985 X MON1445<br> </td>
@@ -256,7 +235,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Otpornost na insekte podnošenje herbicida<br> </td>
 <td>Hrana i hrana za životinje<br> </td>
 </tr>
-
 <tr>
 <td>21.<br> </td>
 <td>MON531 X MON1445<br> </td>
@@ -265,7 +243,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Otpornost na insekte podnošenje herbicida<br> </td>
 <td>Hrana i hrana za životinje<br> </td>
 </tr>
-
 <tr>
 <td>22.<br> </td>
 <td>MON40-3-2<br> </td>
@@ -274,7 +251,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Podnošenje herbicida<br> </td>
 <td>Kao hrana i hrana za životinje i za kultiviranje i za preradu<br> </td>
 </tr>
-
 <tr>
 <td>23.<br> </td>
 <td>MS8 X RF3<br> </td>
@@ -283,7 +259,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Sterilnost, podnošenja herbicida<br> </td>
 <td>Hrana i hrana za životinje<br> i za uvoz i preradu</td>
 </tr>
-
 <tr>
 <td>24.<br> </td>
 <td>GT73<br> </td>
@@ -292,7 +267,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Podnošenje herbicida<br> </td>
 <td>Hrana i hrana za životinje<br> i za uvoz i preradu</td>
 </tr>
-
 <tr>
 <td>25.<br> </td>
 <td>T45<br> </td>
@@ -301,7 +275,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Podnošenje herbicida<br> </td>
 <td>Kao hrana i hrana za životinje<br> </td>
 </tr>
-
 <tr>
 <td>26.<br> </td>
 <td>H7-1<br> </td>
@@ -310,7 +283,6 @@ POPIS DOPUŠTENIH GENETSKI MODIFICIRANIH ORGANIZAMA KOJI SE MOGU NALAZITI U PROI
 <td>Podnošenje herbicida<br> </td>
 <td>Kao hrana, sastojak hrane i hrana za životinje<br> </td>
 </tr>
-
 </table>
 
 ---

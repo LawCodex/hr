@@ -1,0 +1,257 @@
+---
+title: "Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2022."
+identifier: "NN 55/2022 (726)"
+eli: "https://narodne-novine.nn.hr/eli/sluzbeni/2022/55/726"
+type: decree
+jurisdiction: hr
+language: hr
+date: 2022-05-13
+status: in_force
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original
+narodne_novine: "55/22"
+amendments: []
+source: "https://narodne-novine.nn.hr/eli/sluzbeni/2022/55/726"
+retrieved: 2026-10-12
+---
+
+# Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2022.
+
+> Izvor: Narodne novine, NN 55/2022 (https://narodne-novine.nn.hr/eli/sluzbeni/2022/55/726).
+>
+> Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
+
+Vlada Republike Hrvatske
+
+Na temelju članka 37. stavka 2. Zakona o besplatnoj pravnoj pomoći (»Narodne novine«, br. 143/13. i 98/19.), Vlada Republike Hrvatske je na sjednici održanoj 12. svibnja 2022. donijela
+
+**UREDBU**
+
+**O VRIJEDNOSTI IZNOSA ZA UTVRĐIVANJE NAKNADE ZA PRUŽANJE SEKUNDARNE PRAVNE POMOĆI ZA 2022.**
+
+## I. OPĆE ODREDBE
+
+### Članak 1.
+
+Ovom Uredbom određuje se način vrednovanja i obračunavanja vrijednosti iznosa naknade za pružanje sekundarne pravne pomoći koju pružaju odvjetnici, vještaci i tumači na temelju rješenja nadležnog upravnog tijela županije odnosno Grada Zagreba u skladu s odredbama Zakona o besplatnoj pravnoj pomoći.
+
+### Članak 2.
+
+(1) U vrijednosti iznosa naknade koja je utvrđena u bruto iznosu (s uključenim javnim davanjima iz naknade) za pojedine oblike sekundarne pravne pomoći, utvrđene na temelju ove Uredbe, sadržan je i iznos poreza na dodanu vrijednost.
+
+(2) Prema utvrđenoj naknadi, ako primatelj plaća porez po odbitku, isplatitelj je dužan obračunati i doprinose na osnovicu sukladno propisima koji uređuju doprinose za obvezna osiguranja.
+
+## II. NAKNADA ZA RAD ODVJETNIKA
+
+### Članak 3.
+
+(1) Naknada za pružanje sekundarne pravne pomoći koju pružaju odvjetnici za pojedine pravne radnje i pojedine vrste postupaka utvrđuje se u bodovima.
+
+(2) Za 2022. vrijednost boda utvrđuje se u visini od 7,00 kuna.
+
+*Parnični postupak*
+
+### Članak 4.
+
+(1) U parničnom postupku se za sastavljanje podnesaka, zastupanje na ročištu i pravnu pomoć u mirnom rješenju spora utvrđuje naknada u iznosu od:
+
+| Pravne radnje | Bodovi |
+|---|---|
+| 1. za sastavljanje obrazloženih podnesaka | 50 |
+| 2. za zastupanje na ročištu | 50 |
+| 3. za zastupanje na ročištu na kojem se raspravljalo samo o procesnim pitanjima ili se prije raspravljanja o glavnoj stvari postupak završio povlačenjem tužbe ili prigovora, presudom na osnovi priznanja ili na osnovi izostanka kao i za zastupanje na ročištu na kojem se objavljuje presuda | 25 |
+| 4. za pristup na ročište koje je odgođeno prije početka raspravljanja | 15 |
+| 5. za pravnu pomoć u mirnom rješenju spora | 50 |
+
+(2) Za prvi stupanj donosi se rješenje:
+
+– do 300 bodova za postupke u vezi sa stvarnim pravima, osim zemljišnoknjižnih postupaka, čime je obuhvaćeno najviše šest pravnih radnji
+
+– do 300 bodova za postupke iz obiteljskih odnosa, čime je obuhvaćeno najviše šest pravnih radnji
+
+– do 300 bodova u svim ostalim upravnim i građanskim sudskim postupcima kada potreba odobravanja sekundarne pravne pomoći proizlazi iz konkretnih životnih okolnosti podnositelja zahtjeva i članova kućanstva, a u skladu s temeljnom svrhom Zakona o besplatnoj pravnoj pomoći, čime je obuhvaćeno najviše šest pravnih radnji
+
+– do 250 bodova za postupke iz radnih odnosa (poništenje otkaza, utvrđivanje prava na rad i sl.), čime je obuhvaćeno najviše pet pravnih radnji.
+
+(3) Za sastavljanje pravnih lijekova i odgovora na pravne lijekove utvrđuje se naknada u iznosu od:
+
+| Pravne radnje | Bodovi |
+|---|---|
+| 1. za sastavljanje redovnih pravnih lijekova protiv presude te rješenja u parnicama zbog smetanja posjeda | 60 |
+| 2. za sastavljanje odgovora na žalbu protiv presude te rješenja u parnicama zbog smetanja posjeda | 50 |
+| 3. za sastavljanje žalbe protiv rješenja i odgovora na žalbu | 25 |
+| 4. za sastavljanje izvanrednih pravnih lijekova | 75 |
+| 5. za odgovore na izvanredne pravne lijekove | 50 |
+
+(4) Za drugi stupanj donosi se rješenje u vrijednosti radnje koja se poduzima u tom postupku.
+
+(5) Ako se rješenje donosi za oba stupnja parničnog postupka, donosi se na vrijednost do 360 bodova.
+
+(6) Za izvanredne pravne lijekove donosi se posebno rješenje na vrijednost radnje za koju se rješenje donosi.
+
+*Ovršni postupak i postupak osiguranja*
+
+### Članak 5.
+
+(1) U ovršnom postupku i postupku osiguranja, kada je riječ o prisilnom ostvarenju ili osiguranju tražbine koja proizlazi iz postupka za koji se može odobriti pravna pomoć, utvrđuje se naknada u iznosu od:
+
+| Pravne radnje | Bodovi |
+|---|---|
+| 1. za sastavljanje prijedloga za izdavanje rješenja o ovrsi, prijedloga za protuovrhu, prijedloga za osiguranje, prijedloga za izdavanje privremenih i prethodnih mjera, prigovora protiv navedenih prijedloga | 50 |
+| 2. za zastupanje na ročištu | 50 |
+| 3. za sastavljanje pravnih lijekova | 60 |
+| 4. za sastavljanje ostalih podnesaka i poduzimanje ostalih radnji u ovršnom postupku i postupku osiguranja | 25 |
+
+(2) Za ovršni postupak i postupak osiguranja donosi se rješenje za najviše pet pravnih radnji.
+
+*Izvanparnični postupak*
+
+### Članak 6.
+
+(1) U izvanparničnom postupku utvrđuje se naknada u iznosu od:
+
+| Pravne radnje | Bodovi |
+|---|---|
+| 1. za sastavljanje podnesaka u izvanparničnim postupcima (npr. koji se vode radi utvrđivanja izvanbračne zajednice, diobu zajedničke imovine ili bračne stečevine i dr.) | 40 |
+| 2. za sastavljanje redovnih i izvanrednih pravnih lijekova | 50 |
+| 3. za zastupanje na ročištu | 30 |
+
+(2) Za izvanparnični postupak donosi se rješenje za najviše pet pravnih radnji.
+
+*Upravni spor*
+
+### Članak 7.
+
+(1) U upravnom sporu utvrđuje naknada u iznosu od:
+
+| Pravne radnje | Bodovi |
+|---|---|
+| 1. za sastavljanje tužbe, odgovora na tužbu, prijedloga za donošenje privremene mjere, prijedloga za nagodbu | 50 |
+| 2. za zastupanje na raspravi | 40 |
+| 3. za sastavljanje pravnih lijekova | 60 |
+| 4. za sastavljanje ostalih podnesaka | 40 |
+
+(2) Za upravni spor donosi se rješenje za najviše pet pravnih radnji iz stavka 1. točaka 1. i 2. ovoga članka. Ako u upravnom sporu nije predviđeno održavanje rasprave, donosi se rješenje na vrijednost radnje iz stavka 1. točke 1. ovoga članka.
+
+*Postupak zaštite prava radnika pred poslodavcem*
+
+### Članak 8.
+
+(1) U postupku zaštite prava radnika pred poslodavcem utvrđuje se naknada u iznosu od:
+
+| Pravne radnje | Bodovi |
+|---|---|
+| 1. za sastavljanje obrazloženih podnesaka | 50 |
+| 2. za sastavljanje zahtjeva za zaštitu prava | 50 |
+
+(2) Za postupak zaštite prava radnika pred poslodavcem donosi se rješenje u vrijednosti za najviše četiri pravne radnje u vrijednosti do 200 bodova.
+
+*Pravni savjet*
+
+### Članak 9.
+
+Za pravni savjet utvrđuje se naknada u iznosu od 25 bodova, a rješenje se donosi za najviše jednu pravnu radnju.
+
+## III. NAKNADA ZA RAD VJEŠTAKA
+
+### Članak 10.
+
+(1) Naknada za obavljeno vještačenje utvrđuje se u bodovima.
+
+(2) Za 2022. vrijednost boda utvrđuje se u visini od 1,25 kuna.
+
+(3) Ako je naknada obračunata u satima, vještak je dužan uz račun dostaviti i obrazloženje svake stavke.
+
+### Članak 11.
+
+Naknada za vještačenje povjereno pravnoj osobi pripada toj pravnoj osobi, što vrijedi i kada je vještačenje povjereno državnom tijelu, stručnoj ustanovi ili drugoj pravnoj osobi koji to vještačenje ne obavljaju kao svoju registriranu djelatnost.
+
+*Zajedničke odredbe za sve sekcije*
+
+### Članak 12.
+
+Ako ovom Uredbom nije drukčije propisano, za rad vještaka utvrđuje se naknada u iznosu od:
+
+| Vrsta troška | Bodovi |
+|---|---|
+| 1. pristup na glavnu raspravu | 100 |
+| 2. izrada pisanog nalaza i mišljenja | 150 – 4000 |
+| 3. interdisciplinarno vještačenje | 150 |
+| 4. vrijednost radnog sata | 35 |
+
+*Građevinska sekcija*
+
+### Članak 13.
+
+Za rad vještaka građevinske sekcije utvrđuje se naknada u iznosu od:
+
+| Aktivnosti | Bodovi |
+|---|---|
+| 1. izrada nacrta u mjerilu | 50 – 300 |
+| 2. izrada troškovnika s dokaznicom mjera po satu | 35 |
+
+*Medicinska sekcija*
+
+### Članak 14.
+
+Za rad vještaka medicinske sekcije utvrđuje se naknada u iznosu od:
+
+<table>
+<tr><td colspan="2">Aktivnosti</td><td>Bodovi</td></tr>
+<tr><td>A</td><td>Klinička medicina</td><td></td></tr>
+<tr><td colspan="2">1. pregled osoba i medicinske dokumentacije</td><td>140</td></tr>
+<tr><td colspan="2">2. provedba dodatnih pretraga</td><td>80</td></tr>
+<tr><td>B</td><td>Sudska medicina</td><td></td></tr>
+<tr><td colspan="2">1. davanje nalaza i mišljenja</td><td>160</td></tr>
+</table>
+
+*Sekcija za promet i vozila*
+
+### Članak 15.
+
+Za rad vještaka sekcije za promet i vozila utvrđuje se naknada u iznosu od:
+
+| Aktivnosti | Bodovi |
+|---|---|
+| 1. procjena štete na vozilu | 170 – 300 |
+| 2. procjena vrijednosti vozila | 100 |
+| 3. utvrđivanje tehničke ispravnosti vozila | 100 – 250 |
+
+## IV. NAKNADA ZA RAD TUMAČA
+
+*Naknada za pisani prijevod*
+
+### Članak 16.
+
+(1) Naknada za obavljeni pisani prijevod obračunava se po normiranom retku od 50 znakova. Najmanja obračunska jedinica je jedna normirana kartica s 30 redaka. U obračun retka ulazi svaki otkucani znak (slovo, interpunkcija, formula, znakovlje).
+
+(2) Naknada za pisani prijevod iznosi:
+
+| Aktivnosti | Naknada |
+|---|---|
+| 1. prijevod sa stranog jezika na hrvatski jezik i prijevod s hrvatskog jezika na strani jezik | 2,60 kuna po retku |
+| 2. prijevod znanstvenih, stručnih i tekstova s posebnim pismom (arapski, kineski, japanski i sl.) | 4,40 kuna po retku |
+| 3. prijevod s jednoga stranog jezika na drugi strani jezik | 2,60 kuna po retku |
+| 4. ovjera teksta | 30 % na cijenu<br>obavljenog prijevoda |
+| 5. hitan prijevod | 50 % na cijenu<br>obavljenog prijevoda |
+
+*Naknada za prevođenje izgovorenog teksta*
+
+### Članak 17.
+
+(1) Za prevođenje izgovorenog teksta s hrvatskog jezika na strani jezik i obratno, kao i s jednoga stranog jezika na drugi, stalnom sudskom tumaču pripada naknada u iznosu od 80,00 kuna za svaki započeti sat.
+
+(2) U vrijeme utrošeno za prevođenje računa se cjelokupno vrijeme provedeno od dolaska stalnoga sudskog tumača u mjesto gdje se obavlja prevođenje do prestanka potrebe za njegovom prisutnošću.
+
+## V. ZAVRŠNA ODREDBA
+
+### Članak 18.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/22-03/30  
+Urbroj: 50301-21/21-22-2  
+Zagreb, 12. svibnja 2022.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

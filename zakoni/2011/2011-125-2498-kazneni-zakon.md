@@ -6,15 +6,23 @@ type: code
 jurisdiction: hr
 language: hr
 date: 2011-11-07
-last_amended: 2015-06-03
+last_amended: 2025-11-05
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "125/11, 144/12, 56/15, 61/15"
+narodne_novine: "125/11, 144/12, 56/15, 61/15, 101/17, 118/18, 126/19, 84/21, 114/22, 114/23, 36/24, 136/25"
 amendments:
   - "NN 144/2012 (3076) Zakon o izmjenama i dopunama Kaznenog zakona"
   - "NN 56/2015 (1095) Zakon o izmjenama i dopunama Kaznenog zakona"
   - "NN 61/2015 (1188) Ispravak Zakona o izmjenama i dopunama Kaznenog zakona"
+  - "NN 101/2017 (2322) Zakon o izmjenama i dopunama Kaznenog zakona"
+  - "NN 118/2018 (2355) Zakon o izmjenama i dopunama Kaznenog zakona"
+  - "NN 126/2019 (2529) Zakon o izmjenama i dopunama Kaznenog zakona"
+  - "NN 84/2021 (1562) Zakon o izmjenama i dopunama Kaznenog zakona"
+  - "NN 114/2022 (1714) Zakon o izmjenama Kaznenog zakona"
+  - "NN 114/2023 (1618) Zakon o izmjenama i dopunama Kaznenog zakona"
+  - "NN 36/2024 (570) Zakon o izmjenama i dopunama Kaznenog zakona"
+  - "NN 136/2025 (2018) Zakon o izmjenama i dopunama Kaznenog zakona"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/125/2498"
 retrieved: 2026-10-12
 ---
@@ -23,7 +31,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 125/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/125/2498).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 144/2012, NN 56/2015, NN 61/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 144/2012, NN 56/2015, NN 61/2015, NN 101/2017, NN 118/2018, NN 126/2019, NN 84/2021, NN 114/2022, NN 114/2023, NN 36/2024, NN 136/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -6903,3 +6911,1481 @@ Zagreb, 28. svibnja 2015.
 Tajnica  
 Hrvatskoga sabora  
 dr. sc. Lidija Bagarić, v. r.
+
+## Zakon o izmjenama i dopunama Kaznenog zakona (NN 101/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/101/2322*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Kaznenog zakona, koji je Hrvatski sabor donio na sjednici 4. listopada 2017.
+
+Klasa: 011-01/17-01/80
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 10. listopada 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA**
+
+### Članak 1.
+
+U Kaznenom zakonu (»Narodne novine«, br. 125/11., 144/12., 56/15. i 61/15. – ispravak) u članku 55. stavak 1. mijenja se i glasi:
+
+»(1) Sud može izrečenu novčanu kaznu u iznosu manjem od tristo šezdeset dnevnih iznosa ili kaznu zatvora u trajanju manjem od jedne godine zamijeniti radom za opće dobro.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Rad za opće dobro ne može se izreći već osuđenim osobama na kaznu zatvora u trajanju duljem od šest mjeseci.«.
+
+Dosadašnji stavci 2. – 7. postaju stavci 3. – 8.
+
+Dosadašnji stavak 8., koji postaje stavak 9., mijenja se i glasi:
+
+»(9) Ako osuđenik ustrajno izbjegava provođenje zaštitnog nadzora iz članka 64. ovoga Zakona ili bez opravdanog razloga krši obvezu koja mu je određena sigurnosnom mjerom, sud će donijeti odluku kojom određuje izvršenje prvotno izrečene kazne. Ako se utvrdi da je počinitelj zbog opravdanih razloga izbjegavao zaštitni nadzor, sud ga može osloboditi zaštitnog nadzora, ili mu može produljiti rok za izvršenje zaštitnog nadzora.«.
+
+Dosadašnji stavak 9. postaje stavak 10.
+
+### Članak 2.
+
+U članku 87. stavku 21. iza riječi: »etničkog podrijetla« dodaje se riječ: »jezika«.
+
+### Članak 3.
+
+Članak 259. mijenja se i glasi:
+
+»(1) Tko suprotno propisima o tržištu kapitala, raspolažući povlaštenom informacijom na temelju članstva u upravnim, upravljačkim ili nadzornim tijelima izdavatelja ili sudionika na tržištu emisijskih jedinica ili posjedovanja svog udjela u kapitalu izdavatelja ili sudionika na tržištu emisijskih jedinica ili na temelju pristupa informacijama tijekom obavljanja posla, profesije ili dužnosti ili tko je do povlaštenih informacija došao neovisno o navedenim okolnostima:
+
+1. za vlastiti ili tuđi račun, neposredno ili posredno, stekne ili otuđi financijski instrument na koji se ta informacija odnosi, otkaže ili izmijeni nalog u vezi s financijskim instrumentom na koji se ta informacija odnosi, uključujući i slučaj kada je nalog dan prije nego što je ta osoba posjedovala tu povlaštenu informaciju, podnese, promijeni ili povuče ponudu za kupnju na dražbi emisijskih jedinica ili drugih proizvoda na dražbi koji se temelje na emisijskim jedinicama,
+
+2. neovlašteno otkrije, priopći, preda ili na drugi način učini dostupnom povlaštenu informaciju drugoj osobi,
+
+3. preporuči drugoj osobi ili je navede da stekne ili otpusti financijski instrument na koji se ta informacija odnosi ili da otkaže ili izmijeni nalog u vezi s financijskim instrumentom na koji se ta informacija odnosi,
+
+kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+
+(2) Ako je kaznenim djelom iz stavka 1. ovoga članka pribavljena imovinska korist velikih razmjera ili je drugome prouzročena imovinska šteta velikih razmjera, počinitelj će se kazniti kaznom zatvora od jedne do osam godina.«.
+
+### Članak 4.
+
+Članak 260. mijenja se i glasi:
+
+»(1) Tko suprotno propisima o tržištu kapitala:
+
+1. obavi transakciju ili da nalog za trgovanje ili obavi bilo koji drugi postupak koji daje ili bi mogao dati neistinite ili obmanjujuće znakove o ponudi, potražnji ili cijeni financijskih instrumenata ili povezanog promptnog ugovora za robu ili drži cijenu jednog ili više financijskih instrumenata ili povezanog promptnog ugovora za robu na neuobičajenoj ili umjetnoj razini,
+
+2. pri sklapanju transakcije ili davanju naloga za trgovanje ili pri bilo kojoj drugoj aktivnosti ili postupku koji utječe na cijenu jednog ili nekoliko financijskih instrumenata ili povezanog promptnog ugovora za robu upotrebljava fiktivne postupke ili druge oblike obmane ili prijevare,
+
+3. širi informacije putem medija, internetom ili bilo kojim drugim načinom ili sredstvom kojim daje ili bi mogao davati neistinite ili obmanjujuće znakove glede ponude, potražnje ili cijene financijskih instrumenata ili povezanog promptnog ugovora za robu ili održava cijenu jednog ili nekoliko financijskih instrumenata ili povezanog promptnog ugovora za robu na neuobičajenoj ili umjetnoj razini kada osobe koje su proširile informaciju stječu, za sebe ili drugu osobu, prednost ili korist od širenja dotičnih informacija ili financijskih instrumenata, uključujući širenje glasina i neistinitih ili obmanjujućih vijesti,
+
+4. prosljeđuje ili daje neistinite ili obmanjujuće informacije ili osnovne podatke ili bilo kojim drugim postupkom manipulira izračunom referentnih vrijednosti, kaznit će kaznom zatvora od šest mjeseci do pet godina.
+
+(2) Ako je postupanjem iz stavka 1. ovoga članka pribavljena imovinska korist velikih razmjera ili je drugome prouzročena imovinska šteta velikih razmjera, počinitelj će se kazniti kaznom zatvora od jedne do osam godina.«.
+
+### Članak 5.
+
+U članku 263. stavku 1. riječ: »jedne« zamjenjuje se riječju: »tri«.
+
+### Članak 6.
+
+U članku 264. stavku 1. riječ: »jedne« zamjenjuje se riječju: »tri«.
+
+### Članak 7.
+
+U članku 325. stavku 1. iza riječi: »etničke pripadnosti« dodaje se riječ: »jezika«.
+
+### Članak 8.
+
+U članku 326. stavku 1. riječi: »šest mjeseci do pet« zamjenjuju se riječima: »jedne do osam«.
+
+U stavku 2. riječi: »jedne do osam« zamjenjuju se riječima: »tri do dvanaest«.
+
+### Članak 9.
+
+U članku 331. stavku 4. broj: »2.« zamjenjuje se brojem: »3.«.
+
+### Članak 10.
+
+U članku 384. stavku 1. oznaka stavka: »(1)« briše se.
+
+Stavak 2. briše se.
+
+### Članak 11.
+
+U članku 386. na kraju točke 25. točka se zamjenjuje zarezom.
+
+Iza točke 25. dodaje se točka 26. koja glasi:
+
+»26. Direktivom 2014/57/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o kaznenopravnim sankcijama za zlouporabu tržišta (SL L 173, 12. 6. 2014.).«.
+
+### Članak 12.
+
+(1) Ako je do stupanja na snagu ovoga Zakona podnesen zahtjev za uvjetni otpust u odnosu na kazne koje se izvršavaju sukladno odredbama Kaznenog zakona iz članka 381. stavka 1. točke 1. Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15. i 61/15. – ispravak), primijenit će se odredbe o uvjetnom otpustu iz zakona prema kojem se kazne izvršavaju.
+
+(2) O zahtjevima za uvjetni otpust iz stavka 1. ovoga članka odlučuje Povjerenstvo za uvjetni otpust iz Zakona o izvršavanju kazne zatvora (»Narodne novine«, br. 128/99., 55/00., 59/00., 129/00., 59/01., 67/01., 11/02., 190/03., 76/07., 27/08., 83/09., 18/11., 48/11., 125/11., 56/13. i 150/13.).
+
+### Članak 13.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/40
+
+Zagreb, 4. listopada 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Kaznenog zakona (NN 118/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/118/2355*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Kaznenog zakona, koji je Hrvatski sabor donio na sjednici 14. prosinca 2018.
+
+Klasa: 011-01/18-01/239
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA**
+
+### Članak 1.
+
+U Kaznenom zakonu (»Narodne novine«, br. 125/11., 144/12., 56/15. i 61/15. – ispravak i 101/17.) u članku 12. briše se oznaka stavka koja glasi: »(1)«.
+
+Stavak 2. briše se.
+
+### Članak 2.
+
+Iza članka 18. dodaje se članak 18.a s naslovom iznad njega koji glasi:
+
+*»Posebnosti glede pokretanja kaznenog postupka u odnosu na države ugovornice Konvencije o provedbi Sporazuma iz Schengena*
+
+### Članak 18.a
+
+Kazneni postupak radi primjene kaznenog zakonodavstva Republike Hrvatske ne može se pokrenuti ako je u državi ugovornici Konvencije o provedbi sporazuma iz Schengena kazneni postupak zbog istog djela i u odnosu na istog počinitelja pravomoćno dovršen pod uvjetom da je, ako je izrečena kazna ta kazna i izvršena ili je trenutačno u postupku izvršenja ili se više, prema zakonima ugovorne stranke koja ju je izrekla, ne može izvršiti.«.
+
+### Članak 3.
+
+U članku 55. stavku 8. broj: »5.« zamjenjuje se brojem: »6.«.
+
+### Članak 4.
+
+U članku 57. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Vrijeme provjeravanja iz uvjetovanog dijela kazne ne teče za vrijeme izdržavanja neuvjetovanog dijela kazne.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+### Članak 5.
+
+U članku 76. stavku 1. iza broja i riječi: »XVII. ovoga Zakona« dodaju se riječi: »za koje je izrečena kazna zatvora«.
+
+U stavku 2. riječi: »jednu godinu« zamjenjuju se riječima: »tri godine«, a riječi: »tri godine« zamjenjuju se riječima: »pet godina«.
+
+### Članak 6.
+
+U članku 79. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Predmete i sredstva koji su bili namijenjeni ili uporabljeni za počinjenje kaznenog djela sud može oduzeti.
+
+(3) Predmete i sredstva iz stavka 1. i 2. ovoga članka sud može oduzeti i kada počinitelj protupravne radnje nije kriv.«.
+
+### Članak 7.
+
+U članku 81. stavku 2. iza riječi i broja: »teškog ubojstva (članak 111.),« dodaju se riječi i brojevi: »teška kaznena djela spolnog zlostavljanja i iskorištavanja djeteta (članak 166. stavak 3.),«.
+
+### Članak 8.
+
+U članku 82. stavku 3. iza riječi i broja: »članka 166.« dodaje se riječ i brojevi: » stavka 1. i 2.«.
+
+### Članak 9.
+
+U članku 83. stavku 2. iza riječi i broja: »teškog ubojstva (članak 111.),« dodaju se riječi i brojevi: »teška kaznena djela spolnog zlostavljanja i iskorištavanja djeteta (članak 166. stavak 3.),«.
+
+### Članak 10.
+
+U članku 87. stavci 22. i 25. mijenjaju se i glase:
+
+»(22) Imovinskom korišću od kaznenog djela smatra se neposredna imovinska korist ostvarena počinjenjem kaznenog djela, imovina u koju je promijenjena ili pretvorena neposredna imovinska korist od kaznenog djela, kao i svaka druga korist koja je ostvarena od neposredne imovinske koristi od kaznenog djela ili imovine u koju je promijenjena ili pretvorena neposredna imovinska korist od kaznenog djela bez obzira nalazi li se na području Republike Hrvatske ili izvan njega.
+
+(25) Žrtva kaznenog djela je fizička osoba koja je pretrpjela fizičke i duševne posljedice, imovinsku štetu ili bitnu povredu temeljnih prava i sloboda koji su izravna posljedica kaznenog djela. Žrtvom kaznenog djela smatraju se i bračni i izvanbračni drug, životni partner ili neformalni životni partner te potomak, a ako njih nema, predak, brat i sestra one osobe čija je smrt izravno prouzročena kaznenim djelom te osoba koju je ona na temelju zakona bila dužna uzdržavati.«.
+
+### Članak 11.
+
+U članku 97. stavku 1. točki 6., na oba mjesta, iza riječi: »nuklearnog,« dodaje se riječ: »radiološkog,«.
+
+U stavku 1. iza točke 9. dodaje se točka 10. koja glasi:
+
+»10. ometa rad računalnog sustava kritične infrastrukture,«.
+
+U stavku 2. riječi: »šest mjeseci do pet« zamjenjuju se riječima: »jedne do osam«.
+
+### Članak 12.
+
+U članku 98. stavku 1. riječ i broj: »članka 101.« zamjenjuje se riječi i brojem: »članka 102.«.
+
+### Članak 13.
+
+U članku 100. iza riječi: »udruženju radi« dodaju se riječi: »počinjenja ili«, a iza broja: »97.« briše se zarez i dodaju se riječi: »ili počinjenja kaznenog djela iz«.
+
+### Članak 14.
+
+U članku 101. iza riječi: »za počinjenje« dodaju se riječi: »ili doprinos u počinjenju«, a iza broja: »97.« briše se zarez i dodaju se riječi: »ili za počinjenje kaznenog djela iz«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Tko prima upute ili samostalno stječe znanja o izradi i korištenju eksplozivnih naprava, vatrenog ili drugog oružja, ili štetnih, ili opasnih tvari, ili o drugim specifičnim metodama, ili tehnikama znajući da se te vještine namjeravaju koristiti za počinjenje ili doprinos u počinjenju kaznenog djela iz članka 97. ili počinjenje kaznenog djela iz članka 98., članka 137., članka 216. stavka 1. do 3., članka 219., članka 223., članka 224., članka 352. do članka 355. ovoga Zakona, kaznit će se kaznom zatvora od jedne do osam godina.«.
+
+### Članak 15.
+
+Iza članka 101. dodaje se članak 101.a s naslovom iznad njega koji glasi:
+
+*»Putovanje u svrhu terorizma*
+
+### Članak 101.a
+
+Tko putuje u svrhu počinjenja ili doprinosa u počinjenju kaznenog djela iz članka 97. ili počinjenja kaznenog djela iz članka 101. i članka 102. ovoga Zakona, kaznit će se kaznom zatvora od jedne do osam godina.«.
+
+### Članak 16.
+
+U članku 107. stavci 5. i 6. mijenjaju se i glase:
+
+»(5) Kaznom iz stavka 3. ovoga članka kaznit će se tko izvadi ili presadi ljudski organ, tkivo, stanicu, zametak ili fetus ako je znao ili je morao i mogao znati da je za njega darivatelj dobio novčanu naknadu ili drugu korist.«.
+
+(6) Tko oglašava potrebu ili dostupnost ljudskog organa, tkiva, stanice, zametka, fetusa ili mrtvog tijela radi ponude ili traženja novčane naknade ili druge koristi, kaznit će se kaznom zatvor do tri godine.«.
+
+### Članak 17.
+
+U članku 158. stavku 1. riječi: »jedne do deset« zamjenjuju se riječima: »tri do dvanaest«.
+
+U stavku 2. riječi: »šest mjeseci do pet« zamjenjuju se riječima: »jedne do osam«.
+
+U stavku 4. riječi: »šest mjeseci do pet« zamjenjuju se riječima: »jedne do osam«, a riječi: »do tri godine« zamjenjuju se riječima: »od šest mjeseci do pet godina«.
+
+U stavku 6. riječ: »osam« zamjenjuje se riječju: »deset«.
+
+### Članak 18.
+
+U članku 159. stavku 1. riječi: » šest mjeseci do pet« zamjenjuju se riječima: »jedne do osam«.
+
+### Članak 19.
+
+U članku 160. stavku 1. riječ: »jedne« zamjenjuje se riječi: »tri«.
+
+U stavku 2. riječi: »do tri godine« zamjenjuju se riječima: »od šest mjeseci do pet godina«.
+
+U stavku 3. slovo i broj: »i 2.« brišu se.
+
+### Članak 20.
+
+U članku 161. stavku 1. riječi: »do tri godine« zamjenjuju se riječima: »od šest mjeseci do pet godina«.
+
+U stavku 2. riječ: »jedne« zamjenjuje se riječju: »tri«.
+
+Stavak 3. briše se.
+
+### Članak 21.
+
+U članku 162. stavku 1. riječi: »jedne do deset« zamjenjuju se riječima: »tri do dvanaest«.
+
+U stavku 2. riječi: »šest mjeseci do pet« zamjenjuju se riječima: »jedne do osam«.
+
+U stavku 4. riječi: »šest mjeseci do pet« zamjenjuju se riječima: »jedne do osam«.
+
+### Članak 22.
+
+U članku 163. stavku 1. riječ: »osam« zamjenjuje se riječju: »deset«.
+
+### Članak 23.
+
+U članku 164. stavku 1. riječ: »osam« zamjenjuje se riječju: »deset«.
+
+U stavku 2. riječ: »deset« zamjenjuje se riječju: »dvanaest«.
+
+### Članak 24.
+
+U članku 165. stavku 1. riječi: »do tri godine« zamjenjuju se riječima: »od šest mjeseci do pet godina«.
+
+### Članak 25.
+
+U članku 166. stavku 1. iza broja i riječi: »164. stavka 1.« dodaje se slovo i broj: »i 2.«.
+
+U stavku 2. broj: »2.« zamjenjuje se brojem: »3.«.
+
+### Članak 26.
+
+Naslov iznad članka 200. mijenja se i glasi: »Uništavanje zaštićenih dijelova prirode«.
+
+Članak 200. mijenja se i glasi:
+
+»(1) Tko protivno propisima usmrti, uništi, posjeduje, hvata ili uzima jedinku strogo zaštićene vrste ili drugi zaštićeni dio prirode, kaznit će se kaznom zatvora do tri godine.
+
+(2) Tko djelom iz stavka 1. ovoga članka izazove značajno smanjenje broja jedinki u populaciji ili izazove njezino istrebljenje, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+
+(3) Tko kazneno djelo iz stavka 1. i 2. ovoga članka počini iz nehaja, kaznit će se kaznom zatvora do dvije godine.
+
+(4) Nema kaznenog djela iz stavka 1. ovoga članka ako je počinjeno prema neznatnom broju jedinki strogo zaštićene vrste ili drugog zaštićenog dijela prirode i neznatno je utjecalo na očuvanje te vrste ili drugog zaštićenog dijela prirode.«.
+
+### Članak 27.
+
+Članak 201. mijenja se i glasi:
+
+»(1) Tko protivno propisima uništi ili izazove znatno pogoršanje staništa ciljnih vrsta područja ekološke mreže ili znatno pogoršanje ciljnog stanišnog tipa područja ekološke mreže, kaznit će se kaznom zatvora do tri godine.
+
+(2) Tko djelo iz stavka 1. ovoga članka počini prema prioritetnoj vrsti ili stanišnom tipu područja ekološke mreže, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+
+(3) Kaznom iz stavka 2. ovog članka kaznit će se tko protivno propisima uništi ili ošteti područje razmnožavanja ili odmaranja ili gnijezdo strogo zaštićene vrste u mjeri koja značajno utječe na stanje očuvanja te vrste.
+
+(4) Tko kazneno djelo iz stavka 1., 2. i 3. ovoga članka počini iz nehaja, kaznit će se kaznom zatvora do dvije godine.«.
+
+### Članak 28.
+
+Naslov iznad članka 202. mijenja se i glasi: »Trgovanje divljim vrstama«.
+
+Članak 202. mijenja se i glasi:
+
+»(1) Tko protivno propisima o zaštiti divljih vrsta trguje, uvozi, izvozi ili prevozi živu ili mrtvu jedinku divlje vrste, njezine dijelove ili prerađevine dobivene iz nje, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+
+(2) Tko kazneno djelo iz stavka 1. ovoga članka počini iz nehaja, kaznit će se kaznom zatvora do dvije godine.
+
+(3) Nema kaznenog djela iz stavka 1. ovoga članka ako je počinjeno prema neznatnoj količini jedinki i neznatno je utjecalo na očuvanje te vrste.«.
+
+### Članak 29.
+
+U članku 214. stavku 5. iza broja i riječi: »202. stavka 1.« brišu se slovo i broj: »i 2.«.
+
+U stavku 7. iza broja i riječi: »202. stavka« broj: »3.« zamjenjuje se brojem: »2.«
+
+### Članak 30.
+
+U članku 227. stavku 4. riječ: »dvanaest« zamjenjuje se riječju: »petnaest«.
+
+### Članak 31.
+
+Članak 265. mijenja se i glasi:
+
+»(1) Tko imovinsku korist ostvarenu kaznenim djelom uloži, preuzme, pretvori, prenese ili zamijeni u cilju prikrivanja ili lažnog prikazivanja njezina nezakonitog podrijetla ili pomaganja počinitelju ili sudioniku kaznenog djela kojim je ostvarena imovinska korist da izbjegne kazneni progon ili oduzimanje imovinske koristi ostvarene kaznenim djelom, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+
+(2) Kaznom iz stavka 1. ovoga članka kaznit će se tko prikriva ili lažno prikazuje pravu prirodu, podrijetlo, mjesto, raspolaganje, prenošenje te postojanje prava, odnosno vlasništva na imovinskoj koristi ostvarenoj kaznenim djelom.
+
+(3) Kaznom iz stavka 1. ovoga članka kaznit će se tko imovinsku korist koju je drugi ostvario kaznenim djelom pribavlja, posjeduje ili koristi.
+
+(4) Kaznom iz stavka 1. ovoga članka kaznit će se tko s namjerom daje upute ili savjete ili uklanja prepreke ili na drugi način olakša počinjenje kaznenog djela iz stavka 1., 2. ili 3. ovoga članka.
+
+(5) Tko počini djelo iz stavka 1. ili 2. ovoga članka u financijskom ili drugom poslovanju ili se počinitelj bavi pranjem novca ili je imovinska korist iz stavka 1., 2. ili 3. ovoga članka velike vrijednosti, kaznit će se kaznom zatvora od jedne do osam godina.
+
+(6) Tko poduzme radnju iz stavka 1., 2. ili 5. ovoga članka postupajući s nehajem u odnosu na okolnosti da se radi o imovinskoj koristi ostvarenoj kaznenim djelom, kaznit će se kaznom zatvora do tri godine.
+
+(7) Ako je imovinska korist iz stavka 1. do 6. ovoga članka ostvarena kaznenim djelom počinjenim u stranoj državi, počinitelj će se kazniti ako se radi o kaznenom djelu i prema zakonu države u kojoj je počinjeno.
+
+(8) Počinitelja iz stavka 1. do 6. ovoga članka koji dobrovoljno bitno pridonese otkrivanju kaznenog djela kojim je ostvarena imovinska korist sud može osloboditi kazne.
+
+(9) Imovinska korist, predmeti i sredstva koji su nastali počinjenjem kaznenog djela iz stavka 1. do 5. ovoga članka ili su bili namijenjeni ili uporabljeni za počinjenje kaznenog djela iz stavka 1. do 5. ovog članka, oduzet će se, a prava utvrditi ništetnim.«.
+
+### Članak 32.
+
+U članku 266. stavku 1. iza riječi: »sustavu« dodaju se riječi: »ili nekom njegovom dijelu«.
+
+### Članak 33.
+
+Članak 268. stavak 1. mijenja se i glasi:
+
+»(1) Tko neovlašteno u cijelosti ili djelomično ošteti, izmijeni, izbriše, uništi ili prikrije tuđe računalne podatke ili programe ili onemogući pristup tuđim računalnim podacima ili programima, kaznit će se kaznom zatvora do tri godine.«.
+
+### Članak 34.
+
+U članku 272. stavku 1. iza riječi: »posjeduje« dodaje se zarez i riječ: »distribuira«.
+
+U stavku 2. iza riječi: »posjeduje« dodaje zarez i riječ: »distribuira«.
+
+### Članak 35.
+
+Iza članka 315. dodaje se članak 315.a s naslovom iznad njega koji glasi:
+
+*»Prisila prema zdravstvenom radniku*
+
+### Članak 315.a
+
+(1) Tko doktora medicine, doktora dentalne medicine ili drugog zdravstvenog radnika koji zdravstvenu djelatnost obavlja kao javnu službu silom ili prijetnjom da će izravno uporabiti silu spriječi u obavljanju njegove zdravstvene djelatnosti, kaznit će se kaznom zatvora do tri godine.
+
+(2) Ako je kaznenim djelom iz stavka 1. ovoga članka doveden u opasnost život ili tijelo doktora medicine, doktora dentalne medicine ili drugog zdravstvenog radnika ili mu je nanesena tjelesna ozljeda ili je uporabljeno oružje ili opasno oruđe, počinitelj će se kazniti kaznom zatvora od šest mjeseci do pet godina.
+
+(3) Počinitelj kaznenog djela iz stavka 1. i 2. ovoga članka koji je bio izazvan protuzakonitim, bezobzirnim ili grubim postupanjem doktora medicine, doktora dentalne medicine ili drugog zdravstvenog radnika može se osloboditi kazne.«.
+
+### Članak 36.
+
+Članak 386. mijenja se i glasi:
+
+»Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+
+1. Direktiva Vijeća 2002/90/EZ od 28. studenoga 2002. o definiranju olakšavanja neovlaštenog ulaska, tranzita i boravka (SL L 328, 5. 12. 2002.),
+
+2. Direktiva 2005/35/EZ Europskog parlamenta i Vijeća od 7. rujna 2005. o onečišćenju mora s brodova i uvođenju sankcija za kršenja (SL L 255, 30. 9. 2005.), kako je posljednji put izmijenjena Direktivom 2009/123/EZ Europskog parlamenta i Vijeća od 21. listopada 2009. o izmjeni Direktive 2005/35/EZ o onečišćenju s brodova i uvođenju sankcija za kršenja (SL L 280, 27. 10. 2009.),
+
+3. Direktiva 2008/98 Europskog parlamenta i Vijeća od 19. studenoga 2008. o otpadu i stavljanju izvan snage određenih direktiva (SL L 312, 22. 11. 2008.),
+
+4. Direktiva 2008/99/EZ Europskog parlamenta i Vijeća od 19. studenoga 2008. o zaštiti okoliša putem kaznenog prava (SL L 328, 6. 12. 2008.),
+
+5. Direktiva 2009/52/EZ Europskog parlamenta i Vijeća od 18. lipnja 2009. o minimalnim standardima za sankcije i mjere za poslodavce državljana trećih zemalja s nezakonitim boravkom (SL L 168, 30. 6. 2009.),
+
+6. Direktiva 2010/53/EZ Europskog parlamenta i Vijeća od 7. srpnja 2010. o standardima kvalitete i sigurnosti ljudskih organa namijenjenih transplantaciji (SL L 207, 6. 8. 2010.),
+
+7. Direktiva 2011/36/EU Europskog parlamenta i Vijeća od 5. travnja 2011. o sprječavanju i suzbijanju trgovanja ljudima i zaštiti njegovih žrtava te o zamijeni Okvirne odluke Vijeća 2002/629/PUP (SL L 101, 15. 4. 2011.),
+
+8. Direktiva 2011/93/EU Europskog parlamenta i Vijeća od 13. prosinca 2011. o suzbijanju seksualnog zlostavljanja i seksualnog iskorištavanja djece i dječje pornografije, te o zamjeni Okvirne odluke Vijeća 2004/68/PUP (SL L 335, 17. 12. 2011.),
+
+9. Direktiva 2013/40/EU Europskog parlamenta i Vijeća od 12. kolovoza 2013. o napadima na informacijske sustave i o zamjeni Okvirne odluke Vijeća 2005/222/PUP (SL L 218, 14. 8. 2013.),
+
+10. Direktiva 2014/62/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o kaznenopravnoj zaštiti eura i drugih valuta od krivotvorenja, kojom se zamjenjuje Okvirnu odluku Vijeća 2000/383/PUP (SL L 151, 21. 5. 2014.),
+
+11. Direktiva 2014/57/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o kaznenopravnim sankcijama za zlouporabu tržišta (SL L 173, 12. 6. 2014.),
+
+12. Direktiva (EU) 2017/541 Europskog parlamenta i Vijeća od 15. ožujka 2017. o suzbijanju terorizma i zamjeni Okvirne odluke Vijeća 2002/475/PUP i o izmjeni Odluke Vijeća 2005/671/PUP (SL L 88, 31. 3. 2017.),
+
+13. Direktiva (EU) 2017/1371 Europskog parlamenta i Vijeća od 5. srpnja 2017. o suzbijanju prijevara počinjenih protiv financijskih interesa Unije kaznenopravnim sredstvima (SL L 198, 28. 7. 2017.),
+
+14. Okvirna odluka Vijeća 2001/500/PUP od 26. lipnja 2001. o pranju novca, identifikaciji, praćenju, zamrzavanju, pljenidbi i oduzimanju imovine i imovinske koristi ostvarene kaznenim djelima (SL L 182, 5. 7. 2001.),
+
+15. Okvirna odluka Vijeća 2002/946/PUP od 28. studenoga 2002. o jačanju kaznenopravnog okvira za sprečavanje pomaganja neovlaštenog ulaska, tranzita i boravka (SL L 328, 5. 12. 2002.),
+
+16. Okvirna odluka Vijeća 2004/757/PUP od 25. listopada 2004. o utvrđivanju minimalnih odredaba vezanih za elemente kaznenih djela i sankcija u području nezakonite trgovine drogom (SL L 335, 11. 11. 2004.),
+
+17. Okvirna odluka Vijeća 2005/212/PUP od 24. veljače 2005. o oduzimanju imovinske koristi, sredstava i imovine pribavljene kaznenim djelom (SL L 68, 15. 3. 2005.),
+
+18. Okvirna odluka Vijeća 2008/913/PUP od 28. studenoga 2008. o suzbijanju određenih oblika i načina izražavanja rasizma i ksenofobije kaznenopravnim sredstvima (SL L 328, 6. 12. 2008.),
+
+19. Konvencija o provedbi Sporazuma iz Schengena (SL L 239, 22. 9. 2000.),
+
+20. Konvencija od 26. srpnja 1995. godine, koja se donosi na temelju članka K.3 Ugovora o EU, o zaštiti financijskih interesa Europskih zajednica (SL C 316, 27. 11. 1995., str. 49),
+
+21. Protokol od 27. rujna 1996. godine, koji se donosi na temelju članka K.3 Ugovora o EU, uz Konvenciju o zaštiti financijskih interesa Europskih zajednica (SL C 313, 23. 10. 1996., str. 2),
+
+22. Drugi Protokol od 19. lipnja 1997. godine, koji se donosi na temelju članka K.3 Ugovora o EU, uz Konvenciju o zaštiti financijskih interesa Europskih zajednica (SL C 221, 19. 7. 1997., str. 12).«.
+
+### Članak 37.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/97
+
+Zagreb, 14. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Kaznenog zakona (NN 126/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/126/2529*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Kaznenog zakona, koji je Hrvatski sabor donio na sjednici 13. prosinca 2019.
+
+Klasa: 011-01/19-01/237
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA**
+
+### Članak 1.
+
+U Kaznenom zakonu (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. – ispravak, 101/17. i 118/18.) u članku 14. stavku 3. iza riječi: »članka 116.,« riječi: »članka 152.,« brišu se.
+
+### Članak 2.
+
+U članku 71. stavku 5. broj: »8.« zamjenjuje se brojem: »9.«.
+
+### Članak 3.
+
+U članku 87. stavku 3. u prvoj rečenici iza riječi: »arbitar« stavlja se zarez, riječ: »i« briše se, a iza riječi: »javni bilježnik« briše se točka i dodaju riječi: »i stručni radnik koji obavlja poslove iz djelatnosti socijalne skrbi, odgoja i obrazovanja.«.
+
+### Članak 4.
+
+U članku 98. stavku 1. iza riječi: »činjenja« dodaju se riječi: »ili doprinosa u činjenju«, broj: »102.« zamjenjuje se brojem: »103.« te se briše zarez i dodaju riječi: »ili činjenja jednog ili više kaznenih djela iz«.
+
+### Članak 5.
+
+U članku 116. stavku 1. riječi: »šest mjeseci do pet« zamjenjuju se riječima: »jedne do osam«.
+
+U stavku 3. riječi: »jedne do osam« zamjenjuju se riječima: »tri do deset«.
+
+### Članak 6.
+
+U članku 117. stavku 2. iza riječi: »zatvora« dodaju se riječi: »od jedne«.
+
+### Članak 7.
+
+U članku 118. stavku 2. riječ: »jedne« zamjenjuje se riječju: »tri«.
+
+### Članak 8.
+
+U članku 119. stavku 2. riječ: »jedne« zamjenjuje se riječju: »tri«.
+
+### Članak 9.
+
+U članku 139. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Ako je kazneno djelo iz stavka 1. i 2. ovoga članka počinjeno prema službenoj ili odgovornoj osobi u obavljanju javne ovlasti ili u vezi s njezinim radom ili položajem, ili prema novinaru u vezi s njegovim poslom, ili prema odvjetniku u obavljanju njegove djelatnosti, ili iz mržnje, prema bliskoj osobi ili prema osobi posebno ranjivoj zbog njezine dobi, teže tjelesne ili duševne smetnje ili trudnoće, ili prema većem broju ljudi, ili ako je prouzročilo veću uznemirenost stanovništva, ili ako je osoba kojoj se prijeti dulje vrijeme stavljena u težak položaj, počinitelj će se kazniti kaznom zatvora od šest mjeseci do pet godina.
+
+(4) Kazneno djelo iz stavka 1. ovoga članka progoni se po privatnoj tužbi, a kazneno djelo iz stavka 2. ovoga članka progoni se po prijedlogu.«.
+
+### Članak 10.
+
+U članku 140. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Ako je djelo iz stavka 1. ovoga članka počinjeno u odnosu na blisku osobu, osobu s kojom je počinitelj bio u intimnoj vezi ili prema djetetu, počinitelj će se kazniti kaznom zatvora do tri godine.
+
+(3) Kazneno djelo iz stavka 1. i 2. ovoga članka progoni se po prijedlogu, osim ako je počinjeno prema djetetu ili bliskoj osobi.«.
+
+### Članak 11.
+
+Naslov iznad članka 148. i članak 148. brišu se.
+
+### Članak 12.
+
+U članku 148.a iza broja: »147.« riječi: »i 148.« brišu se, a riječ: »njihova« zamjenjuje se riječju: »njegova«.
+
+### Članak 13.
+
+Naslov iznad članka 152. i članak 152. brišu se.
+
+### Članak 14.
+
+Članak 153. mijenja se i glasi:
+
+»(1) Tko s drugom osobom bez njezina pristanka izvrši spolni odnošaj ili s njim izjednačenu spolnu radnju ili navede drugu osobu da bez svog pristanka s trećom osobom izvrši spolni odnošaj ili s njim izjednačenu spolnu radnju ili da bez svog pristanka nad samom sobom izvrši sa spolnim odnošajem izjednačenu spolnu radnju, kaznit će se kaznom zatvora od jedne do pet godina.
+
+(2) Tko djelo iz stavka 1. ovoga članka počini uporabom sile ili prijetnje da će izravno napasti na život ili tijelo silovane ili druge osobe, kaznit će se kaznom zatvora od tri do deset godina.
+
+(3) Počinitelj koji je bio u otklonjivoj zabludi glede postojanja pristanka iz stavka 1. ovoga članka kaznit će se kaznom zatvora do tri godine.
+
+(4) Počinitelj koji je bio u otklonjivoj zabludi glede postojanja pristanka iz stavka 2. ovoga članka kaznit će se kaznom zatvora od jedne do pet godina.
+
+(5) Pristanak iz stavka 1. ovoga članka postoji ako je osoba svojom voljom odlučila stupiti u spolni odnošaj ili s njime izjednačenu spolnu radnju i bila je sposobna donijeti i izraziti takvu odluku. Smatra se da takvog pristanka nema osobito ako je spolni odnošaj ili s njime izjednačena spolna radnja izvršena uz uporabu prijetnje, prijevare, zlouporabom položaja prema osobi koja se prema počinitelju nalazi u odnosu zavisnosti, iskorištavanjem stanja osobe zbog kojeg ona nije bila sposobna izraziti svoje odbijanje ili nad osobom kojoj je protupravno oduzeta sloboda.«.
+
+### Članak 15.
+
+U članku 154. stavku 1. riječ: »jedne« zamjenjuje se riječju: »tri«, a broj: »152.« zamjenjuje se brojem: »153.«.
+
+U stavku 2. iza riječi: »153. stavka« broj:» 1.« zamjenjuje se brojem: »2.«, a riječ: »tri« zamjenjuje se riječju: »pet«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako je kaznenim djelom iz članka 153. stavka 1. i 2. ovoga Zakona prouzročena smrt silovane osobe, počinitelj će se kazniti kaznom zatvora od najmanje pet godina.«.
+
+### Članak 16.
+
+Članak 155. mijenja se i glasi:
+
+»(1) Tko pod uvjetima iz članka 153. stavka 1., 3. i 5. ovoga Zakona kad nije počinjen ni pokušaj tog kaznenog djela počini bludnu radnju, kaznit će se kaznom zatvora do dvije godine.
+
+(2) Tko pod uvjetima iz članka 153. stavka 2. i 4. ovoga Zakona kad nije počinjen ni pokušaj tih kaznenih djela počini bludnu radnju, kaznit će se kaznom zatvora do tri godine.
+
+(3) Tko pod uvjetima iz članka 154. ovoga Zakona kad nije počinjen ni pokušaj tog kaznenog djela počini bludnu radnju, kaznit će se kaznom zatvora od šest mjeseci do pet godina.«.
+
+### Članak 17.
+
+U članku 156. stavku 1. riječ: »jedne« zamjenjuje se riječju: »dvije«.
+
+U stavku 3. točka na kraju rečenice zamjenjuje se zarezom i dodaju se riječi: »osim ako je počinjeno prema osobi posebno ranjivoj zbog dobi.«.
+
+### Članak 18.
+
+U članku 161. stavku 1. iza riječi: »članka 158.« dodaju se riječi: »ili članka 163. stavka 1. i 2. ili članka 164. stavka 1.«.
+
+### Članak 19.
+
+U članku 163. stavak 6. mijenja se i glasi:
+
+»(6) Dječja pornografija je materijal koji vizualno ili na drugi način prikazuje pravo dijete ili realno prikazano nepostojeće dijete ili osobu koja izgleda kao dijete u pravom ili simuliranom spolno eksplicitnom ponašanju ili koji prikazuje spolne organe pravog djeteta ili realno prikazanog nepostojećeg djeteta ili osobe koja izgleda kao dijete u spolne svrhe. Materijali koji prikazuju spolne organe pravog djeteta ili realno prikazanog nepostojećeg djeteta ili osobe koja izgleda kao dijete, a koji imaju umjetnički, medicinski ili znanstveni značaj ne smatraju se pornografijom u smislu ovoga članka.«.
+
+### Članak 20.
+
+U članku 164. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Pornografska predstava je prikazivanje uživo ili putem komunikacijskih sredstava pravog djeteta ili realno prikazanog nepostojećeg djeteta ili osobe koja izgleda kao dijete u pravom ili simuliranom spolno eksplicitnom ponašanju ili spolnih organa pravog djeteta, realno prikazanog nepostojećeg djeteta ili osobe koja izgleda kao dijete u spolne svrhe.«.
+
+### Članak 21.
+
+U članku 177. stavku 1. iza riječi: »zatvora« dodaju se riječi: »od jedne«.
+
+U stavku 2. riječi: »šest mjeseci« zamjenjuju se riječju: »jedne«.
+
+### Članak 22.
+
+U članku 179.a iza riječi: »položaj« briše se zarez i dodaju riječi: »ili stanje dugotrajne patnje,«, a iza riječi: »zatvora« dodaju se riječi: »od jedne«.
+
+### Članak 23.
+
+U članku 311. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Kaznom iz stavka 1. ovoga članka kaznit će se tko se ne pridržava samostalne mjere opreza koja mu je određena sudskom odlukom.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., broj: »8.« zamjenjuje se brojem: »9.«.
+
+### Članak 24.
+
+Iza članka 315.a dodaje se naslov iznad članka i članak 315.b koji glase:
+
+*»Prisila prema osobi koja obavlja poslove od javnog interesa ili u javnoj službi*
+
+### Članak 315.b
+
+(1) Tko osobu u obavljanju poslova od javnog interesa ili javnog službenika u obavljanju javne službe silom ili prijetnjom da će izravno uporabiti silu spriječi u obavljanju poslova od javnog interesa ili javne službe, kaznit će se kaznom zatvora do tri godine.
+
+(2) Ako je kaznenim djelom iz stavka 1. ovoga članka doveden u opasnost život ili tijelo osobe koja obavlja poslove od javnog interesa ili javnog službenika ili mu je nanesena tjelesna ozljeda ili je uporabljeno oružje ili opasno oruđe, počinitelj će se kazniti kaznom zatvora od šest mjeseci do pet godina.
+
+(3) Počinitelj kaznenog djela iz stavka 1. i 2. ovoga članka koji je bio izazvan protuzakonitim, bezobzirnim ili grubim postupanjem osobe koja obavlja poslove od javnog interesa ili javnog službenika može se osloboditi kazne.«.
+
+### Članak 25.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/206
+
+Zagreb, 13. prosinca 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Kaznenog zakona (NN 84/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/84/1562*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Kaznenog zakona, koji je Hrvatski sabor donio na sjednici 15. srpnja 2021. godine.
+
+Klasa: 011-01/21-01/53
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 16. srpnja 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA**
+
+### Članak 1.
+
+U Kaznenom zakonu (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. – ispravak, 101/17., 118/18. i 126/19.) u članku 45. stavku 2. broj: »7« zamjenjuje se brojem: »8«.
+
+### Članak 2.
+
+U članku 56. stavku 4. iza riječi: »Zakona« briše se točka i dodaju riječi: »ili obvezu izrečenu sigurnosnom mjerom.«.
+
+### Članak 3.
+
+U članku 70. stavku 1. riječ: »može« zamjenjuje se riječju: »će«.
+
+### Članak 4.
+
+U članku 71. stavku 3. riječ: »može« zamjenjuje se riječju: »će«, a iza riječi: »i djelatnosti,« dodaju se riječi: »ako postoji opasnost da će zlouporabom te dužnosti ili djelatnosti ponovno počiniti ta kaznena djela,«.
+
+### Članak 5.
+
+U članku 74. stavku 1. riječ: » može« zamjenjuje se riječju: »će«.
+
+### Članak 6.
+
+Članak 76. mijenja se i glasi:
+
+»(1) Sigurnosnu mjeru zaštitnog nadzora po punom izvršenju kazne zatvora sud će izreći počinitelju ako mu je izrečena kazna zatvora u trajanju od pet ili više godina za namjerno kazneno djelo ili u trajanju od dvije ili više godina za namjerno kazneno djelo s obilježjem nasilja ili kazna zatvora za drugo kazneno djelo iz glave XVI. ili XVII. ovoga Zakona pod uvjetom da kazna bude u potpunosti izdržana jer osuđeniku nije odobren uvjetni otpust.
+
+(2) Nad počiniteljem će se odmah nakon izlaska iz zatvora započeti provoditi zaštitni nadzor sukladno članku 64. ovoga Zakona i posebne obveze iz članka 62. stavka 2. točke 6. do 9. ako su mu izrečene uz zaštitni nadzor.
+
+(3) Sud prilikom donošenja presude može odrediti da se zaštitni nadzor ne provodi ako ima razloga vjerovati da osoba neće ponovno počiniti kazneno djelo iz stavka 1. ovoga članka i bez njegova provođenja.
+
+(4) Vrijeme provjeravanja traje od jedne do tri godine, osim ako je kazneno djelo iz stavka 1. ovoga članka počinjeno na štetu djeteta, kada vrijeme provjeravanja traje od jedne do pet godina. Sud može vrijeme provjeravanja prije njegova isteka na prijedlog nadležnog tijela za probaciju produljiti za još jednu godinu ako bi bez provođenja zaštitnog nadzora postojala opasnost od ponovnog počinjenja nekog od kaznenih djela navedenih u stavku 1. ovoga članka.
+
+(5) Sud izvršenja će nakon proteka prve godine od početka provedbe zaštitnog nadzora i potom najmanje jednom godišnje preispitati potrebu njegova daljnjeg provođenja i o tome donijeti rješenje. Na prijedlog nadležnog tijela za probaciju ili osuđenika ovo preispitivanje može se učiniti i prije, ali ne prije proteka šest mjeseci od zadnjeg preispitivanja. Sud može obustaviti provedbu zaštitnog nadzora ako ima razloga vjerovati da osuđenik neće ponovno počiniti kazneno djelo iz stavka 1. ovoga članka i bez njegova daljnjeg provođenja.«.
+
+### Članak 7.
+
+U članku 81. stavku 2. iza riječi: »članak 166. stavak« dodaju se broj i riječ: »2. i«.
+
+### Članak 8.
+
+U članku 82. stavku 3. iza riječi: »članka 166. stavka 1.« riječ i broj: »i 2.« brišu se.
+
+### Članak 9.
+
+U članku 83. stavku 2. iza riječi: »članak 166. stavak« dodaju se broj i riječ: »2. i«.
+
+### Članak 10.
+
+U članku 87. stavku 9. iza riječi: »neformalni životni partner,« dodaju se riječi: »sadašnji ili bivši partner u intimnoj vezi,«.
+
+Iza stavka 30. dodaje se stavak 31. koji glasi:
+
+»(31) Bezgotovinski instrument plaćanja je pokretna stvar, isprava i računalni podatak odnosno program, zaštićeni uređaj, predmet ili zapis ili njihova kombinacija, osim zakonskih sredstava plaćanja, koji jest ili nije u fizičkom obliku, a nositelju ili korisniku omogućuje, samostalno ili u vezi s postupkom, odnosno nizom postupaka, prijenos novca ili novčane vrijednosti i pomoću digitalnih sredstava razmjene. Digitalno sredstvo razmjene znači bilo kakav elektronički novac i virtualne valute.«.
+
+### Članak 11.
+
+U članku 91. stavku 2. iza točke 18. dodaje se nova točka 19. koja glasi:
+
+»19. uporaba oružja koje koristi mikrobiološke ili druge biološke agense ili otrove, bez obzira na njihovo podrijetlo ili način proizvodnje,«.
+
+Iza dosadašnje točke 19., koja postaje točka 20., dodaju se nove točke 21. i 22. koje glase:
+
+»21. uporaba oružja namijenjenog ranjavanju fragmentima koji se u ljudskom tijelu ne mogu otkriti rendgenskim zrakama,
+
+22. uporaba posebno izrađenog laserskog oružja kojem je jedina ili jedna od namjena uzrokovanje trajnog sljepila,«.
+
+Dosadašnje točke 20. do 27. postaju točke 23. do 30.
+
+### Članak 12.
+
+U članku 97. stavku 1. točka 10. mijenja se i glasi:
+
+»10. ometanje rada računalnog sustava kada je značajan broj računalnih sustava pogođen uporabom naprava namijenjenih ili prilagođenih za tu svrhu ili kada je time prouzročena znatna šteta ili kada je počinjeno u odnosu na računalni sustav kritične infrastrukture ili oštećenje računalnih podataka kada je počinjeno u odnosu na računalni sustav kritične infrastrukture.«.
+
+### Članak 13.
+
+Iza članka 144. dodaje se članak 144.a s naslovom iznad njega koji glase:
+
+*»Zlouporaba snimke spolno eksplicitnog sadržaja*
+
+### Članak 144.a
+
+(1) Tko zlouporabi odnos povjerenja i bez pristanka snimane osobe učini dostupnim trećoj osobi snimku spolno eksplicitnog sadržaja koja je snimljena uz pristanak te osobe za osobnu uporabu i na taj način povrijedi privatnost te osobe, kaznit će se kaznom zatvora do jedne godine.
+
+(2) Kaznom iz stavka 1. ovoga članka kaznit će se tko uporabom računalnog sustava ili na drugi način izradi novu ili preinači postojeću snimku spolno eksplicitnog sadržaja i tu snimku uporabi kao pravu te time povrijedi privatnost osobe na toj snimci.
+
+(3) Tko kazneno djelo iz stavka 1. i 2. ovoga članka počini putem računalnog sustava ili mreže ili na drugi način zbog čega je snimka postala dostupna većem broju osoba, kaznit će se kaznom zatvora do tri godine.
+
+(4) Kazneno djelo iz stavka 1., 2. i 3. ovoga članka progoni se po prijedlogu.
+
+(5) Snimke i posebne naprave kojima je počinjeno kazneno djelo iz ovoga članka će se oduzeti.«.
+
+### Članak 14.
+
+Naslov iznad članka 148.a mijenja se i glasi: »Isključenje protupravnosti za kazneno djelo uvrede«.
+
+### Članak 15.
+
+U članku 156. stavak 3. briše se.
+
+### Članak 16.
+
+U članku 160. stavku 2. broj: »152.« zamjenjuje se brojem: »153.«.
+
+### Članak 17.
+
+Naslov iznad članka 173. mijenja se i glasi: »Neprovođenje odluke za zaštitu dobrobiti djeteta i drugih ranjivih skupina ili postupanje protivno pravilima struke«.
+
+Članak 173. mijenja se i glasi:
+
+»(1) Tko ne provodi, spriječi ili onemogući provođenje odluke za zaštitu dobrobiti djeteta i drugih ranjivih osoba zbog njihove dobi, teške tjelesne ili duševne smetnje ili trudnoće, koju je odredio sud, centar za socijalnu skrb ili državno tijelo, kaznit će se kaznom zatvora do jedne godine.
+
+(2) Službena osoba na radu u ustanovi ili državnom tijelu ili odgovorna osoba u obavljanju javne ovlasti koja ne provodi odluke suda ili državnih tijela za zaštitu djeteta i druge ranjive osobe zbog njihove dobi, teške tjelesne ili duševne smetnje ili trudnoće pa zbog toga bude ugroženo zdravlje ili razvoj djeteta, odnosno zdravlje i dobrobit ranjive osobe kaznit će se kaznom zatvora do tri godine.
+
+(3) Službena osoba na radu u ustanovi ili državnom tijelu ili odgovorna osoba u obavljanju javne ovlasti koja pravodobno ne ispunjava zakonske obveze ili očito ne postupa po pravilima struke u zaštiti djeteta i druge ranjive osobe zbog njihove dobi, teške tjelesne ili duševne smetnje ili trudnoće pa zbog toga bude ugroženo zdravlje ili razvoj djeteta, odnosno zdravlje i dobrobit ranjive osobe kaznit će se kaznom zatvora do tri godine.
+
+(4) Ako je kazneno djelo iz stavka 2. i 3. ovoga članka počinjeno iz nehaja, počinitelj će se kazniti kaznom zatvora do jedne godine.
+
+(5) Počinitelj koji omogući provođenje odluke iz stavka 1. ovoga članka prije započinjanja kaznenog postupka može se osloboditi kazne.«.
+
+### Članak 18.
+
+Iza članka 244. dodaje se članak 244.a s naslovom iznad njega koji glase:
+
+*»Nedozvoljeno posjedovanje bezgotovinskog instrumenta plaćanja*
+
+### Članak 244.a
+
+Tko posjeduje ukradeni ili na drugi način protupravno prisvojeni ili krivotvoreni bezgotovinski instrument plaćanja radi uporabe s ciljem da sebi ili drugome pribavi protupravnu imovinsku korist, kaznit će se kaznom zatvora do tri godine.«.
+
+### Članak 19.
+
+U članku 271. stavak 1. mijenja se i glasi:
+
+»(1) Tko s ciljem da sebi ili drugome pribavi protupravnu imovinsku korist unese, prenese, izmijeni, izbriše, prikrije, ošteti, učini neuporabljivim ili nedostupnim računalne podatke ili ometa ili sprječava rad računalnog sustava i na taj način prouzroči štetu drugome, kaznit će se kaznom zatvora od šest mjeseci do pet godina.«.
+
+### Članak 20.
+
+U članku 278. stavku 1. iza riječi: »kao pravu« briše se zarez i dodaju riječi: »ili na drugi način učini dostupnom drugome radi uporabe,«.
+
+U stavku 3. iza riječi: »kartice« dodaju se riječi: »ili drugog bezgotovinskog instrumenta plaćanja«.
+
+### Članak 21.
+
+Iza članka 331. dodaje se članak 331.a s naslovom iznad njega koji glase:
+
+*»Izrada, nabavljanje, posjedovanje, prodaja ili davanje na uporabu sredstava za zlouporabu bezgotovinskih instrumenata plaćanja*
+
+### Članak 331.a
+
+(1) Tko izrađuje, prima, uveze, izveze, preveze, distribuira, nabavlja, posjeduje, prodaje ili daje na uporabu uređaje, predmete, računalne programe i računalne podatke te druga sredstva izrađena ili prilagođena za protupravno prisvajanje, krivotvorenje ili prijevaru glede bezgotovinskog instrumenta plaćanja, kaznit će se kaznom zatvora do tri godine.
+
+(2) Sredstva iz stavka 1. ovoga članka će se oduzeti.«.
+
+### Članak 22.
+
+U članku 386. iza točke 13. dodaju se nove točke 14. i 15. koje glase:
+
+»14. Direktiva (EU) 2018/1673 Europskog parlamenta i Vijeća od 23. listopada 2018. o borbi protiv pranja novca kaznenopravnim sredstvima (SL L 284, 12. 11. 2018.),
+
+15. Direktiva (EU) 2019/713 Europskog parlamenta i Vijeća od 17. travnja 2019. o borbi protiv prijevara i krivotvorenja u vezi s bezgotovinskim sredstvima plaćanja i zamjeni Okvirne odluke Vijeća 2001/413/PUP (SL L 123, 10. 5. 2019.),«.
+
+Dosadašnje točke 14. do 18. postaju točke 16. do 20.
+
+U dosadašnjoj točki 19. koja postaje točka 21. na kraju rečenice briše se zarez i stavlja točka.
+
+Dosadašnje točke 20., 21. i 22. brišu se.
+
+### Članak 23.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/44
+
+Zagreb, 15. srpnja 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Kaznenog zakona (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1714*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA KAZNENOG ZAKONA
+
+Proglašavam Zakon o izmjenama Kaznenog zakona, koji je Hrvat­ski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/112
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA KAZNENOG ZAKONA**
+
+### Članak 1.
+
+U Kaznenom zakonu (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. – ispravak, 101/17., 118/18., 126/19. i 84/21.) u članku 42. stavku 4. riječi: »dvadeset kuna« zamjenjuju se riječima: »2,65 eura«, a riječi: »deset tisuća kuna« zamjenjuju se riječima: »1327,23 eura«.
+
+### Članak 2.
+
+U članku 87. stavak 27. mijenja se i glasi:
+
+»(27) Vrijednost imovine, imovinske štete, imovinske koristi, porezne obveze i državne potpore je velikih razmjera ako prelazi 79.633,69 eura. Razaranja prouzročena kaznenim djelima su velika ako prelaze 79.633,69 eura.«.
+
+U stavku 28. riječi: »200.000,00 kuna« zamjenjuju se riječima: »26.544,56 eura«.
+
+Stavak 29. mijenja se i glasi:
+
+»(29) Vrijednost stvari, imovinskog prava i imovinske koristi je velika ako prelazi 7963,37 eura. Vrijednost imovinske koristi i štete je znatna ako prelazi 7963,37 eura.«.
+
+U stavku 30. riječi: »1000,00 kuna« zamjenjuju se riječima: »132,72 eura«.
+
+### Članak 3.
+
+U članku 256. stavku 1. riječi: »dvadeset tisuća kuna« zamjenjuju se riječima: »2654,46 eura«.
+
+U stavku 2. riječi: »dvadeset tisuća kuna« zamjenjuju se riječima: »2654,46 eura«.
+
+### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/112
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Kaznenog zakona (NN 114/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1618*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Kaznenog zakona, koji je Hrvatski sabor donio na sjednici 28. rujna 2023.
+
+Klasa: 011-02/23-02/80  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 3. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA**
+
+### Članak 1.
+
+U Kaznenom zakonu (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. – ispravak, 101/17., 118/18., 126/19., 84/21. i 114/22.) u članku 42. stavak 1. mijenja se i glasi:
+
+»(1) Novčana kazna izriče se u dnevnim iznosima. Ona ne može biti manja od trideset niti veća od tristo šezdeset dnevnih iznosa, osim kad je novčana kazna od pet stotina dnevnih iznosa izričito propisana ovim Zakonom ili za kaznena djela počinjena iz koristoljublja, kad se može izreći do tisuću dnevnih iznosa.«.
+
+U stavku 4. brojka: »2,65« zamjenjuje se brojkom: »5,00«, a brojka: »1327,23« zamjenjuju se brojkom: »2500,00«.
+
+### Članak 2.
+
+U članku 293. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) U slučajevima počinjenja kaznenog djela iz stavka 1., 2. ili 3. ovoga članka, kada službena osoba zahtijeva ili primi mito, ili prihvati ponudu ili obećanje mita, službenom osobom smatra se i strani javni službenik. Strani javni službenik je imenovani ili izabrani nositelj zakonodavne, izvršne, upravne ili pravosudne dužnosti ili službe Europske unije ili strane države, kao i osoba koja obavlja ili joj je izričito ili stvarno povjereno obavljanje poslova javne službe za Europsku uniju ili stranu državu, uključujući i za pravnu osobu koja je osnovana na temelju javnog prava s ciljem obavljanja poslova od javnog interesa ili za poslovni subjekt u kojem strana država ima izravni ili neizravni prevladavajući utjecaj, te dužnosnik ili službenik međunarodne javne organizacije ili bilo koja osoba koja je ovlaštena od strane takve organizacije postupati u ime i za račun te organizacije. Strana država uključuje sve razine vlasti te države ili organiziranog stranog područja.«.
+
+### Članak 3.
+
+U članku 294. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) U slučajevima počinjenja kaznenog djela iz stavka 1. ili 2. ovoga članka, kada se mito ponudi, dade ili obeća službenoj osobi, službenom osobom smatra se i strani javni službenik. Strani javni službenik je imenovani ili izabrani nositelj zakonodavne, izvršne, upravne ili pravosudne dužnosti ili službe Europske unije ili strane države, kao i osoba koja obavlja ili joj je izričito ili stvarno povjereno obavljanje poslova javne službe za Europsku uniju ili stranu državu, uključujući i za pravnu osobu koja je osnovana na temelju javnog prava s ciljem obavljanja poslova od javnog interesa ili za poslovni subjekt u kojem strana država ima izravni ili neizravni prevladavajući utjecaj, te dužnosnik ili službenik međunarodne javne organizacije ili bilo koja osoba koja je ovlaštena od strane takve organizacije postupati u ime i za račun te organizacije. Strana država uključuje sve razine vlasti te države ili organiziranog stranog područja.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 4.
+
+Članak 339. mijenja se i glasi:
+
+»(1) Tko kao zastupnik u Hrvatskom saboru, Europskom parlamentu, zakonodavnom tijelu ili predstavničkom tijelu strane države ili međunarodne javne organizacije ili kao vijećnik u predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave zahtijeva ili primi mito ili prihvati ponudu ili obećanje mita za sebe ili drugoga kako bi u zakonodavnom ili predstavničkom tijelu glasovao na određen način, kaznit će se kaznom zatvora od jedne do osam godina.
+
+(2) Kaznom iz stavka 1. ovoga članka kaznit će se tko zastupniku u Hrvatskom saboru, Europskom parlamentu, u zakonodavnom tijelu ili predstavničkom tijelu strane države ili međunarodne javne organizacije ili vijećniku u predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave ponudi, obeća ili dade mito namijenjeno toj ili drugoj osobi kako bi u zakonodavnom ili predstavničkom tijelu glasovao na određen način ili tko posreduje pri takvom podmićivanju.
+
+(3) Strana država u stavcima 1. i 2. ovoga članka uključuje sve razine vlasti te države ili organiziranog stranog područja.«.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/76  
+Zagreb, 28. rujna 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Kaznenog zakona (NN 36/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/570*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Kaznenog zakona, koji je Hrvatski sabor donio na sjednici 14. ožujka 2024.
+
+Klasa: 011-02/24-02/26
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 18. ožujka 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA**
+
+### Članak 1.
+
+U Kaznenom zakonu (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. – ispravak, 101/17., 118/18., 126/19., 84/21., 114/22. i 114/23.) u članku 43. stavku 4. broj: »2« zamjenjuje se brojem: »3«.
+
+### Članak 2.
+
+U članku 47. stavku 1. iza riječi: »dobra« dodaju se riječi: »i posljedice koje je pretrpjela žrtva«.
+
+### Članak 3.
+
+U članku 62. stavku 2. točki 11. riječi: »centru za socijalnu skrb« zamjenjuju se riječima: »područnom uredu Hrvatskog zavoda za socijalni rad«.
+
+### Članak 4.
+
+U članku 65. iza riječi: »internetu« dodaje se zarez, a riječi: »i zaštitni nadzor po punom izvršenju kazne zatvora« zamjenjuju se riječima: »zaštitni nadzor po punom izvršenju kazne zatvora i zabrana držanja i nabavljanja životinja«.
+
+### Članak 5.
+
+U članku 73. stavku 1. iza prve rečenice dodaje se druga rečenica koja glasi: »U presudi kojom se izriče sigurnosna mjera zabrane približavanja, uznemiravanja ili uhođenja sud će odrediti razdaljinu ispod koje se osuđenik ne smije približiti žrtvi, drugoj osobi ili grupi osoba odnosno određenom mjestu, a koja ne može biti manja od 100 metara.«.
+
+### Članak 6.
+
+U članku 76. stavku 1. riječi: »iz glave XVI. ili XVII.« zamjenjuju se riječima: »iz glave XVI., XVII. ili XVIII.«.
+
+### Članak 7.
+
+Iza članka 76. dodaju se naslov iznad članka i članak 76.a koji glase:
+
+*»Zabrana držanja i nabavljanja životinja*
+
+### Članak 76.a
+
+(1) Sigurnosnu mjeru zabrane držanja i nabavljanja životinja sud može izreći počinitelju koji je počinio kazneno djelo nad životinjom ako postoji opasnost da će počiniti isto ili slično djelo.
+
+(2) Mjera iz stavka 1. ovoga članka izriče se u trajanju od jedne do pet godina. Počinitelju koji je osuđen na kaznu zatvora, a nije mu izrečena uvjetna osuda niti je kazna zatvora zamijenjena radom za opće dobro, mjera iz stavka 1. ovoga članka izreći će se u trajanju koje je od jedne do pet godina dulje od izrečene kazne zatvora.
+
+(3) Na zabranu iz stavka 1. ovoga članka shodno će se primijeniti odredba članka 71. stavka 5. ovoga Zakona.
+
+(4) Po proteku jedne godine od početka izvršavanja mjere izrečene na temelju stavka 1. ovoga članka sud može na prijedlog osuđenika obustaviti njezino izvršenje ako ustanovi da više ne postoji opasnost iz stavka 1. ovoga članka. Osuđenik može ponoviti prijedlog, ali ne prije proteka jedne godine od zadnjeg preispitivanja.
+
+(5) Sud će o presudi kojom je izrečena mjera iz stavka 1. ovoga članka obavijestiti tijelo nadležno za obavljanje inspekcijskih poslova u području veterinarstva.«.
+
+### Članak 8.
+
+U članku 78. stavku 1. iza riječi: »Glave XXV.« dodaju se riječi: »te članaka 190. i 191.a iz Glave XIX.«.
+
+### Članak 9.
+
+U članku 81. stavku 2. iza riječi: »(članak 111.)« dodaju se zarez i riječi: »teškog ubojstva ženske osobe (članak 111.a)«, a riječi: »stavak 2. i 3.« brišu se.
+
+### Članak 10.
+
+U članku 82. stavak 3. mijenja se i glasi:
+
+»(3) Za kaznena djela iz članka 105. stavka 3., članka 106. stavaka 2. i 3., članka 110., članka 112. stavka 1., članka 114. stavka 2., članka 115., članka 116. stavka 3., članka 118., članka 119., članka 154., članka 155. stavaka 2. i 3., članka 156., članka 158., članka 159., članka 160., članka 162., članka 163., članka 164., članka 169., članka 170., članka 171., članka 176. i članka 177. ovoga Zakona počinjena na štetu djeteta, zastara kaznenog progona počinje teći od punoljetnosti žrtve.«.
+
+### Članak 11.
+
+U članku 83. stavku 2. iza riječi: »(članak 111.)« dodaju se zarez i riječi: »teškog ubojstva ženske osobe (članak 111.a)«, a riječi: »stavak 2. i 3.« brišu se.
+
+### Članak 12.
+
+U članku 87. iza stavka 31. dodaje se stavak 32. koji glasi:
+
+»(32) Rodno utemeljeno nasilje nad ženama označava nasilje usmjereno na ženu zbog toga što je žena ili koje nerazmjerno pogađa žene. Takvo postupanje uzet će se kao otegotna okolnost ako ovim Zakonom nije izričito propisano teže kažnjavanje.«.
+
+### Članak 13.
+
+U članku 98. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Sredstva u smislu ovoga članka imaju značenje utvrđeno posebnim zakonom kojim se propisuju mjere, radnje i postupci radi sprječavanja i otkrivanja financiranja terorizma.«.
+
+### Članak 14.
+
+U članku 111. točka 3. mijenja se glasi:
+
+»3. tko ubije blisku osobu ili osobu koju je već ranije zlostavljao,«.
+
+### Članak 15.
+
+Iza članka 111. dodaju se naslov iznad članka i članak 111.a koji glase:
+
+*»Teško ubojstvo ženske osobe*
+
+### Članak 111.a
+
+(1) Tko počini rodno utemeljeno ubojstvo ženske osobe, kaznit će se kaznom zatvora od najmanje deset godina ili kaznom dugotrajnog zatvora.
+
+(2) Pri utvrđivanju kaznenog djela iz stavka 1. ovoga članka uzet će se u obzir da je djelo počinjeno prema bliskoj osobi, osobi koju je počinitelj već ranije zlostavljao, ranjivoj osobi, osobi koja se nalazi u odnosu podređenosti ili zavisnosti, ili je djelo počinjeno u okolnostima spolnog nasilja ili zbog odnosa koji žene stavlja u neravnopravan položaj ili da postoje druge okolnosti koje upućuju da se radi o rodno utemeljenom nasilju.«.
+
+### Članak 16.
+
+Članak 120. mijenja se i glasi:
+
+»(1) Ako je počinjenjem kaznenog djela iz članka 116. stavaka 1. i 2., članka 118. stavka 1. i članka 119. stavka 1. ovoga Zakona prouzročena smrt, počinitelj će se kazniti kaznom zatvora od tri do petnaest godina.
+
+(2) Ako je počinjenjem kaznenog djela iz članka 116. stavka 3., članka 118. stavka 2. i članka 119. stavaka 2. i 3. ovoga Zakona prouzročena smrt, počinitelj će se kazniti kaznom zatvora od pet do petnaest godina.«.
+
+### Članak 17.
+
+U članku 122. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Tko kazneno djelo iz stavka 1. ovoga članka počini iz mržnje ili prema bliskoj osobi ili osobi posebno ranjivoj zbog njezine dobi, teže tjelesne ili duševne smetnje ili trudnoće, kaznit će se kaznom zatvora od šest mjeseci do pet godina.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Tko organizira ili vodi grupu od tri ili više osoba koje sudjeluju u tučnjavi ili napadu iz stavka 2. ovoga članka ili organizira takvu tučnjavu ili napad, kaznit će se kaznom zatvora od jedne do deset godina.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 5., iza riječi: »stavka 1.« dodaju se riječi: » i 2.«.
+
+### Članak 18.
+
+U članku 140. stavku 1. riječi: »ustrajno i kroz dulje vrijeme« brišu se.
+
+U stavku 2. riječi: »,osobu s kojom je počinitelj bio u intimnoj vezi« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Kazneno djelo iz stavka 1. ovoga članka progoni se po prijedlogu.«.
+
+### Članak 19.
+
+U članku 144. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Kaznom iz stavka 2. ovoga članka kaznit će se tko snimku iz stavka 1. ovoga članka učini dostupnom većem broju osoba.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+### Članak 20.
+
+U članku 153. stavku 1. riječi: »jedne do pet« zamjenjuju se riječima: »tri do osam«.
+
+U stavku 2. riječi: »tri do deset« zamjenjuju se riječima: »pet do dvanaest«.
+
+### Članak 21.
+
+U članku 154. stavku 1. riječi: »tri do deset« zamjenjuju se riječima: »pet do dvanaest«.
+
+### Članak 22.
+
+Članak 156. mijenja se i glasi:
+
+»(1) Tko spolno uznemirava ili grubo uznemiri drugu osobu kojoj je nadređen ili koja se prema njemu nalazi u odnosu zavisnosti, kaznit će se kaznom zatvora do dvije godine.
+
+(2) Tko kazneno djelo iz stavka 1. ovoga članka počini prema bliskoj osobi ili osobi koja je posebno ranjiva zbog dobi, bolesti, invaliditeta, ovisnosti, trudnoće, teške tjelesne ili duševne smetnje, kaznit će se kaznom zatvora do tri godine.
+
+(3) Spolno uznemiravanje je svako verbalno, neverbalno ili fizičko neželjeno ponašanje spolne naravi koje ima za cilj ili stvarno predstavlja povredu dostojanstva osobi, koje uzrokuje strah, neprijateljsko, ponižavajuće ili uvredljivo okruženje.«.
+
+### Članak 23.
+
+U članku 158. stavku 5. riječ: »tri« zamjenjuje se riječju: »pet«.
+
+### Članak 24.
+
+U članku 159. stavku 1. riječ: »jedne« zamjenjuje se riječju: »tri«.
+
+### Članak 25.
+
+U članku 166. stavku 1. riječ: »tri« zamjenjuje se riječju: »pet«.
+
+### Članak 26.
+
+U članku 173. stavku 1. riječi: »centar za socijalnu skrb« zamjenjuju se riječima: »Hrvatski zavod za socijalni rad«.
+
+### Članak 27.
+
+Članak 179.a mijenja se i glasi:
+
+»Tko grubo, učestalo ili na drugi način teško krši propise o zaštiti od nasilja u obitelji i time kod člana obitelji ili druge bliske osobe izazove strah za njezinu sigurnost ili sigurnost njoj bliskih osoba ili je dovede u ponižavajući položaj, a time nije počinjeno teže kazneno djelo, kaznit će se kaznom zatvora od jedne do tri godine.«.
+
+### Članak 28.
+
+U članku 205. stavku 1. riječ: »jedne« zamjenjuje se riječju: »dvije«.
+
+U stavku 2. riječ: »dvije« zamjenjuje se riječju: »tri«.
+
+### Članak 29.
+
+Iza članka 205. dodaju se naslov iznad članka i članak 205.a koji glase:
+
+*»Napuštanje životinja*
+
+### Članak 205.a
+
+(1) Tko napusti domaću životinju, kućnog ljubimca ili uzgojenu divlju životinju i druge životinje držane pod nadzorom čovjeka s ciljem da je se trajno riješi, kaznit će se kaznom zatvora do jedne godine.
+
+(2) Ako je kaznenim djelom iz stavka 1. ovoga članka prouzročena smrt životinje ili je napušten veći broj životinja, počinitelj će se kazniti kaznom zatvora do dvije godine.
+
+(3) Životinja iz ovoga članka oduzet će se.«.
+
+### Članak 30.
+
+U članku 245. stavku 4. iza riječi: »članka 228. stavka 1.« dodaju se riječi: »i 3.«.
+
+### Članak 31.
+
+U članku 265. stavak 7. mijenja se i glasi:
+
+»(7) Ako je imovinska korist iz stavaka 1. do 6. ovoga članka ostvarena kaznenim djelom počinjenim u stranoj državi, počinitelj će se kazniti i kad kazneno djelo nije kažnjivo prema zakonu države u kojoj je počinjeno.«.
+
+### Članak 32.
+
+Iza članka 307. dodaju se naslov iznad članka i članak 307.a koji glase:
+
+*»Neovlašteno otkrivanje sadržaja izvidne ili dokazne radnje*
+
+### Članak 307.a
+
+(1) Pravosudni dužnosnik ili državni službenik u pravosudnom tijelu, policijski službenik ili dužnosnik, okrivljenik, odvjetnik, odvjetnički vježbenik, svjedok, vještak, prevoditelj ili tumač koji tijekom prethodnog kaznenog postupka koji se na temelju zakona smatra nejavnim, neovlašteno otkrije sadržaj izvidne ili dokazne radnje, s ciljem da ga učini javno dostupnim, kaznit će se kaznom zatvora do tri godine.
+
+(2) Počinjenje, pomaganje ili poticanje kaznenog djela iz stavka 1. ovoga članka ne može ostvariti onaj tko obavlja novinarski posao.
+
+(3) Nema kaznenog djela iz stavka 1. ovoga članka ako je djelo počinjeno radi zaštite žrtve kaznenog djela, u interesu obrane u kaznenom postupku ili u drugom pretežito javnom interesu.«.
+
+### Članak 33.
+
+U članku 323.a ispred riječi: »Tko« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Tko djelo iz stavka 1. ovoga članka počini iz mržnje, prema bliskoj osobi ili prema osobi posebno ranjivoj zbog njezine dobi, teže tjelesne ili duševne smetnje ili trudnoće, kaznit će se kaznom zatvora od šest mjeseci do pet godina.«.
+
+### Članak 34.
+
+U članku 386. iza točke 8. dodaje se nova točka 9. koja glasi:
+
+»9. Direktiva 2012/29/EU Europskog parlamenta i Vijeća od 25. listopada 2012. o uspostavi minimalnih standarda za prava, potporu i zaštitu žrtava kaznenih djela te o zamjeni Okvirne odluke Vijeća 2001/220/PUP (SL L 315, 14. 11. 2012.),«.
+
+Iza dosadašnje točke 9., koja postaje točka 10., dodaje se nova točka 11. koja glasi:
+
+»11. Direktiva 2014/42/EU Europskog parlamenta i Vijeća od 3. travnja 2014. o zamrzavanju i oduzimanju predmeta i imovinske koristi ostvarene kaznenim djelima u Europskoj uniji (SL L 127, 29. 4. 2014.),«.
+
+Dosadašnja točka 10. postaje točka 12.
+
+Iza dosadašnje točke 11., koja postaje točka 13., dodaju se nove točke 14. i 15. koje glase:
+
+»14. Direktiva 2016/343/EU Europskog parlamenta i Vijeća od 9. ožujka 2016. o jačanju određenih vidova pretpostavke nedužnosti i prava sudjelovati na raspravi u kaznenom postupku (SL L 65, 11. 3. 2016.),
+
+15. Direktiva 2016/800/EU Europskog parlamenta i Vijeća od 11. svibnja 2016. o postupovnim jamstvima za djecu koja su osumnjičenici ili optuženici u kaznenim postupcima (SL L 132, 21. 5. 2016.), ».
+
+Dosadašnje točke 12. do 21. postaju točke 16. do 25.
+
+### Članak 35.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/5
+
+Zagreb, 14. ožujka 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Kaznenog zakona (NN 136/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/136/2018*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Kaznenog zakona, koji je Hrvatski sabor donio na sjednici 24. listopada 2025.
+
+Klasa: 011-02/25-02/85  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 30. listopada 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA KAZNENOG ZAKONA**
+
+### Članak 1.
+
+U Kaznenom zakonu (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. – ispravak, 101/17., 118/18., 126/19., 84/21., 114/22., 114/23. i 36/24.) u članku 10. ispred riječi: »Kazneno zakonodavstvo« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Kazneno zakonodavstvo Republike Hrvatske primjenjuje se i na svaku pravnu osobu za kazneno djelo počinjeno na području Republike Hrvatske za koju postoje pretpostavke kaznene odgovornosti prema posebnom zakonu.«.
+
+### Članak 2.
+
+U članku 11. ispred riječi: »Kazneno zakonodavstvo« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Kazneno zakonodavstvo Republike Hrvatske primjenjuje se i na svaku pravnu osobu za kazneno djelo počinjeno na domaćem brodu ili zrakoplovu, bez obzira na to gdje se brod ili zrakoplov nalazi u vrijeme počinjenja kaznenog djela, za koju postoje pretpostavke kaznene odgovornosti prema posebnom zakonu.«.
+
+### Članak 3.
+
+U članku 14. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Kazneno zakonodavstvo Republike Hrvatske primjenjuje se prema pravnoj osobi registriranoj u Republici Hrvatskoj za bilo koje drugo kazneno djelo počinjeno izvan područja Republike Hrvatske, osim onih koja su obuhvaćena odredbama iz članaka 13. i 16. ovoga Zakona, ako je to kazneno djelo kažnjivo i prema zakonu države u kojoj je počinjeno, a za koju postoje pretpostavke kaznene odgovornosti prema posebnom zakonu.
+
+(3) Kazneno zakonodavstvo Republike Hrvatske primjenjuje se prema stranoj pravnoj osobi koja ima registriranu podružnicu u Republici Hrvatskoj, a za koju stranu pravnu osobu postoje pretpostavke kaznene odgovornosti prema posebnom zakonu za bilo koje drugo kazneno djelo odgovorne osobe te podružnice počinjeno izvan područja Republike Hrvatske, osim onih koja su obuhvaćena odredbama iz članaka 13. i 16. ovoga Zakona, ako je to kazneno djelo kažnjivo i prema zakonu države u kojoj je počinjeno.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+U dosadašnjem stavku 3., koji postaje stavak 5., riječi: »stavka 1. i 2.« zamjenjuju se riječima: »stavaka 1. do 4.«, a iza riječi: »kod kaznenih djela iz« dodaju se riječi: »članka 105., članka 106.,«.
+
+Dosadašnji stavak 4. postaje stavak 6.
+
+### Članak 4.
+
+U članku 18. stavku 3. riječi: »stavka 1. i 2.« zamjenjuju se riječima: »stavaka 1. do 4.«.
+
+U stavku 4. riječi: »stavka 3.« zamjenjuju se riječima: »stavka 5.«.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) U slučaju iz članka 14. stavaka 2. i 3. ovoga Zakona kazneni postupak prema pravnoj osobi pokrenut će se i kada se odgovorna osoba u pravnoj osobi ne nalazi na području Republike Hrvatske.«.
+
+### Članak 5.
+
+U članku 71. stavku 3. riječi: »članka 106. stavka 2. i 3.« zamjenjuju se riječima: »članka 106. stavaka 2., 3. i 5.«.
+
+### Članak 6.
+
+U članku 81. stavku 2. iza riječi: »terorizma (članak 97. stavak 4.),« dodaju se riječi: »trgovanja ljudima (članak 106. stavak 5.),«.
+
+### Članak 7.
+
+U članku 83. stavku 2. iza riječi: »terorizma (članak 97. stavak 4.),« dodaju se riječi: »trgovanja ljudima (članak 106. stavak 5.),«.
+
+### Članak 8.
+
+U članku 87. iza stavka 32. dodaje se stavak 33. koji glasi:
+
+»(33) Sustav umjetne inteligencije je strojni sustav različitih razina samostalnosti koji može pokazati prilagodljivost te koji za izričito ili neizričito izražene ciljeve iz ulaznih vrijednosti koje je primio zaključuje kako stvoriti izlazne vrijednosti kao što su predviđanja, sadržaj, preporuke ili odluke koje mogu utjecati ili utječu na stvarna ili prividna okruženja.«.
+
+### Članak 9.
+
+Članak 106. mijenja se i glasi:
+
+»(1) Tko uporabom sile ili prijetnje, obmanom, prijevarom, otmicom, zlouporabom ovlasti ili teškog položaja ili odnosa ovisnosti, davanjem ili primanjem novčane naknade ili druge koristi radi dobivanja pristanka osobe koja ima nadzor nad drugom osobom ili na drugi način vrbuje, preveze, prevede, skriva ili prima osobu ili razmjenjuje ili prenosi nadzor nad osobom radi iskorištavanja njezina rada putem prisilnog rada ili služenja, uspostavom ropstva ili njemu sličnog odnosa, ili radi njezina iskorištavanja za prostituciju ili druge oblike spolnog iskorištavanja, uključujući i pornografiju, ili za sklapanje nedozvoljenog ili prisilnog braka, ili radi uzimanja dijelova njezina tijela, ili radi njezina korištenja u oružanim sukobima, ili radi činjenja protupravne radnje, ili radi njezina iskorištavanja za zamjensko majčinstvo, kaznit će se kaznom zatvora od jedne do deset godina.
+
+(2) Kaznom iz stavka 1. ovoga članka kaznit će se tko vrbuje, preveze, prevede, skriva ili prima dijete, ili razmjenjuje ili prenosi nadzor nad djetetom radi iskorištavanja njegova rada putem prisilnog rada ili služenja, uspostavom ropstva ili njemu sličnog odnosa, ili radi njegova iskorištavanja za prostituciju ili druge oblike spolnog iskorištavanja, uključujući i pornografiju, ili za sklapanje nedozvoljenog ili prisilnog braka ili za nezakonito posvojenje, ili radi uzimanja dijelova njegova tijela, ili radi njegova korištenja u oružanim sukobima, ili radi činjenja protupravne radnje, ili radi njegova iskorištavanja za zamjensko majčinstvo.
+
+(3) Ako je kazneno djelo iz stavka 1. ovoga članka počinjeno prema djetetu ili je kazneno djelo iz stavaka 1. i 2. ovoga članka počinila službena osoba u obavljanju svoje službe ili odgovorna osoba u obavljanju javne ovlasti, ili je počinjeno u odnosu na veći broj osoba, ili je svjesno doveden u opasnost život jedne ili više osoba, ili je počinjeno uz uporabu teškog nasilja, ili je nastupila teška tjelesna ozljeda žrtve, ili je uporabom informacijskih i komunikacijskih tehnologija došlo do širenja slika ili videozapisa ili sličnog materijala seksualne prirode koji uključuje žrtvu, počinitelj će se kazniti kaznom zatvora od tri do petnaest godina.
+
+(4) Ako je kaznenim djelom iz stavaka 1. i 3. ovoga članka prouzročena smrt osobe, počinitelj će se kazniti kaznom zatvora od najmanje pet godina.
+
+(5) Ako je kaznenim djelom iz stavaka 2. i 3. ovoga članka prouzročena smrt djeteta, počinitelj će se kazniti kaznom zatvora od najmanje deset godina ili kaznom dugotrajnog zatvora.
+
+(6) Kaznom iz stavka 1. ovoga članka kaznit će se tko znajući da je osoba žrtva trgovanja ljudima, koristi njezine usluge koje su rezultat jednog od oblika njezina iskorištavanja navedenog u stavcima 1. i 2. ovoga članka.
+
+(7) Tko s ciljem omogućavanja počinjenja djela iz stavaka 1., 2. i 3. ovoga članka zadrži, oduzme, sakrije, ošteti ili uništi putnu ispravu ili ispravu o dokazivanju identiteta druge osobe, kaznit će se kaznom zatvora do tri godine.
+
+(8) Za pokušaj kaznenog djela iz stavka 7. ovoga članka počinitelj će se kazniti.
+
+(9) Pristanak na iskorištavanje same osobe na čiju štetu je trgovanje ljudima počinjeno bez utjecaja je na postojanje tog kaznenog djela.«.
+
+### Članak 10.
+
+U članku 190. stavku 2. riječ: »jedne« zamjenjuje se riječju: »tri«.
+
+### Članak 11.
+
+Iza članka 215. dodaju se naslov iznad članka i članak 215.a koji glase:
+
+*»Dovođenje u opasnost života i imovine sustavom umjetne inteligencije*
+
+### Članak 215.a
+
+(1) Tko u razvoju, testiranju, provjeri, nadzoru, upravljanju, uporabi sustava umjetne inteligencije ili na drugi način sustavom umjetne inteligencije izazove opasnost za život ili tijelo ljudi ili za imovinu većeg opsega, a time nije počinjeno teže kazneno djelo, kaz­nit će se kaznom zatvora od šest mjeseci do pet godina.
+
+(2) Tko kazneno djelo iz stavka 1. ovoga članka počini iz nehaja, kaznit će se kaznom zatvora do tri godine.
+
+(3) Ako je kaznenim djelom iz stavka 1. ovoga članka prouzročena teška tjelesna ozljeda neke osobe ili imovinska šteta velikih razmjera, počinitelj će se kazniti kaznom zatvora od jedne do deset godina.
+
+(4) Ako je kaznenim djelom iz stavka 1. ovoga članka prouzročena smrt jedne ili više osoba, počinitelj će se kazniti kaznom zatvora od tri do petnaest godina.
+
+(5) Ako je kaznenim djelom iz stavka 2. ovoga članka prouzročena teška tjelesna ozljeda neke osobe ili imovinska šteta velikih razmjera, počinitelj će se kazniti kaznom zatvora od šest mjeseci do pet godina.
+
+(6) Ako je kaznenim djelom iz stavka 2. ovoga članka prouzročena smrt jedne ili više osoba, počinitelj će se kazniti kaznom zatvora od jedne do osam godina.«.
+
+### Članak 12.
+
+U članku 339. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Tko kao zastupnik u Hrvatskom saboru, Europskom parlamentu, zakonodavnom tijelu ili predstavničkom tijelu strane države ili međunarodne javne organizacije ili kao vijećnik u predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave zahtijeva ili primi mito, ili prihvati ponudu ili obećanje mita za sebe ili drugoga kako bi unutar ili izvan granica svojih ovlasti obavio ili ne bi obavio službenu ili drugu radnju, ili u zakonodavnom ili predstavničkom tijelu u postupku koji prethodi glasovanju djelovao ili se suzdržao od djelovanja ili prilikom glasovanja glasovao, suzdržao se od glasovanja ili izostao s glasovanja, kaznit će se kaznom zatvora od jedne do osam godina.
+
+(2) Kaznom iz stavka 1. ovoga članka kaznit će se tko zastupniku u Hrvatskom saboru, Europskom parlamentu, u zakonodavnom tijelu ili predstavničkom tijelu strane države ili međunarodne javne organizacije ili vijećniku u predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave ponudi, obeća ili dade mito namijenjeno toj ili drugoj osobi kako bi unutar ili izvan granica svojih ovlasti obavio ili ne bi obavio službenu ili drugu radnju, ili u zakonodavnom ili predstavničkom tijelu u postupku koji prethodi glasovanju djelovao ili se suzdržao od djelovanja ili prilikom glasovanja glasovao, suzdržao se od glasovanja ili izostao s glasovanja, ili tko posreduje pri takvom podmićivanju.«.
+
+### Članak 13.
+
+U članku 386. iza točke 19. dodaje se nova točka 20. koja glasi:
+
+»20. Direktiva (EU) 2024/1712 Europskog parlamenta i Vijeća od 13. lipnja 2024. o izmjeni Direktive 2011/36/EU o sprečavanju i suzbijanju trgovanja ljudima i zaštiti njegovih žrtava (SL L, 2024/1712, 24. 6. 2024.),«.
+
+Dosadašnje točke 20. do 25. postaju točke 21. do 26.
+
+### Članak 14.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/78  
+Zagreb, 24. listopada 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

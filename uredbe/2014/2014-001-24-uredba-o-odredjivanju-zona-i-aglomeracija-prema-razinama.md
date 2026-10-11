@@ -77,13 +77,11 @@ Pojmovi koji se koriste u ovoj Uredbi sukladni su pojmovima utvrđenim u Zakonu 
 Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procjene za sumporov dioksid (SO2), okside dušika izražene kao dušikov dioksid (NO2), lebdeće čestice (PM10), benzen, benzo(a)piren, olovo (Pb), arsen (As), kadmij (Cd) i, nikal (Ni) u PM10, ugljikov monoksid (CO), graničnim vrijednostima za ukupnu plinovitu živu (Hg) te ciljnim vrijednostima za prizemni ozon (O3) s obzirom na zaštitu zdravlja ljudi, su:
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Oznaka zone i<br>aglomeracije</td>
 <td colspan="7">Razina onečišćenosti zraka po onečišćujućim tvarima s obzirom na zaštitu zdravlja ljudi</td>
 <td></td>
 </tr>
-
 <tr>
 <td>SO<sub>2</sub></td>
 <td>NO<sub>2</sub></td>
@@ -94,7 +92,6 @@ Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procje
 <td>O<sub>3</sub></td>
 <td>Hg</td>
 </tr>
-
 <tr>
 <td>HR ZG</td>
 <td>&lt; DPP</td>
@@ -106,7 +103,6 @@ Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procje
 <td>&gt; CV</td>
 <td>&lt; GV</td>
 </tr>
-
 <tr>
 <td>HR OS</td>
 <td>&lt; DPP</td>
@@ -118,7 +114,6 @@ Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procje
 <td>&gt; CV</td>
 <td>&lt; GV</td>
 </tr>
-
 <tr>
 <td>HR RI</td>
 <td>&gt; GPP</td>
@@ -130,7 +125,6 @@ Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procje
 <td>&gt; CV</td>
 <td>&lt; GV</td>
 </tr>
-
 <tr>
 <td>HR ST</td>
 <td>&gt; GPP</td>
@@ -142,7 +136,6 @@ Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procje
 <td>&gt; CV</td>
 <td>&lt; GV</td>
 </tr>
-
 <tr>
 <td>HR 1</td>
 <td>&lt; GPP</td>
@@ -154,7 +147,6 @@ Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procje
 <td>&gt; CV</td>
 <td>&lt; GV</td>
 </tr>
-
 <tr>
 <td>HR 2</td>
 <td>&lt; GPP</td>
@@ -166,7 +158,6 @@ Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procje
 <td>&gt; CV</td>
 <td>&lt; GV</td>
 </tr>
-
 <tr>
 <td>HR 3</td>
 <td>&lt; DPP</td>
@@ -178,7 +169,6 @@ Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procje
 <td>&gt; CV</td>
 <td>&lt; GV</td>
 </tr>
-
 <tr>
 <td>HR 4</td>
 <td>&lt; DPP</td>
@@ -190,7 +180,6 @@ Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procje
 <td>&gt; CV</td>
 <td>&lt; GV</td>
 </tr>
-
 <tr>
 <td>HR 5</td>
 <td>&lt; DPP</td>
@@ -220,46 +209,39 @@ GV – granična vrijednost.
 Razine onečišćenosti zraka, određene prema donjim i gornjim pragovima procjene za sumporov dioksid (SO2) i dušikove okside (NOx) te ciljnim vrijednostima za prizemni ozon (O3) s obzirom na zaštitu vegetacije, su:
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Oznaka zone</td>
 <td colspan="3">Razina onečišćenosti zraka po onečišćujućim tvarima s obzirom na zaštitu vegetacije</td>
 </tr>
-
 <tr>
 <td>SO<sub>2</sub></td>
 <td>NO<sub>x</sub></td>
 <td>AOT40 parametar</td>
 </tr>
-
 <tr>
 <td>HR 1</td>
 <td>&lt; DPP</td>
 <td>&lt; GPP</td>
 <td>&gt; CV</td>
 </tr>
-
 <tr>
 <td>HR 2</td>
 <td>&lt; GPP</td>
 <td>&lt; GPP</td>
 <td>&gt; CV</td>
 </tr>
-
 <tr>
 <td>HR 3</td>
 <td>&lt; DPP</td>
 <td>&lt; GPP</td>
 <td>&gt; CV</td>
 </tr>
-
 <tr>
 <td>HR 4</td>
 <td>&lt; DPP</td>
 <td>&lt; GPP</td>
 <td>&gt; CV</td>
 </tr>
-
 <tr>
 <td>HR 5</td>
 <td>&lt; DPP</td>

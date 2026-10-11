@@ -6,15 +6,17 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2010-06-23
-last_amended: 2013-12-16
+last_amended: 2020-06-26
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "78/10, 76/11, 19/12, 151/13"
+narodne_novine: "78/10, 76/11, 19/12, 151/13, 42/19, 73/20"
 amendments:
   - "NN 76/2011 (1616) Uredba o izmjenama Uredbe o visini vodnoga doprinosa"
   - "NN 19/2012 (519) Uredba o izmjeni Uredbe o visini vodnoga doprinosa"
   - "NN 151/2013 (3186) Uredba o izmjenama Uredbe o visini vodnoga doprinosa"
+  - "NN 42/2019 (856) Uredba o izmjeni Uredbe o visini vodnoga doprinosa"
+  - "NN 73/2020 (1414) Uredba o izmjeni Uredbe o visini vodnoga doprinosa"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2010/78/2242"
 retrieved: 2026-10-12
 ---
@@ -23,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 78/2010 (https://narodne-novine.nn.hr/eli/sluzbeni/2010/78/2242).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2011, NN 19/2012, NN 151/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2011, NN 19/2012, NN 151/2013, NN 42/2019, NN 73/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -267,3 +269,83 @@ Zagreb, 12. prosinca 2013.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjeni Uredbe o visini vodnoga doprinosa (NN 42/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/42/856*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 11. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09, 56/13, 120/16 i 127/17), Vlada Republike Hrvatske je na sjednici održanoj 25. travnja 2019. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O VISINI VODNOGA DOPRINOSA**
+
+### Članak 1.
+
+U Uredbi o visini vodnoga doprinosa (»Narodne novine«, br. 78/10, 76/11, 19/12, 151/13 i 83/15), u članku 2. točka 7. mijenja se i glasi:
+
+»7. Proizvodne građevine« su zatvoreni prostori (prostorije), proizvodne i servisne hale i skladišta, namijenjeni za proizvodne, industrijske i servisne svrhe (doradu, popravak, remont, održavanje i slično), skladišta namijenjena za poslovne svrhe te gospodarske građevine namijenjene obavljanju djelatnosti poljoprivrede, šumarstva i ribarstva; s proizvodnim građevinama izjednačene su prostorije za istraživanja i ispitivanja (laboratoriji i druge slične prostorije), prodajne ili izložbene prostorije sajmova, zatvoreni objekti komunalne infrastrukture, osim produktovoda iz točke 9. ovoga članka, zatvorene vodne građevine, osim produktovoda iz točke 9. ovoga članka, zgrade željezničkih i autobusnih kolodvora, zračnih luka i helidroma, te skladišta u morskim lukama, lukama unutarnjih voda i zračnim lukama;«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-03/20  
+Urbroj: 50301-25/27-19-3  
+Zagreb, 25. travnja 2019.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjeni Uredbe o visini vodnoga doprinosa (NN 73/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/73/1414*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 11. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09, 90/11, 56/13, 120/16, 127/17 i 66/19), Vlada Republike Hrvatske je na sjednici održanoj 25. lipnja 2020. donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O VISINI VODNOGA DOPRINOSA**
+
+### Članak 1.
+
+U Uredbi o visini vodnoga doprinosa (»Narodne novine«, br. 78/10, 76/11, 19/12, 151/13, 83/15 i 42/19), u članku 4. stavak 1. mijenja se i glasi:
+
+»Visina vodnoga doprinosa određuje se u kunama po jedinici prikazanoj u tablici kako slijedi:
+
+| Tarifni broj | Osnovica | Jedinica | Zona A | Zona B | Zona C |
+|---|---|---|---|---|---|
+| 1. | Poslovne građevine | m³ | 8,37 | 5,03 | 2,52 |
+| 2. | Stambene građevine za stalno stanovanje |  |  |  |  |
+| 2a. | Obiteljske kuće do 400 m² | m³ | 4,22 | 2,82 | 1,05 |
+| 2b. | Ostale stambene građevine za stalno stanovanje | m³ | 5,91 | 3,94 | 1,48 |
+| 3. | Stambene građevine za povremeno stanovanje | m³ | 7,88 | 4,93 | 2,48 |
+| 4. | Objekti društvenog standarda i religijski objekti | m³ | 2,46 | 1,48 | 0,49 |
+| 5. | Proizvodne građevine | m³ | 1,50 | 0,90 | 0,30 |
+| 6. | Prometne građevine | m² | 0,70 | 0,21 | 0,12 |
+| 7. | Produktovodi | m | 1,48 | 1,00 | 0,49 |
+| 8. | Kabelska kanalizacija | m | 2,97 | 1,97 | 1,00 |
+| 9. | Otvorene građevine | m² | 2,46 | 1,48 | 0,49 |
+
+«.
+
+### Članak 2.
+
+Svi upravni postupci obračuna vodnoga doprinosa započeti do stupanja na snagu ove Uredbe, koji nisu okončani izvršnim upravnim aktom, dovršit će se po odredbama ove Uredbe.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/39
+
+Urbroj: 50301-25/27-20-5
+
+Zagreb, 25. lipnja 2020.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

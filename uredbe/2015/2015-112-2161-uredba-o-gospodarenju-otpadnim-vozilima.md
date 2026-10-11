@@ -29,11 +29,11 @@ Na temelju članka 53. stavka 4. Zakona o održivom gospodarenju otpadom (»Naro
 
 **O GOSPODARENJU OTPADNIM VOZILIMA**
 
-### Članak 1.
+## Članak 1.
 
 Ovom Uredbom se propisuje način izvršenja obveze postizanja propisanog cilja u vezi s gospodarenjem otpadnim vozilima te način izračuna i iznos naknade za gospodarenje otpadnim vozilima.
 
-### Članak 2.
+## Članak 2.
 
 (1) Pojmovi koji se koriste u ovoj Uredbi imaju sljedeće značenje:
 
@@ -55,7 +55,7 @@ Ovom Uredbom se propisuje način izvršenja obveze postizanja propisanog cilja u
 
 *Način izvršenja obveze postizanja propisanog cilja*
 
-### Članak 3.
+## Članak 3.
 
 (1) Proizvođač izvršava obvezu postizanja cilja gospodarenja s otpadnim vozilima, propisanog Pravilnikom, uplatom naknade gospodarenja u korist Fonda.
 
@@ -63,7 +63,7 @@ Ovom Uredbom se propisuje način izvršenja obveze postizanja propisanog cilja u
 
 *Naknada gospodarenja*
 
-### Članak 4.
+## Članak 4.
 
 (1) Naknada gospodarenja izračunava se umnoškom jedinične naknade (JN) i mase vozila izražene u kilogramima koju proizvođač i fizička osoba – građanin stavlja na tržište na području Republike Hrvatske u obračunskom razdoblju.
 
@@ -71,7 +71,7 @@ Ovom Uredbom se propisuje način izvršenja obveze postizanja propisanog cilja u
 
 (3) Jedinična naknada izračunava se prema izrazu:
 
-## JN= GSS x TS
+JN= GSS x TS
 
 pri čemu je:
 
@@ -85,13 +85,13 @@ TS – trošak sakupljanja otpadnih vozila utvrđen ugovorom o obavljanju usluge
 
 (5) Na temelju izračuna iz stavka 4. ovoga članka ministar nadležan za poslove zaštite okoliša donosi odluku o iznosu jedinične naknade.
 
-### Članak 5.
+## Članak 5.
 
 (1) Do završetka javnog poziva za odabir najpovoljnijeg programa za obavljanje usluge sakupljanja otpadnih vozila sukladno Zakonu i donošenja odluke iz članka 4. stavka 5. ove Uredbe jedinična naknada iznosi 0,60 kuna po kilogramu vozila stavljenih na tržište na području Republike Hrvatske.
 
 (2) U slučaju iz stavka 1. ovoga članka ukupni iznos naknade koju plaćaju proizvođači umanjuje se za iznos naknade gospodarenja otpadnim gumama utvrđene posebnim propisom kojim se uređuje gospodarenje otpadnim gumama.
 
-### Članak 6.
+## Članak 6.
 
 Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
 

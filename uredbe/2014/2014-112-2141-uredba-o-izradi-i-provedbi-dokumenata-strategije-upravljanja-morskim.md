@@ -6,11 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2014-09-24
+last_amended: 2018-12-14
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "112/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "112/14, 39/17, 112/18"
+amendments:
+  - "NN 39/2017 (828) Uredba o izmjenama i dopuni Uredbe o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem"
+  - "NN 112/2018 (2171) Uredba o izmjenama Uredbe o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/112/2141"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Uredba o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem
 
 > Izvor: Narodne novine, NN 112/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/112/2141).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 39/2017, NN 112/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -864,3 +869,259 @@ Usklađivanje na razini podregije, odnosno morske regije koordinirat će Minista
 – suradnja na razini morske podregije kroz rad Mješovite komisije za zaštitu voda Jadranskog mora i obalnih područja (polazni dokument: Uredba o ratifikaciji jugoslavensko-talijanskog Sporazuma o suradnji na zaštiti voda Jadranskog mora i obalnih područja od zagađivanja, Službeni list SFRJ – Međunarodni ugovori, broj 2/77) notom 0506-18/92 od 25. ožujka 1992. godine i notom 233 od 22. siječnja 1993. godine između Ministarstva vanjskih poslova i europskih integracija Republike Hrvatske i Veleposlanstva Talijanske Republike u Zagrebu ugovoreno je važenje ugovora sklopljenih između bivše SFRJ i Talijanske Republike u odnosima između Republike Hrvatske i Talijanske Republike, a na temelju pravila međunarodnog prava o sukcesiji država glede međunarodnih ugovora);
 
 – suradnja na razini morske regije kroz aktivnosti Barcelonske konvencije.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopuni Uredbe o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem (NN 39/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/828*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 56. stavka 5. i članka 61. stavka 1. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13 i 78/15), a u vezi s člankom 18. Protokola o integralnom upravljanju obalnim područjem Sredozemlja (»Narodne novine – Međunarodni ugovori«, broj 8/12), Vlada Republike Hrvatske je na sjednici održanoj 20. travnja 2017. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O IZRADI I PROVEDBI DOKUMENATA STRATEGIJE UPRAVLJANJA MORSKIM OKOLIŠEM I OBALNIM PODRUČJEM**
+
+### Članak 1.
+
+U Uredbi o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem (»Narodne novine«, broj 112/14), u članku 4. stavku 1. iza riječi: »točki 1.« dodaju se riječi: »i 3.«.
+
+### Članak 2.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Na temelju Početne procjene ukupnog stanja i Skupa značajki dobroga stanja okoliša, radi postizanja dobroga stanja okoliša i njegova održavanja utvrđuje se Skup ciljeva i s njima povezanih pokazatelja.
+
+(2) Skup ciljeva i s njima povezanih pokazatelja u zaštiti okoliša se utvrđuje uzimajući u obzir okvirni popis opterećenja i utjecaja iz tablice 2. u Prilogu II. ove Uredbe kao i okvirni popis značajki iz Priloga III. ove Uredbe. Skup ciljeva u upravljanju morskim okolišem i obalnim područjem i s njima povezanih pokazatelja utvrđuje se uzimajući u obzir analizu ciljeva iz Priloga VI. ove Uredbe, te druge odgovarajuće analize izrađene u okviru primjene Barcelonske konvencije.
+
+(3) Pri utvrđivanju Skupa ciljeva u zaštiti okoliša i s njima povezanih pokazatelja mora se uzeti u obzir i daljnja primjena odgovarajućih postojećih ciljeva u zaštiti morskog okoliša i okoliša obalnog područja koji su, na temelju važećih posebnih propisa, već ranije određeni u Republici Hrvatskoj.
+
+(4) Ministarstvo je nositelj izrade Skupa ciljeva i njihova utvrđivanja. U izradi Skupa ciljeva sudjeluju nadležna tijela ovisno o propisanom djelokrugu. Nacionalni odbor daje mišljenje na Skup ciljeva, kojeg nakon toga razmatra i potvrđuje Povjerenstvo za koordinaciju. Nacionalni odbor, prema ocijenjenoj potrebi, predlaže Ministarstvu izmjene i dopune Skupa ciljeva.
+
+(5) Ministarstvo o Skupu ciljeva i s njima povezanih pokazatelja za morski okoliš obavještava Europsku komisiju putem Agencije za zaštitu okoliša u roku tri mjeseca od datuma njihova donošenja.«.
+
+### Članak 3.
+
+U članku 16. stavku 1. riječ: »slijedom« briše se.
+
+### Članak 4.
+
+U prilogu I. »Kvalitativni deskriptori za utvrđivanje dobrog stanja okoliša« Dijelu A točka 4. mijenja se i glasi:
+
+»4. Svi elementi morskih hranidbenih mreža, u mjeri u kojoj su poznati, javljaju se u uobičajenoj brojnosti i raznolikosti te su na razinama koje mogu osigurati dugoročnu abundanciju (brojnost) vrsta i očuvanje njihove pune sposobnosti razmnožavanja;«.
+
+### Članak 5.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-03/39
+
+Urbroj: 50301-25/14-17-2
+
+Zagreb, 20. travnja 2017.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama Uredbe o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem (NN 112/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/112/2171*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 56. stavka 5. i članka 61. stavka 1. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13, 78/15 i 12/18), a u vezi s člankom 18. Protokola o integralnom upravljanju obalnim područjem Sredozemlja (»Narodne novine – Međunarodni ugovori«, broj 8/12), Vlada Republike Hrvatske je na sjednici održanoj 13. prosinca 2018. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O IZRADI I PROVEDBI DOKUMENATA STRATEGIJE UPRAVLJANJA MORSKIM OKOLIŠEM I OBALNIM PODRUČJEM**
+
+#### Članak 1.
+
+U Uredbi o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem (»Narodne novine«, br. 112/14 i 39/17), članak 2. mijenja se i glasi:
+
+»Ova Uredba sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije i Programa Ujedinjenih naroda za okoliš:
+
+– Direktivom 2008/56/EZ Europskog parlamenta i Vijeća kojom se uspostavlja okvir za djelovanje Zajednice u području politike morskog okoliša (SL L 164 25. 6. 2008.) (u daljnjem tekstu: Direktiva)
+
+– Direktivom Komisije (EU) 2017/845 o izmjeni Direktive 2008/56/EZ Europskog parlamenta i Vijeća u pogledu okvirnog popisa elemenata koje treba uzeti u obzir pri pripremi pomorskih strategija (SL L 125 18. 5. 2017.) (u daljnjem tekstu: izmjene i dopune Direktive)
+
+– Odlukom Komisije (EU) 2017/848 o utvrđivanju kriterija i metodoloških standarda za dobro stanje okoliša morskih voda, kao i specifikacija i standardiziranih metoda za praćenje i procjenu te o stavljanju izvan snage Odluke 2010/477/EU (SL L 125 18. 5. 2017.) (u daljnjem tekstu: Odluka)
+
+– Protokolom Barcelonske konvencije o integralnom upravljanju obalnim područjem Sredozemlja, ratificiranim od strane Republike Hrvatske (Zakon o potvrđivanju Protokola o integralnom upravljanju obalnim područjem Sredozemlja, »Narodne novine – Međunarodni ugovori«, broj 8/12) (u daljnjem tekstu: Protokol).«.
+
+#### Članak 2.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Za provedbu Uredbe nadležno je Ministarstvo. Ministarstvo je koordinator suradnje s nadležnim tijelima koja su određena u Prilogu VII. ove Uredbe. Ministarstvo je nadležno za uspostavu i koordinaciju rada Koordinacijskog mehanizma za provedbu Strategije.
+
+(2) Koordinacijski mehanizam čine Povjerenstvo za koordinaciju izrade i provedbe dokumenata Strategije (u daljnjem tekstu: Povjerenstvo za koordinaciju), Nacionalni odbor za izvršenje zadaća uređenih ovom Uredbom i izradu i provedbu Strategije (u daljnjem tekstu: Nacionalni odbor), stručna, tematska i tehnička radna tijela i/ili radne skupine i Administrativna jedinica. Administrativna jedinica ustrojstveno je tijelo Ministarstva koje za potreba izrade i provedbe dokumenata Strategije obavlja administrativne i tajničke poslove.
+
+(3) Rad Koordinacijskog mehanizma uređuje se Poslovnikom o radu Koordinacijskog mehanizma kojeg donosi ministar nadležan za zaštitu okoliša.
+
+(4) Povjerenstvom za koordinaciju rukovodi ministar nadležan za zaštitu okoliša. Povjerenstvo za koordinaciju zaključkom potvrđuje dokumente Strategije. Dokumenti Strategije dostavljaju se na potvrđivanje Povjerenstvu za koordinaciju. Uz dokumente Strategije, dostavljaju se i mišljenja Nacionalnog odbora.
+
+(5) Vlada Republike Hrvatske, na prijedlog Ministarstva, odlukom imenuje predsjednika i članove Nacionalnog odbora. Radom Nacionalnog odbora rukovodi predsjednik Nacionalnog odbora koji je predstavnik Ministarstva. Nacionalni odbor o dokumentima Strategije donosi mišljenje.
+
+(6) Radna tijela Nacionalnog odbora i članove radnih tijela na prijedlog predsjednika Nacionalnog odbora imenuje ministar nadležan za zaštitu okoliša. Radnim tijelom, ovisno o nadležnosti, rukovodi Voditelj radnog tijela, a odgovoran je predsjedniku Nacionalnog odbora i ministru nadležnom za zaštitu okoliša. Voditelj Radnog tijela je predstavnik nadležnog tijela iz priloga VII. ove Uredbe.
+
+(7) Nadležna tijela iz Priloga VII. ove Uredbe sudjeluju u radu Koordinacijskog mehanizma svatko u okviru svojega propisanog djelokruga nadležnosti što uključuje sudjelovanje u radu, vođenje i koordinaciju aktivnosti radnih tijela, kao i provedbu administrativnih, znanstvenih i stručnih aktivnosti iz relevantnog upravnog i tematskog područja, a koje je u nadležnosti pojedinog tijela.
+
+(8) Članovi Nacionalnog odbora i Radnih tijela koji nisu zaposlenici središnjih tijela državne uprave, imaju pravo na naknadu sukladno Odluci o visini naknade članovima povjerenstava, vijeća, savjeta, radnih skupina i drugih sličnih tijela, klase: 120-02/11-01/04, urbroja: 50-30120-11-1, od 5. svibnja 2011. godine i urbroja: 5030120-11-5, od 18. kolovoza 2011. godine.
+
+(9) Ministarstvo nadležnim tijelima Europske unije i Programa Ujedinjenih naroda za okoliš dostavlja pobliže informacije o propisanom djelokrugu tijela iz ovoga članka i Priloga VII. ove Uredbe.«.
+
+#### Članak 3.
+
+U članku 11. stavku 3. podstavak 2. mijenja se i glasi:
+
+» – u Prilogu II. – Okvirni popis elemenata ekosustava, antropogenih pritisaka i ljudskih aktivnosti od značaja za morske vode;«.
+
+#### Članak 4.
+
+U članku 13. stavku 5. riječi: »putem Agencije za zaštitu okoliša« brišu se.
+
+#### Članak 5.
+
+U članku 14. stavku 5. riječi: »putem Agencije za zaštitu okoliša« brišu se.
+
+#### Članak 6.
+
+U članku 25. stavku 5. riječi: »Agenciji za zaštitu okoliša« i riječi: »Agencijom za zaštitu okoliša, uz koordinaciju Ministarstva« zamjenjuju se riječju: »Ministarstvo« u odgovarajućem padežu.
+
+U stavcima 6. i 7. riječi: »Agencija za zaštitu okoliša« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 10. riječi: »Agencije za zaštitu okoliša uz prethodnu suglasnost Ministarstva« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 7.
+
+Prilog II. mijenja se i glasi:
+
+### OKVIRNI POPIS ELEMENATA EKOSUSTAVA, ANTROPOGENIH PRITISAKA I LJUDSKIH AKTIVNOSTI OD ZNAČAJA ZA MORSKE VODE — (na koji se odnose članak 12. stavci 1., 2. i 3. članak 13. stavci 1. i 2., članak 13. stavak 6., članak 14. stavci 1., 2. i 3. članak 17. stavci 1. i 2.)
+
+*Tablica 1. Struktura, funkcije i procesi u morskim ekosustavima od posebne važnosti za članak 12. stavak 2. točku (a) te članke 13. i 17.*
+
+| Tema | Elementi ekosustava | Mogući parametri i karakteristike<br>(napomena 1.) | Relevantni kvalitativni deskriptori utvrđeni u Prilogu I. (napomene 2. i 3.) |
+|---|---|---|---|
+| Vrsta | Skupine vrsta (napomena 4.) morskih ptica, sisavaca, gmazova, riba i glavonožaca u morskoj regiji ili podregiji | Prostorna i vremenska varijacija po vrsti ili populaciji: – rasprostranjenost, brojnost i/ili biomasa – veličina, dobna i spolna struktura – plodnost, stope preživljavanja i smrtnosti/ozljeda – ponašanje uključujući kretanje i seobu – stanište vrste (površina, prikladnost) Sastav vrsta skupine | (1); (3) |
+| Staništa | Široki tipovi staništa vodenog stupca (pelagijski) i morskog dna (bentoski) (napomena 5.) ili drugi tipovi staništa, uključujući s njima povezane biološke zajednice diljem morske regije ili podregije | Po tipu staništa: – rasprostranjenost i površina staništa (i volumen, ako je primjereno) – sastav vrsta, brojnost i/ili biomasa (prostorna i vremenska varijacija) – veličina i dobna struktura vrste (ako je primjereno) – fizička, hidrološka i kemijska svojstva Dodatno za pelagijska staništa: – koncentracija klorofila a – frekvencija i površina cvjetanja planktona | (1); (6) |
+| Ekosustavi, uključujući hranidbene mreže | Struktura, funkcije i procesi u ekosustavu, koji obuhvaćaju: – fizička i hidrološka svojstva – kemijska svojstva – biološka svojstva – funkcije i procese | Prostorna i vremenska varijacija u: – temperaturi i ledu – hidrologiji (valni režim i režim strujanja; uzlazne struje, miješanje, vrijeme zadržavanja, dotok slatke vode; razina mora) – batimetrija – zamućenost (opterećenja muljem/sedimentom), prozirnost, zvuk – supstrat i morfologija morskog dna – salinitet, hranjive tvari (N, P), organski ugljik, otopljeni plinovi (pCO<sub>2</sub>, O<sub>2</sub>) i pH – veze između staništa i vrsta morskih ptica, sisavaca, gmazova, riba i glavonožaca – struktura pelagijsko-bentoske zajednice – produktivnost | (1); (4) |
+
+Napomene koje se odnose na tablicu 1.
+
+Napomena 1.: Okvirni popis relevantnih parametara i karakteristika za vrste, staništa i ekosustave, prikazan je tako da odražava parametre na koje utječu pritisci iz tablice 2. ovog Priloga i koji su važni za kriterije utvrđene u skladu s člankom 9. stavkom 3. Direktive. Posebne parametre i značajke koji će se koristiti za praćenje i procjenu trebalo bi odrediti u skladu sa zahtjevima Direktive, uključujući one iz članaka od 8. do 11.
+
+Napomena 2.: Brojevi u ovom stupcu odnose se na odgovarajuće numerirane točke iz Priloga I.
+
+Napomena 3.: U tablici 1. navedeni su samo kvalitativni deskriptori stanja okoliša (1), (3), (4) i (6) za koje su kriteriji utvrđeni u skladu s člankom 9. stavkom 3. Svi drugi kvalitativni deskriptori pritiska na okoliš iz Priloga I. mogu biti relevantni za pojedinu temu.
+
+Napomena 4.: Te skupine vrsta dodatno su određene u dijelu II. Priloga Odluke.
+
+Napomena 5.: Ti široki tipovi staništa pobliže su određeni u dijelu II. Priloga Odluke.
+
+*Tablica 2. Antropogeni pritisci, upotrebe i ljudske aktivnosti u morskom okolišu ili s utjecajem na njega*
+
+<table>
+<tr><td colspan="5">2.a Antropogeni pritisci na morski okoliš<br> od posebne važnosti za članak 12. stavak 2. točke (a) i (b), članak 12. stavak 3. te članke 13., 14. i 17.</td></tr>
+<tr><td>Tema</td><td colspan="2">Pritisak (napomena 1.)</td><td>Mogući parametri</td><td>Relevantni kvalitativni deskriptori utvrđeni u Prilogu I. (napomene 2. i 3.)</td></tr>
+<tr><td rowspan="6">Biološki</td><td colspan="2">Unošenje ili širenje strane vrste</td><td rowspan="16">Intenzitet i prostorna i vremenska varijacija pritiska u morskom okolišu i, prema potrebi, na izvoru Za procjenu utjecaja pritiska na okoliš, odabrati relevantne elemente ekosustava i parametre iz tablice 1.</td><td>(2)</td></tr>
+<tr><td colspan="2">Unos mikrobnih patogena</td><td></td></tr>
+<tr><td colspan="2">Unos genetski modificiranih organizama i premještaj zavičajnih vrsta</td><td></td></tr>
+<tr><td colspan="2">Gubitak, ili promjena, prirodnih bioloških zajednica zbog uzgoja životinjske ili biljne vrste</td><td></td></tr>
+<tr><td colspan="2">Uznemiravanje vrsta (npr. na mjestu razmnožavanja, odmora i hranjenja) zbog ljudske prisutnosti</td><td></td></tr>
+<tr><td colspan="2">Uklanjanje divljih vrsta ili smrtnost/ozljeda kod divljih vrsta (komercijalnim i rekreacijskim ribolovom i drugim aktivnostima)</td><td>(3)</td></tr>
+<tr><td rowspan="3">Fizički</td><td colspan="2">Fizičko remećenje morskog dna (privremeno ili reverzibilno)</td><td rowspan="3">(6); (7)</td></tr>
+<tr><td colspan="2">Fizički gubitak (zbog stalnih promjena supstrata ili morfologije morskog dna i vađenja supstrata morskog dna)</td></tr>
+<tr><td colspan="2">Promjene hidroloških uvjeta</td></tr>
+<tr><td rowspan="7">Tvari, otpad i energija</td><td colspan="2">Unos hranjivih tvari – raspršeni izvori, točkasti izvori, atmosfersko odlaganje</td><td rowspan="2">(5)</td></tr>
+<tr><td colspan="2">Unos organskih tvari – raspršeni izvori i točkasti izvori</td></tr>
+<tr><td colspan="2">Unos drugih tvari (npr. sintetičke tvari, nesintetičke tvari, radionuklidi) – raspršeni izvori, točkasti izvori, atmosfersko odlaganje, akutni događaji</td><td>(8); (9)</td></tr>
+<tr><td colspan="2">Unos otpada (krute otpadne tvari, uključujući mikrootpad)</td><td>(10)</td></tr>
+<tr><td colspan="2">Unos antropogenih zvukova (impulsni, kontinuirani)</td><td rowspan="2">(11)</td></tr>
+<tr><td colspan="2">Unos drugih oblika energije (uključujući elektromagnetska polja, svjetlost i toplinu)</td></tr>
+<tr><td colspan="2">Unos vode – točkasti izvori (npr. slana voda)</td><td></td></tr>
+<tr><td colspan="5">2.b Upotrebe i ljudske aktivnosti u morskom okolišu ili s utjecajem na njega<br> od posebne važnosti za članak 12. stavak 2. točke (b) i (d), članak 12. stavak 3. (samo aktivnosti označene * su važne za članak 12. stavak 2 točku (d)) i članke 14., 18. i 19.</td></tr>
+<tr><td colspan="2">Tema</td><td colspan="3">Aktivnost</td></tr>
+<tr><td rowspan="5" colspan="2">Fizičko restrukturiranje rijeka, obale ili morskog dna (upravljanje vodama)</td><td colspan="3">Pridobivanje zemljišta</td></tr>
+<tr><td colspan="3">Usmjeravanje i ostale izmjene vodotokova</td></tr>
+<tr><td colspan="3">Obrana priobalnih područja i zaštita od poplava*</td></tr>
+<tr><td colspan="3">Odobalni objekti (osim za naftu/plin/obnovljive izvore)*</td></tr>
+<tr><td colspan="3">Restrukturiranje morfologije morskog dna, uključujući jaružanje i odlaganje materijala*</td></tr>
+<tr><td rowspan="4" colspan="2">Vađenje neživih resursa</td><td colspan="3">Dobivanje mineralnih sirovina (tehničko-građevnog kamena, arhitektonsko-građevnog kamena, mineralne sirovine kovina, građevni pijesak i šljunak iz morskog dna,)*</td></tr>
+<tr><td colspan="3">Pridobivanje nafte i plina, uključujući infrastrukturu*</td></tr>
+<tr><td colspan="3">Pridobivanje morske soli*</td></tr>
+<tr><td colspan="3">Dobivanje vode*</td></tr>
+<tr><td rowspan="3" colspan="2">Proizvodnja energije</td><td colspan="3">Proizvodnja energije iz obnovljivih izvora (vjetar, valovi i plima i oseka), uključujući infrastrukturu*</td></tr>
+<tr><td colspan="3">Proizvodnja energije iz neobnovljivih izvora</td></tr>
+<tr><td colspan="3">Prijenos električne energije i komunikacija (kabeli)*</td></tr>
+<tr><td rowspan="4" colspan="2">Vađenje živih resursa</td><td colspan="3">Izlov ribe i školjkaša (profesionalni, rekreacijski)*</td></tr>
+<tr><td colspan="3">Prerada ribe i školjkaša*</td></tr>
+<tr><td colspan="3">Prikupljanje morskih biljaka*</td></tr>
+<tr><td colspan="3">Lov i prikupljanje u druge svrhe*</td></tr>
+<tr><td rowspan="4" colspan="2">Uzgajanje živih resursa</td><td colspan="3">Akvakultura – morska, uključujući infrastrukturu*</td></tr>
+<tr><td colspan="3">Akvakultura – slatkovodna</td></tr>
+<tr><td colspan="3">Poljoprivreda</td></tr>
+<tr><td colspan="3">Šumarstvo</td></tr>
+<tr><td rowspan="4" colspan="2">Promet</td><td colspan="3">Prometna infrastruktura*</td></tr>
+<tr><td colspan="3">Promet – pomorski*</td></tr>
+<tr><td colspan="3">Promet – zračni</td></tr>
+<tr><td colspan="3">Promet – kopneni</td></tr>
+<tr><td rowspan="3" colspan="2">Gradska i industrijska upotreba</td><td colspan="3">Gradska upotreba</td></tr>
+<tr><td colspan="3">Industrijska upotreba</td></tr>
+<tr><td colspan="3">Obrada i zbrinjavanje otpada*</td></tr>
+<tr><td rowspan="2" colspan="2">Turizam i slobodno vrijeme</td><td colspan="3">Infrastruktura za turizam i slobodno vrijeme*</td></tr>
+<tr><td colspan="3">Turističke aktivnosti i aktivnosti u slobodno vrijeme*</td></tr>
+<tr><td colspan="2">Sigurnost/obrana</td><td colspan="3">Vojne operacije<br> (u skladu s člankom 4. stavkom 2.)</td></tr>
+<tr><td colspan="2">Obrazovanje i istraživanje</td><td colspan="3">Istraživanje, prikupljanje podataka i obrazovne aktivnosti*</td></tr>
+</table>
+
+Napomene koje se odnose na tablicu 2.
+
+Napomena 1.: Procjene pritisaka trebale bi se temeljiti na njihovim razinama u morskom okolišu i, ako je primjereno, stopama unosa (iz kopnenih ili atmosferskih izvora) u morski okoliš.
+
+Napomena 2.: Brojevi u ovom stupcu odnose se na odgovarajuće numerirane točke iz Priloga I.
+
+Napomena 3.: U tablici 2.a navedeni su samo kvalitativni deskriptori pritiska na okoliš (2), (3), (5), (6), (7), (8), (9), (10) i (11), za koje su kriteriji utvrđeni u skladu s člankom 13. stavkom 6. Svi drugi kvalitativni deskriptori stanja okoliša iz Priloga I. mogu biti relevantni za pojedinu temu.«.
+
+#### Članak 8.
+
+U prilogu VII. stavku 1. riječi: »Ministarstvo zaštite okoliša i prirode« zamjenjuju se riječima: »Ministarstvo zaštite okoliša i energetike«.
+
+U stavku 2. točki I. podtočki 1. riječi: »Ministarstvo zaštite okoliša i prirode« zamjenjuju se riječima: »Ministarstvo zaštite okoliša i energetike«.
+
+U podtočki 3. riječi: »Ministarstvo pomorstva, prometa i infrastrukture« zamjenjuju se riječima: »Ministarstvo mora, prometa i infrastrukture«.
+
+U podtočki 4. u zagradi riječi: »vodno gospodarstvo,«, brišu se.
+
+U podtočki 5. riječi: »Ministarstvo gospodarstva« zamjenjuju se riječima: »Ministarstvo gospodarstva, poduzetništva i obrta«.
+
+U podtočki 7. riječi: »Ministarstvo zdravlja« zamjenjuju se riječima: »Ministarstvo zdravstva«.
+
+U podtočki 11. riječi: »Ministarstvo znanosti, obrazovanja i sporta« zamjenjuju se riječima: »Ministarstvo znanosti i obrazovanja«.
+
+U točki II. podtočka 4. briše se
+
+Dosadašnja podtočka 5. postaje podtočka 4.
+
+U točki III. podtočka 1. briše se.
+
+Dosadašnja podtočka 2. postaje podtočka 1.
+
+Dosadašnja podtočka 3. briše se.
+
+Dosadašnje podtočke 4. i 5. postaju podtočke 2. i 3.
+
+#### Članak 9.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019. godine.
+
+Klasa: 022-03/18-03/55  
+Urbroj: 50301-25/14-18-7  
+Zagreb, 13. prosinca 2018.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

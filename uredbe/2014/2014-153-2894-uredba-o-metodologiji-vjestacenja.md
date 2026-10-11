@@ -1511,960 +1511,796 @@ Pedijatar, Fizijatar
 #### LISTA OŠTEĆENJA ORGANIZMA – LISTA I
 
 <table><tbody>
-
 <tr>
 <td colspan="3">A) OŠTEĆENJA LOKOMOTORNOG SUSTAVA<br> I. GUBICI EKSTREMITETA</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">I A GUBITAK GORNJIH EKSTREMITETA</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">gubitak nadlaktice/a</td>
 <td>Razina</td>
 </tr>
-
 <tr>
 <td>eksartikulacija ruke u ramenu</td>
 <td colspan="2">80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gubitak ruke u nadlaktici</td>
 <td colspan="2">80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="3">gubitak podlaktice/a</td>
 <td></td>
 </tr>
-
 <tr>
 <td>gubitak ruke u laktu (eksartikulacija)</td>
 <td colspan="2">70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gubitak ruke u podlaktici</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="3">gubitak šake i dijelova šake</td>
 <td></td>
 </tr>
-
 <tr>
 <td>gubitak palca, obje falange</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak oba palca i jednog kažiprsta</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak oba palca i oba kažiprsta</td>
 <td colspan="2">80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gubitak oba palca, jednog kažiprsta i jednoga srednjega prsta</td>
 <td colspan="2">70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gubitak oba palca i druga tri prsta, a ne svih prstiju na istoj ruci</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>djelomična gubitak jednog članka palca i dva članka kažiprsta, slabo pokretni patrljci</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak kažiprsta i srednjeg prsta dominantne ruke</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak palca s bilo koja dva prsta (osim kažiprsta) sa sačuvanim metakarpalnim kostima</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak kažiprsta, srednjega i maloga prsta sa sačuvanim metakarpalnim kostima</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak četiri posljednja prsta jedne šake sa sačuvanim metakarpalnim kostima</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak četiri posljednja prsta sa sačuvanim metakarpalnim kostima, obiju šaka</td>
 <td colspan="2">80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gubitak palca s bilo koja tri prsta iste šake sa sačuvanim metakarpalnim kostima</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak svih prstiju šake<br> – Dominantne ruke<br> – Nedominantne</td>
 <td colspan="2">60%<br> 50%</td>
 <td>2<br> 2</td>
 </tr>
-
 <tr>
 <td>djelomična gubitak više prstiju</td>
 <td colspan="2">četiri posto po falangi</td>
 <td></td>
 </tr>
-
 <tr>
 <td>gubitak obiju falangi palca s metakarpalnom kosti</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak dva prsta s metakarpalnim kostima – palca i kažiprsta</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak dva prsta s metakarpalnim kostima – kažiprsta i srednjega prsta</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak dva prsta s metakarpalnim kostima – srednjega prsta i prstenjaka</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak dva prsta s metakarpalnim kostima – prstenjaka i maloga prsta</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak tri prsta s metakarpalnim kostima – palca, kažiprsta i srednjega prsta</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak tri prsta s metakarpalnim kostima – kažiprsta, srednjega i maloga prsta</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak tri prsta s metakarpalnim kostima – srednjega, prstenjaka i maloga prsta</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak šake<br> – dominantne ruke<br> – nedominantne ruke</td>
 <td colspan="2">70%<br> 60%</td>
 <td>3<br> 2</td>
 </tr>
-
 <tr>
 <td>I B GUBICI DONJIH EKSTREMITETA</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>gubitak natkoljenice/a</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>eksartikulacija noge u kuku</td>
 <td colspan="2">80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gubitak noge u natkoljenici</td>
 <td colspan="2">80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="3">gubitak potkoljenice/a</td>
 <td></td>
 </tr>
-
 <tr>
 <td>eksartikulaciju noge u koljenu</td>
 <td colspan="2">80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gubitak noge u potkoljenici</td>
 <td colspan="2">70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gubitak obiju potkoljenica s kratkim ili zgrčenim patrljcima neprikladnim za proteze</td>
 <td colspan="2">100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="3">gubitak stopala i dijelova stopala</td>
 <td></td>
 </tr>
-
 <tr>
 <td>gubitak u skočnom zglobu po Pirogovu</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>eksartikulacija u skočnom zglobu</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak svih prstiju na jednoj nozi bez metatarzalne kosti</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak dva ili tri prsta s metatarzalnim kostima</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak po Lisfrancku (exarticulatio tarsometatarsea)</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak po Chopartu (exarticulatio tarsitransversa)</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="3">gubici ruku i nogu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>gubitak jedne ruke i jedne noge ili potpuna neupotrebljivost jedne ruke i jedne noge</td>
 <td colspan="2">100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="3">Napomena: Kod amputacija nadlaktice, podlaktice, natkoljenice i potkoljenice s patrljkom neprikladnim za nošenje proteze omogućiti dodatnim člankom podizanje za 10 % invaliditet</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">II. STEČENA OŠTEĆENJA EKSTREMITETA<br>(skraćenja, pseudoartroze, osteomijelitis, habitualna iščašenja)</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">II A stečena oštećenja gornjih ekstremiteta</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Neoperabilna pseudoartroza nadlaktične kosti (potreban ortopedski aparat)</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>Neoperabilna pseudoartroza podlaktice, obje kosti</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>Neoperabilna pseudoartroza podlaktice, ako je zahvaćen samo jedna kost</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>nereponirano iščašenje u ramenom zglobu s ograničenjem funkcije</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>habitualno iščašenje ramenog zgloba koje se unatoč operaciji često ponavlja</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td colspan="3">II B stečena oštećenja donjih ekstremiteta</td>
 <td></td>
 </tr>
-
 <tr>
 <td>skraćenje noge (apsolutno) od 4 cm do 7 cm</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>skraćenje noge (apsolutno) od 7 cm do 12 cm</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>skraćenje noge (apsolutno) više od 12 cm</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>Neoperabilna pseudoartroza vrata femura</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>Neoperabilna pseudoartrozafemura</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>deformacija stopala</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>Pseudoartroza podkoljenice (tibije ili obiju kosti)</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>kronični osteomijelitis noge s fistulom ili funkcionalnim smetnjama</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="3">III. DORZALGIJE KAO POSLIJEDICE DEGENERATIVNIH PROMIJENA ILI OZLJEDA KRALJEŽNICE</td>
 <td></td>
 </tr>
-
 <tr>
 <td>potpuni gubitak funkcije dva ili više segmenata cervikalne regije nakon prijeloma ili spondilodeze (kir.)</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>konsolidirane frakture cervikalnog dijela kralježnice bez lezije medule</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>potpuni gubitak funkcije dva ili više segmenta lumbalne regije nakon prijeloma ili spondilodeze (kir.)</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>atlantoaksijalna dislokacija kao komplikacija reumatoidnog artritisa</td>
 <td colspan="2">80-100% (prema reumato-loško neurolo-škom statusu)</td>
 <td>3-4</td>
 </tr>
-
 <tr>
 <td colspan="3">IV. OGRANIČENA POKRETLJIVOST DONJIH EKSTREMITETA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>ograničena pokretljivost u zglobu kuka za više od trećine opsega</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ograničena pokretljivost u zglobu kuka za polovicu opsega</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ograničena pokretljivost u zglobu kuka za više od polovice opsega</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ukočenost zgloba koljena u povoljnim položaju</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ukočenost koljena u nepovoljnom položaju</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>kontraktura koljena desmogenoga ili artrogenoga porijekla, ekstenzija više od 30 stupnjeva</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>kontraktura stopala u petnoj kosti</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ankiloza skočnog zgloba u nepovoljnom položaju bilo pod kojim drugim kutom</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ukočenost stopala u povoljnom položaju</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>labav zglob kuka i stopala prema stupnju</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>jako razlabavljen zglob koljena, kad je nužno nositi aparat</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>*umjetni zglob kuka</td>
 <td colspan="2">*30%+odstupanje</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>* umjetni zglob koljena</td>
 <td colspan="2">*30%+odstupanje</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="3">V. OGRANIČENA POKRETLJIVOST GORNJIH EKSTREMITETA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>kontraktura ramenog zgloba s očuvanom abdukcijom ispod horizontale</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>potpuna ukočenost (ankiloza) ramena, prema položaju</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>labav rameni zglob</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ukočenost lakta u nepovoljnom položaju (fleksija manja od 90o)<br> – dominantne ruke<br> – nedominantne ruke</td>
 <td colspan="2">50%<br> 40%</td>
 <td>2<br> 2</td>
 </tr>
-
 <tr>
 <td>ukočenost lakatnog zgloba u povoljnom položaju (fleksija od 100-140o)</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ukočenost podlaktice u pronacijskom položaju</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ukočenost podlaktice u supinacijskom položaju</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>razlabavljen lakatni zglob s potrebnim aparatom</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ograničena pokretljivost lakta između 105 stupnjeva do pune fleksije (kontraktura)</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ograničena pokretljivost lakta između 75 i 90 ili 90 i 105 stupnjeva (kontraktura)</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ograničena pokretljivost lakta između 0 i 75 stupnjeva, nepovoljan položaj ruke</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ukočenost (ankiloza) zgloba šake u povoljnom položaju</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ukočenost ručnog zgloba u nepovoljnom položaju volarne fleksije</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ograničena pokretljivost (kontraktura) šake, većeg stupnja</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ankiloza (ukočenost) palca u interfalangealnom zglobu</td>
 <td colspan="2">20%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ankiloza palca u metakarpofalangealnom zglobu u nepovoljnom položaju</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ankiloza većine (tri ili više) prstiju, osim palca šake, u položaju povoljnom ili nepovoljnom za funkciju</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ankiloza svih prstiju šake, ako su takve promjene u povoljnom položaju</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ankiloza svih prstiju šake, ako su takve promjene u nepovoljnom položaju</td>
 <td colspan="2">60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ograničena pokretljivost (kontraktura) svih prstiju šake u većem stupnju</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ograničena pokretljivost (kontraktura) većine (tri ili više) prstiju, osim palca</td>
 <td colspan="2">40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="3">VI. OŠTEĆENJA MIŠIĆA I NEUROMUSKULARNE BOLESTI</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">Bolesti motoričkih neurona:<br> Amiotrofička lateralna skleroza,<br> Spinalne amiotorfije,<br> Bulbospinalnaamiotrofija Kennedy,<br> Postpolio sindrom.<br> Stanja koja omogućuju bolesniku neovisan život<br> Stanja koja dovode do djelomične ovisnosti o pomoći druge osobe<br> Stanja koja dovode do potpune ovisnosti o pomoći druge osobe<br> odnosno o ovisnosti o mehaničkoj ventilaciji</td>
 <td>40%<br> 60%<br> 100%</td>
 <td>2-4</td>
 </tr>
-
 <tr>
 <td colspan="2">Bolesti perifernih živaca, periferne neuropatije:<br> Peronealna mišićna atrofija, M. Charcot Marie Tooth, hereditarna<br> senzomotorička neuropatija,<br> Neuropatija Dejerine-Sottas,<br> Neuropatija Refsum,<br> Amiloidna neuropatija,<br> Neuropatija kod akutne intermitentneporfirije,<br> Familijarna kljenut pojedinih perifernih živaca zbog pritiska.<br> Postinfekcijski poliradikuloneuritis GuillainBarreStrohl,</td>
 <td>30%<br> 60%<br> 100%</td>
 <td>1-4</td>
 </tr>
-
 <tr>
 <td colspan="2">Multifokalna motorička neuropatija s blokom provođenja,<br> Neuropatije kod plazmocitoma, kolagenoza, sarkoidoze,<br> paraneoplastičke periferne neuropatije,<br> Dijabetska neuropatija,<br> Uremijska neuropatija,<br> Alkoholna neuropatija,<br> Toksične neuropatije,<br> Postinfekcijske neuropatije,<br> Posttraumatske neuropatije,<br> Kanalikularne neuropatije,<br> Kompresivne jatrogene neuropatije.<br> Stanja koja omogućuju bolesniku neovisan život<br> Stanja koja dovode do djelomične ovisnosti o pomoći druge osobe<br><br>Stanja koja dovode do potpune ovisnosti o pomoći druge osobe <br><br>odnosno o ovisnosti o mehaničkoj ventilaciji</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">Bolesti neuromuskularne spojnice:<br> Nasljedni kongenitalnimiastenički sindromi,<br><br> Miastenija gravis,<br><br> Lambert-Eatonmiastenički sindrom,<br><br> Botulizam.<br> Stanja koja omogućuju bolesniku neovisan život<br> Stanja koja dovode do djelomične ovisnosti o pomoći druge osobe<br> Stanja koja dovode do potpune ovisnosti o pomoći druge osobe <br><br>odnosno o ovisnosti o mehaničkoj ventilaciji</td>
 <td>30%<br> 60%<br> 100%</td>
 <td>1-4</td>
 </tr>
-
 <tr>
 <td colspan="2">Primarne bolesti mišića:<br> Mišićne distrofije:<br><br> Duchenne-ov oblik,<br><br> Beckerov oblik,<br><br> Pojasni oblik,<br><br> Facioskapulohumeralni oblik,<br><br> Emery-Dreifuss mišićna distrofija,<br><br> Distalni oblik mišićne distrofije,<br><br> Okulofaringealni oblik,<br><br> Miotonička distrofija.<br><br><br><br> Ostali oblici miopatija:<br><br> Kongenitalnemiopatije,<br><br> Mitohondrijalnemiopatije,<br><br> Metaboličke miopatije,<br><br> Endokrine miopatije,<br><br> Toksične miopatije.<br><br><br><br> Sindrom hiperekscitabilnosti perifernih živaca:<br><br> Neuromiotonija.<br><br><br><br> Poremećaj funkcije ionskih kanala:<br><br> kongenitalnamiotonija,<br><br> Kongenitalnaparamiotonija,<br><br> Periodičke paralize.<br><br><br><br> Artrhrogryposismultiplxcongenita.<br><br><br><br> Upalne miopatije:<br><br> Polymyositis,<br><br> Dermatomyositis,<br><br> Dermatoneuromyositis.<br><br><br><br> Bolesti središnjeg živčanog sustava s neuromuskularnim manifestacijama:<br><br> Stiffpersonsyndrome,<br><br> Tetanus,<br><br> Neuroleptički maligni sindrom,<br><br> Spinocerebelarnaataksija,<br><br> Hereditarna spastička paraplegija.<br> Stanja koja omogućuju bolesniku neovisan život<br> Stanja koja dovode do djelomične ovisnosti o pomoći druge osobe<br><br>Stanja koja dovode do potpune ovisnosti o pomoći druge osobe <br><br>odnosno o ovisnosti o mehaničkoj ventilaciji</td>
 <td>30%<br> 60%<br> 100%</td>
 <td>1-4</td>
 </tr>
-
 <tr>
 <td colspan="3">B) OŠTEĆENJA I BOLESTI SREDIŠNJEG TE PERIFERNOG ŽIVČANOG SUSTAVA</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">I. EKSTRAPIRAMIDNI SINDROMI</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">parkinsonizam i drugi ekstrapiramidni sindromi<br> ataktički sindrom<br> Stanja koja omogućuju bolesniku neovisan život<br> Stanja koja dovode do djelomične ovisnosti o pomoći druge osobe<br> Stanja koja dovode do potpune ovisnosti o pomoći druge osobe <br><br>odnosno o ovisnosti o mehaničkoj ventilaciji</td>
 <td>30%<br> 60%<br> 100%</td>
 <td>1-4</td>
 </tr>
-
 <tr>
 <td colspan="3">II. EPILEPSIJE</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">epilepsije s lakšim psihičkim promjenama</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="2">epilepsije s učestalim napadima i težim psihičkim promjenama</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="3">Napomena: Kod epilepsija potrebno je napraviti: EEG,CT/NMR, neuropsihologijsko testiranje od strane neurologa, psihijatra, psihologa</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">III. OŠTEĆENJA I NEURALGIJE KRANIJALNIH ŽIVACA</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">oštećenje n. trigeminusa motornog dijela s atrofijom muskulature za žvakanje</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td colspan="2">pareza živca lica gdje se oko ne zatvara</td>
 <td>30%.</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td colspan="2">najteži slučajevi bulbarne paralize</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">potpuna uzetost accessoriusa</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="3">IV. OŠTEĆENJA I NEURALGIJE PERIFERNIH ŽIVACA<br>ocjenjivati u skladu s plegičnim ili paretičnim promjenama do kojih ova oštećenja dovode</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">V. PLEGIČNI SINDROMI</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">potpuna motorna uzetost jedne strane tijela – hemiplegija</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">hemipareza lakog stupnja (motilitet očuvan, u pozicijskim položajima blaga oscilacija ekstremiteta)</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td colspan="2">hemipareza srednjeg stupnja (samostalno pokretan uz pomagalo, u pozicijskom položaju tonu ekstremiteti)</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="2">hemipareza teškog stupnja (nemogućnost postavljanja ekstremiteta u pozicijske položaje)</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">kod procjene hemipareza obavezna procjena neurološkog statusa</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">paraplegija</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">parapareza bez inkontinencije</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="2">parapareza s inkontinencijom</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">Kvadriplegija</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">Kvadri pareza lakšeg stupnja</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">Kvadri pareza težeg stupnja</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">Brahijalna diplegija</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">Brahijalna monoplegija</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">Monoplegija noge</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">Triplegija</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">djelomična motorna uzetost jedne noge</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td colspan="2">djelomična motorna uzetost jedne ruke</td>
 <td>30</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td colspan="2">Cerebralna paraliza s tetraparezom /osoba pokretna</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">Cerebralna paraliza s tetraparezom /osoba nepokretna</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">Cerebralana paraliza s ataksijom /osoba pokretna</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">Cerebralna paraliza s ataksijom /osoba nepokretna</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">Cerebralna paraliza s diparezom/osoba pokretna</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">Cerebralna paraliza s diparezom/osoba nepokretna</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">Cerebralna paraliza s hemiparezom i više oštećenja na ruci</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">Cerebralna paraliza s hemiparezom i više oštećenja na nozi</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">Cerebralna paraliza s motoričkom nespretnosti</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td colspan="3">VI. DRUGA OŠTEĆENJA SREDIŠNJEG ŽIVČANOG SUSTAVA</td>
 <td></td>
 </tr>
-
 <tr>
 <td>stanja nakon ozljede mozga i/ili kralj. moždine s ošteć. mot. funkcije udova</td>
 <td colspan="2">ocjenjiva-ti u skladu s plegičnim sindromi-ma liste B V</td>
 <td></td>
 </tr>
-
 <tr>
 <td>stanje nakon ozljede mozga s motor. i/ili senzor. poremećajem govora<br> – izraženija disfazija<br> – afazija</td>
 <td colspan="2">40%<br> 50%</td>
 <td>2<br> 2</td>
 </tr>
-
 <tr>
 <td>stanje nakon ozljede mozga s oštećenjem kognitivnih funkcija</td>
 <td colspan="2">Ocijenji-vati u skladu s poglav-ljem liste C I : Organski, uključuju-ći simpto-matske mentalne poreme-ćaje</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">VII BOLESTI ŽIVČANOG SUSTAVA NESVRSTANE DRUGDJE</td>
 <td></td>
 </tr>
-
 <tr>
 <td>multipla skleroza – EDDS 0-4</td>
 <td colspan="2">30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>multipla skleroza – EDDS 4,5-5</td>
 <td colspan="2">50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>multipla skleroza – EDDS 5,5-6</td>
 <td colspan="2">80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>multipla skleroza – EDDS 6,5-10</td>
 <td colspan="2">100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>Za način određivanja EDDS skora vidi točku 14. priloga Liste</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>prirođene malformacije središnjeg živčanog sustava</td>
 <td colspan="2">50% – 100% prema neuro-loškom i psihičkom statusu</td>
@@ -2474,1082 +2310,901 @@ Pedijatar, Fizijatar
 </table>
 
 <table><tbody>
-
 <tr>
 <td colspan="2">C) DUŠEVNE BOLESTI, PSIHIČKI POREMEĆAJI I <br>INTELEKTUALNE TEŠKOĆE</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">I. Organski, uključujući simptomatski mentalni poremećaj</td>
 <td></td>
 </tr>
-
 <tr>
 <td>trajni poremećaji ličnosti nakon vaskularnih ili drugih oštećenja središnjeg živčanog sustava prema težini kognitivnih oštećenja lakšeg stupnja– potvrđeno MR mozga – prisutnost atrofija ili rijetke vaskularne promjena, ocjena na MMSE 23-25.</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>trajni poremećaji ličnosti nakon vaskularnih ili drugih oštećenja središnjeg živčanog sustava prema težini kognitivnih oštećenja lakšeg stupnja– potvrđeno MR mozga – prisutnost atrofija ili rijetke vaskularne promjena, ocjena na MMSE 21-22.</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajni poremećaji ličnosti nakon vaskularnih ili drugih oštećenja središnjeg živčanog sustava prema težini kognitivnih oštećenja srednjeg stupnja, potvrđeno MR mozga sa srednje teškim atrofijama ili većim brojem vaskularnih promjena. MMSE ocjena 18-20.</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajni poremećaji ličnosti nakon vaskularnih ili drugih oštećenja središnjeg živčanog sustava prema težini kognitivnih oštećenja srednjeg stupnja, potvrđeno MR mozga sa srednje teškim atrofijama ili većim brojem vaskularnih promjena. MMSE ocjena 15-17.</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajni poremećaji ličnosti nakon vaskularnih ili drugih oštećenja središnjeg živčanog sustava prema težini kognitivnih oštećenja teškog stupnja, potvrđeno MR mozga sa teškim atrofijama ili velikim brojem vaskularnih promjena. MMSE ocjena 12-14.</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>trajni poremećaji ličnosti nakon vaskularnih ili drugih oštećenja središnjeg živčanog sustava prema težini kognitivnih oštećenja teškog stupnja, potvrđeno MR mozga sa teškim atrofijama ili velikim brojem vaskularnih promjena. MMSE ocjena 10-11.</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>trajni poremećaji ličnosti nakon vaskularnih ili drugih oštećenja središnjeg živčanog sustava prema težini kognitivnih oštećenja teškog stupnja, potvrđeno MR mozga sa teškim atrofijama ili velikim brojem vaskularnih promjena. MMSE ocjena 8-9.</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>trajni poremećaji ličnosti nakon vaskularnih ili drugih oštećenja središnjeg živčanog sustava prema težini kognitivnih oštećenja teškog stupnja, potvrđeno MR mozga sa teškim atrofijama ili velikim brojem vaskularnih promjena. MMSE ocjena 7 i manje od 7.</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">Napomena:<br> 1. Kod trajnih poremećaja ličnosti nakon vaskularnih ili drugih oštećenja središnjeg živčanog sustava potrebno je napraviti: MR mozga te neuropsihologijsko testiranje<br> 2. MMSE – Mini mentalstateexamination – ocjenska ljestvica za demenciju. Treba je raditi psihijatar i/ili neurolog<br> Napomena: Odnosi se i na demencije koje su uzrokovane uzimanjem psihoaktivnih tvari</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">II. Poremećaji raspoloženja (afektivni poremećaji) uključujući i organske promjene raspoloženja (navedene pod MKB-10 šifrom F06)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>bipolarni afektivni poremećaji s maničnim ili depresivnim epizodama, teška klinička slika, bez psihotičnih simptoma s višekratnim hospitalizacijama uz teža oštećenja socijalnog funkcioniranja i /ili djelomično lišavanje poslovne sposobnosti uz potrebu kontinuiranog liječenja minimum dvije godine</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>bipolarni afektivni poremećaji s maničnim ili depresivnim epizodama, teška klinička slika, s psihotičnim simptomima višekratne hospitalizacije uz izrazito teška oštećenja u socijalnom funkcioniranju i/ ili potpuno lišavanje poslovne sposobnosti uz potrebu višegodišnjeg kontinuiranog liječenja.</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>teška depresivna epizoda bez psihotičnih simptoma s više hospitalizacija, teža oštećenja socijalnog funkcioniranja i /ili djelomično lišavanje poslovne sposobnosti, potreba za kontinuiranim liječenjem kroz minimum dvije godine</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>teška depresivna epizoda sa psihotičnim simptomima s višekratnim hospitalizacijama, s teškim oštećenjem u dnevnoj rutini i socijalnom funkcioniranju i/ili potpuno lišavanje poslovne sposobnosti uz kontinuirano ambulantno liječenje kroz više godina.</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">III. Neurotski poremećaji, poremećaji vezani uz stres</td>
 <td></td>
 </tr>
-
 <tr>
 <td>PTSP, aktivni simptomi učestalo prisutni uz izraziti komorbiditet s drugim psihičkim poremećajima uključujući i trajne promjene ličnosti nakon traume prisutne najmanje dvije godine, izrazito oštećenje socijalnog funkcioniranja<br> Napomena: PTSP uključuje civilnu i ratnu traumu,</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>Napomena: Kod PTSP-a izlaganja traumatskom događaju koji je uz psihičke posljedice doveo do fizičkih posljedica potrebno je uzeti u obzir i moguća tjelesna oštećenja zbog trajnog oštećenja i gubitka funkcije tjelesnog organa kao posljedice traume.</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>IV. Specifični, mješoviti i drugi poremećaji ličnosti te trajne promjene ličnosti (MKB-10 – F60-F62)</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>klinički postavljena dijagnoza graničnog poremećaja ličnosti (uz primjenu SCID intervjua) s učestalim psihotičnim simptomima i/ili autodestruktivnim ponašanjem, ozbiljno oštećenje socijalnog funkcioniranja uz višegodišnje psihijatrijsko i psihoterapijsko liječenje</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>V. Shizofrenija, shizotipni i sumanuti poremećaji uključujući i poremećaje s psihozom navedene pod MKB-10 šifrom F06</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>klinički utvrđeni mentalni poremećaj s psihozom (shizofrenija,sumanuti i shizoafektivni poremećaj) srednjeg stupnja s višekratnim hospitalizacijama uz teža oštećenja socijalnog funkcioniranja i /ili djelomično lišavanje poslovne sposobnosti uz potrebu kontinuiranog liječenja minimum dvije godine</td>
 <td>40 %</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>klinički utvrđeni mentalni poremećaji s psihozom (shizofrenija,sumanuti i shizoafektivni poremećaj) – s više hospitalizacija i rezidualnim simptomima koja dovode do teškog oštećenja socijalnog funkcioniranja i/ili potpunog lišavanja poslovne sposobnosti uz redovito ambulantno liječenje u višegodišnjem trajanju</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>VI. intelektualne teškoće</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>lake intelektualne teškoće (IQ od 50-69)</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>umjerene intelektualne teškoće (IQ od 35-49)</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>teže i teške intelektualne teškoće (IQ od 0-34)</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>VII. Poremećaji iz autističnog spektra</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>poremećaji iz autističnog spektra</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>D) OŠTEĆENJA ORGANA I ORGANSKIH SUSTAVA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>I. OŠTEĆENJA DOJKE</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>unakaženost dojke većega stupnja</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak dojke</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>II. OŠTEĆENJA RESPIRATORNOG SUSTAVA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>poremećaji na grkljanu (defekti, gubici ili funkcionalne smetnje)<br> – s poremećenim govorom<br> – s gubitkom govora</td>
 <td>40%<br> 70%</td>
 <td>2<br> 3</td>
 </tr>
-
 <tr>
 <td>trajno nošenje kanile nakon traheotomije</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>laringektomija<br> – djelomična<br> – totalna</td>
 <td>60%<br> 80%</td>
 <td>2<br> 3</td>
 </tr>
-
 <tr>
 <td>trajno oštećenje funkcije pluća<br> – lakog stupnja (WHO II, FEV1 50-80%)<br> – srednjeg stupnja (WHO III, FEV1 &lt;30%)<br> – teškog stupnja (WHO IV, FEV1 &lt;30%)</td>
 <td>40%<br> 60%<br> 100%</td>
 <td>2<br> 2<br> 4</td>
 </tr>
-
 <tr>
 <td>srednje teško respiratorno oštećenje sa znacima disfunkcije desne strane srca ili plućnom hipertenzijom</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>gubitak jednog plućnog krila<br> – bez promjena na suprotnom hemitoraksu i bez znakova opterećenja desne strane srca<br> – s promjenama na suprotnom hemitoraksu ili oštećenjem respiratorne funkcije teškog stupnja te s izraženim znacima opterećenja desne strane srca</td>
 <td>60%<br> 100%</td>
 <td>2<br> 4</td>
 </tr>
-
 <tr>
 <td>gubitak jednog ili dva plućna režnja (nakon lobektomije) s oštećenjem respiratorne funkcije<br> – lakog stupnja<br> – srednjeg stupnja<br> – teškog stupnja</td>
 <td>40%<br> 60%<br> 100%</td>
 <td>2<br> 2<br> 4</td>
 </tr>
-
 <tr>
 <td>Za oštećenje respiratorne funkcije prema ovoj Listi uzimaju se vrijednosti iz točke 7. Napomena uz Listu</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>transplantacija pluća</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>IV. BOLESTI I OŠTEČENJA UROGENITALNOG SUSTAVA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Funkcionalno oštećenje preostalog bubrega – postotak oštećenja određuje se prema nalazu kreatininklirensa, i to ako je vrijednost klirensa kreatinina:</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>0,83 ml/s</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>0,67 ml/s</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>0,50 ml/s</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>0,41 ml/s</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>0,33 ml/s</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>0,25 ml/s</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>manje od 0,17 ml/s</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>Funkcionalno oštećenje obaju bubrega, težeg stupnja – postotak tjelesnog oštećenja određuje se prema vrijednosti nalaza kreatininklirensa, i to ako je vrijednost kk:</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>0,50 ml/s</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>0,33 ml/s</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>0,25 ml/s</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>0,17 ml/s</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>manje od 0,17 ml/s</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>U kriterije za ocjenu stupnja oštećenja funkcije bubrega, osim kreatinina, uzimaju se u obzir i drugi parametri kao što su: analize uree, radiografija, IWP i sl. za dokazivanje stupnja oštećenja funkcije bubrega.<br> Načini obračunavanja klirensa kreatinina nalaze se u točki 11. Napomena uz Listu.</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>trajno skvrčenje mokraćnog mjehura, kapaciteta do 50 ccm</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajno suženje mokraćnog kanala s otežanim mokrenjem</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajno suženje mokraćnog kanala s potrebom nošenja katetera</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>mokraćne fistule bubrega, uretera, mjehura ili uretre, trajno inoperabilne</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>ablacija penisa djelomična</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>ablacija penisa potpuna</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gubitak ili atrofija obaju testisa kod muškarca u dobi do 50 godina</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak ili atrofija obaju testisa kod muškarca u dobi iznad 50 godina</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak penisa i oba testisa (demasculatio totalis)</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>stanje nakon vulvektomije</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak obaju jajnika kod žena u dobi iznad 50 godina</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak obaju jajnika kod žena u dobi do 50 godina</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak maternice kod žena u dobi iznad 50 godina</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak maternice kod žena u dobi do 50 godina</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>najteži oblici zatajivanja bubrega koji zahtijevaju trajnu hemodijalizu</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>potpuna i stalna inkontinencija urina i/ili trajna cistostomija</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>stanje iza transplantacije bubrega</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>V. BOLESTI I OŠTEĆENJA GASTROINTESTINALNOG SUSTAVA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>ograničeno otvaranje usta između 20 i 10 mm</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>ograničeno otvaranje usta do 10 mm</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>potpun gubitak ili potpuna paraliza jezika</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>suženje jednjaka uz potrebu stalnog bužiranja</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>poremećaji gutanja (postoperativni ili kao posljedica neurološke bolesti) uz potrebu hranjenja na sondu</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>smetnje zbog stenotičnih promjena na pilorusu ili bilo kojem dijelu digestivnog trakta s funkcionalnim smetnjama (gubitak na težini veći od 20% standardne težine)</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajne analne i perianalne fistule koje se kirurški ne mogu otkloniti</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajne sterkoralne fistule, uske, defekacija normalna</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajne sterkoralne fistule, široke, niske</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajne fistule široke, visoko na tankom crijevu, s teškim pojavama denutricije</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>trajno oštećenje funkcije jetre, kompenzirano</td>
 <td>50 %</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>trajno oštećenje funkcije jetre, dekompenzirano</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>stanja nakon resekcije jetre, bez funkcionalnih ispada</td>
 <td>30 %</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>stanja nakon resekcije jetre, s funkcionalnim oštećenjem kompenzirano</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>stanja nakon resekcije jetre, s funkcionalnim oštećenjem dekompenzirano</td>
 <td>100</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>kronični pankreatitis, lakši oblici (dobro opće stanje uz patološke lab. nalaze)</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>kronični pankreatitis, teški oblici (poremećeno opće stanje, pseudociste, patološki lab. nalazi)</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>postoperativni malapsorpcijski sindrom lakši oblik do 20% gubitka težine od standardne</td>
 <td>40 %</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>postoperativni malapsorpcijski sindrom teški oblik više od 20% gubitka težine od standardne</td>
 <td>80 %</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>stanje nakon resekcije želuca sa poremećajem funkcije, ovisno o funkcionalnim smetnjama</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>stanje nakon totalne gastrektomije</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>trajna gastrostomija bez poremećaja općeg stanja</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>trajna gastrostomija s poremećajem općeg stanja</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>stalni anus praeter naturalis</td>
 <td>80 %</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>stanje nakon plastične operacije jednjaka uz normalnu funkciju i uhranjenost</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>stanje nakon plastične operacije jednjaka bez normalne funkcije i s gubitkom težine do 20% standardne</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>stanje nakon plastične operacije jednjaka bez normalne funkcije i s gubitkom težine većim od 20% standardne</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>inkontinencija stolice</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>suženje analnog sfinktera djelomično</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>transplantacija jetre</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>Crohnova bolest i ulceroznikolitis (prema funkcionalnim smetnjama i općem stanju)</td>
 <td>40% do 80%</td>
 <td>2-3</td>
 </tr>
-
 <tr>
 <td>teški oblici preosjetljivost na hranu</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>crijevna malapsorpcija (celijakija)</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>transplantacija crijeva</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>transplantacija gušterače</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>VI. BOLESTI I OŠTEĆENJA SRCA I KRVNIH ŽILA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Napomena: OŠTEĆENJE FUNKCIJE SRCA NEOVISNO O UZROKU (TRAUMA, BOLEST ILI OPERACIJA), KAO TRAJNO STANJE KOJE SE ADEKVATNIM NAČINOM LIJEČENJA NE MOŽE POPRAVITI STANDARDNO SE STUPNJUJE SE PREMA NYHA KLASIFIKACIJI – točka 14. Napomena Liste</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>oštećenje funkcije srca<br> – lakog stupnja (ugradnja ES; blok lijeve grane; blok III stupnja; hipertrofija LV; hipertrofična kardiomiopatija uz urednu EF; IM; bolesti srčanih zalistaka; ostala stanja koja nisu ovdje navedena) – NYHA II; EF 40-55%<br> – srednjeg stupnja (IM; bolesti srčanih zalistaka) – NYHA III; EF 30-40%<br> – teškog stupnja (ugradnja ICD; opstruktivna hiertrofička kardiomiopatija s EF&gt;75%; dilatativna kardiomiopatija; IM) – NYHA IV; EF&lt; 30%</td>
 <td>40%<br> 80%<br> 100%</td>
 <td>2<br> 3<br> 4</td>
 </tr>
-
 <tr>
 <td>stanje nakon transplantacije srca ili srca i pluća</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>bolesti aorte:<br> – asimptomatske aneurizme<br> – stanja nakon invazivnih zahvata ili operativnog liječenja abdominalne aorte<br> – kronična disekcija aorte<br> – stanja nakon invazivnih zahvata ili operativnog liječenja torakalne aorte</td>
 <td>50%<br> 60%<br> 80%<br> 80%</td>
 <td>2<br> 2<br> 3<br> 3</td>
 </tr>
-
 <tr>
 <td>*poremećaji cirkulacije u ruci s pojavama koje su posljedica tih poremećaja</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>*poremećaji cirkulacije u nozi s pojavama koje su poslejdica tih poremećaja</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>*Odredbe se primjenjuju na bolesti krvnih žila i poremećaje cirkulacije trajnog karaktera koji znatnije otežavaju funkciju</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>VII. OSTALA OŠTEČENJA UNUTRAŠNJIH ORGANA I TROVANJA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>cistična fibroza – obavezno vidi dodatak za način povećanja postotka oštećenja kod osoba s CF u skladu s popratnim oštećenjima</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>diabetes melitus u dječjoj dobi</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>amiloidozno oštećenje unutrašnjih organa ili kaheksije lakog stupnja</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>amiloidozno oštećenje unutrašnjih organa ili kaheksije srednjeg stupnja</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>amiloidozno oštećenje unutrašnjih organa ili kaheksije teškog stupnja</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>sifilis i njegove posljedice</td>
 <td>50-100%</td>
 <td>2-4</td>
 </tr>
-
 <tr>
 <td>stanja prouzrokovana atireoidizmom i hipotireoidizmom, kongenitalne ili stečene etiologije</td>
 <td>30-50%</td>
 <td>1-2</td>
 </tr>
-
 <tr>
 <td>E) OŠTEĆENJA OSJETILA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>I. OŠTEĆENJA SLUHA I GOVORA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>1.1.OŠTEĆENJE SLUHA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>nekompenzirano pareza vestibularnog aparata, jednog uha</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>nekompenzirana paraliza vestibularnog aparata, jednog uha</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>nekompenzirana paraliza vestibularnog aparata, oba uha</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>gluhoća – gubitak sluha veći od 93 % po Fowleru s komunikacijskim teškoćama</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>obostrano teško oštećenje sluha od 90 % do 93% po Fowleru s komunikacijskim teškoćama</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>obostrana teška nagluhost – ukupni gubitak sluha veći od 70 do 90 % po Fowleru s komunikacijskim teškoćama</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>obostrana teška nagluhost – ukupni gubitak sluha od 60 do 70 % po Fowleru s komunikacijskim teškoćama</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>Obostrana teška nagluhost-ukupni gubitak sluha od 50 do 60% po Fowlerus komunikacijskim teškoćama</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>gubitak jedne ušne školjke s komunikacijskim teškoćama</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak ušne školjke, oba uha s komunikacijskim teškoćama</td>
 <td>40%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>1.2. OŠTEĆENJE GOVORA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>1.2.1. AFAZIJA S ALEKSIJOM, AGRAFIJOM I AKALKULIJOM (različitih uzroka: moždani udar, tumori mozga, infekcije)</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>anomija, transkortikalna motorička afazija</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>konduktivna afazija</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>Brocaina afazija</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>Wernickeova afazija, Transkortikalna senzorička afazija</td>
 <td>80%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>globalna afazija</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>II. OŠTEĆENJE VIDA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>koncentrično suženje vidnog polja oba oka organskog karaktera 30°-21°</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>koncentrično suženje vidnog polja oba oka organskog karaktera– 20°-11°</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>koncentrično suženje vidnog polja oba oka organskog karaktera 10° i ispod 10°</td>
 <td>90%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>homonimne hemianopsije (osim kvadrantnih, binazalnih i gornjih horizontalnih)</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>donje horizontalne hemianopsije (osim kvadrantnih, binazalnih i gornjih horizon.)</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>bitemporalna hemianopsija, kvadrantne, binazalne i gornje horizontalne</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>gubitak oba oka, potpuni gubitak vida oba oka ili vrlo veliko smanjenje vida (manje od 0.05)</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>gubitak jednog oka ili vida jednog oka uz smanjenu oštrinu vida drugog oka 0,5 li manje</td>
 <td>50 do 90% – postotak odrediti u skladu s tablicom pod točkom 8. priloga</td>
 <td>2-4</td>
 </tr>
-
 <tr>
 <td>gubitak jednog oka ili vida jednog oka, ako je oštrina vida drugog oka veća od 0,5</td>
 <td>30%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>oštrina vida boljeg oka 0,4 ili manje prema ukupnom smanjenju vida</td>
 <td>30 do 90%– postotak odrediti u skladu s tablicom pod točkom 8. priloga</td>
 <td>1-4</td>
 </tr>
-
 <tr>
 <td>stalno suženje kao posljedica povrede suznoga kanala na jednom oku</td>
 <td>20%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>stalno suženje kao posljedica povrede suznoga kanala na oba oka</td>
 <td>30 %</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>Transplantacija rožnice</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>Za određivanje postotka oštećenja kod oštećenja vida koristiti tablicu pod točkom 8. Napomena</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>III. GLUHOSLJEPOĆA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Gluhosljepoća<br> – težina I<br> – težina II,III,IV</td>
 <td>90%<br> 100%</td>
 <td>4<br> 4</td>
 </tr>
-
 <tr>
 <td>F) KROMOSOMSKE ABERACIJE, PRIROĐENE MALFORAMCIJE I RIJETKE BOLESTI</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Kromosomske bolesti, poremećaji metabolizma koji rezultiraju oštećenjima koja su dio ove liste</td>
 <td>Postotak odrediti u skladu s vodećim oštećenjem koje je dio ove liste</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Osteohondrodisplazije</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>Osteogenesis imperfekta</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>Epidermiolisis bullosa</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>Prirođeni redukcijski defekti ruke i noge te ostale kongenitalne malformacije mišićno koštanog sustava</td>
 <td>Postotke odrediti u skladu sa stečenim gubicima gornjih i donjih ekstremite-ta ove liste te poslje-dicama kongeni-talne malforma-cije mišićno– koštanog sustava</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Napomene vezane uz poglavlje F) Kromosomske aberacije, prirođene malformacije i rijetke bolesti:<br> 1. Postotak oštećenja kod navedenih sindroma, u poglavlju F), povećati u skladu sa naputkom ove Liste, o povećanju postotka u slučaju postojanja višestrukih oštećenja<br> 2. Za sve ostale, nenavedene, kromosomske aberacije, prirođene malformacije te rijetke bolesti potrebno je odrediti postotak u skladu s vodećim i komorbiditetnim dijagnozama koje su prisutne u sklopu oštećenja, a koja su navedena u Listi</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>F) NOVOTVORINE i BOLESTI KRVI I KRVOTVORNIH ORGANA</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>osteomijeloskleroza</td>
 <td>70%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>maligne novotvorine – inoperabilne, s udaljenim metastazama, terminalne faze</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>sve vrste malignih neoplazmi dječje dobi, uključujući i leukemiju<br> Napomena: ukoliko bi došlo do potpunog izlječenja prestaje potreba za ocjenom oštećenja, te je potrebno uvjetovati kontrolni pregled</td>
 <td>100%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>*kongenitalne hemolitičke anemije</td>
 <td>60%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>*policitemija</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>*imunodeficijencije</td>
 <td>50%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>Postotak za oštećenja označena sa * priznaje se isključivo kod djece do 3 godine života</td>
 <td></td>
@@ -3689,12 +3344,10 @@ praktična gluhoslijepoća
 6. Tablica za određivanje postotka oštećenja kod oštećenja vida
 
 <table><tbody>
-
 <tr>
 <td></td>
 <td colspan="8">S L A B I J E O K O</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Oštrina vida</td>
@@ -3706,12 +3359,10 @@ praktična gluhoslijepoća
 <td>0,05</td>
 <td>0,00</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="8">T.O. u %</td>
 </tr>
-
 <tr>
 <td>B</td>
 <td>0,8-1,0</td>
@@ -3723,7 +3374,6 @@ praktična gluhoslijepoća
 <td>ø</td>
 <td>30%</td>
 </tr>
-
 <tr>
 <td>O</td>
 <td>0,6-0,7</td>
@@ -3735,7 +3385,6 @@ praktična gluhoslijepoća
 <td>ø</td>
 <td>30%</td>
 </tr>
-
 <tr>
 <td>LJ</td>
 <td>0,5</td>
@@ -3747,7 +3396,6 @@ praktična gluhoslijepoća
 <td>ø</td>
 <td>50%</td>
 </tr>
-
 <tr>
 <td>E</td>
 <td>0,4</td>
@@ -3759,7 +3407,6 @@ praktična gluhoslijepoća
 <td>50%</td>
 <td>60%</td>
 </tr>
-
 <tr>
 <td></td>
 <td>0,3</td>
@@ -3771,7 +3418,6 @@ praktična gluhoslijepoća
 <td>60%</td>
 <td>70%</td>
 </tr>
-
 <tr>
 <td>O</td>
 <td>0,2</td>
@@ -3783,7 +3429,6 @@ praktična gluhoslijepoća
 <td>70%</td>
 <td>80%</td>
 </tr>
-
 <tr>
 <td>K</td>
 <td>0,1</td>
@@ -3795,7 +3440,6 @@ praktična gluhoslijepoća
 <td>80%</td>
 <td>90%</td>
 </tr>
-
 <tr>
 <td>O</td>
 <td>0,05</td>
@@ -3807,7 +3451,6 @@ praktična gluhoslijepoća
 <td>90%</td>
 <td>90%</td>
 </tr>
-
 <tr>
 <td></td>
 <td>0,00</td>
@@ -3819,7 +3462,6 @@ praktična gluhoslijepoća
 <td></td>
 <td>100%</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -4697,19 +4339,16 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 #### LISTA TEŽINE I VRSTE INVALIDITETA – OŠTEĆENJA FUNKCIONALNIH SPOSOBNOSTI
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Vrsta oštećenja</td>
 <td colspan="4">Težina invaliditeta – težina oštećenja funkcionalne sposobnosti s opisom stručnjaka za procjenu</td>
 </tr>
-
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>Tjelesno</td>
 <td>ukoliko postoje teškoće u kretanju i/ili potreba korištenja ortopedskih pomagala (štap, štaka, hodalica) i/ili smanjena funkcija gornjih ekstremiteta<br> M: Barthel indeks 91-99; ili FIM ili HAQ<br> S: fizijatar</td>
@@ -4717,7 +4356,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td>ako postoji smanjena funkcija /gubitak donjih ekstremiteta uz stalnu uporabu inv.kolica i uz stalnu inkontinenciju i/ili dokazani izostanak osjeta dijelova tijela i/ili kod osobe izrazito onemogućena funkcionalna uporaba gornjih ekstremiteta<br> M: Barthel indeks 21-60 ili FIM ili HAQ<br> S: fizijatar</td>
 <td>ukoliko osoba ne može samostalno izvršiti niti jednu važniju aktivnost svakodnevnog života (higijena, oblačenje,hranjenje, pijenje)<br> M: Barthel indeks 0-20 ili FIM ili HAQ<br> S: fizijatar</td>
 </tr>
-
 <tr>
 <td>Oštećenje vida</td>
 <td></td>
@@ -4725,7 +4363,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Djeca</td>
 <td>ima blago oštećenje vida prema Colenbranderu (vidna oštrina boljeg oka sa najboljom mogućom korekcijom 0,63-0,32)<br> M: testovi za utvrđivanje vidne oštrine<br> S: oftalmolog<br> nema smanjenu osjetljivost na kontraste i ima razvijenu stereopsiju ili nema ali mu ne stvara poteškoće (u nepoznatom prostoru)<br> M: testovi za utvrđivanje osjetljivosti na kontraste i razvijenosti stereopsije<br> S: oftalmolog/stručnjak za vid<br> dobro koristi umanjeni vid; uspijeva kompenzirati poteškoće koje proizlaze iz oštećenja vida<br> M: prema Testu za procjenu vizualne sposobnosti slabovidnih (Program to developefficiencyinvisualfunctioning) autora Barraga N., Morris J., rješava76 – 95% čestica (čestice 33-38) tj. razina vizualnog razvoja je 5-7 godina<br> S: edukacijski rehabilitator<br> koristi standardni crni tisak bez pomagala<br> M: radni materijali na crnom tisku<br> S:edukacijski rehabilitator/stručnjak za vid<br> svakodnevne vještine su razvijene u skladu s dobi<br> M: rješava od 80-100% čestica sadržanih u skali za procjenu svakodnevnih vještina sukladno dobi (Oregon do 6. godine, a od 6. god. do završetka srednje škole dogovorene čestice iz Liste s aktivnostima svakodnevnog življenja, dio koji se odnosi na svakodnevne vještine)<br> S:edukacijski rehabilitator<br> samostalno se kreće u poznatim i nepoznatim prostorima<br> M: rješava 90 -100% čestica sadržanih u skali Stepbystep do 6. god. ili Listi s aktivnostima svakodnevnog življenja, dio koji se odnosi na orijentaciju i kretanje<br> S: edukacijski rehabilitator<br> socijalne vještine su razvijene u skladu s dobi<br> M: do navršenih 6 godina rješava 81-100% čestica sadržanih u Oregon skali za procjenu socijalnih vještina ili u dobi 6-19 godina ima visoku razinu izvođenja, nisku razinu problema u ponašanju te rješava 76-95% čestica instrumenta SocialSkillsRatingSystem (Gresham i Eliot)<br> S. edukacijski rehabilitator<br> ukoliko na testu psihomotornog razvoja/ intelektualnih sposobnosti postiže IQ rezultat u okvirima šireg prosjeka i/ili na testovima osobnosti, emocionalne prilagodbe i socijalne kompetencije postiže rezultate koji ukazuju na osobnost i socijalne kompetencije u širim granicama prosjeka<br> M: test psihomotornog razvoja/ intelektualnih sposobnosti te testovi osobnosti, emocionalne prilagodbe i socijalne kompetencije<br> S: psiholog</td>
@@ -4733,7 +4370,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td>ima visoku slabovidnost prema Colenbranderu (vidna oštrina boljeg oka sa najboljom mogućom korekcijom 0,12-0,05)<br> M: testovi za utvrđivanje vidne oštrine<br> S: oftalmolog<br> ima značajnije smanjenu osjetljivost na kontraste i nema razvijenu stereopsiju (u nepoznatom prostoru)<br> M: testovi za utvrđivanje osjetljivosti na kontraste i razvijenosti stereopsije<br> S: oftalmolog/stručnjak za vid<br> ima velike poteškoće u vizualnom funkcioniranju, treba pomoć stručnjaka u razvijanju vizualnih sposobnosti i učenju uporabe postojećeg ostatka vida<br> M: prema Testu za procjenu vizualne sposobnosti slabovidnih (Program to developefficiencyinvisualfunctioning) autora Barraga N., Morris J., rješava 6– 50% čestica (čestice 3-24) tj. razina vizualnog razvoja je od 3 mjeseca do 2 godine<br> S: edukacijski rehabilitator<br> za čitanje koristi snažnija optička ili elektronička povećala (uvećanje veće od 5x) ili čita uvećani tisak na udaljenosti manjoj od 10 cm sa ili bez optičkog povećala (2-4x). Čitanje je sporije.<br> M:radni materijal na crnom tisku, optička pomagala<br> S:stručnjak za vid/edukacijski rehabilitator<br> za svakodnevne vještine sukladno dobi potrebna je svakodnevna pomoć druge osobe<br> M: rješava 20-50% čestica sadržanih u skali za procjenu svakodnevnih vještina sukladno dobi (Oregon do 6. godine, a od 6. god. do završetka srednje škole dogovorene čestice iz Liste s aktivnostima svakodnevnog življenja)<br> S:edukacijski rehabilitator<br> samostalno se kreće u poznatim zatvorenim i otvorenim prostorima, a u svim drugim slučajevima treba pomoć<br> M: rješava 30-60% čestica sadržanih u skali Stepbystep do 6. god. ili Listi sa aktivnostima svakodnevnog življenja, dio koji se odnosi na orijentaciju i kretanje<br> S:edukacijski rehabilitator<br> u usvojenosti socijalnih vještina postoji značajnije odstupanje u odnosu na dob<br> M: do navršenih 6 godina rješava 20-50% čestica sadržanih u Oregon skali za procjenu socijalnih vještina ili u dobi 6-19 godina ima srednju razinu izvođenja, srednju razinu problema u ponašanju te rješava 6-50% čestica instrumenta SocialSkillsRatingSystem (Gresham i Eliot)<br> S:edukacijski rehabilitator<br> ukoliko na testu psihomotornog razvoja/ intelektualnih sposobnosti postiže IQ rezultat u okvirima umjerenog zaostajanja i/ili na testovima osobnosti, emocionalne prilagodbe i socijalne kompetencije, odnosno u psihologijskoj procjeni postiže rezultate koji ukazuju na poremećenu strukturu osobnosti i vrlo slabo razvijene socijalne kompetencije<br> M: test psihomotornog razvoja/ intelektualnih sposobnosti te testovi osobnosti, emocionalne prilagodbe i socijalne kompetencije<br> S: psiholog</td>
 <td>prema Colenbranderu ima praktičnu sljepoću (vidna oštrina boljeg oka sa najboljom mogućom korekcijom 0,04-0,02) ili visoku (0,016 ili manje) ili potpunu sljepoću (sa ili bez osjeta svjetla) ili postoji ostatak vida do 25% uz najbolju moguću korekciju uz suženje vidnog polja na 20 stupnjeva ili manje te koncentrično suženje vidnog polja oba oka na 5-10 stupnjeva oko f<br> iksacijske točke<br> M: testovi za utvrđivanje vidne oštrine i vidnog polja<br> S: oftalmolog<br> ne koristi vid kao izvor informacija u okolini<br> prema Testu za procjenu vizualne sposobnosti slabovidnih (Program to developefficiencyinvisualfunctioning) autora Barraga N., Morris J., rješava 0– 5% čestica (čestIce 1 i 2) tj. razina vizualnog razvoja je 1-3 mjeseca<br> se koristi prvenstveno brajicom ali za kraće čitanje može koristiti elektroničko povećalo<br> M:radni materijal na crnom tisku/ brajici, električno povećalo<br> S:stručnjak za vid/edukacijski rehabilitator<br> za svakodnevne vještine sukladno dobi potrebna je svakodnevna pomoć/ asistencija druge osobe (člana obitelji ili druge educirane osobe)<br> M: rješava do 20% čestica sadržanih u skali za procjenu svakodnevnih vještina sukladno dobi (Oregon do 6. godine, a od 6. god. do završetka srednje škole dogovorene čestice iz Liste sa aktivnostima svakodnevnog življenja)<br> S:edukacijski rehabilitator<br> samostalno se kreće u poznatom prostoru, a u svim drugim situacijama treba pomoć<br> M: rješava do 30% čestica sadržanih u skali Stepbystep do 6. god. ili Listi sa aktivnostima svakodnevnog življenja, dio koji se odnosi na orijentaciju i kretanje<br> S:edukacijski rehabilitator<br> socijalne vještine nisu razvijene u skladu s dobi<br> M: do navršenih 6 godina rješava do 20% čestica sadržanih u Oregon skali za procjenu socijalnih vještina ili u dobi 6-19 godina ima nisku razinu izvođenja, nisku razinu problema u ponašanju te rješava 0-5% čestica instrumenta SocialSkillsRatingSystem (Gresham i Eliot)<br> S:edukacijski rehabilitator<br> ima potpuno oštećenje funkcionalnosti ukoliko na testovima/skalama intelektualnih sposobnosti psihomotornog razvoja/ postiže IQ rezultat u okvirima težeg ili teškog zaostajanja i/ili na psihologijskoj procjeni postiže rezultate koji ukazuju na nerazvijenu/znatno narušenu strukturu osobnosti, izrazitu emocionalnu nestabilnost i odsustvo socijalnih kompetencija.<br> M: test psihomotornog razvoja/ intelektualnih sposobnosti te testovi osobnosti, emocionalne prilagodbe i socijalne kompetencije<br> S: psiholog</td>
 </tr>
-
 <tr>
 <td>Odrasli</td>
 <td>ima blago oštećenje vida prema Colenbranderu (vidna oštrina boljeg oka sa najboljom mogućom korekcijom 0,63-0,32)<br> M: testovi za utvrđivanje vidne oštrine<br> S: oftalmolog<br> nema smanjenu osjetljivost na kontraste<br> M: testovi za utvrđivanje osjetljivosti na kontraste<br> S: oftalmolog/stručnjak za vid<br> dobro koristi umanjeni vid; uspijeva kompenzirati poteškoće koje proizlaze<br> iz oštećenja vida<br> M: prema Testu za procjenu vizualne sposobnosti slabovidnih (Program to developefficiencyinvisualfunctioning) autora Barraga N., Morris J., rješava 76 – 95% čestica (čestice 33-38) tj. razina vizualnog razvoja je 5-7 godina (kod odraslih osoba koje su u kasnijoj životnoj dobi izgubile vid)<br> S: edukacijski rehabilitator<br> koristi se standardnim crnim tiskom bez pomagala<br> M:radni materijal na crnom tisku<br> S:edukacijskirehabilitator/stručnjak za vid<br> ima razvijene svakodnevne vještine i samostalno se kreće u poznatim prostorima i treba povremeno pomoć u nepoznatim prostorima<br> M: rješava 80-100% čestica sadržanih u Listi s aktivnostima svakodnevnog življenja, dio koji se odnosi na orijentaciju i kretanje<br> S: edukacijski rehabilitator<br> ukoliko na testu psihomotornog razvoja/ intelektualnih sposobnosti postiže IQ rezultat u okvirima šireg prosjeka i/ili na testovima osobnosti, emocionalne prilagodbe i socijalne kompetencije postiže rezultate koji ukazuju na osobnost i socijalne kompetencije u širim granicama prosjeka<br> M: test psihomotornog razvoja/ intelektualnih sposobnosti te testovi osobnosti, emocionalne prilagodbe i socijalne kompetencije<br> S: psiholog</td>
@@ -4741,7 +4377,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td>ima visoku slabovidnost prema Colenbranderu (vidna oštrina boljeg oka sa najboljom mogućom korekcijom 0,12-0,05) ili ima praktičnu sljepoću (vidna oštrina boljeg oka sa najboljom mogućom korekcijom 0,04-0,02) ili ima ostatak vida do 25% uz najbolju korekciju uz suženje vidnog polja na 20 stupnjeva ili manje oko fiksacijske točke<br> M: testovi za utvrđivanje vidne oštrine i vidnog polja<br> S: oftalmolog<br> ima značajnije smanjenu osjetljivost na kontraste<br> M: testovi za utvrđivanje osjetljivosti na kontraste<br> S: oftalmolog/stručnjak za vid<br> ima velike poteškoće u vizualnom funkcioniranju, treba pomoć stručnjaka u razvijanju vizualnih sposobnosti i učenju uporabe postojećeg ostatka vida (primjerena prilagodba odraslim osobama)<br> M: prema Testu za procjenu vizualne sposobnosti slabovidnih (Program to developefficiencyinvisualfunctioning) autora Barraga N., Morris J., rješava 6 – 50% čestica (čestice 3-24) tj. razina vizualnog razvoja je od 3 mjeseca do 2 godine (kod odraslih osoba koje su u kasnijoj životnoj dobi izgubile vid)<br> S: edukacijski rehabilitator<br> za čitanje koristi snažnija optička ili elektronička povećala (uvećanje veće od 5x) ili čita uvećani tisak na udaljenosti manjoj od 10 cm sa ili bez optičkog povećala (2-4x). Čitanje je sporije.<br> M:radni materijal na crnom tisku, optička pomagala<br> S:stručnjak za vid/edukacijski rehabilitator<br> za svakodnevne vještine potrebna je svakodnevna pomoć druge osobe<br> M: rješava 20-50% čestica sadržanih u Listi s aktivnostima svakodnevnog življenja<br> S: edukacijski rehabilitator<br> samostalno se kreće u poznatim prostorima, a u svim drugim slučajevima treba pomoć<br> M: rješava 30-60% čestica sadržanih u Listi s aktivnostima svakodnevnog življenja, dio koji se odnosi na orijentaciju i kretanje<br> S: edukacijski rehabilitator<br> ukoliko na testu psihomotornog razvoja/ intelektualnih sposobnosti postiže IQ rezultat u okvirima umjerenog zaostajanja i/ili na testovima osobnosti, emocionalne prilagodbe i socijalne kompetencije, odnosno u psihologijskoj procjeni postiže rezultate koji ukazuju na poremećenu strukturu osobnosti i vrlo slabo razvijene socijalne kompetencije<br> M: test psihomotornog razvoja/ intelektualnih sposobnosti te testovi osobnosti, emocionalne prilagodbe i socijalne kompetencije<br> S: psiholog</td>
 <td>ima visoku (0,016 ili manje) ili potpunu sljepoću prema Colenbranderu (sa ili bez osjeta svjetla) ili koncentrično suženje vidnog polja boljeg oka sa najboljom mogućom korekcijom na 5-10 stupnjeva oko fiksacijske točke<br> M: testovi za utvrđivanje vidne oštrine i vidnog polja<br> S: oftalmolog<br> ne koristi vid kao izvor informacija u okolini<br> M:prema Testu za procjenu vizualne sposobnosti slabovidnih (Program to developefficiencyinvisualfunctioning) autora Barraga N., Morris J., rješava 0 – 5% čestica (čestice 1 i 2) tj. razina vizualnog razvoja je 1-3 mjeseca (kod odraslih osoba koje su u kasnijoj životnoj dobi izgubile vid)<br> S: edukacijski rehabilitator<br> koristi se prvenstveno brajicom ali za kraće čitanje može koristiti elektroničko povećalo<br> M:radni materijal na crnom tisku/brajici, elektroničko povećalo<br> S:stručnjak za vid/edukacijski rehabilitator<br> za svakodnevne vještine potrebna je svakodnevna pomoć/ asistencija druge osobe (člana obitelji ili druge educirane osobe)<br> M: rješava do 20% čestica sadržanih u Listi sa aktivnostima svakodnevnog življenja<br> S: edukacijski rehabilitator<br> samostalno se kreće u poznatom prostoru, a u svim drugim situacijama treba pomoć<br> M: rješava do 30% čestica sadržanih u Listi sa aktivnostima svakodnevnog življenja, dio koji se odnosi na orijentaciju i kretanje<br> S: edukacijski rehabilitator<br> ukoliko na testovima/skalama intelektualnih sposobnosti psihomotornog razvoja/ postiže IQ rezultat u okvirima težeg ili teškog zaostajanja i/ili na psihologijskoj procjeni postiže rezultate koji ukazuju na nerazvijenu/znatno narušenu strukturu osobnosti, izrazitu emocionalnu nestabilnost i odsustvo socijalnih kompetencija.<br> M: test psihomotornog razvoja/ intelektualnih sposobnosti te testovi osobnosti, emocionalne prilagodbe i socijalne kompetencije<br> S: psiholog</td>
 </tr>
-
 <tr>
 <td colspan="5">Napomene vezane uz ocjenu funkcionalnosti osoba oštećena vida:<br> Napomena1: Ukoliko se na Testu za procjenu vizualne sposobnosti slabovidnih (Program to developefficiencyinvisualfunctioning) autora Barraga N., Morris J., dobiju viši rezultati, koji su u suprotnosti s funkcioniranjem u svakodnevnom životu (a što je moguće zbog specifičnih uvjeta provođenja testiranja) osoba ulazi za jednu višu kategoriju.<br> Napomena2: Ukoliko se na bilo kojem području provjere funkcionalnosti dobije rezultat potpunog oštećenja funkcionalnosti, osoba ulazi za jednu višu kategoriju oštećenja funkcionalnosti.<br> Napomena 3: CZOO Vinko Bek bi trebao biti konzultantska ustanova za utvrđivanje funkcionalnosti</td>
 </tr>
@@ -4749,7 +4384,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 </table>
 
 <table><tbody>
-
 <tr>
 <td>Oštećenje sluha<br> Opisi razina vrijede za odrasle i djecu.</td>
 <td colspan="2">Nagluha osoba čija razina funkcioniranja, uz korištenje pomagala, omogućuje samostalno primanje informacija i komunikaciju u većini svakodnevnih situacija.<br> M:audiogram za razmjer oštećenja sluha + Profil ishoda rehabilitacije slušanja (PIRS)<br> S: audiolog/ORl za razmjer oštećenja sluha; logoped<br> Procjenu funkcionalnih teškoća za odrasle radi logoped koristeći PIRS.<br> Kod većih rezultata PIRS-a uputno je, radi rizika od socijalne izolacije, obaviti psihološku procjenu koristeći polustrukturirani intervju »Psihosocijalna procjena osoba s gubitkom sluha u odrasloj dobi<br> (PPOGS)«.<br> Procjenu jezičnih vještina za djecu radi logoped koristeći:<br> Komunikacijske razvojne ljestvice – Koralje<br> Peabody slikovni test rječnika – PPVT-III-HR<br> Reynell razvojne ljestvice govora – RLJG<br> Test razumijevanja gramatike – TROG-2:HR<br> Test za procjenjivanje predvještina čitanja i pisanja – PredČiP</td>
@@ -4757,11 +4391,9 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td>Gluha osoba čija razina funkcioniranja, usprkos korištenja pomagala, ne omogućuje samostalno primanje informacija i komunikaciju.Za aktivnosti svakodnevnog života koje omogućavaju uključivanje u društvo, edukaciju i razmjenu informacija sa čujućom okolinom potrebna je stalna komunikacijska podrška u smislu znakovnog jezika i ostalih sustava komunikacije.<br> M: tonski i govorni audiogram za razmjer oštećenja sluha +potvrda Hrvatskog društva stručnih komunikacijskih posrednika o poznavanju znakovnog jezika<br> S: audiolog/ORL za razmjer oštećenja sluha<br> Procjenu funkcionalnih teškoća za odrasle radi logoped koristeći PIRS.<br> Kod većih rezultata PIRS-a uputno je, radi rizika od socijalne izolacije, obaviti psihološku procjenu koristeći polustrukturirani intervju »Psihosocijalna procjena osoba s gubitkom sluha u odrasloj dobi<br> (PPOGS)«.<br> Procjenu jezičnih vještina za djecu radi logoped koristeći:<br> Komunikacijske razvojne ljestvice – Koralje<br> Peabody slikovni test rječnika – PPVT-III-HR<br> Reynell razvojne ljestvice govora – RLJG<br> Test razumijevanja gramatike – TROG-2:HR<br> Test za procjenjivanje predvještina čitanja i pisanja – PredČiP</td>
 <td colspan="3">Gluha osoba koja ne koristi ili ne može koristiti znakovni jezik i ostale sustave komunikacije i/ili ima dodatne teškoće iz ovoga propisa te treba stalnu pomoć druge osobe za sve aktivnosti.<br> M: tonski i govorni audiogram za razmjer oštećenja sluha +potvrda Hrvatskog društva stručnih komunikacijskih posrednika o nemogućnosti korištenja znakovnog jezika<br> S: audiolog/ORl za razmjer oštećenja sluha;<br> Procjenu jezičnih vještina za djecu radi logoped koristeći:<br> Komunikacijske razvojne ljestvice – Koralje<br> Peabody slikovni test rječnika – PPVT-III-HR<br> Reynell razvojne ljestvice govora – RLJG<br> Test razumijevanja gramatike – TROG-2:HR<br> Test za procjenjivanje predvještina čitanja i pisanja – PredČiP</td>
 </tr>
-
 <tr>
 <td colspan="10">Kod djece rođene s umjerenim ili većim oštećenjem sluha preporuka je da kreću od razine 3, ako nemaju dodatne teškoće. Ista je preporuka za djecu koja su umjereno ili veće oštećenje sluha stekla u prve tri godine života te za djecu s blagim progresivnim oštećenjima sluha.<br> Razlog je otežano učenje jezika i otežano slučajno učenje uslijed smanjenog pristupa govoru i okolnim zvukovima, što izravno utječe na kognitivni razvoj. Obitelj i okolina zato stalno moraju posredovati u komunikaciji (bilo potpomaganjem primanja i učenja govorenog jezika, bilo znakovnim jezikom) jer će u protivnom, uslijed teškoća u komunikaciji, biti ugrožen kognitivni razvoj djeteta. Djeca s prirođenim ili rano stečenim oštećenjem sluha trebaju stalnu komunikacijsku podršku jer jezik uče strukturirano intenzivnom terapijom (ne slučajnim učenjem, kao čujuća djeca). Terapija je dugotrajna (višegodišnja) i vrlo zahtjevna za dijete i ne može se odgovarajuće provesti bez velikog angažmana obitelji, a provodi se s ciljem uključivanja u društvo i u redovne oblike edukacije. Bez intenzivne logopedske terapije ti se ciljevi neće ostvariti. Termin "podrška" obuhvaća ne samo znakovni jezik, već i sve oblike prilagodbe sugovornika i prilagodbe okolnih uvjeta djetetovim komunikacijskim, odgojnim i obrazovnim potrebama.</td>
 </tr>
-
 <tr>
 <td colspan="2">Poremećaj glasa, jezika i govora – djeca<br> Glas<br> Jezik i govor<br> Poremećaj glasa, jezika i govora – odrasli<br> Glas<br> Jezik i govor</td>
 <td colspan="2">Govorna komunikacija je moguća u povoljnim komunikacijskim uvjetima. Govor je uglavnom razumljiv nepoznatim osobama u većini svakodnevnih situacija.<br> M: akustička analiza + perceptivna procjena + procjena roditelja<br> S: ORL + logoped<br> – akustički program za analizu glasa<br> – GRBAS<br> – pVHI (hrv. verzija)<br> Procjenu jezičnih vještina za djecu radi logoped koristeći:<br> Test artikulacije<br> Komunikacijske razvojne ljestvice – Koralje<br> Peabody slikovni test rječnika – PPVT– III-HR<br> Reynell razvojne ljestvice govora – RLJG<br> Test razumijevanja gramatike – TROG-2:HR<br> Test za procjenjivanje predvještina čitanja i pisanja – PredČiP<br> Probirni test procjene jezičnih sposobnosti u predškolskoj dobi<br> M: akustička analiza + perceptivna procjena + procjena roditelja<br> S: ORL + logoped<br> – akustički program za analizu glasa<br> – GRBAS<br> – VHI (hrv. verzija)<br> Test razumijevanja gramatike – TROG-2:HR<br> Peabody slikovni test rječnika – PPVT-III-HR<br> ComprehensiveAphasia Test (hrv. verzija)</td>
@@ -4769,7 +4401,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td colspan="3">Govorna komunikacija je moguća samo uz korištenje pomagala koje osigurava podršku izdaha, povećanje intenziteta ili zamjenski zvuk. Govor je ostvariv u najpovoljnijim komunikacijskim uvjetima i nije u potpunosti razumljiv.<br> M: akustička analiza + perceptivna procjena + procjena roditelja<br> S: ORL + logoped<br> – akustički program za analizu glasa<br> – GRBAS<br> – pVHI (hrv. verzija)<br> Procjenu jezičnih vještina za djecu radi logoped koristeći:<br> Komunikacijske razvojne ljestvice – Koralje<br> Peabody slikovni test rječnika – PPVT-III-HR<br> Reynell razvojne ljestvice govora – RLJG<br> Test razumijevanja gramatike – TROG-2:HR<br> Test za procjenjivanje predvještina čitanja i pisanja – PredČiP<br> Probirni test procjene jezičnih sposobnosti u predškolskoj dobi<br> M: akustička analiza + perceptivna procjena + procjena roditelja<br> S: ORL + logoped<br> – akustički program za analizu glasa<br> – GRBAS<br> – VHI (hrv. verzija)<br> Test razumijevanja gramatike – TROG-2:HR<br> Peabody slikovni test rječnika – PPVT-III-HR<br> ComprehensiveAphasia Test (hrv. verzija)</td>
 <td>– Govorna komunikacija se ne može ostvariti, koristi se nadomjesna komunikacija.<br> M: akustička analiza + perceptivna procjena + procjena roditelja<br> S: ORL + logoped<br> – akustički program za analizu glasa<br> – GRBAS<br> – pVHI (hrv. verzija)<br> Procjenu jezičnih vještina za djecu radi logoped koristeći:<br> Komunikacijske razvojne ljestvice – Koralje<br> Peabody slikovni test rječnika – PPVT-III-HR<br> Reynell razvojne ljestvice govora – RLJG<br> Test razumijevanja gramatike – TROG-2:HR<br> Test za procjenjivanje predvještina čitanja i pisanja – PredČiP<br> Probirni test procjene jezičnih sposobnosti u predškolskoj dobi<br> M: akustička analiza + perceptivna procjena + procjena roditelja<br> S: ORL + logoped<br> – akustički program za analizu glasa<br> – GRBAS<br> – VHI (hrv. verzija)<br> Test razumijevanja gramatike – TROG-2:HR<br> Peabody slikovni test rječnika – PPVT-III-HR<br> ComprehensiveAphasia Test (hrv. verzija)</td>
 </tr>
-
 <tr>
 <td colspan="2">Gluhoslijepoća</td>
 <td colspan="2"></td>
@@ -4777,7 +4408,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td colspan="3">gluhoslijepoj osobi, s razmjerom oštećenja razine II, III i IV, u skladu s Listom oštećenja, čije funkcioniranje uz korištenje pomagala (štap,naočale, slušni aparat) omogućuje samostalno kretanje i komunikaciju samo u poznatim okruženjima, dok će na svim novim mjestima, u situacijama socijalizacije, edukacije i primanja informacija, osobi biti potrebna podrška<br> M: audiogram + nalaz vida<br> S: audiolog/ORL, oftalmolog, edukacijski rehabilitator za gluhoslijepe</td>
 <td>gluhoslijepoj osobi, s razmjerom oštećenja razine II, III i IV u skladu s Listom oštećenja, čije funkcioniranje uz korištenje pomagala (štap,naočale, slušni aparat) ne omogućava samostalno kretanje, bez obzira na poznatost mjesta, a komunikacijska podrška potrebna joj je u svim situacijama koje omogućavaju uključivanje u društvo, edukaciju i primanje informacija<br> M: audiogram + nalaz vida<br> S: audiolog/ORL, oftalmolog, edukacijski rehabilitator za gluhoslijepe</td>
 </tr>
-
 <tr>
 <td colspan="2">Intelektualne teškoće</td>
 <td colspan="2">Osobi s lakim intelektualnim teškoćama koja može samostalno svakodnevno funkcionirati osim u složenijim životnim situacijama koje se povremeno javljaju i zahtijevaju povremenu podršku (superviziju, učenje, fizičku podršku), tjedno ili rjeđe, a odnosi se na planiranje budžeta, plaćanje računa, dogovore i posjete liječniku, zapošljavanje, zaštitu i samozastupanje itd.<br> M: test inteligencije, adaptivna ljestvicanpr.WAIS, WISC, Vineland, AAMD i sl.+ skala podrške npr. SIS i sl. S: psiholog+ edukacijski rehab.</td>
@@ -4785,7 +4415,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td colspan="3">Osobi s lakim ili umjerenim intelektualnim teškoćama koja zahtijeva ograničenu podršku-kontinuiranu u određenim aktivnostima na dnevnoj bazi, do 3 sata dnevno, na primjer podrška (supervizija, trening, fizička podrška) pri kupanju, oblačenju, pripremi obroka, kupovini, uzimanju lijekova i<br> slično<br> M: test inteligencije, adaptivna<br> ljestvicanpr.WAIS, WISC, Vineland, AAMD i sl.+ skala podrške npr. SIS i sl.<br> S: psiholog+ edukacijski rehabilitator</td>
 <td>Osobi s intelektualnim teškoćom umjerenog, težeg, teškog ili lakog stupnja sa komorbiditetom koja zahtijeva intenzivnu podršku tijekom cijelog dana za različite svakodnevne aktivnosti (kontinuirana dnevna podrška)<br> M: test inteligencije, adaptivna ljestvicanpr.WAIS, WISC, Vineland, AAMD i sl.+ skala podrške npr. SIS i sl.<br> S: psiholog+ edukacijski rehabilitator</td>
 </tr>
-
 <tr>
 <td colspan="2">Poremećaji iz autističnog spektra</td>
 <td colspan="2"></td>
@@ -4793,7 +4422,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td colspan="3">Dijete / osoba se, uz primjerenu podršku, može uključiti u školovanje u redovnim uvjetima prema individualiziranom pristupu ili u rad u otvorenim uvjetima ili zaštitnim poduzećima na redovnoj osnovi te može koristiti većinu javnih usluga uz primjerenu podršku. Potrebna kontinuirana podršku (praćenje /supervizija, usmjeravanje i vođenje), u većini aktivnosti svakodnevnog života. Intelektualno funkcioniranje može biti u granicama prosječnog, natprosječnog ili graničnog funkcioniranja, rjeđe blažeg intelektualnog zaostajanja, ali dijete / osoba značajno zaostaje u socio-emocionalnom razvoju i stjecanju adaptivnih vještina potrebnih za svakodnevni život. Podrška je prvenstveno usmjerena na snalaženje u socijalnim situacijama i procjenjuje se prema sljedećim kriterijima:<br> M: SOCIJALNA KOMUNIKACIJA Dijete / osoba ima smanjeni interes za socijalne interakcije i uočljive su poteškoće u iniciranju socijalnih interakcija i razumijevanju novih socijalnih situacija. Dijete/osoba se redovito služi govorom i/ili potpomognutom komunikacijom bez posebnog poticanja, premda treba određenu podršku u izražavanju pojedinih složenijih sadržaja i doživljaja ili u razmjeni bitnih informacija. Dijete / osoba pokazuje jasne primjere atipičnih ili neuspješnih odgovora na socijalnu inicijativu drugih.<br> OGRANIČENI INTERESI I PONAVLJAJUĆA PONAŠANJA<br> Kod djeteta/osobe redovno su prisutni rituali i ponavljajuća ponašanja što općenito značajno narušava funkcionalno ponašanje. Ponavljajuća ponašanja otporna su na pokušaje prekida od strane druge osobe. Uski interesi (fiksacije) otporni na preusmjeravanje.<br> FUNKCIONALNO PONAŠANJE: Dijete/osoba je djelomično samostalna u zadovoljavanju svojih egzistencijalnih potreba, brine u nekoj mjeri o vlastitom zdravlju i integritetu te može u mnogim svakodnevnim situacijama prilagoditi svoje ponašanje, prepoznaje potrebu i osposobljena je tražiti pomoć od drugih kada joj je ista potrebna. Potrebna je redovita podrška u pojedinim svakodnevnim situacijama, te podrška u snalaženju u novim situacijama. Nepoželjna ponašanja su rijetka, manje jakosti i učestalosti,i (obično verbalna agresija) ciljani izvor frustracije . Postignuća na Vineland skali na područjima komunikacija (iznad 4. God) i socijalizacija značajno su ispodprosječna za dob (3.5) i u odnosu na intelektualne sposobnosti, Neprilagođeni nepoželjni oblici ponašanja variraju prema učestalost obliku i jačini .<br> Ispitivanjem na skali ADOS razina II III (Moduli 2. I ili 3.)<br> • Nalaz psihologa (IQ cca za laku 50-69; za umjerenu 35-49 + adaptivnu ljestvicu)<br> • Nalaz defektologa konzultanta (SIS)<br> – Cars II<br> S: psiholog, psihijatar/dječji psihijatar, rehabilitator, logoped</td>
 <td>Dijete / osoba zbog težine oštećenja i pridruženih teškoća na planu ponašanja, mentalnog ili općeg zdravlja treba zaštićene uvjete školovanja i življenja koji zahtijevaju visoko strukturirani pristup i vrlo visoku razinu trajne podrške. Osobi s PAS i komorbiditetom koja zahtijeva intenzivnu 24 satnu svakodnevnu nadzor i podršku. Podrška je prvenstveno usmjerena na pomoć u zadovoljavanju egzistencijalnih potreba i očuvanju integriteta i procjenjuje se prema sljedećim kriterijima:<br> M: SOCIJALNA KOMUNIKACIJA:Dijete / osoba pokazuje značajan deficit verbalnih i neverbalnih socijalnih-komunikacijskih vještina u odnosu na svoju dob. Iniciranje socijalnih interakcija je vrlo ograničeno i usmjereno samo na pojedine osobe i situacije, a odgovori na socijalnu inicijativu drugih, uglavnom su neprimjereni ili izostaju. Dijete/osoba komunicira većinom neverbalno ili pojedinačnim riječima u funkciji zadovoljavanja svojih potreba ili svoje potrebe pokazuje atipičnim neverbalnim ponašanjima.<br> OGRANIČENI INTERESI I PONAVLJAJUĆA PONAŠANJA:Kod djeteta/osobe su prisutni rituali i ponavljajuća ponašanja i/ili preokupacijei/ili ograničeni interesi tako često i intenzivno da su vrlo lako uočljivi i pri nasumičnom promatranju,a značajno ometaju funkcioniranje u različitim ili svim životnim situacijama. Vidljiva je tjeskoba ili frustracija kada se takvo ponašanje prekida i teško je preusmjeriti osobu iz njene fiksacije na neki interes ili se ona na njega ubrzo vraća. Prisutna je značajna tjeskoba gotovo pri svakoj promjeni rutine ili prijelazu na novo.<br> FUNKCIONALNO PONAŠANJE:Dijete/osoba treba kontinuiranu podršku (djelomičnu fizičku podršku i verbalno usmjeravanje) ili je potpuno ovisna o podršci pri zadovoljavanju većine potreba (vršenje nužde, prehrana, higijena i njega, odmor i spavanje), a posebno u zaštiti zdravlja i vlastitog integriteta. Dijete/osoba povremeno ili kontinuirano izražava nepoželjna ponašanja koja variraju obzirom na oblik (autoagresivnost, agresivnost, destruktivnost, stereotipije), jakost i učestalost.<br> Intelektualno funkcioniranje je ispodprosječno ili značajno ispodprosječno, a dijete / osoba značajno zaostaje u socio-emocionalnom razvoju i stjecanju adaptivnih vještina čak i u odnosu na snižene intelektualne sposobnosti i funkcionalne dnevne vještine. Postignuća na Vineland skali na područjima komunikacija i socijalizacija značajno odstupaju od postignuća na drugim područjima mjerenja (2 standard. Dev.) dok su neprilagođena ponašanja vrlo izražena. Ispitivanjem na skali ADOS dijete / osoba postiže signifikante rezultate razine I . (modul 1)<br> Nalaz psihologa (IQ cca za laku 50-69; za umjerenu 35-49; za težu ispod 34 + adaptivnu ljestvicu)<br> • Nalaz defektologa konzultanta (SIS)<br> – Cars II<br> S: psiholog, psihijatar/dječji psihijatar, rehabilitator, logoped</td>
 </tr>
-
 <tr>
 <td colspan="2">Duševne bolesti</td>
 <td colspan="2">Ukoliko osoba može samostalno svakodnevno funkcionirati osim u složenijim životnim situacijama koje se povremeno javljaju i zahtijevaju povremenu podršku (superviziju, učenje, psihosocijalnu podršku), tjedno ili rjeđe, a odnosi se na planiranje budžeta, plaćanje računa, dogovore i posjete liječniku, zapošljavanje, uspostavu socijalnih kontakata, samozastupanje itd.<br> M:Potvrdu iz medicinske dokumentacije (psihijatrijsko vještačenje mora sadržati procjenu funkcionalnosti u skladu s ovim razinama) + terenski izvid te izvješće socijalnog vještaka i/ili radnog terapeuta vještaka i/ili vještaka psihologa Procjena prema MKF-u, skala i + priručnik prema Štrkalj IvezićS: psihijatar, radni terapeut, psiholog, socijalni radnik</td>
@@ -4801,12 +4429,10 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td colspan="3">ukoliko je osoba djelomično ovisna o pomoći druge osobe za zadovoljavanje potreba dnevne rutine (održavanje kućanstva, kupovina,plaćanje računa, posjet liječniku, uzimanje lijekova i sl) i psihosocijalnih potreba (održavanje socijalnih veza, organizacija slobodnog vremena i sl) te treba pomoć druge osobe u trajanju od 3 ili više sati dnevno<br> M:Potvrdu iz medicinske dokumentacije (psihijatrijsko vještačenje mora sadržati procjenu funkcionalnosti u skladu s ovim razinama) + terenski izvid te izvješće socijalnog vještaka i/ili radnog terapeuta vještaka i/ili vještaka psihologa + priručnik prema Štrkalj Ivezić<br> S: psihijatar, radni terapeut, psiholog, socijalni radnik</td>
 <td>ukoliko je osoba ovisna o pomoći druge osobe za zadovoljavanje potreba dnevne rutine i psihosocijalnih potreba te zahtijeva intenzivnu podršku tijekom cijelog dana za različite aktivnosti (kontinuirana podrška)<br> M:Potvrdu iz medicinske dokumentacije (psihijatrijsko vještačenje mora sadržati procjenu funkcionalnosti u skladu s ovim razinama) + terenski izvid te izvješće socijalnog vještaka i/ili radnog terapeuta vještaka i/ili vještaka psihologa + priručnik prema Štrkalj Ivezić<br> S: psihijatar, radni terapeut, psiholog, socijalni radnik</td>
 </tr>
-
 <tr>
 <td colspan="2">Teške kronične bolesti</td>
 <td colspan="8">Osobama koje su u terminalnoj fazi ili dekompenzaciji kroničnih bolesti te djeci sa malignim bolestima čije liječenje nužno zahtjeva transplantaciju organa, kemo ili nadomjesnu terapiju, dijaliza, parenteralna prehrana, oksigenator, mehanički respirator, ugrađivanje stome, trahealne kanile, svakodnevna mehanička zaštita kože i sl imaju razinu:</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td>kronične bolesti kod djece kojih je potrebna stalna terapija i/ ili dijeta uz pojačani skrb druge osobe<br> M: medicinska dokumentacija<br> S: liječnik vještak specijalist(pedijatar, školska medicina, medicina rada itd)</td>
@@ -4814,7 +4440,6 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td colspan="3">– ukoliko je potrebna povremena pomoć (1-2X) tjedno za svakodnevno funkcioniranje<br> M: medicinska dokumentacija<br> S: liječnik vještak specijalist(pedijatar, školska medicina, medicina rada itd)</td>
 <td colspan="2">ukoliko je potrebna pomoć u punom opsegu za svakodnevno funkcioniranje<br> M: medicinska dokumentacija<br> S: liječnik vještak specijalist(pedijatar, školska medicina, medicina rada itd)</td>
 </tr>
-
 <tr>
 <td colspan="2">Razvojne teškoće koje nisu definirane Listom oštećenja</td>
 <td>dijete s blažim odstupanjem u razvoju kod kojeg je potrebno uključenje u jedan od oblika habilitacije uz povremen nadzor stručnjaka<br> Odnosi se na djecu s nepoznatim ili niskim perinatalnim neurorizikom a potrebno je stimulirati motorički razvoj u ranoj fazi razvoja fizikalnom terapijom. Također odnosi se na djecu kod koje je zbog blažeg oblika govornog razvoja potrebno uključenje u neki oblik individualne logoterapije.<br> M: medicinska dokumentacija<br> S:spec. pedijatar</td>
@@ -4822,11 +4447,9 @@ Neurološki ispadi u određenim funkcionalnim sustavima
 <td colspan="3">dijete kod kojeg je potvrđeno umjereno ili višestruko razvojno odstupanje te je potrebno provođenje intenzivnog ili više oblika habilitacijkih postupaka uz nadzor tima stručnjaka<br> M: medicinska dokumentacija<br> S: pedijatar</td>
 <td colspan="2">dijete s teškim razvojnim odstupanjem ili dijete kod kojeg je uz razvojno odstupanje pridruženo trajno oštećenje senzornih ili somatskih organa zbog kojih je uz habilitacijske postupke potrebna dodatna njega, primjena lijekova ili potpomaganje vitalnih funkcija(hranjenje, eliminacija stolice, mokraće…)<br> M: medicinska dokumentacija<br> S: pedijatar</td>
 </tr>
-
 <tr>
 <td colspan="10">Tempo revještačanja za djecu sa razvojnim teškoćama bio: od 6 mj – 2 godine za prve dvije razine 6 mj, 3. razina nakon 1 godine, a 4. nakon 2 godine.</td>
 </tr>
-
 <tr>
 <td colspan="3">J) Višestruke teškoća – potrebno definirati<br> 1 i 1 = 1 (1 i 1 i 1 =2)<br> 2 i 2 = 3<br> 3 i 3= 4<br> Ako su različiti stupnjevi računa se po većem.</td>
 <td colspan="3"></td>

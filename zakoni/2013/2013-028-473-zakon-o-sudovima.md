@@ -6,14 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-03-06
-last_amended: 2016-09-14
+last_amended: 2025-11-05
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "28/13, 33/15, 82/16"
+narodne_novine: "28/13, 33/15, 82/16, 67/18, 21/22, 36/24, 136/25"
 amendments:
   - "NN 33/2015 (679) Zakon o izmjenama i dopunama Zakona o sudovima"
   - "NN 82/2016 (1834) Uredba o dopuni Zakona o sudovima"
+  - "NN 67/2018 (1362) Zakon o izmjenama i dopunama Zakona o sudovima"
+  - "NN 21/2022 (222) Zakon o izmjenama i dopunama Zakona o sudovima"
+  - "NN 36/2024 (568) Zakon o izmjenama i dopunama Zakona o sudovima"
+  - "NN 136/2025 (2016) Zakon o izmjenama i dopunama Zakona o sudovima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/28/473"
 retrieved: 2026-10-12
 ---
@@ -22,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 28/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/28/473).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 33/2015, NN 82/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 33/2015, NN 82/2016, NN 67/2018, NN 21/2022, NN 36/2024, NN 136/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1910,3 +1914,2165 @@ Zagreb, 14. rujna 2016.
 
 Predsjednik  
 Tihomir Orešković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sudovima (NN 67/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/67/1362*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudovima, koji je Hrvatski sabor donio na sjednici 6. srpnja 2018.
+
+Klasa: 011-01/18-01/86
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 10. srpnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA**
+
+#### Članak 1.
+
+U Zakonu o sudovima (»Narodne novine«, br. 28/13., 33/15. i 82/15.) u članku 1. stavku 1. riječi: »poslovi tajnika suda« brišu se.
+
+#### Članak 2.
+
+U članku 3. stavku 1. iza riječi: »Ustavom« stavlja se zarez i dodaju se riječi: »pravnom stečevinom Europske unije,«.
+
+#### Članak 3.
+
+U članku 5. iza riječi: »Ustava« stavlja se zarez i dodaju riječi: »pravne stečevine Europske unije,«.
+
+#### Članak 4.
+
+U članku 9. iza riječi: »sudaca« dodaju se riječi: »i dodaci na plaće sudaca«.
+
+#### Članak 5.
+
+U članku 10. stavku 1. druga rečenica briše se.
+
+U stavku 2. iza riječi: »pravosuđa« dodaje se zarez i riječi: »a pravomoćan godišnji raspored poslova općinskog suda i predsjedniku Visokog prekršajnog suda Republike Hrvatske.«.
+
+U stavku 3. riječ: »prvenstvo« zamjenjuje se riječju: »prednost«.
+
+U stavku 5. riječi: »svaka tri mjeseca« zamjenjuju se riječima: »najmanje dva puta godišnje«, a riječ: »prvenstvo« zamjenjuje se riječju: »prednost«.
+
+#### Članak 6.
+
+U članku 13. stavku 1. riječi: »naziv suda« zamjenjuju se riječima: »naziv i sjedište suda«.
+
+#### Članak 7.
+
+U članku 14. stavak 3. mijenja se i glasi:
+
+»(3) Specijalizirani sudovi su trgovački sudovi, upravni sudovi, Visoki trgovački sud Republike Hrvatske, Visoki upravni sud Republike Hrvatske, Visoki prekršajni sud Republike Hrvatske i Visoki kazneni sud Republike Hrvatske.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Zakonom se može odrediti nadležnost jednog ili više sudova za odlučivanje u pojedinoj vrsti predmeta za područje jednog, više ili svih sudova te vrste.«.
+
+#### Članak 8.
+
+U članku 15. stavku 1. riječi: »i prekršajni« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Visoki trgovački sud Republike Hrvatske, Visoki upravni sud Republike Hrvatske, Visoki prekršajni sud Republike Hrvatske i Visoki kazneni sud Republike Hrvatske ustanovljavaju se za područje Republike Hrvatske sa sjedištem u Zagrebu.«.
+
+#### Članak 9.
+
+U članku 16. stavku 2. riječi: »trgovački, upravni i prekršajni« zamjenjuju se riječima: »trgovački i upravni«, a riječ: »iznimno« briše se.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) U osnovanim stalnim službama i odjelima izvan sjedišta suda moraju se osigurati uvjeti za poduzimanje postupovnih radnji radi rješavanja predmeta iz nadležnosti suda koji se odnose na ove ustrojstvene jedinice.«.
+
+Dosadašnji stavci 4., 5., 6. i 7. postaju stavci 5., 6., 7. i 8.
+
+#### Članak 10.
+
+Članak 18. mijenja se i glasi:
+
+»Općinski sudovi:
+
+1. rješavaju parnične, izvanparnične i ovršne predmete,
+
+2. rješavaju ostavinske predmete, zemljišnoknjižne predmete i vode zemljišne knjige,
+
+3. rješavaju kaznene predmete, osim onih za koje je zakonom propisana stvarna nadležnost drugog suda,
+
+4. rješavaju prekršajne predmete, osim onih za koje je zakonom propisana stvarna nadležnost drugog tijela,
+
+5. odlučuju o priznanju i ovrsi stranih sudskih odluka i odluka drugih tijela koje su u državi u kojoj su donesene izjednačene sa sudskim odlukama,
+
+6. obavljaju poslove međunarodne pravne pomoći u postupcima iz svoje nadležnosti,
+
+7. obavljaju poslove pravosudne suradnje s državama članicama Europske unije u postupcima iz svoje nadležnosti,
+
+8. obavljaju i druge poslove određene zakonom.«.
+
+#### Članak 11.
+
+Članak 19. mijenja se i glasi:
+
+»Županijski sudovi:
+
+1. rješavaju o žalbama protiv odluka općinskih sudova, osim ako je zakonom drukčije propisano,
+
+2. rješavaju predmete u prvom stupnju kada je njihova nadležnost propisana zakonom,
+
+3. provode istražni i javnobilježnički stegovni postupak zbog stegovnih prijestupa i odlučuju o tim prijestupima u prvom stupnju, kad je to određeno zakonom,
+
+4. odlučuju o žalbama protiv odluka u stegovnim postupcima zbog neurednosti u obavljanju poslova javnih bilježnika, kad je to određeno zakonom,
+
+5. obavljaju poslove međunarodne pravne pomoći u postupcima iz svoje nadležnosti,
+
+6. obavljaju poslove međunarodne pravosudne suradnje s državama članicama Europske unije u postupcima iz svoje nadležnosti, osim u prekršajnim predmetima,
+
+7. provode izvršenje strane kaznene odluke,
+
+8. obavljaju i druge poslove određene zakonom.«.
+
+#### Članak 12.
+
+U članku 20. točka 5. mijenja se i glasi:
+
+»5. razmatra aktualna pitanja sudske prakse te predlaže područja za stručno usavršavanje sudaca, sudskih savjetnika i sudačkih vježbenika radi podizanja učinkovitosti i kvalitete pravosuđa u cjelini,«.
+
+Iza točke 5. dodaje se točka 6. koja glasi:
+
+»6. obavlja druge poslove određene zakonom.«.
+
+#### Članak 13.
+
+Članak 21. mijenja se i glasi:
+
+»Trgovački sudovi:
+
+1. odlučuju u parničnim i izvanparničnim stvarima kada je to propisano posebnim zakonom,
+
+2. postupaju u registarskim stvarima i vode sudske registre,
+
+3. odlučuju o prijedlozima u svezi s osnivanjem, radom i prestankom trgovačkog društva,
+
+4. odlučuju o prijedlozima za otvaranje stečajnog postupka i provode predstečajne i stečajne postupke,
+
+5. odlučuju o upisima u upisnik brodova i jahti u onim stvarima koje su Pomorskim zakonikom stavljene u nadležnost trgovačkog suda, ograničenju odgovornosti brodara, prigovorima protiv konačne diobene osnove za likvidaciju zajedničke havarije, ako zakonom za pojedinu vrstu predmeta nije drukčije određeno,
+
+6. provode postupak priznanja inozemnih sudskih odluka, kao i arbitražnih odluka u trgovačkim sporovima,
+
+7. provode osiguranje dokaza za postupke za koje su inače nadležni,
+
+8. određuju mjere osiguranja u postupcima i povodom postupaka u kojima su inače nadležni,
+
+9. obavljaju poslove međunarodne pravne pomoći u izvođenju dokaza u trgovačkim stvarima,
+
+10. obavljaju i druge poslove određene zakonom.«.
+
+#### Članak 14.
+
+Članak 23. briše se.
+
+#### Članak 15.
+
+Članak 26. mijenja se i glasi:
+
+»Visoki prekršajni sud Republike Hrvatske:
+
+1. odlučuje o redovnim pravnim lijekovima protiv odluka općinskih sudova u prekršajnim predmetima i odluka javnopravnih tijela koja vode prvostupanjski prekršajni postupak kada je to propisano posebnim zakonom,
+
+2. rješava sukob nadležnosti između općinskih sudova u prekršajnim predmetima,
+
+3. odlučuje o izvanrednim pravnim lijekovima protiv pravomoćnih odluka o prekršaju kada je to propisano posebnim zakonom,
+
+4. odlučuje o žalbama u predmetima međunarodne pravosudne suradnje s državama članicama Europske unije iz prekršajne nadležnosti,
+
+5. provodi nadzor nad urednim obavljanjem poslova sudaca koji rade na prekršajnim predmetima,
+
+6. obavlja druge poslove određene zakonom.«.
+
+#### Članak 16.
+
+Iza članka 26. dodaje se članak 26.a koji glasi:
+
+»Članak 26.a
+
+Visoki kazneni sud Republike Hrvatske:
+
+1. odlučuje u drugom stupnju o žalbama protiv odluka županijskih sudova u kaznenim predmetima,
+
+2. obavlja druge poslove određene zakonom.«.
+
+#### Članak 17.
+
+U članku 28. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka predsjednik Visokog prekršajnog suda Republike Hrvatske određuje provođenje nadzora nad urednim obavljanjem poslova sudaca koji rade na prekršajnim predmetima. Nadzor obavljaju suci Visokog prekršajnog suda Republike Hrvatske koje je odredio predsjednik tog suda.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 18.
+
+U članku 29. stavku 1. iza točke 16. dodaje se nova točka 17. koja glasi:
+
+»17. provođenje nadzora nad obradom osobnih podataka u sudskim postupcima,«.
+
+Dosadašnja točka 17. postaje točka 18.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Ministar pravosuđa pravilnikom će propisati način obavljanja poslova sudske uprave iz stavka 1. točki 4., 5., 8., 10., 11. i 16. ovoga članka.«.
+
+#### Članak 19.
+
+U članku 30. stavku 4. riječi: »tajnik suda,« brišu se.
+
+#### Članak 20.
+
+Iza članka 30. dodaje se članak 30.a koji glasi:
+
+»Članak 30.a
+
+(1) Predsjednik suda dužan je stalno se stručno usavršavati za obavljanje poslova sudske uprave.
+
+(2) Stručno usavršavanje iz stavka 1. ovoga članka provodi Pravosudna akademija.
+
+(3) Program i način provedbe stručnog usavršavanja predsjednika sudova pravilnikom utvrđuje ministar pravosuđa.«.
+
+#### Članak 21.
+
+U članku 31. dodaje se stavak 6. koji glasi:
+
+»(6) Predsjednik suda dužan je posebno skrbiti se o poštivanju prava i zaštiti djece u postupcima pred sudovima sukladno međunarodnim standardima.«.
+
+#### Članak 22.
+
+Članak 34. mijenja se i glasi:
+
+»(1) Ako predsjednik suda prestane obnašati svoju dužnost, predsjednik neposredno višeg suda ovlastit će suca suda iste vrste i istog stupnja ili suca višeg suda da obavlja poslove sudske uprave dok predsjednik suda ne bude imenovan.
+
+(2) U sudovima u osnivanju ministar pravosuđa ovlastit će suca suda istog ili višeg stupnja koji će do imenovanja predsjednika suda obavljati poslove sudske uprave.«.
+
+#### Članak 23.
+
+Članak 35. mijenja se i glasi:
+
+»(1) Sud s više od 15 sudaca ima ravnatelja sudske uprave.
+
+(2) Za ravnatelja sudske uprave može biti primljena osoba koja ima završen integrirani preddiplomski i diplomski sveučilišni studij prava odnosno diplomski sveučilišni studij ili specijalistički diplomski stručni studij ekonomske struke i najmanje pet godina iskustva na odgovarajućim poslovima.
+
+(3) Ravnatelj sudske uprave pomaže predsjedniku suda u obavljanju poslova sudske uprave, a posebno:
+
+– obavlja stručne poslove u svezi s planiranjem i upravljanjem ljudskim potencijalima u sudu,
+
+– organizira rad sudskih službenika i namještenika te prati njihovu učinkovitost u radu,
+
+– prati i planira edukaciju sudskih službenika i namještenika,
+
+– vodi brigu o održavanju zgrade suda, radnih prostorija i opreme za rad te investicijskim ulaganjima,
+
+– organizira i koordinira izradu godišnjeg plana nabave sukladno zakonu i potrebama suda,
+
+– organizira provedbu postupaka javne nabave,
+
+– obavlja nadzor nad financijsko-materijalnim poslovanjem suda te obavljanjem uredskih i pomoćno-tehničkih poslova,
+
+– skrbi se i obavlja nadzor nad trošenjem proračunskih i vlastitih sredstava suda,
+
+– sudjeluje u izradi i provedbi projekata sudske uprave te nadzire njihovu provedbu,
+
+– skrbi se o pravodobnom i urednom vođenju statističkih podataka o radu suda,
+
+– surađuje s jedinicama lokalne i područne (regionalne) samouprave u vezi s nabavom opreme i osiguranjem sredstava za pojedine aktivnosti suda,
+
+– obavlja druge poslove koje mu povjeri predsjednik suda.
+
+(4) Za svoj rad ravnatelj sudske uprave odgovara predsjedniku suda.«.
+
+#### Članak 24.
+
+Podnaslov iznad članka 36. i članak 36. brišu se.
+
+#### Članak 25.
+
+Podnaslov iznad članka 36.a mijenja se i glasi: »1.3. Voditelj stalne službe«.
+
+#### Članak 26.
+
+U članku 37. stavak 3. mijenja se i glasi:
+
+»(3) Predsjednik sudskog odjela prati rad sudaca raspoređenih u odjel, obavlja nadzor nad urednim i pravodobnim obavljanjem poslova u odjelu, brine se o učinkovitosti rada odjela te obavlja druge poslove koje mu povjeri predsjednik suda.«.
+
+#### Članak 27.
+
+U članku 38. stavku 2. iza riječi: »Visokog upravnog suda Republike Hrvatske« stavlja se zarez i dodaju riječi: »Visokoga kaznenog suda Republike Hrvatske«.
+
+#### Članak 28.
+
+U članku 40. stavku 2. iza riječi: »Visokog upravnog suda Republike Hrvatske« stavlja se zarez i dodaju riječi: »Visokoga kaznenog suda Republike Hrvatske«.
+
+#### Članak 29.
+
+Iza članka 41. dodaje se članak 41.a koji glasi:
+
+»Članak 41.a
+
+(1) U Vrhovnom sudu Republike Hrvatske, Visokom trgovačkom sudu Republike Hrvatske, Visokom upravnom sudu Republike Hrvatske, Visokom kaznenom sudu Republike Hrvatske, Visokom prekršajnom sudu Republike Hrvatske, županijskim sudovima te općinskim i trgovačkim sudovima s više od 50 sudaca osniva se odjel za praćenje europskih propisa i sudske prakse Suda Europske unije i Europskog suda za ljudska prava.
+
+(2) Odjel je nadležan za pružanje pomoći svim sucima u sudu u kojem je osnovan, kao i sucima neposredno nižih sudova, u pravilnoj primjeni propisa i sudske prakse iz stavka 1. ovoga članka te u pripremi za podnošenje prethodnih pitanja Sudu Europske unije.
+
+(3) Osim poslova iz stavka 2. ovoga članka odjeli općinskih i trgovačkih sudova sudjeluju u radu Europske pravosudne mreže u građanskim i trgovačkim stvarima.
+
+(4) Predsjednik odjela Vrhovnog suda Republike Hrvatske iz stavka 1. ovoga članka jednom godišnje organizira sastanak svih odjela radi razmatranja aktualnih pitanja u vezi s poslovima iz stavaka 2. i 3. ovoga članka te unapređenja rada odjela.
+
+(5) Odjeli pružaju podršku Pravosudnoj akademiji u provedbi stručnog usavršavanja vezanog uz poslove iz stavaka 2. i 3. ovoga članka.
+
+(6) Ministar pravosuđa pravilnikom će urediti način sudjelovanja sudaca u radu i imenovanja sudaca za članove Europske pravosudne mreže u građanskim i trgovačkim stvarima.«.
+
+#### Članak 30.
+
+U članku 43. stavku 5. riječi: »i praksu sudova koji odlučuju na razini Vijeća Europe i Europske unije« brišu se.
+
+#### Članak 31.
+
+Članak 44. mijenja se i glasi:
+
+»(1) Za predsjednika Vrhovnog suda Republike Hrvatske može biti izabrana osoba koja ispunjava opće i posebne uvjete za suca tog suda.
+
+(2) Predsjednika Vrhovnog suda Republike Hrvatske bira Hrvatski sabor na prijedlog predsjednika Republike Hrvatske, uz prethodno mišljenje Opće sjednice Vrhovnog suda Republike Hrvatske i nadležnog odbora Hrvatskog sabora.
+
+(3) Predsjednik Vrhovnog suda Republike Hrvatske bira se na vrijeme od četiri godine i po isteku tog vremena može biti ponovno biran na istu dužnost. Nitko ne može biti biran na ovu dužnost više od dva puta.«.
+
+#### Članak 32.
+
+Iza članka 44. dodaju se članci 44.a, 44.b, 44.c i 44.d koji glase:
+
+»Članak 44.a
+
+(1) Postupak izbora predsjednika Vrhovnog suda Republike Hrvatske pokreće Državno sudbeno vijeće objavom javnog poziva, najkasnije šest mjeseci prije isteka mandata odnosno najkasnije 30 dana nakon prestanka dužnosti predsjednika Vrhovnog suda Republike Hrvatske zbog drugih zakonom određenih razloga.
+
+(2) Javni poziv iz stavka 1. ovoga članka objavljuje se u »Narodnim novinama« i na mrežnoj stranici Državnog sudbenog vijeća, a sadrži poziv kandidatima da u roku, koji ne smije biti kraći od 15 dana, a niti dulji od 30 dana, podnesu prijavu.
+
+(3) Uz prijavu kandidati podnose životopis i program rada predsjednika Vrhovnog suda Republike Hrvatske, koji se objavljuju na mrežnoj stranici Državnog sudbenog vijeća.
+
+(4) Zaprimljene prijave kandidata Državno sudbeno vijeće dostavlja Uredu predsjednika Republike Hrvatske koji će o kandidatima zatražiti mišljenje od Opće sjednice Vrhovnog suda Republike Hrvatske i nadležnog odbora Hrvatskog sabora.
+
+#### Članak 44.b
+
+(1) Prije stupanja na dužnost predsjednik Vrhovnog suda Republike Hrvatske polaže pred predsjednikom Hrvatskog sabora prisegu koja glasi:
+
+»Prisežem da ću se u obnašanju svoje dužnosti pridržavati Ustava i zakona te štititi cjelovitost, suverenitet i državno ustrojstvo Republike Hrvatske i Ustavom i zakonom utvrđene slobode i prava čovjeka.«.
+
+(2) Predsjednik Vrhovnog suda Republike Hrvatske predstavlja Vrhovni sud Republike Hrvatske i sudbenu vlast, obavlja poslove sudske uprave i druge poslove određene zakonom i Poslovnikom o radu Vrhovnog suda Republike Hrvatske.
+
+(3) Ako je za predsjednika Vrhovnog suda Republike Hrvatske izabrana osoba koja do izbora nije obnašala sudačku dužnost u tom sudu, Državno sudbeno vijeće imenovat će ga i sucem tog suda.
+
+(4) Ako predsjednik Vrhovnog suda Republike Hrvatske odlukom Hrvatskog sabora ili na svoj zahtjev bude razriješen dužnosti prije isteka mandata ili ne bude ponovno izabran na tu dužnost, nastavlja obnašati dužnost suca u tom sudu.
+
+#### Članak 44.c
+
+(1) Predsjedniku Vrhovnog suda Republike Hrvatske dužnost prestaje:
+
+1. smrću,
+
+2. istekom roka na koji je izabran,
+
+3. prestankom dužnosti suca Vrhovnog suda Republike Hrvatske.
+
+(2) Odluku kojom se utvrđuje nastup okolnosti prestanka dužnosti predsjednika Vrhovnog suda Republike Hrvatske donosi Državno sudbeno vijeće.
+
+(3) Ako predsjedniku Vrhovnog suda Republike Hrvatske prestane dužnost, poslove sudske uprave do izbora predsjednika Vrhovnog suda Republike Hrvatske obavljat će zamjenik predsjednika Vrhovnog suda Republike Hrvatske određen godišnjim rasporedom poslova.
+
+#### Članak 44.d
+
+(1) Predsjednik Vrhovnog suda Republike Hrvatske bit će razriješen:
+
+1. ako to sam zatraži,
+
+2. ako postane trajno nesposoban za obavljanje dužnosti,
+
+3. ako protiv njega bude pravomoćno potvrđena optužnica za kazneno djelo koje ga čini nedostojnim obavljanja sudačke dužnosti,
+
+4. kad navrši 70 godina života.
+
+(2) Prijedlog za razrješenje predsjednika Vrhovnog suda Republike Hrvatske podnosi predsjednik Republike Hrvatske. U prijedlogu se mora navesti osnova i razlog za razrješenje.
+
+(3) O prijedlogu za razrješenje predsjednika Vrhovnog suda Republike Hrvatske odlučuje Hrvatski sabor, uz prethodno mišljenje Opće sjednice Vrhovnog suda Republike Hrvatske i nadležnog odbora Hrvatskog sabora.«.
+
+#### Članak 33.
+
+U članku 45. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) U godišnjem izvješću navode se pokazatelji učinkovitosti i kvalitete rada sudova po vrstama predmeta na razini cijelog sustava te posebno na razini Vrhovnog suda Republike Hrvatske, županijskih sudova, općinskih sudova i specijaliziranih sudova. U godišnjem izvješću daju se pokazatelji rada i za svaki pojedini sud.
+
+(3) U godišnjem izvješću koriste se pokazatelji koje primjenjuje Komisija za učinkovitost pravosuđa Vijeća Europe. Pokazatelji se daju za prethodnu godinu, u odnosu na pokazatelje za najmanje pet prethodnih godina.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 4., 5. i 6.
+
+#### Članak 34.
+
+U članku 48. stavku 1. iza riječi: »sudova« dodaju se riječi: »(Proširena opća sjednica)«.
+
+U stavku 2. iza riječi: »Visokog upravnog suda Republike Hrvatske« stavlja se zarez i dodaju riječi: »Visokoga kaznenog suda Republike Hrvatske«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Predsjednik Vrhovnog suda Republike Hrvatske može sazvati Proširenu opću sjednicu za raspravljanje o nacrtima zakona ili drugog propisa kojim se uređuju pitanja od važnosti za rad sudova ili obavljanje sudbene vlasti iz članka 47. točke 1. ovoga Zakona.«.
+
+#### Članak 35.
+
+U članku 49. stavak 1. mijenja se i glasi:
+
+»(1) Sudačko vijeće:
+
+– daje ocjenu obnašanja sudačke dužnosti,
+
+– daje mišljenje Državnom sudbenom vijeću o kandidatima za predsjednika suda,
+
+– daje mišljenje Državnom sudbenom vijeću o kandidatima za suce,
+
+– odlučuje o zahtjevu za ocjenu postojanja povrede Kodeksa sudačke etike,
+
+– obavlja druge poslove određene ovim Zakonom, zakonom kojim se uređuje rad Državnog sudbenog vijeća i Sudskim poslovnikom.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Mišljenje iz stavka 1. podstavka 3. daje sudačko vijeće nadležno za sud u kojem se sudačko mjesto popunjava u roku od 30 dana od dana zaprimanja zahtjeva Državnog sudbenog vijeća.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 36.
+
+U članku 50. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Za trgovačke sudove osniva se sudačko vijeće pri Visokom trgovačkom sudu Republike Hrvatske, a za upravne sudove pri Visokom upravnom sudu Republike Hrvatske.
+
+(3) Poslove sudačkih vijeća za Visoki prekršajni sud Republike Hrvatske, Visoki kazneni sud Republike Hrvatske i Vrhovni sud Republike Hrvatske obavljaju sjednice svih sudaca tih sudova.«.
+
+#### Članak 37.
+
+U članku 51. stavak 5. briše se.
+
+Dosadašnji stavak 6., koji postaje stavak 5., mijenja se i glasi:
+
+»(5) U odlučivanju o poslovima sudačkog vijeća koji se odnose na suce županijskih sudova, Visokog trgovačkog suda Republike Hrvatske i Visokog upravnog suda Republike Hrvatske sudjeluju samo članovi sudačkog vijeća iz reda sudaca tih sudova.«.
+
+#### Članak 38.
+
+U članku 53. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Članove sudačkog vijeća trgovačkih i upravnih sudova iz reda sudaca Visokog trgovačkog suda Republike Hrvatske i Visokog upravnog suda Republike Hrvatske biraju suci tih sudova, a članove iz reda sudaca trgovačkih i upravnih sudova suci tih sudova.
+
+(3) Trgovački i upravni sud ne mogu u sudačkom vijeću imati više od tri člana iz reda sudaca istog suda.«.
+
+U stavku 4. riječ: »četiri« zamjenjuje se riječju: »tri«.
+
+#### Članak 39.
+
+U članku 62. stavak 1. mijenja se i glasi:
+
+»(1) Članu sudačkog vijeća prestaje dužnost prije isteka mandata:
+
+– ako sam zatraži,
+
+– ako bude privremeno udaljen od obnašanja sudačke dužnosti,
+
+– ako prestane obnašati dužnost suca ili mu sudačka dužnost miruje,
+
+– ako bude imenovan na drugi sud,
+
+– ako bude imenovan na dužnost predsjednika suda,
+
+– ako bude izabran za člana Državnoga sudbenog vijeća,
+
+– ako bude pravomoćno utvrđena njegova stegovna odgovornost.«.
+
+#### Članak 40.
+
+U članku 68. stavku 2. iza riječi: »Visokim upravnim sudom Republike Hrvatske« stavlja se zarez i dodaju riječi: »Visokim kaznenim sudom Republike Hrvatske«.
+
+#### Članak 41.
+
+U članku 69. stavku 5. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Zahtjev za isplatu naknade podnosi se Ministarstvu pravosuđa.«.
+
+#### Članak 42.
+
+Članak 71. mijenja se i glasi:
+
+»(1) Ministarstvo pravosuđa obavlja poslove pravosudne uprave.
+
+(2) U obavljanju poslova pravosudne uprave Ministarstvo pravosuđa obraća se predsjedniku odgovarajućeg suda.
+
+(3) Ministar pravosuđa u obavljanju poslova pravosudne uprave može ukinuti, poništiti ili oglasiti ništavim svaki nepravilan ili nezakonit akt donesen u obavljanju poslova sudske uprave.«.
+
+#### Članak 43.
+
+Članak 72. mijenja se i glasi:
+
+»(1) U pravosudnu upravu spadaju poslovi koji služe obavljanju sudbene vlasti:
+
+1. izrada prijedloga zakona i drugih propisa za ustanovljavanje, nadležnost, sastav i ustrojstvo sudova i postupak pred sudovima,
+
+2. sudjelovanje u procjeni potreba i izradi programa stručnog usavršavanja sudaca, službenika i namještenika,
+
+3. osiguranje materijalnih, financijskih, prostornih i drugih uvjeta za rad sudova,
+
+4. informatizacija sudova,
+
+5. prikupljanje i analiza statističkih i drugih podataka o djelovanju sudova,
+
+6. ispitivanje predstavki građana na rad sudova koje se odnose na odugovlačenje sudskog postupka, na ponašanje suca ili drugog djelatnika suda prema stranki tijekom postupka ili obavljanja drugih službenih radnji,
+
+7. nadzor nad obavljanjem poslova u vezi sa stalnim sudskim vještacima, stalnim sudskim procjeniteljima i stalnim sudskim tumačima,
+
+8. nadzor nad financijsko-materijalnim poslovanjem sudova,
+
+9. određivanje načina korištenja nekretnina te nadzor nad upravljanjem nekretninama dodijeljenim sudu na korištenje,
+
+10. obavljanje međunarodne pravne pomoći i pravosudne suradnje,
+
+11. osiguranje osoba, imovine i objekata sudova,
+
+12. nadzor nad redovitim obavljanjem poslova u sudu te provođenjem Sudskog poslovnika,
+
+13. ustrojavanje i vođenje registara i evidencija prema posebnim propisima,
+
+14. drugi poslovi određeni zakonom.
+
+(2) Ministar pravosuđa pravilnikom će propisati način obavljanja pojedinih poslova pravosudne uprave.«.
+
+#### Članak 44.
+
+Članak 74. mijenja se i glasi:
+
+»(1) Evidencija sudaca sadrži sljedeće podatke:
+
+1. osobne podatke,
+
+2. podatke o imenovanju i razrješenju,
+
+3. ocjene obnašanja sudačke dužnosti,
+
+4. podatke o pravomoćno izrečenim stegovnim kaznama.
+
+(2) Osobni podaci sadrže: ime, prezime, ime roditelja, dan, mjesec i godina rođenja, OIB, nacionalnost, prebivalište, podatak o završenom diplomskom sveučilišnom studiju prava.
+
+(3) Tijela koja imaju podatke o kojima se vodi evidencija iz stavka 1. ovoga članka dužna su ih dostaviti Ministarstvu pravosuđa.«.
+
+#### Članak 45.
+
+Članak 75. mijenja se i glasi:
+
+»Ministarstvo pravosuđa od sudova može tražiti izvješća i podatke o radu suda i obavljanju poslova sudske uprave, a u okviru svog djelokruga može obaviti neposredan uvid u rad suda i informacijski sustav u uporabi u sudu, tražiti izvješća o razlozima nepostupanja u pojedinom predmetu, kao i dostavu pojedinog predmeta na uvid te održati zajednički sastanak sa sudovima radi razmatranja pitanja u svezi s njihovim radom i primjenom novih propisa.«.
+
+#### Članak 46.
+
+Članak 76. mijenja se i glasi:
+
+»(1) Ministar pravosuđa donosi Sudski poslovnik.
+
+(2) Sudskim poslovnikom propisuju se ustrojstvo suda i poslovanje u sudovima.«.
+
+#### Članak 47.
+
+U članku 77. stavku 3. iza riječi: »izdavanja« dodaju se riječi: »te sadržaj«.
+
+#### Članak 48.
+
+U članku 79. stavku 1. riječi: »na prijedlog« zamjenjuju se riječima: »uz prethodno mišljenje«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Ministar pravosuđa zatražit će od Opće sjednice Vrhovnog suda Republike Hrvatske da u roku od 30 dana dostavi mišljenje o prijedlogu Okvirnih mjerila za rad sudaca te njihovih izmjena ili dopuna.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako Opća sjednica Vrhovnog suda Republike Hrvatske ne dostavi mišljenje iz stavka 2. ovoga članka u propisanom roku, ministar pravosuđa donijet će Okvirna mjerila za rad sudaca i bez tog mišljenja.«.
+
+#### Članak 49.
+
+U članku 80. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Poslove pravosudnog inspektora mogu obavljati službenici Ministarstva pravosuđa koji ispunjavaju uvjete za višeg stručnog savjetnika ili višeg upravnog savjetnika te suci koji ispunjavaju uvjete za suce županijskog suda i imaju iskustvo u obavljanju poslova sudske uprave.
+
+(3) Ministar pravosuđa pravilnikom će propisati način provedbe inspekcijskih nadzora nad pravilnim i zakonitim obavljanjem poslova sudske uprave u sudovima.«.
+
+#### Članak 50.
+
+U članku 81. stavku 3. zarez ispred riječi i riječi: »a odredit će ga ministar pravosuđa rješenjem« brišu se.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Provedba inspekcijskog nadzora određuje se rješenjem ministra pravosuđa.«.
+
+#### Članak 51.
+
+U članku 86. stavku 5. iza riječi: »poslovnikom« dodaju se riječi: »i pravilnicima kojima se uređuje rad u informacijskim sustavima sudova«.
+
+#### Članak 52.
+
+U članku 87. stavku 1. podstavku 8. riječi: »ako sudac ne prebiva u mjestu sjedišta suda« zamjenjuju se riječima: »ako je sucu mjesto rada različito od mjesta prebivališta odnosno boravišta«.
+
+#### Članak 53.
+
+U članku 88. stavci 1., 2., 7. i 8. mijenjaju se i glase:
+
+»(1) Ako sudac bude imenovan za državnog dužnosnika u Ministarstvu pravosuđa ili izabran za suca Ustavnog suda Republike Hrvatske, sudačka dužnost mu miruje dok obnaša dužnost na koju je imenovan odnosno izabran.
+
+(2) Sudac uz svoj pristanak može biti raspoređen i na druge poslove u Ministarstvo pravosuđa, Pravosudnu akademiju i Državno sudbeno vijeće na vrijeme do četiri godine, za koje mu vrijeme sudačka dužnost miruje. Sudac može ponovno biti raspoređen na poslove u ovim tijelima nakon što je obnašao sudačku dužnost razmjerno vremenu obavljanja poslova u Ministarstvu pravosuđa, Pravosudnoj akademiji odnosno Državnom sudbenom vijeću. Rješenje o rasporedu suca u Ministarstvo pravosuđa, Pravosudnu akademiju i Državno sudbeno vijeće donosi čelnik ovih tijela uz mišljenje predsjednika suda u kojem je sudac imenovan i prethodnu suglasnost predsjednika Vrhovnog suda Republike Hrvatske.
+
+(7) Sucu se vrijeme provedeno na poslovima iz stavaka 2., 4. i 6. ovoga članka priznaje kao vrijeme provedeno u obnašanju sudačke dužnosti.
+
+(8) Ministar pravosuđa pravilnikom će propisati uvjete i postupak predlaganja, razmjene i upućivanja sudaca u institucije, agencije, tijela ili urede Europske unije ili druge međunarodne organizacije, institucije, tijela, misije i projekte.«.
+
+#### Članak 54.
+
+Članak 92. mijenja se i glasi:
+
+»Odobrenje za obavljanje određene službe ili posla na zahtjev suca daje Državno sudbeno vijeće.«.
+
+#### Članak 55.
+
+U članku 93. stavku 3. prva rečenica mijenja se i glasi:
+
+»Sudac je dužan stalno se stručno usavršavati i najmanje jednom godišnje sudjelovati u programima obrazovanja i usavršavanja Pravosudne akademije ili Europske mreže centara za stručno usavršavanje pravosudnih dužnosnika.«.
+
+#### Članak 56.
+
+U članku 96. stavku 2. iza riječi: »Visokog upravnog suda Republike Hrvatske« stavlja se zarez i dodaju riječi: »Visokoga kaznenog suda Republike Hrvatske«.
+
+#### Članak 57.
+
+Članak 97. mijenja se i glasi:
+
+»(1) Sudačko vijeće ocjenjuje rad suca prema sljedećim mjerilima:
+
+1. broj odluka koje je sudac donio u odnosu na broj odluka koje je trebao donijeti na temelju Okvirnih mjerila za rad sudaca, ukupno i po vrstama predmeta u apsolutnim brojevima i postotku,
+
+2. kvaliteta odluka – broj potvrđenih, ukinutih, poništenih i preinačenih odluka u odnosu na ukupan broj donesenih odluka i u odnosu na broj odluka protiv kojih su izjavljeni pravni lijekovi te broj odluka u kojima je utvrđena bitna povreda postupka u odnosu na broj odluka protiv kojih su izjavljeni pravni lijekovi,
+
+3. uredno obnašanje sudačke dužnosti – poštivanje rokova, određivanje ročišta, poštivanje redoslijeda rješavanja predmeta i dr.,
+
+4. iskustvo u obnašanju sudačke dužnosti,
+
+5. druge aktivnosti suca – sudjelovanje u stručnom usavršavanju sudaca kao predavač na seminarima i radionicama, objavljivanje stručnih i znanstvenih radova iz područja pravnih znanosti, članstvo u sudačkim vijećima i dr.
+
+(2) Po svim mjerilima iz stavka 1. ovoga članka sudac može ostvariti najviše 150 bodova, pri čemu se za mjerila iz stavka 1. točki 1. i 2. ovoga članka može ostvariti najviše po 60 bodova, a za mjerila iz stavka 1. točki 3., 4. i 5. ovoga članka najviše po 10 bodova.
+
+(3) Rad suca koji je u postupku imenovanja u drugi sud ocjenjuje sudačko vijeće suda nadležnog za sud u kojem se sudačko mjesto popunjava.
+
+(4) Mjerila iz stavka 1. ovoga članka razradit će se Metodologijom ocjenjivanja obnašanja sudačke dužnosti.«.
+
+#### Članak 58.
+
+U članku 98. riječi: »izrade ocjene« zamjenjuju se riječju: »ocjenjivanja«.
+
+#### Članak 59.
+
+U članku 100. stavku 3. iza riječi: »donijeti« dodaju se riječi: »i dostaviti«, a brojka: »60« zamjenjuje se brojkom: »45«.
+
+#### Članak 60.
+
+U članku 102. stavku 1. prvoj rečenici riječi: »pet sudaca« zamjenjuju se riječima: »tri suca«.
+
+#### Članak 61.
+
+Članak 103. mijenja se i glasi:
+
+»Vijeće iz članka 102. stavka 1. ovoga Zakona određuje se godišnjim rasporedom poslova.«.
+
+#### Članak 62.
+
+U članku 104. stavku 2. brojka: »30« zamjenjuje se brojkom: »15«.
+
+#### Članak 63.
+
+U članku 107. stavak 1. mijenja se i glasi:
+
+»(1) Kodeks donosi Etičko povjerenstvo koje čine predsjednici svih sudačkih vijeća u Republici Hrvatskoj (u daljnjem tekstu: Povjerenstvo).«.
+
+U stavku 2. riječi: »Vijeće iz stavka 1. ovoga članka« zamjenjuju se riječju: »Povjerenstvo«.
+
+#### Članak 64.
+
+Iza članka 107. dodaje se članak 107.a koji glasi:
+
+»Članak 107.a
+
+(1) O povredama Kodeksa odlučuju sudačka vijeća.
+
+(2) Protiv odluka sudačkih vijeća o povredi Kodeksa sudac i podnositelj pritužbe imaju pravo prigovora u roku od osam dana od dana dostave odluke, o kojem odlučuje Etičko vijeće.
+
+(3) Etičko vijeće ima pet članova. Četiri člana Etičkog vijeća biraju članovi Povjerenstva između sebe, a predsjednik Etičkog vijeća je predsjednik sudačkog vijeća Vrhovnog suda Republike Hrvatske.
+
+(4) Povjerenstvo donosi smjernice za tumačenje Kodeksa te daje mišljenja i preporuke o usklađenosti ponašanja sudaca s Kodeksom.
+
+(5) Pravomoćne odluke kojima se odlučuje o povredi Kodeksa te smjernice, mišljenja i preporuke Povjerenstva objavljuju se na mrežnoj stranici Vrhovnog suda Republike Hrvatske sukladno propisima o zaštiti osobnih podataka.«.
+
+#### Članak 65.
+
+U članku 108. stavak 6. briše se.
+
+#### Članak 66.
+
+Članak 109. mijenja se i glasi:
+
+»(1) Sud može imati sudske savjetnike, više sudske savjetnike i više sudske savjetnike – specijaliste.
+
+(2) Sudski savjetnik može biti osoba koja ima završen diplomski sveučilišni studij prava odnosno integrirani preddiplomski i diplomski sveučilišni studij prava i položen pravosudni ispit.
+
+(3) Viši sudski savjetnik i sudski savjetnik u Vrhovnom sudu Republike Hrvatske može biti osoba koja ima završen diplomski sveučilišni studij prava odnosno integrirani preddiplomski i diplomski sveučilišni studij prava, položen pravosudni ispit i koja je radila najmanje dvije godine kao sudski ili državnoodvjetnički savjetnik, pravosudni dužnosnik, odvjetnik ili javni bilježnik odnosno osoba koja je radila na drugim pravnim poslovima nakon položenog pravosudnog ispita najmanje pet godina.
+
+(4) Viši sudski savjetnik – specijalist može biti osoba koja ima završen diplomski sveučilišni studij prava odnosno integrirani preddiplomski i diplomski sveučilišni studij prava, položen pravosudni ispit, koja je radila najmanje četiri godine kao sudski ili državnoodvjetnički savjetnik, pravosudni dužnosnik, odvjetnik ili javni bilježnik odnosno osoba koja je radila na drugim pravnim poslovima nakon položenog pravosudnog ispita najmanje osam godina.
+
+(5) Viši sudski savjetnik u Vrhovnom sudu može biti osoba koja ima završen diplomski sveučilišni studij prava odnosno integrirani preddiplomski i diplomski sveučilišni studij prava, položen pravosudni ispit, koja je najmanje četiri godine radila kao sudski ili državnoodvjetnički savjetnik, pravosudni dužnosnik, odvjetnik ili javni bilježnik odnosno osoba koja je najmanje osam godina nakon položenog pravosudnog ispita radila na drugim pravnim poslovima.
+
+(6) Viši sudski savjetnik – specijalist u Vrhovnom sudu može biti osoba koja ima završen diplomski sveučilišni studij prava odnosno integrirani preddiplomski i diplomski sveučilišni studij prava, položen pravosudni ispit, koja je najmanje šest godine radila kao sudski ili državnoodvjetnički savjetnik, pravosudni dužnosnik, odvjetnik ili javni bilježnik odnosno osoba koja je najmanje deset godina nakon položenog pravosudnog ispita radila na drugim pravnim poslovima.«.
+
+#### Članak 67.
+
+Članak 110. mijenja se i glasi:
+
+(1) Sudski savjetnici, viši sudski savjetnici i viši sudski savjetnici – specijalisti sudjeluju u suđenju i ovlašteni su samostalno provoditi određene sudske postupke, ocjenjivati dokaze i utvrđivati činjenice.
+
+(2) Na temelju tako provedenog postupka sudski savjetnik, viši sudski savjetnik i viši sudski savjetnik – specijalist podnosi sucu, kojeg na to ovlasti predsjednik suda, nacrt na temelju kojeg sudac donosi odluku. Po ovlaštenju suca sudski savjetnik, viši sudski savjetnik odnosno viši sudski savjetnik – specijalist objavljuje tako donesenu odluku.
+
+(3) Ako ne prihvati nacrt koji mu je podnio sudski savjetnik, viši sudski savjetnik odnosno viši sudski savjetnik – specijalist, sudac će sam provesti postupak.
+
+(4) Sudski savjetnici, viši sudski savjetnici odnosno viši sudski savjetnici – specijalisti ovlašteni su na provođenje postupka i predlaganje nacrta odluka u smislu stavaka 1. i 2. ovoga članka:
+
+1. u parničnim postupcima u sporovima za isplatu novčane tražbine ili naknadu štete u kojima vrijednost predmeta spora ne prelazi 100.000,00 kuna te u trgovačkim sporovima u kojima vrijednost predmeta spora ne prelazi 500.000,00 kuna,
+
+2. u radnim sporovima proizašlim iz kolektivnih ugovora,
+
+3. u upravnim sporovima u kojima se odlučuje o tužbama u predmetima koji se rješavaju na temelju pravomoćne presude donesene u oglednom sporu, o tužbama protiv postupanja ili zbog propuštanja postupanja javnopravnog tijela i u upravnim sporovima u kojima vrijednost predmeta spora ne prelazi 100.000,00 kuna,
+
+4. u ovršnim postupcima,
+
+5. u ostavinskim postupcima,
+
+6. u zemljišnoknjižnim postupcima,
+
+7. u prekršajnim postupcima,
+
+8. u izvanparničnim postupcima, osim u postupcima oduzimanja poslovne sposobnosti, razvrgnuća suvlasničke zajednice, uređenja međa i postupcima prema Obiteljskom zakonu,
+
+9. u registarskim postupcima,
+
+10. u skraćenim stečajnim postupcima,
+
+11. o troškovima sudskih postupaka.
+
+(5) Sudski savjetnici, viši sudski savjetnici odnosno viši sudski savjetnici – specijalisti ovlašteni su na postupanje i donošenje odluka u pojedinim postupcima kada je to propisano posebnim zakonima.
+
+(6) U drugostupanjskom postupku i postupku po izvanrednim pravnim lijekovima sudski savjetnici, viši sudski savjetnici i viši sudski savjetnici – specijalisti izvještavaju o stanju spisa i pripremaju nacrt odluke.«.
+
+#### Članak 68.
+
+U članku 115. dodaju se novi stavci 1., 2. i 3. koji glase:
+
+»(1) Uz opće uvjete za prijam u državnu službu službenici pravosudne policije moraju imati:
+
+1. posebnu zdravstvenu sposobnost,
+
+2. najviše 30 godina života ako je uvjet za prijam srednja stručna sprema.
+
+(2) Osoba koja se prima u državnu službu za službenika pravosudne policije prima se u svojstvu vježbenika neovisno o prije ostvarenom radnom stažu.
+
+(3) Za vrijeme vježbeničkog staža službenik pravosudne policije mora pohađati osposobljavanje i položiti ispit za zvanje. Službeniku pravosudne policije koji ne završi program osposobljavanja i ne položi ispit za zvanje prestaje državna služba.«.
+
+Dosadašnji stavci 1. i 2. postaju stavci 4. i 5.
+
+#### Članak 69.
+
+U članku 116. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Uz prethodnu suglasnost ministra nadležnog za poslove zdravstvene zaštite ministar pravosuđa donosi pravilnik o posebnoj zdravstvenoj sposobnosti službenika pravosudne policije kojim se utvrđuju mjerila posebne tjelesne i zdravstvene sposobnosti s obzirom na životnu dob i spol službenika te poslove koje obavlja.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+#### Članak 70.
+
+U članku 119. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+#### Članak 71.
+
+U članku 120. stavku 3. zarez ispred riječi i riječi: »a suci porotnici Vrhovnog suda Republike Hrvatske prisegu daju pred predsjednikom Hrvatskog sabora ili zastupnikom kojeg predsjednik ovlasti« brišu se.
+
+#### Članak 72.
+
+U članku 132. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Sud može ostvarivati vlastite prihode.
+
+(5) Kamate ostvarene od sredstava koja se vode na računima sudova su namjenski prihod državnog proračuna i koriste se za potrebe pravosudnih tijela.«.
+
+#### Članak 73.
+
+U članku 135. stavak 2. mijenja se i glasi:
+
+»(2) Uvjete za isplatu i visinu naknade za izlaske sudaca te sudskih službenika i namještenika na očevid, naknade za obavljanje poslova prethodnoga kaznenog postupka i naknade za dežurstva propisuje ministar pravosuđa pravilnikom.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 74.
+
+Službenici koji su na dan stupanja na snagu ovoga Zakona raspoređeni na radna mjesta tajnika sudova rasporedit će se na odgovarajuća radna mjesta u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 75.
+
+Ograničenje mandata iz članka 31. ovoga Zakona primjenjuje se na sve kandidate koji su do dana stupanja na snagu ovoga Zakona obnašali dužnost predsjednika Vrhovnog suda Republike Hrvatske.
+
+#### Članak 76.
+
+Pravilnike iz članaka 18., 20., 29., 43., 49., 69. i 73. ovoga Zakona ministar pravosuđa donijet će u roku od šest mjeseci od dana njegova stupanja na snagu.
+
+Okvirna mjerila za rad sudaca iz članka 48. ovoga Zakona ministar pravosuđa donijet će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Metodologiju ocjenjivanja obnašanja sudačke dužnosti iz članka 58. ovoga Zakona Državno sudbeno vijeće donijet će u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+Sudski poslovnik iz članka 76. i pravilnike iz članka 77. stavka 3. Zakona o sudovima (»Narodne novine«, br. 28/15., 33/15. i 82/15.) ministar pravosuđa uskladit će s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Kodeks sudačke etike iz članka 107. Zakona o sudovima (»Narodne novine«, br. 28/15., 33/15. i 82/15.) Povjerenstvo iz članka 63. ovoga Zakona donijet će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 77.
+
+Izbori za sudačka vijeća županijskih sudova prema odredbama ovoga Zakona provest će se u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+Do početka rada sudačkih vijeća iz stavka 1. ovoga članka prije izabrana sudačka vijeća nastavljaju s radom.
+
+Sudačko vijeće osnovano pri Visokom prekršajnom sudu Republike Hrvatske sukladno Zakonu o sudovima (»Narodne novine«, br. 28/15., 33/15. i 82/15.) prestaje s radom 31. prosinca 2018.
+
+#### Članak 78.
+
+Stupanjem na snagu ovoga Zakona prestaje s radom vijeće iz članka 102. Zakona o sudovima (»Narodne novine«, br. 28/15., 33/15. i 82/15.).
+
+#### Članak 79.
+
+Ocjene obnašanja sudačke dužnosti i mišljenja o kandidatima za suce Visokoga kaznenog suda Republike Hrvatske u prvom postupku njihova imenovanja nakon stupanja na snagu ovoga Zakona daje Sudačko vijeće Vrhovnog suda Republike Hrvatske.
+
+#### Članak 80.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim članka 16. ovoga Zakona koji stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/18-01/31
+
+Zagreb, 6. srpnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sudovima (NN 21/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/21/222*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudovima, koji je Hrvatski sabor donio na sjednici 11. veljače 2022.
+
+Klasa: 011-02/22-02/12  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 16. veljače 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA**
+
+#### Članak 1.
+
+U Zakonu o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16. i 67/18.) u članku 1. stavku 1. iza riječi: »tumača« briše se zarez i dodaje riječ: »i«, a riječi: »i procjenitelja« brišu se.
+
+#### Članak 2.
+
+U članku 10. stavak 2. mijenja se i glasi:
+
+»(2) Pravomoćan godišnji raspored poslova predsjednik suda dužan je dostaviti predsjedniku neposredno višeg suda i ministarstvu nadležnom za poslove pravosuđa. Pravomoćan godišnji raspored poslova općinskog suda dostavlja se i predsjedniku Visokog prekršajnog suda Republike Hrvatske, a pravomoćan godišnji raspored poslova županijskog suda i predsjedniku Visokog kaznenog suda Republike Hrvatske.«.
+
+#### Članak 3.
+
+Članak 26.a mijenja se i glasi:
+
+»Visoki kazneni sud Republike Hrvatske:
+
+1. odlučuje u drugom stupnju o žalbama protiv odluka županijskih sudova u kaznenim predmetima, osim ako je zakonom propisano drukčije,
+
+2. provodi nadzor nad urednim obavljanjem poslova sudaca županijskih sudova koji rade na prvostupanjskim kaznenim predmetima,
+
+3. rješava sukob nadležnosti između županijskih sudova u prvostupanjskim kaznenim predmetima,
+
+4. obavlja druge poslove određene zakonom.«.
+
+#### Članak 4.
+
+U članku 28. stavak 2. mijenja se i glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, predsjednik Visokog prekršajnog suda Republike Hrvatske određuje provođenje nadzora nad urednim obavljanjem poslova sudaca koji rade na prekršajnim predmetima, a predsjednik Visokog kaznenog suda Republike Hrvatske određuje provođenje nadzora nad urednim obavljanjem poslova sudaca županijskih sudova koji rade na prvostupanjskim kaznenim predmetima. Nadzor obavljaju suci Visokog prekršajnog suda Republike Hrvatske odnosno suci Visokog kaznenog suda Republike Hrvatske koje je odredio predsjednik tog suda.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Predsjednik Vrhovnog suda Republike Hrvatske može odrediti nadzor nad urednim obavljanjem poslova svih sudaca i svih sudova. Nadzor obavljaju suci Vrhovnog suda Republike Hrvatske koje odredi predsjednik tog suda.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 5.
+
+Članak 29. mijenja se i glasi:
+
+»(1) Poslovi sudske uprave obuhvaćaju:
+
+1. osiguranje uvjeta za pravilan rad i poslovanje suda,
+
+2. skrb o urednom i pravodobnom obavljanju poslova u sudu,
+
+3. poslove pozivanja i raspoređivanja sudaca porotnika,
+
+4. poslove osiguranja podrške svjedocima i žrtvama u sudskim postupcima,
+
+5. postupanje po zahtjevu za zaštitu prava na suđenje u razum­nom roku,
+
+6. poslove ovjere isprava namijenjenih uporabi u inozemstvu,
+
+7. poslove u svezi s međunarodnom pravnom pomoći i pravosudnom suradnjom,
+
+8. poslove u svezi s predstavkama stranaka na rad suda,
+
+9. poslove vezane uz funkcioniranje informatičkog sustava,
+
+10. poslove financijsko-materijalnog poslovanja suda,
+
+11. poslove praćenja naplate sudskih pristojbi,
+
+12. stručne poslove u svezi s ostvarivanjem prava i dužnosti sudaca, službenika i namještenika u sudu,
+
+13. skrb o stručnom usavršavanju sudaca, sudskih savjetnika, sudačkih vježbenika i drugih službenika i namještenika u sudu,
+
+14. poslove upravljanja sudskom zgradom i nekretninama koje su dodijeljene sudu na korištenje,
+
+15. poslove vođenja statistike i analize upravljačkih izvješća o radu sudaca i suda,
+
+16. provođenje nadzora nad obradom osobnih podataka u sudskim postupcima,
+
+17. davanje obavijesti o radu suda i druge poslove propisane zakonom i Sudskim poslovnikom.
+
+(2) Ministar nadležan za poslove pravosuđa pravilnikom će propisati način obavljanja poslova sudske uprave iz stavka 1. točki 4., 7., 9., 10. i 15. ovoga članka.«.
+
+#### Članak 6.
+
+U članku 35. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Općinski, trgovački i upravni sudovi s 15 ili više sudaca te svi viši sudovi imaju ravnatelje sudske uprave.
+
+(2) Za ravnatelja sudske uprave može biti primljena osoba koja ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij pravne, upravne ili ekonomske struke i najmanje pet godina iskustva na odgovarajućim poslovima.«.
+
+#### Članak 7.
+
+U članku 37. stavku 7. riječi: »suci i« brišu se.
+
+Iza stavka 7. dodaju se stavci 8. do 11. koji glase:
+
+»(8) U općinskim sudovima utvrđenima zakonom osnivaju se sudski odjeli za postupanje u predmetima prema zakonu kojim se uređuju obiteljski odnosi.
+
+(9) Godišnjim rasporedom poslova određuju se suci i državni službenici za rad na predmetima iz stavka 8. ovoga članka. Pri određivanju sudaca za rad na ovim predmetima predsjednik suda vodit će računa o tome da suci koji se raspoređuju na rad na ovim predmetima moraju imati izraženu sklonost za odgoj, potrebe i probitke djece, vladati osnovnim znanjima iz područja socijalne pedagogije, psihologije mladih i socijalnog rada za mlade osobe te redovito pohađati stručno usavršavanje iz ovih područja.
+
+(10) Suce iz stavka 9. ovoga članka, vodeći računa o utvrđenim kriterijima, na vrijeme od pet godina iz reda sudaca tih sudova postavlja predsjednik Vrhovnog suda Republike Hrvatske. Nakon isteka roka od pet godina sudac može biti ponovno postavljen za suca za postupanje u predmetima prema zakonu kojim se uređuju obiteljski odnosi.
+
+(11) Program i način održavanja stručnog usavršavanja iz stavka 9. ovoga Zakona pravilnikom propisuje ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 8.
+
+U članku 44.a stavak 4. mijenja se i glasi:
+
+»(4) Pravodobne i potpune prijave kandidata koji ispunjavaju uvjete iz članka 44. ovoga Zakona Državno sudbeno vijeće dostavlja Predsjedniku Republike Hrvatske koji će o svim kandidatima u roku od osam dana zatražiti mišljenje od Opće sjednice Vrhovnog suda Republike Hrvatske i nadležnog odbora Hrvatskoga sabora.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ako Predsjednik Republike Hrvatske, u roku od 15 dana od dana zaprimanja posljednjeg zaprimljenog mišljenja iz stavka 4. ovoga članka, niti jednog od kandidata ne predloži za predsjednika Vrhovnog suda Republike Hrvatske odnosno ako u Hrvatskom saboru predloženi kandidat za predsjednika Vrhovnog suda Republike Hrvatske ne bude izabran, Državno sudbeno vijeće poništit će javni poziv i najkasnije u roku od osam dana ponovno pokrenuti postupak izbora predsjednika Vrhovnog suda Republike Hrvatske objavom javnog poziva.«.
+
+#### Članak 9.
+
+U članku 44.c stavak 3. mijenja se i glasi:
+
+»(3) Ako predsjednik Vrhovnog suda Republike Hrvatske prestane obnašati svoju dužnost, Državno sudbeno vijeće ovlastit će suca tog suda koji će do izbora predsjednika Vrhovnog suda Republike Hrvatske obavljati poslove sudske uprave.«.
+
+#### Članak 10.
+
+U članku 72. stavku 1. točka 7. briše se.
+
+Dosadašnje točke 8. do 14. postaju točke 7. do 13.
+
+#### Članak 11.
+
+U članku 76. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Predsjednik suda donosi pravilnik o unutarnjem redu suda, uz prethodnu suglasnost ministra nadležnog za poslove pravosuđa.
+
+(4) Pravilnikom o unutarnjem redu suda utvrđuju se radna mjesta državnih službenika i namještenika u sudu, potreban broj izvršitelja na svakom radnom mjestu, uvjeti za raspored na radno mjesto, opisi poslova radnog mjesta te druga pitanja od značaja za organizaciju i način rada pojedinog suda.«.
+
+#### Članak 12.
+
+Članak 80. mijenja se i glasi:
+
+»(1) Pravosudna inspekcija ministarstva nadležnog za poslove pravosuđa obavlja poslove inspekcijskog nadzora nad pravilnim i zakonitim obavljanjem poslova sudske uprave.
+
+(2) Ministar nadležan za poslove pravosuđa pravilnikom će propisati način provedbe inspekcijskih nadzora nad pravilnim i zakonitim obavljanjem poslova sudske uprave u sudovima.«.
+
+#### Članak 13.
+
+Iza članka 80. dodaje se članak 80.a koji glasi:
+
+»Članak 80.a
+
+(1) Pravosudni inspekcijski nadzor obavljaju državni službenici ministarstva nadležnog za poslove pravosuđa raspoređeni na radna mjesta inspektora, viših inspektora i viših inspektora – specijalista.
+
+(2) Inspektor može biti osoba koja ima završen diplomski sveučilišni studij prava ili integrirani preddiplomski i diplomski sveučilišni studij prava i najmanje tri godine radnog iskustva na odgovarajućim poslovima.
+
+(3) Viši inspektor može biti osoba koja ima završen diplomski sveučilišni studij prava ili integrirani preddiplomski i diplomski sveučilišni studij prava i najmanje četiri godine radnog iskustva na odgovarajućim poslovima.
+
+(4) Viši inspektor – specijalist može biti osoba koja ispunjava uvjete za višeg inspektora, ima istaknute rezultate u području od značaja za rad državnog tijela i prethodno odobrenje ministarstva nadležnog za službeničke odnose.
+
+(5) Poslovi radnih mjesta iz stavka 1. ovoga članka su poslovi s posebnim uvjetima rada.
+
+(6) Poslove pravosudne inspekcije mogu privremeno obavljati i suci koji ispunjavaju uvjete za suce županijskog suda i imaju iskustvo u obavljanju poslova sudske uprave.«.
+
+#### Članak 14.
+
+U članku 86. stavak 3. briše se.
+
+Dosadašnji stavci 4. i 5., koji postaju stavci 3. i 4., mijenjaju se i glase:
+
+»(3) Prilikom dodjele predmeta u rad na način propisan stavkom 2. ovoga članka vodit će se računa o ravnomjernoj podjeli predmeta te vrsti i složenosti predmeta.
+
+(4) Postupak dodjele predmeta u rad sucima uređuje se Sudskim poslovnikom te pravilnikom kojim se uređuje rad u informacijskom sustavu sudova.«.
+
+#### Članak 15.
+
+Iza članka 86. dodaje se članak 86.a koji glasi:
+
+»Članak 86.a
+
+(1) Predsjednik suda dužan je za svakog suca podnijeti zahtjev za obnavljanje provedene temeljne sigurnosne provjere svakih pet godina, računajući od dana stupanja na dužnost. Zahtjev se podnosi nadležnoj sigurnosno-obavještajnoj agenciji putem ministarstva nadležnog za poslove pravosuđa.
+
+(2) Obnavljanje temeljne sigurnosne provjere provodi se sukladno zakonu kojim se uređuju sigurnosne provjere, osim ako ovim zakonom nije drukčije propisano.
+
+(3) Izvješće o provedenoj sigurnosnoj provjeri dostavlja se predsjedniku Vrhovnog suda Republike Hrvatske.
+
+(4) Konačnu ocjenu o postojanju sigurnosnih zapreka na temelju dostavljenog izvješća donosi posebno vijeće koje čini pet sudaca Vrhovnog suda Republike Hrvatske koje imenuje Opća sjednica Vrhovnog suda Republike Hrvatske. Postupak izbora članova i način rada ovoga vijeća utvrđuju se Poslovnikom Vrhovnog suda Republike Hrvatske.
+
+(5) O utvrđenom postojanju sigurnosnih zapreka predsjednik Vrhovnog suda Republike Hrvatske obavještava predsjednika suda u kojem sudac obnaša sudačku dužnost, predsjednika neposredno višeg suda, nadležno sudačko vijeće i ministra nadležnog za poslove pravosuđa.
+
+(6) Postupak podnošenja zahtjeva za obnavljanje temeljne sigurnosne provjere pravilnikom propisuje ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 16.
+
+U članku 87. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) U smislu odredbe stavka 1. podstavka 7. ovoga članka, obitelji se smatra bračni drug, izvanbračni drug, životni partner odnosno neformalni životni partner te djeca za vrijeme redovitog školovanja.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 17.
+
+U članku 93. stavku 3. riječi: »najmanje jednom godišnje« brišu se.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Način provedbe obveznog stručnog usavršavanja sudaca pravilnikom propisuje ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 18.
+
+U članku 108. stavku 2. riječ: »stručnog« briše se.
+
+Iza stavka 4. dodaju se novi stavak 5. i stavci 6. do 9. koji glase:
+
+»(5) Državni službenik zaposlen u sudu dužan je položiti poseban stručni ispit za službenike u pravosudnim tijelima za radno mjesto na koje je raspoređen, najkasnije u roku od šest mjeseci od dana polaganja državnog ispita. Poseban stručni ispit nije dužan polagati državni službenik koji ima položen pravosudni ispit.
+
+(6) Poseban stručni ispit iz stavka 5. ovoga članka organizira i provodi ministarstvo nadležno za poslove pravosuđa.
+
+(7) Državnom službeniku zaposlenom u sudu prestaje državna služba po sili zakona ako ne položi poseban stručni ispit u propisanom roku, istekom roka u kojem je bio obvezan položiti stručni ispit.
+
+(8) U slučaju privremene nesposobnosti za rad, korištenja rodiljnog ili roditeljskog dopusta te drugog opravdanog razloga rok za polaganje posebnog stručnog ispita produžit će se na zahtjev službenika za onoliko vremena koliko je trajala privremena nesposobnost za rad, rodiljni ili roditeljski dopust ili drugi opravdani razlozi.
+
+(9) Zahtjev za produženje roka za polaganje posebnog stručnog ispita iz stavka 8. ovoga članka službenik može podnijeti čelniku tijela najkasnije do isteka roka za polaganje ispita, a o njemu se odlučuje posebnim rješenjem.«.
+
+Dosadašnji stavak 5., koji postaje stavak 10., mijenja se i glasi:
+
+»(10) Ministar nadležan za poslove pravosuđa pravilnikom će propisati potreban stupanj i vrstu stručne spreme te druge stručne uvjete za raspored službenika i namještenika zaposlenih u sudovima te program i način polaganja posebnog stručnog ispita za službenike u pravosudnim tijelima.«.
+
+#### Članak 19.
+
+U članku 112. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Kriterije za utvrđivanje broja stručnih suradnika koji se raspoređuju u odjele iz članka 37. stavka 8. ovoga Zakona određuje ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 20.
+
+U članku 113. stavku 10. iza riječi: »osobe« stavlja se zarez i dodaju riječi: »osim ako je uporaba vatrenog oružja jedino sredstvo za obranu od napada ili otklanjanje opasnosti«.
+
+Iza stavka 10. dodaje se novi stavak 11. koji glasi:
+
+»(11) Poslovi osiguranja osoba, imovine i objekata koje obavljaju službenici pravosudne policije u smislu ovoga Zakona obuhvaćaju i osiguranje ministarstva nadležnog za poslove pravosuđa.«.
+
+Dosadašnji stavak 11. postaje stavak 12.
+
+#### Članak 21.
+
+Članak 115. mijenja se i glasi:
+
+»(1) Uz opće uvjete za prijam u državnu službu službenici pravosudne policije moraju imati:
+
+1. posebnu zdravstvenu sposobnost,
+
+2. najviše 35 godina života ako je uvjet za prijam srednja stručna sprema.
+
+(2) Osoba koja se prima u državnu službu za službenika pravosudne policije prima se u svojstvu vježbenika, neovisno o prethodno ostvarenom radnom stažu.
+
+(3) Za vrijeme vježbeničkog staža službenik pravosudne policije mora završiti osposobljavanje i položiti ispit za zvanje. Službeniku pravosudne policije koji ne završi program osposobljavanja i ne položi ispit za zvanje prestaje državna služba istekom posljednjeg dana roka za polaganje ispita.
+
+(4) U slučaju privremene nesposobnosti za rad, korištenja rodiljnog ili roditeljskog dopusta te drugog opravdanog razloga rok za polaganje ispita za zvanje produžit će se na zahtjev službenika za onoliko vremena koliko je trajala privremena nesposobnost za rad, rodiljni ili roditeljski dopust ili drugi opravdani razlozi.
+
+(5) Zahtjev za produženje roka za polaganje ispita iz stavka 4. ovoga članka podnosi se ministru nadležnom za poslove pravosuđa najkasnije do isteka toga roka.
+
+(6) U slučaju iz stavka 4. ovoga članka vježbenik zadržava vježbenički status.
+
+(7) Službenici pravosudne policije postavljaju se u posebna zvanja obilježena odgovarajućim znakovljem, a za vrijeme službe nose posebnu odoru, službenu iskaznicu i značku.
+
+(8) Službenik pravosudne policije koji je primljen u državnu službu na poslove srednje stručne spreme, a ima završen viši ili visoki stupanj obrazovanja može se postaviti u najniže zvanje više ili visoke spreme i rasporediti na radno mjesto više složenosti nakon što je na poslovima osiguranja pravosudnih tijela proveo najmanje tri godine.
+
+(9) Osim teških povreda službene dužnosti propisanih zakonom kojim se utvrđuju prava i obveze državnih službenika, teškom povredom službene dužnosti za službenike pravosudne policije smatra se dolazak na posao i obavljanje poslova pod utjecajem alkohola ili dovođenje pod utjecaj alkohola na radnom mjestu, pri čemu se smatra da je službenik pravosudne policije pod utjecajem alkohola ako u organizmu ima alkohola iznad 0,00 g/kg odnosno odgovarajući iznos miligrama u litri izdahnutog zraka.
+
+(10) Službenici pravosudne policije koji obavljaju poslove osiguranja sudova podliježu temeljnoj sigurnosnoj provjeri.
+
+(11) U slučaju utvrđenja postojanja sigurnosnih zapreka ili nepristajanja na provođenje sigurnosne provjere službenik pravosudne policije rasporedit će se na radno mjesto za koje ispunjava uvjete, a ako nema odgovarajućeg slobodnog radnog mjesta, na odgovarajući način primjenjuju se odredbe zakona kojim se uređuje radnopravni odnos državnih službenika o stavljanju službenika na raspolaganje Vladi Republike Hrvatske.
+
+(12) Ministar nadležan za poslove pravosuđa posebnim pravilnikom propisuje zvanja, znakovlje, odoru i službenu iskaznicu te obuku službenika pravosudne policije.«.
+
+#### Članak 22.
+
+Članak 116. mijenja se i glasi:
+
+»(1) Posebnu zdravstvenu sposobnost za obavljanje poslova službenika pravosudne policije utvrđuje povjerenstvo osnovano odlukom ministra nadležnog za poslove pravosuđa.
+
+(2) Službeniku pravosudne policije koji odbije postupiti po obavijesti o upućivanju na utvrđivanje posebne zdravstvene sposobnosti za obavljanje poslova službenika pravosudne policije državna služba prestaje u roku od 15 dana od dana primitka obavijesti, što se utvrđuje rješenjem o prestanku državne službe.
+
+(3) Službenik pravosudne policije kojem je nadležno povjerenstvo iz stavka 1. ovoga Zakona utvrdilo nesposobnost za obavljanje poslova službenika pravosudne policije upućuje se u roku od 30 dana na ocjenu preostale radne sposobnosti.
+
+(4) Ako se službeniku pravosudne policije iz stavka 3. ovoga članka utvrdi preostala radna sposobnost, rasporedit će se na radno mjesto za koje ispunjava uvjete.
+
+(5) Ako se utvrdi da službenik pravosudne policije nema preostalu radnu sposobnost ili raspored iz stavka 4. ovoga članka nije moguć, a službenik je do izvršnosti rješenja o utvrđivanju preostale radne sposobnosti stekao uvjete za mirovinu, državna služba prestaje mu s danom stjecanja uvjeta za mirovinu.
+
+(6) Službeniku pravosudne policije koji ima preostalu radnu sposobnost, ali ga nije moguće rasporediti na odgovarajuće radno mjesto ili koji nema preostalu radnu sposobnost, a nije stekao uvjete za mirovinu državna služba prestaje danom izvršnosti odluke o preostaloj radnoj sposobnosti.
+
+(7) Pravilnik o mjerilima posebne zdravstvene sposobnosti, postupku utvrđivanja posebne zdravstvene sposobnosti za obavljanje poslova službenika pravosudne policije te o izboru članova i načinu rada povjerenstva iz stavka 1. ovoga članka donosi ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 23.
+
+Iza članka 116. dodaje se članak 116.a koji glasi:
+
+»Članak 116.a
+
+(1) Službenicima pravosudne policije zbog težine i naravi posla i posebnih uvjeta rada (povećane opasnosti za život i zdravlje zbog nasilja, izloženosti zaraznim bolestima, smjenskog rada, rada na državne blagdane i neradne dane i potrebe pripravnosti te izloženosti stresu) svakih 12 mjeseci provedenih na takvim poslovima računa se kao 16 mjeseci staža osiguranja te im pripada poseban dodatak na plaću zbog rada u posebnim uvjetima u skladu s uredbom Vlade Republike Hrvatske.
+
+(2) Službenicima pravosudne policije koji ostvare pravo na mirovinu, a imaju manje od deset godina efektivnog radnog staža ostvarenog na poslovima osiguranja pripada otpremnina u iznosu od dvije prosječne mjesečne netoplaće koje su ostvarili u tri mjeseca prije prestanka državne službe.
+
+(3) Službenicima pravosudne policije koji ostvare pravo na mirovinu, a imaju od deset do 20 godina efektivnog radnog staža ostvarenog na poslovima osiguranja pripada otpremnina u iznosu od tri prosječne mjesečne netoplaće koje su ostvarili u tri mjeseca prije prestanka državne službe.
+
+(4) Službenicima pravosudne policije koji ostvare pravo na mirovinu, a imaju više od 20 godina efektivnog radnog staža ostvarenog na poslovima osiguranja pripada otpremnina u iznosu od pet prosječnih mjesečnih netoplaća koje su ostvarili u tri mjeseca prije prestanka državne službe.
+
+(5) Obitelj službenika pravosudne policije koji izgubi život u obavljanju službe ili povodom obavljanja službe ima pravo na nadoknadu troškova pokopa, a uzdržavani članovi obitelji i jednokratnu novčanu pomoć u visini 12 zadnjih netoplaća službenika.
+
+(6) Ostvarivanje prava iz stavka 5. ovoga članka isključuje ostvarivanje prava obitelji službenika i namještenika na pomoć od tri proračunske osnovice te podmirivanje troškova pogreba iz kolektivnog ugovora kojim se utvrđuju prava i obveze iz rada i po osnovi rada državnih službenika i namještenika zaposlenih u državnim tijelima.
+
+(7) Službenici pravosudne policije prava iz mirovinskog osiguranja ostvaruju prema posebnom zakonu.«.
+
+#### Članak 24.
+
+Naziv glave XIV. iznad naslova članka 123. mijenja se i glasi: »STALNI SUDSKI TUMAČI I VJEŠTACI«.
+
+#### Članak 25.
+
+Članak 123. mijenja se i glasi:
+
+»Stalni sudski tumači tumače odnosno prevode na zahtjev pravosudnih tijela ili stranaka za potrebe postupaka izgovoreni ili pisani tekst s hrvatskog jezika na strani jezik, sa stranog jezika na hrvatski jezik ili sa stranog jezika na drugi strani jezik.«.
+
+#### Članak 26.
+
+Članak 124. mijenja se i glasi:
+
+»(1) Za stalnog sudskog tumača može biti imenovana osoba koja ispunjava sljedeće uvjete:
+
+1. državljanin je Republike Hrvatske, državljanin države članice Europske unije ili državljanin države potpisnice Sporazuma o Europskom gospodarskom prostoru,
+
+2. ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, odnosno završen preddiplomski sveučilišni studij ili preddiplomski stručni studij,
+
+3. vlada odgovarajućim stranim jezikom razine C2 prema Zajedničkom europskom referentnom okviru za jezike odnosno druge najviše razine za koju postoji priznat ispit i hrvatskim jezikom,
+
+4. zdravstveno je sposobna za obavljanje poslova stalnog sudskog tumača,
+
+5. uspješno je završila provjeru znanja iz ustrojstva sudbene vlasti, državne uprave i pravnog nazivlja,
+
+6. ima sklopljen ugovor o osiguranju od odgovornosti za obavljanje poslova stalnog sudskog tumača.
+
+(2) Iznimno od odredbe stavka 1. točke 5. ovoga članka, osoba koja ima završen diplomski sveučilišni studij prava ili integrirani preddiplomski i diplomski sveučilišni studij prava te osoba koja je već imenovana za stalnog sudskog tumača za neki drugi jezik nije dužna pristupiti provjeri znanja iz ustrojstva sudbene vlasti, državne uprave i pravnog nazivlja.
+
+(3) Za stalnog sudskog tumača ne može se imenovati osoba protiv koje se vodi kazneni postupak ili koja je pravomoćno proglašena krivom za kaznena djela za koja se postupak vodi po službenoj dužnosti, osim za kaznena djela počinjena iz nehaja.
+
+(4) Prije imenovanja kandidati za stalne sudske tumače dužni su uspješno završiti stručnu obuku u strukovnoj udruzi stalnih sudskih tumača.«.
+
+#### Članak 27.
+
+Iza članka 124. dodaju se članci 124.a, 124.b. i 124.c koji glase:
+
+»Članak 124.a
+
+(1) Stalnom sudskom tumaču privremeno će se zabraniti obavljanje poslova stalnog sudskog tumača:
+
+– ako bez opravdanog razloga ne preuzima dodijeljene poslove,
+
+– ako bez opravdanog razloga nije dovršio povjereni posao po nalogu pravosudnog tijela,
+
+– ako se neprimjereno odnosi prema zaposlenicima pravosudnih tijela ili strankama,
+
+– ako se protiv njega pokrene kazneni postupak zbog kaznenog djela za koje se progoni po službenoj dužnosti, osim zbog kaznenog djela počinjenog iz nehaja.
+
+(2) Privremena zabrana izriče se u trajanju od tri mjeseca do godinu dana, osim u slučaju iz stavka 1. podstavka 3. ovoga članka kada se izriče do pravomoćnog okončanja kaznenog postupka.
+
+#### Članak 124.b
+
+Stalni sudski tumač razriješit će se:
+
+– ako to sam zatraži,
+
+– ako se utvrdi da nisu postojali odnosno da su prestali postojati uvjeti na temelju kojih je imenovan,
+
+– ako je na temelju pravomoćne odluke nadležnog tijela proglašen nesposobnim za obavljanje djelatnosti,
+
+– ako mu je na temelju pravomoćne sudske odluke oduzeta poslovna sposobnost,
+
+– ako mu je izrečena pravomoćna presuda za kazneno djelo za koje se postupak vodi po službenoj dužnosti, osim za kazneno djelo počinjeno iz nehaja,
+
+– ako nesavjesno ili neuredno obavlja povjerene mu poslove,
+
+– ako ne dostavi dokaz o zaključenom ugovoru o osiguranju od odgovornosti za obavljanje poslova stalnog sudskog tumača,
+
+– ako povrijedi odredbe članka 130. ovoga Zakona,
+
+– ako obavlja poslove stalnog sudskog tumača i nakon izvršnosti rješenja o privremenoj zabrani obavljanja poslova stalnog sudskog tumača.
+
+#### Članak 124.c
+
+(1) Stalne sudske tumače imenuje i razrješava te o njihovim drugim pravima i dužnostima odlučuje ministar nadležan za poslove pravosuđa. U postupku imenovanja zatražit će se prethodno mišljenje predsjednika nadležnog županijskog suda.
+
+(2) Protiv odluka iz stavka 1. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+(3) Ministarstvo nadležno za poslove pravosuđa vodi popis imenovanih stalnih sudskih tumača i objavljuje ga na svojoj mrežnoj stranici.
+
+(4) Ministar nadležan za poslove pravosuđa propisat će pravilnikom postupak imenovanja i razrješenja stalnih sudskih tumača, njihova prava i dužnosti te visinu nagrade i naknade troškova za njihov rad.«.
+
+#### Članak 28.
+
+Članak 125. mijenja se i glasi:
+
+»Stalni sudski vještaci na temelju svoga stručnog znanja na zahtjev pravosudnih tijela ili za potrebe postupaka pred pravosudnim tijelima izrađuju vještački nalaz i mišljenje (vještačenje) odnosno procjenu kada je to potrebno radi utvrđivanja ili razjašnjenja činjenica koje se utvrđuju u postupku.«.
+
+#### Članak 29.
+
+Članak 126. mijenja se i glasi:
+
+»(1) Za stalnog sudskog vještaka može biti imenovana osoba koja ispunjava sljedeće uvjete:
+
+1. državljanin je Republike Hrvatske, državljanin države članice Europske unije ili državljanin države potpisnice Sporazuma o Europskom gospodarskom prostoru,
+
+2. ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij odnosno završen preddiplomski sveučilišni studij ili preddiplomski stručni studij odgovarajući području vještačenja za koje se imenuje,
+
+3. nakon završenog preddiplomskog i diplomskog sveučilišnog studija ili integriranog preddiplomskog i diplomskog sveučilišnog studija ili specijalističkog diplomskog stručnog studija radila je na poslovima u struci najmanje osam godina, a nakon završenog preddiplomskog sveučilišnog studija ili preddiplomskog stručnog studija na poslovima u struci najmanje deset godina,
+
+4. vlada hrvatskim jezikom,
+
+5. zdravstveno je sposobna za obavljanje poslova stalnog sudskog vještaka,
+
+6. uspješno je završila provjeru znanja iz ustrojstva sudbene vlasti, državne uprave i pravnog nazivlja,
+
+7. ima sklopljen ugovor o osiguranju od odgovornosti za obavljanje poslova stalnog sudskog vještaka,
+
+8. ima valjano odobrenje za samostalno obavljanje djelatnosti (licenciju) ili položen stručni odnosno specijalistički ispit za obavljanje djelatnosti ako je to, sukladno posebnim propisima, uvjet za obavljanje tih djelatnosti.
+
+(2) Za stalnog sudskog vještaka ne može se imenovati osoba protiv koje se vodi kazneni postupak ili koja je pravomoćno proglašena krivom za kaznena djela za koja se postupak vodi po službenoj dužnosti, osim za kaznena djela počinjena iz nehaja.
+
+(3) Iznimno od odredbi stavka 1. točki 2. i 3. ovoga članka, ako u Republici Hrvatskoj za određeno područje vještačenja nema mogućnosti završetka sveučilišnog ili stručnog studija, za stalnog sudskog vještaka može se imenovati i osoba sa stečenom srednjom stručnom spremom odgovarajućom području vještačenja za koje se imenuje i koja je nakon završene škole radila na poslovima u struci najmanje 12 godina.
+
+(4) Iznimno od odredbe stavka 1. točke 3. ovoga članka, liječnici specijalisti uvjet za obavljanje poslova stalnog sudskog vještaka stječu nakon položenog specijalističkog ispita.
+
+(5) Iznimno od odredbe stavka 1. točke 6. ovoga članka, osoba koja ima završen diplomski sveučilišni studij prava ili integrirani preddiplomski i diplomski sveučilišni studij prava nije dužna pristupiti provjeri znanja iz ustrojstva sudbene vlasti, državne uprave i pravnog nazivlja.
+
+(6) Prije imenovanja kandidati za stalne sudske vještake dužni su uspješno završiti stručnu obuku u strukovnoj udruzi stalnih sudskih vještaka.«.
+
+#### Članak 30.
+
+Članak 127. mijenja se i glasi:
+
+»(1) Stalnom sudskom vještaku privremeno će se zabraniti obavljanje poslova stalnog sudskog vještaka:
+
+– ako bez opravdanog razloga ne preuzima dodijeljene predmete,
+
+– ako bez opravdanog razloga nije dovršio povjereno mu vještačenje,
+
+– ako se neprimjereno odnosi prema zaposlenicima pravosudnih tijela ili strankama,
+
+– ako se protiv njega pokrene kazneni postupak zbog kaznenog djela, osim zbog kaznenog djela počinjenog iz nehaja.
+
+(2) Privremena zabrana izriče se u trajanju od tri mjeseca do godinu dana, osim u slučaju iz stavka 1. podstavka 4. ovoga članka kada se izriče do pravomoćnog okončanja kaznenog postupka.«.
+
+#### Članak 31.
+
+Iza članka 127. dodaju se članci 127.a i 127.b koji glase:
+
+»Članak 127.a
+
+Stalni sudski vještak razriješit će se:
+
+– ako to sam zatraži,
+
+– ako se utvrdi da nisu postojali odnosno da su prestali postojati uvjeti na temelju kojih je imenovan,
+
+– ako je na temelju pravomoćne odluke nadležnog tijela proglašen nesposobnim za obavljanje djelatnosti iz područja za koje je imenovan,
+
+– ako mu je na temelju pravomoćne sudske odluke oduzeta poslovna sposobnost,
+
+– ako mu je izrečena pravomoćna presuda za kazneno djelo za koje se postupak vodi po službenoj dužnosti, osim za kazneno djelo počinjeno iz nehaja,
+
+– ako nesavjesno ili neuredno obavlja povjerene mu poslove vještačenja,
+
+– ako ne dostavi dokaz o zaključenom ugovoru o osiguranju od odgovornosti za obavljanje poslova stalnog sudskog vještaka,
+
+– ako povrijedi odredbe članka 130. ovoga Zakona,
+
+– ako obavlja poslove stalnog sudskog vještaka i nakon izvršnosti rješenja o privremenoj zabrani obavljanja poslova stalnog sudskog vještaka.
+
+#### Članak 127.b
+
+(1) Stalne sudske vještake imenuje i razrješava te o njihovim drugim pravima i dužnostima odlučuje ministar nadležan za poslove pravosuđa. U postupku imenovanja zatražit će se prethodno mišljenje predsjednika nadležnog županijskog suda.
+
+(2) Protiv odluka iz stavka 1. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+
+(3) Ministarstvo nadležno za poslove pravosuđa vodi popis imenovanih stalnih sudskih vještaka te ga objavljuje na svojoj mrežnoj stranici.
+
+(4) Ministar nadležan za poslove pravosuđa propisat će pravilnikom postupak imenovanja i razrješenja stalnih sudskih vještaka, njihova prava i dužnosti te visinu nagrade i naknade troškova za njihov rad.«.
+
+#### Članak 32.
+
+Naslov iznad članka 128. i članci 128. i 129. brišu se.
+
+#### Članak 33.
+
+(1) U cijelom tekstu Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16. i 67/18.) riječi: »ministar pravosuđa« i riječi: »Ministarstvo pravosuđa« u određenom padežu zamjenjuju se riječima: »ministar nadležan za poslove pravosuđa« i riječima: »ministarstvo nadležno za poslove pravosuđa« u odgovarajućem padežu.
+
+(2) U cijelom tekstu Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16. i 67/18.) riječi: »sudski službenik« u određenom broju i padežu zamjenjuju se riječima: »državni službenik« u odgovarajućem broju i padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 34.
+
+(1) Za sve suce koji su imenovani i koji obnašaju sudačku dužnost na dan stupanja na snagu ovoga Zakona, a u odnosu na koje nije provedena sigurnosna provjera ili u odnosu na koje je sigurnosna provjera provedena prije više od pet godina predsjednici sudova dužni su putem ministarstva nadležnog za poslove pravosuđa nadležnoj sigurnosno-obavještajnoj agenciji podnijeti zahtjev za provedbu temeljne sigurnosne provjere u roku od 60 dana od dana stupanja na snagu pravilnika iz članka 15. ovoga Zakona.
+
+(2) Na postupak podnošenja zahtjeva za provedbu temeljne sigurnosne provjere, dostavu izvješća o provedenoj sigurnosnoj provjeri, konačnu ocjenu o postojanju sigurnosnih zapreka te obavijest o utvrđenom postojanju sigurnosnih zapreka primjenjuju se odredbe članka 15. ovoga Zakona.
+
+#### Članak 35.
+
+(1) Stalni sudski tumači, stalni sudski vještaci i stalni sudski procjenitelji imenovani sukladno odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16. i 67/18.) te pravne osobe kojima je sukladno odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15. i 67/18.) odobreno obavljanje poslova prevođenja odnosno tumačenja, vještačenja i procjenjivanja nastavljaju obavljati navedene poslove do isteka vremena na koje su imenovani odnosno na koje im je dano odobrenje.
+
+(2) Na pravne osobe kojima je sukladno odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16. i 67/18.) odobreno obavljanje poslova prevođenja, vještačenja odnosno procjenjivanja te na stalne sudske procjenitelje imenovane sukladno odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15. i 67/18.) nakon stupanja na snagu ovoga Zakona na odgovarajući se način primjenjuje ovaj Zakon te pravilnici iz članaka 27. i 31. ovoga Zakona.
+
+(3) Stalne sudske tumače, stalne sudske vještake i stalne sudske procjenitelje iz stavka 1. ovoga članka ministar nadležan za poslove pravosuđa po službenoj će dužnosti uvrstiti u jedinstveni popis stalnih sudskih tumača, stalnih sudskih vještaka i stalnih sudskih procjenitelja koji će se objaviti na mrežnoj stranici ministarstva nadležnog za poslove pravosuđa.
+
+(4) Postupci imenovanja stalnih sudskih tumača, stalnih sudskih vještaka i stalnih sudskih procjenitelja započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16. i 67/18.).
+
+(5) Stalni sudski vještaci i stalni sudski tumači koji na dan stupanja na snagu ovoga Zakona budu imenovani sukladno odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16. i 67/18.) zahtjev za imenovanje nakon isteka vremena na koje su prethodno imenovani podnose ministarstvu nadležnom za poslove pravosuđa najkasnije 30 dana prije isteka vremena prethodnog imenovanja. U postupku imenovanja ministarstvo nadležno za poslove pravosuđa ispituje postojanje uvjeta propisanih ovim Zakonom, a osobe u odnosu na koje se utvrdi ispunjenost propisanih uvjeta nisu dužne polagati provjeru znanja iz poznavanja ustrojstva sudbene vlasti, državne uprave i pravnog nazivlja, obaviti stručnu obuku niti položiti prisegu.
+
+#### Članak 36.
+
+(1) Pravilnik iz članka 15. ovoga Zakona ministar nadležan za poslove pravosuđa donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Pravilnike iz članaka 7., 12., 17., 18., 21., 22., 27. i 31. ovoga Zakona ministar nadležan za poslove pravosuđa donijet će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(3) Predsjednik Vrhovnog suda Republike Hrvatske uskladit će s odredbama ovoga Zakona Poslovnik Vrhovnog suda Republike Hrvatske u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 37.
+
+Do stupanja na snagu pravilnika iz članaka 21., 22., 27. i 31. ovoga Zakona ostaju na snazi:
+
+– Pravilnik o zvanjima, znakovlju i uvjetima postavljanja u zvanja službenika pravosudne policije (»Narodne novine«, br. 31/15.)
+
+– Pravilnik o službenoj iskaznici i znački službenika pravosudne policije (»Narodne novine«, br. 31/15. i 130/20.)
+
+– Pravilnik o postupku utvrđivanja posebne zdravstvene sposobnosti za obavljanje poslova službenika pravosudne policije te o izboru članova i načinu rada zdravstvene komisije (»Narodne novine«, br. 123/15.)
+
+– Pravilnik o stalnim sudskim tumačima (»Narodne novine«, br. 88/08. i 119/08.)
+
+– Pravilnik o stalnim sudskim vještacima (»Narodne novine«, br. 38/14., 123/15., 29/16. – ispravak i 61/19.)
+
+– Pravilnik o stalnim sudskim procjeniteljima (»Narodne novine«, br. 64/98. i 88/08.).
+
+#### Članak 38.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. ožujka 2022., osim članka 5. i članaka 24. do 32. ovoga Zakona koji stupaju na snagu 1. siječnja 2023.
+
+Klasa: 022-03/21-01/124
+
+Zagreb, 11. veljače 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sudovima (NN 36/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/568*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudovima, koji je Hrvatski sabor donio na sjednici 14. ožujka 2024.
+
+Klasa: 011-02/24-02/24
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 18. ožujka 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA**
+
+#### Članak 1.
+
+U Zakonu o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16., 67/18., 21/22., 16/23. i 155/23.) u članku 6. iza stavka 4. dodaju se stavci 5., 6. i 7. koji glase:
+
+»(5) Sudske odluke kojima se postupak dovršava javno se objavljuju na posebnoj mrežnoj stranici uz prethodnu anonimizaciju i poštivanje pravila o zaštiti osobnih podataka.
+
+(6) Javna objava iz stavka 5. ovoga članka provodi se radi ostvarivanja javnosti i transparentnosti rada sudova, omogućavanja kontinuiranog pristupa informacijama o radu sudova te jačanja povjerenja javnosti u sudbenu vlast.
+
+(7) Način anonimizacije, objave i pretraživanja anonimiziranih sudskih odluka iz stavka 5. ovoga članka pravilnikom propisuje ministar nadležan za poslove pravosuđa uz prethodno mišljenje predsjednika Vrhovnog suda Republike Hrvatske.«.
+
+#### Članak 2.
+
+Iza članka 10. dodaje se članak 10.a koji glasi:
+
+»Članak 10.a
+
+(1) Godišnjim rasporedom poslova određuju se suci i državni službenici za rad na predmetima nasilja u obitelji. Pri određivanju sudaca za rad na ovim predmetima predsjednik suda vodit će računa o tome da suci koji se raspoređuju na rad na ovim predmetima moraju imati izražen osjećaj i sklonost za rad na predmetima ove vrste te redovito pohađati stručno usavršavanje iz ovog područja.
+
+(2) Program i način održavanja stručnog usavršavanja iz stavka 1. ovoga članka pravilnikom propisuje ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 3.
+
+U članku 37. stavku 7. iza riječi: »raditi« dodaju se riječi: »suci i«.
+
+U stavku 11. riječ: »Zakona« zamjenjuje se riječju: »članka«.
+
+#### Članak 4.
+
+Članak 64. mijenja se i glasi:
+
+»Postupak odlučivanja o zahtjevu za zaštitu prava na suđenje u razumnom roku provodi se uz odgovarajuću primjenu pravila o izvanparničnom postupku, u pravilu bez održavanja ročišta.«.
+
+#### Članak 5.
+
+Članak 65. mijenja se i glasi:
+
+»(1) Zahtjev za zaštitu prava na suđenje u razumnom roku podnosi se predsjedniku neposredno višeg suda.
+
+(2) Ako se zahtjev odnosi na postupak koji je u tijeku pred Vrhovnim sudom Republike Hrvatske, o zahtjevu odlučuje vijeće od tri suca tog suda.
+
+(3) Predsjednik neposredno višeg suda odnosno predsjednik vijeća iz stavka 2. ovoga članka će u roku od 15 dana od primitka zahtjeva zatražiti od suca koji postupa u predmetu izvješće o duljini trajanja postupka, razlozima zbog kojih postupak nije okončan i mišljenje o roku u kojem se predmet može riješiti.
+
+(4) Sudac koji postupa u predmetu dužan je izvješće iz stavka 3. ovoga članka dostaviti odmah, a najkasnije u roku od 15 dana od traženja.
+
+(5) Pri odlučivanju o podnesenom zahtjevu osobito će se voditi računa o vrsti predmeta, činjeničnoj i pravnoj složenosti predmeta, ponašanju stranaka te postupanju suda.«.
+
+#### Članak 6.
+
+Članak 66. mijenja se i glasi:
+
+»(1) Ako predsjednik neposredno višeg suda odnosno vijeće iz članka 65. stavka 2. ovoga Zakona utvrde da je zahtjev osnovan, odredit će rok u pravilu od najdulje šest mjeseci, osim ako okolnosti slučaja ne nalažu određivanje duljeg roka u kojem sudac predmet mora riješiti te primjerenu naknadu koja pripada stranki zbog povrede prava na suđenje u razumnom roku.
+
+(2) Ako sudac ne riješi predmet u određenom roku, dužan je u roku od 15 dana od isteka određenog roka o razlozima dostaviti pisano izvješće predsjedniku neposredno višeg suda i predsjedniku suda pred kojim je došlo do povrede prava na suđenje u razumnom roku. Predsjednik neposredno višeg suda dostavit će bez odgode izvješće suca i svoje očitovanje ministarstvu nadležnom za poslove pravosuđa.«.
+
+#### Članak 7.
+
+Članak 67. mijenja se i glasi:
+
+»(1) Predsjednik neposredno višeg suda odnosno vijeće iz članka 65. stavka 2. ovoga Zakona dužni su odlučiti o podnesenom zahtjevu u roku od 60 dana od njegova zaprimanja.
+
+(2) Protiv rješenja kojim se odlučuje o zahtjevu za zaštitu prava na suđenje u razumnom roku i ako o zahtjevu nije odlučeno u roku od 60 dana od dana njegova zaprimanja stranka ima pravo žalbe u roku od osam dana od primitka rješenja odnosno isteka roka u kojem je rješenje trebalo biti doneseno.
+
+(3) O žalbi odlučuje vijeće Vrhovnog suda Republike Hrvatske od tri suca tog suda. Ako se zahtjev odnosi na postupak koji je u tijeku pred Vrhovnim sudom Republike Hrvatske, o žalbi odlučuje vijeće od pet sudaca tog suda.
+
+(4) Vijeće iz stavka 3. ovoga članka može žalbu odbiti kao neosnovanu i potvrditi prvostupanjsko rješenje ili preinačiti rješenje.«.
+
+#### Članak 8.
+
+Članak 68. briše se.
+
+#### Članak 9.
+
+Članak 69. mijenja se i glasi:
+
+»(1) Ukupno određena primjerena naknada u jednom predmetu ne može iznositi više od 4650,00 eura.
+
+(2) Rješenje kojim se odlučuje o zahtjevu za zaštitu prava na suđenje u razumnom roku dostavlja se odmah nakon pravomoćnosti predsjedniku suda pred kojim je došlo do povrede prava na suđenje u razumnom roku, predsjedniku Vrhovnog suda Republike Hrvatske, nadležnom sudačkom vijeću i ministarstvu nadležnom za poslove pravosuđa.
+
+(3) Naknada iz stavka 1. ovoga članka isplaćuje se iz sredstava državnog proračuna. Zahtjev za isplatu naknade podnosi se ministarstvu nadležnom za poslove pravosuđa.«.
+
+#### Članak 10.
+
+U članku 80.a stavci 5. i 6. mijenjaju se i glase:
+
+»(5) Iznimno od stavaka 2., 3. i 4. ovoga članka, osobe koje obavljaju nadzor nad financijsko-materijalnim poslovanjem sudova moraju imati završen diplomski sveučilišni studij ekonomije ili specijalistički diplomski stručni studij ekonomije.
+
+(6) Poslove pravosudne inspekcije, osim poslova nadzora nad financijsko-materijalnim poslovanjem sudova, mogu privremeno obavljati i suci koji ispunjavaju uvjete za suce županijskog suda i imaju iskustvo u obavljanju poslova sudske uprave.«.
+
+#### Članak 11.
+
+U članku 86. stavak 2. mijenja se i glasi:
+
+»(2) U sudovima se predmeti u rad sucima dodjeljuju automatskom dodjelom, primjenom odgovarajućeg algoritma.«.
+
+#### Članak 12.
+
+U članku 91. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Sudac ne smije voditi stegovne postupke pri tijelima strukovnih komora i udruga.
+
+(5) Sudac ne smije sudjelovati u radu sudova časti u postupcima u kojima se utvrđuju povrede dobrih poslovnih običaja.«.
+
+#### Članak 13.
+
+Iza članka 109. dodaje se članak 109.a koji glasi:
+
+»Članak 109.a
+
+(1) Općinski sud nadležan za postupanje u zemljišnoknjižnim predmetima može imati zemljišnoknjižne sudske savjetnike, više zemljišnoknjižne sudske savjetnike i više zemljišnoknjižne sudske savjetnike – specijaliste.
+
+(2) Zemljišnoknjižni sudski savjetnik može biti osoba koja ima završen diplomski sveučilišni studij prava odnosno integrirani preddiplomski i diplomski sveučilišni studij prava, položen pravosudni ispit i najmanje dvije godine radnog iskustva na odgovarajućim poslovima, od čega najmanje jednu godinu radnog iskustva na zemljišnoknjižnim poslovima.
+
+(3) Viši zemljišnoknjižni sudski savjetnik može biti osoba koja ima završen diplomski sveučilišni studij prava odnosno integrirani preddiplomski i diplomski sveučilišni studij prava, položen pravosudni ispit i najmanje četiri godine radnog iskustva na odgovarajućim poslovima, od čega najmanje dvije godine radnog iskustva na zemljišnoknjižnim poslovima.
+
+(4) Viši zemljišnoknjižni savjetnik – specijalist može biti osoba koja ima završen diplomski sveučilišni studij prava odnosno integrirani preddiplomski i diplomski sveučilišni studij prava, položen pravosudni ispit i najmanje četiri godine radnog iskustva na odgovarajućim poslovima, od čega najmanje tri godine radnog iskustva na zemljišnoknjižnim poslovima.«.
+
+#### Članak 14.
+
+U članku 110. stavku 4. točka 1. mijenja se i glasi:
+
+»1. u parničnim postupcima u sporovima za isplatu novčane tražbine ili naknadu štete u kojima vrijednost predmeta spora ne prelazi 13.300,00 eura te u trgovačkim sporovima u kojima vrijednost predmeta spora ne prelazi 66.400,00 eura,«.
+
+Točka 3. mijenja se i glasi:
+
+»3. u upravnim sporovima u kojima se odlučuje o tužbama u predmetima koji se rješavaju na temelju pravomoćne presude donesene u oglednom sporu, o tužbama protiv postupanja ili zbog propuštanja postupanja javnopravnog tijela i u upravnim sporovima u kojima vrijednost predmeta spora ne prelazi 13.300,00 eura,«.
+
+#### Članak 15.
+
+U članku 118. stavak 2. mijenja se i glasi:
+
+»(2) Odredbe ovoga Zakona koje se odnose na suce i odredbe zakona kojim se uređuje prestanak sudačke dužnosti na odgovarajući se način primjenjuju i na suce porotnike ako zakonom nije drukčije određeno.«.
+
+#### Članak 16.
+
+U članku 119. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Suce porotnike razrješava i prestanak dužnosti utvrđuje skupština koja ih je imenovala.«.
+
+#### Članak 17.
+
+Članak 122. mijenja se i glasi:
+
+»(1) Sucima porotnicima izdaje se službena iskaznica, a za obnašanje dužnosti imaju pravo na naknadu nastalih troškova, naknadu za neostvarenu plaću ili zaradu i nagradu.
+
+(2) Obrazac, postupak izdavanja i sadržaj službene iskaznice te uvjete i visinu naknada i nagrade iz stavka 1. ovoga članka pravilnikom određuje ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 18.
+
+U članku 124. stavku 1. točka 3. mijenja se i glasi:
+
+»3. vlada odgovarajućim stranim jezikom visoke razine odnosno ima završen studij stranog jezika, završen studij na stranom jeziku ili ima ispravu o poznavanju stranog jezika razine C2 prema Zajedničkom europskom referentnom okviru za jezike odnosno druge najviše razine za koju postoji priznat ispit i vlada hrvatskim jezikom,«.
+
+U točki 6. iza riječi: »tumača« dodaju se riječi: »na najnižu svotu osiguranja od 15.000,00 eura«.
+
+U stavku 3. riječi: »osim za kaznena djela počinjena iz nehaja« zamjenjuju se riječima: »osim za kaznena djela koja se odnose na sigurnost prometa pod uvjetom da za ta kaznena djela nije osuđena na bezuvjetnu kaznu zatvora«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Prije imenovanja kandidati za stalne sudske tumače dužni su uspješno završiti stručnu obuku, čiji program i način provedbe pravilnikom propisuje ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 19.
+
+U članku 124.a stavku 1. iza podstavka 3. dodaje se novi podstavak 4. koji glasi:
+
+» – ako ne dostavi dokaz o zaključenom ugovoru o osiguranju od odgovornosti za obavljanje poslova stalnog sudskog tumača,«.
+
+U dosadašnjem podstavku 4., koji postaje podstavak 5., riječi: »osim zbog kaznenog djela počinjenog iz nehaja« zamjenjuju se riječima: »osim zbog kaznenog djela koje se odnosi na sigurnost prometa pod uvjetom da za to kazneno djelo nije osuđen na bezuvjetnu kaznu zatvora«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Privremena zabrana izriče se u trajanju od tri mjeseca do godinu dana, osim u slučaju iz stavka 1. podstavka 5. ovoga članka kada se izriče do pravomoćnog okončanja kaznenog postupka.«.
+
+#### Članak 20.
+
+U članku 124.b podstavku 5. riječi: »osim za kazneno djelo počinjeno iz nehaja« zamjenjuju se riječima: »osim za kazneno djelo koje se odnosi na sigurnost prometa pod uvjetom da za to kazneno djelo nije osuđen na bezuvjetnu kaznu zatvora«.
+
+Podstavak 7. mijenja se i glasi:
+
+» – ako u roku određenom privremenom zabranom ne dostavi dokaz o zaključenom ugovoru o osiguranju od odgovornosti za obavljanje poslova stalnog sudskog tumača,«.
+
+#### Članak 21.
+
+U članku 124.c stavku 1. druga rečenica mijenja se i glasi: »U postupku imenovanja zatražit će se prethodno mišljenje predsjednika nadležnog županijskog suda, koji ga je dužan dati u roku od 15 dana, a u protivnom se smatra da je suglasan s predloženim imenovanjem.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ministarstvo nadležno za poslove pravosuđa vodi popis imenovanih stalnih sudskih tumača i objavljuje ga na e-Oglasnoj ploči sudova te imenovanim stalnim sudskim tumačima izdaje službenu iskaznicu.«.
+
+#### Članak 22.
+
+U članku 126. stavku 1. točki 7. iza riječi: »vještaka« dodaju se riječi: »na najnižu svotu osiguranja od 25.000,00 eura«.
+
+U stavku 2. riječi: »osim za kaznena djela počinjena iz nehaja« zamjenjuju se riječima: »osim za kaznena djela koja se odnose na sigurnost prometa pod uvjetom da za ta kaznena djela nije osuđena na bezuvjetnu kaznu zatvora«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Iznimno od odredbe stavka 1. točke 3. ovoga članka, ako za određeno područje vještačenja za koje osoba traži imenovanje nema mogućnosti završetka odgovarajućeg studija odnosno škole, za stalnog sudskog vještaka može se imenovati osoba koja ima odgovarajuće radno iskustvo ili završeno stručno osposobljavanje u području vještačenja za koje traži imenovanje odnosno osoba koja ispunjava uvjete sukladno posebnim propisima kojima se uređuje navedeno područje vještačenja.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+Dosadašnji stavak 6., koji postaje stavak 7., mijenja se i glasi:
+
+»(7) Prije imenovanja kandidati za stalne sudske vještake dužni su uspješno završiti stručnu obuku, čiji program i način provedbe pravilnikom propisuje ministar nadležan za poslove pravosuđa.«.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Imenovani stalni sudski vještaci dužni su se stalno stručno usavršavati u području za koje su imenovani te ministarstvu nadležnom za poslove pravosuđa dostaviti dokaz o provedenom usavršavanju najmanje jednom u dvije godine.«.
+
+#### Članak 23.
+
+Iza članka 126. dodaje se članak 126.a koji glasi:
+
+»Članak 126.a
+
+(1) Poslove vještačenja mogu obavljati i specijalizirane ustanove odnosno državna tijela, koji se upisuju u Popis specijaliziranih ustanova i državnih tijela.
+
+(2) Popis iz stavka 1. ovoga članka vodi ministarstvo nadležno za poslove pravosuđa te ga objavljuje na svojoj mrežnoj stranici i na mrežnoj stranici e-Oglasna ploča sudova.
+
+(3) Zahtjev za upis i brisanje s Popisa iz stavka 1. ovoga članka ustanova odnosno tijelo podnosi ministarstvu nadležnom za poslove pravosuđa.
+
+(4) Poslove vještačenja mogu obavljati i pravne osobe pod sljedećim uvjetima:
+
+– ako su u svojoj djelatnosti registrirane i za obavljanje vještačenja za određeno područje,
+
+– ako su njihovi zaposlenici imenovani stalnim sudskim vještacima za područje za koje se traži odobrenje,
+
+– ako dostave zaključen ugovor o osiguranju od odgovornosti za obavljanje poslova sudskog vještačenja na najnižu svotu osiguranja od 65.000,00 eura.
+
+(5) Kada se poslovi vještačenja povjeravaju specijaliziranim ustanovama, državnim tijelima ili pravnim osobama, vještačenje obavljaju stalni sudski vještaci koji su u njima zaposleni.«.
+
+#### Članak 24.
+
+U članku 127. stavku 1. iza podstavka 3. dodaju se novi podstavak 4. i podstavak 5. koji glase:
+
+» – ako ne dostavi dokaz o zaključenom ugovoru o osiguranju od odgovornosti za obavljanje poslova stalnog sudskog vještaka,
+
+– ako ne dostavi dokaz o obavljenom stručnom usavršavanju,«.
+
+U dosadašnjem podstavku 4., koji postaje podstavak 6., riječi: »osim zbog kaznenog djela počinjenog iz nehaja« zamjenjuju se riječima: »osim zbog kaznenog djela koje se odnosi na sigurnost prometa pod uvjetom da za to kazneno djelo nije osuđen na bezuvjetnu kaznu zatvora«.
+
+U stavku 2. brojka: »4.« zamjenjuje se brojkom: »6.«.
+
+#### Članak 25.
+
+U članku 127.a ispred riječi: »Stalni« dodaje se oznaka stavka: »(1)«.
+
+U podstavku 5. riječi: »osim za kazneno djelo počinjeno iz nehaja« zamjenjuju se riječima: »osim za kazneno djelo koje se odnosi na sigurnost prometa pod uvjetom da za to kazneno djelo nije osuđen na bezuvjetnu kaznu zatvora«.
+
+Podstavak 7. mijenja se i glasi:
+
+» – ako u roku određenom privremenom zabranom ne dostavi dokaz o zaključenom ugovoru o osiguranju od odgovornosti za obavljanje poslova stalnog sudskog vještaka,«.
+
+Iza podstavka 7. dodaje se novi podstavak 8. koji glasi:
+
+» – ako u roku određenom privremenom zabranom ne dostavi dokaz o obavljenom stručnom usavršavanju,«.
+
+Dosadašnji podstavci 8. i 9. postaju podstavci 9. i 10.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Odredbe stavka 1. ovoga članka na odgovarajući način primjenjuju se na oduzimanje odobrenja za obavljanje poslova sudskog vještačenja pravnim osobama.
+
+#### Članak 26.
+
+U članku 127.b stavku 1. druga rečenica mijenja se i glasi:
+
+»U postupku imenovanja zatražit će se prethodno mišljenje predsjednika nadležnog županijskog suda, koji ga je dužan dati u roku od 15 dana, a u protivnom se smatra da je suglasan s predloženim imenovanjem.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Odredbe stavaka 1. i 2. ovoga članka na odgovarajući način primjenjuju se na davanje odobrenja za obavljanje poslova sudskog vještačenja pravnim osobama.«.
+
+Dosadašnji stavak 3., koji postaje stavak 4., mijenja se i glasi:
+
+»(4) Ministarstvo nadležno za poslove pravosuđa vodi popis imenovanih stalnih sudskih vještaka te pravnih osoba kojima je dano odobrenje za obavljanje poslova vještačenja i objavljuje ih na e-Oglasnoj ploči sudova, a imenovanim stalnim sudskim vještacima izdaje službenu iskaznicu.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 27.
+
+Postupci po zahtjevima za zaštitu prava na suđenje u razumnom roku i za isplatu primjerene naknade zbog povrede prava na suđenje u razumnom roku podneseni prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16., 67/18., 21/22., 16/23. i 155/23.).
+
+#### Članak 28.
+
+(1) Postupci imenovanja stalnih sudskih tumača i stalnih sudskih vještaka započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama ovoga Zakona.
+
+(2) Pravne osobe koje na dan stupanja na snagu ovoga Zakona imaju odobrenje za obavljanje poslova vještačenja sukladno odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16. i 67/18.) zahtjev za odobrenje obavljanja poslova vještačenja nakon isteka vremena na koje im je prethodno odobrenje dano podnose ministarstvu nadležnom za poslove pravosuđa najkasnije 30 dana prije isteka vremena prethodnog odobrenja. U postupku davanja odobrenja ministarstvo nadležno za poslove pravosuđa ispituje postojanje uvjeta propisanih ovim Zakonom.
+
+(3) Stalni sudski procjenitelji koji na dan stupanja na snagu ovoga Zakona budu imenovani sukladno odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16. i 67/18.) zahtjev za imenovanje stalnim sudskim vještacima podnose ministarstvu nadležnom za poslove pravosuđa najkasnije 30 dana prije isteka vremena imenovanja stalnim sudskim procjeniteljima. U postupku imenovanja ministarstvo nadležno za poslove pravosuđa ispituje postojanje uvjeta propisanih ovim Zakonom, a osobe u odnosu na koje se utvrdi ispunjenost propisanih uvjeta nisu dužne polagati provjeru znanja iz poznavanja ustrojstva sudbene vlasti, državne uprave i pravnog nazivlja, obaviti stručnu obuku niti položiti prisegu.
+
+#### Članak 29.
+
+Pravilnike iz članaka 1., 2., 17., 18. i 22. ovoga Zakona ministar nadležan za poslove pravosuđa donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 30.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 1. ovoga Zakona koji stupa na snagu 1. siječnja 2025.
+
+Klasa: 022-02/23-01/124
+
+Zagreb, 14. ožujka 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sudovima (NN 136/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/136/2016*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sudovima, koji je Hrvatski sabor donio na sjednici 24. listopada 2025.
+
+Klasa: 011-02/25-02/83
+
+Urbroj: 71-10-01/1-25-2
+
+Zagreb, 30. listopada 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUDOVIMA**
+
+#### Članak 1.
+
+U Zakonu o sudovima (»Narodne novine« br. 28/13., 33/15., 82/15., 82/16., 67/18., 21/22., 16/23., 155/23. i 36/24.) u članku 7. iza stavka 2. dodaju se novi stavak 3. i stavak 4. koji glase:
+
+»(3) Vrhovni sud Republike Hrvatske može suditi i u proširenom vijeću kada je to propisano zakonom kojim se uređuje postupak u pojedinoj vrsti pravne stvari.
+
+(4) Broj članova i sastav proširenog vijeća propisuje se zakonom iz stavka 3. ovoga članka.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+#### Članak 2.
+
+U članku 10.a stavak 2. mijenja se i glasi:
+
+»(2) Program i način održavanja stručnog usavršavanja iz stavka 1. ovoga članka pravilima propisuje predsjednik Vrhovnog suda Republike Hrvatske.«.
+
+#### Članak 3.
+
+U članku 30.a stavak 3. mijenja se i glasi:
+
+»(3) Program i način provedbe stručnog usavršavanja predsjednika sudova pravilima utvrđuje predsjednik Vrhovnog suda Repub­like Hrvatske.«.
+
+#### Članak 4.
+
+U članku 37. stavak 4. mijenja se i glasi:
+
+»(4) U županijskim sudovima u Zagrebu, Splitu, Rijeci, Osijeku i Varaždinu osnivaju se sudski odjeli za postupanje u predmetima kaznenih djela iz nadležnosti Ureda za suzbijanje korupcije i organiziranog kriminaliteta (u daljnjem tekstu: USKOK).«.
+
+U stavku 9. prva rečenica mijenja se i glasi: »Godišnjim rasporedom poslova u općinskim i županijskim sudovima određuju se suci i državni službenici za rad na predmetima prema zakonu kojim se uređuju obiteljski odnosi.«.
+
+Stavak 10. briše se.
+
+Dosadašnji stavak 11., koji postaje stavak 10., mijenja se i glasi:
+
+»(10) Program i način održavanja stručnog usavršavanja iz stavka 9. ovoga članka pravilima propisuje predsjednik Vrhovnog suda Republike Hrvatske.«.
+
+#### Članak 5.
+
+Članak 40. briše se.
+
+#### Članak 6.
+
+Članak 41. mijenja se i glasi:
+
+»(1) U općinskim, trgovačkim i upravnim sudovima godišnjim rasporedom poslova određuje se jedan ili više sudaca za praćenje i proučavanje sudske prakse.
+
+(2) Ako je na poslove iz stavka 1. ovoga članka raspoređeno više sudaca, može se osnovati poseban odjel.
+
+(3) U županijskim sudovima te u Visokom trgovačkom sudu Republike Hrvatske, Visokom upravnom sudu Republike Hrvatske, Visokom prekršajnom sudu Republike Hrvatske i Visokom kaznenom sudu Republike Hrvatske osnivaju se odjeli za praćenje i proučavanje sudske prakse.
+
+(4) Suci odnosno odjeli iz stavaka 1., 2. i 3. ovoga članka pružaju potporu sucima i sudskim vijećima u istraživanju i pribavi sudske prakse.
+
+(5) Nacrti sudskih odluka u sudovima iz stavka 3. ovoga članka dostavljaju se odjelima za praćenje i proučavanje sudske prakse.
+
+(6) Ako nacrt sudske odluke odstupa od ustaljene prakse ili praksa toga suda u vezi s pravnim pitanjem o kojem odlučuje nije jedinstvena, odjeli iz stavka 3. ovoga članka o tome pisano obavještavaju vijeće kojem je predmet dodijeljen u rad.«.
+
+#### Članak 7.
+
+Članak 41.a mijenja se i glasi:
+
+»(1) U općinskim, trgovačkim i upravnim sudovima godišnjim rasporedom poslova određuje se jedan ili više sudaca za praćenje europskih propisa i prakse Suda Europske unije i Europskog suda za ljudska prava.
+
+(2) Ako je na poslove iz stavka 1. ovoga članka raspoređeno više sudaca, može se osnovati poseban odjel.
+
+(3) U županijskim sudovima te u Visokom trgovačkom sudu Republike Hrvatske, Visokom upravnom sudu Republike Hrvatske, Visokom prekršajnom sudu Republike Hrvatske i Visokom kaznenom sudu Republike Hrvatske osnivaju se odjeli za praćenje europskih propisa i prakse Suda Europske unije i Europskog suda za ljudska prava.
+
+(4) Suci odnosno odjeli iz stavaka 1., 2. i 3. ovoga članka pružaju pomoć sucima u pravilnoj primjeni propisa i sudske prakse iz stavka 1. ovoga članka te u pripremi za podnošenje zahtjeva za prethodnu odluku Sudu Europske unije.
+
+(5) Suci odnosno odjeli iz stavaka 1., 2. i 3. ovoga članka sudjeluju u radu Europske pravosudne mreže i Europske pravosudne mreže u građanskim i trgovačkim stvarima te pružaju podršku Pravosudnoj akademiji u provedbi stručnog usavršavanja vezanog uz primjenu europskih propisa te praksu Suda Europske unije i Europskog suda za ljudska prava.
+
+(6) Ministar nadležan za poslove pravosuđa pravilnikom će urediti način sudjelovanja sudaca u radu i imenovanja sudaca za članove Europske pravosudne mreže u građanskim i trgovačkim stvarima.«.
+
+#### Članak 8.
+
+Naslov iznad članka 42. mijenja se i glasi: »3. Informiranje javnosti o radu sudova«.
+
+Članak 42. mijenja se i glasi:
+
+»(1) U sudu se osniva posebna ustrojstvena jedinica za informiranje javnosti koja daje obavijesti o radu suda u skladu s ovim Zakonom, Sudskim poslovnikom, zakonom kojim se uređuje pravo na pristup informacijama i zakonom kojim se uređuje javno informiranje.
+
+(2) U ustrojstvenu jedinicu iz stavka 1. ovoga članka raspoređuje se sudac, sudski savjetnik ili druga osoba koju odredi predsjednik suda godišnjim rasporedom poslova, a koja obavlja poslove glasnogovornika suda.
+
+(3) Glasnogovorniku se može odrediti zamjenik.«.
+
+#### Članak 9.
+
+Članak 43. mijenja se i glasi:
+
+»(1) U Vrhovnom sudu Republike Hrvatske osnivaju se sljedeće ustrojstvene jedinice: Ured predsjednika, Građanski odjel, Kazneni odjel, Služba za praćenje i proučavanje sudske prakse Građanskog odjela, Služba za praćenje i proučavanje sudske prakse Kaznenog odjela te Odjel za praćenje i proučavanje prakse Europskog suda za ljudska prava i Suda Europske unije.
+
+(2) U Uredu predsjednika obavljaju se poslovi sudske uprave, poslovi međunarodne suradnje, poslovi izobrazbe sudaca i poslovi protokola za potrebe tog suda.
+
+(3) Na poslove protokola Vrhovnog suda Republike Hrvatske na odgovarajući se način primjenjuju propisi o protokolu Hrvatskoga sabora i Vlade Republike Hrvatske. Vrhovni sud Republike Hrvatske može se za poslove protokola koristiti objektima koji su u tu svrhu na raspolaganju Hrvatskom saboru i Vladi Republike Hrvatske.
+
+(4) Građanski odjel obuhvaća područja građanskog, trgovačkog i upravnog prava.
+
+(5) Kazneni odjel obuhvaća područja kaznenog i prekršajnog prava te stegovnih postupaka prema propisima o odvjetništvu i javnom bilježništvu.
+
+(6) Unutarnje ustrojstvo Vrhovnog suda Republike Hrvatske pobliže se uređuje Poslovnikom Vrhovnog suda Republike Hrvatske i Sudskim poslovnikom, sukladno zakonu. Poslovnik Vrhovnog suda Republike Hrvatske donosi predsjednik suda nakon pribavljenog mišljenja Opće sjednice.«.
+
+#### Članak 10.
+
+Iza članka 43. dodaju se članci 43.a i 43.b koji glase:
+
+»Članak 43.a
+
+(1) Služba za praćenje i proučavanje sudske prakse Građanskog odjela Vrhovnog suda Republike Hrvatske i Služba za praćenje i proučavanje sudske prakse Kaznenog odjela Vrhovnog suda Republike Hrvatske pružaju potporu vijećima kojima je predmet dodijeljen u rad u istraživanju i pribavi sudske prakse.
+
+(2) Nacrti sudskih odluka Vrhovnog suda Republike Hrvatske dostavljaju se nadležnoj službi iz stavka 1. ovoga članka.
+
+(3) Ako nacrt sudske odluke Vrhovnog suda Republike Hrvatske odstupa od ustaljene prakse ili odluke proširenog vijeća Vrhovnog suda Republike Hrvatske ili praksa Vrhovnog suda Republike Hrvatske u vezi s pravnim pitanjem o kojem se odlučuje nije jedinstvena, služba iz stavka 1. ovoga članka o tome pisano obavještava vijeće kojem je predmet dodijeljen u rad.
+
+(4) Ako vijeće kojem je predmet dodijeljen u rad ostane kod nacrta sudske odluke, o tome obavještava predsjednika suda koji će radi osiguranja jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni predmet iz stavka 3. ovoga članka dodijeliti u rad proširenom vijeću Vrhovnog suda Republike Hrvatske.
+
+#### Članak 43.b
+
+(1) Odjel Vrhovnog suda Republike Hrvatske za praćenje i proučavanje prakse Suda Europske unije i Europskog suda za ljudska prava:
+
+– prati i analizira praksu tih sudova te razmjenjuje podatke i obavijesti važne za praćenje prakse tih sudova s nižim sudovima,
+
+– sudjeluje u razmjeni podataka između sudova koji čine Pravosudnu mrežu Europske unije i mrežu najviših sudova koja djeluje u okviru Europskog suda za ljudska prava,
+
+– istražuje praksu i izrađuje nacrte odgovora na analitičke upitnike o određenim pitanjima prakse Europskog suda za ljudska prava i Suda Europske unije,
+
+– surađuje s Uredom zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava i zastupnika Republike Hrvatske pred Sudom Europske unije,
+
+– pruža pomoć sucima Vrhovnog suda Republike Hrvatske u pripremi za podnošenje zahtjeva za prethodnu odluku Sudu Europske unije,
+
+– pruža podršku Pravosudnoj akademiji u provedbi stručnog usavršavanja u primjeni europskih propisa i prakse Suda Europske unije i Europskog suda za ljudska prava.
+
+(2) Nacrti sudskih odluka Vrhovnog suda Republike Hrvatske dostavljaju se odjelu iz stavka 1. ovoga članka.
+
+(3) Predsjednik odjela iz stavka 1. ovoga članka najmanje jednom godišnje organizira sastanak sudaca odnosno odjela iz članka 41.a ovoga Zakona radi razmatranja aktualnih pitanja u vezi s poslovima iz djelokruga njihova rada te radi unaprjeđenja njihova rada.«.
+
+#### Članak 11.
+
+U članku 44.d stavku 1. točki 3. riječ: »pravomoćno« briše se.
+
+#### Članak 12.
+
+Članak 65. mijenja se i glasi:
+
+»(1) Zahtjev za zaštitu prava na suđenje u razumnom roku podnosi se predsjedniku suda.
+
+(2) Ako se radi o predmetu u kojem postupa predsjednik suda, o zahtjevu odlučuje zamjenik predsjednika suda.
+
+(3) Predsjednik suda će u roku od 15 dana od primitka zahtjeva zatražiti od suca odnosno predsjednika sudskog vijeća koje postupa u predmetu izvješće o duljini trajanja postupka, razlozima zbog kojih postupak nije okončan i mišljenje o roku u kojem se predmet može riješiti.
+
+(4) Sudac odnosno predsjednik sudskog vijeća koje postupa u predmetu dužan je izvješće iz stavka 3. ovoga članka dostaviti odmah, a najkasnije u roku od 15 dana od traženja.
+
+(5) Pri odlučivanju o podnesenom zahtjevu osobito će se voditi računa o vrsti predmeta, činjeničnoj i pravnoj složenosti predmeta, ponašanju stranaka te postupanju suda.«.
+
+#### Članak 13.
+
+Članak 66. mijenja se i glasi:
+
+»(1) Ako predsjednik suda utvrdi da je zahtjev osnovan, odredit će rok u pravilu od najdulje šest mjeseci, osim ako okolnosti slučaja ne nalažu određivanje duljeg roka u kojem sudac odnosno sudsko vijeće predmet mora riješiti te primjerenu naknadu koja pripada stranci zbog povrede prava na suđenje u razumnom roku.
+
+(2) Ako sudac odnosno sudsko vijeće ne riješi predmet u određenom roku, sudac odnosno predsjednik sudskog vijeća dužan je u roku od 15 dana od isteka određenog roka o razlozima dostaviti pisano izvješće predsjedniku suda i predsjedniku neposredno višeg suda. Predsjednik suda dostavit će bez odgode izvješće suca odnosno predsjednika sudskog vijeća i svoje očitovanje ministarstvu nadležnom za poslove pravosuđa.«.
+
+#### Članak 14.
+
+U članku 67. stavak 1. mijenja se i glasi:
+
+»(1) Predsjednik suda dužan je odlučiti o podnesenom zahtjevu u roku od 60 dana od njegova zaprimanja.«.
+
+#### Članak 15.
+
+U članku 69. stavak 2. mijenja se i glasi:
+
+»(2) Rješenje kojim se odlučuje o zahtjevu za zaštitu prava na suđenje u razumnom roku dostavlja se odmah nakon pravomoćnosti predsjedniku neposredno višeg suda, predsjedniku Vrhovnog suda Republike Hrvatske, nadležnom sudačkom vijeću i ministarstvu nadležnom za poslove pravosuđa.«.
+
+#### Članak 16.
+
+U članku 87. stavku 1. podstavak 8. mijenja se i glasi:
+
+» – naknadu troškova prijevoza na posao i s posla,«.
+
+#### Članak 17.
+
+U članku 89. ispred riječi: »Sudac« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Sudac ne smije primiti ni zadržati dar, osim protokolarnih darova manje vrijednosti.
+
+(3) Ne smatraju se darovima, u smislu ovoga Zakona, uobičajeni darovi između članova obitelji, rodbine i prijatelja te državna i međunarodna priznanja, odličja i nagrade.«.
+
+#### Članak 18.
+
+U članku 93. stavak 5. mijenja se i glasi:
+
+»(5) Način provedbe obveznog stručnog usavršavanja sudaca pravilima propisuje predsjednik Vrhovnog suda Republike Hrvatske.«.
+
+#### Članak 19.
+
+Članak 96. mijenja se i glasi:
+
+»(1) Suci, osim sudaca Vrhovnog suda Republike Hrvatske, ocjenjuju se u postupku imenovanja na drugi sud za zamjenike državnih odvjetnika i za predsjednike sudova.
+
+(2) U postupcima iz stavka 1. ovoga članka rad sudaca ocjenjuje se u razdoblju od posljednjih pet godina u kojem su obnašali sudačku dužnost, a u postupku imenovanja za suce Vrhovnog suda Republike Hrvatske u razdoblju od posljednjih deset godina.
+
+(3) Ako je sudac obnašao sudačku dužnost u razdoblju kraćem od razdoblja iz stavka 2. ovoga članka, ocijenit će se za razdoblje obnašanja dužnosti.«.
+
+#### Članak 20.
+
+U članku 97. stavak 2. mijenja se i glasi:
+
+»(2) Po svim mjerilima iz stavka 1. ovoga članka sudac može ostvariti najviše 150 bodova, pri čemu se za mjerila iz stavka 1. točki 1. i 2. ovoga članka može ostvariti najviše po 70 bodova, za mjerilo iz stavka 1. točke 3. ovoga članka četiri boda, a za mjerila iz stavka 1. točki 4. i 5. ovoga članka najviše po tri boda.«.
+
+#### Članak 21.
+
+U članku 108. stavci 5. do 9. brišu se.
+
+U dosadašnjem stavku 10., koji postaje stavak 5., riječi: »te program i način polaganja posebnog stručnog ispita za službenike u pravosudnim tijelima« brišu se.
+
+#### Članak 22.
+
+U članku 109. iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+
+»(7) Na kriterije i postupak ocjenjivanja sudskih savjetnika, viših sudskih savjetnika i viših sudskih savjetnika – specijalista ne primjenjuju se propisi o državnim službenicima i namještenicima.
+
+(8) Ministar nadležan za poslove pravosuđa metodologijom će propisati kriterije i postupak ocjenjivanja sudskih savjetnika, viših sudskih savjetnika i viših sudskih savjetnika – specijalista.«.
+
+#### Članak 23.
+
+Članak 114. mijenja se i glasi:
+
+»U obavljanju poslova osiguranja službenik pravosudne policije:
+
+– utvrđuje identitet osoba koje u sud ulaze, izlaze ili se nalaze u prostoru suda,
+
+– pretražuje osobe koje u sud ulaze, izlaze ili se nalaze u prostoru suda te obavlja pretragu prometnih sredstava i predmeta koje te osobe koriste odnosno nose sa sobom,
+
+– zabranjuje ulaz osobama koje nose oružje, opasno oruđe ili za koje postoji opravdana sumnja da unose opasne tvari, osim službenicima koji dolaze na sud radi obavljanja službenih zadaća i pritom nose oružje u skladu s posebnim propisima,
+
+– zadržava do predaje policiji osobu koja je u sudu zatečena u počinjenju kažnjivog djela odnosno prema kojoj je primijenjeno sredstvo prisile,
+
+– udaljuje iz suda osobe koje ometaju rad suda,
+
+– obavlja i druge poslove odnosno izvršava naloge predsjednika suda u vezi s osiguranjem osoba, imovine i objekata suda.«.
+
+#### Članak 24.
+
+U članku 115. stavku 1. točka 2. mijenja se i glasi:
+
+»2. najviše 35 godina života ako je uvjet za prijam srednja stručna sprema i ako se prvi put primaju za službenike pravosudne policije.«.
+
+U stavku 2. iza riječi: »Osoba koja se« dodaju se riječi: »prvi put«.
+
+Iza stavka 6. dodaje se novi stavak 7. koji glasi:
+
+»(7) Osoba s radnim iskustvom na poslovima osiguranja pravosudnih tijela prima se u državnu službu za službenika pravosudne policije uz obvezni probni rad od šest mjeseci te joj se priznaje ranije stečeno zvanje.«.
+
+Dosadašnji stavci 7. i 8. postaju stavci 8. i 9.
+
+Dosadašnji stavak 9. briše se.
+
+#### Članak 25.
+
+U članku 116.a stavku 1. riječi: »te im pripada poseban dodatak na plaću zbog rada u posebnim uvjetima u skladu s uredbom Vlade Republike Hrvatske« brišu se.
+
+#### Članak 26.
+
+U članku 124. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Poslove sudskog tumačenja mogu obavljati i pravne osobe pod sljedećim uvjetima:
+
+– ako su u svojoj djelatnosti registrirane i za obavljanje poslova prevođenja,
+
+– ako su njihovi zaposlenici imenovani stalnim sudskim tumačima za jezik za koji se traži odobrenje,
+
+– ako dostave zaključen ugovor o osiguranju od odgovornosti za obavljanje poslova sudskog tumačenja na najnižu svotu osiguranja od 40.000,00 eura.
+
+(6) Kada se poslovi sudskog tumačenja povjeravaju pravnim osobama, tumačenje obavljaju stalni sudski tumači koji su u njima zaposleni.«.
+
+#### Članak 27.
+
+U članku 124.b ispred riječi: »Stalni« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Odredbe stavka 1. ovoga članka na odgovarajući način primjenjuju se na oduzimanje odobrenja za obavljanje poslova sudskog tumačenja pravnim osobama.«.
+
+#### Članak 28.
+
+U članku 124.c iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Odredbe stavaka 1. i 2. ovoga članka na odgovarajući način primjenjuju se na davanje i oduzimanje odobrenja za obavljanje poslova sudskog tumačenja pravnim osobama.«.
+
+Dosadašnji stavak 3., koji postaje stavak 4., mijenja se i glasi:
+
+»(4) Ministarstvo nadležno za poslove pravosuđa vodi popis imenovanih stalnih sudskih tumača i popis pravnih osoba kojima je odobreno obavljanje poslova tumačenja i objavljuje ih na e-Oglasnoj ploči sudova te imenovanim stalnim sudskim tumačima izdaje službenu iskaznicu.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 29.
+
+Članak 126.a mijenja se i glasi:
+
+»(1) Poslove vještačenja mogu obavljati specijalizirane ustanove odnosno državna tijela te pravne osobe pod sljedećim uvjetima:
+
+– ako su u svojoj djelatnosti registrirane i za obavljanje vještačenja za određeno područje,
+
+– ako su njihovi zaposlenici imenovani stalnim sudskim vještacima za područje za koje se traži odobrenje,
+
+– ako dostave zaključen ugovor o osiguranju od odgovornosti za obavljanje poslova sudskog vještačenja na najnižu svotu osiguranja od 65.000,00 eura.
+
+(2) Kada se poslovi vještačenja povjeravaju specijaliziranim ustanovama, državnim tijelima ili pravnim osobama, vještačenje obavljaju stalni sudski vještaci koji su u njima zaposleni.«.
+
+#### Članak 30.
+
+U članku 127.b stavak 3. mijenja se i glasi:
+
+»(3) Odredbe stavaka 1. i 2. ovoga članka na odgovarajući način primjenjuju se na davanje i oduzimanje odobrenja za obavljanje poslova sudskog vještačenja specijaliziranim ustanovama odnosno državnim tijelima i pravnim osobama.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Ministarstvo nadležno za poslove pravosuđa vodi popis imenovanih stalnih sudskih vještaka, popis specijaliziranih ustanova odnosno državnih tijela te popis pravnih osoba kojima je dano odobrenje za obavljanje poslova vještačenja i objavljuje ih na e-Oglasnoj ploči sudova, a imenovanim stalnim sudskim vještacima izdaje službenu iskaznicu.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 31.
+
+Postupci po zahtjevima za zaštitu prava na suđenje u razumnom roku podneseni prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o sudovima (Narodne novine br. 28/13., 33/15., 82/15., 82/16., 67/18., 21/22., 16/23., 155/23. i 36/24.).
+
+#### Članak 32.
+
+(1) Pravila iz članaka 2., 3., 4. i 18. ovoga Zakona predsjednik Vrhovnog suda Republike Hrvatske donijet će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Do stupanja na snagu pravila iz stavka 1. ovoga članka na snazi ostaje Pravilnik o programu i načinu provedbe stručnog usavršavanja predsjednika sudova i državnih odvjetnika (Narodne novine br. 106/19. i 19/21.).
+
+(3) Pravilnik iz članka 7. i metodologiju iz članka 22. ovoga Zakona ministar nadležan za poslove pravosuđa donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(4) Poslovnik Vrhovnog suda Republike Hrvatske predsjednik Vrhovnog suda Republike Hrvatske uskladit će s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(5) Metodologiju ocjenjivanja obnašanja sudačke dužnosti Državno sudbeno vijeće uskladit će s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(6) Sudski poslovnik i Pravilnik o radu u sustavu eSpis ministar nadležan za poslove pravosuđa uskladit će s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(7) Predsjednici sudova uskladit će pravilnike o unutarnjem redu s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 33.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 4., 6. do 10., 12. do 15., 19. i 22. ovoga Zakona koji stupaju na snagu 1. siječnja 2026.
+
+Klasa: 022-02/25-01/77
+
+Zagreb, 24. listopada 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

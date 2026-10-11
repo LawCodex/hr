@@ -6,15 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2009-12-21
-last_amended: 2015-10-30
+last_amended: 2024-03-25
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "153/09, 56/13, 154/14, 119/15"
+narodne_novine: "153/09, 56/13, 154/14, 119/15, 120/16, 127/17, 66/19, 36/24"
 amendments:
   - "NN 56/2013 (1140) Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva"
   - "NN 154/2014 (2904) Uredba o izmjeni Zakona o financiranju vodnoga gospodarstva"
   - "NN 119/2015 (2244) Uredba o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva"
+  - "NN 120/2016 (2610) Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva"
+  - "NN 127/2017 (2879) Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva"
+  - "NN 66/2019 (1292) Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva"
+  - "NN 36/2024 (577) Zakon o izmjenama i dopuni Zakona o financiranju vodnoga gospodarstva"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/153/3745"
 retrieved: 2026-10-12
 ---
@@ -23,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 153/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/153/3745).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 56/2013, NN 154/2014, NN 119/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 56/2013, NN 154/2014, NN 119/2015, NN 120/2016, NN 127/2017, NN 66/2019, NN 36/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1537,3 +1541,649 @@ Zagreb, 29. listopada 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva (NN 120/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/120/2610*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIRANJU VODNOGA GOSPODARSTVA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o financiranje vodnoga gospodarstva, koji je Hrvatski sabor donio na sjednici 9. prosinca 2016. godine.
+
+Klasa: 011-01/16-01/66
+
+Urbroj: 71-06-01/1-16-2
+
+Zagreb, 13. prosinca 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIRANJU VODNOGA GOSPODARSTVA**
+
+#### Članak 1.
+
+U Zakonu o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11. i 56/13.) u članku 12. stavak 1. mijenja se i glasi:
+
+»Prihod od vodnoga doprinosa koristi se za:
+
+– gradnju građevina za navodnjavanje u vlasništvu jedinica područne (regionalne) samouprave,
+
+– namjene iz članka 21. stavka 1. ovoga Zakona.«.
+
+#### Članak 2.
+
+U članku 21. stavku 1. iza podstavka 1. dodaje se novi podstavak 2. koji glasi:
+
+»– gradnju regulacijskih i zaštitnih vodnih građevina,«.
+
+Dosadašnji podstavak 2. postaje podstavak 3.
+
+U dosadašnjem podstavku 3., koji postaje podstavak 4., iza riječi: »Hrvatske vode« riječ: »i« briše se.
+
+Iza podstavka 4. dodaju se podstavci 5., 6. i 7. koji glase:
+
+»– gradnju i održavanje građevina za detaljnu melioracijsku odvodnju,
+
+– uklanjanje riječnog nanosa s pomorskog dobra,
+
+– financiranje gradnje građevina urbane oborinske odvodnje (akumulacije, retencije i obodni kanali) kada je prijemna sposobnost izgrađenih građevina urbane oborinske odvodnje ili postojećih vodotoka nedostatna primiti višak oborinskih voda i«.
+
+Dosadašnji podstavak 4. postaje podstavak 8.
+
+#### Članak 3.
+
+U članku 28. stavku 1. podstavak 4. mijenja se i glasi:
+
+»– financiranje gradnje građevina javne vodoopskrbe, uključujući i priključke,«.
+
+Iza podstavka 4. dodaje se novi podstavak 5. koji glasi:
+
+»– financiranje nabave opreme za pružanje vodnih usluga,«.
+
+U dosadašnjem podstavku 5., koji postaje podstavak 6., iza riječi: »vode« briše se točka.
+
+Iza podstavka 6. dodaje se podstavak 7. koji glasi:
+
+»– namjene iz članka 37. stavka 1. ovoga Zakona.«.
+
+#### Članak 4.
+
+U članku 37. stavku 1. podstavku 2. iza riječi: »zaštitu« riječ: »i« briše se.
+
+Podstavak 3. mijenja se i glasi:
+
+»– financiranje gradnje građevina javne odvodnje otpadnih voda uključujući i priključke i«.
+
+Iza podstavka 3. dodaje se podstavak 4. koji glasi:
+
+»– namjene iz članka 28. stavka 1. ovoga Zakona.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 5.
+
+Iznimno od odredbi članka 23. točke 3., članka 24. stavka 1. točke 3., članka 25. stavka 2. i članka 26. stavka 1. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11. i 56/13.) od 1. listopada 2016. do 1. siječnja 2018., naknada za korištenje voda u javnoj vodoopskrbi obračunavat će se prema sljedećim pravilima:
+
+1. obveznik naknade je korisnik vodne usluge javne vodoopskrbe,
+
+2. osnovica naknade je količina vode isporučene obvezniku putem isporučitelja vodnih usluga,
+
+3. naknada se obračunava i plaća prema stvarno isporučenim količinama vode, ali se za kraće razdoblje od jedne godine može plaćati i po procijenjenim količinama zahvaćene vode (privremeni obračun),
+
+4. očevidnik naknade vodi javni isporučitelj vodnih usluga,
+
+5. naknadu obračunavaju i naplaćuju isporučitelji vodne usluge javne vodoopskrbe uz cijenu vodne usluge javne vodoopskrbe. Naplaćene iznose naknade isporučitelji vodne usluge doznačuju Hrvatskim vodama u rokovima i na način određen propisom iz članka 76. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11. i 56/13.),
+
+6. naknada se obračunava putem računa isporučitelja vodne usluge, i zasebno se iskazuje na računu. Za poslove obračuna i naplate isporučitelju vodne usluge pripada naknada u visini 5% naplaćene naknade,
+
+7. ovrhu naknade pokreću isporučitelji vodnih usluga kao ovrhovoditelji, zajedno s ovrhom cijena vodnih usluga i
+
+8. pravo na obračun i ovrhu naknade zastarijeva u roku zastare cijene vodne usluge javne vodoopskrbe.
+
+#### Članak 6.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-01/111
+
+Zagreb, 9. prosinca 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva (NN 127/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/127/2879*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIRANJU VODNOGA GOSPODARSTVA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva, koji je Hrvatski sabor donio na sjednici 8. prosinca 2017.
+
+Klasa: 011-01/17-01/115  
+Urbroj: 71-06-01/1-17-2  
+Zagreb, 13. prosinca 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIRANJU VODNOGA GOSPODARSTVA**
+
+#### Članak 1.
+
+U Zakonu o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13. i 120/16.) u članku 3. točka 4. mijenja se i glasi:
+
+»4. Povrata troškova od vodnih aktivnosti, uključujući i povrat troškova od vodnih usluga iz članka 3.a ovoga Zakona;«.
+
+#### Članak 2.
+
+Iza članka 3. dodaje se članak 3.a koji glasi:
+
+»Članak 3.a
+
+Voda ima svoju ekonomsku vrijednost koju čine troškovi potrebni radi osiguranja njezine dostupnosti, uključujući troškove resursa i troškove gradnje, pogona i održavanja vodnih građevina te okolišne troškove.
+
+Ovim se Zakonom osigurava povrat troškova iz stavka 1. ovoga članka kroz politiku cijena vode i sukladno ovome stavku i stavcima 3. do 6. ovoga članka (načelo povrata troškova od vodnih aktivnosti). Načelo povrata troškova od vodnih aktivnosti uključuje, ali nije ograničeno na načelo povrata troškova od vodnih usluga iz stavka 6. ovoga članka.
+
+Načelo povrata troškova od vodnih aktivnosti provodi se sukladno ekonomskoj analizi i načelu »onečišćivač plaća« iz zakona kojim se uređuju vode.
+
+Načelo povrata troškova od vodnih aktivnosti provodi se tako da osigura odgovarajući poticaj korisnicima da koriste vodne resurse učinkovito i da time pridonesu ostvarenju ciljeva upravljanja vodama i zaštite voda iz članaka 4. i 40. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.).
+
+Ovim Zakonom osigurava se odgovarajući doprinos raznih korisnika, podijeljenih najmanje na industriju, kućanstva i poljoprivredu, povratu troškova od vodnih aktivnosti, sukladno stavku 2. ovoga članka.
+
+Pri provedbi načela povrata troškova od vodnih aktivnosti vodit će se računa o socijalnim, okolišnim i gospodarskim učincima povrata, kao i zemljopisnim i klimatskim uvjetima u zemlji.
+
+Povrat troškova od vodnih usluga osigurava se jednim dijelom plaćanjem cijena vodnih usluga i naknade za razvoj na području pružanja vodnih usluga, a drugim dijelom plaćanjem naknade za korištenje voda i naknade za zaštitu voda na području Republike Hrvatske (načelo povrata troškova od vodnih usluga).
+
+Odredbe stavaka 1. do 6. ovoga članka ne sprječavaju financiranje određenih preventivnih ili popravnih mjera radi postizanja ciljeva upravljanja vodama i zaštite voda iz članaka 4. i 40. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.).
+
+Odredbe stavaka 3. i 4. ovoga članka neće se primijeniti na određenu vodnu aktivnost ako je to u skladu s ustaljenom praksom i u mjeri u kojoj se time ne dovode u pitanje svrha i postizanje ciljeva upravljanja vodama i zaštite voda iz članaka 4. i 40. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.).
+
+Izvještaj o provedbi Plana upravljanja vodnim područjem iz zakona kojim se uređuju vode sadržava i izvještaj o planiranim koracima za provedbu stavaka 1. do 5. ovoga članka, izvještaj o neprimjeni odredbi navedenih u stavku 8. ovoga članka i razloge te neprimjene.«.
+
+#### Članak 3.
+
+U članku 5. stavku 5. iza riječi: »području« dodaju se riječi: »i jedinica područne (regionalne) samouprave na uslužnom području«.
+
+U stavku 6. na kraju rečenice umjesto točke stavlja se zarez te se dodaju riječi: »osim gdje je ovim Zakonom drukčije uređeno.«.
+
+#### Članak 4.
+
+U članku 6. iza riječi: »građevina« dodaju se riječi: »uključujući i građevinu koja se ozakonjuje prema propisima o ozakonjenju nezakonito izgrađenih zgrada«.
+
+#### Članak 5.
+
+U članku 7. stavku 1. iza riječi: »vodnoga doprinosa« dodaju se riječi: »na gradnju građevina«.
+
+Iza stavka 2. dodaju se stavci 3., 4., i 5. koji glase:
+
+»Obveznik vodnoga doprinosa na građevinu koja se ozakonjuje prema propisu o ozakonjenju nezakonito izgrađenih zgrada je stranka iz postupka ozakonjenja nezakonito izgrađenih zgrada.
+
+Dvije ili više stranaka iz postupka ozakonjenja iste nezakonito izgrađene zgrade su solidarni obveznici vodnoga doprinosa.
+
+Ostali posjednici iste nezakonito izgrađene zgrade solidarni su obveznici vodnoga doprinosa zajedno sa strankom iz stavka 3. ovoga članka, odnosno sa strankama iz stavka 4. ovoga članka.«.
+
+#### Članak 6.
+
+U članku 8. iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»Osobe ovlaštene za izradu projektne dokumentacije sukladno propisima o gradnji dužne su, u postupku obračuna vodnoga doprinosa, iskazati osnovicu vodnoga doprinosa.
+
+Osoba ovlaštena za izradu projektne dokumentacije odgovara za istinitost podataka o osnovici za obračun vodnoga doprinosa.«.
+
+#### Članak 7.
+
+U članku 12. stavku 1. iza postavka 1. dodaje se novi podstavak 2. koji glasi:
+
+» – sufinanciranje troškova sanacije klizišta i odrona nastalih djelovanjem erozija i bujica
+
+kojima je ugrožena javna infrastruktura,«
+
+Dosadašnji podstavak 2. postaje podstavak 3.
+
+U stavku 4. riječi: »građenje i rekonstrukciju« zamjenjuju se riječima: »gradnju i održavanje«.
+
+#### Članak 8.
+
+U članku 17. stavci 5. i 6. mijenjaju se i glase:
+
+»Jedinica lokalne samouprave doznačuje naplaćene iznose naknade za uređenje voda jednom tjedno na uplatne račune Hrvatskih voda na način i u rokovima uređenim propisom iz članka 76. ovoga Zakona kojim se uređuje obračun i naplata naknade za uređenje voda.
+
+Za poslove iz ovoga članka jedinici lokalne samouprave pripada naknada:
+
+‒ u visini određenoj propisom iz članka 76. ovoga Zakona kojim se uređuje obračun i naplata naknade za uređenje voda po svakom rješenju o obračunu naknade za uređenje voda dostavljenom obvezniku i
+
+‒ 10% na iznos Hrvatskim vodama uplaćene naknade za uređenje voda.«.
+
+Stavak 8. mijenja se i glasi:
+
+»Protiv jedinice lokalne samouprave koja ne postupa po odredbi stavka 5. ovoga članka Hrvatske vode su ovlaštene, sukladno zakonu kojim se uređuje upravni postupak i ovršni postupak u poreznim stvarima donijeti rješenje o ovrsi neplaćenih iznosa vodnih naknada na temelju vjerodostojne isprave.«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»Vjerodostojna isprava iz stavka 8. ovoga članka je financijska kartica Hrvatskih voda koja se temelji na izvještajima iz stavka 7. ovoga članka, a ako izvještaji nisu podneseni ili su nepotpuni Hrvatske vode postupaju po odredbama članka 83. ovoga Zakona.«.
+
+#### Članak 9.
+
+U članku 20. stavku 5. iza riječi: »pogođene« dodaju se riječi: »katastrofom ili«.
+
+#### Članak 10.
+
+U članku 21. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Sredstva iz članka 17. stavka 6. podstavka 2. ovoga Zakona koriste se za gradnju i održavanje građevina oborinske odvodnje u vlasništvu jedinica lokalne samouprave.«.
+
+#### Članak 11.
+
+Iza članka 25. dodaje se članak 25.a koji glasi:
+
+»Članak 25.a
+
+Hrvatske vode dužne su postaviti vodomjere na izvorištima i površinskim vodozahvatima u roku određenom propisom iz članka 27. stavka 1. ovoga Zakona.
+
+Postavljanje, zamjena, tehničke značajke, održavanje i očitanje vodomjera uređuju se propisom iz članka 76. ovoga Zakona.
+
+Isporučitelji vodnih usluga dužni su trpjeti pristup radi postavljanja, zamjene i održavanja vodomjera u korist Hrvatskih voda u skladu s propisom iz članka 76. ovoga Zakona.«.
+
+#### Članak 12.
+
+U članku 27. stavak 2. mijenja se i glasi:
+
+»Propisom iz stavka 1. ovoga članka odredit će se korekcijski koeficijenti kojima se umanjuje iznos naknade za korištenje voda zbog prihvatljivih gubitaka vode i/ili radi poticanja određenih djelatnosti.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Naknada za korištenje voda za korištenje kopnenih voda radi uzgoja riba i drugih vodenih organizama pogodnih za gospodarski uzgoj plaća se prema propisima o poljoprivrednom zemljištu.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 13.
+
+U članku 30. podstavku 2. iza riječi: »proizvode« stavlja se zarez, a riječ: »uvoze« zamjenjuje se riječima: »unose ili uvoze iz drugih zemalja«.
+
+#### Članak 14.
+
+U članku 32. stavak 3. mijenja se i glasi:
+
+»Propisom iz članka 36. ovoga Zakona propisuju se korekcijski koeficijenti kojima se umanjuje iznos naknade za zaštitu voda iz članka 30. podstavka 1. ovoga Zakona ovisno o stupnju pročišćavanja otpadnih voda.«.
+
+#### Članak 15.
+
+U članku 57. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Javni isporučitelj vodnih usluga može koristiti do 20% prikupljenih sredstava naknade za razvoj za pokriće troškova održavanja i pogona građevina za javnu odvodnju izgrađenih radi zaštite površinskih i podzemnih voda u zonama sanitarne zaštite, što uključuje i druge troškove koji se po odredbama zakona kojim se uređuju vode podmiruju iz cijene vodne usluge.«.
+
+#### Članak 16.
+
+Članak 71. mijenja se i glasi:
+
+»Izvršenje vodnih naknada za koje rješenja o obračunu donose Hrvatske vode, osim izvršenja naknade za uređenje voda iz članka 72. ovoga Zakona, provodi se primjenom odredbi kojima se uređuje izvršenje novčanih obveza iz zakona kojim se uređuje opći upravni postupak.«.
+
+#### Članak 17.
+
+U članku 73. stavci 2. i 3. brišu se.
+
+#### Članak 18.
+
+U cijelom tekstu Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13. i 120/16.) riječi: »prostorni metar« u određenom broju i padežu zamjenjuju se riječima: »kubni metar« u odgovarajućem broju i padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 19.
+
+Iznimno od odredbi članka 23. točke 3., članka 24. stavka 1. točke 3., kao i članka 25. stavka 2. i članka 26. stavka 1. u vezi s člankom 23. točkom 3. i člankom 24. stavkom 1. točkom 3. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13. i 120/16.), od 1. siječnja 2018. do stupanja na snagu odredbe propisa iz članka 27. stavka 1. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13. i 120/16.) koja se odnosi na korekcijske koeficijente za naknadu za korištenje voda zbog prihvatljivih gubitaka vode, naknada za korištenje voda u javnoj vodoopskrbi obračunavat će se prema sljedećim pravilima:
+
+1. obveznik naknade je korisnik vodne usluge javne vodoopskrbe
+
+2. osnovica naknade je količina vode isporučene obvezniku putem isporučitelja vodnih usluga
+
+3. naknada se obračunava i plaća prema stvarno isporučenim količinama vode, ali se za kraće razdoblje od jedne godine može plaćati i po procijenjenim količinama zahvaćene vode (privremeni obračun)
+
+4. očevidnik naknade vodi isporučitelj vodnih usluga
+
+5. naknadu obračunavaju i naplaćuju isporučitelji vodne usluge javne vodoopskrbe uz cijenu vodne usluge javne vodoopskrbe
+
+6. naplaćene iznose naknade isporučitelji vodne usluge doznačuju Hrvatskim vodama u rokovima i na način određen propisom iz članka 76. Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13. i 120/16.)
+
+7. naknada se obračunava putem računa isporučitelja vodne usluge i zasebno se iskazuje na računu
+
+8. za poslove obračuna i naplate isporučitelju vodne usluge pripada naknada u visini 5% naplaćene naknade
+
+9. ovrhu naknade pokreću isporučitelji vodnih usluga kao ovrhovoditelji, zajedno s ovrhom cijena vodnih usluga
+
+10. pravo na obračun i ovrhu naknade zastarijeva u roku zastare cijene vodne usluge javne vodoopskrbe.
+
+#### Članak 20.
+
+Upravni postupci pokrenuti po odredbama Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13. i 120/16.) do stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona.
+
+#### Članak 21.
+
+Vlada Republike Hrvatske će u roku od tri mjeseca od stupanja na snagu ovoga Zakona uskladiti s odredbama ovoga Zakona:
+
+– Uredbu o visini naknade za uređenje voda (»Narodne novine«, br. 82/10. i 108/13.)
+
+– Uredbu o visini naknade za korištenje voda (»Narodne novine«, br. 82/10., 83/12. i 10/14.) i
+
+– Uredbu o visini naknade za zaštitu voda (»Narodne novine«, br. 82/10., 83/12. i 151/13.).
+
+#### Članak 22.
+
+Ministar će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona uskladiti s odredbama ovoga Zakona:
+
+‒ Pravilnik o obračunu i naplati vodnoga doprinosa (»Narodne novine«, br. 107/14.)
+
+‒ Pravilnik o obračunu i naplati naknade za uređenje voda (»Narodne novine«, br. 83/10. i 126/13.)
+
+‒ Pravilnik o obračunu i naplati naknade za korištenje voda (»Narodne novine«, br. 84/10. i 146/12.) i
+
+‒ Pravilnik o obračunavanju i plaćanju naknade za zaštitu voda (»Narodne novine«, br. 83/10. i 160/13.).
+
+#### Članak 23.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/170
+
+Zagreb, 8. prosinca 2017.
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva (NN 66/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/66/1292*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIRANJU VODNOGA GOSPODARSTVA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva, koji je Hrvatski sabor donio na sjednici 28. lipnja 2019.
+
+Klasa: 011-01/19-01/100
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 5. srpnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O FINANCIRANJU VODNOGA GOSPODARSTVA**
+
+#### Članak 1.
+
+U Zakonu o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13., 120/16. i 127/17.) u članku 3.a stavcima 4., 8. i 9. riječi: »članaka 4. i 40. Zakona o vodama (»Narodne novine«, br. 153/09., 63/11., 130/11., 56/13. i 14/14.)« zamjenjuju se riječima: »zakona kojim se uređuju vode«.
+
+#### Članak 2.
+
+U članku 5. stavku 5. riječi: »i jedinica područne (regionalne) samouprave na uslužnom području« zamjenjuju se riječima: »i Republike Hrvatske«.
+
+#### Članak 3.
+
+U članku 21. stavku 4. iza riječi: »samouprave« dodaju se riječi: »i/ili podmirenje troškova nastalih pri obračunu i naplati naknade za uređenje voda«.
+
+#### Članak 4.
+
+Članak 33. mijenja se i glasi:
+
+»Hrvatske vode obračunavaju i naplaćuju naknadu za zaštitu voda osobama koje ispuštaju otpadne vode u prirodni prijamnik ili sustav javne odvodnje, ako su u obvezi imati okolišnu dozvolu u skladu s propisima o zaštiti okoliša, odnosno vodopravnu dozvolu za ispuštanje otpadnih voda i ako imaju obvezu redovitog uzorkovanja i ispitivanja sastava otpadnih voda.
+
+Isporučitelji vodnih usluga obračunavaju i naplaćuju naknadu za zaštitu voda osobama:
+
+– koje ispuštaju otpadne vode u sustav javne odvodnje, osim osoba iz stavka 1. ovoga članka, uz cijenu vodne usluge javne odvodnje i
+
+– koje ispuštaju otpadne vode u prirodni prijamnik putem individualnog sustava javne odvodnje koji je priključen na sustav javne vodoopskrbe, osim osoba iz stavka 1. ovoga članka, uz cijenu vodne usluge javne vodoopskrbe.
+
+Naplaćene iznose naknade isporučitelji vodne usluge doznačuju Hrvatskim vodama u rokovima i na način određen propisom iz članka 76. ovoga Zakona kojim se uređuje obračunavanje i plaćanje naknade za zaštitu voda.
+
+Naknada za zaštitu voda iz stavka 1. ovoga članka obračunava se prema stvarnim podacima o osnovici i pokazateljima onečišćenja voda (konačni obračun), a može se obračunavati i po procijenjenim podacima o osnovici i pokazateljima onečišćenja voda (privremeni obračun) za razdoblje kraće od kalendarske godine. Naknada za zaštitu voda iz stavka 1. ovoga članka obračunava se rješenjem Hrvatskih voda po konačnom obračunu ili putem obračunskog lista koji sadržava obračunske elemente i uplatnicu, po privremenom obračunu.
+
+Naknada za zaštitu voda iz stavka 2. ovoga članka obračunava se putem računa isporučitelja vodne usluge i zasebno se iskazuje na računu. Za poslove iz stavka 2. ovoga članka isporučitelju vodne usluge pripada naknada u visini 5% naplaćene naknade za zaštitu voda.«.
+
+#### Članak 5.
+
+U članku 44. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Jedinica područne (regionalne) samouprave ulaže sredstva naknade za melioracijsku odvodnju i/ili druga sredstva svoga proračuna za namjene iz stavka 1. ovoga članka posredstvom Hrvatskih voda, o čemu sklapaju ugovor.«.
+
+#### Članak 6.
+
+Članak 44.a briše se.
+
+#### Članak 7.
+
+Članak 52. mijenja se i glasi:
+
+»Javni isporučitelj vodnih usluga može svojom odlukom odrediti da se uz cijenu vodne usluge javne vodoopskrbe, odnosno uz cijenu vodne usluge javne odvodnje plaća i naknada za razvoj (u daljnjem tekstu: odluka o naknadi za razvoj).
+
+Odluka o naknadi za razvoj donosi se za razdoblje važenja plana gradnje komunalnih vodnih građevina.
+
+Javni isporučitelj vodne usluge ne smije obračunavati i naplaćivati naknadu za razvoj protivno odredbama odluke o naknadi za razvoj.
+
+Javni isporučitelj vodne usluge objavljuje odluku o naknadi za razvoj u »Narodnim novinama«.
+
+Odluku o naknadi za razvoj javni isporučitelj vodnih usluga dužan je dostaviti Vijeću za vodne usluge u roku od pet dana od dana donošenja.«.
+
+#### Članak 8.
+
+U članku 56. stavak 1. mijenja se i glasi:
+
+»Odlukom o naknadi za razvoj određuje se visina naknade za razvoj u kunama po kubnom metru osnovice.«.
+
+#### Članak 9.
+
+Članak 57. mijenja se i glasi:
+
+»Prihodi od naknade za razvoj koriste se za financiranje gradnje komunalnih vodnih građevina sukladno planu gradnje komunalnih vodnih građevina odnosno za financiranje otplate zajmova i kredita za gradnju komunalnih vodnih građevina sukladno financijskom planu javnog isporučitelja vodnih usluga, koji se donose u skladu sa zakonom kojim se uređuju vodne usluge.«.
+
+#### Članak 10.
+
+Članak 58. mijenja se i glasi:
+
+»Naknada za razvoj može se uvesti u jednakoj visini ili u različitim visinama na uslužnom području.
+
+Naknada za razvoj u različitim visinama na uslužnom području uvodi se s dvije sastavnice, i to kao:
+
+– dio naknade koji se plaća na cijelom uslužnom području, a prihodi od nje koriste se za dijelove sustava javne vodoopskrbe i/ili sustava javne odvodnje koji služe korisnicima vodnih usluga na cijelom uslužnom području ili njegovu pretežitom dijelu ili se koriste za dijelove sustava javne vodoopskrbe i/ili sustava javne odvodnje koji služe isključivo korisnicima vodnih usluga na području određene jedinice lokalne samouprave, ako se s njezina područja ne mogu osigurati dostatni prihodi za te namjene (zajednički dio naknade za razvoj) i
+
+– dio naknade koji se plaća na području jedinice lokalne samouprave, a prihodi od nje koriste se za dijelove sustava javne vodoopskrbe i/ili sustava javne odvodnje koji služe isključivo korisnicima vodnih usluga na području te jedinice lokalne samouprave (posebni dio naknade za razvoj).
+
+Naknada za razvoj u različitim visinama na uslužnom području uvodi se uz prethodnu tehno-ekonomsku analizu.
+
+Prihod od naknade za razvoj uvedene u jednakoj visini na uslužnom području i prihod od zajedničkog dijela naknade za razvoj koristi se sukladno planu gradnje komunalnih vodnih građevina vodeći se načelom prvenstva u potrebama i solidarnosti.
+
+Javni isporučitelj vodnih usluga dužan je uvesti naknadu za razvoj u različitim visinama na uslužnom području ako jedna ili više jedinica lokalne samouprave iskaže takvu inicijativu, obrazloženu u pisanom obliku.
+
+Način određivanja visine naknade za razvoj, njezin obračun i plaćanje propisuju se uredbom o metodologiji za određivanje cijena vodnih usluga iz zakona kojim se uređuju vodne usluge.«.
+
+#### Članak 11.
+
+Članak 58.a briše se.
+
+#### Članak 12.
+
+Članak 79. mijenja se i glasi:
+
+»Inspekcijski nadzor nad primjenom odredaba ovoga Zakona i propisa donesenih na temelju njega, osim nad provedbom javnih ovlasti osoba iz članka 78. ovoga Zakona, provodi središnje tijelo državne uprave nadležno za poslove vodopravne inspekcije, ako ovim Zakonom nije drukčije određeno.«.
+
+#### Članak 13.
+
+Članak 82. mijenja se i glasi:
+
+»Protiv rješenja vodopravnog inspektora može se u roku od 15 dana od dana dostave rješenja izjaviti žalba.
+
+Žalbu protiv rješenja vodopravnog inspektora rješava nadležna ustrojstvena jedinica za drugostupanjski upravni postupak u središnjem tijelu državne uprave nadležnom za inspekcijske poslove.
+
+Žalba protiv rješenja vodopravnog inspektora ne odgađa izvršenje rješenja.«.
+
+#### Članak 14.
+
+U članku 85. iza točke 3. dodaju se nove točke 4. i 5. te točke 6. i 7. koje glase:
+
+»4. obračunava i/ili naplaćuje naknadu za razvoj protivno članku 52. stavku 3. ovoga Zakona;
+
+5. ne objavi odluku o naknadi za razvoj u »Narodnim novinama« u skladu s člankom 52. stavkom 4. ovoga Zakona;
+
+6. ne dostavi odluku o naknadi za razvoj sukladno članku 52. stavku 5. ovoga Zakona;
+
+7. ne koristi prihode od naknade za razvoj sukladno članku 57. ovoga Zakona;«.
+
+Dosadašnje točke 4. i 5. postaju točke 8. i 9.
+
+#### Članak 15.
+
+U cijelom tekstu Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13., 120/16. i 127/17.) riječi: »državni vodopravni inspektor« u određenom broju i padežu zamjenjuju se riječima: »vodopravni inspektor« u odgovarajućem broju i padežu, a riječi: »Državna vodopravna inspekcija« u određenom broju i padežu zamjenjuju se riječima: »središnje tijelo državne uprave nadležno za poslove vodopravne inspekcije« u odgovarajućem broju i padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 16.
+
+U roku od 30 mjeseci od dana stupanja na snagu ovoga Zakona javni isporučitelji vodnih usluga dužni su donijeti odluke o naknadi za razvoj u skladu s člankom 52. koji je izmijenjen člankom 7. ovoga Zakona koje moraju sadržavati i sve neizvršene odredbe važećih odluka o naknadi za razvoj koje su prije stupanja na snagu ovoga Zakona donijele jedinice lokalne samouprave i jedinice područne (regionalne) samouprave.
+
+Nakon isteka roka od 36 mjeseci od dana stupanja na snagu ovoga Zakona naknada za razvoj ne može se obračunavati i naplaćivati za iduća obračunska razdoblja, na temelju odluke o naknadi za razvoj koju je prije stupanja na snagu ovoga Zakona donijelo predstavničko tijelo jedinice lokalne samouprave ili jedinice područne (regionalne) samouprave.
+
+Kaznom iz članka 85. koji je izmijenjen člankom 14. ovoga Zakona kaznit će se osoba koja protivno stavku 2. ovoga članka, nakon isteka roka od 36 mjeseci od dana stupanja na snagu ovoga Zakona, obračunava i/ili naplaćuje naknadu za razvoj za iduća obračunska razdoblja, na temelju odluke o naknadi za razvoj koju je prije stupanja na snagu ovoga Zakona donijelo predstavničko tijelo jedinice lokalne samouprave ili jedinice područne (regionalne) samouprave.
+
+#### Članak 17.
+
+U roku od 30 mjeseci nakon stupanja na snagu ovoga Zakona javni isporučitelj vodnih usluga može koristiti do 20 % prikupljenih sredstava naknade za razvoj za pokriće troškova održavanja i pogona građevina za javnu odvodnju izgrađenih radi zaštite površinskih i podzemnih voda u zonama sanitarne zaštite, što uključuje i druge troškove koji se prema odredbama zakona kojim se uređuju vode podmiruju iz cijene vodne usluge.
+
+#### Članak 18.
+
+Odredbe koje se u ovom Zakonu odnose na okolišnu dozvolu primjenjuju se i na rješenje o objedinjenim uvjetima zaštite okoliša dok je na snazi.
+
+#### Članak 19.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/50
+
+Zagreb, 28. lipnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o financiranju vodnoga gospodarstva (NN 36/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/577*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O FINANCIRANJU VODNOGA GOSPODARSTVA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o financiranju vodnoga gospodarstva, koji je Hrvatski sabor donio na sjednici 14. ožujka 2024.
+
+Klasa: 011-02/24-02/34
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 18. ožujka 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O FINANCIRANJU VODNOGA GOSPODARSTVA**
+
+#### Članak 1.
+
+U Zakonu o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13., 154/14., 119/15., 120/16., 127/17. i 66/19.) u članku 5. stavku 1. točka 1. briše se.
+
+Dosadašnje točke 2. do 7. postaju točke 1. do 6.
+
+U stavku 3. riječi: »1. do 4.« zamjenjuju se riječima: »1. do 3.«.
+
+U stavku 6. riječi: »1. do 4.« zamjenjuju se riječima: »1. do 3.«.
+
+U stavku 7. riječi: »1. do 4.« zamjenjuju se riječima: »1. do 3.«.
+
+#### Članak 2.
+
+Naslov iznad članka 6. te članci 6. do 12. brišu se.
+
+#### Članak 3.
+
+U članku 21. stavku 1. iza podstavka 6. dodaje se novi podstavak 7. koji glasi:
+
+»‒ sufinanciranje troškova sanacije klizišta i odrona nastalih djelovanjem erozija i bujica kojima je ugrožena javna infrastruktura,«.
+
+Dosadašnji podstavci 7. i 8. postaju podstavci 8. i 9.
+
+#### Članak 4.
+
+U članku 76. riječi: »korekcijske koeficijente za obračun vodnoga doprinosa,« brišu se.
+
+#### Članak 5.
+
+U članku 85. stavku 1. u uvodnoj rečenici riječi: »10.000,00 do 300.000,00 kuna« zamjenjuju se riječima: »1320,00 do 39.810,00 eura«.
+
+U stavku 2. riječi: »1.000,00 do 10.000,00 kuna« zamjenjuju se riječima: »130,00 do 1320,00 eura«.
+
+U stavku 3. riječi: »1.000,00 do 10.000,00 kuna« zamjenjuju se riječima: »130,00 do 1320,00 eura«.
+
+#### Članak 6.
+
+U članku 85.a stavku 1. u uvodnoj rečenici riječi: »4.000,00 do 10.000,00 kuna« zamjenjuju se riječima: »530,00 do 1320,00 eura«.
+
+U stavku 2. riječi: »400,00 do 1.000,00 kuna« zamjenjuju se riječima: »50,00 do 130,00 eura«.
+
+U stavku 3. riječi: »400,00 do 1.000,00 kuna« zamjenjuju se riječima: »50,00 do 130,00 eura«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 7.
+
+Upravni postupci pokrenuti prema odredbama Zakona o financiranju vodnoga gospodarstva (»Narodne novine«, br. 153/09., 90/11., 56/13., 154/14., 119/15., 120/16., 127/17. i 66/19.) dovršit će se prema odredbama toga Zakona.
+
+#### Članak 8.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. srpnja 2024.
+
+Klasa: 022-02/24-01/26
+
+Zagreb, 14. ožujka 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

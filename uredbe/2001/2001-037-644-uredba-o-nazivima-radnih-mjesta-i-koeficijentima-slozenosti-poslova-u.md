@@ -6,11 +6,11 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2001-04-25
-last_amended: 2015-09-18
+last_amended: 2023-07-28
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "37/01, 71/01, 89/01, 112/01, 7/02, 17/03, 197/03, 21/04, 66/05, 131/05, 11/07, 47/07, 109/07, 58/08, 32/09, 140/09, 21/10, 38/10, 77/10, 113/10, 142/11, 31/12, 49/12, 60/12, 78/12, 82/12, 100/12, 124/12, 140/12, 16/13, 25/13, 52/13, 96/13, 126/13, 2/14, 94/14, 140/14, 151/14, 76/15, 100/15"
+narodne_novine: "37/01, 71/01, 89/01, 112/01, 7/02, 17/03, 197/03, 21/04, 66/05, 131/05, 11/07, 47/07, 109/07, 58/08, 32/09, 140/09, 21/10, 38/10, 77/10, 113/10, 142/11, 31/12, 49/12, 60/12, 78/12, 82/12, 100/12, 124/12, 140/12, 16/13, 25/13, 52/13, 96/13, 126/13, 2/14, 94/14, 140/14, 151/14, 76/15, 100/15, 71/18, 73/19, 63/21, 13/22, 139/22, 26/23, 87/23"
 amendments:
   - "NN 71/2001 (1242) Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
   - "NN 89/2001 (1505) Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
@@ -51,6 +51,13 @@ amendments:
   - "NN 151/2014 (2826) Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
   - "NN 76/2015 (1447) Uredba o dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
   - "NN 100/2015 (1943) Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
+  - "NN 71/2018 (1449) Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
+  - "NN 73/2019 (1567) Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
+  - "NN 63/2021 (1213) Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
+  - "NN 13/2022 (129) Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
+  - "NN 139/2022 (2089) Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
+  - "NN 26/2023 (414) Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
+  - "NN 87/2023 (1349) Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2001/37/644"
 retrieved: 2026-10-12
 ---
@@ -59,7 +66,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 37/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/37/644).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 71/2001, NN 89/2001, NN 112/2001, NN 7/2002, NN 17/2003, NN 197/2003, NN 21/2004, NN 66/2005, NN 131/2005, NN 11/2007, NN 47/2007, NN 109/2007, NN 58/2008, NN 32/2009, NN 140/2009, NN 21/2010, NN 38/2010, NN 77/2010, NN 113/2010, NN 142/2011, NN 31/2012, NN 49/2012, NN 60/2012, NN 78/2012, NN 82/2012, NN 100/2012, NN 124/2012, NN 140/2012, NN 16/2013, NN 25/2013, NN 52/2013, NN 96/2013, NN 126/2013, NN 2/2014, NN 94/2014, NN 140/2014, NN 151/2014, NN 76/2015, NN 100/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 71/2001, NN 89/2001, NN 112/2001, NN 7/2002, NN 17/2003, NN 197/2003, NN 21/2004, NN 66/2005, NN 131/2005, NN 11/2007, NN 47/2007, NN 109/2007, NN 58/2008, NN 32/2009, NN 140/2009, NN 21/2010, NN 38/2010, NN 77/2010, NN 113/2010, NN 142/2011, NN 31/2012, NN 49/2012, NN 60/2012, NN 78/2012, NN 82/2012, NN 100/2012, NN 124/2012, NN 140/2012, NN 16/2013, NN 25/2013, NN 52/2013, NN 96/2013, NN 126/2013, NN 2/2014, NN 94/2014, NN 140/2014, NN 151/2014, NN 76/2015, NN 100/2015, NN 71/2018, NN 73/2019, NN 63/2021, NN 13/2022, NN 139/2022, NN 26/2023, NN 87/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -4981,47 +4988,39 @@ Predsjednik
 Zoran Milanović, v. r.
 
 <table><tbody>
-
 <tr>
 <td colspan="3">OSNOVNI ELEMENTI OPISA RADNIH MJESTA I UVJETI ZA RASPORED DRŽAVNIH SLUŽBENIKA KOJI RADE U STRUKTURI TIJELA KOJA SU DOBILA DOZVOLU ZA RAD OD EUROPSKE KOMISIJE ZA UPRAVLJANJE SREDSTVIMA EUROPSKE UNIJE</td>
 </tr>
-
 <tr>
 <td>Naziv radnog mjesta</td>
 <td>Osnovni elementi opisa radnog mjesta</td>
 <td>Uvjeti za raspored</td>
 </tr>
-
 <tr>
 <td>načelnik<br><br>sektora</td>
 <td>– upravlja radom sektora (organizira, koordinira, prati i nadzire obavljanje poslova u sektoru i obavlja poslove upravljanja ljudskim potencijalima u sektoru,<br> – koordinira obavljanje poslova temeljem nacionalne razvojne strategije i strateških dokumenata za korištenje sredstava Europske unije (Nacionalni strateški referentni okvir i drugi jednogodišnji/višegodišnji programi) ili poslova financijskog upravljanja temeljem regulative Europske unije i potpisanih financijskih sporazuma;<br> – organizira i sudjeluje u partnerskim konzultacijama za strateške dokumente za korištenje sredstava iz fondova Europske unije i/ili u nadzoru provedbe programa Europske unije;<br> – daje smjernice za pripremu evaluacija za programske dokumente (operativne programe) ili smjernice za rješavanje revizorskih nalaza i unaprjeđenje sustava financijskog upravljanja;<br> – sudjeluje u radu stručnih radnih skupina i drugih radnih tijela za izradu propisa, strategija, akcijskih planova i drugih akata;<br> – surađuje s nadležnim tijelima Europske komisije;<br> – izvještava nadređene službenike/dužnosnike o stanju izvršavanja poslova u sektoru i predlaže mjere i radnje za poboljšanje obavljanja poslova;<br> – redovno surađuje s rukovodećim službenicima državnih tijela i višim službenicima nadležnih tijela Europske komisije;<br> – odgovoran je za zakonitost rada i postupanja, materijalne i financijske resurse s kojima radi, kvalitetno i pravodobno obavljanje svih poslova iz djelokruga sektora.</td>
 <td>– magistar struke ili stručni specijalist odgovarajuće struke,<br> – najmanje 4 godine radnog iskustva na odgovarajućim poslovima od čega 1 godina na poslovima vezanim uz upravljanje fondovima Europske unije,<br> – izvrsno poznavanje engleskog jezika i sposobnost učinkovite i jasne komunikacije na engleskom jeziku,<br> – izvrsno poznavanje odgovarajućih nacionalnih propisa i propisa Europske unije,<br> – izvrsno poznavanje Kohezijske politike Europske unije,<br> – izvrsno znanje vezano uz definiranje strateških ciljeva i formuliranje indikatora uspješnosti,<br> – visokorazvijene analitičke i pregovaračke sposobnosti i vještine,<br> – znanje rada na osobnom računalu,<br> – položen državni stručni ispit,<br> – završeni programi izobrazbe službenika koji rade na poslovima vezanim uz fondove Europske unije, koje organiziraju i provode resorna ministarstva i institucije nadležne za provedbu izobrazbe, a koji odgovaraju specifičnim zahtjevima radnog mjesta i koji su propisani pravilnikom o unutarnjem redu državnog tijela,<br> – ostali uvjeti prema posebnim propisima i pravilniku o unutarnjem redu.</td>
 </tr>
-
 <tr>
 <td>voditelj službe</td>
 <td>– upravlja radom službe (organizira, koordinira, prati i nadzire obavljanje poslova u odjelu) i obavlja poslove upravljanja ljudskim potencijalima u službi;<br> – koordinira pripremu internih procedura i metodologije za administriranje i upravljanje programima i projektima financiranih iz sredstava Europske unije, izradu planova, izvješća i akata na engleskom i hrvatskom jeziku,<br> – sudjeluje u radu stručnih radnih skupina i drugih radnih tijela za izradu propisa, strategija, akcijskih planova i drugih akata iz djelokruga službe;<br> – neposredno obavlja najsloženije poslove iz djelokruga službe koji obuhvaćaju sudjelovanje u izradi strateških dokumenata, proučavanje i analizu nacrta dokumentacije, predlaganje inovativnih rješenja problema, uz povremeni nadzor te opće i specifične upute nadređenog službenika;<br> – izvještava nadređene službenike o stanju izvršavanja poslova u službi i predlaže mjere i radnje za poboljšanje obavljanja poslova;<br> – redovno surađuje s rukovodećim službenicima državnih tijela i po potrebi s višim službenicima nadležnih tijela Europske komisije;<br> – odgovoran je za zakonitost rada i postupanja, materijalne i financijske resurse s kojima radi, kvalitetno i pravodobno obavljanje svih poslova iz djelokruga službe.</td>
 <td>– magistar struke ili stručni specijalist odgovarajuće struke,<br> – najmanje 4 godine radnog iskustva na odgovarajućim poslovima od čega najmanje 1 godina na poslovima vezanim uz upravljanje fondovima Europske unije,<br> – izvrsno poznavanje engleskog jezika i sposobnost učinkovite i jasne komunikacije na engleskom jeziku,<br> – izvrsno poznavanje odgovarajućih nacionalnih propisa i propisa Europske unije,<br> – dobro poznavanje Kohezijske politike Europske unije,<br> – dobro znanje vezano uz definiranje strateških ciljeva i formuliranje indikatora uspješnosti,<br> – napredno znanje rada na osobnom računalu,<br> – položen državni stručni ispit,<br> – završeni programi izobrazbe službenika koji rade na poslovima vezanim uz fondove Europske unije, koje organiziraju i provode resorna ministarstva i institucije nadležne za provedbu izobrazbe, a koji odgovaraju specifičnim zahtjevima radnog mjesta i koji su propisani pravilnikom o unutarnjem redu državnog tijela,<br> – ostali uvjeti prema posebnim propisima i pravilniku o unutarnjem redu.</td>
 </tr>
-
 <tr>
 <td>voditelj<br><br>odjela</td>
 <td>– upravlja radom odjela (organizira, koordinira, prati i nadzire obavljanje poslova u odsjeku) i obavlja poslove upravljanja ljudskim potencijalima u odjelu;<br> – neposredno obavlja najsloženije poslove iz djelokruga odjela koji obuhvaćaju proučavanje i analizu dokumentacije, predlaganje rješenja problema, savjetovanje unutar i izvan tijela, praćenje provedbe programa i projekata, uz povremeni nadzor te opće i specifične upute nadređenog službenika;<br> – sudjeluje u radu stručnih radnih skupina i drugih radnih tijela za izradu propisa, strategija, akcijskih planova i drugih akata iz djelokruga odjela;<br> – izvještava nadređene službenike o stanju izvršavanja poslova u odjelu i predlaže mjere i radnje za poboljšanje obavljanja poslova;<br> – redovno surađuje s nižim rukovodećim službenicima državnih tijela i po potrebi s nižim službenicima nadležnih tijela Europske komisije;<br> – odgovoran je za zakonitost rada i postupanja, materijalne i financijske resurse s kojima radi, kvalitetno i pravodobno obavljanje svih poslova iz djelokruga odjela.</td>
 <td>– magistar struke ili stručni specijalist odgovarajuće struke,<br> – najmanje 4 godine radnog iskustva na odgovarajućim poslovima od čega najmanje 1 godina na poslovima vezanim uz upravljanje fondovima Europske unije,<br> – izvrsno poznavanje engleskog jezika i sposobnost učinkovite i jasne komunikacije na engleskom jeziku,<br> – odlično poznavanje odgovarajućih nacionalnih propisa i propisa Europske unije,<br> – odlično poznavanje Kohezijske politike Europske unije,<br> – odlično znanje vezano uz definiranje strateških ciljeva i formuliranje indikatora uspješnosti,<br> – napredno znanje rada na osobnom računalu,<br> – položen državni stručni ispit,<br> – završeni programi izobrazbe službenika koji rade na poslovima vezanim uz fondove Europske unije, koje organiziraju i provode resorna ministarstva i institucije nadležne za provedbu izobrazbe, a koji odgovaraju specifičnim zahtjevima radnog mjesta i koji su propisani pravilnikom o unutarnjem redu državnog tijela,<br> – ostali uvjeti prema posebnim propisima i pravilniku o unutarnjem redu.</td>
 </tr>
-
 <tr>
 <td>viši stručni savjetnik</td>
 <td>– sudjeluje u pripremi internih procedura i metodologije za administriranje i upravljanje programima i projektima financiranih iz sredstava Europske unije iz djelokruga ustrojstvene jedinice;<br> – priprema nacrte izvješća i akata na engleskom i hrvatskom jeziku u provedbi programa i projekata iz djelokruga ustrojstvene jedinice;<br> – analizira podatke iz djelokruga ustrojstvene jedinice;<br> – sudjeluje u organizaciji sastanaka i pripremi materijala za sastanke, vodi bilješke sa sastanaka;<br> – obavlja druge složene stručne poslove koji obuhvaćaju proučavanje i analizu dokumentacije, pripremu planova, predlaganje rješenja problema, savjetovanje unutar i izvan tijela, praćenje provedbe programa i projekata, uz povremeni nadzor te opće i specifične upute nadređenog službenika;<br> – redovno surađuje sa službenicima tijela uključenih u strukturu upravljanja fondovima Europske unije i po potrebi s nižim službenicima nadležnih tijela Europske komisije;<br> – odgovoran je za materijalne resurse s kojima radi i ispravnu primjenu metoda rada, postupaka i stručnih tehnika.</td>
 <td>– magistar struke ili stručni specijalist odgovarajuće struke,<br> – najmanje 4 godine radnog iskustva na odgovarajućim poslovima,<br> – izvrsno poznavanje engleskog jezika i sposobnost učinkovite i jasne komunikacije na engleskom jeziku,<br> – dobro poznavanje odgovarajućih nacionalnih propisa i propisa Europske unije,<br> – dobro poznavanje Kohezijske politike Europske unije,<br> – znanja vezana uz definiranje strateških ciljeva i formuliranje indikatora uspješnosti,<br> – napredno znanje rada na osobnom računalu,<br> – položen državni stručni ispit,<br> – završeni programi izobrazbe službenika koji rade na poslovima vezanim uz fondove Europske unije, koje organiziraju i provode resorna ministarstva i institucije nadležne za provedbu izobrazbe, a koji odgovaraju specifičnim zahtjevima radnog mjesta i koji su propisani pravilnikom o unutarnjem redu državnog tijela,<br> – ostali uvjeti prema posebnim propisima i pravilniku o unutarnjem redu.</td>
 </tr>
-
 <tr>
 <td>stručni<br><br>savjetnik</td>
 <td>– izrađuje nacrte složenijih izvješća i akata na engleskom i hrvatskom jeziku;<br> – prikuplja, obrađuje i analizira složenije podatke na hrvatskom i engleskom jeziku iz djelokruga ustrojstvene jedinice;<br> – sudjeluje u organizaciji sastanaka i pripremi materijala za sastanke, vodi bilješke sa sastanaka;<br> – obavlja složenije stručne poslove koji obuhvaćaju proučavanje, analizu dokumentacije, praćenje provedbe programa i projekata, uz češći nadzor, opće i specifične upute nadređenog službenika;<br> – surađuje sa službenicima tijela uključenih u strukturu upravljanja fondovima Europske unije radi prikupljanja ili razmjene informacija;<br> – odgovoran je za materijalne resurse s kojima radi i ispravnu primjenu metoda rada, postupaka i stručnih tehnika.</td>
 <td>– magistar struke ili stručni specijalist odgovarajuće struke,<br> – najmanje 3 godine radnog iskustva na odgovarajućim poslovima,<br> – položen državni stručni ispit,<br> – dobro poznavanje engleskog jezika i sposobnost jasne komunikacije na engleskom jeziku,<br> – poznavanje odgovarajućih nacionalnih propisa i propisa Europske unije,<br> – napredno znanje rada na osobnom računalu,<br> – završeni programi izobrazbe službenika koji rade na poslovima vezanim uz fondove Europske unije, koje organiziraju i provode resorna ministarstva i institucije nadležne za provedbu izobrazbe, a koji odgovaraju specifičnim zahtjevima radnog mjesta i koji su propisani pravilnikom o unutarnjem redu državnog tijela,<br> – ostali uvjeti prema posebnim propisima i pravilniku o unutarnjem redu.</td>
 </tr>
-
 <tr>
 <td>stručni<br><br>suradnik</td>
 <td>– prikuplja i evidentira cjelokupnu dokumentaciju iz djelokruga ustrojstvene jedinice;<br> – izrađuje brojčane, tabelarne i grafičke preglede podataka na engleskom i hrvatskom jeziku;<br> – prevodi pisane tekstove i dokumente s hrvatskog jezika na engleski i s engleskog na hrvatski;<br> – priprema dokumentaciju i materijale na hrvatskom i engleskom jeziku potrebne za ostvarivanje odnosa s javnošću, medijima, korisnicima i potencijalnim korisnicima;<br> – obavlja druge, manje složene poslove, s ograničenim brojem međusobno povezanih zadaća iz djelokruga ustrojstvene jedinice i uz redoviti nadzor i upute nadređenog službenika;<br> – surađuje sa službenicima unutar tijela u kojem je zaposlen i povremeno izvan tijela radi prikupljanja ili razmjene informacija;<br> – odgovoran je za materijalne resurse s kojima radi i ispravnu primjenu metoda rada, postupaka i stručnih tehnika.</td>
@@ -7616,386 +7615,309 @@ Stručni uvjeti za točku 7.: završen diplomski sveučilišni studij ili specij
 »Posebni nazivi radnih mjesta u Ministarstvu pravosuđa i koeficijenti složenosti poslova su:
 
 <table><tbody>
-
 <tr>
 <td colspan="2">a) Položaji I. vrste</td>
 </tr>
-
 <tr>
 <td>1. voditelj službe za pravosudni informacijski sustav</td>
 <td>2,500</td>
 </tr>
-
 <tr>
 <td>2. upravitelj Kaznionice u Glini, Kaznionice u Lepoglavi, Kaznionice i zatvora u Požegi, Zatvorske bolnice u Zagrebu te Zatvora u Zagrebu</td>
 <td>2,473 </td>
 </tr>
-
 <tr>
 <td>3. upravitelj Kaznionice u Lipovici-Popovači, Kaznionice u Turopolju, Kaznionice u Valturi, Kaznionice i zatvora u Šibeniku, Odgojnog zavoda u Turopolju, Zatvora u Gospiću, Zatvora u Osijeku, Zatvora u Puli-Poli, Zatvora u Rijeci, Zatvora u Splitu, Zatvora u Varaždinu te Centra za dijagnostiku u Zagrebu</td>
 <td>2,425</td>
 </tr>
-
 <tr>
 <td>4. upravitelj Odgojnog zavoda u Požegi, Zatvora u Bjelovaru, Zatvora u Dubrovniku, Zatvora u Karlovcu, Zatvora u Sisku, Zatvora u Zadru te Centra za izobrazbu</td>
 <td>2,376</td>
 </tr>
-
 <tr>
 <td>5. pomoćnik upravitelja Kaznionice u Glini, Kaznionice u Lepoglavi, Kaznionice i zatvora u Požegi, Zatvorske bolnice u Zagrebu te Zatvora u Zagrebu</td>
 <td>2,231</td>
 </tr>
-
 <tr>
 <td>6. pomoćnik upravitelja Kaznionice u Lipovici-Popovači, Kaznionice u Turopolju, Kaznionice u Valturi, Kaznionice i zatvora u Šibeniku, Odgojnog zavoda u Turopolju, Zatvora u Gospiću, Zatvora u Osijeku, Zatvora u Puli-Pola, Zatvora u Rijeci, Zatvora u Splitu, Zatvora u Varaždinu te pomoćnik upravitelja</td>
 <td>2,182</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točke 1. - 6.: kao za višeg upravnog savjetnika, višeg stručnog savjetnika, višeg informatičkog savjetnika ili višeg inspektora, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>7. voditelj odjela zdravstvene zaštite u Zatvorskoj bolnici u Zagrebu</td>
 <td>2,037</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 7.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>8. voditelj odjela zdravstvene zaštite u kaznenim tijelima</td>
 <td>1,814</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 8.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>9. voditelj odjela upravnih i financijsko-knjigovodstvenih poslova u kaznenim tijelima</td>
 <td>1,814</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 9.: kao za višeg upravnog savjetnika, višeg stručnog savjetnika, višeg informatičkog savjetnika ili višeg inspektora, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>10. voditelj odjela tretmana, voditelj odjela osiguranja te voditelj odjela za rad i strukovnu izobrazbu u kaznenim tijelima pod točkom a) 2.</td>
 <td>1,814</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 10.: kao za upravnog ili stručnog savjetnika, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>11. voditelj odjela za pravosudni informacijski sustav</td>
 <td>1,800</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 11.: kao za višeg upravnog savjetnika, višeg stručnog savjetnika, višeg informatičkog savjetnika ili višeg inspektora, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12. voditelj odjela u Centru za dijagnostiku u Zagrebu, voditelj odjela u Odgojnom zavodu u Turopolju, voditelj odjela tretmana, voditelj odjela osiguranja, voditelj odjela za rad i strukovnu izobrazbu u kaznenim tijelima pod točkom a) 3.</td>
 <td>1,794</td>
 </tr>
-
 <tr>
 <td>13. voditelj odjela tretmana, voditelj odjela osiguranja, voditelj odjela za rad i strukovnu izobrazbu u kaznenim tijelima pod točkom a) 4.</td>
 <td>1,775</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točke 12. - 13.: kao za upravnog ili stručnog savjetnika, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>b) Položaji II. vrste</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1. voditelj pododsjeka u kaznenim tijelima</td>
 <td>1,164</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 1.: kao za višeg upravnog referenta, višeg stručnog referenta ili višeg informatičkog referenta, najmanje pet godina radnog staža u struci, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>c) Položaji III. vrste</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1. voditelj pododsjeka u kaznenim tijelima</td>
 <td>1,067</td>
 </tr>
-
 <tr>
 <td>2. voditelj odjeljka u kaznenim tijelima</td>
 <td>0,970</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točke 1. - 2.: kao za upravnog referenta, stručnog referenta, informatičkog referenta, administrativnog referenta ili računovodstvenog referenta, najmanje pet godina radnog staža u struci, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>d) Radna mjesta I. vrste</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1. viši informatički savjetnik – specijalist za pravosudni informacijski sustav</td>
 <td>1,940</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 1.: kao za višeg upravnog savjetnika, višeg stručnog savjetnika, višeg informatičkog savjetnika ili višeg inspektora, istaknuti rezultati u području od značaja za rad državnog tijela, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2. doktor medicine specijalist, doktor dentalne medicine specijalist, magistar farmacije specijalist, magistar medicinske biokemije specijalist u kaznenim tijelima ili odgojim zavodima</td>
 <td>1,940</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 2.: završen diplomski sveučilišni studij i izvršen poslijediplomski specijalistički studij, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>3. doktor medicine, doktor dentalne medicine, magistar farmacije, magistar medicinske biokemije u kaznenim tijelima ili odgojim zavodima</td>
 <td>1,794</td>
 </tr>
-
 <tr>
 <td>4. doktor veterinarske medicine u kaznenim tijelima</td>
 <td>1,755</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točke 3. - 4.: završen diplomski sveučilišni studij, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>5. viši stručni savjetnik za pravosudni informacijski sustav, viši informatički savjetnik za pravosudni informacijski sustav</td>
 <td>1,697</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 5.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>6. glavni nadzornik pravosudne policije-dežurni</td>
 <td>1,570</td>
 </tr>
-
 <tr>
 <td>7. glavni nadzornik pravosudne policije-instruktor</td>
 <td>1,560</td>
 </tr>
-
 <tr>
 <td>8. glavni nadzornik pravosudne policije</td>
 <td>1,552</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točke 6. - 8.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>9. viši savjetnik na poslovima nadzora sudske uprave, viši savjetnik na poslovima financijskog nadzora pravosudnih tijela</td>
 <td>1,552</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 9.: kao za višeg inspektora, ostali uvjeti prema posebnim propisima.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>10. samostalni nadzornik pravosudne policije-dežurni</td>
 <td>1,550</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 10.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>11. samostalni nadzornik pravosudne policije-instruktor</td>
 <td>1,530</td>
 </tr>
-
 <tr>
 <td>12. samostalni nadzornik pravosudne policije</td>
 <td>1,523</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točke 11. - 12.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13. informatički savjetnik za pravosudni informacijski sustav</td>
 <td>1,358</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 13.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje tri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>14. savjetnik na poslovima nadzora sudske uprave, savjetnik na poslovima financijskog nadzora pravosudnih tijela</td>
 <td>1,309</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 14.: kao za inspektora, ostali uvjeti prema posebnim propisima.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>15. informatički suradnik za pravosudni informacijski sustav</td>
 <td>1,241</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 15.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>e) Radna mjesta II. vrste</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1. viši informatički tehničar za pravosudni informacijski sustav</td>
 <td>1,185</td>
 </tr>
-
 <tr>
 <td>2. viši informatički referent za pravosudni informacijski sustav</td>
 <td>1,180</td>
 </tr>
-
 <tr>
 <td>3. viši nadzornik pravosudne policije-dežurni</td>
 <td>1,130</td>
 </tr>
-
 <tr>
 <td>4. viši nadzornik pravosudne policije-instruktor</td>
 <td></td>
 </tr>
-
 <tr>
 <td>nadzornik pravosudne policije-dežurni</td>
 <td>1,120</td>
 </tr>
-
 <tr>
 <td>5. viši nadzornik pravosudne policije</td>
 <td>1,115</td>
 </tr>
-
 <tr>
 <td>6. nadzornik pravosudne policije-instruktor</td>
 <td>1,100</td>
 </tr>
-
 <tr>
 <td>7. viši medicinski tehničar/sestra, veterinarski tehničar,</td>
 <td></td>
 </tr>
-
 <tr>
 <td>ing. medicinske radiologije, fizioterapeut</td>
 <td>1,100</td>
 </tr>
-
 <tr>
 <td>8. strukovni učitelj u kaznenim tijelima i odgojnim zavodima, dežurni u Kaznionici u Valturi, nastavnik u kaznenim tijelima i odgojnim zavodima te nadzornik pravosudne policije</td>
 <td>1,067</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točke 1. - 8.: završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje 3 godine, ostali uvjeti prema pravilniku o unutarnjem redu.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>9. viši stručni referent na poslovima financijskog nadzora pravosudnih tijela</td>
 <td>1,018</td>
 </tr>
-
 <tr>
 <td>Stručni uvjeti za točku 9.: kao za inspektora II. vrste, ostali uvjeti prema posebnim propisima.</td>
 <td></td>
 </tr>
-
 <tr>
 <td>f) Radna mjesta III. vrste</td>
 <td></td>
 </tr>
-
 <tr>
 <td>1. informatički tehničar za pravosudni informacijski sustav, stariji pravosudni policajac-dežurni</td>
 <td>0,990</td>
 </tr>
-
 <tr>
 <td>2. stariji pravosudni policajac-instruktor</td>
 <td>0,980</td>
 </tr>
-
 <tr>
 <td>3. stariji pravosudni policajac</td>
 <td>0,970</td>
 </tr>
-
 <tr>
 <td>4. pravosudni policajac-instruktor, medicinski tehničar/sestra, veterinarski tehničar, laborant u kaznenim tijelima i odgojnim zavodima</td>
 <td>0,940</td>
 </tr>
-
 <tr>
 <td>5. strukovni učitelj u kaznenim tijelima i odgojnim zavodima, dežurni u Kaznionici u Valturi te pravosudni policajac</td>
 <td>0,921</td>
 </tr>
-
 <tr>
 <td>6. informatički referent za pravosudni informacijski sustav</td>
 <td>0,860</td>
 </tr>
-
 <tr>
 <td>7. mlađi pravosudni policajac</td>
 <td>0,844</td>
@@ -8213,3 +8135,1796 @@ Zagreb, 17. rujna 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (NN 71/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/71/1449*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 109. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/01), a u vezi s člankom 144. stavkom 2. točkom a) Zakona o državnim službenicima (»Narodne novine«, br. 92/05, 107/07, 27/08, 34/11, 49/11, 150/11, 34/12, 49/12 – pročišćeni tekst, 37/13, 38/13, 1/15, 138/15 – Odluka Ustavnog suda Republike Hrvatske i 61/17), Vlada Republike Hrvatske je na sjednici održanoj 2. kolovoza 2018. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O NAZIVIMA RADNIH MJESTA I KOEFICIJENTIMA SLOŽENOSTI POSLOVA U DRŽAVNOJ SLUŽBI**
+
+### Članak 1.
+
+U Uredbi o nazivima radnih mjesta i koeficijentima složnosti poslova u državnoj službi (»Narodne novine«, br. 37/01, 38/01 – ispravak, 71/01, 89/01, 112/01, 7/02 – ispravak, 17/03, 197/03, 21/04, 25/04 – ispravak, 66/05, 131/05, 11/07, 47/07, 109/07, 58/08, 32/09, 140/09, 21/10, 38/10, 77/10, 113/10, 22/11, 142/11, 31/12, 49/12, 60/12, 78/12, 82/12, 100/12, 124/12, 140/12, 16/13, 25/13, 52/13, 96/13, 126/13, 2/14, 94/14, 140/14, 151/14, 76/15 i 100/15) u članku 7. iza podstavka b) dodaje se novi podstavak c) koji glasi:
+
+*»c) Položaji II. vrste*
+
+| viši upravni referent – zamjenik voditelja<br>Službe za opće poslove | 1,164 |
+|---|---|
+
+Stručni uvjeti: kao za višeg upravnog referenta, višeg stručnog referenta ili višeg informatičkog referenta, ostali uvjeti prema općem aktu.«.
+
+Dosadašnji podstavci c) i d) postaju podstavci d) i e).
+
+U dosadašnjem podstavku c) koji postaje podstavak d) točka 1. briše se.
+
+Dosadašnje točke 2. i 3. postaju točke 1. i 2.
+
+U dosadašnjem podstavku d) radna mjesta III. vrste, koji postaje podstavak e), točka 5. briše se. Dosadašnje točke 6., 7. i 8. postaju točke 5., 6. i 7.
+
+U stručnim uvjetima broj: »6« zamjenjuje se brojem: »5«.
+
+U dosadašnjim točkama 7. i 8., koje postaju točke 6. i 7., brojevi: »1,018« zamjenjuju se brojevima: »1,067«.
+
+Iza dosadašnje točke 8., koja postaje točka 7., dodaje se nova točka 8. koja glasi:
+
+| »8. stručni referent u Glavnom tajništvu Vlade | 1,018«. |
+|---|---|
+
+Iza dosadašnjeg podstavka d) koji postaje podstavak e), dodaje se podstavak f) koji glasi:
+
+| »f) Radna mjesta namještenika III. vrste u Glavnom tajništvu Vlade | 0,873«. |
+|---|---|
+
+### Članak 2.
+
+Iza članka 7.d dodaje se članak 7.e koji glasi:
+
+»Članak 7.e
+
+Posebni nazivi radnih mjesta u Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske i koeficijenti složenosti poslova su:
+
+*a) Položaji I. vrste*
+
+| 1. zamjenik ravnatelja Ureda za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 3,298 |
+|---|---|
+| 2. voditelj službe u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 3,007 |
+
+Stručni uvjeti za točke 1. – 2.: kao za višeg upravnog savjetnika, višeg stručnog savjetnika ili višeg informatičkog savjetnika, ostali uvjeti prema općem aktu.
+
+*b) Položaj II. vrste*
+
+| voditelj pododsjeka voznog parka u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 1,164 |
+|---|---|
+
+Stručni uvjeti: kao za višeg stručnog referenta, pet godina radnog iskustva na odgovarajućim poslovima
+
+*c) Položaj III. vrste*
+
+| voditelj pododsjeka u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 1, 067 |
+|---|---|
+
+Stručni uvjeti: kao za upravnog referenta, stručnog referenta, informatičkog referenta, administrativnog referenta ili računovodstvenog referenta, pet godina radnog iskustva u struci.
+
+*d) Radna mjesta I. vrste*
+
+| stručni suradnik u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 1,455 |
+|---|---|
+
+Stručni uvjeti: završen diplomski sveučilišni studij ili specijalistički diplomski studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima.
+
+*e) radna mjesta II. vrste*
+
+| viši stručni referent u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 1, 115 |
+|---|---|
+
+Stručni uvjeti: kao za višeg upravnog referenta, višeg stručnog referenta ili višeg informatičkog referenta, ostali uvjeti prema općem aktu.
+
+*f) Radna mjesta III. vrste*
+
+| 1. administrativni tajnik ravnatelja Ureda za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske | 1,067 |
+|---|---|
+| 2. stručni referent u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 1,018 |
+
+Stručni uvjeti za točke 1. – 2.: kao za stručnog referenta ili administrativnog referenta, ostali uvjeti prema općem aktu.
+
+*g) Položaji III. vrste (namještenici)*
+
+| voditelj odjeljka u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 1,018 |
+|---|---|
+
+Stručni uvjeti: SSS, tri godine radnog staža u struci.
+
+*h) Radna mjesta III. vrste (namještenici)*
+
+| 1. kuhar u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 0,970 |
+|---|---|
+| 2. slastičar u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 0,970 |
+| 3. radna mjesta namještenika III. vrste – ostali u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske – ostali | 0,873 |
+
+Stručni uvjeti za točke 1. – 2.: SSS, tri godine radnog staža u struci.
+
+Stručni uvjeti za točku 3.: SSS, ostali uvjeti prema općem aktu.
+
+*i) Radna mjesta IV. vrste (namještenici)*
+
+| radna mjesta IV. vrste u Uredu za opće poslove Hrvatskog sabora i Vlade Republike Hrvatske | 0,727.«. |
+|---|---|
+
+### Članak 3.
+
+Članak 14. mijenja se i glasi:
+
+»Posebni nazivi radnih mjesta u Ministarstvu financija i koeficijenti složenosti poslova su:
+
+*a) Položaji I. vrste*
+
+| 1. predstojnik Financijskog inspektorata |  |
+|---|---|
+| predstojnik Ureda za sprječavanje pranja novca | 3,395 |
+| 2. pomoćnik predstojnika Ureda za sprječavanje pranja novca | 2,900 |
+
+Stručni uvjeti za točke 1. – 2.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje šest godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.
+
+| 3. voditelj Službe u Uredu za sprječavanje pranja novca | 2,600 |
+|---|---|
+| 4. voditelj Službe u Financijskom inspektoratu | 2,425 |
+
+Stručni uvjeti za točke 3. – 4.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.
+
+| 5. voditelj Službe za nadzor ovlaštenih revizora i revizorskih društava u Samostalnom sektoru za izdavanje odobrenja za rad i nadzor ovlaštenih revizora i revizorskih društava | 2,425 |
+|---|---|
+
+Stručni uvjeti za točku 5.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, položen revizorski ispit, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.
+
+| 6. voditelj Odjela u Uredu za sprječavanje pranja novca | 2,200 |
+|---|---|
+| 7. voditelj Odjela u Financijskom inspektoratu | 1,919 |
+
+Stručni uvjeti za točke 6. – 7.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.
+
+*b) Radna mjesta I. vrste*
+
+| 1. viši analitičar specijalist u Uredu za sprječavanje pranja novca | 2,200 |
+|---|---|
+
+Stručni uvjeti za točku 1.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.
+
+| 2. viši inspektor – specijalist u Financijskom inspektoratu | 2,134 |
+|---|---|
+
+Stručni uvjeti za točku 2.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, istaknuti rezultati u području od značaja za rad državnog tijela, prethodno odobrenje središnjeg tijela državne uprave nadležnog za službeničke odnose, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.
+
+| 3. viši inspektor u Samostalnom sektoru za izdavanje odobrenja za rad i nadzor ovlaštenih revizora i revizorskih društava | 2,134 |
+|---|---|
+
+Stručni uvjeti za točku 3.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, položen revizorski ispit, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+| 4. viši analitičar u Uredu za sprječavanje pranja novca | 2,000 |
+|---|---|
+| 5. viši inspektor u Financijskom inspektoratu | 1,843 |
+
+Stručni uvjeti za točke 4. – 5.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.
+
+| 6. koordinator za razvoj sustava unutarnjih kontrola | 1,843 |
+|---|---|
+
+Stručni uvjeti za točku 6.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+| 7. viši informatički savjetnik u Uredu za sprječavanje pranja novca | 1,800 |
+|---|---|
+
+Stručni uvjeti za točku 7.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.
+
+| 8. analitičar u Uredu za sprječavanje pranja novca | 1,650 |
+|---|---|
+| 9. inspektor u Financijskom inspektoratu | 1,503 |
+
+Stručni uvjeti za točke 8. – 9.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje dvije godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.
+
+| 10. inspektor – suradnik u Financijskom inspektoratu | 1,261 |
+|---|---|
+| 11. stručni suradnik u Uredu za sprječavanje pranja novca | 1,250 |
+
+Stručni uvjeti za točke 10. – 11.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+### Članak 4.
+
+U članku 21. podstavku a) Položaji I. vrste, točki 2. riječi: »Kaznionice i zatvora u Požegi« zamjenjuju se riječima: »Kaznionice u Požegi«.
+
+U točki 3. riječi: »Kaznionice i zatvora u Šibeniku« zamjenjuju se riječima: »Zatvora u Šibeniku«.
+
+U točki 4. iza riječi: »Zatvora u Zadru« dodaje zarez i riječi: »Zatvora u Požegi«.
+
+U točki 5. riječi: »Kaznionice i zatvora u Požegi« zamjenjuju se riječima: »Kaznionice u Požegi«.
+
+U točki 6. riječi: »Kaznionice i zatvora u Šibeniku« zamjenjuju se riječima: »Zatvora u Šibeniku«.
+
+### Članak 5.
+
+Iza članka 22.i dodaje se članak 22.j koji glasi:
+
+»Članak 22.j
+
+Posebni nazivi radnih mjesta u Središnjem državnom uredu za razvoj digitalnog društva i koeficijenti složenosti poslova su:
+
+*a) Položaji I. vrste*
+
+| načelnik Sektora za razvoj digitalnog društva | 3,298 |
+|---|---|
+
+Stručni uvjeti: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz područja tehničkih znanosti – polja elektrotehnika, računarstvo, tehnologija prometa i transport ili iz područja društvenih znanosti – polja informacijske i komunikacijske znanosti, najmanje pet godina radnog iskustva na odgovarajućim poslovima.
+
+*b) Radna mjesta I. vrste*
+
+| 1. sektorski koordinator za razvoj digitalnog društva | 3,007 |
+|---|---|
+
+Stručni uvjeti za točku 1.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz područja tehničkih znanosti – polja elektrotehnika, računarstvo, tehnologija prometa i transport ili iz područja društvenih znanosti – polja informacijske i komunikacijske znanosti, najmanje četiri godine radnog iskustva na odgovarajućim poslovima.
+
+| 2. savjetnik za razvoj digitalnog društva | 2,600 |
+|---|---|
+
+Stručni uvjeti za točku 2.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz područja tehničkih znanosti – polja elektrotehnika, računarstvo, tehnologija prometa i transport ili iz područja društvenih znanosti – polja informacijske i komunikacijske znanosti, najmanje četiri godine radnog iskustva na odgovarajućim poslovima.«.
+
+### Članak 6.
+
+U članku 24. stavku 1. podstavku b) Radna mjesta I. vrste, točka 1. mijenja se i glasi:
+
+| »1. Viši državni upravni inspektor – specijalist | 2,134 |
+|---|---|
+
+Stručni uvjeti za točku 1.: magistar prava, ostali uvjeti prema posebnom zakonu.«.
+
+Dosadašnja točka 1. postaje točka 2., mijenja se i glasi:
+
+| »2. Viši državni upravni inspektor | 1,843 |
+|---|---|
+
+Stručni uvjeti za točku 2.: magistar prava, ostali uvjeti prema posebnom zakonu.«.
+
+Dosadašnja točka 2. postaje točka 3.
+
+Dosadašnja točka 3. koja postaje točka 4., mijenja se i glasi:
+
+| »4. državni upravni inspektor | 1,552 |
+|---|---|
+
+Stručni uvjeti za točku 4: magistar prava, ostali uvjeti prema posebnom zakonu.«.
+
+Dosadašnje točke 4. – 5. postaju točke 5. – 6.
+
+### Članak 7.
+
+U članku 26. podstavku c) Radna mjesta I. vrste točka 1. mijenja se i glasi:
+
+| »1. Viši upravni inspektor ureda | 1,843 |
+|---|---|
+
+Stručni uvjeti za točku 1.: magistar prava, ostali uvjeti prema posebnom zakonu.«.
+
+Iza točke 1. dodaje se nova točka 2. koja glasi:
+
+| »2. upravni inspektor ureda | 1,552 |
+|---|---|
+
+Stručni uvjeti za točku 2.: magistar prava, ostali uvjeti prema posebnom zakonu.«.
+
+Dosadašnja točka 2. postaje točka 3.
+
+### Članak 8.
+
+Iza članka 26.b dodaje se članak 26.c koji glasi:
+
+»Članak 26.c
+
+(1) Službenici koji rade na projektu (članovi projektnog tima) koji se financira iz fondova i programa Europske unije, financijskog mehanizma Europskog gospodarskog prostora 2014 – 2021 i Norveškog financijskog mehanizma 2014 – 2021, ukoliko se plaća službenika financira iz projekta, imaju za vrijeme trajanja projekta pravo na uvećanje koeficijenta složenosti poslova radnog mjesta do 30%.
+
+(2) Postotak uvećanja koeficijenta složenosti poslova iz stavka 1. ovog članka određuje čelnik tijela na prijedlog nositelja projekta.
+
+(3) Pravo na uvećanje koeficijenata složenosti poslova iz stavka 1. ovoga članka nemaju službenici iz članka 26.a ove Uredbe.«.
+
+### Članak 9.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-03/54  
+Urbroj: 50301-25/06-18-4  
+Zagreb, 2. kolovoza 2018.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (NN 73/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/73/1567*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 109. Zakona o državnim službenicima i namještenicima (»Narodne novine», broj 27/01), a u vezi s člankom 144. stavkom 2. točkom a) Zakona o državnim službenicima (»Narodne novine», br. 92/05, 107/07, 27/08, 34/11, 49/11, 150/11, 34/12, 49/12 – pročišćeni tekst, 37/13, 38/13, 1/15, 138/15 – Odluka Ustavnog suda Republike Hrvatske, 61/17 i 70/19), Vlada Republike Hrvatske je na sjednici održanoj 1. kolovoza 2019. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O NAZIVIMA RADNIH MJESTA I KOEFICIJENTIMA SLOŽENOSTI POSLOVA U DRŽAVNOJ SLUŽBI**
+
+### Članak 1.
+
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (»Narodne novine», br. 37/01, 38/01 – ispravak, 71/01, 89/01, 112/01, 7/02 – ispravak, 17/03, 197/03, 21/04, 25/04 – ispravak, 66/05, 131/05, 11/07, 47/07, 109/07, 58/08, 32/09, 140/09, 21/10, 38/10, 77/10, 113/10, 22/11, 142/11, 31/12, 49/12, 60/12, 78/12, 82/12, 100/12, 124/12, 140/12, 16/13, 25/13, 52/13, 96/13, 126/13, 2/14, 94/14, 140/14, 151/14, 76/15, 100/15 i 71/18), u članku 6. podstavak d) mijenja se i glasi:
+
+»d) Radna mjesta III. vrste
+
+1. administrativni tajnik u Uredu predsjednika, potpredsjednika, Tajništvu i Uredu za međunarodne i europske poslove Hrvatskoga sabora
+
+administrativni tajnik kluba s više od 10 zastupnika
+
+stručni referent za poslove održavanja dvorana
+
+stručni referent – informatički referent
+
+stražar 1,067
+
+2. administrativni tajnik kluba s manje od 10 zastupnika
+
+stručni referent u Stručnoj službi Hrvatskoga sabora 1,018
+
+Stručni uvjeti za točke 1. – 2.:
+
+kao za stručnog referenta, administrativnog referenta ili administrativnog tajnika, ostali uvjeti prema općem aktu.».
+
+Iza podstavka d) Radna mjesta III. vrste dodaje se podstavak e), koji glasi:
+
+»e) Radna mjesta III. vrste (namještenici)
+
+1. radna mjesta namještenika III. vrste  
+u Stručnoj službi Hrvatskoga sabora 0,873
+
+Stručni uvjeti za točku 1.: SSS, ostali uvjeti prema općem aktu.».
+
+### Članak 2.
+
+U članku 7., podstavku a) Položaji I. vrste, točka 5. mijenja se i glasi:
+
+»5. zamjenik ravnatelja Ureda za zakonodavstvo 3,395».
+
+Iza točke 7. dodaje se nova točka 8. koja glasi:
+
+»8. voditelj odjela u Uredu predsjednika Vlade 2,619».
+
+Dosadašnje točke 8. i 9. postaju točke 9. i 10.
+
+U stručnim uvjetima iza dosadašnje točke 9. koja postaje točka 10., brojevi: »1. – 9.» zamjenjuju se brojevima: »1. – 10.».
+
+U podstavku b) Radna mjesta I. vrste, točki 3. iza radnog mjesta: »viši savjetnik u Uredu predsjednika Vlade» dodaje se radno mjesto:
+
+»viši savjetnik u Glavnom tajništvu Vlade».
+
+### Članak 3.
+
+U članku 9., podstavku a) Položaji I. vrste, točka 1. mijenja se i glasi:
+
+»1. ravnatelj sudske uprave u Vrhovnom sudu RH 3,395».
+
+Točke 4. i 5. brišu se.
+
+U stručnim uvjetima iza dosadašnje točke 5., broj: »5.» zamjenjuje se brojem: »3».
+
+U podstavku b) Položaji II. vrste, točke 3. i 4. mijenjaju se i glase:
+
+»3. upravitelj zajedničke sudske pisarnice ili pisarnice sudske uprave u sudovima
+
+a) preko 100 sudaca i u Vrhovnom sudu RH 1,200
+
+b) od 51 do 100 sudaca 1,200
+
+c) od 31 do 50 sudaca 1,163
+
+d) od 11 do 30 sudaca 1,110
+
+e) do 10 sudaca 1,078
+
+4. voditelj posebne sudske pisarnice (kaznene, parnične ili neke druge) u sudovima
+
+a) preko 50 sudaca sudskog odjela i u  
+Vrhovnom sudu RH 1,200
+
+b) od 31 do 50 sudaca sudskog odjela 1,163
+
+c) od 11 do 30 sudaca sudskog odjela 1,110
+
+d) do 10 sudaca sudskog odjela 1,078».
+
+U podstavku c) Položaji III. vrste, točke 3. i 4. mijenjaju se i glase:
+
+»3. upravitelj zajedničke sudske pisarnice ili pisarnice sudske uprave u sudovima
+
+a) preko 100 sudaca i u Vrhovnom sudu RH 1,100
+
+b) od 51 do 100 sudaca 1,100
+
+c) od 31 do 50 sudaca 1,057
+
+d) od 11 do 30 sudaca 1,004
+
+e) do 10 sudaca 0,972
+
+4. voditelj posebne sudske pisarnice (kaznene, parnične ili neke druge) u sudovima
+
+a) preko 50 sudaca sudskog odjela i  
+u Vrhovnom sudu RH 1,100
+
+b) od 31 do 50 sudaca sudskog odjela 1,057
+
+c) od 11 do 30 sudaca sudskog odjela 1,004
+
+d) do 10 sudaca sudskog odjela 0,972».
+
+U podstavku d) Radna mjesta I. vrste mijenjaju se i glase:
+
+»1. viši sudski savjetnik – specijalist u  
+Vrhovnom sudu RH 3,500
+
+2. viši sudski savjetnik u Vrhovnom sudu RH 2,910
+
+3. viši sudski savjetnik – specijalist u Visokom  
+upravnom sudu RH, Visokom trgovačkom  
+sudu RH, Visokom prekršajnom sudu RH,  
+Visokom kaznenom sudu RH 2,666
+
+4. sudski savjetnik u Vrhovnom sudu RH 2,425
+
+5. viši sudski savjetnik – specijalist u općinskim,  
+upravnim, trgovačkim i županijskim sudovima 2,252
+
+6. viši sudski savjetnik u Visokom upravnom  
+sudu RH, Visokom trgovačkom sudu RH,  
+Visokom prekršajnom sudu RH, Visokom  
+kaznenom sudu RH 2,182
+
+7. sudski savjetnik u Visokom upravnom  
+sudu RH, Visokom trgovačkom sudu RH,  
+Visokom prekršajnom sudu RH, Visokom  
+kaznenom sudu RH 1,940
+
+8. viši sudski savjetnik u općinskim, upravnim,  
+trgovačkim i županijskim sudovima 1,843
+
+9. sudski savjetnik u općinskim, upravnim,  
+trgovačkim i županijskim sudovima 1,552
+
+Stručni uvjeti za točke 1. – 9.: VSS, ostali uvjeti prema posebnim propisima.».
+
+U podstavku f) Radna mjesta III. vrste, Opći i administrativni poslovi, točke 2. – 4. mijenjaju se i glase:
+
+»2. administrativni referent – sudski zapisničar 0,920
+
+3. administrativni referent – upisničar 0,898
+
+4. sudski zapisničar 0,867».
+
+### Članak 4.
+
+U članku 10., podstavku a) Položaji I. vrste, točke 1. i 2. mijenjaju se i glase:
+
+»1. ravnatelj državnoodvjetničke uprave u  
+Državnom odvjetništvu Republike Hrvatske 3,395
+
+2. ravnatelj državnoodvjetničke uprave 3,007».
+
+Podstavci b) i c) mijenjaju se i glase:
+
+»b) Položaji II. vrste
+
+1. voditelj državnoodvjetničke pisarnice ili pisarnice državnoodvjetničke uprave u državnom odvjetništvu
+
+a) preko 50 dužnosnika i u Državnom odvjetništvu RH 1,200
+
+b) od 36 do 50 dužnosnika 1,200
+
+c) od 26 do 35 dužnosnika 1,163
+
+d) od 11 do 25 dužnosnika 1,110
+
+e) do 10 dužnosnika 1,078
+
+Stručni uvjeti: VŠS, ostali uvjeti prema posebnim propisima.
+
+c) Položaji III. vrste
+
+1. voditelj državnoodvjetničke pisarnice ili pisarnice državnoodvjetničke uprave u državnom odvjetništvu
+
+a) preko 50 dužnosnika i u Državnom  
+odvjetništvu RH 1,100
+
+b) od 36 do 50 dužnosnika 1,100
+
+c) od 26 do 35 dužnosnika 1,057
+
+d) od 11 do 25 dužnosnika 1,004
+
+e) do 10 dužnosnika 0,972
+
+Stručni uvjeti: SSS, ostali uvjeti prema posebnim propisima.».
+
+U podstavku d), Radna mjesta I. vrste mijenjaju se i glase:
+
+»1. viši državnoodvjetnički savjetnik – specijalist  
+u Državnom odvjetništvu RH 3,500
+
+2. viši državnoodvjetnički savjetnik u Državnom  
+odvjetništvu RH 2,910
+
+3. državnoodvjetnički savjetnik u Državnom  
+odvjetništvu RH 2,425
+
+4. viši državnoodvjetnički savjetnik – specijalist  
+u županijskom i općinskom državnom odvjetništvu  
+viši savjetnik – specijalist u USKOK-u 2,252
+
+5. viši državnoodvjetnički savjetnik u županijskom državnom odvjetništvu  
+viši savjetnik u USKOK-u 1,843
+
+6. državnoodvjetnički savjetnik u županijskom i općinskom državnom odvjetništvu  
+savjetnik u USKOK-u 1,552
+
+Stručni uvjeti za točke 1. – 6.: VSS, ostali uvjeti prema posebnim propisima.».
+
+U podstavku d), Radna mjesta I. vrste, Opći i administrativni poslovi mijenjaju se i glase:
+
+»1. administrativni referent – državnoodvjetnički  
+zapisničar 0,920
+
+2. administrativni referent – upisničar 0,898
+
+3. državnoodvjetnički zapisničar 0,867.
+
+Stručni uvjeti za točke 1. – 3. SSS, ostali uvjeti prema posebnim propisima.».
+
+### Članak 5.
+
+U članku 14. podstavku a) Položaji I. vrste, točki 4. iza radnog mjesta: »voditelj Službe u Financijskom inspektoratu» dodaje se radno mjesto:
+
+»voditelj Službe u Sektoru za financijski i proračunski nadzor».
+
+U točki 7. iza radnog mjesta: »voditelj Odjela u Financijskom inspektoratu» dodaje se radno mjesto:
+
+»voditelj Odjela u Sektoru za financijski i proračunski nadzor».
+
+Iza podstavka a) Položaji I. vrste dodaje se novi podstavak b) koji glasi:
+
+»b) Položaji III. vrste
+
+1. voditelj Pododsjeka Pisarnice u Ministarstvu financija 1,100
+
+Stručni uvjeti za točku 1.: srednja stručna sprema, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.».
+
+Dosadašnji podstavak b) postaje podstavak c).
+
+U dosadašnjem podstavku b) Radna mjesta I. vrste koji postaje podstavak c), točki 5. iza radnog mjesta: »viši inspektor u Financijskom inspektoratu» dodaje se radno mjesto:
+
+»viši inspektor koordinator financijskog i proračunskog nadzora».
+
+Iza točke 7. dodaje se nova točka 8. i stručni uvjeti koji glase:
+
+»8. viši inspektor financijskog i proračunskog nadzora 1,697
+
+Stručni uvjeti za točku 8.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.».
+
+Dosadašnje točke 8. i 9. postaju točke 9. i 10.
+
+U dosadašnjoj točki 9. koja postaje točka 10. iza radnog mjesta: »inspektor u Financijskom inspektoratu» dodaje se radno mjesto:
+
+»inspektor financijskog i proračunskog nadzora».
+
+U stručnim uvjetima iza dosadašnje točke 9. koja postaje točka 10., brojevi: »8. – 9.» zamjenjuju se brojevima: »9. – 10.».
+
+Dosadašnje točke 10. i 11. postaju točke 11. i 12.
+
+U stručnim uvjetima iza dosadašnje točke 11. koja postaje točka 12., brojevi: »10. – 11.» zamjenjuju se brojevima: »11. – 12.».
+
+Iza dosadašnjeg podstavka b) Radna mjesta I. vrste koji postaje podstavak c) dodaju se podstavci d) i e) koji glase:
+
+»d) Radna mjesta II. vrste
+
+1. inspektor financijskog i proračunskog  
+nadzora II. vrste 1,164
+
+Stručni uvjeti za točku 1.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima i pravilniku o unutarnjem redu.
+
+2. viši referent za stručno-administrativne poslove  
+u Ministarstvu financija 1,145
+
+Stručni uvjeti za točku 2.: završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+e) Radna mjesta III. vrste
+
+1. referent za stručno-administrativne poslove u  
+Ministarstvu financija 1,038
+
+Stručni uvjeti za točku 1.: srednja stručna sprema, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.».
+
+### Članak 6.
+
+Članak 16. mijenja se i glasi:
+
+»Posebni nazivi radnih mjesta u Ministarstvu unutarnjih poslova i koeficijenti složenosti poslova su:
+
+a) Položaji I. vrste
+
+1. koordinator za poslove civilne zaštite 3,300
+
+2. pročelnik Područnog ureda civilne zaštite Zagreb, Split, Rijeka, Osijek, Varaždin
+
+načelnik Ureda Ravnateljstva civilne zaštite
+
+načelnik Operativnog centra civilne zaštite 3,007
+
+3. voditelj službe u sjedištu Ministarstva 2,231
+
+4. načelnik sektora u policijskoj upravi
+
+voditelj Županijskog centra 112 Zagreb, Split, Rijeka, Osijek, Varaždin
+
+voditelj Inspekcije
+
+voditelj Ispostave
+
+voditelj Regionalnog centra
+
+voditelj službe u Ravnateljstvu civilne zaštite 2,134
+
+5. voditelj službe u policijskoj upravi
+
+voditelj odjela u sjedištu ministarstva 1,940
+
+6. voditelj Uslužne jedinice Valbandon
+
+voditelj Županijskog centra 112 Bjelovar, Čakovec, Dubrovnik, Gospić, Karlovac, Koprivnica, Krapina, Pazin, Požega, Sisak, Slavonski Brod, Šibenik, Virovitica, Vukovar, Zadar
+
+voditelj odjela u Ravnateljstvu civilne zaštite 1,746
+
+7. voditelj odjela u policijskoj upravi 1,697
+
+Stručni uvjeti za točke 1. – 7.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima.
+
+b) Položaji II. vrste
+
+1. viši policijski tehničar – voditelj 1,164
+
+Stručni uvjeti za točku 1.: VŠS, ostali uvjeti prema posebnim propisima.
+
+c) Radna mjesta I. vrste
+
+1. pirotehnički nadzornik – koordinator nadzora poslova razminiranja
+
+interni nadzornik 1,940
+
+2. projektant policijske tehnike
+
+voditelj poslova ekonomata u policijskoj upravi II. kategorije
+
+nadzornik za unutarnje poslove
+
+viši ekspert
+
+samostalni nadzornik
+
+voditelj dežurne smjene Operativnog centra  
+civilne zaštite 1,697
+
+3. ekspert 1,523
+
+Stručni uvjeti za točke 1. – 3.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima.
+
+4. niži ekspert 1,164
+
+Stručni uvjeti za točku 4.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima.
+
+d) Radna mjesta II. vrste
+
+1. viši stručni referent elektroinstrumentacije
+
+viši stručni referent elektroenergetike
+
+viši stručni referent laboratorijskih ispitivanja
+
+pirotehnički nadzornik – kontrolor kvalitete
+
+viši operater – analitičar
+
+nadzornik
+
+viši tehničar civilne zaštite
+
+viši voditelj dežurne smjene u Županijskom centru 112 1,164
+
+2. viši policijski tehničar
+
+voditelj poslova pisarnice
+
+voditelj uslužnih poslova
+
+voditelj financijskih poslova 1,115
+
+3. voditelj poslova ekonomata u policijskoj  
+upravi III. i IV. kategorije 1,067
+
+Stručni uvjeti za točke 1. – 3.: završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine i najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima.
+
+e) Radna mjesta III. vrste
+
+1. stručni tehničar
+
+operater analitičar
+
+voditelj dežurne smjene u Županijskom centru 112 1,067
+
+2. pirotehničar 1,018
+
+3. policijski tehničar
+
+tehničar civilne zaštite
+
+instruktor civilne zaštite
+
+ispitivač tehnike
+
+niži nadzornik 0,970
+
+Stručni uvjeti za točke 1. – 3.: srednja stručna sprema, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima.».
+
+### Članak 7.
+
+U članku 19. podstavku a) Položaji I. vrste, točki 1. iza radnog mjesta: »lučki kapetan (Rijeka, Split)» dodaju se radna mjesta:
+
+»voditelj Službe inspekcije cestovnog prijevoza
+
+voditelj Službe inspekcije sigurnosti cesta i žičara».
+
+Iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»voditelj odjela u inspekciji cestovnog prijevoza
+
+voditelj odjela u inspekciji sigurnosti cesta i žičara 1,988».
+
+Dosadašnja točka 3. postaje točka 4.
+
+Iza dosadašnje točke 3. koja postaje točka 4. dodaje se nova točka 5. koja glasi:
+
+»5. glavni nadzorni inženjer 1,794».
+
+Dosadašnja točka 4. postaje točka 6.
+
+U stručnim uvjetima iza dosadašnje točke 4., koja postaje točka 6., broj: »4» zamjenjuje se brojem: »6».
+
+U podstavku d) Radna mjesta I. vrste, točki 1. iza radnog mjesta: »viši kontrolor plovidbenosti zrakoplova (savjetnik, inspektor)» dodaju se radna mjesta koja glase:
+
+»viši inspektor cestovnog prometa
+
+viši inspektor cesta
+
+viši inspektor za žičare».
+
+U podstavku f), Radna mjesta III. vrste mijenjaju se i glase:
+
+1. zrakoplovno-tehnički specijalist III. vrste
+
+koordinator certifikacijskog sustava STCW
+
+koordinator certifikacijskog ADN sustava
+
+strojar unutarnje plovidbe 1,018
+
+2. nadzornik plovnog puta 0,970
+
+3. zapovjednik broda za obilježavanje 0,921
+
+4. nautičar III. vrste
+
+voditelj brodice
+
+pomorski strojar 0,892
+
+5. vođa palube 0,873
+
+6. mornar na brodu 0,854
+
+7. pomoćnik na obilježavanju plovnog puta 0,824
+
+Stručni uvjeti za točke 1. – 7.: kao za upravnog referenta, stručnog referenta ili informatičkog referenta, ostali uvjeti prema posebnim propisima.».
+
+### Članak 8.
+
+U članku 22.i, podstavku a) Položaji I. vrste, točka 2. mijenja se i glasi:
+
+»2. tajnik Državne komisije za kontrolu  
+postupaka javne nabave 3,007
+
+Stručni uvjeti za točku 2: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje sedam godina radnog iskustva na odgovarajućim poslovima, od čega najmanje tri godine u području javne nabave, položen pravosudni ispit, ostali uvjeti prema pravilniku o unutarnjem redu.».
+
+### Članak 9.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama».
+
+Klasa: 022-03/19-03/44  
+Urbroj: 50301-25/06-19-7  
+Zagreb, 1. kolovoza 2019.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (NN 63/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/63/1213*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 109. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/01.), a u vezi s člankom 144. stavkom 2. točkom a) Zakona o državnim službenicima (»Narodne novine«, br. 92/05., 107/07., 27/08., 34/11., 49/11., 150/11., 34/12., 49/12. – pročišćeni tekst, 37/13., 38/13., 138/15. – Odluka Ustavnog suda Republike Hrvatske, 61/17., 70/19. i 98/19.), Vlada Republike Hrvatske je na sjednici održanoj 2. lipnja 2021. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O NAZIVIMA RADNIH MJESTA I KOEFICIJENTIMA SLOŽENOSTI POSLOVA U DRŽAVNOJ SLUŽBI**
+
+### Članak 1.
+
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (»Narodne novine«, br. 37/01., 38/01. – ispravak, 71/01., 89/01., 112/01., 7/02. – ispravak, 17/03., 197/03., 21/04., 25/04. – ispravak, 66/05., 131/05., 11/07., 47/07., 109/07., 58/08., 32/09., 140/09., 21/10., 38/10., 77/10., 113/10., 22/11., 142/11., 31/12., 49/12., 60/12., 78/12., 82/12., 100/12., 124/12., 140/12., 16/13., 25/13., 52/13., 96/13., 126/13., 2/14., 94/14., 140/14., 151/14., 76/15., 100/15., 71/18. i 73/19.), u članku 7.d stavku 1. podstavku a) Položaji I. vrste, u točki 1. iza radnog mjesta »voditelj Odjela održavanja zrakoplova i kontinuirane plovidbenosti« dodaje se radno mjesto koje glasi:
+
+»voditelj Odjela zemaljskih operacija, navigacije i administrativnih poslova«.
+
+U podstavku b) Položaji II. vrste, riječi: »voditelj Odjela zemaljskih operacija, navigacije i administrativnih poslova« brišu se.
+
+### Članak 2.
+
+U članku 10. stavku 1. podstavku d) Radna mjesta I. vrste, Poslovi posebnih stručnih znanja, točka 1. mijenja se i glasi:
+
+| »1. financijski istražitelj u državnom odvjetništvu | 2,910«. |
+|---|---|
+
+### Članak 3.
+
+U članku 12., iza podstavka a) Radna mjesta I. vrste, dodaje se podstavak b) koji glasi:
+
+»b) Radna mjesta III. vrste
+
+| 1. administrativni tajnik pravobranitelja | 1,067 |
+|---|---|
+
+Stručni uvjeti za točku 1.: srednja stručna sprema, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema općem aktu.«.
+
+### Članak 4.
+
+U članku 21. stavku 1. podstavku f) Radna mjesta III. vrste, dodaje se nova točka 1. koja glasi:
+
+| »1. pravosudni policajac – vozač pratitelj | 1,067«. |
+|---|---|
+
+Dosadašnje točke 1. – 7. postaju točke 2. – 8.
+
+U Stručnim uvjetima iza dosadašnje točke 7. koja postaje točka 8., broj: »7.« zamjenjuje se brojem: »8.«.
+
+### Članak 5.
+
+Članak 25.a mijenja se i glasi:
+
+»Posebni nazivi radnih mjesta u Hrvatskoj vatrogasnoj zajednici i koeficijenti složenosti poslova su:
+
+a) Položaji I. vrste
+
+| 1. zamjenik glavnog vatrogasnog zapovjednika Republike Hrvatske | 3,500 |
+|---|---|
+
+Stručni uvjeti za točku 1.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili završeni preddiplomski stručni i specijalistički diplomski stručni studij, najmanje deset godina iskustva na poslovima vatrogasca s posebnim ovlastima i odgovornostima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+| 2. glavni tajnik Hrvatske vatrogasne zajednice | 3,470 |
+|---|---|
+
+Stručni uvjeti za točku 2.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+| 3. pomoćnik glavnog vatrogasnog zapovjednika Republike Hrvatske | 3,395 |
+|---|---|
+
+Stručni uvjeti za točku 3.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili završeni preddiplomski stručni i specijalistički diplomski stručni studij, najmanje deset godina iskustva na poslovima vatrogasca s posebnim ovlastima i odgovornostima na državnoj ili županijskoj razini, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+| 4. glavni vatrogasni inspektor | 3,007 |
+|---|---|
+
+Stručni uvjeti za točku 4.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+| 5. zapovjednik intervencijske vatrogasne postrojbe | 2,200 |
+|---|---|
+
+Stručni uvjeti za točku 5.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili završeni preddiplomski stručni i specijalistički diplomski stručni studij, najmanje pet godina iskustva na poslovima vatrogasca s posebnim ovlastima i odgovornostima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+| 6. voditelj službe vatrogasnog operativnog dežurstva | 2,200 |
+|---|---|
+
+Stručni uvjeti za točku 6.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+b) Radna mjesta I. vrste
+
+| 1. zamjenik zapovjednika intervencijske vatrogasne postrojbe | 1,746 |
+|---|---|
+
+Stručni uvjeti za točku 1.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili završeni preddiplomski stručni i specijalistički diplomski stručni studij, najmanje pet godina iskustva na poslovima vatrogasca s posebnim ovlastima i odgovornostima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+2. samostalni nadzornik
+
+viši inspektor vatrogastva
+
+viši vatrogasni instruktor
+
+| voditelj smjene Državnog vatrogasnog operativnog centra 193 | 1,697 |
+|---|---|
+
+Stručni uvjeti za točku 2.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+3. inspektor vatrogastva
+
+| vatrogasni instruktor | 1,503 |
+|---|---|
+| 4. nadzornik | 1,329 |
+
+Stručni uvjeti za točke 3. i 4.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje tri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+c) Radna mjesta II. vrste
+
+| 1. viši vatrogasni operater – analitičar vatrogasnog operativnog dežurstva |  |
+|---|---|
+| viši operater – analitičar |  |
+| zapovjednik vatrogasne desetine – instruktor II. vrste u intervencijskoj vatrogasnoj postrojbi |  |
+| nadzornik II. vrste | 1,164 |
+
+Stručni uvjeti za točku 1.: preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+d) Radna mjesta III. vrste
+
+| 1. vatrogasni operater – analitičar vatrogasnog operativnog dežurstva |  |
+|---|---|
+| operater – analitičar |  |
+| zapovjednik vatrogasne desetine – instruktor III. vrste u intervencijskoj vatrogasnoj postrojbi | 1,067 |
+| 2. voditelj vatrogasne skupine – instruktor III. vrste – vozač u intervencijskoj vatrogasnoj postrojbi |  |
+| voditelj vatrogasne skupine – instruktor III. vrste u intervencijskoj |  |
+| vatrogasnoj postrojbi | 1,028 |
+| 3. vatrogasac – vozač u intervencijskoj vatrogasnoj postrojbi | 0,999 |
+| 4. vatrogasac u intervencijskoj vatrogasnoj postrojbi |  |
+| vatrogasac – logističar |  |
+| nadzornik III. vrste | 0,970 |
+
+Stručni uvjeti za točke 1. – 4.: srednja stručna sprema, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+### Članak 6.
+
+Članak 26. briše se.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-03/15  
+Urbroj: 50301-21/06-21-2  
+Zagreb, 2. lipnja 2021.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (NN 13/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/13/129*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 109. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/01.), a u vezi s člankom 144. stavkom 2. točkom a) Zakona o državnim službenicima (»Narodne novine«, br. 92/05., 107/07., 27/08., 34/11., 49/11., 150/11., 34/12., 49/12. – pročišćeni tekst, 37/13., 38/13., 138/15. – Odluka Ustavnog suda Republike Hrvatske, 61/17., 70/19. i 98/19.), Vlada Republike Hrvatske je na sjednici održanoj 27. siječnja 2022. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O NAZIVIMA RADNIH MJESTA I KOEFICIJENTIMA SLOŽENOSTI POSLOVA U DRŽAVNOJ SLUŽBI**
+
+### Članak 1.
+
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (»Narodne novine«, br. 37/01., 38/01. – ispravak, 71/01., 89/01., 112/01., 7/02. – ispravak, 17/03., 197/03., 21/04., 25/04. – ispravak, 66/05., 131/05., 11/07., 47/07., 109/07., 58/08., 32/09., 140/09., 21/10., 38/10., 77/10., 113/10., 22/11., 142/11., 31/12., 49/12., 60/12., 78/12., 82/12., 100/12., 124/12., 140/12., 16/13., 25/13., 52/13., 96/13., 126/13., 2/14., 94/14., 140/14., 151/14., 76/15., 100/15., 71/18., 73/19. i 63/21.), u članku 7. stavku 1. podstavku a) Položaji I. vrste, iza točke 5. dodaje se nova točka 6. koja glasi:
+
+»6. zamjenik ravnatelja Ureda za ljudska prava i prava nacionalnih manjina – 3,298«.
+
+Dosadašnje točke 6. – 9. postaju točke 7. – 10.
+
+U stručnim uvjetima iza dosadašnje točke 10., koja postaje točka 11., broj: »10« zamjenjuje se brojem: »11«.
+
+U podstavku e) Radna mjesta III. vrste, u stručnim uvjetima iza točke 6. broj: »7« zamjenjuje se brojem: »6«.
+
+U stručnim uvjetima iza točke 7. broj: »8« zamjenjuje se brojem »7«.
+
+Iza točke 7. dodaje se nova točka 8. koja glasi:
+
+»8. administrativni tajnik u Uredu za ljudska prava i prava nacionalnih manjina – 1,067
+
+Stručni uvjeti za točku 8.: kao za administrativnog tajnika, ostali uvjeti prema općem aktu.«.
+
+Iza dosadašnje točke 8., koja postaje točka 9., dodaje se točka 10. koja glasi:
+
+»10. stručni referent u Uredu za ljudska prava i prava nacionalnih manjina – 1,018
+
+Stručni uvjeti za točke 9. i 10.: kao za stručnog referenta, ostali uvjeti prema općem aktu.«.
+
+### Članak 2.
+
+U članku 7.b stavku 1., iza podstavka a) Položaji I. vrste, dodaju se podstavci b), c) i d) koji glase:
+
+*»b) Radna mjesta I. vrste*
+
+1. savjetnik u Stručnoj službi Savjeta za nacionalne manjine – 2,425
+
+Stručni uvjet za točku 1.: kao za višeg upravnog savjetnika, višeg stručnog savjetnika ili višeg informatičkog savjetnika, ostali uvjeti prema općem aktu.
+
+*c) Radna mjesta II. vrste*
+
+1. viši stručni referent u Stručnoj službi Savjeta za nacionalne manjine – 1,115
+
+Stručni uvjet za točku 1.: kao za višeg stručnog referenta, ostali uvjeti prema općem aktu.
+
+*d) Radna mjesta III. vrste*
+
+1. administrativni tajnik u Stručnoj službi Savjeta za nacionalne manjine – 1,067
+
+Stručni uvjet za točku 1.: kao za administrativnog tajnika, ostali uvjeti prema općem aktu.«.
+
+### Članak 3.
+
+U članku 9. stavku 1. podstavku d) Radna mjesta I. vrste, iza točke 7. dodaje se nova točka 8. koja glasi:
+
+»8. viši informatički savjetnik – specijalist za pravosudni informacijski sustav – 1,940
+
+Stručni uvjet za točku 8.: kao za višeg upravnog savjetnika, višeg stručnog savjetnika, višeg informatičkog savjetnika ili višeg inspektora, istaknuti rezultati u području od značaja za rad državnog tijela, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+Iza dosadašnje točke 8. koja postaje točka 9. dodaje se točka 10. koja glasi:
+
+»10. viši informatički savjetnik za pravosudni informacijski sustav – 1,697
+
+Stručni uvjeti za točku 10.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U dosadašnjoj točki 9. koja postaje točka 11. u stručnim uvjetima brojevi: »1. – 9.« zamjenjuju se brojevima: »1. – 7., 9. i 11.«.
+
+Iza dosadašnje točke 9. koja je postala točka 11. dodaju se točke 12. i 13. koje glase:
+
+»12. informatički savjetnik za pravosudni informacijski sustav – 1,358
+
+Stručni uvjet za točku 12.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje tri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+13. informatički suradnik za pravosudni informacijski sustav – 1,241
+
+Stručni uvjet za točku 13.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U podstavku e) Radna mjesta II. vrste, dodaju se nove točke 1. i 2. koje glase:
+
+»1. viši informatički tehničar za pravosudni informacijski sustav – 1,185
+
+2. viši informatički referent za pravosudni informacijski sustav – 1,180
+
+Stručni uvjet za točku 1. i 2: završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje 3 godine, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+Dosadašnje točke 1. i 2. postaju točke 3. i 4.
+
+U dosadašnjoj točki 3. koja postaje točka 5. u stručnim uvjetima brojevi: »1. – 3.« zamjenjuju se brojevima: »3. – 5.«.
+
+U podstavku f) Radna mjesta III. vrste, iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. informatički tehničar za pravosudni informacijski sustav – 0,990
+
+Stručni uvjet za točku 3.: SSS, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+Iza dosadašnje točke 3. koja postaje točka 4. dodaje se točka 5. koja glasi:
+
+»5. informatički referent za pravosudni informacijski sustav – 0,860
+
+Stručni uvjet za točku 5.: SSS, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U dosadašnjoj točki 4. koja postaje točka 6. u stručnim uvjetima brojevi: »1. – 4.« zamjenjuju se brojevima: »1., 2., 4. i 6.«.
+
+### Članak 4.
+
+U članku 10. stavku 1. podstavku d) Radna mjesta I. vrste, iza točke 4. dodaje se nova točka 5. koja glasi:
+
+»5. viši informatički savjetnik – specijalist za pravosudni informacijski sustav – 1,940
+
+Stručni uvjet za točku 5.: kao za višeg upravnog savjetnika, višeg stručnog savjetnika, višeg informatičkog savjetnika ili višeg inspektora, istaknuti rezultati u području od značaja za rad državnog tijela, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U dosadašnjoj točki 5. koja postaje točka 6. iza riječi: »županijskom« dodaju se riječi: »i općinskom«.
+
+Iza dosadašnje točke 5. koja postaje točka 6. dodaje se točka 7. koja glasi:
+
+»7. viši informatički savjetnik za pravosudni informacijski sustav – 1,697
+
+Stručni uvjeti za točku 7.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U dosadašnjoj točki 6. koja postaje točka 8. u stručnim uvjetima brojevi: »1. – 6.« zamjenjuju se brojevima: »1. – 4., 6. i 8.«.
+
+Iza dosadašnje točke 6. koja postaje točka 8. dodaju se točke 9. i 10. koje glase:
+
+»9. informatički savjetnik za pravosudni informacijski sustav – 1,358
+
+Stručni uvjet za točku 9.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje tri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+10. informatički suradnik za pravosudni informacijski sustav – 1,241
+
+Stručni uvjet za točku 10.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+Iza podstavka d) Radna mjesta I. vrste, dodaje se podstavak e) Radna mjesta II. vrste, koji glasi:
+
+*»e) Radna mjesta II. vrste*
+
+1. viši informatički tehničar za pravosudni informacijski sustav – 1,185
+
+2. viši informatički referent za pravosudni informacijski sustav – 1,180
+
+Stručni uvjet za točku 1. i 2: završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje 3 godine, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U Općim i administrativnim poslovima, dodaje se nova točka 1. koja glasi:
+
+»1. informatički tehničar za pravosudni informacijski sustav – 0,990
+
+Stručni uvjet za točku 1.: SSS, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+Dosadašnje točke 1. i 2. postaju točke 2. i 3.
+
+U dosadašnjoj točki 3. koja postaje točka 4. u stručnim uvjetima brojevi: »1. – 3.« zamjenjuju se brojevima: »2. – 4.«.
+
+Iza dosadašnje točke 3. koja postaje točka 4. dodaje se točka 5. koja glasi:
+
+»5. informatički referent za pravosudni informacijski sustav – 0,860«
+
+Stručni uvjet za točku 5.: SSS, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+### Članak 5.
+
+Iza članka 12.a dodaje se članak 12.b koji glasi:
+
+»Članak 12.b
+
+Posebni nazivi radnih mjesta i koeficijenti složenosti poslova u Agenciji za zaštitu osobnih podataka su:
+
+*a) Položaji I. vrste*
+
+1. voditelj službe u Agenciji za zaštitu osobnih podataka – 2,600
+
+2. tajnik kabineta ravnatelja Agencije za zaštitu osobnih podataka – 2,134
+
+Stručni uvjeti za točke 1. i 2.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+*b) Radna mjesta I. vrste*
+
+1. viši savjetnik – specijalist u Agenciji za zaštitu osobnih podataka – 2,330
+
+2. viši stručni savjetnik u Agenciji za zaštitu osobnih podataka – 1,978
+
+3. stručni savjetnik u Agenciji za zaštitu osobnih podataka – 1,600
+
+4. stručni suradnik u Agenciji za zaštitu osobnih podataka – 1,455
+
+Stručni uvjeti za točku 1. i 2.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+Stručni uvjeti za točku 3.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje tri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+Stručni uvjeti za točku 4.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+*c) Radna mjesta III. vrste*
+
+1. administrativni tajnik ravnatelja Agencije za zaštitu osobnih podataka – 1,067
+
+Stručni uvjeti za točku 1.: srednja stručna sprema, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+### Članak 6.
+
+U članku 14. stavku 1. podstavku a) Položaji I. vrste, u točki 1., iza radnog mjesta »predstojnik Ureda za sprječavanje pranja novca« dodaje se radno mjesto koje glasi:
+
+»zamjenik glavnog državnog rizničara«.
+
+### Članak 7.
+
+U članku 16. stavku 1. podstavku a) Položaji I. vrste, u točki 3., iza radnog mjesta: »voditelj službe u sjedištu Ministarstva« dodaje se radno mjesto koje glasi: »voditelj Inspekcije«.
+
+U točki 4. riječi: »voditelj Inspekcije« brišu se.
+
+U podstavku c) Radna mjesta I. vrste, u točki 2., iza radnog mjesta »samostalni nadzornik« dodaje se radno mjesto koje glasi:
+
+»viši inspektor u Ravnateljstvu civilne zaštite«.
+
+Iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. inspektor u Ravnateljstvu civilne zaštite – 1,503
+
+Stručni uvjeti za točku 4.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje tri godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema posebnim propisima.«.
+
+U dosadašnjoj točki 4. koja postaje točka 5. u stručnim uvjetima broj: »4« zamjenjuje se brojem: »5«.
+
+### Članak 8.
+
+U članku 21. stavku 1. podstavku a) Položaji I. vrste, iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. voditelj odjela zdravstvene zaštite u Zatvorskoj bolnici u Zagrebu, voditelj odjela zdravstvene zaštite u kaznenim tijelima – 2,425
+
+Stručni uvjet za točku 4.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+Dosadašnje točke 4. i 5. postaju točke 5. i 6.
+
+U dosadašnjoj točki 6. koja postaje točka 7. u stručnim uvjetima brojevi: »1. – 6.« zamjenjuju se brojevima: »1., 2., 3., 5., 6. i 7.«
+
+Dosadašnje točke 7. i 8. brišu se.
+
+U dosadašnjoj točki 9. koja postaje točka 8. u stručnim uvjetima broj: »9« zamjenjuju se brojem: »8«.
+
+U dosadašnjoj točki 10. koja postaje točka 9. u stručnim uvjetima broj: »10« zamjenjuju se brojem: »9«.
+
+U dosadašnjoj točki 11. koja postaje točka 10. u stručnim uvjetima broj: »11« zamjenjuju se brojem: »10«.
+
+Dosadašnja točka 12. postaje točka 11.
+
+U dosadašnjoj točki 13. koja postaje točka 12. u stručnim uvjetima brojevi: »12. – 13.« zamjenjuju se brojevima: »11. – 12.«.
+
+U podstavku d) Radna mjesta I. vrste, dodaju se nove točke 1. – 4. koje glase:
+
+»1. doktor medicine specijalist (magistar znanosti) – 2,280
+
+Stručni uvjeti za točku 1.: završen diplomski sveučilišni studij i poslijediplomski specijalistički studij, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+2. doktor medicine specijalist – 2,240
+
+Stručni uvjeti za točku 2.: završen diplomski sveučilišni studij, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+3. doktor medicine – 2,134
+
+Stručni uvjeti za točku 3.: završen diplomski sveučilišni studij, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+4. doktor dentalne medicine specijalist – 2,040
+
+Stručni uvjeti za točku 4.: završen diplomski sveučilišni studij, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U dosadašnjoj točki 1. koja postaje točka 5. u stručnim uvjetima broj: »1« zamjenjuju se brojem: »5«.
+
+U dosadašnjoj točki 2. koja postaje točka 6. riječi: »doktor medicine specijalist, doktor dentalne medicine specijalist« brišu se, a u stručnim uvjetima broj: »2« zamjenjuju se brojem: »6«.
+
+Iza dosadašnje točke 2. koja je postala točka 6. dodaje se nova točka 7. koja glasi:
+
+»7. doktor dentalne medicine – 1,890
+
+Stručni uvjeti za točku 7.: završen diplomski sveučilišni studij, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U dosadašnjoj točki 3. koja postaje točka 8. riječi: »doktor medicine, doktor dentalne medicine« brišu se.
+
+U dosadašnjoj točki 4. koja postaje točka 9. u stručnim uvjetima brojevi: »3. – 4.« zamjenjuju se brojevima: »8. – 9«.
+
+U dosadašnjoj točki 5. koja postaje točka 10. u stručnim uvjetima broj: »5« zamjenjuje se brojem: »10«.
+
+Dosadašnje točke 6. i 7. postaju točke 11. i 12.
+
+U dosadašnjoj točki 8. koja postaje točka 13. u stručnim uvjetima brojevi: »6. – 8.« zamjenjuju se brojevima: »11. – 13.«.
+
+U dosadašnjoj točki 9. koja postaje točka 14. u stručnim uvjetima broj: »9« zamjenjuje se brojem: »14«.
+
+U dosadašnjoj točki 10. koja postaje točka 15. u stručnim uvjetima broj: »10« zamjenjuju se brojem: »15«.
+
+Dosadašnja točka 11. postaje točka 16.
+
+U dosadašnjoj točki 12. koja postaje točka 17. u stručnim uvjetima brojevi: »11. – 12.« zamjenjuju se brojevima: »16. – 17.«.
+
+Iza dosadašnje točke 12. koja je postala točka 17. dodaje se nova točka 18. koja glasi:
+
+»18. glavna sestra/tehničar u zatvorskoj bolnici – 1,510
+
+Stručni uvjeti za točku 18.: završen diplomski sveučilišni studij, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U dosadašnjoj točki 13. koja postaje točka 19. u stručnim uvjetima broj: »13« zamjenjuju se brojem: »19«.
+
+U dosadašnjoj točki 14. koja postaje točka 20. u stručnim uvjetima broj: »14« zamjenjuju se brojem: »20«.
+
+U dosadašnjoj točki 15. koja postaje točka 21. u stručnim uvjetima broj: »15« zamjenjuju se brojem: »21«.
+
+U podstavku e) Radna mjesta II. vrste, dodaje se nova točka 1. koja glasi:
+
+»1. viša medicinska sestra/tehničar – 1,200
+
+Stručni uvjeti za točku 1.: završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje 3 godine, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+Dosadašnje točke 1. – 6. postaju točke 2. – 7.
+
+U dosadašnjoj točki 7. koja postaje točka 8. riječi: »viši medicinski tehničar/sestra« brišu se.
+
+U dosadašnjoj točki 8. koja postaje točka 9. u stručnim uvjetima brojevi: »1. – 8.« zamjenjuju se brojevima: »2. – 9.«.
+
+U dosadašnjoj točki 9. koja postaje točka 10. u stručnim uvjetima broj: »9« zamjenjuju se brojem: »10«.
+
+U podstavku f) Radna mjesta III. vrste, dodaje nova točka 1. koja glasi:
+
+»1. medicinska sestra/tehničar – 1,100
+
+Stručni uvjeti za točku 1.: SSS, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+Dosadašnje točke 1. – 4. postaju točke 2. – 5.
+
+U dosadašnjoj točki 5. koja postaje točka 6. riječi: »medicinski tehničar/sestra« brišu se.
+
+Dosadašnje točke 6. i 7. postaju točke 7. i 8.
+
+U dosadašnjoj točki 8. koja postaje točke 9. u stručnim uvjetima brojevi: »1. – 8.« zamjenjuju se brojevima: »2. – 9.«.
+
+Iza dosadašnje točke 8. koja je postala točka 9. dodaje se točka 10. koja glasi:
+
+»10. bolničar (njegovatelj) 0,800
+
+Stručni uvjeti za točku 10.: SSS, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+### Članak 9.
+
+Članak 22. mijenja se i glasi:
+
+»Posebni nazivi radnih mjesta u Ministarstvu prostornoga uređenja, graditeljstva i državne imovine i koeficijenti složenosti poslova su:
+
+*a) Položaji I. vrste*
+
+1. načelnik sektora (poslovi obnove) – 3,350
+
+2. voditelj službe (poslovi obnove) – 2,710
+
+3. voditelj odjela (poslovi obnove) – 2,600.
+
+Stručni uvjeti za točke 1. – 3.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+*b) Radna mjesta I. vrste*
+
+1. viši stručni savjetnik za obnovu – 2,300
+
+2. koordinator provedbe obnove – 2,000
+
+3. stručni suradnik za obnovu – 1,800.
+
+Stručni uvjeti za točku 1. završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+Stručni uvjeti za točku 2.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje tri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+Stručni uvjeti za točku 3.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+*c) Radna mjesta II. vrste*
+
+1. viši stručni referent za obnovu – 1,200
+
+Stručni uvjeti za točku 1.: završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine i najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+### Članak 10.
+
+U članku 22.g stavku 1. dodaje se novi podstavak a) koji glasi:
+
+*»a) Položaji I. vrste*
+
+1. načelnik sektora u Središnjem državnom uredu za središnju javnu nabavu – 3,395
+
+2. voditelj službe u Središnjem državnom uredu za središnju javnu nabavu – 2,716
+
+Stručni uvjeti za točku 1. i 2: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na poslovima javne nabave, certifikat iz područja javne nabave, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.«.
+
+U dosadašnjem podstavku a) Radna mjesta I. vrste koji postaje podstavak b) Radna mjesta I. vrste, dodaje se nova točka 1. i glasi:
+
+»1. viši savjetnik u Središnjem državnom uredu za središnju javnu nabavu – 2,522«
+
+Stručni uvjeti za točku 1.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na poslovima javne nabave, certifikat iz područja javne nabave, ostali uvjeti prema posebnim propisima i prema pravilniku o unutarnjem redu.«.
+
+U dosadašnjoj točki 1. koja postaje točka 2. u stručnim uvjetima broj: »1« zamjenjuje se brojem: »2«.
+
+U dosadašnjoj točki 2. koja postaje točka 3. u stručnim uvjetima broj: »2« zamjenjuje se brojem: »3«.
+
+### Članak 11.
+
+Iza članka 22.j dodaje se članak 22.k koji glasi:
+
+»Članak 22.k
+
+Posebni nazivi radnih mjesta u Središnjem državnom uredu za obnovu i stambeno zbrinjavanje i koeficijenti složenosti poslova su:
+
+*a) Položaji I. vrste:*
+
+1. načelnik sektora (poslovi obnove) – 3,350
+
+2. voditelj službe (poslovi obnove) – 2,710
+
+3. voditelj odjela (poslovi obnove) – 2,600
+
+Stručni uvjeti za točke 1. – 3.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+*b) Radna mjesta I. vrste*
+
+1. viši stručni savjetnik za obnovu – 2,300
+
+2. koordinator provedbe obnove – 2,000
+
+3. stručni suradnik za obnovu – 1,800
+
+Stručni uvjeti za točku 1. .: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje četiri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+Stručni uvjeti za točku 2.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje tri godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+Stručni uvjeti za točku 3.: završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+*c) Radna mjesta II. vrste*
+
+1. viši stručni referent za obnovu – 1,200
+
+Stručni uvjeti za točku 1.: završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine i najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+### Članak 12.
+
+U članku 24. stavku 1. podstavku b) Radna mjesta I. vrste, točke 1. i 2. mijenjaju se i glase:
+
+»1. viši upravni inspektor – specijalist – 2,134
+
+2. viši upravni inspektor – 1,843
+
+Stručni uvjeti za točku 1. i 2.: magistar prava, ostali uvjeti prema posebnom zakonu.«.
+
+Točka 4. mijenja se i glasi:
+
+»4. upravni inspektor – 1,552
+
+Stručni uvjeti za točku 4.: magistar prava, ostali uvjeti prema posebnom zakonu.«.
+
+### Članak 13.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/22-03/05  
+Urbroj: 50301-21/32-22-2  
+Zagreb, 27. siječnja 2022.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (NN 139/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/139/2089*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 109. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/01.), a u vezi s člankom 144. stavkom 2. točkom a) Zakona o državnim službenicima (»Narodne novine«, br. 92/05., 107/07., 27/08., 34/11., 49/11., 150/11., 34/12., 49/12. – pročišćeni tekst, 37/13., 38/13., 1/15., 138/15. – Odluka Ustavnog suda Republike Hrvatske, 61/17, 70/19 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 24. studenoga 2022. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O NAZIVIMA RADNIH MJESTA I KOEFICIJENTIMA SLOŽENOSTI POSLOVA U DRŽAVNOJ SLUŽBI**
+
+### Članak 1.
+
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (»Narodne novine«, br. 37/01., 38/01. – ispravak, 71/01., 89/01., 112/01., 7/02. – ispravak, 17/03., 197/03., 21/04., 25/04. – ispravak, 66/05., 131/05., 11/07., 47/07., 109/07., 58/08., 32/09., 140/09., 21/10., 38/10., 77/10., 113/10., 22/11., 142/11., 31/12., 49/12., 60/12., 78/12., 82/12., 100/12., 124/12., 140/12., 16/13., 25/13., 52/13., 96/13., 126/13., 2/14., 94/14., 140/14., 151/14., 76/15., 100/15., 71/18., 73/19., 63/21. i 13/22.), u članku 2. stavku 1. podstavku c) Položaji III. vrste, u točki 3., koeficijent složenosti poslova »0,902« zamjenjuje se koeficijentom »0,920«.
+
+### Članak 2.
+
+U članku 3. stavku 1. podstavku c) Radna mjesta III. vrste, u točki 2., koeficijent složenosti poslova »0,854« zamjenjuje se koeficijentom »0,897«.
+
+U točki 3., koeficijent složenosti poslova »0,824« zamjenjuje se koeficijentom »0,865«.
+
+U točki 4., koeficijent složenosti poslova »0,776« zamjenjuje se koeficijentom »0,815«.
+
+### Članak 3.
+
+U članku 4. stavku 1. podstavku a) Položaji III. vrste, u točki 1. na oba mjesta, koeficijent složenosti poslova »0,824« zamjenjuje se koeficijentom »0,865«.
+
+U podstavku b) Radna mjesta III. vrste, u točki 2., koeficijent složenosti poslova »0,873« zamjenjuje se koeficijentom »0,917«.
+
+U točki 3., koeficijent složenosti poslova »0,776« zamjenjuje se koeficijentom »0,815«.
+
+U podstavku c) Radna mjesta IV. vrste, u točki 1., koeficijent složenosti poslova »0,601« zamjenjuje se koeficijentom »0,631«.
+
+### Članak 4.
+
+U članku 7. stavku 1. podstavku b) Radna mjesta I. vrste, iza točke 7. dodaje se točka 8. koja glasi:
+
+»8. stručni suradnik u Uredu predsjednika Vlade – 1,455
+
+Stručni uvjeti za točku 8.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+U podstavku e) Radna mjesta III. vrste, iza točke 8. dodaju se nove točke 9. – 12. koje glase:
+
+»9. administrativni tajnik u Uredu za protokol 1,067
+
+10. administrativni tajnik u Uredu za udruge 1,067
+
+11. administrativni tajnik u Uredu za ravnopravnost spolova 1,067
+
+12. administrativni tajnik u Uredu za unutarnju reviziju 1,067
+
+Stručni uvjeti za točke 9. – 12.: kao za administrativnog tajnika, ostali uvjeti prema općem aktu«.
+
+Dosadašnja točka 9. postaje točka 13.
+
+U dosadašnjoj točki 10. koja postaje točka 14., u stručnim uvjetima brojevi: »9. i 10.« zamjenjuju se brojevima: »13. i 14«.
+
+### Članak 5.
+
+U članku 9. stavku 1. podstavku c) Položaji III. vrste, u točki 2., podtočki e), koeficijent složenosti poslova »0,892« zamjenjuje se koeficijentom »0,919«.
+
+U podstavku f) Radna mjesta III. vrste, u točki 6., koeficijent složenosti poslova »0,854« zamjenjuje se koeficijentom »0,897«.
+
+### Članak 6.
+
+Iza članka 10.b dodaje se članak 10.c koji glasi:
+
+»Članak 10.c
+
+Posebni nazivi radnih mjesta u Povjerenstvu za fiskalnu politiku i koeficijenti složenosti su:
+
+a) Radna mjesta I. vrste
+
+1. savjetnik predsjednika Povjerenstva za fiskalnu politiku 2,425
+
+2. viši savjetnik – specijalist za pitanja fiskalne politike u Uredu Povjerenstva za fiskalnu politiku 2,231
+
+3. viši savjetnik – specijalist analitičar za pitanja fiskalne politike u Uredu Povjerenstva za fiskalnu politiku 2,134
+
+4. viši stručni savjetnik u Uredu Povjerenstva za fiskalnu politiku 1,940
+
+Stručni uvjeti za točke 1. – 4.: završen diplomski sveučilišni studij ili specijalistički diplomski stručni studij, najmanje 4 godine radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.
+
+b) Radna mjesta III. vrste
+
+1. administrativni tajnik predsjednika Povjerenstva za fiskalnu politiku 1,067
+
+Stručni uvjeti za točku 1.: srednja stručna sprema, najmanje jedna godina radnog iskustva na odgovarajućim poslovima, ostali uvjeti prema pravilniku o unutarnjem redu.«.
+
+### Članak 7.
+
+U članku 19. stavku 1. podstavku f) Radna mjesta III. vrste, u točki 4., koeficijent »0,892« zamjenjuje se koeficijentom »0,919«.
+
+U točki 5. koeficijent složenosti poslova »0,873« zamjenjuje se koeficijentom »0,917«.
+
+U točki 6. koeficijent složenosti poslova »0,854« zamjenjuje se koeficijentom »0,897«.
+
+U točki 7. koeficijent složenosti poslova » 0,824« zamjenjuje se koeficijentom »0,865«.
+
+### Članak 8.
+
+U članku 21. stavku 1. podstavku a) Položaji I. vrste točki 2., koeficijent »2,473« zamjenjuje se koeficijentom »3,104«.
+
+U točki 3. koeficijent složenosti poslova »2,425« zamjenjuje se koeficijentom »2,910«.
+
+U točki 5. koeficijent složenosti poslova »2,376« zamjenjuje se koeficijentom »2,710«.
+
+U točki 6. koeficijent složenosti poslova »2,231« zamjenjuje se koeficijentom »2,425«.
+
+U točki 7. koeficijent složenosti poslova »2,182« zamjenjuje se koeficijentom »2,330«.
+
+U podstavku d) Radna mjesta I. vrste, iza točke 3. dodaju se nove točke 4. i 5. koje glase:
+
+» 4. viši inspektor – specijalist 2,134
+
+5. viši upravni inspektor – specijalist 2,134.
+
+Stručni uvjeti za točku 4.: kao za višeg inspektora, istaknuti rezultati u području od značaja za rad državnog tijela, prethodno odobrenje ministarstva nadležnog za službeničke odnose, položen pravosudni ispit.
+
+Stručni uvjeti za točku 5.: magistar prava, ostali uvjeti prema posebnom zakonu«
+
+U dosadašnjoj točki 4. koja postaje točka 6. u stručnim uvjetima broj: »4« zamjenjuje se brojem: »6«.
+
+U dosadašnjoj točki 5. koja postaje točka 7. u stručnim uvjetima broj: »5« zamjenjuje se brojem: »7«.
+
+U dosadašnjoj točki 6. koja postaje točka 8. u stručnim uvjetima broj: »6« zamjenjuje se brojem »8«.
+
+U dosadašnjoj točki 7. koja postaje točka 9. u stručnim uvjetima broj: »7« zamjenjuje se brojem: »9«.
+
+Iza dosadašnje točke 7. koja je postala točka 9. dodaju se nove točke 10. i 11. koje glase:
+
+» 10. viši inspektor 1,843
+
+11. viši upravni inspektor 1,843.
+
+Stručni uvjeti za točku 10.: završen diplomski sveučilišni studij prava ili integrirani preddiplomski i diplomski sveučilišni studij prava i najmanje četiri godine radnog iskustva na odgovarajućim poslovima, položen pravosudni ispit.
+
+Stručni uvjeti za točku 11.: magistar prava, ostali uvjeti prema posebnom zakonu«.
+
+Dosadašnja točka 8. postaje točka 12.
+
+U dosadašnjoj točki 9. koja postaje točka 13. u stručnim uvjetima brojevi: »8. – 9.« zamjenjuju se brojevima: »12. – 13.«.
+
+U dosadašnjoj točki 10. koja postaje točka 14. u stručnim uvjetima broj: »10.« zamjenjuje se brojem: »14«.
+
+Dosadašnje točke 11. i 12. postaju točke 15 i 16.
+
+U dosadašnjoj točki 13. koja postaje točka 17. u stručnim uvjetima brojevi: »11. – 13.« zamjenjuje se brojevima: »15. – 17.«
+
+U dosadašnjoj točki 14. koja postaje točka 18. u stručnim uvjetima broj: »14.« zamjenjuje se brojem: »18.«.
+
+Iza dosadašnje točke 14. koja je postala točka 18. dodaju se nove točke 19. i 20. koje glase:
+
+» 19. inspektor 1,552
+
+20. upravni inspektor 1,552.
+
+Stručni uvjeti za točku 19.: završen diplomski sveučilišni studij prava ili integrirani preddiplomski i diplomski sveučilišni studij prava, najmanje tri godine radnog iskustva na odgovarajućim poslovima, položen pravosudni ispit.
+
+Stručni uvjeti za točku 20.: magistar prava, ostali uvjeti prema posebnom zakonu«.
+
+U dosadašnjoj točki 15. koja postaje točka 21. u stručnim uvjetima broj: »15.« zamjenjuje se brojem »21.«.
+
+Dosadašnja točka 16. postaje točka 22.
+
+U dosadašnjoj točki 17. koja postaje točka 23. u stručnim uvjetima brojevi: »16. – 17.« zamjenjuje se brojevima: »22. – 23.«.
+
+U dosadašnjoj točki 18. koja postaje točka 24. u stručnim uvjetima broj: »18.« zamjenjuje se brojem: »24.«.
+
+U dosadašnjoj točki 19. koja postaje točka 25. u stručnim uvjetima broj: »19.« zamjenjuje se brojem: »25.«.
+
+U dosadašnjoj točki 20. koja postaje točka 26. u stručnim uvjetima broj: »20.« zamjenjuje se brojem: »26.«.
+
+U dosadašnjoj točki 21. koja postaje točka 27. u stručnim uvjetima broj: »21.« zamjenjuje se brojem »27.«.
+
+U podstavku f) Radna mjesta III. vrste, u točki 9., koeficijent »0,844« zamjenjuje se koeficijentom »0,886«.
+
+### Članak 9.
+
+U članku 24. stavku 1. podstavku b) Radna mjesta I. vrste, točke 1. i 2. brišu se.
+
+Dosadašnja točka 3. postaje točka 1., a u stručnim uvjetima broj: »2« zamjenjuje se brojem: »1.«
+
+Točka 4. briše se.
+
+Dosadašnja točka 5. postaje točka 2., a u stručnim uvjetima broj: »4.« zamjenjuje se brojem: »2.«
+
+Dosadašnja točka 6. postaje točka 3., a u stručnim uvjetima broj: »5.« zamjenjuje se brojem: »3.«.
+
+### Članak 10.
+
+Iza članka 26.c dodaju se članci 26.d, 26.e i 26.f koji glase:
+
+»Članak 26.d
+
+(1) Službenici koji rade na provedbi reformi i ulaganja (tim za provedbu reformi i ulaganja) u okviru Nacionalnog plana oporavka i otpornosti 2021. – 2026. (u daljnjem tekstu: NPOO) imaju pravo na uvećanje koeficijenta složenosti poslova radnog mjesta, za vrijeme trajanja provedbe reforme i ulaganja i to:
+
+– voditelj tima do 30 %
+
+– zamjenik voditelja tima do 20 %
+
+– stručni član do 15 %
+
+– administrativno-tehnička podrška do 15 %.
+
+(2) Službenike iz stavka 1. ovoga članka te njihovu ulogu u timu za provedbu reformi i ulaganja određuje čelnik tijela odlukom.
+
+(3) Pravo na uvećanje koeficijenta složenosti poslova iz stavka 1. ovoga članka ostvaruje se pod uvjetom pravovremene provedbe reformi i ulaganja te uz postizanje ključnih etapa i ciljnih vrijednosti.
+
+(4) Službenici koji rade na poslovima koordinacije aktivnosti unutar okvira za gospodarsko upravljanje Europske unije i tijela nadležnog za koordinaciju praćenja provedbe NPOO-a te praćenju napretka i izvještavanju o ispunjavanju ciljnih vrijednosti i pokazatelja i pripremi izjave o upravljanju u tijelima državne uprave nadležnim za provedbu komponente/podkomponente, imaju pravo na uvećanje koeficijenta složenosti poslova radnog mjesta do 30 %, za vrijeme trajanja tih aktivnosti.
+
+(5) Službenike iz stavka 4. ovoga članka i postotak uvećanja koeficijenta složenosti poslova određuje čelnik tijela odlukom.
+
+(6) Ukupni broj službenika u državnom tijelu koji rade na poslovima iz stavka 1. i 4. ovoga članka određuje čelnik tijela, uz prethodnu suglasnost Ministarstva financija.
+
+(7) Ako tijelo nadležno za koordinaciju praćenja provedbe NPOO-a temeljem mjesečnih izvještaja utvrdi da nisu pravovremeno ostvarene ključne etape i ciljne vrijednosti za pojedinu reformu i ulaganje, obavijestit će o tome tijelo državne uprave nadležno za komponentu/podkomponentu NPOO-a, koje će prestati s obračunom plaće prema uvećanim koeficijentima službenicima iz stavka 1. ovoga članka počevši od prvog dana sljedećeg mjeseca.
+
+(8) Ako je službenik imenovan u dva ili više timova za provedbu reformi i ulaganja, ostvaruje pravo na uvećanje koeficijenta složenosti poslova radnog mjesta na koje je raspoređen temeljem uloga u timovima, a postotci uvećanja koeficijenta složenosti poslova se zbrajaju, pri čemu ukupno uvećanje koeficijenta složenosti poslova radnog mjesta na koje je službenik raspoređen ne može iznositi više od 30 %.
+
+(9) Službeniku iz stavka 1., 4. i 8. ovoga članka, uvećani koeficijent složenosti poslova radnog mjesta ne može biti veći od koeficijenta složenosti poslova nadređenog službenika.
+
+(10) Iznimno od stavka 9. ovoga članka, službeniku raspoređenom na radno mjesto za koje je propisani koeficijent složenosti poslova isti ili veći od koeficijenta složenosti poslova radnog mjesta nadređenog službenika, uvećani koeficijent složenosti poslova ne može biti veći od prvog višeg koeficijenta složenosti poslova rukovodećeg radnog mjesta (položaja) u istom tijelu državne uprave.
+
+(11) Odredba stavka 10. ovoga članka na odgovarajući način se primjenjuje na uvećanje koeficijenta složenosti poslova službenika koji nema nadređenog službenika.
+
+(12) Ravnatelji uprava i glavni tajnici ministarstava mogu biti nositelji provedbe reformi i ulaganja, voditelji, zamjenici voditelja ili članovi stručnog tima za provedbu reformi i ulaganja, ali nemaju pravo na uvećanje koeficijenta složenosti poslova radnog mjesta.
+
+(13) Pravo na uvećanje koeficijenata složenosti poslova iz stavka 1. i 4. ovoga članka nemaju službenici raspoređeni na radna mjesta iz članaka 22. i 26.a ove Uredbe.
+
+### Članak 26.e
+
+(1) Službenici koji rade na poslovima provedbe financijskih doprinosa te poslovima koordinacije provedbe financijskih doprinosa iz Fonda solidarnosti Europske unije u skladu s odlukom Vlade Republike Hrvatske o načinu raspodjele bespovratnih financijskih sredstava iz Fonda solidarnosti Europske unije odobrenih za financiranje sanacije šteta od potresa (odluke od 12. studenoga 2020., 24. studenoga 2021. i 23. prosinca 2021.), imaju za vrijeme obavljanja poslova, a najkasnije do 30. lipnja 2023., pravo na uvećanje koeficijenta složenosti poslova radnog mjesta do 30 %.
+
+(2) Službenike iz stavka 1. ovoga članka i postotak uvećanja koeficijenta složenosti poslova određuje čelnik tijela odlukom.
+
+(3) Službeniku iz stavka 1. ovoga članka, uvećani koeficijent složenosti poslova radnog mjesta ne može biti veći od koeficijenta složenosti poslova radnog mjesta nadređenog službenika.
+
+(4) Pravo na uvećanje koeficijenta složenosti poslova iz stavka 1. ovoga članka nemaju službenici raspoređeni na radna mjesta iz članaka 22. i 26.a ove Uredbe.
+
+### Članak 26.f
+
+Ukupno uvećanje koeficijenta složenosti poslova radnog mjesta pojedinog službenika temeljem članaka 26.c, 26.d i 26.e ove Uredbe ne može biti veće od 30 %.«
+
+### Članak 11.
+
+Ova Uredba stupa na snagu osmoga dana od objave u »Narodnim novinama«.
+
+Klasa: 022-03/22-03/59  
+Urbroj: 50301-21/32-22-2  
+Zagreb, 24. studenoga 2022.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (NN 26/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/26/414*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 109. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/01.), a u vezi s člankom 144. stavkom 2. točkom a) Zakona o državnim službenicima (»Narodne novine«, br. 92/05., 107/07., 27/08., 34/11., 49/11., 150/11., 34/12., 49/12. – pročišćeni tekst, 37/13., 38/13., 1/15., 138/15. – Odluka Ustavnog suda Republike Hrvatske, 61/17., 70/19., 98/19. i 141/22.), Vlada Republike Hrvatske je na sjednici održanoj 2. ožujka 2023. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O NAZIVIMA RADNIH MJESTA I KOEFICIJENTIMA SLOŽENOSTI POSLOVA U DRŽAVNOJ SLUŽBI**
+
+### Članak 1.
+
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (»Narodne novine«, br. 37/01., 38/01. – ispravak, 71/01., 89/01., 112/01., 7/02. – ispravak, 17/03., 197/03., 21/04., 25/04. – ispravak, 66/05., 131/05., 11/07., 47/07., 109/07., 58/08., 32/09., 140/09., 21/10., 38/10., 77/10., 113/10., 22/11., 142/11., 31/12., 49/12., 60/12., 78/12., 82/12., 100/12., 124/12., 140/12., 16/13., 25/13., 52/13., 96/13., 126/13., 2/14., 94/14., 140/14., 151/14., 76/15., 100/15., 71/18., 73/19., 63/21., 13/22. i 139/22.), u članku 6. stavku 1. podstavku e) Radna mjesta III. vrste (namještenici) točki 1. koeficijent složenosti poslova: »0,873« zamjenjuje se koeficijentom: »0,917«.
+
+### Članak 2.
+
+U članku 7. stavku 1. podstavku f) Radna mjesta namještenika III. vrste u Glavnom tajništvu Vlade koeficijent složenosti poslova: »0,873« zamjenjuje se koeficijentom: »0,917«.
+
+### Članak 3.
+
+U članku 7.e stavku 1. podstavku h) Radna mjesta III. vrste (namještenici) točki 3. koeficijent složenosti poslova: »0,873« zamjenjuje se koeficijentom: »0,917«.
+
+U podstavku i) Radna mjesta IV. vrste (namještenici) koeficijent složenosti poslova: »0,727« zamjenjuje se koeficijentom: »0,763«.
+
+### Članak 4.
+
+U članku 9. stavku 1. podstavku f) Radna mjesta III. vrste točki 5. koeficijent složenosti poslova: »0,860« zamjenjuje se koeficijentom: »0,903«.
+
+U Općim i administrativnim poslovima točki 2. koeficijent složenosti poslova: »0,920« zamjenjuje se koeficijentom: »0,990«.
+
+### Članak 5.
+
+U članku 10. stavku 1. u Općim i administrativnim poslovima točki 2. koeficijent složenosti poslova: »0,920« zamjenjuje se koeficijentom: »0,990«.
+
+U točki 5. koeficijent složenosti poslova: »0,860« zamjenjuje se koeficijentom: »0,903«.
+
+### Članak 6.
+
+U članku 15. stavku 1. podstavku e) Radna mjesta III. vrste (namještenici) točki 3. koeficijent složenosti poslova: »0,873« zamjenjuje se koeficijentom: »0,917«.
+
+### Članak 7.
+
+U članku 21. stavku 1. podstavku f) Radna mjesta III. vrste točki 8. koeficijent složenosti poslova: »0,860« zamjenjuje se koeficijentom: »0,903«.
+
+### Članak 8.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/23-03/17  
+Urbroj: 50301-21/32-23-2  
+Zagreb, 2. ožujka 2023.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (NN 87/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/87/1349*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 109. Zakona o državnim službenicima i namještenicima (»Narodne novine«, broj 27/01.), a u vezi s člankom 144. stavkom 2. točkom a) Zakona o državnim službenicima (»Narodne novine«, br. 92/05., 140/05., 142/06., 77/07., 107/07., 27/08., 34/11., 49/11., 150/11., 34/12., 49/12. – pročišćeni tekst, 37/13., 38/13., 1/15., 138/15. – Odluka Ustavnog suda Republike Hrvatske, 61/17., 70/19., 98/19. i 141/22.), Vlada Republike Hrvatske je na sjednici održanoj 27. srpnja 2023. donijela
+
+**UREDBU**
+
+**O DOPUNI UREDBE O NAZIVIMA RADNIH MJESTA I KOEFICIJENTIMA SLOŽENOSTI POSLOVA U DRŽAVNOJ SLUŽBI**
+
+### Članak 1.
+
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (»Narodne novine«, br. 37/01., 38/01. – ispravak, 71/01., 89/01., 112/01., 7/02. – ispravak, 17/03., 197/03., 21/04., 25/04. – ispravak, 66/05., 131/05., 11/07., 47/07., 109/07., 58/08., 32/09., 140/09., 21/10., 38/10., 77/10., 113/10., 22/11., 142/11., 31/12., 49/12., 60/12., 78/12., 82/12., 100/12., 124/12., 140/12., 16/13., 25/13., 52/13., 96/13., 126/13., 2/14., 94/14., 140/14., 151/14., 76/15., 100/15., 71/18., 73/19., 63/21., 13/22., 139/22. i 26/23.), iza članka 26.f dodaje se članak 26.g koji glasi:
+
+*»Članak 26.g*
+
+(1) Službenici koji rade na poslovima provedbe financijskih doprinosa te poslovima koordinacije provedbe financijskih doprinosa iz Fonda solidarnosti Europske unije u skladu s odlukom Vlade Republike Hrvatske o načinu raspodjele bespovratnih financijskih sredstava iz Fonda solidarnosti Europske unije odobrenih za financiranje sanacije šteta od potresa (odluke od 12. studenoga 2020., 24. studenoga 2021. i 23. prosinca 2021.), imaju za vrijeme obavljanja poslova, a najkasnije do 30. lipnja 2024., pravo na uvećanje koeficijenta složenosti poslova radnog mjesta do 30%.
+
+(2) Službenike iz stavka 1. ovoga članka i postotak uvećanja koeficijenta složenosti poslova određuje čelnik tijela odlukom.
+
+(3) Službeniku iz stavka 1. ovoga članka, uvećani koeficijent složenosti poslova radnog mjesta ne može biti veći od koeficijenta složenosti poslova radnog mjesta nadređenog službenika.
+
+(4) Pravo na uvećanje koeficijenta složenosti poslova iz stavka 1. ovoga članka nemaju službenici raspoređeni na radna mjesta iz članaka 22. i 26.a ove Uredbe.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/23-03/62
+
+Urbroj: 50301-21/21-23-2
+
+Zagreb, 27. srpnja 2023.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

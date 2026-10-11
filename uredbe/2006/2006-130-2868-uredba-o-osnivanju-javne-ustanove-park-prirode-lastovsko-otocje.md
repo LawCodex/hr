@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2006-11-29
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "130/06"
-amendments: []
+last_amended: 2025-05-07
+status: in_force
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "130/06, 77/25"
+amendments:
+  - "NN 77/2025 (1003) Uredba o izmjenama Uredbe o osnivanju Javne ustanove Park prirode »Lastovsko otočje«"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2868"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o osnivanju Javne ustanove Park prirode "Lastovsko otočje"
 
 > Izvor: Narodne novine, NN 130/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2868).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 77/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -135,3 +139,66 @@ Zagreb, 23. listopada 2006.
 
 Predsjednik  
 dr. sc. Ivo Sanader, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama Uredbe o osnivanju Javne ustanove Park prirode »Lastovsko otočje« (NN 77/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/77/1003*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 130. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13., 15/18., 14/19., 127/19. i 155/23.), Vlada Republike Hrvatske je na sjednici održanoj 6. svibnja 2025. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU JAVNE USTANOVE PARK PRIRODE »LASTOVSKO OTOČJE«**
+
+### Članak 1.
+
+U Uredbi o osnivanju Javne ustanove Park prirode »Lastovsko otočje« (»Narodne novine«, br. 130/06. i 85/14.) u članku 1. stavku 2. riječ: »središnje« briše se.
+
+### Članak 2.
+
+U članku 8. stavku 1. podstavci 8., 9. i 10. mijenjaju se i glase:
+
+» – donosi pravilnik o unutarnjem ustrojstvu i pravilnik o radu,
+
+– donosi odluke o raspolaganju nekretninama u vlasništvu Ustanove i stjecanju nekretnina u vlasništvo Ustanove pojedinačne vrijednosti od 50.000,01 euro do 500.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, samostalno, odluke o raspolaganju nekretninama u vlasništvu Ustanove i stjecanju nekretnina u vlasništvo Ustanove pojedinačne vrijednosti od 500.000,01 euro do 1.000.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, uz prethodnu suglasnost Ministarstva, a iznad navedenog iznosa uz suglasnost Vlade Republike Hrvatske,
+
+– donosi odluke o raspolaganju pokretnom imovinom u vlasništvu Ustanove i stjecanju pokretne imovine u vlasništvo Ustanove te sklapanju pravnih poslova pojedinačne vrijednosti od 50.000,01 euro do 500.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, samostalno, odluke o raspolaganju pokretnom imovinom u vlasništvu Ustanove i stjecanju pokretne imovine u vlasništvo Ustanove te sklapanju pravnih poslova pojedinačne vrijednosti od 500.000,01 euro do 1.000.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, uz prethodnu suglasnost Ministarstva, a odluke o raspolaganju pokretnom imovinom u vlasništvu Ustanove i stjecanju pokretne imovine u vlasništvo Ustanove te sklapanju pravnih poslova pojedinačne vrijednosti iznad 1.000.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost, uz suglasnost Vlade Republike Hrvatske i«.
+
+Stavci 2. i 3. mijenjaju se i glase:
+
+»Upravno vijeće donosi plan upravljanja Parkom prirode »Lastovsko otočje« i godišnji program zaštite, održavanja, očuvanja, promicanja i korištenja Parka prirode »Lastovsko otočje« uz suglasnost Ministarstva.
+
+Upravno vijeće donosi statut i pravilnik o unutarnjem ustrojstvu uz suglasnost Ministarstva, a pravilnik o radu sukladno propisu kojim se uređuju radni odnosi.«.
+
+### Članak 3.
+
+U članku 9. riječi: »i Zavodu« brišu se.
+
+### Članak 4.
+
+U članku 11. stavku 1. podstavak 4. mijenja se i glasi:
+
+» – donosi odluke o raspolaganju pokretnom imovinom u vlasništvu Ustanove i stjecanju pokretne imovine u vlasništvo Ustanove te sklapanju drugoga pravnog posla pojedinačne vrijednosti koja ne prelazi iznos od 50.000,00 eura, u koje iznose nije uračunat porez na dodanu vrijednost,«.
+
+### Članak 5.
+
+Ustanova je dužna u roku od 90 dana od dana stupanja na snagu ove Uredbe uskladiti s odredbama ove Uredbe i podnijeti na suglasnost Ministarstvu statut i druge opće akte za koje je takva suglasnost potrebna.
+
+### Članak 6.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/25-03/39
+
+Urbroj: 50301-05/31-25-4
+
+Zagreb, 6. svibnja 2025.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

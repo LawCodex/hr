@@ -255,7 +255,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 ## 3. SPECIFIKACIJA PO TARIFNIM OZNAKAMA:
 
 <table>
-
 <tr>
 <td><b>Red. br.</b><b></b></td>
 <td colspan="10"><b>Tarifna oznaka</b><b></b><br> (osam ili deset znamenki)</td>
@@ -264,7 +263,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 <td><b>Preferencijalna carina *</b><b></b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -281,7 +279,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -298,7 +295,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -315,7 +311,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -332,7 +327,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -349,7 +343,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -366,7 +359,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -383,7 +375,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -400,7 +391,6 @@ Fax: ________________________ Žiro-račun tvrtke: ________________________
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 </table>
 
 \* Preferencijalna carina unutar kvote utvrđena prilozima Carinske tarife za godinu na koju se odnosi raspodjela carinskih kvota.

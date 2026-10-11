@@ -6,12 +6,12 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-12-24
-last_amended: 2014-12-22
+last_amended: 2026-02-06
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 121/2011 (2386) https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2386"
-narodne_novine: "152/08, 76/09, 80/11, 121/11, 143/12, 56/13, 145/13, 152/14"
+narodne_novine: "152/08, 76/09, 80/11, 121/11, 143/12, 56/13, 145/13, 152/14, 70/17, 126/19, 80/22, 36/24, 72/25, 13/26"
 amendments:
   - "NN 76/2009 (1836) Zakon o izmjenama i dopunama Zakona o kaznenom postupku"
   - "NN 80/2011 (1705) Zakon o izmjenama i dopunama Zakona o kaznenom postupku"
@@ -19,6 +19,12 @@ amendments:
   - "NN 56/2013 (1142) Zakon o izmjeni i dopunama Zakona o kaznenom postupku"
   - "NN 145/2013 (3090) Zakon o izmjenama i dopunama Zakona o kaznenom postupku"
   - "NN 152/2014 (2859) Zakon o izmjenama i dopunama Zakona o kaznenom postupku"
+  - "NN 70/2017 (1661) Zakon o izmjenama i dopunama Zakona o kaznenom postupku"
+  - "NN 126/2019 (2530) Zakon o izmjenama i dopunama Zakona o kaznenom postupku"
+  - "NN 80/2022 (1169) Zakon o izmjenama i dopunama Zakona o kaznenom postupku"
+  - "NN 36/2024 (569) Zakon o izmjenama i dopunama Zakona o kaznenom postupku"
+  - "NN 72/2025 (935) Zakon o izmjenama i dopuni Zakona o kaznenom postupku"
+  - "NN 13/2026 (114) Zakon o izmjenama i dopunama Zakona o kaznenom postupku"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2386"
 retrieved: 2026-10-12
 ---
@@ -29,7 +35,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 121/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2386).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 143/2012, NN 56/2013, NN 145/2013, NN 152/2014.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 143/2012, NN 56/2013, NN 145/2013, NN 152/2014, NN 70/2017, NN 126/2019, NN 80/2022, NN 36/2024, NN 72/2025, NN 13/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -10756,3 +10762,2982 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o kaznenom postupku (NN 70/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1661*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o kaznenom postupku, koji je Hrvatski sabor donio na sjednici 7. srpnja 2017.
+
+Klasa: 011-01/17-01/56
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 13. srpnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU**
+
+#### Članak 1.
+
+U Zakonu o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11. – pročišćeni tekst, 91/12. – Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13. i 152/14.) u članku 1.a točki 5. iza riječi: »(SL L 350, 30. 12. 2008.)« točka se zamjenjuje zarezom, a iza točke 5. dodaju se točke 6., 7., 8. i 9. koje glase:
+
+»6) Direktiva 2012/29/EU Europskog parlamenta i Vijeća od 25. listopada 2012. o uspostavi minimalnih standarda za prava, potporu i zaštitu žrtava kaznenih djela te o zamjeni Okvirne odluke Vijeća 2001/220/PUP (SL L 315, 14. 11. 2012.),
+
+7) Direktiva 2013/48/EU Europskog parlamenta i Vijeća od 22. listopada 2013. o pravu na pristup odvjetniku u kaznenom postupku i u postupku na temelju europskog uhidbenog naloga te o pravu na obavješćivanje treće strane u slučaju oduzimanja slobode i na komunikaciju s trećim osobama i konzularnim tijelima (SL L 294, 6. 11. 2013.),
+
+8) Direktiva 2014/42/EU Europskog parlamenta i Vijeća od 3. travnja 2014. o zamrzavanju i oduzimanju predmeta i imovinske koristi ostvarene kaznenim djelima u Europskoj uniji (SL L 127, 29. 4. 2014.),
+
+9) Direktiva 2014/62/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o kaznenopravnoj zaštiti eura i drugih valuta od krivotvorenja, kojom se zamjenjuje Okvirna odluka Vijeća 2000/383/PUP (SL L 151, 21. 5. 2014.).«.
+
+#### Članak 2.
+
+U članku 2. stavku 2. riječ: »oštećenika« zamjenjuje se riječju: »žrtve«.
+
+U stavku 4. riječi: »oštećenik kao tužitelj« zamjenjuju se riječima: »žrtva u ulozi oštećenika kao tužitelja«.
+
+#### Članak 3.
+
+U članku 8. stavku 6. riječ: »naložiti« zamjenjuje se riječima: »rješenjem odrediti«, a iza druge rečenice dodaje se treća rečenica koja glasi:
+
+»Protiv rješenja kojim se odbija zahtjev okrivljenika da se pisano prevede dokaz ili njegov dio za koji okrivljenik smatra da je nužan za korištenje procesnih prava obrane, okrivljenik ima pravo žalbe.«.
+
+U stavku 11. iza riječi: »obrane« dodaju se zarez i riječi: »odnosno prava drugih sudionika u postupku da aktivno ostvaruju svoja prava ili razumiju tijek postupka,«.
+
+#### Članak 4.
+
+U članku 25. stavku 1. točki 4. riječ: »oštećenik« zamjenjuje se riječju: »žrtva«, a riječ: »počinio« zamjenjuje se riječju: »počinila«.
+
+#### Članak 5.
+
+Članak 43. mijenja se i glasi:
+
+»(1) Žrtva kaznenog djela ima sukladno ovom Zakonu:
+
+1) pravo na pristup službama za potporu žrtvama kaznenih djela,
+
+2) pravo na djelotvornu psihološku i drugu stručnu pomoć i potporu tijela, organizacije ili ustanove za pomoć žrtvama kaznenih djela u skladu sa zakonom,
+
+3) pravo na zaštitu od zastrašivanja i odmazde,
+
+4) pravo na zaštitu dostojanstva tijekom ispitivanja žrtve kao svjedoka,
+
+5) pravo da bude saslušana bez neopravdane odgode nakon podnošenja kaznene prijave te da se daljnja saslušanja provode samo u mjeri u kojoj je to nužno za potrebe kaznenog postupka,
+
+6) pravo na pratnju osobe od povjerenja pri poduzimanju radnji u kojima sudjeluje,
+
+7) pravo da se medicinski zahvati prema žrtvi poduzimaju u najmanjoj mjeri i samo ako su krajnje nužni za potrebe kaznenog postupka,
+
+8) pravo podnijeti prijedlog za progon i privatnu tužbu sukladno odredbama Kaznenog zakona, pravo sudjelovati u kaznenom postupku kao oštećenik, pravo biti obaviještena o odbacivanju kaznene prijave (članak 206. stavak 3. ovoga Zakona) i odustajanju državnog odvjetnika od kaznenog progona te pravo preuzeti kazneni progon umjesto državnog odvjetnika,
+
+9) pravo na obavijest od državnog odvjetnika o poduzetim radnjama povodom njezine prijave (članak 206.a ovoga Zakona) i podnošenje pritužbe višem državnom odvjetniku (članak 206.b ovoga Zakona),
+
+10) pravo da na njezin zahtjev bez nepotrebne odgode bude obaviještena o ukidanju pritvora ili istražnog zatvora, bijegu okrivljenika i otpuštanju osuđenika s izdržavanja kazne zatvora te mjerama koje su poduzete radi njezine zaštite,
+
+11) pravo da na njezin zahtjev bude obaviještena o svakoj odluci kojom se pravomoćno okončava kazneni postupak,
+
+12) druga prava propisana zakonom.
+
+(2) Žrtva kaznenog djela za koje je propisana kazna zatvora teža od pet godina, ako trpi teže posljedice kaznenog djela, ima pravo na stručnu pomoć savjetnika na teret proračunskih sredstava pri podnošenju imovinskopravnog zahtjeva.
+
+(3) Žrtva kaznenog djela nasilja počinjenog s namjerom ima pravo na novčanu naknadu iz sredstava državnog proračuna u skladu s posebnim zakonom. Ako je žrtva prethodno ostvarila imovinskopravni zahtjev uzet će se u obzir njegova visina pri odmjeravanju novčane naknade, a tako će postupiti i sud pri dosuđivanju imovinskopravnog zahtjeva ako je žrtva prethodno ostvarila novčanu naknadu iz sredstava državnog proračuna.
+
+(4) Sud, državno odvjetništvo, istražitelj i policija dužni su već pri poduzimanju prve radnje u kojoj sudjeluje obavijestiti žrtvu na njoj razumljiv način:
+
+1) o pravima iz stavaka 1., 2. i 3. ovoga članka te članka 44. ovoga Zakona
+
+2) o pravima koja ima kao oštećenik.
+
+(5) Tijela iz stavka 4. ovoga članka prema žrtvi će postupati obzirno i uvjeriti se da je žrtva danu obavijest o pravima razumjela.
+
+(6) Tijela iz stavka 4. ovoga članka žrtvu će na njoj razumljiv način poučiti o značenju sudjelovanja u postupku u svojstvu oštećenika. U zapisnik će se unijeti dana obavijest i izjava žrtve želi li sudjelovati u postupku u svojstvu oštećenika.
+
+(7) Prava iz stavka 1. točaka 8., 9. i 11. ovoga članka pripadaju i pravnoj osobi na čiju je štetu kazneno djelo počinjeno. Odredbe ovoga Zakona kojima se uređuje ostvarivanje navedenih prava od strane žrtve kaznenog djela na odgovarajući se način primjenjuju i na pravnu osobu na čiju je štetu kazneno djelo počinjeno.«.
+
+#### Članak 6.
+
+Iza članka 43. dodaje se članak 43.a koji glasi:
+
+»Članak 43.a
+
+(1) Prije ispitivanja žrtve, tijelo koje provodi ispitivanje će u suradnji s tijelima, organizacijama ili ustanovama za pomoć i podršku žrtvama kaznenih djela provesti pojedinačnu procjenu žrtve. Pojedinačna procjena žrtve uključuje utvrđivanje postoji li potreba za primjenom posebnih mjera zaštite u odnosu na žrtvu te ako postoji, koje posebne mjere zaštite bi se trebale primijeniti (poseban način ispitivanja žrtve, uporaba komunikacijskih tehnologija radi izbjegavanja vizualnog kontakta s počiniteljem i druge mjere propisane zakonom). Kada je žrtva kaznenog djela dijete, pretpostavit će se da postoji potreba za primjenom posebnih mjera zaštite te utvrditi koje posebne mjere zaštite treba primijeniti.
+
+(2) Pri poduzimanju pojedinačne procjene žrtve osobito se uzimaju u obzir osobne značajke žrtve, vrsta ili narav kaznenog djela i okolnosti počinjenja kaznenog djela. Pri tome se posebna pažnja posvećuje žrtvama koje su pretrpjele značajnu štetu zbog težine kaznenog djela, žrtvama kaznenog djela počinjenog zbog nekog osobnog svojstva žrtve, te žrtvama koje njihov odnos s počiniteljem čini osobito ranjivima.
+
+(3) U smislu stavka 2. ovoga članka, pojedinačna procjena žrtve na odgovarajući način uključuje osobito žrtve terorizma, organiziranog kriminala, trgovanja ljudima, rodno uvjetovanog nasilja, nasilja u bliskim odnosima, spolnog nasilja i spolnog iskorištavanja ili zločina iz mržnje te žrtve s invalidnošću.
+
+(4) Pojedinačna procjena žrtve provodi se uz sudjelovanje žrtve i uzimajući u obzir njezine želje, uključujući i želju da se ne koriste posebne mjere zaštite propisane zakonom.
+
+(5) Tijelo koje vodi postupak će broj ispitivanja žrtve za koju je utvrđena posebna potreba zaštite svesti na najmanju moguću mjeru. Državni odvjetnik može predložiti da se takav svjedok ispita na dokaznom ročištu.
+
+(6) Ministar nadležan za poslove pravosuđa uz prethodnu suglasnost ministra nadležnog za unutarnje poslove donosi pravilnik o načinu provedbe pojedinačne procjene žrtve iz stavka 1. ovoga članka.«.
+
+#### Članak 7.
+
+Članak 44. mijenja se i glasi:
+
+»(1) Dijete kao žrtva kaznenog djela ima, uz prava koja žrtvi pripadaju sukladno ovom članku i drugim odredbama ovoga Zakona, i pravo na:
+
+1) opunomoćenika na teret proračunskih sredstava,
+
+2) tajnost osobnih podataka,
+
+3) isključenje javnosti.
+
+(2) Sud, državno odvjetništvo, istražitelj i policija dužni su prema djetetu kao žrtvi kaznenog djela postupati posebno obzirno, imajući na umu dob, ličnost i druge okolnosti kako bi se izbjegle štetne posljedice za odgoj i razvoj djeteta. Pri postupanju prema djetetu žrtvi nadležna tijela prvenstveno će se rukovoditi najboljim interesom djeteta.
+
+(3) Ako nije poznata dob žrtve, pretpostavit će se da se radi o djetetu ako postoji vjerojatnost da žrtva nije navršila osamnaest godina života.
+
+(4) Žrtva kaznenog djela protiv spolne slobode i žrtva kaznenog djela trgovanja ljudima ima, uz prava koja žrtvi pripadaju sukladno članku 43. ovoga Zakona, i pravo:
+
+1) prije ispitivanja razgovarati sa savjetnikom, na teret proračunskih sredstava,
+
+2) na opunomoćenika na teret proračunskih sredstava,
+
+3) da ju u policiji i državnom odvjetništvu ispituje osoba istog spola te da ju, ako je to moguće, u slučaju ponovnog ispitivanja ispituje ta ista osoba,
+
+4) uskratiti odgovor na pitanja koja nisu u vezi s kaznenim djelom, a odnose se na strogo osobni život žrtve,
+
+5) zahtijevati da bude ispitana putem audio-video uređaja (članak 292. stavak 4.ovoga Zakona),
+
+6) na tajnost osobnih podataka,
+
+7) zahtijevati isključenje javnosti s rasprave.
+
+(5) Žrtva u odnosu na koju su utvrđene posebne potrebe zaštite sukladno članku 44. ovoga Zakona ima, uz prava koja žrtvi pripadaju sukladno članku 43. ovoga Zakona, i pravo:
+
+1) prije ispitivanja razgovarati sa savjetnikom, na teret proračunskih sredstava,
+
+2) da ju u policiji i državnom odvjetništvu ispituje osoba istog spola te da ju, ako je to moguće, u slučaju ponovnog ispitivanja ispituje ta ista osoba,
+
+3) uskratiti odgovor na pitanja koja nisu u vezi s kaznenim djelom, a odnose se na strogo osobni život žrtve,
+
+4) zahtijevati da bude ispitana putem audio-video uređaja (članak 292. stavak 4. ovoga Zakona),
+
+5) na tajnost osobnih podataka,
+
+6) zahtijevati isključenje javnosti s rasprave.«.
+
+#### Članak 8.
+
+Članak 45. briše se.
+
+#### Članak 9.
+
+Članak 46. mijenja se i glasi:
+
+»(1) Žrtva i pravna osoba na čiju je štetu kazneno djelo počinjeno imaju pravo prijaviti se kao oštećenik do podizanja optužnice, policiji ili državnom odvjetništvu, a do završetka rasprave, sudu.
+
+(2) Prijavu iz stavka 1. ovoga članka tijelo koje vodi postupak odbacit će rješenjem ako je nepravodobna ili podnesena od neovlaštene osobe.«.
+
+#### Članak 10.
+
+Naslov iznad članka 47. briše se a članak 47. mijenja se i glasi:
+
+»(1) Za kaznena djela za koja se progoni po prijedlogu, prijedlog za progon mora se podnijeti u roku od tri mjeseca od dana kad je ovlaštena fizička ili pravna osoba saznala za kazneno djelo i počinitelja.
+
+(2) Prijedlog za progon podnosi se državnom odvjetništvu.
+
+(3) Ako su žrtva ili pravna osoba na čiju je štetu kazneno djelo počinjeno podnijele kaznenu prijavu ili je oštećenik podnio prijedlog za ostvarivanje imovinskopravnog zahtjeva u kaznenom postupku, smatra se da je time stavljen i prijedlog za progon.
+
+(4) Pravovremena privatna tužba smatrat će se kao pravovremeno podnesen prijedlog žrtve ako se u tijeku postupka utvrdi da se radi o kaznenom djelu za koje se progoni po prijedlogu.
+
+(5) Dijete koje je navršilo šesnaest godina života može i samo podnijeti prijedlog za progon.«.
+
+#### Članak 11.
+
+Članak 48. mijenja se i glasi:
+
+»(1) Ako žrtva umre u tijeku roka za podnošenje prijedloga za progon, odnosno ako oštećenik umre u tijeku postupka, njihov bračni i izvanbračni drug, životni partner ili neformalni životni partner te potomak, a ako njih nema, predak, brat, sestra te osoba koju je žrtva odnosno oštećenik na temelju zakona bio dužan uzdržavati, mogu u roku od tri mjeseca poslije njihove smrti podnijeti prijedlog za progon ili tužbu, odnosno dati izjavu da postupak nastavljaju.
+
+(2) Ako pravna osoba na čiju je štetu kazneno djelo počinjeno prestane postojati u tijeku roka za podnošenje prijedloga za progon ili u tijeku postupka, pravni sljednik te osobe može u roku od tri mjeseca od prestanka postojanja pravne osobe na čiju je štetu kazneno djelo počinjeno podnijeti prijedlog za progon ili tužbu, odnosno dati izjavu da postupak nastavlja.«.
+
+#### Članak 12.
+
+Članak 49. mijenja se i glasi:
+
+»Ako je kaznenim djelom oštećeno više osoba, progon će se poduzeti, odnosno nastaviti po prijedlogu bilo koje od žrtava.«.
+
+#### Članak 13.
+
+Članak 50. mijenja se i glasi:
+
+»Žrtva može svojom izjavom tijelu koje vodi postupak odustati od prijedloga za progon do završetka rasprave. U tom slučaju ona gubi pravo da ponovno podnese prijedlog.«.
+
+#### Članak 14.
+
+Iznad članka 51. dodaje se naslov koji glasi: »2. Oštećenik«, a članak 51. mijenja se i glasi:
+
+»(1) Oštećenik ima, u skladu s ovim Zakonom, pravo:
+
+1) služiti se vlastitim jezikom, uključujući i znakovni jezik gluhih i gluhoslijepih, i na pomoć tumača ako ne govori ili ne razumije hrvatski jezik, odnosno prevoditelja ili tumača znakovnog jezika ako se radi o gluhom ili gluhoslijepom oštećeniku,
+
+2) podnijeti prijedlog za ostvarivanje imovinskopravnog zahtjeva te privremenih mjera osiguranja,
+
+3) na opunomoćenika,
+
+4) upozoravati na činjenice i predlagati dokaze,
+
+5) prisustvovati dokaznom ročištu,
+
+6) prisustvovati raspravi i sudjelovati u dokaznom postupku te iznijeti završni govor,
+
+7) izvršiti uvid u spis predmeta sukladno članku 184. stavku 2. ovoga Zakona,
+
+8) zatražiti obavijest od državnog odvjetnika o poduzetim radnjama povodom njegove prijave (članak 206.a ovoga Zakona) i podnijeti pritužbu višem državnom odvjetniku (članak 206.b ovoga Zakona),
+
+9) podnijeti žalbu,
+
+10) zatražiti povrat u prijašnje stanje,
+
+11) biti obaviješten o ishodu kaznenog postupka.
+
+(2) Državno odvjetništvo i sud dužni su prije i tijekom kaznenog postupka u svakom stadiju postupka ispitati postoji li mogućnost da okrivljenik oštećeniku popravi štetu uzrokovanu kaznenim djelom.
+
+(3) Državno odvjetništvo i sud dužni su posebno upozoriti oštećenika na prava iz stavka 1. točaka 1., 2., 4., 6., 7. i 8. ovoga članka. Zakonom se propisuju upozorenja oštećeniku u odnosu na prava iz stavka 1. točaka 3., 5. i 9. ovoga članka.«.
+
+#### Članak 15.
+
+Iza članka 51. dodaje se novi članak 51.a koji glasi:
+
+»Članak 51.a
+
+(1) Oštećenik koji ne govori ili ne razumije jezik na kojem se vodi postupak, osim prava iz članka 8. stavka 3. ovoga Zakona, ima pravo da se na njegov zahtjev, na teret proračunskih sredstava, osigura pisano prevođenje na jezik koji razumije podataka bitnih za ostvarivanje prava oštećenika u kaznenom postupku, a posebice odluke kojom se okončava kazneni postupak, uključujući i obrazloženje ili sažetak obrazloženja te odluke, osim u slučajevima kada sukladno ovom Zakonu odluka ne sadrži obrazloženje. Iznimno, oštećeniku će se osigurati usmeno prevođenje navedenih podataka ako se time oštećenik ne onemogućava u ostvarivanju svojih postupovnih prava.
+
+(2) Oštećenik iz stavka 1. ovoga članka ima pravo podnijeti obrazloženi zahtjev da se određena isprava ili drugi pisani dokazni materijal smatraju bitnim i prevedu na jezik koji razumije. Tijelo koje vodi postupak, ako prihvati zahtjev oštećenika, osigurat će prevođenje cijele isprave ili drugog pisanog dokaznog materijala, odnosno samo onih dijelova koji su bitni za omogućavanje oštećeniku da aktivno sudjeluje u postupku.
+
+(3) Tijelo koje vodi postupak rješenjem određuje usmeno ili pisano prevođenje na jezik koji oštećenik razumije, vodeći pri tome računa da se usmenim prevođenjem ne ugrozi ostvarivanje njegovih postupovnih prava. Protiv rješenja kojim se odbija usmeno ili pisano prevođenje oštećenik ima pravo žalbe.
+
+(4) Oštećeniku iz stavka 1. ovoga članka osigurat će se, na njegov zahtjev, usmeno prevođenje tijekom njegova saslušanja ili ispitivanja kao svjedoka te kada je prevođenje potrebno za aktivno sudjelovanje oštećenika na raspravi.«.
+
+#### Članak 16.
+
+U članku 53. stavak 1. mijenja se i glasi:
+
+»(1) Ako je oštećenik dijete, a interesi djeteta su u suprotnosti s interesima roditelja, tijelo koje vodi postupak pozvat će nadležno tijelo socijalne skrbi da djetetu imenuje posebnog skrbnika.«.
+
+#### Članak 17.
+
+U članku 54. stavak 2. mijenja se i glasi:
+
+»(2) Oštećenik, njegov zakonski zastupnik, posebni skrbnik iz članka 53. ovoga Zakona i opunomoćenik dužni su o svakoj promjeni adrese ili boravišta izvijestiti sud.«.
+
+#### Članak 18.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Osim u slučajevima iz članaka 206.c, 206.d i 206.e ovoga Zakona, kad državni odvjetnik utvrdi da nema osnova za progon za kazneno djelo za koje se kazneni postupak pokreće po službenoj dužnosti ili kad utvrdi da nema osnova za progon protiv neke od prijavljenih osoba, dužan je u roku od osam dana o tome izvijestiti žrtvu i uputiti ju da može sama poduzeti progon. Tako će postupiti i sud ako je donio rješenje o obustavi postupka zbog odustajanja državnog odvjetnika od progona u drugim slučajevima.
+
+(2) Žrtva ima pravo poduzeti, odnosno nastaviti progon za djelo iz stavka 1. ovoga članka u roku od osam dana od primitka obavijesti iz stavka 1. ovoga članka.
+
+(3) Ako je državni odvjetnik odustao od optužnice, žrtva može, preuzimajući progon, ostati pri podignutoj optužnici. Ako žrtva podigne novu optužnicu, postupit će se prema člancima 354. do 358. ovoga Zakona.
+
+(4) Žrtva koja nije upoznata da državni odvjetnik nije poduzeo progon ili da je odustao od progona može svoju izjavu da nastavlja postupak dati pred nadležnim sudom u roku od tri mjeseca od dana kad je doneseno rješenje o obustavi postupka, odnosno šest mjeseci od dana kad je državni odvjetnik odbacio prijavu.
+
+(5) Kad državni odvjetnik, odnosno sud obavještava žrtvu da može poduzeti ili nastaviti progon, dostavit će joj i naputak koje radnje može poduzeti radi ostvarivanja toga prava te joj u tu svrhu omogućiti uvid u spis.
+
+(6) Ako žrtva umre u tijeku postupka, njezin bračni i izvanbračni drug, životni partner ili neformalni životni partner te potomak, a ako njih nema, predak, brat, sestra te osoba koju je žrtva na temelju zakona bila dužna uzdržavati, mogu u roku od tri mjeseca od dana njezine smrti dati izjavu da preuzimaju ili nastavljaju kazneni progon.
+
+(7) Ako pravna osoba na čiju je štetu kazneno djelo počinjeno prestane postojati u tijeku postupka, pravni sljednik te osobe može u roku od tri mjeseca od prestanka postojanja pravne osobe na čiju je štetu kazneno djelo počinjeno dati izjavu da preuzima ili nastavlja kazneni progon.«.
+
+#### Članak 19.
+
+Članak 57. mijenja se i glasi:
+
+»(1) Ako žrtva u zakonskom roku ne pokrene ili ne nastavi progon, ili ako žrtva koja je preuzela ulogu oštećenika kao tužitelja ne dođe na raspravu iako je uredno pozvana, ili joj se poziv nije mogao uručiti zbog neprijavljivanja sudu promjene adrese ili boravišta, smatrat će se da je odustala od progona.
+
+(2) Ako žrtva koja je preuzela kazneni progon ne dođe na raspravu na koju je bila uredno pozvana, postupit će se prema članku 63. stavcima 2. do 4. ovoga Zakona.«.
+
+#### Članak 20.
+
+Članak 58. mijenja se i glasi:
+
+»(1) Žrtva koja je preuzela kazneni progon ima ista prava koja ima državni odvjetnik, osim prava koja državni odvjetnik ima kao državno tijelo.
+
+(2) U postupku koji se vodi na zahtjev žrtve koja je preuzela kazneni progon, državni odvjetnik ima pravo do završetka rasprave sam preuzeti progon i zastupanje optužbe.«.
+
+#### Članak 21.
+
+Članak 59. mijenja se i glasi:
+
+»(1) Žrtvi koja je preuzela ulogu oštećenika kao tužitelja kad se postupak vodi na njezin zahtjev za kazneno djelo za koje se prema zakonu može izreći kazna zatvora više od pet godina, može se, na njezino traženje, postaviti opunomoćenik ako je to u interesu postupka i ako žrtva u ulozi oštećenika kao tužitelja, prema svom imovnom stanju, ne može podmiriti troškove zastupanja.
+
+(2) O zahtjevu iz stavka 1. ovoga članka odlučuje sud pred kojim se vodi postupak, a opunomoćenika postavlja predsjednik suda iz reda odvjetnika. Ako u sjedištu suda nema dovoljno odvjetnika, opunomoćenika će postaviti predsjednik neposredno višeg suda iz reda odvjetnika na području višeg suda.«.
+
+#### Članak 22.
+
+U članku 61. stavak 3. mijenja se i glasi:
+
+»(3) Kada žrtva ili pravna osoba na čiju je štetu kazneno djelo počinjeno podnesu kaznenu prijavu ili prijedlog za progon, a u tijeku postupka se utvrdi da se radi o kaznenom djelu za koje se progoni po privatnoj tužbi, prijava, odnosno prijedlog smatra se kao pravovremena privatna tužba ako su podneseni u roku propisanom za privatnu tužbu.«.
+
+#### Članak 23.
+
+U članku 64. stavku 1. točka 5. mijenja se i glasi:
+
+»5) slobodno, nesmetano i povjerljivo komunicirati s braniteljem,«.
+
+#### Članak 24.
+
+U članku 65. stavak 2. mijenja se i glasi:
+
+»(2) Okrivljenika se odmah po uhićenju ili poduzimanju druge radnje za koju to predviđa ovaj Zakon, mora poučiti da ima pravo uzeti branitelja i da branitelj može biti prisutan njegovu ispitivanju. Okrivljenika koji izjavi da ne želi uzeti branitelja, tijelo kaznenog postupka dužno je upoznati na jednostavan i razumljiv način sa značenjem prava na branitelja i posljedicama odricanja od tog prava. Ako okrivljenik i nakon toga ne želi uzeti branitelja, može se nastaviti s poduzimanjem radnje, osim kada okrivljenik po zakonu mora imati branitelja. Odricanje od prava na branitelja mora biti izričito, nedvosmisleno i u pisanom obliku.«.
+
+#### Članak 25.
+
+U članku 66. stavku 3. druga rečenica mijenja se i glasi:
+
+»Branitelja na prijedlog suda, državnog odvjetnika te policije u slučaju iz članka 208.a ovoga Zakona, postavlja predsjednik suda.«.
+
+#### Članak 26.
+
+U članku 67. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Branitelj je ovlašten prisustvovati dokaznoj radnji prepoznavanja, suočenju i rekonstrukciji događaja, kada okrivljenik sudjeluje u tim radnjama.«.
+
+Dosadašnji stavci 2. do 5. postaju stavci 3. do 6.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., brojka: »2.« zamjenjuje se brojkom: »3.«.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., brojka: »3.« zamjenjuje se brojkom: »4.«.
+
+#### Članak 27.
+
+U članku 70. stavku 1. iza riječi: »drug« dodaju se riječi: »žrtve ili«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Branitelj ne može biti ni osoba koja je u istom predmetu postupala kao sudac, državni odvjetnik, istražitelj ili policijski službenik, ili je u istom predmetu osumnjičena.«.
+
+U stavku 5. druga i treća rečenica brišu se.
+
+#### Članak 28.
+
+Članak 75. briše se.
+
+#### Članak 29.
+
+Članak 76. briše se.
+
+#### Članak 30.
+
+U članku 86. stavku 3. brojka: »6.« zamjenjuje se brojkom: »7.«.
+
+#### Članak 31.
+
+U članku 97. stavku 4. riječi: »članka 208. stavka 3.« zamjenjuju se riječima: »članka 208.a stavka 1.«.
+
+#### Članak 32.
+
+U članku 98. stavci 5. i 6. mijenjaju se i glase:
+
+»(5) Mjere opreza mogu biti naložene prije i tijekom kaznenog postupka. Prije podizanja optužnice mjere opreza određuje, produljuje i ukida rješenjem državni odvjetnik, a sudac istrage kad odlučuje o istražnom zatvoru. Državni odvjetnik ili sudac istrage koji je mjeru odredio nadležan je za njezino produljenje ili ukidanje. Nakon podizanja optužnice pa do pravomoćnosti odnosno izvršnosti presude te mjere određuje, produljuje i ukida prvostupanjski sud.
+
+(6) Mjere opreza mogu trajati dok za to postoji potreba, a najdulje do izvršnosti presude kada se radi o mjerama opreza koje su određene zbog postojanja okolnosti iz članka 123. stavka 1. točaka 1., 3. i 4. ovoga Zakona, odnosno najdulje do pravomoćnosti presude kada se radi o mjerama opreza koje su određene zbog postojanja okolnosti iz članka 123. stavka 1. točaka 2. i 5. ovoga Zakona. Trajanje mjera opreza nije ograničeno rokovima trajanja istražnog zatvora. Svaka dva mjeseca, računajući od dana pravomoćnosti prethodnog rješenja o mjeri opreza, tijelo koje je odredilo mjeru opreza prije podizanja optužnice odnosno prvostupanjski sud, ispitat će po službenoj dužnosti postoji li još potreba za mjerom opreza te je rješenjem produljiti ili ukinuti ako više nije potrebna. Ako je mjera opreza određena kao uvjet jamstva, kontrola produljenja mjere neće se provoditi.«.
+
+#### Članak 33.
+
+U članku 102. stavak 1. mijenja se i glasi:
+
+»(1) Istražni zatvor određen iz razloga navedenih u članku 123. stavku 1. točki 1. ovoga Zakona može se ukinuti ako okrivljenik ili tko drugi za njega dade jamstvo, a sam okrivljenik obeća da se neće kriti i da bez odobrenja neće napustiti svoje boravište.«.
+
+#### Članak 34.
+
+U članku 108. stavku 5. točki 4. iza riječi: »sposobnosti« točka se zamjenjuje zarezom, a iza točke 4. dodaje se točka 5. koja glasi:
+
+»5) roditelja ili skrbnika ako je uhićenik dijete.«.
+
+Stavci 6. i 7. mijenjaju se i glase:
+
+»(6) Nakon predaje pouke policija će pitati uhićenika je li pouku razumio. Ako uhićenik izjavi da nije razumio pouku, policija će ga o njegovim pravima poučiti na njemu razumljiv način.
+
+(7) Uhićenik iz članka 107. točaka 2. i 3. ovoga Zakona ima pravo slobodnog, neometanog i povjerljivog razgovora s braniteljem čim je izabrao branitelja, odnosno čim je donesena odluka o imenovanju branitelja, a prije ispitivanja u trajanju do trideset minuta. Ako uhićenik nema izabranog branitelja ili on ne može doći, mora mu se omogućiti da uzme branitelja s liste dežurnih odvjetnika Hrvatske odvjetničke komore. Ako uhićenik izjavi da ne želi uzeti branitelja, policijski službenik dužan ga je upoznati na jednostavan i razumljiv način sa značenjem prava na branitelja i posljedicama odricanja od tog prava. Odricanje od prava na branitelja mora biti izričito, nedvosmisleno i u pisanom obliku.«.
+
+Iza stavka 7. dodaju se stavci 8. i 9. koji glase:
+
+»(8) Uhićenik može, dok traje uhićenje, komunicirati barem s jednom trećom osobom po svom izboru. Ovo se pravo može ograničiti samo ako je to nužno radi zaštite interesa postupka ili drugih važnih interesa.
+
+(9) Ako je uhićenik dijete, dok traje uhićenje, omogućit će se uhićenom djetetu komunikacija s njegovim roditeljem ili drugom osobom koja o djetetu skrbi, osim ako je to protivno najboljim interesima djeteta, ili ako je to nužno radi zaštite interesa postupka ili drugih važnih interesa.«.
+
+#### Članak 35.
+
+U članku 108.a stavku 1. točke 1. i 6. mijenjaju se i glase:
+
+»1) razlozima uhićenja i osnovama sumnje,
+
+6) pravu stranog državljanina da će na njegov zahtjev o uhićenju odmah biti obaviješteno nadležno konzularno tijelo ili veleposlanstvo te će mu se s njima bez odgađanja omogućiti kontakt (članak 116. ovoga Zakona),«.
+
+#### Članak 36.
+
+Članak 108.b mijenja se i glasi:
+
+»(1) Ako postoji hitna potreba da se otklone ozbiljne i teške posljedice za život, slobodu ili tjelesni integritet osobe ili za otklanjanjem opasnosti da će se sakriti ili uništiti dokazi, državni odvjetnik može naložiti policiji odgodu obavještavanja osoba iz članka 108.a stavka 1. točaka 3. i 5. ovoga Zakona samo dok za to postoje razlozi, a najduže 12 sati od trenutka uhićenja.
+
+(2) U slučaju iz stavka 1. ovoga članka u izvješću o uhićenju i dovođenju priložit će se nalog državnog odvjetnika u kojem će se navesti konkretni razlozi odgode davanja obavijesti.
+
+(3) U slučaju iz stavka 1. ovoga članka, uhićenika se za vrijeme odgode može ispitati samo o okolnostima koje su dovele do odgode obavještavanja.«.
+
+#### Članak 37.
+
+Iza članka 108.b dodaje se članak 108.c koji glasi:
+
+»Članak 108.c
+
+Kada policija ispituje uhićenika, postupit će sukladno odredbama članka 208.a ovoga Zakona.«.
+
+#### Članak 38.
+
+Članak 114. mijenja se i glasi:
+
+»Pritvorenik ima pravo slobodnog, neometanog i povjerljivog razgovora s braniteljem.«.
+
+#### Članak 39.
+
+Članak 116. mijenja se i glasi:
+
+»Konzularni i diplomatski predstavnici mogu posjećivati svoje državljane koji su uhićeni ili pritvoreni, razgovarati s njima te im pomoći u izboru branitelja.«.
+
+#### Članak 40.
+
+U članku 124. stavku 3. iza riječi: »jamstva« dodaju se zarez i riječi: »a prilikom produljenja trajanja istražnog zatvora i okolnosti koje opravdavaju njegovu daljnju primjenu«.
+
+#### Članak 41.
+
+U članku 125. stavak 2. mijenja se i glasi:
+
+»(2) Žrtva će, ako je tako zahtijevala, putem policije odmah biti obaviještena o ukidanju pritvora ili istražnog zatvora protiv okrivljenika, osim ako bi time okrivljenik bio doveden u opasnost. Žrtva će biti obaviještena i o mjerama koje su poduzete radi njezine zaštite, ako su takve mjere određene.«.
+
+#### Članak 42.
+
+U članku 128. druga rečenica briše se.
+
+#### Članak 43.
+
+U članku 130. stavku 4. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Prilikom puštanja zatvorenika na slobodu, upravitelj zatvora postupit će sukladno članku 125. stavku 2. ovoga Zakona.«.
+
+#### Članak 44.
+
+U članku 136. stavku 1. riječi: »i straže« brišu se, a riječi: »prisilna sredstva« zamjenjuju se riječima: »sredstva prisile«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) U slučaju bijega zatvorenika iz ustanove za osobe lišene slobode, čelnik ustanove postupit će sukladno članku 125. stavku 2. ovoga Zakona.«.
+
+Dosadašnji stavci 3. do 5. postaju stavci 4. do 6.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., brojka: »3.« zamjenjuje se brojkom: »4.«.
+
+#### Članak 45.
+
+U članku 139. stavak 5. mijenja se i glasi:
+
+»(5) Zatvorenik ima pravo slobodnog, neometanog i povjerljivog razgovora s braniteljem.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Iznimno od stavka 3. ovoga članka, zatvorenik ima pravo, bez ograničenja i nadzora sadržaja, podnijeti pritužbu pučkom pravobranitelju i zaprimiti njegov odgovor, na način propisan odredbama posebnog zakona.«.
+
+#### Članak 46.
+
+U članku 141. stavku 3. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Sudac istrage ili predsjednik vijeća odnosno sudac pojedinac pred kojim se vodi postupak koji su zaprimili pritužbu zatvorenika, ispitat će navode iz pritužbe te o utvrđenome, kao i o mjerama koje su poduzete da se otklone uočene nepravilnosti, u roku od trideset dana od dana zaprimanja pritužbe pisanim putem obavijestiti podnositelja.«.
+
+U stavku 4. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Prilikom puštanja zatvorenika na slobodu, upravitelj zatvora postupit će sukladno članku 125. stavku 2. ovoga Zakona.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Zatvorenik ima pravo pritužbe predsjedniku suda na postupak i odluku zaposlenika zatvora u kojem se izvršava istražni zatvor te pravo podnijeti zahtjev za sudsku zaštitu protiv postupka ili odluke kojom se nezakonito prikraćuje ili ograničava njegovo pravo, uz odgovarajuću primjenu odredaba zakona o izvršavanju kazne zatvora.«.
+
+#### Članak 47.
+
+Članak 142. mijenja se i glasi:
+
+»Konzularni i diplomatski predstavnici mogu posjećivati svoje državljane koji su u istražnom zatvoru, razgovarati s njima te im pomoći u izboru branitelja.«.
+
+#### Članak 48.
+
+U članku 145. stavak 4. mijenja se i glasi:
+
+»(4) Troškovi iz stavka 2. točaka 1. do 5. ovoga članka, osim onih koji su nastali u tijelima koja se financiraju iz državnog proračuna te nužni izdaci postavljenog branitelja i postavljenog opunomoćenika oštećenika kao tužitelja u postupku zbog kaznenih djela za koja se progoni po službenoj dužnosti, isplaćuju se iz sredstava tijela koje vodi kazneni postupak, a naplaćuju kasnije od osoba koje su ih dužne naknaditi prema odredbama ovoga Zakona.«.
+
+U stavku 6. riječi: »Zakona o pravu« zamjenjuju se riječima: »zakona kojim se uređuje pravo«.
+
+#### Članak 49.
+
+U članku 148. stavci 1. i 6. mijenjaju se i glase:
+
+»(1) Kad sud okrivljenika proglasi krivim, u presudi će mu naložiti da podmiri troškove kaznenog postupka, osim ako ne postoje uvjeti za oslobođenje od plaćanja troškova u cijelosti ili djelomično.
+
+(6) U odluci kojom rješava o troškovima sud može okrivljenika osloboditi obveze da naknadi u cijelosti ili djelomično troškove kaznenog postupka iz članka 145. stavka 2. točaka 1. do 6. ovoga Zakona te nagradu i nužne izdatke postavljenog branitelja, zbog lošeg imovinskog stanja te ako bi njihovim plaćanjem bilo dovedeno u pitanje uzdržavanje okrivljenika ili osoba koje je on dužan uzdržavati. Ako se te okolnosti utvrde nakon donošenja odluke o troškovima, predsjednik vijeća može posebnim rješenjem osloboditi okrivljenika dužnosti naknade troškova kaznenog postupka. Sud može od okrivljenika zatražiti dostavljanje potvrde o imovinskom stanju i prihodima od porezne uprave.«.
+
+#### Članak 50.
+
+U članku 149. stavku 4. riječi: »Oštećenik koji je odustao« zamjenjuju se riječima: »Žrtva koja je odustala«.
+
+#### Članak 51.
+
+U članku 153. stavku 1. riječi: »ovlaštenih osoba« zamjenjuje se riječju: »oštećenika«.
+
+#### Članak 52.
+
+Članak 154. mijenja se i glasi:
+
+»(1) Prijedlog za ostvarivanje imovinskopravnog zahtjeva u kaznenom postupku može podnijeti oštećenik.
+
+(2) Kod podnošenja prijedloga oštećenik će navesti je li ostvario naknadu ili podnio zahtjev prema članku 43. stavku 3. ovoga Zakona.«.
+
+#### Članak 53.
+
+U članku 161. stavak 1. mijenja se i glasi:
+
+»(1) Stvari koje ne služe za utvrđivanje činjenice u kaznenom postupku, predat će se osobi od koje su oduzete, a kojoj nedvojbeno pripadaju, i prije završetka postupka.«.
+
+U stavku 2. riječ: »oštećenika« zamjenjuje se riječju: »osoba«.
+
+#### Članak 54.
+
+U članku 175. stavku 5. riječi: »i internetskoj stranici« brišu se.
+
+#### Članak 55.
+
+U članku 186. stavak 7. briše se.
+
+#### Članak 56.
+
+U članku 196. stavku 2. točki 1. riječi: »stavku 3.« zamjenjuju se riječima: »stavcima 3. i 4.«.
+
+#### Članak 57.
+
+U članku 197. stavku 1. riječ: »oštećenika« zamjenjuje se riječju: »žrtve«, a riječ: »oštećenik« zamjenjuje se riječju: »žrtva«.
+
+U stavku 4. brojka: »48.« zamjenjuje se brojkom: »47.«.
+
+#### Članak 58.
+
+U članku 202. stavku 2. točka 1. mijenja se i glasi:
+
+»1) osumnjičenik je osoba u odnosu na koju postoje osnove sumnje da je počinila kazneno djelo i protiv koje policija ili državno odvjetništvo poduzimaju radnje radi razjašnjenja te sumnje,«.
+
+Stavci 11. i 12. mijenjaju se i glase:
+
+»(11) Žrtva kaznenog djela je fizička osoba koja je pretrpjela fizičke i duševne posljedice, imovinsku štetu ili bitnu povredu temeljnih prava i sloboda koji su izravna posljedica kaznenog djela. Žrtvom kaznenog djela smatraju se i bračni i izvanbračni drug, životni partner ili neformalni životni partner te potomak, a ako njih nema, predak, brat i sestra one osobe čija je smrt izravno prouzročena kaznenim djelom te osoba koju je ona na temelju zakona bila dužna uzdržavati.
+
+(12) Oštećenik je žrtva kaznenog djela i pravna osoba na čiju je štetu kazneno djelo počinjeno koje sudjeluju u svojstvu oštećenika u postupku.«.
+
+U stavku 24. iza riječi: »pravom« briše se zarez te se dodaje riječ: »ili«.
+
+U stavku 38. riječ: »odrasla« zamjenjuje se riječima: »poslovno sposobna«.
+
+#### Članak 59.
+
+U članku 205. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Ako je kaznenu prijavu podnijela žrtva, potvrdit će joj se u pisanom obliku da je podnijela kaznenu prijavu uz naznaku osnovnih podataka o prijavljenom kaznenom djelu. Ako žrtva ne govori ili ne razumije jezik nadležnog tijela, omogućit će joj se podnošenje kaznene prijave na jeziku koji razumije uz pomoć tumača ili druge osobe koja govori i razumije jezik nadležnog tijela i jezik kojim se koristi žrtva. Na zahtjev žrtve koja ne govori ili ne razumije jezik koji je u uporabi u nadležnom tijelu, pisana potvrda o podnesenoj kaznenoj prijavi prevest će se na teret proračunskih sredstava na jezik koji žrtva razumije.«.
+
+Dosadašnji stavci 3. do 8. postaju stavci 4. do 9.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., brojke: »5. i 6.« zamjenjuju se brojkama: »6. i 7.«.
+
+#### Članak 60.
+
+U članku 206. stavku 3. riječ: »oštećenika« zamjenjuje se riječju: »žrtvu«, a druga rečenica mijenja se i glasi:
+
+»O odbacivanju prijave izvijestit će bez odgode podnositelja i osobu protiv koje je prijava podnesena, ako oni to zahtijevaju.«.
+
+#### Članak 61.
+
+U članku 206.b stavku 2. brojka: »5.« zamjenjuje se brojkom: »6.«.
+
+#### Članak 62.
+
+U članku 206.c stavku 2. u prvoj i drugoj rečenici riječ: »oštećeniku« zamjenjuje se riječju: »žrtvi«, a u trećoj rečenici riječ: »Oštećenika« zamjenjuje se riječju: »Žrtvu«.
+
+Iza treće rečenice dodaje se četvrta rečenica koja glasi:
+
+»Protiv rješenja državnog odvjetnika iz stavka 1. ovoga članka žalba nije dopuštena.«.
+
+U stavku 3., u drugoj rečenici, riječ: »oštećenika« zamjenjuje se riječju: »žrtvu«, a riječ: »ga« zamjenjuje se riječju: »je«. U trećoj rečenici riječ: »oštećenika« zamjenjuje se riječju: »žrtvu«.
+
+#### Članak 63.
+
+U članku 206.d stavku 3., u prvoj rečenici, riječ: »oštećeniku« na dva se mjesta zamjenjuje riječju: »žrtvi«.
+
+#### Članak 64.
+
+U članku 206.g stavku 1. riječi: »stavku 6. i 7.« zamjenjuju se riječima: »stavcima 7. i 8.«.
+
+U stavku 4. brojka: »6.« zamjenjuju se brojkom: »7.«.
+
+#### Članak 65.
+
+U članku 207. stavku 2. prva rečenica mijenja se i glasi:
+
+»O poduzimanju izvida kaznenih djela policija će pravovremeno obavijestiti državnog odvjetnika.«.
+
+U stavku 5. riječ: »odmah« zamjenjuje se riječju: »pravovremeno«.
+
+#### Članak 66.
+
+Članak 208. mijenja se i glasi:
+
+»(1) Policija može prikupljati obavijesti od građana. U prikupljanju obavijesti građani se ne mogu ispitivati u svojstvu svjedoka ili vještaka.
+
+(2) Ako je to potrebno radi otkrivanja kaznenih djela drugih osoba, obavijesti se mogu prikupljati od osoba koje su u pritvoru. Odobrenje za njihovo prikupljanje daje državni odvjetnik, a ako je pritvor produljen, odobrenje daje sudac istrage. Te se obavijesti prikupljaju u prisutnosti branitelja.
+
+(3) Prikupljanje obavijesti iz stavka 2. ovoga članka od osoba koje su u istražnom zatvoru ili u drugoj ustanovi za osobe lišene slobode moguće je samo ako je to, na temelju pisanog prijedloga državnog odvjetnika, odobrio sudac istrage ili predsjednik vijeća, u prisutnosti branitelja, odnosno odvjetnika kojega ta osoba sama izabere ili joj ga odredi sudac istrage.
+
+(4) Radi prikupljanja obavijesti iz stavka 1. ovoga članka policija može pozivati građane. Osoba koja se odazvala pozivu, a odbije dati obavijesti, može u svakom trenutku napustiti policijske prostorije te se ne može ponovno pozivati zbog istog razloga.
+
+(5) Ako se u odnosu na osobu od koje policija prikuplja obavijesti tijekom prikupljanja obavijesti pojave osnove sumnje da je počinila ili sudjelovala u počinjenju kaznenog djela, prekinut će se prikupljanje obavijesti. Od te osobe policija više ne može prikupljati obavijesti već je može ispitati u svojstvu osumnjičenika prema odredbama članka 208.a ovoga Zakona.«.
+
+#### Članak 67.
+
+Iza članka 208. dodaju se članci 208.a i 208.b koji glase:
+
+»Članak 208.a
+
+(1) Policija može pozvati osumnjičenika radi ispitivanja za kaznena djela za koja se kazneni postupak pokreće po službenoj dužnosti i po prijedlogu. Prisilno se može dovesti osumnjičenik koji se nije odazvao pozivu samo ako je u pozivu bio na to upozoren ili iz okolnosti očito proizlazi da odbija primitak poziva. Osumnjičenik koji se odazvao pozivu ili je prisilno doveden, a odbije iskazivati, ne može se ponovno pozivati niti prisilno dovoditi zbog istog razloga.
+
+(2) Poziv osumnjičeniku mora sadržavati obavijest za što ga se sumnjiči i pouku:
+
+1) o pravu na branitelja,
+
+2) o pravu na tumačenje i prevođenje sukladno članku 8. ovoga Zakona,
+
+3) o pravu da nije dužan iskazivati niti odgovarati na pitanja te
+
+4) o pravu da u svakom trenutku može napustiti policijske prostorije, osim u slučaju iz članka 108. ovoga Zakona.
+
+(3) Osumnjičenika koji se odazvao pozivu i osumnjičenika koji je prisilno doveden policija će prije početka ispitivanja upitati je li primio pisanu pouku o pravima iz stavka 2 ovog članka. Ako osumnjičenik nije primio pisanu pouku o pravima ona će mu se uručiti. Policija će pitati osumnjičenika je li pouku razumio. Ako osumnjičenik izjavi da nije razumio pouku, policija će ga o njegovim pravima poučiti na njemu razumljiv način. Primitak pouke i sve druge radnje u vezi s tim, zabilježit će se u zapisniku.
+
+(4) Ako osumnjičenik izjavi da ne želi uzeti branitelja, policijski službenik dužan ga je upoznati na jednostavan i razumljiv način sa značenjem prava na branitelja i posljedicama odricanja od tog prava. Ako osumnjičenik i nakon toga ne želi uzeti branitelja, može se nastaviti s njegovim ispitivanjem, osim kada osumnjičenik po zakonu mora imati branitelja.
+
+(5) Osumnjičeniku koji izjavi da želi uzeti branitelja omogućit će se da uzme branitelja i u tu svrhu zastati s ispitivanjem do dolaska branitelja, a najkasnije tri sata od kad je osumnjičenik izjavio da želi uzeti branitelja. Ako osumnjičenik ne izabere branitelja ili branitelj kojeg želi ne može doći, omogućit će mu se da uzme branitelja s liste dežurnih odvjetnika Hrvatske odvjetničke komore.
+
+(6) Ispitivanje osumnjičenika sukladno ovom članku snimit će se audio-video uređajem. Snimkom se mora zabilježiti pouka osumnjičeniku iz stavka 3. ovoga članka, izjave osumnjičenika iz stavaka 3., 4. i 5. ovoga članka i upozorenje da se ispitivanje snima i da snimljeni iskaz može pod uvjetima iz ovog stavka biti upotrijebljen kao dokaz u postupku. Uz snimku se sastavlja zapisnik sukladno članku 275. ovoga Zakona. Snimka i zapisnik ispitivanja osumnjičenika mogu se upotrijebiti kao dokaz u kaznenom postupku.
+
+(7) Ako ovim člankom nije drugačije propisano, na ispitivanje osumnjičenika primjenjuju se odredbe o ispitivanju okrivljenika iz članaka 272. do 282. ovoga Zakona.
+
+(8) Ako prilikom ispitivanja policija nije poučila osumnjičenika sukladno stavku 3. ovoga članka i nije postupila sukladno odredbama stavaka 4. do 6. ovoga članka, iskaz osumnjičenika i dokazi za koje se iz tog iskaza saznalo ne mogu se upotrijebiti kao dokaz u kaznenom postupku.
+
+(9) Policija će ispitati osumnjičenika iz stavka 1. ovoga članka bez odgode. Policija je dužna odmah pustiti osumnjičenika iz stavka 1. ovoga članka koji odbije iskazivati.
+
+#### Članak 208.b
+
+(1) Kad postoji vjerojatnost da osoba koja je zatečena na mjestu počinjenja kaznenog djela s elementima nasilja ili kaznenog djela koje predstavlja prijetnju javnoj sigurnosti ima saznanja o okolnostima počinjenja djela ili počinitelju, a njihovo prikupljanje nije moguće ili je bitno otežano na mjestu gdje je osoba zatečena i razumno je vjerovati da će odgoda prikupljanja obavijesti štetiti probicima kaznenog progona, može se od te osobe zahtijevati da u pratnji policijskih službenika dođe u policijske prostorije radi davanja obavijesti. Ako ona to bez opravdanog razloga odbije, može se prisilno dovesti. Prisilno dovedena osoba bit će obaviještena da ima pravo na branitelja, pravo na tumačenje i prevođenje, da nije dužna dati obavijest i da po završetku prikupljanja obavijesti ili po isteku šest sati od trenutka dolaska u policijske prostorije iste može odmah napustiti. Ako se prisilno dovedena osoba uhiti, vrijeme uhićenja teče od trenutka dovođenja u policijske prostorije.
+
+(2) Policija će od osoba iz stavka 1. ovoga članka obavijesti uzeti odmah, a najkasnije u roku od šest sati od dolaska u službene prostorije. Prikupljanje obavijesti od osoba iz stavka 1. ovoga članka može trajati dulje od šest sati samo uz njihov pisani pristanak. Policija je odmah dužna pustiti osobe iz stavka 1. ovoga članka koje odbiju dati obavijest.
+
+(3) Ako se u odnosu na osobu od koje policija prikuplja obavijesti tijekom prikupljanja obavijesti pojave osnove sumnje da je počinila ili sudjelovala u počinjenju kaznenog djela, prekinut će se prikupljanje obavijesti. Od te osobe policija više ne može prikupljati obavijesti već je može ispitati u svojstvu osumnjičenika prema odredbama članka 208.a ovoga Zakona.«.
+
+#### Članak 68.
+
+Članak 212. mijenja se i glasi:
+
+»(1) Policija može, ako postoji opasnost od odgode, i prije započinjanja kaznenog postupka za kaznena djela za koja je propisana kazna zatvora do pet godina obaviti pretragu (članak 246.), privremeno oduzimanje predmeta (članak 261.), očevid (članak 304.), uzimanje otisaka prstiju i drugih dijelova tijela (članci 211. i 307.).
+
+(2) Za kaznena djela za koja je propisana kazna zatvora teža od pet godina o postojanju opasnosti od odgode i potrebi provođenja dokaznih radnji policija odmah obavještava državnog odvjetnika, osim za provođenje dokazne radnje privremenog oduzimanja predmeta (članak 261.) i pretrage (članak 246.). Državni odvjetnik može sam provesti dokazne radnje iz stavka 1. ovoga članka ili njihovo provođenje prepustiti policiji ili naložiti istražitelju. Državni odvjetnik koji stigne na mjesto očevida ili pretrage u tijeku njegova provođenja može preuzeti provođenje radnje.
+
+(3) Ako je potrebno provesti radnje iz stavaka 1. i 2. ovoga članka prema službenoj osobi koja je ovlaštena i dužna otkrivati i prijavljivati kaznena djela za koja se progoni po službenoj dužnosti policija će odmah obavijestiti državnog odvjetnika koji će odlučiti o tome hoće li sam provesti tu radnju ili će dati nalog istražitelju.
+
+(4) Ako postoji opasnost od odgode, državni odvjetnik može odrediti potrebna vještačenja, osim ekshumacije.
+
+(5) O rezultatima radnji koje je policija provela prema stavcima 1. i 2. ovoga članka, bez odgode obavještava državnog odvjetnika.«.
+
+#### Članak 69.
+
+U članku 213.c stavku 1. riječi: »oštećenik koji je preuzeo« zamjenjuju se riječima: »žrtva koja je preuzela«.
+
+U stavku 2. brojka: »5.« zamjenjuje se brojkom: »4.«.
+
+U stavku 4. brojka: »6.« zamjenjuje se brojkom: »5.«, a druga rečenica se briše.
+
+#### Članak 70.
+
+U članku 217. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Ako se u tijeku istrage pokaže da postupak treba proširiti na drugo kazneno djelo ili protiv druge osobe, državni odvjetnik će donijeti rješenje o proširenju istrage za to drugo djelo ili protiv te druge osobe. Rješenje mora sadržavati podatke iz stavka 2. ovoga članka. Na rješenje o proširenju istrage primjenjuju se odredbe članaka 218. i 218.a ovoga Zakona.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 71.
+
+U članku 218. stavku 7. brojka: »47.« zamjenjuje se brojkom: »51.«.
+
+Stavci 8. i 9. brišu se.
+
+#### Članak 72.
+
+U članku 219. stavak 3. mijenja se i glasi:
+
+»Za kaznena djela iz nadležnosti županijskog suda provođenje dokazne radnje ispitivanja okrivljenika državni odvjetnik ne može povjeriti istražitelju.«.
+
+#### Članak 73.
+
+U članku 221. brojka: »47.« zamjenjuje se brojkom: »51.«.
+
+#### Članak 74.
+
+U članku 225. stavku 1. riječi: »oštećenik koji je preuzeo« zamjenjuju se riječima: »žrtva koja je preuzela«.
+
+U stavku 4. riječi: »obavještava oštećenika« zamjenjuju se riječima: »će ga o tome obavijestiti«.
+
+#### Članak 75.
+
+Članak 229. mijenja se i glasi:
+
+»(1) Istraga se mora završiti u roku od šest mjeseci od dana pravomoćnosti rješenja o provođenju istrage. Ako istragu nije moguće završiti u tom roku, o razlozima će se izvijestiti državni odvjetnik koji je dužan poduzeti mjere da se istraga završi.
+
+(2) Kada za to postoje opravdani razlozi državni odvjetnik može rok iz stavka 1. ovoga članka produljiti za najviše šest mjeseci. O razlozima produljenja roka završetka istrage državni odvjetnik dužan je izvijestiti višeg državnog odvjetnika.
+
+(3) Iznimno, ako istragu nije bilo moguće završiti u roku iz stavka 2. ovoga članka, a nisu ispunjeni uvjeti za prekid istrage iz članka 223. ovoga Zakona, državni odvjetnik će o razlozima zbog kojih istraga nije završena izvijestiti Glavnog državnog odvjetnika, koji može rok iz stavka 2. ovoga članka produljiti za najviše šest mjeseci.
+
+(4) O produljenju roka završetka istrage odlučuje se rješenjem protiv kojeg žalba nije dopuštena. Rješenje o produljenju roka istrage državni odvjetnik dostavit će okrivljeniku i žrtvi.
+
+(5) Ako po isteku roka iz stavka 3. ovoga članka istraga nije završena, okrivljenik ima pravo sucu istrage podnijeti prigovor zbog odugovlačenja postupka. Ako sudac istrage utvrdi da je okrivljenikov prigovor osnovan, rješenjem će odrediti rok u kojem državni odvjetnik mora završiti istragu. O završetku istrage državni je odvjetnik dužan obavijestiti suca istrage. Ako sudac istrage utvrdi da je prigovor neosnovan, obavijestit će o tome okrivljenika.«.
+
+#### Članak 76.
+
+Članak 230. mijenja se i glasi:
+
+»(1) Državni odvjetnik je dužan u roku od mjesec dana od upisa završetka istrage ili istraživanja u upisnik kaznenih prijava podignuti optužnicu ili obustaviti istragu odnosno odbaciti kaznenu prijavu. Kada za to postoje opravdani razlozi, viši državni odvjetnik može na prijedlog državnog odvjetnika rješenjem protiv kojeg žalba nije dopuštena, rok za donošenje odluke produljiti za najviše dva mjeseca, o čemu će obavijestiti okrivljenika i žrtvu.
+
+(2) Ako državni odvjetnik u rokovima iz stavka 1. ovoga članka nije podignuo optužnicu smatrat će se da je odustao od kaznenog progona te je dužan u roku od osam dana donijeti rješenje o odbačaju kaznene prijave ili rješenje o obustavi istrage i dostaviti ga okrivljeniku i žrtvi.
+
+(3) U slučaju iz stavka 2. ovoga članka, žrtva kaznenog djela ima prava iz članka 55. ovoga Zakona.«.
+
+#### Članak 77.
+
+U članku 270. stavku 1. iza riječi: »vraćeni« dodaju se riječi: »čim više nisu potrebni za daljnje vođenje postupka«.
+
+#### Članak 78.
+
+Članak 271. briše se.
+
+#### Članak 79.
+
+U članku 273. stavak 2. mijenja se i glasi:
+
+»(2) Okrivljenik, koji je prema stavku 1. ovoga članka poučen o pravima, pozvat će se da se izričito izjasni o tome hoće li uzeti branitelja po vlastitom izboru. Okrivljenika koji izjavi da ne želi uzeti branitelja, tijelo koje provodi ispitivanje dužno je upoznati na jednostavan i razumljiv način sa značenjem prava na branitelja i posljedicama odricanja od tog prava. Ako okrivljenik i nakon toga ne želi uzeti branitelja, može se nastaviti s ispitivanjem, osim kada okrivljenik po zakonu mora imati branitelja. Izjava okrivljenika unijet će se u zapisnik.«.
+
+#### Članak 80.
+
+U članku 276. stavak 4. mijenja se i glasi:
+
+»(4) Kad okrivljenik završi iskaz, postavit će mu se pitanja ako je potrebno da se predoči neki dokaz, popune praznine ili otklone proturječnosti i nejasnoće u njegovu izlaganju. Tijekom tog dijela ispitivanja, okrivljenik se ne može dogovarati sa svojim braniteljem kako će odgovoriti na pojedino postavljeno pitanje, ali branitelj može predložiti okrivljeniku da ne odgovori na pojedino postavljeno pitanje. Nakon tijela koje provodi ispitivanje, pitanja može postaviti i branitelj.«.
+
+#### Članak 81.
+
+U članku 278. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Okrivljenik će se poučiti o pravu na branitelja koji može prisustvovati suočenju. U tom se slučaju na odgovarajući način primjenjuju odredbe članka 273. stavaka 3. i 5. ovoga Zakona.«.
+
+Dosadašnji stavci 2. do 4. postaju stavci 3. do 5.
+
+#### Članak 82.
+
+U članku 285. stavku 1. točki 5. iza riječi: »psiholozi« dodaju se zarez i riječi: »probacijski službenici«.
+
+U stavku 1. točki 6. iza riječi: »zakonom« točka se zamjenjuje zarezom, a iza točke 6. dodaje se točka 7. koja glasi:
+
+»7) osoba na koju je prenesena imovinska korist, o načinu stjecanja imovinske koristi, kada se u odnosu na tu osobu primjenjuju odredbe Glave XXVIII. ovoga Zakona.«.
+
+#### Članak 83.
+
+U članku 288. stavku 2. iza riječi: »okrivljenikom« dodaje se zarez i riječ: »žrtvom«.
+
+U stavku 3. druga rečenica mijenja se i glasi:
+
+»Svjedok će se upozoriti i da nije dužan odgovarati na pitanja predviđena u članku 286. stavku 1. ovoga Zakona i to će se upozorenje unijeti u zapisnik.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Svjedok će se upozoriti i da nije dužan odgovarati na pitanja predviđena u članku 44. stavku 4. točki 4. i članku 44. stavku 5. točki 3. ovoga Zakona i to će se upozorenje unijeti u zapisnik.«.
+
+#### Članak 84.
+
+U članku 292. stavku 4. riječi: »i spolnog ćudoređa« brišu se, a iza druge rečenice dodaje se treća rečenica koja glasi:
+
+»Na način određen u stavku 3. ovoga članka ispitat će se i žrtva u odnosu na koju su utvrđene posebne potrebe zaštite sukladno članku 43.a ovoga Zakona, ako ona to zahtijeva.«.
+
+#### Članak 85.
+
+U članku 297. stavku 3. riječi: »članka 288. stavka 3.« zamjenjuju se riječima: »članka 288. stavaka 3. i 4.«.
+
+#### Članak 86.
+
+U članku 300. stavku 1. točki 6. riječi: »članka 45. stavka 1. točke 4.« zamjenjuju se riječima: »članka 44. stavka 4. točke 4. i članka 44. stavka 5. točke 3.«.
+
+#### Članak 87.
+
+U članku 301. stavak 6. mijenja se i glasi:
+
+»Ako okrivljenik obavlja prepoznavanje postupit će se prema člancima 273. i 275. ovoga Zakona, a ako je predmet prepoznavanja okrivljenik, poučit će se o pravu na branitelja koji može prisustvovati prepoznavanju. U tom se slučaju na odgovarajući način primjenjuju odredbe članka 273. stavaka 2., 3. i 5. ovoga Zakona. Ako svjedok obavlja prepoznavanje postupit će se prema članku 288. stavcima 2., 3. i 4. ovoga Zakona.«.
+
+#### Članak 88.
+
+U članku 305. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Ako se rekonstrukcija poduzima uz sudjelovanje okrivljenika, okrivljenik će se poučiti o pravu na branitelja koji može prisustvovati rekonstrukciji. U tom se slučaju na odgovarajući način primjenjuju odredbe članka 273. stavaka 2., 3. i 5. ovoga Zakona.«.
+
+#### Članak 89.
+
+U članku 306. stavku 1. iza riječi: »tragova« dodaju se riječi: »te njihovo izuzimanje«.
+
+#### Članak 90.
+
+U članku 307. iza stavka 3. dodaju se stavci 4. do 8. koji glase:
+
+»(4) Otisci iz stavka 1. ovoga članka mogu se koristiti i obrađivati samo tako dugo dok se pridruživanje tragu ili utvrđivanje istovjetnosti ili podrijetla ne isključi, a potom se uništavaju, osim ako nešto drugo nije propisano zakonom.
+
+(5) Otisci iz stavka 1. ovoga članka uzeti od okrivljenika koji je kasnije u kaznenom postupku pravomoćno osuđen čuvaju se dvadeset godina nakon završetka kaznenog postupka. Iznimno, ako je riječ o kaznenom djelu za koje je propisana kazna zatvora od deset godina ili teža, ili ako je riječ o kaznenom djelu protiv spolne slobode za koje je propisana kazna zatvora teža od pet godina, otisci iz stavka 1. ovoga članka mogu se čuvati najdulje četrdeset godina od završetka kaznenog postupka.
+
+(6) Otisci iz stavka 1. ovoga članka uzeti od okrivljenika koji je kasnije u kaznenom postupku pravomoćno oslobođen optužbe, ili je postupak obustavljen, ili je optužba odbijena, uništit će se odmah po završetku postupka.
+
+(7) Po isteku rokova iz stavaka 5. i 6. ovoga članka, nadležno tijelo će po službenoj dužnosti brisati te podatke.
+
+(8) Otisci iz stavka 1. ovoga članka pronađeni na mjestu događaja koji nisu pridruženi određenoj osobi čuvaju se trajno.«.
+
+#### Članak 91.
+
+U članku 311. stavku 2. iza riječi: »okrivljenikom« dodaje se zarez i riječ: »žrtvom«.
+
+#### Članak 92.
+
+U članku 334. točki 3. iza riječi: »(članak 253.),« dodaju se riječi: »izrade, nabavljanja, posjedovanja, prodaje ili davanja na uporabu sredstava za krivotvorenje (članak 283.),«, a iza riječi: »istraživanja,« dodaju se riječi: »davanja lažnog iskaza (članak 305.),«.
+
+#### Članak 93.
+
+U članku 335. stavak 7. briše se.
+
+Dosadašnji stavak 8. postaje stavak 7.
+
+#### Članak 94.
+
+U članku 344. stavku 1. točka 5. mijenja se i glasi:
+
+»5) optužnica podignuta u roku iz članka 230. stavka 1., članka 356. stavaka 3. i 5. i članka 365. stavaka 2. i 4. ovoga Zakona,«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Predsjednik optužnog vijeća će rješenjem obustaviti kazneni postupak ili odbaciti optužnicu koju nije podnio ovlašteni tužitelj i koja je podignuta iako nisu ispunjeni zakonski uvjeti ili nakon isteka roka iz članka 230. stavka 1., članka 356. stavaka 3. i 5. i članka 365. stavaka 2. i 4. ovoga Zakona ili ako su ispunjeni razlozi iz članka 355. stavka 1. točaka 1. do 3. ovoga Zakona. O žalbi protiv rješenja predsjednika optužnog vijeća odlučuje viši sud.«.
+
+#### Članak 95.
+
+Članak 356. mijenja se i glasi:
+
+»(1) Ako vijeće ustanovi da optužnica nije propisno sastavljena (članak 342. ovoga Zakona) ili da u odnosu na cijelu optužnicu postoje nedostaci u prethodnom postupku ili da činjenični opis djela ne proizlazi iz ranije pribavljenih dokaza, ili da je potrebno bolje razjašnjenje stvari, rješenjem vraća optužnicu državnom odvjetniku s obrazloženjem razloga zbog kojih nije potvrđena te radnjama koje je propustio poduzeti.
+
+(2) Ako vijeće ustanovi da samo u odnosu na pojedine dijelove optužnice postoje nedostaci u prethodnom postupku ili da činjenični opis djela ne proizlazi iz ranije pribavljenih dokaza, ili da je potrebno bolje razjašnjenje stvari, rješenjem će razdvojiti postupak i potvrditi optužnicu u dijelu za koji to nalazi osnovanim.
+
+(3) U rješenju o vraćanju optužnice optužno vijeće odredit će primjereni rok u kojem tužitelj mora podići novu izmijenjenu optužnicu. Ako je optužnica vraćena jer nije bila propisano sastavljena, taj rok ne može biti dulji od petnaest dana za kaznena djela iz nadležnosti općinskog suda, odnosno mjesec dana za kaznena djela iz nadležnosti županijskog suda. Ako je optužnica vraćena iz drugih razloga navedenih u stavku 1. ovoga članka, taj rok ne može biti dulji od šest mjeseci za kaznena djela iz nadležnosti općinskog suda, odnosno dvanaest mjeseci za kaznena djela iz nadležnosti županijskog suda.
+
+(4) Državni odvjetnik kojem je optužnica vraćena iz razloga navedenih u stavku 1. ovoga članka, osim ako je optužnica nepropisno sastavljena, dužan je bez odgode donijeti rješenje o dopuni istrage ili poduzeti dokaznu radnju odnosno obustaviti istragu ili odbaciti kaznenu prijavu.
+
+(5) Ako rokovi iz stavka 3. ovoga članka nisu dovoljni za poduzimanje svih potrebnih radnji državni odvjetnik može prije isteka navedenih rokova od optužnog vijeća zahtijevati njihovo produljenje. Prilikom donošenja odluke o produljenju rokova iz stavka 3. ovoga članka i trajanju dodatnog roka optužno vijeće uzet će u obzir osobito dotadašnje trajanje prethodnog postupka, pravovremenost poduzimanja radnji državnog odvjetnika i složenost radnji koje je još potrebno poduzeti. Dodatni rok ne može biti dulji od rokova propisanih stavkom 3. ovoga članka. Zahtjev za svako daljnje produljenje dodatnih rokova državni odvjetnik će posebno obrazložiti.
+
+(6) Optužno vijeće o određivanju roka za podizanje nove izmijenjene optužnice (stavak 3. ovoga članka), kao i o produljenju tog roka i trajanju dodatnog roka za podizanje nove izmijenjene optužnice (stavak 5. ovoga članka), odlučuje rješenjem protiv kojeg žalba nije dopuštena. Državni odvjetnik ima pravo žalbe protiv odluke kojom se odbija zahtjev za produljenje roka za podizanje nove izmijenjene optužnice iz stavka 5. ovoga članka.
+
+(7) Ako mu je optužnica vraćena, državni odvjetnik će novu izmijenjenu optužnicu dostaviti na ponovno ispitivanje (članci 343. do 355. ovoga Zakona). Takva optužnica mora biti dostavljena na ponovno ispitivanje u rokovima iz stavaka 3. i 5. ovoga članka. Ako državni odvjetnik novu izmijenjenu optužnicu ne dostavi u rokovima iz stavaka 3. i 5. ovoga članka, smatrat će se da je odustao od kaznenog progona, te je u roku od osam dana od isteka rokova iz stavaka 3. i 5. ovoga članka dužan donijeti rješenje o odbačaju kaznene prijave ili rješenje o obustavi istrage te ih dostaviti okrivljeniku i žrtvi.
+
+(8) Ako se u slučaju iz stavka 7. ovoga članka obustavi kazneni postupak odnosno odbaci kaznena prijava žrtva kaznenog djela ima prava iz članka 55. ovoga Zakona.«.
+
+#### Članak 96.
+
+Iza članka 356. dodaje se članak 356.a koji glasi:
+
+»Članak 356.a
+
+Vijeće ispitujući optužnicu može odlučiti i o prijedlozima za spajanje i razdvajanje postupka.«.
+
+#### Članak 97.
+
+U članku 363. stavku 4. iza riječi: »troškova« dodaju se zarez i riječi: »osim troškova oštećenika, čije plaćanje mu može naložiti«.
+
+#### Članak 98.
+
+Članak 365. mijenja se i glasi:
+
+»(1) Državni odvjetnik može povući optužnicu prije nego što je potvrđena, ako smatra da postoje razlozi iz članka 356. stavka 1. ovoga Zakona.
+
+(2) Ako je državni odvjetnik povukao optužnicu, predsjednik optužnog vijeća, odnosno, ako je sjednica optužnog vijeća već započela, optužno vijeće, odredit će mu primjereni rok za podizanje nove izmijenjene optužnice. Ako je optužnica povučena zato što je nepropisno sastavljena, taj rok ne može biti dulji od petnaest dana za kaznena djela iz nadležnosti općinskog suda, odnosno mjesec dana za kaznena djela iz nadležnosti županijskog suda. Ako je optužnica povučena iz drugih razloga navedenih u članku 356. stavku 1. ovoga Zakona, taj rok ne može biti dulji od šest mjeseci za kaznena djela iz nadležnosti općinskog suda, odnosno dvanaest mjeseci za kaznena djela iz nadležnosti županijskog suda.
+
+(3) Državni odvjetnik koji je povukao optužnicu iz razloga navedenih u članku 356. stavku 1. ovoga Zakona, osim ako je optužnica nepropisno sastavljena, dužan je bez odgode donijeti rješenje o dopuni istrage ili poduzeti dokaznu radnju, odnosno obustaviti istragu ili odbaciti kaznenu prijavu.
+
+(4) Ako rokovi iz stavka 2. ovoga članka nisu dovoljni za poduzimanje svih potrebnih radnji, državni odvjetnik može prije isteka navedenih rokova od predsjednika optužnog vijeća, odnosno optužnog vijeća zahtijevati njihovo produljenje. Prilikom donošenja odluke o produljenju rokova iz stavka 2. ovoga članka i trajanju dodatnog roka predsjednik optužnog vijeća, odnosno optužno vijeće uzet će u obzir osobito dotadašnje trajanje prethodnog postupka, pravovremenost poduzimanja radnji od strane državnog odvjetnika i složenost radnji koje je još potrebno poduzeti. Dodatni rok ne može biti dulji od rokova propisanih stavkom 2. ovoga članka. Zahtjev za svako daljnje produljenje dodatnih rokova državni odvjetnik će posebno obrazložiti.
+
+(5) Predsjednik optužnog vijeća, odnosno optužno vijeće o određivanju roka za podizanje nove izmijenjene optužnice (stavak 2. ovoga članka), kao i o produljenju tog roka i trajanju dodatnog roka za podizanje nove izmijenjene optužnice (stavak 4. ovoga članka), odlučuje rješenjem protiv kojeg žalba nije dopuštena. Državni odvjetnik ima pravo žalbe protiv odluke kojom se odbija zahtjev za produljenje roka za podizanje nove izmijenjene optužnice iz stavka 4. ovoga članka.
+
+(6) Ako je državni odvjetnik povukao optužnicu, može podići novu izmijenjenu optužnicu pod uvjetima iz članka 341. ovoga Zakona. Takva optužnica mora biti podignuta u rokovima iz stavaka 2. i 4. ovoga članka. Ako državni odvjetnik novu izmijenjenu optužnice ne podigne u rokovima iz stavaka 2. i 4. ovoga članka, smatrat će se da je odustao od kaznenog progona te je dužan u roku od osam dana od isteka rokova iz stavaka 2. i 4. ovog članka donijeti rješenje o odbačaju kaznene prijava ili rješenje o obustavi istrage te ih dostaviti okrivljeniku i žrtvi.
+
+(7) Ako se u slučaju iz stavka 6. ovoga članka obustavi kazneni postupak, odnosno odbaci kaznena prijava, žrtva kaznenog djela ima prava iz članka 55. ovoga Zakona.«.
+
+#### Članak 99.
+
+U članku 373. stavku 2. brojka: »47.« zamjenjuje se brojkom: »51.«.
+
+#### Članak 100.
+
+U članku 380. stavak 2. mijenja se i glasi:
+
+»(2) Predsjednik vijeća će u slučaju obustave postupka iz stavka 1. točke 1. ovoga članka rješenje o obustavi postupka dostaviti i žrtvi te je upozoriti prema članku 55. ovoga Zakona.«.
+
+#### Članak 101.
+
+U članku 383. stavak 8. mijenja se i glasi:
+
+»(8) Optuženika protiv kojeg se vodi postupak za kazneno djelo za koje je propisana novčana kazna ili kazna zatvora do pet godina će se u pozivu poučiti o pravu na branitelja te upozoriti da će, u slučaju kad obrana nije obvezna, a branitelja uzme tek na raspravi, snositi troškove odgode rasprave.«.
+
+#### Članak 102.
+
+U članku 395. stavku 4. iza riječi: »optuženiku,« dodaje se riječ: »žrtvi,«.
+
+#### Članak 103.
+
+U članku 409. stavak 2. mijenja se i glasi:
+
+»(2) Predsjednik vijeća može odrediti da se rasprava ili pojedini njezini dijelovi (iskazi optuženika, svjedoka, vještaka i važne izjave stranaka) snime uređajem za audio ili audio-video snimanje. U tom slučaju, zapisnik tvore audio ili audio-video snimka rasprave i zapisnik o tijeku rasprave. Audio ili audio-video snimka rasprave prepisuje se u roku od pet radnih dana, a prijepis pregledava i ovjerava predsjednik vijeća i prilaže zapisniku o raspravi. Stranke imaju pravo pregledati prijepis snimke i staviti primjedbe. Ako predsjednik vijeća primjedbe smatra opravdanima, naložit će ispravak prijepisa.«.
+
+#### Članak 104.
+
+U članku 410. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ako je rasprava snimana, strankama će se odmah omogućiti preuzimanje kopije snimke.«.
+
+#### Članak 105.
+
+U članku 411. stavak 6. mijenja se i glasi:
+
+»(6) U zapisnik o raspravi ne unosi se sadržaj iskaza optuženika, svjedoka i vještaka te izjave i obrazloženja prijedloga stranaka koji su snimljeni prema odredbi članka 409. stavka 2. ovoga Zakona.«.
+
+#### Članak 106.
+
+U članku 415. stavku 1. brojka: »47.« zamjenjuje se brojkom: »51.«.
+
+#### Članak 107.
+
+U članku 418. stavak 4. mijenja se i glasi:
+
+»(4) Ako se žrtva ili oštećenik koji su prisutni trebaju ispitati kao svjedoci, njihovo će se ispitivanje obaviti prije ispitivanja ostalih svjedoka.«.
+
+#### Članak 108.
+
+U članku 420. stavku 1. riječi: »stavku 3.« zamjenjuju se riječima: »stavcima 3. i 4.«.
+
+#### Članak 109.
+
+U članku 441. stavak 4. mijenja se i glasi:
+
+»(4) Vijeće može, nakon saslušanja stranaka, odlučiti dostaviti izmijenjenu optužnicu optužnom vijeću radi njezinog ispitivanja sukladno člancima 348. do 367. ovoga Zakona. Okrivljenik može podnijeti odgovor na optužnicu. Ako optužnica bude potvrđena, nova rasprava održat će se u pravilu pred istim vijećem.«.
+
+#### Članak 110.
+
+U članku 448. stavak 1. mijenja se i glasi:
+
+»(1) Ako sud tijekom vijećanja ne utvrdi da treba ponovno otvoriti raspravu radi dopune postupka ili razjašnjenja pojedinih pitanja, izreći će presudu.«.
+
+#### Članak 111.
+
+U članku 468. stavku 1. točki 5. riječ: »oštećenika« zamjenjuje se riječima: »žrtve ili druge osobe iz članka 197. stavka 1. ovoga Zakona«.
+
+U točki 11. riječi: »zapisnika o iskazima danim u postupku i samih tih isprava ili zapisnika« zamjenjuju se riječima: »iskaza danih u postupku i samih tih isprava ili iskaza«.
+
+#### Članak 112.
+
+U članku 474. stavku 1. riječ: »kazeni« zamjenjuje se riječju: »kazneni«.
+
+#### Članak 113.
+
+U članku 475. stavak 3. briše se.
+
+Stavci 4. do 9. postaju stavci 3. do 8.
+
+#### Članak 114.
+
+U članku 497. stavak 3. mijenja se i glasi:
+
+»Kazneni postupak u kojem je osoba osuđena u odsutnosti (članak 402. stavci 3. i 4. ovoga Zakona), a nastupila je mogućnost da joj se ponovno sudi u njezinoj prisutnosti, obnovit će se i izvan uvjeta predviđenih u člancima 498. i 501. ovoga Zakona, ako osuđenik ili njegov branitelj u roku od jedne godine od dana kada je osuđenik saznao za pravomoćnu presudu podnesu zahtjev za obnovu postupka u kojem je navedena adresa na kojoj se osuđeniku mogu dostavljati pismena i osuđenik obeća da će se odazvati sudskom pozivu.«.
+
+#### Članak 115.
+
+U članku 500. stavku 2. brojka: »5.« zamjenjuje se brojkom: »2.«.
+
+U stavku 3. brojka: »5.« zamjenjuje se brojkom: »2.«.
+
+U stavku 4. riječ: »oštećenik« zamjenjuje se riječju: »žrtva«, a riječ: »preuzeo« zamjenjuje se riječju: »preuzela«.
+
+#### Članak 116.
+
+U članku 502. stavak 2. mijenja se i glasi:
+
+»Kazneni postupak obnovit će se i u slučaju kada je zahtjev za obnovu podnesen na temelju konačne presude Europskog suda za ljudska prava kojom je utvrđena povreda prava i sloboda iz Konvencije za zaštitu ljudskih prava i temeljnih sloboda ako je povreda Konvencije utjecala na ishod postupka, a povreda ili njezina posljedica se može ispraviti u obnovljenom postupku. U rješenju kojim se dopušta obnova kaznenog postupka sud će odrediti da se postupak vrati u stadij postupka pred optužnim vijećem ili raspravu, ili u postupak povodom žalbe, ili izvanrednih pravnih lijekova.«.
+
+#### Članak 117.
+
+U članku 506. stavku 1. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Sud će rješenjem odbaciti zahtjev iz članka 497. stavka 3. ovoga Zakona ako je već jednom doneseno rješenje iz članka 508. stavka 3. ovoga Zakona.«.
+
+#### Članak 118.
+
+U članku 507. stavku 4. iza riječi: »prekine« dodaju se zarez i riječi: »a ako je osuđenik obećao odazvati se sudskom pozivu (članak 497. stavak 3. ovoga Zakona), odgodit će izvršenje presude i o tome izvijestiti suca izvršenja radi povlačenja tjeralice«.
+
+#### Članak 119.
+
+U članku 508. iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»(3) Ako optuženik iz članka 497. stavka 3. ovoga Zakona u novom postupku postane nedostupan (ako uredno pozvani optuženik ne dođe, a svoj izostanak ne opravda, ili ako se nije mogla obaviti uredna dostava poziva, a iz okolnosti očito proizlazi da optuženik izbjegava primiti poziv), sud će rješenjem staviti izvan snage rješenje kojim je dopuštena obnova postupka i odgođeno izvršenje presude.
+
+(4) Sud neće postupiti sukladno stavku 3. ovoga članka ako su iznesene nove činjenice ili podneseni novi dokazi na temelju kojih sud utvrdi da su ispunjene pretpostavke iz članka 501. stavka 1. ovoga Zakona.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 5. i 6.
+
+#### Članak 120.
+
+U članku 515. stavku 2. riječi: »na slobodi« brišu se, a iza riječi: »mjere« dodaju se riječi: »izrečena kazna zatvora odnosno«.
+
+#### Članak 121.
+
+U članku 518. stavak 4. mijenja se i glasi:
+
+»(4) Prvostupanjski sud dostavit će primjerak zahtjeva sa spisom Glavnom državnom odvjetniku, koji može u roku od petnaest dana od dana primitka zahtjeva podnijeti odgovor na zahtjev. Odgovor na zahtjev dostavit će se osuđeniku i njegovom branitelju prije dostavljanja spisa Vrhovnom sudu.«.
+
+#### Članak 122.
+
+U članku 542. stavku 1. riječ: »oštećeniku« zamjenjuje se riječju: »žrtvi«.
+
+#### Članak 123.
+
+Članak 556. mijenja se i glasi:
+
+»(1) Predmeti koji se po zakonu imaju oduzeti, kao i drugi predmeti ako to zahtijevaju probici javne sigurnosti ili zaštite časti i dostojanstva građana, oduzet će se i kad kazneni postupak ne završi presudom kojom se okrivljenik proglašava krivim.
+
+(2) Posebno rješenje o tome donosi tijelo pred kojim se vodio postupak kad je postupak završen, odnosno obustavljen.
+
+(3) Rješenje o oduzimanju predmeta iz stavka 1. ovoga članka donosi sud i kad je u presudi kojom je optuženik proglašen krivim propušteno da se donese takva odluka.
+
+(4) Ovjereni prijepis odluke o oduzimanju predmeta dostavit će se osobi od koje se oduzima predmet.
+
+(5) Protiv odluke iz stavaka 2. i 3. ovoga članka osoba od koje su oduzeti predmeti, ima pravo žalbe. Ako rješenje iz stavka 2. ovoga članka nije donio sud, o žalbi odlučuje vijeće suda koji je bio nadležan za suđenje u prvom stupnju.«.
+
+#### Članak 124.
+
+Iza članka 556. dodaje se članak 556.a koji glasi:
+
+»Članak 556.a
+
+(1) Ako drukčije nije uređeno zakonom ili ako drukčije ne naloži državni odvjetnik, predmete koji su bili namijenjeni ili uporabljeni za počinjenje kaznenog djela ili su nastali njegovim počinjenjem privremeno oduzima policija i predaje ih tijelima, odnosno pravnim osobama s javnim ovlastima koja su, sukladno posebnim propisima, nadležna za raspolaganje i upravljanje imovinom u vlasništvu Republike Hrvatske. O tome se odmah obavještava državni odvjetnik, osim ako se ne postupa po njegovu nalogu.
+
+(2) Kad je privremeno oduzimanje izvršeno prema odredbi stavka 1. ovoga članka o prigovoru treće osobe odlučuje sud koji bi bio nadležan za donošenje rješenja o privremenoj mjeri osiguranja prema odredbi članka 557.a stavka 2. ovoga Zakona.
+
+(3) U slučajevima iz stavaka 1. i 2. ovoga članka, na treće osobe primjenjuju se odredbe ove Glave Zakona.«.
+
+#### Članak 125.
+
+Članak 557. mijenja se i glasi:
+
+»(1) Postupak prema ovoj Glavi Zakona provodi se na prijedlog ovlaštenog tužitelja.
+
+(2) Sud će i bez prijedloga ovlaštenog tužitelja od optuženika oduzeti onu imovinsku korist ostvarenu protupravnom radnjom koja je sadržana u opisu kaznenog djela iz optužbe.
+
+(3) Sud i drugo tijelo pred kojima se vodi postupak, dužni su u tijeku postupka prikupljati dokaze i istraživati okolnosti koje su važne za utvrđivanje imovinske koristi.«.
+
+#### Članak 126.
+
+Iza članka 557. dodaju se članci 557.a do 557.h koji glase:
+
+»Članak 557.a
+
+(1) Radi osiguranja oduzimanja imovinske koristi ostvarene protupravnom radnjom ovlašteni tužitelj može prije i nakon pokretanja kaznenog postupka predložiti osiguranje bilo kojom privremenom mjerom kojom se postiže ta svrha, a posebno:
+
+a) zabranom otuđenja i opterećenja nekretnine ili stvarnih prava upisanih na nekretnini, uz zabilježbu zabrane u zemljišnu knjigu, oduzimanjem nekretnine i njezinim povjeravanjem na čuvanje i upravljanje državnom tijelu nadležnom za upravljanje državnom imovinom,
+
+b) zabranom okrivljeniku ili drugoj osobi na koju je imovinska korist prenesena da otuđi ili optereti pokretnine, oduzimanjem tih stvari i njihovim povjeravanjem na čuvanje državnom tijelu nadležnom za upravljanje državnom imovinom,
+
+c) oduzimanjem i polaganjem gotovoga novca, vrijednosnih papira te njihovom predajom državnom tijelu nadležnom za upravljanje državnom imovinom,
+
+d) zabranom dužniku okrivljenika ili druge osobe na koju je imovinska korist prenesena da dobrovoljno ispuni svoju obvezu okrivljeniku ili drugoj osobi na koju je imovinska korist prenesena te zabranom okrivljeniku ili drugoj osobi na koju je imovinska korist prenesena da primi ispunjenje te obveze, odnosno da raspolaže svojim tražbinama,
+
+e) nalogom banci da okrivljeniku ili drugoj osobi na koju je imovinska korist prenesena ili trećoj osobi na temelju naloga okrivljenika ili druge osobe na koju je imovinska korist prenesena, uskrati s računa isplatu novčanoga iznosa za koji je određena privremena mjera,
+
+f) zabranom otuđenja i opterećenja dionica, udjela ili poslovnoga udjela uz zabilježbu zabrane u knjigu dionica, udjela ili poslovnih udjela, a po potrebi i u javnom registru, zabranom korištenja ili raspolaganja pravima po osnovi takvih dionica, udjela ili poslovnih udjela, povjeravanjem dionica, udjela ili poslovnih udjela na upravu državnom tijelu nadležnom za upravljanje državnom imovinom,
+
+g) zabranom dužniku okrivljenika ili druge osobe na koju je imovinska korist prenesena da okrivljeniku ili drugoj osobi na koju je imovinska korist prenesena preda stvari, prenese pravo ili obavi drugu nenovčanu činidbu.
+
+(2) Do podizanja optužnice o prijedlogu iz stavka 1. ovoga članka odlučuje rješenjem sudac istrage, nakon podizanja optužnice do njezina potvrđivanja, optužno vijeće, a nakon potvrđivanja optužnice ili određivanja rasprave na temelju privatne tužbe sud pred kojim se vodi rasprava. Rješenje mora sadržavati obrazloženje. Uz rješenje okrivljeniku i drugoj osobi na koju je imovinska korist prenesena dostavit će se i pouka o pravu na odvjetnika i pravima iz članka 558. ovoga Zakona.
+
+(3) Protiv rješenja iz stavka 2. ovoga članka dopuštena je žalba u roku od tri dana od dana njegova dostavljanja. Žalba ne zadržava provedbu rješenja.
+
+(4) Za provedbu rješenja iz stavka 2. ovoga članka nadležan je sud ili drugo tijelo određeno posebnim zakonom.
+
+(5) Rješenje iz stavka 2. ovoga članka dostavlja se sudu ili drugom tijelu nadležnom za njegovu provedbu, predlagatelju osiguranja te okrivljeniku i drugoj osobi na koju je imovinska korist prenesena odmah, a najkasnije prvog sljedećeg radnog dana nakon dana donošenja rješenja. Dostava rješenja iz stavka 2. ovoga članka okrivljeniku i drugoj osobi na koju je imovinska korist prenesena može se odgoditi samo iznimno, ako je to nužno da se ne ugrozi svrha istrage. Dostava rješenja može se odgoditi najdulje tri dana od njegova donošenja.
+
+(6) Postupak osiguranja oduzimanja imovinske koristi je hitan.
+
+#### Članak 557.b
+
+(1) U postupku osiguranja privremenom mjerom pretpostavlja se postojanje opasnosti da tražbina Republike Hrvatske glede oduzimanja imovinske koristi ostvarene protupravnom radnjom neće moći biti ostvarena ili da će njezino ostvarenje biti otežano ako privremena mjera ne bude određena.
+
+(2) Osiguranje se može odrediti i prije nego što je okrivljeniku ili drugoj osobi na koju je imovinska korist prenesena omogućeno da se očituje o prijedlogu predlagatelja osiguranja.
+
+#### Članak 557.c
+
+(1) Ako je privremenu mjeru potrebno upisati u javni upisnik (zemljišne knjige, upisnik brodova, upisnik zrakoplova, upisnik sudskih i javnobilježničkih osiguranja i sl.), odluka suda će sadržavati i nalog za upis privremene mjere u javni upisnik.
+
+(2) U postupku iz stavka 1. ovoga članka ne plaćaju se pristojbe.
+
+#### Članak 557.d
+
+Pravni posao kojim okrivljenik ili druga osoba na koju je imovinska korist prenesena nakon upisa privremene mjere u javni upisnik raspolaže sa stvari ili pravom koje je predmet osiguranja, nema pravnog učinka.
+
+#### Članak 557.e
+
+(1) Privremena mjera može se odrediti i prije započinjanja kaznenog postupka ili podnošenja prijedloga za oduzimanje imovinske koristi sukladno članku 560.a ovoga Zakona.
+
+(2) Do potvrđivanja optužnice, određivanja rasprave na temelju privatne tužbe ili podnošenja prijedloga sukladno članku 560.a ovoga Zakona privremena mjera može trajati najdulje dvije godine, a nakon toga najdulje šezdeset dana od dostave državnom odvjetniku obavijesti o pravomoćnosti odluke kojom je oduzeta imovinska korist. Rok od dvije godine ne teče za vrijeme prekida istrage.
+
+(3) Sud će svaka tri mjeseca ispitati postoje li zakonski uvjeti za daljnju primjenu privremene mjere te će donijeti rješenje o njezinom produljenju ili ukidanju.
+
+(4) Privremena mjera će se ukinuti ili zamijeniti drugom prije isteka roka iz stavaka 2. ovoga članka, ako sud po službenoj dužnosti, na prijedlog ovlaštenog tužitelja ili na prijedlog okrivljenika ili druge osobe na koju je prenesena imovinska korist, utvrdi da ona nije nužna ili da se osiguranje može postići kakvom drugom blažom privremenom mjerom. Privremena mjera se može ukinuti ili zamijeniti drugom privremenom mjerom i ako okrivljenik, druga osoba na koju je imovinska korist prenesena ili treća osoba položi jamčevinu. Jamčevina se uvijek daje u gotovom novcu. Privremena mjera će se ukinuti ako to predloži ovlašteni tužitelj.
+
+(5) Protiv rješenja kojim se odbija prijedlog okrivljenika ili druge osobe za ukidanje privremene mjere nije dozvoljena žalba.
+
+(6) Sud će o prestanku mjere zbog isteka roka iz stavaka 2. ovoga članka te o ukidanju odnosno zamjeni mjere bez odgode obavijestiti sud ili drugo tijelo nadležno za njezinu provedbu.
+
+(7) Na postupak ukidanja, produljenja, zamjene ili određivanja dodatne privremene mjere odgovarajuće se primjenjuju odredbe članka 557.a ovoga Zakona.
+
+#### Članak 557.f
+
+(1) Sud će, na prijedlog oštećenika, preinačiti ili ukinuti privremenu mjeru određenu radi osiguranja oduzimanja imovinske koristi ostvarene protupravnom radnjom ako je to potrebno radi osiguranja imovinskopravnog zahtjeva.
+
+(2) Ako oštećenik odustane od imovinskopravnog zahtjeva ili privremene mjere određene radi osiguranja imovinskopravnog zahtjeva, sud će prije donošenja odluke o tome obavijestiti državnog odvjetnika i odrediti mu primjereni rok u kojem može predložiti privremenu mjeru radi osiguranja oduzimanja imovinske koristi.
+
+#### Članak 557.g
+
+(1) Za štetu koja je posljedica privremene mjere radi osiguranja oduzimanja imovinske koristi ostvarene protupravnom radnjom odgovara Republika Hrvatska.
+
+(2) Iznimno od stavka 1. ovoga članka, ako je prijedlog za određivanje privremene mjere podnio oštećenik kao tužitelj ili privatni tužitelj, za štetu koja je posljedica privremene mjere odgovara oštećenik ili privatni tužitelj.
+
+(3) Okrivljenik ili druga osoba na koju je imovinska korist prenesena može pokrenuti parnični postupak za naknadu štete pred nadležnim sudom u roku od godinu dana računajući od pravomoćnosti presude kojom je okrivljenik oslobođen ili je optužba odbijena. U slučaju iz stavka 1. ovoga članka okrivljenik ili druga osoba na koju je imovinska korist prenesena može pokrenuti parnični postupak u roku od trideset dana od dana kad je saznao da je državni odvjetnik odbio njegov zahtjev za mirno rješenje spora, odnosno od dana kad je istekao rok u kojem je državni odvjetnik trebao donijeti odluku o tom zahtjevu.
+
+#### Članak 557.h
+
+(1) Treća osoba koja tvrdi da glede imovine koja je predmet privremene mjere ima pravo koje sprječava primjenu odredbi ove Glave Zakona, ima pravo predložiti da se privremena mjera ukine.
+
+(2) O prijedlogu iz stavka 1. ovoga članka rješenjem odlučuje sud koji je donio rješenje o osiguranju privremenom mjerom. Protiv tog rješenja dopuštena je žalba koja ne sprječava provedbu osiguranja.«.
+
+#### Članak 127.
+
+Članak 558. mijenja se i glasi:
+
+»(1) Kad dolazi u obzir oduzimanje imovinske koristi pribavljene protupravnom radnjom, osoba na koju je imovinska korist prenesena pozvat će se radi ispitivanja u prethodnom postupku i na raspravu. U pozivu će se upozoriti da će se postupak provesti i bez njezine prisutnosti. Uz poziv će se dostaviti i pouka o pravu na opunomoćenika.
+
+(2) Radi ispitivanja u prethodnom postupku i na raspravu pozvat će se i treća osoba koja tvrdi da glede imovinske koristi ima pravo koje sprječava primjenu odredbi ove Glave Zakona.
+
+(3) Osobu, na koju je prema prijedlogu državnog odvjetnika za oduzimanje imovinske koristi ta korist prenesena, sud će pozvati na sjednicu optužnog vijeća, pripremno ročište i raspravu, a ta osoba ispitat će se na raspravi nakon okrivljenika koji se očitovao da ne osporava osnovanost optužbe, a inače na početku dokaznog postupka.
+
+(4) Osoba na koju je imovinska korist prenesena te treća osoba iz stavka 2. ovoga članka, ovlaštena je u vezi s utvrđivanjem imovinske koristi predlagati dokaze i po dopuštenju predsjednika vijeća, postavljati pitanja okrivljeniku, svjedocima i vještacima.
+
+(5) Državni odvjetnik i sud upoznat će osobu na koju je imovinska korist prenesena te treću osobu iz stavka 2. ovoga članka o njezinim pravima iz stavka 4. ovoga članka, kao i o pravu na opunomoćenika.«.
+
+#### Članak 128.
+
+Članak 560. mijenja se i glasi:
+
+»(1) Oduzimanje imovinske koristi sud će izreći u osuđujućoj presudi odnosno presudi kojom se utvrđuje da je okrivljenik počinio protupravnu radnju koja je predmet optužbe.
+
+(2) U presudi iz stavka 1. ovoga članka sud će navesti koje stvari ili prava predstavljaju imovinsku korist ostvarenu kaznenim djelom odnosno protupravnom radnjom te, ovisno o okolnostima, naznačiti njihovu novčanu protuvrijednost, utvrditi da su te stvari ili prava postale vlasništvo, odnosno imovina Republike Hrvatske, naložiti okrivljeniku i drugoj osobi na koju je imovinska korist prenesena, da Republici Hrvatskoj preda određene stvari odnosno na nju prenese određena prava, ako ona već nisu prešla na Republiku Hrvatsku, ili da isplati njihovu novčanu protuvrijednost u roku od 15 dana od dana pravomoćnosti presude, i odrediti da se u javnim upisnicima koje vode sudovi i druga tijela izvrši upis prava u korist Republike Hrvatske.
+
+(3) Ako drukčije nije propisano zakonom, u presudi kojom se okrivljenik oslobađa od optužbe za kazneno djelo, ili se optužba odbija, odbit će se prijedlog za oduzimanje imovinske koristi ostvarene kaznenim djelom. Sud će tako postupiti i kad okrivljenik nije oslobođen od optužbe za kazneno djelo, ali je imovinska korist potpuno obuhvaćena imovinskopravnim zahtjevom, ili nema zakonskih uvjeta za njezino oduzimanje.
+
+(4) Pisana presuda dostavlja se i osobi na koju je imovinska korist prenesena.«.
+
+#### Članak 129.
+
+Iza članka 560. dodaju se članci 560.a do 560.f koji glase:
+
+»Članak 560.a
+
+(1) Odredbe ovoga Zakona primijenit će se i u postupku oduzimanja imovinske koristi ostvarene protupravnom radnjom ako je osoba protiv koje je pokrenut kazneni postupak trajno raspravno nesposobna ili je nedostupna tijelima kaznenog postupka, kada je vjerojatno da ta imovinska korist iznosi najmanje 60.000,00 kuna, ako odredbama članaka 560.a do 560.e ovoga Zakona nije što posebno propisano.
+
+(2) Postupak iz stavka 1. ovoga članka pokreće se i vodi samo na zahtjev državnog odvjetnika.
+
+(3) Državni odvjetnik će u slučajevima iz stavka 1. ovoga članka nalogom pokrenuti poseban postupak u kojem će prikupiti dokaze i činjenice potrebne radi utvrđenja je li osoba iz stavka 1. ovoga članka počinila protupravnu radnju koja je predmet optužbe i je li tom radnjom ostvarena imovinska korist te u kojem iznosu.
+
+(4) Nakon donošenja naloga iz stavka 3. ovoga članka osoba iz stavka 1. ovoga članka mora imati branitelja.
+
+(5) Ako je imovinska korist ostvarena protupravnom radnjom prenesena na drugu osobu, ta osoba u postupku iz stavka 1. ovoga članka ima položaj stranke i sva prava koja prema ovom Zakonu pripadaju okrivljeniku.
+
+#### Članak 560.b
+
+(1) U slučajevima iz članka 560.a stavka 1. ovoga Zakona, državni odvjetnik će postaviti zahtjev da sud utvrdi da je osoba iz članka 560.a stavka 1. ovoga Zakona počinila protupravnu radnju i da je tom radnjom ostvarila imovinsku korist te da se ta imovinska korist oduzme od te osobe ili osobe na koju je ona prenesena.
+
+(2) U slučaju da je osoba iz članka 560.a stavka 1. ovoga Zakona trajno raspravno nesposobna, državni odvjetnik će prije postavljanja zahtjeva iz stavka 1. ovoga članka, uz prisutnost vještaka i branitelja, pokušati ispitati tu osobu. Ako se osoba iz članka 560.a stavka 1. ovoga Zakona zbog raspravne nesposobnosti ne može ispitati državni odvjetnik će postaviti zahtjev iz stavka 1. ovoga članka.
+
+(3) Zahtjev iz stavka 1. ovoga članka državni odvjetnik podnosi predsjedniku vijeća nadležnog suda koji će prethodno ispitati postoje li uvjeti za odbacivanje odgovarajućom primjenom članka 344. ovoga Zakona i ako postoje, donijet će rješenje o odbacivanju zahtjeva. Rješenje se dostavlja državnom odvjetniku, osobi iz članka 560.a stavka 1. ovoga Zakona i branitelju. Ako ne donese rješenje o odbacivanju zahtjeva, predsjednik vijeća postupit će na odgovarajući način prema člancima 345. i 346. ovoga Zakona, a optužno vijeće postupit će na odgovarajući način prema člancima 348. do 357. te člancima 365. do 367. ovoga Zakona.
+
+#### Članak 560.c
+
+(1) O zahtjevu državnog odvjetnika iz članka 560.b stavka 1. ovoga Zakona odlučuje sud nakon provedene rasprave. O raspravi će se izvijestiti zakonski zastupnik osobe iz članka 560.a stavka 1. ovoga Zakona, a ako ga nema, njezin bračni ili izvanbračni drug, odnosno najbliži srodnik, branitelj te osoba na koju je imovinska korist prenesena i treća osoba koja tvrdi da glede imovinske koristi ima pravo koje sprječava primjenu odredbi ove Glave Zakona.
+
+(2) Predsjednik vijeća će prije rasprave u prisutnosti vještaka pokušati ispitati prisutnu osobu iz članka 560.a stavka 1. ovoga Zakona radi ocjene njezine raspravne sposobnosti (članak 325. stavak 5. ovoga Zakona). O vremenu i mjestu ispitivanja izvijestit će se državni odvjetnik, osoba iz članka 560.a stavka 1. ovoga Zakona, branitelj i zakonski zastupnik, odnosno najbliži srodnik. Ispitivanje će se obaviti i bez prisutnosti uredno pozvanoga državnog odvjetnika i zastupnika. Ako sud nakon ispitivanja vještaka utvrdi da je osoba iz članka 560.a stavka 1. ovoga Zakona trajno raspravno nesposobna, rasprava će se održati u njezinoj odsutnosti.
+
+(3) Smatrat će se da je osoba iz članka 560.a stavka 1. ovoga Zakona porekla osnovanost zahtjeva iz članka 560.b stavka 1. ovoga Zakona, a na završetku dokaznog postupka pročitat će se zapisnici o njezinom ranijem ispitivanju, ako postoje.
+
+(4) O raspravnoj sposobnosti osobe iz članka 560.a stavka 1. ovoga Zakona ispitat će se vještak koji je obavio njezin pregled.
+
+#### Članak 560.d
+
+(1) Ako je državni odvjetnik postavio zahtjev iz članka 560.b stavka 1. ovoga Zakona, a sud nakon provedene rasprave utvrdi da je osoba iz članka 560.a stavka 1. ovoga Zakona počinila protupravnu radnju i da je tom radnjom ostvarena imovinska korist, donijet će presudu kojom se utvrđuje da je osoba iz članka 560.a stavka 1. ovoga Zakona počinila protupravnu radnju i da je tom protupravnom radnjom ostvarena imovinska korist.
+
+(2) U presudi iz stavka 1. ovoga članka sud će navesti koje stvari ili prava predstavljaju imovinsku korist ostvarenu protupravnom radnjom te, ovisno o okolnostima, naznačiti njihovu novčanu protuvrijednost, utvrditi da su te stvari ili prava postale vlasništvo, odnosno imovina Republike Hrvatske, naložiti osobi iz članka 560.a stavka 1. ovoga Zakona odnosno drugoj osobi na koju je imovinska korist prenesena, da Republici Hrvatskoj preda određene stvari odnosno na nju prenese određena prava, ako ona već nisu prešla na Republiku Hrvatsku, ili da isplati njihovu novčanu protuvrijednost u roku od 15 dana od dana pravomoćnosti presude, i odrediti da se u javnim upisnicima koje vode sudovi i druga tijela izvrši upis prava u korist Republike Hrvatske.
+
+(3) Ako sud ne utvrdi da je osoba iz članka 560.a stavka 1. ovoga Zakona počinila protupravnu radnju i ostvarila imovinsku korist ili je imovinska korist potpuno obuhvaćena dosuđenim imovinskopravnim zahtjevom, odbit će zahtjev iz članka 560.b stavka 1. ovoga Zakona.
+
+#### Članak 560.e
+
+(1) Presude iz članka 560.d stavaka 1. i 3. ovoga Zakona dostavit će se državnom odvjetniku, osobi iz članka 560.a stavka 1. ovoga Zakona i njezinom branitelju te zakonskom zastupniku, a ako ga nema, bračnom ili izvanbračnom drugu, životnom partneru ili neformalnom životnom partneru odnosno najbližem srodniku te osobi na koju je imovinska korist prenesena.
+
+(2) Protiv presude iz članka 560.d stavaka 1. i 3. ovoga Zakona mogu u roku od petnaest dana od dana primitka podnijeti žalbu sve osobe koje imaju pravo na žalbu protiv presude (članak 464. ovoga Zakona).
+
+(3) Drugostupanjski sud će sjednicu vijeća održati u prisutnosti osobe iz članka 560.a stavka 1. ovoga Zakona i njezinog branitelja ako smatra da je to svrhovito. Svoju odluku sa spisima dostavit će prvostupanjskom sudu najkasnije u roku koji je za polovicu kraći od roka određenog u članku 488. stavku 2. ovoga Zakona.
+
+#### Članak 560.f
+
+Odredbe članaka 560.a do 560.e ovoga Zakona primijenit će se na odgovarajući način i u slučaju smrti osobe protiv koje je pokrenut kazneni postupak.«.
+
+#### Članak 130.
+
+U članku 562. brojka: »3.« zamjenjuje se brojkom: »4.«.
+
+#### Članak 131.
+
+Članak 563. mijenja se i glasi:
+
+»(1) Ako u odredbama ove Glave nije što drugo propisano glede postupka za oduzimanje imovinske koristi ili oduzimanja predmeta, primjenjivat će se ostale odredbe ovoga Zakona, Ovršnog zakona i posebnih zakona.
+
+(2) Ministarstvo nadležno za državnu imovinu vodi evidenciju o privremeno i trajno oduzetim predmetima i imovinskoj koristi ostvarenoj kaznenim djelom koji su pravomoćnom sudskom odlukom privremeno odnosno trajno oduzeti od okrivljenika ili s njim povezanih osoba te koji su takvom odlukom predani na čuvanje i upravljanje ministarstvu nadležnom za državnu imovinu.
+
+(3) Ministar nadležan za državnu imovinu donosi pravilnik kojim se uređuje vođenje evidencije iz stavka 2. ovoga članka.«.
+
+#### Članak 132.
+
+U članku 564. stavku 1. riječ: »oštećenika« zamjenjuju se riječima: »žrtve odnosno oštećenika«.
+
+U stavku 3. u prvoj rečenici riječ: »oštećenika« zamjenjuje se riječju: »žrtvu odnosno oštećenika«. U drugoj rečenici riječ: »oštećenika« zamjenjuje se riječju: »žrtve odnosno oštećenika«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 133.
+
+(1) Ministar nadležan za poslove pravosuđa će uz prethodnu suglasnost ministra nadležnog za unutarnje poslove u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 6. ovoga Zakona.
+
+(2) Ministar nadležan za državnu imovinu u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona donijet će pravilnik iz članka 131. stavka 3. ovoga Zakona.
+
+#### Članak 134.
+
+Ako je na dan stupanja na snagu ovoga Zakona bio u tijeku kakav rok, taj rok će se računati po odredbama ovoga Zakona, osim ako je dosadašnji rok bio dulji.
+
+#### Članak 135.
+
+Sud će u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona ukinuti jamstvo koje je zamijenilo istražni zatvor iz osnova navedenih u članku 123. stavku 1. točkama. 2., 3. i 4. Zakona o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11. – pročišćeni tekst, 91/12. – Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13. i 152/14.) te, po potrebi, odrediti blažu ili težu mjeru osiguranja prisutnosti okrivljenika.
+
+#### Članak 136.
+
+Stupanjem na snagu ovoga Zakona prestaje važiti Pravilnik o evidenciji pravomoćnih rješenja o provođenju istrage (»Narodne novine«, br. 10/14.).
+
+#### Članak 137.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 25., 31., 36., 37., 66. i 67. ovoga Zakona koji stupaju na snagu 1. prosinca 2017.
+
+Klasa: 022-03/17-01/10
+
+Zagreb, 7. srpnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o kaznenom postupku (NN 126/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/126/2530*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o kaznenom postupku, koji je Hrvatski sabor donio na sjednici 13. prosinca 2019.
+
+Klasa: 011-01/19-01/238
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU**
+
+#### Članak 1.
+
+U Zakonu o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11., 91/12., 143/12., 56/13., 145/13., 152/14. i 70/17.) u članku 1.a točki 9. iza riječi: »(SL L 151, 21. 5. 2014.)« točka se zamjenjuje zarezom, a iza točke 9. dodaju se točke 10. i 11. koje glase:
+
+»10) Direktiva 2016/343/EU Europskog parlamenta i Vijeća od 9. ožujka 2016. o jačanju određenih vidova pretpostavke nedužnosti i prava sudjelovati na raspravi u kaznenom postupku (SL L 65, 11. 3. 2016.),
+
+11) Direktiva 2016/1919/EU Europskog parlamenta i Vijeća od 26. listopada 2016. o pravnoj pomoći za osumnjičenike i okrivljenike u kaznenom postupku i za tražene osobe u postupku na temelju europskog uhidbenog naloga (SL L 297, 4. 11. 2016.).«.
+
+#### Članak 2.
+
+U članku 3. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Teret dokaza u postupku utvrđivanja krivnje osumnjičenika, okrivljenika ili optuženika je na tužitelju, osim ako zakonom nije drukčije propisano.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 3.
+
+U članku 18. stavci 3., 4. i 5. brišu se.
+
+#### Članak 4.
+
+Iza članka 18. dodaje se članak 18.a koji glasi:
+
+»Članak 18.a
+
+(1) Sud koji je na temelju članka 267. Ugovora o funkcioniranju Europske unije podnio zahtjev Sudu Europske unije za donošenje prethodne odluke rješenjem će prekinuti postupak do donošenja odluke Suda Europske unije.
+
+(2) Žalba protiv rješenja iz stavka 1. ovoga članka nije dopuštena.
+
+(3) Za vrijeme trajanja prekida ne teče zastara kaznenog progona.
+
+(4) Za vrijeme trajanja prekida postupka sud može poduzeti samo one radnje za koje postoji opasnost od odgode.
+
+(5) Ako je sud odredio prekid postupka zbog razloga iz stavka 1. ovoga Zakona, o podnošenju zahtjeva Sudu Europske unije dužan je obavijestiti ministarstvo nadležno za vanjske poslove.«.
+
+#### Članak 5.
+
+U članku 19.b stavku 3. točki b) iza riječi: »(članak 114. stavak 2.)« riječi: »spolni odnošaj bez pristanka (članak 152.),« brišu se.
+
+#### Članak 6.
+
+U članku 19.c točki 1. podtočki d) iza riječi: »obuka za terorizam (članak 101.),« dodaju se riječi: »putovanje u svrhu terorizma (članak 101.a),«, a iza riječi: »članak 153.« brišu se riječi: »stavak 1.«.
+
+#### Članak 7.
+
+U članku 19.e stavku 1. točki 1. riječ: »presuda« zamjenjuje se riječju: »odluka«, riječi: »općinskih i« brišu se, a iza riječi: »županijskih sudova« stavlja se zarez i dodaju riječi: »osim ako zakonom nije drukčije propisano«.
+
+Iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2) odlučivati u trećem stupnju o žalbama protiv odluka donesenih u drugom stupnju sukladno članku 490. stavku 1. točki 2. ovoga Zakona;«
+
+Dosadašnja točka 2. postaje točka 3.
+
+#### Članak 8.
+
+U članku 19.f stavku 1. točka 1. briše se.
+
+Dosadašnje točke 2., 3. i 4. postaju točke 1., 2. i 3.
+
+#### Članak 9.
+
+U članku 34. stavku 3. iza riječi: »staviti« dodaju se riječi: »nakon što predmet u povodu žalbe bude zaprimljen na višem sudu, a«.
+
+U stavku 4. iza riječi: »postupa« zarez se zamjenjuje točkom, a riječi: »odnosno suca višeg suda.« brišu se.
+
+#### Članak 10.
+
+U članku 35. stavku 5. iza riječi: »članka 34. stavka 4. i 5. ovog Zakona« briše se zarez i dodaju riječi: »i ako je zahtjev za izuzeće iz članka 34. stavka 4. ovoga Zakona podnesen u odnosu na suca ili suca porotnika višeg suda koji u predmetu ne postupa,«.
+
+#### Članak 11.
+
+U članku 44. stavku 5. riječi: »članku 44.« zamjenjuju se riječima: »članku 43.a«.
+
+#### Članak 12.
+
+U članku 66. stavak 3. mijenja se i glasi:
+
+»(3) U slučaju obvezne obrane okrivljeniku će se postaviti branitelj po službenoj dužnosti, ako nema izabranog branitelja niti mu je prethodno postavljen branitelj na teret proračunskih sredstava ili je ostao bez branitelja u tijeku postupka, a sam ne uzme drugog branitelja. Branitelja na prijedlog suda, državnog odvjetnika te policije u slučaju iz članka 208.a ovoga Zakona postavlja predsjednik suda. Protiv rješenja o postavljanju branitelja žalba nije dopuštena.«.
+
+#### Članak 13.
+
+U članku 68. stavku 2. iza riječi: »branitelj po službenoj dužnosti« dodaju se riječi: »ili branitelj na teret proračunskih sredstava«.
+
+#### Članak 14.
+
+U članku 72. stavak 1. mijenja se i glasi:
+
+»(1) Kad obrana nije obvezna, okrivljeniku će se, na njegov zahtjev, nakon primitka rješenja o provođenju istrage ili obavijesti o provođenju dokaznih radnji iz članka 213. stavka 2. ovoga Zakona, odnosno nakon podizanja optužnice iz članka 341. stavka 3. ovoga Zakona, do pravomoćnog dovršetka kaznenog postupka imenovati branitelj na teret proračunskih sredstava, ako učini vjerojatnim da prema svom imovinskom stanju ne može podmiriti troškove obrane bez ugrožavanja vlastitog uzdržavanja i uzdržavanja svoje obitelji ili osoba koje je po zakonu dužan uzdržavati, a složenost, težina ili posebne okolnosti predmeta to opravdavaju.«.
+
+U stavku 6. iza druge rečenice dodaje se treća rečenica koja glasi:
+
+»Ako je okrivljenik prethodno ostvario pravo na privremenu pravnu pomoć iz članka 72.a ovoga Zakona, za branitelja na teret proračunskih sredstava imenovat će se, u pravilu, istog branitelja.«.
+
+#### Članak 15.
+
+Iza članka 72. dodaju se članci 72.a i 72.b koji glase:
+
+»Članak 72.a
+
+(1) Pravo na privremenu pravnu pomoć branitelja na teret proračunskih sredstava ima uhićenik iz članka 107. točaka 2. i 3. ovoga Zakona od trenutka uhićenja pa sve dok uhićenje traje ako izjavi da prema svom imovinskom stanju ne može podmiriti troškove obrane bez ugrožavanja vlastitog uzdržavanja i uzdržavanja svoje obitelji ili osoba koje je po zakonu dužan uzdržavati.
+
+(2) Pravo na privremenu pravnu pomoć branitelja na teret proračunskih sredstava za pojedine radnje, u postupku koji se vodi za kaznena djela za koja je propisana kazna zatvora teža od pet godina, kada obrana nije obvezna, ako izjavi da prema svom imovinskom stanju ne može podmiriti troškove obrane bez ugrožavanja vlastitog uzdržavanja i uzdržavanja svoje obitelji ili osoba koje je po zakonu dužan uzdržavati, prilikom poduzimanja radnje u kojoj sudjeluju, imaju i:
+
+1) osumnjičenik iz članka 208.a ovoga Zakona, koji to pravo stječe prije ispitivanja od strane policije
+
+2) osumnjičenik koji je status stekao u skladu s člankom 208. stavkom 5. ovoga Zakona, koji to pravo stječe prije ispitivanja od strane policije
+
+3) osumnjičenik koji sudjeluje u dokaznim radnjama prepoznavanja, suočenja, rekonstrukcije događaja, koji to pravo stječe prije poduzimanja navedenih radnji
+
+4) osumnjičenik kojeg je potrebno ispitati prije podizanja optužnice u skladu s člankom 341. stavkom 3. ovoga Zakona, koji to pravo stječe prije ispitivanja od strane državnog odvjetnika ili istražitelja
+
+5) osumnjičenik protiv kojeg je predloženo određivanje istražnog zatvora, koji to pravo stječe prije održavanja ročišta za određivanje istražnog zatvora.
+
+(3) Uhićenik mora biti upoznat s pravom na privremenu pravnu pomoć branitelja na teret proračunskih sredstava prilikom uhićenja, odnosno što je prije moguće nakon uhićenja, a osumnjičenik iz stavka 2. ovoga članka prilikom poduzimanja radnje iz stavka 2. ovoga članka. Prilikom obavještavanja o tom pravu uhićenik ili osumnjičenik bit će upozoren da će ga se naknadno, u potpunosti ili djelomično, obvezati na snošenje troškova privremene pravne pomoći ako se u kasnijem tijeku postupka ustanovi da, s obzirom na njegovo imovinsko stanje, može podmiriti troškove obrane.
+
+(4) Ako uhićenik ili osumnjičenik iz stavka 2. ovoga članka pred tijelom koje je poduzelo mjeru uhićenja ili onim koje će poduzeti radnju iz stavka 2. ovoga članka izjavi da s obzirom na svoje imovinsko stanje ne može podmiriti troškove obrane te da želi ostvariti pravo na privremenu pravnu pomoć branitelja na teret proračunskih sredstava, to će tijelo odmah obavijestiti suca istrage radi donošenja odluke o postavljanju branitelja.
+
+(5) Branitelja postavlja rješenjem sudac istrage. Protiv tog rješenja žalba nije dopuštena.
+
+#### Članak 72.b
+
+Ako tijekom postupka branitelj postavljen sukladno članku 66. i članku 72. ovoga Zakona bude razriješen zbog prestanka postojanja razloga obvezne obrane ili zbog okrivljenikova odricanja od prava na branitelja na teret proračunskih sredstava, sud će u slučaju potrebe ponovnog postavljanja branitelja, u pravilu, postaviti istog branitelja.«.
+
+#### Članak 16.
+
+U članku 73. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Okrivljenik može samo iz opravdanih razloga tražiti da postavljeni branitelj bude zamijenjen drugim.«.
+
+Dosadašnji stavci 4., 5. i 6. postaju stavci 5., 6. i 7.
+
+#### Članak 17.
+
+U članku 98. stavku 2. točki 10. iza riječi: »doma« briše se točka, stavlja zarez i dodaje točka 11. koja glasi:
+
+»11) zabrana pristupa internetu.«.
+
+U stavku 6. druga rečenica briše se.
+
+#### Članak 18.
+
+Iza članka 98. dodaje se članak 98.a koji glasi:
+
+»Članak 98.a
+
+(1) U slučaju kada postoje okolnosti iz članka 123. ovoga Zakona, a istekli su rokovi trajanja istražnog zatvora iz članka 133. ovoga Zakona, sud može rješenjem odrediti mjere opreza i kao samostalne mjere opreza. Pritom će sud okrivljenika upozoriti da je nepridržavanje izrečene samostalne mjere opreza kazneno djelo.
+
+(2) Protiv rješenja kojim se određuje, produljuje ili ukida mjera opreza stranke mogu izjaviti žalbu, koja ne zadržava izvršenje rješenja.«.
+
+#### Članak 19.
+
+U članku 99. iza stavka 10. dodaje se stavak 11. koji glasi:
+
+»(11) U rješenju kojim se nalaže mjera opreza zabrane pristupa internetu nadležno tijelo će zabraniti pristup internetu, određenim mrežnim stranicama ili određenim društvenim mrežama.«.
+
+#### Članak 20.
+
+U članku 100. stavku 2. iza riječi: »policija« točka se zamjenjuje zarezom i dodaju se riječi: »dok mjeru opreza zabrane pristupa internetu izvršava policija i regulatorno tijelo nadležno za elektroničke komunikacije.«.
+
+#### Članak 21.
+
+U članku 119. stavak 2. briše se.
+
+Dosadašnji stavci 3., 4. i 5. postaju stavci 2., 3. i 4.
+
+#### Članak 22.
+
+U članku 121. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Istražni zatvor u domu uz koji je sud odredio primjenu elektroničkog nadzora izvršava pravosudna policija zatvorskog sustava uz pomoć policije na čijem se području izvršava.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+Iza dosadašnjeg stavka 3., koji postaje stavak 4., dodaje se stavak 5. koji glasi:
+
+»(5) Ministar nadležan za poslove pravosuđa, uz prethodnu suglasnost ministra nadležnog za unutarnje poslove, donijet će pravilnik o načinu izvršavanja elektroničkog nadzora iz članka 119. stavka 2. ovoga Zakona.«.
+
+#### Članak 23.
+
+U članku 123. stavku 2. iza riječi: »teža kazna« briše se točka, stavlja zarez i dodaju riječi: »neovisno o najduljem trajanju istražnog zatvora propisanog u članku 133. ovoga Zakona.«.
+
+#### Članak 24.
+
+Iza članka 133. dodaje se članak 133.a koji glasi:
+
+#### Članak 133.a
+
+Okrivljenik koji se nalazi u istražnom zatvoru koji je određen na temelju članka 123. stavka 2. ovoga Zakona, a presuda kojom mu je izrečena kazna zatvora nije postala pravomoćna, ostat će u istražnom zatvoru do upućivanja na izdržavanje kazne, a najdulje do isteka trajanja izrečene kazne.«.
+
+#### Članak 25.
+
+U članku 134. stavku 1. riječi: »Vrhovni sud« zamjenjuju se riječima: »viši sud«.
+
+#### Članak 26.
+
+U članku 145. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Ako kaznena prijava nije podnesena, troškove poduzetih radnji, u roku od šest mjeseci od poduzimanja radnji, snosi policija, osim ako je radnja poduzeta po nalogu suda ili državnog odvjetnika, kada troškove snosi tijelo koje je radnju naložilo.«.
+
+Dosadašnji stavci 5., 6. i 7. postaju stavci 6., 7. i 8.
+
+#### Članak 27.
+
+U članku 187. stavku 5. točki 2. iza riječi: »financiranja terorizma (članak 98.),« dodaju se riječi: »javnog poticanja na terorizam (članak 99.), novačenja za terorizam (članak 100.), obuke za terorizam (članak 101.), putovanja u svrhu terorizma (članak 101.a),«.
+
+#### Članak 28.
+
+U članku 212. stavku 1. iza riječi: »privremeno oduzimanje predmeta (261.),« dodaju se riječi: »prepoznavanje (članak 301.),«.
+
+#### Članak 29.
+
+U članku 214. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Policija može, ako je to svrhovito za otkrivanje počinitelja, odrediti potrebna vještačenja, osim obdukcije, ekshumacije i molekularno-genetske analize uzoraka biološkog materijala.«.
+
+U dosadašnjem stavku 2., koji postaje stavak 3., iza riječi: »poduzeto« dodaju se riječi: »policija ili«, a riječ: »mora« zamjenjuje se riječju: »će«.
+
+#### Članak 30.
+
+U članku 218.a stavku 1. točki 2. iza riječi: »financiranja terorizma (članak 98.),« dodaju se riječi: »javnog poticanja na terorizam (članak 99.),«, a iza riječi: »obuke za terorizam (članak 101.),« dodaju se riječi: »putovanja u svrhu terorizma (članak 101.a),«.
+
+#### Članak 31.
+
+U članku 229. stavku 5. u prvoj rečenici riječi: »okrivljenik ima pravo« zamjenjuju se riječima: »okrivljenik i žrtva imaju pravo«, u drugoj rečenici riječ: »okrivljenikov« briše se, a u zadnjoj rečenici riječ: »okrivljenika« zamjenjuje se riječima: »podnositelja prigovora.«
+
+#### Članak 32.
+
+U članku 286. stavku 2. točki 1. iza riječi: »financiranja terorizma (članak 98.),« dodaju se riječi: »javnog poticanja na terorizam (članak 99.), novačenja za terorizam (članak 100.),«, a iza riječi: »obuke za terorizam (članak 101.),« dodaju se riječi: »putovanja u svrhu terorizma (članak 101.a),«.
+
+#### Članak 33.
+
+U članku 326. stavku 5. iza riječi: »financiranje terorizma (članak 98.),« dodaju se riječi: »javno poticanje na terorizam (članak 99.), novačenje za terorizam (članak 100.), obuka za terorizam (članak 101.), putovanje u svrhu terorizma (članak 101.a), terorističko udruženje (članak 102.),«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Radnje iz stavka 1., 2. i 6. ovoga članka odredit će tijelo koje provodi izvide ili postupak.«.
+
+U dosadašnjem stavku 8., koji postaje stavak 9., riječi: »2. i« brišu se.
+
+Dosadašnji stavak 9. postaje stavak 10.
+
+#### Članak 34.
+
+U članku 327. stavku 2. točki 4. iza riječi: »druge osobe« stavlja se točka, a riječi: »pod uvjetom da se ne radi o biološkom uzorku te osobe, osim ako drukčije nije propisano ovim Zakonom.« brišu se.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Uzimanje uzoraka biološkog materijala od osoba iz stavka 2. točke 3. i 4. ovoga članka uz njihovu pisanu suglasnost može odrediti tijelo koje provodi izvide ili postupak, dok molekularno-genetsku analizu tih uzoraka uzetih od tih osoba nalaže državni odvjetnik. Te osobe će se prije potpisivanja suglasnosti poučiti o svrsi uzimanja uzorka te njegovu korištenju u svrhu molekularno-genetske analize. Ako suglasnost nisu u mogućnosti dati ili je odbiju dati, uzimanje biološkog materijala od tih osoba te molekularno-genetsku analizu tih uzoraka na prijedlog državnog odvjetnika može naložiti sud.«.
+
+#### Članak 35.
+
+U članku 334. točki 2. iza riječi: »novačenja za terorizam (članak 100.),« dodaju se riječi: »putovanja u svrhu terorizma (članak 101.a),«.
+
+U točki 3. riječi: »spolnog odnošaja bez pristanka (članak 152.),« brišu se.
+
+#### Članak 36.
+
+U članku 339. stavku 2. točki 2. iza riječi: »financiranja terorizma (članak 98.),« dodaju se riječi: »javnog poticanja na terorizam (članak 99.),«, a iza riječi: »obuke za terorizam (članak 101.),« dodaju se riječi: »putovanja u svrhu terorizma (članak 101.a),«.
+
+#### Članak 37.
+
+U članku 350. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Predsjednik optužnog vijeća poučit će stranke da u svojim izlaganjima iz stavaka 4., 5. i 7. ovoga članka moraju iznijeti sve prijedloge za izdvajanje nezakonitih dokaza, ako ih imaju. Pritom će ih upozoriti da u kasnijem tijeku postupanja optužnog vijeća takve prijedloge ne mogu staviti, osim ako su za razloge izdvajanja nezakonitih dokaza saznali nakon stavljanja prijedloga za izdvajanje, kada ti prijedlozi moraju biti posebno obrazloženi.
+
+(3) Kada se postupak pred optužnim vijećem provodi na način propisan člankom 348. stavkom 4. ovoga Zakona, stranke mogu prijedlog za izdvajanje nezakonitih dokaza staviti u roku od petnaest dana od primitka optužnice. Prijedlog će se smatrati pravovremenim ako ga vijeće zaprimi prije početka sjednice.«.
+
+Dosadašnji stavak 2. postaje stavak 4.
+
+U dosadašnjem stavku 3., koji postaje stavak 5., iza riječi: »istraživanja« stavlja se točka, a riječi: »i na nezakonite dokaze.« brišu se.
+
+Dosadašnji stavci 4., 5., 6. i 7. postaju stavci 6., 7., 8. i 9.
+
+#### Članak 38.
+
+U članku 351. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Ako su stranke stavile prijedlog za izdvajanje nezakonitih dokaza u skladu s člankom 350. stavcima 2. i 3. ovoga Zakona ili ako vijeće, neovisno o prijedlogu stranaka, ustanovi da u spisu postoje dokazi koji se prema članku 86. ovoga Zakona imaju izdvojiti iz spisa, vijeće će najprije odlučiti o izdvajanju nezakonitih dokaza, osim dokaza iz stavka 5. ovoga članka.
+
+(2) Ako je za odluku o zakonitosti pojedinog dokaza potrebno izvođenje dodatnih dokaza, oni će se izvesti odmah ili će se sjednica odgoditi radi njihova izvođenja (prethodno suđenje o zakonitosti dokaza). Vijeće će najprije odlučiti o zakonitosti dokaza, a nakon pravomoćnosti tog rješenja donijet će odluku o optužnici.«.
+
+U stavku 3. iza druge rečenice dodaju se rečenice koje glase:
+
+»Prijedlog za izdvajanje nezakonitih dokaza podnesen protivno članku 350. stavcima 2. i 3. ovoga Zakona vijeće će odbaciti. Protiv tog rješenja žalba nije dopuštena.«.
+
+#### Članak 39.
+
+U članku 371. stavak 2. mijenja se i glasi:
+
+»(2) Pripremno ročište se ne provodi u postupku za kazneno djelo za koje je propisana kazna zatvora do petnaest godina. Ako u postupku za kazneno djelo za koje je propisana kazna zatvora više od petnaest godina predsjednik vijeća, s obzirom na navode u optužnici i prirodu predloženih dokaza, smatra da nije potrebno održavanje pripremnog ročišta, donosi nalog kojim određuje raspravu. Ako predsjednik vijeća zaprimi izjavu za donošenje presude na temelju sporazuma stranaka iz članka 360. stavka 3. ovoga Zakona, postupit će na način propisan člancima 361. do 363. ovoga Zakona.«.
+
+#### Članak 40.
+
+U članku 388. stavku 1. točki 2. broj: »45.« zamjenjuje se riječima: »44. stavka 4.«.
+
+#### Članak 41.
+
+U naslovu iznad članka 413. riječi: »i uvodni govori stranaka« brišu se.
+
+#### Članak 42.
+
+Članak 417. briše se.
+
+#### Članak 43.
+
+U članku 431. stavku 1. točki 7. iza riječi: »predsjednikom vijeća« briše se točka, stavlja zarez i dodaje točka 8. koja glasi:
+
+»8) ako je svjedok ili vještak ispitan na raspravi u prisutnosti stranaka.«.
+
+#### Članak 44.
+
+U članku 458. stavku 4. riječ: »potpisuju« zamjenjuje se riječju: »potpisuje«, a riječi: »i zapisničar« brišu se.
+
+#### Članak 45.
+
+U članku 459. stavku 1. riječ: »objavljena« zamjenjuje se riječju: »izrečena«.
+
+#### Članak 46.
+
+U članku 475. stavak 3. mijenja se i glasi:
+
+»(3) Sjednica vijeća počinje izlaganjem žalbe i odgovora na žalbu. Stranka koja je prisutna na sjednici izložit će u vremenu koje za to odredi predsjednik vijeća najvažnije dijelove žalbe odnosno odgovora na žalbu. Vijeće može od stranaka koje su prisutne na sjednici zatražiti potrebna objašnjenja u vezi sa žalbenim navodima.«.
+
+#### Članak 47.
+
+U članku 487. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Kad se prvostupanjska presuda ukida zbog bitnih povreda odredaba kaznenog postupka sukladno stavku 2. ovoga članka, a žalba je podnesena i zbog pogrešno ili nepotpuno utvrđenoga činjeničnog stanja, u obrazloženju treba navesti ocjenu svih žalbenih navoda sukladno stavku 3. ovoga članka te uputu prvostupanjskom sudu u odnosu na pravno odlučne činjenice koje treba raspraviti u ponovljenom postupku.«
+
+#### Članak 48.
+
+U članku 489. stavku 3. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»U odnosu na nesporna pitanja dokazi izvedeni na ranijoj raspravi mogu se pročitati, sukladno članku 431. ovoga Zakona.«.
+
+#### Članak 49.
+
+U članku 527. stavak 7. briše se.
+
+#### Članak 50.
+
+U članku 556. stavak 1. mijenja se i glasi:
+
+»(1) Predmeti koji se po zakonu moraju oduzeti, oduzet će se. Predmeti koji se prema zakonu mogu oduzeti, mogu se oduzeti i kad kazneni postupak ne završi presudom kojom se okrivljenik proglašava krivim.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 51.
+
+Odluku o pravnim lijekovima izjavljenim protiv odluka iz nadležnosti županijskih sudova donesenih do 31. prosinca 2019. donosi Vrhovni sud Republike Hrvatske. Ako Vrhovni sud Republike Hrvatske ukine odluku i uputi predmet prvostupanjskom sudu na ponovno suđenje i odluku te nakon ponovljenog postupka bude izjavljen pravni lijek, o njemu će odlučivati Visoki kazneni sud.
+
+#### Članak 52.
+
+Kazneni postupak za kaznena djela iz članka 19.a stavka 1. točke 1. Zakona o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11., 91/12., 143/12., 56/13., 145/13., 152/14. i 70/17.) u odnosu na koja je ovim Zakonom izmijenjena nadležnost suda dovršit će sud koji je bio nadležan po Zakonu o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11., 91/12., 143/12., 56/13., 145/13., 152/14. i 70/17.).
+
+#### Članak 53.
+
+Ministar nadležan za poslove pravosuđa donijet će pravilnik iz članka 22. ovoga Zakona u roku od 30 dana od dana njegova stupanja na snagu.
+
+#### Članak 54.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020. godine, osim članaka 21. i 22. ovoga Zakona koji stupaju na snagu 1. siječnja 2021.
+
+Klasa: 022-03/19-01/207  
+Zagreb, 13. prosinca 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o kaznenom postupku (NN 80/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1169*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o kaznenom postupku, koji je Hrvatski sabor donio na sjednici 1. srpnja 2022.
+
+Klasa: 011-02/22-02/59
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 6. srpnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU**
+
+#### Članak 1.
+
+U Zakonu o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11. – pročišćeni tekst, 91/12. ‒ Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13., 152/14., 70/17. i 126/19.) u članku 1.a točki 11. iza riječi: »(SL L 297, 4. 11. 2016.)« briše se točka i stavlja zarez, a iza točke 11. dodaje se točka 12. koja glasi:
+
+»12) Direktiva (EU) 2017/541 Europskog parlamenta i Vijeća od 15. ožujka 2017. o suzbijanju terorizma i zamjeni Okvirne odluke Vijeća 2002/475/PUP i o izmjeni Odluke Vijeća 2005/671/PUP (SL L 88, 31. 3. 2017.).«.
+
+#### Članak 2.
+
+U članku 19.c točki 1. podtočki d) iza riječi: »silovanje (članak 153.),« dodaju se riječi: »teška kaznena djela protiv spolne slobode (članak 154.),«.
+
+#### Članak 3.
+
+U članku 19.f stavak 2. mijenja se i glasi:
+
+»(2) Vrhovni sud sudi u vijećima sastavljenim od tri suca, a u vijeću od pet sudaca kada odlučuje o pravnim lijekovima protiv presuda za kaznena djela za koja je propisana kazna dugotrajnog zatvora i kada odlučuje o zahtjevu za zaštitu zakonitosti podnesenom protiv odluke Vrhovnog suda, ako drukčije nije propisano zakonom.«.
+
+#### Članak 4.
+
+U članku 43. stavku 1. točki 1. iza riječi: »pravo na« dodaju se riječi: »lako dostupan, povjerljiv i besplatan«.
+
+Iza točke 11. dodaje se nova točka 12. koja glasi:
+
+»12) pravo predložiti da bude ispitana putem audio-video uređaja,«.
+
+Dosadašnja točka 12. postaje točka 13.
+
+#### Članak 5.
+
+U članku 70. stavku 3. iza riječi: »policijski službenik,« dodaju se riječi: »odnosno ovlaštena osoba ministarstva nadležnog za obranu,«.
+
+U stavku 5. riječi: »članka 265. stavka 1. do 4.« zamjenjuju se riječima: »članka 265. stavka 1. do 5.«.
+
+#### Članak 6.
+
+Naziv glave VII. mijenja se i glasi: »PODNESCI I ZAPISNIK«.
+
+#### Članak 7.
+
+U članku 78. stavak 1. mijenja se i glasi:
+
+»(1) Kaznena prijava, prijedlog za progon, privatna tužba, optužnica, pravni lijek, druge izjave i priopćenja te njihovi prilozi policiji i tijelu koje vodi postupak podnose se pisano, ako zakonom nije drukčije propisano.«.
+
+#### Članak 8.
+
+Iza članka 78. dodaju se naslov iznad članka i članak 78.a koji glase:
+
+*»2. Podnesci u elektroničkom obliku*
+
+#### Članak 78.a
+
+(1) Podnesci se tijelu koje vodi postupak mogu podnijeti u elektroničkom obliku putem informacijskog sustava. Ako je podnesak podnesen putem informacijskog sustava, na isti način podnose se i prilozi koji postoje u elektroničkom obliku.
+
+(2) Iznimno od stavka 1. ovoga članka, državna tijela, državno odvjetništvo, odvjetnici, sudski vještaci, sudski tumači i pravne osobe dužni su podneske i njihove priloge koji postoje u elektroničkom obliku sudu podnositi putem informacijskog sustava.
+
+(3) Podnesak u elektroničkom obliku mora biti potpisan kvalificiranim elektroničkim potpisom u skladu s posebnim propisima. Podnesak u elektroničkom obliku potpisan kvalificiranim elektroničkim potpisom smatrat će se vlastoručno potpisanim.
+
+(4) Trenutak kada je informacijski sustav podnositelju potvrdio primitak podneska smatra se trenutkom predaje podneska tijelu koje vodi postupak.
+
+(5) Ako podnesak podnesen u elektroničkom obliku nije prikladan za obradu, tijelo koje vodi postupak o tome će obavijestiti podnositelja i naložiti mu da podnesak podnese u odgovarajućem obliku.
+
+(6) Ministarstvo nadležno za pravosuđe uspostavlja siguran informacijski sustav sukladan odredbama ovoga Zakona i drugih propisa kojima se regulira zaštita osobnih podataka.
+
+(7) Ministar nadležan za pravosuđe donijet će pravilnik kojim se uređuju pretpostavke za podnošenje podnesaka i dostavu u elektroničkom obliku, oblici zapisa podnesaka u elektroničkom obliku te organizacija i djelovanje informacijskog sustava.«.
+
+#### Članak 9.
+
+Naslov iznad članka 79. briše se.
+
+Članak 79. mijenja se i glasi:
+
+»(1) Osobe koje nisu obvezne postupati po članku 78.a stavku 2. ovoga Zakona mogu tijelu koje vodi postupak podneske podnositi putem elektroničke pošte ili drugog odgovarajućeg telekomunikacijskog sredstva. Da bi se podnesak mogao podnijeti na taj način, mora biti sastavljen u obliku elektroničke isprave, u skladu s posebnim zakonom.
+
+(2) Iznimno, osobe koje su obvezne postupati po članku 78.a stavku 2. ovoga Zakona, a iz opravdanih razloga ne mogu postupiti po toj odredbi mogu tijelu koje vodi postupak podnesak podnijeti na način propisan stavkom 1. ovoga članka.
+
+(3) Podnesak iz stavka 1. ovoga članka smatra se zaprimljenim u elektroničkoj pošti ili drugom odgovarajućem telekomunikacijskom uređaju tijela koje vodi postupak trenutkom potvrde njegova primitka. Tijelo koje vodi postupak osigurava uredno djelovanje automatiziranog sustava potvrde primitka. Ako pošiljatelj ne zaprimi potvrdu primitka, obavijestit će o tome primatelja, pa ako u roku koji je odredio ne primi tu potvrdu, smatrat će se da podnesak nije podnesen.
+
+(4) O podnesku iz stavka 1. ovoga članka tijelo koje vodi postupak sastavlja službenu zabilješku.
+
+(5) Na podnesak iz stavka 1. ovoga članka na odgovarajući se način primjenjuje odredba članka 78.a stavka 5. ovoga Zakona.«.
+
+#### Članak 10.
+
+U članku 87. stavak 6. mijenja se i glasi:
+
+»(6) U slučajevima iz stavka 1. i 2. ovoga članka sud ili državni odvjetnik može odrediti da se snimka u cijelosti ili djelomično prepiše. Prijepis će se priključiti spisu predmeta i ne predstavlja dokaz u postupku.«.
+
+#### Članak 11.
+
+U članku 89. stavku 1. riječ: »sudom« zamjenjuje se riječima: »tijelom koje vodi postupak«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Kada je izjava dana putem informacijskog sustava (članak 78.a), trenutak kada je informacijski sustav podnositelju potvrdio primitak podneska smatra se trenutkom predaje podneska tijelu kojemu je upućen. Smatra se da pošiljatelj podneska koji je postupio u roku nije propustio rok ako sustav nije potvrdio primitak ili podnositelj nije primio izjavu suda o primitku podneska zbog pogrešnog rada informacijskog sustava, a za koji pošiljatelj nije znao.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., broj: »2.« zamjenjuje se brojem: »3.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 12.
+
+U članku 108. stavku 7. riječi: »policijski službenik dužan ga je upoznati« zamjenjuju se riječima: »policija je dužna upoznati ga«.
+
+#### Članak 13.
+
+U članku 109. stavku 1. riječi: »Policijski službenik« zamjenjuju se riječju: »Policija«.
+
+#### Članak 14.
+
+U članku 121. stavak 2. mijenja se i glasi:
+
+»(2) Istražni zatvor u domu uz koji je sud odredio primjenu elektroničkog nadzora izvršava nadležna ustrojstvena jedinica ministarstva nadležnog za poslove pravosuđa uz pomoć policije na čijem se području izvršava.«.
+
+#### Članak 15.
+
+U članku 139. stavku 5. iza riječi: »s braniteljem« briše se točka, stavlja zarez i dodaju riječi: »koji se može osigurati i putem zatvorenog tehničkog uređaja za vezu na daljinu (audio-video uređaj), ako okrivljenik na to pristane.«.
+
+#### Članak 16.
+
+U članku 145. stavak 4. mijenja se i glasi:
+
+»(4) Troškovi iz stavka 2. točaka 1. do 5. ovoga članka, osim onih koji su nastali u tijelima koja se financiraju iz državnog proračuna, te nužni izdaci i nagrada postavljenog branitelja, postavljenog opunomoćenika oštećenika kao tužitelja u postupku zbog kaznenih djela za koja se progoni po službenoj dužnosti i postavljenog opunomoćenika djeteta žrtve kaznenog djela isplaćuju se iz sredstava tijela koje vodi kazneni postupak, a naplaćuju poslije od osoba koje su ih dužne naknaditi prema odredbama ovoga Zakona. Postavljeni branitelj i postavljeni opunomoćenik mogu i tijekom postupka podnijeti zahtjev za podmirenje troškova na ime nagrade i nužnih izdataka, o čemu će tijelo koje vodi postupak donijeti posebno rješenje u roku od tri mjeseca od postavljenog zahtjeva.«.
+
+#### Članak 17.
+
+U članku 169. stavku 1. točke 4. i 5. mijenjaju se i glase:
+
+»4) telekomunikacijskog sredstva,
+
+5) informacijskog sustava.«.
+
+#### Članak 18.
+
+Članak 170. mijenja se i glasi:
+
+»(1) Tijelo koje je sastavilo odluku i dopis šalje ga osobi kojoj je upućen (primatelj) na adresu njezina prebivališta ili boravišta ili adresu zaposlenja, a može se poslati i na drugu adresu na kojoj se primatelj može zateći. Državnom tijelu, državnom odvjetništvu, odvjetnicima, sudskim vještacima, sudskim tumačima i pravnim osobama odluke i dopisi dostavljaju se putem informacijskog sustava, osim u slučaju iz članka 176. stavka 3. ovoga Zakona.
+
+(2) Dostava će se obaviti putem informacijskog sustava ako stranka ili drugi sudionik postupka izjavi da je suglasan s takvim načinom dostave. Izjavu stranka ili drugi sudionik postupka daje pisano ili usmeno na zapisnik te je može povući u svakom trenutku tijekom postupka.
+
+(3) Ako tijelu koje vodi postupak stranka ili drugi sudionik postupka podnesak podnese putem informacijskog sustava, tijelo koje vodi postupak pozvat će stranku ili drugog sudionika da se očituje pisano ili usmeno na zapisnik je li suglasan da mu se dostava obavlja putem informacijskog sustava.
+
+(4) Ako dostava putem informacijskog sustava nije moguća ili ako okolnosti slučaja to opravdavaju, tijelo koje vodi postupak dostavu će obaviti na drugi način.
+
+(5) Na dostavu dopisa telekomunikacijskim sredstvom primjenjuju se odredbe članka 79. ovoga Zakona.
+
+(6) Vojnim osobama, pripadnicima policije i pravosudne policije dopis se može dostaviti i preko njihova zapovjedništva ili voditelja ustrojstvene jedinice.
+
+(7) Osobama kojima je oduzeta sloboda odluka i dopis dostavljaju se u sudu ili preko uprave ustanove u kojoj su smještene.
+
+(8) Osobama koje u Republici Hrvatskoj imaju pravo imuniteta po međunarodnom pravu odluka i dopis dostavljaju se preko ministarstva nadležnog za vanjske poslove, ako međunarodnim ugovorima nije što drugo predviđeno.
+
+(9) Odluka i dopis državljanima Republike Hrvatske u stranoj državi, ako se ne primjenjuje postupak propisan odredbama o međunarodnoj pravnoj pomoći, dostavljaju se posredovanjem diplomatskog ili konzularnog poslanstva Republike Hrvatske u stranoj državi, uz uvjet da se strana država ne protivi takvu načinu dostave. Ovlašteni djelatnik diplomatskog ili konzularnog poslanstva potpisuje dostavnicu kao dostavljač ako je dopis uručen u samom poslanstvu, a ako je dopis dostavljen poštom, to potvrđuje na dostavnici.
+
+(10) Osobama uključenima u program zaštite svjedoka prema ovom Zakonu i drugim propisima odluka i dopis dostavljaju se preko tijela koje provodi zaštitu.«.
+
+#### Članak 19.
+
+Iza članka 172. dodaje se članak 172.a koji glasi:
+
+»Članak 172.a
+
+(1) Dostava putem informacijskog sustava obavlja se slanjem odluke ili dopisa u sigurni elektronički poštanski pretinac primatelja.
+
+(2) Informacijski sustav istodobno sa slanjem odluke ili dopisa iz stavka 1. ovoga članka šalje primatelju na adresu elektroničke pošte i informativnu poruku u kojoj ga obavještava o dostavi. U poruci se primatelja upozorava na pravnu posljedicu iz stavka 3. ovoga članka.
+
+(3) Kada se dostava obavlja putem informacijskog sustava, smatrat će se da su odluka ili dopis dostavljeni istekom osmog dana od dana kada su zaprimljeni u sigurni elektronički poštanski pretinac primatelja.
+
+(4) Na način određen u ovom članku putem informacijskog sustava mogu se dostaviti i odluke i dopisi koji imaju izvornike u fizičkom obliku ako je elektronički (skenirani) prijepis koji je izrađen na temelju izvornika u fizičkom obliku ovjeren kvalificiranim elektroničkim pečatom suda.
+
+(5) Dostava obavljena putem informacijskog sustava smatra se neposrednom dostavom.«.
+
+#### Članak 20.
+
+U članku 175. stavku 7. iza riječi: »telekomunikacijskog sredstva« dodaju se riječi: »ili kada se dostava obavlja putem informacijskog sustava, danom isteka roka iz članka 172.a stavka 3. ovoga Zakona«.
+
+#### Članak 21.
+
+U članku 199. riječ: »potvrđivanja« zamjenjuje se riječju: »podizanja«.
+
+#### Članak 22.
+
+U članku 208.a stavku 4. riječi: »policijski službenik dužan ga je upoznati« zamjenjuju se riječima: »policija je dužna upoznati ga«.
+
+#### Članak 23.
+
+U članku 208.b stavku 1. riječi: »policijskih službenika« zamjenjuju se riječju: »policije«.
+
+#### Članak 24.
+
+U članku 286. stavku 2. točki 1. riječi: »pranja novca (članak 265. stavak 4.)« zamjenjuju se riječima: »pranja novca (članak 265. stavak 5.)«.
+
+#### Članak 25.
+
+U članku 310. stavku 2. treća rečenica briše se.
+
+#### Članak 26.
+
+U članku 334. točki 1. riječi: »pranja novca (članak 265. stavak 4.)« zamjenjuju se riječima: »pranja novca (članak 265. stavak 5.)«.
+
+#### Članak 27.
+
+U članku 335. stavku 2. treća rečenica briše se.
+
+#### Članak 28.
+
+U članku 348. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Prisutnost stranaka na sjednici optužnog vijeća može se osigurati i uz pomoć zatvorenog tehničkog uređaja za vezu na daljinu (audio-video uređaj) kojim rukuje stručna osoba. Činjenica da su stranke bile prisutne na sjednici optužnog vijeća uz pomoć audio-video uređaja, vrsta uređaja te ime stručne osobe koja je njime rukovala unijet će se u zapisnik o sjednici optužnog vijeća. U tom slučaju ne može se donijeti presuda na temelju sporazuma stranaka.«.
+
+#### Članak 29.
+
+U članku 372. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Prisutnost stranaka na pripremnom ročištu može se osigurati i uz pomoć zatvorenog tehničkog uređaja za vezu na daljinu (audio-video uređaj) kojim rukuje stručna osoba. Činjenica da su stranke bile prisutne na pripremnom ročištu uz pomoć audio-video uređaja, vrsta uređaja te ime stručne osobe koja je njime rukovala unijet će se u zapisnik o pripremnom ročištu. U tom slučaju ne može se donijeti presuda na temelju sporazuma stranaka.«.
+
+#### Članak 30.
+
+Naslov iznad članka 409. mijenja se i glasi: »5. Zapisnik o raspravi i snimanje rasprave«.
+
+#### Članak 31.
+
+U članku 409. stavak 2. mijenja se i glasi:
+
+»(2) Predsjednik vijeća može odrediti da se rasprava ili pojedini njezini dijelovi (iskazi optuženika, svjedoka, vještaka i važne izjave stranaka) snime uređajem za audio ili audio-video snimanje. U tom slučaju zapisnik tvore audio ili audio-video snimka rasprave i zapisnik o tijeku rasprave. Predsjednik vijeća može odlučiti da se izradi prijepis audio snimke rasprave kada za to postoje opravdani razlozi, primjerice u slučaju iz članka 407. ovoga Zakona, a uvijek kada to zatraži okrivljenik koji nema branitelja. Prijepis se izrađuje u roku od pet radnih dana te ga pregledava i ovjerava predsjednik vijeća i prilaže zapisniku o raspravi, a iz opravdanih razloga taj rok može se produljiti za daljnjih deset radnih dana.«.
+
+#### Članak 32.
+
+Iza članka 409. dodaje se članak 409.a koji glasi:
+
+»Članak 409.a
+
+(1) Rasprava se snima. Snimanje se provodi uređajem za audio snimanje rasprave. O postupanju na raspravi vodi se zapisnik.
+
+(2) Zapisnik tvore audio snimka rasprave i zapisnik o tijeku rasprave. Strankama će se odmah omogućiti preuzimanje audio snimke. Zapisniku se prilaže transkript rasprave učinjen uz pomoć uređaja za automatsku transkripciju, koji služi kao pomoćno sredstvo uz audio snimku.
+
+(3) Predsjednik vijeća može odlučiti da se izradi prijepis audio snimke rasprave kada za to postoje opravdani razlozi, primjerice u slučaju iz članka 407. ovoga Zakona, a uvijek kada to zatraži okrivljenik koji nema branitelja. Prijepis se izrađuje u roku od pet radnih dana te ga pregledava i ovjerava predsjednik vijeća i prilaže zapisniku o raspravi, a iz opravdanih razloga taj se rok može produljiti za daljnjih deset radnih dana.
+
+(4) Predsjednik vijeća može odrediti da se rasprava ili pojedini njezini dijelovi (iskazi optuženika, svjedoka, vještaka i važne izjave stranaka) snime uređajem za audio-video snimanje. U tom slučaju zapisnik tvore audio-video snimka rasprave i zapisnik o tijeku rasprave, a strankama će se odmah omogućiti preuzimanje kopije audio-video snimke.
+
+(5) Na audio i audio-video snimanje tijeka rasprave odgovarajuće se primjenjuju odredbe članka 87. stavka 3., članka 330. stavka 2. i članka 395. stavka 4. ovoga Zakona.«.
+
+#### Članak 33.
+
+Iza članka 411. dodaje se članak 411.a koji glasi:
+
+»Članak 411.a
+
+(1) U uvodu zapisnika mora se naznačiti sud pred kojim se održava rasprava, mjesto i vrijeme zasjedanja, ime i prezime predsjednika vijeća, članova vijeća i zapisničara, prisutnih tužitelja, optuženika i branitelja, oštećenika i njegova zakonskog zastupnika ili opunomoćenika, tumača, vještaka, svjedoka i drugih osoba koje sudjeluju na raspravi, kazneno djelo koje je predmet raspravljanja te je li rasprava javna ili je javnost isključena.
+
+(2) Zapisnik mora sadržavati broj i oznaku optužnice na temelju koje se vodi postupak, dokaze koji su izvedeni na raspravi, važne odluke koje je donosio predsjednik vijeća ili vijeće o prijedlozima stranaka te upravljanju raspravom, kao i popis drugih bitnih radnji koje su poduzete na raspravi bez navođenja njihova sadržaja. U zapisnik će se unijeti i izreka presude.
+
+(3) Ako je svjedok ili vještak ranije ispitan pred sudom ili državnim odvjetnikom u smislu članka 234. i 235. ovoga Zakona, u slučaju odstupanja ili dopune takva njegova ranijeg iskaza i vještačenja, prema potrebi, reproducirat će se snimka njegova prijašnjeg iskaza ili dijela iskaza danog pred sudom ili državnim odvjetnikom u smislu članka 234. i 235. ovoga Zakona, odnosno taj dio njegova iskaza će se pročitati.
+
+(4) Ako svjedok ili vještak nije ispitan pred sudom ili državnim odvjetnikom na način propisan člankom 234. i 235. ovoga Zakona, na raspravi se može reproducirati snimka ranijeg iskaza ili dijela iskaza tako ispitanog svjedoka ili vještaka, i to u dijelu koji sadrži odstupanja u iskazima, odnosno taj dio njegova iskaza će se pročitati. Na takvom iskazu ne može se isključivo ili u odlučujućoj mjeri temeljiti osuđujuća presuda.«.
+
+#### Članak 34.
+
+U članku 426. iza riječi: »prema potrebi,« dodaju se riječi: »reproducirat će se snimka njegova prijašnjeg iskaza ili dijela tog iskaza, odnosno«.
+
+#### Članak 35.
+
+U članku 464. stavku 8. riječ: »nepotpuno« zamjenjuje se riječju: »pogrešno«.
+
+#### Članak 36.
+
+Članak 473. mijenja se i glasi:
+
+»Primjerak žalbe dostavit će prvostupanjski sud protivnoj stranci, koja može podnijeti odgovor na žalbu u roku od osam dana. Prvostupanjski sud će odgovor državnog odvjetnika na žalbu okrivljenika dostaviti okrivljeniku koji je podnio žalbu. Žalbu će sa spisom prvostupanjski sud dostaviti drugostupanjskom sudu.«.
+
+#### Članak 37.
+
+Iza članka 474. dodaje se članak 474.a koji glasi:
+
+»Članak 474.a
+
+(1) Drugostupanjski sud donosi odluku u sjednici vijeća ili na temelju održane rasprave.
+
+(2) Drugostupanjski sud na sjednici vijeća donosi odluku o održavanju rasprave.«.
+
+#### Članak 38.
+
+U članku 475. stavak 1. briše se.
+
+Dosadašnji stavci 2. do 8. postaju stavci 1. do 7.
+
+#### Članak 39.
+
+Iza članka 475. dodaju se članci 475.a, 475.b i 475.c koji glase:
+
+»Članak 475.a
+
+(1) Rasprava pred drugostupanjskim sudom održat će se u slučaju iz članka 484.a ovoga Zakona.
+
+(2) Na raspravu pred drugostupanjskim sudom pozivaju se optuženik i njegov branitelj, tužitelj, oštećenik, zakonski zastupnici i opunomoćenici oštećenika, oštećenik kao tužitelj, privatni tužitelj te svjedoci i vještaci za koje sud odluči da se ispitaju.
+
+(3) Ako je optuženik u istražnom zatvoru, predsjednik vijeća drugostupanjskog suda poduzet će sve što je potrebno da se optuženik dovede na raspravu.
+
+(4) Ako oštećenik kao tužitelj ili privatni tužitelj ne dođe na raspravu pred drugostupanjskim sudom, postupak se neće obustaviti nego će se rasprava okončati u njegovoj odsutnosti.
+
+#### Članak 475.b
+
+(1) Rasprava pred drugostupanjskim sudom počinje čitanjem presude ili dijela presude na koji se odnosi žalba, a po potrebi i zapisnika o raspravi.
+
+(2) Nakon toga žalitelj će obrazložiti žalbu, a protivna stranka odgovor na žalbu. Optuženik i njegov branitelj uvijek imaju posljednju riječ.
+
+(3) Stranke ne mogu na raspravi iznositi nove dokaze i činjenice osim onih koji su nastali nakon izricanja prvostupanjske presude u ponovljenom postupku ili za koje su nakon toga saznale.
+
+#### Članak 475.c
+
+Ako u člancima 473. do 475.b ovoga Zakona nije što drugo propisano, odredbe o raspravi pred prvostupanjskim sudom na odgovarajući će se način primjenjivati i u postupku pred drugostupanjskim sudom.«.
+
+#### Članak 40.
+
+U članku 480. stavku 1. iza riječi: »Drugostupanjski sud može« dodaju se riječi: »u sjednici vijeća ili na temelju provedene rasprave«.
+
+#### Članak 41.
+
+Iza članka 484. dodaje se članak 484.a koji glasi:
+
+»Članak 484.a
+
+(1) Prvostupanjska se presuda u povodu žalbe može ukinuti i predmet vratiti prvostupanjskom sudu na ponovno suđenje najviše jedanput.
+
+(2) Ako drugostupanjski sud smatra da bi prvostupanjsku presudu trebalo ukinuti i nakon što je ona bila već jedanput ukinuta u povodu žalbe i predmet vraćen prvostupanjskom sudu na ponovno suđenje, drugostupanjski će sud sam provesti raspravu i donijeti presudu.«.
+
+#### Članak 42.
+
+U članku 490. stavku 1. iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2) drugostupanjski sud na temelju održane rasprave utvrdio činjenično stanje drukčije nego prvostupanjski sud i na tako utvrđenom činjeničnom stanju utemeljio svoju presudu;«.
+
+Dosadašnja točka 2. postaje točka 3.
+
+#### Članak 43.
+
+U članku 502. stavku 2. prva rečenica mijenja se i glasi:
+
+»Kazneni postupak obnovit će se i kada je zahtjev za obnovu podnesen na temelju konačne presude ili odluke Europskog suda za ljudska prava kojima je utvrđena povreda prava i sloboda iz Konvencije ako je povreda Konvencije utjecala na ishod postupka, a povreda ili njezina posljedica može se ispraviti u obnovljenom postupku.«
+
+#### Članak 44.
+
+U članku 554. stavku 1. iza druge rečenice dodaje se rečenica koja glasi:
+
+»U presudi će se izreći da troškovi kaznenog postupka iz članka 145. stavka 2. točke 1. do 5. ovoga Zakona te nužni izdaci okrivljenika i nužni izdaci, kao i nagrada branitelja padaju na teret proračunskih sredstava.«.
+
+U stavku 2. na kraju rečenice briše se točka, stavlja zarez i dodaju riječi: »neovisno o najduljem trajanju istražnog zatvora propisanog u članku 133. ovoga Zakona.«.
+
+#### Članak 45.
+
+U članku 557.e stavku 2. riječ: »potvrđivanja« zamjenjuje se riječju: »podizanja«.
+
+U stavku 3. iza riječi: »tri mjeseca« dodaju se riječi: »od određivanja privremene mjere«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 46.
+
+U kaznenim postupcima u kojima je prvostupanjska presuda već bila jedanput ili više puta ukinuta prije stupanja na snagu ovoga Zakona, na ta ranija ukidanja ne primjenjuje se članak 41. ovoga Zakona.
+
+#### Članak 47.
+
+Ministar nadležan za pravosuđe donijet će u roku od 30 dana od dana stupanja na snagu ovoga Zakona pravilnik iz članka 8. ovoga Zakona.
+
+#### Članak 48.
+
+Stupanjem na snagu članaka 32. i 33. ovoga Zakona prestaju važiti članci 409. i 411. Zakona o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11. ‒ pročišćeni tekst, 91/12. ‒ Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13., 152/14., 70/17. i 126/19.).
+
+#### Članak 49.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 32. i 33. ovoga Zakona koji stupaju na snagu 1. listopada 2024.
+
+Klasa: 022-02/22-01/19
+
+Zagreb, 1. srpnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o kaznenom postupku (NN 36/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/569*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o kaznenom postupku, koji je Hrvatski sabor donio na sjednici 14. ožujka 2024.
+
+Klasa: 011-02/24-02/25
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 18. ožujka 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU**
+
+#### Članak 1.
+
+U Zakonu o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11. – pročišćeni tekst, 91/12. – Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13., 152/14., 70/17., 126/19., 126/19. ‒ Rješenje Ustavnog suda Republike Hrvatske, 130/20. – Odluka i Rješenje Ustavnog suda Republike Hrvatske i 80/22.) u članku 1.a iza točke 8. dodaje se nova točka 9. koja glasi:
+
+»9. Direktiva 2014/57/EU Europskog parlamenta i Vijeća od 16. travnja 2014. o kaznenopravnim sankcijama za zlouporabu tržišta (SL L 173, 12. 6. 2014.),«.
+
+Dosadašnja točka 9. postaje točka 10.
+
+Iza dosadašnje točke 10., koja postaje točka 11., dodaje se nova točka 12. koja glasi:
+
+»12. Direktiva 2016/800/EU Europskog parlamenta i Vijeća od 11. svibnja 2016. o postupovnim jamstvima za djecu koja su osumnjičenici ili optuženici u kaznenim postupcima (SL L 132, 21. 5. 2016.), ».
+
+Dosadašnja točka 11. postaje točka 13.
+
+U dosadašnjoj točki 12., koja postaje točka 14., iza riječi:»(SL L 88, 31. 3. 2017.)« točka se zamjenjuje zarezom.
+
+Iza točke 14. dodaju se točke 15., 16. i 17. koje glase:
+
+»15. Direktiva (EU) 2017/1371 Europskog parlamenta i Vijeća od 5. srpnja 2017. o suzbijanju prijevara počinjenih protiv financijskih interesa Unije kaznenopravnim sredstvima (SL L 198, 28. 7. 2017.),
+
+16. Direktiva (EU) 2018/1673 Europskog parlamenta i Vijeća od 23. listopada 2018. o borbi protiv pranja novca kaznenopravnim sredstvima (SL L 284, 12. 11. 2018.),
+
+17. Direktiva (EU) 2019/713 Europskog parlamenta i Vijeća od 17. travnja 2019. o borbi protiv prijevara i krivotvorenja u vezi s bezgotovinskim sredstvima plaćanja i zamjeni Okvirne odluke Vijeća 2001/413/PUP (SL L 123, 10. 5. 2019.).«.
+
+#### Članak 2.
+
+U članku 7. stavku 2. točki 2. iza riječi: »iskazivati,« dodaju se riječi: »da ima pravo sam sebe ne izložiti kaznenom progonu te da se korištenje tih prava ne smije upotrijebiti protiv njega te se ne smije smatrati dokazom da je počinio kazneno djelo koje mu se stavlja na teret,«.
+
+#### Članak 3.
+
+U članku 43. stavak 1. mijenja se i glasi:
+
+»(1) Žrtva kaznenog djela ima sukladno ovom Zakonu:
+
+1) pravo na lako dostupan, povjerljiv i besplatan pristup službama za potporu žrtvama kaznenih djela, odmah nakon počinjenja kaznenog djela i onoliko dugo koliko je potrebno,
+
+2) pravo na djelotvornu psihološku i drugu stručnu pomoć i potporu tijela, organizacije ili ustanove za pomoć žrtvama kaznenih djela u skladu sa zakonom,
+
+3) pravo na zaštitu od zastrašivanja i odmazde,
+
+4) pravo na zaštitu dostojanstva tijekom ispitivanja žrtve kao svjedoka,
+
+5) pravo da bude saslušana bez neopravdane odgode nakon podnošenja kaznene prijave te da se daljnja saslušanja provode samo u mjeri u kojoj je to nužno za potrebe kaznenog postupka,
+
+6) pravo na pratnju osobe od povjerenja, po njezinu izboru (članak 202. stavak 2. točka 38. ovoga Zakona), pri poduzimanju svih radnji u kojima sudjeluje, od prijave žrtve do pravomoćnog okončanja kaznenog postupka,
+
+7) pravo da se medicinski zahvati prema žrtvi poduzimaju u najmanjoj mjeri i samo ako su krajnje nužni za potrebe kaznenog postupka,
+
+8) pravo podnijeti prijedlog za progon i privatnu tužbu sukladno odredbama Kaznenog zakona, pravo sudjelovati u kaznenom postupku kao oštećenik, pravo biti obaviještena o odbacivanju kaznene prijave (članak 206. stavak 3. ovoga Zakona) i odustajanju državnog odvjetnika od kaznenog progona te pravo preuzeti kazneni progon umjesto državnog odvjetnika,
+
+9) pravo na obavijest od državnog odvjetnika o poduzetim radnjama povodom njezine prijave (članak 206.a ovoga Zakona) i podnošenje pritužbe višem državnom odvjetniku (članak 206.b ovoga Zakona),
+
+10) pravo na tajnost podataka čijim bi se otkrivanjem mogla ugroziti njezina sigurnost ili sigurnost žrtvi bliskih osoba,
+
+11) pravo da bez nepotrebne odgode bude obaviještena o puštanju uhićenika na slobodu, ukidanju pritvora ili istražnog zatvora, bijegu okrivljenika i otpuštanju osuđenika s izdržavanja kazne zatvora te mjerama koje su poduzete radi njezine zaštite, osim u slučaju odricanja žrtve od navedenog prava,
+
+12) pravo da bude obaviještena o svakoj odluci kojom se pravomoćno okončava kazneni postupak, osim u slučaju odricanja žrtve od navedenog prava,
+
+13) pravo predložiti da bude ispitana putem audio-video uređaja,
+
+14) druga prava propisana zakonom.«.
+
+U stavku 5. iza prve rečenice dodaje se druga rečenica koja glasi: »U odnosu na prava iz stavka 1. točaka 11. i 12. ovoga članka, tijela iz stavka 4. ovoga članka će izjavu žrtve o tome želi li koristiti navedena prava unijeti u pouku o pravima ili zapisnik te će poučiti žrtvu da tu izjavu može uvijek tijekom postupka izmijeniti.«.
+
+#### Članak 4.
+
+U članku 43. a stavku 1. u drugoj rečenici ispred riječi: »poseban« dodaju se riječi: »mjere za zaštitu sigurnosti žrtve,«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Prilikom provedbe pojedinačne procjene koja se odnosi na žrtve nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama, uz okolnosti navedene u stavku 2. ovoga članka, posebno će se uzeti u obzir rizični čimbenici za ponavljanje nasilja, kao i rezultati prethodne procjene potreba žrtve.«.
+
+Dosadašnji stavci 3. do 6. postaju stavci 4. do 7.
+
+#### Članak 5.
+
+U članku 44. stavku 4. točka 5. mijenja se i glasi:
+
+»5) biti ispitana putem audio-video uređaja (članak 292. stavak 6.ovoga Zakona), osim ako žrtva zahtijeva da bude nazočna u sudnici tijekom davanja iskaza,«.
+
+U stavku 5. točka 4. mijenja se i glasi:
+
+»4) biti ispitana putem audio-video uređaja (članak 292. stavak 6. ovoga Zakona), osim ako žrtva zahtijeva da bude nazočna u sudnici tijekom davanja iskaza,«.
+
+#### Članak 6.
+
+U članku 64. stavku 1. točki 7. iza riječi: »šutnjom,« dodaju se riječi: »sam sebe ne izložiti kaznenom progonu te se korištenje ovih prava ne smije upotrijebiti protiv njega te se ne smije smatrati dokazom da je počinio kazneno djelo koje mu se stavlja na teret,«.
+
+#### Članak 7.
+
+Članak 98. mijenja se i glasi:
+
+»(1) U slučaju kad postoje okolnosti iz članka 123. ovog Zakona zbog kojih je moguće odrediti istražni zatvor ili je taj zatvor već određen, sud i državni odvjetnik će, uzimajući u obzir rezultate pojedinačne procjene potreba žrtve i žrtvi bliskih osoba i potrebe zaštite žrtve, ako se ista svrha može ostvariti mjerom opreza, obrazloženim rješenjem odrediti primjenu jedne ili više takvih mjera. Pritom će se okrivljenik upozoriti da će se u slučaju nepridržavanja izrečene mjere, ona zamijeniti istražnim zatvorom.
+
+(2) Mjere opreza jesu:
+
+1) zabrana napuštanja boravišta,
+
+2) zabrana posjećivanja određenog mjesta ili područja,
+
+3) obveza redovitog javljanja određenoj osobi ili državnom tijelu,
+
+4) zabrana približavanja određenoj osobi,
+
+5) zabrana uspostavljanja ili održavanja veze s određenom osobom,
+
+6) zabrana obavljanja određene poslovne aktivnosti,
+
+7) privremeno oduzimanje putne i druge isprave za prijelaz državne granice,
+
+8) privremeno oduzimanje dozvole za upravljanje motornim vozilom,
+
+9) zabrana uhođenja ili uznemiravanja žrtve ili druge osobe,
+
+10) udaljenje iz doma,
+
+11) zabrana pristupa internetu.
+
+(3) Prije donošenja rješenja kojim se određuje, produljuje ili ukida mjera opreza sud i državni odvjetnik će, ako se radi o kaznenom djelu nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama, saslušati žrtvu na okolnost postojanja opasnosti za njezinu osobnu sigurnost ili sigurnost članova njezine obitelji i bliskih osoba te uzeti u obzir očitovanje o prijedlogu za primjenu mjere opreza i rezultate pojedinačne procjene potreba žrtve. Žrtva se može saslušati i primjenom informacijsko-komunikacijskih tehnologija ili na drugi odgovarajući način.
+
+(4) Mjerama opreza ne može se ograničiti pravo okrivljenika na vlastiti dom te pravo na nesmetane veze s ukućanima, bračnim ili izvanbračnim drugom, roditeljima, djecom, posvojenikom ili posvojiteljem, osim ako se postupak vodi zbog kaznenog djela počinjenog na štetu neke od tih osoba. Zabrana obavljanja poslovne aktivnosti može obuhvatiti i zakonitu profesionalnu djelatnost ako se postupak vodi zbog kaznenog djela počinjenog u okviru te djelatnosti.
+
+(5) Mjerama opreza ne može se ograničiti pravo okrivljenika na nesmetano komuniciranje s braniteljem.
+
+(6) Mjere opreza mogu biti naložene prije i tijekom kaznenog postupka. Prije podizanja optužnice mjere opreza određuje, produljuje i ukida rješenjem državni odvjetnik, a sudac istrage kad odlučuje o istražnom zatvoru. Državni odvjetnik ili sudac istrage koji je mjeru odredio nadležan je za njezino produljenje ili ukidanje. Nakon podizanja optužnice pa do pravomoćnosti odnosno izvršnosti presude ili do upućivanja na izdržavanje kazne zatvora te mjere određuje, produljuje i ukida sud. O zamjeni mjere opreza istražnim zatvorom, u slučaju nepridržavanja izrečene mjere, do podizanja optužnice odlučuje sudac istrage, a nakon podizanja optužnice odlučuje sud. Ako sud odluku neće moći donijeti u roku propisanom člankom 101. stavkom 2. ovoga Zakona, odluku o zamjeni mjere opreza istražnim zatvorom donosi sudac istrage.
+
+(7) Mjere opreza mogu trajati dok za to postoji potreba, a najdulje do izvršnosti presude ili do upućivanja na izdržavanje kazne zatvora, ako je takva kazna izrečena, kada se radi o mjerama opreza koje su određene zbog postojanja okolnosti iz članka 123. stavka 1. točaka 1., 3. i 4. ovoga Zakona odnosno najdulje do pravomoćnosti presude kada se radi o mjerama opreza koje su određene zbog postojanja okolnosti iz članka 123. stavka 1. točaka 2. i 5. ovoga Zakona. Svaka dva mjeseca, računajući od dana pravomoćnosti prethodnog rješenja o mjeri opreza, tijelo koje je odredilo mjeru opreza prije podizanja optužnice odnosno sud ispitat će po službenoj dužnosti postoji li još potreba za mjerom opreza te je rješenjem produljiti ili ukinuti ako više nije potrebna. Ako je mjera opreza određena kao uvjet jamstva, kontrola produljenja mjere neće se provoditi.
+
+(8) Protiv rješenja kojim se određuje, produljuje ili ukida mjera opreza stranke i žrtva kaznenog djela nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama mogu izjaviti žalbu, koja ne zadržava izvršenje mjere. O žalbi do podizanja optužnice odlučuje sudac istrage odnosno izvanraspravno vijeće.«.
+
+#### Članak 8.
+
+U članku 99. stavku 4. iza riječi: »osobi« dodaje se zarez i riječi: »a koja ne može biti manja od 100 metara«.
+
+#### Članak 9.
+
+U članku 100. stavku 5. iza riječi: »djeteta« dodaju se riječi: »i roditelju djeteta, koji nije okrivljenik u istom kaznenom postupku«.
+
+Iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) U slučajevima kaznenih djela nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama rješenje kojim se određuje, produljuje ili ukida mjera opreza dostavlja se i žrtvi i nadležnom tijelu socijalne skrbi prema mjestu boravišta žrtve.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+#### Članak 10.
+
+U članku 101. stavku 2. iza prve rečenice dodaje se druga rečenica koja glasi: »Sud će odmah, a najkasnije u roku od 24 sata donijeti odluku o nepridržavanju mjere opreza te donijeti rješenje o zamjeni mjere opreza istražnim zatvorom i izdati nalog za predaju u istražni zatvor.«.
+
+#### Članak 11.
+
+U članku 107. točki 3. iza riječi: »dužnosti« točka se zamjenjuje zarezom.
+
+Iza točke 3. dodaje se točka 4. koja glasi:
+
+»4) okrivljenika za kojeg postoje osnove sumnje da je postupio protivno protiv njega određenoj mjeri opreza.«.
+
+#### Članak 12.
+
+U članku 108.a stavku 1. točki 2. iza riječi: »iskazivati,« dodaju se riječi: »pravu sam sebe ne izložiti kaznenom progonu te da se korištenje tih prava ne smije upotrijebiti protiv njega te se ne smije smatrati dokazom da je počinio kazneno djelo koje mu se stavlja na teret,«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Uhićenik koji se uhićuje radi izvršenja presude donesene prema članku 402. stavcima 3. i 4. ovoga Zakona, prilikom uhićenja mora biti poučen o pravu na podnošenje zahtjeva za obnovu postupka.«.
+
+#### Članak 13.
+
+U članku 109. stavku 7. iza druge rečenice dodaje se treća rečenica koja glasi:
+
+»O puštanju uhićenika i pritvorenika na slobodu pritvorski nadzornik odmah će obavijestiti žrtvu, ako se žrtva toga prava nije odrekla, osim ako bi se time ugrozila sigurnost okrivljenika.«.
+
+#### Članak 14.
+
+U članku 125. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+#### Članak 15.
+
+Iza članka 125. dodaje se članak 125.a koji glasi:
+
+»Članak 125.a
+
+(1) Sud će žrtvu, ako se tog prava nije odrekla, putem policije odmah obavijestiti o ukidanju istražnog zatvora protiv okrivljenika, osim ako bi se time ugrozila sigurnost okrivljenika.
+
+(2) Sud će o ukidanju istražnog zatvora odmah obavijestiti žrtvu putem policije i onda kada okrivljenik neće biti pušten na slobodu jer mu je u drugom predmetu određen istražni zatvor ili se nalazi na izdržavanju kazne zatvora na temelju pravomoćne presude.
+
+(3) U slučaju iz stavka 2. ovoga članka, radi potrebe obavještavanja žrtve, sud koji je donio odluku o ukidanju istražnog zatvora obavijestit će zatvor ili kaznionicu o potrebi obavještavanja suda prije prvog puštanja na slobodu okrivljenika ili osuđenika.
+
+(4) Žrtva će biti obaviještena i o mjerama koje su poduzete radi njezine zaštite, ako su takve mjere određene.«.
+
+#### Članak 16.
+
+U članku 175. stavku 5. iza druge rečenice dodaje se treća rečenica koja glasi:
+
+»Prilikom objave na oglasnoj ploči suda osobni podaci o žrtvi, kao i podaci na temelju kojih se može zaključiti o identitetu žrtve moraju biti anonimizirani.«.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Uz pravomoćnu presudu kojom je osoba osuđena u odsutnosti (članak 402. stavci 3. i 4. ovoga Zakona) dostavlja se i pouka o pravu na podnošenje zahtjeva za obnovu postupka.«.
+
+#### Članak 17.
+
+U članku 183. iza stavka 6. dodaje se novi stavak 7. koji glasi:
+
+»(7) Osoba kojoj je dopušten uvid u spis tijekom prethodnog postupka upozorit će se da je neovlašteno otkrivanje sadržaja izvidnih i dokaznih radnji provedenih tijekom nejavnog prethodnog postupka s ciljem da ih se učini dostupnim javnosti kazneno djelo.«.
+
+Dosadašnji stavci 7. i 8. postaju stavci 8. i 9.
+
+#### Članak 18.
+
+U članku 202. stavak 19. mijenja se i glasi:
+
+»(19) Savjetnik je odvjetnik postavljen za poduzimanje određene radnje osobi koja nema opunomoćenika.«.
+
+#### Članak 19.
+
+U članku 208.a stavku 2. točki 3. iza riječi:»pitanja« dodaju se riječi:»i pravu sam sebe ne izložiti kaznenom progonu te da se korištenje tih prava ne smije upotrijebiti protiv njega te se ne smije smatrati dokazom da je počinio kazneno djelo koje mu se stavlja na teret«.
+
+#### Članak 20.
+
+U članku 213. stavak 3. mijenja se i glasi:
+
+»(3) Postupanje nakon dostave obavijesti iz stavka 2. ovoga članka je nejavno. Tijelo koje poduzima dokazne radnje upozorit će osobe koje sudjeluju u radnji da je neovlašteno otkrivanje sadržaja izvidnih i dokaznih radnji provedenih tijekom nejavnog prethodnog postupka s ciljem da ih se učini dostupnim javnosti kazneno djelo.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Tijelo koje provodi istraživanje može odrediti tajnost istraživanja ili nekog njegova dijela zbog razloga navedenih u članku 388. ovoga Zakona ako bi javno objavljivanje podataka štetilo probicima istraživanja. Tijelo koje poduzima radnju upozorit će osobe koje sudjeluju u dokaznoj radnji u odnosu na koju je određena tajnost da je odavanje tajne kazneno djelo. Sve osobe koje saznaju sadržaj postupovne radnje koja je provedena tijekom tajnog istraživanja ili dijela istraživanja dužne su kao tajnu čuvati činjenice ili podatke koje su tom prilikom saznale.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 21.
+
+U članku 231. stavku 1. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Tijelo koje poduzima dokaznu radnju upozorit će osobe koje sudjeluju u radnji da je neovlašteno otkrivanje sadržaja izvidnih i dokaznih radnji provedenih tijekom nejavnog prethodnog postupka s ciljem da ih se učini dostupnim javnosti kazneno djelo.«.
+
+#### Članak 22.
+
+U članku 236. stavku 1. točki 2. riječi: »ako postoji bojazan da na raspravi neće iskazivati,« brišu se.
+
+#### Članak 23.
+
+U članku 239. stavku 1. točki 2. iza riječi: »pitanja,« dodaju se riječi: »da ima pravo sam sebe ne izložiti kaznenom progonu te da se korištenje tih prava ne smije upotrijebiti protiv njega te se ne smije smatrati dokazom da je počinio kazneno djelo koje mu se stavlja na teret,«.
+
+#### Članak 24.
+
+U članku 287. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Poziv svjedoku koji se poziva u svezi s okolnostima koje je saznao u obavljanju posla ili dužnosti upućuje se na adresu tijela u kojem obavlja taj posao ili dužnost.
+
+(4) Poziv svjedoku koji je kao žrtva nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama smješten u sklonište upućuje se putem nadležnog tijela socijalne skrbi ili odjela za podršku žrtvama i svjedocima.«.
+
+#### Članak 25.
+
+U članku 288. stavku 2. iza prve rečenice dodaju se druga i treća rečenica koje glase:
+
+»Svjedoka iz članka 287. stavka 3. ovoga Zakona neće se pitati za boravište, već za adresu tijela u kojem obavlja posao ili dužnost u obavljanju kojih je saznao za okolnosti u svezi s kojima je pozvan svjedočiti. Boravište svjedoka koji je žrtva kaznenog djela nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama policija i tijelo koje vodi postupak utvrdit će na siguran i povjerljiv način, taj podatak zatvorit će se u poseban omot i čuvati odvojeno te se bez dopuštenja tijela koje vodi postupak neće moći razgledati niti koristiti.«.
+
+#### Članak 26.
+
+U članku 292. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Ispitivanje kao svjedoka žrtve kaznenog djela protiv spolne slobode, kaznenog djela trgovanja ljudima, kaznenog djela nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama i žrtve u odnosu na koju su utvrđene posebne potrebe zaštite sukladno članku 43.a ovoga Zakona provest će se putem audio-video uređaja kojima rukuje stručna osoba, bez prisutnosti suca i stranaka u prostoriji gdje se žrtva nalazi. Ispitivanje će se snimiti uređajem za audio-video snimanje, a snimka će se zapečatiti i priključiti zapisniku. Takav svjedok može se samo iznimno ponovno ispitati, ako to sud ocijeni potrebnim. Ispitivanje se neće provesti na ovaj način ako žrtva zahtijeva da bude nazočna u sudnici tijekom davanja iskaza.«.
+
+#### Članak 27.
+
+U članku 349. stavku 4. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Predsjednik optužnog vijeća upozorit će osobe koje sudjeluju na sjednici da je neovlašteno otkrivanje sadržaja izvidnih i dokaznih radnji provedenih tijekom nejavnog prethodnog postupka s ciljem da ih se učini dostupnim javnosti kazneno djelo.«.
+
+#### Članak 28.
+
+U članku 502. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Zahtjev za obnovu postupka na temelju konačne odluke Europskog suda za ljudska prava može se podnijeti u roku od trideset dana od objave odluke o brisanju predmeta s liste Europskog suda za ljudska prava.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 29.
+
+U Zakonu o izmjenama i dopunama Zakona o kaznenom postupku (»Narodne novine«, br. 80/22.) u članku 49. riječi: »1. listopada 2024.« zamjenjuju se riječima: »1. svibnja 2025.«.
+
+#### Članak 30.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/6
+
+Zagreb, 14. ožujka 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o kaznenom postupku (NN 72/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/72/935*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O KAZNENOM POSTUPKU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o kaznenom postupku, koji je Hrvatski sabor donio na sjednici 11. travnja 2025.
+
+Klasa: 011-02/25-02/39  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 17. travnja 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O KAZNENOM POSTUPKU**
+
+#### Članak 1.
+
+U Zakonu o kaznenom postupku (»Narodne novine« br. 152/08., 76/09., 80/11., 121/11. – pročišćeni tekst, 91/12. – Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13., 152/14., 70/17., 126/19., 126/19. – Rješenje Ustavnog suda Republike Hrvatske, 130/20. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 80/22. i 36/24.) u članku 80. stavku 1. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 2.
+
+U članku 101. stavku 3. riječi: »50.000,00 kuna« zamjenjuju se riječima »6630,00 eura«.
+
+#### Članak 3.
+
+U članku 109. stavku 7. u trećoj rečenici riječi: »pritvorski nadzornik odmah će« zamjenjuju se riječima: »policija će odmah«.
+
+#### Članak 4.
+
+U članku 173. stavku 5. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 5.
+
+U članku 206.g stavku 3. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«, a riječi: »5.000.000,00 kuna« zamjenjuju se riječima: »663.610,00 eura«.
+
+#### Članak 6.
+
+U članku 259. stavku 1. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 7.
+
+U članku 265. stavku 8. riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »132.720,00 eura«, a riječi: »200.000,00 kuna« zamjenjuju se riječima: »26.540,00 eura«.
+
+#### Članak 8.
+
+U članku 268. riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »132.720,00 eura«, a riječi: »200.000,00 kuna« zamjenjuju se riječima: »26.540,00 eura«.
+
+#### Članak 9.
+
+U članku 291. stavku 2. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 10.
+
+U članku 303. stavku 2. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 11.
+
+U članku 310. stavku 2. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 12.
+
+U članku 334. točki 1. iza riječi: »počinjenja kaznenog djela u sastavu zločinačkog udruženja (članak 329. stavak 1. točke 3. do 6.)« dodaju se riječi: »podmićivanja zastupnika (članak 339. stavak 1.)«.
+
+U točki 2. iza riječi: »(članak 326. stavak 2)« dodaje se zarez, riječ: »te« briše se, a iza riječi: »počinjenja kaznenog djela u sastavu zločinačkog udruženja (članak 329.)« briše se zarez i dodaju se riječi: »te podmićivanja zastupnika (članak 339. stavak 2.)«.
+
+#### Članak 13.
+
+U članku 335. stavku 2. riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »132.720,00 eura«, a riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 14.
+
+U članku 396. stavku 1. riječi: »50.000,00 kn« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 15.
+
+U članku 397. stavku 1. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 16.
+
+U članku 403. riječi: »50.000,00 kn« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 17.
+
+U članku 405. stavku 1. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+#### Članak 18.
+
+U članku 540. stavku 3. točki 1. riječi: »2.000.000,00 kuna« zamjenjuju se riječima: »265.440,00 eura«.
+
+#### Članak 19.
+
+U članku 560.a stavku 1. riječi: »60.000,00 kuna« zamjenjuju se riječima: »7963,37 eura«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 20.
+
+U Zakonu o izmjenama i dopunama Zakona o kaznenom postupku (»Narodne novine« br. 36/24.) u članku 29. riječi: »1. svibnja 2025.« zamjenjuju se riječima: »1. srpnja 2027.«.
+
+#### Članak 21.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 30. travnja 2025.
+
+Klasa: 022-02/25-01/27  
+Zagreb, 11. travnja 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o kaznenom postupku (NN 13/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/13/114*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o kaznenom postupku, koji je Hrvatski sabor donio na sjednici 29. siječnja 2026.
+
+Klasa: 011-02/26-02/03  
+Urbroj: 71-10-01/1-26-2  
+Zagreb, 2. veljače 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KAZNENOM POSTUPKU**
+
+#### Članak 1.
+
+U Zakonu o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11. – pročišćeni tekst, 91/12. – Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13., 152/14., 70/17., 126/19., 126/19. – Rješenje Ustavnog suda Republike Hrvatske, 130/20. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 80/22., 36/24. i 72/25.) u članku 10. stavku 2. točka 2. mijenja se i glasi:
+
+»2) koji su pribavljeni povredom Ustavom, zakonom ili međunarodnim pravom zajamčenih prava obrane te prava na nepovredivost osobnog i obiteljskog života, kada to utvrdi sud posebnom ocjenom razmjera između javnog probitka kaznenog progona i zaštite prava pojedinca, težine kaznenog djela, težine povrede temeljnog ljudskog prava i mogućnosti njezina otklanjanja, prirode mjere kojom je to pravo povrijeđeno, privole osobe čije je pravo povrijeđeno te drugih okolnosti,«.
+
+Na kraju točke 4. umjesto točke stavlja se zarez i dodaju riječi: »osim ako su se mogli pribaviti na drugi zakonit način.«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Sudska odluka ne može se temeljiti isključivo na dokazu za koji je sud primjenom stavka 2. točke 2. ovoga članka utvrdio da je zakonit dokaz.«.
+
+#### Članak 2.
+
+U članku 19.b iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) U postupku za kaznena djela za koja je propisana novčana kazna ili kazna zatvora do pet godina sudac pojedinac ima ovlasti optužnog vijeća i predsjednika optužnog vijeća.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+#### Članak 3.
+
+U članku 98. stavku 6. zadnja rečenica mijenja se i glasi:
+
+»Ako sud odluku neće moći donijeti u roku propisanom člankom 101. stavkom 3. ovoga Zakona zbog proteka radnog vremena, blagdana ili neradnog dana, odluku o zamjeni mjere opreza istražnim zatvorom donosi sudac istrage nadležnog županijskog suda, odnosno županijskog suda koji je nadležan na području općinskog suda koji je okrivljeniku odredio mjeru opreza.«.
+
+#### Članak 4.
+
+U članku 101. stavku 2. druga rečenica briše se.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Policija je dužna uhićenika iz članka 107. točke 4. ovoga Zakona dovesti nadležnom sudskom tijelu iz članka 98. stavka 6. ovoga Zakona u roku od 24 sata od uhićenja. Zakašnjenje se mora posebno obrazložiti. Nadležno će sudsko tijelo bez odgode odlučiti o tome je li protiv uhićenika zbog kršenja mjere opreza potrebno odrediti istražni zatvor.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 5.
+
+U članku 208.a stavku 8. riječi: »i dokazi za koje se iz tog iskaza saznalo ne mogu« zamjenjuju se riječima: »ne može«.
+
+#### Članak 6.
+
+U članku 213.a stavak 4. briše se.
+
+#### Članak 7.
+
+U članku 233. stavku 3. riječi: »stavku 1.« zamjenjuju se riječima: »stavcima 1. i 7.«.
+
+#### Članak 8.
+
+U članku 242. stavak 3. mijenja se i glasi:
+
+»(3) Nalog suca istrage iz stavka 1. ovoga članka o pretrazi potrebno je započeti izvršavati u roku od tri dana od dana izdavanja. Nakon isteka tog roka, ako pretraga nije započeta, ona se više ne može izvršiti na temelju tog naloga. Nalog se bez odgode vraća sucu istrage koji ga poništava bilješkom na nalogu.«.
+
+#### Članak 9.
+
+U članku 245. stavku 3. riječi: »odmah, a najkasnije u roku od osam sati od okončanja pretrage,« zamjenjuju se riječima: »najkasnije u roku od dvadeset četiri sata od okončanja pretrage«.
+
+#### Članak 10.
+
+U članku 250. točka 3. briše se.
+
+Dosadašnja točka 4., koja postaje točka 3., mijenja se i glasi:
+
+»3) sud nije ovjerio pisani nalog državnog odvjetnika o pretrazi ili zapisnik o provedenoj pretrazi (članak 245. stavak 4.),«.
+
+Točka 5. briše se.
+
+Dosadašnje točke 6. do 8. postaju točke 4. do 6.
+
+#### Članak 11.
+
+U članku 262. stavku 1. točke 3. i 4. brišu se.
+
+Dosadašnja točka 5. postaje točka 3.
+
+U stavku 2. riječi: »točke 2. do 5.« zamjenjuju se riječima: »točaka 2. i 3.«.
+
+U stavku 4. riječi: »točke 2. do 5.« zamjenjuju se riječima: »točaka 2. i 3.«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Ne mogu se upotrijebiti kao dokaz u postupku:
+
+1. predmeti oduzeti suprotno odredbama stavka 1. ovoga članka,
+
+2. snimke i privatni dnevnik pronađeni kod osoba iz članka 285. stavka 1. točaka 1. do 3. ovoga Zakona koje su te osobe snimile ili napisale, a sadrže snimke ili zapise o činjenicama o kojima su te osobe oslobođene dužnosti svjedočenja, osim ako te osobe odluče svjedočiti,
+
+3. zapisi, izvodi iz registara i slične isprave koje se nalaze kod osoba iz članka 285. stavka 1. točke 4. ovoga Zakona, sastavljeni o činjenicama koje su u obavljanju svoga zanimanja te osobe saznale od okrivljenika, osim ako te osobe odluče svjedočiti.«.
+
+#### Članak 12.
+
+U članku 263. stavku 1. iza riječi: »nositelje podataka« stavlja se zarez i dodaju riječi: »virtualnu imovinu«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Ministar nadležan za unutarnje poslove, uz prethodnu suglasnost ministra nadležnog za pravosuđe, donijet će pravilnik o načinu oduzimanja i čuvanja virtualne imovine.«.
+
+#### Članak 13.
+
+U članku 273. stavku 1. treća rečenica briše se.
+
+U stavku 2. četvrta rečenica briše se.
+
+U stavku 3. riječi: »upisuje se u zapisnik o ispitivanju i« brišu se.
+
+U stavku 5. riječi: »što se unosi u zapisnik« brišu se.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Primitak pouke iz stavka 1. ovoga članka i sve druge radnje u vezi s tim, izjava okrivljenika iz stavka 2. ovoga članka, vrijeme zastajanja s ispitivanjem iz stavka 3. ovoga članka i savjetovanje okrivljenika s braniteljem iz stavka 5. ovoga članka zabilježit će se u zapisniku.«.
+
+#### Članak 14.
+
+Članak 275. mijenja se i glasi:
+
+»(1) Prije početka prvog ispitivanja okrivljenik će potpisati da je primio pisanu pouku o pravima iz članka 239. stavka 1. ovoga Zakona. Kod svakog daljnjeg ispitivanja okrivljenik će se upozoriti na potpisanu izjavu o tome da je primio pisanu pouku o pravima prije početka prvog ispitivanja.
+
+(2) Ispitivanje okrivljenika snima se uređajem za audio-video snimanje.
+
+(3) Tijelo koje provodi ispitivanje će, osim upozorenja i pouka iz članka 273. stavka 1. ovoga Zakona, upozoriti okrivljenika da se ispitivanje snima i da snimljene izjave mogu biti upotrijebljene kao dokaz u postupku. Obvezno će se snimiti upozorenje i izjava okrivljenika o korištenju prava da uzme branitelja.
+
+(4) Tijelo koje provodi ispitivanje navest će podatke koje mora sadržavati zapisnik o ispitivanju okrivljenika (članak 83. stavak 1. i članak 272. stavak 1.), podatke o snimanju iz članka 87. stavka 5. ovoga Zakona, a zatim će označiti početak, prekid, nastavak i završetak ispitivanja te druge okolnosti značajne za tijek ispitivanja.
+
+(5) U zapisnik ispitivanja koje se snima ne unosi se iskaz okrivljenika.
+
+(6) O ispitivanju se izrađuju tri snimke, od kojih će se jedna zapečatiti i predati sucu istrage na čuvanje. Zapečaćeni omot potpisuje osoba koja je provela ispitivanje, okrivljenik i branitelj, ako je prisutan. Po jedna snimka odmah se predaje državnom odvjetniku i okrivljeniku.
+
+(7) Upozorenje na potpisanu izjavu o primitku pouke o pravima iz stavka 1. ovoga članka te upozorenje i izjava okrivljenika o korištenju prava da uzme branitelja iz stavka 3. ovoga članka unijet će se u zapisnik.«.
+
+#### Članak 15.
+
+U članku 278. stavku 2. riječi: »stavaka 3. i 5.« zamjenjuju se riječima: »stavaka 3., 5. i 7.«.
+
+#### Članak 16.
+
+Članak 279. briše se.
+
+#### Članak 17.
+
+U članku 281. riječi: »članka 273. i 275. stavak 1. do 4.« zamjenjuju se riječima: »članka 273. stavaka 1. do 6. i članka 275. stavaka 1. do 3.«.
+
+#### Članak 18.
+
+U članku 289. stavku 5. druga rečenica mijenja se i glasi: »Suočenje u istrazi snimit će se uređajem za audio-video snimanje.«.
+
+#### Članak 19.
+
+U članku 300. stavak 1. mijenja se i glasi:
+
+»(1) Iskaz svjedoka se, osim u slučajevima posebno propisanim ovim Zakonom, ne može upotrijebiti kao dokaz u postupku ako:
+
+1. je kao svjedok ispitana osoba koja se ne može ispitati kao svjedok (članak 284.),
+
+2. je kao svjedok ispitana osoba koja ne mora svjedočiti (članak 285.), a nije na to upozorena ili se nije izričito odrekla toga prava,
+
+3. je kao svjedok ispitano dijete koje ne može shvatiti značenje prava da ne mora svjedočiti (članak 285. stavak 4.),
+
+4. svjedok nije primio upozorenja iz članka 288. stavka 3. ovoga Zakona.«.
+
+#### Članak 20.
+
+U članku 301. stavku 6. riječi: »stavaka 2., 3. i 5.« zamjenjuju se riječima: »stavaka 2., 3., 5. i 7.«.
+
+#### Članak 21.
+
+U članku 305. stavku 6. riječi: »stavaka 2., 3. i 5.« zamjenjuju se riječima: »stavaka 2., 3., 5. i 7.«.
+
+#### Članak 22.
+
+U članku 311. stavak 1. mijenja se i glasi:
+
+»(1) Za vještaka se ne može uzeti osoba koja ne može biti ispitana kao svjedok ili osoba koja je oslobođena dužnosti svjedočenja, liječnik koji je liječio umrloga, osoba prema kojoj je kazneno djelo počinjeno, osoba koja je zajedno s tužiteljem, okrivljenikom, žrtvom ili oštećenikom zaposlena u istom državnom tijelu ili kod istoga poslodavca, a ako je uzeta, njezin nalaz i mišljenje ne mogu se upotrijebiti kao dokaz u postupku.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+#### Članak 23.
+
+U članku 320. stavak 2. mijenja se i glasi:
+
+»(2) Liječnik koji je liječio umrloga može se ispitati kao svjedok pri obdukciji tijela radi davanja razjašnjenja o tijeku i okolnostima bolesti.«.
+
+#### Članak 24.
+
+U članku 335. stavak 7. mijenja se i glasi:
+
+»(7) Nakon prestanka radnje iz članka 332. stavka 1. točke 3. ovoga Zakona sudac istrage naložit će ulazak u prostorije radi uklanjanja sredstava uporabljenih za njezino provođenje.«.
+
+#### Članak 25.
+
+Iza članka 335. dodaje se članak 335.a koji glasi:
+
+»Članak 335.a
+
+(1) Dokaz pribavljen radnjama iz članka 332. ovoga Zakona ne može se upotrijebiti kao dokaz u postupku ako:
+
+1. nisu postojale osnove sumnje da je osoba u odnosu na koju je određena posebna dokazna radnja sama počinila kazneno djelo ili je zajedno s drugim osobama sudjelovala u kaznenom djelu iz članka 334. ovoga Zakona, ili nije ispunjen zahtjev da se izvidi kaznenih djela ne bi mogli provesti na drugi način, ili bi to bilo moguće samo uz nerazmjerne teškoće (članak 332. stavak 1.),
+
+2. nije postojala opasnost od odgode ili državni odvjetnik nije imao razloga vjerovati da neće moći na vrijeme pribaviti nalog suca istrage (članak 332. stavak 2.),
+
+3. nisu postojale osnove sumnje u odnosu na treće osobe iz članka 332. stavka 7. ovoga Zakona,
+
+4. nije postojao pisani pristanak osobe iz članka 332. stavka 8. ovoga Zakona,
+
+5. je bio poznat identitet sudionika kaznenog djela, a radnja iz članka 332. stavka 1. točke 8. ovoga Zakona određena je prema predmetu kaznenog djela,
+
+6. je izvršenje radnji iz članka 332. stavka 1. točaka 5. i 6. ovoga Zakona predstavljalo poticanje na počinjenje kaznenog djela,
+
+7. nije postojala osnovana sumnja iz članka 337. stavka 5. ovoga Zakona da će doći do počinjenja osobito teških kaznenih djela iz članka 334. ovoga Zakona ili su neka od njih već počinjena.
+
+(2) Dokaz pribavljen radnjama iz članka 332. ovoga Zakona ne može se upotrijebiti kao dokaz u postupku niti ako:
+
+1. su radnje poduzete bez naloga suca istrage, osim u slučaju iz članka 332. stavka 2. ovoga Zakona,
+
+2. su radnje iz članka 332. stavka 3. ovoga Zakona poduzete na temelju naloga državnog odvjetnika,
+
+3. sudac istrage, odnosno vijeće nisu odobrili nalog državnog odvjetnika (članak 332. stavak 5. ovoga Zakona),
+
+4. je pribavljen nakon isteka rokova iz članka 335. stavka 3. ovoga Zakona.«.
+
+#### Članak 26.
+
+U članku 339. stavak 8. mijenja se i glasi:
+
+»(8) Dokaz pribavljen radnjama iz stavka 1. ovoga članka ne može se upotrijebiti kao dokaz u postupku ako nisu bile ispunjene pretpostavke iz stavaka 1. do 3. ovoga članka te ako je postupljeno protivno odredbama stavaka 5. i 7. ovoga članka.«.
+
+#### Članak 27.
+
+U članku 339.a stavak 9. mijenja se i glasi:
+
+»(9) Podaci pribavljeni radnjama iz stavaka 1. i 2. ovoga članka ne mogu se upotrijebiti kao dokaz u postupku ako su pribavljeni bez naloga suca istrage, odnosno ako je odbijen zahtjev državnog odvjetnika za ovjeru naloga za provjeru uspostavljanja telekomunikacijskih kontakata.«.
+
+#### Članak 28.
+
+U članku 345. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Predsjednik optužnog vijeća će u roku iz stavka 1. ovoga članka o propisno sastavljenoj optužnici i pravima iz članka 346. stavka 5. ovoga Zakona obavijestiti oštećenika i njegova opunomoćenika, ako ga ima.«.
+
+#### Članak 29.
+
+Članak 346. mijenja se i glasi:
+
+»(1) Okrivljenik ima pravo podnijeti pisani odgovor na optužnicu u roku od 15 dana od primitka optužnice. U složenim predmetima okrivljenik i branitelj mogu odmah nakon primitka optužnice zatražiti produljenje roka za podnošenje odgovora na optužnicu, o čemu će predsjednik optužnog vijeća odlučiti rješenjem. Predsjednik vijeća odlučuje o tom zahtjevu odmah, a može, ovisno o složenosti predmeta, produljiti rok za podnošenje odgovora na optužnicu najdulje za 15 dana. Žalba protiv rješenja predsjednika optužnog vijeća nije dopuštena.
+
+(2) Ako se optužnica odnosi na kaznena djela za koja je propisana novčana kazna ili kazna zatvora do pet godina, rok za podnošenje odgovora na optužnicu je osam dana od primitka optužnice.
+
+(3) Odgovor na optužnicu može podnijeti i branitelj bez posebne okrivljenikove ovlasti, ali ne i protiv njegove volje.
+
+(4) Okrivljenik se može odreći prava na podnošenje odgovora na optužnicu.
+
+(5) Oštećenik ili njegov opunomoćenik, ako ga ima, ima pravo pisano obrazložiti imovinskopravni zahtjev, upozoriti na dokaze o krivnji okrivljenika te predložiti privremene mjere osiguranja imovinskopravnog zahtjeva (članak 160.) u roku od 15 dana od zaprimanja obavijesti iz članka 345. stavka 5. ovoga Zakona, odnosno u roku od osam dana od zaprimanja obavijesti iz članka 345. stavka 5. ovoga Zakona ako se optužnica odnosi na kaznena djela iz stavka 2. ovoga članka.«.
+
+#### Članak 30.
+
+Iza članka 346. dodaje se članak 346.a koji glasi:
+
+»Članak 346.a
+
+U odgovoru na optužnicu okrivljenik i branitelj mogu upozoriti na dokaze koji idu u korist okrivljenika, na propuste u istrazi i tijekom istraživanja te na nezakonitost dokaza na kojima se temelji optužnica.«.
+
+#### Članak 31.
+
+Članak 348. mijenja se i glasi:
+
+»(1) Nakon isteka roka za odgovor na optužnicu predsjednik optužnog vijeća nalogom određuje dan, sat i mjesto održavanja sjednice optužnog vijeća. Sjednica se održava u roku od 15 dana ako je okrivljenik u istražnom zatvoru, a u roku od dva mjeseca ako je na slobodi. U posebno složenim predmetima sjednica optužnog vijeća se ima održati u roku od mjesec dana ako je okrivljenik lišen slobode ili u roku od tri mjeseca ako je na slobodi.
+
+(2) Optužno vijeće ispituje optužnicu u sjednici vijeća bez pozivanja stranaka, osim ako prije početka sjednice zaprimi izjavu za donošenje presude na temelju sporazuma stranaka ili ako je potrebno provesti prethodno suđenje o zakonitosti dokaza (članak 351. stavak 2. ovoga Zakona).
+
+(3) Kada se sjednica optužnog vijeća provodi uz sudjelovanje stranaka zbog potrebe provođenja prethodnog suđenja o zakonitosti dokaza, na sjednicu se pozivaju državni odvjetnik, oštećenik, okrivljenik i branitelj. Pozvane osobe predsjednik vijeća upozorit će da će se sjednica održati i u njihovoj odsutnosti. Kada se sjednica optužnog vijeća provodi uz sudjelovanje stranaka jer je zaprimljena izjava za donošenje presude na temelju sporazuma stranaka, na sjednicu se pozivaju državni odvjetnik, okrivljenik u odnosu na kojeg je zaprimljena izjava za donošenje presude na temelju sporazuma stranaka i branitelj, a okrivljenik će se u pozivu poučiti da će se sjednica optužnog vijeća održati iako se branitelj nije odazvao, osim u slučaju obvezne obrane. Okrivljenici u odnosu na koje nije zaprimljena izjava za donošenje presude na temelju sporazuma stranaka o održavanju sjednice vijeća se obavještavaju.
+
+(4) Ako je prije početka sjednice vijeće zaprimilo izjavu za donošenje presude na temelju sporazuma stranaka, vijeće će u odnosu na okrivljenika za kojeg nije zaprimljena izjava za donošenje presude na temelju sporazuma stranaka ispitati optužnicu bez sudjelovanja stranaka, dok će u odnosu na okrivljenika za kojeg je zaprimilo izjavu postupiti u smislu članaka 361. do 363. ovoga Zakona.
+
+(5) Kada se sjednica optužnog vijeća provodi uz sudjelovanje stranaka, prisutnost stranaka na sjednici optužnog vijeća može se osigurati i uz pomoć zatvorenog tehničkog uređaja za vezu na daljinu (audio-video uređaj) kojim rukuje stručna osoba. Činjenica da su stranke bile prisutne na sjednici optužnog vijeća uz pomoć audio-video uređaja, vrsta uređaja te ime stručne osobe koja je njime rukovala unijet će se u zapisnik o sjednici optužnog vijeća. U tom se slučaju ne može donijeti presuda na temelju sporazuma stranaka.«.
+
+#### Članak 32.
+
+U članku 349. stavak 1. mijenja se i glasi:
+
+»(1) Kada se sjednica optužnog vijeća provodi uz sudjelovanje stranaka, prije početka sjednice predsjednik optužnog vijeća provjerava jesu li svi pozvani došli na sjednicu.«.
+
+#### Članak 33.
+
+Članak 350. mijenja se i glasi:
+
+»(1) Kada se sjednica optužnog vijeća provodi uz sudjelovanje stranaka, predsjednik vijeća otvara sjednicu navođenjem optužnice o kojoj se raspravlja te provjerava osobne podatke okrivljenika, osim podataka o ranijoj osuđivanosti, a posebno provjerava je li okrivljenik primio i razumio pouku o pravima, a ako nije, naložit će državnom odvjetniku da dostavi okrivljeniku pouku o pravima.
+
+(2) Ako je optužno vijeće prije početka sjednice zaprimilo izjavu za donošenje presude na temelju sporazuma stranaka, postupit će prema člancima 361. do 363. ovoga Zakona.
+
+(3) Ako stranke predlažu određivanje ili ukidanje istražnog zatvora u sjednici optužnog vijeća postupit će se prema članku 129. stavcima 2. do 5. ovoga Zakona.«.
+
+#### Članak 34.
+
+U članku 351. stavku 1. riječi: »člankom 350. stavcima 2. i 3.« zamjenjuju se riječima: »člankom 346.a«.
+
+U stavku 2. riječ: »pravomoćnosti« briše se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Protiv rješenja kojim se odlučuje o izdvajanju dokaza nije dopuštena posebna žalba, osim ako sud ne odluči drukčije. O toj žalbi odlučuje viši sud. Prijedlog za izdvajanje nezakonitih dokaza podnesen protivno članku 346.a ovoga Zakona vijeće će odbaciti. Protiv tog rješenja žalba nije dopuštena.«.
+
+#### Članak 35.
+
+Članak 359. briše se.
+
+#### Članak 36.
+
+U članku 360. stavak 3. mijenja se i glasi:
+
+»(3) Potpisanu izjavu za donošenje presude na temelju sporazuma stranaka prije početka sjednice optužnog vijeća državni odvjetnik, okrivljenik i branitelj predaju optužnom vijeću.«.
+
+#### Članak 37.
+
+Članak 416. mijenja se i glasi:
+
+»(1) Predsjednik vijeća pozvat će optuženika da se očituje o pojedinoj točki optužbe i imovinskopravnom zahtjevu. Optuženika koji poriče optužbu predsjednik vijeća pozvat će da on ili njegov branitelj točno odredi koji dio optužnice poriče i zbog kojih razloga.
+
+(2) Ako se optuženik ne očituje o optužbi, smatrat će se da poriče optužbu ili pojedinu točku optužbe.«.
+
+#### Članak 38.
+
+U članku 468. stavku 1. na kraju točke 11. umjesto točke stavlja se zarez.
+
+Iza točke 11. dodaje se točka 12. koja glasi:
+
+»12) je teško povrijeđeno pravo na pravično suđenje zajamčeno Ustavom i Konvencijom za zaštitu ljudskih prava i temeljnih sloboda.«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Bitna povreda odredaba kaznenog postupka postoji ako se presuda temelji na nezakonitom dokazu (članak 10.). Presuda se ne temelji na nezakonitom dokazu ako bi i bez tog dokaza bila donesena ista presuda.«.
+
+#### Članak 39.
+
+U članku 476. stavku 1. točki 1. broj: »11.« zamjenjuje se brojem: »12.«.
+
+#### Članak 40.
+
+U članku 510. iza stavka 5. dodaju se stavci 6., 7. i 8. koji glase:
+
+»(6) Ako vijeće ocijeni da bi svojom odlukom odstupilo od ustaljene prakse ili odluke proširenog vijeća Vrhovnog suda, ili da praksa Vrhovnog suda u vezi s pravnim pitanjem o kojem odlučuje nije jedinstvena, ili da zbog drugih važnih razloga treba omogućiti da se o zahtjevu za zaštitu zakonitosti odluči u širem sastavu, odluku će prepustiti proširenom vijeću Vrhovnog suda.
+
+(7) Prošireno vijeće iz stavka 6. ovoga članka čine predsjednik Kaznenog odjela Vrhovnog suda, sudac izvjestitelj vijeća kojem je predmet bio dodijeljen u rad, voditelj službe za praćenje i proučavanje sudske prakse Kaznenog odjela Vrhovnog suda i četiri suca Vrhovnog suda određena slučajnim odabirom, počevši od sudaca Kaznenog odjela Vrhovnog suda. Proširenom vijeću predsjeda predsjednik Kaznenog odjela Vrhovnog suda.
+
+(8) O prepuštanju odluke proširenom vijeću i o sastavu tog vijeća stranke će se obavijestiti najkasnije 15 dana prije održavanja sjednice proširenog vijeća.«.
+
+#### Članak 41.
+
+U članku 517. stavku 1. točki 2. riječi: »9. i 10.« zamjenjuju se riječima: »9., 10. i 12.«.
+
+#### Članak 42.
+
+U članku 519. iza riječi: »članka 509. stavka 3.,« dodaju se riječi: »članka 510. stavaka 6., 7. i 8.,«.
+
+#### Članak 43.
+
+U članku 558. stavku 3. iza riječi: »vijeća,« dodaju se riječi: »kada se provodi uz sudjelovanje stranaka,«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 44.
+
+Ministar nadležan za unutarnje poslove donijet će pravilnik iz članka 12. ovoga Zakona u roku od 60 dana od dana njegova stupanja na snagu.
+
+#### Članak 45.
+
+Ako je do stupanja na snagu ovoga Zakona protiv odluke optužnog vijeća kojom je odlučeno o prijedlogu za izdvajanje nezakonitih dokaza podnesena žalba o kojoj još nije odlučeno ili još teče rok za njezino podnošenje, nadležni sud će odluku o dopuštenosti žalbe donijeti prema odredbama zakona koji je bio na snazi u vrijeme donošenja pobijane odluke.
+
+#### Članak 46.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/26-01/6  
+Zagreb, 29. siječnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

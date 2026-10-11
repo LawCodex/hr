@@ -6,13 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
-last_amended: 2009-04-08
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+last_amended: 2021-12-24
+status: in_force
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "79/07, 43/09"
+narodne_novine: "79/07, 43/09, 130/17, 114/18, 47/20, 134/20, 143/21"
 amendments:
   - "NN 43/2009 (985) Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti"
+  - "NN 130/2017 (2987) Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti"
+  - "NN 114/2018 (2205) Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti"
+  - "NN 47/2020 (954) Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti"
+  - "NN 134/2020 (2550) Zakon o izmjeni i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti"
+  - "NN 143/2021 (2436) Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2486"
 retrieved: 2026-10-12
 ---
@@ -21,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2486).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 43/2009.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 43/2009, NN 130/2017, NN 114/2018, NN 47/2020, NN 134/2020, NN 143/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -862,3 +867,675 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti (NN 130/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/130/2987*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti, koji je Hrvatski sabor donio na sjednici 15. prosinca 2017.
+
+Klasa: 011-01/17-01/124
+
+Urbroj: 71-06-0111-17-2
+
+Zagreb, 20. prosinca 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI**
+
+### Članak 1.
+
+U Zakonu o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08. i 43/09.) u članku 10. stavku 2. točke 1. i 2. mijenjaju se i glase:
+
+»1. osiguravanje zdravstvene ispravnosti hrane, uključujući praćenje zoonoza i uzročnika zoonoza, predmeta opće uporabe te sanitarno-tehničkih i higijenskih uvjeta proizvodnje i prometa istih prema posebnim propisima,
+
+2. osiguravanje zdravstvene ispravnosti vode za ljudsku potrošnju te sanitarna zaštita zona izvorišta i objekata, odnosno uređaja koji služe za javnu opskrbu vodom za ljudsku potrošnju prema posebnim propisima,«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»Pravilnik o praćenju zoonoza i uzročnika zoonoza u objektima pod sanitarnim nadzorom donosi ministar.«.
+
+### Članak 2.
+
+Članak 26. mijenja se i glasi:
+
+»Zdravstveni nadzor provodi se nad osobama:
+
+1. koje obavljaju poslove, odnosno sudjeluju u proizvodnji, prometu i usluživanju hrane ili opskrbi stanovništva vodom za ljudsku potrošnju, a koji na svojim radnim mjestima dolaze u neposredan dodir s hranom, odnosno vodom za ljudsku potrošnju,
+
+2. koje obavljaju poslove, odnosno sudjeluju u proizvodnji, prometu kozmetičkih proizvoda, a koji na svojim radnim mjestima dolaze u neposredan dodir s kozmetičkim proizvodima,
+
+3. koje obavljaju poslove, odnosno sudjeluju u obavljanju poslova smještaja, njege i odgoja dojenčadi i predškolske djece,
+
+4. koje rade na porođajnim i dječjim odjelima zdravstvenih ustanova,
+
+5. koje se u pravnim osobama, odnosno kod fizičkih osoba koje samostalno obavljaju djelatnost pružanjem higijenske njege pučanstvu (javna kupališta, »wellness« centri, kozmetički saloni, brijačnice, frizerski saloni, saloni za masažu, saloni za manikuru, pedikuru i sl.), kao i one osobe koje rade na poslovima unošenja boja i stranih tijela u kožu i sluznice,
+
+6. koje izlučuju klice trbušnog tifusa,
+
+7. za koje se sumnja da su kliconoše drugih zaraznih bolesti prema epidemiološkoj indikaciji,
+
+8. koje u Republiku Hrvatsku dolaze iz država u kojima postoji bolest malarije, kolere, virusnih hemoragijskih groznica ili drugih bolesti određenim međunarodnim ugovorom kojeg je Republika Hrvatska stranka,
+
+9. koje dolaze u Republiku Hrvatsku kao tražitelji međunarodne zaštite, azilanti i osobe pod supsidijarnom ili privremenom zaštitom,
+
+10. strancima koji u Republiku Hrvatsku dolaze na školovanje, stručno usavršavanje ili privremeni rad, kao i članovi njihovih obitelji koji zajedno s njima dolaze u Republiku Hrvatsku.
+
+Iznimno od stavka 1. ovoga članka, zdravstvenom nadzoru ne podliježu:
+
+1. osobe koje obavljaju poslove, odnosno sudjeluju u proizvodnji i prometu hrane, a koje u tijeku svog rada na tim poslovima dolaze u dodir isključivo sa zapakiranom hranom,
+
+2. osobe koje obavljaju poslove, odnosno sudjeluju u proizvodnji i prometu kozmetičkih proizvoda, a koje tijekom svoga rada na tim poslovima dolaze u dodir isključivo sa zapakiranim kozmetičkim proizvodima.«.
+
+### Članak 3.
+
+U članku 27. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Pod neposrednim dodirom s kozmetičkim proizvodima podrazumijeva se postupak prilikom kojeg zaposlena osoba dolazi u dodir s kozmetičkim proizvodima koji nisu zapakirani ili su zapakirani, ali se radi potrebe potrošača pakovina djelomično ili u potpunosti skida s kozmetičkih proizvoda.«.
+
+### Članak 4.
+
+U članku 28. stavku 2. riječi: »šest mjeseci« zamjenjuju se riječima: »godinu dana«.
+
+### Članak 5.
+
+Članak 35. mijenja se i glasi:
+
+»Troškove zdravstvenih pregleda osoba iz članka 26. stavka 1. točaka 1. do 5. ovoga Zakona snosi poslodavac.
+
+Troškovi zdravstvenih pregleda osoba iz članka 26. stavka 1. točaka 6. i 7. ovoga Zakona osiguravaju se sukladno propisima o obveznom zdravstvenom osiguranju, a troškovi pregleda osoba iz članka 26. stavka 1. točaka 8., 9. i 10. ovoga Zakona osiguravaju se u državnom proračunu Republike Hrvatske.
+
+Troškove zdravstvenih pregleda osoba iz članka 26. stavka 1. točaka 1. do 10. ovoga Zakona odlukom utvrđuje ministar, uz prethodno pribavljeno mišljenje Hrvatskog zavoda za javno zdravstvo.«.
+
+### Članak 6.
+
+Članak 37. mijenja se i glasi:
+
+»Osobe koje na svojim radnim mjestima u proizvodnji ili prometu hranom i vodom za ljudsku potrošnju dolaze u dodir s hranom te osobe koje rade na pripremi i serviranju hrane moraju imati potrebna znanja o zdravstvenoj ispravnosti hrane i osobnoj higijeni.
+
+Osobe iz stavka 1. ovoga članka moraju imati potrebna znanja o zdravstvenoj ispravnosti hrane i osobnoj higijeni prije početka rada, odnosno obnavljati ih svakih 5 godina.
+
+Smatra se da osobe koje su završile sveučilišni diplomski studij ili specijalistički diplomski stručni studij iz područja: medicine, farmacije, sanitarnog inženjerstva, biokemijskog inženjerstva, prehrambenog inženjerstva, nutricionizma, biologije, biotehnologije i veterinarskih znanosti posjeduju potrebna znanja o zdravstvenoj ispravnosti hrane i osobnoj higijeni te su izuzete od obveze iz stavka 2. ovoga članka.
+
+Osobe koje obavljaju poslove u proizvodnji, odnosno prometu kozmetičkih proizvoda, a koje na svojim radnim mjestima dolaze u neposredan dodir s kozmetičkim proizvodima, te fizičke osobe koje samostalno obavljaju djelatnost pružanja usluga njege ili uljepšavanja lica i tijela, kao i osobe koje obavljaju poslove unošenja boja i stranih tijela u kožu i sluznice, moraju imati potrebna znanja o sprečavanju zaraznih bolesti prije početka rada, odnosno obnavljati ih svakih 5 godina.
+
+Smatra se da osobe koje su završile sveučilišni diplomski studij ili specijalistički diplomski stručni studij iz područja: medicine, farmacije, medicinske biokemije i sanitarnog inženjerstva posjeduju potrebna znanja o sprečavanju zaraznih bolesti i osobnoj higijeni te su izuzete od obveze iz stavka 4. ovoga članka.
+
+Pravilnik o načinu i programu stjecanja potrebnog znanja o zdravstvenoj ispravnosti hrane za osobe iz stavka 1. ovoga članka donosi ministar.
+
+Pravilnik o načinu i programu stjecanja potrebnog znanja o sprečavanju zaraznih bolesti za osobe iz stavka 4. ovoga članka donosi ministar.«.
+
+### Članak 7.
+
+Članak 38. mijenja se i glasi:
+
+»Zdravstveni odgoj osoba iz članka 37. ovoga Zakona provode zavodi za javno zdravstvo županija, odnosno Grada Zagreba i Hrvatski zavod za javno zdravstvo.«.
+
+### Članak 8.
+
+U članku 39. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Troškove stjecanja potrebnog znanja iz članka 37. ovoga Zakona odlukom utvrđuje ministar, uz prethodno pribavljeno mišljenje Hrvatskog zavoda za javno zdravstvo.«.
+
+### Članak 9.
+
+Iza članka 39.a dodaje se članak 39.b koji glasi:
+
+»Članak 39.b
+
+Uvjerenja, odnosno druge isprave (certifikati, potvrde i dr.) koje državljanima država članica Europske unije i Europskog gospodarskog prostora koji u okviru obavljanja registrirane djelatnosti na svojim radnim mjestima u proizvodnji ili prometu hranom dolaze u dodir s hranom, vodom za ljudsku potrošnju i predmetima koji dolaze u neposredan dodir s hranom te osobama koje rade na pripremi i serviranju hrane, odnosno osobama koje obavljaju poslove u proizvodnji i prometu sredstava za održavanje osobne higijene te fizičkim osobama koje samostalno obavljaju djelatnost pružanja usluga njege ili uljepšavanja lica i tijela, kao i osobama koje obavljaju poslove unošenja boja i stranih tijela u kožu i sluznice, izdaju nadležna tijela tih država članica Europske unije ili nadležna tijela države ugovornice Europskoga gospodarskog prostora ili druge pravne osobe u obavljanju poslova na temelju javnih ovlasti, smatraju se kao jednakovrijedni dokazi glede stečenog potrebnog znanja o zdravstvenoj ispravnosti hrane i osobnoj higijeni osoba odnosno stečenog potrebnog znanja o sprečavanju zaraznih bolesti.«.
+
+### Članak 10.
+
+Članak 60. mijenja se i glasi:
+
+»Prijenos umrlih osoba koje nisu bile pokopane i koje nisu umrle od zarazne bolesti iz članka 59. stavka 1. ovoga Zakona obavlja se iz Republike Hrvatske u inozemstvo na temelju sprovodnice koju izdaje sanitarni inspektor nadležan prema mjestu smrti tih osoba.
+
+Iskopavanje i prijenos umrle osobe iz jednog grobnog mjesta u Republici Hrvatskoj radi pogreba u drugo grobno mjesto u inozemstvu obavlja se na temelju sprovodnice, koju izdaje sanitarni inspektor nadležan prema mjestu iskopa.
+
+Sprovodnica za prijenos osoba iz stavaka 1. i 2. ovoga članka izdaje se uz prethodnu suglasnost nadležnog tijela za unutarnje poslove.«.
+
+### Članak 11.
+
+Članak 62. briše se.
+
+### Članak 12.
+
+Iza članka 63. dodaje se članak 63.a koji glasi:
+
+»Članak 63.a
+
+Pogreb umrle osobe u Republici Hrvatskoj koja nije umrla od zarazne bolesti iz članka 59. ovoga Zakona obavlja se na temelju dozvole za ukop.«.
+
+### Članak 13.
+
+U cijelom tekstu Zakona o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08. i 43/09.) riječi: »voda za piće« i »pitka voda« u određenom padežu zamjenjuju se riječima: »voda za ljudsku potrošnju« u odgovarajućem padežu, a riječi: »tražitelj azila« u određenom padežu i broju zamjenjuju se riječima: »tražitelj međunarodne zaštite« u odgovarajućem padežu i broju.
+
+### Članak 14.
+
+Pravilnik iz članka 1. ovoga Zakona ministar će donijeti u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+Pravilnike iz članka 6. ovoga Zakona ministar će donijeti u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+Odluku iz članka 5. ovoga Zakona ministar će donijeti u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+Odluku iz članka 8. ovoga Zakona ministar će donijeti u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 15.
+
+Danom stupanja na snagu ovoga Zakona ostaju na snazi odredbe Pravilnika o načinu obavljanja zdravstvenih pregleda osoba pod zdravstvenim nadzorom (»Narodne novine«, br. 23/94. i 93/00.), Pravilnika o načinu stjecanja osnovnog znanja o zdravstvenoj ispravnosti namirnica i osobnoj higijeni osoba koje rade u proizvodnji i prometu namirnica (»Narodne novine«, br. 23/94.) i Pravilnika o uvjetima i načinu obavljanja prijenosa, pogreba i iskopavanja umrlih osoba (»Narodne novine«, br. 23/94.), u dijelu u kojem nisu u suprotnosti s odredbama ovoga Zakona.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Naputak o postupanju s otpadom koji nastaje pri pružanju zdravstvene zaštite (»Narodne novine«, broj 50/00.).
+
+### Članak 16.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 4. ovoga Zakona koji stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/17-01/106
+
+Zagreb, 15. prosinca 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2205*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/193
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI**
+
+### Članak 1.
+
+U Zakonu o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08., 43/09. i 130/17.) u članku 8. iza riječi: »nadležnom sanitarnom inspektoru« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 2.
+
+U članku 11. stavku 4. iza riječi: »sanitarnih inspektora« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 3.
+
+U članku 23. stavcima 5. i 6. iza riječi: »nadležnog sanitarnog inspektora«, u određenom padežu, dodaju se riječi: »Državnog inspektorata«, u odgovarajućem padežu.
+
+### Članak 4.
+
+U članku 28. stavku 2. iza riječi: »nadležnog sanitarnog inspektora« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 5.
+
+U članku 39.a stavku 3. riječi: »sanitarna inspekcija« zamjenjuju se riječima: »sanitarni inspektor Državnog inspektorata«.
+
+### Članak 6.
+
+U članku 49. stavku 1. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 7.
+
+U članku 50. stavcima 1. i 2. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 8.
+
+U članku 51. stavku 1. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 9.
+
+U članku 56. stavku 2. riječ: »ministarstva« zamjenjuje se riječima: »Državnog inspektorata«.
+
+### Članak 10.
+
+U članku 59. stavcima 2. i 3. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 11.
+
+U članku 60. stavcima 1. i 2. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 12.
+
+U članku 68. stavku 1. riječ: »ministarstva« zamjenjuje se riječima: »Državnog inspektorata«.
+
+### Članak 13.
+
+U članku 69. stavcima 1. i 2. iza riječi: »sanitarni inspektori« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 14.
+
+U članku 70. stavku 2. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 15.
+
+U članku 75. stavku 1. točki 12. iza riječi: »sanitarnog inspektora« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 16.
+
+U članku 76. stavku 1. točki 1. iza riječi: »sanitarnom inspektoru« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 17.
+
+U članku 79. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 18.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/198
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti (NN 47/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/47/954*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti, koji je Hrvatski sabor donio na sjednici 17. travnja 2020.
+
+Klasa: 011-01/20-01/59  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 17. travnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI**
+
+#### Članak 1.
+
+U Zakonu o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08., 43/09., 130/17. i 114/18.) u članku 2. stavak 4. mijenja se i glasi:
+
+»Ministar nadležan za zdravstvo (u daljnjem tekstu: ministar), na prijedlog Hrvatskog zavoda za javno zdravstvo, posebnom odlukom proglašava opasnost od epidemije zarazne bolesti te određuje zaraženo, odnosno ugroženo područje. Odluka kojom se proglašava opasnost od epidemije zarazne bolesti objavljuje se u »Narodnim novinama«.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»Vlada Republike Hrvatske na prijedlog ministra posebnom odlukom proglašava epidemiju zarazne bolesti te određuje zaraženo područje. Odluka kojom se proglašava epidemija zarazne bolesti objavljuje se u »Narodnim novinama«.«.
+
+#### Članak 2.
+
+U članku 3. stavku 4. riječi: »stavka 4.« zamjenjuju se riječima: »stavaka 4. i 5.«.
+
+#### Članak 3.
+
+U članku 12. točka 4. mijenja se i glasi:
+
+»4. prijevoz, izolacija u vlastitom domu ili drugom odgovarajućem prostoru – samoizolacija, izolacija i liječenje oboljelih,«.
+
+#### Članak 4.
+
+U članku 13. stavku 1. točki 2. podtočki a) iza riječi: ­»SARS-a,« dodaju se riječi: »bolesti COVID-19 uzrokovane virusom ­SARS-CoV-2«.
+
+#### Članak 5.
+
+U članku 14. stavku 1. iza riječi: »SARS-a,« dodaju se riječi: »bolesti COVID-19 uzrokovane virusom SARS-CoV-2,«.
+
+U stavku 5. iza riječi: »SARS-a,« dodaju se riječi: »bolesti ­COVID-19 uzrokovane virusom SARS-CoV-2,«.
+
+#### Članak 6.
+
+U članku 16. stavku 1. točki 2) iza riječi: »SARS-a« briše se zarez te se dodaju riječi: »i bolesti COVID-19 uzrokovane virusom SARS-CoV-2,«.
+
+#### Članak 7.
+
+U naslovu iznad članka 20. iza riječi: »4. Prijevoz,« dodaju se riječi: »izolacija u vlastitom domu ili drugom odgovarajućem prostoru – samoizolacija,«.
+
+U članku 20. iza riječi: »SARS-a« stavlja se zarez te se dodaju riječi: »bolesti COVID-19 uzrokovane virusom SARS-CoV-2«.
+
+#### Članak 8.
+
+U članku 21. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Iznimno od stavka 1. ovoga članka, prema epidemiološkoj ocjeni Hrvatskog zavoda za javno zdravstvo, odnosno zavoda za javno zdravstvo županije, odnosno Grada Zagreba ili prema procjeni doktora medicine specijalista epidemiologije, odnosno drugog nadležnog doktora medicine određene specijalnosti, osobama za koje se utvrdi da su oboljele, za koje se posumnja da boluju od bolesti COVID-19 uzrokovane virusom SARS-CoV-2 ili zdravim osobama koje su bile u kontaktu s oboljelim osobama od te bolesti, odnosno dolaze iz područja zahvaćenog bolesti COVID-19 uzrokovane virusom SARS-CoV-2 može se odrediti izolacija u vlastitom domu, odnosno u drugom odgovarajućem prostoru – samoizolacija, ako za to postoje odgovarajući uvjeti.«.
+
+U dosadašnjem stavku 2., koji postaje stavak 3., riječi: »u stanu« zamjenjuju se riječima: »u vlastitom domu, odnosno u drugom odgovarajućem prostoru – samoizolacija«.
+
+#### Članak 9.
+
+U članku 26. stavku 1. točki 8. iza riječi: »kolere,« dodaju se riječi: »bolesti COVID-19 uzrokovane virusom SARS-CoV-2,«.
+
+#### Članak 10.
+
+U članku 47. stavku 1. iza riječi: »groznice« stavlja se zarez te se dodaju riječi: »bolesti COVID-19 uzrokovane virusom ­SARS-CoV-2«.
+
+U stavku 2. iza točke 7. dodaje se nova točka 8. koja glasi:
+
+»8. izolaciju osoba u vlastitom domu ili drugom odgovarajućem prostoru – samoizolacija,«. Dosadašnja točka 8. postaje točka 9.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Kada je, sukladno članku 2. stavcima 4. i 5. ovoga Zakona, proglašena epidemija zarazne bolesti ili opasnost od epidemije zarazne bolesti u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, odnosno epidemiju ili opasnost od nje, sigurnosne mjere iz stavaka 1. do 3. ovoga članka može odlukom narediti, u suradnji s Ministarstvom zdravstva i Hrvatskim zavodom za javno zdravstvo, i Stožer civilne zaštite Republike Hrvatske. Odluke Stožera donose se pod neposrednim nadzorom Vlade Republike Hrvatske.«.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., točka na kraju rečenice zamjenjuje se zarezom te se dodaju riječi: »osim ako su ispunjene pretpostavke iz stavka 4. ovoga članka.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»Sigurnosne mjere iz stavka 2. ovoga članka koje naređuje ministar i Stožer civilne zaštite Republike Hrvatske objavljuju se u »Narodnim novinama«.«.
+
+#### Članak 11.
+
+U članku 49. stavku 1. iza riječi: »SARS-a« stavlja se zarez te dodaju riječi: »bolesti COVID-19 uzrokovane virusom SARS-CoV-2«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Iznimno od stavka 1. ovoga članka, kada je, sukladno članku 2. stavcima 4. i 5. ovoga Zakona, proglašena epidemija zarazne bolesti ili opasnost od epidemije zarazne bolesti u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju, odnosno epidemiju ili opasnost od nje, ministar je ovlašten donijeti odluku kojom određuje pravne i fizičke osobe, način i troškove provedbe obveznih protuepidemijskih mjera.«
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 12.
+
+U članku 59. stavku 1. iza riječ: »vCJ« stavlja se zarez te dodaju riječi: »bolesti COVID-19 uzrokovane virusom SARS-CoV-2«.
+
+#### Članak 13.
+
+U članku 68. iza točke 5. dodaje se nova točka 6. koja glasi:
+
+»6. narediti izolaciju u vlastitom domu ili drugom odgovarajućem prostoru – samoizolacija,«.
+
+Dosadašnja točka 6. postaje točka 7.
+
+#### Članak 14.
+
+U članku 69. stavku 2. iza točke 3. dodaju se nove točke 4. i 5. koje glase:
+
+»4. narediti stavljanje u organiziranu karantenu osoba koje ne poštuju propisane posebne i sigurnosne mjere,
+
+5. narediti izolaciju u vlastitom domu ili drugom odgovarajućem prostoru za izolaciju – samoizolacija,«.
+
+Dosadašnje točke 4. do 15. postaju točke 6. do 17.
+
+#### Članak 15.
+
+U članku 73. iza riječi: »SARS-a« stavlja se zarez te dodaju riječi: »bolesti COVID-19 uzrokovane virusom SARS-CoV-2«.
+
+#### Članak 16.
+
+Iza članka 76. dodaje se članak 76.a koji glasi:
+
+»Članak 76.a
+
+Novčanom kaznom u iznosu od 8.000,00 do 15.000,00 kuna kaznit će se za prekršaj fizička osoba:
+
+1. ako se ne pridržava sigurnosne mjere za zaštitu pučanstva od zaraznih bolesti, izolacije u vlastitom domu ili drugom odgovarajućem prostoru – samoizolacija (članak 47. stavak 2. točka 8.),
+
+2. ako se ne pridržava sigurnosne mjere za zaštitu pučanstva od zaraznih bolesti stavljanja u karantenu (članak 55. stavci 1. i 2.).«.
+
+#### Članak 17.
+
+Članak 79. mijenja se i glasi:
+
+»Za svaku povredu odredaba ovoga Zakona sanitarni inspektor Državnog inspektorata može, na licu mjesta, naplatiti novčanu kaznu u iznosu od 5.000,00 kuna.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 18.
+
+Odluke Stožera civilne zaštite Republike Hrvatske donesene radi trenutačne zaštite života i zdravlja pučanstva u Republici Hrvatskoj, a u povodu Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, klase: 011-02/20-01/143, urbroja: 534-02-01-2/6-20-01, od 11. ožujka 2020., koju je ministar zdravstva donio na prijedlog Hrvatskog zavoda za javno zdravstvo u skladu s člankom 2. stavkom 4. Zakona o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08., 43/09., 130/17. i 114/18.), te proglašenja pandemije bolesti COVID-19 od strane Svjetske zdravstvene organizacije 11. ožujka 2020., smatraju se mjerama iz članka 10. stavka 3. ovoga Zakona.
+
+#### Članak 19.
+
+Ministarstvo zdravstva provest će naknadnu procjenu učinaka ovoga Zakona u roku od dvije godine od dana njegova stupanja na snagu.
+
+#### Članak 20.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/61  
+Zagreb, 17. travnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti (NN 134/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/134/2550*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA  
+OD ZARAZNIH BOLESTI
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti, koji je Hrvatski sabor donio na sjednici 4. prosinca 2020.
+
+Klasa: 011-01/20-01/106
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 4. prosinca 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI**
+
+#### Članak 1.
+
+U Zakonu o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08., 43/09., 130/17., 114/18. i 47/20.) u članku 47. stavku 2. iza točke 8. dodaju se nova točka 9. te točke 10. i 11. koje glase:
+
+»9. obvezu pravilnog nošenja maske za lice ili medicinske maske,
+
+10. zabranu ili ograničenje održavanja javnih događanja i/ili okupljanja,
+
+11. zabranu ili ograničenje održavanja privatnih okupljanja.«.
+
+Dosadašnja točka 9. postaje točka 12.
+
+#### Članak 2.
+
+Iza članka 72. dodaje se članak 72.a koji glasi:
+
+»Članak 72.a
+
+Iznimno od članka 69. ovoga Zakona, kada je proglašena epidemija zarazne bolesti ili opasnost od epidemije zarazne bolesti, u odnosu na koju je i Svjetska zdravstvena organizacija proglasila pandemiju odnosno epidemiju ili opasnost od nje, nadzor nad provedbom sigurnosnih mjera za zaštitu pučanstva od zaraznih bolesti iz članka 47. stavka 2. ovoga Zakona obavljaju i policijski službenici, inspektori tijela državne uprave nadležnog za civilnu zaštitu, inspektori Državnog inspektorata te inspektori drugih tijela državne uprave u okviru svoje nadležnosti.«.
+
+#### Članak 3.
+
+Iza članka 76.a dodaju se članci 76.b, 76.c i 76.d koji glase:
+
+»Članak 76.b
+
+Novčanom kaznom u iznosu od 10.000,00 do 40.000,00 kuna kaznit će se za prekršaj pravna osoba:
+
+1. ako ne poštuje zabranu ili ograničenje održavanja javnih događanja i/ili okupljanja (članak 47. stavak 2. točka 10.),
+
+2. ako ne poštuje zabranu ili ograničenje održavanja privatnih okupljanja (članak 47. stavak 2. točka 11.).
+
+Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi, kao i fizička osoba obrtnik te fizička osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna.
+
+#### Članak 76.c
+
+Novčanom kaznom u iznosu od 500,00 kuna kaznit će se za prekršaj fizička osoba ako se ne pridržava obveze pravilnog nošenja maske za lice ili medicinske maske (članak 47. stavak 2. točka 9.).
+
+#### Članak 76.d
+
+Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj fizička osoba, vlasnik, odnosno posjednik privatnog prostora ako organizira ili dopusti održavanje privatnog okupljanja protivno odlukama iz članka 47. stavka 2. točke 11. ovoga Zakona.«.
+
+#### Članak 4.
+
+Članak 79. mijenja se i glasi:
+
+»Za prekršaje propisane ovim Zakonom kaznu može naplatiti na mjestu počinjenja prekršaja osoba ovlaštena za provedbu nadzora nad provedbom sigurnosnih mjera za zaštitu pučanstva od zaraznih bolesti iz članaka 69. i 72.a ovoga Zakona, sukladno zakonu kojim se uređuju prekršaji.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 5.
+
+Odluke Stožera civilne zaštite Republike Hrvatske donesene radi trenutačne zaštite života i zdravlja pučanstva u Republici Hrvatskoj, a u povodu Odluke o proglašenju epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 u Republici Hrvatskoj, klasa: 011-02/20-01/143, urbroj: 534-02-01-2/6-20-01, od 11. ožujka 2020., kojima su uvedene mjere iz članka 1. ovoga Zakona smatraju se sigurnosnim mjerama iz ovoga Zakona.
+
+#### Članak 6.
+
+Ministarstvo zdravstva će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 7.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/145  
+Zagreb, 4. prosinca 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti (NN 143/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/143/2436*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti pučanstva od zaraznih bolesti, koji je Hrvatski sabor donio na sjednici 15. prosinca 2021.
+
+Klasa: 011-01/21-01/101  
+Urbroj: 71-10-01/1-21-2  
+Zagreb, 21. prosinca 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PUČANSTVA OD ZARAZNIH BOLESTI**
+
+### Članak 1.
+
+U Zakonu o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08., 43/09., 130/17., 114/18., 47/20. i 134/20.) naziv glave III. iznad članka 4. mijenja se i glasi: »III. PRAVA I OBVEZE U PROVOĐENJU MJERA ZA ZAŠTITU PUČANSTVA OD ZARAZNIH BOLESTI«.
+
+### Članak 2.
+
+Članak 4. mijenja se i glasi:
+
+»Javnopravna tijela obvezna su osigurati provođenje mjera za zaštitu pučanstva od zaraznih bolesti propisanih ovim Zakonom te sredstva za njihovo provođenje, kao i stručni nadzor nad provođenjem tih mjera.
+
+Javnopravnim tijelom, u smislu ovoga Zakona, smatra se zakonodavno, izvršno i sudbeno tijelo državne vlasti, tijelo državne uprave i drugo državno tijelo, tijelo jedinice lokalne i područne (regionalne) samouprave, pravna osoba koja ima javnu ovlast i pravna osoba koja obavlja javnu službu (pružatelj javnih usluga).
+
+Odgovornom osobom u javnopravnom tijelu, u smislu ovoga Zakona, smatra se čelnik tijela državne vlasti, čelnik tijela državne uprave, čelnik drugog državnog tijela, župan, gradonačelnik i općinski načelnik te zakonski zastupnik pravne osobe, sukladno posebnim propisima.
+
+Pravne osobe koje obavljaju zdravstvenu djelatnost i privatni zdravstveni radnici obvezni su provoditi mjere za zaštitu pučanstva od zaraznih bolesti propisane ovim Zakonom.«.
+
+### Članak 3.
+
+U članku 47. stavku 2. iza točke 8. dodaje se točka 8.a koja glasi:
+
+»8.a obvezu predočenja dokaza o testiranju, cijepljenju ili preboljenju zarazne bolesti radi ulaska u određene prostore,«.
+
+### Članak 4.
+
+Iza članka 55. dodaju se naslov iznad članka i članak 55.a koji glase:
+
+*»3. Obveza predočenja dokaza o testiranju, cijepljenju ili preboljenju zarazne bolesti radi ulaska u određene prostore*
+
+### Članak 55.a
+
+Ako je uvedena posebna sigurnosna mjera iz članka 47. stavka 2. točke 8.a ovoga Zakona, osobi koja odbije predočiti dokaz o testiranju, cijepljenju ili preboljenju zarazne bolesti nije dozvoljeno ući u određene prostore.
+
+Provedbu posebne sigurnosne mjere iz članka 47. stavka 2. točke 8.a koja je uvedena za javnopravna tijela iz članka 4. stavka 2. ovoga Zakona dužne su osigurati odgovorne osobe iz članka 4. stavka 3. ovoga Zakona.
+
+Odgovorne osobe iz članka 4. stavka 3. ovoga Zakona dužne su odrediti jednu ili više osoba za neposrednu provedbu posebne sigurnosne mjere iz članka 47. stavka 2. točke 8.a ovoga Zakona.
+
+Ako suprotno stavku 1. ovoga članka osoba uđe u prostore javnopravnih tijela, osoba određena za neposrednu provedbu posebne sigurnosne mjere iz stavka 3. ovoga članka bez odgode prijavljuje događaj odgovornoj osobi iz članka 4. stavka 3. ovoga Zakona i nadležnoj sanitarnoj inspekciji Državnog inspektorata.«.
+
+### Članak 5.
+
+U članku 69. stavku 2. iza točke 9. dodaju se točke 9.a i 9.b koje glase:
+
+»9.a narediti provedbu posebne sigurnosne mjere obveze predočenja dokaza o testiranju, cijepljenju ili preboljenju zarazne bolesti radi ulaska u određene prostore,
+
+9.b narediti udaljenje osoba iz prostora u koji su ušle protivno uvedenoj posebnoj sigurnosnoj mjeri obveze predočenja dokaza o testiranju, cijepljenju ili preboljenju zarazne bolesti radi ulaska u određene prostore.«.
+
+### Članak 6.
+
+Naziv glave VII. iznad članka 75. mijenja se i glasi: »VII. PREKRŠAJNE ODREDBE«.
+
+### Članak 7.
+
+Iza članka 75. dodaje se članak 75.a koji glasi:
+
+»Članak 75.a
+
+Novčanom kaznom u iznosu od 30.000,00 do 50.000,00 kuna kaznit će se za prekršaj odgovorna osoba koja ne osigura provedbu posebne sigurnosne mjere obveze predočenja dokaza o testiranju, cijepljenju ili preboljenju zarazne bolesti radi ulaska u određene prostore (članak 47. stavak 2. točka 8.a i članak 55.a).«.
+
+### Članak 8.
+
+Ministarstvo zdravstva će do 5. prosinca 2022. provesti naknadnu procjenu učinaka ovoga Zakona.
+
+### Članak 9.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/146  
+Zagreb, 15. prosinca 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

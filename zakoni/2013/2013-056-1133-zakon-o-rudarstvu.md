@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-05-10
-last_amended: 2014-02-05
+last_amended: 2023-07-21
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "56/13, 14/14"
+narodne_novine: "56/13, 14/14, 98/19, 83/23"
 amendments:
   - "NN 14/2014 (294) Zakon o izmjenama Zakona o rudarstvu"
+  - "NN 98/2019 (1967) Zakon o izmjenama Zakona o rudarstvu"
+  - "NN 83/2023 (1297) Zakon o izmjenama i dopunama Zakona o rudarstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1133"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 56/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1133).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014, NN 98/2019, NN 83/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2801,3 +2803,602 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o rudarstvu (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1967*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O RUDARSTVU
+
+Proglašavam Zakon o izmjenama Zakona o rudarstvu, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/175
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O RUDARSTVU**
+
+### Članak 1.
+
+U Zakonu o rudarstvu (»Narodne novine«, br. 56/13., 14/14., 52/18. i 115/18.) članak 8. mijenja se i glasi:
+
+»Za mineralne sirovine iz članka 5. ovoga Zakona tijelo nadležno za rudarstvo je ministarstvo nadležno za rudarstvo.«.
+
+### Članak 2.
+
+U članku 41. stavku 1. točki 2. riječi: »ili uredu državne uprave u jedinici područne (regionalne) samouprave« brišu se.
+
+### Članak 3.
+
+U članku 64. stavku 1. točki 2. riječi: »ili uredu državne uprave u jedinici područne (regionalne) samouprave« brišu se.
+
+### Članak 4.
+
+U članku 75. stavku 3. riječi: »ili uredu državne uprave u jedinici područne (regionalne) samouprave« brišu se.
+
+### Članak 5.
+
+U članku 80. točki 2. riječi: »ili uredu državne uprave u jedinici područne (regionalne) samouprave« brišu se.
+
+### Članak 6.
+
+U članku 145. stavku 2. riječi: »Nadležna tijela za rudarstvo dužna su« zamjenjuju se riječima: »Ministarstvo nadležno za rudarstvo dužno je«.
+
+Stavak 3. briše se.
+
+### Članak 7.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/170
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o rudarstvu (NN 83/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/83/1297*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O RUDARSTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o rudarstvu, koji je Hrvatski sabor donio na sjednici 14. srpnja 2023.
+
+Klasa: 011-02/23-02/62  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 18. srpnja 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O RUDARSTVU**
+
+#### Članak 1.
+
+U Zakonu o rudarstvu (»Narodne novine«, br. 56/13., 14/14., 52/18., 115/18. i 98/19.) naslov iznad članka 6. mijenja se i glasi: »Srednjoročni akt strateškog planiranja«.
+
+Članak 6. mijenja se i glasi:
+
+»Održivo gospodarenje mineralnim sirovinama iz članka 5. ovoga Zakona, osim ugljikovodika i geotermalne vode iz kojih se može koristiti akumulirana toplina u energetske svrhe, te planiranje rudarske gospodarske djelatnosti na državnoj razini utvrđuju se srednjoročnim aktom strateškog planiranja koji donosi Vlada Republike Hrvatske na prijedlog ministarstva nadležnog za rudarstvo.«.
+
+#### Članak 2.
+
+U članku 7. stavku 1. riječi: »Strategijom gospodarenja mineralnim sirovinama« zamjenjuju se riječima: »srednjoročnim aktom strateškog planiranja iz članka 6. ovoga Zakona«.
+
+U stavku 3. riječi: »usvajanja Strategije gospodarenja mineralnim sirovinama u Hrvatskome saboru« zamjenjuju se riječima: »donošenja srednjoročnog akta strateškog planiranja iz članka 6. ovoga Zakona«.
+
+#### Članak 3.
+
+U članku 17. stavku 2. točka 6. briše se.
+
+#### Članak 4.
+
+U članku 51. stavku 4. riječi: »Strategije gospodarenja mineralnim sirovinama« zamjenjuju se riječima: »srednjoročnog akta strateškog planiranja iz članka 6. ovoga Zakona.«
+
+#### Članak 5.
+
+U članku 69. stavku 3. riječi: »Ako Državni inspektorat i Inspekcija zaštite okoliša utvrde« zamjenjuju se riječima: »Ako Državni inspektorat utvrdi«.
+
+#### Članak 6.
+
+U članku 70. stavku 1. riječi: »Ako Državni inspektorat i Inspekcija zaštite okoliša utvrde« zamjenjuju se riječima: »Ako Državni inspektorat utvrdi«.
+
+U stavku 2. riječi: »i Inspekcija zaštite okoliša« brišu se.
+
+#### Članak 7.
+
+U članku 78. iza riječi: »sirovina« zarez i riječi: »odnosno pravo za izvođenje rudarskih radova za izvanrednu sanaciju prostora« brišu se.
+
+#### Članak 8.
+
+U članku 79. stavku 1. ispred riječi: »Ugovor« briše se oznaka stavka.
+
+Stavci 2. i 3. brišu se.
+
+#### Članak 9.
+
+U članku 87. stavku 1. riječi: »i Inspekciju zaštite okoliša« brišu se.
+
+U stavku 2. riječi: »Ako Državni inspektorat i Inspekcija zaštite okoliša utvrde« zamjenjuju se riječima: »Ako Državni inspektorat utvrdi«.
+
+U stavku 6. riječi: »Državni inspektorat i Inspekcija zaštite okoliša utvrde« zamjenjuju se riječima: »Državni inspektorat utvrdi«.
+
+U stavku 9. riječi: »Državni inspektorat i Inspekcija zaštite okoliša utvrde« zamjenjuju se riječima: »Državni inspektorat utvrdi«.
+
+#### Članak 10.
+
+U članku 88. stavku 1. riječi: »Ako Državni inspektorat i Inspekcija zaštite okoliša utvrde« zamjenjuju se riječima: »Ako Državni inspektorat utvrdi«.
+
+U stavku 2. riječi: »i Inspekcija zaštite okoliša« brišu se.
+
+#### Članak 11.
+
+U članku 90. stavku 1. točki 2. riječi: »i Inspekcije zaštite okoliša« brišu se.
+
+Točka 10. briše se.
+
+Dosadašnje točke 11. i 12. postaju točke 10. i 11.
+
+#### Članak 12.
+
+U članku 91. stavku 7. riječi: »i članka 102. stavka 4.« brišu se.
+
+#### Članak 13.
+
+U članku 93. točki 2. na kraju rečenice umjesto zareza stavlja se točka.
+
+Točka 3. briše se.
+
+#### Članak 14.
+
+Naslov iznad članka 102. mijenja se i glasi:
+
+»Neaktivna eksploatacijska polja mineralnih sirovina«.
+
+Članak 102. mijenja se i glasi:
+
+»(1) Neaktivna eksploatacijska polja mineralnih sirovina su eksploatacijska polja na kojima je trajno obustavljeno izvođenje rudarskih radova, a na kojima nisu provedene mjere osiguranja radi sprječavanja nastanka opasnosti za ljude, imovinu, prirodu i okoliš i koja nisu brisana iz Registra eksploatacijskih polja mineralnih sirovina.
+
+(2) Republika Hrvatska određuje se i upisuje kao nositelj i ovlaštenik neaktivnih eksploatacijskih polja mineralnih sirovina iz stavka 1. ovoga članka.
+
+(3) Ministarstvo nadležno za rudarstvo utvrđuje se kao tijelo državne uprave nadležno za provedbu sanacije neaktivnih eksploatacijskih polja mineralnih sirovina.
+
+(4) Predstavničko tijelo jedinice lokalne samouprave dužno je donijeti odluku o sanaciji neaktivnih eksploatacijskih polja mineralnih sirovina bez eksploatacije mineralnih sirovina ili uz eksploataciju mineralnih sirovina te je dostaviti ministarstvu nadležnom za rudarstvo i jedinici područne (regionalne) samouprave.
+
+(5) Ako predstavničko tijelo jedinice lokalne samouprave donese odluku o sanaciji neaktivnih eksploatacijskih polja mineralnih sirovina uz eksploataciju mineralnih sirovina, jedinice lokalne samouprave i jedinice područne (regionalne) samouprave dužne su planirati ta neaktivna eksploatacijska polja mineralnih sirovina u svojim prostornim planovima.
+
+(6) Ako jedinice lokalne samouprave i jedinice područne (regionalne) samouprave ne postupe prema odredbama iz stavaka 4. i 5. ovoga članka, ministarstvo nadležno za rudarstvo dužno je iz Registra eksploatacijskih polja mineralnih sirovina brisati neaktivna eksploatacijska polja mineralnih sirovina, a sva odgovornost i teret daljnjih radnji, kao i sva šteta koja bi mogla nastati bilo komu u svezi s tim prostorima na jedinici je lokalne samouprave.
+
+(7) U slučaju iz stavka 6. ovoga članka ministarstvo nadležno za rudarstvo donosi rješenje o brisanju eksploatacijskog polja mineralnih sirovina iz Registra eksploatacijskih polja mineralnih sirovina.
+
+(8) Protiv rješenja iz stavka 7. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 15.
+
+Iznad članka 103. dodaje se naslov koji glasi:
+
+»Sanacija neaktivnih eksploatacijskih polja mineralnih sirovina uz eksploataciju mineralnih sirovina«.
+
+Članak 103. mijenja se i glasi:
+
+»(1) Kad je za sanaciju neaktivnih eksploatacijskih polja mineralnih sirovina i provedbu mjera osiguranja radi sprečavanja nastanka opasnosti za ljude, imovinu, prirodu i okoliš nužno provesti eksploataciju, potrebno je ishoditi koncesiju za eksploataciju mineralnih sirovina u svrhu sanacije.
+
+(2) Postupak iz stavka 1. ovoga članka pokreće ministarstvo nadležno za rudarstvo:
+
+– po službenoj dužnosti,
+
+– na zahtjev jedinice lokalne samouprave na čijem se području nalazi neaktivno eksploatacijsko polje mineralnih sirovina,
+
+– na zahtjev fizičke osobe ili pravne osobe registrirane za istraživanje i eksploataciju mineralnih sirovina.
+
+(3) Sanacija uz eksploataciju iz stavka 1. ovoga članka ne može se provoditi u zaštićenom obalnom području mora i zakonom zaštićenim područjima.
+
+(4) Na postupak i uvjete dodjele koncesije iz stavka 1. ovoga članka odgovarajuće se primjenjuju odredbe ovoga Zakona kojima se uređuju dodatni istražni radovi na već utvrđenim eksploatacijskim poljima mineralnih sirovina.
+
+(5) Koncesionar iz stavka 1. ovoga članka plaća naknadu za koncesiju za eksploataciju mineralnih sirovina sukladno odredbama članka 77. ovoga Zakona.
+
+(6) Sanaciju uz eksploataciju iz stavka 1. ovoga članka treba provesti u najkraćem mogućem roku.
+
+(7) Rok iz stavka 6. ovoga članka utvrdit će se sukladno lokacijskoj dozvoli ishođenoj od nadležnog tijela za prostorno uređenje.
+
+(8) U postupku ishođenja lokacijske dozvole za sanaciju uz eksploataciju iz stavka 1. ovoga članka ministarstvo nadležno za rudarstvo daje mišljenje o roku i opsegu sanacije uz eksploataciju.«.
+
+#### Članak 16.
+
+Naslov iznad članka 104. mijenja se i glasi:
+
+»Sanacija neaktivnih eksploatacijskih polja mineralnih sirovina bez eksploatacije mineralnih sirovina«.
+
+Članak 104. mijenja se i glasi:
+
+»(1) Za sanaciju neaktivnih eksploatacijskih polja mineralnih sirovina bez eksploatacije mineralnih sirovina s ciljem provedbe mjera osiguranja radi sprječavanja nastanka opasnosti za ljude, imovinu, prirodu i okoliš (u daljnjem tekstu: tehnička sanacija), a koji zahvat nema kao posljedicu promjenu stanja sastavnica prostora, ministarstvo nadležno za rudarstvo pokreće postupak na zahtjev jedinice lokalne samouprave na čijem se području nalazi neaktivno eksploatacijsko polje.
+
+(2) Novčana sredstva za provedbu tehničke sanacije osigurava ministarstvo nadležno za rudarstvo.
+
+(3) Zahtjev jedinice lokalne samouprave iz stavka 1. ovoga članka obvezno sadrži:
+
+– prostorni obuhvat rudarskih radova unutar neaktivnih eksploatacijskih polja mineralnih sirovina na kojima je potrebno provesti tehničku sanaciju,
+
+– mišljenje tijela nadležnog za zaštitu okoliša i prirode te za prostorno uređenje jedinice područne (regionalne) samouprave na čijem se području nalazi neaktivno eksploatacijsko polje mineralnih sirovina, glede mogućnosti provedbe tehničke sanacije,
+
+– podatke o vlasništvu na zemljišnim česticama (u daljnjem tekstu: nekretninama) na kojima se planira provesti tehnička sanacija.
+
+(4) Ministarstvo nadležno za rudarstvo, ovisno o lokaciji neaktivnog eksploatacijskog polja mineralnih sirovina, dužno je zatražiti posebne uvjete, ograničenja i suglasnosti od tijela državne uprave, pravnih osoba s javnim ovlastima, vlasnika nekretnina na kojima se planira provesti tehnička sanacija, a posebice od tijela državne uprave nadležnih za zaštitu okoliša i prirode te za prostorno uređenje.
+
+(5) Ako se tijela i/ili osobe iz stavka 4. ovoga članka ne očituju u roku od 60 dana, smatra se da su tijela i/ili osobe suglasne s provedbom tehničke sanacije te da nemaju posebnih uvjeta i ograničenja.
+
+(6) Ako vlasnici nekretnina na kojima se planira provesti tehnička sanacija uskrate suglasnost za provedbu tehničke sanacije, na tom dijelu neaktivnog eksploatacijskog polja mineralnih sirovina neće se provesti tehnička sanacija, a sva odgovornost i teret daljnjih radnji, kao i sva šteta koja bi mogla nastati bilo komu u svezi s tim prostorima na vlasnicima je nekretnina.
+
+(7) Ministarstvo nadležno za rudarstvo donosi odluku kojom određuje jedinicu lokalne samouprave kao ovlaštenika provedbe tehničke sanacije, kao i potrebne radnje za izradu dokumentacije za provedbu tehničke sanacije u skladu s izdanim posebnim uvjetima i ograničenjima iz stavka 4. ovoga članka.
+
+(8) Odluka iz stavka 7. ovoga članka dostavlja se:
+
+1. jedinici lokalne samouprave na čijem se području nalazi neaktivno eksploatacijsko polje mineralnih sirovina,
+
+2. jedinici područne (regionalne) samouprave na čijem se području nalazi neaktivno eksploatacijsko polje mineralnih sirovina,
+
+3. Državnom inspektoratu,
+
+4. ministarstvu nadležnom za prostorno uređenje,
+
+5. ministarstvu nadležnom za zaštitu prirode i okoliša,
+
+6. ministarstvu nadležnom za vodno gospodarstvo ako se radovi na tehničkoj sanaciji izvode u području zona sanitarne zaštite crpilišta voda za piće i/ili u području važnom za vodni režim,
+
+7. ministarstvu nadležnom za pomorstvo ako se radovi na tehničkoj sanaciji izvode na pomorskom dobru,
+
+8. tijelu nadležnom za unutarnju plovidbu ako se radovi na tehničkoj sanaciji izvode na dijelu unutarnjih voda, a koji utječu na plovni put,
+
+9. vlasnicima nekretnina na kojima se planira provesti tehnička sanacija unutar neaktivnih eksploatacijskih polja mineralnih sirovina,
+
+10. ostalim zainteresiranim tijelima u postupku provedbe tehničke sanacije.
+
+(9) Protiv odluke iz stavka 7. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.
+
+(10) Ako jedinice lokalne samouprave ne postupe prema odredbama iz stavaka 1. i 3. ovoga članka, ministarstvo nadležno za rudarstvo dužno je iz Registra eksploatacijskih polja mineralnih sirovina brisati neaktivna eksploatacijska polja mineralnih sirovina, a sva odgovornost i teret daljnjih radnji, kao i sva šteta koja bi mogla nastati bilo komu u svezi s tim prostorima na jedinici je lokalne samouprave.
+
+(11) U slučaju iz stavka 10. ovoga članka ministarstvo nadležno za rudarstvo donosi rješenje o brisanju eksploatacijskog polja iz Registra eksploatacijskih polja mineralnih sirovina.
+
+(12) Protiv rješenja iz stavka 11. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 17.
+
+Iza članka 104. dodaju se naslovi iznad članaka i članci 104.a do 104.d koji glase:
+
+*»Dokumentacija za nabavu dokumentacije za provedbu tehničke sanacije*
+
+#### Članak 104.a
+
+(1) Nakon izvršnosti odluke iz članka 104. stavka 7. ovoga Zakona jedinica lokalne samouprave dostavlja ministarstvu nadležnom za rudarstvo prijedlog dokumentacije za nabavu dokumentacije za provedbu tehničke sanacije, a koja obvezno sadrži procijenjenu vrijednost nabave.
+
+(2) Na temelju prijedloga dokumentacije iz stavka 1. ovoga članka ministarstvo nadležno za rudarstvo donosi odluku o prihvaćanju prijedloga dokumentacije za nabavu i izrađuje ugovor o financiranju opravdanih troškova nabave dokumentacije za provedbu tehničke sanacije.
+
+(3) Ministarstvo nadležno za rudarstvo i jedinica lokalne samouprave sklapaju ugovor o financiranju opravdanih troškova nabave dokumentacije za provedbu tehničke sanacije, na temelju kojeg jedinica lokalne samouprave provodi postupke javne nabave.
+
+(4) Nakon provedene javne nabave jedinica lokalne samouprave dostavlja ministarstvu nadležnom za rudarstvo: zapisnik o otvaranju ponuda, zapisnik o pregledu i ocjeni ponuda, odluku o odabiru najpovoljnijeg ponuditelja i ugovor s odabranim najpovoljnijim ponuditeljem.
+
+(5) Ako se radi o jednostavnoj nabavi, jedinica lokalne samouprave dostavlja ministarstvu nadležnom za rudarstvo zaprimljene ponude i ugovor s odabranim ponuditeljem.
+
+(6) Provjeru rudarskog projekta za tehničku sanaciju obavlja Stručno povjerenstvo za provjeru rudarskih projekata ministarstva nadležnog za rudarstvo sukladno odredbama članka 98. ovoga Zakona.
+
+(7) Nakon izvršenja usluga izrade dokumentacije za provedbu tehničke sanacije jedinica lokalne samouprave dostavlja ministarstvu nadležnom za rudarstvo dokaznice o izvršenju usluga.
+
+(8) Na temelju dostavljenih dokaznica o izvršenju usluga iz stavka 7. ovoga članka ministarstvo nadležno za rudarstvo isplaćuje jedinici lokalne samouprave opravdane troškove u skladu s ugovorom o financiranju opravdanih troškova nabave dokumentacije za provedbu tehničke sanacije.
+
+*Dokumentacija za nabavu radova provedbe tehničke sanacije*
+
+#### Članak 104.b
+
+(1) Nakon provjere rudarskog projekta za provedbu tehničke sanacije jedinica lokalne samouprave dostavlja ministarstvu nadležnom za rudarstvo prijedlog dokumentacije za nabavu radova provedbe tehničke sanacije, a koja obvezno sadrži procijenjenu vrijednost nabave.
+
+(2) Na temelju prijedloga dokumentacije iz stavka 1. ovoga članka ministarstvo nadležno za rudarstvo donosi odluku o prihvaćanju dokumentacije za nabavu i izrađuje ugovor o financiranju opravdanih troškova provedbe tehničke sanacije.
+
+(3) Ministarstvo nadležno za rudarstvo i jedinica lokalne samouprave sklapaju ugovor o financiranju opravdanih troškova provedbe tehničke sanacije, na temelju kojeg jedinica lokalne samouprave provodi postupke javne nabave.
+
+(4) Nakon provedene javne nabave jedinica lokalne samouprave dostavlja ministarstvu nadležnom za rudarstvo: zapisnik o otvaranju ponuda, zapisnik o pregledu i ocjeni ponuda, odluku o odabiru najpovoljnijeg ponuditelja i ugovor s odabranim najpovoljnijim ponuditeljem.
+
+(5) Ako se radi o jednostavnoj nabavi, jedinica lokalne samouprave dostavlja ministarstvu nadležnom za rudarstvo zaprimljene ponude i ugovor s odabranim ponuditeljem.
+
+*Rješenje o izvođenju radova na tehničkoj sanaciji*
+
+#### Članak 104.c
+
+(1) Nakon provedene javne nabave iz članka 104.b stavka 3. ovoga Zakona ministarstvo nadležno za rudarstvo po službenoj dužnosti donosi rješenje kojim odobrava izvođenje radova na tehničkoj sanaciji.
+
+(2) Rješenje iz stavka 1. ovoga članka obvezno sadrži:
+
+1. naziv ovlaštenika provedbe tehničke sanacije,
+
+2. naziv izvođača radova tehničke sanacije,
+
+3. naziv, lokaciju, granice i veličinu neaktivnog eksploatacijskog polja mineralnih sirovina na kojem se provodi tehnička sanacija,
+
+4. uvjete i ograničenja za provedbu tehničke sanacije sukladno odredbama članka 104. stavka 4. ovoga Zakona,
+
+5. naziv provjerenog rudarskog projekta na temelju kojega će se izvoditi radovi na tehničkoj sanaciji,
+
+6. ukupne troškove tehničke sanacije,
+
+7. identifikaciju nekretnina na kojima je potrebno provesti tehničku sanaciju prema podacima iz zemljišne knjige, a ako ti podaci nisu identični podacima iz katastra, sadržavat će i podatke o nekretninama iz katastra,
+
+8. rok na koji se odobrava provedba radova na tehničkoj sanaciji,
+
+9. naziv tijela državne uprave, jedinice lokalne i područne (regionalne) samouprave, pravne osobe s javnim ovlastima i ostalih stranaka kojima se mora prijaviti početak radova na tehničkoj sanaciji,
+
+10. rok do kojega izvođač radova tehničke sanacije mora dostaviti imenovanje odgovornog voditelja izvođenja rudarskih radova tehničke sanacije,
+
+11. rok do kojega se mora započeti s izvođenjem radova na tehničkoj sanaciji.
+
+(3) Rješenje iz stavka 1. ovoga članka dostavlja se:
+
+1. jedinici lokalne samouprave na čijem se području nalazi neaktivno eksploatacijsko polje mineralnih sirovina,
+
+2. jedinici područne (regionalne) samouprave na čijem se području nalazi neaktivno eksploatacijsko polje mineralnih sirovina,
+
+3. Državnom inspektoratu,
+
+4. ministarstvu nadležnom za prostorno uređenje,
+
+5. ministarstvu nadležnom za zaštitu prirode i okoliša,
+
+6. ministarstvu nadležnom za vodno gospodarstvo ako se tehnička sanacija izvodi u području zona sanitarne zaštite crpilišta voda za piće i/ili u području važnom za vodni režim,
+
+7. ministarstvu nadležnom za pomorstvo ako se tehnička sanacija izvodi na pomorskom dobru,
+
+8. tijelu nadležnom za unutarnju plovidbu ako se tehnička sanacija izvodi na dijelu unutarnjih voda, a koji utječu na plovni put,
+
+9. vlasnicima nekretnina na kojima se provodi tehnička sanacija unutar neaktivnih eksploatacijskih polja mineralnih sirovina,
+
+10. ostalim zainteresiranim tijelima u postupku provedbe tehničke sanacije.
+
+(4) Protiv rješenja iz stavka 1. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.
+
+*Nadzor nad provedbom tehničke sanacije*
+
+#### Članak 104.d
+
+(1) Inspekcijski nadzor nad provedbom tehničke sanacije neaktivnih eksploatacijskih polja mineralnih sirovina provodi Državni inspektorat.
+
+(2) Državni inspektorat dostavlja dokaznice nakon provedbe tehničke sanacije ili pojedine etape tehničke sanacije sukladno provjerenom rudarskom projektu ministarstvu nadležnom za rudarstvo, na zahtjev jedinice lokalne samouprave.
+
+(3) Ministarstvo nadležno za rudarstvo isplaćuje jedinici lokalne samouprave opravdane troškove tehničke sanacije u skladu s ugovorom o financiranju opravdanih troškova provedbe tehničke sanacije nakon primitka dokaznica iz stavka 2. ovoga članka.
+
+(4) Završetkom tehničke sanacije smatra se akt Državnog inspektorata kojim se potvrđuje da je tehnička sanacija neaktivnog eksploatacijskog polja mineralnih sirovina u cijelosti provedena sukladno provjerenom rudarskom projektu tehničke sanacije.
+
+(5) U slučaju iz stavka 4. ovoga članka ministarstvo nadležno za rudarstvo donosi rješenje o brisanju eksploatacijskog polja iz Registra eksploatacijskih polja mineralnih sirovina.
+
+(6) Protiv rješenja iz stavka 5. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 18.
+
+Naziv glave iznad članka 157. mijenja se i glasi:
+
+»INSPEKCIJSKI NADZOR«.
+
+Članak 157. mijenja se i glasi:
+
+»Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju ovoga Zakona provodi rudarska inspekcija Državnog inspektorata te druge inspekcije sukladno posebnim propisima.«.
+
+#### Članak 19.
+
+Članak 160. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 13.270,00 do 66.360,00 eura kaznit će se za prekršaj fizička osoba:
+
+1. ako zakonski nasljednik ili pravni sljednik ne zatraži promjenu osobe ovlaštenika i/ili koncesionara u skladu s odredbama članka 21. stavka 3. ovoga Zakona,
+
+2. ako obavlja rudarske radove na istraživanju mineralnih sirovina bez rješenja o odobrenju za istraživanje mineralnih sirovina iz članka 37. stavka 2. ovoga Zakona, odnosno protivno rješenju o odobrenju za istraživanje mineralnih sirovina iz članka 40. stavka 4. ovoga Zakona,
+
+3. ako obavlja dodatne istražne radove na eksploatacijskom polju bez rješenja o odobrenju za dodatne istražne radove na eksploatacijskom polju iz članka 49. stavka 1. ovoga Zakona, odnosno protivno rješenju o odobrenju za dodatne istražne radove na eksploatacijskom polju iz članka 49. stavka 2. ovoga Zakona,
+
+4. ako obavlja rudarske radove eksploatacije mineralnih sirovina bez ugovora o koncesiji iz članka 78. ovoga Zakona, odnosno protivno ugovoru o koncesiji i provjerenoj rudarskoj dokumentaciji iz članaka 75. i 76. ovoga Zakona,
+
+5. ako ne prijavi početak i završetak izvođenja rudarskih radova u istražnom prostoru mineralnih sirovina u skladu s rješenjem o odobrenju za istraživanje mineralnih sirovina iz članka 40. ovoga Zakona i u skladu s odredbama članka 43. ovoga Zakona,
+
+6. ako u roku određenom ovim Zakonom ne dostavi dokaz o obračunatim i uplaćenim iznosima naknade za koncesiju u skladu s odredbama članka 77. stavka 7. ovoga Zakona,
+
+7. ako su probnom eksploatacijom mineralnih sirovina otkopane ili pridobivene veće količine mineralnih sirovina od onih koje su određene rješenjem o odobrenju za istraživanje mineralnih sirovina iz članka 40. ovoga Zakona ili rješenjem o odobrenju za dodatne istražne radove na eksploatacijskom polju iz članka 49. ovoga Zakona,
+
+8. ako s mineralnom sirovinom otkopanom ili pridobivenom tijekom probne eksploatacije mineralnih sirovina postupi protivno odredbama članka 68. stavka 3. i stavka 5. ovoga Zakona,
+
+9. ako ne prijavi početak i završetak dodatnih istražnih radova na već utvrđenim eksploatacijskim poljima mineralnih sirovina u skladu s rješenjem za dodatno istraživanje mineralnih sirovina na već utvrđenom eksploatacijskom polju iz članka 49. ovoga Zakona i u skladu s odredbama članka 43. ovoga Zakona,
+
+10. ako tijekom izvođenja rudarskih radova te nakon završetka ili trajnog obustavljanja izvođenja rudarskih radova ne provede sve potrebne mjere osiguranja i/ili ne provede sanaciju terena na kojem su izvođeni rudarski radovi u skladu s odredbama članka 69. stavka 2. i odredbama članka 87. stavka 1. ovoga Zakona,
+
+11. ako ne prijavi početak izvođenja rudarskih radova na eksploatacijskom polju mineralnih sirovina u skladu s odredbama članka 83. ovoga Zakona,
+
+12. ako prilikom građenja građevina koje se grade sukladno propisima o gradnji višak iskopa koji predstavlja mineralnu sirovinu ne stavi na raspolaganje Republici Hrvatskoj i/ili mineralne sirovine koje se ne mogu ugraditi u obuhvat građevine ne iskaže u izvedbenom projektu u skladu s odredbama članka 144. stavka 1. ovoga Zakona,
+
+13. ako gradi rudarske objekte i postrojenja bez građevinske dozvole iz članka 105. ovoga Zakona,
+
+14. ako se rudarski objekti i postrojenja koriste bez uporabne dozvole iz članka 125. ovoga Zakona,
+
+15. ako se ministarstvu nadležnom za rudarstvo ne dostave podaci sukladno odredbama članka 51. stavka 3. ovoga Zakona,
+
+16. ako se ministarstvu nadležnom za rudarstvo ne dostave podaci sukladno odredbi članka 167. stavka 9. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 13.270,00 do 132.720,00 eura kaznit će se za prekršaj pravna osoba:
+
+1. ako zakonski nasljednik ili pravni sljednik ne zatraži promjenu osobe ovlaštenika i/ili koncesionara u skladu s odredbama članka 21. stavka 3. ovoga Zakona,
+
+2. ako obavlja rudarske radove na istraživanju mineralnih sirovina protivno odredbama članka 37. stavka 2. ovoga Zakona, odnosno protivno rješenju o odobrenju za istraživanje mineralnih sirovina iz članka 40. stavka 4. ovoga Zakona,
+
+3. ako obavlja dodatne istražne radove na eksploatacijskom polju mineralnih sirovina protivno odredbama članka 49. stavka 1. ovoga Zakona, odnosno protivno rješenju o odobrenju za dodatne istražne radove na eksploatacijskom polju iz članka 49. stavka 2. ovoga Zakona,
+
+4. ako obavlja rudarske radove eksploatacije mineralnih sirovina protivno odredbama članka 78. ovoga Zakona, odnosno protivno ugovoru o koncesiji i provjerenoj rudarskoj dokumentaciji iz članaka 75. i 76. ovoga Zakona,
+
+5. ako ne prijavi početak i završetak izvođenja rudarskih radova u istražnom prostoru mineralnih sirovina u skladu s rješenjem o odobrenju za istraživanje mineralnih sirovina iz članka 40. ovoga Zakona i u skladu s odredbama članka 43. ovoga Zakona,
+
+6. ako u roku određenom ovim Zakonom ne dostavi dokaz o obračunatim i uplaćenim iznosima naknade za koncesiju u skladu s odredbama članka 77. stavka 7. ovoga Zakona,
+
+7. ako su probnom eksploatacijom mineralnih sirovina otkopane ili pridobivene veće količine mineralnih sirovina od onih koje su određene rješenjem o odobrenju za istraživanje mineralnih sirovina iz članka 40. ovoga Zakona ili rješenjem o odobrenju za dodatne istražne radove na eksploatacijskom polju iz članka 49. ovoga Zakona,
+
+8. ako tijekom probne eksploatacije mineralnih sirovina postupi protivno odredbama članka 68. stavka 3. i stavka 5. ovoga Zakona,
+
+9. ako ne prijavi početak i završetak dodatnih istražnih radova na već utvrđenim eksploatacijskim poljima mineralnih sirovina u skladu s rješenjem za dodatno istraživanje mineralnih sirovina na već utvrđenom eksploatacijskom polju iz članka 49. ovoga Zakona i u skladu s odredbama članka 43. ovoga Zakona,
+
+10. ako tijekom izvođenja rudarskih radova te nakon završetka ili trajnog obustavljanja izvođenja rudarskih radova ne provede sve potrebne mjere osiguranja i/ili ne provede sanaciju terena na kojem su izvođeni rudarski radovi u skladu s odredbama članka 69. stavka 2. i odredbama članka 87. stavka 1. ovoga Zakona,
+
+11. ako ne prijavi početak izvođenja rudarskih radova na eksploatacijskom polju mineralnih sirovina u skladu s odredbama članka 83. ovoga Zakona,
+
+12. ako prilikom građenja građevina koje se grade sukladno propisima o gradnji višak iskopa koji predstavlja mineralnu sirovinu ne stavi na raspolaganje Republici Hrvatskoj i/ili mineralne sirovine koje se ne mogu ugraditi u obuhvat građevine ne iskaže u izvedbenom projektu u skladu s odredbama članka 144. stavka 1. ovoga Zakona,
+
+13. ako gradi rudarske objekte i postrojenja bez građevinske dozvole iz članka 105. ovoga Zakona,
+
+14. ako se rudarski objekti i postrojenja koriste bez uporabne dozvole iz članka 125. ovoga Zakona,
+
+15. ako se ministarstvu nadležnom za rudarstvo ne dostave podaci sukladno odredbama članka 51. stavka 3. ovoga Zakona,
+
+16. ako se ministarstvu nadležnom za rudarstvo ne dostave podaci sukladno odredbi članka 167. stavka 9. ovoga Zakona.
+
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 1320,00 do 6630,00 eura.«.
+
+#### Članak 20.
+
+Članak 161. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 6630,00 do 33.180,00 eura kaznit će se za prekršaj fizička osoba:
+
+1. ako tijekom izvođenja rudarskih radova tijelu nadležnom za rudarstvo ne podnese svakih šest mjeseci izvješće o obavljenim rudarskim radovima u istražnom prostoru mineralnih sirovina u skladu s odredbama članka 42. stavka 1. ovoga Zakona,
+
+2. ako ne dostavi Povjerenstvu za utvrđivanje rezervi mineralnih sirovina dokumentaciju o rezervama mineralnih sirovina u skladu s odredbama članka 52. stavka 1. ili stavka 2. ovoga Zakona,
+
+3. ako u propisanom roku ministarstvu nadležnom za rudarstvo ne dostavi podatke određene odredbama članka 57. ovoga Zakona,
+
+4. ako nakon potpune i trajne obustave izvođenja rudarskih radova na eksploatacijskom polju sve planove i skice, mjeračke knjige i ostalu dokumentaciju o stanju radova u trenutku potpune i trajne obustave radova ne preda na čuvanje ministarstvu nadležnom za rudarstvo, u skladu s odredbama članka 86. stavka 1. ovoga Zakona,
+
+5. ako na osnovi mjerenja ne izradi ili ne dopunjava planove, odnosno karte iz kojih se može utvrditi stanje rudarskih radova i rudarskih objekata i njihov međusobni položaj te položaj rudarskih radova i rudarskih objekata u odnosu na stare rudarske radove i objekte, kao i u odnosu na druge objekte na površini u skladu s odredbama članka 140. ovoga Zakona,
+
+6. ako ne posjeduje obvezne isprave u skladu s odredbama članka 141. ovoga Zakona,
+
+7. ako putem ovlaštene osobe odgovarajuće struke jednom godišnje ne izradi situacijsku kartu istražnog prostora / eksploatacijskog polja mineralnih sirovina sa stanjem rudarskih radova na dan 31. prosinca u skladu s odredbama članka 142. ovoga Zakona,
+
+8. ako izvodi rudarske radove na eksploatacijskom polju mineralnih sirovina prema pojednostavljenom rudarskom projektu bez potvrde iz članka 96. stavka 4. ovoga Zakona,
+
+9. ako ne izvodi rudarske radove u skladu s rješenjem iz članka 104.c stavka 1. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 6630,00 do 66.360,00 eura kaznit će se za prekršaj pravna osoba:
+
+1. ako tijekom izvođenja rudarskih radova tijelu nadležnom za rudarstvo ne podnese svakih šest mjeseci izvješće o obavljenim rudarskim radovima u istražnom prostoru mineralnih sirovina u skladu s odredbama članka 42. stavka 1. ovoga Zakona,
+
+2. ako ne dostavi Povjerenstvu za utvrđivanje rezervi mineralnih sirovina dokumentaciju o rezervama mineralnih sirovina u skladu s odredbama članka 52. stavka 1. ili stavka 2. ovoga Zakona,
+
+3. ako u propisanom roku ministarstvu nadležnom za rudarstvo ne dostavi podatke određene odredbama članka 57. ovoga Zakona,
+
+4. ako nakon potpune i trajne obustave izvođenja rudarskih radova na eksploatacijskom polju mineralnih sirovina sve planove i skice, mjeračke knjige i ostalu dokumentaciju o stanju radova u trenutku potpune i trajne obustave radova ne preda na čuvanje ministarstvu nadležnom za rudarstvo, u skladu s odredbama članka 86. stavka 1. ovoga Zakona,
+
+5. ako na osnovi mjerenja ne izradi ili ne dopunjava planove, odnosno karte iz kojih se može utvrditi stanje rudarskih radova i rudarskih objekata i njihov međusobni položaj te položaj rudarskih radova i rudarskih objekata u odnosu na stare rudarske radove i objekte, kao i u odnosu na druge objekte na površini u skladu s odredbama članka 140. ovoga Zakona,
+
+6. ako ne posjeduje obvezne isprave u skladu s odredbama članka 141. ovoga Zakona,
+
+7. ako putem ovlaštene osobe odgovarajuće struke jednom godišnje ne izradi situacijsku kartu istražnog prostora / eksploatacijskog polja mineralnih sirovina sa stanjem rudarskih radova na dan 31. prosinca u skladu s odredbama članka 142. ovoga Zakona,
+
+8. ako izvodi rudarske radove na eksploatacijskom polju mineralnih sirovina po pojednostavljenom rudarskom projektu bez potvrde iz članka 96. stavka 4. ovoga Zakona,
+
+9. ako ne izvodi rudarske radove u skladu s rješenjem iz članka 104.c stavka 1. ovoga Zakona.
+
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 660,00 do 3310,00 eura.«.
+
+#### Članak 21.
+
+Članak 162. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 3310,00 do 19.900,00 eura kaznit će se za prekršaj fizička osoba:
+
+1. ako ne imenuje odgovornog voditelja izvođenja rudarskih radova u istražnom prostoru mineralnih sirovina, u skladu s odredbama članka 40. stavka 2. i odredbama članka 42. stavka 2. ovoga Zakona,
+
+2. ako ne imenuje odgovornog voditelja izvođenja rudarskih radova na eksploatacijskom polju, u skladu s odredbama članka 82. i članka 104.c ovoga Zakona,
+
+3. ako u skladu s odredbama članka 84. ovoga Zakona ne izvijesti u roku od 24 sata nakon obustave rudarskih radova da se izvođenje rudarskih radova mora privremeno prekinuti zbog nepredviđenih okolnosti, ili ako o prekidu radova ne izvijesti u roku od 15 dana prije privremene obustave izvođenja rudarskih radova koja je unaprijed planirana, ili ako u skladu s odredbama članka 85. ovoga Zakona najmanje 15 dana prije potpune i trajne obustave izvođenja rudarskih radova na eksploatacijskom polju o tome ne izvijesti Državni inspektorat, tijelo nadležno za rudarstvo i ministarstvo nadležno za pomorstvo ako se rudarski radovi izvode na plovnom putu,
+
+4. ako u propisanom roku ne prijavi početak građenja rudarskih objekata i postrojenja ili nastavak izvođenja radova nakon prekida u skladu s odredbama članka 122. stavka 1. ovoga Zakona,
+
+5. ako u propisanom roku ne prijavi početak uporabe rudarskih objekata i postrojenja u skladu s odredbama članka 138. ovoga Zakona,
+
+6. ako protivno odredbi članka 147. stavka 1. ovoga Zakona poslove i zadatke stručnog rukovođenja pri izvođenju rudarskih radova, obavljanja nadzora, samostalnog obavljanja rudarskih mjerenja, samostalnog rukovanja eksplozivnim sredstvima te druge poslove pri izvođenju rudarskih radova povjeri radnicima koji, što se tiče stupnja i vrste stručne spreme, položenog stručnog ispita i radnog iskustva, ne ispunjavaju uvjete propisane pravilnikom iz članka 149. ovoga Zakona,
+
+7. ako ne vodi knjigu rudarskog nadzora, u skladu s odredbama članka 151. stavka 2. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 3310,00 do 33.180,00 eura kaznit će se za prekršaj pravna osoba:
+
+1. ako ne imenuje odgovornog voditelja izvođenja rudarskih radova u istražnom prostoru mineralnih sirovina, u skladu s odredbama članka 40. stavka 2. i odredbama članka 42. stavka 2. ovoga Zakona,
+
+2. ako ne imenuje odgovornog voditelja izvođenja rudarskih radova na eksploatacijskom polju, u skladu s odredbama članka 82. ovoga Zakona,
+
+3. ako u skladu s odredbama članka 84. ovoga Zakona ne izvijesti u roku od 24 sata nakon obustave rudarskih radova da se izvođenje rudarskih radova mora privremeno prekinuti zbog nepredviđenih okolnosti, ili ako o prekidu radova ne izvijesti u roku od 15 dana prije privremene obustave izvođenja rudarskih radova koja je unaprijed planirana, ili ako u skladu s odredbama članka 85. ovoga Zakona najmanje 15 dana prije potpune i trajne obustave izvođenja rudarskih radova na eksploatacijskom polju o tome ne izvijesti Državni inspektorat, tijelo nadležno za rudarstvo i ministarstvo nadležno za pomorstvo ako se rudarski radovi izvode na plovnom putu,
+
+4. ako u propisanom roku ne prijavi početak građenja rudarskih objekata i postrojenja ili nastavak izvođenja radova nakon prekida u skladu s odredbama članka 122. stavka 1. ovoga Zakona,
+
+5. ako u propisanom roku ne prijavi početak uporabe rudarskih objekata i postrojenja u skladu s odredbama članka 138. ovoga Zakona,
+
+6. ako protivno odredbi članka 147. stavka 1. ovoga Zakona poslove i zadatke stručnog rukovođenja pri izvođenju rudarskih radova, obavljanja nadzora, samostalnog obavljanja rudarskih mjerenja, samostalnog rukovanja eksplozivnim sredstvima te druge poslove pri izvođenju rudarskih radova povjeri radnicima koji, što se tiče stupnja i vrste stručne spreme, položenog stručnog ispita i radnog iskustva, ne ispunjavaju uvjete propisane pravilnikom iz članka 149. ovoga Zakona,
+
+7. ako ne vodi knjigu rudarskog nadzora, u skladu s odredbama članka 151. stavka 2. ovoga Zakona.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 330,00 do 1990,00 eura.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 22.
+
+(1) Vlada Republike Hrvatske će u roku od tri godine od dana stupanja na snagu ovoga Zakona donijeti srednjoročni akt strateškog planiranja iz članka 1. ovoga Zakona.
+
+(2) Vlada Republike Hrvatske uskladit će Uredbu o naknadi za koncesiju za eksploataciju mineralnih sirovina (»Narodne novine«, br. 31/14. i 57/20.) u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(3) Vlada Republike Hrvatske uskladit će Uredbu o naknadi štete po osnovi otuđenja mineralne sirovine (»Narodne novine«, br. 6/22.) u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(4) Ministar nadležan za rudarstvo uskladit će Pravilnik o rudarskim projektima (»Narodne novine«, br. 43/20. i 48/20.), Pravilnik o jedinstvenom informacijskom sustavu mineralnih sirovina (»Narodne novine«, br. 128/22.), Pravilnik o polaganju stručnog ispita iz rudarstva (»Narodne novine«, br. 128/22.) i Pravilnik o istraživanju i eksploataciji mineralnih sirovina (»Narodne novine«, br. 138/22.) s odredbama ovoga Zakona u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(5) Ministarstvo nadležno za rudarstvo dužno je u roku od 30 dana od dana stupanja na snagu ovoga Zakona na svojim mrežnim stranicama objaviti popis neaktivnih eksploatacijskih polja mineralnih sirovina te o tome obavijestiti jedinice lokalne samouprave i jedinice područne (regionalne) samouprave na čijem se području nalaze neaktivna eksploatacijska polja mineralnih sirovina.
+
+(6) Predstavničko tijelo jedinice lokalne samouprave dužno je u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti odluku o sanaciji neaktivnih eksploatacijskih polja mineralnih sirovina bez eksploatacije mineralnih sirovina ili uz eksploataciju mineralnih sirovina iz članka 102. stavka 4. koji je izmijenjen člankom 14. ovoga Zakona.
+
+(7) U slučaju iz članka 102. stavka 5. koji je izmijenjen člankom 14. ovoga Zakona jedinice lokalne samouprave i jedinice područne (regionalne) samouprave dužne su u roku od tri godine od dana stupanja na snagu ovoga Zakona planirati u svojim prostornim planovima neaktivna eksploatacijska polja mineralnih sirovina.
+
+(8) Jedinice lokalne samouprave na čijem se području nalazi neaktivno eksploatacijsko polje dužne su u roku od 12 mjeseci od dana donošenja odluke o sanaciji neaktivnih eksploatacijskih polja mineralnih sirovina bez eksploatacije mineralnih sirovina podnijeti zahtjev iz članka 104. stavka 1. koji je izmijenjen člankom 16. ovoga Zakona.
+
+#### Članak 23.
+
+(1) Upravni postupci koji su započeli prije stupanja na snagu ovoga Zakona te sudski ili drugi postupci koji se vode povodom njih dovršit će se prema odredbama Zakona o rudarstvu (»Narodne novine«, br. 56/13., 14/14., 52/18., 115/18. i 98/19.).
+
+(2) Prekršajni postupci pokrenuti do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o rudarstvu (»Narodne novine«, br. 56/13., 14/14., 52/18., 115/18. i 98/19.).
+
+#### Članak 24.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/22-01/158  
+Zagreb, 14. srpnja 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

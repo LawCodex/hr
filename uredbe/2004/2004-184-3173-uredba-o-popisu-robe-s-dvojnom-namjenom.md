@@ -1187,11 +1187,13 @@ POZOR: VIDI TAKOĐER 1C107
 
 *Napomena 2: U 0C004, ۥbor-ekvivalentۥ (BE) je definiran kao zbroj BEz za nečistoće (isključujući BEugljik budući da se ugljik ne smatra nečistoćom) uključujući bor, gdje je:*
 
-*BEz (ppm) = CF ¤ koncentracija elementa Z u ppm;*
+BEz (ppm) = CF ¤ koncentracija elementa Z u ppm;
 
-*σ<sub>z</sub>A<sub>B</sub> gdje je CF faktor konverzije = ––––––––*
+σ<sub>z</sub>A<sub>B</sub>  
+gdje je CF faktor konverzije = ––––––––
 
-*σ<sub>B</sub>A<sub>Z</sub> a σ<sub>B</sub> i σ<sub>Z</sub> su termalni udarni presjeci neutronskog uhvata (u barnima) za bor kakav se prirodno pojavljuje, odnosno element Z; i A<sub>B</sub> i A<sub>Z</sub> su atomske mase bora kakav se prirodno pojavljuje, odnosno elementa Z.*
+σ<sub>B</sub>A<sub>Z</sub>  
+a σ<sub>B</sub> i σ<sub>Z</sub> su termalni udarni presjeci neutronskog uhvata (u barnima) za bor kakav se prirodno pojavljuje, odnosno element Z; i A<sub>B</sub> i A<sub>Z</sub> su atomske mase bora kakav se prirodno pojavljuje, odnosno elementa Z.
 
 0C005 Posebno pripremljeni spojevi ili prašci za proizvodnju barijera za plinsku difuziju, otporni na koroziju UF<sub>6</sub> (npr. nikal ili slitina koja sadrži 60 težinskih postotaka ili više nikla, aluminijskog oksida i u potpunosti fluoriranih ugljikovodičnih polimera), čistoće 99,9 težinskih postotaka ili više, sa srednjom veličinom čestice od manje od 10 mikrometra izmjerenih prema standardu Američkog društva za ispitivanje materijala (ASTM) B330 i s visokim stupnjem ujednačenosti veličine čestica.
 
@@ -4674,9 +4676,9 @@ K = 1,7 × 10<sup>3</sup>V<sup>2,</sup> <sup>65</sup>Q
 
 *Ako je trajanje impulsa snopa akceleratora manje od ili jednako 1 µs, tad je Q ukupni ubrzani naboj u kulonima. Ako je trajanje impulsa snopa akceleratora veće od 1 µs, tad je Q najveći ubrzani naboj u 1 µs.*
 
-*Q je jednak integralu od i u odnosu na t, kroz manje od 1 µs ili vrijeme trajanja impulsa snopa (Q = ŠintĆ itd.), gdje je i struja snopa u amperima a t je vrijeme u sekundama.*
+Q je jednak integralu od i u odnosu na t, kroz manje od 1 µs ili vrijeme trajanja impulsa snopa (Q = ŠintĆ itd.), gdje je i struja snopa u amperima a t je vrijeme u sekundama.
 
-*2. ۥVršna snagaۥ = (vršni potencijal u voltima) × (vršna struja snopa u amperima).*
+2. ۥVršna snagaۥ = (vršni potencijal u voltima) × (vršna struja snopa u amperima).
 
 *3. Kod strojeva koji se temelje na šupljinama s ubrzanim mikrovalovima, vrijeme trajanja impulsa snopa je manje od 1 µs ili trajanja paketa usnopljenih zraka koji proizlazi iz jednog impulsa mikrovalnog modulatora.*
 
@@ -4894,9 +4896,9 @@ MRF = ––––––––––––––––––––––––�
 
 *numerički otvor*
 
-*gdje je K faktor = 0,7*
+gdje je K faktor = 0,7
 
-*MRF = veličina najmanje rastavljive značajke (minimum resolvable feature size)*
+MRF = veličina najmanje rastavljive značajke (minimum resolvable feature size)
 
 2. Oprema posebno projektirana za izradu maski ili obradu poluvodičkih uređaja pomoću odstupanja fokusiranog elektronskog snopa, ionskog ili »laserskog« snopa, koja ima bilo koje od navedenog:
 
@@ -5253,7 +5255,7 @@ ss=T-98napomena style='margin-bottom:0cm;margin-bottom:.0001pt'>Napomena W: Za p
 
 *vrijeme ciklusa*
 
-*t = –––––––––––––––––––––––––––––––––––––––––*
+t = –––––––––––––––––––––––––––––––––––––––––
 
 *broj identičnih operacija po strojnom ciklusu*
 
@@ -5261,7 +5263,7 @@ ss=T-98napomena style='margin-bottom:0cm;margin-bottom:.0001pt'>Napomena W: Za p
 
 *Napomena Y: Za »CE« koji ne primjenjuje FP zbrajanja ili FP množenja, ali obavlja FP dijeljenja:*
 
-*1*
+1
 
 R fp = –––––––––––
 
@@ -5269,7 +5271,7 @@ R fp = –––––––––––
 
 *Ako »CE« primjenjuje FP recipročan ali ne i FP zbrajanja, FP množenja ili FP dijeljenja, tada*
 
-*1*
+1
 
 R fp = –––––––––––
 
@@ -5295,9 +5297,9 @@ R fp = –––––––––––
 
 Prilagodite efektivnu stopu R (ili Rž) s prilagodbom duljine riječi L kako slijedi:
 
-#### TP = R ¤ L
+TP = R ¤ L
 
-*gdje L = (1/3 + WL/96)*
+gdje L = (1/3 + WL/96)
 
 Napomena: Duljina riječi WL korištena u ovim izračunima je duljina operanda izražena u bitima. (Ako neka operacija koristi operande različitih duljina, treba odabrati najveću duljinu riječi.)
 
@@ -5321,7 +5323,7 @@ Korak 3: »CTP« za skupove »CE-a«, uključujući CPU-e
 
 Za CPU s jednim »CE«,
 
-#### »CTP« = TP
+»CTP« = TP
 
 (za »CE-e« koji obavljaju operacije i nepomični zarez i pomični zarez
 
@@ -5343,19 +5345,19 @@ POZOR: Za određivanje mogućih kombinacija »CE-a« koji rade istovremeno, napr
 
 *Ovo sakupljanje ne odnosi se na »elektroničke sklopove« opisane u 4A003.c.*
 
-#### »CTP« = TP1 + C2 × TP2 + ... + Cn × TPn,
+»CTP« = TP1 + C2 × TP2 + ... + Cn × TPn,
 
 *gdje su Tpi poredani po vrijednostima, pri čemu je TP1 najviši, TP2 drugi po vrijednosti, ..., a TPn najniži. Ci je koeficijent određen prema jačini međuveze između »CE-a«, kako slijedi:*
 
 Za višestruke »CE-e« koji rade simultano i imaju zajedničku memoriju:
 
-#### C2 = C3 = C4 = ... = Cn = 0,75
+C2 = C3 = C4 = ... = Cn = 0,75
 
 *Napomena 1: Kada »CTP« izračunat prema gore navedenoj metodi ne prelazi 194 Mtops, sljedeća formula može se koristiti za izračunavanje Ci:*
 
-*![](https://narodne-novine.nn.hr/dodatni/350126.gif) (i= 2,...,n)*
+![](https://narodne-novine.nn.hr/dodatni/350126.gif) (i= 2,...,n)
 
-*pri čemu: m = broj »CE-a« ili skupina »CE-a« sa zajed­ničkim pristupom.*
+pri čemu: m = broj »CE-a« ili skupina »CE-a« sa zajed­ničkim pristupom.
 
 *Pod uvjetom da:*
 
@@ -5393,11 +5395,11 @@ Prilikom izračunavanja Ci za skupinu »CE-a«, broj prvoga »CE« u skupini odr
 
 Sakupljanje (»CE-a« ili skupina »CE-a«) trebalo bi ići od naj­bržeg prema najsporijem; tj.:
 
-#### TP1 > = TP2 > = ... TPn, i
+TP1 > = TP2 > = ... TPn, i
 
 u slučaju TPi = TPi + 1, od najvećeg prema najmanjem; tj.:
 
-*Ci > = Ci + 1*
+Ci > = Ci + 1
 
 *Napomena: Faktor ki ne primjenjuje se na »CEs« 2 do 12 ako je TPi »CE-a« ili skupine »CE-a« veći od 50 Mtops; tj., Ci za »CE-a« 2 do 12 je 0,75.*
 
@@ -6009,7 +6011,7 @@ b. Posebno konstruirane komponente, kako slijedi:
 
 *3. Litij tantalat;*
 
-*tyle='font-size:12.0pt;mso-bidi-font-size:9.5pt'> 4. Polyvinylidene fluorid i inačice; ili*
+tyle='font-size:12.0pt;mso-bidi-font-size:9.5pt'> 4. Polyvinylidene fluorid i inačice; ili
 
 *5. Stroncij barij niobat i inačice.*
 
@@ -6245,7 +6247,7 @@ e. »Asferični optički elementi« koji imaju sve navedene osobine:
 
 *c. Konstruirani kao optički elementi Fresnel, »muhino oko«, prugasti, prizma ili lom svjetla;*
 
-*d. Izrađeni od borosilikatnog stakla s koeficijentom linearne termalne ekspanzije većom od 2,5 × 10-6 /K na 25°C; ili*
+d. Izrađeni od borosilikatnog stakla s koeficijentom linearne termalne ekspanzije većom od 2,5 × 10-6 /K na 25°C; ili
 
 *e. Da su rendgenski elementi s unutarnjim zrcalnim mogućnostima (npr. zrcala cjevastog tipa).*
 
@@ -7083,7 +7085,7 @@ c. Inercijska oprema za azimut, smjer, ili određivanje geografskog sjevera koja
 
 *b. PSD slabi s frekvencijom od 0,04 g2/Hz do 0,01 g2/Hz u frekvencijskom intervalu od 1000 do 2000 Hz;*
 
-*2. Brzina valjanja i krivudanja jednaka ili veća od + 2,62 radijan/s (150 deg/s); ili*
+2. Brzina valjanja i krivudanja jednaka ili veća od + 2,62 radijan/s (150 deg/s); ili
 
 *3. U skladu s nacionalnim standardima ekvivalentnim 1. ili 2. više.*
 
@@ -10231,307 +10233,250 @@ Napomena: Tabela i Tehnička napomena nalaze se nakon stavke 2E301.
 TABELA TEHNIKE TALOŽENJA
 
 <table>
-
 <tr>
 <td>1. Postupak premazivanja</td>
 <td>2. Podloga</td>
 <td>3. Rezultirajući premaz</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td rowspan="9">A. Taloženje kemijskim parama (CVD)<br> </td>
 <td>»Superslitine«</td>
 <td>Aluminidi za unutarnje prijelaze</td>
 </tr>
-
 <tr>
 <td>Keramika (19) i slabošireća stakla (14)</td>
 <td>Silicidi<br> Karbidi<br> Dielektrički slojevi (15)<br> Dijamant<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Vatrostalni metali<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Aluminidi<br> Slitine aluminida (2)<br> Nitrid bora</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16), karbid silicija (18)</td>
 <td>Karbidi<br> Volfram<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Dielektički slojevi (15)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Dijamant<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (15)<br> Dijamant<br> Dijamantni ugljik</td>
 </tr>
-
 <tr>
 <td rowspan="9">B. Termalna evaporacija – fizičko taloženje pare (TE-PVD)<br> B.1. Fizičko taloženje pare (PVD):Taloženje fizičkih para elektronskog snopa (EB-PVD)</td>
 <td><br> »Superslitine«</td>
 <td>Slitine silicida<br> Slitine aluminida (2)<br> MCrAlX (5)<br> Modificirani cirkonij (12)<br> Silicidi<br> Aluminidi<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Keramike (19) i slabošireća stakla (14)</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Čelik otporan na koroziju (7)</td>
 <td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Vatrostalni metali<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Nitrid bora</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16), karbid silicija (18)</td>
 <td>Karbidi<br> Volfram<br> Njihove smjese (4)<br> Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Dielektrički slojevi (15)<br> Boridi<br> Berilij</td>
 </tr>
-
 <tr>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (9)</td>
 </tr>
-
 <tr>
 <td>Slitine titana (13)</td>
 <td>Boridi<br> Nitridi</td>
 </tr>
-
 <tr>
 <td rowspan="5">B.2. Fizičko taloženje pare rezistivnim zagrijavanjem pomoću iona (PVD) (ionsko oblaganje)<br> </td>
 <td>Keramika (19) i slabošireća stakla (14)</td>
 <td>Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16), karbid silicija (18)<br> Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)<br> Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td rowspan="6">B.3. Fizičko taloženje pare (PVD): Isparavanje »laserom«</td>
 <td>Keramika (19) i slabošireća stakla (14)</td>
 <td>Silicidi<br> Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16), karbid silicija (18)</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td rowspan="2">B.4. Fizičko taloženje pare (PVD): Taloženje katodnim lukom</td>
 <td>»Superslitine«</td>
 <td>Slitine silicida<br> Slitine aluminida (2)<br> MCrAlX (5)</td>
 </tr>
-
 <tr>
 <td>Polimeri (11) i organska »matrica« »kompozita«</td>
 <td>Boridi<br> Karbidi<br> Nitridi<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td rowspan="3">C. Cementiranje uranjanjem u smjesu (vidi A naprijed za cementiranje iznad smjese) (10)</td>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Slitine titana (13)</td>
 <td>Silicidi<br> Aluminidi<br> Slitine aluminida (2)</td>
 </tr>
-
 <tr>
 <td>Vatrostalni metali i slitine (8)</td>
 <td>Silicidi<br> Oksidi</td>
 </tr>
-
 <tr>
 <td rowspan="5">D. Raspršivanje plazme</td>
 <td>»Superslitine«</td>
 <td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Njihove smjese (4)<br> Abrazivni nikl-grafit<br> Abrazivni materijali koji sadrže Ni-Cr-Al<br> Abrazivni Al-Si-poliester<br> Slitine aluminida (2)</td>
 </tr>
-
 <tr>
 <td>Slitine aluminija (6)</td>
 <td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Silicidi<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Vatrostalni metali i slitine (8)</td>
 <td>Aluminidi<br> Silicidi<br> Karbidi</td>
 </tr>
-
 <tr>
 <td>Čelik otporan na koroziju (7)</td>
 <td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Slitine titana (13)</td>
 <td>Karbidi<br> Aluminidi<br> Silicidi<br> Slitine aluminida (2)<br> Abrazivni nikl-grafit<br> Abrazivni materijali koji sadrže Ni-Cr-Al<br> Abrazivni Al-Si-poliester</td>
 </tr>
-
 <tr>
 <td rowspan="2">E. Taloženje kapljive kaše</td>
 <td>Vatrostalni metali i slitine (8)</td>
 <td>Taljeni silicidi<br> Taljeni aluminidi osim elemenaelemenarnih na zagrijavanje</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>F. Taloženje raspršenih čestica</td>
 <td>»Superslitine«</td>
 <td>Slitine silicida<br> Slitine aluminida (2)<br> Aluminidi modificirani plemenitim metalom (3)<br> MCrAlX (5)<br> Modificirani cirkonij (12)<br> Platina<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Keramika i slabošireća stakla (14)</td>
 <td>Silicidi<br> Platina<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Slitine titana (13)</td>
 <td>Boridi<br> Nitridi<br> Oksidi<br> Silicidi<br> Aluminidi<br> Slitine aluminida (2)<br> Karbidi</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Vatrostalni metali<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Nitrid bora</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Cementirani volfram karbid (16), karbid silicija (18)</td>
 <td>Karbidi<br> Volfram<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Nitrid bora</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Berilij i slitine berilija</td>
 <td>Boridi<br> Dielektrički slojevi (15)<br> Berilij</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (15)<br> Dijamantni ugljik</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Vatrostalni metali i slitine (8)</td>
 <td>Aluminidi<br> Silicidi<br> Oksidi<br> Karbidi</td>
 </tr>
-
 <tr>
 <td rowspan="4">G. Ugradnja iona</td>
 <td>Čelici koji podnose visoke temperature</td>
 <td>Dodaci kroma, tantala ili niobija (kolumbija)</td>
 </tr>
-
 <tr>
 <td>Slitine titana (13)</td>
 <td>Boridi<br> Nitridi</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Boridi</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16)</td>
 <td>Karbidi<br> Nitridi</td>
 </tr>
-
 </table>
 
 Napomene  
@@ -14811,37 +14756,31 @@ a. Materijali za apsorpciju frekvencija koje premašuju 2 × 108 Hz ali su manje
 
 <table>
 <tbody>
-
 <tr>
 <td></td>
 <td colspan="4">Napomena 1: 1C001.a. ne odnosi se na:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="3">Apsorbere tipa kose, izrađene od prirodnih ili sintetičkih vlakana, s nemagnetnim opterećenjem koje služi za apsorpciju;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="3">Apsorberi koji ne gube magnetno svojstvo i za čiju se površinu podrazumijeva da je po obliku neplošna, uključujući piramide, stošce, klinove i zmijolike površine;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>c.</td>
 <td colspan="3">Plošni apsorberi koji imaju sve od navedenih karakteristika:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td colspan="2">Da su izrađeni od bilo kojeg od navedenog:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -14849,7 +14788,6 @@ a. Materijali za apsorpciju frekvencija koje premašuju 2 × 108 Hz ali su manje
 <td>a.</td>
 <td>Plastičnih pjenastih materijala (fleksibilnih ili krutih) s ugljičnim punjenjem, ili organskih materijala, uključujući veziva, koji daju više od 5% odjeka u usporedbi s metalom na pojasu čija širina premašuje za ± 15% središnju frekvenciju incidentne energije, i koji ne mogu podnijeti temperature više od 450 K (177 °C); ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -14857,48 +14795,41 @@ a. Materijali za apsorpciju frekvencija koje premašuju 2 × 108 Hz ali su manje
 <td>b.</td>
 <td>Keramičkih materijala koji daju više od 20% odjeka u usporedbi s metalom na pojasu čija širina premašuje za ± 15% središnju frekvenciju incidentne energije i koji ne mogu podnijeti temperature više od 800 K (527 °C);</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Tehnička napomena:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Uzorci ispitivanja apsorpcije za 1C001.a. NAPOMENA:1.c.1. treba biti kvadrat čiju stranicu čini najmanje 5 valnih dužina središnje frekvencije i postavljen na udaljenom polju elementa koji zrači.</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td colspan="2">Čvrstoća na vlak manja od 7 × 106 N/m²; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>3.</td>
 <td colspan="2">Granica čvrstoće pri stlačivanju manja od 14 × 106 N/m²;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>d.</td>
 <td colspan="3">Plošni apsorberi izrađeni od sinteriranog ferita, koji imaju:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td colspan="2">Specifične težine veće od 4.4; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -14906,7 +14837,6 @@ a. Materijali za apsorpciju frekvencija koje premašuju 2 × 108 Hz ali su manje
 <td colspan="2">Najviše radne temperature od 548 K (275 °C).</td>
 </tr>
 </tbody>
-
 </table>
 
 Napomena 2: Ništa od navedenog u Napomeni 1 do 1C001.a. ne sprečava magnetne materijale da vrše apsorpciju kad su prevučeni bojom.
@@ -16858,39 +16788,33 @@ b. Alatni strojevi za brušenje, koji imaju bilo koju od navedenih karakteristik
 
 <table>
 <tbody>
-
 <tr>
 <td>Napomena:</td>
 <td colspan="3">2B201.b. ne odnosi se na sljedeće strojeve za brušenje:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="2">Strojeve za cilindrično vanjsko, unutarnje i vanjsko-unutarnje brušenje koji imaju sve od navedenih karakteristika:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td>Ograničeni na najveći radni komad vanjskog promjera ili dužine od 150 mm; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td>Ograničenje na osi x, z i c;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="2">Oblikovna brusna oruđa koja nemaju z ili w osi s točnošću pozicioniranja manjom (boljom) od 4 m po ISO normi 230/2 (1988)1 ili nacionalnom ekvivalentnoj normi.</td>
 </tr>
 </tbody>
-
 </table>
 
 Napomena 1: 2B201.b ne uključuje strojeve i oruđa, posebno izrađene za izradu sljedećih dijelova:
@@ -17436,295 +17360,239 @@ Napomena: Tablica i Tehnička Napomena nalaze se nakon stavke 2E301.
 
 <table>
 <tbody>
-
 <tr>
 <td>1. Postupak premazivanja</td>
 <td>2. Podloga</td>
 <td>3. Rezultirajući premaz</td>
 </tr>
-
 <tr>
 <td rowspan="9">A. Taloženje kemijskim parama (CVD)</td>
 <td>»Superslitine«</td>
 <td>Aluminidi za unutarnje prijelaze</td>
 </tr>
-
 <tr>
 <td>Keramika (19) i slabošireća stakla (14)</td>
 <td>Silicidi<br> Karbidi<br> Dielektrički slojevi (15)<br> Dijamant<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Vatrostalni metali<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Aluminidi<br> Slitine aluminida (2)<br> Nitrid bora</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16), karbid silicija (18)</td>
 <td>Karbidi<br> Volfram<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Dielektički slojevi (15)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Dijamant<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (15)<br> Dijamant<br> Dijamantni ugljik</td>
 </tr>
-
 <tr>
 <td rowspan="9">B. Termalna evaporacija – fizičko taloženje pare (TE-PVD)<br> B.1. Fizičko taloženje pare (PVD):<br> Taloženje fizičkih para elektronskog snopa (EB-PVD)</td>
 <td>»Superslitine«</td>
 <td>Slitine silicida<br> Slitine aluminida (2)<br> MCrAlX (5)<br> Modificirani cirkonij (12)<br> Silicidi<br> Aluminidi<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Keramike (19) i slabošireća stakla (14)</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Čelik otporan na koroziju (7)</td>
 <td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Vatrostalni metali<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Nitrid bora</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16), karbid silicija (18)</td>
 <td>Karbidi<br> Volfram<br> Njihove smjese (4)<br> Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Dielektrički slojevi (15)<br> Boridi<br> Berilij</td>
 </tr>
-
 <tr>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (9)</td>
 </tr>
-
 <tr>
 <td>Slitine titana (13)</td>
 <td>Boridi<br> Nitridi</td>
 </tr>
-
 <tr>
 <td rowspan="5">B.2. Fizičko taloženje pare rezistivnim zagrijavanjem pomoću iona (PVD) (ionsko oblaganje)</td>
 <td>Keramika (19) i slabošireća stakla (14)</td>
 <td>Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16), karbid silicija (18)<br> Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)<br> Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td rowspan="6">B.3. Fizičko taloženje pare (PVD): Isparavanje »laserom«</td>
 <td>Keramika (19) i slabošireća stakla (14)</td>
 <td>Silicidi<br> Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16), karbid silicija (18)</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td rowspan="2">B.4. Fizičko taloženje pare<br> (PVD): Taloženje<br> katodnim lukom</td>
 <td>»Superslitine«</td>
 <td>Slitine silicida<br> Slitine aluminida (2)<br> MCrAlX (5)</td>
 </tr>
-
 <tr>
 <td>Polimeri (11) i organska »matrica« »kompozita«</td>
 <td>Boridi<br> Karbidi<br> Nitridi<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td rowspan="3">C. Cementiranje uranjanjem u<br> smjesu (vidi A naprijed za<br> cementiranje iznad smjese)<br> (10)</td>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Slitine titana (13)</td>
 <td>Silicidi<br> Aluminidi<br> Slitine aluminida (2)</td>
 </tr>
-
 <tr>
 <td>Vatrostalni metali i slitine (8)</td>
 <td>Silicidi<br> Oksidi</td>
 </tr>
-
 <tr>
 <td rowspan="4">D. Raspršivanje plazme</td>
 <td>»Superslitine«</td>
 <td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Njihove smjese (4)<br> Abrazivni nikl-grafit<br> Abrazivni materijali koji sadrže Ni-Cr-Al<br> Abrazivni Al-Si-poliester<br> Slitine aluminida (2)</td>
 </tr>
-
 <tr>
 <td>Slitine aluminija (6)</td>
 <td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Silicidi<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Vatrostalni metali i slitine (8)</td>
 <td>Aluminidi<br> Silicidi<br> Karbidi</td>
 </tr>
-
 <tr>
 <td>Čelik otporan na koroziju (7)</td>
 <td>MCrAlX (5)<br> Modificirani cirkonij (12)<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Slitine titana (13)</td>
 <td>Karbidi<br> Aluminidi<br> Silicidi<br> Slitine aluminida (2)<br> Abrazivni nikl-grafit<br> Abrazivni materijali koji sadrže Ni-Cr-Al<br> Abrazivni Al-Si-poliester</td>
 </tr>
-
 <tr>
 <td rowspan="2">E. Taloženje kapljive kaše</td>
 <td>Vatrostalni metali i slitine (8)</td>
 <td>Taljeni silicidi<br> Taljeni aluminidi osim elemenata otpornih na zagrijavanje</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td rowspan="9">F. Taloženje raspršenih čestica</td>
 <td>»Superslitine«</td>
 <td>Slitine silicida<br> Slitine aluminida (2)<br> Aluminidi modificirani plemenitim metalom (3)<br> MCrAlX (5)<br> Modificirani cirkonij (12)<br> Platina<br> Njihove smjese (4)</td>
 </tr>
-
 <tr>
 <td>Keramika i slabošireća stakla (14)</td>
 <td>Silicidi<br> Platina<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Dijamantni ugljik (17)</td>
 </tr>
-
 <tr>
 <td>Slitine titana (13)</td>
 <td>Boridi<br> Nitridi<br> Oksidi<br> Silicidi<br> Aluminidi<br> Slitine aluminida (2)<br> Karbidi</td>
 </tr>
-
 <tr>
 <td>Ugljik-ugljik, keramička i metalna »matrica« »kompozita«</td>
 <td>Silicidi<br> Karbidi<br> Vatrostalni metali<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Nitrid bora</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16), karbid silicija (18)</td>
 <td>Karbidi<br> Volfram<br> Njihove smjese (4)<br> Dielektrički slojevi (15)<br> Nitrid bora</td>
 </tr>
-
 <tr>
 <td>Molibden i slitine molibdena</td>
 <td>Dielektrički slojevi (15)</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Boridi<br> Dielektrički slojevi (15)<br> Berilij</td>
 </tr>
-
 <tr>
 <td>Materijali za senzorska okna (9)</td>
 <td>Dielektrički slojevi (15)<br> Dijamantni ugljik</td>
 </tr>
-
 <tr>
 <td>Vatrostalni metali i slitine (8)</td>
 <td>Aluminidi<br> Silicidi<br> Oksidi<br> Karbidi</td>
 </tr>
-
 <tr>
 <td rowspan="4">G. Ugradnja iona</td>
 <td>Čelici koji podnose visoke temperature</td>
 <td>Dodaci kroma, tantala ili niobija (kolumbija)</td>
 </tr>
-
 <tr>
 <td>Slitine titana (13)</td>
 <td>Boridi<br> Nitridi</td>
 </tr>
-
 <tr>
 <td>Berilij i slitine berilija</td>
 <td>Boridi</td>
 </tr>
-
 <tr>
 <td>Cementirani volfram karbid (16)</td>
 <td>Karbidi<br> Nitridi</td>
 </tr>
 </tbody>
-
 </table>
 
 Napomene
@@ -17978,48 +17846,40 @@ b. Komponente mikrovalova ili milimetar valova, kako slijedi:
 
 <table>
 <tbody>
-
 <tr>
 <td>Napomena 1:</td>
 <td colspan="3">3A001.b.1. ne odnosi se na cijevi predviđene ili svrstane za rad u bilo kojem frekventnom pojasu koji udovoljava svim od navedenih karakteristika:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="2">Ne premašuje 31,8 GHz; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="2">»Dodijeljen od ITU« za usluge radio komunikacija, ali ne za radio utvrđivanje.</td>
 </tr>
-
 <tr>
 <td>Napomena 2:</td>
 <td colspan="3">3A001.b.1. ne odnosi se na cijevi koje nisu »prikladne za uporabu u svemiru« i koje udovoljavaju svim od navedenih karakteristika:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="2">Prosječna izlazna snaga jednaka ili manja od 50 W; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="2">Predviđeni ili svrstani za rad u bilo kojem frekventnom pojasu koji udovoljava svim od navedenih karakteristika:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td>Veći je od 31,8 GHz ali nije veći od 43,5 GHz; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -18027,7 +17887,6 @@ b. Komponente mikrovalova ili milimetar valova, kako slijedi:
 <td>»Dodijeljen od ITU« za usluge radio komunikacije, ali ne za radio utvrđivanje.</td>
 </tr>
 </tbody>
-
 </table>
 
 a. Cijevi za putujući val, pulsni ili kontinuirani val, kako slijedi:
@@ -18945,86 +18804,72 @@ Napomena: 4A001.b. ne kontrolira elektronička računala i pripadajuću opremu k
 
 <table>
 <tbody>
-
 <tr>
 <td>Napomena 1:</td>
 <td colspan="4">4A003 uključuje sljedeće:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>–</td>
 <td colspan="3">Vektorske procesore;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>–</td>
 <td colspan="3">Matrične procesore;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>–</td>
 <td colspan="3">Digitalne signalne procesore;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>–</td>
 <td colspan="3">Logičke procesore;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>–</td>
 <td colspan="3">Opremu izrađenu za »poboljšanje slike«</td>
 </tr>
-
 <tr>
 <td></td>
 <td>–</td>
 <td colspan="3">Opremu izrađenu za »obradu signala«.</td>
 </tr>
-
 <tr>
 <td>Napomena 2:</td>
 <td colspan="4">Kontrolni status »digitalnih računala« i pripadajuće opreme opisane u 4A003 određuje se prema kontrolnom statusu druge opreme ili sustava pod uvjetom da:</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">a.</td>
 <td colspan="2">»Digitalna računala« ili pripadajuća oprema su ključni za rad druge opreme ili sustava;</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">b.</td>
 <td colspan="2">»Digitalna računala« ili pripadajuća oprema nisu »glavni element« druge opreme ili sustava; te</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>NAPOMENA 1:</td>
 <td>Kontrolni status opreme za »obradu signala« ili »poboljšanje slike« posebno izrađene za drugu opremu s funkcijama ograničenim na funkcije potrebne za drugu opremu određuje se prema kontrolnom statusu te druge opreme, čak i ako ona prelazi kriterij »glavnog elementa«.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>NAPOMENA 2:</td>
 <td>Za kontrolni status »digitalnih računala« ili pripadajuće opreme za telekomunikacijsku opremu, vidi Kategoriju 5, 1. dio (Telekomunikacije).</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">c.</td>
 <td colspan="2">»Tehnologija« za »digitalna računala« i pripadajuću opremu određuje se prema 4E.</td>
 </tr>
 </tbody>
-
 </table>
 
 a. Izrađena ili modificirana za »otpornost na pogrešku«;
@@ -19546,65 +19391,55 @@ Tehnička napomena:
 
 <table>
 <tbody>
-
 <tr>
 <td></td>
 <td colspan="5">Napomena: 5A002 ne kontrolira:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="4">»Personalizirane inteligentne kartice«:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td colspan="3">Gdje je mogućnost kriptografije ograničena na korištenje u opremi ili sustavima izuzetima iz kontrole pod natuknicama b. do f. ove Napomene; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td colspan="3">Za opće korištene aplikacije gdje korisnik nema pristupa mogućnosti kriptografije i gdje je ona posebno izrađena i ograničena da omogući zaštitu pohranjenih osobnih podataka.</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Napomena:</td>
 <td>Ako »personalizirana pametna kartica« ima više funkcija, kontrolni status svake funkcije ocjenjuje se pojedinačno;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="4">Prijamna oprema za radio emitiranje, kodiranu televiziju ili slična emitiranja za ograničenu publiku potrošačkog tipa, bez digitalnog šifriranja osim onoga što se samo koristi za slanje informacija o računu ili programu, natrag prema davateljima usluge emitiranja;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>c.</td>
 <td colspan="4">Oprema gdje korisnik nema pristupa mogućnosti kriptografije i koja je posebno izrađena i ograničena da omogući nešto od sljedećega:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td colspan="3">Rad »softvera« zaštićenog od kopiranja;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td colspan="3">Pristup nečemu od sljedećega:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -19612,7 +19447,6 @@ Tehnička napomena:
 <td>a.</td>
 <td colspan="2">Sadržaji zaštićeni od kopiranja koji su pohranjeni na medijima koji se mogu samo očitavati; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -19620,91 +19454,77 @@ Tehnička napomena:
 <td>b.</td>
 <td colspan="2">Informacije pohranjene na medije u kodiranom obliku (npr. u vezi sa zaštitom prava intelektualnog vlasništva) kada su mediji ponuđeni javnosti na prodaju u identičnim kompletima; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>3.</td>
 <td colspan="3">Jednokratno kopiranje audio/video podataka zaštićenim autorskim pravima; ili.</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>4.</td>
 <td colspan="3">Kodiranje i/ili dekodiranje podataka radi zaštite knjižnica, atributa oblika i srodnih podataka za projektiranje poluvodičkih naprava ili integriranih kola</td>
 </tr>
-
 <tr>
 <td></td>
 <td>d.</td>
 <td colspan="4">Kriptografska oprema posebno izrađena i ograničena za korištenje u bankarstvu ili »novčanim transakcijama«;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td colspan="4">Tehnička napomena:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td colspan="4">‘Novčane transakcije’ u 5A002 Napomeni d. uključuje naplatu i namirivanje vozarina ili kreditnih funkcija.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>e.</td>
 <td colspan="4">Prijenosni ili mobilni radiotelefoni za civilno korištenje (npr. za korištenje s komercijalnim civilnim staničnim radiokomunikacijskim sustavima) koji nemaju mogućnost transportnog kodiranja;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>f.</td>
 <td colspan="4">Bežična telefonska oprema koja nema mogućnost transportnog kodiranja gdje je maksimalni efektivni raspon nepojačanih bežičnih operacija (tj. jedan, nerelejni skok između terminala i baze) manji od 400 metara, prema specifikacijama proizvođača.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>g.</td>
 <td colspan="4">Prijenosni ili mobilni telefoni te slični bežični uređaji (client wireless devices) za civilno korištenje, koje koriste isključivo objavljene ili komercijalne kriptografske standardne postupke (izuzetak su protupiratske funkcije koje mogu biti neobjavljene) i koji ispunjavaju uvjete iz podstavaka (b) i (d) napomene o kriptografiji (napomena 3 u drugom dijelu kategorije 5), prilagođeni za specifičnu uporabu u civilnoj industriji na takav način da nihove značajke ne utječu na kriptografsku funkcionalnost tih prvotnih neprilagođenih uređaja.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>h.</td>
 <td colspan="4">Oprema posebno izrađena za servisiranje prijenosne ili mobilne radiotelefonije i siličnih bežičnih uređaja koja zadovoljava sve odredbe Napomene za kriptografiju (napomena 3 iz kategorije 5, dio 2), pri čemu oprema za servisiranje zadovoljava sve od sljedećg:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td colspan="3">Kriptografska funkcionalnost opreme za servisiranje ne može biti lako promijenjena od strane korisnika opreme;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td colspan="3">Oprema za servisiranje je izrađena tako da ju je namjestiti bez opsežne pomoći dobavljača, i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>3.</td>
 <td colspan="3">Oprema za servisiranje ne može promijeniti kriptografsku funkcionalnost uređaja koji se servisira;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>i.</td>
 <td colspan="4">Oprema bežične »lokalne mreže« koja rabi isključivo publicirane ili komercijalne kriptografske standarde i kod koje je kriptografska sposobnost ograničena na nominalno područje djelovanja koje ne prelazi 30 m.</td>
 </tr>
 </tbody>
-
 </table>
 
 | 5B2 | Oprema za testiranje, inspekciju i proizvodnju |  |
@@ -19760,31 +19580,26 @@ a. Pomorski akustički sustavi, oprema i za njih posebno izrađene komponente, k
 
 <table>
 <tbody>
-
 <tr>
 <td>Napomena:</td>
 <td colspan="3">6A001.a.1. ne kontrolira:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="2">Dubinski ispitivači sondom koji rade vertikalno ispod uređaja, ne uključujući funkciju skeniranja koja prelazi ± 20°, i ograničeno na mjerenje dubine vode, udaljenost potopljenih ili zakopanih predmeta ili traženje ribe;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="2">Akustične signale, kako slijedi:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td>Akustične signale za opasnost;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -19792,7 +19607,6 @@ a. Pomorski akustički sustavi, oprema i za njih posebno izrađene komponente, k
 <td>Odašiljače zvučnog signala posebno izrađene za premještanje ili vraćanje na poziciju pod vodom.</td>
 </tr>
 </tbody>
-
 </table>
 
 a. Sustavi širokog otkosa za mjerenje dubine mora izrađeni za izradu topografskih karata morskog dna, koji imaju sve navedeno:
@@ -20039,92 +19853,78 @@ Linearni ili dvodimenzionalni višeelementni detektorski nizovi se razmatraju ka
 
 <table>
 <tbody>
-
 <tr>
 <td>Napomena 1:</td>
 <td colspan="3">6A002.a.3. uključuje fotovodičke i fotonaponske detektorske nizove.</td>
 </tr>
-
 <tr>
 <td>Napomena 2:</td>
 <td colspan="3">6A002.a.3. ne kontrolira:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="2">Složene (ne više od 16 elemenata) ovijene fotovodičke stanice koje koriste ili olovni sulfid ili olovni selenid olovo sulfid ili olovo selenid;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="2">Piroelektrični detektori koji koriste nešto od sljedećega:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td>Triglicin sulfat i inačice;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td>Olovo-lantanij-cirkonij titanat i inačice;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>3.</td>
 <td>Litij tantalat;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>4.</td>
 <td>Polyvinylidene fluorid i inačice; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>5.</td>
 <td>Stroncij barij niobat i inačice.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>c.</td>
 <td></td>
 <td>»žarišnoravninski detektorski nizovi« specijalno izrađeni ili preuređeni za ojačanje naboja i, zbog svoje konstrukcije ograničeni na najveću osjetljivost 10mA/W ili manje pri valnim dužinama većim od 760 nm. koji imaju sve sljedeće značajke:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td>Imaju uređaj za ograničavanje odziva (response limiting mechanism), napravljen tako da ga nije moguće odstraniti ili preurediti;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td>Imaju bilo koju od sljedećih značajki:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>a. Uređaj za ograničavanje odziva je integralni dio ili povezan sa detektorskim elementima;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20132,7 +19932,6 @@ Linearni ili dvodimenzionalni višeelementni detektorski nizovi se razmatraju ka
 <td>b. »žarišnoravninski detektorski nizovi« su operabilni samo ako se koristi uređaj za ograničavanje odziva.</td>
 </tr>
 </tbody>
-
 </table>
 
 Tehnička napomena:
@@ -20337,92 +20136,77 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 
 <table>
 <tbody>
-
 <tr>
 <td>Napomena 1:</td>
 <td colspan="6">‘slikovne kamere’ opisane u 6A003.b.4 uključuju »žarišnoravninske detektorske nizove« koji su sa integriranim sklopovima za čitanje podataka povezani zadovoljavajućom signalno-procesnom elektronikom, koja omogućava da se, nakon dovedenog napajanja, na izlazu minimalno dobije analogni ili digitalni signal.</td>
 </tr>
-
 <tr>
 <td>Napomena 2:</td>
 <td colspan="6">6A003.b.4. ne kontrolira slikovne kamere s ugrađenim linearnim »žarišnoravninskim detektorskim nizovima« s dvanaest elemenata ili manje, koje ne koriste vremensko kašnjenje i integraciju unutar elementa, izrađene za nešto od sljedećega:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="5">Industrijski ili civilni alarm za nedozvoljeni ulazak, sustavi kontrole i brojanja kretanja u prometu ili industriji;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="5">Industrijska oprema korištena za inspekciju ili nadzor protoka topline u zgradama, opremi i industrijskim procesima;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>c.</td>
 <td colspan="5">Industrijska oprema korištena za inspekciju, sortiranje ili analizu svojstava materijala;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>d.</td>
 <td colspan="5">Oprema posebno izrađena za korištenje u laboratorijima; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td>e.</td>
 <td colspan="5">Medicinska oprema.</td>
 </tr>
-
 <tr>
 <td>Napomena 3:</td>
 <td colspan="6">6A003.b.4.a. ne kontrolira slikovne kamere koje imaju bilo koju od sljedećih značajki:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="5">Maksimalnu brzinu uzrokovanja slike jednaku ili manju od 9 Hz;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="5">Sve sljedeće značajke:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td colspan="4">Imaju minimalnih horizontalni ili vertikalni IFOV (Instantaneous-Field-of-View)os najmanje 10 miliradija/pikselu</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td colspan="4">Imaju leće s nepromjenjivom fokusnom daljinom, koje su montirane tako da ih je moguće ukloniti</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>3.</td>
 <td colspan="4">Ne uključuje neposredni prikaz (»direct view«)</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>4.</td>
 <td colspan="4">Imaju bilo što od sljedećeg:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20430,7 +20214,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>a.</td>
 <td colspan="3">Nemaju mogućnost dobivanja slike detektiranoga vidnog polja, ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20438,7 +20221,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>b.</td>
 <td colspan="3">Kamera je izrađena za posebne aplikacije i ne omogućava izmjene od strane korisnika; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20446,7 +20228,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>c.</td>
 <td colspan="3">Ako je kamera namjenski napravljena za ugradnju u civilno putničko vozilo mase manje od 3 tone (bruto masa vozila) i ima sve sljedeće značajke:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20455,7 +20236,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>1.</td>
 <td colspan="2">Radi samo u slučajevima kada je ugrađena u bilo što od sljedećeg:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20465,7 +20245,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>a.</td>
 <td>Civilno putničko vozilo za koje je namijenjeno, ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20475,7 +20254,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>b.</td>
 <td>U posebno dizajnirano i autoriziran testni prostor za održavanje; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20484,7 +20262,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>2.</td>
 <td colspan="2">Uključuje aktivni mehanizam, koji sprečava djelovanje kamere u slučajevima njenog odstranjivanja iz vozila za koje je bila namijenjena.</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20493,7 +20270,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="2">Tehničke napomene:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20502,7 +20278,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="2">1. Vidno polje IFOV (Instantaneous Field of View) navedeno u 6A003.b.4. Napomena 3.b. je manja vrijednost od horizontalnog IFOV ili vertikalnog IFOV.<br> Horizontalni IFOV = horizontalno vidno polje (FOV) / broj horizontalnih detektorskih elemenata<br> Vertikalno IFOV = vertikalno vidno polje (FOV) / broj vertikalnih detektorskih elemenata</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20511,25 +20286,21 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="2">2.Izravni pogled (eng. ‘direct view’) naveden u 6A003.b.4. Napomeni 3.b. odnosi se na slikovnu kameru koja radi u infracrvenom spektru i prikazuje vizualne slike ljudskom promatraču uporabom malih ekrana u blizini oka, što uključuje bilo kakav svjetlosno sigurnosni mehanizam.</td>
 </tr>
-
 <tr>
 <td>Napomena 4:</td>
 <td colspan="6">6A003.b.4.c. ne kontrolira »slikovne kamere« koje imaju bilo koju od sljedećih značajki:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="5">Imaju sve sljedeće značajke:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td colspan="4">Kamera je posebno izrađena za ugradnju kao sastavni dio mrežnih sustava ili opreme, za uporabu u zgradama, koja je zbog svoje konstrukcije ograničena na:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20537,7 +20308,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>a.</td>
 <td colspan="3">Praćenje industrijskih procesa, kontrolu kvalitete ili analizu svojstava materijala;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20545,7 +20315,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>b.</td>
 <td colspan="3">Laboratorijsku opremu, posebno izrađenu za znanstvena istraživanja;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20553,7 +20322,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>c.</td>
 <td colspan="3">Medicinsku opremu</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20561,14 +20329,12 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>d.</td>
 <td colspan="3">Oprema za otkrivanje financijskih prijevara; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td colspan="4">Djeluje samo u slučajevima ako je namještena na nešto od sljedećeg:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20576,7 +20342,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>a.</td>
 <td colspan="3">U sustav (e) ili opremu za koju je bila namjenjena; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20584,14 +20349,12 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>b.</td>
 <td colspan="3">Naprave za održavanje, posebno napravljeno i odobreno za tu namjenu; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>3.</td>
 <td colspan="4">Uključuje aktivni mehanizam, koji sprečava djelovanje kamere u slučajevima odstranjivanja iz sustava ili opreme, za koje je kamera bila namijenjena:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
@@ -20599,7 +20362,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">Ako je kamera namijenjena za ugradnju u civilno kopneno vozilo mase manje od 3 tone(bruto masa vozila) ili trajekte za putnike i vozila (LOA) ukupne dužine 65 m ili veće, i ima sve niže navedene značajke:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20607,7 +20369,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">Djeluje samo u slučajevima</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20615,7 +20376,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>a.</td>
 <td colspan="3">Civilno kopneno vozilo ili trajekt za putnike ili vozila, za koje je bila namijenjena;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20623,7 +20383,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td>b.</td>
 <td colspan="3">Naprava za testiranje i održavanje, posebno izrađena i odobrena za tu namjenu;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20631,7 +20390,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">Uključuje aktivni mehanizam koji sprečava djelovanje kamere u slučaju odstranjivanja iz vozila za koje je kamera bila namijenjena</td>
 </tr>
-
 <tr>
 <td></td>
 <td>c.</td>
@@ -20639,7 +20397,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">Radi svoje konstrukcije su ograničene na najveću osjetljivost 10 mA/W ili manjoj pri valnim duljinama većim od 769 nm, koje imaju sve niže navedene značajke:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20647,7 +20404,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">Imaju napravu za ograničavanje odziva (response limiting mechanism), izrađen tako da se ne može odstraniti ili prepraviti; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20655,7 +20411,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">Uključuje aktivni mehanizam, koji sprječava djelovanje kamere u slučaju odstranjivanja naprave za ograničavanje odziva; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td>d.</td>
@@ -20663,7 +20418,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">Imaju sve od sljedećih značajki:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20671,7 +20425,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">Ne uključuje »neposredni prikaz« (direct view) ili elektronski prikaz slike;</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20679,7 +20432,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">Nema mogućnosti za dobivanje vidljive slike određenog vidnog polja</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20687,7 +20439,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td></td>
 <td colspan="3">»Žarišnoravninski detektorski nizovi« su operabilni samo ako su ugrađeni u kameru za koju su bili namjenjeni; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -20696,7 +20447,6 @@ c. Imaju »žarišnoravninske detektorske nizove« kontrolirane po 6A002.a.3.g.
 <td colspan="3">»Žarišnoravninski detektorski nizovi« uključuju aktivni mehanizam, zbog kojeg su trajno neupotrebljivi, u slučaju njihova odstranjivanja iz kamere za koju su bili namijenjeni.</td>
 </tr>
 </tbody>
-
 </table>
 
 5. Slikovne kamere s poluvodičkim detektorima iz 6A002.a.1.
@@ -20769,48 +20519,40 @@ Tehničke napomene:
 
 <table>
 <tbody>
-
 <tr>
 <td>Napomena:</td>
 <td colspan="2">6A004.e. ne kontrolira asferične optičke elemente koji imaju nešto od sljedećega:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td>Najveća dimenzija optičkog otvora manja od 1 m i omjer žarišne duljine i otvora preko 4,5:1;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td>Najveća dimenzija optičkog otvora jednaka ili veća od 1 i omjer žarišne duljine i otvora jednak ili preko 7:1;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>c.</td>
 <td>Izrađeni kao optički elementi Fresnel, »muhino oko«, prugasti, prizma ili lom svjetla;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>d.</td>
 <td>Izrađeni od borosilikatnog stakla s koeficijentom linearne termalne ekspanzije većom od 2,5 × 10-6 /K na 25 °C; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td>e.</td>
 <td>Da su rendgenski elementi s unutarnjim zrcalnim mogućnostima (npr. zrcala cjevastog tipa).</td>
 </tr>
-
 <tr>
 <td>Napomena:</td>
 <td colspan="2">Za asferične optičke elemente posebno izrađene za litografsku opremu, vidi 3B001.</td>
 </tr>
 </tbody>
-
 </table>
 
 6A005 »Laseri«, komponente i optička oprema, kako slijedi:
@@ -21733,55 +21475,46 @@ d. Inercijska oprema za mjerenje uključujući inercijske mjerne jedinice IMU (I
 
 <table>
 <tbody>
-
 <tr>
 <td>Napomena 1:</td>
 <td colspan="3">Parametri iz 7A003.a. i 7A003.b. vrijede uz neki od sljedećih okolnih uvjeta:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td colspan="2">Ulazna slučajno generirana vibracija ukupne veličine 7,7 g rms u prvih pola sata i ukupnom trajanju testa od sat i pol po osi na svakoj od tri okomite osi, kada slučajna vibracija ispunjava sljedeće:</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>1.</td>
 <td>Konstantna vrijednost spektralne gustoće struje (PSD) 0,04 g2/Hz u frekvencijskom intervalu od 15 do 1000 Hz; i</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td>2.</td>
 <td>PSD slabi s frekvencijom od 0,04 g2/Hz do 0,01 g2/Hz u frekvencijskom intervalu od 1000 do 2000 Hz;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td colspan="2">Brzina valjanja i krivudanja jednaka ili veća od + 2,62 radijan/s (150 deg/s); ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td>c.</td>
 <td colspan="2">U skladu s nacionalnim standardima ekvivalentnim 1. ili 2. više.</td>
 </tr>
-
 <tr>
 <td>Napomena 2:</td>
 <td colspan="3">7A003 ne kontrolira inercijske navigacijske sustave koji su atestirani za korištenje na »civilnim letjelicama« od strane civilnih vlasti »države sudionice«.</td>
 </tr>
-
 <tr>
 <td>Napomena 3:</td>
 <td colspan="3">7A003.c.1. ne kontrolira teodolitske sustave koji sadrže inercijsku opremu posebno izrađenu u svrhe civilnih istraživanja.</td>
 </tr>
 </tbody>
-
 </table>
 
 Tehničke napomene:
@@ -22983,61 +22716,50 @@ e. »Tehnologija« za »razvoj« ili »proizvodnju« pogonskih sustava stapnog d
 
 <table>
 <tbody>
-
 <tr>
 <td colspan="3">Tehnička napomena:</td>
 </tr>
-
 <tr>
 <td colspan="3">»Volumen kutije« 9E003.e. je umnožak triju okomitih dimenzija izmjerenih na sljedeći način:</td>
 </tr>
-
 <tr>
 <td>Duljina:</td>
 <td colspan="2">Duljina koljenaste osovine od prednjeg izbojka do prednje strane zamašnjaka;</td>
 </tr>
-
 <tr>
 <td>Širina:</td>
 <td colspan="2">Najšira od sljedećih:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td>Vanjska dimenzija od poklopca ventila do poklopca ventila;</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td>Dimenzije vanjskih rubova glava cilindara; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td>c.</td>
 <td>Promjer kućišta zamašnjaka;</td>
 </tr>
-
 <tr>
 <td>Visina:</td>
 <td colspan="2">Najveća od sljedećih:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>a.</td>
 <td>Dimenzija središnje linije koljenaste osovine do najviše ravnine poklopca ventila (ili glave cilindra) plus dva puta hod; ili</td>
 </tr>
-
 <tr>
 <td></td>
 <td>b.</td>
 <td>Promjer kućišta zamašnjaka.</td>
 </tr>
 </tbody>
-
 </table>
 
 f. »Tehnologija« »potrebna« za »proizvodnju« posebno izrađenih komponenti, kako slijedi, za visokoizlazne dizel motore:

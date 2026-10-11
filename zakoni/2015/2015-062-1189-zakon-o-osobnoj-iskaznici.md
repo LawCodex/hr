@@ -6,11 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-06-05
+last_amended: 2024-02-14
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "62/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "62/15, 42/20, 144/20, 114/22, 18/24"
+amendments:
+  - "NN 42/2020 (890) Zakon o dopunama Zakona o osobnoj iskaznici"
+  - "NN 144/2020 (2768) Zakon o izmjenama i dopunama Zakona o osobnoj iskaznici"
+  - "NN 114/2022 (1693) Zakon o izmjenama Zakona o osobnoj iskaznici"
+  - "NN 18/2024 (298) Zakon o izmjeni Zakona o osobnoj iskaznici"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/62/1189"
 retrieved: 2026-10-12
 ---
@@ -18,6 +23,8 @@ retrieved: 2026-10-12
 # Zakon o osobnoj iskaznici
 
 > Izvor: Narodne novine, NN 62/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/62/1189).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 42/2020, NN 144/2020, NN 114/2022, NN 18/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -415,3 +422,443 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopunama Zakona o osobnoj iskaznici (NN 42/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/890*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O OSOBNOJ ISKAZNICI
+
+Proglašavam Zakon o dopunama Zakona o osobnoj iskaznici, koji je Hrvatski sabor donio na sjednici 7. travnja 2020.
+
+Klasa: 011-01/20-01/47
+
+Urbroj: 71-06-01/1-20-2
+
+Zagreb, 7. travnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O OSOBNOJ ISKAZNICI**
+
+### Članak 1.
+
+U Zakonu o osobnoj iskaznici (»Narodne novine«, br. 62/15.) iza članka 5. dodaje se članak 5.a koji glasi:
+
+»Članak 5.a
+
+(1) Osoba iz članka 5. stavka 1. ovoga Zakona, za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2, ne mora podnijeti zahtjev za izdavanje nove osobne iskaznice, a najdulje 30 dana od dana proglašenja prestanka epidemije.
+
+(2) Osobna iskaznica koja je izdana osobi iz stavka 1. ovoga članka smatra se valjanom do isteka roka iz stavka 1. ovoga članka.
+
+(3) Nakon isteka roka iz stavka 1. ovoga članka osoba je dužna bez odgode podnijeti zahtjev za izdavanje nove osobne iskaznice.«.
+
+### Članak 2.
+
+Iza članka 14. dodaje se članak 14.a koji glasi:
+
+»Članak 14.a
+
+Iznimno od članka 14. stavka 5. ovoga Zakona, za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2, a najdulje 30 dana od dana proglašenja prestanka epidemije, policijska uprava odnosno policijska postaja neće poništiti osobnu iskaznicu i podatke za aktivaciju elektroničkog dijela osobne iskaznice i podatke za registraciju na Portalu elektroničke osobne iskaznice te neće podnijeti zahtjev za opoziv certifikata, a osoba će izdanu osobnu iskaznicu i podatke za aktivaciju elektroničkog dijela osobne iskaznice te podatke za registraciju na Portalu elektroničke osobne iskaznice moći preuzeti najdulje 30 dana od dana proglašenja prestanka epidemije.«.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/54  
+Zagreb, 7. travnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o osobnoj iskaznici (NN 144/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/144/2768*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OSOBNOJ ISKAZNICI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o osobnoj iskaznici, koji je Hrvatski sabor donio na sjednici 15. prosinca 2020.
+
+Klasa: 011-01/20-01/121
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 17. prosinca 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OSOBNOJ ISKAZNICI**
+
+#### Članak 1.
+
+U Zakonu o osobnoj iskaznici (»Narodne novine«, br. 62/15. i 42/20.) iza članka 1. dodaju se članci 1.a i 1.b koji glase:
+
+»Članak 1.a
+
+Ovim Zakonom osigurava se provedba Uredbe (EU) 2019/1157 Europskog parlamenta i Vijeća od 20. lipnja 2019. o jačanju sigurnosti osobnih iskaznica građana Unije i boravišnih isprava koje se izdaju građanima Unije i članovima njihovih obitelj koji ostvaruju pravo na slobodno kretanje (Tekst značajan za EGP) (SL L 188, 12. 7. 2019.).
+
+#### Članak 1.b
+
+Ministarstvo nadležno za unutarnje poslove kontaktna je točka za provedbu Uredbe iz članka 1.a ovoga Zakona.«.
+
+#### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»(1) U osobnu iskaznicu u elektroničkom se obliku pohranjuju podaci iz članka 1. stavka 1. ovoga Zakona, prikaz lica nositelja osobne iskaznice i dva otiska prstiju u interoperabilnim digitalnim formatima (u daljnjem tekstu: biometrijski identifikatori) te se mogu pohraniti identifikacijski certifikat i potpisni certifikat, kao i podaci iz članka 6. stavka 3. ovoga Zakona.
+
+(2) Identifikacijski certifikat je autentifikacijsko sredstvo visoke razine koji se koristi za elektroničku identifikaciju i autentifikaciju radi pristupa elektroničkim uslugama i/ili aktivaciju drugih autentifikacijskih sredstava.
+
+(3) Potpisni certifikat je kvalificirani certifikat koji se koristi za podršku kvalificiranom elektroničkom potpisu koji ima istu pravnu snagu i zamjenjuje vlastoručni potpis sukladno propisima kojima je reguliran elektronički potpis.
+
+(4) Pružatelj usluga povjerenja koji obavlja poslove izdavanja certifikata iz stavaka 2. i 3. ovoga članka je pravna osoba ovlaštena za izradu osobnih iskaznica.
+
+(5) Pružatelj usluga povjerenja iz stavka 4. ovoga članka dužan je uspostaviti odgovarajuće mrežno mjesto za upravljanje elektroničkom osobnom iskaznicom, osiguravati sadržaje i servise vezane za korištenje osobne iskaznice, djelovati u statusu kvalificiranog pružatelja usluga povjerenja sukladno Zakonu o provedbi Uredbe (EU) br. 910/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ (»Narodne novine«, br. 62/17.) te provesti integraciju u sustav e-Građani sukladno propisima o državnoj informacijskoj infrastrukturi.
+
+(6) Putem odgovarajućeg mrežnog mjesta za upravljanje elektroničkom osobnom iskaznicom iz stavka 5. ovoga članka, osoba kojoj je na osobnoj iskaznici izdan identifikacijski certifikat ostvaruje pravo na aktivaciju odgovarajućeg programskog rješenja na pokretnim uređajima, a odgovarajuće programsko rješenje je sredstvo putem kojeg osoba upravlja svojim osobnim podacima i potvrđuje svoj elektronički identitet.
+
+(7) Osobni podaci iz stavka 6. ovoga članka osobni su podaci koji se nalaze na obrascu osobne iskaznice i/ili drugi osobni podaci koje korisnik programskog rješenja želi unijeti u programsko rješenje.
+
+(8) Osoba koja je aktivirala programsko rješenje za pokretne uređaje iz stavka 6. ovoga članka i ima izdan potpisni certifikat na osobnoj iskaznici ostvaruje pravo na udaljeni osobni kvalificirani potpisni certifikat.«.
+
+#### Članak 3.
+
+U članku 3. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Osobnu iskaznicu mora ishoditi i osoba koja je navršila 16 godina života, a kojoj je sud u izvanparničnom postupku dopustio sklapanje braka te je sklopila brak, ako ima prebivalište u Republici Hrvatskoj.«.
+
+#### Članak 4.
+
+Članak 4. mijenja se i glasi:
+
+»(1) Rok važenja osobnih iskaznica i certifikata koje sadržavaju je pet godina.
+
+(2) Iznimno od stavka 1. ovoga članka, osobna iskaznica koja je izdana osobi s navršenih 70 ili više godina ima rok važenja od 40 godina.
+
+(3) Osobna iskaznica izdana djeci do navršenih 18 godina sadržava identifikacijski certifikat.
+
+(4) Iznimno od odredbe stavka 3. ovoga članka, osobna iskaznica izdana osobi koja je navršila 16 godina života i kojoj je sud u izvanparničnom postupku dopustio sklapanje braka te je sklopila brak sadržava identifikacijski i potpisni certifikat.
+
+(5) Osobna iskaznica izdana osobama od navršenih 18 do navršenih 70 godina sadržava identifikacijski i potpisni certifikat.
+
+(6) Osobe s navršenih 70 godina mogu po vlastitoj želji ishoditi osobnu iskaznicu s identifikacijskim i potpisnim certifikatom ili bez njega.
+
+(7) Osoba s navršenih 70 godina koja ishodi osobnu iskaznicu koja sadržava certifikate istekom roka važenja certifikata može nastaviti koristiti osobnu iskaznicu, ali njome neće moći obavljati elektroničku potvrdu svojeg identiteta niti će joj ona moći služiti za izradu naprednog elektroničkog potpisa.
+
+(8) Ako osoba iz stavka 7. ovoga članka nakon isteka roka važenja certifikata želi i dalje koristiti osobnu iskaznicu za osiguranje elektroničke potvrde svojeg identiteta te za izradu naprednog elektroničkog potpisa, mora podnijeti zahtjev za izdavanje nove osobne iskaznice.
+
+(9) Osobi kojoj je privremeno fizički nemoguće uzeti otisak papilarnih linija bilo kojeg prsta osobna iskaznica izdaje se s rokom važenja od 12 mjeseci.«.
+
+#### Članak 5.
+
+U članku 5. stavku 1. točka 4. mijenja se i glasi:
+
+»4. je oštećena na način da je otežano ili onemogućeno vizualno ili strojno čitanje podataka u vizualno ili strojno čitljivoj zoni, ako je otežano ili onemogućeno strojno čitanje biometrijskih podataka s visoko sigurnog elektroničkog nosača podataka, ako je djelomično ili u potpunosti prelomljena ili zbog bilo kojeg drugog razloga ne služi svrsi.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Punoljetna osoba koja nema prijavljeno prebivalište u Republici Hrvatskoj mora podnijeti zahtjev za izdavanje nove osobne iskaznice prije isteka roka važenja osobne iskaznice ako je promijenila državu u kojoj prebiva ili boravi izvan Republike Hrvatske.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 6.
+
+U članku 6. stavak 2. mijenja se i glasi:
+
+»(2) Obrazac osobne iskaznice sadržava: grb Republike Hrvatske, naziv: »Republika Hrvatska« i dvoslovnu oznaku Republike Hrvatske otisnutu u negativu u plavom pravokutniku okruženu s 12 žutih zvjezdica, naziv: »osobna iskaznica« i broj osobne iskaznice, međunarodni simbol za elektroničku ispravu te prostor za upis: prezimena, imena, podatka o spolu, podatka o državljanstvu, datuma rođenja, osobnog identifikacijskoga broja (OIB), roka važenja, prebivališta, datuma izdavanja, naziva policijske uprave odnosno policijske postaje koja osobnu iskaznicu izdaje i podataka za strojno čitanje. Obrazac osobne iskaznice sadržava i prostor za fotografiju te prostor za potpis osobe.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Obrazac osobne iskaznice može sadržavati i prostor za upis podataka koji su nositelju osobne iskaznice određeni prema posebnim propisima.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 7.
+
+U članku 9. stavak 3. mijenja se i glasi:
+
+»(3) Za izdavanje osobne iskaznice koja sadržava jedan ili dva certifikata podnositelj zahtjeva dužan je s pružateljem usluge povjerenja sklopiti ugovor o pružanju usluga certificiranja, kojim su definirana prava i obveze obiju ugovornih strana.«.
+
+#### Članak 8.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Zahtjev za izdavanje osobne iskaznice osoba podnosi osobno.
+
+(2) Zahtjev za izdavanje osobne iskaznice za dijete odnosno osobu lišenu poslovne sposobnosti u dijelu koji se odnosi na osobna stanja podnosi zakonski zastupnik.
+
+(3) Iznimno od odredbe stavka 2. ovoga članka, osoba koja je navršila 16 godina života i kojoj je sud u izvanparničnom postupku dopustio sklapanje braka te je sklopila brak zahtjev za izdavanje osobne iskaznice podnosi osobno.
+
+(4) Dijete do navršenih 12 godina ne mora biti nazočno prilikom podnošenja zahtjeva za izdavanje osobne iskaznice.
+
+(5) Zakonski zastupnik djeteta može biti roditelj, skrbnik ili osoba kojoj je odlukom suda povjereno ostvarivanje roditeljske skrbi nad djetetom u cijelosti ili u tom dijelu.
+
+(6) Ako zahtjev za izdavanje osobne iskaznice za dijete podnese roditelj koji je na temelju sudske odluke lišen roditeljske skrbi ili mu je ograničeno pravo na ostvarivanje roditeljske skrbi ili je lišen poslovne sposobnosti u dijelu koji se odnosi na ishođenje osobne iskaznice, Ministarstvo će rješenjem odbiti zahtjev za izdavanje osobne iskaznice.
+
+(7) Ako se naknadno utvrdi da je osobnu iskaznicu djetetu ishodio roditelj iz stavka 6. ovoga članka, a osobnu iskaznicu djeteta odbija predati roditelju koji samostalno ostvaruje roditeljsku skrb u cijelosti ili u dijelu koji se odnosi na ishođenje osobne iskaznice, Ministarstvo će rješenjem poništiti osobnu iskaznicu.
+
+(8) Protiv rješenja iz stavaka 6. i 7. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+(9) Za osobu lišenu poslovne sposobnosti u dijelu koji se odnosi na osobna stanja osobnu iskaznicu preuzima zakonski zastupnik.«.
+
+#### Članak 9.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Prilikom podnošenja zahtjeva za izdavanje osobne iskaznice osoba je dužna dati otisak papilarnih linija kažiprsta lijeve i desne ruke.
+
+(2) Ako osoba nema kažiprst ili je vrh kažiprsta ozlijeđen, uzima se otisak papilarnih linija srednjeg ili nekog drugog prsta, a ako nema jednu ruku, uzima se otisak papilarnih linija kažiprsta i srednjeg ili nekog drugog prsta druge ruke.
+
+(3) Osobe kod kojih je uzimanje otisaka papilarnih linija fizički nemoguće izuzete su od obveze davanja otisaka papilarnih linija.
+
+(4) Otisci papilarnih linija i potpis ne uzimaju se od djeteta do navršenih 12 godina.«.
+
+#### Članak 10.
+
+U članku 14. stavku 1. riječi: »davatelj usluga certificiranja« zamjenjuju se riječima: »pružatelj usluga povjerenja«.
+
+U stavku 6. riječ: »internog« briše se, a riječi: »davatelj usluga certificiranja« zamjenjuju se riječima: »pružatelj usluga povjerenja«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Pružatelj usluga povjerenja mora biti evidentiran na popisu pružatelja usluga povjerenja iz članka 22. stavka 1. Uredbe (EU) br. 910/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ (SL L 257, 28.8.2014.), kao pružatelj usluga povjerenja koji obavlja usluge izdavanja kvalificiranih certifikata za kvalificirani elektronički potpis.«.
+
+#### Članak 11.
+
+U članku 16. stavku 1. iza riječi: »Punoljetna osoba« dodaju se riječi: »i osoba iz članka 3. stavka 3. ovoga Zakona«.
+
+U stavku 2. iza riječi: »Punoljetna osoba« dodaju se riječi: »i osoba iz članka 3. stavka 3. ovoga Zakona«.
+
+#### Članak 12.
+
+U članku 17. stavku 4. riječ: »suspenziju« zamjenjuje se riječju: »opoziv«.
+
+#### Članak 13.
+
+Članak 18. mijenja se i glasi:
+
+»(1) Kod sumnje u zlouporabu certifikata iz članka 2. stavka 1. ovoga Zakona ili certifikata iz članka 2. stavka 8. ovoga Zakona osoba je dužna u najkraćem mogućem roku, prema ugovoru iz članka 9. stavka 3. ovoga Zakona, u najbližoj policijskoj upravi odnosno policijskoj postaji predati zahtjev za opoziv certifikata ili u najbližoj policijskoj upravi odnosno policijskoj postaji ili korištenjem elektroničke usluge iz članka 2. stavka 5. ovoga Zakona predati zahtjev za suspenziju certifikata.
+
+(2) Pružatelj usluga povjerenja iz članka 2. stavka 4. ovoga Zakona zaprimit će zahtjev nakon uspješne prethodne provjere identiteta podnositelja zahtjeva i opozvati odnosno suspendirati certifikate.
+
+(3) Opoziv certifikata je trajan, a certifikat koji je opozvan ne može se reaktivirati.«.
+
+#### Članak 14.
+
+Članak 19. mijenja se i glasi:
+
+»(1) U slučaju prestanka razloga za suspenziju certifikata iz članka 2. stavka 1. ovoga Zakona osoba čiji su certifikati na njezin zahtjev suspendirani može osobno u policijskoj upravi odnosno policijskoj postaji, u roku od osam dana od dana predaje zahtjeva za suspenziju, povući zahtjev za suspenziju certifikata.
+
+(2) Pružatelj usluga povjerenja iz članka 2. stavka 4. ovoga Zakona zaprimit će zahtjev za povlačenje suspenzije certifikata ili nakon uspješne prethodne provjere identiteta podnositelja zahtjeva i povući suspenziju certifikata te će prethodno suspendirani certifikati ponovo postati važeći.
+
+(3) Istekom roka od osam dana od dana suspenzije certifikata certifikati se automatski opozivaju i više se ne mogu koristiti.«.
+
+#### Članak 15.
+
+U članku 23. stavku 1. iza riječi: »osobne podatke« dodaju se riječi: »i biometrijske identifikatore«.
+
+U stavku 2. iza riječi: »osobne podatke« dodaju se riječi: »i biometrijske identifikatore«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Upis i elektronički unos osobnih podataka i biometrijskih identifikatora u obrazac osobne iskaznice moraju se obavljati u sigurnom okruženju, uz poduzimanje tehničkih, kadrovskih i organizacijskih mjera zaštite osobnih podataka i biometrijskih identifikatora koje su potrebne da bi se osobni podaci i biometrijski identifikatori zaštitili od slučajnog gubitka ili uništenja i od nedopuštenog pristupa, nedopuštene promjene, nedopuštenog objavljivanja i svake druge zlouporabe.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Ovlaštena pravna osoba osobne podatke i biometrijske identifikatore iz stavka 1. ovoga članka čuva na visoko siguran način do dana izrade osobne iskaznice, a najdulje 90 dana od dana izdavanja osobne iskaznice, nakon čega ih je dužna izbrisati.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 16.
+
+U članku 25. stavku 1. riječi: »stavka 5.« zamjenjuju se riječima: »stavka 6.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Nadzor nad postupkom izdavanja osobnih iskaznica u području pružanja usluga povjerenja provode državna i druga tijela određena zakonom i drugim propisima kojima se uređuje pružanje usluga povjerenja.«.
+
+#### Članak 17.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj ovlaštena pravna osoba ako ne poduzme tehničke, kadrovske i organizacijske mjere zaštite osobnih podataka i biometrijskih identifikatora koje su potrebne da bi se osobni podaci i biometrijski identifikatori zaštitili od slučajnog gubitka ili uništenja i od nedopuštenog pristupa, nedopuštene promjene, nedopuštenog objavljivanja i svake druge zlouporabe (članak 23. stavak 3.).
+
+(2) Novčanom kaznom iz stavka 1. ovoga članka kaznit će se za prekršaj ovlaštena pravna osoba ako osobne podatke i biometrijske identifikatore koji su joj dostavljeni radi upisa i elektroničkog unosa u obrazac osobne iskaznice čuva duže od 90 dana od dana izdavanja osobne iskaznice, odnosno ako ih nakon tog roka ne izbriše (članak 23. stavak 4.).
+
+(3) Za prekršaje iz ovoga članka kaznit će se novčanom kaznom u iznosu od 5000,00 do 10.000,00 kuna i odgovorna osoba u ovlaštenoj pravnoj osobi.«.
+
+#### Članak 18.
+
+U članku 27. iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2. koja je navršila 16 godina života i ima prebivalište u Republici Hrvatskoj, a sud joj je u izvanparničnom postupku dopustio sklapanje braka te je sklopila brak, a nije ishodila osobnu iskaznicu (članak 3. stavak 3.)«.
+
+Dosadašnja točka 2. postaje točka 3.
+
+U dosadašnjoj točki 3., koja postaje točka 4., riječi: »stavak 3.« zamjenjuju se riječima: »stavak 4.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 19.
+
+(1) Osobne iskaznice izdane na temelju odredaba Zakona o osobnoj iskaznici (»Narodne novine«, br. 62/15. i 42/20.) s rokom važenja od pet godina i osobne iskaznice izdane na temelju odredaba Zakona o osobnoj iskaznici (»Narodne novine«, br. 11/02., 122/02., 31/06. i 68/13.) s rokom važenja od deset godina važe do isteka roka njihova važenja.
+
+(2) Osobne iskaznice koje su osobama s navršenih 65 ili više godina izdane bez roka važenja na temelju odredaba Zakona o osobnoj iskaznici (»Narodne novine«, br. 62/15. i 42/20.) prestaju važiti 3. kolovoza 2031. i osobe su ih dužne zamijeniti osobnim iskaznicama koje se izdaju na temelju odredaba ovoga Zakona.
+
+(3) Iznimno, osobe iz stavka 2. ovoga članka koje će 2. kolovoza 2021. imati 70 ili više godina moći će i nakon 3. kolovoza 2031. nastaviti koristiti svoje osobne iskaznice izdane bez roka važenja na temelju odredaba Zakona o osobnoj iskaznici (»Narodne novine«, br. 62/15. i 42/20.).
+
+(4) Osobe kojima su izdane osobne iskaznice bez roka važenja na temelju odredaba Zakona o osobnoj iskaznici (»Narodne novine«, br. 11/02., 122/02., 31/06. i 68/13.) moći će nastaviti koristiti svoje osobne iskaznice i nakon 3. kolovoza 2031. i nisu ih obvezne zamijeniti osobnim iskaznicama koje se izdaju na temelju odredaba ovoga Zakona.
+
+(5) Osobne iskaznice koje su osobama izdane bez roka važenja na temelju odredaba Zakona o osobnoj iskaznici (»Narodne novine«, br. 53/91., 9/92., 26/93. i 29/94.) prestaju važiti 3. kolovoza 2026. i osobe su ih dužne zamijeniti osobnim iskaznicama koje se izdaju na temelju odredaba ovoga Zakona.
+
+#### Članak 20.
+
+Postupci rješavanja zahtjeva za izdavanje osobnih iskaznica započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o osobnoj iskaznici (»Narodne novine«, br. 62/15. i 42/20.).
+
+#### Članak 21.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 2. kolovoza 2021.
+
+Klasa: 022-03/20-01/93  
+Zagreb, 15. prosinca 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o osobnoj iskaznici (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1693*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OSOBNOJ ISKAZNICI
+
+Proglašavam Zakon o izmjenama Zakona o osobnoj iskaznici, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/91
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OSOBNOJ ISKAZNICI**
+
+### Članak 1.
+
+U Zakonu o osobnoj iskaznici (»Narodne novine«, br. 62/15., 42/20. i 144/20.) u članku 26. stavku 1. riječi: »od 10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 6630,00 eura«.
+
+U stavku 3. riječi: »od 5000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1320,00 eura«.
+
+### Članak 2.
+
+U članku 27. riječi: »od 3000,00 do 4500,00 kuna« zamjenjuju se riječima: »od 390,00 do 590,00 eura«.
+
+### Članak 3.
+
+U članku 28. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 4.
+
+U članku 29. riječi: »od 200,00 kuna« zamjenjuju se riječima: »od 20,00 eura«.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/91
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o osobnoj iskaznici (NN 18/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/18/298*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O  
+IZMJENI ZAKONA O OSOBNOJ ISKAZNICI
+
+Proglašavam Zakon o izmjeni Zakona o osobnoj iskaznici, koji je Hrvatski sabor donio na sjednici 7. veljače 2024.
+
+Klasa: 011-02/24-02/09  
+Urbroj: 71-10-01/1-24-2  
+Zagreb, 8. veljače 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O OSOBNOJ ISKAZNICI**
+
+### Članak 1.
+
+U Zakonu o osobnoj iskaznici (»Narodne novine«, br. 62/15., 42/20., 144/20. i 114/22.) članak 8. mijenja se i glasi:
+
+»(1) Osobnu iskaznicu izdaje policijska uprava odnosno policijska postaja ministarstva nadležnog za unutarnje poslove (u daljnjem tekstu: Ministarstvo).
+
+(2) Zahtjev za izdavanje osobne iskaznice podnosi se policijskoj upravi odnosno policijskoj postaji.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/152  
+Zagreb, 7. veljače 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

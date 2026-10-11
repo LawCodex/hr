@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-07-15
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "82/08"
-amendments: []
+last_amended: 2017-07-14
+status: in_force
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "82/08, 69/17"
+amendments:
+  - "NN 69/2017 (1606) Zakon o izmjenama i dopunama Zakona o ravnopravnosti spolova"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/82/2663"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o ravnopravnosti spolova
 
 > Izvor: Narodne novine, NN 82/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/82/2663).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 69/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -261,3 +265,81 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o ravnopravnosti spolova (NN 69/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1606*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O RAVNOPRAVNOSTI SPOLOVA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o ravnopravnosti spolova, koji je Hrvatski sabor donio na sjednici 30. lipnja 2017.
+
+Klasa: 011-01/17-01/41
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 5. srpnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O RAVNOPRAVNOSTI SPOLOVA**
+
+### Članak 1.
+
+U Zakonu o ravnopravnosti spolova (»Narodne novine«, br. 82/08.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovaj Zakon sadrži odredbe koje su u skladu sa sljedećim aktima Europske unije:
+
+– Direktiva 2006/54/EZ Europskog parlamenta i Vijeća od 5. srpnja 2006. o provedbi načela jednakih mogućnosti i jednakog postupanja prema muškarcima i ženama u pitanjima zapošljavanja i rada (preinaka) (SL L 204, 26. 7. 2006.)
+
+– Direktiva 2010/41/EU Europskog parlamenta i Vijeća od 7. srpnja 2010. o primjeni načela jednakog postupanja prema muškarcima i ženama koji su samozaposleni i stavljanju izvan snage Direktive Vijeća 86/613/EEZ (SL L 180, 15. 7. 2010.)
+
+– Direktiva Vijeća 2004/113/EZ od 13. prosinca 2004. o provedbi načela jednakog postupanja prema muškarcima i ženama u pristupu i nabavi robe, odnosno pružanju usluga (SL L 373/37, 21. 12. 2004.)
+
+– Direktiva Vijeća 2000/78/EZ od 27. studenoga 2000. o uspostavi općeg okvira za jednako postupanje pri zapošljavanju i obavljanju zanimanja (SL L 303, 2. 12. 2000.)
+
+– Direktiva Vijeća 92/85/EEZ od 19. listopada 1992. o uvođenju mjera za poticanje poboljšanja sigurnosti i zdravlja na radu trudnih radnica te radnica koje su nedavno rodile ili doje (deseta pojedinačna direktiva u smislu članka 16. stavka 1. Direktive 89/391/EEZ) (SL L 348, 28. 11. 1992.)
+
+– Direktiva Vijeća 79/7/EEZ od 19. prosinca 1978. o postupnoj provedbi načela jednakog postupanja prema muškarcima i ženama u pitanjima socijalne sigurnosti (SL L 6, 10. 1. 1979.).«.
+
+### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»(1) Nitko ne smije biti doveden u nepovoljniji položaj ili trpjeti štetne posljedice, uključujući biti tužen ili izložen drugim pravnim postupcima zbog toga što je u dobroj vjeri službeno ili neslužbeno prijavio diskriminaciju, nazočio diskriminaciji, odbio nalog za diskriminatornim postupanjem, na bilo koji način svjedočio u postupku zaštite od diskriminacije na temelju spola ili na bilo koji drugi način sudjelovao u bilo kojem postupku vođenom povodom diskriminacije na temelju spola.
+
+(2) Nitko ne smije biti doveden u nepovoljniji položaj ili trpjeti štetne posljedice, uključujući biti tužen ili izložen drugim pravnim postupcima zbog toga što je u dobroj vjeri upozorio javnost na slučaj diskriminacije na temelju spola.«.
+
+### Članak 3.
+
+U članku 6. stavku 1. iza riječi: »društvenom,« dodaju se riječi: »obrazovnom, socijalnom,«, a iza riječi: »žena« stavlja se točka te se brišu zarez i riječi: »obrazovnom, ekonomskom, socijalnom, kulturnom, građanskom i svakom drugom području života.«.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-01/135
+
+Zagreb, 30. lipnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

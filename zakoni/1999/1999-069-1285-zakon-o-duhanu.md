@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-07-05
-last_amended: 2014-02-05
+last_amended: 2019-03-29
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "69/99, 14/14"
+narodne_novine: "69/99, 14/14, 32/19"
 amendments:
   - "NN 14/2014 (287) Zakon o izmjeni Zakona o duhanu"
+  - "NN 32/2019 (651) Zakon o izmjeni Zakona o duhanu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/69/1285"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 69/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/69/1285).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014, NN 32/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -540,3 +541,61 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o duhanu (NN 32/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/32/651*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O DUHANU
+
+Proglašavam Zakon o izmjeni Zakona o duhanu, koji je Hrvatski sabor donio na sjednici 23. ožujka 2019.
+
+Klasa: 011-01/19-01/54
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 27. ožujka 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O DUHANU**
+
+### Članak 1.
+
+U Zakonu o duhanu (»Narodne novine«, br. 69/99. i 14/14.) članak 32. mijenja se i glasi:
+
+»Upravni nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju njega donosi Ministarstvo.
+
+Inspekcijski nadzor propisan ovim Zakonom i propisima donesenim na temelju njega obavljaju poljoprivredni inspektori Državnog inspektorata.
+
+Nadzor nad provedbom ovoga Zakona provodi Ministarstvo financija, Carinska uprava te poljoprivredni inspektori Državnog inspektorata u dijelu proizvodnje duhana.
+
+Protiv rješenja poljoprivrednih inspektora može se u roku od 15 dana od dana dostave rješenja izjaviti žalba.
+
+Žalbu protiv rješenja poljoprivrednog inspektora rješava unutarnja ustrojstvena jedinica za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata.
+
+Protiv drugostupanjskog rješenja unutarnje ustrojstvene jedinice za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata može se pokrenuti upravni spor.«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/27
+
+Zagreb, 23. ožujka 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,14 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-06-18
-last_amended: 2013-10-18
+last_amended: 2024-12-24
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "48/96, 72/13, 127/13"
+narodne_novine: "48/96, 72/13, 127/13, 39/18, 98/19, 152/24"
 amendments:
   - "NN 72/2013 (1437) Zakon o dopunama Zakona o vanjskim poslovima"
   - "NN 127/2013 (2756) Zakon o izmjeni Zakona o vanjskim poslovima"
+  - "NN 39/2018 (744) Zakon o izmjenama i dopunama Zakona o vanjskim poslovima"
+  - "NN 98/2019 (1916) Zakon o izmjenama Zakona o vanjskim poslovima"
+  - "NN 152/2024 (2518) Zakon o izmjenama i dopunama Zakona o vanjskim poslovima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/48/918"
 retrieved: 2026-10-12
 ---
@@ -22,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 48/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/48/918).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 72/2013, NN 127/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 72/2013, NN 127/2013, NN 39/2018, NN 98/2019, NN 152/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -911,3 +914,725 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v.r.
+
+## Zakon o izmjenama i dopunama Zakona o vanjskim poslovima (NN 39/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/39/744*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VANJSKIM POSLOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o vanjskim poslovima, koji je Hrvatski sabor donio na sjednici 20. travnja 2018.
+
+Klasa: 011-01/18-01/43  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 24. travnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VANJSKIM POSLOVIMA**
+
+##### Članak 1.
+
+U Zakonu o vanjskim poslovima (»Narodne novine«, br. 48/96., 72/13. i 127/13.) članak 1.a mijenja se i glasi:
+
+»Ovim se Zakonom u hrvatsko zakonodavstvo preuzima Direktiva Vijeća (EU) 2015/637 od 20. travnja 2015. o mjerama koordinacije i suradnje za olakšavanje pružanja konzularne zaštite građanima Unije bez predstavništva u trećim zemljama te o stavljanju izvan snage Odluke 95/553/EZ (SL L 106, 24. 4. 2015., u daljnjem tekstu: Direktiva).
+
+Ovim se Zakonom osigurava provedba Odluke predstavnika vlada država članica koji su se sastali u okviru Vijeća od 25. lipnja 1996. o uspostavljanju hitne putne isprave (96/409/ZVSP) (SL L 168, 6. 7. 1996.).«.
+
+##### Članak 2.
+
+U članku 8. stavku 1. iza točke 9. dodaje se točka 10. koja glasi:
+
+»10. europski poslovi.«.
+
+##### Članak 3.
+
+Članak 14.a mijenja se i glasi:
+
+»Konzularnu zaštitu i pomoć državljanima Republike Hrvatske koji se nalaze na državnom području treće zemlje, u kojoj Republika Hrvatska nema svoje diplomatsko ili drugo predstavništvo, pružaju diplomatske misije ili konzularni uredi druge države članice Europske unije, u skladu sa svojim nacionalnim zakonodavstvom.
+
+Ministarstvo vanjskih i europskih poslova ili nadležna odnosno teritorijalno najbliža diplomatska misija i konzularni ured Republike Hrvatske mogu od države članice Europske unije koja primi zahtjev za konzularnom zaštitom ili pruža konzularnu zaštitu državljaninu Republike Hrvatske iz stavka 1. ovoga članka zatražiti da se njegov zahtjev ili predmet proslijedi Ministarstvu vanjskih i europskih poslova.«.
+
+##### Članak 4.
+
+Naslov iznad članka 15.a mijenja se i glasi: »Konzularna zaštita građana bez predstavništva«.
+
+Članak 15.a mijenja se i glasi:
+
+»U smislu odredaba ovoga Zakona, građanin bez predstavništva je svaki građanin koji ima državljanstvo druge države članice Europske unije koja nema predstavništvo u trećoj zemlji ili čije predstavništvo, u konkretnom slučaju, svom državljaninu nije u mogućnosti pružiti učinkovitu konzularnu zaštitu.
+
+Građanin koji ima državljanstvo dvije ili više država članica Europske unije smatra se građaninom bez predstavništva ako nijedna od država članica Europske unije čiji je državljanin nema svoje predstavništvo u trećoj zemlji.
+
+Republika Hrvatska i druga država članica Europske unije nema predstavništvo u trećoj zemlji ako u toj zemlji nema stalno uspostavljeno veleposlanstvo ili konzulat ili u njoj nema veleposlanstvo, konzulat ili počasnog konzula koji bi u pojedinačnom predmetu mogao pružiti konzularnu zaštitu.«.
+
+##### Članak 5.
+
+Iza članka 15.a dodaju se članci 15.b, 15.c, 15.d, 15.e, 15.f, 15.g, 15.h, naslovi iznad članaka i članci 15.i, 15.j, 15.k, članci 15.l, 15.m, 15.n i 15.o koji glase:
+
+»Članak 15.b
+
+Diplomatske misije i konzularni uredi Republike Hrvatske pružaju konzularnu zaštitu građanima bez predstavništva pod istim uvjetima kao državljanima Republike Hrvatske u obavljanju sljedećih konzularnih funkcija:
+
+– pomoć u slučaju uhićenja ili pritvora,
+
+– pomoć žrtvi kaznenog djela,
+
+– pomoć u slučaju teške nesreće ili teške bolesti,
+
+– pomoć kod smrtnog slučaja,
+
+– podrška i repatrijacija u hitnim slučajevima,
+
+– pomoć u slučaju potrebe za hitnom putnom ispravom, kako je predviđeno u Odluci 96/409/ZVSP predstavnika vlada država članica na sastanku Vijeća 25. lipnja 1996. o uspostavi hitne putne isprave (SL L 168, 6. 7. 1996.) i
+
+– u drugim slučajevima.
+
+##### Članak 15.c
+
+Identitet podnositelja zahtjeva za konzularnom zaštitom utvrđuje se na osnovi putovnice ili osobne iskaznice.
+
+Ako podnositelj zahtjeva ne posjeduje ispravu iz stavka 1. ovoga članka, identitet se može utvrditi i na drugi način, uključujući provjeru putem diplomatskih misija i konzularnih ureda države članice Europske unije za koju podnositelj zahtjeva tvrdi da je njezin državljanin.
+
+##### Članak 15.d
+
+Diplomatske misije i konzularni uredi Republike Hrvatske kojima je građanin bez predstavništva podnio zahtjev za konzularnom zaštitom ili su obaviještene da se građanin bez predstavništva nalazi u izvanrednoj situaciji bez odgode se savjetuju s ministarstvom nadležnim za vanjske poslove ili nadležnim veleposlanstvom ili konzulatom države članice državljanstva građanina te im dostavljaju sve relevantne informacije s kojima raspolažu.
+
+Savjetovanje iz stavka 1. ovoga članka odvija se prije pružanja pomoći, osim u slučajevima iznimne hitnosti.
+
+Diplomatske misije i konzularni uredi Republike Hrvatske nisu nadležni za komunikaciju s članovima obitelji ili drugim fizičkim ili pravnim osobama s kojima je povezan građanin bez predstavništva.
+
+Ministarstvo vanjskih i europskih poslova obavještava Europsku službu za vanjsko djelovanje (u daljnjem tekstu: ESVD) putem njezine sigurne internetske stranice o osobama za kontakt službe vanjskih poslova Republike Hrvatske kojima se svojim zahtjevima i zamolbama mogu obratiti druge države članice Europske unije.
+
+##### Članak 15.e
+
+Građani bez predstavništva imaju pravo tražiti zaštitu od veleposlanstva ili konzulata bilo koje države članice Europske unije.
+
+Ministarstvo vanjskih i europskih poslova može s nadležnim tijelima drugih država članica Europske unije sklapati provedbene dogovore o pružanju konzularne zaštite u trećim zemljama građanima bez predstavništva.
+
+Ministarstvo vanjskih i europskih poslova o sklopljenim provedbenim dogovorima iz stavka 2. ovoga članka koji se odnose na državljane Republike Hrvatske obavještava Europsku komisiju i ESVD, a obavijest o sklopljenom provedbenom dogovoru se objavljuje na javnoj internetskoj stranici Ministarstva vanjskih i europskih poslova.
+
+##### Članak 15.f
+
+Ako država članica državljanstva građanina bez predstavništva, koji se obratio zahtjevom za konzularnom zaštitom diplomatskoj misiji ili konzularnom uredu Republike Hrvatske, ima sklopljen provedbeni dogovor iz članka 15.e ovoga Zakona s drugom državom članicom Europske unije, diplomatska misija ili konzularni ured Republike Hrvatske će građanina bez predstavništva uputiti na veleposlanstvo ili konzulat nadležan temeljem sklopljenog provedbenog dogovora, osim ako bi to ugrozilo njegovu konzularnu zaštitu.
+
+##### Članak 15.g
+
+Država članica Europske unije čiji je državljanin građanin bez predstavništva može od diplomatske misije i konzularnog ureda Republike Hrvatske, od koje građanin bez predstavništva zatraži ili primi konzularnu zaštitu, zatražiti da joj se proslijedi zahtjev ili predmet građanina kako bi mu pružila konzularnu zaštitu u skladu sa svojim zakonodavstvom ili praksom.
+
+Diplomatska misija i konzularni ured Republike Hrvatske će udovoljiti traženju države članice državljanstva iz stavka 1. ovoga članka kada ona potvrdi da građaninu bez predstavništva pruža konzularnu zaštitu.
+
+##### Članak 15.h
+
+Diplomatske misije i konzularni uredi Republike Hrvatske surađuju s diplomatskim misijama i konzularnim uredima drugih država članica Europske unije i delegacijama Europske unije kako bi se osigurala zaštita državljana Republike Hrvatske i građana bez predstavništva u skladu s odredbama ovoga Zakona.
+
+Na zahtjev ministarstva nadležnog za vanjske poslove odnosno diplomatske misije i konzularnog ureda države članice Europske unije koja pruža konzularnu pomoć i zaštitu državljaninu Republike Hrvatske građaninu bez predstavništva, Ministarstvo vanjskih i europskih poslova odnosno diplomatska misija i konzularni ured Republike Hrvatske će dostaviti sve značajne informacije o predmetu.
+
+Diplomatske misije i konzularni uredi Republike Hrvatske djeluju u okviru lokalne konzularne suradnje, a što uključuje razmjenu informacija o pitanjima značajnim za pružanje konzularne pomoći i zaštite državljanima Republike Hrvatske i građanima bez predstavništva.
+
+*Konzularna zaštita članova obitelji državljana Republike Hrvatske i članova obitelji građana bez predstavništva*
+
+##### Članak 15.i
+
+Članovima obitelji državljana Republike Hrvatske koji su državljani trećih zemalja diplomatske misije i konzularni uredi Republike Hrvatske pružaju konzularnu zaštitu pod sljedećim uvjetima:
+
+– ako su u pratnji državljana Republike Hrvatske,
+
+– ako se zateknu u kriznoj situaciji.
+
+Diplomatske misije i konzularni uredi Republike Hrvatske pružaju konzularnu zaštitu članovima obitelji koji nisu građani Europske unije, a koji su u pratnji građana bez predstavništva u trećoj zemlji, u istom opsegu i pod istim uvjetima kao što bi pružili konzularnu zaštitu članovima obitelji državljana Republike Hrvatske koji nisu građani Europske unije.
+
+Identitet članova obitelji građana bez predstavništva i obiteljska veza može se utvrditi na bilo koji način, uključujući i provjeru putem diplomatskih misija i konzularnih ureda države članice Europske unije čiji je državljanin građanin bez predstavništva.
+
+*Pripravnost za kriznu situaciju i suradnja u kriznoj situaciji*
+
+##### Članak 15.j
+
+Diplomatske misije i konzularni uredi Republike Hrvatske sudjeluju na lokalnoj razini u izradi planova pripravnosti za kriznu situaciju i suradnju u kriznim situacijama, vodeći računa o državljanima Republike Hrvatske i građanima bez predstavništva.
+
+Predstavništva iz stavka 1. ovog članka surađuju s predstavništvima drugih država članica Europske unije u trećoj zemlji i delegacijom Europske unije.
+
+U slučaju krizne situacije Ministarstvo vanjskih i europskih poslova surađuje s ESVD-om i drugim državama članicama Europske unije, kako bi se osigurala učinkovita pomoć za državljane Republike Hrvatske i građane bez predstavništva.
+
+Suradnja tijela iz stavaka 1., 2. i 3. ovoga članka obuhvaća i razmjenu podataka relevantnih za pružanje konzularne pomoći i zaštite u kriznim situacijama.
+
+U slučaju krizne situacije u trećoj zemlji u kojoj Republika Hrvatska ima ulogu vodeće države članice Europske unije ili u kojoj koordinira pružanjem pomoći građanima bez predstavništva, Ministarstvo vanjskih i europskih poslova može tražiti podršku odgovarajućih instrumenata, kao što su strukture za upravljanje kriznim situacijama ESVD-a i Mehanizma Unije za civilnu zaštitu.
+
+U smislu odredbe stavka 5. ovoga članka, vodeća država članica Europske unije je ona koja u trećoj zemlji preuzima glavnu ulogu u pružanju konzularne pomoći i zaštite građanima Europske unije i koordinira aktivnosti drugih država članica Europske unije u kriznim situacijama.
+
+*Financijski postupci*
+
+##### Članak 15.k
+
+U slučajevima kada veleposlanstvo ili konzulat druge države članice Europske unije pruži konzularnu pomoć i zaštitu državljaninu Republike Hrvatske koji je građanin bez predstavništva, on se, koristeći se Obrascem iz Priloga I. ovoga Zakona, obvezuje da će Republici Hrvatskoj nadoknaditi trošak pružene konzularne zaštite.
+
+Država članica Europske unije koja pruža pomoć državljaninu Republike Hrvatske iz stavka 1. ovog članka može tražiti naknadu samo onih troškova koje bi pod istim uvjetima snosili njezini državljani.
+
+Država članica Europske unije iz stavka 2. ovoga članka može tražiti diplomatskim putem ili preko sigurne internetske stranice ESVD-a, koristeći se pritom Obrascem iz Priloga II. ovoga Zakona, od Ministarstva vanjskih i europskih poslova naknadu troškova pružene konzularne zaštite.
+
+Ministarstvo vanjskih i europskih poslova će državi članici Europske unije iz stavka 3. ovog članka nadoknaditi troškove pružene konzularne zaštite u razumnom roku, ali ne duljem od 12 mjeseci.
+
+Ministarstvo vanjskih i europskih poslova može, sukladno propisima koji uređuju naplatu potraživanja, od državljanina Republike Hrvatske tražiti naknadu troškova pružene konzularne pomoći i zaštite.
+
+Obrazac iz stavka 1. ovog članka ima snagu ovršne isprave.
+
+##### Članak 15.l
+
+Diplomatske misije i konzularni uredi Republike Hrvatske će od građanina bez predstavništva kojem pružaju konzularnu pomoć i zaštitu zatražiti nadoknadu onih troškova za pruženu pomoć i zaštitu koje bi u obavljanju iste konzularne radnje tražili od državljanina Republike Hrvatske.
+
+Ako građanin bez predstavništva nije u mogućnosti nadoknaditi troškove iz stavka 1. ovog članka, dužan je potpisati Obrazac iz Priloga I. ovoga Zakona, kojim se obvezuje nadoknaditi troškove konzularne zaštite državi članici državljanstva.
+
+Obrazac iz Priloga I. ovoga Zakona diplomatske misije i konzularni uredi Republike Hrvatske dostavljaju Ministarstvu vanjskih i europskih poslova.
+
+Ministarstvo vanjskih i europskih poslova može od države članice državljanstva građanina iz stavka 1. ovog članka zatražiti nadoknadu troškova pružene pomoći i zaštite, koristeći se pritom Obrascem iz Priloga II. ovoga Zakona.
+
+##### Članak 15.m
+
+Država članica Europske unije, koja je u kriznoj situaciji pružila pomoć državljaninu Republike Hrvatske koji je građanin bez predstavništva, može zatražiti naknadu troškova za pruženu pomoć od Ministarstva vanjskih i europskih poslova.
+
+Ministarstvo vanjskih i europskih poslova je dužno nadoknaditi troškove državi članici Europske unije iz stavka 1. ovoga članka i u slučajevima kada državljanin Republike Hrvatske nije potpisao obrazac iz članka 15.k ovoga Zakona.
+
+Ministarstvo vanjskih i europskih poslova može, sukladno propisima koji uređuju naplatu potraživanja, od državljanina Republike Hrvatske tražiti naknadu troškova pružene konzularne pomoći i zaštite i u slučajevima iz stavka 2. ovoga članka.
+
+##### Članak 15.n
+
+Diplomatske misije i konzularni uredi Republike Hrvatske koji u kriznoj situaciji pruže pomoć građaninu bez predstavništva, o troškovima pružene pomoći i zaštite obavještavaju Ministarstvo vanjskih i europskih poslova.
+
+Ministarstvo vanjskih i europskih poslova može zatražiti naknadu troškova iz stavka 1. ovoga članka od ministarstva nadležnog za vanjske poslove države članice državljanstva građanina bez predstavništva.
+
+Troškove iz stavka 2. ovoga članka Ministarstvo vanjskih i europskih poslova može zatražiti i ako građanin bez predstavništva nije potpisao obrazac iz članka 15.l ovog Zakona.
+
+U slučajevima iz stavka 3. ovoga članka naknada troškova za pruženu konzularnu pomoć može se zatražiti na razmjernoj osnovi, dijeljenjem ukupne vrijednosti stvarnih troškova s brojem građana bez predstavništva kojima je pružena pomoć.
+
+##### Članak 15.o
+
+Ministar vanjskih i europskih poslova donijet će pravilnik kojim će propisati:
+
+– sadržaj isprave iz članka 14.b ovog Zakona kojom se državljanin Republike Hrvatske obvezuje na povrat pozajmice,
+
+– uvjete na temelju kojih se odlučuje da se od državljanina Republike Hrvatske, u skladu s člankom 15.k stavkom 5. i člankom 15.m stavkom 3. ovog Zakona, neće tražiti naknada troškova pružene konzularne pomoći i zaštite,
+
+– uvjete na temelju kojih se odlučuje da se od druge države članice Europske unije, u skladu s člankom 15.l stavkom 4. i člankom 15.n stavkom 2. ovog Zakona, neće tražiti naknada troškova pružene konzularne zaštite i pomoći,
+
+– vrstu i sadržaj podataka koje diplomatska misija i konzularni ured Republike Hrvatske i Ministarstvo vanjskih i europskih poslova razmjenjuje s drugim državama članicama Europske unije i delegacijama Europske unije,
+
+– sadržaj i način vođenja evidencije o građanima bez predstavništva kojima su konzularnu pomoć i zaštitu pružile diplomatske misije i konzularni uredi Republike Hrvatske,
+
+– sadržaj i način vođenja evidencije o državljanima Republike Hrvatske kojima su veleposlanstva i konzulati drugih država članica Europske unije pružili konzularnu pomoć i zaštitu u skladu s odredbama ovog Zakona.
+
+Ministarstvo vanjskih i europskih poslova pruža Europskoj komisiji sve značajne informacije o provedbi ovoga Zakona, u dijelu u kojem se odnosi na pružanje konzularne pomoći i zaštite građanima bez predstavništva.«.
+
+##### Članak 6.
+
+U članku 29. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+##### Članak 7.
+
+U članku 61. stavku 1. iza riječi: »Bračnom drugu« dodaju se riječi: »i životnom partneru«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Vrijeme boravka u inozemstvu osobe iz stavka 1. ovoga članka priznaje se u staž osiguranja koji se izjednačuje s radnim stažom.«.
+
+##### Članak 8.
+
+U članku 62. stavku 1. riječi: »Osobi iz članka 61. ovoga Zakona, koja je prijavljena kao nezaposlena« zamjenjuju se riječima: »Bračni drug i životni partner osobe iz članka 35. stavka 1. i članka 36. ovoga Zakona koji je prijavljen kao nezaposlen«.
+
+##### Članak 9.
+
+U članku 63. stavak 1. mijenja se i glasi:
+
+»Namještenici u službi vanjskih poslova obavljaju pomoćno-tehničke poslove«.
+
+##### Članak 10.
+
+U članku 64. stavku 1. iza riječi: »primjenjuju i na« dodaju se riječi: »državne službenike koji nisu profesionalni ili ugovorni diplomati i«.
+
+##### Članak 11.
+
+Obrasci iz Priloga I. i II. Direktive nalaze se u Prilogu ovoga Zakona i njegov su sastavni dio.
+
+##### Članak 12.
+
+U cijelom tekstu Zakona riječi: »Ministarstvo vanjskih poslova« i »Ministarstvo« u određenom padežu zamjenjuju se riječima: »Ministarstvo vanjskih i europskih poslova« u odgovarajućem padežu, a riječi: »ministar vanjskih poslova« u određenom padežu zamjenjuju se riječima: »ministar vanjskih i europskih poslova« u odgovarajućem padežu.
+
+##### Članak 13.
+
+Ministar vanjskih i europskih poslova donijet će, u roku od 30 dana od dana stupanja na snagu ovoga Zakona, pravilnik iz članka 15.o dodanog člankom 5. ovoga Zakona.
+
+##### Članak 14.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. svibnja 2018.
+
+Klasa: 022-03/17-01/180
+
+Zagreb, 20. travnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+#### PRILOG I.
+
+### A. Standardni obrazac za obvezu isplate troškova konzularne zaštite u slučaju financijske pomoći
+
+### OBVEZA ISPLATE TROŠKOVA KONZULARNE ZAŠTITE — (FINANCIJSKA POMOĆ) – (članak 14. stavak 1. Direktive (EU) 2015/637)
+
+Ja, (g./gđa) (puno ime, velikim tiskanim slovima)
+
+…………………………………………………………………………
+
+imatelj(-ica) putovnice br. ……………... izdane u …………………
+
+potvrđujem da sam od veleposlanstva/konzulata …………………..
+
+…….................................……. u …………………………………….
+
+primio(-la) iznos od ………………….........................................…….
+
+kao predujam u svrhu ……………………………………………......
+
+……………….......................... (uključujući sve primjenjive naknade)
+
+te/ili se obvezujem i obećavam da ću na zahtjev ministarstvu vanjskih poslova/vladi [država članica državljanstva] ……………......….
+
+u skladu s nacionalnim pravom te države članice isplatiti protuvrijednost navedenog iznosa ili protuvrijednost svih troškova koji su uplaćeni za moj račun ili su mi dani kao predujam, uključujući troškove člana(-ova) moje obitelji koji je/su u mojoj pratnji, u (valuta) …………………………………………………………………………
+
+prema tečaju koji je važeći na dan na koji je isplaćen predujam ili na koji su plaćeni troškovi.
+
+Moja adresa (*) (velikim tiskanim slovima) (zemlja) …………………
+
+je: ………………………………………………………………………
+
+…………………………………………………………………………
+
+…………………………………………………………………………
+
+…………………………………………………………………………
+
+DATUM ……………………………... POTPIS …………………….
+
+### B. Standardni obrazac za obvezu isplate troškova konzularne zaštite u slučaju repatrijacije
+
+### OBVEZA ISPLATE TROŠKOVA KONZULARNE ZAŠTITE
+
+### (REPATRIJACIJA) – (članak 14. stavak 1. Direktive (EU) 2015/637)
+
+Ja, (g./gđa) (puno ime, velikim tiskanim slovima)
+
+…………………………………………………………………………
+
+rođen(-a) u (grad) …………………… u (zemlja) ……………………
+
+(datum) ………………………………………………………………..
+
+imatelj(-ica) putovnice br. ……………… izdane u ………………….
+
+dana ………………… i osobne iskaznice br. ……………………….
+
+te s brojem socijalnog osiguranja i nadležnim tijelom (ako je to primjenjivo/prema potrebi)
+
+…………………………………………………………………………
+
+obvezujem se da ću na zahtjev isplatiti vladi
+
+…………………………………………………………………………
+
+u skladu s nacionalnim pravom te države članice protuvrijednost svih troškova koji su uplaćeni za moj račun ili koje mi je kao predujam uplatio konzularni službenik vlade …………………………………… u ……………………………………..
+
+u svrhu repatrijacije ili u vezi s repatrijacijom, mene osobno i članova moje obitelji koji su u mojoj pratnji, u ……………………………
+
+te da ću platiti sve odgovarajuće konzularne naknade u vezi s repatrijacijom.
+
+To su:
+
+| i. (**) | Troškovi prijevoza |
+|---|---|
+|  | Troškovi boravka |
+|  | Razni troškovi |
+|  | UMANJENO za moj doprinos |
+|  | KONZULARNE NAKNADE: |
+|  | Naknada za repatrijaciju |
+|  | Naknada za pružene usluge |
+|  | Naknada za putovnicu/žurnost |
+|  | (… …….sati po tarifi od ……………. po satu) |
+| ii. (**) | Svi iznosi koji su uplaćeni za moj račun u svrhu repatrijacije, ili u vezi s repatrijacijom, mene osobno i članova moje obitelji koji su u mojoj pratnji, a koje u trenutku mojeg potpisivanja ove obveze isplate nije moguće utvrditi. |
+
+Moja adresa (***) (velikim tiskanim slovima) (zemlja) ………………..
+
+je: ………………………………………………………………………
+
+…………………………………………………………………………
+
+…………………………………………………………………………
+
+…………………………………………………………………………
+
+DATUM ……………………………... POTPIS …………………….
+
+(*) ako nemate stalnu adresu, molimo navedite adresu za kontakt.
+
+(**) Prekrižiti nepotrebno: konzularni službenik i podnositelj zahtjeva trebali bi pokraj svakog križanja staviti svoje inicijale uz rub stranice.
+
+(***) Ako nemate stalnu adresu, molimo navedite adresu za kontakt.
+
+PRILOG II.
+
+### Obrazac zahtjeva za naknadu troškova
+
+### ZAHTJEV ZA NAKNADU TROŠKOVA — (članak 14. stavci 2. i 3. Direktive (EU) 2015/637)
+
+| 1. | Veleposlanstvo ili konzulat države članice koja podnosi zahtjev |
+|---|---|
+| 2. | Nadležno veleposlanstvo ili konzulat ili ministarstvo vanjskih poslova države članice državljanstva građanina kojemu je pružena pomoć |
+| 3. | Opis događaja |
+|  | (datum, mjesto) |
+| 4. | Podaci o građaninu(-ima) kojemu(-ima) je pružena pomoć (priložiti zasebno) |
+
+| Ime i<br>prezime | Datum i<br>mjesto rođenja | Vrsta i broj putne isprave | Vrsta pružene pomoći | Troškovi |
+|---|---|---|---|---|
+
+5. Ukupni troškovi
+
+6. Bankovni račun za naknadu troškova
+
+7. Prilog: obveza isplate troškova (ako je primjenjivo)
+
+## Zakon o izmjenama Zakona o vanjskim poslovima (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1916*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O VANJSKIM POSLOVIMA
+
+Proglašavam Zakon o izmjenama Zakona o vanjskim poslovima, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/124
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O VANJSKIM POSLOVIMA**
+
+### Članak 1.
+
+U Zakonu o vanjskim poslovima (»Narodne novine«, br. 48/96., 72/13., 127/13. i 39/18.) u članku 20. stavak 2. mijenja se i glasi:
+
+»Ministarstvo vanjskih i europskih poslova može imati jednog ili više državnih tajnika.«.
+
+U stavku 3. riječi: »Zamjenik ministra« zamjenjuju se riječima: »Državni tajnik«.
+
+### Članak 2.
+
+Članak 21. mijenja se i glasi:
+
+»Ministarstvo vanjskih i europskih poslova ima glavnog tajnika Ministarstva.
+
+Glavni tajnik Ministarstva odgovara za svoj rad ministru vanjskih i europskih poslova i Vladi Republike Hrvatske.«.
+
+### Članak 3.
+
+U članku 40. stavku 3. riječi: »tajnika Ministarstva vanjskih i europskih poslova« zamjenjuju se riječima: »glavnog tajnika Ministarstva vanjskih i europskih poslova«, a riječi: »pomoćnika ministra vanjskih i europskih poslova« zamjenjuju se riječima: »ravnatelja upravne organizacije u sastavu Ministarstva«.
+
+### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/119
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o vanjskim poslovima (NN 152/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2518*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VANJSKIM POSLOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o vanjskim poslovima, koji je Hrvatski sabor donio na sjednici 13. prosinca 2024.
+
+Klasa: 011-02/24-02/103
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 17. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VANJSKIM POSLOVIMA**
+
+##### Članak 1.
+
+U Zakonu o vanjskim poslovima (»Narodne novine«, br. 48/96., 72/13.,127/13., 39/18. i 98/19.) članak 1.a mijenja se i glasi:
+
+»Ovim se Zakonom u hrvatsko zakonodavstvo preuzimaju sljedeći akti Europske unije:
+
+– Direktiva Vijeća (EU) 2015/637 od 20. travnja 2015. o mjerama koordinacije i suradnje za olakšavanje pružanja konzularne zaštite građanima Unije bez predstavništva u trećim zemljama te o stavljanju izvan snage Odluke 95/553/EZ (SL L 106, 24. 4. 2015., u daljnjem tekstu: Direktiva o konzularnoj zaštiti),
+
+– Direktiva Vijeća (EU) 2019/997 od 18. lipnja 2019. o uspostavljanju privremene putne isprave EU-a i stavljanju izvan snage Odluke 96/409/ZVSP (SL L 163, 20. 6. 2019., u daljnjem tekstu: Direktiva o privremenoj putnoj ispravi EU-a) i
+
+– Delegirana direktiva Komisije (EU) 2024/1986 od 6. svibnja 2024. o izmjeni Direktive Vijeća (EU) 2019/997 u pogledu strojno čitljive zone privremene putne isprave EU-a (SL L 2024/1986, 16. 7. 2024.).
+
+Obrasci iz priloga I. i II. Direktive o privremenoj putnoj ispravi EU-a sastavni su dio ovoga Zakona, kao prilozi III. i IV.
+
+Provedbene akte Europske komisije donesene na temelju Direktive o privremenoj putnoj ispravi EU-a primjenjuju diplomatske misije i konzularni uredi Republike Hrvatske, odnosno Ministarstvo prilikom zaprimanja i obrade zahtjeva za izdavanje privremene putne isprave EU-a (u daljnjem tekstu: isprava EU-a).«.
+
+##### Članak 2.
+
+U članku 15.b stavku 1. podstavak 6. mijenja se i glasi:
+
+» – pomoć u slučaju potrebe za ispravom EU-a«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Isprava EU-a zaštićena je isprava čiji su sadržaj, oblik, način zaštite i primjena propisani ovim Zakonom i provedbenim aktima Europske komisije. Republika Hrvatska određuje tijelo nadležno za izradu jedinstvenih obrazaca i jedinstvenih naljepnica isprave EU-a te o tome obavještava Europsku komisiju i ostale države članice EU-a.«.
+
+##### Članak 3.
+
+Članak 15.o mijenja se i glasi:
+
+»Isprava EU-a je putna isprava za jedno putovanje koju diplomatske misije i konzularni uredi država članica Europske unije izdaju osobama čije su putne isprave izgubljene, ukradene, uništene ili se ne mogu pribaviti u razumnom roku.
+
+Diplomatske misije i konzularni uredi Republike Hrvatske ispravu iz stavka 1. ovoga članka izdaju sljedećim osobama:
+
+– građaninu bez predstavništva u trećoj zemlji za putovanje u njegovu državu članicu državljanstva ili boravka, kako je građanin zatražio, odnosno iznimno na drugo odredište,
+
+‒ građaninu Europske unije koji nema predstavništvo na državnom području države članice, uključujući prekomorske zemlje i područje iz članka 355. stavka 2. podstavka 1. Ugovora o funkcioniranju EU-a,
+
+– građaninu druge države članice Europske unije koja ima predstavništvo u zemlji u kojoj ti građani žele podnijeti zahtjev za izdavanje isprave EU-a, ako je u tu svrhu sklopljen provedbeni dogovor iz članka 15.e ovoga Zakona,
+
+– članovima obitelji koji nisu građani Europske unije, a koji su u pratnji građana Europske unije koji nemaju predstavništvo u trećoj zemlji ili građana Unije iz podstavaka 1., 2. i 3. ovoga članka ako su ti članovi obitelji osobe sa zakonitim boravkom u nekoj državi članici EU-a,
+
+– drugim osobama kojima je druga država članica u skladu s međunarodnim ili nacionalnim pravom obvezna pružiti zaštitu i koje imaju zakonit boravak u drugoj državi članici.
+
+Isprava EU-a izdaje se s rokom valjanosti potrebnim za dolazak na odredište uz dodatno vrijeme od dva dana, ali rok valjanosti ne može biti dulji od petnaest kalendarskih dana.«.
+
+##### Članak 4.
+
+Iza članka 15.o dodaju se članci 15.p, 15.r, 15.s, 15.t, 15.u i 15.v koji glase:
+
+»Članak 15.p
+
+Diplomatska misija ili konzularni ured Republike Hrvatske koji zaprimi zahtjev za izdavanje isprave EU-a, radi provjere državljanskog statusa i identiteta podnositelja zahtjeva ili primatelja isprave EU-a, najkasnije u roku od dva radna dana od zaprimanja zahtjeva pokreće postupak savjetovanja za osobe iz članka15.o stavka 2. ovoga Zakona:
+
+– podstavka 1., 2. i 3. u skladu s odredbom 15.d stavka 1. ovoga Zakona,
+
+– podstavka 4. s nadležnim tijelima države članice državljanstva građanina Unije u čijoj pratnji putuje te, prema potrebi, države članice boravka člana obitelji,
+
+– podstavka 5. s nadležnim tijelima države članice koja je u skladu s međunarodnim ili nacionalnim pravom u obvezi pružiti zaštitu podnositelju zahtjeva i koja je navedena kao odredišna zemlja na ispravi EU-a.
+
+Podnositelj zahtjeva iz stavka 1. ovoga članka je osoba koja podnosi zahtjev za izdavanje isprave EU-a, a primatelj isprave iz stavka 1. ovoga članka je osoba kojoj se izdaje isprava EU-a.
+
+Radni dan je, u smislu ovoga Zakona, svaki dan osim državnih praznika ili vikenda.
+
+##### Članak 15.r
+
+Nadležno tijelo države članice EU-a s kojim se provodi postupak savjetovanja iz članka 15.p ovoga Zakona diplomatskoj misiji ili konzularnom uredu Republike Hrvatske koji je zaprimio zahtjev za izdavanje isprave EU-a treba:
+
+– najkasnije u roku od tri radna dana od primitka informacija kojima je pokrenut postupak savjetovanja potvrditi državljanski status podnositelja zahtjeva ili obavijestiti da ne može dostaviti traženo i dati procjenu roka u kojem se može očekivati odgovor,
+
+– podnijeti prigovor na izdavanje isprave EU-a te se isprava ne izdaje i država članica državljanstva preuzima odgovornost za pružanje konzularne zaštite svojem građaninu, kojeg o tome obavještava diplomatska misija ili konzularni ured Republike Hrvatske.
+
+Diplomatska misija ili konzularni ured Republike Hrvatske izdat će ispravu EU-a najkasnije u roku od dva radna dana od primitka potvrde nadležnog tijela iz članka 15.p ovoga Zakona o državljanskom statusu i identitetu podnositelja zahtjeva.
+
+Rokovi propisani stavcima 1. i 2. ovoga članka mogu se produljiti u opravdanim slučajevima.
+
+U hitnim situacijama diplomatska misija ili konzularni ured Republike Hrvatske može izdati ispravu EU-a bez prethodnog savjetovanja s državom članicom državljanstva.
+
+Diplomatska misija ili konzularni ured Republike Hrvatske dužan je bez odgode obavijestiti nadležno tijelo države članice iz stavka 4. ovoga članka o izdavanju isprave EU-a i o identitetu osobe kojoj je isprava izdana.
+
+U slučajevima iz članka 15.o stavka 2. podstavka 4. ovoga Zakona diplomatska misija i konzularni ured Republike Hrvatske ne mogu izdati ispravu EU-a bez provođenja postupka savjetovanja s državom članicom državljanstva građanina Unije kojeg se prati te, prema potrebi, državom članicom boravka člana obitelji.
+
+Hitne situacije iz stavka 4. ovoga članka su situacije u kojima je ugrožen život, zdravlje ili dobrobit podnositelja zahtjeva ili primatelja isprave EU-a.
+
+##### Članak 15.s
+
+Hrvatski državljanin, građanin bez predstavništva, čija je putna isprava izgubljena, ukradena, uništena ili se ne može pribaviti u razumnom roku može zahtjev za izdavanje isprave EU-a podnijeti u diplomatskoj misiji ili konzularnom uredu druge države članice EU-a.
+
+Diplomatska misija ili konzularni ured Republike Hrvatske ili Ministarstvo od kojeg predstavništvo druge države članice EU-a zatraži provjeru državljanskog statusa i identiteta hrvatskog državljanina, građanina bez predstavništva, ili osoba iz članka 15.o stavka 2. podstavaka 3., 4. i 5. ovoga Zakona postupa na jedan od načina propisnih člankom 15.r stavkom 1. ovoga Zakona.
+
+##### Članak 15.t
+
+Diplomatska misija ili konzularni ured Republike Hrvatske dužan je presliku ili skenirani oblik izdane isprave EU-a dostaviti državi članici državljanstva podnositelja zahtjeva.
+
+Hrvatski državljanin i osoba iz članka 15.o stavka 2. podstavaka 4. i 5. ovoga Zakona dužni su po dolasku u Republiku Hrvatsku vratiti ispravu EU-a nadležnoj policijskoj upravi odnosno postaji, neovisno o tome je li rok valjanosti isprave istekao. Vraćene isprave EU-a odnosno njihove preslike uništavaju se na siguran način u roku od godinu dana od zaprimanja u nadležnoj policijskoj upravi odnosno postaji.
+
+##### Članak 15.u
+
+Osobni podaci podnositelja zahtjeva za izdavanje isprave EU-a, uključujući prikaz lica ili fotografiju podnositelja zahtjeva, smiju se koristiti samo za provjeru identiteta podnositelja zahtjeva u skladu s postupkom propisanim ovim Zakonom, kao i za tiskanje jedinstvene naljepnice isprave EU-a i za olakšavanje putovanja podnositelja zahtjeva.
+
+Podnositelj zahtjeva iz stavka 1. ovoga članka ima pravo provjeriti osobne podatke sadržane u ispravi EU-a te, prema potrebi, zatražiti izdavanje nove isprave radi unošenja ispravnih podataka.
+
+Isprava EU-a ne sadržava informacije u strojno čitljivom obliku koje nisu navedene i u poljima iz točke 6. Priloga IV.
+
+Ministarstvo vanjskih i europskih poslova zadržava osobne podatke podnositelja zahtjeva za izdavanje isprave EU-a najdulje 180 dana, a osobne podatke hrvatskih državljana kojima je izdana isprava EU-a najdulje dvije godine. Nakon isteka razdoblja zadržavanja osobni podaci podnositelja zahtjeva se brišu.
+
+##### Članak 15.v
+
+Ministar vanjskih i europskih poslova donijet će pravilnik kojim će propisati:
+
+– sadržaj isprave iz članka 14.b ovoga Zakona kojom se državljanin Republike Hrvatske obvezuje na povrat pozajmice,
+
+– uvjete na temelju kojih se odlučuje da se od državljanina Republike Hrvatske, u skladu s člankom 15.k stavkom 5. i člankom 15.m stavkom 3. ovoga Zakona, neće tražiti naknada troškova pružene konzularne pomoći i zaštite,
+
+– uvjete na temelju kojih se odlučuje da se od druge države članice Europske unije, u skladu s člankom 15.l stavkom 4. i člankom 15.n stavkom 2. ovoga Zakona, neće tražiti naknada troškova pružene konzularne zaštite i pomoći,
+
+– vrstu i sadržaj podataka koje diplomatska misija i konzularni ured Republike Hrvatske i Ministarstvo vanjskih i europskih poslova razmjenjuju s drugim državama članicama Europske unije i delegacijama Europske unije,
+
+– sadržaj i način vođenja evidencije o građanima bez predstavništva kojima su konzularnu pomoć i zaštitu pružile diplomatske misije i konzularni uredi Republike Hrvatske,
+
+– sadržaj i način vođenja evidencije o državljanima Republike Hrvatske kojima su veleposlanstva i konzulati drugih država članica Europske unije pružili konzularnu pomoć i zaštitu u skladu s odredbama ovoga Zakona,
+
+– opravdane slučajeve iz članka 15.r stavka 3. ovoga Zakona,
+
+– pravila o ispunjavanju jedinstvene naljepnice isprave EU-a,
+
+– pravila čuvanja praznih jedinstvenih obrazaca i naljepnica isprave EU-a,
+
+– sadržaj i način vođenja evidencija potrebnih za praćenje primjene Direktive o privremenoj putnoj ispravi.
+
+Ministarstvo vanjskih i europskih poslova pruža Europskoj komisiji sve važne informacije o provedbi ovoga Zakona, u dijelu u kojem se odnosi na pružanje konzularne pomoći i zaštite građanima bez predstavništva.«.
+
+##### Članak 5.
+
+Ministar vanjskih i europskih poslova će u roku od 30 dana od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 15.v, koji je dodan člankom 4. ovoga Zakona.
+
+##### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 9. prosinca 2025.
+
+Klasa: 022-02/24-01/137
+
+Zagreb, 13. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+#### PRILOG III.
+
+### JEDINSTVENI OBRAZAC ISPRAVE EU-a
+
+Jedinstveni obrazac isprave EU-a mora biti u skladu sa sljedećim specifikacijama:
+
+1. Format i veličina
+
+Jedinstveni obrazac isprave EU-a trostruko je presavijen (jedan list otisnut s obje strane i presavijen na trećine). Veličina presavijenog obrasca u skladu je s normom ISO/IEC 7810 ID-3.
+
+2. Prva stranica: naslovna stranica
+
+Naslovna stranica jedinstvenog obrasca isprave EU-a sadržava, ovim redoslijedom, riječi »EUROPSKA UNIJA« na svim službenim jezicima Unije i riječi »EMERGENCY TRAVEL DOCUMENT« i »TITRE DE VOYAGE PROVISOIRE«. Na njoj se također nalazi dvanaest zlatnih zvjezdica raspoređenih u krug.
+
+3. Druga stranica: unošenje jedinstvene naljepnice isprave EU-a
+
+Jedinstvena naljepnica isprave EU-a sigurno se unosi na drugu stranicu jedinstvenog obrasca isprave EU-a tako da se spriječi lako uklanjanje. Jedinstvena naljepnica isprave EU-a poravnana je s rubom stranice i unesena na njega. Strojno čitljiva zona naljepnice poravnana je s vanjskim rubom stranice. Otisak pečata tijela koja izdaju ispravu stavlja se na jedinstvenu naljepnicu isprave EU-a tako da seže preko naljepnice na stranicu.
+
+4. Treća i četvrta stranica: informacije
+
+Na trećoj i četvrtoj stranici nalazi se prijevod riječi »Emergency Travel Document« i prijevod teksta jedinstvene naljepnice isprave EU-a na svim službenim jezicima Unije, osim na engleskom i francuskom jeziku. Na njima se nalazi i sljedeći tekst:
+
+»This EU Emergency Travel Document is a travel document issued by a Member State of the European Union for a single journey to the holder’s Member State of nationality or residence or, exceptionally, to another destination. Authorities of non-EU countries are hereby requested to allow the holder to pass freely without hindrance.
+
+Le présent titre de voyage provisoire de l’UE est un titre de voyage délivré par un État membre de l’Union européenne aux fins d’un trajet unique vers l’État membre de nationalité ou de résidence du détenteur, ou, à titre exceptionnel, vers une autre destination. Les autorités des pays tiers sont priées d’autoriser le détenteur du titre de voyage provisoire à circuler sans entraves.«.
+
+5. Peta i šesta stranica: vize i ulazni/izlazni štambilji
+
+Peta i šesta stranica imaju naslov »VISA/VISA« i ostavljene su prazne.
+
+Te su stranice namijenjene za vize i ulazne/izlazne štambilje.
+
+6. Broj jedinstvenog obrasca isprave EU-a
+
+Na jedinstvenom obrascu isprave EU-a prethodno je tiskan sedmeroznamenkasti broj.
+
+PRILOG IV.
+
+### JEDINSTVENA NALJEPNICA ISPRAVE EU-a
+
+Jedinstvena naljepnica isprave EU-a mora biti u skladu sa sljedećim specifikacijama:
+
+Obilježja jedinstvene naljepnice isprave EU-a
+
+1. Jedinstvena naljepnica isprave EU-a sadržava prikaz lica nositelja, otisnut u skladu s visokim sigurnosnim standardima, osim ako se upotrebljava fotografija u skladu s člankom 15.v stavkom 1. podstavkom 8. ovoga Zakona. Prikaz lica ili fotografija su oni upotrijebljeni za svrhe članka 15.p.
+
+2. Jedinstvena naljepnica isprave EU-a sadržava sigurnosne značajke kojima se osigurava dostatna zaštita od krivotvorenja, osobito uzimajući u obzir sigurnosne značajke koje se upotrebljavaju za jedinstveni format za vize.
+
+3. Iste sigurnosne značajke upotrebljavaju se za sve države članice.
+
+4. Na jedinstvenoj naljepnici isprave EU-a nalazi se sljedeće:
+
+(a) pokrata »EU ETD/TVP UE«
+
+(b) riječi »European Union/Union européenne«
+
+(c) troslovna oznaka »EUE«, kako je navedena u Dokumentu 9303 ICAO-a.
+
+5. Jedinstvena naljepnica isprave EU-a sadržava prethodno tiskan vodoravno položen sedmeroznamenkasti broj jedinstvene naljepnice isprave EU-a u crnoj boji. Upotrebljava se posebna vrsta fonta. Ispred tog broja nalazi se dvoslovna oznaka zemlje države članice izdavateljice kako je navedena u Dokumentu 9303 ICAO-a, koja može biti prethodno tiskana ili dodana pri ispunjavanju jedinstvene naljepnice isprave EU-a. U sigurnosne svrhe isti sedmeroznamenkasti broj može se nekoliko puta prethodno tiskati na jedinstvenu naljepnicu isprave EU-a.
+
+Polja za ispunjavanje
+
+6. Jedinstvena naljepnica isprave EU-a sadržava polja za ispunjavanje za sljedeće informacije:
+
+(a) odredišna zemlja i svaka tranzitna zemlja za koju se izdaje isprava EU-a
+
+(b) država članica izdavateljica i lokacija tijela koje izdaje ispravu
+
+(c) datum izdavanja i datum isteka
+
+(d) prezime i ime odnosno imena, državljanstvo, datum rođenja i spol primatelja isprave EU-a
+
+(e) broj jedinstvenog obrasca isprave EU-a u koji se unosi jedinstvena naljepnica isprave EU-a kako je navedeno u točki 6. Priloga III.
+
+7. Natpisi polja za ispunjavanje navedeni su na engleskom i francuskom jeziku te su numerirani.
+
+8. Datumi se pišu kako slijedi: dan se piše upotrebom dviju znamenki, a ako taj dan ima jednu znamenku, prva je znamenka ništica; mjesec se piše upotrebom dviju znamenki, a ako taj mjesec ima jednu znamenku, prva će znamenka biti ništica; godina se piše upotrebom četiriju znamenki. Nakon dana i mjeseca slijedi praznina. Na primjer: 20 01 2018 = 20. siječnja 2018.
+
+9. Jedinstvena naljepnica isprave EU-a sadržava polje »Napomene« u koje tijelo koje izdaje ispravu unosi sve potrebne dodatne informacije, primjerice vrstu i broj zamijenjene isprave.
+
+Strojno čitljive informacije
+
+10. Jedinstvena naljepnica isprave EU-a sadržava relevantne strojno čitljive informacije u skladu s Dokumentom 9303 ICAO-a radi olakšavanja nadzora vanjskih granica. Velika tiskana slova »PU« rabe se kao prva dva znaka strojno čitljive zone kako bi se dokument označio kao privremena putna isprava EU-a. Strojno čitljiva zona sadržava otisnuti tekst na vidljivom pozadinskom tisku s riječima »Europska unija« na svim službenim jezicima Unije. Taj tekst ne smije utjecati na tehnička obilježja strojno čitljive zone ni na njezinu čitljivost.
+
+11. Ostavlja se prostor za moguće dodavanje običnog 2D crtičnog koda.

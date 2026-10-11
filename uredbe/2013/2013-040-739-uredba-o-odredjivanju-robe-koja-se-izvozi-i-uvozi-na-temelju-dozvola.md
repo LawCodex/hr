@@ -1410,7 +1410,6 @@ TABLICA II.
 Skupina I: KLOROFLUOROUGLJICI
 
 <table><tbody>
-
 <tr>
 <td>Kemijska formula</td>
 <td>Naziv</td>
@@ -1418,7 +1417,6 @@ Skupina I: KLOROFLUOROUGLJICI
 <td>Faktor oštećenja ozonskog sloja<sup>(2)</sup></td>
 <td>Tarifna oznaka</td>
 </tr>
-
 <tr>
 <td>CFCl<sub>3</sub></td>
 <td>CFC-11<br> triklorfluormetan</td>
@@ -1426,7 +1424,6 @@ Skupina I: KLOROFLUOROUGLJICI
 <td>1</td>
 <td>2903 77 10</td>
 </tr>
-
 <tr>
 <td>CF<sub>2</sub>Cl<sub>2</sub></td>
 <td>CFC-12<br> diklordifluormetan</td>
@@ -1434,7 +1431,6 @@ Skupina I: KLOROFLUOROUGLJICI
 <td>1</td>
 <td>2903 77 20</td>
 </tr>
-
 <tr>
 <td rowspan="2">C<sub>2</sub>F<sub>3</sub>Cl<sub>3</sub></td>
 <td>CFC-113<br> 1,1,2-triklor-1,2,2-trifluoretan</td>
@@ -1442,14 +1438,12 @@ Skupina I: KLOROFLUOROUGLJICI
 <td>0,8</td>
 <td>2903 77 30</td>
 </tr>
-
 <tr>
 <td>CFC-113a<br> 1,1,1-triklor-2,2,2-trifluoretan</td>
 <td>354-58-5<br> 206-564-6</td>
 <td>0,8</td>
 <td>2903 77 30</td>
 </tr>
-
 <tr>
 <td rowspan="2">C<sub>2</sub>F<sub>4</sub>Cl<sub>2</sub></td>
 <td>CFC-114<br> 1,2-diklor-1,1,2,2-tetrafluoretan</td>
@@ -1457,14 +1451,12 @@ Skupina I: KLOROFLUOROUGLJICI
 <td>1</td>
 <td>2903 77 40</td>
 </tr>
-
 <tr>
 <td>CFC-114a<br> 1,1-diklor-1,2,2,2-tetrafluoretan</td>
 <td>374-07-2<br> 206-774-8</td>
 <td>1</td>
 <td>2903 77 40</td>
 </tr>
-
 <tr>
 <td>C<sub>2</sub>F<sub>5</sub>Cl</td>
 <td>CFC 115<br> 1-klor-1,1,2,2,2-pentafluoretan</td>
@@ -1567,7 +1559,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>Tarifna oznaka</td>
 </tr></thead>
 <tbody>
-
 <tr>
 <td>CHFCl<sub>2</sub></td>
 <td>HCFC-21<sup>(4)</sup><br> diklorofluorometan</td>
@@ -1575,7 +1566,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,040</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>CHF<sub>2</sub>Cl</td>
 <td>HCFC-22<sup>(4)</sup><br> klorodifluorometan</td>
@@ -1583,7 +1573,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,055</td>
 <td>2903 71 00</td>
 </tr>
-
 <tr>
 <td>CH<sub>2</sub>FCl</td>
 <td>HCFC-31<br> klorofluorometan</td>
@@ -1591,7 +1580,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,020</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>2</sub>HFCl<sub>4</sub></td>
 <td>HCFC-121<br> tetraklorofluoroetan</td>
@@ -1599,7 +1587,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,040</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C2HF2Cl3</td>
 <td>HCFC-122<br> triklorodifluoroetan</td>
@@ -1607,7 +1594,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,080</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C2HF3Cl2</td>
 <td>HCFC-123<sup>(4)</sup><br> diklorotrifluoroetan</td>
@@ -1615,7 +1601,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,020</td>
 <td>2903 72 00</td>
 </tr>
-
 <tr>
 <td>C<sub>2</sub>HF<sub>4</sub>Cl</td>
 <td>HCFC-124<sup>(4)</sup><br> klorotetrafluoroetan</td>
@@ -1623,7 +1608,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,022</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>2</sub>H<sub>2</sub>FCl<sub>3</sub></td>
 <td>HCFC-131<br> triklorofluoroetan</td>
@@ -1631,7 +1615,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,050</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>2</sub>H<sub>2</sub>F<sub>2</sub>Cl<sub>2</sub></td>
 <td>HCFC-132<br> diklorodifluoroetan</td>
@@ -1639,7 +1622,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,050</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>2</sub>H<sub>2</sub>F<sub>3</sub>Cl</td>
 <td>HCFC-133<br> klorotrifluoroetan</td>
@@ -1647,7 +1629,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,060</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>2</sub>H<sub>3</sub>FCl<sub>2</sub></td>
 <td>HCFC-141<br> diklorofluoroetan</td>
@@ -1655,7 +1636,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,070</td>
 <td>2903 73 00</td>
 </tr>
-
 <tr>
 <td>CH<sub>3</sub>CFCl<sub>2</sub></td>
 <td>HCFC-141b<sup>(4)</sup><br> 1,1-dikloro-1-fluoroetan</td>
@@ -1663,7 +1643,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,110</td>
 <td>2903 73 00</td>
 </tr>
-
 <tr>
 <td>C<sub>2</sub>H<sub>3</sub>F<sub>2</sub>Cl</td>
 <td>HCFC-142<br> klorodifluoroetan</td>
@@ -1671,7 +1650,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,070</td>
 <td>2903 74 00</td>
 </tr>
-
 <tr>
 <td>CH<sub>3</sub>CF<sub>2</sub>Cl</td>
 <td>HCFC-142b<sup>(4)</sup><br> 1-kloro-1,1-difluoroetan</td>
@@ -1679,7 +1657,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,065</td>
 <td>2903 74 00</td>
 </tr>
-
 <tr>
 <td>C<sub>2</sub>H<sub>4</sub>FCl</td>
 <td>HCFC-151<br> klorofluoroetan</td>
@@ -1687,7 +1664,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,005</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>HFCl<sub>6</sub></td>
 <td>HCFC-221<br> heksaklorofluoropropan</td>
@@ -1695,7 +1671,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,070</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>HF<sub>2</sub>Cl<sub>5</sub></td>
 <td>HCFC-222<br> pentaklorodifluoropropan</td>
@@ -1703,7 +1678,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,090</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>HF<sub>3</sub>Cl<sub>4</sub></td>
 <td>HCFC-223<br> tetraklorotrifluoropropan</td>
@@ -1711,7 +1685,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,080</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>HF<sub>4</sub>Cl<sub>3</sub></td>
 <td>HCFC-224<br> triklorotetrafluoropropan</td>
@@ -1719,7 +1692,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,090</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>HF<sub>5</sub>Cl<sub>2</sub></td>
 <td>HCFC-225<br> dikloropentafluoropropan</td>
@@ -1727,7 +1699,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,070</td>
 <td>2903 75 00</td>
 </tr>
-
 <tr>
 <td>CF<sub>3</sub>CF<sub>2</sub>CHCl<sub>2</sub></td>
 <td>HCFC-225ca<sup>(4)</sup><br> 3,3-dikloro-1,1,1,2,2-pentafluoropropan</td>
@@ -1735,7 +1706,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,025</td>
 <td>2903 75 00</td>
 </tr>
-
 <tr>
 <td>CF<sub>2</sub>ClCF<sub>2</sub>CHClF</td>
 <td>HCFC-225cb<sup>(4)</sup><br> 1,3-dikloro-1,1,2,2,3-pentafluoropropan</td>
@@ -1743,7 +1713,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,033</td>
 <td>2903 75 00</td>
 </tr>
-
 <tr>
 <td rowspan="2">C<sub>3</sub>HF<sub>6</sub>Cl</td>
 <td>HCFC-226cb<br> kloroheksafluoropropan</td>
@@ -1751,14 +1720,12 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,100</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>HCFC-226da<br> kloroheksafluoropropan</td>
 <td>431-87-8<br> 207-078-7</td>
 <td>0,100</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>2</sub>FCl<sub>5</sub></td>
 <td>HCFC-231<br> pentaklorofluoropropan</td>
@@ -1766,7 +1733,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,090</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>2</sub>F<sub>2</sub>Cl<sub>4</sub></td>
 <td>HCFC-232<br> tetraklorodifluoropropan</td>
@@ -1774,7 +1740,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,100</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>2</sub>F<sub>3</sub>Cl<sub>3</sub></td>
 <td>HCFC-233<br> triklorotrifluoropropan</td>
@@ -1782,7 +1747,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,230</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>2</sub>F<sub>4</sub>Cl<sub>2</sub></td>
 <td>HCFC-234<br> diklorotetrafluoropropan</td>
@@ -1790,7 +1754,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,280</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>2</sub>F<sub>5</sub>Cl</td>
 <td>HCFC-235<br> kloropentafluoropropan</td>
@@ -1798,7 +1761,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,520</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>3</sub>FCl<sub>4</sub></td>
 <td>HCFC-241<br> tetraklorofluoropropan</td>
@@ -1806,7 +1768,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,090</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>3</sub>F<sub>2</sub>Cl<sub>3</sub></td>
 <td>HCFC-242<br> triklorodifluoropropan</td>
@@ -1814,7 +1775,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,130</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>3</sub>F<sub>3</sub>Cl<sub>2</sub></td>
 <td>HCFC-243<br> diklorotrifluoropropan</td>
@@ -1822,7 +1782,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,120</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>3</sub>F<sub>4</sub>Cl</td>
 <td>HCFC-244<br> klorotetrafluoropropan</td>
@@ -1830,7 +1789,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,140</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>4</sub>FCl<sub>3</sub></td>
 <td>HCFC-251<br> triklorofluoropropan</td>
@@ -1838,7 +1796,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,010</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>4</sub>F<sub>2</sub>Cl<sub>2</sub></td>
 <td>HCFC-252<br> Diklorodifluoropropan</td>
@@ -1846,7 +1803,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,040</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>4</sub>F<sub>3</sub>Cl</td>
 <td>HCFC-253<br> klorotrifluoropropan</td>
@@ -1854,7 +1810,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,030</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>5</sub>FCl<sub>2</sub></td>
 <td>HCFC-261<br> Diklorofluoropropan</td>
@@ -1862,7 +1817,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,020</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>5</sub>F<sub>2</sub>Cl</td>
 <td>HCFC-262<br> klorodifluoropropan</td>
@@ -1870,7 +1824,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>0,020</td>
 <td>2903 79 11</td>
 </tr>
-
 <tr>
 <td>C<sub>3</sub>H<sub>6</sub>FCl</td>
 <td>HCFC-271<br> klorofluoropropan</td>
@@ -1879,7 +1832,6 @@ Skupina VIII: KLOROFLUOROUGLJIKOVODICI (HCFC)
 <td>2903 79 11</td>
 </tr>
 </tbody>
-
 </table>
 
 <sup>(1)</sup> CAS broj: jedinstveni identifikacijski broj za određenu kemijsku tvar (Chemical Abstract Service), EINECS: Europski popis postojećih komercijalnih kemijskih tvari.
@@ -1987,264 +1939,220 @@ Napomene:
 <td>CAS broj</td>
 </tr></thead>
 <tbody>
-
 <tr>
 <td>2812 10 99 10</td>
 <td>- - - - arsenov triklorid</td>
 <td>7784-34-1</td>
 </tr>
-
 <tr>
 <td>2903 39 90 10</td>
 <td>- - - - 1,1,3,3,3-pentafluor-2-(trifluormetil)-1-propen (PFIB)</td>
 <td>382-21-8</td>
 </tr>
-
 <tr>
 <td>2905 19 00 10</td>
 <td>- - - 3,3-dimetilbutan-2-ol (pinakolil alkohol)</td>
 <td>464-07-3</td>
 </tr>
-
 <tr>
 <td>2918 19 50</td>
 <td>- - - 2,2-difenil-2-hidroksioctena kiselina (benzilna kiselina)</td>
 <td>76-93-7</td>
 </tr>
-
 <tr>
 <td>2921 19 99 49</td>
 <td>- - - - - N,N-dialkil (metil, etil, n-propil ili izopropil) aminoetil-2-kloridi i njihove protonirane soli, osim onih iz podbroja 2921 19 60</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2921 19 60 41</td>
 <td>- - - - 2-(N,N-diizopropilamino)etil klorid hidroklorid</td>
 <td>4261-68-1</td>
 </tr>
-
 <tr>
 <td>2921 19 60 42</td>
 <td>- - - - 2-(N,N-dimetilamino)etil klorid hidroklorid</td>
 <td>4584-46-7</td>
 </tr>
-
 <tr>
 <td>2921 19 60 43</td>
 <td>- - - - 2-(N,N-dietilamino)etil klorid hidroklorid</td>
 <td>869-24-9</td>
 </tr>
-
 <tr>
 <td>2921 19 99</td>
 <td>- - - ostalo:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2930 90 99 59</td>
 <td>- - - N,N-dialkil (metil, etil, n-propil ili izopropil) aminoetan-2-tioli i odgovarajuće protonirane soli, osim onog iz podbroja 2930 60 00</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2922 19 85 10</td>
 <td>- - - - - N,N-dimetil-aminoetanol i odgovarajuće protonirane soli</td>
 <td>108-01-0</td>
 </tr>
-
 <tr>
 <td>2922 19 85 20</td>
 <td>- - - - - N,N-dietil-aminoetanol i odgovarajuće protonirane soli</td>
 <td>100-37-8</td>
 </tr>
-
 <tr>
 <td>2922 19 30</td>
 <td>- - - 2-(N,N-diizopropilamino)etanol</td>
 <td>96-80-0</td>
 </tr>
-
 <tr>
 <td>2922 19 85 39</td>
 <td>- - - - - ostali</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2929 90 00 10</td>
 <td>- - N,N-dialkil(metil, etil, n-propil ili izopropil) fosforamidni dihalogenidi</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2929 90 00 20</td>
 <td>- - dialkil(metil, etil, n-propil ili izopropil) N,N-dialkil(metil, etil, n-propil ili izopropil) fosforamidati</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2930 90 20</td>
 <td>- - tiodiglikol (INN) (bis(2-hidroksietil)sulfid ili 2,2’-tiodietanol)</td>
 <td>111-48-8</td>
 </tr>
-
 <tr>
 <td>2930 90 99 40</td>
 <td>- - - 0,0-dietil S-[2-(dietilamino)etil] fosforotiolat (amiton) i odgovarajuće alkinirane ili protonirane soli</td>
 <td>78-53-5</td>
 </tr>
-
 <tr>
 <td>2930 90 99 59</td>
 <td>- - - N,N-dialkil (metil, etil, n-propil ili izopropil) aminoetan-2-tioli i odgovarajuće protonirane soli, osim onog iz podbroja 2930 60 00</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2930 90 60</td>
 <td>- - 2-(N,N-dietilamino)etantiol</td>
 <td>100-38-9</td>
 </tr>
-
 <tr>
 <td>2930 90 99</td>
 <td>- - ostali:</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>- - - tvari (kemikalije), osim onih navedenih u Popisu 1 Konvencije, s atomom fosfora na koji je vezana jedna metilna, etilna, n-propilna ili izopropilna skupina, ali ne i daljnji atomi ugljika, osim onih iz podbroja 2931 00 10 ili 2931 00 30:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2931 90 10</td>
 <td>- - dimetil metilfosfonat</td>
 <td>756-79-6</td>
 </tr>
-
 <tr>
 <td>2931 90 30</td>
 <td>- - metilfosfonil diklorid (metilfosfonski diklorid)</td>
 <td>676-97-1</td>
 </tr>
-
 <tr>
 <td>2931 90 90 81</td>
 <td>- - - - fosfonil kiselina, metil-, poliglikol ester</td>
 <td>294675-51-7</td>
 </tr>
-
 <tr>
 <td>2931 90 40 10</td>
 <td>- - - (5-etil-2-metil-2-oksido-1,3,2-dioksafosforinan-5-il)metil metil metilfosfonat</td>
 <td>41203-81-0</td>
 </tr>
-
 <tr>
 <td>2931 90 40 20</td>
 <td>- - - bis[(5-etil-2-metil-2-oksido-1,3,2-dioksafosforinan-5-il)metil]metilfosfonat</td>
 <td>42595-45-9</td>
 </tr>
-
 <tr>
 <td>2931 90 90 84</td>
 <td>- - - - butil metilfosfinat</td>
 <td>6172-80-1</td>
 </tr>
-
 <tr>
 <td>2931 90 90 85</td>
 <td>- - - - metilfosfonos diklorid</td>
 <td>676-83-5</td>
 </tr>
-
 <tr>
 <td>2931 90 40 30</td>
 <td>- - - 2,4,6-tripropil-1,3,5,2,4,6-trioksatrifosfinan 2,4,6-trioksid</td>
 <td>68957-94-8</td>
 </tr>
-
 <tr>
 <td>2931 90 40 40</td>
 <td>- - - dietil etilfosfonat</td>
 <td>78-38-6</td>
 </tr>
-
 <tr>
 <td>2931 90 40 50</td>
 <td>- - - natrijev 3-(trihidroksilil)propil metilfosfonat</td>
 <td>84962-98-1</td>
 </tr>
-
 <tr>
 <td>2931 90 40 60</td>
 <td>- - - dimetil propilfosfonat</td>
 <td>18755-43-6</td>
 </tr>
-
 <tr>
 <td>2930 90 99 61</td>
 <td>- - - - 0-etil-S-fenil etilfosfonotiolotionat (fonofos)</td>
 <td>944-22-9</td>
 </tr>
-
 <tr>
 <td>2930 90 99 69 ili</td>
 <td rowspan="2">- - - - ostale</td>
 <td rowspan="2"></td>
 </tr>
-
 <tr>
 <td>2930 90 99 90</td>
 </tr>
-
 <tr>
 <td>2933 39 99 10</td>
 <td>- - - - 3-kvinuklidinil benzilat (BZ)</td>
 <td>6581-06-2</td>
 </tr>
-
 <tr>
 <td>2933 39 99 20</td>
 <td>- - - - kvinuklidin-3-ol</td>
 <td>1619-34-7</td>
 </tr>
-
 <tr>
 <td>3824 90 97 20</td>
 <td>- - - - - mješavine (binarne i multikomponentne) što sadrže jednu ili više tvari s Popisa 2 Konvencije o kemijskom oružju, u koncentraciji sukladno napomeni, osim onih iz podbroja 2931 00 40 90 ili 3824 90 87 20</td>
 <td></td>
 </tr>
-
 <tr>
 <td>3824 90 87 10</td>
 <td>- - - - - mješavine koje se sastoje uglavnom od dimetil metilfosfonata, oksirana i fosforovog oksida (P2O5)</td>
 <td>70715-06-9</td>
 </tr>
-
 <tr>
 <td>3824 90 87 20</td>
 <td>- - - - - mješavine koje se sastoje uglavnom od (5-etil-2-metil-2-oksido-1,3,2-dioksafosforinan-5-il)metil metil metilfosfonata i bis[(5-etil-2-metil-2-oksido-1,3,2-dioksafosforinan-5-il)metil]metilfosfonata</td>
 <td>170836-68-7</td>
 </tr>
-
 <tr>
 <td>2931 90 40 90</td>
 <td>- - - mješavine koje se sastoje uglavnom od metilfosfonil kiseline i (aminoiminometil)uree (u omjeru 50:50)</td>
 <td>84402-58-4</td>
 </tr>
-
 <tr>
 <td>3824 90 97</td>
 <td>- - - - ostalo:</td>
 <td></td>
 </tr>
 </tbody>
-
 </table>
 
 *Popis 3. Konvencije*

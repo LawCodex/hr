@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-28
+last_amended: 2019-12-27
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "80/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "80/13, 15/18, 14/19, 127/19"
+amendments:
+  - "NN 15/2018 (316) Zakon o izmjenama i dopunama Zakona o zaštiti prirode"
+  - "NN 14/2019 (276) Zakon o izmjenama Zakona o zaštiti prirode"
+  - "NN 127/2019 (2559) Zakon o izmjenama Zakona o zaštiti prirode"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1658"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Zakon o zaštiti prirode
 
 > Izvor: Narodne novine, NN 80/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1658).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 15/2018, NN 14/2019, NN 127/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3264,3 +3270,2511 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o zaštiti prirode (NN 15/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/15/316*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PRIRODE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o zaštiti prirode, koji je Hrvatski sabor donio na sjednici 2. veljače 2018.
+
+Klasa: 011-01/18-01/15
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 8. veljače 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI PRIRODE**
+
+#### Članak 1.
+
+U Zakonu o zaštiti prirode (»Narodne novine«, br. 80/13.) članak 2. mijenja se i glasi:
+
+»Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+
+– Direktiva Vijeća 92/43/EEZ od 21. svibnja 1992. o očuvanju prirodnih staništa i divlje faune i flore (SL L 206, 22. 7. 1992.), kako je zadnje izmijenjena i dopunjena Direktivom Vijeća 2013/17/EU od 13. svibnja 2013. o prilagodbi određenih direktiva u području okoliša zbog pristupanja Republike Hrvatske (SL L 158, 10. 6. 2013.),
+
+– Direktiva 2009/147/EZ Europskog parlamenta i Vijeća od 30. studenog 2009. o očuvanju divljih ptica (kodificirana verzija) (SL L 20, 26. 1. 2010.), kako je zadnje izmijenjena i dopunjena Direktivom Vijeća 2013/17/EU od 13. svibnja 2013. o prilagodbi određenih direktiva u području okoliša zbog pristupanja Republike Hrvatske (SL L 158, 10. 6. 2013.).«.
+
+#### Članak 2.
+
+U članku 4. stavku 1. dodaje se novi podstavak 1. koji glasi:
+
+» – očuvati i/ili obnoviti bioraznolikost očuvanjem prirodnih stanišnih tipova, divljih vrsta i njihovih staništa, uključujući i sve vrste ptica koje se prirodno pojavljuju na teritoriju Republike Hrvatske, kao i ptičjih jaja i gnijezda, uspostavom odgovarajućeg sustava zaštite, upravljanja i nadzora,«.
+
+U dosadašnjem podstavku 1., koji postaje podstavak 2., riječi: »i/ili obnoviti bioraznolikost,« brišu se.
+
+Dosadašnji podstavci 2. – 6. postaju podstavci 3. – 7.
+
+#### Članak 3.
+
+U članku 6. stavku 2. podstavci 2. i 3. mijenjaju se i glase:
+
+» – provedbom mjera zaštite prirode, a osobito mjera koje osiguravaju održavanje ili povrat u povoljno stanje očuvanosti, prirodnih stanišnih tipova i divljih vrsta od interesa za Europsku uniju, osim ptica, i njihovih staništa, koje uzimaju u obzir gospodarske, socijalne i kulturne potrebe te regionalne i lokalne karakteristike,«
+
+» – provedbom mjera koje osiguravaju održavanje ili prilagodbu svih vrsta ptica koje se prirodno pojavljuju na teritoriju Republike Hrvatske, kao i njihovih jaja i gnijezda, te staništa na razini koja odgovara posebnim ekološkim, znanstvenim i kulturološkim zahtjevima, istodobno uzimajući u obzir gospodarske i rekreacijske zahtjeve,«.
+
+Podstavak 8. mijenja se i glasi:
+
+» – poticanjem znanstvenog i stručnog rada u području zaštite prirode, uzimajući u obzir prekograničnu suradnju u istraživanju, osobito u svrhu očuvanja obilježja krajobraza iz članka 7. stavka 1. ovoga Zakona i očuvanja područja ekološke mreže iz članka 54. ovoga Zakona, zatim u svrhu očuvanja, upravljanja i održivog korištenja divljih vrsta koje se prirodno pojavljuju na teritoriju Republike Hrvatske, kao i u svrhu provođenja aktivnosti praćenja stanja (monitoringa) iz članka 195. ovoga Zakona,«.
+
+#### Članak 4.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Odredbe ovoga Zakona ne primjenjuju se prilikom zaštite i spašavanja ljudi, životinja, materijalnih i kulturnih dobara i okoliša u velikim nesrećama i katastrofama te prilikom otklanjanja posljedica terorizma i ratnih razaranja, neizbježne i neotklonjive prirodne pojave, u slučajevima žurne i neodgodive provedbe mjera i aktivnosti civilne zaštite i mjera obrane od poplava sukladno posebnim propisima kojima se uređuje sustav civilne zaštite i sustav obrane od poplava.
+
+(2) Odredba stavka 1. ovoga članka primjenjuje se od dana proglašavanja velike nesreće, odnosno katastrofe te redovite i izvanredne mjere od obrane od poplava, do dana stupanja na snagu odluke o prestanku provođenja mjera i aktivnosti sustava civilne zaštite ili mjera obrane od poplava u sprječavanju i otklanjanju posljedica velike nesreće, odnosno katastrofe ili izvanredne, neizbježne i neotklonjive prirodne pojave.
+
+(3) Hrvatska agencija za okoliš i prirodu (u daljnjem tekstu: Agencija) dužna je u roku od 90 dana od dana stupanja na snagu odluke o prestanku provođenja mjera i aktivnosti sustava civilne zaštite ili mjera obrane od poplava u otklanjanju posljedica velike nesreće, odnosno katastrofe ili izvanredne, neizbježne i neotklonjive prirodne pojave utvrditi utjecaj provedbe aktivnosti iz stavka 1. ovoga članka na, ciljeve očuvanja i cjelovitost područja ekološke mreže, rijetke i ugrožene stanišne tipove, strogo zaštićene vrste i njihova staništa, kao i zaštićena područja te o tome izvijestiti Ministarstvo, nadležnu javnu ustanovu za upravljanje zaštićenim područjem i jedinicu lokalne i/ili područne (regionalne) samouprave i/ili Grada Zagreba.«.
+
+#### Članak 5.
+
+Članak 9. mijenja se i glasi:
+
+»(1) Pojedini pojmovi u smislu ovoga Zakona imaju sljedeće značenje:
+
+*1. biološki materijal znači svaki materijal koji sadržava genetsku informaciju i koji se može razmnožavati sam ili se može razmnožavati u biološkom sustavu (npr. mikroorganizmi, molekule i fragmenti deoksiribonukleinske kiseline (DNA), virusi, tkivne i stanične kulture, sjeme itd.),*
+
+*2. bioraznolikost je sveukupnost svih živih organizama koji su sastavni dijelovi ekosustava, a uključuje raznolikost unutar vrsta, između vrsta, životnih zajednica te raznolikost ekosustava,*
+
+*3. crveni popis je popis divljih vrsta čiji je stupanj ugroženosti procijenjen prema međunarodno prihvaćenim kriterijima,*
+
+*4. divlje vrste su one vrste koje nisu nastale pod utjecajem čovjeka kao posljedica umjetnog odabiranja (odabir i uzgoj u svrhu dobivanja pasmina udomaćenih životinja i sorti kultiviranih biljaka) ili genetske modifikacije nasljednog materijala tehnikama moderne biotehnologije,*
+
+*5. divlje vrste od interesa za Europsku uniju su one divlje vrste za koje na teritoriju Europske unije vrijedi da su:*
+
+– ugrožene, osim onih vrsta kojima je prirodni areal rubni na tom teritoriju i koje nisu ugrožene ili osjetljive u zapadnoj palearktičkoj regiji,
+
+– osjetljive, odnosno smatra se vjerojatnim da će u skoroj budućnosti potpasti pod kategoriju ugroženih vrsta, ako uzročni čimbenici nastave djelovati,
+
+– rijetke, odnosno s malim populacijama koje trenutačno nisu ugrožene ili osjetljive, ali rizik za to postoji; te vrste žive u ograničenim geografskim područjima ili su u manjem broju raspršene na širem području,
+
+– endemske i zahtijevaju posebnu pozornost zbog posebne prirode njihovih staništa i/ili mogućeg utjecaja njihova iskorištavanja na njihovo stanište i/ili mogućeg utjecaja njihova iskorištavanja na njihovo stanje očuvanosti,
+
+Divlje vrste od interesa za Europsku uniju koje se prirodno pojavljuju na teritoriju Republike Hrvatske navode se u uredbi iz članka 54. stavka 1. i/ili pravilniku iz članka 151. stavka 2. ili odluci iz članka 62. stavka 1. ovoga Zakona,
+
+*6. doprirodno stanje je stanje u ekosustavu ili krajobrazu na čiji je razvoj čovjek utjecao u neznatnoj mjeri te se u njima odvijaju procesi koji su uglavnom samoregulirajući i koji mogu opstati bez izravnog ljudskog djelovanja,*
+
+7. ekološka mreža Natura 2000 (u daljnjem tekstu: ekološka mreža) je koherentna europska ekološka mreža sastavljena od područja u kojima se nalaze prirodni stanišni tipovi i staništa divljih vrsta od interesa za Europsku uniju, a omogućuje očuvanje ili, kad je to potrebno, povrat u povoljno stanje očuvanja određenih prirodnih stanišnih tipova i staništa vrsta u njihovu prirodnom području rasprostranjenosti,
+
+*8. ekosustav je dinamičan kompleks zajednica biljaka, gljiva, životinja, algi i mikroorganizama i njihova neživog okoliša koji međusobno djeluju kao funkcionalna jedinica,*
+
+*9. endem je vrsta čije je rasprostranjenje ograničeno na određeno područje,*
+
+*10. ex situ očuvanje (izvan prirode) je očuvanje komponenti bioraznolikosti i genetske raznolikosti izvan njihovih prirodnih staništa i očuvanje dijelova geobaštine izvan prirodnih nalazišta, uglavnom minerala i stijena te fosila u muzejskim ili privatnim zbirkama i ustanovama,*
+
+*11. fosili su ostaci živih organizama iz geološke prošlosti, kao i otisci njihovih životnih aktivnosti,*
+
+*12. genetski materijal je bilo koji materijal biljaka, životinja, gljiva, algi, mikroorganizama ili nekog drugog podrijetla koji sadrže funkcionalne jedinice naslijeđa,*
+
+*13. genetska raznolikost je sveukupnost gena svih živih organizama te njihova raznolikost između jedinki, populacija, vrsta i viših taksonomskih kategorija,*
+
+14. genska banka je spremište biološkog materijala koje sadrži nadzirane ili uzgajane populacije ili dijelove životinja, gljiva, biljaka, algi ili mikroorganizama, posebno sjeme, spore, spolne stanice i drugi biološki materijal, kojima se upravlja za namjene očuvanja vrsta, odnosno njihovih genetskih bogatstava,
+
+*15. georaznolikost je raznolikost tla, stijena, minerala, fosila, reljefnih oblika, podzemnih objekata i struktura te prirodnih procesa koji su ih stvarali kroz geološka razdoblja,*
+
+*16. informacijski sustav zaštite prirode je informacijski sustav koji objedinjava stručne i znanstvene podatke o bioraznolikosti, georaznolikosti i zaštiti prirode, a koji vodi Agencija,*
+
+17. in situ očuvanje (u prirodi) je očuvanje ekosustava i prirodnih staništa te održavanje i obnavljanje vrsta sposobnih za opstanak u njihovu prirodnom okruženju, a u slučaju udomaćenih ili kultiviranih vrsta u okruženju u kome su razvili svoja specifična svojstva, kao i očuvanje dijelova geobaštine na mjestu njihova nastanka, odnosno nalazišta minerala i fosila te stijena,
+
+*18. kompenzacijski uvjeti su mjere koje se određuju radi osiguranja opće povezanosti (koherentnosti) ekološke mreže,*
+
+*19. kontrolirani uvjeti uzgoja ili držanja vrsta su uvjeti kojima se onemogućuje dospijevanje u prirodu jedinki u bilo kojem razvojnom stadiju ili njihovih dijelova kojima se vrsta može nespolno ili spolno razmnožiti ili križati sa zavičajnom vrstom,*
+
+*20. korištenje genetskog materijala u smislu ovoga Zakona je provođenje istraživanja i razvoja koji se temelje na genetskim i/ili biokemijskim sastavnicama genetskog materijala, uključujući i primjenu biotehnologije, a u svrhu stvaranja novih proizvoda i patenata,*
+
+*21. krajobraz je dio prostora čiji je karakter rezultat međusobnog djelovanja prirodnih i/ili ljudskih čimbenika,*
+
+*22. krajobrazna raznolikost je strukturiranost prostora nastala na interakciji prirodnih i/ili stvorenih krajobraznih elemenata određenih bioloških, klimatskih, geoloških, geomorfoloških, pedoloških, kulturno-povijesnih i socioloških obilježja,*
+
+*23. krš je jedinstvena vrsta reljefa s posebnim hidrogeološkim i geomorfološkim obilježjima, koji se razvija u stijenama dobre topljivosti s razvijenom sekundarnom poroznošću, s karakterističnim površinskim (škrape, ponikve, uvale, polja u kršu i dr.) i podzemnim oblicima (špilje i jame),*
+
+24. mineral je prirodna tvorevina, sastavni dio litosfere, određenog i stalnog kemijskog sastava i fizičkih svojstava koji su stabilni u određenim uvjetima tlaka i temperature. Mineralom u smislu ovoga Zakona smatra se i nakupina ili tvorevina minerala. Minerali u smislu ovoga Zakona nisu mineralne sirovine,
+
+*25. ministar je čelnik središnjeg tijela državne uprave nadležan za poslove zaštite prirode,*
+
+*26. očuvanje vrsta i staništa znači niz mjera potrebnih za održavanje ili obnovu prirodnih staništa i populacija divljih vrsta u povoljnom stanju,*
+
+27. oporavilište za divlje životinje je prostor u kojem privremeno ili trajno borave jedinke strogo zaštićenih zavičajnih vrsta životinja koje su nađene u prirodi iscrpljene, bolesne, ozlijeđene, ranjene ili otrovane, u svrhu liječenja i oporavka radi povratka u prirodu ili u svrhu repopulacije i/ili reintrodukcije, te zaplijenjene ili oduzete strogo zaštićene životinje, kao i životinje divljih vrsta zaplijenjene sukladno posebnom propisu kojim se regulira prekogranični promet i trgovina divljim vrstama,
+
+*28. plan upravljanja zaštićenim područjem i/ili područjem ekološke mreže je akt planiranja kojim se utvrđuje stanje zaštićenog područja i/ili područja ekološke mreže te određuju ciljevi upravljanja i/ili očuvanja, aktivnosti za postizanje ciljeva i pokazatelji provedbe plana,*
+
+*29. plan upravljanja strogo zaštićenom vrstom je akt planiranja kojim se utvrđuje stanje vrste te određuju ciljevi upravljanja, aktivnosti potrebne za postizanje ili održavanje povoljnog stanja vrste i pokazatelji učinkovitosti upravljanja,*
+
+30. područje očuvanja značajno za ptice (POP) je područje značajno za očuvanje i ostvarivanje povoljnog stanja divljih vrsta ptica od interesa za Europsku uniju i njihovih staništa, kao i područje značajno za očuvanje migratornih vrsta ptica, a osobito močvarno područje od međunarodne važnosti; granice POP-a utvrđene su kao sloj geografskog informacijskog sustava (GIS) koji je dio Informacijskog sustava zaštite prirode,
+
+*31. područje očuvanja značajno za vrste i stanišne tipove (POVS) je područje koje, u biogeografskoj regiji ili regijama kojima pripada:*
+
+– znatno pridonosi održavanju ili povratu u povoljno stanje očuvanosti prirodnog stanišnog tipa od interesa za Europsku uniju koji je prirodno rasprostranjen na teritoriju Republike Hrvatske, a navodi se na popisu prirodnih stanišnih tipova od interesa za Europsku uniju zastupljenih na teritoriju Republike Hrvatske (referentna lista stanišnih tipova) u uredbi iz članka 54. stavka 9. ovoga Zakona, ili znatno pridonosi održavanju ili povratu u povoljno stanje očuvanosti neke od vrsta navedenih na popisu divljih vrsta (osim ptica) od interesa za Europsku uniju koje se redovito pojavljuju na teritoriju Republike Hrvatske (referentna lista divljih vrsta) navedenih u uredbi iz članka 54. stavka 9. ovoga Zakona,
+
+– znatno pridonosi cjelovitosti ekološke mreže,
+
+– znatno pridonosi održavanju bioraznolikosti unutar pripadajuće biogeografske regije ili regija;
+
+Granice POVS-a utvrđene su kao sloj geografskog informacijskog sustava (GIS) koji je dio Informacijskog sustava zaštite prirode,
+
+*32. ponovno uvođenje (reintrodukcija) je ponovno naseljavanje neke vrste u područje iz kojeg je izumrla, a u ekosustavu još ili opet postoje približno jednaki ekološki uvjeti kao i prije izumiranja, a koji omogućuju njezino preživljavanje,*
+
+33. vjerojatno područje očuvanja značajno za vrste i stanišne tipove (vPOVS) je područje koje ispunjava stručne kriterije i koje Republika Hrvatska predlaže Europskoj komisiji na odobrenje, a koje je značajno za očuvanje i ostvarivanje povoljnog stanja divljih vrsta, osim ptica, i njihovih staništa te prirodnih stanišnih tipova od interesa za Europsku uniju; granice vPOVS-a utvrđene su kao sloj geografskog informacijskog sustava (GIS) koji je dio Informacijskog sustava zaštite prirode,
+
+*34. populacija je skupina prostorno, vremenski i ekološki povezanih jedinki iste vrste,*
+
+35. posebno područje očuvanja značajno za vrste i stanišne tipove (PPOVS) je područje očuvanja značajno za vrste i stanišne tipove (POVS) za koje se primjenjuju mjere očuvanja u svrhu održavanja ili povrata u povoljno stanje očuvanosti prirodnih staništa i/ili populacija vrsta za koje je to područje određeno; granice PPOVS-a utvrđene su kao sloj geografskog informacijskog sustava (GIS) koji je dio Informacijskog sustava zaštite prirode,
+
+*36. povoljno stanje divlje vrste je stanje koje u budućnosti osigurava opstanak te vrste, genetsku stabilnost populacija i razmjenu gena među populacijama,*
+
+*37. praćenje stanja očuvanosti prirode (monitoring) je osmišljeno i sustavno praćenje stanja prirode,*
+
+*38. prevladavajući javni interes je javni interes u pitanjima zaštite prirode koji iskazuje Republika Hrvatska, a utvrđuje se u skladu s ovim Zakonom,*
+
+*39. primjerak je svaka životinja, biljka, gljiva ili alga, bez obzira na to je li živa ili mrtva, svaki njezin dio ili derivat, bez obzira na to jesu li uključeni u drugoj robi,*
+
+40. prioritetne divlje vrste su ugrožene divlje vrste od interesa za Europsku uniju za čije očuvanje je Europska unija posebno odgovorna s obzirom na razmjere njihova prirodnog areala koji se nalazi na teritoriju Europske unije. Takve vrste su u uredbi iz članka 54. stavka 9. ovoga Zakona označeni znakom »*«,
+
+41. prioritetni prirodni stanišni tipovi su oni prirodni stanišni tipovi od interesa za Europsku uniju kojima na području Europske unije prijeti nestanak i za čije je očuvanje Europska unija posebno odgovorna s obzirom na razmjere njihova prirodnog areala koji se nalazi na teritoriju Europske unije. Takvi stanišni tipovi su u uredbi iz članka 54. stavka 9. ovoga Zakona označeni znakom »*«,
+
+*42. prirodna dobra su sve sastavnice prirode koje čovjek koristi ili može koristiti u gospodarske svrhe*
+
+43. prirodni stanišni tipovi od interesa za Europsku uniju su oni prirodni stanišni tipovi kojima prijeti nestanak unutar njihova prirodnog areala ili imaju mali prirodan areal zbog regresije ili im je područje u prirodi ograničeno ili predstavljaju istaknute primjere tipičnih karakteristika jedne ili više od sljedećih biogeografskih regija: alpinske, kontinentalne i mediteranske. Prirodni stanišni tipovi od interesa za Europsku uniju, koji su prirodno rasprostranjeni na teritoriju Republike Hrvatske navode se su pravilniku iz članka 52. stavka 5. ovoga Zakona,
+
+*44. repopulacija je nadodavanje jedinki u već postojeću populaciju neke vrste na nekom području,*
+
+*45. siga je nakupina minerala u podzemnim prostorima različitih oblika (stalaktiti, stalagmiti i dr.),*
+
+*46. speleološki objekt je prirodno formirana podzemna šupljina (špilja, jama, ponor, estavela i dr.), kao i njezin dio,*
+
+*47. speleološki katastar je baza podataka o speleološkim objektima,*
+
+*48. prirodno stanište je jedinstvena funkcionalna jedinica kopnenog ili vodenog ekosustava, određena geografskim, biotičkim i abiotičkim svojstvima, neovisno o tome je li potpuno prirodno ili doprirodno. Sva istovrsna staništa čine jedan stanišni tip,*
+
+*49. stanište divlje vrste je okoliš određen specifičnim abiotičkim i biotičkim svojstvima, u kojem vrsta živi u bilo kojoj fazi svoga biološkog ciklusa,*
+
+*50. ugrožena divlja vrsta je ona zavičajna divlja vrsta kojoj je dugoročni opstanak u opasnosti i kao takva se nalazi na Crvenom popisu ugroženih vrsta u kategoriji regionalno izumrlih (RE), kritično ugroženih (CR), ugroženih (EN) ili osjetljivih (VU) vrsta,*
+
+*51. vrsta je klasifikacijska jedinica u taksonomiji (imenovanju) organizama (mikroorganizama, algi, gljiva, lišajeva, biljaka i životinja), a u ovom Zakonu odnosi se na vrste i niže sistematske kategorije,*
+
+*52. zahvat je svako privremeno ili trajno djelovanje čovjeka na prirodu koje može narušiti prirodnu ravnotežu, ako cilj tog djelovanja nije zaštita i očuvanje prirode,*
+
+*53. zaštićeni dio prirode je dio prirode proglašen zaštićenim u skladu s ovim Zakonom,*
+
+*54. zaštićeno područje je geografski jasno određen prostor koji je namijenjen zaštiti prirode i kojim se upravlja radi dugoročnog očuvanja prirode i pratećih usluga ekološkog sustava,*
+
+*55. zavičajna divlja vrsta je vrsta koja prirodno obitava u određenom ekosustavu nekog područja.*
+
+(2) Izrazi koji se koriste u ovome Zakonu, a imaju rodno značenje odnose se jednako na muški i ženski rod.«.
+
+#### Članak 6.
+
+Iza članka 9. dodaje se članak 9.a koji glasi:
+
+»Članak 9.a
+
+Način rada u Ministarstvu, upravnim tijelima i javnim ustanovama za upravljanje zaštićenim područjima u vezi s provedbom postupaka i izradom akata koji se donose na temelju ovoga Zakona ministar propisuje naputkom.«.
+
+#### Članak 7.
+
+U članku 11. stavak 4. mijenja se i glasi:
+
+»(4) Svakih pet godina Ministarstvo obavlja analizu ostvarenja ciljeva i provedbe aktivnosti utvrđenih Strategijom, zakonodavnog i institucionalnog okvira, kao i izvora i korištenja financijskih sredstava za zaštitu prirode te po potrebi predlaže donošenje izmjena i/ili dopuna Strategije, odnosno nove strategije.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) O rezultatima analize iz stavka 4. ovoga članka informira se javnost objavom na mrežnoj stranici Ministarstva.«.
+
+#### Članak 8.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Za potrebe analize ostvarivanja ciljeva i aktivnosti Strategije izrađuje se Izvješće o stanju prirode u Republici Hrvatskoj (u daljnjem tekstu: Izvješće o stanju prirode).
+
+(2) Izvješće o stanju prirode izrađuje se za razdoblje od pet godina, a sadrži osobito:
+
+– analizu ugroženosti, razloge ugroženosti i probleme zaštite ekosustava, stanišnih tipova i divljih vrsta, i georaznolikosti, s ocjenom stanja,
+
+– analizu ugroženosti, razloge ugroženosti i probleme zaštite zaštićenih područja i ekološke mreže, s ocjenom stanja.
+
+(3) Izvješće o stanju prirode izrađuje Agencija te ga podnosi Vladi radi prihvaćanja.
+
+(4) Vlada donosi zaključak o prihvaćanju Izvješća o stanju prirode.
+
+(5) Agencija objavljuje Izvješće o stanju prirode na mrežnim stranicama Agencije.«.
+
+#### Članak 9.
+
+Članak 14. mijenja se i glasi.
+
+»(1) Agencija je javna ustanova koja svoju djelatnost obavlja kao javnu službu.
+
+(2) Agenciju osniva Vlada uredbom.
+
+(3) Agencija obavlja stručne poslove zaštite prirode za Republiku Hrvatsku.«.
+
+#### Članak 10.
+
+Članak 15. mijenja se i glasi:
+
+»(1) Djelatnost Agencije u poslovima zaštite prirode obuhvaća osobito:
+
+– prikupljanje, obradu i analizu prikupljenih podataka u vezi sa zaštitom prirode,
+
+– izradu i održavanje odgovarajućih baza podataka o divljim vrstama, stanišnim tipovima, ekosustavima, zaštićenim područjima i područjima ekološke mreže, georaznolikosti te speleološkim objektima,
+
+– izradu metodologije izračuna šteta na zaštićenim vrstama, njihovim staništima i/ili stanišnim tipovima prouzročenih nedozvoljenom radnjom,
+
+– uspostavu i vođenje Informacijskog sustava zaštite prirode, u sklopu kojeg uspostavlja i održava Katalog vrsta i staništa te Katastar speleoloških objekata,
+
+– procjenjivanje ugroženosti sastavnica biološke raznolikosti, uključujući izradu crvenog popisa ugroženih zavičajnih divljih vrsta,
+
+– standardizaciju metodologije i protokola, praćenje stanja očuvanosti bioraznolikosti i georaznolikosti i predlaganje mjera za njihovu zaštitu,
+
+– uspostavu sustava za praćenje uhvaćenih, usmrćenih i ozlijeđenih strogo zaštićenih vrsta,
+
+– pripremanje stručnih podloga za zaštitu i očuvanje dijelova prirode i ekološke mreže,
+
+– razvoj standarda vezanih uz planiranje upravljanja, provedbu planova i procjenu učinkovitosti upravljanja zaštićenim područjima te područjima ekološke mreže,
+
+– izradu stručnih podloga za planiranje upravljanja divljim vrstama, osim ako drugim propisom nije drukčije uređeno,
+
+– izradu stručnih podloga za potrebe izrade prostornih planova posebnih obilježja nacionalnih parkova i parkova prirode,
+
+– obavljanje analiza, objedinjavanje rezultata i izradu izvješća o stanju prirode i zaštite prirode,
+
+– prikupljanje i obradu podataka te izradu izvješća sukladno s propisima Europske unije,
+
+– prikupljanje i obradu podataka, izradu pokazatelja stanja biološke raznolikosti te sudjelovanje u izradi izvješća prema Europskoj agenciji za okoliš,
+
+– stručne poslove u vezi s postupkom ocjene prihvatljivosti za ekološku mrežu,
+
+– stručne poslove u vezi s procjenom utjecaja ponovnog uvođenja i repopulacije divljih vrsta na prirodu,
+
+– stručne poslove u vezi s prekograničnim prometom i trgovinom divljim vrstama,
+
+– pripremanje i provođenje projekata i programa u području zaštite prirode,
+
+– sudjelovanje u provođenju međunarodnih ugovora o zaštiti prirode kojih je Republika Hrvatska stranka i sudjelovanje u pripremi izvješća,
+
+– sudjelovanje u radu međunarodnih stručnih i ostalih tijela vezanih uz zaštitu prirode,
+
+– organiziranje i provođenje edukacije djelatnika o zaštiti prirode te odgojno-obrazovnih i promidžbenih aktivnosti u vezi sa zaštitom prirode,
+
+– davanje stručnih mišljenja na traženje Ministarstva, javnih ustanova i upravnih tijela,
+
+– obavljanje i drugih poslova utvrđenih ovim Zakonom.
+
+(2) Agencija obavlja i poslove prikupljanja i objedinjavanja prikupljenih podataka i informacija o okolišu i prirodi radi osiguravanja i praćenja provedbe politike zaštite okoliša i održivog razvitka sukladno posebnom propisu kojim se uređuje zaštita okoliša.
+
+(3) Agencija obavlja i druge poslove u skladu s ovim Zakonom, Uredbom o osnivanju Hrvatske agencije za okoliš i prirodu, Statutom Hrvatske agencije za okoliš i prirodu i posebnim propisima, koji služe za ostvarivanje djelatnosti Agencije utvrđene stavcima 1. i 2. ovoga članka.
+
+(4) Nadležna tijela i mjerodavne institucije dužni su podatke o stanju prirode koji se prikupljaju sukladno ovom Zakonu dostavljati Agenciji.«.
+
+#### Članak 11.
+
+Članci 16., 17. i 18. brišu se.
+
+#### Članak 12.
+
+Članci 20., 21. i 22. brišu se.
+
+#### Članak 13.
+
+Članak 23. mijenja se i glasi:
+
+»(1) Za zahvate za koje je sukladno posebnim propisima iz područja prostornog uređenja i posebnim propisima iz područja gradnje potrebno ishoditi akt za građenje, uvjete zaštite prirode utvrđuje i potvrdu izdaje:
+
+– Ministarstvo za zahvate iz članka 29. stavka 1. ovoga Zakona,
+
+– upravno tijelo za zahvate iz članka 29. stavka 2. ovoga Zakona.«.
+
+#### Članak 14.
+
+Članak 24. mijenja se i glasi:
+
+»(1) Ocjena prihvatljivosti za ekološku mrežu (u daljnjem tekstu: Ocjena prihvatljivosti) je postupak kojim se ocjenjuje utjecaj strategije, plana, programa ili zahvata, samog i s drugim strategijama, planovima, programima ili zahvatima, na ciljeve očuvanja i cjelovitost područja ekološke mreže.
+
+(2) Ocjena prihvatljivosti provodi se za strategiju, plan, program ili zahvat, kao i za svaku izmjenu i/ili dopunu strategije, plana, programa ili zahvata, koja sama ili s drugim strategijama, planovima, programima ili zahvatima može imati značajan negativan utjecaj na ciljeve očuvanja i cjelovitost područja ekološke mreže.
+
+(3) Ocjena prihvatljivosti ne provodi se za strategiju, plan, program ili zahvat neposredno povezane i nužne za upravljanje područjem ekološke mreže.«.
+
+#### Članak 15.
+
+Članak 29. mijenja se i glasi:
+
+»(1) Ministarstvo provodi Prethodnu ocjenu i Glavnu ocjenu za zahvate:
+
+– za koje središnje tijelo državne uprave nadležno za zaštitu okoliša provodi postupak procjene utjecaja na okoliš ili postupak ocjene o potrebi procjene utjecaja na okoliš prema posebnom propisu iz područja zaštite okoliša,
+
+– čiji obuhvat se nalazi na području dvije ili više jedinica područne (regionalne) samouprave i/ili Grada Zagreba.
+
+(2) Upravno tijelo provodi Prethodnu ocjenu i Glavnu ocjenu za zahvate:
+
+– za koje tijelo područne (regionalne) samouprave nadležno za poslove zaštite okoliša provodi postupak procjene utjecaja na okoliš ili postupak ocjene o potrebi procjene utjecaja na okoliš prema posebnom propisu iz područja zaštite okoliša,
+
+– koji mogu imati značajan negativan utjecaj na ciljeve očuvanja i cjelovitost područja ekološke mreže, osim za zahvate iz stavka 1. ovoga članka.«.
+
+#### Članak 16.
+
+Članak 30. mijenja se i glasi:
+
+»(1) Za zahvat iz članka 27. stavka 2. ovoga Zakona, kao i za zahvat za koji nije obvezna procjena utjecaja na okoliš, odnosno ocjena o potrebi procjene utjecaja na okoliš, pravna i fizička osoba koja namjerava provesti zahvat (u daljnjem tekstu: nositelj zahvata) podnosi nadležnom tijelu iz članka 29. ovoga Zakona zahtjev za Prethodnu ocjenu.
+
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se u pisanom i digitalnom obliku te osobito sadrži:
+
+1. podatke o nositelju zahvata:
+
+– za pravnu osobu – naziv i adresu sjedišta tvrtke, OIB, ime odgovorne osobe, broj telefona i adresu elektroničke pošte,
+
+– za fizičku osobu obrtnika – ime i prezime, OIB, naziv i sjedište obrta, broj telefona i adresu elektroničke pošte,
+
+– za fizičku osobu koja se bavi drugom samostalnom djelatnošću – ime i prezime, OIB, adresu na kojoj obavlja djelatnost, broj telefona i adresu elektroničke pošte,
+
+– za fizičku osobu – ime i prezime, OIB, adresu stanovanja, broj telefona i adresu elektroničke pošte,
+
+2. podatke o zahvatu i lokaciji zahvata:
+
+– naziv jedinice lokalne i područne (regionalne) samouprave u kojoj se nalazi lokacija zahvata, uključujući naziv katastarske općine i broj katastarske čestice kada je primjenjivo,
+
+– kartografski prikaz s ucrtanim zahvatom u odgovarajućem mjerilu ili položaj zahvata u prostoru u vektorskom formatu,
+
+3. kratki opis zahvata:
+
+– svrha zahvata,
+
+– obuhvat zahvata (dimenzije, kapacitet i dr.),
+
+– trajanje zahvata i razdoblje godine u kojem se zahvat planira provesti,
+
+– način izvođenja zahvata,
+
+– opis eventualnih drugih aktivnosti potrebnih za realizaciju zahvata.
+
+(3) O podnesenom zahtjevu iz stavka 1. ovoga članka nadležno tijelo iz članka 29. ovoga Zakona zatražit će prethodno mišljenje Agencije o mogućnosti značajnih negativnih utjecaja zahvata na ciljeve očuvanja i cjelovitost područja ekološke mreže. Agencija je dužna prethodno mišljenje dostaviti najkasnije u roku od 15 dana od dana primitka zahtjeva nadležnog tijela.
+
+(4) Ako nadležno tijelo isključi mogućnost značajnih negativnih utjecaja zahvata na ciljeve očuvanja i cjelovitost područja ekološke mreže, donosi rješenje da je zahvat prihvatljiv za ekološku mrežu.
+
+(5) Ako nadležno tijelo ne može isključiti mogućnost značajnih negativnih utjecaja zahvata na ciljeve očuvanja i cjelovitost područja ekološke mreže, donosi rješenje da je za zahvat obvezna provedba Glavne ocjene.
+
+(6) Rješenje iz stavaka 4. i 5. ovoga članka sadrži podatke o zahvatu, podatke o ekološkoj mreži i obrazloženje razloga na temelju kojih je isključena mogućnost značajnih negativnih utjecaja zahvata na ciljeve očuvanja i cjelovitost područja ekološke mreže ili obrazloženje razloga na temelju kojih je utvrđena obveza provedbe Glavne ocjene.
+
+(7) Rješenje iz stavaka 4. i 5. ovoga članka nadležno tijelo dužno je donijeti u roku od 30 dana od dana zaprimanja urednog zahtjeva.
+
+(8) Za zahvate za koje se prema posebnom propisu iz područja zaštite okoliša provodi postupak procjene utjecaja na okoliš, rješenje iz stavka 4. ili 5. ovoga članka prilaže se uz zahtjev za provedbu postupka.
+
+(9) Za zahvat iz članka 27. stavka 1. ovoga Zakona Prethodnu ocjenu provodi nadležno tijelo iz članka 29. ovoga Zakona u okviru postupka ocjene o potrebi procjene utjecaja na okoliš davanjem obvezujućeg mišljenja.
+
+(10) Za zahvat iz članka 27. stavka 1. ovoga Zakona rješenje doneseno u postupku ocjene o potrebi procjene utjecaja na okoliš sadrži i rezultate Prethodne ocjene sukladno ovom članku, koji su obvezujući.«.
+
+#### Članak 17.
+
+Članak 31. mijenja se i glasi:
+
+»(1) Za zahvat za koji je obvezna Glavna ocjena nositelj zahvata podnosi nadležnom tijelu iz članka 29. ovoga Zakona zahtjev za Glavnu ocjenu zahvata.
+
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se u pisanom i digitalnom obliku, a sadrži podatke o nositelju zahvata, studiju o ocjeni prihvatljivosti zahvata za ekološku mrežu (u daljnjem tekstu: studija) i rješenje iz članka 30. stavka 5. ili rješenje iz članka 30. stavka 10. ovoga Zakona.
+
+(3) Na podatke o nositelju zahvata iz stavka 2. ovoga članka na odgovarajući se način primjenjuju odredbe članka 30. stavka 2. točke 1. ovoga Zakona.
+
+(4) Studija iz stavka 2. ovoga članka osobito sadrži:
+
+1. uvodni dio:
+
+– podatke o osobi ovlaštenoj za izradu studije (u daljnjem tekstu: ovlaštenik) s preslikom suglasnosti za obavljanje stručnih poslova zaštite okoliša koji se odnose na upravno područje zaštite prirode koju je ovlaštenik stekao pod uvjetima propisanim posebnim propisom iz područja zaštite okoliša,
+
+– popis izrađivača studije,
+
+– popis vanjskih stručnjaka ako ovlaštenik za pojedine vrste poslova nema zaposlenika stručnjaka potrebne struke, s dokazom stručnosti vanjskih stručnjaka (reference znanstvenih i/ili stručnih radova i publikacija),
+
+2. podatke o zahvatu i mogućem djelovanju zahvata:
+
+– opis zahvata,
+
+– lokaciju zahvata: naziv jedinice lokalne i područne (regionalne) samouprave, uključujući naziv katastarske općine i broj katastarske čestice kada je primjenjivo,
+
+– obuhvat zahvata (dimenzije, kapacitet i dr.),
+
+– trajanje zahvata i razdoblje godine u kojem se zahvat planira provesti,
+
+– način izvođenja zahvata,
+
+– opis mogućeg djelovanja zahvata,
+
+– utvrđivanje područja mogućeg djelovanja zahvata,
+
+– utvrđivanje područja ekološke mreže na koja bi zahvat mogao imati utjecaj,
+
+3. podatke o područjima ekološke mreže i njihovim ciljnim stanišnim tipovima i ciljnim vrstama:
+
+– podaci o područjima ekološke mreže na koje bi zahvat mogao imati utjecaj,
+
+– utvrđivanje ciljnih stanišnih tipova i vrsta na koje bi zahvat mogao imati utjecaj na području ekološke mreže,
+
+– način prikupljanja podataka o ciljnim vrstama i staništima na koje zahvat može imati utjecaj (provedena terenska istraživanja, korišteni stručni i/ili znanstveni modeli, ocjene i dr.),
+
+4. opis i ocjenu samostalnih utjecaja,
+
+5. opis i ocjenu kumulativnih i prekograničnih utjecaja,
+
+6. mjere ublažavanja negativnih utjecaja zahvata na ciljeve očuvanja i cjelovitost područja ekološke mreže te program praćenja i izvješćivanja o stanju ciljeva očuvanja i cjelovitosti područja ekološke mreže,
+
+7. zaključke:
+
+– konačna ocjena prihvatljivosti zahvata za ekološku mrežu, uz primjenu predloženih mjera ublažavanja i programa praćenja i izvješćivanja iz točke 6. ovoga članka,
+
+8. izvore podataka,
+
+9. ostale podatke i informacije.
+
+(5) Na studiju iz stavka 2. ovoga članka nadležno tijelo iz članka 29. ovoga Zakona zatražit će prethodno mišljenje Agencije o mogućnosti značajnih negativnih utjecaja zahvata na ciljeve očuvanja i cjelovitost područja ekološke mreže. Agencija je dužna prethodno mišljenje dostaviti najkasnije u roku od 15 dana od dana primitka zahtjeva nadležnog tijela.
+
+(6) Kada nadležno tijelo, po primitku mišljenja Agencije iz stavka 5. ovoga članka, ocijeni da studiju iz stavka 2. ovoga članka treba dopuniti podacima i/ili informacijama koji u bitnom utječu na cjelovitost studije i/ili da dopunu studije objektivno nije moguće provesti u roku od 30 dana, a bez tih podataka odnosno informacija se ne može udovoljiti zahtjevu, zahtjev nositelja zahvata odbit će rješenjem.
+
+(7) O zahtjevu nositelja zahvata za Glavnu ocjenu nadležno tijelo informirat će javnost objavom informacije na mrežnim stranicama nadležnog tijela nakon što utvrdi da zahtjev sadrži sve propisane podatke i dokaze sukladno odredbama ovoga Zakona te će provesti javnu raspravu sukladno članku 38.a ovoga Zakona.«.
+
+#### Članak 18.
+
+Članak 32. mijenja se i glasi:
+
+»(1) Studiju iz članka 31. stavka 2. i dokumentaciju za utvrđivanje prevladavajućeg javnog interesa i odobravanja zahvata uz kompenzacijske uvjete (u daljnjem tekstu: dokumentacija) iz članka 34. stavka 2. ovoga Zakona izrađuje ovlaštenik.
+
+(2) Troškove izrade studije i dokumentacije iz stavka 1. ovoga članka snosi nositelj zahvata.
+
+(3) Ovlaštenik je dužan izraditi studiju i dokumentaciju iz stavka 1. ovoga članka na temelju podataka koji odražavaju sadašnje stanje područja utjecaja zahvata i/ili područja za kompenzacijske uvjete.
+
+(4) Ovlaštenik je odgovoran za istinitost, točnost i stručnu utemeljenost studije i dokumentacije iz stavka 1. ovoga članka.«.
+
+#### Članak 19.
+
+Članak 34. mijenja se i glasi:
+
+»(1) Nositelj zahvata za koji je doneseno rješenje o odbijanju zahvata može Ministarstvu u roku od jedne godine od dana dostave rješenja podnijeti zahtjev za utvrđivanje prevladavajućeg javnog interesa i odobrenje zahvata uz kompenzacijske uvjete.
+
+(2) Zahtjev iz stavka 1. ovoga članka obvezno sadrži podatke o nositelju zahvata i dokumentaciju.
+
+(3) Na podatke o nositelju zahvata iz stavka 2. ovoga članka na odgovarajući se način primjenjuju odredbe članka 30. stavka 2. točke 1. ovoga Zakona.
+
+(4) Dokumentacija iz stavka 2. ovoga članka obvezno sadrži:
+
+– opis utjecaja zahvata na ciljeve očuvanja i cjelovitost područja ekološke mreže za koje nije moguće utvrditi mjere ublažavanja,
+
+– analizu sagledanih drugih pogodnih mogućnosti kojima je moguće ostvariti svrhu zahvata,
+
+– razloge kojima se opravdava postojanje prevladavajućeg javnog interesa,
+
+– prijedlog kompenzacijskih uvjeta,
+
+– procjenu rokova izvršenja kompenzacijskih uvjeta,
+
+– procjenu stupnja provedenosti kompenzacijskih uvjeta nakon kojeg se može započeti s izvođenjem radova te
+
+– prijedlog programa praćenja i izvješćivanja o izvršavanju kompenzacijskih uvjeta.
+
+(5) Ministarstvo će zahtjev za utvrđivanje prevladavajućeg javnog interesa i odobrenje zahvata uz kompenzacijske uvjete koji nije podnesen u roku iz stavka 1. ovoga članka rješenjem odbaciti.«.
+
+#### Članak 20.
+
+Članak 35. mijenja se i glasi:
+
+»(1) O podnesenom zahtjevu iz članka 34. ovoga Zakona Ministarstvo će zatražiti mišljenje Agencije i informirati javnost objavom informacije na mrežnim stranicama Ministarstva.
+
+(2) Agencija je dužna mišljenje iz stavka 1. ovoga članka dostaviti najkasnije u roku od 30 dana od dana primitka zahtjeva Ministarstva.
+
+(3) Kada Ministarstvo utvrdi, uzimajući u obzir mišljenje iz stavka 1. ovoga članka, da postoje druge pogodne mogućnosti kojima je moguće ostvariti svrhu zahvata i/ili ako predloženi kompenzacijski uvjeti nisu zadovoljavajući i da ih nije moguće provesti, rješenjem će odbiti zahtjev iz članka 34. ovoga Zakona.
+
+(4) Kada Ministarstvo utvrdi, uzimajući u obzir mišljenje iz stavka 1. ovoga članka, da ne postoje druge pogodne mogućnosti kojima je moguće ostvariti svrhu zahvata i da su predloženi kompenzacijski uvjeti zadovoljavajući te da ih je moguće provesti, o podnesenom zahtjevu iz članka 34. ovoga Zakona provest će javnu raspravu sukladno članku 38.a ovoga Zakona.«.
+
+#### Članak 21.
+
+U članku 36. stavak 2. mijenja se i glasi:
+
+»(2) Kompenzacijskim uvjetima osigurava se opća povezanost (koherentnost) ekološke mreže, među ostalim, na sljedeći način:
+
+– obnovom staništa i/ili uspostavom povoljnijih ekoloških uvjeta u postojećem području ekološke mreže,
+
+– obnovom ili uspostavom staništa ili uspostavom povoljnijih ekoloških uvjeta na novom ili povećanom području ekološke mreže koje će se uključiti u ekološku mrežu,
+
+– uključivanjem novog područja ili proširivanjem postojećeg područja ekološke mreže, koje ima obilježja kao oštećeno ili uništeno područje ekološke mreže, u kombinaciji s ostalim mjerama kojima se nadoknađuje nastali gubitak.«.
+
+#### Članak 22.
+
+U članku 37. stavak 1. mijenja se i glasi:
+
+»(1) Ako Ministarstvo utvrdi da su, uzimajući u obzir mišljenje iz članka 35. stavka 1. ovoga Zakona, predloženi kompenzacijski uvjeti zadovoljavajući i da ih je moguće provesti te da nema drugih pogodnih mogućnosti kojima je moguće ostvariti svrhu zahvata, dostavlja zahtjev iz članka 34. ovoga Zakona, mišljenje iz članka 35. ovoga Zakona i prijedlog odluke o utvrđivanju prevladavajućeg javnog interesa za provedbu zahvata Vladi u roku od 30 dana od dana zatvaranja javne rasprave iz članka 35. stavka 4. ovoga Zakona, odnosno ishođenja mišljenja Europske komisije iz stavka 4. ovoga članka.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako se na području ekološke mreže nalazi prioritetni prirodni stanišni tip i/ili divlja vrsta, prevladavajući javni interes može se odnositi samo na zaštitu zdravlja ljudi, sigurnost ljudi i imovine ili na uspostavljanje bitno povoljnijih uvjeta od primarne važnosti za okoliš.«.
+
+#### Članak 23.
+
+Iza članka 38. dodaje se članak 38.a koji glasi:
+
+»Članak 38.a
+
+(1) U postupku Glavne ocjene zahvata i postupku utvrđivanja prevladavajućeg javnog interesa i odobrenja zahvata uz kompenzacijske uvjete provodi se javna rasprava koja uključuje javni uvid u trajanju od 30 dana i javno izlaganje.
+
+(2) Kada nadležno tijelo iz članka 29. ovoga Zakona utvrdi da zahtjev nositelja zahvata u vezi s predmetom javne rasprave sadrži sve podatke i dokaze sukladno ovom Zakonu, donosi odluku o javnoj raspravi u vezi s predmetom javne rasprave.
+
+(3) Kada je za provođenje postupka nadležno Ministarstvo, javna rasprava u vezi s predmetom javne rasprave objavljuje se na mrežnoj stranici Ministarstva i u dnevnom tisku.
+
+(4) Kada je za provođenje postupka nadležno tijelo iz članka 29. stavka 2. ovoga Zakona, javna rasprava u vezi s predmetom javne rasprave objavljuje se na mrežnim stranicama nadležnog tijela i u dnevnom, područnom ili lokalnom tisku.
+
+(5) Objava javne rasprave iz stavaka 3. i 4. ovoga članka sadrži naznaku predmeta javne rasprave, mjesto, datum početka i trajanje javnog uvida, mjesto i datum javnog izlaganja te rok u kojem se nadležnom tijelu dostavljaju pisana mišljenja, prijedlozi i primjedbe u vezi s predmetom javne rasprave, a objavljuje se najmanje osam dana prije početka javne rasprave.
+
+(6) Javnu raspravu, uključujući javni uvid i javno izlaganje koordinira i provodi nadležno tijelo.
+
+(7) Kada je za koordinaciju i provođenje javne rasprave, uključujući javni uvid i javno izlaganje nadležno Ministarstvo, ono može pojedine radnje vezane uz javnu raspravu, uključujući i objavu, javni uvid i javno izlaganje, u skladu sa zakonom kojim se uređuje opći upravni postupak, povjeriti nadležnom tijelu iz članka 29. stavka 2. ovoga Zakona.
+
+(8) Kada nadležno tijelo iz članka 29. stavka 2. ovoga Zakona preuzme koordinaciju i provođenje javne rasprave na način objave, primjenjuju se odredbe stavka 4. ovoga članka.
+
+(9) Za vrijeme javnog uvida organizira se javno izlaganje.
+
+(10) U javnom izlaganju obvezno se osigurava nazočnost i sudjelovanje predstavnika nositelja zahvata i ovlaštenika koji je izradio studiju ili dokumentaciju.
+
+(11) O provedenoj javnoj raspravi nadležno tijelo priprema izvješće.
+
+(12) Izvješće o javnoj raspravi osobito sadrži:
+
+– podatke o predmetu javne rasprave, odnosno naznaku da je taj predmet sastavni dio toga izvješća,
+
+– popis pozvanih sudionika u javnoj raspravi prema posebnoj obavijesti,
+
+– popis sudionika u javnoj raspravi čiji su prijedlozi i primjedbe vezano za predmet javne rasprave prihvaćeni,
+
+– naznaku primjedbi i prijedloga sudionika, koji nisu prihvaćeni ili su djelomično prihvaćeni te obrazloženja razloga njihova neprihvaćanja, odnosno djelomičnog prihvaćanja,
+
+– popis sudionika u javnoj raspravi čija su mišljenja, prijedlozi i primjedbe dani izvan određenog roka,
+
+– akte, preslike i druge dokaze objave javne rasprave, pozive i posebne obavijesti o javnoj raspravi, zapisnike o javnim izlaganjima, dokaze sudjelovanja u javnom izlaganju pozvanih sudionika u javnoj raspravi i knjigu primjedbi.
+
+(13) Izvješće o javnoj raspravi objavljuje se na mrežnim stranicama nadležnog tijela.«.
+
+#### Članak 24.
+
+Članak 43. mijenja se i glasi:
+
+»(1) Rješenje iz članka 30. stavka 4. ovoga Zakona izdaje se na rok od četiri godine.
+
+(2) Rješenje iz članka 33. stavka 2. i članka 38. stavka 2. ovoga Zakona izdaje se na rok od dvije godine.
+
+(3) Rok važenja rješenja iz članka 33. stavka 2. i članka 38. stavka 2. ovoga Zakona može se, na zahtjev nositelja zahvata, jednom produžiti na još dvije godine uz uvjet da se nisu promijenili uvjeti utvrđeni u skladu s ovim Zakonom ili drugi uvjeti u skladu s kojima je izdano to rješenje.
+
+(4) O zahtjevu za produženje roka važenja rješenja iz stavka 3. ovoga članka nadležno tijelo odlučuje rješenjem.
+
+(5) Odredbe ovoga članka na odgovarajući se način primjenjuju na mišljenje iz članka 40. ovoga Zakona.«.
+
+#### Članak 25.
+
+Iza članka 43. dodaje se članak 43.a koji glasi:
+
+»Članak 43.a
+
+Mjere ublažavanja i program praćenja i izvješćivanja utvrđeni rješenjem iz članka 33. stavka 2. ovoga Zakona ili kompenzacijski uvjeti i program praćenja i izvješćivanja utvrđeni rješenjem iz članka 38. stavka 2. ovoga Zakona obvezni su sadržaj glavnog projekta koji je sastavni dio akta kojim se odobrava građenje sukladno posebnim propisima iz područja prostornog uređenja i posebnim propisima iz područja gradnje.«.
+
+#### Članak 26.
+
+Članak 45. mijenja se i glasi:
+
+»Ocjena prihvatljivosti strategija, planova i programa provodi se tijekom izrade nacrta prijedloga strategije, plana i programa, a prije utvrđivanja konačnog prijedloga i upućivanja u postupak donošenja.«.
+
+#### Članak 27.
+
+Članak 46. mijenja se i gasi:
+
+»(1) Ministarstvo provodi Prethodnu ocjenu i Glavnu ocjenu za strategije, planove i programe koji se pripremaju i/ili donose na državnoj i područnoj (regionalnoj) razini, kao i za one koji se pripremaju i/ili donose na državnoj i područnoj (regionalnoj) razini, a za koje je posebnim propisom kojim se uređuje zaštita okoliša određena obveza strateške procjene ili ocjene o potrebi strateške procjene.
+
+(2) Upravno tijelo provodi Prethodnu ocjenu i Glavnu ocjenu za strategije, planove i programe koji se pripremaju i/ili donose na lokalnoj razini, kao i za one koji se pripremaju i/ili donose na lokalnoj razini, a za koje je posebnim propisom kojim se uređuje zaštita okoliša određena obveza strateške procjene ili ocjene o potrebi strateške procjene.«.
+
+#### Članak 28.
+
+Članak 47. briše se.
+
+#### Članak 29.
+
+Članak 48. mijenja se i glasi:
+
+»(1) Nositelj izrade strategije, plana i programa iz članka 26. stavka 2. ovoga Zakona, kao i nositelj izrade strategije, plana ili programa za koje nije obvezna strateška procjena utjecaja na okoliš, odnosno ocjena o potrebi strateške procjene utjecaja na okoliš podnosi nadležnom tijelu iz članka 46. ovoga Zakona zahtjev za Prethodnu ocjenu.
+
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se u pisanom i digitalnom obliku te osobito sadrži:
+
+1. podatke o nositelju izrade,
+
+2. podatke o strategiji, planu ili programu:
+
+– naziv strategije, plana ili programa,
+
+– razloge donošenja,
+
+– ciljeve i programska polazišta,
+
+– obuhvat strategije, plana ili programa,
+
+– zahvate i aktivnosti koji se strategijom, planom ili programom planiraju,
+
+– kartografski prikaz u odgovarajućem mjerilu ili položaj u prostoru u vektorskom formatu u odnosu na područja ekološke mreže,
+
+3. nacrt strategije, plana ili programa ako je izrađen do trenutka podnošenja zahtjeva,
+
+4. mišljenje nadležnog tijela prema posebnom propisu iz područja zaštite okoliša o obvezi provedbe strateške procjene ili ocjene o potrebi strateške procjene.
+
+(3) O podnesenom zahtjevu iz stavka 1. ovoga članka nadležno tijelo iz članka 46. ovoga Zakona zatražit će mišljenje Agencije o mogućnosti značajnih negativnih utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže. Agencija je dužna mišljenje dostaviti najkasnije u roku od 15 dana od dana primitka zahtjeva nadležnog tijela.
+
+(4) Ako se radi o strategiji, planu ili programu u čijem se obuhvatu nalaze zaštićena područja, strogo zaštićene divlje vrste i/ili ugroženi i rijetki stanišni tipovi za koje nisu izdvojena područja ekološke mreže, mišljenje Agencije iz stavka 3. ovoga članka sadrži i prijedlog uvjeta zaštite prirode.
+
+(5) Ako nadležno tijelo isključi mogućnost značajnih negativnih utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže, donosi rješenje da je strategija, plan ili program prihvatljiv za ekološku mrežu.
+
+(6) Ako nadležno tijelo ne može isključiti mogućnost značajnih negativnih utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže, donosi rješenje da je obvezna provedba Glavne ocjene.
+
+(7) Rješenje iz stavaka 5. i 6. ovoga članka sadrži podatke o strategiji, planu ili programu, podatke o ekološkoj mreži, obrazloženje razloga na temelju kojih je isključena mogućnost značajnih negativnih utjecaja na ciljeve očuvanja i cjelovitost područja ekološke mreže ili obrazloženje razloga na temelju kojih je utvrđena obveza provedbe Glavne ocjene.
+
+(8) Rješenje iz stavaka 5. i 6. ovoga članka sadrži i uvjete zaštite prirode ako se radi o strategiji, planu ili programu u čijem se obuhvatu nalaze zaštićena područja, strogo zaštićene divlje vrste i/ili ugroženi i rijetki stanišni tipovi za koje nisu izdvojena područja ekološke mreže.
+
+(9) Rješenje iz stavaka 5. i 6. ovoga članka nadležno tijelo dužno je donijeti u roku od 30 dana od dana zaprimanja urednog zahtjeva.
+
+(10) Za strategije, planove i programe iz članka 26. stavka 1. ovoga Zakona Prethodnu ocjenu provodi nadležno tijelo iz članka 46. ovoga Zakona u okviru postupka ocjene o potrebi strateške procjene utjecaja na okoliš davanjem obvezujućeg mišljenja.
+
+(11) Za strategije, planove i programe iz članka 26. stavka 1. ovoga Zakona akt donesen u postupku ocjene o potrebi strateške procjene utjecaja na okoliš sadrži i rezultate Prethodne ocjene sukladno ovom članku, koji su obvezujući.«.
+
+#### Članak 30.
+
+Članak 49. mijenja se i glasi:
+
+»(1) Nositelj izrade strategije, plana ili programa za koji je obvezna Glavna ocjena podnosi nadležnom tijelu iz članka 46. ovoga Zakona zahtjev za Glavnu ocjenu.
+
+(2) Zahtjev iz stavka 1. ovoga članka podnosi se u pisanom i digitalnom obliku, a sadrži podatke o nositelju izrade, studiju o ocjeni prihvatljivosti strategije, plana ili programa za ekološku mrežu i rješenje iz članka 48. stavka 6. ili akt iz članka 48. stavka 11. ovoga Zakona.
+
+(3) Studija iz stavka 2. ovoga članka osobito sadrži:
+
+1. uvodni dio:
+
+– podatke o osobi ovlaštenoj za izradu studije s preslikom suglasnosti za obavljanje stručnih poslova zaštite okoliša koji se odnose na upravno područje zaštite prirode koju je ovlaštenik stekao pod uvjetima propisanim posebnim propisom iz područja zaštite okoliša,
+
+– popis izrađivača studije prihvatljivosti,
+
+– popis vanjskih stručnjaka ako ovlaštenik za pojedine vrste poslova nema zaposlenika stručnjaka potrebne struke, s dokazom stručnosti vanjskih stručnjaka (referencije znanstvenih i/ili stručnih radova i publikacija),
+
+2. podatke o strategiji, planu ili programu:
+
+– naziv strategije, plana ili programa,
+
+– razloge donošenja,
+
+– ciljeve i programska polazišta,
+
+– obuhvat strategije, plana ili programa,
+
+– zahvate i aktivnosti koji se planiraju strategijom, planom ili programom,
+
+3. podatke o područjima ekološke mreže i njihovim ciljnim stanišnim tipovima i ciljnim vrstama:
+
+– podaci o područjima ekološke mreže na koje bi strategija, plan ili program mogao imati utjecaj,
+
+– kartografski prikaz područja ekološke mreže u vektorskom formatu i odgovarajućem mjerilu sukladno mjerilu kartografskog prikaza strategije, plana ili programa s ucrtanim obuhvatom strategije, plana ili programa te, kada je primjenjivo, položajem zahvata koji se planiraju strategijom, planom ili programom,
+
+4. ocjenu utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže,
+
+5. kumulativne i prekogranične utjecaje strategije, plana ili programa,
+
+6. prijedlog mjera ublažavanja negativnih utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže,
+
+7. zaključke:
+
+– konačna ocjena prihvatljivosti strategije, plana ili programa za ekološku mrežu, uz primjenu predloženih mjera ublažavanja iz točke 6. ovoga članka,
+
+8. izvore podataka,
+
+9. ostale podatke i informacije.
+
+(4) Na studiju iz stavka 2. ovoga članka nadležno tijelo iz članka 46. ovoga Zakona zatražit će mišljenje Agencije o mogućnosti značajnih negativnih utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže. Agencija je dužna mišljenje dostaviti najkasnije u roku od 15 dana od dana primitka zahtjeva nadležnog tijela.«.
+
+#### Članak 31.
+
+Članak 50. mijenja se i glasi:
+
+»(1) Ako nadležno tijelo iz članka 46. ovoga Zakona utvrdi da strategija, plan ili program nema značajan negativan utjecaj na ciljeve očuvanja i cjelovitost područja ekološke mreže, donosi rješenje o prihvatljivosti strategije, plana ili programa za ekološku mrežu.
+
+(2) Ako nadležno tijelo iz članka 46. ovoga Zakona utvrdi da strategija, plan ili program ima ili se ne može isključiti značajan negativan utjecaj na ciljeve očuvanja i cjelovitost područja ekološke mreže, unatoč mjerama ublažavanja, rješenjem odbija zahtjev iz članka 49. ovoga Zakona.
+
+(3) Rješenje iz stavka 1. ovoga članka sadrži podatke o strategiji, planu ili programu, podatke o ekološkoj mreži, mjere ublažavanja negativnih utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže i program praćenja ekološke mreže.
+
+(4) Za strategije, planove i programe iz članka 26. stavka 3. ovoga Zakona Glavnu ocjenu provodi nadležno tijelo iz članka 46. ovoga Zakona u okviru postupka strateške procjene utjecaja na okoliš davanjem obvezujućeg mišljenja.«.
+
+#### Članak 32.
+
+Članak 51. mijenja se i glasi:
+
+»(1) Za strategije, planove i programe iz članka 26. stavaka 1. i 3. ovoga Zakona informiranje i sudjelovanje javnosti i zainteresirane javnosti osigurava se postupkom strateške procjene ili ocjene o potrebi strateške procjene u skladu s posebnim propisom kojim se uređuje zaštita okoliša.
+
+(2) Nadležno tijelo objavljuje rješenje iz članka 48. stavka 5. i 6. te članka 50. stavka 1. i 2. ovoga Zakona na mrežnoj stranici.«.
+
+#### Članak 33.
+
+Naslov iznad članka 52. mijenja i glasi: »1. Stanišni tipovi i ekološka mreža«.
+
+U članku 52. stavak 5. mijenja se i glasi:
+
+»(5) Popis stanišnih tipova, kartu staništa te ugrožene i rijetke stanišne tipove, uključujući i prioritetne prirodne stanišne tipove propisuje ministar pravilnikom.«.
+
+#### Članak 34.
+
+Članak 53. briše se.
+
+#### Članak 35.
+
+Članak 54. mijenja se i glasi:
+
+»(1) Ekološku mrežu čine područja očuvanja značajna za ptice (POP), područja očuvanja značajna za vrste i staništa (POVS), posebna područja očuvanja značajna za vrste i stanišne tipove (PPOVS) te vjerojatna područja očuvanja značajna za vrste i staništa (vPOVS).
+
+(2) vPOVS podliježe odobrenju Europske komisije, o čemu Europska komisija donosi zaključke.
+
+(3) vPOVS postaje POVS danom objave u Službenom listu Europske unije.
+
+(4) Ekološka mreža može se dopuniti i/ili izmijeniti temeljem:
+
+– zaključaka Europske komisije iz stavka 3. ovoga članka,
+
+– rezultata postupka bilateralnog savjetovanja s Europskom komisijom, odnosno odluke Vijeća o odabiru POVS-a, u slučaju kada Europska komisija utvrdi da popis vPOVS-a iz stavka 2. ovoga članka ne navodi područje u kojem se nalazi prioritetan prirodni stanišni tip ili prioritetna vrsta koje Europska komisija, na temelju relevantnih i pouzdanih znanstvenih informacija, smatra bitnim za održavanje tog prioritetnog prirodnog stanišnog tipa ili opstanak te prioritetne vrste,
+
+– rezultata predsudskog postupka Europske komisije,
+
+– presude Europskog suda,
+
+– pravomoćnog rješenja iz članka 38. stavka 2. ovoga Zakona,
+
+– rezultata praćenja stanja (monitoringa) iz članka 195. ovoga Zakona.
+
+(5) Ministarstvo na svojim mrežnim stranicama objavljuje informaciju o područjima kojima je potrebno dopuniti i/ili izmijeniti ekološku mrežu sukladno stavku 4. ovoga članka.
+
+(6) Informaciju iz stavka 5. ovoga članaka u slučaju izmjena i/ili dopuna ekološke mreže temeljem rezultata praćenja stanja (monitoringa) Ministarstvo utvrđuje temeljem stručne podloge koju izrađuje Agencija.
+
+(7) Odredbe ovoga Zakona koje se odnose na ocjenu prihvatljivosti zahvata za ekološku mrežu, osim odredbi o utvrđivanju prevladavajućeg javnog interesa i odobrenju zahvata uz kompenzacijske uvjete, odredbe koje se odnose na ocjenu prihvatljivosti strategija, planova i programa za ekološku mrežu te odredba članka 55. stavka 2. ovoga Zakona primjenjuju se na područja kojima je potrebno dopuniti ekološku mrežu sukladno stavku 4. ovoga članka od datuma objave informacije iz stavka 5. ovoga članka, a na područje iz stavka 4. podstavka 2. ovoga članka dodatno i tijekom razdoblja bilateralnog savjetovanja između Europske komisije i Republike Hrvatske, odnosno do donošenja odluke Vijeća te na vPOVS od trenutka prvog navođenja ovoga područja na popisu uredbe iz stavka 1. ovoga članka.
+
+(8) Odredbe ovoga Zakona koje se odnose na ocjenu prihvatljivosti zahvata za ekološku mrežu, ocjenu prihvatljivosti strategija, planova i programa za ekološku mrežu te odredba članka 55. stavka 2. ovoga Zakona primjenjuju se na POVS od dana njihove objave u Službenom listu Europske unije ili od dana donošenja odluke Vijeća o odabiru POVS-a te na PPOVS i POP od trenutka prvog navođenja ovih područja na popisu uredbe iz stavka 9. ovoga članka.
+
+(9) Ekološku mrežu iz stavka 1. ovoga članka proglašava Vlada uredbom. Uredbom se utvrđuje popis vrsta i stanišnih tipova čije očuvanje zahtijeva određivanje područja ekološke mreže (referentna lista vrsta i staništa), uključujući i prioritetne divlje vrste te prioritetne prirodne stanišne tipove, stručni kriteriji za određivanje vPOVS-a i POP-a, kriteriji prema kojima Europska komisija vrši procjenu vPOVS-a u smislu značaja za Uniju, način identifikacije te popis vPOVS-a, POVS-a, PPOVS-a i POP-a s pripadajućim ciljnim vrstama, odnosno stanišnim tipovima tih područja, način prikaza granica i kartografski prikaz vPOVS-a, POVS-a, PPOVS-a i POP-a, te način prikaza zonacije svih navedenih područja u odnosu na rasprostranjenost ciljnih vrsta i stanišnih tipova.«.
+
+#### Članak 36.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Očuvanje područja ekološke mreže osigurava se provođenjem postupka Ocjene prihvatljivosti, provođenjem mjera očuvanja, provedbom plana upravljanja i odgovarajućim zakonskim, administrativnim ili ugovornim mjerama koje odgovaraju ekološkim zahtjevima prirodnih stanišnih tipova i vrstama koji su prisutni na tim područjima.
+
+(2) Očuvanje područja ekološke mreže provodi se u svrhu postizanja ciljeva očuvanja i izbjegavanja pogoršanja stanja prirodnih staništa i staništa vrsta, kao i uznemiravanja vrsta za koje su ta područja određena, u mjeri u kojoj bi takvo uznemiravanje moglo utjecati na ciljeve njihova očuvanja.
+
+(3) Nije dopušteno uvođenje genetski modificiranih organizama u prirodu u zaštićenim područjima i područjima ekološke mreže sukladno odredbama posebnog propisa kojima se uređuje uvođenje genetski modificiranih organizama.
+
+(4) Za područja koja uredbom iz članka 54. stavka 9. ovog Zakona nisu utvrđena kao POP, a ispunjavaju kriterije za njihovo proglašenje, ministar će naredbom, u svrhu sprječavanja onečišćenja ili pogoršanja stanja staništa ptica u tim područjima, kao i u svrhu sprječavanja uznemiravanja samih ptica i/ili sprječavanja smanjenja njihove brojnosti, propisati hitne mjere zaštite i očuvanja, uključujući i zabranu provedbe svih aktivnosti koje dovode do onečišćenja ili pogoršanja stanja staništa ptica, odnosno uznemiravanja samih ptica i/ili smanjenja njihove brojnosti.
+
+(5) Ciljeve očuvanja i mjere očuvanja ciljnih vrsta ptica u području ekološke mreže i način provedbe mjera očuvanja, uz prethodno mišljenje središnjih tijela državne uprave nadležnih za poslove poljoprivrede, šumarstva, lovstva, ribarstva i akvakulture propisuje ministar pravilnikom.
+
+(6) Ciljeve očuvanja i mjere očuvanja ciljnih vrsta, osim ptica, te stanišnih tipova u području ekološke mreže i način provedbe mjera očuvanja, uz prethodno mišljenje središnjih tijela državne uprave nadležnih za poslove poljoprivrede, šumarstva, lovstva, ribarstva i akvakulture propisuje ministar pravilnikom.«.
+
+#### Članak 37.
+
+Članak 56. mijenja se i glasi:
+
+»(1) Plan upravljanja ekološkom mrežom donosi se za razdoblje od deset godina, uz mogućnost izmjene i/ili dopune nakon pet godina.
+
+(2) Iznimno od stavka 1. ovoga članka, planovi upravljanja ekološkom mrežom iz članka 56.b stavka 1. ovoga Zakona mogu se izmijeniti i/ili dopuniti i prije isteka roka iz stavka 1. ovoga članka.
+
+(3) Planom upravljanja ekološkom mrežom može biti obuhvaćeno više područja ekološke mreže.
+
+(4) Plan upravljanja ekološkom mrežom obvezno sadrži:
+
+– analizu stanja ciljnih vrsta i stanišnih tipova područja ekološke mreže,
+
+– ciljeve upravljanja i očuvanja ciljnih vrsta i stanišnih tipova,
+
+– mjere očuvanja propisane pravilnikom iz članka 55. stavka 5. i/ili pravilnikom iz članka 55. stavka 6. ovoga Zakona,
+
+– aktivnosti za postizanje ciljeva,
+
+– pokazatelje provedbe plana.«.
+
+#### Članak 38.
+
+Iza članka 56. dodaju se članci 56.a i 56.b koji glase:
+
+»Članak 56.a
+
+(1) Javne ustanove donose plan upravljanja ekološkom mrežom na način propisan odredbama članaka 134. ovoga Zakona. Ako je područje ekološke mreže u nadležnosti više javnih ustanova, upravna vijeća nadležnih javnih ustanova donose cjeloviti plan upravljanja područjem ekološke mreže, ali svaka javna ustanova provodi plan u okviru svoje mjesne nadležnosti.
+
+(2) Iznimno od stavka 1. ovoga članka plan upravljanja morskim područjima ekološke mreže koja se dijelom ili u cijelosti nalaze izvan teritorijalnog mora Republike Hrvatske, a unutar granica mora pod nacionalnom jurisdikcijom donosi Ministarstvo.
+
+(3) Plan upravljanja ekološkom mrežom iz stavka 1. ovoga članka donose javne ustanove nadležne za upravljanje zaštićenim područjima i ekološkom mrežom sukladno nadležnostima koje utvrđuje Vlada uredbom.
+
+#### Članak 56.b
+
+(1) Planovi prema kojima se gospodari šumama i šumskim zemljištem određene gospodarske jedinice sukladno posebnom propisu iz područja šumarstva, a koji sadrže elemente propisane člankom 56. stavkom 4. ovoga Zakona, smatraju se planovima upravljanja ekološkom mrežom.
+
+(2) Nositelj izrade plana iz stavka 1. ovoga članka dostavlja nacrt plana upravljanja ekološkom mrežom na suglasnost Ministarstvu.
+
+(3) O dostavljenom nacrtu plana upravljanja iz stavka 1. ovoga članka Ministarstvo će zatražiti mišljenje Agencije.
+
+(4) Ako je nacrt plana upravljanja izrađen u skladu s odredbama članka 56. stavaka 3. i 4. ovoga Zakona, Ministarstvo izdaje suglasnost na nacrt plana iz stavka 1. ovoga članka nositelju izrade plana.
+
+(5) Ako nacrt plana upravljanja nije izrađen u skladu s odredbama članka 56. stavaka 3. i 4. ovoga Zakona, Ministarstvo izdaje mišljenje na nacrt plana iz stavka 1. ovoga članka nositelju izrade plana o obvezi dorade nacrta plana upravljanja.«.
+
+#### Članak 39.
+
+Članak 57. briše se.
+
+#### Članak 40.
+
+U članku 58. stavku 2. podstavku 2. riječi: »i prirodni areal« brišu se.
+
+Iza podstavka 2. na kraju rečenice umjesto točke stavlja se zarez i dodaje se podstavak 3. koji glasi:
+
+» – prirodno područje rasprostranjenosti vrste se ne smanjuje, niti je vjerojatno da će se smanjiti u predvidivoj budućnosti.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Očuvanje zavičajnih divljih vrsta osigurava se uspostavom ili održavanjem njihova povoljnog stanja u prirodi, vodeći računa o održavanju i obnovi dovoljne raznolikosti i prostranosti njihovih staništa, a osobito:
+
+– uspostavom zaštićenih područja,
+
+– održavanjem i upravljanjem staništima divljih vrsta izvan zaštićenih područja u skladu s njihovim ekološkim potrebama,
+
+– obnovom uništenih staništa,
+
+– stvaranjem novih staništa.«.
+
+#### Članak 41.
+
+U članku 60. stavak 5. briše se.
+
+#### Članak 42.
+
+Članak 62. mijenja se i glasi:
+
+»(1) Održivo korištenje zavičajnih divljih vrsta čije se sakupljanje, odnosno uzimanje iz prirode provodi uz primjenu mjera upravljanja i zaštite osigurava se temeljem posebnih propisa iz područja lovstva te ribarstva i akvakulture, kao i planova gospodarenja donesenih na temelju posebnih propisa iz navedenih upravnih područja ili provedbenih propisa donesenih na temelju ovoga Zakona.
+
+(2) Mjere upravljanja i zaštite zavičajnih divljih vrsta, među ostalim, obuhvaćaju:
+
+– kontinuirano praćenje stanja očuvanosti,
+
+– privremenu ili lokalnu zabranu uzimanja primjeraka iz prirode i korištenja određenih populacija,
+
+– reguliranje razdoblja i/ili metoda uzimanja primjeraka iz prirode,
+
+– primjenu lovnih i ribolovnih pravila koja vode računa o očuvanju populacija vrsta prilikom uzimanja pojedinih primjeraka iz prirode,
+
+– uspostavu sustava dopuštenja za uzimanje iz prirode ili određivanje kvota,
+
+– reguliranje kupnje, prodaje, nuđenja na prodaju, držanja u svrhu prodaje ili prijevoza u svrhu prodaje,
+
+– uzgajanje u zatočeništvu životinjskih vrsta, kao i umjetno razmnožavanje biljnih vrsta, pod strogo kontroliranim uvjetima, kako bi se smanjilo uzimanje primjeraka iz prirode,
+
+– procjenu učinka donesenih mjera.
+
+(3) Središnje tijelo državne uprave nadležno za poslove lovstva, ribarstva i akvakulture osigurava praćenje stanja očuvanosti zavičajne divlje vrste od interesa za Europsku uniju koja je predmet posebnih propisa iz područja lovstva, ribarstva i akvakulture te vodi evidenciju o načinu i količini njezina korištenja i o tome podnosi izvješće Ministarstvu. Izvješće se podnosi svakih šest godina u svrhu izvještavanja Europske komisije, najkasnije do 31. svibnja one godine u kojoj se izvješće dostavlja Europskoj komisiji, osim podataka o korištenju svake pojedine vrste i o njezinoj rasprostranjenosti o čemu se izvješće do navedenog roka podnosi svake godine.
+
+(4) Popis zavičajnih divljih vrsta čije se sakupljanje, odnosno uzimanje iz prirode provodi uz primjenu mjera upravljanja i zaštite u svrhu njihova održivog korištenja sukladno propisima Europske unije kojima se uređuje očuvanje divljih vrsta ili sukladno međunarodnim ugovorima kojih je Republika Hrvatska stranka s navodom tijela odgovornog za primjenu mjera, praćenje i izvješćivanje za pojedinu vrstu s popisa zavičajnih divljih vrsta, sadržaj programa praćenja stanja očuvanosti te sadržaj izvješća određuje Vlada odlukom. Odluka se objavljuje u »Narodnim novinama«.
+
+(5) Popis zavičajnih divljih vrsta čije se sakupljanje, odnosno uzimanje iz prirode u svrhu prerade i/ili daljnje prodaje provodi sukladno odredbama ovoga Zakona, a koje nisu predmet posebnih propisa iz područja lovstva te ribarstva i akvakulture, kao i planova ili programa donesenih na temelju posebnih propisa iz navedenih upravnih područja, detaljni sadržaj zahtjeva i uvjete za ishođenje dopuštenja za njihovo uzimanja iz prirode te mjere upravljanja i zaštite, te detaljni sadržaj izvješća propisuje ministar pravilnikom.«.
+
+#### Članak 43.
+
+U članku 63. stavku 1. riječi: »članka 62. stavka 1.« zamjenjuju se riječima: »članka 62. stavaka 4. i 5.«, a riječ: »može« zamjenjuje se riječju: »će«.
+
+#### Članak 44.
+
+Članak 64. mijenja se i glasi:
+
+»(1) Za sakupljanje, odnosno uzimanje iz prirode u svrhu prerade i/ili prodaje zavičajnih divljih vrsta za koje je to propisano pravilnikom iz članka 62. stavka 5. ovoga Zakona, pravna i fizička osoba dužna je ishoditi dopuštenje Ministarstva.
+
+(2) Dopuštenje iz stavka 1. ovoga članka nije dužna imati samo fizička osoba koja obavlja djelatnost sakupljanja zavičajne divlje vrste u komercijalne svrhe za nositelja dopuštenja, a vezana je ugovornim odnosom s nositeljem dopuštenja sukladno posebnim propisima o radu ili obveznim odnosima.
+
+(3) Zavičajne divlje vrste otkupljene od fizičkih ili pravnih osoba koje nisu nositelji dopuštenja ne smatraju se zakonito stečenim..
+
+(4) Zahtjev za izdavanje dopuštenja iz stavka 1. ovoga članka osobito sadrži:
+
+– podatke o podnositelju zahtjeva,
+
+– opis planirane aktivnosti,
+
+– znanstvene i hrvatske nazive vrsta koje se planiraju sakupiti, odnosno uzeti iz prirode, količine, područje i razdoblje obavljanja aktivnosti.
+
+(5) Zahtjevu se prilaže preslika osobne iskaznice.
+
+(6) Obrazac zahtjeva objavljuje se na mrežnoj stranici Ministarstva.
+
+(7) Ministarstvo izdaje dopuštenje na osnovi stručne podloge Agencije.
+
+(8) Iznimno od stavka 7. ovoga članka, za vrste koje se ne nalaze na popisu vrsta ili skupina vrsta iz stručne podloge Ministarstvo dostavlja zahtjev iz stavka 4. ovoga članka Agenciji na stručno mišljenje.
+
+(9) Stručna podloga i stručno mišljenje iz stavka 7. ovoga članka obvezno sadrže mjere upravljanja i zaštite vrsta ili skupine vrsta koje se uzimaju iz prirode te mjere zaštite njihovih staništa.
+
+(10) Agencija je dužna dostaviti stručno mišljenje iz stavka 7. ovoga članka u roku od 30 dana od primitka zahtjeva iz stavka 4. ovoga članka.
+
+(11) Stručna podloga iz stavka 7. ovoga članka Agencija donosi na rok od tri godine, a po potrebi se može revidirati i prije isteka tog roka.
+
+(12) Stručnu podlogu iz stavka 7. ovoga članka Agencija objavljuje na svojim mrežnim stranicama.
+
+(13) Nositelj dopuštenja za sakupljanje, odnosno uzimanje iz prirode zavičajnih divljih vrsta na zemljištu u privatnom vlasništvu dužan je prije početka sakupljanja, odnosno uzimanja iz prirode pribaviti suglasnost vlasnika ili nositelja prava na prirodnim dobrima, odnosno ishoditi povlasticu sukladno posebnom propisu iz područja ribarstva.«.
+
+#### Članak 45.
+
+U članku 65. stavak 2. mijenja se i glasi:
+
+»(2) Dopuštenje iz članka 64. ovoga Zakona izdaje se najduže na rok do tri godine. Ovaj rok mora biti usklađen s rokom važenja stručne podloge iz članka 64. stavka 7. ovoga Zakona.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Pravna i fizička osoba kojoj je izdano dopuštenje iz članka 64. ovoga Zakona dužna je podnijeti Ministarstvu izvješće o sakupljanju, odnosno uzimanju iz prirode u svrhu prerade i/ili prodaje zavičajnih divljih vrsta, koje osobito sadrži: popis sakupljenih vrsta, podatke o sakupljenim količinama po svakoj vrsti za koju je izdano dopuštenje te podatke o mjestu sakupljanja i vremenu sakupljanja.«.
+
+#### Članak 46.
+
+U članku 66. stavak 1. mijenja se i glasi:
+
+»(1) U odnosu na hvatanje ili ubijanje zavičajnih životinjskih vrsta navedenih u odluci iz članka 62. stavka 4. ovoga Zakona, pravilniku iz članka 62. stavka 5. ovoga Zakona, pravilniku iz članka 151. stavka 2. ovoga Zakona te hvatanje i ubijanje svih vrsta ptica koje se prirodno pojavljuju na teritoriju Republike Hrvatske, a nisu navedene u odluci, pravilnicima iz članka 62. stavka 5. te članka 151. stavka 2. ovoga Zakona, zabranjena je uporaba sredstava za hvatanje i/ili ubijanje koja mogu prouzročiti njihovo lokalno nestajanje ili značajan poremećaj njihovih populacija, kao što su:
+
+– za sisavce i ptice:
+
+1. žive, oslijepljene ili osakaćene životinje koje se koriste kao mamci,
+
+2. odašiljači zvuka,
+
+3. električne i elektroničke ubojite ili omamljujuće naprave,
+
+4. umjetne svjetleće naprave,
+
+5. zrcala i druge zasljepljujuće naprave,
+
+6. naprave za osvjetljavanje cilja,
+
+7. optički nišani za noćni lov s mogućnošću elektroničkog povećavanja ili pretvaranja slike,
+
+8. eksplozivi,
+
+9. mreže koje su načelno ili prema uvjetima uporabe neselektivne,
+
+10. zamke koje su načelno ili prema uvjetima uporabe neselektivne,
+
+11. samostrijel,
+
+12. otrovi i otrovni ili omamljujući mamci,
+
+13. istjerivanje životinja iz skloništa plinom ili dimom,
+
+14. poluautomatsko ili automatsko oružje sa spremnikom koji može sadržavati više od dva naboja,
+
+15. za ptice dodatno i stupice, mreže, zamke, kuke i lijepak,
+
+– za ribe:
+
+1. otrovi,
+
+2. eksplozivi.«.
+
+U stavku 3. riječi: »člankom 155. stavkom 2.« zamjenjuju se riječima: »člankom 155. stavkom 1.«.
+
+U stavku 4. riječi: »članka 155. stavka 3.« zamjenjuju se riječima: »članka 155. stavka 2.«.
+
+#### Članak 47.
+
+Članak 67. mijenja se i glasi:
+
+»(1) Jedinke kralježnjaka iz prirode, osim riba, koje pripadaju nekoj strogo zaštićenoj vrsti, a koje su pronađene iscrpljene, bolesne, ozlijeđene, ranjene ili otrovane zbrinjavaju se u oporavilištima za divlje životinje, u svrhu oporavka i povratka u prirodu.
+
+(2) Iznimno, odredbe stavka 1. ovoga članka ne odnose se na strogo zaštićene vrste kojima se gospodari prema posebnim propisima iz područja lovstva.
+
+(3) U oporavilištu iz stavka 1. ovoga članka zbrinjavaju se i jedinke divljih životinja zaplijenjene ili oduzete na temelju odredbi ovoga Zakona ili posebnog propisa kojim se uređuje prekogranični promet i trgovina divljim vrstama.
+
+(4) Poslove oporavilišta može obavljati pravna osoba koja ishodi ovlaštenje Ministarstva.
+
+(5) Pravna osoba iz stavka 4. ovoga članka može biti:
+
+– udruga upisana u Registar udruga Republike Hrvatske čiji se ciljevi i djelatnosti odnose na zaštitu divljih životinja,
+
+– javna ustanova za upravljanje nacionalnim parkom ili parkom prirode ili ostalim zaštićenim područjima i/ili drugim zaštićenim dijelovima prirode,
+
+– ustanova upisana u sudski registar i registrirana za djelatnost zoološkog vrta /ili skloništa za životinje ili za djelatnost pružanja veterinarskih usluga i liječenja te zaštite zdravlja životinja ili
+
+– društvo upisano u sudski registar i registrirano za djelatnost zoološkog vrta i/ili skloništa za životinje.
+
+(6) Pravna osoba iz stavka 4. ovoga članka mora ispunjavati minimalno sljedeće uvjete:
+
+– imati prethodno iskustvo s oporavkom divljih životinja,
+
+– imati odgovornu osobu za skrb o divljim životinjama koja ima iskustvo u obavljanju poslova skrbi o divljim životinjama i oporavka radi povratka u prirodu,
+
+– imati osiguranu veterinarsku skrb o životinjama,
+
+– imati osigurane opremljene nastambe za one vrste ili skupine divljih životinja za koje se traži ovlaštenje,
+
+– imati osigurano hranjenje životinja u skladu s potrebama svake vrste ili skupine divljih životinja za koje se traži ovlaštenje,
+
+– imati osiguranu opremu za hvatanje životinja, transport i provođenje skrbi za sve vrste ili skupine divljih životinja za koje se traži ovlaštenje,
+
+– imati osiguran prijevoz životinja prometnim sredstvima u skladu s posebnim propisima o zaštiti životinja tijekom prijevoza i s prijevozom povezanih postupaka,
+
+– imati osigurano redovito zbrinjavanje lešina životinja i nusproizvoda životinjskog podrijetla u skladu s posebnim propisima,
+
+– imati osigurano održavanje i dezinfekciju prostora te opreme u skladu s posebnim propisima,
+
+– imati osiguranu mogućnost vođenja evidencije o životinjama na skrbi u elektroničkom obliku.
+
+(7) O izdanim ovlaštenjima iz stavka 4. ovoga članka Ministarstvo vodi evidenciju te redovito ažurira i na svojim mrežnim stranicama objavljuje popis izdanih ovlaštenja.
+
+(8) Pravne osobe iz stavka 4. ovoga članka financiraju se iz sredstava državnog proračuna temeljem cjenika zbrinjavanja životinja koji se utvrđuje pravilnikom iz stavka 10. ovoga članka.
+
+(9) Odluku o konačnom postupanju sa životinjama iz stavaka 1. i 3. ovoga članka koje nije moguće vratiti u prirodu donosi Ministarstvo sukladno posebnom propisu kojim se uređuje prekogranični promet i trgovina divljim vrstama.
+
+(10) Detaljne uvjete koje mora ispunjavati pravna osoba za obavljanje poslova oporavilišta, detaljni sadržaj zahtjeva za izdavanje ovlaštenja, način podnošenja zahtjeva za ovlaštenje, poslove koje obavlja oporavilište, popis ugroženih i rijetkih vrsta životinja koje su prioritetne za zbrinjavanje, razinu skrbi o životinjama ovisno o stupnju ugroženosti, tijek postupanja sa životinjama te uvjete oporavka i skrbi, način financiranja oporavka i skrbi o životinjama i cjenik provođenja osnovne skrbi, način vođenja evidencije i sadržaj evidencije o životinjama zbrinutim u oporavilištu, sadržaj obrasca o predaji životinje u oporavilište, postupanje sa životinjama nesposobnim za povratak u prirodu, postupanje s oporavljenim životinjama spremnim za puštanje u prirodu i nadzor rada oporavilišta propisuje ministar pravilnikom, uz prethodnu suglasnost središnjeg tijela državne uprave nadležnog za poslove veterinarstva i dobrobiti životinja.«.
+
+#### Članak 48.
+
+Iza članka 67. dodaju se članci 67.a i 67.b koji glase:
+
+»Članak 67.a
+
+(1) Zahtjev za ovlaštenje iz članka 67. stavka 4. ovoga Zakona pravna osoba podnosi na način određen pravilnikom iz članka 67. stavka 10. ovoga Zakona.
+
+(2) Zahtjev za ovlaštenje osobito sadrži:
+
+– podatke o podnositelju zahtjeva pravnoj osobi i odgovornoj osobi u pravnoj osobi,
+
+– znanstvene nazive životinjskih vrsta ili skupina koje oporavilište namjerava zbrinjavati,
+
+– podatke o osobama odgovornim za skrb o životinjama,
+
+– opis prostora za smještaj životinja i uvjeta za provođenje skrbi i oporavka,
+
+– podatak o osiguranoj veterinarskoj skrbi,
+
+– podatak o načinu zbrinjavanja lešina životinja i nusproizvoda životinjskog podrijetla,
+
+– ostale podatke i dokumentaciju propisanu pravilnikom iz članka 67. stavka 9. ovoga Zakona.
+
+#### Članak 67.b
+
+(1) Ministarstvo izdaje ovlaštenje iz članka 67. stavka 4. ovoga Zakona ako utvrdi da podnositelj zahtjeva udovoljava uvjetima za obavljanje poslova oporavilišta, provođenje oporavka i skrbi o životinjama te vođenje evidencije, propisanim pravilnikom iz članka 67. stavka 10. ovoga Zakona.
+
+(2) Ovlaštenje iz članka 67. stavka 4. ovoga Zakona izdaje se na rok od pet godina.
+
+(3) Važenje ovlaštenja može se na zahtjev pravne osobe produžiti novim ovlaštenjem na još pet godina, uz uvjet da pravna osoba dokaže da se nisu promijenili uvjeti na temelju kojih je prvobitno ovlaštenje izdano te da su ispunjeni svi uvjeti u skladu s ovim Zakonom i pravilnikom iz članka 67. stavka 10. ovoga Zakona.
+
+(4) Postupak produženja ovlaštenja iz stavka 3. ovoga članka pokreće se na zahtjev ovlaštenika 90 dana prije dana isteka ovlaštenja.
+
+(5) Pravna osoba kojoj je izdano ovlaštenje iz članka 67. stavka 4. ovoga Zakona za sve vrijeme važenja ovlaštenja mora ispunjavati sve uvjete slijedom kojih joj je ovlaštenje izdano.
+
+(6) Ako ovlaštenik ne ispunjava uvjete na temelju kojih je ovlaštenje izdano te uvjete propisane ovim Zakonom i pravilnikom iz članka 67. stavka 10. ovoga Zakona ili prestaje s djelatnostima za koje je ovlašten, Ministarstvo će rješenjem ukinuti izdano ovlaštenje, a po njegovoj pravomoćnosti brisati pravnu osobu s popisa izdanih ovlaštenja.«.
+
+#### Članak 49.
+
+Naslov iznad članka 68. te članci od 68. do 73. brišu se.
+
+#### Članak 50.
+
+U članku 74. stavak 2. podstavak 2. mijenja se i glasi:
+
+» – opis svrhe i načina ponovnog uvođenja ili repopulacije, uključujući vremenski raspored tijekom godine te predviđenu veličinu područja s točnom lokacijom uvođenja.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Odredbe ovoga članka ne odnose se na repopulaciju kada je ona propisana posebnim propisima iz područja šumarstva, lovstva, ribarstva i akvakulture i ako je za plan ili program koji je izrađen na temelju posebnih propisa iz područja šumarstva, lovstva, slatkovodnog i morskog ribarstva proveden postupak ocjene prihvatljivosti za ekološku mrežu.«.
+
+#### Članak 51.
+
+U članku 75. stavku 3. riječi: »na način propisan uredbom iz članka 68. stavka 3. ovoga Zakona« brišu se.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Način pribavljanja mišljenja javnosti, način izrade i sadržaj studije o procjeni utjecaja ponovnog uvođenja nestale zavičajne divlje vrste ili njezine repopulacije na prirodu te način praćenja zavičajne divlje vrste nakon ponovnog uvođenja ili njezine repopulacije propisuje ministar pravilnikom.«.
+
+#### Članak 52.
+
+U članku 76. stavku 4. riječi: »na način propisan uredbom iz članka 68. stavka 3. ovoga Zakona« brišu se.
+
+#### Članak 53.
+
+Članci od 78. do 81. brišu se.
+
+#### Članak 54.
+
+U članku 86. stavku 2. riječ: »uzgojene« briše se.
+
+Stavak 3. briše se.
+
+#### Članak 55.
+
+Članak 87. mijenja se i glasi:
+
+»(1) Studiju iz članka 75. stavka 1. ovoga Zakona izrađuje ovlaštenik.
+
+(2) Troškove izrade studije iz stavka 1. ovoga članka snosi podnositelj zahtjeva.
+
+(3) Ovlaštenik je dužan izraditi studiju iz stavka 1. ovoga članka na temelju podataka koji odražavaju sadašnje stanje te je odgovoran za istinitost, točnost i stručnu utemeljenost studije.«.
+
+#### Članak 56.
+
+Članak 95. mijenja se i glasi:
+
+»(1) Pravna osoba može obavljati poslove genske banke ako ishodi ovlaštenje Ministarstva.
+
+(2) Pravna osoba iz stavka 1. ovoga članka mora ispunjavati minimalno sljedeće uvjete:
+
+– biti registrirana za obavljanje djelatnosti iz područja znanosti, istraživanja, obrazovanja ili muzejske djelatnosti,
+
+– imati imenovanu odgovornu osobu genske banke koja je stalno zaposlena te ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij iz prirodnog, biotehničkog i/ili biomedicinskog područja s najmanje tri godine radnog iskustva na odgovarajućim poslovima,
+
+– imati najmanje dva stalno zaposlena djelatnika prirodne, biotehničke i/ili biomedicinske struke s najmanje tri godine radnog iskustva na odgovarajućim poslovima, od kojih je barem jedna osoba sa završenim preddiplomskim i diplomskim sveučilišnim studijem ili integriranim preddiplomskim i diplomskim sveučilišnim studijem ili specijalističkim diplomskim stručnim studijem iz prirodnog, biotehničkog i/ili biomedicinskog područja i
+
+– imati odgovarajući radni prostor, bilo u svom vlasništvu bilo u zakupu u minimalnom trajanju jednakom roku propisanom za važenje ovlaštenja u kojem obavlja sve radnje u okviru pripreme, obrade, sigurne pohrane, držanja i čuvanja biološkog i/ili genetskog materijala divljih vrsta.
+
+(3) Odredbe ovoga članka ne odnose se na obavljanje poslova genskih i sjemenskih banaka vrsta šumskog drveća koji je uređen posebnim propisom.
+
+(4) O izdanim ovlaštenjima iz stavka 1. ovoga članka Ministarstvo vodi evidenciju te redovito ažurira i na svojim mrežnim stranicama objavljuje popis izdanih ovlaštenja.
+
+(5) Detaljne uvjete za rad genskih banaka u kojima se čuva biološki materijal zavičajnih divljih vrsta zaštićenih na temelju ovoga Zakona, način izdavanja ovlaštenja, detaljni sadržaj zahtjeva za izdavanje ovlaštenja te sadržaj i način vođenja evidencije o izdanim ovlaštenjima ministar propisuje pravilnikom.«.
+
+#### Članak 57.
+
+Iza članka 95. dodaju se članci 95.a i 95.b koji glase:
+
+»Članak 95.a
+
+(1) Zahtjev za ovlaštenje iz članka 95. stavka 1. ovoga Zakona pravna osoba podnosi na način određen pravilnikom iz članka 95. stavka 5. ovoga Zakona.
+
+(2) Zahtjev za ovlaštenje, osobito sadrži:
+
+– podatke o podnositelju zahtjeva pravnoj osobi i odgovornoj osobi u pravnoj osobi,
+
+– podatke o genskoj banci, odgovornoj osobi za gensku banku i osobama koje će neposredno obavljati poslove genske banke,
+
+– podatke o predmetu obavljanja poslova genske banke,
+
+– podatke o čuvanom materijalu,
+
+– opis metodologije pohrane i čuvanja (skladištenja) biološkog i/ili genetskog materijala,
+
+– petogodišnji plan rada za obavljanje poslova genske banke,
+
+– ostale podatke i dokumentaciju propisanu pravilnikom iz članka 95. stavka 5. ovoga Zakona.
+
+#### Članak 95.b
+
+(1) Ministarstvo izdaje ovlaštenje iz članka 95. stavka 1. ovoga Zakona ako utvrdi da podnositelj zahtjeva udovoljava uvjetima za obavljanje poslova genske banke propisanim pravilnikom iz članka 95. stavka 5. ovoga Zakona.
+
+(2) Ovlaštenje iz članka 95. stavka 1. ovoga Zakona izdaje se na rok od pet godina.
+
+(3) Važenje ovlaštenja može se na zahtjev pravne osobe produžiti novim ovlaštenjem na još pet godina, uz uvjet da pravna osoba dokaže da se nisu promijenili uvjeti na temelju kojih je prvobitno ovlaštenje izdano te da su ispunjeni svi uvjeti u skladu s ovim Zakonom i pravilnikom iz članka 95. stavka 5. ovoga Zakona.
+
+(4) Postupak produženja ovlaštenja iz stavka 3. ovoga članka pokreće se na zahtjev ovlaštenika 90 dana prije dana isteka ovlaštenja.
+
+(5) Pravna osoba kojoj je izdano ovlaštenje iz članka 95. stavka 1. ovoga Zakona za sve vrijeme važenja ovlaštenja mora ispunjavati sve uvjete slijedom kojih joj je ovlaštenje izdano.
+
+(6) Ako ovlaštenik ne ispunjava uvjete na temelju kojih je ovlaštenje izdano te uvjete propisane ovim Zakonom i pravilnikom iz članka 95. stavka 5. ovoga Zakona ili prestaje s djelatnostima za koje je ovlašten, Ministarstvo će rješenjem ukinuti izdano ovlaštenje, a po njegovoj pravomoćnosti brisati pravnu osobu s popisa izdanih ovlaštenja.«.
+
+#### Članak 58.
+
+Članak 105. mijenja se i glasi:
+
+»(1) Pravna i fizička osoba koja namjerava provoditi istraživanja ili obavljati radnje u speleološkom objektu ili njegovu nadzemlju, kao i provoditi zahvate za koje nije potrebno ishoditi akt kojim se odobrava građenje prema posebnom propisu kojim se uređuje gradnja, dužna je ishoditi dopuštenje nadležnog tijela.
+
+(2) Zahtjev za izdavanje dopuštenja iz stavka 1. ovoga članka osobito sadrži podatke o:
+
+– izvoditelju zahvata, radnji ili istraživanja,
+
+– opisu zahvata, radnji ili istraživanja,
+
+– svrsi zahvata, radnji ili istraživanja,
+
+– lokaciji zahvata, radnji ili istraživanja,
+
+– načinu izvođenja zahvata, radnji ili istraživanja,
+
+– vremenu u kojem će se izvoditi zahvat, radnja ili istraživanje,
+
+– korištenoj opremi, alatima, strojevima i dr.«.
+
+#### Članak 59.
+
+Članak 106. mijenja se i glasi:
+
+»(1) Ministarstvo izdaje dopuštenje iz članka 105. ovog Zakona za:
+
+– speleološke objekte koji se nalaze na području strogog rezervata, nacionalnog parka, posebnog rezervata i parka prirode,
+
+– speleološke objekte koji nisu posebno zaštićeni i/ili se nalaze izvan zaštićenog područja.
+
+(2) Upravno tijelo izdaje dopuštenje iz članka 105. ovog Zakona za speleološke objekte koji se nalaze na području spomenika prirode, regionalnog parka, značajnog krajobraza, park-šume i spomenika parkovne arhitekture.
+
+(3) Iznimno od stavka 2. ovoga članka za obavljanje znanstvenih i/ili stručnih istraživanja u speleološkim objektima na području dvije ili više jedinica područne (regionalne) samouprave i/ili Grada Zagreba godišnje dopuštenje izdaje Ministarstvo.
+
+(4) Dopuštenje iz članka 105. ovoga Zakona izdaje se na rok do pet godina.
+
+(5) Nadležno tijelo izdaje dopuštenje iz članka 105. ovoga Zakona ako utvrdi da zahvat, radnja ili istraživanje neće nepovoljno utjecati na temeljna obilježja i vrijednosti speleološkog objekta, stanišne uvjete i živi svijet u speleološkom objektu.
+
+(6) Vlasnik ili nositelj prava na zemljištu na kojemu se nalazi speleološki objekt dužan je omogućiti pristup tom objektu i provođenje zahvata, obavljanje radnje i/ili istraživanja za koje je ishođeno dopuštenje iz članka 105. ovoga Zakona.
+
+(7) Nadležno tijelo može dopuštenjem iz članka 105. stavka 1. ovoga Zakona odrediti obvezu dostave izvješća ili rezultata istraživanja ako ocijeni da je to od interesa za zaštitu prirode.«.
+
+#### Članak 60.
+
+Članak 107. mijenja se i glasi:
+
+»(1) Speleološkim objektima, na način propisan ovim Zakonom, upravljaju javne ustanove iz članka 130. ovoga Zakona.
+
+(2) Javna ustanova koja upravlja nacionalnim parkom ili parkom prirode upravlja speleološkim objektima koji se nalaze na području nacionalnog parka i parka prirode, a može upravljati i drugim speleološkim objektima koji se nalaze na području ekološke mreže temeljem nadležnosti dane odredbom članka 56.a ovoga Zakona.
+
+(3) Javna ustanova za upravljanje ostalim zaštićenim područjima i/ili drugim zaštićenim dijelovima prirode upravlja speleološkim objektima koji se nalaze na zaštićenim područjima kojima upravljaju i drugim speleološkim objektima koji se nalaze na području jedinice lokalne, područne (regionalne) samouprave sukladno mjesnoj nadležnosti te drugim speleološkim objektima koji se nalaze na području ekološke mreže temeljem nadležnosti dane odredbom članka 56.a ovoga Zakona.
+
+(4) Upravljanje speleološkim objektom radi posjećivanja ili obavljanja druge djelatnosti u speleološkom objektu, u kojem je to dopušteno sukladno ovom Zakonu, može se povjeriti pravnim ili fizičkim osobama koje su registrirane za obavljanje navedenih djelatnosti na temelju koncesije Ministarstva ili koncesijskog odobrenja nadležne javne ustanove.
+
+(5) Na pitanja vezana uz koncesije i koncesijska odobrenja za speleološke objekte koja nisu uređena ovim člankom primjenjuju se odredbe članaka od 178. do 193. ovoga Zakona.«.
+
+#### Članak 61.
+
+Članak 108. briše se.
+
+#### Članak 62.
+
+U članku 123. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Ako se područje koje se predlaže zaštititi nalazi na području dvije ili više jedinica područne (regionalne) samouprave, akt o proglašenju, na temelju zajedničkog prijedloga jedinica područne (regionalne) samouprave na čijem se teritoriju proteže područje koje se želi zaštiti, donosi Vlada uredbom.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 63.
+
+Članak 124. mijenja se i glasi:
+
+»(1) Prijedlog akta o proglašavanju zaštićenog područja temelji se na:
+
+– izjavi tijela koje donosi akt o proglašenju o osiguranim sredstvima za provođenje postupka proglašenja i upravljanje zaštićenim područjem,
+
+– stručnoj podlozi kojom se utvrđuju vrijednosti i obilježja područja koje se predlaže zaštititi i način upravljanja tim područjem,
+
+– geodetskoj podlozi za zaštićena područja kojom se prostorno određuje područje koje se predlaže zaštititi i upis posebnog pravnog režima – zaštićeno područje u katastar i zemljišnu knjigu.
+
+(2) Stručna podloga iz stavka 1. ovoga članka sadrži detaljni opis obilježja i vrijednosti područja koje se zaštićuje, ocjenu stanja toga područja, posljedice koje će donošenjem akta o proglašenju proisteći, posebno s obzirom na vlasnička prava i zatečene gospodarske djelatnosti te ocjenu i izvore potrebnih sredstava za provođenje akta o proglašenju zaštićenog područja.
+
+(3) Stručnu podlogu izrađuje Agencija na zahtjev Ministarstva.
+
+(4) Geodetsku podlogu iz stavka 1. podstavka 3. ovoga članka čini preklop DOF 5 s katastarskim planom i ucrtanom granicom zaštićenog područja, koju je ovjerio ovlašteni inženjer geodezije u digitalnom i analognom obliku, te popis katastarskih čestica koje su obuhvaćene tim područjem.
+
+(5) Geodetska podloga iz stavka 1. podstavka 3. ovoga članka izrađuje se na zahtjev predlagatelja akta o zaštiti.«.
+
+#### Članak 64.
+
+U članku 126. stavku 1. podstavku 5. riječ: »posebnu« briše se.
+
+#### Članak 65.
+
+U članku 130. stavak 10. mijenja se i glasi:
+
+»(10) Zaštićenim područjima na prostoru nacionalnog parka ili parka prirode koja proglašava Vlada ili predstavničko tijelo jedinice područne (regionalne) samouprave upravlja nadležna javna ustanova za upravljanje nacionalnim parkom ili parkom prirode.«.
+
+Iza stavka 11. dodaju se stavci 12., 13. i 14. koji glase:
+
+»(12) Zaštićenim područjima koja graniče ili se nalaze neposredno uz granicu nacionalnog parka ili parka prirode može upravljati javna ustanova za upravljanje nacionalnim parkom ili parkom prirode.
+
+(13) Javne ustanove za upravljanje zaštićenim područjima upravljaju speleološkim objektima sukladno članku 107. ovoga Zakona.
+
+(14) Javne ustanove za upravljanje zaštićenim područjima upravljaju područjem ekološke mreže temeljem mjesne nadležnosti utvrđene uredbom Vlade donesene temeljem odredbe članka 56.a ovoga Zakona.«.
+
+#### Članak 66.
+
+U članku 132. stavku 1. iza podstavka 3. dodaje se novi podstavak 4. koji glasi:
+
+» – donacija pravnih i fizičkih osoba,«.
+
+Dosadašnji podstavak 4. postaje podstavak 5.
+
+#### Članak 67.
+
+U članku 138. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Plan upravljanja obvezno sadrži:
+
+– analizu stanja zaštićenog područja,
+
+– ciljeve upravljanja,
+
+– aktivnosti za postizanje ciljeva,
+
+– upravljačke zone zaštićenog područja,
+
+– pokazatelje provedbe plana.
+
+(4) Planovi upravljanja iz stavka 1. ovoga članka koji su ujedno i planovi upravljanja ekološkom mrežom sadrže i odredbe iz članka 56. stavka 4. ovoga Zakona.«.
+
+#### Članak 68.
+
+Članak 139. mijenja se i glasi:
+
+»(1) U zaštićenim područjima zabranjene su osobito sljedeće radnje:
+
+– kretati se plovilom, usidriti i/ili privezati plovila izvan mjesta određenih prostornim planom i aktom državnog tijela nadležnog za unutarnju plovidbu, ako se zaštićeno područje nalazi na unutarnjim vodama,
+
+– prati plovila ili vozila na površinskim kopnenim vodama, obali mora ili u moru,
+
+– privezati plovila izvan mjesta određenih prostornim planom koja imaju status privezišta, sidrišta ili luke, ako se zaštićeno područje nalazi na pomorskom dobru,
+
+– uzimati iz prirode, hvatati, uznemiravati divlje vrste koje nisu strogo zaštićene u strogom rezervatu, posebnom rezervatu i nacionalnom parku,
+
+– hraniti divlje životinje na području strogog rezervata, posebnog rezervata i nacionalnog parka,
+
+– obavljati nedozvoljene podvodne aktivnosti,
+
+– obavljati nedozvoljeni ribolov,
+
+– držati stoku na slobodnoj ispaši izvan sezone ispaše,
+
+– voziti i/ili parkirati vozila i bicikle izvan površina namijenjenih za vožnju ili parkiranje,
+
+– oštetiti i/ili uništiti znak i/ili informativnu ploču i/ili didaktičku opremu,
+
+– ložiti vatru izvan naselja i/ili mjesta koja su posebno označena i određena za tu namjenu,
+
+– kampirati, odnosno logorovati izvan za to predviđenih i označenih mjesta,
+
+– postavljati nove penjačke smjerove bez odobrenja javne ustanove,
+
+– polijetati sportskim parajedrilicama i ovjesnim jedrilicama izvan površina koje su posebno označene i određene za tu namjenu,
+
+– nedozvoljeno koristiti bespilotne letjelice na području strogog rezervata, posebnog rezervata i nacionalnog parka,
+
+– kretati se izvan označenih pješačkih staza i izvan područja predviđenog za posjećivanje na području strogog rezervata, posebnog rezervata i nacionalnog parka osim pri provedbi istraživanja za koje je ishođeno dopuštenje,
+
+– posjetiti bez ulaznice ili vinjete kad je ulaznica ili vinjeta obvezna,
+
+– odložiti otpad izvan predviđenog i označenog mjesta,
+
+– kupati se na mjestima određenima od strane nadležne javne ustanove kao područja zabrane kupanja.
+
+(2) Zabrane iz stavka 1. podstavaka 1., 3.i 9. ovoga članka ne odnose se na ovlaštene osobe u obavljanju službenih dužnosti i zaposlenike pravnih osoba koje obavljaju dopuštenu djelatnost u zaštićenom području, kao ni na pravne i fizičke osobe koje u slučaju opasnosti ili akcidenta obavljaju poslove zaštite i spašavanja ljudi i imovine.«.
+
+#### Članak 69.
+
+Članak 140. mijenja se i glasi:
+
+»(1) Za zaštićena područja u kategoriji strogog rezervata i nacionalnog parka donosi se program zaštite, njege i obnove šuma koji sadrži mjere njihove zaštite.
+
+(2) Troškove izrade i provođenja programa iz stavka 1. ovoga članka snosi nadležna javna ustanova.
+
+(3) Za zaštićena područja u kategoriji posebnog rezervata šumske vegetacije i park-šume donosi se program zaštite, njege i obnove šuma koji sadrži mjere njihove zaštite i sastavni je dio šumskogospodarskog plana, te se izrađuje i provodi u sklopu šumskogospodarskog plana.
+
+(4) Program iz stavka 1. ovoga članka izrađuje se i donosi sukladno posebnom propisu iz područja šumarstva kojim se uređuje izrada šumskogospodarskog plana uz prethodnu suglasnost Ministarstva.
+
+(5) Provođenje programa iz stavka 1. ovoga članka nadležna javna ustanova može povjeriti pravnoj osobi ovlaštenoj za provođenje programa zaštite, njege i obnove šuma sklapanjem ugovora.
+
+(6) Prijedlog programa zaštite, njege i obnove šuma javne ustanove dužne su staviti na uvid javnosti sukladno posebnom propisu kojim se uređuje zaštita okoliša.
+
+(7) Program zaštite, njege i obnove šuma u čijem se obuhvatu nalazi ekološka mreža smatra se planom upravljanja ekološkom mrežom iz članka 56.b ovoga Zakona.«.
+
+#### Članak 70.
+
+Članak 142. mijenja se i glasi:
+
+»(1) Za zaštićena područja u kategoriji strogog rezervata, nacionalnog parka, posebnog rezervata i parka prirode, na prijedlog upravnog vijeća nadležne javne ustanove uz prethodno pribavljeno mišljenje Agencije, ministar donosi pravilnik o zaštiti i očuvanju.
+
+(2) Pravilnikom iz stavka 1. ovoga članka pobliže se propisuju mjere zaštite, očuvanja, unapređenja i korištenja te upravljačke zone zaštićenog područja.
+
+(3) Za ostale kategorije zaštićenih područja predstavničko tijelo nadležne jedinice lokalne ili područne (regionalne) samouprave, na prijedlog upravnog vijeća nadležne javne ustanove uz prethodno pribavljeno mišljenje Agencije i prethodnu suglasnost Ministarstva, može donijeti odluku o mjerama zaštite i očuvanja zaštićenog područja.
+
+(4) Odlukom iz stavka 3. ovoga članka pobliže se propisuju mjere zaštite, očuvanja, unapređenja i korištenja te upravljačke zone zaštićenog područja, kao i mjere za provođenje te odluke.
+
+(5) Za zaštićena područja iz stavaka 1. i 3. ovoga članka pravilnik o zaštiti i očuvanju, odnosno odluka o mjerama zaštite i očuvanja zaštićenih područja donosi se uz prethodno mišljenje središnjih tijela državne uprave nadležnih za poslove pomorstva, šumarstva, ribarstva i akvakulture kada je prirodno obilježje zbog kojeg je područje zaštićeno iz njihova djelokruga.
+
+(6) Ako nadležno tijelo iz stavka 5. ovoga članka ne dostavi prethodno mišljenje u roku od 30 dana, smatrat će se da je prethodno mišljenje izdano.«.
+
+#### Članak 71.
+
+Naslov iznad članka 143. mijenja se i glasi: »Zahvati i istraživanja«.
+
+Članak 143. mijenja se i glasi:
+
+»Utvrđivanje uvjeta zaštite prirode te izdavanje potvrda i drugih akata za građenje sukladno posebnim propisima iz područja prostornog uređenja i posebnim propisima iz područja gradnje provodi:
+
+– Ministarstvo za zahvate na području posebnog rezervata i za zahvate iz članka 29. stavka 1. ovoga Zakona koji se izvode na području nacionalnog parka i/ili parka prirode te za zahvate kojima je nositelj javna ustanova za upravljanje nacionalnim parkom ili parkom prirode,
+
+– javna ustanova za upravljanje nacionalnim parkom ili parkom prirode za zahvate koji se izvode na području nacionalnog parka ili parka prirode osim za zahvate iz podstavka 1. ovoga stavka,
+
+– upravno tijelo za zahvate koji se izvode na području spomenika prirode, regionalnog parka, značajnog krajobraza, park-šume i spomenika parkovne arhitekture.«.
+
+#### Članak 72.
+
+U članku 144. stavak 2. mijenja se i glasi:
+
+»(2) Zahtjev za izdavanje dopuštenja iz stavka 1. ovoga članka sadrži:
+
+– opis zahvata ili idejno rješenje,
+
+– lokaciju zahvata,
+
+– trajanje i vrijeme izvođenja zahvata,
+
+– način izvođenja zahvata,
+
+– podatke o opremi, alatima, strojevima i dr. za izvođenje zahvata.«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Odredbe ovoga članka ne primjenjuju se na zahvate koji su predviđeni planovima ili programima iz područja šumarstva, lovstva, vodnoga gospodarstva i ribarstva za koje je proveden postupak ocjene prihvatljivosti za ekološku mrežu, osim ako uvjetima iz članka 48. stavka 8. ovoga Zakona nije drukčije utvrđeno.«.
+
+#### Članak 73.
+
+U članku 145. stavku 1. iza riječi: »istraživanja« dodaju se riječi: »sastavnica prirode«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Inventarizacija i praćenje stanja očuvanosti prirode (monitoring) u zaštićenom području koji ne uključuju korištenje invazivnih metoda s jedinkama strogo zaštićenih vrsta, a koje provode javne ustanove za upravljanje zaštićenim područjima prema metodologiji i protokolu iz članka 15. stavka 1. podstavka 6. ovoga Zakona, ne smatraju se istraživanjem u smislu ovoga članka.«.
+
+#### Članak 74.
+
+Iza članka 145. dodaje se članak 145.a koji glasi:
+
+»Članak 145.a
+
+Dopuštenje iz članaka 144. i 145. ovoga Zakona izdaje:
+
+– Ministarstvo za zahvate i istraživanja na području strogog rezervata, nacionalnog parka, posebnog rezervata i parka prirode,
+
+– upravno tijelo za zahvate i istraživanja na području spomenika prirode, regionalnog parka, značajnog krajobraza, park-šume i spomenika parkovne arhitekture.«.
+
+#### Članak 75.
+
+Naslov iznad članka 148. i članak 148. brišu se.
+
+#### Članak 76.
+
+U članku 151. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Plan upravljanja strogo zaštićenom vrstom s akcijskom planom odlukom donosi ministar, osim za strogo zaštićene vrste kojima se gospodari prema posebnim propisima iz područja lovstva i ribarstva, za koje plan upravljanja s akcijskim planom uz suglasnost Ministarstva donosi ministar nadležan za poslove lovstva, ribarstva i akvakulture.«.
+
+#### Članak 77.
+
+U članku 152. stavak 1. mijenja se i glasi:
+
+»(1) Mjere zaštite strogo zaštićenih vrsta i mjere zaštite njihovih staništa sastavni su dio uvjeta zaštite prirode iz članka 23., članka 48. stavka 8. i članka 143. ovoga Zakona.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ministarstvo može rješenjem po službenoj dužnosti odrediti mjere zaštite za strogo zaštićene vrste i mjere zaštite njihovih staništa.«.
+
+#### Članak 78.
+
+U članku 153. stavak 1. mijenja se i glasi:
+
+»(1) Zabranjeno je namjerno branje, rezanje, sječa, iskopavanje, sakupljanje ili uništavanje jedinki strogo zaštićenih biljaka, gljiva, lišajeva i algi iz prirode u njihovu prirodnom području rasprostranjenosti.«.
+
+U stavku 2. podstavak 3. mijenja se i glasi:
+
+» – namjerno uništavanje ili uzimanje jaja te njihovo čuvanje, čak i ako su prazna,«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Zabranjeno je držanje, prijevoz, prodaja, razmjena te nuđenje na prodaju ili razmjenu živih ili mrtvih jedinki iz prirode strogo zaštićenih vrsta iz stavaka 1. i 2. ovoga članka, a kad se radi o pticama, navedene zabrane odnose se i na bilo koji njihov lako prepoznatljivi dio ili derivat.«.
+
+#### Članak 79.
+
+U članku 154. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Odredba stavka 1. ovoga članka ne odnosi se na strogo zaštićene vrste kojima se gospodari prema posebnim propisima iz područja lovstva i ribarstva.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+Dosadašnji stavak 4. briše se.
+
+#### Članak 80.
+
+U članku 155. stavak 1. briše se.
+
+U dosadašnjem stavku 2., koji postaje stavak 1., podstavak 5. mijenja i glasi:
+
+» – kako bi se dopustilo, pod strogo nadziranim uvjetima, na selektivnoj osnovi i u ograničenom razmjeru, uzimanje i zadržavanje određenih primjeraka strogo zaštićenih vrsta u ograničenom broju.«.
+
+Iza dosadašnjeg stavka 2., koji je postao stavak 1., dodaje se novi stavak 2. koji glasi:
+
+»(2) Za divlje vrste ptica odstupanje iz stavka 1. ovoga članka ne može se odobriti u interesu očuvanja prirodnih staništa, radi sprječavanja štete na ostalim oblicima imovine, kao ni radi sigurnosti imovine ili ostalih razloga prevladavajućeg javnog interesa, uključujući interese socijalne ili gospodarske prirode te korisnih posljedica od primarnog značaja za okoliš, ali se dodatno može odobriti u interesu sigurnosti zračnog prometa.«.
+
+Stavak 3. mijenja se i glasi:
+
+»Za odstupanje iz stavaka 1. i 2. ovoga članka pravna ili fizička osoba dužna je ishoditi dopuštenje Ministarstva.«.
+
+#### Članak 81.
+
+U članku 157. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) U interesu javnog zdravlja, sigurnosti ljudi i imovine Ministarstvo može donijeti usmeno rješenje za odstupanje od odredbi članka 153. ovoga Zakona.
+
+(6) Pisani otpravak usmenog rješenja mora se dostaviti stranki.«.
+
+#### Članak 82.
+
+U članku 163. stavak 3. mijenja se i glasi:
+
+»(3) Uvjete pod kojima se zaštićeni minerali i fosili mogu dati pravnoj ili fizičkoj osobi na zaštitu i čuvanje utvrđuje Ministarstvo dopuštenjem.«.
+
+Stavak 4. briše se.
+
+#### Članak 83.
+
+U cijelom tekstu članka 165. riječi: »Agencija za upravljanje državnom imovinom (u daljnjem tekstu: Agencija)« u određenom padežu zamjenjuju se riječima: »središnje tijelo državne uprave nadležno za državnu imovinu« u odgovarajućem padežu.
+
+#### Članak 84.
+
+U članku 168. stavku 1. riječi: »je dužna« zamjenjuju se riječju: »može«.
+
+U stavku 2. riječi: »dužna je« zamjenjuju se riječju: »može«.
+
+#### Članak 85.
+
+U članku 172. stavak 1. mijenja se i glasi:
+
+»(1) Oštećenik ima pravo na naknadu štete u visini direktne imovinske štete koju nanesu životinje strogo zaštićenih divljih vrsta ako je poduzeo radnje i zahvate sukladno odredbama članka 171. ovoga Zakona. Izmakla korist se ne nadoknađuje.«.
+
+Stavak 8. mijenja se i glasi:
+
+»(8) Ministarstvo vodi jedinstveni elektronički popis vještaka i objavljuje ga na svojoj mrežnoj stranici.«.
+
+Iza stavka 8. dodaju se stavci 9. i 10. koji glase:
+
+»(9) Naknada štete iz stavka 1. ovoga članka ne može biti predmet ovrhe na novčanoj tražbini.
+
+(10) Ako oštećenik ne prijavi štetu u roku iz stavka 2. ovoga članka, nema pravo na naknadu štete.«.
+
+#### Članak 86.
+
+Članak 175. mijenja se i glasi:
+
+»(1) Nositelj zahvata dužan je od nadležnog tijela iz članka 29. ovoga Zakona ishoditi izmjenu rješenja iz članka 33. stavka 2. ovoga Zakona za izmjenu zahvata.
+
+(2) Nadležno tijelo iz članka 29. ovoga Zakona će po službenoj dužnosti, a nakon pribavljenog mišljenja Agencije, donijeti izmjenu rješenja iz članka 33. stavka 2. ovoga Zakona ako se na temelju rezultata provedenog programa praćenja i izvješćivanja o stanju ciljeva očuvanja i cjelovitosti područja ekološke mreže utvrdi da je provedbom zahvata unatoč primjeni mjera ublažavanja propisanih rješenjem iz članka 33. stavka 2. ovoga Zakona došlo do značajnog utjecaja na ciljeve očuvanja i cjelovitost područja ekološke mreže.
+
+(3) Ministarstvo će po službenoj dužnosti donijeti rješenje kojim neće dopustiti proširenje matičnog fonda u uzgoju divlje vrste, ako se proširenje planira jedinkama koje nemaju zakonito podrijetlo.
+
+(4) Podnositelj zahtjeva dužan je ishoditi izmjenu dopuštenja iz članaka 105., 144. i 145. ovoga Zakona u slučaju promjene vremena obavljanja istraživanja i/ili radnje i/ili zahvata i načina obavljanja istraživanja i/ili radnje i/ili provođenja zahvata.
+
+(5) Rješenje o izmjeni dopuštenja iz članka 105., 144. i 145. ovoga Zakona donosi upravno tijelo, odnosno Ministarstvo koje je izdalo dopuštenje koje se mijenja.
+
+(6) Ministarstvo može u bilo kojem trenutku ukinuti, u cijelosti ili djelomično, rješenje iz članka 33. stavka 2. ovoga Zakona, kao i rješenje iz stavaka 1., 2., 3. i 5. ovoga članka te dopuštenja iz članaka 59., 64., 74., 82., 89., 96., 105., 110., 144., 145., 155., 162. i 164. ovoga Zakona u slučaju nepridržavanja njima propisanih uvjeta ili mjera ublažavanja ili nastanka nepredviđenih događaja s negativnim učincima na prirodu.«.
+
+#### Članak 87.
+
+Članak 176. mijenja se i glasi:
+
+»Nadležno tijelo po prijedlogu inspektora zaštite prirode iz članka 224. stavaka 1. i 3. ovoga Zakona rješenjem ukida rješenje iz članka 175. stavaka 1., 2. i 5. ovoga Zakona, dopuštenje iz članaka 59., 64., 74., 82., 89., 96., 105., 110., 144., 145., 155., 162. i 164. ovoga Zakona, kao i ovlaštenje iz članaka 67. i 95. ovoga Zakona.«.
+
+#### Članak 88.
+
+Članak 177. mijenja se i glasi:
+
+»(1) Rješenje iz članaka 30., 31., 33., 34., 35., 38., 41., 43., 48., 50., 67.b, 95.b, 100., 101., 102., 109., 152., 157., 160., članka 175. stavaka 1., 2., 3. i 5. i članka 176. ovoga Zakona, dopuštenje iz članaka 59., 64., 74., 82., 89., 96., 105., 110., 144., 145., 155., 162., 163. i 164. ovoga Zakona, ovlaštenje iz članka 67. i 95. ovoga Zakona, kao i odluka o koncesijskom odobrenju iz članka 189. ovoga Zakona je upravni akt.
+
+(2) Protiv rješenja iz članaka 30., 31., 33., 43., 48., 50., članka 175. stavaka 1. i 5. i članka 176. ovoga Zakona, dopuštenja iz članaka 105., 144. i 145. ovoga Zakona koje je donijelo upravno tijelo, kao i odluke o koncesijskom odobrenju iz članka 189. ovoga Zakona koju je donio ravnatelj ili upravno vijeće nadležne javne ustanove može se izjaviti žalba Ministarstvu.
+
+(3) Protiv rješenja iz članaka 30., 31., 33., 43., 48., 50., članka 175. stavaka 1., 2., 3. i 5. i članka 176. ovoga Zakona i dopuštenja iz članaka 105., 144. i 145. ovoga Zakona koje je donijelo Ministarstvo te rješenja iz članaka 34., 35., 38., 41., 67.b, 95.b, 100., 101., 102., 109., 152., 157., 160. i članka 175. stavka 3. ovoga Zakona i dopuštenja iz članaka 59., 64., 74., 82., 89., 96., 105., 110., 155., 162., 163. i 164. ovoga Zakona te ovlaštenja iz članka 67. i članka 95. ovoga Zakona nije dopuštena žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 89.
+
+Članak 188. mijenja se i glasi:
+
+»(1) Javne ustanove mogu dati koncesijsko odobrenje pravnim ili fizičkim osobama na vrijeme do pet godina za gospodarsko korištenje prirodnih dobara i/ili obavljanje drugih dopuštenih djelatnosti na zaštićenom području i speleološkom objektu kojima upravljaju.
+
+(2) Iznimno od stavka 1. ovoga članka, koncesijsko odobrenje ne može se dati na pomorskom dobru te šumama i šumskom zemljištu u vlasništvu Republike Hrvatske, osim za speleološke objekte koji se nalaze u šumama i šumskom zemljištu u vlasništvu Republike Hrvatske.
+
+(3) Za koncesijsko odobrenje na zaštićenom dijelu prirode koje se izdaje prema posebnom propisu potrebno je ishoditi suglasnost Ministarstva.
+
+(4) Vlada može odlukom odrediti pojedine dijelove pomorskog dobra na kojem se nalaze zaštićeni dijelovi prirode, a na kojem se ne može dati koncesijsko odobrenje propisano posebnim zakonom kojim se uređuje davanje koncesije na pomorskom dobru.
+
+(5) Odluka iz stavka 4. ovoga članka objavljuje se u »Narodnim novinama«.
+
+(6) Pravne i fizičke osobe koje djelatnost u zaštićenom području obavljaju temeljem koncesije sukladno posebnom propisu nisu dužne za obavljanje te djelatnosti imati koncesijsko odobrenje iz stavka 1. ovoga članka.
+
+(7) Pravne i fizičke osobe iz stavka 1. moraju biti registrirane za obavljanje djelatnosti koja je predmet davanja koncesijskog odobrenja.
+
+(8) Djelatnosti za koje se može dati koncesijsko odobrenje na zaštićenom području, način izdavanja koncesijskog odobrenja i način utvrđivanja novčane naknade propisuje ministar pravilnikom.«.
+
+#### Članak 90.
+
+Članak 189. mijenja se i glasi:
+
+»(1) Postupak davanja koncesijskog odobrenja provodi se javnim prikupljanjem ponuda, a može se pokrenuti na zahtjev pravne i/ili fizičke osobe ili po službenoj dužnosti.
+
+(2) Iznimno od stavka 1. ovoga članka, koncesijsko odobrenje može se dati neposredno na zahtjev bez prikupljanja ponuda:
+
+– za obavljanje jednokratnih djelatnosti ili djelatnosti koje se ne obavljaju u kontinuitetu dužem od sedam dana na godišnjoj razini,
+
+– vlasniku i/ili nositelju prava na zemljištu na kojemu se nalazi ulaz/izlaz speleološkog objekta,
+
+– vlasniku i/ili nositelju prava na nekretnini unutar zaštićenog područja.
+
+(3) Odluku o koncesijskom odobrenju iz stavka 1. i stavka 2. podstavaka 2. i 3. ovoga članka donosi upravno vijeće javne ustanove, a odluku iz stavka 2. podstavka 1. ovoga članka donosi ravnatelj nadležne javne ustanove.
+
+(4) Odluka o koncesijskom odobrenju je upravni akt, a objavljuje se na mrežnoj stranici javne ustanove.«.
+
+#### Članak 91.
+
+U članku 195. iza stavka 2. dodaju se novi stavak 3. i stavak 4. koji glase:
+
+»(3) Iznimno od odredbe stavka 1. ovoga članka, uspostavu i organizaciju praćenja stanja lovnih vrsta kojima se gospodari sukladno posebnom propisu iz područja lovstva i ribolovnih vrsta kojima se gospodari sukladno posebnom propisu iz područja ribarstva i akvakulture, a koje su navedene u odluci iz članka 62. stavka 4. ovoga Zakona, provodi središnje tijelo državne uprave nadležno za poslove lovstva, ribarstva i akvakulture.
+
+(4) Praćenje stanja provodi se prema smjernicama Europske komisije za izvještavanje sukladno članku 17. Direktive Vijeća 92/43/EEZ i članku 12. Direktive 2009/147/EZ važećim za tekuće izvještajno razdoblje.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+#### Članak 92.
+
+U članku 196. stavku 2. riječi: »i ekološki značajnim« brišu se.
+
+#### Članak 93.
+
+U članku 197. stavak 2. mijenja se i glasi:
+
+»(2) Na temelju rezultata praćenja stanja vrsta i stanišnih tipova Agencija te nadležno tijelo iz članka 195. stavka 3. ovoga Zakona, u skladu sa smjernicama Europske komisije iz članka 195. stavka 4. ovoga Zakona, izrađuju izvješće o stanju očuvanosti vrsta, uključujući i ptice, te stanišnih tipova. Agencija objedinjava izvješće te ga dostavlja Ministarstvu koje ga utvrđuje i dostavlja Europskoj komisiji.«.
+
+#### Članak 94.
+
+U članku 204. stavku 1. iza riječi: »i lokalne samouprave« dodaju se zarez i riječi: »proračunu Fonda za zaštitu okoliša i energetsku učinkovitost«.
+
+#### Članak 95.
+
+Iza članka 204. dodaju se članci 204.a i 204.b koji glase:
+
+»Članak 204.a
+
+(1) U svrhu osiguravanja financijskih sredstava za provedbu mjera očuvanja potrebnih za ostvarivanje ciljeva očuvanja područja ekološke mreže, Vlada odlukom na prijedlog Ministarstva donosi Program financiranja područja ekološke mreže (u daljnjem tekstu: Program).
+
+(2) Program sadrži podatke o područjima ekološke mreže, statusu ciljnih vrsta i stanišnih tipova na tim područjima, pregled pravnih i administrativnih odredbi kojima se osigurava očuvanje područja ekološke mreže, pregled dosadašnjih iskustava u korištenju financijskih instrumenata Europske unije, procjenu potrebnih financijskih sredstava za provedbu mjera očuvanja područja ekološke mreže, strateške prioritete očuvanja tih područja, opis ključnih mjera za ostvarivanje prioriteta, podatke o praćenju (monitoringu), evaluaciji i ažuriranju Programa te druge podatke prema traženju Europske komisije.
+
+(3) Program se donosi za razdoblje koje se poklapa s financijskim razdobljem Europske unije.
+
+(4) Program se donosi na obrascu koji je propisala Europska komisija, te se po donošenju dostavlja Europskoj komisiji.
+
+(5) Iznimno od odredbe stavka 1. ovoga članka, uspostavu i organizaciju praćenja stanja lovnih vrsta kojima se gospodari sukladno posebnom propisu iz područja lovstva i ribolovnih vrsta kojima se gospodari sukladno posebnom propisu iz područja ribarstva i akvakulture, a koje su navedene u odluci iz članka 62. stavka 1. ovoga Zakona, provodi središnje tijelo državne uprave nadležno za poslove lovstva, ribarstva i akvakulture.
+
+(6) Program iz stavka 1. ovoga članka objavljuje se u »Narodnim novinama«.
+
+#### Članak 204.b
+
+(1) Javne ustanove koje upravljaju nacionalnim parkovima i parkovima prirode obvezne su tri posto prihoda ostvarenih od naplate svake prodane ulaznice i vinjete uplatiti u državni proračun.
+
+(2) Javne ustanove koje upravljaju nacionalnim parkovima i parkovima prirode, a koje ostvaruju višak prihoda, obvezne su dio viška prihoda iz prethodne proračunske godine, za koje namjena nije unaprijed utvrđena, u iznosu do najviše 10 % uplatiti u državni proračun.
+
+(3) Javne ustanove koje upravljaju nacionalnim parkovima i parkovima prirode mogu koristiti donacije za koje namjena nije utvrđena na način kako je to propisano uredbom iz stavka 7. ovoga članka.
+
+(4) Sredstva koja se uplate u državni proračun na temelju stavaka 1. i 2. ovoga članka koriste se za sljedeće aktivnosti:
+
+– financiranje prioritetnih aktivnosti javnih ustanova koje upravljaju nacionalnim parkovima i parkovima prirode koje je nužno provesti u svrhu zaštite i očuvanja područja kojima upravljaju ili u svrhu unapređenja poslovanja javnih ustanova,
+
+– podmirivanje rashoda za zajedničke funkcije podrške nacionalnim parkovima i parkovima prirode u pravnim poslovima, javnoj nabavi, promociji i marketingu, pripremi i provedbi projekata, edukaciji i razvoju informacijskog sustava zaštite prirode.
+
+(5) Prijedlog raspodjele sredstava iz stavaka 1. i 2. ovoga članka za provedbu aktivnosti iz stavka 4. ovoga članka te prijedlog raspodjele sredstava unutar pojedinih aktivnosti iz stavka 3. ovoga članka priprema povjerenstvo.
+
+(6) Povjerenstvo iz stavka 4. ovoga članka osniva ministar.
+
+(7) Način i dinamiku uplate sredstava iz stavaka 1. i 2. ovoga članka u državni proračun, način utvrđivanja postotka dijela ostvarenog viška prihoda tekuće godine, za koje namjena nije unaprijed utvrđena, a koji su javne ustanove za upravljanje nacionalnim parkovima i parkovima prirode dužne uplatiti u državni proračun na godišnjoj razini, način utvrđivanja raspodjele sredstava za provedbu aktivnosti iz stavka 4. ovoga članka, sastav i način rada povjerenstva iz stavka 5. ovoga članka, način informiranja javnosti te druga pitanja s tim u vezi, kao i način korištenja donacija iz stavka 3. ovoga članka pobliže uređuje Vlada uredbom.«.
+
+#### Članak 96.
+
+U članku 209. stavku 1. iza riječi: »Zakona« dodaju se riječi: »i na temelju njega donesenih propisa«.
+
+Iza podstavka 2. dodaje se novi podstavak 3. koji glasi:
+
+» – prikupiti podatke i obavijesti,«.
+
+Dosadašnji podstavci 3. – 11. postaju podstavci 4. – 12.
+
+U stavku 3. brojka: »6« zamjenjuje se brojkom: »7«, a riječi: »i stavka 2.« brišu se.
+
+U stavku 4. brojke: »7. do 11.« zamjenjuju se brojkama: »8. – 12.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Sredstva naplaćena novčanom kaznom na mjestu počinjenja iz stavka 1. podstavka 7. ovoga članka prihod su nadležne javne ustanove.«.
+
+#### Članak 97.
+
+U članku 214. stavku 2. riječi: »Državnog inspektorata« brišu se.
+
+#### Članak 98.
+
+U članku 226. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Novčanom kaznom u iznosu od 60.000,00 do 150.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako su prekršaj iz stavka 1. ovoga članka počinile u vezi s obavljanjem svog obrta ili druge samostalne djelatnosti.«.
+
+#### Članak 99.
+
+Članak 227. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 100.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+– provede zahvat iz članka 31. stavka 1. za koji je obvezna Glavna ocjena suprotno rješenju iz članka 33. stavka 1. ili bez rješenja iz članka 33. stavka 2. ovoga Zakona (članak 33. stavci 1. i 2.),
+
+– uporabljuje sredstva iz članka 66. stavaka 1. i 2. ovoga Zakona u odnosu na strogo zaštićene vrste navedene u Pravilniku iz članka 151. stavka 2. ovoga Zakona ili u odnosu na vrste navedene u Pravilniku iz članka 62. stavka 5. ovoga Zakona ili u odnosu na vrste ptica koje se prirodno pojavljuju na teritoriju Republike Hrvatske, a nisu navedene u Pravilniku iz članka 151. stavka 2. ovoga Zakona i nisu divljač, bez dopuštenja ili suprotno dopuštenju Ministarstva (članak 66. stavak 4.),
+
+– postupi suprotno mjerama zaštite, očuvanja, unapređenja i korištenja strogog rezervata, nacionalnog parka, posebnog rezervata i parka prirode propisanim pravilnikom o zaštiti i očuvanju (članak 142. stavak 2.),
+
+– ne poduzima mjere zaštite zaštićenog područja, odnosno speleološkog objekta na način i pod uvjetima utvrđenim ugovorom o koncesiji i ovim Zakonom i na temelju njega donesenim propisima (članak 184.),
+
+– ne poduzme sve radnje i mjere radi sprječavanja nastalih promjena ili oštećenja koje mu je naredilo Ministarstvo ili upravno tijelo (članak 185. stavak 1.).
+
+(2) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 60.000,00 do 150.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako su prekršaj iz stavka 1. ovoga članka počinile u vezi s obavljanjem svog obrta ili druge samostalne djelatnosti.«.
+
+#### Članak 100.
+
+Članak 228. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 25.000,00 do 200.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+– smanji broj jedinki u pojedinoj populaciji zavičajne divlje vrste, smanji ili ošteti njezino stanište, a da time ne dovede do uništenja ili znatnog propadanja staništa ili pogorša njezine životne uvjete do te mjere da ta populacija postane ugrožena (članak 59. stavak 2.),
+
+– postupi suprotno Naredbi ministra o ograničenju ili zabrani korištenja zavičajne divlje vrste iz članak 63. stavka 1. ovoga Zakona (članak 63. stavak 1),
+
+– sakuplja, odnosno uzima iz prirode u svrhu prerade i/ili prodaje zavičajne divlje vrste iz popisa pravilnika iz članka 62. stavka 5. ovoga Zakona bez dopuštenja ili protivno dopuštenju iz članka 64. stavka 1. ovoga Zakona (članak 64. stavak 1.),
+
+– obavlja poslove oporavilišta bez ovlaštenja ili suprotno ovlaštenju (članak 67. stavak 4.),
+
+– ponovno uvodi nestalu zavičajnu divlju vrstu u prirodu ili provodi repopulaciju bez dopuštenja ili protivno dopuštenju iz članka 74. stavka 1. ovoga Zakona, a time ne nanese znatnu ili trajnu štetu prirodi (članak 74. stavak 1.),
+
+– uzgaja strogo zaštićenu zavičajnu divlju vrstu bez dopuštenja ili protivno dopuštenju iz članka 82. stavka 1. ovoga Zakona (članak 82. stavak 1.),
+
+– pristupa ili koristi genetski materijal zavičajnih divljih vrsta u prirodi (in situ) bez dopuštenja ili protivno dopuštenju iz članka 89. stavka 2. ovoga Zakona te ne zadovoljava uvjete za pristup i/ili korištenje genetskog materijala zavičajnih divljih vrsta propisanih uredbom iz članka 98. ovoga Zakona (članak 89. stavak 2.),
+
+– ne ishodi dopuštenje iz članka 89. stavka 2. ovoga Zakona ako tijekom provođenja istraživanja genetskog materijala zavičajne divlje vrste, koja nije strogo zaštićena temeljem ovoga Zakona, na nekomercijalnoj osnovi utvrdi mogućnost komercijalnog korištenja genetskog materijala (članak 89. stavak 4.),
+
+– prenese genetski materijal trećoj osobi suprotno uvjetima određenih uredbom iz članka 98. ovoga Zakona (članak 92. stavak 2.),
+
+– obavlja poslove genske banke bez ovlaštenja ili suprotno ovlaštenju (članak 95. stavak 1.),
+
+– pristupa ili koristi genetski materijal zavičajnih divljih vrsta iz ex situ izvora bez dopuštenja ili protivno dopuštenju iz članka 96. stavka 1. ovoga Zakona (članak 96. stavak 1.),
+
+– oštećuje, uništava ili odnosi sige i živi svijet speleološkog objekta, kao i fosilne, arheološke i druge nalaze ili odlaže otpad ili ispušta otpadne tvari u speleološkom objektu ili provodi druge zahvate i aktivnosti kojima se mijenjaju stanišni uvjeti u speleološkom objektu ili njegovu nadzemlju, u mjeri koja ima neznatni utjecaj, kada speleološki objekt nije zaštićeni dio prirode (članak 104.),
+
+– oštećuje, uništava ili odnosi sige i živi svijet speleološkog objekta, kao i fosilne, arheološke i druge nalaze ili odlaže otpad ili ispušta otpadne tvari u speleološke objekte ili provodi druge zahvate i aktivnosti kojima se mijenjaju stanišni uvjeti u speleološkom objektu ili njegovu nadzemlju u mjeri koja ima neznatni utjecaj, kada je speleološki objekt zaštićeni dio prirode (članak 104.),
+
+– obavlja zahvat ili obavlja djelatnost na mjestu nalaza minerala i fosila koji mogu dovesti do uništenja ili oštećenja nalaza (članak 109. stavak 5.),
+
+– uzima minerale ili fosile iz prirode radi stavljanja u promet bez dopuštenja ili protivno dopuštenju iz članka 110. stavka 1. ovoga Zakona (članak 110. stavak 1.),
+
+– obavlja gospodarske i druge djelatnosti u strogom rezervatu (članak 112. stavak 2.),
+
+– provodi zahvat ili obavlja djelatnost kojima se ugrožava izvornost prirode u nacionalnom parku (članak 113. stavak 3.),
+
+– obavlja nedopuštenu gospodarsku uporabu prirodnih dobara u nacionalnom parku (članak 113. stavak 4.),
+
+– provodi zahvat ili obavlja djelatnost koja može narušiti svojstva zbog kojih je proglašen posebni rezervat (članak 114. stavak 2.),
+
+– provodi zahvat ili obavlja djelatnost kojom se ugrožavaju bitna obilježja i uloga parka prirode (članak 115. stavak 3.),
+
+– provodi zahvat ili obavlja djelatnost kojom se ugrožavaju bitna obilježja i uloga regionalnog parka (članak 116. stavak 2.),
+
+– provodi zahvat ili obavlja djelatnost koja ugrožava obilježja i vrijednosti spomenika prirode (članak 117. stavak 2.),
+
+– provodi zahvat ili obavlja djelatnost koja narušava obilježja zbog kojih je proglašen značajni krajobraz (članak 118. stavak 2.),
+
+– provodi zahvat ili obavlja djelatnost koja narušava obilježja zbog kojih je proglašena park-šuma (članak 119. stavak 2.),
+
+– provodi zahvat ili obavlja djelatnost kojom bi se mogle promijeniti ili narušiti vrijednosti zbog kojih je proglašen spomenik parkovne arhitekture (članak 120. stavak 2.),
+
+– postupi suprotno Naredbi ministra o zabrani ili ograničenju posjećivanja zaštićenih područja iz članka 146. stavka 3. ovoga Zakona (članak 146. stavak 3.),
+
+– namjerno bere, reže, siječe, iskopava, sakuplja, uništava jedinke strogo zaštićenih biljaka, gljiva, lišajeva i algi iz prirode u njihovu prirodnom području rasprostranjenosti u neznatnoj količini ili u mjeri koja neznatno utječe na stanje očuvanja te vrste (članak 153. stavci 1. i 4.),
+
+– namjerno hvata ili ubija, namjerno uznemirava posebno u vrijeme razmnožavanja, podizanja mladih, hibernacije i migracije, namjerno uništava ili uzima jaja te ih čuva čak i ako su prazna, namjerno uništava ili oštećuje ili uklanja razvojne oblike, gnijezda ili legla, oštećuje ili uništava područja razmnožavanja ili odmaranja strogo zaštićenih životinja iz prirode, kao i sve njihove razvojne oblike, u njihovu prirodnom području rasprostranjenosti u neznatnoj količini ili u mjeri koja neznatno utječe na stanje očuvanja te vrste (članak 153. stavci 2. i 4.),
+
+– drži, prevozi, prodaje, razmjenjuje te nudi na prodaju ili razmjenu žive ili mrtve jedinke iz prirode strogo zaštićenih vrsta iz stavaka 1. i 2. članka 153. ovoga Zakona, kao i sve njihove razvojne oblike u neznatnoj količini ili u mjeri koja neznatno utječe na stanje očuvanja tih vrsta ili drži, prevozi, prodaje, razmjenjuje te nudi na prodaju ili razmjenu žive ili mrtve ptice, odnosno bilo koji njihov lako prepoznatljivi dio ili derivat te sve njihove razvojne oblike u neznatnoj količini ili u mjeri koja neznatno utječe na stanje očuvanja tih vrsta ptica (članak 153. stavci 3. i 4.),
+
+– provodi zabranjene aktivnosti i radnje iz članka 153. ovoga Zakona sa strogo zaštićenim vrstama bez dopuštenja ili protivno dopuštenju iz članka 155. stavka 3. ovoga Zakona (članak 155. stavak 3.),
+
+– uništava zaštićene minerale i fosile i/ili provodi zahvat i/ili obavlja radnje koje mogu dovesti do oštećenja zaštićenih minerala i fosila i njihova nalazišta u mjeri koja ima neznatni utjecaj (članak 161. stavak 1.),
+
+– uzima iz prirode i/ili izvozi zaštićene minerale i fosile bez dopuštenja ili protivno dopuštenju iz članka 162. stavka 1. ovoga Zakona u mjeri koja ima neznatni utjecaj (članak 161. stavak 2. i članak 162. stavak 1.),
+
+– provodi istraživanje nalazišta zaštićenog minerala i fosila bez dopuštenja ili protivno dopuštenju Ministarstva (članak 164. stavak 1.),
+
+– ne dostavi ponudu za prodaju nekretnine po pravu prvokupa na način propisan Zakonom i/ili proda nekretninu koja se nalazi u nacionalnom parku, strogom ili posebnom rezervatu drugoj osobi po cijeni koja je niža od cijene navedene u ponudi ovlaštenicima prava prvokupa (članak 165. stavak 1. i članak 166. stavak 1.),
+
+– ne provodi uvjete zaštite prirode utvrđene odlukom o davanju koncesije (članak 181. stavak 1. podstavak 3.),
+
+– obavlja gospodarsko korištenje prirodnih dobara i/ili druge dopuštene djelatnosti na zaštićenom području ili speleološkom objektu bez koncesijskog odobrenja ili protivno koncesijskom odobrenju (članak 188. stavak 1.),
+
+– na traženje inspektora ne osigura uvjete za neometano obavljanje inspekcijskog nadzora (članak 216. stavak 1. i članak 222. stavak 3.),
+
+– ne izvrši rješenje iz članka 216. stavka 2. ovoga Zakona (članak 216. stavak 2.).
+
+(2) Novčanom kaznom u iznosu od 7.000,00 do 30.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 10.000,00 do 40.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka, osim za prekršaj iz stavka 1. podstavaka 4. i 10. ovoga članka, fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost, ako su prekršaj iz stavka 1. počinile u vezi s obavljanjem svog obrta ili druge samostalne djelatnosti.«.
+
+#### Članak 101.
+
+Članak 229. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 15.000,00 kuna do 25.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+– provodi aktivnosti suprotno naredbi iz članka 55. stavka 4. ovoga Zakona, a koje dovode do onečišćenja ili pogoršanja stanja staništa ptica, odnosno uznemiravanja samih ptica i/ili smanjenja njihove brojnosti unutar POP područja koja nisu utvrđena kao takva uredbom iz članka 54. stavka 9. ovoga Zakona, a ispunjavaju kriterije za njihovo proglašenje (članak 55. stavak 4.),
+
+– obavlja aktivnosti koje mogu dovesti do značajnog smanjenja brojnosti jedinki u populaciji neke zavičajne divlje vrste, koje nisu vrste iz članka 59. stavaka 3. i 4. ovoga Zakona, bez dopuštenja ili protivno dopuštenju iz članka 59. stavka 5. ovoga Zakona (članak 59. stavak 5.),
+
+– za sakupljanje, odnosno uzimanje iz prirode zavičajnih divljih vrsta na zemljištu u privatnom vlasništvu prije početka sakupljanja, odnosno uzimanja iz prirode ne pribavi suglasnost vlasnika ili nositelja prava na prirodnim dobrima, odnosno ne ishodi povlasticu sukladno posebnom propisu iz područja morskog ribarstva (članak 64. stavak 13.),
+
+– kao uzgajivač, odnosno vlasnik matične jedinke ili uzgojene jedinke strogo zaštićene životinje iz skupine kralježnjaka ne osigura označavanje te jedinke na način propisan ovim Zakonom (članak 84. stavak 1.),
+
+– kao vlasnik jedinke divlje vrste ne spriječi bijeg ili uvođenje u prirodu te jedinke ili njezina dijela (članak 86. stavak 2.),
+
+– ne obavijesti Ministarstvo i Agenciju o otkriću speleološkog objekta u propisanom roku (članak 100. stavak 1.),
+
+– tijekom izvođenja građevinskih ili drugih radova koji se obavljaju na površini ili ispod površine tla, na kopnu, u vodi ili moru, nakon otkrića speleološkog objekta ne prekine radove na lokaciji otkrića i o otkriću bez odgađanja ne obavijesti Ministarstvo i Agenciju pisanim putem (članak 101. stavak 1.),
+
+– nastavi provoditi druge radove bez dopuštenja Ministarstva ili ne provodi mjere osiguranja i zaštite speleološkog objekta utvrđene rješenjem iz članka 101. stavka 4. ovoga Zakona ili ne obustavi radove sukladno privremenom rješenju iz članka 101. stavka 4. (članak 101. stavak 4.),
+
+– postupi protivno rješenju iz članka 102. stavka 2. ovoga Zakona kojim se radovi trajno obustavljaju (članak 102. stavak 2.),
+
+– ne poduzme nužne mjere zaštite u svrhu sprječavanja uništenja ili oštećenja speleološkog objekta, živog svijeta te fosilnih, arheoloških ili drugih nalaza koji se nalaze unutar speleološkog objekta do donošenja rješenja iz članka 100. odnosno članka 101. stavka 4. ovoga Zakona (članak 103.),
+
+– provodi istraživanja ili obavlja radnje u speleološkom objektu ili njegovu nadzemlju, kao i provodi zahvate za koje nije potrebno ishoditi akt kojim se odobrava gradnja prema posebnom propisu kojim se uređuje gradnja, bez dopuštenja ili protivno dopuštenju iz članka 105. stavka 1. ovoga Zakona (članak 105. stavak 1.),
+
+– ne prijavi Ministarstvu pronalazak minerala i fosila iznimnog zbog svoje rijetkosti, veličine, izgleda ili obrazovnog i znanstvenog značaja u roku od osam dana od dana pronalaska (članak 109. stavak 1.),
+
+– provodi zahvat na zaštićenom području, za koji nije potrebno ishoditi akt kojim se odobrava građenje prema posebnom propisu kojim se uređuje gradnja, bez dopuštenja ili protivno dopuštenju iz članka 144. stavka 1. ovoga Zakona (članak 144. stavak 1.),
+
+– provodi znanstvena i/ili stručna istraživanja sastavnica prirode u zaštićenom području bez dopuštenja ili protivno dopuštenju iz članka 145. stavka 1. ovoga Zakona (članak 145. stavak1.),
+
+– ne provodi mjere zaštite za strogo zaštićene vrste i njihova staništa propisane rješenjem iz članka 152. stavka 5. ovoga Zakona (članak 152. stavak 5.).
+
+(2) Novčanom kaznom u iznosu od 5.000,00 do 20.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 6.000,00 do 25.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako su prekršaj iz stavka 1. ovoga članka počinile u vezi s obavljanjem svog obrta ili druge samostalne djelatnosti.«.
+
+#### Članak 102.
+
+U članku 230. stavku 1. podstavak 1. mijenja se i glasi:
+
+» – kao vlasnik ili nositelj prava na zemljištu na kojem se nalazi speleološki objekt ne omogući pristup tom objektu i provođenje zahvata, obavljanje radnje i/ili istraživanja za koje je ishođeno dopuštenje iz članka 105. stavka 1. ovoga Zakona (članak 106. stavak 6.),«.
+
+Iza podstavka 1. dodaje se novi podstavak 2. koji glasi:
+
+» – kao vlasnik ili nositelj prava na zemljištu na kojem su pronađeni minerali i fosili onemogući istraživanje nalazišta sukladno rješenju iz članka 109. stavka 3. ovoga Zakona (članak 109. stavak 6.),«.
+
+Dosadašnji podstavci 2. – 5. postaju podstavci 3. – 6.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako su prekršaj iz stavka 1. počinile u vezi s obavljanjem svog obrta ili druge samostalne djelatnosti.«.
+
+#### Članak 103.
+
+Članak 231. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+– ne izvijesti Ministarstvo o dopuštenoj aktivnosti iz članka 59. stavka 5. ovoga Zakona koja može dovesti do značajnog smanjenja brojnosti jedinki (članak 60. stavak 4.),
+
+– ne podnese Ministarstvu izvješće o sakupljanju, odnosno uzimanju iz prirode u svrhu prerade i/ili prodaje zavičajne divlje vrste za koje je izdano dopuštenje temeljem članka 64. stavka 1. ovoga Zakona (članak 65. stavak 4.),
+
+– ne izvijesti Ministarstvo o uzgoju strogo zaštićene zavičajne divlje vrste (članak 83. stavak 5.),
+
+– ne izvijesti Ministarstvo o obavljenom pristupu i/ili korištenju genetskog materijala do 31. ožujka tekuće godine za proteklu kalendarsku godinu (članak 92. stavak 1., članak 96. stavak 2.),
+
+– ne izvijesti Ministarstvo o prijenosu genetskog materijala trećoj osobi (članak 92. stavak 2.),
+
+– ne dostavi izvješće ili rezultate istraživanja nadležnom tijelu o provedenim istraživanjima u speleološkom objektu ili njegovu nadzemlju kada je obveza dostave izvješća ili rezultata istraživanja propisana dopuštenjem iz članka 105. stavka 1. ovoga Zakona (članak 106. stavak 7.),
+
+– se kreće plovilom, sidri/ili privezuje plovilo izvan mjesta određenih prostornim planom i aktom državnog tijela nadležnog za unutarnju plovidbu, ako se zaštićeno područje nalazi na unutarnjim vodama (članak 139. stavak 1. podstavak 1.),
+
+– privezuje plovilo izvan mjesta određenih prostornim planom koja imaju status privezišta, sidrišta ili luke ako se zaštićeno područje nalazi na pomorskom dobru (članak 139. stavak 1. podstavak 3.),
+
+– obavlja nedozvoljen ribolov (članak 139. stavak 1. podstavak 7.),
+
+– ošteti i/ili uništi znak i/ili informativnu ploču i/ili didaktičku opremu (članak 139., stavak 1. podstavak 10.),
+
+– polijeće sportskim parajedrilicama i ovjesnim jedrilicama izvan površina koje su posebno označene i određene za tu namjenu (članak 139. stavak 1. podstavak 14.),
+
+– koristi bespilotne letjelice bez dopuštenja na području strogog rezervata, posebnog rezervata i nacionalnog parka (članak 139. stavak 1. podstavak 15.),
+
+– ne izvijesti Ministarstvo o dopuštenim odstupanjima od zabranjenih radnji sa strogo zaštićenim životinjama iz članka 155. stavka 3. ovoga Zakona (članak 157. stavak 4.).
+
+(2) Novčanom kaznom u iznosu od 1.500,00 do 2.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 1.500,00 do 2.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba.
+
+(4) Novčanom kaznom u iznosu od 2.000,00 do 5.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako su prekršaj iz stavka 1. ovoga članka počinile u vezi s obavljanjem svog obrta ili druge samostalne djelatnosti.«.
+
+#### Članak 104.
+
+Članak 232. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 1.000,00 do 2.000,00 kuna kaznit će se za prekršaj fizička osoba ako:
+
+– pere plovilo ili vozilo na površinskim kopnenim vodama, obali mora ili u moru (članak 139. stavak 1. podstavak 2.),
+
+– obavlja nedozvoljene podvodne aktivnosti (članak 139. stavak 1. podstavak 6.),
+
+– drži stoku na slobodnoj ispaši izvan sezone ispaše (članak 139. stavak 1. podstavak 8.),
+
+– loži vatru izvan naselja i/ili mjesta koja su posebno označena i određena za tu namjenu (članak 139. stavak 1. podstavak 11.),
+
+– kampira, odnosno logoruje izvan za to predviđenih i označenih mjesta (članak 139. stavak 1. podstavak 12.),
+
+– postavlja nove penjačke smjerove bez odobrenja javne ustanove (članak 139. stavak 1. podstavak 13.).
+
+(2) Novčanom kaznom u iznosu od 1.000,00 do 3.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako su prekršaj iz stavka 1. ovoga članka počinile u vezi s obavljanjem svog obrta ili druge samostalne djelatnosti.«.
+
+#### Članak 105.
+
+Članak 233. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 500,00 do 1.000,00 kuna kaznit će se za prekršaj fizička osoba ako:
+
+– uzima iz prirode, hvata, uznemirava divlje vrste koje nisu zaštićene u strogom rezervatu, posebnom rezervatu i nacionalnom parku (članak 139. stavak 1. podstavak 4.),
+
+– hrani divlje životinja na području strogog rezervata, posebnog rezervata i nacionalnog parka (članak 139., stavak 1. podstavak 5.),
+
+– vozi i/ili parkira vozila i bicikle izvan površina namijenjenih za vožnju ili parkiranje (članak 139. stavak 1. podstavak 9.),
+
+– kreće se izvan označenih pješačkih staza i izvan područja predviđenog za posjećivanje na području strogog rezervata, posebnog rezervata i nacionalnog parka ili se pri provedbi istraživanja kreće bez dopuštenja (članak 139. stavak 1. podstavak 16.),
+
+– posjeti bez ulaznice ili vinjete kad je ulaznica ili vinjeta obvezna (članak 139. stavak 1. podstavak 17.),
+
+– odloži otpad izvan predviđenog i označenog mjesta (članak 139. stavak 1. podstavak 18.),
+
+– kupa se na mjestima određenima od strane nadležne javne ustanove kao područja zabrane kupanja (članak 139. stavak 1. podstavak 19.).
+
+(2) Novčanom kaznom u iznosu od 1.000,00 do 5.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost ako su prekršaj iz stavka 1. ovoga članka počinile u vezi s obavljanjem svog obrta ili druge samostalne djelatnosti.«.
+
+#### Članak 106.
+
+Članak 244. briše se.
+
+#### Članak 107.
+
+U cijelom tekstu Zakona o zaštiti prirode (»Narodne novine«, br. 80/13.) riječ: »Zavod« u određenom padežu zamjenjuje se riječju: »Agencija« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 108.
+
+Danom stupanja na snagu ovoga Zakona upravljanje:
+
+– strogim rezervatom Bijele i Samarske stijene preuzima Javna ustanova »Nacionalni park Risnjak«, a prestaje pravo upravljanja tim područjem javnoj ustanovi čiji je osnivač Primorsko-goranska županija i javnoj ustanovi čiji je osnivač Karlovačka županija,
+
+– značajnim krajobrazom Predjel Saplunara na otoku Mljetu preuzima Javna ustanova »Nacionalni park Mljet«, a prestaje pravo upravljanja tim područjem javnoj ustanovi čiji je osnivač Dubrovačko-neretvanska županija.
+
+#### Članak 109.
+
+(1) Postupci započeti prema odredbama Zakona o zaštiti prirode (»Narodne novine«, br. 80/13.) do dana stupanja na snagu ovoga Zakona dovršit će se po odredbama toga Zakona.
+
+(2) Planovi gospodarenja prirodnim dobrima za koje su uvjeti zaštite prirode izdani sukladno odredbama članka 20. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13.) do dana stupanja na snagu ovoga Zakona donijet će se uz prethodnu suglasnost Ministarstva sukladno odredbama članka 22. stavka 1. toga Zakona.
+
+#### Članak 110.
+
+Danom stupanja na snagu pravilnika iz članka 55. stavka 6. izmijenjenog člankom 36. ovoga Zakona, POVS područja utvrđena uredbom iz članka 54. stavka 9. izmijenjenog člankom 35. ovoga Zakona postaju PPOVS područja.
+
+#### Članak 111.
+
+(1) Vlada će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti uredbe:
+
+– iz članka 54. stavka 9. izmijenjenog člankom 35. ovoga Zakona,
+
+– iz članka 56.a stavka 3. dodanog člankom 38. ovoga Zakona,
+
+– iz članka 204.b stavka 7. dodanog člankom 95. ovoga Zakona.
+
+(2) Vlada će odluku iz članka 62. stavka 4. izmijenjenog člankom 42. ovoga Zakona donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(3) Vlada će odluku o donošenju Programa iz članka 204.a stavka 1. dodanog člankom 95. ovoga Zakona donijeti najkasnije do 23. srpnja 2021.
+
+(4) Ministar će naputak iz članka 9.a dodanog člankom 6. ovoga Zakona donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(5) Ministar će pravilnik iz članka 55. stavka 6. izmijenjenog člankom 36. ovoga Zakona donijeti najkasnije do 23. siječnja 2021., uzimajući u obzir prioritete u odnosu na značaj tih područja za održavanje ili obnavljanje povoljnog stanja očuvanosti prirodnih stanišnih tipova i vrsta od interesa za Europsku uniju te očuvanje cjelovitosti ekološke mreže, u svjetlu prijetnji od pogoršanja ili uništenja kojima su ta područja izložena.
+
+(6) Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike:
+
+– iz članka 55. stavka 5. izmijenjenog člankom 36. ovoga Zakona,
+
+– iz članka 62. stavka 5. izmijenjenog člankom 42. ovoga Zakona,
+
+– iz članka 67. stavka 10. izmijenjenog člankom 47. ovoga Zakona,
+
+– iz članka 75. stavka 5. dodanog člankom 51. ovoga Zakona,
+
+– iz članka 95. stavka 5. izmijenjenog člankom 56. ovoga Zakona,
+
+– iz članka 188. stavka 8. izmijenjenog člankom 89. ovoga Zakona.
+
+(7) Ministar će u roku od jedne godine od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 142. stavka 1. izmijenjenog člankom 70. ovoga Zakona.
+
+#### Članak 112.
+
+(1) Upravno tijelo preuzima poslove iz članka 46. stavka 2. izmijenjenog člankom 27. ovoga Zakona na dan 30. lipnja 2018., a do toga roka te poslove obavlja Ministarstvo.
+
+(2) Javne ustanove iz članka 130. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13.) preuzimaju poslove iz članka 143. podstavka 2. izmijenjenog člankom 71. ovoga Zakona na dan 30. lipnja 2018., a do toga roka te poslove obavlja Ministarstvo.
+
+(3) Agencija iz članka 14. izmijenjenog člankom 9. ovoga Zakona i javne ustanove iz članka 130. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13.) uskladit će svoje djelatnosti i opće akte s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(4) Javne ustanove iz članka 130. stavka 2. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13.), a koje na dan 31. prosinca 2017. imaju kumulirani višak prihoda koji su ostvarile u 2017. godini i prethodnim proračunskim godinama, obvezne su dio tog viška u 2018. godini uplatiti u državni proračun na način i u rokovima koji će biti određeni uredbom iz članka 204.b stavka 7. dodanog člankom 95. ovoga Zakona.
+
+#### Članak 113.
+
+(1) Do stupanja na snagu pravilnika iz članka 142. stavka 1. izmijenjenog člankom 70. ovoga Zakona primjenjuju se: Pravilnik o unutarnjem redu u Nacionalnom parku »Plitvička jezera« (»Narodne novine«, br. 38/96.), Pravilnik o unutarnjem redu u Parku prirode »Telašćica« (»Narodne novine«, br. 38/96.), Pravilnik o unutarnjem redu u Nacionalnom parku »Brijuni« (»Narodne novine«, br. 75/00.), Pravilnik o unutarnjem redu u Nacionalnom parku »Risnjak« (»Narodne novine«, br. 75/00.), Pravilnik o unutarnjem redu u Nacionalnom parku »Sjeverni Velebit« (»Narodne novine«, br. 75/00.), Pravilnik o unutarnjem redu u Nacionalnom parku »Mljet« (»Narodne novine«, br. 76/00.), Pravilnik o unutarnjem redu u Nacionalnom parku »Paklenica« (»Narodne novine«, br. 76/00.), Pravilnik o unutarnjem redu u Parku prirode »Kopački rit« (»Narodne novine«, br. 77/00.), Pravilnik o unutarnjem redu u Parku prirode »Biokovo« (»Narodne novine«, br. 66/01.), Pravilnik o unutarnjem redu u Parku prirode »Vransko jezero« (»Narodne novine«, br. 66/01.), Pravilnik o unutarnjem redu u Parku prirode »Medvednica« (»Narodne novine«, br. 3/02.), Pravilnik o unutarnjem redu u Parku prirode »Velebit« (»Narodne novine«, br. 12/02.), Pravilnik o unutarnjem redu u Parku prirode »Papuk« (»Narodne novine«, br. 98/03.), Pravilnik o unutarnjem redu u Parku prirode »Lastovsko otočje« (»Narodne novine«, br. 154/09.), Pravilnik o unutarnjem redu u posebnom rezervatu šumske vegetacije Košljun (Službene novine Primorsko-goranske županije, br. 1/10.), Pravilnik o unutarnjem redu u Nacionalnom parku »Kornati« (»Narodne novine«, br. 141/10., 53/11.) i Pravilnik o unutarnjem redu u Nacionalnom parku »Krka« (»Narodne novine«, br. 119/11.).
+
+(2) Do stupanja na snagu pravilnika iz članka 75. stavka 5. dodanog člankom 51. ovoga Zakona primjenjuje se Pravilnik o načinu izrade i provođenju studije o procjeni rizika uvođenja, ponovnog uvođenja i uzgoja divljih svojti (»Narodne novine«, br. 35/08.).
+
+#### Članak 114.
+
+(1) Danom stupanja na snagu ovoga Zakona prestaju važiti:
+
+– Pravilnik o znaku zaštite prirode (»Narodne novine«, br. 178/03.),
+
+– Pravilnik o ocjeni prihvatljivosti za ekološku mrežu (»Narodne novine«, br. 146/14.).
+
+(2) Danom stupanja na snagu uredbe iz članka 204.b stavka 7. dodanog člankom 95. ovoga Zakona prestaje važiti Pravilnik o mjerilima i načinu korištenja namjenskih i vlastitih prihoda nacionalnih parkova i parkova prirode (»Narodne novine«, br. 65/17.).
+
+#### Članak 115.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/111
+
+Zagreb, 2. veljače 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o zaštiti prirode (NN 14/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/14/276*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZAŠTITI PRIRODE
+
+Proglašavam Zakon o izmjenama Zakona o zaštiti prirode, koji je Hrvatski sabor donio na sjednici 25. siječnja 2019.
+
+Klasa: 011-01/19-01/09
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 30. siječnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZAŠTITI PRIRODE**
+
+#### Članak 1.
+
+U Zakonu o zaštiti prirode (»Narodne novine«, br. 80/13. i 15/18.) u članku 8. stavku 2. riječi: »te redovite« brišu se.
+
+U stavku 3. riječi: »Hrvatska agencija za okoliš i prirodu (u daljem tekstu: Agencija) dužna je« zamjenjuju se riječima: »Ministarstvo je dužno«, a riječ: »Ministarstvo« i zarez iza riječi brišu se.
+
+#### Članak 2.
+
+U članku 9. stavku 1. točki 16. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 3.
+
+U članku 12. stavku 3. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Izvješće o stanju prirode objavljuje se na mrežnim stranicama Ministarstva.«.
+
+#### Članak 4.
+
+U članku 13. stavku 1. riječ: »Agenciji« i zarez iza riječi brišu se.
+
+U stavku 2. podstavku 8. riječi: »i Agenciji« brišu se.
+
+#### Članak 5.
+
+Članak 14. briše se.
+
+#### Članak 6.
+
+U članku 15. stavci 1., 2. i 3. brišu se.
+
+U dosadašnjem stavku 4., koji postaje stavak 1., ispred riječi: »Nadležna« briše se oznaka stavka a riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 7.
+
+U članku 30. stavak 3. mijenja se i glasi:
+
+»(3) O podnesenom zahtjevu iz stavka 1. ovoga članka nadležno tijelo iz članka 29. stavka 2. ovoga Zakona zatražit će prethodno mišljenje Ministarstva o mogućnosti značajnih negativnih utjecaja zahvata na ciljeve očuvanja i cjelovitost područja ekološke mreže. Ministarstvo je dužno prethodno mišljenje dostaviti najkasnije u roku od 15 dana od dana primitka zahtjeva nadležnog tijela iz članka 29. stavka 2. ovoga Zakona.«.
+
+#### Članak 8.
+
+U članku 31. stavak 5. mijenja se i glasi:
+
+»(5) Na studiju iz stavka 2. ovoga članka nadležno tijelo iz članka 29. stavka 2. ovoga Zakona zatražit će prethodno mišljenje Ministarstva o mogućnosti značajnih negativnih utjecaja zahvata na ciljeve očuvanja i cjelovitost područja ekološke mreže. Ministarstvo je dužno prethodno mišljenje dostaviti najkasnije u roku od 15 dana od dana primitka zahtjeva nadležnog tijela iz članka 29. stavka 2. ovoga Zakona.«.
+
+U stavku 6. iza riječi: »tijelo« zarez i riječi: »po primitku mišljenja Agencije iz stavka 5. ovoga članka,« brišu se.
+
+#### Članak 9.
+
+U članku 35. stavak 1. mijenja se i glasi:
+
+»(1) O podnesenom zahtjevu iz članka 34. ovoga Zakona Ministarstvo informira javnost objavom informacije na svojim mrežnim stranicama.«.
+
+Stavak 2. briše se.
+
+U dosadanjem stavku 3., koji postaje stavak 2., iza riječi: »utvrdi« zarez i riječi: »uzimajući u obzir mišljenje iz stavka 1. ovoga članka,« brišu se.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., iza riječi: »utvrdi« zarez i riječi: »uzimajući u obzir mišljenje iz stavka 1. ovoga članka,« brišu se.
+
+#### Članak 10.
+
+U članku 37. stavak 1. mijenja se i glasi:
+
+»(1) Ako Ministarstvo utvrdi da su predloženi kompenzacijski uvjeti zadovoljavajući i da ih je moguće provesti te da nema drugih pogodnih mogućnosti kojima je moguće ostvariti svrhu zahvata, dostavlja zahtjev iz članka 34. ovoga Zakona i prijedlog odluke o utvrđivanju prevladavajućeg javnog interesa za provedbu zahvata Vladi u roku od 30 dana od dana zatvaranja javne rasprave iz članka 35. stavka 3. ovoga Zakona, odnosno ishođenja mišljenja Europske komisije iz stavka 4. ovoga članka.«.
+
+#### Članak 11.
+
+U članku 48. stavak 3. mijenja se i glasi:
+
+»(3) O podnesenom zahtjevu iz stavka 1. ovoga članka nadležno tijelo iz članka 46. stavka 2. ovoga Zakona zatražit će mišljenje Ministarstva o mogućnosti značajnih negativnih utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže. Ministarstvo je dužno mišljenje dostaviti najkasnije u roku od 15 dana od dana primitka zahtjeva nadležnog tijela iz članka 46. stavka 2. ovoga Zakona.«.
+
+U stavku 4. riječ: »Agencije« briše se.
+
+#### Članak 12.
+
+U članku 49. stavak 4. mijenja se i glasi:
+
+»(4) Na studiju iz stavka 2. ovoga članka nadležno tijelo iz članka 46. stavka 2. ovoga Zakona zatražit će mišljenje Ministarstva o mogućnosti značajnih negativnih utjecaja strategije, plana ili programa na ciljeve očuvanja i cjelovitost područja ekološke mreže. Ministarstvo je dužno dostaviti mišljenje najkasnije u roku od 15 dana od dana primitka zahtjeva nadležnog tijela iz članka 46. stavka 2. ovoga Zakona.«.
+
+#### Članak 13.
+
+U članku 52. stavku 4. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 14.
+
+U članku 54. stavku 6. riječi: »koju izrađuje Agencija« brišu se.
+
+#### Članak 15.
+
+U članku 56.b stavak 3. briše se.
+
+Dosadašnji stavci 4. i 5. postaju stavci 3. i 4.
+
+#### Članak 16.
+
+U članku 59. stavci 7. i 8. mijenjaju se i glase:
+
+»(7) Ministarstvo može dostaviti zahtjev iz stavka 6. ovoga članka stručnoj instituciji na stručno mišljenje.
+
+(8) Na zahtjev Ministarstva iz stavka 7. ovoga članka stručna institucija dužna je dostaviti stručno mišljenje o utjecaju aktivnosti na populaciju zavičajne divlje vrste, njezino stanište ili njezine životne uvjete u roku od 15 dana od primitka zahtjeva Ministarstva.«.
+
+#### Članak 17.
+
+U članku 64. stavku 7. riječ: »Agencije« briše se.
+
+Stavci 8., 9. i 10. brišu se.
+
+Dosadašnji stavak 11., koji postaje stavak 8., mijenja se i glasi:
+
+»(8) Stručna podloga iz stavka 7. ovoga članka vrijedi tri godine, a po potrebi se može revidirati i prije isteka tog roka.«.
+
+U dosadašnjem stavku 12., koji postaje stavak 9., riječ: »Agencija« zamjenjuje se riječju »Ministarstvo«.
+
+Dosadašnji stavak 13. postaje stavak 10.
+
+#### Članak 18.
+
+U članku 74. stavci 3. i 4. brišu se.
+
+Dosadašnji stavci 5. i 6. postaju stavci 3. i 4.
+
+#### Članak 19.
+
+U članku 75. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+Stavak 4. briše se.
+
+Dosadašnji stavak 5. postaje stavak 3.
+
+#### Članak 20.
+
+U članku 76. stavku 1. riječi: »na temelju stručnog mišljenja Agencije iz članka 74. stavka 4., odnosno članka 75. stavka 4. ovoga Zakona i« brišu se.
+
+#### Članak 21.
+
+U članku 77. stavku 1. riječi: »Na temelju mišljenja Agencije o potrebi ponovnog uvođenja ili repopulacije nestale, odnosno ugrožene zavičajne divlje vrste u prirodu,« brišu se.
+
+#### Članak 22.
+
+U članku 82. stavci 3. i 4. brišu se.
+
+#### Članak 23.
+
+U članku 90. stavku 2. riječi: »Agenciji ili drugoj« brišu se.
+
+U stavku 3. riječi: »Agencija i druga stručna« zamjenjuju se riječju: »Stručna«.
+
+#### Članak 24.
+
+U članku 99. stavku 2. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 25.
+
+U članku 100. stavku 1. riječi: »i Agencija« brišu se.
+
+#### Članak 26.
+
+U članku 101. stavku 1. riječi: »i Agenciju« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ministarstvo je dužno provesti hitna istraživanja speleološkog objekta i izraditi stručni nalaz o potencijalnom značaju speleološkog objekta u roku od dvadeset dana od primitka obavijesti iz stavka 1. ovoga članka.«.
+
+U stavku 4. riječ: »dostave« zamjenjuje se riječju: »izrade«.
+
+Stavak 5. briše se.
+
+#### Članak 27.
+
+U članku 102. stavak 1. mijenja se i glasi:
+
+»(1) Ministarstvo je dužno provesti detaljnije istraživanje speleološkog objekta i izraditi stručni nalaz o značaju otkrivenog speleološkog objekta u roku od trideset dana od donošenja privremenog rješenja o obustavi radova.«.
+
+U stavku 2. riječ: »dostave« zamjenjuje se riječju: »izrade«.
+
+#### Članak 28.
+
+U članku 124. stavak 3. mijenja se i glasi:
+
+»(3) Stručnu podlogu izrađuje Ministarstvo za proglašenje zaštićenih područja od državnog značenja. Za proglašenje zaštićenih područja od lokalnog značenja stručnu podlogu izrađuje Ministarstvo na zahtjev i o trošku javne ustanove iz članka 130. stavka 3. ovoga Zakona.«.
+
+#### Članak 29.
+
+U članku 127. stavku 2. riječi: »i Agenciji« brišu se.
+
+#### Članak 30.
+
+U članku 128. stavku 2. riječi: »Agencija na zahtjev Ministarstva« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 3. riječi: »pribavljeno mišljenje Agencije i« brišu se.
+
+#### Članak 31.
+
+U članku 134. stavku 2. iza riječi: »Ministarstva« zarez i riječi: »po prethodno pribavljenom mišljenju Agencije« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Plan upravljanja ostalih zaštićenih područja donosi se uz suglasnost Ministarstva, a godišnji program zaštite, održavanja, očuvanja, promicanja i korištenja zaštićenih područja uz suglasnost izvršnog tijela jedinice lokalne, odnosno područne (regionalne) samouprave po prethodno pribavljenom mišljenju Ministarstva.«.
+
+U stavku 6. iza riječi: »samouprave« zarez i riječi: »kao i Agenciji« brišu se.
+
+#### Članak 32.
+
+U članku 137. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 33.
+
+U članku 142. stavku 1. riječi: »uz prethodno pribavljeno mišljenje Agencije« brišu se.
+
+U stavku 3. riječi: »prethodno pribavljeno mišljenje Agencije i« brišu se.
+
+#### Članak 34.
+
+U članku 145. stavku 6. riječi: »metodologiji i protokolu iz članka 15. stavka 1. podstavka 6. ovoga Zakona,« zamjenjuju se riječima: »od Ministarstva standardiziranoj metodologiji i protokolu«.
+
+#### Članak 35.
+
+U članku 151. stavku 2. zarez i riječi: »na prijedlog Agencije« brišu se.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Crveni popis utvrđuje i ažurira Ministarstvo, a objavljuje ga na svojoj mrežnoj stranici.«.
+
+#### Članak 36.
+
+U članku 154. stavku 1. riječ: »Agenciji« zamjenjuje se riječju: »Ministarstvu«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ministarstvo vodi sustav za dojavu i praćenje uhvaćenih, usmrćenih, ozlijeđenih i bolesnih strogo zaštićenih životinja i evidenciju te utvrđuje mjere zaštite u cilju sprječavanja negativnog utjecaja na pojedine vrste.«.
+
+#### Članak 37.
+
+U članku 156. stavku 1. ispred riječi: »Zahtjev« briše se oznaka stavka »(1)«.
+
+Stavci 2. i 3. brišu se.
+
+#### Članak 38.
+
+U članku 160. stavku 1. riječi: »na temelju stručnog obrazloženja Agencije, koje se izrađuje na zahtjev Ministarstva,« brišu se.
+
+#### Članak 39.
+
+U članku 175. stavku 2. iza riječi: »dužnosti« zarez i riječi: »a nakon pribavljenog mišljenja Agencije,« brišu se.
+
+#### Članak 40.
+
+U članku 194. stavku 1. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 41.
+
+U članku 195. stavku 1. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 42.
+
+U članku 196. stavku 3. riječ: »Agencija« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 43.
+
+U članku 197. stavak 2. mijenja se i glasi:
+
+»(2) Na temelju rezultata praćenja stanja vrsta i stanišnih tipova Ministarstvo i nadležno tijelo iz članka 195. stavka 3. ovoga Zakona, u skladu sa smjernicama Europske komisije iz članka 195. stavka 4. ovoga Zakona, izrađuju izvješće o stanju očuvanosti vrsta, uključujući i ptice, te stanišnih tipova. Ministarstvo utvrđuje izvješće i dostavlja Europskoj komisiji.«.
+
+#### Članak 44.
+
+U članku 198. riječ: »Agencija« i zarez iza riječi brišu se.
+
+#### Članak 45.
+
+U članku 200. riječi: »Agenciji i« brišu se.
+
+#### Članak 46.
+
+U članku 201. stavku 1. riječi: »te Agencija« brišu se.
+
+#### Članak 47.
+
+U članku 203. stavku 1. podstavku 7. riječi: »Agenciji i« brišu se.
+
+#### Članak 48.
+
+U članku 205. stavku 2. riječi: »zakonitošću rada Agencije i« brišu se.
+
+U stavku 4. riječi: »Agencije i« brišu se.
+
+#### Članak 49.
+
+U članku 210. stavku 1. riječ: »Ministarstva« briše se.
+
+#### Članak 50.
+
+Članak 212., članak 213., u članku 214. stavak 2. i članak 217. brišu se.
+
+#### Članak 51.
+
+Članak 225. briše se.
+
+#### Članak 52.
+
+U članku 229. stavku 1. podstavcima 6. i 7. riječi: »i Agenciju« brišu se.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 53.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredaba članaka 49., 50. i 51. ovoga Zakona koje stupaju na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/05
+
+Zagreb, 25. siječnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o zaštiti prirode (NN 127/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/127/2559*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZAŠTITI PRIRODE
+
+Proglašavam Zakon o izmjenama Zakona o zaštiti prirode, koji je Hrvatski sabor donio na sjednici 13. prosinca 2019.
+
+Klasa: 011-01/19-01/228
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZAŠTITI PRIRODE**
+
+#### Članak 1.
+
+U Zakonu o zaštiti prirode (»Narodne novine«, br. 80/13., 15/18. i 14/19.) članak 23. mijenja se i glasi:
+
+»Za zahvate za koje je sukladno posebnim propisima iz područja prostornog uređenja i posebnim propisima iz područja gradnje potrebno ishoditi akt za građenje, potvrdu izdaje:
+
+– Ministarstvo za zahvate za koje provodi postupak glavne ocjene prihvatljivosti zahvata za ekološku mrežu ili postupak utvrđivanja prevladavajućeg javnog interesa i odobrenja zahvata uz kompenzacijske uvjete te za zahvate za koje tijelo državne uprave nadležno za zaštitu okoliša provodi postupak procjene utjecaja na okoliš
+
+– upravno tijelo za zahvate za koje provodi postupak glavne ocjene prihvatljivosti zahvata za ekološku mrežu i za zahvate za koje upravno tijelo jedinice područne (regionalne) samouprave nadležno za poslove zaštite okoliša provodi postupak procjene utjecaja na okoliš.«.
+
+#### Članak 2.
+
+U članku 61. stavku 3. riječ: »središnjeg« briše se.
+
+#### Članak 3.
+
+Članak 143. mijenja se i glasi:
+
+»Za zahvate na zaštićenom području za koje je sukladno posebnim propisima iz područja prostornog uređenja i posebnim propisima iz područja gradnje potrebno ishoditi akt za građenje, osim za zahvate iz članka 23. ovoga Zakona, uvjete zaštite prirode utvrđuje i potvrdu izdaje:
+
+– Ministarstvo za zahvate na području posebnog rezervata i za zahvate na području nacionalnog parka ili parka prirode kojima je nositelj javna ustanova za upravljanje nacionalnim parkom ili parkom prirode
+
+– javna ustanova za upravljanje nacionalnim parkom ili parkom prirode za zahvate koji se izvode na području nacionalnog parka ili parka prirode, a kojima nije nositelj javna ustanova
+
+– upravno tijelo za zahvate koji se izvode na području regionalnog parka, spomenika prirode, značajnog krajobraza, park-šume i spomenika parkovne arhitekture.«.
+
+#### Članak 4.
+
+U cijelom tekstu Zakona o zaštiti prirode (»Narodne novine«, br. 80/13., 15/18. i 14/19.) riječi: »središnje tijelo državne uprave« u određenom broju i padežu zamjenjuju se riječima: »tijelo državne uprave« u odgovarajućem broju i padežu.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/234
+
+Zagreb, 13. prosinca 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,13 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-02-12
-last_amended: 2015-08-28
+last_amended: 2023-12-27
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "19/14, 93/15"
+narodne_novine: "19/14, 93/15, 64/18, 115/18, 58/20, 156/23"
 amendments:
   - "NN 93/2015 (1791) Uredba o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima"
+  - "NN 64/2018 (1308) Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima"
+  - "NN 115/2018 (2237) Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima"
+  - "NN 58/2020 (1161) Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima"
+  - "NN 156/2023 (2392) Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/19/361"
 retrieved: 2026-10-12
 ---
@@ -21,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 19/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/19/361).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 93/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 93/2015, NN 64/2018, NN 115/2018, NN 58/2020, NN 156/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -4231,3 +4235,4151 @@ Zagreb, 26. kolovoza 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima (NN 64/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/64/1308*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM MIROVINSKIM FONDOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima, koji je Hrvatski sabor donio na sjednici 6. srpnja 2018.
+
+Klasa: 011-01/18-01/89
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 10. srpnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM MIROVINSKIM FONDOVIMA**
+
+#### Članak 1.
+
+U Zakonu o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14. i 93/15.) u članku 2. točki 26. iza riječi: »je« dodaju se riječi: »fizička osoba koja je«.
+
+U podtočki a) riječ: »osoba« briše se.
+
+U točki 28. podstavci 1., 2. i 3. brišu se.
+
+Dosadašnji podstavci 4. i 5. postaju podstavci 1. i 2.
+
+U dosadašnjem podstavku 6., koji postaje podstavak 3., riječi: »ili srodnik do uključujući drugog koljena« zamjenjuju se riječima: »izvanbračni drug, životni partner ili srodnik do uključujući drugog stupnja u ravnoj lozi«.
+
+Točka 29. mijenja se i glasi:
+
+»29. Revizor je revizorsko društvo definirano propisima kojima se uređuje revizija.«.
+
+Iza točke 40. dodaju se točke 41., 42. i 43. koje glase:
+
+»41. Poravnanje je poravnanje kako je definirano člankom 2. točkom 3. Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju.
+
+42. Središnja druga ugovorna strana je središnja druga ugovorna strana kako je definirano člankom 2. točkom 1. Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju.
+
+43. Član sustava poravnanja je član sustava poravnanja kako je definirano člankom 2. točkom 14. Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju.«.
+
+#### Članak 2.
+
+Naslov iznad članka 9. mijenja se i glasi: »Regulatorni kapital mirovinskog društva«.
+
+U članku 9. stavku 1. iza riječi: »održavati« dodaje se riječ: »regulatorni«.
+
+U stavku 3. iza riječi: »smanjenju« dodaje se riječ: »regulatornog«.
+
+U stavku 4. iza riječi: »smanjenja« dodaje se riječ: »regulatornog«, a iza riječi: »povećati« dodaje se riječ: »regulatorni«.
+
+U stavku 5. iza riječi: »stavke« dodaje se riječ: »regulatornog«.
+
+#### Članak 3.
+
+U članku 22. stavku 4. riječ: »kvalificirani« briše se.
+
+#### Članak 4.
+
+U članku 23. stavku 1. točki 3. riječi: »stavaka 2. i 4.« zamjenjuju se riječima: »stavka 2.«.
+
+#### Članak 5.
+
+U članku 26. stavak 1. mijenja se i glasi:
+
+»(1) Mirovinsko društvo može uložiti svoja sredstva isključivo u imovinu iz članka 125. stavka 1. točaka 1., 2. i 8. ovoga Zakona te ako kupuje drugo mirovinsko društvo sa sjedištem u Republici Hrvatskoj, državi članici ili trećoj državi i/ili dobrovoljno mirovinsko društvo sa sjedištem u Republici Hrvatskoj, državi članici ili trećoj državi, u skladu s člankom 27. ovoga Zakona.«.
+
+#### Članak 6.
+
+U članku 27. stavak 1. mijenja se i glasi:
+
+»(1) Mirovinsko društvo može steći dio ili cjelokupni vlasnički udjel drugoga mirovinskog društva sa sjedištem u Republici Hrvatskoj, državi članici ili trećoj državi i/ili dobrovoljnog mirovinskog društva sa sjedištem u Republici Hrvatskoj, državi članici ili trećoj državi, uz prethodno odobrenje Agencije i u skladu s propisima kojima se regulira zaštita tržišnog natjecanja.«.
+
+U stavku 2. točki 2. iza riječi: »društava« dodaju se riječi: »u Republici Hrvatskoj«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Mirovinsko društvo ne smije steći dio ili cjelokupni vlasnički udjel drugoga mirovinskog društva i/ili dobrovoljnog mirovinskog društva sa sjedištem u Republici Hrvatskoj, državi članici ili trećoj državi ako bi takvo stjecanje dovelo do odgovornosti mirovinskog društva za obveze društva čije je udjele steklo.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 7.
+
+U članku 30. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Uprava mirovinskog društva dužna je voditi poslove mirovinskog društva s područja Republike Hrvatske.«.
+
+#### Članak 8.
+
+U članku 34. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave mirovinskog društva Agenciji podnose članovi, odnosno nadzorni odbor mirovinskog društva za mandat koji ne može biti duži od pet godina.
+
+(3) Uz zahtjev iz stavka 2. ovoga članka podnositelj zahtjeva dostavlja i program vođenja poslova društva kandidata za traženo mandatno razdoblje.«.
+
+#### Članak 9.
+
+U članku 36. stavku 2. iza riječi: »stavka 1.« dodaju se riječi: »točke 1.«.
+
+#### Članak 10.
+
+U članku 39. stavku 2. riječ: »vođenju« zamjenjuje se riječju: »rukovođenju«.
+
+#### Članak 11.
+
+U naslovu iznad članka 45. riječ: »članova« briše se.
+
+U članku 45. stavku 2. riječ: »utvrđuje« zamjenjuje se riječima: »daje suglasnost na utvrđena«.
+
+#### Članak 12.
+
+U članku 51. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Mirovinsko društvo dužno je u okviru sustava upravljanja rizicima, a u skladu s vrstom, opsegom i složenosti svojega poslovanja, uspostaviti sveobuhvatan i učinkovit proces procjene kreditne sposobnosti izdavatelja u koje namjerava ulagati ili ulaže svoju imovinu i imovinu mirovinskih fondova kojima upravlja.
+
+(3) Za procjenu kreditne sposobnosti iz stavka 2. ovoga članka mirovinsko društvo se ne smije automatski ili isključivo oslanjati na kreditne rejtinge koje su dodijelile agencije za kreditni rejting kako je propisano u članku 3. stavku 1. točki (b) Uredbe (EZ) br. 1060/2009 Europskog parlamenta i Vijeća od 16. rujna 2009. o agencijama za kreditni rejting.«.
+
+Dosadašnji stavci 2. – 11. postaju stavci 4. – 13.
+
+#### Članak 13.
+
+U članku 56. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Nagrađivanje podrazumijeva sve oblike fiksnih i varijabilnih plaćanja i pogodnosti, u novcu ili u naravi, koje isplaćuje odnosno dodjeljuje mirovinsko društvo, uključujući primitke povezane s uspješnošću i udio u dobiti, a koji se primici isplaćuju odnosno dodjeljuju u korist osoba iz stavka 1. ovoga članka.«.
+
+Dosadašnji stavci 2. – 8. postaju stavci 3. – 9.
+
+Dosadašnji stavak 9., koji postaje stavak 10., mijenja se i glasi:
+
+»(10) U godišnjim financijskim izvještajima mirovinskog društva potrebno je objaviti:
+
+1. podatke o ukupnom iznosu koji je mirovinsko društvo isplatilo u poslovnoj godini radnicima mirovinskog društva, raščlanjenom na fiksne i varijabilne primitke, te broju korisnika takvih primitaka
+
+2. podatke o ukupnom iznosu primitaka iz točke 1. ovoga stavka, raščlanjenom na iznose koje su primili članovi uprave, nadzornog odbora, prokuristi ili pak radnici mirovinskog društva čiji rad može imati materijalni utjecaj na profil rizičnosti mirovinskog društva ili mirovinskog fonda.«.
+
+Iza stavka 10. dodaje se stavak 11. koji glasi:
+
+»(11) Fiksni i varijabilni primici iz stavka 10. ovoga članka trebaju biti raščlanjeni na primitke u novcu i primitke u naravi.«.
+
+#### Članak 14.
+
+Članak 65. mijenja se i glasi:
+
+»(1) Godišnji financijski izvještaji mirovinskog društva podliježu obvezi zakonske revizije za svaku poslovnu godinu.
+
+(2) Zakonsku reviziju iz stavka 1. ovoga članka provodi revizor na način i pod uvjetima određenima propisima kojima se uređuje računovodstvo i revizija te pravilima revizorske struke, ako ovim Zakonom i propisima donesenim na temelju ovoga Zakona nije drugačije određeno.
+
+(3) Mirovinsko društvo može za pružanje revizorskih usluga sklopiti ugovor samo s revizorom koji ispunjava uvjete iz stavaka 4. i 5. ovoga članka.
+
+(4) Isti revizor može obavljati zakonsku reviziju financijskih izvještaja određenog mirovinskog društva najviše za sedam uzastopnih godina.
+
+(5) Isti revizor ne smije sljedeće četiri godine obavljati zakonsku reviziju tog mirovinskog društva.
+
+(6) Zakonsku reviziju financijskih izvještaja mirovinskog društva može obavljati samo revizorsko društvo u kojem tu reviziju obavljaju najmanje tri ovlaštena revizora koji su radnici revizorskog društva zaposleni u punom radnom vremenu.
+
+(7) Revizor koji obavlja zakonsku reviziju financijskih izvještaja mirovinskog društva i svi članovi mreže kojoj revizor pripada ne smiju pružati, izravno ili neizravno, mirovinskom društvu koje je predmet revizije, njegovu matičnom društvu ili društvima koja su pod njegovom kontrolom u Republici Hrvatskoj ili drugim državama članicama bilo koje zabranjene nerevizorske usluge iz članka 5. stavka 1. Uredbe (EU) br. 537/2014 Europskog parlamenta i Vijeća od 16. travnja 2014. o posebnim zahtjevima u vezi zakonske revizije subjekata od javnog interesa i stavljanju izvan snage Odluke Komisije 2005/909/EZ tijekom:
+
+a) razdoblja između početka razdoblja koje je predmet revizije i izdavanja revizorskog izvještaja i
+
+b) poslovne godine koja prethodi razdoblju iz točke a) ovoga stavka u vezi s uslugom osmišljavanja i provedbe postupaka unutarnje kontrole ili upravljanja rizikom povezanih s pripremom i/ili nadzorom financijskih informacija ili osmišljavanja i provedbe tehnoloških sustava za financijske informacije.
+
+(8) Mirovinsko društvo dužno je Agenciji dostaviti revizorski izvještaj o obavljenoj zakonskoj reviziji godišnjih financijskih izvještaja, uključujući godišnje izvješće i financijske izvještaje iz članka 64. stavka 2. ovoga Zakona, u roku od 15 dana od datuma izdavanja revizorskog izvještaja, a najkasnije u roku od četiri mjeseca nakon isteka poslovne godine za koju se izvještaji sastavljaju.«.
+
+#### Članak 15.
+
+U članku 66. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Ako revizor obavi zakonsku reviziju financijskih izvještaja mirovinskog društva suprotno odredbama članka 65. stavaka 4. i 5. ovoga članka, Agencija će odbaciti godišnje financijske izvještaje mirovinskog društva za tu poslovnu godinu.
+
+(3) Ako Agencija utvrdi da su godišnji financijski izvještaji mirovinskog društva sastavljeni suprotno odredbama ovoga Zakona, propisa donesenih na temelju ovoga Zakona, propisa kojima se uređuje računovodstvo te suprotno pravilima struke, ili da oni ne pružaju istinit i pošten prikaz financijskog položaja i uspješnosti poslovanja mirovinskog društva o kojima je u revizorskom izvještaju izdano pozitivno ili uvjetno mišljenje, Agencija će odbiti godišnje financijske izvještaje.«.
+
+Iza stavka 3. dodaju se stavci 4. – 11. koji glase:
+
+»(4) U slučaju iz stavaka 2., 3. i 6. ovoga članka mirovinsko društvo dužno je ponovo izraditi godišnje financijske izvještaje, osigurati obavljanje zakonske revizije tih izvještaja te revizorski izvještaj, uključujući i relevantne financijske izvještaje i dostaviti Agenciji u roku koji je svojim rješenjem odredila Agencija.
+
+(5) Novu zakonsku reviziju ne smije obaviti revizor koji je izdao mišljenje o godišnjim financijskim izvještajima koji su odbijeni, odnosno odbačeni.
+
+(6) O odbacivanju iz stavka 2. ovoga članka, odnosno odbijanju iz stavka 3. ovoga članka Agencija će bez odgađanja obavijestiti tijelo nadležno za nadzor osoba ovlaštenih za obavljanje revizorskih usluga prema zakonu kojim je uređena revizija uz obrazloženje razloga odbacivanja odnosno odbijanja.
+
+(7) Ako tijelo nadležno za nadzor osoba ovlaštenih za obavljanje revizorskih usluga prema zakonu kojim je uređena revizija utvrdi da revizorski izvještaj ne ispunjava zahtjeve iz zakona kojim se uređuje revizija ili iz Uredbe (EU) br. 537/2014 Europskog parlamenta i Vijeća od 16. travnja 2014. o posebnim zahtjevima u vezi zakonske revizije subjekata od javnog interesa i stavljanju izvan snage Odluke Komisije 2005/909/EZ, Agencija može odbiti ili odbaciti godišnje financijske izvještaje mirovinskog društva za koje je ta osoba obavila zakonsku reviziju.
+
+(8) Mirovinsko društvo ne smije objaviti godišnje financijske izvještaje koji su odbijeni odnosno odbačeni te je dužno osigurati da godišnji financijski izvještaji, koji su odbijeni odnosno odbačeni, ne budu javno objavljeni.
+
+(9) Ako su godišnji financijski izvještaji, koji su odbijeni odnosno odbačeni već objavljeni, mirovinsko društvo dužno je osigurati da se ti izvještaji povuku iz javne objave.
+
+(10) Revizor iz članka 65. stavka 2. ovoga Zakona dužan je Agenciji prijaviti svako kršenje odredbi ovoga Zakona, propisa donesenih na temelju njega ili drugih relevantnih propisa koje utvrdi u obavljanju zakonske revizije iz članka 65. stavka 1. ovoga Zakona.
+
+(11) Otkrivanje bilo koje činjenice u smislu stavka 8. ovoga članka od strane revizora ne smatra se kršenjem propisa i odredbi ugovora između revizora i mirovinskog društva koje se odnose na ograničenja davanja podataka, niti kršenjem obveze čuvanja revizorske tajne koja proizlazi iz zakona kojim se uređuje revizija ili iz ugovora.«.
+
+#### Članak 16.
+
+U članku 74. točki 1. riječi: »oduzela« zamjenjuju se riječima: »ukinula ili poništila«.
+
+#### Članak 17.
+
+U članku 87. stavku 1. ispred riječi: »Iz« dodaje se oznaka stavka koja glasi: »(1)«.
+
+Iza točke 3. dodaje se točka 4. koja glasi:
+
+»4. troškovi vezani uz transakcije financijskim instrumentima koje su zaključene za račun mirovinskog fonda, a koje se poravnavaju neposredno ili posredno, posredstvom središnje druge ugovorne strane, uključujući i potrebne iznose nadoknade (margin) vezane za takve transakcije, a koje za pokriće rizika transakcije prikupljaju središnje druge ugovorne strane od članova sustava poravnanja te članovi sustava poravnanja od svojih klijenata, pri čemu se na odgovarajući način primjenjuju definicije iz Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju.«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Mirovinsko društvo dužno je iskazivati ukupan iznos troškova iz stavka 1. ovoga članka kao pokazatelj ukupnih troškova i objavljivati ga u revidiranim godišnjim izvještajima mirovinskog fonda.
+
+(3) Agencija će pravilnikom detaljnije propisati troškove koji se mogu plaćati iz imovine mirovinskog fonda te način i sadržaj izračuna pokazatelja ukupnih troškova mirovinskog fonda.«.
+
+#### Članak 18.
+
+U članku 91. stavcima 1. i 3. riječi: »šest mjeseci« zamjenjuju se riječima: »mjesec dana«.
+
+Iza stavka 4. dodaju se novi stavak 5. i stavak 6. koji glase:
+
+»(5) Središnji registar osiguranika će osiguraniku iz članka 90. stavka 1. ovoga zakona odmah po zaprimanju podatka od Hrvatskog zavoda za mirovinsko osiguranje o uspostavljanju osiguranja u sustavu obveznog mirovinskog osiguranja na temelju generacijske solidarnosti prema Zakonu o mirovinskom osiguranju dostaviti obavijest o potrebi izbora fonda.
+
+(6) U obavijesti iz stavka 5. ovoga članka Središnji registar osiguranika će jasnim, jednostavnim, nedvosmislenim i osiguraniku razumljivim jezikom opisati vrste fondova koje može izabrati, njihove bitne karakteristike, prava osiguranika i podatak o tome gdje se mogu pribaviti detaljniji podaci o pojedinoj vrsti mirovinskog fonda i mirovinskog društva.«.
+
+Dosadašnji stavak 5. postaje stavak 7.
+
+#### Članak 19.
+
+U članku 94. stavku 1. iza riječi: »mirovinski fond« dodaju se riječi: »iste kategorije«.
+
+#### Članak 20.
+
+U članku 95. stavak 1. mijenja se i glasi:
+
+»(1) Član mirovinskog fonda može jednom godišnje promijeniti kategoriju mirovinskog fonda i to samo unutar istog mirovinskog društva te samo u kalendarskom mjesecu u kojemu je rođen.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavci 3. i 4. postaju stavci 2. i 3.
+
+#### Članak 21.
+
+U članku 112. stavak 3. mijenja se i glasi:
+
+»(3) O svim uplatama i isplatama sredstava jamstvenog pologa mirovinsko društvo dužno je obavijestiti Agenciju.«.
+
+#### Članak 22.
+
+U članku 125. ispred riječi: »Imovina« dodaje se oznaka stavka koja glasi: »(1)«.
+
+U točki 1. iza riječi: »OECD-a« dodaju se riječi: »odnosno javno međunarodno tijelo kojemu pripada većina država članica.«.
+
+U točki 2. riječi: »ili je izdavatelj javno međunarodno tijelo kojemu pripadaju jedna ili više država članica, odnosno kojemu pripada jedna ili više država članica OECD-a.« zamjenjuju se riječima: »ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica.«.
+
+U točki 7. riječi: »koji su odobrenje za rad dobili u Republici Hrvatskoj, drugoj državi članici ili odgovarajućih fondova koji su odobrenje za rad dobili u državi članici OECD-a pod uvjetom da su provođenje nadzora nad tim fondovima« zamjenjuju se riječima: »kojima upravljaju upravitelji koji su odobrenje za rad srednjeg ili velikog društva za upravljanje alternativnim investicijskim fondovima dobili u Republici Hrvatskoj ili odobrenje za rad u drugoj državi članici, ili odgovarajućih fondova kojima upravljaju upravitelji koji su odobrenje za rad dobili u državi članici OECD-a, pod uvjetom da su provođenje nadzora nad tim upraviteljima«.
+
+Točka 10. mijenja se i glasi: »10. novca na računima«.
+
+U stavku 2. točki 2. riječi: »ako zadovoljavaju sljedeće uvjete« zamjenjuju se riječju: »ako:«.
+
+U podtočki a) iza riječi: »tržište« stavlja se zarez i dodaju se riječi: »a uvrštenje će se izvršiti u roku od jedne godine od dana izdanja ili«.
+
+Podtočka b) mijenja se i glasi:
+
+»b) je nadležno tijelo izdavatelja donijelo odluku o uvrštenju izdanih vrijednosnih papira ili instrumenata tržišta novca na uređeno tržište, koja je objavljena na mrežnim stranicama izdavatelja, a uvrštenje će se izvršiti u roku od jedne godine od dana takve objave.«.
+
+Iza stavka 2. dodaje se novi stavak 3. i stavak 4. koji glase:
+
+»(3) Kada mirovinski fond, odnosno mirovinski fondovi kojima upravlja isto mirovinsko društvo ulaže u imovinu iz stavka 2. točke 2. ovoga članka, mirovinsko društvo dužno je u roku od tri radna dana nakon provedenog ulaganja dostaviti Agenciji sljedeću dokumentaciju:
+
+1. analizu ulaganja, posebice u odnosu na rizike i prinose tog ulaganja, koja sadrži i jasno definirane ciljeve ulaganja, strategiju kojom se namjeravaju postići ciljevi tog ulaganja, rokove i praćenje realizacije strategije i uspješnosti ostvarivanja cilja, kao i izlaznu strategiju u slučaju neispunjenja ili ispunjenja ciljeva ulaganja
+
+2. analizu postupanja u slučaju neuvrštenja vrijednosnih papira i instrumenata tržišta novca, koja uključuje i opis predviđenih zaštitnih mehanizama u slučaju neispunjenja obveza izdavatelja, posebice obveze uvrštenja
+
+3. drugu dokumentaciju, na zahtjev Agencije.
+
+(4) Ako mirovinsko društvo ne postupa u skladu sa stavkom 3. ovoga članka, Agencija može tom mirovinskom društvu privremeno zabraniti ili ograničiti ulaganje u vrijednosne papire i instrumente tržišta novca iz stavka 2. točke 2. ovoga članka, kao i naložiti otuđenje stečenih vrijednosnih papira i instrumenata tržišta novca, u roku koji ocijeni primjerenim.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 5., iza riječi: »zadovoljavati« riječ: »drugi« briše se, a iza riječi: »mora zadovoljavati« riječ: »druga« briše se.
+
+#### Članak 23.
+
+U članku 126. stavku 1. točki 9. riječ: »jamstvenog« zamjenjuje se riječju: »regulatornog«, a iza riječi: »depozite« umjesto točke stavlja se zarez i dodaju se riječi: »pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točke 10. ovoga Zakona.«.
+
+U stavku 2. točki 3. broj: »20%« zamjenjuje se brojem: »25%«.
+
+U točki 9. riječ: »jamstvenog« zamjenjuje se riječju: »regulatornog«, a iza riječi: »depozite« umjesto točke stavlja se zarez i dodaju se riječi: »pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točke 10. ovoga Zakona.«.
+
+U stavku 5. riječ: »usvojiti« zamjenjuje se riječima: »dati suglasnost na:«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Stavak 1. točka 3. i stavak 2. točka 3. ovoga članka na odgovarajući se način primjenjuju i na izdavatelje čiji su prenosivi vlasnički vrijednosni papiri s pravom glasa u trenutku njihova stjecanja uvršteni u niži segment uređenog tržišta ako je nadležno tijelo izdavatelja donijelo odluku o prijelazu na službeno tržište ili druge segmente uređenog tržišta za koje su propisani stroži uvjeti u vezi s uvrštenjem i zaštitom ulagatelja u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a, koja odluka je objavljena na mrežnim stranicama uređenog tržišta, a prijelaz u stroži segment uređenog tržišta će se izvršiti u roku od jedne godine od dana takve objave.«.
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+#### Članak 24.
+
+U članku 127. stavku 3. točki 7. iza riječi: »Zakona« dodaju se riječi: »a iznimno može biti uloženo više od 10% neto vrijednosti imovine, a najviše 20%, ali na rok ne duži od 14 dana«.
+
+#### Članak 25.
+
+U članku 128. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Stavak 3. ovoga članka na odgovarajući se način primjenjuje i na izdavatelje čije su dionice u trenutku njihova stjecanja uvrštene u niži segment uređenog tržišta ako je nadležno tijelo izdavatelja donijelo odluku o prijelazu na službeno tržište ili druge segmente uređenog tržišta za koje su propisani stroži uvjeti u vezi s uvrštenjem i zaštitom ulagatelja u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a, koja odluka je objavljena na mrežnim stranicama uređenog tržišta, a prijelaz u stroži segment uređenog tržišta izvršit će se u roku od jedne godine od dana takve objave.«.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., iza riječi: »stavka 3.« dodaju se riječi: »i/ili stavka 4.«.
+
+Dosadašnji stavci 5. i 6. postaju stavci 6. i 7.
+
+U dosadašnjem stavku 7., koji postaje stavak 8., broj: »3%« zamjenjuje se brojem: »5%«, a iza riječi: »institucija« umjesto točke stavlja se zarez i dodaju riječi: »pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točke 10. ovoga Zakona.«.
+
+#### Članak 26.
+
+U članku 135. stavku 1. broj: »126.« zamjenjuje se brojem: »125.«.
+
+U stavku 2. broj: »126.« zamjenjuje se brojem: »125.«.
+
+U točki 1. iza riječi: »utjecati« dodaje se riječ: »ili«.
+
+U točki 2. iza riječi: »članka« riječ: »ili« briše se.
+
+Točka 3. briše se.
+
+U stavku 3. iza riječi: »fonda« umjesto točke stavlja se zarez i dodaju se riječi: »a u slučaju da se prekoračenje ulaganja odnosi na izdavatelja nad kojim je pokrenut postupak predstečajne nagodbe, odnosno predstečajni postupak, i na duže od tri mjeseca.«.
+
+U stavku 4. broj: »126.« zamjenjuje brojem: »125.«.
+
+U stavku 5. broj: »126.« zamjenjuje brojem: »125.«.
+
+#### Članak 27.
+
+U članku 136. stavku 4. iza riječi: »osobi« umjesto točke stavlja se zarez i dodaju se riječi: »osim u slučajevima koji su propisani odredbama ovoga Zakona.«.
+
+#### Članak 28.
+
+U članku 139. stavku 4. iza riječi: »sve« dodaje se riječ: »bitne«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Bitnim izmjenama i dopunama statuta za koje je potrebno ishoditi odobrenje Agencije smatraju se izmjene i dopune statuta mirovinskog fonda koje se predlažu radi promjena koje se odnose na:
+
+1. osnovna prava, obveze i odgovornosti mirovinskog društva prema članu mirovinskog fonda i mirovinskom fondu, člana mirovinskog fonda prema mirovinskom društvu i mirovinskom fondu te način i uvjete njihova ostvarenja i zaštite
+
+2. postupke naknade štete članu mirovinskog fonda
+
+3. načela, strategiju i ciljeve ulaganja mirovinskog fonda
+
+4. uvjete pripajanja fonda i prava članova u postupku pripajanja
+
+5. promjene naknada koje mogu rezultirati većim troškovima za članove fonda
+
+6. prava članova mirovinskog fonda i uvjete za prelazak iz mirovinskog fonda jedne kategorije u mirovinski fond druge kategorije te prelaska u mirovinski fond kojim upravlja drugo mirovinsko društvo.«.
+
+#### Članak 29.
+
+Članak 146. mijenja se i glasi:
+
+»(1) Godišnji izvještaji mirovinskog fonda iz članka 145. ovoga Zakona podliježu obvezi zakonske revizije za svaku poslovnu godinu.
+
+(2) Zakonsku reviziju iz stavka 1. ovoga članka provodi revizor na način i pod uvjetima određenima propisima kojima se uređuje računovodstvo i revizija te pravilima revizorske struke, ako ovim Zakonom i propisima donesenim na temelju ovoga Zakona nije drugačije određeno.
+
+(3) Mirovinsko društvo za račun mirovinskog fonda može za pružanje revizorskih usluga sklopiti ugovor samo s revizorom koji ispunjava uvjete iz stavaka 4. i 5. ovoga članka.
+
+(4) Isti revizor može obavljati zakonsku reviziju godišnjih izvještaja određenog mirovinskog fonda najviše za sedam uzastopnih godina te sljedeće četiri godine isti revizor ne smije obavljati zakonsku reviziju tog mirovinskog fonda.
+
+(5) Zakonsku reviziju financijskih izvještaja mirovinskog fonda može obavljati samo revizorsko društvo u kojem tu reviziju obavljaju najmanje tri ovlaštena revizora koji su radnici revizorskog društva zaposleni u punom radnom vremenu.
+
+(6) Revizor koji obavlja zakonsku reviziju mirovinskog fonda i svi članovi mreže kojoj ovlašteni revizor pripada ne smiju pružati, izravno ili neizravno, mirovinskom fondu koji je predmet revizije te mirovinskom društvu koje njime upravlja bilo koje zabranjene nerevizorske usluge iz članka 5. stavka 1. Uredbe (EU) br. 537/2014 tijekom:
+
+a) razdoblja između početka razdoblja koje je predmet revizije i izdavanja revizorskog izvješća i
+
+b) poslovne godine koja prethodi razdoblju iz alineje a) ovoga stavka u vezi s uslugom osmišljavanja i provedbe postupaka unutarnje kontrole ili upravljanja rizikom povezanih s pripremom i/ili nadzorom financijskih informacija ili osmišljavanja i provedbe tehnoloških sustava za financijske informacije.
+
+(7) Agencija od revizora može tražiti dodatna pojašnjenja u vezi s revidiranim godišnjim izvještajima mirovinskog fonda.
+
+(8) Ako revizor obavi zakonsku reviziju godišnjih izvještaja mirovinskog fonda suprotno odredbama iz stavaka 4. i 5. ovoga članka, Agencija će odbaciti godišnje izvještaje mirovinskog fonda za tu poslovnu godinu.
+
+(9) Ako Agencija utvrdi da su godišnji izvještaji mirovinskog fonda sastavljeni suprotno odredbama ovoga Zakona, propisa donesenih na temelju ovoga Zakona, propisa kojima se uređuje računovodstvo te pravilima struke, ili da oni ne pružaju istinit i pošten prikaz financijskog položaja i uspješnosti poslovanja mirovinskog fonda o kojem je u revizorskom izvješću izdano pozitivno ili uvjetno mišljenje, Agencija će odbiti godišnje izvještaje.
+
+(10) U slučaju iz stavaka 8., 9. i 12. ovoga članka mirovinsko društvo dužno je ponovo izraditi godišnje izvještaje mirovinskog fonda, osigurati obavljanje zakonske revizije tih izvještaja te revizorsko izvješće, uključujući i relevantne godišnje izvještaje, dostaviti Agenciji u roku koji je svojim rješenjem odredila Agencija.
+
+(11) Novu zakonsku reviziju ne smije obaviti revizor koji je izdao mišljenje o godišnjim izvještajima koji su odbijeni, odnosno odbačeni.
+
+(12) O odbacivanju iz stavka 8. ovoga članka, odnosno odbijanju iz stavka 9. ovoga članka Agencija će bez odgađanja obavijestiti tijelo nadležno za nadzor osoba ovlaštenih za obavljanje revizorskih usluga prema zakonu kojim je uređena revizija uz obrazloženje razloga odbacivanja odnosno odbijanja.
+
+(13) Ako tijelo nadležno za nadzor osoba ovlaštenih za obavljanje revizorskih usluga prema zakonu kojim je uređena revizija utvrdi da revizorsko izvješće ne ispunjava zahtjeve iz zakona kojim se uređuje revizija ili iz Uredbe (EU) br. 537/2014, Agencija može odbiti ili odbaciti godišnje izvještaje mirovinskog fonda za koje je ta osoba obavila zakonsku reviziju.
+
+(14) Mirovinsko društvo ne smije objaviti godišnje izvještaje mirovinskog fonda koji su odbijeni odnosno odbačeni te je dužno osigurati da ti godišnji izvještaji ne budu javno objavljeni, a u slučaju da su isti već objavljeni, mirovinsko društvo je dužno osigurati da se ti izvještaji povuku iz javne objave.
+
+(15) Revizor iz stavka 2. ovoga članka dužan je Agenciji prijaviti svako kršenje odredbi ovoga Zakona, propisa donesenih na temelju njega ili drugih relevantnih propisa koje utvrdi u obavljanju zakonske revizije iz stavka 1. ovoga članka.
+
+(16) Otkrivanje bilo koje činjenice u smislu stavka 14. ovoga članka od strane revizora ne smatra se kršenjem propisa i odredbi ugovora između revizora i mirovinskog društva za račun mirovinskog fonda koje se odnose na ograničenja davanja podataka, niti kršenjem obveze čuvanja revizorske tajne koja proizlazi iz zakona kojim se uređuje revizija ili iz ugovora.«.
+
+#### Članak 30.
+
+U članku 153. stavak 3. mijenja se i glasi:
+
+»(3) Središnji registar osiguranika izvršit će zamjenu obračunskih jedinica, na način da će na dan provedbe pripajanja članovima mirovinskog fonda u fondu prenositelju zamijeniti obračunske jedinice u fondu prenositelju za obračunske jedinice u fondu preuzimatelju, u skladu s omjerom zamjene iz članka 164. stavka 2. ovoga Zakona.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Rok za dodjelu obračunskih jedinica u fondu preuzimatelju je sljedeći radni dan od dana provođenja pripajanja.«.
+
+#### Članak 31.
+
+U članku 160. iza riječi »pripajanja« dodaju se riječi: »te uz obavijest dostaviti nacrt pripajanja«.
+
+#### Članak 32.
+
+U članku 162. stavku 3. iza riječi »Agenciji« dodaju se riječi: »i Središnjem registru osiguranika«.
+
+#### Članak 33.
+
+U članku 164. stavak 4. briše se.
+
+Dosadašnji stavak 5., koji postaje stavak 4., mijenja se i glasi:
+
+»(4) U slučaju da revizor prethodno nije izdao pozitivno mišljenje o pripajanju, mirovinska društva koja upravljaju fondom prenositeljem i fondom preuzimateljem ne smiju provesti prijenos imovine i obveza, a Središnji registar osiguranika ne smije provesti zamjenu obračunskih jedinica u skladu s odredbama ovoga članka.«.
+
+Dosadašnji stavak 6. postaje stavak 5.
+
+U dosadašnjem stavku 7., koji postaje stavak 6., broj: »6.« zamjenjuje se brojem: »5.«.
+
+#### Članak 34.
+
+U članku 170. stavak 12. mijenja se i glasi:
+
+»(12) Depozitar i mirovinsko društvo ne smiju biti povezane osobe.«.
+
+#### Članak 35.
+
+Iza članka 172. dodaje se naslov iznad članka i članak 172.a koji glase:
+
+*»Praćenje tijeka novca mirovinskog fonda*
+
+#### Članak 172.a
+
+(1) Depozitar je dužan osigurati učinkovito i prikladno praćenje tijeka novca mirovinskog fonda, a posebno da se sva novčana sredstva mirovinskog fonda evidentiraju na novčanim računima koji ispunjavaju sljedeće uvjete:
+
+1. otvoreni su u ime mirovinskog društva ili depozitara, a za račun mirovinskog fonda
+
+2. otvoreni su kod središnje banke, kreditne institucije sa sjedištem u Republici Hrvatskoj ili državi članici ili banke sa sjedištem u trećoj državi s odobrenjem za rad izdanim od nadležnog tijela, na tržištima gdje su takvi novčani računi potrebni za poslovanje mirovinskog fonda i koji su predmet propisa koji imaju jednak učinak kao i hrvatsko pravo i nad kojima se učinkovito provodi nadzor
+
+3. vode se u skladu s načelima zaštite imovine klijenata propisane zakonom kojim se uređuje tržište kapitala i propisima donesenim na temelju njega u dijelu koji se odnosi na zaštitu imovine klijenata.
+
+(2) Kada su novčani računi otvoreni u ime depozitara, a za račun mirovinskog fonda, na njima se ne smiju držati vlastita novčana sredstva osoba iz stavka 1. točke 2. ovoga članka, kao ni vlastita novčana sredstva depozitara.
+
+(3) Depozitar je o novčanim sredstvima mirovinskog fonda evidentiranim na novčanim računima otvorenima kod osoba iz stavka 1. točke 2. ovoga članka dužan ažurno voditi i vlastite evidencije.«.
+
+#### Članak 36.
+
+U članku 178. stavak 5. mijenja se i glasi:
+
+»(5) Revizor je po završetku revizorskog izvješća dužan bez odgode predati revizorsko izvješće depozitaru, a depozitar Agenciji i to najkasnije u roku od četiri mjeseca nakon isteka poslovne godine za koju se izvješće sastavlja.«.
+
+#### Članak 37.
+
+U članku 183. stavku 1. točka a) mijenja se i glasi:
+
+»a) obavijest o sklapanju ugovora s trećim osobama i«.
+
+#### Članak 38.
+
+U članku 213. ispred riječi: »Agencija« dodaje se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. – 5. koji glase:
+
+»(2) Agencija na svojoj mrežnoj stranici javno objavljuje podatke o svakoj nadzornoj mjeri izrečenoj prema odredbama ovoga Zakona, uključujući i nepravomoćna rješenja o izricanju nadzornih mjera, a koja su donesena u postupcima nadzora koje provodi Agencija u skladu s odredbama ovoga Zakona, uz naznaku da se radi o nepravomoćnim rješenjima. Objava i obrada osobnih podataka provodi se u skladu s propisima kojima se uređuje zaštita osobnih podataka.
+
+(3) Objava iz stavka 2. ovoga članka sadrži najmanje informacije o vrsti i karakteru kršenja odredbi ovoga Zakona ili relevantnih propisa i identitetu osobe kojoj je izrečena nadzorna mjera.
+
+(4) Iznimno od stavka 2. ovoga članka, ako Agencija smatra da bi objavljivanje identiteta pravnih osoba ili osobnih podataka fizičkih osoba bilo nerazmjerno, ili ako bi objavljivanje podataka o nadzornim mjerama ugrozilo stabilnost financijskih tržišta ili istragu u tijeku, bilo štetno za interese članova mirovinskog fonda, ili bi uzrokovalo nerazmjernu štetu uključenim stranama, ovisno o okolnostima pojedinačnog slučaja, Agencija može:
+
+1. odgoditi objavu nadzorne mjere do trenutka kada razlozi neobjavljivanja prestanu postojati
+
+2. nadzornu mjeru objaviti na anonimnoj osnovi, ako takvo anonimno objavljivanje osigurava učinkovitu zaštitu osobnih podataka ili
+
+3. ne objaviti nadzornu mjeru.
+
+(5) U slučaju odluke o anonimnoj objavi nadzorne mjere Agencija može objavu relevantnih podataka odgoditi na razuman rok, ako je predviđeno da će razlozi za anonimnu objavu prestati postojati tijekom toga roka.«.
+
+#### Članak 39.
+
+Iza članka 228. dodaju se članci 228.a i 228.b s naslovima iznad njih koji glase:
+
+*»Prikupljanje i obrada informacija*
+
+#### Članak 228.a
+
+(1) Agencija je ovlaštena i odgovorna za prikupljanje i obradu informacija o činjenicama i okolnostima koje su važne za izvršavanje njezinih obveza i dužnosti određenih ovim Zakonom i zakonom kojim se uređuje pravni položaj Agencije.
+
+(2) Informacijama iz stavka 1. ovoga članka smatraju se osobito informacije o:
+
+1. odobrenjima za osnivanje i rad mirovinskih društava i drugim odobrenjima koje Agencija izdaje na temelju odredbi ovoga Zakona
+
+2. članovima uprave i nadzornog odbora mirovinskog društva, njihovoj organizaciji i radu interne revizije
+
+3. financijskom položaju i poslovanju mirovinskog društva i drugih osoba nad kojima je Agencija ovlaštena obavljati nadzor
+
+4. imateljima dionica ili poslovnih udjela mirovinskog društva
+
+5. nadzornim mjerama koje je Agencija izrekla na temelju odredbi ovoga Zakona i
+
+6. informacijama koje je saznala, u okviru razmjene informacija, od drugih nadzornih tijela Republike Hrvatske, druge države članice ili treće države.
+
+(3) Za dobivanje informacija iz registara i evidencija koje vode sudovi i druga državna i javna tijela Agencija je oslobođena plaćanja pristojbi i naknada.
+
+*Obveza čuvanja povjerljivih podataka*
+
+#### Članak 228.b
+
+(1) Radnici Agencije, revizori i druge stručne osobe koje rade ili su radile po ovlaštenju Agencije dužni su sve informacije u vezi sa subjektima nadzora koje su saznali tijekom rada za Agenciju čuvati kao povjerljive.
+
+(2) Obveza čuvanja povjerljivih podataka iz stavka 1. ovoga članka ne odnosi se na:
+
+1. dostavljanje povjerljivih podataka koji se priopćavaju za potrebe provođenja kaznenog postupka ili postupka koji mu prethodi, a to pisanim putem zatraži ili naloži nadležni sud, Ured za suzbijanje korupcije i organiziranog kriminaliteta, Državno odvjetništvo Republike Hrvatske, Ministarstvo unutarnjih poslova ako mu je to pisanim putem naložilo Državno odvjetništvo Republike Hrvatske, ili to pisanim putem zatraži ovlašteno tijelo iz druge države članice i
+
+2. dostavljanje povjerljivih podataka u slučajevima kad je nad subjektom nadzora pokrenut stečajni postupak ili je u tijeku postupak prisilne likvidacije.«.
+
+#### Članak 40.
+
+U članku 230. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 200.000,00 do 500.000,00 kuna kaznit će se za prekršaj mirovinsko društvo:
+
+1. ako ne poštuje zabranu iz članka 5. stavka 2. ovoga Zakona o izdavanju povlaštenih dionica
+
+2. ako ne osigura jednako postupanje prema svim dioničarima, odnosno imateljima poslovnih udjela te im prizna dodatna prava ili povlastice, ograničava njihova prava ili im nameće dodatne odgovornosti, protivno odredbama članka 5. stavka 3. ovoga Zakona
+
+3. ako protivno odredbama članka 7. stavka 6. ovoga Zakona obavlja druge djelatnosti od onih navedenih u članku 7. stavku 1. ovoga Zakona
+
+4. ako protivno odredbama članka 7. stavka 7. ovoga Zakona delegira poslove iz članka 7. stavka 2. ovoga Zakona na treće osobe
+
+5. ako ne održava kapital mirovinskog društva na način propisan člankom 9. stavkom 1. ovoga Zakona
+
+6. ako prije upisa promjene temeljnog kapitala u sudski registar nije ishodilo odobrenje Agencije u skladu s člankom 9. stavkom 2. ovoga Zakona
+
+7. ako nije bez odgode obavijestilo Agenciju o svakom smanjenju regulatornog kapitala mirovinskog društva ispod razine utvrđene člankom 9. stavkom 1. ovoga Zakona u skladu s člankom 9. stavkom 3. ovoga Zakona
+
+8. ako ne poveća regulatorni kapital mirovinskog društva na potrebnu razinu u roku koji odredi Agencija u skladu s člankom 9. stavkom 4. ovoga Zakona
+
+9. ako prije svake transakcije dionicama ili poslovnim udjelima, odnosno prije svake promjene vlasnika ili vlasničke strukture mirovinskog društva utemeljene na pravnom poslu ne pribavi odobrenje Agencije, u skladu s člankom 20. stavkom 1. ovoga Zakona
+
+10. ako u roku od tri radna dana ne izvijesti Agenciju o svakoj bitnoj promjeni podataka navedenih u zahtjevu za izdavanje odobrenja za rad i o bitnim činjenicama zbog kojih bi mu u skladu s člankom 222. ovoga Zakona trebalo ukinuti ili poništiti izdano odobrenje za rad, u skladu s člankom 25. stavkom 2. ovoga Zakona
+
+11. ako protivno odredbama članka 26. stavka 1. ovoga Zakona uloži svoja sredstva u imovinu različitu od one iz članka 125. stavka 1. točaka 1., 2. i 8. ovoga Zakona ili ako ne kupuje drugo mirovinsko društvo u skladu s člankom 27. ovoga Zakona
+
+12. ako iznos propisanog kapitala iz članka 9. ovoga Zakona održava u imovini različitoj od one iz članka 125. stavka 1. točaka 1., 2. i 8. ovoga Zakona, u skladu s člankom 26. stavkom 3. ovoga Zakona
+
+13. ako ne obavijesti Agenciju o posrednom stjecanju imovine koja nije u skladu s člankom 26. stavcima 1. do 3. ovoga Zakona, u skladu s člankom 26. stavkom 4. ovoga Zakona
+
+14. ako ne uskladi strukturu ulaganja u roku od šest mjeseci od dana stjecanja imovine koja nije u skladu s člankom 26. stavcima 1. do 3. ovoga Zakona, u skladu s člankom 26. stavkom 4. ovoga Zakona
+
+15. ako stekne vlasnički udio u drugom mirovinskom društvu bez prethodnog odobrenja Agencije propisanog člankom 27. stavkom 1. ovoga Zakona
+
+16. ako prije upisa statusne promjene u sudski registar nije dobilo odobrenje Agencije, u skladu s člankom 28. stavkom 1. ovoga Zakona
+
+17. ako nije osiguralo da je novo društvo s kojim se mirovinsko društva spaja, prije upisa statusne promjene u sudski registar, od Agencije dobilo odobrenje za rad, u skladu s člankom 28. stavkom 3. ovoga Zakona
+
+18. ako nije osiguralo da je prilikom statusne promjene razdvajanja najmanje jedno od društava na koje se dijeli imovina mirovinskog društva, prije upisa statusne promjene u sudski registar, od Agencije dobilo odobrenje za rad, u skladu s člankom 28. stavkom 5. ovoga Zakona
+
+19. ako ne osigura da član uprave ne zastupa mirovinsko društvo samostalno, u skladu s člankom 30. stavkom 3. ovoga Zakona
+
+20. ako funkciju člana uprave mirovinskog društva obavlja osoba koja nije dobila odobrenje Agencije za obavljanje funkcije člana uprave mirovinskog društva u skladu s odredbama članka 34. stavka 1. ovoga Zakona
+
+21. ako nije osiguralo da zahtjev za izdavanje odobrenja iz članka 34. stavka 1. ovoga Zakona bude podnesen najmanje tri mjeseca prije isteka mandata pojedinom članu uprave, u skladu s člankom 34. stavkom 6. ovoga Zakona
+
+22. ako nije osiguralo da novi zahtjev za izdavanje odobrenja za imenovanje i program vođenja poslova mirovinskog društva za mandatno razdoblje budu podneseni Agenciji najkasnije u roku od četrdeset i pet dana od dana primitka obavijesti o ukidanju, poništavanju, prestanku ili odbijanju odobrenja za obavljanje funkcije člana uprave mirovinskog društva, u skladu s člankom 34. stavkom 7. ovoga Zakona
+
+23. ako nije osiguralo da novi zahtjev za izdavanje odobrenja za imenovanje i program vođenja poslova mirovinskog društva za mandatno razdoblje budu podneseni Agenciji najkasnije u roku od četrdeset i pet dana od dana nastanka situacije kada mirovinsko društvo ne ispunjava uvjet o najmanjem potrebnom broju članova uprave u skladu s odredbama ovoga Zakona, u skladu s člankom 34. stavkom 7. ovoga Zakona
+
+24. ako mirovinsko društvo, odnosno članovi njegove uprave i nadzornog odbora, prokuristi i radnici postupe protivno odredbama članka 47. stavka 1. ovoga Zakona
+
+25. ako mirovinsko društvo, odnosno članovi njegove uprave i nadzornog odbora, prokuristi i radnici postupe tako da im interesi članova mirovinskih fondova nisu prioritet i svoje interese ili interese povezanih osoba stavljaju ispred interesa članova mirovinskih fondova te integriteta tržišta kapitala, protivno odredbama članka 47. stavka 2. ovoga Zakona
+
+26. ne uspostavi sveobuhvatan i učinkovit sustav upravljanja rizicima za mirovinsko društvo i mirovinske fondove kojima upravlja, u skladu s člankom 51. stavkom 1. ovoga Zakona i pravilnikom iz članka 58. ovoga Zakona
+
+27. ako nije organiziralo svoje poslovanje na način koji osigurava kontinuirani investicijski proces, u skladu s odredbama članka 52. stavka 1. ovoga Zakona
+
+28. ako za svaku vrstu imovine koja je značajna po udjelu u imovini, rizičnosti i/ili operativnim zahtjevima nije osiguralo adekvatan broj radnika zaduženih za ulaganje, trgovanje, analizu i upravljanje rizicima konkretnom vrste imovine te opseg zaduženja pojedinog radnika nije primjeren, u skladu s člankom 52. stavkom 2. ovoga Zakona
+
+29. ako u odnosu na svaku vrstu imovine nije osiguralo poznavanje prirode investicije, izdavatelja, specifičnosti vezanih za trgovanje, pravnih propisa te rizika koji proizlaze iz toga, u skladu s člankom 52. stavkom 3. ovoga Zakona
+
+30. ako ne osigura sustave i mehanizme nadzora koji zorno pokazuju da mirovinsko društvo na dugoročnoj osnovi postupa u skladu s ovim Zakonom i statutom mirovinskog fonda te koji omogućuju praćenje svih odluka, naloga i transakcija imovinom mirovinskog fonda, u skladu s člankom 59. točkom 5. ovoga Zakona
+
+31. ako ne osigura da promidžbeni sadržaji, objave i izvješća članovima mirovinskih fondova budu jasna, točna, da ne navode na pogrešne zaključke i da su u skladu sa zahtjevima Agencije, u skladu s člankom 59. točkom 6. ovoga Zakona
+
+32. ako ne dostavi depozitaru preslike svih izvornih isprava vezanih uz transakcije imovinom mirovinskih fondova, i to odmah po sastavljanju tih isprava ili njihovu primitku, te sve ostale isprave i dokumentaciju važnu za obavljanje poslova i izvršavanje dužnosti depozitara predviđenih ovim Zakonom, propisima donesenim na temelju ovoga Zakona te drugim relevantnim propisima, u skladu s člankom 59. točkom 8. ovoga Zakona
+
+33. ako ne vodi evidencije transakcija s imovinom pojedinog mirovinskog fonda odvojeno od svojih vlastitih evidencija, računa, kao i od evidencija transakcija ostalih mirovinskih fondova, te ih u pravilnim vremenskim razmacima ne usklađuje s evidencijama depozitara, u skladu s člankom 59. točkom 9. ovoga Zakona
+
+34. ako Središnjem registru osiguranika pravodobno ne dostavi informacije propisane ovim Zakonom i propisima donesenim na temelju ovoga Zakona, u skladu s člankom 59. točkom 10. ovoga Zakona
+
+35. ako ne objavljuje podatke o mirovinskom društvu i mirovinskim fondovima kojima upravlja u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona i drugim relevantnim propisima, u skladu s člankom 59. točkom 11. ovoga Zakona
+
+36. ako ne podnosi Agenciji redovite izvještaje u skladu s postupkom predviđenim propisima Agencije, u skladu s člankom 59. točkom 12. ovoga Zakona
+
+37. ako sklopi ugovor kojemu je cilj umanjivanje ili promjena odgovornosti mirovinskog društva utvrđenih ovim Zakonom, protivno članku 59. točki 17. ovoga Zakona
+
+38. ako jednog člana uprave ne zaduži za održavanje kontakata s Agencijom radi provedbe izvješćivanja i drugih korespondentnih aktivnosti zahtijevanih odredbama ovoga Zakona, u skladu s člankom 59. točkom 18. ovoga Zakona
+
+39. ako ne izdaje depozitaru naloge za ostvarivanje prava povezanih s imovinom mirovinskog fonda, u skladu s člankom 59. točkom 19. ovoga Zakona
+
+40. ako ne osigura procjenu fer vrijednosti imovine i obveza mirovinskog fonda te ispravno utvrđivanje vrijednosti obračunske jedinice, u skladu s člankom 59. točkom 20. ovoga Zakona
+
+41. ako obavlja djelatnosti posredovanja u kupnji i prodaji financijskih instrumenata, protivno članku 60. točki 1. ovoga Zakona
+
+42. ako stječe ili otuđuje imovinu mirovinskih fondova kojim upravlja za svoj račun ili račun relevantnih osoba, protivno članku 60. točki 2. ovoga Zakona
+
+43. ako sredstvima mirovinskog fonda kupuje imovinu ili sklapa poslove koji nisu predviđeni ovim Zakonom, protivno članku 60. točki 3. ovoga Zakona
+
+44. ako obavlja transakcije kojima krši odredbe ovoga Zakona, propisa donesenih na temelju ovoga Zakona i statuta mirovinskog fonda, uključujući odredbe o ograničenjima ulaganja u mirovinske fondove kojima upravlja, protivno članku 60. točki 4. ovoga Zakona
+
+45. ako nenaplatno otuđi imovinu mirovinskog fonda, protivno članku 60. točki 5. ovoga Zakona
+
+46. ako stekne ili otuđi imovinu mirovinskih fondova kojima upravlja po cijeni nepovoljnijoj od njezine fer vrijednosti, protivno članku 60. točki 6. ovoga Zakona
+
+47. ako neposredno ili posredno, istodobno ili s odgodom, dogovori prodaju, kupnju ili prijenos imovine između dva mirovinska fonda kojima upravlja isto mirovinsko društvo pod uvjetima različitim od tržišnih uvjeta ili uvjetima koji jedan mirovinski fond stavljaju u povoljniji položaj u odnosu na drugi, protivno članku 60. točki 7. ovoga Zakona
+
+48. ako preuzme obveze u vezi s imovinom koja u trenutku preuzimanja tih obveza nije vlasništvo mirovinskog fonda, a ne radi se o iznimci iz članka 60. točke 8. podtočaka a) i b), protivno članku 60. točki 8. ovoga Zakona
+
+49. ako ne ostvaruje prava članova prema depozitaru, u skladu s člankom 62. ovoga Zakona
+
+50. ako radi pokrića troškova mirovinskog društva, za mirovinsko društvo zaračunava naknade koje nisu propisane člankom 63. točkama 1. do 3. ovoga Zakona
+
+51. ako iz imovine mirovinskog fonda isplaćuje naknade, troškove, provizije i pristojbe koje nisu propisane člankom 87. stavkom. 1. točkama 1. do 4.
+
+52. ako ne iskazuje ukupan iznos troškova iz članka 87. stavka 1. ovoga Zakona kao pokazatelj ukupnih troškova i ne objavljuje ga u revidiranim godišnjim izvještajima mirovinskog fonda, protivno članku 87. stavku 2. ovoga Zakona
+
+53. ako potraživanja za naknadu troškova i naknada nastalih u vezi sa zaključivanjem pravnih poslova za zajednički račun članova mirovinskog fonda ne podmiri isključivo iz imovine mirovinskog fonda, nego za iste tereti članove mirovinskog fonda izravno, protivno odredbi članka 88. stavka 4. ovoga Zakona
+
+54. ako uplaćene doprinose u mirovinski fond i prenesene račune ne knjiži u korist osobnih računa na ime člana, u skladu s čankom 106. stavkom 1. ovoga Zakona
+
+55. ako prilikom utvrđivanja neto vrijednosti imovine mirovinskog fonda odnosno vrijednosti obračunske jedinice ne utvrdi vrijednost imovine mirovinskog fonda i svih obveza, u skladu s člankom 107. stavkom 1. ovoga Zakona
+
+56. ako u pogledu utvrđivanja neto vrijednosti imovine i obračunske jedinice ne postupa u skladu s pravilnikom iz članka 108. stavka 4. ovoga Zakona
+
+57. ako uplaćene doprinose i prenesene račune ne preračunava u obračunske jedinice svakodnevno u skladu s vrijednošću obračunskih jedinica na taj datum, u skladu s člankom 109. stavkom 1. ovoga Zakona
+
+58. ako neto vrijednost imovine mirovinskog fonda ne izračunava u skladu s člancima 108. i 111. ovoga Zakona za svaki dan vrednovanja, u skladu s člankom 110. ovoga Zakona
+
+59. ako ne usvoji računovodstvene politike, odnosno metodologije vrednovanja za svaki mirovinski fond kojim upravlja, prilikom njegova osnivanja, i bez odgode ih ne dostavi depozitaru mirovinskog fonda, u skladu s člankom 111. stavkom 2. ovoga Zakona
+
+60. ako za svaki dan vrednovanja ne izvijesti Središnji registar osiguranika o vrijednosti obračunske jedinice mirovinskog fonda u roku iz članka 111. stavka 8. ovoga Zakona
+
+61. ako za svakih deset tisuća članova iznad pedeset tisuća članova svih kategorija mirovinskih fondova kojima upravlja ne održava jamstveni polog najmanje u vrijednosti osnovice koju čini iznos od milijun kuna usklađen prema indeksu potrošačkih cijena, u skladu s člankom 112. stavkom 1. ovoga Zakona
+
+62. ako ne usklađuje osnovicu iz članka 112. stavka 1. ovoga Zakona prema odluci koju donosi Agencija u prvom tromjesečju svake kalendarske godine prema indeksu potrošačkih cijena u prethodnoj kalendarskoj godini, na temelju podataka Državnog zavoda za statistiku, u skladu s člankom 112. stavkom 2. ovoga Zakona
+
+63. ako jamstveni polog ne drži na posebnom skrbničkom računu kod depozitara ili ga ne uloži u trezorske zapise Republike Hrvatske, u skladu s člankom 112. stavkom 4. ovoga Zakona
+
+64. ako ne uplati razliku mirovinskom fondu do zajamčenog prinosa iz jamstvenog pologa ili, ako taj iznos nije dovoljan, iz temeljnog kapitala mirovinskog društva do najviše 50% temeljnog kapitala mirovinskog društva, u skladu s člankom 113. stavkom 3. ovoga Zakona
+
+65. ako se imovina mirovinskog fonda sastoji od imovine različite od one iz članka 125. stavka 1. ovoga Zakona
+
+66. ako imovina iz članka 125. stavka 1. od koje se sastoji imovina mirovinskog fonda ne ispunjava uvjete iz članka 125. stavka 2. ovoga Zakona i/ili iz pravilnika iz članka 125. stavka 5. ovoga Zakona
+
+67. ako mirovinski fond, odnosno mirovinski fondovi kojima upravlja isto mirovinsko društvo, ulaže u imovinu iz članka 125. stavka 2. točke 2 ovoga Zakona, a mirovinsko društvo u roku od tri radna dana nakon provedenog ulaganja ne dostavi Agenciji dokumentaciju propisanu člankom 125. stavkom 3. točkama 1. – 4. ovoga Zakona
+
+68. ako ulaže imovinu mirovinskog fonda protivno ograničenjima ulaganja iz članka 126. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+69. ako ulaže imovinu mirovinskog fonda protivno ograničenjima ulaganja iz članka 127. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+70. ako ulaže imovinu mirovinskog fonda protivno ograničenjima ulaganja iz članka 128. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+71. ako za račun mirovinskog fonda pozajmi novčana sredstva od trećih osoba u ukupnom iznosu većem od 5% neto vrijednosti imovine fonda i/ili isto učini na rok duži od tri mjeseca, protivno članku 131. stavku 1. ovoga Zakona
+
+72. ako za račun mirovinskog fonda pozajmi novčana sredstva od trećih osoba u ukupnom iznosu manjem od 5% neto vrijednosti imovine fonda i to ne učini putem repo poslova i transakcija prodaje i ponovne kupnje i/ili predmetne transakcije sklopi na rok duži od tri mjeseca, protivno članku 131. stavku 1. ovoga Zakona
+
+73. ako više od 5% neto vrijednosti imovine mirovinskog fonda, pozajmi trećim osobama, protivno članku 131. stavku 2. ovoga Zakona
+
+74. ako više od 50% svakog pojedinog ulaganja pozajmi trećim osobama, protivno članku 131. stavku 2. ovoga Zakona
+
+75. ako imovinu mirovinskog fonda pozajmi bez pisanog ugovora ili u sklopu organiziranih sustava za pozajmljivanje vrijednosnih papira koji djeluju u sklopu sustava za prijeboj i namiru, protivno članku 131. stavku 2. ovoga Zakona
+
+76. ako financijske izvedenice ne koristi u svoje ime i za račun mirovinskog fonda u svrhu zaštite imovine mirovinskog fonda ili efikasnog upravljanja imovinom i obvezama mirovinskog fonda, u skladu s člankom 132. stavkom 1. ovoga Zakona
+
+77. ako prilikom ugovaranja financijskih izvedenica ne uvažava ograničenja ulaganja iz članka 132. stavka 2. ovoga Zakona
+
+78. ako ulaže imovinu mirovinskog fonda u imovinu koja je po zakonu neotuđiva ili koja je opterećena, odnosno založena ili fiducijarno prenesena radi osiguranja kakve tražbine, protivno članku 134. točki 1. ovoga Zakona
+
+79. ako ulaže u vrijednosne papire izdane od depozitara mirovinskog fonda, bilo kojeg dioničara, odnosno vlasnika udjela mirovinskog društva, ili bilo koje osobe koja je povezana osoba s prethodno navedenim osobama, protivno članku 134. točki 2. ovoga Zakona
+
+80. ako ulaže imovinu mirovinskog fonda u vrijednosne papire izdane od depozitara mirovinskog fonda, bilo kojeg dioničara, odnosno vlasnika udjela mirovinskog društva, ili bilo koje osobe koja je povezana osoba s prethodno navedenim osobama, protivno članku 134. točki 2. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2. ili 3. ovoga Zakona
+
+81. ako mirovinsko društvo ne uskladi ulaganja mirovinskog fonda odmah po saznanju za prekoračenja ulaganja iz članka 125. do 134. ovoga Zakona, koja su posljedica transakcije koju je sklopilo mirovinsko društvo, a kojom su se u trenutku njezina sklapanja prekoračila navedena ograničenja ili dodatno povećala prekoračenja ulaganja, a koja nisu obuhvaćena člankom 135. stavkom 2. ovoga Zakona, protivno odredbama članka 135. stavka 4. ovoga Zakona
+
+82. ako u svoje ime, a za račun mirovinskog fonda ugovara transakcije s članovima uprave ili nadzornog odbora mirovinskog fonda, suprotno odredbama članka 136. stavka 1. ovoga Zakona
+
+83. ako ne vodi evidenciju o transakcijama ugovorenima za račun mirovinskog fonda u kojima su suprotne strane dioničari, odnosno vlasnici udjela mirovinskog društva, depozitar mirovinskog fonda ili bilo koja druga osoba koja je povezana s navedenim pravnim ili fizičkim osobama, u skladu s člankom 136. stavkom 2. ovoga Zakona
+
+84. ako daje zajam ili jamstva iz imovine mirovinskog fonda, protivno članku 136. stavku 4. ovoga Zakona
+
+85. ako ne izvijesti Hrvatski sabor o radu mirovinskih fondova kojima upravlja u roku iz članka 150. ovoga Zakona
+
+86. ako ne izračuna omjer zamjene obračunskih jedinica u fondu prenositelju za obračunske jedinice u fondu preuzimatelju, u skladu s člankom 153. stavkom 1. ovoga Zakona
+
+87. ako prije provođenja postupka pripajanja mirovinsko društvo fonda prenositelja nije dobilo odobrenje Agencije, u skladu s člankom 155. ovoga Zakona
+
+88. fonda prenositelja ako ne izradi nacrt pripajanja sa sadržajem i formom propisanim člankom 157. stavkom 2. ovoga Zakona, u skladu s člankom 157. stavkom 1. ovoga Zakona
+
+89. fonda preuzimatelja ako ne izradi nacrt pripajanja sa sadržajem i formom propisanim člankom 157. stavkom 2. ovoga Zakona, u skladu s člankom 157. stavkom 1. ovoga Zakona
+
+90. ako naplaćuje troškove povezane s izradom mišljenja depozitara o pripajanju, na temelju nacrta pripajanja iz članka 157. stavka 1. ovoga Zakona iz imovine fonda, protivno članku 158. stavku 3. ovoga Zakona
+
+91. fonda preuzimatelja ako putem Središnjeg registra osiguranika ne učini dostupnim svim članovima fonda preuzimatelja obavijesti o svim radnjama i okolnostima pripajanja koja sadrži elemente iz članka 159. stavka 3. ovoga Zakona, kako bi članovi mogli procijeniti posljedice koje će pripajanje imati na njihovu imovinu u fondu preuzimatelju, u skladu s člankom 159. stavkom 1. ovoga Zakona
+
+92. fonda prenositelja ako putem Središnjeg registra osiguranika ne učini dostupnim svim članovima fonda prenositelja obavijesti o svim radnjama i okolnostima pripajanja koja sadrži elemente iz članka 159. stavka 3. ovoga Zakona, kako bi članovi mogli procijeniti posljedice koje će pripajanje imati na njihovu imovinu u fondu prenositelju u skladu s člankom 159. stavkom 2. ovoga Zakona
+
+93. prenositelj, ako članovima ne dostavi obavijesti o pripajanju iz članka 159. stavaka 1. i 2. ovoga Zakona, nakon što Agencija mirovinskom društvu fonda prenositelja izda odobrenje za pripajanje, ali najmanje 30 dana prije provođenja postupka pripajanja, u skladu s člankom 159. stavkom 4. ovoga Zakona i pravilnikom iz članka 159. stavka 6. ovoga Zakona
+
+94. preuzimatelj, ako članovima ne dostavi obavijesti o pripajanju iz članka 159. stavaka 1. i 2. ovoga Zakona, nakon što Agencija mirovinskom društvu fonda prenositelja izda odobrenje za pripajanje, ali najmanje 30 dana prije provođenja postupka pripajanja, u skladu s člankom 159. stavkom 4. ovoga Zakona i pravilnikom iz članka 159. stavka 6. ovoga Zakona
+
+95. ako u postupku pripajanja ne omogući članovima fonda prenositelja i fonda preuzimatelja prelazak u mirovinski fond kojim upravlja neko drugo mirovinsko društvo bez naplate naknade za izlaz u roku iz članka 159. stavka 4. ovoga Zakona te u roku od šest mjeseci nakon izvršenog pripajanja, u skladu s člankom 159. stavkom 5. ovoga Zakona
+
+96. ako ne obavijesti Središnji registar osiguranika o svim radnjama i okolnostima provođenja pripajanja, u skladu s člankom 160. ovoga Zakona
+
+97. ako naplaćuje troškove revizije iz imovine mirovinskog fonda koji sudjeluje u postupku pripajanja, protivno odredbi članka 162. stavka 6. ovoga Zakona
+
+98. ako mirovinsko društvo koje upravlja fondom preuzimateljem ne obavijesti Agenciju o provedenom pripajanju i ne dostavi nalaz revizora o točnosti stvarnog omjera zamjene utvrđenog na dan njegova izračuna, u roku iz članka 165. ovoga Zakona
+
+99. ako izabere ili promijeni depozitara bez odobrenja Agencije, protivno odredbama članka 171. stavka 1. ovoga Zakona
+
+100. ako u slučaju otvaranja postupka stečaja ili pokretanja postupka likvidacije nad depozitarom odmah ne dostavi obavijest o depozitaru o raskidu ili otkazu ugovora i o tome ne obavijesti Agenciju, u skladu s člankom 189. stavkom 1. točkom 1. ovoga Zakona
+
+101. ako u slučaju otvaranja stečaja ili likvidacije nad depozitarom ne zatraži odobrenje Agencije na izbor novog depozitara, u roku iz članka 189. stavka 1. točke 2. ovoga Zakona
+
+102. ako na zahtjev Agencije ne dostavi ili ne učini dostupnim dokumentaciju, izvještaje ili podatke o svim okolnostima potrebnima za nadzor ili izvršavanje drugih ovlasti i mjera Agencije, u skladu s člankom 201. stavkom 1. ovoga Zakona
+
+103. ako kao subjekt nadzora Agencije iz članka 198. stavka 5. točke 1. ovoga Zakona ne omogući Agenciji obavljanje nadzora, u skladu s člankom 198. stavcima 1. do 3. ovoga Zakona, na način da protivno člancima 203. do 205. ovoga Zakona ovlaštenoj osobi Agencije na traženje ne uruči svu traženu dokumentaciju i podatke iz članka 203. stavka 3. ili članka 205. stavka 2. ovoga Zakona, odnosno ako ne osigura uvjete za obavljanje nadzora u skladu s člankom 204. ovoga Zakona ili ako ne osigura uvjete za pregled informacijskog sustava u skladu s člankom 205. stavkom 1. ovoga Zakona
+
+104. ako unutar roka koji je odredila Agencija, Agenciji ne dostavi izvještaj o provedbi naloženih mjera iz članka 220. stavka 2. ovoga Zakona, u skladu s člankom 220. stavkom 4. ovoga Zakona.«.
+
+#### Članak 41.
+
+U članku 231. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj mirovinsko društvo:
+
+1. ako o održanim sastancima ili sjednicama tijela mirovinskog društva ne vodi zapisnik u skladu s člankom 29. stavkom 2. ovoga Zakona
+
+2. ako nadzorni odbor ne odluči o davanju suglasnosti upravi na pitanja iz članka 45. stavka 1. ovoga Zakona
+
+3. ako nadzorni odbor, protivno članku 45. stavku 2. ovoga Zakona, ne da suglasnost na utvrđena načela ulaganja mirovinskih fondova koja su sastavni dio statuta mirovinskog fonda, u skladu s načelima iz članka 124. ovoga Zakona
+
+4. ako nadzorni odbor ne prati primjenu internih akata mirovinskog društva, u skladu s člankom 45. stavkom 3. ovoga Zakona
+
+5. ako nadzorni odbor ne nadzire primjerenost postupanja i učinkovitost rada interne revizije, u skladu s člankom 46. stavkom 1. točkom 1. ovoga Zakona
+
+6. ako nadzorni odbor ne nadzire postupanje mirovinskog društva u skladu s nalozima i rješenjima Agencije te utvrđenjima iz postupka nadzora, u skladu s člankom 46. stavkom 1. točkom 2. ovoga Zakona
+
+7. ako nadzorni odbor nije podnio izvješće glavnoj skupštini odnosno skupštini o nalozima i utvrđenjima Agencije te postupcima iz članka 46. stavka 1. točke 2. ovoga Zakona, u skladu s člankom 46. stavkom 1. točkom 3. ovoga Zakona
+
+8. ako nadzorni odbor nije odlučio o davanju suglasnosti na godišnje financijske izvještaje mirovinskog društva i godišnje izvještaje mirovinskih fondova te o njima pisanim putem izvijestio glavnu skupštinu ili skupštinu mirovinskog društva, u skladu s člankom 46. stavkom 1. točkom 4. ovoga Zakona
+
+9. ako nadzorni odbor nije obrazložio glavnoj skupštini ili skupštini mirovinskog društva svoje mišljenje o godišnjem izvješću interne revizije i o godišnjem izvješću uprave, u skladu s člankom 46. stavkom 1. točkom 5. ovoga Zakona
+
+10. ako nije uspostavilo, ne provodi ili redovito ne ažurira, ne procjenjuje i ne nadzire učinkovite i primjerene opće organizacijske uvjete te nije uspostavilo, ne provodi ili redovito ne ažurira, ne procjenjuje i ne nadzire politike, mjere i postupke iz članka 48. ovoga Zakona ili pravilnika iz članka 58. ovoga Zakona
+
+11. ako ne organizira poslovanje na način da svodi rizik sukoba interesa na najmanju moguću mjeru, u skladu s člankom 49. stavkom 1. ovoga Zakona
+
+12. ako nije, uzimajući u obzir vrstu, opseg i složenost poslovanja, uspostavilo i ne provodi učinkovite politike upravljanja sukobima interesa, u skladu s člankom 49. stavkom 4. ovoga Zakona
+
+13. ako uzimajući u obzir vrstu, opseg i složenost poslovanja, redovito ne ažurira i ne nadzire učinkovite politike upravljanja sukobima interesa, u skladu s člankom 49. stavkom 4. ovoga Zakona
+
+14. ako nije uspostavilo i ne provodi politike o osobnim transakcijama relevantnih osoba i osoba koje su s njima u srodstvu s financijskim instrumentima u koje ulažu mirovinski fondovi kojima upravlja mirovinsko društvo radi sprječavanja sukoba interesa, u skladu s člankom 49. stavkom 5. ovoga Zakona
+
+15. ako redovito ne ažurira politike o osobnim transakcijama relevantnih osoba i osoba koje su s njima u srodstvu s financijskim instrumentima u koje ulažu mirovinski fondovi kojima upravlja mirovinsko društvo radi sprječavanja sukoba interesa, u skladu s člankom 49. stavkom 5. ovoga Zakona
+
+16. ako ne uspostavi i ne provodi primjerene politike i postupke kako bi osiguralo da posluje u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona, kao i s drugim relevantnim propisima te ne osigura da članovi uprave i druge relevantne osobe postupaju u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona te internim aktima mirovinskog društva, u skladu s člankom 50. stavkom 2. ovoga Zakona
+
+17. ako redovito ne ažurira, ne procjenjuje i ne nadzire politike i postupke kako bi osiguralo da posluje u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona, kao i s drugim relevantnim propisima te ne osigura da članovi uprave i druge relevantne osobe postupaju u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona te internim aktima mirovinskog društva, u skladu s člankom 50. stavkom 2. ovoga Zakona
+
+18. ako nije ustrojilo trajnu i učinkovitu funkciju usklađenosti, u skladu s pravilnikom iz članka 58. ovoga Zakona
+
+19. ako ne ustroji interno tijelo koje donosi odluke vezano uz korporativno upravljanje i odnose s izdavateljima čiji su vrijednosni papiri u vlasništvu mirovinskih fondova kojima mirovinsko društvo upravlja, a koje se mora sastojati od osoba s odgovarajućim znanjem iz područja korporativnog upravljanja, u skladu s člankom 53. stavkom 1. ovoga Zakona
+
+20. ako ne ustroji internu reviziju u skladu s člankom 54. stavkom 1. i pravilnikom iz članka 54. stavka 2. ovoga Zakona
+
+21. ako nije poduzelo sve primjerene mjere potrebne da bi se osiguralo njegovo neprekidno i redovito poslovanje, u skladu s člankom 55. stavkom 1. ovoga Zakona
+
+22. ako nije propisalo ili ne implementira jasne politike i procedure nagrađivanja radnika, članova uprave i nadzornog odbora, čiji rad može imati materijalni utjecaj na profil rizičnosti mirovinskog društva ili mirovinskog fonda, u skladu s člankom 56. stavkom 1. ovoga Zakona
+
+23. ako uprava mirovinskog društva ne usvoji i najmanje jednom godišnje ne preispita opća načela politika nagrađivanja, u skladu s člankom 56. stavkom 5. ovoga Zakona
+
+24. ako najmanje jednom godišnje interno ne revidira primjenu politike i procedure nagrađivanja, u skladu s člankom 56. stavkom 6. ovoga Zakona
+
+25. ako isplati nagradu radnicima, prokuristima, članovima uprave i nadzornog odbora protivno članku 56. stavku 8. ovoga Zakona
+
+26. ako u godišnjim financijskim izvještajima mirovinskog društva ne objavi podatke iz članka 56. stavka 10. ovoga Zakona
+
+27. ako ne vodi i ne čuva evidencije i poslovnu dokumentaciju o svim aktivnostima, kao i transakcijama koje je izvršilo, posebice vezanima uz upravljanje imovinom mirovinskim fondovima, na način koji omogućuje nadzor nad poslovanjem u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona, a posebice nad ispunjavanjem obveza prema članovima i potencijalnim članovima mirovinskog fonda, u skladu s odredbama članka 57. stavka 2. ovoga Zakona
+
+28. ako ne organizira poslovanje i ne vodi ažurno poslovnu dokumentaciju i druge administrativne ili poslovne evidencije na način koji omogućuje da se u svakom trenutku može provjeriti tijek pojedinog posla koji je izvršilo za svoj račun ili račun pojedinog mirovinskog fonda, u skladu s odredbama članka 57. stavka 3. ovoga Zakona
+
+29. ako ne izrađuje ili ne dostavlja izvještaje mirovinskog društva Agenciji u rokovima ili na način propisan pravilnikom iz članka 64. stavka 2. ovoga Zakona, odnosno pravilnikom iz članka 64. stavka 3. ovoga Zakona
+
+30. ako sklopi ugovor o zakonskoj reviziji s revizorom koji ne ispunjava uvjete iz članka 65. stavaka 4. i 5. ovoga Zakona, protivno članku 65. stavku 3. ovoga Zakona
+
+31. ako ne dostavi revizorski izvještaj o obavljenoj zakonskoj reviziji godišnjih financijskih izvještaja, uključujući godišnje izvješće i financijske izvještaje iz članka 64. stavka 2. ovoga Zakona, u roku iz članka 65. stavka 7. ovoga Zakona
+
+32. ako nije ponovo izradilo godišnje financijske izvještaje, osiguralo obavljanje zakonske revizije tih izvještaja te revizorskog izvještaja, uključujući i relevantne financijske izvještaje i dostavilo Agenciji u roku koji je ona odredila svojim rješenjem, protivno članku 66. stavku 4. ovoga Zakona
+
+33. ako objavi godišnje financijske izvještaje koji su odbijeni odnosno odbačeni te ne osigura da godišnji financijski izvještaji, koji su odbijeni odnosno odbačeni, budu javno objavljeni i ako ne osigura da se povuku iz javne objave već objavljeni godišnji financijski izvještaji koji su odbijeni odnosno odbačeni, protivno članku 66. stavku 7. ovoga Zakona
+
+34. ako preuzme poslove upravljanja mirovinskim fondom bez odobrenja Agencije, protivno članku 69. stavku 2. ovoga Zakona
+
+35. prenositelj i preuzimatelj ako zajednički javno ne objave informaciju o prijenosu upravljanja u roku iz članka 72. stavka 1. ovoga Zakona
+
+36. prenositelj ako putem Središnjeg registra osiguranika ne obavijesti sve članove mirovinskih fondova o prijenosu upravljanja, u skladu s člankom 72. stavkom 2. ovoga Zakona
+
+37. preuzimatelj ako putem Središnjeg registra osiguranika ne obavijesti sve članove mirovinskih fondova o prijenosu upravljanja, u skladu s člankom 72. stavkom 2. ovoga Zakona
+
+38. ako u slučaju iz članka 104. stavka 1. ovoga Zakona ne prenese ukupna kapitalizirana sredstva s osobnog računa člana fonda u državni proračun, na način i u roku iz članka 104. stavka 3. ovoga Zakona
+
+39. ako ne izvijesti Agenciju i Središnji registar osiguranika o činjenici da izračun i kontrola neto vrijednosti imovine mirovinskog fonda nisu izvršeni u propisanom roku, na način i u roku iz članka 111. stavka 11. ovoga Zakona
+
+40. ako promidžbeni sadržaj o mirovinskom društvu i mirovinskim fondovima koji je namijenjen članovima ili potencijalnim članovima mirovinskih fondova ne ispunjava zahtjeve iz članka 114. stavka 2. ovoga Zakona
+
+41. ako prikazuje rezultate poslovanja mirovinskog fonda protivno odredbama članka 115. stavka 1. i pravilnika iz članka 115. stavka 2. ovoga Zakona
+
+42. ako u odnosima s članovima, potencijalnim članovima, poslodavcima, sindikatima i radnicima, postupa protivno odredbama članka 117. stavka 1. ovoga Zakona
+
+43. ako promidžbeni sadržaj o mirovinskom društvu i mirovinskim fondovima ne dostavi Agenciji, u skladu s člankom 118. stavkom 3. ovoga Zakona
+
+44. ako informacije objavljene u svrhu promidžbe mirovinskih fondova nisu potpune i točne, u skladu s člankom 118. stavkom 4. ovoga Zakona i pravilnikom iz članka 120. ovoga Zakona
+
+45. ako ne uspostavi i ne ostvaruje primjerene postupke za rješavanje pritužbi članova mirovinskog fonda, u skladu s člankom 121. točkama 1. i 2. ovoga Zakona
+
+46. ako ne vodi evidenciju o svim pritužbama članova mirovinskog fonda i poduzetim mjerama, u skladu s rokom iz članka 121. točke 3. ovoga Zakona
+
+47. ako ne čuva dokumentaciju o svim pritužbama članova mirovinskog fonda i poduzetim mjerama, u skladu s rokom iz članka 121. točke 3. ovoga Zakona
+
+48. ako se imovina mirovinskog fonda ulaže na način da nije valutno usklađena s obvezama mirovinskog fonda u skladu s člankom 129. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+49. ako se imovina mirovinskog fonda ulaže na način da nije ročno usklađena s obvezama mirovinskog fonda u skladu s člankom 130. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+50. ako ne usvoji statute mirovinskih fondova u skladu s člancima 138. do 140. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 1. ovoga Zakona
+
+51. ako ne objavi statute mirovinskih fondova u skladu s člancima 138. do 140. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 1. ovoga Zakona
+
+52. ako ne usvoji informativni prospekt mirovinskih fondova u skladu s člancima 141. do 143. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 2. ovoga Zakona
+
+53. ako ne objavi informativni prospekt mirovinskih fondova u skladu s člancima 141. do 143. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 2. ovoga Zakona
+
+54. ako ne usvoji tromjesečne i revidirane godišnje izvještaje mirovinskih fondova u skladu s člancima 144. do 148. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 3. ovoga Zakona
+
+55. ako ne objavi tromjesečne i revidirane godišnje izvještaje mirovinskih fondova u skladu s člancima 144. do 148. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 3. ovoga Zakona
+
+56. ako ne obavijesti članove mirovinskog fonda o događajima iz članka 149. i 150. ovoga Zakona, u skladu s člankom 137. stavkom 1. točkom 4. ovoga Zakona
+
+57. ako sklopi ugovor o zakonskoj reviziji s revizorom koji ne ispunjava uvjete iz članka 146. stavaka 4. i 5. ovoga Zakona, protivno članku 146. stavku 3. ovoga Zakona
+
+58. ako nije ponovo izradilo godišnje izvještaje mirovinskog fonda, nije osiguralo obavljanje zakonske revizije tih izvještaja te revizorsko izvješće, uključujući i relevantne godišnje izvještaje, nije ih dostavilo Agenciji u roku koji je ona svojim rješenjem odredila, u skladu s člankom 146. stavkom 10. ovoga Zakona
+
+59. ako objavi godišnje financijske izvještaje koji su odbijeni odnosno odbačeni i ako ne povuče iz javne objave već objavljene godišnje financijske izvještaje koji su odbijeni odnosno odbačeni, u skladu s člankom 146. stavkom 13. ovoga Zakona
+
+60. ako ne dostavi Agenciji tromjesečne izvještaje i revidirane godišnje izvještaje mirovinskog fonda u skladu s rokovima iz članka 147. stavka 1. odnosno stavka 2. ovoga Zakona
+
+61. ako ne dostavi Središnjem registru osiguranika tromjesečne izvještaje i revidirane godišnje izvještaje mirovinskog fonda u skladu s rokovima iz članka 147. stavka 1., odnosno stavka 2. ovoga Zakona
+
+62. ako ne da članu mirovinskog fonda besplatno presliku izvješća revizora o pripajanju, najkasnije sljedeći radni dan od primitka pisanog zahtjeva, protivno članku 163. stavku 2. ovoga Zakona
+
+63. ako ne objavi informaciju o provedbi pripajanja na način i u roku iz članka 166. ovoga Zakona
+
+64. ako informativni prospekt mirovinskog fonda, kada je depozitar delegirao poslove iz članka 172. stavka 1. točke 1. ovoga Zakona na treće osobe, u dijelu koji se odnosi na depozitara, ne sadrži i podatke iz članka 185. točaka 1. do 3. ovoga Zakona.«.
+
+#### Članak 42.
+
+U članku 232. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 200.000,00 do 500.000,00 kuna kaznit će se za prekršaj depozitar ako:
+
+1. prilikom obavljanja poslova depozitara iz članka 172. ovoga Zakona ne postupa u skladu s člankom 170. stavkom 10. ovoga Zakona
+
+2. ne obavlja za mirovinski fond neki od poslova iz članka 172. stavka 1. ovoga Zakona i pravilnika iz članka 172. stavka 2. ovoga Zakona
+
+3. ne osigura učinkovito i prikladno praćenje tijeka novca mirovinskog fonda u skladu s člankom 172.a stavkom 1. ovoga Zakona i pravilnikom iz članka 172. stavka 2. ovoga Zakona
+
+4. ne osigura da se sva novčana sredstva mirovinskog fonda evidentiraju na novčanim računima koji ispunjavaju uvjete iz članka 172.a stavka 1. ovoga Zakona
+
+5. na zahtjev Agencije ne dostavi dokumentaciju, obavijesti i informacije o svim pitanjima važnima za obavljanje nadzora nad poslovima depozitara, u skladu s člankom 173. stavkom 1. ovoga Zakona
+
+6. ne upozori mirovinsko društvo o utvrđenim nepravilnostima i/ili nezakonitostima i ne zatraži pojašnjenje o utvrđenim okolnostima, u skladu s člankom 173. stavkom 2. ovoga Zakona
+
+7. ne obavijesti Agenciju o okolnostima iz članka 173. stavka 3. ovoga Zakona
+
+8. ne pohranjuje imovinu mirovinskog fonda u skladu s člankom 174. stavkom 1. ovoga Zakona
+
+9. imovinu mirovinskog fonda ne čuva i ne vodi tako da se u svakom trenutku može jasno odrediti i razlučiti imovina koja pripada mirovinskom fondu, u skladu s člankom 175. stavkom 2. ovoga Zakona
+
+10. koristi imovinu iz članka 174. stavka 1. točaka 1. i 3. ovoga Zakona za obavljanje transakcija za vlastiti račun ili za ostvarivanje bilo kakve koristi za sebe, svoje osnivače, ranike ili u bilo koju drugu svrhu osim u korist članova mirovinskog fonda, protivno članku 175. stavku 4. ovoga Zakona
+
+11. u izvršavanju svojih poslova i dužnosti depozitar ne postupi pažnjom dobrog stručnjaka, u skladu s načelom savjesnosti i poštenja, neovisno i isključivo u interesu članova mirovinskog fonda za koji obavlja poslove depozitara, u skladu s člankom 176. stavkom 1. ovoga Zakona
+
+12. ne izbjegava sukob interesa između depozitara, osnivača i/ili imatelja kvalificiranog udjela u depozitaru, člana mirovinskog društva i mirovinskog društva, u skladu s člankom 176. stavkom 3. ovoga Zakona
+
+13. u odnosu na ostvarivanje zahtjeva i prava članova mirovinskog fonda te imovinu mirovinskog fonda ne postupa u skladu s člankom 180. stavkom 1. ovoga Zakona
+
+14. ne vrati u imovinu mirovinskog fonda sve što je iz nje isplaćeno bez valjane pravne osnove, u skladu s člankom 180. stavkom 2. ovoga Zakona
+
+15. s računa mirovinskog fonda ne isplati mirovinskom društvu naknadu za upravljanje mirovinskim fondom i s time povezane troškove te ako je predviđeno statutom mirovinskog fonda naknadu za izlaz, protivno članku 181. stavku 1. ovoga Zakona
+
+16. s računa mirovinskog fonda bez odobrenja mirovinskog društva isplati naknadu za obavljene poslove depozitara, protivno članku 181. stavku 2. ovoga Zakona
+
+17. u slučaju raskida ili otkaza ugovora o obavljanju poslova depozitara, u roku od 30 dana, svu imovinu mirovinskog fonda ne prenese na pohranu i administriranje novom depozitaru s kojim mirovinsko društvo zaključi ugovor o obavljanju poslova depozitara, pri čemu ne preda i knjige računa, evidenciju i sve druge dokumente i materijale bitne za poslovanje mirovinskog fonda za koji je do tada obavljao poslove depozitara, i to u pisanom ili elektroničkom obliku, ovisno o načinu vođenja naznačenih podataka, u skladu s člankom 188. ovoga Zakona
+
+18. ne naplaćuje naknadu u skladu s odlukom Agencije kojom se svake godine za iduću kalendarsku godinu utvrđuje visina naknade depozitaru protivno članku 191. stavku 2. ovoga Zakona
+
+19. na zahtjev Agencije ne dostavi ili ne učini dostupnim dokumentaciju, izvještaje ili podatke o svim okolnostima potrebnima za nadzor ili izvršavanje drugih ovlasti i mjera Agencije, u skladu s člankom 201. stavkom 1. ovoga Zakona
+
+20. kao subjekt nadzora Agencije iz članka 198. stavka 5. točke 3. ovoga Zakona ne omogući Agenciji obavljanje nadzora, u skladu s člankom 198. stavcima 1. do 3. ovoga Zakona, na način da protivno člancima 203. do 205. ovoga Zakona ovlaštenoj osobi Agencije na traženje ne uruči svu traženu dokumentaciju i podatke iz članka 203. stavka 3. ili članka 205. stavka 2. ovoga Zakona, odnosno ako ne osigura uvjete za obavljanje nadzora u skladu s člankom 204. ovoga Zakona ili ako ne osigura uvjete za pregled informacijskog sustava u skladu s člankom 205. stavkom 1. ovoga Zakona.«.
+
+#### Članak 43.
+
+U članku 233. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj depozitar ako:
+
+1. ne obavlja poslove upravljanja mirovinskim fondovima koje nije moguće odgađati u skladu s člankom 75. stavkom 1. ovoga Zakona
+
+2. u roku od sedam dana od dana nastupanja razloga za prisilni prijenos poslova upravljanja mirovinskim fondovima ne uputi javni poziv ili ako u roku od 15 dana pisanim putem ne predloži Agenciji mirovinsko društvo za preuzimanje poslova upravljanja te ne dostavi zaprimljene ponude, sve u skladu s člankom 76. stavkom 1. ovoga Zakona
+
+3. ne sklopi ugovor o prijenosu poslova upravljanja s društvom preuzimateljem u skladu s člankom 76. stavkom 5. ovoga Zakona
+
+4. ne osigura da mirovinsko društvo izračunava neto vrijednost imovine mirovinskog fonda te vrijednost obračunske jedinice mirovinskog fonda u skladu s člankom 111. stavkom 3. ovoga Zakona
+
+5. ne obavijesti mirovinsko društvo o netočnosti i/ili nepravilnosti koje je uočilo prilikom kontrole izračuna neto vrijednosti imovine mirovinskog fonda na način i u roku iz članka 111. stavka 6. ovoga Zakona
+
+6. umjesto mirovinskog društva fonda prenositelja koje nije u mogućnosti izvršiti svoje obveze vezane za postupak pripajanja, ne izvrši iste, u skladu s člankom 158. stavkom 4. ovoga Zakona
+
+7. ne imenuje revizorsko društvo u skladu s člankom 178. stavkom 2. ovoga Zakona
+
+8. ne obavijesti Agenciju o izboru revizorskog društva, u skladu s člankom 178. stavkom 3. ovoga Zakona
+
+9. ne dostavi Agenciji revizorsko izvješće koje je zaprimio od revizora, u roku iz članka 178. stavka 5. ovoga Zakona
+
+10. na treću osobu u drugoj državi članici ili trećoj državi koja nije registrirana za poslove skrbništva delegira poslove skrbništva nad imovinom mirovinskog fonda koja je uložena u vrijednosne papire za koje mjesto izdanja nije Republika Hrvatska, protivno članku 182. stavku 2. ovoga Zakona
+
+11. delegira poslove iz članka 172. stavka 1. točke 1. ovoga Zakona na treću osobu, protivno uvjetima iz članka 182. stavka 3. ovoga Zakona
+
+12. ne dostavi Agenciji sve ugovore koje je sklopio s trećim osobama i/ili popis tih trećih osoba u rokovima iz članka 183. stavka 1. točke a) odnosno b) ovoga Zakona
+
+13. u odnosu na poslove iz članka 172. stavka 1. točke 1. ovoga Zakona koje je delegirao na treću osobu, učinkovito, kontinuirano i s dužnom pažnjom ne nadzire obavljanje delegiranih poslova, u skladu s člankom 184. točkom 1. ovoga Zakona
+
+14. ne obavijesti Agenciju i/ili mirovinsko društvo o neispunjenju i/ili neurednom ispunjenju obveze te propustu treće osobe koji može bitno utjecati na imovinu mirovinskog fonda pohranjenu na skrbništvo, u skladu s člankom 184. točkom 2. ovoga Zakona
+
+15. o namjeri prestanka obavljanja poslova depozitara ili raskida odnosno otkaza ugovora o obavljanju poslova depozitara ne obavijesti Agenciju i mirovinsko društvo, u roku iz članka 186. stavka 1. ovoga Zakona
+
+16. u slučaju otkaza ili raskida ugovora o obavljanju poslova depozitara ne obavijesti Agenciju o postojanju nerazriješenih povreda ovoga Zakona ili drugih propisa, u skladu s člankom 187. stavkom 3. ovoga Zakona.«.
+
+#### Članak 44.
+
+U članku 234. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj Središnji registar osiguranika ako:
+
+1. ne rasporedi osiguranike u mirovinski fond u skladu s člankom 91. stavkom 3. ovoga Zakona
+
+2. ne rasporedi osiguranike u mirovinski fond u skladu s člankom 91. stavkom 4. ovoga Zakona
+
+3. ne rasporedi osiguranike u mirovinski fond pripadajuće kategorije, u skladu s uvjetima iz članka 96. stavaka 1. i 2. ovoga Zakona
+
+4. članu mirovinskog fonda ili mirovinskom društvu ne učini dostupnom obavijest o raspoređivanju, u skladu s člankom 96. stavkom 3. ovoga Zakona
+
+5. prilikom promjene iz članka 98. stavka 1. ovoga Zakona mirovinskom društvu koje upravlja mirovinskim fondom u koji se prenosi osobni račun člana mirovinskog fonda ne učini dostupnim izvještaj o ukupnom stanju i svim dotadašnjim uplatama na osobnom računu, u skladu s člankom 98. stavkom 3. ovoga Zakona
+
+6. svakom članu mirovinskog fonda ne učini dostupnom potvrdu koja sadrži sve informacije iz članka 193. stavka 1. ovoga Zakona na način i u roku iz članka 193. stavka 1. ovoga Zakona
+
+7. na zahtjev člana mirovinskog fonda ne dostavi obavijest o vrijednosti imovine na njegovu računu, u skladu s člankom 193. stavkom 2. ovoga Zakona
+
+8. obavijesti s podacima iz članka 193. stavka 1. ovoga Zakona najmanje jednom godišnje ne učiniti dostupnim mirovinskom društvu za svakog člana mirovinskog fonda kojim to društvo upravlja, u skladu s člankom 193. stavkom 3. ovoga Zakona
+
+9. po primitku vrijednosti obračunskih jedinica svih mirovinskih fondova iz članka 111. stavka 8. ovoga Zakona iste ne objavi na svojoj mrežnoj stranici, u skladu s člankom 193. stavkom 5. ovoga Zakona
+
+10. ne uspostavi i ne provodi učinkovite i primjerene mjere i postupke za nadzor i zaštitu informacijskog sustava i sustava za elektroničku obradu podataka, u skladu s člankom 195. točkom 1. ovoga Zakona
+
+11. redovito ne ažurira, ne procjenjuje i ne nadzire učinkovite i primjerene mjere i postupke za nadzor i zaštitu informacijskog sustava i sustava za elektroničku obradu podataka, u skladu s člankom 195. točkom 1. ovoga Zakona
+
+12. ne uspostavi i ne provodi učinkovite i primjerene mjere i postupke za neprekidno očuvanje sigurnosti, cjelovitosti i povjerljivosti informacija, u skladu s člankom 195. točkom 2. ovoga Zakona
+
+13. redovito ne ažurira, ne procjenjuje i ne nadzire učinkovite i primjerene mjere i postupke za neprekidno očuvanje sigurnosti, cjelovitosti i povjerljivosti informacija, u skladu s člankom 195. točkom 2. ovoga Zakona
+
+14. ne uspostavi i ne provodi učinkovite i primjerene politike, mjere i postupke osiguranja neprekidnog poslovanja, u skladu s člankom 195. točkom 3. ovoga Zakona
+
+15. redovito ne ažurira, ne procjenjuje i ne nadzire učinkovite i primjerene politike, mjere i postupke osiguranja neprekidnog poslovanja, u skladu s člankom 195. točkom 3. ovoga Zakona
+
+16. na zahtjev Agencije ne dostavi ili ne učini dostupnim dokumentaciju, izvještaje ili podatke o svim okolnostima potrebnima za nadzor ili izvršavanje drugih ovlasti i mjera Agencije, u skladu s člankom 201. stavkom 1. ovoga Zakona
+
+17. kao subjekt nadzora Agencije iz članka 198. stavka 5. točke 4. ovoga Zakona ne omogući Agenciji obavljanje nadzora, u skladu s člankom 198. stavcima 1. do 3. ovoga Zakona, na način da protivno člancima 203. do 205. ovoga Zakona ovlaštenoj osobi Agencije na traženje ne uruči svu traženu dokumentaciju i podatke iz članka 203. stavka 3. ili članka 205. stavka 2. ovoga Zakona, odnosno ako ne osigura uvjete za obavljanje nadzora u skladu s člankom 204. ovoga Zakona ili ako ne osigura uvjete za pregled informacijskog sustava u skladu s člankom 205. stavkom 1. ovoga Zakona.«.
+
+#### Članak 45.
+
+Članak 235. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj revizorsko društvo:
+
+1. mirovinskog fonda koji ne revidira postupke naknade štete u skladu s člankom 61. stavkom 4. ovoga Zakona
+
+2. mirovinskog fonda koji tijekom zakonske revizije godišnjih izvještaja mirovinskog fonda ne revidira primjenu metodologije utvrđivanja neto vrijednosti imovine mirovinskog fonda, u skladu s člankom 111. stavkom 7. ovoga Zakona
+
+3. mirovinskog fonda ako ne izradi izvješće o pripajanju u skladu s člankom 162. stavkom 2. ovoga Zakona
+
+4. mirovinskog fonda ako svoje izvješće o pripajanju ne podnese upravama mirovinskih društava fonda prenositelja i fonda preuzimatelja, u skladu s člankom 162. stavkom 3. ovoga Zakona
+
+5. ako ne preda depozitaru revizorsko izvješće u roku iz članka 178. stavka 5. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 10.000,00 do 30.000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka ovlašteni revizor.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 46.
+
+Agencija će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 17. ovoga Zakona.
+
+#### Članak 47.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/21
+
+Zagreb, 6. srpnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima (NN 115/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2237*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM MIROVINSKIM FONDOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018. godine.
+
+Klasa: 011-01/18-01/209
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM MIROVINSKIM FONDOVIMA**
+
+#### Članak 1.
+
+U Zakonu o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14. i 64/18.) u članku 12. stavak 1. mijenja se i glasi:
+
+»(1) U razdoblju od 30 dana od dana primitka zahtjeva za izdavanje odobrenja za rad Agencija može od osnivača zatražiti dodatnu dokumentaciju i informacije.«.
+
+#### Članak 2.
+
+U članku 13. broj: »15« zamjenjuje se brojem: »30«.
+
+#### Članak 3.
+
+U članku 25. stavku 2. riječi: »ili poništiti« brišu se.
+
+#### Članak 4.
+
+U članku 31. stavku 1. točki 4. riječi: »ili poništavanje« brišu se.
+
+#### Članak 5.
+
+U članku 34. stavku 7. riječi: »poništavanju,« brišu se.
+
+#### Članak 6.
+
+U naslovu iznad članka 37. riječi: »ili poništavanje« brišu se.
+
+U stavku 1. riječi: »ili poništavanju« brišu se.
+
+Iza točke 8. na kraju rečenice briše se točka i dodaju se točke 9. i 10. koje glase:
+
+»9. ako mirovinsko društvo sklopi pravni posao protivno odredbama članka 49.a ovoga Zakona
+
+10. ako mirovinsko društvo ne uplati iznos naknade za upravljanje Središnjem registru osiguranika u skladu s odredbama članka 63.a stavka 2. ovoga Zakona.«.
+
+U stavku 2. riječi: »ili poništiti« brišu se.
+
+U stavku 3. riječi: »ili poništi« brišu se.
+
+#### Članak 7.
+
+U članku 40. dodaje se novi stavak 1. i stavak 2. koji glase:
+
+»(1) Vlada Republike Hrvatske će na prijedlog ministra nadležnog za mirovinski sustav u nadzorni odbor svakog mirovinskog društva imenovati po jednu osobu koja će biti predstavnik članova mirovinskog fonda te će zastupati interese članova mirovinskog fonda.
+
+(2) Osoba iz stavka 1. ovoga članka mora zadovoljavati uvjete za obavljanje funkcije člana nadzornog odbora mirovinskog društva iz članka 39. ovoga Zakona i pravilnika iz članka 39. stavka 4. ovoga Zakona, a ujedno će biti imenovana i članom revizorskog odbora mirovinskog društva.«.
+
+U dosadašnjem stavku 1., koji postaje stavak 3., ispred riječi: »U nadzorni« stavlja se oznaka stavka koja glasi: »(3)«.
+
+#### Članak 8.
+
+U naslovu iznad članka 44. riječi: »ili poništavanje« brišu se.
+
+U stavku 1. riječi: »ili poništavanju« brišu se.
+
+Iza točke 4. na kraju rečenice briše se točka i dodaje se točka 5. koja glasi:
+
+»5. ako mirovinsko društvo sklopi pravni posao protivno odredbama članka 49.a ovoga Zakona, kada je to primjenjivo u odnosu na člana nadzornog odbora.«.
+
+U stavku 2. riječi: »ili poništi« brišu se.
+
+#### Članak 9.
+
+U članku 45. stavku 1. točka 4. mijenja se i glasi:
+
+»4. na ulaganja iz članka 125. stavka 1. točke 11. te članka 126. stavaka 3. i 4. ovoga Zakona«.
+
+#### Članak 10.
+
+U članku 49. stavak 6. mijenja se i glasi:
+
+»(6) Kada mirovinsko društvo predlaže ili imenuje člana nadzornog odbora u društvo u koje je uložilo imovinu mirovinskog fonda, mora predložiti nezavisnog člana koji ima odgovarajuće stručne kvalifikacije i iskustvo te nije u poslovnim, obiteljskim i drugim vezama s mirovinskim društvom, većinskim dioničarom odnosno imateljem udjela ili grupom većinskih dioničara odnosno imatelja udjela ili članovima uprave ili nadzornog odbora mirovinskog društva ili većinskog dioničara odnosno imatelja udjela.«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Mirovinska društva će samostalno ili putem strukovnih udruženja propisati kodeks postupanja kojim će urediti i pitanja korporativnog upravljanja u društvima u koja ulažu imovinu mirovinskih fondova kojima upravljaju, potrebne kvalifikacije članova nadzornog odbora u tim društvima, način njihova izbora, kao i ostala pitanja koja smatraju relevantnim za korporativno upravljanje.«.
+
+#### Članak 11.
+
+Iza članka 49. dodaje se naslov iznad članka i članak 49.a koji glase:
+
+*»Kriteriji za prepoznavanje sukoba interesa*
+
+#### Članak 49.a
+
+(1) Kod prepoznavanja vrsta sukoba interesa do kojih može doći prilikom obavljanja djelatnosti mirovinskog društva, a koji mogu naštetiti interesima mirovinskog fonda i njegovih članova, mirovinsko društvo dužno je najmanje uzeti u obzir nalaze li se ono, relevantna osoba ili drugi mirovinski fond pod upravljanjem društva ili osoba koja je posredno ili neposredno povezana s mirovinskim društvom putem kontrole, u sklopu obavljanja djelatnosti mirovinskog društva ili iz drugih razloga, u situaciji da:
+
+1. bi mogli ostvariti financijsku dobit ili izbjeći financijski gubitak na štetu mirovinskog fonda
+
+2. imaju interes ili korist od usluge ili izvršene transakcije za račun mirovinskog fonda, a koji se razlikuju od interesa mirovinskog fonda
+
+3. primaju ili će primiti od drugih osoba dodatne poticaje ili naknade u vezi s upravljanjem imovinom mirovinskog fonda, u vidu novca, robe ili usluga, a što nije uobičajena provizija ili naknada za tu uslugu.
+
+(2) Mirovinsko društvo dužno je prilikom utvrđivanja vrsta sukoba interesa uzeti u obzir:
+
+1. interese mirovinskog društva, uključujući one koji proizlaze iz njegova pripadanja grupi ili obavljanja djelatnosti mirovinskog društva i obveze mirovinskog društva prema mirovinskom fondu
+
+2. interese dvaju ili više mirovinskih fondova kojima upravlja.
+
+(3) Ako mirovinsko društvo utvrdi da bi mogle nastupiti okolnosti iz stavka 1. ovoga članka, dužno je o tome, uz dostavu analize iz članka 52. stavka 1. točke 4. ovoga Zakona, bez odgode obavijestiti Agenciju te ne smije realizirati namjeravano ulaganje dok:
+
+– se predmetni sukob interesa ne ukloni ili
+
+– Agenciji ne pruži dokaze da predmetni sukob interesa neće negativno utjecati na interese mirovinskog fonda.
+
+(4) Agencija pravilnikom propisuje kriterije za prepoznavanje vrsta sukoba interesa i donosi smjernice kojima dodatno opisuje situacije koje smatra sukobom interesa, u smislu odredaba stavka 1. ovoga članka.«.
+
+#### Članak 12.
+
+U članku 52. stavku 1. iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. analize sukoba interesa, posebice u odnosu na odredbe članka 49.a stavka 2. ovoga Zakona«.
+
+Dosadašnje točke od 4. do 7. postaju točke od 5. do 8.
+
+#### Članak 13.
+
+U članku 53. stavak 3. briše se.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+#### Članak 14.
+
+U članku 59. iza točke 21. na kraju rečenice briše se točka i dodaje se točka 22. koja glasi:
+
+»22. dio prihoda svake godine ulagati u osnaživanje financijske pismenosti građana Republike Hrvatske o individualnoj kapitaliziranoj štednji.«.
+
+#### Članak 15.
+
+U članku 63. točki 1. broj: »0,8« zamjenjuje se brojem: »0,5«.
+
+Točka 2. mijenja se i glasi:
+
+»2. naknada za upravljanje u iznosu od najviše 0,338% godišnje od ukupne imovine umanjene za financijske obveze mirovinskog fonda u 2019., najviše 0,3% u 2020. godini, a za svaku daljnju godinu stopa naknade umanjuje se za 5,5% u odnosu na stopu naknade koja se primjenjivala u prethodnoj godini, zaokruženo na tri decimalna mjesta, s time da ista ne može biti niža od 0,27%, dok osnovicu za izračun i način naplate ove naknade Agencija propisuje pravilnikom«.
+
+#### Članak 16.
+
+Iza članka 63. dodaje se članak 63.a koji glasi:
+
+»Članak 63.a
+
+(1) Mirovinsko društvo ima pravo na iznos naknade za upravljanje koji čini 20% ukupno naplaćenog iznosa naknade za upravljanje od strane svih mirovinskih društava u Republici Hrvatskoj u promatranom obračunskom razdoblju od jedne kalendarske godine.
+
+(2) Ako mirovinsko društvo tijekom godišnjeg obračunskog razdoblja obračuna i naplati naknadu za upravljanje koja čini više od 20% ukupno naplaćenog iznosa naknade za upravljanje od strane svih mirovinskih društava u Republici Hrvatskoj u istom obračunskom razdoblju, dužno je najkasnije do 30. travnja iduće kalendarske godine 55% tako više naplaćenog iznosa naknade za upravljanje uplatiti na odgovarajući uplatni račun Središnjem registru osiguranika kako bi se izvršio raspored tih sredstava mirovinskim fondovima.
+
+(3) Središnji registar osiguranika će zaprimljeni iznos naplaćene naknade iz stavka 2. ovoga članka rasporediti na sve mirovinske fondove u Republici Hrvatskoj razmjerno njihovoj veličini, promatrano prema neto vrijednosti imovine pojedinog mirovinskog fonda na dan raspodjele sredstava.
+
+(4) Agencija pravilnikom utvrđuje način izračuna osnovice utvrđivanja visine sredstava koja se prenose Središnjem registru osiguranika, uplatni račun na koji će se izvršiti uplate mirovinskih društava, način dostave podataka od mirovinskih društava Središnjem registru osiguranika potrebnih za raspored sredstava, rokove zaprimanja i raspoređivanja sredstava te druge podatke potrebne za provedbu odredbi stavka 2. i 3. ovoga članka.«.
+
+#### Članak 17.
+
+U članku 74. točki 1. riječi: »ili poništila« brišu se.
+
+#### Članak 18.
+
+U članku 91. stavak 3. mijenja se i glasi:
+
+»(3) Ako osiguranik u roku od mjesec dana od uspostavljanja obveznog mirovinskog osiguranja ne odabere mirovinski fond, Središnji registar osiguranika će ga po službenoj dužnosti rasporediti u mirovinski fond kategorije A, ako je to u skladu s člankom 93. stavkom 1. ovoga Zakona.«.
+
+Iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+
+»(4) Odredba stavka 3. ovoga članka neće se primijeniti na osiguranika koji ne ispunjava uvjet iz članka 93. stavka 1. ovoga Zakona. U tom slučaju osiguranik će se rasporediti u mirovinski fond kategorije B, ako su ispunjeni uvjeti propisani člankom 93. stavkom 2. ovoga Zakona, ili u mirovinski fond kategorije C, ako nisu ispunjeni uvjeti propisani člankom 93. stavkom 2. ovoga Zakona.
+
+(5) Član mirovinskog fonda koji je u skladu s odredbama stavka 3. ovoga članka po službenoj dužnosti raspoređen u mirovinski fond kategorije A nakon isteka roka od 10 godina od dana raspoređivanja u mirovinski fond kategorije A bit će po službenoj dužnosti raspoređen u mirovinski fond kategorije B, osim ako prethodno nije osobno izvršio izbor kategorije mirovinskog fonda.«.
+
+Dosadašnji stavak 4., koji postaje stavak 6., mijenja se i glasi:
+
+»(6) Raspored osiguranika prema stavcima 3. i 4. ovoga članka obavit će se na način da svakom mirovinskom društvu pripada udio u ukupnom broju osiguranika koji je jednak kvocijentu broja jedan i broja mirovinskih društava uvećanog za jedan, zaokruženo na dvije decimale, dok se ostatak raspoređuje onom mirovinskom društvu koje je u protekloj godini ostvarilo najveći prinos prilagođen rizikom.«.
+
+Dosadašnji stavak 5. postaje stavak 7.
+
+U dosadašnjem stavku 6., koji postaje stavak 8., broj: »5.« zamjenjuje se brojem: »7.«.
+
+Dosadašnji stavak 7., koji postaje stavak 9., mijenja se i glasi:
+
+»(9) Agencija će pravilnikom propisati način raspoređivanja i izvještavanja osiguranika o potrebi izbora fonda od strane Središnjeg registra osiguranika, način osiguravanja doprinosa koje je potrebno plaćati prije zakašnjelog učlanjenja, način i učestalost raspoređivanja, način izračuna prinosa iz stavka 6. ovoga članka te obavještavanja mirovinskih društava o izračunatom prinosu, način izvještavanja o smrti člana mirovinskog fonda te ostale postupke i uvjete koje je potrebno ispuniti pri izboru fonda.«.
+
+#### Članak 19.
+
+U članku 100. stavak 1. mijenja se i glasi:
+
+»(1) Ukupna kapitalizirana sredstva s osobnog računa člana mirovinskog fonda prenijet će se u državni proračun kada se član fonda u postupku ostvarivanja prava na starosnu ili prijevremenu starosnu mirovinu prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 157/13., 33/15., 120/16., 18/18. – Odluka Ustavnog suda Republike Hrvatske i 62/18.) svojom osobno potpisanom izjavom Središnjem registru osiguranika opredijeli za mirovinu određenu kao da je bio osiguran samo u obveznom mirovinskom osiguranju generacijske solidarnosti.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ukupna kapitalizirana sredstva s osobnog računa člana mirovinskog fonda prenijet će se mirovinskom osiguravajućem društvu kada član fonda ostvari pravo na starosnu ili prijevremenu starosnu mirovinu prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 157/13., 33/15., 120/16., 18/18. – Odluka Ustavnog suda Republike Hrvatske i 62/18.), a u postupku ostvarivanja prava svojom se osobno potpisanom izjavom Središnjem registru osiguranika opredijeli za ostvarivanje mirovine i iz obveznog mirovinskog osiguranja individualne kapitalizirane štednje prema programu mirovinskog osiguravajućeg društva u skladu s posebnim zakonom te mu se iz obveznog mirovinskog osiguranja generacijske solidarnosti određuje osnovna mirovina.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., riječi: »1. i 2.« zamjenjuju se riječima: »1., 2. i 3.«.
+
+Dosadašnji stavci od 4. do 6. postaju stavci od 5. do 7.
+
+#### Članak 20.
+
+Članak 104. mijenja se i glasi:
+
+»(1) Član mirovinskog fonda koji je obvezno osiguran u obveznom mirovinskom osiguranju individualne kapitalizirane štednje, kao i član fonda koji je pristupio u obvezno mirovinsko osiguranje individualne kapitalizirane štednje u dobi između 40 i 50 godina, koji ostvari pravo na starosnu ili prijevremenu starosnu mirovinu prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 157/13., 33/15., 120/16., 18/18. – Odluka Ustavnog suda Republike Hrvatske i 62/18.), u postupku ostvarivanja prava svojom osobno potpisanom izjavom Središnjem registru osiguranika obvezno se opredjeljuje između istupa iz toga osiguranja ili ostvarivanja mirovine iz obveznog mirovinskog osiguranja individualne kapitalizirane štednje prema programu mirovinskog osiguravajućeg društva.
+
+(2) U slučaju ako se član fonda iz stavka 1. ovoga članka izjavom opredijeli za istup iz obveznog mirovinskog osiguranja individualne kapitalizirane štednje, Hrvatski zavod za mirovinsko osiguranje će bivšem članu fonda s danom ostvarivanja prava na mirovinu odrediti mirovinu prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 157/13., 33/15., 120/16., 18/18. – Odluka Ustavnog suda Republike Hrvatske i 62/18.) kao da je bio osiguran samo u obveznom mirovinskom osiguranju generacijske solidarnosti.
+
+(3) U slučaju iz stavka 2. ovoga članka mirovinski fond će putem Središnjeg registra osiguranika u roku od 30 dana po zaprimanju podataka od Hrvatskog zavoda za mirovinsko osiguranje prenijeti u državni proračun ukupna kapitalizirana sredstva s osobnog računa toga člana fonda.
+
+(4) U slučaju ako se član fonda iz stavka 1. ovoga članka izjavom opredijeli da mu se iz obveznog mirovinskog osiguranja individualne kapitalizirane štednje odredi mirovina prema programu mirovinskog osiguravajućeg društva, ukupna kapitalizirana sredstva s osobnog računa člana fonda prenijet će se putem Središnjeg registra osiguranika mirovinskom osiguravajućem društvu koje član fonda izabere, koje će odrediti mirovinu prema programu mirovinskog osiguravajućeg društva, a iz obveznog mirovinskog osiguranja generacijske solidarnosti odredit će se s danom ostvarivanja prava na mirovinu osnovna mirovina.
+
+(5) Odredbe ovoga članka na odgovarajući se način primjenjuju i na zahtjev korisnika obiteljske mirovine ostvarene nakon smrti osiguranika, člana mirovinskog fonda, ako sredstva kapitaliziranih doprinosa s osobnog računa umrlog člana fonda nisu naslijeđena.«.
+
+#### Članak 21.
+
+U članku 123. stavku 1. točki 11. riječi: »članka 126. stavaka 4. i 5.« zamjenjuju se riječima: »članka 125. stavka 1. točke 11. te članka 126. stavka 4.«.
+
+#### Članak 22.
+
+U članku 125. stavku 1. točka 8. mijenja se i glasi:
+
+»8. depozita kod kreditnih institucija koji su povratni na zahtjev te koji dospijevaju za najviše 12 mjeseci, pod uvjetom da:
+
+a) kreditna institucija ima registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici ili državi članici OECD-a
+
+b) su provođenje nadzora nad tom kreditnom institucijom i razina zaštite deponenata istovjetni onima propisanima zakonom kojim se uređuje poslovanje kreditnih institucija i
+
+c) kreditna institucija nije povezana osoba mirovinskog društva«.
+
+Točka 10. mijenja se i glasi:
+
+»10. novca na računima otvorenima u kreditnim institucijama iz točke 8. ovoga stavka«.
+
+Iza točke 10. dodaje se nova točka 11. i točka 12. koje glase:
+
+»11. prenosivih vlasničkih i/ili dužničkih vrijednosnih papira koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske pod sljedećim uvjetima:
+
+a) ti vrijednosni papiri imaju dugoročne, stabilne i predvidljive novčane tokove, kako bi odgovarali ročnosti obveza mirovinskog fonda uz uvažavanje načela sigurnosti, razboritosti i opreza
+
+b) Vlada Republike Hrvatske je na temelju prijedloga koji joj je prethodno uputilo mirovinsko društvo u ime mirovinskog fonda klasificirala izdavatelja tih vrijednosnih papira kao namjenskog izdavatelja za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske
+
+12. prenosivih vlasničkih vrijednosnih papira i/ili udjela kojima se trguje odnosno koji se nude putem uređenih sustava za prikupljanje kapitala koje priznaje Agencija«.
+
+Dosadašnja točka 11. postaje točka 13.
+
+U stavku 2. iza točke 2. na kraju rečenice briše se točka i dodaje se točka 3. koja glasi:
+
+»3. iznimno od odredbi stavka 1. točaka 8. i 10. ovoga članka, imovina mirovinskog fonda smije se sastojati od depozita i novca na računu kod kreditne institucije koja je povezana osoba mirovinskog društva, pod uvjetom da:
+
+a) su iskorištena ograničenja ulaganja u depozite i novac na računu kod kreditnih institucija koje imaju registrirano sjedište u Republici Hrvatskoj u koje je mirovinskom društvu, u skladu s internim aktom usvojenim na temelju pravilnika iz članka 52. ovoga Zakona, dozvoljeno i omogućeno ulagati i
+
+b) da se kod ulaganja novca odnosno razročavanja depozita najprije ulaže novac s računa otvorenog u toj kreditnoj instituciji odnosno razročava depozit kod te kreditne institucije.«.
+
+Iza stavka 4. dodaje se novi stavak 5. i stavci 6. i 7. koji glase:
+
+»(5) Kada mirovinsko društvo ulaže imovinu mirovinskog fonda u prenosive vlasničke vrijednosne papire iz stavka 1. točke 5. ovoga članka, za pojedina takva ulaganja, skupinu ulaganja ili cjelokupna ulaganja mora koristiti jednu ili više referentnih vrijednosti koje priznaje Agencija.
+
+(6) U slučaju odstupanja prinosa takvih ulaganja od prinosa odabrane referentne vrijednosti iz stavka 5. ovoga članka mirovinsko društvo dužno je u informativnom prospektu obrazložiti prinose te naznačiti i obrazložiti odstupanja prinosa takvih ulaganja u odnosu na prinos referentne vrijednosti iz stavka 5. ovoga članka.
+
+(7) Kada mirovinsko društvo ulaže imovinu mirovinskog fonda u prenosive vlasničke vrijednosne papire i/ili udjele iz stavka 1. točke 12. ovoga članka, u informativnom prospektu mora navesti podatak o subjektu u koji je uložena imovina, koliko je imovine uloženo, obrazloženje takvog ulaganja, koji su prihodi ostvareni te koji se prihodi očekuju u idućem razdoblju.«.
+
+Iza dosadašnjeg stavka 5., koji postaje stavak 8., dodaje se stavak 9. koji glasi:
+
+»(9) Agencija pravilnikom propisuje način izračuna odstupanja prinosa iz stavka 6. ovoga članka, donosi smjernice za referentne vrijednosti iz stavka 5. ovoga članka te smjernice za uređene sustave za prikupljanje kapitala koje priznaje iz stavka 1. točke 12. ovoga članka.«.
+
+#### Članak 23.
+
+U članku 126. stavku 1. točka 9. mijenja se i glasi:
+
+»9. izloženost u vrijednosti od 5% regulatornog kapitala jedne kreditne institucije iz članka 125. stavka 1. točke 8. i stavka 2. točke 3. ovoga Zakona ulaganjem u depozite, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točke 10. i stavka 2. točke 3. ovoga Zakona kod te kreditne institucije«.
+
+Iza točke 9. dodaju se točke 10. i 11. koje glase:
+
+»10. 100% izdanja prenosivih vrijednosnih papira iz članka 125. stavka 1. točke 11. ovoga Zakona
+
+11. 100% izdanja prenosivih vlasničkih vrijednosnih papira i/ili udjela iz članka 125. stavka 1. točke 12. ovoga Zakona.«.
+
+U stavku 2. riječi: »Mirovinski fondovi« zamjenjuju se riječima: »Obvezni mirovinski fondovi i dobrovoljni mirovinski fondovi kojima upravlja isto mirovinsko društvo, kao i obvezni mirovinski fondovi«.
+
+Točka 9. mijenja se i glasi:
+
+»9. izloženost u vrijednosti od 7% regulatornog kapitala jedne kreditne institucije iz članka 125. stavka 1. točke 8. i stavka 2. točke 3. ovoga Zakona ulaganjem u depozite, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točke 10. i stavka 2. točke 3. ovoga Zakona kod te kreditne institucije«.
+
+Iza točke 9. dodaju se točke 10. i 11. koje glase:
+
+»10. 100% izdanja prenosivih vrijednosnih papira iz članka 125. stavka 1. točke 11. ovoga Zakona
+
+11. 100% izdanja prenosivih vlasničkih vrijednosnih papira i/ili udjela iz članka 125. stavka 1. točke 12. ovoga Zakona.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od ograničenja iz stavka 1. točaka 3. i 4. ovoga članka i ograničenja iz stavka 2. točaka 3. i 4. ovoga članka, mirovinski fond odnosno mirovinski fondovi kojima upravlja isto mirovinsko društvo može steći i veći udio u jednom izdanju prenosivih vlasničkih vrijednosnih papira, uz ispunjenje sljedećih uvjeta:
+
+a) da pojedino takvo ulaganje ne prelazi 3% neto vrijednosti imovine mirovinskog fonda
+
+b) da ukupna takva ulaganja ne prelaze 10% neto vrijednosti imovine mirovinskog fonda i
+
+c) da maksimalni udio prenosivih vlasničkih vrijednosnih papira s pravom glasa koji nisu uvršteni na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala u ukupnim ulaganjima iz točke b) ovoga stavka ne prelazi 40%.«.
+
+Stavak 4. briše se.
+
+U dosadašnjem stavku 5., koji postaje stavak 4., riječi: »stavka 4. ovoga članka« zamjenjuju se riječima: »članka 125. stavka 1. točke 11. ovoga Zakona«.
+
+U dosadašnjem stavku 6., koji postaje stavak 5., riječi: »stavka 4. ovoga članka« zamjenjuju se riječima: »članka 125. stavka 1. točke 11. ovoga Zakona«.
+
+U dosadašnjem stavku 7., koji postaje stavak 6., broj: »5.« zamjenjuje se brojem: »4.«, a riječi: »stavka 4. ovoga članka« zamjenjuju se riječima: »članka 125. stavka 1. točke 11. ovoga Zakona«.
+
+Dosadašnji stavak 8. postaje stavak 7.
+
+U dosadašnjem stavku 9., koji postaje stavak 8., riječi: »stavaka 4. i 5. ovoga članka« zamjenjuju se riječima: »stavka 4. ovoga članka i članka 125. stavka 1. točke 11. ovoga Zakona«.
+
+#### Članak 24.
+
+U članku 127. stavku 1. točki 5. riječi: »55%« zamjenjuju se riječima: »65%«.
+
+U točkama 8. i 9. iza riječi: »Zakona« dodaju se riječi: »i imovinu iz članka 125. stavka 2. točke 3. ovoga Zakona«.
+
+Točka 12. mijenja se i glasi:
+
+»12. najviše 55% neto vrijednosti imovine mirovinskog fonda može biti uloženo u imovinu iz članka 125. stavka 1. točke 11. ovoga Zakona«.
+
+Iza točke 12. dodaje se točka 13. koja glasi:
+
+»13. najviše 0,2% neto vrijednosti imovine mirovinskog fonda može biti uloženo u imovinu iz članka 125. stavka 1. točke 12. ovoga Zakona.«.
+
+U stavku 2. točki 5. riječi: »35%« zamjenjuju se riječima: »40%«.
+
+U točkama 8. i 9. iza riječi: »Zakona« dodaju se riječi: »i imovinu iz članka 125. stavka 2. točke 3. ovoga Zakona«.
+
+Točka 12. mijenja se i glasi:
+
+»12. najviše 35% neto vrijednosti imovine mirovinskog fonda može biti uloženo u imovinu iz članka 125. stavka 1. točke 11. ovoga Zakona«.
+
+Iza točke 12. dodaje se točka 13. koja glasi:
+
+»13. najviše 0,1% neto vrijednosti imovine mirovinskog fonda može biti uloženo u imovinu iz članka 125. stavka 1. točke 12. ovoga Zakona.«.
+
+U stavku 3. točki 6. iza riječi: »Zakona« dodaju se riječi: »i imovinu iz članka 125. stavka 2. točke 3. ovoga Zakona«.
+
+Točka 7. mijenja se i glasi:
+
+»7. najviše 10% neto vrijednosti imovine mirovinskog fonda može biti uloženo u imovinu iz članka 125. stavka 1. točke 10. ovoga Zakona i imovinu iz članka 125. stavka 2. točke 3. ovoga Zakona«.
+
+Iza točke 7. dodaje se nova točka 8. koja glasi:
+
+»8. iznimno od odredbi točke 7. ovoga stavka, u imovinu iz članka 125. stavka 1. točke 10. ovoga Zakona može biti uloženo više od 10% neto vrijednosti imovine, a najviše 20%, ali na rok ne duži od 14 dana«.
+
+Dosadašnja točka 8., koja postaje točka 9., mijenja se i glasi:
+
+»9. imovina mirovinskog fonda ne smije biti uložena u imovinu iz članka 125. stavka 1. točaka 5., 7. i 12. ovoga Zakona«.
+
+U dosadašnjoj točki 9., koja postaje točka 10., iza riječi: »valutne usklađenosti« dodaju se riječi: »i u svrhu zaštite imovine mirovinskog fonda od kamatnog i/ili valutnog rizika«.
+
+Dosadašnja točka 10., koja postaje točka 11., mijenja se i glasi:
+
+»11. najviše 10% neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire iz članka 125. stavka 1. točke 11. ovoga Zakona.«.
+
+#### Članak 25.
+
+U članku 128. stavak 8. mijenja se i glasi:
+
+»(8) Najviše 5% neto vrijednosti imovine fonda ukupno može biti izloženo prema jednoj te istoj kreditnoj instituciji iz članka 125. stavka 1. točke 8. ovoga Zakona, odnosno imovini iz članka 125. stavka 2. točke 3. ovoga Zakona, odnosno grupi kreditnih institucija, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točke 10. ovoga Zakona.«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Najviše 25% neto vrijednosti imovine fonda ukupno može biti izloženo prema jednom infrastrukturnom projektu iz članka 125. stavka 1. točke 11. ovoga Zakona.«.
+
+#### Članak 26.
+
+U članku 132. stavku 1. točki 1. iza riječi: »imovine« dodaju se riječi: »i obveza«.
+
+#### Članak 27.
+
+U članku 134. točki 2. riječi: »vrijednosne papire izdane« zamjenjuju se riječima: »vrijednosne papire i/ili poslovne udjele izdane«.
+
+#### Članak 28.
+
+U članku 135. stavku 4. brišu se riječi: »u trenutku njezina sklapanja«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) U slučaju prekoračenja ograničenja ulaganja iz članka 126. stavka 3. točke c) ovoga Zakona mirovinsko društvo dužno je uskladiti ulaganja u roku iz članka 125. stavka 2. točke 2. ovoga Zakona.«.
+
+#### Članak 29.
+
+U članku 141. stavku 2. točki a) podtočka 12. mijenja se i glasi:
+
+»12. podaci o portfelju mirovinskog fonda s osvrtom na investicijske ciljeve i promjene u strukturi portfelja, naznake i obrazloženja odstupanja prinosa ulaganja iz članka 125. stavaka 5. i 6. ovoga Zakona te podaci iz članka 125. stavka 7. ovoga Zakona o ulaganjima u prenosive vlasničke vrijednosne papire i/ili udjele iz članka 125. stavka 1. točke 12. ovoga Zakona«.
+
+#### Članak 30.
+
+U članku 190. stavku 1. riječi: »ili poništiti« brišu se.
+
+U točkama 3. i 4. riječi: »ili poništavanje« brišu se.
+
+#### Članak 31.
+
+Iza članka 211. dodaje se članak 211.a koji glasi:
+
+»Članak 211.a
+
+Agencija je ovlaštena raznim vrstama objava (uputama, smjernicama i slično) obavještavati određene skupine subjekata nadzora i druge adresate o objašnjenju ili načinu primjene određenih propisa iz njezine nadležnosti ili s njima povezanih općih pravnih akata.«.
+
+#### Članak 32.
+
+U članku 213. stavku 1. točki 5. riječi: »ili poništavanje« brišu se.
+
+#### Članak 33.
+
+U članku 215. stavak 2. mijenja se i glasi:
+
+»(2) Agencija može mirovinskom društvu izreći opomenu i u slučaju kada tijekom nadzora utvrdi nezakonitosti i nepravilnosti za koje bi se inače izrekla nadzorna mjera otklanjanja nezakonitosti i nepravilnosti, a koje je mirovinsko društvo do donošenja rješenja otklonilo.«.
+
+U stavku 3. iza riječi: »Opomena Agencije« dodaju se riječi: »iz stavka 1. ovoga članka«.
+
+#### Članak 34.
+
+U članku 220. stavku 1. točka 5. mijenja se i glasi:
+
+»5. u drugim slučajevima kada Agencija utvrdi kršenje odredbi ovoga Zakona i/ili relevantnih propisa, a takva mjera je potrebna kako bi se takvo kršenje obustavilo i/ili uspostavilo zakonito postupanje i/ili osiguralo poštivanje ovoga Zakona i/ili drugih relevantnih propisa.«.
+
+#### Članak 35.
+
+Članak 221. mijenja se i glasi:
+
+»(1) Protiv rješenja koja u upravnim stvarima iz svoje nadležnosti donosi Agencija žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+(2) Tužba kojom se pokreće upravni spor protiv rješenja Agencije ne može imati odgodni učinak.«.
+
+#### Članak 36.
+
+U naslovu iznad članka 222. riječi: »ili poništavanje« brišu se.
+
+U stavcima 1., 2. i 3. riječi: »ili poništavanju« brišu se.
+
+U stavku 4. riječi: »ili poništiti« brišu se.
+
+U stavku 5. riječi: »ili poništi« brišu se.
+
+#### Članak 37.
+
+U članku 225. stavku 3. riječi:»192. i 193.« zamjenjuju se riječima:»192. do 195.«.
+
+#### Članak 38.
+
+U članku 230. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 200.000,00 do 500.000,00 kuna kaznit će se za prekršaj mirovinsko društvo:
+
+1. ako ne poštuje zabranu iz članka 5. stavka 2. ovoga Zakona o izdavanju povlaštenih dionica
+
+2. ako ne osigura jednako postupanje prema svim dioničarima, odnosno imateljima poslovnih udjela te im prizna dodatna prava ili povlastice, ograničava njihova prava ili im nameće dodatne odgovornosti, protivno odredbama članka 5. stavka 3. ovoga Zakona
+
+3. ako protivno odredbama članka 7. stavka 6. ovoga Zakona obavlja druge djelatnosti od onih navedenih u članku 7. stavku 1. ovoga Zakona
+
+4. ako protivno odredbama članka 7. stavka 7. ovoga Zakona delegira poslove iz članka 7. stavka 2. ovoga Zakona na treće osobe
+
+5. ako ne održava kapital mirovinskog društva na način propisan člankom 9. stavkom 1. ovoga Zakona
+
+6. ako prije upisa promjene temeljnog kapitala u sudski registar nije ishodilo odobrenje Agencije u skladu s člankom 9. stavkom 2. ovoga Zakona
+
+7. ako nije bez odgode obavijestilo Agenciju o svakom smanjenju regulatornog kapitala mirovinskog društva ispod razine utvrđene člankom 9. stavkom 1. ovoga Zakona u skladu s člankom 9. stavkom 3. ovoga Zakona
+
+8. ako u slučaju smanjenja regulatornog kapitala ispod iznosa propisanog člankom 9. stavkom 1. ovoga Zakona ne poveća regulatorni kapital mirovinskog društva na potrebnu razinu u roku koji odredi Agencija u skladu s člankom 9. stavkom 4. ovoga Zakona
+
+9. ako prije svake transakcije dionicama ili poslovnim udjelima, odnosno prije svake promjene vlasnika ili vlasničke strukture mirovinskog društva utemeljene na pravnom poslu ne pribavi odobrenje Agencije, u skladu s člankom 20. stavkom 1. ovoga Zakona
+
+10. ako u roku od tri radna dana ne izvijesti Agenciju o svakoj bitnoj promjeni podataka navedenih u zahtjevu za izdavanje odobrenja za rad i o bitnim činjenicama zbog kojih bi mu u skladu s člankom 222. ovoga Zakona trebalo ukinuti izdano odobrenje za rad, u skladu s člankom 25. stavkom 2. ovoga Zakona
+
+11. ako protivno odredbama članka 26. stavka 1. ovoga Zakona uloži svoja sredstva u imovinu različitu od one iz članka 125. stavka 1. točaka 1., 2. i 8. ovoga Zakona ili ako ne kupuje drugo mirovinsko društvo u skladu s člankom 27. ovoga Zakona
+
+12. ako iznos propisanog kapitala iz članka 9. ovoga Zakona održava u imovini različitoj od one iz članka 125. stavka 1. točaka 1., 2. i 8. ovoga Zakona, u skladu s člankom 26. stavkom 3. ovoga Zakona
+
+13. ako ne obavijesti Agenciju o posrednom stjecanju imovine koja nije u skladu s člankom 26. stavcima 1. do 3. ovoga Zakona, u skladu s člankom 26. stavkom 4. ovoga Zakona
+
+14. ako ne uskladi strukturu ulaganja u roku od šest mjeseci od dana stjecanja imovine koja nije u skladu s člankom 26. stavcima 1. do 3. ovoga Zakona, u skladu s člankom 26. stavkom 4. ovoga Zakona
+
+15. ako stekne vlasnički udio u drugom mirovinskom društvu bez prethodnog odobrenja Agencije propisanog člankom 27. stavkom 1. ovoga Zakona
+
+16. ako prije upisa statusne promjene u sudski registar nije dobilo odobrenje Agencije, u skladu s člankom 28. stavkom 1. ovoga Zakona
+
+17. ako nije osiguralo da je novo društvo s kojim se mirovinsko društva spaja, prije upisa statusne promjene u sudski registar, od Agencije dobilo odobrenje za rad, u skladu s člankom 28. stavkom 3. ovoga Zakona
+
+18. ako nije osiguralo da je kod statusne promjene razdvajanja najmanje jedno od društava na koje se dijeli imovina mirovinskog društva, prije upisa statusne promjene u sudski registar, od Agencije dobilo odobrenje za rad, u skladu s člankom 28. stavkom 5. ovoga Zakona
+
+19. ako ne osigura da član uprave ne zastupa mirovinsko društvo samostalno, u skladu s člankom 30. stavkom 3. ovoga Zakona
+
+20. ako funkciju člana uprave mirovinskog društva obavlja osoba koja nije dobila odobrenje Agencije za obavljanje funkcije člana uprave mirovinskog društva u skladu s odredbama članka 34. stavka 1. ovoga Zakona
+
+21. ako nije osiguralo da zahtjev za izdavanje odobrenja iz članka 34. stavka 1. ovoga Zakona bude podnesen najmanje tri mjeseca prije isteka mandata pojedinom članu uprave, u skladu s člankom 34. stavkom 6. ovoga Zakona
+
+22. ako nije osiguralo da novi zahtjev za izdavanje odobrenja za imenovanje i program vođenja poslova mirovinskog društva za mandatno razdoblje budu podneseni Agenciji najkasnije u roku od četrdeset i pet dana od dana primitka obavijesti o ukidanju, prestanku ili odbijanju odobrenja za obavljanje funkcije člana uprave mirovinskog društva, u skladu s člankom 34. stavkom 7. ovoga Zakona
+
+23. ako nije osiguralo da novi zahtjev za izdavanje odobrenja za imenovanje i program vođenja poslova mirovinskog društva za mandatno razdoblje budu podneseni Agenciji najkasnije u roku od četrdeset i pet dana od dana nastanka situacije kada mirovinsko društvo ne ispunjava uvjet o najmanjem potrebnom broju članova uprave u skladu s odredbama ovoga Zakona, u skladu s člankom 34. stavkom 7. ovoga Zakona
+
+24. ako mirovinsko društvo, odnosno članovi njegove uprave i nadzornog odbora, prokuristi i radnici postupe protivno odredbama članka 47. stavka 1. ovoga Zakona
+
+25. ako mirovinsko društvo, odnosno članovi njegove uprave i nadzornog odbora, prokuristi i radnici postupe tako da im interesi članova mirovinskih fondova nisu prioritet i svoje interese ili interese povezanih osoba stavljaju ispred interesa članova mirovinskih fondova te integriteta tržišta kapitala, protivno odredbama članka 47. stavka 2. ovoga Zakona
+
+26. ako kod prepoznavanja vrsta sukoba interesa do kojih može doći prilikom obavljanja djelatnosti mirovinskog društva, a koji mogu naštetiti interesima mirovinskog fonda i njegovih članova, protivno odredbama članka 49.a stavka 1. ovoga Zakona, ne uzme u obzir nalazi li se ono, relevantna osoba ili drugi mirovinski fond pod upravljanjem društva ili osobe koja je posredno ili neposredno povezana s mirovinskim društvom putem kontrole, u sklopu obavljanja djelatnosti mirovinskog društva ili iz drugih razloga, u situacijama opisanima u točkama 1. do 3. toga stavka
+
+27. ako prilikom utvrđivanja vrsta sukoba interesa ne uzme u obzir interese mirovinskog društva, uključujući one koji proizlaze iz njegova pripadanja grupi ili obavljanja djelatnosti mirovinskog društva i obveze mirovinskog društva prema mirovinskom fondu, u skladu s odredbama članka 49.a stavka 2. točke 1. ovoga Zakona
+
+28. ako prilikom utvrđivanja vrsta sukoba interesa ne uzme u obzir interese dvaju ili više mirovinskih fondova kojima upravlja, u skladu s odredbama članka 49.a stavka 2. točke 2. ovoga Zakona
+
+29. ako utvrdi da bi mogle nastupiti okolnosti iz članka 49.a stavka 1. ovoga Zakona, a o tome, protivno odredbama članka 49.a stavka 3. ovoga Zakona, bez odgode ne obavijesti Agenciju, uz dostavu ili bez dostave analize iz članka 52. stavka 1. točke 4. ovoga Zakona
+
+30. ako utvrdi da bi mogle nastupiti okolnosti iz članka 49.a stavka 1. ovoga Zakona i, protivno odredbama članka 49.a stavka 3. ovoga Zakona, realizira namjeravano ulaganje, a predmetni sukob interesa nije uklonjen
+
+31. ako utvrdi da bi mogle nastupiti okolnosti iz članka 49.a stavka 1. ovoga Zakona i, protivno odredbama članka 49.a stavka 3. ovoga Zakona, realizira namjeravano ulaganje, a Agenciji nije pružilo dokaze da predmetni sukob interesa neće negativno utjecati na interese mirovinskog fonda
+
+32. ne uspostavi sveobuhvatan i učinkovit sustav upravljanja rizicima za mirovinsko društvo i mirovinske fondove kojima upravlja, u skladu s člankom 51. stavkom 1. ovoga Zakona i pravilnikom iz članka 58. ovoga Zakona
+
+33. ako nije organiziralo svoje poslovanje na način koji osigurava kontinuirani investicijski proces, u skladu s odredbama članka 52. stavka 1. ovoga Zakona
+
+34. ako za svaku vrstu imovine koja je značajna po udjelu u imovini, rizičnosti i/ili operativnim zahtjevima nije osiguralo adekvatan broj radnika zaduženih za ulaganje, trgovanje, analizu i upravljanje rizicima konkretnom vrstom imovine te opseg zaduženja pojedinog radnika nije primjeren, u skladu s člankom 52. stavkom 2. ovoga Zakona
+
+35. ako u odnosu na svaku vrstu imovine nije osiguralo poznavanje prirode investicije, izdavatelja, specifičnosti vezanih za trgovanje, pravnih propisa te rizika koji proizlaze iz toga, u skladu s člankom 52. stavkom 3. ovoga Zakona
+
+36. ako ne osigura sustave i mehanizme nadzora koji zorno pokazuju da mirovinsko društvo na dugoročnoj osnovi postupa u skladu s ovim Zakonom i statutom mirovinskog fonda te koji omogućuju praćenje svih odluka, naloga i transakcija imovinom mirovinskog fonda, u skladu s člankom 59. točkom 5. ovoga Zakona
+
+37. ako ne osigura da promidžbeni sadržaji, objave i izvješća članovima mirovinskih fondova budu jasna, točna, da ne navode na pogrešne zaključke i da su u skladu sa zahtjevima Agencije, u skladu s člankom 59. točkom 6. ovoga Zakona
+
+38. ako ne dostavi depozitaru preslike svih izvornih isprava vezanih uz transakcije imovinom mirovinskih fondova, i to odmah po sastavljanju tih isprava ili njihovu primitku, te sve ostale isprave i dokumentaciju važnu za obavljanje poslova i izvršavanje dužnosti depozitara predviđenih ovim Zakonom, propisima donesenim na temelju ovoga Zakona te drugim relevantnim propisima, u skladu s člankom 59. točkom 8. ovoga Zakona
+
+39. ako ne vodi evidencije transakcija s imovinom pojedinog mirovinskog fonda odvojeno od vlastitih evidencija, računa, kao i od evidencija transakcija ostalih mirovinskih fondova, te ih u pravilnim vremenskim razmacima ne usklađuje s evidencijama depozitara, u skladu s člankom 59. točkom 9. ovoga Zakona
+
+40. ako Središnjem registru osiguranika pravodobno ne dostavi informacije propisane ovim Zakonom i propisima donesenim na temelju ovoga Zakona, u skladu s člankom 59. točkom 10. ovoga Zakona
+
+41. ako ne objavljuje podatke o mirovinskom društvu i mirovinskim fondovima kojima upravlja u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona i drugim relevantnim propisima, u skladu s člankom 59. točkom 11. ovoga Zakona
+
+42. ako ne podnosi Agenciji redovite izvještaje u skladu s postupkom predviđenim propisima Agencije, u skladu s člankom 59. točkom 12. ovoga Zakona
+
+43. ako sklopi ugovor kojemu je cilj umanjivanje ili promjena odgovornosti mirovinskog društva utvrđenih ovim Zakonom, protivno članku 59. točki 17. ovoga Zakona
+
+44. ako jednog člana uprave ne zaduži za održavanje kontakata s Agencijom radi provedbe izvješćivanja i drugih korespondentnih aktivnosti zahtijevanih odredbama ovoga Zakona, u skladu s člankom 59. točkom 18. ovoga Zakona
+
+45. ako ne izdaje depozitaru naloge za ostvarivanje prava povezanih s imovinom mirovinskog fonda, u skladu s člankom 59. točkom 19. ovoga Zakona
+
+46. ako ne osigura procjenu fer vrijednosti imovine i obveza mirovinskog fonda te ispravno utvrđivanje vrijednosti obračunske jedinice, u skladu s člankom 59. točkom 20. ovoga Zakona
+
+47. ako dio prihoda svake godine ne ulaže u osnaživanje financijske pismenosti građana Republike Hrvatske o individualnoj kapitaliziranoj štednji, u skladu s člankom 59. stavkom 1. točkom 22. ovoga Zakona
+
+48. ako obavlja djelatnosti posredovanja u kupnji i prodaji financijskih instrumenata, protivno članku 60. točki 1. ovoga Zakona
+
+49. ako stječe ili otuđuje imovinu mirovinskih fondova kojim upravlja za svoj račun ili račun relevantnih osoba, protivno članku 60. točki 2. ovoga Zakona
+
+50. ako sredstvima mirovinskog fonda kupuje imovinu ili sklapa poslove koji nisu predviđeni ovim Zakonom, protivno članku 60. točki 3. ovoga Zakona
+
+51. ako obavlja transakcije kojima krši odredbe ovoga Zakona, propisa donesenih na temelju ovoga Zakona i statuta mirovinskog fonda, uključujući odredbe o ograničenjima ulaganja u mirovinske fondove kojima upravlja, protivno članku 60. točki 4. ovoga Zakona
+
+52. ako nenaplatno otuđi imovinu mirovinskog fonda, protivno članku 60. točki 5. ovoga Zakona
+
+53. ako stekne ili otuđi imovinu mirovinskih fondova kojima upravlja po cijeni nepovoljnijoj od njezine fer vrijednosti, protivno članku 60. točki 6. ovoga Zakona
+
+54. ako neposredno ili posredno, istodobno ili s odgodom, dogovori prodaju, kupnju ili prijenos imovine između dva mirovinska fonda kojima upravlja isto mirovinsko društvo pod uvjetima različitim od tržišnih uvjeta ili uvjetima koji jedan mirovinski fond stavljaju u povoljniji položaj u odnosu na drugi, protivno članku 60. točki 7. ovoga Zakona
+
+55. ako preuzme obveze u vezi s imovinom koja u trenutku preuzimanja tih obveza nije vlasništvo mirovinskog fonda, a ne radi se o iznimci iz članka 60. točke 8. podtočaka a) i b), protivno članku 60. točki 8. ovoga Zakona
+
+56. ako ne ostvaruje prava članova prema depozitaru, u skladu s člankom 62. ovoga Zakona
+
+57. ako radi pokrića troškova mirovinskog društva za mirovinsko društvo zaračunava naknade koje nisu propisane člankom 63. točkama 1. do 3. ovoga Zakona
+
+58. ako iz imovine mirovinskog fonda isplaćuje naknade, troškove, provizije i pristojbe koje nisu propisane člankom 87. stavkom. 1. točkama 1. do 4.
+
+59. ako ne iskazuje ukupan iznos troškova iz članka 87. stavka 1. ovoga Zakona kao pokazatelj ukupnih troškova i ne objavljuje ga u revidiranim godišnjim izvještajima mirovinskog fonda, protivno članku 87. stavku 2. ovoga Zakona
+
+60. ako potraživanja za naknadu troškova i naknada nastalih u vezi sa zaključivanjem pravnih poslova za zajednički račun članova mirovinskog fonda ne podmiri isključivo iz imovine mirovinskog fonda, nego za njih tereti članove mirovinskog fonda izravno, protivno odredbi članka 88. stavka 4. ovoga Zakona
+
+61. ako uplaćene doprinose u mirovinski fond i prenesene račune ne knjiži u korist osobnih računa na ime člana, u skladu s člankom 106. stavkom 1. ovoga Zakona
+
+62. ako prilikom utvrđivanja neto vrijednosti imovine mirovinskog fonda odnosno vrijednosti obračunske jedinice ne utvrdi vrijednost imovine mirovinskog fonda i svih obveza, u skladu s člankom 107. stavkom 1. ovoga Zakona
+
+63. ako u pogledu utvrđivanja neto vrijednosti imovine i obračunske jedinice ne postupa u skladu s pravilnikom iz članka 108. stavka 4. ovoga Zakona
+
+64. ako uplaćene doprinose i prenesene račune ne preračunava u obračunske jedinice svakodnevno u skladu s vrijednošću obračunskih jedinica na taj datum, u skladu s člankom 109. stavkom 1. ovoga Zakona
+
+65. ako neto vrijednost imovine mirovinskog fonda ne izračunava u skladu s člancima 108. i 111. ovoga Zakona za svaki dan vrednovanja, u skladu s člankom 110. ovoga Zakona
+
+66. ako ne usvoji računovodstvene politike, odnosno metodologije vrednovanja za svaki mirovinski fond kojim upravlja, prilikom njegova osnivanja, i bez odgode ih ne dostavi depozitaru mirovinskog fonda, u skladu s člankom 111. stavkom 2. ovoga Zakona
+
+67. ako za svaki dan vrednovanja ne izvijesti Središnji registar osiguranika o vrijednosti obračunske jedinice mirovinskog fonda u roku iz članka 111. stavka 8. ovoga Zakona
+
+68. ako za svakih deset tisuća članova iznad pedeset tisuća članova svih kategorija mirovinskih fondova kojima upravlja ne održava jamstveni polog najmanje u vrijednosti osnovice koju čini iznos od milijun kuna usklađen prema indeksu potrošačkih cijena, u skladu s člankom 112. stavkom 1. ovoga Zakona
+
+69. ako ne usklađuje osnovicu iz članka 112. stavka 1. ovoga Zakona prema odluci koju donosi Agencija u prvom tromjesečju svake kalendarske godine prema indeksu potrošačkih cijena u prethodnoj kalendarskoj godini, na temelju podataka Državnog zavoda za statistiku, u skladu s člankom 112. stavkom 2. ovoga Zakona
+
+70. ako jamstveni polog ne drži na posebnom skrbničkom računu kod depozitara ili ga ne uloži u trezorske zapise Republike Hrvatske, u skladu s člankom 112. stavkom 4. ovoga Zakona
+
+71. ako ne uplati razliku mirovinskom fondu do zajamčenog prinosa iz jamstvenog pologa ili, ako taj iznos nije dovoljan, iz temeljnog kapitala mirovinskog društva do najviše 50% temeljnog kapitala mirovinskog društva, u skladu s člankom 113. stavkom 3. ovoga Zakona
+
+72. ako se imovina mirovinskog fonda sastoji od imovine različite od one iz članka 125. stavka 1. ovoga Zakona
+
+73. ako imovina iz članka 125. stavka 1. od koje se sastoji imovina mirovinskog fonda ne ispunjava uvjete iz članka 125. stavka 2. ovoga Zakona i/ili iz pravilnika iz članka 125. stavka 8. ovoga Zakona
+
+74. ako se imovina mirovinskog fonda sastoji od depozita i novca na računu kod kreditne institucije koja je povezana osoba mirovinskog društva, a nije ispunjen uvjet da su iskorištena ograničenja ulaganja u depozite i novac na računu kod kreditnih institucija koje imaju registrirano sjedište u Republici Hrvatskoj u koje je mirovinskom društvu, u skladu s internim aktom usvojenim na temelju pravilnika iz članka 52. ovoga Zakona, dozvoljeno i omogućeno ulagati, kako je to propisano odredbama članka 125. stavka 2. točke 3. podtočke a) ovoga Zakona
+
+75. ako se imovina mirovinskog fonda sastoji od depozita i novca na računu kod kreditne institucije koja je povezana osoba mirovinskog društva, a nije ispunjen uvjet da se kod ulaganja novca odnosno razročavanja depozita najprije ulaže novac s računa otvorenog u toj kreditnoj instituciji odnosno razročava depozit kod te kreditne institucije, kako je to propisano odredbama članka 125. stavka 2. točke 3. podtočke b) ovoga Zakona
+
+76. ako ulaže imovinu mirovinskog fonda u prenosive vlasničke vrijednosne papire iz članka 125. stavka 1. točke 5. ovoga Zakona i za pojedina takva ulaganja, skupinu ulaganja ili cjelokupna ulaganja ne koristi jednu ili više referentnih vrijednosti koje priznaje Agencija, u skladu s odredbama članka 125. stavka 5. ovoga Zakona
+
+77. ako u slučaju odstupanja prinosa ulaganja iz članka 125. stavka 1. točke 5. ovoga Zakona, povezano s člankom 125. stavkom 6. ovoga Zakona, od prinosa odabrane referentne vrijednosti iz članka 125. stavka 5. ovoga Zakona u informativnom prospektu ne obrazloži prinose, u skladu s odredbama članka 125. stavka 6. ovoga Zakona
+
+78. ako u slučaju odstupanja prinosa ulaganja iz članka 125. stavka 1. točke 5. ovoga Zakona u informativnom prospektu ne naznači i ne obrazloži prinose takvih ulaganja u odnosu na prinos referentne vrijednosti iz članka 125. stavka 5. ovoga Zakona, u skladu s odredbama članka 125. stavka 6. ovoga Zakona
+
+79. ako ulaže imovinu mirovinskog fonda u prenosive vlasničke vrijednosne papire i udjele iz članka 125. stavka 1. točke 12. ovoga Zakona, a u informativnom prospektu ne navede podatke o subjektu u koji je uložena imovina, koliko je imovine uloženo, obrazloženje takvog ulaganja, koji su prihodi ostvareni te koji se prihodi očekuju u idućem razdoblju, u skladu s odredbama članka 125. stavka 7. ovoga Zakona
+
+80. ako mirovinski fond, odnosno mirovinski fondovi kojima upravlja isto mirovinsko društvo ulaže u imovinu iz članka 125. stavka 2. točke 2. ovoga Zakona, a mirovinsko društvo u roku od tri radna dana nakon provedenog ulaganja ne dostavi Agenciji dokumentaciju propisanu člankom 125. stavkom 3. točkama 1. do 4. ovoga Zakona
+
+81. ako ulaže imovinu mirovinskog fonda protivno ograničenjima ulaganja iz članka 126. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+82. ako ulaže imovinu mirovinskog fonda protivno ograničenjima ulaganja iz članka 127. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+83. ako ulaže imovinu mirovinskog fonda protivno ograničenjima ulaganja iz članka 128. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+84. ako za račun mirovinskog fonda pozajmi novčana sredstva od trećih osoba u ukupnom iznosu većem od 5% neto vrijednosti imovine fonda i/ili to učini na rok duži od tri mjeseca, protivno članku 131. stavku 1. ovoga Zakona
+
+85. ako za račun mirovinskog fonda pozajmi novčana sredstva od trećih osoba u ukupnom iznosu manjem od 5% neto vrijednosti imovine fonda i to ne učini putem repo poslova i transakcija prodaje i ponovne kupnje i/ili predmetne transakcije sklopi na rok duži od tri mjeseca, protivno članku 131. stavku 1. ovoga Zakona
+
+86. ako više od 5% neto vrijednosti imovine mirovinskog fonda pozajmi trećim osobama, protivno članku 131. stavku 2. ovoga Zakona
+
+87. ako više od 50% svakog pojedinog ulaganja pozajmi trećim osobama, protivno članku 131. stavku 2. ovoga Zakona
+
+88. ako imovinu mirovinskog fonda pozajmi bez pisanog ugovora ili izvan organiziranih sustava za pozajmljivanje vrijednosnih papira koji djeluju u sklopu sustava za prijeboj i namiru, protivno članku 131. stavku 2. ovoga Zakona
+
+89. ako u skladu s člankom 132. stavkom 1. ovoga Zakona financijske izvedenice ne koristi u svoje ime i za račun mirovinskog fonda u svrhu zaštite imovine i obveza mirovinskog fonda iz točke 1. toga stavka ili efikasnog upravljanja imovinom i obvezama mirovinskog fonda iz točke 2. toga stavka
+
+90. ako prilikom ugovaranja financijskih izvedenica ne uvažava ograničenja ulaganja iz članka 132. stavka 2. ovoga Zakona
+
+91. ako ulaže imovinu mirovinskog fonda u imovinu koja je po zakonu neotuđiva ili koja je opterećena, odnosno založena ili fiducijarno prenesena radi osiguranja kakve tražbine, protivno članku 134. točki 1. ovoga Zakona
+
+92. ako ulaže u vrijednosne papire izdane od depozitara mirovinskog fonda, bilo kojeg dioničara, odnosno vlasnika udjela mirovinskog društva ili bilo koje osobe koja je povezana osoba s prethodno navedenim osobama, protivno članku 134. točki 2. ovoga Zakona
+
+93. ako ulaže imovinu mirovinskog fonda u vrijednosne papire izdane od depozitara mirovinskog fonda, bilo kojeg dioničara, odnosno vlasnika udjela mirovinskog društva ili bilo koje osobe koja je povezana osoba s prethodno navedenim osobama, protivno članku 134. točki 2. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2. ili 3. ovoga Zakona
+
+94. ako mirovinsko društvo ne uskladi ulaganja mirovinskog fonda odmah po saznanju za prekoračenja ulaganja iz članaka 125. do 134. ovoga Zakona, koja su posljedica transakcije koju je sklopilo mirovinsko društvo, a kojom su se u trenutku njezina sklapanja prekoračila navedena ograničenja ili dodatno povećala prekoračenja ulaganja, a koja nisu obuhvaćena člankom 135. stavkom 2. ovoga Zakona, protivno odredbama članka 135. stavka 4. ovoga Zakona
+
+95. ako u svoje ime, a za račun mirovinskog fonda ugovara transakcije s članovima uprave ili nadzornog odbora mirovinskog fonda, suprotno odredbama članka 136. stavka 1. ovoga Zakona
+
+96. ako ne vodi evidenciju o transakcijama ugovorenima za račun mirovinskog fonda u kojima su suprotne strane dioničari, odnosno vlasnici udjela mirovinskog društva, depozitar mirovinskog fonda ili bilo koja druga osoba koja je povezana s navedenim pravnim ili fizičkim osobama, u skladu s člankom 136. stavkom 2. ovoga Zakona
+
+97. ako daje zajam ili jamstva iz imovine mirovinskog fonda bilo kojoj pravnoj ili fizičkoj osobi, protivno članku 136. stavku 4. ovoga Zakona
+
+98. ako ne izvijesti Hrvatski sabor o radu mirovinskih fondova kojima upravlja u roku iz članka 150. ovoga Zakona
+
+99. ako ne izračuna omjer zamjene obračunskih jedinica u fondu prenositelju za obračunske jedinice u fondu preuzimatelju, u skladu s člankom 153. stavkom 1. ovoga Zakona
+
+100. ako prije provođenja postupka pripajanja mirovinsko društvo fonda prenositelja nije dobilo odobrenje Agencije, u skladu s člankom 155. ovoga Zakona
+
+101. fonda prenositelja ako ne izradi nacrt pripajanja sa sadržajem i formom propisanim člankom 157. stavkom 2. ovoga Zakona, u skladu s člankom 157. stavkom 1. ovoga Zakona
+
+102. fonda preuzimatelja ako ne izradi nacrt pripajanja sa sadržajem i formom propisanim člankom 157. stavkom 2. ovoga Zakona, u skladu s člankom 157. stavkom 1. ovoga Zakona
+
+103. ako naplaćuje troškove povezane s izradom mišljenja depozitara o pripajanju, na temelju nacrta pripajanja iz članka 157. stavka 1. ovoga Zakona iz imovine fonda, protivno članku 158. stavku 3. ovoga Zakona
+
+104. fonda preuzimatelja ako putem Središnjeg registra osiguranika ne učini dostupnim svim članovima fonda preuzimatelja obavijesti o svim radnjama i okolnostima pripajanja koja sadrži elemente iz članka 159. stavka 3. ovoga Zakona, kako bi članovi mogli procijeniti posljedice koje će pripajanje imati na njihovu imovinu u fondu preuzimatelju, u skladu s člankom 159. stavkom 1. ovoga Zakona
+
+105. fonda prenositelja ako putem Središnjeg registra osiguranika ne učini dostupnim svim članovima fonda prenositelja obavijesti o svim radnjama i okolnostima pripajanja koja sadrži elemente iz članka 159. stavka 3. ovoga Zakona, kako bi članovi mogli procijeniti posljedice koje će pripajanje imati na njihovu imovinu u fondu prenositelju u skladu s člankom 159. stavkom 2. ovoga Zakona
+
+106. prenositelj, ako članovima ne dostavi obavijesti o pripajanju iz članka 159. stavaka 1. i 2. ovoga Zakona, nakon što Agencija mirovinskom društvu fonda prenositelja izda odobrenje za pripajanje, ali najmanje 30 dana prije provođenja postupka pripajanja, u skladu s člankom 159. stavkom 4. ovoga Zakona i pravilnikom iz članka 159. stavka 6. ovoga Zakona
+
+107. preuzimatelj, ako članovima ne dostavi obavijesti o pripajanju iz članka 159. stavaka 1. i 2. ovoga Zakona, nakon što Agencija mirovinskom društvu fonda prenositelja izda odobrenje za pripajanje, ali najmanje 30 dana prije provođenja postupka pripajanja, u skladu s člankom 159. stavkom 4. ovoga Zakona i pravilnikom iz članka 159. stavka 6. ovoga Zakona
+
+108. ako u postupku pripajanja ne omogući članovima fonda prenositelja i fonda preuzimatelja prelazak u mirovinski fond kojim upravlja neko drugo mirovinsko društvo bez naplate naknade za izlaz u roku iz članka 159. stavka 4. ovoga Zakona te u roku od šest mjeseci nakon izvršenog pripajanja, u skladu s člankom 159. stavkom 5. ovoga Zakona
+
+109. ako ne obavijesti Središnji registar osiguranika o svim radnjama i okolnostima provođenja pripajanja, u skladu s člankom 160. ovoga Zakona
+
+110. ako naplaćuje troškove revizije iz imovine mirovinskog fonda koji sudjeluje u postupku pripajanja, protivno odredbi članka 162. stavka 6. ovoga Zakona
+
+111. ako mirovinsko društvo koje upravlja fondom preuzimateljem ne obavijesti Agenciju o provedenom pripajanju i ne dostavi nalaz revizora o točnosti stvarnog omjera zamjene utvrđenog na dan njegova izračuna, u roku iz članka 165. ovoga Zakona
+
+112. ako izabere ili promijeni depozitara bez odobrenja Agencije, protivno odredbama članka 171. stavka 1. ovoga Zakona
+
+113. ako u slučaju otvaranja postupka stečaja ili pokretanja postupka likvidacije nad depozitarom odmah ne dostavi obavijest o depozitaru o raskidu ili otkazu ugovora i o tome ne obavijesti Agenciju, u skladu s člankom 189. stavkom 1. točkom 1. ovoga Zakona
+
+114. ako u slučaju otvaranja stečaja ili likvidacije nad depozitarom ne zatraži odobrenje Agencije za izbor novog depozitara, u roku iz članka 189. stavka 1. točke 2. ovoga Zakona
+
+115. ako na zahtjev Agencije ne dostavi ili ne učini dostupnim dokumentaciju, izvještaje ili podatke o svim okolnostima potrebnima za nadzor ili izvršavanje drugih ovlasti i mjera Agencije, u skladu s člankom 201. stavkom 1. ovoga Zakona
+
+116. ako kao subjekt nadzora Agencije iz članka 198. stavka 5. točke 1. ovoga Zakona ne omogući Agenciji obavljanje nadzora, u skladu s člankom 198. stavcima 1. do 3. ovoga Zakona, na način da protivno člancima 203. do 205. ovoga Zakona ovlaštenoj osobi Agencije na traženje ne uruči svu traženu dokumentaciju i podatke iz članka 203. stavka 3. ili članka 205. stavka 2. ovoga Zakona, odnosno ako ne osigura uvjete za obavljanje nadzora u skladu s člankom 204. ovoga Zakona ili ako ne osigura uvjete za pregled informacijskog sustava u skladu s člankom 205. stavkom 1. ovoga Zakona
+
+117. ako, unutar roka koji je odredila Agencija, Agenciji ne dostavi izvještaj o provedbi naloženih mjera iz članka 220. stavka 2. ovoga Zakona, u skladu s člankom 220. stavkom 4. ovoga Zakona.«.
+
+#### Članak 39.
+
+U članku 231. stavku 1. iza točke 15. dodaje se nova točka 16. koja glasi:
+
+»16. ako predloži ili imenuje člana nadzornog odbora u društvo u koje je uložilo imovinu mirovinskog fonda, a on nije nezavisan i nema odgovarajuće stručne kvalifikacije i iskustvo te je u poslovnim, obiteljskim i drugim vezama s mirovinskim društvom, većinskim dioničarom odnosno imateljem udjela ili grupom većinskih dioničara odnosno imatelja udjela ili članovima uprave ili nadzornog odbora mirovinskog društva ili većinskog dioničara odnosno imatelja udjela, protivno odredbi članka 49. stavka 6. ovoga Zakona«.
+
+Dosadašnje točke od 16. do 30. postaju točke od 17. do 31.
+
+U dosadašnjoj točki 31., koja postaje točka 32., broj: »7.« zamjenjuje se brojem: »8.«.
+
+Dosadašnja točka 32. postaje točka 33.
+
+Dosadašnja točka 33., koja postaje točka 34., mijenja se i glasi:
+
+»34. ako objavi godišnje financijske izvještaje koji su odbijeni odnosno odbačeni te ne osigura da godišnji financijski izvještaji, koji su odbijeni odnosno odbačeni, ne budu javno objavljeni, protivno članku 66. stavku 8. ovoga Zakona, i ako ne osigura da se povuku iz javne objave već objavljeni godišnji financijski izvještaji koji su odbijeni odnosno odbačeni, protivno članku 66. stavku 9. ovoga Zakona«.
+
+Dosadašnje točke od 34. do 37. postaju točke od 35. do 38.
+
+U dosadašnjoj točki 38., koja postaje točka 39., broj: »1.« zamjenjuje se brojem: »2.«.
+
+Dosadašnje točke od 39. do 64. postaju točke od 40. do 65.
+
+#### Članak 40.
+
+U članku 234. stavku 1. dodaje se nova točka 1. koja glasi:
+
+»1. ne rasporedi zaprimljeni iznos naplaćene naknade iz članka 63.a stavka 2. ovoga Zakona na sve mirovinske fondove u Republici Hrvatskoj razmjerno njihovoj veličini promatrano prema neto vrijednosti imovine pojedinog mirovinskog fonda na dan raspodjele sredstava, u skladu s člankom 63.a stavkom 3. ovoga Zakona«.
+
+Dosadašnja točka 1. postaje točka 2.
+
+U dosadašnjoj točki 2., koja postaje točka 3., broj: »4.« zamjenjuje se brojem: »6.«.
+
+Dosadašnje točke od 3. do 17. postaju točke od 4. do 18.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 41.
+
+Članovi odnosno dioničari mirovinskog društva dužni su u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona zamijeniti jednog člana nadzornog odbora mirovinskog društva novim članom kojeg će kao predstavnika članova mirovinskog fonda u skladu s odredbama članka 7. ovoga Zakona imenovati Vlada Republike Hrvatske.
+
+#### Članak 42.
+
+(1) Mirovinsko društvo koje je predložilo i/ili imenovalo člana nadzornog odbora u društvo u koje je uložilo imovinu mirovinskog fonda dužno je u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona predložiti i osigurati sazivanje glavne skupštine, odnosno skupštine društva u koje je uložilo imovinu mirovinskog fonda te zamijeniti tog postojećeg člana nadzornog odbora novim nezavisnim članom koji ima odgovarajuće stručne kvalifikacije i iskustvo te nije u poslovnim, obiteljskim i drugim vezama s mirovinskim društvom, većinskim dioničarom odnosno imateljem udjela ili grupom većinskih dioničara odnosno imatelja udjela ili članovima uprave ili nadzornog odbora mirovinskog društva ili većinskog dioničara odnosno imatelja udjela, a kako je propisano člankom 10. ovoga Zakona.
+
+(2) Mirovinska društva će u roku od šest mjeseci od stupanja na snagu ovoga Zakona samostalno ili putem strukovnih udruženja donijeti kodeks postupanja iz članka 49. stavka 7., a kako je propisano člankom 10. ovoga Zakona.
+
+#### Članak 43.
+
+(1) Agencija će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike iz članka 49.a stavka 4. koji je dodan člankom 11. ovoga Zakona, članka 63.a stavka 4. koji je dodan člankom 16. ovoga Zakona i članka 125. stavka 9. koji je dodan člankom 22. ovoga Zakona te smjernice iz članka 49.a stavka 4. koji je dodan člankom 11. ovoga Zakona i smjernice iz članka 125. stavka 9. koji je dodan člankom 22. ovoga Zakona.
+
+(2) Agencija će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti izmjene i dopune:
+
+– Pravilnika o organizacijskim zahtjevima za mirovinsko društvo za upravljanje obveznim mirovinskim fondovima (»Narodne novine«, br. 103/14. i 39/17.)
+
+– Pravilnika o dozvoljenim ulaganjima i dodatnim ograničenjima ulaganja obveznog mirovinskog fonda (»Narodne novine«, br. 103/14., 67/15. i 39/17.)
+
+– Pravilnika o utvrđivanju neto vrijednosti imovine i vrijednosti obračunske jedinice obveznog mirovinskog fonda (»Narodne novine«, br. 128/17.)
+
+– Pravilnika o postupanju Središnjeg registra osiguranika i mirovinskih društava prema članovima obveznih mirovinskih fondova (»Narodne novine«, br. 135/15. i 86/18.)
+
+– Pravilnika o godišnjim, tromjesečnim i drugim izvještajima obveznog mirovinskog fonda (»Narodne novine«, br. 104/17.).
+
+(3) Do stupanja na snagu izmjena i dopuna pravilnika iz stavka 2. ovoga članka na snazi ostaju provedbeni propisi doneseni na temelju Zakona o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14. i 29/18.).
+
+#### Članak 44.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim članka 18. ovoga Zakona koji stupa na snagu 1. listopada 2019.
+
+Klasa: 022-03/18-01/167
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima (NN 58/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/58/1161*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM MIROVINSKIM FONDOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima, koji je Hrvatski sabor donio na sjednici 18. svibnja 2020.
+
+Klasa: 011-01/20-01/74  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 18. svibnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM MIROVINSKIM FONDOVIMA**
+
+### Članak 1.
+
+U Zakonu o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14., 93/15., 64/18. i 115/18.) u članku 125. stavku 1. iza točke 13. briše se točka na kraju rečenice i dodaje se točka 14. koja glasi:
+
+»14. depozita kod Hrvatske narodne banke i Europske središnje banke.«.
+
+### Članak 2.
+
+U članku 131. stavak 1. mijenja se i glasi:
+
+»(1) Mirovinski fond može pozajmiti novčana sredstva od trećih osoba u ukupnom iznosu do 5 % neto vrijednosti imovine fonda putem repo poslova, transakcija prodaje i ponovne kupnje te putem programa kreditiranja, i to:
+
+1. na rok ne duži od pet godina kada je riječ o pozajmljivanju novčanih sredstava od Hrvatske narodne banke ili Europske središnje banke
+
+2. na rok ne duži od tri mjeseca kada je riječ o pozajmljivanju novčanih sredstava od trećih osoba.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimno, od stavka 1. ovoga članka Agencija može svojom odlukom u slučaju nastanka posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, limit iz stavka 1. ovoga članka povećati do 15 % neto vrijednosti imovine fonda.«.
+
+### Članak 3.
+
+U članku 135. iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+
+»(7) U slučaju nastanka posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, Agencija može donijeti odluku kojom privremeno dozvoljava prekoračenje ograničenja ulaganja iz članaka 125. do 134. ovoga Zakona.
+
+(8) Odluka iz stavka 7. ovoga članka može se donijeti na razdoblje od najviše godinu dana, osim ako Agencija procijeni da još uvijek traju posljedice posebnih okolnosti ili nije došlo do okončanja posebnih okolnosti kojim je izazvano donošenje odluke te će vodeći računa o zaštiti javnog interesa i/ili interesa članova mirovinskih fondova odlučiti o daljnjem trajanju odluke iz stavka 7. ovoga članka.«.
+
+### Članak 4.
+
+U članku 230. stavku 1. točke 84. i 85. mijenjaju se i glase:
+
+»84. ako za račun mirovinskog fonda pozajmi novčana sredstva od Hrvatske narodne banke ili Europske središnje banke u ukupnom iznosu većem od 5 % neto vrijednosti imovine fonda i/ili to učini na rok duži od pet godina, protivno članku 131. stavku 1. točki 1. ovoga Zakona
+
+85. ako za račun mirovinskog fonda pozajmi novčana sredstva od trećih osoba u ukupnom iznosu većem od 5 % neto vrijednosti imovine fonda i/ili to učini na rok duži od tri mjeseca, protivno članku 131. stavku 1. točki 2. ovoga Zakona«.
+
+Iza točke 85. dodaju se nove točke 86. i 87. koje glase:
+
+»86. ako za račun mirovinskog fonda pozajmi novčana sredstva od Hrvatske narodne banke ili Europske središnje banke u ukupnom iznosu manjem od 5 % neto vrijednosti imovine fonda i to ne učini putem repo poslova, transakcija prodaje i ponovne kupnje ili putem programa kreditiranja koje organizira i provodi Hrvatska narodna banka ili Europska središnja banka i/ili predmetne transakcije sklopi na rok duži od pet godina, protivno članku 131. stavku 1. točki 1. ovoga Zakona
+
+87. ako za račun mirovinskog fonda pozajmi novčana sredstva od trećih osoba u ukupnom iznosu manjem od 5 % neto vrijednosti imovine fonda i to ne učini putem repo poslova, transakcija prodaje i ponovne kupnje i/ili predmetne transakcije sklopi na rok duži od tri mjeseca, protivno članku 131. stavku 1. točki 2. ovoga Zakona«.
+
+Dosadašnje točke 86. i 87. postaju točke 88. i 89.
+
+Iza dosadašnje točke 88., koja postaje točka 90., dodaje se nova točka 91. koja glasi:
+
+»91. ako za račun mirovinskog fonda pozajmi novčana sredstva od trećih osoba putem repo poslova, transakcija prodaje i ponovne kupnje te putem programa kreditiranja u ukupnom iznosu većem od onog određenog odlukom Agencije iz članka 131. stavka 3. ovoga Zakona«.
+
+Dosadašnje točke 89. do 117. postaju točke 92. do 120.
+
+### Članak 5.
+
+Ministarstvo rada i mirovinskoga sustava će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/71
+
+Zagreb, 18. svibnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima (NN 156/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2392*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM MIROVINSKIM FONDOVIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima, koji je Hrvatski sabor donio na sjednici 15. prosinca 2023.
+
+Klasa: 011-02/23-02/122  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 20. prosinca 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM MIROVINSKIM FONDOVIMA**
+
+#### Članak 1.
+
+U Zakonu o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14., 93/15., 64/18., 115/18. i 58/20.) u članku 2. u uvodnoj rečenici ispred riječi: »Pojedini pojmovi« stavlja se oznaka stavka: »(1)«.
+
+U stavku 1. točki 15. riječi: »milijun kuna« zamjenjuju se riječima: »132.722,81 eura«.
+
+U točki 41. iza riječi: »repozitoriju« dodaju se riječi: »(SL L 201/1, 27. 7. 2012.) (u daljnjem tekstu: Uredba (EU) 648/2012)«.
+
+Iza točke 43. dodaju se točke 44. do 52. koje glase:
+
+»44. Usluga posrednog poravnanja je dogovor o posrednom poravnanju kako je definirano člankom 1. točkom b) Delegirane uredbe Komisije (EU) br. 149/2013 od 19. prosinca 2012. o dopuni Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća vezano uz regulatorne tehničke standarde o dogovorima o posrednom poravnanju, obvezi poravnanja, javnom registru, pristupu mjestu trgovanja, nefinancijskim drugim ugovornim strankama i tehnikama smanjenja rizika za ugovore o OTC izvedenicama čije se poravnanje ne obavlja posredstvom središnje druge ugovorne stranke (SL L 052/11, 23. 2. 2013.) (u daljnjem tekstu: Delegirana uredba Komisije (EU) 149/2013).
+
+45. Kvalificirani udjel je svaki izravni ili neizravni udjel u mirovinskom društvu koji predstavlja 10 % ili više udjela u temeljnom kapitalu ili glasačkim pravima, ili manji udjel koji omogućava ostvarenje značajnog utjecaja na upravljanje mirovinskim društvom. Pri izračunu postotka glasačkih prava na odgovarajući način se primjenjuju odredbe zakona kojim se uređuje tržište kapitala.
+
+46. Osobe koje djeluju zajednički su:
+
+a) fizičke ili pravne osobe koje surađuju međusobno na temelju sporazuma, izričitoga ili prešutnoga, usmenoga ili pisanoga, čiji je cilj stjecanje dionica ili poslovnog udjela s pravom glasa ili usklađeno ostvarivanje prava glasa ili
+
+b) pravne osobe koje su međusobno povezane u smislu odredbi zakona kojim se uređuje osnivanje i ustroj trgovačkih društava.
+
+47. Održivo ulaganje je ulaganje u gospodarsku aktivnost kojom se pridonosi ostvarenju okolišnih ciljeva, mjereno, primjerice, ključnim pokazateljima učinkovitosti resursa u pogledu upotrebe energije, obnovljivih izvora energije, sirovina, vode i zemljišta, u pogledu stvaranja otpada, emisija stakleničkih plinova ili u pogledu bioraznolikosti i kružnoga gospodarstva ili ulaganje u gospodarsku aktivnost kojom se pridonosi ostvarenju socijalnih ciljeva, a posebno ulaganja kojima se pridonosi borbi protiv nejednakosti ili, potiče socijalna kohezija, socijalna integracija i radni odnosi, ili ulaganje u ljudski kapital ili gospodarski ili socijalno ugrožene zajednice, pod uvjetom da se takvim ulaganjima ne nanosi bitna šteta bilo kojem od tih ciljeva i da društva u koja se ulaže slijede prakse dobrog upravljanja, osobito u pogledu dobrih upravljačkih struktura, odnosa sa zaposlenicima, isplaćivanja naknada za osoblje i izvršavanje poreznih obveza.
+
+48. Rizik održivosti je okolišni, socijalni ili upravljački događaj ili uvjet koji, ako do njega dođe, može uzrokovati stvaran ili potencijalno negativan bitan učinak na vrijednost ulaganja.
+
+49. Čimbenici održivosti su okolišna i socijalna pitanja, pitanja u vezi sa zaposlenicima, poštovanjem ljudskih prava, borbom protiv korupcije i podmićivanja.
+
+50. Infrastrukturni projekti su projekti koji se odnose na javne sustave na razini države ili jedinice lokalne i područne (regionalne) samouprave uključujući ceste, mostove, zračne luke, cjevovode, mrežu za prijenos energije, komunikacije, obrazovne ili zdravstvene ustanove, komunalnu infrastrukturu, javne zgrade i druga ulaganja koja Vlada Republike Hrvatske odredi kao takve, a posebno ona koja omogućuju implementaciju ciljeva održivosti i koja se mogu klasificirati kao održiva ulaganja.
+
+51. ETF (Exchange-Traded Fund) je otvoreni investicijski fond s javnom ponudom čijom se barem jednom klasom udjela trguje tijekom dana na uređenom tržištu, s barem jednim održavateljem tržišta, koji poduzima odgovarajuće radnje kako bi osigurao da tržišna vrijednost njegovih udjela ne odstupa znatno od njegove neto vrijednosti imovine odnosno njegove indikativne neto vrijednosti imovine.
+
+52. Država članica OECD-a je država članica Organizacije za gospodarsku suradnju i razvoj i država pristupnica Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj.«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Kada je ovim Zakonom propisana ovlast Agencije za donošenje pravilnika, taj pravilnik donosi Upravno vijeće Agencije.«.
+
+#### Članak 2.
+
+U članku 8. stavku 1. riječi: »40.000.000,00 kuna« zamjenjuju se riječima: »5.308.910,00 eura«.
+
+#### Članak 3.
+
+U članku 11. stavku 2. iza riječi: »propisati« dodaju se riječi: »sadržaj poslovnog plana mirovinskog društva iz stavka 1. točke 4. ovoga članka«.
+
+#### Članak 4.
+
+U članku 14. točki 2. riječ: »osnivači« zamjenjuje se riječima: »imatelji kvalificiranog udjela«.
+
+#### Članak 5.
+
+Iza članka 14. dodaje se članak 14.a koji glasi:
+
+»Članak 14.a
+
+(1) Prilikom podnošenja zahtjeva za izdavanje odobrenja za rad, podnositelj zahtjeva dužan je Agenciji dostaviti podatke o identitetu izravnih ili neizravnih imatelja kvalificiranih udjela u mirovinskom društvu, kao i visinu tih udjela te dodatnu dokumentaciju propisanu pravilnikom iz članka 21. stavka 4. ovoga Zakona.
+
+(2) Agencija će u okviru postupka izdavanja odobrenja za rad ocijeniti prikladnost i financijsku stabilnost imatelja kvalificiranih udjela na temelju kriterija iz članka 21. stavka 2. ovoga Zakona.«.
+
+#### Članak 6.
+
+Naslov iznad članka 20. mijenja se i glasi: »Stjecanje ili povećanje kvalificiranog udjela u mirovinskom društvu«.
+
+Članak 20. mijenja se i glasi:
+
+»(1) Izravni ili neizravni imatelji kvalificiranog udjela u mirovinskom društvu mogu biti samo fizička ili pravna osoba, grupa povezanih osoba ili osobe koje djeluju zajednički, koje su na temelju zahtjeva za stjecanje kvalificiranog udjela dobile odobrenje Agencije za stjecanje kvalificiranog udjela.
+
+(2) Svaki imatelj kvalificiranog udjela koji namjerava izravno ili neizravno povećati udjel u mirovinskom društvu, što bi rezultiralo time da visina udjela u kapitalu ili u glasačkim pravima dosegne ili premaši 10 % , 20 % , 30 % ili 50 % , ili da mirovinsko društvo postane ovisno društvo imatelja kvalificiranog udjela, također je dužan prethodno Agenciji podnijeti zahtjev za izdavanje odobrenja za povećanje kvalificiranog udjela.
+
+(3) Zahtjev iz stavaka 1. i 2. ovoga članka mora sadržavati podatke o visini udjela koji se namjerava steći te podatke i dokumentaciju propisane pravilnikom Agencije iz članka 21. stavka 4. ovoga Zakona.
+
+(4) Ako je Agencija zaprimila dva ili više zahtjeva za stjecanje ili povećanje kvalificiranog udjela u istom mirovinskom društvu, odnosi se prema svim namjeravanim stjecateljima ravnopravno.
+
+(5) Ista pravna ili fizička osoba može imati kvalificirani udjel u samo jednom mirovinskom društvu.
+
+(6) U rješenju kojim se izdaje odobrenje za stjecanje kvalificiranog udjela može se odrediti krajnji rok do kojeg se stjecanje mora provesti, koji Agencija na zahtjev stjecatelja kvalificiranog udjela zbog opravdanih razloga može produljiti.
+
+(7) Agencija će ukinuti odobrenje za stjecanje kvalificiranog udjela ako podnositelj zahtjeva u roku određenom prema stavku 6. ovoga članka ne stekne dionice ili poslovne udjele u mirovinskom društvu na koje se odobrenje odnosi.«.
+
+#### Članak 7.
+
+Iza članka 20. dodaju se naslovi iznad članaka i članci 20.a, 20.b i 20.c koji glase:
+
+*»Izvještavanje Agencije*
+
+#### Članak 20.a
+
+(1) Svaka fizička ili pravna osoba koja namjerava izravno ili neizravno otpustiti kvalificirani udjel u mirovinskom društvu dužna je najmanje sedam dana unaprijed o tome izvijestiti Agenciju pisanim putem, navodeći visinu udjela koji namjerava otpustiti.
+
+(2) Svaka fizička ili pravna osoba koja namjerava svoj udjel u mirovinskom društvu smanjiti na način da udio u kapitalu ili glasačkim pravima te osobe padne ispod praga od 10 % , 20 % , 30 % ili 50 % ili da mirovinsko društvo prestaje biti ovisno društvo te osobe, dužna je najmanje sedam dana unaprijed o tome izvijestiti Agenciju pisanim putem, navodeći visinu udjela koji namjerava otpustiti.
+
+*Naknadno izvještavanje Agencije*
+
+#### Članak 20.b
+
+(1) Ako mirovinsko društvo sazna za stjecanje ili otpuštanje kvalificiranog udjela u mirovinskom društvu koji će izazvati prelazak ili smanjenje ispod 10 % , 20 % , 30 % ili 50 % , dužno je o tome bez odgode izvijestiti Agenciju.
+
+(2) Mirovinsko društvo dužno je jednom godišnje Agenciji dostaviti popis imena odnosno naziva svih dioničara, kao i imatelja kvalificiranih udjela s veličinom pojedinih udjela, sa stanjem na dan 1. siječnja tekuće godine, najkasnije do 31. ožujka tekuće godine.
+
+*Savjetovanje s drugim nadležnim tijelima*
+
+#### Članak 20.c
+
+(1) Agencija može surađivati s drugim nadležnim tijelom ako je podnositelj zahtjeva za stjecanje kvalificiranog udjela:
+
+1. kreditna institucija, društvo za životno osiguranje, društvo za osiguranje, društvo za reosiguranje, investicijsko društvo ili društvo za upravljanje kojem je odobrenje za rad izdano u drugoj državi članici ili je za stjecatelja nadležno drugo nadzorno tijelo
+
+2. matično društvo kreditne institucije, društva za životno osiguranje, društva za osiguranje, društva za reosiguranje, investicijskog društva ili društva za upravljanje kojem je odobrenje za rad izdano u drugoj državi članici ili je za stjecatelja nadležno drugo nadzorno tijelo ili
+
+3. fizička ili pravna osoba koja kontrolira kreditnu instituciju, društvo za životno osiguranje, društvo za osiguranje, društvo za reosiguranje, investicijsko društvo ili društvo za upravljanje kojem je odobrenje za rad izdano u drugoj državi članici ili je za stjecatelja nadležno drugo nadzorno tijelo.
+
+(2) Agencija od drugog nadležnog tijela može zatražiti sve podatke relevantne za donošenje odluke o odobrenju za stjecanje kvalificiranog udjela.
+
+(3) U slučaju iz stavka 1. ovoga članka, Agencija u obrazloženju odluke o odobrenju za stjecanje kvalificiranog udjela navodi mišljenje drugog nadležnog tijela.«.
+
+#### Članak 8.
+
+Iznad članka 21. dodaje se naslov koji glasi: »Odlučivanje o odobrenju za stjecanje kvalificiranog udjela«.
+
+Članak 21. mijenja se i glasi:
+
+»Članak 21.
+
+(1) Za potrebe odlučivanja o izdavanju odobrenja za stjecanje ili povećanje kvalificiranog udjela podnositelj zahtjeva dužan je dostaviti Agenciji podatke o visini udjela koji se namjerava steći te dodatnu dokumentaciju propisanu pravilnikom iz stavka 4. ovoga članka.
+
+(2) Agencija pri odlučivanju o izdavanju odobrenja za stjecanje ili povećanje kvalificiranog udjela, u svrhu provjere hoće li se mirovinskim društvom upravljati pažnjom dobrog stručnjaka, a s obzirom na vjerojatni utjecaj stjecatelja kvalificiranog udjela na mirovinsko društvo, procjenjuje primjerenost stjecatelja kvalificiranog udjela i financijsku stabilnost uzimajući u obzir:
+
+1. ugled podnositelja zahtjeva za stjecanje kvalificiranog udjela
+
+2. ugled, stručna znanja, sposobnost i iskustvo osoba koje stjecatelj namjerava predložiti kao članove uprave ili nadzornog odbora mirovinskog društva
+
+3. financijsku stabilnost podnositelja zahtjeva za stjecanje kvalificiranog udjela, posebno u odnosu na poslovanje mirovinskog društva u kojemu se stjecanje predlaže
+
+4. mogućnosti mirovinskog društva da se pridržava odnosno nastavi pridržavati odredbi ovoga Zakona te drugih relevantnih propisa, a posebno prema tome ima li grupa čijim će članom postati mirovinsko društvo strukturu koja omogućava učinkovito provođenje nadzora, djelotvornu razmjenu podataka između nadležnih nadzornih tijela i određivanje podjele odgovornosti među nadležnim tijelima
+
+5. postoje li opravdani razlozi za sumnju, u skladu s propisima o sprečavanju pranja novca i financiranja terorizma, da se u vezi sa stjecanjem kvalificiranog udjela provodi ili pokušava provesti pranje novca ili financiranje terorizma ili da stjecanje kvalificiranog udjela može povećati rizik od provođenja pranja novca ili financiranja terorizma.
+
+(3) Agencija može surađivati s nadležnim tijelima državne vlasti i prikupljati dokumente i informacije iz drugih izvora kada vrši procjene iz stavka 2. ovoga članka.
+
+(4) Agencija će pravilnikom propisati kriterije ocjenjivanja koje primjenjuje radi bonitetne procjene stjecanja i povećanja kvalificiranih udjela u mirovinskim društvima, te opseg potrebnih podataka i popis dokumentacije koji se prilaže zahtjevu iz članka 20. ovoga Zakona.«.
+
+#### Članak 9.
+
+U članku 22. stavci 3. i 4. brišu se.
+
+#### Članak 10.
+
+U članku 23. stavku 1. u uvodnoj rečenici riječi: »namjeravane transakcije dionicama, odnosno poslovnim udjelima mirovinskog društva« zamjenjuju se riječima: »stjecanje ili povećanje kvalificiranog udjela«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Ako Agencija unutar razdoblja procjene iz članka 22. ovoga Zakona ne odbije zahtjev za izdavanje odobrenja, smatra se da je stjecanje odobreno.«.
+
+#### Članak 11.
+
+Iza članka 23. dodaju se naslov iznad članka i članak 23.a koji glase:
+
+*»Pravne posljedice stjecanja bez odobrenja i ukidanje odobrenja za stjecanje kvalificiranog udjela*
+
+#### Članak 23.a
+
+(1) Osoba koja stekne kvalificirani udjel u mirovinskom društvu protivno odredbama ovoga Zakona, nema pravo glasa iz dionica ili poslovnih udjela stečenih bez odobrenja.
+
+(2) U slučaju iz stavka 1. ovoga članka Agencija će naložiti otuđenje i rok za prodaju tako stečenih dionica ili poslovnih udjela.
+
+(3) Agencija može ukinuti odobrenje za stjecanje kvalificiranog udjela ako:
+
+1. u slučaju provedene obnove postupka utvrdi da je suglasnost izdana na temelju neistinitih ili netočnih podataka ili izjava bitnih za donošenje tog rješenja
+
+2. stjecatelj krši obveze propisane ovim Zakonom vezano za nadzor na konsolidiranoj osnovi, odnosno ako ne postupi u skladu s rješenjem Agencije ili drugog tijela nadležnog za nadzor na konsolidiranoj osnovi kojim se nalaže uklanjanje određenih nedostataka
+
+3. nakon izdavanja suglasnosti nastupe okolnosti koje bi, da su postojale u vrijeme odlučivanja, bile razlog za odbijanje zahtjeva za stjecanje kvalificiranog udjela ili
+
+4. stjecatelj se koristi svojim utjecajem protivno dobrom i razboritom upravljanju mirovinskim društvom ili ne postupa s pozornošću urednog i savjesnog gospodarstvenika.
+
+(4) U slučaju iz stavka 3. ovoga članka, osoba kojoj je ukinuto odobrenje za stjecanje kvalificiranog udjela nema pravo glasa iz dionica ili poslovnih udjela za koje joj je ukinuto odobrenje.
+
+(5) U slučaju iz stavka 3. ovoga članka, Agencija će naložiti otuđenje i rok za prodaju stečenih dionica ili poslovnih udjela za koje je imatelju kvalificiranog udjela ukinuto odobrenje za stjecanje kvalificiranog udjela.
+
+(6) Troškove prodaje dionica ili poslovnih udjela iz stavaka 2. i 5. ovoga članka podmiruje imatelj kvalificiranog udjela.«.
+
+#### Članak 12.
+
+U članku 26. stavak 1. mijenja se i glasi:
+
+»(1) Mirovinsko društvo može uložiti svoja sredstva isključivo u:
+
+1. prenosive dužničke vrijednosne papire i instrumente tržišta novca iz članka 125. stavka 1. točaka 1. i 2. ovoga Zakona
+
+2. depozite iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona te novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona, pri čemu se ne primjenjuju ograničenja iz članka 125. stavka 1. točaka 14. i 17. ovoga Zakona te depoziti i novac mogu biti na računu kod kreditne institucije koja je povezana osoba mirovinskog društva, i
+
+3. udio ili cjelokupni vlasnički udjel drugoga mirovinskog društva sa sjedištem u Republici Hrvatskoj, državi članici ili trećoj državi i/ili dobrovoljnog mirovinskog društva sa sjedištem u Republici Hrvatskoj, državi članici ili trećoj državi, u skladu s člankom 27. ovoga Zakona.«.
+
+U stavku 2. točki 1. broj: »6.« zamjenjuje se brojem: »11.«.
+
+Točka 2. mijenja se i glasi:
+
+»2. ugovore o izvedenicama koji zadovoljavaju uvjete iz članka 125. stavka 1. točke 18. ovoga Zakona i koji su sklopljeni isključivo radi zaštite od valutnog, kamatnog i/ili inflacijskog rizika.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Iznos propisanog kapitala iz članka 9. ovoga Zakona mirovinsko društvo dužno je održavati u imovini iz stavka 1. točaka 1. i 2. ovoga članka.«.
+
+#### Članak 13.
+
+U članku 31. stavak 8. mijenja se i glasi:
+
+»(8) Agencija će pravilnikom propisati uvjete za člana uprave i člana društva za upravljanje obveznim mirovinskim fondovima, kojim će se propisati uvjeti iz članka 19. točke 8. ovoga Zakona i uvjeti iz stavaka 1., 2., 3. i 6. ovoga članka te dokumentaciju koja se prilaže zahtjevu za izdavanje odobrenja za obavljanje funkcije člana uprave.«.
+
+#### Članak 14.
+
+U članku 34. stavku 4. iza riječi: »zatraženo« umjesto točke stavlja se zarez i dodaju riječi: »kada to smatra opravdanim.«.
+
+U stavku 11. iza riječi: »društva« stavlja se zarez i dodaju riječi: »opravdane razloge zbog kojih Agencija može izdati suglasnost na mandat kraći od zatraženog«.
+
+#### Članak 15.
+
+U članku 40. iza stavka 3. dodaju se stavci 4. do 8. koji glase:
+
+»(4) Uz predstavnika članova mirovinskog fonda iz stavka 1. ovoga članka, mirovinska društva su dužna u nadzorni odbor svakog mirovinskog društva imenovati jednoga nezavisnog stručnjaka na temelju javnog poziva.
+
+(5) Na imenovanje nezavisnog stručnjaka iz stavka 4. ovoga članka prethodnu suglasnost daje ministar nadležan za mirovinski sustav.
+
+(6) Nezavisni stručnjak iz stavka 4. ovoga članka mora biti nezavisan u odnosu na mirovinsko društvo i povezane osobe mirovinskog društva te će također biti predstavnik članova mirovinskog fonda i zastupati njihove interese, pri čemu neće primati upute od strane vlasnika mirovinskog društva niti bilo koje druge treće osobe.
+
+(7) Nezavisni stručnjak iz stavka 4. ovoga članka mora zadovoljavati uvjete za obavljanje funkcije člana nadzornog odbora mirovinskog društva iz članka 39. ovoga Zakona i pravilnika iz članka 39. stavka 4. ovoga Zakona, a ujedno će biti imenovan i članom revizorskog odbora mirovinskog društva.
+
+(8) Tri četvrtine članova nadzornog odbora mirovinskog društva moraju znati hrvatski jezik.«.
+
+#### Članak 16.
+
+U članku 45. stavku 1. točka 4. mijenja se i glasi:
+
+»4. na odluke o ulaganjima iz članka 125. stavka 1. točke 10., članka 128. stavka 1. točke 6. te članka 128.b stavaka 3. i 4. ovoga Zakona«.
+
+Iza točke 4. dodaje se nova točka 5. koja glasi:
+
+»5. za provođenje radnji koje su potrebne za donošenje konačne odluke o ulaganjima iz članka 125. stavka 1. točke 10., članka 128. stavka 1. točke 6. te članka 128.b stavaka 3. i 4. ovoga Zakona, a kada mirovinsko društvo kod takvih ulaganja planira koristiti usluge vanjskih suradnika«.
+
+Dosadašnje točke 5. i 6. postaju točke 6. i 7.
+
+#### Članak 17.
+
+U članku 46. stavku 1. točka 2. mijenja se i glasi:
+
+»2. dati svoje mišljenje Agenciji o nalazima Agencije u postupcima nadzora mirovinskog društva u roku od 30 dana od dana dostave zapisnika Agencije o obavljenom nadzoru te nadzirati postupanje mirovinskog društva u skladu s nalozima i rješenjima Agencije«.
+
+Iza stavka 1. dodaje se novi stavak 2. i stavci 3., 4. i 5. koji glase:
+
+»(2) Članovi nadzornog odbora mirovinskog društva dužni su djelovati u najboljem interesu članova mirovinskog fonda u odnosu na odluke o ulaganjima koje se provode za račun mirovinskog fonda, neovisno na čiji prijedlog su izabrani ili tko ih je imenovao.
+
+(3) Članovi nadzornog odbora mirovinskog društva ne smiju od trećih osoba primati upute koje bi ugrozile interese članova mirovinskih fondova u odnosu na odluke o ulaganjima koje se provode za račun mirovinskog fonda niti postupati po takvim uputama.
+
+(4) Svaki član nadzornog odbora dužan je prijaviti nadzornom odboru svaku okolnost koja može ukazivati na mogući sukob interesa prije donošenja odluke o davanju suglasnosti upravi iz članka 45. ovoga Zakona.
+
+(5) Svakom članu nadzornog odbora koji predstavlja povezanu osobu s kojom mirovinsko društvo obavlja određenu radnju za koju se traži prethodna suglasnost, ili u odnosu na kojeg se sumnja da je u sukobu interesa, isključeno je pravo glasa o donošenju takve odluke.«.
+
+Dosadašnji stavak 2. postaje stavak 6.
+
+#### Članak 18.
+
+U članku 47. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Osobe, uključujući i članove nadzornog odbora, koje s namjerom, koristeći svoj utjecaj u mirovinskom društvu, navedu člana uprave, člana nadzornog odbora, prokurista ili punomoćnika da poduzme nešto na štetu mirovinskog društva ili članova mirovinskih fondova, odgovaraju mirovinskom društvu za štetu koja mu time bude nanesena.«.
+
+#### Članak 19.
+
+U članku 48. stavku 1. iza točke 11. na kraju rečenice briše se točka i dodaje se točka 12. koja glasi:
+
+»12. politike, mjere i postupke upravljanja rizicima, uključujući i rizike održivosti.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Mirovinsko društvo dužno je osigurati raspolaganje potrebnim resursima i stručnim znanjima za učinkovito uključivanje rizika održivosti u sustav upravljanja rizicima iz članka 51. ovoga Zakona.«.
+
+#### Članak 20.
+
+U članku 49. stavak 6. mijenja se i glasi:
+
+»(6) Kada mirovinsko društvo predlaže ili imenuje člana nadzornog odbora u društvo u koje je uložilo imovinu mirovinskog fonda, mora predložiti člana koji ima odgovarajuće stručne kvalifikacije i iskustvo.«.
+
+Iza stavka 6. dodaje se novi stavak 7. koji glasi:
+
+»(7) Relevantne osobe mirovinskog društva nemaju pravo na nagradu ili naknadu po osnovi članstva u nadzornom odboru nekog društva na temelju vlasništva mirovinskog fonda nad dionicama ili udjelima tog društva, osim prava na naknadu putnih i drugih opravdanih troškova.«.
+
+Iza dosadašnjeg stavka 7., koji postaje stavak 8., dodaje se stavak 9. koji glasi:
+
+»(9) Mirovinsko društvo je pri utvrđivanju vrsta sukoba interesa koji bi mogli naštetiti interesima mirovinskog fonda dužno uključiti i sukobe interesa koji bi mogli nastati zbog uključivanja rizika održivosti u njihove procese, sustave i unutarnje kontrole.«.
+
+#### Članak 21.
+
+U članku 51. iza stavka 4. dodaju se novi stavci 5. i 6. koji glase:
+
+»(5) Mirovinsko društvo dužno je rizike održivosti uključiti u sustav upravljanja rizicima, u skladu s vrstom, opsegom i složenosti svojega poslovanja.
+
+(6) Politika upravljanja rizicima obuhvaća sve postupke koji su potrebni da bi mirovinsko društvo, za svaki mirovinski fond kojim upravlja, moglo procijeniti izloženost pojedinog mirovinskog fonda tržišnom riziku, riziku likvidnosti, riziku koncentracije uključujući i onaj koji proizlazi iz geografske diverzifikacije portfelja, riziku održivosti i riziku druge ugovorne strane, kao i izloženost mirovinskog fonda svim drugim rizicima, uključujući operativni rizik, koji mogu biti značajni za svaki mirovinski fond kojim mirovinsko društvo upravlja.«.
+
+Dosadašnji stavci 5. do 10. postaju stavci 7. do 12.
+
+Iza dosadašnjeg stavka 11., koji postaje stavak 13., dodaju se stavci 14., 15. i 16. koji glase:
+
+»(14) Mirovinsko društvo dužno je, kada koristi usluge poravnanja u smislu Uredbe (EU) br. 648/2012 za račun mirovinskih fondova kojima upravlja, redovito procjenjivati i upravljati rizikom koji za mirovinske fondove može proizaći iz različitih razina segregacije u smislu članka 39. Uredbe (EU) 648/2012 te s tim povezane vjerojatnosti izvršenja prijenosa poslovanja iz članka 48. stavaka 5. i 6. Uredbe (EU) 648/2012.
+
+(15) Mirovinsko društvo je minimalno dužno osigurati da mirovinski fondovi kojima upravlja nisu izloženi riziku drugih klijenata članova sustava poravnanja koje mirovinsko društvo koristi za pristup uslugama poravnanja, osim kada se radi o članovima sustava poravnanja iz trećih zemalja na koje se ne primjenjuju odredbe Uredbe (EU) 648/2012 te u takvim trećim zemljama obveze članova poravnanja nisu istovjetne ili usporedive s onima koje su propisane Uredbom (EU) 648/2012 i ako može dokazati da se time materijalno ne povećavaju rizici za imovinu mirovinskih fondova.
+
+(16) Ako mirovinsko društvo koristi posredne usluge poravnanja u smislu članka 1. točke b) Delegirane uredbe Komisije (EU) 149/2013, minimalno je dužno osigurati da mirovinski fondovi kojima upravlja nisu izloženi riziku drugih klijenata pružatelja usluge posrednog poravnanja (klijent člana sustava poravnanja), osim kada se radi o članovima sustava poravnanja iz trećih zemalja na koje se ne primjenjuju odredbe Uredbe (EU) 648/2012 te u takvim trećim zemljama obveze članova poravnanja nisu istovjetne ili usporedive s onima koje su propisane Uredbom (EU) 648/2012 i ako može dokazati da se time materijalno ne povećavaju rizici za imovinu mirovinskih fondova, pri čemu je mirovinsko društvo dužno procijeniti je li prikladno za mirovinske fondove kojima upravlja koristiti usluge posrednog poravnanja te jesu li dostupne sigurnije strukture računa.«.
+
+Dosadašnji stavak 12. postaje stavak 17.
+
+Dosadašnji stavak 13., koji postaje stavak 18., mijenja se i glasi:
+
+»(18) Agencija će pravilnikom propisati kriterije za procjenu adekvatnosti procesa upravljanja rizicima koji koristi mirovinsko društvo u skladu sa stavkom 4. ovoga članka, kriterije na temelju kojih mirovinsko društvo procjenjuje potrebnu razinu segregacije iz stavka 14. ovoga članka te na temelju kojih mirovinsko društvo procjenjuje je li prikladno koristiti usluge posrednog poravnanja iz stavka 16. ovoga članka ili ne, te pravila koja se odnose na obavještavanje Agencije u skladu sa stavkom 17. ovoga članka.«.
+
+#### Članak 22.
+
+U članku 52. stavku 1. točki 2. iza riječi: »ulaganja« stavlja se zarez i dodaju riječi: »uzimajući u obzir i rizike održivosti«.
+
+U stavku 3. iza riječi: »navedenoga« umjesto točke stavlja se zarez i dodaju riječi: »uključujući i rizike održivosti te, ako je mirovinsko društvo za mirovinski fond odabralo dio imovine mirovinskog fonda ulagati u održiva ulaganja, glavne štetne učinke odluka o ulaganjima na čimbenike održivosti.«.
+
+#### Članak 23.
+
+Iza članka 52. dodaju se naslov iznad članka i članak 52.a koji glase:
+
+*»Investicijski proces – alternativna ulaganja*
+
+#### Članak 52.a
+
+(1) Prilikom odabira i kontinuiranog praćenja ulaganja imovine mirovinskog fonda u alternativna ulaganja iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona, mirovinsko društvo dužno je koristiti visoki stupanj dužne pažnje što podrazumijeva odgovarajuću stručnost i znanje o imovini u koju se ulaže i razumijevanje rizika ulaganja vezanih uz takvu imovinu, kao i provođenje adekvatne dubinske analize predmeta takvih ulaganja.
+
+(2) Kako bi se osiguralo da se investicijske odluke o alternativnim ulaganjima iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona donose i provode u skladu s ciljevima i investicijskom strategijom mirovinskog fonda, kao i ograničenjima rizika, mirovinsko društvo dužno je uspostaviti, provoditi i primjenjivati pisane politike i postupke o primjeni dužne pažnje iz stavka 1. ovoga članka.
+
+(3) Mirovinsko društvo dužno je redovito preispitivati i ažurirati politike i postupke iz stavka 2. ovoga članka.
+
+(4) Osim poštivanja zahtjeva iz stavaka 1., 2 i 3. ovoga članka, kod alternativnih ulaganja iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona, mirovinsko društvo dužno je:
+
+a) odrediti i redovito ažurirati poslovni plan koji je u skladu s vremenskim horizontom konkretnog ulaganja i tržišnim uvjetima, a koji najmanje uključuje razloge odabira takvog ulaganja, rizike takvog ulaganja i način upravljanja istima, ekonomski i financijski plan za realizaciju i praćenje tog ulaganja, vremenski horizont ulaganja, izlaznu strategiju te poduzimanje aktivnosti do planiranog izlaska iz takve investicije
+
+b) odrediti moguće načine za ostvarenje ulaganja koje su u skladu s poslovnim planom iz točke a) ovoga stavka
+
+c) ocijeniti moguće načine za ostvarenje ulaganja u odnosu na sve dostupne opcije i ukupne povezane rizike te sve relevantne pravne, porezne, financijske i druge čimbenike koji utječu na vrijednost tog ulaganja, ljudske i materijalne resurse i strategije koji su potrebni za realizaciju tog ulaganja, uključujući i izlazne strategije
+
+d) obavljati prikladne aktivnosti dubinske analize koje su potrebne za ostvarenje ulaganja s dužnom pažnjom prije pristupanja njihovom izvršenju
+
+e) pratiti uspješnost provedenog ulaganja u odnosu na poslovni plan iz točke a) ovoga stavka.
+
+(5) Mirovinsko društvo dužno je za ulaganje imovine mirovinskog fonda u alternativna ulaganja iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona osigurati dovoljno osoblja koje ima kvalifikacije, znanje i stručnost potrebne za obavljanje poslova iz ovoga članka, pri čemu je obvezno voditi računa o vrsti, opsegu i složenosti konkretnih alternativnih ulaganja te vrsti i rasponu aktivnosti koje se moraju poduzeti za odabir, realizaciju i praćenje takvih ulaganja.
+
+(6) Mirovinsko društvo dužno je jednom godišnje, u roku od 30 dana od isteka kalendarske godine, Agenciji dostaviti izvješće o portfelju alternativnih ulaganja iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona koje minimalno uključuje podatke o realizaciji poslovnog plana iz stavka 4. točke a) ovoga članka, aktivnostima koje su poduzete u skladu s takvim poslovnim planom te podatke o uspješnosti provedenog ulaganja u odnosu na poslovni plan, uključujući i podatke o ostvarenju predviđene izlazne strategije, pripremnim radnjama za provođenje predviđene izlazne strategije te potencijalnim problemima kod provođenja predviđene izlazne strategije.
+
+(7) Mirovinsko društvo dužno je u sklopu izvješća iz stavka 6. ovoga članka Agenciji inicijalno dostaviti podatke o osobama koje su unutar mirovinskog društva zadužene za upravljanje portfeljem alternativnih ulaganja iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona te procjenu mirovinskog društva vezano za njihove kvalifikacije, razinu znanja i stručnosti u odnosu na konkretni portfelj alternativnih ulaganja za koji su zaduženi te takve podatke ažurirati prilikom svake promjene zaduženih osoba ili portfelja, ako se ulaže u vrstu imovine koja ima drugačiji profil rizika od alternativnih ulaganja kojima je mirovinski fond do tada bio izložen.
+
+(8) Ako mirovinsko društvo ne postupa u skladu s odredbama ovoga članka, Agencija može mirovinskom društvu privremeno zabraniti ili ograničiti ulaganje u alternativna ulaganja iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona, kao i naložiti njihovo otuđenje u roku koji ocijeni primjerenim.
+
+(9) Agencija će pravilnikom propisati pojedinosti o sadržaju i prikazu informacija u izvješću o portfelju alternativnih ulaganja iz stavaka 6. i 7. ovoga članka.«.
+
+#### Članak 24.
+
+U članku 53. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Ako je relevantna osoba mirovinskog društva član nadzornog odbora ili drugog tijela izdavatelja, ta osoba ne smije koristiti informacije kojima raspolaže o izdavatelju na temelju obavljanja takve funkcije u izdavatelju na način da bi formalno ili neformalno, posredno ili neposredno utjecala na osobe u mirovinskom društvu koje donose investicijske odluke vezane uz vrijednosne papire tog izdavatelja.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 25.
+
+U članku 54. stavku 2. iza riječi: »reviziju,« dodaju se riječi: »uključujući i internu reviziju informacijskog sustava,«.
+
+#### Članak 26.
+
+Naslov iznad članka 56. mijenja se i glasi: »Politike primitaka«.
+
+Članak 56. mijenja se i glasi:
+
+»(1) Mirovinsko društvo dužno je, radi sprječavanja preuzimanja neprimjerenih rizika u svom poslovanju, propisati i implementirati jasne politike i postupke vezane uz primitke radnika, članova uprave i nadzornog odbora, čiji rad može imati materijalni utjecaj na profil rizičnosti mirovinskog društva ili mirovinskog fonda.
+
+(2) Primici iz stavka 1. ovoga članka podrazumijevaju sve oblike fiksnih i varijabilnih plaćanja i pogodnosti, u novcu ili u naravi, koje isplaćuje odnosno dodjeljuje mirovinsko društvo, uključujući primitke povezane s uspješnošću i udio u dobiti, a koji se primici isplaćuju odnosno dodjeljuju u korist osoba iz stavka 1. ovoga članka.
+
+(3) Politike i postupci vezni uz primitke mirovinskog društva moraju dosljedno promicati učinkovito upravljanje rizicima i ne ohrabrivati preuzimanje rizika koji nisu u skladu s profilom rizičnosti ili statutom mirovinskog fonda.
+
+(4) Politika primitaka mirovinskog društva mora biti u skladu s poslovnom strategijom, ciljevima i veličinom mirovinskog društva i mirovinskih fondova, kao i interesima mirovinskog društva, mirovinskih fondova i njihovih članova te uključivati mjere za izbjegavanje sukoba interesa.
+
+(5) Uprava mirovinskog društva dužna je usvojiti i najmanje jednom godišnje preispitivati opća načela politika primitaka te je odgovorna za njihovu primjenu.
+
+(6) Primjena politika i postupaka vezanih uz primitke mora najmanje jednom godišnje, u funkciji nadzora nad poslovanjem mirovinskog društva, biti interno revidirana u smislu usklađenosti s politikama i postupcima vezanim uz primitke usvojenima od uprave mirovinskog društva.
+
+(7) Ako su primici povezani s uspješnošću, ukupni iznos primitaka mora se temeljiti na uspješnosti pojedinca i relevantne poslovne jedinice te na ukupnim rezultatima mirovinskog društva ili mirovinskih fondova, pri čemu se kod ocjene uspješnosti pojedinca uzimaju u obzir financijski i nefinancijski kriteriji.
+
+(8) Mirovinsko društvo smije isplaćivati nagrade radnicima, prokuristima, članovima uprave i nadzornog odbora samo ako su one održive, uzimajući u obzir financijsko stanje mirovinskog društva u cjelini, te ako je to opravdano s obzirom na uspješnost mirovinskih fondova i mirovinskog društva odnosno njegovih radnika.
+
+(9) Ukupni primici iz stavka 1. ovoga članka ne smiju ograničavati sposobnost mirovinskog društva da ojača kapitalnu osnovu mirovinskog društva.
+
+(10) U slučaju slabijih ili negativnih poslovnih rezultata mirovinskog društva i/ili mirovinskih fondova, mirovinsko društvo iste rezultate mora uzeti u obzir prilikom razmatranja isplate primitaka članovima uprave, nadzornog odbora, prokuristima i radnicima.
+
+(11) U godišnjim financijskim izvještajima mirovinskog društva potrebno je objaviti:
+
+1. podatke o ukupnom iznosu koji je mirovinsko društvo isplatilo u poslovnoj godini radnicima mirovinskog društva, raščlanjenom na fiksne i varijabilne primitke, te broju korisnika takvih primitaka
+
+2. podatke o ukupnom iznosu primitaka iz točke 1. ovoga stavka, raščlanjenom na iznose koje su primili članovi uprave, nadzornog odbora, prokuristi ili radnici mirovinskog društva čiji rad može imati materijalni utjecaj na profil rizičnosti mirovinskog društva ili mirovinskog fonda.
+
+(12) Fiksni i varijabilni primici iz stavka 11. ovoga članka trebaju biti raščlanjeni na primitke u novcu i primitke u naravi.«.
+
+#### Članak 27.
+
+Iza članka 56. dodaju se naslovi iznad članaka i članci 56.a do 56.k koji glase:
+
+*»Transparentnost politika u području rizika održivosti*
+
+#### Članak 56.a
+
+Mirovinsko društvo dužno je na svojim mrežnim stranicama objaviti informacije o svojim politikama u vezi s uključivanjem rizika održivosti u proces odlučivanja o ulaganjima obveznih mirovinskih fondova kojima upravlja.
+
+*Transparentnost štetnih učinaka na održivost na razini mirovinskog društva*
+
+#### Članak 56.b
+
+(1) Mirovinsko društvo dužno je na svojim mrežnim stranicama objaviti i redovito ažurirati informacije o štetnim učincima odluka o ulaganjima na čimbenike održivosti.
+
+(2) Ako mirovinsko društvo uzima u obzir glavne štetne učinke odluka o ulaganjima na čimbenike održivosti, dužno je objaviti izjavu o politikama dužne pažnje u pogledu tih učinaka, uzimajući u obzir veličinu, prirodu i opseg svoga poslovanja te kategorije mirovinskih fondova kojima upravlja.
+
+(3) Ako mirovinsko društvo ne uzima u obzir štetne učinke odluka o ulaganjima na čimbenike održivosti, dužno je objaviti jasne razloge zašto to ne čini, uključujući, ako je to relevantno, informacije o tome namjerava li i kada uzeti u obzir takve štetne učinke.
+
+(4) Mirovinsko društvo iz stavka 2. ovoga članka dužno je u izjavu o politikama dužne pažnje u pogledu glavnih štetnih učinaka odluka o ulaganjima na čimbenike održivosti uključiti najmanje sljedeće:
+
+a) informacije o svojim politikama za utvrđivanje glavnih štetnih učinaka na održivost i pokazatelja održivosti, kao i određivanja prioriteta u vezi s tim učincima i pokazateljima
+
+b) opis glavnih štetnih učinaka na održivost i svih mjera poduzetih u vezi s time ili, ako je to relevantno, planiranih mjera
+
+c) kratke sažetke o politikama sudjelovanja u skladu s odredbama zakona kojim je uređeno osnivanje i poslovanje trgovačkih društava, za izdavatelje dionica koje su uvrštene na uređenom tržištu
+
+d) upućivanje na svoje poštovanje kodeksa odgovornog poslovnog ponašanja i međunarodno priznatih standarda u vezi s dužnom pažnjom i izvješćivanjem.
+
+(5) Agencija će pravilnikom propisati sadržaj, metodologije i prikaz informacija iz stavaka 2. do 4. ovoga članka koje se odnose na pokazatelje održivosti povezane sa štetnim učincima u vezi s klimom, kao i drugim štetnim učincima u vezi s okolišem te pojedinosti o sadržaju i prikazu informacija u pogledu načela »ne nanosi bitnu štetu«.
+
+(6) Agencija će pravilnikom propisati sadržaj, metodologije i prikaz informacija iz stavaka 2. do 4. ovoga članka koje se odnose na pokazatelje održivosti povezane sa štetnim učincima u području socijalnih pitanja te pitanja u vezi sa zaposlenicima, poštovanjem ljudskih prava, borbom protiv korupcije i podmićivanja.
+
+*Transparentnost politika primitaka u vezi s uključivanjem rizika održivosti*
+
+#### Članak 56.c
+
+Mirovinsko društvo dužno je u svoje politike primitaka iz članka 56. ovoga Zakona uključiti informacije o tome kako su te politike usklađene s uključivanjem rizika održivosti i objaviti te informacije na svojim mrežnim stranicama.
+
+*Transparentnost uključivanja rizika održivosti*
+
+#### Članak 56.d
+
+(1) Mirovinsko društvo dužno je u statut mirovinskog fonda kojim upravlja uključiti sljedeće:
+
+a) opis načina na koji su rizici održivosti uključeni u donošenje odluke o ulaganju imovine mirovinskih fondova kojima upravlja i
+
+b) opis rezultata procjene vjerojatnih učinaka rizika održivosti na prinose mirovinskih fondova kojima upravlja.
+
+(2) Ako mirovinsko društvo rizike održivosti ne smatra relevantnima, opisi iz stavka 1. ovoga članka moraju sadržavati jasno i sažeto objašnjenje razloga za to.
+
+*Transparentnost štetnih učinaka na održivost na razini kategorije mirovinskog fonda*
+
+#### Članak 56.e
+
+(1) Mirovinsko društvo iz članka 56.b. stavka 2. ovoga Zakona dužno je za svaku kategoriju mirovinskog fonda kojim upravlja, u statut mirovinskog fonda uključiti sljedeće informacije:
+
+a) jasno i obrazloženo objašnjenje o tome uzimaju li se u toj kategoriji mirovinskog fonda u obzir glavni štetni učinci na čimbenike održivosti i, ako da, na koji način i
+
+b) izjavu da su informacije o glavnim štetnim učincima na čimbenike održivosti dostupne u godišnjem financijskom izvještaju mirovinskog fonda u okviru informacija koje mirovinsko društvo objavljuje u skladu s člankom 56.h stavkom 2. ovoga Zakona.
+
+(2) Mirovinsko društvo iz članka 56.b stavka 3. ovoga Zakona dužno je za svaku kategoriju mirovinskog fonda kojim upravlja, u statutu tog mirovinskog fonda uključiti izjavu da mirovinsko društvo ne uzima u obzir štetne učinke odluka o ulaganjima na čimbenike održivosti, kao i razloge za to.
+
+*Transparentnost promicanja okolišnih ili socijalnih obilježja u statutu mirovinskog fonda*
+
+#### Članak 56.f
+
+(1) Ako mirovinsko društvo kroz ulaganja mirovinskog fonda kojim upravlja uz ostala obilježja promiče okolišna ili socijalna obilježja, ili kombinacije tih obilježja, pod uvjetom da društva u koja se ulaže primjenjuju prakse dobrog upravljanja, informacije koje je mirovinsko društvo dužno objaviti u statutu mirovinskog fonda uključuju sljedeće:
+
+a) informacije o tome kako se ostvaruju okolišna i/ili socijalna obilježja
+
+b) informacije o tome planira li mirovinsko društvo dio imovine mirovinskog fonda ulagati u održiva ulaganja iz članka 2. točke 47. ovoga Zakona i
+
+c) ako se koristi indeks kao referentna vrijednost, informacije o tome je li i na koji je način taj indeks usklađen s okolišnim i/ili socijalnim obilježjima.
+
+(2) Mirovinsko društvo dužno je u statutu mirovinskog fonda uključiti i informaciju o tome gdje se može pronaći metodologija upotrijebljena za izračun indeksa iz stavka 1. točke c) ovoga članka.
+
+(3) Ako se imovina mirovinskog fonda ulaže i u održiva ulaganja iz članka 2. točke 47. ovoga Zakona, mirovinsko društvo dužno je u statut mirovinskog fonda uključiti sljedeću izjavu: »Načelo »ne nanosi bitnu štetu« primjenjuje se samo na ona ulaganja kod kojih se uzimaju u obzir kriteriji Europske unije za okolišno održive gospodarske djelatnosti. Kod ulaganja na kojima se temelji preostali udio ovoga mirovinskog fonda, ne uzimaju se u obzir kriteriji Europske unije za okolišno održive gospodarske djelatnosti.«.
+
+(4) Ako se imovina mirovinskog fonda ulaže i u održiva ulaganja iz članka 2. točke 47. ovoga Zakona, na takva ulaganja se na odgovarajući način primjenjuju odredbe članka 56.g stavaka 6. i 7. ovoga Zakona.
+
+(5) Agencija će pravilnikom propisati pojedinosti o sadržaju i prikazu informacija koje mirovinsko društvo treba objaviti na temelju stavaka 1. i 2. ovoga članka.
+
+*Transparentnost održivih ulaganja u statutu mirovinskog fonda*
+
+#### Članak 56.g
+
+(1) Ako mirovinsko društvo upravlja mirovinskim fondom koji ima za cilj ulagati u održiva ulaganja te je utvrđen indeks kao referentna vrijednost, u statutu mirovinskog fonda dužno je objaviti i:
+
+a) informacije o tome na koji je način određeni indeks usklađen s tim ciljem i
+
+b) objašnjenje o tome zašto i na koji način se utvrđeni indeks usklađen s tim ciljem razlikuje od šireg tržišnog indeksa.
+
+(2) Ako mirovinski fond ima za cilj ulagati u održiva ulaganja i nije određen indeks kao referentna vrijednost, u statutu mirovinskog fonda je potrebno uključiti objašnjenje načina na koji se taj cilj treba ostvariti.
+
+(3) Ako mirovinski fond ima za cilj smanjenje emisija ugljika, u statutu mirovinskog fonda je potrebno navesti da je cilj biti izložen niskim emisijama ugljika kako bi se ostvarili dugoročni ciljevi u vezi s globalnim zatopljenjem koji su utvrđeni Pariškim sporazumom (SL L 282, 19. 10. 2016.).
+
+(4) Iznimno od stavka 2. ovoga članka, ako ne postoji referentna vrijednost Europske unije za klimatsku tranziciju ili referentna vrijednost Europske unije usklađena s Pariškim sporazumom u skladu s Uredbom (EU) 2019/2089 Europskog parlamenta i Vijeća od 27. studenoga 2019. o izmjeni Uredbe (EU) 2016/1011 u pogledu referentnih vrijednosti EU-a za klimatsku tranziciju i referentnih vrijednosti EU-a usklađenih s Pariškim sporazumom te objavama u vezi s održivošću za referentne vrijednosti (SL L 317, 9. 12. 2019.), u statut mirovinskog fonda je potrebno uključiti podrobno objašnjenje o načinu osiguravanja trajnog napora u svrhu postizanja cilja smanjenja emisija ugljika radi postizanja dugoročnih ciljeva u vezi s globalnim zatopljenjem koji su utvrđeni Pariškim sporazumom.
+
+(5) Mirovinsko društvo u statutu mirovinskog fonda uključuje i naznaku gdje se može pronaći metodologija upotrjebljena za izračun indeksa iz stavka 1. ovoga članka i referentnih vrijednosti Europske unije iz stavka 4. ovoga članka, ako referentne vrijednosti Europske unije postoje.
+
+(6) Ako se imovina mirovinskog fonda ulaže u gospodarsku djelatnost kojom se pridonosi okolišnom cilju u smislu članka 2. točke 47. ovoga Zakona, u statutu i godišnjem financijskom izvještaju mirovinskog fonda potrebno je uključiti sljedeće:
+
+a) informacije o okolišnom cilju ili okolišnim ciljevima utvrđenim u članku 9. Uredbe (EU) 2020/852 Europskog parlamenta i Vijeća od 18. lipnja 2020. o uspostavi okvira za olakšavanje održivih ulaganja i izmjeni Uredbe (EU) 2019/2088 (SL L 198, 22. 6. 2020.) (u daljnjem tekstu: Uredba (EU) 2020/852) kojima pridonosi ulaganje mirovinskog fonda i
+
+b) opis kako su i u kojoj mjeri ulaganja mirovinskog fonda ulaganja u gospodarske djelatnosti koje se smatraju okolišno održivima u skladu s člankom 3. Uredbe (EU) 2020/852.
+
+(7) U opisu iz stavka 6. točke b) ovoga članka mirovinsko društvo dužno je odrediti udio ulaganja mirovinskog fonda u okolišno održive gospodarske djelatnosti, uključujući pojedinosti o udjelima omogućujućih i prijelaznih djelatnosti iz članka 16. odnosno članka 10. stavka 2. Uredbe (EU) 2020/852, kao postotak svih ulaganja mirovinskog fonda.
+
+(8) Agencija će pravilnikom propisati pojedinosti o sadržaju i prikazu informacija koje mirovinsko društvo treba objaviti na temelju stavaka 1., 2. i 3. ovoga članka.
+
+*Transparentnost promicanja okolišnih ili socijalnih obilježja i održivih ulaganja na mrežnim stranicama mirovinskog društva*
+
+#### Članak 56.h
+
+(1) Mirovinsko društvo dužno je na svojim mrežnim stranicama, uz podatke iz članka 123. ovoga Zakona, objaviti i ažurirati sljedeće informacije za mirovinske fondove iz članka 56.f stavka 1. i članka 56.g stavaka 1., 2. i 3. ovoga Zakona:
+
+a) opis okolišnih ili socijalnih obilježja ili cilja održivog ulaganja
+
+b) informacije o metodologijama upotrijebljenim za procjenu, mjerenje i praćenje okolišnih ili socijalnih obilježja ili učinka održivih ulaganja odabranih za mirovinski fond, uključujući izvore podataka, kriterije za analizu ulaganja mirovinskog fonda te relevantne pokazatelje održivosti koji se upotrebljavaju za mjerenje okolišnih ili socijalnih obilježja ili ukupnog učinka mirovinskog fonda na održivost
+
+c) informacije iz članaka 56.f i 56.g ovoga Zakona
+
+d) informacije iz članka 56.i ovoga Zakona.
+
+(2) Informacije koje mirovinsko društvo treba objaviti na temelju stavka 1. ovoga članka moraju biti jasne, sažete i razumljive članovima, a mirovinsko društvo dužno ih je objaviti na točan, pošten, jasan, nedvosmislen, jednostavan i sažet način na istaknutom i lako dostupnom dijelu mrežne stranice mirovinskog društva.
+
+(3) Agencija će pravilnikom propisati sadržaj informacija iz stavka 1. točaka a) i b) ovoga članka te zahtjeve u vezi s prikazom informacija iz stavka 2. ovoga članka.
+
+*Transparentnost promicanja okolišnih ili socijalnih obilježja i održivih ulaganja u godišnjim izvješćima*
+
+#### Članak 56.i
+
+(1) Mirovinsko društvo koje upravlja mirovinskim fondom iz članka 56.f stavka 1. ili članka 56.g stavaka 1., 2. ili 3. ovoga Zakona, u godišnje izvješće mirovinskog fonda iz članka 145. ovoga Zakona uključuje i sljedeće informacije:
+
+a) za mirovinski fond iz članka 56.f stavka 1. ovoga Zakona:
+
+1. opis opsega u kojem su ostvarena okolišna ili socijalna obilježja te, ako je mirovinsko društvo za mirovinski fond odabralo dio imovine mirovinskog fonda ulagati u održiva ulaganja, udio održivih ulaganja
+
+2. ako je mirovinsko društvo za mirovinski fond odabralo dio imovine mirovinskog fonda ulagati u održiva ulaganja, informacije iz članka 56.g stavka 6. ovoga Zakona, za dio ulaganja u održiva ulaganja
+
+3. ako je mirovinsko društvo za mirovinski fond odabralo dio imovine mirovinskog fonda ulagati u održiva ulaganja, izjavu iz članka 56.f stavka 3. ovoga Zakona
+
+b) za financijski proizvod iz članka 56.g stavka 1., 2. ili 3. ovoga Zakona
+
+1. opis ukupnog učinka financijskog proizvoda u području održivosti na temelju relevantnih pokazatelja održivosti ili
+
+2. ako je indeks utvrđen kao referentna vrijednost, usporedbe između ukupnog učinka financijskog proizvoda koji je povezan s održivosti s učinkom utvrđenog indeksa i šireg tržišnog indeksa na temelju pokazatelja održivosti
+
+3. informacije iz članka 56.g stavka 6. ovoga Zakona.
+
+(2) Za potrebe objave informacija iz stavka 1. ovoga članka, mirovinsko društvo može upotrebljavati informacije iz izvješća poslovodstva u skladu s člankom 21. ili 21.a Zakona o računovodstvu (»Narodne novine«, br. 78/15., 134/15., 120/16., 116/18., 42/20., 47/20., 114/22. i 82/23.) ili informacije iz nefinancijskih izvješća u skladu s člankom 24. ili 24.a istog Zakona, kada je to prikladno.
+
+(3) Agencija će pravilnikom propisati sadržaj i prikaz informacija iz stavka 1. ovoga članka.
+
+*Preispitivanje objava*
+
+#### Članak 56.j
+
+(1) Mirovinsko društvo dužno je osigurati redovito ažuriranje informacija objavljenih u skladu s člancima 56.a, 56.c i/ili 56.h ovoga Zakona.
+
+(2) Ako mirovinsko društvo izmijeni informacije iz stavka 1. ovoga članka, dužno je na mrežnim stranicama objaviti i jasno objašnjenje takve izmjene.
+
+*Promidžbeni sadržaji*
+
+#### Članak 56.k
+
+Mirovinsko društvo dužno je osigurati da njegovi promidžbeni sadržaji iz članka 114. ovoga Zakona nisu u suprotnosti s informacijama objavljenim na temelju članaka 56.a do 56.j ovoga Zakona.«.
+
+#### Članak 28.
+
+Članak 58. mijenja se i glasi:
+
+»Agencija će pravilnicima propisati organizacijske zahtjeve mirovinskog društva, uključujući i dodatne organizacijske zahtjeve u slučaju kada mirovinsko društvo upravlja i dobrovoljnim mirovinskim fondom te dodatne organizacijske zahtjeve koji se primjenjuju kada mirovinsko društvo ulaže u alternativna ulaganja iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona, s obzirom na:
+
+1. organizacijske uvjete
+
+2. sukob interesa
+
+3. administrativne i računovodstvene postupke
+
+4. praćenje usklađenosti s relevantnim propisima
+
+5. upravljanje rizicima
+
+6. mehanizme unutarnje kontrole
+
+7. mjere za neprekidno poslovanje
+
+8. politike primitaka
+
+9. vođenje i čuvanje poslovne dokumentacije mirovinskog društva
+
+10. primjereno upravljanje informacijskim sustavom, uključujući i kibernetičke rizike i način upravljanja istima
+
+11. pravila poslovnog ponašanja i
+
+12. izvještavanje Agencije o alternativnim ulaganjima iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona.«.
+
+#### Članak 29.
+
+Članak 63. mijenja se i glasi:
+
+»(1) Radi pokrića troškova mirovinskog društva, za mirovinsko društvo mogu se zaračunati sljedeće naknade:
+
+1. naknada za upravljanje u iznosu od najviše:
+
+a) u 2024. godini 0,25 % godišnje od ukupne imovine umanjene za financijske obveze mirovinskog fonda
+
+b) u 2025. godini 0,24 % godišnje od ukupne imovine umanjene za financijske obveze mirovinskog fonda
+
+c) u 2026. godini 0,23 % godišnje od ukupne imovine umanjene za financijske obveze mirovinskog fonda
+
+d) u 2027. godini 0,22 % godišnje od ukupne imovine umanjene za financijske obveze mirovinskog fonda
+
+e) u 2028. godini 0,21 % godišnje od ukupne imovine umanjene za financijske obveze mirovinskog fonda
+
+f) u 2029. godini i nadalje 0,20 % godišnje od ukupne imovine umanjene za financijske obveze mirovinskog fonda
+
+2. naknada za izlaz iz mirovinskog fonda u prve tri godine članstva, ako se istodobno radi o promjeni mirovinskog društva, u iznosu od najviše 0,8 % u prvoj, 0,4 % u drugoj i 0,2 % u trećoj godini članstva.
+
+(2) Agencija će pravilnikom propisati osnovicu za izračun i način naplate naknada iz stavka 1. ovoga članka.«.
+
+#### Članak 30.
+
+U članku 63.a stavku 3. riječi: »na dan raspodjele sredstava« brišu se.
+
+#### Članak 31.
+
+Iza članka 65. dodaje se članak 65.a koji glasi:
+
+»Članak 65.a
+
+(1) Za potrebe Agencije revizorsko društvo daje ocjenu o:
+
+1. pridržavanju pravila o upravljanju rizicima i
+
+2. stanju informacijskog sustava i adekvatnosti upravljanja informacijskim sustavom.
+
+(2) Ocjena iz stavka 1. ovoga članka opisna je i kreće se u rasponu od potpuno zadovoljavajuće do potpuno nezadovoljavajuće (potpuno zadovoljavajuće, zadovoljavajuće, nezadovoljavajuće, potpuno nezadovoljavajuće).
+
+(3) Agencija može od revizorskog društva zatražiti dodatne informacije u vezi s obavljenom revizijom.
+
+(4) Ako Agencija utvrdi da ocjena iz stavka 1. ovoga članka nije dana u skladu s ovim Zakonom, propisima donesenima na temelju ovoga Zakona ili ako obavljenim nadzorom poslovanja mirovinskog društva ili na drugi način utvrdi da ocjena nije zasnovana na istinitim i objektivnim činjenicama, može:
+
+1. zahtijevati od revizora da svoju ocjenu ispravi odnosno dopuni ili
+
+2. odbiti ocjenu i zahtijevati od mirovinskog društva da ocjenu daju ovlašteni revizori drugog revizorskog društva na trošak mirovinskog društva.
+
+(5) Odbijanje ocjene iz stavka 1. ovoga članka nema za posljedicu odbijanje godišnjih financijskih izvještaja odnosno godišnjih konsolidiranih financijskih izvještaja za tu godinu o kojima je u revizorskom izvješću izdano pozitivno ili uvjetno mišljenje.
+
+(6) Na obavljanje revizije iz ovoga članka na odgovarajući način primjenjuju se odredbe članka 65. ovoga Zakona.
+
+(7) Agencija će pravilnikom propisati sadržaj revizije za potrebe Agencije, način i rokove dostave, kao i razloge za odbijanje ocjene iz stavka 1. ovoga članka.«.
+
+#### Članak 32.
+
+U članku 87. stavku 1. točka 1. mijenja se i glasi:
+
+»1. naknada za upravljanje iz članka 63. stavka 1. točke 1. ovoga Zakona«.
+
+Iza stavka 1. dodaju se novi stavci 2. i 3. i stavci 4. i 5. koji glase:
+
+»(2) Uz troškove iz stavka 1. točaka 3. i 4. ovoga članka, mirovinsko društvo može na razini svake godine iz imovine mirovinskog fonda izravno platiti i pokriće do najviše 50 % nužnih troškova vezanih uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika, u iznosu koji u svakom slučaju ne može prelaziti 0,5 % od uplaćenih doprinosa u toj godini.
+
+(3) Zahtjev iz stavka 2. ovoga članka, kojim se propisuje da najviše 50 % nužnih troškova vezanih uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika može biti pokriveno iz imovine mirovinskog fonda, se primjenjuje i na razini individualnog troška i kumulativno na razini svih takvih troškova u jednoj godini.
+
+(4) Iznimno od stavaka 2. i 3. ovoga članka, kada je riječ o nužnim troškovima vezanim uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika koji su povezane osobe mirovinskog društva ili povezane osobe imatelja kvalificiranog udjela u mirovinskom društvu, ti se troškovi plaćaju isključivo iz imovine mirovinskog društva.
+
+(5) Kada mirovinsko društvo u postupku vezanom uz stjecanje ili prodaju imovine mirovinskog fonda koristi usluge vanjskih suradnika, dužno je osigurati da vanjski suradnik:
+
+1. je registriran za obavljanje takvih poslova, kada je za konkretnu radnju za koju ga je mirovinsko društvo angažiralo takva registracija potrebna
+
+2. može osigurati dovoljno profesionalnih jamstava kojima dokazuje svoju osposobljenost za učinkovito obavljanje odnosne aktivnosti, uključujući i ona u skladu s člankom 111. ovoga Zakona i pravilnikom iz članka 108. stavka 4. ovoga Zakona, kada je vanjski suradnik angažiran da provede vrednovanje vezano uz stjecanje ili prodaju imovine mirovinskog fonda
+
+3. posjeduje profesionalna jamstva iz točke 2. ovoga stavka koja sadrže dokaze o kvalifikacijama vanjskog suradnika i njegovoj sposobnosti za pravilno i neovisno provođenje konkretne radnje za koju ga je mirovinsko društvo angažiralo, a uključuju dokaze o:
+
+a) dovoljnim ljudskim i tehničkim resursima koji osiguravaju kvalifikacije, znanje i stručnost koji su potrebni za pravilno obavljanje poslova na kojima su angažirani
+
+b) odgovarajućim postupcima koji osiguravaju pravilno i neovisno vrednovanje, ako je vanjski suradnik angažiran da provede vrednovanje vezano uz stjecanje ili prodaju imovine mirovinskog fonda
+
+c) u slučaju iz podtočke b) ove točke, odgovarajućem znanju i razumijevanju investicijske strategije mirovinskog fonda i imovine za čiju procjenu je vanjski suradnik imenovan i
+
+d) profesionalnom ugledu i dovoljnom iskustvu u obavljanju konkretne radnje za koju ga je mirovinsko društvo angažiralo
+
+4. kada je vanjski suradnik angažiran da provede vrednovanje vezano uz stjecanje ili prodaju imovine mirovinskog fonda, isti ne smije delegirati posao vrednovanja na treće osobe.«.
+
+U dosadašnjem stavku 2., koji postaje stavak 6., riječi: »stavka 1.« zamjenjuju se riječima: »stavaka 1 i 2.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 7., iza riječi: »fonda« umjesto točke stavlja se zarez i dodaju riječi: »uključujući i vrste nužnih troškova vezanih uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika, način izračuna ograničenja iz stavka 2. ovoga članka, definiciju povezane osobe u smislu stavka 4. ovoga članka te izvještavanje Agencije o naplati troška iz stavka 2. ovoga članka.«.
+
+#### Članak 33.
+
+U članku 91. stavak 4. mijenja se i glasi:
+
+»(4) Odredba stavka 3. ovoga članka neće se primijeniti na osiguranika koji ne ispunjava uvjet iz članka 93. stavka 1. ovoga Zakona, već će se u tom slučaju osiguranik rasporediti u mirovinski fond kategorije B.«.
+
+U stavku 5. broj: »10« zamjenjuje se brojem: »15«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Raspored osiguranika prema stavcima 3. i 4. ovoga članka obavit će se na način da svakom mirovinskom društvu pripada udio u ukupnom broju osiguranika koji je jednak kvocijentu broja jedan i broja mirovinskih društava uvećanog za jedan, zaokruženo na dvije decimale, dok se ostatak raspoređuje svakoj kategoriji mirovinskog fonda onog mirovinskog društva koje je ostvarilo najveći godišnji prinos u zadnje tri godine prilagođen rizikom.«.
+
+Iza stavka 8. dodaje se novi stavak 9. koji glasi:
+
+»(9) Agencija će do 15. siječnja svake godine odlukom utvrditi za svaku kategoriju mirovinskih fondova mirovinsko društvo koje je ostvarilo najveći godišnji prinos u zadnje tri godine prilagođen riziku.«.
+
+Dosadašnji stavak 9. postaje stavak 10.
+
+#### Članak 34.
+
+Članak 93. mijenja se i glasi:
+
+»(1) Osiguranik može biti član mirovinskog fonda kategorije A ako je do referentnog dana ostalo deset ili više godina.
+
+(2) Iznimno od stavka 1. ovoga članka, na temelju zahtjeva, osiguranik može biti član mirovinskog fonda kategorije A ako je do referentnog dana ostalo pet ili više godina.
+
+(3) Osiguranik može biti član mirovinskog fonda kategorije B ili mirovinskog fonda kategorije C neovisno o duljini vremenskog razdoblja do referentnog dana.
+
+(4) Iznimno od stavka 3. ovoga članka, osiguranik koji je član mirovinskog fonda kategorije C i kojemu je do referentnog dana ostalo manje od šest mjeseci, ne može promijeniti kategoriju mirovinskog fonda.«.
+
+#### Članak 35.
+
+U članku 95. stavak 1. mijenja se i glasi:
+
+»(1) Član mirovinskog fonda može jednom godišnje promijeniti kategoriju mirovinskog fonda unutar istog mirovinskog društva ili prelaskom u mirovinski fond kojim upravlja drugo mirovinsko društvo.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Prilikom promjene kategorije mirovinskog fonda, naknada za izlaz se naplaćuje u skladu s člankom 63. stavkom 1. točkom 2. ovoga Zakona, samo ako se istodobno radi i o promjeni mirovinskog društva.«.
+
+#### Članak 36.
+
+Članak 96. mijenja se i glasi:
+
+»(1) Ako je osiguranik član mirovinskog fonda kategorije A, na dan kada ispuni uvjet da do referentnog dana ima manje od deset godina, Središnji registar osiguranika će ga rasporediti u mirovinski fond kategorije B kojim upravlja isto mirovinsko društvo, osim ako ne zatraži od Središnjeg registra osiguranika da ostane član mirovinskog fonda kategorije A, u roku iz stavka 3. ovoga članka.
+
+(2) Ako je osiguranik u skladu sa stavkom 3. ovoga članka zatražio ostanak u fondu kategorije A, na dan kada ispuni uvjet da do referentnog dana ima manje od pet godina, Središnji registar osiguranika će ga rasporediti u mirovinski fond kategorije B kojim upravlja isto mirovinsko društvo.
+
+(3) Osiguranik od Središnjeg registra osiguranika može zatražiti da ostane član mirovinskog fonda kategorije A najkasnije do dana na koji bi do svog referentnog dana imao deset godina i dva mjeseca, uključujući i taj dan, a ako takvu mogućnost ne iskoristi pa ga Središnji registar osiguranika rasporedi u mirovinski fond kategorije B, osiguranik može sukladno članku 95. stavku 1. ovoga Zakona naknadno sam promijeniti kategoriju mirovinskog fonda te se vratiti u kategoriju A, uz ograničenje iz članka 93. stavka 2. ovoga Zakona.
+
+(4) Središnji registar osiguranika dužan je šest mjeseci prije isteka roka iz stavka 3. ovoga članka člana mirovinskog fonda kategorije A obavijestiti o:
+
+a) mogućnosti ostanka u fondu kategorije A, odnosno mogućnosti povratka u fond kategorije A
+
+b) roku u kojem se ta mogućnost može iskoristiti i
+
+c) načinu na koji se ta mogućnost može iskoristiti.
+
+(5) Obavijest iz stavka 4. ovoga članka Središnji registar osiguranika će članu mirovinskog fonda učiniti dostupnom u skladu s člankom 194. stavkom 1. točkom 1. ili 3. ovoga Zakona.
+
+(6) Središnji registar osiguranika dužan je na svojim mrežnim stranicama na istaknutom mjestu objaviti općenite podatke o rokovima i načinu na koji se mogućnost ostanka u fondu kategorije A može zatražiti, u skladu sa stavcima 2. i 3. ovoga članka.
+
+(7) Mirovinsko društvo dužno je četiri mjeseca prije isteka roka iz stavka 3. ovoga članka člana mirovinskog fonda kategorije A obavijestiti o:
+
+a) mogućnosti ostanka u fondu kategorije A
+
+b) roku u kojem se ta mogućnost može iskoristiti
+
+c) načinu na koji se ta mogućnost može iskoristiti i
+
+d) potencijalnim prednostima i rizicima za člana fonda koji mogu proizaći iz donošenja odluke o ostanku u fondu kategorije A.
+
+(8) Obavijest iz stavka 7. ovoga članka mirovinsko društvo će članu mirovinskog fonda dostaviti ili putem valjane adrese elektroničke pošte ili putem mrežne stranice ako član podacima pristupa putem dodijeljenog korisničkog imena i zaporke ili putem mobilne aplikacije ili putem pošte.
+
+(9) Mirovinsko društvo dužno je na svojim mrežnim stranicama na istaknutom mjestu objaviti dokument koji članovima mirovinskog fonda pojašnjava na koji način mogu ostvariti pravo ostanka u fondu kategorije A iz stavaka 2. i 3. ovoga članka, rokove iz stavka 3. ovoga članka, potencijalne prednosti i rizike za člana fonda koji mogu proizaći iz donošenja takve odluke u odnosu na profil rizika koje kategorije A, B ili C podrazumijevaju za članove te opis načina ostvarivanja takvog prava, s odgovarajućim poveznicama na mrežne stranice Središnjeg registra osiguranika.
+
+(10) Obavijest o raspoređivanju Središnji registar osiguranika će članu mirovinskog fonda i mirovinskom društvu učiniti dostupnom u skladu s člankom 194. ovoga Zakona.
+
+(11) Mirovinska društva su dužna kontinuirano javno informirati članove mirovinskih fondova o mogućnosti ostanka u fondu kategorije A iz stavaka 2. i 3. ovoga članka te o mogućnostima prelaska u kategoriju B ili C, pri čemu se ova obveza mirovinskih društava smatra dijelom njihove obveze osnaživanja financijske pismenosti građana Republike Hrvatske o individualnoj kapitaliziranoj štednji iz članka 59. točke 22. ovoga Zakona, a Središnji registar osiguranika dužan je članovima mirovinskih fondova redovito pružati informacije o mogućnosti ostanka u fondu kategorije A iz stavaka 2. i 3. ovoga članka i o mogućnostima prelaska u kategoriju B ili C, i to putem svojih mrežnih stranica, periodičkim obavještavanjem članova mirovinskih fondova u skladu s člankom 194. stavkom 1. točkom 1. ili 3. ovoga Zakona i putem mirovinskih informativnih centara.
+
+(12) Središnji registar osiguranika će dostaviti mirovinskom društvu podatke o adresi prebivališta ili boravišta za člana mirovinskog fonda kategorije A radi ispunjenja obveza mirovinskog društva iz stavaka 7. i 8. ovoga članka, u skladu s propisima o zaštiti osobnih podataka.
+
+(13) Mirovinsko društvo podatke iz stavka 12. ovoga članka može koristiti u svrhu dostave obavijesti iz stavka 7. ovoga članka te radi obavještavanja člana o njegovim pravima i dužnostima u skladu s ovim Zakonom.«.
+
+#### Članak 37.
+
+U članku 104. iza stavka 5. dodaju se stavci 6. do 21. koji glase:
+
+»(6) Središnji registar osiguranika će za potrebe donošenja odluke o izboru mirovine iz stavka 1. ovoga članka, članu fonda obvezno dostaviti obavijest o informativnom izračunu mirovine.
+
+(7) Izjavu iz stavka 1. ovoga članka, član fonda dužan je dati na prijemnom mjestu Središnjeg registra osiguranika.
+
+(8) Središnji registar osiguranika dužan je do kraja svake kalendarske godine mirovinskim društvima dostaviti podatke o članovima koji će u sljedećoj kalendarskoj godini imati manje od jedne godine do ostvarivanja prava na starosnu mirovinu prema zakonu kojim se uređuje mirovinsko osiguranje, što uključuje i podatak o važećoj adresi elektronske pošte člana, ako Središnji registar osiguranika istom raspolaže, podatak o adresi prebivališta ili boravišta člana te podatak o datumu nakon kojeg će član imati manje od jedne godine do ostvarivanja prava na starosnu ili prijevremenu starosnu mirovinu prema zakonu kojim se uređuje mirovinsko osiguranje.
+
+(9) Mirovinsko društvo dužno je članovima iz stavka 8. ovog članka, u roku od 15 dana od dana na koji član ima jednu godinu do ostvarivanja prava na starosnu mirovinu, dostaviti obavijest koja mora sadržavati najmanje:
+
+1. informaciju da član ima manje od godine dana do ostvarenja prava na mirovinu
+
+2. informaciju da će član u trenutku ostvarenja prava na mirovinu imati pravo izbora između mirovine određene kao da je bio osiguran samo u obveznom mirovinskom osiguranju generacijske solidarnosti i mirovine i iz obveznog mirovinskog osiguranja individualne kapitalizirane štednje, uz kratak i jasan opis postupka izbora i opcija koje su članu na raspolaganju
+
+3. informaciju kako će, u slučaju da se opredijeli za mirovinu i iz obveznog mirovinskog osiguranja individualne kapitalizirane štednje, član biti obvezan sklopiti ugovor o mirovini s mirovinskim osiguravajućim društvom kojeg sam odabere
+
+4. informacije o postupku i načinu izbora mirovinskog osiguravajućeg društva
+
+5. opće informacije o mirovinskim programima
+
+6. podatke o raspoloživim mirovinskim programima za svako postojeće mirovinsko osiguravajuće društvo i njihov kratak i jasan opis
+
+7. informacije o rizicima koji mogu proizaći iz različitih opcija koje se nude
+
+8. kontakt podatke svakog postojećeg mirovinskog osiguravajućeg društva s uputom da od istih mogu dobiti daljnje informacije
+
+9. kontakt podatke mirovinskih centara Središnjeg registra osiguranika
+
+10. preporuku da se članovi fonda kao potencijalni korisnici mirovine informiraju o ponudi mirovinskih programa te da uz pomoć mirovinskih osiguravajućih društava prouče relevantne mirovinske programe prije donošenja odluke o sklapanju ugovora o mirovini kako bi u potpunosti razumjeli potencijalne rizike i koristi povezane s takvom odlukom
+
+11. informaciju o broju obračunskih jedinica člana u obveznom mirovinskom fondu, vrijednosti obračunske jedinice i novčanoj vrijednosti imovine na osobnom računu tog člana.
+
+(10) Sadržaj obavijesti iz stavka 9. ovog članka mora biti:
+
+1. sastavljen jasnim, jednostavnim te članovima lako razumljivim jezikom
+
+2. ne smije člana upućivati prema određenom mirovinskom osiguravajućem društvu ili prema određenom mirovinskom programu, te se mora suzdržati od korištenja pohvalnog odnosno laskavog izražavanja koje bi moglo promovirati usluge mirovinskih osiguravajućih društava
+
+3. ne smije članove dovoditi u zabludu, posebno u odnosu na prirodu mirovinskih programa i povezanih rizika različitih opcija.
+
+(11) Obavijest iz stavka 9. ovoga članka mirovinsko društvo će članu mirovinskog fonda dostaviti ili putem valjane adrese elektroničke pošte, ili putem mrežne stranice ako član podacima pristupa putem dodijeljenog korisničkog imena i zaporke, ili putem mobilne aplikacije ili putem pošte.
+
+(12) Obveza mirovinskih društava o slanju obavijesti iz stavka 9. ovoga članka smatra se dijelom njihove obveze osnaživanja financijske pismenosti građana Republike Hrvatske o individualnoj kapitaliziranoj štednji iz članka 59. točke 22. ovoga Zakona.
+
+(13) Obrazac obavijesti iz stavka 9. ovoga članka dužni su zajednički izraditi mirovinska društva, Središnji registar osiguranika i mirovinska osiguravajuća društva, sukladno odredbama ovoga Zakona i zakona kojim se uređuje osnivanje i poslovanje mirovinskih osiguravajućih društava.
+
+(14) Mirovinsko društvo dužno je obrazac obavijesti iz stavka 13. ovoga članka, najkasnije 15 dana prije njegova korištenja ili prije bilo kakve izmjene, dostaviti Agenciji radi provjere usklađenosti sadržaja obavijesti s odredbama ovoga Zakona.
+
+(15) Ako Agencija u roku od 15 dana od dana primitka obrasca obavijesti iz stavka 13. ovoga članka utvrdi da isti nije izrađen u skladu s odredbama ovoga Zakona, obavijestit će o tome mirovinsko društvo.
+
+(16) Suradnju mirovinskih društava, Središnjeg registra osiguranika i mirovinskih osiguravajućih društava će isti urediti međusobnim sporazumom.
+
+(17) Ako član obveznog mirovinskog fonda, koji se u skladu sa stavkom 1. i 4. ovoga članka opredijelio za ostvarivanje mirovine iz obveznog mirovinskog osiguranja individualne kapitalizirane štednje prema programu mirovinskog osiguravajućeg društva, s mirovinskim osiguravajućim društvom ne sklopi ugovor o mirovini u roku koji je propisan zakonom kojim je uređeno osnivanje i poslovanje mirovinskih osiguravajućih društava, mirovinsko osiguravajuće društvo će pod uvjetima i u roku koji je propisan zakonom kojim je uređeno osnivanje i poslovanje mirovinskih osiguravajućih društava, izvršiti prijenos doznačenih sredstava takvog člana obveznog mirovinskog fonda, umanjenih za iznos stvarnih troškova koje je imalo u vezi s čuvanjem tih sredstava, u državni proračun.
+
+(18) U slučaju iz stavka 17. ovoga članka, nakon prijenosa sredstava u državni proračun, mirovinu članu obveznog mirovinskog fonda određuje Hrvatski zavod za mirovinsko osiguranje prema zakonu kojim se uređuje obvezno mirovinsko osiguranje na temelju generacijske solidarnosti, s danom ostvarivanja prava na mirovinu kao da je korisnik mirovine bio osiguran samo u obveznom mirovinskom osiguranju na temelju generacijske solidarnosti te će se smatrati da je član obveznog mirovinskog fonda odustao od sklapanja ugovora o mirovini, odnosno ostvarivanja prava na mirovinu putem mirovinskog osiguravajućeg društva i da je suglasan da mirovinsko osiguravajuće društvo postupi u skladu sa stavkom 17. ovoga članka radi određivanja i isplate mirovine u skladu s ovim stavkom.
+
+(19) Izjava iz stavka 1. ovoga članka obvezno sadrži upozorenje o pravnim posljedicama nesklapanja ugovora o mirovini s mirovinskim osiguravajućim društvom u roku koji je propisan zakonom kojim je uređeno osnivanje i poslovanje mirovinskih osiguravajućih društava za one članove mirovinskog fonda koji se opredjeljuju za ostvarivanje mirovine iz obveznog mirovinskog osiguranja individualne kapitalizirane štednje prema programu mirovinskog osiguravajućeg društva, pri čemu se potpisom izjave iz stavka 1. ovoga članka smatra da je član mirovinskog fonda upoznat s takvim pravnim posljedicama te da je s istima suglasan.
+
+(20) Odredbe stavaka 17. i 18. ovoga članka se na odgovarajući način primjenjuju i na mjesečnu obiteljsku mirovinu prema programu mirovinskog osiguravajućeg društva iz članka 102. stavka 2. ovoga Zakona.
+
+(21) Agencija će pravilnikom urediti minimalni sadržaj obavijesti o informativnom izračunu mirovine iz stavka 6. ovoga članka.«.
+
+#### Članak 38.
+
+U članku 109. stavku 2. riječi: »100,00 kuna (slovima: sto kuna)« zamjenjuju se riječima: »13,27 eura«.
+
+#### Članak 39.
+
+Iza članka 111. dodaje se članak 111.a koji glasi:
+
+»Članak 111.a
+
+(1) Ako postoji sumnja u objektivnost ili ispravnost postupaka vrednovanja i/ili vrednovanja i/ili provedenog dubinskog snimanja po najboljim standardima struke, Agencija može zahtijevati od mirovinskog društva da postupke vrednovanja i/ili vrednovanje i/ili provedeno dubinsko snimanje potvrdi vanjski procjenitelj kojeg imenuje mirovinsko društvo ili revizor kojeg odabere Agencija, a na trošak mirovinskog društva.
+
+(2) Mirovinsko društvo kao vanjskog procjenitelja iz stavka 1. ovoga članka može imenovati pravnu ili fizičku osoba koja je nezavisna od mirovinskog fonda, mirovinskog društva i bilo kojih drugih osoba usko povezanih s mirovinskim fondom ili mirovinskim društvom, te koja:
+
+1. je registrirana za obavljanje navedene djelatnosti
+
+2. može osigurati dovoljno profesionalnih jamstava za učinkovito obavljanje odnosnog posla vrednovanja u skladu sa stavkom 5. ovoga članka.
+
+(3) Depozitar mirovinskog fonda ne smije biti imenovan za vanjskog procjenitelja iz stavka 1. ovoga članka ako nije funkcionalno i hijerarhijski razdvojio obavljanje svojih poslova depozitara od dužnosti vanjskog procjenitelja i, ako moguće, sukobe interesa primjereno ne prepoznaje, njima upravlja, prati i objavljuje članovima mirovinskog fonda.
+
+(4) Kada mirovinsko društvo imenuje vanjskog procjenitelja, dužno je dokazati da:
+
+1. je vanjski procjenitelj registriran za obavljanje navedene djelatnosti
+
+2. vanjski procjenitelj može osigurati dovoljno profesionalnih jamstava kojima dokazuje svoju osposobljenost za učinkovito obavljanje odnosnog posla vrednovanja u skladu s člankom 111. ovoga Zakona i pravilnikom iz članka 108. stavka 4. ovoga Zakona.
+
+(5) Profesionalna jamstva iz stavka 4. točke 2. ovoga članka sadrže dokaze o kvalifikacijama vanjskog procjenitelja i njegovoj sposobnosti za pravilno i neovisno provođenje vrednovanja, a uključuju dokaze o:
+
+1. dovoljnim ljudskim i tehničkim resursima
+
+2. odgovarajućim postupcima koji osiguravaju pravilno i neovisno vrednovanje
+
+3. odgovarajućem znanju i razumijevanju investicijske strategije mirovinskog fonda i imovine za čiju procjenu je vanjski procjenitelj imenovan i
+
+4. profesionalnom ugledu i dovoljnom iskustvu u vrednovanju.
+
+(6) Imenovani vanjski procjenitelj ne smije delegirati posao vrednovanja na treće osobe.
+
+(7) Mirovinsko društvo dužno je o imenovanju vanjskog procjenitelja iz stavka 1. ovoga članka obavijestiti Agenciju kao i dostaviti dokaze o ispunjenju uvjeta iz stavaka 2. do 6. ovoga članka, a Agencija može u roku od 30 radnih dana od primitka takve obavijesti odbiti vanjskog procjenitelja kojeg predloži mirovinsko društvo ako smatra da uvjeti iz stavaka 2. do 6. ovoga članka nisu ispunjeni.
+
+(8) Revizor iz stavka 1. ovoga članka kojeg odabere Agencija mora ispunjavati uvjete iz stavaka 2., 4., 5. i 6. ovoga članka.«.
+
+#### Članak 40.
+
+U članku 112. stavku 1. riječi: »milijun kuna« zamjenjuju se riječima: »132.722,81 eura«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Jamstveni polog može se držati na posebnom transakcijskom računu kod depozitara koji je zaštićen od ovrhe od strane trećih osoba ili uložiti u:
+
+a) trezorske zapise Republike Hrvatske
+
+b) kratkoročne prenosive dužničke vrijednosne papire s rokom dospijeća kraćim od 18 mjeseci i instrumente tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a
+
+c) izvedene financijske instrumente iz članka 125. stavka 1. točke 18. ovoga Zakona koji služe za zaštitu od rizika iznosa jamstvenog pologa.«.
+
+U stavku 5. riječ: »skrbničkom« zamjenjuje se riječju: »transakcijskom«.
+
+#### Članak 41.
+
+U članku 123. stavku 1. točka 11. mijenja se i glasi:
+
+»11. informacije o identificiranom sukobu interesa, ostvarivanju strategije i ciljeva ulaganja za vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona te kada mirovinsko društvo za račun mirovinskog fonda ili mirovinskih fondova kojima upravlja stekne više od 10 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja iz članka 125. stavka 1. točaka 6., 7. ili 9. ovoga Zakona ili više od 10 % prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca jednog izdanja iz članka 125. stavka 1. točaka 2., 3., 4. i 9. ovoga Zakona.«.
+
+#### Članak 42.
+
+Članak 124. mijenja se i glasi:
+
+»Imovina mirovinskog fonda ulaže se u skladu s odredbama ovoga Zakona radi povećanja vrijednosti imovine mirovinskog fonda, uz uvažavanje načela sigurnosti, razboritosti i opreza te smanjenja rizika kroz raspršenost ulaganja, što uključuje i geografsku diverzifikaciju portfelja.«.
+
+#### Članak 43.
+
+Iznad članka 125. dodaje se naslov koji glasi: »Dopuštena ulaganja imovine mirovinskih fondova«.
+
+Članak 125. mijenja se i glasi:
+
+»(1) Imovina mirovinskog fonda, ovisno o kategoriji, može se sastojati isključivo od:
+
+1. prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a te Hrvatska narodna banka ili središnja banka druge države članice, odnosno države članice OECD-a odnosno javno međunarodno tijelo kojemu pripada većina država članica
+
+2. prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice, odnosno države članice OECD-a, ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica
+
+3. prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a
+
+4. prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a
+
+5. neuvrštenih pokrivenih obveznica koje izdaju kreditne institucije koje imaju registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici, a kod kojih su u skupu za pokriće stambeno potrošački krediti osigurani hipotekama, a koji ispunjavaju zahtjeve iz članka 129. Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe (EU) br. 648/2012 (SL L 176, 27. 6. 2013.)
+
+6. prenosivih vlasničkih vrijednosnih papira uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj dioničko društvo sa sjedištem u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a
+
+7. prenosivih vlasničkih vrijednosnih papira primljenih u trgovanje na multilateralnoj trgovinskoj platformi u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj dioničko društvo sa sjedištem u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a
+
+8. prenosivih vlasničkih i dužničkih vrijednosnih papira i/ili poslovnih udjela koji se nude na platformama za skupno financiranje u smislu Uredbe (EU) 2020/1503 Europskog parlamenta i Vijeća od 7. listopada 2020. o europskim pružateljima usluga skupnog financiranja za poduzeća i izmjeni Uredbe (EU) 2017/1129 i Direktive (EU) 2019/1937 (SL L 347, 20. 10. 2020) i/ili prenosivih vlasničkih i dužničkih vrijednosnih papira i poslovnih udjela koji se nude na platformama za skupno financiranje u skladu sa smjernicama iz stavka 6. točke d) ovoga članka
+
+9. nedavno izdanih prenosivih dužničkih vrijednosnih papira, instrumenata tržišta novca i prenosivih vlasničkih vrijednosnih papira koji nisu uvršteni na uređeno tržište u trenutku njihova stjecanja, koji će se u slučaju neispunjenja uvjeta iz podtočaka a) i b) ove točke smatrati neuvrštenima:
+
+a) uvjeti izdanja uključuju obvezu da će izdavatelj podnijeti zahtjev za uvrštenje na uređeno tržište, a uvrštenje će se izvršiti u roku od jedne godine od dana izdanja ili
+
+b) ako je nadležno tijelo izdavatelja donijelo odluku o uvrštenju izdanih vrijednosnih papira ili instrumenata tržišta novca na uređeno tržište, koja je objavljena na mrežnim stranicama izdavatelja, a uvrštenje će se izvršiti u roku od jedne godine od dana takve objave
+
+10. prenosivih vlasničkih i/ili dužničkih vrijednosnih papira koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske, koji ne moraju biti uvršteni na uređeno tržište odnosno primljeni u trgovanje na multilateralnu trgovinsku platformu, pod sljedećim uvjetima:
+
+a) ti vrijednosni papiri imaju dugoročne, stabilne i predvidljive novčane tokove, kako bi odgovarali ročnosti obveza mirovinskog fonda uz uvažavanje načela sigurnosti, razboritosti i opreza
+
+b) Vlada Republike Hrvatske je odlukom klasificirala izdavatelja tih vrijednosnih papira kao namjenskog izdavatelja za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske, a sukladno kriterijima i postupku iz uredbe Vlade Republike Hrvatske iz stavka 7. ovoga članka
+
+11. udjela UCITS fondova koji su odobrenje za rad dobili u Republici Hrvatskoj ili drugoj državi članici ili odgovarajućih fondova koji su odobrenje za rad dobili u državi članici OECD-a, pod uvjetom da su provođenje nadzora nad tim fondovima i razina zaštite ulagatelja istovjetni s onima propisanim zakonom kojim se uređuje osnivanje i rad otvorenih investicijskih fondova s javnom ponudom
+
+12. udjela ili dionica u otvorenim alternativnim investicijskim fondovima, odnosno udjela, dionica ili poslovnih udjela u zatvorenim alternativnim investicijskim fondovima kojima upravljaju upravitelji koji su odobrenje za rad srednjeg ili velikog društva za upravljanje alternativnim investicijskim fondovima dobili u Republici Hrvatskoj ili odobrenje za rad u drugoj državi članici, ili odgovarajućih fondova kojima upravljaju upravitelji koji su odobrenje za rad dobili u državi članici OECD-a, pod uvjetom da su provođenje nadzora nad tim upraviteljima i razina zaštite ulagatelja istovjetni s onima propisanim zakonom kojim se uređuje osnivanje i upravljanje alternativnim investicijskim fondovima
+
+13. depozita kod kreditnih institucija koji su povratni na zahtjev te koji dospijevaju za najviše 12 mjeseci, pod uvjetom da:
+
+a) kreditna institucija ima registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici ili državi članici OECD-a
+
+b) su provođenje nadzora nad tom kreditnom institucijom i razina zaštite deponenata istovjetni s onima propisanima zakonom kojim se uređuje poslovanje kreditnih institucija i
+
+c) kreditna institucija nije povezana osoba mirovinskog društva
+
+14. iznimno od odredbi točke 13. ovoga stavka, imovina mirovinskog fonda smije se sastojati od depozita kod kreditne institucije koja je povezana osoba mirovinskog društva, pod uvjetom da:
+
+a) su iskorištena ograničenja ulaganja u depozite kod kreditnih institucija koje imaju registrirano sjedište u Republici Hrvatskoj u koje je mirovinskom društvu, u skladu s internim aktom usvojenim na temelju pravilnika iz članka 52. ovoga Zakona, dozvoljeno i omogućeno ulagati i
+
+b) da se kod razročavanja depozita najprije razročava depozit kod kreditne institucije koja je povezana osoba mirovinskog društva
+
+15. depozita kod Hrvatske narodne banke i Europske središnje banke
+
+16. novca na računima otvorenima u kreditnim institucijama iz točke 13. ovoga stavka
+
+17. iznimno od odredbi točke 16. ovoga stavka, imovina mirovinskog fonda smije se sastojati novca na računu kod kreditne institucije koja je povezana osoba mirovinskog društva, pod uvjetom da:
+
+a) su iskorištena ograničenja ulaganja u novac na računu kod kreditnih institucija koje imaju registrirano sjedište u Republici Hrvatskoj u koje je mirovinskom društvu, u skladu s internim aktom usvojenim na temelju pravilnika iz članka 52. ovoga Zakona, dozvoljeno i omogućeno ulagati i
+
+b) da se kod ulaganja novca najprije ulaže novac s računa otvorenog u kreditnoj instituciji koja je povezana osoba mirovinskog društva
+
+18. izvedenih financijskih instrumenata kojima se trguje na uređenim tržištima u smislu odredbi zakona kojim se uređuje tržište kapitala ili izvedenih financijskih instrumenata kojima se trguje izvan uređenih tržišta (neuvrštene OTC izvedenice) pod sljedećim uvjetima:
+
+a) temeljna imovina izvedenice sastoji se od financijskih instrumenata obuhvaćenih točkama 1. do 4. ovoga stavka i točkama 6. i 7. ovoga stavka, financijskih indeksa, kamatnih stopa, deviznih tečajeva ili valuta, u koje mirovinski fond može ulagati u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona, a temeljna imovina izvedenih financijskih instrumenata koji se koriste u svrhe zaštite imovine također se može sastojati od indeksa vezanih za inflaciju, ili nekretnine i od kreditnih izloženosti
+
+b) druge ugovorne strane u transakcijama s neuvrštenim (OTC) izvedenicama su institucije financijskog sektora koje imaju sjedište u državi članici ili državi članici OECD-a koje podliježu bonitetnom nadzoru te imaju zadovoljavajuću kreditnu kvalitetu, kao i druge vrste subjekata koje ispunjavaju ekvivalentne uvjete i
+
+c) neuvrštene (OTC) izvedenice podliježu svakodnevnom pouzdanom i povjerljivom vrednovanju, te ih je u svakom trenutku moguće prodati, likvidirati ili zatvoriti prijebojnom transakcijom po njihovoj fer vrijednosti na zahtjev mirovinskog fonda
+
+19. nekretnina koje zadovoljavaju sljedeće uvjete:
+
+a) smještene su na teritoriju Republike Hrvatske, druge države članice i/ili države članice OECD-a
+
+b) radi se o funkcionalnim poslovnim zgradama s ili bez pripadajućeg zemljišta koje nose predvidive i stabilne novčane tokove
+
+c) nezavisni vanjski procjenitelj dao je procjenu vrijednosti nekretnine, koja sadržava eventualnu opterećenost hipotekama i izjavu da bi nekretnina mogla u primjereno kratkom roku biti otuđena po procijenjenoj vrijednosti
+
+d) mogu se steći izravno ili posredstvom jednog ili više subjekata za posebnu namjenu, koji može biti osnovan kao dioničko društvo ili društvo s ograničenom odgovornošću i ne mora biti uvršten na uređeno tržište niti primljen u trgovanje na multilateralnoj trgovinskoj platformi, pri čemu se takvo ulaganje u smislu ovoga Zakona smatra izravnim ulaganjem u nekretninu
+
+e) kada se nekretnine stječu posredstvom jednog ili više subjekata za posebnu namjenu, ti subjekti za posebnu namjenu:
+
+– transparentno javno objavljuju relevantne informacije koje se odnose na ulaganje na platformi koja pruža takvu uslugu ili na mrežnoj stranici mirovinskog društva ili
+
+– prema mirovinskom društvu su se ugovorno obvezali na objavu informacija iz prve alineje ove točke te su mirovinskom društvu dostavili informacije na temelju kojih je moguće utvrditi da će u trenutku ulaganja relevantne informacije biti dostupne na takvoj platformi
+
+20. drugih vrsta imovine koja je proizašla iz imovine iz točaka 1. do 19. ovoga stavka.
+
+(2) Izdavatelj, odnosno jamac iz stavka 1. točaka 1. i 2. ovoga članka, osim Republike Hrvatske:
+
+1. mora imati kreditni rejting za dugoročni dug izdan u stranoj valuti koji spada u investicijski razred prema ocjeni najmanje dvije globalno priznate rejting agencije
+
+2. iznimno od točke 1. ovoga stavka, ako izdavatelj odnosno jamac iz stavka 1. točaka 1. i 2. ovog članka, nema kreditni rejting za dugoročni dug izdan u stranoj valuti prema ocjeni najmanje dvije globalno priznate rejting agencije, tada se uvjeti iz točke 1. ovoga stavka primjenjuju na kreditni rejting za dugoročni dug izdan u domaćoj valuti.
+
+(3) Kada mirovinsko društvo ulaže imovinu mirovinskog fonda u:
+
+1. prenosive vrijednosne papire i/ili poslovne udjele koji se nude na platformama za skupno financiranje iz stavka 1. točke 8. ovoga članka, u informativnom prospektu mora navesti podatak o subjektu u koji je uložena imovina, koliko je imovine uloženo, obrazloženje takvog ulaganja, koji su prihodi ostvareni te koji se prihodi očekuju u idućem razdoblju
+
+2. nekretnine iz stavka 1. točke 19. ovoga članka, u informativnom prospektu mora navesti koliko je imovine uloženo u nekretnine, obrazloženje takvih ulaganja, procjenu vrijednosti nekretnine, je li u iste uloženo izravno ili putem subjekta za posebnu namjenu, koji su prihodi ostvareni te koji se prihodi očekuju u idućem razdoblju.
+
+(4) Subjekt posebne namjene iz stavka 1. točke 19. podtočke d) ovoga članka obavlja stjecanje, otuđivanje i upravljanje nekretninom za račun mirovinskog fonda u skladu s investicijskom strategijom i ciljevima mirovinskog fonda.
+
+(5) Kada u skladu sa standardima financijskog izvještavanja koji se primjenjuju za sastavljanje financijskih izvještaja mirovinskog fonda postoji obveza konsolidacije financijskih izvještaja društva posebne namjene iz stavka 1. točke 19. podtočke d) ovoga članka s financijskim izvještajima mirovinskog fonda ili kada Agencija rješenjem naloži takvu konsolidaciju, društvo posebne namjene treba imati istog revizora i sastavljati financijske izvještaje za ista izvještajna razdoblja na isti izvještajni datum kao i mirovinski fond.
+
+(6) Agencija će pravilnikom odrediti dodatne uvjete koje mora zadovoljavati imovina iz ovoga članka uključujući i dodatne uvjete koje moraju zadovoljavati nekretnine iz stavka 1. točke 19. ovoga članka te što se smatra neposrednim ulaganjem u nekretnine putem subjekata posebne namjene, odrediti uvjete koje moraju zadovoljavati računi iz stavka 1. točke 16. i 17. ovoga članka, propisati uvjete koje mora zadovoljavati druga ugovorna strana u transakciji mirovinskog fonda te donijeti smjernice za platforme za skupno financiranje iz stavka 1. točke 8. ovoga članka i opisati prikladne zaštitne mehanizme u slučaju neispunjenja obveza izdavatelja kod imovine iz stavka 1. točke 9. ovoga članka.
+
+(7) Vlada Republike Hrvatske donosi uredbu kojom se propisuju kriteriji za klasifikaciju izdavatelja kao namjenskog izdavatelja za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske iz stavka 1. točke 10. ovoga članka, postupak i sadržaj prijave odnosno zahtjeva za izdavanje klasifikacije te postupak za procjenu i izdavanje klasifikacije.«.
+
+#### Članak 44.
+
+Iza članka 125. dodaju naslovi iznad članaka i članci 125.a i 125.b koji glase:
+
+*»Obavještavanje Agencije o provedenim ulaganjima*
+
+#### Članak 125.a
+
+(1) Kada mirovinsko društvo imovinu mirovinskog fonda ili mirovinskih fondova kojima upravlja ulaže u vrijednosne papire ili instrumente tržišta novca koji u trenutku njihova stjecanja nisu uvršteni na uređeno tržište iz članka 125. stavka 1. točke 9. ovoga Zakona, mirovinsko društvo dužno je u roku od tri radna dana nakon provedenog ulaganja dostaviti Agenciji sljedeću dokumentaciju:
+
+1. analizu ulaganja, posebice u odnosu na rizike i prinose tog ulaganja, koja sadrži i jasno definirane ciljeve ulaganja, strategiju kojom se namjeravaju postići ciljevi tog ulaganja, rokove i praćenje realizacije strategije i uspješnosti ostvarivanja cilja, upravljanje sukobom interesa kao i izlaznu strategiju u slučaju neispunjenja ili ispunjenja ciljeva ulaganja
+
+2. analizu postupanja u slučaju neuvrštenja vrijednosnih papira i instrumenata tržišta novca, koja uključuje i opis predviđenih zaštitnih mehanizama u slučaju neispunjenja obveza izdavatelja, posebice obveze uvrštenja
+
+3. drugu dokumentaciju, na zahtjev Agencije.
+
+(2) Ako mirovinsko društvo ne postupa u skladu sa stavkom 1. ovoga članka, Agencija može tom mirovinskom društvu privremeno zabraniti ili ograničiti ulaganje u vrijednosne papire i instrumente tržišta novca iz članka 125. stavka 1. točke 9. ovoga Zakona, kao i naložiti njihovo otuđenje u roku koji ocijeni primjerenim.
+
+(3) Kada mirovinsko društvo imovinu mirovinskog fonda ili mirovinskih fondova kojima upravlja ulaže u vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona, mirovinsko društvo dužno je u roku od tri radna dana nakon provedenog ulaganja dostaviti Agenciji obavijest o provedenom ulaganju i ispunjenju uvjeta iz članka 125. stavka 1. točke 10. ovoga Zakona.
+
+(4) Kada mirovinsko društvo za račun mirovinskog fonda ili mirovinskih fondova kojima upravlja stekne više od 10 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja iz članka 125. stavka 1. točaka 6., 7. ili 9. ovoga Zakona ili više od 10 % prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca jednog izdanja iz članka 125. stavka 1. točaka 2., 3., 4. i 9. ovoga Zakona, mirovinsko društvo dužno je u roku od tri radna dana nakon provedenog ulaganja obavijestiti Agenciju.
+
+(5) Mirovinsko društvo dužno je o ulaganjima iz stavaka 3. i 4. ovoga članka javno objaviti informacije na svojim mrežnim stranicama u roku od tri radna dana od provedenog ulaganja, koja uz informacije propisane u članku 128.b stavku 5. ovoga Zakona mora sadržavati i opće podatke o provedenom ulaganju, a obavijest mora biti istaknuta na lako vidljivom mjestu.
+
+(6) Kada mirovinsko društvo imovinu mirovinskog fonda ili mirovinskih fondova kojima upravlja ulaže u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona, mirovinsko društvo dužno je u roku od tri radna dana nakon provedenog ulaganja obavijestiti Agenciju i dostaviti dokaze o ispunjavanju uvjeta iz članka 125. stavka 1. točke 19. ovoga Zakona.
+
+(7) Kada mirovinsko društvo imovinu mirovinskog fonda ili mirovinskih fondova kojima upravlja ulaže u udjele, dionice ili poslovne udjele alternativnih investicijskih fondova s garancijom iz članka 126. stavka 1. točke 2. i/ili članka 126.a stavka 1. točke 2. ovoga Zakona, mirovinsko društvo dužno je u roku od tri radna dana nakon davanja obvezujuće ponude i nakon svake uplate u takav fond obavijestiti Agenciju i dostaviti dokaze o ispunjavanju uvjeta iz članka 126. stavka 1. točke 2. ovoga Zakona odnosno članka 126.a stavka 1. točke 2. ovoga Zakona.
+
+(8) Agencija će pravilnikom propisati minimalni sadržaj i način dostave obavijesti iz stavaka 3., 4., 6. i 7. ovoga članka.
+
+*Korištenje referentnih vrijednosti*
+
+#### Članak 125.b
+
+(1) Kada mirovinsko društvo ulaže imovinu mirovinskog fonda u prenosive vlasničke vrijednosne papire iz članka 125. stavka 1. točaka 6., 7. ili 9. ovoga Zakona, za skupinu ulaganja ili cjelokupna ulaganja mora koristiti jednu ili više referentnih vrijednosti koje priznaje Agencija.
+
+(2) U slučaju odstupanja prinosa ulaganja iz članka 125. stavka 1. točaka 6., 7. ili 9. ovoga Zakona od prinosa odabrane referentne vrijednosti iz stavka 1. ovoga članka mirovinsko društvo dužno je u informativnom prospektu obrazložiti prinose te naznačiti i obrazložiti odstupanja prinosa takvih ulaganja u odnosu na prinos odabrane referentne vrijednosti iz stavka 1. ovoga članka.
+
+(3) Agencija će pravilnikom propisati način izračuna odstupanja prinosa iz stavka 2. ovoga članka i donijeti smjernice za referentne vrijednosti iz stavka 1. ovoga članka.«.
+
+#### Članak 45.
+
+Naslov iznad članka 126. mijenja se i glasi: »Ograničenja ulaganja mirovinskog fonda kategorije A s obzirom na neto vrijednost imovine prema klasama imovine«.
+
+Članak 126. mijenja se i glasi:
+
+»(1) Ulaganje imovine mirovinskog fonda kategorije A podliježe sljedećim ograničenjima:
+
+1. najmanje 25 % neto vrijednosti imovine mirovinskog fonda mora biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a, Hrvatska narodna banka ili središnja banka druge države članice odnosno države članice OECD-a ili javno međunarodno tijelo kojemu pripada većina država članica iz članka 125. stavka 1. točke 1. ovoga Zakona
+
+2. najmanje 5 % neto vrijednosti imovine mirovinskog fonda mora biti uloženo u udjele, dionice ili poslovne udjele alternativnih investicijskih fondova s garancijom povrata najmanje cjelokupno uloženih sredstava na kraju trajanja alternativnog investicijskog fonda, ako su takvi alternativni investicijski fondovi dostupni, pri čemu takvo jamstvo mora dati Vlada Republike Hrvatske u ime Republike Hrvatske, druga država članica, država članica OECD-a ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica
+
+3. najviše 30 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice, odnosno države članice OECD-a, ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica iz članka 125. stavka 1. točke 2. ovoga Zakona
+
+4. najviše 30 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca uvrštene na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 3. i 9. ovoga Zakona
+
+5. najviše 50 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca uvrštene na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona
+
+6. najviše 10 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u neuvrštene pokrivene obveznice koje izdaju kreditne institucije koje imaju registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici, a kod kojih su u skupu za pokriće stambeno potrošački krediti osigurani hipotekama iz članka 125. stavka 1. točke 5. ovoga Zakona
+
+7. najviše 70 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive vlasničke vrijednosne papire uvrštene na uređeno tržište i primljene u trgovanje na multilateralnu trgovinsku platformu u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj dioničko društvo sa sjedištem u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 6., 7. i 9. ovoga Zakona, s time da najviše 10 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive vlasničke vrijednosne papire primljene u trgovanje na multilateralnu trgovinsku platformu iz članka 125. stavka 1. točke 7. ovoga Zakona
+
+8. najviše 0,2 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive vlasničke i dužničke vrijednosne papire i/ili poslovne udjele koji se nude na platformama za skupno financiranje iz članka 125. stavka 1. točke 8. ovoga Zakona
+
+9. najviše 55 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive vlasničke i/ili dužničke vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske iz članka 125. stavka 1. točke 10. ovoga Zakona
+
+10. najviše 45 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u udjele UCITS fondova i drugih otvorenih investicijskih fondova s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona
+
+11. najviše 20 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u udjele ili dionice u otvorenim alternativnim investicijskim fondovima, odnosno udjele, dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona
+
+12. najviše 20 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u depozite iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona, a najviše 30 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u depozite iz članka 125. stavka 1. točke 15. ovoga Zakona, s tim da kumulativno ulaganje u depozite iz članka 125. stavka 1. točaka 13., 14. i 15. ovoga Zakona i u novac na računu iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona ne smije prijeći 30 % neto vrijednosti imovine mirovinskog fonda
+
+13. najviše 5 % neto vrijednosti imovine mirovinskog fonda može neposredno biti uloženo u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona
+
+14. najviše 10 % neto vrijednosti imovine mirovinskog fonda može neposredno biti uloženo u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona ako su kumulativno ispunjeni sljedeći uvjeti:
+
+a) mirovinski fond je u razdoblju od pet godina od dana stupanja na snagu ovoga Zakona ili naknadno dosegnuo ograničenje za neposredno ulaganje u nekretnine iz točke 13. ovoga stavka
+
+b) mirovinsko društvo je osiguralo dovoljno osoblja koje ima kvalifikacije, znanje i stručnost koji su potrebni za odabir, realizaciju i kontinuirano praćenje ulaganja imovine mirovinskog fonda u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona, a u skladu s člankom 52.a stavcima 5. i 7. ovoga Zakona
+
+15. najviše 15 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona uzimajući u obzir i posrednu izloženost kroz udjele ili dionice u otvorenim alternativnim investicijskim fondovima, odnosno dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona i
+
+16. ukupna ulaganja u udjele UCITS fondova i otvorenih investicijskih fondova s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona te udjele i/ili dionice i/ili poslovne udjele alternativnih investicijskih fondova iz članka 125. stavka 1. točke 12. ovoga Zakona kojima se stječe posredna izloženost prema tržištima izvan Republike Hrvatske, drugih država članica i država članica OECD-a zajedno ne smiju prelaziti 10 % neto vrijednosti imovine mirovinskog fonda.
+
+(2) Kod ograničenja ulaganja propisanih u stavku 1. točkama 3., 4., 5. i 7. ovoga članka u obzir se uzima i posredna izloženost stečena kroz ulaganja u udjele UCITS fondova i drugih otvorenih investicijskih fondova s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona, udjele ili dionice u otvorenim alternativnim investicijskim fondovima, odnosno udjele, dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona i izvedene financijske instrumente iz članka 125. stavka 1. točke 18. ovoga Zakona.
+
+(3) Neovisno o pojedinačnim ograničenjima ulaganja iz stavka 1. ovoga članka, ista se neće kombinirati te se najviše 20 % neto vrijednosti imovine mirovinskog fonda može ukupno uložiti u alternativna ulaganja koja obuhvaćaju:
+
+1. prenosive dužničke vrijednosne papire i instrumente tržišta novca iz članka 125. stavka 1. točaka 3., 4. i 9. ovoga Zakona ako mirovinski fond drži više od 10 % vrijednosti izdanja pojedinačnog izdavatelja ili ako obvezni i dobrovoljni mirovinski fondovi kojima upravlja isto mirovinsko društvo drže više od 15 % vrijednosti izdanja pojedinačnog izdavatelja
+
+2. prenosive vlasničke vrijednosne papire jednog izdavatelja uvrštene na uređeno tržište iz članka 125. stavka 1. točaka 6. i 9. ovoga Zakona ili primljene u trgovanje na multilateralnu trgovinsku platformu iz članka 125. stavka 1. točke 7. ovoga Zakona, ako mirovinski fond drži više od 20 % vrijednosti izdanja pojedinačnog izdavatelja ili ako obvezni i dobrovoljni mirovinski fondovi kojima upravlja isto mirovinsko društvo drže više od 25 % vrijednosti izdanja pojedinačnog izdavatelja
+
+3. prenosive vlasničke vrijednosne papire i poslovne udjele koji se nude na platformama za skupno financiranje iz članka 125. stavka 1. točke 8. ovoga Zakona
+
+4. udjele ili dionice u otvorenim alternativnim investicijskim fondovima, odnosno udjele, dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona, a u kojima je mirovinski fond stekao preko 20 % udjela ili dionica, ili u kojima su obvezni i dobrovoljni mirovinski fondovi kojima upravlja isto mirovinsko društvo, stekli preko 25 % udjela ili dionica i
+
+5. nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona.
+
+(4) Kod obveze ulaganja iz stavka 1. točke 2. ovoga članka primjenjuje se sljedeće:
+
+1. ako cjelokupno ili djelomično ispunjavanje obveze ulaganja iz stavka 1. točke 2. ovoga članka nije moguće jer alternativni investicijski fondovi s garancijom iz stavka 1. točke 2. ovoga članka nisu dostupni ili mirovinskom fondu nije omogućen upis dovoljnog iznosa sredstava za zadovoljavanje predmetne obveze ulaganja ili u slučaju iz točke 3. ovoga stavka, obveza iz stavka 1. točke 2. ovoga članka može se u cijelosti ili djelomično ispuniti ulaganjem u prenosive dužničke vrijednosne papire i instrumente tržišta novca iz stavka 1. točke 1. ovoga članka
+
+2. obveza ulaganja iz stavka 1. točke 2. ovoga članka smatra se ispunjenom prihvaćanjem obveze za ulaganje pri čemu, radi upravljanja rizikom likvidnosti mirovinskog fonda, uplate na temelju poziva za uplatu ne moraju biti veće od neto tekućih priljeva u mirovinski fond u razdoblju do ispunjenja poziva na uplatu, a poziv na uplatu može biti ispunjen i ranije, ako to neće negativno utjecati na likvidnost mirovinskog fonda
+
+3. da bi se zaštitili interesi mirovinskog fonda i njegovih članova, mirovinsko društvo iznimno može odbiti uložiti u alternativni investicijski fond s garancijom iz stavka 1. točke 2. ovoga članka ili odbiti poziv na uplatu za određeno ulaganje tog fonda ako:
+
+a) društvo koje upravlja alternativnim investicijskim fondom s garancijom iz stavka 1. točke 2. ovoga članka krši odredbe pravila tog fonda
+
+b) bi se provedenim ulaganjem kršile odredbe ovoga Zakona, drugih zakona te propisa donesenih na temelju tih zakona i/ili propisa Europske unije
+
+c) državnim jamstvom nije pokriven cjelokupni iznos ulaganja
+
+d) mirovinsko društvo ne može osigurati imenovanje svog predstavnika u tijelo koje čine predstavnici ulagatelja u alternativni investicijski fond s garancijom iz stavka 1. točke 2. ovoga članka te koje najmanje daje suglasnost na investicijsku strategiju fonda, uključujući ključna ulaganja
+
+e) mirovinsko društvo ne može osigurati minimalnu razinu transparentnosti ulaganja, odnosno barem polugodišnju objavu svih ulaganja alternativnog investicijskog fonda s garancijom iz stavka 1. točke 2. ovoga članka, koju je mirovinsko društvo dužno objaviti na svojim mrežnim stranicama
+
+4. na ulaganja iz stavka 1. točke 2. ovoga članka primjenjuju se sljedeća ograničenja:
+
+a) ulaganje do iznosa od 5 % neto vrijednosti imovine mirovinskog fonda u udjele, dionice ili poslovne udjele alternativnih investicijskih fondova s garancijom iz stavka 1. točke 2. ovoga članka ne uključuje se u izračun ograničenja ulaganja iz stavka 1. točke 11. ovoga članka
+
+b) iznimno od odredbe članka 127. stavka 6. ovoga Zakona, najviše 7 % neto imovine mirovinskog fonda kategorije A može biti uloženo u pojedini alternativni investicijski fond s garancijom iz stavka 1. točke 2. ovoga članka
+
+c) iznimno od odredbi članka 128. stavka 1. točaka 11. i 12. i članka 128.b stavka 1. točaka 11. i 12. ovoga Zakona, mirovinsko društvo za račun pojedinog mirovinskog fonda ili obveznih i dobrovoljnih mirovinskih fondova kojima upravlja može steći najviše 50 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu s garancijom iz stavka 1. točke 2. ovoga članka
+
+d) kada mirovinsko društvo za račun mirovinskog fonda kategorije A stekne više od 20 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu s garancijom iz stavka 1. točke 2. ovoga članka, zbroj vrijednosti za sva takva ulaganja ne smije prijeći 15 % neto vrijednosti imovine mirovinskog fonda
+
+e) ulaganje u alternativne investicijske fondove s garancijom iz stavka 1. točke 2. ovoga članka ne ulazi u alternativna ulaganja iz stavka 3. ovoga članka
+
+f) strategijom ulaganja i pravilima alternativnog investicijskog fonda s garancijom iz stavka 1. točke 2. ovoga članka mora biti predviđeno da najmanje 30 % ulaganja takvog alternativnog investicijskog fonda mora biti usmjereno u ulaganja u Republici Hrvatskoj.
+
+(5) Ministarstvo nadležno za mirovinski sustav nakon dostave propisane dokumentacije od strane društva za upravljanje alternativnim investicijskim fondom iz stavka 1. točke 2. ovoga članka, koja obvezno mora sadržavati analizu strategije ulaganja takvog alternativnog investicijskog fonda te nakon procjene visine potencijalne obveze za Republiku Hrvatsku i procjene fiskalnog učinka na državni proračun, predlaže Vladi Republike Hrvatske davanje garancije iz stavka 1. točke 2. ovoga članka kao državnog jamstva u ime Republike Hrvatske.
+
+(6) Na postupak procjene i davanje državnog jamstva iz stavka 5. ovoga članka na odgovarajući način se primjenjuju propisi kojima se uređuje sustav proračuna i izvršavanje državnog proračuna, uključujući i propise koji se odnose na davanje državnih jamstava.
+
+(7) Na postupak procjene i davanje državnog jamstva iz stavka 5. ovoga članka na odgovarajući način se primjenjuju pravila o državnim potporama.
+
+(8) Način i postupak davanja državnog jamstva iz stavaka 5., 6. i 7. ovoga članka, kao i uvjete koje će biti potrebno ispuniti kako bi se davanje državnog jamstva smatralo opravdanim te potrebnu dokumentaciju propisat će Vlada Republike Hrvatske uredbom na prijedlog ministarstva nadležnog za mirovinski sustav uz suglasnost ministarstva nadležnog za financije.«.
+
+#### Članak 46.
+
+Iza članka 126. dodaju se naslovi iznad članaka i članci 126.a i 126.b koji glase:
+
+*»Ograničenja ulaganja mirovinskog fonda kategorije B s obzirom na neto vrijednost imovine prema klasama imovine*
+
+#### Članak 126.a
+
+(1) Ulaganje imovine mirovinskog fonda kategorije B podliježe sljedećim ograničenjima:
+
+1. najmanje 45 % neto vrijednosti imovine mirovinskog fonda mora biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a, Hrvatska narodna banka ili središnja banka druge države članice odnosno države članice OECD-a ili javno međunarodno tijelo kojemu pripada većina država članica iz članka 125. stavka 1. točke 1. ovoga Zakona
+
+2. najmanje 5 % neto vrijednosti imovine mirovinskog fonda mora biti uloženo u udjele, dionice ili poslovne udjele alternativnih investicijskih fondova s garancijom povrata najmanje cjelokupno uloženih sredstava na kraju trajanja alternativnog investicijskog fonda, ako su takvi alternativni investicijski fondovi dostupni, pri čemu takvo jamstvo mora dati Vlada Republike Hrvatske u ime Republike Hrvatske, druga država članica, država članica OECD-a ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica
+
+3. najviše 30 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice odnosno države članice OECD-a ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica iz članka 125. stavka 1. točke 2. ovoga Zakona
+
+4. najviše 30 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca uvrštene na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 3. i 9. ovoga Zakona
+
+5. najviše 30 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca uvrštene na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona
+
+6. najviše 7 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u neuvrštene pokrivene obveznice koje izdaju kreditne institucije koje imaju registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici, a kod kojih su u skupu za pokriće stambeno potrošački krediti osigurani hipotekama iz članka 125. stavka 1. točke 5. ovoga Zakona
+
+7. najviše 40 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive vlasničke vrijednosne papire uvrštene na uređeno tržište i primljenih u trgovanje na multilateralnu trgovinsku platformu u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj dioničko društvo sa sjedištem u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 6., 7. i 9. ovoga Zakona, s time da najviše 5 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive vlasničke vrijednosne papire primljenih u trgovanje na multilateralnu trgovinsku platformu iz članka 125. stavka 1. točke 7. ovoga Zakona
+
+8. najviše 0,1 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive vlasničke i dužničke vrijednosne papire i/ili poslovne udjele koji se nude na platformama za skupno financiranje iz članka 125. stavka 1. točke 8. ovoga Zakona
+
+9. najviše 35 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive vlasničke i/ili dužničke vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske iz članka 125. stavka 1. točke 10. ovoga Zakona
+
+10. najviše 35 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u udjele UCITS fondova i drugih otvorenih investicijskih fondova s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona
+
+11. najviše 15 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u udjele ili dionice u otvorenim alternativnim investicijskim fondovima, odnosno udjele, dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona
+
+12. najviše 20 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u depozite iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona, a najviše 30 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u depozite iz članka 125. stavka 1. točke 15. ovoga Zakona, s tim da kumulativno ulaganje u depozite iz članka 125. stavka 1. točaka 13., 14. i 15. ovoga Zakona i u novac na računu iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona ne smije prijeći 30 % neto vrijednosti imovine mirovinskog fonda
+
+13. najviše 4 % neto vrijednosti imovine mirovinskog fonda može neposredno biti uloženo u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona
+
+14. najviše 7 % neto vrijednosti imovine mirovinskog fonda može neposredno biti uloženo u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona ako su kumulativno ispunjeni sljedeći uvjeti:
+
+a) mirovinski fond je u razdoblju od pet godina od dana stupanja na snagu ovoga Zakona ili naknadno dosegnuo ograničenje za neposredno ulaganje u nekretnine iz točke 13. ovoga stavka
+
+b) mirovinsko društvo je osiguralo dovoljno osoblja koje ima kvalifikacije, znanje i stručnost koji su potrebni za odabir, realizaciju i kontinuirano praćenje ulaganja imovine mirovinskog fonda u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona, a u skladu s člankom 52.a stavcima 5. i 7. ovoga Zakona
+
+15. najviše 10 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona uzimajući u obzir i posrednu izloženost kroz udjele ili dionice u otvorenim alternativnim investicijskim fondovima, odnosno udjele, dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona
+
+16. ukupna ulaganja u udjele UCITS fondova i otvorenih investicijskih fondova s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona te udjele, poslovne udjele i/ili dionice alternativnih investicijskih fondova iz članka 125. stavka 1. točke 12. ovoga Zakona kojima se stječe posredna izloženost prema tržištima izvan Republike Hrvatske, drugih država članica i država članica OECD-a zajedno ne smiju prelaziti 7 % neto vrijednosti imovine mirovinskog fonda.
+
+(2) Kod ograničenja ulaganja propisanih u stavku 1. točkama 3., 4., 5. i 7. ovoga članka u obzir se uzima i posredna izloženost stečena kroz ulaganja u udjele UCITS fondova i drugih otvorenih investicijskih fondova s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona, udjele ili dionice u otvorenim alternativnim investicijskim fondovima, odnosno udjele, dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona i izvedene financijske instrumente iz članka 125. stavka 1. točke 18. ovoga Zakona.
+
+(3) Neovisno o pojedinačnim ograničenjima ulaganja iz stavka 1. ovoga članka, ista se neće kombinirati te se najviše 15 % neto vrijednosti imovine mirovinskog fonda smije ukupno uložiti u alternativna ulaganja koja obuhvaćaju:
+
+a) prenosive dužničke vrijednosne papire i instrumente tržišta novca iz članka 125. stavka 1. točaka 3., 4. i 9. ovoga Zakona ako mirovinski fond drži više od 10 % vrijednosti izdanja pojedinačnog izdavatelja ili ako obvezni i dobrovoljni mirovinski fondovi kojima upravlja isto mirovinsko društvo drže više od 15 % vrijednosti izdanja pojedinačnog izdavatelja
+
+b) prenosive vlasničke vrijednosne papire jednog izdavatelja uvrštene na uređeno tržište iz članka 125. stavka 1. točaka 6. i 9. ovoga Zakona ili primljene u trgovanje na multilateralnu trgovinsku platformu iz članka 125. stavka 1. točke 7. ovoga Zakona, ako mirovinski fond drži više od 20 % vrijednosti izdanja pojedinačnog izdavatelja ili ako obvezni i dobrovoljni mirovinski fondovi kojima upravlja isto mirovinsko društvo drže više od 25 % vrijednosti izdanja pojedinačnog izdavatelja
+
+c) prenosive vlasničke vrijednosne papire i poslovne udjele koji se nude na platformama za skupno financiranje iz članka 125. stavka 1. točke 8. ovoga Zakona
+
+d) udjele ili dionice u otvorenim alternativnim investicijskim fondovima, odnosno udjele, dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona, a u kojima je mirovinski fond stekao preko 20 % udjela ili dionica, ili u kojima su obvezni i dobrovoljni mirovinski fondovi kojima upravlja isto mirovinsko društvo, stekli preko 25 % udjela ili dionica i
+
+e) nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona.
+
+(4) Kod obveze ulaganja iz stavka 1. točke 2. ovoga članka primjenjuje se sljedeće:
+
+1. ako cjelokupno ili djelomično ispunjavanje obveze ulaganja iz stavka 1. točke 2. ovoga članka nije moguće jer alternativni investicijski fondovi s garancijom iz stavka 1. točke 2. ovoga članka nisu dostupni ili mirovinskom fondu nije omogućen upis dovoljnog iznosa sredstava za zadovoljavanje predmetne obveze ulaganja ili u slučaju iz točke 3. ovoga stavka, obveza iz stavka 1. točke 2. ovoga članka može se u cijelosti ili djelomično ispuniti ulaganjem u prenosive dužničke vrijednosne papire i instrumente tržišta novca iz stavka 1. točke 1. ovoga članka
+
+2. obveza ulaganja iz stavka 1. točke 2. ovoga članka smatra se ispunjenom prihvaćanjem obveze za ulaganje pri čemu, radi upravljanja rizikom likvidnosti mirovinskog fonda, uplate na temelju poziva za uplatu ne moraju biti veće od tekućih priljeva u periodu do ispunjenja poziva na uplatu, a poziv na uplatu može biti ispunjen i ranije, ako to neće negativno utjecati na likvidnost mirovinskog fonda
+
+3. da bi se zaštitili interesi mirovinskog fonda i njegovih članova, mirovinsko društvo iznimno može odbiti uložiti u alternativni investicijski fond s garancijom iz stavka 1. točke 2. ovoga članka ili odbiti poziv na uplatu za određeno ulaganje tog fonda ako:
+
+a) društvo koje upravlja predmetnim alternativnim investicijskim fondom s garancijom iz stavka 1. točke 2. ovoga članka krši odredbe pravila tog fonda
+
+b) bi se provedenim ulaganjem kršile odredbe ovoga Zakona, drugih zakona te propisa donesenih na temelju tih zakona i/ili propisa Europske unije
+
+c) državnim jamstvom nije pokriven cjelokupni iznos ulaganja
+
+d) mirovinsko društvo ne može osigurati imenovanje svog predstavnika u tijelo koje čine predstavnici ulagatelja u alternativni investicijski fond s garancijom iz stavka 1. točke 2. ovoga članka te koje najmanje daje suglasnost na investicijsku strategiju fonda, uključujući ključna ulaganja
+
+e) mirovinsko društvo ne može osigurati minimalnu razinu transparentnosti ulaganja, odnosno barem polugodišnju objavu svih ulaganja alternativnog investicijskog fonda s garancijom, koju je mirovinsko društvo dužno objaviti na svojim mrežnim stranicama
+
+4. na ulaganja iz stavka 1. točke 2. ovoga članka primjenjuju se sljedeća ograničenja:
+
+a) ulaganje do iznosa od 5 % neto vrijednosti imovine mirovinskog fonda u udjele, dionice ili poslovne udjele alternativnih investicijskih fondova s garancijom iz stavka 1. točke 2. ovoga članka ne uključuje se u izračun ograničenja ulaganja iz stavka 1. točke 11. ovoga članka
+
+b) iznimno od odredbe članka 127. stavka 1. točke 6. ovoga Zakona, najviše 7 % neto imovine mirovinskog fonda kategorija B može biti uloženo u pojedini alternativni investicijski fond s garancijom iz stavka 1. točke 2. ovoga članka
+
+c) iznimno od odredbi članka 128. stavka 1. točaka 11. i 12. i članka 128.b stavka 1. točaka 11. i 12. ovoga Zakona, mirovinsko društvo za račun pojedinog mirovinskog fonda ili obveznih i dobrovoljnih mirovinskih fondova kojima upravlja može steći najviše 50 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu s garancijom iz stavka 1. točke 2. ovoga članka
+
+d) kada mirovinsko društvo za račun mirovinskog fonda kategorije B stekne više od 20 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu s garancijom iz stavka 1. točke 2. ovoga članka, zbroj vrijednosti za sva takva ulaganja ne smije prijeći 15 % neto vrijednosti imovine mirovinskog fonda
+
+e) ulaganje u alternativne investicijske fondove s garancijom iz stavka 1. točke 2. ovoga članka ne ulazi u alternativna ulaganja iz stavka 3. ovoga članka
+
+f) strategijom ulaganja i pravilima alternativnog investicijskog fonda s garancijom iz stavka 1. točke 2. ovoga članka mora biti predviđeno da najmanje 30 % ulaganja takvog alternativnog investicijskog fonda mora biti usmjereno u ulaganja u Republici Hrvatskoj.
+
+(5) Ministarstvo nadležno za mirovinski sustav nakon dostave propisane dokumentacije od strane društva za upravljanje alternativnim investicijskim fondom iz stavka 1. točke 2. ovoga članka, koja obvezno mora sadržavati analizu strategije ulaganja takvog alternativnog investicijskog fonda te nakon procjene visine potencijalne obveze za Republiku Hrvatsku i procjene fiskalnog učinka na državni proračun, predlaže Vladi Republike Hrvatske davanje garancije iz stavka 1. točke 2. ovoga članka kao državnog jamstva u ime Republike Hrvatske.
+
+(6) Na postupak procjene i davanje državnog jamstva iz stavka 5. ovoga članka na odgovarajući način se primjenjuju propisi kojima se uređuje sustav proračuna i izvršavanje državnog proračuna, uključujući i propise koji se odnose na davanje državnih jamstava.
+
+(7) Na postupak procjene i davanje državnog jamstva iz stavka 5. ovoga članka na odgovarajući način se primjenjuju pravila o državnim potporama.
+
+(8) Način i postupak davanja državnog jamstva iz stavaka 5., 6. i 7. ovoga članka, kao i uvjete koje će biti potrebno ispuniti kako bi se davanje državnog jamstva smatralo opravdanim te potrebnu dokumentaciju propisat će Vlada Republike Hrvatske uredbom na prijedlog ministarstva nadležnog za mirovinski sustav uz suglasnost ministarstva nadležnog za financije.«.
+
+*Ograničenja ulaganja mirovinskog fonda kategorije C s obzirom na neto vrijednost imovine prema klasama imovine*
+
+#### Članak 126.b
+
+(1) Ulaganje imovine mirovinskog fonda kategorije C podliježe sljedećim ograničenjima:
+
+1. najmanje 60 % neto vrijednosti imovine mirovinskog fonda mora biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a te Hrvatska narodna banka ili središnja banka druge države članice, odnosno države članice OECD-a odnosno javno međunarodno tijelo kojemu pripada većina država članica iz članka 125. stavka 1. točke 1. ovoga Zakona
+
+2. najviše 30 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice, odnosno države članice OECD-a, ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica iz članka 125. stavka 1. točke 2. ovoga Zakona
+
+3. najviše 10 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca uvrštene na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 3. i 9. ovoga Zakona
+
+4. najviše 10 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire i instrumente tržišta novca uvrštene na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona
+
+5. iznimno od točke 4. ovoga stavka, najviše 15 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire uvrštene na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona, ako se radi o pokrivenim obveznicama koje izdaju kreditne institucije koje imaju registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici, a kod kojih su u skupu za pokriće stambeno potrošački krediti osigurani hipotekama
+
+6. najviše 5 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u neuvrštene pokrivene obveznice koje izdaju kreditne institucije koje imaju registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici, a kod kojih su u skupu za pokriće stambeno potrošački krediti osigurani hipotekama iz članka 125. stavka 1. točke 5. ovoga Zakona
+
+7. najviše 10 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u:
+
+a) visoko likvidne prenosive vlasničke vrijednosne papire s ograničenom volatilnosti cijene, uvrštene na uređeno tržište, u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj financijski stabilno dioničko društvo sa sjedištem u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točke 6. ovoga Zakona ili
+
+b) udjele UCITS ETF-ova ili udjele odgovarajućih ETF-ova koji su odobrenje za rad dobili u državi članici OECD-a iz članka 125. stavka 1. točke 11. ovoga Zakona, te koji bi se mogli smatrati ekvivalentnima UCITS ETF-ovima da su odobrenje za rad dobili u Europskoj uniji, čiji je cilj prvenstveno i pretežito stjecanje posredne izloženosti prema prenosivim vlasničkim vrijednosnim papirima iz članka 125. stavka 1. točke 6. ovoga Zakona, a koji pretežito ulažu u visoko likvidne prenosive vlasničke vrijednosne papire u smislu točke a) ovoga stavka
+
+8. najviše 10 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u prenosive dužničke vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske iz članka 125. stavka 1. točke 10. ovoga Zakona
+
+9. najviše 20 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u udjele UCITS fondova i drugih otvorenih investicijskih fondova s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona, pod uvjetom da je cilj takvog ulaganja prvenstveno i pretežito stjecanje posredne izloženosti prema prenosivim dužničkim vrijednosnim papirima i instrumentima tržišta novca iz članka 125. stavka 1. točaka 1. do 5. ovoga Zakona, depozitima i/ili novcu na računima iz članka 125. stavka 1. točaka 13., 14., 16. i 17. ovoga Zakona
+
+10. najviše 20 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u depozite iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona, a iznimno najviše 30 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u depozite iz članka 125. stavka 1. točke 15. ovoga Zakona, s tim da kumulativno ulaganje u depozite iz članka 125. stavka 1. točaka 13. do 15. ovoga Zakona i u novac na računu iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona ne smije prijeći 30 % neto vrijednosti imovine mirovinskog fonda
+
+11. ulaganje u imovinu iz članka 125. stavka 1. točke 18. ovoga Zakona dozvoljeno je isključivo radi postizanja valutne usklađenosti i u svrhu zaštite imovine i obveza mirovinskog fonda
+
+12. imovina mirovinskog fonda ne smije biti uložena u:
+
+a) prenosive vlasničke vrijednosne papire iz članka 125. stavka 1. točaka 7. i 9. ovoga Zakona
+
+b) prenosive vlasničke i dužničke vrijednosne papire i poslovne udjele kojima se trguje ili koji se nude na platformama za skupno financiranje iz članka 125. stavka 1. točke 8. ovoga Zakona
+
+c) udjele ili dionice u otvorenim alternativnim investicijskim fondovima odnosno dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona
+
+d) nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona.
+
+(2) Kod ograničenja ulaganja propisanih u stavku 1. točkama 2., 3. i 4. ovoga članka u obzir se uzima i posredna izloženost stečena kroz ulaganja u udjele UCITS fondova i drugih otvorenih investicijskih fondova s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona.
+
+(3) Agencija će pravilnikom propisati uvjete koje moraju zadovoljiti visoko likvidni prenosivi vlasnički vrijednosni papiri iz stavka 1. točke 7. ovoga članka.«.
+
+#### Članak 47.
+
+Naslov iznad članka 127. mijenja se i glasi: »Ograničenja ulaganja u odnosu na neto vrijednost imovine mirovinskog fonda kategorija A i B prema jednom izdavatelju«.
+
+Članak 127. mijenja se i glasi:
+
+»(1) Najviše 20 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u pojedini prenosivi dužnički vrijednosni papir ili instrument tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a te Hrvatska narodna banka ili središnja banka druge države članice, odnosno države članice OECD-a odnosno javno međunarodno tijelo kojemu pripada većina država članica iz članka 125. stavka 1. točke 1. ovoga Zakona.
+
+(2) Najviše 5 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u pojedini prenosivi vrijednosni papir ili instrument tržišta novca jednog izdavatelja, osim izdavatelja iz članka 125. stavka 1. točke 1., 5. i 7. ovoga Zakona.
+
+(3) Najviše 3 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u pojedini prenosivi vrijednosni papir jednog izdavatelja iz članka 125. stavka 1. točke 5. i 7. ovoga Zakona.
+
+(4) Neovisno o pojedinačnim ograničenima iz stavaka 2., 3. i 11. ovoga članka, ista se neće kombinirati te se najviše 10 % neto vrijednosti imovine mirovinskog fonda smije ukupno uložiti u prenosive vrijednosne papire i instrumente tržišta novca jednog izdavatelja ili grupe izdavatelja koji čine povezana društva i financijske izvedenice iz članka 125. stavka 1. točke 18. ovoga Zakona sklopljene s tim izdavateljem ili grupom izdavatelja koji čine povezana društva.
+
+(5) Najviše 25 % neto vrijednosti imovine fonda ukupno može biti izloženo prema jednom infrastrukturnom projektu iz članka 125. stavka 1. točke 10. ovoga Zakona.
+
+(6) Najviše 5 % neto imovine mirovinskog fonda može biti uloženo u pojedini investicijski fond iz članka 125. stavka 1. točaka 11. i 12. ovoga Zakona.
+
+(7) Najviše 10 % neto imovine mirovinskog fonda može biti uloženo u UCITS fondove odnosno otvorene investicijske fondove s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona kojima upravlja isto društvo za upravljanje.
+
+(8) Najviše 10 % neto imovine mirovinskog fonda može biti uloženo u alternativne investicijske fondove iz članka 125. stavka 1. točke 12. ovoga Zakona kojima upravlja isto društvo za upravljanje.
+
+(9) Neovisno o ograničenjima iz stavaka 7. i 8. ovoga članka, najviše 10 % neto imovine mirovinskog fonda može ukupno biti uloženo u UCITS fondove odnosno otvorene investicijske fondove s javnom ponudom i alternativne investicijske fondove iz članka 125. stavka 1. točaka 11. i 12. ovoga Zakona kojima upravlja isto društvo za upravljanje.
+
+(10) Najviše 5 % neto vrijednosti imovine fonda ukupno može biti uloženo u depozite iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod jedne kreditne institucije odnosno jedne grupe kreditnih institucija.«.
+
+#### Članak 48.
+
+Iza članka 127. dodaje se naslov iznad članka i članak 127.a koji glase:
+
+*»Ograničenja ulaganja u odnosu na neto vrijednost imovine mirovinskog fonda kategorije C prema jednom izdavatelju*
+
+#### Članak 127.a
+
+(1) Najviše 20 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u pojedini prenosivi dužnički vrijednosni papir ili instrument tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a te Hrvatska narodna banka ili središnja banka druge države članice, odnosno države članice OECD-a odnosno javno međunarodno tijelo kojemu pripada većina država članica iz članka 125. stavka 1. točke 1. ovoga Zakona.
+
+(2) Najviše 3 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u pojedini prenosivi dužnički vrijednosni papir ili instrument tržišta novca jednog izdavatelja, osim izdavatelja iz članka 125. stavka 1. točke 1. ovoga Zakona.
+
+(3) Neovisno o pojedinačnim ograničenjima iz stavka 2. ovoga članka, ista se neće kombinirati te se najviše 5 % neto vrijednosti imovine mirovinskog fonda smije ukupno uložiti u prenosive dužničke vrijednosne papire i instrumente tržišta novca jednog izdavatelja ili grupe izdavatelja koji čine povezana društva i financijske izvedenice iz članka 125. stavka 1. točke 18. ovoga Zakona sklopljene s tim izdavateljem ili grupom izdavatelja koji čine povezana društva.
+
+(4) Najviše 3 % neto vrijednosti imovine mirovinskog fonda može biti uloženo u pojedini visoko likvidni prenosivi vrijednosni papir jednog izdavatelja iz članka 125. stavka 1. točke 6. ovoga Zakona.
+
+(5) Najviše 5 % neto imovine mirovinskog fonda može biti uloženo u pojedini UCITS ETF ili odgovarajući ETF koji je odobrenje za rad dobio u državi članici OECD-a iz članka 125. stavka 1. točke 11. ovoga Zakona, koji ispunjava uvjete iz članka 126.b stavka 1. točke 7. podtočke b) ovoga Zakona.
+
+(6) Najviše 10 % neto vrijednosti imovine fonda ukupno može biti izloženo prema jednom infrastrukturnom projektu iz članka 125. stavka 1. točke 10. ovoga Zakona.
+
+(7) Najviše 5 % neto imovine mirovinskog fonda može biti uloženo u pojedini UCITS ili otvoreni investicijski fond s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona koji ispunjavaju uvjete iz članka 126.b stavka 1. točke 9. ovoga Zakona.
+
+(8) Najviše 10 % neto imovine mirovinskog fonda može biti uloženo u UCITS fondove odnosno otvorene investicijske fondove s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona kojima upravlja isto društvo za upravljanje.
+
+(9) Najviše 5 % neto vrijednosti imovine fonda ukupno može biti uloženo u depozite iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod jedne kreditne institucije odnosno jedne grupe kreditnih institucija.«.
+
+#### Članak 49.
+
+Naslov iznad članka 128. mijenja se i glasi: »Ograničenja ulaganja mirovinskog fonda kategorija A i B radi sprječavanja bitnog utjecaja nad izdavateljima«.
+
+Članak 128. mijenja se i glasi:
+
+»(1) Mirovinsko društvo za račun pojedinog mirovinskog fonda kategorije A i kategorije B može steći najviše:
+
+1. 100 % jednog izdanja prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a te Hrvatska narodna banka ili središnja banka druge države članice, odnosno države članice OECD-a odnosno javno međunarodno tijelo kojemu pripada većina država članica iz članka 125. stavka 1. točke 1. ovoga Zakona
+
+2. 10 % jednog izdanja prenosivih dužničkih vrijednosnih papira:
+
+a) za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice, odnosno države članice OECD-a, ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica iz članka 125. stavka 1. točke 2. ovoga Zakona
+
+b) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 3. i 9. ovoga Zakona
+
+c) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona
+
+3. 10 % jednog izdanja instrumenata tržišta novca:
+
+a) za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice, odnosno države članice OECD-a, ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica iz članka 125. stavka 1. točke 2. ovoga Zakona
+
+b) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točke 3. i 9. ovoga Zakona
+
+c) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona
+
+4. 20 % jednog programa neuvrštenih pokrivenih obveznica koje izdaju kreditne institucije koje imaju registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici, a kod kojih su u skupu za pokriće stambeno potrošački krediti osigurani hipotekama iz članka 125. stavka 1. točke 5. ovoga Zakona
+
+5. 20 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa iz članka 125. stavka 1. točaka 6. i 9. ovoga Zakona uvrštenih na uređeno tržište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a, odnosno 20 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa iz članka 125. stavka 1. točke 7. ovoga Zakona primljenih u trgovanje na multilateralnoj trgovinskoj platformi čiji je izdavatelj dioničko društvo sa sjedištem u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a
+
+6. iznimno od točaka 2., 3. i 5. ovoga stavka, mirovinsko društvo za mirovinski fond može steći i više od 20 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja odnosno više od 10 % prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca jednog izdanja uz ispunjenje sljedećih uvjeta:
+
+a) da pojedino takvo ulaganje ne prelazi 5 % neto vrijednosti imovine mirovinskog fonda, osim u slučaju prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa primljenih u trgovanje na multilateralnoj trgovinskoj platformi iz članka 125. stavka 1. točke 7. ovoga Zakona gdje pojedino takvo ulaganje ne prelazi 3 % neto vrijednosti imovine mirovinskog fonda
+
+b) da ukupna takva ulaganja ne prelaze 15 % neto vrijednosti imovine mirovinskog fonda i
+
+c) da maksimalni udio nedavno izdanih prenosivih vrijednosnih papira i instrumenata tržišta novca koji nisu uvršteni na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala iz članka 125. stavka 1. točke 9. ovoga Zakona u ukupnim ulaganjima iz točke b) ovoga stavka ne prelazi 40 %
+
+7. 10 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja uvrštenih na uređeno tržište bez prava glasa iz članka 125. stavka 1. točaka 6. i 9. ovoga Zakona, a iznimno i do 100 % izdanja ako se takvim stjecanjem ne prelazi prag od 20 % u ukupno izdanom kapitalu tog izdavatelja kojeg čine dionice sa i bez prava glasa
+
+8. 100 % prenosivih vlasničkih vrijednosnih papira i/ili poslovnih udjela jednog izdavatelja koji se nude na platformama za skupno financiranje iz članka 125. stavka 1. točke 8. ovoga Zakona
+
+9. 100 % prenosivih vrijednosnih papira jednog izdavatelja koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona
+
+10. 20 % udjela u pojedinom UCITS fondu i/ili otvorenim investicijskom fondu s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona
+
+11. 20 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu iz članka 125. stavka 1. točke 12. ovoga Zakona
+
+12. iznimno od točke 11. ovoga stavka, mirovinsko društvo za mirovinski fond može steći najviše 40 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu iz članka 125. stavka 1. točke 12. ovoga Zakona, pod uvjetom da vrijednost pojedinog takvog ulaganja ne smije prijeći 3 % neto vrijednosti imovine mirovinskog fonda, a zbroj vrijednosti za sva takva ulaganja ne smije prijeći 10 % neto vrijednosti imovine mirovinskog fonda
+
+13. izloženost u vrijednosti do 7 % regulatornog kapitala jedne kreditne institucije iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona ulaganjem u depozite, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod te kreditne institucije
+
+14. iznimno od točke 13. ovoga stavka, mirovinsko društvo za mirovinski fond može steći izloženost do 10 % regulatornog kapitala jedne kreditne institucije iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona ulaganjem u depozite, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod te kreditne institucije, ali na rok ne duži od 14 dana.
+
+(2) Kod ograničenja ulaganja u udjele UCITS fondova i/ili otvorenih investicijskih fondova propisanih u stavku 1. točki 10. ovoga članka koji su osnovani u strukturi glavni-napajajući fond (engl. master-feeder), ista se računaju u odnosu na vrijednost imovine glavnog (engl. master) fonda.«.
+
+#### Članak 50.
+
+Iza članka 128. dodaju se naslovi iznad članaka i članci 128.a i 128.b koji glase:
+
+*»Ograničenja ulaganja mirovinskog fonda kategorije C radi sprječavanja bitnog utjecaja nad izdavateljima*
+
+#### Članak 128.a
+
+(1) Mirovinsko društvo za račun pojedinog mirovinskog fonda kategorije C može steći najviše:
+
+1. 100 % jednog izdanja prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a te Hrvatska narodna banka ili središnja banka druge države članice, odnosno države članice OECD-a odnosno javno međunarodno tijelo kojemu pripada većina država članica iz članka 125. stavka 1. točke 1. ovoga Zakona
+
+2. 10 % jednog izdanja prenosivih dužničkih vrijednosnih papira:
+
+a) za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice, odnosno države članice OECD-a, ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica iz članka 125. stavka 1. točke 2. ovoga Zakona
+
+b) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 3. i 9. ovoga Zakona
+
+c) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona
+
+3. 10 % jednog izdanja instrumenata tržišta novca:
+
+a) za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice, odnosno države članice OECD-a, ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica iz članka 125. stavka 1. točke 2. ovoga Zakona
+
+b) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 3. i 9. ovoga Zakona
+
+c) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona
+
+4. 15 % jednog programa neuvrštenih pokrivenih obveznica koje izdaju kreditne institucije koje imaju registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici, a kod kojih su u skupu za pokriće stambeno potrošački krediti osigurani hipotekama iz članka 125. stavka 1. točke 5. ovoga Zakona
+
+5. iznimno od točaka 2. i 3. ovoga stavka, mirovinsko društvo za mirovinski fond može steći i više od 10 % prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca jednog izdanja uz ispunjenje sljedećih uvjeta:
+
+a) da pojedino takvo ulaganje ne prelazi 3 % neto vrijednosti imovine mirovinskog fonda
+
+b) da ukupna takva ulaganja ne prelaze 10 % neto vrijednosti imovine mirovinskog fonda
+
+6. 10 % visoko likvidnih prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa iz članka 125. stavka 1. točke 6. ovoga Zakona
+
+7. 100 % prenosivih dužničkih vrijednosnih papira jednog izdavatelja koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona
+
+8. 20 % udjela u pojedinom UCITS fondu i/ili otvorenim investicijskom fondu s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona
+
+9. izloženost u vrijednosti do 7 % regulatornog kapitala jedne kreditne institucije iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona ulaganjem u depozite, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod te kreditne institucije
+
+10. iznimno od točke 8. ovoga stavka, mirovinsko društvo za mirovinski fond može steći izloženost do 10 % regulatornog kapitala jedne kreditne institucije iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona ulaganjem u depozite, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod te kreditne institucije, ali na rok ne duži od 14 dana.
+
+(2) Kod ograničenja ulaganja u udjele UCITS fondova i/ili otvorenih investicijskih fondova propisanih u stavku 1. točki 8. ovoga članka koji su osnovani u strukturi glavni-napajajući fond (engl. master-feeder), ista se računaju u odnosu na vrijednost imovine glavnog (engl. master) fonda.
+
+*Zbirna ograničenja ulaganja za mirovinske fondove kojima upravlja isto mirovinsko društvo radi sprječavanja bitnog utjecaja nad izdavateljima*
+
+#### Članak 128.b
+
+(1) Mirovinsko društvo može, zbirno, za račun obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno za račun obveznih mirovinskih fondova kojima upravlja, steći najviše:
+
+1. 100 % jednog izdanja prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a te Hrvatska narodna banka ili središnja banka druge države članice, odnosno države članice OECD-a odnosno javno međunarodno tijelo kojemu pripada većina država članica iz članka 125. stavka 1. točke 1. ovoga Zakona
+
+2. 15 % jednog izdanja prenosivih dužničkih vrijednosnih papira:
+
+a) za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice, odnosno države članice OECD-a, ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica iz članka 125. stavka 1. točke 2. ovoga Zakona
+
+b) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 3. i 9. ovoga Zakona
+
+c) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona
+
+3. 15 % jednog izdanja instrumenata tržišta novca:
+
+a) za koje jamči Republika Hrvatska, druga država članica, država članica OECD-a, Hrvatska narodna banka, ili središnja banka druge države članice, odnosno države članice OECD-a, ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica iz članka 125. stavka 1. točke 2. ovoga Zakona
+
+b) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji je izdavatelj jedinica lokalne i područne (regionalne) samouprave u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 3. i 9. ovoga Zakona
+
+c) uvrštenih na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala, čiji izdavatelj ima sjedište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a iz članka 125. stavka 1. točaka 4. i 9. ovoga Zakona
+
+4. 30 % jednog programa neuvrštenih pokrivenih obveznica koje izdaju kreditne institucije koje imaju registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici, a kod kojih su u skupu za pokriće stambeno potrošački krediti osigurani hipotekama iz članka 125. stavka 1. točke 5. ovoga Zakona
+
+5. 25 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa iz članka 125. stavka 1. točaka 6. i 9. ovoga Zakona uvrštenih na uređeno tržište u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a, odnosno 25 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa iz članka 125. stavka 1. točke 7. ovoga Zakona primljenih u trgovanje na multilateralnoj trgovinskoj platformi čiji je izdavatelj dioničko društvo sa sjedištem u Republici Hrvatskoj, drugoj državi članici ili državi članici OECD-a
+
+6. iznimno od točaka 2., 3. i 5. ovoga stavka, mirovinsko društvo za mirovinske fondove kojima upravlja može steći i više od 25 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja odnosno više od 15 % prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca jednog izdanja uz ispunjenje sljedećih uvjeta:
+
+a) da pojedino takvo ulaganje ne prelazi 5 % neto vrijednosti imovine svakog mirovinskog fonda zasebno, osim u slučaju prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa primljenih u trgovanje na multilateralnoj trgovinskoj platformi iz članka 125. stavka 1. točke 7. ovoga Zakona gdje pojedino takvo ulaganje ne prelazi 3 % neto vrijednosti imovine svakog mirovinskog fonda zasebno
+
+b) da ukupna takva ulaganja ne prelaze 15 % neto vrijednosti imovine svakog mirovinskog fonda zasebno i
+
+c) da maksimalni udio nedavno izdanih prenosivih vrijednosnih papira i instrumenata tržišta novca koji nisu uvršteni na uređeno tržište u smislu odredbi zakona kojim se uređuje tržište kapitala iz članka 125. stavka 1. točke 9. ovoga Zakona u ukupnim ulaganjima iz podtočke b) ove točke ne prelazi 40 %
+
+7. 15 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja uvrštenih na uređeno tržište bez prava glasa iz članka 125. stavka 1. točaka 6. i 9. ovoga Zakona, a iznimno i do 100 % izdanja ako se takvim stjecanjem ne prelazi prag od 25 % u ukupno izdanom kapitalu tog izdavatelja kojeg čine dionice sa i bez prava glasa
+
+8. 100 % prenosivih vlasničkih vrijednosnih papira i/ili poslovnih udjela jednog izdavatelja kojima se trguje ili koji se nude na platformama za skupno financiranje iz članka 125. stavka 1. točke 8. ovoga Zakona
+
+9. 100 % prenosivih vrijednosnih papira jednog izdavatelja koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona
+
+10. 25 % udjela u pojedinom UCITS fondu i/ili otvorenim investicijskom fondu s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona
+
+11. 25 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu iz članka 125. stavka 1. točke 12. ovoga Zakona
+
+12. iznimno od točke 11. ovoga stavka, mirovinsko društvo za mirovinske fondove kojima upravlja može steći najviše 40 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu iz članka 125. stavka 1. točke 12. ovoga Zakona, pod uvjetom da vrijednost pojedinog takvog ulaganja ne smije prijeći 3 % neto vrijednosti imovine svakog mirovinskog fonda zasebno, a zbroj vrijednosti za sva takva ulaganja ne smije prijeći 10 % neto vrijednosti imovine svakog mirovinskog fonda zasebno
+
+13. izloženost u vrijednosti do 10 % regulatornog kapitala jedne kreditne institucije iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona ulaganjem u depozite, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod te kreditne institucije
+
+14. iznimno od točke 13. ovoga stavka, mirovinsko društvo za mirovinske fondove može steći izloženost do 15 % regulatornog kapitala jedne kreditne institucije iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona ulaganjem u depozite, pri čemu se u obzir uzima i novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod te kreditne institucije, ali na rok ne duži od 14 dana.
+
+(2) Kod ograničenja ulaganja u udjele UCITS fondova i/ili otvorenih investicijskih fondova propisanih u stavku 1. točki 10. ovoga članka koji su osnovani u strukturi glavni-napajajući fond (engl. master-feeder), ista se računaju u odnosu na vrijednost imovine glavnog (engl. master) fonda.
+
+(3) Kada mirovinsko društvo za mirovinski fond, odnosno za mirovinske fondove kojima upravlja stječe više od 10 % vlasničkih vrijednosnih papira jednog izdavatelja ili kada ulaže u vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona, nadzorni odbor mirovinskog društva mora dati suglasnost na:
+
+1. metodologiju prepoznavanja, upravljanja, praćenja i objavljivanja sukoba interesa u vrijeme trajanja ulaganja između izdavatelja s jedne strane i mirovinskog društva i povezanih osoba mirovinskog društva s druge strane
+
+2. jasno definirane ciljeve ulaganja, strategiju kojom se namjeravaju postići ciljevi tog ulaganja, rokove i praćenje realizacije strategije i uspješnosti ostvarivanja ciljeva, kao i izlaznu strategiju u slučaju neispunjenja ili ispunjenja ciljeva ulaganja te
+
+3. precizna pravila korporativnog upravljanja i postupanja prema izdavatelju.
+
+(4) Kada mirovinsko društvo za mirovinski fond, odnosno mirovinske fondove kojima upravlja stječe više od 10 % jednog izdanja prenosivih dužničkih vrijednosnih papira ili jednog izdanja instrumenata tržišta novca iz članka 125. stavka 1. točaka 2., 3., 4. i 9. ovoga Zakona, nadzorni odbor mirovinskog društva mora dati suglasnost na jasno definirane ciljeve ulaganja, strategiju kojom se namjeravaju postići ciljevi tog ulaganja, rokove i praćenje realizacije strategije i uspješnosti ostvarivanja ciljeva, kao i izlaznu strategiju u slučaju neispunjenja ili ispunjenja ciljeva ulaganja.
+
+(5) Mirovinsko društvo mora u informativnom prospektu i na svojoj mrežnoj stranici objaviti i redovito ažurirati informacije o identificiranom sukobu interesa te o ostvarivanju strategije i ciljeva ulaganja mirovinskog fonda, odnosno mirovinskih fondova kojima upravlja, za ulaganja iznad 10 % vlasničkih vrijednosnih papira jednog izdavatelja, iznad 10 % izdanja prenosivih dužničkih vrijednosnih papira ili instrumenata tržišta novca iz članka 125. stavka 1. točaka 2., 3., 4. i 9. ovoga Zakona odnosno u vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona.
+
+(6) Ako mirovinsko društvo ne postupa u skladu sa stavcima 3., 4. ili 5. ovoga članka, Agencija može tom mirovinskom društvu privremeno zabraniti ili ograničiti ulaganja imovine mirovinskih fondova kojima upravlja iznad 10 % vlasničkih vrijednosnih papira jednog izdavatelja ili ulaganja imovine mirovinskim fondovima kojima upravlja iznad 10 % jednog izdanja prenosivih dužničkih vrijednosnih papira ili jednog izdanja instrumenata tržišta novca iz članka 125. stavka 1. točaka 2., 3., 4. i 9. ovoga Zakona, odnosno u vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona.
+
+(7) Agencija će pravilnikom propisati način ulaganja u imovinu iz stavaka 3. i 4. ovoga članka i članka 125. stavka 1. točke 10. ovoga Zakona, kao i način informiranja javnosti i Agencije o ulaganjima iz stavka 5. ovoga članka i članka 125. stavka 1. točke 10. ovoga Zakona.«.
+
+#### Članak 51.
+
+U članku 131. stavku 2. riječ: »prijeboj« zamjenjuje se riječju: »poravnanje«.
+
+#### Članak 52.
+
+U članku 132. stavak 2. mijenja se i glasi:
+
+»(2) Prilikom ugovaranja financijskih izvedenica moraju se uvažavati sljedeća ograničenja:
+
+1. ukupna izloženost prema temeljnoj imovini koja je stvorena kroz financijske izvedenice ne smije biti veća od 100 % neto vrijednosti imovine mirovinskog fonda, a ukupna izloženost generirana tehnikama i instrumentima koji se koriste u svrhu efikasnog upravljanja imovinom i obvezama ne smije biti veća od 30 % neto vrijednosti imovine mirovinskog fonda, pri čemu, ako mirovinsko društvo pri upravljanju imovinom mirovinskog fonda koristi tehnike i instrumente u svrhu efikasnog upravljanja imovinom i obvezama mirovinskog fonda, dužno je navedene transakcije uzeti u obzir prilikom izračunavanja ukupne izloženosti
+
+2. izloženost prema jednoj osobi na temelju izvedenih financijskih instrumenta ugovorenih s tom osobom, uključujući i razmijenjeni kolateral, ne smije prelaziti:
+
+a) 3 % neto vrijednosti imovine fonda, ako je druga ugovorna strana kreditna institucija iz članka 125. stavka 1. točke 13. podtočaka a) i b) ovoga Zakona ili
+
+b) 2 % neto vrijednosti imovine fonda, ako je druga ugovorna strana neki drugi subjekt iz članka 125. stavka 1. točke 18.b) ovoga Zakona
+
+3. ulaganjem u izvedenice ili druge instrumente iz članka 125. stavka 1. ovoga Zakona koji u sebi imaju ugrađenu izvedenicu, nije dozvoljeno stvoriti izloženost prema temeljnoj imovini kojom se prekoračuju ograničenja ulaganja propisana ovim Zakonom ili pravilnicima donesenim na temelju ovoga Zakona te se ne smije stvoriti izloženost prema imovini iz članka 134. ovoga Zakona.«.
+
+Iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
+
+»(3) Ograničenja ulaganja iz stavka 2. točke 1. ovoga članka neće se kombinirati i prema tome ukupna izloženost prema temeljnoj imovini koja je stvorena kroz financijske izvedenice i tehnike i instrumente korištene u svrhu efikasnog upravljanja imovinom i obvezama mirovinskog fonda ne smije prelaziti 100 % neto vrijednosti imovine mirovinskog fonda.
+
+(4) Kada se izloženost iz stavka 2. točke 2. ovoga članka odnosi na središnju drugu ugovornu stranu, mirovinsko društvo može primijeniti više limite od onih navedenih u stavku 2. točki 2. ovoga članka, a kod izloženosti uvrštenim financijskim izvedenicama, na izloženosti prema središnjoj drugoj ugovornoj strani limiti iz stavka 2. točke 2. ovoga članka neće se primjenjivati.
+
+(5) Smatrat će se da se izloženost stvara izravno prema središnjoj drugoj ugovornoj strani samo ako mirovinsko društvo za mirovinski fond koristi individualnu segregaciju u smislu članka 39. Uredbe (EU) 648/2012 ili razinu segregacije koja je jednakovrijedna individualnoj razini segregacije, ili iznimno, primjerenu razinu segregacije kada se radi o trećim zemljama u kojima obveze članova poravnanja nisu istovjetne ili usporedive s onima koje su propisane Uredbom (EU) 648/2012 ako mirovinsko društvo može dokazati da se time materijalno ne povećavaju rizici za imovinu mirovinskih fondova.«.
+
+#### Članak 53.
+
+Članak 133. mijenja se i glasi:
+
+»Agencija će pravilnikom dodatno pojasniti ograničenja za ulaganja, uvjete koji se primjenjuju na kategorije ugovornih strana iz članka 132. stavka 2. ovoga Zakona, postupanja s imovinom mirovinskih fondova te izračuna izloženosti iz ove glave Zakona i način izračuna ukupne izloženosti iz članka 132. stavka 2. točke 1. i stavka 3. ovoga Zakona, limite iz članka 132. stavka 4. ovoga Zakona koje mirovinsko društvo može primijeniti prema središnjoj drugoj ugovornoj strani te kriterije prema kojima se može smatrati da se za mirovinski fond postiže jednakovrijedna razina zaštite kao kod individualne segregacije ili primjerena razina segregacije u smislu članka 132. stavka 5. ovoga Zakona.«.
+
+#### Članak 54.
+
+U članku 134. iza točke 2. na kraju rečenice briše se točka i dodaje se točka 3. koja glasi:
+
+»3. u udjele UCITS fondova iz članka 125. stavka 1. točke 11. ovoga Zakona i/ili udjele ili dionice u otvorenim alternativnim investicijskim fondovima odnosno dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona kojima upravlja dioničar odnosno vlasnik udjela mirovinskog društva, odnosno bilo koja osoba koja je povezana osoba s prethodno navedenim osobama.«.
+
+#### Članak 55.
+
+U članku 135. stavak 6. mijenja se i glasi:
+
+»(6) Iznimno od stavaka 2. do 5. ovoga članka, u slučaju prekoračenja ograničenja ulaganja iz članka 128. stavka 1. točke 6. podtočke c) ili članka 128.b stavka 1. točke 6. podtočke c) ovoga Zakona vezano za prenosive vlasničke vrijednosne papire s pravom glasa koji nisu uvršteni na uređeno tržište, mirovinsko društvo dužno je uskladiti ulaganja u roku od jedne godine od trenutka prekoračenja ograničenja ulaganja, a u kojem razdoblju nisu dozvoljena daljnja stjecanja kojima bi se dodatno povećala prekoračenja ograničenja ulaganja iz članka 128. stavka 1. točke 6. podtočke c) ili članka 128.b stavka 1. točke 6. podtočke c) ovoga Zakona.«.
+
+U stavku 7. iza riječi: »Agencija može« dodaju se riječi: »na zahtjev mirovinskog društva«.
+
+#### Članak 56.
+
+U članku 138. stavku 1. iza točke 10. dodaje se nova točka 11. koja glasi:
+
+»11. neovisno o instrumentima u koje se ulaže imovina mirovinskog fonda, jasno i lako razumljivo objašnjenje profila rizičnosti mirovinskog fonda te sažeto, jasno i lako razumljivo objašnjenje rizika povezanih s ulaganjima i sa strukturom imovine mirovinskog fonda, uz tabelarni prikaz tih rizika«.
+
+Dosadašnje točke 11. do 15. postaju točke 12. do 16.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Informacije navedene u statutu moraju biti istinite, točne, potpune i dosljedne.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 57.
+
+Članak 141. mijenja se i glasi:
+
+»(1) Mirovinsko društvo će najkasnije do 30. travnja svake kalendarske godine izdati informativni prospekt mirovinskog fonda s informacijama do 31. prosinca prethodne godine.
+
+(2) Informativni prospekt mirovinskog fonda mora sadržavati najmanje sljedeće podatke o mirovinskom fondu:
+
+1. naziv mirovinskog fonda i naznaku svih kategorija mirovinskih fondova kojima društvo upravlja
+
+2. datum osnivanja mirovinskog fonda
+
+3. mjesto gdje je moguće dobiti, odnosno način objavljivanja statuta mirovinskog fonda ili dodatnih informacija o mirovinskom fondu te tromjesečnih i revidiranih godišnjih izvještaja
+
+4. podatke o revizorskom društvu i drugim pružateljima usluga mirovinskom fondu
+
+5. način konvertiranja uplaćenih doprinosa i prenesenih računa u obračunske jedinice, način i uvjete prijenosa sredstava s računa člana mirovinskog fonda u mirovinsko osiguravajuće društvo ili drugi mirovinski fond te okolnosti u kojima može doći do obustave obračuna
+
+6. prikaz izloženosti imovine mirovinskog fonda svake kategorije pojedinom riziku na 31. prosinca prethodne kalendarske godine, utjecaj i promjene navedenih izloženosti tijekom prethodne godine te način upravljanja navedenim rizicima
+
+7. način i vrijeme izračuna neto vrijednosti imovine mirovinskog fonda svake kategorije
+
+8. vrijeme, metodu i učestalost izračunavanja vrijednosti obračunske jedinice te način objavljivanja njihove vrijednosti
+
+9. način obračuna naknada za mirovinsko društvo:
+
+a) ulazne naknade
+
+b) naknade za upravljanje i
+
+c) naknade za izlaz u slučaju promjene mirovinskog fonda
+
+10. način obračuna naknade za depozitara
+
+11. opis, iznos i učestalost plaćanja dopuštenih naknada i troškova koji smiju teretiti mirovinski fond i člana mirovinskog fonda
+
+12. podatke o portfelju mirovinskog fonda s osvrtom na investicijske ciljeve i promjene u strukturi portfelja; naznake i obrazloženja odstupanja prinosa ulaganja iz članka 125.b ovoga Zakona, podatke iz članka 125. stavka 3. točke 1. ovoga Zakona o ulaganjima u prenosive vrijednosne papire i/ili poslovne udjele koji se nude na platformama za skupno financiranje iz članka 125. stavka 1. točke 8. ovoga Zakona; podaci iz članka 125. stavka 3. točke 2. ovoga Zakona o ulaganjima u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona
+
+13. opis ciljane strukture portfelja mirovinskog fonda
+
+14. rizike povezane s ulaganjima i sa strukturom mirovinskog fonda, uz tabelarni prikaz tih rizika i stupnja njihova utjecaja na mirovinski fond i mirovinsko društvo, kao i način upravljanja rizicima te profil rizičnosti, sklonost prema riziku i sposobnost nosivosti rizika
+
+15. popis svih ulaganja za mirovinski fond koja čine 1 % ili više od neto vrijednosti imovine mirovinskog fonda, s nazivom izdavatelja, količinom, vrijednošću (u eurima) na zadnji dan izvještajnog razdoblja, te ukupnom vrijednošću tog ulaganja u neto imovini fonda
+
+16. informacije o identificiranom sukobu interesa, ostvarivanju strategije i ciljeva ulaganja, u skladu s člankom 128.b stavkom 5. ovoga Zakona, za ulaganja iznad 10 % vlasničkih vrijednosnih papira jednog izdavatelja, iznad 10 % izdanja prenosivih dužničkih vrijednosnih papira ili instrumenata tržišta novca iz članka 125. stavka 1. točaka 2., 3., 4. i 9. ovoga Zakona odnosno za ulaganja u vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona
+
+17. način izračuna rezultata poslovanja mirovinskog fonda, a posebno deﬁniranje pojmova referentni prinos, zajamčeni prinos i realni prinos, te njihove vrijednosti za izvještajno razdoblje
+
+18. povijesni prinos mirovinskog fonda
+
+19. prikaz stope prometa i volumena mirovinskog fonda s posebnim obrazloženjem
+
+20. trajanje poslovne godine
+
+21. datum izdavanja informativnog prospekta.
+
+(3) Informativni prospekt mirovinskog fonda mora sadržavati najmanje sljedeće podatke o mirovinskom društvu:
+
+1. tvrtka, pravni oblik, sjedište mirovinskog društva i adresa uprave, ako ona nije ista kao sjedište, broj odobrenja za rad izdanog od Agencije, datum osnivanja, datum upisa u sudski registar
+
+2. organizacijska shema mirovinskog društva
+
+3. osobna imena i položaj članova uprave, prokurista i članova nadzornog odbora, odnosno upravnog odbora, njihovi kratki životopisi, uključujući i pojedinosti o njihovim glavnim djelatnostima izvan mirovinskog društva, ako su značajne za mirovinsko društvo i mirovinski fond
+
+4. iznos temeljnog kapitala mirovinskog društva te osobna imena ili naziv članova mirovinskog društva, pravni oblik i naznaku udjela članova u temeljnom kapitalu
+
+5. značajne odredbe ugovora sklopljenog s depozitarom koje mogu biti važne za članove mirovinskog fonda, osim onih koje se odnose na plaćanje naknada
+
+6. poslovne ciljeve i strategiju mirovinskog društva
+
+7. organizacijsku strukturu mirovinskog društva s jasnim linijama odgovornosti
+
+8. opis rizika povezanih s poslovanjem mirovinskog društva, uz tabelarni prikaz tih rizika i stupnja njihova utjecaja na Fond i mirovinsko društvo, kao i način upravljanja rizicima te profil rizičnosti, sklonost prema riziku i sposobnost nosivosti rizika
+
+9. načela i strategija ulaganja imovine mirovinskog društva
+
+10. opis odgovornosti i načina donošenja investicijskih odluka
+
+11. opis korporativnog upravljanja u proteklom razdoblju
+
+12. opis politike primitaka
+
+13. podaci o revizorskom društvu mirovinskog društva
+
+14. godišnji financijski izvještaji mirovinskog društva revidirani od strane ovlaštenog revizora
+
+15. informacija o tome jesu li članovi uprave i nadzornog odbora članovi fonda kojim upravlja mirovinsko društvo.
+
+(4) Informativni prospekt mirovinskog fonda mora sadržavati najmanje sljedeće podatke o depozitaru:
+
+1. tvrtka, pravni oblik, sjedište i adresa uprave depozitara, podaci i broj odobrenja nadležne institucije za obavljanje poslova depozitara, osnovna djelatnost depozitara
+
+2. izjava depozitara o načinu obavljanja skrbničkih poslova u inozemstvu
+
+3. kada je depozitar delegirao poslove iz članka 174. ovoga Zakona na treće osobe, podatke iz članka 185. ovoga Zakona te popis svih trećih osoba s kojima depozitar ima sklopljen ugovor o delegiranju poslova iz članka 172. stavka 1. točke 1. ovoga Zakona
+
+4. visina temeljnog kapitala depozitara.
+
+(5) Osim podataka iz stavaka 1. do 4. ovoga članka, informativni prospekt mirovinskog fonda mora sadržavati i osnovne podatke o Agenciji i Središnjem registru osiguranika, s objašnjenjima njihove uloge u mirovinskom sustavu, prikaz prava članova mirovinskog fonda propisanih Zakonom te mogućnosti promjene mirovinskog društva, kao i promjene kategorije mirovinskog fonda.
+
+(6) Mirovinsko društvo će informativni prospekt dati na uvid svakoj osobi koja zatraži članstvo u fondu kojim to društvo upravlja.
+
+(7) Mirovinsko društvo će informativni prospekt dostaviti svakom članu mirovinskog fonda na njegov zahtjev i besplatno, u pisanom obliku ili na trajnom mediju, ovisno o zahtjevu člana.
+
+(8) Agencija će pravilnikom propisati dodatni sadržaj i strukturu informativnog prospekta mirovinskog fonda.«.
+
+#### Članak 58.
+
+U članku 150. ispred riječi: »Mirovinsko« stavlja se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Agencija će pravilnikom propisati sadržaj i strukturu izvještaja iz stavka 1. ovoga članka.«.
+
+#### Članak 59.
+
+U članku 172. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ako obvezni i dobrovoljni mirovinski fondovi kojima upravlja isto mirovinsko društvo imaju različite depozitare, njihovi su depozitari dužni sklopiti sporazum o razmjeni svih informacija potrebnih da oba depozitara ispunjavaju zahtjeve i obveze određene ovim Zakonom i zakonom kojim se uređuje osnivanje i upravljanje dobrovoljnim mirovinskim fondovima, pri čemu se na razmjenu informacija ne primjenjuju odredbe drugih zakona koje bi mogle ograničiti opseg razmjene informacija.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 60.
+
+U članku 198. stavku 3. iza riječi: »Agencija« stavlja se zarez i dodaju riječi: »u pravilu,«.
+
+#### Članak 61.
+
+U članku 211. stavak 1. mijenja se i glasi:
+
+»(1) Na temelju provedenog postupka neposrednog ili posrednog nadzora, osim ostalih mjera i postupaka predviđenih ovim Zakonom, Agencija može subjektu nadzora izreći nadzorne mjere propisane ovim Zakonom u svrhu zakonitog i urednog poslovanja subjekata nadzora, zaštite interesa članova i zaštite javnog interesa, a u slučaju utvrđenih nezakonitosti i nepravilnosti podnijeti odgovarajuću prijavu nadležnom tijelu.«.
+
+#### Članak 62.
+
+U članku 213. stavku 1. točka 1. briše se.
+
+Dosadašnje točke 2. do 5. postaju točke 1. do 4.
+
+#### Članak 63.
+
+U članku 230. stavku 1. u uvodnoj rečenici riječi: »200.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »26.540,00 do 66.360,00 eura«.
+
+Točka 9. briše se.
+
+Dosadašnja točka 10. postaje točka 9.
+
+Dosadašnje točke 11. i 12., koje postaju točke 10. i 11., mijenjaju se i glase:
+
+»10. ako protivno odredbama članka 26. ovoga Zakona uloži svoja sredstva u imovinu različitu od one iz stavka 1. točaka 1., 2. i 3. istoga članka
+
+11. ako suprotno odredbi članka 26. stavka 3. ovoga Zakona iznos propisanog kapitala iz članka 9. ovoga Zakona održava u imovini različitoj od one iz članka 26. stavka 1. točaka 1. i 2. ovoga Zakona«.
+
+Dosadašnje točke 13. do 24. postaju točke 12. do 23.
+
+Iza dosadašnje točke 25., koja postaje točka 24., dodaje se nova točka 25. koja glasi:
+
+»25. ako mirovinsko društvo nije osiguralo raspolaganje potrebnim resursima i stručnim znanjima za učinkovito uključivanje rizika održivosti u sustav upravljanja rizicima iz članka 51. ovoga Zakona, protivno odredbi članka 48. stavka 6. ovoga Zakona«.
+
+U točki 35. iza riječi: »toga,« dodaju se riječi: »uključujući rizike održivosti,«.
+
+Iza točke 35. dodaju se nove točke 36. do 43. koje glase:
+
+»36. ako prilikom odabira ili kontinuiranog praćenja ulaganja imovine mirovinskog fonda u alternativna ulaganja iz članka 126. stavka 3. i članka 126.a stavka 3. ovoga Zakona nije koristilo visoki stupanj dužne pažnje odnosno osiguralo odgovarajuću stručnost i znanje o imovini u koju se ulaže i razumijevanje rizika ulaganja vezanih uz takvu imovinu, protivno članku 52.a stavku 1. ovoga Zakona
+
+37. ako nije uspostavilo, provodilo ili primjenjivalo pisane politike i postupke o primjeni dužne pažnje iz članka 52.a stavka 1. ovoga Zakona, protivno članku 52.a stavku 2. ovoga Zakona
+
+38. ako redovito ne preispituje i ažurira politike i postupke iz članka 52.a stavka 2. ovoga Zakona, protivno članku 52.a stavku 3. ovoga Zakona
+
+39. ako kod alternativnih ulaganja iz članka 126. stavka 3. i članka 126.a. stavka 3. ovoga Zakona učestalo ne provodi aktivnosti propisane člankom 52.a stavkom 4. ovoga Zakona
+
+40. ako kod alternativnih ulaganja iz članka 126. stavka 3. i članka 126.a. stavka 3. ovoga Zakona nije osiguralo dovoljno osoblja koje ima kvalifikacije, znanje i stručnost koji su potrebni za obavljanje poslova iz članka 52.a, protivno članku 52.a stavku 5. ovoga Zakona
+
+41. ako Agenciji u roku iz članka 52.a stavka 6. ovoga Zakona nije dostavilo izvješće o portfelju alternativnih ulaganja, protivno članku 52.a stavku 6. ovoga Zakona
+
+42. ako izvješće o portfelju alternativnih ulaganja koje je dostavilo Agenciji u skladu s člankom 52.a stavkom 6. ovoga Zakona ne sadrži minimalni set podataka propisan člankom 52.a stavkom 6. ovoga Zakona
+
+43. ako u sklopu izvješća o portfelju alternativnih ulaganja iz članka 52.a stavka 6. ovoga Zakona ne dostavi Agenciji sve podatke iz članka 52.a stavka 7. ovoga Zakona«.
+
+Dosadašnje točke 36. do 57. postaju točke 44. do 65.
+
+Iza dosadašnje točke 58., koja postaje točka 66., dodaju se nove točke 67., 68. i 69. koje glase:
+
+»67. ako iz imovine fonda izravno plati pokriće za troškove koji nisu vezani uz stjecanje ili prodaju imovine mirovinskih fondova, suprotno odredbi članka 87. stavka 2. ovoga Zakona
+
+68. ako za pokriće određenih troškova vezanih uz stjecanje ili prodaju imovine mirovinskih fondova iz članka 87. stavka 2. ovoga Zakona, iz imovine mirovinskog fonda plati pokriće za više od 50 % takvih nužnih troškova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika, a u iznosu koji prelazi postotke navedene u članku 87. stavku 2. ovoga Zakona, suprotno odredbi članka 87. stavka 2. ovoga Zakona
+
+69. ako u postupku vezanom uz stjecanje ili prodaju imovine mirovinskog fonda koristi usluge vanjskih suradnika, a ne osigura da vanjski suradnik ispunjava uvjete iz članka 87. stavka 5. ovoga Zakona«.
+
+U dosadašnjoj točki 59., koja postaje točka 70., iza riječi: »stavka 1.« dodaju se riječi: »i 2.«, a riječi: »stavku 2.« zamjenjuju se riječima: »stavku 6.«.
+
+Dosadašnje točke 60. do 66. postaju točke 71. do 77.
+
+Iza dosadašnje točke 67., koja postaje točka 78., dodaju se nove točke 79. i 80. koje glase:
+
+»79. ako kao vanjskog procjenitelja imenuje osobu koja ne ispunjava uvjete iz članka 111.a stavka 2. ovoga Zakona
+
+80. ako protivno članku 111.a stavku 7. ovoga Zakona o imenovanju vanjskog procjenitelja iz članka 111.a stavka 1. ovoga Zakona ne obavijesti Agenciju«.
+
+U dosadašnjoj točki 68., koja postaje točka 81., riječi: »milijun kuna« zamjenjuju se riječima: »132.722,81 eura«.
+
+Dosadašnja točka 69. postaje točka 82.
+
+Dosadašnja točka 70., koja postaje točka 83., mijenja se i glasi:
+
+»83. ako jamstveni polog ne drži na posebnom transakcijskom računu kod depozitara koji je zaštićen od ovrhe od strane trećih osoba ili ga ne uloži u trezorske zapise Republike Hrvatske, kratkoročne prenosive dužničke vrijednosne papire s rokom dospijeća kraćim od 18 mjeseci ili instrumente tržišta novca čiji je izdavatelj Republika Hrvatska, druga država članica ili država članica OECD-a, ili u izvedene financijske instrumente koji služe za zaštitu od rizika iznosa jamstvenog pologa, u skladu s člankom 112. stavkom 4. ovoga Zakona«.
+
+Dosadašnja točka 71. postaje točke 84.
+
+Iza dosadašnje točke 72., koja postaje točka 85., dodaju se nove točke 86. do 97. koje glase:
+
+»86. ako se imovina mirovinskog fonda kojim upravlja sastoji od prenosivih vlasničkih i dužničkih vrijednosnih papira i/ili poslovnih udjela koji se nude na platformama za skupno financiranje koje nisu u skladu sa smjernicama iz članka 125. stavka 6. točke d) ovoga Zakona, protivno članku 125. stavku 1. točki 8. ovoga Zakona
+
+87. ako na svojim mrežnim stranicama na istaknutom mjestu ne objavi dokument koji članovima mirovinskog fonda pojašnjava na koji način mogu ostvariti pravo ostanka u fondu kategorije A, rokove u kojima to mogu učiniti, potencijalne prednosti i rizike za člana fonda koji mogu proizaći iz donošenja takve odluke, te opis načina ostvarivanja takvog prava, u skladu s člankom 96. stavkom 9. ovoga Zakona
+
+88. ako se imovina mirovinskog fonda kojim upravlja sastoji od prenosivih vlasničkih i/ili dužničkih vrijednosnih papira koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske a koji ne ispunjavaju uvjete iz članka 125. stavka 1. točke 10. podtočaka a) i b) ovoga Zakona, protivno članku 125. stavku 1. točki 10. ovoga Zakona
+
+89. ako se imovina mirovinskog fonda kojim upravlja sastoji od udjela u fondovima koji su odobrenje za rad dobili u državi članici OECD-a, a provođenje nadzora nad tim fondovima i razina zaštite ulagatelja nisu istovjetni s onima propisanim zakonom kojim se uređuje osnivanje i rad otvorenih investicijskih fondova s javnom ponudom, protivno članku 125. stavku 1. točki 11. ovoga Zakona
+
+90. ako se imovina mirovinskog fonda kojim upravlja sastoji od udjela u fondovima koji su odobrenje za rad dobili u državi članici OECD-a, a provođenje nadzora nad tim fondovima i razina zaštite ulagatelja nisu istovjetni s onima propisanim zakonom kojim se uređuje osnivanje i upravljanje alternativnim investicijskim fondovima, protivno članku 125. stavku 1. točki 12. ovoga Zakona
+
+91. ako se imovina mirovinskog fonda kojim upravlja sastoji od depozita kod kreditne institucije koja ne ispunjava uvjete propisane člankom 125. stavkom 1. točkom 13. ovoga Zakona, a ne radi se o iznimci propisanoj člankom 125. stavkom 1. točkom 14. ovoga Zakona, protivno članku 125. stavku 1. točki 13. ovoga Zakona
+
+92. ako se imovina mirovinskog fonda kojim upravlja sastoji od novca na računu otvorenog kod kreditne institucije koja ne ispunjava uvjete propisane člankom 125. stavkom 1. točkom 13. ovoga Zakona, a ne radi se o iznimci propisanoj člankom 125. stavkom 1. točkom 17. ovoga Zakona, protivno članku 125. stavku 1. točki 16. ovoga Zakona
+
+93. ako se imovina mirovinskog fonda kojim upravlja sastoji od izvedenih financijskih instrumenata koji ne ispunjavaju uvjete propisane člankom 125. stavkom 1. točkom 18. ovoga Zakona, protivno članku 125. stavku 1. točki 18. ovoga Zakona
+
+94. ako se imovina mirovinskog fonda kojim upravlja sastoji od nekretnina koje ne zadovoljavaju uvjete propisane člankom 125. stavkom 1. točkom 19. ovoga Zakona, protivno članku 125. stavku 1. točki 19. ovoga Zakona
+
+95. ako je imovinu mirovinskog fonda kojim upravlja uložilo u imovinu iz članka 125. stavka 1. točaka 1. i 2. ovoga Zakona, a izdavatelj nema kreditni rejting za dugoročni dug izdan u stranoj valuti koji spada u investicijski razred prema ocjeni najmanje dvije globalno priznate rejting agencije, protivno članku 125. stavku 2. točki 1. ovoga Zakona ili nema kreditni rejting za dugoročni dug izdan u domaćoj valuti koji spada u investicijski razred prema ocjeni najmanje dvije globalno priznate rejting agencije, protivno članku 125. stavku 2. točki 2. ovoga Zakona
+
+96. ako je imovinu mirovinskog fonda kojim upravlja uložilo u prenosive vrijednosne papire i/ili poslovne udjele koji se nude na platformama za skupno financiranje iz članka 125. stavka 1. točke 8. ovoga Zakona, a u informativnom prospektu nisu navedeni podaci o subjektu u koji je imovina uložena, koliko je imovine uloženo, obrazloženje ulaganja, koji su prihodi ostvareni ili koji se prihodi očekuju u idućem razdoblju, protivno članku 125. stavku 3. točki 1. ovoga Zakona
+
+97. ako je imovinu mirovinskog fonda kojim upravlja uložilo u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona, a u informativnom prospektu nije navedeno koliko je imovine uloženo u nekretnine, obrazloženje takvih ulaganja, procjenu vrijednosti nekretnine, je li u iste uloženo izravno ili putem subjekta za posebnu namjenu, koji su prihodi ostvareni te koji se prihodi očekuju u idućem razdoblju, protivno članku 125. stavku 3. točki 2. ovoga Zakona«.
+
+Dosadašnje točke 73. do 79. brišu se.
+
+Dosadašnja točka 80., koja postaje točka 98., mijenja se i glasi:
+
+»98. ako je imovinu mirovinskog fonda, odnosno mirovinskih fondova kojima upravlja uložilo u vrijednosne papire ili instrumente tržišta novca koji u trenutku njihova stjecanja nisu uvršteni na uređeno tržište iz članka 125. stavka 1. točke 9. ovoga Zakona, a nije u roku od tri radna dana nakon provedenog ulaganja Agenciji dostavilo dokumentaciju propisanu člankom 125.a stavkom 1. ovoga Zakona«.
+
+Iza točke 98. dodaju se nove točke 99. do 120. i točke 121. do 152. koje glase:
+
+»99. ako je imovinu mirovinskog fonda uložilo u vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona, a nije u roku od tri radna dana nakon provedenog ulaganja dostavilo Agenciji obavijest o provedenom ulaganju i ispunjenju uvjeta iz članka 125. stavka 1. točke 10. ovoga Zakona, protivno članku 125.a stavku 3. ovoga Zakona
+
+100. ako je mirovinsko društvo za račun mirovinskog fonda, odnosno mirovinskih fondova kojima upravlja steklo više od 10 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja iz članka 125. stavka 1. točaka 6., 7. i 9. ovoga Zakona ili više od 10 % prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca jednog izdanja iz članka 125. stavka 1. točaka 2., 3., 4. i 9. ovoga Zakona, a nije u roku od tri radna dana nakon provedenog ulaganja obavijestilo Agenciju o provedenom ulaganju, protivno članku 125.a stavku 4. ovoga Zakona
+
+101. ako o ulaganjima iz članka 125.a stavaka 3. ili 4. ovoga Zakona u roku od tri radna dana od provedenog ulaganja ne objavi opće podatke o provedenom ulaganju i informacije iz članka 128.b stavka 5. ovoga Zakona, protivno članku 125.a stavku 5. ovoga Zakona
+
+102. ako je imovinu mirovinskog fonda kojim upravlja uložilo u nekretnine iz članka 125. stavka 1. točke 19. ovoga Zakona, a u roku od tri radna dana nakon provedenog ulaganja nije obavijestilo Agenciju i/ili Agenciji nije dostavilo dokaze o ispunjavanju uvjeta iz članka 125. stavka 1. točke 19. ovoga Zakona, protivno članku 125.a stavku 6. ovoga Zakona
+
+103. ako je imovinu mirovinskog fonda kojim upravlja uložilo u udjele, dionice ili poslovne udjele alternativnih investicijskih fondova s garancijom iz članka 126. stavka 1. točke 2. i/ili članka 126.a stavka 1. točke 2. ovoga Zakona, a u roku od tri radna dana nakon davanja obvezujuće ponude i nakon svake uplate u takav fond nije obavijestilo Agenciju i/ili Agenciji nije dostavilo dokaze o ispunjavanju uvjeta iz članka 126. stavka 4. ovoga Zakona odnosno članka 126.a stavka 4. ovoga Zakona, protivno članku 125.a stavku 7. ovoga Zakona
+
+104. ako mirovinsko društvo imovinu mirovinskog fonda kojim upravlja uloži u prenosive vlasničke vrijednosne papire iz članka 125. stavka 1. točaka 6., 7. i 9. ovoga Zakona, a za skupinu ulaganja ili cjelokupna ulaganja nije koristio jednu ili više referentnih vrijednosti koje priznaje Agencija, protivno članku 125.b stavku 1. ovoga Zakona
+
+105. ako u slučaju odstupanja prinosa ulaganja iz članka 125. stavka 1. točaka 6., 7. i 9. ovoga Zakona od prinosa odabrane referentne vrijednosti iz članka 125.b stavka 1. ovoga Zakona, nije u informativnom prospektu obrazložilo prinose i naznačilo i obrazložilo odstupanje prinosa takvih ulaganja u odnosu na prinos odabrane referentne vrijednosti iz članka 125.b stavka 1. ovoga Zakona, protivno članku 125.b stavku 2. ovoga Zakona
+
+106. ako je uložilo imovinu mirovinskog fonda kategorije A protivno ograničenjima ulaganja iz članka 126. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+107. ako je uložilo imovinu mirovinskog fonda kategorije B protivno ograničenjima ulaganja iz članka 126.a ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+108. ako je uložilo imovinu mirovinskog fonda kategorije C protivno ograničenjima ulaganja iz članka 126.b ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+109. ako je uložilo imovinu mirovinskog fonda kategorije A ili B u pojedini prenosivi vrijednosni papir ili instrument tržišta novca jednog izdavatelja ili grupe izdavatelja koji čine povezana društva i financijske izvedenice sklopljene s tim izdavateljem ili grupom izdavatelja koji čine povezana društva, protivno ograničenjima ulaganja iz članka 127. stavaka 1., 2., 3. ili 4. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+110. ako je uložilo imovinu mirovinskog fonda kategorije A ili B na način da je neto vrijednost imovine mirovinskog fonda ukupno izložena prema jednom infrastrukturnom projektu iz članka 125. stavka 1. točke 10. ovoga Zakona veća od 25 % , a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127. stavku 5. ovoga Zakona
+
+111. ako je uložilo imovinu mirovinskog fonda kategorije A ili B na način da je neto vrijednost imovine mirovinskog fonda uložena u pojedini investicijski fond iz članka 125. stavka 1. točaka 11. i 12. ovoga Zakona veća od 5 % , a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127. stavku 6. ovoga Zakona
+
+112. ako je uložilo imovinu mirovinskog fonda kategorije A ili B na način da je neto vrijednost imovine mirovinskog fonda uložena u UCITS fondove odnosno otvorene investicijske fondove s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona istog društva za upravljanje veća od 10 % , a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127. stavku 7. ovoga Zakona
+
+113. ako je uložilo imovinu mirovinskog fonda kategorije A ili B na način da je neto vrijednost imovine mirovinskog fonda uložena u alternativne investicijske fondove iz članka 125. stavka 1. točke 12. kojima upravlja isto društvo za upravljanje veća od 10 % , a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127. stavku 8. ovoga Zakona
+
+114. ako je uložilo imovinu mirovinskog fonda kategorije A ili B na način da je neto vrijednost imovine mirovinskog društva uložena u UCITS fondove odnosno otvorene investicijske fondove s javnom ponudom i alternativne investicijske fondove iz članka 125. stavka 1. točaka 11. i 12. ovoga Zakona kojima upravlja isto društva za upravljanje veća od 10 % , a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127. stavku 9. ovoga Zakona
+
+115. ako je uložilo imovinu mirovinskog fonda kategorije A ili B na način da je neto vrijednost imovine mirovinskog društva uložena u depozite iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona te novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod jedne kreditne institucije odnosno jedne grupe kreditnih institucija veća od 5 % , a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127. stavku 10. ovoga Zakona
+
+116. ako je uložilo imovinu mirovinskog fonda kategorije C u pojedini prenosivi vrijednosni papir ili instrument tržišta novca jednog izdavatelja ili grupe izdavatelja koji čine povezana društva i financijske izvedenice sklopljene s tim izdavateljem ili grupom izdavatelja koji čine povezana društva, protivno ograničenjima ulaganja iz članka 127.a stavaka 1., 2. ili 3. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+117. ako je uložilo imovinu mirovinskog fonda kategorije C na način da je neto vrijednost imovine mirovinskog fonda ukupno izložena prema jednom infrastrukturnom projektu iz članka 125. stavka 1. točke 10. ovoga Zakona veća od 10 %, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127.a stavku 6. ovoga Zakona
+
+118. ako je uložilo imovinu mirovinskog fonda kategorije C na način da je neto vrijednost imovine mirovinskog fonda uložena u pojedini visoko likvidni prenosivi vrijednosni papir jednog izdavatelja iz članka 125. stavka 1. točke 6. ovoga Zakona veća od 3 %, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127.a stavku 4. ovoga Zakona
+
+119. ako je uložilo imovinu mirovinskog fonda kategorije C na način da je neto vrijednost imovine mirovinskog fonda uložena u pojedini UCITS ETF ili odgovarajući ETF koji je odobrenje za rad dobio u državi članici OECD-a iz članka 125. stavka 1. točke 11. ovoga Zakona, koji ispunjava uvjete iz članka 126.b stavka 1. točke 7. podtočke b) ovoga Zakona, veća od 5 %, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127.a stavku 5. ovoga Zakona
+
+120. ako je uložilo imovinu mirovinskog fonda kategorije C na način da je neto vrijednost imovine mirovinskog fonda uložena u pojedini UCITS ili otvoreni investicijski fond s javnom ponudom fond iz članka 125. stavka 1. točke 11. ovoga Zakona veća od 5 %, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127.a stavku 7. ovoga Zakona
+
+121. ako je uložilo imovinu mirovinskog fonda kategorije C na način da je neto vrijednost imovine mirovinskog fonda uložena u UCITS fondove odnosno otvorene investicijske fondove s javnom ponudom iz članka 125. stavka 1. točke 11. ovoga Zakona kojim upravlja isto društvo za upravljanje veća od 10 %, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127.a stavku 8. ovoga Zakona
+
+122. ako je uložilo imovinu mirovinskog fonda kategorije C na način da je neto vrijednost imovine mirovinskog društva uložena u depozite iz članka 125. stavka 1. točaka 13. i 14. ovoga Zakona te novac na računima iz članka 125. stavka 1. točaka 16. i 17. ovoga Zakona kod jedne kreditne institucije odnosno jedne grupe kreditnih institucija veća od 5 %, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona, protivno članku 127.a stavku 9. ovoga Zakona
+
+123. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja u više od 10 % jednog izdanja prenosivih dužničkih vrijednosnih papira protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 2. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+124. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja u više od 10 % jednog izdanja instrumenata tržišta novca protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 3. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+125. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja u više od 20 % jednog programa neuvrštenih pokrivenih obveznica protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 4. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+126. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja u više od 20 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 5. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+127. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 6. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+128. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 7. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+129. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja u više od 20 % udjela u pojedinom UCITS fondu i/ili otvorenim investicijskom fondu s javnom ponudom protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 10. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+130. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja u više od 20 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 11. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+131. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja u više od 40 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 12. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+132. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja na način da je postiglo izloženost višu od 7 % regulatornog kapitala jedne kreditne institucije protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 13. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+133. ako je uložilo imovinu pojedinog mirovinskog fonda kategorije A i B kojim upravlja na način da je postiglo izloženost višu od 10 % regulatornog kapitala jedne kreditne institucije protivno ograničenjima ulaganja iz članka 128. stavka 1. točke 14. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+134. ako je uložilo imovinu mirovinskog fonda kategorije C kojima upravlja u više od 10 % jednog izdanja prenosivih dužničkih vrijednosnih papira protivno ograničenjima ulaganja iz članka 128.a stavka 1. točke 2. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3. ili 4. ovoga Zakona
+
+135. ako je uložilo imovinu mirovinskog fonda kategorije C kojim upravlja više od 10 % jednog izdanja instrumenata tržišta novca protivno ograničenjima ulaganja iz članka 128.a stavka 1. točke 3. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+136. ako je uložilo imovinu mirovinskog fonda kategorije C kojim upravlja u više od 15 % jednog programa neuvrštenih pokrivenih obveznica protivno ograničenjima ulaganja iz članka 128.a stavka 1. točke 4. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+137. ako je uložilo imovinu mirovinskog fonda kategorije C kojim upravlja protivno ograničenjima ulaganja iz članka 128.a stavka 1. točke 5. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+138. ako je uložilo imovinu mirovinskog fonda kategorije C kojim upravlja u više od 10 % visoko likvidnih prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa protivno ograničenjima ulaganja iz članka 128.a stavka 1. točke 6. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+139. ako je uložilo imovinu mirovinskog fonda kategorije C kojim upravlja u više od 20 % udjela u pojedinom UCITS fondu i/ili otvorenim investicijskom fondu s javnom ponudom protivno ograničenjima ulaganja iz članka 128.a stavka 1. točke 8. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+140. ako je uložilo imovinu mirovinskog fonda kategorije C kojim upravlja na način da je postiglo izloženost višu od 7 % regulatornog kapitala jedne kreditne institucije protivno ograničenjima ulaganja iz članka 128.a stavka 1. točke 9. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+141. ako je uložilo imovinu mirovinskog fonda kategorije C kojim upravlja na način da je postiglo izloženost višu od 10 % regulatornog kapitala jedne kreditne institucije protivno ograničenjima ulaganja iz članka 128.a stavka 1. točke 10. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+142. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja u više od 15 % jednog izdanja prenosivih dužničkih vrijednosnih papira protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 2. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+143. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja u više od 15 % jednog izdanja instrumenata tržišta novca protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 3. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+144. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja u više od 30 % jednog programa neuvrštenih pokrivenih obveznica protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 4. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+145. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja u više od 25 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja s pravom glasa protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 5. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+146. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 6. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+147. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 7. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+148. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja u više od 25 % udjela u pojedinom UCITS fondu i/ili otvorenim investicijskom fondu s javnom ponudom protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 10. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+149. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja u više od 25 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 11. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+150. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja u više od 40 % jednog izdanja dionica, udjela ili poslovnih udjela u pojedinom alternativnom investicijskom fondu protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 12. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+151. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja na način da je postiglo izloženost višu od 10 % regulatornog kapitala jedne kreditne institucije protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 13. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona
+
+152. ako je uložilo imovinu obveznih i dobrovoljnih mirovinskih fondova kojima upravlja odnosno imovinu obveznih mirovinskih fondova kojima upravlja na način da je postiglo izloženost višu od 15 % regulatornog kapitala jedne kreditne institucije protivno ograničenjima ulaganja iz članka 128.b stavka 1. točke 14. ovoga Zakona, a nije uskladilo ulaganja fonda u roku iz članka 135. stavaka 2., 3., 4., 7. ili 8. ovoga Zakona«.
+
+Dosadašnje točke 81., 82. i 83. brišu se.
+
+Dosadašnje točke 84. do 89. postaju točke 153. do 158.
+
+U dosadašnjoj točki 90., koja postaje točka 159., riječ: »prijeboj« zamjenjuje se riječju: »poravnanje«.
+
+Dosadašnja točka 91. postaje točka 160.
+
+Dosadašnja točka 92., koja postaje točka 161., mijenja se i glasi:
+
+»161. koje protivno članku 132. stavku 1. točki 1. ovoga Zakona financijske izvedenice ne koristi u svoje ime i za račun mirovinskog fonda jedino u svrhu zaštite imovine i obveza mirovinskog fonda ili protivno članku 132. stavku 1. točki 2. ovoga Zakona financijske izvedenice ne koristi u svoje ime i za račun mirovinskog fonda jedino u svrhu efikasnog upravljanja imovinom i obvezama mirovinskog fonda«.
+
+Dosadašnje točke 93., 94. i 95. postaju točke 162., 163. i 164.
+
+Iza dosadašnje točke 96., koja postaje točka 165., dodaje se točka 166. koja glasi:
+
+»166. ako je uložio imovinu mirovinskog fonda u udjele UCITS fondova iz članka 125. stavka 1. točke 11. ovoga Zakona i/ili udjele ili dionice u otvorenim alternativnim investicijskim fondovima odnosno dionice ili poslovne udjele u zatvorenim alternativnim investicijskim fondovima iz članka 125. stavka 1. točke 12. ovoga Zakona kojima upravlja dioničar odnosno vlasnik udjela mirovinskog društva, odnosno bilo koja osoba koja je povezana osoba s prethodno navedenim osobama, protivno članku 134. točki 3. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 135. stavaka 2., 3 ili 4. ovoga Zakona«.
+
+Dosadašnje točke 97. do 120. postaju točke 167. do 190.
+
+U stavku 2. riječi: »20.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »2650,00 do 6630,00 eura«.
+
+#### Članak 64.
+
+U članku 231. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+Dodaju se nove točke 1. i 2. koje glase:
+
+»1. ako sazna za stjecanje ili otpuštanje kvalificiranog udjela u mirovinskom društvu koji će izazvati prelazak ili smanjenje ispod 10 %, 20 %, 30 % ili 50 %, a o tome nije bez odgode obavijestilo Agenciju, protivno članku 20.b stavku 1. ovoga Zakona
+
+2. ako najkasnije do 31. ožujka tekuće godine nije dostavilo Agenciji popis imena/naziva svih dioničara, kao i imatelja kvalificiranih udjela s veličinom pojedinih udjela, sa stanjem na dan 1. siječnja tekuće godine, protivno članku 20.b stavku 2. ovoga Zakona«.
+
+Dosadašnje točke 1. do 15. postaju točke 3. do 17.
+
+Dosadašnja točka 16., koja postaje točka 18., mijenja se i glasi:
+
+»18. ako predloži ili imenuje člana nadzornog odbora u društvo u koje je uložilo imovinu mirovinskog fonda, a on nema odgovarajuće stručne kvalifikacije i iskustvo, protivno odredbi članka 49. stavka 6. ovoga Zakona«.
+
+Iza točke 18. dodaje se nova točka 19. koja glasi:
+
+»19. ako pri utvrđivanju vrsta sukoba interesa koji bi mogli naštetiti interesima mirovinskog fonda nije uključilo i sukobe interesa koji bi mogli nastati zbog uključivanja rizika održivosti u njihove procese, sustave i unutarnje kontrole, suprotno odredbi članka 49. stavka 9. ovoga Zakona«.
+
+Dosadašnja točka 17. postaje točka 20.
+
+Iza dosadašnje točke 18., koja postaje točka 21., dodaju se nove točke 22. i 23. koje glase:
+
+»22. ako nije u sustav upravljanja rizicima u skladu s vrstom, opsegom i složenosti svojega poslovanja uključilo rizike održivosti, suprotno odredbi članka 51. stavka 5. ovoga Zakona
+
+23. ako politika upravljanja rizicima koju je donijelo mirovinsko društvo ne obuhvaća sve postupke koji su potrebni da bi mirovinsko društvo, za svaki mirovinski fond kojim upravlja, moglo procijeniti izloženost pojedinog mirovinskog fonda tržišnom riziku, riziku likvidnosti, riziku koncentracije uključujući i onaj koji proizlazi iz geografske diverzifikacije portfelja, riziku održivosti i riziku druge ugovorne strane, kao i izloženost mirovinskog fonda svim drugim rizicima, uključujući operativni rizik, koji mogu biti značajni za svaki mirovinski fond kojim mirovinsko društvo upravlja, suprotno odredbi članka 51. stavka 6. ovoga Zakona«.
+
+Dosadašnje točke 19. do 22. postaju točke 24. do 27.
+
+U dosadašnjoj točki 23. koja postaje točka 28. riječi: »procedure nagrađivanja« zamjenjuju se riječima: »postupke vezane uz primitke«.
+
+U dosadašnjoj točki 24. koja postaje točka 29. riječ: »nagrađivanja« zamjenjuje se riječju: »primitaka«.
+
+U dosadašnjoj točki 25. koja postaje točka 30. riječi: »procedure nagrađivanja« zamjenjuju se riječima: »postupke vezane uz primitke«.
+
+U dosadašnjoj točki 26. koja postaje točka 31. riječi: »stavku 8.« zamjenjuje se riječima: »stavku 8. i 9.«.
+
+U dosadašnjoj točki 27. koja postaje točka 32. broj: »10.« zamjenjuje se brojem: »11.«.
+
+Iza točke 32., dodaju se nove točke 33. do 40. koje glase:
+
+»33. ako nije na svojim mrežnim stranicama objavilo informacije o svojim politikama u vezi s uključivanjem rizika održivosti u svoj proces odlučivanja o ulaganjima obveznih mirovinskih fondova kojima upravlja, protivno članku 56.a ovoga Zakona
+
+34. ako nije na svojim mrežnim stranicama objavilo informacije o štetnim učincima odluka o ulaganjima na čimbenike održivosti, protivno članku 56.b stavku 1. ovoga Zakona
+
+35. ako nije u statut mirovinskog fonda kojim upravlja uključilo opis načina na koji su rizici održivosti uključeni u donošenje odluke o ulaganju imovine mirovinskih fondova kojima upravlja i opis rezultata procjene vjerojatnih učinaka rizika održivosti na prinose mirovinskih fondova kojima upravlja, protivno članku 56.d stavku 1. ovoga Zakona
+
+36. ako kroz ulaganja mirovinskog fonda kojim upravlja promiče okolišna ili socijalna obilježja, ili kombinacije tih obilježja, a u statutu mirovinskog fonda nije objavio sve informacije iz članka 56.f stavka 1. točaka a) do c) ovoga Zakona
+
+37. ako u statutu mirovinskog fonda koji ima za cilj ulagati u održiva ulaganja te je utvrđen indeks kao referentna vrijednost nije objavio sve informacije iz članka 56.g stavka 1. točaka a) i b) ovoga Zakona
+
+38. ako za mirovinske fondove iz članka 56.f stavka 1. ili članka 56.g stavaka 1., 2. i 3. ovoga Zakona na svojim mrežnim stranicama ne objavi sve informacije iz članka 56.h stavka 1. točaka a) do d) ovoga Zakona
+
+39. ako za mirovinske fondove iz članka 56.f stavka 1. ili članka 56.g stavaka 1., 2. i 3. ovoga Zakona u godišnjem izvješću iz članka 145. ovoga Zakona ne uključi sve primjenjive informacije iz članka 56.i stavka 1. točaka a) i b) ovoga Zakona.
+
+40. ako nije osiguralo da promidžbeni sadržaji mirovinskog društva iz članka 114. ovoga Zakona nisu u suprotnosti s informacijama objavljenima na temelju članka 56.a do 56.j. ovoga Zakona, protivno odredbi članka 56.k ovoga Zakona«.
+
+Dosadašnje točke 28. do 37. postaju točke 41. do 50.
+
+Iza točke 38., koja postaje točka 51., dodaje se nova točka 52. koja glasi:
+
+»52. ako na svojim mrežnim stranicama na istaknutom mjestu ne objavi dokument iz članka 96. stavka 9. ovoga Zakona«
+
+Dosadašnje točke 39. do 65. postaju točke 53. do 79.
+
+U stavku 2. riječi: »10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »1320,00 do 2650,00 eura«.
+
+#### Članak 65.
+
+U članku 232. stavku 1. u uvodnoj rečenici riječi: »200.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »26.540,00 do 66.360,00 eura«.
+
+Iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2. nije s depozitarom drugog mirovinskog fonda kojim upravlja isto mirovinsko društvo sklopio sporazum o razmjeni informacija, protivno članku 172. stavku 2. ovoga Zakona«.
+
+U dosadašnjoj točki 2., koja postaje točka 3., broj: »2.« zamjenjuje se brojem: »3.«.
+
+Dosadašnje točke 3. do 20. postaju točke 4. do 21.
+
+U stavku 2. riječi: »20.000,00 do 50.000,00 kuna« zamjenjuju se i riječima: »2650,00 do 6630,00 eura«.
+
+#### Članak 66.
+
+U članku 233. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »1320,00 do 2650,00 eura«.
+
+#### Članak 67.
+
+U članku 234. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+U točki 1. riječi: »na dan raspodjele sredstava« brišu se.
+
+Iza točke 4. dodaje se nova točka 5. koja glasi:
+
+»5. ne obavijesti člana mirovinskog fonda prije ispunjenja uvjeta iz članka 96. stavka 3. ovoga Zakona o mogućnosti iz članka 96. stavka 3. ovoga Zakona, protivno odredbi članka 96. stavka 4. ovoga Zakona«.
+
+Točka 5. postaje točka 6.
+
+Iza dosadašnje točke 6., koja postaje točka 7., dodaje se nova točka 8. koja glasi:
+
+»8. ako članu mirovinskog fonda za potrebe donošenje odluke o izboru mirovine nije učinio dostupnim informativni izračun mirovine, protivno članku 104. stavku 6. ovoga Zakona«.
+
+Dosadašnje točke 7. do 18. postaju točke 9. do 20.
+
+U stavku 2. riječi: »10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »1320,00 do 2650,00 eura«.
+
+#### Članak 68.
+
+U članku 235. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 do 3980,00 eura«.
+
+#### Članak 69.
+
+U članku 236. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+Iza točke 1. dodaje se nova točka 2. i točka 3. koje glase:
+
+»2. ako kao imatelj kvalificiranog udjela u mirovinskom društvu namjerava otpustiti kvalificirani udio, a nije Agenciju najmanje sedam dana unaprijed obavijestila o otpuštanju udjela, protivno odredbi članka 20.a stavka 1. ovoga Zakona
+
+3. ako kao imatelj kvalificiranog udjela u mirovinskom društvu namjerava smanjiti svoj udio na način da udio u kapitalu ili glasačkim pravima te osobe padne ispod praga od 10 %, 20 %, 30 % ili 50 %, ili da mirovinsko društvo prestaje biti ovisno društvo te osobe, a nije Agenciju najmanje sedam dana unaprijed obavijestila o tome, protivno odredbi članka 20.a stavka 2. ovoga Zakona«.
+
+Dosadašnja točka 2. postaje točka 4.
+
+U stavku 2. riječi: »10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »1320,00 do 2650,00 eura«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Novčanom kaznom u iznosu od 2650,00 do 6630,00 eura kaznit će se za prekršaj fizička osoba:
+
+1. ako kao imatelj kvalificiranog udjela u mirovinskom društvu namjerava otpustiti kvalificirani udio, a nije Agenciju najmanje sedam dana unaprijed obavijestila o otpuštanju udjela, protivno odredbi članka 20.a stavka 1. ovoga Zakona
+
+2. ako kao imatelj kvalificiranog udjela u mirovinskom društvu namjerava smanjiti svoj udio na način da udio u kapitalu ili glasačkim pravima te osobe padne ispod praga od 10 %, 20 %, 30 % ili 50 %, ili da mirovinsko društvo prestaje biti ovisno društvo te osobe, a nije Agenciju najmanje sedam dana unaprijed obavijestila o tome, protivno odredbi članka 20.a stavka 2. ovoga Zakona
+
+3. ako kao relevantna osoba mirovinskog društva u funkciji člana nadzornog odbora ili drugog tijela izdavatelja koristi informacije kojima raspolaže o izdavatelju na temelju obavljanja takve funkcije u izdavatelju na način da bi formalno ili neformalno, posredno ili neposredno utjecala na osobe u mirovinskom društvu koje donose investicijske odluke vezane uz vrijednosne papire tog izdavatelja, protivno odredbi članka 53. stavka 3. ovoga Zakona.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 70.
+
+(1) Vlada Republike Hrvatske će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti uredbu iz članka 125. stavka 7. koji je izmijenjen člankom 43. ovoga Zakona.
+
+(2) Vlada Republike Hrvatske će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti uredbu iz članka 126. stavka 8. koji je izmijenjen člankom 45. ovoga Zakona i članka 126.a stavka 8. koji je dodan člankom 46. ovoga Zakona.
+
+(3) Upravno vijeće Agencije će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike iz članka 56.b stavka 5., članka 56.f stavka 5., članka 56.g stavka 8., članka 56.h stavka 3. i članka 56.i stavka 3. koji su dodani člankom 27. ovoga Zakona, pravilnik iz članka 65.a stavka 7. koji je dodan člankom 31. ovoga Zakona, pravilnik iz članka 104. stavka 21. koji je dodan člankom 37. ovoga Zakona te pravilnik iz članka 150. stavka 2. koji je dodan člankom 58. ovoga Zakona.
+
+(4) Upravno vijeće Agencije će u roku od 36 mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 56.b stavka 6. koji je dodan člankom 27. ovoga Zakona.
+
+(5) Upravno vijeće Agencije će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona donijeti smjernice iz članka 125. stavka 6. koji je izmijenjen člankom 43. ovoga Zakona.
+
+#### Članak 71.
+
+(1) Upravno vijeće Agencije će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona uskladiti sljedeće pravilnike s odredbama ovoga Zakona:
+
+– Pravilnik o strukturi i sadržaju financijskih izvještaja i drugih izvještaja mirovinskog društva koje upravlja obveznim mirovinskim fondovima (»Narodne novine«, br. 104/17., 118/21. i 146/22.)
+
+– Pravilnik o promidžbi, informativnom prospektu i ostalim informacijama za članove obveznih mirovinskih fondova (»Narodne novine«, br. 2/20. i 80/20.)
+
+– Pravilnik o postupku naknade štete članovima obveznog mirovinskog fonda i/ili obveznom mirovinskom fondu (»Narodne novine«, br. 101/14., 39/17. i 146/22.)
+
+– Pravilnik o kapitalu mirovinskih društava koja upravljaju obveznim mirovinskim fondovima (»Narodne novine«, br. 60/14., 39/17. i 146/22.) i
+
+– Pravilnik o uvjetima za članstvo u upravi i nadzornom odboru mirovinskog društva za upravljanje obveznim mirovinskim fondovima (»Narodne novine«, br. 52/14., 39/17. i 112/19.).
+
+(2) Upravno vijeće Agencije će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona uskladiti sljedeće pravilnike s odredbama ovoga Zakona:
+
+– Pravilnik o organizacijskim zahtjevima za mirovinsko društvo za upravljanje obveznim mirovinskim fondovima (»Narodne novine«, br. 103/14., 39/17. i 2/20.)
+
+– Pravilnik o dozvoljenim ulaganjima i dodatnim ograničenjima ulaganja obveznog mirovinskog fonda (»Narodne novine«, br. 2/20., 15/20. i 24/21.)
+
+– Pravilnik o utvrđivanju neto vrijednosti imovine i vrijednosti obračunske jedinice obveznog mirovinskog fonda (»Narodne novine«, br. 128/17., 114/18., 2/20., 146/22. i 139/23.)
+
+– Pravilnik o godišnjim, tromjesečnim i drugim izvještajima obveznog mirovinskog fonda (»Narodne novine«, br. 2/20., 98/20., 24/21. i 146/22.)
+
+– Pravilnik o izdavanju odobrenja za rad te stjecanju dionica ili poslovnih udjela mirovinskog društva za upravljanje obveznim mirovinskim fondovima (»Narodne novine«, br. 52/14. i 39/17.) i
+
+– Pravilnik o troškovima koji se mogu plaćati iz imovine obveznog mirovinskog fonda te načinu i sadržaju izračuna pokazatelja ukupnih troškova obveznog mirovinskog fonda (»Narodne novine«, br. 9/19.).
+
+(3) Do stupanja na snagu pravilnika iz stavaka 1. i 2. ovoga članka na snazi ostaju provedbeni propisi doneseni na temelju Zakona o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14., 93/15., 64/18., 115/18. i 58/20.).
+
+#### Članak 72.
+
+(1) Mirovinsko društvo dužno je u roku od šest mjeseci od stupanja na snagu ovoga Zakona uskladiti se s obvezama iz članka 16. ovoga Zakona, članka 46. stavaka 2. do 6. koji su dodani člankom 17. ovoga Zakona, članka 48. stavka 1. točke 12. koja je dodana člankom 19. ovoga Zakona, članka 51. stavaka 5. i 6. koji su dodani člankom 21. ovoga Zakona, članka 52.a koji je dodan člankom 23. ovoga Zakona i članka 104. stavaka 8. do 16. koji su dodani člankom 37. ovoga Zakona te uskladiti statute mirovinskih fondova kojima upravljaju s odredbama ovoga Zakona.
+
+(2) Mirovinsko društvo dužno je u roku od šest mjeseci od dana stupanja na snagu pravilnika iz članka 70. stavaka 2. i 3. ovoga Zakona uskladiti se s obvezama iz članaka 56.a do 56.k koji su dodani člankom 27. ovoga Zakona.
+
+(3) Iznimno od stavka 2. ovoga članka, mirovinsko društvo dužno je uskladiti se s obvezama iz članka 56.e stavka 1. koji je dodan člankom 27. ovoga Zakona najkasnije do 30. prosinca 2024.
+
+(4) Mirovinsko društvo dužno je u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona uskladiti se s obvezama iz članka 15. ovoga Zakona i uskladiti postojeće ugovore o uslugama poravnanja koje je sklopilo za račun mirovinskih fondova kojima upravlja sa zahtjevima iz članka 51. stavka 14. koji je dodan člankom 21. ovoga Zakona.
+
+(5) Postupci započeti prema odredbama Zakona o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14., 93/15., 64/18., 115/18. i 58/20.) koji nisu dovršeni do dana stupanja na snagu ovoga Zakona dovršit će se primjenom odredbi toga Zakona.
+
+#### Članak 73.
+
+Iznos koji se u skladu s odredbom članka 32. ovoga Zakona može koristiti kao najviši iznos za pokriće nužnih troškova vezanih uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika, mirovinsko društvo može početi računati na svaki novi uplaćeni doprinos nakon stupanja ovoga Zakona na snagu.
+
+#### Članak 74.
+
+Osiguranik koji je na dan stupanja na snagu ovoga Zakona član mirovinskog fonda kategorije A u koji je raspoređen po službenoj dužnosti sukladno odredbi članka 18. Zakona o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima (»Narodne novine«, br. 115/18.), nakon isteka roka od 15 godina od dana raspoređivanja u mirovinski fond kategorije A, bit će po službenoj dužnosti raspoređen u mirovinski fond kategorije B, osim ako prethodno osobno ne izvrši izbor kategorije mirovinskog fonda.
+
+#### Članak 75.
+
+Osiguranik koji je na dan stupanja na snagu članaka 34., 35. i 36. ovoga Zakona član mirovinskog fonda kategorije C, može od dana stupanja na snagu članaka 34., 35. i 36. ovoga Zakona zatražiti od Središnjeg registra osiguranika prelazak u mirovinski fond kategorije B, ako na dan podnošenja takvog zahtjeva do referentnog dana ima više od šest mjeseci.
+
+#### Članak 76.
+
+(1) Iznimno od članka 96. stavka 4. koji je izmijenjen člankom 36. ovoga Zakona, Središnji registar osiguranika dužan je bez odgode člana mirovinskog fonda kategorije A koji na dan stupanja na snagu članaka 34., 35. i 36. ovoga Zakona ima manje od osam mjeseci do automatskog rasporeda u mirovinski fond kategorije B i člana mirovinskog fonda kategorije C koji na dan stupanja na snagu članaka 34., 35. i 36. ovoga Zakona ima više od šest mjeseci do ostvarivanja prava na starosnu mirovinu prema zakonu koji se uređuje mirovinsko osiguranje, obavijestiti člana fonda kategorije A o mogućnosti ostanka u fondu kategorije A, odnosno člana fonda kategorije C o mogućnosti prelaska u fond kategorije B te o roku i načinu na koji se ta mogućnost može iskoristiti.
+
+(2) Iznimno od članka 96. stavka 7. koji je izmijenjen člankom 36. ovoga Zakona, mirovinsko društvo dužno je bez odgode člana mirovinskog fonda kategorije A koji na dan stupanja na snagu članaka 34., 35. i 36. ovoga Zakona ima manje od šest mjeseca do automatskog rasporeda u mirovinski fond kategorije B i člana mirovinskog fonda kategorije C koji na dan stupanja na snagu članaka 34., 35. i 36. ovoga Zakona ima više od šest mjeseci do ostvarivanja prava na starosnu mirovinu prema zakonu kojim se uređuje mirovinsko osiguranje, obavijestiti o mogućnosti ostanka u fondu kategorije A, odnosno člana fonda kategorije C o mogućnosti prelaska u fond kategorije B, o roku i načinu na koji se ta mogućnost može iskoristiti te o potencijalnim prednostima i rizicima za člana fonda koji mogu proizaći iz donošenja odluke o ostanku u fondu kategorije A, odnosno prelasku u fond kategorije B.
+
+(3) Središnji registar osiguranika će dostaviti mirovinskom društvu podatke o adresi prebivališta ili boravišta, kao i o važećoj adresi elektronske pošte, ako istom raspolaže, za člana mirovinskog fonda kategorije A i člana mirovinskog fonda kategorije C radi ispunjenja obveza mirovinskog društva iz stavka 2. ovoga članka, u skladu s primjenjivim propisima o zaštiti osobnih podataka.
+
+(4) Iznimno od članka 96. stavka 3. koji je izmijenjen člankom 36. ovoga Zakona, član mirovinskog fonda kategorije A iz stavka 1. ovoga članka može do dana koji prethodi danu automatskog rasporeda u mirovinski fond kategorije B, od Središnjeg registra osiguranika zatražiti da ostane član mirovinskog fonda kategorije A.
+
+#### Članak 77.
+
+(1) Iznimno od članka 104. stavaka 8. do 16. koji su dodani člankom 37. ovoga Zakona, Središnji registar osiguranika dužan je u roku od šest mjeseci od stupanja na snagu ovoga Zakona, mirovinskim društvima dostaviti podatke o članovima koji u 2024. godini imaju manje od jedne godine do ostvarivanja prava na starosnu mirovinu prema zakonu koji se uređuje o mirovinsko osiguranje, što uključuje i podatak o važećoj adresi elektronske pošte člana ako Središnji registar osiguranika istom raspolaže, te podatak o adresi prebivališta ili boravišta člana, kao i podatak o datumu nakon kojeg član ima manje od jedne godine do ostvarivanja prava na starosnu mirovinu prema zakonu kojim se uređuje mirovinsko osiguranje.
+
+(2) Mirovinsko društvo dužno je članovima iz stavka 1. ovog članka, nakon što zaprimi podatke iz stavka 1. ovoga članka, dostaviti obavijest iz članka 104. stavka 9. koji je dodan člankom 37. ovoga Zakona, u roku od 15 dana od:
+
+– dana na koji član ima jednu godinu do ostvarivanja prava na starosnu mirovinu, za one članove za koje taj datum još nije nastupio
+
+– dana kada je mirovinskom društvu istekao rok za usklađenje s odredbama iz članka 104. stavaka 8. do 16. koji su dodani člankom 37. ovoga Zakona, za one članove za koje je datum na koji član ima jednu godinu do ostvarivanja prava na starosnu mirovinu već nastupio.
+
+#### Članak 78.
+
+Ako obvezni i dobrovoljni mirovinski fondovi kojima upravlja isto mirovinsko društvo imaju različite depozitare, njihovi su depozitari dužni u roku od tri mjeseca od stupanja na snagu ovoga Zakona sklopiti sporazum iz članka 59. ovoga Zakona.
+
+#### Članak 79.
+
+Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike provest će naknadnu procjenu učinaka ovoga Zakona u roku od dvije godine od dana njegova stupanja na snagu.
+
+#### Članak 80.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2024., osim članka 93. stavaka 2. i 3. koji su izmijenjeni člankom 34. ovoga Zakona, članka 95. stavaka 1. i 3. koji su izmijenjeni člankom 35. ovoga Zakona, članka 96. stavaka 2. do 13. koji su izmijenjeni člankom 36. ovoga Zakona i članaka 75. i 76. ovoga Zakona koji stupaju na snagu 1. travnja 2024. te članka 126. stavka 1. točke 14. koja je izmijenjena člankom 45. ovoga Zakona i članka 126.a stavka 1. točke 14. koja je dodana člankom 46. ovoga Zakona koji stupaju na snagu 1. siječnja 2029.
+
+Klasa: 022-02/23-01/116
+
+Zagreb, 15. prosinca 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

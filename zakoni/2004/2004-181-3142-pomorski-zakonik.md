@@ -6,17 +6,18 @@ type: code
 jurisdiction: hr
 language: hr
 date: 2004-12-21
-last_amended: 2015-03-09
+last_amended: 2019-02-20
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "181/04, 76/07, 146/08, 61/11, 56/13, 26/15"
+narodne_novine: "181/04, 76/07, 146/08, 61/11, 56/13, 26/15, 17/19"
 amendments:
   - "NN 76/2007 (2408) Zakon o izmjenama i dopunama Pomorskog zakonika"
   - "NN 146/2008 (4018) Zakon o izmjenama i dopunama Pomorskog zakonika"
   - "NN 61/2011 (1352) Zakon o izmjenama i dopunama Pomorskog zakonika"
   - "NN 56/2013 (1141) Zakon o izmjenama i dopunama Pomorskog zakonika"
   - "NN 26/2015 (540) Zakon o izmjenama i dopunama Pomorskog zakonika"
+  - "NN 17/2019 (360) Zakon o izmjenama i dopunama Pomorskog zakonika"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/181/3142"
 retrieved: 2026-10-12
 ---
@@ -25,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 181/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/181/3142).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007, NN 146/2008, NN 61/2011, NN 56/2013, NN 26/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007, NN 146/2008, NN 61/2011, NN 56/2013, NN 26/2015, NN 17/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -13096,3 +13097,3768 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Pomorskog zakonika (NN 17/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/17/360*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA POMORSKOG ZAKONIKA
+
+Proglašavam Zakon o izmjenama i dopunama Pomorskog zakonika, koji je Hrvatski sabor donio na sjednici 8. veljače 2019.
+
+Klasa: 011-01/19-01/30
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 13. veljače 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA POMORSKOG ZAKONIKA**
+
+##### Članak 1.
+
+U Pomorskom zakoniku (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11., 56/13. i 26/15.) članak 1.a mijenja se i glasi:
+
+»(1) Ovim Zakonikom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:
+
+1. Direktiva 2000/59/EZ Europskog parlamenta i Vijeća od 27. studenoga 2000. o lučkim uređajima za prihvat brodskog otpada i ostataka tereta (SL L 332, 28. 12. 2000.),
+
+2. Direktiva 2000/60/EZ Europskog parlamenta i Vijeća od 23. listopada 2000. o uspostavi okvira za djelovanje Zajednice u području vodne politike (SL L 327, 22. 12. 2000.),
+
+3. Direktiva 2002/59/EZ Europskog parlamenta i Vijeća od 27. lipnja 2002. o uspostavi sustava nadzora plovidbe i informacijskog sustava Zajednice i stavljanju izvan snage Direktive Vijeća 93/75/EEZ (SL L 208, 5. 8. 2002.) kako je zadnje izmijenjena i dopunjena Direktivom Komisije 2014/100/EU od 28. listopada 2014. o izmjeni Direktive 2002/59/EZ Europskog parlamenta i Vijeća o uspostavi sustava nadzora plovidbe i informacijskog sustava Zajednice (SL L 308, 29. 10. 2014.),
+
+4. Direktiva Vijeća 2009/13/EZ od 16. veljače 2009. o provedbi Sporazuma koji su sklopili Udruženje brodovlasnika Europske zajednice (ECSA) i Europski savez transportnih radnika (ETF) o Konvenciji o radu pomoraca iz 2006., i izmjeni Direktive 1999/63/EZ (SL L 124, 20. 5. 2009.),
+
+5. Direktiva 2009/18/EZ Europskog parlamenta i Vijeća od 23. travnja 2009. o određivanju temeljnih načela o istraživanju nesreća u području pomorskog prometa i o izmjeni Direktive Vijeća 1999/35/EZ i Direktive 2002/59/EZ Europskog parlamenta i Vijeća (SL L 131, 28. 5. 2009.),
+
+6. Direktiva 2009/20/EZ Europskog parlamenta i Vijeća od 23. travnja 2009. o osiguranju brodovlasnika za pomorske tražbine (SL L 131, 28. 5. 2009.),
+
+7. Direktiva 2009/21/EZ Europskog parlamenta i Vijeća od 23. travnja 2009. o ispunjavanju zahtjeva države zastave (SL L 131, 28. 5. 2009.),
+
+8. Direktiva 2012/35/EU Europskog parlamenta i Vijeća od 21. studenoga 2012. o izmjeni Direktive 2008/106/EZ o minimalnoj razini osposobljavanja pomoraca (SL L 343, 14. 12. 2012.),
+
+9. Direktiva (EU) 2017/2110 Europskog parlamenta i Vijeća od 15. studenoga 2017. o sustavu inspekcijskih pregleda radi sigurnog obavljanja plovidbe na redovnoj liniji ro-ro putničkih brodova i brzih putničkih plovila i izmjeni Direktive 2009/16/EZ te o stavljanju izvan snage Direktive Vijeća 1999/35/EZ (SL L 315, 30. 11. 2017.).
+
+(2) Ovim Zakonikom osigurava se provedba sljedećih akata Europske unije:
+
+1. Uredbe Vijeća (EEZ) br. 3577/92 od 7. prosinca 1992. o primjeni načela slobode pružanja usluga u pomorskom prometu unutar država članica (pomorska kabotaža) (SL L 364, 12. 12. 1992.),
+
+2. Uredbe (EZ) br. 883/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o koordinaciji sustava socijalne sigurnosti (SL L 166, 30. 4. 2004.),
+
+3. Uredbe (EZ) br. 392/2009 Europskog parlamenta i Vijeća od 23. travnja 2009. o odgovornosti prijevoznika u prijevozu putnika morem u slučaju nesreće (SL L 131, 28. 5. 2009.),
+
+4. Uredbe (EU) 2017/352 Europskog parlamenta i Vijeća od 15. veljače 2017. o uspostavi okvira za pružanje lučkih usluga i zajedničkih pravila o financijskoj transparentnosti luka (SL L 57, 3. 3. 2017.).«.
+
+##### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»(1) Ako ovim Zakonikom nije drugačije određeno, njegove odredbe koje se odnose na brodove primjenjuju se i na druge pomorske objekte, osim ratnog broda.
+
+(2) Ako ovim Zakonikom nije drugačije određeno, njegove odredbe koje se odnose na brodove u gradnji primjenjuju se i na druge pomorske objekte u gradnji.«.
+
+##### Članak 3.
+
+Članak 5. mijenja se i glasi:
+
+»Ako ovim Zakonikom nije drugačije određeno, pojedini pojmovi u smislu ovoga Zakonika imaju sljedeća značenja:
+
+1. autonomni plovni objekt je plovni objekt koji ovisno o stupnju automatizacije i zahtjevima za neposrednim nadzorom stalne službe može ploviti bez ukrcane posade ili sa smanjenim brojem članova posade,
+
+2. brod, osim ratnog broda, jest plovni objekt namijenjen za plovidbu morem, čija je duljina trupa veća od 15 m, ili je ovlašten prevoziti više od 12 putnika. Brod može biti putnički, teretni, tehnički plovni objekt, ribarski, javni ili znanstvenoistraživački,
+
+3. brod treće države je brod koji ne vije zastavu Republike Hrvatske ili zastavu druge države članice Europske unije,
+
+4. brod u gradnji jest brod koji se gradi od trenutka polaganja kobilice ili sličnog postupka gradnje, a koji je upisan u upisnik brodova kao brod u gradnji, do završetka gradnje i upisa u upisnik brodova kao brod,
+
+5. brod za ukapljene plinove jest brod namijenjen za prijevoz ukapljenih plinova u razlivenom stanju,
+
+6. brodar jest fizička ili pravna osoba koja je kao posjednik broda nositelj plovidbenog pothvata, s tim što se pretpostavlja, dok se ne dokaže protivno, da je brodar osoba koja je u upisnik brodova upisana kao vlasnik broda,
+
+7. brodica jest plovni objekt namijenjen za plovidbu morem koji je ovlašten prevoziti najviše 12 putnika, čija je duljina trupa veća od 2,5 metra, a manja ili jednaka 15 metara, ili ukupne snage porivnih uređaja veća od 5 kW,
+
+Pojam brodica ne obuhvaća:
+
+– plovila koja pripadaju drugom pomorskom objektu u svrhu prikupljanja, spašavanja ili obavljanja radova,
+
+– plovila namijenjena isključivo za natjecanja,
+
+– kanue, kajake, gondole i pedaline,
+
+– daske za jedrenje i daske za jahanje na valovima,
+
+8. brzo plovilo jest plovilo koje ima sposobnost postizanja najveće brzine u čvorovima jednake ili veće od 7.1922 ![](https://narodne-novine.nn.hr/files/_web/sluzbeni-dio/2019/130295/images/4417.jpg) <sup>0</sup><sup>,</sup><sup>1</sup><sup>6</sup><sup>6</sup><sup>7</sup> gdje je ![](https://narodne-novine.nn.hr/files/_web/sluzbeni-dio/2019/130295/images/4409.jpg) istisnina na konstruktivnoj vodnoj liniji u m³,
+
+9. crta srednje niže niske vode jest aritmetička sredina svih nižih niskih voda tijekom mjeseca ili godine,
+
+10. crta srednje više visoke vode jest aritmetička sredina svih viših visokih voda tijekom mjeseca ili godine,
+
+11. duljina broda i duljina trupa jahte ili brodice jesu duljine utvrđene Tehničkim pravilima,
+
+12. hrvatski ratni brod jest plovni objekt, uključujući podmornicu, koji je pod zapovjedništvom pripadnika Oružanih snaga Republike Hrvatske, a čija je posada vojna, odnosno podvrgnuta vojnoj disciplini i koji je dužan isticati vanjske znakove raspoznavanja ratnih brodova hrvatske državne pripadnosti kad god je potrebno da svoje svojstvo učini poznatim,
+
+13. jahta jest plovni objekt za sport i razonodu, neovisno o tome koristi li se za osobne potrebe ili za gospodarsku djelatnost, a čija je duljina trupa veća od 15 metara i koji je namijenjen za dulji boravak na moru, te koji je osim posade ovlašten prevoziti do 12 putnika,
+
+14. javni brod jest brod, osim ratnog broda, namijenjen i opremljen za obavljanje djelatnosti od općeg interesa države, a čiji je vlasnik, odnosno brodar država ili neko drugo tijelo ovlašteno od države (npr. policijski brod, brod lučke kapetanije, brod Obalne straže i sl.) i koji služi isključivo u negospodarske svrhe,
+
+15. javni prijevoz je prijevoz osoba i stvari koji je uz jednake uvjete svakom dostupan i obavlja se na temelju ugovora o prijevozu,
+
+16. kompanija jest fizička ili pravna osoba, koja je preuzela odgovornost za upravljanje brodom od vlasnika broda i koja je preuzimanjem takve odgovornosti preuzela ovlasti i odgovornosti sukladno Međunarodnom pravilniku o upravljanju sigurnošću (ISM Pravilnik), ili je preuzela odgovornost od vlasnika za upravljanje brodicom ili jahtom, koja se koristi u gospodarske svrhe, sukladno odredbama Tehničkih pravila,
+
+17. korisnik jahte, odnosno brodice jest fizička ili pravna osoba koja drži jahtu, odnosno brodicu u posjedu kao vlasnik ili temeljem ugovora o zakupu ili ugovora o leasingu, s tim što se pretpostavlja, dok se ne dokaže suprotno, da je korisnik jahte, odnosno brodice osoba koja je u upisniku brodova upisana kao vlasnik. Na korisnika jahte, odnosno brodice na odgovarajući se način primjenjuju odredbe ovoga Zakonika o brodaru,
+
+18. luka jest morska luka, tj. morski i s morem neposredno povezani kopneni prostor s izgrađenim i neizgrađenim obalama, lukobranima, uređajima, postrojenjima i drugim objektima namijenjenim za pristajanje, sidrenje i zaštitu brodova, jahti i brodica, za ukrcaj i iskrcaj putnika i robe, uskladištenje i drugo manipuliranje robom, proizvodnju, oplemenjivanje i doradu robe te ostale gospodarske djelatnosti koje su s tim djelatnostima u međusobnoj ekonomskoj, prometnoj ili tehnološkoj vezi,
+
+19. luka otvorena za međunarodni promet jest luka slobodna za pristup plovnih objekata svih zastava,
+
+20. međunarodno putovanje jest putovanje brodom, jahtom ili brodicom prema plovidbenom planu iz bilo koje hrvatske luke u stranu luku ili obratno,
+
+21. ministar jest ministar nadležan za pomorstvo,
+
+22. Ministarstvo jest ministarstvo nadležno za pomorstvo,
+
+23. nepomični odobalni objekt jest pomorski objekt u potpunosti ili djelomično ukopan u morsko dno ili položen na morsko dno, koji nije namijenjen za plovidbu (npr. nepomični odobalni objekt za istraživanje i eksploataciju podmorja, podmorski cjevovod i sl.), osim podmorskog kabela i objekata prometne infrastrukture (npr. podmorski tunel, most oslonjen na morsko dno i sl.),
+
+24. nuklearni brod je brod opremljen uređajem na nuklearni pogon,
+
+25. objekti sigurnosti plovidbe jesu objekti i/ili tehnički sustavi kojima se vizualno, zvučno, elektromagnetskim valovima ili na drugi način dostavljaju, zaprimaju ili razmjenjuju informacije značajne za sigurnost ljudi i plovnih objekata na moru, zaštitu morskog okoliša ili sigurnosnu zaštitu ljudi, pomorskih objekata i luka, a koji se ne nalaze na plovnom objektu. Objekti sigurnosti plovidbe mogu biti objekti pomorske signalizacije, obalne radijske postaje i drugi objekti sigurnosti plovidbe,
+
+26. ovlaštena organizacija za sigurnosnu zaštitu brodova jest organizacija koja ispunjava uvjete propisane posebnim propisom i koja je ovlaštena od Ministarstva za obavljanje statutarne certifikacije glede sigurnosne zaštite brodova,
+
+27. plovni objekt jest pomorski objekt namijenjen za plovidbu morem. Plovni objekt može biti brod, ratni brod, podmornica, jahta ili brodica,
+
+28. plovni put jest morski pojas dovoljno dubok i širok za sigurnu plovidbu plovnog objekta,
+
+29. plutajući objekt jest pomorski objekt stalno privezan ili usidren na moru, koji nije namijenjen za plovidbu (npr. plutajući dok, plutajuće skladište, plutajući restoran, plutajuća elektrana, pontonski most, pontonska marina i sl.),
+
+30. pomorska plovidba jest plovidba koja se obavlja na moru i rijekama hrvatskoga jadranskog slijeva do granice do koje su one plovne s morske strane,
+
+31. pomorski objekt jest objekt namijenjen za plovidbu morem (plovni objekt), ili objekt stalno privezan ili usidren na moru (plutajući objekt), odnosno objekt u potpunosti ili djelomično ukopan u morsko dno ili položen na morsko dno (nepomični odobalni objekt),
+
+32. posebno pravo vučenja jest obračunska jedinica kako ju je definirao Međunarodni monetarni fond,
+
+33. poslovođa broda jest fizička ili pravna osoba koja upravlja poslovanjem i/ili tehničkim održavanjem broda i/ili popunjavanjem broda posadom,
+
+34. poslodavac je osoba koja je s pomorcem zaključila/sklopila ugovor o radu u svoje ime,
+
+35. postojeći brod jest brod koji nije u gradnji,
+
+36. prijavljeno tijelo je organizacija koja ispunjava uvjete propisane posebnim propisom i koja je ovlaštena od Ministarstva za obavljanje certifikacije pomorske opreme ili je ovlaštena za obavljanje ocjene sukladnosti brodica za sport i razonodu i jahti duljine do 24 m tijekom gradnje,
+
+37. prijevoznik jest vlasnik broda, brodar ili osoba koja sklapa ugovor s naručiteljem prijevoza,
+
+38. priznata organizacija jest organizacija koja ispunjava uvjete propisane posebnim propisom i koja je ovlaštena od Ministarstva za obavljanje statutarne certifikacije pomorskih objekata, a koja obuhvaća obavljanje pregleda i izdavanje propisanih isprava,
+
+39. putnički brod jest brod na mehanički pogon koji je ovlašten prevoziti više od 12 putnika,
+
+40. putnik jest svaka osoba na pomorskom objektu, osim djece ispod jedne godine života te osoba zaposlenih na brodu u bilo kojem svojstvu,
+
+41. rasprema je privremeno povlačenje pomorskog objekta iz plovidbe, odnosno uporabe za vrijeme dok ne obavlja svoju namjenu, osim kada se nalazi u brodogradilištu radi održavanja, preinaka ili dogradnji,
+
+42. ribarski brod jest brod s mehaničkim porivom namijenjen i opremljen za ulov ribe i drugih živih bića iz mora ili na morskom dnu, čija je duljina veća od 15 metara,
+
+43. sastav stranih ratnih brodova jest više stranih ratnih brodova koji plove zajedno pod zapovjedništvom jednog zapovjednika,
+
+44. sidrište luke je uređeni i obilježeni dio mora namijenjen i sidrenju brodova,
+
+45. statutarna certifikacija je postupak utvrđivanja udovoljavanja međunarodnim i nacionalnim propisima, a koji obuhvaća:
+
+1. zahtjeve kojima moraju udovoljavati pomorski objekti i kompanije,
+
+2. način obavljanja tehničkog nadzora,
+
+3. postupak za izdavanje propisanih isprava, zapisa i knjiga pomorskim objektima i kompanijama,
+
+46. strana jahta jest plovni objekt za sport i razonodu koji ima stranu državnu pripadnost i koji se takvim smatra prema propisima države čiju državnu pripadnost ima,
+
+47. strani javni brod je plovni objekt u vlasništvu ili korištenju strane države, koji nije ratni brod, a služi isključivo za negospodarske svrhe dotične države,
+
+48. strani ratni brod je plovni objekt, uključujući podmornicu, koji ima stranu državnu pripadnost, pripada ratnoj mornarici, nosi vanjske znakove raspoznavanja ratnoga plovnog objekta i njegove državne pripadnosti, nalazi se pod zapovjedništvom vojne osobe i ima vojnu posadu,
+
+49. strani ribarski brod je brod koji ima stranu državnu pripadnost, a namijenjen je i opremljen za ulov ribe ili drugih živih bića u moru ili na morskom dnu,
+
+50. strani trgovački brod je brod koji ima stranu državnu pripadnost, a koristi se za gospodarske svrhe,
+
+51. tanker za kemikalije jest brod namijenjen ponajprije za prijevoz opasnih kemikalija i štetnih tvari u razlivenom stanju,
+
+52. tanker za ulje jest brod namijenjen ponajprije za prijevoz ulja u razlivenom stanju,
+
+53. tegljač, odnosno potiskivač jest brod koji je namijenjen tegljenju ili potiskivanju drugih plovnih objekata,
+
+54. tehnička pravila za statutarnu certifikaciju pomorskih objekata (u daljnjem tekstu: Tehnička pravila) su pravilnici u skladu sa zakonom kojim se uređuje sustav državne uprave, doneseni na temelju ovoga Zakonika, kojima se utvrđuju zahtjevi kojima moraju udovoljavati pomorski objekti i kompanije, kao i način obavljanja tehničkog nadzora i izdavanja isprava, zapisa i knjiga pomorskog objekta i kompanije,
+
+55. tehnički plovni objekt jest brod, sa ili bez mehaničkog poriva koji je namijenjen za obavljanje tehničkih radova (bager, dizalica, jaružalo, pokretni odobalni objekt za istraživanje i eksploataciju podmorja i sl.),
+
+56. teretni brod jest brod namijenjen za prijevoz tereta s mehaničkim porivom ili bez njega,
+
+57. treća država je država koja nije Republika Hrvatska niti druga država članica Europske unije,
+
+58. ulje su sva postojana ugljikova mineralna ulja, kao što su sirova nafta i njezini derivati, te talozi i otpadna ulja kako su navedena u prilogu I. Međunarodne konvencije o sprječavanju zagađivanja mora s brodova, kako je izmijenjena i dopunjena (Međunarodna konvencija o sprječavanju onečišćenja s brodova, 73/78) bez obzira na to prevoze li se kao teret ili kao zalihe goriva i maziva,
+
+59. upisnik brodova je jedinstveni upisnik pomorskih objekata hrvatske državne pripadnosti u koji se upisuju pomorski objekti i pomorski objekti u gradnji, osim ratnih brodova i brodova u gradnji koji se grade za potrebe Oružanih snaga Republike Hrvatske ili stranih oružanih snaga,
+
+60. velika putnička jahta jest jahta duljine trupa jednakog 24 metra ili većeg te koja je osim posade ovlaštena prevoziti više od 12, ali ne više od 36 putnika,
+
+61. tradicionalni plovni objekt jest originalni plovni objekt ili pojedinačna replika projektirana prije 1950. godine, građen pretežito od izvornih materijala,
+
+62. znanstvenoistraživački brod jest brod, namijenjen isključivo za znanstvena ili tehnološka istraživanja ili iskorištavanje mora, morskog dna ili njegova podzemlja, opremljen opremom i uređajima za tu namjenu, kao i smještajem za posebno osoblje.«.
+
+##### Članak 4.
+
+U članku 6. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Zaštita morskog okoliša i kakvoća vode unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske provodi se odgovarajućom primjenom ciljeva zaštite voda i mora određenih propisima kojima se uređuje upravljanje vodama, morskim okolišem i obalnim područjem i zaštita okoliša.«.
+
+Dosadašnji stavci 4. do 8. postaju stavci 5. do 9.
+
+##### Članak 5.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Domaće i strane pravne i fizičke osobe te hrvatski ratni brod mogu obavljati istraživanja, ispitivanja, snimanja i/ili mjerenja mora, morskog dna i/ili morskog podzemlja unutarnjih morskih voda Republike Hrvatske samo uz odobrenje Ministarstva.
+
+(2) Iznimno od stavka 1. ovoga članka, javna znanstvena ustanova sa sjedištem u Republici Hrvatskoj može obavljati istraživanja, ispitivanja, snimanja i/ili mjerenja mora, morskog dna i/ili morskog podzemlja unutarnjih morskih voda Republike Hrvatske pomorskim objektom hrvatske državne pripadnosti samo uz suglasnost mjesno nadležne lučke kapetanije glede sigurnosti plovidbe.
+
+(3) Ako se istraživanje, ispitivanje, snimanje i/ili mjerenje mora, morskog dna i/ili morskog podzemlja unutarnjih morskih voda Republike Hrvatske treba obavljati na području više mjesno nadležnih lučkih kapetanija ili na području zaštićenog ekološko-ribolovnog pojasa Republike Hrvatske, znanstvena ustanova iz stavka 2. ovoga članka zahtjev za izdavanje suglasnosti glede sigurnosti plovidbe podnosi Ministarstvu.
+
+(4) Domaće i strane pravne i fizičke osobe mogu obavljati ispitivanja opreme i uređaja namijenjenih za obavljanje aktivnosti iz stavka 1. ovoga članka u unutarnjim morskim vodama Republike Hrvatske samo uz odobrenje Ministarstva.
+
+(5) Odobrenje iz stavaka 1. i 4. ovoga članka Ministarstvo izdaje uz prethodnu suglasnost središnjih tijela državne uprave nadležnih za poslove obrane, unutarnjih poslova, znanosti, zaštite okoliša, prirode, poljoprivrede, gospodarstva i kulture te uz udovoljavanje uvjeta sigurnosti plovidbe.
+
+(6) Odobrenje iz stavaka 1. i 4. ovoga članka Ministarstvo izdaje u roku od šest mjeseci od dana primitka zahtjeva.
+
+(7) Iznimno od odredbe stavka 5. ovoga članka, hrvatski ratni brod može obavljati istraživanja, ispitivanja, snimanja i/ili mjerenja iz stavka 1. ovoga članka samo uz odobrenje Ministarstva.
+
+(8) Iznimno od odredbi stavaka 1. i 5. ovoga članka, domaće i strane pravne i fizičke osobe mogu obavljati arheološko istraživanje, fotografiranje i/ili druge oblike dokumentiranja kulturnog dobra na moru, morskom dnu i podzemlju unutarnjih morskih voda Republike Hrvatske uz odobrenje ministarstva nadležnog za poslove kulture koje se izdaje uz prethodnu suglasnost središnjeg tijela državne uprave nadležnog za poslove obrane i prethodnu suglasnost mjesno nadležne lučke kapetanije glede sigurnosti plovidbe.
+
+(9) Prethodne suglasnosti iz stavka 8. ovoga članka središnje tijelo državne uprave nadležno za poslove obrane i mjesno nadležna lučka kapetanija dostavljaju ministarstvu nadležnom za poslove kulture u roku od 30 dana od dana zaprimanja zahtjeva.
+
+(10) Tijekom istraživanja, ispitivanja, snimanja i/ili mjerenja iz stavka 1. ovoga članka, ako se provodi brodom koji je ujedno i ratni brod, mora biti nazočan najmanje jedan stručni pripadnik Oružanih snaga Republike Hrvatske, odnosno ministarstva nadležnog za poslove obrane.«.
+
+##### Članak 6.
+
+Članak 31. mijenja se i glasi:
+
+»(1) Domaće i strane pravne i fizičke osobe te hrvatski ratni brod mogu obavljati istraživanja, ispitivanja, snimanja i/ili mjerenja mora, morskog dna i/ili morskog podzemlja teritorijalnog mora Republike Hrvatske samo uz odobrenje Ministarstva.
+
+(2) Iznimno od stavka 1. ovoga članka, javna znanstvena ustanova sa sjedištem u Republici Hrvatskoj može obavljati istraživanja, ispitivanja, snimanja i/ili mjerenja mora, morskog dna i/ili morskog podzemlja teritorijalnog mora Republike Hrvatske pomorskim objektom hrvatske državne pripadnosti samo uz suglasnost mjesno nadležne lučke kapetanije glede sigurnosti plovidbe.
+
+(3) Ako se istraživanje, ispitivanje, snimanje i/ili mjerenje mora, morskog dna i/ili morskog podzemlja teritorijalnog mora Republike Hrvatske ima obavljati na području više mjesno nadležnih lučkih kapetanija ili na području zaštićenog ekološko-ribolovnog pojasa Republike Hrvatske, znanstvena ustanova iz stavka 2. ovoga članka zahtjev za izdavanje suglasnosti glede sigurnosti plovidbe podnosi Ministarstvu.
+
+(4) Domaće i strane pravne i fizičke osobe mogu obavljati ispitivanja opreme i uređaja namijenjenih za obavljanje aktivnosti iz stavka 1. ovoga članka u teritorijalnom moru Republike Hrvatske samo uz odobrenje Ministarstva.
+
+(5) Odobrenje iz stavaka 1. i 4. ovoga članka Ministarstvo izdaje uz prethodnu suglasnost središnjih tijela državne uprave nadležnih za poslove obrane, unutarnjih poslova, znanosti, zaštite okoliša, prirode, poljoprivrede, gospodarstva i kulture te uz udovoljavanje uvjeta sigurnosti plovidbe.
+
+(6) Odobrenje iz stavaka 1. i 4. ovoga članka Ministarstvo izdaje u roku od šest mjeseci od dana primitka zahtjeva.
+
+(7) Iznimno od odredbe stavka 5. ovoga članka, hrvatski ratni brod može obavljati istraživanja, ispitivanja, snimanja i/ili mjerenja iz stavka 1. ovoga članka samo uz odobrenje Ministarstva.
+
+(8) Iznimno od odredbi stavaka 1. i 5. ovoga članka, domaće i strane pravne i fizičke osobe mogu obavljati arheološko istraživanje, fotografiranje i/ili druge oblike dokumentiranja kulturnog dobra na moru, morskom dnu i podzemlju teritorijalnog mora Republike Hrvatske uz odobrenje ministarstva nadležnog za poslove kulture koje se izdaje uz prethodnu suglasnost središnjeg tijela državne uprave nadležnog za poslove obrane i prethodnu suglasnost mjesno nadležne lučke kapetanije glede sigurnosti plovidbe.
+
+(9) Prethodne suglasnosti iz stavka 8. ovoga članka središnje tijelo državne uprave nadležno za poslove obrane i mjesno nadležna lučka kapetanija dostavljaju ministarstvu nadležnom za poslove kulture u roku od 30 dana od dana zaprimanja zahtjeva.
+
+(10) Tijekom istraživanja, ispitivanja, snimanja i/ili mjerenja iz stavka 1. ovoga članka koje se provodi brodom koji je ujedno i ratni brod, mora biti nazočan najmanje jedan stručni pripadnik Oružanih snaga Republike Hrvatske, odnosno ministarstva nadležnog za poslove obrane.
+
+(11) Detaljnije uvjete za uplovljavanje, prolazak i boravak stranih ratnih brodova u teritorijalnom moru i unutarnjim morskim vodama Republike Hrvatske uredbom propisuje Vlada Republike Hrvatske.
+
+(12) Detaljnije uvjete za uplovljavanje, prolazak i boravak stranih javnih i znanstvenoistraživačkih brodova i brodica u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske te uvjete i način na koji domaće i strane pravne i fizičke osobe obavljaju istraživanja, ispitivanja, snimanja i mjerenja mora, morskog dna ili morskog podzemlja unutarnjih morskih voda, teritorijalnog mora, epikontinentalnog i gospodarskog pojasa Republike Hrvatske te uvjete i način na koji domaće i strane pravne i fizičke osobe obavljaju ispitivanja opreme i mehaničkih uređaja u/na moru, u unutarnjim morskim vodama, teritorijalnom moru, epikontinentalnom i gospodarskom pojasu Republike Hrvatske uredbom propisuje Vlada Republike Hrvatske.«.
+
+##### Članak 7.
+
+U članku 45. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Zabranjeno je polaganje i održavanje podmorskih kabela i cjevovoda bez odobrenja Ministarstva, odnosno suglasnosti o smjeru polaganja iz stavka 3. ovoga članka.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+##### Članak 8.
+
+Članak 49. briše se.
+
+##### Članak 9.
+
+Iza članka 49.h dodaju se glava I.b, naziv glave i članci od 49.i do 49.n koji glase:
+
+### »GLAVA I.b — ISTRAGE POMORSKIH NESREĆA
+
+##### Članak 49.i
+
+(1) Pomorska nesreća je događaj ili slijed događaja koji za posljedicu ima:
+
+a) smrt ili ozbiljnu ozljedu osobe, koja je uzrokovana ili je u vezi s izvedbom ili radom plovnog objekta, ili
+
+b) gubitak osobe s plovnog objekta koji je uzrokovan ili je u vezi s njegovom eksploatacijom ili radom, ili
+
+c) gubitak, pretpostavljeni gubitak plovnog objekta ili njegovo napuštanje, ili
+
+d) bitnu štetu na plovnom objektu, ili
+
+e) nasukavanje ili onesposobljavanje plovnog objekta, ili njegovo sudjelovanje u sudaru, ili
+
+f) štetu objekata pomorske infrastrukture koja je uzrokovana ili je u vezi s radom plovnog objekta, ili
+
+g) štetu pomorskom okolišu izazvanu oštećenjem plovnog objekta, a koje je uzrokovano ili je u vezi s njegovim radom.
+
+(2) Pomorska nesreća može biti vrlo ozbiljna ili ozbiljna pomorska nesreća.
+
+(3) Vrlo ozbiljna pomorska nesreća je pomorska nesreća koja uključuje potpuni gubitak plovnog objekta, smrtni slučaj ili ozbiljno onečišćenje koje je uzrokovano ili je u vezi s njegovim radom.
+
+(4) Ozbiljna pomorska nesreća je pomorska nesreća koja se ne razvrstava kao vrlo ozbiljna nesreća, a koja uključuje požar, eksploziju, sudar, nasukavanje, udar, oštećenje od nevremena, oštećenje ledom, napuknuće trupa ili pretpostavljeni nedostatak na trupu ili drugo slično oštećenje ili nedostatak koji ima za posljedicu:
+
+a) nemogućnost rada glavnih strojeva, veće oštećenje nadgrađa, ozbiljno oštećenje strukture (kao što je probijanje podvodnog dijela trupa) što čini plovni objekt nesposobnim za nastavak plovidbe,
+
+b) onečišćenje pomorskog okoliša, i/ili
+
+c) kvar/oštećenje koje zahtijeva tegljenje ili pomoć s obale.
+
+(5) Pomorska nezgoda je događaj povezan s radom plovnog objekta, koji se ne razvrstava kao pomorska nesreća, a koji je ugrozio ili bi mogao ugroziti sigurnost plovnog objekta, osoba na plovnom objektu ili drugih osoba te mora i morskog okoliša.
+
+##### Članak 49.j
+
+(1) U slučaju pomorske nesreće ili pomorske nezgode Ministarstvo provodi izvide pomorskih prekršaja, u skladu s odredbama propisa kojima se uređuje prekršajni postupak, radi otkrivanja i kažnjavanja počinitelja pomorskih prekršaja koji su u vezi s događajem pomorske nesreće ili nezgode.
+
+(2) U slučaju pomorske nesreće tijelo ovlašteno za pokretanje i vođenje sigurnosne istrage pomorske nesreće provodi sigurnosnu istragu, sukladno odredbama ovoga Zakonika i drugih propisa kojima se uređuje provođenje sigurnosnih istraga pomorskih nesreća, radi utvrđivanja okolnosti i uzroka koji su do pomorske nesreće doveli te predlaganja korektivnih mjera za njihovo sprječavanje i ponavljanje, unaprjeđivanje sigurnosti plovidbe te smanjivanje opasnosti od posljedica pomorskih nesreća koje one imaju na onečišćenje mora i morskog okoliša.
+
+##### Članak 49.k
+
+(1) Agencija za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu (u daljnjem tekstu: Agencija) ovlaštena je pokrenuti i voditi sigurnosnu istragu pomorske nesreće, kao samostalno i neovisno istražno tijelo osnovano posebnim zakonom.
+
+(2) Cilj sigurnosne istrage je utvrditi okolnosti i uzroke koji su doveli do pomorske nesreće te predložiti korektivne mjere za njihovo sprječavanje i ponavljanje, unaprjeđivanje sigurnosti plovidbe te smanjivanje opasnosti od posljedica pomorskih nesreća koje one imaju na onečišćenje mora i morskog okoliša.
+
+(3) Sigurnosna istraga provodi se neovisno o svim istragama koje o pomorskoj nesreći provode druga državna tijela.
+
+(4) Agencija u vođenju sigurnosne istrage djeluje samostalno i neovisno u odnosu na sva tijela javne vlasti nadležna za pomorski promet i sigurnost plovidbe, druga državna i pravosudna tijela te sve pravne i fizičke osobe.
+
+(5) Agencija je ovlaštena temeljem rezultata provedene sigurnosne istrage izdati sigurnosne preporuke s prijedlogom korektivnih mjera radi sprječavanja i ponavljanja pomorskih nesreća, unaprjeđivanja sigurnosti plovidbe te smanjivanja opasnosti od posljedica pomorskih nesreća koje one imaju na onečišćenje mora i morskog okoliša.
+
+(6) Adresati kojima Agencija uputi sigurnosnu preporuku, dužni su u roku od 90 dana od njezina zaprimanja obavijestiti Agenciju o primjeni korektivnih mjera koje su u toj preporuci sadržane, a ako korektivne mjere nisu primijenjene ili su primijenjene djelomično, tada su dužni obavijestiti Agenciju o razlozima njihove neprimjene ili djelomične primjene.
+
+##### Članak 49.l
+
+Pokretanje i vođenje sigurnosnih istraga pomorskih nesreća ne može se zabraniti niti na bilo koji način ograničiti.
+
+##### Članak 49.lj
+
+Sva tijela javne vlasti koja su nadležna za pomorski promet i sigurnost plovidbe te druga državna tijela, kao i sve fizičke i pravne osobe koje steknu saznanje o događaju pomorske nesreće ili su u pomorsku nesreću uključeni, dužni su bez odgađanja o tome obavijestiti Agenciju, sukladno posebnom propisu kojim se uređuje način, uvjeti i ovlasti za obavljanje sigurnosnih istraga pomorskih nesreća.
+
+##### Članak 49.m
+
+(1) Zabranjeno je svako ometanje sigurnosne istrage pomorske nesreće.
+
+(2) Ometanjem sigurnosne istrage osobito se smatra:
+
+1. neobavještavanje Agencije o događaju pomorske nesreće, u roku i na način propisan člankom 49.lj ovoga Zakonika,
+
+2. sprječavanje, onemogućavanje ili otežavanje službenim osobama Agencije pristup područjima ili mjestu nesreće, svjedocima, plovnim objektima koji su u pomorskoj nesreći sudjelovali, podrtinama, potonulim stvarima, teretu, ostacima tereta, opremi, podacima s pomorskih karata i brodskih dnevnika, elektroničkim ili magnetskim zapisima, audio i videovrpcama, podacima iz zapisivača podataka o putovanju (VDR) ili drugih elektroničkih naprava koji se odnose na razdoblje prije, za vrijeme i nakon nesreće te drugim uređajima i podacima koje Agencija smatra korisnim za provođenje sigurnosne istrage pomorske nesreće,
+
+3. rukovanje, uporaba, raspolaganje ili drugo korištenje brodskim i drugim uređajima nakon događaja pomorske nesreće, bez prethodnog dopuštenja Agencije,
+
+4. rukovanje, uporaba, raspolaganje ili drugo korištenje podacima s pomorskih karata, iz brodskih dnevnika, elektroničkih i magnetskih zapisa, audio i videovrpci, podacima iz VDR-a i drugih elektroničkih naprava, koji se odnose na razdoblje prije, za vrijeme i nakon nesreće, bez prethodnog dopuštenja Agencije,
+
+5. vađenje i/ili uklanjanje podrtine i potonulih stvari koje su u vezi s događajem pomorske nesreće, bez prethodnog dopuštenja Agencije,
+
+6. neovlašteno poduzimanje drugih radnji i aktivnosti koje su u vezi s događajem pomorske nesreće, bez prethodnog dopuštenja Agencije,
+
+7. odbijanje davanja iskaza ili očitovanja službenim osobama Agencije, u roku i na način kako to odredi Agencija,
+
+8. davanje lažnog iskaza ili očitovanja službenim osobama Agencije,
+
+9. nepostupanje po zahtjevu Agencije za dostavu podataka koje Agencija smatra korisnim za provođenje sigurnosne istrage pomorske nesreće, u roku i na način kako to odredi Agencija,
+
+10. neobavještavanje Agencije o primjeni korektivnih mjera sadržanih u sigurnosnoj preporuci Agencije, u roku i na način propisan člankom 49.k stavkom 6. ovoga Zakonika.
+
+(3) Službene radnje koje u vezi s pomorskom nesrećom, sukladno posebnim propisima, poduzimaju druga državna i/ili pravosudna tijela i službene osobe tih tijela, ne smatraju se ometanjem sigurnosne istrage.
+
+##### Članak 49.n
+
+Vlada Republike Hrvatske uredbom propisuje način i uvjete obavljanja sigurnosne istrage pomorske nesreće, status takve istrage, izuzetke od obveze provođenja istrage, postupak prethodne procjene o pokretanju ili nepokretanju istrage, metodologiju vođenja sigurnosne istrage, obvezu obavješćivanja i izvješćivanja o događaju pomorske nesreće, zaštitu podataka, ovlasti istražitelja, formu i sadržaj završnog i preliminarnog izvješća o provedenoj sigurnosnoj istrazi pomorske nesreće, ovlast ranog uzbunjivanja, obvezu i način vođenja nacionalne baze podataka o pomorskim nesrećama i nezgodama, stalni okvir suradnje s tijelima Europske unije i drugim međunarodnim tijelima na području istraživanja pomorskih nesreća te druga pitanja kojima se uređuje dobra međunarodna praksa u pokretanju i vođenju sigurnosne istrage pomorske nesreće.«.
+
+##### Članak 10.
+
+Iznad članka 50. naziv glave druge mijenja se i glasi: »POSLOVI SIGURNOSTI PLOVIDBE I ZAŠTITE MORA OD ONEČIŠĆENJA«.
+
+##### Članak 11.
+
+U članku 50. stavku 1. riječi: »pružanje usluga« zamjenjuju se riječima: »obavljanje poslova«.
+
+U stavku 1. u točki g) veznik: »i« zamjenjuje se zarezom te se iza točke g) dodaje nova točka h) koja glasi:
+
+»h) poslove predviđanja, sprječavanja, ograničavanja, spremnosti za i reagiranje na iznenadna onečišćenja mora i«.
+
+Dosadašnja točka h) postaje točka i).
+
+U stavku 2. riječi: »podstavka d) i e)« zamjenjuju se riječima: »točaka d), e) i h)«.
+
+U stavku 3. riječ: »podstavka« zamjenjuje se riječju: »točaka«.
+
+U stavku 4. riječ: »podstavka« zamjenjuje se riječju: »točke«.
+
+U stavku 5. riječ: »podstavka« zamjenjuje se riječju: »točke«.
+
+##### Članak 12.
+
+Članak 51. mijenja se i glasi:
+
+»(1) Plovni putovi izvan lučkih područja, kako su utvrđena posebnim propisom, uređuju se i održavaju u skladu s Programom uređenja i održavanja plovnih putova koji donosi ministar za razdoblje od dvije godine na prijedlog trgovačkog društva Plovput  
+d. o. o. sukladno Strategiji iz članka 6. stavka 8. ovoga Zakonika.
+
+(2) Program iz stavka 1. ovoga članka sadrži prioritetne aktivnosti uređenja i održavanja plovnih putova te potrebna sredstva i izvore financiranja za provedbu prioritetnih aktivnosti.
+
+(3) Za provođenje Programa iz stavka 1. ovoga članka koriste se sredstva trgovačkog društva Plovput d.o.o., a mogu se koristiti i sredstva državnog proračuna.
+
+(4) Plovne putove koji se nalaze u lučkim područjima, kako su utvrđena u skladu s posebnim propisom, dužno je uređivati i održavati tijelo koje upravlja lukom prema dubinama iz službenih pomorskih navigacijskih karata i publikacija.
+
+(5) Program iz stavka 1. ovoga članka mora sadržavati i temeljiti se na procjeni rizika za sigurnost plovidbe, ljudske živote i imovinu na moru.
+
+(6) Za obavljanje poslova od javnog interesa iz članka 50. stavka 1. točaka d), e) i h) ovoga Zakonika vlasnici ili korisnici jahti i brodica te plovila unutarnje plovidbe plaćaju naknadu za sigurnost plovidbe i zaštitu mora od onečišćenja kada plove ili borave u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske.
+
+(7) Naknada se utvrđuje u odnosu na kategoriju, vrstu, veličinu i namjenu, kao i vrstu i snagu pogonskog stroja plovnog objekta.
+
+(8) Iznimno od stavka 6. ovoga članka, naknadu za sigurnost plovidbe i zaštitu mora od onečišćenja ne plaćaju plovni objekti koji se koriste pravom neškodljivog prolaska teritorijalnim morem bez uplovljenja u luke i na sidrišta u Republici Hrvatskoj, plovni objekti u izvanrednim okolnostima, odnosno okolnostima koje nisu redovita plovidba, strani plovni objekti koji sudjeluju u akcijama ili vježbama traganja i spašavanja osoba u pogibelji na moru.
+
+(9) Naknada iz stavka 6. ovoga članka prihod je državnog proračuna od čega je 50 % namjenski prihod koji se koristi za razvoj i održavanje materijalnih sredstava za traganje i spašavanje na moru i sustava za nadzor i upravljanje pomorskim prometom, za razvoj i održavanje materijalnih sredstava za predviđanje, sprječavanje, ograničavanje, spremnost za reagiranje i reagiranje na iznenadna onečišćenja mora s pomorskih objekata, te na troškove naplate te naknade.
+
+(10) Visinu naknade za sigurnost plovidbe iz stavka 6. ovoga članka, osnovice za njezin obračun i pojedine izvanredne okolnosti, odnosno okolnosti koje nisu redovita plovidba iz stavka 8. ovoga članka pravilnikom propisuje ministar uz prethodnu suglasnost ministra nadležnog za poslove financija.«.
+
+##### Članak 13.
+
+U članku 52. stavku 6. riječi: »i usluge od javnog interesa iz članka 50. stavka 1. podstavka f)« zamjenjuju se riječima: »i poslove od javnog interesa iz članka 50. stavka 1. točaka a) i f)«.
+
+U stavku 9. iza riječi: »iz stavka 2. ovoga članka« dodaju se riječi: »i članka 50. stavka 1. točaka a) i f) ovoga Zakonika«.
+
+##### Članak 14.
+
+U članku 54.a iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+
+»(4) Maritimna studija obvezna je za zahvate gradnje ili rekonstrukcije kojima se mijenja konfiguracija morskog dijela luke, lučkog bazena ili terminala.
+
+(5) Maritimnu studiju iz stavaka 3. i 4. ovoga članka investitor je dužan izraditi i dostaviti Ministarstvu na potvrdu prije ishođenja dokumenata ili akata prostornog uređenja i gradnje ili prije promjene namjene luke, lučkog bazena ili terminala.«.
+
+Dosadašnji stavak 4., koji postaje stavak 6., mijenja se i glasi:
+
+»(6) Maritimna studija iz stavaka 3. i 4. ovoga članka treba obuhvaćati najmanje navigacijska, meteorološko-oceanografska i hidrografska obilježja akvatorija, odnosno zahvata u prostoru, tehničko-tehnološka i prometno-plovidbena obilježja zahvata u morskom prostoru, mjere maritimne sigurnosti u pogledu plovidbe i boravka pomorskih objekata te zaštite mora od onečišćenja s pomorskih objekta u prilazu i unutar zahvata u morskom prostoru te postupke u izvanrednim okolnostima po sigurnost plovidbe i zaštitu mora od onečišćenja.«.
+
+Dosadašnji stavak 5. postaje stavak 7.
+
+##### Članak 15.
+
+Iza članka 55. dodaju se glava II.a, glava II.b, nazivi glava i članci 55.a do 55.h koji glase:
+
+### »GLAVA II.a — POSLOVI TRAGANJA I SPAŠAVANJA OSOBA U POGIBELJI NA MORU
+
+##### Članak 55.a
+
+(1) Poslovi traganja i spašavanja osoba u pogibelji na moru obavljaju se temeljem Međunarodne konvencije o traganju i spašavanju na moru iz 1979. godine, kako je izmijenjena i dopunjena, Međunarodne konvencije o zaštiti ljudskog života na moru iz 1974. godine, zajedno s njezinim protokolima i izmjenama i Konvencije o međunarodnom civilnom zrakoplovstvu iz 1944. godine, kako je izmijenjena i dopunjena, kao i drugim međunarodnim ugovorima kojih je Republika Hrvatska stranka.
+
+(2) Poslovi traganja i spašavanja osoba u pogibelji na moru obuhvaćaju:
+
+1. stalno bdijenje i komunikaciju,
+
+2. usklađivanje akcija traganja i spašavanja,
+
+3. provedbu akcija traganja i spašavanja,
+
+4. pružanje usluge telemedicinskih savjeta,
+
+5. pružanje hitne medicinske pomoći,
+
+6. medicinsku evakuaciju s pomorskih objekata,
+
+7. osposobljavanje službenika uključenih u provođenje akcija traganja i spašavanja.
+
+(3) Poslovi traganja i spašavanja osoba u pogibelji na moru ne obuhvaćaju spašavanje imovine, osim kada je to nužno radi spašavanja osobe u pogibelji kao ni djelovanje po bilo kojem izvanrednom događaju na moru zbog kojeg ljudski život nije ugrožen.
+
+(4) Usluge komunikacije u pružanju usluga traganja i spašavanja ljudskih života u pogibelji na moru besplatne su za korisnika tih usluga.
+
+##### Članak 55.b
+
+(1) Poslovi traganja i spašavanja osoba u pogibelji na moru provode se na području nadležnosti traganja i spašavanja na moru Republike Hrvatske koje obuhvaća područje unutarnjih morskih voda, teritorijalnog mora Republike Hrvatske, morski prostor između vanjske granice teritorijalnog mora Republike Hrvatske i crte razgraničenja područja nadležnosti za traganje i spašavanje na moru utvrđene međunarodnim ugovorima sklopljenim između Republike Hrvatske i susjednih država te rijeka hrvatskog jadranskog slijeva do granice do koje su plovne s morske strane.
+
+(2) Ako je zbog izvanrednog događaja na moru osoba u pogibelji utočište našla na nepristupačnoj morskoj obali, tada područje nadležnosti iz stavka 1. ovoga članka obuhvaća i takvu morsku obalu.
+
+##### Članak 55.c
+
+(1) Poslove traganja i spašavanja osoba u pogibelji na moru pruža služba traganja i spašavanja na moru.
+
+(2) Služba traganja i spašavanja na moru iz stavka 1. ovoga članka je služba Ministarstva odgovorna za provedbu poslova traganja i spašavanja na moru, a čine ju:
+
+1. Nacionalna središnjica za usklađivanje traganja i spašavanja na moru (u daljnjem tekstu: »MRCC Rijeka«),
+
+2. podsredišnjice za usklađivanje traganja i spašavanja na moru (MRSC) – lučke kapetanije.
+
+(3) Službu traganja i spašavanja na moru iz stavka 1. ovoga članka čine i:
+
+1. jedinice traganja i spašavanja na moru i
+
+2. obalne promatračke jedinice.
+
+Članak 55.č
+
+(1) MRCC Rijeka je tijelo nadležno za usklađivanje akcija traganja i spašavanja osoba u pogibelji na moru na području nadležnosti traganja i spašavanja na moru Republike Hrvatske izvan unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske.
+
+(2) Podsredišnjice za usklađivanje traganja i spašavanja na moru (MRSC) jesu lučke kapetanije kao tijelo nadležno za provedbu traganja i spašavanja osoba u pogibelji na moru unutar područja nadležnosti u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske.
+
+(3) MRCC Rijeka pruža stručnu i tehničku potporu podsredišnjicama za usklađivanje traganja i spašavanja na moru (MRSC) radi provedbe traganja i spašavanja osoba u pogibelji na moru unutar područja nadležnosti pojedine lučke kapetanije.
+
+(4) Podaci za kontakt MRCC Rijeka i podsredišnjica za usklađivanje traganja i spašavanja na moru (MRSC) objavljuju se u službenim pomorskim publikacijama.
+
+Članak 55.ć
+
+(1) Jedinica traganja i spašavanja na moru je pomorska, zrakoplovna ili kopnena jedinica s osposobljenom i ovlaštenom posadom i opremljena prikladnom opremom koja je dužna obavljati poslove traganja i spašavanja osoba u pogibelji na moru.
+
+(2) Obalna promatračka jedinica je obalna ili kopnena jedinica s osposobljenim i ovlaštenim djelatnicima koja obavlja nadzor sigurnosti plovidbe ili pruža usluge pomorskih komunikacija koja je dužna obavljati poslove traganja i spašavanja osoba u pogibelji na moru.
+
+(3) Jedinice traganja i spašavanja na moru jesu i jedinice tijela javne vlasti koje se spašavanjem osoba u pogibelji bave u svojoj redovitoj djelatnosti ili koje svojom djelatnošću mogu pridonijeti unaprjeđenju poslova traganja i spašavanja osoba u pogibelji na moru.
+
+(4) Jedinice traganja i spašavanja na moru jesu i fizičke i pravne osobe koje poslove traganja i spašavanja osoba u pogibelji na moru obavljaju na dobrovoljnoj osnovi (u daljnjem tekstu: dobrovoljci) temeljem ugovora o dobrovoljnom obavljanju poslova traganja i spašavanja na moru.
+
+(5) Ugovorom iz stavka 4. ovoga članka uređuju se prava i obveze dobrovoljca koji obvezno sadrži i podatke o plovilu ili zrakoplovu, ako je dobrovoljac njihov vlasnik ili korisnik.
+
+(6) Za sklapanje ugovora o dobrovoljnom obavljanju poslova traganja i spašavanja na moru iz stavka 4. ovoga članka ovlašćuje se ministar.
+
+(7) Način i detaljniji uvjeti obavljanja poslova traganja i spašavanja osoba u pogibelji na moru iz članka 55.c ovoga Zakonika, operativne postupke i službene zapise službe traganja i spašavanja na moru, stjecanje stručne izobrazbe i osposobljavanje osoba koje obavljaju službu traganja i spašavanja na moru, popis jedinica traganja i spašavanja na moru i obalnih promatračkih jedinica iz stavka 3. ovoga članka, uređivanje prava i obveza dobrovoljaca i uvjeta sklapanja i raskidanja ugovora iz stavka 4. ovoga članka i način utvrđivanja naknade po tržišnoj vrijednosti za privremeno oduzete pokretnine iz članka 55.đ uređuju se Nacionalnim planom traganja i spašavanja osoba u pogibelji na moru koji uredbom donosi Vlada Republike Hrvatske.
+
+##### Članak 55.d
+
+(1) Fizičke osobe dobrovoljci tijekom akcija traganja i spašavanja osoba u pogibelji na moru imaju pravo na osiguranje za slučaj smrti ili tjelesne ozljede koje osigurava Ministarstvo u skladu s odredbama propisa iz članka 55.ć stavka 7. ovoga Zakonika.
+
+(2) Osobe koje imaju sklopljen ugovor iz članka 55.ć stavka 4. ovoga Zakonika u trajanju od najmanje 12 mjeseci stječu pravo na:
+
+– izuzeće od plaćanja naknada iz članaka 51. i 52. ovoga Zakonika,
+
+– izuzeće od plaćanja naknada iz članka 93.a stavka 1. ovoga Zakonika za brodove, jahte i brodice koji su kao pomorske jedinice utvrđene ugovorom iz članka 55.ć ovoga Zakonika,
+
+– izuzeće od plaćanja naknade za polaganje ispita iz članka 132. stavka 5. ovoga Zakonika.
+
+Članak 55.dž
+
+Zabranjeno je ometanje obavljanja poslova traganja i spašavanja osoba u pogibelji na moru iz članka 55.a ovoga Zakonika kao i upućivanje poziva ili uzbune pogibelji kada osobe koje ih upućuju ili osobe u čije ime se upućuju takvi pozivi ili uzbune nisu u pogibelji.
+
+Članak 55.đ
+
+(1) Kada je to prijeko potrebno zbog žurne i neodgodive provedbe traganja i spašavanja osoba u pogibelji na moru, službenik lučke kapetanije ovlašten je usmenim rješenjem vlasniku ili posjedniku privremeno oduzeti plovni objekt, vozilo ili drugu stvar, uz pisanu potvrdu.
+
+(2) Vlasnik ili posjednik stvari iz stavka 1. ovoga članka dužan je postupiti sukladno izrečenom usmenom rješenju.
+
+(3) Vlasniku ili posjedniku kojemu je imovina privremeno oduzeta radi provedbe traganja i spašavanja osoba u pogibelji na moru ili koji je privremeno ograničen u izvršavanju svoga vlasničkoga prava pripada pravo na naknadu po tržišnoj vrijednosti, a ako je pritom imovina oštećena ili uništena, i pravo na naknadu štete.
+
+(4) Službenik lučke kapetanije dužan je za usmeno rješenje iz stavka 1. ovoga članka donijeti rješenje u pisanom obliku, najkasnije u roku od osam dana od dana izdavanja usmenog rješenja.
+
+(5) Protiv rješenja kojim se privremeno oduzima plovni objekt, vozilo ili druga stvar iz stavaka 1. i 4. ovoga članka ne može se podnijeti žalba, ali se može pokrenuti upravni spor.
+
+(6) Način utvrđivanja naknade po tržišnoj vrijednosti za privremeno oduzete pokretnine iz stavka 3. ovoga članka utvrđuje Vlada Republike Hrvatske uredbom iz članka 55.ć stavka 7. ovoga Zakonika.
+
+##### Članak 55.e
+
+(1) Spasilačke jedinice i dobrovoljci nemaju pravo na nagradu za spašavanje osoba u pogibelji na moru.
+
+(2) Spasilačke jedinice i dobrovoljci nemaju pravo na nagradu za imovinu spašenu u akcijama traganja i spašavanja na moru u smislu odredbi dijela osmog glave druge ovoga Zakonika.
+
+### GLAVA II.b — POSLOVI PREDVIĐANJA, SPRJEČAVANJA, OGRANIČAVANJA, SPREMNOSTI I INTERVENCIJA KOD IZNENADNIH ONEČIŠĆENJA MORA
+
+##### Članak 55.f
+
+(1) Postupci i mjere za predviđanje, sprječavanje, ograničavanje, spremnost i intervencije kod iznenadnih onečišćenja mora, smanjenje šteta u morskom okolišu i otklanjanje posljedica šteta radi zaštite morskog okoliša i obalnog područja u unutarnjim morskim vodama, teritorijalnom moru i morskom dnu i podzemlju tih područja, kao i zaštićenom ekološko-ribolovnom pojasu i epikontinentalnom pojasu te drugim područjima mora nad kojima je Republika Hrvatska dužna provoditi takve postupke i mjere u skladu s međunarodnim ugovorima utvrđuju se Planom intervencija kod iznenadnih onečišćenja mora.
+
+(2) Planom intervencija iz stavka 1. ovoga članka utvrđuju se:
+
+– prava i obveza subjekata koji su dužni provoditi postupke i mjere, ovlaštenja u vezi s provedbom mjera te odgovornost i ovlasti za postupanje i način rukovođenja, koordiniranja i zapovijedanja,
+
+– prava i obveze priobalnih županija i jedinica lokalne samouprave koje su dužne provoditi postupke i mjere,
+
+– način i uvjeti provedbe pripravnosti, aktiviranja i djelovanja operativnih snaga i drugih sudionika u intervencijama,
+
+– način i uvjeti stručnog osposobljavanja i programi stručnog osposobljavanja sudionika u provedbi postupaka i mjera,
+
+– način i uvjeti opremanja i korištenja materijalnih, tehničkih i drugih sredstava,
+
+– način i uvjeti provedbe postupaka i mjera kako su utvrđene posebnim propisom o sigurnosti pri odobalnom istraživanju i eksploataciji ugljikovodika,
+
+– način održavanja reda i sigurnosti u intervencijama,
+
+– način i uvjeti osiguravanja financijskih sredstava za provedbu plana osim financijskih sredstava iz članka 51. ovoga Zakonika,
+
+– druga prava i obveze te uvjeti za provedbu mjera iz stavka 1. ovoga članka.
+
+(3) Osim propisanog u stavku 1. ovoga članka, na Plan intervencija primijenit će se i odredbe o sadržaju i načinu donošenja Plana intervencija kod iznenadnih onečišćenja mora iz propisa kojim se uređuje sigurnost pri odobalnom istraživanju i eksploataciji ugljikovodika i propisa kojim se uređuje zaštita okoliša.
+
+(4) Plan intervencija iz stavka 1. ovoga članka uredbom donosi Vlada Republike Hrvatske.
+
+##### Članak 55.g
+
+(1) Radi usklađene i djelotvorne provedbe mjera iz članka 55.f ovoga Zakonika Vlada Republike Hrvatske osniva Stožer za zaštitu mora od onečišćenja (u daljnjem tekstu: Stožer).
+
+(2) Članove i zamjenike članova Stožera imenuje Vlada Republike Hrvatske iz redova središnjih tijela državne uprave nadležnih za: more, zaštitu okoliša, zaštitu prirode, unutarnje poslove, vodno gospodarstvo, vanjske poslove, financije, zaštitu i spašavanje te obranu.
+
+(3) Zapovjednik Stožera je predstavnik središnjeg tijela državne uprave nadležnog za pomorstvo.
+
+(4) Članovi i zamjenici članova stožera te zapovjednik stožera iz stavka 2. ovoga članka ne primaju naknadu za svoj rad.
+
+(5) Sva tijela državne uprave i tijela javne vlasti, brodari ili vlasnici pomorskih objekata i tijela koja upravljaju lukama koja imaju kapacitete i mogu pridonijeti provedbi mjera iz članka 55.f ovoga Zakonika, kao i osobe odgovorne za odobalno istraživanje i eksploataciju ugljikovodika dužni su pristupiti poduzimanju tih mjera u skladu s Planom intervencija kod iznenadnih onečišćenja mora.
+
+##### Članak 55.h
+
+(1) Radi učinkovite provedbe postupaka i mjera iz članka 55.f ovoga Zakonika predstavničko tijelo priobalne županije dužno je donijeti županijski plan intervencija kod iznenadnih onečišćenja mora uz prethodnu suglasnost Ministarstva.
+
+(2) Lučka kapetanija dužna je o onečišćenju mora izvijestiti nadležno tijelo županije za intervencije kod onečišćenja mora radi poduzimanja odgovarajućih mjera, a nadležno županijsko tijelo dužno je bez odgađanja poduzeti sve potrebne mjere radi sprječavanja i ograničavanja širenja onečišćenja te otklanjanja onečišćenja u skladu s planom iz stavka 1. ovoga članka.«.
+
+##### Članak 16.
+
+Članak 56.a mijenja se i glasi:
+
+»(1) Lučke uprave i koncesionari luka posebne namjene dužni su osigurati opremanje luke odgovarajućom opremom i uređajima za rukovanje i prihvat krutog i tekućeg otpada, ostataka tereta s plovnih objekata, zauljenih voda i fekalija kako su definirane odredbama MARPOL Konvencije 73/78 kako je izmijenjena i dopunjena.
+
+(2) Lučke uprave i koncesionari luka posebne namjene dužni su donijeti i primijeniti Plan za prihvat i rukovanje otpadom i ostacima tereta i osigurati prihvat i sakupljanje otpada s plovnih objekata odvojeno za svaku vrstu otpada i ostataka tereta te kategorija smeća u skladu s odredbama MARPOL Konvencije 73/78, kako je izmijenjena i dopunjena.
+
+(3) Plan iz stavka 2. ovoga članka donosi se uz konzultacije s predstavnicima korisnika luka i drugim zainteresiranim osobama i tijelima.
+
+(4) Plan iz stavka 2. ovoga članka ovjerava nadležna lučka kapetanija s rokom valjanosti od tri godine.
+
+(5) Pravo na sakupljanje i obradu otpada iz luka imaju osobe koje su za to ovlaštene posebnim propisom.
+
+(6) Kapacitet i dostupnost opreme i uređaja iz stavka 1. ovoga članka moraju odgovarati potrebama brodova koji uobičajeno koriste luku bez uzrokovanja nepotrebnog kašnjenja brodova.
+
+(7) Lučke uprave i koncesionari luka posebne namjene dužni su najkasnije 30 dana prije isteka roka valjanosti iz stavka 4. ovoga članka dostaviti nadležnoj lučkoj kapetaniji na pregled i odobrenje plan iz stavka 2. ovoga članka.
+
+(8) U slučaju značajnijih promjena na lučkom području, plan iz stavka 2. ovoga članka potrebno je uskladiti s nastalim promjenama te dostaviti nadležnoj lučkoj kapetaniji na pregled i odobrenje u roku od osam dana od dana nastanka tih promjena.
+
+(9) Ministarstvo će ispitati svaki slučaj prijave neadekvatnosti ili nedostatnosti sustava prihvata otpada s brodova te naložiti otklanjanje utvrđenih nedostataka.
+
+(10) Ministar će uz prethodnu suglasnost ministra nadležnog za zaštitu okoliša propisom iz članka 56.b stavka 9. ovoga Zakonika propisati sadržaj plana za prihvat i rukovanje otpadom i ostacima tereta te način postupanja s prigovorima.«.
+
+##### Članak 17.
+
+U članku 58. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Tijelo iz stavka 1. ovoga članka dužno je bez odgađanja poduzeti vađenje, odnosno uklanjanje podrtine ili potonule stvari koja se nalazi na lučkom području, sukladno odredbama ovoga Zakonika te uvjetima vađenja ili uklanjanja koje rješenjem utvrdi nadležna lučka kapetanija.
+
+(4) Tijelo iz stavka 1. ovoga članka dužno je bez odgađanja poduzeti mjere radi sprječavanja širenja onečišćenja te otklanjanja onečišćenja, kako je to utvrđeno propisom iz članka 55.f ovoga Zakonika.«.
+
+##### Članak 18.
+
+U članku 62. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Domaći i strani plovni objekt, uključujući i brod u gradnji koji plovi, bruto tonaže veće od 1.000, koji namjerava uploviti u hrvatsku luku ili pristati uz odobalni objekt u njezinu teritorijalnom moru mora imati svjedodžbu o osiguranju ili drugom financijskom jamstvu radi pokrivanja odgovornosti za štetu zbog onečišćenja pogonskim uljem predviđenu u članku 823.e ovoga Zakonika.
+
+(4) Odredba stavka 3. ovoga članka odnosi se i na plovni objekt, uključujući i brod u gradnji koji plovi, bruto tonaže veće od 1.000, koji je u vlasništvu strane države, a koji nije pokriven osiguranjem ili drugim financijskim jamstvom, ako nema svjedodžbu države u kojoj je upisan da je vlasništvo države i da je njegova odgovornost pokrivena u granicama predviđenima u članku 823.d stavku 1. ovoga Zakonika.«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Domaći i strani plovni i plutajući objekt, uključujući i brod u gradnji koji plovi, bruto tonaže 300 ili više koji namjerava uploviti u unutarnje morske vode, odnosno pristati uz odobalni objekt u teritorijalnom moru, mora imati svjedodžbu o osiguranju ili drugom financijskom jamstvu, radi pokrivanja troškova lociranja, označavanja i uklanjanja podrtine u iznosu propisanom člankom 840.p ovoga Zakonika.«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Odredba stavka 7. ovoga članka odnosi se i na plovni i plutajući objekt, uključujući i brod u gradnji koji plovi, bruto tonaže 300 ili više, koji je u vlasništvu strane države, a koji nije pokriven osiguranjem ili drugim financijskim jamstvom, ako nema svjedodžbu države u kojoj je upisan da je vlasništvo države i da je njegova odgovornost pokrivena u granicama predviđenima u članku 840.p stavku 1. ovoga Zakonika.«.
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+##### Članak 19.
+
+U članku 66. stavku 1. iza riječi: »Plovni objekt« dodaju se zarez i riječi: »osim brodice i jahte,«.
+
+U stavku 2. iza riječi: »jahta« dodaju se zarez i riječi: »kao i strana brodica«.
+
+##### Članak 20.
+
+U članku 67. riječi: »Strani plovni objekt« zamjenjuju se riječima: »Plovni objekt treće države«.
+
+##### Članak 21.
+
+U članku 70. stavak 2. mijenja se i glasi:
+
+»(2) Obveznom peljarenju ne podliježu:
+
+a) hrvatski ratni brodovi, hrvatski javni brodovi, brodovi koji služe za održavanje plovnih putova i objekata sigurnosti plovidbe na tim putovima, vodonosci, kao i putnički brodovi koji plove na redovnoj liniji u nacionalnoj plovidbi,
+
+b) brodovi čija je bruto tonaža manja od 500,
+
+c) jahte čija je bruto tonaža manja od 1.000.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Iznimno od odredbe stavka 2. točaka b) i c) ovoga članka ministar može propisom iz stavka 9. ovoga članka za pojedine vrste brodova čija je bruto tonaža manja od 500 i jahte čija je bruto tonaža manja od 1.000 odrediti da podliježu obveznom lučkom peljarenju u određenom razdoblju godine i/ili određenom području mora.«.
+
+U stavku 9. iza riječi: »kao i uvjeti i način obavljanja peljarenja,« dodaju se riječi: »granice, vrijeme i mjesto ukrcavanja i iskrcavanja peljara za obalno peljarenje«.
+
+##### Članak 22.
+
+U članku 73. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Peljar je dužan bez odgađanja izvijestiti nadležnu lučku kapetaniju o očitim nepravilnostima na brodu uočenim tijekom redovitih dužnosti, a koje mogu ugroziti sigurnost plovidbe ili predstavljati opasnost od onečišćenja morskog okoliša.«.
+
+##### Članak 23.
+
+Iza članka 75.c dodaju se članci 75.č i 75.ć koji glase:
+
+»Članak 75.č
+
+(1) Zbog sigurnosti plovidbe i zaštite okoliša, djelatnik ovlašten za nadzor i upravljanje pomorskim prometom Ministarstva i lučkih kapetanija ili MRCC Rijeka može narediti privremeno zatvaranje određenog dijela plovnog puta, luke ili dijela luke za pomorski promet.
+
+(2) Zabranjeno je korištenje određenog dijela plovnog puta, luke ili dijela luke koji je privremeno zatvoren naredbom iz stavka 1. ovoga članka.
+
+(3) U slučaju neposredne opasnosti za ljudske živote na moru, sigurnost plovidbe ili okoliš djelatnik iz stavka 1. ovoga članka može izdati naredbu plovnom objektu da uplovi u mjesto zakloništa, da bude peljaren ili tegljen te drugoj osobi da izvrši naložene radnje s ciljem smanjenja opasnosti, te su plovni objekti i druge osobe u odnosu na koje je naredba izdana dužni postupati u skladu s naredbom.
+
+(4) Kada u slučaju iznimno lošeg vremena ili stanja mora postoji ozbiljna prijetnja od onečišćenja mora ili je ugrožena sigurnost ljudskih života, djelatnik iz stavka 1. ovoga članka će:
+
+1. kada je to moguće, obavijestiti plovni objekt o stanju mora, vremenskim prilikama, i opasnosti koju one predstavljaju za njegov plovni objekt, teret, posadu i putnike i
+
+2. ne dovodeći u pitanje dužnost pomaganja plovnim objektima u pogibelji, izdati naredbu ili zabranu uplovljavanja ili isplovljavanja iz luke jednom ili više plovnih objekata na pogođenim područjima sve dok se ne utvrdi da više ne postoji rizik za ljudski život i/ili za okoliš.
+
+(5) Mjere iz stavka 3. ovoga članka djelatnik iz stavka 1. ovoga članka može primijeniti i na pomorske objekte uključene u pružanje pomoći, spašavanje ili tegljenje u okviru ugovora o tegljenju ili spašavanju.
+
+(6) U slučajevima iz stavka 4. ovoga članka ovlašteni djelatnik lučke kapetanije ovlašten je ograničiti ili, ako je potrebno, zabraniti prekrcaj goriva na plovne objekte, a plovni objekti su dužni postupati u skladu s ograničenjem, odnosno zabranom.
+
+(7) Zapovjednik, odnosno osoba koja upravlja pomorskim objektom ili druga osoba dužna je postupati prema naredbama iz stavaka 1. i 3. ovoga članka.
+
+(8) O postupanju suprotnom od mjera iz stavaka 4. i 6. ovoga članka zapovjednik, odnosno osoba koja upravlja pomorskim objektom dužna je bez zadrške izvijestiti ovlaštenog djelatnika.
+
+(9) Mjere iz stavaka 4. i 6. ovoga članka temelje se na stanju mora i vremenskoj prognozi Državnog hidrometeorološkog zavoda.
+
+Članak 75.ć
+
+(1) U obavljanju poslova službe nadzora i upravljanja pomorskim prometom, za to ovlašteni djelatnik može određenom plovnom objektu ili skupini plovnih objekata naredbom:
+
+1. zabraniti prolaz ili zabraniti plovidbu određenim područjem,
+
+2. zabraniti pretjecanje ili utvrditi područje pretjecanja,
+
+3. zabraniti isplovljenje iz luke ili sa sidrišta ili ulazak u određeni dio plovnog puta,
+
+4. zabraniti uplovljenje u luku ili sidrenje ili izlazak iz određenog dijela plovnog puta,
+
+5. ograničiti kretanje ili promjenu brzine,
+
+6. odrediti kretanje u određenom smjeru ili odrediti plan putovanja,
+
+7. odrediti područje kretanja u određenom vremenu i/ili,
+
+8. zabraniti sidrenje i naredbom odrediti područje sidrenja.
+
+(2) Plovni objekt dužan je postupati prema naredbama iz stavka 1. ovoga članka.«.
+
+##### Članak 24.
+
+Članak 76. mijenja se i glasi:
+
+»(1) Brod je sposoban za plovidbu, odnosno uporabu u određenim kategorijama plovidbe i za određenu namjenu ako udovoljava odredbama ovoga Zakonika, propisa donesenih na temelju ovoga Zakonika i Tehničkim pravilima u vezi sa:
+
+1. sigurnošću ljudskih života, broda i imovine,
+
+2. sustavom upravljanja sigurnošću kompanije i broda,
+
+3. sigurnosnom zaštitom,
+
+4. sprječavanjem onečišćavanja pomorskog okoliša uljem, štetnim tvarima, otpadnim vodama i otpadom,
+
+5. sprječavanjem onečišćavanja zraka,
+
+6. zaštitom pomorskog okoliša od bioinvazivnih vrsta u balastnim vodama,
+
+7. zaštitom morskog okoliša od štetnog djelovanja sustava protiv obrastanja trupa,
+
+8. zaštitom na radu, smještajem posade i drugih osoba zaposlenih na brodu,
+
+9. uvjetima za prijevoz putnika,
+
+10. sigurnošću uređaja za rukovanje teretom.
+
+(2) Odredbe stavka 1. točaka 2., 3., 6. i 9. ovoga članka ne primjenjuju se na plutajuće objekte i nepomične odobalne objekte, dok se odredbe stavka 1. točaka 2. i 3. ovoga članka ne primjenjuju na brodice.
+
+(3) Osim uvjeta iz stavka 1. ovoga članka brod je sposoban za plovidbu i:
+
+1. ako je na njemu ukrcan barem najmanji propisani broj članova posade s odgovarajućim svjedodžbama o osposobljenosti i dopunskoj osposobljenosti ili propisan broj stručnih radnika koji brod mora imati za sigurnu plovidbu,
+
+2. ako je smještaj i broj ukrcanih putnika u skladu s:
+
+– propisima kojima se uređuje prijevoz putnika,
+
+– odredbama i uvjetima navedenim u brodskim ispravama, zapisima i knjigama i odobrenoj tehničkoj dokumentaciji,
+
+3. ako je teret na brodu ukrcan, složen, raspoređen i osiguran u skladu s:
+
+– propisima kojima se uređuju uvjeti prijevoza tereta,
+
+– odredbama i uvjetima navedenim u brodskim ispravama, zapisima i knjigama i odobrenoj tehničkoj dokumentaciji broda,
+
+4. ako su na brodu osigurani propisani uvjeti pružanja medicinske skrbi i ako brod ima i propisno vodi brodsku ljekarnu,
+
+5. ako brod ima ažurirane službene pomorske navigacijske karte i publikacije.
+
+(4) Osim uvjeta iz stavaka 1. i 3. ovoga članka plutajući objekt i nepomični odobalni objekt sposoban je za plovidbu, odnosno uporabu ako je sigurno privezan, usidren, položen na morsko dno, odnosno djelomično ili potpuno ukopan u morsko dno.
+
+(5) Ako se plutajući ili nepomični odobalni objekt postavlja ili upotrebljava u unutarnjim morskim vodama ili teritorijalnom moru Republike Hrvatske, osim plutajućeg objekta koji se postavlja ili upotrebljava u luci, osim uvjeta propisanih stavcima 1. do 4. ovoga članka, mora zadovoljavati uvjete određene lokacijskom dozvolom, odnosno detaljnim planom uređenja.
+
+(6) Brod u nacionalnoj plovidbi, osim broda za prijevoz opasnih i štetnih tvari na kojem nisu ukrcani putnici i teret, za vrijeme boravka na sigurnom vezu u luci ne duljeg od pet dana, ne mora udovoljavati uvjetima za sigurnu plovidbu iz stavka 3. podstavka 1. ovoga članka, ako udovoljava uvjetima kako su utvrđeni propisom iz članka 56. stavka 2. ovoga Zakonika.
+
+(7) Kategoriju plovidbe pomorskih brodova naredbom propisuje ministar.
+
+(8) Uvjete koje moraju ispunjavati brodice i jahte te osobe koje upravljaju brodicama i jahtama, uvjete za plovidbu brodica i jahti, područja plovidbe, stavljanje na tržište, uvjete koje moraju ispunjavati prijavljena tijela te način i postupak imenovanja pravilnikom propisuje ministar.
+
+(9) Minimalne uvjete koje mora zadovoljavati brod, oprema i uređaji, radi pružanja odgovarajuće medicinske skrbi članovima posade, te opremu i obvezni sadržaj brodske ljekarne kao i očevidnike o sadržaju brodske ljekarne i način njihova vođenja propisuje pravilnikom ministar nadležan za poslove zdravstva uz prethodnu suglasnost ministra.«.
+
+##### Članak 25.
+
+Članak 77. mijenja se i glasi:
+
+»(1) Sposobnost za plovidbu, odnosno uporabu, prema odredbama članka 76. stavka 1. točaka 1., 2., 4., 5., 6., 7., 8., 9. i 10. ovoga Zakonika, utvrđuje priznata organizacija obavljanjem tehničkog nadzora i posvjedočuje izdavanjem odgovarajućih brodskih isprava, zapisa i knjiga u skladu s odredbama Tehničkih pravila.
+
+(2) Sposobnost za plovidbu, prema odredbama članka 76. stavka 1. točke 3. ovoga Zakonika, utvrđuje ovlaštena organizacija za sigurnosnu zaštitu brodova obavljanjem tehničkog nadzora i posvjedočuje izdavanjem odgovarajućih brodskih isprava, zapisa i knjiga u skladu s odredbama Tehničkih pravila i drugih propisa kojima se uređuje sigurnosna zaštita brodova.
+
+(3) Sposobnost za plovidbu, odnosno uporabu, prema odredbama članka 76. stavka 1. ovoga Zakonika, u odnosu na brodove hrvatske državne pripadnosti u nacionalnoj plovidbi utvrđuje Hrvatski registar brodova.
+
+(4) Sposobnost za plovidbu, prema odredbama članka 76. stavka 1. ovoga Zakonika, jahti duljine trupa veće od 24 metra u međunarodnoj plovidbi utvrđuje priznata organizacija, obavljanjem tehničkog nadzora i posvjedočuje izdavanjem odgovarajućih isprava, zapisa i knjiga u skladu s odredbama Tehničkih pravila i drugih propisa donesenih na temelju ovoga Zakonika.
+
+(5) Sposobnost za plovidbu jahti, osim jahti iz stavka 4. ovoga članka, utvrđuje Hrvatski registar brodova, obavljanjem tehničkog nadzora i posvjedočuje izdavanjem odgovarajućih isprava, zapisa i knjiga u skladu s odredbama Tehničkih pravila i drugih propisa donesenih na temelju ovoga Zakonika.
+
+(6) Sposobnost za plovidbu, prema odredbama članka 76. stavka 1. ovoga Zakonika, brodica za gospodarske namjene utvrđuju lučke kapetanije obavljanjem tehničkog nadzora i posvjedočuju izdavanjem odgovarajućih isprava, zapisa i knjiga, uz prethodno izdavanje odgovarajućih potvrda Hrvatskog registra brodova, u skladu s odredbama Tehničkih pravila i drugih propisa donesenih na temelju ovoga Zakonika.
+
+(7) Sposobnost za plovidbu, prema odredbama članka 76. stavka 1. ovoga Zakonika, brodica za osobne potrebe utvrđuju lučke kapetanije obavljanjem tehničkog nadzora i posvjedočuju izdavanjem odgovarajućih isprava, zapisa i knjiga u skladu s odredbama Tehničkih pravila i drugih propisa donesenih na temelju ovoga Zakonika.
+
+(8) Ministarstvo može obavljanje pojedinih vrsta tehničkog nadzora koji obavljaju lučke kapetanije radi utvrđivanja sposobnosti za plovidbu iz stavaka 6. i 7. ovoga članka ustupiti Hrvatskom registru brodova na način i prema uvjetima kako se utvrđuju Tehničkim pravilima.
+
+(9) Tehnička pravila donosi ministar.
+
+(10) Zahtjeve za pomorsku opremu kojom se opremaju brodovi hrvatske državne pripadnosti, uvjete za stavljanje takve opreme na tržište u Republici Hrvatskoj, kao i uvjete koje moraju ispunjavati imenovana tijela za statutarnu certifikaciju pomorske opreme te način i postupak imenovanja propisuje ministar.
+
+(11) Prava i obveze priznatih organizacija u odnosu na Ministarstvo, način i postupak ovlašćivanja te obavljanje tehničkog nadzora propisuje ministar.
+
+(12) Ugovorom o prijenosu ovlaštenja između Ministarstva i priznate organizacije, odnosno ovlaštene organizacije za sigurnosnu zaštitu brodova utvrđuje se opseg, uvjeti, prava i obveze iz ovlaštenja za obavljanje tehničkog nadzora i izdavanje brodskih isprava, zapisa i knjiga u skladu s Uredbom (EZ) br. 391/2009 Europskog parlamenta i Vijeća od 23. travnja 2009. o zajedničkim pravilima i normama za organizacije koje obavljaju pregled i nadzor brodova (preinačena) (Tekst značajan za EGP) (SL L 131, 28. 5. 2009.).
+
+(13) Sposobnost broda za plovidbu prema odredbama članka 76. ovoga Zakonika provjerava se inspekcijskim nadzorom.
+
+(14) Sposobnost za plovidbu, odnosno uporabu iz stavaka 1., 2. i 3. ovoga članka može utvrđivati i Ministarstvo.«.
+
+##### Članak 26.
+
+Članak 78. mijenja se i glasi:
+
+(1) Tehnički nadzor obuhvaća:
+
+1. odobrenje tehničke dokumentacije na temelju koje se brod gradi ili preinačuje,
+
+2. tipno ili pojedinačno odobrenje strojeva, uređaja i opreme namijenjene za ugradnju u brod,
+
+3. nadzor nad izradbom materijala, strojeva, uređaja i opreme namijenjene za ugradnju u brod u radionicama proizvođača,
+
+4. odobrenje proizvođača i uslužnih tvrtki,
+
+5. nadzor nad gradnjom trupa i ugradnjom strojeva, uređaja i opreme u brodogradilištu,
+
+6. ocjenjivanje sustava upravljanja sigurnošću kompanije i broda,
+
+7. verifikaciju sigurnosne zaštite broda
+
+8. ocjenu sukladnosti brodice za sport i razonodu ili jahte duljine do 24 m za vrijeme gradnje kod graditelja,
+
+9. preglede, ocjene i verifikacije postojećih brodova.
+
+(2) Tehnički nadzor sukladno stavku 1. točkama 1., 5. i 6. ovoga članka, na temelju zahtjeva kojeg je prije početka gradnje ili preinake obvezna podnijeti kompanija ili graditelj za brod u gradnji, odnosno za brod na kojem se obavljaju radovi popravka, izmjene, preinake, obnove opreme većeg značaja, promjene namjene, promjene područja plovidbe te povećanja broja putnika, obavlja priznata organizacija.
+
+(3) Tehnički nadzor pomorske opreme u skladu sa stavkom 1. točkama 2. i 3. ovoga članka namijenjene za ugradnju na brodove hrvatske državne pripadnosti koji:
+
+– podliježu odredbama međunarodnih konvencija, obavlja prijavljeno tijelo za ocjenu sukladnosti pomorske opreme,
+
+– ne podliježu međunarodnim konvencijama, obavlja priznata organizacija.
+
+(4) Tehnički nadzor nad izradbom materijala te odobrenje proizvođača i uslužnih tvrtki, u skladu sa stavkom 1. točkama 3. i 4. ovoga članka, obavlja priznata organizacija.
+
+(5) Verifikaciju sigurnosne zaštite broda u skladu sa stavkom 1. točkom 7. ovoga članka obavlja ovlaštena organizacija za sigurnosnu zaštitu brodova.
+
+(6) Ocjenu sukladnosti brodice za sport i razonodu ili jahte duljine do 24 m za vrijeme gradnje kod graditelja obavlja prijavljeno tijelo.
+
+(7) Tehnički nadzor iz stavka 2. ovoga članka i verifikaciju sigurnosne zaštite broda iz stavka 5. ovoga članka može obavljati i Ministarstvo.«.
+
+##### Članak 27.
+
+Članak 80. mijenja se i glasi:
+
+»Osnovni pregled je obvezan pregled kojem podliježe postojeći brod prije upisa u upisnik brodova.«.
+
+##### Članak 28.
+
+U članku 85. iza riječi: »kompanija« dodaju se riječi: »ili vlasnik«.
+
+##### Članak 29.
+
+U članku 86. iza riječi: »suglasnosti« dodaju se riječi: »Ministarstva ili«.
+
+##### Članak 30.
+
+U članku 88. iza riječi: »Republike Hrvatske,« dodaju se riječi: »Ministarstvo ili«.
+
+##### Članak 31.
+
+U članku 89. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Odredbe članaka 89.a do 93. ovoga Zakonika ne primjenjuju se na brodicu, osim brodice koja se koristi za ribolovne aktivnosti, neovisno o tome koristi li se za osobne potrebe ili za gospodarsku djelatnost, jahtu duljine trupa manjeg od 24 metra u nacionalnoj plovidbi i nepomične odobalne objekte.«.
+
+##### Članak 32.
+
+Iza članka 89. dodaju se članci 89.a i 89.b koji glase:
+
+»Članak 89.a
+
+(1) Tonaža broda i jahte duljine trupa jednakog 24 metra ili većeg sastoji se od bruto i neto tonaže.
+
+(2) Tonaža brodica i plutajućeg objekta je bruto tonaža.
+
+##### Članak 89.b
+
+Bruto tonaža je mjera cijele veličine broda, a neto tonaža mjera korisnog kapaciteta broda.«.
+
+##### Članak 33.
+
+Članak 90. mijenja se i glasi:
+
+»(1) Baždarenje brodova obavlja se prema Tehničkim pravilima.
+
+(2) Baždarenje ribarskog broda i brodice koja se koristi za ribolovne aktivnosti, neovisno o tome koristi li se za osobne potrebe ili za gospodarsku djelatnost obavlja se sukladno Uredbi (EU) 2017/1130 Europskog parlamenta i Vijeća od 14. lipnja 2017. o definiranju karakteristika ribarskih plovila (SL L 169, 30. 6. 2017.).«.
+
+##### Članak 34.
+
+Iza članka 90. dodaje se članak 90.a koji glasi:
+
+»Članak 90.a
+
+(1) Baždarenje broda u međunarodnoj plovidbi i jahte duljine trupa jednakog 24 metra ili većeg u međunarodnoj plovidbi obavlja priznata organizacija.
+
+(2) Baždarenje broda i jahte u nacionalnoj plovidbi te jahte duljine trupa manjeg od 24 metra u međunarodnoj plovidbi obavlja Hrvatski registar brodova.
+
+(3) Baždarenje brodice obavlja lučka kapetanija, odnosno ispostava lučke kapetanije nadležna za upis u upisnik brodova.«.
+
+##### Članak 35.
+
+Članak 91. mijenja se i glasi:
+
+»Baždarenju podliježe svaki brod koji se upisuje u hrvatski upisnik brodova koji prethodno nije baždaren sukladno Međunarodnoj konvenciji o baždarenju brodova iz 1969. godine ili Tehničkim pravilima.«.
+
+##### Članak 36.
+
+U članku 93. stavku 1. točki 2. na kraju rečenice umjesto zareza stavlja se točka.
+
+Točka 3. briše se.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Vlasnik podnosi zahtjev za ponovno baždarenje hrvatskog broda prije završetka radova na preinaci kojima se mijenja bruto ili neto tonaža broda ili nakon dolaska broda u prvu hrvatsku luku ako se radovi na preinaci broda izvode u inozemstvu, a brod nije baždaren u inozemstvu.«.
+
+##### Članak 37.
+
+Iza članka 93. dodaje se članak 93.a koji glasi:
+
+»Članak 93.a
+
+(1) Za troškove obavljenog tehničkog nadzora iz članka 78. ovoga Zakonika, odnosno troškove obavljenog baždarenja iz članka 90.a ovoga Zakonika plaća se naknada.
+
+(2) Ministar će pravilnikom propisati visinu naknade iz stavka 1. ovoga članka za troškove tehničkog nadzora, odnosno baždarenja brodice.
+
+(3) Visinu naknade iz stavka 1. ovoga članka za troškove tehničkog nadzora, odnosno baždarenja jahte duljine trupa manjeg od 24 metra u međunarodnoj plovidbi, jahte i broda u nacionalnoj plovidbi određuje Hrvatski registar brodova uz suglasnost Ministarstva.
+
+(4) Visinu naknade iz stavka 1. ovoga članka za troškove ocjene sukladnosti pomorske opreme i ocjenu sukladnosti za vrijeme gradnje brodice za sport i razonodu ili jahte duljine do 24 m određuje prijavljeno tijelo.
+
+(5) Visinu naknade iz stavka 1. ovoga članka za troškove verifikacije sigurnosne zaštite broda određuje ovlaštena organizacija za sigurnosnu zaštitu brodova.
+
+(6) Visinu naknade iz stavka 1. ovoga članka za troškove tehničkog nadzora iz članka 78. ovoga Zakonika, osim tehničkog nadzora iz stavaka 2. do 5. ovoga članka, odnosno baždarenja iz članka 90.a stavka 1. ovoga Zakonika određuje priznata organizacija.«.
+
+##### Članak 38.
+
+Članak 94. mijenja se i glasi:
+
+»(1) Brodske isprave, zapisi i knjige koje brod mora imati sukladno odredbama ovoga Zakonika služe kao dokaz o identitetu, sposobnosti za plovidbu i ostalim svojstvima broda.
+
+(2) U brodske zapise i knjige, koje brod mora voditi, unose se podaci o važnijim događajima na brodu i obavljenim radnjama na brodu.
+
+(3) Ministar Tehničkim pravilima propisuje sadržaj, obrasce, način vođenja isprava, zapisa i knjiga, kao i oblik, rokove valjanosti, uvjete produljenja valjanosti, prestanak valjanosti, suspenziju ili povlačenje brodskih isprava, zapisa i knjiga.«.
+
+##### Članak 39.
+
+U članku 95. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Brodske isprave, zapisi i knjige propisane ovim Zakonikom mogu se voditi u pisanom ili elektroničkom obliku.«.
+
+##### Članak 40.
+
+Članak 97. mijenja se i glasi:
+
+»(1) Brodu upisanom u upisnik brodova izdaje se upisni list.
+
+(2) Upisnim listom dokazuje se hrvatska državna pripadnost broda.
+
+(3) U slučaju nepodudaranja sadržaja upisnog lista sa sadržajem upisnika brodova važi ono što je upisano u upisniku brodova.«.
+
+##### Članak 41.
+
+Članak 98. briše se.
+
+##### Članak 42.
+
+Članak 99. mijenja se i glasi:
+
+»(1) Privremeni upisni list izdaje se brodu kada još nisu ispunjeni uvjeti za upis, brodu nabavljenom u inozemstvu koji još nema upisni list, brodu koji je u inozemstvu, a izgubljen mu je upisni list, te brodu u gradnji, kada još nisu ispunjeni uvjeti za upis u upisnik kao brod.
+
+(2) Brod i brod u gradnji koji još nije upisan u hrvatski upisnik brodova stječe privremenim upisnim listom hrvatsku državnu pripadnost i pravo i dužnost vijati zastavu Republike Hrvatske.
+
+(3) Privremeni upisni list važi najdulje tri mjeseca od njegova izdavanja.
+
+(4) Privremeni upisni list izdaje nadležna lučka kapetanija iz članka 254. ovoga Zakonika.«.
+
+##### Članak 43.
+
+Glave VI. i VII. te članci 100. do 109. i 111. do 124. brišu se.
+
+##### Članak 44.
+
+Iza članka 124. dodaju se glava VII.a, naziv glave i članci 124.a do124.f koji glase:
+
+### »GLAVA VII.a — RASPREMA
+
+##### Članak 124.a
+
+(1) U smislu odredbi ove glave Zakonika pomorski objekt je pomorski objekt hrvatske državne pripadnosti ili pomorski objekt koji vije zastavu države članice Europske unije, koji se nalazi u unutarnjim morskim vodama Republike Hrvatske.
+
+(2) Odredbe ove glave Zakonika primjenjuju se na sve pomorske objekte, osim na brodice i jahte.
+
+##### Članak 124.b
+
+(1) Vlasnik ili brodar dužan je podnijeti zahtjev i ishoditi rješenje o raspremi za pomorski objekt koji privremeno povlači iz plovidbe, odnosno uporabe.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, vlasnik ili brodar pomorskog objekta duljine do 24 metra nije dužan ishoditi rješenje o raspremi ako su kumulativno ispunjeni sljedeći uvjeti:
+
+a) ako je razdoblje raspreme kraće od 60 dana,
+
+b) ako pomorski objekt zadržava sposobnost za plovidbu u smislu članka 76. stavka 1. ovoga Zakonika, za cijelo vrijeme trajanja raspreme,
+
+c) ako pomorski objekt nema ukrcani teret i/ili putnike,
+
+d) ako je pomorski objekt sigurno privezan u lučkom području,
+
+e) ako je vlasnik ili brodar o datumu početka raspreme i očekivanom trajanju raspreme koje je kraće od 60 dana prethodno obavijestio nadležnu lučku kapetaniju na čijem području je pomorski objekt privezan.
+
+(3) U raspremu se ne može staviti pomorski objekt koji prilikom podnošenja zahtjeva iz stavka 1. ovoga članka nema sposobnost za plovidbu u smislu članka 76. stavka 1. ovoga Zakonika, kao niti podrtina pomorskog objekta.
+
+##### Članak 124.c
+
+Za vrijeme trajanja raspreme pomorski objekt ne mora biti sposoban za plovidbu i nije dužan udovoljavati odredbama dijela trećeg glave pete i članka 130. ovoga Zakonika, osim ako je ovim Zakonikom drugačije propisano.
+
+Članak 124.č
+
+(1) Za vrijeme trajanja raspreme pomorski objekt mora udovoljavati uvjetima raspreme koje rješenjem o raspremi iz članka 124.dž stavka 4. ovoga Zakonika utvrđuje nadležna lučka kapetanija.
+
+(2) Osim uvjeta iz stavka 1. ovoga članka pomorski objekt mora udovoljavati i tehničkim uvjetima raspreme u pogledu valjanosti brodskih isprava, uvjeta uspostave njihove ponovne valjanosti, uvjeta integriteta trupa i konstrukcije, sustava kaljuže, protupožarne zaštite i brodskih postrojenja, uređaja i opreme koja tijekom raspreme ostaje u radu, redovitih i izvanrednih pregleda te obnovnih pregleda tijekom raspreme.
+
+(3) Pomorski objekti koji nisu stariji od 25 godina, a koji se stavljaju u raspremu na razdoblje kraće od dvije godine ne podliježu redovitim tehničkim pregledima za vrijeme trajanja raspreme.
+
+(4) Pomorski objekti stariji od 25 godina podliježu redovitim pregledima za vrijeme trajanja raspreme.
+
+(5) Provjeru udovoljavanja tehničkim uvjetima raspreme za brodove u nacionalnoj plovidbi utvrđuje Hrvatski registar brodova, a za brodove u međunarodnoj plovidbi priznata organizacija obavljanjem tehničkog nadzora u skladu s odredbama Tehničkih pravila.
+
+(6) Odredbe ovoga članka primjenjuju se na pomorske objekte hrvatske državne pripadnosti i kada se nalaze izvan unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske.
+
+(7) Ako za vrijeme trajanja raspreme nadležna lučka kapetanija inspekcijskim nadzorom utvrdi da pomorski objekt ne udovoljava utvrđenim uvjetima raspreme, donijet će rješenje o prestanku raspreme.
+
+(8) Ministar će Tehničkim pravilima detaljnije propisati tehničke uvjete iz stavka 2. ovoga članka s obzirom na vrstu i starost pomorskog objekta, valjanost brodskih isprava, kao i uvjete za uspostavu njihove ponovne valjanosti te valjanost brodskih knjiga i zapisa u vrijeme podnošenja zahtjeva za raspremu, način i uvjete obavljanja redovitih i izvanrednih pregleda, kao i obnovnih pregleda i druge uvjete s obzirom na trajanje i mjesto raspreme.
+
+Članak 124.ć
+
+Pomorski objekt može boraviti u raspremi u lučkom području uz suglasnost tijela koje upravlja lukom ili na nekom drugom mjestu izvan luke uz odobrenje nadležne lučke kapetanije.
+
+##### Članak 124.d
+
+(1) Pomorski objekt u raspremi mora imati određeni broj članova posade u straži, odnosno nadzornika ili organiziranu službu za obilazak i pregled pomorskog objekta.
+
+(2) Uz odobrenje nadležne lučke kapetanije, osobe ili služba iz stavka 1. ovoga članka mogu čuvati više pomorskih objekata.
+
+(3) Broj i sastav osoba, odnosno službe iz stavka 1. ovoga članka te stupanj njihove stručne osposobljenosti utvrđuje nadležna lučka kapetanija na prijedlog vlasnika ili brodara.
+
+(4) Vlasnik, brodar i zapovjednik pomorskog objekta dužni su osigurati ispunjavanje uvjeta iz stavaka 1. i 2. ovoga članka.
+
+Članak 124.dž
+
+(1) Zahtjev za raspremu podnosi vlasnik ili brodar, a podnosi se lučkoj kapetaniji na čijem području će pomorski objekt boraviti u raspremi.
+
+(2) Zahtjev za raspremu sadrži podatke o nazivu vlasnika ili brodara, njegov osobni identifikacijski broj, sjedište i adresu te oznaku pomorskog objekta koji se stavlja u raspremu, kao i razdoblje za koje se traži rasprema.
+
+(3) Uz zahtjev za raspremu iz stavka 1. ovoga članka, vlasnik ili brodar dužan je priložiti plan raspreme koji sadrži sve elemente iz stavka 4. ovoga članka i suglasnost nadležnog tijela koje upravlja lukom u skladu s odredbom članka 124.ć ovoga Zakonika.
+
+(4) Lučka kapetanija rješenjem odlučuje o zahtjevu za raspremu i utvrđuje:
+
+a) vrijeme trajanja raspreme,
+
+b) mjesto raspreme iz članka 124.ć ovoga Zakonika,
+
+c) broj i sastav osoba ili službe iz članka 124.d ovoga Zakonika,
+
+d) mjere sigurnosti i zaštite okoliša od onečišćenja,
+
+e) uvjete premještaja na drugo mjesto raspreme,
+
+f) udovoljavanje tehničkim uvjetima raspreme.
+
+(5) Za pomorski objekt koji se stavlja u raspremu u trajanju do najviše osam mjeseci ili za pomorski objekt koji će prema izjavi vlasnika ili brodara danoj u zahtjevu za raspremu, tijekom trajanja raspreme udovoljavati odredbama članka 76. stavka 1. ovoga Zakonika, nadležna lučka kapetanija rješenjem će utvrditi uvjete raspreme iz stavka 4. ovoga članka.
+
+(6) Uvjete raspreme iz stavka 4. podstavka f) ovoga članka lučka kapetanija utvrđuje temeljem Tehničkih uvjeta raspreme iz članka 124.č ovoga Zakonika.
+
+(7) Žalba protiv rješenja iz stavka 4. ovoga članka nije dopuštena, ali se može pokrenuti upravni spor.
+
+Članak 124.đ
+
+(1) Rasprema počinje teći s danom izvršnosti rješenja kojim se pomorski objekt stavlja u raspremu, a prestaje protekom vremena koje je tim rješenjem određeno kao vrijeme trajanja raspreme ili s danom donošenja rješenja o prestanku raspreme, osim ako je ovim Zakonikom drugačije propisano.
+
+(2) Vlasnik ili brodar pomorskog objekta dužan je odmah obavijestiti nadležnu lučku kapetaniju i Hrvatski registar brodova ili priznatu organizaciju ako pomorski objekt za vrijeme trajanja raspreme prestane udovoljavati uvjetima rješenja o raspremi iz članka 124.dž ovoga Zakonika.
+
+(3) Rasprema prestaje i bez donošenja posebnog rješenja o prestanku raspreme, u trenutku kada stanje pomorskog objekta u raspremi postane takvo da ometa ili ugrožava sigurnost plovidbe, morski okoliš, obalu ili povezane interese utvrđene člankom 840.a stavkom 5. ovoga Zakonika.
+
+(4) Na pomorske objekte iz stavka 3. ovoga članka odgovarajuće se primjenjuju odredbe ovoga Zakonika kojima se uređuje obvezno uklanjanje podrtina.
+
+##### Članak 124.e
+
+(1) Pomorski objekt ne smije za vrijeme raspreme, bez prethodne dozvole nadležne lučke kapetanije, isploviti ili napustiti svoje mjesto raspreme.
+
+(2) Nadležna lučka kapetanija dozvolit će isplovljenje, odnosno napuštanje mjesta raspreme samo ako prethodno, temeljem provedenog izvanrednog pregleda, utvrdi njegovu sposobnost za plovidbu ili uporabu, osim u slučaju njegova premještaja na drugo mjesto raspreme ili odlaska u brodogradilište, kada će rješenjem utvrditi uvjete sigurnosti plovidbe tog premještaja ili odlaska u brodogradilište.
+
+##### Članak 124.f
+
+Ministar pravilnikom propisuje način i detaljnije uvjete pod kojima se pomorski objekt može staviti u raspremu i kojima mora udovoljavati za vrijeme trajanja raspreme, uvjete kojima mora udovoljavati mjesto raspreme, detaljnije uvjete broja i stručne osposobljenosti članova posade u straži, odnosno nadzornika, uvjete kojima treba udovoljavati organizirana služba za obilazak i pregled pomorskog objekta i uvjete u pogledu mjera sigurnosti i zaštite okoliša od onečišćenja pomorskog objekta u raspremi.«.
+
+##### Članak 45.
+
+U članku 125. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Stručni radnik jest član posade broda koji nema zaduženja u pogledu sigurnosti plovidbe broda uključujući učenike i studente na praksi te vježbenike palube, stroja i elektrotehnike.«.
+
+Dosadašnji stavak 2., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Prilikom ukrcaja na brod u međunarodnoj plovidbi član posade broda, osim učenika i studenata na praksi koji ne ostvaruju nikakve primitke po toj osnovi, mora imati zaključen ugovor o radu u pisanom obliku.«.
+
+Dosadašnji stavci 3. do 6. postaju stavci 4. do 7.
+
+##### Članak 46.
+
+U članku 125.a stavak 2. mijenja se i glasi:
+
+»(2) Posredovanje pri zapošljavanju pomoraca na brodovima hrvatske i strane državne pripadnosti mogu obavljati i posrednici pri zapošljavanju pomoraca kao pravne osobe koje ispunjavaju uvjete propisane posebnim propisom i kojima je Ministarstvo izdalo dopusnicu.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Protiv rješenja kojim se odlučuje o izdavanju dopusnice iz stavka 2. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+##### Članak 47.
+
+U članku 126. ispred riječi: »U smislu« stavlja se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) U smislu odredaba članaka 127., 128., 129. i 129.a ovoga Zakonika jahta u međunarodnoj plovidbi je jahta bez obzira na državnu pripadnost, sa stalno ukrcanom posadom koja tijekom 365 uzastopnih dana u najmanje 50% od broja obavljenih putovanja plovi iz hrvatske u stranu luku i obrnuto ili između stranih luka ili plovi na otvorenom moru ili u teritorijalnim vodama stranih država.«.
+
+##### Članak 48.
+
+U članku 127. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Ministarstvo može sudjelovati u pokriću troškova plaća i doprinosa vježbenika tijekom trajanja vježbeničke službe.
+
+(4) Uvjete za utvrđivanje prava na pokriće troškova iz stavka 3. ovoga članka ministar propisuje pravilnikom.«.
+
+##### Članak 49.
+
+U članku 128. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Za postizanje potrebnih 183 dana iz stavka 1. ovoga članka za godinu za koju se utvrđuje obveza poreza na dohodak, uračunavaju se dani plovidbe, dani provedeni na putu od mjesta prebivališta do mjesta ukrcaja na brod, dani potrebni za povratno putovanje, dani liječenja zbog bolesti ili povrede nastale na putu za ukrcaj, na brodu ili na povratku ili dani liječenja zbog bolesti ili povrede nastale nakon iskrcaja ili prije ukrcaja koje bi onemogućile ishođenje uvjerenja o zdravstvenoj sposobnosti za plovidbu i dani provedeni na stručnoj izobrazbi u inozemstvu ili tuzemstvu kao i dani do isteka ugovora o radu koji su neostvareni zbog napuštanja člana posade od strane brodara ili prestanka ugovora o radu zbog poslovno uvjetovanih razloga. U slučaju otmice i zatočeništva, umirovljenja ili smrti člana posade u poreznoj godini, držat će se da je ostvaren uvjet plovidbe od 183 dana za tu poreznu godinu.
+
+(3) Danima iz stavka 2. ovoga članka mogu se pribrojiti dani plovidbe, dani provedeni na putu od mjesta prebivališta do mjesta ukrcaja na brod, dani potrebni za povratno putovanje, dani liječenja zbog bolesti ili povrede nastale na putu za ukrcaj, na brodu ili na povratku, dani liječenja zbog bolesti ili povrede nastale nakon iskrcaja ili prije ukrcaja koje bi onemogućile ishođenje uvjerenja o zdravstvenoj sposobnosti za plovidbu, dani provedeni na stručnoj izobrazbi u inozemstvu ili tuzemstvu kao i dani do isteka ugovora o radu koji su neostvareni, zbog napuštanja člana posade od strane brodara ili prestanka ugovora o radu zbog poslovno uvjetovanih razloga, koji u prethodnoj godini nisu uračunani u 183 dana.«.
+
+U stavku 4. riječi: »broj dana provedenih na brodu u međunarodnoj plovidbi« zamjenjuju se riječima: »broj ostvarenih dana sukladno stavcima 2. i 3. ovoga članka«.
+
+U stavku 8. riječi: »broju dana plovidbe sukladno odredbi stavka 1. ovoga članka« zamjenjuju se riječima: »broju ostvarenih dana sukladno odredbi stavaka 2. i 3. ovoga članka«.
+
+Iza stavka 11. dodaje se stavak 12. koji glasi:
+
+»(12) Stručni radnik koji je kao vježbenik palube, stroja ili elektrotehnike ukrcan na brod u međunarodnoj plovidbi bez obzira na državnu pripadnost broda, u razdoblju ne duljem od 183 dana u godini za koju se utvrđuje obveza poreza na dohodak, nije obvezan primitke ostvarene po osnovi rada na brodu u međunarodnoj plovidbi obračunati u godišnju poreznu prijavu poreza na dohodak, sukladno odredbama propisa o porezu na dohodak.«.
+
+##### Članak 50.
+
+Iza članka 128. dodaje se članak 128.a koji glasi:
+
+»Članak 128.a
+
+(1) Član posade jahte bez obzira na državnu pripadnost jahte, koji u Republici Hrvatskoj ima prebivalište, odnosno uobičajeno boravište (rezident), jest obveznik poreza na dohodak od nesamostalnog rada prema primicima ostvarenima po osnovi rada na jahti osim prema primicima ostvarenima po osnovi rada na jahti u međunarodnoj plovidbi iz članka 126. ovoga Zakonika.
+
+(2) Na prava i obveze člana posade jahte iz stavka 1. ovoga članka primjenjuju se odredbe ovoga Zakonika koje se odnose na člana posade broda u međunarodnoj plovidbi.«.
+
+##### Članak 51.
+
+Iza članka 129.a dodaje se članak 129.b koji glasi:
+
+»Članak 129.b
+
+(1) Na pomorca koji kao član posade broda plovi u nacionalnoj plovidbi, zaposlenog kod tuzemnog poslodavca, a za kojeg tuzemni poslodavac obračunava i uplaćuje tijekom godine doprinose, porez na dohodak i prirez, ne odnose se odredbe članka 128. stavaka 4. do 11., članka 129. stavaka 7. do 11. te članka 129.a stavka 3. ovoga Zakonika ako brod tijekom kalendarske godine povremeno plovi u međunarodnim vodama, a radi obavljanja brodskog pothvata.
+
+(2) Odredbe članka 129.a stavka 7. ovoga Zakonika odnose se i na pomorce iz stavka 1. ovoga članka.«.
+
+##### Članak 52.
+
+U članku 131. stavak 1. mijenja se i glasi:
+
+»(1) Član posade broda koji obavlja poslove u pogledu sigurne plovidbe broda može biti osoba koja ima odgovarajuću životnu dob, koja je stekla odgovarajuće zvanje i koja za obavljanje poslova tog zvanja na brodu ima odgovarajuću svjedodžbu o osposobljenosti.«.
+
+U stavku 2. riječi: »hrvatske trgovačke mornarice« brišu se.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Uvjeti za stjecanje i obnovu svjedodžbi o osposobljenosti temeljem plovidbene službe ostvarene na ratnim brodovima Hrvatske ratne mornarice i brodovima Obalne straže utvrđuju se primjenom načela Međunarodne konvencije o standardima izobrazbe, izdavanju svjedodžbi i držanju straže pomoraca, 1978., kako je izmijenjena i dopunjena.«.
+
+Dosadašnji stavci 5., 6., 7. i 8. postaju stavci 6., 7., 8. i 9.
+
+##### Članak 53.
+
+Iza članka 131. dodaje se članak 131.a koji glasi:
+
+»Članak 131.a
+
+(1) Ministarstvo ili lučka kapetanija će u obnovljenom postupku donijeti rješenje kojim se poništava rješenje te pomorcu oduzima svjedodžba o osposobljenosti ako u trenutku donošenja rješenja koje se poništava:
+
+1. pomorac ne ispunjava uvjete godina života za stjecanje svjedodžbe o osposobljenosti ili dopunskoj osposobljenosti,
+
+2. pomorac stekne svjedodžbu o osposobljenosti na temelju krivotvorenih ili neistinitih isprava potrebnih za stjecanje svjedodžbe o osposobljenosti,
+
+3. pomorac je trajno zdravstveno nesposoban za obavljanje odgovarajućih poslova.
+
+(2) Ako okolnosti iz stavka 1. točke 3. ovoga članka nastupe nakon izdavanja svjedodžbe o osposobljenosti, Ministarstvo ili lučka kapetanija donijet će rješenje o ukidanju rješenja o izdavanju svjedodžbe o osposobljenosti i oduzeti pomorcu svjedodžbu.
+
+(3) Protiv rješenja iz stavaka 1. i 2. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+##### Članak 54.
+
+U članku 132. stavak 3. briše se.
+
+Dosadašnji stavci 4. do 11. postaju stavci 3. do 10.
+
+U stavcima 6., 7. i 8. riječi: »stavka 6.« zamjenjuju se riječima: »stavka 5.«.
+
+##### Članak 55.
+
+Članak 137. mijenja se i glasi:
+
+»(1) Pomorska knjižica jest osobna isprava osobe kojoj je izdana kojom se dokazuje svojstvo u kojemu je član posade ukrcan na brod te trajanje plovidbene službe.
+
+(2) Pomorska knjižica može se izdati i u obliku elektroničke isprave.
+
+(3) Pomorsku knjižicu mora imati:
+
+– državljanin Republike Hrvatske ukrcan kao zapovjednik ili drugi član posade broda hrvatske državne pripadnosti, osim stručnog radnika u nacionalnoj plovidbi,
+
+– državljanin Republike Hrvatske ukrcan kao član posade broda strane državne pripadnosti,
+
+– državljanin Republike Hrvatske ukrcan kao član posade plutajućeg objekta ili nepomičnog odobalnog objekta hrvatske ili strane državne pripadnosti koji je dužan posjedovati odgovarajuće pomorsko zvanje sukladno posebnim propisima,
+
+– državljanin Republike Hrvatske ukrcan kao član posade jahte hrvatske ili strane državne pripadnosti sa stalno ukrcanom posadom koji je dužan posjedovati odgovarajuće pomorsko zvanje sukladno posebnim propisima,
+
+– strani državljanin ili osoba bez državljanstva ukrcana kao član posade na pomorskom objektu hrvatske državne pripadnosti iz ovoga stavka.
+
+(4) Pomorska knjižica izdaje se osobi koja je:
+
+– navršila 16 godina života i
+
+– tjelesno i duševno zdrava i sposobna za obavljanje određenih poslova na pomorskom objektu sukladno posebnom propisu.
+
+(5) Identifikacijska isprava pomorca jest isprava kojom se dokazuje identitet pomorca izdana u skladu s odredbama Konvencije o identifikacijskim ispravama pomoraca Međunarodne organizacije rada (ILO) iz 1958. godine, kako je izmijenjena i dopunjena.
+
+(6) Pomorske knjižice i identifikacijske isprave pomoraca izdaje lučka kapetanija.
+
+(7) Detaljnije uvjete, način izdavanja, sadržaj, obrasce za izdavanje pomorskih knjižica i identifikacijskih isprava pomoraca pravilnikom propisuje ministar.«.
+
+##### Članak 56.
+
+Iza članka 137. dodaje se članak 137.a koji glasi:
+
+»Članak 137.a
+
+(1) Lučka kapetanija donijet će rješenje kojim se ukida pomorska knjižica kada je nastupila trajna zdravstvena nesposobnost pomorca za obavljanje odgovarajućih poslova na brodu.
+
+(2) U slučaju iz stavka 1. ovoga članka, Ministarstvo ili lučka kapetanija donijet će rješenje kojim se ukida i identifikacijska isprava pomorca.
+
+(3) Lučka kapetanija će u obnovljenom postupku donijeti rješenje kojim se poništava pomorska knjižica kada je pomorska knjižica ishođena na temelju krivotvorenih ili neistinitih isprava potrebnih za stjecanje pomorske knjižice.
+
+(4) U slučaju iz stavka 3. ovoga članka, Ministarstvo ili lučka kapetanija će u obnovljenom postupku donijeti rješenje kojim se poništava i identifikacijska isprava pomorca.
+
+(5) Rješenjem iz stavka 3. ovoga članka poništava se i plovidbena služba upisana i ovjerena u pomorskoj knjižici i poništena plovidbena služba briše se iz svih evidencija Ministarstva.
+
+(6) Protiv rješenja iz stavaka 1. do 4. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+##### Članak 57.
+
+U članku 147. stavak 2. mijenja se i glasi:
+
+»(2) Ako je zapovjednik jahte upisane u upisnik brodova strana fizička osoba, javna ovlaštenja iz stavka 1. ovoga članka ima član posade ako je državljanin Republike Hrvatske ili ima boravište na području Republike Hrvatske.«.
+
+##### Članak 58.
+
+U članku 148. stavku 4. iza riječi: »ažurirane« dodaje se riječ: »službene«.
+
+##### Članak 59.
+
+U članku 165. stavku 5. riječi: »i 111. stavak 4.« brišu se.
+
+##### Članak 60.
+
+U članku 166. stavku 1. iza točke 15. dodaju se točke 16. i 17. koje glase:
+
+»16) stranim jahtama za gospodarske svrhe,
+
+17) obavljanjem djelatnosti pomorskih učilišta.«.
+
+##### Članak 61.
+
+Članak 167. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor nad stranim brodovima i jahtama za gospodarske svrhe u lukama Republike Hrvatske provodi se sukladno postupcima utvrđenim Pariškim memorandumom o suglasnosti o nadzoru države luke.
+
+(2) U obavljanju inspekcijskog nadzora nad stranim brodom prema odredbi članka 166. stavka 1. točke 1. ovoga Zakonika provjerava se ima li brod važeće isprave u skladu s odredbama:
+
+1. Međunarodne konvencije o zaštiti ljudskih života na moru,
+
+2. Međunarodne konvencije o teretnim linijama,
+
+3. Međunarodne konvencije o sprječavanju onečišćenja mora s brodova,
+
+4. Međunarodne konvencije o standardima za obuku, izdavanju svjedodžbi i obavljanju straže pomoraca,
+
+5. Međunarodne konvencije o minimalnim standardima na trgovačkim brodovima,
+
+6. Konvencije o međunarodnim pravilima o izbjegavanju sudara na moru,
+
+7. Međunarodne konvencije o građanskoj odgovornosti za štetu zbog onečišćenja uljem,
+
+8. Međunarodne konvencije o baždarenju brodova,
+
+9. Međunarodne konvencije o građanskoj odgovornosti za štetu zbog onečišćenja pogonskim uljem, 2001.,
+
+10. Međunarodne konvencije o radu pomoraca, 2006.,
+
+11. Međunarodne konvencije o nadzoru štetnih sustava protiv obrastanja brodova, 2001.,
+
+12. Međunarodne konvencije o nadzoru i upravljanju brodskim balastnim vodama i talozima, 2004.,
+
+13. Atenske konvencije o prijevozu putnika i njihove prtljage morem, 1974., kako je izmijenjena i dopunjena Protokolom iz 2002. godine.
+
+(3) Osim isprava iz stavka 2. ovoga članka, inspekcijskim nadzorom nad stranim brodovima iz stavka 1. ovoga članka provjerava se i ima li brod važeće isprave sukladno Uredbi 392/2009 Europskog parlamenta i Vijeća od 23. travnja 2009. o odgovornosti prijevoznika u prijevozu putnika morem u slučaju nesreća, Direktivi 2009/20/EC Europskog parlamenta i Vijeća od 23. travnja 2009. o osiguranju brodovlasnika za pomorske tražbine, kao i dokaz o drugim obveznim osiguranjima propisanim ovim Zakonikom.
+
+(4) Ako državu čiju zastavu brod vije ne obvezuju konvencije navedene u stavku 2. ovoga članka, inspektor ispituje može li brod u pogledu konstrukcije, opreme, posade, vrste, količine i smještaja tereta, broja putnika te sveukupnog opterećenja sigurno obaviti namjeravano putovanje.
+
+(5) Pri ispitivanju sigurnosti plovidbe broda iz stavka 4. ovoga članka uzima se u obzir ponajprije, ali ne isključivo, sadržaj konvencija navedenih u stavku 2. ovoga članka.
+
+(6) Inspekcijskim nadzorom nad stranim brodom utvrđuje se udovoljava li posada i cjelokupno stanje broda, uključujući strojarnicu, prostorije za smještaj posade te higijenski uvjeti na brodu pravilima i standardima utvrđenim međunarodnim konvencijama iz stavka 2. ovoga članka.«.
+
+##### Članak 62.
+
+U članku 168. stavak 4. mijenja se i glasi:
+
+»(4) Ako se u obavljanju inspekcijskog nadzora utvrde nedostaci iz stavaka 1., 2. i 3. ovoga članka, o utvrđenom stanju i poduzetim mjerama izvijestit će se putem diplomatskih, odnosno konzularnih tijela nadležno tijelo države zastave broda te Međunarodna pomorska organizacija.«.
+
+##### Članak 63.
+
+U članku 170. stavku 1. točka 4. mijenja se i glasi:
+
+»4) udovoljava li pomorski objekt uvjetima određenima u članku 76. ovoga Zakonika,«.
+
+Točka 6. mijenja se i glasi:
+
+»6) uvježbanost posade u rukovanju brodicama i ostalim sredstvima za spašavanje i uređajima za otkrivanje, sprječavanje i gašenje požara te s mjerama sigurnosne zaštite.«.
+
+##### Članak 64.
+
+Članak 171. mijenja se i glasi:
+
+»(1) Ako se u obavljanju inspekcijskog nadzora prema odredbama članaka 167. i 170. ovoga Zakonika utvrde nedostaci broda u pogledu njegove sposobnosti za plovidbu, naredit će se zapovjedniku broda da u određenom roku otkloni utvrđene nedostatke.
+
+(2) Ako se utvrđeni nedostaci ne otklone u određenom roku, ili ako su utvrđeni nedostaci takve naravi da ugrožavaju sigurnost broda, osoba i tereta na njemu te okoliša, ili ako su mu tankovi otpadnih voda puni, zabranit će se brodu daljnja plovidba dok se navedeni nedostaci ne otklone i oduzet će mu se isprava o sposobnosti za plovidbu.
+
+(3) Ako se u obavljanju inspekcijskog nadzora utvrdi da prema odredbi članka 170. stavka 2. ovoga Zakonika brod nema važeći registar teretnog uređaja ili ako stanje tih uređaja nije u skladu s registrom teretnog uređaja, zabranit će mu se da obavlja ukrcavanje, iskrcavanje ili prekrcavanje tereta vlastitim uređajima za obavljanje tih radnji.
+
+(4) Inspekcijski pregled iz članka 170. ovoga Zakonika može se obaviti i izvan unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske ako se ocijeni da postoji opravdana sumnja da stvarno stanje na brodu ne odgovara izdanim brodskim ispravama i knjigama ili da se do isteka valjanosti brodskih isprava i knjiga ne predviđa uplovljavanje broda u luke Republike Hrvatske.
+
+(5) U obavljanju inspekcijskog nadzora iz članaka 167. i 170. ovoga Zakonika inspektor sigurnosti plovidbe može od priznate organizacije zatražiti na uvid dokumentaciju o postupku izdavanja svjedodžbi za brod koji se nadzire.
+
+(6) Ako zapovjednik ne postupi po nalogu inspektora iz stavaka 2. i 3. ovoga članka, inspektor će pečaćenjem broda ili na drugi pogodan način onemogućiti plovidbu, odnosno ukrcaj, iskrcaj ili prekrcaj tereta vlastitim uređajima.
+
+(7) Ako brod iz stavka 6. ovoga članka predstavlja ili može predstavljati opasnost za luke, plovne putove, plovidbu, iskorištavanje prirodnih bogatstava mora ili okoliša, nadležna lučka kapetanija će, osim radnji iz stavka 6. ovoga članka, rješenjem narediti vlasniku broda da u primjerenom roku poduzme mjere za njegovo uklanjanje uz nadzor kapetanije.
+
+(8) Ako vlasnik broda ne postupi sukladno rješenju kapetanije iz stavka 7. ovoga članka, kapetanija će rješenjem narediti tijelu koje upravlja lukom, odnosno kopnenim dijelom pomorskog dobra na čijem se području brod nalazi, odnosno trgovačkom društvu Plovput d. o. o., ako se brod nalazi izvan lučkog područja, da ga na trošak i rizik vlasnika ukloni.
+
+(9) Ako brod iz stavka 6. ovoga članka predstavlja neposrednu opasnost za luke, plovne putove, plovidbu, iskorištavanje prirodnih bogatstava mora ili okoliša, kapetanija će i bez prethodnog donošenja rješenja iz stavka 7. ovoga članka odlučiti o uklanjanju broda na trošak i rizik vlasnika.
+
+(10) Protiv rješenja nadležne lučke kapetanije iz stavka 7., odnosno 9. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+(11) Uklanjanje broda u smislu stavaka 8. i 9. ovoga članka znači svaki oblik sprječavanja, ublažavanja ili otklanjanja opasnosti. Uklanjanje broda može uključivati i prodaju broda na javnoj dražbi.
+
+(12) U pogledu tražbine koja se tiče naknade troškova uklanjanja broda u smislu stavaka 8. i 9. ovoga članka, Republika Hrvatska, odnosno ovlašteno tijelo koje je uklonilo brod ima založno pravo na brodu koji je predmet uklanjanja te ga može i zadržati do podmirenja te tražbine.
+
+(13) Ustupanjem tražbine za naknadu troškova uklanjanja broda iz stavka 12. ovoga članka prenosi se i zakonsko založno pravo te pravo zadržanja.
+
+(14) Ako su uklanjanjem broda u smislu stavaka 8. i 9. ovoga članka ostvarena određena novčana sredstva, ona će se iskoristiti za podmirenje razumnih troškova vezanih uz uklanjanje, dok će se možebitni ostatak sredstava deponirati kod teritorijalno nadležnog trgovačkog suda na ime vlasnika broda, o čemu će Ministarstvo objaviti oglas na svojim internetskim stranicama i u »Narodnim novinama«.
+
+(15) Odredbe ovoga članka i članka 170. ovoga Zakonika na odgovarajući se način primjenjuju i na druge plovne te na plutajuće i nepomične odobalne objekte.
+
+(16) Rješenja i obavijesti koji se donose temeljem ovoga članka dostavljaju se vlasniku javnom objavom na internetskim stranicama Ministarstva sukladno pravilima o javnoj objavi, prema odredbama zakona kojim se uređuje vođenje upravnog postupka.
+
+(17) Način i postupak prodaje broda na javnoj dražbi u skladu sa stavkom 11. ovoga članka propisuje ministar pravilnikom.«.
+
+##### Članak 65.
+
+U članku 176.a stavku 1. točki b) broj: »3.« zamjenjuje se brojem: »4.«.
+
+##### Članak 66.
+
+Iza članka 176.b dodaje se članak 176.c koji glasi:
+
+»Članak 176.c
+
+(1) Ako se u provedbi inspekcijskog nadzora nad obavljanjem djelatnosti pomorskog učilišta utvrdi da pomorsko učilište ne zadovoljava uvjete na temelju kojih mu je izdano rješenje o povjeravanju izobrazbe ili suglasnost za obrazovanje pomoraca ili se utvrdi bilo koja druga nepravilnost u radu pomorskog učilišta, može mu se ukinuti rješenje o povjeravanju izobrazbe ili suglasnost na ovlaštenje za obrazovanje pomoraca i prije isteka njihove valjanosti.
+
+(2) U slučaju ukidanja rješenja iz stavka 1. ovoga članka, pomorsko učilište može podnijeti novi zahtjev za isti program izobrazbe, odnosno program obrazovanja tek nakon isteka roka od najmanje tri godine od dana ukidanja dopusnice ili suglasnosti.
+
+(3) U razdoblju iz stavka 2. ovoga članka neće se izdati nova dopusnica, odnosno suglasnost pomorskom učilištu koje je na bilo koji način (npr. vlasnička struktura, odgovorna osoba, sjedište i sl.) povezano s pomorskim učilištem iz stavka 1. ovoga članka.«.
+
+##### Članak 67.
+
+Iza članka 177. dodaju se članci 177.a i 177.b koji glase:
+
+»Članak 177.a
+
+(1) Ako se u obavljanju inspekcijskog nadzora opravdano posumnja da su prekršeni uvjeti Konvencije o radu pomoraca iz 2006. godine, odnosno da je brodar napustio pomorca i ostavio ga bez potrebnog uzdržavanja i potpore, uključujući dostatne zalihe hrane i pitke vode, goriva te potrebne medicinske skrbi, ili je na drugi način jednostrano prekinuo svoje veze s pomorcem, lučka kapetanija će na zahtjev pomorca donijeti rješenje o njegovu iskrcaju zbog napuštanja od strane brodara.
+
+(2) U slučaju iz stavka 1. ovoga članka, ako je iskrcan zapovjednik ili je iskrcajem drugih pomoraca broj članova posade manji od propisanog najmanjeg broja članova posade, lučka kapetanija će zabraniti isplovljenje takvom plovnom objektu.
+
+##### Članak 177.b
+
+(1) Inspektor sigurnosti plovidbe provest će inspekcijski nadzor o svakoj prijavi nestručnosti, djela ili propusta osobe kojoj je izdana ili priznata svjedodžba o osposobljenosti, a koje djelo ili propust je mogao neposredno ugroziti sigurnost ljudskih života ili imovine na moru ili uzrokovati onečišćenje morskog okoliša.
+
+(2) Temeljem nalaza istrage iz stavka 1. ovoga članka, ako postoji osnovana sumnja u počinjenje pomorskog prekršaja, inspektor sigurnosti plovidbe pokrenut će prekršajni postupak.«.
+
+##### Članak 68.
+
+Članak 178. mijenja se i glasi:
+
+»Protiv rješenja inspektora sigurnosti plovidbe žalba nije dopuštena, ali se može pokrenuti upravni spor.«.
+
+##### Članak 69.
+
+U članku 179. stavak 1. mijenja se i glasi:
+
+»(1) Hrvatsku državnu pripadnost stječe brod i brod u gradnji upisom u upisnik brodova, odnosno izdavanjem privremenoga upisnog lista.«.
+
+U stavku 2. riječ: »jahtom« zamjenjuje se riječima: »brodom u gradnji«.
+
+##### Članak 70.
+
+Članak 180. mijenja se i glasi:
+
+»(1) Brod i brod u gradnji koji je stekao hrvatsku državnu pripadnost imaju pravo i dužnost vijati zastavu Republike Hrvatske.
+
+(2) Način vijanja zastave i isticanja znakova na brodovima propisuje ministar pravilnikom.«.
+
+##### Članak 71.
+
+Članak 183. mijenja se i glasi:
+
+»(1) Brod, osim tehničkog plovnog objekta, upisan u upisnik brodova, odnosno brod kojem je izdan privremeni upisni list mora imati ime, a ribarski brod mora imati i oznaku.
+
+(2) Tehnički plovni objekt, plutajući objekt, nepomični odobalni objekt i brodica upisana u upisnik brodova ili kojoj je izdan privremeni upisni list moraju imati oznaku, a osim oznake mogu imati i ime.
+
+(3) Dva broda ne mogu imati isto ime, a dva tehnička plovna objekta, dva plutajuća objekta, dva nepomična odobalna objekta, dvije brodice ili dva ribarska broda ne mogu imati istu oznaku.«.
+
+##### Članak 72.
+
+Članak 184. mijenja se i glasi:
+
+»(1) Brod, osim tehničkog plovnog objekta, i jahta moraju nositi ime luke upisa.
+
+(2) Oznaka tehničkog plovnog objekta, plutajućeg objekta, nepomičnog odobalnog objekta i brodice iz članka 183. stavka 2. ovoga Zakonika mora sadržavati oznaku luke upisa.«.
+
+##### Članak 73.
+
+Članak 185. mijenja se i glasi:
+
+»Pomorski objekt koji ima radiouređaj mora imati pozivni znak prema propisima o međunarodnom radioprometu.«.
+
+##### Članak 74.
+
+Članak 186. mijenja se i glasi:
+
+»(1) Brod i brod u gradnji upisani u upisnik brodova moraju imati Nacionalni identifikacijski broj (u daljnjem tekstu: NIB).
+
+(2) NIB je jedinstveni identifikacijski broj koji se dodjeljuje brodu, odnosno brodu u gradnji u trenutku upisa u upisnik brodova.
+
+(3) Brod zadržava NIB koji mu je dodijeljen upisom u upisnik kao brodu u gradnji, kao i u slučaju rekonstrukcija koje imaju za posljedicu promjenu njegove namjene i/ili vrste pomorskog objekta.
+
+(4) Ministar pravilnikom uređuje način i postupak određivanja NIB-a, imena, oznake i luke upisa broda.«.
+
+##### Članak 75.
+
+U članku 187. stavak 1. mijenja se i glasi:
+
+»(1) U upisnik brodova može se upisati:
+
+a) brod koji je u cjelini ili djelomično u vlasništvu državljana Republike Hrvatske,
+
+b) brod koji je u cjelini ili djelomično u vlasništvu državljana države članice Europskog gospodarskog prostora (u daljnjem tekstu: EGP) ako je kompanija ili brodar broda hrvatska pravna osoba,
+
+c) brod koji je u cjelini ili djelomično u vlasništvu pravne osobe sa sjedištem u Republici Hrvatskoj,
+
+d) brod koji je u cjelini ili djelomično u vlasništvu pravne osobe sa sjedištem u državi članici EGP-a ako je kompanija ili brodar broda pravna osoba sa sjedištem u Republici Hrvatskoj,
+
+e) pomorski objekt koji je u cjelini ili djelomično u vlasništvu državljana države članice EGP-a ili pravne osobe osnovane sukladno propisima države članice EGP-a i sa sjedištem u državi članici EGP-a, pod uvjetom da je brod upravljan iz podružnice u Republici Hrvatskoj,
+
+f) brod koji je u vlasništvu strane fizičke osobe s prebivalištem izvan Republike Hrvatske ili izvan države članice EGP-a ako je kompanija ili brodar broda pravna osoba sa sjedištem u Republici Hrvatskoj,
+
+g) brod koji je u vlasništvu strane pravne osobe sa sjedištem izvan Republike Hrvatske ili izvan države članice EGP-a ako je kompanija ili brodar broda pravna osoba sa sjedištem u državi članici EGP-a, a ta kompanija ili brodar ima podružnicu u Republici Hrvatskoj,
+
+h) brod koji je u vlasništvu strane pravne osobe sa sjedištem izvan Republike Hrvatske i izvan druge države članice EGP-a ako je ta strana pravna osoba brodovlasničko trgovačko društvo ovisno o pravnoj osobi sa sjedištem u Republici Hrvatskoj koja je porezni obveznik poreza po tonaži.«.
+
+##### Članak 76.
+
+Članak 188. mijenja se i glasi:
+
+»Osim temeljem odredbi članka 187. ovoga Zakonika, u upisnik brodova može se upisati jahta i brodica koja je u cjelini u vlasništvu strane fizičke ili pravne osobe ako se pretežno nalazi u Republici Hrvatskoj.«.
+
+##### Članak 77.
+
+Iza članka 188. dodaje se članak 188.a koji glasi:
+
+»Članak 188.a
+
+U upisnik brodova ne upisuju se podmorski cjevovodi i pontonski gatovi.«.
+
+##### Članak 78.
+
+Članak 189. mijenja se i glasi:
+
+»(1) U upisnik brodova mora se upisati brod u gradnji koji je u cjelini u vlasništvu fizičke ili pravne osobe državljanina Republike Hrvatske s prebivalištem, odnosno sjedištem u Republici Hrvatskoj.
+
+(2) U upisnik se može upisati brod u gradnji u vlasništvu strane fizičke ili pravne osobe koji se gradi u hrvatskom brodogradilištu.
+
+(3) U upisnik brodova ne upisuje se brodica u gradnji.«.
+
+##### Članak 79.
+
+Članak 190. mijenja se i glasi:
+
+»(1) U slučaju upisa jahte ili brodice u upisnik brodova prema članku 188. ovoga Zakonika, vlasnik jahte ili brodice dužan je ovlastiti hrvatsku pravnu ili fizičku osobu s prebivalištem ili sjedištem u Republici Hrvatskoj da ga za odsutnosti iz Republike Hrvatske zastupa pred nadležnim hrvatskim tijelima.
+
+(2) Podaci o pravnoj ili fizičkoj osobi iz stavka 1. ovoga članka upisuju se u upisnik brodova.«.
+
+##### Članak 80.
+
+Članak 191. mijenja se i glasi:
+
+»(1) Ne može se upisati u upisnik brodova brod koji je upisan u inozemni upisnik brodova.
+
+(2) Ne može se upisati u upisnik brodova brod koji je stariji od najviše dopuštene starosti za određene vrste brodova.
+
+(3) Ministar pravilnikom propisuje najvišu dopuštenu starost i tehničke uvjete za upis brodova u upisnik brodova.«.
+
+##### Članak 81.
+
+Članak 192. mijenja se i glasi:
+
+»(1) Brod se briše iz upisnika brodova
+
+1. po službenoj dužnosti:
+
+a) ako je propao ili se pretpostavlja da je propao,
+
+b) ako prestane udovoljavati uvjetima za upis broda u upisnik brodova propisanima ovim Zakonikom,
+
+2. na zahtjev vlasnika.
+
+(2) Pretpostavlja se da je brod propao ako su od primitka posljednje vijesti o brodu protekla tri mjeseca. U tom slučaju pretpostavlja se da je brod propao onoga dana kad su primljene posljednje raspoložive vijesti o njemu.
+
+(3) Osim temeljem odredbi stavaka 1. i 2. ovoga članka, jahta i brodica brišu se iz upisnika brodova ako vlasnik ili korisnik jahte ili brodice dvije godine uzastopce ne plati naknadu iz članka 51. stavka 6. ovoga Zakonika.
+
+(4) Odredbe stavaka 1. i 2. ovoga članka na odgovarajući se način primjenjuju i na brisanje brodova u gradnji.
+
+(5) Vlasnik broda dužan je o okolnostima iz stavka 1. točke 1. ovoga članka obavijestiti lučku kapetaniju u roku od 15 dana od dana njihova nastanka.«.
+
+##### Članak 82.
+
+Članak 193. mijenja se i glasi:
+
+»(1) Ako je na brodu osnovana hipoteka, za brisanje broda iz upisnika brodova potreban je pristanak hipotekarnih vjerovnika.
+
+(2) Kad se radi o brisanju broda po službenoj dužnosti na kojem je osnovana hipoteka, brisanje broda će se obaviti istekom roka od tri mjeseca od dostave obavijesti hipotekarnim vjerovnicima da su se stekli uvjeti za brisanje broda po službenoj dužnosti ili odmah nakon primitka vjerovnikove suglasnosti za brisanje broda.
+
+(3) Obavijest hipotekarnim vjerovnicima obavit će se sukladno članku 384.č ovoga Zakonika.
+
+(4) Odredbe ovoga članka primjenjuju se i na brodove u gradnji.«.
+
+##### Članak 83.
+
+Članak 195. mijenja se i glasi:
+
+»(1) Upisnik brodova je javni i svatko može zahtijevati uvid u upisnik brodova.
+
+(2) Iz upisnika brodova izdaju se izvadci iz glavne knjige i preslike ili ispisi iz zbirke isprava.
+
+(3) Upisnik brodova, izvadci, odnosno ispisi i prijepisi iz upisnika brodova su javne isprave.
+
+(4) Tko se u pravnom prometu, postupajući savjesno, pouzda u podatke upisane u upisnik brodova, ne snosi pravne posljedice koje iz toga proisteknu.
+
+(5) Lučka kapetanija dužna je osobi koja to zahtijeva izdati potvrdu o stanju upisa u upisniku brodova, te na zahtjev osobe koja pribavi suglasnost vlasnika ili sudskim putem dokaže postojanje pravnog interesa, dopustiti uvid u isprave koje se čuvaju u zbirci isprava i njihovu presliku ili prijepis ako upisi u upisniku brodova upućuju na te isprave.
+
+(6) Ministar pravilnikom propisuje način vođenja upisnika brodova, podatke koji se unose u glavnu knjigu upisnika brodova, obrasce isprava, izvadaka i ispisa iz upisnika brodova te način pristupa državnih tijela i tijela s javnim ovlastima podacima iz upisnika.«.
+
+##### Članak 84.
+
+Članak 196. mijenja se i glasi:
+
+»Upisnik brodova vodi se u elektroničkom obliku.«.
+
+##### Članak 85.
+
+Članak 197. mijenja se i glasi:
+
+»Upisnik brodova sastoji se od glavne knjige i zbirke isprava.«.
+
+##### Članak 86.
+
+Članak 198. mijenja se i glasi:
+
+»(1) Glavna knjiga upisnika brodova sastoji se od uložaka.
+
+(2) Uložak ima list A, list B i list C.
+
+(3) Svaki brod upisuje se u poseban uložak.«.
+
+##### Članak 87.
+
+Članak 199. mijenja se i glasi:
+
+»U list A glavne knjige uloška upisnika brodova upisuju se vrsta pomorskog objekta, podaci o identitetu pomorskog objekta i njegove osnovne tehničke značajke.«.
+
+##### Članak 88.
+
+Članak 200. mijenja se i glasi:
+
+»(1) U list B uloška glavne knjige upisnika brodova upisuje se tvrtka, odnosno naziv i sjedište pravne osobe, odnosno osobno ime i prebivalište fizičke osobe koja je vlasnik broda i osobna ograničenja vlasnika u vezi sa slobodnim raspolaganjem brodom.
+
+(2) Ako brodar ili kompanija nije i vlasnik broda, u list B uloška glavne knjige iz stavka 1. ovoga članka mora se upisati i tvrtka, odnosno naziv i sjedište brodara i kompanije pravne osobe, ili ime i prebivalište brodara i kompanije fizičke osobe.
+
+(3) Za jahte i brodice u list B uloška glavne knjige upisnika brodova mora se upisati tvrtka, odnosno naziv i sjedište pravne osobe korisnika jahte, odnosno korisnika brodice ili osobno ime, te prebivalište fizičke osobe korisnika jahte, odnosno korisnika brodice.
+
+(4) Za brod u gradnji u list B uloška glavne knjige upisnika brodova mogu se, radi evidentiranja, upisati i tvrtka, odnosno naziv i sjedište, odnosno osobno ime i prebivalište naručitelja.
+
+(5) U slučaju upisa jahte ili brodice u upisnik brodova sukladno članku 188. ovoga Zakonika u list B uloška glavne knjige upisnika brodova mora se upisati naziv i sjedište, odnosno osobno ime i prebivalište osobe iz članka 190. ovoga Zakonika koja zastupa vlasnika jahte ili brodice.
+
+(6) Vlasnik broda, brodar, kompanija, korisnik jahte ili korisnik brodice dužni su podnijeti lučkoj kapetaniji zahtjev za upis promjene u roku od 30 dana od promjene podataka iz stavaka 1., 2., 3. i 5. ovoga članka.«.
+
+##### Članak 89.
+
+Članak 201. mijenja se i glasi:
+
+»(1) U list C uloška glavne knjige upisnika brodova upisuju se stvarna prava kojima je brod ili njegov dio opterećen, te prava stečena na tim pravima, zakup broda, brodarski ugovor na vrijeme za cijeli brod, pravo prvokupa, te druga ograničenja raspolaganja brodom kojima je podvrgnut vlasnik opterećenog broda, zabrane opterećivanja i otuđivanja te sve zabilježbe za koje nije izričito određeno da se upisuju u drugi list uloška.
+
+(2) Iznimno od stavka 1. ovoga članka za javne brodove nije dozvoljen upis u list C uloška glavne knjige upisnika brodova.«.
+
+##### Članak 90.
+
+Iza članka 201. naziv glave treće i članci 202. do 207. brišu se.
+
+##### Članak 91.
+
+Članak 208. mijenja se i glasi:
+
+»Brod i brod u gradnji jesu pokretne stvari.«.
+
+##### Članak 92.
+
+Članak 209. mijenja se i glasi:
+
+»(1) Na brodu i brodu u gradnji mogu postojati stvarna prava, pravo vlasništva, hipoteka na brodu i pomorski privilegiji.
+
+(2) Brod i brod u gradnji mogu biti u suvlasništvu.
+
+(3) Ako između suvlasnika nije drugačije ugovoreno, suvlasništvo se dijeli na jednake idealne dijelove.
+
+(4) Na sva stvarna prava u pogledu broda i broda u gradnji na odgovarajući se način primjenjuju odredbe općeg zakona kojim se uređuje pravo vlasništva i druga stvarna prava, ako ovim Zakonikom nije drugačije određeno.«.
+
+##### Članak 93.
+
+U članku 210. broj: »211.« zamjenjuje se brojem: »212.«.
+
+##### Članak 94.
+
+Članak 211. briše se.
+
+##### Članak 95.
+
+Članak 212. mijenja se i glasi:
+
+»(1) Pravo vlasništva nad brodom u gradnji obuhvaća stvari koje su na brod u gradnji ugrađene.
+
+(2) Ako u upisnik brodova nije što drugo upisano, pravo vlasništva nad brodom u gradnji obuhvaća i stvari koje se nalaze u brodogradilištu, a nisu ugrađene u brod u gradnji, ako su prema svojoj izradi određene isključivo za ugrađivanje u određeni brod ili za njegov pripadak, ili ako su na vidljiv način obilježene ili izdvojene za ugrađivanje u brod.«.
+
+##### Članak 96.
+
+U članku 213. stavku 1. riječi: »ili jahti« zamjenjuju se riječima: »i brodu u gradnji«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Iznimno od odredbe stavka 1. ovoga članka, lučka kapetanija upisat će pravo vlasništva i temeljem ovjerene isprave s izjavom prenositelja o prijenosu prava vlasništva, a koja isprava sadrži bitne elemente o pravnom poslu, bez obveze podnošenja same isprave o pravnom poslu.
+
+(4) Odredbe ovoga članka ne primjenjuju se prilikom prvog upisa novoizgrađene jahte i brodice.«.
+
+##### Članak 97.
+
+U članku 214. stavak 1. mijenja se i glasi:
+
+»(1) Pravo vlasništva i druga stvarna prava na brodu i brodu u gradnji mogu se steći, prenijeti, ograničiti i ukinuti jedino upisom u upisnik brodova.«.
+
+U stavku 2. riječi: »odnosno upisnik jahti« brišu se.
+
+##### Članak 98.
+
+U članku 215. u točkama 1. i 3. riječi: »ili jahte« brišu se.
+
+##### Članak 99.
+
+Članak 216. mijenja se i glasi:
+
+»Odredbe članaka 213., 214. i 215. ovoga Zakonika primjenjuju se i na brod u gradnji koji se gradi u hrvatskom brodogradilištu od trenutka njegova upisa u upisnik brodova.«.
+
+##### Članak 100.
+
+U članku 217. stavku 1. riječi: »ili jahte« brišu se.
+
+U stavku 2. zarez i riječi: »odnosno inventar jahte« brišu se.
+
+##### Članak 101.
+
+Članak 218. mijenja se i glasi:
+
+»(1) Prijenos ili otuđenje broda obuhvaća i pripadak broda.
+
+(2) Prijenos ili otuđenje broda ne obuhvaća one stvari pripatka u pogledu kojih je, uz pristanak vlasnika broda upisano zabilježbom u upisnik brodova da pripadaju drugoj fizičkoj ili pravnoj osobi.«.
+
+##### Članak 102.
+
+Članak 220. mijenja se i glasi:
+
+»(1) Hipoteka na brodu može nastati temeljem ugovora (ugovorna hipoteka) ili temeljem sudske odluke (prisilna sudska hipoteka).
+
+(2) Ako ugovor ili isprava o hipoteci u kojemu je potpis dužnika javno ovjerovljen sadrži izjavu dužnika da vjerovnik može neposredno na temelju ugovora ili isprave zatražiti upis hipoteke u upisnik brodova, kao i izjavu dužnika da je suglasan da se na temelju tog ugovora ili isprave na brodu na kojemu je zasnovana hipoteka može radi tražbine utvrđene tim ugovorom ili ispravom nakon dospjelosti tražbine provesti neposredna ovrha, takav je ugovor ili isprava ovršna isprava temeljem koje se takva ovrha može provesti bez potvrde ovršnosti.«.
+
+##### Članak 103.
+
+U članku 223. stavku 2. iza riječi: »prodaji« dodaju se riječi: »ili ovjerene isprave iz članka 213. stavka 3.«.
+
+##### Članak 104.
+
+U članku 224. iza riječi: »prodaji« dodaju se riječi: »ili ovjerene isprave iz članka 213. stavka 3. ovoga Zakonika«.
+
+##### Članak 105.
+
+U članku 231. stavku 2. riječi: »Hipoteka na naknadu iz osiguranja« zamjenjuju se riječima: »Hipoteka u odnosu na naknadu iz osiguranja«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ako je osiguravatelj bio obaviješten o hipoteci na brodu, ne smije osiguraniku isplatiti pripadajuću naknadu iz osiguranja bez pristanka hipotekarnog vjerovnika.«.
+
+##### Članak 106.
+
+U članku 235. riječi: »u gradnji, te na jahte upisane u upisnik jahti, odnosno jahte u gradnji upisane u upisnik jahti u gradnji« brišu se.
+
+##### Članak 107.
+
+U članku 236. stavku 1. na kraju točke 4. umjesto točke stavlja se zarez te se dodaje točka 5. koja glasi:
+
+»5) prodajom broda na javnoj dražbi sukladno članku 171. stavku 11. ili članku 840.n ovoga Zakonika.«.
+
+##### Članak 108.
+
+U članku 241. stavku 1. iza riječi: »pomorskim privilegijem« dodaju se riječi: »(zakonskim založnim pravom)«.
+
+Točka 4. mijenja se i glasi:
+
+»4) tražbine za lučke pristojbe i naknade koje se naplaćuju u lukama otvorenim za javni promet i lukama posebne namjene, troškove plovidbe kanalima i drugim plovnim putovima, uključujući troškove naknada za sigurnost plovidbe, naknade za uporabu objekata sigurnosti plovidbe te troškove peljarenja,«.
+
+##### Članak 109.
+
+U članku 246. stavku 1. na kraju točke 4. umjesto točke stavlja se zarez te se dodaje točka 5. koja glasi:
+
+»5) prodajom broda na javnoj dražbi sukladno članku 171. stavku 11. ili članku 840.n ovoga Zakonika.«.
+
+##### Članak 110.
+
+U članku 247. stavak 2. mijenja se i glasi:
+
+»(2) Rok iz članka 246. stavka 1. točke 2. ovoga Zakonika prestaje teći bilo kojom radnjom poduzetom pred sudom od strane vjerovnika privilegirane tražbine radi osiguranja ili namirenja predmetne tražbine.«.
+
+##### Članak 111.
+
+U članku 251. riječi: »brodove upisane u upisnik javnih brodova« zamjenjuju se riječima: »javne brodove upisane u upisnik brodova«.
+
+##### Članak 112.
+
+Članak 252. briše se.
+
+##### Članak 113.
+
+Iza članka 252. naziv glave treće mijenja se i glasi: »POSTUPAK ZA UPISIVANJE U UPISNIK BRODOVA«.
+
+##### Članak 114.
+
+Članak 253. mijenja se i glasi:
+
+»(1) Upisi u upisnik brodova obavljaju se na temelju rješenja nadležne lučke kapetanije, osim onih koji su u nadležnosti suda.
+
+(2) Postupak upisa iz stavka 1. ovoga članka provodi se prema odredbama zakona kojim se uređuje opći upravni postupak.
+
+(3) Postupak upisa broda u međunarodnoj plovidbi i jahte duljine trupa jednakog 24 metra ili većeg u međunarodnoj plovidbi rješava se bez odgode, a u iznimnim slučajevima najkasnije u roku od tri dana od trenutka zaprimanja urednog zahtjeva za upis.«.
+
+##### Članak 115.
+
+Članak 254. mijenja se i glasi:
+
+»(1) Za upis broda ili jahte nadležna je lučka kapetanija na čijem je području prebivalište, odnosno sjedište vlasnika broda, brodara, kompanije ili korisnika jahte.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, za upis broda u međunarodnoj plovidbi i jahte duljine trupa jednakog 24 metra ili većeg u međunarodnoj plovidbi nadležna je lučka kapetanija kojoj se podnese zahtjev za upis u upisnik brodova ili Ministarstvo.
+
+(3) Za upis broda ili jahte čiji vlasnik, brodar, kompanija ili korisnik jahte nema prebivalište, odnosno sjedište na području lučke kapetanije, nadležna je lučka kapetanija kojoj je podnesen zahtjev za prvi upis broda ili jahte.
+
+(4) Za upis plutajućeg objekta ili nepomičnog odobalnog objekta nadležna je lučka kapetanija na čijem se području taj objekt nalazi.
+
+(5) Za upis broda u gradnji, odnosno plutajućeg objekta u gradnji ili nepomičnog odobalnog objekta u gradnji nadležna je lučka kapetanija na čijem je području sjedište brodograditelja, odnosno sjedište graditelja.
+
+(6) Za upis pomorskog objekta u gradnji iz stavka 4. ovoga članka, kada brodograditelj ili graditelj nema sjedište na području lučke kapetanije, nadležna je lučka kapetanija kojoj je podnesen zahtjev za upis u upisnik brodova.
+
+(7) Za upis brodice nadležna je lučka kapetanija, odnosno ispostava lučke kapetanije na čijem je području prebivalište, odnosno sjedište fizičke ili pravne osobe vlasnika ili korisnika brodice.
+
+(8) Iznimno od odredbe stavka 7. ovoga članka, za upis brodice nadležna je lučka kapetanija, odnosno ispostava lučke kapetanije na čijem se području brodica stalno ili pretežno zadržava ili plovi.
+
+(9) Upis u list C uloška upisnika brodova za brodice provodi se temeljem rješenja nadležne lučke kapetanije ili suda.
+
+(10) Nadležnom lučkom kapetanijom za upis u upisnik brodova sukladno odredbama ovoga Zakonika smatra se i Ministarstvo kada obavljaju poslove upisa u okviru nadležnosti iz stavka 2. ovoga članaka, odnosno ispostava lučke kapetanije kada obavlja poslove upisa u okviru nadležnosti iz stavaka 7. i 8. ovoga članka.«.
+
+##### Članak 116.
+
+Članak 256. briše se.
+
+##### Članak 117.
+
+U članku 257. točki 1. riječi: »hrvatski« briše se.
+
+Točka 6. briše se.
+
+U dosadašnjoj točki 7., koja postaje točka 6., riječ: »hrvatskog« briše se.
+
+U dosadašnjoj točki 8., koja postaje točka 7., riječ: »hrvatski« briše se.
+
+##### Članak 118.
+
+U članku 266. stavak 1. mijenja se i glasi:
+
+»(1) Za prvenstveni red upisa mjerodavno je vrijeme zaprimanja zahtjeva.«.
+
+U stavku 2. riječ: »prijedloga« zamjenjuje se riječju: »zahtjeva«.
+
+##### Članak 119.
+
+Naslov iznad članka 273. mijenja se i glasi: »3. Zahtjevi«.
+
+##### Članak 120.
+
+U članku 273. stavku 1. riječi: »prijave ili prijedloga« zamjenjuju se riječju: »zahtjeva«.
+
+U stavku 2. riječi: »Prijave i prijedlozi, odnosno zahtjevi« zamjenjuju se riječju: »Zahtjevi«.
+
+##### Članak 121.
+
+U članku 275. stavku 1. riječi: »prije proteka roka stigne« zamjenjuju se riječima: »je prije isteka roka zaprimljen u«.
+
+##### Članak 122.
+
+Članak 276. briše se.
+
+##### Članak 123.
+
+Članak 277. mijenja se i glasi:
+
+»(1) Zahtjev za uknjižbu sadrži prešutno i zahtjev za predbilježbu, ako podnositelj zahtjeva to nije izričito isključio.
+
+(2) Jednim zahtjevom može se tražiti više upisa na temelju jedne isprave te upis jednog istog prava u više uložaka ili upis više prava u jedan uložak.«.
+
+##### Članak 124.
+
+Članak 278. mijenja se i glasi:
+
+»(1) Zahtjev za upis broda u upisnik brodova mora sadržati sve podatke koji se upisuju u upisnik brodova. Uz zahtjev moraju se priložiti isprave kojima se dokazuju podaci koji se upisuju u upisnik brodova.
+
+(2) Izvornikom isprave iz stavka 1. ovoga članka smatra se i elektronička isprava koja je izdana sukladno odredbama propisa o elektroničkim ispravama.«.
+
+##### Članak 125.
+
+Članak 279. briše se.
+
+##### Članak 126.
+
+U članku 280. stavku 2. riječ: »vlastita« zamjenjuje se riječju: »osobna«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Isprave koje ne sadrže podatke o mjestu i vremenu sastavljanja, ali je na njima izvršena ovjera kod javnog bilježnika, smatraju se podobnim za provođenje upisa u smislu stavka 2. ovoga članka.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., iza riječi: »vjerodostojnost« zarez i riječi: »a ako se sastoje od više listova, oni moraju biti ušiveni tako da se ni jedan list ne može umetnuti« brišu se.
+
+##### Članak 127.
+
+Članak 281. mijenja se i glasi:
+
+»(1) Isprave na temelju kojih se obavljaju upisi u list B i list C uloška glavne knjige upisnika brodova moraju se priložiti u izvorniku ili u ovjerenom prijepisu ili u ovjerenoj preslici.
+
+(2) Od svake isprave iz stavka 1. ovoga članka prilaže se i po jedan neovjereni prijepis ili preslika za zbirku isprava. Voditelj upisnika brodova potvrdit će da se taj prijepis ili preslika slaže s izvornikom.
+
+(3) Ako se izvornik isprave nalazi u službenim spisima ili u zbirci isprava ili ako je priložen uz već podneseni zahtjev, dovoljno je podnijeti prijepis ili presliku u dva primjerka i navesti gdje se izvornik nalazi.
+
+(4) Ako se izvornik isprave ne može odmah podnijeti zato što se nalazi kod drugog tijela ili suda, treba to u zahtjevu navesti i priložiti prijepis ili presliku, opskrbljenu potvrdom tijela uprave ili suda da se prijepis, odnosno preslika slaže s izvornikom i jedan neovjereni prijepis ili presliku isprave.«.
+
+##### Članak 128.
+
+U članku 282. iza riječi: »latiničnom pismu« dodaju se riječi: »osim isprave iz članka 213. stavka 3. ovoga Zakonika i potvrde tijela koje vodi strani upisnik brodova da je brod brisan iz tog upisnika, a koje mogu biti sastavljene na engleskom jeziku«.
+
+##### Članak 129.
+
+Članci 289., 290. i 291. brišu se.
+
+##### Članak 130.
+
+Članak 292. mijenja se i glasi:
+
+»Lučka kapetanija koja vodi upisnik brodova će na temelju zahtjeva i njegovih priloga dopustiti upis u upisnik brodova:
+
+1. kad iz upisnika brodova u pogledu broda ili prava na brodu ne proizlazi nikakva smetnja traženom upisu, odnosno ako je prilikom podnošenja zahtjeva za prvi upis broda u upisnik brodova udovoljeno uvjetima za upis propisanima odredbama ovoga Zakonika,
+
+2. kad nema osnovane sumnje u to da je podnositelj zahtjeva ovlašten podnijeti zahtjev i da su sudionici na čija se prava upis odnosi sposobni raspolagati tim pravima,
+
+3. kad je traženje prema sadržaju podnesenih isprava osnovano,
+
+4. kad isprave imaju oblik koji se zahtijeva za dozvolu uknjižbe, predbilježbe ili zabilježbe.«.
+
+##### Članak 131.
+
+U članku 293. stavku 1. riječi: »prijavi, odnosno prijedlogu« zamjenjuju se riječju: »zahtjevu«.
+
+U stavku 2. riječ: »Lučka« zamjenjuje se riječju: »lučka«.
+
+##### Članak 132.
+
+Članak 294. mijenja se i glasi:
+
+»(1) Lučka kapetanija koja vodi upisnik brodova donosi rješenje o upisu u upisnik brodova na temelju izvornih isprava, ili ovjerenih preslika izvornih isprava ili u neovjerenoj preslici ako je izvornu ispravu izdalo Ministarstvo ili druga lučka kapetanija.
+
+(2) Ako iz zahtjeva i priloženih preslika i prijepisa isprava proizlazi da bi se traženju moglo udovoljiti da je izvorna isprava bila podnesena, lučka kapetanija će, da se za odnosno pravo sačuva prvenstveni red, odrediti zabilježbu zahtjeva u upisnik brodova uz napomenu »dok stigne izvornik«.
+
+(3) Istodobno će lučka kapetanija koja vodi upisnik brodova predlagatelju odrediti primjeren rok u kojem mora podnijeti izvornu ispravu ako je tijelo, kod kojeg se ona nalazi, već po službenoj dužnosti nije dužno poslati. Ako drugo tijelo ili sud izvornu ispravu naknadno dostavi, ili isprava bude u određenom roku podnesena, rješavat će se o zahtjevu u samoj stvari.
+
+(4) Ako izvorna isprava u određenom ili produljenom roku ne bude podnesena, odbacit će se zahtjev i, po službenoj dužnosti, odrediti brisanje zabilježbe.
+
+(5) Iznimno od odredbe stavka 1. ovoga članka, lučka kapetanija koja vodi upisnik brodova može, kad ocijeni da za to postoje opravdani razlozi, dopustiti upis u upisnik brodova na osnovi potvrde o brisanju broda iz stranog upisnika brodova, odnosno isprave o stjecanju vlasništva na brodu poslane elektroničkom poštom, telefaksom ili na drugi primjeren način s time da se odredi rok za dostavu izvorne isprave.
+
+(6) Ako iz zahtjeva i priloženih isprava proizlazi da se traženju ne bi moglo udovoljiti i kad bi izvorna isprava bila priložena, lučka kapetanija će zahtjev odbiti.
+
+(7) Odredbe ovoga članka na odgovarajući se način primjenjuju i na zahtjev za prvi upis broda u gradnji.«.
+
+##### Članak 133.
+
+U članku 295. stavak 1. mijenja se i glasi:
+
+»(1) Ako zahtjevu nije priložen prijevod isprave koja je sastavljena na stranom jeziku, osim isprava sastavljenih na engleskom jeziku, a iz podneska ne proizlazi da traženje treba odbiti, lučka kapetanija koja vodi upisnik brodova će radi čuvanja prvenstvenog reda odrediti zabilježbu zahtjeva u upisniku uz napomenu »dok stigne prijevod« te zatražiti od stranke dostavljanje prijevoda podneska i za to odrediti primjereni rok.«.
+
+U stavku 2. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 134.
+
+U članku 297. stavku 1. riječ: »bar« briše se.
+
+U stavku 2. riječ: »Prijedlog« zamjenjuje se riječju: »Zahtjev«.
+
+##### Članak 135.
+
+U članku 298. stavak 1. točka 2. mijenja se i glasi:
+
+»2) naziv i sjedište, odnosno osobno ime i prebivalište, osobni identifikacijski broj osobe u čiju će se korist upis obaviti, izdan od strane države sjedišta ili prebivališta te osobe, brod ili pravo na brodu na kojem će se upis obaviti i bitan sadržaj prava koje se upisuje.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Rješenje kojim se određuje upis broda u upisnik brodova mora sadržavati podatke koji se moraju upisati u list A.«.
+
+##### Članak 136.
+
+U članku 299. stavku 1. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«, a riječi: »ili lučka kapetanija iz članka 254. stavka 5. ovoga Zakonika odbije izvršenje dopuštenog upisa (članak 298.)« brišu se.
+
+U stavku 2. točki 1. riječ: »prijedloga« zamjenjuje se riječju: »zahtjeva«.
+
+##### Članak 137.
+
+U članku 300. riječi: »izvršno zato što žalba nije podnesena« zamjenjuju se riječju »pravomoćno«.
+
+##### Članak 138.
+
+Članak 301. briše se.
+
+##### Članak 139.
+
+Članak 302. mijenja se i glasi:
+
+»Svaki upis, osim upisa u list A o tehničkim podacima, mora sadržavati:
+
+1. datum kad je zahtjev zaprimljen i jedinstvenu oznaku zahtjeva (pismena) u centralnom informacijskom sustavu za elektroničko uredsko poslovanje Ministarstva,
+
+2. naziv isprave koja je osnova za upis, mjesto gdje je isprava sastavljena i datum kad je sastavljena,
+
+3. naziv lučke kapetanije, odnosno suda, broj i datum njezina rješenja kojim je dopušten upis,
+
+4. vrstu upisa (članak 257.) i bitni sadržaj prava, odnosno činjenice koja se upisuje,
+
+5. naziv i sjedište, osobno ime i prebivalište osobe u čiju se korist obavlja upis.«.
+
+##### Članak 140.
+
+U članku 303. stavku 1. riječi: »upis broda u list A i list B upisnika brodova« zamjenjuju se riječima: »provedbu upisa«.
+
+U stavku 2. iza riječi: »uloška« stavlja se točka, a riječi: »otvorenog u skladu s člankom 290. stavkom 2. ovoga Zakonika.« brišu se.
+
+##### Članak 141.
+
+Članak 304. briše se.
+
+##### Članak 142.
+
+U članku 308. stavak 1. mijenja se i glasi:
+
+»(1) Valjanost upisa ne može se pobijati zato što je dostava obavljena elektronički ili javnom objavom na elektroničkoj oglasnoj ploči.«.
+
+U stavku 2. riječ: »izvršenog« zamjenjuje se riječju: »provedenog«.
+
+##### Članak 143.
+
+Članak 309. mijenja se i glasi:
+
+»Lučka kapetanija koja je provela upis brisanja broda iz upisnika brodova ili lučka kapetanija od koje to zatraži stranka izdat će potvrdu o brisanju.«.
+
+##### Članak 144.
+
+U članku 310. stavku 2. riječ: »obavljen« zamjenjuje se riječju: »proveden«.
+
+U stavku 3. riječ: »obavljen« zamjenjuje se riječju: »proveden«.
+
+##### Članak 145.
+
+Članak 311. mijenja se i glasi:
+
+»U upisniku brodova ne smije se ništa brisati ni na drugi način što dodavati ili mijenjati.«.
+
+##### Članak 146.
+
+Iza članka 311. dodaje se članak 311.a koji glasi:
+
+»Članak 311.a
+
+(1) Pogreška u upisu koja se opazi nakon provedenoga upisa može se ispraviti po službenoj dužnosti, bez vođenja postupka za ispravak pogrešnoga upisa, samo ako takav ispravak ne bi dovodio u pitanje već stečena prava, niti bi dovodio u opasnost osobe koje postupaju s povjerenjem u upisnike brodova.
+
+(2) Pokretanje postupka za ispravak pogrešnoga upisa zabilježit će se na listu na kojem je pogrešni upis proveden.
+
+(3) Zabilježba iz stavka 2. ovoga članka ima učinak da kasniji upisi ne sprječavaju ispravak pogreške.
+
+(4) Kad rješenje o ispravku pogrešnoga upisa postane pravomoćno, zabilježba iz stavka 2. ovoga članka će se po službenoj dužnosti brisati.«.
+
+##### Članak 147.
+
+U članku 312. stavci 2. i 3. brišu se.
+
+##### Članak 148.
+
+U članku 313. stavku 1. iza riječi: »prijepise« dodaju se riječi: »ili preslike«, a riječi: »prijavu ili prijedlog« zamjenjuju se riječju: »zahtjev«.
+
+U stavku 2. iza riječi: »prijepise« dodaju se riječi: »ili preslike«, a iza riječi: »prijepis« dodaju se riječi: »odnosno preslika«.
+
+##### Članak 149.
+
+Članak 314. mijenja se i glasi:
+
+»Za brod u gradnji prvi upis u upisnik brodova dopustit će se ako su uz zahtjev za prvi upis priložene sljedeće isprave:
+
+1. isprava kojom se dokazuje pravo vlasništva na brodu u gradnji,
+
+2. potvrda brodogradilišta o tehničkim podacima koji se upisuju na list A upisnika brodova u gradnji koja uključuje oznaku broda u gradnji, mjesto i početak gradnje.«.
+
+##### Članak 150.
+
+Članak 315. mijenja se i glasi:
+
+»(1) Prvi upis broda u upisnik brodova dopustit će se ako su uz zahtjev za prvi upis broda priložene sljedeće isprave:
+
+1. isprava kojom se dokazuje pravo vlasništva na brodu,
+
+2. isprava kojom se dokazuje da je udovoljeno uvjetima za upis broda u upisnik brodova,
+
+3. isprave kojima se dokazuju drugi podaci koji se unose u list A uloška glavne knjige upisnika brodova,
+
+4. potvrda tijela koje vodi strani upisnik brodova da je brod brisan iz tog upisnika, ako se taj brod prenosi iz stranog upisnika u hrvatski upisnik brodova,
+
+5. pisana izjava vlasnika broda da prenosi odgovornost za upravljanje brodom na kompaniju ako vlasnik broda nije i kompanija.
+
+(2) Potvrdu iz stavka 1. točke 4. ovoga članka nije potrebno priložiti u postupku upisa broda kupljenog na javnoj dražbi koju provodi Republika Hrvatska ili sudskom prodajom koja se provodi u Republici Hrvatskoj.
+
+(3) U postupku upisa provjerit će se udovoljava li brod odgovarajućim međunarodnim i nacionalnim pravilima i propisima i u tu svrhu provjeriti isprave, zapise i druge informacije vezano za sigurnost broda.
+
+(4) Kada se brod prenosi iz stranog upisnika u hrvatski upisnik brodova, po potrebi će se zatražiti od države u kojoj je brod bio upisan informacije o neotklonjenim nedostacima ili druge informacije vezane za sigurnost broda.
+
+(5) Osim isprava iz stavka 1. ovoga članka, uz prijavu za prvi upis nepomičnog odobalnog objekta i plutajućeg objekta, osim objekata iz članka 188.a ovoga Zakonika, prilaže se odobrenje nadležnog tijela državne uprave sukladno posebnim propisima i suglasnost nadležne lučke uprave ako se objekt privezuje, sidri, polaže ili ukopava na području luke.
+
+(6) Za potrebe vođenja upravnog postupka upisa broda u upisnik brodova i sve vezane upravne postupke koje vode druga nadležna tijela lučka kapetanija koja vodi upisnik iz članka 254. ovoga Zakonika obavlja poslove jedinstvenog upravnog mjesta prema odredbama zakona kojim se uređuje opći upravni postupak.«.
+
+##### Članak 151.
+
+U članku 316. stavku 1. riječi: »može se« zamjenjuju se riječima: »se može ovim«.
+
+U stavku 2. riječ: »vlastodavca« zamjenjuje se riječju: »opunomoćitelja«, a riječi: »koju je taj izdao« brišu se.
+
+##### Članak 152.
+
+U članku 319. riječi: »lučka kapetanija, kod koje se vodi upisnik brodova, dopustit će predbilježbu« zamjenjuju se riječima: »dopustit će se predbilježba upisa«.
+
+##### Članak 153.
+
+U članku 327. stavak 4. mijenja se i glasi:
+
+»(4) Rok za opravdanje predbilježbe može se, na prijedlog stranke, produljiti ako za to postoje opravdani razlozi.«.
+
+##### Članak 154.
+
+U članku 328. stavku 1. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 155.
+
+U članku 330. riječ: »prijedloga« zamjenjuje se riječju: »zahtjeva«.
+
+##### Članak 156.
+
+U članku 331. stavak 1. mijenja se i glasi:
+
+»(1) Ako opravdanje predbilježbe izostane, predbilježba će se brisati po službenoj dužnosti ili na prijedlog osobe protiv koje je predbilježba bila dopuštena.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Smatrat će se da je tužba za opravdanje predbilježbe podnesena na vrijeme, iako je istekao rok određen za njezino podnošenje, ako bude podnesena prije podnošenja zahtjeva za brisanje predbilježbe ili bar istog dana kad je taj zahtjev podnesen.«.
+
+##### Članak 157.
+
+U članku 332. stavku 1. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+U stavku 2. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 158.
+
+U članku 333. stavku 1. riječi: »novoga prijedloga« zamjenjuju se riječima: »novog zahtjeva«.
+
+U stavku 2. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 159.
+
+U članku 334. stavku 1. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 160.
+
+U članku 335. stavku 2. riječ: »prijedloga« zamjenjuje se riječju: »zahtjeva«.
+
+##### Članak 161.
+
+U članku 338. stavku 2. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 162.
+
+U članku 340. stavku 3. riječ: »prijedlogu« zamjenjuje se riječju: »zahtjevu«.
+
+##### Članak 163.
+
+U članku 341. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«, a riječi: »vodi upisnik brodova« zamjenjuju se riječima: »obavi upis«.
+
+##### Članak 164.
+
+Članak 343. mijenja se i glasi:
+
+»(1) Zahtjev za upis prava ili upis brisanja s prvenstvenim redom koji je zabilježbom osiguran (članak 340. ovoga Zakonika) mora se podnijeti u rokovima određenim u članku 327. ovoga Zakonika i uz prijedlog priložiti primjerak rješenja kojim je zabilježba dopuštena.
+
+(2) Isprava na temelju koje se upisuje ili briše pravo za koje je zabilježen prvenstveni red može biti sastavljena i poslije podnošenja zahtjeva za upis zabilježbe.
+
+(3) U rješenju kojim se, na zahtjev podnesen prema stavku 1. ovoga članka, dopušta uknjižba ili predbilježba mora se naznačiti da dopušteni upis ima onaj prvenstveni red koji je stečen zabilježbom. Tijelo koje obavi upis dopuštene uknjižbe, odnosno predbilježbe potvrdit će na primjerku rješenja kojim je zabilježba prvenstvenog reda dopuštena da je upis obavljen.
+
+(4) Upis sa zabilježbom prvenstvenog reda dopustit će se i ako su brod ili tražbina osigurani hipotekom na brodu preneseni na treću osobu ili su opterećeni pošto je zahtjev za zabilježbu prvenstvenog reda bio podnesen.
+
+(5) Ako se protiv vlasnika broda ili hipotekarnog vjerovnika pokrene stečajni postupak prije nego što bude podnesen zahtjev za upis, upis će se dopustiti samo ako je isprava o pravnom poslu bila već sastavljena prije dana otvaranja stečaja i ako je dan sastavljanja isprave dokazan ovjerom tijela nadležnog za ovjeru potpisa. Ako isprava ne odgovara tim uvjetima, ocijenit će se, prema propisima o stečaju, je li upis dopušten.«.
+
+##### Članak 165.
+
+Članak 344. mijenja se i glasi:
+
+»Ako se dopusti uknjižba prijenosa prava vlasništva ili otuđenja broda, odnosno ustupanja ili brisanja tražbine s prvenstvenim redom stečenim zabilježbom (članak 340. stavak 1. ovoga Zakonika), lučka kapetanija koja vodi upisnik brodova će, na zahtjev stranke u čiju je korist uknjižba upisana, narediti brisanje upisa koji su u pogledu tog broda ili tražbine obavljeni poslije podnošenja zahtjeva za zabilježbu. Zahtjev za brisanje tih upisa mora se podnijeti u roku od 15 dana od dana kad je uknjižba sa zabilježenim prvenstvenim redom postala pravomoćna.«.
+
+##### Članak 166.
+
+U članku 345. stavku 1. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«, a riječ: »obavljena« zamjenjuje se riječju: »provedena«.
+
+U stavku 2. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«, a riječ: »obavi« zamjenjuje se riječju: »provede«.
+
+##### Članak 167.
+
+U članku 348. stavku 2. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 168.
+
+U članku 351. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 169.
+
+U članku 352. stavku 1. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+U stavku 2. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 170.
+
+U članku 353. stavku 1. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+U stavku 2. riječ: »predlaže« zamjenjuje se riječju: »zahtjeva«, a riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 171.
+
+U članku 354. stavku 1. riječi: »obavljena uz prijedlog« zamjenjuju se riječima: »provedena uz zahtjev«.
+
+U stavku 3. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 172.
+
+U članku 356. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 173.
+
+U članku 357. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 174.
+
+U članku 358. stavku 1. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«.
+
+##### Članak 175.
+
+U članku 359. stavku 3. riječ: »prijedlog« zamjenjuje se riječju: »zahtjev«, a riječ: »obavljeni« zamjenjuje se riječju: »provedeni«.
+
+##### Članak 176.
+
+Članak 360. briše se.
+
+##### Članak 177.
+
+U članku 361. stavku 1. riječ: »prijedlogu« zamjenjuje se riječju: »zahtjevu«.
+
+##### Članak 178.
+
+U članku 362. stavak 4. briše se.
+
+##### Članak 179.
+
+Članci 363. i 364. brišu se.
+
+##### Članak 180.
+
+U članku 365. zarez i riječi: »i mjerodavan je trenutak kad je prijedlog za dozvolu upisa zajedničke hipoteke stigao pojedinoj lučkoj kapetaniji u čiji se upisnik hipotekarno pravo upisuje« brišu se.
+
+##### Članak 181.
+
+Članci 366. do 371. brišu se.
+
+##### Članak 182.
+
+Naslov iznad članka 372. i članak 372. brišu se.
+
+##### Članak 183.
+
+U članku 373. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+##### Članak 184.
+
+U članku 374. stavku 1. riječi: »vjerovnici hipotekarnih tražbina pristaju« zamjenjuju se riječima: »je hipotekarni vjerovnik pristao«, a točka na kraju stavka zamjenjuje se zarezom iza kojeg se dodaju riječi: »bez suglasnosti hipotekarnog vjerovnika.«.
+
+##### Članak 185.
+
+Članak 375. mijenja se i glasi:
+
+»(1) Ako se brod koji je bio brisan iz upisnika brodova zato što se pretpostavljalo da je propao, ili zato što je bio proglašen pomorskim plijenom, odnosno ratnim plijenom na moru, ponovno upisuje u upisnik brodova, lučka kapetanija koja vodi upisnik brodova donijet će rješenje o ponovnom upisu broda sa svim onim podacima i upisanim pravima iz upisnika s kojima je prije bio upisan, a koji su važili u trenutku brisanja broda, i o tome obavijestiti vlasnika broda i sve ostale osobe u čiju je korist bilo upisano kakvo pravo na brodu.
+
+(2) Odredbe stavka 1. ovoga članka primjenjuju se i na tradicionalni brod koji je bio brisan iz upisnika brodova na zahtjev vlasnika zato što je propao.«.
+
+##### Članak 186.
+
+Članak 376. mijenja i glasi:
+
+»Protiv rješenja lučke kapetanije koja vodi upisnik brodova žalba nije dopuštena, ali se može pokrenuti upravni spor u roku od 30 dana od dostave rješenja.«.
+
+##### Članak 187.
+
+Članak 377. briše se.
+
+##### Članak 188.
+
+Članak 379. mijenja se i glasi:
+
+»(1) Ako je pokrenut upravni spor protiv rješenja kojim se dopušta uknjižba ili predbilježba ili prvi upis broda u upisnik brodova, nadležna lučka kapetanija će odrediti zabilježbu upravnog spora u upisnik brodova.
+
+(2) Ako sud koji odlučuje u upravnom sporu pravomoćno odbije ili odbaci tužbu protiv rješenja iz stavka 1. ovoga članka, nadležna lučka kapetanija će odrediti brisanje zabilježbe.
+
+(3) Zabilježbu i brisanje zabilježbe iz stavaka 1. i 2. ovoga članka nadležna lučka kapetanija će odrediti po službenoj dužnosti.«.
+
+##### Članak 189.
+
+Članak 380. mijenja se i glasi:
+
+»Ako sud koji odlučuje u upravnom sporu pravomoćno odbije ili odbaci tužbu protiv rješenja kojim je prijedlog za upis odbijen, nadležna lučka kapetanija će po službenoj dužnosti odrediti brisanje zabilježbe upravnog spora u upisniku brodova i o tome obavijestiti stranke.«.
+
+##### Članak 190.
+
+Članak 381. mijenja se i glasi:
+
+»Ako sud koji odlučuje u upravnom sporu ukine rješenje i prihvati jedan od zahtjeva iz članka 299. ovoga Zakonika, nadležna lučka kapetanija obavit će odgovarajući upis u upisnik brodova. U tom se slučaju smatra da je upis obavljen u trenutku kad je zahtjev za upis bio podnesen.«.
+
+##### Članak 191.
+
+Članak 382. mijenja se i glasi:
+
+»(1) Ako sud koji odlučuje u upravnom sporu ukine rješenje kojim se dopušta brisanje upisa i zahtjev za brisanje odbije, uspostavit će se brisana uknjižba, odnosno predbilježba.
+
+(2) Ako sud iz stavka 1. ovoga članka ukine rješenje kojim je prihvaćen neki od zahtjeva iz članka 299. ovoga Zakonika, pa taj zahtjev odbije, brisat će se obavljena uknjižba i predbilježba.«.
+
+##### Članak 192.
+
+Članak 383. briše se.
+
+##### Članak 193.
+
+Iza članka 384. dodaju se točka c) Elektroničko poslovanje i članci 384.a do 384.dž koji glase:
+
+#### »c) Elektroničko poslovanje
+
+*Zaprimanje zahtjeva*
+
+##### Članak 384.a
+
+(1) Zaprimanje zahtjeva za upis u upisnik brodova dostavljenog elektroničkim putem smatra se obavljenim u trenutku kada je zahtjev evidentiran u centralnom informacijskom sustavu za elektroničko uredsko poslovanje Ministarstva.
+
+(2) Zaprimanje zahtjeva u centralnom informacijskom sustavu za elektroničko uredsko poslovanje Ministarstva ne utječe na stvarnu nadležnost iz članka 254. ovoga Zakonika.
+
+### Dostava
+
+##### Članak 384.b
+
+(1) Ako je zahtjev za upis u upisnik brodova podnesen elektroničkim putem, rješenje o upisu u upisnik brodova, elektroničke isprave broda i ostala pismena dostavit će se podnositelju zahtjeva elektronički, s time da se dostava smatra izvršenom u času zaprimanja pismena na poslužitelju podnositelja zahtjeva.
+
+(2) Dostava na način iz stavka 1. ovoga članka obavit će se i kad zahtjev nije podnesen elektroničkim putem, ali je podnositelj zahtjeva u zahtjevu označio elektroničku adresu za dostavu.
+
+##### Članak 384.c
+
+(1) Ako je zahtjev za upis u upisnik brodova podnesen putem središnjeg državnog portala, rješenje o upisu u upisnik brodova, elektroničke isprave broda i ostala pismena dostavit će se na središnji državni portal.
+
+(2) Središnji državni portal je mjesto pristupa informacijama na internetu kako je definirano posebnim propisom o državnoj informacijskoj infrastrukturi
+
+Članak 384.č
+
+(1) Kada dostava rješenja o upisu u upisnik brodova nije moguća ili ostali načini dostave nisu prikladni, dostava će se obaviti javnom objavom na elektroničkoj oglasnoj ploči upisnika brodova.
+
+(2) Dostava iz stavka 1. ovoga članka smatra se obavljenom istekom osmoga dana od dana javne objave.
+
+(3) Elektronička oglasna ploča upisnika brodova iz stavka 1. ovoga članka nalazi se na internetskim stranicama Ministarstva.
+
+*Uvid u upisnik brodova*
+
+Članak 384.ć
+
+(1) Uvid u upisnik brodova ostvaruje se neposrednim uvidom ili izdavanjem izvatka iz upisnika brodova i ispisom iz zbirke isprava.
+
+(2) Izvadak i ispis zbirke isprava iz stavka 1. ovoga članka na zahtjev stranke može izdavati svaka lučka kapetanija neovisno o nadležnosti za vođenje upisnika brodova iz članka 254. ovoga Zakonika.
+
+(3) Ispis iz zbirke isprava dopustit će se sukladno odredbi članka 195. stavka 5. ovoga Zakonika.
+
+##### Članak 384.d
+
+(1) Pravo na pristup i pretraživanje podataka iz upisnika brodova, zbirki isprava i pomoćnih popisa za sve uloške temeljem naziva, odnosno osobnog imena ili osobnog identifikacijskog broja imaju državna tijela i tijela s javnim ovlastima kada je to potrebno u pripremi ili vođenju određenog sudskog ili upravnog postupka.
+
+(2) Ministar pravilnikom iz članka 195. stavka 6. ovoga Zakonika propisuje način pristupa osoba iz stavka 1. ovoga članka.
+
+*Ažuriranje podataka u upisniku brodova*
+
+Članak 384.dž
+
+Lučka kapetanija koja vodi upisnik brodova može obaviti po službenoj dužnosti promjenu podataka o upisanom vlasniku, brodaru, kompaniji, korisniku jahte ili korisniku brodice, temeljem podataka koje u javnim registrima vode nadležna tijela sukladno posebnom propisu o državnoj informacijskoj infrastrukturi.«.
+
+##### Članak 194.
+
+U članku 386. stavak 1. mijenja se i glasi:
+
+»(1) Brodar (što za potrebe ovoga dijela uključuje vlasnika broda, naručitelja prijevoza u brodarskom ugovoru, zakupoprimatelja i poslovođu broda) i spašavatelj kako je definiran u ovom članku, mogu ograničiti svoju odgovornost u skladu s odredbama ovoga dijela Zakonika.«.
+
+##### Članak 195.
+
+U članku 391. stavak 1. mijenja se i glasi:
+
+»(1) Granice odgovornosti za tražbine, osim onih navedenih u članku 392. ovoga Zakonika koje su proizašle iz jednoga istog događaja, obračunavaju se na sljedeći način:
+
+1. u pogledu tražbina zbog smrti ili tjelesnih ozljeda
+
+a) 3,02 milijuna obračunskih jedinica Posebnih prava vučenja za brod s tonažom koja ne prekoračuje 2.000 tona,
+
+b) za brod s tonažom koja prekoračuje 2.000 tona obračunava se sljedeći iznos kao dodatak iznosu u podtočki a) ove točke:
+
+– za svaku tonu od 2.001 do 30.000 tona, 1.208 obračunskih jedinica Posebnih prava vučenja,
+
+– za svaku tonu od 30.001 do 70.000 tona, 906 obračunskih jedinica Posebnih prava vučenja, i
+
+– za svaku tonu koja prekoračuje 70.000 tona, 604 obračunske jedinice Posebnih prava vučenja,
+
+2. u pogledu ostalih tražbina:
+
+a) 1,51 milijun obračunskih jedinica Posebnih prava vučenja za brod s tonažom koja ne prekoračuje 2.000 tona
+
+b) za brod s tonažom koja prekoračuje 2.000 tona obračunava se sljedeći iznos kao dodatak iznosu navedenom u podtočki a) ove točke:
+
+– za svaku tonu od 2.001 do 30.000 tona, 604 obračunske jedinice
+
+– za svaku tonu od 30.001 do 70.000 tona, 453 obračunske jedinice
+
+– za svaku tonu koja prekoračuje 70.000 tona, 302 obračunske jedinice.«.
+
+##### Članak 196.
+
+U članku 401. stavak 3. mijenja se i glasi:
+
+»(3) Ako je brod na koji se odnosi događaj u povodu kojega se vodi postupak ograničenja odgovornosti brodara upisan u upisnik brodova, mjesno je nadležan sud na čijem se području vodi upisnik brodova u koji je brod upisan.«.
+
+##### Članak 197.
+
+U članku 429. stavku 2. iza točke 2. dodaje se točka 3. koja glasi:
+
+»3.) jahta jest jahta u međunarodnoj plovidbi iz članka 126. stavka 2. ovoga Zakonika koja se koristi u gospodarske svrhe.«.
+
+U stavku 4. podstavak 1. briše se.
+
+Podstavci 2. do 5. postaju podstavci 1. do 4.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ako odredbama ove glave Zakonika nije drukčije određeno, odredbe ove glave Zakonika koje se odnose na brodove čija neto tonaža sudjeluje u obračunu poreza po tonaži broda, na odgovarajući se način primjenjuju i na jahte iz stavka 2. točke 3. ovoga članka.«.
+
+##### Članak 198.
+
+U članku 429.b stavak 1. mijenja se i glasi:
+
+»(1) Brodovi čija neto tonaža sudjeluje u obračunu poreza po tonaži broda moraju zadovoljavati standarde sigurnosti ne niže od propisanih u glavi petoj dijela trećeg ovoga Zakonika.«.
+
+##### Članak 199.
+
+U članku 429.e iza stavka 2. dodaje se novi stavak 3. i stavak 4. koji glase:
+
+»(3) Za svaku jahtu koja sudjeluje u obračunu poreza po tonaži utvrđuje se i plaća porez u sljedećem godišnjem iznosu:
+
+a) za jahte duljine trupa do 24 m 3.500,00 kuna,
+
+b) za jahte duljine trupa jednake i veće od 24 m:
+
+– za jahte od 0 do 3.000 neto tonaže utvrđuje se i plaća porez po tonaži broda od 7.500,00 kuna,
+
+– za svakih dodatnih 100 jedinica neto tonaže od 3.001 do 10.000 jedinica neto tonaže utvrđuje se i plaća porez po tonaži broda od 1.500,00 kuna,
+
+– za svakih dodatnih 100 jedinica neto tonaže od 10.001 do 25.000 jedinica neto tonaže utvrđuje se i plaća porez po tonaži broda od 1.000,00 kuna.
+
+(4) Jahta starosti do pet godina plaća godišnje iznose poreza po tonaži iz stavka 3. ovoga članka umanjene za 20%.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+##### Članak 200.
+
+U članku 429.i stavak 1. mijenja se i glasi:
+
+»(1) Iznimno od odredbi propisa kojima je uređen porez po odbitku, trgovačka društva koja obavljaju brodarsku djelatnost za koju su registrirana ne plaćaju porez po odbitku za usluge vezane za iskorištavanje brodova, a osobito za plaćanja:
+
+– usluga vezanih za plovidbu broda kao nabavu goriva, rezervnih dijelova, opskrbe i popravaka brodova, korištenje tegljača, plaćanje lučkih troškova, kanalskih pristojbi, liječničkih usluga i putovanja posade i poslovoditelja, premija osiguranja i slično,
+
+– usluga vezanih za iskorištavanje brodova, a osobito zakupnina i vozarina iz ugovora o zakupu i ugovora o pomorsko-plovidbenim poslovima, naknada poslovođama brodova i slično,
+
+– naknada vezanih za financiranje brodova kao naknade bankama za odobrene zajmove, bankarske provizije za bankovne račune u inozemstvu, naknada za osiguranja hipotekarnih kredita (osnovno i dodatno osiguranje), kamate koje stranim osobama plaćaju domaće banke kod kojih su deponirale sredstava za financiranje gradnje ili poslovanje brodova i slično, troškovi osnivanja i održavanja upisa tvrtki i brodova, pravničke i druge usluge vezane za financiranje brodova i narudžbu novogradnji ili kupnje broda, i slično,
+
+– naknada za usluge pregleda brodova od strane hipotekarnih vjerovnika, klase, za preglede tereta i šteta trećima, i slično.«.
+
+Dodaje se novi stavak 2. koji glasi:
+
+»(2) Za sve usluge koje nisu vezane za iskorištavanje brodova plaća se porez po odbitku uz primjenu redovitih poreznih stopa utvrđenih propisima kojima se uređuje porez na dobit.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+##### Članak 201.
+
+Naslov iznad članka 430. mijenja se i glasi: »UGOVOR O GRADNJI, PREINACI ILI POPRAVKU BRODA«.
+
+##### Članak 202.
+
+U članku 430. stavku 2. iza prve rečenice dodaje se druga rečenica koja glasi: »Pod ugovorom o popravku broda podrazumijevaju se i ugovor temeljem kojega se izvode radovi održavanja, servisiranja te slični radovi na brodu ili njegovim dijelovima.«.
+
+U stavku 3. na kraju rečenice točka se zamjenjuje zarezom i dodaju se riječi: »a odredbe o ugovoru o preinaci i popravku broda na ugovor o preinaci i popravku brodice odnosno jahte.«.
+
+##### Članak 203.
+
+Članak 437. mijenja se i glasi:
+
+»Brodograditelj i brodopopravljač koji drže u posjedu brod u gradnji ili na popravku imaju pravo zadržati brod, dok im ne budu isplaćene tražbine u vezi s ugovorom o gradnji ili popravku broda.«.
+
+##### Članak 204.
+
+U članku 440. stavak 1. mijenja se i glasi:
+
+»(1) Odredbe članaka 432. do 439. ovoga Zakonika na odgovarajući se način primjenjuju i na ugovor o popravku ili preinaci broda, jahte ili brodice osim na dokovanje, ako se dokovanje obavlja kao samostalan posao primjenom tarife ili cjenika.«.
+
+##### Članak 205.
+
+U članku 615.a stavku 1. riječ: »hrvatski« briše se.
+
+##### Članak 206.
+
+Iza članka 673. dodaju se glava II.a, naziv glave te članci 673.a do 673.v koji glase:
+
+### »GLAVA II.a — UGOVOR O NAJMU JAHTE I BRODICE I UGOVOR O NAUTIČKOM VEZU
+
+*Ugovor o najmu jahte i brodice (charter)*
+
+##### Članak 673.a
+
+(1) Ugovor o najmu jahte i brodice (u daljnjem tekstu: ugovor o najmu) jest ugovor kojim se najmodavac obvezuje predati jahtu ili brodicu najmoprimcu na uporabu, a najmoprimac se obvezuje za to mu platiti određenu najamninu.
+
+(2) Jahta ili brodica daje se u najam za plovidbu u svrhu rekreacije.
+
+(3) Ugovor o najmu može uključivati uslugu smještaja na brodici ili jahti.
+
+(4) Najmodavac se smatra korisnikom jahte ili brodice predane u najam te se na njega na odgovarajući način primjenjuju odredbe ovoga Zakonika koje se odnose na brodara, pri čemu se ne isključuje postojanje zakonom propisane odgovornosti vlasnika jahte ili brodice ako to nije ista osoba.
+
+(5) Najmoprimac može ograničiti svoju odgovornost u vezi s plovidbom i uporabom brodice ili jahte u skladu s odredbama dijela šestog ovoga Zakonika o ograničenju odgovornosti brodara.
+
+##### Članak 673.b
+
+(1) Najmodavac je dužan najmoprimcu predati jahtu ili brodicu na ugovorenom mjestu i u ugovoreno vrijeme primjereno opremljenu, u stanju sposobnom za plovidbu i podobnom za ugovorenu uporabu.
+
+(2) Najmodavac ostaje odgovoran za redovito i izvanredno održavanje brodice ili jahte i tijekom trajanja ugovora o najmu.
+
+(3) Ako je brodica ili jahta predana u stanju nesposobnom za plovidbu, neprikladnom za ugovorenu uporabu ili u stanju koje bi uporabu znatno ograničavalo, najmoprimac može raskinuti ugovor i ima pravo na naknadu štete.
+
+##### Članak 673.c
+
+Za štetu nastalu zbog mana koje čine brodicu ili jahtu nesposobnom za plovidbu ili smanjuju njezinu sposobnost za ugovorenu ili uobičajenu uporabu, a postojale su u vrijeme njezine predaje najmoprimcu, odgovara najmodavac, ako ne dokaže da te mane nije mogao otkriti dužnom pažnjom.
+
+Članak 673.č
+
+(1) Jahta ili brodica može se dati u najam s posadom ili bez nje.
+
+(2) Ako se jahta ili brodica daje u najam bez posade, najmoprimac je dužan osigurati da brodicom ili jahtom za vrijeme ugovora o najmu upravlja propisno osposobljena i ovlaštena osoba u svojstvu voditelja brodice, odnosno zapovjednika jahte te da bude ukrcan dovoljan broj osoba osposobljenih i ovlaštenih za obavljanje poslova posade sukladno važećim propisima.
+
+(3) Ako najmodavac ne ispunjava svoje obveze iz stavka 2. ovoga članka, najmoprimac ima pravo raskinuti ugovor i tražiti naknadu štete.
+
+(4) Za vrijeme dok se jahta ili brodica predana u najam bez posade nalazi u posjedu najmoprimca, uz korisnika i vlasnika jahte, odnosno brodice zakonsku odgovornost u vezi s njezinom uporabom snosi i najmoprimac na kojeg se na odgovarajući način primjenjuju odredbe ovoga Zakonika koje se odnose na brodara, u skladu s odredbom članka 673.a stavka 5. ovoga Zakonika.
+
+(5) Ako se brodica ili jahta daje u najam s posadom, posada je dužna izvršavati naloge najmoprimca u pogledu plana plovidbe, pri čemu nije dužna izvršavati naloge čije bi izvršenje moglo izravno ugroziti sigurnost brodice ili jahte ili osoba na brodici ili jahti, kao niti naloge koji ne odgovaraju vrsti, namjeni ili tehničkim sposobnostima brodice ili jahte.
+
+Članak 673.ć
+
+(1) Najmoprimac je dužan upotrebljavati jahtu ili brodicu u skladu s ugovorom i njezinom namjenom pridržavajući se propisa o sigurnosti plovidbe i zaštiti morskog okoliša te drugih važećih propisa vezanih uz plovidbu.
+
+(2) Najmoprimac snosi troškove pogona, zaliha, sitnih popravaka i redovite uporabe, ako nije drugačije ugovoreno.
+
+(3) Najmoprimac je dužan nakon proteka ugovora vratiti brodicu ili jahtu u stanju i mjestu na kojem ju je primio, ako nije drugačije ugovoreno.
+
+(4) Najmoprimac ne odgovara za redovito trošenje brodice ili jahte ni za posljedice njezine dotrajalosti.
+
+(5) Najmoprimac ne snosi troškove popravka brodice ili jahte potrebnog za uklanjanje skrivenih mana niti snosi štetu za gubitak ili oštećenje brodice ili jahte zbog djelovanja više sile.
+
+##### Članak 673.d
+
+(1) Najmoprimac odgovara za štetu nastalu zbog protuugovorne ili protupropisne uporabe i uporabe protivne namjeni brodice ili jahte, neovisno o tome je li stvar rabio on ili neka druga osoba po njegovu ovlaštenju.
+
+(2) Ako najmoprimac rabi brodicu ili jahtu protivno ugovoru, propisu ili njezinoj namjeni, ili ako oštećuje brodicu ili jahtu, osobito ako trećemu neovlašteno prepušta uporabu brodice ili jahte, najmodavac može raskinuti ugovor i ima pravo na naknadu štete.
+
+Članak 673.dž
+
+(1) U nedostatku ugovorne odredbe najamnina se plaća unaprijed, računajući od dana kad najam počne teći.
+
+(2) Najamnina ne pripada najmodavcu dok je najmoprimac spriječen rabiti brodicu ili jahtu krivnjom najmodavca ili zbog njezine skrivene mane.
+
+Članak 673.đ
+
+(1) Ako najmoprimac ne plati najamninu o dospjelosti, najmodavac može raskinuti ugovor.
+
+(2) Odredba stavka 1. ovoga članka ne utječe na pravo najmodavca na naknadu štete.
+
+##### Članak 673.e
+
+Ugovor o najmu brodice ili jahte sklapa se na određeno vrijeme.
+
+##### Članak 673.f
+
+Ugovor o najmu brodice ili jahte prestaje u slučaju propasti brodice ili jahte ili njezine trajne nesposobnosti za uporabu, osim ako najmodavac ne preda na uporabu zamjensku brodicu ili jahtu jednakih ili sličnih osobina podobnu za ugovorenu uporabu i namjenu. Ovom se odredbom ne dira u pravo na naknadu štete od ugovorne strane odgovorne za propast brodice ili jahte.
+
+##### Članak 673.g
+
+(1) Ako najmoprimac ne vrati najmodavcu brodicu ili jahtu u ugovorenom roku, dužan je platiti naknadu u visini dvostruke najamnine razmjerne razdoblju zakašnjenja.
+
+(2) Ako je najmoprimac kriv za zakašnjenje u vraćanju brodice ili jahte, odgovara najmodavcu i za svaku štetu iznad svote određene u stavku 1. ovoga članka.
+
+##### Članak 673.h
+
+Nagrada za spašavanje koje je obavljeno unajmljenom brodicom ili jahtom pripada najmodavcu.
+
+##### Članak 673.i
+
+Najmoprimac može dati brodicu ili jahtu u podnajam samo na temelju suglasnosti najmodavca.
+
+*Ugovor o nautičkom vezu*
+
+##### Članak 673.j
+
+(1) Ugovorom o nautičkom vezu (u daljnjem tekstu: ugovor o vezu) obvezuje se pružatelj usluge veza u moru ili na kopnu ustupiti vez korisniku veza na uporabu za smještaj određene jahte ili brodice i osoba koje na njoj borave, a korisnik veza se obvezuje za to platiti naknadu za vez.
+
+(2) Pružatelj usluge veza može u bilo kojem trenutku bez pitanja ili odobrenja korisnika veza premjestiti jahtu ili brodicu na drugi odgovarajući vez.
+
+(3) Ugovorom o vezu pružatelj usluge veza može se obvezati da nadzire jahtu ili brodicu na vezu, ili da ispunjava i druge dodatne usluge i radove, ako ugovorne strane to izričito ugovore.
+
+##### Članak 673.k
+
+(1) Vez može biti privremeni (tranzitni) ili stalni, što se ocjenjuje prema načinu sklapanja, naravi ugovora i namjeri stranaka.
+
+(2) Ako nije drukčije ugovoreno, ugovor o privremenom (tranzitnom) vezu smatra se sklopljenim u trenutku kada se jahta ili brodica priveže na vez, osim ako se pružatelj veza tome ne usprotivi.
+
+(3) Ugovor o stalnom vezu smatra se sklopljenim kada su se ugovorne strane suglasile o bitnim sastojcima ugovora.
+
+*Ustupanje i održavanje veza*
+
+##### Članak 673.l
+
+Pružatelj usluge veza dužan je korisniku veza ustupiti mjesto za siguran vez te pažnjom dobrog stručnjaka održavati vez tako da bude ispravan i siguran.
+
+##### Članak 673. lj
+
+(1) Pružatelj usluge veza u moru ili na pomorskom dobru mora imati valjanu pravnu osnovu za obavljanje djelatnosti pružanja usluge veza sukladno pozitivnim propisima o pomorskom dobru i morskim lukama te o pružanju usluga u nautičkom turizmu.
+
+(2) Pružatelj usluge veza koji ne udovoljava uvjetima iz stavka 1. ovoga članka odgovara za štetu koja korisniku veza ili trećim osobama nastane u vezi s ugovorom o vezu.
+
+(3) Pružatelj usluge veza se oslobađa odgovornosti ako dokaže da je šteta u cijelosti ili djelomično prouzročena radnjom ili propustom korisnika veza učinjenim u namjeri da se prouzroči šteta ili iz nepažnje.
+
+(4) Pružatelj usluge veza se oslobađa odgovornosti i ako dokaže da je šteta u cijelosti prouzročena radnjom ili propustom treće osobe učinjenim u namjeri da se prouzroči šteta.
+
+(5) U slučaju da pružatelj usluge veza na moru ili na pomorskom dobru ne udovoljava uvjetima iz stavka 1. ovoga članka, korisnik veza osim prava na naknadu štete, ima i pravo na jednostrani raskid ugovora.
+
+*Odgovornost za materijalne nedostatke veza*
+
+##### Članak 673.m
+
+(1) Ako je vez ustupljen u stanju neprikladnom za sigurnu uporabu ili ako za vrijeme trajanja ugovora o vezu dospije u takvo stanje, a pružatelj usluge veza ne otkloni nedostatke ili ne premjesti jahtu ili brodicu na odgovarajući vez, korisnik veza može raskinuti ugovor te ima pravo na naknadu štete.
+
+(2) Odgovornost za materijalne nedostatke veza koja je posljedica namjere ili krajnje nepažnje pružatelja usluge veza ne može se ugovorom isključiti ili ograničiti.
+
+(3) Odredba ugovora o ograničenju ili isključenju odgovornosti za materijalne nedostatke veza ništetna je ako je nedostatak bio poznat pružatelju usluge veza, a on o njemu nije obavijestio korisnika veza, a i onda kad je pružatelj usluge veza nametnuo tu odredbu koristeći se svojim monopolskim položajem te ako se radi o potrošačkom ugovoru.
+
+*Nadzor jahte ili brodice na vezu*
+
+##### Članak 673.n
+
+(1) Ako je nadzor jahte ili brodice na vezu izričito ugovoren, pružatelj usluge veza dužan je uobičajenim vanjskim pregledom provjeravati stanje jahte ili brodice i njezine opreme, a ako je to izričito ugovoreno, nadzor jahte ili brodice može uključivati i provjeravanje stanja unutrašnjosti jahte ili brodice.
+
+(2) Obveza nadzora iz stavka 1. ovoga članka postoji uz uvjet da se jahta ili brodica nalazi na vezu i da na njemu ne borave korisnik veza ili osobe koje je on ovlastio.
+
+(3) Obveza pružatelja usluge veza da nadzire jahtu ili brodicu na vezu prestaje u trenutku kada su korisnik veza ili treća osoba koju on ovlasti stupili na jahtu ili brodicu, osim ako nije drugačije ugovoreno.
+
+*Hitna nepredviđena činjenja koja se odnose na jahtu ili brodicu*
+
+##### Članak 673.nj
+
+(1) Hitna nepredviđena činjenja pružatelj usluge veza može izvesti i bez prethodne suglasnosti korisnika veza.
+
+(2) Hitna nepredviđena činjenja su činjenja koja je nužno izvesti radi sprječavanja nastanka štete i zaštite jahte ili brodice od oštećenja ili uništenja, održavanja njezine stabilnosti i plovnosti, sprječavanja opasnosti za život i zdravlje ljudi, okoliš, druge jahte i brodice, opremu i infrastrukturu luke, a ona uključuju i činjenja po naredbi mjerodavnog tijela javne vlasti.
+
+*Uporaba veza prema ugovoru i namjeni*
+
+##### Članak 673.o
+
+(1) Korisnik veza dužan je vez rabiti u skladu s ugovorom i njegovom namjenom kao dobar gospodarstvenik, odnosno dobar domaćin.
+
+(2) Korisnik veza ne smije vez prepustiti drugome na uporabu.
+
+(3) Korisnik veza odgovara za štetu koja može nastati zbog protuugovorne uporabe i uporabe kojoj vez nije namijenjen, neovisno o tome je li vez rabio on ili neka osoba po njegovu nalogu ili koja druga osoba kojoj je on prepustio jahtu ili brodicu na uporabu ili korištenje.
+
+(4) Ako korisnik veza i nakon opomene pružatelja usluge veza rabi vez protivno ugovoru ili njegovoj namjeni, osobito ako neovlašteno prepušta drugome uporabu veza, pružatelj usluge veza može raskinuti ugovor, a ima pravo i na naknadu štete.
+
+*Održavanje jahte ili brodice i opreme*
+
+##### Članak 673.p
+
+(1) Korisnik veza dužan je održavati jahtu ili brodicu i njezinu opremu u dobrom i ispravnom stanju sposobnosti za plovidbu sukladno važećim propisima te je dužan opremiti jahtu ili brodicu kvalitetnim i odgovarajućim konopima za privez i bokobranima i održavati ih za sve vrijeme trajanja ugovora o vezu.
+
+(2) Ako korisnik veza zanemaruje održavanje jahte ili brodice, pružatelj usluge veza može raskinuti ugovor, a ima pravo i na naknadu štete.
+
+*Plaćanje naknade za vez*
+
+##### Članak 673.r
+
+(1) Korisnik veza dužan je plaćati naknadu za vez u rokovima određenim ugovorom, a u nedostatku ugovorne odredbe, kako je uobičajeno u mjestu u kojem se vez nalazi.
+
+(2) Pružatelj usluge veza može otkazati ugovor o vezu bez pridržavanja otkaznog roka ako je korisnik veza dva uzastopna roka u zakašnjenju s plaćanjem naknade za vez ili znatnog dijela naknade za vez, ako nije drugačije ugovoreno.
+
+(3) Ugovor ostaje na snazi ako korisnik veza plati iznos dužne naknade za vez prije nego mu je otkaz priopćen.
+
+*Pravo zadržanja*
+
+##### Članak 673.s
+
+Pružatelj usluge veza ima pravo zadržati jahtu ili brodicu sa svim pripadcima, i to na ugovorenom vezu ili tako da je premjesti na drugi siguran vez u moru ili na kopnu do potpunog namirenja neplaćene naknade za vez i ostalih tražbina iz ugovora o vezu te tražbina nastalih u vezi s boravkom i zadržanjem plovila na vezu nakon isteka, prestanka, raskida ili otkaza ugovora o vezu.
+
+Članak 673.š
+
+Ugovor o vezu sklapa se na određeno vrijeme i prestaje istekom toga vremena.
+
+*Prešutna obnova ugovora o vezu*
+
+##### Članak 673.t
+
+Ugovor o vezu smatra se prešutno obnovljenim na isto vrijeme trajanja i pod važećim uvjetima pružatelja usluge veza ako nakon isteka ugovorom određenog vremena korisnik veza nastavi rabiti vez, odnosno ako jahta ili brodica na koju se ugovor o vezu odnosi ostane na vezu i nakon isteka ugovorom određenog vremena, a pružatelj usluge veza se tome ne protivi.
+
+*Otkaz*
+
+##### Članak 673.u
+
+(1) Ugovor o stalnom vezu može otkazati bilo koja ugovorna strana poštujući ugovorom određeni otkazni rok.
+
+(2) Ako duljina otkaznog roka nije određena ugovorom ili mjesnim običajima, ona iznosi trideset dana.
+
+*Propast stvari*
+
+##### Članak 673.v
+
+(1) Ugovor o vezu prestaje ako vez propadne, a ne postoji mogućnost premještanja jahte ili brodice na drugi odgovarajući vez, čime se ne dira u pravo potraživanja naknade štete od ugovorne strane koja je odgovorna za propast veza.
+
+(2) Ugovor o vezu prestaje i u slučaju propasti jahte ili brodice u odnosu na koju je ugovor o vezu sklopljen, čime se ne dira u pravo potraživanja naknade štete od ugovorne strane koja je odgovorna za propast jahte ili brodice.«.
+
+##### Članak 207.
+
+U članku 675. iza riječi: »iskorištavanje,« dodaje se riječ: »posadu«, a iza riječi: »o putnicima« dodaju se riječi: »i posadi«.
+
+##### Članak 208.
+
+U članku 750. stavak 2. mijenja se i glasi:
+
+»(2) Pod odgovornošću broda razumijeva se odgovornost vlasnika broda i brodara, a pod odgovornošću jahte ili brodice odgovornost vlasnika, korisnika i najmoprimca jahte ili brodice dane u najam bez posade.«.
+
+##### Članak 209.
+
+U članku 751. ispred riječi: »Odgovornost« stavlja se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Odgovornost korisnika jahte ili brodice prema odredbama ove glave Zakonika postoji i kad je šteta prouzročena radnjom ili propustom najmoprimca jahte ili brodice ili osobe za koju najmoprimac odgovara.«.
+
+##### Članak 210.
+
+U članku 810. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Za štete iz stavka 1. ovoga članka koju prouzroči jahta ili brodica odgovaraju vlasnik i korisnik jahte ili brodice, najmoprimac jahte ili brodice dane u najam bez posade te osoba koja u trenutku događaja upravlja jahtom, odnosno brodicom.«.
+
+Dosadašnji stavci 2. do 4. postaju stavci 3. do 5.
+
+##### Članak 211.
+
+Naslov iznad članka 811. mijenja se i glasi: »3. Odgovornost za oštećenje stvari«.
+
+##### Članak 212.
+
+U članku 811. stavku 2. iza riječi: »Brod« stavlja se zarez i dodaju riječi: »jahta odnosno brodica«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Za štetu iz stavka 1. ovoga članka koju prouzroči jahta ili brodica odgovaraju vlasnik i korisnik jahte ili brodice te najmoprimac jahte ili brodice dane u najam bez posade.«.
+
+##### Članak 213.
+
+Iznad članka 812. dodaje se naslov koji glasi: »3.a Odgovornost za onečišćenje okoliša«.
+
+##### Članak 214.
+
+Članak 812. mijenja se i glasi:
+
+»(1) Izuzimajući štete iz članaka 814. i 823.b ovoga Zakonika, na štete koje prouzroči brod izlijevanjem ili izbacivanjem drugih onečišćujućih tvari u more (opasne i štetne tvari, zauljene vode, otpadne vode) odgovaraju vlasnik broda i brodar ako ne dokažu da je izlijevanje ili izbacivanje onečišćujućih tvari:
+
+a) posljedica rata, neprijateljstva, građanskog rata, pobune ili prirodne pojave izvanrednoga, neizbježnog ili neotklonjivog karaktera,
+
+b) proistječe u potpunosti iz činjenice što je treća osoba svjesno djelovala ili propustila djelovati u namjeri da nanese štetu, ili
+
+c) u potpunosti proistječe iz radnje ili propusta bilo koje države ili drugog tijela odgovornog za održavanje svjetionika ili drugih sredstava za pomoć plovidbi u obavljanju te funkcije.
+
+(2) Ako vlasnik broda ili brodar dokaže da je šteta nastala u potpunosti ili djelomično zato što je osoba koja je pretrpjela tu štetu djelovala ili propustila djelovati u namjeri da prouzroči štetu, ili iz krajnje nepažnje te osobe, on može biti u potpunosti ili djelomično oslobođen svoje odgovornosti prema spomenutoj osobi.
+
+(3) Šteta zbog onečišćenja je svaki gubitak ili šteta nastala zbog onečišćenja izvan broda zbog otjecanja ili izbacivanja onečišćujućih tvari s broda ma gdje se to otjecanje ili izbacivanje dogodilo, ako je iznos naknade za onečišćenje okoliša, ne računajući gubitak dobiti zbog takvog onečišćenja, ograničen na troškove razumnih mjera koje su stvarno poduzete ili se trebaju poduzeti za ponovno uspostavljanje stanja prije nastale štete, kao i troškove zaštitnih mjera i bilo kojeg gubitka ili štete prouzročene zaštitnim mjerama,
+
+(4) Vlasnik broda ili brodar za štete zbog onečišćenja iz stavka 1. ovoga članka može ograničiti svoju odgovornost osnivanjem fonda ograničene odgovornosti u visini svote koja odgovara granicama odgovornosti propisanim u članku 391. stavku 1. točki 2. ovoga Zakonika.
+
+(5) Za štetu iz stavka 1. ovoga članka koju prouzroči jahta ili brodica odgovaraju vlasnik i korisnik jahte ili brodice ili najmoprimac jahte ili brodice dane u najam bez posade ako ne dokažu da je izlijevanje ili izbacivanje onečišćujućih tvari posljedica razloga iz stavka 1. ovoga članka.
+
+(6) Osobe iz stavka 5. ovoga članka mogu se u cijelosti ili djelomično osloboditi odgovornosti pod uvjetom iz stavka 2. ovoga članka.«.
+
+##### Članak 215.
+
+Iza članka 812. dodaje se članak 812.a koji glasi:
+
+»Članak 812.a
+
+Vlasnik, korisnik i najmoprimac jahte ili brodice za štete prouzročene u člancima 810., 811. i 812. ovoga Zakonika mogu ograničiti svoju odgovornost osnivanjem fonda ograničene odgovornosti u visini svote koja odgovara granicama odgovornosti propisanim u članku 391. stavku 1. točkama 1. i 2. ovoga Zakonika te u članku 399. stavku 1. ovoga Zakonika.«.
+
+##### Članak 216.
+
+U članku 823.a točka 1. mijenja se i glasi:
+
+»1. Brod znači svaki plovni objekt bilo koje vrste, uključujući i brod u gradnji koji plovi.«.
+
+Iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. Posebno kad je riječ o jahti ili brodici, onda vlasnik broda znači vlasnika i korisnika jahte, odnosno brodice te najmoprimca jahte ili brodice dane u najam bez posade.«.
+
+Dosadašnje točke 3. do 6. postaju točke 4. do 7.
+
+##### Članak 217.
+
+U članku 840.a stavku 1. iza točke e) dodaje se točka f) koja glasi:
+
+»f) Pojam podrtina odnosi se na plovne i plutajuće objekte dok su u gradnji.«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Potonula stvar jest bilo koja stvar, osim podrtine, koja je potonula u moru ili se nasukala, ili ju je more izbacilo na obalu ili koja će uskoro potonuti ili se nasukati ili se to opravdano može očekivati, ako još nisu poduzete učinkovite mjere radi spašavanja te stvari.«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Uklanjanje jest svaki oblik sprječavanja, smanjenja ili otklanjanja opasnosti prouzročene podrtinom, odnosno potonulom stvari te može uključivati i prodaju podrtine, odnosno potonule stvari na javnoj dražbi.«.
+
+Stavak 9. mijenja se i glasi:
+
+»(9) Pošteni nalaznik jest osoba koja je pronašla podrtinu ili potonulu stvar koja je napuštena, ili izgubljena, ili joj je vlasnik nepoznat, ili je ovlaštena osoba ne namjerava vaditi, te je pronalazak prijavila i poduzela vađenje postupajući sukladno odredbama članaka 840.d i 840.dž ovoga Zakonika. Pošteni nalaznik može biti i tijelo koje upravlja pomorskim dobrom na čijem području se nalazi podrtina ili potonula stvar.«.
+
+##### Članak 218.
+
+U članku 840.b stavak 1. mijenja se i glasi:
+
+»(1) Odredbe ove glave ovoga Zakonika primjenjuju se na vađenje podrtina i potonulih stvari koje se nalaze u teritorijalnom moru i unutarnjim morskim vodama te kopnenom dijelu pomorskog dobra Republike Hrvatske te na uklanjanje podrtina i potonulih stvari koje se nalaze u teritorijalnom moru, unutarnjim morskim vodama, kopnenom dijelu pomorskog dobra te na području zaštićenog ekološko-ribolovnog i epikontinentalnog pojasa Republike Hrvatske.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ako nije drugačije propisano, odredbe ove glave Zakonika koje se odnose na vađenje, na odgovarajući način primjenjuju se i na postupanje s pomorskim objektima ostavljenim na kopnenom dijelu pomorskog dobra.«.
+
+##### Članak 219.
+
+Članak 840.c mijenja se i glasi:
+
+»(1) Ovlaštena osoba je u obvezi izvaditi ili ukloniti podrtinu, odnosno potonulu stvar o vlastitom trošku.
+
+(2) Ako ovlaštena osoba ne izvadi ili ne ukloni podrtinu, odnosno potonulu stvar, ona odgovara za štetu koja trećima nastane u vezi s podrtinom, odnosno potonulom stvari.
+
+(3) Ovlaštena osoba se oslobađa odgovornosti ako dokaže da šteta potječe od nekog nepredvidljivog uzroka koji se nalazio izvan stvari, a koji se nije mogao spriječiti, izbjeći ili otkloniti.
+
+(4) Ovlaštena osoba se oslobađa odgovornosti i ako dokaže da je šteta u cijelosti prouzročena radnjom ili propustom treće osobe učinjenim u namjeri da se prouzroči šteta.
+
+(5) Ovlaštena osoba se oslobađa odgovornosti i ako dokaže da je šteta u cijelosti prouzročena štetnom radnjom nadležnog javnog tijela.
+
+(6) Ovlaštena osoba se u cijelosti ili djelomično oslobađa odgovornosti ako dokaže da je šteta u cijelosti ili djelomično prouzročena radnjom ili propustom oštećenika učinjenim u namjeri da se prouzroči šteta ili iz nepažnje.«.
+
+##### Članak 220.
+
+U članku 840.č stavak 1. briše se.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 1., 2. i 3.
+
+U dosadašnjem stavku 5., koji postaje stavak 4., riječi: »iz stavka 2.« zamjenjuju se riječima: »iz stavka 1.«.
+
+Stavci 6. i 7. brišu se.
+
+##### Članak 221.
+
+U članku 840.d stavci 2., 3. i 4. mijenjaju se i glase:
+
+»(2) Smatra se da ovlaštena osoba ne namjerava poduzeti vađenje podrtine, odnosno potonule stvari ako u roku od trideset dana od dana potonuća, odnosno nasukanja ne pokrene postupak za odobrenje vađenja ili ako u roku od 30 dana od dobivanja odobrenja ne započne vađenje.
+
+(3) Smatra se da je ovlaštena osoba bez opravdanog razloga prekinula ili napustila započeto vađenje ako u roku od pet dana ne nastavi radove na vađenju podrtine, odnosno potonule stvari koje je prekinula ili napustila a da o tome nije obavijestila nadležnu lučku kapetaniju.
+
+(4) Ako se ne može utvrditi vrijeme potonuća ili nasukanja u svrhu utvrđivanja roka iz stavka 2. ovoga članka, rok iz stavka 2. ovoga članka počinje teći onoga dana kad je utvrđeno mjesto gdje je predmet potonuo ili se nasukao. Kad je riječ o pomorskom objektu ostavljenom na kopnenom dijelu pomorskog dobra, taj rok počinje teći od dana kad je nadležno tijelo koje upravlja pomorskim dobrom pisanim putem pozvalo ovlaštenu osobu da preuzme pomorski objekt, odnosno utvrdilo da je ovlaštena osoba nepoznata ili nedostupna te o tome obavijestilo nadležnu lučku kapetaniju.«.
+
+##### Članak 222.
+
+U članku 840.dž stavak 4. mijenja se i glasi:
+
+»(4) Ako je izvađena potonula stvar ili podrtina podložna brzom propadanju ili su za njezino čuvanje ili održavanje potrebni troškovi nerazmjerni njezinoj vrijednosti, potonula stvar, odnosno podrtina može se odmah prodati na javnoj dražbi, a za nju dobiveni novac po odbitku troškova prodaje položit će se kod mjesno nadležnog trgovačkog suda, o čemu će Ministarstvo objaviti oglas na svojim internetskim stranicama i u »Narodnim novinama«.«.
+
+##### Članak 223.
+
+U članku 840.f stavku 1. točki a) zarez i riječi: »osim ako pošteni nalaznik izričito odbije prihvatiti vlasništvo« brišu se.
+
+Točka b) mijenja se i glasi:
+
+»b) postaje vlasništvo Republike Hrvatske ako se nalazi na čuvanju u ime Ministarstva ili ako stvar ima značaj kulturnog dobra.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3., koji postaje stavak 2., mijenja se i glasi:
+
+»(2) U slučajevima iz stavka 1. točke b) ovoga članka, tako stečena imovina Republike Hrvatske povjerava se na upravljanje i raspolaganje Ministarstvu. Ministarstvo može izvađenu podrtinu, odnosno potonulu stvar koja je postala vlasništvo Republike Hrvatske prodati na javnoj dražbi pa iz iznosa postignutog prodajom namiriti sve razumne troškove u vezi s vađenjem, oglašavanjem, čuvanjem i prodajom. Mogući višak toga iznosa koji ostane nakon odbitka troškova ostaje u korist državnog proračuna.«.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., točka c) mijenja se i glasi:
+
+»c) ako je vađenje poduzela nadležna lučka kapetanija, višak iznosa koji ostane nakon odbitka troškova ostaje u korist državnog proračuna.«.
+
+##### Članak 224.
+
+Članak 840.lj mijenja se i glasi:
+
+»(1) Nakon što lučka kapetanija sazna za postojanje podrtine, nadležna tijela i službe će po nalogu lučke kapetanije upotrijebiti sva moguća sredstva radi hitnog upozoravanja pomoraca i drugih zainteresiranih država o prirodi i položaju podrtine.
+
+(2) Ako lučka kapetanija ima razloga vjerovati da podrtina predstavlja opasnost, nadležna tijela i službe će po nalogu lučke kapetanije poduzeti sve mjere radi određivanja točnog položaja podrtine.
+
+(3) Mjere iz ovoga članka provode se u okviru poslova sigurnosti plovidbe iz glave druge dijela trećeg ovoga Zakonika.«.
+
+##### Članak 225.
+
+U članku 840.m stavak 1. mijenja se i glasi:
+
+»(1) Ako lučka kapetanija utvrdi da podrtina predstavlja opasnost, nadležna tijela i službe će po nalogu lučke kapetanije poduzeti sve razumne mjere kako bi se podrtina označila.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Mjere iz ovoga članka provode se u okviru usluga sigurnosti plovidbe iz glave druge dijela trećeg ovoga Zakonika.«.
+
+##### Članak 226.
+
+Članak 840.n mijenja se i glasi:
+
+»(1) Kada nadležna lučka kapetanija utvrdi da podrtina predstavlja opasnost, rješenjem će narediti vlasniku da ukloni podrtinu.
+
+(2) U slučaju iz stavka 1. ovoga članka, vlasnik ili druga ovlaštena osoba mora nadležnoj lučkoj kapetaniji pružiti svjedodžbu o osiguranju ili drugom financijskom jamstvu kako je propisano u članku 840.p ovoga Zakonika.
+
+(3) Vlasnik može sklopiti ugovor s izvođačem radova da u njegovo ime ukloni podrtinu za koju je utvrđeno da predstavlja opasnost. Prije nego što takvo uklanjanje započne, lučka kapetanija može odrediti uvjete uklanjanja u mjeri u kojoj je potrebno osigurati da se uklanjanje provodi na način koji je siguran i kojim se štiti morski okoliš.
+
+(4) Kada je uklanjanje propisano stavcima 1. i 3. ovoga članka započelo, nadležna lučka kapetanija može intervenirati u mjeri u kojoj je potrebno osigurati da se uklanjanje zaista provodi na način koji je učinkovit i siguran te kojim se štiti morski okoliš.
+
+(5) Nadležna lučka kapetanija rješenjem će:
+
+a) odrediti razuman rok u kojem je vlasnik dužan ukloniti podrtinu i uvjete uklanjanja iz stavka 3. ovoga članka, uzimajući u obzir prirodu opasnosti utvrđenu sukladno članku 840.l ovoga Zakonika
+
+b) naglasiti da po njezinu nalogu podrtinu može ukloniti ovlašteno tijelo na trošak i rizik vlasnika, ako on to ne učini u navedenom roku, uključujući i prodajom podrtine na javnoj dražbi.
+
+(6) U slučajevima koji zahtijevaju hitno djelovanje kada opasnost postane osobito ozbiljna, nadležna lučka kapetanija donijet će rješenje temeljem kojega će ovlašteno tijelo odmah intervenirati na trošak i rizik vlasnika, uklanjanjem podrtine na najefikasniji i najbrži mogući način, uključujući i njezinu prodaju na javnoj dražbi, vodeći pritom računa o sigurnosti i zaštiti morskog okoliša.
+
+(7) Ako vlasnik ne ukloni podrtinu u roku određenom sukladno stavku 5. točki a) ovoga članka, lučka kapetanija može ovlaštenom tijelu rješenjem narediti uklanjanje podrtine na trošak i rizik vlasnika na najefikasniji i najbrži mogući način, uključujući i njezinu prodaju na javnoj dražbi radi uklanjanja, vodeći pritom računa o sigurnosti i zaštiti morskog okoliša.
+
+(8) Lučka kapetanija je dužna o mjerama iz ovoga članka izvijestiti vlasnika čiji se podaci nalaze u izvješćima iz članka 840.k stavka 2. ovoga Zakonika.
+
+(9) U slučajevima iz stavaka 6. i 7. ovoga članka tijelo ovlašteno za uklanjanje podrtine je trgovačko društvo Plovput d. o. o. za podrtine koje se nalaze izvan lučkog područja, tijelo koje upravlja lukom za podrtine koje se nalaze unutar lučkog područja, odnosno tijelo koje upravlja pomorskim dobrom za podrtine koje se nalaze na kopnenom dijelu pomorskog dobra.
+
+(10) Sredstva za uklanjanje podrtina temeljem stavaka 6. i 7. ovoga članka osigurava tijelo ovlašteno za uklanjanje, osim kad je riječ o trgovačkom društvu Plovput d. o. o. u kojem slučaju se sredstva osiguravaju u državnom proračunu, što ne utječe na odgovornost vlasnika za sve troškove u vezi s uklanjanjem podrtine temeljem članka 840.nj ovoga Zakonika.
+
+(11) Žalba protiv rješenja iz stavaka 1., 5., 6. i 7. ovoga članka nije dopuštena, ali se može pokrenuti upravni spor.
+
+(12) Rješenja i obavijesti koji se donose temeljem ovoga članka dostavljaju se vlasniku objavom na internetskim stranicama Ministarstva sukladno pravilima o javnoj objavi, prema odredbama zakona kojim se uređuje vođenje upravnog postupka.«.
+
+##### Članak 227.
+
+Članak 840.p mijenja se i glasi:
+
+»(1) Vlasnik plovnog i plutajućeg objekta čija bruto tonaža iznosi 300 tona ili više upisanog u Republici Hrvatskoj dužan je održavati na snazi osiguranje ili drugo financijsko jamstvo, kao što je garancija banke ili slične financijske institucije, radi pokrića odgovornosti iz članka 840.nj ovoga Zakonika, u visini svote koja odgovara granicama odgovornosti propisanim u članku 391. stavku 1. točki 2. ovoga Zakonika.
+
+(2) Vlasnik plovnog objekta i plutajućeg objekta iz stavka 1. ovoga članka dužan je zatražiti od lučke kapetanije izdavanje svjedodžbe kojom se potvrđuje da je osiguranje ili drugo financijsko jamstvo na snazi u skladu s odredbama Međunarodne konvencije o uklanjanju podrtina iz 2007. godine i ovoga Zakonika.
+
+(3) Svjedodžba iz stavka 2. ovoga članka izdaje se na hrvatskom i engleskom jeziku i sadrži sljedeće podatke:
+
+a) ime plovnog ili plutajućeg objekta, brojeve ili slova za prepoznavanje i luku upisa,
+
+b) bruto tonažu plovnog ili plutajućeg objekta,
+
+c) ime i glavno poslovno sjedište vlasnika,
+
+d) IMO identifikacijski broj ili druge jedinstvene identifikacijske oznake plovnog ili plutajućeg objekta,
+
+e) vrstu i rok trajanja osiguranja ili drugog jamstva,
+
+f) ime i glavno poslovno sjedište osiguratelja ili druge osobe koja daje jamstvo i, u odgovarajućem slučaju, poslovno sjedište u kojem je osiguranje ili jamstvo zaključeno i
+
+g) razdoblje valjanosti svjedodžbe, koje ne može biti duže od razdoblja valjanosti osiguranja ili drugog jamstva.
+
+(4) Svjedodžba iz stavka 2. ovoga članka mora se nalaziti na plovnom ili plutajućem objektu, a preslika se čuva u upisniku.
+
+(5) Osiguravatelj ili druga osoba koja je izdala financijsko jamstvo prema stavku 1. ovoga članka može osnovati fond ograničene odgovornosti.
+
+(6) Osiguranje ili drugo financijsko jamstvo iz stavka 1. ovoga članka smije prestati samo istekom razdoblja valjanosti osiguranja ili jamstva navedenog u svjedodžbi iz stavka 2. ovoga članka ili istekom roka od tri mjeseca računajući od dana kada je lučkoj kapetaniji iz stavka 2. ovoga članka upućena obavijest o otkazu osiguranja ili jamstva.
+
+(7) Iznimno od stavka 6. ovoga članka, osiguranje ili drugo financijsko jamstvo smije prestati prije isteka tromjesečnoga roka ako je svjedodžba vraćena nadležnoj lučkoj kapetaniji ili je istodobno izdana nova važeća svjedodžba, te u slučaju svake izmjene čija je posljedica da osiguranje ili jamstvo više ne udovoljava odredbama ovoga članka.«.
+
+##### Članak 228.
+
+Članak 840.s mijenja se i glasi:
+
+»(1) Nadležna lučka kapetanija utvrđuje predstavlja li potonula stvar opasnost u smislu članka 840.a stavka 4. ovoga Zakonika pri čemu se na odgovarajući način primjenjuje članak 840.l ovoga Zakonika.
+
+(2) Čim sazna za postojanje opasne potonule stvari, lučka kapetanija će poduzeti mjere lociranja i označavanja potonule stvari, pri čemu se na odgovarajući način primjenjuju članci 840.lj i 840.m ovoga Zakonika.
+
+(3) Kada utvrdi da potonula stvar predstavlja opasnost, nadležna lučka kapetanija će rješenjem narediti vlasniku da u primjerenom roku ukloni potonulu stvar.
+
+(4) Ako vlasnik ili druga ovlaštena osoba ne postupi prema rješenju iz stavka 3. ovoga članka, ili kad bez opravdanog razloga prekine ili napusti započeto uklanjanje, lučka kapetanija će rješenjem narediti ovlaštenom tijelu da na trošak i rizik vlasnika odmah ukloni potonulu stvar na najbrži i najefikasniji način, uključujući i njezinu prodaju na javnoj dražbi, vodeći pritom računa o zaštiti morskog okoliša.
+
+(5) U slučajevima kada je opasnost osobito ozbiljna, lučka kapetanija može, i bez prethodnog donošenja rješenja iz stavka 3. ovoga članka, rješenjem narediti ovlaštenom tijelu da na trošak i rizik vlasnika odmah ukloni potonulu stvar na najbrži i najefikasniji način, uključujući i njezinu prodaju na javnoj dražbi, vodeći pritom računa o zaštiti morskog okoliša.
+
+(6) Ako se utvrdi da potonula stvar predstavlja opasnost u smislu članka 840.a stavka 4. ovoga Zakonika, a nadležnoj lučkoj kapetaniji je vlasnik nepoznat, lučka kapetanija će odmah postupiti po stavku 4. ovoga članka.
+
+(7) Tijelo ovlašteno za uklanjanje potonule stvari iz stavka 4. ovoga članka je trgovačko društvo Plovput d. o. o. za potonule stvari koje se nalaze izvan lučkog područja, tijelo koje upravlja lukom za potonule stvari koje se nalaze unutar lučkog područja, odnosno tijelo koje upravlja pomorskim dobrom za stvari koje su se nasukale ili ih je more izbacilo na kopneni dio pomorskog dobra.
+
+(8) Sredstva za uklanjanje temeljem stavaka 4., 5. ili 6. ovoga članka osigurava tijelo ovlašteno za uklanjanje, osim kad je riječ o trgovačkom društvu Plovput d. o. o. u kojem slučaju se sredstva osiguravaju u državnom proračunu, što ne utječe na obvezu vlasnika da naknadi sve troškove u vezi s uklanjanjem za koje odgovara sukladno članku 840.t ovoga Zakonika.
+
+(9) Žalba protiv rješenja iz stavaka 3., 4., 5. i 6. ovoga članka nije dopuštena, ali se može pokrenuti upravni spor.
+
+(10) Rješenja i obavijesti koji se donose temeljem ovoga članka dostavljaju se vlasniku ili ovlaštenoj osobi objavom na internetskim stranicama Ministarstva sukladno pravilima o javnoj objavi, prema odredbama zakona kojim se uređuje vođenje upravnog postupka.«.
+
+##### Članak 229.
+
+Članak 840.u mijenja se i glasi:
+
+»(1) Kada lučka kapetanija postupi sukladno odredbama članka 840.n stavaka 4., 6. ili 7. odnosno članka 840.s stavaka 4., 5. ili 6. ovoga Zakonika, Republika Hrvatska, odnosno tijelo koje je uklonilo podrtinu ili potonulu stvar te osiguralo sredstva za njezino uklanjanje ima založno pravo na uklonjenoj potonuloj stvari ili podrtini radi osiguranja naknade troškova lociranja, označavanja i uklanjanja, te može uklonjenu potonulu stvar ili podrtinu zadržati dok joj odgovorna osoba ne podmiri te tražbine, osim za potonule stvari ili podrtine za koje se utvrdi da imaju obilježja kulturnog dobra ili su od vojnog značaja.
+
+(2) Ustupanjem tražbine za naknadu troškova lociranja, označavanja i uklanjanja podrtine, odnosno potonule stvari prenosi se i zakonsko založno pravo i pravo zadržanja iz stavka 1. ovoga članka.
+
+(3) Vjerovnici iz stavka 1. ovoga članka ovlašteni su namiriti svoje tražbine iz prodajne cijene podrtine, odnosno potonule stvari ostvarene prodajom na javnoj dražbi ili sudskom prodajom odgovarajućom primjenom odredbi glave druge dijela devetog ovoga Zakonika.
+
+(4) Na javnu dražbu iz stavka 3. ovoga članka, članka 840.a stavka 6., članka 840.n stavaka 6. i 7. te članka 840.s stavka 4. ovoga Zakonika, na odgovarajući se način primjenjuju odredbe članka 171. ovoga Zakonika.«.
+
+##### Članak 230.
+
+Članak 840.z mijenja se i glasi:
+
+»(1) Pravo na naknadu troškova lociranja, označavanja i uklanjanja podrtine ili potonule stvari prema odredbama ovoga dijela ove glave ovoga Zakonika zastarijeva u roku od tri godine od dana kada je sukladno članku 840.l ovoga Zakonika utvrđena opasnost.
+
+(2) Pravo na naknadu troškova lociranja, označavanja i uklanjanja podrtine utrnjuje ako se tužba ne podnese u roku od šest godina računajući od dana pomorske nesreće u kojoj je nastala podrtina. Ako se pomorska nesreća sastoji od niza događaja, rok od šest godina počinje teći od dana nastupa prvoga događaja.
+
+(3) Pravo na naknadu troškova lociranja, označavanja i uklanjanja potonule stvari utrnjuje ako se tužba ne podnese u roku od deset godina računajući od dana izvršnosti rješenja o uklanjanju potonule stvari.«.
+
+##### Članak 231.
+
+U članku 844. stavak 1. mijenja se i glasi:
+
+»(1) Za odlučivanje o prijedlogu za ovrhu na brodu, odnosno brodu u gradnji upisanom u upisnik brodova mjesno je nadležan sud na području nadležne lučke kapetanije za upis kako je određena u skladu s člankom 254. ovoga Zakonika.«.
+
+U stavku 3. riječ: »hrvatski«briše se.
+
+##### Članak 232.
+
+U članku 845. stavku 1. riječi: »odnosno u upisnik brodova u gradnji« brišu se.
+
+##### Članak 233.
+
+U članku 847. stavku 1. riječi: »odnosno u upisnik brodova u gradnji,« brišu se.
+
+##### Članak 234.
+
+U članku 848. stavak 1. mijenja se i glasi:
+
+»(1) Za odlučivanje o prijedlogu za osiguranje novčane tražbine zasnivanjem sudske hipoteke na brodu ili brodu u gradnji na temelju sporazuma stranaka mjesno je nadležan sud na području nadležne lučke kapetanije za upis kako je određena u skladu s člankom 254. ovoga Zakonika.«.
+
+##### Članak 235.
+
+U članku 849. stavak 1. mijenja se i glasi:
+
+»(1) Ako se privremena mjera treba provesti upisom u upisnik brodova, prije pokretanja parničnog ili drugoga sudskog postupka za odlučivanje o prijedlogu za osiguranje privremenom mjerom mjesno je nadležan sud na području nadležne lučke kapetanije za upis kako je određena u skladu s člankom 254. ovoga Zakonika. Određenu privremenu mjeru provest će tijelo koje vodi upisnik brodova.«.
+
+U stavku 3. riječ: »hrvatski« briše se.
+
+##### Članak 236.
+
+Članak 853. mijenja se i glasi:
+
+»(1) Ovrha na brodu i brodu u gradnji upisanom u upisnik brodova provodi se zabilježbom ovrhe u upisniku, utvrđivanjem vrijednosti broda, odnosno broda u gradnji, prodajom broda, odnosno broda u gradnji i namirenjem ovrhovoditelja iz iznosa dobivenog prodajom.
+
+(2) Ako na brodu postoji privilegij iz članka 241. ovoga Zakonika, ili hipoteka iz članka 219. ovoga Zakonika, ili založno pravo iz članka 840.u ovoga Zakonika, otvaranje stečaja nad vlasnikom broda bez utjecaja je na mogućnost pokretanja, odnosno provođenja ovršnog postupka prodaje tog broda prema odredbama ovoga Zakonika, uključujući i odredbe o nadležnosti suda. Ako takav brod predstavlja dio stečajne mase, pokretanje ovrhe u pogledu toga broda dovodi do prekida postupka prodaje tog broda u stečajnom postupku, a ovrha će se provesti prema odredbama ovoga Zakonika. O pokrenutom postupku ovrhe ovršni će sud nakon donošenja rješenja o ovrsi obavijestiti stečajnog upravitelja.«.
+
+##### Članak 237.
+
+U članku 912. stavku 1. točka 1. mijenja se i glasi:
+
+»1) Vjerovnici čije su tražbine osigurane zakonskim založnim pravom s osnova članaka 171. i 840.u ovoga Zakonika.«.
+
+Točka 3. mijenja se i glasi:
+
+»3) vjerovnici koji po ovom Zakoniku imaju pravo zadržaja,«.
+
+##### Članak 238.
+
+U članku 934. stavku 4. broj: »1« zamjenjuje se brojem: »3«.
+
+##### Članak 239.
+
+Članak 935. briše se.
+
+##### Članak 240.
+
+Članak 953. mijenja se i glasi:
+
+»(1) Privremeno zaustavljanje broda može se odrediti samo za tražbine koje proizlaze iz:
+
+1. štete prouzročene sudarom broda čije se zaustavljanje traži ili štete prouzročene tim brodom na koji drugi način,
+
+2. smrti ili tjelesne ozljede prouzročene brodom čije se zaustavljanje traži ili koje su nastale u vezi s iskorištavanjem toga broda,
+
+3. spašavanja,
+
+4. ugovora o iskorištavanju broda čije se zaustavljanje traži,
+
+5. zajedničke havarije,
+
+6. tegljenja,
+
+7. peljarenja,
+
+8. opskrbe broda čije se zaustavljanje traži robom, materijalima, zalihama, gorivom, opremom, uključujući kontejnere, ili usluga, učinjenih radi njegova održavanja, čuvanja, iskorištavanja ili stavljanja na vez,
+
+9. gradnje, preinake, popravka, opreme, obnove ili dokovanja broda čije se zaustavljanje traži,
+
+10. prava posade po osnovi rada,
+
+11. izdataka koje učini zapovjednik, krcatelj, naručitelj ili agent za račun broda, odnosno vlasnika broda ili brodara, a u vezi s brodom,
+
+12. posredničkih provizija ili agencijskih nagrada koje se duguju u vezi s brodom,
+
+13. naknada i pristojbi za korištenje luka, kanala, dokova i drugih plovnih putova.
+
+(2) Osim slučajeva iz stavka 1. ovoga članka, privremeno zaustavljanje broda može se odrediti i radi ostvarenja pomorskog privilegija ili hipoteke na brodu ili hipoteci slična sredstva osiguranja.
+
+(3) Odredbe o ograničavanju privremenog zaustavljanja broda samo za tražbine iz stavaka 1. i 2. ovoga članka primjenjuju se na strane brodove samo ako između države čiju zastavu strani brod vije i Republike Hrvatske postoji uzajamnost.«.
+
+##### Članak 241.
+
+U članku 954. stavak 2. mijenja se i glasi:
+
+»(2) Pod osobnim dužnikom, u smislu stavka 1. ovoga članka, smatra se osoba koja, prema odredbama mjerodavnog prava, odgovara za tražbinu zbog koje se traži zaustavljanje broda, a u vrijeme nastanka tražbine bila je u svojstvu vlasnika, brodara, zakupnika broda, naručitelja po ugovoru o pomorskom plovidbenom poslu ili naručitelja gradnje broda u vezi s kojim je nastala tražbina.«.
+
+##### Članak 242.
+
+U članku 989. stavku 2. riječi: »Zakonu o prekršajima« zamjenjuju se riječima: »zakonu kojim se uređuju prekršaji«.
+
+##### Članak 243.
+
+Članak 991. briše se.
+
+##### Članak 244.
+
+U članku 992. stavku 4. riječi: »biti diplomirani pravnik s položenim pravosudnim ispitom« zamjenjuju se riječima: »imati završen diplomski sveučilišni, odnosno integrirani prediplomski i diplomski sveučilišni studij prava te položen pravosudni ispit«.
+
+##### Članak 245.
+
+Iza članka 992. dodaje se članak 992.a koji glasi:
+
+»Članak 992.a
+
+Agencija je ovlaštena pokretati prekršajne postupke pred nadležnim sudovima protiv počinitelja prekršaja propisanih člankom 993.a ovoga Zakonika (ometanje sigurnosne istrage).«.
+
+##### Članak 246.
+
+U članku 993. stavku 1. točki 1. riječi: »ako strani trgovački brod« zamjenjuju se riječima: »ako trgovački brod treće države«.
+
+U točki 2. riječi: »protivno propisu iz članka 9.a ovog Zakonika« zamjenjuju se riječima: »bez odobrenja ministra iz članka 9. stavka 3. ovoga Zakonika«.
+
+Iza točke 2. dodaje se točka 2a) koja glasi:
+
+»2a) ako jahtu ili brodicu iznajmljuje s posadom ili bez nje (charter) protivno propisu iz članka 9.a ovoga Zakonika,«.
+
+U točki 3. iza riječi: »brodica plovi« dodaju se riječi: »i boravi u«.
+
+U točki 6. riječi: »ili ne plovi propisanim plovnim putem« brišu se.
+
+U točki 7. riječi: »ako strani brod« zamjenjuju se riječima: »ako strani plovni objekt«.
+
+Iza točke 8. dodaje se točka 9. koja glasi:
+
+»9) ako polaže i održava podmorske kabele i cjevovode bez odobrenja Ministarstva, odnosno suglasnosti o smjeru polaganja (članak 45. stavak 5.).«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Novčanom kaznom u iznosu od 10.000,00 do 500.000,00 kuna kaznit će se pravna osoba vlasnik, brodar odnosno korisnik jahte ili brodice ako jahtu ili brodicu iznajmljuje s posadom ili bez nje (charter) protivno propisu iz članka 9.a ovoga Zakonika.«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Novčanom kaznom u iznosu od 5.000,00 do 250.000,00 kuna kaznit će se obrtnik vlasnik, brodar odnosno korisnik jahte ili brodice ako jahtu ili brodicu iznajmljuje s posadom ili bez nje (charter) protivno propisu iz članka 9.a ovoga Zakonika.
+
+(6) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se fizička osoba vlasnik jahte ili brodice ako jahtu ili brodicu iznajmljuje s posadom ili bez nje (charter) protivno propisu iz članka 9.a ovoga Zakonika.«.
+
+##### Članak 247.
+
+Iza članka 993. dodaje se članak 993.a koji glasi:
+
+»Članak 993.a
+
+(1) Novčanom kaznom u iznosu od 100.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba koja ometa sigurnosnu istragu pomorske nesreća ako:
+
+1. ne obavijesti Agenciju o događaju pomorske nesreće u roku i na način propisan člankom 49.lj ovoga Zakonika (članak 49.m stavak 2. točka 1.),
+
+2. onemogućava službenim osobama Agencije pristup područjima ili mjestu nesreće, svjedocima, plovnim objektima koji su u pomorskoj nesreći sudjelovali, podrtinama, potonulim stvarima, teretu, ostacima tereta, opremi, podacima s pomorskih karata i brodskih dnevnika, elektroničkim ili magnetskim zapisima, audio i videovrpcama, podacima iz VDR-a ili drugih elektroničkih naprava koji se odnose na razdoblje prije, za vrijeme i nakon nesreće te drugim uređajima i podacima koje Agencija smatra korisnim za provođenje sigurnosne istrage pomorske nesreće (članak 49.m stavak 2. točka 2.),
+
+3. rukuje, upotrebljava, raspolaže ili na drugi način koristi brodske i druge uređaje nakon događaja pomorske nesreće, bez prethodnog dopuštenja Agencije (članak 49.m stavak 2. točka 3.),
+
+4. rukuje, upotrebljava, raspolaže ili na drugi način koristi podatke s pomorskih karata, iz brodskih dnevnika, elektroničkih i magnetskih zapisa, audio i video vrpci, podatke iz VDR-a i drugih elektroničkih naprava, koji se odnose na razdoblje prije, za vrijeme i nakon nesreće, bez prethodnog dopuštenja Agencije (članak 49.m stavak 2. točka 4.),
+
+5. vadi i/ili uklanja podrtinu i potonule stvari koje su u vezi s događajem pomorske nesreće, bez prethodnog dopuštenja Agencije (članak 49.m stavak 2. točka 5.),
+
+6. odbije dati iskaz ili očitovanje službenim osobama Agencije, u roku i na način kako to odredi Agencija (članak 49.m stavak 2. točka 7.),
+
+7. ne postupa po zahtjevu Agencije za dostavu podataka koje Agencija smatra korisnim za provođenje sigurnosne istrage pomorske nesreće, u roku i na način kako to odredi Agencija (članak 49.m stavak 2. točka 9.),
+
+8. ne obavijesti Agenciju o primjeni korektivnih mjera sadržanih u sigurnosnoj preporuci Agencije, u roku i na način propisan člankom 49.k stavkom 6. ovoga Zakonika (članak 49.m stavak 2. točka 10.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom u iznosu od 100.000,00 do 500.000,00 kuna.
+
+(4) Za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna.
+
+(5) Ako je prekršaj iz stavka 1. ovoga članka počinjen iz koristoljublja, odnosno ako je počinjenjem prekršaja počinitelj ostvario imovinsku korist, takav počinitelj će se kazniti novčanom kaznom u dvostrukom iznosu od iznosa novčanih kazni propisanih ovim člankom.«.
+
+##### Članak 248.
+
+U članku 994. stavku 1. riječ: »brod« zamjenjuje se riječima: »plovni objekt«.
+
+##### Članak 249.
+
+Iza članka 994. dodaju se članci 994.a do 994.d koji glase:
+
+»Članak 994.a
+
+(1) Novčanom kaznom u iznosu od 2.000,00 do 20.000,00 kuna kaznit će se za pomorski prekršaj pravna osoba koja ometa obavljanje poslova traganja i spašavanja osoba u pogibelji na moru iz članka 55.a ovoga Zakonika (članak 55.dž).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 1.000,00 do 5.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba novčanom kaznom u iznosu od 1.000,00 do 5.000,00 kuna.
+
+(4) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba obrtnik novčanom kaznom u iznosu od 2.000,00 do 10.000,00 kuna.
+
+##### Članak 994.b
+
+(1) Novčanom kaznom u iznosu od 3.000,00 do 15.000,00 kuna kaznit će se pravna osoba ako:
+
+1. koristi određeni dio plovnog puta, luke ili dijela luke koji je privremeno zatvoren (članak 75.č stavak 2.),
+
+2. suprotno naredbi ne provede peljarenje ili tegljenje ili ne uplovi u mjesto zakloništa ili ne izvrši naložene radnje radi smanjenja opasnosti (članak 75.č stavak 3.),
+
+3. obavlja krcanje goriva na plovne objekte suprotno ograničenju, odnosno zabrani (članak 75.č stavak 6.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 1.000,00 kuna do 5.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba novčanom kaznom u iznosu od 1.000,00 do 5.000,00 kuna.
+
+(4) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba obrtnik novčanom kaznom u iznosu od 3.000,00 do 10.000,00 kuna.
+
+##### Članak 994.c
+
+(1) Novčanom kaznom u iznosu od 2.000,00 do 20.000,00 kuna kaznit će se pravna osoba vlasnik, odnosno brodar ako ne postupi u skladu sa zabranom, ograničenjem ili drugom naredbom iz članka 75.ć ovoga Zakonika.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi iz stavka 1. ovoga članka novčanom kaznom u iznosu od 1.000,00 kuna do 5.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba obrtnik novčanom kaznom u iznosu od 2.000,00 do 10.000,00 kuna.
+
+(4) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 500,00 do 5.000,00 kuna kaznit će se zapovjednik odnosno voditelj plovnog objekta.
+
+##### Članak 994.d
+
+(1) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se za pomorski prekršaj pravna osoba vlasnik ili brodar:
+
+a) koji privremeno povlači iz plovidbe odnosno uporabe pomorski objekt, a ne podnese zahtjev i ne ishodi rješenje o raspremi (članak 124.b stavak 1.),
+
+b) koji za pomorski objekt u raspremi ne održava potreban broj članova posade u straži, odnosno nadzornika ili koji nije organizirao službu za obilazak i pregled pomorskog objekta ili organizira čuvanje više plovnih objekata bez odobrenja lučke kapetanije (članak 124.d stavak 4.),
+
+c) koji ne obavijesti nadležnu lučku kapetaniju i Hrvatski registar brodova ili priznatu organizaciju ako pomorski objekt za vrijeme trajanja raspreme prestane udovoljavati uvjetima iz rješenja o raspremi (članak 124.đ stavak 2.),
+
+d) čiji pomorski objekt za vrijeme trajanja raspreme isplovi ili napusti svoje mjesto raspreme bez prethodne dozvole lučke kapetanije (članak 124.e stavak 1.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna.
+
+(4) Za prekršaje iz stavka 1. ovoga članka kaznit će se zapovjednik pomorskog objekta novčanom kaznom u iznosu od 2.000,00 do 5.000,00 kuna.«.
+
+##### Članak 250.
+
+U članku 995. stavku 1. točka 2. mijenja se i glasi:
+
+»2) ako lučkoj upravi, lučkoj kapetaniji ili koncesionaru luke posebne namjene ne dostavi informacije o brodskom otpadu te ne osigura da se iste nalaze na brodu najmanje do sljedeće luke (članak 49.c stavci 2. i 3.),«.
+
+Iza točke 2. dodaje se točka 3. koja glasi:
+
+»3) ako protivno odredbama o najavi i prijavi dolaska i odlaska broda ne najavi ili ne prijavi dolazak odnosno odlazak ili pritom ne dostavi propisane isprave, dokumente i podatke, sukladno posebnom propisu iz članka 60. stavka 5. ovoga Zakonika (članak 60. stavci 1., 2. i 3.).«.
+
+##### Članak 251.
+
+Članak 998. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 5.000,00 do 250.000,00 kuna kaznit će se za pomorski prekršaj pravna osoba ako:
+
+1. se inspekcijskim nadzorom utvrdi da brod nije sposoban za plovidbu (članci 76. i 166.),
+
+2. ne održava brod i njegovu opremu sukladno članku 85. ovoga Zakonika,
+
+3. ne podnese zahtjev za ponovno baždarenje hrvatskog broda prije završetka radova na preinaci kojima se mijenja bruto ili neto tonaža broda ili ne podnese takav zahtjev nakon dolaska broda u prvu hrvatsku luku ako se radovi na preinaci broda izvode u inozemstvu, a brod nije baždaren u inozemstvu prema odredbama ovoga Zakonika (članak 93.),
+
+4. kao zapovjednika broda ukrca osobu koja nema pomorsku knjižicu (članak 137. stavak 3.),
+
+5. brod ili jahta nemaju ime, a ribarski brod i oznaku te ako ne nose ime luke upisa ili ako tehnički plovni objekt, plutajući objekt i nepomični odobalni objekt nemaju oznaku i ne nose ime luke upisa, te ako ime odnosno oznaka nije ispisana sukladno propisu donesenom temeljem ovoga Zakonika (članci 183. i 184.),
+
+6. ne obavijesti lučku kapetaniju o okolnostima zbog kojih se brod može brisati po službenoj dužnosti iz upisnika brodova u roku od 15 dana od dana njihova nastanka (članak 192. stavak 5.),
+
+7. ne poduzme ili ne poduzme u određenom roku odgovarajuće mjere ili ne obavi potrebne radove koje je svojim rješenjem naredila inspekcija sigurnosti plovidbe (članci 172., 173. i 174.),
+
+8. u postupku izdavanja dozvola propisanih posebnim propisima kojima se regulira prostorno uređenje i gradnja za objekte koji se grade na unutarnjim morskim vodama i u teritorijalnom moru, odnosno na njihovim obalama ne ishodi suglasnost lučke kapetanije glede sigurnosti plovidbe (članak 175. stavak 1.),
+
+9. postupi suprotno zabrani inspektora sigurnosti plovidbe o uporabi, pristajanju, plovidbi i sidrenju na dijelu unutrašnjih morskih voda ili teritorijalnog mora i njegovim obalama (članak 175. stavak 2.),
+
+10. obavlja prijevoz u javnom prometu na moru, ili obavlja djelatnost iznajmljivanja plovila ili druge gospodarske djelatnosti na moru suprotno odredbama članka 48. stavka 1. ovoga Zakonika,
+
+11. ne uspostavi ili ne održava dokumentirani sustav upravljanja sigurnošću i sustav sigurnosne zaštite, ne održava stanje broda i njegove opreme tako da je brod dok plovi u svakom smislu sposoban za plovidbu i siguran za obavljanje svih operacija u službi dok ih obavlja, ne osigura da brod posjeduje valjane svjedodžbe i dokumente, ne osigura da se na brodu i u vezi s brodom poštuju zahtjevi Tehničkih pravila i drugih propisa (članak 48. stavak 2.),
+
+12. ne obavlja dužnosti u vezi s održavanjem straže i obavljanjem poslova na brodu propisane posebnim propisom (članak 135.),
+
+13. ne dostavi podatke iz članka 48. stavka 3. ovoga Zakonika u roku propisanom stavkom 4. istoga članka,
+
+14. bez odobrenja nadležne lučke kapetanije potopi plovilo na morsko dno (članak 65. stavak 2.),
+
+15. u roku od 30 dana od promjene podataka ne podnese lučkoj kapetaniji zahtjev za upis promjene podataka u upisniku brodova (članak 200. stavak 6.).
+
+(2) Novčanom kaznom u iznosu od 3.000,00 do 15.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi za radnje iz stavka 1. ovoga članka.
+
+(3) Novčanom kaznom u iznosu od 2.000,00 do 150.000,00 kuna kaznit će se fizička osoba obrtnik za radnje iz stavka 1. ovoga članka.
+
+(4) Novčanom kaznom u iznosu od 3.000,00 do 15.000,00 kuna kaznit će se za radnje iz stavka 1. ovoga članka fizička osoba.«.
+
+##### Članak 252.
+
+U članku 999. brojka: »15.000,00« zamjenjuje se brojkom: »50.000,00«.
+
+##### Članak 253.
+
+U članku 1000. stavku 1. u uvodnoj rečenici riječi: »ili brodicom« brišu se.
+
+Točka 1. briše se.
+
+Dosadašnje točke 2. i 3. postaju točke 1. i 2.
+
+##### Članak 254.
+
+Članak 1001. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 5.000,00 do 50.000 kuna kaznit će se za pomorski prekršaj zapovjednik broda, jahte ili brodice ili član posade koji ga zamjenjuje ako:
+
+1. ne poduzme ili ne poduzme u određenom roku odgovarajuće mjere koje mu rješenjem naredi inspektor sigurnosti plovidbe, odnosno postupi protivno rješenju (članci 168., 169., 171., 176. i 177.),
+
+2. plovni objekt koji ima brodsku radiostanicu ne organizira neprekidnu službu bdijenja, u skladu s propisima o radioprometu (članak 55.),
+
+3. na brodu nema propisanog broja članova posade s odgovarajućim valjanim svjedodžbama o osposobljenosti i dopunskoj osposobljenosti (članak 130.),
+
+4. osobno ne rukovodi brodom kada to zahtijeva sigurnost broda, a osobito kada brod ulazi u luku, kanal ili rijeku ili kad izlazi iz njih te u svim drugim slučajevima kad to zahtijeva sigurnost broda i plovidbe (članak 149. stavak 2.),
+
+5. u slučaju neposredne opasnosti od rata ili nastupanja ratnoga stanja između Republike Hrvatske i druge države ne poduzme u pogledu broda, osoba i tereta na brodu sve mjere koje se pokažu potrebnima (članak 155. stavci 1. i 2.),
+
+6. se u slučaju nastupanja ratnoga stanja između drugih država, u kojem je Republika Hrvatska neutralna, brod nađe u luci jedne od zaraćenih država ili na putu za luku zaraćene države ili mora proći kroz unutarnje morske vode i teritorijalno more zaraćene države ne zatraži uputu od brodara, a ako to nije moguće – od nadležnih hrvatskih tijela (članak 155. stavak 3.),
+
+7. za putovanja broda prema članu posade, putniku ili drugoj osobi na brodu koja je izvršila kazneno djelo ne poduzme mjere potrebne da se spriječi ili ublaži nastupanje štetnih posljedica tog djela i izvršitelj pozove na odgovornost (članak 161. stavci 1., 2. i 4.),
+
+8. u plovidbi plovnim putovima unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske ne obavijesti nadležnu lučku kapetaniju da pojedini svjetionici i svjetla te ostala pomagala za navigaciju ne rade, odnosno oznake ili plutače nisu na svom mjestu (članak 143. stavak 2.),
+
+9. ukrca na brod i rasporedi za obavljanje poslova osobu koja nema odgovarajuću valjanu svjedodžbu o osposobljenosti ili dopunskoj osposobljenosti (članak 131.),
+
+10. ne udalji s dužnosti premorenu, odnosno bolesnu osobu ili osobu koja je pod utjecajem alkohola ili psihoaktivnih lijekova (članak 134.),
+
+11. plovnim objektom ošteti ili neovlašteno ukloni objekt sigurnosti plovidbe ili objekt hidrografije (članak 52. stavak 5. i članak 54.b stavak 4.).
+
+(2) Novčanom kaznom u iznosu od 10.000,00 do 100.000,00 kuna kaznit će se za pomorski prekršaj iz stavka 1. točaka 10. i 11. pravna osoba vlasnik, brodar ili poslovođa.
+
+(3) Novčanom kaznom u iznosu od 1.000,00 do 3.000,00 kuna kaznit će se za pomorski prekršaj iz stavka 1. točaka 10. i 11. i odgovorna osoba vlasnika, brodara ili poslovođe.
+
+(4) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za pomorski prekršaj ovoga članka zapovjednik zrakoplova koji prilikom preleta gospodarskog pojasa Republike Hrvatske ne poštuje općeprihvaćene propise i hrvatske propise o suzbijanju onečišćenja mora iz zraka ili zrakom (članak 41. stavak 3.).«.
+
+##### Članak 255.
+
+U članku 1001.a stavku 1. točki 1. riječi: »pomorskih objekata« zamjenjuju se riječima: »plovnih objekata«.
+
+U točki 5. na kraju rečenice umjesto točke stavlja se zarez te se dodaje točka 6. koja glasi:
+
+»6) ako protivno odredbi članka 49.d stavka 1. ne preda sav brodski otpad u prihvatne uređaje prije isplovljavanja.«
+
+U stavku 2. riječi: »fizička ili« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Novčanom kaznom u iznosu od 5.000,00 do 50.000,00 kuna kaznit će se za pomorski prekršaj iz stavka 1. ovoga članka fizička osoba vlasnik broda.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Novčanom kaznom u iznosu od 5.000,00 do 50.000,00 kuna za pomorski prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi iz stavka 2. ovoga članka.«.
+
+##### Članak 256.
+
+Članak 1002. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 3.000,00 do 50.000,00 kuna kaznit će se za pomorski prekršaj zapovjednik i/ili član posade broda, jahte ili brodice koji ne obavlja poslove na brodu, jahti ili brodici u skladu sa svojim dužnostima, pravilima navigacije i drugim propisima i pravilima iz područja sigurnosti plovidbe, zaštite ljudskih života na moru i zaštite morskog okoliša (članak 133.).
+
+(2) Novčanom kaznom u iznosu od 1.000,00 do 30.000,00 kuna kaznit će se za pomorski prekršaj zapovjednik broda ili časnik koji ga zamjenjuje, zapovjednik jahte, osoba koja upravlja brodicom, odnosno osoba koja upravlja plutajućim ili nepomičnim odobalnim objektom koji plovi ili se nalazi u području nadzora i upravljanja propisanim ovim Zakonikom ako ne postupi prema pravilima plovidbe propisanim međunarodnim ugovorima, ovim Zakonikom i propisima donesenim na temelju ovoga Zakonika, ne dostavi podatke, odnosno ne postupi po nalogu službe nadzora i upravljanja pomorskim prometom (članak 75.c).«.
+
+##### Članak 257.
+
+U članku 1004. stavku 1. broj: »15.000,00« zamjenjuje se brojem: »50.000,00«.
+
+Točka 3. mijenja se i glasi:
+
+»3) ako na brodu nema bilo koje od brodskih isprava i knjiga iz članaka 94. do 99. ovoga Zakonika ili propisa donesenih na temelju ovoga Zakonika i/ili ako se u brodske knjige ne unose podaci u skladu s člankom 94. stavkom 2. ovoga Zakonika,«.
+
+U točki 8. riječi: »članak 102. i 103.« zamjenjuju se riječima: »članak 76.«.
+
+U točki 9. iza riječi: »količina zaliha na brodu« dodaju se riječi: »nalaze li se na brodu službene ažurirane pomorske navigacijske karte i publikacije«.
+
+##### Članak 258.
+
+U članku 1005. stavku 1. točka 9. mijenja se i glasi:
+
+»9) ako samovoljno napuštanje broda člana posade ne prijavi tijelu iz članka 162. stavka 1. ovoga Zakonika,«.
+
+##### Članak 259.
+
+Članak 1006. mijenja se i glasi:
+
+»Novčanom kaznom u iznosu od 2.000,00 do 20.000,00 kuna kaznit će se za pomorski prekršaj zapovjednik broda i jahte, osoba koja upravlja brodicom, odnosno član posade broda, jahte i brodice ako:
+
+– baci na plovni put predmete ili tvari koje mogu ometati ili ugroziti sigurnu plovidbu (članak 65. stavak 1.),
+
+– upravlja plovilom pod utjecajem alkohola iznad dopuštene količine, opojnih droga ili drugih tvari koje mijenjaju stanje svijesti (članak 134. stavci 1. i 2.),
+
+– se odbije podvrgnuti ispitivanju pomoću odgovarajućih sredstava i aparata radi provjere ima li u organizmu više od 0,5 g/kg alkohola u krvi, prisutnosti droge i/ili psihoaktivnih tvari koje utječu na psihofizičke sposobnosti, ili koji odbije otići na liječnički pregled, te na uzimanje krvi i urina radi analize (članak 134. stavci 3. i 4.).«.
+
+##### Članak 260.
+
+Članak 1007. mijenja se i glasi:
+
+»Uz kaznu propisanu za pomorski prekršaj iz članaka 997., 1001., 1001.a, 1002. i 1004. ovoga Zakonika zapovjedniku broda i članu posade broda, odnosno zapovjedniku jahte ili osobi koja upravlja brodicom ili članu posade jahte ili brodice može se izreći zaštitna mjera oduzimanja svih ili pojedinih svjedodžbi o osposobljenosti ili dopunskoj osposobljenosti ili ovlaštenja u trajanju od jednog mjeseca do dvije godine.«.
+
+##### Članak 261.
+
+U članku 1008. stavak 2. mijenja se i glasi:
+
+»(2) Uz kaznu propisanu za pomorski prekršaj iz članka 993. stavka 1. točke 2.a, te stavaka 2. i 5. ovoga Zakonika može se izreći zaštitna mjera oduzimanja upisnog lista/dozvole za plovidbu brodice za plovilo s kojim je počinjen prekršaj iz članka 9.a ovoga Zakonika u trajanju od jednog mjeseca do dvije godine, bez obzira tko je vlasnik plovnog objekta.«.
+
+##### Članak 262.
+
+U članku 1009. stavku 1. iza točke 5. dodaju se točke 6. i 7. koje glase:
+
+»6) tijelo koje upravlja lukom ako bez odgađanja ne poduzme vađenje, odnosno uklanjane podrtine ili potonule stvari koja se nalazi na njezinu lučkom području sukladno ovom Zakoniku ili rješenju nadležne lučke kapetanije (članak 58. stavak 3.),
+
+7) tijelo koje upravlja lukom ako bez odgađanja ne poduzme mjere radi sprječavanja širenja onečišćenja te otklanjanja onečišćenja sukladno Planu intervencija kod iznenadnih onečišćenja mora (članak 58. stavak 4.).«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Novčanom kaznom u iznosu od 10.000,00 do 200.000,00 kuna kaznit će se fizička osoba obrtnik za radnje iz stavka 1. ovoga članka.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+##### Članak 263.
+
+U članku 1010. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 5.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. u propisanom roku ne obavijesti Agenciju o primjeni korektivnih mjera sadržanih u sigurnosnoj preporuci, odnosno o razlozima njihove neprimjene ili djelomične primjene (članak 49.k stavak 6.),
+
+2. bez odgađanja ne obavijesti Agenciju o saznanjima o događaju pomorske nesreće (članak 49.lj),
+
+3. ometa obavljanje poslova traganja i spašavanja osoba u pogibelji (članak 55.dž),
+
+4. kao vlasnik ili posjednik stvari ne postupi sukladno usmenom rješenju službenika lučke kapetanije u poslovima traganja i spašavanja osoba u pogibelji na moru (članak 55.đ stavak 2.),
+
+5. ne održava luku u stanju koje osigurava sigurnu plovidbu, pristajanje i vezivanje plovnih objekata, te ukrcaj ili iskrcaj putnika i tereta, ne osigura čišćenje luke ili ako ne obavlja druge poslove sukladno članku 58. ovoga Zakonika,
+
+6. peljar tijekom redovitih dužnosti ne obavijesti nadležnu lučku kapetaniju o očitim nepravilnostima na brodu koje mogu ugroziti sigurnost plovidbe i predstavljati opasnost od onečišćenja morskog okoliša (članak 73. stavak 3.),
+
+7. ne podnese na odobrenje tehničku dokumentaciju na temelju koje se brod, jahta ili brodica gradi ili preinačuje (članak 78. stavak 1. točka 1. i stavak 2.),
+
+8. na objekt sigurnosti plovidbe ili objekt hidrografije postavi natpis ili ošteti objekt sigurnosti plovidbe ili objekt hidrografije ili neovlašteno postavi, ukloni ili zamijeni objekt sigurnosti plovidbe ili objekt hidrografije ili promijeni značenje objekta sigurnosti plovidbe (članak 52. stavak 5. i članak 54.b stavak 4.),
+
+9. obavlja djelatnost ronjenja protivno propisu o ronjenju (članak 56. stavak 4.).«.
+
+##### Članak 264.
+
+Članak 1011. mijenja se i glasi:
+
+(1) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za pomorski prekršaj pravna osoba vlasnik brodice ili jahte ako:
+
+1. brodicu ili jahtu ne podvrgne osnovnom, redovitom ili izvanrednom pregledu (članci 79. do 82.),
+
+2. brodica ili jahta nisu sposobne za plovidbu (članak 76.),
+
+3. pomorski objekt koji posjeduje radio uređaj nema pozivni znak prema propisima o međunarodnom radioprometu (članak 185.),
+
+4. ne obavijesti lučku kapetaniju o okolnostima zbog kojih se brodica može brisati po službenoj dužnosti iz upisnika brodova u roku od 15 dana od dana njihova nastanka (članak 192. stavak 5.),
+
+5. brodica nema propisano ispisanu oznaku brodice (članak 183.), oznaku teretne vodene linije, oznaku najvećeg dozvoljenog broja putnika koje smije prevoziti i druge oznake sukladno posebnom propisu ili Tehničkim pravilima (članak 76.),
+
+6. u roku od 30 dana od promjene podataka ne podnese lučkoj kapetaniji zahtjev za upis promjene podataka u upisniku brodova (članak 200. stavak 6.).
+
+(2) Novčanom kaznom u iznosu od 2.000,00 do 5.000,00 kuna kaznit će se za pomorski prekršaj iz stavka 1. ovoga članka obrtnik vlasnik brodice ili jahte.
+
+(3) Novčanom kaznom u iznosu od 800,00 do 3.000,00 kuna kaznit će se za pomorski prekršaj iz stavka 1. ovoga članka fizička osoba vlasnik brodice ili jahte i odgovorna osoba u pravnoj osobi.
+
+(4) Novčanom kaznom iz stavka 2. ovoga članka kaznit će se osoba koja upravlja brodicom ili jahtom za pomorski prekršaj iz stavka 1. točki 1. i 2. ovoga članka.
+
+(5) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za pomorski prekršaj pravna osoba korisnik brodice ili jahte ako brodicom ili jahtom upravlja osoba bez odgovarajućeg uvjerenja, odnosno svjedodžbe o osposobljenosti (članak 76. stavak 3. točka 1.).
+
+(6) Novčanom kaznom u iznosu od 2.000,00 do 5.000,00 kuna kaznit će se za pomorski prekršaj iz stavka 4. ovoga članka obrtnik korisnik brodice ili jahte.
+
+(7) Novčanom kaznom u iznosu od 800,00 do 3.000,00 kuna kaznit će se za pomorski prekršaj iz stavka 4. ovoga članka i odgovorna osoba u pravnoj osobi.«.
+
+##### Članak 265.
+
+Iza članka 1011. dodaje se članak 1011.a koji glasi:
+
+»Članak 1011.a
+
+(1) Novčanom kaznom u iznosu od 5.000,00 do 10.000,00 kuna kaznit će se za pomorski prekršaj pravna osoba pomorsko učilište koje ne zadovoljava uvjete na temelju kojih mu je izdano rješenje o povjeravanju izobrazbe ili suglasnost za obrazovanje pomoraca ili kojem se utvrdi bilo koja nepravilnost u radu u odnosu na rješenje kojim mu je povjereno obrazovanje, odnosno izobrazba pomoraca (članak 176.c stavak 1.).
+
+(2) Novčanom kaznom u iznosu od 1.000,00 do 3.000,00 kuna kaznit će se za radnje iz stavka 1. ovoga članka fizička osoba.
+
+(3) Novčanom kaznom u iznosu od 1.000,00 do 3.000,00 kuna kaznit će se za radnje iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi.«.
+
+##### Članak 266.
+
+Članak 1012. mijenja se i glasi:
+
+Novčanom kaznom u iznosu od 300,00 do 800,00 kuna kaznit će se za pomorski prekršaj osoba koja upravlja brodicom ili jahtom:
+
+1. ako ne prijavi pomorsku nesreću jahte ili brodice (članak 154. stavak 2.),
+
+2. ako se na brodici ili jahti ne nalaze isprave iz članka 96. ovoga Zakonika kao i svjedodžba ili uvjerenje o osposobljenosti za upravljanje jahtom ili brodicom.
+
+##### Članak 267.
+
+U članku 1013. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 5.000,00 do 20.000,00 kuna kaznit će se pravna osoba organizator sportskih ili drugih aktivnosti koji sportske i druge aktivnosti na plovnom putu obavlja bez prethodnog odobrenja nadležne lučke kapetanije (članak 54.c stavak 1.).«.
+
+U stavku 4. broj: »15.000,00« zamjenjuje se brojem: »10.000,00«.
+
+Stavak 5. briše se.
+
+##### Članak 268.
+
+U članku 1014. stavku 1. riječi: »7.000,00 do 15.000,00« zamjenjuju se riječima: »5.000,00 do 30.000,00«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će se fizička osoba obrtnik pomorski agent za pomorski prekršaj iz stavka 1. ovoga članka.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+##### Članak 269.
+
+U članku 1016. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Novčanom kaznom u iznosu od 10.000,00 do 100.000,00 kuna kaznit će se fizička osoba obrtnik za pomorski prekršaj iz stavka 1. ovoga članka.«.
+
+Dosadašnji stavci 2. do 7. postaju stavci 3. do 8.
+
+##### Članak 270.
+
+U članku 1016.a stavku 1. riječi: »stavka 3.« zamjenjuju se riječima: »stavka 4.«.
+
+##### Članak 271.
+
+U članku 1016.b stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 20.000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba vlasnik broda, brodar, odnosno kompanija koja ne osigura da je svakom članu posade broda pri ukrcaju dana preslika postupaka koji se primjenjuju na tom brodu po prigovoru uključujući informacije o nadležnim tijelima države čiju državnu pripadnost ima brod te imena članova posade broda koji će im u postupcima po prigovoru pružiti odgovarajuću pomoć (članak 133.a stavak 3.).«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Novčanom kaznom u iznosu od 10.000,00 do 20.000,00 kaznit će se za pomorski prekršaj iz stavka 1. ovoga članka fizička osoba obrtnik vlasnik broda, odnosno brodar.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+##### Članak 272.
+
+Članak 1016.f briše se.
+
+##### Članak 273.
+
+Članak 1017. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 25.000,00 do 300.000,00 kuna kaznit će se pravna osoba koja kao ovlaštena osoba iz članka 840.a stavka 8. ovoga Zakonika postupa protivno odredbama članka 840.c ovoga Zakonika.
+
+(2) Novčanom kaznom u iznosu od 10.000,00 do 100.000,00 kuna kaznit će se fizička osoba obrtnik koji kao ovlaštena osoba iz članka 840.a stavka 8. ovoga Zakonika postupa protivno odredbama članka 840.c ovoga Zakonika.
+
+(3) Novčanom kaznom u iznosu od 5.000,00 do 25.000,00 kuna kaznit će se fizička osoba koja kao ovlaštena osoba iz članka 840.a stavka 8. ovoga Zakonika postupa protivno odredbama članka 840.c ovoga Zakonika.
+
+(4) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će se zapovjednik pomorskog objekta koji postupa protivno odredbama članka 840.c ovoga Zakonika.
+
+(5) Novčanom kaznom u iznosu od 2.000,00 do 15.000,00 kuna kaznit će se za pomorski prekršaj iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi.«.
+
+##### Članak 274.
+
+U članku 1017.a stavku 1. riječi: »stavak 4.« zamjenjuju se riječima »stavak 3.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Novčanom kaznom u iznosu od 10.000,00 do 150.000,00 kuna kaznit će se fizička osoba obrtnik za pomorski prekršaj iz stavka 1. ovoga članka.«.
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječi: »25.000,00 do 100.000,00« zamjenjuju se riječima: »5.000,00 do 20.000,00«.
+
+##### Članak 275.
+
+U članku 1017.b iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Novčanom kaznom u iznosu od 10.000,00 do 150.000,00 kuna kaznit će se fizička osoba obrtnik za pomorski prekršaj iz stavka 1. ovoga članka.«.
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječi: »25.000,00 do 100.000,00« zamjenjuju se riječima: »5.000,00 do 20.000,00«.
+
+##### Članak 276.
+
+Članak 1017.c mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 25.000,00 do 300.000,00 kuna kaznit će se pravna osoba koja je kao pošteni nalaznik započela vađenje podrtine ili potonule stvari na temelju odobrenja lučke kapetanije te istu bez opravdanog razloga prekinula ili napustila radove i time prouzročila štetu (članak 840.d stavak 6.)
+
+(2) Novčanom kaznom u iznosu od 10.000,00 do 150.000,00 kuna kaznit će se fizička osoba obrtnik za prekršaj iz stavka 1. ovoga članka.
+
+(3) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se fizička osoba za prekršaj iz stavka 1. ovoga članka
+
+(4) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi za prekršaj iz stavka 1. ovoga članka.«.
+
+##### Članak 277.
+
+U članku 1017.d riječi: »koja postupi suprotno odredbama članka 840.k ovoga Zakonika«, zamjenjuju se riječima: »ako bez odgađanja ne izvijesti najbližu lučku kapetaniju kada je pomorski objekt sudjelovao u pomorskoj nesreći u kojoj je nastala podrtina (članak 840.k)«.
+
+##### Članak 278.
+
+U članku 1017.e iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Novčanom kaznom u iznosu od 10.000,00 do 150.000,00 kuna kaznit će se fizička osoba obrtnik za pomorski prekršaj iz stavka 1. ovoga članka.«.
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječi: »25.000,00 do 100.000,00« zamjenjuju se riječima: »5.000,00 do 20.000,00«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+##### Članak 279.
+
+U Zakonu o izmjenama i dopunama Pomorskog zakonika (»Narodne novine«, br. 56/13.), u članku 144. podstavak 2. briše se.
+
+##### Članak 280.
+
+(1) U roku od 90 dana od dana stupanja na snagu ovoga Zakona ministar će na mrežnim stranicama Ministarstva objaviti popis imena i/ili oznaka svih pomorskih objekata upisanih u postojeće upisnike odnosno očevidnike čiji podaci nisu usklađeni s odredbama Pomorskog zakonika (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11., 56/13. i 26/15.) s opisom neusklađenosti.
+
+(2) Vlasnici pomorskih objekata iz stavka 1. ovoga članka, dužni su do 31. prosinca 2019. godine podnijeti Ministarstvu zahtjev za usklađenje podataka iz stavka 1. ovoga članka.
+
+(3) Istekom roka iz stavka 2. ovoga članka smatrat će se da je pomorski objekt propao i na isti će se primijeniti odredbe ovoga Zakona koje se odnose na brisanje po službenoj dužnosti propalih brodova.
+
+##### Članak 281.
+
+(1) Do 31. prosinca 2020. godine lučka kapetanija će po službenoj dužnosti jahti koja je sukladno odredbama ovoga Zakona brodica, izdati nove dokumente, isprave i knjige, a vlasnik tog plovnog objekta može ih preuzeti uz istovremenu predaju starih dokumenata, isprava i knjiga.
+
+(2) Iznimno od stavka 1. ovoga članka, u postupku pokrenutom na zahtjev vlasnika plovnog objekta za promjenom podatka o luci upisa tog plovnog objekta, lučka kapetanija može riješiti i o upisu promjene podatka o vrsti plovnog objekta iz stavka 1. ovoga članka.
+
+(3) Do 31. prosinca 2025. godine vlasnik brodice koja je sukladno odredbama ovoga Zakona brod, dužan je zatražiti upis promjene podatka o vrsti plovnog objekta u upisniku brodova.
+
+(4) Nakon stupanja na snagu članaka 69. do 192. ovoga Zakona, vlasnik broda koji sukladno odredbama ovoga Zakona može biti velika putnička jahta, može zatražiti upis promjene podatka o vrsti plovnog objekta u upisniku brodova, a ako već postoji jahta istog imena, vlasnik broda će nakon zaprimanja obavijesti o tome, obvezno podnijeti i zahtjev za dodjelom novog imena.
+
+##### Članak 282.
+
+(1) Brodski dokumenti, isprave i knjige izdani sukladno odredbama Pomorskog zakonika (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11., 56/13. i 26/15.) i propisa donesenih temeljem tog Zakonika važe do datuma isteka roka njihove valjanosti.
+
+(2) Odobrenja za ukrcavanje izdana sukladno odredbama Pomorskog zakonika (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11., 56/13. i 26/15.) važe do isteka njihove valjanosti.
+
+##### Članak 283.
+
+Hrvatski registar brodova će do 31. prosinca 2021. godine, u skladu s odredbama Tehničkih pravila i drugih propisa donesenih na temelju Pomorskog zakonika (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11., 56/13. i 26/15.), utvrđivati sposobnost za plovidbu plovnog objekta za sport i razonodu, neovisno koristi li se za osobne potrebe ili za gospodarsku djelatnost, a čija je duljina trupa veća od 12 i manja od 15 metara i koji je namijenjen za dulji boravak na moru, te koji je pored posade ovlašten prevoziti do 12 putnika.
+
+##### Članak 284.
+
+Postupci rješavanja o žalbama protiv rješenja inspektora sigurnosti plovidbe lučke kapetanije i Ministarstva pokrenuti prije stupanja na snagu ovoga Zakona dovršit će se po odredbama Pomorskog zakonika (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11., 56/13. i 26/15.).
+
+##### Članak 285.
+
+Uvjeti iz članka 131. koji je izmijenjen člankom 52. ovoga Zakona za stjecanje i obnovu svjedodžbi o osposobljenosti temeljem plovidbene službe ostvarene na ratnim brodovima Hrvatske ratne mornarice i brodovima Obalne straže počevši od 8. listopada 1991. godine utvrđuju se sporazumom između Ministarstva i ministarstva nadležnog za obranu.
+
+##### Članak 286.
+
+Vlada Republike Hrvatske će u roku od godine dana od dana stupanja na snagu ovoga Zakona Hrvatskome saboru predložiti izmjene kojima se provodi usklađivanje zakona iz područja zaštite okoliša i eksploatacije ugljikovodika koji uređuju Plan intervencija kod iznenadnih onečišćenja mora s odredbama ovoga Zakona.
+
+##### Članak 287.
+
+Vlada Republike Hrvatske će u roku od godine dana od dana stupanja na snagu ovoga Zakona donijeti uredbe iz članka 31. koji je izmijenjen člankom 6. i članaka 55.ć i 55.f koji su dopunjeni člankom 15. ovoga Zakona.
+
+##### Članak 288.
+
+(1) Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike iz članka 51. koji je izmijenjen člankom 12., članka 76. koji je izmijenjen člankom 24., članka 93.a koji je dopunjen člankom 37., članka 94. koji je izmijenjen člankom 38., članaka 124.č i 124.f koji su dopunjeni člankom 44., članka 127. koji je izmijenjen člankom 48., članka 137. koji je izmijenjen člankom 55., članka 191. koji je izmijenjen člankom 80. i članka 195. koji je izmijenjen člankom 83. ovoga Zakona.
+
+(2) Ministar će u roku od godinu dana od dana stupanja na snagu ovoga Zakona donijeti Tehnička pravila za velike putničke jahte iz članka 77. koji je izmijenjen člankom 25. ovoga Zakona.
+
+##### Članak 289.
+
+(1) Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti odredbe Pravilnika o načinu vijanja zastave i isticanja znakova na brodovima i jahtama (»Narodne novine«, br. 126/07.) i Pravilnika o najmanjem broju članova posade za sigurnu plovidbu koji moraju imati pomorski brodovi, plutajući objekti i nepomični odobalni objekti (»Narodne novine«, br. 63/07., 76/11., 46/13., 104/15., 31/16. i 83/16.) s odredbama ovoga Zakona.
+
+(2) Ministar će uz prethodnu suglasnost ministra nadležnog za financije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona, uskladiti odredbe Pravilnika o postupku i načinu korištenja prava na porez po tonaži broda (»Narodne novine«, br. 90/13. i 87/15.) s odredbama ovoga Zakona.
+
+##### Članak 290.
+
+Do stupanja na snagu propisa iz članaka 287. i 288. ovoga Zakona ostaju na snazi sljedeći propisi:
+
+– Uredba o pristupu, prolasku i boravku stranih ratnih i znanstvenoistraživačkih brodova u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske (»Narodne novine«, br. 19/95. i 21/03.)
+
+– Pravilnik o uvjetima pod kojima strane pravne i fizičke osobe smiju obavljati istraživanja, ispitivanja, fotografiranja i mjerenja mora, morskoga dna i/ili morskoga podzemlja unutrašnjih morskih voda i teritorijalnog mora Republike Hrvatske (»Narodne novine«, br. 116/98.)
+
+– Pravilnik o uvjetima za obavljanje istraživanja u posebno zaštićenim dijelovima prirode na morskom dnu ili morskom podzemlju unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske (»Narodne novine«, br. 97/98.)
+
+– Pravilnik o brodicama i jahtama (»Narodne novine«, br. 27/05., 57/06., 80/07., 3/08., 18/09., 56/10., 97/12., 137/13., 18/16. i 72/17.)
+
+– Pravilnik o načinu vođenja i podacima koji se unose u upisnike pomorskih objekata, vođenju postupka EOP upisa, obrascima, te nadležnosti lučkih kapetanija za upis (»Narodne novine«, br. 124/15.)
+
+– Pravilnik o pomorskim knjižicama i odobrenjima za ukrcavanje, te postupcima i načinu prijave i odjave pomoraca na obvezno mirovinsko i obvezno zdravstveno osiguranje (»Narodne novine«, br. 112/16.)
+
+– Naredba o najvišoj dopuštenoj starosti brodova i tehničkim uvjetima za upis u upisnik brodova u Republici Hrvatskoj (»Narodne novine«, br. 94/15.) i
+
+– Naredba o visini naknade za utvrđivanje sposobnosti brodica za plovidbu i o visini naknade za baždarenje brodica (»Narodne novine«, br. 159/13. i 42/17.).
+
+##### Članak 291.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 5. koji je izmijenjen člankom 3. ovoga Zakona u dijelu koji se odnosi na definiciju broda, brodice, jahte, ribarskog broda i velike putničke jahte te odredbi članaka 69. do 192. ovoga Zakona koje stupaju na snagu 1. siječnja 2020.
+
+Klasa: 022-03/18-01/133
+
+Zagreb, 8. veljače 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

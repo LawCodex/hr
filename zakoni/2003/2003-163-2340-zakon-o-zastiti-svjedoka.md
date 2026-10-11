@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-16
-last_amended: 2011-02-09
+last_amended: 2017-07-26
 status: in_force
-status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "163/03, 18/11"
+narodne_novine: "163/03, 18/11, 73/17"
 amendments:
   - "NN 18/2011 (312) Zakon o izmjenama Zakona o zaštiti svjedoka"
+  - "NN 73/2017 (1765) Zakon o dopuni Zakona o zaštiti svjedoka"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2340"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 163/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2340).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 18/2011.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 18/2011, NN 73/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -553,3 +554,57 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o dopuni Zakona o zaštiti svjedoka (NN 73/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1765*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O ZAŠTITI SVJEDOKA
+
+Proglašavam Zakon o dopuni Zakona o zaštiti svjedoka, koji je Hrvatski sabor donio na sjednici 14. srpnja 2017.
+
+Klasa: 011-01/17-01/68
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 19. srpnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O ZAŠTITI SVJEDOKA**
+
+### Članak 1.
+
+U Zakonu o zaštiti svjedoka (»Narodne novine«, br. 163/03. i 18/11.) iza članka 40. dodaje se članak 40.a koji glasi:
+
+»Članak 40.a
+
+U slučaju prestanka Programa zaštite Jedinica za zaštitu će od uključene osobe zatražiti da se pisanim putem izjasni o trajnom zadržavanju identiteta koji joj je ranije dodijeljen kroz primjenu mjere iz članka 17. stavka 1. točke 3. ovog Zakona.
+
+O očitovanju uključene osobe Jedinica za zaštitu će izvijestiti predsjednika Povjerenstva. Ako se uključena osoba izjasnila da želi trajno zadržati identitet iz stavka 1. ovog članka, odluku će donijeti Povjerenstvo uzimajući u obzir da takva promjena identiteta ne smije imati utjecaj na status druge osobe (zaključenje braka, očinstvo ili materinstvo i dr.).
+
+U odnosu na identitet koji je promijenjen odlukom iz stavka 2. ovog članka na odgovarajući način se primjenjuju odredbe članka 9. stavka 3., članka 21., članka 25. stavka 2., članka 26. i članka 33. ovog Zakona.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-01/138
+
+Zagreb, 14. srpnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

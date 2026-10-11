@@ -484,1302 +484,1040 @@ Jadranka Kosor, dipl. iur., v. r.
 POPIS RADNIH MJESTA U DRŽAVNOJ SLUŽBI
 
 <table>
-
 <tr>
 <td><b>Potkategorija – glavni rukovoditelj </b></td>
 <td><b> Razina<br> potkategorije</b></td>
 </tr>
-
 <tr>
 <td>predstojnik ureda Vlade I</td>
 <td rowspan="8">1.</td>
 </tr>
-
 <tr>
 <td>zamjenik tajnika Vlade</td>
 </tr>
-
 <tr>
 <td>zastupnik Vlade Republike Hrvatske pred Europskim sudom za ljudska prava</td>
 </tr>
-
 <tr>
 <td>tajnik ministarstva</td>
 </tr>
-
 <tr>
 <td>ravnatelj (direktor) u ministarstvu</td>
 </tr>
-
 <tr>
 <td>zamjenik državnog tajnika središnjega državnog ureda</td>
 </tr>
-
 <tr>
 <td>zamjenik ravnatelja državne upravne organizacije</td>
 </tr>
-
 <tr>
 <td>zamjenik glavnog inspektora Državnog inspektorata</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – viši rukovoditelj</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik ureda Vlade II</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>zamjenik zastupnika Vlade Republike Hrvatske pred Europskim sudom za ljudska prava</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik ravnatelja državne upravne organizacije</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik glavnog inspektora Državnog inspektorata</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik ravnatelja upravne organizacije (Porezna uprava, Carinska uprava, Financijska policija, Devizni inspektorat)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zamjenik predstojnika ureda Vlade I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik tajnika Vlade</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik ureda državne uprave u županiji</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik Ureda predsjednika Ustavnog suda RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik Ureda predsjednika Vrhovnog suda RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik Ureda potpredsjednika Hrvatskoga sabora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik tajnika Hrvatskoga sabora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik tajnika Ureda predsjednika RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik Ureda za sprječavanje pranja novca</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik područnog ureda Porezne uprave I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik carinarnice I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik samostalne sektora/službe</td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik sektora/službe</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj ureda ili službe u Stručnoj službi Hrvatskoga sabora</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td>zamjenik predstojnika ureda Vlade II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zamjenik predstojnika Ureda predsjednika Hrvatskoga sabora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>tajnik Državnog odvjetništva RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik predstojnika Ureda za sprječavanje pranja novca</td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik postaje Financijske policije</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik područnog ureda Porezne uprave II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik pročelnika područnog ureda Porezne uprave I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik carinarnice II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik pročelnika carinarnice I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik odjela u središnjem tijelu državne uprave – u sjedištu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik odjela inspekcijskih poslova</td>
 <td></td>
 </tr>
-
 <tr>
 <td>tajnik kabineta ministra</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik područne jedinice inspekcijskih<br> poslova I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik uprave za obranu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>upravitelj kaznionice</td>
 <td></td>
 </tr>
-
 <tr>
 <td>upravitelj zatvora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>upravitelj odgojnog zavoda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>lučki kapetan I</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – rukovoditelj</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>zamjenik predstojnika ureda državne uprave u županiji</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>tajnik kabineta državnog tajnika središnjega držav­nog ureda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>tajnik kabineta ravnatelja državne upravne organizacije/glavnog inspektora Državnog inspektorata</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik predstojnika ureda državne uprave u županiji I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik područnog ureda Porezne uprave III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik carinarnice III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik pročelnika područnog ureda Porezne uprave II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik pročelnika carinarnice II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj ispostave Porezne uprave I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik carinske ispostave I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>glavni konzervator</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik Konzervatorskog odjela</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zamjenik glavnoga vatrogasnog zapovjednika</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zamjenik zapovjednika civilne zaštite RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zamjenik glavnog nadzornika sustava 112</td>
 <td></td>
 </tr>
-
 <tr>
 <td>lučki kapetan II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>kapetan kapetanije I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj Nacionalne središnjice za usklađivanje traganja i spašavanja na moru, nadzor i upravljanje pomorskim prometom</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik upravitelja kaznionice</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik upravitelja zatvora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik područnog ureda za katastar</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik upravitelja odgojnog zavoda</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik odjela – ostali</td>
 <td rowspan="2">2.</td>
 </tr>
-
 <tr>
 <td>voditelj ispostave Porezne uprave II</td>
 </tr>
-
 <tr>
 <td>pomoćnik pročelnika područnog ureda Porezne uprave III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik pročelnika carinarnice III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik carinske ispostave II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik predstojnika ureda državne uprave u županiji II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik područne jedinice inspekcijskih<br> poslova II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik glavnoga vatrogasnog zapovjednika</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćnik glavnog nadzornika sustava 112</td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik Centra za obuku i specijalističko usavršavanje (Državna uprava za zaštitu i spašavanje – u daljnjem tekstu: DUZS)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>upravitelj Centra za izobrazbu službenika zatvorskog sustava</td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik Centra za razvoj i ispitivanje tehnike (DUZS)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pročelnik područnog ureda I (DUZS)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zamjenik načelnika uprave za obranu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>načelnik Vatrogasne škole</td>
 <td></td>
 </tr>
-
 <tr>
 <td>tajnik Upravnog suda RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>tajnik Visokoga prekršajnog suda RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>tajnik Visokoga trgovačkog suda RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>tajnik Ureda pučkog pravobranitelja</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik ureda za obranu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predsjednik novačkog povjerenstva</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj odsjeka inspekcijskih poslova I</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – niži rukovoditelj</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj odsjeka – ostali</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>pročelnik područnog ureda II u DUZS</td>
 <td></td>
 </tr>
-
 <tr>
 <td>kapetan ispostave lučke kapetanije I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>glavni istražitelj (zračni promet)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj ispostave ureda državne uprave u<br> županiji I</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj ispostave/pododsjeka (VSS)</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td>voditelj ispostave ureda državne uprave u<br> županiji II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zapovjednik državne intervencijske postrojbe u DUZS</td>
 <td></td>
 </tr>
-
 <tr>
 <td>tajnik suda – ostali</td>
 <td></td>
 </tr>
-
 <tr>
 <td>predstojnik carinske ispostave III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj carinskog odjeljka I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>kapetan ispostave lučke kapetanije II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>kapetan kapetanije II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj gradskog centra 112</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zapovjednik straže Hrvatskoga sabora</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj pododsjeka/odjeljka – ostali</td>
 <td>3.</td>
 </tr>
-
 <tr>
 <td>šef Službe administrativnih, općih, tehničkih i pomoćnih poslova (stručna služba Vlade)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zamjenik šefa Službe administrativnih, općih, tehničkih i pomoćnih poslova (stručna služba Vlade)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj matičnog ureda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj niže ustrojstvene jedinice u pravosudnim tijelima</td>
 <td></td>
 </tr>
-
 <tr>
 <td>kapetan ispostave lučke kapetanije III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zapovjednik broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zamjenik zapovjednika straže Hrvatskoga sabora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj carinskog odjeljka II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj smjene carinske ispostave I i II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj smjene carinske ispostave III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj smjene carinskog odjeljka</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – glavni savjetnik</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>glavni savjetnik</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>savjetnik predsjednika Vlade</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik predsjednika Hrvatskoga sabora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>glavni inspektor</td>
 <td></td>
 </tr>
-
 <tr>
 <td>profesionalni diplomat – veleposlanik</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši sudski savjetnik u Vrhovnom sudu RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik potpredsjednika Vlade</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td>sudski savjetnik u Vrhovnom sudu RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik ministra</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik u Uredu za zakonodavstvo I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>glasnogovornik u središnjim državnim tijelima – u sjedištu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik potpredsjednika Hrvatskoga sabora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik pučkog pravobranitelja</td>
 <td></td>
 </tr>
-
 <tr>
 <td>profesionalni diplomat – opunomoćeni ministar</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši savjetnik u Državnom odvjetništvu RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – viši savjetnik – specijalist</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši savjetnik – specijalist I</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>viši inspektor – specijalist</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik u Uredu za zakonodavstvo II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik zastupnika Vlade pred Europskim sudom za ljudska prava</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši savjetnik – tajnik radnog tijela Hrvatskog sabora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši sudski savjetnik (Upravni sud, Visoki trgovački sud i Visoki prekršajni sud)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik u Uredu pučkog pravobranitelja</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik u Državnom odvjetništvu RH</td>
 <td></td>
 </tr>
-
 <tr>
 <td>profesionalni diplomat – ministar savjetnik</td>
 <td></td>
 </tr>
-
 <tr>
 <td>glasnogovornik – ostali</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>sudski savjetnik (Upravni sud, Visoki prekršajni sud, Visoki trgovački sud)</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td>savjetnik I u Tajništvu Vlade</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši sudski savjetnik u županijskom sudu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši savjetnik u županijskom državnom odvjetništvu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši savjetnik – specijalist II (najsloženiji poslovi: rješavanja u II-stupanjskom upravnom postupku, izrade pravnih propisa, upravnog nadzora, poslova koordinacije unutarnje financijske kontrole i revizije, specijaliziranih ekonomsko-financijskih poslova, informatičkih poslova)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši inspektor I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši unutarnji revizor</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši kontrolor plovidbenosti zrakoplova</td>
 <td></td>
 </tr>
-
 <tr>
 <td>profesionalni diplomat – diplomatski savjetnik</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – viši savjetnik</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši savjetnik I (najsloženiji poslovi rješavanja u I-stupanjskom upravnom postupku)</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>savjetnik u Tajništvu Vlade i uredima Vlade</td>
 <td></td>
 </tr>
-
 <tr>
 <td>liječnik specijalist u kaznenom tijelu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>glavni nadzornik pravosudne policije</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši inspektor II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik u Stručnoj službi Hrvatskoga sabora</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik u Uredu predsjednika</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši sudski savjetnici (trgovački, općinski i prekršajni sudovi)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši savjetnik u općinskom državnom odvjetništvu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>kontrolor plovidbenosti zrakoplova</td>
 <td></td>
 </tr>
-
 <tr>
 <td>samostalni nadzornik u DUZS</td>
 <td></td>
 </tr>
-
 <tr>
 <td>unutarnji revizor</td>
 <td></td>
 </tr>
-
 <tr>
 <td>nadzornik za unutarnje poslove (MUP)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>projektant policijske tehnike</td>
 <td></td>
 </tr>
-
 <tr>
 <td>profesionalni diplomat – I tajnik</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši savjetnik II (ostali poslovi)</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td>profesionalni diplomat – II tajnik</td>
 <td></td>
 </tr>
-
 <tr>
 <td>sudski savjetnik – ostali</td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik u državnom odvjetništvu – ostali</td>
 <td></td>
 </tr>
-
 <tr>
 <td>liječnik u kaznenom tijelu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>veterinar u kaznenom tijelu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši samostalni nadzornik pravosudne policije</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši školski nadzornik</td>
 <td></td>
 </tr>
-
 <tr>
 <td>oblasni sinoptičar I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>nastavnik srednje policijske škole</td>
 <td></td>
 </tr>
-
 <tr>
 <td>inspektor</td>
 <td></td>
 </tr>
-
 <tr>
 <td>poreznik I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>carinik I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>zrakoplovno-tehnički specijalist</td>
 <td></td>
 </tr>
-
 <tr>
 <td>koordinator slotova</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – savjetnik</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>savjetnik</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>profesionalni diplomat – III tajnik</td>
 <td></td>
 </tr>
-
 <tr>
 <td>stručni suradnik u sudu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>stručni suradnik u državnom odvjetništvu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>samostalni nadzornik pravosudne policije</td>
 <td></td>
 </tr>
-
 <tr>
 <td>školski nadzornik</td>
 <td></td>
 </tr>
-
 <tr>
 <td>oblasni sinoptičar II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćni unutarnji revizor</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – viši stručni suradnik</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši stručni suradnik</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>profesionalni diplomat – attache</td>
 <td></td>
 </tr>
-
 <tr>
 <td>ovlašteni zemljišnoknjižni referent I</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši nadzornik pravosudne policije</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – stručni suradnik</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>stručni suradnik</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>inspektor II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>carinik II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>poreznik II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>ovlašteni zemljišnoknjižni referent II</td>
 <td></td>
 </tr>
-
 <tr>
 <td>administrativni tajnik predsjednika RH, predsjednika i potpredsjednika Vlade, predsjednika i potpredsjednika Hrvatskoga sabora, predsjednika Ustavnog suda, predsjednika Vrhovnog suda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši policijski tehničar</td>
 <td></td>
 </tr>
-
 <tr>
 <td>nadzornik u Sustavu 112 (DUZS)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>nadzornik pravosudne policije</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši operater u Državnom centru 112 (DUZS)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši tehničar (DUZS)</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – viši referent</b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši referent</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>inspektor III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši matičar</td>
 <td></td>
 </tr>
-
 <tr>
 <td>administrativni tajnik dužnosnika – ostali</td>
 <td></td>
 </tr>
-
 <tr>
 <td>administrativni tajnik glavnih rukovoditelja</td>
 <td></td>
 </tr>
-
 <tr>
 <td>carinik III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>poreznik III</td>
 <td></td>
 </tr>
-
 <tr>
 <td>viši sudski referent</td>
 <td></td>
 </tr>
-
 <tr>
 <td>voditelj smjene</td>
 <td></td>
 </tr>
-
 <tr>
 <td>stariji pravosudni policajac</td>
 <td></td>
 </tr>
-
 <tr>
 <td>glavni dežurni službenik u otvorenoj kaznionici</td>
 <td></td>
 </tr>
-
 <tr>
 <td>stražar (straža Hrvatskoga sabora)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>referent (dvorana Hrvatskoga sabora)</td>
 <td></td>
 </tr>
-
 <tr>
 <td>policijski tehničar</td>
 <td></td>
 </tr>
-
 <tr>
 <td>operater – analitičar</td>
 <td></td>
 </tr>
-
 <tr>
 <td>tehničar/instruktor/ispitivač tehnike u DUZS</td>
 <td></td>
 </tr>
-
 <tr>
 <td>ovlašteni geodetski referent</td>
 <td></td>
 </tr>
-
 <tr>
 <td>ovlašteni katastarski referent</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Potkategorija – referent </b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>referent</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>matičar</td>
 <td></td>
 </tr>
-
 <tr>
 <td>sudski referent</td>
 <td></td>
 </tr>
-
 <tr>
 <td>administrativni tajnik</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pravosudni policajac</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćni dežurni u otvorenoj kaznionici</td>
 <td></td>
 </tr>
-
 <tr>
 <td>pomoćni odgajatelj u odgojnom zavodu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>strukovni učitelj u kaznenom tijelu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>medicinski tehničar u kaznenom tijelu</td>
 <td></td>
 </tr>
-
 <tr>
 <td>veterinarski tehničar u kaznenom tijelu</td>
 <td></td>
 </tr>
-
 </table>

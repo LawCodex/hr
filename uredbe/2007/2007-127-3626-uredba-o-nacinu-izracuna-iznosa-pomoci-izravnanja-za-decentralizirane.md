@@ -75,7 +75,6 @@ Jadranka Kosor, dipl. iur., v. r.
 *Tablica 1.*
 
 <table>
-
 <tr>
 <td rowspan="2">ŽUPANIJA</td>
 <td colspan="2">ŠKOLSTVO</td>
@@ -84,7 +83,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>VATROGASTVO</td>
 <td rowspan="2">SVEUKUPNE OBVEZE ZA DECENTRALIZIRANE FUNKCIJE</td>
 </tr>
-
 <tr>
 <td>OSNOVNO ŠKOLSTVO (OBVEZA GRADOVA I ŽUPANIJA)</td>
 <td>SREDNJE ŠKOLSTVO</td>
@@ -93,7 +91,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>ZDRAVSTVENE USTANOVE</td>
 <td>JAVNE VATROGASNE POSTROJBE (OBVEZA OPĆINA I GRADOVA)</td>
 </tr>
-
 <tr>
 <td>1</td>
 <td>2</td>
@@ -104,7 +101,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>7</td>
 <td>8 (2+3+4+<br> 5+6+7)</td>
 </tr>
-
 <tr>
 <td>ZAGREBAČKA</td>
 <td>18.479.007</td>
@@ -115,7 +111,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>3.765.465</td>
 <td>31.942.719</td>
 </tr>
-
 <tr>
 <td>KRAPINSKO-ZAGORSKA</td>
 <td>7.701.038</td>
@@ -126,7 +121,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>2.015.948</td>
 <td>17.945.562</td>
 </tr>
-
 <tr>
 <td>SISAČKO-MOSLAVAČKA</td>
 <td>11.023.660</td>
@@ -137,7 +131,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>3.563.122</td>
 <td>27.725.066</td>
 </tr>
-
 <tr>
 <td>KARLOVAČKA</td>
 <td>8.270.128</td>
@@ -148,7 +141,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>2.599.090</td>
 <td>20.924.433</td>
 </tr>
-
 <tr>
 <td>VARAŽDINSKA</td>
 <td>10.332.388</td>
@@ -159,7 +151,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>1.684.563</td>
 <td>25.571.521</td>
 </tr>
-
 <tr>
 <td>KOPRIVNIČKO-KRIŽEVAČKA</td>
 <td>7.037.436</td>
@@ -170,7 +161,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>2.892.259</td>
 <td>18.242.496</td>
 </tr>
-
 <tr>
 <td>BJELOVARSKO-BILOGORSKA</td>
 <td>7.759.329</td>
@@ -181,7 +171,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>3.090.474</td>
 <td>20.469.843</td>
 </tr>
-
 <tr>
 <td>PRIMORSKO-GORANSKA</td>
 <td>13.149.813</td>
@@ -192,7 +181,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>7.958.331</td>
 <td>44.660.089</td>
 </tr>
-
 <tr>
 <td>LIČKO-SENJSKA</td>
 <td>4.207.883</td>
@@ -203,7 +191,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>1.693.953</td>
 <td>11.325.061</td>
 </tr>
-
 <tr>
 <td>VIROVITIČKO-PODRAVSKA</td>
 <td>5.701.222</td>
@@ -214,7 +201,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>1.441.516</td>
 <td>12.798.526</td>
 </tr>
-
 <tr>
 <td>POŽEŠKO-SLAVONSKA</td>
 <td>5.493.107</td>
@@ -225,7 +211,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>709.375</td>
 <td>13.652.175</td>
 </tr>
-
 <tr>
 <td>BRODSKO-POSAVSKA</td>
 <td>10.170.513</td>
@@ -236,7 +221,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>1.777.689</td>
 <td>22.484.708</td>
 </tr>
-
 <tr>
 <td>ZADARSKA</td>
 <td>9.164.714</td>
@@ -247,7 +231,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>5.773.891</td>
 <td>26.312.411</td>
 </tr>
-
 <tr>
 <td>OSJEČKO-BARANJSKA</td>
 <td>17.474.217</td>
@@ -258,7 +241,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>3.911.577</td>
 <td>44.756.679</td>
 </tr>
-
 <tr>
 <td>ŠIBENSKO-KNINSKA</td>
 <td>6.360.050</td>
@@ -269,7 +251,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>3.330.447</td>
 <td>20.296.680</td>
 </tr>
-
 <tr>
 <td>VUKOVARSKO-SRIJEMSKA</td>
 <td>10.481.341</td>
@@ -280,7 +261,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>2.699.458</td>
 <td>25.734.175</td>
 </tr>
-
 <tr>
 <td>SPLITSKO-DALMATINSKA</td>
 <td>22.792.058</td>
@@ -291,7 +271,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>4.756.815</td>
 <td>58.105.403</td>
 </tr>
-
 <tr>
 <td>ISTARSKA</td>
 <td>12.029.968</td>
@@ -302,7 +281,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>8.277.361</td>
 <td>36.883.123</td>
 </tr>
-
 <tr>
 <td>DUBROVAČKO-NERETVANSKA</td>
 <td>7.255.977</td>
@@ -313,7 +291,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>4.742.427</td>
 <td>23.852.202</td>
 </tr>
-
 <tr>
 <td>MEĐIMURSKA</td>
 <td>6.287.963</td>
@@ -324,7 +301,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>1.219.885</td>
 <td>15.445.819</td>
 </tr>
-
 <tr>
 <td>GRAD ZAGREB</td>
 <td>33.130.408</td>
@@ -335,7 +311,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>10.852.206</td>
 <td>103.070.541</td>
 </tr>
-
 <tr>
 <td>UKUPNO KUNA</td>
 <td>234.302.220</td>
@@ -346,7 +321,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>78.755.852</td>
 <td>622.199.232</td>
 </tr>
-
 </table>
 
 ## PREGLED SREDSTAVA ZA DECENTRALIZIRANU FUNKCIJU OSNOVNOG ŠKOLSTVA PO ŽUPANIJAMA U PRVOM TROMJESEČJU 2008. GODINE
@@ -425,977 +399,837 @@ Jadranka Kosor, dipl. iur., v. r.
 *Tablica 3. općine/gradovi*
 
 <table>
-
 <tr>
 <td>Red.<br> broj</td>
 <td>Nositelj financiranja<br> općina/grad</td>
 <td>Naziv javne vatrogasne postrojbe</td>
 <td>Ukupno<br> kuna</td>
 </tr>
-
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>Grad Zagreb</td>
 <td>JVP ZAGREB</td>
 <td>10.852.206</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>Grad Zaprešić</td>
 <td>JVP ZAPREŠIĆ</td>
 <td>953.162</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>Grad Samobor</td>
 <td>JVP SAMOBOR</td>
 <td>744.505</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>Grad Velika Gorica</td>
 <td>JVP VELIKA GORICA</td>
 <td>1.173.616</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>Grad Ivanić-Grad</td>
 <td>JVP IVANIĆ-GRAD</td>
 <td>894.182</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td></td>
 <td>ZAGORSKA JVP</td>
 <td>1.533.951</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Zabok (9,22%)</td>
 <td></td>
 <td>141.430</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Klanjec (3,18%)</td>
 <td></td>
 <td>48.780</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Oroslavje (6,15%)</td>
 <td></td>
 <td>94.338</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Pregrada (7,05%)</td>
 <td></td>
 <td>108.144</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Zlatar (6,40%)</td>
 <td></td>
 <td>98.172</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Donja Stubica (5,83%)</td>
 <td></td>
 <td>89.430</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Bedekovčina (8,34%)</td>
 <td></td>
 <td>127.931</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Budinšćina (2,75%)</td>
 <td></td>
 <td>42.183</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Desinić (3,42%)</td>
 <td></td>
 <td>52.461</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Gornja Stubica (5,63%)</td>
 <td></td>
 <td>86.362</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Hrašćina (1,80%)</td>
 <td></td>
 <td>27.611</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Konjšćina (4,01%)</td>
 <td></td>
 <td>61.512</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Kraljevec na Sutli (1,79%)</td>
 <td></td>
 <td>27.457</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Krapinske Toplice (5,65%)</td>
 <td></td>
 <td>86.668</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Kumrovec (1,82%)</td>
 <td></td>
 <td>27.918</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Marija Bistrica (6,50%)</td>
 <td></td>
 <td>99.707</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Stubičke Toplice (2,71%)</td>
 <td></td>
 <td>41.570</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Sveti Križ Začretje (6,51%)</td>
 <td></td>
 <td>99.860</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Tuhelj (2,15%)</td>
 <td></td>
 <td>32.980</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Veliko Trgovišće (5,13%)</td>
 <td></td>
 <td>78.692</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Zagorska Sela (1,18%)</td>
 <td></td>
 <td>18.101</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Zlatar Bistrica (2,78%)</td>
 <td></td>
 <td>42.644</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>Grad Krapina</td>
 <td>JVP KRAPINA</td>
 <td>481.997</td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td>Grad Sisak</td>
 <td>JVP SISAK</td>
 <td>1.621.011</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td>Grad Petrinja</td>
 <td>JVP PETRINJA</td>
 <td>975.622</td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td>Grad Kutina</td>
 <td>JVP KUTINA</td>
 <td>966.489</td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td>Grad Karlovac</td>
 <td>JVP KARLOVAC</td>
 <td>1.806.362</td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td>Grad Ogulin</td>
 <td>JVP OGULIN</td>
 <td>792.728</td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td>Grad Varaždin</td>
 <td>JVP VARAŽDIN</td>
 <td>1.684.563</td>
 </tr>
-
 <tr>
 <td>14.</td>
 <td>Grad Koprivnica</td>
 <td>JVP KOPRIVNICA</td>
 <td>1.247.916</td>
 </tr>
-
 <tr>
 <td>15.</td>
 <td>Grad Đurđevac</td>
 <td>JVP ĐURĐEVAC</td>
 <td>888.297</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Đurđevac (69,40%)</td>
 <td></td>
 <td>616.478</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Virje (10,70%</td>
 <td></td>
 <td>95.048</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Kloštar Podravski (5,08%)</td>
 <td></td>
 <td>45.125</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Kalinovac (4,88%)</td>
 <td></td>
 <td>43.349</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Molve (4,05%)</td>
 <td></td>
 <td>35.976</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Ferdinandovac (2,97%)</td>
 <td></td>
 <td>26.382</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Podravske Sesvete (1,84%)</td>
 <td></td>
 <td>16.345</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Novo Virje (1,08%)</td>
 <td></td>
 <td>9.594</td>
 </tr>
-
 <tr>
 <td>16.</td>
 <td>Grad Križevci</td>
 <td>JVP KRIŽEVCI</td>
 <td>756.046</td>
 </tr>
-
 <tr>
 <td>17.</td>
 <td>Grad Bjelovar</td>
 <td>JVP BJELOVAR</td>
 <td>1.349.737</td>
 </tr>
-
 <tr>
 <td>18.</td>
 <td>Grad Daruvar</td>
 <td>JVP DARUVAR</td>
 <td>765.801</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Daruvar (78,00%)</td>
 <td></td>
 <td>597.325</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Sirač (7,00%)</td>
 <td></td>
 <td>53.606</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Končanica (5,00%)</td>
 <td></td>
 <td>38.290</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Đulovac (5,00%)</td>
 <td></td>
 <td>38.290</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Dežanovac (5,00%)</td>
 <td></td>
 <td>38.290</td>
 </tr>
-
 <tr>
 <td>19.</td>
 <td>Grad Garešnica</td>
 <td>JVP GAREŠNICA</td>
 <td>522.722</td>
 </tr>
-
 <tr>
 <td>20.</td>
 <td>Grad Čazma</td>
 <td>JVP ČAZMA</td>
 <td>452.214</td>
 </tr>
-
 <tr>
 <td>21.</td>
 <td>Grad Rijeka</td>
 <td>JVP RIJEKA</td>
 <td>4.314.640</td>
 </tr>
-
 <tr>
 <td>22.</td>
 <td>Grad Mali Lošinj</td>
 <td>JVP LOŠINJ</td>
 <td>697.033</td>
 </tr>
-
 <tr>
 <td>23.</td>
 <td>Grad Crikvenica</td>
 <td>JVP CRIKVENICA</td>
 <td>638.328</td>
 </tr>
-
 <tr>
 <td>24.</td>
 <td>Grad Krk</td>
 <td>JVP KRK</td>
 <td>748.351</td>
 </tr>
-
 <tr>
 <td>25.</td>
 <td>Grad Opatija</td>
 <td>JVP OPATIJA</td>
 <td>1.119.305</td>
 </tr>
-
 <tr>
 <td>26.</td>
 <td>Grad Delnice</td>
 <td>JVP DELNICE</td>
 <td>440.674</td>
 </tr>
-
 <tr>
 <td>27.</td>
 <td>Grad Gospić</td>
 <td>JVP GOSPIĆ</td>
 <td>767.388</td>
 </tr>
-
 <tr>
 <td>28.</td>
 <td>Općina Plitvička Jezera</td>
 <td>JVP PLITVIČKA JEZERA</td>
 <td>457.690</td>
 </tr>
-
 <tr>
 <td>29.</td>
 <td>Grad Senj</td>
 <td>JVP SENJ</td>
 <td>468.875</td>
 </tr>
-
 <tr>
 <td>30.</td>
 <td>Grad Virovitica</td>
 <td>JVP VIROVITICA</td>
 <td>802.618</td>
 </tr>
-
 <tr>
 <td>31.</td>
 <td>Grad Slatina</td>
 <td>JVP SLATINA</td>
 <td>638.898</td>
 </tr>
-
 <tr>
 <td>32.</td>
 <td>Grad Požega</td>
 <td>JVP POŽEGA</td>
 <td>709.375</td>
 </tr>
-
 <tr>
 <td>33.</td>
 <td>Grad Slavonski Brod</td>
 <td>JVP SLAVONSKI BROD</td>
 <td>1.777.689</td>
 </tr>
-
 <tr>
 <td>34.</td>
 <td>Grad Zadar</td>
 <td>JVP ZADAR</td>
 <td>3.572.110</td>
 </tr>
-
 <tr>
 <td>35.</td>
 <td>Grad Biograd na Moru</td>
 <td>JVP BIOGRAD</td>
 <td>694.045</td>
 </tr>
-
 <tr>
 <td>36.</td>
 <td>Grad Benkovac</td>
 <td>JVP BENKOVAC</td>
 <td>717.532</td>
 </tr>
-
 <tr>
 <td>37.</td>
 <td>Općina Gračac</td>
 <td>JVP GRAČAC</td>
 <td>790.204</td>
 </tr>
-
 <tr>
 <td>38.</td>
 <td>Grad Osijek</td>
 <td>JVP OSIJEK</td>
 <td>3.158.491</td>
 </tr>
-
 <tr>
 <td>39.</td>
 <td>Grad Beli Manastir</td>
 <td>JVP BELI MANASTIR</td>
 <td>753.086</td>
 </tr>
-
 <tr>
 <td>40.</td>
 <td>Grad Šibenik</td>
 <td>JVP ŠIBENIK</td>
 <td>1.902.955</td>
 </tr>
-
 <tr>
 <td>41.</td>
 <td>Grad Drniš</td>
 <td>JVP DRNIŠ</td>
 <td>628.552</td>
 </tr>
-
 <tr>
 <td>42.</td>
 <td>Grad Knin</td>
 <td>JVP KNIN</td>
 <td>798.940</td>
 </tr>
-
 <tr>
 <td>43.</td>
 <td>Grad Vinkovci</td>
 <td>JVP VINKOVCI</td>
 <td>848.921</td>
 </tr>
-
 <tr>
 <td>44.</td>
 <td>Grad Vukovar</td>
 <td>JVP VUKOVAR</td>
 <td>1.394.368</td>
 </tr>
-
 <tr>
 <td>45.</td>
 <td>Grad Ilok</td>
 <td>JVP ILOK</td>
 <td>456.169</td>
 </tr>
-
 <tr>
 <td>46.</td>
 <td>Grad Split</td>
 <td>JVP SPLIT</td>
 <td>3.634.907</td>
 </tr>
-
 <tr>
 <td>47.</td>
 <td>Grad Solin</td>
 <td>JVP SOLIN</td>
 <td>451.039</td>
 </tr>
-
 <tr>
 <td>48.</td>
 <td>Grad Imotski</td>
 <td>JVP IMOTSKI</td>
 <td>670.869</td>
 </tr>
-
 <tr>
 <td>49.</td>
 <td></td>
 <td>JVP PULA</td>
 <td>2.729.976</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Pula – Pola (68,92%)</td>
 <td></td>
 <td>1.881.499</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Barban (3,27%)</td>
 <td></td>
 <td>89.270</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Fažana – Fasana (3,78%)</td>
 <td></td>
 <td>103.193</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Ližnjan – Lisig­nano (3,45%)</td>
 <td></td>
 <td>94.184</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Marčana (4,59%)</td>
 <td></td>
 <td>125.306</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Medulin (6,88%)</td>
 <td></td>
 <td>187.823</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Svetvinčenat (2,61%)</td>
 <td></td>
 <td>71.252</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Vodnjan – Dignano (6,50%)</td>
 <td></td>
 <td>177.449</td>
 </tr>
-
 <tr>
 <td>50.</td>
 <td></td>
 <td>JVP PAZIN</td>
 <td>907.618</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Pazin (49,29%)</td>
 <td></td>
 <td>447.364</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Cerovlje (9,55%)</td>
 <td></td>
 <td>86.677</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Gračišće (7,66%)</td>
 <td></td>
 <td>69.524</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Lupoglav (5,15%)</td>
 <td></td>
 <td>46.743</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Karojba (7,73%)</td>
 <td></td>
 <td>70.158</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Motovun – Montona (5,78%)</td>
 <td></td>
 <td>52.461</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Tinjan (9,58%)</td>
 <td></td>
 <td>86.950</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Sveti Petar u Šumi (5,26%)</td>
 <td></td>
 <td>47.741</td>
 </tr>
-
 <tr>
 <td>51.</td>
 <td></td>
 <td>JVP POREČ</td>
 <td>961.930</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Poreč – Parenzo (73,90%)</td>
 <td></td>
 <td>710.866</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Sveti Lovreč (2,13%)</td>
 <td></td>
 <td>20.489</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Višnjan – Visignano (2,61%)</td>
 <td></td>
 <td>25.106</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Kaštelir-Labinci – Castelliere-S. Domenica (1,36%)</td>
 <td></td>
 <td>13.082</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Vižinada – Visinada (1,44%)</td>
 <td></td>
 <td>13.852</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Vrsar – Orsera (18,56%)</td>
 <td></td>
 <td>178.535</td>
 </tr>
-
 <tr>
 <td>52.</td>
 <td></td>
 <td>JVP ROVINJ</td>
 <td>951.822</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Rovinj – Rovigno (88,17%)</td>
 <td></td>
 <td>839.222</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Bale – Valle (2,10%)</td>
 <td></td>
 <td>19.988</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Kanfanar (3,20%)</td>
 <td></td>
 <td>30.458</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Žminj (6,53%)</td>
 <td></td>
 <td>62.154</td>
 </tr>
-
 <tr>
 <td>53.</td>
 <td></td>
 <td>JVP LABIN</td>
 <td>881.682</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Labin (49,90%)</td>
 <td></td>
 <td>439.959</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Pićan (8,20%)</td>
 <td></td>
 <td>72.298</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Raša (15,90%)</td>
 <td></td>
 <td>140.188</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Kršan (13,20%)</td>
 <td></td>
 <td>116.382</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Sveta Nedelja (12,80%)</td>
 <td></td>
 <td>112.855</td>
 </tr>
-
 <tr>
 <td>54.</td>
 <td></td>
 <td>JVP BUZET</td>
 <td>689.865</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Buzet (80%)</td>
 <td></td>
 <td>551.892</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Lanišće (20%)</td>
 <td></td>
 <td>137.973</td>
 </tr>
-
 <tr>
 <td>55.</td>
 <td></td>
 <td>JVP UMAG</td>
 <td>1.154.468</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Umag – Umago (51,70%)</td>
 <td></td>
 <td>596.859</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Novigrad – Cittanova (13,70%)</td>
 <td></td>
 <td>158.162</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Grad Buje – Buie<br> (22,65%)</td>
 <td></td>
 <td>261.487</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Grožnjan –<br> Grisignana (3,65%)</td>
 <td></td>
 <td>42.138</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Brtonigla –<br> Verteneglio (5,85%)</td>
 <td></td>
 <td>67.537</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Općina Oprtalj – Portole (2,45%)</td>
 <td></td>
 <td>28.285</td>
 </tr>
-
 <tr>
 <td>56.</td>
 <td>Grad Dubrovnik</td>
 <td>JVP DUBROVAČKI VATROGASCI</td>
 <td>2.383.554</td>
 </tr>
-
 <tr>
 <td>57.</td>
 <td>Općina Konave</td>
 <td>JVP KONAVLE</td>
 <td>444.343</td>
 </tr>
-
 <tr>
 <td>58.</td>
 <td>Općina Dubrovačko primorje</td>
 <td>JVP DUBROVAČ­KO PRIMORJE</td>
 <td>440.541</td>
 </tr>
-
 <tr>
 <td>59.</td>
 <td>Grad Ploče</td>
 <td>JVP PLOČE</td>
 <td>543.545</td>
 </tr>
-
 <tr>
 <td>60.</td>
 <td>Grad Metković</td>
 <td>JVP METKOVIĆ</td>
 <td>444.547</td>
 </tr>
-
 <tr>
 <td>61.</td>
 <td>Općina Mljet</td>
 <td>JVP MLJET</td>
 <td>485.897</td>
 </tr>
-
 <tr>
 <td>62.</td>
 <td>Grad Čakovec</td>
 <td>JVP ČAKOVEC</td>
 <td>1.219.885</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">U K U P N O</td>
 <td>78.755.852</td>
 </tr>
-
 </table>

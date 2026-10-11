@@ -6,14 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2010-12-08
-last_amended: 2016-08-31
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "137/10, 76/12, 78/16"
+narodne_novine: "137/10, 76/12, 78/16, 46/17, 73/17, 114/22"
 amendments:
   - "NN 76/2012 (1759) Zakon o izmjenama i dopunama Zakona o Hrvatskoj radioteleviziji"
   - "NN 78/2016 (1791) Uredba o izmjeni Zakona o Hrvatskoj radioteleviziji"
+  - "NN 46/2017 (1071) Zakon o dopuni Zakona o Hrvatskoj radioteleviziji"
+  - "NN 73/2017 (1784) Ispravak Zakona o dopuni Zakona o Hrvatskoj radioteleviziji"
+  - "NN 114/2022 (1723) Zakon o izmjenama Zakona o Hrvatskoj radioteleviziji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2010/137/3515"
 retrieved: 2026-10-12
 ---
@@ -22,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 137/2010 (https://narodne-novine.nn.hr/eli/sluzbeni/2010/137/3515).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2012, NN 78/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2012, NN 78/2016, NN 46/2017, NN 73/2017, NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1408,3 +1411,166 @@ Zagreb, 31. kolovoza 2016.
 
 Predsjednik  
 Tihomir Orešković, v. r.
+
+## Zakon o dopuni Zakona o Hrvatskoj radioteleviziji (NN 46/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/46/1071*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O HRVATSKOJ RADIOTELEVIZIJI
+
+Proglašavam Zakon o dopuni Zakona o Hrvatskoj radioteleviziji, koji je Hrvatski sabor donio na sjednici 4. svibnja 2017.
+
+Klasa: 011-01/17-01/22  
+Urbroj: 71-06-01/1-17-2  
+Zagreb, 8. svibnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O HRVATSKOJ RADIOTELEVIZIJI**
+
+### Članak 1.
+
+U Zakonu o Hrvatskoj radioteleviziji (»Narodne novine«, br. 137/10., 76/12. i 78/16.) iza članka 36. dodaje se članak 36.a koji glasi:
+
+»Članak 36.a
+
+(1) HRT dospjelu neplaćenu mjesečnu pristojbu protiv pojedinog obveznika naplaćuje izdavanjem naloga za plaćanje.
+
+(2) Nalog za plaćanje protiv obveznika sadrži:
+
+– jedinstvenu internu slovno-brojčanu oznaku HRT-a,
+
+– naziv, adresu i OIB HRT-a,
+
+– ime i prezime, odnosno naziv obveznika, njegovu adresu i OIB (osim ako je riječ o stranoj fizičkoj osobi),
+
+– nalog obvezniku da u roku od osam dana HRT-u plati pojedinačne dužne dospjele iznose mjesečne pristojbe, zatezne kamate na te iznose (s početkom njihovog tijeka i visinom stope) i naknadu za izdavanje naloga od 100,00 kn,
+
+– uputu obvezniku o tome da u roku od osam dana od dana primitka može podnijeti prigovor HRT-u protiv naloga za plaćanje kojim će osporiti svoju obvezu i upozorenje o tome da će se u suprotnom na temelju naloga za plaćanje pokrenuti ovrha, te
+
+– pečat HRT-a i potpis odgovorne ili ovlaštene osobe od Glavnog ravnatelja HRT-a.
+
+(3) HRT nalog za plaćanje dostavlja obvezniku po pravilima dostave u ovršnom postupku, zajedno s ispravom iz koje proizlazi osnovanost tražbine. Danom predaje naloga za plaćanje pošti radi dostave obvezniku prekida se zastara tražbine.
+
+(4) Ako obveznik protiv naloga za plaćanje u roku od osam dana podnese prigovor HRT-u kojim osporava svoju obvezu, nalog za plaćanje ne proizvodi pravne učinke, a HRT može protiv obveznika podnijeti tužbu sudu, uz primjerak naloga za plaćanje, dokumentacije na temelju koje je izdan nalog za plaćanje i prigovora obveznika. Ako tužba sudu bude podnesena u roku od 45 dana od dana primitka prigovora, po pitanju zastare tražbine smatrat će se da je tužba podnesena s danom izdavanja naloga za plaćanje.
+
+(5) Uredno dostavljen nalog za plaćanje, protiv kojeg nije podnesen pravodoban prigovor HRT-u, jest ovršna isprava na temelju koje HRT po pravilima ovršnog postupka može pokrenuti ovrhu pred sudom i koja se može podnijeti FINA-i na izravnu naplatu. Po isteku roka od pet godina od dana kada je nalog za plaćanje postao ovršan, nalog za plaćanje se ne može izvršiti.
+
+(6) O zahtjevu za ukidanje potvrde ovršnosti na nalogu za plaćanje odlučuje u izvanparničnom postupku mjesno nadležan sud prema mjestu prebivališta odnosno sjedišta obveznika. Ako sud ukine potvrdu o ovršnosti, ukinut će nalog za plaćanje i uputiti HRT na parnicu u roku od 15 dana. U tom slučaju će se smatrati da zastara nije nastupila.
+
+(7) HRT-ove tražbine mjesečnih pristojbi nisu prenosive, osim u slučaju posebnog odobrenja osnivača.
+
+(8) HRT je u postupcima naplate mjesečne pristojbe samo u slučaju posebnog odobrenja osnivača ovlašten koristiti naplatne usluge zastupanja putem odvjetnika ili naplatne usluge zastupanja od strane drugih pravnih ili fizičkih osoba, osim u slučaju vođenja postupka pred sudom, kada HRT može koristiti takve naplatne usluge i bez suglasnosti osnivača.
+
+(9) Tijela državne uprave i pravne osobe s javnim ovlastima koji vode zbirke osobnih podataka i druge registre te leasing-društva dužni su bez naknade davati informacije HRT-u u svrhu naplate mjesečne pristojbe.
+
+(10) HRT je oslobođen sudskih i upravnih pristojbi u postupcima naplate mjesečne pristojbe.«.
+
+### Članak 2.
+
+(1) HRT je dužan uskladiti svoj rad, poslovanje, opće akte i računalne programe obrade podataka o obveznicima i mjesečnim pristojbama s odredbama ovoga Zakona.
+
+(2) Tražbine mjesečnih pristojbi koje dospijevaju do dana stupanja na snagu ovoga Zakona, naplaćivat će se po odredbama Zakona o Hrvatskoj radioteleviziji (»Narodne novine«, br. 137/10., 76/12. i 78/16.).
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2018.
+
+Klasa: 612-12/16-01/02  
+Zagreb, 4. svibnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Ispravak Zakona o dopuni Zakona o Hrvatskoj radioteleviziji (NN 73/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1784*
+
+HRVATSKI SABOR
+
+Nakon izvršene usporedbe s izvornim tekstom utvrđena je pogreška u Zakonu o dopuni Zakona o Hrvatskoj radioteleviziji koji je objavljen u »Narodnim novinama« broj 46 od 12. svibnja 2017. te se daje
+
+ISPRAVAK
+
+### ZAKONA O DOPUNI ZAKONA O HRVATSKOJ RADIOTELEVIZIJI
+
+U članku 1., dodanom članku 36.a, stavku 5. prva rečenica treba glasiti: »Uredno dostavljen nalog za plaćanje, protiv kojeg nije podnesen pravodoban prigovor HRT-u, jest ovršna isprava na temelju koje HRT po pravilima ovršnog postupka može pokrenuti ovrhu pred sudom i koja se može podnijeti FINA-i na izravnu naplatu ako HRT na taj nalog za plaćanje stavi potvrdu ovršnosti.«.
+
+Klasa: 612-12/16-01/02
+
+Zagreb, 21. srpnja 2017.
+
+Tajnik  
+Hrvatskoga sabora  
+Davor Orlović, dipl. iur., v. r.
+
+## Zakon o izmjenama Zakona o Hrvatskoj radioteleviziji (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1723*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O HRVATSKOJ RADIOTELEVIZIJI
+
+Proglašavam Zakon o izmjenama Zakona o Hrvatskoj radioteleviziji, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/121
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O HRVATSKOJ RADIOTELEVIZIJI**
+
+### Članak 1.
+
+U Zakonu o Hrvatskoj radioteleviziji (»Narodne novine«, br. 137/10., 76/12., 78/16., 46/17., 73/17. i 94/18.) u članku 46. stavku 1. riječi: »od 100.000,00 do 1.000.000,00 kuna« zamjenjuju se riječima: »od 13.270,00 do 132.720,00 eura«.
+
+U stavku 2. riječi: »od 10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 6630,00 eura«.
+
+### Članak 2.
+
+U članku 47. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 3.
+
+U članku 48. stavku 1. riječi: »od 5.000,00 kuna« zamjenjuju se riječima: »od 660,00 eura«.
+
+U stavku 2. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/121
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

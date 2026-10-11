@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2012-10-26
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "118/12"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "118/12, 70/17, 98/19"
+amendments:
+  - "NN 70/2017 (1666) Zakon o izmjeni i dopunama Zakona o osobnom imenu"
+  - "NN 98/2019 (1929) Zakon o izmjeni Zakona o osobnom imenu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/118/2550"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o osobnom imenu
 
 > Izvor: Narodne novine, NN 118/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/118/2550).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 70/2017, NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -186,3 +191,123 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni i dopunama Zakona o osobnom imenu (NN 70/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1666*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O OSOBNOM IMENU
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o osobnom imenu, koji je Hrvatski sabor donio na sjednici 7. srpnja 2017.
+
+Klasa: 011-01/17-01/61
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 13. srpnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O OSOBNOM IMENU**
+
+### Članak 1.
+
+U Zakonu o osobnom imenu (»Narodne novine«, br. 118/12.) u članku 3. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»Ako roditelji djeteta nisu djetetu odredili osobno ime u roku od 30 dana od dana rođenja djeteta, matičar koji je nadležan za upis tog djeteta u maticu rođenih dužan je o tome izvijestiti nadležni centar za socijalnu skrb radi određivanja osobnog imena djeteta.«.
+
+### Članak 2.
+
+Iza članka 5. dodaju se naslov iznad članka i članak 5.a koji glase:
+
+*»Vraćanje na prezime prije sklapanja životnog partnerstva*
+
+### Članak 5.a
+
+Životni partner koji je sklapanjem životnog partnerstva mijenjao prezime, u slučaju prestanka životnog partnerstva, može se u roku od godinu dana od dana prestanka životnog partnerstva vratiti na prezime koje je imao prije sklapanja životnog partnerstva.
+
+Izjava iz stavka 1. ovoga članka daje se pred matičarom te se upisuje u maticu rođenih.«.
+
+### Članak 3.
+
+U članku 7. stavak 3. mijenja se i glasi:
+
+»U slučaju nepostojanja suglasnosti drugog roditelja iz stavaka 1. i 2. ovoga članka, na spor roditelja primjenjuju se odredbe posebnog zakona kojima se uređuju obiteljski odnosi. Odluku nadležnog tijela roditelj će priložiti zahtjevu za promjenu osobnog imena djeteta.«.
+
+### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/37
+
+Zagreb, 7. srpnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o osobnom imenu (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1929*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O OSOBNOM IMENU
+
+Proglašavam Zakon o izmjeni Zakona o osobnom imenu, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/137
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O OSOBNOM IMENU**
+
+### Članak 1.
+
+U Zakonu o osobnom imenu (»Narodne novine«, br. 118/12. i 70/17.) u članku 6. stavak 3. mijenja se i glasi:
+
+»O promjeni osobnog imena, kao povjerenom poslu državne uprave, rješava nadležno upravno tijelo županije odnosno Grada Zagreba prema prebivalištu podnositelja zahtjeva.«.
+
+U stavku 4. riječi: »Nadležni ured dužan je« zamjenjuju se riječima: »Nadležno upravno tijelo iz stavka 3. ovoga članka dužno je«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/132
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -415,6 +415,7 @@ def table_html(tbl):
     s = re.sub(r"(<br>)+</t([dh])>", r"</t\2>", s)
     s = re.sub(r"\n\s*", "\n", s)
     s = s.replace("<tr>", "\n<tr>").replace("</table>", "\n</table>")
+    s = re.sub(r"\n\s*\n+", "\n", s)
     return s.strip()
 
 
@@ -499,7 +500,7 @@ def to_markdown(blocks, base_level=2):
         if has_title and first_art is not None and i < first_art and (i == body_start or (i == body_start + 1 and re.match(r"^(o|za|u|od|na|kojom|kojim)\s", t, re.I))):
             kinds[i] = "title"
             continue
-        if len(t) > 300:
+        if len(t) > 300 or re.search(r"[=<>×+]", t) or not re.search(r"[A-Za-zČĆŠŽĐčćšžđ]{3}", t):
             continue
         caption = ("kurz" in cls) or (b["italic"] and not b["centered"] and upper_ratio(t) < 0.5) or (
             b["italic"] and upper_ratio(t) < 0.5)
@@ -578,11 +579,17 @@ def convert_doc(path, base_level=2):
     src = load(path)
     soup = BeautifulSoup(src, "lxml")
     root = content_root(soup)
-    info = {"date": pub_date(src), "pdf": [], "empty": False}
+    info = {"date": pub_date(src), "pdf": [], "empty": False, "from_pdf": False}
     if root is None:
+        if os.path.exists(path + ".pdf"):
+            info["from_pdf"] = True
+            return pdf_markdown(path + ".pdf", base_level), info
         info["empty"] = True
+        info["pdf"] = pdf_links(soup)
         return "", info
-    for bad in root.select("#article-details, .detailsTable, .metaTable, script, style, p.broj-d"):
+    for bad in root.select("#article-details, .detailsTable, .metaTable, script, style"):
+        bad.decompose()
+    for bad in root.find_all("p", class_=lambda c: c and any(x.lower() == "broj-d" for x in (c if isinstance(c, list) else c.split()))):
         bad.decompose()
     blocks = blocks_of(root)
     md = to_markdown(blocks, base_level)
@@ -590,6 +597,44 @@ def convert_doc(path, base_level=2):
         info["empty"] = True
         info["pdf"] = pdf_links(root) or pdf_links(soup)
     return md, info
+
+
+def pdf_markdown(pdf, base_level):
+    """Text of a PDF-only document (pdftotext if available, else pypdf)."""
+    import subprocess
+    try:
+        txt = subprocess.run(["pdftotext", "-enc", "UTF-8", pdf, "-"], capture_output=True, check=True).stdout.decode("utf-8", "replace")
+    except (OSError, subprocess.CalledProcessError):
+        from pypdf import PdfReader
+        txt = "\n".join((pg.extract_text() or "") for pg in PdfReader(pdf).pages)
+    txt = txt.replace("\u00ad", "").replace("\f", "\n\n")
+    out, cur = [], []
+
+    def flush():
+        if cur:
+            out.append(esc_md(" ".join(cur)))
+            cur.clear()
+    for raw in txt.split("\n"):
+        ln = re.sub(r"\s+", " ", raw).strip()
+        if not ln:
+            flush()
+            continue
+        if (ln in ("NARODNE NOVINE",) or re.match(r"^STRANICA \d+ [–-] BROJ \d+", ln)
+                or re.match(r"^SLUŽBENI LIST REPUBLIKE HR", ln)
+                or re.match(r"^(PONEDJELJAK|UTORAK|SRIJEDA|ČETVRTAK|PETAK|SUBOTA|NEDJELJA), \d", ln)):
+            continue
+        if ART_RE.match(ln):
+            flush()
+            out.append("#" * min(6, base_level + 1) + " " + ln)
+            continue
+        if re.match(r"^(\(\d+\)|[–-] |[a-z]\) |\d+\) )", ln):
+            flush()
+        cur.append(ln)
+        if re.search(r"[.:;]$", ln):
+            flush()
+    flush()
+    return ("*Tekst je u Narodnim novinama objavljen samo u PDF obliku; ovdje je strojno izdvojen "
+            "iz službenog PDF-a (tablice nisu očuvane).*\n\n" + "\n\n".join(out))
 
 
 def plain_text(path):
@@ -652,7 +697,7 @@ HEAD_START_RE = re.compile(r"(?:Ustavni\s+)?(?:Zakon|Uredba|Zakonik|(?:[A-ZČĆ�
 
 
 def detect_repeals(text):
-    """Return list of (issue, year, name) for whole acts declared repealed in text."""
+    """Return list of ([(issue, year), ...], name) for whole acts declared repealed in text."""
     res = []
     for sent in re.split(r"(?<=[.;])\s+(?=[A-ZČĆŠŽĐ(])|Članak\s+\d+\.", text):
         if not REPEAL_CLAUSE_RE.search(sent):
@@ -665,7 +710,7 @@ def detect_repeals(text):
                 continue
             nn = parse_nn_list(m.group(2))
             if nn:
-                res.append((nn[0][0], nn[0][1], name.strip()))
+                res.append((nn, name.strip()))
     return res
 
 
@@ -791,6 +836,9 @@ def build():
     for k, lst in bases.items():
         for b in lst:
             by_nn[(b["issue"], b["year"])].append(b)
+            for c in b.get("changes", []):
+                if c["kind"] in ("amend", "pt", "corr"):
+                    by_nn[(c["issue"], c["year"])].append(b)
     nrep = 0
     for r in docs:
         if r["kind"] not in ("base", "amend") or r["cat"] == "ustav":
@@ -798,8 +846,13 @@ def build():
         txt = plain_text(r["path"])
         if "prestaj" not in txt and "izvan snage" not in txt and "prestanku važenja" not in txt:
             continue
-        for issue, year, name in detect_repeals(txt):
-            for b in by_nn.get((issue, year), []):
+        for refs, name in detect_repeals(txt):
+            cands = []
+            for ref in refs:
+                for b in by_nn.get(ref, []):
+                    if all(b is not x for x in cands):
+                        cands.append(b)
+            for b in cands:
                 if b is r or b["order"] >= r["order"]:
                     continue
                 # the cited name must match the base title

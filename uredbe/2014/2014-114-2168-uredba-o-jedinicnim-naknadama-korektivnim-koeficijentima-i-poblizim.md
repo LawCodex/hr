@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2014-09-26
-last_amended: 2014-12-12
+last_amended: 2021-01-08
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "114/14, 147/14"
+narodne_novine: "114/14, 147/14, 2/21"
 amendments:
   - "NN 147/2014 (2758) Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon"
+  - "NN 2/2021 (26) Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/114/2168"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 114/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/114/2168).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 147/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 147/2014, NN 2/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -65,7 +66,7 @@ K<sub>k</sub> – korektivni koeficijent ovisan o vrsti motora i pogonskoga gori
 
 (2) Obračun posebne naknade i rješenje o iznosu posebne naknade koju je obveznik plaćanja dužan uplatiti temelji se na podacima o vozilu i obvezniku plaćanja upisanim u popratnu tehničku dokumentaciju vozila, odnosno važeću knjižicu vozila ili važeću prometnu dozvolu, te podacima utvrđenim izravno na samom vozilu prilikom redovnih tehničkih pregleda.
 
-### II. JEDINIČNA NAKNADA (N<sub>o</sub>)
+II. JEDINIČNA NAKNADA (N<sub>o</sub>)
 
 #### Članak 6.
 
@@ -96,55 +97,44 @@ Vrijednosti početne naknade ovisne o vrsti vozila (n<sub>o</sub>):
 (1) Korektivni koeficijent (k<sub>o</sub>) ovisan o godišnje prijeđenom broju kilometara iznosi za:
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Oznaka vrste vozila (kategorija)</td>
 <td colspan="3">Vrijednost korektivnog koeficijenta<br>koji se odnosi na godišnje prijeđeni broj kilometara</td>
 </tr>
-
 <tr>
 <td>&lt; 10.000</td>
 <td>10.001 – 20.000</td>
 <td>&gt; 20.001</td>
 </tr>
-
 <tr>
 <td>M1</td>
 <td>1</td>
 <td>1,5</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>N1</td>
 <td rowspan="5" colspan="3">1,0</td>
 </tr>
-
 <tr>
 <td>L1, L2</td>
 </tr>
-
 <tr>
 <td>L3, L4, L5</td>
 </tr>
-
 <tr>
 <td>L6, L7</td>
 </tr>
-
 <tr>
 <td>T</td>
 </tr>
-
 <tr>
 <td>RS</td>
 <td rowspan="3" colspan="3"></td>
 </tr>
-
 <tr>
 <td>M2, M3</td>
 </tr>
-
 <tr>
 <td>N2, N3</td>
 </tr>
@@ -157,13 +147,13 @@ Vrijednosti početne naknade ovisne o vrsti vozila (n<sub>o</sub>):
 
 (4) Stanje putomjera je neupotrebljivo, ukoliko je razlika u odnosu na prethodno zabilježeno stanje putomjera negativna.
 
-### III. KOREKTIVNI KOEFICIJENT (K<sub>k</sub>)
+III. KOREKTIVNI KOEFICIJENT (K<sub>k</sub>)
 
 #### Članak 9.
 
 (1) Korektivni koeficijent (K<sub>k</sub>) za svako pojedino vozilo određuje se i izračunava prema izrazu:
 
-## K<sub>k</sub> = K<sub>1</sub> x K<sub>2</sub>x K<sub>3</sub>
+K<sub>k</sub> = K<sub>1</sub> x K<sub>2</sub>x K<sub>3</sub>
 
 (2) Korektivni koeficijent (K<sub>k</sub>) ovisan je o vrsti motora i pogonskoga goriva, radnom obujmu (volumenu), vrsti vozila, emisiji CO<sub>2</sub> i starosti vozila.
 
@@ -175,7 +165,7 @@ Vrijednosti početne naknade ovisne o vrsti vozila (n<sub>o</sub>):
 
 Korektivni koeficijent (K<sub>k</sub>) za vozila M<sub>1</sub> kategorije određuje se i izračunava prema izrazu:
 
-## K<sub>k</sub> = K<sub>1</sub> x K<sub>2</sub> x K<sub>3</sub>
+K<sub>k</sub> = K<sub>1</sub> x K<sub>2</sub> x K<sub>3</sub>
 
 u kojem je:
 
@@ -198,7 +188,6 @@ Za vozila za koja podatak o emisijskom razredu ne postoji, korektivni koeficijen
 (2) Korektivni koeficijent K<sub>2</sub> koji se odnosi na radni obujam (volumen) motora iznosi:
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Radni obujam motora [cm<sup>3</sup>]</td>
 <td>Ottov motor (2T, 4T) Wankelov motor</td>
@@ -206,14 +195,12 @@ Za vozila za koja podatak o emisijskom razredu ne postoji, korektivni koeficijen
 <td>1.601-2.200</td>
 <td>&gt; 2.200</td>
 </tr>
-
 <tr>
 <td>Dieselov motor</td>
 <td>&lt; 2.000</td>
 <td>2.001-2.500</td>
 <td>&gt; 2.500</td>
 </tr>
-
 <tr>
 <td colspan="2">K<sub>2</sub></td>
 <td>1</td>
@@ -267,7 +254,7 @@ Za vozila za koja u gornjoj tablici vrsta goriva nije navedena, korektivni koefi
 
 Korektivni koeficijent (Kk) za ostale kategorije vozila (L1, L2, L3, L4, L5, L6, L7, T, RS, M2, M3, N1, N2, N3) određuje se i izračunava prema izrazu:
 
-## K<sub>k</sub> = K<sub>1a</sub> x K<sub>2a</sub> x K<sub>3a</sub>
+K<sub>k</sub> = K<sub>1a</sub> x K<sub>2a</sub> x K<sub>3a</sub>
 
 u kojem je:
 
@@ -296,63 +283,51 @@ Za vozila opremljena vrstom motora koji nije naveden u gornjoj tablici ili koja 
 (2) Korektivni koeficijent (K<sub>2a</sub>) ovisan o radnom obujmu (volumenu) motora iznosi za:
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Radni obujam motora</td>
 <td colspan="2">K<sub>2</sub></td>
 </tr>
-
 <tr>
 <td>benzin, dizel, plin</td>
 <td>Elektromotor, hibridni pogon,<br>Alternativna pogonska goriva</td>
 </tr>
-
 <tr>
 <td>Manji od 50 cm<sup>3</sup></td>
 <td>0,80</td>
 <td rowspan="10">1,0</td>
 </tr>
-
 <tr>
 <td>od 51 do 250 cm<sup>3</sup></td>
 <td>0,85</td>
 </tr>
-
 <tr>
 <td>od 251 do 750 cm<sup>3</sup></td>
 <td>0,90</td>
 </tr>
-
 <tr>
 <td>od 751 do 1.400 cm<sup>3</sup></td>
 <td>0,95</td>
 </tr>
-
 <tr>
 <td>od 1.401 do 2.000 cm<sup>3</sup></td>
 <td>1,00</td>
 </tr>
-
 <tr>
 <td>od 2.001 do 4.000 cm<sup>3</sup></td>
 <td>1,20</td>
 </tr>
-
 <tr>
 <td>od 4.001 do 8.000 cm<sup>3</sup></td>
 <td>1,40</td>
 </tr>
-
 <tr>
 <td>od 8.001 do 12.000 cm<sup>3</sup></td>
 <td>1,60</td>
 </tr>
-
 <tr>
 <td>od 12.001 do 16.000 cm<sup>3</sup></td>
 <td>1,80</td>
 </tr>
-
 <tr>
 <td>veći od 16.001 cm<sup>3</sup></td>
 <td>2,00</td>
@@ -421,54 +396,43 @@ U Uredbi o jediničnim naknadama, korektivnim koeficijentima i pobližim kriteri
 »
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Oznaka vrste vozila (kategorija)</td>
 <td colspan="3">Vrijednost korektivnog koeficijenta (k<sub>0</sub>)<br>koji se odnosi na godišnje prijeđeni broj kilometara (l<sub>v</sub>)</td>
 </tr>
-
 <tr>
 <td>l<sub>v</sub> &lt; 10.000</td>
 <td>10.000 ≤ l<sub>v</sub> ≤ 20.000</td>
 <td>20.000 &lt; l<sub>v</sub></td>
 </tr>
-
 <tr>
 <td>M1</td>
 <td>1</td>
 <td>1,5</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>N1</td>
 <td rowspan="8" colspan="3">1,0</td>
 </tr>
-
 <tr>
 <td>L1, L2</td>
 </tr>
-
 <tr>
 <td>L3, L4, L5</td>
 </tr>
-
 <tr>
 <td>L6, L7</td>
 </tr>
-
 <tr>
 <td>T</td>
 </tr>
-
 <tr>
 <td>RS</td>
 </tr>
-
 <tr>
 <td>M2, M3</td>
 </tr>
-
 <tr>
 <td>N2, N3</td>
 </tr>
@@ -484,7 +448,6 @@ U članku 11. stavku 2. mijenja se tablica tako da glasi:
 »
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Radni obujam motora [cm<sup>3</sup>]<br> (V)</td>
 <td>Ottov motor (2T, <br>4T) Wankelov motor</td>
@@ -492,14 +455,12 @@ U članku 11. stavku 2. mijenja se tablica tako da glasi:
 <td>1.600 ≤ V ≤ 2.200</td>
 <td>2.200 &lt; V</td>
 </tr>
-
 <tr>
 <td>Dieselov motor</td>
 <td>V &lt; 2.000</td>
 <td>2.000 ≤ V ≤ 2.500</td>
 <td>2.500 &lt; V</td>
 </tr>
-
 <tr>
 <td colspan="2">K<sub>2</sub></td>
 <td>1</td>
@@ -542,63 +503,51 @@ U članku 15. stavku 2. mijenja se tablica tako da glasi:
 »
 
 <table><tbody>
-
 <tr>
 <td rowspan="2">Radni obujam motora (V)</td>
 <td colspan="2">K<sub>2</sub></td>
 </tr>
-
 <tr>
 <td>benzin, dizel, plin</td>
 <td>Elektromotor, hibridni pogon,<br>Alternativna pogonska goriva</td>
 </tr>
-
 <tr>
 <td>V ≤ 50 cm<sup>3</sup></td>
 <td>0,80</td>
 <td rowspan="10">1,0</td>
 </tr>
-
 <tr>
 <td>50 &lt; V ≤ 250 cm<sup>3</sup></td>
 <td>0,85</td>
 </tr>
-
 <tr>
 <td>250 &lt; V ≤ 750 cm<sup>3</sup></td>
 <td>0,90</td>
 </tr>
-
 <tr>
 <td>750 &lt; V ≤ 1.400 cm<sup>3</sup></td>
 <td>0,95</td>
 </tr>
-
 <tr>
 <td>1.400 &lt; V ≤ 2.000 cm<sup>3</sup></td>
 <td>1,00</td>
 </tr>
-
 <tr>
 <td>2.000 &lt; V ≤ 4.000 cm<sup>3</sup></td>
 <td>1,20</td>
 </tr>
-
 <tr>
 <td>4.000 &lt; V ≤ 8.000 cm<sup>3</sup></td>
 <td>1,40</td>
 </tr>
-
 <tr>
 <td>8.000 &lt; V ≤ 12.000 cm<sup>3</sup></td>
 <td>1,60</td>
 </tr>
-
 <tr>
 <td>12.000 &lt; V ≤ 16.000 cm<sup>3</sup></td>
 <td>1,80</td>
 </tr>
-
 <tr>
 <td>V &gt; 16.000 cm<sup>3</sup></td>
 <td>2,00</td>
@@ -637,3 +586,90 @@ Zagreb, 11. prosinca 2014.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon (NN 2/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/2/26*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 17. stavka 1., a u vezi s člankom 16. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine«, br. 107/03. i 144/12.), Vlada Republike Hrvatske je na sjednici održanoj 7. siječnja 2021. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O JEDINIČNIM NAKNADAMA, KOREKTIVNIM KOEFICIJENTIMA I POBLIŽIM KRITERIJIMA I MJERILIMA ZA UTVRĐIVANJE POSEBNE NAKNADE ZA OKOLIŠ NA VOZILA NA MOTORNI POGON**
+
+### Članak 1.
+
+U Uredbi o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon (»Narodne novine«, br. 114/14. i 147/14.), članak 7. mijenja se i glasi:
+
+»Vrijednosti početne naknade ovisne o vrsti vozila (n<sub>o</sub>):
+
+| Oznaka vrste vozila (kategorija) | Iznos početne naknade (n<sub>o</sub>), u kunama |
+|---|---|
+| M1 | 33,25 |
+| N1 | 76,00 |
+| L1, L2 | 28,50 |
+| L3, L4, L5 | 47,50 |
+| L6, L7 | 47,50 |
+| T | 47,50 |
+| RS | 114,00 |
+| M2, M3 | 304,00 |
+| N2, N3 | 456,00 |
+
+«.
+
+### Članak 2.
+
+U članku 11. stavak 3. mijenja se i glasi:
+
+»(3) Korektivni koeficijent K<sub>3</sub> koji se odnosi na vrstu goriva iznosi:
+
+| Gorivo | benzin | dizelsko gorivo | hibridni pogon |
+|---|---|---|---|
+| K<sub>3</sub> | 1 | 1,2 | 0,5 |
+
+Za vozila koja za pogon koriste alternativna goriva definirana posebnim propisom kojim se uređuje uspostava infrastrukture za alternativna goriva korektivni koeficijent K<sub>3</sub> iznosi 0,0.
+
+Za vozila za koja u gornjoj tablici vrsta goriva nije navedena, a za pogon ne koriste alternativna goriva, korektivni koeficijent K<sub>3</sub> iznosi 1.«.
+
+### Članak 3.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Za vozila koja za pogon koriste alternativna goriva definirana posebnim propisom kojim se uređuje uspostava infrastrukture za alternativna goriva korektivni koeficijent K<sub>k</sub> iznosi 0,0.
+
+(2) Za vozila na hibridni pogon korektivni koeficijent K<sub>k</sub> iznosi 0,5.
+
+(3) Za vozila M1 kategorije koja su starija od 30 godina (»oldtimer«) s važećom identifikacijskom ispravom starodobnog vozila koju izdaje mjerodavna udruga sukladno posebnom propisu, korektivni koeficijent K<sub>k</sub> iznosi 0,5.«.
+
+### Članak 4.
+
+U članku 15. stavak 1. mijenja se i glasi:
+
+»(1) Korektivni koeficijent (K<sub>1a</sub>) ovisan o vrsti motora i pogonskog goriva iznosi za:
+
+| Vrsta motora | Vrsta goriva | K<sub>1a</sub> |
+|---|---|---|
+| Ottov motor dvotaktni | (motorni benzin) | 2,0 |
+| Ottov motor četverotaktni | (motorni benzin) | 1,0 |
+| Rotacijski motor | (motorni benzin) | 1,5 |
+| Dieselov motor | (dizelsko gorivo, biodizel) | 1,0 |
+| Hibridni pogon | (motorni benzin, plin ili dizelsko gorivo s električnom strujom) | 0,5 |
+
+Za vozila koja za pogon koriste alternativna goriva definirana posebnim propisom kojim se uređuje uspostava infrastrukture za alternativna goriva korektivni koeficijent K<sub>1a</sub> iznosi 0,0.
+
+Za vozila opremljena vrstom motora koji nije naveden u gornjoj tablici ili koja koriste gorivo koje nije navedeno u gornjoj tablici, korektivni koeficijent K<sub>1a</sub> iznosi 1,0.«.
+
+### Članak 5.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/28
+
+Urbroj: 50301-05/31-21-3
+
+Zagreb, 7. siječnja 2021.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

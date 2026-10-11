@@ -977,97 +977,78 @@ DODATAK IV.
 Zahtjevi glede sastava i osobina kakvoće obranog mlijeka u prahu
 
 <table><tbody>
-
 <tr>
 <td>Parametri</td>
 <td>Sadržaj i osobine kakvoće</td>
 </tr>
-
 <tr>
 <td>sadržaj bjelančevina</td>
 <td>najmanje 34,0 % glede nemasne suhe tvari</td>
 </tr>
-
 <tr>
 <td>sadržaj masti</td>
 <td>najviše 1,00 %</td>
 </tr>
-
 <tr>
 <td>sadržaj vode</td>
 <td>najviše 3,5 %</td>
 </tr>
-
 <tr>
 <td>titracijska kiselost u ml decinormalne otopine natrijevog hidroksida</td>
 <td>najviše 19,5 ml</td>
 </tr>
-
 <tr>
 <td>sadržaj laktata</td>
 <td>najviše 150 mg/100 g</td>
 </tr>
-
 <tr>
 <td>aditivi</td>
 <td>nema ih</td>
 </tr>
-
 <tr>
 <td>pokus na fosfatazu</td>
 <td>negativan, tj. nema više od 350 mU fosfatazne aktivnosti po litri rekonstituiranog mlijeka</td>
 </tr>
-
 <tr>
 <td>indeks topivosti</td>
 <td>najviše 0,5 ml (24 °C)</td>
 </tr>
-
 <tr>
 <td>indeks sagorjelih čestica</td>
 <td>najviše 15,0 mg, tj. minimalno disk B</td>
 </tr>
-
 <tr>
 <td>sadržaj mikroorganizama</td>
 <td>najviše 40 000 po gramu</td>
 </tr>
-
 <tr>
 <td>utvrđivanje koliformnih bakterija</td>
 <td>negativno u 0,1 g</td>
 </tr>
-
 <tr>
 <td>utvrđivanje mlaćenice1</td>
 <td>negativno2</td>
 </tr>
-
 <tr>
 <td>utvrđivanje sirutke dobivene sirištem3</td>
 <td>nema</td>
 </tr>
-
 <tr>
 <td>utvrđivanje sirutke dobivene kiselinom3</td>
 <td>nema</td>
 </tr>
-
 <tr>
 <td>okus i miris</td>
 <td>čist</td>
 </tr>
-
 <tr>
 <td>izgled</td>
 <td>bijele ili lagano žućkaste boje, bez nečistoća i obojanih čestica</td>
 </tr>
-
 <tr>
 <td>antimikrobne tvari</td>
 <td>negativno</td>
 </tr>
-
 <tr>
 <td colspan="2">1 'Mlaćenica' je nusproizvod u proizvodnji maslaca, koji se dobiva nakon bućkanja vrhnja i razdvajanja krute masti.<br> 2 Odsutnost mlaćenice može se utvrditi bilo inspekcijskim pregledom proizvodnog programa, kontrolom na terenu, bez prethodne najave, najmanje jedanput tjedno, ili laboratorijskim ispitivanjima krajnjeg proizvoda koja pokazuje najviše 69,31 mg FEDP na 100 g.<br> 3 'Sirutka' je nusproizvod u proizvodnji sira ili kazeina koja se dobije djelovanjem kiselina, sirišta i/ili kemijsko-fizičkim procesima.</td>
 </tr>

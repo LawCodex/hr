@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2012-03-21
-last_amended: 2013-02-28
+last_amended: 2018-12-19
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "34/12, 25/13"
+narodne_novine: "34/12, 25/13, 114/18"
 amendments:
   - "NN 25/2013 (409) Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EZ) br. 648/2004 Europskoga parlamenta i Vijeća od 31. ožujka 2004. godine o deterdžentima"
+  - "NN 114/2018 (2203) Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 648/2004 Europskoga parlamenta i Vijeća od 31. ožujka 2004. godine o deterdžentima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/814"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 34/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/814).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2013, NN 114/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -229,3 +230,66 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 648/2004 Europskoga parlamenta i Vijeća od 31. ožujka 2004. godine o deterdžentima (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2203*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBE (EZ) BR. 648/2004 EUROPSKOGA PARLAMENTA I VIJEĆA OD 31. OŽUJKA 2004. GODINE O DETERDŽENTIMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 648/2004 Europskoga parlamenta i Vijeća od 31. ožujka 2004. godine o deterdžentima, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/191
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBE (EZ) BR. 648/2004 EUROPSKOGA PARLAMENTA I VIJEĆA OD 31. OŽUJKA 2004. GODINE O DETERDŽENTIMA**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EZ) br. 648/2004 Europskoga parlamenta i Vijeća od 31. ožujka 2004. godine o deterdžentima (»Narodne novine«, br. 34/12. i 25/13.) u članku 3. stavku 1. riječi: »Ministarstvo zdravlja« zamjenjuju se riječima: »ministarstvo nadležno za zdravstvo«.
+
+U stavku 2. riječi: »ministar zdravlja« zamjenjuju se riječima: »ministar nadležan za zdravstvo«.
+
+### Članak 2.
+
+Naslov iznad članka 5. mijenja se i glasi: »Inspekcijski nadzor«.
+
+Članak 5. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor nad provedbom Uredbe (EZ) br. 648/2004 i ovoga Zakona obavljaju sanitarni inspektori Državnog inspektorata sukladno propisima kojima je uređen djelokrug i ovlasti Državnog inspektorata te nadzor nad predmetima opće uporabe i kemikalijama.
+
+(2) Upravni nadzor nad provedbom Uredbe (EZ) br. 648/2004 i ovoga Zakona obavlja Ministarstvo.
+
+(3) Ako određeni deterdžent koji ispunjava uvjete iz Uredbe (EZ) br. 648/2004 predstavlja rizik za zdravlje ljudi, okoliš ili životinje, sanitarni inspektor Državnog inspektorata ovlašten je privremeno zabraniti stavljanje na tržište tog deterdženta na području Republike Hrvatske, narediti povlačenje tog proizvoda s tržišta Republike Hrvatske, narediti povlačenje od potrošača ili ograničiti njegovu dostupnost na tržištu Republike Hrvatske u skladu s člankom 15. Uredbe (EZ) br. 648/2004.«.
+
+### Članak 3.
+
+U članku 8. stavku 2. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/197  
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

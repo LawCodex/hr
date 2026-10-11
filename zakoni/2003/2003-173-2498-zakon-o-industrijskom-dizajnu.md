@@ -6,15 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2003-10-31
-last_amended: 2011-04-29
+last_amended: 2018-05-18
 status: in_force
-status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "173/03, 76/07, 30/09, 49/11"
+narodne_novine: "173/03, 76/07, 30/09, 49/11, 46/18"
 amendments:
   - "NN 76/2007 (2411) Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu"
   - "NN 30/2009 (655) Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu"
   - "NN 49/2011 (1100) Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu"
+  - "NN 46/2018 (864) Zakon o izmjenama Zakona o industrijskom dizajnu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2498"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 173/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2498).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007, NN 30/2009, NN 49/2011.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2007, NN 30/2009, NN 49/2011, NN 46/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1484,3 +1485,85 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama Zakona o industrijskom dizajnu (NN 46/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/46/864*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O INDUSTRIJSKOM DIZAJNU
+
+Proglašavam Zakon o izmjenama Zakona o industrijskom dizaj­nu, koji je Hrvatski sabor donio na sjednici 10. svibnja 2018.
+
+Klasa: 011-01/18-01/53
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 15. svibnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O INDUSTRIJSKOM DIZAJNU**
+
+#### Članak 1.
+
+U Zakonu o industrijskom dizajnu (»Narodne novine«, br. 173/03., 54/05., 76/07., 30/09. i 49/11.) u članku 23. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Protiv rješenja Zavoda žalba nije dopuštena, ali se može pokrenuti upravni spor pred Upravnim sudom u Zagrebu.
+
+(3) Postupak iz stavka 2. ovoga članka je hitan.«.
+
+#### Članak 2.
+
+U članku 38.a stavku 4. točka 4. briše se.
+
+Dosadašnje točke 5. i 6. postaju točke 4. i 5.
+
+#### Članak 3.
+
+U članku 46. iza riječi: »Zakonom« riječi: »te za podnošenje žalbe« brišu se.
+
+#### Članak 4.
+
+Naziv dijela trinaestog: »ŽALBA«, naslovi iznad članaka i članci 52.a do 52.d brišu se.
+
+#### Članak 5.
+
+U članku 56.g stavku 3. iza riječi: »Zavod« brišu se zarez i riječi: »odnosno Žalbeno vijeće«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 6.
+
+Ministar nadležan za nadzor nad radom Državnog zavoda za intelektualno vlasništvo uskladit će Pravilnik o industrijskom dizajnu (»Narodne novine«, br. 72/04., 117/07., 66/11., 125/13. i 43/17.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 7.
+
+(1) Upravni postupci započeti po odredbama Zakona o industrijskom dizajnu (»Narodne novine«, br. 173/03., 54/05., 76/07., 30/09. i 49/11.) u kojima je Državni zavod za intelektualno vlasništvo kao tijelo prvog stupnja donio rješenje do dana stupanja na snagu ovoga Zakona, dovršit će se po odredbama toga Zakona i propisa donesenih na temelju toga Zakona.
+
+(2) Žalbena vijeća u području prava industrijskog vlasništva osnovana i imenovana temeljem Zakona o patentu (»Narodne novine«, br. 173/03., 54/05., 87/05., 76/07., 30/09., 128/10., 49/11. i 76/13.) nastavljaju s radom sukladno odredbama toga Zakona i propisa donesenih na temelju toga Zakona dok svi upravni postupci iz stavka 1. ovoga članka ne budu pravomoćno riješeni, nakon čega prestaju s radom.
+
+(3) U slučaju da zbog razrješenja predsjednika ili članova Žalbenih vijeća iz stavka 2. ovoga članka ne bude moguće odrediti Žalbeno vijeće koje odlučuje o žalbi, iznimno se može provesti postupak izbora i imenovanja predsjednika ili potrebnog broja članova Žalbenih vijeća sukladno odredbama Zakona o patentu (»Narodne novine«, br. 173/03., 54/05., 87/05., 76/07., 30/09., 128/10., 49/11. i 76/13.), za potrebe rješavanja predmeta iz stavka 1. ovoga članka.
+
+#### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/13
+
+Zagreb, 10. svibnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

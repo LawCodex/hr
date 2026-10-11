@@ -6,16 +6,21 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2003-02-12
-last_amended: 2013-02-28
+last_amended: 2025-01-20
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "22/03, 48/03, 39/06, 36/07, 25/13"
+narodne_novine: "22/03, 48/03, 39/06, 36/07, 25/13, 48/18, 15/19, 99/22, 101/23, 9/25"
 amendments:
   - "NN 48/2003 (607) Uredba o izmjenama i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
   - "NN 39/2006 (949) Uredba o izmjenama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
   - "NN 36/2007 (1163) Uredba o dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
   - "NN 25/2013 (416) Uredba o izmjeni Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
+  - "NN 48/2018 (913) Uredba o izmjenama i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
+  - "NN 15/2019 (296) Uredba o izmjenama i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
+  - "NN 99/2022 (1446) Uredba o izmjenama i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
+  - "NN 101/2023 (1470) Uredba o izmjeni i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
+  - "NN 9/2025 (79) Uredba o izmjenama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/22/322"
 retrieved: 2026-10-12
 ---
@@ -24,7 +29,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 22/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/22/322).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2003, NN 39/2006, NN 36/2007, NN 25/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 48/2003, NN 39/2006, NN 36/2007, NN 25/2013, NN 48/2018, NN 15/2019, NN 99/2022, NN 101/2023, NN 9/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -801,7 +806,7 @@ Na temelju članka 50. stavka 1. Zakona o vanjskim poslovima (»Narodne novine«
 
 U Uredbi o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/2003, 48/2003 i 39/2006), iza članka 13. dodaje se novi članak 13.a koji glasi:
 
-*»13.a*
+»13.a
 
 (1) Diplomat u predstavništvu u inozemstvu ima pravo na dodatak na posebno opterećenje i to 10% od koeficijenta polazne osnovice složenosti poslova.  
 (2) Odluku o državama, odnosno predstavništvima i razdoblju za koje se utvrđuje dodatak iz stavka 1. ovoga članka donosi ministar vanjskih poslova i europskih integracija.«
@@ -889,3 +894,574 @@ Zoran Milanović, v. r.
 | Viši stručni referent | 2,231 |
 | Administrativni referent | 2,134 |
 | Djelatnik sigurnosti, domar, vozač | 2,134 |
+
+## Uredba o izmjenama i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (NN 48/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/48/913*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 50. stavka 1. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96, 72/13, 127/13 i 39/18), na prijedlog ministrice vanjskih i europskih poslova, Vlada Republike Hrvatske je na sjednici održanoj 24. svibnja 2018. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O PLAĆAMA, DODACIMA I NAKNADAMA U SLUŽBI VANJSKIH POSLOVA**
+
+#### Članak 1.
+
+U Uredbi o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/03, 48/03, 39/06, 36/07 i 25/13), članak 3. mijenja se i glasi:
+
+(1) Plaću diplomata u predstavništvu u inozemstvu, sukladno njegovom diplomatskom zvanju čini zbroj: umnoška koeficijenta polazne osnovice složenosti poslova prema diplomatskim, konzularnim i administrativno-tehničkim zvanjima u predstavništvima u inozemstvu (Prilog I.) i devizne vrijednosti koeficijenta s prosječnim koeficijentom troškova života u državi primateljici utvrđenim na temelju službene statistike Ujedinjenih naroda za prethodnu kalendarsku godinu (Prilog II.) i umnoška koeficijenta polazne osnovice složenosti poslova prema diplomatskim, konzularnim i administrativno-tehničkim zvanjima u predstavništvima u inozemstvu (Prilog I.) i devizne vrijednosti koeficijenta s postotkom na kategoriju važnosti predstavništva u inozemstvu (Prilog III.). Prilozi I., II., i III. sastavni su dijelovi ove Uredbe.
+
+(2) Prosječni koeficijenti troškova života usklađuju se, primjenom metodologije iz stavka 1. ovoga članka, jedanput godišnje, najkasnije do 31. ožujka, odlukom ministra vanjskih i europskih poslova, a primjenjuju se od 1. travnja tekuće godine.
+
+(3) U slučaju osnivanja novog predstavništva u inozemstvu Vlada će na prijedlog ministra vanjskih i europskih poslova posebnom odlukom utvrditi koeficijent troškova života i kategoriju važnosti za novoosnovano predstavništvo u inozemstvu.
+
+(4) Deviznu vrijednost koeficijenta iz stavka 1. ovoga članka utvrđuje Vlada na prijedlog ministra vanjskih i europskih poslova posebnom odlukom.
+
+#### Članak 2.
+
+Članak 13. mijenja se i glasi:
+
+(1) Diplomati u predstavništvu u inozemstvu imaju pravo na dodatke za posebne:
+
+a) teške klimatske uvjete mjesta rada – 10% od koeficijenta polazne osnovice složenosti poslova
+
+b) neodgovarajuće životne i zdravstvene uvjete – 10% od koeficijenta polazne osnovice složenosti poslova
+
+c) neodgovarajuće sigurnosne uvjete – 10% od koeficijenta polazne osnovice složenosti poslova
+
+(2) Odluku o državama i razdoblju na koje se utvrđuju dodaci iz stavka 1. ovoga članka, donosi ministar vanjskih i europskih poslova.
+
+#### Članak 3.
+
+U članku 15. stavci 1. i 2. mijenjaju se i glase:
+
+(1) Diplomatu koji je pored šefa predstavništva jedini diplomat u predstavništvu u inozemstvu, u slučaju posebne radne opterećenosti, može biti odobren dodatak u iznosu od 10% koeficijenta polazne osnovice složenosti poslova. U slučaju posebne radne opterećenosti, ovaj dodatak može se odobriti i diplomatu u misiji pri međunarodnoj organizaciji tijekom predsjedavanja komisijom, odborom ili drugim tijelom te međunarodne organizacije.
+
+(2) Pravo na dodatak iz stavka 1. ovoga članka i njegovo trajanje, na prijedlog šefa diplomatskog predstavništva, utvrđuje ministar vanjskih i europskih poslova rješenjem.
+
+#### Članak 4.
+
+U članku 16. stavku 1. točka 8., briše se.
+
+Dosadašnja točka 9., postaje točka 8.
+
+Stavak 2. mijenja se i glasi: »Naknada iz stavka 1. ovoga članka obračunava se u valuti u kojoj se isplaćuje devizna plaća.«.
+
+#### Članak 5.
+
+Naslov iznad članka 29. i članak 29. brišu se.
+
+#### Članak 6.
+
+U naslovu iznad članka 30. broj »4.9.« zamjenjuje se brojem »4.8.«
+
+#### Članak 7.
+
+U članku 37. iza rednog broja 13., dodaje se broj 15.
+
+#### Članak 8.
+
+U cijelom tekstu Uredbe riječi: »Ministarstvo vanjskih poslova« i »Ministarstvo« u određenom padežu zamjenjuju se riječima: »Ministarstvo vanjskih i europskih poslova« u odgovarajućem padežu, a riječi: »ministar vanjskih poslova« u određenom padežu zamjenjuju se riječima: »ministar vanjskih i europskih poslova« u odgovarajućem padežu.
+
+U cijelom tekstu Uredbe riječi: »tajništvo« i »tajnik ministarstva« zamjenjuju se riječima »glavno tajništvo« i »glavni tajnik ministarstva«, u odgovarajućem padežu.
+
+#### Članak 9.
+
+Prilog II. Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/03, 48/03, 39/06, 36/07 i 25/13) zamjenjuje se Prilogom II. Koeficijenti troškova života u državama u kojima Republika Hrvatska ima predstavništva, koji je sastavni dio ove Uredbe.
+
+#### Članak 10.
+
+Ova Uredba objavit će se u Narodnim novinama, a stupa na snagu 1. lipnja 2018. godine.
+
+Klasa: 022-03/18-03/35  
+Urbroj: 50301-23/21-18-2  
+Zagreb, 24. svibnja 2018.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+### PRILOG II.
+
+KOEFICIJENTI TROŠKOVA ŽIVOTA U DRŽAVAMA U KOJIMA REPUBLIKA HRVATSKA IMA PREDSTAVNIŠTVA
+
+| DMKU | Koeficijent troškova života |
+|---|---|
+| ALŽIR – VELEPOSLANSTVO | 1,05 |
+| ANKARA – VELEPOSLANSTVO | 0,95 |
+| ASTANA – VELEPOSLANSTVO | 1,05 |
+| ATENA – VELEPOSLANSTVO | 0,95 |
+| BAGDAD – VELEPOSLANSTVO | 1,10 |
+| BAKU – VELEPOSLANSTVO | 0,95 |
+| BANJA LUKA – GENERALNI KONZULAT | 0,95 |
+| BEČ – VELEPOSLANSTVO | 1,15 |
+| BEČ – STALNA MISIJA PRI OSCE, UN | 1,15 |
+| BEOGRAD – VELEPOSLANSTVO | 1,00 |
+| BERLIN – VELEPOSLANSTVO | 1,05 |
+| BERN – VELEPOSLANSTVO | 1,30 |
+| BRATISLAVA – VELEPOSLANSTVO | 1,00 |
+| BRAZILIJA – VELEPOSLANSTVO | 1,10 |
+| BRUXELLES – VELEPOSLANSTVO | 1,15 |
+| BRUXELLES – STALNA MISIJA PRI EU | 1,15 |
+| BRUXELLES – STALNA MISIJA PRI NATO | 1,15 |
+| BUDIMPEŠTA – VELEPOSLANSTVO | 1,00 |
+| BUENOS AIRES – VELEPOSLANSTVO | 1,15 |
+| BUKUREŠT – VELEPOSLANSTVO | 0,95 |
+| CANBERRA – VELEPOSLANSTVO | 1,10 |
+| CHICAGO – GENERALNI KONZULAT | 1,10 |
+| COPENHAGEN – VELEPOSLANSTVO | 1,15 |
+| DEN HAAG – VELEPOSLANSTVO | 1,10 |
+| DOHA – VELEPOSLANSTVO | 1,05 |
+| DUBAI – GENERALNI KONZULAT | 1,10 |
+| DUBLIN – VELEPOSLANSTVO | 1,00 |
+| DÜSSELDORF – GENERALNI KONZULAT | 1,05 |
+| FRANKFURT – GENERALNI KONZULAT | 1,05 |
+| HAMBURG – GENERALNI KONZULAT | 1,05 |
+| HELSINKI – VELEPOSLANSTVO | 1,10 |
+| ISTANBUL – GENERALNI KONZULAT | 0,95 |
+| JAKARTA – VELEPOSLANSTVO | 1,05 |
+| KAIRO – VELEPOSLANSTVO | 0,95 |
+| KIJEV – VELEPOSLANSTVO | 1,00 |
+| KOTOR – GENERALNI KONZULAT | 1,00 |
+| KUALA LUMPUR – VELEPOSLANSTVO | 1,10 |
+| KUVAJT – VELEPOSLANSTVO | 1,10 |
+| LISABON – VELEPOSLANSTO | 1,05 |
+| LIVNO – GENERALNI KONZULAT | 0,95 |
+| LONDON – VELEPOSLANSTVO | 1,10 |
+| LOS ANGELES – GENERALNI KONZULAT | 1,10 |
+| LJUBLJANA – VELEPOSLANSTVO | 1,00 |
+| MADRID – VELEPOSLANSTVO | 1,00 |
+| MELBOURNE – GENERALNI KONZULAT | 1,10 |
+| MILANO – GENERALNI KONZULAT | 1,10 |
+| MISSISSAUGA – GENERALNI KONZULAT | 1,10 |
+| MOSKVA – VELEPOSLANSTVO | 1,15 |
+| MOSTAR – GENERALNI KONZULAT | 0,95 |
+| MÜNCHEN – GENERALNI KONZULAT | 1,05 |
+| NEW DELHI – VELEPOSLANSTVO | 1,00 |
+| NEW YORK – GENERALNI KONZULAT | 1,20 |
+| NEW YORK – STALNA MISIJA PRI UN | 1,20 |
+| OSLO – VELEPOSLANSTVO | 1,15 |
+| OTTAWA – VELEPOSLANSTVO | 1,10 |
+| PARIS – VELEPOSLANSTVO | 1,10 |
+| PEČUH – GENERALNI KONZULAT | 1,00 |
+| PEKING – VELEPOSLANSTVO | 1,10 |
+| PERTH – KONZULAT | 1,10 |
+| PODGORICA – VELEPOSLANSTVO | 1,00 |
+| PRAG – VELEPOSLANSTVO | 1,00 |
+| PRETORIJA – VELEPOSLANSTVO | 0,95 |
+| PRIŠTINA – VELEPOSLANSTVO | 1,00 |
+| RABAT – VELEPOSLANSTVO | 0,95 |
+| RIM – VELEPOSLANSTVO | 1,10 |
+| SANTIAGO DE CHILE – VELEPOSLANSTVO | 1,05 |
+| SARAJEVO – VELEPOSLANSTVO | 0,95 |
+| SEOUL – VELEPOSLANSTVO | 1,20 |
+| SKOPJE – VELEPOSLANSTVO | 1,00 |
+| SOFIJA – VELEPOSLANSTVO | 1,00 |
+| STOCKHOLM – VELEPOSLANSTVO | 1,05 |
+| STRASBOURG – STALNA MISIJA PRI VIJEĆU EUROPE | 1,10 |
+| STUTTGART – GENERALNI KONZULAT | 1,05 |
+| SUBOTICA – GENERALNI KONZULAT | 1,00 |
+| SVETA STOLICA – VELEPOSLANSTVO | 1,10 |
+| SYDNEY – GENERALNI KONZULAT | 1,10 |
+| TEHERAN – VELEPOSLANSTVO | 1,05 |
+| TEL AVIV – VELEPOSLANSTVO | 1,15 |
+| TIRANA – VELEPOSLANSTVO | 1,00 |
+| TOKYO – VELEPOSLANSTVO | 1,15 |
+| TRIPOLI – VELEPOSLANSTVO | 0,95 |
+| TRST – GENERALNI KONZULAT | 1,10 |
+| TUZLA – GENERALNI KONZULAT | 0,95 |
+| VILNIUS – VELEPOSLANSTVO | 1,05 |
+| VITEZ – GENERALNI KONZULAT | 0,95 |
+| WARSZAWA – VELEPOSLANSTVO | 0,95 |
+| WASHINGTON – VELEPOSLANSTVO | 1,10 |
+| ZÜRICH – GENERALNI KONZULAT | 1,30 |
+| ŽENEVA – STALNA MISIJA PRI UN | 1,30 |
+
+## Uredba o izmjenama i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (NN 15/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/15/296*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 50. stavka 1., a u vezi s člankom 64. stavkom 1. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96, 72/13, 127/13 i 39/18), na prijedlog ministrice vanjskih i europskih poslova, Vlada Republike Hrvatske je na sjednici održanoj 7. veljače 2019. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O PLAĆAMA, DODACIMA I NAKNADAMA U SLUŽBI VANJSKIH POSLOVA**
+
+#### Članak 1.
+
+U Uredbi o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/03, 48/03, 39/06, 36/07, 25/13 i 48/18), u članku 2. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ostala prava iz radnog odnosa, koja nisu regulirana ovom Uredbom, profesionalni i ugovorni diplomat, državni službenik i namještenik u službi vanjskih poslova, ostvaruje sukladno općim propisima o državnim službenicima i namještenicima, općim propisima o radu te u skladu s odredbama Kolektivnog ugovora za državne službenike i namještenike.«.
+
+U dosadašnjem stavku 2. koji postaje stavak 3. iza riječi: »stavka 1.« dodaju se riječi: »i 2.«.
+
+#### Članak 2.
+
+U članku 13. stavku 1. točka c) mijenja se i glasi:
+
+»c) neodgovarajuće sigurnosne uvjete, i to:
+
+1. umjereni sigurnosni rizik – 10% od koeficijenta polazne osnovice složenosti poslova
+
+2. visoki sigurnosni rizik – 20% od koeficijenta polazne osnovice složenosti poslova ili
+
+3. izuzetno visoki sigurnosni rizik – 30% od koeficijenta polazne osnovice složenosti poslova.«.
+
+#### Članak 3.
+
+Naziv poglavlja iza članka 30. mijenja se i glasi:
+
+»5. PLAĆE I NAKNADE U SJEDIŠTU SLUŽBE VANJSKIH POSLOVA«
+
+#### Članak 4.
+
+Članak 31. mijenja se i glasi:
+
+(1) Zaposleni u sjedištu službe vanjskih poslova ima pravo na plaću.
+
+(2) Diplomat u sjedištu službe vanjskih poslova ima pravo na:
+
+a) naknadu kunske plaće
+
+b) naknadu troškova za protokolarne obaveze vezane za promicanje interesa Republike Hrvatske i
+
+c) naknadu troškova stanovanja.
+
+#### Članak 5.
+
+Iza članka 31. dodaje se članak 31.a koji glasi:
+
+»Članak 31.a
+
+(1) Plaća zaposlenog u sjedištu službe vanjskih poslova utvrđuje se u skladu s propisima kojima se utvrđuje plaća državnih službenika i namještenika.
+
+(2) Za zaposlenog u službi vanjskih poslova raspoređenog na radno mjesto iz Popisa posebnih naziva radnih mjesta i koeficijenata složenosti poslova u sjedištu službe vanjskih poslova (Prilog IV.), koji je sastavni dio ove Uredbe, pri utvrđivanju plaće primjenjuje se pripadajući koeficijent složenosti poslova.«.
+
+#### Članak 6.
+
+Članak 35. briše se.
+
+#### Članak 7.
+
+Danom stupanja na snagu ove Uredbe prestaje važiti članak 17. Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (»Narodne novine«, br. 37/01, 38/01, 71/01, 89/01, 112/01, 7/02, 17/03, 197/03, 21/04, 25/04, 66/05, 92/05, 131/05, 140/05, 81/06, 11/07, 47/07, 109/07, 58/08, 32/09, 140/09, 21/10, 38/10, 77/10, 113/10, 22/11, 142/11, 31/12, 49/12, 60/12, 65/12, 78/12, 82/12, 100/12, 124/12, 140/12, 16/13, 25/13, 52/13, 96/13, 126/13, 2/14, 94/14, 140/14, 151/14, 76/15, 100/15 i 71/18).
+
+#### Članak 8.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 1. ožujka 2019. godine.
+
+Klasa: 022-03/19-03/05
+
+Urbroj: 50301-23/21-19-2
+
+Zagreb, 7. veljače 2019.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+### PRILOG IV.
+
+POPIS POSEBNIH NAZIVA RADNIH MJESTA I KOEFICIJENATA SLOŽENOSTI POSLOVA U SJEDIŠTU SLUŽBE VANJSKIH POSLOVA
+
+| Naziv radnog mjesta u službi vanjskih poslova | Koeficijent složenosti poslova |
+|---|---|
+| GLAVNI PRAVNI SAVJETNIK | 3,450 |
+| NAČELNIK SEKTORA U SLUŽBI VANJSKIH POSLOVA | 3,390 |
+| GLAVNI INSPEKTOR SLUŽBE VANJSKIH POSLOVA | 3,335 |
+| TAJNIK KABINETA U SLUŽBI VANJSKIH POSLOVA | 3,335 |
+| GLASNOGOVORNIK U SLUŽBI VANJSKIH POSLOVA | 3,2 |
+| EUROPSKI KORESPONDENT | 2,85 |
+| SAVJETNIK MINISTRA U SLUŽBI VANJSKIH POSLOVA | 2,85 |
+| PROFESIONALNI DIPLOMAT U DIPLOMATSKOM ZVANJU VELEPOSLANIK | 2,630 |
+| VODITELJ SLUŽBE U SLUŽBI VANJSKIH POSLOVA | 2,4 |
+| VODITELJ ODJELA U SLUŽBI VANJSKIH POSLOVA | 2,2 |
+| PROFESIONALNI DIPLOMAT U DIPLOMATSKOM ZVANJU OPUNOMOĆENI MINISTAR | 2,337 |
+| PROFESIONALNI DIPLOMAT U DIPLOMATSKOM ZVANJU MINISTAR SAVJETNIK | 2,223 |
+| PROFESIONALNI DIPLOMAT U DIPLOMATSKOM ZVANJU DIPLOMATSKI SAVJETNIK | 2,1 |
+| SAVJETNIK U KABINETU MINISTRA VANJSKIH I EUROPSKIH POSLOVA | 2,027 |
+| PROFESIONALNI DIPLOMAT U DIPLOMATSKOM ZVANJU I. TAJNIK | 1,938 |
+| PROFESIONALNI DIPLOMAT U DIPLOMATSKOM ZVANJU II. TAJNIK | 1,824 |
+| PROFESIONALNI DIPLOMAT U DIPLOMATSKOM ZVANJU III. TAJNIK | 1,739 |
+| VIŠI INFORMATIČKI SAVJETNIK U SLUŽBI VANJSKIH POSLOVA | 1,737 |
+| PROFESIONALNI DIPLOMAT U DIPLOMATSKOM ZVANJU ATAŠE | 1,653 |
+| VIŠI STRUČNI SAVJETNIK ZA POSEBNE POSLOVE U SLUŽBI VANJSKIH POSLOVA | 1,599 |
+| INFORMATIČKI SAVJETNIK U SLUŽBI VANJSKIH POSLOVA | 1,478 |
+| INFORMATIČKI SURADNIK U SLUŽBI VANJSKIH POSLOVA | 1,397 |
+| STRUČNI SURADNIK ZA POSEBNE POSLOVE U SLUŽBI VANJSKIH POSLOVA SAMOSTALNI UPRAVNI REFERENT U SLUŽBI VANJSKIH POSLOVA | 1,294 |
+| ADMINISTRATIVNI SURADNIK U SLUŽBI VANJSKIH POSLOVA | 1,227 |
+| VIŠI REFERENT ZA POSEBNE POSLOVE U SLUŽBI VANJSKIH POSLOVA, VODITELJ EVIDENCIJE | 1,048 |
+| STRUČNI REFERENT ZA POSEBNE POSLOVE U SLUŽBI VANJSKIH POSLOVA | 0,989 |
+| STRUČNI REFERENT ZA OPĆE POSLOVE U SLUŽBI VANJSKIH POSLOVA | 0,970 |
+| NAMJEŠTENIK III. VRSTE ZA PODRŠKU SLUŽBI VANJSKIH POSLOVA | 0,873 |
+
+## Uredba o izmjenama i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (NN 99/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/99/1446*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 50. stavka 1. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96., 72/13., 127/13., 39/18. i 98/19.), na prijedlog ministra vanjskih i europskih poslova, Vlada Republike Hrvatske je na sjednici održanoj 25. kolovoza 2022. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O PLAĆAMA, DODACIMA I NAKNADAMA U SLUŽBI VANJSKIH POSLOVA**
+
+### Članak 1.
+
+U Uredbi o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/03., 48/03., 39/06., 36/07., 25/13., 48/18. i 15/19.) u članku 2. stavku 3. riječi: »u kunama« zamjenjuju se riječima: »u eurima«, a riječi: »u devizama« zamjenjuju se riječima: »u eurima.«.
+
+### Članak 2.
+
+U članku 3. stavku 1. na dva mjesta riječi: »devizne« brišu se, a na dva mjesta iza riječi: »vrijednosti koeficijenta« dodaju se riječi: »za plaću u predstavništvu u inozemstvu«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Prosječni koeficijenti troškova života usklađuju se, primjenom metodologije iz stavka 1. ovoga članka, dvaput godišnje, najkasnije do 31. ožujka odnosno do 30. rujna, odlukom ministra vanjskih i europskih poslova, a primjenjuju se od 1. travnja odnosno od 1. listopada tekuće godine.«.
+
+U stavku 4. riječ: »deviznu« briše se, a iza riječi: »vrijednost koeficijenta« dodaju se riječi: »za plaću u predstavništvu u inozemstvu«.
+
+### Članak 3.
+
+U članku 5. stavku 1. riječi: »kunska plaća« zamjenjuju se riječima: »plaća u sjedištu«.
+
+### Članak 4.
+
+U članku 6. stavku 2. riječ: »deviznu« briše se, a iza riječi: »vrijednost koeficijenata« dodaju se riječi: »za plaću u predstavništvu u inozemstvu.«.
+
+U stavku 3. riječi: »u valuti u kojoj se isplaćuje i devizna plaća« zamjenjuju se riječima: »u eurima.«.
+
+### Članak 5.
+
+U članku 10. stavku 2. riječ: »devizne« briše se, a iza riječi: »vrijednosti koeficijenta« dodaju se riječi: »za plaću u predstavništvu u inozemstvu«.
+
+### Članak 6.
+
+U članku 16. stavku. 2. riječ: »devizna« briše se, a iza riječi: »plaća« dodaju se riječi: »u predstavništvu u inozemstvu.«.
+
+### Članak 7.
+
+U članku 18. stavku 1. riječi: »30 % cijene bezolovnog benzina« zamjenjuju se riječima: »neoporezivo priznatog iznosa sukladno hrvatskim propisima kojima se uređuje oporezivanje dohotka«.
+
+U stavku 2. iza riječi: »naloga« briše se zarez i dodaje veznik »i«, a riječi: »i maloprodajne cijene bezolovnog benzina u državi primateljici« brišu se.
+
+### Članak 8.
+
+U članku 21. stavku 6. riječi: »u blagajnu predstavništva« brišu se.
+
+### Članak 9.
+
+U članku 26. stavku 1. točki b) na dva mjesta riječi: »devizne« brišu se, a na dva mjesta iza riječi: »vrijednosti koeficijenta« dodaju se riječi: »za plaću u predstavništvu u inozemstvu«.
+
+Iza točke b) dodaje se točka c) koja glasi:
+
+»c) u slučaju da diplomat iz točke a) ovoga stavka želi koristiti prijevozno sredstvo različito od navedenog, ima pravo na naknadu putnih troškova u visini vrijednosti koeficijenta za plaću u predstavništvu u inozemstvu.«.
+
+### Članak 10.
+
+U članku 28. stavku 1. riječ: »devizne« briše se, a iza riječi: »plaće« dodaju se riječi: »isplaćene u predstavništvu u inozemstvu.«.
+
+### Članak 11.
+
+U članku 31. stavku 2. točki a) riječi: »kunske plaće« zamjenjuju se riječima: »plaće u sjedištu«.
+
+### Članak 12.
+
+U naslovu iznad članka 32. riječi: »Kunska plaća« zamjenjuju se riječima: »Plaća u sjedištu«.
+
+U stavku 1. riječi: »kunske plaće« zamjenjuju se riječima: »plaće u sjedištu«.
+
+U stavku 2. riječi: »deviznu plaću« zamjenjuju se riječima: »plaću u predstavništvu u inozemstvu.«.
+
+U stavku 3. riječi: »deviznu plaću« zamjenjuju se riječima: »plaću u predstavništvu u inozemstvu«, a riječi: »kunska plaća« zamjenjuju se riječima: »plaća u sjedištu«.
+
+### Članak 13.
+
+U naslovu iznad članka 36. riječ: »Pozajmice« zamjenjuje se riječima: »Akontacija odlaska na dužnost«.
+
+U članku 36. stavku 1. riječi: »deviznu pozajmicu« zamjenjuju se riječima: »akontaciju odlaska na dužnost«, a riječi: »devizne plaće« zamjenjuju se riječima: »plaće u predstavništvu u inozemstvu.«.
+
+U stavku 2. riječi: »devizne pozajmice« zamjenjuju se riječju: »akontacije«.
+
+### Članak 14.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-03/22-03/58
+
+Urbroj: 50301-21/21-22-2
+
+Zagreb, 25. kolovoza 2022.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjeni i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (NN 101/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/101/1470*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 50. stavka 1. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96., 72/13., 127/13., 39/18. i 98/19.), Vlada Republike Hrvatske je na sjednici održanoj 31. kolovoza 2023., donijela
+
+**UREDBU**
+
+**O IZMJENI I DOPUNAMA UREDBE O PLAĆAMA, DODACIMA I NAKNADAMA U SLUŽBI VANJSKIH POSLOVA**
+
+### Članak 1.
+
+U Uredbi o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/03., 48/03., 39/06., 36/07., 25/13., 48/18., 15/19. i 99/22.) u članku 3. iza stavka 2. dodaju se novi stavci 3. i 4. i stavci 5. i 6. koji glase:
+
+»(3) Plaća za rad u predstavništvu u inozemstvu obračunava se i isplaćuje u pravilu u valuti euro.
+
+(4) Iznimno od stavka 3. ovoga članka, može se odlukom odobriti isplata plaće u valuti različitoj od eura uz primjenu srednjeg tečaja Hrvatske narodne banke koji vrijedi na prvi dan u mjesecu u kojem se isplaćuje plaća.
+
+(5) U slučaju promjene međusobnog odnosa srednjeg tečaja valute isplate plaće i eura, važećeg na prvi dan u mjesecu isplate, za više od +/- 10 % u odnosu na srednji tečaj Hrvatske narodne banke koji je vrijedio na dan početka primjene važeće Odluke o usklađivanju prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva, uredit će se isplata prema tečaju koji je vrijedio na dan početka primjene važeće Odluke o usklađivanju prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva, a do sljedeće redovite usklade prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva.
+
+(6) Prava iz stavaka 2., 3., 4. i 5. ovoga članka uredit će se odlukama ministra vanjskih i europskih poslova.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 7. i 8.
+
+### Članak 2.
+
+U članku 6. stavku 3. riječi: »i isplaćuju u eurima« zamjenjuju se riječima: »u eurima, a isplaćuju u valuti u kojoj se isplaćuje plaća u predstavništvu u inozemstvu«.
+
+### Članak 3.
+
+U članku 16. stavku 1. iza točke 8. dodaju se točke 9. i 10. koje glase:
+
+»9. naknadu troškova za udaljenost mjesta rada u inozemstvu,
+
+10. naknadu troškova za obavljanje dodatnih poslova.«.
+
+### Članak 4.
+
+U članku 26. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Diplomat u predstavništvu u inozemstvu kojem se priznaje pravo na dodatak za izuzetno visoki sigurnosni rizik iz članka 13. stavka 1. točke c) podtočke 3. ove Uredbe i diplomat koji ima pravo na naknadu troškova za udaljenost mjesta rada u inozemstvu od sjedišta Ministarstva u Zagrebu iz članka 30.a ove Uredbe, za korištenje godišnjeg odmora u Republici Hrvatskoj ima pravo na naknadu troškova još jednog putovanja godišnje sukladno kriterijima iz stavka 1. ovoga članka.
+
+(4) Prava na naknade iz stavaka 2. i 3. ovoga članka međusobno se isključuju.«.
+
+### Članak 5.
+
+Iza članka 30. dodaju se naslov iznad članka i članak 30.a koji glase:
+
+*»4.9. Naknada troškova za udaljenost mjesta rada u inozemstvu*
+
+### Članak 30.a
+
+Diplomat u predstavništvu u inozemstvu ima pravo na naknadu troškova u fiksnom iznosu za udaljenost mjesta rada u inozemstvu od sjedišta Ministarstva u Zagrebu i to na temelju najbliže cestovne udaljenosti za putovanja u Europi, a izvan Europe najbliže zračne udaljenosti, i to:
+
+1. za udaljenost od 1450 do 5000 kilometara od sjedišta Ministarstva u iznosu od 150,00 eura mjesečno
+
+2. za udaljenost veću od 5000 kilometara od sjedišta Ministarstva u iznosu od 300,00 eura mjesečno.«.
+
+### Članak 6.
+
+Iza članka 30.a dodaju se naslov iznad članka i članak 30.b koji glase:
+
+*»4.9.a. Naknada troškova za obavljanje dodatnih poslova*
+
+### Članak 30.b
+
+(1) Diplomat u predstavništvu u inozemstvu koji, uz poslove svojeg radnog mjesta obavlja i poslove nepopunjenog radnog mjesta u predstavništvu, kao što su administrativno-tehnički poslovi u DM/KU: tajnički i prevoditeljski poslovi, konzularno-administrativni poslovi, materijalno-financijski poslovi, poslovi sigurnosti te opći i tehnički poslovi, ima pravo na naknadu za obavljanje dodatnih poslova u iznosu od 300,00 eura mjesečno.
+
+(2) Odluku o obavljanju dodatnih poslova kao i razdoblju za koje se utvrđuje naknada iz stavka 1. ovoga članka donosi ministar vanjskih i europskih poslova.«.
+
+### Članak 7.
+
+Iza članka 30.b dodaje se članak 30.c, koji glasi:
+
+»Članak 30.c
+
+Naknade iz članaka 30.a i 30.b ove Uredbe isplaćuju se u neto iznosu.«.
+
+### Članak 8.
+
+U članku 37. iza broja: »29.,« dodaju se brojevi: »30.a, 30.b,«.
+
+### Članak 9.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/23-03/36  
+Urbroj: 50301-21/22-23-2  
+Zagreb, 31. kolovoza 2023.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (NN 9/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/9/79*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 50. stavka 1. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96., 72/13., 127/13., 39/18. i 98/19.), Vlada Republike Hrvatske je na sjednici održanoj 16. siječnja 2025. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O PLAĆAMA, DODACIMA I NAKNADAMA U SLUŽBI VANJSKIH POSLOVA**
+
+##### Članak 1.
+
+U Uredbi o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/03., 48/03., 39/06., 36/07., 25/13., 48/18., 15/19., 99/22., 101/23. i 155/23.) u članku 3. stavku 2. iza riječi: »ministra vanjskih i europskih poslova« zarez i riječi: »a primjenjuju se od 1. travnja odnosno od 1. listopada tekuće godine« brišu se.
+
+##### Članak 2.
+
+Prilog I. Koeficijent polazne osnovice složenosti poslova prema diplomatskim, konzularnim i administrativno-tehničkim zvanjima u predstavništvima Republike Hrvatske u inozemstvu zamjenjuje se novim Prilogom I. Koeficijent polazne osnovice složenosti poslova prema diplomatskim, konzularnim i administrativno-tehničkim zvanjima u predstavništvima Republike Hrvatske u inozemstvu, koji se nalazi u prilogu ove Uredbe i čini njezin sastavni dio.
+
+##### Članak 3.
+
+Obračun plaće sukladno odredbama ove Uredbe primjenjuje se počevši s plaćom za mjesec siječanj 2025., koja se isplaćuje u mjesecu veljači 2025.
+
+##### Članak 4.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/24-03/89  
+Urbroj: 50301-21/21-25-3  
+Zagreb, 16. siječnja 2025.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+#### PRILOG I.
+
+### KOEFICIJENT POLAZNE OSNOVICE SLOŽENOSTI POSLOVA PREMA DIPLOMATSKIM, KONZULARNIM I ADMINISTRATIVNO-TEHNIČKIM ZVANJIMA U PREDSTAVNIŠTVIMA REPUBLIKE HRVATSKE U INOZEMSTVU
+
+| Diplomatsko osoblje | Koeficijent<br>polazne<br>osnovice |
+|---|---|
+| Veleposlanik – šef predstavništva | 6,509 |
+| Veleposlanik – zamjenik šefa diplomatske misije | 5,680 |
+| Stalni otpravnik poslova | 5,325 |
+| Opunomoćeni ministar | 5,207 |
+| Ministar savjetnik | 4,852 |
+| Savjetnik | 4,260 |
+| Tajnik I | 3,849 |
+| Tajnik II | 3,696 |
+| Tajnik III | 3,531 |
+| Ataše | 3,405 |
+| ADMINISTRATIVNO-TEHNIČKO OSOBLJE |  |
+| Viši stručni referent | 3,376 |
+| Administrativni ataše | 3,274 |
+| Tajnica – prevoditelj | 3,274 |
+| Administrativni referent | 3,235 |
+| Djelatnik sigurnosti, domar, vozač | 3,235 |
+
+| Konzularno osoblje | Koeficijent<br>polazne<br>osnovice |
+|---|---|
+| Šef konzularnog predstavništva: |  |
+| – Generalni konzul | 5,680 |
+| – Konzul | 5,089 |
+| Konzul savjetnik | 4,142 |
+| Konzul I | 3,729 |
+| Konzul II | 3,573 |
+| Konzul III | 3,405 |
+| Vicekonzul | 3,274 |
+| ADMINISTRATIVNO-TEHNIČKO OSOBLJE |  |
+| Tajnica – prevoditelj | 3,153 |
+| Viši stručni referent | 3,235 |
+| Administrativni referent | 3,094 |
+| Djelatnik sigurnosti, domar, vozač | 3,094 |

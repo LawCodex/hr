@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-02-12
+last_amended: 2019-10-09
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "19/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "19/14, 73/17, 96/19"
+amendments:
+  - "NN 73/2017 (1768) Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata"
+  - "NN 96/2019 (1862) Zakon o izmjenama i dopunama Zakona o tržištu nafte i naftnih derivata"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/19/360"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o tržištu nafte i naftnih derivata
 
 > Izvor: Narodne novine, NN 19/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/19/360).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 73/2017, NN 96/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -640,3 +645,247 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata (NN 73/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1768*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O TRŽIŠTU NAFTE I NAFTNIH DERIVATA
+
+Proglašavam Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata, koji je Hrvatski sabor donio na sjednici 14. srpnja 2017.
+
+Klasa: 011-01/17-01/67
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 19. srpnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O TRŽIŠTU NAFTE I NAFTNIH DERIVATA**
+
+#### Članak 1.
+
+U Zakonu o tržištu nafte i naftnih derivata (»Narodne novine«, br. 19/14.) u članku 3. stavku 2. točki 5. riječi: »Hrvatska agencija za obvezne zalihe nafte i naftnih derivata« zamjenjuju se riječima: »Agencija za ugljikovodike«.
+
+#### Članak 2.
+
+U članku 11. stavku 1. podstavku 2. riječ: »ravnatelja« zamjenjuje se riječima: »predsjednika Uprave«.
+
+U stavku 2. riječ: »ravnatelj« zamjenjuje se riječima: »predsjednik Uprave«.
+
+#### Članak 3.
+
+Članci 18. do 25. brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 4.
+
+U roku od 120 dana od dana stupanja na snagu ovoga Zakona ravnatelj Hrvatske agencije za obvezne zalihe nafte i naftnih derivata poduzet će radnje potrebne za provedbu pripajanja Hrvatske agencije za obvezne zalihe nafte i naftnih derivata Agenciji za ugljikovodike u sudskom registru.
+
+#### Članak 5.
+
+(1) Uredbu o pojedinim pitanjima u vezi djelatnosti Hrvatske agencije za obvezne zalihe nafte i naftnih derivata (»Narodne novine«, br. 64/09.) Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti prema odredbama ovoga Zakona.
+
+(2) Pravilnik o izračunu prosječnog dnevnog neto uvoza, odnosno unosa, prosječne dnevne potrošnje i količina zaliha nafte i naftnih derivata (»Narodne novine«, br. 132/14.) ministar nadležan za energetiku će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti prema odredbama ovoga Zakona.
+
+#### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/101
+
+Zagreb, 14. srpnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o tržištu nafte i naftnih derivata (NN 96/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/96/1862*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O TRŽIŠTU NAFTE I NAFTNIH DERIVATA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o tržištu nafte i naftnih derivata, koji je Hrvatski sabor donio na sjednici 20. rujna 2019.
+
+Klasa: 011-01/19-01/119
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 25. rujna 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O TRŽIŠTU NAFTE I NAFTNIH DERIVATA**
+
+#### Članak 1.
+
+U Zakonu o tržištu nafte i naftnih derivata (»Narodne novine«, br. 19/14. i 73/17.), u članku 2. iza riječi: »(SL L 265/9 od 9. 10. 2009.)« dodaju se riječi: »i Provedbena direktiva Komisije (EU) 2018/1581 оd 19. listopada 2018. o izmjeni Direktive Vijeća 2009/119/EZ u pogledu metoda izračunavanja obveza držanja zaliha (SL L 263/57 od 22. 10. 2018.).«.
+
+#### Članak 2.
+
+U članku 3. stavku 2. točka 12. mijenja se i glasi:
+
+»12. naftni derivati – proizvodi dobiveni iz nafte (rafinerijski plin, etan, ukapljeni naftni plin, primarni benzin, motorni benzini, avionski benzini, mlazno gorivo benzinskog tipa, mlazno gorivo kerozinskog tipa, drugi kerozini, plinska ulja / dizelska goriva, loživa ulja, white spirit (specijalni teški benzin) i SBP, maziva, bitumeni, parafinski voskovi, naftni koks i drugi proizvodi)«.
+
+U točki 26. riječi: »Prilogu C odjeljku 3.1.« zamjenjuju se riječima: »Prilogu A odjeljku 3.4.«.
+
+#### Članak 3.
+
+U članku 8. stavak 3. mijenja se i glasi:
+
+»(3) Kvalitetu i količinu nafte i naftnih derivata u procesima proizvodnje, prerade, manipulacije, skladištenja i transporta kontrolira pravna osoba akreditirana prema zahtjevu norme HRN EN ISO/IEC 17020, A vrste, sukladno uredbi kojom se uređuje kvaliteta tekućih naftnih goriva, tehničkoj praksi koja se primjenjuje za kvalitetu nafte i normama koje propisuju način mjerenja i obračuna količina robe.«.
+
+Stavak 4. briše se.
+
+#### Članak 4.
+
+U članku 14. stavku 3. riječi: »1. travnja« zamjenjuju se riječima: »1. srpnja«, a riječi: »31. ožujka« zamjenjuju se riječima: »30. lipnja«.
+
+#### Članak 5.
+
+U članku 15. stavku 3. riječi: »31. ožujka« zamjenjuju se riječima: »30. lipnja«.
+
+#### Članak 6.
+
+U članku 16. stavak 8. mijenja se i glasi:
+
+*»(8) Obvezne zalihe nafte i naftnih derivata Republike Hrvatske mogu se čuvati na državnom području druge države sukladno nacionalnom zakonodavstvu te države.«.*
+
+Iza stavka 8. dodaje se novi stavak 9. koji glasi:
+
+*»(9) Obvezne zalihe drugih država mogu se čuvati na državnom području Republike Hrvatske na temelju prethodnog odobrenja Ministarstva. Ministarstvo je dužno prije davanja odobrenja zatražiti mišljenje Agencije.«.*
+
+U dosadašnjem stavku 9., koji postaje stavak 10., riječi: »na temelju međudržavnih sporazuma« brišu se.
+
+#### Članak 7.
+
+U članku 26. stavak 3. mijenja se i glasi:
+
+*»(3) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju ovoga Zakona provode energetski inspektori Državnog inspektorata, sukladno nadležnosti utvrđenoj posebnim propisom.«.*
+
+#### Članak 8.
+
+Članak 27. mijenja se i glasi:
+
+*»(1) Novčanom kaznom u iznosu od 20.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj pravna osoba koja je energetski subjekt ako:*
+
+1. pravnoj ili fizičkoj osobi koja podnese zahtjev za pristup transportnom sustavu, uz ispunjavanje tehničkih uvjeta pristupa i priključenja, ne omogući pristup na nepristran i razvidan način prema načelu pregovornog pristupa treće strane (članak 5. stavak 1.)
+
+2. ne postupa u skladu s odlukama Vlade Republike Hrvatske kojima se uvodi radna obveza u slučaju izvanrednog poremećaja u opskrbi tržišta nafte i naftnih derivata ili radi sprečavanja nastanka izvanrednog poremećaja opskrbe tržišta nafte i naftnih derivata (članak 10. stavak 7.)
+
+3. ne formira i ne obnavlja operativne zalihe kada proizvodi, opskrbljuje, unosi ili uvozi naftne derivate, isključujući tranzit (članak 13. stavak 4.)
+
+4. na zahtjev Agencije ne izda skladišnicu za obvezne zalihe koje je primila na skladištenje (članak 16. stavak 4.)
+
+5. ovlaštenom predstavniku Agencije ne osigura slobodan pristup skladištu i stavljanje na uvid cjelokupne dokumentacije iz koje je nedvojbeno vidljivo dnevno stanje skladišta i stanje obveznih zaliha (članak 16. stavak 5.)
+
+6. ne omogući ovlaštenim predstavnicima Europske komisije pregled obveznih zaliha, kada za Agenciju skladišti zalihe (članak 16. stavak 6.)
+
+7. ne čuva sve dokumente, podatke i statističke sažetke koji se odnose na vrstu, količinu, kvalitetu i razmještaj obveznih zaliha, najmanje pet godina od dana njihova nastanka, kada za Agenciju skladišti zalihe (članak 16. stavak 7.).
+
+(2) Novčanom kaznom u iznosu od 20.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj pravna osoba, odnosno pravna osoba koja je energetski subjekt ako započne obavljati ili obavlja djelatnost kontrole kvalitete i količinu nafte i naftnih derivata u procesima proizvodnje, prerade, manipulacije, skladištenja i transporta, a nije akreditirana prema zahtjevu norme HRN EN ISO/IEC 17020, A vrste (članak 8. stavak 3.).
+
+(3) Novčanom kaznom u iznosu od 1000,00 kuna do 50.000,00 kuna kaznit će se za prekršaje iz stavaka 1. i 2. ovoga članka fizička osoba koja je energetski subjekt.
+
+(4) Novčanom kaznom u iznosu od 1000,00 kuna do 50.000,00 kuna kaznit će se za prekršaje iz stavka 1. točke 2. i stavka 2. ovoga članka fizička osoba.
+
+(5) Novčanom kaznom u iznosu od 300,00 kuna do 50.000,00 kuna kaznit će se za prekršaje iz stavaka 1. i 2. ovoga članka i odgovorna osoba u pravnoj osobi koja je energetski subjekt.
+
+(6) Novčanom kaznom u iznosu od 300,00 kuna do 50.000,00 kuna kaznit će se za prekršaje iz stavka 2. ovoga članka i odgovorna osoba u pravnoj osobi.
+
+(7) Uz novčanu kaznu za prekršaj može se energetskom subjektu iz stavka 1. ovoga članka koji je počinio dva ili više prekršaja ili u roku od godine dana ponavlja prekršaje iz stavaka 1. i 2. ovoga članka izreći zaštitna mjera zabrane obavljanja energetske djelatnosti u trajanju od tri mjeseca do jedne godine.
+
+(8) Uz novčanu kaznu za prekršaj može se energetskom subjektu iz stavka 3. ovoga članka koji je počinio dva ili više prekršaja ili u roku od godine dana ponavlja prekršaje iz stavaka 1. i 2. ovoga članka izreći zaštitna mjera zabrane obavljanja energetske djelatnosti u trajanju od jednog mjeseca do jedne godine.
+
+(9) Uz novčanu kaznu za prekršaj zaštitna mjera zabrane obavljanja energetske djelatnosti može se izreći i odgovornoj osobi u pravnoj osobi energetskom subjektu u trajanju od jednog mjeseca do jedne godine.«.
+
+#### Članak 9.
+
+Članak 28. mijenja se i glasi:
+
+*»(1) Novčanom kaznom u iznosu od 20.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj pravna osoba koja je energetski subjekt ako:*
+
+1. ne dostavlja Ministarstvu podatke o uvozu, odnosno unosu nafte i naftnih derivata koji se odnose na količinu, porijeklo, cijenu i kvalitetu nafte i naftnih derivata, podatke o cijenama naftnih derivata bez naknada, trošarina i poreza, kao i o cijenama naftnih derivata sa svim uključenim naknadama, trošarinama i porezima (članak 12. stavak 1.)
+
+2. ne dostavlja Ministarstvu podatke o planiranim, započetim i završenim investicijskim projektima, podatke o energetskom postrojenju ili dijelovima energetskog postrojenja u slučaju privremenog ili trajnog prestanka rada, podatke o planiranim remontima energetskih postrojenja te podatke o svim ostalim događajima koji mogu utjecati na opskrbu tržišta nafte i naftnih derivata (članak 12. stavak 2.)
+
+3. ne dostavlja Ministarstvu podatke o stanju operativnih zaliha na teritoriju Republike Hrvatske (članak 13. stavak 5.)
+
+4. ne dostavlja Ministarstvu do 31. siječnja svake godine izvješće o proizvedenim, uvezenim, odnosno unesenim, prerađenim i isporučenim količinama nafte i naftnih derivata u prethodnoj godini te izvješće o ostvarenom proizvodnom programu rafinerija u prethodnoj godini te planiranom uvozu odnosno unosu nafte i proizvodnom programu za tekuću godinu (članak 17. stavak 1.)
+
+5. ne dostavlja Ministarstvu do 31. siječnja svake godine preliminarno izvješće o uvezenim, odnosno unesenim i isporučenim količinama naftnih derivata u prethodnoj godini i planiranom uvozu, odnosno unosu naftnih derivata za tekuću godinu (članak 17. stavak 2.)
+
+6. ne dostavlja Ministarstvu do 31. siječnja svake godine izvješće o isporučenim količinama naftnih derivata u prethodnoj godini (članak 17. stavak 3.)
+
+7. ne dostavlja Ministarstvu do 31. siječnja svake godine izvješće o prevezenim količinama sirove nafte i naftnih derivata te o prometu sirove nafte i naftnih derivata kroz skladišta u prethodnoj godini (članak 17. stavak 4.).
+
+(2) Novčanom kaznom u iznosu od 1000,00 kuna do 50.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka fizička osoba koja je energetski subjekt.
+
+(3) Novčanom kaznom u iznosu od 300,00 kuna do 50.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi koja je energetski subjekt.
+
+(4) Novčanom kaznom u iznosu od 20.000,00 kuna do 500.000,00 kuna kaznit će se Agencija ako ne vodi registar o količini, strukturi, razmještaju i raspoloživosti obveznih zaliha nafte i naftnih derivata te statističke sažetke, odnosno ako Ministarstvu ne dostavlja statističke sažetke (članak 14. stavak 5.).
+
+(5) Novčanom kaznom u iznosu od 300,00 kuna do 50.000,00 kuna kaznit će se za prekršaj iz stavka 4. ovoga članka i odgovorna osoba Agencije.
+
+(6) Uz novčanu kaznu za prekršaj može se energetskom subjektu iz stavka 1. ovoga članka koji je počinio dva ili više prekršaja ili u roku od godine dana ponavlja prekršaje iz stavka 1. ovoga članka izreći zaštitna mjera zabrane obavljanja energetske djelatnosti u trajanju od tri mjeseca do jedne godine.
+
+(7) Uz novčanu kaznu za prekršaj može se energetskom subjektu iz stavka 2. ovoga članka koji je počinio dva ili više prekršaja ili u roku od godine dana ponavlja prekršaje iz stavka 1. ovoga članka izreći zaštitna mjera zabrane obavljanja energetske djelatnosti u trajanju od jednog mjeseca do jedne godine.
+
+(8) Uz novčanu kaznu za prekršaj zaštitna mjera zabrane obavljanja energetske djelatnosti može se izreći i odgovornoj osobi u pravnoj osobi energetskom subjektu u trajanju od jednog mjeseca do jedne godine.«.
+
+### PRIJELAZNE I ZAVRŠNA ODREDBA
+
+#### Članak 10.
+
+Ministar će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona uskladiti s odredbama ovoga Zakona Pravilnik o izračunu prosječnog dnevnog neto uvoza, prosječne dnevne potrošnje i količina obveznih zaliha nafte i naftnih derivata (»Narodne novine«, br. 43/16.).
+
+#### Članak 11.
+
+Na obvezne zalihe nafte i naftnih derivata za koje su sklopljeni međudržavni sporazumi o čuvanju obveznih zaliha, a koji su važeći na dan stupanja na snagu ovoga Zakona primjenjuju se odredbe tih međudržavnih sporazuma i odredbe Zakona o tržištu nafte i naftnih derivata (»Narodne novine«, br. 19/14. i 73/17.).
+
+#### Članak 12.
+
+Postupci započeti do dana stupanja na snagu ovoga Zakona prema odredbama Zakona o tržištu nafte i naftnih derivata (»Narodne novine«, br. 19/14. i 73/17.) dovršit će se prema odredbama toga Zakona i provedbenih propisa donesenih na temelju njega.
+
+#### Članak 13.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 2., članka 4. i članka 5. ovoga Zakona koji stupaju na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/77
+
+Zagreb, 20. rujna 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

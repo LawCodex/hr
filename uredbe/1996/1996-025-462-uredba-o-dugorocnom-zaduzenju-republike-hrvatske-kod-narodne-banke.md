@@ -25,7 +25,7 @@ retrieved: 2026-10-12
 
 Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske (Narodne novine, broj 72/95), Vlada Republike Hrvatske je na sjednici održanoj 28. ožujka 1996. godine donijela
 
-## U R E D B U
+U R E D B U
 
 o dugoročnom zaduženju Republike Hrvatske kod Narodne banke Hrvatske
 

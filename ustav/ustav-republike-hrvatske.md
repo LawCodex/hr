@@ -1451,11 +1451,11 @@ Obrazloženje
 
 ##### O RASPISIVANJU DRŽAVNOG REFERENDUMA
 
-### I.
+I.
 
 Hrvatski sabor raspisuje državni referendum u Republici Hrvatskoj radi donošenja odluke o referendumskom pitanju utemeljenom na Zahtjevu za raspisivanje državnog referenduma Građanske inicijative ‘U ime obitelji’ da se promijeni Ustav Republike Hrvatske, na način da se u Ustav Republike Hrvatske unese definicija braka kao životne zajednice žene i muškarca.
 
-### II.
+II.
 
 Na državnom referendumu birači će odgovoriti na sljedeće pitanje:
 
@@ -1473,7 +1473,7 @@ Na zahtjev Hrvatskog sabora izvršena je provjera broja potpisa te je Državni z
 
 Izjašnjavanje o pitanju iz točke II. ove Odluke provodi se kako bi birači u skladu s Ustavom Republike Hrvatske neposredno donijeli odluku o promjeni Ustava Republike Hrvatske.
 
-### IV.
+IV.
 
 U slučaju da predmetna odluka bude donesena na referendumu članak 62. stavak 2. Ustava Republike Hrvatske glasi:
 
@@ -1481,11 +1481,11 @@ U slučaju da predmetna odluka bude donesena na referendumu članak 62. stavak 2
 
 Dosadašnji stavak 2. članka 62. Ustava Republike Hrvatske postaje stavak 3. istog članka Ustava Republike Hrvatske.
 
-### V.
+V.
 
 Državni referendum će se održati dana 1. prosinca 2013. godine.
 
-### VI.
+VI.
 
 Ova Odluka stupa na snagu danom donošenja, a objavit će se u ‘Narodnim novinama’.
 
@@ -1507,12 +1507,10 @@ Stanje od: 02.12.2013 u 09:00 Broj obrađenih glasačkih mjesta: 6714 od ukupno 
 
 <table>
 <thead>
-
 <tr>
 <td>UKUPNO RH</td>
 <td colspan="2">UKUPNO</td>
 </tr>
-
 <tr>
 <td>Broj birača na obrađenim glasačkim mjestima</td>
 <td>3.791.000</td>
@@ -1520,50 +1518,42 @@ Stanje od: 02.12.2013 u 09:00 Broj obrađenih glasačkih mjesta: 6714 od ukupno 
 </tr>
 </thead>
 <tbody>
-
 <tr>
 <td>Pristupilo glasovanju</td>
 <td>1.436.835</td>
 <td>37,90 %</td>
 </tr>
-
 <tr>
 <td>Glasovalo birača (prema glasačkim listićima)</td>
 <td>1.436.163</td>
 <td>37,88 %</td>
 </tr>
-
 <tr>
 <td>Broj važećih listića</td>
 <td>1.427.967</td>
 <td>99,43 %</td>
 </tr>
-
 <tr>
 <td>Broj nevažećih listića</td>
 <td>8.196</td>
 <td>0,57 %</td>
 </tr>
-
 <tr>
 <td></td>
 <td>broj glasova</td>
 <td>postotak</td>
 </tr>
-
 <tr>
 <td>ZA</td>
 <td>946.433</td>
 <td>65,87 %</td>
 </tr>
-
 <tr>
 <td>PROTIV</td>
 <td>481.534</td>
 <td>33,51 %</td>
 </tr>
 </tbody>
-
 </table>
 
 Obrada podataka – © 2013 APIS IT d.o.o.

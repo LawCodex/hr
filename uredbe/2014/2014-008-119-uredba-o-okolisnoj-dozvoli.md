@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2014-01-22
+last_amended: 2018-01-12
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "8/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "8/14, 5/18"
+amendments:
+  - "NN 5/2018 (152) Uredba o izmjenama i dopunama Uredbe o okolišnoj dozvoli"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/8/119"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o okolišnoj dozvoli
 
 > Izvor: Narodne novine, NN 8/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/8/119).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 5/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1002,3 +1006,988 @@ Za vode:
 12. informacije koje objavljuju javne međunarodne organizacije.
 
 ##### PRILOG IV. – PRILOG VI.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o okolišnoj dozvoli (NN 5/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/5/152*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 95. stavka 5., članka 99. stavka 4., članka 107. stavka 4. i članka 111. stavaka 4. i 10. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13 i 78/15), Vlada Republike Hrvatske je na sjednici održanoj 11. siječnja 2018. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O OKOLIŠNOJ DOZVOLI**
+
+##### Članak 1.
+
+U Uredbi o okolišnoj dozvoli (»Narodne novine«, broj 8/14), u članku 3. točka 7. mijenja se i glasi:
+
+»7. Ostale tehničke jedinice su tehničke cjeline ili prepoznatljivi tehnički sustavi u kojima se obavlja bar jedna od djelatnosti iz Priloga I. ove Uredbe, a na koje se ne može primijeniti definicija postrojenja iz Zakona (npr. mobilni uređaji za oporabu otpada).«.
+
+Točka 9. mijenja se i glasi:
+
+»9. Postrojenje u smislu ove Uredbe je postrojenje prema odredbama Zakona, a u kojem se obavlja barem jedna od djelatnosti iz Priloga I. ove Uredbe.«.
+
+##### Članak 2.
+
+U članku 9. stavku 1. točka 2. mijenja se i glasi:
+
+»2. procesne tehnike i mjere u postrojenju,«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Opis postrojenja za djelatnosti iz Priloga I. ove Uredbe i povezane aktivnosti obvezno sadrži procesne tehnike i mjere koje se predlažu kao NRT, a ne predlažu se kao uvjeti dozvole.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+##### Članak 3.
+
+U članku 11. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Nadležna tijela i/ili osobe na stručnu podlogu daju mišljenje u vezi predloženih mjera i tehnika iz stručne podloge, prijenosa učinaka onečišćenja između sastavnica ili opterećenja okoliša, zahtijevane kakvoće okoliša za koju su nadležna te, povezano s time, iznimno zahtjeva strožeg postupanja u skladu sa Zakonom, a koji su podloga za određivanje uvjeta dozvole.«.
+
+Dosadašnji stavci 2. do 12. postaju stavci 3. do 13.
+
+##### Članak 4.
+
+U članku 12. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ako nadležno tijelo i/ili osoba za sastavnicu okoliša predlaže kao uvjete dozvole druge uvjete ili obveze koje ne zadovoljavaju kriterije izbora NRT-a ili koje nisu određene temeljem kakvoće okoliša koja je stroža od zahtjeva primjene NRT-a, po izričitom zahtjevu takvog tijela ili osobe razmatra se primjena članka 18. stavka 4. ove Uredbe.«.
+
+##### Članak 5.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Kada Ministarstvo ocijeni da bi postrojenje moglo značajno utjecati na okoliš druge države dužno je informirati javnost i zainteresiranu javnost o obvezi obavještavanja druge države i prekograničnom savjetovanju te činjenici da odluka ovisi o rezultatu prekograničnih savjetovanja.
+
+(2) U slučaju mogućeg prekograničnog utjecaja postrojenja na okoliš druge države, zahtjev i sve podatke propisane Zakonom, Ministarstvo dostavlja nadležnom tijelu druge države i daje primjeren rok za mišljenja, primjedbe i prijedloge vodeći računa o potrebi informiranja i sudjelovanja javnosti i zainteresirane javnosti u drugoj državi.
+
+(3) Kada Ministarstvo zaprimi informaciju o postupku na području druge države o kojem je donijelo odluku o sudjelovanju, o tome obavještava svoju javnosti i poduzima mjere da se osigura sudjelovanje javnosti u tom postupku.«.
+
+##### Članak 6.
+
+Naslov iznad članka 16. mijenja se i glasi:
+
+»Informiranje i sudjelovanje javnosti i zainteresirane javnosti u postupku izdavanja okolišne dozvole, uključujući izuzeća od primjene razina emisija i informiranje javnosti u postupku izdavanja dozvole za rad ispod graničnih vrijednosti pokazatelja«.
+
+U članku 16. stavak 1. mijenja se i glasi:
+
+»(1) Ministarstvo na svojim internetskim stranicama informira javnost i zainteresiranu javnost o uredno podnesenim zahtjevima u postupcima okolišne dozvole, u trajanju od najmanje 30 dana.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Informacija o zahtjevu za okolišnu dozvolu, uključujući i razmatranje uvjeta dozvole pokrenuto po službenoj dužnosti i zahtjev za izuzeća od primjene razine emisija, za koje se uz zahtjev ne prilaže stručna podloga iz članka 99. Zakona, uz sadržaj propisan propisom kojim se regulira informiranje i sudjelovanju javnosti, mora imati sadržaj prema odredbama iz članka 99. stavka 3. Zakona koji je promijenjen u odnosu na zahtjev temeljem kojega je izdana okolišna dozvola te bitne podatke iz procjene utjecaja na okoliš, ako se radi o izmjeni rješenja o okolišnoj dozvoli zbog značajne promjene za koju je proveden postupak procjene utjecaja na okoliš, sve na razini ne-tehničkog sažetka.«.
+
+Dosadašnji stavci 2. do 5. postaju stavci 3. do 6.
+
+Dosadašnji stavak 6. koji postaje stavak 7. mijenja se i glasi:
+
+»(7) U postupku ishođenja dozvole za rad postrojenja ispod graničnih vrijednosti pokazatelja, javnost se informira o podnesenom zahtjevu operatera i o rješenju kojim se daje dozvola za rad ispod graničnih vrijednosti pokazatelja, odnosno svakom drugom rješenju donesenom u tom postupku u skladu sa Zakonom. Javnost se informira o navedenom objavnom informacije na internetskoj stranici Ministarstva u trajanju od najmanje 30 dana.«.
+
+Dosadašnji stavci 7. i 8. postaju stavci 8. i 9.
+
+Iza dosadašnjeg stavka 9. koji postaje stavak 10. dodaju se stavci 11., 12. i 13. koji glase:
+
+»(11) Ako su nakon objave informacije o zahtjevu iz stavka 1. ovoga članka, uključujući i razmatranje uvjeta dozvole i izuzeća od primjene razine emisija, te izvan okvira redovnog informiranja propisanih ovom Uredbom, kao i uredbom kojom se propisuje informiranje i sudjelovanje javnosti, dostupne nove informacije koje mogu bitno utjecati na odluku, Ministarstvo će ih objaviti na svojim internetskim stranicama. Uz informaciju daje se i uputa o načinu sudjelovanju javnosti i zainteresirane javnosti nakon što je ta informacija objavljena. Ako su takve informacije dostupne nakon objave nacrta dozvole, osim u slučaju postupka za rad ispod graničnih vrijednosti pokazatelja, Ministarstvo će putem ponovnog uvida u nacrt dozvole omogućiti sudjelovanje javnosti i zainteresirane javnosti. Trajanje objave informacija iznosi najmanje 30 dana na internetskim stranicama Ministarstva.
+
+(12) Informacije iz stavka 11. ovoga članka daju se i za glavna izvješća i mišljenja izdata Ministarstvu u vezi postupka, koja se objavljuju kao dokumenti ili kao upravni akti, te podatak da je u vezi postupka potrebno provesti nacionalnu ili prekograničnu procjenu utjecaja na okoliš ili da se ona već provodi zbog značajne promjene u postrojenju za koju procjena još nije provedena. U postupku izdavanja okolišne dozvole za nova postrojenja ili zbog značajne promjene u postrojenju, za koje je prethodno provedena procjena utjecaja na okoliš, informacija mora sadržavati i podatke dobivene u postupku procjene koji su bitni za ove postupke, ako oni nisu bili dostupni ili obuhvaćeni redovnim informiranjem u postupku okolišne dozvole ili izmjene i dopune iste.
+
+(13) Na informacije iz stavka 11. ovoga članka primjenjuju se odredbe posebnih propisa o tajnosti podataka, osim kada se radi o informacijama o praćenjima ili mjerenjima emisija u okoliš iz postrojenja.«.
+
+##### Članak 7.
+
+U članku 17. stavku 1. podstavak 2. mijenja se i glasi:
+
+» – da je stručna podloga za ishođenje okolišne dozvole i prijedlog knjige uvjeta s obrazloženjem uvjeta izrađena u skladu s odredbama Zakona, propisa donesenih na temelju Zakona, te posebnih propisa ako se njima određuju stroži zahtjevi kakvoće okoliša ili traži strože postupanje nego ono koje bi se postiglo primjenom NRT-a,«.
+
+U podstavku 3. iza riječi: »Uredbom,« dodaju se riječi: »te kako su uzete u obzir,«.
+
+U podstavku 5. iza riječi: »okoliša,« dodaju se riječi: »te kako su uzete u obzir,«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Prijedlog knjige uvjeta dozvole s obrazloženjem uvjeta, osim sadržaja propisanog Zakonom, obvezno sadrži i naslove referentnih dokumenata o NRT-u koji su značajni za predmetno postrojenje ili djelatnost te kako su uvjeti dozvole uključujući i granične vrijednosti emisija utvrđeni u odnosu na NRT-e i razine emisije povezane s NRT-ma.«.
+
+##### Članak 8.
+
+U članku 18. stavku 2. podstavku 1. iza riječi: »uključujući i opis postrojenja« dodaju se riječi: »(procesne mjere i tehnike) koji se temelji na NRT-u, naslove referentnih dokumenata o NRT-u koji su značajni za predmetno postrojenje ili djelatnost te kako su uvjeti dozvole uključujući i granične vrijednosti emisija utvrđeni u odnosu na NRT i razine emisije povezane s NRT-om«.
+
+U stavku 5. riječi: »osim sadržaja propisanog posebnim propisom,« zamjenjuju se riječima: »osim sadržaja propisanog člankom 17. stavkom 1. ove Uredbe nakon kojeg se donosi odluka o okolišnoj dozvoli«.
+
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Rješenje o okolišnoj dozvoli objavljuje se na internetskoj stranici Ministarstva, osim u onim dijelovima kojima se regulira tajnost podataka sukladno stavku 2. podstavku 2. ovoga članka, a u slučaju prekograničnog sudjelovanja druge države u skladu sa Zakonom rješenje se dostavlja i drugoj državi.
+
+(7) U slučaju sudjelovanja u postupku za postrojenje u drugoj državi, Ministarstvo po dostavi druge države, objavljuje na svojoj internetskoj stranici rješenje iz druge države.«.
+
+##### Članak 9.
+
+Iza članka 18. dodaje se članak 18.a koji glasi:
+
+»Članak 18.a
+
+Pragom proizvodnje koji se određuje rješenjem za rad ispod graničnih vrijednosti pokazatelja u skladu sa Zakonom, određuje se najveća potrošnja ili proizvodnja, kojim se osigurava, po ocjeni Ministarstva, da u radu postrojenja operater ne prelazi granične vrijednosti pokazatelja koje su određene Prilogom I. ove Uredbe.«.
+
+##### Članak 10.
+
+U članku 22. stavku 1. riječi: »svakih pet godina« zamjenjuju se riječima: »u roku određenim Zakonom«.
+
+U stavku 2. riječi: »Ministarstvo je dužno zatražiti« zamjenjuju se riječima: »Ministarstvo će u slučaju potrebe zatražiti«.
+
+##### Članak 11.
+
+U članku 23. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Dokumentaciju zahtjeva temeljem stavaka 1. i 4. ovoga članka, izrađuje operater samostalno ili putem ovlaštenika.«.
+
+##### Članak 12.
+
+U članku 25. stavak 1. briše se.
+
+Dosadašnji stavak 2. koji postaje stavak 1. mijenja se i glasi:
+
+»(2) U slučaju razmatranja uvjeta okolišne dozvole po službenoj dužnosti, podaci, koje je operater dužan dostaviti u skladu sa Zakonom, dostavljaju se na obrascu iz Priloga IV. ove Uredbe u dijelu u kojem je primjenjivo. Dokumentaciju koja se traži za postupanje po službenoj dužnosti izrađuje operater samostalno ili putem ovlaštenika. Za postrojenje za koje se provodi postupak primjenom općim obvezujućih pravila opis promjena dostavlja se na obrascu za opća obvezujuća pravila.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 2. i 3.
+
+##### Članak 13.
+
+U članku 29. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Uz zahtjev iz stavka 1. ovoga članka prilaže se Sažetak obrasca koji sadrži ukratko podatke prema glavnim točkama obrasca općih obvezujućih pravila za djelatnost i plan postrojenja (situacija) s mjestima emisija.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+##### Članak 14.
+
+U članku 31. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Na postupak okolišne dozvole koji se vodi primjenom općih obvezujućih pravila, odgovarajuće se primjenjuju sve odredbe Zakona i ove Uredbe koje se odnose na način dostavljanja podataka o praćenju emisija, način dopuna, izmjena ili ispravka postojeće okolišne dozvole te spajanje više okolišnih dozvola u jedinstvenu dozvolu, određivanje uvjeta okolišne dozvole, način utvrđivanja graničnih vrijednosti emisija, izuzeća od primjene razine emisija iz zaključaka o NRT-u, način primjene jednakovrijednih parametara i ostalih tehničkih mjera i određivanje praćenja procesa i industrijskih emisija prema zahtjevima NRT-a, način podnošenja zahtjeva za suglasnost na Temeljno izvješće i način izdavanja suglasnosti na Temeljno izvješće, razvoj i primjena NRT-a, i način utvrđivanja i pokrića troškova postupka.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+##### Članak 15.
+
+U članku 32. stavku 4. na kraju rečenice umjesto točke stavlja se zarez i dodaju se riječi: »poštujući odredbe članaka 34., 35. i 36. ove Uredbe te način određivanja uvjeta dozvole u skladu sa Zakonom.«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Odredbe posebnog propisa primjenjuju se za određivanje uvjeta dozvole kada se posebnim propisom određuje zahtijevana kakvoća okoliša ili postupanja koja su stroža od zahtjeva primjene NRT-a opisanih u Zaključcima o NRT-u.«.
+
+##### Članak 16.
+
+U članku 34. stavku 1. iza riječi: »industrijskih emisija« umjesto točke stavlja se zarez i dodaju se riječi: »prema njihovoj prirodi i potencijalu prijenosa iz jedne sastavnice okoliša u drugu, a koja se okolnost, između ostalog, utvrđuje i mišljenjima nadležnih tijela u postupku.«.
+
+U stavku 4. točki 1. iza riječi: »raspoloživim tehnikama« dodaju se riječi: »kako je to propisano Zaključcima o NRT-u«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Temeljem postupanja iz stavaka 3. i 5. ovoga članka, Ministarstvo po zaprimanju rezultata iz stavka 5. ovoga članka jednom godišnje provjerava da emisije u normalnim uvjetima rada ne prelaze granične vrijednosti emisija pridružene NRT-ma za slučaj iz stavka 5. ovoga članka, odnosno za slučaj iz stavka 3. ovoga članka da je osigurana ekvivalentna razina zaštite okoliša kao cjeline te da se time ne povećava razina onečišćenja u okolišu.«.
+
+##### Članak 17.
+
+Naslov iznad članka 35. mijenja se i glasi: »Izuzeće od primjene razina emisija«.
+
+U članku 35. stavku 1. riječi: »izuzećem od primjene NRT-a« zamjenjuju se riječima: »izuzećem od primjene razine emisija iz Zaključaka o NRT-u«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Izuzeća od primjene razine emisija ne mogu se primijeniti na NRT iz Poglavlja o NRT-u iz RDNRT-a za koje još nisu donijeti Zaključci o NRT-u prije stupanja na snagu Zakona na temelju kojeg je donijeta ova Uredba.«.
+
+U dosadašnjem stavku 2. koji postaje stavak 3. riječi: »izuzeće od primjene NRT-a« zamjenjuju se riječima: »izuzeće od primjene razine emisija iz Zaključaka o NRT-u«.
+
+Dosadašnji stavci 3. do 7. postaju stavci 4. do 8.
+
+Iza dosadašnjeg stavka 8. koji postaje stavak 9. dodaje se stavak 10. koji glasi:
+
+»(10) Odredbe ovoga članka odgovarajuće se primjenjuju na davanje izuzeća prema posebnim propisima, u kojima se kao kriterij primjenjuje utvrđivanje nerazmjernosti troškova ili tehno-ekonomske izvedivosti, povezano s primjenom razina emisija pridruženih NRT-ma za postrojenja koja su u obvezi ishoditi okolišnu dozvolu.«.
+
+##### Članak 18.
+
+U članku 37. stavku 1. riječi: »Opis mjera predviđenih za praćenje« zamjenjuju se riječima: »Mjere predviđene za praćenje«.
+
+U stavku 2. riječi: »s utvrđenim tehnikama iz okolišne dozvole« zamjenjuju se riječima: »s utvrđenim mjerama i uvjetima iz okolišne dozvole«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Rezultati praćenja emisija prema uvjetima dozvole objavljuju se javnosti u obliku kako su određeni dozvolom i kako su dostupni tijelu koje kontrolira provedbu praćenja.«.
+
+##### Članak 19.
+
+U Prilogu I. točki 5.1. podtočki c) riječ: »usitnjavanje« zamjenjuje se riječju: »homogenizacija«.
+
+U točki 5.2. riječi: »obrada otpada« zamjenjuju se riječima: »oporaba otpada«.
+
+U točki 5.3. podtočki b) riječi: »Oporaba, ili spoj oporabe i odlaganja« zamjenjuju se riječima: »Oporaba ili spoj oporabe i zbrinjavanja«.
+
+##### Članak 20.
+
+Dosadašnji prilozi IV. i V. zamjenjuju se novim prilozima IV. i V. koji glase:
+
+PRILOG IV.
+
+OBRAZAC STRUČNE PODLOGE ZAHTJEVA ZA IZDAVANJE OKOLIŠNE DOZVOLE
+
+#### A. Podaci o operateru
+
+1. Osnovni podaci
+
+<table>
+<tr><td>1.1.</td><td>Naziv operatera</td><td colspan="2"></td></tr>
+<tr><td>1.2.</td><td>Pravni oblik trgovačkog društva ili drugi primjenljivi oblik</td><td colspan="2"></td></tr>
+<tr><td rowspan="3">1.3.</td><td rowspan="3">Vrsta zahtjeva</td><td>Novo postrojenje</td><td></td></tr>
+<tr><td>Postojeće postrojenje</td><td></td></tr>
+<tr><td>Promjena u postrojenju</td><td></td></tr>
+<tr><td>1.4.</td><td>Adresa postrojenja</td><td colspan="2"></td></tr>
+<tr><td>1.5.</td><td>E-adresa</td><td colspan="2"></td></tr>
+<tr><td>1.6.</td><td>Matični broj gospodarskog subjekta, MBS</td><td colspan="2"></td></tr>
+<tr><td>1.7.</td><td>Osobni identifikacijski broj, OIB</td><td colspan="2"></td></tr>
+<tr><td>1.8.</td><td>Glavne djelatnosti sukladno NKD klasifikaciji operatera</td><td colspan="2"></td></tr>
+<tr><td>1.9.</td><td>Kontakt osoba, ime i prezime</td><td colspan="2"></td></tr>
+<tr><td>1.10.</td><td>Kontakt osoba, pozicija</td><td colspan="2"></td></tr>
+<tr><td>1.11.</td><td>Kontakt osoba, broj telefona</td><td colspan="2"></td></tr>
+<tr><td>1.12.</td><td>Kontakt osoba, e-adresa</td><td colspan="2"></td></tr>
+</table>
+
+2. Podaci vezani uz postrojenje
+
+<table>
+<tr><td>2.1.</td><td>Naziv postrojenja</td><td colspan="2"></td></tr>
+<tr><td>2.2.</td><td>Adresa postrojenja</td><td colspan="2"></td></tr>
+<tr><td>2.3.</td><td>Broj zaposlenih</td><td colspan="2"></td></tr>
+<tr><td>2.4.</td><td>Datum početka i datum završetka djelatnosti u postrojenju, ukoliko je planirano</td><td colspan="2"></td></tr>
+<tr><td>2.5.</td><td>Geografske koordinate (širina i dužina) postrojenja</td><td colspan="2">(navesti geografske koordinate sukladno službenoj kartografskoj projekciji u Republici Hrvatskoj)</td></tr>
+<tr><td>2.6.</td><td>Je li postrojenje potpada pod odstupanja iz Zaključaka o NRT-u sukladno Zakonu o zaštiti okoliša</td><td>Da</td><td>Ne</td></tr>
+<tr><td>2.7.</td><td>Je li pripremljeno temeljno izvješće</td><td>Da</td><td>Ne</td></tr>
+<tr><td>2.8.</td><td>Primjena propisa o obaveznom izvješćivanju</td><td>Da (navesti kojih)</td><td>Ne</td></tr>
+<tr><td>2.9.</td><td>Primjena propisa o sprječavanju nesreća koje uključuju opasne tvari</td><td>Da</td><td>Ne</td></tr>
+<tr><td>2.10.</td><td>Posjeduje li postrojenje dozvolu za emisije stakleničkih plinova? Ako da, navesti broj dozvole</td><td>Da</td><td>Ne</td></tr>
+<tr><td>2.11.</td><td>Glavna djelatnost postrojenja sukladno Prilogu I. Uredbe</td><td colspan="2">Kapacitet glavne jedinice</td></tr>
+<tr><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>2.12.</td><td>Ostale djelatnosti sukladno Prilogu I. Uredbe</td><td colspan="2">Kapacitet ostalih jedinica</td></tr>
+<tr><td>1</td><td></td><td colspan="2"></td></tr>
+<tr><td>2</td><td></td><td colspan="2"></td></tr>
+<tr><td>3</td><td></td><td colspan="2"></td></tr>
+</table>
+
+3. Dodatne informacije o postrojenju
+
+<table>
+<tr><td rowspan="6">3.1.</td><td colspan="2">Provedena je procjena utjecaja na okoliš</td></tr>
+<tr><td>Ne</td><td></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Da</td><td></td></tr>
+<tr><td>Datum:</td><td></td></tr>
+<tr><td>KLASA i URBROJ rješenja:</td><td></td></tr>
+<tr><td rowspan="5">3.2.</td><td colspan="2">Postoje li značajni prekogranični utjecaji na druge države?</td></tr>
+<tr><td>Ne</td><td></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Da</td><td></td></tr>
+<tr><td>KLASA i URBROJ rješenja ili drugog odgovarajućeg dokumenta:</td><td></td></tr>
+</table>
+
+4. Podaci povezani s promjenama postojeće okolišne dozvole
+
+Vrsta predložene promjene i razlozi za provedbom promjena
+
+5. Povjerljivi podaci
+
+Povjerljivi podaci moraju biti označeni zelenom oznakom.
+
+| Broj | Povjerljivi podaci | Broj poglavlja i broj stranice u Zahtjevu | Razlozi zbog kojih se podaci smatraju kao<br>zaštićeni/povjerljivi |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+#### B. Sustav upravljanja okolišem
+
+| Implementiran i certificiran/verificiran sustav upravljanja okolišem sukladno ISO 14001 standardu i/ili EMAS | Da (navesti koji) | Ne |
+|---|---|---|
+| Implementiran sustav upravljanja okolišem sukladno ISO 14001 standardu i/ili EMAS bez certifikacije/verifikacije | Da | Ne |
+| Popis odgovarajućih internih dokumenata vezanih uz zaštitu okoliša | (Navesti koji dokument) |  |
+
+### C. Podaci koji se odnose na postrojenje i njegovu lokaciju
+
+1. Osnovni podaci o lokaciji
+
+| Jedinica lokalne i regionalne samouprave |  |
+|---|---|
+| Katastarska općina |  |
+| Katastarska čestica |  |
+| Navesti udaljenost u metrima do najbližeg naselja, prijemnika otpadnih voda, voda, šuma, zaštićenih područja, područja ekološke mreže i drugih osjetljivih područja |  |
+
+2. Zemljovidi i sheme
+
+| Broj | Naziv zemljovida | Obuhvat zemljovida/sheme | Broj Priloga |
+|---|---|---|---|
+| 1. | Izvadak iz Ekološke mreže |  |  |
+| 2. | Ortofoto karte/šire područje okruženja | (Položaj postrojenja, najbliža naselja, s kojim graniči, vodni recipijent, vodna površina, šume, zaštićena i ostala osjetljiva područja) |  |
+| 3. | Tlocrt postrojenja s mjestima emisija | (Sve točke emisija i tehnološke jedinice) |  |
+| 4. | Dijagram toka/tehnološke shema | (Tehnološke jedinice sukladno poglavljima 3.1. – 3.3. s tokom materijala/ energije, kao i po mogućnosti svim točkama emisije) |  |
+
+3. Opis postrojenja
+
+3.1. Podaci iz procjene utjecaja na okoliš (ispunjava se ako se postupak zahtjeva za novo postrojenje ili zbog značajne izmjene u postojećem postrojenju za koje je provedena procjena utjecaja na okoliš)
+
+| Broj | Podaci iz postupka procjene utjecaja na okoliš koji su bitni za izdavanje okolišne dozvole |
+|---|---|
+| 1. | Obuhvat informiranja i sudjelovanja javnosti u postupku procjene, uključujući i prekograničnu procjenu ako je provedena: |
+| 2. | Utvrđeni glavni utjecaji na okoliš s obzirom na emisije iz postrojenja: |
+| 3. | Mjere za sprečavanje utjecaja na okoliš, koje su određene rješenjem iz procjene (ne navode se mjere koje se prema pravilima postupka određuju u postupku okolišne dozvole): |
+| 4. | Program praćenja stanja okoliša (ne navode se mjere praćenja emisija koje se prema pravilima postupka određuju u postupku okolišne dozvole): |
+| 5. | Varijanta koja se ocjenjuje prihvatljivom za okoliš temeljem provedene procjene: |
+| 6. | Ostalo iz rješenja o provedenoj procjeni što se ocjenjuje bitnim za postupak okolišne dozvole: |
+
+3.2. Tehnička jedinica (pogon) u kojoj se odvija glavna djelatnost sukladno Prilogu I.
+
+<table>
+<tr><td colspan="5">Naziv jedinice</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Broj</td><td>Naziv tehničke podjedinice</td><td>Kapacitet</td><td>Tehnološki opis</td><td>Referentna oznaka iz tlocrta/ dijagrama toka u Prilogu</td></tr>
+<tr><td>1.</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.</td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+3.3. Tehnička jedinica (pogon) u kojoj se odvijaju ostale djelatnosti sukladno Prilogu I.
+
+<table>
+<tr><td colspan="5">Naziv jedinice</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>Broj</td><td>Naziv tehničke podjedinice</td><td>Kapacitet</td><td>Tehnološki opis</td><td>Referentna oznaka iz tlocrta/ dijagrama toka u Prilogu</td></tr>
+<tr><td>1.</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.</td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+*Napomena: ukoliko se u postrojenju obavlja više ostalih djelatnosti sukladno Prilogu I., dodati potreban broj redaka u tablicu*
+
+3.4. Tehničke jedinice izvan Priloga I. (direktno povezane djelatnosti)
+
+| Broj | Naziv tehničke jedinice | Kapacitet | Tehnološki opis | Referentna oznaka iz tlocrta/ dijagrama toka u Prilogu |
+|---|---|---|---|---|
+| 1. |  |  |  |  |
+| 2. |  |  |  |  |
+| 3. |  |  |  |  |
+
+3.5. Glavna zamjenska rješenja postojećoj tehnologiji, tehnikama i mjerama koje je podnositelj Zahtjeva razmotrio
+
+| Broj | Naziv tehničke jedinice | Opis zamjenskog rješenja |
+|---|---|---|
+| 1. |  |  |
+| 2. |  |  |
+| 3. |  |  |
+
+4. Referentna oznaka emisijskih točaka (prefiks Z za zrak; V za vodu (područje prijemnika); T za emisije u tlo; K za sustav javne odvodnje) prikazani u tlocrtu postrojenja/dijagramu toka
+
+<table>
+<tr><td rowspan="2">Oznaka</td><td rowspan="2">Točka emisije</td><td colspan="2">HTRS96-TM projekcija</td><td rowspan="2">Opis</td><td rowspan="2">Broj Priloga</td></tr>
+<tr><td>N</td><td>E</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+#### D. Popis sirovina koje se koriste, sekundarnih sirovina i ostalih tvari te utrošene odnosno proizvedene energije tijekom rada postrojenja
+
+1. Sirovine, sekundarne sirovine i ostale tvari koje se koriste u postrojenju*
+
+1.1. Popis sirovina, dodatnih materijala i ostalih tvari bez opasnih tvari
+
+| Broj | Tehnička jedinica | Sirovine, sekundarne sirovine i ostale tvari | Opis i karakteristike | Godišnja potrošnja (t) | Godišnja potrošnja po jedinici proizvodnje (t/proizvodna jedinica) |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+1.2. Popis opasnih tvari/kemikalija
+
+| Naziv | Sastav | CAS broj | H oznaka | P oznaka | Datum izdavanja STL | Upotreba | Godišnja potrošnja (t) |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+1.3. Voda
+
+Opis opskrbe vodom, potrošnja površinske vode, podzemne vode i otpadne vode za potrebe ponovnog korištenja, kvaliteta ulazne vode, način tretiranja zahvaćene vode
+
+1.4. Skladištenje sirovine i ostalih tvari
+
+| Broj | Prostor skladišta, privremeno skladištenje, rukovanje sa sirovinom, proizvodima i otpadom | Kapacitet | Tehnički opis | Referentna oznaka iz dijagrama toka/ tlocrta u Prilogu |
+|---|---|---|---|---|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+1.5. Opis metoda smanjenja potrošnje odnosno iskorištavanja sirovine, sekundarne sirovine, sekundarne sirovine, ostalih tvari i vode (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u Poglavlju H.)
+
+| Broj | Opis |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+\* tablice je potrebno odgovarajuće primijeniti na djelatnosti obrade/odlaganja/skladištenja otpada unošenjem kao sirovina vrsta otpada koji se obrađuje, odlaže i/ili skladišti te načina i metoda kojima se otpad obrađuje/skladišti
+
+2. Proizvodi i poluproizvodi proizvedeni u postrojenju
+
+2.1. Proizvodi i poluproizvodi*
+
+| Broj | Postrojenje | Proizvodi i poluproizvodi | Opis proizvoda i poluproizvoda | Broj tvari u Registru (CAS) | Proizvodnja (t/godini) |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+\* tablicu je potrebno odgovarajuće primijeniti na djelatnosti obrade/odlaganja/skladištenja otpada unošenjem proizvoda ili poluproizvoda nastalih obradom otpada
+
+3. Potrošena ili proizvedena energija u postrojenju*
+
+3.1. Ulaz goriva i energije
+
+|  | Ulaz goriva i energije | Potrošnja jedinica/godina | Toplinska vrijednost (GJ/jedinica) | Pretvaranje u GJ |
+|---|---|---|---|---|
+| 3.1.1. | Gorivo |  |  |  |
+| 3.1.2. | Električna energija |  |  |  |
+| 3.1.3. | Ostala goriva |  |  |  |
+| 3.1.4. | Ukupni ulaz količine energije i goriva u GJ |  |  |  |
+
+3.2. Energija proizvedena unutar postrojenja
+
+|  |  | Jedinica | Količina |
+|---|---|---|---|
+| 3.2.1 | Proizvodnja električne energije | MWh |  |
+| 3.2.2. | Proizvodnja toplinske energije | GJ |  |
+
+3.3. Potrošnja energije
+
+|  |  | Jedinica | Količina |
+|---|---|---|---|
+| 3.3.1. | Ukupna potrošnja energije | GJ |  |
+| 3.3.2. | Ukupna potrošnja energije za potrebe zagrijavanja i priprema tople vode | GJ |  |
+| 3.3.3. | Ukupna potrošnja energije za tehnološke i ostale procese | GJ |  |
+
+3.4. Potrošnja energije po jedinici proizvoda
+
+<table>
+<tr><td rowspan="3">Broj</td><td rowspan="3">Proizvod</td><td rowspan="3">Jedinica</td><td colspan="4">Potrošnja energije/jedinica proizvodnje</td></tr>
+<tr><td colspan="2">Električna energija</td><td rowspan="2">Toplinska energija<br> GJ/jedinici</td><td rowspan="2">Ukupna energija GJ/jedinici</td></tr>
+<tr><td>KWh/jedinici</td><td>GJ/jedinici</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+3.5. Opis metoda za poboljšanje energetske učinkovitosti (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u Poglavlju H.)
+
+| Broj | Opis |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+\* tablice u ovom poglavlju potrebno je odgovarajuće primijeniti na djelatnosti obrade/ skladištenja/ odlaganja otpada
+
+#### E. Opis vrste i količine predviđenih emisija iz postrojenja u bilo koji od medija te utvrđivanje značajnih posljedica navedenih emisija na okoliš i zdravlje ljudi
+
+1. Emisije u zrak
+
+1.1. Popis izvora i točaka emisija u zrak, uključujući i mjere prevencije emisija (popis sukladno Prilogu 1. za svaku tehnološku jedinicu ili pridruženu ili direktno povezanu aktivnost)
+
+| Tehnička jedinica ili direktno povezana aktivnost | Izvor emisija (Referentna oznaka iz tlocrta/dijagram toka u Prilogu) | Onečišćujuća tvar | Metoda za smanjenje emisija (npr. vrećasti filtar, sedimentacija, i sl.) | Podaci o emisijama – (specificirati jedinicu i temelj za iznošenje mjerenih rezultata kao, npr. mg/Nm<sup>3</sup>, kg/toni proizvoda, kg/danu i sl.) |
+|---|---|---|---|---|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+1.2. Opis metoda prevencije/smanjenja emisija, njihova efikasnost i utjecaj na okoliš (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u Poglavlju H.)
+
+| Broj | Opis |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+2. Emisije u vode
+
+2.1. Mjesto ispuštanja u površinske vode
+
+| 2.1.1. | Naziv prijemnika u koje se vrši ispuštanje (vodotok, jezero, more) | (navesti za svaku točku ispuštanja) |
+|---|---|---|
+| 2.1.2. | Mjesto ispuštanja u prijemnik, ukratko opisati tehnička rješenja mjesta ispuštanja | (navesti za svaku točku ispuštanja; za točku navesti geografske koordinate sukladno službenoj kartografskoj projekciji u Republici Hrvatskoj; ukoliko ima više mjesta ispuštanja navesti za svaku točku) |
+| 2.1.3. | Zona sanitarne zaštite izvorišta i površinskih vodozahvata | (navesti za svaku točku ispuštanja) |
+
+2.1.1. Popis indikatora onečišćenja vode
+
+<table>
+<tr><td rowspan="2">Referentna oznaka iz dijagram toka/tlocrta u Prilogu</td><td rowspan="2">Mjesto nastanka otpadnih voda i tip vode</td><td rowspan="2">Ukupna dnevna količina (m<sup>3</sup>/dan), ukupna godišnja količina (m<sup>3</sup>/godini) i protok (m<sup>3</sup>/h)</td><td rowspan="2">Onečišćujuća tvar</td><td colspan="2">Prije obrade</td><td colspan="3">Poslije obrade</td></tr>
+<tr><td>Koncentracija (mg/l)</td><td>Metoda pročišćavanja</td><td>Koncentracija (mg/l)</td><td>Godišnja emisija (kg)</td><td>Emisija/jedinica proizvoda (mg/l∙ jedinici)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+2.2. Mjesto ispuštanja u sustav javne ili interne odvodnje
+
+| 2.2.1. | Naziv sustava javne odvodnje u koji se ispuštaju otpadne vode |  |
+|---|---|---|
+| 2.2.2. | Mjesto ispuštanja u sustav javne odvodnje |  |
+
+2.2.1. Popis indikatora onečišćenja vode
+
+<table>
+<tr><td rowspan="2">Referentna oznaka iz dijagram toka/tlocrta u Prilogu</td><td rowspan="2">Mjesto nastanka otpadnih voda i tip vode</td><td rowspan="2">Ukupna dnevna količina (m<sup>3</sup>/dan), ukupna godišnja količina (m<sup>3</sup>/godini) i protok (m<sup>3</sup>/h)</td><td rowspan="2">Onečišćujuća tvar</td><td colspan="2">Prije obrade</td><td colspan="3">Poslije obrade</td></tr>
+<tr><td>Koncentracija (mg/l)</td><td>Metoda pročišćavanja</td><td>Koncentracija (mg/l)</td><td>Godišnja emisija (kg)</td><td>Emisija/jedinica proizvoda (mg/∙jedinici)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+2.3. Opis metoda prevencije/smanjenja emisija (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u Poglavlju H.)
+
+| Broj | Opis |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+3. Emisije u tlo
+
+3.1. Vrsta i karakteristike emisija u tlo i obveza izrade Temeljnog izvješća
+
+<table>
+<tr><td>Šifra točke emisije u tlo</td><td>Lokacija nastanka emisije u tlo</td><td>Vrsta emisije</td><td>Onečišćujuća tvar</td><td>Ukupna dnevna količina (jedinica)</td><td>Prije obrade (jedinica)</td><td>Nakon obrade (jedinica)</td><td>Godišnje opterećenje tla (jedinica/godina)</td><td>Obveza izrade Temeljnog izvješća</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="3">Da Ne</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+3.1.1. Opis metoda prevencije/smanjenja emisija u tlo (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u poglavlju H.)
+
+| Broj | Opis |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+3.2. Emisije u tlo vezane uz poljoprivredne aktivnosti
+
+3.2.1. Stajski gnoj
+
+| Vrsta stajskog gnoja |  |
+|---|---|
+
+3.2.1.1. Sastav stajskog gnoja
+
+<table>
+<tr><td>Parametar</td><td colspan="2">Količina</td></tr>
+<tr><td>pH</td><td colspan="2">-</td></tr>
+<tr><td></td><td>%</td><td>kg/t</td></tr>
+<tr><td>Udio suhe tvari</td><td></td><td></td></tr>
+<tr><td>Udio ukupnog N</td><td></td><td></td></tr>
+<tr><td>Udio amonijakalnog N (N-NH<sub>4</sub>)</td><td></td><td></td></tr>
+<tr><td>Udio fosfora (P<sub>2</sub>O<sub>5</sub>)</td><td></td><td></td></tr>
+<tr><td>Udio kalija (K<sub>2</sub>O)</td><td></td><td></td></tr>
+<tr><td>pH</td><td></td><td></td></tr>
+</table>
+
+3.2.2. Primjena na tlo
+
+| Vrsta stajskog gnoja | Godišnja količina proizvedenog gnoja (t) | Ukupan udio N u stajskom gnoju (kg) | Dostupna površina zemljišta za apliciranje stajskog gnoja (ha) | Uneseni udio N na tlo (kg/ha) |
+|---|---|---|---|---|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+3.2.3. Popis zemljišnih čestica i ugovora za primjenu stajskog gnoja
+
+|  | Broj priloga |
+|---|---|
+| Popis dostupnih zemljišnih čestica i njihova površina |  |
+| Ugovor s ostalim najmoprimcima/osobama za primjenu stajskog gnoja (u slučaju nedostatne površine zemljišnih čestica) |  |
+| Ugovor s ostalim pravnim osobama za obradu stajskog gnoja izvan lokacije postrojenja |  |
+
+3.2.4. Opis metoda prevencije/smanjenja emisija u tlo (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u Poglavlju H.)
+
+| Broj | Opis |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+4. Gospodarenje otpadom
+
+4.1. Naziv i količina proizvedenog otpada*
+
+| Ključni broj i naziv otpada | Opis otpada | Godišnja količina proizvedenog otpada (t) | Godišnja količina obrađenog otpada (t) | Postupak obrade otpada | Otpad skladišten na lokaciji, referentna oznaka iz tlocrta/dijagram toka |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+\* tablicu je potrebno odgovarajuće primijeniti na djelatnosti obrade/odlaganja/skladištenje otpada unošenjem otpada nastalog obradom otpada koji dolazi na obradu/odlaganje/skladištenje u postrojenje
+
+4.2. Opis metoda za prevenciju nastanka (proizvodnje) otpada* (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u Poglavlju H.)
+
+| Broj | Opis |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+\* ne primjenjuje se na djelatnosti obrade/odlaganja/skladištenje otpada osim ako u tim djelatnostima obradom ne nastaju količine otpada, posebno opasnog, na koje se tablica može primijeniti
+
+5. Buka
+
+<table>
+<tr><td>5.1.</td><td rowspan="2">Izvor buke</td><td rowspan="2">Opis izvora</td><td colspan="3">Razina opterećenja zvukom na izvoru LWA (dB)</td></tr>
+<tr><td>Broj</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>5.2.</td><td colspan="5">Vrijednost ekvivalentne razine buke LAeq u dB<br> u nadziranom području</td></tr>
+<tr><td rowspan="2">Broj</td><td rowspan="2">Lokacija mjerenja</td><td colspan="2">Dan</td><td colspan="2">Noć</td></tr>
+<tr><td>Najviša dopuštena vrijednost</td><td>Izmjerena vrijednost</td><td>Najviša dopuštena vrijednost</td><td>Izmjerena vrijednost</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+6. Vibracije
+
+| Broj | Izvor vibracije | Opis izvora vibracije |
+|---|---|---|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+#### F. Opis i karakteristike okoliša na lokaciji postrojenja
+
+1. Karakteristike šireg područja okruženja
+
+<table>
+<tr><td colspan="3">Postoje li mjerenja koncentracije značajnih tvari koje se emitiraju u zrak, vodu i tlo (uključivo i podzemne vode) i/ili modeli emisija u okoliš te utvrđene razine buke i vibracija? Naznačite referentni broj izvješća</td></tr>
+<tr><td>Tvar</td><td>Opis nalaza iz izvješća</td><td>Pozivanje na izvješće/studiju, uključujući i temeljno izvješće</td></tr>
+<tr><td></td><td>(uz opis navesti i oznaku/broj mjernog mjesta na prilogu)</td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</table>
+
+2. Prethodna onečišćenja i mjerenja kako bi se poboljšalo stanje okoliša
+
+| Broj | Opis | Broj dokumenta |
+|---|---|---|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+#### G. Opis i karakteristike postojećih mjera za potrebe nad­zora postrojenje i emisija u okoliš
+
+1. Sustav postojećih mjera i tehnika za nadzor emisija u okoliš* (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u Poglavlju H.)
+
+| 1.1. | Praćenje emisija |  |
+|---|---|---|
+| 1.2. | Točke emisije (ispusti) |  |
+| 1.3. | Lokacija mjerenja/uzorkovanja |  |
+| 1.4. | Metode mjerenja/uzorkovanja |  |
+| 1.5. | Učestalost mjerenja |  |
+| 1.6. | Uvjeti mjerenja/uzorkovanja |  |
+| 1.7. | Parametri nadzora rada postrojenja |  |
+| 1.8. | Analitička metodologija |  |
+| 1.9. | Tijelo koje provodi mjerenja/uzorkovanja |  |
+| 1.10. | Organizacija koja provodi analizu/laboratorij |  |
+| 1.11. | Autorizacija/akreditacija za mjerenje ili autorizacija/akreditacija laboratorija |  |
+| 1.12. | Vrednovanje rezultata mjerenja |  |
+| 1.13. | Metoda evidencije i pohranjivanja podataka |  |
+| 1.14. | Planirane promjene nadzora |  |
+| 1.15. | Nadzire li se stanje okoliša? |  |
+
+\* Za djelatnosti obrade/odlaganja/skladištenja otpada navesti i mjere provjere prihvata otpada koji dolazi na obradu/odlaganje/skladištenje
+
+2. Sustav i tehnike za nadzor postrojenja i emisija u okoliš koji se planira (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u Poglavlju H.)
+
+*Napomena: primjereno koristite tablicu iz točke 1.*
+
+3. Praćenje stanja okoliša
+
+3.1. Sastavnice okoliša koje se prate:
+
+*Napomena: primjereno koristite tablicu iz točke 1.*
+
+4. Dodatni indikatori/parametri koje operater kontrolira (neobavezno ako se navodi u Poglavlju H. – obavezno ako se radi o mjerama ili tehnikama koje se ne navode u Poglavlju H.)
+
+| Broj | Indikator/parametar | Kratki opis |
+|---|---|---|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+*Napomena: U slučaju primjene jednakovrijednih parametara tablice iz ovog poglavlja odgovarajuće primijeniti na iste.*
+
+#### H. Detaljna analiza postrojenja u odnosu na NRT
+
+(Napomena: ovo poglavlje koristi se i kod razmatranja uvjeta dozvole temeljem članka 115. Zakona o zaštiti okoliša)
+
+1. Popis korištenih RDNRT dokumenata/NRT Zaključaka*
+
+| Prema poglavljima o NRT RDNRT dokumenta/ NRT Zaključak | Kratica | Objavljen (datum) |
+|---|---|---|
+| Za glavnu djelatnost sukladno Prilogu 1 |  |  |
+| Za ostale djelatnosti sukladno Prilogu 1 |  |  |
+
+\* za djelatnosti koje nisu pokrivene RDNRT dokumentom/NRT Zaključkom/ NRT poglavljem potrebno je navesti druge odgovarajuće dokumente na kojima se mjere temelje (ovdje ne uključivati kriterije iz Priloga III.)
+
+2. Usporedba sa zahtjevima NRT*, **
+
+<table>
+<tr><td>Poglavlje o NRT-u u RDNRT dokumentu/NRT Zaključak</td><td>Broj tehnike NRT</td><td>NRT prema poglavljima o NRT RDNRT dokumenta/NRT Zaključka (navesti NRT iz Poglavlja/Zaključka)</td><td>NRT prema poglavljima o NRT RDNRT dokumenta/NRT Zaključka (navesti što konkretniji opis mjera kojim se pokazuje usklađenost mjere sa zahtjevima Poglavlja ili Zaključka o NRT-u)</td><td>Tekuća/planirana primjena u postrojenju<sup>*</sup><sup>*</sup><sup>*</sup><sup>*</sup><sup>*</sup> (u ovoj rubrici navode se i tehnike za strože zahtjeve, ako se to traži)</td><td colspan="2">Usklađenost***</td><td>Strože uvjete kakvoće okoliša<br> ako se traže (obrazložiti procjenom utjecaja na okoliš**** ili prihvatljivosti koja se istovremeno provodi u postupku okolišne dozvole).<br> Opravdanost (obrazloženje) za nesukladnost prema poglavljima ili Zaključcima o NRT-u, ako neusklađenost postoji. Obrazloženje primijenjenih kriterija ako je određivanje NRT-a provedeno prema kriterijima iz Priloga III. Uredbe.<br> Plan za poduzimanje mjera i vremenski okvir za usklađivanje s NRT iz Poglavlja, Zaključaka ili s kriterijima o NRT-u, ako neusklađenost postoji.</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>Da</td><td>Ne</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+\* za djelatnost odlaganja/skladištenja otpada potrebno je navesti mjere konstrukcije i upravljanja odlagališta/skladišta kojima se sprječavaju emisije iz djelatnosti, uključujući i potencijalne emisije, kao i mjere za sprečavanje odlaganja/skladištenja neodgovarajućeg otpada
+
+** ako se za uspoređivanje sa zahtjevima NRT-a primjenjuje smjernice iz članka 33. Uredbe, tada ih je potrebno primjenjivati zajedno s kriterijima iz članka 112. st.3. Zakona o zaštiti okoliša
+
+*** usklađenje (usklađenost) je proces postizanja zahtjeva primjene NRT-a uvođenjem odgovarajućih mjera i tehnika
+
+**** kada je za postrojenje provedena procjena utjecaja zahvata na okoliš, tablice iz poglavlja H. moraju sadržavati i osvrt na primjenu mjera koje su određene u procjeni utjecaja zahvata na okoliš. Mjere iz procjene utjecaja na okoliš se mogu predlagati kao uvjeti primjenom kriterija iz Priloga III. Uredbe.
+
+***** planirane tehnike se moraju predložiti ako postojeće tehnike ne zadovoljavaju, a u skladu sa zahtjevima postupka izdavanja okolišne dozvole i u rokovima koje se u okolišnoj dozvoli mogu propisati sukladno propisu
+
+3. Analiza pokazatelja emisija postrojenja sa zahtjevima NRT*
+
+3.1. Emisije u zrak
+
+<table>
+<tr><td rowspan="2">Poglavlje o NRT-u u RDNRT dokumentu/NRT Zaključak</td><td rowspan="2">Broj tehnike NRT</td><td rowspan="2">Vrijednosti emisija povezane s NRT-om ili vrijednosti jednakovrijednih parametara (ovo posljednje ako takve vrijednosti postoje u dokumentima o NRT-u)</td><td rowspan="2">Postignute**/planirane*** granične vrijednosti emisija (ili vrijednosti jednakovrijednih parametara) prema ispustima (koristiti oznake ispusta iz Zahtjeva) (u ovoj rubrici navode se i vrijednosti emisija za strože zahtjeve, ako se to traži)</td><td rowspan="2">GVE prema nacionalnom zakonodavstvu</td><td colspan="2">Usklađenost</td><td rowspan="2">Strože uvjete kakvoće okoliša ako se traže (obrazložiti procjenom utjecaja na okoliš ili prihvatljivosti koja se istovremeno provodi u postupku okolišne dozvole) Opravdanost (obrazloženje) razlike između razine emisije pri korištenju NRT-a i postignutih/predloženih vrijednosti emisija, ako postoji razlika.<br> Plan za poduzimanje mjera i vremenski okvir za postizanje graničnih vrijednosti jednakih onima pri kojima se koristi NRT ako je potrebno postići usklađenost.<br> U slučaju primjene jednakovrijednih parametara potrebno je pokazati kakva je korelacija između vrijednosti emisija pri korištenju NRT-a i vrijednosti jednakovrijednih parametara</td></tr>
+<tr><td>Da</td><td>Ne</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+\* kod davanja obrazloženja u 7. stupcu tablice odgovarajuće koristiti i ostale zahtjeve/preporuke iz tablice H.2. Usporedba s NRT-om
+
+** postignute vrijednosti navode se ako su u granicama razina emisija povezane s NRT-om i ako se ne predlaže njihova promjena. Ako postignute emisije ne zadovoljavaju ili ako ih se planira promijeniti, navode se planirane emisije.
+
+*** planirane emisije se moraju predložiti u skladu sa zahtjevima postupka izdavanja okolišne dozvole i u rokovima koje se u okolišnoj dozvoli mogu propisati sukladno propisu
+
+3.2. Emisije u vode
+
+*Napomena: primjereno koristite tablicu iz točke 1.*
+
+3.3. Emisije u tlo
+
+*Napomena: primjereno koristite tablicu iz točke 1.*
+
+### I. Popis mjera koje je potrebno poduzeti nakon prestanka rada postrojenja, u svrhu sprječavanja rizika od one­čišćenja ili izbjegavanja prijetnji za ljudsko zdravlje i sanacije lokacije postrojenja
+
+Popis mjera koje je potrebno poduzeti nakon prestanka rada postrojenja Opis programa stavljanja postrojenja izvan pogona ili prijedlog pripreme za navedeni ili sličan program
+
+Rezultati ispitivanja lokacije u odnosu na postojeća onečišćenja tla i podzemnih voda iz samog postrojenja, ili prijedlog za provedbom takvog ispitivanja, i prijedlog vremenskog okvira (podaci o ispitivanjima stanja tla i podzemnih voda iz temeljnog izvješća kao Prilog, ako postoji obveza izrade temeljnog izvješća)
+
+#### J. Identificiranje sudionika u procesu i ostalih dionika za koje operater koji upravlja postrojenjem zna kako bi bili izloženi štetnim učincima ukoliko isti postoje ili novo postrojenje ima prekogranični utjecaj
+
+Popuniti isključivo u slučaju postojanja prekograničnog utjecaja!
+
+Popis sudionika
+
+#### K. Izjava
+
+Ovime dajem izjavu nakon što je pripremljen ovaj Zahtjev za izdavanjem okolišne/izmijenjene dozvole. Ovime potvrđujem preciznost, točnost i cjelovitost podataka. Ovim potvrđujem da su mjere i tehnike koje su predložene u Zahtjevu u skladu s propisima Republike Hrvatske ili da provodimo potrebne aktivnosti radi usklađivanja s tim propisima te da smo upoznati s time da se u slučaju poduzimanja radnji tijela zbog toga što su mjere i tehnika iz Zahtjeva u suprotnosti s ostalim propisima Republike Hrvatske, mogu poduzeti i mjere po propisima o okolišnoj dozvoli propisane za slučaj neusklađenosti s uvjetima okolišne dozvole, ukoliko je takvim radnjama dovedena u pitanje primjena mjera i uvjeta iz okolišne dozvole. Tijelu koje izdaje dozvolu ili tijelima lokalne samouprave dozvoljava se ustupanje kopije ovog Zahtjeva ili njegovog dijela trećim osobama.
+
+| Potpis: | Datum: ___________________ |
+|---|---|
+
+(Predstavnik operatera)
+
+Ime i prezime potpisnika: __________________
+
+Pozicija u postrojenju: ____________________
+
+| Potpis: | Datum: ___________________ |
+|---|---|
+
+(Predstavnik ovlaštenika)
+
+Ime i prezime potpisnika: __________________
+
+Pozicija u pravnoj osobi: ___________________
+
+### L. Skraćenice i simboli
+
+| Skraćenice/simboli | Opis |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+#### M. Prilozi\*
+
+<table>
+<tr><td></td><td colspan="7">Popis priloga</td><td>Broj priloga</td></tr>
+<tr><td></td><td colspan="7">Ne-tehnički sažetak</td><td></td></tr>
+<tr><td></td><td colspan="7">Izvadak iz sudskog registra za pravne osobe, izvadak iz registra obrtnika za fizičke osobe – obrtnike ili izvadak iz Upisnika OPG za fizičke osobe – farmere</td><td></td></tr>
+<tr><td></td><td colspan="7">Izvadak iz katastra i gruntovnice za područje na kojem je smješteno postrojenje, za koje se traži izdavanje dozvole</td><td></td></tr>
+<tr><td></td><td colspan="7">Popis osnovnih podataka o svim dozvolama za rad u sljedećem formatu:</td><td></td></tr>
+<tr><td></td><td>Broj</td><td>Naziv dozvole</td><td colspan="2">Datum<br> izdavanja</td><td colspan="2">Broj dozvole</td><td>Nije izdana</td><td rowspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td colspan="8">Odluke i mišljenja o sastavnicama okoliša izdanim prije podnošenja Zahtjeva</td></tr>
+<tr><td></td><td colspan="2">Tip suglasnosti, dozvole, odluke, i sl., Nadležno tijelo za izdavanje</td><td>Datum izdavanja</td><td colspan="2">Vrijedi do datuma</td><td colspan="2">Broj dokumenta</td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td colspan="7">Izvadak iz Ekološke mreže</td><td></td></tr>
+<tr><td></td><td colspan="7">Orto-foto karta s prikazom lokacije postrojenja i područja koje ga okružuje</td><td></td></tr>
+<tr><td></td><td colspan="7">Tlocrt/dijagram toka postrojenja s označenim zgradama i točkama emisije i/ili dijagram toka procesa s označenim točkama emisije</td><td></td></tr>
+<tr><td></td><td colspan="7">Dijagram toka/tehnološka shema</td><td></td></tr>
+<tr><td></td><td colspan="7">Pregledna situacija (geodetska snimka) internog sustava odvodnje otpadnih voda (s prikazom svih građevina za odvodnju i obradu otpadnih voda i mjestima ispuštanja)</td><td></td></tr>
+<tr><td></td><td colspan="7">Plan rada i održavanja vodnih građevina za odvodnju i uređaja pročišćavanje otpadnih voda</td><td></td></tr>
+<tr><td></td><td colspan="7">Operativni plan mjera za slučaj izvanrednih i iznenadnih onečišćenja voda</td><td></td></tr>
+<tr><td></td><td colspan="7">Pravilnik o zbrinjavanju svih vrsta otpada iz tehnološkog procesa i mulja iz procesa pročišćavanja otpadnih voda</td><td></td></tr>
+<tr><td></td><td colspan="7">Potvrda o sukladnosti građevine s tehničkim zahtjevima za građevine interne odvodnje i pročišćavanja otpadnih voda (vodonepropusnost, strukturalna stabilnost i funkcionalnost)</td><td></td></tr>
+<tr><td></td><td colspan="7">Ukoliko primjenjivo, ugovor s javnim isporučiteljem vodne usluge o prihvatljivosti ispuštanja GV određenih opasnih tvari u otpadnim vodama</td><td></td></tr>
+<tr><td></td><td colspan="7">Ugovor s ostalim pravnim subjektima/osobama za primjenu stajskog gnoja</td><td></td></tr>
+<tr><td></td><td colspan="7">Ugovor s drugim pravnim subjektom za obradu stajskog gnoja izvan lokacije</td><td></td></tr>
+<tr><td></td><td colspan="8">Ostali priloženi dokumenti pripremljeni za potrebe podnošenja Zahtjeva</td></tr>
+<tr><td></td><td colspan="7"></td><td></td></tr>
+<tr><td></td><td colspan="7"></td><td></td></tr>
+<tr><td></td><td colspan="7"></td><td></td></tr>
+</table>
+
+\* Napomena: osim ne-tehničkog sažetka operater nije obvezan dostaviti sve navedene priloge, već one koji se konkretno mogu primijeniti na Zahtjev ili su važni za odlučivanje po Zahtjevu. Tijekom postupka nadležna tijela i/ili osobe s javnim ovlastima mogu tražiti dostavu priloga koje smatraju potrebnim za davanje mišljenja.
+
+#### N. Prijedlog mjera i uvjeta za dobivanje dozvole – ne­obavezno
+
+1. Procesne tehnike (s utvrđenim uobičajenim i manje uobičajenim uvjetima rada) – uključuje mjere i tehnike glavne i ostalih aktivnosti, pod brojem Priloga I. Uredbe, te povezanih aktivnosti
+
+2. Preventivne i kontrolne tehnike
+
+2.1. Sustav upravljanja okolišem
+
+2.2. Kontrola i nadzor procesa
+
+2.3. Sprečavanje emisija u okoliš (zrak, vode, tlo, buka….)
+
+3. Gospodarenje otpadom
+
+4. Praćenje emisija u okoliš
+
+5. Neredoviti uvjeti rada i sprečavanje akcidenata
+
+6. Način uklanjanja postrojenja
+
+7. Granične vrijednosti emisija (zrak, vode, tlo, buka….)
+
+8. Uvjeti izvan postrojenja (ukoliko se zahtijeva)
+
+9. Obveze informiranja javnosti i nadležnih tijela
+
+10. Tablica povezivanja predloženih mjera ili tehnika s NRT-om
+
+| Broj | Mjera ili tehnika | Poglavlje o NRT-u u RDNRT dokumentu/NRT zaključku, kriteriji, stroži zahtjevi |
+|---|---|---|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+PRILOG V.
+
+OBRAZAC ZA DAVANJE MIŠLJENJA I OCJENE, KAO I ZAHTJEVA ZA DOPUNOM, ZA TIJELA I OSOBE PREMA POSEBNIM PROPISIMA
+
+UVODNI DIO:
+
+| Nadležno tijelo za pojedinu sastavnicu okoliša i opterećenje okoliša (naziv tijela) |  |
+|---|---|
+| Predmet mišljenja i ocjene (naziv operatera i postrojenja) |  |
+
+### V.l. ZA OPĆI OBRAZAC ZAHTJEVA
+
+Mišljenje nadležnog tijela prema sadržaju stručne podloge zahtjeva:
+
+<table>
+<tr><td rowspan="16">Navodi se sljedeći komentar</td><td>Poglavlje</td><td>Točka</td><td colspan="2">Komentari*</td></tr>
+<tr><td>A</td><td></td><td colspan="2"></td></tr>
+<tr><td>B</td><td></td><td colspan="2"></td></tr>
+<tr><td>C</td><td></td><td colspan="2"></td></tr>
+<tr><td>D</td><td></td><td colspan="2"></td></tr>
+<tr><td>E</td><td></td><td colspan="2"></td></tr>
+<tr><td>F</td><td></td><td colspan="2"></td></tr>
+<tr><td>G</td><td></td><td colspan="2"></td></tr>
+<tr><td>H</td><td></td><td colspan="2"></td></tr>
+<tr><td>I</td><td></td><td colspan="2"></td></tr>
+<tr><td>J</td><td></td><td colspan="2"></td></tr>
+<tr><td>K</td><td></td><td colspan="2"></td></tr>
+<tr><td>L</td><td></td><td colspan="2"></td></tr>
+<tr><td>M</td><td></td><td colspan="2"></td></tr>
+<tr><td>N</td><td></td><td colspan="2"></td></tr>
+<tr><td>Prilog broj:</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="5">Prihvaćamo u cijelosti priloženi zahtjev: (ukoliko DA ne ispunjavaju se dijelovi obrasca vezani za zahtjeve za nadopunom)<br> __________________</td></tr>
+<tr><td colspan="5">Zahtijevamo nadopunu sljedećih informacija (navesti kojih):</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td colspan="5">Zahtijevamo prilaganje sljedećih dokumenata (navesti koje): :</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td colspan="5">Drugi zahtjev i komentari – (pogledati sljedeću tablicu):</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td colspan="4">Naziv tijela (osoba) koje je ispunilo obrazac:</td><td></td></tr>
+<tr><td colspan="4">Datum:</td><td></td></tr>
+<tr><td colspan="4">Ime odgovorne osobe:</td><td>Potpis:</td></tr>
+</table>
+
+*Napomena: ukoliko se radi postupka okolišne dozvole provodi inspekcijski nadzor, nadležno tijelo to mora navesti u stupcu Komentari iz ove tablice.
+
+Ispunjava se kao obrazloženje prve tablice (nije obavezno ukoliko nema zahtjeva za dopunom)
+
+| Vrsta primjedbi na stručnu podlogu zahtjeva | Odgovor nadležnog tijela | Obrazloženje odgovora |
+|---|---|---|
+| Vrsta primjedbe (npr. neslaganje s predloženim graničnim vrijednostima emisija ili jednakovrijednih parametara ili neodgovarajuće obrazloženje istih, nedovoljno obrazloženje drugih predloženih uvjeta, kapacitet uređaja za sprječavanje emisija i prijemnika, osjetljivost prijemnika ili sastavnice okoliša ili posebni zahtjevi na kakvoću okoliša, neodgovarajuća dokumentacija na koju se stručna podloga zahtjeva poziva i s1.) |  |  |
+| Ako nema primjedbi na stručnu podlogu zahtjeva, odgovoriti da ih nema |  |  |
+| Ako se ne može komentirati sada, obrazložiti zbog čega (prema sadržaju stručne podloge zahtjeva) |  |  |
+| Ako su potrebne dodatne informacije, naznačiti koje su informacije potrebne (prema sadržaju stručne podloge zahtjeva) |  |  |
+| Ako se prihvaća predloženo usklađivanje, odgovoriti da li se prihvaćaju predložene mjere i rokove poboljšanja ili se predlažu drugačije (navesti koje) |  |  |
+| Ako se smatra da su potrebni drugi uvjeti od predloženih u stručnoj podlozi, navesti koji |  |  |
+
+### V.2. ZA OBRAZAC ZAHTJEVA PREMA OPĆIM OBVEZUJUĆIM PRAVILIMA
+
+Prilog 1.: Mišljenje nadležnog tijela prema sadržaju stručne podloge Zahtjeva:
+
+<table>
+<tr><td rowspan="6">Navodi se sljedeći komentar</td><td>Poglavlje Zahtjeva općih obvezujućih pravila</td><td>Točka</td><td colspan="2">Komentari (vezani uz inspekcijski nadzor ili mišljenje nadležnog tijela ili osobe ukoliko inspekcijski nadzor nije proveden ili provediv)</td></tr>
+<tr><td></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>Prilog broj:</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="5">Prihvaćamo u cijelosti priloženi zahtjev: (ukoliko DA ne ispunjavaju se dijelovi obrasca vezani za druge zahtjeve i komentare)<br> ________________</td></tr>
+<tr><td colspan="5">Zahtijevamo nadopunu sljedećih informacija (navesti kojih):</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td colspan="5">Zahtijevamo prilaganje sljedećih dokumenata (navesti koje):</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td colspan="5">Drugi zahtjev i komentari – (dozvoljena primjena tablice pojašnjenja kao i za prilog VI.):</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td colspan="4">Naziv tijela (osobe) koje je ispunilo obrazac:</td><td></td></tr>
+<tr><td colspan="4">Datum:</td><td></td></tr>
+<tr><td colspan="4">Ime odgovorne osobe:</td><td>Potpis</td></tr>
+</table>
+
+##### Članak 21.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-03/99  
+Urbroj: 50301-25/27-18-3  
+Zagreb, 11. siječnja 2018.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

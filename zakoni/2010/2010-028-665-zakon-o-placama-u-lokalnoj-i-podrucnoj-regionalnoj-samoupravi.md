@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2010-03-03
+last_amended: 2023-01-27
 status: in_force
-status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "28/10"
-amendments: []
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "28/10, 10/23"
+amendments:
+  - "NN 10/2023 (205) Zakon o izmjenama i dopuni Zakona o plaćama u lokalnoj i područnoj (regionalnoj) samoupravi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2010/28/665"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o plaćama u lokalnoj i područnoj (regionalnoj) samoupravi
 
 > Izvor: Narodne novine, NN 28/2010 (https://narodne-novine.nn.hr/eli/sluzbeni/2010/28/665).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 10/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -226,3 +230,76 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o plaćama u lokalnoj i područnoj (regionalnoj) samoupravi (NN 10/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/10/205*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PLAĆAMA U LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o plaćama u lokalnoj i područnoj (regionalnoj) samoupravi, koji je Hrvatski sabor donio na sjednici 20. siječnja 2023.
+
+Klasa: 011-02/23-02/04  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 24. siječnja 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PLAĆAMA U LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI**
+
+### Članak 1.
+
+U Zakonu o plaćama u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 28/10.) u članku 6. stavku 1. iza riječi: »Naknade za rad« dodaje se riječ: »župana,«.
+
+### Članak 2.
+
+Članak 14. mijenja se i glasi:
+
+»Masa sredstava za plaće zaposlenih u jedinicama lokalne i područne (regionalne) samouprave ne smije iznositi više od 18% prihoda poslovanja jedinice ostvarenih u godini koja prethodi godini izrade proračuna.«.
+
+### Članak 3.
+
+Članak 15. mijenja se i glasi:
+
+»U jedinicama lokalne i područne (regionalne) samouprave koje su kao krajnji korisnici u godini koja prethodi godini izrade proračuna ostvarile sredstva fiskalnog izravnanja iz državnog proračuna i pomoći izravnanja za financiranje decentraliziranih funkcija, u kojima iznos tih pomoći prelazi 20% prihoda poslovanja, a masa sredstava isplaćenih za plaće iznosi više od 15% prihoda poslovanja, ukupna masa sredstava za plaće zaposlenih dužnosnika, službenika i namještenika ne smije se povećavati u odnosu na godinu koja prethodi godini izrade proračuna.«.
+
+### Članak 4.
+
+Članak 16. mijenja se i glasi:
+
+»Sredstva za plaće zaposlenih koji obavljaju povjerene poslove državne uprave te zaposlenih u jedinicama lokalne i područne (regionalne) samouprave na provedbi projekata, za iznose koji se financiraju iz sredstava pomoći iz inozemstva i od subjekata unutar općeg proračuna, ne uključuju se u ograničenje mase sredstava za plaće iz članaka 14. i 15. ovoga Zakona.
+
+Za iznos sredstava za plaće zaposlenih koji obavljaju povjerene poslove državne uprave umanjuje se i iznos prihoda poslovanja za izračun mase sredstava za plaće zaposlenih u jedinicama lokalne i područne (regionalne) samouprave iz članaka 14. i 15. ovoga Zakona.«.
+
+### Članak 5.
+
+U članku 18. riječi: »30.000 do 50.000 kuna« zamjenjuju se riječima: »3.980,00 do 6.630,00 eura«.
+
+U podstavku 1. riječi: »4., 15. i 16. ovoga Zakona,« zamjenjuju se riječima: »4., 14. i 15. ovoga Zakona,«.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/02  
+Zagreb, 20. siječnja 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

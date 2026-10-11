@@ -6,14 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-02-15
-last_amended: 2014-06-18
+last_amended: 2021-04-16
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "18/13, 127/13, 74/14"
+narodne_novine: "18/13, 127/13, 74/14, 98/19, 41/21"
 amendments:
   - "NN 127/2013 (2759) Zakon o izmjenama i dopunama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave"
   - "NN 74/2014 (1393) Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave"
+  - "NN 98/2019 (1966) Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave"
+  - "NN 41/2021 (812) Zakon o izmjenama i dopunama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/18/293"
 retrieved: 2026-10-12
 ---
@@ -22,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 18/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/18/293).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 127/2013, NN 74/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 127/2013, NN 74/2014, NN 98/2019, NN 41/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -483,3 +485,265 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1966*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O DRŽAVNOJ KOMISIJI ZA KONTROLU POSTUPAKA JAVNE NABAVE
+
+Proglašavam Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/174
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O DRŽAVNOJ KOMISIJI ZA KONTROLU POSTUPAKA JAVNE NABAVE**
+
+### Članak 1.
+
+U Zakonu o Državnoj komisiji za kontrolu postupaka javne nabave (»Narodne novine«, br. 18/13., 127/13. i 74/14.) u članku 7. stavak 5. mijenja se i glasi:
+
+»(5) Koeficijent i osnovicu za izračun plaće predsjednika Državne komisije, zamjenika predsjednika Državne komisije te ostalih članova Državne komisije utvrdit će Vlada Republike Hrvatske odlukom, s time da utvrđeni osnovica i koeficijent ne mogu biti viši od osnovice i koeficijenta državnog tajnika.«.
+
+### Članak 2.
+
+U članku 14. stavku 4. riječ: »središnjih« briše se.
+
+### Članak 3.
+
+U članku 21. stavku 5. riječ: »središnjeg« briše se.
+
+### Članak 4.
+
+Vlada Republike Hrvatske donijet će odluku iz članka 1. ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/169
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave (NN 41/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/41/812*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOJ KOMISIJI ZA KONTROLU POSTUPAKA JAVNE NABAVE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave, koji je Hrvatski sabor donio na sjednici 9. travnja 2021.
+
+Klasa: 011-01/21-01/25
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 13. travnja 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOJ KOMISIJI ZA KONTROLU POSTUPAKA JAVNE NABAVE**
+
+#### Članak 1.
+
+U Zakonu o Državnoj komisiji za kontrolu postupaka javne nabave (»Narodne novine«, br. 18/13., 127/13., 74/14. i 98/19.) članak 2. mijenja se i glasi:
+
+»Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:
+
+1. Direktiva Vijeća 89/665/EEZ od 21. prosinca 1989. o usklađivanju zakona i drugih propisa u odnosu na primjenu postupaka kontrole na sklapanje ugovora o javnoj nabavi robe i javnim radovima (SL L 395, 30. 12. 1989.),
+
+2. Direktiva Vijeća 92/13/EEZ od 25. veljače 1992. o usklađivanju zakona i drugih propisa o primjeni pravila Zajednice u postupcima nabave subjekata koji djeluju u sektoru vodnoga gospodarstva, energetskom, prometnom i telekomunikacijskom sektoru (SL L 76, 23. 3. 1992.),
+
+3. Direktiva 2007/66/EZ Europskog parlamenta i Vijeća od 11. prosinca 2007. o izmjeni direktiva Vijeća 89/665/EEZ i 92/13/EEZ u vezi s poboljšanjem učinkovitosti postupaka pravne zaštite koji se odnose na sklapanje ugovora o javnoj nabavi (SL L 335, 20. 12. 2007.).«.
+
+#### Članak 2.
+
+U članku 7. stavak 3. mijenja se i glasi:
+
+»(3) Predsjednika Državne komisije u slučaju spriječenosti ili odsutnosti zamjenjuje zamjenik predsjednika kojeg je odredio predsjednik Državne komisije, a ako nitko nije određen, zamjenjuje ga zamjenik koji je ranije imenovan na dužnost.«.
+
+Iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+
+»(4) U slučaju prestanka mandata predsjednika Državne komisije, do imenovanja novog, dužnost predsjednika obnašat će zamjenik koji je ranije imenovan na dužnost.
+
+(5) U slučaju iz stavaka 3. i 4. ovoga članka, ako su oba zamjenika imenovana istog dana na dužnost, predsjednika zamjenjuje zamjenik s duljim radnim iskustvom u području javne nabave.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 6. i 7.
+
+Iza stavka 7. dodaju se stavci 8. i 9. koji glase:
+
+»(8) Za vrijeme trajanja mandata članovi Državne komisije uz plaću imaju pravo i na ostala materijalna prava sukladno ovome Zakonu.
+
+(9) Plaća člana Državne komisije uvećava se za 0,5 % za svaku navršenu godinu radnog staža, a najviše za 20 %.«.
+
+#### Članak 3.
+
+Iza članka 7. dodaju se naslovi iznad članaka i članci 7.a, 7.b, 7.c, 7.d i 7.e koji glase:
+
+*»Druga materijalna prava*
+
+#### Članak 7.a
+
+(1) Član Državne komisije za vrijeme obnašanja dužnosti ima pravo na:
+
+1. naknadu plaće kad je spriječen obnašati dužnost sukladno zakonu,
+
+2. mirovinsko i zdravstveno osiguranje i prava koja iz toga proizlaze po općim propisima,
+
+3. godišnji odmor u trajanju od 30 radnih dana,
+
+4. naknadu troškova prijevoza na posao i s posla,
+
+5. naknadu za službena putovanja i putne troškove u vezi s obnašanjem dužnosti,
+
+6. stručno usavršavanje u okviru sredstava osiguranih za tu namjenu.
+
+(2) Prava članova iz stavka 1. točaka 4. – 6. ovoga članka uređuje Državna komisija pravilnikom o unutarnjem redu, a ona ne smiju prelaziti razinu prava koja ostvaruju državni službenici zaposleni u Državnoj komisiji.
+
+*Pravo na naknadu plaće nakon prestanka obnašanja dužnosti*
+
+#### Članak 7.b
+
+(1) Članovi Državne komisije koji su dužnost obnašali najmanje jednu godinu nakon prestanka obnašanja dužnosti sve do početka ostvarivanja plaće po drugoj osnovi ili do ispunjenja uvjeta za mirovinu imaju, šest mjeseci od dana prestanka obnašanja dužnosti, pravo na naknadu u visini plaće koju ostvaruje član Državne komisije na toj dužnosti, a sljedećih šest mjeseci pravo na naknadu u visini 50 % plaće koju ostvaruje član Državne komisije na toj dužnosti.
+
+(2) Članovi Državne komisije koji su dužnost obnašali manje od jedne godine, ali više od tri mjeseca, nakon prestanka obnašanja dužnosti sve do početka ostvarivanja plaće po drugoj osnovi ili do ispunjenja uvjeta za mirovinu imaju, tri mjeseca od dana prestanka obnašanja dužnosti, pravo na naknadu u visini plaće koju ostvaruje član Državne komisije na toj dužnosti, a sljedeća tri mjeseca pravo na naknadu u visini 50 % plaće koju ostvaruje član Državne komisije na toj dužnosti.
+
+*Pravo povratka na rad u državnom i javnom sektoru*
+
+#### Članak 7.c
+
+(1) Član Državne komisije koji nije ponovno imenovan za člana Državne komisije ili na drugu dužnost, a koji je prije obnašanja dužnosti bio zaposlen na neodređeno vrijeme u tijelima državne uprave, pravosudnim tijelima, kaznenim tijelima, stručnoj službi Hrvatskoga sabora, Uredu Predsjednika Republike, stručnoj službi i uredima Vlade Republike Hrvatske, stručnoj službi Ustavnog suda Republike Hrvatske, stručnoj službi pučkog pravobranitelja, stručnoj službi pravobranitelja za djecu, stručnoj službi pravobranitelja za ravnopravnost spolova, stručnoj službi pravobranitelja za osobe s invaliditetom, Državnom uredu za reviziju i u drugim tijelima koja se osnivaju za obavljanje državne službe, tijelima lokalne i područne (regionalne) samouprave, javnoj službi, izvanproračunskim fondovima, pravnim osobama u vlasništvu ili pretežitom vlasništvu Republike Hrvatske i pravnim osobama u vlasništvu ili pretežitom vlasništvu jedinica lokalne i područne (regionalne) samouprave, ima pravo rasporeda, odnosno povratka na rad, na poslove koje je obavljao prije obnašanja dužnosti ili na druge odgovarajuće poslove, bez provedbe javnog natječaja.
+
+(2) Sporazumom između člana Državne komisije i čelnika tijela, odnosno osobe ovlaštene za zastupanje u ostvarivanju prava i obveza iz radnog odnosa ili u vezi s radnim odnosom, pobliže će se odrediti uvjeti ostvarivanja prava iz stavka 1. ovoga članka.
+
+(3) Zahtjev za raspored, odnosno povratak na rad član Državne komisije mora podnijeti najkasnije u roku od 15 dana od dana prestanka mandata.
+
+(4) Čelnik tijela, odnosno osoba ovlaštena za zastupanje u ostvarivanju prava i obveza iz radnog odnosa ili u vezi s radnim odnosom dužna je u roku od 45 dana od dana podnošenja zahtjeva iz stavka 3. ovoga članka donijeti odluku o rasporedu, odnosno povratku na rad člana Državne komisije iz stavka 1. ovoga članka.
+
+(5) Član Državne komisije iz stavka 1. ovoga članka nakon prestanka mandata do rasporeda, odnosno povratka na rad na poslove koje je obavljao prije obnašanja dužnosti ili na druge odgovarajuće poslove, ima pravo na naknadu najviše do iznosa dviju plaća sukladno članku 7.b ovoga Zakona.
+
+(6) Član Državne komisije iz stavka 1. ovoga članka kojemu čelnik tijela, odnosno osoba ovlaštena za zastupanje u ostvarivanju prava i obveza iz radnog odnosa ili u vezi s radnim odnosom nije donijela odluku o rasporedu, odnosno povratku na rad u roku iz stavka 4. ovoga članka ili ako odluku o rasporedu, odnosno povratku na rad član Državne komisije nije prihvatio, ima pravo na naknadu plaće sukladno članku 7.b ovoga Zakona od dana nakon prestanka mandata.
+
+*Pravo povratka na rad u privatnom sektoru*
+
+#### Članak 7.d
+
+(1) Član Državne komisije koji nije ponovno imenovan za člana Državne komisije ili na drugu dužnost, a koji nije bio zaposlen kod poslodavca iz članka 7.c stavka 1. ovoga Zakona, ima pravo povratka na rad, na poslove na kojima je radio prije obnašanja dužnosti ili na druge odgovarajuće poslove, kod poslodavca kod kojeg je bio u radnom odnosu na neodređeno vrijeme prije obnašanja dužnosti.
+
+(2) Ugovorom između člana Državne komisije i poslodavca iz stavka 1. ovoga članka pobliže će se odrediti uvjeti ostvarivanja prava iz stavka 1. ovoga članka.
+
+(3) Zahtjev za raspored, odnosno povratak na rad član Državne komisije iz stavka 1. ovoga članka mora podnijeti najkasnije u roku od 15 dana od dana prestanka obnašanja dužnosti.
+
+(4) Poslodavac iz stavka 1. ovoga članka dužan je u roku od 45 dana od dana podnošenja zahtjeva iz stavka 3. ovoga članka donijeti odluku o povratku na rad člana Državne komisije iz stavka 1. ovoga članka.
+
+(5) Član Državne komisije nakon prestanka mandata do povratka na rad kod poslodavca iz stavka 1. ovoga članka ima pravo na naknadu najviše do iznosa dviju plaća sukladno članku 7.b ovoga Zakona.
+
+(6) Član Državne komisije iz stavka 1. ovoga članka kojem poslodavac nije donio odluku o povratku na rad u roku iz stavka 4. ovoga članka ili odluku o povratku na rad član Državne komisije nije prihvatio, ima pravo na naknadu plaće sukladno članku 7.b ovoga Zakona od dana nakon prestanka mandata.
+
+*Nemogućnost ostvarivanja prava na naknadu plaće nakon prestanka obnašanja dužnosti*
+
+#### Članak 7.e
+
+(1) Pravo iz članka 7.b ovoga Zakona ne može ostvariti član Državne komisije koji bude razriješen dužnosti zbog ranijeg postojanja činjenica koje su mu bile poznate ili su mu morale biti poznate u vrijeme njegova imenovanja na dužnost, a nije ih predočio predlagatelju, no za koje je mogao pretpostaviti da bi bile objektivna zapreka njegovu imenovanju na dužnost člana Državne komisije.
+
+(2) Pravo iz članka 7.b ovoga Zakona ne može ostvariti član Državne komisije koji bude razriješen dužnosti na temelju članka 12. stavka 2. točke 1. ovoga Zakona ako nije obnašao dužnost člana Državne komisije najmanje godinu dana.
+
+(3) Pravo iz članka 7.b ovoga Zakona ne može ostvariti član Državne komisije koji je razriješen prije isteka mandata na temelju članka 12. stavka 2. točaka 2. do 7. ovoga Zakona.«.
+
+#### Članak 4.
+
+Naslov iznad članka 8. mijenja se i glasi: »Imenovanje, početak i trajanje mandata člana Državne komisije«.
+
+U članku 8. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) U postupku predlaganja članova Državne komisije Vlada Republike Hrvatske objavljuje javni poziv za odabir kandidata koje će Vlada Republike Hrvatske predložiti Hrvatskome saboru za članove Državne komisije.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Mandat člana Državne komisije počinje s danom koji je izrijekom utvrđen u odluci o imenovanju, odnosno, ako dan početka mandata nije izrijekom utvrđen u odluci, s prvim radnim danom nakon dana objave odluke u »Narodnim novinama«.«.
+
+#### Članak 5.
+
+Naslov iznad članka 12. mijenja se i glasi: »Prestanak mandata i razrješenje člana Državne komisije prije isteka mandata«.
+
+U članku 12. dodaje se novi stavak 1. koji glasi:
+
+»(1) Mandat člana Državne komisije prestaje:
+
+1. istekom roka na koji je imenovan,
+
+2. smrću,
+
+3. danom razrješenja koji je izrijekom utvrđen u odluci o razrješenju, odnosno, ako dan razrješenja nije izrijekom utvrđen u odluci, s prvim radnim danom nakon dana objave odluke u 'Narodnim novinama'.«.
+
+Dosadašnji stavci 1. – 4. postaju stavci 2. – 5.
+
+Dosadašnji stavak 5. briše se.
+
+#### Članak 6.
+
+Iza članka 12. dodaju se naslov iznad članka i članak 12.a koji glase:
+
+*»Imenovanje vršitelja dužnosti člana Državne komisije*
+
+#### Članak 12.a
+
+(1) U slučaju da po prestanku mandata člana Državne komisije Hrvatski sabor nije imenovao novog člana, Vlada Republike Hrvatske može imenovati vršitelja dužnosti člana do imenovanja člana od strane Hrvatskoga sabora, a najdulje na rok od 12 mjeseci.
+
+(2) U slučaju opravdane spriječenosti u obnašanju dužnosti člana Državne komisije duljem od tri mjeseca, poput dugotrajnog bolovanja ili rodiljnog ili roditeljskog dopusta, Vlada Republike Hrvatske može predložiti Hrvatskome saboru imenovanje vršitelja dužnosti člana do povratka člana na dužnost, a najdulje na rok od 12 mjeseci s mogućnošću još jednog imenovanja.
+
+(3) Za odabir kandidata vršitelja dužnosti člana iz stavaka 1. i 2. ovoga članka ne objavljuje se javni poziv.
+
+(4) Na vršitelja dužnosti člana odgovarajuće se primjenjuju odredbe ovoga Zakona koje se odnose na člana Državne komisije.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 7.
+
+Vlada Republike Hrvatske će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti Uredbu o unutarnjem ustrojstvu Državne komisije za kontrolu postupaka javne nabave (»Narodne novine«, br. 84/13. i 145/14.) s odredbama ovoga Zakona.
+
+#### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/14
+
+Zagreb, 9. travnja 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

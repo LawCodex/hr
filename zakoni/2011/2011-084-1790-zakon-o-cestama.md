@@ -6,16 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-07-20
-last_amended: 2014-07-28
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "84/11, 22/13, 54/13, 148/13, 92/14"
+narodne_novine: "84/11, 22/13, 54/13, 148/13, 92/14, 110/19, 144/21, 114/22"
 amendments:
   - "NN 22/2013 (360) Zakon o dopuni Zakona o cestama"
   - "NN 54/2013 (1083) Zakon o izmjenama i dopunama Zakona o cestama"
   - "NN 148/2013 (3154) Zakon o izmjeni i dopuni Zakona o cestama"
   - "NN 92/2014 (1843) Zakon o izmjenama i dopunama Zakona o cestama"
+  - "NN 110/2019 (2213) Zakon o izmjenama Zakona o cestama"
+  - "NN 144/2021 (2462) Zakon o izmjenama i dopunama Zakona o cestama"
+  - "NN 114/2022 (1736) Zakon o izmjenama Zakona o cestama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1790"
 retrieved: 2026-10-12
 ---
@@ -24,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 84/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1790).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 22/2013, NN 54/2013, NN 148/2013, NN 92/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 22/2013, NN 54/2013, NN 148/2013, NN 92/2014, NN 110/2019, NN 144/2021, NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3075,3 +3078,1122 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o cestama (NN 110/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2213*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O CESTAMA
+
+Proglašavam Zakon o izmjenama Zakona o cestama, koji je Hrvatski sabor donio na sjednici 31. listopada 2019.
+
+Klasa: 011-01/19-01/192
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 7. studenoga 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O CESTAMA**
+
+### Članak 1.
+
+U Zakonu o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13. i 92/14.) u članku 24. stavak 2. mijenja se i glasi:
+
+»(2) U postupku izdavanja lokacijske dozvole za građenje i rekonstrukciju županijskih i lokalnih cesta i građevine iz članka 4. stavka 1. podstavka 6. ovoga Zakona posebne uvjete izdaje nadležno upravno tijelo županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na prostorno uređenje. Posebni uvjeti izdaju se prije izdavanja lokacijske dozvole odnosno drugog akta kojim se provode dokumenti prostornog uređenja sukladno posebnom propisu.«.
+
+### Članak 2.
+
+U članku 41. stavak 1. mijenja se i glasi:
+
+»(1) Ako pravna osoba koja upravlja javnom cestom, odnosno koncesionar želi stupiti u posjed nekretnina prije pravomoćnosti rješenja o izvlaštenju, podnosi zahtjev za stupanjem u posjed nadležnom upravnom tijelu županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na prostorno uređenje.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) O stupanju u posjed izvlaštenih nekretnina iz stavka 1. ovoga članka rješenje donosi nadležno upravno tijelo županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na prostorno uređenje u roku od tri dana od dana podnošenja urednog zahtjeva.«.
+
+### Članak 3.
+
+U članku 61. stavak 4. mijenja se i glasi:
+
+»(4) Hrvatske autoceste d.o.o., Hrvatske ceste d.o.o. i koncesionar uz prethodnu suglasnost ministra, odnosno županijska uprava za ceste uz prethodnu suglasnost nadležnog upravnog tijela županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na prostorno uređenje ovlašteni su izmijeniti prometni elaborat iz stavka 1. ovoga članka, odnosno postojeće stanje iz stavka 2. ovoga članka.«.
+
+### Članak 4.
+
+U članku 97. stavak 1. mijenja se i glasi:
+
+»(1) Kada se javna cesta razvrstana u jednu od četiriju skupina iz članka 6. stavka 1. ovoga Zakona razvrstava u drugu skupinu ili prestaje biti javna cesta te kada je za javnu cestu ili njezin dio proveden postupak ukidanja statusa javnog dobra u općoj uporabi iz članka 5. ovoga Zakona, pravna osoba koja upravlja javnom cestom i koja je vodila javnu cestu u svojim poslovnim knjigama dužna je istu prenijeti pravnoj osobi koja je prema odredbama ovoga Zakona postala nadležna za upravljanje tom cestom, odnosno tijelu državne uprave ovlaštenom za upravljanje imovinom Republike Hrvatske.«.
+
+### Članak 5.
+
+U članku 106. stavak 3. mijenja se i glasi:
+
+»(3) Rješenje o stupanju u posjed donosi nadležno upravno tijelo županije odnosno ured Grada Zagreba nadležan za imovinskopravne poslove u roku od 15 dana od dana podnošenja urednog zahtjeva za njegovo donošenje.«.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/191  
+Zagreb, 31. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o cestama (NN 144/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/144/2462*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O CESTAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o cestama, koji je Hrvatski sabor donio na sjednici 15. prosinca 2021.
+
+Klasa: 011-01/21-01/102
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 21. prosinca 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O CESTAMA**
+
+#### Članak 1.
+
+U Zakonu o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13., 92/14. i 110/19.) u članku 1.a ispred riječi: »Ovaj« stavlja se oznaka stavka koja glasi: »(1)«.
+
+U stavku 1. točki 8. na kraju rečenice briše se točka i dodaju se točke 9. i 10. koje glase:
+
+»9. Direktiva (EU) 2019/520 Europskog parlamenta i Vijeća od 19. ožujka 2019. o interoperabilnosti elektroničkih sustava za naplatu cestarine i olakšavanju prekogranične razmjene informacija o neplaćanju cestarina u Uniji (preinaka) – Tekst od značaja za EGP (SL L 91 od 29. ožujka 2019.),
+
+10. Direktiva (EU) 2019/1936 Europskog parlamenta i Vijeća od 23. listopada 2019. o izmjeni Direktive 2008/96/EZ o upravljanju sigurnošću cestovne infrastrukture (SL L 305 od 29. studenoga 2019.).«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Ovim Zakonom osigurava se provedba sljedećih akata Europske unije:
+
+1. Delegirana uredba Komisije (EU) 2020/203 od 28. studenoga 2019. o klasifikaciji vozila, obvezama korisnika Europske elektroničke naplate cestarine, zahtjevima za sastavnice interoperabilnosti i minimalnim kriterijima prihvatljivosti za prijavljena tijela – Tekst od značaja za EGP (SL L 43 od 17. veljače 2020.),
+
+2. Provedbena uredba Komisije (EU) 2020/204 od 28. studenoga 2019. o detaljnim obvezama pružatelja usluge Europske elektroničke naplate cestarine, minimalnom sadržaju izjave o području Europske elektroničke naplate cestarine, elektroničkim sučeljima, zahtjevima za sastavnice interoperabilnosti i stavljanju izvan snage Odluke 2009/750/EZ (SL L 43 od 17. veljače 2020.).«.
+
+#### Članak 2.
+
+U članku 2. stavku 1. točki 21. na kraju rečenice briše se točka i dodaje se točka 22. koja glasi:
+
+»22. »cestarinski prolaz« ili naplatna postaja je složena građevina namijenjena za kontrolu i naplatu cestarine.«.
+
+#### Članak 3.
+
+U članku 4. podstavak 4. mijenja se i glasi:
+
+» – cestovno zemljište u površini, koju čine površina zemljišta na kojoj prema projektu treba izgraditi ili je izgrađena cestovna građevina, površina zemljišnog pojasa te površina zemljišta na kojima su prema projektu ceste izgrađene ili se trebaju izgraditi građevine za potrebe održavanja ceste i pružanja usluga vozačima i putnicima, kao i za potrebe kretanja bicikala i pješaka te naplatu cestarine predviđeni projektom ceste (objekti za održavanje cesta, upravljanje i nadzor prometa, naplatu cestarine, benzinske postaje, punionice za električna vozila i druga alternativna goriva, servisi, parkirališta, odmorišta, nogostupi, biciklističke prometnice, zelene površine, ugibališta, okretišta, stajališta javnog prijevoza i drugi),«.
+
+Iza podstavka 5. dodaje se novi podstavak 6. koji glasi:
+
+» – građevine koje služe za promet bicikala i kretanje pješaka izgrađene na cestovnom zemljištu,«.
+
+Dosadašnji podstavci 6. do 9. postaju podstavci 7. do 10.
+
+#### Članak 4.
+
+U članku 9. iza stavka 17. dodaju se stavci 18. do 23. koji glase:
+
+»(18) Obveznici plaćanja cestarine jesu:
+
+– vozač,
+
+– vlasnik vozila,
+
+– osoba koja na temelju ugovora ima pravo na upotrebu vozila,
+
+– korisnik elektroničkog sustava za naplatu cestarine Hrvatskih autocesta d.o.o. odnosno koncesionara kao pružatelja usluge naplate cestarine i
+
+– pružatelj usluge EENC-a.
+
+(19) Obveznici plaćanja cestarine za korištenje autocesta ili pojedinih cestovnih objekata na državnim cestama pod naplatom cestarine obvezni su platiti cestarinu Hrvatskim autocestama d.o.o. odnosno koncesionaru, u skladu s odredbama ovoga Zakona, i solidarno odgovaraju za plaćanje cestarine.
+
+(20) Vlasnik vozila dužan je na zahtjev Hrvatskih autocesta d.o.o. odnosno koncesionara dostaviti vjerodostojan podatak o identitetu osobe koja je upravljala vozilom u vrijeme korištenja autocesta ili pojedinih cestovnih objekata na državnim cestama pod naplatom, a za koje korištenje nije plaćena cestarina, s tim da se dostava podataka o više osoba ne smatra dostavom vjerodostojnih podataka o identitetu osobe kojoj je dao vozilo na upravljanje.
+
+(21) Kad je vlasnik vozila pravna osoba, podatke iz stavka 20. ovoga članka dužna je dati odgovorna osoba u pravnoj osobi.
+
+(22) Ako je korištenje autoceste ili pojedinog cestovnog objekta (most, tunel, vijadukt i slično) na državnoj cesti za koje se plaća cestarina vezano za istodobno korištenje usluge Europske elektroničke naplate cestarine (EENC), obveznik plaćanja cestarine je pružatelj usluge EENC-a koji je obvezan platiti cestarinu Hrvatskim autocestama d.o.o. odnosno koncesionaru, u skladu s odredbama ovoga Zakona.
+
+(23) U slučaju neplaćanja cestarine Hrvatske autoceste d.o.o. odnosno koncesionari ovlašteni su pokrenuti postupak predviđen ovim Zakonom i posebnim propisima kojima se uređuje prisilna naplata potraživanja, radi naplate cestarine.«.
+
+#### Članak 5.
+
+Naslov iznad članka 10. briše se.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Interoperabilnost elektroničkih sustava naplate cestarine omogućava pružanje usluge naplate cestarine kojom se korisnicima omogućuje da upotrebljavaju vozilo u jednom području EENC-a ili više njih, na temelju jednog ugovora i, prema potrebi, s jednim uređajem odnosno opremom u vozilu, te koja uključuje:
+
+– ako je potrebno, prilagođavanje opreme u vozilu korisnicima i održavanje njezine funkcionalnosti,
+
+– jamstvo da korisnik subjektu za naplatu cestarine plaća traženu cestarinu,
+
+– osiguravanje sredstava plaćanja korisniku ili prihvaćanje postojećeg sredstva plaćanja,
+
+– naplaćivanje cestarine korisniku,
+
+– upravljanje odnosima s korisnicima i
+
+– provedbu i pridržavanje pravila o sigurnosti i privatnosti u sustavima za naplatu cestarine.
+
+(2) Pružatelj usluge naplate cestarine, iz stavka 1. ovoga članka, je pravna osoba koja pruža usluge naplate cestarine, u jednom ili više područja EENC-a, za jednu ili više kategorija vozila.
+
+(3) Subjekt za naplatu cestarine je pravna osoba koja upravlja autocestom i elektroničkim sustavom naplate cestarine implementiranim na autocesti te naplaćuje cestarine za prometovanje vozila na području EENC-a iz stavka 8. ovoga članka.
+
+(4) Imenovani subjekt za naplatu cestarine je pravna osoba koja u budućem području EENC-a, u skladu s odredbama ovoga Zakona, izravno, odnosno na temelju dodijeljene koncesije, ima prava i obveze subjekta za naplatu cestarine iz stavka 3. ovoga članka.
+
+(5) Usluga Europske elektroničke naplate cestarine (EENC) je usluga naplate cestarine koju pružatelj usluge EENC-a pruža korisniku EENC-a, u jednom ili više područja EENC-a, na temelju ugovora. EENC nadopunjuje usluge elektroničke naplate cestarine Hrvatskih autocesta d.o.o. odnosno koncesionara.
+
+(6) Pružatelj usluge EENC-a je pravna osoba koja, na temelju odvojenog ugovora, korisniku EENC-a odobrava pristup EENC-u i plaća cestarinu relevantnom subjektu za naplatu cestarine te koja je registrirana u pojedinoj državi članici Europske unije u kojoj ima poslovni nastan.
+
+(7) Korisnik EENC-a je fizička ili pravna osoba koja ima ugovor s pružateljem usluge EENC-a za pristup EENC-u.
+
+(8) Područje EENC-a čine cesta, cestovna mreža, građevina poput mosta ili tunela na kojima se cestarine prikupljaju elektroničkim sustavom za naplatu cestarine.
+
+(9) Sustav usklađen s EENC-om čini skup elemenata elektroničkog sustava za naplatu cestarine koji su posebno potrebni za uključivanje pružateljā usluge EENC-a u sustav i za funkcioniranje EENC-a.
+
+(10) Elektronički sustav za naplatu cestarine je sustav za naplatu cestarine u kojem se obveza korisnika da plati cestarinu isključivo aktivira i povezana je s automatskim prepoznavanjem prisutnosti vozila na određenoj lokaciji, pomoću komunikacije na daljinu s opremom u vozilu ili automatskim prepoznavanjem registarskih pločica.
+
+(11) Oprema u vozilu uključuje potpuni sklop hardverskih i softverskih komponenata koji se treba koristiti kao dio usluge naplate cestarine, a koji je ugrađen u vozilo ili se u njemu prevozi radi prikupljanja, pohrane, obrade i primanja/slanja podataka na daljinu, bilo kao poseban uređaj bilo ugrađen u vozilo.
+
+(12) Glavni pružatelj usluga je pružatelj usluge naplate cestarine sa specifičnim obvezama, kao što je obveza potpisivanja ugovorā sa svim zainteresiranim korisnicima, ili posebnim pravima, kao što su posebna naknada ili zajamčeni dugoročni ugovor, različitima od prava i obveza drugih pružatelja usluga.
+
+(13) Sastavnica interoperabilnosti je bilo koja osnovna komponenta, skupina komponenti, podsklop ili cjelovit sklop opreme, koji su ugrađeni ili namijenjeni ugradnji u EENC i o kojima, izravno ili neizravno, ovisi interoperabilnost usluge, uključujući materijalne i nematerijalne predmete, kao što je softver.
+
+(14) Primjerenost za upotrebu je sposobnost sastavnice interoperabilnosti, koja je reprezentativno ugrađena u EENC, da zajedno u radu sa sustavom subjekta za naplatu cestarine postigne i zadrži utvrđenu učinkovitost.
+
+(15) Podaci za obračun cestarine, su informacije koje utvrđuje nadležni subjekt za naplatu cestarine, a koje su potrebne za određivanje visine cestarine, koja se plaća za prometovanje vozila na određenom području naplate cestarine i za zaključenje transakcije naplate cestarine.
+
+(16) Prijava cestarine, je izjava namijenjena subjektu za naplatu cestarine, kojom se potvrđuje prisutnost vozila na području EENC-a, u obliku koji je dogovoren između pružatelja usluge naplate cestarine i subjekta za naplatu cestarine.
+
+(17) Podaci o vozilu u skladu s kojima se obračunava cestarina, na temelju podataka za obračun cestarine su parametri za klasifikaciju vozila.
+
+(18) Središnji elektronički sustav, koji upotrebljava subjekt za naplatu cestarine, skupina subjekata za naplatu cestarine koji su stvorili čvorište interoperabilnosti ili pružatelj usluge EENC-a, u svrhu prikupljanja, obrade i slanja informacija u okviru elektroničkog sustava za naplatu cestarine, čini pozadinski ured.
+
+(19) Kada je postojeći elektronički sustav za naplatu cestarine izmijenjen ili se mijenja, zbog čega se od pružatelja usluge EENC-a zahtijeva da uvedu izmjene sastavnica interoperabilnosti koje su aktivne, poput reprogramiranja ili prilagodbe sučelja njihovih pozadinskih ureda, do te mjere da je potrebna ponovna akreditacija, smatra se znatno izmijenjenim sustavom.
+
+(20) Akreditacija je postupak, koji utvrđuje i kojim upravlja subjekt za naplatu cestarine, a koji pružatelj usluge EENC-a mora proći prije odobrenja pružanja usluge EENC-a u području EENC-a.«.
+
+#### Članak 6.
+
+Članak 10.a mijenja se i glasi:
+
+»(1) Za sve nove elektroničke sustave za naplatu cestarine koji zahtijevaju ugradnju ili upotrebu opreme u vozilu, koriste se za izvođenje elektroničkih transakcija naplate cestarine jedna ili više sljedećih tehnologija:
+
+– satelitsko određivanje položaja,
+
+– mobilne komunikacije i/ili,
+
+– mikrovalna tehnologija na frekvenciji 5,8 GHz.
+
+(2) Postojeći elektronički sustavi za naplatu cestarine, koji zahtijevaju ugradnju ili upotrebu opreme u vozilu i upotrebljavaju druge tehnologije, moraju ispunjavati zahtjeve navedene u stavku 1. ovoga članka, ako se provedu znatna tehnološka poboljšanja.
+
+(3) Pružatelji usluge EENC-a korisnicima EENC-a imaju obvezu ponuditi opremu u vozilu koja je prikladna za upotrebu, interoperabilna i koja može komunicirati s relevantnim elektroničkim sustavima za naplatu cestarine, koji funkcioniraju s pomoću tehnologija navedenih u stavku 1. ovoga članka.
+
+(4) Oprema u vozilu može se služiti vlastitim hardverom i softverom, elementima drugog hardvera i softvera, koji se nalaze u vozilu ili oboma. U svrhu komunikacije s drugim hardverskim sustavima koji se nalaze u vozilu, oprema u vozilu može se služiti tehnologijama koje nisu navedene u stavku 1. ovoga članka, pod uvjetom da je zajamčena sigurnost, kvaliteta usluge i privatnost.
+
+(5) Oprema u vozilu koja se služi tehnologijom satelitskog određivanja položaja i koja je stavljena na tržište nakon 19. listopada 2021., mora biti kompatibilna s uslugama određivanja položaja koje pružaju sustav Galileo i Europski geostacionarni navigacijski sustav (EGNOS).
+
+(6) Pružatelji usluge EENC-a mogu, do 31. prosinca 2027. korisnicima vozila čija najveća dopuštena masa ne prelazi 3,5 tone, staviti na raspolaganje opremu u vozilu koja je prikladna samo za upotrebu s mikrovalnom tehnologijom na frekvenciji 5,8 GHz, za upotrebu u područjima EENC-a, za koja nisu potrebne tehnologije satelitskog određivanja položaja ili mobilnih komunikacija.
+
+(7) Opremom u vozilu za EENC, dopušteno je koristiti se i za druge usluge osim naplate cestarine, pod uvjetom da se obavljanjem takvih usluga ne utječe na usluge naplate cestarine u bilo kojem području EENC-a.«.
+
+#### Članak 7.
+
+Naslov iznad članka 11. briše se.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Ministarstvo vodi javno dostupan elektronički Registar pružatelja usluge EENC-a, koji imaju sjedište na teritoriju Republike Hrvatske, koji zatraže registraciju i koji mogu dokazati da kumulativno ispunjavaju sljedeće zahtjeve za registraciju:
+
+– imaju certifikat EN ISO 9001 ili jednakovrijedan certifikat,
+
+– raspolažu tehničkom opremom i EZ izjavom ili potvrdom koja potvrđuje sukladnost sastavnica interoperabilnosti sa specifikacijama,
+
+– imaju stručne sposobnosti za pružanje usluga elektroničke naplate cestarine ili za druga relevantna područja,
+
+– drže odgovarajući financijski položaj,
+
+– provode opći plan upravljanja rizicima koji podliježe reviziji najmanje svake dvije godine i
+
+– imaju dobar ugled.
+
+(2) U Registar iz stavka 1. ovoga članka upisuju se podaci o područjima EENC-a u Republici Hrvatskoj, uključujući podatke o subjektima za naplatu cestarine, korištenim tehnologijama za naplatu cestarine, podacima za obračun cestarine, izjavi o području EENC-a, pružateljima usluge EENC-a koji imaju ugovore za EENC sa subjektima za naplatu cestarine u Republici Hrvatskoj, pružateljima usluge EENC-a kojima je odobrena registracija u Republici Hrvatskoj, i ispunjavanju svih zahtjeva za registraciju, uključujući revizije plana upravljanja rizicima, kao i adresi elektroničke pošte i telefonskom broju te ostalim podacima o jedinstvenom kontaktnom uredu za EENC iz stavka 16. ovoga članka.
+
+(3) Podaci iz Registra iz stavka 1. ovoga članka provjeravaju se jednom godišnje.
+
+(4) Pružatelji usluge EENC-a koji su registrirani u Republici Hrvatskoj obvezni su sklopiti ugovore za EENC koji obuhvaćaju:
+
+– sva područja EENC-a na državnim područjima najmanje četiriju država članica, unutar 36 mjeseci od njihove registracije, u skladu sa stavkom 1. ovoga članka i
+
+– sva područja EENC-a u Republici Hrvatskoj u roku od 24 mjeseca od sklapanja prvog ugovora, osim ako to nije moguće zbog razloga iz nadležnosti subjekta za naplatu cestarine.
+
+(5) Pružatelji usluge EENC-a koji su registrirani u Republici Hrvatskoj nakon isteka dvanaest mjeseci od datuma registracije i nakon toga Ministarstvu svakih 12 mjeseci dostavljaju potvrdu da je zadržana pokrivenost svih područja EENC-a nakon sklapanja ugovora odnosno da je ponovno uspostavljena pokrivenost u slučaju da je, zbog razloga iz nadležnosti subjekta za naplatu cestarine na pojedinom području, pokrivenost bila prekinuta.
+
+(6) Pružatelji usluge EENC-a koji su registrirani u Republici Hrvatskoj dužni su objavljivati:
+
+– informacije o svojem pokrivanju područja EENC-a i o svim izmjenama u pogledu tog pokrivanja i
+
+– u roku od mjesec dana od registracije detaljne planove u vezi sa svakim proširenjem svoje usluge na dodatna područja EENC-a, uz godišnja ažuriranja.
+
+(7) Pružatelji usluge EENC-a koji su registrirani u Republici Hrvatskoj ili koji pružaju uslugu EENC-a u Republici Hrvatskoj dužni su korisnicima EENC-a osigurati opremu u vozilu koja ispunjava zahtjeve iz članka 10.a stavka 1. ovoga Zakona te zahtjeve propisa koji se odnose na radijsku opremu i elektromagnetsku kompatibilnost.
+
+(8) Pružatelji usluge EENC-a koji pružaju uslugu EENC-a u Republici Hrvatskoj dužni su voditi evidenciju opreme u vozilu povezane s njihovim ugovorima za EENC s korisnicima EENC-a, kojoj je poništena valjanost.
+
+(9) Pružatelji usluge EENC-a koji su registrirani u Republici Hrvatskoj obvezni su javno objavljivati svoje politike sklapanja ugovora s korisnicima EENC-a.
+
+(10) Pružatelji usluge EENC-a koji pružaju uslugu EENC-a u Republici Hrvatskoj subjektima za naplatu cestarine obvezni su pružati informacije koje su im potrebne za izračun i naplatu cestarine za vozila korisnika EENC-a ili za provjeru izračuna cestarina koje pružatelji usluge EENC-a naplaćuju za vozila korisnika EENC-a.
+
+(11) Pružatelji usluge EENC-a koji pružaju uslugu EENC-a u Republici Hrvatskoj obvezni su surađivati sa subjektima za naplatu cestarine u njihovim nastojanjima da identificiraju osumnjičene prekršitelje.
+
+(12) U slučaju u kojem se sumnja u neplaćanje cestarine subjekt za naplatu cestarine ima pravo od pružatelja usluge EENC-a dobiti podatke u vezi s vozilom uključenim u navodno neplaćanje cestarine i s vlasnikom ili korisnikom tog vozila koji je klijent pružatelja usluge EENC-a, a pružatelj usluge EENC-a obvezan je odmah staviti na raspolaganje takve podatke, koje subjekt za naplatu cestarine ne smije dati nijednom drugom pružatelju usluge naplate cestarine.
+
+(13) U slučaju da je subjekt za naplatu cestarine ujedno i pružatelj usluge naplate cestarine, podatke iz stavka 14. ovoga članka dozvoljeno je upotrijebiti isključivo u svrhu identificiranja osumnjičenih prekršitelja.
+
+(14) Pružatelji usluge EENC-a obvezni su subjektima za naplatu cestarine dati podatke u vezi sa svim vozilima u kojima se, prema njihovim ugovorima za EENC s korisnicima EENC-a, nalazi njihova oprema i koji su, u određenom razdoblju, vozili na području EENC-a, za koje je nadležan subjekt za naplatu cestarine, kao i podatke o vlasnicima tih vozila odnosno korisnicima EENC-a vezanim za ta vozila, pod uvjetom da subjekt za naplatu cestarine treba te podatke kako bi ispunio svoje obveze prema poreznim tijelima.
+
+(15) Pružatelj usluge EENC-a dužan je dostaviti podatke određene ovim člankom najkasnije dva dana nakon primitka zahtjeva. Subjektu za naplatu cestarine nije dozvoljeno otkriti takve podatke drugom pružatelju usluge naplate cestarine. U slučaju da je subjekt za naplatu cestarine ujedno i pružatelj usluge naplate cestarine, podatke je dozvoljeno upotrebljavati isključivo u svrhu ispunjavanja obveza subjekta za naplatu cestarine prema poreznim tijelima.
+
+(16) Ministarstvo se određuje jedinstvenom kontaktnom točkom za olakšavanje i koordiniranje administrativnih aktivnosti između pružatelja usluge EENC-a i subjekata za naplatu cestarine, iz članka 11.a stavka 1. ovoga Zakona.
+
+(17) Ministarstvo na kraju svake kalendarske godine elektroničkim putem dostavlja Europskoj komisiji registre područja EENC-a i pružatelja usluga EENC-a u Republici Hrvatskoj.
+
+(18) Postupak registracije i dokumente kojima se dokazuju zahtjevi koji se moraju ispuniti za registraciju pružatelja usluga EENC, postupak i dinamiku provjere registriranih pružatelja usluge EENC-a te mjere u slučaju prestanka ispunjavanja pojedinog zahtjeva pravilnikom propisuje ministar.«.
+
+#### Članak 8.
+
+Iza članka 11. dodaje se članak 11.a koji glasi:
+
+»Članak 11.a
+
+(1) Subjekti za naplatu cestarine u Republici Hrvatskoj su Hrvatske autoceste d.o.o. i koncesionari koji naplaćuju cestarinu na svom području EENC-a te su istodobno pružatelji usluge naplate cestarine na svom području EENC-a.
+
+(2) Subjekti za naplatu cestarine dužni su analizirati razinu usklađenosti svog područja EENC-a s tehničkim i postupovnim uvjetima za interoperabilnost EENC-a te jedinstvenom kontaktnom uredu iz članka 11. stavka 16. ovoga Zakona dostaviti prijedlog programa korektivnih aktivnosti koje će poduzeti radi osiguravanja interoperabilnosti EENC-a u okviru sustava za naplatu cestarine.
+
+(3) Subjekti za naplatu cestarine dužni su izraditi i održavati izjavu o području EENC-a kojom se određuju opći uvjeti za pružatelje usluge EENC-a na svojim područjima EENC-a, u skladu s provedbenim aktom Europske komisije kojim se propisuje minimalan sadržaj izjave o području EENC-a.
+
+(4) Imenovani subjekti za naplatu cestarine kada uspostavljaju novi elektronički sustav za naplatu cestarine, obvezni su objaviti izjavu o području EENC-a i u izjavi o području EENC-a objaviti, detaljno, planiranje procesa ocjene sukladnosti sa specifikacijama i primjerenosti za upotrebu sastavnica interoperabilnosti, dovoljno unaprijed kako bi se zainteresiranim pružateljima usluge EENC-a omogućila akreditacija pri tijelu nadležnom za akreditaciju, najkasnije mjesec dana prije operativnog pokretanja novog sustava, uzimajući u obzir duljinu trajanja procesa ocjene sukladnosti sa specifikacijama i ocjene primjerenosti za upotrebu sastavnica interoperabilnosti.
+
+(5) Subjekti za naplatu cestarine kada znatno mijenjaju elektronički sustav za naplatu cestarine, obvezni su objaviti ažuriranu izjavu o području EENC-a, dovoljno unaprijed kako bi se već akreditiranim pružateljima usluge EENC-a omogućilo da prilagode svoje sastavnice interoperabilnosti novim zahtjevima i kako bi ponovno dobili akreditaciju od tijela nadležnog za akreditaciju, najkasnije mjesec dana prije operativnog pokretanja izmijenjenog sustava, uzimajući u obzir duljinu trajanja procesa ocjene sukladnosti sa specifikacijama i ocjene primjerenosti za upotrebu sastavnica interoperabilnosti.
+
+(6) Ako uspostavljanje novog elektroničkog sustava za naplatu cestarine iz stavka 4. ovoga članka odnosno znatne promjene elektroničkog sustava za naplatu cestarine iz stavka 5. ovoga članka uključuju uvođenje novih parametara za klasifikaciju vozila, subjekt za naplatu cestarine odnosno imenovani subjekt za naplatu cestarine mora sedam mjeseci unaprijed o tome obavijestiti Ministarstvo, a Ministarstvo šest mjeseci unaprijed o tome obavijestiti Europsku komisiju, ostale države članice Europske unije i pružatelje usluge EENC-a, aktivne u području EENC-a toga subjekta za naplatu cestarine.
+
+(7) Subjekti za naplatu cestarine nadležni za područja EENC-a imaju obvezu na nediskriminirajućoj osnovi prihvaćati sve pružatelje usluge EENC-a koji podnesu zahtjev za pružanje usluge EENC-a, na područjima EENC-a iz njihove nadležnosti, koji poštuju obveze i opće uvjete iz izjave o području EENC-a.
+
+(8) Subjekti za naplatu cestarine nemaju pravo zahtijevati od pružatelja usluge EENC-a da se koriste specifičnim tehničkim rješenjima ili procesima kojima se ograničava interoperabilnost sastavnica interoperabilnosti pružatelja usluge EENC-a s elektroničkim sustavima za naplatu cestarine u drugim područjima EENC-a.
+
+(9) Subjekt za naplatu cestarine izdaje račun za cestarinu, vezanu za pružanje usluge EENC-a pružatelju usluge EENC-a, a pružatelj usluge EENC-a izdaje račun za cestarinu korisniku usluge EENC-a na isti iznos.
+
+(10) Cestarina koju zaračunavaju subjekt za naplatu cestarine i pružatelj usluge EENC-a ne smije biti viša od cestarine utvrđene prema propisu iz članka 9. stavka 11. ovoga Zakona, a svi rabati ili popusti na cestarine moraju biti u skladu s odredbama članka 9. stavaka 13. i 14. ovoga Zakona.
+
+(11) Subjekti za naplatu cestarine u svojim područjima EENC-a obvezni su prihvaćati svu valjanu opremu u vozilu pružatelja usluge EENC-a s kojima imaju ugovorne odnose, koja je potvrđena u skladu s propisanim postupkom o ocjeni sukladnosti sa specifikacijama i primjerenosti za upotrebu sastavnica interoperabilnosti i koja nije na popisu opreme u vozilu iz članka 11. stavka 8. ovoga Zakona, kojoj je poništena valjanost, a vozilima s navedenom opremom u slučaju problema u funkcioniranju EENC-a, za koje je odgovoran sam subjekt za naplatu cestarine, obvezni su omogućiti pomoćnu uslugu, s tim da se korištenje pomoćne usluge ne smatra neplaćanjem cestarine.
+
+(12) Subjekti za naplatu cestarine imaju obvezu na nediskriminirajući način surađivati s pružateljima usluge EENC-a ili proizvođačima ili prijavljenim tijelima, s ciljem procjene primjerenosti za upotrebu sastavnica interoperabilnosti u njihovim područjima EENC-a.«.
+
+#### Članak 9.
+
+Naslov iznad članka 12. briše se.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Pružatelji usluge EENC-a imaju pravo na primanje naknade od subjekta za naplatu cestarine.
+
+(2) Metodologija za izračun naknade pružateljima usluge EENC-a temelji se na izračunu naknade za usporedive usluge koje pružaju pružatelji usluga naplate cestarine u Republici Hrvatskoj. Iznos naknade pružateljima usluge EENC-a može se razlikovati od naknade pružatelja usluga, ako je to opravdano:
+
+– troškovima specifičnih zahtjeva i obveza pružatelja usluga koji se ne primjenjuje na pružatelje usluge EENC-a i
+
+– troškovima koji, za subjekta za naplatu cestarine, nastaju zbog pružanja, vođenja i održavanja sustava usklađenog s EENC-om, u svojem području naplate cestarine, uključujući troškove akreditacije, u slučajevima kad takvi troškovi nisu uključeni u cestarinu.
+
+(3) Metodologiju za izračun naknade za pružatelje usluge EENC-a pravilnikom propisuje ministar, a subjekti za naplatu cestarine u sklopu komercijalnih uvjeta u izjavi o području EENC-a obvezni su navesti podatke o objavi toga propisa.«.
+
+#### Članak 10.
+
+Iza članka 12. dodaje se članak 12.a koji glasi:
+
+»Članak 12.a
+
+(1) U slučaju odstupanja između klasifikacije vozila između pružatelja usluge EENC-a i subjekta za naplatu cestarine prednost ima klasifikacija subjekta za naplatu cestarine, osim ako se može dokazati pogreška u navedenoj klasifikaciji.
+
+(2) Subjekt za naplatu cestarine ima pravo od pružatelja usluge EENC-a zahtijevati plaćanje za svaku potkrijepljenu prijavu cestarine i za svaku potkrijepljenu neprijavljenu cestarinu u vezi s bilo kojim računom korisnika EENC-a kojim upravlja taj pružatelj usluge EENC-a.
+
+(3) U slučaju da je pružatelj usluge EENC-a poslao subjektu za naplatu cestarine popis opreme u vozilu iz članka 11. stavka 8. ovoga Zakona kojoj je poništena valjanost, pružatelj usluge EENC-a nije odgovoran za bilo koju dodatnu cestarinu koja je nastala na temelju upotrebe opreme u vozilu kojoj je poništena valjanost.
+
+(4) Broj upisa na popisu opreme u vozilu iz članka 11. stavka 8. ovoga Zakona kojoj je poništena valjanost, oblik popisa i učestalost njegova ažuriranja dogovaraju subjekti za naplatu cestarine i pružatelji usluge EENC-a.
+
+(5) U sustavima za naplatu cestarine koji se temelje na mikrovalnoj tehnologiji subjekti za naplatu cestarine dostavljaju potkrijepljene prijave cestarine pružateljima usluge EENC-a za cestarine njihovih korisnika EENC-a.
+
+(6) Subjekti koji pružaju usluge naplate cestarine vode računovodstvenu evidenciju koja omogućuje jasno razdvajanje troškova i prihoda povezanih s pružanjem usluge naplate cestarine od troškova i prihoda povezanih s drugim aktivnostima.
+
+(7) Informacije o troškovima i prihodima povezanima s pružanjem usluge naplate cestarine dostavljaju se, na zahtjev, relevantnom tijelu za mirenje ili pravosudnom tijelu.
+
+(8) Zabranjeno je unakrsno subvencioniranje između aktivnosti obavljenih u ulozi pružatelja usluge naplate cestarine i drugih aktivnosti.«.
+
+#### Članak 11.
+
+Naslov iznad članka 13. briše se.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Korisnici EENC-a imaju pravo ugovaranja usluge EENC kod bilo kojeg pružatelja usluge EENC-a, bez obzira na njihovo državljanstvo, državu u kojoj imaju boravište ili državu u kojoj je vozilo registrirano.
+
+(2) Prilikom sklapanja ugovora korisnici EENC-a moraju biti uredno obaviješteni o važećim sredstvima plaćanja i o obradi njihovih osobnih podataka i pravima koja proizlaze iz propisa o zaštiti osobnih podataka.
+
+(3) Smatra se da je korisnik EENC-a plaćanjem cestarine svojem pružatelju usluge EENC-a ispunio obvezu plaćanja korisnika usluge prema nadležnom subjektu za naplatu cestarine.
+
+(4) Ako su u vozilo ugrađena ili se u njemu prevoze dva ili više komada opreme, odgovornost je korisnika EENC-a da koristi ili aktivira odgovarajuću opremu u vozilu za određeno područje EENC-a.«.
+
+#### Članak 12.
+
+Iza članka 13. dodaje se članak 13.a koji glasi:
+
+»Članak 13.a
+
+(1) Povjerenstvo za mirenje u Ministarstvu, sastavljeno od tri člana, nadležno za posredovanje između subjekata za naplatu s područjem EENC-a u Republici Hrvatskoj i pružatelja usluge EENC-a koji imaju ugovor ili su u pregovorima za ugovor s tim subjektima za naplatu cestarine, odlukom imenuje ministar iz redova stručnjaka za područje u kojem se posreduje.
+
+(2) Povjerenstvo za mirenje osobito je ovlašteno provjeriti jesu li ugovorni uvjeti koje je subjekt za naplatu cestarine postavio pružateljima usluge EENC-a nediskriminirajući, kao i provjeriti primaju li pružatelji usluge EENC-a naknadu u skladu s člankom 12. ovoga Zakona.
+
+(3) Postupak pred Povjerenstvom za mirenje ovlašteni su pokrenuti subjekt za naplatu cestarine i/ili pružatelj usluge EENC-a i tražiti da se tijelo za mirenje uključi u bilo koji spor koji se tiče njihovih ugovornih odnosa ili pregovora.
+
+(4) Povjerenstvo za mirenje je neovisno u odnosu na komercijalne interese subjekata za naplatu cestarine i pružatelja usluge naplate cestarine te posreduje između subjekata za naplatu cestarine i pružatelja usluge EENC-a koji imaju ugovor ili su u pregovorima za ugovor s tim subjektima za naplatu cestarine.
+
+(5) Povjerenstvo za mirenje, u roku od mjesec dana od primitka zahtjeva da se uključi, dužno je izjasniti se o tome ima li na raspolaganju sve dokumente potrebne za posredovanje.
+
+(6) Povjerenstvo za mirenje ovlašteno je tražiti odgovarajuće informacije od subjekata za naplatu cestarine, pružatelja usluge EENC-a i bilo kojih trećih strana aktivnih u pružanju usluge EENC-a u Republici Hrvatskoj koji su obvezni tijelu za mirenje u roku od trideset dana od zaprimanja zahtjeva dostaviti informacije kojima raspolažu.
+
+(7) Povjerenstvo za mirenje dužno je u roku od šest mjeseci od primitka zahtjeva za uključivanje izdati mišljenje u predmetu.
+
+(8) Povjerenstvo za mirenje razmjenjuje informacije s drugim tijelima za mirenje na području Europske unije o radu, vodećim načelima i praksama.«.
+
+#### Članak 13.
+
+Naslov iznad članka 14. briše se.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Korisnicima EENC-a EENC se pruža u obliku jedinstvene stalne usluge koja ispunjava sljedeće zahtjeve:
+
+– kad su parametri za klasifikaciju vozila, uključujući promjenjive, pohranjeni ili prijavljeni, ili oboje, u vozilu tijekom vožnje, više nije potrebna dodatna ljudska intervencija, osim ako dođe do izmjene karakteristika vozila i
+
+– ljudska interakcija s određenim komadom opreme u vozilu ostaje ista, bez obzira na područje EENC-a.
+
+(2) Odnos korisnika EENC-a i subjekta za naplatu cestarina ograničen je na izdavanje računa u skladu s člankom 11.a stavkom 9. ovoga Zakona te na proces prisilne naplate.
+
+(3) Odnos između korisnika EENC-a i pružatelja usluge EENC-a ili njihove opreme u vozilu može se razlikovati ovisno o pružatelju usluge EENC-a, uz uvjet da interoperabilnost usluge EENC-a nije ugrožena.
+
+(4) Pružatelji usluge naplate cestarine, uključujući pružatelje usluge EENC-a, na zahtjev Ministarstva, obvezni su dostaviti podatke o pruženim uslugama, uz primjenu propisa o zaštiti podataka, koji se podaci koriste isključivo za potrebe prometnih politika i za poboljšanje upravljanja prometom i ne smiju se koristiti za druge svrhe.«.
+
+#### Članak 14.
+
+Iza članka 14. dodaju se članci 14.a i 14.b koji glase:
+
+»Članak 14.a
+
+(1) Ako se uspostavlja novi elektronički sustav za naplatu cestarine, imenovani subjekt za naplatu cestarine nadležan za sustav obvezan je izraditi i u izjavi o području EENC-a objaviti detaljno planiranje procesa ocjene sukladnosti sa specifikacijama i primjerenosti za upotrebu sastavnica interoperabilnosti, čime se zainteresiranim pružateljima usluge EENC-a omogućuje akreditacija, najkasnije mjesec dana prije operativnog pokretanja novog sustava.
+
+(2) Odredba stavka 1. ovoga članka primjenjuje se i ako se znatno mijenja elektronički sustav za naplatu cestarine, a nadležni subjekt za naplatu cestarine obvezan je uz to izraditi i u izjavi o području EENC-a objaviti detaljno planiranje ponovne ocjene sukladnosti sa specifikacijama i primjerenosti za upotrebu sastavnica interoperabilnosti pružatelja usluge EENC-a koji su prije njegove znatne izmjene već bili akreditirani za sustav.
+
+(3) Svaki subjekt za naplatu cestarine nadležan za područje EENC-a u Republici Hrvatskoj ima obvezu uspostaviti testno okruženje u kojem pružatelj usluge EENC-a ili njegov ovlašteni predstavnik može provjeriti je li njihova oprema u vozilu primjerena za upotrebu u području EENC-a subjekta za naplatu cestarine i dobiti potvrdu o uspješnom prolasku odgovarajućih testova.
+
+(4) Subjekti za naplatu cestarine mogu uspostaviti jedinstveno testno okruženje za više od jednog područja EENC-a kako bi omogućili jednom ovlaštenom predstavniku da provjeri primjerenost za upotrebu jednog tipa opreme u vozilu, u ime više od jednog pružatelja usluge EENC-a.
+
+(5) Subjekti za naplatu cestarine od pružatelja usluge EENC-a ili njihovih ovlaštenih predstavnika imaju pravo naplatiti troškove odgovarajućih testova.
+
+(6) Sastavnice interoperabilnosti za upotrebu u EENC-u slobodno se stavljaju na tržište ako imaju oznaku CE ili izjavu o sukladnosti sa specifikacijama ili izjavu o primjerenosti za upotrebu ili obje izjave, a pregledi koji su već obavljeni u okviru postupka za provjeru sukladnosti sa specifikacijama i/ili primjerenosti za upotrebu ne trebaju se ponoviti.
+
+(7) Ako sastavnice interoperabilnosti s oznakom CE, koje su stavljene na tržište te upotrijebljene u skladu s namjenom, ne zadovoljavaju relevantne zahtjeve, Ministarstvo pokreće postupak pred tijelom koje je, sukladno posebnim propisima, nadležno za stavljanje robe na tržište, radi ograničavanja njihova područja primjene i zabrane njihove upotrebe odnosno povlačenja s tržišta.
+
+(8) O pokretanju postupka iz stavka 7. ovoga članka Ministarstvo obavješćuje Europsku komisiju, pri čemu posebno navodi je li do nesukladnosti došlo zbog:
+
+– nepravilne primjene tehničkih specifikacija i/ili
+
+– neprimjerenosti tehničkih specifikacija.
+
+(9) Europska komisija, na temelju obavijesti iz stavka 8. ovoga članka, provodi postupak i utvrđuje je li mjera opravdana. Ako se u tom postupku utvrdi da je mjera neopravdana, Ministarstvo pokreće postupak pred tijelom koje je, sukladno posebnim propisima kojima se uređuje stavljanje robe na tržište, nadležno za opoziv poduzete mjere. Ako je utvrđeno da sastavnice interoperabilnosti s oznakom CE ne ispunjavaju zahtjeve interoperabilnosti, nadležno tijelo, sukladno posebnim propisima kojima se uređuje stavljanje robe na tržište, ovlašteno je od proizvođača ili njegova ovlaštenog predstavnika zatražiti da, pod uvjetima koje to tijelo navede, uspostavi sukladnost sastavnice interoperabilnosti sa specifikacijama ili njezinu primjerenost za upotrebu, ili oboje.
+
+(10) U svakom aktu koji donosi nadležno tijelo sukladno posebnim propisima kojima se uređuje stavljanje robe na tržište, u vezi s ocjenom sukladnosti sa specifikacijama ili primjerenosti za upotrebu sastavnica interoperabilnosti, detaljno se navode razlozi na kojima se temelji, a akt se dostavlja proizvođaču, pružatelju usluge EENC-a ili njihovim ovlaštenim predstavnicima, navodeći pritom pravna sredstva koja su na raspolaganju, na temelju propisa kojima se uređuje stavljanje robe na tržište, i rokove u kojima je moguće iskoristiti ta pravna sredstva.
+
+(11) O aktima iz stavaka 9. i 10. ovoga članka Ministarstvo izvješćuje Europsku komisiju.
+
+(12) Nadležno tijelo državne uprave prijavljuje Europskoj komisiji i državama članicama Europske unije tijela za ocjenjivanje sukladnosti koja je ovlastilo za provedbu postupaka ocjenjivanja sukladnosti sa specifikacijama ili primjerenosti za upotrebu, propisanim provedbenim aktima koje Europska komisija donosi na temelju akta iz članka 1.a stavka 1. točke 9. ovoga Zakona, kao i o svakoj promjeni vezanoj za ovlaštenje, te o tome obavještava Ministarstvo i tijelo državne uprave nadležno za gospodarstvo.
+
+(13) Za svako tijelo za ocjenjivanje sukladnosti iz stavka 12. ovoga članka nadležno tijelo državne uprave koje ga prijavljuje prethodno određuje područje nadležnosti i od Europske komisije dobiva identifikacijski broj.
+
+(14) Postupak ocjenjivanja prijavljenih tijela iz stavka 12. ovoga članka i ukidanja ovlaštenja provodi se u skladu s propisima o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti.
+
+#### Članak 14.b
+
+Odredbe članaka 10. do 14.a ovoga Zakona ne primjenjuju se na sustave za naplatu cestarine koji nisu elektronički, u smislu članka 10. stavka 10. ovoga Zakona i male, isključivo lokalne sustave za naplatu cestarina, za koje bi troškovi usklađivanja sa zahtjevima navedenih odredbi bili nerazmjerni koristima.«.
+
+#### Članak 15.
+
+Naslov iznad članka 15. briše se.
+
+Članak 15. mijenja se i glasi:
+
+»(1) Kako bi se omogućila identifikacija vozila i vlasnika vozila odnosno osobe koja na temelju ugovora ima pravo na upotrebu vozila za koje je utvrđeno neplaćanje cestarine, odobrava se nacionalnim kontaktnim točkama drugih država članica Europske unije pristup sljedećim podacima iz registra vozila Republike Hrvatske, s ovlašću da obavlja automatizirana pretraživanja o:
+
+– podacima o vozilima i
+
+– podacima o vlasnicima odnosno osobama koje na temelju ugovora imaju pravo na upotrebu vozila.
+
+(2) Kontaktna točka Republike Hrvatske za razmjenu podataka iz stavka 1. ovoga članka određuje se u ministarstvu nadležnom za unutarnje poslove.
+
+(3) Prilikom obavljanja automatiziranog pretraživanja iz stavka 1. ovoga članka dozvoljeno je koristiti cjeloviti registracijski broj vozila.
+
+(4) Razmjena informacija između kontaktne točke Republike Hrvatske i nacionalnih kontaktnih točaka drugih država članica Europske unije provodi se upotrebom računalne aplikacije Europskog informacijskog sustava za prometne i vozačke dozvole (Eucaris) i izmijenjenih verzija tog računalnog sustava, u skladu s propisima kojima se uređuje prekogranična razmjena informacija o prometnim prekršajima.
+
+(5) Subjekt za naplatu cestarine iz članka 11.a stavka 1. ovoga Zakona ovlašten je od kontaktne točke Republike Hrvatske iz stavka 2. ovoga članka zatražiti pribavljanje podataka iz stavka 1. ovoga članka iz države članice Europske unije u kojoj je registrirano vozilo koje podliježe plaćanju cestarine ako prema podacima kojima raspolaže subjekt za naplatu cestarine za to vozilo cestarina nije plaćena, a nema drugih načina da se utvrdi identitet obveznika plaćanja cestarine kako bi mu se dostavila obavijest o obvezi plaćanja.
+
+(6) Subjektu za naplatu cestarine iz članka 11.a stavka 1. ovoga Zakona dostavljaju se samo podaci nužni za dostavu obavijesti o obvezi plaćanja cestarine i pokretanja sudskog postupka naplate utvrđene cestarine pred nadležnim javnim tijelima, u skladu s propisima kojima se uređuje prisilna naplata potraživanja, koji se podaci smiju upotrebljavati isključivo u navedene svrhe, a subjekt za naplatu cestarine dužan je podatke brisati odmah nakon plaćanja cestarine ili, ako se plaćanje ne izvrši, u roku od pet godina nakon prijenosa podataka.
+
+(7) Subjekt za naplatu cestarine iz članka 11.a stavka 1. ovoga Zakona mora vlasniku vozila, osobi koja na temelju ugovora ima pravo na upotrebu vozila ili osobi identificiranoj na drugi način dostaviti obavijest da se sumnjiči za neplaćanje cestarine.
+
+(8) Ako obveznik plaćanja cestarine postupi u skladu s nalogom iz obavijesti iz stavka 7. ovoga članka i plati cestarinu, okončava se postupak vezan uz neplaćanje cestarine.
+
+(9) Ministarstvo, na temelju podataka koje dobiva od ministarstva nadležnog za unutarnje poslove, izrađuje sveobuhvatno izvješće o broju automatiziranih pretraživanja koja je provelo ministarstvo nadležno za unutarnje poslove preko nacionalnih kontaktnih točki država članica Europske unije u kojima su registrirana vozila za koja nije plaćena cestarina te o broju neispunjenih zahtjeva. Sveobuhvatno izvješće uključuje i opis postupanja za naplatu cestarina sukladno ovom Zakonu, s podacima koliki je udio naplaćene cestarine na temelju pisane obavijesti, koliki je udio cestarine naplaćene u sudskom postupku te koliki je udio nenaplaćene cestarine. Sveobuhvatno izvješće Ministarstvo dostavlja Europskoj komisiji do 19. travnja 2023., a nakon toga svake tri godine.
+
+(10) Podatke potrebne za obavljanje automatiziranog pretraživanja i podatke koji se dostavljaju kao rezultat automatiziranog pretraživanja iz stavka 1. ovoga članka pravilnikom propisuje ministar, uz prethodnu suglasnost ministra nadležnog za unutarnje poslove.
+
+(11) Obvezan sadržaj, službeni jezik i obrazac obavijesti iz stavka 7. ovoga članka pravilnikom propisuje ministar.«.
+
+#### Članak 16.
+
+Naslov iznad članka 15.a briše se.
+
+Članak 15.a mijenja se i glasi:
+
+»(1) Osobni podaci koji se obrađuju u skladu s odredbama ovoga Zakona moraju se prikupljati, obrađivati i koristiti u skladu s propisima o zaštiti osobnih podataka i propisima o zaštiti i sigurnosti u elektroničkim komunikacijama.
+
+(2) U svrhu dodatne zaštite osobnih podataka, uvijek kada je to tehnički izvedivo, inteligentni transportni sustavi iz ovoga Zakona (elektronička naplata cestarine, EENC, sustavi za upravljanje prometom i drugi) trebaju koristiti neimenovane podatke.«.
+
+#### Članak 17.
+
+Iza članka 21. dodaje se članak 21.a koji glasi:
+
+»Članak 21.a
+
+(1) Ministarstvo je nadležno za izradu akta strateškog planiranja iz područja razvoja biciklističkih staza.
+
+(2) Ministarstvo jednom godišnje o provedbi akta iz stavka 1. ovoga članka izvješćuje Koordinacijsko tijelo za sustav strateškog planiranja i upravljanja razvojem Republike Hrvatske«.
+
+#### Članak 18.
+
+U članku 27. stavak 3. mijenja se i glasi:
+
+»(3) Slivnici uz javnu cestu te zamjena i popravak slivničkih rešetki i poklopaca revizijskih okana na kolniku javne ceste, koji služe isključivo za odvodnju javnih cesta, održavaju se kao sastavni dio te javne ceste.«.
+
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Zamjenu i popravak slivnika, slivničkih rešetaka i poklopaca svih revizijskih okana na javnoj cesti, osim onih navedenih u stavku 3. ovoga članka, održavaju vlasnici odnosno upravitelji infrastrukture kojoj isti pripada.
+
+(5) Poslove iz ovoga članka koje ne obavlja pravna osoba koja upravlja javnom cestom obavljaju nadležne jedinice lokalne samouprave i vlasnici odnosno upravitelji infrastrukture kojoj isti pripada.«.
+
+#### Članak 19.
+
+Članak 41. mijenja se i glasi:
+
+»(1) Na postupak stupanja u posjed, u tijeku postupka izvlaštenja, nekretnina za koje je podnesen prijedlog za izvlaštenje primjenjuju se propisi o izvlaštenju i propisi iz područja procjene vrijednosti nekretnina, ako ovim Zakonom nije drukčije određeno.
+
+(2) Odredbe ovoga članka na odgovarajući se način primjenjuju i na nekretnine za koje je podnesen prijedlog za izvlaštenje na temelju članaka 37. do 40. ovoga Zakona.«.
+
+#### Članak 20.
+
+U članku 59. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Iznimno od odredbe stavka 1. ovoga članka, dopušteno je postavljanje samoljepljivih folija, namijenjenih informiranju korisnika autoceste, na cestarinskim prolazima, na naplatnim kućicama i pripadajućoj opremi, i to na način da se ne ugrožava sigurnost prometa.
+
+(6) Ministar donosi pravilnik kojim se regulira postavljanje reklama iz stavka 1. ovoga članka i samoljepljivih folija iz stavka 5. ovoga članka.«.
+
+#### Članak 21.
+
+U članku 62. stavak 1. mijenja se i glasi:
+
+»(1) Pri izvođenju radova te poduzimanju drugih aktivnosti na javnoj cesti mora se uspostaviti odgovarajuća privremena regulacija prometa, na način koji osigurava sigurno odvijanje prometa i nesmetano izvođenje radova ili obavljanje drugih aktivnosti, sukladno prometnom elaboratu odnosno posebnom propisu kojim se propisuje privremena regulacija cestovnog prometa te označavanja i osiguranja mjesta na kojima se izvode radovi ili na kojima je nastao izvanredni događaj ili bilo koji drugi događaj koji ugrožava sigurnost odvijanja prometa.«.
+
+#### Članak 22.
+
+Naslov iznad članka 68. mijenja se i glasi: »Upravljanje sigurnošću cestovne infrastrukture«.
+
+Članak 68. mijenja se i glasi:
+
+»(1) Odredbe članaka 68. do 71. ovoga Zakona odnose se na ceste koje su dio transeuropske cestovne mreže, na autoceste, na primarne ceste iz stavka 2. ovoga članka i javne ceste iz stavka 3. ovoga članka, neovisno o tome jesu li one u fazi projektiranja, u izgradnji ili u upotrebi, a primjenjuju se na postupke ocjene utjecaja na sigurnost u cestovnom prometu, procjenu cestovne sigurnosti, upravljanje javnim cestama sa stajališta sigurnosti cestovne infrastrukture na razini mreže te na kontrolu sigurnosti infrastrukture na javnim cestama.
+
+(2) Primarne ceste su državne ceste izvan gradskih područja koje povezuju velike gradove ili regije koje nisu dio transeuropske cestovne mreže.
+
+(3) Na ceste izvan naselja koje nemaju mogućnost izravnog prilaza na cestu, a financiraju se sredstvima Europske unije primjenjuju se odredbe članaka 68. do 71. ovoga Zakona.
+
+(4) Ministar odlukom utvrđuje primarne ceste koje se, ovisno o riziku za sigurnost na temelju opravdanih razloga povezanih s količinom prometa i statistikom nesreća, izuzimaju od primjene odredbi članaka 68. do 71. ovoga Zakona.
+
+(5) Ministarstvo izrađuje popis autocesta i primarnih cesta na području Republike Hrvatske, popis primarnih cesta iz stavka 4. ovoga članka i popis ostalih cesta iz stavka 3. ovoga članka te ih dostavlja Europskoj komisiji, a nakon toga obavještava Europsku komisiju o svim naknadnim promjenama tih popisa.
+
+(6) Odredbe članaka 68. do 71. ovoga Zakona ne primjenjuju se na tunele, na koje se primjenjuju odredbe članaka 63. do 67. ovoga Zakona.
+
+(7) Upravljanje postojećim javnim cestama sa stajališta sigurnosti obuhvaća poduzimanje mjera za povećanje stupnja sigurnosti na njima te smanjenje troškova prometnih nesreća, uz analizu troškova i koristi.
+
+(8) Provjera sigurnosti je povremena provjera karakteristika i nedostataka javne ceste sa stajališta sigurnosti, a provodi se sukladno propisu iz članka 26. stavka 3. ovoga Zakona.«.
+
+#### Članak 23.
+
+Članak 69. mijenja se i glasi:
+
+»(1) Aktivnosti za poboljšanje sigurnosti infrastrukture cesta odnose se na sve faze planiranja, projektiranja, građenja i održavanja TEM cesta, autocesta i primarnih cesta te obuhvaćaju:
+
+– procjenu učinka infrastrukturnih projekata na sigurnost na cestama,
+
+– reviziju sigurnosti cesta za infrastrukturne projekte,
+
+– procjenu sigurnosti cesta na razini cijele mreže,
+
+– periodične provjere sigurnosti cesta,
+
+– ciljane provjere sigurnosti cesta,
+
+– izvješćivanje,
+
+– daljnje postupanje u postupcima za ceste koje su u upotrebi,
+
+– zaštitu nezaštićenih sudionika u cestovnom prometu,
+
+– upravljanje podacima i
+
+– donošenje smjernica i pravilnika.
+
+(2) Aktivnosti iz stavka 1. ovoga članka Ministarstvo usklađuje s programom iz članka 21. stavka 1. ovoga Zakona.
+
+(3) Smjernice i izmjene smjernica iz stavka 1. podstavka 10. ovoga članka dostavljaju se Europskoj komisiji, u roku od tri mjeseca od njihova usvajanja.
+
+(4) Postupak i rokove provedbe aktivnosti iz stavka 1. ovoga članka te sadržaj izvješća o prometnim nesrećama pravilnikom propisuje ministar.«.
+
+#### Članak 24.
+
+Članak 69.a mijenja se i glasi:
+
+»(1) Ocjena utjecaja na sigurnost u cestovnom prometu je obvezna analiza kojom se uspoređuje postojeće stanje i utjecaj nove ceste odnosno znatne rekonstrukcije postojeće ceste na promet i razinu sigurnosti cestovne mreže.
+
+(2) Ocjena utjecaja na sigurnost u cestovnom prometu, iz stavka 1. ovoga članka, jedna je od obveznih analiza koje se provode radi utvrđivanja prioriteta u građenju i održavanju cesta, iz članka 20. ovoga Zakona, a uz ostalo sadrži i sve podatke potrebne za analizu troškova i koristi.
+
+(3) Ocjena utjecaja na sigurnost u cestovnom prometu, iz stavka 1. ovoga članka, provodi se tijekom planiranja izgradnje nove odnosno znatne rekonstrukcije postojeće ceste.«.
+
+#### Članak 25.
+
+Naslov iznad članka 70. mijenja se i glasi: »Revizija sigurnosti cesta«.
+
+Članak 70. mijenja se i glasi:
+
+»(1) Revizija sigurnosti cesta je nezavisna, detaljna, sustavna i tehnička provjera sigurnosti koja se odnosi na projektirane karakteristike projekta cestovne infrastrukture i koja obuhvaća sve faze od planiranja do puštanja u promet.
+
+(2) Revizija sigurnosti cesta provodi se tijekom projektiranja, građenja odnosno rekonstrukcije te puštanja u promet cesta, kao i u početnom razdoblju korištenja cesta.«.
+
+#### Članak 26.
+
+U članku 70.a stavak 1. mijenja se i glasi:
+
+»(1) Reviziju projektne i druge dokumentacije, u okviru procjene sigurnosti cesta, sukladno odredbama ovoga Zakona, provodi revizor cestovne sigurnosti.«.
+
+#### Članak 27.
+
+U članku 70.b stavak 1. mijenja se i glasi:
+
+»(1) Revizor cestovne sigurnosti, iz članka 70.a ovoga Zakona, ne može obaviti reviziju sigurnosti cesta za projekte i dokumentaciju u čijoj je izradi sudjelovao ili je u projektiranje ili upravljanje javnom cestom za koju se revizija ili ciljana provjera sigurnosti obavlja uključena pravna osoba u kojoj je isti zaposlen.«.
+
+#### Članak 28.
+
+U članku 71. stavku 2. riječ: »procjenitelju« zamjenjuje se riječima: »povjerenstvu iz članka 70.a stavka 2. ovoga Zakona«.
+
+#### Članak 29.
+
+Naslov iznad članka 71.a mijenja se i glasi: »Procjena sigurnosti mreže TEM cesta, autocesta i primarnih cesta«.
+
+Članak 71.a mijenja se i glasi:
+
+»(1) Procjena sigurnosti mreže TEM cesta, autocesta i primarnih cesta provodi se na svim cestama iz članka 68. ovoga Zakona.
+
+(2) Procjenom sigurnosti cesta, iz stavka 1. ovoga članka, evaluira se rizik događanja nesreća i težine njihovih posljedica, na temelju sljedećeg:
+
+– primarno, vizualnog pregleda na samoj lokaciji ili elektroničkim sredstvima, projektnih značajki ceste (ugrađena sigurnost) i
+
+– analize dionica cestovne mreže koje su u upotrebi dulje od tri godine i na kojima je zabilježen velik broj nesreća s poginulim ili teško ozlijeđenim osobama, s obzirom na protok prometa.
+
+(3) Procjenu sigurnosti cesta s velikim brojem teških prometnih nesreća provode stručni timovi koje imenuje pravna osoba koja upravlja cestom odnosno koncesionar, a barem jedan član stručnog tima mora biti ovlašteni revizor cestovne sigurnosti.
+
+(4) U propisu iz članka 17. stavka 4. podstavka 1. ovoga Zakona uređuje se i način obavješćivanja korisnika javne ceste da je određena dionica javne ceste prema sigurnosnoj ocjeni dionica s velikim brojem teških prometnih nesreća.
+
+(5) Prva procjena sigurnosti cesta iz stavka 1. ovoga članka provest će se najkasnije do 2024. godine, a kasnije procjene moraju biti dovoljno česte kako bi se osigurale primjerene razine sigurnosti, barem svakih pet godina.
+
+(6) Na temelju rezultata procjene iz stavka 5. ovoga članka i radi određivanja prioriteta u pogledu potreba za daljnjim djelovanjem Ministarstvo razvrstava sve dionice cesta iz članka 68. ovoga Zakona u najmanje tri kategorije, prema njihovoj razini sigurnosti, koje se kategorije razvrstavanja određuju smjernicama i postupcima, definiranim sukladno članku 69. ovoga Zakona.
+
+(7) Pri provedbi procjene sigurnosti cesta, propisane ovim člankom, koriste se smjernice i postupci iz članka 69. stavka 1. podstavka 10. ovoga Zakona.
+
+(8) Na temelju nalaza procjena sigurnosti cesta, provedenih u skladu s odredbama ovoga članka, provode se ili ciljane provjere sigurnosti cesta iz članka 71.d ovoga Zakona ili izravne korektivne mjere.«.
+
+#### Članak 30.
+
+Naslov iznad članka 71.b mijenja se i glasi: »Provjere sigurnosti cesta i upravljanje podacima«.
+
+Članak 71.b mijenja se i glasi:
+
+»(1) Na cestovnoj mreži iz članka 68. ovoga Zakona obavljaju se provjere sigurnosti kako bi se zajamčile primjerene razine sigurnosti za dotičnu cestovnu infrastrukturu.
+
+(2) Provjere sigurnosti cesta uključuju periodične i ciljane provjere sigurnosti cesta te analize mogućeg utjecaja radova na cestama na sigurnost odvijanja prometa, a obavljaju se u vremenskim razmacima koji osiguravaju primjerenu razinu sigurnosti.
+
+(3) Provjere iz stavka 2. ovoga članka provode se prema godišnjem planu koji izrađuje pravna osoba koja upravlja cestom odnosno koncesionar, uz prethodnu suglasnost Ministarstva.
+
+(4) O svakoj prometnoj nesreći sa smrtnom posljedicom na cestovnoj mreži iz članka 68. ovoga Zakona pravna osoba koja upravlja cestom odnosno koncesionar izrađuje izvještaj, prema propisu iz članka 69. stavka 2. ovoga Zakona.
+
+(5) Ministarstvo je dužno izraditi analizu prosječnog, društvenog troška prometne nesreće i prosječnog, društvenog troška nesreće s teškim posljedicama te ih ažurirati najmanje svakih pet godina.«.
+
+#### Članak 31.
+
+Iza članka 71.b dodaju se naslovi iznad članaka i članci 71.c, 71.d, 71.e i 71.f koji glase:
+
+*»Periodične provjere sigurnosti cesta*
+
+#### Članak 71.c
+
+(1) Periodična provjera sigurnosti cesta znači rutinska periodična provjera značajki i nedostataka koji iz sigurnosnih razloga zahtijevaju održavanje.
+
+(2) Periodične provjere sigurnosti cesta provode se dovoljno često kako bi se zajamčile primjerene razine sigurnosti za dotičnu cestovnu infrastrukturu.
+
+*Ciljane provjere sigurnosti cesta*
+
+#### Članak 71.d
+
+(1) Ciljana provjera sigurnosti cesta znači ciljano ispitivanje, radi utvrđivanja opasnih uvjeta, pogrešaka i problema, koji povećavaju rizik od nesreća i ozljeda, temeljeno na terenskom obilasku postojeće ceste ili dionice ceste.
+
+(2) Pri provedbi ciljanih provjera sigurnosti cesta koristit će se smjernice i postupci definirani sukladno članku 69. ovoga Zakona.
+
+(3) Ciljane provjere sigurnosti cesta provode stručni timovi koje imenuje pravna osoba koja upravlja cestom odnosno koncesionar, pod vodstvom ovlaštenog revizora cestovne sigurnosti.
+
+(4) Na temelju nalaza ciljanih provjera sigurnosti cesta pravna osoba koja upravlja cestom odnosno koncesionar donosi obrazložene odluke u kojima se utvrđuje jesu li potrebne korektivne mjere, utvrđuju dionice cesta na kojima su potrebna poboljšanja u području sigurnosti cestovne infrastrukture te određuju mjere kojima treba dati prednost radi poboljšanja sigurnosti tih dionica cesta.
+
+(5) Pravna osoba koja upravlja cestom odnosno koncesionar prvenstveno usmjerava korektivne mjere na dionice cesta s niskim razinama sigurnosti i na kojima postoji mogućnost provedbe mjera s visokim potencijalom za smanjenje broja teških prometnih nesreća i smanjenje troškova povezanih s nesrećama.
+
+(6) Radi praćenja provedbe utvrđenih korektivnih mjera pravna osoba koja upravlja cestom odnosno koncesionar priprema i redovito ažurira akcijski plan s utvrđenim prioritetima provođenja korektivnih mjera koji se temelji na riziku.
+
+*Zajedničke provjere sigurnosti cesta*
+
+#### Članak 71.e
+
+(1) Zajedničke provjere sigurnosti cesta provode se na dionicama cesta, iz članka 68. ovoga Zakona, čiji su sastavni dio tuneli iz članka 63. stavka 1. ovoga Zakona.
+
+(2) Zajedničke provjere sigurnosti cesta moraju biti dovoljno česte kako bi se osigurale primjerene razine sigurnosti, ali u svakom se slučaju provode barem svakih šest godina.«.
+
+*Izvješćivanje Europske komisije*
+
+#### Članak 71.f
+
+(1) Izvješće o sigurnosnoj klasifikaciji mreže, procijenjene u skladu s člankom 71.a ovoga Zakona, Ministarstvo dostavlja Europskoj komisiji.
+
+(2) Izvješće iz stavka 1. ovoga članka dostavlja se Europskoj komisiji do 31. listopada 2025., a svako iduće dostavlja se svakih pet godina.«.
+
+#### Članak 32.
+
+Naslov iznad članka 72. mijenja se i glasi: »Inteligentni prometni sustavi u cestovnom prometu«.
+
+Članak 72. mijenja se i glasi:
+
+»(1) Inteligentni prometni sustavi (u daljnjem tekstu: ITS) u smislu ovoga Zakona su informacijsko-komunikacijska nadgradnja klasičnog sustava cestovnog prometa, kojim se postiže znatno poboljšanje učinaka cjelokupnog prometnog sustava. ITS uključuje ceste, vozila i korisnike cesta, a primjenjuje se u upravljanju prometom, upravljanju mobilnosti, upravljanju prometnim incidentima te za veze s ostalim vrstama prijevoza.
+
+(2) Usluga ITS-a obuhvaća aplikaciju ITS-a kroz dobro definiran organizacijski i operativni okvir primjene, a pridonosi sigurnosti u cestovnom prometu, učinkovitijem prijevozu putnika i tereta, poboljšanju udobnosti prijevoza, zaštiti putnika i tereta te protočnosti prometa na cesti.
+
+(3) Aplikacija ITS-a je operativno sredstvo za primjenu ITS-a.
+
+(4) Za usluge ITS-a primjenjuju se tehnički, funkcionalni i organizacijski zahtjevi (specifikacije) i norme koje donosi Europska komisija kako bi se osigurala usklađenost i interoperabilnost ITS-a na području Europske unije.«.
+
+#### Članak 33.
+
+Naslov iznad članka 72.a mijenja se i glasi: »Koordinacijsko tijelo za ITS«.
+
+Članak 72.a mijenja se i glasi:
+
+»(1) Za razvoj ITS-a u Republici Hrvatskoj ustrojava se Koordinacijsko tijelo za inteligentne prometne sustave.
+
+(2) Koordinacijsko tijelo iz stavka 1. ovoga članka ima pet članova koje odlukom imenuje ministar, iz redova znanstvene zajednice, državne i javne uprave, pružatelja ITS usluga i korisnika ITS usluga.
+
+(3) Zadaci koordinacijskog tijela su:
+
+– pripremanje prijedloga nacionalnog plana za razvoj ITS-a,
+
+– savjetovanje i izvještavanje ministra o razvoju ITS-a,
+
+– koordiniranje razvoja aplikacija i usluga ITS-a,
+
+– praćenje provedbe nacionalnog plana, projekata i aktivnosti po prioritetnim područjima i
+
+– predlaganje aktivnosti za razvoj ITS-a u Republici Hrvatskoj.
+
+(4) Način rada Koordinacijskog tijela iz stavka 1. ovoga članka pravilnikom propisuje ministar.«.
+
+#### Članak 34.
+
+U članku 72.b stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Ministarstvo je nadležno za izradu akta strateškog planiranja iz područja razvoja i uvođenja ITS-a na prioritetnim područjima iz stavka 1. ovoga članka kojim se planiraju aktivnosti i projekti te određuju mjere za provedbu.
+
+(4) Izvješće o provedbi akta strateškog planiranja iz stavka 3. ovoga članka dostavlja se Europskoj komisiji svake tri godine.«.
+
+#### Članak 35.
+
+U članku 72.c ispred riječi: »Ministarstvo« stavlja se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. do 5. koji glase:
+
+»(2) Ministarstvo poduzima potrebne mjere kako bi se osiguralo da se pri uvođenju aplikacija i usluga ITS-a primjenjuju specifikacije iz članka 72. stavka 4. ovoga Zakona, ako smatra da je uvođenje aplikacije ili usluge, koja je predmet odgovarajuće specifikacije, svrsishodno u Republici Hrvatskoj.
+
+(3) Mjere potrebne za provedbu ITS specifikacija moraju osigurati poštivanje sljedećih načela:
+
+– biti učinkovite – dati zamjetan doprinos rješavanju ključnih izazova koji utječu na cestovni promet u Europskoj uniji (smanjenje preopterećenosti, smanjenje emisija, poboljšanje energetske učinkovitosti, dostizanje visoke razine sigurnosti i zaštite u pogledu nezaštićenih sudionika u cestovnom prometu),
+
+– biti troškovno učinkovite – optimizirati omjer troškova i rezultata pri ispunjavanju ciljeva,
+
+– biti razmjerne – predvidjeti, gdje je to primjereno, različite razine kvalitete i uvođenja usluga koje se mogu dostići, uzimajući u obzir posebnosti na lokalnoj, regionalnoj, nacionalnoj i na razini Europske unije,
+
+– podupirati kontinuitet usluga – osigurati neprekinute usluge u cijeloj Uniji, posebno na transeuropskoj mreži, i, gdje je to moguće, na njezinim vanjskim granicama, prilikom uvođenja usluga ITS-a. Kontinuitet usluga treba osigurati na razini prilagođenoj karakteristikama prometnih mreža koje povezuju države s državama i, kada je to primjereno, regije s regijama i gradove s ruralnim područjima,
+
+– postići interoperabilnost – osigurati da sustavi i s njima povezani poslovni procesi mogu omogućiti razmjenu podataka, informacija i znanja kako bi se osiguralo učinkovito pružanje usluga ITS-a,
+
+– podupirati usklađenost s prethodnim sustavima – prema potrebi, osigurati interoperabilnost sustava ITS-a s postojećim sustavima koji imaju istu namjenu, bez ometanja razvoja novih tehnologija,
+
+– poštovati postojeću nacionalnu infrastrukturu i karakteristike mreže – uzeti u obzir razlike u karakteristikama svojstvenima prometnim mrežama, posebno u veličini opsega prometa i u vremenskim uvjetima na cestama,
+
+– promicati jednakost pristupa – ne ometati pristup aplikacijama i uslugama ITS-a nezaštićenim sudionicima u cestovnom prometu ili ne diskriminirati prilikom njihova pristupa tim aplikacijama i uslugama
+
+– podupirati tehničku zrelost – nakon odgovarajuće ocjene rizika dokazati pouzdanost inovativnih sustava ITS-a na temelju zadovoljavajuće razine tehničkog razvoja i operativne uporabe,
+
+– postići kvalitetu proračuna vremena i pozicioniranja – uporaba satelitske infrastrukture ili bilo koje tehnologije koja pruža jednaku razinu preciznosti za potrebe aplikacija i usluga ITS-a za koje su potrebne globalne, kontinuirane, točne i zajamčene usluge proračuna vremena i pozicioniranja,
+
+– omogućiti intermodalnost – pri uvođenju ITS-a prema potrebi uzeti u obzir usklađivanje različitih vrsta prijevoza i
+
+– poštovati koherentnost – uzeti u obzir postojeće propise, politike i aktivnosti Unije koje su relevantne u području ITS-a, posebno u području normiranja.
+
+(4) U slučaju da nisu donesene specifikacije za prioritetno područje, Ministarstvo i pružatelji prometnih usluga ulažu dodatan napor u suradnji na razvoju ITS prioritetnih područja.
+
+(5) Opseg primjene ITS aplikacija i usluga na koje se primjenjuju tehničke specifikacije iz stavka 1. ovoga članka, kao i mjere iz stavka 3. ovoga članka pravilnikom propisuje ministar.«.
+
+#### Članak 36.
+
+Članak 73. mijenja se i glasi:
+
+»(1) Pod korištenjem cestovnog zemljišta, u smislu ovoga Zakona, podrazumijeva se građenje pratećih uslužnih objekata na javnoj cesti i obavljanje djelatnosti ugostiteljstva, trgovine, usluga opskrbe gorivom, servisnih usluga i slično, obavljanje navedenih djelatnosti u već izgrađenim objektima, kao i korištenje samih površina cestovnog zemljišta za gospodarske djelatnosti, radi pružanja usluga korisnicima javne ceste.
+
+(2) Pravo korištenja cestovnog zemljišta na javnoj cesti nastaje sklapanjem ugovora koji pravna osoba koja upravlja javnom cestom odnosno koncesionar sklapa s korisnikom cestovnog zemljišta i traje do isteka važenja ugovora.
+
+(3) Ugovor o korištenju cestovnog zemljišta sklapa se na određeno vrijeme, na rok koji ne može biti dulji od 40 godina.
+
+(4) Sve fizičke i pravne osobe koje koriste cestovno zemljište, u smislu ovoga Zakona, dužne su plaćati naknadu i u slučajevima kada ugovor nije sklopljen, na temelju računa koji za izvršenu isporuku, u smislu propisa kojim se uređuje oporezivanje, izdaje pravna osoba koja upravlja javnom cestom odnosno koncesionar.
+
+(5) Korisnici ili posjednici pratećih uslužnih objekata koji su izgrađeni na cestovnom zemljištu, na temelju valjanih pravnih osnova do 1. siječnja 1997., mogu steći pravo korištenja cestovnog zemljišta ako u roku od dvanaest mjeseci od dana stupanja na snagu ovoga Zakona pravnoj osobi koja upravlja javnom cestom odnosno koncesionaru postave zahtjev za sklapanje ugovora.
+
+(6) Osobe koje, protivno odredbama ovoga članka, cestovno zemljište koriste bez važećeg ugovora dužne su pravnoj osobi koja upravlja javnom cestom odnosno koncesionaru predati posjed cestovnog zemljišta i pratećih uslužnih objekata izgrađenih na javnoj cesti.
+
+(7) U slučajevima korištenja cestovnog zemljišta bez pravne osnove, pravna osoba koja upravlja javnom cestom odnosno koncesionar ima pravo protiv korisnika ili posjednika pokrenuti odgovarajuće postupke pred nadležnim sudovima i drugim javnopravnim tijelima, radi zaštite prava Republike Hrvatske.
+
+(8) Iznose naknada, uvjete i način korištenja cestovnog zemljišta, uvjete i postupak povjeravanja te ostala prava i obveze u vezi s obavljanjem pratećih djelatnosti na cestovnom zemljištu pravilnikom propisuje ministar.«.
+
+#### Članak 37.
+
+U članku 86. stavak 2. mijenja se i glasi:
+
+»(2) Za korištenje javnih cesta na temelju prava služnosti, prava građenja, prava puta ili nekog drugog sličnog prava za komunalne, vodne, energetske građevine, kao i građevine elektroničkih komunikacija i povezane opreme plaća se isključivo naknada iz stavka 1. točke 12. ovoga članka, u visini određenoj prema članku 87. stavku 6. ovoga Zakona.«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+#### Članak 38.
+
+Iza članka 89. dodaje se članak 89.a koji glasi:
+
+»Članak 89.a
+
+(1) Odluka o uvođenju naplate cestarine, iz članka 9. stavka 1. ovoga Zakona, ne donosi se u slučaju korištenja autocesta i objekata na državnim cestama za posebno označena:
+
+– vozila ministarstva nadležnog za unutarnje poslove,
+
+– vozila ministarstva nadležnog za poslove obrane i Oružanih snaga,
+
+– vatrogasna vozila,
+
+– vozila hitne pomoći,
+
+– vozila gorske službe spašavanja i
+
+– vozila carine.
+
+(2) Vozila iz stavka 1. ovoga članka registrirana u Republici Hrvatskoj obvezna su korištenje autoceste i objekta s naplatom evidentirati uređajem za elektroničku naplatu cestarine, a korištenje autocesta i objekta s naplatom sa sustavima naplate cestarine iz članka 14.b ovoga Zakona evidentirati odgovarajućim medijem.
+
+(3) Sredstva za porez na dodanu vrijednost za uslugu iz ovoga članka osiguravaju se u državnom proračunu, na pozicijama Ministarstva.
+
+(4) Ministar donosi pravilnik kojim se određuje vizualni identitet i posebne oznake vozila, iz stavka 1. ovoga članka, te način evidentiranja i izvještavanja o korištenju autocesta i objekata na državnim cestama za vozila iz stavka 1. ovoga članka.«.
+
+#### Članak 39.
+
+U članku 91. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Naknada iz stavka 2. ovoga članka isplaćuje se na račun Hrvatskih autocesta d.o.o. i Hrvatskih cesta d.o.o. najviše do iznosa koji je za te namjene osiguran u državnom proračunu za pojedinu proračunsku godinu.«.
+
+#### Članak 40.
+
+U članku 92. stavku 1. riječi: »sukladno programu iz članka 21. ovoga Zakona i godišnjem planu iz članka 22. ovoga Zakona,« brišu se.
+
+#### Članak 41.
+
+Članak 94. mijenja se i glasi:
+
+»(1) Sredstva iz godišnje naknade iz članka 86. stavka 1. točke 1. ovoga Zakona, korisničke naknade iz članka 86. stavka 1. točke 6. ovoga Zakona i naknade za financiranje građenja i održavanja javnih cesta iz članka 86. stavka 1. točke 11. ovoga Zakona kojima Republika Hrvatska financira građenje, održavanje, povrat kredita i ostale poslove upravljanja javnim cestama te javne ceste čine imovinu Republike Hrvatske (u daljnjem tekstu: javni kapital), koja se vodi izdvojeno u poslovnim knjigama pravne osobe koja upravlja javnom cestom.
+
+(2) Sredstva iz stavka 1. ovoga članka koriste se za namjene propisane odredbama ovoga članka, sukladno godišnjim planovima građenja i održavanja autocesta i državnih cesta koje, uz suglasnost Vlade, donose Hrvatske autoceste d.o.o. i Hrvatske ceste d.o.o., odnosno sukladno godišnjim planovima građenja i održavanja županijskih i lokalnih cesta koje, uz suglasnost Ministarstva, donosi županijska uprava za ceste.
+
+(3) Naknada za financiranje građenja i održavanja javnih cesta, iz članka 86. stavka 1. točke 11. ovoga Zakona, uplaćuje se iz državnog proračuna, sukladno odredbi članka 91. ovoga Zakona, na račune Hrvatskih autocesta d.o.o. i Hrvatskih cesta d.o.o.
+
+(4) Javni kapital uvećava se za dobit koju ostvare Hrvatske autoceste d.o.o. i Hrvatske ceste d.o.o., dok je Republika Hrvatska njihov jedini član društva.«.
+
+#### Članak 42.
+
+Članak 95. mijenja se i glasi:
+
+»(1) Na teret javnog kapitala, iz članka 94. stavka 1. ovoga Zakona, društva Hrvatske autoceste d.o.o. i Hrvatske ceste d.o.o. nadoknađuju dio godišnjih troškova upravljanja, održavanja, financiranja, amortizacije i primjerenog prinosa od upravljanja javnim cestama koji premašuju ostvarenu vrijednost cestarina ili korisničke naknade.
+
+(2) Na teret javnog kapitala nadoknađuju se troškovi redovitog održavanja nerazvrstanih cesta u zimskoj službi. Nadoknada troškova redovitog održavanja nerazvrstanih cesta u zimskoj službi ne predstavlja izuzimanje imovine, kao ni isporuku u smislu poreznih propisa.
+
+(3) Na teret naknade iz članka 86. stavka 1. točke 11. ovoga Zakona nadoknađuju se sva oslobođenja od plaćanja cestarine predviđena odredbama ovoga Zakona, osim naknade iz članka 88. koja se nadoknađuje sukladno članku 90. ovoga Zakona.
+
+(4) Društva Hrvatske autoceste d.o.o. i Hrvatske ceste d.o.o. nadoknađuju iz naknade iz članka 86. stavka 1. točke 11. ovoga Zakona i sve druge troškove koji su posljedica naloga danih na temelju ovoga Zakona ili posebnih odluka Vlade Republike Hrvatske. Prijenosi javnih cesta zbog troškova nastalih odlukama Vlade Republike Hrvatske ne predstavljaju izuzimanje imovine, kao ni isporuku u smislu poreznih propisa.
+
+(5) Javne ceste, koje se zbog razvrstavanja prenose između pravnih osoba koje upravljaju javnim cestama, županijskih uprava za ceste i jedinica lokalne samouprave, kao i prijenosi nerazvrstanih cesta, evidentiraju prijenos javnih cesta prema knjigovodstvenoj vrijednosti imovine prenositelja odnosno procijenjene vrijednosti ako knjigovodstvena vrijednost nije poznata. Pravne osobe koje upravljaju javnim cestama priznaju takve prijenose u okviru javnog kapitala. Prijenosi javnih cesta zbog razvrstavanja ne predstavljaju izuzimanje ni stjecanje imovine, kao ni isporuku u smislu poreznih propisa.
+
+(6) Javni kapital umanjuje se za gubitak koji ostvare Hrvatske autoceste d.o.o. i Hrvatske ceste d.o.o., dok je Republika Hrvatska njihov jedini član društva.
+
+(7) Sredstva koja sukladno odredbi članka 92. stavka 2. ovoga Zakona Hrvatske ceste d.o.o. doznače županijskoj upravi za ceste koriste se za financiranje izvlaštenja nekretnina, građenje i održavanje županijskih i lokalnih cesta te povrat kredita kojima se financira građenje županijskih i lokalnih cesta, sukladno godišnjim planovima građenja i održavanja županijskih i lokalnih cesta, koje, uz suglasnost Ministarstva, donosi županijska uprava za ceste.«.
+
+#### Članak 43.
+
+Članak 96. mijenja se i glasi:
+
+»Pravne osobe koje upravljaju javnim cestama osiguravaju knjigovodstvene evidencije o javnim cestama i za potrebe njihova vrednovanja obračunavaju amortizaciju primjenom amortizacijskih stopa, sukladno pravilniku koji na prijedlog Hrvatskih autocesta d.o.o. i Hrvatskih cesta d.o.o. donosi nadležni ministar.«.
+
+#### Članak 44.
+
+Iza članka 108. dodaju se naslov iznad članka i članak 108.a koji glase:
+
+*»Financiranje dijela troškova zimske službe na nerazvrstanim cestama*
+
+#### Članak 108.a
+
+(1) Dio troškova zimske službe na nerazvrstanim cestama na području određenih jedinica lokalne samouprave financira se iz dijela naknade za financiranje građenja i održavanja javnih cesta koja se, sukladno članku 91. stavku 2. podstavku 2. ovoga Zakona, uplaćuje iz državnog proračuna na račun Hrvatskih cesta d.o.o.
+
+(2) Financijska sredstva iz stavka 1. ovoga članka raspoređuju se jedinicama lokalne samouprave sa statusom brdsko-planinskog područja prema posebnom zakonu i onima obuhvaćenim II. i III. klimatskom zonom održavanja cesta u zimskim uvjetima.
+
+(3) Raspored financijskih sredstava iz stavka 1. ovoga članka utvrđuje se ovisno o:
+
+– duljini nerazvrstanih cesta obuhvaćenih izvedbenim programom zimske službe na nerazvrstanim cestama u zimskom razdoblju i
+
+– teritorijalnoj pripadnosti klimatskoj zoni održavanja cesta u zimskim uvjetima.
+
+(4) Ministar, uz prethodnu suglasnost ministra nadležnog za regionalni razvoj, donosi pravilnik kojim se određuje ukupan godišnji iznos sredstava za sufinanciranje zimske službe te raspodjela financijskih sredstava po pojedinim jedinicama lokalne samouprave.«.
+
+#### Članak 45.
+
+Članak 115. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se pravna osoba koja kao vlasnik vozila nije platila cestarinu sukladno članku 9. stavku 19. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 2.000 do 10.000 kuna, kao i odgovorna osoba u pravnoj osobi koja na zahtjev Hrvatskih autocesta d.o.o. odnosno koncesionara nije dostavila vjerodostojan podatak o identitetu osobe koja je upravljala vozilom u vlasništvu pravne osobe u skladu s člankom 9. stavcima 20. i 21. ovoga Zakona.
+
+(3) Novčanom kaznom od 5.000,00 do 30.000,00 kuna kaznit će se fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost:
+
+1. koja nije platila cestarinu, sukladno članku 9. stavku 19. ovoga Zakona, osim ako su ispunjeni uvjeti propisani člankom 88. stavkom 2. i člankom 89. ovoga Zakona,
+
+2. koja kao vlasnik vozila nije, na zahtjev Hrvatskih autocesta d.o.o. odnosno koncesionara, dostavila vjerodostojan podatak o identitetu osobe koja je upravljala vozilom, u skladu s člankom 9. stavkom 20. ovoga Zakona.
+
+(4) Novčanom kaznom od 2.000,00 do 10.000,00 kuna kaznit će se fizička osoba:
+
+1. koja nije platila cestarinu, sukladno članku 9. stavku 19. ovoga Zakona, osim ako su ispunjeni uvjeti propisani člankom 88. stavkom 2. i člankom 89. ovoga Zakona,
+
+2. koja kao vlasnik vozila nije, na zahtjev Hrvatskih autocesta d.o.o. odnosno koncesionara, dostavila vjerodostojan podatak o identitetu osobe koja je upravljala vozilom u skladu s člankom 9. stavkom 20. ovoga Zakona.«.
+
+#### Članak 46.
+
+Iza članka 115. dodaje se članak 115.a koji glasi:
+
+»Članak 115. a
+
+(1) Novčanom kaznom u iznosu od 100.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj pravna osoba koja koristi cestovno zemljište, u smislu članka 73. stavka 1. ovoga Zakona, bez sklopljenog ugovora s upraviteljem javne ceste odnosno koncesionarom, sukladno članku 73. stavku 2. ovoga Zakona, i/ili odbija predati posjed pravnoj osobi koja upravlja javnom cestom odnosno koncesionaru, sukladno članku 73. stavku 7. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 kuna do 20.000,00 kuna.
+
+(3) Novčanom kaznom u iznosu od 50.000,00 kuna do 250.000,00 kuna kaznit će se za prekršaj fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost koja u vezi s obavljanjem obrta ili samostalne djelatnosti koristi cestovno zemljište u smislu članka 73. stavka 1. ovoga Zakona bez sklopljenog ugovora s upraviteljem javne ceste odnosno koncesionarom, sukladno članku 73. stavku 2. ovoga Zakona, i/ili odbija predati posjed pravnoj osobi koja upravlja javnom cestom odnosno koncesionaru, sukladno članku 73. stavku 7. ovoga Zakona.
+
+(4) Novčanom kaznom u iznosu od 5.000,00 kuna do 20.000,00 kuna kaznit će se za prekršaj fizička osoba koja koristi cestovno zemljište u smislu članka 73. stavka 1. ovoga Zakona bez sklopljenog ugovora s upraviteljem javne ceste odnosno koncesionarom, sukladno članku 73. stavku 2. ovoga Zakona, i/ili odbija predati posjed pravnoj osobi koja upravlja javnom cestom odnosno koncesionaru, sukladno članku 73. stavku 7. ovoga Zakona.
+
+(5) Optužni prijedlog za prekršaje iz stavka 1. ovoga članka podnosi pravna osoba koja upravlja javnom cestom odnosno koncesionar.
+
+(6) Novčane kazne naplaćene prema ovom članku prihod su pravne osobe koja upravlja javnom cestom odnosno koncesionara i predstavljaju sredstva iz članka 86. stavka 1. točke 13. ovoga Zakona.«.
+
+#### Članak 47.
+
+U članku 122. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ugovoreni rok korištenja cestovnog zemljišta može se iznimno, uz prethodnu suglasnost ministra, produžiti do najdužeg propisanog roka iz članka 73. stavka 3. ovoga Zakona, u sljedećim slučajevima:
+
+– zbog naknadnog opravdanog ulaganja korisnika cestovnog zemljišta koje je odobrila pravna osoba koja upravlja javnom cestom,
+
+– zbog povećanja ugovorene naknade za korištenje cestovnog zemljišta i obavljanje pratećih djelatnosti, a koje povećanje nije posljedica usklađenja s promjenama cijena dobara, robe i usluga izraženih indeksom cijena utvrđenim od ovlaštene osobe, promjene površine cestovnog zemljišta koje se povjerava ili promjene prateće djelatnosti, na zahtjev korisnika cestovnog zemljišta,
+
+– zbog nastupa izvanrednih okolnosti nastalih nakon sklapanja ugovora, a koje se nisu mogle predvidjeti u vrijeme sklapanja ugovora i
+
+– zbog nastupa više sile.«.
+
+#### Članak 48.
+
+Članak 129. briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 49.
+
+(1) Od dana stupanja na snagu ovoga Zakona na osnivanje prava građenja i prava služnosti na javnoj cesti ne primjenjuju se odredbe Zakona o uređivanju imovinskopravnih odnosa u svrhu izgradnje infrastrukturnih građevina (»Narodne novine«, br. 80/11.), već se primjenjuju odredbe ovoga Zakona.
+
+(2) Svi postupci za osnivanje prava građenja i prava služnosti na javnoj cesti, koji su započeti na temelju odredbi Zakona o uređivanju imovinskopravnih odnosa u svrhu izgradnje infrastrukturnih građevina (»Narodne novine«, br. 80/11.), a koji nisu okončani sklapanjem ugovora dovršit će se prema odredbama ovoga Zakona.
+
+#### Članak 50.
+
+(1) Svi nositelji prava građenja i prava služnosti na javnoj cesti koji su ista prava stekli na temelju ugovora sklopljenih prije stupanja na snagu ovoga Zakona odnosno koji su pravo služnosti upisali u zemljišnoj knjizi po nekoj drugoj osnovi dužni su na poziv pravne osobe koja upravlja javnom cestom na kojoj su ta prava osnovana sklopiti dodatak ugovoru kojim će se urediti obveza plaćanja naknade iz članka 86. stavka 1. točke 12. Zakona o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13., 92/14. i 110/19.).
+
+(2) Pravna osoba koja upravlja javnom cestom i nositelj prava građenja i prava služnosti dužni su, u roku od šest mjeseci od stupanja na snagu ovoga Zakona, sklopiti dodatak ugovoru kojim će se urediti obveza plaćanja naknade iz članka 86. stavka 1. točke 12. Zakona o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13., 92/14. i 110/19.).
+
+#### Članak 51.
+
+Površina zemljišta na kojoj je do dana stupanja na snagu ovoga Zakona izgrađena cestovna građevina, površina zemljišnog pojasa te površina zemljišta na kojima su do dana stupanja na snagu ovoga Zakona izgrađene građevine za potrebe održavanja ceste i pružanja usluga vozačima i putnicima, kao i za potrebe kretanja bicikala i pješaka te naplatu cestarine (objekti za održavanje cesta, upravljanje i nadzor prometa, naplatu cestarine, benzinske postaje, punionice za električna vozila i druga alternativna goriva, servisi, parkirališta, odmorišta, nogostupi, biciklističke prometnice, zelene površine, ugibališta, okretišta, stajališta javnog prijevoza i drugi), neovisno o tome jesu li predviđeni projektom ceste, dobivaju status cestovnog zemljišta iz članka 4. podstavka 4. Zakona o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13., 92/14. i 110/19.).
+
+#### Članak 52.
+
+Ministar će pravilnike iz članka 11. stavka 18. koji je izmijenjen člankom 7. ovoga Zakona, članka 12. stavka 3. koji je izmijenjen člankom 9. ovoga Zakona, članka 15. stavaka 10. i 11. koji je izmijenjen člankom 15. ovoga Zakona, članka 59. stavka 6. koji je dopunjen člankom 20. ovoga Zakona, članka 69. stavka 4. koji je izmijenjen člankom 23. ovoga Zakona, članka 72.a stavka 4. koji je izmijenjen člankom 33. ovoga Zakona, članka 72.c stavka 5. koji je dopunjen člankom 35. ovoga Zakona, članka 73. stavka 8. koji je izmijenjen člankom 36. ovoga Zakona, članka 89.a stavka 4. koji je dodan člankom 38. ovoga Zakona, članka 96. koji je izmijenjen člankom 43. ovoga Zakona i članka 108.a stavka 4. koji je dodan člankom 44. ovoga Zakona donijeti u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 53.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Pravilnik o posebnim uvjetima i tehničkim zahtjevima za Europsku elektroničku naplatu cestarine i elementima interoperabilnosti (»Narodne novine«, br. 58/16. i 45/20.).
+
+#### Članak 54.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/130
+
+Zagreb, 15. prosinca 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o cestama (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1736*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O CESTAMA
+
+Proglašavam Zakon o izmjenama Zakona o cestama, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/134
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O CESTAMA**
+
+### Članak 1.
+
+U Zakonu o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13., 92/14., 110/19. i 144/21.) u članku 91. stavku 2. podstavku 1. riječi: »0,20 kuna« zamjenjuju se riječima: »0,03 eura«.
+
+U podstavku 2. riječi: »0,80 kuna« zamjenjuju se riječima: »0,11 eura«.
+
+### Članak 2.
+
+U članku 113. stavku 1. riječi: »od 30.000,00 do 75.000,00 kuna« zamjenjuju se riječima: »od 3980,00 do 9950,00 eura«.
+
+U stavku 2. riječi: »od 2.000,00 do 8.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 1060,00 eura«.
+
+### Članak 3.
+
+U članku 114. stavku 1. riječi: »od 10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 3980,00 eura«.
+
+U stavku 2. riječi: »od 2.000,00 do 8.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 1060,00 eura«.
+
+U stavku 3. riječi: »od 10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 3980,00 eura«.
+
+### Članak 4.
+
+U članku 115. stavku 1. riječi: »od 10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »od 2.000 do 10.000 kuna« zamjenjuju se riječima: »od 260,00 do 1320,00 eura«.
+
+U stavku 3. riječi: »od 5.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 3980,00 eura«.
+
+U stavku 4. riječi: »od 2.000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 1320,00 eura«.
+
+### Članak 5.
+
+U članku 115.a stavku 1. riječi: »od 100.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »od 13.270,00 do 66.360,00 eura«.
+
+U stavku 2. riječi: »od 5.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 2650,00 eura«.
+
+U stavku 3. riječi: »od 50.000,00 do 250.000,00 kuna« zamjenjuju se riječima: »od 6630,00 do 33.180,00 eura«.
+
+U stavku 4. riječi: »od 5.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 2650,00 eura«.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/134
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

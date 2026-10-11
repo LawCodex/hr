@@ -6,13 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-07
-last_amended: 2014-03-05
+last_amended: 2024-03-25
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "68/13, 30/14"
+narodne_novine: "68/13, 30/14, 115/16, 39/19, 98/19, 36/24"
 amendments:
   - "NN 30/2014 (515) Zakon o izmjenama i dopunama Zakona o carinskoj službi"
+  - "NN 115/2016 (2531) Zakon o izmjenama i dopunama Zakona o carinskoj službi"
+  - "NN 39/2019 (803) Zakon o izmjenama i dopunama Zakona o carinskoj službi"
+  - "NN 98/2019 (1918) Zakon o izmjeni Zakona o carinskoj službi"
+  - "NN 36/2024 (578) Zakon o izmjenama i dopunama Zakona o carinskoj službi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/68/1346"
 retrieved: 2026-10-12
 ---
@@ -21,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 68/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/68/1346).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 30/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 30/2014, NN 115/2016, NN 39/2019, NN 98/2019, NN 36/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1705,3 +1709,773 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o carinskoj službi (NN 115/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2531*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O CARINSKOJ SLUŽBI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o carinskoj službi, koji je Hrvatski sabor donio na sjednici 2. prosinca 2016.
+
+Klasa: 011-01/16-01/58
+
+Urbroj: 71-06-01/1-16-2
+
+Zagreb, 6. prosinca 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O CARINSKOJ SLUŽBI**
+
+#### Članak 1.
+
+U Zakonu o carinskoj službi (»Narodne novine«, br. 68/13. i 30/14.) u članku 3. stavku 1. iza točke 10. dodaju se točke 11. i 12. koje glase:
+
+»11. Ovrha je postupak prisilne naplate carinskog, trošarinskog i poreznog duga te drugih javnih davanja koji se provodi na temelju ovršne ili vjerodostojne isprave sukladno odredbama Općeg poreznog zakona.
+
+12. Administrativna suradnja je oblik suradnje s drugim državama u vidu razmjene informacija vezanih uz obveznika, uzajamne pomoći pri naplati tražbina po osnovi carine, poreza i drugih javnih davanja te provedbi mjera osiguranja naplate duga, kao i drugim oblicima suradnje prema međunarodnim ugovorima.«.
+
+#### Članak 2.
+
+U članku 4. stavak 3. mijenja se i glasi:
+
+»(3) Poslovi carinske službe su osobito:
+
+1. utvrđivanje, naplata i nadzor carinskih davanja, trošarina, posebnih poreza, poreza na dodanu vrijednost, drugih javnih davanja te javnopravnih naknada (u daljnjem tekstu: javna davanja),
+
+2. osiguravanje pravilne primjene carinskih i drugih propisa koji se odnose na unos, iznos, provoz, prijenos, skladištenje i drugo raspolaganje robom koja podliježe mjerama nadzora,
+
+3. provedba carinsko-sigurnosnih mjera,
+
+4. sudjelovanje u provođenju mjera zajedničke poljoprivredne, ribarske i trgovinske politike,
+
+5. utvrđivanje, stavljanje na raspolaganje i nadzor tradicionalnih vlastitih sredstava Europske unije iz carinskih davanja,
+
+6. otkrivanje, sprječavanje i suzbijanje prekršaja i kaznenih djela, njihovo otkrivanje i prikupljanje podataka o tim djelima i počiniteljima te provedba dokaznih radnji u prekršajnom i kaznenom postupku sukladno odredbama Zakona o kaznenom postupku, Prekršajnog zakona i ovoga Zakona,
+
+7. nadzor nad provedbom propisa kojima se uređuje fiskalizacija u prometu gotovinom,
+
+8. nadzor nad provedbom propisa kojima se uređuju opći uvjeti obavljanja djelatnosti trgovačkih društava, trgovaca pojedinaca i obrta (registracija, odobrenje za rad, rješenje, suglasnost, drugo odobrenje nadležnih tijela, predmet poslovanja, sjedište i tvrtka), ako posebnim propisom nije određena nadležnost drugog tijela,
+
+9. nadzor nad provedbom propisa kojima se uređuje obavljanje trgovine i obavljanje usluga,
+
+10. nadzor nad provedbom propisa o zabrani i sprječavanju obavljanja neregistrirane djelatnosti te otkrivanje i sprječavanje svih oblika nedozvoljene i protuzakonite trgovine,
+
+11. nadzor nad unosom, iznosom, prekograničnim prometom te drugim kretanjem i gospodarenjem otpadom sukladno propisima kojima se uređuje gospodarenje otpadom,
+
+12. nadzor provedbe obveza proizvođača proizvoda u smislu propisa kojima se uređuje gospodarenje otpadom te naplata naknada za gospodarenje posebnim kategorijama otpada koje se obračunavaju i plaćaju te postupka posredovanja i trgovanja otpadom sukladno propisima kojima se uređuje gospodarenje otpadom,
+
+13. nadzor uvoza i izvoza tvari koje oštećuju ozonski sloj, fluoriranih stakleničkih plinova, uređaja i opreme koji sadrže ove tvari ili o njima ovise i ostalih kemijskih tvari sukladno propisima o zaštiti zraka,
+
+14. nadzor u skladu s posebnim propisima ispunjavanja uvjeta za ostvarivanje prava na korištenje novčanih sredstava koja se isplaćuju iz državnog proračuna Republike Hrvatske, kao i novčanih sredstava koja korisnici izravno ili posredno ostvaruju primjenom oslobođenja ili izuzeća od plaćanja javnih davanja te sniženih visina i diferenciranih stopa javnih davanja,
+
+15. nadzor obračuna, plaćanja i naplate naknade za koncesiju te nadzor nad obavljanjem djelatnosti za koju je propisana koncesija, a obavlja se bez dodijeljene koncesije,
+
+16. nadzor u području prava intelektualnog vlasništva,
+
+17. nadzor nad provedbom propisa o morskom i slatkovodnom ribarstvu na području ribolovnog mora i voda te u dijelu koji se odnosi na kretanje i promet ribe i drugih morskih i vodenih organizama,
+
+18. nadzor kretanja, raspolaganja i prometa opasnih proizvoda i proizvoda čije je stavljanje na tržište zabranjeno ili ograničeno ili za koje je naređeno povlačenje s tržišta, odnosno proizvoda koji ne ispunjavaju propisane tehničke zahtjeve i predstavljaju ozbiljan rizik za zdravlje i sigurnost,
+
+19. provedba carinskih mjera provjere značajki proizvoda sukladno propisima o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti i drugim propisima kojima se uređuju tehnički zahtjevi za proizvode,
+
+20. nadzor unosa i iznosa gotovine preko državne granice sukladno propisima o sprječavanju pranja novca i financiranju terorizma,
+
+21. nadzor nad primjenom propisa kojima se uređuje izvoz, uvoz, iznos i unos kulturnih dobara,
+
+22. nadzor nad provedbom propisa kojima se uređuje prekogranični promet i trgovina divljim vrstama,
+
+23. provedba upravnih i drugih poslova u vezi s ispunjavanjem propisanih uvjeta za obavljanje poslova zastupanja u carinskom postupku te nadzor nad provedbom propisa kojima se uređuje poslovanje i djelatnost ovlaštenih carinskih otpremnika,
+
+24. nadzor nad naplatom proračunskih i ostalih prihoda te transakcijama u području prometa robe i usluga, ugostiteljske djelatnosti i pružanja usluga u turizmu te naplatom boravišne pristojbe,
+
+25. nadzor nad provedbom propisa kojima se uređuje obavljanje audiovizualnih djelatnosti,
+
+26. nadzor nad provedbom propisa o zabrani i sprječavanju obavljanja neregistrirane energetske djelatnosti s naftom i naftnim derivatima,
+
+27. nadzor nad provedbom propisa u području stavljanja na tržište šumskog reprodukcijskog materijala,
+
+28. nadzor na graničnom prijelazu, odnosno na drugom mjestu gdje se obavlja carinski nadzor dozvola i drugih isprava, sukladno propisima o prijevozu u cestovnom prometu te osovinskog opterećenja, ukupne mase i dimenzije vozila u prometu na cestama sukladno propisima o sigurnosti prometa na cestama,
+
+29. nadzor nad primjenom propisa kojim se uređuje ograničavanje uporabe duhanskih proizvoda,
+
+30. administrativna suradnja i međunarodna razmjena informacija s državama članicama Europske unije ili s trećim državama u području primjene propisa iz nadležnosti Carinske uprave,
+
+31. svi drugi poslovi koji su Carinskoj upravi stavljeni u nadležnost posebnim propisima.«.
+
+#### Članak 3.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Carinskom upravom upravlja ravnatelj koji je državni dužnosnik s položajem pomoćnika ministra financija, koji ujedno upravlja i radom Središnjeg ureda, a u radu mu pomažu zamjenik ravnatelja i pomoćnici ravnatelja.
+
+(2) Ravnatelj Carinske uprave (u daljnjem tekstu: ravnatelj) za svoj je rad odgovoran ministru financija i Vladi Republike Hrvatske.«.
+
+#### Članak 4.
+
+Članak 9. mijenja se i glasi:
+
+»(1) Zamjenik ravnatelja u slučaju spriječenosti ili odsutnosti ravnatelja obavlja sve poslove ravnatelja te obavlja i druge poslove koje mu povjeri ravnatelj.
+
+(2) Zamjenik ravnatelja za svoj rad odgovoran je ravnatelju i ministru financija.
+
+(3) Pomoćnici ravnatelja upravljaju radom sektora u Središnjem uredu te obavljaju druge poslove iz djelokruga rada Carinske uprave koje im povjeri ravnatelj.
+
+(4) Pomoćnici ravnatelja za svoj rad i rad sektora kojim upravljaju odgovorni su ravnatelju i ministru financija.
+
+(5) Na radno mjesto zamjenika ravnatelja može se rasporediti osoba koja uz ispunjavanje općih zakonskih uvjeta ima i najmanje osam godina radnog iskustva na rukovodećim poslovima.
+
+(6) Na radno mjesto pomoćnika ravnatelja može se rasporediti osoba koja uz ispunjavanje općih zakonskih uvjeta ima i najmanje šest godina radnog iskustva na rukovodećim poslovima.«.
+
+#### Članak 5.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Radom područnog carinskog ureda upravlja pročelnik koji je za svoj rad i rad područnog carinskog ureda odgovoran ravnatelju, ministru financija i pomoćnicima ravnatelja koji upravljaju odnosnom unutarnjom ustrojstvenom jedinicom iz djelokruga područnog carinskog ureda.
+
+(2) Pročelnik područnog carinskog ureda ima jednog ili više pomoćnika koji za svoj rad i rad područnog carinskog ureda odgovaraju pročelniku i ravnatelju.
+
+(3) Radom carinskog ureda i radom graničnog carinskog ureda upravlja predstojnik koji je za svoj rad odgovoran pročelniku i ravnatelju.
+
+(4) Predstojnik carinskog ureda i graničnog carinskog ureda može imati jednog ili više pomoćnika koji za svoj rad i rad carinskog ureda, odnosno graničnog carinskog ureda odgovaraju predstojniku, pomoćniku pročelnika područnog carinskog ureda i pročelniku područnog carinskog ureda.«.
+
+#### Članak 6.
+
+Iza članka 10. dodaje se članak 10.a koji glasi:
+
+»Članak 10.a
+
+Službenike Carinske uprave na radna mjesta zamjenika ravnatelja, pomoćnika ravnatelja i pročelnika područnog carinskog ureda raspoređuje ministar financija na prijedlog ravnatelja.«.
+
+#### Članak 7.
+
+U članku 21. iza stavka 3. dodaju se stavci 4., 5., 6. i 7. koji glase:
+
+»(4) Ovlašteni carinski službenik može se uputiti na rad u inozemstvo na temelju utvrđenih pravila o međunarodnoj suradnji i posebnih propisa.
+
+(5) Prava i obveze ovlaštenog carinskog službenika iz stavka 4. ovoga članka te postupak i uvjete upućivanja na rad u inozemstvo pravilnikom propisuje ministar financija.
+
+(6) Ovlašteni carinski službenici na poziv međunarodnih institucija, stranih carinskih i drugih administracija i stručnih organizacija mogu sudjelovati u radu projekata kao stručnjaci.
+
+(7) Način i uvjete sudjelovanja u radu projekata iz stavka 6. ovoga članka pravilnikom propisuje ministar financija.«.
+
+#### Članak 8.
+
+Članak 23. mijenja se i glasi:
+
+»Za prekršaje propisane ovim Zakonom i prekršaje propisane posebnim zakonima u nadležnosti Carinske uprave ovlašteni carinski službenik je ovlašten, pod uvjetima propisanim zakonom kojim se uređuje prekršajni postupak, kao ovlašteni tužitelj izdati prekršajni nalog prije pokretanja prekršajnog postupka.«.
+
+#### Članak 9.
+
+Članak 61. mijenja se i glasi:
+
+»Carinsko-prekršajni postupak je prekršajni postupak koji Carinska uprava vodi za prekršaje propisane ovim Zakonom, zakonom kojim se uređuje provedba carinskog zakonodavstva Europske unije, zakonom kojim se uređuju trošarine, zakonom kojim se uređuju posebni porezi te za prekršaje koji su takvima označeni drugim zakonom ili je provedba prekršajnog postupka stavljena u nadležnost Carinske uprave (u daljnjem tekstu: carinsko-prekršajni postupak).«.
+
+#### Članak 10.
+
+U članku 65. stavku 1. točka 3. briše se.
+
+Dosadašnja točka 4. postaje točka 3.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) U slučaju iz stavka 1. ovoga članka Vlada Republike Hrvatske na prijedlog ministra financija privremeno će imenovati zamjenika ravnatelja na dužnost ravnatelja Carinske uprave, i to najduže na šest mjeseci.«.
+
+#### Članak 11.
+
+Članak 66. briše se.
+
+#### Članak 12.
+
+Članak 67. briše se.
+
+#### Članak 13.
+
+Članak 68. briše se.
+
+#### Članak 14.
+
+Članak 74. briše se.
+
+#### Članak 15.
+
+U članku 84. stavak 1. mijenja se i glasi:
+
+»(1) Šteta koja građaninu, pravnoj osobi ili drugoj stranki nastane nezakonitim ili nepravilnim radom carinskog službenika naknađuje Republika Hrvatska.«.
+
+#### Članak 16.
+
+U nazivu GLAVE III. riječi: »TE ZVANJA« brišu se.
+
+Članak 91. mijenja se i glasi:
+
+»(1) Plaća carinskih službenika utvrđuje se na način uređen propisima o državnim službenicima, ako ovim Zakonom nije drugačije propisano.
+
+(2) Nazive radnih mjesta, koeficijente složenosti poslova i stručne uvjete za radna mjesta, dodatke na posebne uvjete rada, visinu naknade za pripravnost te kriterije i najviši mogući iznos dodatka za natprosječne rezultate u radu, za carinske službenike utvrđuje posebnom uredbom Vlada Republike Hrvatske.«.
+
+#### Članak 17.
+
+Članak 92. briše se.
+
+#### Članak 18.
+
+Članak 93. briše se.
+
+#### Članak 19.
+
+U članku 95. stavku 2. točka 4. briše se.
+
+Dosadašnje točke 5. i 6. postaju točke 4. i 5.
+
+#### Članak 20.
+
+U članku 99. ispred riječi: »Carinskoj« dodaje se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Sredstva ostvarena kao naknada za obavljanje poslova iz nadležnosti drugih tijela, kao i sredstva što ih Carinska uprava ostvari kao naknadu prema posebnim zakonima za obavljanje određenih poslova prihod su državnog proračuna Republike Hrvatske, u dijelu sredstava Carinske uprave.
+
+(3) Način raspodjele i korištenja sredstava iz stavka 2. ovoga članka pravilnikom propisuje ministar financija.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 21.
+
+(1) Vlada Republike Hrvatske donijet će uredbu iz članka 16. ovoga Zakona najkasnije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Ministar financija donijet će pravilnike iz članaka 7. i 20. ovoga Zakona najkasnije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 22.
+
+Do stupanja na snagu uredbe iz članka 21. stavka 1. ovoga Zakona ostaje na snazi Uredba o klasifikaciji radnih mjesta, carinskih zvanja i vrijednosti koeficijenata složenosti poslova carinskih službenika (»Narodne novine«, br. 86/13.).
+
+#### Članak 23.
+
+Rukovodeći službenici raspoređeni na radna mjesta iz članaka 3. i 5. ovoga Zakona nastavljaju obavljati poslove koje su obavljali na dotadašnjim radnim mjestima do donošenja rješenja o rasporedu na radna mjesta sukladno ovom Zakonu.
+
+#### Članak 24.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-01/97
+
+Zagreb, 2. prosinca 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o carinskoj službi (NN 39/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/39/803*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O CARINSKOJ SLUŽBI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o carinskoj službi, koji je Hrvatski sabor donio na sjednici 11. travnja 2019.
+
+Klasa: 011-01/19-01/75
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 15. travnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O CARINSKOJ SLUŽBI**
+
+### Članak 1.
+
+U Zakonu o carinskoj službi (»Narodne novine«, br. 68/13., 30/14. i 115/16.) u članku 3. iza točke 12. dodaje se točka 13. koja glasi:
+
+»13. Sustav analize i upravljanja rizicima je sustav administrativnih, operativnih, analitičkih, informatičkih, tehničkih i drugih postupaka, mjera i radnji koje se planiraju i poduzimaju radi identifikacije rizika u odnosu na pravilnu primjenu carinskih, trošarinskih, poreznih i drugih propisa iz nadležnosti Carinske uprave te poduzimanja svih mjera nužnih za ograničavanje izloženosti riziku i učinkovito suzbijanje, sprječavanje i otkrivanje povreda tih propisa. To, među ostalim, obuhvaća postupke kao što su prikupljanje podataka i informacija, njihova obrada te analiza i procjena rizika, kao i sustavno i nasumično planiranje, određivanje te poduzimanje nadzornih i drugih operativno-analitičkih mjera i postupaka.«.
+
+### Članak 2.
+
+U članku 4. stavak 3. mijenja se i glasi:
+
+»(3) Poslovi carinske službe su osobito:
+
+1. utvrđivanje, naplata i nadzor carinskih davanja, trošarina, posebnih poreza, poreza na dodanu vrijednost, drugih javnih davanja te javnopravnih naknada (u daljnjem tekstu: javna davanja),
+
+2. osiguravanje pravilne primjene carinskog zakonodavstva koje se odnosi na unos, iznos, provoz, prijenos, skladištenje i drugo raspolaganje robom koja podliježe mjerama nadzora,
+
+3. provedba carinsko-sigurnosnih mjera,
+
+4. sudjelovanje u provođenju mjera zajedničke poljoprivredne, ribarske i trgovinske politike,
+
+5. utvrđivanje, stavljanje na raspolaganje i nadzor tradicionalnih vlastitih sredstava Europske unije iz carinskih davanja,
+
+6. otkrivanje, sprječavanje i suzbijanje prekršaja i kaznenih djela, njihovo otkrivanje i prikupljanje podataka o tim djelima i počiniteljima te provedba dokaznih radnji u prekršajnom i kaznenom postupku sukladno odredbama Zakona o kaznenom postupku, Prekršajnog zakona i ovoga Zakona,
+
+7. nadzor nad provedbom propisa kojima se uređuje fiskalizacija u prometu gotovinom i propisa kojim se uređuje porezni postupak,
+
+8. nadzor nad unosom, iznosom, prekograničnim prometom te drugim kretanjem i gospodarenjem otpadom sukladno propisima kojima se uređuje gospodarenje otpadom,
+
+9. nadzor provedbe obveza proizvođača proizvoda u smislu propisa kojima se uređuje gospodarenje otpadom te naplata naknada za gospodarenje posebnim kategorijama otpada koje se obračunavaju i plaćaju te postupka posredovanja i trgovanja otpadom sukladno propisima kojima se uređuje gospodarenje otpadom,
+
+10. nadzor uvoza i izvoza tvari koje oštećuju ozonski sloj, fluoriranih stakleničkih plinova, uređaja i opreme koji sadrže ove tvari ili o njima ovise i ostalih kemijskih tvari sukladno propisima o zaštiti zraka,
+
+11. nadzor u skladu s posebnim propisima ispunjavanja uvjeta za ostvarivanje prava na korištenje novčanih sredstava koja se isplaćuju iz državnog proračuna Republike Hrvatske, kao i novčanih sredstava koja korisnici izravno ili posredno ostvaruju primjenom oslobođenja ili izuzeća od plaćanja javnih davanja te sniženih visina i diferenciranih stopa javnih davanja,
+
+12. nadzor obračuna, plaćanja i naplate naknade za koncesiju te nadzor nad obavljanjem djelatnosti za koju je propisana koncesija, a obavlja se bez dodijeljene koncesije,
+
+13. nadzor u području prava intelektualnog vlasništva,
+
+14. nadzor nad provedbom propisa o morskom i slatkovodnom ribarstvu na području ribolovnog mora i voda te u dijelu koji se odnosi na kretanje i promet ribe i drugih morskih i vodenih organizama,
+
+15. provedba carinskih mjera provjere značajki proizvoda sukladno propisima o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti i drugim propisima kojima se uređuju tehnički zahtjevi za proizvode,
+
+16. nadzor unosa i iznosa gotovine preko državne granice sukladno propisima o sprječavanju pranja novca i financiranju terorizma,
+
+17. nadzor nad primjenom propisa kojima se uređuje izvoz, uvoz, iznos i unos kulturnih dobara,
+
+18. nadzor nad provedbom propisa kojima se uređuje prekogranični promet i trgovina divljim vrstama,
+
+19. provedba upravnih i nadzornih poslova u vezi s uvjetima pružanja usluga carinskog zastupanja,
+
+20. nadzor na graničnom prijelazu, odnosno na drugom mjestu gdje se obavlja carinski nadzor dozvola i drugih isprava, sukladno propisima o prijevozu u cestovnom prometu te osovinskog opterećenja, ukupne mase i dimenzije vozila u prometu na cestama sukladno propisima o sigurnosti prometa na cestama,
+
+21. nadzor sustava sljedivosti i praćenja duhanskih proizvoda te uporabe sigurnosnog obilježja sukladno propisima o ograničavanju uporabe duhanskih i srodnih proizvoda,
+
+22. administrativna suradnja i međunarodna razmjena informacija s državama članicama Europske unije ili s trećim državama u području primjene propisa iz nadležnosti Carinske uprave,
+
+23. svi drugi poslovi koji su Carinskoj upravi stavljeni u nadležnost posebnim propisima.«.
+
+### Članak 3.
+
+U članku 12. točka 21. mijenja se i glasi:
+
+»21. provodi nadzor nad primjenom propisa kojima se uređuju uvjeti pružanja usluga carinskog zastupanja,«.
+
+### Članak 4.
+
+U članku 17. iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+
+»(7) U svrhu osiguravanja istovjetnosti i/ili prepoznavanja robe koja podliježe primjeni propisa o javnim davanjima ovlašteni carinski službenik može koristiti tehničku opremu.
+
+(8) Korištenjem tehničke opreme ovlašteni carinski službenik može i fotografirati, snimati i evidentirati robu, nadzirane osobe, mjesto nadzora, prometna sredstva, ugovore, isprave i drugu poslovnu dokumentaciju koji su povezani s predmetom nadzora.«.
+
+### Članak 5.
+
+Iza članka 17. dodaje se članak 17.a koji glasi:
+
+»Članak 17.a
+
+(1) Radi provedbe graničnog carinskog nadzora Carinska uprava može snimati područje državne granice, graničnih prijelaza i graničnih carinskih ureda ili koristiti snimke tijela nadležnih za nadzor državne granice i prekograničnog prometa ljudi i roba.
+
+(2) Ako su uređaji za snimanje postavljeni na području graničnih prijelaza i graničnih carinskih ureda, osobe koje se nalaze na tom području moraju biti na to upozorene.«.
+
+### Članak 6.
+
+U članku 18. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Smatra se da okolnosti iz stavka 3. ovoga članka u svakom slučaju postoje kada ovlašteni carinski službenik u provedbi neposrednog nadzora utvrđuje bitne elemente izvršenja dužne (propisane) radnje ili činidbe od strane subjekta nadzora koji te radnje ili činidbe izravno izvršava u odnosu prema ovlaštenom carinskom službeniku.«.
+
+### Članak 7.
+
+U članku 29. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Carinska uprava je dužna kao tajnu čuvati podatke iz sustava analize i upravljanja rizicima te identitet podnositelja predstavke.
+
+(4) Dokumentaciju i podatke koji su prikupljeni ili utvrđeni u provedbi nadzora te identitet podnositelja predstavke Carinska uprava može dati samo sudovima, državnom odvjetništvu, tijelima državne uprave i drugim državnim tijelima, na njihov obrazloženi pisani zahtjev u postupcima iz njihove nadležnosti.«.
+
+### Članak 8.
+
+U članku 40.c stavku 3. riječi: »Ako fizička osoba i odgovorna osoba u pravnoj osobi ne ispune novčanu obvezu iz stavka 2. ovoga članka« zamjenjuju se riječima: »U slučaju daljnjeg neispunjavanja naredbe iz stavka 1. ovoga članka«.
+
+### Članak 9.
+
+U članku 45. iza riječi: »Osobe iz članka 43. ovoga Zakona« dodaju se riječi: »te nadzirane osobe i druge osobe zatečene na mjestu nadzora«.
+
+### Članak 10.
+
+U članku 75. stavak 5. briše se.
+
+Dosadašnji stavci 6., 7. i 8. postaju stavci 5., 6. i 7.
+
+### Članak 11.
+
+Članak 84. mijenja se i glasi:
+
+»(1) Štetu koja građaninu, pravnoj osobi ili drugoj stranki nastane nezakonitim ili nepravilnim radom carinskog službenika naknađuje Republika Hrvatska.
+
+(2) Osobni podaci ovlaštenog carinskog službenika koji je uporabio vatreno oružje su tajni.
+
+(3) Ministarstvo financija će osigurati besplatnu pravnu pomoć ovlaštenom carinskom službeniku protiv kojeg se poduzimaju radnje u okviru prethodnog postupka, kaznenog postupka ili postupka naknade štete u vezi s obavljanjem carinskih poslova koje je po ocjeni Carinske uprave obavio u skladu sa zakonom.
+
+(4) Ocjenu iz stavka 3. ovoga članka donosi povjerenstvo koje imenuje ravnatelj.
+
+(5) Ministarstvo financija će osigurati besplatnu pravnu pomoć i građaninu koji je pružio pomoć ovlaštenom carinskom službeniku, protiv kojeg se vodi postupak iz stavka 3. ovoga članka, zbog radnje počinjene u vezi s pružanjem pomoći.
+
+(6) Besplatna pravna pomoć iz stavka 3. ovoga članka osigurat će se ovlaštenom carinskom službeniku i nakon što mu je prestao radni odnos u Carinskoj upravi.
+
+(7) Kada su sredstva prisile uporabljena na način propisan zakonom, isključena je odgovornost ovlaštenog carinskog službenika koji ih je uporabio.
+
+(8) Ovlaštenom carinskom službeniku koji u obavljanju poslova carinske službe uporabi vatreno oružje Ministarstvo financija će osigurati nužnu medicinsku i psihosocijalnu pomoć.«.
+
+### Članak 12.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/52
+
+Zagreb, 11. travnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o carinskoj službi (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1918*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O CARINSKOJ SLUŽBI
+
+Proglašavam Zakon o izmjeni Zakona o carinskoj službi, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/126
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O CARINSKOJ SLUŽBI**
+
+### Članak 1.
+
+U Zakonu o carinskoj službi (»Narodne novine«, br. 68/13., 30/14., 115/16. i 39/19.) u članku 8. stavku 1. riječi: »s položajem pomoćnika ministra financija,« brišu se.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/121
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o carinskoj službi (NN 36/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/578*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O CARINSKOJ SLUŽBI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o carinskoj službi, koji je Hrvatski sabor donio na sjednici 14. ožujka 2024.
+
+Klasa: 011-02/24-02/35
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 18. ožujka 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O CARINSKOJ SLUŽBI**
+
+#### Članak 1.
+
+U Zakonu o carinskoj službi (»Narodne novine«, br. 68/13., 30/14., 115/16., 39/19. i 98/19.) u članku 7. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Pojedini područni carinski uredi po potrebi mogu obavljati poslove iz svog djelokruga izvan područja svoje mjesne nadležnosti, o čemu odlučuje ravnatelj Carinske uprave.«.
+
+Dosadašnji stavci 4., 5. i 6. postaju stavci 5., 6. i 7.
+
+#### Članak 2.
+
+U članku 17. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Pravo na civilnu odjeću ima ovlašteni carinski službenik koji obavlja carinske poslove primjenom carinskih ovlasti isključivo u civilnoj odjeći.«.
+
+Dosadašnji stavak 4., koji postaje stavak 5., mijenja se i glasi:
+
+»(5) Radna mjesta na kojima ovlašteni carinski službenici moraju nositi odoru, izgled, vrstu, trajanje i način uporabe odore, poslove koje ovlašteni carinski službenici imaju pravo obavljati u civilnoj odjeći te način i uvjete za ostvarivanje prava na civilnu odjeću pravilnikom propisuje ministar financija.«.
+
+Dosadašnji stavci 5., 6., 7. i 8. postaju stavci 6., 7., 8. i 9.
+
+#### Članak 3.
+
+Članak 70. mijenja se i glasi:
+
+»(1) Carinski službenik dužan je dati pisanu izjavu o svom imovinskom stanju i imovinskom stanju svoje uže obitelji, pod kaznenom i materijalnom odgovornošću, u svrhu sprječavanja korupcije, jačanja povjerenja javnosti, integriteta, objektivnosti i nepristranosti, sprječavanja sukoba interesa i drugih nedopuštenih utjecaja prilikom primjene službenih carinskih ovlasti.
+
+(2) Članom uže obitelji iz stavka 1. ovoga članka smatraju se: bračni ili izvanbračni drug ili životni partner ili neformalni životni partner te maloljetna djeca sa stanjem na dan popunjavanja izjave.
+
+(3) Carinski službenik iz stavka 1. ovoga članka podnosi izjavu u roku od 30 dana od dana početka rada u Carinskoj upravi sa stanjem na dan popunjavanja izjave, a u slučaju promjene svog imovinskog stanja ili stanja članova uže obitelji dužan je dostaviti promjenu u roku od 30 dana od dana promjene.
+
+(4) Pod promjenom stanja iz stavka 3. ovoga članka smatra se svaka promjena u sadržaju imovine, povećanja vrijednosti imovine u iznosu većem od 10.000,00 eura, kao i svaka promjena u primicima od obavljanja dodatnog posla (honorara ili drugih naknada) i ostalih primitaka.
+
+(5) Izjava o imovinskom stanju podnosi se na propisanom obrascu elektronički, s kvalificiranim elektroničkim potpisom, ili uz dostavu ispisanog i vlastoručno potpisanog obrasca.
+
+(6) Izjava o imovinskom stanju sadrži podatke o imovini carinskog službenika, njegova bračnog ili izvanbračnog druga ili životnog partnera ili neformalnog životnog partnera te maloljetne djece, stečenoj po svim pravnim osnovama.
+
+(7) Izjava o imovinskom stanju sadrži osnovne osobne podatke carinskog službenika i njegova bračnog ili izvanbračnog druga ili životnog partnera ili neformalnog životnog partnera, podatke o izvorima primitaka, podatke o obvezama, podatke o nekretninama, podatke o pokretninama, podatke o poslovnim udjelima, dionicama i vrijednosnim papirima u poslovnim subjektima, podatke o novčanim sredstvima izraženim u eurima ili drugim deviznim sredstvima te podatke o ostalim članstvima i funkcijama u drugim pravnim osobama, udruženjima i organizacijama.
+
+(8) Izjava o imovinskom stanju carinskog službenika sadrži osnovne osobne podatke o maloljetnoj djeci, podatke o nekretninama, podatke o pokretninama, podatke o poslovnim udjelima, dionicama i vrijednosnim papirima u poslovnim subjektima te podatke o novčanim sredstvima izraženim u eurima ili drugim deviznim sredstvima.
+
+(9) Podaci o imovini sadrže podatke o naslijeđenoj imovini i podatke o stečenoj imovini.
+
+(10) Podaci o naslijeđenoj imovini obuhvaćaju podatke o vrsti i ukupnoj vrijednosti nasljedstva te podatke od koga je nasljedstvo naslijeđeno.
+
+(11) Podaci o stečenoj imovini obuhvaćaju podatke o:
+
+– dohotku od nesamostalnog rada, dohotku od samostalne djelatnosti, dohotku od imovine i imovinskih prava, dohotku od kapitala i drugom dohotku, osim o primicima koji predstavljaju naknadu putnih i drugih troškova rada obveznika, partnera ili maloljetne djece, sukladno posebnim propisima kojima je uređeno oporezivanje dohotka,
+
+– primicima koji se ne smatraju dohotkom i primicima na koje se ne plaća porez na dohodak,
+
+– dugovima, preuzetim jamstvima i ostalim obvezama,
+
+– dospjelim potraživanjima prema trećim osobama,
+
+– nekretninama u knjižnom i izvanknjižnom vlasništvu stečenim kupoprodajom, zamjenom, darovanjem, unošenjem i izuzimanjem nekretnina iz trgovačkog društva, stečenim u postupku likvidacije ili stečaja, stečenim na temelju odluka suda ili drugog tijela, ugovorom o doživotnom/dosmrtnom uzdržavanju, povratom imovine stečene u postupku denacionalizacije te na drugi način stečenim nekretninama od drugih osoba,
+
+– pokretninama koje se upisuju u javni registar i pokretninama veće vrijednosti,
+
+– poslovnim udjelima i vrijednosnim papirima u trgovačkim društvima i udjelima u društvima osoba,
+
+– udjelima o vlasništvu drugih poslovnih subjekata i subjekata samostalne djelatnosti,
+
+– novčanoj štednji i kriptovalutama čiji je iznos veći ili jednak jednogodišnjem iznosu neto primitka carinskog službenika.
+
+(12) Pod pokretninama koje se upisuju u javne registre podrazumijevaju se vozila, plovila, zrakoplovi i radni strojevi, a koji se upisuju u javne registre.
+
+(13) Pod pokretninama veće vrijednosti iz stavka 11. podstavka 6. ovoga članka podrazumijevaju se lovačko oružje, umjetnine, nakit, drugi predmeti osobne uporabne vrijednosti, vrijednosni papiri, životinje, ostali radni strojevi i druge stečene pokretnine pojedinačne vrijednosti veće od 5000,00 eura, osim predmeta kućanstva i odjevnih predmeta.
+
+(14) U odnosu na stečenu imovinu iz stavaka 11. i 12. ovoga članka carinski službenici dužni su u izjavi o imovinskom stanju prikazati podatke o načinu stjecanja imovine i izvorima sredstava kojima je stečena imovina.
+
+(15) Carinski službenik dužan je istinito i potpuno ispuniti izjavu o imovinskom stanju za sebe i za osobe o čijem je imovinskom stanju obvezan dati podatke.
+
+(16) Ako carinski službenik ne ispuni obvezu podnošenja izjave o imovinskom stanju ili ako se utvrdi da nije podnio izjavu o imovinskom stanju na propisanom obrascu i s potpisom sukladno stavku 5. ovoga članka ili ako je obrazac izjave o imovinskom stanju nepotpuno ili nepravilno ispunjen, pisanim putem pozvat će se carinski službenik da ispuni izjavu o imovinskom stanju u roku koji ne može biti kraći od osam dana niti duži od petnaest dana od dana zaprimanja pisane obavijesti.
+
+(17) Pisana izjava o imovinskom stanju pohranjuje se u osobnom dosjeu carinskog službenika te se klasificira stupnjem tajnosti »ograničeno«.
+
+(18) Nadležna ustrojstvena jedinica za unutarnji nadzor i kontrolu ovlaštena je izvršiti provjeru i kontrolu podataka podnesenih u izjavi kod nadležnih državnih institucija.
+
+(19) Vrste podataka, sadržaj obrasca, način podnošenja izjave o imovinskom stanju i razdoblje pohrane izjave o imovinskom stanju, kao i sve druge mjere za osiguranje zakonite i poštene obrade ministar financija propisuje pravilnikom.«.
+
+#### Članak 4.
+
+U članku 75. stavak 5. briše se.
+
+Dosadašnji stavci 6. i 7. postaju stavci 5. i 6.
+
+#### Članak 5.
+
+U članku 95. stavku 2. točka 3. briše se.
+
+Dosadašnje točke 4. i 5. postaju točke 3. i 4.
+
+#### Članak 6.
+
+Iza članka 95. dodaju se članci 95.a, 95.b, 95.c i 95.d koji glase:
+
+»Članak 95.a
+
+(1) Srednjoškolsko obrazovanje za stjecanje kvalifikacije carinik provodi se u skladu s odredbama ovoga Zakona i propisa iz područja odgoja i obrazovanja i obrazovanja odraslih, kao i s potrebama službe Carinske uprave.
+
+(2) Srednjoškolskim obrazovanjem za stjecanje kvalifikacije carinik stječe se kvalifikacija razine 4.2 sukladno Hrvatskom kvalifikacijskom okviru.
+
+(3) Pravo pristupa redovitom obrazovanju za stjecanje kvalifikacije iz stavka 2. ovoga članka imaju polaznici koji su završili II. razred srednje škole.
+
+(4) Stjecanje kvalifikacije iz stavka 2. ovoga članka može se provoditi i u sustavu obrazovanja odraslih, a pravo pristupa imaju polaznici koji su prethodno stekli srednjoškolsku kvalifikaciju razine 4.2.
+
+#### Članak 95.b
+
+(1) Strukovni kurikulum za stjecanje kvalifikacije carinik donosi ministar nadležan za obrazovanje na prijedlog agencije nadležne za strukovno obrazovanje.
+
+(2) Strukovni kurikulum za stjecanje kvalifikacije carinik provodi se sukladno propisima iz područja odgoja i obrazovanja.
+
+#### Članak 95.c
+
+(1) Osoba koja je stekla kvalifikaciju carinik na trošak Carinske uprave dužna je nakon uspješno završenog obrazovanja ostati na radu u Carinskoj upravi dvostruko duže od dužine trajanja obrazovanja.
+
+(2) Osoba koja na radu u Carinskoj upravi ne ostane propisano vrijeme iz stavka 1. ovoga članka i osoba koja iz neopravdanih razloga ne završi obrazovanje dužna je naknaditi troškove stipendiranja.
+
+(3) Prava i obveze između Carinske uprave i osobe, odnosno zakonskog zastupnika ili skrbnika osobe koja se obrazuje za kvalifikaciju carinik uređuju se ugovorom.
+
+#### Članak 95.d
+
+(1) Slobodna radna mjesta carinskih službenika mogu se popuniti bez javnog natječaja, prijmom u carinsku službu osoba koje su na temelju ugovora o stipendiranju u obvezi raditi određeno vrijeme u Carinskoj upravi.
+
+(2) Osoba koja se prima u Carinsku upravu bez radnog iskustva na temelju ugovora o stipendiranju raspoređuje se u svojstvu vježbenika na radno mjesto carinika.
+
+(3) Ako u Carinskoj upravi postoji potreba službe i slobodno radno mjesto, za osobu iz stavka 1. ovoga članka ravnatelj Carinske uprave može donijeti rješenje o prijmu i rasporedu na neodređeno vrijeme, nakon položenog državnog ispita.«.
+
+#### Članak 7.
+
+Članak 97. briše se.
+
+#### Članak 8.
+
+U članku 102. stavku 1. točka 3. mijenja se i glasi:
+
+»3. zlouporaba odore, oznaka, službene iskaznice, službene značke ili oružja,«.
+
+U točki 4. iza riječi: »u službenim ispravama« dodaju se riječi: »ili u informacijskom sustavu«.
+
+U točki 9. iza riječi: »neovlašteno« dodaje se riječ: »korištenje«.
+
+Na kraju točke 12. umjesto točke stavlja se zarez i dodaje se točka 13. koja glasi:
+
+»13. nepodnošenje izjave, ili podnošenje nepotpisane ili nepotpune ili netočne ili neistinite ili nepravodobne izjave, ili nepodnošenje izmjene izjave ili podnošenje nepotpisane ili nepotpune ili netočne ili neistinite ili nepravodobne izmjene izjave iz članka 70. ovoga Zakona.«.
+
+#### Članak 9.
+
+Iza članka 117. dodaje se članak 117.a koji glasi:
+
+»Članak 117.a
+
+Na obveze i odgovornosti namještenika odgovarajuće se primjenjuju odredbe ovoga Zakona o obvezama i odgovornostima carinskih službenika.«.
+
+#### Članak 10.
+
+Članak 118. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 1327,00 do 66.361,00 eura kaznit će se za prekršaj pravna osoba ako:
+
+1. na zahtjev ovlaštenog carinskog službenika u određenom roku i/ili na određenom mjestu ne podnese knjigovodstvenu ispravu, ugovor, poslovno dopisivanje, evidenciju ili neku drugu ispravu potrebnu za provedbu nadzora, odnosno dade netočne ili nepotpune podatke (članak 32. stavci 2. i 3.),
+
+2. onemogući uvid u poslovne knjige i propisane evidencije koje se vode na elektronskom mediju, kao i uvid u bazu podataka računalnog sustava (članak 32. stavak 4.),
+
+3. u ostavljenom roku ne izradi, odnosno ne preda dokument ili deklaraciju koja potvrđuje neki podatak koji je zabilježen na elektronskom mediju (članak 32. stavak 4.),
+
+4. na zahtjev u određenom roku ne da podatke ili da netočne i nepotpune podatke i obavijesti potrebne za Intrastat evidencije (članak 32. stavak 2.),
+
+5. ne postupi prema naredbi ovlaštenog carinskog službenika iz članka 39. ovoga Zakona,
+
+6. ne postupi prema naredbi ovlaštenog carinskog službenika iz članka 40., 40.a i/ili 40.b ovoga Zakona,
+
+7. ne omogući nesmetan pregled robe koja je predmet nadzora ili napusti mjesto nadzora ili ukloni robu ili prijevozno sredstvo s mjesta nadzora bez odobrenja ovlaštenog carinskog službenika (članak 45.),
+
+8. ne omogući nesmetano uzimanje uzoraka robe radi provođenja analize ili drugog odgovarajućeg ispitivanja (članak 46. stavak 1.),
+
+9. ne omogući nesmetani pregled ili pretragu prometnih sredstava (članak 48. stavci 3. i 4.),
+
+10. ne omogući nesmetani ulazak, pregled ili pretragu poslovnih prostorija, prostora, zemljišta ili objekata (članak 49. stavak 1.),
+
+11. ne omogući nesmetano privremeno oduzimanje robe, domaćih ili stranih sredstava plaćanja te isprava i nositelja podataka (članci 50. i 51. te članak 52. stavci 1. i 2.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 398,00 do 13.272,00 eura i odgovorna osoba u pravnoj osobi.
+
+(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 1327,00 do 26.544,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 398,00 do 13.272,00 eura.«.
+
+#### Članak 11.
+
+Članak 119. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 663,00 do 39.816,00 eura kaznit će se za prekršaj pravna osoba ako:
+
+1. odbije predati osobnu iskaznicu, putnu ispravu ili drugu javnu ispravu s fotografijom na temelju kojih se može provjeriti istovjetnost osobe (članak 33.),
+
+2. se nepristojno ili uvredljivo obraća ovlaštenom carinskom službeniku tijekom njegova službenog rada,
+
+3. ne postupi prema upozorenju ovlaštenog carinskog službenika (članak 38.),
+
+4. napusti mjesto nadzora bez odobrenja ovlaštenog carinskog službenika ili ne zaustavi prometno sredstvo na mjestu nadzora (članak 48. stavak 2.),
+
+5. ovlaštenim carinskim službenicima pri obavljanju poslova nadzora i carinsko-sigurnosnih mjera u prometu s inozemstvom ne omogući besplatan prijevoz javnim prijevoznim sredstvom (članak 85.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 265,00 do 9290,00 eura i odgovorna osoba u pravnoj osobi.
+
+(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 398,00 do 13.272,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 265,00 do 9290,00 eura.«.
+
+#### Članak 12.
+
+Članak 120. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 265,00 do 26.544,00 eura kaznit će se za prekršaj pravna osoba ako reproducira ili koristi kao odoru ili kao svoje oznake odoru ili oznake koje su po boji, izgledu i oznakama jednake ili slične službenoj odori i oznakama Carinske uprave.
+
+(2) Predmeti koji su izrađeni ili korišteni suprotno odredbi stavka 1. ovoga članka oduzet će se i uništiti.
+
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 132,00 do 3981,00 eura i odgovorna osoba u pravnoj osobi.
+
+(4) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 265,00 do 6636,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(5) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 132,00 do 3981,00 eura.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 13.
+
+Carinski službenici zatečeni u Carinskoj upravi na dan stupanja na snagu pravilnika iz članka 3. ovoga Zakona podnose izjavu u roku od 30 dana od dana stupanja na snagu pravilnika iz članka 3. ovoga Zakona sa stanjem na dan popunjavanja izjave.
+
+#### Članak 14.
+
+Ministar financija će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike iz članaka 2. i 3. ovoga Zakona.
+
+#### Članak 15.
+
+Do stupanja na snagu pravilnika iz članka 3. ovoga Zakona podnošenje izjave o imovinskom stanju provodit će se sukladno Zakonu o carinskoj službi (»Narodne novine«, br. 68/13., 30/14., 115/16., 39/19. i 98/19.).
+
+#### Članak 16.
+
+Strukovni kurikulum iz članka 95.b koji je dodan člankom 6. ovoga Zakona donosi ministar nadležan za obrazovanje na prijedlog agencije nadležne za strukovno obrazovanje najkasnije u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 17.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 95.a, 95.c i 95.d koji su dodani člankom 6. ovoga Zakona koji stupaju na snagu u roku od tri mjeseca od dana donošenja strukovnog kurikuluma iz članka 95.b koji je dodan člankom 6. ovoga Zakona.
+
+Klasa: 022-02/23-01/104
+
+Zagreb, 14. ožujka 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

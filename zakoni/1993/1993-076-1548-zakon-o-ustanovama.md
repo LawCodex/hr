@@ -6,14 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-08-16
-last_amended: 2008-03-28
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2008; may be obsolete or implicitly repealed"
+last_amended: 2022-12-22
+status: in_force
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "76/93, 47/99, 35/08"
+narodne_novine: "76/93, 47/99, 35/08, 127/19, 151/22"
 amendments:
   - "NN 47/1999 (924) Ispravak Zakona o ustanovama"
   - "NN 35/2008 (1142) Zakon o izmjenama i dopuni Zakona o ustanovama"
+  - "NN 127/2019 (2562) Zakon o izmjenama i dopunama Zakona o ustanovama"
+  - "NN 151/2022 (2344) Zakon o izmjenama i dopunama Zakona o ustanovama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1548"
 retrieved: 2026-10-12
 ---
@@ -22,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 76/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/76/1548).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 47/1999, NN 35/2008.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 47/1999, NN 35/2008, NN 127/2019, NN 151/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -776,3 +778,550 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o ustanovama (NN 127/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/127/2562*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O USTANOVAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o ustanovama, koji je Hrvatski sabor donio na sjednici 13. prosinca 2019.
+
+Klasa: 011-01/19-01/232
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O USTANOVAMA**
+
+### Članak 1.
+
+U Zakonu o ustanovama (»Narodne novine«, br. 76/93., 29/97., 47/99. i 35/08.) članak 1. mijenja se i glasi:
+
+»Ustanova je pravna osoba čije je osnivanje i ustrojstvo uređeno ovim Zakonom.
+
+Ustanova se osniva za trajno obavljanje djelatnosti od javnog interesa sukladno posebnom zakonu.«.
+
+### Članak 2.
+
+Članak 2. mijenja se i glasi:
+
+»Ustanova stječe svojstvo pravne osobe upisom u sudski registar.
+
+Ustanova gubi svojstvo pravne osobe brisanjem iz sudskog registra.«.
+
+### Članak 3.
+
+U članku 4. iza riječi: »sudovima« briše se zarez, a riječi: »drugim državnim organima i tijelima s javnim ovlastima« zamjenjuju se riječima: »i ovlaštenim javnopravnim tijelima«.
+
+### Članak 4.
+
+Članak 6. mijenja se i glasi:
+
+»Ustanova se osniva kao javna ustanova ako je djelatnost ili dio djelatnosti koju obavlja zakonom određena kao javna služba.
+
+Javna ustanova može se osnovati i za:
+
+1. obavljanje djelatnosti ili dijela djelatnosti koje nisu određene kao javna služba, ako se one obavljaju na način i pod uvjetima koji su propisani za javnu službu,
+
+2. obavljanje povjerenih poslova državne uprave sukladno zakonu kojim se uređuje sustav državne uprave i posebnom zakonu.«.
+
+### Članak 5.
+
+Članak 7. mijenja se i glasi:
+
+Javnu ustanovu može osnovati:
+
+1. Republika Hrvatska,
+
+2. jedinica lokalne i područne (regionalne) samouprave u okviru svoga samoupravnog djelokruga,
+
+3. druga pravna ili fizička osoba, ako je to posebnim zakonom izrijekom dopušteno.
+
+Javnu ustanovu može osnovati više osnivača iz stavka 1. ovoga članka ako to nije u suprotnosti sa zakonom.
+
+Javnu ustanovu iz članka 6. stavka 2. točke 2. ovoga Zakona osniva Republika Hrvatska.«.
+
+### Članak 6.
+
+Članak 8. mijenja se i glasi:
+
+»Osnivač javne ustanove iz članka 7. stavka 1. točke 2. i 3. ovoga Zakona dužan je zatražiti prethodnu ocjenu sukladnosti akta o osnivanju sa zakonom od tijela državne uprave u čijem je djelokrugu djelatnost javne ustanove u osnivanju.
+
+Ako tijelo državne uprave iz stavka 1. ovoga članka ne donese rješenje o sukladnosti akta o osnivanju javne ustanove sa zakonom u roku od 30 dana od dana predaje urednog zahtjeva, smatrat će se da je akt o osnivanju sukladan zakonu.
+
+Protiv rješenja kojim se utvrđuje da akt o osnivanju nije sukladan zakonu može se pokrenuti upravni spor.«.
+
+### Članak 7.
+
+U članku 9. stavak 5. mijenja se i glasi:
+
+»Prijavu za upis podružnice u sudski registar podnosi ustanova.«.
+
+### Članak 8.
+
+Članak 10. mijenja se i glasi:
+
+»Javnoj ustanovi iz članka 7. stavka 1. točke 1. ovoga Zakona mogu se zakonom povjeriti poslovi državne uprave u jednom ili više upravnih područja sukladno zakonu kojim se uređuje sustav državne uprave, čime javna ustanova stječe svojstvo pravne osobe s javnim ovlastima u smislu toga zakona.
+
+Javnu ustanovu iz članka 7. stavka 1. točke 2. ovoga Zakona može se aktom o osnivanju ovlastiti za obavljanje određenih poslova iz samoupravnog djelokruga jedinice lokalne i područne (regionalne) samouprave sukladno zakonu kojim se uređuje lokalna i područna (regionalna) samouprava.«.
+
+### Članak 9.
+
+Članak 11. mijenja se i glasi:
+
+»Na radnopravni status zaposlenih u ustanovama primjenjuju se opći propisi o radu ako zakonom nije drukčije određeno.«.
+
+### Članak 10.
+
+Članak 12. mijenja se i glasi:
+
+»Akt o osnivanju ustanove donosi osnivač.
+
+Republika Hrvatska ustanovu osniva zakonom ili uredbom te rješenjem ministarstva ako je to zakonom izrijekom propisano.
+
+Jedinica lokalne i područne (regionalne) samouprave ustanovu osniva odlukom.
+
+Druge pravne i fizičke osobe ustanovu osnivaju odlukom o osnivanju.
+
+Ako ustanovu osniva više osnivača iz članka 7. stavka 1. ovoga Zakona, akt o osnivanju ustanove donosi se u obliku ugovora o osnivanju ustanove kojim se uređuju međusobna prava i obveze osnivača.
+
+Ako je jedan od osnivača ustanove iz stavka 5. ovoga članka jedinica lokalne i područne (regionalne) samouprave, ugovor o osnivanju ustanove sklapa se nakon donošenja odluke iz stavka 3. ovog članka.
+
+Ugovorom o osnivanju ustanove ne može se isključiti ili ograničiti odgovornost jednog od osnivača za obveze ustanove.«.
+
+### Članak 11.
+
+U članku 13. stavku 1. točki 4. riječ: »organima« zamjenjuje se riječju: »tijelima«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Ako se ustanova osniva radi obavljanja poslova državne uprave, akt o osnivanju obvezno sadrži naznaku djelatnosti koje se obavljaju kao javna ovlast.«.
+
+### Članak 12.
+
+U članku 15. stavcima 1. i 2. iza riječi: »registar« riječ: »ustanova« briše se.
+
+### Članak 13.
+
+Članak 18. mijenja se i glasi:
+
+»Riječi »Hrvatska«, »Republika«, »država« i njihove izvedenice, te druga državna znamenja, uključujući njihovo oponašanje, mogu se unijeti u naziv ustanove samo zakonom, uredbom ili na temelju rješenja ministarstva nadležnog za poslove opće uprave ako se time ne vrijeđa ugled i dostojanstvo Republike Hrvatske.
+
+Naziv jedinice lokalne i područne (regionalne) samouprave i njezine izvedenice, te njezin grb i zastava, uključujući njihovo oponašanje, mogu se unijeti u naziv ustanove samo zakonom ili uz prethodno odobrenje nadležnog tijela jedinice lokalne i područne (regionalne) samouprave, sukladno zakonu kojim se uređuje lokalna i područna (regionalna) samouprava.
+
+Naziv druge države ili međunarodne (međudržavne) organizacije, njezin grb, zastava te drugo službeno znakovlje, mogu se unijeti u naziv ustanove samo na temelju rješenja ministarstva nadležnog za poslove opće uprave i uz prethodni pristanak druge države ili međunarodne (međudržavne) organizacije.
+
+Naziv etničke i nacionalne zajednice ili manjine, njezin grb, zastava ili znak, mogu se unijeti u naziv ustanove samo na temelju rješenja tijela državne uprave u čiji djelokrug ulazi djelatnost ustanove.
+
+Protiv rješenja iz stavka 1., 3. i 4. ovoga članka može se pokrenuti upravni spor.«.
+
+### Članak 14.
+
+Članak 19. mijenja se i glasi:
+
+»U naziv ustanove može se unijeti ime ili dio imena neke fizičke osobe samo na način kojim se ne vrijeđa čast i ugled te osobe i uz njezin pisani pristanak, a ako je ta osoba umrla, uz pisani pristanak njezinih nasljednika.
+
+U naziv ustanove može se unijeti ime ili dio imena neke povijesne osobe samo na način kojim se ne vrijeđa dostojanstvo te osobe i uz pisani pristanak nasljednika ako ih ima.«.
+
+### Članak 15.
+
+U članku 20. iza riječi: »registar« riječ: »ustanova« briše se.
+
+### Članak 16.
+
+U članku 21. stavku 2. riječ: »karakteristični« zamjenjuje se riječju: »prepoznatljivi«.
+
+U stavku 3. iza riječi: »registar« riječ: »ustanova« briše se.
+
+### Članak 17.
+
+U članku 22. stavku 6. i članku 23. iza riječi: »registar« riječ: »ustanova« briše se.
+
+### Članak 18.
+
+U članku 26. stavku 2. riječi: »poslovodnog organa« zamjenjuju se riječima: »tijela koje vodi poslovanje ustanove«.
+
+### Članak 19.
+
+U članku 27. stavku 2. iza riječi: »registar« riječ: »ustanova« briše se.
+
+### Članak 20.
+
+U članku 29. stavku 2. prva rečenica koja glasi: »Ustanova može promijeniti djelatnost.« briše se.
+
+### Članak 21.
+
+Članak 30. mijenja se i glasi:
+
+»Djelatnost ustanove upisuje se u sudski registar.
+
+Pored upisane djelatnosti ustanova može obavljati i druge djelatnosti koje služe obavljanju upisane djelatnosti, ako se one u manjem opsegu ili uobičajeno obavljaju uz upisanu djelatnost.«.
+
+### Članak 22.
+
+Članak 31. mijenja se i glasi:
+
+»Ustanova može početi obavljati određenu djelatnost tek nakon što je upisana u sudski registar i nakon što ispuni sve propisane uvjete za obavljanje odnosne djelatnosti.«.
+
+### Članak 23.
+
+U članku 33. stavku 1. iza riječi: »registar« riječ: »ustanova« briše se.
+
+### Članak 24.
+
+U nazivu glave V. riječ: »ORGANI« zamjenjuje se riječju: »TIJELA«.
+
+### Članak 25.
+
+U članku 35. stavku 1. riječi: »drugi kolegijalni organ« zamjenjuju se riječima: »drugo kolegijalno tijelo«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Ako zakonom nije drukčije određeno, predstavnike osnivača u upravno vijeće imenuje:
+
+1. Vlada Republike Hrvatske, za ustanove kojima je osnivač Republika Hrvatska,
+
+2. izvršno tijelo jedinice lokalne i područne (regionalne) samouprave, za ustanove kojima je osnivač jedinica lokalne i područne (regionalne) samouprave,
+
+3. tijelo pravne osobe određeno aktom o osnivanju ustanove, za ustanove kojima je osnivač druga pravna osoba,
+
+4. fizička osoba ili druga osoba određena aktom o osnivanju, za ustanove kojima je osnivač fizička osoba.«.
+
+### Članak 26.
+
+U članku 36. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Pored poslova iz stavka 1. ovoga članka te pod uvjetima i na način propisan zakonom kojim se uređuje sustav državne uprave, upravno vijeće ili drugo kolegijalno tijelo javne ustanove iz članka 6. stavka 2. točke 2. ovoga Zakona može biti ovlašteno i za donošenje provedbenih propisa.«.
+
+### Članak 27.
+
+U članku 37. stavku 2. iza riječi: »sudovima« briše se zarez, a riječi: »upravnim i drugim državnim tijelima te pravnim osobama s javnim ovlastima« zamjenjuju se riječima: »i ovlaštenim javnopravnim tijelima«.
+
+U stavku 3. riječ: »organa« zamjenjuje se riječju: »tijela«.
+
+U stavku 5. riječi: »drugi kolegijalni organ utvrđen« zamjenjuju se riječima: »drugo kolegijalno tijelo utvrđeno«.
+
+### Članak 28.
+
+U članku 38. stavku 2. riječi: »nadležno ministarstvo« zamjenjuju se riječima: »čelnik nadležnog tijela državne uprave«.
+
+### Članak 29.
+
+Članak 40. mijenja se i glasi:
+
+»Ako zakonom nije drukčije određeno, ravnatelj ustanove imenuje se:
+
+1. na temelju javnog natječaja, ako je osnivač ustanove Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave ili pravna osoba kojoj je osnivač Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave,
+
+2. sukladno aktu o osnivanju, ako je osnivač ustanove druga pravna ili fizička osoba, odnosno ako su druge pravne i/ili fizičke osobe jedini osnivači ustanove.«.
+
+### Članak 30.
+
+U članku 41. stavku 1. riječi: »u javnim glasilima« zamjenjuju se riječima: »na mrežnim stranicama ustanove«, a iza riječi: »Republika Hrvatska« dodaju se riječi: »ili jedinica lokalne i područne (regionalne) samouprave«.
+
+### Članak 31.
+
+U članku 42. stavku 2. riječ: »izboru« zamjenjuje se riječju: »imenovanju«.
+
+U stavku 3. riječi: »pred upravnim sudom Republike Hrvatske« brišu se.
+
+### Članak 32.
+
+U članku 44. stavku 2. točki 1. riječi: »radnom odnosu« zamjenjuju se riječju: »radu«.
+
+U točki 2. riječi: »propisima kojima se uređuju radni odnosi dovode do prestanka ugovora o radu« zamjenjuju se riječima: »općim propisima o radu dovode do prestanka radnog odnosa.«
+
+U točki 3. riječ: »po« zamjenjuje se riječju: »sukladno«, a riječ: »organa« zamjenjuje se riječju: »tijela«.
+
+Stavak 3. briše se.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., iza riječi: »natječaj za« dodaje se riječ: »imenovanje«.
+
+### Članak 33.
+
+Članak 45. mijenja se i glasi:
+
+»Razriješena osoba može odluku o razrješenju pobijati tužbom pred nadležnim sudom u roku od trideset dana od dana zaprimanja odluke o razrješenju ako smatra da nisu postojali razlozi za razrješenje iz članka 44. stavka 2. ovoga Zakona ili da je u postupku donošenja odluke o razrješenju došlo do povrede koja je značajno utjecala na ishod postupka.«.
+
+### Članak 34.
+
+Članak 48. mijenja se i glasi:
+
+»Ako statutom sukladno zakonu i aktu o osnivanju nije drugačije određeno, na imenovanje i razrješenje stručnog voditelja primjenjuju se odredbe ovoga Zakona o imenovanju i razrješenju ravnatelja.«.
+
+### Članak 35.
+
+U članku 49. stavku 1. riječi: »drugi kolegijalni stručni organ« zamjenjuju se riječima: »drugo kolegijalno stručno tijelo«.
+
+### Članak 36.
+
+Naslov iznad članka 51. mijenja se i glasi: »6. Ostala tijela ustanove«.
+
+Članak 51. mijenja se i glasi:
+
+»Ustanova može imati i druga nadzorna, stručna i savjetodavna tijela.
+
+Sastav, način osnivanja, djelokrug i nadležnost tijela iz stavka 1. ovoga članka utvrđuju se statutom ustanove sukladno zakonu i aktu o osnivanju ustanove.«.
+
+### Članak 37.
+
+Naslov iznad članka 52. mijenja se i glasi: »7. Tijela podružnice«.
+
+U članku 52. stavku 1. riječ: »predstojnik« zamjenjuje se riječju: »voditelj«.
+
+U stavku 2. riječi: »drugi organ« zamjenjuju se riječima: »drugo tijelo«.
+
+### Članak 38.
+
+U članku 53. stavku 1. riječi: »pobliže utvrđuje« zamjenjuju se riječju: »uređuje«, a riječi: »pojedinih organa« zamjenjuju se riječima: »tijela ustanove«.
+
+### Članak 39.
+
+U članku 54. stavku 1. iza riječi: »uz« dodaje se riječ: »prethodnu«.
+
+### Članak 40.
+
+U članku 55. stavku 1. riječi: »može stupiti na snagu najranije danom objavljivanja« zamjenjuju se riječima: »stupa na snagu najranije dan nakon dana objave«.
+
+### Članak 41.
+
+Članak 56. mijenja se i glasi:
+
+»Javna ustanova dužna je akt o osnivanju, statut te druge opće akte koji uređuju obavljanje njezine djelatnosti ili dijela djelatnosti koja se smatra javnom službom objaviti na svojim mrežnim stranicama na lako pretraživ način i u strojno čitljivom obliku.«.
+
+### Članak 42.
+
+Članak 57. mijenja se i glasi:
+
+»Sredstva za rad koja su pribavljena od osnivača, stečena pružanjem usluga i prodajom proizvoda ili su pribavljena iz drugih izvora čine imovinu ustanove.
+
+Ako u obavljanju svoje djelatnosti ustanova ostvari dobit, ostvarena se dobit upotrebljava za obavljanje i razvoj djelatnosti ustanove u skladu s aktom o osnivanju i statutom.
+
+Iznimno od odredbe stavka 2. ovoga članka, ostvarena dobit ustanove čiji je osnivač druga pravna ili fizička osoba, odnosno čiji su jedini osnivači druge pravne i/ili fizičke osobe može se upotrijebiti i na druge načine, uz odgovarajuću primjenu propisa o trgovačkim društvima, temeljem odluke osnivača u skladu s aktom o osnivanju i statutom.
+
+Javna ustanova iz članka 6. stavka 2. točke 2. ovoga Zakona ostvarenu dobit upotrebljava sukladno posebnom zakonu.
+
+Ako to nije u suprotnosti sa zakonom, osnivač može dobit ustanove upotrijebiti za razvoj i obavljanje djelatnosti druge ustanove kojoj je osnivač.«.
+
+### Članak 43.
+
+U članku 58. riječ: »organa« zamjenjuje se riječju: »tijela«.
+
+### Članak 44.
+
+U članku 61. stavak 2. mijenja se i glasi:
+
+»Ustanova je dužna na svojim mrežnim stranicama objaviti podatke o uvjetima i načinu pružanja usluga i obavljanju poslova iz svoje djelatnosti.«.
+
+### Članak 45.
+
+U članku 62. stavku 1. riječ: »informiranja« zamjenjuje se riječju: »priopćavanja«.
+
+Stavak 2. mijenja se i glasi:
+
+»Ustanova će uskratiti davanje informacija, odnosno uvid u dokumentaciju samo u skladu s propisima o zaštiti tajnosti podataka i zaštiti osobnih podataka.«.
+
+### Članak 46.
+
+Članak 64. mijenja se i glasi:
+
+»Ako zakonom kojim se uređuje obavljanje određene djelatnosti nije drukčije propisano, nadzor nad zakonitošću rada i općih akata ustanove obavlja tijelo državne uprave u čijem je djelokrugu djelatnost ustanove.
+
+Obavljanje povjerenih poslova državne uprave podliježe upravnom nadzoru sukladno zakonu kojim se uređuje sustav državne uprave.«.
+
+### Članak 47.
+
+U članku 65. stavak 2. mijenja se i glasi:
+
+»Ako utvrdi nezakonitosti u sadržaju ili postupku donošenja statuta ili općih akata iz stavka 1. ovoga članka, tijelo koje provodi nadzor ovlašteno je sporni akt obustaviti od izvršenja te uputiti zahtjev za ocjenu njegove zakonitosti Visokom upravnom sudu Republike Hrvatske.«.
+
+Stavak 3. briše se.
+
+### Članak 48.
+
+Članak 66. mijenja se i glasi:
+
+»Ako ustanova, čiji je osnivač druga pravna ili fizička osoba, odnosno čiji su jedini osnivači druge pravne i/ili fizičke osobe, protuzakonitim obavljanjem svoje djelatnosti ili drugim postupanjem ugrožava pravni poredak Republike Hrvatske, imovinu veće vrijednosti ili živote, sigurnost ili zdravlje stanovništva, tijelo iz članka 64. ovoga Zakona obavijestit će o tome osnivača ustanove i istodobno podnijeti tužbu radi ukidanja ustanove.
+
+Nadležni trgovački sud u slučaju iz stavka 1. ovoga članka postupa sukladno propisima o ukidanju trgovačkog društva.«.
+
+### Članak 49.
+
+U članku 67. riječi: »državno tijelo uprave« zamjenjuju se riječima: »tijelo državne uprave«.
+
+### Članak 50.
+
+U članku 70. stavku 2. iza riječi: »registar« riječ: »ustanova« briše se.
+
+### Članak 51.
+
+Naziv glave XIII. mijenja se i glasi: »XIII. UPIS U SUDSKI REGISTAR«.
+
+### Članak 52.
+
+Članak 75. mijenja se i glasi:
+
+»Ustanove, podružnice ustanova i zajednice ustanova upisuju se u sudski registar.«.
+
+### Članak 53.
+
+Članak 76. mijenja se i glasi:
+
+»Zakonom se može propisati obveza upisa ustanove i u registar, očevidnik ili drugu službenu evidenciju pri tijelu državne uprave u čijem je djelokrugu djelatnost ustanove.
+
+Upis iz stavka 1. ovoga članka može se provesti tek po upisu ustanove u sudski registar.
+
+U slučaju nesuglasja među upisanim podacima, mjerodavnim se smatraju podaci upisani u sudski registar.
+
+Sadržaj registra, očevidnika ili druge službene evidencije iz stavka 1. ovoga članka te postupak upisa uređuje se zakonom ili drugim propisom utemeljenim na zakonu.«.
+
+### Članak 54.
+
+U nazivu glave XIV. riječ: »KAZNENE« zamjenjuje se riječju: »PREKRŠAJNE«.
+
+### Članak 55.
+
+Članak 77. mijenja se i glasi:
+
+»Ako zakonom kojim se uređuje obavljanje djelatnosti iz članka 1. stavka 2. ovoga Zakona nije drugačije propisano, novčanom kaznom od 2000,00 do 10.000,00 kuna kaznit će se za prekršaj ustanova:
+
+1. ako ne prijavi upis podružnice u sudski registar (članak 9. stavak 5.),
+
+2. ako u obavljanju djelatnosti i poslovanju ne upotrebljava naziv i skraćeni naziv u obliku i sadržaju u kojem je upisan u sudski registar (članak 23.),
+
+3. ako obavlja djelatnost koja nije upisana u sudski registar, a ne služi obavljanju upisane djelatnosti (članak 30. stavak 2.),
+
+4. ako obavlja određenu djelatnost prije nego što je upisana u sudski registar (članak 31.),
+
+5. ako pri provedbi natječaja za imenovanje ravnatelja postupi protivno odredbama članka 41. ovoga Zakona,
+
+6. ako akt o osnivanju, statut te druge opće akte koji uređuju obavljanje njezine djelatnosti ili dijela djelatnosti koja se smatra javnom službom ne objavi na način propisan odredbom članka 56. ovoga Zakona,
+
+7. ako dobit ne upotrijebi na način propisan odredbom članka 57. stavka 2. ovoga Zakona,
+
+8. ako statut ili opći akt kojim se uređuju uvjeti i način obavljanja javne službe ne dostavi nadležnom tijelu sukladno odredbi članka 65. stavka 1. ovoga Zakona.
+
+Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom od 1000,00 do 5000,00 kuna i odgovorna osoba ustanove.«.
+
+### Članak 56.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/94  
+Zagreb, 13. prosinca 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o ustanovama (NN 151/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2344*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O USTANOVAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o ustanovama, koji je Hrvatski sabor donio na sjednici 16. prosinca 2022.
+
+Klasa: 011-02/22-02/176
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 20. prosinca 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O USTANOVAMA**
+
+#### Članak 1.
+
+U Zakonu o ustanovama (»Narodne novine«, br. 76/93., 29/97., 47/99., 35/08. i 127/19.) u članku 22. stavak 5. mijenja se i glasi:
+
+»Ustanova može imati dvojezični naziv i to na hrvatskom jeziku ispisan latiničnim pismom i na nekom stranom živom ili mrtvom jeziku ako je to propisano zakonom, uredbom ili na temelju rješenja ministarstva nadležnog za poslove opće uprave.«.
+
+Iza stavka 6. dodaje se novi stavak 7. koji glasi:
+
+»Protiv rješenja iz stavka 5. ovoga članka može se pokrenuti upravni spor.«.
+
+Dosadašnji stavak 7. postaje stavak 8.
+
+#### Članak 2.
+
+U članku 39. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Ravnatelj ne može biti osoba koja prema zakonu kojim se uređuju trgovačka društva ne može biti članom uprave trgovačkog društva.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 3.
+
+U članku 44. stavku 2. točki 4. na kraju rečenice briše se točka i stavlja zarez te se iza točke 4. dodaje točka 5. koja glasi:
+
+»5. ako nastanu okolnosti iz članka 39. stavka 2. ovoga Zakona.«.
+
+#### Članak 4.
+
+Članak 77. mijenja se i glasi:
+
+»Ako zakonom kojim se uređuje obavljanje djelatnosti iz članka 1. stavka 2. ovoga Zakona nije drugačije propisano, novčanom kaznom od 1000,00 do 5000,00 eura kaznit će se za prekršaj ustanova:
+
+1. ako ne prijavi upis podružnice u sudski registar (članak 9. stavak 5.),
+
+2. ako u obavljanju djelatnosti i poslovanju ne upotrebljava naziv i skraćeni naziv u obliku i sadržaju u kojem je upisan u sudski registar (članak 23.),
+
+3. ako obavlja djelatnost koja nije upisana u sudski registar, a ne služi obavljanju upisane djelatnosti (članak 30. stavak 2.),
+
+4. ako obavlja određenu djelatnost prije nego što je upisana u sudski registar (članak 31.),
+
+5. ako ima ravnatelja imenovanog protivno odredbama članka 39. stavka 2. ovoga Zakona,
+
+6. ako pri provedbi natječaja za imenovanje ravnatelja postupi protivno odredbama članka 41. ovoga Zakona,
+
+7. ako akt o osnivanju, statut te druge opće akte kojima se uređuje obavljanje njezine djelatnosti ili dijela djelatnosti koja se smatra javnom službom ne objavi na način propisan odredbom članka 56. ovoga Zakona,
+
+8. ako dobit ne upotrijebi na način propisan odredbom članka 57. stavka 2. ovoga Zakona,
+
+9. ako statut ili opći akt kojim se uređuju uvjeti i način obavljanja javne službe ne dostavi nadležnom tijelu sukladno odredbi članka 65. stavka 1. ovoga Zakona.
+
+Za prekršaj iz stavka 1. točaka 1. do 4. i 6. do 9. ovoga članka kaznit će se novčanom kaznom od 500,00 do 1000,00 eura i odgovorna osoba ustanove.«.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2023.
+
+Klasa: 022-02/22-01/172
+
+Zagreb, 16. prosinca 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

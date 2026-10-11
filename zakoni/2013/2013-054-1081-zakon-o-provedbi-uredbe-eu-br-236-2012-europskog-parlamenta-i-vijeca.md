@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-05-07
+last_amended: 2023-10-23
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "54/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "54/13, 123/23"
+amendments:
+  - "NN 123/2023 (1703) Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 236/2012 Europskog parlamenta i Vijeća od 14. ožujka 2012. godine o kratkoj prodaji i određenim aspektima kreditnih izvedenica na osnovi nastanka statusa neispunjavanja obveza"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1081"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o provedbi Uredbe (EU) br. 236/2012 Europskog parlamenta i Vijeća od 14. ožujka 2012. godine o kratkoj prodaji i određenim aspektima kreditnih izvedenica na osnovi nastanka statusa neispunjavanja obveza
 
 > Izvor: Narodne novine, NN 54/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1081).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 123/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -348,3 +352,62 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 236/2012 Europskog parlamenta i Vijeća od 14. ožujka 2012. godine o kratkoj prodaji i određenim aspektima kreditnih izvedenica na osnovi nastanka statusa neispunjavanja obveza (NN 123/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/123/1703*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EU) BR. 236/2012 EUROPSKOG PARLAMENTA I VIJEĆA OD 14. OŽUJKA 2012. GODINE O KRATKOJ PRODAJI I ODREĐENIM ASPEKTIMA KREDITNIH IZVEDENICA NA OSNOVI NASTANKA STATUSA NEISPUNJAVANJA OBVEZA
+
+Proglašavam Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 236/2012 Europskog parlamenta i Vijeća od 14. ožujka 2012. godine o kratkoj prodaji i određenim aspektima kreditnih izvedenica na osnovi nastanka statusa neispunjavanja obveza, koji je Hrvatski sabor donio na sjednici 17. listopada 2023.
+
+Klasa: 011-02/23-02/92  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 20. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EU) BR. 236/2012 EUROPSKOG PARLAMENTA I VIJEĆA OD 14. OŽUJKA 2012. GODINE O KRATKOJ PRODAJI I ODREĐENIM ASPEKTIMA KREDITNIH IZVEDENICA NA OSNOVI NASTANKA STATUSA NEISPUNJAVANJA OBVEZA**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EU) br. 236/2012 Europskog parlamenta i Vijeća od 14. ožujka 2012. godine o kratkoj prodaji i određenim aspektima kreditnih izvedenica na osnovi nastanka statusa neispunjavanja obveza (»Narodne novine«, br. 54/13.) u članku 15. stavku 1. u uvodnoj rečenici riječi: »100.000,00 do 1.000.000,00 kuna« zamjenjuju se riječima: »13.270,00 eura do 132.720,00 eura«.
+
+U stavku 2. riječi: »30.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »3980,00 eura do 6630,00 eura«.
+
+U stavku 3. riječi: »30.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »3980,00 eura do 6630,00 eura«.
+
+### Članak 2.
+
+U članku 16. stavku 1. u uvodnoj rečenici riječi: »200.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »26.540,00 eura do 66.360,00 eura«.
+
+U stavku 2. riječi: »30.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »3980,00 eura do 6630,00 eura«.
+
+*Završna odredba*
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/88  
+Zagreb, 17. listopada 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1995-12-28
-last_amended: 2010-05-07
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "108/95, 56/10"
+narodne_novine: "108/95, 56/10, 114/22"
 amendments:
   - "NN 56/2010 (1345) Zakon o izmjenama i dopunama Zakona o zapaljivim tekućinama i plinovima"
+  - "NN 114/2022 (1700) Zakon o izmjenama Zakona o zapaljivim tekućinama i plinovima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1995/108/1778"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 108/1995 (https://narodne-novine.nn.hr/eli/sluzbeni/1995/108/1778).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 56/2010.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 56/2010, NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -588,3 +589,57 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama Zakona o zapaljivim tekućinama i plinovima (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1700*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZAPALJIVIM TEKUĆINAMA I PLINOVIMA
+
+Proglašavam Zakon o izmjenama Zakona o zapaljivim tekućinama i plinovima, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/98
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZAPALJIVIM TEKUĆINAMA I PLINOVIMA**
+
+### Članak 1.
+
+U Zakonu o zapaljivim tekućinama i plinovima (»Narodne novine«, br. 108/95. i 56/10.) iznad članka 23. naziv poglavlja mijenja se i glasi: »IX. PREKRŠAJNE ODREDBE«.
+
+U članku 23. stavku 1. riječi: »od 10.000 do 40.000 kuna« zamjenjuju se riječima: »od 1320,00 do 5300,00 eura«.
+
+U stavku 2. riječi: »od 3.000 do 10.000 kuna« zamjenjuju se riječima: »od 390,00 do 1320,00 eura«.
+
+### Članak 2.
+
+U članku 24. riječi: »od 3.000 do 10.000 kuna« zamjenjuju se riječima: »od 390,00 do 1320,00 eura«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/98
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

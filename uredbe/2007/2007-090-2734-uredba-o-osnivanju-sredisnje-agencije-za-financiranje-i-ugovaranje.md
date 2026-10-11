@@ -6,16 +6,17 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-08-29
-last_amended: 2016-03-18
+last_amended: 2022-07-08
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "90/07, 114/07, 29/12, 56/13, 24/16"
+narodne_novine: "90/07, 114/07, 29/12, 56/13, 24/16, 79/22"
 amendments:
   - "NN 114/2007 (3343) Uredba o izmjenama Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije"
   - "NN 29/2012 (690) Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije"
   - "NN 56/2013 (1153) Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije"
   - "NN 24/2016 (664) Uredba o izmjeni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije"
+  - "NN 79/2022 (1147) Uredba o izmjeni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/90/2734"
 retrieved: 2026-10-12
 ---
@@ -24,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 90/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/90/2734).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2007, NN 29/2012, NN 56/2013, NN 24/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2007, NN 29/2012, NN 56/2013, NN 24/2016, NN 79/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -355,3 +356,56 @@ Zagreb, 16. ožujka 2016.
 
 Predsjednik  
 Tihomir Orešković, v. r.
+
+## Uredba o izmjeni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije (NN 79/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/79/1147*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97., 47/99., 35/08. i 127/19.), Vlada Republike Hrvatske je na sjednici održanoj 7. srpnja 2022. donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O OSNIVANJU SREDIŠNJE AGENCIJE ZA FINANCIRANJE I UGOVARANJE PROGRAMA I PROJEKATA EUROPSKE UNIJE**
+
+### Članak 1.
+
+U Uredbi o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije (»Narodne novine«, br. 90/07., 114/07., 29/12., 56/13. i 24/16.), članak 2. mijenja se i glasi:
+
+»(1) Djelatnost Agencije je upravljanje programima i projektima Europske unije te upravljanje programima i projektima regionalnoga razvoja.
+
+(2) U obavljanju djelatnosti iz stavka 1. ovoga članka Agencija:
+
+– priprema i provodi nabavu odnosno raspisuje pozive, sklapa i provodi ugovore o nabavi robe, radova, usluga i ugovore o bespovratnim sredstvima, odobrava i vrši plaćanja i prati tijek financijskih sredstava te nadzire provedbu programa i projekata prema pravilima financijskog upravljanja i kontrole koja se primjenjuju na proračun Europske unije u skladu s međunarodnim sporazumima
+
+– obavlja funkcije dodijeljene u skladu s važećim zakonima i podzakonskim propisima koji uređuju provedbu strukturnih instrumenata u Republici Hrvatskoj u okviru višegodišnjeg proračuna Europske unije za razdoblje 2007. – 2013.
+
+– obavlja funkcije dodijeljene u skladu s važećim zakonima i podzakonskim propisima koji uređuju provedbu europskih strukturnih i investicijskih fondova u Republici Hrvatskoj u okviru višegodišnjih proračuna Europske unije
+
+– obavlja funkcije dodijeljene u skladu s važećim zakonima i podzakonskim propisima koji uređuju provedbu Nacionalnog plana oporavka i otpornosti 2021. – 2026. unutar okvira za gospodarsko upravljanje Europske unije – Mehanizma za oporavak i otpornost
+
+– obavlja poslove neovisnog revizijskog tijela vezano uz raspodjelu bespovratnih financijskih sredstava iz Fonda solidarnosti Europske unije, u skladu s važećom Odlukom Vlade Republike Hrvatske
+
+– obavlja aktivnosti vezane uz pripremu i provedbu projekata tehničke pomoći, koji obuhvaćaju međunarodnu suradnju u provedbi projekata financiranih sredstvima državnog proračuna, sredstvima EU-a ili drugih donatora, radi jačanja kapaciteta javne uprave država korisnica za integracijski proces EU-a te prijenosa znanja u primjeni i provedbi pravne stečevine EU-a, te u tome surađuje s tijelima Europske komisije, tijelima drugih donatora, državama članicama Europske unije i zemljama korisnicama projekata tehničke pomoći
+
+– obavlja aktivnosti vezane uz provedbu twinning instrumenta te u tome surađuje s tijelima Europske komisije, državama članicama Europske unije i zemljama korisnicama twinning instrumenta
+
+– organizira i provodi izobrazbu vezano uz svoju djelatnost te informira o programima koje provodi
+
+– provodi aktivnosti kojima doprinosi ostvarenju ciljeva politike regionalnoga razvoja utvrđenih u planskim dokumentima politike regionalnoga razvoja središnje razine
+
+– obavlja druge stručne poslove u vezi s provedbom strukturnih i investicijskih fondova te drugih instrumenata i programa pomoći u Republici Hrvatskoj utvrđene Zakonom, drugim propisima te poslove koje joj povjeri Vlada Republike Hrvatske ili ministarstvo nadležno za regionalni razvoj i fondove Europske unije te druge poslove iz svog djelokruga.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/22-03/47
+
+Urbroj: 50301-05/14-22-1
+
+Zagreb, 7. srpnja 2022.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

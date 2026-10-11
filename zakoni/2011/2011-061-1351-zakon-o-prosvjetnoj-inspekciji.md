@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-06-03
-last_amended: 2012-02-08
+last_amended: 2021-05-14
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "61/11, 16/12"
+narodne_novine: "61/11, 16/12, 98/19, 52/21"
 amendments:
   - "NN 16/2012 (443) Zakon o izmjenama Zakona o prosvjetnoj inspekciji"
+  - "NN 98/2019 (1957) Zakon o izmjeni Zakona o prosvjetnoj inspekciji"
+  - "NN 52/2021 (1057) Zakon o izmjenama Zakona o prosvjetnoj inspekciji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1351"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 61/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1351).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 16/2012.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 16/2012, NN 98/2019, NN 52/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -689,3 +691,115 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Boris Šprem, v. r.
+
+## Zakon o izmjeni Zakona o prosvjetnoj inspekciji (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1957*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PROSVJETNOJ INSPEKCIJI
+
+Proglašavam Zakon o izmjeni Zakona o prosvjetnoj inspekciji, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/165
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PROSVJETNOJ INSPEKCIJI**
+
+### Članak 1.
+
+U članku 32. Zakona o prosvjetnoj inspekciji (»Narodne novine«, br. 61/11. i 16/12.) riječi: »uredu državne uprave u županiji nadležnom za poslove školstva,« brišu se.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/160
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o prosvjetnoj inspekciji (NN 52/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/52/1057*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PROSVJETNOJ INSPEKCIJI
+
+Proglašavam Zakon o izmjenama Zakona o prosvjetnoj inspekciji, koji je Hrvatski sabor donio na sjednici 7. svibnja 2021.
+
+Klasa: 011-01/21-01/37
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 12. svibnja 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PROSVJETNOJ INSPEKCIJI**
+
+### Članak 1.
+
+U Zakonu o prosvjetnoj inspekciji (»Narodne novine«, br. 61/11., 16/12. i 98/19.) članak 13. mijenja se i glasi:
+
+»(1) Ovlaštene službene osobe iz članka 12. ovoga Zakona dužne su pri ocjeni potrebe za pokretanjem inspekcijskog postupka uzeti u obzir zaprimljene predstavke.
+
+(2) Predstavkom iz stavka 1. ovoga članka smatra se prijava, pritužba ili drugi podnesak kojim se upozorava na nepravilnosti, odnosno stanje, propust ili postupanje protivno propisima iz djelokruga prosvjetne inspekcije, a u kojima su navedeni podaci o podnositelju: ime i prezime, adresa stanovanja te podaci za kontakt odnosno za pravnu osobu: naziv, sjedište i potpis odgovorne osobe.
+
+(3) Ako se povodom predstavke iz stavka 1. ovoga članka provede inspekcijski nadzor, inspektor će podnositelja u pisanom obliku u bitnom obavijestiti o utvrđenom stanju i poduzetim mjerama.
+
+(4) Ako podnositelj ponovno podnese predstavku koja u odnosu na prethodno podnesenu ne sadrži nove odlučne činjenice, okolnosti ili dokaze u odnosu na one koje su već utvrđene, podnositelja će se obavijestiti da je postupljeno po predstavci.«.
+
+### Članak 2.
+
+Članak 16. mijenja se i glasi:
+
+»(1) Provodeći inspekcijski nadzor inspektor je dužan čuvati osobne i druge povjerljive podatke koje sazna u obavljanju svojih dužnosti kao službenu tajnu te postupati tako da se ne ugrozi zakonom ili drugim propisom utvrđena tajna.
+
+(2) Provodeći inspekcijski nadzor inspektor je dužan čuvati identitet podnositelja predstavke.
+
+(3) Iznimno od stavka 2. ovoga članka, inspektor nije obvezan čuvati identitet podnositelja predstavke ako podnositelj to izričito dopusti radi zaštite svojih prava i pravnih interesa.
+
+(4) Prosvjetna inspekcija dužna je kao inspekcijsku tajnu čuvati dokumentaciju i druge podatke i činjenice u vezi s inspekcijskim postupkom te postupati s istima sukladno zakonu i drugom propisu.«.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/13
+
+Zagreb, 7. svibnja 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

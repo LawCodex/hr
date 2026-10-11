@@ -6,15 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-10-25
-last_amended: 2013-04-30
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "96/93, 39/95, 128/99, 51/13"
+narodne_novine: "96/93, 39/95, 128/99, 51/13, 98/19"
 amendments:
   - "NN 39/1995 (760) Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica"
   - "NN 128/1999 (2025) Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica"
   - "NN 51/2013 (1049) Zakon o izmjenama Zakona o statusu prognanika i izbjeglica (NN br. 51A)"
+  - "NN 98/2019 (1975) Zakon o izmjenama Zakona o statusu prognanika i izbjeglica"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1879"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 96/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/96/1879).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 39/1995, NN 128/1999, NN 51/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 39/1995, NN 128/1999, NN 51/2013, NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -586,3 +587,53 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o statusu prognanika i izbjeglica (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1975*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O STATUSU PROGNANIKA I IZBJEGLICA
+
+Proglašavam Zakon o izmjenama Zakona o statusu prognanika i izbjeglica, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/183
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O STATUSU PROGNANIKA I IZBJEGLICA**
+
+### Članak 1.
+
+U Zakonu o statusu prognanika i izbjeglica (»Narodne novine«, br. 96/93., 39/95., 29/99., 128/99., 50/00., 86/02. i 51A/13.) u cijelom tekstu Zakona riječi: »ured državne uprave u županijama, odnosno nadležno upravno tijelo Grada Zagreba« u određenom broju i padežu zamjenjuju se riječima: »upravno tijelo županije, odnosno Grada Zagreba« u odgovarajućem padežu.
+
+### Članak 2.
+
+U članku 11. Zakona o izmjenama Zakona o statusu prognanika i izbjeglica (»Narodne novine«, br. 51A/13.) riječi: »uredi državne uprave u županijama, odnosno nadležno upravno tijelo Grada Zagreba« zamjenjuju se riječima: »upravna tijela županija, odnosno Grada Zagreba«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/178
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

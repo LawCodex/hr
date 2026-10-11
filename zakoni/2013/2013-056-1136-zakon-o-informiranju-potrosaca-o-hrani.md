@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-05-10
-last_amended: 2016-06-17
+last_amended: 2019-03-29
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "56/13, 14/14, 56/16"
+narodne_novine: "56/13, 14/14, 56/16, 32/19"
 amendments:
   - "NN 14/2014 (276) Zakon o izmjeni Zakona o informiranju potrošača o hrani"
   - "NN 56/2016 (1449) Zakon o izmjenama i dopunama Zakona o informiranju potrošača o hrani"
+  - "NN 32/2019 (655) Zakon o izmjenama Zakona o informiranju potrošača o hrani"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1136"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 56/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1136).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014, NN 56/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014, NN 56/2016, NN 32/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -642,3 +643,75 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 akademik Željko Reiner, v. r.
+
+## Zakon o izmjenama Zakona o informiranju potrošača o hrani (NN 32/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/32/655*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O INFORMIRANJU POTROŠAČA O HRANI
+
+Proglašavam Zakon o izmjenama Zakona o informiranju potrošača o hrani, koji je Hrvatski sabor donio na sjednici 23. ožujka 2019.
+
+Klasa: 011-01/19-01/58
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 27. ožujka 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O INFORMIRANJU POTROŠAČA O HRANI**
+
+### Članak 1.
+
+U Zakonu o informiranju potrošača o hrani (»Narodne novine«, br. 56/13., 14/14. i 56/16.) članak 4. mijenja se i glasi:
+
+»(1) Nadležno tijelo za provedbu ovoga Zakona je središnje tijelo državne uprave nadležno za poljoprivredu (u daljnjem tekstu: Ministarstvo).
+
+(2) Za provedbu posebnih stručnih poslova delegiranih od Europske komisije te drugih poslova, kao i savjetovanja Ministarstva ministar nadležan za poljoprivredu može rješenjem ovlastiti pravne osobe s javnim ovlastima i druge javne ustanove.
+
+(3) Protiv rješenja iz stavka 2. ovoga članka nije dopuštena žalba, već se može pokrenuti upravni spor.
+
+(4) Ministar nadležan za poljoprivredu ovlašten je pravilnikom, naredbom ili naputkom urediti sva pitanja nužna za provedbu ovoga Zakona te pitanja za koja Uredba (EU) br. 1169/2011 dopušta donošenje nacionalnih mjera, pod uvjetom da se time ne zabranjuje, ne sprječava ili ne ograničava sloboda kretanja unutar Europske unije proizvoda koji su u skladu s Uredbom (EU) br. 1169/2011.«.
+
+### Članak 2.
+
+Članak 5. mijenja se i glasi:
+
+»(1) Upravni nadzor nad provedbom ovoga Zakona provodi Ministarstvo.
+
+(2) Ako se upravnim nadzorom utvrdi da ovlaštene pravne osobe s javnim ovlastima i druge javne ustanove iz članka 4. stavka 2. ovoga Zakona ne provode pravilno poslove koji su im preneseni, ministar nadležan za poljoprivredu oduzet će ovlaštenje.
+
+(3) Nadležno tijelo za provedbu službenih kontrola prema odredbama ovoga Zakona je Državni inspektorat.
+
+(4) Službene kontrole nad provedbom ovoga Zakona provode poljoprivredni inspektori, sanitarni inspektori i veterinarski inspektori Državnog inspektorata (u daljnjem tekstu: osoba ovlaštena za provedbu službenih kontrola) sukladno posebnom propisu o službenim kontrolama te ovlastima određenim posebnim zakonima.«.
+
+### Članak 3.
+
+U članku 6. stavak 3. mijenja se i glasi:
+
+»(3) Žalbe protiv rješenja osoba ovlaštenih za provedbu službenih kontrola rješava nadležna unutarnja ustrojstvena jedinica za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata.«.
+
+### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/28
+
+Zagreb, 23. ožujka 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

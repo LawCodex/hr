@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2009-07-08
-last_amended: 2011-11-04
+last_amended: 2019-03-29
 status: in_force
-status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "79/09, 124/11"
+narodne_novine: "79/09, 124/11, 32/19"
 amendments:
   - "NN 124/2011 (2480) Zakon o izmjenama i dopunama Zakona o uskladištenju i skladišnici za žitarice i industrijsko bilje"
+  - "NN 32/2019 (650) Zakon o izmjenama Zakona o uskladištenju i skladišnici za žitarice i industrijsko bilje"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/79/1878"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 79/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/79/1878).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 124/2011.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 124/2011, NN 32/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -345,11 +346,9 @@ Luka Bebić, v. r
 
 <table>
 <tbody>
-
 <tr>
 <td colspan="21">Obrazac skladišnice</td>
 </tr>
-
 <tr>
 <td rowspan="14"></td>
 <td colspan="5"></td>
@@ -357,63 +356,52 @@ Luka Bebić, v. r
 <td colspan="7"></td>
 <td rowspan="14"></td>
 </tr>
-
 <tr>
 <td colspan="5">naziv ili ime skladištara</td>
 <td colspan="7"></td>
 <td colspan="7">naziv ili ime vlasnika skladišnice</td>
 </tr>
-
 <tr>
 <td colspan="5"></td>
 <td colspan="7"></td>
 <td colspan="7"></td>
 </tr>
-
 <tr>
 <td colspan="5">sjedište ili adresa skladištara</td>
 <td colspan="7"></td>
 <td colspan="7">sjedište ili adresa prebivališta vlasnika skladišnice</td>
 </tr>
-
 <tr>
 <td colspan="10">Redni broj iz Upisnika: __________________</td>
 <td colspan="2"></td>
 <td colspan="7"></td>
 </tr>
-
 <tr>
 <td colspan="19">SKLADIŠNICA ZA ŽITARICE I INDUSTRIJSKO BILJE</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="7">No ____________</td>
 <td colspan="11">Datum izdavanja:_________________</td>
 </tr>
-
 <tr>
 <td colspan="19">PODACI O ŽITARICI I INDUSTRIJSKOM BILJU</td>
 </tr>
-
 <tr>
 <td colspan="4">vrsta</td>
 <td colspan="7">godina proizvodnje</td>
 <td colspan="4">količina (kg)</td>
 <td colspan="4">vrijednost (kn)</td>
 </tr>
-
 <tr>
 <td colspan="4"></td>
 <td colspan="7"></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
-
 <tr>
 <td colspan="19">PODACI O KAKVOĆI ŽITARICA ILI INDUSTRIJSKOG BILJA</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td></td>
@@ -424,7 +412,6 @@ Luka Bebić, v. r
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td></td>
@@ -435,11 +422,9 @@ Luka Bebić, v. r
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="19">* Utvrđene vrijednosti upisuju se na temelju nalaza ovlaštene osobe, sukladno posebnom ugovoru</td>
 </tr>
-
 <tr>
 <td rowspan="9"></td>
 <td colspan="4">lokacija na kojoj su žitarice ili industrijsko bilje uskladišteni</td>
@@ -447,51 +432,42 @@ Luka Bebić, v. r
 <td colspan="3">založena vrijednost proizvoda (kn)</td>
 <td rowspan="9"></td>
 </tr>
-
 <tr>
 <td colspan="4"></td>
 <td rowspan="2" colspan="12">_________________________________________<br> Potpis<br> M.P.</td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="4"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="7">PODACI O ZALOŽNOM PRAVU:</td>
 <td colspan="12">Datum dospijeća potraživanja: _____________</td>
 </tr>
-
 <tr>
 <td colspan="6">VLASNIK SKLADIŠNICE</td>
 <td colspan="8">Iznos potraživanja (kn)</td>
 <td colspan="5">VJEROVNIK</td>
 </tr>
-
 <tr>
 <td colspan="6">___________________________<br> Naziv, sjedište ili ime i adresa</td>
 <td colspan="8"></td>
 <td colspan="5">__________________________<br> Naziv, sjedište ili ime i adresa</td>
 </tr>
-
 <tr>
 <td colspan="6">___________________________________<br> Potpis<br> M.P.</td>
 <td colspan="8">Datum __________________</td>
 <td colspan="5">_________________________________<br> Potpis<br> M.P.</td>
 </tr>
-
 <tr>
 <td colspan="19">PODACI O PROMJENI VLASNIKA SKLADIŠNICE</td>
 </tr>
-
 <tr>
 <td colspan="6">DOSADAŠNJI VLASNIK SKLADIŠNICE</td>
 <td colspan="8">Izjava</td>
 <td colspan="5">NOVI VLASNIK SKLADIŠNICE</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="6">___________________________<br> Naziv, sjedište ili ime i adresa</td>
@@ -499,7 +475,6 @@ Luka Bebić, v. r
 <td colspan="5">___________________________<br> Naziv, sjedište ili ime i adresa</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="6">______________________________<br> Potpis<br> M.P.</td>
@@ -507,7 +482,6 @@ Luka Bebić, v. r
 <td colspan="5">_______________________________<br> Potpis<br> M.P.</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="6">___________________________<br> Naziv, sjedište ili ime i adresa</td>
@@ -515,7 +489,6 @@ Luka Bebić, v. r
 <td colspan="5">___________________________<br> Naziv, sjedište ili ime i adresa</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="6">______________________________<br> Potpis<br> M.P.</td>
@@ -523,12 +496,10 @@ Luka Bebić, v. r
 <td colspan="5">______________________________<br> Potpis<br> M.P.</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="21"></td>
 </tr>
 </tbody>
-
 </table>
 
 ---
@@ -762,3 +733,68 @@ Luka Bebić, v. r.
 #### PRILOG
 
 ### ![](https://narodne-novine.nn.hr/dodatni/417562.jpg)
+
+## Zakon o izmjenama Zakona o uskladištenju i skladišnici za žitarice i industrijsko bilje (NN 32/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/32/650*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O USKLADIŠTENJU I SKLADIŠNICI ZA ŽITARICE I INDUSTRIJSKO BILJE
+
+Proglašavam Zakon o izmjenama Zakona o uskladištenju i skladišnici za žitarice i industrijsko bilje, koji je Hrvatski sabor donio na sjednici 23. ožujka 2019.
+
+Klasa: 011-01/19-01/53  
+Urbroj: 71-06-01/1-19-2  
+Zagreb, 27. ožujka 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O USKLADIŠTENJU I SKLADIŠNICI ZA ŽITARICE I INDUSTRIJSKO BILJE**
+
+### Članak 1.
+
+U Zakonu o uskladištenju i skladišnici za žitarice i industrijsko bilje (»Narodne novine«, br. 79/09. i 124/11.) u članku 18. stavak 2. mijenja se i glasi:
+
+»(2) Inspekcijski nadzor u provođenju ovoga Zakona i propisa donesenih na temelju njega obavljaju poljoprivredni inspektori Državnog inspektorata.«.
+
+### Članak 2.
+
+Članak 19. mijenja se i glasi:
+
+»(1) U obavljanju inspekcijskog nadzora prema ovom Zakonu poljoprivredna inspekcija Državnog inspektorata:
+
+– izvješćuje nadležna tijela o uočenim nepravilnostima i traži provođenje određenog postupka ako sama nije ovlaštena izravno postupiti,
+
+– prikuplja podatke i obavijesti kada je to potrebno za obavljanje njihova posla,
+
+– podnosi nadležnim tijelima zahtjev za pokretanje prekršajnog postupka odnosno kaznenu prijavu,
+
+– nadzire i ostalo propisano ovim Zakonom i propisima donesenim na temelju njega.
+
+(2) Protiv rješenja poljoprivrednih inspektora može se u roku od 15 dana od dana dostave rješenja izjaviti žalba.
+
+(3) Žalbu protiv rješenja poljoprivrednog inspektora rješava unutarnja ustrojstvena jedinica za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata.
+
+(4) Protiv drugostupanjskog rješenja unutarnje ustrojstvene jedinice za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata može se pokrenuti upravni spor.«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/30  
+Zagreb, 23. ožujka 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

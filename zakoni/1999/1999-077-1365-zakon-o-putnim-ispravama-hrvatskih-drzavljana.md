@@ -6,17 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1999-07-21
-last_amended: 2015-07-24
+last_amended: 2023-01-27
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "77/99, 133/02, 48/05, 74/09, 154/14, 82/15"
+narodne_novine: "77/99, 133/02, 48/05, 74/09, 154/14, 82/15, 42/20, 10/23"
 amendments:
   - "NN 133/2002 (2139) Zakon o izmjeni Zakona o putnim ispravama hrvatskih državljana"
   - "NN 48/2005 (935) Zakon o izmjenama Zakona o putnim ispravama hrvatskih državljana"
   - "NN 74/2009 (1765) Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana"
   - "NN 154/2014 (2905) Uredba o dopuni Zakona o putnim ispravama hrvatskih državljana"
   - "NN 82/2015 (1578) Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana"
+  - "NN 42/2020 (889) Zakon o dopuni Zakona o putnim ispravama hrvatskih državljana"
+  - "NN 10/2023 (204) Zakon o izmjenama i dopuni Zakona o putnim ispravama hrvatskih državljana"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1999/77/1365"
 retrieved: 2026-10-12
 ---
@@ -25,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 77/1999 (https://narodne-novine.nn.hr/eli/sluzbeni/1999/77/1365).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 133/2002, NN 48/2005, NN 74/2009, NN 154/2014, NN 82/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 133/2002, NN 48/2005, NN 74/2009, NN 154/2014, NN 82/2015, NN 42/2020, NN 10/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1413,3 +1415,147 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o dopuni Zakona o putnim ispravama hrvatskih državljana (NN 42/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/889*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA
+
+Proglašavam Zakon o dopuni Zakona o putnim ispravama hrvatskih državljana, koji je Hrvatski sabor donio na sjednici 7. travnja 2020.
+
+Klasa: 011-01/20-01/46
+
+Urbroj: 71-06-01/1-20-2
+
+Zagreb, 7. travnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA**
+
+### Članak 1.
+
+U Zakonu o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 133/02., 48/05., 74/09., 154/14. i 82/15.) iza članka 12. dodaje se članak 12.a koji glasi:
+
+»Članak 12.a
+
+(1) Osoba iz članka 12. ovoga Zakona, za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2, ne mora podnijeti zahtjev za izdavanje nove putovnice zbog isteka roka važenja ranije izdane putovnice, a najdulje 30 dana od dana proglašenja prestanka epidemije.
+
+(2) Putovnica koja je izdana osobi iz stavka 1. ovoga članka smatra se valjanom do isteka roka iz stavka 1. ovoga članka.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/53
+
+Zagreb, 7. travnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o putnim ispravama hrvatskih državljana (NN 10/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/10/204*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o putnim ispravama hrvatskih državljana, koji je Hrvatski sabor donio na sjednici 20. siječnja 2023.
+
+Klasa: 011-02/23-02/02  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 24. siječnja 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PUTNIM ISPRAVAMA HRVATSKIH DRŽAVLJANA**
+
+#### Članak 1.
+
+U Zakonu o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 33/02., 133/02., 48/05., 74/09., 154/14., 82/15. i 42/20.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovim Zakonom osigurava se provedba Uredbe Vijeća (EZ) br. 2252/2004 od 13. prosinca 2004. o standardima za sigurnosna obilježja i biometrijske podatke u putovnicama i putnim ispravama koje izdaju države članice (SL L 385, 29. 12. 2004.) kako je posljednji put izmijenjena Uredbom (EZ) br. 444/2009 Europskog parlamenta i Vijeća od 6. svibnja 2009. o izmjeni Uredbe Vijeća (EZ) br. 2252/2004 o standardima za sigurnosna obilježja i biometrijske podatke u putovnicama i putnim ispravama koje izdaju države članice (SL L 142, 6. 6. 2009.).«.
+
+#### Članak 2.
+
+Članak 34. mijenja se i glasi:
+
+»Zahtjev za izdavanje putne isprave za dijete odnosno osobu lišenu poslovne sposobnosti u dijelu koji se odnosi na osobna stanja podnosi zakonski zastupnik.
+
+Iznimno od odredbe stavka 1. ovoga članka, osoba koja je navršila 16 godina života i kojoj je sud u izvanparničnom postupku dopustio sklapanje braka te je sklopila brak, zahtjev za izdavanje putne isprave podnosi osobno.
+
+Dijete do navršenih 12 godina ne mora biti nazočno prilikom podnošenja zahtjeva za izdavanje putne isprave.
+
+Zakonski zastupnik djeteta može biti roditelj, skrbnik ili osoba kojoj je odlukom suda povjereno ostvarivanje roditeljske skrbi nad djetetom u cijelosti ili u tom dijelu.
+
+Ako zahtjev za izdavanje putne isprave za dijete podnese roditelj koji je na temelju sudske odluke lišen roditeljske skrbi ili mu je ograničeno pravo na ostvarivanje roditeljske skrbi ili je lišen poslovne sposobnosti u dijelu koji se odnosi na ishođenje putne isprave, ministarstvo nadležno za unutarnje poslove ili ministarstvo nadležno za vanjske poslove rješenjem će odbaciti zahtjev za izdavanje putne isprave.
+
+Ako se naknadno utvrdi da je putnu ispravu djetetu ishodio roditelj iz stavka 5. ovoga članka, a putnu ispravu djeteta odbija predati roditelju koji samostalno ostvaruje roditeljsku skrb u cijelosti ili u dijelu koji se odnosi na ishođenje putne isprave, ministarstvo nadležno za unutarnje poslove ili ministarstvo nadležno za vanjske poslove rješenjem će poništiti putnu ispravu.
+
+Protiv rješenja iz stavaka 5. i 6. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.
+
+Za osobu lišenu poslovne sposobnosti u dijelu koji se odnosi na osobna stanja putnu ispravu preuzima zakonski zastupnik.«.
+
+#### Članak 3.
+
+U članku 52. stavku 1. riječi: »od 10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »od 4.500,00 do 6.500,00 kuna« zamjenjuju se riječima: »od 590,00 do 860,00 eura«.
+
+#### Članak 4.
+
+U članku 53. stavku 1. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+#### Članak 5.
+
+U članku 54. stavku 1. riječi: »od 3.000,00 do 4.500,00 kuna« zamjenjuju se riječima: »od 390,00 do 590,00 eura«.
+
+#### Članak 6.
+
+U članku 55. stavku 1. riječi: »od 2.500,00 do 4.000,00 kuna« zamjenjuju se riječima: »od 330,00 do 530,00 eura«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 7.
+
+Postupci rješavanja zahtjeva za izdavanje putnih isprava djeci prema članku 34. Zakona o putnim ispravama hrvatskih državljana (»Narodne novine«, br. 77/99., 33/02., 133/02., 48/05., 74/09., 154/14., 82/15. i 42/20.) koji su započeti prije stupanja na snagu ovoga Zakona, dovršit će se prema odredbama toga Zakona.
+
+#### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/22-01/41
+
+Zagreb, 20. siječnja 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

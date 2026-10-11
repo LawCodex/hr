@@ -6,11 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-07-24
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "82/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "82/15, 118/18, 31/20, 20/21, 114/22"
+amendments:
+  - "NN 118/2018 (2351) Zakon o izmjenama Zakona o sustavu civilne zaštite"
+  - "NN 31/2020 (673) Zakon o dopuni Zakona o sustavu civilne zaštite"
+  - "NN 20/2021 (444) Zakon o izmjenama i dopunama Zakona o sustavu civilne zaštite"
+  - "NN 114/2022 (1697) Zakon o izmjenama Zakona o sustavu civilne zaštite"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/82/1567"
 retrieved: 2026-10-12
 ---
@@ -18,6 +23,8 @@ retrieved: 2026-10-12
 # Zakon o sustavu civilne zaštite
 
 > Izvor: Narodne novine, NN 82/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/82/1567).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 118/2018, NN 31/2020, NN 20/2021, NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1352,3 +1359,641 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o sustavu civilne zaštite (NN 118/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/118/2351*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O SUSTAVU CIVILNE ZAŠTITE
+
+Proglašavam Zakon o izmjenama Zakona o sustavu civilne zaštite, koji je Hrvatski sabor donio na sjednici 14. prosinca 2018.
+
+Klasa: 011-01/18-01/232
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O SUSTAVU CIVILNE ZAŠTITE**
+
+#### Članak 1.
+
+U Zakonu o sustavu civilne zaštite (»Narodne novine«, br. 82/15.) u članku 8. podstavak 2. mijenja se i glasi:
+
+» – Ministarstvo unutarnjih poslova, kao središnje tijelo državne uprave nadležno za poslove civilne zaštite (u daljnjem tekstu: Ministarstvo)«.
+
+#### Članak 2.
+
+U članku 10. stavku 1. riječi: »čelnika Državne uprave« zamjenjuju se riječima: »ministra unutarnjih poslova (u daljnjem tekstu: ministar)«.
+
+#### Članak 3.
+
+U članku 11. stavcima 1. i 2. riječi: »čelnika Državne uprave« zamjenjuju se riječju: »ministra«.
+
+U stavcima 3. i 4. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+#### Članak 4.
+
+U članku 12. uvodna rečenica mijenja se i glasi:
+
+»Ministarstvo je nadležno za sljedeće poslove:«.
+
+#### Članak 5.
+
+U članku 13. stavku 1. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«, a riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+U stavku 2. riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«.
+
+#### Članak 6.
+
+U članku 14. stavku 1. podstavku 5. riječi: »Državnoj upravi« zamjenjuju se riječju: »Ministarstvu«.
+
+U podstavku 6. riječi: »Državnoj upravi, na njezin zahtjev« zamjenjuju se riječima: »na zahtjev Ministarstva«.
+
+U podstavku 7. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 7.
+
+U članku 15. stavku 1. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+U stavku 2. riječi: »i policija« brišu se, a riječi: »Državnom upravom« zamjenjuju se riječju: »Ministarstvom«.
+
+#### Članak 8.
+
+U članku 17. stavku 5. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+U stavku 6. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+#### Članak 9.
+
+U članku 18. stavku 6. riječi: »Državnoj upravi« zamjenjuju se riječju: »Ministarstvu«.
+
+#### Članak 10.
+
+U članku 19. stavku 1. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+#### Članak 11.
+
+U članku 20. stavku 2. riječi: »Državnoj upravi« zamjenjuju se riječju: »Ministarstvu«.
+
+#### Članak 12.
+
+U članku 21. stavku 4. riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«.
+
+U stavku 5. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+#### Članak 13.
+
+U članku 22. stavku 1. riječi: »čelnika Državne uprave« zamjenjuju se riječju: »ministra«.
+
+U stavku 2. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+U stavku 4. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+#### Članak 14.
+
+U članku 23. stavku 3. riječi: »rukovodeći službenik područnog ureda Državne uprave« zamjenjuju se riječima: »rukovodeći službenik područne ustrojstvene jedinice Ministarstva«.
+
+#### Članak 15.
+
+U članku 24. stavku 3. riječi: »predstavnik područnog ureda Državne uprave« zamjenjuju se riječima: »predstavnik područne ustrojstvene jedinice Ministarstva«.
+
+#### Članak 16.
+
+U članku 25. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«, a riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+#### Članak 17.
+
+U članku 32. stavku 4. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+#### Članak 18.
+
+U članku 33. stavku 2. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+U stavku 3. riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«.
+
+#### Članak 19.
+
+U članku 36. stavku 3. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+U stavku 4. riječi: »Državnoj upravi« zamjenjuju se riječju: »Ministarstvu«.
+
+#### Članak 20.
+
+U članku 38. stavku 4. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 21.
+
+U članku 39. stavku 2. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 22.
+
+U članku 40. stavcima 1. i 2. riječi: »Državnoj upravi« zamjenjuju se riječju: »Ministarstvu«.
+
+#### Članak 23.
+
+U članku 41. stavku 4. riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«.
+
+#### Članak 24.
+
+U članku 42. u uvodnoj rečenici riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«.
+
+#### Članak 25.
+
+U članku 45. stavku 5. riječi: »čelnika Državne uprave« zamjenjuju se riječju: »ministra«.
+
+#### Članak 26.
+
+U članku 46. stavku 2. riječi: »čelnika Državne uprave« zamjenjuju se riječju: »ministra«.
+
+#### Članak 27.
+
+U članku 49. stavak 2. mijenja se i glasi:
+
+»Ministar, po prethodno pribavljenom mišljenju središnjih tijela državne uprave nadležnih za poslove obrane, zaštite okoliša i graditeljstva, pravilnikom će propisati nositelje, sadržaj i postupke izrade planskih dokumenata u civilnoj zaštiti te način informiranja javnosti o postupku njihova donošenja.«.
+
+U stavku 3. uvodna rečenica mijenja se i glasi:
+
+»Ministar donosi:«.
+
+#### Članak 28.
+
+U članku 50. stavku 2. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+U stavku 3. riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«.
+
+#### Članak 29.
+
+U članku 51. stavku 2. podstavku 1. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+U podstavku 2. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+#### Članak 30.
+
+U članku 52. stavku 5. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+#### Članak 31.
+
+U članku 53. stavku 1. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 32.
+
+U članku 54. stavcima 1. i 2. riječi: »čelnika Državne uprave« zamjenjuju se riječju: »ministra«.
+
+#### Članak 33.
+
+U članku 55. stavcima 1., 2., 3. i 4. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 34.
+
+U članku 56. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 35.
+
+U članku 57. stavku 1. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 36.
+
+U članku 60. stavku 3. riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«.
+
+#### Članak 37.
+
+U članku 61. stavku 1. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 2. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+#### Članak 38.
+
+U članku 62. stavku 2. riječi: »Državnoj upravi« zamjenjuju se riječju: »Ministarstvu«.
+
+U stavku 3. u uvodnoj rečenici riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 4. u uvodnoj rečenici riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«, a u podstavku 3. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 39.
+
+U članku 63. stavku 3. riječi: »čelnika Državne uprave« zamjenjuju se riječju: »ministra«.
+
+U stavku 4. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«, a riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+U stavku 6. riječi: »čelnika Državne uprave« zamjenjuju se riječju: »ministra«.
+
+#### Članak 40.
+
+U članku 66. stavku 1. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 2. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+U stavku 3. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+U stavku 4. riječi: »čelnika Državne uprave« zamjenjuju se riječju: »ministra«.
+
+U stavcima 5. i 6. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+#### Članak 41.
+
+U članku 67. stavku 1. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+#### Članak 42.
+
+U članku 69. stavku 1. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 2. riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«.
+
+#### Članak 43.
+
+U članku 74. stavku 5. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+#### Članak 44.
+
+U članku 75. stavku 2. riječi: »Državna uprava« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 5. riječi: »Državna uprava dužna je« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+#### Članak 45.
+
+U članku 76. stavku 1. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+U stavku 2. riječi: »i drugi inspektori Državne uprave (u daljnjem tekstu: inspektori) u sjedištu Državne uprave i izvan sjedišta u područnim jedinicama« zamjenjuju se riječima: »i drugi inspektori Ministarstva u sjedištu Ministarstva i područnim ustrojstvenim jedinicama Ministarstva«.
+
+U stavku 3. riječi: »područnoj jedinici« zamjenjuju se riječima: »područnoj ustrojstvenoj jedinici Ministarstva«, a riječi: »druge područne jedinice« riječima: »druge područne ustrojstvene jedinice Ministarstva«.
+
+#### Članak 46.
+
+U članku 77. stavku 2. riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«, a riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 47.
+
+U članku 78. stavcima 2. i 3. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 48.
+
+U članku 84. stavku 2. riječi: »Čelnik Državne uprave« zamjenjuju se riječju: »Ministar«.
+
+#### Članak 49.
+
+U članku 85. riječi: »čelnik Državne uprave« zamjenjuju se riječju: »ministar«.
+
+#### Članak 50.
+
+U članku 88. stavku 1. podstavku 5. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 51.
+
+U članku 89. stavku 1. podstavku 1. riječi: »Državnoj upravi« zamjenjuju se riječju: »Ministarstvu«.
+
+#### Članak 52.
+
+U članku 90. podstavku 2. riječi: »Državne uprave« zamjenjuju se riječju: »Ministarstva«.
+
+#### Članak 53.
+
+Članak 94. mijenja se i glasi:
+
+»(1) U slučaju pripravnosti zbog mogućeg nastupanja katastrofa ili u slučaju proglašenja katastrofe ministar je ovlašten poduzimati mjere i aktivnosti i organizirati drugačiji raspored rada, radnog vremena i mjesta rada državnih službenika i namještenika u ustrojstvenoj jedinici Ministarstva nadležnoj za poslove civilne zaštite.
+
+(2) U slučaju velike nesreće i katastrofe na državne službenike i namještenike ustrojstvene jedinice Ministarstva nadležne za poslove civilne zaštite ne primjenjuju se odredbe općih propisa o radu o ograničenju prekovremenog rada.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 54.
+
+Provedbeni propisi doneseni na temelju Zakona o sustavu civilne zaštite (»Narodne novine«, br. 82/15.) ostaju na snazi i uskladit će se s odredbama ovoga Zakona u roku od šest mjeseci od njegova stupanja na snagu.
+
+#### Članak 55.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/248
+
+Zagreb, 14. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o dopuni Zakona o sustavu civilne zaštite (NN 31/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/31/673*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O SUSTAVU CIVILNE ZAŠTITE
+
+Proglašavam Zakon o dopuni Zakona o sustavu civilne zaštite, koji je Hrvatski sabor donio na sjednici 18. ožujka 2020.
+
+Klasa: 011-01/20-01/17  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 18. ožujka 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O SUSTAVU CIVILNE ZAŠTITE**
+
+### Članak 1.
+
+U Zakonu o sustavu civilne zaštite (»Narodne novine«, br. 82/15. i 118/18.) iza članka 22. dodaje se članak 22.a koji glasi:
+
+»Članak 22.a
+
+(1) U slučaju nastupanja posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, Stožer civilne zaštite Republike Hrvatske donosi odluke i upute koje provode stožeri civilne zaštite jedinica lokalne i područne (regionalne) samouprave.
+
+(2) Odluke i upute iz stavka 1. ovoga članka donose se radi zaštite života i zdravlja građana, očuvanja imovine, gospodarske aktivnosti i okoliša te ujednačavanja postupanja pravnih osoba i građana.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/25
+
+Zagreb, 18. ožujka 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sustavu civilne zaštite (NN 20/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/20/444*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUSTAVU CIVILNE ZAŠTITE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sustavu civilne zaštite, koji je Hrvatski sabor donio na sjednici 19. veljače 2021.
+
+Klasa: 011-01/21-01/09  
+Urbroj: 71-10-01/1-21-2  
+Zagreb, 23. veljače 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUSTAVU CIVILNE ZAŠTITE**
+
+#### Članak 1.
+
+U Zakonu o sustavu civilne zaštite (»Narodne novine«, br. 82/15., 118/18. i 31/20.) u članku 3. iza točke 5. dodaje se točka 5a) koja glasi:
+
+»5a) Domino-efekt je niz povezanih učinaka koji zbog međusobnog razmještaja i blizine područja postrojenja, postrojenja, odnosno dijelova postrojenja ili grupe postrojenja i količina opasnih tvari prisutnih u tim područjima postrojenja povećavaju mogućnost izbijanja velike nesreće ili pogoršavaju posljedice nastale nesreće.«.
+
+Iza točke 14. dodaju se točke 14a) i 14b) koje glase:
+
+»14a) Opasna tvar je tvar, smjesa ili pripravak definirana propisima o zaštiti okoliša i o sprječavanju velikih nesreća koje uključuju opasne tvari.
+
+14b) Operater je pravna ili fizička osoba koja upravlja ili posjeduje neko područje postrojenja ili postrojenje ili ima odlučujuću ekonomsku ulogu u tehničkom upravljanju područjem postrojenja.«.
+
+Iza točke 17. dodaje se točka 17a) koja glasi:
+
+»17a) Područje postrojenja je cijelo područje koje je pod kontrolom operatera i u kojem su prisutne opasne tvari u jednom ili više postrojenja, uključujući zajedničku ili s njima povezanu infrastrukturu ili djelatnosti.«.
+
+Iza točke 32. dodaje se točka 32a) koja glasi:
+
+»32a) Vanjski plan civilne zaštite u slučaju nesreća koje uključuju opasne tvari (u daljnjem tekstu: Vanjski plan) je plan mjera i aktivnosti koje će se poduzeti izvan područja postrojenja, a donosi ga izvršno tijelo jedinice područne (regionalne) samouprave kako bi upravljalo rizicima i vanjskim posljedicama scenarija koji uključuju opasne tvari.«.
+
+#### Članak 2.
+
+U članku 12. podstavak 19. mijenja se i glasi:
+
+» – donosi odluku o izradi Vanjskog plana ili izradi izmjena i dopuna Vanjskog plana, u roku od mjesec dana od primitka potrebne dokumentacije od operatera za njegovo područje postrojenja«.
+
+Podstavak 20. mijenja se i glasi:
+
+» – daje suglasnost jedinicama područne (regionalne) samouprave na Vanjske planove i na njihove izmjene i dopune te na metodologiju izrade procjene rizika«.
+
+Iza podstavka 20. dodaje se novi podstavak 21. koji glasi:
+
+» – nadzire pravodobnost izrade i donošenja Vanjskog plana ili njegovih izmjena i dopuna, koji se moraju donijeti u roku od dvije godine od dana izdavanja suglasnosti tijela državne uprave nadležnog za zaštitu okoliša na dokumente operatera, odnosno njegova područja postrojenja, koji je dužan izraditi izvješće o sigurnosti na temelju propisa iz područja zaštite okoliša«.
+
+Dosadašnji podstavci 21. do 29. postaju podstavci 22. do 30.
+
+#### Članak 3.
+
+U članku 17. stavak 5. mijenja se i glasi:
+
+»(5) Izvršno tijelo jedinice područne (regionalne) samouprave, osim poslova navedenih u stavku 3. ovoga članka, donosi Vanjski plan ili njegove izmjene i dopune za područje postrojenja ili grupu područja postrojenja koju određuje tijelo državne uprave nadležno za zaštitu okoliša zbog mogućeg domino-efekta, u roku od godinu dana od donošenja odluke Ministarstva o izradi Vanjskog plana ili njegovih izmjena i dopuna te svim osobama koje bi mogle imati značajne materijalne i zdravstvene posljedice zbog nastanka velike nesreće u području postrojenja ili grupi područja postrojenja, a da za to ne trebaju podnositi posebne zahtjeve, pruža redovito i u najprimjerenijem obliku jasne i lako razumljive, preispitane i usklađene informacije o sigurnosnim mjerama i nužnom ponašanju u slučaju velike nesreće na području svoje nadležnosti.«.
+
+#### Članak 4.
+
+U članku 36. stavak 3. mijenja se i glasi:
+
+»(3) Pravne osobe koje obavljaju djelatnost korištenjem opasnih tvari, a nisu obveznici izrade izvješća o sigurnosti sukladno propisima iz područja zaštite okoliša, dužne su izraditi procjene rizika i operativne planove sukladno propisanoj metodologiji.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Pravna osoba dužna je Ministarstvu i jedinicama lokalne i područne (regionalne) samouprave bez naknade dostavljati podatke potrebne za izradu procjene rizika i plana djelovanja civilne zaštite.«.
+
+Iza stavka 4. dodaju se novi stavci 5. i 6. koji glase:
+
+»(5) Operater je dužan za svoje područje postrojenja Ministarstvu i jedinicama područne (regionalne) samouprave bez naknade dostaviti podatke potrebne za izradu Vanjskog plana u roku od najviše dva mjeseca od primitka suglasnosti tijela državne uprave nadležnog za zaštitu okoliša na izvješće o sigurnosti.
+
+(6) Operater je dužan za svoje područje postrojenja u slučaju izmjene u području postrojenja, postrojenju, skladištu ili procesu ili vrsti ili fizičkom obliku ili količini opasne tvari koja bi mogla imati značajne posljedice za opasnosti od velikih nesreća obavijestiti Ministarstvo o pojedinostima tih ažuriranja prije te izmjene.«.
+
+Dosadašnji stavci 5., 6. i 7. postaju stavci 7., 8. i 9.
+
+#### Članak 5.
+
+U članku 38. stavku 1. iza riječi: »operateri« dodaju se riječi: »za svoje područje postrojenja«.
+
+#### Članak 6.
+
+Iza članka 68. dodaje se članak 68.a koji glasi:
+
+»Članak 68.a
+
+(1) Ministarstvo će, na temelju analize procjene rizika, donijeti odluku o nepostojanju prekogranične opasnosti od velike nesreće u području postrojenja u blizini državnog područja druge države članice.
+
+(2) Ministarstvo će o odluci iz stavka 1. ovoga članka obavijestiti drugu državu članicu.«.
+
+#### Članak 7.
+
+U članku 80. stavku 2. podstavak 1. mijenja se i glasi:
+
+» – izradu, donošenje, dopunu i ažuriranje procjena rizika, planova djelovanja civilne zaštite, operativnih planova i Vanjskih planova sukladno ovom Zakonu i propisanoj metodologiji«.
+
+Podstavak 9. mijenja se i glasi:
+
+» – dostavljanje podataka potrebnih za izradu procjene rizika, planova djelovanja civilne zaštite i Vanjskih planova«.
+
+#### Članak 8.
+
+Članak 86. mijenja se i glasi:
+
+»Novčanom kaznom od 10.000,00 do 30.000,00 kuna kaznit će se za prekršaj izvršno tijelo jedinice lokalne i područne (regionalne) samouprave ako:
+
+– ne donese plan djelovanja civilne zaštite (članak 17. stavak 3. podstavak 1.)
+
+– ne donese plan vježbi civilne zaštite (članak 17. stavak 3. podstavak 2.)
+
+– ne dostavi predstavničkom tijelu prijedlog odluke o određivanju pravnih osoba od interesa za sustav civilne zaštite i prijedlog odluke o osnivanju postrojbi civilne zaštite (članak 17. stavak 3. podstavak 3.)
+
+– prilikom donošenja godišnjeg plana nabave sredstava civilne zaštite ne uključi materijalna sredstva i opremu snaga civilne zaštite (članak 17. stavak 3. podstavak 4.)
+
+– ne osigura uvjete za raspoređivanje pripadnika u postrojbe i na dužnosti povjerenika civilne zaštite te vođenje evidencije raspoređenih pripadnika (članak 17. stavak 3. podstavak 9.)
+
+– ne osigura uvjete za vođenje i ažuriranje baze podataka o pripadnicima, sposobnostima i resursima operativnih snaga sustava civilne zašite (članak 17. stavak 3. podstavak 10.)
+
+– ne završi program osposobljavanja za obavljanje poslova civilne zaštite prema programu koji provodi tijelo državne uprave nadležno za poslove civilne zaštite (članak 17. stavak 6.)
+
+– ne donese odluku o osnivanju stožera civilne zaštite i ne imenuje načelnika, zamjenika i članove stožera (članak 23. stavak 1. i članak 24. stavak 1.)
+
+– ne imenuje povjerenika i zamjenika civilne zaštite (članak 34. stavak 1.).«.
+
+#### Članak 9.
+
+Članak 87. mijenja se i glasi:
+
+»Novčanom kaznom od 20.000,00 do 70.000,00 kuna kaznit će se za prekršaj izvršno tijelo jedinice lokalne i područne (regionalne) samouprave ako:
+
+– ne osnuje, ne financira, ne oprema, ne osposobljava te ne uvježbava operativne snage sukladno usvojenim smjernicama i planu razvoja sustava civilne zaštite (članak 17. stavak 3. podstavak 6.)
+
+– ne izradi i ne predloži predstavničkom tijelu procjenu rizika od velikih nesreća i redovito ne ažurira procjene rizika i plan djelovanja civilne zaštite (članak 17. stavak 3. podstavak 7.)
+
+– ne osigura uvjete za premještanje, sklanjanje, evakuaciju i zbrinjavanje te izvršavanje zadaća u provedbi drugih mjera civilne zaštite u zaštiti i spašavanju građana, materijalnih i kulturnih dobara i okoliša (članak 17. stavak 3. podstavak 8.)
+
+– ne donese Vanjski plan ili njegove izmjene i dopune za područje postrojenja, odnosno grupu područja postrojenja koju određuje tijelo državne uprave nadležno za zaštitu okoliša zbog mogućeg domino-efekta, u roku od godinu dana od donošenja odluke Ministarstva o izradi Vanjskog plana ili njegovih izmjena i dopuna te svim osobama koje bi mogle imati značajne materijalne i zdravstvene posljedice zbog nastanka velike nesreće u području postrojenja ili grupi područja postrojenja, ne pruži redovito i u najprimjerenijem obliku jasne i lako razumljive, preispitane i usklađene informacije o sigurnosnim mjerama i nužnom ponašanju u slučaju velike nesreće na području svoje nadležnosti (članak 17. stavak 5.).«.
+
+#### Članak 10.
+
+U članku 88. stavku 1. podstavku 2. riječi: »(članak 36. stavak 5.)« zamjenjuju se riječima: »(članak 36. stavak 7.)«.
+
+#### Članak 11.
+
+U članku 89. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 20.000,00 do 70.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+– Ministarstvu i jedinicama lokalne i područne (regionalne) samouprave bez naknade ne dostavi podatke potrebne za izradu procjene rizika i plana djelovanja civilne zaštite (članak 36. stavak 4.)
+
+– Ministarstvu i jedinicama područne (regionalne) samouprave u roku do najviše dva mjeseca od primitka suglasnosti tijela državne uprave nadležnog za zaštitu okoliša na izvješće o sigurnosti ne dostavi bez naknade podatke potrebne za izradu Vanjskog plana (članak 36. stavak 5.)
+
+– u slučaju izmjene u području postrojenja, postrojenju, skladištu ili procesu ili vrsti ili fizičkom obliku ili količini opasne tvari koja bi mogla imati značajne posljedice za opasnosti od velikih nesreća ne obavijesti Ministarstvo o pojedinostima tih ažuriranja prije te izmjene (članak 36. stavak 6.)
+
+– ne postupi po zahtjevu načelnika stožera civilne zaštite jedinice lokalne i područne (regionalne) samouprave i načelnika Stožera civilne zaštite Republike Hrvatske i ne sudjeluje s ljudskim snagama i materijalnim resursima u provedbi mjera i aktivnosti u sustavu civilne zaštite (članak 36. stavak 8.)
+
+– ne uspostavi upravljanje i nadzor nad sirenama svog sustava za uzbunjivanje iz operativnog središta pravne osobe i iz nadležnog centra 112 te ako ne snosi troškove uspostavljanja i korištenja komunikacijske veze za potrebe upravljanja i nadzora sirenama iz nadležnog centra 112 (članak 38. stavak 3.).«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 12.
+
+Ministar nadležan za unutarnje poslove uskladit će Pravilnik o nositeljima, sadržaju i postupcima izrade planskih dokumenata u civilnoj zaštiti te načinu informiranja javnosti u postupku njihovog donošenja (»Narodne novine«, br. 49/17.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 13.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/163
+
+Zagreb, 19. veljače 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o sustavu civilne zaštite (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1697*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O SUSTAVU CIVILNE ZAŠTITE
+
+Proglašavam Zakon o izmjenama Zakona o sustavu civilne zaštite, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/95
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O SUSTAVU CIVILNE ZAŠTITE**
+
+### Članak 1.
+
+U Zakonu o sustavu civilne zaštite (»Narodne novine«, br. 82/15., 118/18., 31/20. i 20/21.) u članku 86. riječi: »od 10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 3980,00 eura«.
+
+### Članak 2.
+
+U članku 87. riječi: »od 20.000,000 do 70.000,00 kuna« zamjenjuju se riječima: »od 2650,00 do 9290,00 eura«.
+
+### Članak 3.
+
+U članku 88. stavku 1. riječi: »od 20.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 2650,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+### Članak 4.
+
+U članku 89. stavku 1. riječi: »od 20.000,00 do 70.000,00 kuna« zamjenjuju se riječima: »od 2650,00 do 9290,00 eura«.
+
+U stavku 2. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+### Članak 5.
+
+U članku 90. riječi: »od 1000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 1320,00 eura«.
+
+### Članak 6.
+
+U članku 91. riječi: »od 5000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+### Članak 7.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/95
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

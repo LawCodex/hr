@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2016-10-15
-last_amended: 2016-11-12
+last_amended: 2019-12-27
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "93/16, 104/16"
+narodne_novine: "93/16, 104/16, 116/18, 127/19"
 amendments:
   - "NN 104/2016 (2200) Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave"
+  - "NN 116/2018 (2290) Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave"
+  - "NN 127/2019 (2561) Zakon o izmjenama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/93/1969"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 93/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/93/1969).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 104/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 104/2016, NN 116/2018, NN 127/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -628,8 +630,6 @@ Božo Petrov, v. r.
 
 HRVATSKI SABOR
 
-2200
-
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
 ODLUKU
@@ -953,3 +953,633 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (NN 116/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/116/2290*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O USTROJSTVU I DJELOKRUGU MINISTARSTAVA I DRUGIH SREDIŠNJIH TIJELA DRŽAVNE UPRAVE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave, koji je Hrvatski sabor donio na sjednici 14. prosinca 2018.
+
+Klasa: 011-01/18-01/236
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O USTROJSTVU I DJELOKRUGU MINISTARSTAVA I DRUGIH SREDIŠNJIH TIJELA DRŽAVNE UPRAVE**
+
+#### Članak 1.
+
+U Zakonu o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, br. 93/16. i 104/16.) u članku 3. na kraju točke 5. briše se točka i dodaju se točke 6. i 7. koje glase:
+
+»6. Hrvatska vatrogasna zajednica«
+
+»7. Državni inspektorat.«.
+
+#### Članak 2.
+
+U članku 4. na kraju točke 5. stavlja se točka, a točke 6. i 7. brišu se.
+
+#### Članak 3.
+
+Članak 6. mijenja se i glasi:
+
+»Ministarstvo unutarnjih poslova obavlja upravne i druge poslove koji se odnose na: poslove policije i kriminalističke policije, i to zaštitu života i osobnu sigurnost ljudi i imovine, sprječavanje i otkrivanje kaznenih djela; pronalaženje i hvatanje počinitelja kaznenih djela i njihovo privođenje nadležnim tijelima; održavanje javnog reda i mira te zaštitu određenih osoba, građevina i prostora; obavljanje kriminalističko-tehničkih poslova i vještačenja; poslove sigurnosti prometa na cestama; nadzor državne granice; kretanje i boravak stranaca te njihova prihvata; putne isprave za prelazak preko državne granice; održavanje javnih okupljanja; državljanstvo; izdavanje osobnih iskaznica, prijavljivanje prebivališta i boravišta građana; izdavanje vozačkih dozvola i registracije motornih vozila; nabavu, držanje i nošenje oružja i streljiva; poslove zaštite od požara, privatne zaštite, privatnih detektiva, zaštite novčarskih institucija, protuminskog djelovanja te poslove vezane uz eksplozivne tvari i proizvodnju i promet oružja; poslove specijalne policije.
+
+Ministarstvo obavlja upravne i stručne poslove koji se odnose na: uspostavu sustava civilne zaštite, spašavanja građana, materijalnih dobara i drugih dobara u velikim nesrećama i katastrofama; organizira sudionike, operativne snage i građane za ostvarivanje zaštite i spašavanja ljudi, životinja, materijalnih i kulturnih dobara i okoliša u velikim nesrećama i katastrofama i otklanjanja posljedica terorizma i ratnih razaranja; osposobljava i usavršava sudionike zaštite i spašavanja, pruža nužnu pomoć radi otklanjanja posljedica u slučaju opće opasnosti prouzročene elementarnim nepogodama, epidemijama i drugim katastrofama; provodi poslove, mjere i aktivnosti civilne zaštite; upravlja sustavom uzbunjivanja i obavješćivanja te obavlja međunarodnu suradnju u području civilne zaštite.
+
+Ministarstvo obavlja inspekcijske poslove u području civilne zaštite, vatrogastva, zaštite od požara, proizvodnje i prometa eksplozivnih tvari i oružja, privatne zaštite i detektivskih poslova te protuminskog djelovanja.
+
+Ministarstvo obavlja upravne i stručne poslove koji se odnose na: izdavanje dozvola za obavljanje nuklearne djelatnosti; provođenje nezavisne analize sigurnosti; izdavanje rješenja, suglasnosti, odnosno posebnih uvjeta za smještaj, projektiranje, gradnju, uporabu te razgradnju objekta u kojem se obavlja nuklearna djelatnost; praćenje tehnologije razgradnje nuklearnih elektrana i zbrinjavanja radioaktivnog otpada podrijetlom iz nuklearnih elektrana ili istrošenog nuklearnog goriva; vođenje očevidnika o rješenjima i suglasnostima; vođenje registra nuklearnih djelatnosti i materijala; izdavanje odobrenja za prijevoz i provoz izvora ionizirajućeg zračenja; vođenje i nadziranje evidencije o prijevozu i provozu izvora ionizirajućeg zračenja; ovlašćivanje izvršitelja za nuklearnu sigurnost; obavljanje poslova vezanih uz sigurnost radioaktivnih izvora, nuklearnog materijala i nuklearnih objekata te radioaktivnog otpada; praćenje stanja sigurnosti nuklearnih postrojenja u regiji i provođenje procjene opasnosti od mogućih nuklearnih nesreća u njima.
+
+Ministarstvo obavlja upravne i stručne poslove koji se odnose na: oblikovanje standarda i metoda u praćenju stanja zaštite od ionizirajućeg zračenja; davanje odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja te davanje dozvola za nabavu, uvoz, izvoz i uporabu izvora ionizirajućeg zračenja; ovlašćivanje stručnih tehničkih servisa za obavljanje stručnih poslova zaštite od ionizirajućeg zračenja; davanja dozimetrijske procjene izloženosti ionizirajućem zračenju izloženih radnika i stanovništva od medicinskog izlaganja prilikom dijagnostičkih i terapijskih postupaka; vođenje očevidnika o odobrenjima, dozvolama, suglasnostima, rješenjima i potvrdama te vođenje i nadziranje očevidnika o izvorima ionizirajućeg zračenja, nositeljima odobrenja za obavljanje djelatnosti s izvorima ionizirajućeg zračenja, korisnicima, izloženim radnicima, stupnju ozračenosti izloženih radnika te stupnju ozračenosti osoba izloženih medicinskom ozračenju i drugih osoba; sudjelovanje u postupku izdavanja lokacijske dozvole, građevinske dozvole, dozvole za uklanjanje i izdavanje uporabne dozvole za građevine u kojima su smješteni izvori ionizirajućeg zračenja ili se obavlja djelatnost s izvorima ionizirajućeg zračenja; izrađivanje stručnih podloga za nastavne programe i planove za redovito i dopunsko obrazovanje te obnovu znanja iz područja zaštite od ionizirajućeg zračenja; utvrđivanje udovoljavanja pravnih osoba propisanim uvjetima za organizaciju i provedbu dopunskog obrazovanja i obnove znanja o primjeni mjera zaštite od ionizirajućeg zračenja; poredbena ispitivanja među ovlaštenim stručnim tehničkim servisima koji provode mjerenje osobnog ozračenja; organizaciju, a po potrebi i provođenje ispitivanja prisutnosti vrste i jakosti ionizirajućeg zračenja u okolišu, ljudskoj i stočnoj hrani, lijekovima i predmetima opće uporabe u redovitim uvjetima te u slučaju sumnje na izvanredni događaj; procjenu izloženosti stanovništva od izlaganja ionizirajućem zračenju od radionuklida iz okoliša; praćenje izloženosti radionuklidima nastalim u radnim aktivnostima i njihova ispuštanja u okoliš; vođenje evidencija o stanju radioaktivnosti u okolišu; izvještavanje o stanju radioaktivnosti u okolišu; davanja odobrenja za djelatnosti s radioaktivnim otpadom, vođenje i nadziranje evidencija o radioaktivnom otpadu.
+
+Ministarstvo obavlja upravne i stručne poslove koji se odnose na: obavljanje inspekcijskih poslova vezanih uz nadzor provedbe zakona, drugih propisa i općih akata kojima se uređuje područje radiološke i nuklearne sigurnosti; organiziranje sustava pripravnosti za slučaj izvanrednog događaja; osiguravanje stručne pomoći u slučaju nuklearne nezgode/nesreće; pripremanje i provođenje potrebne stručne i tehničke aktivnosti programa pripravnosti i djelovanja u slučaju izvanrednog događaja; pripremanje obavijesti za sredstva javnog informiranja, nadležna tijela, organizacije, udruge i međunarodne institucije o izvanrednim događajima vezanim uz izvore ionizirajućeg zračenja; prikupljanje podataka i informacija o radiološkoj ili nuklearnoj nesreći, suradnju s odgovarajućim centrima drugih zemalja, analizu i procjenu potencijalnih posljedica radiološke ili nuklearne nesreće i pripremu temeljnih stručnih podloga za donošenje odluka o poduzimanju mjera zaštite i spašavanja stanovništva; organiziranje i nadzor provedbe sanacije posljedica nezgode; kontrolu neovlaštenog prometa nuklearnog i drugog radioaktivnog materijala, uključujući promet preko državne granice; zbrinjavanje otkrivenog nuklearnog i drugog radioaktivnog materijala; vođenje evidencija vezanih uz nadzor neovlaštenog prometa nuklearnog i drugog radioaktivnog materijala.
+
+Ministarstvo provodi obveze koje je Republika Hrvatska preuzela prema međunarodnim konvencijama, ugovorima i sporazumima, a odnose se na: zaštitu od ionizirajućeg zračenja, nuklearnu sigurnost i primjenu mjera zaštite u svrhu neširenja nuklearnog oružja; surađuje s međunarodnim i domaćim organizacijama i društvima s područja zaštite od ionizirajućeg zračenja i nuklearne sigurnosti te imenuje svoje stručne predstavnike koji sudjeluju u radu tih organizacija i društava i prate njihov rad; koordinira poslove tehničke suradnje s Međunarodnom agencijom za atomsku energiju za sve sudionike iz Republike Hrvatske; potiče i podupire znanstveni i razvojnoistraživački rad, potiče stručna statistička i druga istraživanja u skladu sa zahtjevima i potrebama razvoja nuklearne sigurnosti i zaštite od ionizirajućeg zračenja u Republici Hrvatskoj; izdaje upute za provođenje međunarodnih preporuka i normi u području zaštite od ionizirajućeg zračenja i nuklearne sigurnosti te oblikuje standarde i metode u praćenju stanja zaštite od ionizirajućeg zračenja.
+
+Ministarstvo obavlja upravne i stručne poslove koji se odnose na: provođenje tehničkog nadgledanja postrojenja koje obuhvaća klasifikaciju prostora, instalacije i uređaje namijenjene za rad u prostorima ugroženima eksplozivnom atmosferom; održavanost postrojenja, kao i opasnost od ostalih uzročnika paljenja, sukladno hrvatskim normama; provođenje tehničkog nadgledanja aktivnosti koje obuhvaća proizvodnju, popravak, instaliranje i održavanje uređaja namijenjenih za rad u prostorima ugroženima eksplozivnom atmosferom; provođenje tehničkog nadgledanja nad dokumentacijom za postrojenja i uređaja namijenjenih za rad u prostorima ugroženima eksplozivnom atmosferom; provođenje tehničkog nadgledanja nad obvezama poslodavca za zaštitu zdravlja i sigurnosti posloprimca u prostorima ugrože¬nima eksplozivnom atmosferom; pripremu stručnih mišljenja o primjeni propisa na postrojenja i o potvrđivanju uređaja i proizvoda namijenjenih za rad u prostorima ugroženima eksplozivnom atmosferom; obavljanje ispitivanja, ocjenjivanja i potvrđivanja sukladnosti uređaja i opreme, zaštitnih sustava i komponenata namijenjenih eksplozivnoj atmosferi, plinova, para, maglica i prašine; obavljanje certifikacije eksplozivnih tvari i sustava upravljanja te edukaciju stručnog osoblja.
+
+Ministarstvo obavlja upravne i stručne poslove koji se odnose na: prikupljanje i obradu podataka o područjima i objektima zagađenim MES-om i NUS-om ili njihovim dijelovima; vođenje evidencije o razminiranim područjima i/ili građevinama, o minski sumnjivom području, pronađenom i uništenom MES-u, NUS-u i njihovim dijelovima; obilježavanje minski sumnjivih područja; obavljanje poslova općeg izvida – analize i dopunskog općeg izvida minski sumnjivog područja; izradu idejnih planova razminiranja i izvedbenih planova tehničkog izvida; kontrolu kvalitete razminiranja i tehničkog izvida na radilištu; izdavanje potvrde o isključenju razminiranog područja i/ili građevine iz minski sumnjivog područja; obavljanje poslova tehničkog izvida minski sumnjivog područja primjenom odobrenih metoda; pružanje stručne pomoći i davanje potrebnih podataka nadležnim tijelima o opasnostima od MES-a i NUS-a i njihovih dijelova; informiranje i edukaciju stanovništva o opasnostima od MES-a i NUS-a i njihovih dijelova te poduzimanje mjera zaštite i spašavanja stanovništva; ustupanje poslova razminiranja ovlaštenim pravnim osobama i/ili obrtnicima; suradnju s međunarodnim subjektima u humanitarnom razminiranju te druge poslove u vezi s protuminskim djelovanjem određene zakonom ili po zahtjevu Vlade Republike Hrvatske.
+
+Ministarstvo obavlja i druge poslove koji se odnose na: vođenje evidencija i statistike iz područja unutarnjih poslova; sustav informiranja u području unutarnjih poslova; obrazovanje i usavršavanje službenika unutarnjih poslova.
+
+Ministarstvo sudjeluje s ministarstvom nadležnim za upravljanje državnom imovinom u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu u vlasništvu Republike Hrvatske te u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz područja propisane nadležnosti ovoga Ministarstva.
+
+Ministarstvo obavlja poslove koji se odnose na sudjelovanje Republike Hrvatske u radu tijela Europske unije u područjima iz njegove nadležnosti.
+
+Ministarstvo obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«.
+
+#### Članak 4.
+
+U članku 8. stavku 1. iza riječi: »upravlja portfeljem javnog duga;« dodaju se riječi: »isplatu naknade u novcu i obveznicama za oduzetu imovinu; prodaju i otkup nacionaliziranih i konfisciranih stanova;«, a iza riječi: »nadzor financijskih institucija sukladno zakonskim ovlastima;« dodaju se riječi: »izdavanje odobrenja za rad i nadzor ovlaštenih revizora i revizorskih društava;«.
+
+Stavak 2. mijenja se i glasi:
+
+»Ministarstvo obavlja inspekcijske poslove u području zaštite intelektualnog vlasništva i zabrane i sprječavanja neregistrirane djelatnosti.«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavci 4., 5., 6., 7. i 8. postaju stavci 3., 4., 5., 6. i 7.
+
+#### Članak 5.
+
+U članku 11. stavak 2. mijenja i glasi:
+
+»Ministarstvo obavlja upravne i druge poslove koji se odnose na: prostorno uređenje Republike Hrvatske i usklađivanje prostornoga razvitka, planiranje, korištenje i zaštitu prostora, ostvarivanje međunarodne suradnje u prostornom uređenju, informacijski sustav prostornog uređenja, praćenje stanja u prostoru i provedbu prostornih planova Republike Hrvatske, lokacijske dozvole, izradu i praćenje provedbe Strategije prostornog razvoja Republike Hrvatske, Državnog plana prostornog razvoja i drugih prostornih planova koje donosi Hrvatski sabor ili Vlada Republike Hrvatske, pripremu liste pokazatelja o stanju u prostoru, izradu, odnosno vođenje izrade izvješća o stanju u prostoru Republike Hrvatske, surađuje u izradi prostornih planova županija, gradova i općina radi ostvarivanja uvjeta za gospodarenje, zaštitu i upravljanje prostorom i usklađivanja djelovanja tijela državne uprave koja sudjeluju u izradi, donošenju i provedbi prostornih planova, ostvarivanje uvjeta za razvitak i unapređenje poslovanja pravnih i fizičkih osoba iz područja prostornog uređenja, uređenje naselja i uređenje i korištenje građevinskoga zemljišta.«.
+
+Stavak 3. mijenja se i glasi:
+
+»Ministarstvo obavlja upravne i druge poslove koji se odnose na područje procjene vrijednosti nekretnina, utvrđivanje uvjeta za projektiranje i gradnju građevina, energetsku učinkovitost u zgradarstvu, građevinske i uporabne dozvole, korištenje, održavanje i uklanjanje građevine.«.
+
+U stavku 4. riječi: »Hrvatske komore arhitekata i inženjera u graditeljstvu, te drugih inženjera koji sudjeluju u gradnji« zamjenjuju se riječima: »rad strukovne komore arhitekata i komora inženjera u graditeljstvu i prostornom uređenju, slobodu kretanja građevnih proizvoda i usluga iz propisane nadležnosti Ministarstva, uređenje zahtjeva za energetski učinkovitu, pristupačnu i održivu gradnju, praćenje i analiziranje zakonitosti i kvalitete gradnje.«.
+
+#### Članak 6.
+
+U članku 12. stavku 1. zarez ispred riječi i riječi: »inspekcijske poslove u području rada i zaštite na radu« brišu se.
+
+#### Članak 7.
+
+U članku 15. stavak 2. briše se.
+
+Dosadašnji stavci 3., 4. i 5. postaju stavci 2., 3. i 4.
+
+#### Članak 8.
+
+Članak 16. mijenja se i glasi:
+
+»Ministarstvo poljoprivrede obavlja upravne i druge poslove u području poljoprivrede, ribarstva, šumarstva, ruralnog razvoja, gospodarenja i raspolaganja poljoprivrednim zemljištem u vlasništvu države, poljoprivredne politike, organizacije tržišta poljoprivrednih proizvoda, tržišnih i strukturnih potpora u poljoprivredi, prehrambene i duhanske industrije i veterinarstva, i to: biljne proizvodnje i agroekologije, zaštitu biljnih sorti i priznavanje sorti poljoprivrednog bilja, promet i primjenu gnojiva i poboljšivača tla, biljnog zdravstva, stavljanja na tržište i uporabe sredstava za zaštitu bilja, održive uporabe pesticida i ostataka pesticida u hrani, uzgoj uzgojno valjanih životinja, propisuje uvjete za proizvodnju i promet grožđa, vina i drugih proizvoda od grožđa i vina.
+
+Ministarstvo propisuje mjere upravljanja i gospodarenja biološkim bogatstvima mora i slatkih voda; određuje i kontrolira ribolovni napor; određuje granice između unutarnjeg i vanjskog ribolovnog mora, granice ribolovnih zona; propisuje namjene, vrste i količine ribolovnih alata i opreme u ribolovu; propisuje i uvjete za uzgoj ribe i drugih vodenih organizama, uvjete za obavljanje ribolova i uvjete za priznavanje organizacija proizvođača u ribarstvu.
+
+Ministarstvo obavlja upravne i druge poslove koji se odnose na šumarstvo, zaštitu šuma, uređivanje pravnih odnosa na šumama i šumskom zemljištu u vlasništvu države te određene imovinskopravne poslove na šumi i šumskom zemljištu, drvnu industriju i lovstvo; provodi međunarodne sporazume u dijelu koji se odnose na šumarstvo; uređenje odnosa i uvjeta proizvodnje, prometa i uporabe šumskog sjemena i šumskih sadnica, šumarske ekologije, zaštite šuma od elementarnih nepogoda i antropogenih utjecaja, požara, očuvanje šumskih genetskih izvora i šumskog reprodukcijskog materijala.
+
+Ministarstvo provodi i koordinira mjere ruralnog razvoja, razvitka seoskog prostora, ekološke i održive poljoprivrede, poljoprivrednog zadrugarstva i drugih oblika udruživanja u poljoprivredi i ribarstvu, promicanja autohtonih proizvoda, marketinške pripreme poljoprivredno-prehrambenih proizvoda, očuvanja izvornih i zaštićenih pasmina domaćih životinja.
+
+Ministarstvo uređuje pravne odnose na poljoprivrednom zemljištu, obavlja poslove raspolaganja, uređenja, okrupnjavanja, zaštite i promjene namjene poljoprivrednog zemljišta te određene imovinskopravne poslove na poljoprivrednom zemljištu, kao i postupke komasacije u skladu s posebnim zakonima i druge poslove iz područja politike poljoprivrednog zemljišta.
+
+Ministarstvo obavlja sve poslove za poljoprivredno i šumsko zemljište za koje je aktom za provedbu prostornih planova utvrđen obuhvat zahvata i/ili određeno formiranje građevne čestice ili smještaj jedne ili više građevina na građevnoj čestici radi izgradnje infrastrukture (vodovoda, odvodnje otpadnih voda – kanalizacije, plinovoda, električnih i ostalih vodova, naftovoda, eksploatacije mineralnih sirovina, asfaltnih baza, betonara i drugih građevina u funkciji obrade mineralnih sirovina unutar određenih eksploatacijskih polja), reciklažnih dvorišta za građevinski otpad s pripadajućim postrojenjima, proizvodnih postrojenja koja koriste obnovljive izvore energije, građevina namijenjenih poljoprivrednoj proizvodnji, građevina namijenjenih gospodarenju u šumarstvu i lovstvu, vojnih lokacija i građevina za potrebe obrane.
+
+Ministarstvo provodi mjere poticajne politike u poljoprivredi i ribarstvu sukladno zakonodavnom okviru zajedničke poljoprivredne i ribarstvene politike Europske unije, uređuje i koordinira sufinanciranje poljoprivrede, ribarstva i prerade poljoprivrednih proizvoda proračunskim sredstvima.
+
+Ministarstvo obavlja upravne i druge poslove koji se odnose na zdravstvenu ispravnost, higijenu, kvalitetu i označavanje hrane, hrane za životinje, sprječavanje nastajanja otpada od hrane, uspostavu i provedbu sustava kvalitete za poljoprivredne i prehrambene proizvode i organizaciju službenih kontrola.
+
+Ministarstvo provodi mjere radi otkrivanja i sprječavanja pojava zaraznih bolesti životinja, zaštitu životinja i veterinarske lijekove, propisuje uvjete i kontrolu životinja i proizvoda životinjskog podrijetla u proizvodnji i prometu.
+
+Ministarstvo obavlja inspekcijske poslove u području ribarstva.
+
+Ministarstvo koordinira i usklađuje hrvatsku poljoprivrednu politiku i politiku ruralnog razvoja s odgovarajućim politikama Europske unije u dijelu koji se odnosi na poljoprivredu, prehranu, ruralni razvoj i ribarstvo, provodi projekte iz fondova i programa EU i ostalih oblika međunarodne pomoći.
+
+Ministarstvo sudjeluje s ministarstvom nadležnim za upravljanje državnom imovinom u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu u vlasništvu Republike Hrvatske te u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz područja propisane nadležnosti ovoga Ministarstva.
+
+Ministarstvo obavlja poslove koji se odnose na sudjelovanje Republike Hrvatske u radu tijela Europske unije u područjima iz njegove nadležnosti.
+
+Ministarstvo obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim propisima.«.
+
+#### Članak 9.
+
+U članku 18. stavku 1. iza riječi: »Državnog hidrometeorološkog zavoda; upravne« riječi: »i inspekcije« brišu se.
+
+U stavku 2. riječi: »Ministarstvo obavlja upravne i stručne poslove vezane uz očuvanje bioraznolikosti,« zamjenjuju se riječima: »Ministarstvo obavlja upravne, stručne i stručno-analitičke poslove te prikuplja i objedinjava podatke i informacije vezane uz očuvanje bioraznolikosti,«, a iza riječi: »prati« riječi: »i nadzire« brišu se te iza riječi: »zaštiti prirode i njezinom očuvanju« stavlja se točka, a riječi: »te provodi inspekcijske poslove zaštite prirode.« brišu se.
+
+U stavku 3. iza riječi: »provođenje upravnog« brišu se riječi: »i inspekcijskog«.
+
+U stavku 4. iza riječi: »provođenje upravnog« brišu se riječi: »i inspekcijskog«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»Ministarstvo zaštite okoliša i energetike obavlja stručno-analitičke poslove zaštite prirode i zaštite okoliša te prikuplja i objedinjava podatke i informacije o okolišu i prirodi, priprema podloge i mišljenja glede očuvanja bioraznolikosti, georaznolikosti, održivosti korištenja prirodnih dobara, zaštite dijelova prirode, uključujući zaštićena područja i područja ekološke mreže, sudjeluje u međunarodnoj suradnji, provedbi međunarodnih ugovora i europskih poslova u svezi s očuvanjem bioraznolikosti i zaštite prirode, informiranju javnosti i edukaciji o zaštiti prirode i njezinu očuvanju.«.
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+#### Članak 10.
+
+U članku 19. stavku 1. iza riječi: »unutarnjim vodama« briše se zarez i ostatak rečenice.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Ministarstvo obavlja upravne, stručne i druge poslove koji se odnose na gradnju, tehničko unaprjeđenje i prometno-tehnološku modernizaciju vodnih putova na unutarnjim vodama, tehničko održavanje i osposobljavanje vodnih putova i objekata sigurnosti plovidbe onesposobljenih zbog elementarnih nepogoda.«.
+
+Dosadašnji stavci 2., 3., 4., 5. i 6. postaju stavci 3., 4., 5., 6. i 7.
+
+#### Članak 11.
+
+Članak 20. mijenja se i glasi:
+
+»Ministarstvo gospodarstva, poduzetništva i obrta obavlja upravne i druge poslove koji se odnose na: razvoj i unapređenje konkurentnosti hrvatskog gospodarstva s posebnim naglaskom na poticanje investicija, instrumente i mjere gospodarske politike; industrijsku politiku, politiku primjene inovacija i novih tehnologija; obavlja poslove koji se odnose na rudarstvo, osim istraživanja i eksploatacije ugljikovodika i geotermalnih voda za energetske svrhe; sudjeluje u politikama razvoja iz područja prerađivačke, drvno-prerađivačke i prehrambene industrije; upravljanje jamstvenim fondom za unapređenje industrije; poslove vezane uz poticanje stvaralaštva u industriji i trgovini u cilju razvoja konkurentnosti hrvatskoga gospodarstva; strategiju olakšavanja i poticanja ulaganja i izvoza, utvrđivanje i razradu metodologije za mjerenje i ciljano smanjenje administrativnog opterećenja gospodarstva (Standard Cost Model) te je središnje koordinacijsko tijelo za primjenu pravila postupanja i kontrolu kvalitete primjene ove metodologije; promiče gospodarski rast i konkurentnost kroz bilateralnu gospodarsku suradnju, u tijelima Europske unije i na drugim međunarodnim forumima temeljem međunarodnih obveza Republike Hrvatske, programa i strategija Vlade Republike Hrvatske te prioriteta Ministarstva.
+
+Ministarstvo obavlja upravne, stručne i druge poslove koji se odnose na djelatnost trgovine na unutarnjem tržištu Europske unije; opskrbu i cijene; nacionalnu koordinaciju aktivnosti djelovanja na unutarnjem tržištu Europske unije, uključujući tehničko zakonodavstvo i infrastrukturu kvalitete, koordinaciju i razvoj nacionalne politike u području normizacije, akreditacije, ocjene sukladnosti, mjeriteljstva i tržišnog natjecanja; stanje i pojave na tržištu; zaštitu potrošača; strateške robne zalihe.
+
+Ministarstvo obavlja upravne i druge poslove koji se odnose na razvoj, unapređenje i koordinaciju sustava javnih nabava; unapređenje i razvoj sustava koncesija u području svoje nadležnosti i nadzor nad njegovim provođenjem te unapređenje i razvoj sustava, kao i obavljanje poslova iz područja javno-privatnog partnerstva.
+
+Ministarstvo obavlja upravne i druge poslove koji se odnose na malo i srednje poduzetništvo; obrtništvo; zadrugarstvo; poticanje izvoza i stranih ulaganja, unapređenja konkurentnosti u području maloga i srednjega poduzetništva te s tim u vezi poslove vezano za primjenu procjene učinaka propisa na malo gospodarstvo, uključujući i primjenu testa na malo i srednje poduzetništvo (MSP test) te je središnje koordinacijsko tijelo za primjenu pravila postupanja i kontrolu kvalitete primjene MSP testa, ravnomjerni regionalni razvoj poduzetništva; djelovanje instrumenata gospodarskog sustava i mjera gospodarske politike na razvoj obrtništva, zadrugarstva, malog i srednjeg poduzetništva te poslovanje obrtnika i poduzetnika; praćenje, unapređivanje i razvoj zadrugarstva; poticanje primjene inovacija, novih tehnologija i osnivanja i poslovanja slobodnih i poduzetničkih zona u području maloga i srednjega poduzetništva; sustavno poticanje poduzetništva; poticanje sudjelovanja malih i srednjih poduzetnika u poslovima javne nabave i javno-privatnog partnerstva; pripremu i provedbu posebnih programa Vlade Republike Hrvatske u području gospodarskog razvoja i konkurentnosti obrtništva, zadrugarstva, malog i srednjeg poduzetništva.
+
+Ministarstvo sudjeluje u pripremi i upravljanju strateških i operativnih dokumenata i programa za korištenje sredstava fondova Europske unije i ostalih međunarodnih izvora financiranja namijenjenih unapređenju konkurentnosti hrvatskoga gospodarstva te priprema i provodi strateške i operativne dokumente i programe za korištenje sredstava fondova Europske unije i ostalih međunarodnih izvora financiranja namijenjenih unapređenju konkurentnosti obrtništva, zadrugarstva, maloga i srednjega poduzetništva.
+
+Ministarstvo sudjeluje s ministarstvom nadležnim za upravljanje državnom imovinom u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu u vlasništvu Republike Hrvatske te u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz područja propisane nadležnosti ovoga Ministarstva.
+
+Ministarstvo obavlja poslove koji se odnose na sudjelovanje Republike Hrvatske u radu tijela Europske unije u područjima iz njegove nadležnosti.
+
+Ministarstvo obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«.
+
+#### Članak 12.
+
+U članku 21. stavak 1. mijenja se i glasi:
+
+»Ministarstvo regionalnoga razvoja i fondova Europske unije obavlja upravne i druge poslove koji se odnose na: planiranje i provođenje regionalne razvojne politike i uspostave cjelovitog sustava planiranja, programiranja, upravljanja i financiranja regionalnoga razvoja; koordinaciju sudionika i aktivnosti vezanih uz planiranje, programiranje, provedbu, praćenje provedbe i vrednovanje godišnjih i višegodišnjih regionalnih razvojnih programa i projekata koji su namijenjeni razvoju županija i širih regija, poticanju razvoja područja koja zaostaju za nacionalnim razvojnim prosjekom, poticanju razvoja prekogranične, međuregionalne i transnacionalne suradnje, kao i na pripremu prioriteta i višegodišnjih i godišnjih strateških i operativnih dokumenata za korištenje sredstava fondova Europske unije i ostalih međunarodnih izvora financiranja namijenjenih regionalnom razvoju; predlaganje izmjena sustava upravljanja regionalnim razvojem; predlaganje i koordinaciju provedbe državnih poticajnih mjera i regionalnih razvojnih programa i projekata te praćenje njihove provedbe i vrednovanje njihovih učinaka; koordinaciju i vođenje svih međuresornih radnih skupina vezano uz regionalni razvoj; koordinaciju svih poslova vezanih za usklađivanje s Europskom unijom na području regionalne politike i upravljanja strukturnim instrumentima; obavlja poslove ugovornog i provedbenog tijela za IPA IIb programe prekogranične suradnje financijskog razdoblja 2007. – 2013. te upravljačkog i kontrolnog tijela za programe Europske teritorijalne suradnje za financijsko razdoblje 2014. – 2020.; prema smjernicama nositelja izvora financiranja priprema i izrađuje smjernice koje se odnose na natječajne procedure i sustav provedbe projekata iz programa koje provodi; provodi postupke nabave vezano za prijave projekata za dodjelu sredstava iz pojedinih programa sukladno pozitivnim propisima Republike Hrvatske te utvrđenim smjernicama i metodologijama; priprema i provodi natječaje, postupke ocjenjivanja i odabira projekata kojima će se dodijeliti financijska sredstva te priprema i zaključuje ugovore i odgovorno je za ugovornu administraciju; obavlja plaćanje prema utvrđenim kriterijima i sklopljenim ugovorima te prati tijekove financijskih sredstava; prati, kontrolira i vrednuje provedbu projekata te o tome priprema izvješća; uspostavlja informatički sustav praćenja provedbe projekata unutar pojedinih programa; organizira i provodi izobrazbu vezano za svoj djelokrug; informira potencijalne korisnike projekata o programima koje provodi; promovira programe Europske teritorijalne suradnje kojima upravlja; savjetuje korisnike projekata u procesima vezanim uz provedbu pojedinačnih ugovora; obavlja i druge poslove iz svog djelokruga. Ministarstvo je nositelj Stambenog programa za potpomognuta i demografski ugrožena područja te odgovorno tijelo za praćenje provedbe navedenog programa. Surađuje i koordinira potrebne aktivnosti s jedinicama lokalne i područne (regionalne) samouprave te s ostalim sudionicima i nositeljima u pripremi, organizaciji i provedbi razvojnih programa i projekata.«.
+
+#### Članak 13.
+
+U članku 22. stavku 1. zarez ispred riječi i riječ: »zatočenog« brišu se.
+
+#### Članak 14.
+
+Članak 23. mijenja se i glasi:
+
+»Ministarstvo zdravstva obavlja upravne i druge poslove koji se odnose na: sustav zdravstvene zaštite i zdravstvenog osiguranja; praćenje i unapređivanje zdravstvenog stanja i zdravstvenih potreba stanovništva, zaštitu stanovništva od zaraznih i nezaraznih bolesti, neionizirajućih zračenja; zaštitu od buke; zdravstvenu ispravnost i higijenu hrane u skladu s posebnim propisom o hrani; predmete opće uporabe; vodu za ljudsku potrošnju; područje genetski modificiranih organizama; proizvodnju, promet i potrošnju droga, psihotropnih tvari i prekursora; odobravanje provođenja kliničkih ispitivanja lijekova i medicinskih proizvoda, donacije lijekova i medicinskih proizvoda zdravstvenim ustanovama; odobravanje donacija robe, radova, usluga i financijskih sredstava u zdravstvu; korištenje zdravstvenih potencijala; investiranje u zdravstvu; osnivanje zdravstvenih ustanova i privatne prakse te trgovačkih društava za obavljanje zdravstvene djelatnosti; zdravstvene usluge u turizmu; organiziranje stručnih ispita zdravstvenih radnika te njihovo specijalističko usavršavanje; priznavanje naziva primarijusa; dodjelu naziva zdravstvenim ustanovama: referentni centar, klinika, klinička bolnica i klinički bolnički centar; upravni nadzor nad radom Hrvatskog zavoda za zdravstveno osiguranje, Hrvatskoga Crvenog križa, komora i drugih pravnih osoba u zdravstvu s javnim ovlastima; zdravstveno-inspekcijski nadzor nad radom zdravstvenih ustanova i zdravstvenih radnika, privatnom praksom te trgovačkih društava za obavljanje zdravstvene djelatnosti: inspekcijski nadzor nad ispitivanjem, izradom, prometom, posredovanjem, provjerom kakvoće lijekova, ispitivanih lijekova, djelatnih i pomoćnih tvari te oglašavanjem o lijeku te nadzor nad proizvodnjom, prometom, ocjenom sukladnosti medicinskog proizvoda te oglašavanjem o medicinskom proizvodu i vigilancijom medicinskih proizvoda; inspekcijski nadzor u području biomedicine i biovigilanciju; nadzor nad provođenjem odobrenih kliničkih ispitivanja lijekova i medicinskih proizvoda; provodi postupak akreditacije nositelja zdravstvene djelatnosti; provodi postupak provjere uspostavljenosti standarda kvalitete; provodi postupak procjene zdravstvenih tehnologija; vodi bazu podataka procijenjenih zdravstvenih tehnologija; uspostavlja sustav za procjenu novih ili već postojećih zdravstvenih tehnologija; surađuje s pravnim i fizičkim osobama na području procjene zdravstvenih tehnologija; ostvaruje međunarodnu suradnju na području procjene zdravstvenih tehnologija; vodi registar danih akreditacija nositelja zdravstvene djelatnosti te osigurava bazu podataka vezano uz akreditiranje, unapređivanje kvalitete zdravstvene zaštite, edukaciju i procjenjivanje medicinskih tehnologija; organizira edukaciju na području osiguranja, unapređenja i promicanja kvalitete zdravstvene zaštite te procjene zdravstvenih tehnologija; nadzire standarde zdravstvenih osiguranja; obavlja i druge poslove na području osiguranja, unaprjeđenja, promicanja i praćenja kvalitete zdravstvene zaštite; službene kontrole zdravstvene ispravnosti, higijene i kakvoće hrane u skladu s posebnim propisom o hrani te genetski modificiranih organizama; sanitarni nadzor nad proizvodnjom, prometom, uporabom i zbrinjavanjem opasnih kemikalija i drugih tvari štetnih za zdravlje ljudi; sanitarni nadzor nad izvorima neionizirajućih zračenja; sanitarni nadzor nad predmetima opće uporabe; sanitarni nadzor nad vodom za ljudsku potrošnju; sanitarni nadzor nad osobama i djelatnostima, građevinama, prostorijama, postrojenjima i uređajima koji mogu na bilo koji način štetno utjecati na zdravlje ljudi te sanitarni nadzor u međunarodnom prometu na državnoj granici; planiranje strateškog razvoja te primjenu standarda kvalitete i sigurnosti ljudskih presadaka (organi, tkiva i stanice) i krvnih pripravaka u svrhu osiguranja visoke razine zaštite zdravlja u području biomedicine i transplantacije; upravljanje i koordiniranje sustava zdravstva u većim incidentnim/kriznim situacijama.
+
+Sudjeluje u pripremi programa i projekata te provedbi projekata iz programa Europske unije i međunarodnih institucija i međunarodne pomoći.
+
+Ministarstvo sudjeluje s ministarstvom nadležnim za upravljanje državnom imovinom u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu u vlasništvu Republike Hrvatske te u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz područja propisane nadležnosti ovoga Ministarstva.
+
+Ministarstvo obavlja poslove koji se odnose na sudjelovanje Republike Hrvatske u radu institucija i tijela Europske unije u područjima iz njegove nadležnosti.
+
+Ministarstvo obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«
+
+#### Članak 15.
+
+Članak 23.a mijenja se i glasi:
+
+»Ministarstvo državne imovine obavlja upravne i druge poslove koji se odnose na upravljanje državnom imovinom koja mu je posebnim zakonom dana na upravljanje.
+
+Ministarstvo izvršava vlasničke ovlasti u ime Republike Hrvatske, u skladu s posebnim zakonom kojim se uređuje upravljanje državnom imovinom.
+
+Ministarstvo izrađuje nacrt prijedloga Strategije upravljanja državnom imovinom, prijedlog Godišnjeg plana upravljanja državnom imovinom i prijedlog Izvješća o provedbi Godišnjeg plana upravljanja državnom imovinom.
+
+Ministarstvo obavlja stručne poslove koji se odnose na koordinaciju i harmonizaciju kriterija za upravljanje državnom imovinom koja mu je dana na upravljanje, utvrđuje smjernice za ostvarivanje vlasničke politike u pravnim osobama od posebnog interesa za Republiku Hrvatsku te prati rad, upravljanje, razvoj i ostvarivanje strateške politike u tim društvima.
+
+Ministarstvo predlaže Vladi Republike Hrvatske donošenje odluke o utvrđivanju popisa pravnih osoba od posebnog interesa za Republiku Hrvatsku.
+
+Ministarstvo za pravne osobe od posebnog interesa za Republiku Hrvatsku koja se pretežno bave djelatnostima iz područja propisane nadležnosti ovoga Ministarstva predlaže Vladi Republike Hrvatske imenovanje članova skupština, nadzornih odbora i uprava tih pravnih osoba od posebnog interesa za Republiku Hrvatsku sukladno odredbama propisa kojima se uređuje upravljanje državnom imovinom; predlaže Vladi Republike Hrvatske donošenje odluka o načinu raspolaganja dionicama ili poslovnim udjelima pravnih osoba od posebnog interesa za Republiku Hrvatsku koja se pretežno bave djelatnostima iz područja propisane nadležnosti ovoga Ministarstva, sudjeluje u postupcima restrukturiranja, dokapitalizacije i drugim sličnim postupcima za te pravne osobe od posebnog interesa za Republiku Hrvatsku.
+
+Ministarstvo obavlja poslove unaprjeđivanja korporativnog upravljanja pravnim osobama u vlasništvu Republike Hrvatske; obavlja poslove usavršavanja članova nadzornih odbora za obavljanje poslova članova nadzornih odbora trgovačkih društava.
+
+Ministarstvo obavlja upravne i druge poslove koji se odnose na upravljanje i raspolaganje fondom stanova i poslovnih prostora u vlasništvu Republike Hrvatske, a u odnosu na koje upravljanje nije uređeno posebnim propisom; upravljanje i raspolaganje rezidencijskim objektima, upravljanje i raspolaganje nekretninama koje je Ministarstvo obrane proglasilo neperspektivnim za vojnu namjenu te upravljanje i raspolaganje ostalim građevinskim zemljištem u vlasništvu Republike Hrvatske; upravljanje i raspolaganje zemljištima u vlasništvu Republike Hrvatske na kojima se obavlja djelatnost kampa ili su izgrađeni planinarski dom ili kuća s pripadajućim zemljištem koje služi redovitoj uporabi nekretnine, izgrađene na zemljištu uknjiženom kao vlasništvo Republike Hrvatske, neovisno o tome nalaze li se u građevinskoj zoni, na poljoprivrednom zemljištu te šumi ili šumskom zemljištu, ako u postupku pretvorbe društvenog vlasništva ili po posebnim propisima vlasništvo nisu stekle druge osobe, nekretninama u vlasništvu Republike Hrvatske na kojima se planira izgradnja igrališta za golf, hotela, hotelskih kompleksa, kampa i drugih sportsko-rekreacijskih igrališta na otvorenom s pratećim zgradama i drugih sličnih objekata komercijalne naravi, upravljanje i raspolaganje imovinom koja je u vlasništvu Republike Hrvatske ili nad kojom Republika Hrvatska obavlja vlasnička prava, a koja se odnosi na pravne osobe i predmet je sukcesije država proizišle zbog raspada bivše SFRJ sukladno posebnim propisima; za navedene nekretnine Ministarstvo donosi odluke o stjecanju, zamjeni i drugim sličnim raspolaganjima.
+
+Ministarstvo upravlja viškom iskopa mineralne sirovine sukladno posebnim propisima.
+
+Ministarstvo upravlja imovinom koja je pravomoćnom sudskom presudom u kaznenom ili prekršajnom postupku trajno oduzeta pravomoćno osuđenim počiniteljima kaznenog djela ili prekršaja ili s njima povezanim osobama i koja je dana Ministarstvu na upravljanje; upravlja privremeno oduzetom imovinom u vlasništvu okrivljenika protiv kojih se vodi kazneni ili prekršajni postupak ili s njima povezanim osobama u skladu s posebnim propisima i koja je dana Ministarstvu na upravljanje.
+
+Ministarstvo sudjeluje u postupku izrade dokumenata prostornog uređenja podnošenjem zahtjeva i davanjem mišljenja, ako je njime obuhvaćeno i zemljište u vlasništvu Republike Hrvatske kojim Ministarstvo upravlja.
+
+Ministarstvo obavlja nadzor nad upravljanjem i raspolaganjem državnom imovinom u provođenju zakona kojim se uređuje upravljanje državnom imovinom.
+
+Ministarstvo sudjeluje u radu institucija Europske unije i surađuje s drugim međunarodnim institucijama sukladno propisanoj nadležnosti i djelokrugu.
+
+Ministarstvo obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«.
+
+#### Članak 16.
+
+U članku 25. stavku 1. riječi: »koordinira razvitak i primjenu informacijske i komunikacijske tehnologije u sustavima elektroničkog obrazovanja, elektroničkog zdravstva, elektroničkog poslovanja i drugim srodnim područjima;« zamjenjuju se riječima: »prati, predlaže i koordinira razvoj i primjenu informacijske i komunikacijske tehnologije u tijelima državne uprave i drugim državnim tijelima;«, a riječi: »predlaže Vladi Republike Hrvatske donošenje Strategije popularizacije informacijske pismenosti u Republici Hrvatskoj;« zamjenjuju se riječima: »koordinira izradu i predlaže Vladi Republike Hrvatske donošenje Strategije digitalnog razvoja Republike Hrvatske;«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Središnji državni ured vodi Središnji registar državne imovine.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 17.
+
+Članak 28. mijenja se i glasi:
+
+»Središnji državni ured za obnovu i stambeno zbrinjavanje obavlja upravne i druge poslove nositelja mjere stambenog zbrinjavanja na potpomognutim područjima Republike Hrvatske u okviru kojih predlaže, organizira, provodi i nadzire provedbu stambenog zbrinjavanja radi osiguranja uvjeta za povratak, ostanak i naseljavanje stanovništva.
+
+Središnji državni ured obavlja upravne, stručne, provedbene i druge poslove koji se odnose na planiranje, pripremu, provedbu i nadzor provedbe programa obnove i popravka u Domovinskom ratu oštećenih ili uništenih stambenih jedinica, kao i programe stambenog zbrinjavanja.
+
+Središnji državni ured obavlja stručne poslove koji se odnose na pripremu, organizaciju i provedbu sanacije ili izgradnje objekata osnovne komunalne i socijalne infrastrukture radi efikasnije prometne povezanosti i dostupnosti potrebne robe i usluga u svrhu demografske revitalizacije te povećanja društvenog standarda hrvatskih građana i doprinosa uravnoteženom razvoju svih područja Republike Hrvatske.
+
+Središnji državni ured obavlja upravne i druge poslove koji se odnose na planiranje, organiziranje i provođenje aktivnosti efikasnog i učinkovitog upravljanja i gospodarenja stambenim jedinicama u državnom vlasništvu kroz najam, postupke darovanja i prodaje stambenih jedinica.
+
+Središnji državni ured obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«.
+
+#### Članak 18.
+
+Iza članka 29. dodaju se članci 29.a i 29.b koji glase:
+
+»Članak 29.a
+
+Hrvatska vatrogasna zajednica obavlja upravne i stručne poslove koji se odnose na vatrogastvo; provodi osposobljavanje pripadnika vatrogasnih postrojbi; pruža tehničku pomoć u nezgodama i opasnim situacijama te obavlja i druge poslove u svezi s vatrogastvom.
+
+Hrvatska vatrogasna zajednica obavlja i druge poslove koji su joj stavljeni u nadležnost posebnim zakonom.
+
+#### Članak 29.b
+
+Državni inspektorat obavlja inspekcijske poslove u području trgovine, usluga, neregistriranog obavljanja djelatnosti i pružanja usluga, sigurnosti neprehrambenih proizvoda, zaštite potrošača, proizvodnje i stavljanja na tržište predmeta opće uporabe, stavljanja na tržište i uporabe biocidnih proizvoda, zaštite od buke i zaštite od neionizirajućeg zračenja, ograničavanja uporabe duhanskih i srodnih proizvoda, proizvodnje, stavljanja na tržište i uporabe opasnih kemikalija te gospodarenja otrovnim kemikalijama, hrane, uključujući i genetski modificiranu hranu i novu hranu, genetski modificirane organizme, sprečavanja i suzbijanja zaraznih bolesti, veterinarstva i sigurnosti hrane, poljoprivrede, lovstva, šumarstva, biljnog zdravstva, sjemena i sadnog materijala poljoprivrednog bilja, šumskog reprodukcijskog materijala, sprječavanja unošenja i širenja te upravljanja invazivnim stranim vrstama, ugostiteljske djelatnosti, pružanja ugostiteljskih usluga, pružanja usluga u turizmu, obračuna, naplate i uplate boravišne odnosno turističke pristojbe, prijave i odjave turista, rudarstva, opreme pod tlakom, energetike (elektroenergetike, toplinarstva i plinarstva, naftnog rudarstva), rada i zaštite na radu, zaštite okoliša, održivog gospodarenja otpadom, zaštite zraka, zaštite prirode, vodnog gospodarstva i vode za ljudsku potrošnju te građenja.
+
+Državni inspektorat obavlja i druge poslove koji su mu stavljeni u nadležnost posebnim zakonom.«.
+
+#### Članak 19.
+
+U članku 33. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Državni zavod za mjeriteljstvo obavlja upravne i stručne poslove koji se odnose na proglašavanje državnih etalona i druge poslove u vezi s državnim etalonima i usklađivanje rada nacionalnih umjernih laboratorija; planiranje, organiziranje, koordinaciju i provođenje poslova razvoja nacionalnog sustava temeljnog mjeriteljstva; osiguravanje sljedivosti mjerenja u Republici Hrvatskoj i provođenje umjeravanja etalona i mjerila; čuvanje i održavanje državnih mjernih etalona i osiguravanje njihove sljedivosti prema međunarodnim etalonima; istraživanje i razvoj u području temeljnog mjeriteljstva; nacionalne umjerne laboratorije; usklađivanje i nadzor rada nacionalnih umjernih laboratorija; predstavlja Republiku Hrvatsku u međunarodnim mjeriteljskim organizacijama za temeljno mjeriteljstvo i osigurava izvršenje zadaća koje proizlaze iz članstva u tim organizacijama.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 20.
+
+Članak 35. briše se.
+
+#### Članak 21.
+
+Članak 36. briše se.
+
+#### Članak 22.
+
+U članku 37. stavku 1. riječi: »i Državnog zavoda za radiološku i nuklearnu sigurnost« brišu se.
+
+Stavak 6. briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 23.
+
+Danom stupanja na snagu ovoga Zakona Hrvatska vatrogasna zajednica osnovana Zakonom o vatrogastvu (»Narodne novine«, br. 58/93. i 87/96.), koja je nastavila s radom sukladno Zakonu o vatrogastvu (»Narodne novine«, br. 6/99., 117/01., 36/02., 96/03., 174/04., 38/09. i 80/10.), preuzima iz djelokruga Državne uprave za zaštitu i spašavanje poslove vatrogastva te državne službenike koji su danom stupanja na snagu ovoga Zakona zatečeni na obavljanju poslova vatrogastva.
+
+Danom stupanja na snagu ovoga Zakona Hrvatska vatrogasna zajednica iz stavka 1. ovoga članka, razmjerno preuzetim poslovima, preuzima na korištenje opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze Državne uprave za zaštitu i spašavanje. Stupanjem na snagu ovoga Zakona Ministarstvo unutarnjih poslova utvrdit će popis opreme, pismohrane i druge dokumentacije, sredstava za rad, financijskih sredstava, prava i obveza Državne uprave za zaštitu i spašavanje.
+
+Državni službenici koji su danom stupanja na snagu ovoga Zakona zatečeni u obavljanju poslova vatrogastva zadržavaju radno pravni status državnih službenika i na njih se primjenjuju propisi o državnim službenicima, te nastavljaju obavljati poslove vatrogastva kao i druge poslove po nalogu, primati plaću te zadržavaju sva prava prema dosadašnjim rješenjima kao i prava iz kolektivnog ugovora. Glavni vatrogasni zapovjednik u odnosu na preuzete državne službenike smatra se čelnikom tijela.
+
+Danom stupanja na snagu ovoga Zakona Ministarstvo unutarnjih poslova preuzima državne službenike i namještenike Državne uprave za zaštitu i spašavanje zatečene na općim, financijskim, administrativnim i pomoćno-tehničkim poslovima, koji zadržavaju prava i obveze prema dotadašnjim rješenjima odnosno ugovorima o radu.
+
+U roku od 15 dana od dana stupanja na snagu ovoga Zakona Ministarstvo unutarnjih poslova i Hrvatska vatrogasna zajednica sklopit će sporazum kojim će, razmjerno preuzetim poslovima Državne uprave za zaštitu i spašavanje, utvrditi broj državnih službenika i namještenika iz stavka 4., koje će preuzeti Hrvatska vatrogasna zajednica odnosno koje zadržava Ministarstvo unutarnjih poslova. Do reguliranja njihova radnopravnog statusa sukladno važećim propisima i sklopljenom sporazumu preuzeti službenici i namještenici nastavljaju obavljati poslove i primati plaću prema dosadašnjim rješenjima odnosno ugovorima o radu te zadržavaju sva prava iz radnog odnosa sukladno dosadašnjim rješenjima i ugovorima o radu.
+
+Hrvatska vatrogasna zajednica iz stavka 1. ovoga članka uskladit će svoje opće akte s odredbama ovoga Zakona.
+
+Stupanjem na snagu ovoga Zakona glavni vatrogasni zapovjednik zadržava sve ovlasti i odgovornosti utvrđene posebnim zakonom. Na prijedlog ministra unutarnjih poslova, uz prethodnu suglasnost Hrvatske vatrogasne zajednice iz stavka 1. ovoga članka, Vlada Republike Hrvatske imenuje glavnog vatrogasnog zapovjednika do početka rada središnjeg državnog ureda iz članka 18. ovoga Zakona.
+
+Hrvatska vatrogasna zajednica iz stavka 1. ovoga članka obavljat će preuzete poslove vatrogastva sukladno ovom Zakonu, do donošenja posebnog zakona kojim će se cjelovito urediti vatrogasna djelatnost kao djelatnost od interesa za Republiku Hrvatsku, a najdulje godinu dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 24.
+
+Danom stupanja na snagu ovoga Zakona Državni inspektorat preuzima iz djelokruga:
+
+1. Ministarstva financija inspekcijske poslove u području prometa robe i usluga, boravišne pristojbe, zabrane i sprječavanja neregistrirane djelatnosti i nezakonite trgovine te poslove inspekcijskog nadzora nad naplatom proračunskih i ostalih prihoda iz područja robe i usluga, ugostiteljske djelatnosti i pružanja usluga u turizmu
+
+2. Ministarstva graditeljstva i prostornoga uređenja inspekcijske poslove građenja
+
+3. Ministarstva rada i mirovinskoga sustava inspekcijske poslove u području rada i zaštite na radu
+
+4. Ministarstva turizma inspekcijske poslove u području ugostiteljske djelatnosti i pružanja usluga u turizmu
+
+5. Ministarstva poljoprivrede inspekcijske poslove u području šumarstva i lovstva, inspekcijske poslove fitosanitarne i granične veterinarske inspekcije, inspekcijske poslove u poljoprivredi, veterinarstvu te, u skladu s posebnim propisom o hrani, inspekcijske poslove koji se odnose na zdravstvenu ispravnost i higijenu/sigurnost hrane i hrane za životinje, standarde kvalitete, posebne oznake kvalitete hrane i hrane za životinje, označavanje, reklamiranje i prezentiranje odnosno informiranje potrošača o hrani, ekološku proizvodnju te genetski modificiranu hranu i hranu za životinje
+
+6. Ministarstva zaštite okoliša i energetike inspekcijske poslove u području zaštite okoliša, zaštite prirode, vodnoga gospodarstva i energetike (elektroenergetike, toplinarstva i plinarstva, naftnog rudarstva)
+
+7. Ministarstva gospodarstva, poduzetništva i obrta inspekcijske poslove u području rudarstva, gospodarenja otrovnim kemikalijama, opreme pod tlakom i zaštite potrošača
+
+8. Ministarstva zdravstva poslove službene kontrole zdravstvene ispravnosti, higijene i kakvoće hrane u skladu s posebnim propisom o hrani te genetski modificiranih organizama, sanitarni nadzor nad proizvodnjom, prometom, uporabom i zbrinjavanjem opasnih kemikalija i drugih tvari štetnih za zdravlje ljudi, izvorima neionizirajućih zračenja, predmetima opće uporabe, vodom za ljudsku potrošnju, provedbom mjera zaštite od buke, ograničavanjem uporabe duhanskih i srodnih proizvoda, sprječavanjem i suzbijanjem zaraznih bolesti, osobama i djelatnostima, građevinama, prostorijama, postrojenjima i uređajima koji mogu na bilo koji način štetno utjecati na zdravlje ljudi te sanitarni nadzor u međunarodnom prometu na državnoj granici.
+
+Danom stupanja na snagu ovoga Zakona Državni inspektorat od ministarstava iz stavka 1. ovoga članka preuzima opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze, razmjerno preuzetim poslovima, te državne službenike zatečene na obavljanju preuzetih poslova.
+
+Čelnik Državnog inspektorata će u roku od 60 dana od dana stupanja na snagu ovoga Zakona s pojedinim ministrima iz stavka 1. ovoga članka sklopiti sporazume o preuzimanju u Državni inspektorat:
+
+– državnih službenika koji su zatečeni na preuzetim poslovima
+
+– državnih službenika i namještenika koji su zatečeni na poslovima koji nisu inspekcijski poslovi, razmjerno preuzetim poslovima.
+
+Državni službenici koji su u trenutku stupanja na snagu ovoga Zakona zatečeni na obavljanju preuzetih poslova nastavljaju obavljati poslove i primati plaću prema dosadašnjim rješenjima o rasporedu te obavljaju i druge poslove prema nalogu čelnika tijela, do raspoređivanja na radna mjesta sukladno pravilniku iz članka 32. stavka 2. ovoga Zakona.
+
+Danom stupanja na snagu ovoga Zakona Državni inspektorat, razmjerno preuzetim poslovima, preuzima i državne službenike i namještenike ministarstava iz stavka 1. ovoga članka koji su zatečeni na obavljanju poslova koji nisu inspekcijski poslovi.
+
+Državni službenici i namještenici iz stavka 5. ovoga članka nastavljaju obavljati poslove i primati plaću prema dosadašnjim rješenjima o rasporedu odnosno ugovorima o radu te obavljaju i druge poslove prema nalogu čelnika tijela, do raspoređivanja na radna mjesta odnosno sklapanja ugovora o radu sukladno pravilniku iz članka 30. stavka 2. ovoga Zakona.
+
+#### Članak 25.
+
+Ministarstvo financija, Ministarstvo graditeljstva i prostornoga uređenja, Ministarstvo rada i mirovinskoga sustava, Ministarstvo turizma, Ministarstvo poljoprivrede, Ministarstvo zaštite okoliša i energetike, Ministarstvo gospodarstva, poduzetništva i obrta i Ministarstvo zdravstva nastavljaju obavljati inspekcijske poslove do stupanja na snagu posebnog zakona kojim će se urediti rad Državnog inspektorata.
+
+#### Članak 26.
+
+Danom stupanja na snagu ovoga Zakona prestaju s radom Državni zavod za radiološku i nuklearnu sigurnost i Državna uprava za zaštitu i spašavanje.
+
+#### Članak 27.
+
+Danom stupanja na snagu ovoga Zakona Ministarstvo unutarnjih poslova preuzima poslove, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze Državnog zavoda za radiološku i nuklearnu sigurnost, kao i državne službenike i namještenike zatečene na obavljanju preuzetih poslova.
+
+Danom stupanja na snagu ovoga Zakona Ministarstvo unutarnjih poslova preuzima poslove inspekcije vatrogastva te poslove zaštite i spašavanja Državne uprave za zaštitu i spašavanje te, razmjerno preuzetim poslovima, preuzima i opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze Državne uprave za zaštitu i spašavanje, kao i državne službenike i namještenike zatečene na obavljanju preuzetih poslova.
+
+Do donošenja rješenja o rasporedu državnih službenika odnosno do sklapanja novog ugovora o radu namještenika državni službenici i namještenici iz stavaka 1. i 2. ovoga članka nastavljaju obavljati poslove sukladno dosadašnjim rješenjima odnosno ugovorima o radu i zadržavaju sva prava iz radnog odnosa sukladno donesenim rješenjima odnosno sklopljenim ugovorima o radu.
+
+Na preuzete državne službenike iz stavaka 1. i 2. ovog članka koji neće biti raspoređeni primijenit će se odredbe zakona kojim se uređuje radnopravni odnos državnih službenika o stavljanju državnih službenika na raspolaganje Vladi.
+
+Na preuzete namještenike iz stavaka 1. i 2. ovog članka s kojima neće biti sklopljen novi ugovor o radu primijenit će se opći propisi o radu.
+
+#### Članak 28.
+
+Danom stupanja na snagu ovoga Zakona Ministarstvo unutarnjih poslova preuzima poslove, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze Agencije za prostore ugrožene eksplozivnom atmosferom, kao i zaposlenike zatečene na obavljanju preuzetih poslova.
+
+Preuzeti zaposlenici iz stavka 1. ovog članka danom preuzimanja postaju državni službenici odnosno namještenici. Do donošenja rješenja o rasporedu državnih službenika odnosno do sklapanja novih ugovora o radu namještenika preuzeti zaposlenici nastavljaju obavljati poslove sukladno dosadašnjim ugovorima o radu i zadržavaju sva prava iz radnog odnosa sukladno sklopljenim ugovorima o radu.
+
+Ravnatelj Agencije za prostore ugrožene eksplozivnom atmosferom podnijet će prijavu za upis brisanja Agencije u sudskom registru u roku od 15 dana od dana stupanja na snagu ovog Zakona.
+
+Danom brisanja iz sudskog registra prestaje mandat ravnatelju, zamjeniku ravnatelja, predsjedniku i članovima Upravnog vijeća Agencije.
+
+#### Članak 29.
+
+Danom stupanja na snagu ovoga Zakona Ministarstvo regionalnoga razvoja i fondova Europske unije preuzima poslove, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze Agencije za regionalni razvoj Republike Hrvatske, kao i zaposlenike zatečene na obavljanju preuzetih poslova.
+
+Preuzeti zaposlenici iz stavka 1. ovog članka danom preuzimanja postaju državni službenici odnosno namještenici. Do donošenja rješenja o rasporedu državnih službenika odnosno do sklapanja novih ugovora o radu namještenika preuzeti zaposlenici nastavljaju obavljati poslove sukladno dosadašnjim ugovorima o radu i zadržavaju sva prava iz radnog odnosa sukladno sklopljenim ugovorima o radu.
+
+Danom brisanja iz sudskog registra prestaje mandat ravnatelju, zamjeniku ravnatelja, predsjedniku i članovima Upravnog vijeća Agencije.
+
+Postupak likvidacije Agencije za regionalni razvoj Republike Hrvatske neće se provoditi.
+
+#### Članak 30.
+
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona donijeti uredbu o unutarnjem ustrojstvu Državnog inspektorata.
+
+Čelnik Državnog inspektorata dužan je donijeti pravilnik o unutarnjem redu Državnog inspektorata u roku od 30 dana od dana stupanja na snagu uredbe iz stavka 1. ovoga članka.
+
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona donijeti uredbu o unutarnjem ustrojstvu Hrvatske vatrogasne zajednice.
+
+Čelnik Hrvatske vatrogasne zajednice dužan je donijeti pravilnik o unutarnjem redu Hrvatske vatrogasne zajednice u roku od 30 dana od dana stupanja na snagu uredbe iz stavka 3. ovog članka.
+
+#### Članak 31.
+
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslova, Ministarstva znanosti i obrazovanja, Ministarstva regionalnoga razvoja i fondova Europske unije, Ministarstva državne imovine, Središnjeg državnog ureda za razvoj digitalnog društva, Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje te Državnog zavoda za mjeriteljstvo s odredbama ovoga Zakona.
+
+Čelnici tijela iz stavka 1. ovoga članka dužni su uskladiti pravilnike o unutarnjem redu u roku od 30 dana od dana stupanja na snagu uredbi iz stavka 1. ovoga članka.
+
+#### Članak 32.
+
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti uredbe o unutarnjem ustrojstvu Ministarstva financija, Ministarstva graditeljstva i prostornoga uređenja, Ministarstva rada i mirovinskoga sustava, Ministarstva turizma, Ministarstva poljoprivrede, Ministarstva zaštite okoliša i energetike, Ministarstva gospodarstva, poduzetništva i obrta i Ministarstva zdravstva.
+
+Čelnici tijela iz stavka 1. ovog članka dužni su uskladiti pravilnike o unutarnjem redu u roku od 30 dana od dana stupanja na snagu uredbi iz stavka 1. ovoga članka.
+
+#### Članak 33.
+
+Državni inspektorat, u okviru djelokruga utvrđenog ovim Zakonom, nastavlja obavljati preuzete poslove prema dosadašnjim propisima do donošenja odnosno izmjene posebnih zakona kojima se uređuje njihovo obavljanje.
+
+#### Članak 34.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim članaka 1. i 18. u dijelu kojim se ustrojava Državni inspektorat i članka 24., članka 30. u dijelu koji se odnosi na Državni inspektorat i članka 32., koji stupaju na snagu 1. travnja 2019., te članaka 1. i 18. u dijelu kojim se ustrojava Hrvatska vatrogasna zajednica i članka 30. u dijelu koji se odnosi na Hrvatsku vatrogasnu zajednicu, koji stupaju na snagu 1. siječnja 2020.
+
+Klasa: 022-03/18-01/266
+
+Zagreb, 14. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (NN 127/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/127/2561*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O USTROJSTVU I DJELOKRUGU MINISTARSTAVA I DRUGIH SREDIŠNJIH TIJELA DRŽAVNE UPRAVE
+
+Proglašavam Zakon o izmjenama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave, koji je Hrvatski sabor donio na sjednici 13. prosinca 2019.
+
+Klasa: 011-01/19-01/231
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O USTROJSTVU I DJELOKRUGU MINISTARSTAVA I DRUGIH SREDIŠNJIH TIJELA DRŽAVNE UPRAVE**
+
+#### Članak 1.
+
+U Zakonu o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave (»Narodne novine«, br. 93/16., 104/16. i 116/18.) naziv Zakona mijenja se i glasi: »Zakon o ustrojstvu i djelokrugu tijela državne uprave«.
+
+#### Članak 2.
+
+Članak 1. mijenja se i glasi:
+
+»Ovim Zakonom ustrojavaju se tijela državne uprave te se utvrđuje njihov djelokrug.«.
+
+#### Članak 3.
+
+Članak 2. mijenja se i glasi:
+
+»Tijela državne uprave su ministarstva i državne upravne organizacije.«.
+
+#### Članak 4.
+
+Članak 3. mijenja se i glasi:
+
+»Ministarstva jesu:
+
+1. Ministarstvo vanjskih i europskih poslova
+
+2. Ministarstvo unutarnjih poslova
+
+3. Ministarstvo obrane
+
+4. Ministarstvo financija
+
+5. Ministarstvo pravosuđa
+
+6. Ministarstvo uprave
+
+7. Ministarstvo graditeljstva i prostornoga uređenja
+
+8. Ministarstvo rada i mirovinskoga sustava
+
+9. Ministarstvo za demografiju, obitelj, mlade i socijalnu politiku
+
+10. Ministarstvo kulture
+
+11. Ministarstvo turizma
+
+12. Ministarstvo poljoprivrede
+
+13. Ministarstvo znanosti i obrazovanja
+
+14. Ministarstvo zaštite okoliša i energetike
+
+15. Ministarstvo mora, prometa i infrastrukture
+
+16. Ministarstvo gospodarstva, poduzetništva i obrta
+
+17. Ministarstvo regionalnoga razvoja i fondova Europske unije
+
+18. Ministarstvo hrvatskih branitelja
+
+19. Ministarstvo zdravstva
+
+20. Ministarstvo državne imovine.«.
+
+#### Članak 5.
+
+Članak 4. mijenja se i glasi:
+
+»Državne upravne organizacije jesu:
+
+1. Središnji državni ured za šport
+
+2. Središnji državni ured za razvoj digitalnog društva
+
+3. Središnji državni ured za središnju javnu nabavu
+
+4. Središnji državni ured za obnovu i stambeno zbrinjavanje
+
+5. Središnji državni ured za Hrvate izvan Republike Hrvatske
+
+6. Hrvatska vatrogasna zajednica
+
+7. Državni inspektorat
+
+8. Državna geodetska uprava
+
+9. Državni hidrometeorološki zavod
+
+10. Državni zavod za intelektualno vlasništvo
+
+11. Državni zavod za mjeriteljstvo
+
+12. Državni zavod za statistiku.«.
+
+#### Članak 6.
+
+U članku 6. stavak 3. mijenja se i glasi:
+
+»Ministarstvo obavlja inspekcijske poslove u području civilne zaštite, zaštite od požara, proizvodnje i prometa eksplozivnih tvari i oružja, privatne zaštite i detektivskih poslova, radiološke i nuklearne sigurnosti te protuminskog djelovanja.«.
+
+#### Članak 7.
+
+Članak 14. mijenja se i glasi:
+
+»Ministarstvo kulture obavlja upravne i druge poslove u području kulture koji se odnose na: razvitak i unapređenje kulture, kulturnog i umjetničkog stvaralaštva, kulturnog života i kulturnih djelatnosti; osnivanja ustanova i drugih pravnih osoba u kulturi; promicanje kulturnih veza s drugim zemljama i međunarodnim institucijama; stručne i upravne poslove za Hrvatsko povjerenstvo za UNESCO; poticanje razvoja kulturnih i kreativnih industrija; normativne i upravne poslove u području medija; poticanje programa kulturnih potreba pripadnika hrvatskoga naroda u drugim zemljama; osiguravanje financijskih, materijalnih i drugih uvjeta za obavljanje i razvitak djelatnosti kulture, a osobito muzejske, galerijske, knjižničarske, arhivske, kazališne, glazbene i glazbeno-scenske, nakladničke, likovne i audiovizualne.
+
+Ministarstvo obavlja upravne i druge poslove koji se odnose na: istraživanje, proučavanje, praćenje, evidentiranje, dokumentiranje i promicanje kulturne baštine; središnju informacijsko-dokumentacijsku službu; utvrđivanje svojstva zaštićenih kulturnih dobara; propisivanje mjerila za utvrđivanje programa javnih potreba u kulturi Republike Hrvatske; skrb, usklađivanje i vođenje nadzora nad financiranjem programa zaštite kulturne baštine; osnivanje i nadzor nad ustanovama za obavljanje poslova djelatnosti zaštite kulturne baštine; ocjenjivanje uvjeta za rad pravnih i fizičkih osoba na restauratorskim, konzervatorskim i drugim poslovima zaštite kulturne baštine; osiguranje uvjeta za obrazovanje i usavršavanje stručnih radnika u poslovima zaštite kulturne baštine; provedbu nadzora prometa, uvoza i izvoza zaštićenih kulturnih dobara; utvrđivanje uvjeta za korištenje i namjenu kulturnih dobara te upravljanje kulturnim dobrima sukladno propisima; utvrđivanje posebnih uvjeta građenja za zaštitu dijelova kulturne baštine; obavljanje inspekcijskih poslova zaštite kulturne baštine.
+
+Ministarstvo obavlja upravne i druge poslove koji se odnose na praćenje i usklađivanje politika u području zaštite autorskog i srodnih prava te provedbu mjera za unapređenje utvrđenog stanja u ovom području.
+
+Ministarstvo sudjeluje s ministarstvom nadležnim za upravljanje državnom imovinom u poslovima upravljanja i raspolaganja dionicama i poslovnim udjelima trgovačkih društava koji čine državnu imovinu u vlasništvu Republike Hrvatske te u pogledu trgovačkih društava koja se pretežno bave djelatnostima iz područja propisane nadležnosti ovoga Ministarstva.
+
+Ministarstvo obavlja poslove koji se odnose na sudjelovanje Republike Hrvatske u radu tijela Europske unije u područjima iz njegove nadležnosti.
+
+Ministarstvo obavlja i druge poslove koji su mu stavljeni u djelokrug posebnim zakonom.«.
+
+#### Članak 8.
+
+U članku 19. stavku 3. riječ: »središnjih« briše se.
+
+#### Članak 9.
+
+U članku 23. stavak 1. mijenja se i glasi:
+
+»Ministarstvo zdravstva obavlja upravne i druge poslove koji se odnose na: sustav zdravstvene zaštite i zdravstvenog osiguranja; praćenje i unapređivanje zdravstvenog stanja i zdravstvenih potreba stanovništva, zaštitu stanovništva od zaraznih i nezaraznih bolesti, neionizirajućih zračenja; zaštitu od buke; zdravstvenu ispravnost i higijenu hrane u skladu s posebnim propisom o hrani; predmete opće uporabe; ograničavanje uporabe duhana i srodnih proizvoda; kemikalije; biocidne proizvode; vodu za ljudsku potrošnju; područje genetski modificiranih organizama; proizvodnju, promet i potrošnju droga, psihotropnih tvari i prekursora; odobravanje provođenja kliničkih ispitivanja lijekova i medicinskih proizvoda, donacije lijekova i medicinskih proizvoda zdravstvenim ustanovama; odobravanje donacija robe, radova, usluga i financijskih sredstava u zdravstvu; korištenje zdravstvenih potencijala; investiranje u zdravstvu; osnivanje zdravstvenih ustanova i privatne prakse te trgovačkih društava za obavljanje zdravstvene djelatnosti; zdravstvene usluge u turizmu; organiziranje stručnih ispita zdravstvenih radnika te njihovo specijalističko usavršavanje; priznavanje naziva primarijusa; dodjelu naziva zdravstvenim ustanovama: referentni centar, klinika, klinička bolnica i klinički bolnički centar; upravni nadzor nad radom Hrvatskog zavoda za zdravstveno osiguranje, Hrvatskoga Crvenog križa, komora i drugih pravnih osoba u zdravstvu s javnim ovlastima; zdravstveno-inspekcijski nadzor nad radom zdravstvenih ustanova i zdravstvenih radnika, privatnom praksom te trgovačkih društava za obavljanje zdravstvene djelatnosti: inspekcijski nadzor nad ispitivanjem, izradom, prometom, posredovanjem, provjerom kakvoće lijekova, ispitivanih lijekova, djelatnih i pomoćnih tvari te oglašavanjem o lijeku te nadzor nad proizvodnjom, prometom, ocjenom sukladnosti medicinskog proizvoda te oglašavanjem o medicinskom proizvodu i vigilancijom medicinskih proizvoda; nadzor nad provođenjem odobrenih kliničkih ispitivanja lijekova i medicinskih proizvoda, inspekcijski nadzor u području biomedicine i biovigilanciju; provođenje postupka akreditacije nositelja zdravstvene djelatnosti; provođenje postupka provjere uspostavljenosti standarda kvalitete; provođenje postupka procjene zdravstvenih tehnologija; vođenje baze podataka procijenjenih zdravstvenih tehnologija; uspostavljanje sustava za procjenu novih ili već postojećih zdravstvenih tehnologija; suradnju s pravnim i fizičkim osobama na području procjene zdravstvenih tehnologija; ostvarivanje međunarodne suradnje na području procjene zdravstvenih tehnologija; vođenje registra danih akreditacija nositelja zdravstvene djelatnosti te osiguravanje baze podataka vezano uz akreditiranje, unapređivanje kvalitete zdravstvene zaštite, edukaciju i procjenjivanje medicinskih tehnologija; organiziranje edukacije na području osiguranja, unapređenja i promicanja kvalitete zdravstvene zaštite te procjene zdravstvenih tehnologija; nadziranje standarda zdravstvenih osiguranja; obavljanje i drugih poslova na području osiguranja, unapređenja, promicanja i praćenja kvalitete zdravstvene zaštite; planiranje strateškog razvoja te primjenu standarda kvalitete i sigurnosti ljudskih presadaka (organi, tkiva i stanice) i krvnih pripravaka u svrhu osiguranja visoke razine zaštite zdravlja u području biomedicine i transplantacije; upravljanje i koordiniranje sustava zdravstva u većim incidentnim/kriznim situacijama.«.
+
+#### Članak 10.
+
+U članku 27. stavku 1. riječ: »središnja« briše se.
+
+#### Članak 11.
+
+U članku 29.a stavak 1. mijenja se i glasi:
+
+»Hrvatska vatrogasna zajednica obavlja upravne i stručne poslove koji se odnose na vatrogastvo; provodi osposobljavanje pripadnika vatrogasnih postrojbi; pruža tehničku pomoć u nezgodama i opasnim situacijama; obavlja inspekcijske poslove u području vatrogastva te obavlja i druge poslove u svezi s vatrogastvom.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 12.
+
+Danom stupanja na snagu ovoga Zakona Hrvatska vatrogasna zajednica preuzima poslove inspekcije vatrogastva iz djelokruga Ministarstva unutarnjih poslova.
+
+Danom stupanja na snagu ovoga Zakona Hrvatska vatrogasna zajednica od Ministarstva unutarnjih poslova preuzima opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze, razmjerno preuzetim poslovima, te državne službenike zatečene na obavljanju preuzetih poslova.
+
+Čelnik Hrvatske vatrogasne zajednice će u roku od 30 dana od dana stupanja na snagu ovoga Zakona s ministrom unutarnjih poslova sklopiti sporazum o preuzimanju u Hrvatsku vatrogasnu zajednicu državnih službenika koji su zatečeni na preuzetim poslovima.
+
+Državni službenici iz stavka 3. ovoga članka nastavljaju obavljati poslove i zadržavaju sva prava iz radnog odnosa sukladno dosadašnjim rješenjima o rasporedu, do donošenja rješenja o rasporedu na odgovarajuća radna mjesta u Hrvatskoj vatrogasnoj zajednici.
+
+Na preuzete državne službenike iz stavka 3. ovoga članka koji neće biti raspoređeni primijenit će se odredbe zakona kojim se uređuje radnopravni odnos državnih službenika o stavljanju državnih službenika na raspolaganje Vladi Republike Hrvatske.
+
+#### Članak 13.
+
+Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladiti uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslova i Ministarstva kulture s odredbama ovoga Zakona.
+
+Čelnici tijela državne uprave iz stavka 1. ovoga članka uskladit će pravilnike o unutarnjem redu u roku od 30 dana od dana stupanja na snagu uredbi iz stavka 1. ovoga članka.
+
+#### Članak 14.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 2. siječnja 2020.
+
+Klasa: 022-03/19-01/226
+
+Zagreb, 13. prosinca 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,15 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1994-02-10
-last_amended: 2011-02-09
+last_amended: 2026-06-09
 status: in_force
-status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "9/94, 117/08, 75/09, 18/11"
+narodne_novine: "9/94, 117/08, 75/09, 18/11, 126/21, 98/25, 59/26"
 amendments:
   - "NN 117/2008 (3374) Zakon o izmjenama i dopunama Zakona o odvjetništvu"
   - "NN 75/2009 (1786) Zakon o izmjeni i dopuni Zakona o odvjetništvu"
   - "NN 18/2011 (313) Zakon o izmjenama i dopuni Zakona o odvjetništvu"
+  - "NN 126/2021 (2133) Zakon o izmjenama i dopunama Zakona o odvjetništvu"
+  - "NN 98/2025 (1358) Zakon o izmjenama i dopunama Zakona o odvjetništvu"
+  - "NN 59/2026 (730) Zakon o izmjenama i dopunama Zakona o odvjetništvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/157"
 retrieved: 2026-10-12
 ---
@@ -23,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 9/1994 (https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/157).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 117/2008, NN 75/2009, NN 18/2011.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 117/2008, NN 75/2009, NN 18/2011, NN 126/2021, NN 98/2025, NN 59/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1296,3 +1299,514 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o odvjetništvu (NN 126/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/126/2133*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ODVJETNIŠTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o odvjetništvu, koji je Hrvatski sabor donio na sjednici 12. studenoga 2021.
+
+Klasa: 011-01/21-01/84
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 17. studenoga 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ODVJETNIŠTVU**
+
+### Članak 1.
+
+U Zakonu o odvjetništvu (»Narodne novine«, br. 9/94., 117/08., 50/09., 75/09. i 18/11.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovim se Zakonom u hrvatsko zakonodavstvo preuzimaju sljedeći akti Europske unije:
+
+– Direktiva 98/5/EZ Europskog parlamenta i Vijeća od 16. veljače 1998. o olakšavanju stalnog obavljanja odvjetničke djelatnosti u državi članici različitoj od one u kojoj je stečena kvalifikacija (SL L 77, 14. 3. 1998.),
+
+– Direktiva 2006/123/EZ Europskog parlamenta i Vijeća od 12. prosinca 2006. o uslugama na unutarnjem tržištu (SL L 376, 27. 12. 2006.),
+
+– Direktiva 2005/36/EZ Europskog parlamenta i Vijeća od 7. rujna 2005. o priznavanju stručnih kvalifikacija izmijenjena Direktivom 2013/55/EU Europskog parlamenta i Vijeća od 20. studenoga 2013. (SL L 255, 30. 9. 2005.),
+
+– Direktiva (EU) 2018/843 Europskog parlamenta i Vijeća od 30. svibnja 2018. o izmjeni Direktive (EU) 2015/849 o sprečavanju korištenja financijskog sustava u svrhu pranja novca ili financiranja terorizma i o izmjeni direktiva 2009/138/EZ i 2013/36/EU (SL L 156, 19. 6. 2018.),
+
+– Direktiva (EU) 2015/849 Europskog parlamenta i Vijeća od 20. svibnja 2015. o sprečavanju korištenja financijskog sustava u svrhu pranja novca ili financiranja terorizma, o izmjeni Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća te o stavljanju izvan snage Direktive 2005/60/EZ Europskog parlamenta i Vijeća i Direktive Komisije 2006/70/EZ (SL L 141, 5. 6. 2015.),
+
+– Direktiva Vijeća 2013/25/EU od 13. svibnja 2013. o prilagođavanju određenih direktiva u području prava poslovnog nastana i slobode pružanja usluga zbog pristupanja Republike Hrvatske (SL L 158, 10. 6. 2013.),
+
+– 77/249/EEZ: Direktiva Vijeća od 22. ožujka 1977. o olakšavanju učinkovitog ostvarivanja slobode pružanja odvjetničkih usluga (SL L 78, 26. 3. 1977.).«.
+
+### Članak 2.
+
+Članak 4. mijenja se i glasi:
+
+»(1) Odvjetnik odvjetničku službu može obavljati samostalno, u zajedničkom uredu ili u odvjetničkom društvu u skladu s odredbama ovoga Zakona.
+
+(2) Odvjetnik može istodobno obavljati odvjetničku službu samo u jednom od organizacijskih oblika obavljanja odvjetništva iz stavka 1. ovoga članka.
+
+(3) Odvjetnik može zasnovati radni odnos kod odvjetnika koji samostalno obavlja odvjetničku službu, u odvjetničkom društvu ili kod odvjetnika koji odvjetničku službu obavlja u zajedničkom odvjetničkom uredu.
+
+(4) Odvjetnik ne smije obavljati djelatnosti koje su nespojive s ugledom i neovisnošću odvjetnika.«.
+
+### Članak 3.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Svaki podnesak i ispravu koje sastavi odvjetnik mora potpisati i na njih staviti pečat svog odvjetničkog ureda odnosno potpisati ih kvalificiranim elektroničkim potpisom.
+
+(2) Odvjetnik koji odvjetničku službu obavlja u odvjetničkom društvu, zajedničkom odvjetničkom uredu ili koji ima zasnovan radni odnos s odvjetnikom koji samostalno obavlja odvjetničku službu, uz pečat odvjetničkog društva, zajedničkog odvjetničkog ureda ili odvjetnika koji samostalno obavlja odvjetničku službu i s kojim ima zasnovan radni odnos mora staviti i svoj pečat, osim ako pečat odvjetničkog društva, zajedničkog odvjetničkog ureda ili odvjetnika koji samostalno obavlja odvjetničku službu i s kojim ima zasnovan radni odnos sadrži i njegovo ime.«.
+
+### Članak 4.
+
+Iza članka 15. dodaju se naslov iznad članka i članak 15.a koji glase:
+
+*»Obveza stalnog stručnog usavršavanja*
+
+### Članak 15.a
+
+(1) Odvjetnici su dužni stalno se stručno usavršavati.
+
+(2) Program i način provedbe stručnog usavršavanja odvjetnika pravilima propisuje Komora.«.
+
+### Članak 5.
+
+U članku 18. stavak 2. mijenja se i glasi:
+
+»(2) Visinu nagrade za rad odvjetnika prilikom obrana po službenoj dužnosti te obrana na teret proračunskih sredstava i odvjetnika kao opunomoćenika djeteta žrtve kaznenog djela pravilnikom utvrđuje ministar nadležan za poslove pravosuđa.«.
+
+### Članak 6.
+
+Članak 22. mijenja se i glasi:
+
+»(1) Odvjetnici, zajednički uredi i odvjetnička društva imaju urede, a mogu imati i pisarnice.
+
+(2) Sjedište odvjetničkog ureda je mjesto koje je odvjetnik naznačio u izjavi kao sjedište ureda prilikom podnošenja prijave Komori za upis u Imenik odvjetnika.
+
+(3) Sjedište pisarnice odvjetničkog ureda je mjesto koje je odvjetnik naznačio prilikom podnošenja prijave Komori za upis u Imenik odvjetnika odnosno namjere osnivanja pisarnice.«.
+
+### Članak 7.
+
+U članku 23. stavku 1. iza riječi: »ureda« dodaju se riječi: »odnosno pisarnice«.
+
+U stavku 2. riječ: »i« zamjenjuje se riječju: »odnosno«.
+
+### Članak 8.
+
+Naslov iznad članka 24. mijenja se i glasi: »Nesamostalan rad odvjetnika«.
+
+Članak 24. mijenja se i glasi:
+
+»Na radni odnos odvjetnika kod odvjetnika koji samostalno obavlja odvjetničku službu, u odvjetničkom društvu ili kod odvjetnika koji odvjetničku službu obavlja u zajedničkom odvjetničkom uredu primjenjuju se opći propisi o radu te odredbe ovoga Zakona i drugih općih akata Komore.«.
+
+### Članak 9.
+
+U članku 27. stavci 4. i 5. mijenjaju se i glase:
+
+»(4) Odvjetničko društvo može osnovati drugo odvjetničko društvo.
+
+(5) Najniži iznos temeljnog kapitala za osnivanje odvjetničkog društva s ograničenom odgovornošću iznosi 350.000,00 kuna.«.
+
+### Članak 10.
+
+Članak 27.a mijenja se i glasi:
+
+»(1) Odvjetnička društva iz države članice Europske unije i iz države članice Svjetske trgovinske organizacije mogu u Republici Hrvatskoj osnivati svoje podružnice, sukladno obvezama Republike Hrvatske prema međunarodnim ugovorima, zakonu kojim se uređuju trgovačka društva i ovom Zakonu.
+
+(2) Podružnice odvjetničkih društava iz države članice Europske unije mogu u Republici Hrvatskoj pružati pravne usluge koje uključuju usluge savjetovanja o pravu svoje matične države, o pravu Europske unije, međunarodnom pravu i pravu Republike Hrvatske.
+
+(3) Podružnice odvjetničkih društava iz države članice Svjetske trgovinske organizacije mogu u Republici Hrvatskoj pružati pravne usluge koje uključuju usluge savjetovanja o pravu svoje matične države, o pravu Europske unije i međunarodnom pravu.«.
+
+### Članak 11.
+
+Članak 28. mijenja se i glasi:
+
+»(1) Član odvjetničkog društva može biti odvjetnik ili odvjetničko društvo.
+
+(2) Pisanim ugovorom o osnivanju društva moraju biti uređena prava i obveze članova društva te preostalih članova društva u slučaju smrti odnosno prestanka postojanja kojega od članova društva, kao i prava nasljednika odnosno sljednika ranijeg člana društva.«.
+
+### Članak 12.
+
+U članku 31. stavak 1. mijenja se i glasi:
+
+»(1) Za osnivanje odvjetničkog društva i upis promjene u registru trgovačkih društava osnivači su dužni pribaviti potvrdu Komore da su upisani u odgovarajući imenik te da su osnivački akt odnosno promjene sukladni ovom Zakonu te Statutu, Kodeksu odvjetničke etike i drugim općim aktima Komore, bez koje se potvrde Komore društvo odnosno promjene ne mogu upisati u registar trgovačkih društava.«.
+
+### Članak 13.
+
+Članak 36.a mijenja se i glasi:
+
+»(1) Odvjetnik iz države članice Europske unije upisuje se u Imenik stranih odvjetnika koji u Republici Hrvatskoj mogu obavljati odvjetničku službu pod nazivom »odvjetnik«, sa svim pravima i dužnostima u obavljanju odvjetničke službe, ako ispunjava uvjete iz članka 48. stavka 1. točki 2., 3., 8., 10., 11., 12. i 13. ovoga Zakona i ako položi ispit iz poznavanja pravnog poretka Republike Hrvatske.
+
+(2) Program, postupak i način provedbe ispita iz poznavanja pravnog poretka Republike Hrvatske za svakog podnositelja zahtjeva za upis u Imenik iz stavka 1. ovoga članka utvrđuje Komora, uzimajući u obzir sva znanja, vještine i kompetencije koje je odvjetnik iz druge države članice Europske unije stekao u toj ili drugoj državi članici Europske unije ili trećoj državi.
+
+(3) Odvjetnik iz države članice Europske unije oslobođen je obveze polaganja ispita iz poznavanja pravnog poretka Republike Hrvatske ako se u postupku iz stavka 2. ovoga članka utvrdi da ne postoji znatna razlika između stečenih znanja, vještina i kompetencija te znanja, vještina i kompetencija potrebnih za upis u Imenik odvjetnika.
+
+(4) Ako se u postupku iz stavka 2. ovoga članka utvrde znatne razlike između stečenih znanja, vještina i kompetencija te znanja, vještina i kompetencija potrebnih za upis u Imenik odvjetnika, odvjetnik iz države članice Europske unije polaže ispit samo iz područja za koje su takve razlike utvrđene.
+
+(5) Zahtjevu za upis u Imenik iz stavka 1. ovoga članka odvjetnik prilaže, u prijevodu na hrvatski jezik, dokaz o pravu na obavljanje odvjetničke službe u svojoj matičnoj državi kao i druge dokaze o ispunjavanju uvjeta iz stavka 1. ovoga članka.
+
+(6) Uvjet iz članka 48. stavka 1. točke 10. ovoga Zakona dokazuje se potvrdom izdanom sukladno propisima matične države odvjetnika.
+
+(7) Odvjetnici iz ovoga članka mogu zastupati stranke pred sudovima i drugim tijelima u Republici Hrvatskoj uz uvjete utvrđene ovim Zakonom.
+
+(8) Pravila o utvrđivanju programa, postupka i načina provedbe ispita iz poznavanja pravnog poretka Republike Hrvatske donosi Komora.«.
+
+### Članak 14.
+
+Članak 36.b mijenja se i glasi:
+
+»(1) Odvjetnik iz države članice Europske unije upisuje se u Imenik stranih odvjetnika koji u Republici Hrvatskoj mogu obavljati odvjetničku službu pod nazivom zanimanja iz svoje matične države ako priloži dokaz o upisu u odvjetničke udruge u matičnoj ili nekoj drugoj državi odnosno pri nadležnom tijelu matične države.
+
+(2) Zahtjevu za upis u Imenik iz stavka 1. ovoga članka prilaže se, u prijevodu na hrvatski jezik, dokaz o državljanstvu, dokaz o osiguranju od profesionalne odgovornosti te dokaz o članstvu u odvjetničkim udrugama u matičnoj ili nekoj drugoj državi.
+
+(3) Odvjetnik koji je upisan u Imenik stranih odvjetnika iz stavka 1. ovoga članka oslobađa se u cijelosti ili djelomice osiguranja iz članka 44. ovoga Zakona ako je u matičnoj državi u cijelosti ili djelomično istovrijedno osiguran glede uvjeta i opsega pokrića osiguranja.
+
+(4) O upisu u Imenik iz stavka 1. ovoga članka Komora će izvijestiti nadležno tijelo matične države odvjetnika.
+
+(5) Odvjetnik koji je upisan u Imenik iz stavka 1. ovoga članka odvjetničku službu obavlja koristeći pri tome naziv iz svoje matične države izražen na službenom jeziku ili na jednom od službenih jezika svoje matične države, uz naznaku tijela pri kojem je upisan u svojoj matičnoj državi.
+
+(6) Odvjetnik iz stavka 1. ovoga članka koji odvjetničku službu obavlja pod nazivom zanimanja iz svoje matične države, a koji najmanje tri godine redovito i uspješno obavlja odvjetničku službu u Republici Hrvatskoj može se upisati u Imenik odvjetnika Komore i obavljati odvjetničku službu pod nazivom »odvjetnik«.
+
+(7) Odvjetnik iz stavka 1. ovoga članka može odvjetničku službu obavljati kao odvjetničko društvo ili zajednički odvjetnički ured pod nazivom zanimanja iz svoje matične države, a može koristiti naziv odvjetničkog društva ili zajedničkog odvjetničkog ureda kojega je član. Odvjetnik koji želi obavljati službu pod nazivom korištenim u matičnoj državi obavijestit će Komoru o činjenici da je član odvjetničkog društva ili zajedničkoga odvjetničkog ureda u matičnoj državi i o tome dostaviti sve potrebne podatke.
+
+(8) Odvjetnik iz stavka 1. ovoga članka koji svoju djelatnost obavlja pod nazivom zanimanja iz svoje matične države može osnovati odvjetničko društvo ili zajednički odvjetnički ured s odvjetnicima iz Republike Hrvatske ili odvjetnicima iz druge države članice Europske unije te zajedno s odvjetnicima iz Republike Hrvatske ili odvjetnicima iz druge države članice Europske unije zajednički obavljati odvjetničku djelatnost sukladno odredbama ovoga Zakona i drugim propisima.
+
+(9) Odvjetnik iz stavka 1. ovoga članka može zastupati stranke pred sudovima i drugim tijelima u Republici Hrvatskoj uz uvjete utvrđene ovim Zakonom.«.
+
+### Članak 15.
+
+Članak 36.e mijenja se i glasi:
+
+»(1) Odvjetnik iz države članice Europske unije koji nije upisan u Imenik stranih odvjetnika na temelju članka 36.a, 36.b ili 36.d ovoga Zakona smije obavljati pojedine radnje (sloboda pružanja usluga) u okviru obavljanja odvjetničke službe u skladu s odredbama članka 36.c stavka 1. i 2. ovoga Zakona.
+
+(2) Odvjetnik iz stavka 1. ovoga članka koji namjerava obavljati radnje zastupanja pred sudovima u Republici Hrvatskoj dužan je o tome pisanim putem obavijestiti Komoru te priložiti dokaze o osposobljenosti za obavljanje odvjetničke službe i dokaze o osiguranju od profesionalne odgovornosti u matičnoj državi. Odvjetnik koji zastupa stranke pred sudovima u Republici Hrvatskoj može od Komore zahtijevati izdavanje odgovarajuće potvrde radi lakšeg predstavljanja sudu, u kojem mu je slučaju Komora dužna izdati takvu potvrdu.
+
+(3) Odvjetnik iz stavka 1. ovoga članka, u slučajevima iz stavka 2. ovoga članka, koji zastupa stranke pred sudovima u Republici Hrvatskoj djeluje zajedno s odvjetnikom koji u Republici Hrvatskoj ima pravo obavljati odvjetničku službu pod nazivom »odvjetnik«.
+
+(4) Odvjetnik iz stavka 1. ovoga članka kojem je prije u Republici Hrvatskoj odbijen upis u odgovarajući imenik odvjetnika zbog neispunjavanja uvjeta iz članka 48. točke 10. ovoga Zakona, ne može u Republici Hrvatskoj obavljati radnje sukladno stavku 1. ovoga članka.«.
+
+### Članak 16.
+
+U članku 48. stavku 1. točka 5. mijenja se i glasi:
+
+»5. da je završila sveučilišni studij prava na pravnom fakultetu u Republici Hrvatskoj ili kojoj je priznata inozemna visokoškolska kvalifikacija,«.
+
+### Članak 17.
+
+U članku 54. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Obavljanje odvjetničke službe može mirovati i u drugim slučajevima u kojima odvjetnik zbog više sile, izvanrednih događaja ili drugih opravdanih razloga dulje vrijeme ne može obavljati odvjetničku službu.«.
+
+Dosadašnji stavak 3., koji postaje stavak 4., mijenja se i glasi:
+
+»(4) U slučajevima iz ovoga članka tijelo Komore određeno Statutom rješenjem o mirovanju obavljanja odvjetničke službe odvjetniku postavlja privremenog zastupnika ili rješenjem o mirovanju obavljanja odvjetničke službe utvrđuje da je odvjetnik dogovorio zamjenu s drugim odvjetnikom i o tome obavijestio Komoru.«.
+
+### Članak 18.
+
+Članak 56. mijenja se i glasi:
+
+»(1) Odvjetniku prestaje pravo na obavljanje odvjetništva:
+
+1. smrću,
+
+2. ako izgubi hrvatsko državljanstvo,
+
+3. ako izgubi poslovnu sposobnost,
+
+4. ako postane trajno zdravstveno nesposoban za obavljanje odvjetništva,
+
+5. ako mu je izrečena mjera sigurnosti zabrane obavljanja odvjetništva,
+
+6. ako mu je disciplinskom kaznom izrečena trajna zabrana obavljanja odvjetništva,
+
+7. ako se sam odrekne obavljanja odvjetništva,
+
+8. ako stupi u radni odnos, osim kod odvjetnika koji samostalno obavlja odvjetničku službu, u odvjetničkom društvu ili kod odvjetnika koji odvjetničku službu obavlja u zajedničkom odvjetničkom uredu,
+
+9. ako je osuđen na bezuvjetnu kaznu zatvora dulju od šest mjeseci.
+
+(2) Iznimno od stavka 1. točke 8. ovoga članka, odvjetniku iz Republike Hrvatske s poslovnim nastanom u drugoj državi članici Europske unije ne prestaje pravo na obavljanje odvjetništva u slučaju stupanja u radni odnos izvan odvjetništva ako je to prema propisima te države članice Europske unije dozvoljeno.«.
+
+### Članak 19.
+
+U članku 58. stavku 1. točki 3. riječi: »odnosno ako nije obavljao odvjetništvo bez opravdanog razloga dulje od šest mjeseci,« brišu se.
+
+### Članak 20.
+
+Članak 63. mijenja se i glasi:
+
+»(1) Komora, odvjetnici i odvjetnička društva u čijim uredima vježbenici rade dužni su brinuti se za stručnu i praktičnu poduku vježbenika, kao i za usvajanje pravila Kodeksa odvjetničke etike.
+
+(2) Odvjetnički vježbenici nakon 18 mjeseci vježbeničke prakse u odvjetničkom uredu imaju pravo pristupiti polaganju pravosudnog ispita, sukladno zakonu kojim je propisano polaganje pravosudnog ispita.«.
+
+### Članak 21.
+
+U članku 78. stavak 1. mijenja se i glasi:
+
+»(1) Protiv drugostupanjske osuđujuće odluke disciplinskih tijela Komore dopušten je priziv Vrhovnom sudu Republike Hrvatske u roku od 15 dana od dana dostave drugostupanjske odluke.«.
+
+### Članak 22.
+
+Članak 79. mijenja se i glasi:
+
+»(1) Disciplinski progon zastarijeva nakon osam godina za teže povrede dužnosti i ugleda odvjetništva odnosno nakon četiri godine za lakše povrede dužnosti i ugleda odvjetništva.
+
+(2) Zastara disciplinskog progona počinje teći danom kad je teža odnosno lakša povreda dužnosti i ugleda odvjetništva počinjena. Ako posljedica koja je obilježje teže povrede dužnosti i ugleda odvjetništva nastupi kasnije, zastara počinje teći od tog trenutka.
+
+(3) Ako teža povreda dužnosti i ugleda odvjetništva proizlazi iz pravomoćne presude kojom je odvjetnik osuđen za kazneno djelo koje dovodi u pitanje njegovu dostojnost za daljnje obavljanje odvjetništva, zastara počinje teći od dana pravomoćnosti osuđujuće presude donesene u kaznenom postupku.
+
+(4) Zastara disciplinskog progona ne teče za vrijeme za koje se prema zakonu disciplinski progon ne može poduzeti ili se ne može nastaviti.
+
+(5) Ako je prije isteka roka iz stavka 1. ovoga članka donesena prvostupanjska presuda, zastara vođenja disciplinskog postupka produljuje se za dvije godine kod postupka za teže povrede dužnosti i ugleda odvjetništva odnosno za jednu godinu kod postupka za lakšu povredu dužnosti i ugleda odvjetništva.
+
+(6) Zastara izvršenja disciplinske mjere i troškova disciplinskog postupka nastupa u roku od deset godina od dana pravomoćnosti presude odnosno od dana isteka roka na koji je izvršenje disciplinske mjere odgođeno.
+
+(7) Zastara izvršenja disciplinske mjere i troškova disciplinskog postupka ne teče za vrijeme za koje se prema zakonu izvršenje disciplinske mjere ne može započeti ili nastaviti.
+
+(8) Ako se prije nastupa zastare disciplinskog progona ili zastare izvršenja presude disciplinske mjere i troškova disciplinskog postupka promijeni rok zastare, primijenit će se zastarni rokovi novog zakona.«.
+
+### Članak 23.
+
+(1) U cijelom tekstu Zakona o odvjetništvu (»Narodne novine«, br. 9/94., 117/08., 50/09., 75/09. i 18/11.) riječi: »odvjetnički posao«, »odvjetnička djelatnost«, »odvjetnički poziv«, »odvjetničko zanimanje«, »odvjetničko zvanje« i »odvjetnička dužnost« u određenom broju i padežu zamjenjuju se riječima: »odvjetnička služba« u odgovarajućem broju i padežu.
+
+(2) U cijelom tekstu Zakona o odvjetništvu (»Narodne novine«, br. 9/94., 117/08., 50/09., 75/09. i 18/11.) riječi: »ministar pravosuđa« u određenom padežu zamjenjuju se riječima: »ministar nadležan za poslove pravosuđa« u odgovarajućem padežu, a riječi: »Ministarstvo pravosuđa« u određenom padežu zamjenjuju se riječima: »ministarstvo nadležno za poslove pravosuđa« u odgovarajućem padežu.
+
+### Članak 24.
+
+(1) Pravilnik iz članka 5. ovoga Zakona ministar nadležan za poslove pravosuđa donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Pravila iz članka 4. i članka 13. ovoga Zakona Komora će donijeti u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 25.
+
+Postupci započeti po odredbama Zakona o odvjetništvu (»Narodne novine«, br. 9/94., 117/08., 50/09., 75/09. i 18/11.) koji ne budu dovršeni do dana stupanja na snagu ovoga Zakona dovršit će se po odredbama Zakona o odvjetništvu (»Narodne novine«, br. 9/94., 117/08., 50/09., 75/09. i 18/11.).
+
+### Članak 26.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/115  
+Zagreb, 12. studenoga 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o odvjetništvu (NN 98/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/98/1358*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ODVJETNIŠTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o odvjetništvu, koji je Hrvatski sabor donio na sjednici 27. lipnja 2025.
+
+Klasa: 011-02/25-02/59
+
+Urbroj: 71-10-01/1-25-2
+
+Zagreb, 2. srpnja 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ODVJETNIŠTVU**
+
+### Članak 1.
+
+U Zakonu o odvjetništvu (»Narodne novine«, br. 9/94., 117/08., 50/09. – ispravak, 75/09., 18/11. i 126/21.) u članku 5.a iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Odredbe ovoga članka na odgovarajući se način primjenjuju i na odvjetnike iz država pristupnica Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj.«.
+
+### Članak 2.
+
+Naslov iznad članka 16. mijenja se i glasi: »Istražni zatvor«.
+
+Članak 16. mijenja se i glasi:
+
+»(1) Protiv odvjetnika ne smije biti određen istražni zatvor zbog kaznenog djela počinjenog u pružanju pravne pomoći bez prethodnog odobrenja vijeća nadležnog suda sastavljenog od troje sudaca.
+
+(2) U slučaju određivanja istražnog zatvora zbog kaznenog djela počinjenog u pružanju pravne pomoći odvjetnik ima pravo tražiti da se o određivanju istražnog zatvora, osnovi određivanja i mjestu gdje se nalazi obavijesti Komora bez nepotrebnog odgađanja, o kojem pravu odvjetnik mora biti posebno poučen.
+
+(3) Predstavnik Komore ili područnog zbora ima pravo na učinkovit pristup odvjetniku iz stavka 1. ovoga članka, a ovo se pravo može ograničiti samo ako je to nužno radi zaštite interesa postupka ili drugih važnih interesa.«.
+
+### Članak 3.
+
+Iza članka 16. dodaju se naslov iznad članka i članak 16.a koji glase:
+
+*»Pravo na prisustvovanje raspravi i na obaviještenost*
+
+### Članak 16.a
+
+(1) Predstavnik Komore ili područnog zbora ima pravo prisustvovati na raspravi u postupku koji se protiv odvjetnika vodi u vezi s pružanjem pravne pomoći.
+
+(2) Nadležna tijela kaznenog progona dužna su bez nepotrebnog odgađanja obavijestiti Komoru o napadu na odvjetnike ili ubojstvu odvjetnika ako postoji sumnja da su napad ili ubojstvo počinjeni zbog pružanja pravne pomoći, ako sami odvjetnici nisu u mogućnosti o tome obavijestiti Komoru i ako to na drugi način nije učinjeno dostupnim javnosti.«.
+
+### Članak 4.
+
+Naslov iznad članka 17. mijenja se i glasi: »Pretraga odvjetnika, odvjetničkog ureda te drugih prostorija i pokretnina«.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Pretragu odvjetnika, odvjetničkog ureda te drugih prostorija i pokretnina koje odvjetnik koristi u pružanju pravne pomoći može odrediti samo nadležni sud ako su za to ispunjeni zakonom propisani uvjeti.
+
+(2) Kada se odredi pretraga iz stavka 1. ovoga članka, sud će o tome odmah obavijestiti Komoru i odvjetnički zbor na čijem se području nalazi ured u kojemu pretragu treba obaviti. Pretraga se ne smije započeti ni provesti bez nazočnosti ovlaštenog predstavnika Komore ili područnog zbora, osim ako se oni bez opravdanog razloga ne odazovu pravodobnom pozivu da prisustvuju pretrazi.
+
+(3) Pretrazi je dužan prisustvovati sudac koji je izdao nalog za pretragu ili drugi sudac kojeg on na to ovlasti, koji će odlučiti o tome koje će se isprave i predmeti pregledati.
+
+(4) Kod pretrage iz stavka 1. ovoga članka ne smije biti povrijeđena tajnost isprava i predmeta na štetu stranaka.
+
+(5) Pretraga iz stavka 1. ovoga članka ograničit će se na pregled samo onih isprava i samo onih predmeta koji su u izravnoj vezi s postupkom u kojem se pretraga provodi.
+
+(6) Dokazi pribavljeni u protivnosti s odredbama ovoga članka ne mogu se upotrijebiti u postupku protiv odvjetnika i njegovih stranaka.«.
+
+### Članak 5.
+
+U članku 18. stavak 2. mijenja se i glasi:
+
+»(2) Visinu nagrade za rad odvjetnika prilikom obrana po službenoj dužnosti te obrana na teret proračunskih sredstava i odvjetnika kao opunomoćenika žrtve kaznenog djela pravilnikom utvrđuje ministar nadležan za poslove pravosuđa.«.
+
+### Članak 6.
+
+Iza članka 36.h dodaje se članak 36.i koji glasi:
+
+*»Članak 36.i*
+
+Odredbe ove glave na odgovarajući se način primjenjuju na odvjetnike iz država pristupnica Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj.«.
+
+### Članak 7.
+
+U članku 48. stavku 1. točki 2. iza riječi: »Europskom gospodarskom prostoru« dodaju se riječi: »ili države pristupnice Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj,«.
+
+### Članak 8.
+
+(1) Ministar nadležan za poslove pravosuđa uskladit će pravilnik iz članka 5. ovoga Zakona s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Hrvatska odvjetnička komora uskladit će svoj Statut i druge opće akte s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+### Članak 9.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/38
+
+Zagreb, 27. lipnja 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o odvjetništvu (NN 59/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/59/730*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ODVJETNIŠTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o odvjetništvu, koji je Hrvatski sabor donio na sjednici 29. svibnja 2026.
+
+Klasa: 011-02/26-02/49
+
+Urbroj: 71-10-01/1-26-2
+
+Zagreb, 1. lipnja 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ODVJETNIŠTVU**
+
+#### Članak 1.
+
+U Zakonu o odvjetništvu (»Narodne novine«, br. 9/94., 117/08., 50/09. – ispravak, 75/09., 18/11., 126/21. i 98/25.) u članku 4. stavak 2. briše se.
+
+Dosadašnji stavci 3. i 4. postaju stavci 2. i 3.
+
+#### Članak 2.
+
+U članku 5. stavku 2. u prvoj rečenici iza riječi: »Republici Hrvatskoj« dodaju se riječi: »te profesori umirovljeni s radnog mjesta profesora pravnih predmeta na sveučilištima u Republici Hrvatskoj«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Osobe iz stavka 2. ovoga članka dužne su osigurati se od odgovornosti za štetu koju bi mogle počiniti trećima davanjem pravnih savjeta i mišljenja sukladno članku 44. ovoga Zakona.«.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., iza riječi: »evidentiranja« dodaju se riječi: »te Komori dostaviti dokaz o osiguranju od odgovornosti za štetu«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 3.
+
+U članku 27.a stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Odvjetnička društva iz države članice Europske unije, države pristupnice Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj i iz države članice Svjetske trgovinske organizacije mogu u Republici Hrvatskoj osnivati svoje podružnice, sukladno obvezama Republike Hrvatske prema međunarodnim ugovorima, zakonu kojim se uređuju trgovačka društva i ovom Zakonu.
+
+(2) Podružnice odvjetničkih društava iz države članice Europske unije i države pristupnice Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj mogu u Republici Hrvatskoj pružati pravne usluge koje uključuju usluge savjetovanja o pravu svoje matične države, o pravu Europske unije, međunarodnom pravu i pravu Republike Hrvatske.«.
+
+#### Članak 4.
+
+Iza članka 27.a dodaje se članak 27.b koji glasi:
+
+»Članak 27.b
+
+(1) Odvjetničko društvo iz države članice Europske unije ili države pristupnice Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj može u Republici Hrvatskoj osnovati odvjetničko društvo.
+
+(2) Na osnovano odvjetničko društvo iz stavka 1. ovoga članka na odgovarajući se način primjenjuju odredbe ovoga Zakona o odvjetničkim društvima.«.
+
+#### Članak 5.
+
+U članku 61. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Dio odvjetničke vježbe nakon položenog pravosudnog ispita može se obaviti kod odvjetnika s poslovnim nastanom u drugoj državi članici Europske unije koji je upisan u Imenik odvjetnika Hrvatske odvjetničke komore ako se poslovi koji se obavljaju u sklopu navedene vježbe odnose na pravo Republike Hrvatske i ako način obavljanja te vježbe može pružiti obuku i iskustvo istovjetne onima koje pruža vježbenička praksa kod odvjetnika s poslovnim nastanom u Republici Hrvatskoj.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 6.
+
+Hrvatska odvjetnička komora uskladit će svoj Statut i druge opće akte s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/26-01/50
+
+Zagreb, 29. svibnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

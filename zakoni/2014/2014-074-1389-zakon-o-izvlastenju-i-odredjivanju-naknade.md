@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-06-18
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "74/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "74/14, 69/17, 98/19"
+amendments:
+  - "NN 69/2017 (1608) Zakon o izmjenama i dopunama Zakona o izvlaštenju i određivanju naknade"
+  - "NN 98/2019 (1921) Zakon o izmjeni Zakona o izvlaštenju i određivanju naknade"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1389"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o izvlaštenju i određivanju naknade
 
 > Izvor: Narodne novine, NN 74/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1389).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 69/2017, NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -658,3 +663,332 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o izvlaštenju i određivanju naknade (NN 69/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1608*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O IZVLAŠTENJU I ODREĐIVANJU NAKNADE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o izvlaštenju i određivanju naknade, koji je Hrvatski sabor donio na sjednici 30. lipnja 2017.
+
+Klasa: 011-01/17-01/43
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 5. srpnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O IZVLAŠTENJU I ODREĐIVANJU NAKNADE**
+
+#### Članak 1.
+
+U Zakonu o izvlaštenju i određivanju naknade (»Narodne novine«, br. 74/14.) iza članka 3. dodaje se članak 3.a i naslov iznad njega koji glase:
+
+*»Prijašnji vlasnik*
+
+#### Članak 3.a
+
+Prijašnji vlasnik je vlasnik nekretnine za koju je podnesen prijedlog za izvlaštenje, a u odnosu na kojeg je doneseno privremeno rješenje iz članka 36.a stavka 1. ili rješenje o izvlaštenju iz članka 37. ovog Zakona.«.
+
+#### Članak 2.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Za izvlaštenu nekretninu vlasniku pripada novčana naknada u visini tržišne vrijednosti nekretnine.
+
+(2) Iznimno od stavka 1. ovog članka, naknada za izvlaštenu nekretninu može biti i odgovarajuća druga nekretnina čija tržišna vrijednost odgovara visini tržišne vrijednosti nekretnine koja se izvlašćuje, uz uvjete propisane člankom 46. stavkom 2. ovog Zakona.«.
+
+#### Članak 3.
+
+U članku 17. stavku 1. riječi: »o prijedlogu za izvlaštenje« brišu se, a iza riječi: »žalba« stavlja se zarez i dodaju riječi: »ako ovim Zakonom nije drukčije propisano«.
+
+#### Članak 4.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Prije podnošenja prijedloga za izvlaštenje korisnik izvlaštenja dužan je, putem Ministarstva odnosno nadležnog tijela, zatražiti osiguranje dokaza o stanju i vrijednosti nekretnine za koju predlaže izvlaštenje.
+
+(2) Vrijednost nekretnine za koju se predlaže izvlaštenje izražava se u novcu na temelju procjembenog elaborata stalnog sudskog vještaka za procjenu nekretnina ili stalnog sudskog procjenitelja, izrađenog primjenom zakona kojim je uređena procjena vrijednosti nekretnina, kao tržišna vrijednost nekretnine u vrijeme izrade tog elaborata.
+
+(3) U slučaju nepotpunog izvlaštenja ustanovljenjem služnosti obvezno se procjenjuje vrijednost ograničenja prava vlasništva u odnosu na cijelu nekretninu odnosno na pojedini dio nekretnine, u skladu s odredbama zakona iz stavka 2. ovog članka.«.
+
+#### Članak 5.
+
+Članak 26. mijenja se i glasi:
+
+»Uz prijedlog za osiguranje dokaza o stanju i vrijednosti nekretnine korisnik izvlaštenja mora podnijeti pravomoćnu lokacijsku dozvolu i predložiti tri stalna sudska vještaka za procjenu nekretnina ili tri stalna sudska procjenitelja (u daljnjem tekstu: procjenitelj) odgovarajuće struke, a s obzirom na karakteristike nekretnine za koju se procjena obavlja.«.
+
+#### Članak 6.
+
+Članak 27. mijenja se i glasi:
+
+»(1) Ministarstvo odnosno nadležno tijelo bez odgode će, a najkasnije u roku od osam dana od dana zaprimanja urednog prijedloga za osiguranje dokaza o stanju i vrijednosti nekretnine, pozvati vlasnika nekretnine odnosno posjednika nekretnine da se u roku od osam dana suglasi s jednim od predloženih procjenitelja ili predloži do tri procjenitelja odgovarajuće struke, a s obzirom na karakteristike nekretnine za koju se procjena obavlja.
+
+(2) Ako vlasnik nekretnine odnosno posjednik nekretnine u utvrđenom roku ne izabere ni jednog predloženog procjenitelja ili ne predloži procjenitelja, smatrat će se da je suglasan da se osiguranje dokaza o stanju i vrijednosti nekretnine povjeri bilo kojem od predloženih procjenitelja.
+
+(3) Ministarstvo odnosno nadležno tijelo bez odgode će osiguranje dokaza o stanju i vrijednosti nekretnine povjeriti jednom od predloženih procjenitelja iz svakog stručnog područja za koje se obavlja procjena i istodobno odrediti vrijeme obavljanja očevida i o tome obavijestiti vlasnika odnosno posjednika nekretnine i korisnika izvlaštenja.
+
+(4) Troškove izrade procjembenog elaborata snosi korisnik izvlaštenja.
+
+(5) Ministarstvo odnosno nadležno tijelo dostavit će korisniku izvlaštenja i vlasniku odnosno posjedniku nekretnine procjembeni elaborat iz članka 25. stavka 2. ovog Zakona radi obavijesti.«.
+
+#### Članak 7.
+
+U članku 28. stavku 2. riječi: »dvije godine« zamjenjuju se riječima: »četiri godine«.
+
+#### Članak 8.
+
+U članku 30. podstavak 3. mijenja se i glasi:
+
+»‒ procjembeni elaborat iz članka 25. stavka 2. ovog Zakona koji nije stariji od dvije godine«.
+
+#### Članak 9.
+
+Članak 35. mijenja se i glasi:
+
+»U postupku izvlaštenja Ministarstvo odnosno nadležno tijelo obavlja očevid, provodi usmenu raspravu i izvodi dokaze radi utvrđivanja svih bitnih činjenica i okolnosti potrebnih za određivanje naknade za izvlaštenu nekretninu.«.
+
+#### Članak 10.
+
+Iza članka 36. dodaju se članci 36.a, 36.b i 36.c i naslov iznad njih koji glase:
+
+*»Privremeno rješenje o izvlaštenju*
+
+#### Članak 36.a
+
+(1) Kada je u postupku vlasništvo utvrđeno kao neprijeporno, ali se vlasnik nekretnine protivi izvlaštenju odnosno visini naknade utvrđene procjembenim elaboratom iz članka 25. stavka 2. ovog Zakona, Ministarstvo odnosno nadležno tijelo, na zahtjev korisnika izvlaštenja, nakon održane usmene rasprave, donijet će privremeno rješenje o izvlaštenju kojim će potvrditi da je interes Republike Hrvatske utvrđen zakonom ili odlukom iz članka 13. ovog Zakona te naložiti upis prava vlasništva korisnika izvlaštenja u javnim knjigama.
+
+(2) Rješenje iz stavka 1. ovog članka može se donijeti nakon što korisnik izvlaštenja dokaže da je prijašnjem vlasniku stavio na raspolaganje iznos naknade koji je utvrđen procjembenim elaboratom iz članka 25. stavka 2. ovog Zakona.
+
+(3) Ispunjenje obveze iz stavka 2. ovog članka korisnik izvlaštenja dokazuje osobito:
+
+1. potvrdom kojom prijašnji vlasnik potvrđuje primitak iznosa naknade koji je utvrđen procjembenim elaboratom iz članka 25. stavka 2. ovog Zakona
+
+2. potvrdom da je iznos naknade iz točke 1. ovog stavka položen za korist prijašnjeg vlasnika.
+
+(4) Radi uplate naknade iz stavka 2. ovog članka Ministarstvo odnosno nadležno tijelo, na zahtjev korisnika izvlaštenja, otvorit će poseban račun kod Ministarstva odnosno nadležnog tijela koje vodi postupak.
+
+#### Članak 36.b
+
+(1) Izreka privremenog rješenja o izvlaštenju sadrži:
+
+‒ naznaku zakona ili odluke iz članka 13. ovog Zakona
+
+‒ iznos naknade za nekretninu iz procjembenog elaborata iz članka 25. stavka 2. ovog Zakona
+
+‒ naznaku dokaza da je iznos naknade za nekretninu iz procjembenog elaborata iz članka 25. stavka 2. ovog Zakona stavljen na raspolaganje prijašnjem vlasniku
+
+‒ naznaku korisnika izvlaštenja
+
+‒ naznaku nekretnine koja se izvlašćuje, uz navođenje zemljišnoknjižnih i katastarskih podataka
+
+‒ naznaku prijašnjeg vlasnika i posjednika izvlaštene nekretnine i njegovo prebivalište ili sjedište (adresa)
+
+‒ naznaku građevine ili radova radi čije se izgradnje odnosno izvođenja radova nekretnina izvlašćuje
+
+‒ nalog za upis zabilježbe zabrane raspolaganja izvlaštenom nekretninom do pravomoćnosti rješenja o izvlaštenju
+
+‒ nalog za provedbu privremenog rješenja o izvlaštenju u zemljišnim knjigama.
+
+(2) Zabilježba postupka izvlaštenja u zemljišnim ili drugim javnim knjigama neće se brisati do pravomoćnosti rješenja kojim se rješava o prijedlogu za izvlaštenje.
+
+(3) Privremeno rješenje o izvlaštenju može se provesti u javnim knjigama i nakon što je nekretninom koja je predmet izvlaštenja raspolagano.
+
+(4) Žalba protiv privremenog rješenja o izvlaštenju nije dopuštena, ali se može pokrenuti upravni spor.
+
+(5) Tužba upravnom sudu protiv privremenog rješenja o izvlaštenju ne odgađa izvršenje tog rješenja.
+
+(6) Nakon donošenja rješenja o izvlaštenju kojim se ukida privremeno rješenje o izvlaštenju nadležni sud će obustaviti upravni spor iz stavka 4. ovog članka.
+
+#### Članak 36.c
+
+(1) Postupak izvlaštenja nastavit će se na zahtjev korisnika izvlaštenja, prijašnjeg vlasnika odnosno po službenoj dužnosti, bez odgode.
+
+(2) U roku od šest mjeseci od dana donošenja rješenja iz članka 36.a ovog Zakona postupak se mora nastaviti po službenoj dužnosti.
+
+(3) Ako u nastavku postupka korisnik izvlaštenja ili prijašnji vlasnik ospore procjembeni elaborat iz članka 25. stavka 2. ovog Zakona, Ministarstvo odnosno nadležno tijelo na usmenoj će raspravi, uz sudjelovanje tog procjenitelja, pokušati otkloniti prigovore, a ako prigovori ne budu otklonjeni, odredit će procjenitelja radi nove procjene stanja i vrijednosti nekretnine koja je izvlaštena privremenim rješenjem o izvlaštenju.
+
+(4) Nakon izvođenja dokaza radi utvrđivanja činjenica i okolnosti potrebnih za određivanje konačnog iznosa ili oblika naknade za izvlaštenu nekretninu Ministarstvo odnosno nadležno tijelo donijet će rješenje o izvlaštenju.«.
+
+#### Članak 11.
+
+Članak 37. mijenja se i glasi:
+
+»(1) Rješenje o izvlaštenju donosi Ministarstvo odnosno nadležno tijelo.
+
+(2) Izreka rješenja o izvlaštenju sadrži:
+
+– naznaku zakona ili odluke iz članka 13. ovog Zakona
+
+– naznaku korisnika izvlaštenja
+
+– naznaku nekretnine koja se izvlašćuje, uz navođenje zemljišnoknjižnih i katastarskih podataka
+
+– naznaku prijašnjeg vlasnika i posjednika izvlaštene nekretnine i njegovo prebivalište ili sjedište (adresa)
+
+– naznaku građevine ili radova radi čije se izgradnje odnosno izvođenja radova nekretnina izvlašćuje
+
+– obvezu prijašnjeg vlasnika nekretnine da ju je dužan predati u posjed korisniku izvlaštenja, kao i rok predaje u posjed
+
+– obvezu korisnika izvlaštenja glede naknade za izvlaštenu nekretninu: oznaku odgovarajuće zamjenske nekretnine s određivanjem roka predaje u posjed odnosno novčani iznos tržišne vrijednosti izvlaštene nekretnine, s rokom isplate koji ne može biti duži od 15 dana od pravomoćnosti rješenja o izvlaštenju, ili naznaku nagodbe ako je sklopljena sukladno članku 39. stavku 1. ovog Zakona
+
+– obvezu korisnika izvlaštenja na isplatu zakonske zatezne kamate, tekuću od 30. dana od dana donošenja prvostupanjskog rješenja o izvlaštenju do isplate
+
+– nalog za upis zabilježbe zabrane raspolaganja izvlaštenom nekretninom unutar roka od sedam godina od dana pravomoćnosti rješenja o izvlaštenju
+
+– nalog za provedbu rješenja o izvlaštenju u zemljišnim knjigama
+
+– nalog za brisanje hipoteke, služnosti i drugih stvarnih prava u zemljišnim knjigama
+
+– odluku o troškovima postupka.
+
+(3) Rješenje kojim se prihvaća prijedlog za nepotpuno izvlaštenje ustanovljenjem služnosti odnosno zakupa sadrži i naznaku dijela nekretnine na kojem se ustanovljava služnost odnosno zakup.
+
+(4) Rješenjem o izvlaštenju naložit će se brisanje zabilježbe zabrane raspolaganja iz članka 36.b stavka 1. podstavka 8. ovog Zakona.
+
+(5) Brisanje zabilježbe pokrenutog postupka izvlaštenja u zemljišnim knjigama Ministarstvo odnosno nadležno tijelo naložit će po pravomoćnosti rješenja iz stavka 1. ovog članka.
+
+(6) Kada je u postupku izvlaštenja doneseno rješenje iz članka 36.a ovog Zakona, rješenjem o izvlaštenju to rješenje mora se ukinuti i navesti iznos naknade koja je rješenjem iz članka 36.a ovog Zakona dana na raspolaganje prijašnjem vlasniku te utvrditi točan iznos koji je korisnik izvlaštenja odnosno prijašnji vlasnik dužan platiti na ime razlike do iznosa tržišne naknade utvrđene rješenjem o izvlaštenju, ako takva razlika postoji, s rokom isplate koji ne može biti duži od 15 dana od pravomoćnosti rješenja o izvlaštenju.
+
+(7) Zakonska zatezna kamata na razliku iz stavka 6. ovog članka teče od 30. dana od dana donošenja prvostupanjskog rješenja o izvlaštenju do isplate.
+
+(8) Danom pravomoćnosti rješenja o potpunom izvlaštenju prestaje najam odnosno zakup na izvlaštenoj nekretnini.
+
+(9) Posjednik izvlaštene nekretnine dužan je izvlaštenu nekretninu predati slobodnu od osoba i stvari.«.
+
+#### Članak 12.
+
+Naslov iznad članka 41. mijenja se i glasi: »Stupanje u posjed izvlaštene nekretnine u tijeku postupka izvlaštenja«
+
+Članak 41. mijenja se i glasi:
+
+»(1) Korisnik izvlaštenja koji dokaže postojanje pravnog i opravdanog interesa odnosno vjerojatnost nastupa znatne štete može, u tijeku postupka izvlaštenja, podnijeti zahtjev za stupanje u posjed nekretnine za koju je podnesen prijedlog za izvlaštenje.
+
+(2) Zahtjev se podnosi Ministarstvu odnosno nadležnom tijelu koje vodi postupak izvlaštenja.
+
+(3) Uz zahtjev korisnik izvlaštenja mora dostaviti dokaz da je vlasniku odnosno prijašnjem vlasniku nekretnine isplaćena sporazumno utvrđena naknada ili naknada u visini utvrđenoj procjembenim elaboratom iz članka 25. stavka 2. ovog Zakona odnosno da je taj iznos naknade uplaćen na poseban račun koji će Ministarstvo odnosno nadležno tijelo, na zahtjev korisnika izvlaštenja, otvoriti kod Ministarstva odnosno nadležnog tijela koje vodi postupak.
+
+(4) Ministarstvo odnosno nadležno tijelo odlučit će o zahtjevu iz stavka 1. ovog članka bez odgode, a najkasnije u roku od 15 dana od dana zaprimanja urednog zahtjeva.
+
+(5) Odredba stavka 1. ovog članka neće se primijeniti kada je predmet izvlaštenja stambena ili poslovna zgrada za koju korisnik izvlaštenja vlasniku odnosno prijašnjem vlasniku nije osigurao pravo najma odnosno zakupa druge odgovarajuće nekretnine u istoj općini ili gradu.
+
+(6) Najam odnosno zakup iz stavka 5. ovog članka može trajati najduže do pravomoćnosti rješenja o izvlaštenju.
+
+(7) Iznimno, korisnik izvlaštenja ne mora dokazivati postojanje pretpostavki iz stavka 1. ovog članka ako se radi o izgradnji građevine ili izvođenju radova javne infrastrukture (kao što su javne ceste, željeznička infrastruktura te vodnogospodarska infrastruktura).«.
+
+#### Članak 13.
+
+U članku 42. stavku 2. podstavku 1. riječi: »naknade utvrđene rješenjem o izvlaštenju (kao predujma)« zamjenjuju se riječima: »iznosa naknade utvrđene procjembenim elaboratom iz članka 25. stavka 2. ovog Zakona«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Žalba protiv rješenja kojim se dopušta stupanje u posjed nekretnine u tijeku postupka izvlaštenja ne odgađa izvršenje rješenja.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Ako je protiv rješenja iz stavka 5. ovog članka pokrenut upravni spor, sud ne može odgoditi izvršenje tog rješenja.«.
+
+#### Članak 14.
+
+U članku 43. stavku 1. riječi: »prije pravomoćnosti rješenja o izvlaštenju« zamjenjuju se riječima: »u tijeku postupka izvlaštenja«.
+
+#### Članak 15.
+
+Članak 46. mijenja se i glasi:
+
+»(1) Naknada za potpuno izvlaštenu nekretninu određuje se u novcu u visini tržišne vrijednosti nekretnine koja se izvlašćuje u vrijeme donošenja prvostupanjskog rješenja o izvlaštenju ili u vrijeme sklapanja nagodbe prema ovom Zakonu, uzimanjem u obzir uporabnog svojstva nekretnine koju je imala prije promjene namjene koja je povod izvlaštenja.
+
+(2) Iznimno, naknada za potpuno izvlaštenu nekretninu određuje se davanjem u vlasništvo druge odgovarajuće nekretnine čija vrijednost odgovara visini tržišne vrijednosti nekretnine koja se izvlašćuje, u istoj općini ili gradu, kojom se prijašnjem vlasniku nekretnine koja se izvlašćuje omogućavaju isti životni uvjeti i uvjeti korištenja kakve je imao koristeći tu nekretninu, kada korisnik izvlaštenja s takvom nekretninom raspolaže.«.
+
+#### Članak 16.
+
+U članku 59. stavak 1. mijenja se glasi:
+
+»(1) Po podnošenju urednog zahtjeva vlasnika za određivanje naknade iz članaka 57. i 58. ovog Zakona nadležno tijelo, po službenoj dužnosti, u roku od 30 dana od dana zaprimanja urednog zahtjeva, provodi postupak osiguranja dokaza o stanju i vrijednosti nekretnine za koju se traži određivanje naknade odgovarajućom primjenom članka 27. ovog Zakona.«.
+
+U stavku 2. riječi: »kada su osigurani dokazi« zamjenjuju se riječima: »primitka procjembenog elaborata iz članka 25. stavka 2. ovog Zakona«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 17.
+
+Postupci započeti do stupanja na snagu ovog Zakona dovršit će se prema odredbama Zakona o izvlaštenju i određivanju naknade (»Narodne novine«, br. 74/14.).
+
+#### Članak 18.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/34
+
+Zagreb, 30. lipnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o izvlaštenju i određivanju naknade (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1921*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O IZVLAŠTENJU I ODREĐIVANJU NAKNADE
+
+Proglašavam Zakon o izmjeni Zakona o izvlaštenju i određivanju naknade, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/129
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O IZVLAŠTENJU I ODREĐIVANJU NAKNADE**
+
+#### Članak 1.
+
+U Zakonu o izvlaštenju i određivanju naknade (»Narodne novine«, br. 74/14. i 69/17.) u članku 16. stavku 1. riječi: »nadležni ured državne uprave odnosno nadležni ured Grada Zagreba« zamjenjuju se riječima: »upravno tijelo županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na poslove izvlaštenja«.
+
+U stavku 2. riječ: »središnje« briše se.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/124  
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

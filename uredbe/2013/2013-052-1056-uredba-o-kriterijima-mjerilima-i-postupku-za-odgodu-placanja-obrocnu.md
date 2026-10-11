@@ -479,12 +479,10 @@ Upute za popunjavanje:
 3. Podnositelj zahtjeva može zaokružiti jednu od ponuđenih mogućnosti:
 
 <table><tbody>
-
 <tr>
 <td colspan="2">1) ZAHTJEV ZA ODGODU PLAĆANJA/OBROČNU OTPLATU DUGA</td>
 <td colspan="2">2) ZAHTJEV ZA OTPIS ILI DJELOMIČAN OTPIS POTRAŽIVANJA</td>
 </tr>
-
 <tr>
 <td>a) odgoda plaćanja duga</td>
 <td>b) obročna otplata duga</td>
@@ -499,34 +497,28 @@ POD MATERIJALNOM I KAZNENOM ODGOVORNOŠĆU DAJEM SLJEDEĆE PODATKE:
 Tablica 1. Podaci o podnositelju zahtjeva[1]
 
 <table><tbody>
-
 <tr>
 <td>1.</td>
 <td colspan="3">Ime i prezime:</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td colspan="3">Adresa (ulica i kućni broj, mjesto, poštanski broj):</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td colspan="3">Broj telefona:</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td colspan="3">OIB:</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>Korisnik prava na pomoć za uzdržavanje iz sustava socijalne skrbi:</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>Korisnik prava na opskrbninu prema zakonu kojim se uređuju prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji ili zakonu kojim se uređuje zaštita vojnih i civilnih invalida rata.</td>
@@ -574,7 +566,6 @@ Tablica 4.a) podaci o prosječnom mjesečnom dohotku i primicima podnositelja za
 Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi zahtjev za otpis ili djelomičan otpis potraživanja)
 
 <table><tbody>
-
 <tr>
 <td>Vrste nekretnina</td>
 <td>Vlasnik (ime i prezime)</td>
@@ -583,7 +574,6 @@ Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi z
 <td>Tržišna vrijednost u kunama</td>
 <td>Napomena</td>
 </tr>
-
 <tr>
 <td>Stan ili kuća za stanovanje</td>
 <td></td>
@@ -592,7 +582,6 @@ Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi z
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ostale nekretnine (poslovni prostor, zemljište, šume i ostale nekretnine)</td>
 <td></td>
@@ -601,7 +590,6 @@ Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi z
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3"></td>
 <td>UKUPNO:</td>
@@ -614,57 +602,47 @@ Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi z
 Tablica 4. c) Podaci o vozilima – plovilima (popunjava se isključivo ako se podnosi zahtjev za otpis ili djelomičan otpis potraživanja)
 
 <table><tbody>
-
 <tr>
 <td>Podaci o vozilima – plovilima</td>
 <td>Automobil</td>
 <td>Plovilo</td>
 </tr>
-
 <tr>
 <td rowspan="2">Vlasnik (ime i prezime)</td>
 <td>1.</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td rowspan="2">Vrsta, marka, tip, godina proizvodnje</td>
 <td>1.</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td rowspan="2">Registarska oznaka</td>
 <td>1.</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td rowspan="2">Vrijednost u kunama</td>
 <td>1.</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td>UKUPNO (vrijednost u kunama)</td>
 <td></td>
@@ -697,63 +675,52 @@ Prilozi: ________________________
 Tablica 5. Mišljenje nadležnog tijela
 
 <table><tbody>
-
 <tr>
 <td>Naplata duga u cijelosti/naplata potraživanja bi predstavljala neprimjereno opterećenje/ugrozila osnovne životne potrebe podnositelja zahtjeva</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva je korisnik prava na pomoć za uzdržavanje iz sustava socijalne skrbi</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva je korisnik prava na opskrbninu prema zakonu kojim se uređuju prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji i zakonu kojim se uređuje zaštita vojnih i civilnih invalida rata</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Ukupni dohodak i ukupni primici podnositelja zahtjeva i punoljetnih članova njegovog kućanstva mjesečno ne prelaze po članu kućanstva iznos iz članka 14. stavka 2. točke 2b. (odgoda i obročna otplata) odnosno članka 24. stavka 2. točke 2c. (otpis ili djelomičan otpis)</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Imovina u novčanom obliku podnositelja zahtjeva i članova njegovog kućanstva ne prelazi iznos iz članka 14. stavka 2. točke 2a. (odgoda i obročna otplata) odnosno članka 24. stavka 2. točke 2a. (otpis ili djelomičan otpis)</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva i članovi njegovog kućanstva imaju u vlasništvu stan ili kuću koji se smatraju zadovoljavajućim stambenim prostorom</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva i članovi njegova kućanstva imaju u vlasništvu automobil i/ili plovilo čija vrijednost ne prelazi iznos iz članka 24. stavka 2. točke 2.b (otpis ili djelomičan otpis)</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva ispunjava uvjete za odgodu plaćanja/ obročnu otplatu duga odnosno otpis ili djelomičan otpis potraživanja</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td colspan="3">Posebne napomene:</td>
 </tr>
-
 <tr>
 <td colspan="3">Mišljenje nadležnog tijela o opravdanosti zahtjeva za odgodu plaćanja/obročnu otplatu duga odnosno otpisa ili djelomičnog otpisa potraživanja s obrazloženjem te kod obročne otplate duga prijedlog ukupnog broja i iznosa mjesečnih obroka i rok plaćanja:</td>
 </tr>
-
 <tr>
 <td colspan="3">Datum:<br> Ime i prezime ovlaštene osobe: M.P.<br> Vlastoručan potpis:</td>
 </tr>
@@ -777,11 +744,9 @@ Upute za popunjavanje:
 4. Podnositelj zahtjeva može zaokružiti jednu od ponuđenih mogućnosti
 
 <table><tbody>
-
 <tr>
 <td colspan="2">ZAHTJEV ZA ODGODU PLAĆANJA/OBROČNU OTPLATU DUGA</td>
 </tr>
-
 <tr>
 <td>a) odgoda plaćanja duga</td>
 <td>b) obročna otplata duga</td>
@@ -794,56 +759,46 @@ POD MATERIJALNOM I KAZNENOM ODGOVORNOŠĆU DAJEM SLJEDEĆE PODATKE:
 Tablica 1. Podaci o podnositelju zahtjeva pravnoj osobi1 [5]
 
 <table><tbody>
-
 <tr>
 <td>1.</td>
 <td colspan="3">Naziv ili tvrtka:</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td colspan="3">Sjedište (ulica i kućni broj, mjesto, poštanski broj):</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td colspan="3">Broj telefona:</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td colspan="3">OIB:</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td colspan="3">Odgovorna osoba:</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td colspan="3">Kontakt osoba:</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>Podmirenje obveza:<br> Jesu li porezne obveze i doprinosi za mirovinsko i zdravstveno osiguranje o kojima službenu evidenciju vodi Porezna uprava pravodobno i u cijelosti podmirene?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td rowspan="2">8.</td>
 <td rowspan="2">Financijska sposobnost:<br> Je li financijsko stanje pravne osobe stabilno?<br> Ima li pravna osoba dugovanja (prema drugim pravnim osobama ili državnim tijelima) koja bi mogla dovesti do financijske nestabilnosti?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td>Je li u tekućoj godini i prethodnoj godini pravna osoba vršila isplatu dividende, udjela u dobiti ili predujma dobiti, a u isto vrijeme je imala porezni dug?</td>
@@ -883,51 +838,42 @@ Prilozi: ________________________
 Tablica 4. Mišljenje nadležnog tijela
 
 <table><tbody>
-
 <tr>
 <td>Podnositelj zahtjeva ima u cijelosti podmirene porezne obveze i obveze za mirovinsko i zdravstveno osiguranje?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva nije u tekućoj godini niti prethodnoj godini vršio isplatu dividende, udjela u dobiti ili predujma dobiti, ako je u isto vrijeme imao porezni dug?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelja zahtjeva bi naplata potraživanja dovela do nelikvidnosti (blokade računa)?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Poslovni i financijski plan podnositelja zahtjeva procijenjen je kao tržišno održiv?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva priložio je valjani instrument osiguranja?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva ispunjava uvjete za odgodu plaćanja/ obročnu otplatu duga?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td colspan="3">Posebne napomene:</td>
 </tr>
-
 <tr>
 <td colspan="3">Mišljenje nadležnog tijela o opravdanosti zahtjeva za odobravanje odgode plaćanja/ obročne otplate duga s obrazloženjem te kod obročne otplate duga prijedlog ukupnog broja i iznosa mjesečnih obroka i rok plaćanja:</td>
 </tr>
-
 <tr>
 <td colspan="3">Datum:<br> Ime i prezime ovlaštene osobe: M.P.<br> Vlastoručan potpis:</td>
 </tr>
@@ -1160,12 +1106,10 @@ Upute za popunjavanje:
 3. Podnositelj zahtjeva može zaokružiti jednu od ponuđenih mogućnosti:
 
 <table><tbody>
-
 <tr>
 <td colspan="2">1) ZAHTJEV ZA ODGODU <br>PLAĆANJA/OBROČNU OTPLATU <br>DUGA</td>
 <td colspan="2">2) ZAHTJEV ZA OTPIS ILI DJELO-<br>MIČAN OTPIS POTRAŽIVANJA</td>
 </tr>
-
 <tr>
 <td>a) odgoda plaćanja duga</td>
 <td>b) obročna otplata duga</td>
@@ -1180,27 +1124,22 @@ Upute za popunjavanje:
 Tablica 1. Podaci o podnositelju zahtjeva[1]
 
 <table><tbody>
-
 <tr>
 <td>1.</td>
 <td colspan="3">Ime i prezime:</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td colspan="3">Adresa (ulica i kućni broj, mjesto, poštanski broj):</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td colspan="3">Broj telefona:</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td colspan="3">OIB:</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>Korisnik prava na pomoć za uzdržavanje/zajamčenu minimalnu naknadu iz sustava socijalne skrbi:</td>
@@ -1248,7 +1187,6 @@ Tablica 4.a) podaci o prosječnom mjesečnom dohotku, mirovini i primicima podno
 Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi zahtjev za otpis ili djelomičan otpis potraživanja)
 
 <table><tbody>
-
 <tr>
 <td>Vrste nekretnina</td>
 <td>Vlasnik (ime i prezime)</td>
@@ -1257,7 +1195,6 @@ Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi z
 <td>Tržišna vrijednost u kunama (ispunjava se samo za ostale nekretnine)</td>
 <td>Napomena</td>
 </tr>
-
 <tr>
 <td>Stan ili kuća za stanovanje</td>
 <td></td>
@@ -1266,7 +1203,6 @@ Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi z
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ostale nekretnine (poslovni prostor, zemljište, šume i ostale nekretnine)</td>
 <td></td>
@@ -1275,7 +1211,6 @@ Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi z
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3"></td>
 <td>UKUPNO:</td>
@@ -1288,57 +1223,47 @@ Tablica 4.b) podaci o nekretninama[3] (popunjava se isključivo ako se podnosi z
 Tablica 4. c) Podaci o vozilima – plovilima (popunjava se isključivo ako se podnosi zahtjev za otpis ili djelomičan otpis potraživanja)
 
 <table><tbody>
-
 <tr>
 <td>Podaci o vozilima – plovilima</td>
 <td>Automobil</td>
 <td>Plovilo</td>
 </tr>
-
 <tr>
 <td rowspan="2">Vlasnik (ime i prezime)</td>
 <td>1.</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td rowspan="2">Vrsta, marka, tip, godina proizvodnje</td>
 <td>1.</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td rowspan="2">Registarska oznaka</td>
 <td>1.</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td rowspan="2">Vrijednost u kunama</td>
 <td>1.</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td>UKUPNO (vrijednost u kunama)</td>
 <td></td>
@@ -1369,57 +1294,47 @@ Prilozi: ________________________
 Tablica 5. Mišljenje nadležnog tijela
 
 <table><tbody>
-
 <tr>
 <td>Naplata duga u cijelosti/naplata potraživanja bi predstavljala neprimjereno opterećenje/ugrozila <br>osnovne životne potrebe podnositelja zahtjeva</td>
 <td>DA </td>
 <td>NE </td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva je korisnik prava na pomoć za uzdržavanje/minimalnu zajamčenu naknadu<br> iz sustava socijalne skrbi</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Ukupni dohodak i ukupni primici podnositelja zahtjeva i punoljetnih članova njegovog kućanstva <br>mjesečno ne prelaze po članu kućanstva iznos iz članka 14. stavka 2. točke 2b. (odgoda i obročna otplata) <br>odnosno članka 24. stavka 2. točke 2c. (otpis ili djelomičan otpis)</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Imovina u novčanom obliku podnositelja zahtjeva i članova njegovog kućanstva ne prelazi iznos iz <br>članka 14. stavka 2. točke 2a. (odgoda i obročna otplata) odnosno članka 24. stavka 2. točke 2a.<br> (otpis ili djelomičan otpis)</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva i članovi njegovog kućanstva imaju u vlasništvu stan ili kuću koji se smatraju <br>zadovoljavajućim stambenim prostorom</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva i članovi njegova kućanstva imaju u vlasništvu automobil i/ili plovilo čija vrijednost <br>ne prelazi iznos iz članka 24. stavka 2. točke 2b. (otpis ili djelomičan otpis)</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva ispunjava uvjete za odgodu plaćanja/obročnu otplatu duga odnosno otpis ili <br>djelomičan otpis potraživanja</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td colspan="3">Posebne napomene:</td>
 </tr>
-
 <tr>
 <td colspan="3">Mišljenje nadležnog tijela o opravdanosti zahtjeva za odgodu plaćanja/obročnu otplatu duga odnosno <br>otpisa ili djelomičnog otpisa potraživanja s obrazloženjem te kod obročne otplate duga prijedlog ukupnog <br>broja i iznosa mjesečnih obroka i rok plaćanja:</td>
 </tr>
-
 <tr>
 <td colspan="3">Datum:<br> Ime i prezime ovlaštene osobe: M.P.<br> Vlastoručan potpis:</td>
 </tr>
@@ -1443,11 +1358,9 @@ Upute za popunjavanje:
 4. Podnositelj zahtjeva može zaokružiti jednu od ponuđenih mogućnosti
 
 <table><tbody>
-
 <tr>
 <td colspan="2">ZAHTJEV ZA ODGODU PLAĆANJA/OBROČNU OTPLATU DUGA</td>
 </tr>
-
 <tr>
 <td>a) odgoda plaćanja duga</td>
 <td>b) obročna otplata duga</td>
@@ -1460,56 +1373,46 @@ POD MATERIJALNOM I KAZNENOM ODGOVORNOŠĆU DAJEM SLJEDEĆE PODATKE:
 Tablica 1. Podaci o podnositelju zahtjeva pravnoj osobi[5]
 
 <table><tbody>
-
 <tr>
 <td>1.</td>
 <td colspan="3">Naziv ili tvrtka:</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td colspan="3">Sjedište (ulica i kućni broj, mjesto, poštanski broj):</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td colspan="3">Broj telefona:</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td colspan="3">OIB:</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td colspan="3">Odgovorna osoba:</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td colspan="3">Kontakt osoba:</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>Podmirenje obveza:<br> Jesu li porezne obveze i doprinosi za mirovinsko i zdravstveno osiguranje o kojima službenu evidenciju vodi Porezna uprava pravodobno i u cijelosti podmirene?</td>
 <td>DA </td>
 <td>NE </td>
 </tr>
-
 <tr>
 <td rowspan="2">8.</td>
 <td rowspan="2">Financijska sposobnost:<br> Je li financijsko stanje pravne osobe stabilno?<br> Ima li pravna osoba dugovanja (prema drugim pravnim osobama ili državnim tijelima) koja bi mogla dovesti do financijske nestabilnosti?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td>Je li u tekućoj godini i prethodnoj godini pravna osoba vršila isplatu dividende, udjela u dobiti ili predujma dobiti, a u isto vrijeme je imala porezni dug?</td>
@@ -1547,51 +1450,42 @@ Prilozi: ________________________
 Tablica 4. Mišljenje nadležnog tijela
 
 <table><tbody>
-
 <tr>
 <td>Podnositelj zahtjeva ima u cijelosti podmirene porezne obveze i obveze za mirovinsko i zdravstveno osiguranje?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva nije u tekućoj godini niti prethodnoj godini vršio isplatu dividende, udjela u dobiti ili predujma dobiti, ako je u isto vrijeme imao porezni dug?</td>
 <td>DA </td>
 <td>NE </td>
 </tr>
-
 <tr>
 <td>Podnositelja zahtjeva bi naplata potraživanja dovela do nelikvidnosti (blokade računa)?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Poslovni i financijski plan podnositelja zahtjeva procijenjen je kao tržišno održiv?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva priložio je valjani instrument osiguranja?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td>Podnositelj zahtjeva ispunjava uvjete za odgodu plaćanja/ obročnu otplatu duga?</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td colspan="3">Posebne napomene:</td>
 </tr>
-
 <tr>
 <td colspan="3">Mišljenje nadležnog tijela o opravdanosti zahtjeva za odobravanje odgode plaćanja/ obročne otplate duga s obrazloženjem te kod obročne otplate duga prijedlog ukupnog broja i iznosa mjesečnih obroka i rok plaćanja:</td>
 </tr>
-
 <tr>
 <td colspan="3">Datum:<br> Ime i prezime ovlaštene osobe: M.P.<br> Vlastoručan potpis:</td>
 </tr>

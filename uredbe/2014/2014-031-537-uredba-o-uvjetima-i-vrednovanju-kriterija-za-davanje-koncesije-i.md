@@ -140,540 +140,447 @@ Kao tehničke elemente ponude brodar je dužan dostaviti tehničku dokumentaciju
 Podaci koji se odnose na tehničke karakteristike broda vrednuju se prema sljedećim kriterijima:
 
 <table><tbody>
-
 <tr>
 <td colspan="3">1. KLASIČNI BRODOVI</td>
 </tr>
-
 <tr>
 <td>1.1.</td>
 <td>Kvaliteta broda s obzirom na brzinu u liniji, ukrcaju i iskrcaju putnika i tereta</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brzina veća 15% od propisane Pravilnikom</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brzina veća 30% od propisane Pravilnikom</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>mogućnost ukrcaja tereta preko 1,5 tona</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>1.2.</td>
 <td>Ocjenjivanje udobnosti</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>broj putnika u zatvorenom salonu veći 10% od kapaciteta utvrđenog u Odluci Vlade Republike Hrvatske <br><br> o određivanju državnih linija u javnom prijevoz u linijskom obalnom pomorskom prometu</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>broj putnika u zatvorenom salonu veći 30% od kapaciteta utvrđenog u Odluci Vlade Republike Hrvatske <br><br> o određivanju državnih linija u javnom prijevozu u linijskom obalnom pomorskom prometu</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>broj putnika u zatvorenom salonu veći 50% od kapaciteta utvrđenog u Odluci Vlade Republike Hrvatske<br> o određivanju državnih linija u javnom prijevozu u linijskom obalnom pomorskom prometu</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>mogućnost ukrcaja i iskrcaja putnika na više od jednog ulaza/izlaza</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>pristup za osobe s ograničenjem u kretanju</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>mogućnost prijevoza kućnih ljubimaca</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>1.3.</td>
 <td>Ocjenjivanje novijeg broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 0 – 1 godina</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 2 – 5 godina</td>
 <td>35</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 6 – 10 godina</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 11 – 15 godina</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODA</td>
 <td>87</td>
 </tr>
-
 <tr>
 <td>1.4.</td>
 <td>Godine iskustva u obavljanju javnog prijevoza u obalnom linijskom pomorskom prometu:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>2 – 5 godina</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>6 – 10 godina</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>preko 11 godina</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>1.5.</td>
 <td>Održavanje broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>u posljednjih 12 mjeseci brodaru nije bio zaustavljen niti jedan brod</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODARA</td>
 <td>13</td>
 </tr>
-
 <tr>
 <td colspan="2">SVEUKUPNO</td>
 <td>100</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">2. BRZI BRODOVI</td>
 <td></td>
 </tr>
-
 <tr>
 <td>2.1.</td>
 <td>Kvaliteta broda s obzirom na brzinu u liniji, ukrcaju i iskrcaju putnika</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brzina veća 15% od propisane Pravilnikom</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brzina veća 30% od<br> ropisane Pravilnikom</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>2.2.</td>
 <td>Ocjenjivanje udobnosti</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>broj putnika u zatvorenom salonu veći 10% od kapaciteta utvrđenog u Odluci Vlade Republike Hrvatske <br><br> o određivanju državnih linija u javnom prijevozu u linijskom obalnom pomorskom prometu</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>broj putnika u zatvorenom salonu veći 30% od kapaciteta utvrđenog u Odluci Vlade Republike Hrvatske <br><br> o određivanju državnih linija u javnom prijevozu u linijskom obalnom pomorskom prometu</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>broj putnika u zatvorenom salonu veći 50% od kapaciteta utvrđenog u Odluci Vlade Republike Hrvatske <br><br> o određivanju državnih linija u javnom prijevozu u linijskom obalnom pomorskom prometu</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>mogućnost ukrcaja i iskrcaja putnika na više od jednog ulaza/izlaza</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>pristup za osobe s ograničenjem u kretanju</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>mogućnost prijevoza kućnih ljubimaca</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>2.3.</td>
 <td>Ocjenjivanje novijeg broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 0 – 1 godina</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 2 – 5 godina</td>
 <td>35</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 6 – 10 godina</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 11 – 15 godina</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODA</td>
 <td>87</td>
 </tr>
-
 <tr>
 <td>2.4.</td>
 <td>Godine iskustva u obavljanju javnog prijevoza u obalnom linijskom pomorskom prometu:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>2 – 5 godina</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>6 – 10 godina</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>preko 11 godina</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>2.5.</td>
 <td>Održavanje broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>u posljednjih 12 mjeseci brodaru nije bio zaustavljen niti jedan brod</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODARA</td>
 <td>13</td>
 </tr>
-
 <tr>
 <td colspan="2">SVEUKUPNO</td>
 <td>100</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">3. Ro-RO PUTNIČKE LINIJE DO 4,9 NM</td>
 </tr>
-
 <tr>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>3.1.</td>
 <td>Kvaliteta broda s obzirom na brzinu u liniji, ukrcaju i iskrcaju putnika i vozila</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brod plovi ravnopravno u oba smjera (double – ended)</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brod je protočan (krmena i pramčana rampa)</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brzina veća 30% od propisane Pravilnikom</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>širina rampe preko 6 m (ukrcaj tri vozila paralelno)</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>ukrcaj putnika nije kroz garažu (bočna vrata)</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>ukrcaj putnika pomagalima (eskalatori, liftovi i sl.)</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>3.2.</td>
 <td colspan="2">Ocjenjivanje udobnosti</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>pristup za osobe s ograničenjem u kretanju</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>3.3.</td>
 <td colspan="2">Ocjenjivanje novijeg broda</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 0 – 1 godina</td>
 <td>40</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 2 – 5 godina</td>
 <td>30</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 6 – 10 godina</td>
 <td>22</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 11 – 15 godina</td>
 <td>15</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 16 – 20 godina</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td></td>
 <td>starost broda 21 – 25 godina</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 26 – 30 godina</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda preko 30 godina</td>
 <td>0</td>
 </tr>
-
 <tr>
 <td>3.4.</td>
 <td>Ocjenjivanje s obzirom na kapacitet putnika i vozila</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>kapacitet putnika veći od minimalnog u liniji</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 10%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 30%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 50%</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>kapacitet vozila veći od minimalnog u liniji</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 10%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 30%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 50%</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODA</td>
 <td>87</td>
 </tr>
-
 <tr>
 <td>3.5.</td>
 <td>Godine iskustva u obavljanju javnog prijevoza u obalnom linijskom pomorskom prometu:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>2 – 5 godina</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>6 – 10 godina</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>preko 11 godina</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>3.6.</td>
 <td>Održavanje broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>u posljednjih 12 mjeseci brodaru nije bio zaustavljen niti jedan brod</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODARA</td>
 <td>13</td>
 </tr>
-
 <tr>
 <td colspan="2">SVEUKUPNO</td>
 <td>100</td>
@@ -682,237 +589,197 @@ Podaci koji se odnose na tehničke karakteristike broda vrednuju se prema sljede
 </table>
 
 <table><tbody>
-
 <tr>
 <td colspan="3">4. RO-RO PUTNIČKE LINIJE OD 5 D0 10 NM</td>
 </tr>
-
 <tr>
 <td>4.1.</td>
 <td>Kvaliteta broda s obzirom na brzinu u liniji, ukrcaju i iskrcaju putnika i vozila</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brod plovi ravnopravno u oba smjera (double – ended)</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brod je protočan (krmena i pramčana rampa)</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>širina rampe preko 6 m (ukrcaj tri vozila paralelno)</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>ukrcaj putnika nije kroz garažu (bočna vrata)</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>ukrcaj putnika pomagalima (eskalatori, liftovi i sl.)</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>maksimalna brzina veća od brzine u liniji više od 15%</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>maksimalna brzina veća od brzine u liniji više od 30%</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>4.2.</td>
 <td>Ocjenjivanje udobnosti</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>broj putnika u zatvorenom salonu veći od 60% putničkog kapaciteta</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>pristup za osobe s ograničenjem u kretanju</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>4.3.</td>
 <td>Ocjenjivanje novijeg broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 0 – 1 godina</td>
 <td>40</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 2 – 5 godina</td>
 <td>30</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 6 – 10 godina</td>
 <td>22</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 11 – 15 godina</td>
 <td>15</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 16 – 20 godina</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 21 – 25 godina</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 26 – 30 godina</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda preko 30 godina</td>
 <td>0</td>
 </tr>
-
 <tr>
 <td>4.4.</td>
 <td>Ocjenjivanje s obzirom na kapacitet putnika i vozila</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>kapacitet putnika veći od minimalnog u liniji</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 10%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 30%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 50%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>kapacitet vozila veći od minimalnog u liniji</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 10%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 30%</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 50%</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODA</td>
 <td>87</td>
 </tr>
-
 <tr>
 <td>4.5.</td>
 <td>Godine iskustva u obavljanju javnog prijevoza u obalnom linijskom pomorskom prometu:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>2 – 5 godina</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>6 – 10 godina</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>preko 11 godina</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>4.6.</td>
 <td>Održavanje broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>u posljednjih 12 mjeseci brodaru nije bio zaustavljen niti jedan brod</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODARA</td>
 <td>13</td>
 </tr>
-
 <tr>
 <td colspan="2">SVEUKUPNO</td>
 <td>100</td>
@@ -921,225 +788,187 @@ Podaci koji se odnose na tehničke karakteristike broda vrednuju se prema sljede
 </table>
 
 <table><tbody>
-
 <tr>
 <td colspan="3">5. RO-RO PUTNIČKE LINIJE PREKO 10 NM</td>
 </tr>
-
 <tr>
 <td>5.1.</td>
 <td>Kvaliteta broda s obzirom na brzinu u liniji, ukrcaju i iskrcaju putnika i vozila</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>brod je protočan (krmena i pramčana rampa)</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>ukrcaj putnika nije kroz garažu (bočna vrata)</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>ukrcaj putnika pomagalima (eskalatori, liftovi i sl.)</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>maksimalna brzina veća od brzine u liniji više od 15%</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>maksimalna brzina veća od brzine u liniji više od 30%</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>zaštićeni RO-RO teretni prostor</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>5.2.</td>
 <td>Ocjenjivanje udobnosti</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>broj putnika u zatvorenom salonu veći od 60% putničkog kapaciteta</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>pristup za osobe s ograničenjem u kretanju</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>5.3.</td>
 <td>Ocjenjivanje novijeg broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 0 – 1 godina</td>
 <td>40</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 2 – 5 godina</td>
 <td>30</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 6 – 10 godina</td>
 <td>22</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 11 – 15 godina</td>
 <td>15</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 16 – 20 godina</td>
 <td>9</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 21 – 25 godina</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda 26 – 30 godina</td>
 <td>2</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>starost broda preko 30 godina</td>
 <td>0</td>
 </tr>
-
 <tr>
 <td>5.4.</td>
 <td>Ocjenjivanje s obzirom na kapacitet putnika i vozila</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>kapacitet putnika veći od minimalnog u liniji</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 10%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 30%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 50%</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>kapacitet vozila veći od minimalnog u liniji</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 10%</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 30%</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td></td>
 <td>&gt; od 50%</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODA</td>
 <td>87</td>
 </tr>
-
 <tr>
 <td>5.5.</td>
 <td>Godine iskustva u obavljanju javnog prijevoza u obalnom linijskom pomorskom prometu:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>2 – 5 godina</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td></td>
 <td>6 – 10 godina</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>preko 11 godina</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>5.6.</td>
 <td>Održavanje broda</td>
 <td></td>
 </tr>
-
 <tr>
 <td>–</td>
 <td>u posljednjih 12 mjeseci brodaru nije bio zaustavljen niti jedan brod</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td colspan="2">MAKSIMALNO MOGUĆI BODOVI BRODARA</td>
 <td>13</td>
 </tr>
-
 <tr>
 <td colspan="2">SVEUKUPNO</td>
 <td>100 </td>

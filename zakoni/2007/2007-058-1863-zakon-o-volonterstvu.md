@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-06-06
-last_amended: 2013-02-22
+last_amended: 2021-07-23
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "58/07, 22/13"
+narodne_novine: "58/07, 22/13, 84/21"
 amendments:
   - "NN 22/2013 (361) Zakon o izmjenama i dopunama Zakona o volonterstvu"
+  - "NN 84/2021 (1558) Zakon o izmjenama i dopunama Zakona o volonterstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/58/1863"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 58/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/58/1863).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 22/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 22/2013, NN 84/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -831,3 +832,459 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o volonterstvu (NN 84/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/84/1558*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O VOLONTERSTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o volonterstvu, koji je Hrvatski sabor donio na sjednici 15. srpnja 2021. godine.
+
+Klasa: 011-01/21-01/49
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 16. srpnja 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O VOLONTERSTVU**
+
+### Članak 1.
+
+U Zakonu o volonterstvu (»Narodne novine«, br. 58/07. i 22/13.) u članku 1. ispred riječi: »Ovim« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Ovaj se Zakon primjenjuje na obavljanje usluga ili aktivnosti čije je obavljanje organizirano na način uređen ovim Zakonom.«.
+
+### Članak 2.
+
+Članak 1.a mijenja se i glasi:
+
+»Ovim Zakonom u hrvatsko zakonodavstvo preuzima se Direktiva 2011/93/EU Europskog parlamenta i Vijeća od 13. prosinca 2011. o suzbijanju seksualnog zlostavljanja i seksualnog iskorištavanja djece i dječje pornografije, te o zamjeni Okvirne odluke Vijeća 2004/68/PUP (SL L 335, 17. 12. 2011.).«.
+
+### Članak 3.
+
+U članku 3. stavku 1. riječi: »za zajedničku dobrobit« zamjenjuju se riječju: »zajednice«.
+
+Stavak 2. briše se.
+
+U dosadašnjem stavku 3., koji postaje stavak 2., riječi: »na tjednoj osnovi« zamjenjuju se riječima: »najmanje dva puta mjesečno«.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+Iza dosadašnjeg stavka 5., koji postaje stavak 4., dodaju se stavci 5. i 6. koji glase:
+
+»(5) Volontiranje poslovnog subjekta je volontiranje koje poslovni subjekt, koji posluje s ciljem stjecanja dobiti, provodi za dobrobit zajednice, obvezno u suradnji s organizatorima volontiranja iz članka 7. ovoga Zakona, a koje njegovi zaposlenici obavljaju dobrovoljno i koje ne predstavlja njihovu radnu obvezu.
+
+(6) Izrazi koji se koriste u ovom Zakonu, a imaju rodno značenje, odnose se jednako na muški i ženski rod.«.
+
+### Članak 4.
+
+Članak 4. briše se.
+
+### Članak 5.
+
+U članku 5. stavku 1. podstavku 8. točka se zamjenjuje zarezom i dodaje se podstavak 9. koji glasi:
+
+» – odrađivanje pripravničkog staža i drugi oblici osposobljavanja osoba koje se prvi put zapošljavaju u zanimanju za koje su se školovale, odnosno koje na taj način stječu radno iskustvo koje je zakonom ili drugim propisom utvrđeno kao uvjet za obavljanje poslova radnog mjesta zanimanja za koje su se školovale.«.
+
+### Članak 6.
+
+U članku 6. stavku 2. riječi: »Maloljetna volonterka ili volonter« zamjenjuju se riječima: »Maloljetni volonter«.
+
+### Članak 7.
+
+U članku 7. stavku 2. riječi: »i fundacija« brišu se.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Organizator volontiranja izrađuje program volontiranja kojim utvrđuje potrebu za uključivanjem volontera, vrstu aktivnosti, odnosno usluga, način i postupke pružanja tih usluga te druge elemente od važnosti za provedbu programa volontiranja.«.
+
+Iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Za provedbu programa volontiranja organizator volontiranja je u okviru svoje organizacije dužan odrediti koordinatora volontera koji je zadužen za učinkovito upravljanje programom volontiranja pri čemu: nadgleda uključivanje volontera u organizaciju, osigurava kvalitetu procesa upravljanja volonterima, usmjerava interakciju između volontera i svih unutarnjih i vanjskih dionika organizacije te je odgovoran za dokumentiranje i osiguranje priznanja volonterskog doprinosa u postizanju ciljeva organizatora volontiranja.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+Dosadašnji stavak 7., koji postaje stavak 8., mijenja se i glasi:
+
+»(8) Pri provođenju programa Europske unije i međunarodnih programa koji se odnose na financiranje programa volontiranja za određivanje pojma organizatora volontiranja i drugih pojmova vezanih uz volontiranje mjerodavna su i odgovarajuća programska pravila.«.
+
+### Članak 8.
+
+U članku 8. riječi: »Korisnica ili korisnik« zamjenjuju se riječju: »Korisnik«.
+
+### Članak 9.
+
+Iza članka 8. dodaje se članak 8.a koji glasi:
+
+»Članak 8.a
+
+(1) Program volonterskog centra je program kroz koji organizacije civilnoga društva posreduju između volontera, organizatora volontiranja i zajednice, pružajući potporu u organiziranju, koordiniranju i provedbi volonterskih aktivnosti, pružaju relevantne informacije iz područja volonterstva i promiču vrijednosti volontiranja, provode izobrazbu iz područja upravljanja volonterskim programom, promoviraju primjere dobre prakse te poduzimaju druge aktivnosti s ciljem jačanja volonterstva u zajednici u kojoj djeluju.
+
+(2) Sredstva za provedbu programa volonterskih centara osiguravaju se u državnom proračunu u financijskom planu tijela državne uprave nadležnog za volonterstvo, a raspodjeljuju temeljem propisa kojim se određuju kriteriji, mjerila i postupci financiranja i ugovaranja programa i projekata od interesa za opće dobro koje provode udruge.«.
+
+### Članak 10.
+
+U članku 9. stavku 1. riječi: »same volonterke ili volontera« zamjenjuju se riječju: »volontera«.
+
+U stavku 2. riječi: »volonterka ili volonter« zamjenjuju se riječju: »volonter«.
+
+### Članak 11.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Organizatori volontiranja dužni su posvetiti osobitu pažnju izboru i edukaciji volontera koji volontiraju sa sljedećim skupinama korisnika volontiranja: djecom, osobama s invaliditetom, starim i nemoćnim osobama, bolesnim osobama ili osobama koje su lišene poslovne sposobnosti, uz posjedovanje osobnih znanja, iskustava i sposobnosti za rad s tim skupinama korisnika volontiranja.
+
+(2) U slučaju volontiranja s korisnicima iz stavka 1. ovoga članka, organizatori volontiranja dužni su osigurati primjerenu stručnu pomoć i nadzor nad radom volontera.
+
+(3) Volontiranje kojim se pružaju usluge djeci, osobama s invaliditetom, starijim i nemoćnim osobama, bolesnim osobama ili osobama koje su lišene poslovne sposobnosti nije dopušteno:
+
+– osobama kojima traje sigurnosna mjera obveznog psihijatrijskog liječenja, obveznog liječenja od ovisnosti, obveznog psihosocijalnog tretmana, zabrane obavljanja određene dužnosti ili djelatnosti koja je u vezi s djelatnosti volontiranja, zabrane približavanja, uznemiravanja, uhođenja ili udaljenja iz zajedničkog kućanstva,
+
+– osobama kojima traje sigurnosna mjera zabrane obavljanja zvanja, djelatnosti ili dužnosti koja je u vezi s djelatnosti volontiranja izrečena sukladno zakonu kojim se uređuju kaznena djela i kaznenopravne sankcije,
+
+– osobama koje su pravomoćno osuđene ili se protiv njih vodi kazneni postupak za neko od kaznenih djela protiv života i tijela, protiv osobne slobode, kaznenih djela protiv spolne slobode, kaznenih djela spolnog zlostavljanja i iskorištavanja djeteta, kaznenih djela protiv braka, obitelji i djece, osim ako je nastupila rehabilitacija sukladno posebnom propisu,
+
+– osobama koje su pravomoćno osuđene ili se protiv njih vodi kazneni postupak za neko od kaznenih djela protiv spolne slobode i spolnog ćudoređa, osim ako je nastupila rehabilitacija sukladno posebnom propisu,
+
+– osobama prema kojima je izrečena prekršajnopravna sankcija propisana zakonom kojim se uređuje zaštita od nasilja u obitelji.
+
+(4) Organiziranje volontiranja nije dopušteno organizatorima volontiranja iz članka 7. ovoga Zakona ako kod njihovih odgovornih osoba postoje okolnosti iz stavka 3. ovoga članka.
+
+(5) U slučaju volontiranja iz članka 27. stavka 2. ovoga Zakona, organizator volontiranja dužan je osigurati stalni nadzor stručne osobe nad volontiranjem te osigurati da volonter ne dođe u nenadzirani kontakt s korisnikom volontiranja tijekom čitavog vremena volontiranja.
+
+(6) U slučaju volontiranja iz članka 27. stavka 3. ovoga Zakona, organizator volontiranja dužan je osigurati stalni nadzor stručne osobe nad volontiranjem te osigurati da volonter ne dođe u nenadzirani kontakt s korisnikom volontiranja dok organizator volontiranja ne pribavi posebno uvjerenje o podacima iz kaznene evidencije te druge dokaze da ne postoje okolnosti iz stavka 3. ovoga članka.«.
+
+### Članak 12.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Zabranjeno je volontiranje kojim se u cijelosti zamjenjuje rad koji obavljaju radnici zaposleni u skladu sa zakonom kojim se uređuju radni odnosi.
+
+(2) Nije dopušteno volontiranje u trajanju duljem od 38 sati tjedno u razdoblju duljem od tri mjeseca bez prekida od najmanje tri mjeseca, kao ni dugotrajno ili kontinuirano izvršavanje volonterskih poslova koji bi inače predstavljali naplatne ugovorne odnose.
+
+(3) Iznimno, volontiranje iz stavaka 1. i 2. ovoga članka dopušteno je u slučaju nastanka posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje može ugroziti ili ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, a slijedom kojeg su na određenom području aktivirane operativne snage sustava civilne zaštite, sukladno posebnom propisu.
+
+(4) Zabranjeno je volontere iskorištavati i zloupotrebljavati u svrhu stjecanja ili povećanja profita ili stjecanja osobne koristi.«.
+
+### Članak 13.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Dijete koje je navršilo 15 godina života (u daljnjem tekstu: maloljetni volonter) može sklopiti ugovor o volontiranju i volontirati samo uz pisanu suglasnost zakonskog zastupnika.
+
+(2) Maloljetni volonter smije volontirati isključivo na aktivnostima ili pružanjem usluga primjerenim njegovoj dobi, tjelesnom, psihičkom i moralnom stupnju razvoja i vještinama koje ne predstavljaju rizik za njegovo zdravlje, razvoj i uspjeh u izvršavanju školskih obveza.
+
+(3) Volontiranje maloljetnog volontera obavlja se uz obvezni nadzor i podršku organizatora volontiranja, korisnika volontiranja, zakonskog zastupnika maloljetnog volontera te drugih odraslih osoba.
+
+(4) Organizator volontiranja mora osobitu pažnju posvetiti zaštiti dobrobiti, zdravlja, ćudoređa maloljetnog volontera te osigurati odgovarajuće uvjete prikladne njegovoj dobi te nadzor i podršku stručne osobe.
+
+(5) Maloljetni volonter ne smije biti izložen:
+
+– volontiranju izvan granica Republike Hrvatske bez suglasnosti zakonskog zastupnika te bez pratnje zakonskog zastupnika ili organizatora volontiranja
+
+– volontiranju povezanom s teškim tjelesnim naporom ili rizicima koji ugrožavaju ili bi mogli ugroziti njegov život, zdravlje, ćudoređe, razvoj ili izvršavanje školskih obveza.
+
+(6) Maloljetni volonter ima sva prava volontera određena ovim Zakonom.
+
+(7) Maloljetni volonter može prestati obavljati volonterske aktivnosti u bilo kojem trenutku bez suglasnosti, ali uz znanje zakonskog zastupnika.«.
+
+### Članak 14.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Dijete koje nije navršilo 15 godina života (u daljnjem tekstu: dijete volonter) može biti uključeno u obavljanje odgojno-obrazovnih volonterskih aktivnosti kao aktivnosti usmjerenih zajedničkom dobru i odgoju za volontiranje samo u svrhu odgoja i obrazovanja na način koji pridonosi njegovu razvoju i socijalizaciji i ako je organizator volontiranja odgojno-obrazovna ustanova, ustanova socijalne skrbi ili druga pravna osoba koja organizira volontiranje u odgojne i obrazovne svrhe uz suglasnost nadležnih tijela državne uprave, odgojno-obrazovnih ustanova ili ustanova socijalne skrbi ili koja za provođenje aktivnosti odgoja za volontiranje ima sklopljen sporazum s nadležnim tijelom iz područja obrazovanja.
+
+(2) U slučaju iz stavka 1. ovoga članka organizator volontiranja obvezno pribavlja pisanu suglasnost zakonskog zastupnika djeteta volontera.
+
+(3) Djetetu volonteru nije dopušteno obavljati volonterske aktivnosti ili usluge u razdoblju između 23 sata i 6 sati.
+
+(4) Dijete volonter može prestati obavljati volonterske aktivnosti u bilo kojem trenutku bez suglasnosti, ali uz znanje zakonskog zastupnika.
+
+(5) Kada odgojno-obrazovna ustanova provodi odgoj za volontiranje u suradnji s neprofitnom pravnom osobom koja u tu svrhu nema sklopljen sporazum s nadležnim tijelom iz područja obrazovanja, dužna je po službenoj dužnosti pribaviti dokaz da osobi ovlaštenoj za zastupanje neprofitne pravne osobe nije izrečena sigurnosna mjera iz članka 10. stavka 3. podstavaka 1. i 2. ovoga Zakona, da nije osuđena za kaznena djela iz članka 10. stavka 3. podstavaka 3. i 4. ovoga Zakona, da se protiv nje ne vodi kazneni postupak za ta kaznena djela i da joj nije izrečena prekršajnopravna sankcija za nasilje u obitelji.
+
+(6) Osoba ovlaštena za zastupanje neprofitne pravne osobe dužna je odgojno-obrazovnoj ustanovi dostaviti popis osoba odgovornih za koordinaciju i provođenje aktivnosti u okviru neprofitne pravne osobe.
+
+(7) Ako zadaci osoba iz stavka 6. ovoga članka vezani uz provođenje aktivnosti odgoja za volontiranje uključuju kontakt s djetetom volonterom, odgojno-obrazovna ustanova dužna je prije početka provođenja aktivnosti pribaviti dokaz iz stavka 5. ovoga članka i za te osobe, uz njihovu suglasnost.«.
+
+### Članak 15.
+
+U članku 14. stavku 1. iza riječi: »stanovništva« dodaju se riječi: »i osoba u riziku od socijalne isključenosti«.
+
+Stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Za osobu lišenu poslovne sposobnosti u dijelu samostalnog poduzimanja radnji koje se odnose na sklapanje ugovora, ugovor o volontiranju sklapa skrbnik u pisanom obliku uz uvažavanje mišljenja volontera štićenika.
+
+(4) Kada volontiranje prelazi opseg poslovne sposobnosti osobe lišene poslovne sposobnosti, ta osoba može prestati obavljati volonterske aktivnosti u bilo kojem trenutku bez suglasnosti, ali uz znanje skrbnika.«.
+
+### Članak 16.
+
+U članku 15. stavku 1. riječi: »Volonterka ili volonter« zamjenjuju se riječju: »Volonter«.
+
+U stavku 2. podstavku 7. riječi: »volonterke ili volontera« zamjenjuju se riječju: »volontera«.
+
+Podstavak 8. mijenja se i glasi:
+
+» – dnevnica za putovanja isplaćena volonterima, uz uvjet da iznos dnevnice ne premašuje iznos dnevnice propisane za državne službenike,«.
+
+U podstavku 11. iza riječi: »volontiranje« dodaju se riječi: »i drugih nagrada za volontiranje koje ne isplaćuje organizator volontiranja«.
+
+### Članak 17.
+
+U članku 16. stavku 1. riječi: »volonterke ili volontera« zamjenjuju se riječju: »volontera«.
+
+U stavku 2. riječi: »volonterke ili volontera« zamjenjuju se riječju: »volontera«.
+
+### Članak 18.
+
+U članku 17. stavak 3. mijenja se i glasi:
+
+»(3) Stranci i osobe kojima je odobrena međunarodna zaštita mogu volontirati u Republici Hrvatskoj sukladno odredbama ovoga Zakona, zakona kojim se uređuje ulazak, kretanje, boravak i pravo na rad stranaca u Republici Hrvatskoj, zakona kojim se uređuje status, prava i obveze osoba s odobrenom međunarodnom zaštitom i drugim propisima Republike Hrvatske te preuzetim međunarodnopravnim obvezama.«.
+
+U stavku 5. riječi: »volonterka strankinja ili volonter stranac« zamjenjuju se riječima: »volonter stranac«.
+
+### Članak 19.
+
+U članku 18. stavku 1. riječ: »središnje« briše se.
+
+### Članak 20.
+
+U članku 19. podstavku 5. riječ: »volontera« zamjenjuje se riječju: »volontiranja«.
+
+U podstavku 6. riječi: »radi razvoja« zamjenjuju se riječima: »usmjerene razvoju«.
+
+### Članak 21.
+
+U članku 20. riječ: »središnjim« briše se.
+
+### Članak 22.
+
+Članak 21. mijenja se i glasi:
+
+»(1) Odbor ima 21 člana, a svaki član ima zamjenika.
+
+(2) Odbor čine:
+
+– predstavnik Nadležnog tijela,
+
+– predstavnik Ureda za udruge,
+
+– predstavnik Ureda za ljudska prava i prava nacionalnih manjina,
+
+– predstavnik Nacionalne zaklade za razvoj civilnoga društva,
+
+– predstavnik tijela državne uprave nadležnog za obrazovanje,
+
+– predstavnik tijela državne uprave nadležnog za zdravstvo,
+
+– predstavnik tijela državne uprave nadležnog za mlade,
+
+– predstavnik tijela državne uprave nadležnog za civilnu zaštitu,
+
+– predstavnik tijela državne uprave nadležnog za turizam i sport,
+
+– predstavnik Agencije za mobilnost i programe Europske unije,
+
+– osam predstavnika organizatora volontiranja i/ili organizacija civilnoga društva koje se bave razvojem volonterstva,
+
+– tri nezavisna stručnjaka koji se bave volonterstvom i civilnim društvom na prijedlog jedinica lokalne i područne (regionalne) samouprave.«.
+
+### Članak 23.
+
+Članak 22. mijenja se i glasi:
+
+»(1) Članove i zamjenike članova Odbora imenuje Vlada Republike Hrvatske.
+
+(2) Članovi Odbora i njihovi zamjenici imenuju se na rok od četiri godine i mogu biti ponovno imenovani.
+
+(3) Kriterije za izbor i način izbora predstavnika organizatora volontiranja i/ili organizacija civilnoga društva koje se bave razvojem volonterstva i predstavnika nezavisnih stručnjaka koji se bave volonterstvom i civilnim društvom na prijedlog jedinica lokalne i područne (regionalne) samouprave odredit će čelnik Nadležnog tijela odlukom.
+
+(4) Članovi Odbora biraju predsjednika većinom glasova svih članova Odbora.
+
+(5) Predstavnik Nadležnog tijela ujedno je i potpredsjednik Odbora.
+
+(6) Članovi Odbora koji nisu zaposlenici tijela državne uprave, ureda Vlade Republike Hrvatske, javnih ustanova, pravosudnih tijela i drugih pravnih osoba koje se prvenstveno financiraju iz sredstava državnog proračuna imaju pravo na naknadu opravdanih troškova nastalih sudjelovanjem u radu Odbora.
+
+(7) Odbor donosi Poslovnik o radu na prvoj sjednici i Akcijski plan djelovanja za mandatno razdoblje.«.
+
+### Članak 24.
+
+U članku 25. stavku 1. riječi: »volonterka ili volonter« zamjenjuju se riječju: »volonter«.
+
+### Članak 25.
+
+U članku 26. stavku 3. podstavku 5. riječi: »potpuno ili djelomice« brišu se.
+
+U podstavku 6. riječi: »volonterka ili volonter« zamjenjuju se riječju: »volonter«.
+
+### Članak 26.
+
+U članku 27. stavku 2. riječi: »potpuno ili djelomice« brišu se.
+
+U stavku 3. riječi: »potpuno ili djelomice« brišu se.
+
+### Članak 27.
+
+U članku 28. podstavci 1. i 2. brišu se.
+
+U dosadašnjem podstavku 3., koji postaje podstavak 1., riječi: »volonterke ili volontera« zamjenjuju se riječju: »volontera«.
+
+Dosadašnji podstavci 4. do 10. postaju podstavci 2. do 8.
+
+### Članak 28.
+
+U članku 29. stavak 1. mijenja se i glasi:
+
+»(1) Volonter, odnosno njegov zakonski zastupnik uvijek može jednostrano raskinuti ugovor o volontiranju i prestati volontirati, osim kad bi to izazvalo izravnu i trenutačnu štetu organizatoru volontiranja, korisnicima volontiranja ili trećim osobama ako ovim Zakonom nije drukčije određeno.«.
+
+U stavku 2. podstavku 3. riječi: »volonterka ili volonter« zamjenjuju se riječju: »volonter«.
+
+### Članak 29.
+
+U članku 30. stavku 3. riječi: »Volonterka ili volonter« zamjenjuju se riječju: »Volonter«.
+
+U stavku 4. riječi: »volontera ili volonterke« zamjenjuju se riječju: »volontera«.
+
+### Članak 30.
+
+U članku 31. stavku 1. riječi: »Volonterka ili volonter su obvezni« zamjenjuju se riječima: »Volonter je obvezan«.
+
+Stavci 2., 3. i 4. mijenjaju se i glase:
+
+»(2) Volonter je obvezan izvršavati upute organizatora volontiranja, osim uputa u vezi s volontiranjem koje su:
+
+– opasne za život i zdravlje volontera ili drugih osoba,
+
+– volonteru moralno neprihvatljive,
+
+– u suprotnosti s ugovorom o volontiranju.
+
+(3) Ako izvršavanje upute može uzrokovati štetu volonteru, korisnicima volontiranja ili trećim osobama, volonter je dužan na to upozoriti organizatora volontiranja.
+
+(4) Volonter ne odgovara za prouzrokovanu štetu ako je prethodno upozorio organizatora volontiranja na moguću opasnost.«.
+
+### Članak 31.
+
+U članku 32. stavku 1. podstavku 4. riječi: »volonterki ili volonteru« zamjenjuju se riječju: »volonteru«.
+
+U podstavku 6. riječi: »volonterki ili volonteru« zamjenjuju se riječju: »volonteru«.
+
+U podstavku 7. riječi: »volonterki ili volonteru« zamjenjuju se riječju: »volonteru«.
+
+U stavku 2. riječi: »volonterku ili volontera« zamjenjuju se riječju: »volontera«.
+
+U podstavku 1. riječi: »volonterke ili volontera« zamjenjuju se riječju: »volontera«.
+
+### Članak 32.
+
+U članku 34. stavku 1. riječi: »volonterki ili volonteru« zamjenjuju se riječju: »volonteru«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Potvrda o volontiranju, osim podataka iz stavka 1. ovoga članka, sadrži i potpis osobe ovlaštene za zastupanje organizatora volontiranja kojim se jamči točnost navedenih podataka.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Potvrda o volontiranju valjana je i ako je izdana elektroničkim putem, sukladno propisu kojim se uređuje elektronički potpis.«.
+
+Dosadašnji stavci 3. do 6. postaju stavci 4. do 7.
+
+### Članak 33.
+
+U članku 35. stavak 1. mijenja se i glasi:
+
+»(1) Volonter koji za vrijeme volontiranja namjerno ili zbog krajnje nepažnje uzrokuje štetu korisnicima volontiranja, organizatoru volontiranja ili trećim osobama dužan je štetu naknaditi sukladno općim propisima obveznog prava.«.
+
+U stavku 2. riječi: »volonterka ili volonter prouzroče« zamjenjuju se riječima: »volonter prouzroči«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Organizator volontiranja koji je nadoknadio štetu korisniku volontiranja ili trećoj osobi ima pravo tražiti obeštećenje od volontera ako se dokaže da je volonter štetu prouzročio namjerno ili iz krajnje nepažnje.«.
+
+### Članak 34.
+
+U članku 36. stavku 2. riječ: »središnjih« briše se.
+
+### Članak 35.
+
+Naslov iznad članka 37. mijenja se i glasi: »Prekršajne odredbe«.
+
+Članak 37. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 5000,00 do 25.000,00 kuna kaznit će se za prekršaj organizator volontiranja koji:
+
+– u slučaju kratkotrajnog volontiranja kojim se ugovara pružanje usluga djeci, osobama s invaliditetom, starijim i nemoćnim osobama, bolesnim osobama ili osobama koje su lišene poslovne sposobnosti ne osigura stalni nadzor stručne osobe nad volontiranjem (članak 10. stavak 5.),
+
+– u slučaju kratkotrajnog volontiranja kojim se ugovara pružanje usluga osobama iz podstavka 1. ovoga stavka ne osigura da volonter ne dođe u nenadzirani kontakt s korisnikom volontiranja tijekom čitavog vremena volontiranja (članak 10. stavak 5.),
+
+– u slučaju dugotrajnog volontiranja kojim se ugovara pružanje usluga osobama iz podstavka 1. ovoga stavka ne osigura stalni nadzor stručne osobe nad volontiranjem i ne osigura da volonter ne dođe u nenadzirani kontakt s korisnikom volontiranja dok organizator volontiranja ne pribavi posebno uvjerenje iz kaznene evidencije te druge dokaze o nepostojanju okolnosti iz članka 10. stavka 3. ovoga Zakona (članak 10. stavak 6.),
+
+– na zahtjev volontera ne izda pisanu potvrdu o sklopljenom ugovoru (članak 26. stavak 2.),
+
+– ne zaključi ugovor o volontiranju (članak 26. stavak 3.),
+
+– ne izvijesti Nadležno tijelo o obavljenim uslugama ili aktivnostima iz članka 3. ovoga Zakona (članak 33. stavak 1.),
+
+– na zahtjev volontera ne izda potvrdu o kratkotrajnom volontiranju (članak 34. stavak 7.),
+
+– na zahtjev volontera ne izda potvrdu o kompetencijama stečenim dugotrajnim volontiranjem (članak 34.a stavak 1.).
+
+(2) Novčanom kaznom u iznosu od 1000,00 do 5000,00 kuna kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba organizatora volontiranja.
+
+(3) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se organizator volontiranja ako je prekršaj iz stavka 1. ovoga članka počinjen prema djetetu ili osobi lišenoj poslovne sposobnosti.
+
+(4) Novčanom kaznom u iznosu od 2000,00 do 10.000,00 kuna kaznit će se i odgovorna osoba organizatora volontiranja ako je prekršaj iz stavka 1. ovoga članka počinjen prema djetetu ili osobi lišenoj poslovne sposobnosti.
+
+(5) Novčanom kaznom u iznosu od 20.000,00 do 200.000,00 kuna kaznit će se organizator volontiranja koji:
+
+– volontiranjem zamjenjuje rad koji obavljaju radnici zaposleni u skladu sa zakonom kojim se uređuju radni odnosi (članak 11. stavak 1.),
+
+– volontere iskorištava i zloupotrebljava u svrhu stjecanja ili povećanja profita ili stjecanja osobne koristi (članak 11. stavak 4.).
+
+(6) Novčanom kaznom u iznosu od 2000,00 do 20.000,00 kuna kaznit će se za prekršaj iz stavka 5. ovoga članka i odgovorna osoba organizatora volontiranja.
+
+(7) Novčanom kaznom u iznosu od 50.000,00 do 250.000,00 kuna kaznit će se organizator volontiranja koji:
+
+– organizira volontiranje iako kod njegovih odgovornih osoba postoje okolnosti iz članka 10. stavka 3. ovoga Zakona (članak 10. stavak 4.),
+
+– sklopi ugovor o volontiranju s maloljetnim volonterom bez pisane suglasnosti zakonskog zastupnika (članak 12. stavak 1.),
+
+– uključi dijete volontera u odgoj za volontiranje bez pisane suglasnosti zakonskog zastupnika (članak 13. stavak 2.),
+
+– u slučaju kada su volonteri pripadnici socijalno isključenih skupina stanovništva, ne osigura adekvatnu pomoć i nadzor stručnih osoba (članak 14. stavak 2.).
+
+(8) Novčanom kaznom u iznosu od 5000,00 do 15.000,00 kuna kaznit će se za prekršaj iz stavka 7. ovoga članka i odgovorna osoba organizatora volontiranja.«.
+
+PRIJELAZNE I ZAVRŠNE ODREDBE
+
+### Članak 36.
+
+Članovi Nacionalnog odbora za razvoj volonterstva koji su imenovani na temelju Zakona o volonterstvu (»Narodne novine«, br. 58/07. i 22/13.) nastavljaju s radom najdulje do isteka roka na koji su imenovani.
+
+### Članak 37.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/27
+
+Zagreb, 15. srpnja 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,14 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-12-20
-last_amended: 2013-02-28
+last_amended: 2025-12-03
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 148/2011 (2993) https://narodne-novine.nn.hr/eli/sluzbeni/2011/148/2993"
-narodne_novine: "148/11, 25/13"
+narodne_novine: "148/11, 25/13, 70/19, 80/22, 114/22, 155/23, 146/25"
 amendments:
   - "NN 25/2013 (405) Zakon o izmjenama i dopunama Zakona o parničnom postupku"
+  - "NN 70/2019 (1447) Zakon o izmjenama i dopunama Zakona o parničnom postupku"
+  - "NN 80/2022 (1170) Zakon o izmjenama i dopunama Zakona o parničnom postupku"
+  - "NN 114/2022 (1713) Zakon o izmjenama Zakona o parničnom postupku"
+  - "NN 155/2023 (2366) Zakon o izmjenama i dopunama Zakona o parničnom postupku"
+  - "NN 146/2025 (2168) Zakon o izmjeni i dopunama Zakona o parničnom postupku"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/148/2993"
 retrieved: 2026-10-12
 ---
@@ -24,7 +29,7 @@ retrieved: 2026-10-12
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 148/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/148/2993).
 >
-> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2013.
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2013, NN 70/2019, NN 80/2022, NN 114/2022, NN 155/2023, NN 146/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -6826,3 +6831,2439 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o parničnom postupku (NN 70/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/70/1447*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PARNIČNOM POSTUPKU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o parničnom postupku, koji je Hrvatski sabor donio na sjednici 12. srpnja 2019.
+
+Klasa: 011-01/19-01/109
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. srpnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PARNIČNOM POSTUPKU**
+
+#### Članak 1.
+
+U Zakonu o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13. i 89/14. – Odluka Ustavnog suda Republike Hrvatske) iza članka 1. dodaje se članak 1.a koji glasi:
+
+»Članak 1.a
+
+Ovim Zakonom osigurava se provedba sljedećih akata Europske unije:
+
+– Uredba (EZ) br. 1393/2007 Europskog parlamenta i Vijeća od 13. studenoga 2007. o dostavi, u državama članicama, sudskih i izvansudskih pismena u građanskim ili trgovačkim stvarima (»dostava pismena«), i o stavljanju izvan snage Uredbe Vijeća (EZ) br. 1348/2000 (SL L 324, 10. 12. 2007.), u daljnjem tekstu: Uredba 1393/2007.;
+
+– Uredba Vijeća (EZ) br. 1206/2001 od 28. svibnja 2001. o suradnji između sudova država članica u izvođenju dokaza u građanskim ili trgovačkim stvarima (SL L 174, 27. 6. 2001.), u daljnjem tekstu: Uredba 1206/2001.;
+
+– Uredba (EZ) br. 1896/2006 Europskog parlamenta i Vijeća od 12. prosinca 2006. o uvođenju postupka za europski platni nalog (SL L 399, 30. 12. 2006.), u daljnjem tekstu: Uredba br. 1896/2006.;
+
+– Uredba (EZ) br. 861/2007 Europskog parlamenta i Vijeća od 11. srpnja 2007. o uvođenju europskog postupka za sporove male vrijednosti (SL L 199, 31. 7. 2007.), u daljnjem tekstu: Uredba br. 861/2007.;
+
+– Uredba (EU) br. 2015/2421 Europskog parlamenta i Vijeća od 16. prosinca 2015. o izmjeni Uredbe (EZ) br. 861/2007 o uvođenju europskog postupka za sporove male vrijednosti i Uredbe (EZ) br. 1896/2006 o uvođenju postupka za europski platni nalog (SL L 341, 24. 12. 2015.).«.
+
+#### Članak 2.
+
+U članku 10. stavak 1. mijenja se i glasi:
+
+»Sud, stranke i drugi sudionici moraju nastojati da se postupak provede bez odugovlačenja, u razumnom roku i sa što manje troškova. Sud je dužan onemogućiti svaku zlouporabu prava u postupku.«.
+
+Stavak 13. mijenja se i glasi:
+
+»Ako je rješenje o izricanju novčane kazne ukinuto ili preinačeno, osoba kojoj je naplaćena izrečena novčana kazna može u roku od tri mjeseca od primitka tog rješenja u istom postupku zatražiti od suda da naloži Republici Hrvatskoj isplatu neosnovano naplaćenog iznosa novčane kazne. Ako taj zahtjev bude podnesen nakon isteka toga roka, sud će ga odbaciti. Zahtjev za isplatu temeljem rješenja kojim se nalaže Republici Hrvatskoj isplata neosnovano naplaćenog iznosa novčane kazne podnosi se ministarstvu nadležnom za poslove pravosuđa.«.
+
+#### Članak 3.
+
+U članku 34. stavku 1. točka 9. mijenja se i glasi:
+
+»9. radi naplate:
+
+– naknada za opskrbu pitkom vodom, plinom, toplinskom i električnom energijom,
+
+– naknada za održavanje čistoće,
+
+– naknada iz pretplatničkog ugovora javnih komunikacijskih usluga,
+
+– naknada za korištenje općekorisnih funkcija šuma,
+
+– naknada za pristojbu Hrvatske radio-televizije,
+
+– naknada za parkiranje,
+
+– regresnih zahtjeva iz zdravstvenog, mirovinskog i invalidskog osiguranja,«.
+
+#### Članak 4.
+
+U članku 34.b točki 1. iza riječi: »pravnih osoba i obrtnika« zarez i riječi: »uključujući i trgovce pojedince« brišu se.
+
+Točka 5. mijenja se i glasi:
+
+»5. sporove u kojima je stranka osoba nad kojom je pred trgovačkim sudom otvoren stečajni postupak bez obzira na svojstvo druge stranke te sve sporove u povodu tog stečajnog postupka, osim ako nije riječ o sporovima u kojima prema ovom Zakonu uvijek sudi općinski sud, odnosno ako nije riječ o sporovima za koje je zakonom utvrđena nadležnost nekog drugog suda. Sporovi koji su pokrenuti prije nastupanja pravnih posljedica otvaranja stečajnog postupka dovršit će se pred sudom koji vodi stečajni postupak,«.
+
+#### Članak 5.
+
+U članku 35. stavku 1. iza riječi: »suda« zarez i riječi: »prava na izjavljivanje revizije« brišu se.
+
+#### Članak 6.
+
+U članku 40. stavku 3. riječi: »prava na izjavljivanje revizije,« i »u raspravljanje o glavnoj stvari,« brišu se.
+
+#### Članak 7.
+
+U članku 73. stavku 5. riječi: »istaknut u pravnom lijeku« zamjenjuju se riječima: »podnesen u povodu pravnog lijeka«.
+
+U stavku 6. riječi: »pred prvostupanjskim sudom« brišu se, a iza riječi: »odluke« dodaju se riječi: »pred nadležnim sudom«.
+
+Stavak 7. briše se.
+
+#### Članak 8.
+
+U članku 84. stavku 1. iza riječi: »sud će tuženiku« dodaju se riječi: »na njegov trošak«.
+
+U stavku 5. iza riječi: »postaviti i tužitelju« dodaju se riječi: »na njegov trošak«.
+
+#### Članak 9.
+
+U članku 85. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Sredstva za pokriće troškova postavljanja i rada privremenog zastupnika dužan je predujmiti tužitelj, osim ako se privremeni zastupnik postavlja tužitelju zbog razloga iz članka 84. stavka 2. točaka 4. i 5., na temelju rješenja suda protiv kojeg nije dopuštena posebna žalba. Ako tužitelj ne predujmi ta sredstva u roku koji je odredio sud u svom rješenju, sud će tužbu odbaciti.«.
+
+#### Članak 10.
+
+U članku 91.a stavku 1. iza riječi: »podnijeti« dodaju se riječi: »prijedlog za dopuštenje revizije i«.
+
+U stavku 2. iza riječi: »sama podnijeti« i riječi: »nju može« dodaju se riječi: »prijedlog za dopuštenje revizije i«.
+
+Stavak 3. mijenja se i glasi:
+
+»Stranka, odnosno njezin opunomoćenik iz stavka 2. ovoga članka dužni su uz prijedlog za dopuštenje revizije ili reviziju ili najkasnije do isteka roka za njihovo podnošenje priložiti izvornik ili presliku potvrde o položenom pravosudnom ispitu ili drugu javnu ispravu u izvorniku ili preslici iz koje proizlazi da stranka ili njezin punomoćnik ima položen pravosudni ispit, ako takva potvrda ili druga javna isprava u izvorniku ili preslici prethodno nije podnesena sudu u istom postupku.«.
+
+#### Članak 11.
+
+Iza članka 106. dodaje se članak 106.a i naslov iznad njega koji glase:
+
+*»Podnesci u elektroničkom obliku*
+
+#### Članak 106.a
+
+Podnesak se može podnijeti u elektroničkom obliku putem informacijskog sustava.
+
+Podnesak u elektroničkom obliku mora biti potpisan kvalificiranim elektroničkim potpisom u skladu s posebnim propisima. Podnesak u elektroničkom obliku potpisan kvalificiranim elektroničkim potpisom smatrat će se vlastoručno potpisanim.
+
+Dan kada je informacijski sustav podnositelju potvrdio primitak podneska smatra se danom predaje podneska sudu kojemu je upućen.
+
+Ako podnesak podnesen u elektroničkom obliku nije prikladan za obradu na sudu, sud će o tome elektroničkim putem obavijestiti podnositelja i naložiti mu da podnesak ispravi u skladu s uputom.
+
+Iznimno od stavka 1. ovoga članka, državna tijela, državno odvjetništvo, odvjetnici, javni bilježnici, sudski vještaci, sudski procjenitelji, sudski tumači, stečajni upravitelji, povjerenici te pravne osobe uvijek su dužni podneske podnositi u elektroničkom obliku.
+
+Ako osoba iz stavka 5. ovoga članka podnesak ne podnese u elektroničkom obliku, sud će podnositelju naložiti da u roku od osam dana podnesak dostavi u elektroničkom obliku. Ako podnositelj ne dostavi podnesak u elektroničkom obliku u određenom roku, smatrat će se da je podnesak povučen.
+
+Ministarstvo nadležno za poslove pravosuđa uspostavlja informacijski sustav.
+
+Pretpostavke za podnošenje podnesaka i dostavu u elektroničkom obliku, oblike zapisa podnesaka u elektroničkom obliku te organizaciju i djelovanje informacijskog sustava uređuju se pravilnikom koji donosi ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 12.
+
+Članak 115. mijenja se i glasi:
+
+»Ročište se, u pravilu, održava u sudskoj zgradi.
+
+Sud može odlučiti da se ročište održi izvan sudske zgrade kad ustanovi da je to nužno ili da će se na taj način uštedjeti u vremenu ili u troškovima postupka.
+
+Sud može odrediti da se ročište održi na daljinu, uz korištenje odgovarajućih audiovizualnih uređaja, ili da se na taj način izvede pojedini dokaz.
+
+Protiv rješenja suda iz stavaka 2. i 3. ovoga članka nije dopuštena žalba.«.
+
+#### Članak 13.
+
+U članku 126.c stavku 3. iza riječi: »Zakona« stavlja se zarez i dodaju riječi: »uz plaćanje naknade koju pravilnikom propiše ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 14.
+
+U članku 131. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»Na zahtjev člana vijeća koji je izdvojio glas, njegovo pisano obrazloženje izdvojenog glasa priložit će se pisanoj odluci. To mišljenje objavljuje se na isti način kao i odluka.«.
+
+#### Članak 15.
+
+U članku 133. stavku 1. riječi: »posebnim zakonom« zamjenjuju se riječima: »ovim Zakonom«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»Iznimno od stavka 1. ovoga članka, pismena se dostavljaju državnim tijelima, državnom odvjetništvu, odvjetnicima, javnim bilježnicima, sudskim vještacima, sudskim procjeniteljima, sudskim tumačima, stečajnim upraviteljima, povjerenicima te pravnim osobama u elektroničkom obliku putem informacijskog sustava ili na drugi odgovarajući način.«.
+
+#### Članak 16.
+
+Članak 133.c mijenja se i glasi:
+
+»Sud može naložiti strankama da jedna drugoj izravno upućuju pismena preporučeno poštom s povratnicom ili na drugi način koji omogućava dokaz o obavljenoj predaji, osim ako su obje stranke ili njihovi punomoćnici ili zakonski zastupnici uvijek dužni podneske podnositi u elektroničkom obliku u skladu s člankom 106.a ovoga Zakona.
+
+Ako je koja od stranaka fizička osoba s registriranom djelatnošću, pismena iz stavka 1. ovoga članka mogu joj se predati izravno u njezinu sjedištu uz potvrdu o preuzimanju pošiljke.«.
+
+#### Članak 17.
+
+Iza članka 133.c dodaje se članak 133.d i naslov iznad njega koji glase:
+
+*»Dostava elektroničkim putem*
+
+#### Članak 133.d
+
+Dostava se može obaviti elektroničkim putem.
+
+Ako stranka izjavi da je suglasna da joj se dostava obavlja elektroničkim putem, sud će toj stranci dostavu obavljati putem informacijskog sustava.
+
+Stranka može zatražiti obavijest o dostavi pismena elektroničkim putem na adresu elektroničke pošte koju će navesti u izjavi iz stavka 2. ovoga članka.
+
+Ako je stranka podnesak podnijela sudu u elektroničkom obliku, smatrat će se, dok ne priopći drugačije, da je suglasna da joj se dostava obavlja elektroničkim putem.
+
+Ako sud utvrdi da dostava elektroničkim putem nije moguća, dostavit će pismeno na drugi način i navesti razlog za takvu dostavu.«.
+
+#### Članak 18.
+
+Članak 134. briše se.
+
+#### Članak 19.
+
+Članak 134.a mijenja se i glasi:
+
+»Fizičkim osobama koje obavljaju registriranu djelatnost (obrtnici, liječnici i dr.), za koje nije propisana obvezna dostava elektroničkim putem (članak 133. stavak 5.), kada se dostava obavlja u sporovima koji se tiču te djelatnosti, dostava se obavlja na adresu navedenu u tužbi. Ako dostava na adresu navedenu u tužbi ne uspije, dostava će se obaviti na adresu sjedišta te osobe upisanu u upisniku. Ako dostava ne uspije ni na toj adresi, obavit će se stavljanjem pismena na oglasnu ploču suda. Smatrat će se da je dostava obavljena istekom osmoga dana od dana stavljanja pismena na oglasnu ploču suda.
+
+Ako je adresa upisanog sjedišta osobe iz stavka 1. ovoga članka adresa navedena u tužbi, dostava iz stavka 1. ovog članka će se ponoviti još jednom na tu adresu.
+
+Obavijest o obavljenoj dostavi pravnoj osobi nad kojom je otvoren stečaj dostavlja se na poslovnu adresu stečajnog upravitelja.«.
+
+#### Članak 20.
+
+U članku 134.b stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., riječi: »stavcima 1. i 2.« zamjenjuju se riječima: »stavku 1.«.
+
+Dosadašnji stavak 5., koji postaje stavak 4., mijenja se i glasi:
+
+»U slučaju iz stavka 1. ovoga članka osobe iz stavka 1. ovoga članka dužne su pismeno podići iz pretinca u roku od osam dana na način određen stavcima 2. i 3. ovoga članka. Ako pismeno ne bude podignuto u tom roku, dostava će se obaviti stavljanjem pismena na oglasnu ploču suda. Smatrat će se da je dostava obavljena istekom osmoga dana od dana stavljanja pismena na oglasnu ploču suda.«.
+
+U dosadašnjem stavku 6., koji postaje stavak 5., riječi: »slučajevima iz stavka 1. i 2.« zamjenjuju se riječima: »slučaju iz stavka 1.«.
+
+Iza dosadašnjeg stavka 7., koji postaje stavak 6., dodaje se novi stavak 7. koji glasi:
+
+»Predsjednik Vrhovnog suda Republike Hrvatske može za obavljanje dostave iz stavka 1. ovoga članka ovlastiti samo jedan od više sudova različitog stupnja i vrste sa sjedištem na području nadležnosti županijskog suda.«.
+
+#### Članak 21.
+
+Članak 139. briše se.
+
+#### Članak 22.
+
+U članku 141. stavak 2. briše se.
+
+Dosadašnji stavci 3. do 5. postaju stavci 2. do 4.
+
+#### Članak 23.
+
+U članku 142. stavku 2. riječi: »1., 2. ili 3.« zamjenjuju se riječima: »1. ili 2.«.
+
+U stavku 3. riječi: »134. i« brišu se.
+
+#### Članak 24.
+
+U članku 143. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»Ako je ponovljena dostava prema odredbi stavka 2. ovoga članka obavljena stavljanjem pismena na mrežnoj stranici e-oglasna ploča sudova, sve daljnje dostave u postupku obavit će se stavljanjem pismena na mrežnoj stranici e-oglasna ploča sudova, uz (istodobni) pokušaj dostave na adresu prebivališta iz stavka 1. ovoga članka, dok stranka ne obavijesti sud o adresi svog prebivališta ili boravišta. Smatrat će se da je dostava obavljena istekom osmoga dana od dana stavljanja pismena na mrežnoj stranici e-oglasna ploča sudova, neovisno o tome je li i kada je uspjela dostava na adresu prebivališta iz stavka 1. ovoga članka.
+
+Ako primatelj ne podigne pismeno ili ako se dostava ne uspije obaviti iz bilo kojeg drugog razloga, smatrat će se da dostava nije uspjela te će se pokušati još jednom ili će se obaviti stavljanjem pismena na oglasnu ploču suda, u skladu s odredbama ovoga članka.«.
+
+#### Članak 25.
+
+Iza članka 143.b dodaju se članci 143.c i 143.d koji glase:
+
+»Članak 143.c
+
+Dostava pismena u elektroničkom obliku obavlja se putem informacijskog sustava.
+
+Sud putem informacijskog sustava šalje adresatu u njegov sigurni elektronički poštanski pretinac pismeno, koje adresat mora preuzeti u roku od 15 dana od dana kad je pismeno pristiglo u njegov sigurni elektronički poštanski pretinac, inače nastupaju posljedice iz stavka 5. ovoga članka.
+
+Informacijski sustav istodobno sa slanjem pismena iz stavka 2. ovoga članka šalje adresatu na adresu elektroničke pošte i informativnu poruku u kojoj ga obavještava o dostavi pismena. U poruci se adresata upozorava na pravne posljedice iz stavka 5. ovoga članka.
+
+Adresat pismeno preuzima iz sigurnog elektroničkog poštanskog pretinca informacijskog sustava tako da dokaže svoj identitet putem Nacionalnog identifikacijskog i autentifikacijskog sustava i elektronički potvrdi primitak pismena.
+
+Smatrat će se da je dostava prema stavku 4. ovog članka obavljena istekom 15. dana od dana kada je pismeno pristiglo u sigurni elektronički poštanski pretinac, ako adresat u tom roku ne potvrdi primitak pismena.
+
+Informacijski sustav o dostavi obavještava sud potvrdom u elektroničkom obliku.
+
+Na način određen u ovom članku elektroničkim putem mogu se dostaviti i ona pismena koja imaju izvornike u fizičkom obliku ako je elektronički (skenirani) prijepis koji je izrađen na temelju izvornika u fizičkom obliku potpisan kvalificiranim elektroničkim pečatom suda.
+
+#### Članak 143.d
+
+Osobnom dostavom smatra se i dostava obavljena sukladno odredbi članka 143.c ovoga Zakona.«.
+
+#### Članak 26.
+
+U članku 145. stavak 2. mijenja se i glasi:
+
+»Ako protiv pravomoćne odluke unutar roka iz stavka 1. ovoga članka bude podnesen prijedlog za dopuštenje revizije ili revizija, taj se rok produžava sve dok ne istekne šest mjeseci od dana dostave stranci odluke kojom se prijedlog za dopuštenje revizije odbacuje ili odbija, odnosno kojom se revizija odbacuje ili odbija ili pobijana odluka preinačuje.«.
+
+#### Članak 27.
+
+U članku 149. stavak 1. mijenja se i glasi:
+
+»Potvrdu o obavljenoj dostavi (dostavnicu) potpisuje primatelj, koji će na njoj napisati datum primitka.«.
+
+Stavak 5. mijenja se i glasi:
+
+»Dostavljač će od osobe kojoj pismeno predaje zatražiti da dokaže svoju istovjetnost.«.
+
+U stavku 6. iza riječi: »predaje« zarez i riječi: »a koju osobno ne poznaje,« brišu se.
+
+U stavku 7. riječi: »te naznačiti da osobu kojoj je pismeno predao osobno poznaje« brišu se.
+
+#### Članak 28.
+
+Članak 154. mijenja se i glasi:
+
+»Stranka koja u cijelosti izgubi parnicu dužna je protivnoj stranci i njezinu umješaču naknaditi troškove izazvane vođenjem postupka. Umješač na strani stranke koja je izgubila parnicu dužan je naknaditi troškove koje je uzrokovao svojim radnjama.
+
+Ako su stranke djelomično uspjele u parnici, sud će najprije utvrditi postotak u kojemu je svaka od njih uspjela, zatim će od postotka one stranke koja je u većoj mjeri uspjela oduzeti postotak one stranke koja je u manjoj mjeri uspjela, nakon toga će utvrditi iznos pojedinih i iznos ukupnih troškova stranke koja je u većoj mjeri uspjela u parnici koji su bili potrebni za svrhovito vođenje postupka te će toj stranci odmjeriti naknadu dijela takvih ukupnih troškova koji odgovara postotku koji je preostao nakon navedenog obračuna postotaka u kojima su stranke uspjele u parnici. Omjer uspjeha u parnici ocjenjuje se prema konačno postavljenom tužbenom zahtjevu, vodeći računa i o uspjehu dokazivanja u pogledu osnove zahtjeva.
+
+Neovisno o pravilima iz stavaka 1. i 2. ovoga članka, sud može odrediti da jedna stranka naknadi drugoj stranci pojedine troškove primjenom članka 156. stavka 1. ovoga Zakona.
+
+Ako su stranke djelomično uspjele u parnici u približno jednakim dijelovima, sud može odrediti da svaka stranka snosi svoje troškove ili da jedna stranka naknadi drugoj stranci samo pojedine troškove primjenom članka 156. stavka 1. ovoga Zakona.
+
+Sud može odlučiti da jedna stranka nadoknadi sve troškove koje su protivna stranka i njezin umješač imali ako protivna stranka nije uspjela samo u razmjerno neznatnom dijelu svog zahtjeva, a zbog tog dijela nisu nastali posebni troškovi.
+
+Prema rezultatu dokazivanja sud će odlučiti hoće li troškove iz članka 153. stavka 5. ovoga Zakona podmirivati jedna ili obje stranke ili će ti troškovi pasti na teret sredstava suda.«.
+
+#### Članak 29.
+
+U članku 158. stavak 1. mijenja se i glasi:
+
+»Tužitelj koji povuče tužbu ili se odrekne tužbenog zahtjeva dužan je tuženiku naknaditi troškove postupka.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Iznimno od stavka 1. ovoga članka, ako je tužitelj povukao tužbu ili se odrekao tužbenog zahtjeva odmah nakon što je tuženik udovoljio zahtjevu tužitelja ili zbog drugih razloga koji se mogu pripisati tuženiku, troškove postupka dužan je tužitelju naknaditi tuženik.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 30.
+
+Članak 160. mijenja se i glasi:
+
+»Ako u izlučnoj parnici bude prihvaćen tužbeni zahtjev za proglašenje ovrhe nedopuštenom na određenom predmetu ovrhe, a sud utvrdi da je tuženik kao ovrhovoditelj u ovršnom postupku imao opravdanih razloga smatrati da ne postoje prava trećih osoba na tom predmetu, odredit će da svaka stranka snosi svoje troškove.«.
+
+#### Članak 31.
+
+U članku 164. iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»O zahtjevu za naknadu troškova iz stavka 8. ovoga članka ovlašten je donijeti odluku i sudski savjetnik.«.
+
+#### Članak 32.
+
+U članku 179. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Zamoljeni sud od kojega se traži izvođenje dokaza saslušanjem osigurat će, ako je to moguće, izvođenje toga dokaza odgovarajućom primjenom članka 115. stavka 3. ovoga Zakona.«.
+
+#### Članak 33.
+
+U članku 186. stavku 2. riječi: »pravo na izjavljivanje revizije,« brišu se.
+
+#### Članak 34.
+
+U članku 186.a stavku 4. riječ: »ovršnosti« zamjenjuje se riječima: »ovršne isprave«.
+
+#### Članak 35.
+
+Članak 186.d mijenja se i glasi:
+
+»Sud može uvažavajući sve okolnosti, posebno interes stranaka i trećih osoba vezanih uz stranke te trajnost njihovih odnosa i upućenost jednih na druge, na ročištu ili izvan ročišta rješenjem uputiti stranke da u roku od osam dana pokrenu postupak mirenja ili rješenjem strankama predložiti rješavanje spora u postupku mirenja.
+
+Rješenja iz stavka 1. ovoga članka sud može donijeti tijekom cijeloga parničnog postupka.
+
+Ako stranke suglasno predlože ili prihvate rješavanje spora u postupku mirenja pred sudom, bez odgode će se odrediti sastanak radi pokušaja mirenja na koje se pozivaju stranke, njihovi zastupnici i punomoćnici ako ih imaju.
+
+Postupak mirenja pred sudom vodi izmiritelj određen s liste izmiritelja koju utvrđuje predsjednik suda.
+
+Izmiritelj ne može sudjelovati u postupku mirenja u parničnom predmetu koji mu je dodijeljen.
+
+Ako se postupak mirenja dovrši bez sklapanja nagodbe, izmiritelj ne smije sudjelovati u tom sporu u bilo kojem svojstvu.
+
+Nagodba sklopljena u postupku mirenja provedenom u sudu pred sucem izmiriteljem smatra se sudskom nagodbom.
+
+Iznimno od stavka 1. ovoga članka, ako su obje stranke ili dionička društva ili pravne osobe kojima je većinski član Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave, sud će po primitku odgovora na tužbu uputiti stranke da u roku od osam dana pokrenu postupak mirenja.
+
+Stranka koja je upućena pokrenuti postupak mirenja, a ne pristupi sastanku radi pokušaja mirenja, gubi pravo tražiti naknadu daljnjih troškova postupka pred sudom prvog stupnja.
+
+Rješenja iz stavka 1. ovoga članka su rješenja o upravljanju postupkom.«.
+
+#### Članak 36.
+
+Članak 186.e mijenja se i glasi:
+
+»Stranke mogu nakon podnošenja redovnog pravnog lijeka suglasno podnijeti prijedlog za rješavanje spora u postupku mirenja pred sucem izmiriteljem suda nadležnog za odlučivanje o pravnom lijeku.
+
+Izmiritelj ne može sudjelovati u postupku mirenja u parničnom predmetu koji mu je dodijeljen radi odlučivanja o pravnom lijeku.
+
+Ako se postupak mirenja dovrši bez sklapanja nagodbe, izmiritelj ne smije sudjelovati u tom sporu u bilo kojem svojstvu.
+
+Na postupke mirenja koji se provode u sudovima na odgovarajući način primjenjuju se odredbe zakona kojim se uređuje postupak mirenja, ako ovim Zakonom nije drukčije određeno.«.
+
+#### Članak 37.
+
+Članak 186.f mijenja se i glasi:
+
+»Ako su stranke u parničnom postupku suglasno predložile rješavanje spora u postupku mirenja u nekom od centara za mirenje izvan suda, sud će zastati s postupkom, uz odgovarajuću primjenu odredaba članka 186.g ovoga Zakona.
+
+Ako se postupak mirenja pred izabranim centrom za mirenje izvan suda dovrši sklapanjem nagodbe, stranke na temelju te nagodbe mogu pred sudom koji je zastao s postupkom sklopiti sudsku nagodbu.«.
+
+#### Članak 38.
+
+Članak 186.g mijenja se i glasi:
+
+»Stranke mogu tijekom parničnog postupka suglasno zatražiti od suda zastoj postupka radi pokušaja mirnog rješenja spora, bez obzira na način i forum rješavanja.
+
+Zastoj iz stavka 1. ovoga članka može trajati najduže 60 dana, s tim da na suglasni obrazloženi prijedlog stranaka, podnesen prije isteka roka čije se produljenje traži, sud može jednom ovaj rok produžiti za određeno vrijeme, najviše za daljnjih 120 dana.
+
+Ako nijedna stranka nakon isteka rokova iz stavka 2. ovoga članka na poziv suda ne predloži nastavak postupka u roku od 15 dana, smatra se da je tužba povučena.«.
+
+#### Članak 39.
+
+U članku 190. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Iznimno od odredbe stavka 1. ovoga članka, tužitelj može preinačiti tužbu do zaključenja glavne rasprave ako je bez svoje krivnje nije mogao preinačiti do zaključenja prethodnog postupka.«.
+
+Dosadašnji stavci 2. do 8. postaju stavci 3. do 9.
+
+#### Članak 40.
+
+U članku 196. stavku 2. riječi: »glavne rasprave« zamjenjuju se riječima: »prethodnog postupka«.
+
+#### Članak 41.
+
+Članak 213. mijenja se i glasi:
+
+»Sud će prekid postupka odrediti i ako je:
+
+1) odlučio da sam ne rješava o prethodnom pitanju (članak 12.),
+
+2) odlučio podnijeti zahtjev Sudu Europske unije o tumačenju Ugovorā Europske unije te valjanosti i tumačenju akata institucija, tijela, ureda ili agencija Europske unije.
+
+Sud može odrediti prekid postupka:
+
+1) ako odluka o tužbenom zahtjevu ovisi o tome je li učinjen trgovački prijestup ili je li učinjeno kazneno djelo za koje se goni po službenoj dužnosti, tko je počinitelj i je li on odgovoran, a osobito kad se pojavi sumnja da je svjedok ili vještak dao lažan iskaz ili da je isprava upotrijebljena kao dokaz lažna,
+
+2) ako je zahtjev Sudu Europske unije o tumačenju Ugovorā Europske unije te valjanosti i tumačenju akata institucija, tijela, ureda ili agencija Europske unije već podnesen u drugom postupku, a odluka suda ovisi o rješenju tog zahtjeva,
+
+3) u postupku u kojemu odluka ovisi o rješavanju istog pravnog pitanja, kad se na mrežnoj stranici e-oglasna ploča sudova objavi rješenje kojim se dopušta prijedlog za zauzimanje pravnog shvaćanja Vrhovnog suda Republike Hrvatske u oglednom postupku radi rješenja pitanja važnog za jedinstvenu primjenu prava (glava tridesetdruga – b).
+
+Protiv rješenja o prekidu postupka zbog podnošenja zahtjeva Sudu Europske unije (stavak 1. točka 2. ovoga članka) nije dopuštena žalba.
+
+Ako je sud odredio prekid postupka zbog razloga iz stavka 1. točke 2. ovoga Zakona, o prekidu postupka, odnosno podnošenju zahtjeva Sudu Europske unije dužan je obavijestiti ministarstvo nadležno za vanjske poslove.«.
+
+#### Članak 42.
+
+Iza članka 213. dodaje se članak 213.a koji glasi:
+
+»Članak 213.a
+
+U postupku iz članka 213. stavka 2. točke 3. ovoga Zakona, rješenje o prekidu postupka objavit će se na mrežnoj stranici e-oglasna ploča sudova te dostaviti strankama i umješačima u roku od 30 dana od dana objave rješenja kojim je dopušten prijedlog.
+
+Stranke i umješači u postupku u kojemu odluka ovisi o rješavanju istog pravnog pitanja mogu podnijeti očitovanje o rješenju pitanja važnog za jedinstvenu primjenu prava Vrhovnom sudu Republike Hrvatske u roku od 45 dana od dana objave rješenja kojim je dopušten prijedlog.
+
+Očitovanja podnesena nakon isteka roka Vrhovni sud Republike Hrvatske će uzeti u obzir, ako je to još moguće.«.
+
+#### Članak 43.
+
+U članku 215. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Postupak koji je prekinut zbog razloga navedenog u članku 212. točki 5. ovoga Zakona, a vodi se o tražbini koja se prijavljuje u stečajnom postupku, sud će nastaviti po službenoj dužnosti i donijeti rješenje kojim se smatra da je tužitelj povukao tužbu, ako tužitelj nije podnio prijedlog za nastavak parnice pod pretpostavkama propisanim zakonom kojim je uređen stečajni postupak, ili ako tužitelj nije prijavio tražbinu u stečajnom postupku, ili ako je tražbina priznata u stečajnom postupku, a ako je prekid postupka nastupio nakon donošenja prvostupanjske odluke, tim će rješenjem i ukinuti prvostupanjsku odluku.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., iza broja: »213.« dodaju se riječi: »stavku 1. točkama 1. i 2. te stavku 2. točkama 1. i 2.«.
+
+Iza dosadašnjeg stavka 3., koji postaje stavak 4., dodaje se novi stavak 5. koji glasi:
+
+»Ako je sud prekinuo postupak zbog razloga navedenog u članku 213. stavku 2. točki 3. ovoga Zakona, postupak će se nastaviti kad se objavi rješenje Vrhovnog suda Republike Hrvatske o pitanju važnom za jedinstvenu primjenu prava.«.
+
+Dosadašnji stavci 4., 5. i 6. postaju stavci 6., 7. i 8.
+
+#### Članak 44.
+
+U članku 215.b iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Postupak koji je prekinut zbog razloga navedenog u članku 212. točki 4. ovoga Zakona sud će nastaviti i istodobno obustaviti ako pravni sljednik pravne osobe ne preuzme postupak ili protivna strana ne predloži da ga sud pozove da to učini u roku od tri mjeseca od pravomoćnosti rješenja o prekidu postupka.«.
+
+Dosadašnji stavci 2. do 6. postaju stavci 3. do 7.
+
+#### Članak 45.
+
+U članku 221.b stavak 2. mijenja se i glasi:
+
+»Sud može po službenoj dužnosti zatražiti od Ministarstva financija, Porezne uprave podatak o tome je li tuženik koristio pravo na odbitak pretporeza za tražbine iz stavka 1. ovoga članka samo ako one po pojedinačnom računu prelaze vrijednost od 10.000,00 kuna.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»Ministarstvo financija, Porezna uprava dužna je podatak iz stavka 2. ovoga članka dostaviti sudu u roku od 60 dana od dana zaprimanja zahtjeva.
+
+Smatrat će, u slučaju kada tražbina iz stavka 1. ovoga članka po pojedinačnom računu ne prelazi vrijednost od 10.000,00 kuna, da je tuženik koristio pravo na odbitak pretporeza ako u roku od 15 dana po pozivu suda ne dostavi isprave na temelju kojih se može utvrditi je li koristio pravo na odbitak pretporeza.«.
+
+#### Članak 46.
+
+U članku 232. stavku 1. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Stranka je dužna podnijeti ispravu u trenutku predlaganja tog dokaza, osim ako sud odredi drukčije.«.
+
+#### Članak 47.
+
+U članku 264. stavak 2. briše se.
+
+#### Članak 48.
+
+U članku 273. stavak 3. mijenja se i glasi:
+
+»O prijedlogu iz stavka 1. ovog članka odlučuje predsjednik vijeća ili sudac pojedinac koji vodi postupak ili sudski savjetnik nadležnog suda, a u slučajevima iz stavka 2. ovog članka sudac pojedinac ili sudski savjetnik nadležnog suda.«.
+
+#### Članak 49.
+
+U članku 282. stavku 1. iza riječi: »odbaciti« dodaju se riječi: »ili da se bez toga ne može zahtijevati zaštita povrijeđenog prava pred nadležnim sudom.«.
+
+#### Članak 50.
+
+U članku 284. stavku 1. iza riječi: »naredit će« dodaju se riječi: »najkasnije u roku od 60 dana od podnošenja tužbe,«.
+
+Stavak 4. mijenja se i glasi:
+
+»Nakon primitka odgovora na tužbu ili isteka roka za odgovor na tužbu sud će odrediti pripremno ročište te upozoriti stranke da će se na tom ročištu, ako za to budu ispunjeni uvjeti, zaključiti prethodni postupak i provesti glavna rasprava.«.
+
+U stavku 5. riječ: »održati« zamjenjuje se riječju: »odrediti«.
+
+#### Članak 51.
+
+U članku 288. stavku 2. riječi: »za utvrđenje« brišu se.
+
+#### Članak 52.
+
+U članku 288.a stavak 1. mijenja se i glasi:
+
+»Sud će tijekom pripremnog ročišta upoznati stranke s mogućnostima da spor riješe sudskom nagodbom ili u postupku mirenja i obrazložiti im te mogućnosti.«.
+
+U stavku 2. iza riječi: »važnog za odluku« dodaju se riječi: »ili postizanje mirnog rješenja spora«.
+
+#### Članak 53.
+
+U članku 291. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Ako s pripremnog ročišta neopravdano izostanu obje stranke ili ako dođu na ročište, ali se neće upustiti u raspravljanje, ili se udalje s ročišta, smatrat će se da je tužitelj povukao tužbu.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 54.
+
+Iza članka 299. dodaje se članak 299.a koji glasi:
+
+»Članak 299.a
+
+Sud može pozvati stranke da se u roku koji, u pravilu, nije duži od 30 dana pisano očituju na navode protivne stranke.
+
+Stranka se može na navode protivne stranke pravodobno očitovati i bez poziva suda tako da njezin podnesak bude dostavljen sudu i protivnoj strani najkasnije osam dana prije sljedećeg pripremnog ročišta ili ročišta za glavnu raspravu.
+
+Podneske koji su predani nakon isteka roka iz stavka 1. ovoga članka ili protivno odredbi iz stavka 2. ovoga članka sud neće uzeti u obzir. Iznimno, stranka može tražiti da ih sud uzme u obzir ako ih bez svoje krivnje nije mogla podnijeti pravodobno ili ako njihovo uzimanje u obzir ne bi dovelo do odugovlačenja postupka.
+
+Sud će u pozivu iz stavka 1. ovoga članka upozoriti stranke na posljedice zakašnjenja.«.
+
+#### Članak 55.
+
+U članku 331.b stavak 4. briše se.
+
+Dosadašnji stavci 5. i 6. postaju stavci 4. i 5.
+
+U dosadašnjem stavku 7., koji postaje stavak 6., broj: »5.« zamjenjuje se brojem: »4.«.
+
+#### Članak 56.
+
+U članku 332.a dodaje se novi stavak 1. koji glasi:
+
+»Ako tuženik ne podnese odgovor na tužbu u određenom roku, ako je udovoljeno uvjetima iz članka 331.b stavka 1. točaka 1., 3. i 4. ovoga Zakona i ako iz činjenica navedenih u tužbi ne proizlazi osnovanost tužbenoga zahtjeva, sud će donijeti presudu kojom se tužbeni zahtjev odbija.«.
+
+Dosadašnji stavak 1. postaje stavak 2.
+
+#### Članak 57.
+
+U članku 335. stavak 8. mijenja se i glasi:
+
+»Stranci koja je pristupila na ročište na kojem se presuda objavljuje, sud će na ročištu uručiti ovjereni prijepis presude ili će je, iznimno, uputiti da ovjereni prijepis presude može preuzeti neposredno u sudu istoga dana.«.
+
+U stavku 9. u drugoj rečenici riječi: »u sudskoj zgradi« zamjenjuju se riječima: »neposredno u sudu istoga dana«.
+
+#### Članak 58.
+
+U članku 338. stavku 2. ispred riječi: »suda« zarez i riječi: »osobni identifikacijski broj« brišu se i dodaju iza riječi: »ime i prezime ili naziv«.
+
+Stavak 4. mijenja se i glasi:
+
+»U obrazloženju sud će sumarno izložiti zahtjeve stranaka, činjenice koje su iznijele i dokaze koje su predložile. Sud će posebno navesti i obrazložiti koje je od tih činjenica utvrđivao, zašto i kako ih je utvrdio, a ako ih je utvrdio dokazivanjem, koje je dokaze izvodio i zašto te kako ih je ocijenio, koje je odredbe materijalnog prava primijenio odlučujući o zahtjevima stranaka, a izjasnit će se, ako je to potrebno, i o stavovima stranaka o pravnoj osnovi spora te o njihovim prijedlozima i prigovorima o kojima nije dao svoje razloge u odlukama koje je već donio tijekom postupka.«.
+
+#### Članak 59.
+
+U članku 348. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Rokovi za žalbu iz stavka 1. ovoga članka ne teku od 1. do 15. kolovoza«.
+
+#### Članak 60.
+
+U članku 354. stavku 2. točka 11. mijenja se i glasi:
+
+»11) ako presuda ima nedostataka zbog kojih se ne može ispitati, a osobito ako je izreka presude nerazumljiva, ako proturječi sama sebi ili razlozima presude, ili ako presuda nema razloga o odlučnim činjenicama, ili ako o odlučnim činjenicama postoji proturječnost između onoga što se u razlozima presude navodi o sadržaju isprava ili zapisnika o iskazima danim u postupku i samih tih isprava ili zapisnika,«.
+
+#### Članak 61.
+
+U članku 365. stavak 2. mijenja se i glasi:
+
+»Drugostupanjski sud ispituje prvostupanjsku presudu u granicama razloga navedenih u žalbi pazeći po službenoj dužnosti na bitne povrede odredaba parničnog postupka iz članka 354. stavka 2. točaka 2., 4., 8., 9., 13. i 14. ovoga Zakona i na pravilnu primjenu materijalnog prava, osim u odnosu na primjenu materijalnog prava u odluci o troškovima postupka.«.
+
+#### Članak 62.
+
+U članku 366.a iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Odredbe ovoga članka ne odnose se na presude zbog ogluhe i presude zbog izostanka.«.
+
+#### Članak 63.
+
+Članak 373.b mijenja se i glasi:
+
+»Drugostupanjski sud odlučuje o žalbi, u pravilu, bez rasprave.
+
+Kad drugostupanjski sud nađe da je radi pravilnog utvrđivanja činjeničnog stanja potrebno da se ponove već izvedeni dokazi ili da se izvedu dokazi koji su pravodobno predloženi, a nisu izvedeni, zakazat će raspravu pred drugostupanjskim sudom.
+
+Drugostupanjski sud može odlučiti da se određeni dokazi izvedu u sudskoj zgradi prvostupanjskog suda pred sucem pojedincem ili sucem izvjestiteljem drugostupanjskog suda. Ako za to postoje važni razlozi, drugostupanjski sud može odlučiti da se određeni dokazi izvedu pred sucem pojedincem ili predsjednikom vijeća prvostupanjskog suda.
+
+Pravila o izvođenju dokaza pred predsjednikom vijeća na odgovarajući način primjenjuju se na suca pojedinca ili suca izvjestitelja drugostupanjskog suda, odnosno na suca pojedinca ili predsjednika vijeća prvostupanjskog suda.
+
+U slučaju iz stavka 3. ovoga članka vijeće drugostupanjskog suda odlučuje o žalbi bez rasprave, ali na sjednicu vijeća mora pozvati stranke. Odredba članka 363. ovoga Zakona primjenjuje se i u ovom slučaju.
+
+Drugostupanjski sud može odlučiti da se rasprava pred tim sudom provede i kad ocijeni da bi se tako mogle otkloniti bitne povrede odredaba parničnog postupka u prvostupanjskom postupku i da zbog toga ne bi bilo svrhovito presudu ukinuti i predmet vratiti prvostupanjskom sudu na ponovno suđenje.
+
+U slučaju iz stavka 6. ovoga članka sudac pojedinac ili sudac izvjestitelj drugostupanjskog suda može zatražiti od suca pojedinca ili predsjednika vijeća prvostupanjskog suda da dâ objašnjenja o tim bitnim povredama ili da provede potrebne izviđaje radi provjere istinitosti navoda o tome jesu li počinjene.«.
+
+#### Članak 64.
+
+U članku 373.c stavku 3. iza riječi: »izvještajem« dodaju se riječi: »suca pojedinca ili suca«.
+
+#### Članak 65.
+
+U članku 375. stavak 5. briše se.
+
+#### Članak 66.
+
+U članku 377. stavak 1. mijenja se i glasi:
+
+»Prvostupanjski sud dužan je provesti novu glavnu raspravu, a novi prethodni postupak samo ako je do povrede zbog koje je presuda ukinuta došlo u tijeku prethodnog postupka.«.
+
+#### Članak 67.
+
+Članak 382. mijenja se i glasi:
+
+»Stranke mogu podnijeti reviziju protiv presude donesene u drugom stupnju ako je Vrhovni sud Republike Hrvatske dopustio podnošenje revizije.
+
+Revizija iz stavka 1. ovoga članka podnosi se u roku od 30 dana od dostave odluke revizijskog suda o dopuštenosti revizije.«.
+
+#### Članak 68.
+
+Članak 382.a mijenja se i glasi:
+
+»Iznimno, stranke mogu podnijeti reviziju protiv presude donesene u drugom stupnju, bez dopuštenja Vrhovnog suda Republike Hrvatske, u sporu:
+
+– o postojanju ugovora o radu, odnosno prestanku radnog odnosa ili radi utvrđenja postojanja radnog odnosa,
+
+– o utvrđivanju majčinstva ili očinstva,
+
+– u povodu tužbi za zaštitu od diskriminacije,
+
+– u povodu tužbi radi objave ispravka informacije.
+
+Revizija iz stavka 1. ovoga članka podnosi se u roku od 30 dana od dostave presude donesene u drugom stupnju.«.
+
+#### Članak 69.
+
+Članak 385. mijenja se i glasi:
+
+»Prijedlog za dopuštenje revizije može se podnijeti zbog pravnog pitanja koje je važno za odluku u sporu i za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni ili za razvoj prava kroz sudsku praksu.
+
+Prijedlog za dopuštenje revizije može se podnijeti protiv drugostupanjske presude kojom se potvrđuje prvostupanjska presuda zbog postupovnopravnog pitanja koje se odnosi na bitne povrede odredaba parničnog postupka iz članka 354. stavka 2. točaka 6., 7., 8., 10., 11. i 12. ovoga Zakona samo ako je podnositelj zbog tih povreda žalbom pobijao prvostupanjsku presudu, ili ako su te povrede učinjene tek u drugostupanjskom postupku.
+
+Prijedlog za dopuštenje revizije ne može se podnijeti zbog postupovnopravnog pitanja koje se odnosi na bitne povrede odredaba parničnog postupka iz članka 354. stavka 2. točke 3. ovoga Zakona i ako je odlučeno o zahtjevu o kojemu već teče parnica.
+
+U prijedlogu za dopuštenje revizije stranke mogu iznijeti nove činjenice i predlagati nove dokaze samo ako se oni odnose na bitne povrede odredaba parničnog postupka i ako je zbog tih povreda postavljeno postupovnopravno pitanje koje je važno za odluku u sporu.
+
+Prijedlog za dopuštenje revizije može se podnijeti protiv drugostupanjske presude kojom se potvrđuje prvostupanjska presuda zbog materijalnopravnog pitanja koje se odnosi na pogrešnu primjenu materijalnog prava na koju drugostupanjski sud ne pazi po službenoj dužnosti, samo ako je podnositelj zbog tog razloga žalbom pobijao prvostupanjsku presudu.«.
+
+#### Članak 70.
+
+Članak 385.a mijenja se i glasi:
+
+»Vrhovni sud Republike Hrvatske dopustit će reviziju ako se može očekivati odluka o nekom pravnom pitanju koje je važno za odluku u sporu i za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni ili za razvoj prava kroz sudsku praksu, a osobito:
+
+– ako je riječ o pravnom pitanju o kojem odluka suda drugog stupnja odstupa od prakse revizijskog suda, ili
+
+– ako je riječ o pravnom pitanju o kojem nema prakse revizijskog suda, pogotovo ako sudska praksa viših sudova nije jedinstvena, ili
+
+– ako je riječ o pravnom pitanju o kojem sudska praksa revizijskog suda nije jedinstvena, ili
+
+– ako je o tom pitanju revizijski sud već zauzeo shvaćanje i presuda se drugostupanjskoga suda temelji na tom shvaćanju, ali bi – osobito uvažavajući razloge iznesene tijekom prethodnoga prvostupanjskoga i žalbenoga postupka, zbog promjene u pravnom sustavu uvjetovane novim zakonodavstvom ili međunarodnim sporazumima te odlukom Ustavnoga suda Republike Hrvatske, Europskoga suda za ljudska prava ili Suda Europske unije – trebalo preispitati sudsku praksu.
+
+Revizija iz članka 382. ovoga Zakona može se podnijeti samo zbog materijalnopravnog ili postupovnopravnog pitanja zbog kojeg je dopuštena.«.
+
+#### Članak 71.
+
+Članak 386. mijenja se i glasi:
+
+»Revizija iz članka 382.a ovoga Zakona može se podnijeti zbog:
+
+– bitne povrede odredaba parničnog postupka iz članka 354. stavka 2. ovoga Zakona, osim ako se povreda odnosi na stvarnu i mjesnu nadležnost ili ako je odlučeno o zahtjevu o kojemu već teče parnica,
+
+– bitne povrede odredaba parničnog postupka iz članka 354. stavka 1. ovoga Zakona učinjene pred sudom drugog stupnja,
+
+– pogrešne primjene materijalnog prava.
+
+Revizija se može podnijeti protiv drugostupanjske presude kojom se potvrđuje prvostupanjska presuda zbog bitne povrede odredaba parničnog postupka iz članka 354. stavka 2. točaka 6., 7., 8., 10., 11. i 12. ovoga Zakona samo ako je podnositelj zbog tih povreda žalbom pobijao prvostupanjsku presudu, ili ako su te povrede učinjene tek u drugostupanjskom postupku.
+
+Revizija se može podnijeti protiv drugostupanjske presude kojom se potvrđuje prvostupanjska presuda zbog pogrešne primjene materijalnog prava na koju drugostupanjski sud ne pazi po službenoj dužnosti, samo ako je podnositelj zbog tog razloga žalbom pobijao prvostupanjsku presudu.«.
+
+#### Članak 72.
+
+Članak 387. mijenja se i glasi:
+
+»Vrhovni sud Republike Hrvatske odlučuje o dopuštenosti revizije na temelju prijedloga za dopuštenje revizije.
+
+Prijedlog iz stavka 1. ovoga članka podnosi se prvostupanjskom sudu u roku od 30 dana od dostave drugostupanjske presude.
+
+U prijedlogu stranka mora određeno naznačiti pravno pitanje zbog kojeg predlaže da joj se dopusti podnošenje revizije te određeno izložiti razloge zbog kojih smatra da je ono važno u smislu odredaba članka 385.a stavka 1. ovoga Zakona. Ako se prijedlog za dopuštenje revizije podnosi zbog različite prakse viših sudova, stranka je uz prijedlog dužna dostaviti odluke sudova na koje se poziva ili ih određeno naznačiti.
+
+O prijedlogu za dopuštenje revizije odlučuje Vijeće od tri suca Vrhovnog suda Republike Hrvatske.
+
+U rješenju kojim se prijedlog za dopuštenje revizije odbacuje dovoljno je da se revizijski sud određeno pozove na nedostatak pretpostavki za podnošenje revizije.
+
+U rješenju kojim se dopušta revizija revizijski sud navodi u kojem dijelu i u odnosu na koje određeno pravno pitanje dopušta podnošenje revizije.
+
+Pravni lijek protiv rješenja povodom prijedloga za dopuštenje revizije nije dopušten.«.
+
+#### Članak 73.
+
+Članak 388. mijenja se i glasi:
+
+»Prijedlog za dopuštenje revizije podnosi se sudu koji je izrekao prvostupanjsku presudu u dovoljnom broju primjeraka za sudove, protivnu stranku i umješača.
+
+Prvostupanjski sud kojem je podnesen prijedlog za dopuštenje revizije ispitat će samo je li pravodoban i ako utvrdi da nije, rješenjem će ga odbaciti.
+
+Odredbe ovoga članka na odgovarajući se način primjenjuju i na reviziju.«.
+
+#### Članak 74.
+
+Članak 389. mijenja se i glasi:
+
+»Primjerak prijedloga za dopuštenje revizije sudac pojedinac, odnosno predsjednik vijeća prvostupanjskog suda dostavit će protivnoj stranci i umješaču, koji mogu u roku od 30 dana od dostave prijedloga podnijeti tome sudu odgovor na prijedlog za dopuštenje revizije.
+
+Nepravodobno podnesen odgovor na prijedlog za dopuštenje revizije neće se odbaciti, već će se dostaviti revizijskom sudu, koji će ga uzeti u obzir ako je to još moguće.
+
+Nakon primitka odgovora na prijedlog za dopuštenje revizije, odnosno nakon isteka roka za odgovor na prijedlog sudac pojedinac, odnosno predsjednik vijeća prvostupanjskog suda dostavit će prijedlog za dopuštenje revizije i odgovor na prijedlog za dopuštenje revizije, ako je podnesen, revizijskom sudu zajedno sa spisom.
+
+Sudac pojedinac, odnosno predsjednik vijeća prvostupanjskog suda dostavit će prijedlog za dopuštenje revizije i odgovor na prijedlog za dopuštenje revizije, ako je podnesen, i drugostupanjskom sudu koji će svoje izvješće o mogućim povredama postupka pred tim sudom dostaviti revizijskom sudu.
+
+Odredbe ovoga članka na odgovarajući se način primjenjuju i na reviziju.«.
+
+#### Članak 75.
+
+Članak 390. mijenja se i glasi:
+
+»O reviziji bez rasprave odlučuje Vrhovni sud Republike Hrvatske.«.
+
+#### Članak 76.
+
+Članak 391. mijenja se i glasi:
+
+»U povodu revizije iz članka 382. ovoga Zakona revizijski sud ispituje pobijanu presudu samo u dijelu u kojem je revizija dopuštena i samo zbog pitanja zbog kojeg je dopuštena.
+
+U povodu revizije iz članka 382.a ovoga Zakona revizijski sud ispituje pobijanu presudu samo u dijelu u kojem se pobija revizijom i samo u granicama razloga određeno navedenih u reviziji.
+
+U reviziji stranka treba određeno navesti i obrazložiti razloge zbog kojih je podnosi, uz određeno pozivanje na propise i druge izvore prava. Razlozi koji nisu tako obrazloženi neće se uzeti u obzir.«.
+
+#### Članak 77.
+
+Članak 392. mijenja se i glasi:
+
+»Vijeće revizijskog suda odbacit će nepotpun i nedopušten prijedlog za dopuštenje revizije, a i nepravodoban ako je to propustio učiniti prvostupanjski sud.
+
+Prijedlog za dopuštenje revizije je nepravodoban ako nije podnesen u roku koji je određen za njegovo podnošenje.
+
+Prijedlog za dopuštenje revizije je nepotpun ako se iz njega ne može utvrditi koja se presuda pobija ili ako nije potpisan.
+
+Prijedlog za dopuštenje revizije je nedopušten ako ga je podnijela osoba koja nije ovlaštena na podnošenje revizije ili osoba koja se odrekla prava na podnošenje revizije ili ako osoba koja je podnijela prijedlog nema pravni interes za podnošenje revizije.
+
+Odredbe stavaka 1. do 4. ovoga članka na odgovarajući način primjenjuju se i na reviziju.
+
+Prijedlog za dopuštenje revizije je nedopušten i ako ne sadrži pretpostavke iz članka 387. stavka 3. ovoga Zakona.
+
+Revizija iz članka 382. ovoga Zakona je nedopuštena i ako prethodno nije doneseno rješenje kojim je dopuštena ili ako revizija nije podnesena zbog pitanja zbog kojeg je dopuštena.
+
+Revizija iz članka 382.a ovoga Zakona je nedopuštena i ako je podnesena zbog razloga zbog kojih se ne može podnijeti.«.
+
+#### Članak 78.
+
+Članak 392.a mijenja se i glasi:
+
+»Kada podnositelj prijedloga odustane od prijedloga za dopuštenje revizije, to će sudac pojedinac revizijskog suda utvrditi rješenjem, ako to propusti učiniti prvostupanjski sud, ili kada je izjava o odustanku od prijedloga za dopuštenje revizije dostavljena revizijskom sudu.
+
+Odredba stavka 1. ovoga članka na odgovarajući način primjenjuje se i na reviziju.«.
+
+#### Članak 79.
+
+Članak 392.b briše se.
+
+#### Članak 80.
+
+Članak 393. mijenja se i glasi:
+
+»Revizijski sud će presudom odbiti reviziju iz članka 382. ovoga Zakona kao neosnovanu ako utvrdi da ne postoje razlozi zbog kojih je podnesena i na koje se odnosi pravno pitanje zbog kojeg je dopuštena ili da oni ne utječu na donošenje drukčije odluke.
+
+Revizijski sud će presudom odbiti reviziju iz članka 382.a ovoga Zakona kao neosnovanu ako utvrdi da ne postoje razlozi zbog kojih je podnesena ili da oni ne utječu na donošenje drukčije odluke.«.
+
+#### Članak 81.
+
+Članak 394. mijenja se i glasi:
+
+»Ako u povodu revizije iz članka 382. ovoga Zakona utvrdi da je u postupku pred prvostupanjskim ili drugostupanjskim sudom počinjena bitna povreda odredaba parničnog postupka na koju se odnosi postupovnopravno pitanje zbog kojega je dopuštena, revizijski sud će, ovisno o vrsti te bitne povrede, odgovarajućom primjenom odredaba članka 369. ovoga Zakona, rješenjem:
+
+– ukinuti u cijelosti ili djelomično odluku drugostupanjskog i prvostupanjskog suda ili samo odluku drugostupanjskog suda i predmet vratiti na ponovno suđenje istom ili drugom vijeću ili sucu pojedincu prvostupanjskog ili drugostupanjskog suda,
+
+– ukinuti rješenjem donesene odluke i odbaciti tužbu,
+
+– ukinuti odluku drugostupanjskog suda, odnosno i odluku prvostupanjskog suda u dijelu u kojem je tužbeni zahtjev prekoračen tako da je dosuđeno više od onog što je traženo, a ako je tužbeni zahtjev prekoračen tako da je odlučeno o nečem drugom, a ne o onome što je traženo, ukinut će samo odluku drugostupanjskog suda ili i odluku prvostupanjskog suda i predmet vratiti drugostupanjskom, odnosno prvostupanjskom sudu na ponovno odlučivanje.
+
+Ako revizijski sud utvrdi da je počinjena bitna povreda odredaba parničnog postupka zbog koje se revizija iz članka 382.a ovoga Zakona može podnijeti, revizijski će sud, ovisno o vrsti te bitne povrede, odlučiti primjenjujući na odgovarajući način odredbe stavka 1. ovoga članka.«.
+
+#### Članak 82.
+
+Članak 395. mijenja se i glasi:
+
+»Ako u povodu revizije iz članka 382. ovoga Zakona revizijski sud utvrdi da je pogrešno primijenjeno materijalno pravo na koje se odnosi materijalnopravno pitanje zbog kojega je dopuštena, presudom će prihvatiti reviziju i preinačiti pobijanu presudu.
+
+Ako u povodu revizije iz članka 382. ovoga Zakona revizijski sud ustanovi da je zbog pogrešne primjene materijalnog prava činjenično stanje nepotpuno utvrđeno ili ako zbog toga drugostupanjski sud nije ocijenio žalbene navode koji su od odlučnog značaja za pravilnu primjenu materijalnog prava i da zbog toga nema uvjeta za preinaku pobijane presude, rješenjem će prihvatiti reviziju, ukinuti u cijelosti ili djelomično presudu prvostupanjskog i drugostupanjskog suda ili samo presudu drugostupanjskog suda i predmet vratiti na ponovno suđenje istom ili drugom sucu pojedincu, odnosno vijeću prvostupanjskog ili drugostupanjskog suda.
+
+Ako u povodu revizije iz članka 382.a ovoga Zakona revizijski sud utvrdi da je materijalno pravo pogrešno primijenjeno, revizijski će sud, ovisno o tome ima li uvjeta za preinaku pobijane presude, odlučiti primjenjujući na odgovarajući način odredbe stavaka 1. i 2. ovoga članka.«.
+
+#### Članak 83.
+
+Članak 396. mijenja se i glasi:
+
+»Kada revizijski sud odlučuje o prijedlogu za dopuštenje revizije ili o reviziji, može se pozvati i na razloge neke svoje prethodne odluke.«.
+
+#### Članak 84.
+
+Članak 396.a briše se.
+
+#### Članak 85.
+
+Članak 399. mijenja se i glasi:
+
+»Ako odredbama članaka 382. do 398. ovoga Zakona nije što drugo određeno, u postupku u povodu revizije na odgovarajući će se način primjenjivati odredbe ovoga Zakona o žalbi protiv presude iz članka 349. stavka 2. i 3., članaka 350., 351., 352., 354. i 356., članka 360. stavaka 2. do 5., članaka 361., 371. i članaka 374. do 377.a ovoga Zakona.
+
+Revizija propisana posebnim zakonom smatra se revizijom iz članka 382. ovoga Zakona.«.
+
+#### Članak 86.
+
+Članak 400. mijenja se i glasi:
+
+»Stranke mogu podnijeti reviziju i protiv rješenja drugostupanjskog suda kojim je postupak o predmetu spora pravomoćno završen.
+
+Revizija protiv odluke suda drugog stupnja kojom je pravomoćno odlučeno o troškovima postupka je dopuštena ako su ispunjene pretpostavke iz članka 385.a stavka 1. ovoga Zakona.
+
+U postupku u povodu revizije protiv rješenja na odgovarajući će se način primjenjivati odredbe ovoga Zakona o prijedlogu za dopuštenje revizije i reviziji protiv presude, osim ako ovim Zakonom nije drukčije određeno.«.
+
+#### Članak 87.
+
+U članku 434. stavku 2. riječ: »osam« zamjenjuje se brojem: »15«.
+
+#### Članak 88.
+
+Članak 436. briše se.
+
+#### Članak 89.
+
+U članku 437. stavak 1. briše se.
+
+Dosadašnji stavak 2. postaje stavak 1.
+
+#### Članak 90.
+
+U članku 443. stavku 1. druga rečenica briše se.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»U postupku u parnicama zbog smetanja posjeda rok za odgovor na tužbu je 15 dana.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., riječi: »stavka 2.« brišu se.
+
+#### Članak 91.
+
+U članku 451. stavku 1. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Prigovor je nepotpun ako se iz prigovora ne može utvrditi koji se platni nalog pobija, ako nije potpisan ili ako u njemu nisu navedeni razlozi pobijanja.«.
+
+#### Članak 92.
+
+U članku 453. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»U postupku u povodu pravnog lijeka protiv rješenja o ovrsi na temelju vjerodostojne isprave stranke mogu istaknuti prigovor stvarne i mjesne nenadležnosti sve dok se pred tim sudom ne upuste u raspravljanje o glavnoj stvari.«.
+
+#### Članak 93.
+
+Članak 461.a mijenja se i glasi:
+
+»U postupku u sporovima male vrijednosti tužba se uvijek dostavlja tuženiku na odgovor.
+
+U postupku u sporovima male vrijednosti stranke su dužne najkasnije u tužbi, odnosno odgovoru na tužbu iznijeti sve činjenice na kojima temelje svoje zahtjeve i predložiti dokaze potrebne za utvrđivanje iznesenih činjenica.
+
+U postupku u sporovima male vrijednosti u povodu prigovora protiv platnog naloga tužitelj je dužan najkasnije u podnesku predanom sudu u roku od 15 dana od primitka rješenja kojim je ukinut platni nalog, iznijeti sve činjenice na kojima temelji svoje zahtjeve i predložiti dokaze potrebne za utvrđivanje iznesenih činjenica.
+
+U postupku u sporovima male vrijednosti u povodu prigovora protiv platnog naloga tuženik je dužan najkasnije u roku od 15 dana od primitka tužiteljevog podneska iz stavka 3. ovoga članka iznijeti sve činjenice na kojima temelji svoje zahtjeve i predložiti dokaze potrebne za utvrđivanje iznesenih činjenica.
+
+Sud će upozoriti stranke na sadržaj odredbi stavaka 2., 3. i 4. ovoga članka u pozivu za podnošenje pisanog odgovora na tužbu iz članka 284. stavka 1. ovoga Zakona, odnosno u rješenju kojim je ukinut platni nalog.
+
+Stranke mogu na pripremnom ročištu iznositi nove činjenice i predlagati nove dokaze samo ako ih bez svoje krivnje nisu mogle iznijeti, odnosno predložiti u tužbi, odnosno odgovoru na tužbu ili u podnescima iz stavaka 3. i 4. ovoga članka.
+
+Nove činjenice i nove dokaze koje su stranke iznijele, odnosno predložile na pripremnom ročištu protivno stavku 6. ovoga članka sud neće uzeti u obzir.
+
+U postupku u sporovima male vrijednosti sud će na pripremnom ročištu zaključiti prethodni postupak i na istom ročištu održati glavnu raspravu, osim ako zbog okolnosti slučaja iz stavka 6. ovoga članka to nije moguće.«.
+
+#### Članak 94.
+
+Članak 465. mijenja se i glasi:
+
+»Ako tužitelj ne dođe na pripremno ročište, a uredno je pozvan, smatrat će se da je povukao tužbu, osim ako se tuženik na tom ročištu ne upusti u raspravljanje.
+
+Sud će u pozivu za pripremno ročište, među ostalim, upozoriti stranke da će se smatrati da je tužitelj povukao tužbu ako ne dođe na pripremno ročište, da na pripremnom ročištu ne mogu iznositi nove činjenice i predlagati nove dokaze, osim u slučaju iz članka 461.a stavka 6. ovoga Zakona, da će na pripremnom ročištu zaključiti prethodni postupak i na istom ročištu održati glavnu raspravu, osim ako zbog okolnosti slučaja iz članka 461.a stavka 6. ovoga Zakona to ne bude moguće, te da se odluka može pobijati samo zbog pogrešne primjene materijalnog prava i zbog bitnih povreda odredaba parničnog postupka iz članka 354. stavka 2. ovoga Zakona, osim zbog povrede iz članka 354. stavka 2. točke 3. ovoga Zakona.«.
+
+#### Članak 95.
+
+Članak 466. briše se.
+
+#### Članak 96.
+
+Članak 467. mijenja se i glasi:
+
+»Presuda ili rješenje kojim se završava spor u postupku u sporovima male vrijednosti može se pobijati samo zbog pogrešne primjene materijalnog prava i zbog bitnih povreda odredaba parničnog postupka iz članka 354. stavka 2. ovoga Zakona, osim zbog povrede iz članka 354. stavka 2. točke 3. ovoga Zakona.
+
+U postupku u povodu žalbe u sporovima male vrijednosti ne primjenjuju se odredbe članka 370. ovoga Zakona.
+
+O žalbi protiv presude u sporovima male vrijednosti odlučuje sudac pojedinac drugostupanjskog suda.«.
+
+#### Članak 97.
+
+Članak 467.a mijenja se i glasi:
+
+»U postupku u sporovima male vrijednosti žalba protiv presude ili rješenja ne odgađa ovrhu, osim ako sud koji donosi presudu ili rješenje, iznimno, po službenoj dužnosti, obrazloženim rješenjem, odredi drukčije.«.
+
+#### Članak 98.
+
+Naslov iznad članka 492.a mijenja se i glasi: »Pisani dokaz«.
+
+Članak 492.a mijenja se i glasi:
+
+»U postupku pred trgovačkim sudovima sud će, u pravilu, utvrditi odlučne činjenice na temelju isprava.«.
+
+#### Članak 99.
+
+Naslov iznad članka 492.b mijenja se i glasi: »Pisana stručna mišljenja«.
+
+Članak 492.b mijenja se i glasi:
+
+»U postupku pred trgovačkim sudovima sud može, po službenoj dužnosti, od trećih osoba, i to osobito od gospodarskih i obrtničkih komora, tražiti stručna mišljenja i potrebne podatke s kojima ne raspolaže o trgovačkim običajima koje trgovci redovito primjenjuju u određenim obveznim odnosima.«.
+
+#### Članak 100.
+
+Naslov iznad članka 492.c mijenja se i glasi: »Pisani iskazi«.
+
+Članak 492.c mijenja se i glasi:
+
+»U postupku pred trgovačkim sudovima sud može odlučiti da stranke prilože pisane iskaze stranaka ili svjedoka s ovjerenim potpisom davatelja iskaza kod javnog bilježnika i da se saslušanje stranaka ili svjedoka svede na postavljanje pitanja radi provjere, dopune ili razjašnjenja navoda iz tih iskaza. Sud može odlučiti da pisani iskazi moraju biti priloženi najkasnije do zaključenja prethodnog postupka.
+
+Posljedice davanja lažnog pisanog iskaza svjedoka odgovaraju posljedicama davanja lažnog iskaza svjedoka pred sudom.
+
+Ako niti jedna od stranaka ne ospori ovjereni pisani iskaz stranke ili svjedoka ili nalaz i mišljenje vještaka i ako sud to ocijeni nepotrebnim, sud neće usmeno saslušati stranku, svjedoka ili vještaka.
+
+Ako jedna od stranaka ospori ovjereni pisani iskaz stranke ili svjedoka, ili ako sud smatra da je potrebno saslušati stranku ili svjedoka, i ako nakon toga stranka ili svjedok ne dođu na saslušanje ili uskrate usmeni iskaz, i uz primjenu prisilnih mjera prema svjedoku iz članka 248. ovoga Zakona, sud neće uzeti u obzir ovjereni pisani iskaz stranke ili svjedoka.«.
+
+#### Članak 101.
+
+Članak 492.d briše se.
+
+#### Članak 102.
+
+Članak 495. mijenja se i glasi:
+
+»U hitnim slučajevima ročište se može zakazati telefonom, brzojavom, elektroničkim putem u skladu s posebnim zakonom ili na drugi odgovarajući način. O tome će se sastaviti službena bilješka, ako o zakazivanju ročišta, s obzirom na to kako je obavljeno, nema drugog pisanog dokaza.
+
+U pozivu za pripremno ročište stranka će se poučiti i da će na tom ročištu, ako se na njemu glavna rasprava ne zaključi, biti određeno novo ročište, o kojemu, kao i o drugim ročištima koja će biti određena na prethodno održanim ročištima, neće biti posebno obaviještena, već da će podatke o tom ročištu i o drugim naknadno određenim ročištima moći saznati na mrežnoj stranici e-predmet. Smatrat će se da je stranka obaviještena o novom, odnosno novim ročištima istekom osmoga dana od dana kada je datum novog ročišta objavljen na mrežnoj stranici e-predmet.
+
+Odluke iz članaka 212. i 215. te članka 215.b stavka 2. ovoga Zakona sudski savjetnici su ovlašteni donijeti tijekom cijelog postupka.«.
+
+#### Članak 103.
+
+Članak 497.a briše se.
+
+#### Članak 104.
+
+Članak 499. briše se.
+
+#### Članak 105.
+
+Članak 500. mijenja se i glasi:
+
+»U postupku pred trgovačkim sudovima važi rok od 30 dana za podnošenje prijedloga za povrat u prijašnje stanje iz članka 118. stavka 4. ovoga Zakona.«.
+
+#### Članak 106.
+
+U članku 501.a riječ: »prigovora« u određenom padežu zamjenjuje se riječima: »pravnog lijeka« u odgovarajućem padežu.
+
+#### Članak 107.
+
+U članku 502.c iza riječi: »naknadu štete« dodaju se riječi: »ili isplatu«.
+
+#### Članak 108.
+
+Iza članka 502.h dodaje se glava tridesetdruga – b s nazivom i članci 502.i do 502.n koji glase:
+
+### »Glava tridesetdruga – b — OGLEDNI POSTUPAK RADI RJEŠENJA PITANJA VAŽNOG ZA JEDINSTVENU PRIMJENU PRAVA
+
+#### Članak 502.i
+
+U postupcima u kojima odluka ovisi o rješavanju istog pravnog pitanja primjenjivat će se odredbe ovoga Zakona ako u odredbama ove glave nije drukčije određeno.
+
+#### Članak 502.j
+
+Postupci u kojima odluka ovisi o rješavanju istog pravnog pitanja prema odredbama ove glave su slični sporovi koji su u većem broju već pokrenuti ili se njihovo pokretanje očekuje u kraćem razdoblju, a rješenje kojih ovisi o istom pravnom pitanju koje je važno za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni ili za razvoj prava kroz sudsku praksu (u daljnjem tekstu: pitanju važnom za jedinstvenu primjenu prava).
+
+#### Članak 502.k
+
+Ako je na sudu podnesen veći broj tužbi u sličnim sporovima ili se njihovo pokretanje očekuje u kraćem razdoblju, a rješenje kojih ovisi o pitanju važnom za jedinstvenu primjenu prava, sud će, nakon održavanja pripremnog ročišta i sjednice sudskog odjela, dostaviti prijedlog za rješenje pitanja važnog za jedinstvenu primjenu prava sa spisom predmeta Vrhovnom sudu Republike Hrvatske radi zauzimanja pravnog shvaćanja o tom pitanju. Taj prijedlog će se odmah objaviti na mrežnoj stranici e-oglasna ploča sudova.
+
+Od objave prijedloga iz stavka 1. ovoga članka do objave okončanja oglednog postupka stranke u oglednom postupku ne mogu slobodno raspolagati zahtjevom u odnosu na koji je podnesen prijedlog za rješenje pitanja važnog za jedinstvenu primjenu prava.
+
+Od objave prijedloga iz stavka 1. ovoga članka do objave okončanja oglednog postupka zastaje zastarijevanje prava na podnošenje zahtjeva u odnosu na koji je podnesen prijedlog za rješenje pitanja važnog za jedinstvenu primjenu prava, u pravnim stvarima u kojima odluka ovisi o rješavanju istog pravnog pitanja.
+
+#### Članak 502.l
+
+Predsjednik Vrhovnog suda Republike Hrvatske će nakon primitka prijedloga za rješenje pitanja važnog za jedinstvenu primjenu prava bez odgode zatražiti od predsjednika svih prvostupanjskih sudova da ga obavijeste o tome jesu li i u kojem broju pred njihovim sudovima pokrenuti takvi sporovi.
+
+Predsjednici prvostupanjskih sudova dužni su podatke iz stavka 1. ovoga članka dostaviti predsjedniku Vrhovnog suda Republike Hrvatske u roku od 15 dana.
+
+#### Članak 502.lj
+
+U prijedlogu prvostupanjski sud mora određeno naznačiti pravno pitanje o kojemu predlaže zauzimanje pravnog shvaćanja Vrhovnog suda Republike Hrvatske te određeno izložiti razloge zbog kojih smatra da je ono važno u smislu odredbe članka 385.a stavka 1. ovoga Zakona.
+
+O dopuštenosti prijedloga za rješenje pitanja važnog za jedinstvenu primjenu prava odlučuje vijeće od pet sudaca Vrhovnog suda Republike Hrvatske rješenjem u roku od 30 dana od isteka roka iz članka 502.l stavka 2. ovoga Zakona.
+
+U odluci kojom se prijedlog odbija dovoljno je da se Vrhovni sud Republike Hrvatske pozove na nedostatak pretpostavki za podnošenje prijedloga. Rješenje o odbijanju prijedloga će odmah objaviti na mrežnoj stranici e-oglasna ploča sudova. Prvostupanjski sud će nakon objave tog rješenja nastaviti postupak po odredbama koje se na njega inače primjenjuju.
+
+U odluci kojom se dopušta prijedlog Vrhovni sud Republike Hrvatske navodi u kojem dijelu i u odnosu na koje određeno pravno pitanje dopušta zauzimanje pravnog shvaćanja. Rješenje kojim dopušta prijedlog će odmah objaviti na mrežnoj stranici e-oglasna ploča sudova.
+
+Protiv rješenja povodom prijedloga pravni lijek nije dopušten.
+
+#### Članak 502.m
+
+O pitanju važnom za jedinstvenu primjenu prava odlučuje vijeće od pet sudaca Vrhovnog suda Republike Hrvatske rješenjem u roku od 90 dana od dana objave rješenja kojim je dopušten prijedlog. Rješenje će se odmah objaviti na mrežnoj stranici e-oglasna ploča sudova.
+
+#### Članak 502.n
+
+Nakon donošenja pravnog shvaćanja Vrhovnog suda Republike Hrvatske sud će u nastavljenim postupcima biti vezan tim pravnim shvaćanjem.
+
+U nastavljenim postupcima stranke će već u rješenju o nastavku postupka biti obaviještene o zauzetom pravnom shvaćanju.
+
+Nastavljeni se postupak u pojedinim postupcima u kojima odluka ovisi o rješavanju istog pravnog pitanja provodi po odredbama koje se na njega inače primjenjuju.
+
+U nastavljenim postupcima sudovi će nastojati da stranke nagodbom ili na drugi nesporni način dovrše postupak.
+
+U postupcima koji ovise o istom pravnom pitanju sud će o troškovima postupka odlučiti po slobodnoj ocjeni, uzimajući u obzir sve okolnosti slučaja, osobito okolnost da su pojedine od stranaka imale razloga pokrenuti spor zbog neizvjesnosti pravnog pitanja o kojemu je ovisilo njegovo rješenje te postupanje stranaka nakon što su obaviještene o zauzetom pravnom shvaćanju.«.
+
+#### Članak 109.
+
+U članku 507.ć stavku 1. točka 2. mijenja se i glasi:
+
+»2. za izvansudske isprave općinski sud na čijem području ima prebivalište ili uobičajeno boravište, odnosno sjedište tijelo ili osoba koja traži dostavu u inozemstvo,«.
+
+#### Članak 110.
+
+Članak 507.č mijenja se i glasi:
+
+»U smislu odredbe članka 15. stavka 1. Uredbe br. 1393/2007. i na zahtjev osobe koja je zainteresirana za ishod nekog sudskog postupka, dopuštena je dostava u Republici Hrvatskoj izravno putem nadležnog javnog bilježnika.
+
+Javni bilježnik nije dužan obaviti dostavu ako mu nisu predujmljeni troškovi poduzimanja te radnje.
+
+Kad javni bilježnik obavlja dostavu sukladno odredbi stavka 1. postupat će sukladno odredbama Zakona o javnom bilježništvu koje se odnose na priopćenje izjava.«.
+
+#### Članak 111.
+
+Članak 507.i mijenja se i glasi:
+
+»Za odlučivanje o zahtjevima za izdavanje i preispitivanje, kao i za davanje potvrde o ovršnosti europskoga platnog naloga prema Uredbi br. 1896/2006. nadležan je općinski, odnosno trgovački sud ako se radi o predmetima iz stvarne nadležnosti trgovačkih sudova, prema prebivalištu ili uobičajenom boravištu, odnosno sjedištu tuženika.«.
+
+#### Članak 112.
+
+U članku 507.k riječi: »503. do 503.d« zamjenjuju se riječima: »507.a do 507.č«.
+
+#### Članak 113.
+
+Članak 507.l mijenja se i glasi:
+
+»Ako tuženik podnese prigovor protiv europskoga platnog naloga u smislu odredbe članka 16. Uredbe br. 1896/2006, daljnji postupak će se provesti po pravilima europskog postupka za sporove male vrijednosti utvrđenog u Uredbi br. 861/2007., ako su primjenjiva, a ako nisu, po odredbama ovoga Zakona o postupku u povodu prigovora protiv platnoga naloga (članak 445.a, članci 451. do 456.), uz uvažavanje odredaba članka 17. Uredbe br. 1896/2006.«.
+
+#### Članak 114.
+
+U članku 507.m stavku 1. riječi: »sud u Republici Hrvatskoj« zamjenjuju se riječima: »neki drugi sud na području Europske unije«.
+
+#### Članak 115.
+
+U članku 507.n stavak 1. mijenja se i glasi:
+
+»Ako se zatraži preispitivanje europskoga platnog naloga koji je izdan u Republici Hrvatskoj prema odredbama članka 20. Uredbe br. 1896/2006., sud koji odlučuje o tom zahtjevu može odgoditi ovrhu uz odgovarajuću primjenu pravila ovršnog postupka o odgodi ovrhe na prijedlog ovršenika.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 116.
+
+Odredba članka 295. stavka 2. Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13. i 89/14. – Odluka Ustavnog suda Republike Hrvatske) primjenjivat će se i na postupke koji su pokrenuti prije stupanja na snagu Zakona o izmjenama i dopunama Zakona o parničnom postupku (»Narodne novine«, br. 25/13.).
+
+#### Članak 117.
+
+Postupci pokrenuti prije stupanja na snagu ovoga Zakona dovršit će se primjenom odredbi Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13. i 89/14. – Odluka Ustavnog suda Republike Hrvatske).
+
+Iznimno od odredbe stavka 1. ovoga članka, odredbe članka 2., članaka 8. i 9., članaka 11. i 12., članaka 15., 16. i 17., članka 19., članka 25., članaka 35. do 39., članka 53., članaka 55. i 56., članaka 58. i 59., članaka 65. i 66., članaka 94. i 95. te članka 104. ovoga Zakona primjenjivat će se i na sve postupke u tijeku, a članak 41. stavak 2. točka 3. i članak 108. ovoga Zakona primjenjivati će se i na sve postupke u tijeku u kojima do stupanja na snagu ovoga Zakona nije održano pripremno ročište ili je održano pripremno ročište, ali nije zaključen prethodni postupak.
+
+Iznimno od odredbe stavka 1. ovoga članka, odredbe članaka 28. do 31. te članka 97. ovoga Zakona primjenjivat će se i na sve postupke u tijeku u kojima do stupanja na snagu ovoga Zakona nije donesena prvostupanjska odluka.
+
+Iznimno od odredbe stavka 1. ovoga članka, odredbe ovoga Zakona o reviziji primjenjivati će se i na sve postupke u tijeku u kojima do stupanja na snagu ovoga Zakona nije donesena drugostupanjska odluka.
+
+#### Članak 118.
+
+Obvezna elektronička komunikacija općinskih sudova s državnim tijelima, državnim odvjetništvom, odvjetnicima, javnim bilježnicima, sudskim vještacima, sudskim procjeniteljima, sudskim tumačima, stečajnim upraviteljima, povjerenicima te pravnim osobama primjenjivat će se i na sve postupke u tijeku kada ministar nadležan za poslove pravosuđa donese odluku o ispunjavanju uvjeta za elektroničku komunikaciju za općinske sudove, a nakon što se za to ispune uvjeti na svim općinskim sudovima.
+
+Obvezna elektronička komunikacija sudova i pravnih osoba primjenjivat će se i na sve postupke u tijeku kada ministar nadležan za poslove pravosuđa donese odluku o ispunjavanju uvjeta za elektroničku komunikaciju.
+
+Sve pravne osobe dužne su u roku od godine dana od dana stupanja na snagu ovoga Zakona zatražiti pristup informacijskom sustavu elektroničke komunikacije sa sudovima putem ministarstva nadležnog za poslove pravosuđa.
+
+Dok se ne ispune uvjeti za elektroničku komunikaciju, obveznim sudionicima elektroničke komunikacije s općinskim sudovima (stavak 1. ovoga članka) i pravnim osobama (stavak 3. ovoga članka) dostava se obavlja po pravilima Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13. i 89/14. – Odluka Ustavnog suda Republike Hrvatske).
+
+#### Članak 119.
+
+Postupke u kojima, u trenutku stupanja na snagu ovoga Zakona, postoji pravomoćno rješenje o prekidu zbog razloga navedenog u članku 212. točki 4. Zakona o parničnom postupku (»Narodne novine«, br. 53/9., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13. i 89/14. – Odluka Ustavnog suda Republike Hrvatske) sud može nastaviti i istodobno obustaviti ako pravni sljednik pravne osobe ne preuzme postupak ili protivna strana ne predloži da ga sud pozove da to učini u roku od tri mjeseca od stupanja na snagu ovoga Zakona.
+
+Na postupke u kojima do stupanja na snagu ovoga Zakona nije doneseno pravomoćno rješenje o prekidu zbog razloga navedenog u članku 212. točki 4. Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13. i 89/14. – Odluka Ustavnog suda Republike Hrvatske) primjenjuje se odredba članka 44. ovoga Zakona.
+
+Odluke iz stavaka 1. i 2. ovoga članka ovlašteni su donijeti i sudski savjetnici.
+
+#### Članak 120.
+
+Ministar nadležan za poslove pravosuđa donijet će u roku od 30 dana od dana stupanja na snagu ovoga Zakona pravilnike iz članaka 11. i 13. ovoga Zakona.
+
+#### Članak 121.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. rujna 2019.
+
+Klasa: 022-03/19-01/60
+
+Zagreb, 12. srpnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o parničnom postupku (NN 80/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/80/1170*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PARNIČNOM POSTUPKU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o parničnom postupku, koji je Hrvatski sabor donio na sjednici 1. srpnja 2022.
+
+Klasa: 011-02/22-02/60
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 6. srpnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PARNIČNOM POSTUPKU**
+
+#### Članak 1.
+
+U Zakonu o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08. – Odluka Ustavnog suda Republike Hrvatske, 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13., 89/14. – Odluka Ustavnog suda Republike Hrvatske i 70/19.) u članku 1.a podstavci 1. i 2. mijenjaju se i glase:
+
+» – Uredba (EU) br. 2020/1784 Europskog parlamenta i Vijeća od 25. studenoga 2020. o dostavi, u državama članicama, sudskih i izvansudskih pismena u građanskim ili trgovačkim stvarima (dostava pismena) (preinaka) (SL L 405, 2. 12. 2020.), u daljnjem tekstu: Uredba 2020/1784;
+
+– Uredba (EU) br. 2020/1783 Europskog parlamenta i Vijeća od 25. studenoga 2020. o suradnji između sudova država članica u izvođenju dokaza u građanskim ili trgovačkim stvarima (izvođenje dokaza) (preinaka) (SL L 405, 2. 12. 2020.), u daljnjem tekstu: Uredba 2020/1783;«.
+
+#### Članak 2.
+
+U članku 5. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»U mjeri u kojoj je to potrebno, sud će omogućiti strankama da se izjasne o pravnim pitanjima spora.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+Iza dosadašnjeg stavka 2., koji postaje stavak 3., dodaje se stavak 4. koji glasi:
+
+»Sud ne može svoju odluku utemeljiti na pravnoj osnovi koja je bitno različita od one o kojoj se u postupku raspravljalo i koju savjesna i brižljiva stranka nije mogla razumno predvidjeti.«.
+
+#### Članak 3.
+
+Naslov iznad članka 27. i članak 27. brišu se.
+
+#### Članak 4.
+
+U članku 34.b stavku 1. točki 1. riječi: »obrtnika, u sporovima između obrtnika uključujući i sporove između trgovaca pojedinaca, ako se radi o sporu u vezi s njihovom djelatnošću, osim« zamjenjuju se riječima: »fizičkih osoba koje obavljaju registriranu djelatnost ako se radi o sporu u vezi s njihovom djelatnošću, kao i između fizičkih osoba koje obavljaju registriranu djelatnost ako se radi o sporu u vezi s njihovom djelatnošću,«.
+
+U točki 5. riječi: »u povodu tog stečajnog postupka« zamjenjuju se riječima: »u povodu stečajnog i predstečajnog postupka«.
+
+#### Članak 5.
+
+U članku 34.d stavku 1. točki 2. riječ: »reviziji« zamjenjuje se riječima: »prijedlogu za dopuštenje revizije i reviziji«.
+
+Iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. odlučuje u oglednom postupku radi rješenja pitanja važnog za jedinstvenu primjenu prava,«.
+
+Dosadašnje točke 3. i 4. postaju točke 4. i 5.
+
+#### Članak 6.
+
+U članku 41. stavku 3. riječi: »U povodu revizije sudovi odlučuju« zamjenjuju se riječima: »U oglednom postupku radi rješenja pitanja važnog za jedinstvenu primjenu prava te u povodu prijedloga za dopuštenje revizije i revizije sud odlučuje«.
+
+#### Članak 7.
+
+Članak 44. mijenja se i glasi:
+
+»Kad odlučuje u drugom stupnju na sjednici vijeća, sud odlučuje u vijeću sastavljenom od trojice sudaca, ako ovim Zakonom nije drugačije određeno. U tom sastavu viši sud odlučuje i u svim drugim slučajevima, ako zakonom nije drugačije određeno.
+
+O žalbi protiv rješenja odlučuje sudac pojedinac višeg suda, ako ovim Zakonom nije drugačije određeno.
+
+Kad odlučuje o prijedlogu za dopuštenje revizije i reviziji protiv drugostupanjskih odluka, Vrhovni sud Republike Hrvatske sudi u vijeću sastavljenom od pet sudaca, ako ovim Zakonom nije drugačije određeno.«.
+
+#### Članak 8.
+
+Naslov iznad članka 58. i članak 58. brišu se.
+
+#### Članak 9.
+
+U članku 91.a stavku 2. riječ: »položeni« zamjenjuje se riječju: »položen«.
+
+Stavak 3. mijenja se i glasi:
+
+»Stranka, odnosno njezin opunomoćenik iz stavka 2. ovoga članka dužni su uz prijedlog za dopuštenje revizije ili reviziju dokazati da imaju položen pravosudni ispit.«.
+
+#### Članak 10.
+
+U članku 106.a stavak 5. mijenja se i glasi:
+
+»Iznimno od stavka 1. ovoga članka, državna tijela, državno odvjetništvo, odvjetnici, javni bilježnici, sudski vještaci, sudski procjenitelji, sudski tumači, stečajni upravitelji, povjerenici, punomoćnici iz članka 434.a ovoga Zakona, povjerenici u postupku stečaja potrošača, likvidatori, posebni skrbnici zaposleni u Centru za posebno skrbništvo, pravne osobe te fizičke osobe (obrtnici, liječnici i dr.) koje obavljaju registriranu djelatnost u sporovima koji se tiču te djelatnosti uvijek su dužni podneske podnositi u elektroničkom obliku.«.
+
+#### Članak 11.
+
+U članku 115. stavku 3. iza riječi: »uređaja« dodaju se riječi: »i tehnološke platforme za komunikaciju na daljinu«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»O održavanju ročišta ili izvođenju pojedinog dokaza na daljinu odlučuje sud nakon što o tome pribavi očitovanja stranaka i drugih sudionika koji trebaju sudjelovati na ročištu koje će se održati na daljinu.
+
+Način održavanja ročišta na daljinu uz korištenje odgovarajućih audiovizualnih uređaja i tehnološke platforme za komunikaciju na daljinu ili izvođenje pojedinog dokaza na taj način uređuje se pravilnikom koji donosi ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 12.
+
+Članak 123. mijenja se i glasi:
+
+»Zapisnik se sastavlja o:
+
+– radnjama i izjavama za koje je to izričito propisano zakonom,
+
+– izjavama stranaka o priznanju tužbenog zahtjeva, odricanju od tužbenog zahtjeva, odricanju od prava na žalbu, preinaci ili povlačenju tužbe, priznanju ili osporavanju pojedinih činjenica te predloženim dokazima,
+
+– odlukama suda donesenima na ročištu.
+
+Sadržaj ostalih radnji na ročištu bit će sadržan u tonskoj snimci iz članka 126.a ovoga Zakona.
+
+Zapisnik se nakon sastavljanja ulaže u spis kao posebna isprava ili se pohranjuje elektronički u informacijskom sustavu.
+
+Zapisnik se sastavlja i o važnijim izjavama ili priopćenjima koje stranke ili drugi sudionici daju izvan ročišta. O manje važnim izjavama ili priopćenjima neće se sastavljati zapisnik, nego će se samo sastaviti službena bilješka.
+
+O sklapanju sudske nagodbe i radnjama poduzetim izvan ročišta ili izvan zgrade suda, kad se navedena ročišta tonski ne snimaju, sastavlja se poseban zapisnik.«.
+
+#### Članak 13.
+
+Članak 124. mijenja se i glasi:
+
+»U zapisnik se unosi: naziv i sastav suda, mjesto gdje se obavlja radnja, dan i sat kad se obavlja radnja, naznaka predmeta spora i imena prisutnih stranaka odnosno trećih osoba i njihovih zakonskih zastupnika odnosno punomoćnika te naznaka o tome da se ročište tonski snima.
+
+U zapisnik o glavnoj raspravi unijet će se je li rasprava javna ili je javnost isključena.
+
+Izjave stranaka i umješača te iskazi stranaka, svjedoka i vještaka naznačuju se u zapisniku tako da se navede ime i prezime osobe, njezino svojstvo te vremenski interval tonske snimke na kojem je sadržana izjava ili iskaz.«.
+
+#### Članak 14.
+
+Članak 125. mijenja se i glasi:
+
+»Zapisnik se mora voditi uredno.
+
+Sud će strankama omogućiti da bez odgode ostvare pristup zapisniku putem informacijskog sustava. Strankama koje nisu uključene u informacijski sustav zapisnik će se dostaviti.«.
+
+#### Članak 15.
+
+Članak 126. mijenja se i glasi:
+
+»Stranke imaju pravo izjaviti svoje prigovore na sadržaj zapisnika o radnjama poduzetim izvan ročišta ili izvan zgrade suda koje nisu tonski snimane, najkasnije u roku od tri dana od saznanja za sadržaj na koji žele izjaviti prigovor.«.
+
+#### Članak 16.
+
+Članak 126.a mijenja se i glasi:
+
+»Ročišta pred sudom tonski se snimaju.
+
+Ročište na kojem se sklapa sudska nagodba te radnje suda izvan ročišta ili izvan zgrade suda tonski se ne snimaju.
+
+Tonska snimka ročišta bit će dostupna strankama u elektroničkom obliku putem informacijskog sustava. Ako stranka nije uključena u informacijski sustav, elektronički zapis tonske snimke učinit će se dostupnim na odgovarajući način.«.
+
+#### Članak 17.
+
+Članak 126.b mijenja se i glasi:
+
+»Tonska snimka ročišta dio je spisa sudskog predmeta.
+
+Tehničke uvjete i način snimanja, način pohrane i pristupa tonskoj snimci, kao i druga pitanja vezana za tonsko snimanje ročišta uređuju se pravilnikom koji donosi ministar nadležan za poslove pravosuđa.
+
+Ministar nadležan za poslove pravosuđa odlukom će utvrditi jesu li ispunjeni tehnički uvjeti za tonsko snimanje ročišta na pojedinim sudovima.«.
+
+#### Članak 18.
+
+Članak 126.c mijenja se i glasi:
+
+»Tonska snimka ročišta i zapisnik čine jedinstvenu cjelinu.
+
+Kad se sadržaj zapisnika i tonske snimke razlikuje, mjerodavan je sadržaj tonske snimke.
+
+Pri pozivanju na sadržaj tonske snimke stranke su dužne u svojim podnescima određeno se pozvati na odgovarajući dio tonske snimke, u pravilu navođenjem identifikacije tonske snimke i vremenskog intervala sadržaja tonske snimke na koji se pozivaju.
+
+Odredbe članaka 126.a do 126.c na odgovarajući se način primjenjuju i na korištenje audiovizualnih uređaja i tehnološke platforme za komunikaciju na daljinu.«.
+
+#### Članak 19.
+
+Članak 127. mijenja se i glasi:
+
+»Zapisnik potpisuje sudac pojedinac, odnosno predsjednik vijeća.«.
+
+#### Članak 20.
+
+U članku 133. stavak 5. mijenja se i glasi:
+
+»Iznimno od stavka 1. ovoga članka, pismena se dostavljaju državnim tijelima, državnom odvjetništvu, odvjetnicima, javnim bilježnicima, sudskim vještacima, sudskim procjeniteljima, sudskim tumačima, stečajnim upraviteljima, povjerenicima, punomoćnicima iz članka 434.a ovoga Zakona, povjerenicima u postupku stečaja potrošača, likvidatorima, posebnim skrbnicima zaposlenim u Centru za posebno skrbništvo, pravnim osobama te fizičkim osobama koje obavljaju registriranu djelatnost u sporovima koji se tiču te djelatnosti u elektroničkom obliku putem informacijskog sustava ili na drugi odgovarajući način.«.
+
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»Osobama iz stavka 5. ovoga članka koje nisu zatražile ili im još nije dodijeljeno pravo pristupa informacijskom sustavu elektroničke komunikacije sa sudovima sud će dostavu prvog pismena obaviti poštom uz obavijest da će se sva daljnja pismena u postupku do dodjele prava pristupa informacijskom sustavu elektroničke komunikacije obaviti stavljanjem pismena na e-oglasnu ploču sudova. Smatrat će se da je dostava obavljena istekom osmoga dana od dana stavljanja pismena na e-oglasnu ploču sudova.
+
+Dostava prvog pismena poštom iz stavka 6. ovoga članka obavlja se na adresu navedenu u tužbi. Ako dostava na adresu navedenu u tužbi ne uspije, dostava će se obaviti na adresu sjedišta te osobe upisane u upisniku, ako je ta adresa različita od adrese navedene u tužbi. Ako dostava na adresu navedenu u tužbi odnosno na adresu sjedišta ne uspije, obavit će se stavljanjem pismena na e-oglasnu ploču sudova. Smatrat će se da je dostava obavljena istekom osmoga dana od dana stavljanja pismena na e-oglasnu ploču sudova.«.
+
+#### Članak 21.
+
+U članku 133.c stavak 2. briše se.
+
+#### Članak 22.
+
+Članak 134.a mijenja se i glasi:
+
+»Dostava pravnoj osobi nad kojom je otvoren stečajni postupak obavlja se elektroničkim putem stečajnom upravitelju u skladu s člankom 133. stavkom 5., 6. i 7. ovoga Zakona.«.
+
+#### Članak 23.
+
+U članku 142. stavak 3. briše se.
+
+#### Članak 24.
+
+U članku 143.a stavku 1. riječi: »Svaka fizička osoba, neovisno o tome obavlja li ili ne obavlja registriranu djelatnost,« zamjenjuju se riječima: »Fizička osoba«.
+
+U stavku 4. druga rečenica briše se.
+
+U stavku 5. riječi: »iz stavka 5. ovoga članka« zamjenjuju se riječima: »ovlaštena za preuzimanje pismena«.
+
+#### Članak 25.
+
+U članku 143.b stavku 1. iza riječi: »boravištu« dodaje se zarez i riječi: »odnosno izjavi iz članka 143.a ovoga Zakona«.
+
+#### Članak 26.
+
+U članku 149. stavku 1. iza prve rečenice dodaje se rečenica koja glasi: »Dostavnica može biti i u digitalnom obliku izrađena na odgovarajućem tehničkom uređaju.«.
+
+#### Članak 27.
+
+U članku 151. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Parnični troškovi obuhvaćaju i zatezne kamate od dana donošenja odluke kojom je naloženo plaćanje troškova postupka. O zateznim kamatama na iznos parničnih troškova sud odlučuje na zahtjev stranke.«.
+
+#### Članak 28.
+
+U članku 185. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Parnični postupak pred prvostupanjskim sudom mora se okončati u razumnom roku, a svakako u roku kraćem od tri godine od dana podnošenja tužbe, ako ovim ili drugim zakonom nije drukčije određeno.«.
+
+#### Članak 29.
+
+Članci 186.f i 186.g brišu se.
+
+#### Članak 30.
+
+U članku 213. stavku 4. na kraju rečenice umjesto točke stavlja se zarez te se dodaju riječi: »uz dostavu sadržaja navedenog zahtjeva.«.
+
+#### Članak 31.
+
+Članak 213.a briše se.
+
+#### Članak 32.
+
+Iza članka 220. dodaje se članak 220.a koji glasi:
+
+»Članak 220.a
+
+Sudska odluka ne može se temeljiti na dokazu pribavljenom na nezakonit način (nezakonit dokaz).
+
+Sud može rješenjem dopustiti izvođenje nezakonitog dokaza i uzeti u obzir njegov sadržaj ako ocijeni da je to potrebno kako bi se utvrdila odlučna činjenica. Prilikom odlučivanja o dopuštenosti dokaza sud će uzeti u obzir razmjer težine povrede prava zbog izvođenja nezakonitog dokaza te interesa da se u postupku pravilno i potpuno utvrdi činjenično stanje.
+
+Protiv rješenja iz stavka 2. ovoga članka nije dopuštena posebna žalba.«.
+
+#### Članak 33.
+
+Članak 223.a briše se.
+
+#### Članak 34.
+
+U članku 224. stavku 1. iza riječi: »zapisnici« dodaju se riječi: »i tonske snimke« te se iza riječi: »pročitat će se« dodaju riječi: »i preslušati«.
+
+#### Članak 35.
+
+U članku 244. stavku 3. u drugoj rečenici iza riječi: »saslušati« dodaje se točka, a riječi: »i njihov odgovor unijet će se u zapisnik.« brišu se.
+
+#### Članak 36.
+
+U članku 276. stavcima 1. i 2. iza riječi: »zapisnik« dodaju se riječi: »odnosno tonska snimka«.
+
+#### Članak 37.
+
+U članku 277. stavak 4. briše se.
+
+#### Članak 38.
+
+U članku 284. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»Pri zakazivanju pripremnog ročišta sud će voditi računa da pripremno ročište treba održati najkasnije u roku od tri mjeseca od primitka odgovora na tužbu, odnosno isteka roka za odgovor na tužbu.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 39.
+
+U članku 291. stavku 2. iza riječi: »može« dodaje se riječ: »jednom«.
+
+Stavak 4. mijenja se i glasi:
+
+»Ako s pripremnog ročišta neopravdano izostanu obje stranke ili ako s ročišta neopravdano izostane tužitelj, a tuženik se ne upusti u raspravljanje, smatrat će se da je tužitelj povukao tužbu.«.
+
+Stavak 5. briše se.
+
+#### Članak 40.
+
+U članku 292. stavak 7. mijenja se i glasi:
+
+»Ako sud donosi plan upravljanja postupkom iz članka 292.a stavka 3. ovoga Zakona, rješenje o izvođenju dokaza sastavni je dio plana upravljanja postupkom.«.
+
+Stavak 8. briše se.
+
+#### Članak 41.
+
+Iza članka 292. dodaju se članci 292.a i 292.b koji glase:
+
+»Članak 292.a
+
+Po okončanju pripremnog ročišta sud će rješenjem zaključiti prethodni postupak.
+
+Ako ocijeni da je to moguće s obzirom na okolnosti slučaja, sud će na pripremnom ročištu zaključiti prethodni postupak i na istom ročištu održati i zaključiti glavnu raspravu.
+
+Ako sud ocijeni da nije moguće na istom ročištu zaključiti prethodni postupak te održati i zaključiti glavnu raspravu, izradit će plan upravljanja postupkom.
+
+Plan upravljanja postupkom treba sadržavati:
+
+– sažetak spornih činjeničnih i pravnih pitanja,
+
+– dokazna sredstva za utvrđivanje spornih činjenica,
+
+– rok za pribavljanje dokaznih sredstava koja je tek potrebno pribaviti,
+
+– rok za podnošenje pisanih očitovanja stranaka na navode protivne stranke te nalaz i mišljenje vještaka,
+
+– datum i vrijeme održavanja ročišta za glavnu raspravu.
+
+Ako se glavna rasprava treba održati na više ročišta, sud će nakon izjašnjavanja stranaka utvrditi datum i vrijeme održavanja svih sljedećih ročišta za glavnu raspravu vodeći računa o razumnom trajanju postupka.
+
+#### Članak 292.b
+
+Plan upravljanja postupkom sud određuje rješenjem u pravilu na prvom ročištu u postupku. Prije donošenja rješenja o planu upravljanja postupkom sud će strankama omogućiti da se na ročištu o njemu izjasne.
+
+Iznimno od odredbe stavka 1. ovoga članka, ako koja od stranaka izostane s ročišta na kojem se raspravlja o planu upravljanja postupkom, sud može odrediti plan upravljanja postupkom bez prethodnog izjašnjavanja stranke koja je izostala s ročišta.
+
+Sud u daljnjem tijeku parnice može promijeniti plan upravljanja postupkom ako je strankama dao mogućnost da se o tome izjasne. Ako promjene plana ne utječu na rokove koje se odnose na radnje stranaka, sud plan može izmijeniti i bez prethodnog izjašnjavanja stranaka.«.
+
+#### Članak 42.
+
+U članku 293. stavku 1. riječi: »zaključenju prethodnog postupka« zamjenjuju se riječima: »planu upravljanja postupkom.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»Ročište za glavnu raspravu iz stavka 1. ovoga članka treba se održati najkasnije u roku od šest mjeseci od zaključenja prethodnog postupka.«.
+
+Dosadašnji stavci 2. do 4. postaju stavci 3. do 5.
+
+#### Članak 43.
+
+U članku 295. stavak 2. mijenja se i glasi:
+
+»Ako s ročišta za glavnu raspravu neopravdano izostanu obje stranke ili ako s ročišta neopravdano izostane tužitelj, a tuženik se ne upusti u raspravljanje, smatrat će se da je tužitelj povukao tužbu.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Iznimno od odredbe stavka 2. ovoga članka, sud može, ocjenjujući sve okolnosti:
+
+– zaključiti glavnu raspravu i odlučiti o tužbi odnosno tužbenom zahtjevu na temelju već izvedenih dokaza te stanja spisa ako smatra da je predmet dovoljno raspravljen ili
+
+– zbog važnih razloga odgoditi ročište za glavnu raspravu, no najviše jednom tijekom cjelokupne glavne rasprave.«.
+
+#### Članak 44.
+
+Članak 299.a mijenja se i glasi:
+
+»Nakon što primi tužbu i odgovor na tužbu, a prije održavanja prvog ročišta, sud može pozvati stranke da se u roku koji odredi, ali ne duljem od 30 dana, pisano očituju na navode protivne stranke.
+
+Ako se koja od stranaka bez poziva suda iz stavka 1. ovoga članka želi dodatno pisano očitovati na navode protivne stranke, ona će prethodno od suda zatražiti odobrenje podnošenja tog očitovanja i rok u kojem se ono mora podnijeti. Sud će odobriti dodatno pisano očitovanje ako smatra da je ono potrebno i da ne dovodi do odugovlačenja postupka. O tome može zatražiti i pisano očitovanje protivne stranke. Odobrenje suda nije potrebno za pisana očitovanja stranaka na nalaz i mišljenje vještaka.
+
+Pisana očitovanja stranaka moraju biti dostavljena sudu i protivnoj stranci najkasnije osam dana prije ročišta na kojem se trebaju raspraviti.
+
+Sud neće uzeti u obzir pisana očitovanja stranaka koja nisu predviđena planom upravljanja postupkom ili nisu podnesena u skladu sa stavcima 2. i 3. ovoga članka.
+
+Iznimno od odredbe stavka 4. ovoga članka, na zahtjev stranke sud može uzeti u obzir pisana očitovanja iz stavka 4. ovoga članka ako to smatra svrsishodnim.«.
+
+#### Članak 45.
+
+U članku 302. stavak 5. briše se.
+
+#### Članak 46.
+
+U članku 307. stavku 1. iza riječi: »radi zaštite privatnog života stranaka« dodaju se riječi: »ili zaštite života i zdravlja ljudi«.
+
+#### Članak 47.
+
+U članku 312. stavku 2. iza riječi: »zapisnik« dodaju se riječi: »odnosno tonsku snimku«.
+
+#### Članak 48.
+
+U članku 315. stavku 3. iza riječi: »tih dokaza« dodaju se riječi: »odnosno preslušaju tonske snimke«.
+
+#### Članak 49.
+
+Članak 332.a mijenja se i glasi:
+
+»Ako tuženik ne podnese odgovor na tužbu u određenom roku, ako je udovoljeno uvjetima iz članka 331.b stavka 1. točaka 1. i 4. ovoga Zakona, a nije udovoljeno uvjetima iz članka 331.b stavka 1. točaka 2. i 3. ovoga Zakona, sud može donijeti presudu kojom se tužbeni zahtjev odbija.
+
+Ako je tuženik u odgovoru na tužbu priznao odlučne činjenice, neovisno o tome što je osporio tužbeni zahtjev ili ako tuženik nije izričito osporio tužbeni zahtjev, sud može bez zakazivanja ročišta donijeti presudu (članci 325. i 329.), ako ne postoje druge smetnje za njezino donošenje.«.
+
+#### Članak 50.
+
+Iza članka 333. dodaje se članak 333.a koji glasi:
+
+»Članak 333.a
+
+Potvrdu o pravomoćnosti za izdavanje koje nisu bili ispunjeni zakonom propisani uvjeti ukinut će rješenjem, na zahtjev stranke ili po službenoj dužnosti, sud koji je donio potvrdu o pravomoćnosti.«.
+
+#### Članak 51.
+
+U članku 348. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Drugostupanjski sud dužan je odlučiti o žalbi u razumnom roku, a svakako u roku kraćem od godine dana od primitka žalbe na drugostupanjskom sudu, ako ovim ili drugim zakonom nije drukčije određeno.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 52.
+
+U članku 354. stavku 2. točki 11. iza riječi: »u postupku« dodaju se riječi: »odnosno tonskih snimki« te se iza riječi: »zapisnika« dodaju riječi: »odnosno tonskih snimki«.
+
+#### Članak 53.
+
+U članku 363. stavku 3. iza riječi: »prvostupanjskim sudom« dodaju se riječi: »odnosno preslušati tonske snimke«.
+
+#### Članak 54.
+
+U članku 365. stavku 2. riječ: »navedenih« zamjenjuje se riječju: »određenih«.
+
+#### Članak 55.
+
+Iza članka 367. dodaje se članak 367.a koji glasi:
+
+»Članak 367.a
+
+Ako drugostupanjski sud smatra da bi odluku trebalo donijeti na temelju pravne osnove koja se bitno razlikuje od one o kojoj se u postupku raspravljalo i koju savjesna i brižljiva stranka nije mogla razumno predvidjeti, pozvat će stranke da se izjasne o takvoj pravnoj osnovi.
+
+Stranke se mogu o toj pravnoj osnovi izjasniti na sjednici vijeća, raspravi ili u podnesku u roku koji odredi sud, a koji ne može biti kraći od 15 dana.
+
+U mjeri u kojoj takva pravna osnova traži utvrđivanje novih činjenica i izvođenje novih dokaza, stranke se u svome očitovanju mogu na njih pozvati.«.
+
+#### Članak 56.
+
+U članku 373.c stavku 4. iza riječi: »prvostupanjskim sudom« dodaju se riječi: »odnosno preslušati tonske snimke«.
+
+#### Članak 57.
+
+U članku 381. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»Odredbe članka 366.a stavaka 1. do 3. ovoga članka ne odnose se na rješenja kojima se postupak završava, osim rješenja o smetanju posjeda.«.
+
+#### Članak 58.
+
+U članku 382. stavku 1. iza riječi: »protiv« dodaju se riječi: »drugostupanjske«, a riječi: »donesene u drugom stupnju« brišu se.
+
+U stavku 2. riječi: »revizijskog suda« zamjenjuju se riječima: »Vrhovnog suda Republike Hrvatske«.
+
+#### Članak 59.
+
+Članak 382.a briše se.
+
+#### Članak 60.
+
+Članak 384. mijenja se i glasi:
+
+»Prijedlog za dopuštenje revizije i revizija ne zadržavaju ovrhu presude protiv koje su podneseni.«.
+
+#### Članak 61.
+
+Članak 385. briše se.
+
+#### Članak 62.
+
+Članak 385.a mijenja se i glasi:
+
+»Vrhovni sud Republike Hrvatske dopustit će reviziju ako se u povodu nje može očekivati odluka o pravnom pitanju koje su nižestupanjski sudovi u tom sporu razmatrali, a koje je važno za odluku u sporu i za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni ili za razvoj prava u sudskoj praksi, osobito
+
+– ako je riječ o pravnom pitanju o kojem odluka drugostupanjskog suda odstupa od prakse Vrhovnog suda Republike Hrvatske ili
+
+– ako je riječ o pravnom pitanju o kojem nema prakse Vrhovnog suda Republike Hrvatske, pogotovo ako praksa viših sudova nije jedinstvena ili
+
+– ako je riječ o pravnom pitanju o kojem praksa Vrhovnog suda Republike Hrvatske nije jedinstvena ili
+
+– ako je o tom pitanju Vrhovni sud Republike Hrvatske već zauzeo shvaćanje i presuda se drugostupanjskoga suda temelji na tom shvaćanju, ali bi osobito uvažavajući razloge iznesene tijekom prethodnog prvostupanjskog i žalbenog postupka, zbog promjene u pravnom sustavu uvjetovane novim zakonodavstvom ili međunarodnim sporazumima te odlukom Ustavnoga suda Republike Hrvatske, Europskoga suda za ljudska prava ili Suda Europske unije trebalo preispitati sudsku praksu.
+
+Vrhovni sud Republike Hrvatske dopustit će reviziju i ako stranka učini vjerojatnim da joj je u prvostupanjskom i drugostupanjskom postupku zbog osobito teških povreda odredaba parničnog postupka ili pogrešne primjene materijalnog prava povrijeđeno kakvo temeljno ljudsko pravo zajamčeno Ustavom Republike Hrvatske i Europskom konvencijom za zaštitu ljudskih prava i temeljnih sloboda i da se stranka na te povrede, ako je to bilo moguće, već pozivala u nižestupanjskom postupku.«.
+
+#### Članak 63.
+
+Članak 386. briše se.
+
+#### Članak 64.
+
+Članak 387. mijenja se i glasi:
+
+»Vrhovni sud Republike Hrvatske odlučuje o dopuštenosti revizije na temelju prijedloga za dopuštenje revizije.
+
+Prijedlog za dopuštenje revizije, osim podataka koje mora sadržavati svaki podnesak, treba sadržavati:
+
+1) oznaku presude protiv koje se podnosi,
+
+2) određeno naznačeno pravno pitanje iz članka 385.a stavka 1. ovoga Zakona ili određeno naznačeno temeljno ljudsko pravo iz članka 385.a stavka 2. ovoga Zakona za koje stranka smatra da joj je u postupku povrijeđeno uz dokaz da je u vezi s tim stranka iscrpila dopušteni pravni put,
+
+3) jasno naznačene razloge zbog kojih stranka smatra da joj Vrhovni sud Republike Hrvatske treba dopustiti reviziju u smislu članka 385.a stavaka 1. ili 2. ovoga Zakona uz određeno pozivanje na relevantne propise i dijelove sudskih odluka.
+
+Prijedlogu za dopuštenje revizije, osim dokaza iz članka 91.a ovoga Zakona, treba priložiti prvostupanjsku i drugostupanjsku odluku protiv kojih se prijedlog za dopuštenje revizije podnosi, žalbu i prema potrebi druge dijelove spisa s jasnim naznakama spornih dijelova na koje se u prijedlogu za dopuštenje revizije stranka poziva. Ako se prijedlog za dopuštenje revizije podnosi zbog različite prakse viših sudova, stranka je uz prijedlog za dopuštenje revizije dužna dostaviti sudske odluke na koje se poziva ili ih određeno naznačiti.
+
+U prijedlogu za dopuštenje revizije ne mogu se iznositi nove činjenice ni predlagati novi dokazi, osim onih koji se odnose na razloge važnosti pitanja iz članka 385.a ovoga Zakona zbog kojih se prijedlog za dopuštenje revizije podnosi.«.
+
+#### Članak 65.
+
+Članak 388. mijenja se i glasi:
+
+»Prijedlog za dopuštenje revizije podnosi se sudu koji je izrekao prvostupanjsku presudu u roku od 30 dana od dostave drugostupanjske presude.
+
+Sudac pojedinac ili predsjednik vijeća prvostupanjskog suda odbacit će nepravodoban i nepotpun prijedlog za dopuštenje revizije bez održavanja ročišta i ne pozivajući stranku da ga izmijeni ili dopuni.
+
+Prijedlog za dopuštenje revizije je nepravodoban ako nije podnesen u roku iz stavka 1. ovoga članka koji je određen za njegovo podnošenje.
+
+Prijedlog za dopuštenje revizije je nepotpun ako se iz njega ne može utvrditi koja se presuda pobija ili ako nije potpisan.
+
+Ako je prijedlog za dopuštenje revizije pravodoban i potpun, njegov će primjerak sudac pojedinac, odnosno predsjednik vijeća prvostupanjskog suda dostaviti protivnoj stranci i umješaču, koji mogu u roku od 30 dana od dostave prijedloga za dopuštenje revizije podnijeti tom sudu odgovor na taj prijedlog.
+
+Nakon primitka odgovora na prijedlog za dopuštenje revizije, odnosno nakon isteka roka za odgovor na prijedlog za dopuštenje revizije sudac pojedinac, odnosno predsjednik vijeća prvostupanjskog suda dostavit će prijedlog za dopuštenje revizije i odgovor na prijedlog za dopuštenje revizije, ako je podnesen, Vrhovnom sudu Republike Hrvatske.
+
+Nepravodobno podnesen odgovor na prijedlog za dopuštenje revizije neće se odbaciti, već će se dostaviti Vrhovnom sudu Republike Hrvatske, koji će ga uzeti u obzir ako je to još moguće.«.
+
+#### Članak 66.
+
+Članak 389. mijenja se i glasi:
+
+»O prijedlogu za dopuštenje revizije Vrhovni sud Republike Hrvatske odlučuje na sjednici vijeća na kojoj je javnost isključena.
+
+Kad ocijeni da je to u interesu javnosti, vijeće može sjednicu održati javno te na nju pozvati stranke i njihove zastupnike. Nakon javne sjednice Vrhovni sud Republike Hrvatske odlučuje u skladu sa stavkom 1. ovoga članka.«.
+
+#### Članak 67.
+
+Iza članka 389. dodaju se članci 389.a do 389.e koji glase:
+
+»Članak 389.a
+
+Vrhovni sud Republike Hrvatske odbacit će nedopušten prijedlog za dopuštenje revizije, a i nepravodoban i nepotpun ako je to propustio učiniti prvostupanjski sud, bez održavanja ročišta i ne pozivajući stranku da ga izmijeni ili dopuni.
+
+Prijedlog za dopuštenje revizije je nedopušten ako ga je podnijela osoba koja nije ovlaštena za njegovo podnošenje ili ako osoba koja ga je podnijela nema pravni interes za podnošenje revizije.«.
+
+Vrhovni sud Republike Hrvatske odbacit će i prijedlog za dopuštenje revizije koji uopće ne sadržava pravno pitanje ili određeno naznačenu povredu temeljnog ljudskog prava ili jasno naznačene razloge važnosti pravnog pitanja u smislu članka 385.a ovoga Zakona.
+
+Vrhovni sud Republike Hrvatske odbacit će i prijedlog za dopuštenje revizije ako ocijeni da stranka nije učinila vjerojatnim da joj je povrijeđeno temeljno ljudsko pravo u smislu članka 385.a stavka 2. ovoga Zakona ili da stranka u vezi s povredom temeljnog ljudskog prava na koju se u prijedlogu poziva nije prethodno iscrpila dopušteni pravni put.
+
+U rješenju kojim se prijedlog za dopuštenje revizije odbacuje sud će određeno navesti razlog odbacivanja.
+
+#### Članak 389.b
+
+Vrhovni sud Republike Hrvatske odbit će prijedlog za dopuštenje revizije ako na temelju onoga što mu je dostavljeno ocijeni da u prijedlogu nije riječ o važnom pravnom pitanju u smislu članka 385.a stavka 1. ovoga Zakona.
+
+U rješenju kojim se prijedlog za dopuštenje revizije odbija sud će određeno navesti razlog odbijanja upućujući, ako je to moguće, na svoju prijašnju praksu. Iznimno, ako ocijeni da je to u interesu javnosti, sud rješenje može i iscrpnije obrazložiti.
+
+U rješenju kojim se revizija dopušta Vrhovni sud Republike Hrvatske navest će u odnosu na koje pravno pitanje ili u odnosu na koju povredu temeljnog ljudskog prava te u odnosu na koji dio odluke dopušta podnošenje revizije. Za ostala će se pravna pitanja i povrede temeljnih ljudskih prava iz prijedloga za dopuštenje revizije uzeti da je prijedlog u odnosu na njih povučen.
+
+#### Članak 389.c
+
+Pravni lijek protiv rješenja u povodu prijedloga za dopuštenje revizije nije dopušten.
+
+Vrhovni sud Republike Hrvatske dužan je donijeti odluku o prijedlogu za dopuštenje revizije u razumnom roku, a svakako u roku kraćem od šest mjeseci od primitka prijedloga za dopuštenje revizije na Vrhovnom sud Republike Hrvatske.
+
+#### Članak 389.d
+
+Revizija, osim podataka koje mora sadržavati svaki podnesak, treba sadržavati:
+
+1) oznaku presude protiv koje se podnosi,
+
+2) određeno naznačeno važno pravno pitanje ili temeljno ljudsko pravo zbog kojeg je dopuštena uz oznaku rješenja Vrhovnog suda Republike Hrvatske kojim je revizija dopuštena,
+
+3) jasno određene razloge zbog kojih stranka smatra da je revizija osnovana uz određeno pozivanje na relevantne propise i dijelove sudskih odluka.
+
+U reviziji se ne mogu iznositi nove činjenice ni predlagati novi dokazi, osim onih koji se odnose na pravna pitanja iz članka 385.a ovoga Zakona zbog kojih se revizija podnosi.
+
+#### Članak 389.e
+
+Revizija se podnosi sudu koji je donio prvostupanjsku presudu.
+
+Sudac pojedinac ili predsjednik vijeća prvostupanjskog suda odbacit će nepravodobnu i nepotpunu reviziju bez održavanja ročišta i ne pozivajući stranku da je izmijeni ili dopuni.
+
+Revizija je nepravodobna ako nije podnesena u roku iz članka 382. stavka 2. ovoga Zakona.
+
+Revizija je nepotpuna ako se iz nje ne može utvrditi koja se presuda pobija ili ako nije potpisana.
+
+Ako je revizija pravodobna i potpuna, njezin će primjerak sudac pojedinac ili predsjednik vijeća prvostupanjskog suda dostaviti protivnoj stranci i umješaču koji mogu u roku od 30 dana od dostave revizije podnijeti tom sudu odgovor na reviziju.
+
+Primjerak odgovora na reviziju prvostupanjski će sud dostaviti podnositelju revizije.
+
+Nakon primitka odgovora na reviziju, odnosno nakon isteka roka za odgovor na reviziju, prvostupanjski će sud dostaviti reviziju i odgovor na reviziju, ako je podnesen, Vrhovnom sudu Republike Hrvatske zajedno sa spisom.
+
+Nepravodobno podnesen odgovor na reviziju neće se odbaciti, već će se dostaviti Vrhovnom sudu Republike Hrvatske koji će ga uzeti u obzir ako je to još moguće.«.
+
+#### Članak 68.
+
+Članak 390. mijenja se i glasi:
+
+»O reviziji Vrhovni sud Republike Hrvatske odlučuje u skladu s člankom 389. ovoga Zakona.
+
+Ako vijeće ocijeni da bi svojom odlukom odstupilo od ustaljene prakse ili odluke proširenog vijeća Vrhovnog suda Republike Hrvatske ili da praksa Vrhovnog suda Republike Hrvatske u vezi s pravnim pitanjem o kojem odlučuje nije jedinstvena, odluku će prepustiti proširenom vijeću od trinaest sudaca Vrhovnog suda Republike Hrvatske.
+
+Vrhovni sud Republike Hrvatske dužan je donijeti odluku o reviziji podnesenoj protiv odluke drugostupanjskog suda u razumnom roku, a svakako u roku kraćem od dvije godine od dana primitka revizije.«.
+
+#### Članak 69.
+
+Članak 391. mijenja se i glasi:
+
+»Vrhovni sud Republike Hrvatske odbacit će nedopuštenu reviziju, a i nepravodobnu i nepotpunu ako je to propustio učiniti prvostupanjski sud, bez održavanja ročišta i ne pozivajući stranku da je izmijeni ili dopuni.
+
+Revizija je nedopuštena ako ju je podnijela osoba koja nije ovlaštena za njezino podnošenje, ako osoba koja ju je podnijela nema pravni interes za njezino podnošenje ili ako se odrekla prava na njezino podnošenje nakon što je dopuštena, ako prethodno nije doneseno rješenje kojim je dopuštena ili ako revizija nije podnesena zbog pitanja iz članka 385.a ovoga Zakona zbog kojeg je dopuštena.
+
+U povodu revizije Vrhovni sud Republike Hrvatske ispituje pobijanu presudu samo u dijelu u kojem je revizija dopuštena i samo zbog pitanja iz članka 385.a ovoga Zakona zbog kojeg je dopuštena.
+
+Ako Vrhovni sud Republike Hrvatske utvrdi da stranka nije prethodno iscrpila dopušteni pravni put (članak 385.a stavak 2.), odbacit će podnesenu reviziju.
+
+Vrhovni sud Republike Hrvatske odbacit će i reviziju koja uopće ne sadrži razloge podnošenja (članak 389.d stavak 1. točka 3.).
+
+Vrhovni sud Republike Hrvatske odbit će reviziju ako je smatra neosnovanom.
+
+Ako reviziju smatra osnovanom, Vrhovni sud Republike Hrvatske preinačit će pobijanu presudu ili, ovisno o razlogu osnovanosti revizije, ukinuti drugostupanjsku, odnosno drugostupanjsku i prvostupanjsku presudu te predmet vratiti na ponovno suđenje ili ukinuti drugostupanjsku, odnosno drugostupanjsku i prvostupanjsku presudu te odbaciti tužbu.«.
+
+#### Članak 70.
+
+Članci od 392. do 396. brišu se.
+
+#### Članak 71.
+
+Članak 398. mijenja se i glasi:
+
+»Odluka Vrhovnog suda Republike Hrvatske dostavlja se i drugostupanjskom sudu.«.
+
+#### Članak 72.
+
+Članak 399. mijenja se i glasi:
+
+»Ako odredbama članaka 382. do 398. ovoga Zakona nije što drugo određeno, u postupku u povodu prijedloga za dopuštenje revizije i revizije na odgovarajući će se način primjenjivati odredbe ovoga Zakona o žalbi protiv presude iz članka 349. stavka 2., članka 352., članka 361. stavaka 1. i 2., članka 363., članaka 368. do 371., članaka 373. i 373.a, članaka 374. do 377.a ovoga Zakona.
+
+Ako stranka odustane od prijedloga za dopuštenje revizije, odnosno revizije, to će rješenjem utvrditi sudac pojedinac Vrhovnog suda Republike Hrvatske, odnosno sudac pojedinac ili predsjednik vijeća prvostupanjskog suda.«.
+
+#### Članak 73.
+
+Članak 400. mijenja se i glasi:
+
+»Stranke mogu podnijeti reviziju i protiv rješenja drugostupanjskog suda kojim je postupak pravomoćno završen ako je Vrhovni sud Republike Hrvatske dopustio podnošenje revizije.
+
+U postupku u povodu prijedloga za dopuštenje revizije i revizije protiv rješenja na odgovarajući će se način primjenjivati odredbe ovoga Zakona o prijedlogu za dopuštenje revizije i reviziji protiv presude.«.
+
+#### Članak 74.
+
+U članku 428.a iza stavka 3. dodaju se stavci 4. i 5 koji glase:
+
+»Odredbe stavaka 1. do 3. ovoga članka na odgovarajući se način primjenjuju i ako je postupak pred Europskim sudom za ljudska prava okončan prijateljskim rješenjem spora u skladu s člankom 39. Konvencije za zaštitu ljudskih prava i temeljnih sloboda, odnosno jednostranim priznanjem povrede u skladu s člankom 62.A Poslovnika Europskog suda za ljudska prava.
+
+Rok za ponavljanje postupka iz stavka 1. ovoga članka u slučaju iz stavka 4. ovoga članka počinje teći od objave odluke o brisanju predmeta s liste Europskog suda za ljudska prava.«.
+
+#### Članak 75.
+
+Članak 429. mijenja se i glasi:
+
+»Ako stranka podnese prijedlog za dopuštenje revizije, odnosno reviziju i istodobno ili nakon toga podnese prijedlog za ponavljanje postupka, Vrhovni sud Republike Hrvatske može prekinuti postupak u povodu prijedloga za dopuštenje revizije, odnosno revizije do završetka postupka u povodu prijedloga za ponavljanje postupka.«.
+
+#### Članak 76.
+
+Članci 430. i 431. brišu se.
+
+#### Članak 77.
+
+U članku 443. stavak 4. briše se.
+
+#### Članak 78.
+
+U članku 450. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Tužitelj može nakon podnošenja prigovora tuženika preinačiti tužbu samo tako da na temelju iste činjenične i pravne osnove poveća tužbeni zahtjev iznad iznosa određenog platnim nalogom.«.
+
+#### Članak 79.
+
+U članku 451. stavku 1. iza riječi: »pobija« zarez se briše i dodaje riječ: »i« te se brišu riječi: »ili ako u njemu nisu navedeni razlozi pobijanja«.
+
+U stavku 3. iza riječi: »ukida« dodaju se riječi: »te će u slučaju ukidanja odbiti tužbeni zahtjev«.
+
+#### Članak 80.
+
+Članak 461. mijenja se i glasi:
+
+»U postupku u sporovima male vrijednosti postupak pred prvostupanjskim sudom mora se okončati u razumnom roku, a svakako u roku kraćem od godine dana od podnošenja tužbe.«.
+
+#### Članak 81.
+
+Članak 461.a mijenja se i glasi:
+
+»U postupku u sporovima male vrijednosti tužba se uvijek dostavlja tuženiku na odgovor.
+
+U postupku u sporovima male vrijednosti stranke su dužne najkasnije u tužbi, odnosno odgovoru na tužbu iznijeti sve činjenice na kojima temelje svoje zahtjeve i predložiti dokaze potrebne za utvrđivanje iznesenih činjenica.
+
+Postupak u sporovima male vrijednosti pisani je postupak.
+
+Sud će u postupcima u sporovima male vrijednosti održati ročište ako to smatra potrebnim radi provođenja dokaznog postupka ili ako barem jedna od stranaka podnese takav obrazloženi prijedlog. Sud će rješenjem odbiti prijedlog stranke za održavanje ročišta ako smatra, s obzirom na okolnosti slučaja, da se pravično vođenje postupka može osigurati i bez održavanja ročišta. Protiv rješenja kojim se odbija prijedlog stranke za održavanje ročišta nije dopuštena posebna žalba.
+
+Na presude donesene u pisanom postupku ne primjenjuju se odredbe o ročištu za objavu presude iz članka 335. stavaka 6. do 12. ovoga Zakona. Sud će presudu u pisanim postupcima dostaviti strankama i umješačima prema odredbama ovoga Zakona o dostavi pismena.
+
+U postupku u sporovima male vrijednosti u povodu prigovora protiv platnog naloga odnosno prigovora protiv rješenja o ovrsi na temelju vjerodostojne isprave tužitelj je dužan najkasnije u podnesku predanom sudu u roku od 15 dana od dostave prigovora protiv platnog naloga odnosno rješenja kojim je stavljeno izvan snage rješenje o ovrsi na temelju vjerodostojne isprave u dijelu kojim je određena ovrha, iznijeti sve činjenice na kojima temelji svoje zahtjeve i predložiti dokaze potrebne za utvrđivanje iznesenih činjenica te predložiti održavanje usmene rasprave.
+
+U postupku u sporovima male vrijednosti u povodu prigovora protiv platnog naloga odnosno prigovora protiv rješenja o ovrsi na temelju vjerodostojne isprave tuženik je dužan najkasnije u roku od 15 dana od primitka tužiteljevog podneska iz stavka 6. ovoga članka iznijeti sve činjenice na kojima temelji svoje zahtjeve i predložiti dokaze potrebne za utvrđivanje iznesenih činjenica te predložiti održavanje usmene rasprave.
+
+Sud će upozoriti stranke na sadržaj odredbi stavaka 2. do 7. ovoga članka u rješenju za podnošenje pisanog odgovora na tužbu iz članka 284. stavka 1. ovoga Zakona, rješenju koje se dostavlja tuženiku uz prigovor protiv platnog naloga, odnosno u rješenju kojim je stavljeno izvan snage rješenje o ovrsi na temelju vjerodostojne isprave u dijelu kojim je određena ovrha.
+
+Stranke mogu na pripremnom ročištu iznositi nove činjenice i predlagati nove dokaze samo ako ih bez svoje krivnje nisu mogle iznijeti, odnosno predložiti u tužbi, odnosno odgovoru na tužbu ili u podnescima iz stavaka 6. i 7. ovoga članka.
+
+Nove činjenice i nove dokaze koje su stranke iznijele, odnosno predložile na pripremnom ročištu protivno stavku 9. ovoga članka sud neće uzeti u obzir.
+
+U postupku u sporovima male vrijednosti sud će na pripremnom ročištu zaključiti prethodni postupak i na istom ročištu održati glavnu raspravu, osim ako zbog okolnosti slučaja iz stavka 9. ovoga članka to nije moguće.«.
+
+#### Članak 82.
+
+Članak 461.b briše se.
+
+#### Članak 83.
+
+Članak 463. briše se.
+
+#### Članak 84.
+
+U članku 464. stavku 1. riječi: »tužbeni zahtjev« zamjenjuju se riječju: »tužbu«.
+
+#### Članak 85.
+
+Iza članka 464. dodaje se članak 464.a koji glasi:
+
+»Članak 464.a
+
+U sporovima male vrijednosti sud može, ako ocijeni da bi utvrđivanje činjenica važnih za rješenje spora moglo biti povezano s nerazmjernim teškoćama i troškovima, o postojanju tih činjenica zaključiti po slobodnoj ocjeni uzimajući u obzir isprave koje su stranke priložile te njihove iskaze ako je sud izveo dokaz saslušanjem stranaka.«.
+
+#### Članak 86.
+
+U članku 465. stavak 1. briše se.
+
+U dosadašnjem stavku 2., koji postaje stavak 1., riječi: »ne dođe na pripremno ročište« zamjenjuju se riječima: »se ispune uvjeti iz članka 291. stavka 4. ovoga Zakona«, a broj: »6« zamjenjuje se brojem: »12«.
+
+#### Članak 87.
+
+U članku 467. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»U postupku u sporovima male vrijednosti drugostupanjski sud dužan je odlučiti o žalbi u razumnom roku, a svakako u roku kraćem od šest mjeseci od primitka žalbe na drugostupanjskom sudu.«.
+
+#### Članak 88.
+
+Članak 495. mijenja se i glasi:
+
+»U hitnim slučajevima ročište se može zakazati telefonom, elektroničkim putem ili na drugi odgovarajući način. O tome će se sastaviti službena bilješka ako o zakazivanju ročišta, s obzirom na to kako je obavljeno, nema drugog pisanog dokaza.
+
+Odluke iz članaka 212. i 215. te članka 215.b stavka 2. ovoga Zakona sudski savjetnici ovlašteni su donijeti tijekom cijelog postupka.«.
+
+#### Članak 89.
+
+U članku 502.b stavku 1. iza točke 4. umjesto točke stavlja se zarez te se dodaje točka 5. koja glasi:
+
+»5. da se dosude mjere popravljanja štete u skladu s posebnim propisom o predstavničkim tužbama za zaštitu kolektivnih interesa potrošača.«.
+
+#### Članak 90.
+
+Članak 502.k mijenja se i glasi:
+
+»Ako sazna za postojanje postupaka iz članka 502.j ovoga Zakona, sud će, po službenoj dužnosti ili na prijedlog stranaka ili umješača, zatražiti od predsjednika suda zakazivanje sjednice sudskog odjela kako bi se raspravilo o pretpostavkama za podnošenje prijedloga za pokretanje oglednog postupka za rješenje pitanja važnog za jedinstvenu primjenu prava. Prije podnošenja zahtjeva za održavanje sjednice odjela sud će sa strankama na ročištu raspraviti o potrebi pokretanja oglednog postupka.
+
+Obavijest o podnošenju zahtjeva za održavanje sjednice odjela iz stavka 1. ovoga članka objavit će se na e-oglasnoj ploči sudova uz poziv da se stranke i umješači iz postupaka iz članka 502.j ovoga Zakona u roku od 30 dana pisano očituju o potrebi pokretanja oglednog postupka. O mogućnosti podnošenja prijedloga za pokretanje oglednog postupka obavještava se i Vrhovni sud Republike Hrvatske koji će podnijeti očitovanje o postupcima iz članka 502.j ovoga Zakona.
+
+Na sjednici sudskog odjela raspravlja se o primljenim očitovanjima i drugim činjenicama važnima za odlučivanje o podnošenju prijedloga te se daje savjetodavno mišljenje o potrebi podnošenja prijedloga.
+
+Ako odluči podnijeti prijedlog za pokretanje oglednog postupka, sud će taj prijedlog sa spisom predmeta dostaviti Vrhovnom sudu Republike Hrvatske. Prijedlog će se odmah objaviti na mrežnoj stranici e-oglasna ploča sudova.
+
+Nakon objave prijedloga za pokretanje oglednog postupka, radnje stranaka kojima se raspolaže predmetom spora ne utječu na mogućnost nastavka i okončanja oglednog postupka.
+
+Od objave prijedloga iz stavka 1. ovoga članka do objave okončanja oglednog postupka zastaje zastarijevanje prava na podnošenje zahtjeva u odnosu na koji je podnesen prijedlog za rješenje pitanja važnog za jedinstvenu primjenu prava, u pravnim stvarima u kojima odluka ovisi o rješavanju istog pravnog pitanja.«.
+
+#### Članak 91.
+
+Članak 502.l mijenja se i glasi:
+
+»Nakon primitka prijedloga Vrhovni sud Republike Hrvatske može od predsjednika sudova zatražiti da bez odgode dostave dopunske obavijesti o okolnostima relevantnima za odlučivanje o prijedlogu.
+
+Sve zainteresirane osobe mogu u roku od 45 dana od objave obavijesti o prijedlogu uputiti Vrhovnom sudu Republike Hrvatske svoja očitovanja o potrebi pokretanja oglednog postupka.«.
+
+#### Članak 92.
+
+U članku 502.lj iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»Odluka o dopuštenosti donijet će se vodeći računa o:
+
+– broju pokrenutih postupaka te predvidivom roku u kojem bi oni redovitim putem mogli biti pravomoćno okončani,
+
+– vjerojatnosti da dođe do nejedinstvene primjene prava te mogućim štetnim posljedicama koje bi mogle uslijediti zbog dugotrajnosti redovitog postupka ujednačavanja pravnih shvaćanja sudova,
+
+– potrebi da se radi što kvalitetnijeg rješavanja pitanje važno za jedinstvenu primjenu prava raspravi pred većim brojem prvostupanjskih i drugostupanjskih sudova.
+
+Sud neće pokrenuti ogledni postupak ako je o pitanju važnom za jedinstvenu primjenu prava već doneseno rješenje kojim se revizija dopušta.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+U dosadašnjem stavku 4., koji postaje stavak 6., iza riječi: »odmah« dodaju se riječi: »dostaviti strankama i umješačima te«.
+
+Dosadašnji stavak 5. postaje stavak 7.
+
+#### Članak 93.
+
+Članak 502.m mijenja se i glasi:
+
+»O pitanju važnom za jedinstvenu primjenu prava odlučuje prošireno vijeće od trinaest sudaca Vrhovnog suda Republike Hrvatske presudom u roku od 90 dana od dana objave rješenja kojim je dopušten prijedlog. Presuda će se odmah objaviti na mrežnoj stranici e-oglasna ploča sudova.
+
+U presudi u oglednom postupku sud će zauzeti pravno shvaćanje o pitanju važnom za jedinstvenu primjenu prava uz obrazloženje u kojem će se uzeti u obzir primljena očitovanja stranaka i druge okolnosti važne za odlučivanje.«.
+
+#### Članak 94.
+
+Naslov iznad članka 507.a mijenja se i glasi:
+
+»Posebne odredbe o dostavi prema Uredbi (EU) 2020/1784 Europskog parlamenta i Vijeća od 25. studenoga 2020. o dostavi, u državama članicama, sudskih i izvansudskih pismena u građanskim ili trgovačkim stvarima (dostava pismena) (preinaka) (u daljnjem tekstu: Uredba br. 2020/1784)«.
+
+#### Članak 95.
+
+Članak 507.a mijenja se i glasi:
+
+»U smislu ovoga odjeljka:
+
+1. izraz »otpremno tijelo« podrazumijeva javne službenike, tijela ili druge osobe odgovorne za slanje sudskih ili izvansudskih pismena koja treba dostaviti u drugu državu članicu,
+
+2. izraz »prijamno tijelo« podrazumijeva javne službenike, tijela ili druge osobe odgovorne za zaprimanje sudskih ili izvansudskih pismena iz druge države članice.«.
+
+#### Članak 96.
+
+Članak 507.b mijenja se i glasi:
+
+»Dostava pismena prema odredbi članka 17. stavka 1. Uredbe br. 2020/1784 koju treba obaviti u Republici Hrvatskoj dopuštena je samo ako se pismena trebaju dostaviti državljanima države članice iz koje pismena potječu.
+
+Prijedlog za povrat u prijašnje stanje iz članka 22. stavka 4. Uredbe br. 2020/1784 ne može se podnijeti nakon isteka roka od godine dana od dana donošenja odluke.«.
+
+#### Članak 97.
+
+Članak 507.c mijenja se i glasi:
+
+»Dostava pismena prema odredbi članka 18. Uredbe br. 2020/1784 dokazuje se povratnicom ili jednakovrijednom ispravom.
+
+Ispravu koju prijamno tijelo u Republici Hrvatskoj treba dostaviti ili predati radi dostave u smislu odredbe članka 11. stavka 1. Uredbe br. 2020/1784 može se dostaviti i preporučenom pošiljkom s povratnicom.«.
+
+#### Članak 98.
+
+Članak 507.ć mijenja se i glasi:
+
+»Za dostavu u inozemstvo kao hrvatska otpremna tijela, u smislu odredbe članka 3. stavka 1. Uredbe br. 2020/1784, nadležni su:
+
+1. za sudska pismena sud koji treba obaviti dostavu,
+
+2. za izvansudska pismena općinski sud na čijem području ima prebivalište ili uobičajeno boravište, odnosno sjedište tijelo ili osoba koja traži dostavu u inozemstvo,
+
+3. za pismena koja su potvrdili ili izdali javni bilježnici općinski sud na čijem području je njihovo sjedište.
+
+Predsjednik Vrhovnog suda Republike Hrvatske može za obavljanje poslova iz stavka 1. točke 2. i 3. ovoga članka ovlastiti samo jedan ili samo neki od općinskih sudova s područja jednog ili više županijskih sudova.
+
+Za dostavu u Republici Hrvatskoj, hrvatsko prijamno tijelo u smislu odredbe članka 3. stavka 2. Uredbe br. 2020/1784 je općinski sud na čijem području se pismena trebaju dostaviti.
+
+Predsjednik Vrhovnog suda Republike Hrvatske može za obavljanje poslova iz stavka 3. ovoga članka ovlastiti samo jedan ili samo neki od općinskih sudova s područja jednog ili više županijskih sudova.
+
+Središnje tijelo u Republici Hrvatskoj, u smislu odredaba članka 4. Uredbe br. 2020/1784, je ministarstvo nadležno za poslove pravosuđa.
+
+Pomoć pri utvrđivanju adrese osoba kojima treba dostaviti pismeno, u skladu s člankom 7. stavkom 1. Uredbe br. 2020/1784, pruža se objavom detaljnih informacija na europskom portalu e-pravosuđe. Prijamno tijelo podnosi na vlastitu inicijativu zahtjeve registrima osoba ili drugim bazama podataka za informacije o adresama u slučajevima kad adresa navedena u zahtjevu za dostavu nije ispravna.«.
+
+#### Članak 99.
+
+U članku 507.č stavak 1. mijenja se i glasi:
+
+»Na zahtjev osobe koja ima interes u određenom sudskom postupku, u smislu odredbe članka 20. stavka 1. Uredbe br. 2020/1784, dopuštena je dostava u Republici Hrvatskoj izravno putem nadležnog javnog bilježnika.«.
+
+#### Članak 100.
+
+Naslov iznad članka 507.d mijenja se i glasi:
+
+»Posebne odredbe o izvođenju dokaza prema Uredbi (EU) 2020/1783 Europskog parlamenta i Vijeća od 25. studenoga 2020. o suradnji između sudova država članica u izvođenju dokaza u građanskim ili trgovačkim stvarima (izvođenje dokaza) (preinaka) (u daljnjem tekstu: Uredba br. 2020/1783)«.
+
+#### Članak 101.
+
+Članak 507.d mijenja se i glasi:
+
+»Kad se izvođenje dokaza treba obaviti prema Uredbi br. 2020/1783, sud može:
+
+1. zatražiti izvođenje dokaza od nadležnog suda u drugoj državi članici ili
+
+2. zatražiti neposredno izvođenje dokaza u drugoj državi članici u skladu s pretpostavkama iz članaka 19. i 20. Uredbe br. 2020/1783.«.
+
+#### Članak 102.
+
+U članku 507.e stavak 1. mijenja se i glasi:
+
+»Sudac pojedinac ili ovlašteni član vijeća hrvatskog suda koji zahtijeva izvođenje dokaza može, u slučajevima na koje se primjenjuje Uredba br. 2020/1783 i u skladu s tom Uredbom, biti nazočan i sudjelovati u izvođenju dokaza putem suda države članice primateljice zahtjeva. Stranke, njihovi zastupnici, kao i vještaci mogu pri tome sudjelovati u opsegu u kojem bi u postupku pred hrvatskim sudom mogli sudjelovati u izvođenju dokaza.«.
+
+U stavku 2. riječi: »17. stavka 2. Uredbe br. 1206/2001.« zamjenjuju se riječima: »19. stavka 3. Uredbe br. 2020/1783.«.
+
+#### Članak 103.
+
+U članku 507.f stavku 1. riječi: »zamoljeni sud u smislu odredbe članka 2. stavka 1. Uredbe br. 1206/2001« zamjenjuju se riječima: »sud primatelj zahtjeva u smislu odredbe članka 3. stavka 1. Uredbe br. 2020/1783«.
+
+#### Članak 104.
+
+U članku 507.g riječi: »Uredbi br. 1206/2001« zamjenjuju se riječima: »Uredbi br. 2020/1783«.
+
+#### Članak 105.
+
+U članku 507.h riječi: »3. Uredbe 1206/2001.« zamjenjuju se riječima: »4. Uredbe br. 2020/1783«.
+
+#### Članak 106.
+
+U članku 507.k riječi: »1393/2007.« zamjenjuju se riječima: »2020/1784«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 107.
+
+Postupci pokrenuti prije stupanja na snagu ovoga Zakona dovršit će se primjenom odredbi Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08. – Odluka Ustavnog suda Republike Hrvatske., 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13., 89/14. – Odluka Ustavnog suda Republike Hrvatske i 70/19.).
+
+Iznimno od odredbe stavka 1. ovoga članka, odredbe članaka 2., 5. do 7., 10., 11., 17., 20. do 27., 31., 33., 46., 49., 50., 54., 55., 57., 74. do 76., 78., 79., 84., 85. i 88. ovoga Zakona primjenjuju se na postupke pokrenute prije stupanja na snagu ovoga Zakona.
+
+Iznimno od odredbe stavka 1. ovoga članka, odredba članka 29. ovoga Zakona primjenjuje se na postupke pokrenute prije stupanja na snagu ovoga Zakona u kojima, u trenutku stupanja na snagu ovoga Zakona, ne postoji pravomoćno rješenje o zastoju postupka zbog razloga navedenog u člancima 186.f i 186.g Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08. – Odluka Ustavnog suda Republike Hrvatske, 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13., 89/14. – Odluka Ustavnog suda Republike Hrvatske i 70/19.).
+
+Iznimno od odredbe stavka 1. ovoga članka, nakon donošenja odluke iz članka 17. ovoga Zakona, odredbe članaka 12. do 16., 18., 19., 34. do 36., 45., 47., 48., 52., 53., 56. i 83. ovoga Zakona primjenjivat će se na postupke u tijeku.
+
+Iznimno od odredbe stavka 1. ovoga članka, odredbe članaka 58. do 73. ovoga Zakona o reviziji primjenjivat će se i na sve postupke u tijeku u kojima do stupanja na snagu ovoga Zakona nije donesena drugostupanjska odluka.
+
+Od stupanja na snagu ovoga Zakona na reviziju propisanu posebnim zakonima primjenjivat će se odredbe ovoga Zakona o prijedlogu za dopuštenje revizije i reviziji.
+
+Iznimno od odredbe stavka 1. ovoga članka, odredbe članaka 90. do 93. ovoga Zakona o oglednom postupku radi rješenja pitanja važnog za jedinstvenu primjenu prava primjenjivat će se i na sve postupke u tijeku u kojima do stupanja na snagu ovoga Zakona nije donesena odluka kojom se dopušta prijedlog za rješenje pitanja važnog za jedinstvenu primjenu prava.
+
+#### Članak 108.
+
+U svim parničnim postupcima koji su započeti prije 1. travnja 2013., u kojima do stupanja na snagu ovoga Zakona nije donesena prvostupanjska odluka te nije zaključen prethodni postupak, sud će u roku od šest mjeseci od stupanja na snagu ovoga Zakona održati pripremno ročište na kojem će zaključiti prethodni postupak i na istom ročištu održati glavnu raspravu.
+
+U slučaju ukidanja prvostupanjske odluke i vraćanja predmeta na ponovno suđenje rok iz stavka 1. ovoga članka počinje teći od dana dostave drugostupanjske odluke prvostupanjskom sudu.
+
+#### Članak 109.
+
+Sve fizičke osobe koje obavljaju registriranu djelatnost (obrtnici, liječnici i dr.) u sporovima koji se tiču te djelatnosti dužne su u roku od godinu dana od dana stupanja na snagu ovoga Zakona zatražiti pristup informacijskom sustavu elektroničke komunikacije sa sudovima putem ministarstva nadležnog za poslove pravosuđa.
+
+Dok se ne ispune uvjeti za elektroničku komunikaciju s obveznim sudionicima elektroničke komunikacije iz stavka 1. ovoga članka, dostava tim osobama obavlja se po pravilima Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08. – Odluka Ustavnog suda Republike Hrvatske, 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13., 89/14. – Odluka Ustavnog suda Republike Hrvatske i 70/19.).
+
+#### Članak 110.
+
+Ministar nadležan za poslove pravosuđa donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona pravilnike iz članaka 11. i 17. ovoga Zakona.
+
+Ministar nadležan za poslove pravosuđa donijet će odluku iz članka 17. ovoga Zakona do 1. listopada 2024.
+
+#### Članak 111.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članaka 12. do 16., 18., 19., 34. do 36., 45., 47., 48., 52., 53., 56. i 83. ovoga Zakona koje stupaju na snagu donošenjem odluke iz članka 17. ovoga Zakona te odredbe članka 89. ovoga Zakona koja stupa na snagu donošenjem posebnog propisa o predstavničkim tužbama za zaštitu kolektivnih interesa potrošača.
+
+Klasa: 022-02/22-01/18
+
+Zagreb, 1. srpnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o parničnom postupku (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1713*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PARNIČNOM POSTUPKU
+
+Proglašavam Zakon o izmjenama Zakona o parničnom postupku, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/111
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PARNIČNOM POSTUPKU**
+
+### Članak 1.
+
+U Zakonu o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08. – Odluka Ustavnog suda Republike Hrvatske, 123/08. – ispravak., 57/11., 148/11. – pročišćeni tekst, 25/13., 89/14. – Odluka Ustavnog suda Republike Hrvatske, 70/19. i 80/22.) u članku 10. stavku 2. riječi: »500,00 do 10.000,00 kuna« zamjenjuju se riječima: »60,00 do 1320,00 eura«, a riječi: »2.500,00 do 50.000,00 kuna« zamjenjuju se riječima: »330,00 do 6630,00 eura«.
+
+### Članak 2.
+
+U članku 13. stavku 3. riječi: »100.000,00 kuna« zamjenjuju se riječima: »13.270,00 eura«, a riječi: »500.000,00 kuna« zamjenjuju se riječima: »66.360,00 eura«.
+
+### Članak 3.
+
+U članku 40. stavku 5. riječi: »50.000,00 kn« zamjenjuju se riječima: »6630,00 eura«.
+
+### Članak 4.
+
+U članku 91. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+### Članak 5.
+
+U članku 95. stavku 3. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+### Članak 6.
+
+U članku 110. stavku 1. riječi: »500,00 do 5.000,00 kuna« zamjenjuju se riječima: »60,00 do 660,00 eura«, a riječi: »2.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »260,00 do 2650,00 eura«.
+
+### Članak 7.
+
+U članku 221.b stavcima 2. i 4. riječi: »10.000,00 kuna« zamjenjuju se riječima: »1320,00 eura«.
+
+### Članak 8.
+
+U članku 248. stavcima 1. i 2. riječi: »500,00 do 10.000,00 kuna« zamjenjuju se riječima: »60,00 do 1320,00 eura«.
+
+### Članak 9.
+
+U članku 255. stavku 1. riječi: »500,00 do 10.000,00 kuna« zamjenjuju se riječima: »60,00 do 1320,00 eura«.
+
+### Članak 10.
+
+U članku 318. stavku 1. riječi: »500,00 do 10.000,00 kuna« zamjenjuju se riječima: »60,00 do 1320,00 eura«.
+
+### Članak 11.
+
+U članku 447. stavku 1. riječi: »5.000,00 kuna« zamjenjuju se riječima: »660,00 eura«.
+
+U stavku 2. riječi: »20.000,00 kuna« zamjenjuju se riječima: »2650,00 eura«.
+
+### Članak 12.
+
+U članku 458. stavku 1. riječi: »10.000,00 kuna« zamjenjuju se riječima: »1320,00 eura«.
+
+### Članak 13.
+
+U članku 460. riječi: »10.000,00 kuna« zamjenjuju se riječima: »1320,00 eura«.
+
+### Članak 14.
+
+U članku 464. stavcima 1. i 2. riječi: »10.000,00 kuna« zamjenjuju se riječima: »1320,00 eura«.
+
+### Članak 15.
+
+U članku 495.a riječi: »100.000,00 kuna« zamjenjuju se riječima: »13.270,00 eura«.
+
+### Članak 16.
+
+U članku 502. stavku 1. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+### Članak 17.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/111
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o parničnom postupku (NN 155/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/155/2366*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PARNIČNOM POSTUPKU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o parničnom postupku, koji je Hrvatski sabor donio na sjednici 15. prosinca 2023.
+
+Klasa: 011-02/23-02/127
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 20. prosinca 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PARNIČNOM POSTUPKU**
+
+### Članak 1.
+
+U Zakonu o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08. – Odluka Ustavnog suda Republike Hrvatske, 123/08., 57/11., 148/11. – pročišćeni tekst, 25/13., 89/14. – Odluka Ustavnog suda Republike Hrvatske, 70/19., 80/22. i 114/22.) članak 186.d mijenja se i glasi:
+
+»Sud može, uvažavajući sve okolnosti, posebno interes stranaka i trećih osoba vezanih uz stranke te trajnost njihovih odnosa i upućenost jednih na druge, na ročištu ili izvan ročišta rješenjem uputiti stranke da u roku od 15 dana sudjeluju na informativnom sastanku o medijaciji ili da pokrenu medijaciju.
+
+Rješenja iz stavka 1. ovoga članka sud može donijeti tijekom cijelog parničnog postupka.
+
+Ako stranke suglasno predlože rješavanje spora medijacijom pred sudom, bez odgode će se odrediti sastanak radi medijacije na koji se pozivaju stranke, njihovi zastupnici i punomoćnici ako ih imaju.
+
+Postupak mirnog rješavanja spora pred sudom (informativni sastanak o medijaciji i medijaciju) vodi medijator određen s liste medijatora koju utvrđuje predsjednik suda.
+
+Medijator ne može sudjelovati u postupku mirnog rješavanja spora u parničnom predmetu koji mu je dodijeljen.
+
+Ako se postupak mirnog rješavanja spora pred sudom dovrši bez sklapanja nagodbe, medijator ne smije sudjelovati u tom sporu u bilo kojem svojstvu.
+
+Nagodba sklopljena u postupku mirnog rješavanja spora provedenom u sudu pred sucem medijatorom smatra se sudskom nagodbom.
+
+Iznimno od stavka 1. ovoga članka, ako su obje stranke ili dionička društva ili pravne osobe kojima je većinski član Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave, sud će po primitku odgovora na tužbu uputiti stranke da u roku od osam dana pokrenu medijaciju.
+
+Stranka koja je upućena pokrenuti medijaciju, a ne pristupi prvom sastanku radi pokušaja medijacije bez opravdanog razloga, gubi pravo tražiti naknadu daljnjih troškova postupka pred sudom prvog stupnja.
+
+Sud će u rješenju kojim upućuje stranke da pokrenu medijaciju upozoriti na posljedice neopravdanog izostanka iz stavka 9. ovoga članka.
+
+Rješenja iz stavka 1. ovoga članka su rješenja o upravljanju postupkom.«.
+
+### Članak 2.
+
+Članak 186.e mijenja se i glasi:
+
+»Stranke mogu nakon podnošenja redovnog pravnog lijeka suglasno podnijeti prijedlog za sudjelovanje u postupku mirnog rješavanja spora pred sucem medijatorom suda nadležnog za odlučivanje o pravnom lijeku.
+
+Medijator ne može sudjelovati u postupku mirnog rješavanja spora u parničnom predmetu koji mu je dodijeljen radi odlučivanja o pravnom lijeku.
+
+Ako se postupak mirnog rješavanja spora dovrši bez sklapanja nagodbe, medijator ne smije sudjelovati u tom sporu u bilo kojem svojstvu.
+
+Na postupke mirnog rješavanja spora koji se provode u sudovima na odgovarajući se način primjenjuju odredbe zakona kojim se uređuje mirno rješavanje sporova, ako ovim Zakonom nije drukčije određeno.«.
+
+### Članak 3.
+
+U članku 288.a stavku 1. riječi: »postupku mirenja« zamjenjuju se riječju: »medijaciji«.
+
+### Članak 4.
+
+U članku 292.a iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»Prilikom izrade plana upravljanja postupkom, a osobito pri određivanju rokova i ročišta sud će obraćati osobitu pažnju na potrebu hitnog rješavanja spora u postupcima radi izmjene, raskida, utvrđenja ništetnim i poništenja ugovora o doživotnom uzdržavanju (uz prijenos imovine nakon smrti) i ugovora o dosmrtnom uzdržavanju (uz istodobni prijenos imovine) te u drugim postupcima za koje je to ovim ili drugim zakonom propisano.«.
+
+### Članak 5.
+
+U članku 342. stavak 2. mijenja se i glasi:
+
+»Ispravljanje će se obaviti posebnim rješenjem koje će se dostaviti strankama.«.
+
+### Članak 6.
+
+U članku 381. stavku 2. riječi: »ovoga članka« zamjenjuju se riječima: »ovoga Zakona«.
+
+### Članak 7.
+
+U članku 465. broj: »12.« zamjenjuje se brojem: »9.«.
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/115
+
+Zagreb, 15. prosinca 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni i dopunama Zakona o parničnom postupku (NN 146/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/146/2168*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNAMA ZAKONA O PARNIČNOM POSTUPKU
+
+Proglašavam Zakon o izmjeni i dopunama Zakona o parničnom postupku, koji je Hrvatski sabor donio na sjednici 21. studenoga 2025.
+
+Klasa: 011-02/25-02/90
+
+Urbroj: 71-10-01/1-25-2
+
+Zagreb, 26. studenoga 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNAMA ZAKONA O PARNIČNOM POSTUPKU**
+
+#### Članak 1.
+
+U Zakonu o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07. – Odluka Ustavnog suda Republike Hrvatske, 84/08., 96/08. – Odluka Ustavnog suda Republike Hrvatske, 123/08. – ispravak, 57/11., 148/11. – pročišćeni tekst, 25/13., 89/14. – Odluka Ustavnog suda Republike Hrvatske, 70/19., 80/22., 114/22. i 155/23.) iza članka 126.c dodaje se članak 126.d koji glasi:
+
+»Članak 126.d
+
+Zapisniku se prilaže transkript tonske snimke ročišta učinjen uz pomoć uređaja za automatsku transkripciju, koji služi kao pomoćno sredstvo uz tonsku snimku ročišta.
+
+Transkript se sastavlja u elektroničkom obliku, bez korekcija i drugih preinaka.
+
+U transkriptu će biti vidljivi podaci o vremenskom intervalu tonske snimke iz članka 126.c stavka 3. ovoga Zakona.
+
+Transkript će biti dostupan strankama u elektroničkom obliku putem informacijskog sustava. Ako stranka nije uključena u informacijski sustav, transkript u elektroničkom obliku učinit će se dostupnim na odgovarajući način.«.
+
+#### Članak 2.
+
+U članku 390. iza stavka 2. dodaju se novi stavak 3. i stavci 4. i 5. koji glase:
+
+»Prošireno vijeće čine predsjednik Građanskog odjela Vrhovnog suda Republike Hrvatske, sudac izvjestitelj vijeća kojem je predmet bio dodijeljen u rad, voditelj službe za praćenje i proučavanje sudske prakse Građanskog odjela Vrhovnog suda Republike Hrvatske i deset sudaca Vrhovnog suda Republike Hrvatske određenih slučajnim odabirom, počevši od sudaca Građanskog odjela Vrhovnog suda Republike Hrvatske.
+
+Proširenom vijeću predsjeda predsjednik Građanskog odjela Vrhovnog suda Republike Hrvatske.
+
+O prepuštanju odluke proširenom vijeću i o sastavu tog vijeća stranke i umješači obavijestit će se najkasnije 15 dana prije održavanja sjednice proširenog vijeća.«.
+
+Dosadašnji stavak 3. postaje stavak 6.
+
+#### Članak 3.
+
+U članku 502.n stavak 1. briše se.
+
+Dosadašnji stavci 2. do 5. postaju stavci 1. do 4.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 4.
+
+Postupci koji se vode pred Vrhovnim sudom Republike Hrvatske, a u kojima Vrhovni sud Republike Hrvatske još nije donio odluku dovršit će se primjenom odredbi ovoga Zakona.
+
+#### Članak 5.
+
+Ministar nadležan za poslove pravosuđa donijet će odluku iz članka 17. Zakona o izmjenama i dopunama Zakona o parničnom postupku (»Narodne novine«, br. 80/22.) do 1. srpnja 2027.
+
+#### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 1. ovoga Zakona koji stupa na snagu 1. srpnja 2027.
+
+Klasa: 022-02/25-01/84
+
+Zagreb, 21. studenoga 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

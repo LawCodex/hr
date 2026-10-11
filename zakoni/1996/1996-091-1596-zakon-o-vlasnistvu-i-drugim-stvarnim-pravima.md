@@ -6,12 +6,12 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-28
-last_amended: 2015-07-22
+last_amended: 2025-03-21
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 81/2015 (1548) https://narodne-novine.nn.hr/eli/sluzbeni/2015/81/1548"
-narodne_novine: "91/96, 73/00, 114/01, 79/06, 141/06, 146/08, 38/09, 153/09, 143/12, 152/14, 81/15"
+narodne_novine: "91/96, 73/00, 114/01, 79/06, 141/06, 146/08, 38/09, 153/09, 143/12, 152/14, 81/15, 52/25"
 amendments:
   - "NN 73/2000 (1578) Zakon o dopuni Zakona o vlasništvu i drugim stvarnim pravima"
   - "NN 114/2001 (1883) Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima"
@@ -22,6 +22,7 @@ amendments:
   - "NN 153/2009 (3751) Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima"
   - "NN 143/2012 (3034) Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima"
   - "NN 152/2014 (2857) Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima"
+  - "NN 52/2025 (674) Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/81/1548"
 retrieved: 2026-10-12
 ---
@@ -31,6 +32,8 @@ retrieved: 2026-10-12
 > Izvor: Narodne novine, NN 91/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1596).
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 81/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/81/1548).
+>
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 52/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -4594,3 +4597,62 @@ Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
 ###### Članak 2.
 
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+---
+
+# Izmjene, dopune i ispravci nakon pročišćenog teksta
+
+## Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima (NN 52/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/52/674*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA
+
+Proglašavam Zakon o izmjeni Zakona o vlasništvu i drugim stvarnim pravima, koji je Hrvatski sabor donio na sjednici 14. ožujka 2025.
+
+Klasa: 011-02/25-02/27  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 18. ožujka 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O VLASNIŠTVU I DRUGIM STVARNIM PRAVIMA**
+
+#### Članak 1.
+
+U Zakonu o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99. – Odluka Ustavnog suda Republike Hrvatske, 22/00. – Odluka Ustavnog suda Republike Hrvatske, 73/00., 114/01., 79/06., 141/06., 146/08., 38/09., 153/09., 143/12., 152/14., 81/15. – pročišćeni tekst i 94/17. – ispravak pročišćenog teksta) članak 358.a mijenja se i glasi:
+
+»(1) Odredbe članaka 354. do 358. ovoga Zakona ne odnose se na državljane i pravne osobe iz država članica Europske unije, država ugovornica Europskoga gospodarskog prostora te država članica Organizacije za ekonomsku suradnju i razvoj (OECD) ili država pristupnica Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija. Te osobe stječu pravo vlasništva nekretnina pod pretpostavkama koje vrijede za stjecanje prava vlasništva za državljane Republike Hrvatske i pravne osobe sa sjedištem u Republici Hrvatskoj.
+
+(2) Odredba stavka 1. ovoga članka ne isključuje mogućnost donošenja mjera opravdanih razlozima javnog morala, javnog poretka ili sigurnosti, zaštite zdravlja, mjera potrebnih za zaštitu osnovnih sigurnosnih interesa, kao i mjera potrebnih za ispunjenje obveza vezanih uz očuvanje međunarodnog mira i sigurnosti.
+
+(3) Odredbe ovoga članka ne odnose se na poljoprivredno zemljište sukladno posebnom zakonu.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Započeti postupci stjecanja prava vlasništva nekretnina stranih fizičkih i pravnih osoba na području Republike Hrvatske koji nisu dovršeni do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o vlasništvu i drugim stvarnim pravima (»Narodne novine«, br. 91/96., 68/98., 137/99. – Odluka Ustavnog suda Republike Hrvatske, 22/00. – Odluka Ustavnog suda Republike Hrvatske 73/00., 114/01., 79/06., 141/06., 146/08., 38/09., 153/09., 143/12., 152/14., 81/15. – pročišćeni tekst i 94/17. – ispravak pročišćenog teksta).
+
+#### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu danom pristupanja Republike Hrvatske u članstvo OECD-a.
+
+Klasa: 022-02/24-01/134  
+Zagreb, 14. ožujka 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

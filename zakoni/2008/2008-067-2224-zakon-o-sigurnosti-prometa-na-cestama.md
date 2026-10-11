@@ -6,16 +6,22 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-06-09
-last_amended: 2015-06-10
+last_amended: 2024-12-13
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "67/08, 74/11, 80/13, 92/14, 64/15"
+narodne_novine: "67/08, 74/11, 80/13, 92/14, 64/15, 108/17, 70/19, 42/20, 85/22, 114/22, 145/24"
 amendments:
   - "NN 74/2011 (1575) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
   - "NN 80/2013 (1670) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
   - "NN 92/2014 (1842) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
   - "NN 64/2015 (1225) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
+  - "NN 108/2017 (2491) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
+  - "NN 70/2019 (1450) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
+  - "NN 42/2020 (891) Zakon o dopuni Zakona o sigurnosti prometa na cestama"
+  - "NN 85/2022 (1288) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
+  - "NN 114/2022 (1687) Zakon o izmjenama Zakona o sigurnosti prometa na cestama"
+  - "NN 145/2024 (2377) Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/67/2224"
 retrieved: 2026-10-12
 ---
@@ -24,7 +30,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 67/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/67/2224).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 74/2011, NN 80/2013, NN 92/2014, NN 64/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 74/2011, NN 80/2013, NN 92/2014, NN 64/2015, NN 108/2017, NN 70/2019, NN 42/2020, NN 85/2022, NN 114/2022, NN 145/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -3783,3 +3789,3452 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (NN 108/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/108/2491*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 27. listopada 2017. godine.
+
+Klasa: 011-01/17-01/90
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 3. studenoga 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+#### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14. i 64/15.) u članku 1.a iza podstavka 15. dodaju se podstavci 16., 17. i 18. koji glase:
+
+» – Direktiva 2014/45/EU Europskog parlamenta i Vijeća, od 3. travnja 2014. o periodičnim tehničkim pregledima motornih vozila i njihovih priključnih vozila te stavljanju izvan snage Direktive 2009/40/EZ (Tekst značajan za EGP) (SL L 127, 29. 4. 2014.),
+
+– Direktiva 2014/46/EU Europskog parlamenta i Vijeća, od 3. travnja 2014. o izmjeni Direktive Vijeća 1999/37/EZ o dokumentima za registraciju vozila (SL L 127, 29. 4. 2014.),
+
+– Direktiva 2014/47/EU Europskog parlamenta i Vijeća, od 3. travnja 2014. o pregledima tehničke ispravnosti na cesti gospodarskih vozila koja prometuju u Uniji i stavljanju izvan snage Direktive 2000/30/EZ (Tekst značajan za EGP) (SL L 127, 29. 4. 2014.).«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Ovim se Zakonom utvrđuju uvjeti za provedbu:
+
+– Uredbe Komisije (EU) 2016/403 od 18. ožujka 2016. o dopuni Uredbe (EZ) br. 1071/2009 Europskog parlamenta i Vijeća u pogledu klasifikacije teških povreda pravila Unije koje mogu dovesti do gubitka dobrog ugleda cestovnog prijevoznika te o izmjeni Priloga III. Direktivi 2006/22/EZ Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 74, 19. 3. 2016.).«.
+
+#### Članak 2.
+
+U članku 2. stavku 1. točka 69. mijenja se i glasi:
+
+»69) »mladi vozač« je vozač motornog vozila u dobi do navršene 24. godine života, koji posjeduje vozačku dozvolu izdanu na teritoriju Republike Hrvatske,«.
+
+Iza točke 98. dodaju se točke 99., 100. i 101. koje glase:
+
+»99) »zapisnik o tehničkom pregledu vozila« je javna isprava koja sadrži rezultate obavljenog tehničkog pregleda vozila,
+
+100) »zapisnik o tehničkom pregledu vozila na cesti« je javna isprava koja sadrži rezultate obavljenog tehničkog pregleda vozila na cesti,
+
+101) »nedostaci utvrđeni tijekom tehničkog pregleda vozila« su nekategorizirane ili kategorizirane tehničke neispravnosti ili manjkavosti vozila ili osiguranja i prijevoza tereta na vozilu propisani ovim Zakonom i drugim propisima kojima se uređuju tehnički uvjeti vozila u prometu na cesti, tehnički pregledi vozila te osiguranje i prijevoz tereta na vozilima.«.
+
+#### Članak 3.
+
+U članku 4. dodaje se novi stavak 3. koji glasi:
+
+»(3) Nadzor osiguranja tereta na vozilima i tehničke preglede vozila na cesti te nadzor kretanja teretnih vozila sukladno članku 194. ovoga Zakona, osim policijskih službenika, mogu obavljati i inspektori cestovnog prometa.«.
+
+Dosadašnji stavci 3. – 8. postaju stavci 4. – 9.
+
+#### Članak 4.
+
+U članku 5. stavku 3. riječ: »projekta« zamjenjuje se riječju: »elaborata«.
+
+Iza stavka 14. dodaju se stavci 15. i 16. koji glase:
+
+»(15) Suglasnost iz stavka 1., 4. i 7. ovoga članka daje se rješenjem.
+
+(16) Protiv rješenja iz ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 5.
+
+U članku 13. stavku 3. riječ: »projekta« zamjenjuje se riječju: »elaborata«.
+
+#### Članak 6.
+
+U članku 113. stavku 2. riječ: »javnoj« briše se, a iza riječi: »odjećom« dodaju se riječi: »ili drugom reflektirajućom oznakom«.
+
+#### Članak 7.
+
+U članku 149. stavku 1. iza riječi: »unutarnjih poslova« briše se veznik: »i« i stavlja se zarez, a iza riječi: »vojne policije« dodaju se riječi: »i carine«.
+
+#### Članak 8.
+
+U članku 150. iza riječi: »policije« dodaje se zarez i riječi: »vojne policije i carine«.
+
+#### Članak 9.
+
+U članku 151. stavku 1. riječi: »službena vozila ovlaštenih carinskih službenika,« brišu se, a iza riječi: »osuđene osobe« dodaju se riječi: »i vozila hitne medicinske intervencije u razminiranju«.
+
+#### Članak 10.
+
+U članku 153. stavku 3. iza riječi: »carinskih službenika« dodaje se zarez i riječi: »inspektora cestovnog prometa«.
+
+#### Članak 11.
+
+Čanak 154. mijenja se i glasi:
+
+»(1) Vozilo u prometu na cesti mora udovoljavati uvjetima glede dimenzija, najveće dopuštene mase i osovinskog opterećenja utvrđenih posebnim propisom. Vozilo u prometu na cesti ne smije se opteretiti iznad najveće dopuštene mase ili dopuštenog osovinskog opterećenja upisanog u prometnu dozvolu ili preko mogućnosti koje dopuštaju osobine ceste utvrđene prometnim znakom.
+
+(2) Teret na vozilu mora biti raspoređen i, prema potrebi, osiguran, pričvršćen i pokriven tako da:
+
+1) ne ugrožava sigurnost sudionika u prometu i ne nanosi štetu cesti i objektima na cesti,
+
+2) ne umanjuje stabilnost vozila i ne otežava upravljanje vozilom,
+
+3) ne smanjuje vozaču preglednost nad cestom,
+
+4) ne stvara suvišnu buku i da se ne rasipa po cesti,
+
+5) ne zaklanja svjetlosne i svjetlosno-signalne uređaje na vozilu, registarske pločice i druge propisane oznake na vozilu.
+
+(3) Iznimno od odredbe stavka 1. ovoga članka dopušteno je odstupanje do 3 % najveće dopuštene mase i dopuštenog osovinskog opterećenja utvrđenih posebnim propisom, odnosno preko najveće dopuštene mase i dopuštenog osovinskog opterećenja upisanih u prometnu dozvolu, odnosno preko mogućnosti koje dopuštaju osobine ceste utvrđene prometnim znakom, uz uvjet da, zbog karakteristika tereta i drugih opravdanih okolnosti, na mjestu utovara nije bilo moguće utvrditi točnu masu tereta.
+
+(4) Vozila koja zajedno s teretom ne udovoljavaju propisanim uvjetima glede dimenzija, odnosno čija ukupna masa i osovinsko opterećenje premašuje propisanu najveću dopuštenu masu i dozvoljena osovinska opterećenja mogu sudjelovati u prometu na cesti ako imaju posebnu dozvolu za taj prijevoz.
+
+(5) Operativne poslove mjerenja, odnosno kontrolu osovinskog opterećenja, ukupne mase i dimenzija vozila u prometu na cestama obavljaju stručno osposobljeni zaposlenici Hrvatskih cesta, policijski službenici, inspektori cestovnog prometa i inspektori cesta, odnosno ovlašteni carinski službenici u okviru obavljanja poslova carinskog nadzora.
+
+(6) Novčanom kaznom u iznosu od 2.000,00 do 5.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako postupi suprotno odredbama ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao veći.
+
+(7) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako postupi suprotno odredbama ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao opasni ili ako nema posebnu dozvolu za prijevoz ili prijevoz obavlja suprotno dopuštenju iz dozvole.
+
+(8) Novčanom kaznom u iznosu od 1.500,00 do 5.000,00 kuna kaznit će se za prekršaj i odgovorna osoba u pravnoj osobi, u tijelu državne vlasti ili tijelu jedinice lokalne i područne (regionalne) samouprave ako postupi suprotno odredbama ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao veći.
+
+(9) Novčanom kaznom u iznosu od 2.000,00 do 7.000,00 kuna kaznit će se za prekršaj i odgovorna osoba u pravnoj osobi, u tijelu državne vlasti ili tijelu jedinice lokalne i područne (regionalne) samouprave ako postupi suprotno odredbama ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao opasni ili ako nema posebnu dozvolu za prijevoz ili prijevoz obavlja suprotno dopuštenju iz dozvole.
+
+(10) Novčanom kaznom u iznosu od 1.000,00 do 2.000,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbama ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao veći.
+
+(11) Novčanom kaznom u iznosu od 2.000,00 do 5.000,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbama ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao opasni ili ako nema posebnu dozvolu za prijevoz ili prijevoz obavlja suprotno dopuštenju iz dozvole.«.
+
+#### Članak 12.
+
+U članku 183. stavku 1. iza riječi: »izdaje« dodaje se riječ: »rješenjem«.
+
+U stavku 2. iza riječi: »izdaje« dodaje se riječ: »rješenjem«.
+
+U stavku 3. iza riječi: »izdaje« dodaje se riječ: »rješenjem«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Protiv rješenja iz ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 13.
+
+Članak 194. mijenja se i glasi:
+
+»(1) Ministar nadležan za poslove prometa uz prethodnu suglasnost ministra nadležnog za unutarnje poslove može na određenoj cesti ili dijelu ceste, u određene dane ili u određenom vremenskom razmaku pravilnikom propisati zabranu ili ograničenje prometa svih ili pojedinih vrsta vozila, ograničiti brzinu kretanja vozila ako su te zabrane ili ograničenja potrebni radi sprečavanja ili uklanjanja opasnosti za sudionike u prometu ili ako to zahtijevaju razlozi neometanog prometa, odnosno ako se može opravdano očekivati da će promet biti osobito gust ili otežan.
+
+(2) Ministar nadležan za poslove prometa uz prethodnu suglasnost ministra nadležnog za unutarnje poslove te ministrom nadležnim za graditeljstvo donosi pravilnik kojim se ograničava uporaba pojedinih javnih cesta za promet teretnih vozila, čija najveća dopuštena masa premašuje 7,5 tona, kada za te ceste kao alternativni pravci postoje druge javne ceste s boljim prometno-tehničkim karakteristikama, osim za prometovanje navedenih vozila u lokalnom prometu, ako to zahtijevaju razlozi protočnosti i sigurnosti prometa, zaštite ceste od buke i drugih elemenata vezanih uz zaštitu okoliša.
+
+(3) Ministar nadležan za poslove prometa donosi pravilnik kojim se regulira tranzitni promet teretnih vozila koji se može odvijati samo na javnim cestama određenim za tranzitni promet.
+
+(4) Novčanom kaznom u iznosu od 2.000,00 kuna kaznit će se za prekršaj instruktor vožnje ili druga osoba koja osposobljava kandidata za vozača, kao i vozač koji sudjeluje u prometu na određenoj cesti ili dijelu ceste u određene dane ili u određenom vremenskom razmaku kada je propisana zabrana ili ograničenje prometa svih ili pojedinih vrsta vozila sukladno odredbama stavaka 1., 2. i 3. ovoga članka.
+
+(5) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako postupi suprotno odredbama ovoga članka.
+
+(6) Novčanom kaznom u iznosu od 2.000,00 do 5.000,00 kuna kaznit će se za prekršaj i odgovorna osoba u pravnoj osobi ako postupi suprotno odredbama ovoga članka.«.
+
+#### Članak 14.
+
+U članku 201. stavku 1. iza riječi: »ispunjavaju uvjete« dodaju se riječi: »i minimalne standarde«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Ovlašćuje se ministar nadležan za unutarnje poslove da pravilnikom propiše minimalne standarde iz stavka 1. ovoga članka.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Protiv rješenja iz ovoga članka ne može se podnijeti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 15.
+
+Članak 202. mijenja se i glasi:
+
+»(1) Za provedbu djelatnosti osposobljavanja kandidata za vozače, u skladu s člankom 201. ovoga Zakona, autoškola mora imati:
+
+1) instruktora vožnje te stručnog voditelja autoškole i predavača nastavnog predmeta Prometni propisi i sigurnosna pravila, koji mogu osposobljavati kandidate za vozače i kao instruktori vožnje,
+
+2) propisno opremljenu učionicu, uredski prostor za prijem kandidata i rad stručnog voditelja autoškole,
+
+3) propisno opremljeno i označeno prometno vježbalište za osposobljavanje kandidata za vozače onih kategorija vozila za koje autoškola ima ovlaštenja od najmanje 510 m2, udaljeno najviše 10 km cestom od autoškole i pomoćne prostore koji omogućuju nesmetano osposobljavanje kandidata i obavljanje djelatnosti, u vlasništvu ili zakupu,
+
+4) najmanje po jedno tehnički ispravno vozilo one kategorije za koju se obavlja osposobljavanje u vlasništvu, leasingu ili najmu, opremljeno za osposobljavanje kandidata za vozače A1, A2, A, AM i B kategorije vozila do deset godina starosti, priključno vozilo do 20 godina starosti, a za ostale kategorije vozilo do 15 godina starosti,
+
+5) nastavna sredstva i pomagala, informatičku opremu i program za realizaciju sadržaja nastavnog predmeta Prometni propisi i sigurnosna pravila te računalnu opremu za ostvarivanje informatičke povezanosti s ovlaštenom stručnom organizacijom iz članka 206. ovoga Zakona.
+
+(2) Iznimno od odredbe stavka 1. točke 4. ovoga članka, starost vozila B kategorije koje je dodatno prilagođeno za osposobljavanje osoba s invaliditetom i osoba s tjelesnim oštećenjem može biti do 15 godina starosti.
+
+(3) Odredbe stavka 1. točke 4. ovoga članka ne primjenjuju se na vozila Oružanih snaga Republike Hrvatske.
+
+(4) Autoškola smije, u podružnici (izdvojenom pogonu), izvan sjedišta osposobljavati kandidate za vozače ako ispunjava uvjete iz ovoga članka te ako joj ministarstvo nadležno za unutarnje poslove za to izda ovlaštenje i odobri upis u registar.
+
+(5) Osposobljavanje kandidata za vozače u autoškoli iz nastavnog predmeta Prometni propisi i sigurnosna pravila izvodi predavač, iz nastavnog predmeta Upravljanje vozilom izvodi instruktor vožnje, a iz nastavnog predmeta Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći izvodi predavač, doktor medicine.
+
+(6) Autoškola samostalno izrađuje cjenik za uslugu osposobljavanja kandidata za vozača iz nastavnih predmeta Prometni propisi i sigurnosna pravila i Upravljanje vozilom u autoškoli za pojedinu kategoriju vozila. Cijena osposobljavanja kandidata za vozače je sastavni dio ugovora koji sklapaju kandidat za vozača i autoškola.«.
+
+#### Članak 16.
+
+U članku 203. stavku 4. iza riječi: »kategorije« dodaje se zarez i riječi: »zdravstveno sposobna za vozača«.
+
+U stavku 8. iza riječi: »neće se izdati« dodaju se riječi: »odnosno ukinut će se«, a riječi: »ili se protiv njih vodi kazneni postupak za ta djela« brišu se.
+
+#### Članak 17.
+
+U članku 206. iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Ministarstvo nadležno za unutarnje poslove obavlja nadzor nad zakonitošću općih akata iz stavka 5. ovog članka i može ih obustaviti od primjene.«.
+
+U dosadašnjem stavku 6., koji postaje stavak 7., iza riječi: »završila najmanje« dodaju se riječi: »specijalistički diplomski stručni studij ili«, a riječi: »i najmanje tri godine radnog iskustva kao ovlašteni ispitivač na poslovima provedbe vozačkih ispita« brišu se.
+
+Dosadašnji stavak 7. postaje stavak 8.
+
+U dosadašnjem stavku 8., koji postaje stavak 9., riječi: »ili se protiv njih vodi kazneni postupak za ta djela« brišu se.
+
+Dosadašnji stavci 9. – 10. postaju stavci 10. – 11.
+
+#### Članak 18.
+
+U članku 208. stavku 3. iza riječi: »neće se izdati« dodaju se riječi: »odnosno ukinut će se«, a riječi: »ili se protiv njih vodi kazneni postupak za ta djela« brišu se.
+
+U stavku 4. iza riječi: »završila najmanje« dodaju riječi: »specijalistički diplomski stručni studij ili«, a riječi: »položenim ispitom za instruktora vožnje« zamjenjuju se riječima: »važećom licencijom instruktora vožnje«.
+
+#### Članak 19.
+
+Članak 211. mijenja se i glasi:
+
+»(1) U srednjim prometnim i drugim strukovnim školama koje obrazuju osobe za zanimanje vozač motornog vozila i ispunjavaju uvjete iz članka 209. i 217. stavka 2. ovoga Zakona, na način organiziranja i provedbe vozačkih ispita primjenjuju se odredbe propisa o načinu obavljanja i organiziranja vozačkih ispita i općih akata ovlaštene stručne organizacije iz članka 206. ovoga Zakona.
+
+(2) Polaganju vozačkih ispita iz stavka 1. ovoga članka mogu pristupiti samo učenici koji su se osposobljavali u tim školama, a koji se obrazuju za zanimanje vozač motornog vozila u redovitom srednjoškolskom obrazovnom programu.
+
+(3) Škole iz stavka 1. ovoga članka dužne su za provedbu vozačkog ispita bez naknade staviti na raspolaganje prostorne i ostale materijalne uvjete te motorno vozilo C kategorije, opremljeno sukladno propisima.
+
+(4) Učenici iz stavka 2. ovoga članka imaju pravo na polaganje vozačkog ispita u tri ispitna roka bez naknade. Ako ne polože vozački ispit u propisanom roku, plaćaju naknadu za svaki sljedeći pristup ispitu iz pojedinog nastavnog predmeta, sukladno Odluci o visini naknade za polaganje vozačkog ispita iz članka 208. stavka 8. ovoga Zakona.
+
+(5) Učenici iz stavka 2. ovoga članka mogu s navršenih 16 godina života započeti s osposobljavanjem za vozača motornih vozila C kategorije i upravljati vozilom te kategorije tijekom procesa osposobljavanja.
+
+(6) Osposobljavanje iz stavka 5. ovoga članka obavlja se u skladu s odredbama Programa vozačkog ispita i Pravilnika o osposobljavanju kandidata za vozače, a u sklopu Nastavnog plana i programa za zanimanje vozač motornog vozila u redovitom srednjoškolskom obrazovnom programu. Osposobljavanje iz nastavnog predmeta Upravljanje vozilom može započeti nakon što učenik položi ispit iz nastavnih predmeta Prometni propisi i sigurnosna pravila i Pružanje prve pomoći osobama ozlijeđenim u prometnoj nesreći.«.
+
+#### Članak 20.
+
+Članak 213. mijenja se i glasi:
+
+»(1) Upravni nadzor u vezi s obavljanjem poslova iz ovoga Zakona obavlja ministarstvo nadležno za unutarnje poslove.
+
+(2) Inspekcijski nadzor nad radom ovlaštene stručne organizacije i autoškola, u vezi s obavljanjem poslova iz ovoga Zakona, obavljaju policijski službenici ministarstva nadležnog za unutarnje poslove.
+
+(3) Ako ovlaštena stručna organizacija ne ispunjava propisane uvjete iz članka 206. ovoga Zakona, policijski službenik ministarstva nadležnog za unutarnje poslove rješenjem će joj ukinuti ovlaštenje. Ako je stručnoj organizaciji ukinuto ovlaštenje, njezine poslove obavlja ministarstvo nadležno za unutarnje poslove dok ne ovlasti drugu stručnu organizaciju.
+
+(4) Ako autoškola, stručni voditelj, predavač, instruktor vožnje, ovlašteni ispitivač, odnosno ovlašteni nadzornik ne obavljaju poslove u skladu s propisima, policijski službenik ministarstva nadležnog za unutarnje poslove rješenjem će im naložiti otklanjanje nedostataka u roku od 30 dana. Ako autoškola, stručni voditelj, predavač, instruktor vožnje, ovlašteni ispitivač, odnosno ovlašteni nadzornik ne otklone nedostatke u određenom roku, policijski službenik ministarstva nadležnog za unutarnje poslove rješenjem će autoškoli zabraniti rad, a stručnom voditelju, instruktoru vožnje, predavaču, ovlaštenom nadzorniku ili ovlaštenom ispitivaču ukinuti dopuštenje (licenciju).
+
+(5) Protiv rješenja iz stavaka 3. i 4. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+
+(6) Autoškola, stručni voditelj, predavač, instruktor vožnje, ovlašteni ispitivač, odnosno ovlašteni nadzornik kojima su izrečene mjere iz stavka 4. ovog članka Zakona ne mogu obavljati poslove osposobljavanja kandidata za vozače, provoditi vozačke ispite, odnosno provoditi poslove nadzora dok zabrana traje.
+
+(7) Ministar nadležan za unutarnje poslove donosi pravilnik o obliku dopuštenja (licencije) te o sadržaju drugih obrazaca u vezi s osposobljavanjem kandidata za vozača i provođenju vozačkih ispita.
+
+(8) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj ovlaštena stručna organizacija ako povjerene joj poslove ne obavlja stručno i u skladu s propisima.
+
+(9) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna osoba ili fizička osoba obrtnik ako ne obavlja poslove stručno i u skladu s propisima te ako osposobljava kandidate u vrijeme izrečene zabrane osposobljavanja.
+
+(10) Novčanom kaznom u iznosu od 1.500,00 do 5.000,00 kuna kaznit će se i odgovorna osoba u ovlaštenoj stručnoj organizaciji ako ovlaštena stručna organizacija poslove ne obavlja stručno i u skladu s propisima.
+
+(11) Za prekršaj iz stavka 4. i 6. ovog članka kaznit će se novčanom kaznom u iznosu od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi.
+
+(12) Novčanom kaznom u iznosu od 1.000,00 kuna kaznit će se za prekršaj iz ovoga članka stručni voditelj, predavač, instruktor vožnje, ovlašteni ispitivač, odnosno ovlašteni nadzornik ako ne obavljaju poslove stručno i u skladu s propisima te ako obavljaju poslove u vrijeme izrečene zabrane rada.«.
+
+#### Članak 21.
+
+U članku 217. iza stavka 6. dodaje se novi stavak 7. koji glasi:
+
+»(7) Iznimno od odredbi stavka 1. točaka 9., 10. i 13. ovoga članka, minimalna starosna dob za upravljanje vozilima C i CE kategorije je 18 godina, a za upravljanje vozilima D kategorije 21 godina, za vozila koja koriste Oružane snage Republike Hrvatske.«.
+
+Dosadašnji stavci 7., 8. i 9. postaju stavci 8., 9. i 10.
+
+#### Članak 22.
+
+Članak 221. briše se.
+
+#### Članak 23.
+
+U članku 231. stavku 4. iza riječi: »odluke o prekršaju« dodaju se riječi: »ili su najmanje tri puta pravomoćno kažnjeni zbog upravljanja vozilom s nedopuštenom količinom alkohola u krvi«.
+
+#### Članak 24.
+
+U članku 234. stavku 2. iza riječi: »Kandidata za vozača« dodaju se riječi: »ili vozača«.
+
+#### Članak 25.
+
+U članku 236. stavci 2. i 3. brišu se.
+
+Dosadašnji stavak 4. postaje stavak 2.
+
+Dosadašnji stavci 5., 6., 7. i 8., koji postaju stavci 3., 4., 5. i 6., mijenjaju se i glase:
+
+»(3) Novčanom kaznom u iznosu od 2.000,00 do 5.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako postupi suprotno odredbi stavka 1. ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao veći.
+
+(4) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako postupi suprotno odredbi stavka 1. ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao opasni.
+
+(5) Novčanom kaznom u iznosu od 1.500,00 do 5.000,00 kuna kaznit će se za prekršaj i odgovorna osoba u pravnoj osobi, u tijelu državne vlasti ili tijelu jedinice lokalne i područne (regionalne) samouprave ako postupi suprotno odredbi stavka 1.ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao veći.
+
+(6) Novčanom kaznom u iznosu od 2.000,00 do 7.000,00 kuna kaznit će se za prekršaj i odgovorna osoba u pravnoj osobi, u tijelu državne vlasti ili tijelu jedinice lokalne i područne (regionalne) samouprave ako postupi suprotno odredbi stavka 1. ovog članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao opasni.«.
+
+Iza dosadašnjeg stavka 8. koji je postao stavak 6. dodaju se novi stavci 7. i 8. koji glase:
+
+»(7) Novčanom kaznom u iznosu od 1.000,00 do 2.000,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbi stavka 1. ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao veći.
+
+(8) Novčanom kaznom u iznosu od 2.000,00 do 5.000,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbi stavka 1. ovoga članka, a nedostaci utvrđeni tijekom tehničkog pregleda vozila, posebnim propisom, kategorizirani su kao opasni.«.
+
+#### Članak 26.
+
+U članku 241. stavku 2. riječi: »policijske uprave odnosno policijske postaje« zamjenjuju se riječima: »stanice za tehnički pregled vozila iz članka 259. ovoga Zakona, a zarez i riječi: »prema mjestu u kojem je vozilo kupljeno ili preuzeto« brišu se.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Protiv rješenja donesenog u postupku izdavanja izvoznih pločica može se izjaviti žalba o kojoj odlučuje ministarstvo nadležno za unutarnje poslove.«.
+
+#### Članak 27.
+
+Članak 243. mijenja se i glasi:
+
+»Za registrirana vozila izdaje se jedna od sljedećih vrsta registarskih pločica:
+
+1) registarske pločice za motorna vozila, priključna vozila, traktore i radne strojeve, osim za motocikle i mopede,
+
+2) registarske pločice za motocikle,
+
+3) registarske pločice za mopede,
+
+4) registarske pločice za motorna i priključna vozila diplomatskih i konzularnih predstavništava i misija stranih država i predstavništava međunarodnih organizacija u Republici Hrvatskoj i njihova osoblja,
+
+5) registarske pločice za vozila stranaca kojima je odobren privremeni ili stalni boravak i za privremeno registrirana vozila,
+
+6) registarske pločice za vojna vozila,
+
+7) registarske pločice za vozila ministarstva nadležnog za unutarnje poslove,
+
+8) registarske pločice za vozila koja ne udovoljavaju propisanim uvjetima glede dimenzija (duljina, širina, visina), odnosno čija je najveća dopuštena masa veća od propisane, odnosno koja premašuju dopuštena osovinska opterećenja,
+
+9) registarske pločice za oldtimere (starodobna vozila).«.
+
+#### Članak 28.
+
+U članku 250. stavku 3. riječi: »ministarstvo nadležno za unutarnje poslove« zamjenjuju se riječima: »stanica za tehnički pregled vozila«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Protiv rješenja iz stavka 3. ovoga članka može se izjaviti žalba o kojoj odlučuje ministarstvo nadležno za unutarnje poslove.«.
+
+#### Članak 29.
+
+Članak 252. mijenja se i glasi:
+
+»(1) Registraciju motornih i priključnih vozila, produženje važenja prometne dozvole i izdavanje pokusnih pločica obavljaju stanice za tehnički pregled vozila iz članka 259. ovoga Zakona.
+
+(2) Pravne i fizičke osobe obrtnici koji se bave prodajom vozila na malo mogu izdavati pokusne pločice samo za neregistrirana vozila koja prodaju, od mjesta u kojem su kupljena, odnosno preuzeta do mjesta gdje će biti registrirana odnosno do mjesta obavljanja tehničkog pregleda, ako ispunjavaju propisane uvjete i za to imaju odobrenje ministarstva nadležnog za unutarnje poslove.
+
+(3) Prenosive pločice izdaju se na ime pravne ili fizičke osobe obrtnika koji se bavi proizvodnjom, nadogradnjom, servisiranjem, prijevozom ili prodajom vozila na malo. Izdavanje prenosivih pločica odobrava ministarstvo nadležno za unutarnje poslove, a izdaje ih policijska uprava odnosno policijska postaja prema sjedištu pravne ili fizičke osobe obrtnika.
+
+(4) Pokusne pločice za obavljanje tehničkog pregleda i prenosive pločice mogu se koristiti samo na vozilima koja imaju ispravne uređaje za upravljanje, zaustavljanje te da su propisno označena, a pokusne pločice za vozila koja se kreću do mjesta u kojem će biti registrirana mogu se koristiti samo na vozilima koja imaju dokaz o tehničkoj ispravnosti vozila.
+
+(5) Ako policijska uprava odnosno policijska postaja utvrdi da se pokusne pločice izdaju protivno propisima i rješenju kojim je odobreno izdavanje pokusnih pločica, ministarstvo nadležno za unutarnje poslove rješenjem će izdavatelju pokusnih pločica ukinuti odobrenje za izdavanje pokusnih pločica, odnosno odbiti zahtjev za odobrenje za izdavanje pokusnih pločica. Rok za podnošenje novog zahtjeva određuje ministarstvo nadležno za unutarnje poslove, a koji ne može biti kraći od šest mjeseci niti duži od dvije godine od dana izvršnosti rješenja.
+
+(6) Ako policijska uprava odnosno policijska postaja utvrdi da se prenosive pločice koriste protivno propisima i rješenju kojim je odobreno izdavanje prenosivih pločica, ministarstvo nadležno za unutarnje poslove rješenjem će, pravnoj ili fizičkoj osobi obrtniku iz stavka 6. ovoga članka, oduzeti prenosive pločice odnosno odbiti zahtjev za odobrenje prenosivih pločica. Rok za podnošenje novog zahtjeva određuje ministarstvo nadležno za unutarnje poslove, a koji ne može biti kraći od šest mjeseci niti duži od dvije godine od dana izvršnosti rješenja.
+
+(7) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako izdaje ili koristi pokusne ili prenosive pločice suprotno odredbama ovoga Zakona i drugih propisa donesenih na temelju njega.
+
+(8) Novčanom kaznom od 1.500,00 do 5.000,00 kuna kaznit će se za prekršaj iz ovoga članka i odgovorna osoba u pravnoj osobi.
+
+(9) Protiv rješenja donesenog u postupku registracije vozila, produženja važenja prometne dozvole i izdavanja pokusnih pločica može se izjaviti žalba o kojoj odlučuje ministarstvo nadležno za unutarnje poslove, a protiv rješenja donesenog u postupku izdavanja i ukidanja odobrenja za izdavanje pokusnih pločica, izdavanja odobrenja za korištenje prenosivih pločica i oduzimanja prenosivih pločica ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 30.
+
+Članak 253. mijenja se i glasi:
+
+»Za registraciju vozila, produženje važenja prometne dozvole i ostale povezane poslove koje sukladno ovom Zakonu obavljaju stanice za tehnički pregled vozila, vlasnik vozila ne plaća upravnu pristojbu kada za to plaća naknadu u stanici za tehnički pregled vozila.«.
+
+#### Članak 31.
+
+U članku 254. stavku 3. iza riječi: »neće se izdati« dodaju se riječi: »odnosno ukinut će se«, a riječi: »ili se protiv nje vodi kazneni postupak za ta djela« brišu se.
+
+#### Članak 32.
+
+Članak 255. mijenja se i glasi:
+
+»(1) Tehnički pregled vozila je djelatnost od općeg interesa.
+
+(2) Radi provjere tehničke ispravnosti motornih i priključnih vozila, osim radnih strojeva, obavljaju se tehnički pregledi tih vozila.
+
+(3) Tehnički pregledi vozila su: redoviti s ispitivanjem ispušnih plinova motornih vozila, preventivni, izvanredni i tehnički pregledi vozila na cesti.
+
+(4) Na tehničkom pregledu utvrđuje se ima li vozilo propisane uređaje i opremu, jesu li ti uređaji i oprema ispravni te udovoljavaju li propisanim uvjetima za sudjelovanje u prometu na cesti.
+
+(5) O obavljenim tehničkim pregledima vozila vodi se evidencija i izdaje zapisnik o obavljenom tehničkom pregledu vozila, odnosno zapisnik o obavljenom tehničkom pregledu vozila na cesti.
+
+(6) Nedostaci utvrđeni tijekom tehničkih pregleda vozila mogu biti nekategorizirani ili se kategoriziraju kao manji, veći ili opasni:
+
+1) manji nedostaci su oni koji nemaju znatan učinak na sigurnost vozila ili utjecaj na okoliš te ostale manje neusklađenosti ili ako je teret pravilno osiguran, ali je primjereno dati sigurnosno upozorenje u vezi s osiguranjem i prijevozom tereta,
+
+2) veći nedostaci su oni koji mogu ugroziti sigurnost vozila ili utjecati na okoliš te dovesti druge sudionike prometa u opasnost ili druge veće neusklađenosti ili teret nije dovoljno osiguran, pa je moguće veće pomicanje ili prevrtanje tereta ili njegovih dijelova,
+
+3) opasni nedostaci su oni koji čine izravan i neposredan rizik za sigurnost na cestama ili nepovoljno utječu na okoliš, a koji opravdavaju zabranu korištenja vozila na cestama ili je izravno ugrožena sigurnost prometa kao posljedica rizika od gubitka tereta ili njegovih dijelova, odnosno opasnosti koja proizlazi izravno iz tereta ili kada su neposredno ugrožene osobe.
+
+(7) Ako je tijekom tehničkog pregleda vozila utvrđeno da vozilo ima više nedostataka koji pripadaju u različite kategorije nedostataka sukladno stavku 6. ovoga članka, smatrat će se da vozilo ima nedostatak većeg stupnja težine. Ako je tijekom tehničkog pregleda vozila utvrđeno da vozilo ima više nedostataka koji pripadaju u istu kategoriju nedostataka sukladno stavku 6. ovoga članka, smatrat će se da vozilo ima nedostatak većeg stupnja težine, ako utvrđeni nedostaci zajedno predstavljaju veći rizik za sigurnost na cestama.
+
+(8) Na temelju rezultata tehničkih pregleda vozila i utvrđenih kategoriziranih nedostataka formira se i sustav stupnjevanja rizika, koji se koristi za ciljani izbor vozila koja ne udovoljavaju propisima glede održavanja i tehničke ispravnosti vozila.
+
+(9) Popis mogućih nedostataka utvrđenih tijekom tehničkog pregleda vozila i stupanj njihove težine te druga pitanja vezana za način i postupak provođenja tehničkih pregleda vozila propisat će se pravilnikom o tehničkim pregledima vozila i pravilnikom o tehničkim pregledima vozila na cesti.
+
+(10) Ministarstvo nadležno za unutarnje poslove je kontaktna točka koja u području tehničkih pregleda vozila provodi suradnju s kontaktnim točkama drugih država članica Europske unije, dostavlja Europskoj komisiji podatke u području tehničkih pregleda vozila te osigurava razmjenu informacija i pružanje pomoći s kontaktnim točkama drugih država članica.
+
+(11) Ako su na vozilu koje nije registrirano u Republici Hrvatskoj utvrđeni veći ili opasni nedostaci ili nedostaci koji za posljedicu imaju ograničenje ili zabranu prometovanja vozilom, ministarstvo nadležno za unutarnje poslove će obavijestiti kontaktnu točku države članice u kojoj je vozilo registrirano o rezultatima pregleda takvog vozila.
+
+(12) U slučaju iz stavka 11. ovoga članka, ministarstvo nadležno za unutarnje poslove može zatražiti nadležno tijelo države članice u kojoj je vozilo registrirano, preko njezine kontaktne točke, poduzimanje prikladnih naknadnih mjera.«.
+
+#### Članak 33.
+
+U članku 256. stavak 1. mijenja se i glasi:
+
+»(1) Nova motorna i priključna vozila registrirana u Republici Hrvatskoj, koja sudjeluju u prometu na cestama, vlasnici su dužni podvrgnuti redovitom tehničkom pregledu tijekom mjeseca u kojem istječe rok od 24 mjeseca od prve registracije vozila, osim novih motornih i priključnih vozila za prijevoz tereta najveće dopuštene mase veće od 3500 kg, motornih vozila za prijevoz osoba koja osim sjedala za vozača imaju više od osam sjedala, vozila hitne medicinske pomoći i vozila za taksi prijevoz, koja su vlasnici dužni podvrgnuti redovitom tehničkom pregledu tijekom mjeseca u kojem istječe rok od 12 mjeseci od prve registracije vozila.«.
+
+#### Članak 34.
+
+U članku 259. stavku 1. iza prve rečenice dodaje se nova rečenica koja glasi: »Tehničke preglede vozila na cesti, osim ovlaštenih djelatnika stručne organizacije iz članka 273. ovoga Zakona, mogu obavljati i policijski službenici odnosno inspektori cestovnog prometa.«.
+
+#### Članak 35.
+
+U članku 260. stavku 2. riječi: »dvije godine« zamjenjuju se riječima: »tri godine«.
+
+U stavku 5. iza riječi: »neće se izdati« dodaju se riječi: »odnosno ukinut će se«, a riječi: »ili se protiv njih vodi kazneni postupak za ta djela« brišu se.
+
+Dodaje se stavak 6. koji glasi:
+
+»(6) Prilikom obavljanja tehničkog pregleda i registracije vozila nadzornik tehničke ispravnosti vozila odnosno referent za poslove registracije vozila ne smije biti ni u kakvom sukobu interesa, te ne smije biti izložen bilo kakvom utjecaju ili pritiscima kojima se utječe na njegovu objektivnost i nepristranost.«.
+
+#### Članak 36.
+
+U članku 262. stavku 1. iza riječi: »redovni preventivni« dodaje se zarez i riječi: »tehnički pregled vozila na cesti«.
+
+U stavku 2. iza riječi: »naknadu za« dodaju se riječi: »tehnički pregled vozila na cesti i«.
+
+#### Članak 37.
+
+U članku 266. stavku 1. riječi: »policijskoj upravi, odnosno policijskoj postaji na čijem području ima sjedište« zamjenjuju se riječima: »ministarstvu nadležnom za unutarnje poslove«.
+
+#### Članak 38.
+
+U članku 269. stavak 2. mijenja se i glasi:
+
+»(2) Ako stanica za tehnički pregled vozila iz stavka 1. ovoga članka ne otkloni utvrđene nedostatke u određenom roku, ministarstvo nadležno za unutarnje poslove ukinut će joj ovlaštenje za obavljanje tehničkih pregleda vozila i poslova registracije vozila.«.
+
+#### Članak 39.
+
+U članku 274. stavak 2. mijenja se i glasi:
+
+»(2) Ako stanica za tehnički pregled vozila ne otkloni utvrđene nedostatke u određenom roku, ministarstvo nadležno za unutarnje poslove ukinut će joj ovlaštenje za obavljanje tehničkih pregleda vozila i poslova registracije vozila.«.
+
+U stavku 4. iza riječi: »obavlja tehnički pregled vozila« dodaju se riječi: »i poslove registracije vozila«.
+
+#### Članak 40.
+
+Članak 286. mijenja se i glasi:
+
+»(1) Pravna posljedica pravomoćne osude vozača motornog vozila za određene prekršaje iz ovoga Zakona je upis negativnih prekršajnih bodova u evidenciju.
+
+(2) Negativni prekršajni bodovi iz stavka 1. ovoga članka brišu se iz evidencije nakon proteka dvije godine od dana pravomoćnosti odluke o prekršaju na temelju kojeg su upisani.
+
+(3) Mladom vozaču koji je u razdoblju od dvije godine prikupio devet negativnih prekršajnih bodova rješenjem će se ukinuti i oduzeti vozačka dozvola.
+
+(4) Vozaču koji je u razdoblja od dvije godine prikupio 12 negativnih prekršajnih bodova rješenjem će se ukinuti i oduzeti vozačka dozvola.
+
+(5) Nakon što su negativni prekršajni bodovi uzeti u obzir za donošenje rješenja iz stavka 3. i 4. ovoga članka brišu se iz evidencije.
+
+(6) Osoba iz stavka 3. i 4. ovoga članka može ponovo polagati vozački ispit istekom roka od dvije godine od dana izvršnosti rješenja iz stavka 3. i 4. ovoga članka, nakon provedenog postupka osposobljavanja kandidata za vozače.
+
+(7) Osoba iz stavka 5. i 6. ovoga članka koja upravlja motornim vozilom nakon izvršnosti rješenja iz članka 3. i 4. ovoga članka, a prije ponovnog stjecanja prava na samostalno upravljanje motornim vozilom, kaznit će se za prekršaj novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna ili kaznom zatvora u trajanju do 60 dana.
+
+(8) Protiv rješenja iz stavka 3. i 4. ovoga članka ne može se podnijeti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 41.
+
+U članku 290. stavak 1. mijenja se i glasi:
+
+»(1) Ako policijski službenik ili inspektor cestovnog prometa u okviru svojih ovlasti zatekne vozilo na cesti koje zbog tehničke neispravnosti uređaja i opreme predstavlja opasnost, ugrožava ili ometa druge sudionike u prometu ili je nedostatak uređaja i opreme kategoriziran kao veći ili kao opasan, ako na vozilu ima ugrađene uređaje za davanje svjetlosnih i zvučnih znakova iz članka 153. ovoga Zakona ili na kojem je obavljena nadogradnja, pregradnja ili zamjena serijskog dijela, a vozilo nije podvrgnuto ispitivanju iz članka 276. ovoga Zakona ili na kojem je teret nepravilno smješten, odnosno nedovoljno osiguran, a nedostatak osiguranja i prijevoza tereta je kategoriziran kao veći ili opasan, ili kojim se bez posebne dozvole ili suprotno dopuštenju iz dozvole prevozi teret čije dimenzije, odnosno masa premašuju najveće dopuštene dimenzije, odnosno masu ili osovinsko opterećenje, naredit će vozaču da odmah prekine kretanje vozilom i otkloni neispravnost ili nedostatak ili da vozilo odveze do određenog mjesta gdje može otkloniti neispravnost ili nedostatak, odnosno pribavi dozvolu za izvanredni prijevoz.«.
+
+U stavku 3. iza riječi: »narediti vozaču da vozilo« dodaju se riječi: »podvrgne tehničkom pregledu vozila na cesti ili«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Ako vozač ne postupi po naredbi iz stavka 1., 2. i 3. ovoga članka, policijski službenik ili inspektor cestovnog prometa isključit će vozilo iz prometa. Isključenje vozila iz prometa traje sve dok se ne otklone razlozi zbog kojih je vozilo isključeno. Uz zapisnik o obavljenom tehničkom pregledu vozila ili zapisnik o obavljenom tehničkom pregledu vozila na cesti isključeno vozilo moguće je odvesti do mjesta gdje se može otkloniti neispravnost ili nedostatak. Pravo ponovnog sudjelovanja vozila u prometu, nakon isključenja vozila, dokazuje se zapisnikom o obavljenom tehničkom pregledu vozila, kojim je utvrđena ispravnost vozila.«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Novčanom kaznom u iznosu od 2.000,00 kuna kaznit će se za prekršaj vozač ako upravlja vozilom u prometu na cestama koje je isključeno iz prometa a da u vozilu ne posjeduje zapisnik o obavljenom tehničkom pregledu vozila ili zapisnik o obavljenom tehničkom pregledu vozila na cesti kojem mu je dana mogućnost odvoženja vozila do određenog mjesta gdje se može otkloniti neispravnost ili nedostatak, odnosno zapisnik o tehničkom pregledu, kojim je utvrđena ispravnost vozila.«.
+
+#### Članak 42.
+
+U članku 291. stavak 1. mijenja se i glasi:
+
+»(1) Policijski službenik koji je isključio vozilo iz prometa vozaču će privremeno oduzeti registarske pločice ako:
+
+– sudjeluje u prometu, a razlozi isključenja vozila nisu otklonjeni na mjestu isključenja ili na mjestu gdje je vozilo odvezeno radi otklanjanja razloga isključenja,
+
+– je neispravnost ili nedostatak uređaja i opreme vozila kategoriziran kao opasan,
+
+– je neispravnost ili nedostatak osiguranja i prijevoza tereta kategoriziran kao opasan,
+
+– nema posebnu dozvolu za prijevoz ili prijevoz obavlja suprotno dopuštenju iz dozvole,
+
+– je isteklo važenje prometne dozvole za više od 15 dana.«.
+
+U stavku 3. riječi: »tijelu koje vozilo vodi u evidenciji« zamjenjuju se riječima: »policijskoj upravi odnosno policijskoj postaji prema prebivalištu, boravištu, privremenom ili stalnom boravku ili sjedištu vlasnika vozila«.
+
+#### Članak 43.
+
+Članak 295. mijenja se i glasi.
+
+»Stručni voditelj, predavač, instruktor vožnje i ovlašteni ispitivač kojima je izrečena zaštitna mjera zabrane upravljanja motornim vozilom ili koji su izgubili pravo upravljanja motornim vozilom zbog nekih drugih razloga ne smiju, u to vrijeme, obavljati poslove osposobljavanja kandidata za vozače i provoditi vozačke ispite iz nastavnog predmeta Upravljanje vozilom.«.
+
+#### Članak 44.
+
+U članku 296. stavku 2. iza riječi: »ministarstvo nadležno za unutarnje poslove« dodaje se zarez i riječi: »a podacima o vozilima mogu se koristiti stručna organizacija iz članka 273. ovoga Zakona i stanice za tehnički pregled vozila ovlaštene za poslove registracije vozila«.
+
+#### Članak 45.
+
+Članak 299. mijenja se i glasi:
+
+»Instruktor vožnje pod čijim se nadzorom kandidat za vozača osposobljava u nastavnom predmetu Upravljanje vozilom i ovlašteni ispitivač pod čijim se nadzorom provodi vozački ispit iz nastavnog predmeta Upravljanje vozilom kaznit će se za prekršaj što ga počini kandidat za vozača osim ako nisu bili u mogućnosti spriječiti prekršaj.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 46.
+
+(1) Stupanjem na snagu ovoga Zakona negativni prekršajni bodovi prikupljeni na temelju odredbi Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14. i 64/15.) brišu se iz evidencije vozača.
+
+(2) Postupci koji su započeti na temelju odredbi članka 286. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14. i 64/15.) dovršit će se sukladno odredbama tog Zakona.
+
+#### Članak 47.
+
+(1) Ministar nadležan za unutarnje poslove donijet će pravilnike iz članaka 14., 19. i 20. ovoga Zakona u roku od 30 dana od dana stupanja na snagu tih članaka.
+
+(2) Ministar nadležan za unutarnje poslove, uz prethodnu suglasnost ministra nadležnog za poslove prometa, donijet će pravilnike iz članka 32. ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+(3) Ministar nadležan za poslove prometa donijet će pravilnike iz članka 13. ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 48.
+
+Stručne organizacije iz članka 206. i 273. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14. i 64/15.) dužne su uskladiti i organizirati svoju djelatnost i donijeti opće akte u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 49.
+
+Stupanjem na snagu članka 14. ovoga Zakona prestaje važiti Pravilnik o mreži i kriterijima o dovoljnom broju autoškola (»Narodne novine«, br. 117/12.), a stupanjem na snagu članka 15. ovoga Zakona prestaje važiti Pravilnik o jedinstvenim minimalnim izračunskim elementima vrijednosti nastavnog sata u autoškoli (»Narodne novine«, br. 141/11.).
+
+#### Članak 50.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 14., 15., 26., 27., 28., 29., 30., 33., 37., 38., 39., 40., 44. i 46. koji stupaju na snagu 1. siječnja 2018. te članaka 11., 25., 32., 41. i 42. koji stupaju na snagu 20. svibnja 2018.
+
+Klasa: 022-03/17-01/136
+
+Zagreb, 27. listopada 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (NN 70/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/70/1450*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 12. srpnja 2019.
+
+Klasa: 011-01/19-01/112
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. srpnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+#### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15. i 108/17.) članak 1.a mijenja se i glasi:
+
+»(1) Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:
+
+1. Direktiva Vijeća 91/671/EEZ od 16. prosinca 1991. o usklađivanju zakonodavstva država članica koji se odnose na obaveznu uporabu sigurnosnih pojaseva u vozilima lakšim od 3,5 tona (SL L 373, 31. 12. 1991.), kako je izmijenjena Provedbenom direktivom Komisije 2014/37/EU od 27. veljače 2014. o izmjeni Direktive Vijeća 91/671/EEZ u pogledu obavezne uporabe sigurnosnih pojaseva i sustava sigurnosnog vezivanja djece u vozilima (SL L 59, 28. 2. 2014.),
+
+2. Direktiva 2000/53/EZ Europskog parlamenta i Vijeća od 18. rujna 2000. o otpadnim vozilima (SL L 269, 21. 10. 2000.),
+
+3. Direktiva 2002/85/EZ Europskog parlamenta i Vijeća od 5. studenog 2002. o izmjeni Direktive Vijeća 92/6/EEZ o ugradnji i uporabi uređaja za ograničavanje brzine za određene kategorije motornih vozila u Zajednici (SL L 327, 4. 12. 2002.),
+
+4. Direktiva 2003/59/EZ Europskog parlamenta i Vijeća od 15. srpnja 2003. o početnim kvalifikacijama i periodičnom osposobljavanju vozača određenih cestovnih vozila za prijevoz robe i putnika, o izmjeni Uredbe Vijeća (EEZ) br. 3820/85 i Direktive Vijeća 91/439/EEZ te stavljanju izvan snage Direktive Vijeća 76/14/EEZ (SL L 226, 10. 9. 2003.)
+
+5. Direktiva 2006/126/EZ Europskog parlamenta i Vijeća od 20. prosinca 2006. o vozačkim dozvolama (Preinaka) (SL L 403, 30. 12. 2006.), kako je izmijenjena Direktivom (EU) 2018/645 Europskog parlamenta i Vijeća od 18. travnja 2018. o izmjeni Direktive 2003/59/EZ o početnim kvalifikacijama i periodičnom osposobljavanju vozača određenih cestovnih vozila za prijevoz robe ili putnika i Direktive 2006/126/EZ o vozačkim dozvolama (Tekst značajan za EGP) (SL L 112, 2. 5. 2018.),
+
+6. Direktiva 2008/96/EZ Europskog parlamenta i Vijeća od 19. studenog 2008. godine o sigurnosti cestovne infrastrukture (SL L 319, od 29. 11. 2008.),
+
+7. Direktiva Komisije 2009/113EZ od 25. kolovoza 2009. o izmjeni Direktive 2006/126/EZ Europskog parlamenta i Vijeća o vozačkim dozvolama (SL L 223, 26. 8. 2009.),
+
+8. Direktiva (EU) 2015/413 i Europskog parlamenta i Vijeća od 11. ožujka 2015. o olakšavanju prekogranične razmjene informacija o prometnim prekršajima protiv sigurnosti prometa na cestama (SL L 68/9, 13. 3. 2015.),
+
+9. Direktiva 2014/45/EU Europskog parlamenta i Vijeća od 3. travnja 2014. o periodičnim tehničkim pregledima motornih vozila i njihovih priključnih vozila te stavljanju izvan snage Direktive 2009/40/EZ (Tekst značajan za EGP) (SL L 127, 29. 4. 2014.),
+
+10. Direktiva 2014/46/EU Europskog parlamenta i Vijeća od 3. travnja 2014. o izmjeni Direktive Vijeća 1999/37/EZ o dokumentima za registraciju vozila (SL L 127, 29. 4. 2014.),
+
+11. Direktiva 2014/47/EU Europskog parlamenta i Vijeća od 3. travnja 2014. o pregledima tehničke ispravnosti na cesti gospodarskih vozila koja prometuju u Uniji i stavljanju izvan snage Direktive 2000/30/EZ (Tekst značajan za EGP) (SL L 127, 29. 4. 2014.).
+
+(2) Ovim Zakonom osigurava se provedba Uredbe Komisije (EU) 2016/403 od 18. ožujka 2016. o dopuni Uredbe (EZ) br. 1071/2009 Europskog parlamenta i Vijeća u pogledu klasifikacije teških povreda pravila Unije koje mogu dovesti do gubitka dobrog ugleda cestovnog prijevoznika te o izmjeni Priloga III. Direktivi 2006/22/EZ Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 74, 19. 3. 2016.).«.
+
+#### Članak 2.
+
+U članku 2. stavku 1. točka 4. mijenja se i glasi:
+
+»4) »brza cesta« je javna cesta namijenjena za promet isključivo motornih vozila, s jednom ili dvije razdvojene kolničke trake, koja ima sva raskrižja u dvije ili više razina s poprečnim cestama i drugim prometnicama (željezničkim ili tramvajskim prugama), u pravilu nema zaustavnih traka i koja je kao takva označena propisanim prometnim znakom. Iznimno, kada se radi o faznoj gradnji, može imati raskrižja u razini prema propisu iz članka 6. stavka 4. ovog Zakona,«.
+
+Iza točke 101. umjesto točke stavlja se zarez i dodaje se točka 102. koja glasi:
+
+»102) »vlasnik vozila« je osoba na koju je vozilo registrirano.«.
+
+#### Članak 3.
+
+U članku 32. iza stavka 4. dodaju se novi stavak 5. i stavak 6. koji glase:
+
+»(5) Vozaču koji je proglašen krivim za prekršaj iz stavka 4. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći, odnosno svaki sljedeći put.
+
+(6) Vozaču se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 4. ovoga članka.«.
+
+Dosadašnji stavak 5. postaje stavak 7.
+
+#### Članak 4.
+
+U članku 40. stavak 3. mijenja se i glasi:
+
+»(3) Znak pristupačnosti izdaje nadležno upravno tijelo županije odnosno Grada Zagreba, na zahtjev stranke i na ime osobe s invaliditetom, odnosno za vozila udruga osoba s invaliditetom na ime udruge, a izgled znaka, uvjete za njegovo stjecanje, način obilježavanja parkirališnog mjesta te prava koja se na temelju njega mogu ostvarivati pravilnikom propisuje ministar nadležan za poslove prometa, uz prethodnu suglasnost ministra nadležnog za zdravstvo.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Protiv rješenja donesenog u postupku izdavanja znaka pristupačnosti može se podnijeti žalba ministarstvu nadležnom za poslove prometa.«.
+
+Dosadašnji stavci 4. do 7. postaju stavci 5. do 8.
+
+#### Članak 5.
+
+U članku 43. stavku 3. riječi: »u iznosu od 500,00« zamjenjuju se riječima: »u iznosu od 1.000,00«.
+
+#### Članak 6.
+
+U članku 45. stavku 4. riječi: »u iznosu od 500,00« zamjenjuju se riječima: »u iznosu od 1.000,00«.
+
+#### Članak 7.
+
+U članku 49. stavku 5. riječi: »u iznosu od 5.000,00 do 15.000,00« zamjenjuju se riječima: »u iznosu od 10.000,00 do 20.000,00«.
+
+Iza stavka 5. dodaju se stavci 6. do 10. koji glase:
+
+»(6) Vozaču koji je proglašen krivim za prekršaj iz stavka 4. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(7) Vozaču koji je proglašen krivim za prekršaj iz stavka 5. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(8) Vozaču se u evidenciju upisuju dva negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 3. ovoga članka.
+
+(9) Vozaču se u evidenciju upisuju četiri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 4. ovoga članka.
+
+(10) Vozaču se u evidenciju upisuje šest negativnih prekršajnih bodova ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 5. ovoga članka.«.
+
+#### Članak 8.
+
+U članku 53. stavku 3. riječi: »u iznosu od 5.000,00 do 15.000,00« zamjenjuju se riječima: »u iznosu od 10.000,00 do 20.000,00«.
+
+U stavku 4. riječi: »u iznosu od 2.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 7.000,00«.
+
+Iza stavka 7. dodaju se stavci 8. do 12. koji glase:
+
+»(8) Vozaču koji je proglašen krivim za prekršaj iz stavka 3. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(9) Vozaču koji je proglašen krivim za prekršaj iz stavka 4. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(10) Vozaču motornog vozila se u evidenciju upisuje šest negativnih prekršajnih bodova ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 3. ovoga članka.
+
+(11) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 4. ovoga članka.
+
+(12) Vozaču motornog vozila se u evidenciju upisuju dva negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 5. ovoga članka.«.
+
+#### Članak 9.
+
+U članku 54. stavak 2. mijenja se i glasi:
+
+»(2) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj vozač koji se vozilom na cesti izvan naselja kreće brzinom koja je za više od 50 km na sat veća od dopuštene ili prometnim znakom ograničene brzine.«.
+
+U stavku 3. riječi: »u iznosu od 1.000,00« zamjenjuju se riječima: »u iznosu od 2.000,00«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Vozaču koji je proglašen krivim za prekršaj iz stavka 2. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(6) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 2. ovoga članka.«.
+
+#### Članak 10.
+
+U članku 57. stavku 7. riječi: »u iznosu od 3.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 7.000,00«.
+
+Iza stavka 7. dodaju se stavci 8. i 9. koji glase:
+
+»(8) Vozaču koji je proglašen krivim za prekršaj iz stavka 7. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(9) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 7. ovoga članka.«.
+
+#### Članak 11.
+
+U članku 59. stavku 5. riječi: »u iznosu od 2.000,00 do 5.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 7.000,00«.
+
+Iza stavka 5. dodaju se stavci 6. do 10. koji glase:
+
+»(6) Novčanom kaznom u iznosu od 10.000,00 do 20.000,00 kuna ili kaznom zatvora u trajanju do 60 dana kaznit će se za prekršaj vozač koji na mjestu na kojem se prometom upravlja semaforima ne zaustavi svoje vozilo na znak crvenog svjetla bez smanjenja brzine kretanja vozila ili povećava brzinu kretanja vozila ili se ne zaustavi vozilom na dva ili više znakova crvenog svjetla.
+
+(7) Vozaču koji je proglašen krivim za prekršaj iz stavka 5. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(8) Vozaču koji je proglašen krivim za prekršaj iz stavka 6. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(9) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 5. ovoga članka.
+
+(10) Vozaču motornog vozila se u evidenciju upisuje šest negativnih prekršajnih bodova ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 6. ovoga članka.«.
+
+#### Članak 12.
+
+U članku 67. iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Vozaču koji je proglašen krivim za prekršaj iz stavka 5. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(7) Vozaču motornog vozila se u evidenciju upisuju dva negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 5. ovoga članka.«.
+
+#### Članak 13.
+
+U članku 70. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Vozaču koji je proglašen krivim za prekršaj iz stavka 3. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(6) Vozaču motornog vozila se u evidenciju upisuju dva negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 3. ovoga članka.«.
+
+#### Članak 14.
+
+U članku 72. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Vozaču koji je proglašen krivim za prekršaj iz stavka 2. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(4) Vozaču motornog vozila se u evidenciju upisuju dva negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 2. ovoga članka.«.
+
+#### Članak 15.
+
+U članku 74. stavku 2. riječi: »u iznosu od 3.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 7.000,00«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Vozaču koji je proglašen krivim za prekršaj iz stavka 2. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(4) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 2. ovoga članka.«.
+
+#### Članak 16.
+
+U članku 101. stavku 5. riječi: »u iznosu od 300,00« zamjenjuju se riječima: »u iznosu od 500,00«.
+
+#### Članak 17.
+
+U članku 102. stavak 1. mijenja se i glasi:
+
+»(1) Na motornim vozilima za vrijeme vožnje danju moraju biti upaljena dnevna ili kratka svjetla u razdoblju od 1. studenoga do 31. ožujka.«.
+
+#### Članak 18.
+
+U članku 127. stavku 4. riječi: »stavka 1. i 2.« brišu se.
+
+#### Članak 19.
+
+U članku 133. stavku 3. riječi: »u iznosu od 1.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 7.000,00«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Vozaču koji je proglašen krivim za prekršaj iz stavka 3. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(6) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 3. ovoga članka.«.
+
+#### Članak 20.
+
+U članku 134. stavku 5. riječi: »u iznosu od 2.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Vozaču motornog vozila se u evidenciju upisuju dva negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 5. ovoga članka.«.
+
+#### Članak 21.
+
+U članku 137. stavku 2. riječi: »u iznosu od 2.000,00 do 5.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 7.000,00«.
+
+Iza stavka 2. dodaju se novi stavak 3. i stavak 4. koji glase:
+
+»(3) Vozaču koji je proglašen krivim za prekršaj iz stavka 2. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(4) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 2. ovoga članka.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+#### Članak 22.
+
+U članku 140. stavku 5. riječi: »u iznosu od 2.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 7.000,00«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 5. ovoga članka.«.
+
+#### Članak 23.
+
+U članku 141. stavku 2. riječi: »prve priključne ceste kojom« zamjenjuju se riječima: »prvog izlaza kojim«.
+
+U stavku 3. riječi: »u iznosu od 500,00« zamjenjuju se riječima: »u iznosu od 1.000,00«.
+
+#### Članak 24.
+
+U članku 142. stavku 3. riječi: »kretati se na način da ne drži potreban razmak« brišu se.
+
+Iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+
+»(4) Vozač, kada se kreće vozilom iza drugog vozila istom prometnom trakom, mora voziti na udaljenosti koja nije manja od udaljenosti koju bi prešao brzinom kojom vozi u dvije sekunde (sigurnosni razmak) odnosno udaljenosti propisanom prometnim znakom.
+
+(5) Iznimno od stavka 4. ovoga članka, pri povoljnim uvjetima vožnje, kada se vozi u koloni vozila koja se kreće manjom brzinom, udaljenost se može smanjiti, ali ne smije biti manja od udaljenosti koju vozilo, pri brzini kojom se kreću, može prijeći u jednoj sekundi.«.
+
+U dosadašnjem stavku 4., koji postaje stavak 6., riječi: »u iznosu od 500,00« zamjenjuju se riječima: »u iznosu od 2.000,00«.
+
+U dosadašnjem stavku 5., koji postaje stavak 7., riječi: »odredbi stavka 3.« zamjenjuju se riječima: »odredbama stavaka 3., 4. i 5.«.
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Vozaču motornog vozila se u evidenciju upisuje jedan negativni prekršajni bod ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 7. ovoga članka.«.
+
+#### Članak 25.
+
+U članku 150. iza riječi: »vojne policije« dodaje se zarez i riječi: »sigurnosno-obavještajnih agencija«.
+
+#### Članak 26.
+
+U članku 163. stavak 8. mijenja se i glasi:
+
+»(8) Novčanom kaznom u iznosu od 1.000,00 kuna kaznit će se za prekršaj vozač i druga osoba ako postupi suprotno odredbi stavka 1. ovoga članka.«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Novčanom kaznom u iznosu od 1.000,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbama stavaka 4. do 7. ovoga članka.«.
+
+#### Članak 27.
+
+U članku 175. stavak 3. mijenja se i glasi:
+
+»(3) Novčanom kaznom u iznosu od 10.000,00 do 20.000,00 kuna ili kaznom zatvora u trajanju do 60 dana kaznit će se za prekršaj vozač motornog vozila koji ne ostane na mjestu prometne nesreće.«.
+
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Vozaču koji je proglašen krivim za prekršaj iz stavka 3. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od najmanje 12 mjeseci.
+
+(5) Vozaču motornog vozila se u evidenciju upisuje šest negativnih prekršajnih bodova ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 3. ovoga članka.«.
+
+#### Članak 28.
+
+U članku 176. stavku 5. riječi: »u iznosu od 2.000,00 do 5.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 7.000,00«.
+
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Vozaču koji je proglašen krivim za prekršaj iz stavka 5. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od najmanje šest mjeseci.
+
+(7) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 5. ovoga članka.«.
+
+#### Članak 29.
+
+U članku 181. stavku 8. riječi: »u iznosu od 5.000,00 do 15.000,00« zamjenjuju se riječima: »u iznosu od 10.000,00 do 20.000,00«.
+
+Iza stavka 9. dodaju se stavci 10., 11. i 12. koji glase:
+
+»(10) Vozaču koji je proglašen krivim za prekršaj iz stavka 8. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(11) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 7. ovoga članka.
+
+(12) Vozaču motornog vozila se u evidenciju upisuje šest negativnih prekršajnih bodova ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 8. ovoga članka.«.
+
+#### Članak 30.
+
+U članku 193. stavku 2. riječi: »i snijeg na vozilu« zamjenjuju se riječima: »i snijeg, led ili vodu na vozilu.«
+
+U stavku 6. riječi: »u iznosu od 700,00« zamjenjuju se riječima: »u iznosu od 1.000,00«.
+
+#### Članak 31.
+
+U članku 196. stavku 2. iza riječi: »pomagalima,« dodaju se riječi: »i postupati po uvjetima i ograničenjima«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Novčanom kaznom u iznosu od 500,00 kuna kaznit će se za prekršaj vozač koji postupi suprotno odredbi stavka 2. ovoga članka.«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Novčanom kaznom u iznosu od 1.000,00 kuna kaznit će se za prekršaj vozač koji postupi suprotno odredbama stavaka 3. i 4. ovoga članka.«.
+
+#### Članak 32.
+
+U članku 198. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 2. ovoga članka.«.
+
+#### Članak 33.
+
+U članku 199. stavku 6. riječi: »u iznosu od 1.000,00 do 3.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 5.000,00«.
+
+U stavku 7. riječi: »u iznosu od 3.000,00 do 5.000,00« zamjenjuju se riječima: »u iznosu od 5.000,00 do 15.000,00«.
+
+U stavku 8. riječi: »u iznosu od 5.000,00 do 15.000,00« zamjenjuju se riječima: »u iznosu od 10.000,00 do 20.000,00«.
+
+U stavku 9. riječi: »u iznosu od 5.000,00 do 15.000,00« zamjenjuju se riječima: »u iznosu od 10.000,00 do 20.000,00«.
+
+Iza stavka 10. dodaju se stavci 11. do 16. koji glase:
+
+»(11) Vozaču koji je proglašen krivim za prekršaj iz stavka 6. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje tri mjeseca, ako je prekršaj počinjen drugi put,
+
+2) najmanje šest mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(12) Vozaču koji je proglašen krivim za prekršaj iz stavka 7. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje devet mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(13) Vozaču koji je proglašen krivim za prekršaje iz stavaka 8. i 9. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(14) Vozaču motornog vozila se u evidenciju upisuju tri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 6. ovoga članka.
+
+(15) Vozaču motornog vozila se u evidenciju upisuju četiri negativna prekršajna boda ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 7. ovoga članka.
+
+(16) Vozaču motornog vozila se u evidenciju upisuje šest negativnih prekršajnih bodova ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavaka 8. i 9. ovoga članka.«.
+
+#### Članak 34.
+
+U članku 206. stavcima 8. i 9. riječi: »stavka 6.« zamjenjuju se riječima: »stavka 7.«.
+
+#### Članak 35.
+
+U članku 208. iza stavka 5. dodaju se novi stavci 6., 7. i 8. koji glase:
+
+»(6) Tijekom provedbe vozačkog ispita iz nastavnog predmeta Upravljanje vozilom ovlaštena stručna organizacija iz članka 206. ovoga Zakona koristi sustav audiosnimanja i videosnimanja tehničkim uređajem u svrhu ujednačavanja standarda i kriterija provedbe vozačkih ispita te se videosnimanjem bilježe prometne situacije ispred vozila, a audiosnimanjem bilježi se komunikacija ovlaštenog ispitivača s kandidatom za vozača unutar ispitnog vozila.
+
+(7) Ovlaštena stručna organizacija dužna je snimljene podatke dati na uvid na zahtjev ministarstva nadležnog za unutarnje poslove.
+
+(8) Audiosnimke i videosnimke iz stavka 6. ovoga članka čuvaju se godinu dana.«.
+
+Dosadašnji stavak 6. postaje stavak 9.
+
+Dosadašnji stavak 7., koji postaje stavak 10., mijenja se i glasi:
+
+»(10) Ovlaštena stručna organizacija vodi evidenciju o položenim vozačkim ispitima u elektroničkom obliku.«.
+
+Dosadašnji stavci 8. do 10. postaju stavci 11. do 13.
+
+#### Članak 36.
+
+U članku 211. stavku 4. riječi: »stavka 8.« zamjenjuju se riječima: »stavka 10.«.
+
+#### Članak 37.
+
+U članku 216. stavku 1. točki 2. riječ: »minimalnu« zamjenjuje se riječju: »najnižu«.
+
+U stavku 3. riječi: »u iznosu od 5.000,00 do 15.000,00« zamjenjuju se riječima: »u iznosu od 10.000,00 do 20.000,00«.
+
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Vozaču koji je proglašen krivim za prekršaj iz stavka 3. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(5) Vozaču motornog vozila se u evidenciju upisuje šest negativnih prekršajnih bodova ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 3. ovoga članka.«.
+
+#### Članak 38.
+
+U cijelom tekstu članka 217. riječ: »minimalna« u određenom padežu zamjenjuje se riječju: »najniža« u odgovarajućem padežu.
+
+#### Članak 39.
+
+U članku 223. stavku 3. riječi: »u iznosu od 2.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00«.
+
+#### Članak 40.
+
+U članku 229. stavak 2. mijenja se i glasi:
+
+»(2) Vlasnik vozila odnosno osoba kojoj je vozilo povjereno ne smije dati vozilo na upravljanje osobi za koju je mogao ili morao znati da nema pravo upravljati vozilom (upravlja vozilom prije stjecanja prava na upravljanje, za vrijeme dok joj je izrečena sigurnosna mjera zabrane upravljanja vozilom ili zaštitna mjera zabrane upravljanja motornim vozilom ili mjera opreza privremenog oduzimanja vozačke dozvole ili je isključena iz prometa, nema upisanu odgovarajuću kategoriju, upravlja vozilom bez pomagala ili ne postupa po uvjetima i ograničenjima navedenim u vozačkoj dozvoli, kojoj je vozačka dozvola oduzeta ili ukinuta), osobi za koju se na temelju njezina ponašanja može zaključiti da je pod utjecajem droga ili lijekova ili koja u krvi ima nedozvoljenu količinu alkohola ili je pod vidnim utjecajem alkohola ili je u tolikoj mjeri umorna ili bolesna da nije u stanju na siguran način upravljati vozilom.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Vlasnik vozila dužan je, na zahtjev policijskog službenika ili službene osobe jedinice lokalne samouprave koja obavlja poslove iz članka 5. stavka 4. ovoga Zakona, dati vjerodostojan podatak o osobi koja je upravljala vozilom u vrijeme počinjenja prekršaja, a pritom se dostava podataka o više osoba koje su upravljale vozilom u vrijeme počinjenja prekršaja ne smatra dostavom vjerodostojnih podataka o identitetu osobe kojoj je dao vozilo na upravljanje.«.
+
+U stavku 6. riječi: »u iznosu od 1.000,00 do 3.000,00« zamjenjuju se riječima: »u iznosu od 3.000,00 do 7.000,00«.
+
+U stavku 7. riječi: »u iznosu od 2.000,00 do 5.000,00« zamjenjuju se riječima: »u iznosu od 5.000,00 do 15.000,00«, a riječi: »osoba kojoj je vozilo povjereno« brišu se.
+
+Iza stavka 7. dodaju se stavci 8., 9. i 10. koji glase:
+
+»(8) Vozaču za kojeg se utvrdi osnovana sumnja u počinjenje prekršaja iz članka 49. stavka 5., članka 53. stavka 3., članka 59. stavka 6., članka 181. stavka 8., članka 199. stavaka 8. i 9., članka 216. stavka 3., članka 282. stavka 9., članka 286. stavaka 10. i 11. ili članka 289. stavka 4. ovoga Zakona, privremeno će se oduzeti vozilo kojim je upravljao, do donošenja odluke o prekršaju, ako je već najmanje dva puta pravomoćno kažnjen za prekršaje navedene u ovom stavku.«.
+
+(9) Sud je dužan odluku o prekršaju i postupanju s privremeno oduzetim vozilom donijeti u roku od 15 dana.
+
+(10) Troškove premještanja, smještaja i čuvanja privremeno oduzetog vozila snosi počinitelj prekršaja.«.
+
+#### Članak 41.
+
+U članku 244. stavku 4. riječi: »i međunarodna oznaka iz članka 243. stavka 2. ovoga Zakona« brišu se.
+
+U stavku 5. riječi: »ili međunarodna oznaka« brišu se.
+
+U stavku 7. riječi: »ili međunarodna oznaka« brišu se.
+
+#### Članak 42.
+
+Članak 247. mijenja se i glasi:
+
+»(1) Motorna i priključna vozila registrirana izvan teritorija Republike Hrvatske mogu sudjelovati u prometu na teritoriju Republike Hrvatske samo ako imaju: važeću prometnu dozvolu, dokaz o tehničkoj ispravnosti, registarske pločice koje je izdalo nadležno tijelo zemlje u kojoj je vozilo registrirano, međunarodnu oznaku zemlje registracije ili registarsku pločicu koju je izdalo nadležno tijelo države na kojoj su oznake i broj utvrđeni propisima Europske unije.
+
+(2) Za motorna i priključna vozila registrirana u državama članicama Europskog gospodarskog prostora, u svrhu slobodnog kretanja vozila u prometu na cestama, priznaje se dokaz o tehničkoj ispravnosti vozila izdan u državi registracije vozila.
+
+(3) Priključno vozilo koje nije registrirano mora na stražnjoj strani imati registarsku pločicu s ponovljenim registarskim brojem vučnog vozila.
+
+(4) Novčanom kaznom u iznosu od 2.000,00 kuna kaznit će se za prekršaj vozač motornog i priključnog vozila registriranog izvan Republike Hrvatske ako nema važeću prometnu dozvolu i dokaz o tehničkoj ispravnosti vozila.
+
+(5) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač vozila registriranog izvan teritorija Republike Hrvatske ako nema registarske pločice ili međunarodnu oznaku zemlje registracije ili ako vuče neregistrirano priključno vozilo koje nije označeno s ponovljenim brojem vučnog vozila.«.
+
+#### Članak 43.
+
+U članku 252. stavku 6. riječi: »iz stavka 6.« zamjenjuju se riječima: »iz stavka 3.«.
+
+#### Članak 44.
+
+U članku 263. iza stavka 1. dodaju se novi stavci 2. i 3. i stavak 4. koji glase:
+
+»(2) Stanica za tehnički pregled vozila dužna je osigurati videonadzor tehničkog pregleda vozila, odnosno cjelovite tehnološke linije u radnom vremenu stanice, i to za svaku tehnološku liniju zasebno u svrhu nadzora nad radom stanice za tehnički pregled vozila, a sustav videonadzora mora osigurati najmanje očitanje odnosno identifikaciju registarskih pločica na vozilima.
+
+(3) Snimke iz stavka 2. ovoga članka čuvaju se godinu dana.
+
+(4) Stanica za tehnički pregled vozila dužna je podatke iz sustava videonadzora dati na uvid na zahtjev ministarstva nadležnog za unutarnje poslove i stručne organizacije iz članka 273. ovoga Zakona.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 5. i 6.
+
+#### Članak 45.
+
+U članku 282. stavku 9. riječi: »u iznosu od 5.000,00 do 15.000,00« zamjenjuju se riječima: »u iznosu od 10.000,00 do 20.000,00«.
+
+Iza stavka 10. dodaju se stavci 11. i 12. koji glase:
+
+»(11) Vozaču koji je proglašen krivim za prekršaj iz stavka 9. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(12) Vozaču motornog vozila se u evidenciju upisuje šest negativnih prekršajnih bodova ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 9. ovoga članka.«.
+
+#### Članak 46.
+
+U članku 283. stavku 1. iza riječi: »brzine kretanja vozila,« dodaju se riječi: »tehničkih uređaja,«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Fotografija, videozapis s podacima o utvrđenoj brzini, elektronički zapis, tahografski zapis i zapisnik o očitanju na uređaju koji nema zapis ili brzinomjer služe kao dokaz o utvrđenoj brzini kretanja vozila.«.
+
+U stavku 3. iza riječi: »mogu se koristiti« dodaje se riječ: »fotografija,«.
+
+#### Članak 47.
+
+U članku 285. stavku 1. točki 2. iza riječi: »upravljanja« dodaju se riječi: »ili ne postupa po uvjetima i ograničenjima upisanim u vozačkoj dozvoli«.
+
+#### Članak 48.
+
+Članak 286. mijenja se i glasi:
+
+»(1) Pravna posljedica pravomoćne osude vozača motornog vozila za određene prekršaje iz ovoga Zakona je upis negativnih prekršajnih bodova u evidenciju.
+
+(2) Negativni prekršajni bodovi iz stavka 1. ovoga članka brišu se iz evidencije nakon proteka dvije godine od dana pravomoćnosti odluke o prekršaju na temelju kojeg su upisani.
+
+(3) Mladom vozaču koji je u razdoblju od dvije godine prikupio devet negativnih prekršajnih bodova rješenjem će se ukinuti i oduzeti vozačka dozvola.
+
+(4) Vozaču koji je u razdoblju od dvije godine prikupio 12 negativnih prekršajnih bodova rješenjem će se ukinuti i oduzeti vozačka dozvola.
+
+(5) Mladom vozaču koji je u razdoblju od dvije godine prikupio devet negativnih prekršajnih bodova i vozaču koji je u razdoblju od dvije godine prikupio 12 negativnih prekršajnih bodova, a kojem je vozačka dozvola istekla, rješenjem će se odrediti da ne može podnijeti zahtjev za produljenje vozačke dozvole na rok od dvije godine, a zahtjev podnesen u roku od dvije godine će se rješenjem odbaciti.
+
+(6) Mladom vozaču koji je u razdoblju od dvije godine prikupio devet negativnih prekršajnih bodova i vozaču koji je u razdoblju od dvije godine prikupio 12 negativnih prekršajnih bodova, a vozačka dozvola je oduzeta ili prijavljena izgubljenom, rješenjem će se ukinuti vozačka dozvola.
+
+(7) Vozaču koji je prije stjecanja prava na upravljanje vozilom u razdoblju od dvije godine prikupio devet negativnih prekršajnih bodova rješenjem će se odrediti da ne može podnijeti zahtjev za izdavanje vozačke dozvole na rok od dvije godine, a zahtjev podnesen u roku od dvije godine će se rješenjem odbaciti.
+
+(8) Nakon što su negativni prekršajni bodovi uzeti u obzir za donošenje rješenja iz stavaka 3. do 7. ovoga članka brišu se iz evidencije.
+
+(9) Osoba iz stavaka 3. do 6. ovoga članka može ponovo polagati vozački ispit istekom roka od dvije godine od dana izvršnosti rješenja iz stavaka 3. do 6. ovoga članka, nakon provedenog postupka osposobljavanja kandidata za vozače.
+
+(10) Osoba iz stavka 9. ovoga članka koja upravlja motornim vozilom nakon izvršnosti rješenja iz stavaka 3. do 6. ovoga članka, a prije ponovnog stjecanja prava na samostalno upravljanje motornim vozilom, kaznit će se za prekršaj novčanom kaznom u iznosu od 10.000,00 do 20.000,00 kuna ili kaznom zatvora u trajanju do 60 dana.
+
+(11) Osoba iz stavka 7. ovoga članka koja upravlja motornim vozilom, a prije stjecanja prava na upravljanje vozilom, kaznit će se za prekršaj novčanom kaznom u iznosu od 10.000,00 do 20.000,00 kuna ili kaznom zatvora u trajanju do 60 dana.
+
+(12) Vozaču koji je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavaka 10. i 11. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(13) Protiv rješenja iz stavaka 3. do 7. ovoga članka ne može se podnijeti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 49.
+
+Članak 287. briše se.
+
+#### Članak 50.
+
+U članku 289. stavku 4. riječi: »u iznosu od 5.000,00 do 15.000,00« zamjenjuju se riječima: »u iznosu od 10.000,00 do 20.000,00«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Vozaču koji je proglašen krivim za prekršaj iz stavka 4. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(6) Vozaču motornog vozila se u evidenciju upisuje šest negativnih prekršajnih bodova ako je pravomoćnom odlukom o prekršaju proglašen krivim za prekršaj iz stavka 4. ovoga članka.«.
+
+#### Članak 51.
+
+Članak 296. mijenja se i glasi:
+
+»(1) O izrečenim zaštitnim mjerama, negativnim prekršajnim bodovima, mjerama upozorenja, prometnim nesrećama i njihovim posljedicama te o vozačima vozila i vozilima ministarstvo nadležno za unutarnje poslove vodi evidenciju.
+
+(2) Podaci o prekršajima i njihovim počiniteljima vode se na Informacijskom sustavu ministarstva nadležnog za unutarnje poslove i čuvaju se deset godina.
+
+(3) Podaci o prometnim nesrećama i drugim događajima u prometu na cestama vode se na Informacijskom sustavu ministarstva nadležnog za unutarnje poslove i čuvaju se 15 godina.
+
+(4) O podacima o prometnim nesrećama i drugim događajima u prometu na cestama, na zahtjev stranke, izdaje se potvrda.
+
+(5) Ministarstvo nadležno za unutarnje poslove omogućit će na svojim mrežnim stranicama provjeru statusa vozačke dozvole, postojanje izrečene zaštitne mjere zabrane upravljanja motornim vozilom, postojanje izrečene sigurnosne mjere zabrane upravljanja motornim vozilom i stanje negativnih prekršajnih bodova, elektroničkim putem temeljem serijskog broja vozačke dozvole.
+
+(6) Podacima iz evidencija iz stavka 1. do 3. ovoga članka mogu se koristiti pravosudna tijela, upravna tijela koja vode prekršajni postupak te ministarstvo nadležno za unutarnje poslove, a podacima o vozilima mogu se koristiti stručna organizacija iz članka 273. ovoga Zakona i stanice za tehnički pregled vozila ovlaštene za poslove registracije vozila.
+
+(7) Statističkim evidencijama o prometnim nesrećama te o vozačima i vozilima mogu se osim tijela iz stavka 6. ovoga članka koristiti i zdravstvene i druge institucije, organizacije i tijela koja se bave pitanjima sigurnosti prometa te pravne i fizičke osobe koje obavljaju javni prijevoz i prijevoz za vlastite potrebe te provode javne ovlasti na temelju ovoga Zakona.
+
+(8) Ministarstvo nadležno za unutarnje poslove dostavlja podatke o vozilima i vlasnicima vozila odnosno korisnicima vozila na temelju ugovora o leasingu nacionalnim kontakt-točkama drugih država članica Europske unije u svrhu istraživanja prometnih prekršaja vezanih uz sigurnost prometa na cestama.
+
+(9) Ministar nadležan za unutarnje poslove propisuje pravilnikom vrstu i način dostave podatka iz stavka 8. ovoga članka.«.
+
+#### Članak 52.
+
+U članku 297. stavak 1. mijenja se i glasi:
+
+»(1) Zaštitna mjera zabrane upravljanja motornim vozilom počinje teći od izvršnosti odluke o prekršaju.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Zaštitna mjera iz stavka 1. ovoga članka upisuje se u evidenciju.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 53.
+
+Ministar nadležan za unutarnje poslove uskladit će Pravilnik o načinu obavljanja i organiziranja vozačkih ispita te načinu izdavanja i oduzimanja dopuštenja ovlaštenom ispitivaču (»Narodne novine«, br. 141/11. i 151/13.) i Pravilnik o načinu evidentiranja i praćenja prekršaja u cestovnom prometu (»Narodne novine«, br. 156/08.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 54.
+
+Stručna organizacija iz članka 206. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka Ustavnog suda Republike Hrvatske, 92/14., 64/15. i 108/17.) dužna je uskladiti i organizirati svoju djelatnost i donijeti opće akte u roku od devet mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 55.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 4. ovoga Zakona koji stupa na snagu 1. siječnja 2020. te odredbi članka 216. stavka 1. točke 2. koji je izmijenjen člankom 37. stavkom 1. ovoga Zakona i članka 217. koji je izmijenjen člankom 38. ovoga Zakona, koji stupaju na snagu 23. svibnja 2020.
+
+Klasa: 022-03/19-01/56
+
+Zagreb, 12. srpnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o dopuni Zakona o sigurnosti prometa na cestama (NN 42/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/42/891*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNI ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o dopuni Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 7. travnja 2020.
+
+Klasa: 011-01/20-01/48
+
+Urbroj: 71-06-01/1-20-2
+
+Zagreb, 7. travnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNI ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15., 108/17. i 70/19.) iza članka 222. dodaje se članak 222.a koji glasi:
+
+»Članak 222.a
+
+(1) Osoba iz članka 222. ovoga Zakona, za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2, ne mora podnijeti zahtjev za produljenje roka važenja vozačke dozvole, a najdulje 30 dana od dana proglašenja prestanka epidemije.
+
+(2) Vozačka dozvola koja je izdana osobi iz stavka 1. ovoga članka smatra se valjanom do isteka roka iz stavka 1. ovoga članka.
+
+(3) Radnje u upravnom postupku koje su vozači dužni poduzeti u rokovima propisanim odredbama Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15., 108/17. i 70/19.) i Pravilnika o vozačkim dozvolama (»Narodne novine«, br. 2/19.), a čiji krajnji rok poduzimanja je bio počevši od 11. ožujka 2020. ili će biti za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2, stranke mogu poduzeti najdulje 30 dana od dana proglašenja prestanka epidemije.«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/55
+
+Zagreb, 7. travnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (NN 85/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/85/1288*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 15. srpnja 2022.
+
+Klasa: 011-02/22-02/69
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 19. srpnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+#### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15, 108/17., 70/19. i 42/20.) u članku 2. stavku 1. točka 9. mijenja se i glasi:
+
+»9) »nerazvrstana cesta« je cesta koja se koristi za promet po bilo kojoj osnovi, a koja nije razvrstana kao javna cesta po posebnom propisu i koja je dostupna većem broju raznih korisnika (ulice u naseljima, pristupne i spojne ceste, prostori parkirališta, benzinskih crpki i sl.),«.
+
+Točka 31. mijenja se i glasi:
+
+»31) »pčelarsko vozilo« je motorno ili priključno vozilo namijenjeno ili konstrukcijski prilagođeno za prijevoz pčelinjih zajednica (košnica), pčelinjih proizvoda, pomagala, pribora, opreme i materijala potrebnih za provedbu aktivnosti pčelarske proizvodnje te se na njemu ne smije prevoziti teret u druge svrhe, a koje je po posebnom propisu koji donosi ministar nadležan za poljoprivredu, uz prethodnu suglasnost ministra nadležnog za poslove prometa i ministra nadležnog za unutarnje poslove, razvrstano u kategoriju pčelarskih vozila,«.
+
+Točka 33. mijenja se i glasi:
+
+»33) »motorno vozilo« je svako vozilo koje se pokreće snagom vlastitog motora, osim vozila koja se kreću po tračnicama,«.
+
+U točki 102. na kraju rečenice umjesto točke stavlja se zarez te se dodaju točke 103., 104., 105., 106. i 107. koje glase:
+
+»103) »pomoćna pješačka sredstva« su naprave koje se pokreću isključivo snagom osobe koja upravlja tim sredstvom (romobili bez motornog ili električnog pogona, dječji bicikl, koturaljke, role, sanjke, skije, klizaljke i sl.),
+
+104) »osobno prijevozno sredstvo« je vozilo koje nije razvrstano ni u jednu kategoriju vozila sukladno posebnim propisima, bez sjedećeg mjesta, čiji radni obujam motora nije veći od 25 cm³ ili čija trajna snaga elektromotora nije jača od 0,6 kW i koje na ravnoj cesti ne može razviti brzinu veću od 25 km/h, odnosno čija najveća konstrukcijska brzina ne prelazi 25 km/h (vozilo koje se može samo uravnotežiti, monocikl s motornim ili električnim pogonom, romobil s motornim ili električnim pogonom i sl.),
+
+105) »jahač« je osoba koja jašući na jahaćoj životinji (konj i sl.) sudjeluje u prometu na cesti,
+
+106) »zona prometa u zaštićenoj kulturno-povijesnoj cjelini i kontaktnoj zoni« je kulturno-povijesna cjelina te područje koje okružuje kulturno dobro, a koje kulturno dobro je upisano u Listu svjetske baštine ili u Listu ugrožene svjetske baštine i za koje se određuju mjere radi osiguranja zaštite vrijednosti kulturnog dobra prema propisu kojim se uređuje zaštita i očuvanje kulturnih dobara te u kojoj se skupno ograničava ulaz u zonu te uređuju načini i uvjeti ulaza, prometovanja i izlaza vozila,
+
+107) »automatizirano vozilo« je vozilo koje koristi hardver i softver za kontinuiranu potpunu dinamičku kontrolu vozila (potpuno automatizirano vozilo bez upravljača).«.
+
+#### Članak 2.
+
+U članku 5. stavku 1. točka 5. mijenja se i glasi:
+
+»5. promet pješaka, vozača bicikla, vozača osobnih prijevoznih sredstava, vozača mopeda, turističkog vlaka i zaprežnih kola, jahača te gonjenje i vođenje stoke,«.
+
+U točki 10. riječ: »biciklista« zamjenjuje se riječima: »vozača bicikla«.
+
+U točki 13. na kraju rečenice umjesto točke stavlja se zarez te se dodaje točka 14. koja glasi:
+
+»14. uvjete ulaza, prometovanja i izlaza vozila iz zone prometa u zaštićenoj kulturno-povijesnoj cjelini i kontaktnoj zoni.«.
+
+U stavku 2. iza riječi: »za poslove prometa« umjesto točke stavlja se zarez te se dodaju riječi: »a kada se uređuju uvjeti za ulaz, prometovanje i izlaz vozila iz zone prometa u zaštićenoj kulturno-povijesnoj cjelini i kontaktnoj zoni, potrebna je i suglasnost ministarstva nadležnog za poslove kulture.«.
+
+U stavku 6. riječ: »središnjeg« briše se.
+
+#### Članak 3.
+
+U članku 40. stavku 8. riječi: »stavka 6.« zamjenjuju se riječima: »stavka 7.«.
+
+#### Članak 4.
+
+U članku 51. stavak 1. mijenja se i glasi:
+
+»(1) Vozač je dužan brzinu kretanja vozila prilagoditi osobinama i stanju ceste, odnosno druge površine kojom se kreće te vidljivosti, preglednosti, atmosferskim prilikama, stanju vozila i tereta, kao i gustoći prometa tako da vozilo može pravodobno zaustaviti pred svakom zaprekom koju, u konkretnim uvjetima, može predvidjeti, odnosno da može pravodobno postupiti prema prometnom pravilu ili znaku.«.
+
+U stavku 4. riječi: »40 km« zamjenjuju se riječima: »30 km«.
+
+U stavku 5. riječi: »u iznosu od 500,00« zamjenjuju se riječima: »u iznosu od 1.000,00«.
+
+#### Članak 5.
+
+U članku 57. stavku 6. iza riječi: »bicikle« dodaju se riječi: »i osobna prijevozna sredstva«.
+
+#### Članak 6.
+
+U članku 82. stavku 1. točki 11. iza riječi: »javnim prolazima i prilazima« dodaju se riječi: »te na punionicama za vozila na električni pogon, osim za vrijeme punjenja vozila električnom energijom«.
+
+#### Članak 7.
+
+U članku 84. stavku 1. točki 8. iza riječi: »nadzemnog hidranta« dodaju se riječi: »te na punionicama za vozila na električni pogon, osim za vrijeme punjenja vozila električnom energijom«.
+
+#### Članak 8.
+
+U članku 86. stavak 1. mijenja se i glasi:
+
+»(1) Troškove premještanja ili pokušaja premještanja vozila u slučajevima iz članka 84. ovoga Zakona snosi vlasnik, odnosno korisnik vozila.«.
+
+U stavku 2. iza riječi: »troškova premještanja« dodaju se riječi: »ili pokušaja premještanja«.
+
+#### Članak 9.
+
+U članku 93. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Osobnim prijevoznim sredstvom ne smije se vući prikolicu ili neko drugo vozilo ili prijevozno sredstvo.«.
+
+Dosadašnji stavak 2., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač bicikla, mopeda i osobnog prijevoznog sredstva ako postupi suprotno odredbama ovoga članka.«.
+
+#### Članak 10.
+
+U članku 101. stavku 2. iza riječi: »na biciklu« dodaju se riječi: »i osobnom prijevoznom sredstvu«.
+
+#### Članak 11.
+
+U članku 105. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Jahač koji sudjeluje u prometu na cesti dužan je noću uvijek, a i danju u slučaju smanjene vidljivosti biti označen reflektirajućim prslukom ili reflektirajućom odjećom ili drugom reflektirajućom oznakom.«.
+
+Dosadašnji stavak 2., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj pješak, jahač, odnosno vodič ili gonič stoke ako postupe suprotno odredbi ovoga članka.«.
+
+#### Članak 12.
+
+Naziv poglavlja 19. mijenja se i glasi:
+
+»19. PROMET BICIKALA, MOPEDA, MOTOCIKALA I OSOBNIH PRIJEVOZNIH SREDSTAVA«.
+
+#### Članak 13.
+
+Članak 112. mijenja se i glasi:
+
+»(1) Vozači bicikla dužni su kretati se biciklističkom stazom ili biciklističkom trakom u smjeru kretanja, a ako one ne postoje, što bliže desnom rubu kolnika.
+
+(2) Vozači osobnih prijevoznih sredstava dužni su kretati se biciklističkom stazom ili biciklističkom trakom u smjeru kretanja.
+
+(3) Iznimno od odredbe stavka 2. ovoga članka, ako biciklistička staza ili biciklistička traka ne postoji, vozači osobnih prijevoznih sredstava mogu se kretati po površinama namijenjenim za kretanje pješaka te zonama smirenog prometa, pod uvjetom da vode računa o sigurnosti drugih sudionika u prometu.
+
+(4) Kada ne postoji mogućnost kretanja osobnih prijevoznih sredstava sukladno odredbama stavaka 2. i 3. ovoga članka (navedene površine nisu izgrađene, označene ili se ne mogu koristiti i sl.), osobna prijevozna sredstva mogu se kretati dionicama županijskih, lokalnih i nerazvrstanih cesta na kojima je brzina kretanja ograničena na 50 km/h ili manje i gdje je to dopušteno postavljenim prometnim znakom, krećući se što bliže desnom rubu kolnika.
+
+(5) Pravna osoba koja upravlja cestama iz stavka 4. ovoga članka dužna je za dionice tih cesta na kojima je brzina kretanja ograničena na 50 km/h ili manje i gdje je to dopušteno postavljenim prometnim znakom ishoditi prethodnu suglasnost ministarstva nadležnog za unutarnje poslove.
+
+(6) Vozač bicikla i osobnog prijevoznog sredstva koji se kreće biciklističkom stazom dužan je pri prelasku kolnika obratiti pažnju na udaljenost i brzinu vozila koja mu se približavaju te kolnik prelaziti nakon što se uvjeri da to može učiniti na siguran način.
+
+(7) Vozač bicikla i osobnog prijevoznog sredstva koji se kreće biciklističkom stazom dužan je prije stupanja na kolnik ceste koju namjerava prijeći, kada biciklistička staza preko kolnika nije označena, zaustaviti bicikl ili osobno prijevozno sredstvo i gurati ga kao pješak preko obilježenog pješačkog prijelaza ili kolnika ceste.
+
+(8) Ako se dva ili više vozača bicikala, osobnih prijevoznih sredstava, mopeda ili motocikala kreću u skupini, dužni su kretati se jedan iza drugoga.
+
+(9) Vozač odnosno vlasnik vozila ne smije ostaviti osobno prijevozno sredstvo bez nadzora na prometnim površinama za kretanje vozila i pješaka, osim na za to posebno uređenim i označenim mjestima.
+
+(10) Prometnim površinama za kretanje vozila i pješaka zabranjeno je kretanje vozilom koje se može samo uravnotežiti, monociklom s motornim ili električnim pogonom, romobilom s motornim ili električnim pogonom i sl., koje sukladno odredbama ovoga Zakona ne spada u osobno prijevozno sredstvo i nije razvrstano ni u jednu kategoriju vozila sukladno posebnim propisima.
+
+(11) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako ostavi osobno prijevozno sredstvo bez nadzora suprotno odredbi stavka 9. ovoga članka.
+
+(12) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna ili fizička osoba obrtnik ako omogući da vozač sudjeluje u prometu vozilom, koje sukladno odredbama ovoga Zakona ne spada u osobno prijevozno sredstvo i nije razvrstano ni u jednu kategoriju vozila sukladno posebnim propisima, na prometnim površinama za kretanje vozila i pješaka suprotno odredbi stavka 10. ovoga članka.
+
+(13) Za prekršaj iz stavaka 9. i 10. ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna i odgovorna osoba u pravnoj osobi ili tijelu jedinice lokalne i područne (regionalne) samouprave.
+
+(14) Novčanom kaznom u iznosu od 1.000,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbama stavaka 3., 4., 6., 7., 9. i 10. ovoga članka.
+
+(15) Novčanom kaznom u iznosu od 500,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbama stavaka 1., 2. i 8. ovoga članka.«.
+
+#### Članak 14.
+
+U članku 113. stavku 1. iza riječi: »Vozač bicikla,« dodaju se riječi: »osobnog prijevoznog sredstva,«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Vozač bicikla i osobnog prijevoznog sredstva koji sudjeluju u prometu dužni su noću uvijek, a i danju u slučaju smanjene vidljivosti biti označeni reflektirajućim prslukom ili reflektirajućom odjećom ili drugom reflektirajućom oznakom.«.
+
+#### Članak 15.
+
+U članku 114. stavku 1. iza riječi: »mlađi od 16 godina« dodaju se riječi: » kao i osobe koje se prevoze na biciklu mlađe od 16 godina«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Zaštitnu kacigu za vrijeme vožnje na glavi moraju nositi vozači osobnih prijevoznih sredstava.«
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+Dosadašnji stavak 3., koji postaje stavak 4., mijenja se i glasi:
+
+»(4) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač bicikla, kao i osobe koje se prevoze na biciklu te vozač osobnog prijevoznog sredstva ako postupe suprotno odredbi stavaka 1. i 2 ovoga članka.«.
+
+#### Članak 16.
+
+U članku 120. ispred riječi: »Stoku« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2., 3., 4. i 5. koji glase:
+
+»(2) U prometu na cesti jašući na jahaćoj životinji smije sudjelovati osoba koja je navršila 16 godina.
+
+(3) Jašući na jahaćoj životinji jahač se mora kretati što je moguće bliže desnom rubu ceste.
+
+(4) Kada se cestom kreće više jahača, dužni su kretati se jedan iza drugog.
+
+(5) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj osoba koja postupi suprotno odredbama ovoga članka.«.
+
+#### Članak 17.
+
+U članku 124. stavak 2. mijenja se i glasi:
+
+»(2) Na kolniku je zabranjeno igranje i/ili vožnja pomoćnim pješačkim sredstvima.«.
+
+#### Članak 18.
+
+U članku 128. stavku 1. iza riječi: »bicikl,« dodaju se riječi: »pomoćno pješačko sredstvo, osobno prijevozno sredstvo,«.
+
+#### Članak 19.
+
+U članku 139. stavku 1. iza riječi: »bicikli« stavlja se zarez i dodaju se riječi: »osobna prijevozna sredstva, jahači«.
+
+#### Članak 20.
+
+U članku 151. stavak 1. mijenja se i glasi:
+
+»(1) Osobni automobili kojima se koriste suci i državni odvjetnici za obavljanje očevida povodom kaznenih djela, službena vozila inspektora cestovnog prometa, vozila Kriznog stožera ministarstva nadležnog za zdravstvo, vozila gorskih službi spašavanja, interventna vozila Hrvatskog Crvenog križa, vozila mobilne jedinice veterinarske inspekcije te vozila ministarstva nadležnog za poslove pravosuđa kojima se prevoze uhićene ili osuđene osobe i vozila hitne medicinske intervencije u razminiranju, kad posebnim uređajima daju svjetlosne i zvučne znakove, imaju prednost prolaska u odnosu na sva druga vozila, osim vozila pod pratnjom i vozila iz članka 149. stavaka 1. i 3. ovoga Zakona i na njih se, uz uvjet iz članka 149. stavka 2. ovoga Zakona, ne primjenjuju odredbe ovoga Zakona o ograničenju brzine (članci 52. – 55.) te o zaustavljanju i parkiranju (članak 79. stavak 1., članak 80. stavci 1. i 3., članak 82. stavak 1. točke 5., 9., 10. i 11., članak 83. stavak 1. i članak 12. stavak 4.).«.
+
+#### Članak 21.
+
+Članak 152. mijenja se i glasi:
+
+»(1) Da bi omogućili prolaz vozilima iz članaka 148., 149. i 151. ovoga Zakona, pješaci su dužni skloniti se, a vozači drugih vozila propustiti ih i prema potrebi zaustaviti svoje vozilo dok ta vozila ne prođu tako da se:
+
+1. na cesti koja ima dvije kolničke trake s po jednom prometnom trakom vozila u prometnoj traci pomiču udesno u smjeru kretanja,
+
+2. na cesti koja ima kolničku traku s jednom prometnom trakom vozila u prometnoj traci pomiču udesno u smjeru kretanja,
+
+3. na cesti koja ima kolničku traku s dvije prometne trake vozila u lijevoj prometnoj traci pomiču ulijevo, a u desnoj prometnoj traci udesno,
+
+4. na cesti koja ima kolničku traku s tri i više prometnih traka vozila u lijevoj prometnoj traci pomiču ulijevo, a u ostalim prometnim trakama pomiču udesno.
+
+(2) Novčanom kaznom u iznosu od 500,00 kuna kaznit će se za prekršaj vozač ako postupi suprotno odredbama ovoga članka.
+
+(3) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj pješak ako postupi suprotno odredbama ovoga članka.«.
+
+#### Članak 22.
+
+U članku 158. stavku 1. iza riječi: »dozvoli« stavlja se zarez te se dodaju riječi: »osim na osobnom prijevoznom sredstvu kojim se smije prevoziti samo osoba koja upravlja tim vozilom«.
+
+#### Članak 23.
+
+U članku 196. stavku 4. iza riječi: »bez upotrebe ruke« stavlja se zarez te se dodaju riječi: »a vozač bicikla i osobnog prijevoznog sredstva ne smije upravljati vozilom koristeći slušalice na ili u oba uha čime bi umanjio mogućnost reagiranja i sigurnog upravljanja vozilom«.
+
+U stavku 7. riječi: »stavaka 3. i 4.« mijenjaju se i glase: »stavka 3.«
+
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač bicikla i osobnog prijevoznog sredstva koji postupi suprotno odredbama stavka 4. ovoga članka.«.
+
+#### Članak 24.
+
+U članku 197. ispred riječi: »Vozač« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Vozač je za vrijeme upravljanja vozilom dužan sjediti na vozačkom sjedalu i upravljati vozilom, osim u slučaju potpuno automatiziranog vozila.
+
+(3) Novčanom kaznom u iznosu od 3.000,00 do 7.000,00 kuna kaznit će se za prekršaj vozač koji postupi suprotno odredbi stavka 2. ovoga članka.«.
+
+#### Članak 25.
+
+U članku 199. stavku 10. riječi: »vozač bicikla i zaprežnog vozila« zamjenjuju se riječima: »vozač bicikla, osobnog prijevoznog sredstva i zaprežnog vozila te jahač«.
+
+#### Članak 26.
+
+U članku 203. stavku 1. ispred riječi: »stručni studij« dodaje se riječ: »preddiplomski«, a riječi: »prometnog smjera (cestovnog)« zamjenjuju se riječima: »prometnog smjera (cestovnog ili gradskog)«.
+
+U stavku 2. ispred riječi: »stručni studij« dodaje se riječ: »preddiplomski«, a riječi: »prometnog smjera (cestovnog)« zamjenjuju se riječima: »prometnog smjera (cestovnog ili gradskog)«.
+
+Iza stavka 6. dodaje se novi stavak 7. koji glasi:
+
+»(7) Tijekom provedbe vozačkog ispita iz nastavnog predmeta Upravljanje vozilom ovlašteni ispitivač dužan je imati kod sebe vozačku dozvolu, dozvolu instruktora vožnje za one kategorije za koje provodi vozački ispit iz nastavnog predmeta Upravljanje vozilom te dozvolu ovlaštenog ispitivača i dužan ih je pokazati na zahtjev policijskog službenika i ovlaštenog nadzornika.«.
+
+Dosadašnji stavak 7. postaje stavak 8.
+
+Dosadašnji stavak 8., koji postaje stavak 9., mijenja se i glasi:
+
+»(9) Osobama iz ovoga članka rješenjem će se odbiti zahtjev za izdavanje odnosno ukinut će se dozvole za obavljanje poslova propisanih ovim člankom ako su pravomoćno osuđene za kaznena djela protiv života i tijela, protiv čovječnosti i ljudskog dostojanstva, protiv Republike Hrvatske, protiv strane države ili međunarodne organizacije, protiv spolne slobode, spolnog zlostavljanja i iskorištavanja djeteta, protiv osobne slobode, protiv opće sigurnosti, protiv zdravlja ljudi, protiv imovine i protiv sigurnosti prometa, protiv gospodarstva, krivotvorenja, protiv javnog reda, protiv službene dužnosti, koja se progone po službenoj dužnosti, odnosno ako su pravomoćno osuđene na kaznu zatvora za prekršaje iz ovoga Zakona.«.
+
+Iza stavka 9. dodaje se novi stavak 10. koji glasi:
+
+»(10) Protiv rješenja iz stavka 9. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.«.
+
+Dosadašnji stavci 9., 10. i 11. postaju stavci 11., 12. i 13.
+
+U dosadašnjem stavku 12., koji postaje stavak 14., iza riječi: »na zahtjev ovlaštene osobe« dodaju se riječi: »te ovlašteni ispitivač ako nema kod sebe dozvolu instruktora vožnje, vozačku dozvolu i dozvolu ovlaštenog ispitivača ili ih ne pokaže na zahtjev ovlaštene osobe«.
+
+#### Članak 27.
+
+U članku 206. stavku 7. riječi: »(cestovnog)« zamjenjuju se riječima: »(cestovnog ili gradskog)«.
+
+Stavak 9. mijenja se i glasi:
+
+»(9) Osoba iz stavka 7. ovoga članka ne može obavljati poslove stručnog nadzora ako je pravomoćno osuđena za kaznena djela protiv života i tijela, protiv čovječnosti i ljudskog dostojanstva, protiv Republike Hrvatske, protiv strane države ili međunarodne organizacije, protiv spolne slobode, spolnog zlostavljanja i iskorištavanja djeteta, protiv osobne slobode, protiv opće sigurnosti, protiv zdravlja ljudi, protiv imovine i protiv sigurnosti prometa, protiv gospodarstva, krivotvorenja, protiv javnog reda, protiv službene dužnosti, koja se progone po službenoj dužnosti, odnosno ako je pravomoćno osuđena na kaznu zatvora za prekršaje iz ovoga Zakona.«.
+
+#### Članak 28.
+
+U članku 208. stavak 3. mijenja se i glasi:
+
+»(3) Osobama iz stavka 2. ovoga članka rješenjem će se odbiti zahtjev za izdavanje odnosno ukinut će se dozvola za obavljanje poslova propisanih ovim člankom ako su pravomoćno osuđene za kaznena djela protiv života i tijela, protiv čovječnosti i ljudskog dostojanstva, protiv Republike Hrvatske, protiv strane države ili međunarodne organizacije, protiv spolne slobode, spolnog zlostavljanja i iskorištavanja djeteta, protiv osobne slobode, protiv opće sigurnosti ljudi, protiv zdravlja ljudi, protiv imovine i protiv sigurnosti prometa, protiv gospodarstva, krivotvorenja, protiv javnog reda, protiv službene dužnosti, koja se progone po službenoj dužnosti, odnosno ako su pravomoćno osuđene na kaznu zatvora za prekršaje iz ovoga Zakona.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Protiv rješenja iz stavka 3. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.«.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., riječ: »(cestovnog)« zamjenjuje se riječima: »(cestovnog ili gradskog)«.
+
+Dosadašnji stavci 5., 6. i 7. postaju stavci 6., 7. i 8.
+
+U dosadašnjem stavku 8., koji postaje stavak 9., riječi: »iz stavka 6.« zamjenjuju se riječima: »iz stavka 7.«.
+
+Dosadašnji stavci 9., 10., 11., 12. i 13. postaju stavci 10., 11., 12., 13. i 14.
+
+#### Članak 29.
+
+U članku 211. stavku 4. riječi: »stavka 10.« zamjenjuju se riječima: »stavka 12.«.
+
+#### Članak 30.
+
+U članku 215. stavak 1. mijenja se i glasi:
+
+»(1) Biciklom i osobnim prijevoznim sredstvom u prometu smije upravljati osoba koja je navršila 14 godina.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Zaprežnim vozilom smije upravljati državnom i županijskom cestom osoba koja je navršila 16 godina, a na ostalim cestama osoba koja je navršila 14 godina.«.
+
+#### Članak 31.
+
+U članku 219. stavku 2. točki f) na kraju rečenice umjesto točke stavlja se zarez te se dodaje točka g) koja glasi:
+
+»g) vozačke dozvole izdane za kategoriju B vrijede za motorne tricikle, a iznimno motornim triciklima snage veće od 15 kW smije upravljati vozač kojem je izdana vozačka dozvola kategorije B i koji je navršio 21 godinu.«.
+
+#### Članak 32.
+
+U članku 220. ispred riječi: »Nijedna« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Ako je osobi izdano više od jedne vozačke dozvole, policijska uprava, odnosno policijska postaja rješenjem će ukinuti i oduzeti, odnosno oduzeti prije izdane vozačke dozvole.
+
+(3) Protiv rješenja iz stavka 2. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.«.
+
+#### Članak 33.
+
+U članku 222. stavak 1. mijenja se i glasi:
+
+»(1) Vozačka dozvola izdat će se na zahtjev osobe koja je položila vozački ispit za upravljanje vozilom određene kategorije i ako udovoljava uvjetima iz ovoga Zakona.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Iznimno od odredbi stavaka 2., 3. i 4. ovoga članka, vozačka dozvola izdaje se s kraćim rokom važenja ako je uvjerenjem o zdravstvenom pregledu vozača utvrđena zdravstvena sposobnost na kraći rok, a prilikom produljenja vozačke dozvole vozač je dužan podvrgnuti se zdravstvenom pregledu za vozača.«.
+
+#### Članak 34.
+
+U članku 229. stavak 3. mijenja se i glasi:
+
+»(3) Vlasnik vozila odnosno korisnik dužan je, na zahtjev policijskog službenika ili službene osobe jedinice lokalne samouprave koja obavlja poslove iz članka 5. stavka 4. ovoga Zakona, dati vjerodostojan podatak o osobi koja je upravljala vozilom u vrijeme počinjenja prekršaja, a pritom se dostava podataka o više osoba koje su upravljale vozilom u vrijeme počinjenja prekršaja ne smatra dostavom vjerodostojnih podataka o identitetu osobe kojoj je dao vozilo na upravljanje.«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj vlasnik vozila ili odgovorna osoba u pravnoj osobi odnosno korisnik vozila ako, u roku od 15 dana, ne da vjerodostojan podatak o osobi koja je upravljala vozilom u vrijeme počinjenja prekršaja.«.
+
+Stavak 8. mijenja se i glasi:
+
+»(8) Vozaču za kojeg se utvrdi osnovana sumnja u počinjenje prekršaja iz članka 49. stavka 5., članka 53. stavka 3., članka 59. stavka 6., članka 181. stavka 8., članka 199. stavaka 8. i 9., članka 216. stavka 3., članka 282. stavka 9., članka 286. stavaka 12. i 13. ili članka 289. stavka 4. ovoga Zakona privremeno će se oduzeti vozilo kojim je upravljao, do donošenja odluke o prekršaju, ako je već najmanje dva puta pravomoćno kažnjen za prekršaje navedene u ovom stavku.«.
+
+#### Članak 35.
+
+U članku 231. stavak 4. mijenja se i glasi:
+
+»(4) Na izvanredni nadzorni zdravstveni pregled uputit će se vozač i instruktor vožnje kod kojih je utvrđen udio alkohola u krvi viši od 1,50 g/kg, odnosno odgovarajući iznos miligrama u litri izdahnutog zraka ili je utvrđeno da su upravljali vozilom pod utjecajem droga ili lijekova, kao i vozač i instruktor vožnje koji se odbiju podvrgnuti ispitivanju imaju li u organizmu alkohola, droga ili lijekova koji utječu na psihofizičke sposobnosti i na sposobnosti upravljanja vozilima, nakon pravomoćnosti odluke o prekršaju ili su najmanje tri puta pravomoćno kažnjeni zbog upravljanja vozilom s nedopuštenom količinom alkohola u krvi, odnosno odgovarajućim iznosom miligrama u litri izdahnutog zraka.«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Na izvanredni nadzorni zdravstveni pregled vozača upućuje policijska uprava, odnosno policijska postaja prema mjestu prebivališta, boravišta, uobičajenog prebivališta, školovanja, odnosno privremenog ili stalnog boravka vozača.«.
+
+Stavak 10. briše se.
+
+#### Članak 36.
+
+U članku 232. stavak 3. mijenja se i glasi:
+
+»(3) Ako se na izvanrednom nadzornom zdravstvenom pregledu utvrdi da nije promijenjena zdravstvena sposobnost vozača za upravljanje motornim vozilom, naknadu za pregled plaća policijska uprava, odnosno policijska postaja koja ga je uputila na pregled.«.
+
+#### Članak 37.
+
+Članak 233. mijenja se i glasi:
+
+»(1) Ako se na nadzornom zdravstvenom pregledu utvrdi da vozač više nije sposoban sigurno upravljati vozilom za koje mu je izdana vozačka dozvola, zdravstvene ustanove dužne su izdati uvjerenje i dostaviti ga u roku od osam dana policijskoj upravi, odnosno policijskoj postaji koja je vozača uputila na pregled, prema mjestu prebivališta, boravišta, uobičajenog prebivališta, školovanja, odnosno privremenog ili stalnog boravka vozača.
+
+(2) Ako se na zdravstvenom pregledu utvrdi da kandidat za vozača nije duševno ili tjelesno sposoban za upravljanje vozilima, zdravstvene ustanove, trgovačka društva koja obavljaju djelatnost medicine rada i specijalisti medicine rada u privatnoj praksi koji su obavili pregled dužni su u roku od osam dana o tome obavijestiti policijsku upravu, odnosno policijsku postaju prema mjestu prebivališta, boravišta, uobičajenog prebivališta, školovanja, odnosno privremenog ili stalnog boravka kandidata za vozača.
+
+(3) Ako se na zdravstvenom pregledu ili tijekom liječenja, u skladu s pravilnikom kojim se propisuju zdravstveni pregledi vozača i kandidata za vozače, utvrdi zdravstveno stanje zbog kojeg vozač nije više sposoban sigurno upravljati vozilom, liječnik koji je obavio pregled ili je liječio vozača te izabrani liječnik dužni su, uz upozorenje vozaču, o tome obavijestiti policijsku upravu ili postaju prema mjestu prebivališta, boravišta, uobičajenog prebivališta, školovanja, odnosno privremenog ili stalnog boravka vozača.
+
+(4) Upozorenje vozaču i obavijest policijskoj upravi ili postaji iz stavka 3. ovoga članka evidentira se i dostavlja putem Centralnog zdravstvenog informacijskog sustava Republike Hrvatske, odnosno na obrascu Izvješća o promjeni zdravstvenog stanja ili tijeku liječenja vozača prema pravilniku kojim se propisuju zdravstveni pregledi vozača i kandidata za vozače.
+
+(5) Ako se na zdravstvenom pregledu ili tijekom liječenja, u skladu s pravilnikom kojim se propisuju zdravstveni pregledi vozača i kandidata za vozače, utvrdi zdravstveno stanje zbog kojeg vozač nije više sposoban upravljati vozilom, privremeno, a najduže na šest mjeseci, liječnik koji je obavio pregled ili je liječio vozača te izabrani liječnik dužni su o tome upozoriti vozača, a dano upozorenje evidentirati u medicinskoj dokumentaciji.
+
+(6) Vozač kojemu je utvrđena privremena nesposobnost za sigurno upravljanje vozilom neće se po završetku privremene nesposobnosti ponovno upućivati na pregled.
+
+(7) Novčanom kaznom u iznosu od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj pravna osoba ako postupi suprotno odredbama ovoga članka.
+
+(8) Za prekršaj iz ovoga članka kaznit će se novčanom kaznom od 1.500,00 do 5.000,00 kuna fizička osoba i odgovorna osoba u pravnoj osobi i u tijelu državne vlasti ili tijelu jedinice lokalne (područne) samouprave.«.
+
+#### Članak 38.
+
+Članak 234. mijenja se i glasi:
+
+»(1) Zdravstvenu sposobnost vozača i kandidata za vozače koji nisu zadovoljni ocjenom zdravstvene ustanove u kojoj su pregledani te vozača i kandidata za vozače čija je zdravstvena sposobnost različito ocijenjena u jednoj ili više zdravstvenih ustanova utvrđuje liječničkim pregledom drugostupanjsko zdravstveno povjerenstvo.
+
+(2) Drugostupanjsko zdravstveno povjerenstvo iz stavka 1. ovoga članka i visinu naknade za rad članova povjerenstva odlukom utvrđuje ministar nadležan za zdravstvo.
+
+(3) Kandidata za vozača ili vozača, kojem je izdano uvjerenje da je duševno i tjelesno sposoban za upravljanje vozilima, a za kojeg se opravdano sumnja da zbog zdravstvenih razloga nije sposoban za vozača, policijska uprava, odnosno policijska postaja uputit će na zdravstveni pregled povjerenstvu iz stavka 1. ovoga članka.
+
+(4) Zdravstvenu sposobnost vozača koji nije zadovoljan utvrđenim zdravstvenim stanjem od strane liječnika koji je obavio pregled ili je liječio vozača te izabranog liječnika, zbog kojeg privremeno nije sposoban sigurno upravljati vozilom, utvrđuju redovitim nadzornim zdravstvenim pregledom zdravstvene ustanove i trgovačka društva koja obavljaju djelatnost medicine rada i specijalisti medicine rada u privatnoj praksi.
+
+(5) Naknadu za zdravstvene preglede iz stavka 1. ovoga članka plaća vozač, odnosno kandidat koji se osposobljava za vozača.
+
+(6) Naknadu za zdravstveni pregled iz stavka 3. ovoga članka plaća kandidat za vozača ako se utvrdi da nije sposoban za upravljanje vozilom.
+
+(7) Ako se utvrdi da je kandidat za vozača sposoban za upravljanje vozilom, naknadu plaća policijska uprava, odnosno policijska postaja koja ga je uputila na pregled.
+
+(8) Naknadu za zdravstveni pregled iz stavka 4. ovoga članka plaća vozač.«.
+
+#### Članak 39.
+
+U članku 236. iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Novčanom kaznom u iznosu od 300,00 kuna kaznit će se za prekršaj vozač koji u prometu na cesti upravlja vozilom koje nema kutiju prve pomoći sukladnu pravilniku kojim se propisuju tehnički uvjeti vozila u prometu na cestama.«.
+
+#### Članak 40.
+
+U članku 240. stavku 1. iza riječi: »nadogradnje« stavlja se zarez te se dodaju riječi: »mjesta obavljanja tehničkog pregleda i registracije vozila«.
+
+#### Članak 41.
+
+U članku 243. točka 5) briše se.
+
+Dosadašnje točke 6) i 7) postaju točke 5) i 6).
+
+Dosadašnja točka 8) briše se.
+
+Dosadašnja točka 9) postaje točka 7).
+
+#### Članak 42.
+
+Članak 253. briše se.
+
+#### Članak 43.
+
+U članku 254. stavak 3. mijenja se i glasi:
+
+»(3) Osobama iz stavka 2. ovoga članka neće se izdati, odnosno ukinut će se dopuštenje (licencija) za obavljanje poslova propisanih ovim člankom ako su pravomoćno osuđene za kaznena djela protiv života i tijela, protiv čovječnosti i ljudskog dostojanstva, protiv Republike Hrvatske, protiv strane države ili međunarodne organizacije, protiv spolne slobode, spolnog zlostavljanja i iskorištavanja djeteta, protiv osobne slobode, protiv opće sigurnosti, protiv zdravlja ljudi, protiv imovine i protiv sigurnosti prometa, protiv gospodarstva, krivotvorenja, protiv javnog reda, protiv službene dužnosti, koja se progone po službenoj dužnosti, odnosno ako su pravomoćno osuđene na kaznu zatvora za prekršaje iz ovoga Zakona.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Protiv rješenja iz stavka 3. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.«.
+
+Dosadašnji stavci 4., 5. i 6. postaju stavci 5., 6. i 7.
+
+#### Članak 44.
+
+U članku 260. stavku 2. ispred riječi: »stručni studij« dodaje se riječ: »preddiplomski«, a riječi: »prometnog smjera (cestovnog)« zamjenjuju se riječima: »prometnog smjera (cestovnog ili gradskog)«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Osobama iz ovoga članka rješenjem će se odbiti zahtjev za izdavanje, odnosno ukinut će se dopuštenje za obavljanje poslova propisanih ovim člankom ako su pravomoćno osuđene za kaznena djela protiv života i tijela, protiv čovječnosti i ljudskog dostojanstva, protiv Republike Hrvatske, protiv strane države ili međunarodne organizacije, protiv spolne slobode, spolnog zlostavljanja i iskorištavanja djeteta, protiv osobne slobode, protiv opće sigurnosti, protiv zdravlja ljudi, protiv imovine i protiv sigurnosti prometa, protiv gospodarstva, krivotvorenja, protiv javnog reda, protiv službene dužnosti, koja se progone po službenoj dužnosti, odnosno ako su pravomoćno osuđene za prekršaje iz ovoga Zakona za koje je propisana kazna zatvora.«.
+
+Iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Protiv rješenja iz stavka 5. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+#### Članak 45.
+
+U članku 278. stavku 1. riječi: »prometnog smjera (cestovnog)« zamjenjuju se riječima: »prometnog smjera (cestovnog ili gradskog)«.
+
+U stavku 2. ispred riječi: »stručni studij« dodaje se riječ: »preddiplomski«, a riječi: »prometnog smjera (cestovnog)« zamjenjuju se riječima: »prometnog smjera (cestovnog ili gradskog)«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Osobama iz ovoga članka rješenjem će se odbiti zahtjev za izdavanje dopuštenja (licencije) za obavljanje poslova propisanih ovim člankom ako su pravomoćno osuđene za kaznena djela protiv života i tijela, protiv čovječnosti i ljudskog dostojanstva, protiv Republike Hrvatske, protiv strane države ili međunarodne organizacije, protiv spolne slobode, spolnog zlostavljanja i iskorištavanja djeteta, protiv osobne slobode, protiv opće sigurnosti, protiv zdravlja ljudi, protiv imovine i protiv sigurnosti prometa, protiv gospodarstva, krivotvorenja, protiv javnog reda, protiv službene dužnosti, koja se progone po službenoj dužnosti, odnosno ako su pravomoćno osuđene za prekršaje iz ovoga Zakona za koje je propisana kazna zatvora.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Protiv rješenja iz stavka 3. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.«.
+
+Dosadašnji stavci 4., 5. i 6. postaju stavci 5., 6. i 7.
+
+#### Članak 46.
+
+U članku 284. stavak 2. mijenja se i glasi:
+
+»(2) Vozaču ili instruktoru vožnje koji ima pravo upravljati motornim vozilima više kategorija, a to mu pravo za pojedine kategorije bude ograničeno zbog razloga predviđenih u stavku 1. ovoga članka, policijska uprava, odnosno policijska postaja rješenjem će ukinuti i oduzeti vozačku dozvolu i izdat će se na njegov zahtjev nova vozačka dozvola u koju će se upisati one kategorije vozila kojima ima pravo upravljati.«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Protiv rješenja iz ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.«.
+
+#### Članak 47.
+
+U članku 285. stavku 1. točki 6. na kraju rečenice umjesto točke stavlja se zarez te se dodaje točka 7. koja glasi:
+
+»7) koji upravlja vozilom za vrijeme dok mu je od strane liječnika koji je obavio pregled ili je liječio vozača ili izabranog liječnika izdano upozorenje o privremenom zdravstvenom stanju zbog kojeg vozač nije više sposoban sigurno upravljati vozilom.«.
+
+#### Članak 48.
+
+Članak 286. mijenja se i glasi:
+
+»(1) Pravna posljedica pravomoćne osude vozača motornog vozila za određene prekršaje iz ovoga Zakona je upis negativnih prekršajnih bodova u evidenciju.
+
+(2) Negativni prekršajni bodovi iz stavka 1. ovoga članka brišu se iz evidencije nakon proteka dvije godine od dana pravomoćnosti odluke o prekršaju na temelju koje su upisani.
+
+(3) Mladom vozaču koji je u razdoblju od dvije godine prikupio devet negativnih prekršajnih bodova rješenjem će se ukinuti i oduzeti vozačka dozvola.
+
+(4) Vozaču koji je u razdoblju od dvije godine prikupio 12 negativnih prekršajnih bodova rješenjem će se ukinuti i oduzeti vozačka dozvola.
+
+(5) Mladom vozaču koji je u razdoblju od dvije godine prikupio devet negativnih prekršajnih bodova i vozaču koji je u razdoblju od dvije godine prikupio 12 negativnih prekršajnih bodova, a kojima je vozačka dozvola istekla, rješenjem će se odrediti da ne mogu podnijeti zahtjev za produljenje vozačke dozvole na rok od dvije godine, a zahtjev podnesen u roku od dvije godine rješenjem će se odbaciti.
+
+(6) Mladom vozaču koji je u razdoblju od dvije godine prikupio devet negativnih prekršajnih bodova i vozaču koji je u razdoblju od dvije godine prikupio 12 negativnih prekršajnih bodova, a vozačka dozvola im je oduzeta ili prijavljena izgubljenom, rješenjem će se ukinuti vozačka dozvola.
+
+(7) Vozaču koji je prije stjecanja prava na upravljanje vozilom u razdoblju od dvije godine prikupio devet negativnih prekršajnih bodova rješenjem će se odrediti da ne može podnijeti zahtjev za izdavanje vozačke dozvole na rok od dvije godine, a zahtjev podnesen u roku od dvije godine rješenjem će se odbaciti.
+
+(8) Vozaču koji je u razdoblju od dvije godine prikupio 12 negativnih prekršajnih bodova koristeći vozačku dozvolu izdanu u državi članici Europskog gospodarskog prostora ili inozemnu vozačku dozvolu izreći će se zaštitna mjera zabrane korištenja vozačke dozvole u trajanju od dvije godine.
+
+(9) Nakon što su negativni prekršajni bodovi uzeti u obzir za donošenje rješenja iz stavaka 3. do 7. ovoga članka i izricanje zaštitne mjere iz stavka 8. ovoga članka brišu se iz evidencije.
+
+(10) Osoba iz stavaka 3. do 7. ovoga članka prije podnošenja zahtjeva za izdavanje vozačke dozvole mora položiti vozački ispit, a može ga polagati istekom roka od dvije godine od dana izvršnosti rješenja iz stavaka 3. do 7. ovoga članka, nakon provedenog postupka osposobljavanja kandidata za vozače.
+
+(11) Osoba iz stavka 8. ovoga članka ne može podnijeti zahtjev za zamjenu vozačke dozvole izdane u državi članici Europskog gospodarskog prostora ili inozemne vozačke dozvole za hrvatsku vozačku dozvolu za vrijeme trajanja zaštitne mjere zabrane korištenja vozačke dozvole, a zahtjev podnesen za vrijeme trajanja zaštitne mjere rješenjem će se odbaciti.
+
+(12) Osoba iz stavaka 3. do 7. ovoga članka koja upravlja motornim vozilom nakon izvršnosti rješenja iz stavaka 3. do 6. ovoga članka, a prije ponovnog stjecanja prava na samostalno upravljanje motornim vozilom, kaznit će se za prekršaj novčanom kaznom u iznosu od 10.000,00 do 20.000,00 kuna ili kaznom zatvora u trajanju do 60 dana.
+
+(13) Osoba iz stavka 7. ovoga članka koja upravlja motornim vozilom, a prije stjecanja prava na upravljanje vozilom, kao i osoba iz stavka 8. koja upravlja motornim vozilom prije isteka zabrane korištenja vozačke dozvole izdane u državi članici Europskog gospodarskog prostora ili inozemne vozačke dozvole, kaznit će se za prekršaj novčanom kaznom u iznosu od 10.000,00 do 20.000,00 kuna ili kaznom zatvora u trajanju do 60 dana.
+
+(14) Vozaču koji je proglašen krivim za prekršaj iz stavaka 12. i 13. ovoga članka izreći će se zaštitna mjera zabrane upravljanja motornim vozilom odnosno zabrana korištenja vozačke dozvole u trajanju od:
+
+1) najmanje šest mjeseci, ako je prekršaj počinjen drugi put,
+
+2) najmanje 12 mjeseci, ako je prekršaj počinjen treći odnosno svaki sljedeći put.
+
+(15) Protiv rješenja iz stavaka 3. do 7. i stavka 11. ovoga članka ne može se podnijeti žalba, ali se može pokrenuti upravni spor pred nadležnim upravnim sudom.«.
+
+#### Članak 49.
+
+Članak 288. briše se.
+
+#### Članak 50.
+
+U članku 289. stavak 1. mijenja se i glasi:
+
+»(1) Vozač kojem je vozačka dozvola oduzeta (članak 284.) ili je isključen iz prometa (članak 285.) ili mu je izrečena mjera opreza privremenog oduzimanja vozačke dozvole ili zaštitna mjera zabrane upravljanja motornim vozilom, odnosno zabrana korištenja vozačke dozvole ili mu je od strane liječnika koji je obavio pregled ili je liječio vozača ili izabranog liječnika izdano upozorenje o zdravstvenom stanju zbog kojeg vozač privremeno nije sposoban sigurno upravljati vozilom, ne smije za to vrijeme upravljati vozilom u prometu na cesti.«.
+
+#### Članak 51.
+
+U članku 297. stavak 3. briše se.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+#### Članak 52.
+
+Članak 298. mijenja se i glasi:
+
+»Osobi koja počini prometni prekršaj koristeći vozačku dozvolu izdanu u državi članici Europskog gospodarskog prostora ili inozemnu vozačku dozvolu umjesto zaštitne mjere zabrane upravljanja motornim vozilom može se primijeniti zaštitna mjera zabrane korištenja vozačke dozvole na području Republike Hrvatske u trajanju od mjesec dana do dvije godine.«.
+
+#### Članak 53.
+
+Članak 299. mijenja se i glasi:
+
+»Instruktor vožnje tijekom osposobljavanja kandidata za vozača, kao i instruktor vožnje, odnosno ovlašteni ispitivač kojem su za vrijeme provođenja vozačkog ispita iz nastavnog predmeta Upravljanje vozilom dostupne udvojene komande kaznit će se za prekršaj koji počini kandidat za vozača, osim ako nije bio u mogućnosti spriječiti prekršaj.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 54.
+
+(1) Ministar nadležan za unutarnje poslove, uz prethodnu suglasnost ministra nadležnog za poslove prometa, uskladit će Pravilnik o registraciji i označavanju vozila (»Narodne novine«, br. 130/17.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Ministar nadležan za poslove prometa, uz prethodnu suglasnost ministra nadležnog za unutarnje poslove, uskladit će Pravilnik o tehničkim uvjetima vozila u prometu na cestama (»Narodne novine«, br. 85/16., 24/17., 70/19. i 60/20.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(3) Ministar nadležan za poslove prometa, uz prethodnu suglasnost ministra nadležnog za unutarnje poslove, uskladit će Pravilnik o prometnim znakovima, signalizaciji i opremi na cestama (»Narodne novine«, br. 92/19.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(4) Ministar nadležan za unutarnje poslove uskladit će Pravilnik o načinu obavljanja i organiziranja vozačkih ispita te načinu izdavanja i oduzimanja dopuštenja ovlaštenom ispitivaču (»Narodne novine«, br. 141/11., 151/13., 102/20. i 127/20.) i Pravilnik o načinu evidentiranja i praćenja prekršaja u cestovnom prometu (»Narodne novine«, br. 156/08.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(5) Ministar nadležan za zdravstvo, uz prethodnu suglasnost ministra nadležnog za unutarnje poslove, uskladit će Pravilnik o zdravstvenim pregledima vozača i kandidata za vozače (»Narodne novine«, br. 137/15., 132/17. i 10/20.) s odredbama ovoga Zakona u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(6) Ministar nadležan za poljoprivredu, uz prethodnu suglasnost ministra nadležnog za poslove prometa i ministra nadležnog za unutarnje poslove, uskladit će Pravilnik o uvjetima kojima moraju udovoljavati pčelarska vozila (»Narodne novine«, br. 93/13. i 78/21.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 55.
+
+Stručne organizacije iz članaka 206. i 273. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15., 108/17., 70/19. i 42/20.) dužne su uskladiti i organizirati svoju djelatnost i opće akte s odredbama ovoga Zakona u roku od devet mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 56.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 233. stavaka 5. i 6. koji je izmijenjen člankom 37. ovoga Zakona, koji stupaju na snagu na dan stupanja na snagu pravilnika iz članka 54. stavka 5. ovoga Zakona.
+
+Klasa: 022-03/21-01/131
+
+Zagreb, 15. srpnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o sigurnosti prometa na cestama (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1687*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o izmjenama Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/85  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15., 108/17., 70/19., 42/20. i 85/22.) u članku 5. stavku 14. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 2.
+
+U članku 6. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 3.
+
+U članku 10. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 4.
+
+U članku 11. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 8. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 5.
+
+U članku 12. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 8. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 6.
+
+U članku 13. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 7.
+
+U članku 14. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 5. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+### Članak 8.
+
+U članku 15. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+### Članak 9.
+
+U članku 17. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 10.
+
+U članku 21. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 11.
+
+U članku 23. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 12.
+
+U članku 25. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 13.
+
+U članku 26. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 14.
+
+U članku 30. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 15.
+
+U članku 31. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 16.
+
+U članku 32. stavku 4. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+U stavku 7. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 17.
+
+U članku 35. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 18.
+
+U članku 36. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 5. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 19.
+
+U članku 40. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+### Članak 20.
+
+U članku 41. stavku 7. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 8. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 9. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 21.
+
+U članku 42. stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 22.
+
+U članku 43. stavku 3. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 23.
+
+U članku 44. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 24.
+
+U članku 45. stavku 4. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 5. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 25.
+
+U članku 46. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 26.
+
+U članku 47. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 27.
+
+U članku 48. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 28.
+
+U članku 49. stavku 3. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+U stavku 4. riječi: »od 2.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 660,00 eura«.
+
+U stavku 5. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+### Članak 29.
+
+U članku 50. stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 30.
+
+U članku 51. stavku 5. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 6. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 31.
+
+U članku 52. stavku 4. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 32.
+
+U članku 53. stavku 3. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+U stavku 4. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+U stavku 5. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 6. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+U stavku 7. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 33.
+
+U članku 54. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+U stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 34.
+
+U članku 55. stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+U stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 35.
+
+U članku 56. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 36.
+
+U članku 57. stavku 7. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+### Članak 37.
+
+U članku 58. stavku 3. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+### Članak 38.
+
+U članku 59. stavku 5. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+U stavku 6. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+### Članak 39.
+
+U članku 60. stavku 3. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 40.
+
+U članku 61. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 41.
+
+U članku 62. stavku 2. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 42.
+
+U članku 63. stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 43.
+
+U članku 64. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 44.
+
+U članku 65. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 45.
+
+U članku 66. stavku 3. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 46.
+
+U članku 67. stavku 4. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+U stavku 5. riječi: »od 3.000,00 kuna« zamjenjuju se riječima: »od 390,00 eura«.
+
+### Članak 47.
+
+U članku 68. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 48.
+
+U članku 69. stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 49.
+
+U članku 70. stavku 3. riječi: »od 3.000,00 kuna« zamjenjuju se riječima: »od 390,00 eura«.
+
+U stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 50.
+
+U članku 71. stavku 2. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 51.
+
+U članku 72. stavku 2. riječi: »od 3.000,00 kuna« zamjenjuju se riječima: »od 390,00 eura«.
+
+### Članak 52.
+
+U članku 73. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 53.
+
+U članku 74. stavku 2. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+### Članak 54.
+
+U članku 75. stavku 4. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 55.
+
+U članku 76. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 56.
+
+U članku 78. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 57.
+
+U članku 79. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 58.
+
+U članku 80. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 59.
+
+U članku 81. stavku 3. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 60.
+
+U članku 82. stavku 3. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+U stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 61.
+
+U članku 83. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 62.
+
+U članku 87. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 63.
+
+U članku 88. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 64.
+
+U članku 89. stavku 2. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 65.
+
+U članku 90. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 6. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 66.
+
+U članku 91. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 6. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 67.
+
+U članku 92. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 68.
+
+U članku 93. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 69.
+
+U članku 94. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 70.
+
+U članku 95. stavku 2. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 71.
+
+U članku 96. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 72.
+
+U članku 97. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 6. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 73.
+
+U članku 98. stavku 2. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+### Članak 74.
+
+U članku 99. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 75.
+
+U članku 100. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 76.
+
+U članku 101. stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+U stavku 5. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 77.
+
+U članku 102. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 78.
+
+U članku 105. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 79.
+
+U članku 106. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 80.
+
+U članku 107. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 81.
+
+U članku 108. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 82.
+
+U članku 109. stavku 2. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 83.
+
+U članku 110. stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 84.
+
+U članku 112. stavku 11. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 12. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 13. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 14. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 15. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 85.
+
+U članku 113. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 86.
+
+U članku 114. stavku 3. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 87.
+
+U članku 115. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 88.
+
+U članku 116. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 89.
+
+U članku 117. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 90.
+
+U članku 118. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 91.
+
+U članku 119. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 92.
+
+U članku 120. stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 93.
+
+U članku 121. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 94.
+
+U članku 122. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 95.
+
+U članku 123. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 96.
+
+U članku 124. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 97.
+
+U članku 125. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 98.
+
+U članku 126. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 99.
+
+U članku 127. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 100.
+
+U članku 128. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 101.
+
+U članku 129. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 102.
+
+U članku 130. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 103.
+
+U članku 131. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 104.
+
+U članku 132. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 105.
+
+U članku 133. stavku 3. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+U stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 106.
+
+U članku 134. stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+U stavku 5. riječi: »od 3.000,00 kuna« zamjenjuju se riječima: »od 390,00 eura«.
+
+### Članak 107.
+
+U članku 135. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 108.
+
+U članku 137. stavku 2. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+U stavku 5. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 109.
+
+U članku 138. stavku 2. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 110.
+
+U članku 139. stavku 3. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 111.
+
+U članku 140. stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+U stavku 5. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+### Članak 112.
+
+U članku 141. stavku 3. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 113.
+
+U članku 142. stavku 6. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+U stavku 7. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+### Članak 114.
+
+U članku 143. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 115.
+
+U članku 144. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 116.
+
+U članku 146. stavku 2. riječi: »od 1.000,00 do 2.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 260,00 eura«.
+
+### Članak 117.
+
+U članku 147. stavku 2. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 118.
+
+U članku 148. stavku 6. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+U stavku 7. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 119.
+
+U članku 152. stavku 2. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+U stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 120.
+
+U članku 153. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+### Članak 121.
+
+U članku 154. stavku 6. riječi: »od 2.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 8. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 9. riječi: »od 2.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 920,00 eura«.
+
+U stavku 10. riječi: »od 1.000,00 do 2.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 260,00 eura«.
+
+U stavku 11. riječi: »od 2.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 660,00 eura«.
+
+### Članak 122.
+
+U članku 155. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 8. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 123.
+
+U članku 156. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 124.
+
+U članku 157. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 125.
+
+U članku 158. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 126.
+
+U članku 159. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 127.
+
+U članku 160. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 128.
+
+U članku 161. stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+U stavku 6. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 129.
+
+U članku 162. stavku 2. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 130.
+
+U članku 163. stavku 8. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 9. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 131.
+
+U članku 164. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+U stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 132.
+
+U članku 166. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 133.
+
+U članku 167. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 134.
+
+U članku 169. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 135.
+
+U članku 170. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 136.
+
+U članku 171. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 6. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 137.
+
+U članku 172. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 138.
+
+U članku 173. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 139.
+
+U članku 175. stavku 3. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+### Članak 140.
+
+U članku 176. stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+U stavku 5. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+### Članak 141.
+
+U članku 177. stavku 2. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 142.
+
+U članku 178. stavku 3. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 143.
+
+U članku 179. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 144.
+
+U članku 180. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 8. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 145.
+
+U članku 181. stavku 7. riječi: »od 1.000,00 do 3.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 390,00 eura«.
+
+U stavku 8. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+### Članak 146.
+
+U članku 183. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 147.
+
+U članku 184. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 5. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 148.
+
+U članku 188. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 149.
+
+U članku 189. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 150.
+
+U članku 190. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 151.
+
+U članku 191. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 152.
+
+U članku 192. stavku 3. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 4. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 153.
+
+U članku 193. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 6. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 154.
+
+U članku 194. stavku 4. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+U stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 2.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 660,00 eura«.
+
+### Članak 155.
+
+U članku 196. stavku 5. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 6. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+U stavku 7. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 8. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 156.
+
+U članku 197. stavku 3. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+### Članak 157.
+
+U članku 198. stavku 2. riječi: »od 1.000,00 do 2.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 260,00 eura«.
+
+### Članak 158.
+
+U članku 199. stavku 5. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+U stavku 6. riječi: »od 3.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 8. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+U stavku 9. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+U stavku 10. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 159.
+
+U članku 200. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 160.
+
+U članku 201. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 161.
+
+U članku 203. stavku 11. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 12. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 13. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 14. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 162.
+
+U članku 204. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 163.
+
+U članku 206. stavku 10. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 11. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 164.
+
+U članku 208. stavku 13. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 14. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 165.
+
+U članku 212. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 6. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 166.
+
+U članku 213. stavku 8. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 9. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 10. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 11. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 12. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 167.
+
+U članku 214. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 168.
+
+U članku 216. stavku 3. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+### Članak 169.
+
+U članku 223. stavku 3. riječi: »od 3.000,00 kuna« zamjenjuju se riječima: »od 390,00 eura«.
+
+### Članak 170.
+
+U članku 226. stavku 4. riječi: »od 500,00 kuna« zamjenjuju se riječima: »od 60,00 eura«.
+
+### Članak 171.
+
+U članku 228. stavku 7. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 8. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 172.
+
+U članku 229. stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+U stavku 6. riječi: »od 3.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 390,00 do 920,00 eura«.
+
+U stavku 7. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+### Članak 173.
+
+U članku 230. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 174.
+
+U članku 231. stavku 8. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 9. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 175.
+
+U članku 233. stavku 7. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 8. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 176.
+
+U članku 236. stavku 3. riječi: »od 2.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 6. riječi: »od 2.000,00 do 7.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 920,00 eura«.
+
+U stavku 7. riječi: »od 1.000,00 do 2.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 260,00 eura«.
+
+U stavku 8. riječi: »od 2.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 660,00 eura«.
+
+U stavku 9. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 177.
+
+U članku 238. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+U stavku 8. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+U stavku 9. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 178.
+
+U članku 239. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 8. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 179.
+
+U članku 240. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 8. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+U stavku 9. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 180.
+
+U članku 241. stavku 7. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+U stavku 8. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 181.
+
+U članku 242. stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 182.
+
+U članku 244. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 183.
+
+U članku 247. stavku 4. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+U stavku 5. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 184.
+
+U članku 250. stavku 11. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 12. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 13. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+### Članak 185.
+
+U članku 252. stavku 7. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 8. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 186.
+
+U članku 254. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 187.
+
+U članku 256. stavku 4. riječi: »od 300,00 kuna« zamjenjuju se riječima: »od 30,00 eura«.
+
+### Članak 188.
+
+U članku 257. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 189.
+
+U članku 258. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 8. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 190.
+
+U članku 259. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 191.
+
+U članku 263. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 192.
+
+U članku 264. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 193.
+
+U članku 265. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 194.
+
+U članku 266. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 195.
+
+U članku 267. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 196.
+
+U članku 269. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 197.
+
+U članku 270. stavku 8. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 9. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 10. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 198.
+
+U članku 272. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 199.
+
+U članku 273. stavku 9. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 10. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 200.
+
+U članku 274. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 201.
+
+U članku 275. stavku 4. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 5. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 202.
+
+U članku 276. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 203.
+
+U članku 277. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 204.
+
+U članku 278. stavku 5. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 6. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 7. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+### Članak 205.
+
+U članku 282. stavku 9. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+U stavku 10. riječi: »od 700,00 kuna« zamjenjuju se riječima: »od 90,00 eura«.
+
+### Članak 206.
+
+U članku 283. stavku 5. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+### Članak 207.
+
+U članku 286. stavku 12. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+U stavku 13. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+### Članak 208.
+
+U članku 289. stavku 2. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 3. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 4. riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+### Članak 209.
+
+U članku 290. stavku 7. riječi: »od 10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 3980,00 eura«.
+
+U stavku 8. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+U stavku 9. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+### Članak 210.
+
+U članku 293. stavku 1. riječi: »od 1.000,00 kuna« zamjenjuju se riječima: »od 130,00 eura«.
+
+U stavku 2. riječi: »od 2.000,00 kuna« zamjenjuju se riječima: »od 260,00 eura«.
+
+### Članak 211.
+
+U članku 294. stavku 5. riječi: »do 1.000,00 kuna« zamjenjuju se riječima: »do 130,00 eura«.
+
+### Članak 212.
+
+U članku 301. stavku 6. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 7. riječi: »od 1.500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 190,00 do 660,00 eura«.
+
+### Članak 213.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/85
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (NN 145/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/145/2377*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama, koji je Hrvatski sabor donio na sjednici 6. prosinca 2024. godine.
+
+Klasa: 011-02/24-02/82  
+Urbroj: 71-10-01/1-24-2  
+Zagreb, 11. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SIGURNOSTI PROMETA NA CESTAMA**
+
+#### Članak 1.
+
+U Zakonu o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15., 108/17., 70/19., 42/20., 85/22., 114/22. i 133/23.) u članku 1.a stavak 2. mijenja se i glasi:
+
+»(2) Ovim Zakonom osigurava se provedba sljedećih akata Europske unije:
+
+1. Uredbe Komisije (EU) 2016/403 od 18. ožujka 2016. o dopuni Uredbe (EZ) br. 1071/2009 Europskog parlamenta i Vijeća u pogledu klasifikacije teških povreda pravila Unije koje mogu dovesti do gubitka dobrog ugleda cestovnog prijevoznika te o izmjeni Priloga III. Direktivi 2006/22/EZ Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 74, 19. 3. 2016.),
+
+2. Uredbe (EU) 2018/858 Europskog parlamenta i Vijeća od 30. svibnja 2018. o homologaciji i nadzoru tržišta motornih vozila i njihovih prikolica te sustava, sastavnih dijelova i zasebnih tehničkih jedinica namijenjenih za takva vozila, o izmjeni uredaba (EZ) br. 715/2007 i (EZ) br. 595/2009 te o stavljanju izvan snage Direktive 2007/46/EZ (Tekst značajan za EGP) (SL L 151, 14. 6. 2018.),
+
+3. Uredbe (EU) 2019/2144 Europskog parlamenta i Vijeća od 27. studenoga 2019. o zahtjevima za homologaciju tipa za motorna vozila i njihove prikolice te za sustave, sastavne dijelove i zasebne tehničke jedinice namijenjene za takva vozila, u pogledu njihove opće sigurnosti te zaštite osoba u vozilima i nezaštićenih sudionika u cestovnom prometu, o izmjeni Uredbe (EU) 2018/858 Europskog parlamenta i Vijeća i stavljanju izvan snage uredbi (EZ) br. 78/2009, (EZ) br. 79/2009 i (EZ) br. 661/2009 Europskog parlamenta i Vijeća i uredbi Komisije (EZ) br. 631/2009, (EU) br. 406/2010, (EU) br. 672/2010, (EU) br. 1003/2010, (EU) br. 1005/2010, (EU) br. 1008/2010, (EU) br. 1009/2010, (EU) br. 19/2011, (EU) br. 109/2011, (EU) br. 458/2011, (EU) br. 65/2012, (EU) br. 130/2012, (EU) br. 347/2012, (EU) br. 351/2012, (EU) br. 1230/2012 i (EU) 2015/166. (Tekst značajan za EGP)(SL L 325, 16. 12. 2019.),
+
+4. Provedbene uredbe Komisije (EU) 2022/1426 оd 5. kolovoza 2022. o utvrđivanju pravila za primjenu Uredbe (EU) 2019/2144 Europskog parlamenta i Vijeća u pogledu jedinstvenih postupaka i tehničkih specifikacija za homologaciju tipa sustava za automatiziranu vožnju (ADS) potpuno automatiziranih vozila (Tekst značajan za EGP)(SL L 221, 26. 8. 2022.),
+
+5. Delegirane uredbe Komisije (EU) 2022/2236 оd 20. lipnja 2022. o izmjeni priloga I., II., IV. i V. Uredbi (EU) 2018/858 Europskog parlamenta i Vijeća u pogledu tehničkih zahtjeva za vozila proizvedena u neograničenim serijama, vozila proizvedena u malim serijama, potpuno automatizirana vozila proizvedena u malim serijama i vozila za posebne namjene te u pogledu ažuriranja softvera (Tekst značajan za EGP)(SL L 296, 16. 11. 2022.).«.
+
+#### Članak 2.
+
+U članku 2. stavku 1. točka 107. mijenja se i glasi:
+
+»107) »automatizirano vozilo« je motorno vozilo konstruirano i izrađeno kako bi se kretalo autonomno tijekom određenog vremenskog razdoblja bez stalnog nadzora vozača, ali u odnosu na koje se intervencija vozača ipak očekuje ili je potrebna,«.
+
+Iza točke 107. dodaju se točke 108. – 113. koje glase:
+
+»108) »potpuno automatizirano vozilo« je motorno vozilo koje je konstruirano i izrađeno kako bi se kretalo autonomno bez ikakva nadzora vozača,
+
+109) »sustav za automatiziranu vožnju« je hardver i softver koji zajedno mogu kontinuirano obavljati cjelinu aktivnosti dinamičke vožnje u specifičnom predviđenom području rada,
+
+110) »manevar za minimalizaciju rizika« je manevar namijenjen za smanjivanje opasnosti u prometu na minimum zaustavljanjem vozila u sigurnom stanju,
+
+111) »stanje minimalnog rizika« je vozilo u stabilnom stanju mirovanja u kojem je rizik od sudara smanjen,
+
+112) »operator u vozilu« je, kada se odnosi na sustav za automatiziranu vožnju, osoba koja se nalazi u potpuno automatiziranom vozilu koja može:
+
+a) aktivirati, ponovno inicijalizirati ili deaktivirati sustav za automatiziranu vožnju
+
+b) naložiti sustavu za automatiziranu vožnju da započne manevar za minimalizaciju rizika
+
+c) potvrditi manevar koji predlaže sustav za automatiziranu vožnju dok je vozilo u stanju mirovanja
+
+d) nakon manevra za minimalizaciju rizika, dok je potpuno automatizirano vozilo u stanju mirovanja, naložiti sustavu za automatiziranu vožnju da sigurno izvede manevar niske brzine, koja nije veća od šest km/h, a preostalu radnu sposobnost iskoristi za evakuaciju potpuno automatiziranog vozila na primjerenu obližnju lokaciju
+
+e) odabrati ili izmijeniti planiranje plana puta ili mjesta na kojima se zaustavlja za potrebe korisnika ili
+
+f) pružati pomoć putnicima potpuno automatiziranog vozila u jasno utvrđenim hitnim situacijama.
+
+U navedenim situacijama operator u vozilu ne vozi potpuno automatizirano vozilo, a sustav za automatiziranu vožnju nastavlja obavljati aktivnost dinamičke vožnje,
+
+113) »operator intervencije na daljinu« je, kada se odnosi na sigurnosni koncept sustava za automatiziranu vožnju, osoba koja se nalazi izvan potpuno automatiziranog vozila koja može daljinski obavljati zadaće operatora u vozilu, pod uvjetom da je to sigurno. Operator intervencije na daljinu ne vozi potpuno automatizirano vozilo, a sustav za automatiziranu vožnju nastavlja obavljati aktivnost dinamičke vožnje.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Pojmovi koji se odnose na potpuno automatiziranu vožnju i potpuno automatizirana vozila, a nisu definirani ovim Zakonom, imaju jednako značenje kao i pojmovi i definicije propisane u uredbama iz članka 1.a stavka 2. točaka 2. do 5. ovoga Zakona.«.
+
+#### Članak 3.
+
+U članku 5. stavku 1. točki 14. na kraju rečenice umjesto točke stavlja se zarez te se dodaje točka 15. koja glasi:
+
+»15. područje prometovanja potpuno automatiziranih vozila.«.
+
+#### Članak 4.
+
+U članku 240. stavku 1. iza riječi: »vožnja« dodaje se zarez i riječi: »kao i za testiranje prototipova vozila«.
+
+#### Članak 5.
+
+U članku 275. stavak 1. mijenja se i glasi:
+
+»(1) Vozila kategorija M, N, O, L, T, C, R, S i U koja se serijski ili pojedinačno proizvode moraju biti homologirana te se prije stavljanja na tržište i prve registracije trebaju podvrgnuti postupku utvrđivanja sukladnosti (homologacije) radi utvrđivanja zadovoljavaju li propisane zahtjeve o homologaciji. Ispunjavanje propisanih zahtjeva potvrđuje se izjavom/potvrdom o sukladnosti vozila/certifikatom o nacionalnoj homologaciji pojedinačnog vozila, što je uvjet za stavljanje na tržište i prvu registraciju vozila.«.
+
+#### Članak 6.
+
+U članku 276. stavak 1. mijenja se i glasi:
+
+»(1) Vozila na kojima se obavlja nadogradnja, pregradnja ili zamjena serijskog dijela ili uređaja neserijskim dijelom ili uređajem prije puštanja u promet moraju biti podvrgnuta ispitivanju promijenjenih dijelova i uređaja i ostalih tehničkih značajki bitnih za sigurnost i ekološku podobnost vozila u prometu na cestama.«.
+
+#### Članak 7.
+
+Iza članka 281. dodaje se naziv odjeljka i članci 281.a, 281.b, 281.c, 281.d, 281.e i 281.f, koji glase:
+
+### »5. PROMET POTPUNO AUTOMATIZIRANIH VOZILA
+
+#### Članak 281.a
+
+(1) Potpuno automatizirano vozilo koje u prometu na cesti sudjeluje u skladu s odredbama zakona kojim se uređuje prijevoz u cestovnom prometu mora prometovati u skladu s prometnim pravilima i ispunjavati uvjete koji su propisani ovim Zakonom.
+
+(2) Vlasnik potpuno automatiziranog vozila dužan je voditi računa o sigurnosnim postavkama toga vozila kako njegovim prometovanjem ne bi došlo do pogoršanja ili ugroze sigurnosti prometa na cestama te kako potpuno automatizirano vozilo ne bi predstavljalo povećanu opasnost za ostale sudionike u prometu na cestama.
+
+#### Članak 281.b
+
+(1) Potpuno automatizirano vozilo može prometovati u granicama područja koje mu je odobreno, a ako prometuje izvan područja koje mu je odobreno na temelju članka 5. stavka 1. točke 15. ovoga Zakona, potrebno je i odobrenje ministarstva nadležnog za poslove prometa, uz uvjet da je vlasnik vozila pravna osoba i da je vozilo registrirano na području Republike Hrvatske te namijenjeno za obavljanje djelatnosti javnog prijevoza.
+
+(2) Potpuno automatizirano vozilo mora biti vidljivo obilježeno natpisima da se radi o potpuno automatiziranom vozilu.
+
+(3) Sudionici u prometu ne smiju namjerno ometati sudjelovanje potpuno automatiziranih vozila u prometu na cestama tako da svojim radnjama dovode potpuno automatizirano vozilo u stanje u kojem mora poduzeti radnju u prometu koju inače ne bi poduzelo ili ga namjerno ometati u toj mjeri da potpuno automatizirano vozilo bude prisiljeno nepotrebno izvoditi manevar za minimalizaciju rizika.
+
+(4) Novčanom kaznom u iznosu od 10.000,00 do 132.000,00 eura kaznit će se za prekršaj pravna osoba – vlasnik potpuno automatiziranog vozila ako postupi suprotno odredbi stavka 1. ovoga članka, a u slučaju ponavljanja istog prekršaja vozilo će se i privremeno oduzeti.
+
+(5) Novčanom kaznom u iznosu od 5000,00 do 15.000,00 eura kaznit će se za prekršaj pravna osoba – vlasnik potpuno automatiziranog vozila ako postupi suprotno odredbi stavka 2. ovoga članka.
+
+(6) Novčanom kaznom u iznosu od 1000,00 do 5000,00 eura kaznit će se za prekršaj sudionik u prometu ako postupi suprotno odredbi stavka 3. ovoga članka.
+
+(7) Izgled i sadržaj natpisa iz stavka 2. ovoga članka propisuje ministar nadležan za poslove prometa, uz prethodnu suglasnost ministra nadležnog za unutarnje poslove, pravilnikom kojim se propisuju tehnički uvjeti vozila u prometu na cestama.
+
+#### Članak 281.c
+
+(1) Operator u vozilu, odnosno operator intervencije na daljinu mora posjedovati važeću svjedodžbu o stečenoj početnoj kvalifikaciji, izdanu sukladno propisu kojim se uređuje početna i periodična izobrazba vozača, te važeću vozačku dozvolu odgovarajuće kategorije, koje mora imati kod sebe i koje mora dati na uvid na zahtjev policijskog službenika ili osobe ovlaštene ovim Zakonom, a tu funkciju može obavljati samo dok se nalazi u Republici Hrvatskoj.
+
+(2) Operator u vozilu, odnosno operator intervencije na daljinu ne smije obavljati zadaće u vozilu u slučajevima propisanim člankom 289. stavkom 1. ovoga Zakona.
+
+(3) Policijski službenik isključit će iz prometa potpuno automatizirano vozilo u slučaju iz stavka 2. ovoga članka.
+
+(4) Pravna osoba – vlasnik potpuno automatiziranog vozila ne smije dopustiti da operator u vozilu, odnosno operator intervencije na daljinu sudjeluje u prometu, odnosno obavlja zadaće suprotno odredbama stavaka 1. i 2. ovoga članka.
+
+(5) Novčanom kaznom u iznosu od 5000,00 do 15.000,00 eura kaznit će se za prekršaj pravna osoba – vlasnik potpuno automatiziranog vozila ako postupi suprotno odredbi stavka 4. ovoga članka.
+
+(6) Novčanom kaznom u iznosu od 1000,00 do 5000,00 eura kaznit će se za prekršaj operator u vozilu, odnosno operator intervencije na daljinu ako postupi suprotno odredbama stavaka 1. i 2. ovoga članka.
+
+#### Članak 281.d
+
+(1) Za prekršaje iz ovoga Zakona koji su počinjeni potpuno automatiziranim vozilom odgovoran je vlasnik potpuno automatiziranog vozila, osim za prekršaje koji su proizašli iz radnji osoba koje su neovlašteno postupale s potpuno automatiziranim vozilom.
+
+(2) Iznimno od stavka 1. ovoga članka, za prekršaje iz ovoga Zakona koji su počinjeni potpuno automatiziranim vozilom odgovara druga osoba ako je prekršaj proizašao iz skrivljene radnje te osobe, a vlasnik vozila dužan je dati vjerodostojan podatak o osobi odgovornoj za počinjenje prekršaja te o radnji koja je dovela do počinjenja prekršaja.
+
+(3) Iznosi novčanih kazni za prekršaje propisane u ovom Zakonu za fizičke osobe, a u slučaju počinjenja prekršaja potpuno automatiziranim vozilom za koje je odgovorna pravna osoba, uvećavaju se za 230,00 eura.
+
+#### Članak 281.e
+
+(1) Vlasnik ili proizvođač potpuno automatiziranog vozila dužan je, na zahtjev ministarstva nadležnog za unutarnje poslove i drugih nadzornih tijela koja u okviru svojih ovlasti obavljaju nadzor, dostaviti podatke kojima se vozilo koristilo za vrijeme vožnje, uključujući i podatke koji su zabilježeni putem telekomunikacijskih uređaja i opreme te telemetrijske podatke, u svrhu istraživanja prometnih nesreća, prometnih prekršaja, kaznenih i drugih djela, tehničke ispravnosti vozila te drugih događaja u prometu na cestama.
+
+(2) Podaci iz stavka 1. ovoga članka pohranjuju se u sljedećim slučajevima:
+
+– intervencije tehničkog nadzora odnosno operatora u vozilu ili operatora intervencije na daljinu,
+
+– prelaska vozila u stanje minimalnog rizika,
+
+– u incidentnim situacijama, posebno događanja prometnih nesreća ili ugrožavanja prometa,
+
+– u slučaju nepredviđene promjene trake ili skretanja.
+
+(3) U slučajevima iz stavka 2. ovoga članka, vlasnik potpuno automatiziranog vozila dužan je osigurati da se podaci koje potpuno automatizirano vozilo bilježi ne smiju brisati, a prikupljeni podaci čuvaju se 30 dana od dana nastanka, osim ako su dokaz u sudskom, upravnom, arbitražnom ili drugom istovrijednom postupku, u kojem slučaju se čuvaju do pravomoćnog okončanja postupka.
+
+(4) Pravo pristupa prikupljenim podacima ima odgovorna osoba u pravnoj osobi vlasnika potpuno automatiziranog vozila i/ili osoba koju on ovlasti, a podaci se ne smiju koristiti suprotno utvrđenoj svrsi iz stavka 1. ovoga članka.
+
+(5) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 eura kaznit će se za prekršaj pravna osoba – vlasnik potpuno automatiziranog vozila ako postupi suprotno odredbama stavaka 1., 2. i 4. ovoga članka.
+
+(6) Novčanom kaznom u iznosu od 50.000,00 do 132.000,00 eura kaznit će se za prekršaj pravna osoba – vlasnik potpuno automatiziranog vozila ako postupi suprotno odredbi stavka 3. ovoga članka.
+
+(7) Novčanom kaznom u iznosu od 3000,00 do 5000,00 eura kaznit će se za prekršaj i odgovorna osoba u pravnoj osobi ako postupi suprotno odredbama ovoga članka.
+
+#### Članak 281.f
+
+(1) Vlasnik potpuno automatiziranog vozila dužan je uspostaviti videonadzor koji bilježi u realnom vremenu promet automatiziranog vozila, a pohranjuje snimku jedino u slučaju kada se aktivira uređaj za snimanje podataka o događaju.
+
+(2) Vlasnik potpuno automatiziranog vozila dužan je osigurati da se snimke videonadzora iz stavka 1. ovoga članka ne smiju brisati, a pohranjene snimke videonadzora čuvaju se 90 dana od dana nastanka, osim ako su dokaz u sudskom, upravnom, arbitražnom ili drugom istovrijednom postupku, u kojem slučaju se čuvaju do pravomoćnog okončanja postupka.
+
+(3) Pravo pristupa pohranjenim snimkama iz stavka 1. ovoga članka ima odgovorna osoba u pravnoj osobi vlasnika potpuno automatiziranog vozila i/ili osoba koju on ovlasti.
+
+(4) Osobe iz stavka 3. ovoga članka ne smiju koristiti pohranjene snimke videonadzora suprotno svrsi utvrđivanja okolnosti događaja iz stavka 1. ovoga članka.
+
+(5) Sustav videonadzora mora biti zaštićen od pristupa neovlaštenih osoba.
+
+(6) Vlasnik potpuno automatiziranog vozila dužan je uspostaviti automatizirani sustav zapisa za evidentiranje pristupa pohranjenim snimkama iz stavka 1. ovoga članka.
+
+(7) Pristup pohranjenim snimkama videonadzora iz stavka 1. ovoga članka imaju nadležna državna tijela u okviru obavljanja poslova iz svojeg zakonom utvrđenog djelokruga.
+
+(8) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 eura kaznit će se za prekršaj pravna osoba – vlasnik potpuno automatiziranog vozila ako postupi suprotno odredbama stavaka 1., 3., 4., 5., 6. i 7. ovoga članka.
+
+(9) Novčanom kaznom u iznosu od 132.000,00 eura kaznit će se za prekršaj pravna osoba – vlasnik potpuno automatiziranog vozila ako postupi suprotno odredbi stavka 2. ovoga članka.
+
+(10) Novčanom kaznom u iznosu od 5000,00 do 10.000,00 eura kaznit će se za prekršaj i odgovorna osoba u pravnoj osobi ako postupi suprotno odredbama ovoga članka.«.
+
+#### Članak 8.
+
+Iza članka 290. dodaje se članak 290.a koji glasi:
+
+»Članak 290.a
+
+(1) Ministarstvo nadležno za unutarnje poslove privremeno će rješenjem zabraniti prometovanje određenom tipu potpuno automatiziranih vozila ako je njihovim prometovanjem, bez intervencije operatora u vozilu, odnosno operatora intervencije na daljinu, došlo do incidenta koji bitno ugrožava stanje sigurnosti, dok se utvrđeni nedostaci ne otklone.
+
+(2) Protiv rješenja iz stavka 1. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 9.
+
+(1) Ministar nadležan za poslove prometa, uz prethodnu suglasnost ministra nadležnog za unutarnje poslove, uskladit će Pravilnik o tehničkim uvjetima vozila u prometu na cestama (»Narodne novine«, br. 85/16., 24/17., 70/19., 60/20. i 79/23.) s odredbama ovoga Zakona u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(2) Ministar nadležan za unutarnje poslove, uz prethodnu suglasnost ministra nadležnog za poslove prometa, uskladit će Pravilnik o tehničkim pregledima vozila (»Narodne novine«, br. 16/18., 63/19., 117/20. i 100/22.) i Pravilnik o tehničkim pregledima vozila na cesti (»Narodne novine«, br. 132/17., 117/20. i 100/22.) s odredbama ovoga Zakona u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/93  
+Zagreb, 6. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

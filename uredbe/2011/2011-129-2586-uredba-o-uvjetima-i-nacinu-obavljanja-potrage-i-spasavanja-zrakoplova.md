@@ -980,14 +980,12 @@ Jadranka Kosor, dipl. iur., v. r.
 ## MAKSIMALNO VRIJEME ZA POČETAK UZBUNE
 
 <table><tbody>
-
 <tr>
 <td colspan="3"></td>
 <td>Faza neizvjesnosti<br> INCERFA</td>
 <td>Faza uzbune<br> ALERFA</td>
 <td>Faza opasnosti<br> DETRESFA</td>
 </tr>
-
 <tr>
 <td rowspan="6">SVI<br> LETOVI</td>
 <td colspan="2">Signal neposredne opasnosti<br> Mayday-SOS-A7700</td>
@@ -995,42 +993,36 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>–</td>
 <td>H+5</td>
 </tr>
-
 <tr>
 <td colspan="2">Signal u opasnosti<br> Pan-pan-XXX<br> RDBA</td>
 <td></td>
 <td>H+5</td>
 <td>Sukladno okolnostima</td>
 </tr>
-
 <tr>
 <td colspan="2">Nezakonito ometanje</td>
 <td>-</td>
 <td>H+5</td>
 <td>Sukladno okolnostima</td>
 </tr>
-
 <tr>
 <td colspan="2">Istovremeni gubitak radio i radarskog kontakta</td>
 <td></td>
 <td>H+5</td>
 <td>H+10</td>
 </tr>
-
 <tr>
 <td colspan="2">Gubitak radiokontakta u aerodromskoj zoni i prilazu za slijetanje</td>
 <td>–</td>
 <td>H+5</td>
 <td>H+10</td>
 </tr>
-
 <tr>
 <td colspan="2">Nema radiokontakta prilikom napuštanja aerodromske zone</td>
 <td>H+10</td>
 <td>H+20</td>
 <td>H+30</td>
 </tr>
-
 <tr>
 <td>KONTROLIRANI LETOVI</td>
 <td colspan="2">Gubitak radio kontakta</td>
@@ -1038,7 +1030,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>H+20</td>
 <td>H+30</td>
 </tr>
-
 <tr>
 <td rowspan="3">NEKONTROLIRANI LETOVI</td>
 <td rowspan="2">S PLANOM LETA</td>
@@ -1047,14 +1038,12 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>H+60</td>
 <td>H+90</td>
 </tr>
-
 <tr>
 <td>Zrakoplov nije stigao na vrijeme</td>
 <td>H+30</td>
 <td>H+60</td>
 <td>H+90</td>
 </tr>
-
 <tr>
 <td colspan="2">Bez plana leta</td>
 <td colspan="3">Sukladno okolnostima</td>
@@ -1071,43 +1060,36 @@ Jadranka Kosor, dipl. iur., v. r.
 ## VIZUALNI SIGNALI ZEMLJA ZRAK KOJE KORISTE PREŽIVJELI
 
 <table><tbody>
-
 <tr>
 <td>Br.</td>
 <td>PORUKA</td>
 <td>ZNAK</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>Potrebna pomoć</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417793.jpeg"></td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>Potrebna medicinska pomoć</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417794.jpeg"></td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>NE ili negirajuće</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417795.jpeg"></td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>DA ili potvrdno</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417796.jpeg"></td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>Nastaviti u ovom smjeru</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417797.jpeg"></td>
 </tr>
-
 <tr>
 <td colspan="3">Uputa za uporabu:<br> 1. Signali ne smiju biti manji od 2,5 m;<br> 2. Signali moraju biti položeni kako je prikazano;<br> 3. Osigurati što veći kontrast boja između signala i pozadine;<br> 4. Privući pažnju i drugim sredstvima, npr. radio, zastava, dim, refleksija svjetla.</td>
 </tr>
@@ -1119,55 +1101,46 @@ Jadranka Kosor, dipl. iur., v. r.
 ## VIZUALNI SIGNALI ZEMLJA ZRAK KOJE KORISTE SPASILAČKE POSTROJBE
 
 <table><tbody>
-
 <tr>
 <td>Br.</td>
 <td>PORUKA</td>
 <td>ZNAK</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>Akcija završena</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417798.jpeg"></td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>Našli smo sve osobe</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417799.jpeg"></td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>Našli smo samo nekoliko osoba</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417800.jpeg"></td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>Nismo u mogućnosti nastaviti. Vraćamo se u bazu</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417801.jpeg"></td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>Razdvojeni u dvije grupe. Svako nastavljanje u smjeru označenog</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417802.jpeg"></td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td>Zrakoplov u ovom smjeru</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417803.jpeg"></td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td>Ništa nađeno. Nastavljamo potragu</td>
 <td><img src="https://narodne-novine.nn.hr/dodatni/417804.jpeg"></td>
 </tr>
-
 <tr>
 <td colspan="3">Uputa za uporabu:<br> 1. Signali moraju biti položeni kako je prikazano;<br> 2. Signali ne smiju biti manji od 2,5 m;<br> 3. Osigurati što veći kontrast boja između signala i pozadine;<br> 4. Privući pažnju i drugim sredstvima, npr. radio, zastava, dim, refleksija svjetla.</td>
 </tr>

@@ -6,15 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1993-08-25
-last_amended: 2009-06-30
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
+last_amended: 2022-05-20
+status: in_force
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "78/93, 29/94, 16/07, 75/09"
+narodne_novine: "78/93, 29/94, 16/07, 75/09, 120/16, 57/22"
 amendments:
   - "NN 29/1994 (513) Zakon o izmjeni Zakona o javnom bilježništvu"
   - "NN 16/2007 (652) Zakon o izmjenama i dopunama Zakona o javnom bilježništvu"
   - "NN 75/2009 (1787) Zakon o izmjenama i dopuni Zakona o javnom bilježništvu"
+  - "NN 120/2016 (2613) Zakon o izmjeni Zakona o javnom bilježništvu"
+  - "NN 57/2022 (807) Zakon o izmjenama i dopunama Zakona o javnom bilježništvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1993/78/1599"
 retrieved: 2026-10-12
 ---
@@ -23,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 78/1993 (https://narodne-novine.nn.hr/eli/sluzbeni/1993/78/1599).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 29/1994, NN 16/2007, NN 75/2009.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 29/1994, NN 16/2007, NN 75/2009, NN 120/2016, NN 57/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2760,3 +2762,902 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjeni Zakona o javnom bilježništvu (NN 120/2016)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2016/120/2613*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O JAVNOM BILJEŽNIŠTVU
+
+Proglašavam Zakon o izmjeni Zakona o javnom bilježništvu, koji je Hrvatski sabor donio na sjednici 9. prosinca 2016.
+
+Klasa: 011-01/16-01/69
+
+Urbroj: 71-06-01/1-16-2
+
+Zagreb, 13. prosinca 2016.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O JAVNOM BILJEŽNIŠTVU**
+
+### Članak 1.
+
+U Zakonu o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94., 16/07. i 75/09.) u članku 13. stavku 1. točka 1. mijenja se i glasi:
+
+»1. koja je državljanin Republike Hrvatske ili druge države članice Europske unije,«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2017.
+
+Klasa: 022-03/16-01/115
+
+Zagreb, 9. prosinca 2016.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatski sabor  
+Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o javnom bilježništvu (NN 57/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/57/807*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM BILJEŽNIŠTVU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o javnom bilježništvu, koji je Hrvatski sabor donio na sjednici 13. svibnja 2022.
+
+Klasa: 011-02/22-02/42  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 17. svibnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM BILJEŽNIŠTVU**
+
+### Članak 1.
+
+U Zakonu o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94., 162/98., 16/07., 75/09. i 120/16.) članak 1. mijenja se i glasi:
+
+»Ovim se Zakonom uređuje ustrojstvo, ovlasti, način rada i nadzora nad radom te druga pitanja od značaja za javno bilježništvo kao javnu službu.«.
+
+### Članak 2.
+
+U članku 1.a ispred riječi: »Pojedini« dodaje se oznaka stavka: »(1)«.
+
+Iza točke 2. dodaje se točka 3. koja glasi:
+
+»3. zakonom određeni sud na području kojega je sjedište javnog bilježnika je nadležni općinski sud te u stegovnom postupku nadležni županijski sud.«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Izrazi koji se koriste u ovom Zakonu, a imaju rodno značenje odnose se jednako na muški i ženski rod.«.
+
+### Članak 3.
+
+U članku 3. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Kada je to posebno propisano, javni bilježnici mogu sastavljati javnobilježničke isprave u elektroničkom obliku.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 4.
+
+Naslov iznad članka 4. mijenja se i glasi: »Zastupanje stranaka«.
+
+### Članak 5.
+
+Naslov iznad članka 6. mijenja se i glasi: »Službeni pečat, štambilj i žig«.
+
+Članak 6. mijenja se i glasi:
+
+»(1) Javni bilježnik ima svoj službeni pečat i žig kojima ovjerava isprave koje sastavlja u obavljanju svoje službe.
+
+(2) Javni bilježnik može imati štambilje koje će koristiti radi jednostavnijeg pisanja teksta same ovjere.
+
+(3) Pečat i žig javnog bilježnika odobrava i ovjerava predsjednik zakonom određenog suda na području kojega je sjedište javnog bilježnika.«.
+
+### Članak 6.
+
+Iza članka 12. dodaju se članak 12.a i naslov iznad članka koji glase:
+
+*»Kodeks javnobilježničke etike*
+
+### Članak 12.a
+
+(1) U obavljanju službe i u slobodno vrijeme javni bilježnici dužni su poštivati Kodeks javnobilježničke etike kojim se utvrđuju načela i pravila njihova ponašanja radi čuvanja ugleda javnobilježničke službe.
+
+(2) Kodeks javnobilježničke etike donosi Skupština Komore i objavljuje se u »Narodnim novinama«.«.
+
+### Članak 7.
+
+U članku 13. stavku 1. točke 2. i 3. mijenjaju se i glase:
+
+»2. koja ima poslovnu i zdravstvenu sposobnost za obavljanje službe javnog bilježnika,
+
+3. koja je završila sveučilišni studij prava na pravnom fakultetu u Republici Hrvatskoj ili kojoj je priznata odgovarajuća inozemna visokoškolska kvalifikacija,«.
+
+U točki 5. riječi: »pet godina« zamjenjuju se riječima: »četiri godine«.
+
+U točki 9. iza riječi: »javnog bilježnika,« dodaju se riječi: »najkasnije u roku od šest mjeseci od dana imenovanja«.
+
+U stavku 2. podstavku 1. iza riječi: »postupak« dodaju se riječi: »za kaznena djela za koja se goni po službenoj dužnosti«.
+
+Podstavak 3. mijenja se i glasi:
+
+» – koja je odlukom stegovnog tijela razriješena dužnosti suca ili zamjenika državnog odvjetnika, kojoj je izrečena kazna prestanka državne službe odnosno kojoj je oduzeto pravo na obavljanje službe javnog bilježnika, javnobilježničkog prisjednika, javnobilježničkog savjetnika ili javnobilježničkog vježbenika odnosno kojoj je izrečena kazna gubitka prava na obavljanje odvjetništva, dok ne prođe deset godina od dana razrješenja, prestanka, gubitka odnosno oduzimanja prava,«.
+
+Podstavci 5. i 6. mijenjaju se i glase:
+
+» – koja ima nepodmireni dospjeli dug po osnovi javnih davanja sukladno posebnim propisima,
+
+– protiv koje je pokrenut postupak stečaja potrošača ili koja je glavni dioničar odnosno glavni nositelj osnivačkih prava pravne osobe nad kojom je otvoren stečajni postupak.«.
+
+### Članak 8.
+
+U članku 14. stavak 1. mijenja se i glasi:
+
+»(1) Javnog bilježnika za područje zakonom određenog suda rješenjem imenuje ministar nadležan za poslove pravosuđa (dalje u tekstu: Ministar) na temelju provedenog natječaja. Protiv rješenja Ministra može se pokrenuti upravni spor.«.
+
+Stavak 8. mijenja se i glasi:
+
+»(8) O prijavljenim kandidatima Ministarstvo pribavlja mišljenja od službi odnosno tijela u kojima rade odnosno u kojima su radili.«.
+
+Iza stavka 8. dodaje se novi stavak 9. koji glasi:
+
+»(9) Prijavljeni kandidati pozivaju se na razgovor s povjerenstvom koje osniva Ministar, na kojem im se postavljaju pitanja koja se odnose na njihov dosadašnji rad i aktivnosti na temelju kojih se može utvrditi njihov interes i sposobnost za pošteno i savjesno obavljanje javnobilježničke službe.«.
+
+Iza dosadašnjeg stavka 9., koji postaje stavak 10., dodaje se stavak 11. koji glasi:
+
+»(11) Postupak prikupljanja mišljenja o kandidatima, sastav i način rada povjerenstva te način provedbe razgovora s kandidatima pravilnikom propisuje Ministar.«.
+
+### Članak 9.
+
+U članku 16. stavak 4. briše se.
+
+Dosadašnji stavci 5. i 6., koji postaju stavci 4. i 5., mijenjaju se i glase:
+
+»(4) Prilikom određivanja broja i sjedišta javnih bilježnika Ministarstvo će uzeti u obzir i potrebe za javnobilježničkim službenim radnjama, razvijenost gospodarskog i pravnog prometa te povjerene poslove.
+
+(5) Ako u određenom mjestu na području nekog zakonom određenog suda zbog malog broja stanovnika i manje razvijenog gospodarskog i pravnog prometa nije opravdano imenovati javnog bilježnika, Ministarstvo će, nakon pribavljanja mišljenja Komore, odrediti koji će od javnih bilježnika s područja tog ili susjednih sudova i po kojem rasporedu obavljati javnobilježničku službu održavanjem uredovnih dana u tom mjestu na području tog zakonom određenog suda.«.
+
+Iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Broj i raspored javnobilježničkih mjesta pravilnikom utvrđuje Ministar.«.
+
+### Članak 10.
+
+U članku 17. stavku 3. iza riječi: »prisjednika« stavlja se zarez i dodaje riječ: »savjetnika«.
+
+Stavci 6. do 10. brišu se.
+
+Dosadašnji stavak 11. postaje stavak 6.
+
+### Članak 11.
+
+U članku 18. iza stavka 8. dodaju se stavci 9., 10. i 11. koji glase:
+
+»(9) Nakon polaganja prisege javni bilježnik dužan je pribaviti kvalificirani certifikat za elektronički potpis i elektronički pečat koji je izdao kvalificirani pružatelj usluga povjerenja. Zahtjev za pribavljanje certifikata podnosi se Komori.
+
+(10) Kvalificirani elektronički potpis ima jednak pravni učinak kao vlastoručni potpis i otisak pečata.
+
+(11) Ovjera kvalificiranim elektroničkim pečatom u radu javnih bilježnika može se koristiti kada je to posebno propisano.«.
+
+### Članak 12.
+
+Iza članka 18. dodaju se članci 18.a i 18.b s naslovima iznad njih koji glase:
+
+*»Informacijski sustav za rad javnih bilježnika*
+
+### Članak 18.a
+
+U svom radu javni bilježnici koriste informacijski sustav koji odobrava Komora.
+
+*Stručno usavršavanje*
+
+### Članak 18.b
+
+(1) Javni bilježnici dužni su stalno se stručno usavršavati.
+
+(2) Pravila o programu i načinu provedbe stručnog usavršavanja javnih bilježnika, uz prethodnu suglasnost Ministra, donosi Komora.«.
+
+### Članak 13.
+
+U članku 21. stavak 1. mijenja se i glasi:
+
+»(1) Javni bilježnik razrješava se:
+
+1. ako naknadno prestanu postojati pretpostavke za obavljanje javnobilježničke službe ili ako se naknadno utvrdi da prigodom imenovanja one nisu postojale,
+
+2. ako ne položi prisegu ili ne osigura opremu i prostor za obavljanje javnobilježničke službe sukladno odredbi članka 13. stavka 1. točke 9. ovoga Zakona,
+
+3. ako se zaposli, počne koristiti starosnu ili invalidsku mirovinu ili počne obavljati neku drugu naplatnu službu,
+
+4. ako mu sudskom odlukom bude oduzeta ili ograničena poslovna sposobnost,
+
+5. ako zbog zdravstvenog stanja ili bolesti postane trajno nesposoban za obavljanje javnobilježničke službe,
+
+6. ako njegovi poslovni odnosi, način vođenja poslova ili način obavljanja povjerenih poslova ugrožavaju interese stranaka, pravnu sigurnost ili rad tijela vlasti koja su mu povjerila obavljanje pojedinih poslova,
+
+7. ako ne produžava uredno svoje osiguranje od odgovornosti ili ne plaća naknadu za osiguranje Komori,
+
+8. ako mu je pravomoćnom odlukom utvrđen nepodmireni dospjeli dug po osnovi javnih davanja.«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavci 4. i 5. postaju stavci 3. i 4.
+
+### Članak 14.
+
+Članak 22. mijenja se i glasi:
+
+»Protiv odluke Ministarstva o razrješenju odnosno o utvrđenju prestanka službe može se pokrenuti upravni spor.«.
+
+### Članak 15.
+
+U članku 23. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Komora će po zaprimanju obavijesti Ministarstva o prestanku službe javnog bilježnika poduzeti radnje za opoziv kvalificiranog certifikata za elektronički potpis i elektronički pečat javnog bilježnika.«.
+
+### Članak 16.
+
+Naslov iznad članka 25. mijenja se i glasi: »Gubitak prava na naziv«.
+
+U članku 25. stavku 2. iza riječi: »izvan službe« dodaju se riječi: »ako javnom bilježniku nije bila utvrđena stegovna odgovornost ili odgovornost za povredu Kodeksa javnobilježničke etike«.
+
+### Članak 17.
+
+Naslov iznad članka 26. i članak 26. brišu se.
+
+### Članak 18.
+
+Članak 27. mijenja se i glasi:
+
+»(1) Ministar će javnog bilježnika privremeno udaljiti iz službe ako je pokrenut postupak za lišenje poslovne sposobnosti javnog bilježnika, ako je pokrenut postupak za utvrđenje trajne nesposobnosti za obavljanje javnobilježničke službe i ako je protiv javnog bilježnika pokrenut kazneni postupak za kazneno djelo za koje je predviđena (zapriječena) kazna zatvora od pet godina ili teža kazna ili za djelo koje je po svojoj prirodi takvo da ga čini nedostojnim za obavljanje javnobilježničke službe.
+
+(2) Ministar može javnog bilježnika privremeno udaljiti iz službe ako je protiv javnog bilježnika pokrenut postupak za razrješenje zbog drugih osnova iz članka 21. ovoga Zakona, ako je u pokrenutom stegovnom postupku predloženo izricanje stegovne kazne oduzimanja prava na obavljanje službe i ako je protiv javnog bilježnika pokrenut kazneni postupak za kazneno djelo za koje je predviđena (zapriječena) kazna zatvora do pet godina.
+
+(3) Do privremenog udaljenja dolazi izvršnošću rješenja o privremenom udaljenju iz stavka 1. i 2. ovoga članka te traje do pravomoćnog okončanja postupka za razrješenje, stegovnog postupka, postupka lišenja poslovne sposobnosti, postupka za utvrđivanje trajne nesposobnosti odnosno kaznenog postupka.
+
+(4) Odredbe ovoga članka ne utječu na ovlasti stegovnog tijela o privremenom udaljenju javnog bilježnika u stegovnom postupku.
+
+(5) Komora će po zaprimanju obavijesti Ministarstva o privremenom udaljenju javnog bilježnika poduzeti radnje za suspenziju kvalificiranog certifikata za njegov elektronički potpis i elektronički pečat.«.
+
+### Članak 19.
+
+U članku 28. stavak 1. mijenja se i glasi:
+
+»(1) U slučaju privremenog udaljenja iz službe, ako javnom bilježniku nije postavljen vršitelj dužnosti, zakonom određeni sud uzet će na čuvanje spise, knjige, pečat i štambilj za vrijeme dok udaljenje traje.«.
+
+### Članak 20.
+
+U članku 29. stavak 4. mijenja se i glasi:
+
+»(4) Na zahtjev javnog bilježnika Ministarstvo može dozvoliti otvaranje pisarnice i održavanje uredovnih dana izvan sjedišta javnog bilježnika.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Kriterije za određivanje smještaja, prostora, opreme i uređenja javnobilježničkih ureda pravilnikom propisuje Ministar.«.
+
+### Članak 21.
+
+U članku 32. stavak 3. mijenja se i glasi:
+
+»(3) Radno vrijeme u javnobilježničkim uredima pravilnikom propisuje Ministar.«.
+
+### Članak 22.
+
+U članku 36. stavku 3. riječi: »sud iz članka 34. stavka 4. ovoga Zakona« zamjenjuju se riječima: »zakonom određeni sud na području kojega je sjedište javnog bilježnika«.
+
+U stavku 4. iza riječi: »prisjednika« stavlja se zarez i dodaje riječ: »savjetnika«.
+
+### Članak 23.
+
+U članku 37. stavku 3. riječi: »sud iz članka 34. stavka 4. ovoga Zakona« zamjenjuju se riječima: »zakonom određeni sud na području kojega je sjedište javnog bilježnika«.
+
+U stavku 4. iza riječi: »službe« dodaju se riječi: »odnosno zaposlenja«.
+
+### Članak 24.
+
+Članak 38. mijenja se i glasi:
+
+»(1) Javni bilježnik ne smije se povezati s odvjetnikom ni s drugim fizičkim ili pravnim osobama radi zajedničkog obavljanja službi niti koristiti isti poslovni prostor.
+
+(2) Javni bilježnik ne smije biti član političke stranke niti se baviti političkom djelatnošću.«.
+
+### Članak 25.
+
+U članku 39. stavci 3. i 4. brišu se.
+
+Dosadašnji stavak 5., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Javni bilježnik smije obavljati dužnost izvršitelja oporuke i skrbnika, baviti se znanstvenom i nastavnom djelatnošću te objavljivati stručne radove.«.
+
+Dosadašnji stavak 6. briše se.
+
+### Članak 26.
+
+Naslov iznad članka 41. mijenja se i glasi: »Oslobođenje od plaćanja troškova«.
+
+Članak 41. mijenja se i glasi:
+
+»(1) Ako stranka ima pravo na oslobođenje od plaćanja troškova postupka sukladno posebnim propisima koji vrijede za sudske postupke, od zakonom određenog suda na području kojega je sjedište javnog bilježnika od kojega se traži poduzimanje službene radnje može zahtijevati da je oslobodi dužnosti plaćanja javnobilježničkih pristojbi te nagrade i naknade troškova javnom bilježniku za obavljanje te radnje.
+
+(2) U slučaju oslobođenja od obveze plaćanja nagrade i naknade troškova iz stavka 1. ovoga članka javni bilježnik od zakonom određenog suda na području kojega je njegovo sjedište ima pravo tražiti isplatu nagrade i naknade troškova na teret suda.
+
+(3) Neovisno o odredbama stavka 1. i 2. ovoga članka, stranka ima pravo na oslobođenje od plaćanja određenih troškova pružanja javnobilježničkih usluga u skladu s općim aktima Komore.«.
+
+### Članak 27.
+
+U članku 42. stavak 3. mijenja se i glasi:
+
+»(3) Javnobilježnički prisjednik, savjetnik i vježbenik odgovaraju kao i javni bilježnik za štetu koju prouzroče povredom službene dužnosti pri samostalnom obavljanju kakve radnje u skladu s ovim Zakonom. Javni bilježnik odgovara solidarno s javnobilježničkim prisjednikom, savjetnikom i vježbenikom ako ih je ovlastio da samostalno obave radnju. Javni bilježnik ima pravo regresa prema javnobilježničkom prisjedniku, savjetniku i vježbeniku prema općim pravilima o regresnoj odgovornosti službenih osoba. Za štetu koju prouzroče javnobilježnički prisjednik, savjetnik i vježbenik država ne odgovara.«.
+
+### Članak 28.
+
+Iza članka 42. dodaje se članak 42.a i naslov iznad članka koji glase:
+
+*»Javnobilježnički poslovnik*
+
+### Članak 42.a
+
+(1) Poslovanje u javnobilježničkim uredima propisuje se Javnobilježničkim poslovnikom.
+
+(2) Javnobilježnički poslovnik, uz prethodno mišljenje Komore, donosi Ministar.«.
+
+### Članak 29.
+
+U članku 43. stavku 1. riječi: »strojem ili drugim sredstvom mehaničkog pisanja« zamjenjuju se riječima: »na računalu«.
+
+U stavku 3. riječi: »posebnim pravilnikom« zamjenjuju se riječima: »Javnobilježničkim poslovnikom«.
+
+### Članak 30.
+
+Iza članka 50. dodaju se članak 50.a i naslov iznad članka koji glase:
+
+*»Čuvanje i izdavanje javnobilježničkih isprava u elektroničkom obliku*
+
+### Članak 50.a
+
+(1) Komora vodi jedinstveni elektronički arhiv svih javnobilježničkih isprava u elektroničkom obliku.
+
+(2) Ispisana javnobilježnička isprava u elektroničkom obliku prikaz je vanjskog obrasca elektroničke javnobilježničke isprave koji sadrži odgovarajući barkod odnosno QR kod, kontrolni broj i internetsku stranicu za provjeru vjerodostojnosti isprave i preuzimanje izvornika. Ispisana elektronička javnobilježnička isprava, bez dodatne ovjere, ima značaj otpravka javnobilježničke isprave.
+
+(3) Način vođenja te pristup i korištenje elektroničkog arhiva javnobilježničkih isprava u elektroničkom obliku određuje Komora posebnim pravilima.«.
+
+### Članak 31.
+
+Iza članka 52. dodaju se članak 52.a i naslov iznad članka koji glase:
+
+*»Sastavljanje javnobilježničkih isprava u elektroničkom obliku*
+
+### Članak 52.a
+
+(1) Javnobilježničke isprave mogu se sastaviti u elektroničkom obliku kada je takav oblik posebno propisan za određene vrste pravnih poslova odnosno radnji.
+
+(2) Ako sudionici u postupku sastavljanja isprave nisu fizički nazočni u javnobilježničkom uredu, njihova se nazočnost može osigurati putem sredstava elektroničke videokonferencijske komunikacije.
+
+(3) Pri sastavljanju isprave iz stavka 1. ovoga članka javni bilježnik provjerava istovjetnost sudionika pomoću sredstava elektroničke identifikacije i autentifikacije visoke razine sigurnosti, a može izvršiti i dodatnu provjeru istovjetnosti, kao i ostale potrebne provjere nužne za valjanost javnobilježničke isprave.
+
+(4) U slučaju sumnje u istovjetnost sudionika te u postojanje drugih pretpostavki valjanosti javnobilježničke isprave, javni bilježnik će zahtijevati fizičku nazočnost sudionika pri sastavljanju javnobilježničke isprave.
+
+(5) Ako za javnobilježničku ispravu u elektroničkom obliku ovim Zakonom ili posebnim propisom nije drukčije propisano, na javnobilježničku ispravu u elektroničkom obliku na odgovarajući se način primjenjuju pravila o javnobilježničkoj ispravi u papirnatom (fizičkom) obliku.
+
+(6) Javnobilježnička isprava koja je sastavljena u elektroničkom obliku, potpisana kvalificiranim elektroničkim potpisom sudionika i javnog bilježnika po svojim je učincima i pravnoj snazi izjednačena s javnobilježničkom ispravom u papirnatom (fizičkom) obliku.
+
+(7) Pretpostavke, sadržaj i postupak sastavljanja i pohrane javnobilježničkih isprava u elektroničkom obliku uređuju se Javnobilježničkim poslovnikom.«.
+
+### Članak 32.
+
+U članku 60. stavak 2. mijenja se i glasi:
+
+»(2) U ispravi javni će bilježnik navesti poznaje li sudionike odnosno na koji je način utvrdio njihovu istovjetnost, uz točno navođenje imena i prezimena, osobnog identifikacijskog broja i prebivališta svjedoka istovjetnosti te datuma i broja isprave upotrijebljene za utvrđivanje istovjetnosti i vlasti koja je tu ispravu izdala.«.
+
+### Članak 33.
+
+U članku 68. stavku 2. riječ: »namještenik« zamjenjuje se riječju: »zaposlenik«.
+
+### Članak 34.
+
+U članku 69. stavku 1. točka 2. mijenja se i glasi:
+
+»2) podatke o sudionicima: o fizičkim osobama (ime i prezime, osobni identifikacijski broj, adresa prebivališta, datum rođenja), a o pravnim osobama (matični broj subjekta – MBS iz sudskog registra ili broj drugog registra, osobni identifikacijski broj i sjedište),«.
+
+### Članak 35.
+
+Naslov iznad članka 74. mijenja se i glasi: »Ovjera prijepisa i preslika«.
+
+U članku 74. stavku 7. riječ: »uspoređivala« zamjenjuje se riječju: »uspoređivao«.
+
+### Članak 36.
+
+U članku 77. stavku 1. riječ: »svojeručno« zamjenjuje se riječju: »vlastoručno«.
+
+### Članak 37.
+
+Naslov iznad članka 87. mijenja se i glasi: »Pisani zahtjev za poduzimanje radnje«.
+
+Članak 87. mijenja se i glasi:
+
+»(1) Zahtjev da se priopći izjava i poduzme pravna radnja može se javnom bilježniku uputiti i pisanim putem, uz vlastoručni ili kvalificirani elektronički potpis, u kojem slučaju navedeno zamjenjuje zapisnik iz članka 83. stavka 2. ovoga Zakona i prošiva se s posebnim zapisnikom koji javni bilježnik sastavlja o radnji iz članka 83. stavka 3. ovoga Zakona.
+
+(2) U potvrdi se naznačuje kojim je oblikom pisanog priopćavanja zahtjev postavljen.«.
+
+### Članak 38.
+
+Naslov iznad članka 88. mijenja se i glasi: »Potvrda o pisanom priopćenju«.
+
+Članak 88. mijenja se i glasi:
+
+»(1) Javni bilježnik može izdati potvrdu o tome da je kojoj stranki, neovisno o mjestu njezina stanovanja ili sjedišta, pismom ili drugim oblikom pisanog priopćavanja poslao priopćenje određenog sadržaja.
+
+(2) U slučaju iz stavka 1. ovoga članka javni bilježnik u zapisniku o priopćenju te u potvrdi navodi: ime i prezime odnosno naziv, osobni identifikacijski broj i adresu stranke koja je to zahtijevala, doslovni sadržaj priopćavanja te doslovni prijepis adrese na koju je priopćenje poslano.
+
+(3) Dokaz o upućivanju poruke prošiva se uz zapisnik.«.
+
+### Članak 39.
+
+U članku 90. stavku 2. iza riječi: »imena« dodaju se riječi: »i prezimena odnosno nazive, osobne identifikacijske brojeve«.
+
+U stavku 3. riječi: »utvrđen identitet« zamjenjuju se riječima: »utvrđena istovjetnost«.
+
+### Članak 40.
+
+U članku 109. stavku 2. riječi: »prezime i ime, zanimanje i adresu« zamjenjuju se riječima: »ime i prezime, osobni identifikacijski broj, adresu i način utvrđenja istovjetnosti«.
+
+U stavku 4. riječ: »poslata« zamjenjuje se riječju: »poslana«.
+
+U stavku 5. riječ: »identitet« zamjenjuje se riječju: »istovjetnost«.
+
+### Članak 41.
+
+U članku 117. stavci 3., 4. i 5. mijenjaju se i glase:
+
+»(3) Postavljenom vršitelju dužnosti sud uz potvrdu predaje arhivu ranijeg javnog bilježnika, a njegove pečate i štambilje poništava. Ako je postavljeni vršitelj dužnosti javni bilježnik, u radu u svojstvu vršitelja dužnosti koristi svoj pečat.
+
+(4) Kada služba vršitelja dužnosti prestane zbog popunjavanja upražnjenog mjesta, predsjednik suda zaključuje javnobilježničke knjige, popisuje zajedno s ranijim vršiteljem dužnosti spise, predmete, upisnike i knjige iz vremena ranijeg javnog bilježnika i iz vremena vršitelja dužnosti te ih predaje novom javnom bilježniku, a pečate i štambilje vršitelja dužnosti poništava.
+
+(5) O svim poduzetim radnjama iz ovoga članka predsjednik suda obavještava Ministarstvo i Komoru.«.
+
+Stavak 6. briše se.
+
+### Članak 42.
+
+Članak 122. mijenja se i glasi:
+
+»(1) Javnobilježnički prisjednici su osobe sa završenim sveučilišnim studijem prava koje su zaposlene u javnobilježničkom uredu na neodređeno vrijeme i koje su upisane u Imenik javnobilježničkih prisjednika koji vodi Komora.
+
+(2) U javnobilježničkom uredu mogu biti zaposlena najviše tri javnobilježnička prisjednika.
+
+(3) U imenik javnobilježničkih prisjednika može biti upisana osoba koja ispunjava uvjete iz članka 13. stavka 1. točaka 1., 2., 3., 4., 6., 7. i 8. ovoga Zakona. Na javnobilježničkog prisjednika na odgovarajući se način primjenjuje članak 12.a, članak 13. stavak 2., članak 18.b te članci 38. i 39. ovoga Zakona.
+
+(4) Javni bilježnici prijavljuju Ministarstvu i Komori potrebu za otvaranjem mjesta javnobilježničkih prisjednika.
+
+(5) O potrebi otvaranja mjesta javnobilježničkog prisjednika odlučuje Ministarstvo, na temelju pribavljenog mišljenja Komore. Odobrena mjesta javnobilježničkog prisjednika popunjavaju se na temelju natječaja koji raspisuje i provodi Komora. Prigodom izbora osobito će se voditi računa o uspjehu postignutom na pravnom studiju i dotadašnjem radu.
+
+(6) O izboru i postavljenju javnobilježničkog prisjednika odlučuje Ministarstvo, na temelju prethodno pribavljenog mišljenja Komore i javnog bilježnika. Ako se usprotivi postavljenju određenog javnobilježničkog prisjednika, javni bilježnik u idućih godinu dana ne može tražiti otvaranje mjesta javnobilježničkog prisjednika u svom uredu.
+
+(7) Služba javnobilježničkog prisjednika počinje teći od dana upisa u imenik Komore. Javni bilježnik dužan je bez odgađanja obavijestiti Komoru i Ministarstvo o prestanku rada prisjednika. O prestanku službe javnobilježničkog prisjednika Ministarstvo donosi rješenje.
+
+(8) Prisjednik je dužan uredno plaćati članarinu Komori.
+
+(9) U slučaju bolesti ili drugih razloga zbog kojih je javnobilježnički prisjednik duže vremena spriječen obavljati svoju službu, za vrijeme spriječenosti zamijenit će ga zamjenik javnobilježničkog prisjednika, kojeg na prijedlog javnog bilježnika određuje Ministarstvo. Zamjenik javnobilježničkog prisjednika mora ispunjavati uvjete iz stavka 3. ovoga članka te se na njega na odgovarajući način primjenjuje članak 17. stavak 3., članci 42. i 125., članak 126. stavci 2., 5. i 7. i članak 129. ovoga Zakona.
+
+(10) Dok traje zamjena, zamijenjeni javnobilježnički prisjednik ne smije obavljati poslove javnobilježničkog prisjednika.«.
+
+### Članak 43.
+
+Iza članka 122. dodaju se članak 122.a i naslov iznad članka koji glase:
+
+*»Javnobilježnički savjetnici*
+
+### Članak 122.a
+
+(1) Javnobilježnički savjetnici su osobe koje su zaposlene u javnobilježničkom uredu i koje ispunjavaju uvjete iz članka 13. stavka 1. točaka 1., 2., 3., 6., 7. i 8. ovoga Zakona te imaju položen pravosudni ispit.
+
+(2) Osobe iz stavka 1. ovoga članka upisuju se u Imenik javnobilježničkih savjetnika koji vodi Komora.
+
+(3) U javnobilježničkom uredu mogu biti zaposlena najviše dva javnobilježnička savjetnika.
+
+(4) Na javnobilježničke savjetnike na odgovarajući se način primjenjuje članak 12.a, članak 13. stavak 2., članak 18.b te članci 38. i 39. ovoga Zakona.
+
+(5) Javni bilježnici prijavljuju Komori potrebu za otvaranjem mjesta javnobilježničkih savjetnika, a odobrena mjesta javnobilježničkih savjetnika popunjavaju se na temelju natječaja koji raspisuje i provodi Komora.
+
+(6) O izboru javnobilježničkih savjetnika rješenjem odlučuje Komora, osobito vodeći računa o uspjehu postignutom na sveučilišnom studiju prava i dotadašnjem radu. Rješenje o izboru javnobilježničkih savjetnika Komora dostavlja Ministarstvu.
+
+(7) Ako javnobilježnički vježbenik položi pravosudni ispit te nastavi s radom u javnobilježničkom uredu u kojem postoji slobodno mjesto javnobilježničkog savjetnika u smislu stavka 3. ovoga članka, javni bilježnik dužan je bez odgode podnijeti prijedlog za njegov upis u Imenik javnobilježničkih savjetnika.
+
+(8) Javni bilježnik dužan je bez odgode obavijestiti Komoru o svakom prestanku rada javnobilježničkog savjetnika.«.
+
+### Članak 44.
+
+Članak 123. mijenja se i glasi:
+
+»(1) Javnobilježnički vježbenici su osobe koje su zaposlene u javnobilježničkom uredu i koje ispunjavaju uvjete iz članka 13. stavka 1. točaka 1., 2., 3., 6., 7. i 8. ovoga Zakona.
+
+(2) Osobe iz stavka 1. ovoga članka upisuju se u Imenik javnobilježničkih vježbenika koji vodi Komora.
+
+(3) Na javnobilježničke vježbenike na odgovarajući se način primjenjuje članak 12.a, članak 13. stavak 2., članak 18.b te članci 38. i 39. ovoga Zakona.
+
+(4) Javni bilježnici prijavljuju Komori potrebu za otvaranjem mjesta javnobilježničkih vježbenika, a odobrena mjesta javnobilježničkih vježbenika popunjavaju se na temelju natječaja koji raspisuje i provodi Komora.
+
+(5) O izboru javnobilježničkih vježbenika rješenjem odlučuje Komora, osobito vodeći računa o uspjehu postignutom na sveučilišnom studiju prava i dotadašnjem radu. Rješenje o izboru javnobilježničkih vježbenika Komora dostavlja Ministarstvu.
+
+(6) Javnobilježnička vježba počinje teći od dana upisa vježbenika u Imenik, a može trajati najduže tri godine od dana stjecanja uvjeta za polaganje pravosudnog ispita, nakon čega vježbeniku prestaje pravo na obavljanje javnobilježničke vježbe te se briše iz Imenika vježbenika.
+
+(7) Javni bilježnik dužan je bez odgode obavijestiti Komoru o prestanku rada javnobilježničkog vježbenika.«.
+
+### Članak 45.
+
+Članak 124. mijenja se i glasi:
+
+»Protiv odluke Ministarstva o izboru i postavljenju te prestanku službe javnobilježničkog prisjednika, protiv odluke Komore o izboru javnobilježničkog savjetnika i vježbenika te odluke kojom se odbija zahtjev za upis javnobilježničkog savjetnika ili vježbenika u Imenik, protiv odluke Komore kojom se uskraćuje potvrda o obavljanju javnobilježničke vježbe te protiv odluke kojom se određuje brisanje javnobilježničkog prisjednika, savjetnika odnosno vježbenika iz Imenika, javnobilježnički prisjednik, savjetnik odnosno vježbenik ima pravo pokrenuti upravni spor, osim ako je odluka o brisanju iz Imenika donesena na temelju odluke stegovnih tijela.«.
+
+### Članak 46.
+
+Naslov iznad članka 125. mijenja se i glasi: »Prisega javnobilježničkih prisjednika, savjetnika i vježbenika«.
+
+Članak 125. mijenja se i glasi:
+
+»(1) Javnobilježnički prisjednik, savjetnik i vježbenik dužni su pred predsjednikom Komore ili javnim bilježnikom kojega na to ovlasti Komora položiti prisegu.
+
+(2) Prisega javnobilježničkih prisjednika, savjetnika i vježbenika po sadržaju je istovjetna javnobilježničkoj prisezi.
+
+(3) O polaganju prisege sastavlja se zapisnik, a ako prisega nije položena pred predsjednikom Komore, primjerak zapisnika dostavlja se Komori.«.
+
+### Članak 47.
+
+U članku 126. stavku 4. iza riječi: »Zakona« dodaju se riječi: »te obavljati druge poslove sukladno posebnim propisima«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Javni bilježnik dužan je za javnobilježničkog prisjednika, javnobilježničkog savjetnika i javnobilježničkog vježbenika od Komore pribaviti kvalificirani certifikat za elektronički potpis.«.
+
+### Članak 48.
+
+Članak 127. i naslov iznad njega brišu se.
+
+### Članak 49.
+
+U članku 128. stavak 2. mijenja se i glasi:
+
+»(2) Zamjenik javnog bilježnika određuje se između javnih bilježnika i javnobilježničkih prisjednika.«.
+
+### Članak 50.
+
+Članak 129. mijenja se i glasi:
+
+»(1) Ako se može osnovano pretpostaviti da će spriječenost javnog bilježnika za obavljanje službe trajati dulje od 30 dana, javni bilježnik dužan je potrebu za zamjenikom pisano prijaviti Ministarstvu, uz obavijest Komori, te predložiti osobu zamjenika i po mogućnosti vrijeme trajanja zamjene.
+
+(2) Javni bilježnik može unaprijed prijaviti Ministarstvu ime osobe koja ga može zamijeniti u slučaju spriječenosti za obavljanje službe u razdoblju od najdulje godinu dana, u kojem je slučaju nastanak potrebe zamjene dužan bez odgode prijaviti Ministarstvu, uz obavijest Komori.
+
+(3) Predložene zamjenike iz stavka 1. i 2. ovoga članka rješenjem odobrava Ministarstvo te ih Komora upisuje u Imenik javnobilježničkih zamjenika.
+
+(4) Ako Ministarstvo ne odobri predložene zamjenike u roku od osam dana, pozvat će javnog bilježnika da predloži drugu osobu za svog zamjenika, a ako javni bilježnik ne predloži drugu osobu, zamjenika rješenjem postavlja Ministarstvo, uz prethodno mišljenje Komore.
+
+(5) Iz opravdanih razloga odobreno vrijeme zamjene može se i produljiti.
+
+(6) Javni bilježnik dužan je Ministarstvu prijaviti prestanak potrebe za zamjenjivanjem.
+
+(7) Ovlasti zamjenika počinju preuzimanjem službe i prestaju predajom službe javnom bilježniku ili opozivom ovlasti.
+
+(8) Službene radnje zamjenika nisu bez učinka samo zato što nisu bile ispunjene pretpostavke za njegovo postavljenje ili zato što su naknadno otpale.«.
+
+### Članak 51.
+
+U članku 130. stavak 1. mijenja se i glasi:
+
+»(1) Ako javni bilježnik umre, bude privremeno udaljen iz službe, ako se odrekne službe ili ako mu bude oduzeto pravo na obavljanje službe, Ministarstvo mu po službenoj dužnosti, uz prethodno mišljenje Komore, određuje vršitelja dužnosti između javnih bilježnika ili javnobilježničkih prisjednika koji se upisuje u Imenik vršitelja dužnosti javnih bilježnika koji vodi Komora.«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ovlasti vršitelja dužnosti počinju preuzimanjem službe i prestaju početkom rada javnog bilježnika ili opozivom ovlasti.«.
+
+### Članak 52.
+
+U članku 131. stavku 2. prva rečenica mijenja se i glasi: »Vršitelj dužnosti i zamjenik javnog bilježnika polažu prisegu pred predsjednikom zakonom određenog suda.«.
+
+### Članak 53.
+
+U članku 134. stavku 1. točki 4. iza riječi: »prisjednika« stavlja se zarez i dodaje riječ: »savjetnika«.
+
+U točki 6. riječ: »Komoru« zamjenjuje se riječju: »nadležnost«.
+
+### Članak 54.
+
+Članak 136. mijenja se i glasi:
+
+»(1) Predsjednik i članovi Upravnog odbora imaju pravo na nagradu i naknadu troškova za svoj rad u tijelima Komore.
+
+(2) Visinu nagrade i naknade troškova iz stavka 1. ovoga članka određuje Upravni odbor.«.
+
+### Članak 55.
+
+Članak 137. mijenja se i glasi:
+
+»Protiv odluka tijela Komore kojima se odlučuje o pravima i dužnostima javnih bilježnika, vršitelja dužnosti te javnobilježničkih zamjenika, prisjednika, savjetnika i vježbenika, ako nije drukčije određeno ovim Zakonom, može se pokrenuti upravni spor.«.
+
+### Članak 56.
+
+Naslov iznad članka 139. mijenja se i glasi: »Predstavnici javnobilježničkih prisjednika, savjetnika i vježbenika«.
+
+Članak 139. mijenja se i glasi:
+
+Statutom Komore uređuje se broj, način izbora, prava i dužnosti predstavnika javnobilježničkih prisjednika, savjetnika i vježbenika u tijelima Komore.«.
+
+### Članak 57.
+
+Članak 140. mijenja se i glasi:
+
+»(1) U nadzoru nad radom javnobilježničke službe Ministarstvo može po službenoj dužnosti ili u povodu pritužbi zainteresiranih osoba odrediti pregled poslovanja Komore, pojedinih javnih bilježnika, vršitelja dužnosti, javnobilježničkih zamjenika, prisjednika, savjetnika i vježbenika te poduzeti potrebne mjere da se utvrđene nepravilnosti otklone i sankcioniraju.
+
+(2) Nadzor iz stavka 1. ovoga članka obavljaju službenici Ministarstva raspoređeni na radna mjesta inspektora, viših inspektora i viših inspektora – specijalista.
+
+(3) Inspektor može biti osoba koja ima završen sveučilišni studij prava i najmanje tri godine radnog iskustva na odgovarajućim poslovima, viši inspektor može biti osoba koja ima završen sveučilišni studij prava i najmanje četiri godine radnog iskustva na odgovarajućim poslovima, a viši inspektor – specijalist može biti osoba koja ispunjava uvjete za višeg inspektora, ima istaknute rezultate u području od značaja za rad državnog tijela i prethodno odobrenje ministarstva nadležnog za službeničke odnose.
+
+(4) Poslovi radnih mjesta iz stavka 2. ovoga članka su poslovi s posebnim uvjetima rada.
+
+(5) Za obavljanje pojedinih nadzora iz stavka 1. ovoga članka Ministar može zatražiti od predsjednika zakonom određenog suda na području kojega se nalazi sjedište Komore ili javnobilježničkog ureda te od Komore da odrede suce odnosno javne bilježnike koji će sudjelovati u nadzoru.
+
+(6) Komora i osobe iz stavka 1. ovoga članka dužni su Ministarstvu omogućiti pregled spisa, knjiga, upisnika i imenika koji se kod njih nalaze.
+
+(7) Ministarstvo u obavljanju nadzora ima pravo uvida u informacijski sustav koji je odobrila Komora.
+
+(8) Ministar može raspustiti Upravni odbor i smijeniti predsjednika Komore ako u radu tih tijela utvrdi teže nepravilnosti, odnosno ako ona ni nakon opomene ne ispune svoje zakonske obveze. U svom rješenju Ministar će odrediti rok za izbor novog Upravnog odbora i predsjednika Komore, a imenovat će i svog povjerenika između javnih bilježnika u Republici Hrvatskoj koji će obavljati poslove tih tijela sve dok njihovo obavljanje ne preuzmu novoizabrana tijela.
+
+(9) Povjerenik obavlja svoju djelatnost u sjedištu Komore i ima pravo na primjerenu nagradu i naknadu troškova na račun Komore u visini koju odredi Ministar.
+
+(10) Na temelju utvrđenja obavljenog nadzora Ministar može izreći ukor javnom bilježniku i drugim osobama iz stavka 1. ovoga članka zbog neprimjerenog ponašanja. Protiv ukora te osobe mogu izjaviti žalbu prvostupanjskom stegovnom vijeću.
+
+(11) Izricanje ukora ne utječe na pravo pokretanja stegovnog postupka i postupka razrješenja.
+
+(12) Način provedbe nadzora nad pravilnim i zakonitim obavljanjem javnobilježničke službe pravilnikom propisuje Ministar.«.
+
+### Članak 58.
+
+Članak 141. mijenja se i glasi:
+
+»(1) Nadzor nad radom i ponašanjem javnih bilježnika, vršitelja dužnosti te javnobilježničkih zamjenika, prisjednika, savjetnika i vježbenika obavljaju i Upravni odbor i predsjednik Komore.
+
+(2) Tijela iz stavka 1. ovoga članka ovlaštena su davati upute i stavljati primjedbe na njihov rad.
+
+(3) Upravni odbor Komore najmanje jednom u tri godine obavlja pregled rada ureda javnih bilježnika radi provjere njihova poslovanja te radi obavljanja pregleda određuje dva ili više svojih članova.
+
+(4) Upravni odbor Komore na početku svake kalendarske godine utvrđuje godišnji plan pregleda iz stavka 3. ovoga članka te ga dostavlja Ministarstvu, a iz opravdanih razloga preglede može obavljati i u uredima koji nisu obuhvaćeni donesenim planom.
+
+(5) Ako se utvrde nepravilnosti u radu osoba iz stavka 1. ovoga članka, protiv njih će se poduzeti mjere utvrđene ovim Zakonom i Statutom Komore.
+
+(6) O provedenim pregledima, utvrđenjima i poduzetim mjerama Upravni odbor Komore dužan je bez odgode obavijestiti Ministarstvo.«.
+
+### Članak 59.
+
+U članku 142. iza riječi: »prisjednika« stavlja se zarez i dodaje riječ: »savjetnika«.
+
+### Članak 60.
+
+Članak 143. mijenja se i glasi:
+
+»(1) O svakom odsustvu ili spriječenosti za rad javni bilježnik dužan je obavijestiti zakonom određeni sud na čijem je području njegovo sjedište, Komoru i Ministarstvo.
+
+(2) Za odsustvo dulje od osam dana javni bilježnik mora dobiti odobrenje Komore, a za odsustvo dulje od 30 dana od Ministarstva zatražiti postavljanje zamjenika javnog bilježnika sukladno članku 129. ovoga Zakona.
+
+(3) Odredbe ovoga članka na odgovarajući se način primjenjuju na zamjenike i vršitelje dužnosti javnih bilježnika.
+
+(4) U slučaju privremene spriječenosti javnog bilježnika za rad, kada nije zatraženo postavljanje zamjenika javnog bilježnika, na odgovarajući se način primjenjuje članak 28. ovoga Zakona.«.
+
+### Članak 61.
+
+Članak 144. mijenja se i glasi:
+
+»Ako iz ponašanja javnog bilježnika ili njegova odnosa prema radu i strankama proizlazi sumnja na trajni gubitak zdravstvene sposobnosti za obavljanje javnobilježničke službe zbog zdravstvenog stanja odnosno bolesti, Ministar će pred zakonom određenom sudu na čijem je području sjedište javnog bilježnika pokrenuti postupak za utvrđivanje trajne nesposobnosti za obavljanje javnobilježničke službe.«.
+
+### Članak 62.
+
+U članku 145. stavku 3. točka 5. mijenja se i glasi:
+
+»5) ako protivno propisima zaračunava pristojbu, nagradu i troškove obavljanja službenih radnji i povjerenih poslova,«.
+
+U točki 9. iza riječi: »tijela« stavlja se zarez, a točka sa zarezom briše se i dodaju se riječi: »osobito ako bez opravdanog razloga ne izvršava povjerene poslove u ostavljenom roku ili o nemogućnosti njihova izvršenja u ostavljenom roku iz opravdanih razloga pravodobno ne obavijesti sud ili drugo tijelo koje mu je posao povjerilo,«.
+
+Točka 10. mijenja se i glasi:
+
+»10) ako ne vodi ili ako neuredno ili protivno propisima vodi knjige, upisnike i imenike, osobito ako ostavlja prazne rubrike,«.
+
+U točki 14. riječi: »za plaću državnu ili koju drugu stalnu javnu ili privatnu službu« zamjenjuju se riječima: »naplatne poslove, poslove koji nisu u skladu s ugledom, čašću i nepristranošću javnog bilježnika odnosno poslove i djelovanja koji su Zakonom zabranjeni«.
+
+Točka 15. mijenja se i glasi:
+
+»15) ako nemarno upravlja svojim uredom, osobito ako službu obavlja u prostoru koji nije odobrilo Ministarstvo, u prostoru ureda napravi preinake bez odobrenja Ministarstva, ne postupa prema propisima kojima se uređuje radno vrijeme, smještaj, prostor, oprema i uređenje ureda, čuvanje dokumentarnog gradiva te ne postupa sukladno odredbama ovoga Zakona koje se odnose na zaposlenike u javnobilježničkom uredu,«.
+
+Iza točke 15. dodaje se nova točka 16. i točke 17. do 20. koje glase:
+
+»16) ako protivno zakonu obavlja službene radnje izvan svog službenog područja, bez odobrenja Ministarstva održava uredovne dane ili otvori pisarnicu, povrijedi svoje obveze održavanja uredovnih dana bez opravdanog razloga te povrijedi svoje obveze u slučaju odsustva i spriječenosti za rad,«.
+
+17) ako učestalo krši odredbe Kodeksa javnobilježničke etike,
+
+18) ako povrijedi obveze stručnog usavršavanja,
+
+19) ako povrijedi dužnosti sudjelovanja u radu tijela Komore,
+
+20) ako se ne podvrgne prosudbi zdravstvenog stanja u postupku utvrđivanja trajne nesposobnosti za obavljanje službe,«.
+
+Dosadašnja točka 16. postaje točka 21.
+
+U stavku 5. riječi: »prisjednika i vježbenika« zamjenjuju se riječima: »prisjednike, savjetnike i vježbenike«.
+
+### Članak 63.
+
+Članak 146. mijenja se i glasi:
+
+»(1) Kazne za neurednost javnih bilježnika su:
+
+1) pisana opomena,
+
+2) novčana kazna do visine jedne osnovne mjesečne plaće suca županijskog suda, plaćanje koje se može odrediti u najviše pet jednakih mjesečnih obroka.
+
+(2) Kazne za neurednost javnobilježničkih prisjednika, savjetnika i vježbenika su pisana opomena i novčana kazna.
+
+(3) Javnobilježničkom prisjedniku novčana kazna može se izreći do visine jedne osnovne mjesečne plaće suca općinskog suda, javnobilježničkom savjetniku novčana kazna do visine jedne osnovne mjesečne plaće sudskog savjetnika u općinskom sudu, a javnobilježničkom vježbeniku novčana kazna do visine jedne osnovne mjesečne plaće sudačkog vježbenika u općinskom sudu, plaćanje kojih se može odrediti u najviše pet jednakih mjesečnih obroka.«.
+
+### Članak 64.
+
+U članku 147. stavak 1. mijenja se i glasi:
+
+»(1) Kazne za stegovni prijestup javnih bilježnika su:
+
+1) pisani ukor,
+
+2) novčana kazna do visine tri osnovne mjesečne plaće suca županijskog suda, plaćanje koje se može odrediti u najviše deset jednakih mjesečnih obroka,
+
+3) privremeno oduzimanje prava na obavljanje službe u trajanju do godinu dana,
+
+4) oduzimanje prava na obavljanje službe.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Kazne za stegovni prijestup javnobilježničkih prisjednika, savjetnika i vježbenika su pisani ukor, novčana kazna i oduzimanje prava na obavljanje službe javnobilježničkog prisjednika, savjetnika ili vježbenika. Javnobilježničkom prisjedniku može se izreći i kazna privremenog oduzimanja prava da obavlja poslove vršitelja dužnosti ili javnobilježničkog zamjenika, najduže u trajanju od godinu dana.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Javnobilježničkom prisjedniku može se izreći novčana kazna do visine tri osnovne mjesečne plaće suca općinskog suda, javnobilježničkom savjetniku novčana kazna do visine tri osnovne mjesečne plaće sudskog savjetnika u općinskom sudu, a javnobilježničkom vježbeniku novčana kazna do visine tri osnovne mjesečne plaće sudačkog vježbenika u općinskom sudu, plaćanje kojih se može odrediti u najviše deset jednakih mjesečnih obroka. Ako je javnobilježnički prisjednik postavljen za javnobilježničkog zamjenika ili vršitelja dužnosti, novčana kazna može mu se izreći kao javnom bilježniku.«.
+
+### Članak 65.
+
+U članku 149. stavak 1. mijenja se i glasi:
+
+»(1) Stegovni progon za neurednost zastarijeva nakon tri godine, a za stegovne prijestupe nakon šest godina od dovršetka stegovnog djela.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavci 3. i 4. postaju stavci 2. i 3.
+
+### Članak 66.
+
+U članku 150. stavak 3. mijenja se i glasi:
+
+»(3) U Republici Hrvatskoj javnobilježnička stegovna vijeća osnovat će se u zakonom određenom sudu u Osijeku za područje sudova u Osijeku, Slavonskom Brodu i Vukovaru, u zakonom određenom sudu u Rijeci za područje sudova u Puli-Pola i Rijeci, u zakonom određenom sudu u Splitu za područje sudova u Dubrovniku, Splitu, Šibeniku i Zadru, u zakonom određenom sudu u Zagrebu za područje sudova u Bjelovaru, Karlovcu, Sisku, Varaždinu, Velikoj Gorici i Zagrebu.«.
+
+U stavku 4. iza riječi: »Ministarstvo« dodaju se riječi: »i Komoru«.
+
+### Članak 67.
+
+U članku 151. riječi: »istražni sudac« zamjenjuju se riječima: »sudac istrage«.
+
+### Članak 68.
+
+U članku 153. stavku 4. riječ: »dovođenju« i zarez iza nje brišu se.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) O podnesenom prijedlogu za pokretanje stegovnog postupka protiv javnog bilježnika, prisjednika, savjetnika i vježbenika Komora, odnosno državni odvjetnik i oštećenik dužni su pisano odmah obavijestiti Ministarstvo.«.
+
+### Članak 69.
+
+U članku 154. stavku 4. iza riječi: »obavijestiti« dodaje se riječ: »Ministarstvo,«.
+
+U stavku 6. iza riječi: »prisjednika« stavlja se zarez i dodaje riječ: »savjetnika«.
+
+### Članak 70.
+
+Naslov iznad članka 155. mijenja se i glasi: »Izvršenje stegovnih odluka«.
+
+### Članak 71.
+
+Članak 161. mijenja se i glasi:
+
+»Javni bilježnik ima pravo na nagradu za rad i na naknadu troškova u obavljanju službenih radnji iz svog djelokruga u skladu s javnobilježničkom tarifom koju donosi ministar uz prethodno mišljenje Komore.«.
+
+### Članak 72.
+
+Naslov iznad članka 165. mijenja se i glasi: »Zabilježba i potvrda o nagradi, javnobilježničkoj pristojbi i troškovima«.
+
+Članak 165. mijenja se i glasi:
+
+»(1) Na svakoj ispravi i na svakom otpravku javni bilježnik bilježi iznos zaračunane nagrade, javnobilježničke pristojbe i troška.
+
+(2) Javni bilježnik izdaje specificirani račun o plaćenoj nagradi, javnobilježničkoj pristojbi i troškovima.«.
+
+### Članak 73.
+
+Članak 166. mijenja se i glasi:
+
+»(1) Nagrada i trošak javnog bilježnika kao povjerenika koje vlasti određuje se posebnim propisima.
+
+(2) Republika Hrvatska ne jamči za naplativost nagrade i troška javnog bilježnika kao povjerenika neke vlasti.«.
+
+### Članak 74.
+
+Članak 170. mijenja se i glasi:
+
+»(1) Javnobilježnički ispit ovlaštene su polagati osobe koje imaju položen pravosudni ispit i koje su nakon polaganja pravosudnog ispita radile najmanje 18 mjeseci kao pravosudni dužnosnici, odvjetnici, odvjetnički vježbenici ili javnobilježnički, sudski ili državnoodvjetnički savjetnici, odnosno najmanje dvije godine radile na drugim pravnim poslovima.
+
+(2) Javnobilježničkim ispitom provjerava se poznavanje pravnih propisa kojima se uređuje javnobilježnička služba, ovjera i legalizacija isprava u odnosima s međunarodnim elementom, trgovačka društva, zemljišnoknjižni postupak, upis u sudski registar, nasljedno, obiteljsko, stvarno i obvezno pravo, izvanparnični i ovršni postupak te poznavanje pravnih propisa iz područja na kojima javni bilježnici djeluju kao povjerenici sudova i drugih vlasti.
+
+(3) Pri određivanju programa i sadržaja javnobilježničkog ispita vodit će se računa o sadržaju pravosudnog ispita, kako bi se izbjegla ponovna provjera područja koja su prethodno bila obuhvaćena pravosudnim ispitom.
+
+(4) Program i način polaganja javnobilježničkog ispita uređuje se pravilnikom koji donosi Ministar.«.
+
+### Članak 75.
+
+(1) Javni bilježnici koji su na temelju članka 26. Zakona o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94., 162/98., 16/07., 75/09. i 120/16.) preuzeli javnobilježničke urede ranijih javnih bilježnika mogu nastaviti s radom u postojećim uredima, ali su dužni njihov smještaj, prostorije, opremu i uređenje ureda uskladiti s važećim propisima u roku od dvije godine od dana stupanja na snagu ovoga Zakona.
+
+(2) Javni bilježnici kojima je na temelju članka 6. stavka 4. Zakona o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94., 162/98., 16/07., 75/09. i 120/16.) odobreno korištenje grba mogu nastaviti koristiti grb do prestanka službe.
+
+(3) Javni bilježnici koji na temelju članka 38. stavka 2. Zakona o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94., 162/98., 16/07., 75/09. i 120/16.) zajednički obavljaju svoju službu mogu nastaviti zajedničko obavljanje službe do prestanka službe jednog od njih.
+
+(4) Javnobilježnički zamjenici iz članka 128. stavka 2. Zakona o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94., 162/98., 16/07., 75/09. i 120/16.) koji nisu javni bilježnici niti javnobilježnički prisjednici nastavljaju obavljati zamjenu do vremena do kojeg im je zamjena odobrena.
+
+(5) Do stupanja na snagu izmjena posebnih propisa koji se odnose na poslove s posebnim uvjetima rada u državnoj službi i unutarnje ustrojstvo Ministarstva poslove nadzora Ministarstva nad javnobilježničkom službom obavljaju službenici Ministarstva raspoređeni na poslove u vezi s javnobilježničkom službom.
+
+(6) Stegovni postupci i postupci imenovanja javnih bilježnika pokrenuti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94., 162/98., 16/07., 75/09. i 120/16.).
+
+### Članak 76.
+
+(1) Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti Javnobilježnički poslovnik (»Narodne novine«, br. 38/94., 82/94., 37/96., 151/05., 115/12., 120/14. i 99/21.) s odredbama ovoga Zakona.
+
+(2) Pravilnike iz članaka 8., 9., 20., 21., 57. i 74. ovoga Zakona Ministar će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(3) Javnobilježničku tarifu iz članka 71. ovoga Zakona Ministar će donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+(4) Komora će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti Kodeks javnobilježničke etike iz članka 6. ovoga Zakona i Statut s odredbama ovoga Zakona.
+
+(5) Pravila iz članaka 12. i 30. ovoga Zakona Komora će donijeti u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(6) Odluku o visini prava na nagradu i naknadu troškova za rad predsjednika i članova Upravnog odbora iz članka 54. ovoga Zakona Upravni odbor donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(7) Ispunjenost tehničkih uvjeta za primjenu kvalificiranog elektroničkog pečata i korištenje sredstava elektroničke videokonferencijske komunikacije utvrdit će Komora odlukom o ispunjavanju uvjeta za primjenu kvalificiranog elektroničkog pečata i korištenje sredstava elektroničke videokonferencijske komunikacije u poslovanju javnih bilježnika.
+
+### Članak 77.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/161  
+Zagreb, 13. svibnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

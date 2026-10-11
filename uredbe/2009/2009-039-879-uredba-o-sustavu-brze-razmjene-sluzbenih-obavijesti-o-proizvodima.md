@@ -282,174 +282,143 @@ OBRAZAC ZA SLUŽBENU OBAVIJEST
 
 <table>
 <tbody>
-
 <tr>
 <td colspan="3">OPĆE OBAVIJESTI</td>
 </tr>
-
 <tr>
 <td>01.</td>
 <td>Zemlja koja daje službenu obavijest i osoba za kontakt:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02.</td>
 <td>Datum službene obavijesti:</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">PROIZVOD</td>
 </tr>
-
 <tr>
 <td>03.</td>
 <td>Kategorija proizvoda i tarifna oznaka:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>04.</td>
 <td>Ime, marka, cijena i zemlja podrijetla proizvoda:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>05.</td>
 <td>Vrsta/broj modela/bar kôd/kôd serije:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>06.</td>
 <td>Opis/fotografija (format.jpg) proizvoda i njegovog pakiranja:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07.</td>
 <td>Primjenjive norme ili propisi:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08.</td>
 <td>Dokaz sukladnosti:</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">PROIZVOĐAČ</td>
 </tr>
-
 <tr>
 <td>09.</td>
 <td>Ime, adresa i podaci za kontakt za proizvođača ili njegovog zastupnika:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td>Ime, adresa i podaci za kontakt izvoznika/uvoznika:</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">DISTRIBUTER I TRGOVAC NA MALO</td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td>Ime, adresa i podaci za kontakt za distributere ili njihove zastupnike:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td>Dobavljač (dućan, robni centar, poštom, internet) i zemlje odredišta:</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">OPASNOST</td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td>Vrsta rizika:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>14.</td>
 <td>Sažetak rezultata ispitivanja/analiza i zaključci:</td>
 <td></td>
 </tr>
-
 <tr>
 <td>15.</td>
 <td>Opis nezgoda do kojih je došlo:</td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">USVOJENE MJERE</td>
 </tr>
-
 <tr>
 <td>16.</td>
 <td>Dobrovoljne mjere (opseg, priroda i trajanje):</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17.</td>
 <td>Obvezne mjere (opseg, priroda i trajanje):</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">OSTALE OBAVIJESTI</td>
 </tr>
-
 <tr>
 <td>18.</td>
 <td>Dodatne obavijesti:</td>
 <td></td>
 </tr>
 </tbody>
-
 </table>
 
 OBRAZAC – O-2

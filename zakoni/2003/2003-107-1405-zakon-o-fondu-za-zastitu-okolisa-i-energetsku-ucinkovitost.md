@@ -210,7 +210,7 @@ Tijela Fonda su Upravni odbor i direktor Fonda.
 
 (4) Iznos naknada na emisije CO<sub>2</sub>, SO<sub>2</sub> i NO<sub>2</sub> izračunava se prema izrazu:
 
-*N = N<sub>1</sub> x E x k<sub>k</sub>*
+N = N<sub>1</sub> x E x k<sub>k</sub>
 
 u kojem je:
 
@@ -234,7 +234,7 @@ k<sub>k</sub> – korektivni poticajni koeficijent ovisan o količini i podrijet
 
 (4) Iznos naknade korisnika okoliša za pojedinu građevinu ili građevnu cjelinu izračunava se prema izrazu:
 
-*N = Zz<sub>1</sub>z<sub>2</sub>z<sub>3</sub>x N<sub>1</sub>x k<sub>k</sub>*
+N = Zz<sub>1</sub>z<sub>2</sub>z<sub>3</sub>x N<sub>1</sub>x k<sub>k</sub>
 
 u kojem je:
 
@@ -262,7 +262,7 @@ k<sub>k</sub> – korektivni koeficijent ovisan o stupnju utjecaja gra­đevine 
 
 (4) Iznos naknade na komunalni i/ili neopasni tehnološki otpad izračunava se prema izrazu:
 
-*N = N<sub>1</sub> x O*
+N = N<sub>1</sub> x O
 
 u kojem je:
 
@@ -278,7 +278,7 @@ O – količina odloženoga komunalnog i/ili neopasnoga tehno­loškog otpada u 
 
 (7) Iznos naknade na opasni otpad izračunava se prema izrazu:
 
-*N = N<sub>1</sub> x P x k<sub>k</sub>*
+N = N<sub>1</sub> x P x k<sub>k</sub>
 
 u kojem je:
 
@@ -302,7 +302,7 @@ k<sub>k</sub> – korektivni koeficijent ovisan o karakteristikama opasnog otpad
 
 (4) Posebna naknada izračunava se za pojedino vozilo prema izrazu:
 
-*PN = N<sub>o</sub> x k<sub>k</sub>*
+PN = N<sub>o</sub> x k<sub>k</sub>
 
 u kojem je:
 

@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2012-12-21
-last_amended: 2015-07-17
+last_amended: 2019-11-15
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "144/12, 153/13, 78/15"
+narodne_novine: "144/12, 153/13, 78/15, 110/19"
 amendments:
   - "NN 153/2013 (3224) Zakon o izmjenama Zakona o poštanskim uslugama"
   - "NN 78/2015 (1497) Zakon o izmjenama i dopunama Zakona o poštanskim uslugama"
+  - "NN 110/2019 (2214) Zakon o izmjenama i dopunama Zakona o poštanskim uslugama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3069"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 144/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3069).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 153/2013, NN 78/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 153/2013, NN 78/2015, NN 110/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1658,3 +1659,112 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o poštanskim uslugama (NN 110/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2214*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POŠTANSKIM USLUGAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o poštanskim uslugama, koji je Hrvatski sabor donio na sjednici 31. listopada 2019.
+
+Klasa: 011-01/19-01/193
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 7. studenoga 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POŠTANSKIM USLUGAMA**
+
+### Članak 1.
+
+U Zakonu o poštanskim uslugama (»Narodne novine«, br. 144/12., 153/13. i 78/15.) naslov iznad članka 1. mijenja se i glasi: »Predmet Zakona«.
+
+U članku 1. stavak 3. briše se.
+
+### Članak 2.
+
+Iza članka 1. dodaju se naslov iznad članka i članak 1.a koji glase:
+
+*»Usklađivanje Zakona s pravnim poretkom Europske unije*
+
+### Članak 1.a
+
+(1) Ovim se Zakonom u hrvatsko zakonodavstvo preuzima Direktiva 97/67/EZ Europskog parlamenta i Vijeća od 15. prosinca 1997. o zajedničkim pravilima za razvoj unutarnjeg tržišta poštanskih usluga u Zajednici i poboljšanje kvalitete usluga (SL L 15, 21. 1. 1998.), kako je posljednji put izmijenjena Direktivom 2008/6/EZ Europskog parlamenta i Vijeća od 20. veljače 2008. o izmjeni Direktive 97/67/EZ u pogledu potpunog postizanja unutarnjeg tržišta poštanskih usluga u Zajednici (SL L 52, 27. 2. 2008.).
+
+(2) Ovim se Zakonom osigurava provedba Uredbe (EU) 2018/644 Europskog parlamenta i Vijeća od 18. travnja 2018. o uslugama prekogranične dostave paketa (SL L 112, 2. 5. 2018.) (u daljnjem tekstu: Uredba (EU) 2018/644).«.
+
+### Članak 3.
+
+U članku 2. stavku 1. točka 14. mijenja se i glasi:
+
+»14. paket u unutarnjem poštanskom prometu: poštanska pošiljka koja sadrži robu i predmete,.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Izrazi koji se koriste u ovome Zakonu, a koji imaju rodno značenje, odnose se jednako na muški i ženski rod.«.
+
+### Članak 4.
+
+U članku 8. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Agencija je tijelo nadležno za provedbu Uredbe (EU) 2018/644.«.
+
+Dosadašnji stavci 3. do 5. postaju stavci 4. do 6.
+
+### Članak 5.
+
+U članku 59. stavku 1. iza riječi: »propisa donesenih na temelju ovoga Zakona« dodaju se zarez i riječi: »Uredbe (EU) 2018/644«.
+
+Iza stavka 9. dodaje se stavak 10. koji glasi:
+
+»(10) Iznimno od odredaba stavaka 1. i 2. ovoga članka, inspekcijski nadzor nad primjenom članka 7. Uredbe (EU) 2018/644 obavlja tržišna inspekcija Državnog inspektorata.«.
+
+### Članak 6.
+
+U članku 63. stavku 1. točki 10. točka na kraju rečenice zamjenjuje se zarezom, a iza točke 10. dodaju se točke 11. do 18. koje glase:
+
+»11. ako u svojstvu pružatelja usluge dostave paketa ne dostavi informacije u skladu s člankom 4. stavkom 1. Uredbe (EU) 2018/644,
+
+12. ako u svojstvu pružatelja usluge dostave paketa ne dostavi obavijest o promjeni informacija iz članka 4. stavka 2. Uredbe (EU) 2018/644,
+
+13. ako u svojstvu pružatelja usluge dostave paketa ne dostavi informacije u skladu s člankom 4. stavkom 3. Uredbe (EU) 2018/644,
+
+14. ako u svojstvu pružatelja usluge dostave paketa ne postupi prema zahtjevu za informacije iz članka 4. stavka 5. Uredbe (EU) 2018/644,
+
+15. ako u svojstvu pružatelja usluge dostave paketa ne postupi prema zahtjevu za informacije iz članka 4. stavka 7. Uredbe (EU) 2018/644,
+
+16. ako u svojstvu pružatelja usluge prekogranične dostave paketa ne dostavi informacije u skladu s člankom 5. stavkom 1. Uredbe (EU) 2018/644,
+
+17. ako u svojstvu pružatelja usluge dostave paketa ne dostavi dokaze u skladu s člankom 6. stavkom 6. Uredbe (EU) 2018/644,
+
+18. ako u svojstvu trgovca, koji s potrošačima sklapa kupoprodajne ugovore koji uključuju prekogranično slanje paketa, ne pruži informacije za potrošače u skladu s člankom 7. Uredbe (EU) 2018/644.«.
+
+### Članak 7.
+
+U članku 66. riječi: »tri godine« zamjenjuju se riječima: »četiri godine«.
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 6. koji stupa na snagu 23. studenoga 2019.
+
+Klasa: 022-03/19-01/78  
+Zagreb, 31. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,11 +6,13 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2015-10-02
+last_amended: 2020-05-15
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "105/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "105/15, 57/20"
+amendments:
+  - "NN 57/2020 (1142) Uredba o izmjeni Uredbe o gospodarenju otpadnim baterijama i akumulatorima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/105/2051"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Uredba o gospodarenju otpadnim baterijama i akumulatorima
 
 > Izvor: Narodne novine, NN 105/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/105/2051).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 57/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -29,11 +33,11 @@ Na temelju članka 53. stavka 4. Zakona o održivom gospodarenju otpadom (»Naro
 
 **O GOSPODARENJU OTPADNIM BATERIJAMA I AKUMULATORIM**
 
-### Članak 1.
+## Članak 1.
 
 Ovom Uredbom se propisuje način izvršenja obveze postizanja propisanog cilja u vezi s gospodarenjem otpadnim prijenosnim baterijama i akumulatorima te način izračuna i iznos naknade gospodarenja otpadnim baterijama i akumulatorima.
 
-### Članak 2.
+## Članak 2.
 
 (1) Pojmovi koji se koriste u ovoj Uredbi imaju sljedeće značenje:
 
@@ -53,7 +57,7 @@ Ovom Uredbom se propisuje način izvršenja obveze postizanja propisanog cilja u
 
 *Način izvršenja obveze postizanja propisanog cilja*
 
-### Članak 3.
+## Članak 3.
 
 (1) Proizvođač izvršava obvezu postizanja cilja gospodarenja s otpadnim prijenosnim baterijama i akumulatorima propisanog Pravilnikom, uplatom naknade gospodarenja u korist Fonda.
 
@@ -61,13 +65,13 @@ Ovom Uredbom se propisuje način izvršenja obveze postizanja propisanog cilja u
 
 *Naknada gospodarenja*
 
-### Članak 4.
+## Članak 4.
 
 (1) Naknada gospodarenja izračunava se umnoškom jedinične naknade (JN) i količine prijenosnih baterija i akumulatora koje proizvođač stavlja na tržište na području Republike Hrvatske u obračunskom razdoblju.
 
 (2) Jedinična naknada izračunava se prema izrazu:
 
-## JN= GSS x TS
+JN= GSS x TS
 
 pri čemu je:
 
@@ -81,11 +85,11 @@ TS – trošak sakupljanja otpadnih prijenosnih baterija i akumulatora utvrđen 
 
 (4) Na temelju izračuna iz stavka 3. ovoga članka ministar nadležan za poslove zaštite okoliša donosi odluku o iznosu jedinične naknade.
 
-### Članak 5.
+## Članak 5.
 
 Do završetka javnog poziva za odabir najprihvatljivijeg programa za obavljanje usluge sakupljanja otpadnih prijenosnih baterija i akumulatora sukladno Zakonu i donošenja odluke iz članka 4. stavka 4. ove Uredbe jedinična naknada iznosi 8,40 kuna po kilogramu prijenosnih baterija i akumulatora.
 
-### Članak 6.
+## Članak 6.
 
 Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
 
@@ -97,3 +101,38 @@ Zagreb, 1. listopada 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjeni Uredbe o gospodarenju otpadnim baterijama i akumulatorima (NN 57/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/57/1142*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 53. stavka 4. Zakona o održivom gospodarenju otpadom (»Narodne novine«, br. 94/13, 73/17, 14/19 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 14. svibnja 2020. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O GOSPODARENJU OTPADNIM BATERIJAMA I AKUMULATORIMA**
+
+### Članak 1.
+
+U Uredbi o gospodarenju otpadnim baterijama i akumulatorima (»Narodne novine«, broj 105/15) članak 5. mijenja se i glasi:
+
+»Do završetka javnog poziva za odabir najprihvatljivijeg programa za obavljanje usluge sakupljanja otpadnih prijenosnih baterija i akumulatora sukladno Zakonu i donošenja odluke iz članka 4. stavka 4. ove Uredbe jedinična naknada iznosi 7,90 kuna po kilogramu prijenosnih baterija i akumulatora.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/32
+
+Urbroj: 50301-25/27-20-2
+
+Zagreb, 14. svibnja 2020.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

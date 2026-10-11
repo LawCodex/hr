@@ -860,7 +860,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 ### NETO KORISNA POVRŠINA STANA
 
 <table>
-
 <tr>
 <td>Red. br.</td>
 <td>Naziv prostorije</td>
@@ -870,7 +869,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td>Širina</td>
 <td>Površina</td>
 </tr>
-
 <tr>
 <td>1</td>
 <td>2</td>
@@ -880,7 +878,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td>6</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>I soba</td>
@@ -890,7 +887,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>II sobe</td>
@@ -900,7 +896,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>III sobe</td>
@@ -910,7 +905,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>IV sobe</td>
@@ -920,7 +914,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td>V soba</td>
@@ -930,7 +923,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td></td>
@@ -940,7 +932,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td></td>
@@ -950,7 +941,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td></td>
@@ -960,7 +950,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td></td>
@@ -970,7 +959,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td>Kuhinja</td>
@@ -980,7 +968,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td>Blagova-<br> onica</td>
@@ -990,7 +977,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td>Izba</td>
@@ -1000,7 +986,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td>Kupaonica</td>
@@ -1010,7 +995,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>14.</td>
 <td>Nužnik</td>
@@ -1020,7 +1004,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>15.</td>
 <td>Predsoblje</td>
@@ -1030,7 +1013,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16.</td>
 <td>Hodnik</td>
@@ -1040,7 +1022,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17.</td>
 <td>Predprostor</td>
@@ -1050,7 +1031,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>18.</td>
 <td>Lođa</td>
@@ -1060,7 +1040,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19.</td>
 <td>Pokrivena terasa</td>
@@ -1070,7 +1049,6 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>20.</td>
 <td>Balkon, otvorena terasa, ravni prohodni krov i trijem</td>
@@ -1080,12 +1058,10 @@ Prilog III. – Tablica za izračun neto korisne površine stana mijenja se i gl
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>21.</td>
 <td colspan="6">UKUPNA POVRŠINA U m<sup>2</sup></td>
 </tr>
-
 </table>
 
 Prilog IV. – Tablica za izračun visine zaštićene najamnine mijenja se i glasi:

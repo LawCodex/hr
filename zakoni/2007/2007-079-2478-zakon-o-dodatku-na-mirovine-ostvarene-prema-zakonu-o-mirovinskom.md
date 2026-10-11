@@ -6,13 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-07-30
-last_amended: 2011-10-07
+last_amended: 2023-12-27
 status: in_force
-status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "79/07, 114/11"
+narodne_novine: "79/07, 114/11, 115/18, 156/23"
 amendments:
   - "NN 114/2011 (2224) Zakon o dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju"
+  - "NN 115/2018 (2236) Zakon o izmjenama i dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju"
+  - "NN 156/2023 (2395) Zakon o izmjeni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2478"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 79/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2478).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2011.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2011, NN 115/2018, NN 156/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -152,3 +154,147 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju (NN 115/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2236*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O DODATKU NA MIROVINE OSTVARENE PREMA ZAKONU O MIROVINSKOM OSIGURANJU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/208
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O DODATKU NA MIROVINE OSTVARENE PREMA ZAKONU O MIROVINSKOM OSIGURANJU**
+
+#### Članak 1.
+
+U Zakonu o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 79/07. i 114/11.) u članku 2. stavcima 2. i 3. riječi: »prema ovome Zakonu« zamjenjuju se riječima: »prema članku 1. ovoga Zakona«.
+
+Iza stavka 7. dodaje se novi stavak 8. i stavci 9., 10., 11. i 12. koji glase:
+
+»(8) Korisniku mirovine iz članka 91. stavka 1. Zakona o mirovinskom osiguranju, osiguranom i u obveznom mirovinskom osiguranju individualne kapitalizirane štednje kojemu je u obveznom mirovinskom osiguranju generacijske solidarnosti određena osnovna mirovina, kao i korisniku osnovne invalidske mirovine dodatak na dio mirovine koji mu pripada za mirovinski staž navršen do početka primjene obveznog mirovinskog osiguranja individualne kapitalizirane štednje određuje se u postotku od 27%, a na dio mirovine koji mu pripada za mirovinski staž ostvaren od toga dana (1. siječnja 2002. godine) određuje se u postotku od 27% pomnoženom s faktorom osnovne mirovine određenim za kalendarsku godinu u kojoj osiguranik stječe pravo na mirovinu.
+
+(9) Korisniku mirovine iz članka 91. stavka 2. Zakona o mirovinskom osiguranju osiguranom i u obveznom mirovinskom osiguranju individualne kapitalizirane štednje, kao i korisniku osnovne invalidske mirovine koji nije ostvario staž osiguranja u razdoblju do početka primjene obveznog mirovinskog osiguranja individualne kapitalizirane štednje, osnovica za dodatak je osnovna mirovina i određuje se u postotku od 27% pomnoženom s faktorom osnovne mirovine određenim za kalendarsku godinu u kojoj osiguranik stječe pravo na mirovinu.
+
+(10) Korisniku iz stavaka 8. i 9. ovoga članka kojemu svota osnovne mirovine s dodatkom iz stavaka 8. i 9. ovoga članka iznosi manje od najniže osnovne mirovine određuje se najniža osnovna mirovina iz članka 93. stavka 3. Zakona o mirovinskom osiguranju.
+
+(11) Svota osnovne mirovine iz stavaka 8. i 9. ovoga članka, zajedno s dodatkom iz stavaka 8. i 9. ovoga članka ne smije prijeći svotu najviše osnovne mirovine iz članka 93. stavka 3. Zakona o mirovinskom osiguranju.
+
+(12) Odredbe stavaka 8. do 11. ovoga članka odgovarajuće se primjenjuju i na člana obitelji osiguranika koji je osiguran i u obveznom mirovinskom osiguranju individualne kapitalizirane štednje koji nakon stupanja na snagu ovoga Zakona iz obveznog mirovinskog osiguranja generacijske solidarnosti ostvari obiteljsku mirovinu u visini osnovne mirovine.«.
+
+Dosadašnji stavak 8. postaje stavak 13.
+
+#### Članak 2.
+
+U članku 3. iza riječi: »najvišoj mirovini« briše se zarez i riječi: »korisnicima osnovne mirovine«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 3.
+
+(1) Korisnicima mirovine koji su bili osigurani i u obveznom mirovinskom osiguranju individualne kapitalizirane štednje, a kojima je u obveznom mirovinskom osiguranju generacijske solidarnosti određena osnovna mirovina prema članku 91. stavcima 1. i 2. Zakona o mirovinskom osiguranju ili osnovna invalidska mirovina u razdoblju od 1. siječnja 2014. do stupanja na snagu ovoga Zakona, s danom stupanja na snagu ovoga Zakona određuje se dodatak na osnovnu mirovinu pripadajuću od 1. siječnja 2019., prema članku 1. ovoga Zakona, ako je mirovina u isplati.
+
+(2) Odredbe članka 2. stavaka 8. do 11. koji su dodani člankom 1. ovoga Zakona odgovarajuće se primjenjuju na korisnike obiteljske mirovine nakon smrti osiguranika koji je bio osiguran i u obveznom mirovinskom osiguranju individualne kapitalizirane štednje, a umrlog u razdoblju iz stavka 1. ovoga članka, a član obitelji u obveznom mirovinskom osiguranju generacijske solidarnosti ostvaruje obiteljsku mirovinu u visini osnovne mirovine.
+
+(3) Hrvatski zavod za mirovinsko osiguranje korisnicima iz ovoga članka odredit će dodatak, po službenoj dužnosti, bez donošenja rješenja.
+
+#### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/170
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju (NN 156/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2395*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O DODATKU NA MIROVINE OSTVARENE PREMA ZAKONU O MIROVINSKOM OSIGURANJU
+
+Proglašavam Zakon o izmjeni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju, koji je Hrvatski sabor donio na sjednici 15. prosinca 2023.
+
+Klasa: 011-02/23-02/125
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 20. prosinca 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O DODATKU NA MIROVINE OSTVARENE PREMA ZAKONU O MIROVINSKOM OSIGURANJU**
+
+#### Članak 1.
+
+U Zakonu o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 79/07., 114/11. i 115/18.) u članku 2. stavak 8. mijenja se i glasi:
+
+»(8) Korisniku mirovine kojemu je u obveznom mirovinskom osiguranju generacijske solidarnosti određena osnovna mirovina osnovica za dodatak je mjesečna svota osnovne mirovine i određuje se u postotku od 27 % od osnovne mirovine.«.
+
+Stavak 9. briše se.
+
+Dosadašnji stavak 10., koji postaje stavak 9., mijenja se i glasi:
+
+»(9) Korisniku iz stavka 8. ovoga članka kojemu svota osnovne mirovine s dodatkom iz stavka 8. ovoga članka iznosi manje od najniže osnovne mirovine određuje se najniža osnovna mirovina iz članka 93. stavka 3. Zakona o mirovinskom osiguranju.«.
+
+Dosadašnji stavak 11., koji postaje stavak 10., mijenja se i glasi:
+
+»(10) Svota osnovne mirovine iz stavka 8. ovoga članka, zajedno s dodatkom iz stavka 8. ovoga članka ne smije prijeći svotu najviše osnovne mirovine iz članka 93. stavka 3. Zakona o mirovinskom osiguranju.«.
+
+Stavak 12. briše se.
+
+Dosadašnji stavak 13. postaje stavak 11.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+(1) Korisnicima mirovine kojima je do dana stupanja na snagu ovoga Zakona određen dodatak na osnovnu mirovinu s danom stupanja na snagu ovoga Zakona određuje se dodatak na osnovnu mirovinu pripadajuću od 1. siječnja 2024. prema članku 1. ovoga Zakona, ako je mirovina u isplati.
+
+(2) Hrvatski zavod za mirovinsko osiguranje po službenoj će dužnosti korisnicima mirovine iz stavka 1. ovoga članka odrediti dodatak na osnovnu mirovinu prema članku 1. ovoga Zakona bez donošenja rješenja.
+
+#### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2024.
+
+Klasa: 022-02/23-01/119
+
+Zagreb, 15. prosinca 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

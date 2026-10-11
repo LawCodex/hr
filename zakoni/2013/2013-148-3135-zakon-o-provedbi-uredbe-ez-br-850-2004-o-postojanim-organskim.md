@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-12-11
+last_amended: 2019-05-22
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "148/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "148/13, 52/19"
+amendments:
+  - "NN 52/2019 (996) Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 850/2004 o postojanim organskim onečišćujućim tvarima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3135"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o provedbi Uredbe (EZ) br. 850/2004 o postojanim organskim onečišćujućim tvarima
 
 > Izvor: Narodne novine, NN 148/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/148/3135).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 52/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -250,3 +254,87 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 850/2004 o postojanim organskim onečišćujućim tvarima (NN 52/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/52/996*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBE (EZ) BR. 850/2004 O POSTOJANIM ORGANSKIM ONEČIŠĆUJUĆIM TVARIMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o provedbi uredbe (EZ) br. 850/2004 o postojanim organskim onečišćujućim tvarima, koji je Hrvatski sabor donio na sjednici 9. svibnja 2019.
+
+Klasa: 011-01/19-01/85
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 10. svibnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBE (EZ) BR. 850/2004 O POSTOJANIM ORGANSKIM ONEČIŠĆUJUĆIM TVARIMA**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EZ) br. 850/2004 o postojanim organskim onečišćujućim tvarima (»Narodne novine«, br. 148/13.) u članku 3. stavak 2. mijenja se i glasi:
+
+»(2) Nadležna tijela iz stavka 1. ovoga članka u provedbi Uredbe (EZ) br. 850/2004 i ovoga Zakona surađuju s Hrvatskim zavodom za javno zdravstvo, Hrvatskim vodama, Hrvatskim šumama d.o.o., Hrvatskim šumarskim institutom i Hrvatskom agencijom za poljoprivredu i hranu.«.
+
+### Članak 2.
+
+U članku 4. stavku 1. točki 4. riječi: »Agenciji za zaštitu okoliša« zamjenjuju se riječima: »središnjem tijelu državne uprave nadležnom za zaštitu okoliša«.
+
+U stavku 2. riječi: »Hrvatskim zavodom za toksikologiju i antidoping« zamjenjuju se riječima: »Hrvatskim zavodom za javno zdravstvo«, a riječi: »Agencijom za zaštitu okoliša« zamjenjuju se riječima: »središnjim tijelom državne uprave nadležnim za zaštitu okoliša«.
+
+### Članak 3.
+
+U članku 5. stavku 3. riječi: »Hrvatskim centrom za poljoprivredu, hranu i selo – Zavodom za zaštitu bilja« zamjenjuju se riječima: »Hrvatskom agencijom za poljoprivredu i hranu«, a riječi: »Agencijom za zaštitu okoliša« zamjenjuju se riječima: »središnjim tijelom državne uprave nadležnim za zaštitu okoliša«.
+
+### Članak 4.
+
+U članku 7. stavku 2. riječi: »Hrvatskim zavodom za toksikologiju i antidoping« zamjenjuju se riječima: »Hrvatskim zavodom za javno zdravstvo«, a riječi: »i Agencijom za zaštitu okoliša« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Središnja tijela državne uprave nadležna za zdravstvo, poljoprivredu, gospodarstvo, vodno gospodarstvo, šumarstvo i veterinarstvo dužna su pravodobno i bez naknade dostaviti podatke iz svoje nadležnosti koji su potrebni za ispunjavanje obveza iz članka 12. stavaka 1. i 3. Uredbe (EZ) br. 850/2004 središnjem tijelu državne uprave nadležnom za zaštitu okoliša.«.
+
+### Članak 5.
+
+U članku 8. stavku 2. riječi: »Agencija za zaštitu okoliša« zamjenjuju se riječima: »središnje tijelo državne uprave nadležno za zaštitu okoliša«.
+
+U stavku 3. riječi: »Agencija za zaštitu okoliša« zamjenjuju se riječima: »središnje tijelo državne uprave nadležno za zaštitu okoliša«.
+
+### Članak 6.
+
+U članku 11. iza riječi: »veterinarski inspektori« dodaju se riječi: »i granični veterinarski inspektori«.
+
+### Članak 7.
+
+U članku 12. stavku 1. riječ: »državni« briše se.
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/72
+
+Zagreb, 9. svibnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

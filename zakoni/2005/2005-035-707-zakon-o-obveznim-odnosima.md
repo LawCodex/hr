@@ -6,14 +6,20 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2005-03-17
-last_amended: 2015-07-17
+last_amended: 2026-06-29
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "35/05, 41/08, 78/15"
+narodne_novine: "35/05, 41/08, 78/15, 29/18, 126/21, 114/22, 156/22, 155/23, 69/26"
 amendments:
   - "NN 41/2008 (1382) Zakon o izmjenama i dopunama Zakona o obveznim odnosima"
   - "NN 78/2015 (1495) Zakon o izmjenama i dopunama Zakona o obveznim odnosima"
+  - "NN 29/2018 (586) Zakon o izmjenama Zakona o obveznim odnosima"
+  - "NN 126/2021 (2134) Zakon o izmjenama i dopunama Zakona o obveznim odnosima"
+  - "NN 114/2022 (1711) Zakon o izmjenama Zakona o obveznim odnosima"
+  - "NN 156/2022 (2517) Uredba o izmjeni Zakona o obveznim odnosima"
+  - "NN 155/2023 (2365) Zakon o izmjenama i dopunama Zakona o obveznim odnosima"
+  - "NN 69/2026 (833) Zakon o izmjenama i dopunama Zakona o obveznim odnosima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2005/35/707"
 retrieved: 2026-10-12
 ---
@@ -22,7 +28,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 35/2005 (https://narodne-novine.nn.hr/eli/sluzbeni/2005/35/707).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 41/2008, NN 78/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 41/2008, NN 78/2015, NN 29/2018, NN 126/2021, NN 114/2022, NN 156/2022, NN 155/2023, NN 69/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -11124,3 +11130,1216 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o obveznim odnosima (NN 29/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/29/586*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBVEZNIM ODNOSIMA
+
+Proglašavam Zakon o izmjenama Zakona o obveznim odnosima, koji je Hrvatski sabor donio na sjednici 16. ožujka 2018.
+
+Klasa: 011-01/18-01/34
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 21. ožujka 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBVEZNIM ODNOSIMA**
+
+### Članak 1.
+
+U Zakonu o obveznim odnosima (»Narodne novine«, br. 35/05., 41/08., 125/11. i 78/15.) u članku 1.a podstavak 3. briše se.
+
+Podstavci 4. – 6. postaju podstavci 3. – 5.
+
+### Članak 2.
+
+Odsjek 24. i članci 881. do 903. te naslovi iznad njih brišu se.
+
+### Članak 3.
+
+U članku 904. riječi: »organiziranju putovanja« zamjenjuju se riječima: »putovanju u paket aranžmanu«.
+
+### Članak 4.
+
+U članku 905. stavku 1. riječi: »ugovora o organiziranju putovanja« zamjenjuju se riječima: »ugovora o putovanju u paket aranžmanu«, a riječi: »ovim Zakonom za potvrdu o organiziranju putovanja« zamjenjuju se riječima: »posebnim zakonom za potvrdu o ugovoru o putovanju u paket aranžmanu«.
+
+### Članak 5.
+
+U naslovu iznad članka 908. riječi: »organiziranju putovanja« zamjenjuju se riječima: »putovanju u paket aranžmanu«.
+
+U članku 908. riječi: »ovoga Zakona« zamjenjuju se riječima: »posebnog zakona«, a riječi: »organiziranju putovanja« zamjenjuju se riječima: »putovanju u paket aranžmanu«.
+
+### Članak 6.
+
+U članku 999. stavku 2. riječi: »pečatom banke i« brišu se.
+
+### Članak 7.
+
+U članku 1050. stavku 1. riječi: »duševne bolesti ili zaostalog umnog razvoja« zamjenjuju se riječima: »mentalnog ili intelektualnog oštećenja«.
+
+### Članak 8.
+
+Naslov iznad članka 1055. mijenja se i glasi: »Osobe s mentalnim i intelektualnim oštećenjima«.
+
+### Članak 9.
+
+U članku 1055. stavku 1. riječi: »duševne bolesti ili zaostalog umnog razvoja« zamjenjuju se riječima: »mentalnog ili intelektualnog oštećenja«.
+
+### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 1., 2., 3., 4. i 5. koji stupaju na snagu 1. srpnja 2018.
+
+Klasa: 022-03/17-01/143
+
+Zagreb, 16. ožujka 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim odnosima (NN 126/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/126/2134*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM ODNOSIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim odnosima, koji je Hrvatski sabor donio na sjednici 12. studenoga 2021.
+
+Klasa: 011-01/21-01/85
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 17. studenoga 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM ODNOSIMA**
+
+#### Članak 1.
+
+U Zakonu o obveznim odnosima (»Narodne novine«, br. 35/05., 41/08., 125/11., 78/15. i 29/18.) u članku 1.a podstavak 4. mijenja se i glasi:
+
+» – Direktiva (EU) 2019/771 Europskog parlamenta i Vijeća od 20. svibnja 2019. o određenim aspektima ugovora o kupoprodaji robe, izmjeni Uredbe (EU) 2017/2394 i Direktive 2009/22/EZ te stavljanju izvan snage Direktive 1999/44/EZ (Tekst značajan za EGP) (SL L 136, 22. 5. 2019.),«.
+
+#### Članak 2.
+
+Iza članka 399. ispod naslova »2. Odgovornost za materijalne nedostatke« dodaje se članak 399.a s naslovom iznad njega koji glase:
+
+*»Pojmovi*
+
+#### Članak 399.a
+
+U smislu primjene odredbi o odgovornosti za materijalne nedostatke stvari i komercijalnog jamstva pojedini pojmovi imaju sljedeće značenje:
+
+1. potrošač je svaka fizička osoba koja sklapa ugovor o kupoprodaji izvan svoje trgovačke, poslovne, obrtničke ili profesionalne djelatnosti,
+
+2. potrošački ugovor je ugovor koji sklapaju potrošač i svaka fizička ili pravna osoba koja djeluje u okviru svoje trgovačke, poslovne, obrtničke ili profesionalne djelatnosti, uključujući i osobu koja djeluje u ime ili za račun te osobe,
+
+3. proizvođač je osoba koja je izradila stvar, uvezla stvar na područje Europske unije i svaka druga osoba koja se predstavlja kao proizvođač time što na stvar stavlja svoje ime, zaštitni znak ili drugi razlikovni znak,
+
+4. digitalni sadržaj su podaci koji se proizvode i isporučuju u digitalnom obliku,
+
+5. digitalna usluga je:
+
+a) usluga kojom se potrošaču omogućuju stvaranje, obrada i pohrana podataka u digitalnom obliku ili pristup njima ili
+
+b) usluga kojom se omogućuje dijeljenje ili bilo koja druga interakcija s podacima u digitalnom obliku koje učitava ili stvara potrošač ili drugi korisnici te usluge,
+
+6. kompatibilnost je sposobnost stvari da funkcionira s hardverom ili softverom s kojima se obično koristi stvar iste vrste, a da tu stvar, hardver ili softver pritom nije potrebno konvertirati,
+
+7. funkcionalnost je sposobnost stvari da izvršava funkcije s obzirom na svoju svrhu,
+
+8. interoperabilnost je sposobnost stvari da funkcionira s hard­verom ili softverom drukčijim od onih s pomoću kojih se obično koristi stvar iste vrste,
+
+9. trajni nosač podataka je svako sredstvo koje kupcu ili prodavatelju omogućuje da informacije, koje su toj osobi osobno upućene, pohrani tako da im može pristupati tijekom razdoblja koje odgovara svrhama za koje su te informacije namijenjene i koje omogućuje nepromijenjeno reproduciranje pohranjenih informacija,
+
+10. trajnost je sposobnost stvari da zadrži svoje funkcije i radne značajke tijekom uobičajene upotrebe,
+
+11. besplatno znači bez troškova potrebnih za uklanjanje nedostatka, a posebno bez poštanskih troškova te troškova prijevoza, rada ili materijala.«.
+
+#### Članak 3.
+
+U članku 400. stavak 3. mijenja se i glasi:
+
+»(3) Prodavatelj odgovara za materijalne nedostatke neovisno o tome je li ugovorom prenio ili se obvezao prenijeti kupcu stvar u vlasništvo, a kupac platio ili se obvezao platiti njezinu cijenu.«.
+
+Iza stavka 3. dodaju se stavci 4. do 12. koji glase:
+
+»(4) Kod potrošačkih ugovora prodavatelj odgovara za materijalne nedostatke prema pravilima propisanima za ugovor o kupoprodaji i kada je riječ o ugovoru za isporuku stvari koju je tek potrebno izraditi ili proizvesti, neovisno o tome je li po općim pravilima riječ o ugovoru o kupoprodaji, ugovoru o djelu ili drugom ugovoru.
+
+(5) Odredbe ovoga Zakona o odgovornosti za materijalne nedostatke ne primjenjuju se na potrošačke ugovore za isporuku digitalnih sadržaja ili digitalnih usluga, osim ako je predmet ugovora o kupoprodaji pokretna stvar u koju je ugrađen digitalni sadržaj ili digitalne usluge ili su povezani sa stvari tako da bi odsutnost tog digitalnog sadržaja ili te digitalne usluge onemogućila funkcioniranje te stvari i koji se isporučuju na temelju ugovora o kupoprodaji, neovisno o tome isporučuje li takav digitalni sadržaj ili digitalnu uslugu prodavatelj ili treća strana (stvar s digitalnim elementima).
+
+(6) U slučaju stvari s digitalnim elementima rizik prelazi na kupca u trenutku kada je obavljena jednokratna isporuka digitalnog sadržaja ili digitalne usluge odnosno kada je započela kontinuirana isporuka digitalnog sadržaja ili digitalne usluge.
+
+(7) Ako stvar treba instalirati ili montirati prodavatelj ili osoba za koju on odgovara, rizik prelazi na kupca u trenutku u kojem je dovršena instalacija odnosno montaža.
+
+(8) U slučaju dvojbe o tome je li isporuka ugrađenog ili povezanog digitalnog sadržaja ili digitalne usluge dio potrošačkog ugovora o kupoprodaji, predmnijeva se da su digitalni sadržaj ili digitalna usluga obuhvaćeni ugovorom o kupoprodaji.
+
+(9) Predmnijeva se da je svaki nedostatak stvari, kao i stvari s digitalnim elementima koji se pokazao u roku od jedne godine od trenutka prijelaza rizika postojao i u trenutku prijelaza rizika, osim ako prodavatelj dokaže suprotno ili suprotno proizlazi iz naravi stvari ili naravi nedostatka.
+
+(10) Predmnijeva iz stavka 9. ovoga članka kod trgovačkih ugovora odnosi se na razdoblje od šest mjeseci od trenutka prijelaza rizika.
+
+(11) Kod potrošačkih ugovora o kupoprodaji stvari s digitalnim elementima ako je ugovorena kontinuirana isporuka digitalnog sadržaja ili digitalne usluge tijekom određenog razdoblja teret dokaza da ne postoji nedostatak digitalnog sadržaja ili digitalne usluge je na prodavatelju za vrijeme od dvije godine od prijelaza rizika, a ako je ugovorena kontinuirana isporuka digitalnog sadržaja ili digitalne usluge na rok dulji od dvije godine, teret dokaza da ne postoji nedostatak digitalnog sadržaja ili digitalne usluge je na prodavatelju za cijelo razdoblje na koje je isporuka ugovorena.
+
+(12) Odredbe ovoga Zakona o odgovornosti za materijalne nedostatke ne primjenjuju se na potrošačke ugovore o kupoprodaji materijalnih nosača podataka koji služe isključivo kao nosači digitalnog sadržaja.«.
+
+#### Članak 4.
+
+Članak 401. mijenja se i glasi:
+
+»(1) Nedostatak postoji:
+
+1) ako stvar ne odgovara opisu, vrsti, količini i kvaliteti odnosno nema funkcionalnost, kompatibilnost, interoperabilnost i druge značajke kako je utvrđeno ugovorom o kupoprodaji,
+
+2) ako stvar nije prikladna za bilo koju posebnu namjenu za koju je potrebna kupcu i s kojom je kupac upoznao prodavatelja najkasnije u trenutku sklapanja ugovora te u odnosu na koju je prodavatelj dao pristanak,
+
+3) ako stvar nije isporučena sa svom dodatnom opremom i uputama, uključujući upute za instalaciju, kako je utvrđeno ugovorom o kupoprodaji ili
+
+4) ako stvar nije isporučena s ažuriranjima kako je utvrđeno ugovorom o kupoprodaji.
+
+(2) Osim nedostataka iz stavka 1. ovoga članka nedostatak postoji i:
+
+1) ako stvar nije prikladna za upotrebu u svrhe za koje bi se stvar iste vrste uobičajeno koristila, uzimajući u obzir sve propise Europske unije i propise Republike Hrvatske, tehničke standarde ili, ako takvih tehničkih standarda nema, primjenjive kodekse ponašanja u određenom području ako oni postoje,
+
+2) ako stvar ne odgovara kvaliteti i opisu uzorka ili modela koji je prodavatelj stavio na raspolaganje kupcu prije sklapanja ugovora,
+
+3) ako stvar nije isporučena s dodatnom opremom, uključujući ambalažu, upute za instalaciju ili druge upute, čiji primitak kupac može razumno očekivati,
+
+4) ako stvar ne odgovara količini ili nema ona svojstva i druge značajke, uključujući one koje se odnose na trajnost, funkcionalnost, kompatibilnost i sigurnost, koji su uobičajeni za stvar iste vrste i koje kupac može razumno očekivati s obzirom na prirodu stvari te uzimajući u obzir sve javne izjave koje su dali prodavatelj ili druge osobe u prethodnim fazama lanca transakcija, uključujući proizvođača, ili koje su dane u njihovo ime, osobito u oglašavanju ili označivanju,
+
+5) ako je stvar nepravilno instalirana odnosno montirana, a usluga instalacije odnosno montaže čini dio ugovora o kupoprodaji i obavio ju je prodavatelj ili osoba za koju on odgovara ili
+
+6) ako je stvar za koju je bilo predviđeno da je instalira odnosno montira kupac nepravilno instalirana odnosno montirana od strane kupca, a nepravilna instalacija odnosno montaža posljedica je nedostatka u uputama koje je dostavio prodavatelj ili, u slučaju stvari s digitalnim elementima, koje je dostavio prodavatelj ili dobavljač digitalnog sadržaja ili digitalne usluge.
+
+(3) Prodavatelja ne obvezuju izjave iz stavka 2. točke 4. ovoga članka ako dokaže da nije znao niti je mogao znati za tu izjavu, ili da je do trenutka sklapanja ugovora javna izjava bila ispravljena na jednak ili usporediv način kao i kada je dana, ili da ta javna izjava nije mogla utjecati na donošenje odluke o kupnji.
+
+(4) Kod potrošačkih ugovora nedostaci iz stavka 2. točke 1. do 4. ovoga članka ne postoje ako je, u trenutku sklapanja ugovora, potrošač bio posebno obaviješten da određeno obilježje stvari odstupa od kriterija koji se koriste za određivanje nedostataka navedenih u stavku 2. točkama 1. do 4. ovoga članka i ako je potrošač to izričito i zasebno prihvatio prilikom sklapanja ugovora.«.
+
+#### Članak 5.
+
+Iza članka 401. dodaje se članak 401.a s naslovom iznad njega koji glase:
+
+*»Ažuriranje stvari s digitalnim elementima u potrošačkim ugovorima*
+
+#### Članak 401.a
+
+(1) U potrošačkim ugovorima o kupoprodaji stvari s digitalnim elementima kojima je predviđena jednokratna isporuka digitalnog sadržaja ili digitalne usluge prodavatelj je dužan obavijestiti potrošača o ažuriranjima, uključujući sigurnosna ažuriranja koja su potrebna da stvar ostane bez nedostatka, te mu osigurati ažuriranja tijekom razdoblja unutar kojeg to potrošač može razumno očekivati s obzirom na vrstu i svrhu stvari i digitalnih elemenata te uzimajući u obzir okolnosti i prirodu ugovora o kupoprodaji.
+
+(2) Obveza osiguranja ažuriranja iz stavka 1. ovoga članka kod ugovora o kupoprodaji kojim je predviđena kontinuirana isporuka digitalnog sadržaja ili digitalne usluge na rok dulji od dvije godine traje do isteka razdoblja za koji je ugovorena isporuka, a kod ugovora kod kojih je kontinuirana isporuka ugovorena na dvije godine ili kraće razdoblje obveza osiguranja ažuriranja traje dvije godine od trenutka prijelaza rizika.
+
+(3) Ako potrošač u razumnom roku ne instalira ažuriranja koja su mu isporučena u skladu sa stavkom 1. i 2. ovoga članka, prodavatelj nije odgovoran za nedostatak koji proizlazi isključivo iz propuštanja instalacije ažuriranja, ako je obavijestio potrošača o raspoloživosti ažuriranja i posljedicama propuštanja da ga instalira te ako propuštanje instalacije ili nepravilna instalacija ažuriranja od strane potrošača nisu posljedica nedostataka u uputama za instalaciju koje su dostavljene potrošaču.
+
+(4) Prodavatelj ne odgovara za nedostatke iz stavka 1. i 2. ovoga članka ako je, u trenutku sklapanja ugovora, potrošač bio posebno obaviješten da određeno obilježje stvari odstupa od kriterija koji se koriste za određivanje nedostataka navedenih u stavku 1. i 2. ovoga članka i ako je potrošač to izričito i zasebno prihvatio prilikom sklapanja ugovora.«.
+
+#### Članak 6.
+
+U članku 402. stavak 3. mijenja se i glasi:
+
+»(3) Odredba stavka 2. ovoga članka ne primjenjuje se na potrošačke ugovore.«.
+
+#### Članak 7.
+
+Iza članka 404. dodaje se članak 404.a s naslovom iznad njega koji glase:
+
+*»Nedostaci stvari s digitalnim elementima s kontinuiranom isporukom digitalnog sadržaja ili digitalne usluge u potrošačkim ugovorima*
+
+#### Članak 404.a
+
+(1) Ako je potrošačkim ugovorom predviđena kontinuirana isporuka digitalnog sadržaja ili digitalne usluge na rok dulji od dvije godine, prodavatelj je odgovoran za nedostatke digitalnog sadržaja ili digitalne usluge koji se pojave u razdoblju u kojem se digitalni sadržaj ili digitalna usluga trebaju isporučivati na temelju ugovora o kupoprodaji.
+
+(2) Ako je potrošačkim ugovorom o kupoprodaji predviđena kontinuirana isporuka digitalnog sadržaja ili digitalne usluge tijekom određenog razdoblja koje je kraće od razdoblja iz stavka 1. ovoga članka, prodavatelj je odgovoran za nedostatke digitalnog sadržaja ili digitalne usluge koji se pojave u roku od dvije godine od trenutka prijelaza rizika.«.
+
+#### Članak 8.
+
+U članku 405. riječi: »prethodna dva članka« zamjenjuju se riječima: »članka 403. i 404. ovoga Zakona«.
+
+#### Članak 9.
+
+U članku 408. stavku 2. riječi: »te ako se radi o potrošačkom ugovoru« brišu se.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Odredbe ugovora kojima se ograničava ili isključuje odgovornost za nedostatke stvari kod potrošačkog ugovora prije nego što potrošač obavijesti prodavatelja o materijalnom nedostatku stvari nisu obvezujuće za potrošača.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 10.
+
+Članak 410. mijenja se i glasi:
+
+»(1) Kupac koji je pravodobno i uredno obavijestio prodavatelja o nedostatku ovlašten je:
+
+1) zahtijevati od prodavatelja uklanjanje nedostatka,
+
+2) zahtijevati od prodavatelja predaju druge stvari bez nedostatka,
+
+3) zahtijevati razmjerno sniženje cijene,
+
+4) izjaviti da raskida ugovor.
+
+(2) U svakom od tih slučajeva kupac ima pravo i na popravljanje štete prema općim pravilima o odgovornosti za štetu, uključujući i štetu koju je zbog nedostatka stvari pretrpio na drugim svojim dobrima.
+
+(3) Prilikom ostvarivanja prava na uklanjanje nedostatka kupac ima pravo izbora između popravka i zamjene stvari, osim ako bi odabrani način uklanjanja nedostatka bio nemoguć ili ako bi njime u odnosu na drugi način uklanjanja nedostatka prodavatelju nastali nerazmjerni troškovi uzimajući u obzir sve okolnosti, a osobito vrijednost stvari bez nedostatka, značaj nedostatka i pitanje može li se popravak odnosno zamjena obaviti bez znatnih neugodnosti za kupca.
+
+(4) Prodavatelj je ovlašten odbiti uklanjanje nedostatka ako su popravak i zamjena nemogući ili bi mu time bili prouzročeni nerazmjerni troškovi uzimajući u obzir sve okolnosti, a osobito vrijednost stvari bez nedostatka, značaj nedostatka i pitanje može li se popravak odnosno zamjena obaviti bez znatnih neugodnosti za kupca.
+
+(5) Kupac ima pravo na sniženje cijene ili na raskid ugovora tek ako prodavatelj nije uklonio nedostatak, ili je to odbio učiniti ili nije uklonio nedostatak u skladu s člankom 410.a stavcima 2. i 3. ovoga Zakona, ako nedostatak postoji unatoč pokušaju prodavatelja da ga ukloni odnosno ako je prodavatelj izjavio da neće ukloniti nedostatak ili iz okolnosti očito proizlazi da neće ukloniti nedostatak u razumnom roku ili bez znatnih neugodnosti za kupca te ako je nedostatak tako ozbiljan da opravdava trenutačno sniženje cijene ili raskid ugovora.
+
+(6) Kupac ima pravo uskratiti plaćanje bilo kojeg nepodmirenog dijela cijene sve dok prodavatelj ne ispuni svoje obveze po osnovi odgovornosti za materijalne nedostatke.
+
+(7) Ako je nedostatak neznatan, kupac nema pravo na raskid ugovora, ali mu pripadaju druga prava iz odgovornosti za materijalne nedostatke uključujući i pravo na popravljanje štete.
+
+(8) Teret dokaza da je nedostatak neznatan je na prodavatelju.
+
+(9) Troškove otklanjanja nedostatka i predaje druge stvari bez nedostatka snosi prodavatelj.«.
+
+#### Članak 11.
+
+Iza članka 410. dodaje se članak 410.a s naslovom iznad njega koji glase:
+
+*»Popravak ili zamjena*
+
+#### Članak 410.a
+
+(1) Popravak ili zamjena stvari s nedostatkom provode se bes­platno, u razumnom roku od trenutka kada je kupac obavijestio prodavatelja o nedostatku te bez znatnih neugodnosti za kupca uzimajući u obzir prirodu stvari i svrhu za koju je kupcu ta stvar bila potrebna.
+
+(2) Prilikom popravka ili zamjene kupac je obvezan staviti stvar na raspolaganje prodavatelju, a prodavatelj ju je obvezan preuzeti i snositi troškove preuzimanja.
+
+(3) Ako je stvar s nedostatkom, koja je bila instalirana odnosno montirana na način koji je u skladu s njezinom prirodom i namjenom prije nego što se nedostatak pojavio, potrebno popraviti ili zamijeniti, obveza uklanjanja nedostatka uključuje obvezu uklanjanja stvari s nedostatkom i instalaciju odnosno montažu zamjenske ili popravljene stvari ili obvezu snošenja troškova tog uklanjanja i instalacije odnosno montaže.
+
+(4) U slučaju zamjene stvari potrošač nije dužan platiti za uobičajenu upotrebu zamijenjene stvari tijekom razdoblja prije njezine zamjene.«.
+
+#### Članak 12.
+
+Iza članka 413. dodaje se članak 413.a s naslovom iznad njega koji glase:
+
+*»Raskid potrošačkog ugovora izjavom kupca*
+
+#### Članak 413.a
+
+Ako prodavatelj u naknadnom razumnom roku ne ispuni potrošački ugovor, potrošač je ovlašten izjaviti da se ugovor raskida.«.
+
+#### Članak 13.
+
+U članku 416. stavku 2. iza riječi: »štetno,« dodaju se riječi: »ili se od kupca ne može očekivati da će zadržati samo stvar koja nema nedostatak,«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Pravo prodavatelja iz stavka 2. ovoga članka na raskid ugovora i u pogledu ostalih stvari ne primjenjuje se na potrošačke ugovore.«.
+
+#### Članak 14.
+
+U članku 419. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Ako kupac raskine ugovor o kupoprodaji, kupac vraća stvar prodavatelju na trošak prodavatelja.
+
+(4) Prodavatelj kupcu nadoknađuje cijenu plaćenu za stvar nakon što primi tu stvar ili od kupca primi dokaz da je stvar poslao natrag.«.
+
+#### Članak 15.
+
+Iza članka 422. dodaje se članak 422.a s naslovom iznad njega koji glase:
+
+*»Odgovornost za materijalne nedostatke u lancu isporuke*
+
+#### Članak 422.a
+
+(1) Prodavatelj u odnosu na kojeg je kupac ostvario prava iz odgovornosti za materijalne nedostatke u skladu s odredbama ovoga Zakona ovlašten je ostvarivati prava iz odgovornosti za materijalne nedostatke prema svojem prodavatelju (prethodni prodavatelj).
+
+(2) Prodavatelj je ovlašten ostvarivati prava prema prethodnom prodavatelju jedino ako su i u odnosu između njega i prethodnog prodavatelja ispunjene pretpostavke odgovornosti za materijalne nedostatke.
+
+(3) Prodavatelj je dužan bez odgađanja obavijestiti prethodnog prodavatelja o tome da je popravio ili zamijenio stvar kupcu, snizio mu cijenu odnosno da je nastupio raskid ugovora s kupcem, te mu dostaviti sve podatke važne za prosuđivanje odgovornosti za materijalne nedostatke.
+
+(4) Prethodni prodavatelj ne odgovara za materijalne nedostatke za koje je prodavatelj odgovarao kupcu ako je od prijelaza rizika između prethodnog prodavatelja i prodavatelja prošlo više od dvije godine.
+
+(5) Prethodni prodavatelj i prodavatelj smiju ugovarati druge rokove, isključenje, ograničenje odnosno proširenje odgovornosti.
+
+(6) Odredbe ovoga članka primjenjuju se na odgovarajući način i u odnosu između prethodnog prodavatelja i njegova prednika.«.
+
+#### Članak 16.
+
+Naslov iznad članka 423. mijenja se i glasi: »3. Komercijalno jamstvo«.
+
+#### Članak 17.
+
+Članak 423. mijenja se i glasi:
+
+»(1) Komercijalno jamstvo je svaka obveza kojom se prodavatelj ili proizvođač (davatelj jamstva), povrh zakonske obveze prodavatelja koja se odnosi na odgovornost za materijalne nedostatke stvari, obvezuje kupcu vratiti plaćenu cijenu ili zamijeniti, popraviti ili servisirati stvar ako ona ne zadovoljava specifikacije ili druge zahtjeve koji su navedeni u izjavi o jamstvu ili u relevantnom reklamnom materijalu koji je dostupan u trenutku ili prije sklapanja ugovora.
+
+(2) Svako komercijalno jamstvo obvezujuće je za davatelja jamstva u skladu s uvjetima utvrđenima u izjavi o komercijalnom jamstvu i povezanom reklamnome materijalu dostupnima u trenutku ili prije sklapanja ugovora.
+
+(3) Ako proizvođač nudi kupcu komercijalno jamstvo trajnosti za određenu stvar tijekom određenog razdoblja, proizvođač je odgovoran izravno kupcu tijekom cijelog razdoblja komercijalnog jamstva trajnosti u pogledu popravka ili zamjene stvari u skladu s člankom 410.a ovoga Zakona.
+
+(4) Proizvođač kupcu može ponuditi povoljnije uvjete u izjavi o komercijalnom jamstvu trajnosti.
+
+(5) Ako proizvođač jamči da će stvar zadovoljavati određene specifikacije ili druge zahtjeve tijekom određenog vremena, računajući od njezine predaje kupcu, kupac može, ako obveza iz jamstva ne bude uredno ispunjena, zahtijevati kako od prodavatelja tako i od proizvođača, da stvar popravi u razumnom roku ili, ako to ne učini, da mu umjesto nje preda stvar koja zadovoljava specifikacije ili druge zahtjeve.
+
+(6) Ako prodavatelj jamči da će stvar zadovoljavati određene specifikacije ili druge zahtjeve tijekom određenog vremena, računajući od njezine predaje kupcu, kupac može, ako obveza iz jamstva ne bude uredno ispunjena, zahtijevati od prodavatelja da stvar popravi u razumnom roku ili, ako to ne učini, da mu umjesto nje preda stvar koja zadovoljava specifikacije ili druge zahtjeve.
+
+(7) Ako su uvjeti utvrđeni u izjavi o komercijalnom jamstvu manje povoljni za kupca od uvjeta utvrđenih u povezanom reklamnome materijalu, komercijalno jamstvo je obvezujuće prema uvjetima utvrđenima u reklamnome materijalu koji se odnosi na komercijalno jamstvo, osim ako je prije sklapanja ugovora povezani reklamni materijal bio ispravljen na jednak ili usporediv način kao i kada je dan.
+
+(8) Izjava o komercijalnom jamstvu dostavlja se kupcu na trajnom nosaču podataka najkasnije u trenutku predaje stvari.
+
+(9) Izjava o komercijalnom jamstvu mora biti izražena na jednostavan i razumljiv način te sadržavati:
+
+1) jasnu izjavu da kupac ima prava iz odgovornosti za materijalne nedostatke stvari na temelju ovoga Zakona prema prodavatelju besplatno te da komercijalno jamstvo ne utječe na prava iz odgovornosti za materijalne nedostatke,
+
+2) naziv i adresu davatelja jamstva,
+
+3) postupak koji kupac mora slijediti kako bi se komercijalno jamstvo provelo,
+
+4) navođenje stvari na koju se primjenjuje komercijalno jamstvo i
+
+5) uvjete komercijalnog jamstva.
+
+(10) Neispunjenje obveza iz stavka 8. i 9. ovoga članka ne utječe na valjanost komercijalnog jamstva.«.
+
+#### Članak 18.
+
+U članku 424. stavak 1. mijenja se i glasi:
+
+»(1) Ako stvar ne zadovoljava određenu specifikaciju ili druge zahtjeve koje je prodavatelj odnosno proizvođač jamčio, kupac može zahtijevati popravak ili zamjenu stvari tijekom jamstvenog roka, bez obzira na to kad se nedostatak pojavio.«.
+
+#### Članak 19.
+
+U članku 425. stavak 2. mijenja se i glasi:
+
+»(2) Međutim, kad je izvršena zamjena stvari ili njezin bitni popravak, jamstveni rok počinje teći ponovno od zamjene odnosno od vraćanja popravljene stvari.«.
+
+#### Članak 20.
+
+Članak 428. mijenja se i glasi:
+
+»Kad je u izradi stvari sudjelovalo više samostalnih proizvođača pojedinih dijelova stvari ili izvođača pojedinih radova, njihova odgovornost prema proizvođaču stvari u odnosu na te dijelove ili izvođenje tih radova prestaje kad prestane odgovornost proizvođača stvari prema kupcu.«.
+
+#### Članak 21.
+
+U članku 429. riječi: »od njega« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+*Primjena ovoga Zakona*
+
+#### Članak 22.
+
+Ovaj Zakon ne primjenjuje se na ugovore sklopljene prije 1. siječnja 2022.
+
+*Stupanje na snagu*
+
+#### Članak 23.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2022.
+
+Klasa: 022-03/21-01/45  
+Zagreb, 12. studenoga 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o obveznim odnosima (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1711*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O OBVEZNIM ODNOSIMA
+
+Proglašavam Zakon o izmjenama Zakona o obveznim odnosima, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/109
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O OBVEZNIM ODNOSIMA**
+
+### Članak 1.
+
+U Zakonu o obveznim odnosima (»Narodne novine«, br. 35/05., 41/08., 125/11., 78/15., 29/18. i 126/21.) u članku 22. stavku 1. riječi: »tečaja valute Republike Hrvatske u odnosu prema stranoj valuti« zamjenjuju se riječima: »tečaja strane valute u odnosu prema valuti Republike Hrvatske«.
+
+U stavku 2. riječi: »devizna burza, odnosno« brišu se.
+
+U stavku 3. riječi: »devizna burza, odnosno« brišu se.
+
+### Članak 2.
+
+U članku 29. stavak 2. mijenja se i glasi:
+
+»(2) Stopa zateznih kamata na odnose iz trgovačkih ugovora i ugovora između trgovca i osobe javnog prava određuje se, za svako polugodište, uvećanjem kamatne stope koju je Europska središnja banka primijenila na svoje posljednje glavne operacije refinanciranja koje je obavila prije prvog kalendarskog dana tekućeg polugodišta za osam postotnih poena, a u ostalim odnosima za pet postotnih poena.«.
+
+Stavak 8. mijenja se i glasi:
+
+»(8) Hrvatska narodna banka dužna je u »Narodnim novinama« objaviti kamatnu stopu Europske središnje banke iz stavka 2. ovoga članka koja je na snazi 1. siječnja i 1. srpnja.«.
+
+Stavak 9. briše se.
+
+### Članak 3.
+
+U članku 737. stavku 1. riječi: »deset tisuća kuna« zamjenjuju se riječima: »1330,00 eura«.
+
+### Članak 4.
+
+U članku 1073. stavku 3. riječi: »kunsku protuvrijednost iznosa« zamjenjuju se riječju: »iznos«.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/109
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Uredba o izmjeni Zakona o obveznim odnosima (NN 156/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/156/2517*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 149/22.) Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2022. godine donijela
+
+**UREDBU**
+
+**O IZMJENI ZAKONA O OBVEZNIM ODNOSIMA**
+
+### Članak 1.
+
+U Zakonu o obveznim odnosima (»Narodne novine«, br. 35/05., 41/08., 125/11., 78/15., 29/18., 126/21. i 114/22.) u članku 29. stavku 2. riječ: »pet« zamjenjuje se riječju: »tri«.
+
+### Članak 2.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2023.
+
+Klasa: 022-03/22-44/04
+
+Urbroj: 50301-21/32-22-2
+
+Zagreb, 29. prosinca 2022.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim odnosima (NN 155/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/155/2365*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM ODNOSIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim odnosima, koji je Hrvatski sabor donio na sjednici 15. prosinca 2023.
+
+Klasa: 011-02/23-02/126
+
+Urbroj: 71-10-01/1-23-2
+
+Zagreb, 20. prosinca 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM ODNOSIMA**
+
+#### Članak 1.
+
+U Zakonu o obveznim odnosima (»Narodne novine«, br. 35/05., 41/08., 125/11., 78/15., 29/18., 126/21., 114/22. i 156/22.) u članku 29. stavak 2. mijenja se i glasi:
+
+»(2) Stopa zateznih kamata na odnose iz trgovačkih ugovora i ugovora između trgovca i osobe javnog prava određuje se, za svako polugodište, uvećanjem referentne stope za osam postotnih poena, a u ostalim odnosima za tri postotna poena, pri čemu se za prvo polugodište primjenjuje referentna stopa koja je na snazi na dan 1. siječnja, a za drugo polugodište referentna stopa koja je na snazi na dan 1. srpnja te godine.«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Referentna stopa iz stavka 2. ovoga članka je kamatna stopa koju je Europska središnja banka primijenila na svoje posljednje glavne operacije refinanciranja ili granična kamatna stopa proizašla iz natječajnih postupaka za varijabilnu stopu za posljednje glavne operacije refinanciranja Europske središnje banke.«.
+
+Dosadašnji stavak 8., koji postaje stavak 9., mijenja se i glasi:
+
+»(9) Hrvatska narodna banka dužna je u »Narodnim novinama« objaviti referentnu stopu iz stavka 2. ovoga članka koju je objavila Europska središnja banka, a koja je na snazi 1. siječnja i 1. srpnja.«.
+
+#### Članak 2.
+
+Naziv odsjeka 9. iznad članka 579. mijenja se i glasi: »UGOVOR O DOŽIVOTNOM UZDRŽAVANJU (UZ PRIJENOS IMOVINE NAKON SMRTI)«.
+
+U članku 579. stavku 1. iza riječi: »uzdržavanju« dodaju se riječi: »(uz prijenos imovine nakon smrti) (u daljnjem tekstu: ugovor o doživotnom uzdržavanju)«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ugovorom iz stavka 1. ovoga članka odredit će se sadržaj uzdržavanja kojim se, među ostalim, određuje mjesto stanovanja primatelja uzdržavanja (u njegovu stambenom prostoru, u stambenom prostoru davatelja uzdržavanja, u specijaliziranoj ustanovi ili u drugom odgovarajućem smještaju), obveza prehrane, njege i brige o zdravlju primatelja uzdržavanja te zadovoljavanja njegovih ostalih osnovnih životnih potreba, snošenje troška režija i pogreba primatelja uzdržavanja.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 3.
+
+Naslov iznad članka 580. mijenja se i glasi: »Ograničenja i oblik ugovora«.
+
+U članku 580. dodaju se novi stavci 1. i 2. koji glase:
+
+»(1) Davatelj uzdržavanja može istodobno imati sklopljene ugovore o doživotnom uzdržavanju i/ili ugovore o dosmrtnom uzdržavanju s najviše tri primatelja uzdržavanja.
+
+(2) Ugovor sklopljen suprotno stavku 1. ovoga članka je ništetan.«.
+
+Iza dosadašnjeg stavka 1., koji postaje stavak 3., dodaje se stavak 4. koji glasi:
+
+»(4) Prije ovjere ili sastavljanja ugovora ovlaštena osoba iz stavka 3. ovoga članka provjerit će u Registru ugovora o doživotnom i dosmrtnom uzdržavanju broj primatelja uzdržavanja s kojima davatelj uzdržavanja ima sklopljene ugovore o doživotnom uzdržavanju i/ili ugovore o dosmrtnom uzdržavanju.«.
+
+Dosadašnji stavak 2., koji postaje stavak 5., mijenja se i glasi:
+
+»(5) Prilikom ovjere ili sastavljanja ugovora ovlaštena će osoba iz stavka 3. ovoga članka ugovarateljima pročitati ugovor te će ih detaljno i ugovarateljima razumljivim riječima upozoriti na prava i obveze koje proizlaze iz ugovora. Ovlaštena će osoba provjeriti neposrednim pitanjima jesu li obje ugovorne strane razumjele prava i obveze koje za njih proizlaze iz ugovora.«.
+
+#### Članak 4.
+
+Iza članka 580. dodaje se članak 580.a s naslovom iznad njega koji glasi:
+
+*»Registar ugovora o doživotnom i dosmrtnom uzdržavanju*
+
+#### Članak 580.a
+
+(1) Registar ugovora o doživotnom i dosmrtnom uzdržavanju (u daljnjem tekstu: Registar) osnovat će i voditi Hrvatska javnobilježnička komora.
+
+(2) U Registar se upisuju podaci o:
+
+‒ sklopljenom ugovoru o doživotnom uzdržavanju ili ugovoru o dosmrtnom uzdržavanju,
+
+‒ izmjeni ugovora o doživotnom uzdržavanju ili ugovora o dosmrtnom uzdržavanju,
+
+‒ raskidu ugovora o doživotnom uzdržavanju ili ugovora o dosmrtnom uzdržavanju,
+
+‒ pokrenutom postupku radi izmjene, raskida, utvrđenja ništetnim ili poništenja ugovora o doživotnom uzdržavanju ili ugovora o dosmrtnom uzdržavanju,
+
+‒ načinu pravomoćnog okončanja postupka radi izmjene, raskida, utvrđenja ništetnim ili poništenja ugovora o doživotnom uzdržavanju ili ugovora o dosmrtnom uzdržavanju,
+
+‒ prestanku obveza po ugovoru o doživotnom uzdržavanju ili ugovoru o dosmrtnom uzdržavanju ispunjenjem.
+
+(3) Ovlaštena osoba iz članka 580. stavka 3. ovoga Zakona po službenoj će dužnosti odmah upisati u Registar podatke o sklopljenom ugovoru o doživotnom uzdržavanju ili ugovoru o dosmrtnom uzdržavanju, o izmjeni ugovora o doživotnom uzdržavanju ili ugovora o dosmrtnom uzdržavanju te o sporazumnom raskidu ugovora o doživotnom uzdržavanju ili ugovora o dosmrtnom uzdržavanju.
+
+(4) Sud prvog stupnja po službenoj će dužnosti odmah upisati u Registar podatke o pokrenutom postupku radi izmjene, raskida, utvrđenja ništetnim ili poništenja ugovora o doživotnom uzdržavanju ili ugovora o dosmrtnom uzdržavanju.
+
+(5) Sud prvog stupnja po službenoj će dužnosti upisati u Registar podatke iz stavka 2. podstavka 5. ovoga članka u roku od 30 dana od pravomoćnosti odluke ako protiv nje nije bio izjavljen pravni lijek odnosno u roku od 30 dana od dostave pravomoćne odluke višeg suda. Sud prvog stupnja po službenoj će dužnosti upisati u Registar izmjenu podataka iz stavka 2. podstavka 5. ovoga članka u roku od 30 dana od dostave pravomoćne odluke višeg suda o izvanrednom pravnom lijeku. Ako sud prvog stupnja odlučuje o izvanrednom pravnom lijeku, po službenoj će dužnosti upisati u Registar izmjenu podataka iz stavka 2. podstavka 5. ovoga članka u roku od 30 dana od pravomoćnosti odluke o izvanrednom pravnom lijeku.
+
+(6) Davatelj uzdržavanja može predložiti da javni bilježnik u Registar provede upis prestanka obveza po ugovoru o doživotnom uzdržavanju ili ugovoru o dosmrtnom uzdržavanju ispunjenjem. Prijedlogu će priložiti ugovor o doživotnom uzdržavanju ili ugovor o dosmrtnom uzdržavanju te ispravu kojom se dokazuje smrt primatelja uzdržavanja određenu zakonom kojim se uređuju državne matice.
+
+(7) Ministar nadležan za poslove pravosuđa pravilnikom će propisati sadržaj i način vođenja Registra, naknadu za upis te pravo na neposredan pristup podacima iz Registra, kao i izdavanje potvrde o podacima iz Registra.«.
+
+#### Članak 5.
+
+Članak 581. mijenja se i glasi:
+
+»(1) Ako je predmet ugovora o doživotnom uzdržavanju nekretnina, ovlaštena će osoba iz članka 580. stavka 3. ovoga Zakona dostaviti ugovor o doživotnom uzdržavanju zemljišnoknjižnom sudu koji će upisati zabilježbu ugovora o doživotnom uzdržavanju u zemljišnu knjigu.
+
+(2) Ako je predmet ugovora o doživotnom uzdržavanju pokretnina ili neko pravo za koje se vodi javni upisnik, ovlaštena će osoba iz članka 580. stavka 3. ovoga Zakona dostaviti ugovor o doživotnom uzdržavanju tijelu koje vodi javni upisnik koje će upisati zabilježbu ili drugi odgovarajući upis toga ugovora u taj javni upisnik.«.
+
+#### Članak 6.
+
+Naslov iznad članka 584. mijenja se i glasi: »Utjecaj promijenjenih okolnosti«.
+
+U članku 584. stavku 1. riječ: »izmijenjenim« zamjenjuje se riječju: »promijenjenim«.
+
+#### Članak 7.
+
+U članku 585. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Pristanak iz stavka 1. ovoga članka daje se u pisanom obliku koji je ovjerio sudac nadležnog suda ili potvrdio (solemnizirao) javni bilježnik ili je sastavljen u obliku javnobilježničkog akta.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+#### Članak 8.
+
+Naziv odsjeka 10. iznad članka 586. mijenja se i glasi: »UGOVOR O DOSMRTNOM UZDRŽAVANJU (UZ ISTODOBNI PRIJENOS IMOVINE)«.
+
+U članku 586. stavku 1. iza riječi: »uzdržavanju« dodaju se riječi: »(uz istodobni prijenos imovine) (u daljnjem tekstu: ugovor o dosmrtnom uzdržavanju)«.
+
+#### Članak 9.
+
+Iza članka 586. dodaje se članak 586.a s naslovom iznad njega koji glasi:
+
+*»Pouka ugovarateljima*
+
+#### Članak 586.a
+
+Prilikom ovjere ili sastavljanja ugovora ovlaštena će osoba ugovarateljima pročitati ugovor te će ih detaljno i ugovarateljima razumljivim riječima upozoriti na prava i obveze koje proizlaze iz ugovora, na trenutak prijenosa vlasništva, objasnit će ugovarateljima razliku između ugovora o doživotnom uzdržavanju i ugovora o dosmrtnom uzdržavanju te ukazati na prednosti osnivanja osobne služnosti i pridržaja prava stvarnog tereta iz članka 587. ovoga Zakona. Ovlaštena će osoba provjeriti neposrednim pitanjima jesu li obje ugovorne strane razumjele prava i obveze koje za njih proizlaze iz ugovora.«.
+
+#### Članak 10.
+
+Naslov iznad članka 587. mijenja se i glasi: »Osnivanje služnosti i pridržaj prava stvarnog tereta«.
+
+Članak 587. mijenja se i glasi:
+
+»(1) Ako primatelj uzdržavanja daje nekretninu, ugovorom će se na njoj u njegovu korist osnovati služnost stanovanja, ako se tomu izričito ne protivi.
+
+(2) Ako primatelj uzdržavanja daje nekretninu, može odrediti da se u njegovu korist na njoj osnuje stvarni teret uzdržavanja.
+
+(3) Istodobno s uknjižbom prava vlasništva na temelju ugovora o dosmrtnom uzdržavanju zemljišnoknjižni sud će po službenoj dužnosti uknjižiti pravo služnosti iz stavka 1. ovoga članka u zemljišnoj knjizi.«.
+
+#### Članak 11.
+
+U članku 588. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Pristanak iz stavka 1. ovoga članka daje se u pisanom obliku koji je ovjerio sudac nadležnog suda ili potvrdio (solemnizirao) javni bilježnik ili je sastavljen u obliku javnobilježničkog akta.«.
+
+Dosadašnji stavci 2. do 4. postaju stavci 3. do 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., riječi: »stavaka 3. i 4.« zamjenjuju se riječima: »stavaka 4. i 5.«.
+
+#### Članak 12.
+
+U članku 925. stavku 2. riječi: »i potpisanu« brišu se.
+
+#### Članak 13.
+
+U članku 926. stavku 1. iza riječi: »doprinos (ulog)« briše se zarez te se dodaje veznik: »i«, a riječi »i potpisi ugovornih strana« brišu se.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Osim podataka iz stavka 1. ovoga članka, u polici osiguranja osoba moraju biti i potpisi ugovornih strana.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., riječi: »stavka 3.« zamjenjuju se riječima: »stavka 4.«.
+
+Dosadašnji stavci 5. i 6. postaju stavci 6. i 7.
+
+#### Članak 14.
+
+U članku 937. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Ugovorne strane mogu ugovoriti da će se dostava pisma s obaviješću o dospjelosti premije iz stavka 3. ovoga članka izvršiti putem usluge elektroničke preporučene dostave koju obavlja kvalificirani pružatelj usluga povjerenja sukladno Uredbi (EU) br. 910/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ (SL L 257, 28. 8. 2014.) te sukladno zakonu kojim se osigurava provedba predmetne Uredbe.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 15.
+
+U članku 938. stavku 1. iza riječi: »zanimanje« dodaju se riječi: »ili djelatnost koju obavlja«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) On je dužan bez odgađanja pisano obavijestiti osiguratelja o povećanju rizika ako je rizik povećan nekim njegovim postupkom, a ako se povećanje rizika dogodilo bez njegova sudjelovanja, dužan ga je pisano obavijestiti u roku od četrnaest dana otkad je za to saznao ili mogao saznati.«.
+
+U stavku 4. riječi: »novu stopu premije« zamjenjuju se riječima: »veću premiju«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Ako ugovaratelj osiguranja ne pristane na veću premiju u roku od četrnaest dana od primitka prijedloga veće premije, ugovor prestaje po samom zakonu.«.
+
+U stavku 6. riječi: »novu stopu premije« zamjenjuju se riječima: »veću premiju«.
+
+#### Članak 16.
+
+U članku 940. stavku 1. iza riječi: »smanjenju« dodaje se riječ: »pisano«.
+
+Stavak 2. mijenja se i glasi:
+
+»Ako osiguratelj u roku od četrnaest dana od primitka zahtjeva iz stavka 1. ovoga članka ne dostavi ugovaratelju osiguranja pisanu suglasnost na dostavljeni zahtjev, ugovaratelj osiguranja može raskinuti ugovor.«
+
+#### Članak 17.
+
+U članku 943. stavku 4. iza riječi: »osiguraniku« dodaju se riječi: »odnosno korisniku osiguranja«.
+
+#### Članak 18.
+
+U članku 952. stavak 1. mijenja se i glasi:
+
+»(1) Ako osigurana stvar ili stvar u vezi s čijom je uporabom sklopljeno osiguranje od odgovornosti propadne za vrijeme trajanja osiguranja zbog nekog događaja koji nije predviđen u ugovoru o osiguranju, ugovor prestaje danom njezine propasti, a osiguratelj je dužan vratiti ugovaratelju osiguranja dio plaćene premije razmjerno preostalom vremenu trajanja osiguranja.«.
+
+#### Članak 19.
+
+U članku 960. stavku 1. riječ: »svote« zamjenjuje se riječju: »iznosa«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Osiguratelj je dužan isplatiti potpunu osigurninu sve do iznosa osiguranja ako je ugovoreno da odnos između vrijednosti stvari i visine iznosa osiguranja nema značenja za određivanje iznosa osigurnine.«.
+
+#### Članak 20.
+
+U članku 961. stavak 4. mijenja se i glasi:
+
+»(4) Ugovaratelj osiguranja koji ne obavijesti osiguratelja da je osigurana stvar otuđena, a u slučaju otuđenja na temelju pravnog posla i o osobi koja je stvar pribavila ostaje u obvezi plaćanja premija koje dospijevaju i poslije dana otuđenja.«.
+
+#### Članak 21.
+
+U članku 969. stavku 2. riječi: »otkupne vrijednosti osiguranja« zamjenjuju se riječima: »kapitalizirane svote«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Ugovorne strane mogu ugovoriti da će se dostava pisma iz stavka 2. ovoga članka izvršiti putem usluge elektroničke preporučene dostave koju obavlja kvalificirani pružatelj usluga povjerenja sukladno Uredbi (EU) br. 910/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ (SL L 257, 28. 8. 2014.) te sukladno zakonu kojim se osigurava provedba predmetne Uredbe.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 22.
+
+U članku 971. stavak 1. mijenja se i glasi:
+
+»(1) Ništetan je ugovor o osiguranju za slučaj smrti treće osobe mlađe od četrnaest godina i osobe lišene poslovne sposobnosti u dijelu koji se odnosi na sklapanje bilo kakvih pravnih poslova, raspolaganja i upravljanja svom pokretnom i nepokretnom imovinom, kao i odlukama vezano za zdravlje i zdravstvenu skrb te je osiguratelj dužan vratiti ugovaratelju osiguranja sve premije primljene po osnovi takvog ugovora.«.
+
+#### Članak 23.
+
+U članku 978. stavak 1. mijenja se i glasi:
+
+»(1) Na zahtjev ugovaratelja osiguranja života sklopljenog za cijeli život osiguranika osiguratelj je dužan isplatiti mu otkupnu vrijednost police u roku od četrnaest dana od dana podnošenja zahtjeva, ako su dotad plaćene barem tri godišnje premije.«.
+
+#### Članak 24.
+
+U članku 988. ispred stavka 1. dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) U slučaju iz stavka 1. ovoga članka, kada je ugovaratelj osiguranja ujedno osiguranik, osigurani iznos pripada nasljednicima ugovaratelja osiguranja sukladno zakonu kojim se uređuje nasljeđivanje.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 25.
+
+(1) Odredbe ovoga Zakona neće se primjenjivati na ugovore koji su sklopljeni prije stupanja na snagu ovoga Zakona, osim odredbe članka 1. ovoga Zakona.
+
+(2) Iznimno od stavka 1. ovoga članka, svaka ugovorna strana može javnom bilježniku podnijeti zahtjev za upis podataka u Registar ugovora o doživotnom i dosmrtnom uzdržavanju iz članka 4. ovoga Zakona za ugovore koji su sklopljeni prije stupanja na snagu ovoga Zakona.
+
+#### Članak 26.
+
+(1) Ministar nadležan za poslove pravosuđa donijet će u roku od 60 dana od dana stupanja na snagu ovoga Zakona pravilnik iz članka 4. ovoga Zakona.
+
+(2) Hrvatska javnobilježnička komora osnovat će Registar ugovora o doživotnom i dosmrtnom uzdržavanju iz članka 4. ovoga Zakona do 1. srpnja 2024.
+
+#### Članak 27.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/114  
+Zagreb, 15. prosinca 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obveznim odnosima (NN 69/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/69/833*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM ODNOSIMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obveznim odnosima, koji je Hrvatski sabor donio na sjednici 19. lipnja 2026.
+
+Klasa: 011-02/26-02/58
+
+Urbroj: 71-10-01/1-26-2
+
+Zagreb, 24. lipnja 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBVEZNIM ODNOSIMA**
+
+#### Članak 1.
+
+U Zakonu o obveznim odnosima (»Narodne novine«, br. 35/05., 41/08., 125/11., 78/15., 29/18., 126/21., 114/22., 156/22. i 155/23.) u članku 1.a podstavak 1. mijenja se i glasi:
+
+» – Direktiva (EU) 2024/2853 Europskog parlamenta i Vijeća od 23. listopada 2024. o odgovornosti za neispravne proizvode i stavljanju izvan snage Direktive Vijeća 85/374/EEZ (Tekst značajan za EGP) (SL L 2024/2853, 18. 11. 2024.),«.
+
+U podstavku 5. na kraju rečenice umjesto točke stavlja se zarez i dodaje se podstavak 6. koji glasi:
+
+» – Direktiva (EU) 2024/1799 Europskog parlamenta i Vijeća od 13. lipnja 2024. o zajedničkim pravilima za promicanje popravka robe i izmjeni Uredbe (EU) 2017/2394 te direktiva (EU) 2019/771 i (EU) 2020/1828 (Tekst značajan za EGP) (SL L 2024/1799, 10. 7. 2024.).«.
+
+#### Članak 2.
+
+Članak 294. mijenja se i glasi:
+
+»Ugovor za čiju je valjanost propisan ili ugovoren određeni oblik smatra se valjanim iako nije sklopljen u tom obliku ako su ugovorne strane ispunile, u cijelosti ili u pretežitom dijelu, obveze koje iz njega nastaju, osim ako iz posebnog zakona ili cilja radi kojeg je oblik propisan očito ne proizlazi što drugo.«.
+
+#### Članak 3.
+
+U članku 314. ispred riječi: »Oblik« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Punomoć može biti izdana i u elektroničkom obliku.«.
+
+#### Članak 4.
+
+U članku 399.a iza točke 11. umjesto točke stavlja se zarez i dodaje se točka 12. koja glasi:
+
+»12. obnova ima značenje kako je definirana u članku 2. točki 18. Uredbe (EU) 2024/1781 Europskog parlamenta i Vijeća od 13. lipnja 2024. o uspostavi okvira za utvrđivanje zahtjeva za ekološki dizajn održivih proizvoda, izmjeni Direktive (EU) 2020/1828 i Uredbe (EU) 2023/1542 te stavljanju izvan snage Direktive 2009/125/EZ.«.
+
+#### Članak 5.
+
+U članku 401. stavku 2. točki 4. iza riječi: »trajnost,« dodaju se riječi: »mogućnost popravka,«.
+
+#### Članak 6.
+
+U članku 405. ispred riječi: »Kad« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) U slučaju uklanjanja nedostatka popravkom stvari rokovi odgovornosti za materijalne nedostatke iz članka 403. stavka 4. i članka 404. stavka 2. ovoga Zakona produljuju se jednom za dvanaest mjeseci, a kod trgovačkog ugovora jednom za šest mjeseci.«.
+
+#### Članak 7.
+
+U članku 410. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Prilikom ostvarivanja prava na uklanjanje nedostatka prodavatelj će obavijestiti kupca o pravu na izbor između popravka i zamjene stvari, kao i o produljenju roka iz članka 405. stavka 2. ovoga Zakona, osim kod trgovačkog ugovora.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+Dosadašnji stavak 5., koji postaje stavak 6., mijenja se i glasi:
+
+»(6) Kupac ima pravo na sniženje cijene ili na raskid ugovora tek ako prodavatelj nije uklonio nedostatak ili je to odbio učiniti ili nije uklonio nedostatak u skladu s člankom 410.a stavcima 4. i 5. ovoga Zakona, ako nedostatak postoji unatoč pokušaju prodavatelja da ga ukloni odnosno ako je prodavatelj izjavio da neće ukloniti nedostatak ili iz okolnosti očito proizlazi da neće ukloniti nedostatak u razumnom roku ili bez znatnih neugodnosti za kupca te ako je nedostatak tako ozbiljan da opravdava trenutačno sniženje cijene ili raskid ugovora.«.
+
+Dosadašnji stavci 6. do 9. postaju stavci 7. do 10.
+
+#### Članak 8.
+
+U članku 410.a iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Prilikom popravka prodavatelj može, ovisno o prirodi stvari, a osobito o potrebi kupca da mu takva stvar bude trajno dostupna, posuditi kupcu zamjensku stvar, uključujući obnovljenu stvar.
+
+(3) Prodavatelj može, na izričiti zahtjev kupca, a kako bi ispunio svoju obvezu zamjene stvari, dati obnovljenu stvar.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 4., 5. i 6.
+
+#### Članak 9.
+
+U članku 1039. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Bankarska garancija na poziv iz stavka 1. ovoga članka može biti izdana i u elektroničkom obliku.«.
+
+#### Članak 10.
+
+U članku 1041. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Kontragarancija iz stavka 1. ovoga članka može biti izdana i u elektroničkom obliku.«.
+
+#### Članak 11.
+
+Iza članka 1072. ispod naziva: »Odsjek 5. ODGOVORNOST ZA NEISPRAVAN PROIZVOD« dodaje se naslov iznad članka i članak 1072.a koji glase:
+
+*»Pojmovi*
+
+#### Članak 1072.a
+
+U smislu primjene odredbi o odgovornosti za neispravan proizvod pojedini pojmovi imaju sljedeće značenje:
+
+1. proizvod je bilo koja pokretnina, čak i ako je ugrađena u neku drugu pokretninu ili nekretninu ili je s njima povezana, uključujući električnu energiju i druge oblike energije, datoteke za digitalnu proizvodnju, sirovine i softver,
+
+2. datoteka za digitalnu proizvodnju je digitalni predložak za pokretninu koji sadržava funkcionalne informacije potrebne za proizvodnju materijalnog predmeta omogućavanjem automatiziranog upravljanja strojevima ili alatima,
+
+3. povezana usluga je digitalna usluga koja je ugrađena u proizvod ili je povezana s njime tako da bi njezina odsutnost onemogućila izvršavanje jedne ili više njegovih funkcija,
+
+4. sastavni dio je svaki materijalni ili nematerijalni predmet, sirovina ili povezana usluga koji su ugrađeni u proizvod ili su s njime povezani,
+
+5. kontrola proizvođača znači:
+
+(a) da proizvođač proizvoda provodi ili, kad je riječ o radnjama treće osobe, odobrava ili pristaje na ugradnju, povezivanje ili isporučivanje sastavnog dijela, uključujući ažuriranja ili nadogradnje softvera ili izmjenu proizvoda, uključujući znatne izmjene,
+
+(b) da proizvođač proizvoda može sam isporučiti ažuriranja ili nadogradnje softvera ili to čini preko treće osobe,
+
+6. podaci imaju značenje kako su definirani u članku 2. točki 1. Uredbe (EU) 2022/868 Europskog parlamenta i Vijeća od 30. svibnja 2022. o europskom upravljanju podacima i izmjeni Uredbe (EU) 2018/1724 (Akt o upravljanju podacima),
+
+7. učiniti dostupnim na tržištu znači svaka besplatna ili naplatna isporuka proizvoda za distribuciju, potrošnju ili uporabu na tržištu Europske unije u okviru poslovne djelatnosti,
+
+8. stavljanje na tržište znači prvi puta učiniti proizvod dostupnim na tržištu Europske unije,
+
+9. stavljanje u uporabu znači prva naplatna ili besplatna uporaba proizvoda u Europskoj uniji u okviru poslovne djelatnosti u okolnostima u kojima taj proizvod nije bio stavljen na tržište prije prve uporabe,
+
+10. oštećenik je svaka fizička osoba koja pretrpi štetu prouzročenu neispravnim proizvodom,
+
+11. proizvođač je svaka fizička ili pravna osoba:
+
+(a) koja razvija ili proizvodi proizvod,
+
+(b) za koju se proizvod dizajnira ili proizvodi ili koja se, stavljanjem svojeg imena, žiga ili drugih razlikovnih obilježja na taj proizvod, predstavlja kao njegov proizvođač ili
+
+(c) koja razvija ili proizvodi proizvod za vlastitu uporabu,
+
+12. ovlašteni predstavnik je svaka fizička ili pravna osoba s poslovnim nastanom u Europskoj uniji koju je proizvođač pisanim putem ovlastio da u njegovo ime obavlja određene zadaće,
+
+13. uvoznik je svaka fizička ili pravna osoba koja na tržište Europske unije stavlja proizvod iz treće zemlje,
+
+14. pružatelj usluge provođenja narudžbi je svaka fizička ili pravna osoba koja u okviru poslovne djelatnosti nudi najmanje dvije od sljedećih usluga: skladištenje, pakiranje, adresiranje i slanje proizvoda, kojeg nema u svojem vlasništvu, što ne uključuje poštanske usluge kako su definirane u zakonu kojim se uređuju poštanske usluge, usluge dostave paketa kako su definirane u članku 2. točki 2. Uredbe (EU) 2018/644 Europskog parlamenta i Vijeća od 18. travnja 2018. o uslugama prekogranične dostave paketa te sve druge poštanske usluge ili usluge teretnog prijevoza,
+
+15. distributer je svaka fizička ili pravna osoba u lancu opskrbe koja proizvod čini dostupnim na tržištu, a koja nije proizvođač ni uvoznik tog proizvoda,
+
+16. gospodarski subjekt je proizvođač proizvoda ili sastavnog dijela, pružatelj povezane usluge, ovlašteni predstavnik, uvoznik, pružatelj usluga provođenja narudžbi i distributer,
+
+17. internetska platforma ima značenje kako je definirana u članku 3. točki i) Uredbe (EU) 2022/2065 Europskog parlamenta i Vijeća od 19. listopada 2022. o jedinstvenom tržištu digitalnih usluga i izmjeni Direktive 2000/31/EZ (Akt o digitalnim uslugama) (u daljnjem tekstu: Uredba (EU) 2022/2065),
+
+18. poslovna tajna ima značenje kako je definirana u zakonu kojim se uređuju pretpostavke zaštite i pravila postupka za zaštitu od nezakonitog pribavljanja, korištenja i otkrivanja poslovnih tajni koje se odnose na neobjavljene informacije koje imaju tržišnu (komercijalnu) vrijednost,
+
+19. znatna izmjena je izmjena proizvoda nakon što je stavljen na tržište ili stavljen u uporabu:
+
+(a) koja se smatra znatnom na temelju relevantnih pravila Europske unije ili nacionalnih pravila o sigurnosti proizvoda ili
+
+(b) ako u relevantnim pravilima Europske unije ili nacionalnim pravilima o sigurnosti proizvoda nije utvrđen prag prema kojem se može utvrditi što se smatra znatnom izmjenom, ona kojom se mijenjaju izvorna svojstva, svrha ili vrsta proizvoda, a da ta izmjena nije predviđena početnom procjenom rizika koju je proveo proizvođač te kojom se mijenja priroda opasnosti, stvara nova opasnost ili povećava razina rizika.«.
+
+#### Članak 12.
+
+U članku 1073. stavci 1., 2. i 3. mijenjaju se i glase:
+
+»(1) Gospodarski subjekt odgovara za štetu prouzročenu neispravnošću proizvoda bez obzira na krivnju.
+
+(2) Odredbe ovoga odsjeka odnose se na imovinsku štetu prouzročenu smrću, tjelesnom ozljedom ili oštećenjem zdravlja, uključujući imovinsku štetu prouzročenu medicinski priznatom povredom psihičkoga zdravlja te na imovinsku štetu prouzročenu uništenjem ili oštećenjem podataka koji se ne upotrebljavaju u poslovne svrhe, kao i na imovinsku štetu prouzročenu uništenjem ili oštećenjem bilo koje druge oštećenikove stvari, osim:
+
+1. samog neispravnog proizvoda,
+
+2. proizvoda oštećenog zbog neispravnog sastavnog dijela koji je proizvođač tog proizvoda ugradio u taj proizvod ili povezao s njime ili je to provedeno pod kontrolom tog proizvođača,
+
+3. imovine koja se upotrebljava isključivo u poslovne svrhe.
+
+(3) Oštećenik ima, po odredbama ovoga odsjeka, pravo na naknadu neimovinske štete koja je nastala kao posljedica štete iz stavka 2. ovoga članka.«.
+
+Stavak 4. briše se.
+
+Iza dosadašnjeg stavka 5., koji postaje stavak 4., dodaje se novi stavak 5. koji glasi:
+
+»(5) Odredbe ovoga odsjeka ne primjenjuju se na besplatan softver otvorenog koda koji se razvija ili se isporučuje izvan okvira poslovne djelatnosti.«.
+
+Stavak 8. briše se.
+
+#### Članak 13.
+
+Naslov iznad članka 1074. mijenja se i glasi: »Teret dokazivanja«.
+
+Članak 1074. mijenja se i glasi:
+
+»(1) Oštećenik je dužan dokazati neispravnost proizvoda, štetu i uzročnu vezu između neispravnosti proizvoda i štete.
+
+(2) Proizvod se smatra neispravnim:
+
+1. ako gospodarski subjekt (tuženik) nije otkrio relevantne dokaze u skladu s člankom 1074.a stavkom 1. ovoga Zakona,
+
+2. oštećenik (tužitelj) je dokazao kako proizvod nije u skladu s obveznim zahtjevima za sigurnost proizvoda utvrđenima u pravu Europske unije ili nacionalnom pravu čija je svrha zaštita od rizika od štete koju je pretrpio oštećenik ili
+
+3. oštećenik (tužitelj) je dokazao da je šteta prouzročena očitim kvarom proizvoda pri razumno predvidljivoj uporabi ili u uobičajenim okolnostima.
+
+(3) Uzročna veza između neispravnosti proizvoda i štete predmnijeva se ako je utvrđeno da je proizvod neispravan i da je prouzročena šteta tipična posljedica te neispravnosti.
+
+(4) Predmnijeva se neispravnost proizvoda ili uzročna veza između njegove neispravnosti i štete, ili oboje, ako, unatoč otkrivanju dokaza u skladu s člankom 1074.a ovoga Zakona i uzimajući u obzir sve relevantne okolnosti slučaja:
+
+1. oštećenik (tužitelj) se suočava s pretjeranim poteškoćama, posebno zbog tehničke ili znanstvene složenosti, u dokazivanju neispravnosti proizvoda ili uzročne veze između njegove neispravnosti i štete, ili oboje, i
+
+2. oštećenik (tužitelj) je dokazao da je vjerojatno da je proizvod neispravan ili da postoji uzročna veza između neispravnosti proizvoda i štete, ili oboje.
+
+(5) Predmnjeve iz stavaka 2., 3. i 4. ovoga članka oborive su.«.
+
+#### Članak 14.
+
+Iza članka 1074. dodaje se naslov iznad članka i članak 1074.a koji glase:
+
+*»Otkrivanje dokaza*
+
+#### Članak 1074.a
+
+(1) Na prijedlog tužitelja koji je iznio činjenice i predložio dokaze kojima je učinio vjerojatnim osnovanost zahtjeva za naknadu štete prouzročene neispravnim proizvodom, sud će naložiti tuženiku da otkrije relevantne dokaze kojima raspolaže.
+
+(2) Na prijedlog tuženika koji je iznio činjenice i predložio dokaze kojima je učinio vjerojatnim potrebu za dokazima u svrhu osporavanja osnovanosti zahtjeva za naknadu štete prouzročene neispravnim proizvodom, sud će naložiti tužitelju da otkrije relevantne dokaze kojima raspolaže.
+
+(3) Prilikom odlučivanja o prijedlogu za otkrivanje dokaza sud će uzeti u obzir i ocijeniti interese stranke koja traži otkrivanje dokaza u odnosu na interese druge stranke i trećih osoba od kojih se otkrivanje dokaza traži, a osobito uzevši u obzir interes tih osoba da:
+
+1. se ne otkrivaju dokazi ako se predmetne činjenice mogu utvrditi i na temelju drugih dostupnih dokaza,
+
+2. dokazi budu određeni koliko je to moguće s obzirom na okolnosti pojedinog slučaja te da budu bitni za postupak,
+
+3. opseg i trošak otkrivanja ne budu toliki da su u očitom nerazmjeru sa značenjem činjenica koje se žele utvrditi ili
+
+4. se zaštite vlastite ili tuđe poslovne tajne te povjerljive informacije.
+
+(4) Sud može, ako to smatra prikladnim, naložiti da se dokazi koji se trebaju otkriti predoče u lako dostupnom i razumljivom obliku ako smatra da je takvo predočenje razmjerno, uzimajući u obzir troškove i terete za dotičnu stranku.«.
+
+#### Članak 15.
+
+Članak 1075. mijenja se i glasi:
+
+»(1) Proizvod je neispravan ako ne pruža sigurnost koja se od takvog proizvoda opravdano očekuje ili koja se traži pravom Europske unije ili nacionalnim pravom.
+
+(2) Pri procjeni neispravnosti proizvoda u obzir se uzimaju sve okolnosti, uključujući:
+
+1. prezentiranje i značajke proizvoda, uključujući njegovo označivanje, dizajn, tehničke značajke, sastav i pakiranje te upute za njegovo sastavljanje, instalaciju, uporabu i održavanje,
+
+2. razumno predvidljivu uporabu proizvoda,
+
+3. učinak koji na proizvod može imati bilo koja sposobnost da nastavi učiti ili dobiva nove značajke nakon njegova stavljanja na tržište ili stavljanja u uporabu,
+
+4. razumno predvidljiv učinak drugih proizvoda za koje se može očekivati da će se upotrebljavati zajedno s njim, među ostalim putem međusobnog povezivanja,
+
+5. trenutak u kojem je proizvod stavljen na tržište ili stavljen u uporabu ili, ako proizvođač zadržava kontrolu nad proizvodom nakon tog trenutka, trenutak u kojem proizvod prestaje biti pod kontrolom proizvođača,
+
+6. relevantne zahtjeve u pogledu sigurnosti proizvoda, uključujući zahtjeve u području kibernetičke sigurnosti relevantne za sigurnost,
+
+7. bilo koji opoziv proizvoda ili bilo koju drugu relevantnu intervenciju nadležnog tijela ili gospodarskog subjekta iz članka 1076. ovoga Zakona, a koji se odnose na sigurnost proizvoda,
+
+8. specifične potrebe skupine korisnika za čiju je uporabu proizvod namijenjen,
+
+9. svako neispunjavanje svrhe proizvoda, ako je riječ o proizvodu čija je svrha spriječiti štetu.
+
+(3) Proizvod nije neispravan samo zbog toga što je bolji proizvod, uključujući ažuriranja ili nadogradnje proizvoda, prethodno ili naknadno stavljen na tržište ili u uporabu.«.
+
+#### Članak 16.
+
+Naslov iznad članka 1076. mijenja se i glasi: »Odgovorni gospodarski subjekti«.
+
+Članak 1076. mijenja se i glasi:
+
+»(1) Gospodarski subjekti odgovorni za štetu u skladu s odredbama ovoga odsjeka su:
+
+1. proizvođač neispravnog proizvoda,
+
+2. proizvođač neispravnog sastavnog dijela, ako je taj sastavni dio ugrađen u proizvod pod kontrolom proizvođača ili je s njim povezan i prouzročio je neispravnost tog proizvoda, ne dovodeći u pitanje odgovornost proizvođača iz točke 1. ovoga stavka i
+
+3. kad je riječ o proizvođaču proizvoda ili sastavnog dijela s poslovnim nastanom izvan Europske unije i ne dovodeći u pitanje odgovornost tog proizvođača:
+
+a) uvoznik neispravnog proizvoda ili sastavnog dijela,
+
+b) ovlašteni predstavnik proizvođača i
+
+c) ako nema uvoznika s poslovnim nastanom u Europskoj uniji ni ovlaštenog predstavnika, pružatelj usluga provođenja narudžbi.
+
+(2) Odgovornost proizvođača neispravnog proizvoda obuhvaća i svu štetu koju je prouzročio neispravni sastavni dio ako je ugrađen u proizvod pod kontrolom tog proizvođača ili je s njim povezan.
+
+(3) Za štetu prouzročenu neispravnošću proizvoda odgovara i svaka fizička ili pravna osoba koja znatno izmijeni proizvod izvan kontrole proizvođača te ga potom učini dostupnim na tržištu ili ga stavi u uporabu.
+
+(4) Ako nije moguće identificirati niti jednog od gospodarskih subjekata navedenih u stavku 1. ovoga članka, za štetu prouzročenu neispravnošću proizvoda odgovara distributer neispravnog proizvoda ako oštećenik zatraži od njega da identificira nekog od gospodarskih subjekata iz stavka 1. ovoga članka s poslovnim nastanom u Europskoj uniji ili distributera koji je njemu isporučio proizvod, a distributer to ne učini u roku od mjesec dana od primitka zahtjeva oštećenika.
+
+(5) Ako su ispunjene pretpostavke propisane člankom 6. stavkom 3. Uredbe (EU) 2022/2065, stavak 4. ovoga članka primjenjuje se i na svakog pružatelja internetske platforme koji se ne smatra gospodarskim subjektom u smislu ovoga članka, a koji potrošačima omogućava sklapanje ugovora na daljinu s trgovcima.«.
+
+#### Članak 17.
+
+Iza članka 1077. dodaje se naslov iznad članka i članak 1077.a koji glase:
+
+*»Pravo na regres od proizvođača neispravnog softverskog sastavnog dijela*
+
+#### Članak 1077.a
+
+Proizvođač koji u proizvod ugradi softver kao sastavni dio nema pravo na regres od proizvođača neispravnog softverskog sastavnog dijela koji je prouzročio štetu u slučajevima:
+
+1. ako je proizvođač neispravnog softverskog sastavnog dijela u trenutku stavljanja na tržište tog softverskog sastavnog dijela bio mikropoduzeće ili malo poduzeće, što znači poduzeće koje je, kada ga se procjenjuje zajedno sa svim njegovim partnerskim poduzećima kako su definirana u članku 3. stavku 2. Priloga Preporuci Komisije 2003/361/EZ (21) i povezanim poduzećima kako su definirana u članku 3. stavku 3. toga Priloga, ako postoje, mikropoduzeće kako je definirano u članku 2. stavku 3. toga Priloga ili malo poduzeće kako je definirano u članku 2. stavku 2. toga Priloga,
+
+2. ako se proizvođač koji je ugradio neispravni softverski sastavni dio u proizvod ugovorom odrekao toga prava.«.
+
+#### Članak 18.
+
+Članak 1078. mijenja se i glasi:
+
+»(1) Gospodarski subjekt iz članka 1076. ovoga Zakona oslobađa se odgovornosti ako dokaže:
+
+1. ako je riječ o proizvođaču ili uvozniku, da proizvod nije stavio na tržište ili u uporabu,
+
+2. ako je riječ o distributeru, da proizvod nije učinio dostupnim na tržištu,
+
+3. da je vjerojatno da neispravnost koja je prouzročila štetu nije postojala u trenutku kada je proizvod stavljen na tržište, stavljen u uporabu ili, kad je riječ o distributeru, učinjen dostupnim na tržištu ili da je neispravnost nastala nakon tog trenutka,
+
+4. da je do neispravnosti koja je prouzročila štetu došlo zbog usklađenosti proizvoda s pravnim zahtjevima,
+
+5. da objektivno stanje znanstvenog i tehničkog znanja u trenutku kada je proizvod stavljen na tržište ili stavljen u uporabu ili tijekom razdoblja u kojem je proizvod bio pod kontrolom proizvođača nije omogućilo da se otkrije neispravnost,
+
+6. da se neispravnost proizvoda u koji je taj sastavni dio ugrađen može pripisati konstrukciji tog proizvoda ili uputama koje je proizvođač tog proizvoda dao proizvođaču tog sastavnog dijela, ako je riječ o proizvođaču neispravnog sastavnog dijela iz članka 1076. stavka 1. točke 2. ovoga Zakona,
+
+7. da je neispravnost koja je prouzročila štetu povezana s dijelom proizvoda na koji izmjena ne utječe, ako je riječ o osobi koja mijenja proizvod kako je navedeno u članku 1076. stavku 3. ovoga Zakona.
+
+(2) Odstupajući od stavka 1. točke 3. ovoga članka, gospodarski subjekt ne oslobađa se odgovornosti ako je neispravnost proizvoda koji je pod kontrolom proizvođača uzrokovana bilo čime od sljedećeg:
+
+1. povezanom uslugom,
+
+2. softverom, uključujući njegova ažuriranja ili nadogradnje,
+
+3. izostankom ažuriranja ili nadogradnji softvera koji su potrebni za održavanje sigurnosti,
+
+4. znatnom izmjenom proizvoda.
+
+(3) Gospodarski subjekt djelomično se oslobađa odgovornosti ako je nastanku štete djelomično pridonio oštećenik ili osoba za koju on odgovara.
+
+(4) Ako je nastanku štete djelomično pridonijela treća osoba, ona odgovara solidarno s gospodarskim subjektom.«.
+
+#### Članak 19.
+
+U članku 1079. stavku 1. riječ: »proizvođača« zamjenjuje se riječima: »gospodarskog subjekta«.
+
+#### Članak 20.
+
+U članku 1080. stavku 1. riječi: »osobu proizvođača« zamjenjuju se riječima: »identitet gospodarskog subjekta«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Pravo na popravljanje štete prouzročene neispravnim proizvodom gasi se u roku od deset godina od dana kada je neispravni proizvod koji je prouzročio štetu stavljen na tržište ili u uporabu ili u slučaju znatno izmijenjenog proizvoda, od dana kada je taj proizvod učinjen dostupnim na tržištu ili stavljen u uporabu nakon njegove znatne izmjene, osim ako je u tom roku protiv gospodarskog subjekta pokrenut postupak pred sudom ili drugim nadležnim tijelom radi utvrđivanja ili ostvarivanja tražbine na popravljanje štete iz ovoga odsjeka.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, ako oštećenik nije mogao pokrenuti postupak u roku iz stavka 2. ovoga članka zbog latentnosti tjelesne ozljede, pravo na popravljanje štete prouzročene neispravnim proizvodom gasi se u roku od 25 godina od dana iz stavka 2. ovoga članka.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 21.
+
+(1) Odredbe članaka 4. do 8. ovoga Zakona ne primjenjuju se na ugovore sklopljene prije 31. srpnja 2026.
+
+(2) Odredbe članaka 11. do 20. ovoga Zakona ne primjenjuju se na proizvode stavljene na tržište ili u uporabu prije 9. prosinca 2026.
+
+#### Članak 22.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 4. do 8. ovoga Zakona koji stupaju na snagu 31. srpnja 2026. te članaka 11. do 20. ovoga Zakona koji stupaju na snagu 9. prosinca 2026.
+
+Klasa: 022-02/26-01/24
+
+Zagreb, 19. lipnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

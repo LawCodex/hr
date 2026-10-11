@@ -6,14 +6,19 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-18
-last_amended: 2016-06-01
+last_amended: 2025-11-05
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "73/13, 75/15, 50/16"
+narodne_novine: "73/13, 75/15, 50/16, 30/18, 125/19, 158/23, 14/24, 136/25"
 amendments:
   - "NN 75/2015 (1431) Zakon o izmjenama i dopunama Zakona o službi u oružanim snagama Republike Hrvatske"
   - "NN 50/2016 (1334) Zakon o izmjenama Zakona o službi u Oružanim snagama Republike Hrvatske"
+  - "NN 30/2018 (607) Zakon o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske"
+  - "NN 125/2019 (2488) Zakon o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske"
+  - "NN 158/2023 (2504) Uredba o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske"
+  - "NN 14/2024 (258) Zakon o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske"
+  - "NN 136/2025 (2012) Zakon o izmjenama i dopunama Zakona o službi u oružanim snagama Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/73/1453"
 retrieved: 2026-10-12
 ---
@@ -22,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 73/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/73/1453).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 75/2015, NN 50/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 75/2015, NN 50/2016, NN 30/2018, NN 125/2019, NN 158/2023, NN 14/2024, NN 136/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1177,21 +1182,18 @@ stožerni narednik sžn
 *– za niže časnike i vojne specijaliste:*
 
 <table><tbody>
-
 <tr>
 <td colspan="2">ČIN</td>
 <td>KRATICA</td>
 <td colspan="2">ČIN</td>
 <td>KRATICA</td>
 </tr>
-
 <tr>
 <td colspan="2">u kopnenoj vojsci i ratnom zrakoplovstvu</td>
 <td></td>
 <td colspan="2">u ratnoj mornarici – rod pomorstvo</td>
 <td></td>
 </tr>
-
 <tr>
 <td>poručnik</td>
 <td>poručnik<br>vojni specijalist</td>
@@ -1200,7 +1202,6 @@ stožerni narednik sžn
 <td>poručnik korvete<br>vojni specijalist</td>
 <td>pkr</td>
 </tr>
-
 <tr>
 <td>natporučnik</td>
 <td>natporučnik vojni specijalist</td>
@@ -1209,7 +1210,6 @@ stožerni narednik sžn
 <td>poručnik fregate vojni specijalist</td>
 <td>pfr</td>
 </tr>
-
 <tr>
 <td>satnik</td>
 <td>satnik vojni specijalist</td>
@@ -3603,3 +3603,2390 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 akademik Željko Reiner, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske (NN 30/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/30/607*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SLUŽBI U ORUŽANIM SNAGAMA REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 23. ožujka 2018.
+
+Klasa: 011-01/18-01/39  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 27. ožujka 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SLUŽBI U ORUŽANIM SNAGAMA REPUBLIKE HRVATSKE**
+
+#### Članak 1.
+
+U Zakonu o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15. i 50/16.) u članku 8. stavku 2. podstavku 3. riječi: »i protuzračne obrane« brišu se.
+
+#### Članak 2.
+
+U članku 14. stavak 2. mijenja se i glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, djelatnoj vojnoj osobi, službeniku i namješteniku na temelju posebnog odobrenja ministra obrane može biti dopušten rad:
+
+– kod druge pravne osobe ako to nije u suprotnosti s interesima službe, odnosno biti članom upravnog odnosno nadzornog odbora trgovačkog društva ako se radi o trgovačkim društvima od posebnog interesa za Republiku Hrvatsku
+
+– radi obavljanja djelatnosti i poslova izvan radnog vremena ako to nije u suprotnosti s interesima službe.«.
+
+#### Članak 3.
+
+U članku 18. stavku 4. podstavku 4. riječi: »(vojna policija)« brišu se.
+
+#### Članak 4.
+
+Iza članka 20. dodaju se članak 20.a i naslov iznad njega koji glase:
+
+*»Tjelesna spremnost*
+
+#### Članak 20.a
+
+(1) Djelatna vojna osoba dužna je održavati zahtijevanu razinu tjelesne spremnosti.
+
+(2) Kriterije i postupak provjere tjelesne spremnosti iz stavka 1. ovoga članka propisuje ministar obrane pravilnikom iz članka 34. stavka 2. ovoga Zakona.«.
+
+#### Članak 5.
+
+U članku 25. stavku 2. riječi: »na obuku« zamjenjuju se riječima: »na službu u Oružane snage«, a iza riječi: »dragovoljnom vojnom osposobljavanju« dodaju se riječi: »i programima za razvijanje sigurnosne kulture«.
+
+#### Članak 6.
+
+U članku 26. podstavku 4. riječi: »na određeno vrijeme« brišu se.
+
+#### Članak 7.
+
+U članku 28. stavku 2. riječi: »29 godina« zamjenjuju se riječima: »30 godina«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, na dragovoljno vojno osposobljavanje mogu se uputiti i osobe starije od 30 godina ako su kandidati za vojne specijaliste, ugovorne pričuvnike ili kasni prijam – na temelju ugovora o osposobljavanju za vojnog specijalista odnosno ugovora za službu u ugovornoj pričuvi.«.
+
+Dosadašnji stavci 3. i 4. postaji stavci 4. i 5.
+
+#### Članak 8.
+
+Iza članka 34. dodaju se članak 34.a i naslov iznad njega koji glase:
+
+*»Kasni prijam*
+
+#### Članak 34.a
+
+(1) Vrhunski sportaš kategoriziran u skladu sa zakonom kojim se uređuje sport i koji potpiše ugovor o ugovornoj pričuvi u skladu sa zakonom kojim se uređuje obrana te doktor medicine mogu biti primljeni u djelatnu vojnu službu u skladu s uvjetima propisanim ovim Zakonom bez obzira na godine života.
+
+(2) Na osobe iz stavka 1. ovoga članka ne primjenjuju se odredbe kojima se propisuju godine života za upućivanje na odgovarajuću razinu izobrazbe iz članaka 82. i 84. ovoga Zakona.«.
+
+#### Članak 9.
+
+U članku 36. stavku 1. podstavku 1. riječi: »srednju stručnu spremu« zamjenjuju se riječima: »srednjoškolsko obrazovanje«.
+
+U podstavku 2. riječi: »27 godina« zamjenjuju se riječima: »30 godina«.
+
+#### Članak 10.
+
+Naslov iznad članka 37. mijenja se i glasi: »Ugovor o vojničkoj službi na određeno vrijeme«.
+
+U članku 37. stavku 1. riječi: »u trajanju od četiri godine« zamjenjuju se riječima: »u trajanju od dvije godine«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Probni rad sastoji se od specijalističke vojne obuke i obuke na temelju obnašanja vojničke dužnosti i traje najdulje šest mjeseci.«.
+
+#### Članak 11.
+
+Naslov iznad članka 38. mijenja se i glasi: »Ugovor o vojničkoj službi na neodređeno vrijeme«.
+
+Članak 38. mijenja se i glasi:
+
+»(1) Ministarstvo obrane može u skladu s potrebama službe s djelatnim vojnikom/mornarom sklopiti drugi ugovor o vojničkoj službi na neodređeno vrijeme, najkasnije 90 dana prije isteka ugovora iz članka 37. stavka 1. ovoga Zakona.
+
+(2) Ugovorom iz stavka 1. ovoga članka prvenstveno se utvrđuje početak službe, obveza obavljanja službe na cijelom području Republike Hrvatske, obveza sudjelovanja u operacijama potpore miru, operacijama odgovora na krize, humanitarnim operacijama i drugim aktivnostima u inozemstvu, plaća, uvjeti i posljedice raskida ugovora, otkazni rok, način rješavanja sporova te druga prava i obveze u vezi s obavljanjem vojničke službe.
+
+(3) Ako je djelatni vojnik/mornar 90 dana prije isteka ugovora iz članka 37. stavka 1. ovoga Zakona privremeno nesposoban za rad zbog priznate ozljede na radu ili profesionalne bolesti, zbog bolesti ili komplikacija u vezi s trudnoćom ili porođajem, privremeno spriječen za rad zbog korištenja rodiljnog dopusta, zbog korištenja dopusta za slučaj smrti djeteta, u slučaju mrtvorođenog djeteta ili smrti djeteta za vrijeme korištenja rodiljnog dopusta i korištenja roditeljskog dopusta do navršene prve godine života djeteta te ne može pristupiti zdravstvenom pregledu i provjerama tjelesnih sposobnosti, trajanje ugovora iz članka 37. stavka 1. ovoga Zakona produljuje se za duljinu trajanja privremene nesposobnosti odnosno spriječenosti za rad, a najdulje šest mjeseci.
+
+(4) Uvjete i postupak za sklapanje ugovora iz stavka 1. ovoga članka odlukom propisuje ministar obrane.«.
+
+#### Članak 12.
+
+U članku 40. stavku 1. riječi: »prve službene ocjene« zamjenjuju se riječima: »navršene dvije godine službe«.
+
+U stavku 2. riječi: »i nisu stariji od 29 godina« zamjenjuju se riječima: »najkasnije u kalendarskoj godini u kojoj navršavaju 30 godina života«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Kriterije i postupak odabira osoba koje će se uputiti na prvu razinu dočasničke izobrazbe pravilnikom propisuje ministar obrane.«.
+
+#### Članak 13.
+
+U članku 42. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Kadeti kojima je raskinut ugovor o kadetskoj službi s Ministarstvom obrane, a koji su u okviru obuke za kadete stekli temeljna vojna znanja i vještine u skladu s programom dragovoljnog vojnog osposobljavanja, mogu biti bez javnog natječaja primljeni u djelatnu vojnu službu kao ugovorni vojnici/mornari uz ispunjavanje ostalih uvjeta za prijam propisanih ovim Zakonom, osim kadeta kojima je izrečena stegovna kazna raskida ugovora o kadetskoj službi.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 14.
+
+U članku 43. stavak 6. mijenja se i glasi:
+
+»(6) Osoba iz stavka 4. ovoga članka smatra se vojnom osobom u skladu s odredbama ovoga Zakona te ostvaruje prava i obveze djelatne vojne osobe.«.
+
+#### Članak 15.
+
+U članku 44. stavku 1. riječi: »u trajanju do godinu dana« brišu se.
+
+#### Članak 16.
+
+U članku 45. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 1. ovoga članka, kandidatu za časnika sa zvanjem doktora medicine dodjeljuje se časnički čin natporučnika/poručnika fregate.«.
+
+#### Članak 17.
+
+U članku 46. stavku 4. riječi: »u trajanju do godinu dana« brišu se.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Osoba iz stavka 4. ovoga članka smatra se vojnom osobom u skladu s odredbama ovoga Zakona te ostvaruje prava i obveze djelatne vojne osobe.«.
+
+#### Članak 18.
+
+U članku 49. stavku 1. podstavku 4. iza riječi: »vojno predstavništvo« stavlja se zarez i dodaju riječi: »u strukture Europske unije, nacionalna i multinacionalna zapovjedništva i stožere te druga međunarodna tijela iz područja obrane i sigurnosti (u daljnjem tekstu međunarodna tijela)«.
+
+U stavku 2. na kraju podstavka 6. briše se točka te se dodaje podstavak 7. koji glasi:
+
+» – na roditeljskom dopustu.«.
+
+#### Članak 19.
+
+Članak 50. mijenja se i glasi:
+
+»(1) Djelatnu vojnu osobu imenuje se na dužnost, odnosno raspoređuje na ustrojbeno mjesto, u skladu s uvjetima ustrojbenog mjesta, činom i stečenom vojnostručnom specijalnosti.
+
+(2) Raspored djelatne vojne osobe na ustrojbeno mjesto za koje je propisana opća vojnostručna specijalnost smatra se odgovarajućim rasporedom u skladu sa stečenom osobnom vojnostručnom specijalnosti.
+
+(3) Djelatni dočasnik i časnik može obnašati neprekidno zapovjednu, voditeljsku dužnost i dužnost prvog dočasnika na istom ustrojbenom mjestu najdulje četiri godine.
+
+(4) Ako nakon isteka roka iz stavka 3. ovoga članka ne postoji mogućnost rasporeda na drugo odgovarajuće ustrojbeno mjesto, obnašanje dužnosti može se produljiti do dvije godine.
+
+(5) Ministar obrane na prijedlog načelnika Glavnog stožera pravilnikom propisuje uvjete, rokove, način i postupak odabira i raspoređivanja djelatnih vojnih osoba na ustrojbeno mjesto odnosno upućivanja na dužnost.«.
+
+#### Članak 20.
+
+U članku 52. stavku 1. podstavak 3. mijenja se i glasi:
+
+» – u međunarodna tijela«.
+
+#### Članak 21.
+
+U članku 54. stavku 1. podstavak 4. mijenja se i glasi:
+
+» – na osobni zahtjev«.
+
+Iza podstavka 4. dodaje se novi podstavak 5. koji glasi:
+
+» – ako nema mogućnost rasporeda na ustrojbeno mjesto osobnog čina«.
+
+Dosadašnji podstavci 5. i 6. postaju podstavci 6. i 7.
+
+U stavku 2. riječi: »uz zadržavanje prava osobnog čina« brišu se, a riječi: »podstavaka 5. i 6.« zamjenjuju se riječima: »podstavaka 6. i 7.«.
+
+#### Članak 22.
+
+Iza članka 55. dodaje se članak 55.a koji glasi:
+
+»Članak 55.a
+
+(1) Časnik i dočasnik raspoređen na dužnost u Glavnom stožeru, zapovjedništvu grane i zapovjedništvu jednake razine može istodobno biti dodatno raspoređen na zapovjednu ili drugu dužnost u drugoj ustrojstvenoj jedinici Oružanih snaga iste ili niže razine u okviru istoga roda, službe, struke odnosno funkcionalnoga područja.
+
+(2) Ustrojbena mjesta koja se mogu dodatno popunjavati na način iz stavka 1. ovoga članka utvrđuju se ustrojem Glavnog stožera i Oružanih snaga.
+
+(3) Ako osoba iz stavka 1. ovoga članka obnaša dodatnu dužnost, ostvaruje pravo na novčanu naknadu u iznosu koji odlukom određuje ministar obrane.
+
+(4) Uvjeti, način i postupak za raspored na dužnost iz stavaka 1. i 2. ovoga članka propisuje ministar obrane pravilnikom iz članka 50. stavka 5. ovoga Zakona.”.
+
+#### Članak 23.
+
+Članak 56. mijenja se i glasi:
+
+»(1) Djelatna vojna osoba može biti u interesu Oružanih snaga raspoređena na ustrojbenom mjestu neposredno višeg čina od osobnog čina, najdulje dvije godine.
+
+(2) Iznimno od stavka 1. ovoga članka, časnici i dočasnici struka i zdravstvene službe mogu biti raspoređeni na ustrojbenom mjestu do dva čina više od osobnog čina, najdulje dvije godine.
+
+(3) Raspored na ustrojbeno mjesto iz stavka 2. ovoga članka koje je dva čina više od osobnog čina mora se u svakom pojedinačnom slučaju posebno obrazložiti.
+
+(4) Iznimno od stavka 1. ovoga članka, vojnik/mornar, vojni specijalist, djelatna vojna osoba imenovana na dužnost vojnog izaslanika ili na drugu vojnodiplomatsku dužnost te djelatna vojna osoba upućena u međunarodna tijela može biti raspoređena na ustrojbenom mjestu do dva čina više od osobnog čina i na njih se ne odnosi ograničenje trajanja rasporeda na dvije godine i obrazloženje iz stavaka 2. i 3. ovoga članka.
+
+(5) Nakon isteka roka rasporeda iz stavaka 1. i 2. ovoga članka može se iznimno produljiti raspored u skladu s pravilnikom iz članka 50. stavka 5. ovoga Zakona.«.
+
+#### Članak 24.
+
+Naslov iznad članka 58. mijenja se i glasi: »Rod, služba, struka i specijalnost«.
+
+U članku 58. dodaju se novi stavci 1. i 2. koji glase:
+
+»(1) Vojnostručna specijalnost je potvrđena osposobljenost vojnih osoba za obnašanje dužnosti u okviru roda, službe ili struke.
+
+(2) Vojnostručna specijalnost određuje se završetkom vojnog školovanja, vojne izobrazbe ili obuke.«.
+
+Dosadašnji stavci 1. do 4. postaju stavci 3. do 6.
+
+#### Članak 25.
+
+Naslov iznad članka 62. mijenja se i glasi: »5. UPUĆIVANJE U MEĐUNARODNA TIJELA«.
+
+U članku 62. stavak 1. mijenja se i glasi:
+
+»(1) Djelatna vojna osoba i službenik i namještenik može biti upućen na rad u međunarodna tijela najdulje na rok do četiri godine na temelju odluke ministra obrane i uz mišljenje načelnika Glavnog stožera.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Iznimno, ako nema kandidata koji zadovoljavaju uvjete iz internog oglasa ili se nitko nije javio na oglas, na rad u tijela iz stavka 1. ovoga članka uputit će se djelatna vojna osoba ili službenik i namještenik po potrebi službe.«.
+
+#### Članak 26.
+
+Članak 63.a mijenja se i glasi:
+
+»(1) Vojnik/mornar tijekom ugovora o vojničkoj službi na neodređeno vrijeme može biti premješten uz osobnu suglasnost u državno tijelo ili javnu službu uz prethodni pisani sporazum čelnika tijela, ako za to ispunjava uvjete u skladu s posebnim propisima.
+
+(2) Sporazum o premještaju iz stavka 1. ovoga članka sklapa ministar obrane s čelnikom tijela u koje se osoba premješta.«.
+
+#### Članak 27.
+
+Članak 64. mijenja se i glasi:
+
+»(1) Djelatna vojna osoba stavlja se na raspolaganje:
+
+– po isteku roka na koji je imenovana, raspoređena, upućena ili ako je razriješena dužnosti – na rok od tri mjeseca
+
+– po isteku roka od dva mjeseca od stupanja na snagu ustroja kojim je ukinuto ustrojbeno mjesto – na rok od tri mjeseca
+
+– kada je ocijenjena zdravstveno nesposobnom za djelatnu vojnu službu – do prestanka službe.
+
+(2) Osoba na raspolaganju iz stavka 1. ovoga članka zadržava prava osobnog čina.
+
+(3) Stavljanje na raspolaganje upravna je stvar.
+
+(4) Rok raspolaganja ne teče za vrijeme trudnoće, korištenja rodiljnog, roditeljskog, posvojiteljskog dopusta, rada s polovicom punog radnog vremena, rada u skraćenom radnom vremenu zbog pojačane njege djeteta, dopusta trudnice ili majke koja doji dijete, dopusta ili rada u skraćenom radnom vremenu radi skrbi i njege djeteta s težim smetnjama u razvoju prema posebnom propisu, privremene nesposobnosti za rad zbog ozljede na radu ili profesionalne bolesti zbog rane, ozljede ili bolesti koja je neposredna posljedica sudjelovanja u Domovinskom ratu.
+
+(5) Rok raspolaganja ne teče za vrijeme privremene nesposobnosti za rad.
+
+(6) Ako je došlo do prekida tijeka roka raspolaganja zbog privremene nesposobnosti za rad iz stavka 5. ovoga članka, djelatnoj vojnoj osobi služba prestaje najkasnije istekom šest mjeseci od dana stavljanja na raspolaganje.
+
+(7) Za vrijeme raspolaganja djelatna vojna osoba dužna je obavljati poslove po nalogu načelnika Glavnog stožera ili osobe koju on za to ovlasti, u skladu s činom, zvanjem i stečenom vojnostručnom specijalnosti.«.
+
+#### Članak 28.
+
+Iza članka 66. dodaje se članak 66.a koji glasi:
+
+»Članak 66.a
+
+Djelatna vojna osoba koja koristi roditeljski dopust dulje od šest mjeseci razrješava se dužnosti te nakon iskorištenog roditeljskog dopusta ima pravo biti raspoređena na istu ili odgovarajuću vrstu poslova koje je obavljala prije razrješenja s dužnosti.«.
+
+#### Članak 29.
+
+U članku 78.a iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Osobu izabranu u suradničko, znanstveno, nastavno ili znanstveno-nastavno zvanje, u skladu sa zakonom kojim se uređuje znanstvena djelatnost i visoko obrazovanje, kojoj je prestala djelatna vojna služba i koja je sudjelovala u nastavi na studijskim programima ili znanstvenim istraživanjima odnosno projektima na Hrvatskom vojnom učilištu, ministar obrane može primiti u službu u Oružane snage u svojstvu službenika bez raspisivanja javnog natječaja na mjesta ustrojena u skladu sa stavkom 2. ovoga članka.«.
+
+#### Članak 30.
+
+Članak 81. mijenja se i glasi:
+
+»(1) Slijedno-rastuća dočasnička izobrazba provodi se pohađanjem izobrazbi:
+
+– prva razina – za osposobljavanje za obnašanje dočasničke dužnosti i dodjelu čina skupnika
+
+– druga razina – za osposobljavanje za obnašanje dužnosti više razine odgovornosti i promicanje u čin desetnika i narednika
+
+– treća razina – za osposobljavanje za obnašanje dužnosti više razine odgovornosti i promicanje u čin nadnarednika i stožernog narednika
+
+– četvrta razina – za osposobljavanje za obnašanje dužnosti više razine odgovornosti i promicanje u čin časničkog namjesnika.
+
+(2) Pričuvnici pohađaju prve tri razine vojne izobrazbe za dočasnike po posebnom programu koji donosi načelnik Glavnog stožera.«.
+
+#### Članak 31.
+
+Članak 82. mijenja se i glasi:
+
+»(1) Vojnik/mornar upućuje se na prvu razinu slijedno-rastuće dočasničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršava 30 godina života.
+
+(2) Skupnik se upućuje na drugu razinu slijedno-rastuće dočasničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršava 33 godine života.
+
+(3) Narednik se upućuje na treću razinu slijedno-rastuće dočasničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršava 41 godinu života. Na treću razinu slijedno-rastuće dočasničke izobrazbe može se uputiti i desetnik najranije u kalendarskoj godini u kojoj navršava četiri godine u činu i najkasnije u kalendarskoj godini u kojoj navršava 37 godina života.
+
+(4) Stožerni narednik se upućuje na četvrtu razinu slijedno-rastuće dočasničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršava 47 godina života.
+
+(5) Djelatna vojna osoba koja je u godinama života propisanim stavcima 1. do 4. ovoga članka koristila rodiljni i roditeljski dopust može biti upućena na slijedno-rastuću izobrazbu odmah nakon povratka u službu s rodiljnog i roditeljskog dopusta.
+
+(6) Pričuvnici mogu biti upućeni na dočasničku izobrazbu bez obzira na godine života.«.
+
+#### Članak 32.
+
+Članak 83. mijenja se i glasi:
+
+»(1) Slijedno-rastuća časnička izobrazba provodi se pohađanjem izobrazbi:
+
+– prva razina – za osposobljavanje za obnašanje časničke dužnosti i dodjelu čina poručnika/poručnika korvete i promicanje u čin natporučnika/poručnika fregate
+
+– druga razina – za osposobljavanje za obnašanje dužnosti više razine odgovornosti i promicanje u čin satnika/poručnika bojnog broda i bojnika/kapetana korvete
+
+– treća razina – za osposobljavanje za obnašanje dužnosti više razine odgovornosti i promicanje u čin pukovnika/kapetana fregate, a unutar nje intergranska zapovjedno-stožerna škola za promicanje u čin brigadira/kapetana bojnog broda
+
+– četvrta razina – za osposobljavanje za obnašanje dužnosti više razine odgovornosti i promicanje u čin generala/admirala.
+
+(2) Pričuvnici pohađaju prve tri razine vojne izobrazbe za časnike po posebnom programu koji donosi načelnik Glavnog stožera.«.
+
+#### Članak 33.
+
+Članak 84. mijenja se i glasi:
+
+»(1) Kandidat za časnika upućuje se na prvu razinu slijedno-rastuće časničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršava 30 godina života.
+
+(2) Natporučnik/poručnik fregate upućuje se na drugu razinu slijedno-rastuće časničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršava 38 godina života.
+
+(3) Bojnik/kapetan korvete upućuje se na treću razinu slijedno-rastuće časničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršava 47 godina života. Na treću razinu slijedno-rastuće časničke izobrazbe može se uputiti satnik/poručnik bojnog broda najranije u kalendarskoj godini u kojoj navršava tri godine u činu i najkasnije u kalendarskoj godini u kojoj navršava 45 godina života.
+
+(4) Brigadir/kapetan bojnog broda upućuje se na četvrtu razinu slijedno-rastuće časničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršava 49 godina života. Na četvrtu razinu slijedno-rastuće časničke izobrazbe može se uputiti pukovnik/kapetan fregate najranije u kalendarskoj godini u kojoj navršava tri godine u činu i najkasnije u kalendarskoj godini u kojoj navršava 47 godina života.
+
+(5) Na četvrtu razinu slijedno-rastuće časničke izobrazbe mogu se za obnašanje dužnosti određene razine odgovornosti uputiti i službenici iz Ministarstva obrane i drugih državnih tijela koji su u državnoj službi proveli najmanje deset godina.
+
+(6) Iznimno od godina života iz stavaka 2., 3. i 4. ovoga članka, djelatnoj vojnoj osobi koja koristi rodiljni i roditeljski dopust vrijeme provedeno u tom statusu priznat će se jednokratno i odmah nakon povratka u službu kao produljenje krajnjeg roka za upućivanje na slijedno-rastuću izobrazbu.
+
+(7) Pričuvnici mogu biti upućeni na časničku izobrazbu bez obzira na godine života.«.
+
+#### Članak 34.
+
+U članku 89. stavku 3. podstavku 1. ispod riječi: »kadet narednik kn« dodaju se riječi: »kadet nadnarednik knn«.
+
+#### Članak 35.
+
+Članak 91. mijenja se i glasi:
+
+»(1) Vojnu osobu može se promaknuti u viši čin:
+
+– ako je provela propisano vrijeme u određenom činu
+
+– ako u zadnje tri godine nije kažnjena za kazneno djelo koje je zapreka za prijam, odnosno ako se protiv nje ne vodi kazneni postupak za kaznena djela za koje se postupak pokreće po službenoj dužnosti
+
+– ako se protiv nje ne vodi stegovni postupak zbog stegovnog prijestupa
+
+– ako joj u zadnjoj godini nije izrečena jednokratna novčana kazna i stegovna kazna smanjenja plaće, stegovna kazna raskida ugovora o izobrazbi i stegovna kazna raskida ugovora o stručnom usavršavanju
+
+– ako joj ne traje vrijeme izvršenja stegovne kazne zaustavljanja u napredovanju u službi, stegovne kazne zaustavljanja u promaknuću u činu, odnosno stegovne kazne smjenjivanja s dužnosti
+
+– ako joj u zadnje tri godine nije izrečena stegovna kazna prevođenja čina u neposredno niži čin i
+
+– ako je raspoređena na dužnost višeg čina.
+
+(2) Osim uvjeta iz stavka 1. ovoga članka za promicanje u činove viših časnika odnosno generala/admirala, djelatna vojna osoba treba imati utvrđenu razinu znanja stranog jezika u skladu s pravilnikom iz članka 87. stavka 3. ovoga Zakona.
+
+(3) Vojne osobe koje nisu ocijenjene u skladu s odredbama ovoga Zakona ne ispunjavaju uvjete za promicanje.
+
+(4) Djelatnoj vojnoj osobi koja je u vremenu propisanom za promicanje ocijenjena službenom ocjenom »zadovoljava« vrijeme potrebno za promicanje produljuje se za jednu godinu za svaku službenu ocjenu »zadovoljava«.
+
+(5) Djelatna vojna osoba upućena na školovanje u trajanju duljem od šest mjeseci ili upućena u operaciju potpore miru, operacije odgovora na krize, humanitarnu operaciju ili drugu aktivnost u inozemstvu u trajanju duljem od devet mjeseci ispunjava uvjet za promicanje iz stavka 1. podstavka 7. ovoga članka ako je prije upućivanja na školovanje ili operaciju potpore miru, ili operacije odgovora na krize, ili humanitarnu operaciju, ili drugu aktivnost u inozemstvu bila raspoređena na ustrojbenom mjestu višeg čina.
+
+(6) Djelatnim vojnim osobama vrijeme na specijalizaciji pojedine grane medicine na temelju ugovora s Ministarstvom obrane računa se kao vrijeme u činu i kao raspored na višem ustrojbenom mjestu.
+
+(7) Odredbe ovoga Zakona o dodjeli čina i promaknuću u viši čin na odgovarajući način se primjenjuju i na pričuvne vojnike/mornare, pričuvne dočasnike i pričuvne časnike.
+
+(8) Dodjela čina i promaknuće u viši čin nije upravna stvar.«.
+
+#### Članak 36.
+
+Članak 92.a mijenja se i glasi:
+
+»(1) Sklapanjem ugovora o kadetskoj službi osobi se dodjeljuje čin kadeta.
+
+(2) Upisom u drugu godinu studija kadetu se dodjeljuje čin kadeta skupnika.
+
+(3) Upisom u treću godinu studija kadetu se dodjeljuje čin kadeta desetnika.
+
+(4) Upisom u četvrtu godinu studija kadetu se dodjeljuje čin kadeta narednika.
+
+(5) Upisom u petu godinu studija kadetu se dodjeljuje čin kadeta nadnarednika.
+
+(6) Činovi se dodjeljuju kadetima Oružanih snaga i kadetima iz drugih država koji su na školovanju u Oružanim snagama na temelju sklopljenih bilateralnih ugovora.
+
+(7) Načelnik Glavnog stožera ili osoba koju on ovlasti osobama iz stavaka 1. do 5. ovoga članka dodjeljuje kadetske činove.«.
+
+#### Članak 37.
+
+Članak 93. mijenja se i glasi:
+
+»(1) Vojniku/mornaru može se dodijeliti čin pozornika ako je ocijenjen zadnjom službenom ocjenom najmanje »ističe se« i u službi je proveo najmanje jednu godinu.
+
+(2) Pozornik može biti promaknut u čin razvodnika ako je ocijenjen zadnjom službenom ocjenom najmanje »ističe se« i u činu pozornika proveo najmanje jednu godinu.
+
+(3) Vojniku/mornaru čin pozornika dodjeljuje i u čin razvodnika ga promiče načelnik Glavnog stožera ili osoba koju on ovlasti.«.
+
+#### Članak 38.
+
+Članak 95. mijenja se i glasi:
+
+»(1) Dočasnik može biti promaknut u viši čin kada ispuni uvjete iz članka 91. ovoga Zakona, kada u činu provede propisano vrijeme i stekne slijedno-rastuću dočasničku izobrazbu propisane razine kako slijedi:
+
+– skupnik može biti promaknut u čin desetnika kada u činu skupnika provede tri godine i ako ima završenu slijedno-rastuću dočasničku izobrazbu druge razine
+
+– desetnik može biti promaknut u čin narednika kada u činu desetnika provede četiri godine i ako ima završenu slijedno-rastuću dočasničku izobrazbu druge razine
+
+– narednik može biti promaknut u čin nadnarednika kada u činu narednika provede pet godina i ako ima završenu slijedno-rastuću dočasničku izobrazbu treće razine
+
+– nadnarednik može biti promaknut u čin stožernog narednika kada u činu nadnarednika provede pet godina i ako ima završenu slijedno-rastuću dočasničku izobrazbu treće razine
+
+– stožerni narednik može biti promaknut u čin časničkog namjesnika kada u činu stožernog narednika provede pet godina i ako ima završenu slijedno-rastuću dočasničku izobrazbu četvrte razine.
+
+(2) Iznimno od stavka 1. ovoga članka, propisano vrijeme u činu potrebno za promicanje skraćuje se za jednu godinu dočasnicima sa završenim najmanje stručnim studijem odnosno završenim preddiplomskim sveučilišnim studijem, jedanput tijekom službe.
+
+(3) Odredba stavka 1. ovoga članka koja se odnosi na vojnu izobrazbu ne primjenjuje se na dočasnike vojne specijaliste.
+
+(4) Načelnik Glavnog stožera dodjeljuje prvi dočasnički čin i promiče u činove dočasnike na prijedlog neposredno podređenoga zapovjednika odnosno voditelja.«.
+
+#### Članak 39.
+
+Naslov iznad članka 96. mijenja se i glasi: »Dodjela čina poručnika/poručnika korvete i natporučnika/poručnika fregate te promicanje časnika i generala/admirala«.
+
+U članku 96. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, kandidatima za časnika sa zvanjem doktora medicine nakon završetka prve razine slijedno-rastuće časničke izobrazbe dodjeljuje se čin natporučnika/poručnika fregate.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 40.
+
+Članak 97. mijenja se i glasi:
+
+» (1) Časnik može biti promaknut u viši čin kada ispuni uvjete iz članka 91. ovoga Zakona, kada u činu provede propisano vrijeme i stekne slijedno-rastuću časničku izobrazbu propisane razine kako slijedi:
+
+– poručnik, odnosno poručnik korvete može biti promaknut u čin natporučnika, odnosno poručnika fregate ako ima završenu slijedno-rastuću časničku izobrazbu prve razine i u činu poručnika odnosno poručnika korvete provede tri godine i ako ima završen najmanje diplomski sveučilišni studij, integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, odnosno kada u činu poručnika odnosno poručnika korvete provede četiri godine i ako ima završen preddiplomski sveučilišni studij ili stručni studij
+
+– natporučnik, odnosno poručnik fregate može biti promaknut u čin satnika, odnosno poručnika bojnog broda ako ima završenu slijedno-rastuću časničku izobrazbu druge razine i u činu natporučnika odnosno poručnika fregate provede četiri godine i ako ima završen najmanje diplomski sveučilišni studij, integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, odnosno kada u činu poručnika odnosno poručnika korvete provede pet godina i ako ima završen preddiplomski sveučilišni studij ili stručni studij
+
+– satnik, odnosno poručnik bojnog broda može biti promaknut u čin bojnika, odnosno kapetana korvete kada u činu satnika odnosno poručnika bojnog broda provede pet godina i ako ima završenu slijedno-rastuću časničku izobrazbu druge razine te završen najmanje stručni studij ili preddiplomski sveučilišni studij
+
+– bojnik, odnosno kapetan korvete može biti promaknut u čin pukovnika, odnosno kapetana fregate kada u činu bojnika odnosno kapetana korvete provede pet godina, ako ima završenu slijedno-rastuću časničku izobrazbu treće razine te završen najmanje stručni studij ili preddiplomski sveučilišni studij, a iznimno bojnik odnosno kapetan korvete liječnik specijalist grane medicine kada u činu bojnika odnosno kapetana korvete provede pet godina može biti promaknut u čin pukovnika odnosno kapetana fregate bez završene slijedno-rastuće časničke izobrazbe treće razine
+
+– pukovnik, odnosno kapetan fregate može biti promaknut u čin brigadira, odnosno kapetana bojnog broda kada u činu pukovnika odnosno kapetana fregate provede pet godina, ako ima završenu intergransku zapovjedno-stožernu školu te završen najmanje diplomski sveučilišni studij, integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, a iznimno pukovnik odnosno kapetan fregate liječnik specijalist grane medicine kada u činu pukovnika provede pet godina može biti promaknut u čin brigadira odnosno kapetana bojnog broda bez završene intergranske zapovjedno-stožerne škole.
+
+(2) Odredbe stavka 1. ovoga članka koje se odnose na vojnu izobrazbu ne primjenjuju se na časnike vojne specijaliste.«.
+
+#### Članak 41.
+
+Članak 97.a briše se.
+
+#### Članak 42.
+
+U članku 98. stavku 1. iza riječi: »ocjena« dodaju se riječi: »i da je obnašao dužnost zapovjednika razine bojne ili više razine najmanje dvije godine«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, liječnik specijalist grane medicine kada u činu brigadira odnosno kapetana bojnog broda provede četiri godine, može biti promaknut u čin brigadnog generala odnosno komodora.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+#### Članak 43.
+
+Iza članka 101. dodaju se članci 101.a i 101.b i naslovi iznad njih koji glase:
+
+*»Prevođenje čina*
+
+#### Članak 101.a
+
+(1) Djelatnim i pričuvnim dočasnicima i časnicima primljenim u vojnog specijalista prevodi se osobni čin u čin vojnog specijalista iste razine, pod uvjetom da njihov osobni čin nije viši od čina propisanoga ovim Zakonom za vojne specijaliste.
+
+(2) Činove dočasnika i časnika u činove vojnih specijalista prevodi osoba nadležna za dodjelu činova i promicanje u viši čin dočasnika i časnika.
+
+*Počasni činovi*
+
+#### Članak 101.b
+
+(1) Predsjednik Republike može dodijeliti počasni čin časnika, generala odnosno admirala Oružanih snaga hrvatskim državljanima i državljanima stranih država za osobite zasluge stečene u Domovinskom ratu.
+
+(2) Počasni čin daje pravo na oznake i odgovarajuće vojne počasti bez prava na zapovijedanje i vođenje te nema nikakve financijske učinke.
+
+(3) Kriterije i postupak za predlaganje te druga pitanja u vezi s počasnim činovima iz stavka 1. ovoga članka odlukom propisuje Predsjednik Republike na prijedlog ministra obrane.«.
+
+#### Članak 44.
+
+U članku 106. stavku 1. druga rečenica koja glasi: »Prijedlog pravilnika ministru obrane može podnijeti načelnik Glavnog stožera.« briše se.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+#### Članak 45.
+
+U članku 107. stavku 1. riječi: »je temelj« zamjenjuju se riječima: »se koristi«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavci 4. i 5. postaju stavci 3. i 4.
+
+#### Članak 46.
+
+U članku 116. stavku 2. riječ: »samostalne« briše se.
+
+#### Članak 47.
+
+U članku 119. stavku 2. riječ: »zdravlja« zamjenjuje se riječju: »zdravstva«.
+
+#### Članak 48.
+
+U članku 120. stavak 1. mijenja se i glasi:
+
+»(1) Djelatne vojne osobe i kadeti primarnu zdravstvenu zaštitu u pravilu ostvaruju kod izabranog vojnog doktora medicine primarne zdravstvene zaštite i vojnog doktora dentalne medicine iz sastava vojno zdravstvenog središta Ministarstva obrane i Oružanih snaga i drugih ustrojstvenih jedinica Oružanih snaga nadležnih za provedbu zdravstvene potpore.«.
+
+U stavku 3. riječ: »zdravlja« zamjenjuje se riječju: »zdravstva«.
+
+#### Članak 49.
+
+U članku 121. stavku 1. iza riječi: »na zdravstvenu zaštitu« dodaju se riječi: »i pokriće troškova zdravstvene zaštite iz obveznog i dopunskog zdravstvenog osiguranja na teret državnog proračuna Republike Hrvatske«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Osobe iz stavka 1. ovoga članka imaju pravo na zdravstvenu zaštitu i pokriće troškova zdravstvene zaštite iz obveznog i dopunskog zdravstvenog osiguranja na teret državnog proračuna Republike Hrvatske nakon otpusta iz Oružanih snaga kada prijave ozljedu ili bolest nadležnom liječničkom povjerenstvu i kada liječničko povjerenstvo utvrdi da je ozljeda ili bolest nastala tijekom službe u Oružanim snagama kao neposredna posljedica službe u Oružanim snagama.«.
+
+#### Članak 50.
+
+Članak 122. mijenja se i glasi:
+
+»(1) Zdravstvena sposobnost utvrđuje se na:
+
+– prijedlog izabranog doktora medicine primarne zdravstvene zaštite
+
+– zahtjev nadređenog zapovjednika razine samostalne bojne, odnosno zapovjednika i čelnika njemu ravne ili više razine
+
+– zahtjev djelatne vojne osobe.
+
+(2) Nadređena osoba na dužnosti zapovjednika razine samostalne bojne, odnosno zapovjednika i čelnika njemu ravne ili više razine obvezna je tražiti da se djelatnu vojnu osobu uputi na ocjenu zdravstvene sposobnosti ako je privremeno nesposobna za rad prema propisima obveznog zdravstvenog osiguranja neprekidno tri mjeseca odnosno s prekidima šest mjeseci u posljednje dvije godine.
+
+(3) Djelatna vojna osoba dužna je pristupiti zdravstvenom pregledu radi utvrđivanja svoje zdravstvene sposobnosti.«.
+
+#### Članak 51.
+
+Članak 123. mijenja se i glasi:
+
+»(1) Zdravstvenu sposobnost za vojnu službu utvrđuju specijalisti medicine rada i zdravstvene komisije Ministarstva obrane te donose akte iz svoje nadležnosti s ocjenom zdravstvene sposobnosti.
+
+(2) Prvostupanjska zdravstvena komisija odlučuje o pritužbi na ocjenu zdravstvene sposobnosti i donosi odluku o zdravstvenoj sposobnosti te odlučuje o drugim zahtjevima za medicinsko vještačenje sposobnosti za vojnu službu.
+
+(3) Viša zdravstvena komisija odlučuje o pritužbi na odluku iz stavka 2. ovoga članka.
+
+(4) Djelatnoj vojnoj osobi prestaje služba donošenjem rješenja o prestanku službe u roku od 30 dana od dana dostave odluke iz stavka 2. ovoga članka ako protiv odluke nije podnesena pritužba, odnosno donošenjem rješenja o prestanku službe u roku od 30 dana od dana donošenja odluke iz stavka 3. ovoga članka.
+
+(5) Odluke zdravstvene komisije i više zdravstvene komisije nisu upravne stvari.
+
+(6) Ministar obrane uz prethodnu suglasnost ministra nadležnog za poslove zdravstva pravilnikom propisuje način, kriterije i ovlasti za utvrđivanje zdravstvene sposobnosti za vojnu službu, osnivanje, područje rada i sastav zdravstvenih komisija.«.
+
+#### Članak 52.
+
+U članku 124. stavku 2. riječi: »može se osigurati« zamjenjuju se riječima: »Ministarstvo obrane će osigurati«.
+
+#### Članak 53.
+
+U članku 125. dodaje se novi stavak 1. koji glasi:
+
+»(1) Skupne i pojedinačne procjene psihičkog stanja i spremnosti pripadnika Oružanih snaga provode djelatnici psihološke struke te predlažu mjere za održavanje i poboljšanje tog stanja.«.
+
+Dosadašnji stavak 1. postaje stavak 2.
+
+Iza dosadašnjeg stavka 2., koji postaje stavak 3., dodaje se stavak 4. koji glasi:
+
+»(4) Kriterije i postupak za utvrđivanje psihičkih uvjeta za službu, kao i način postupanja u pružanju psihološke pomoći propisuje ministar obrane pravilnikom iz članka 34. ovoga Zakona.«.
+
+#### Članak 54.
+
+U članku 126. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Kadeti, ročnici i pričuvnici za vrijeme službe u Oružanim snagama kolektivno se osiguravaju od posljedica nesretnog slučaja na teret državnog proračuna Republike Hrvatske.«.
+
+U dosadašnjem stavku 2., koji postaje stavak 3., riječi: »iz stavka 1. ovoga članka« zamjenjuju se riječima: »iz stavaka 1. i 2. ovoga članka«.
+
+#### Članak 55.
+
+Članak 127. mijenja se i glasi:
+
+»(1) Djelatna vojna osoba koja pogine ili umre bit će pokopana uz vojne počasti u mjestu koje odredi njezina obitelj na trošak Ministarstva obrane.
+
+(2) Pod troškovima iz stavka 1. ovoga članka razumijevaju se:
+
+– troškovi lijesa i prijevoza posmrtnih ostataka do mjesta pogreba
+
+– putni troškovi za dva pratitelja
+
+– troškovi grobnog mjesta ako ga obitelj nema
+
+– troškovi kremiranja
+
+– ostali troškovi.
+
+(3) Odredbe stavaka 1. i 2. ovoga članka primjenjuju se i na ostale vojne osobe koje poginu ili umru u obavljanju službe.
+
+(4) Uz vojne počasti iz stavaka 1. i 3. ovoga članka neće biti pokopana osoba čija smrt nastupi u osobito nečasnim okolnostima, što utvrđuje Ministarstvo obrane.
+
+(5) Ministar obrane pravilnikom propisuje postupak ostvarivanja prava i iznos troškova iz stavka 2. ovoga članka.
+
+(6) Vojne počasti iz stavka 1. ovoga članka propisuju se pravilnikom o obredima u Oružanim snagama iz članka 9. stavka 1. podstavka 2. ovoga Zakona.«.
+
+#### Članak 56.
+
+U članku 129. stavku 1. riječi: »Djeca djelatne vojne osobe« zamjenjuju se riječima: »Djeca vojne osobe«, a riječi: »najdulje do kraja redovnog školovanja« zamjenjuju se riječima: »do kraja redovnog školovanja, a najdulje do navršene 26. godine života«.
+
+#### Članak 57.
+
+Naslov iznad članka 132. mijenja se i glasi: »3. STANOVANJE«.
+
+U članku 132. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, djelatnim vojnicima/mornarima može se na osobni zahtjev odobriti smještaj izvan vojnih lokacija bez prava na naknadu za stanovanje i naknadu troškova prijevoza.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., riječi: »Djelatnoj vojnoj osobi koja u mjestu službe nema« zamjenjuju se riječima: »Časnicima i dočasnicima koji u mjestu službe nemaju«.
+
+#### Članak 58.
+
+Članak 133. mijenja se i glasi:
+
+»(1) Djelatnim vojnim osobama raspoređenima po potrebi službe u mjesto službe koje je najmanje 50 km udaljeno od mjesta njihovog prebivališta, ako nemaju riješeno stambeno pitanje i nisu smještene u vojnim lokacijama, isplatit će se naknada za stanovanje.
+
+(2) Pravo iz stavka 1. ovoga članka priznaje se i djelatnim vojnim osoba kojima je mjesto službe na otoku, a mjesto prebivališta na kopnu ili drugom otoku, ili obratno, bez obzira na udaljenost.
+
+(3) Smatra se da djelatna vojna osoba ima riješeno stambeno pitanje ako ona ili član njezine obitelji (supružnik, maloljetno dijete ili dijete na redovnom školovanju, a s kojim živi u obiteljskom domaćinstvu) u mjestu službe ili u mjestu udaljenom do 50 km od mjesta službe ima u vlasništvu stan ili obiteljsku kuću.
+
+(4) Dočasnici i časnici smješteni u vojnim lokacijama ostvaruju pravo na 50% najniže naknade za stanovanje.
+
+(5) Pod smještajem u vojnim lokacijama iz stavka 4. ovoga članka smatra se smještaj dočasnika i časnika koji neprekidno traje najmanje 30 dana.
+
+(6) Pod vojnim lokacijama u smislu odredbi ovoga članka ne smatraju se službeni stanovi te osobe smještene u službenim stanovima ne ostvaruju pravo na naknadu za stanovanje.
+
+(7) Djelatni vojnici/mornari kojima nije osiguran smještaj u vojnim lokacijama imaju pravo na naknadu za stanovanje, osim djelatnih vojnika/mornara iz članka 132. stavka 2. ovoga Zakona.
+
+(8) Ako su bračni ili izvanbračni supružnici imenovani ili raspoređeni u skladu sa stavkom 1. ili 2. ovoga članka i žive u zajedničkom kućanstvu, svaki od njih ostvaruje pravo na 50% pripadajuće naknade za stanovanje, osim ako se ne dogovore da jedan od njih ostvaruje puni iznos naknade.
+
+(9) Organizirani ili ugovoreni međumjesni prijevoz od mjesta prebivališta do mjesta službe isključuje pravo na naknadu za stanovanje, ako je to povoljnije za poslodavca.
+
+(10) Pravo na naknadu za stanovanje isključuje pravo na naknadu troškova međumjesnog prijevoza.
+
+(11) Iznimno od stavaka 9. i 10. ovoga članka, djelatne vojne osobe koje su raspoređene ili imenovane u mjesto službe u kojem nema mogućnosti najma stana ili kuće, ostvaruju pravo na naknadu za stanovanje prema mjestu službe i pravo na korištenje organiziranog ili ugovorenog prijevoza od mjesta službe do najbližeg mjesta gdje postoji mogućnost najma stana ili kuće, ili naknadu troškova prijevoza najjeftinijeg prijevoznika na toj relaciji ako organizirani ili ugovoreni prijevoz ne postoji.
+
+(12) Pravo na naknadu za stanovanje ostvaruje se umjesto nak­nade troškova zbog odvojenog života od obitelji.
+
+(13) Način utvrđivanja prava na naknadu za stanovanje propisuje se pravilnikom iz članka 132. stavka 4. ovoga Zakona.
+
+(14) Naknada za stanovanje iz stavka 1. ovoga članka se ne smatra oporezivim primitkom po osnovi nesamostalnog rada u skladu s propisima o porezu na dohodak.
+
+(15) Visinu naknade iz stavaka 1. i 2. ovoga članka i popis mjesta službe iz stavka 11. ovoga članka odlukom određuje ministar obrane.«.
+
+#### Članak 59.
+
+Članak 134. briše se.
+
+#### Članak 60.
+
+U članku 137. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 1. ovoga članka, osnovnu plaću dočasnika i časnika raspoređenog na ustrojbeno mjesto izravno nižega čina od osobnoga čina čini aritmetička sredina osnovne plaće utvrđene za osobni čin i osnovne plaće čina ustrojbenog mjesta na koje je djelatna vojna osoba raspoređena.«.
+
+Dosadašnji stavci 3. – 5. postaju stavci 4. – 6.
+
+U dosadašnjem stavku 6., koji postaje stavak 7., riječi: »iz stavka 3. ovoga članka« zamjenjuju se riječima: »iz stavka 4. ovoga članka«.
+
+#### Članak 61.
+
+Članak 138. mijenja se i glasi:
+
+»(1) Osnovica za obračun plaće djelatne vojne osobe uvećat će se za 8% djelatnim vojnim osobama koje imaju znanstveni stupanj magistra znanosti odnosno za 15% djelatnim vojnim osobama koje imaju znanstveni odnosno akademski stupanj doktora znanosti.
+
+(2) Osnovica za obračun plaće djelatne vojne osobe uvećat će se za 8% djelatnim vojnim osobama koje su završile poslijediplomski sveučilišni studij i stekle akademski naziv sveučilišnoga specijalista.
+
+(3) Djelatnim vojnim osobama imenovanima na vojnodiplomatske dužnosti ili upućenima na rad u međunarodna tijela, koji ostvaruju pravo na deviznu plaću, mjesečna osnovica za obračun doprinosa uvećat će se za 8% za znanstveni stupanj magistra znanosti odnosno za 15% za znanstveni odnosno akademski stupanj doktora znanosti.
+
+(4) Pravo na uvećanje osnovice za obračun plaće za 8% ostvaruju i djelatne vojne osobe koje su završile četvrtu razinu slijedno-rastuće vojne izobrazbe i stekle inozemnu visokoškolsku kvalifikaciju koju je u svrhu stručnog priznavanja priznala nadležna agencija za znanost i visoko obrazovanje u Republici Hrvatskoj.«.
+
+#### Članak 62.
+
+U članku 139. stavak 3. mijenja se i glasi:
+
+»(3 Dodatak za vojnu službu ostvaruju sve djelatne vojne osobe.«.
+
+#### Članak 63.
+
+U članku 140. stavak 1. mijenja se i glasi:
+
+»(1) Djelatnoj vojnoj osobi koja je zbog privremene nesposobnosti za rad do 42 dana spriječena obnašati službu pripada naknada plaće u visini od 85% od njezine plaće.«.
+
+#### Članak 64.
+
+Članak 142. mijenja se i glasi:
+
+»Djelatnoj vojnoj osobi za vrijeme godišnjeg odmora i plaćenog dopusta pripada naknada plaće kao da je radila u redovnom radnom vremenu, a najmanje u visini njezine prosječne mjesečne plaće u prethodna tri mjeseca.«.
+
+#### Članak 65.
+
+U članku 144. stavak 1. mijenja se i glasi:
+
+»(1) Djelatna vojna osoba koja je odlukom ministra obrane upućena u drugo javnopravno tijelo ili pravnu osobu zadržava pravo na osnovnu plaću osobnog čina, ako je to za nju povoljnije, i druga materijalna prava u skladu s odredbama ovoga Zakona.
+
+U stavku 3. riječi: »međunarodne organizacije i u Europsku uniju« zamjenjuju se riječima: »međunarodna tijela«.
+
+#### Članak 66.
+
+U članku 149. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Pod službenim putovanjem iz stavka 1. ovoga članka smatra se putovanje do 30 dana neprekidno iz uobičajenog mjesta službe odnosno mjesta rada ili iz mjesta prebivališta odnosno boravišta djelatne vojne osobe u drugo mjesto udaljeno najmanje 30 kilometara, radi obavljanja u nalogu za službeno putovanje određenih poslova vezanih uz njezinu dužnost odnosno poslova u vezi sa službom u Oružanim snagama.«.
+
+#### Članak 67.
+
+Iza članka 149. dodaju se članak 149.a i naslov iznad njega koji glase:
+
+*»Naknada za posebne oblike rada u službi*
+
+#### Članak 149.a
+
+(1) Djelatnoj vojnoj osobi pripada pravo na naknadu za posebne oblike rada u službi.
+
+(2) Posebni oblici rada u službi iz stavka 1. ovoga članka su rad u terenskim uvjetima, stražarska služba i dežurstvo.
+
+(3) Pod radom u terenskim uvjetima iz stavka 2. ovoga članka podrazumijevaju se vježbe, obuka i izobrazba na vojnim poligonima, uređenje i priprema vojnih i civilnih lokacija i terena, uklanjanje posljedica elementarnih nepogoda, dekontaminacija i asanacija terena te druge slične aktivnosti koje se provode na zemljištu, akvatoriju i podzemlju izvan vojnih lokacija uobičajenog smještaja i rada u trajanju duljem od deset sati.
+
+(4) Pod stražarskom službom iz stavka 2. ovoga članka podrazumijeva se unutarnja služba namijenjena za fizičko osiguranje objekata, materijalnih sredstava i ljudi u skladu s propisom kojim se uređuje stražarska služba u Oružanim snagama.
+
+(5) Pod dežurstvom iz stavka 2. ovoga članka podrazumijeva se dežurstvo u funkciji unutarnje službe koje se provodi u Oružanim snagama u skladu s propisom kojim se uređuje unutarnja služba u Oružanim snagama.
+
+(6) Naknada za posebne oblike rada iz stavka 2. ovoga članka isključuje pravo na uvećanje plaće za prekovremeni rad, rad noću, u smjenama, turnusima, subotom, nedjeljom, blagdanom, neradnim danom, stanju pripravnosti i slično.
+
+(7) Naknada za posebne oblike rada iz stavka 2. ovoga članka ne smatra se oporezivim primitkom po osnovi nesamostalnog rada u skladu s propisima o porezu na dohodak.
+
+(8) Visinu, uvjete i način ostvarivanja prava na naknadu iz stavka 2. ovoga članka propisuje odlukom ministar obrane uz prethodnu suglasnost ministra financija.«.
+
+#### Članak 68.
+
+Članak 150. mijenja se i glasi:
+
+»(1) Vojne osobe, službenici i namještenici imaju pravo na besplatnu ili subvencioniranu prehranu čiji broj obroka ovisi o vremenu i uvjetima obavljanja službe.
+
+(2) Vojne osobe smještene u vojnim lokacijama imaju pravo na besplatnu prehranu.
+
+(3) Prehrana iz stavka 1. ovoga članka ne smatra se oporezivim primitkom po osnovi nesamostalnog rada u skladu s propisima o porezu na dohodak.
+
+(4) Način organiziranja prehrane, vrste obroka, pravo na besplatnu ili subvencioniranu prehranu, iznos subvencije i druga pitanja u vezi s prehranom pravilnikom propisuje ministar obrane na prijedlog načelnika Glavnog stožera.«.
+
+#### Članak 69.
+
+Članak 155. mijenja se i glasi:
+
+»Djelatnim vojnim osobama ne pripada pravo na uvećanje plaće za prekovremeni rad, rad noću, u smjenama, turnusima, subotom, nedjeljom, blagdanom, neradnim danom, stanju pripravnosti i slično, nego ostvaruju dodatke za vojnu službu u skladu s člankom 139. ovoga Zakona.«.
+
+#### Članak 70.
+
+U članku 158. stavku 3. riječi: »ustrojstvena jedinica Ministarstva obrane nadležna za upravljanje osobljem« zamjenjuju se riječima: »ustrojstvena jedinica Ministarstva obrane i Oružanih snaga nadležna za personalne poslove«.
+
+#### Članak 71.
+
+U članku 162. stavku 2. riječi: »terenski dodatak« zamjenjuju se riječima: »dnevnicu za rad na terenu u inozemstvu«.
+
+#### Članak 72.
+
+Članak 163. briše se.
+
+#### Članak 73.
+
+Članak 169. mijenja se i glasi:
+
+»(1) Za svakih navršenih pet mjeseci sudjelovanja u operaciji potpore miru, operaciji odgovora na krize, humanitarnoj operaciji i drugoj aktivnosti u inozemstvu osobe iz članka 161. ovoga Zakona ostvaruju pravo na obvezni plaćeni dopust u trajanju od deset radnih dana nakon povratka u Republiku Hrvatsku.
+
+(2) Osobe iz članka 161. ovoga Zakona koje su angažirane manje od pet mjeseci u operaciji potpore miru, operaciji odgovora na krize, humanitarnoj operaciji i drugoj aktivnosti u inozemstvu ostvaruju pravo na obvezni plaćeni dopust u trajanju od dva radna dana za svaki navršeni mjesec proveden u operaciji potpore miru nakon povratka u Republiku Hrvatsku.
+
+(3) Kada operacija potpore miru ili druga aktivnost u inozemstvu traje deset i više mjeseci, Ministarstvo obrane obvezno je sudioniku nakon šest mjeseci omogućiti i financirati jednokratni posjet Republici Hrvatskoj radi korištenja godišnjeg odmora ili plaćenog dopusta u najduljem trajanju od deset radnih dana ili sukladno propisima operacije potpore miru u koju je osoba iz članka 161. ovoga Zakona upućena.
+
+(4) Osobe iz stavka 1. ovoga članka upućene u operacije potpore miru ili druge aktivnosti u inozemstvu imaju pravo na plaćeni dopust u trajanju od ukupno deset radnih dana i pravo na naknadu troškova prijevoza u slučaju smrti člana uže obitelji.
+
+(5) Osobe iz članka 161. ovoga Zakona mogu, temeljem pravila i propisa svake pojedinačne operacije potpore miru, neovisno o vremenu provedenom u operaciji potpore miru, koristiti slobodne dane stečene u području operacije po svom izboru i o svom trošku, po prethodnom odobrenju ovlaštenog časnika.
+
+(6) Obveze ustrojstvenih jedinica Ministarstva obrane i Oružanih snaga u pripremi za sudjelovanje u operacijama potpore miru, operacijama odgovora na krize, humanitarnim operacijama i drugim aktivnostima u inozemstvu te ostala prava, obveze i odgovornosti osoba iz stavka 1. ovoga članka za vrijeme sudjelovanja u operacijama odnosno drugim aktivnostima i nakon povratka u Republiku Hrvatsku propisuje ministar obrane pravilnikom iz članka 161. stavka 2. ovoga Zakona.«.
+
+#### Članak 74.
+
+U članku 175. stavku 3. točki 7. riječi: »ili droga« brišu se.
+
+Točke 8. i 9. mijenjaju se i glase:
+
+»8. dovođenje u stanje pod utjecajem alkohola u službi i odbijanje testiranja na alkohol te dovođenje u stanje pod utjecajem alkohola na javnom mjestu u vojnoj odori
+
+9. dovođenje u stanje pod utjecajem droga ili odbijanje testiranja na droge«.
+
+U točki 26. iza riječi: »sukob« dodaju se riječi: »unutar vojnih lokacija i građevina«.
+
+U točki 28. iza riječi: »Ministarstva obrane« dodaju se riječi: »ili imovine Republike Hrvatske«.
+
+Točka 38. mijenja se i glasi:
+
+»38. unošenje i omogućavanje unošenja droga u službene prostorije«.
+
+Iza točke 41. dodaju se nova točka 42. i točka 43. koje glase:
+
+»42. nepostupanje po naredbi ovlaštene službene osobe vojne policije prilikom obavljanja vojnopolicijskih poslova
+
+43. dovođenje u zabludu službene osobe podnošenjem lažnih ili neistinitih podataka u svrhu nepripadnog ostvarivanja prava iz ovoga Zakona«.
+
+Dosadašnja točka 42. postaje točka 44.
+
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Smatra se da vojna osoba u organizmu ima droga ako se prisutnost droga utvrdi odgovarajućim sredstvima ili uređajima ili liječničkim pregledom ili analizom krvi i urina te se smatra da je vojna osoba koja je odbila testiranje konzumirala opojne droge.
+
+(5) Smatra se da je vojna osoba pod utjecajem alkohola ako u organizmu ima alkohola iznad količine utvrđene posebnim propisima. Prisutnost alkohola u organizmu utvrđuje se analizom krvi ili urina ili mjerenjem količine alkohola u litri izdahnutog zraka ili liječničkim pregledom ili drugim metodama ili aparatima te se smatra da je vojna osoba koja je odbila testiranje pod utjecajem alkohola.«.
+
+#### Članak 75.
+
+Iza članka 178. dodaju se članak 178.a i naslov iznad njega koji glase:
+
+*»Stavljanje pod nadzor pripadnika Oružanih snaga*
+
+#### Članak 178.a
+
+(1) Nadležni zapovjednik ili osoba određena za dužnosti unutarnje službe može staviti pod nadzor pripadnika Oružanih snaga koji teže narušava ili remeti red u Oružanim snagama i o tome je dužan izvijestiti njegova nadređenoga te vojnu policiju.
+
+(2) Pripadnik Oružanih snaga iz stavka 1. ovoga članka može se staviti pod nadzor do dolaska vojne policije, ali ne dulje od šest sati.«.
+
+#### Članak 76.
+
+U članku 181. stavku 1. točka 1. mijenja se i glasi:
+
+»1. zaustavljanje u napredovanju u službi u trajanju od jedne do pet godina«.
+
+Iza točke 1. dodaju se nove točke 2. i 3. koje glase:
+
+»2. zaustavljanje u promaknuću u činu u trajanju od jedne do pet godina
+
+3. jednokratna novčana kazna u iznosu od 500,00 do 1500,00 kuna«.
+
+U dosadašnjoj točki 2., koja postaje točka 4., broj: »21« zamjenjuje se brojem: »11«.
+
+Dosadašnje točke 3. – 7. postaju točke 5. – 9.
+
+Dosadašnja točka 8., koja postaje točka 10., mijenja se i glasi:
+
+»10. raskid ugovora o školovanju, ugovora o kadetskoj službi, ugovora o izobrazbi, odnosno stručnom osposobljavanju«.
+
+Dosadašnje točke 9. – 10. postaju točke 11. – 12.
+
+Stavci 4. i 5. brišu se.
+
+Dosadašnji stavak 6. postaje stavak 4.
+
+#### Članak 77.
+
+U članku 182. stavku 1. riječi: »dvije godine« zamjenjuju se riječima: »jedne godine«.
+
+U stavku 2. riječi: »pet godina« zamjenjuju se riječima: »tri godine«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, brisanje stegovne kazne čije izvršenje traje dulje od tri godina provest će se nakon isteka kazne.«.
+
+Dosadašnji stavci 3. – 7. postaju stavci 4. – 8.
+
+#### Članak 78.
+
+U članku 204. stavku 1. podstavku 5. riječi: »nakon isteka« zamjenjuju se riječima: »tijekom ili nakon isteka«.
+
+#### Članak 79.
+
+Članak 205. mijenja se i glasi:
+
+»(1) Djelatnoj vojnoj osobi služba prestaje po sili zakona:
+
+1. smrću, proglašenjem nestale osobe umrlom, odnosno utvrđenjem činjenice smrti
+
+2. kada neopravdano izostane s posla pet radnih dana uzastopce, s danom napuštanja službe
+
+3. kada ostvari uvjete za starosnu mirovinu u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, najkasnije s posljednjim danom kalendarske godine u kojem je ostvarila te uvjete
+
+4. na temelju rješenja o prestanku službe zbog utvrđene nesposobnosti za djelatnu vojnu službu, danom utvrđenim rješenjem
+
+5. na temelju odluke Predsjednika Republike o prestanku službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, danom utvrđenim odlukom
+
+6. na temelju rješenja ministra obrane o prestanku službe s pravom na invalidsku mirovinu zbog profesionalne nesposobnosti za rad uzrokovane ozljedom na radu ili profesionalnom bolešću, ako joj je u odgovarajućem postupku utvrđena nemogućnost daljnjeg profesionalnog razvoja, u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, danom utvrđenim rješenjem
+
+7. na temelju rješenja ministra obrane o prestanku službe zbog potreba službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, s posljednjim danom kalendarske godine u kojoj:
+
+– general/admiral, časnik odnosno dočasnik ima navršenih 60 godina života
+
+– brigadir/kapetan bojnog broda ima navršenih 58 godina života i 40 godina mirovinskog staža
+
+– pukovnik/kapetan fregate ima navršenih 57 godina života i 40 godina mirovinskog staža
+
+– bojnik/kapetan korvete ima navršenih 56 godina života i 40 godina mirovinskog staža
+
+– satnik/poručnik bojnog broda, natporučnik/poručnik fregate i poručnik/poručnik korvete ima navršene 54 godine života i 40 godina mirovinskog staža
+
+– časnički namjesnik ima navršenih 56 godina života i 40 godina mirovinskog staža
+
+– stožerni narednik ima navršenih 55 godina života i 40 godina mirovinskog staža
+
+– nadnarednik ima navršene 54 godine života i 40 godina mirovinskog staža
+
+– narednik, desetnik i skupnik ima navršene 53 godine života i 40 godina mirovinskog staža
+
+8. kada vojnik/mornar primljen u službu na temelju ugovora o vojničkoj službi na neodređeno vrijeme navrši 45 godina života, najkasnije s posljednjim danom kalendarske godine u kojoj navršava te godine života, ako ne ispunjava uvjete za prestanak službe zbog razloga navedenih u točki 6. ovoga stavka
+
+9. na temelju rješenja o potpunom ili djelomičnom gubitku radne sposobnosti, danom utvrđenim rješenjem
+
+10. ako je ocijenjena službenom ocjenom »ne zadovoljava«, danom izvršnosti rješenja
+
+11. ako joj je izrečena stegovna kazna prestanka službe, danom izvršnosti rješenja vojnostegovnog suda o izricanju kazne
+
+12. kada je osuđena na kaznu zatvora u trajanju duljem od šest mjeseci, danom saznanja za pravomoćnu presudu
+
+13. kada se sazna da u vrijeme prijma u službu nije ispunjavala uvjete za prijam, danom saznanja
+
+14. kada se sazna da je u vrijeme prijma u službu postojala zapreka za prijam propisana člankom 35. stavkom 1. podstavkom 2. ovoga Zakona, danom saznanja
+
+15. kada je tijekom službe osuđena na kaznu zatvora za kazneno djelo koje je zapreka za prijam, danom saznanja
+
+16. istekom roka raspolaganja iz članka 64. stavka 1. podstavaka 1. i 2. ovoga Zakona, prvog dana nakon isteka roka
+
+17. kada se tijekom službe utvrdi da osoba ne zadovoljava sigurnosne kriterije, danom utvrđenja
+
+18. kada navrši 65 godina života i najmanje 15 godina mirovinskoga staža.
+
+(2) Iznimno, djelatnoj vojnoj osobi iz stavka 1. točki 3. i 7. ovoga članka, sa zvanjem doktora medicine, koja posjeduje odobrenje za samostalni rad i raspoređena je na ustrojbenom mjestu zdravstvene službe djelatna vojna služba prestaje s posljednjim danom kalendarske godine u kojoj navršava 65 godina života.
+
+(3) Iznimno, vojnom specijalistu iz stavka 1. točki 3. i 7. ovoga članka djelatna vojna služba prestaje s posljednjim danom kalendarske godine u kojoj navršava 62 godine života.
+
+(4) Iznimno od stavka 1. točke 7. i stavaka 2. i 3. ovoga članka, djelatnoj vojnoj osobi služba može prestati na temelju rješenja ministra obrane o prestanku službe zbog potreba službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba i prije ispunjenja uvjeta iz stavka 1. točke 7. i stavaka 2. i 3. ovoga članka, danom utvrđenim rješenjem.
+
+(5) Iznimno od stavka 1. točke 7. ovoga članka, djelatnu vojnu osobu iz posebno opravdanih razloga može se zadržati u službi do dvije godine iako su ispunjeni uvjeti iz stavka 1. točke 7. ovoga članka.
+
+(6) Djelatnoj vojnoj osobi iz stavka 1. točki 4., 6. i 7. i stavka 4. ovoga članka ne može prestati služba ako je protiv nje pokrenut ili se vodi stegovni postupak do okončanja stegovnog postupka koji se u tom slučaju mora provesti po hitnom postupku i okončati najkasnije u roku od 45 dana od dana pokretanja stegovnog postupka.«.
+
+#### Članak 80.
+
+Naslov iznad članka 208. mijenja se i glasi: »1.5. Prestanak službe tijekom ili istekom probnog rada vojnika/mornara«.
+
+Članak 208. mijenja se i glasi:
+
+»(1) Djelatnom vojniku/mornaru koji nije zadovoljio na probnom radu djelatna vojna služba prestaje tijekom ili istekom probnog rada.
+
+(2) Odluka o prestanku službe iz stavka 1. ovoga članka nije upravna stvar.«.
+
+#### Članak 81.
+
+U članku 213. stavku 2. iza riječi: »pravo« dodaju se riječi: »uz iskaznicu iz članka 24. ovoga Zakona«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Osobe iz stavka 2. ovoga članka mogu uz predočenje iskaznice iz članka 24. ovoga Zakona o svom trošku kupovati dijelove odore s propisanim oznakama pripadnosti Oružanim snagama.«.
+
+Dosadašnji stavci 3. – 6. postaju stavci 4. – 7.
+
+Iza dosadašnjeg stavka 6., koji je postao stavak 7., dodaje se stavak 8. koji glasi:
+
+»(8) Osobe iz stavka 1. ovoga članka sudjeluju u obredima u Oružanim snagama uz potporu Ministarstva obrane u skladu s pravilnikom iz članka 9. stavka 1. podstavka 2. ovoga Zakona.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 82.
+
+(1) Djelatne vojne osobe sa zvanjem doktora medicine zatečene u činu poručnika/poručnika korvete na dan stupanja na snagu ovoga Zakona prevode se po sili zakona u čin natporučnika/poručnika fregate.
+
+(2) Za djelatne vojne osobe iz stavka 1. ovoga članka i za djelatne vojne osobe doktore medicine zatečene u činu natporučnika/poručnika fregate na dan stupanja na snagu ovoga Zakona vrijeme provedeno u činu poručnika/poručnika korvete do dana stupanja na snagu ovoga Zakona računa se u vrijeme provedeno u činu potrebno za promicanje u viši čin.
+
+#### Članak 83.
+
+(1) Časnici službi i struka koji su stariji od godina života propisanih odredbama ovoga Zakona potrebnim za upućivanje na treću razinu slijedno-rastuće vojne izobrazbe mogu biti upućeni na tu izobrazbu neovisno o godinama života najkasnije do 31. prosinca 2019.
+
+(2) Časnici koji su do dana stupanja na snagu ovoga Zakona završili treću razinu slijedno rastuće časničke izobrazbe u funkcionalnom području mogu biti promaknuti u čin brigadira/kapetana bojnog broda i bez završene vojne izobrazbe iz članka 32. ovoga Zakona.
+
+#### Članak 84.
+
+(1) Vojni specijalisti zatečeni u službi na dan stupanja na snagu ovoga Zakona, koji su prije prevođenja bili dočasnici ili časnici, prevode se u dočasnike i časnike osobnog čina iste razine, u slučaju promjene kategorije ustrojbenog mjesta iz vojnog specijalista u djelatnog dočasnika ili časnika, po sili zakona na dan 1. siječnja 2019.
+
+(2) Vojnim specijalistima iz stavka 1. ovoga članka vrijeme provedeno u činu vojnog specijalista računa se u vrijeme za promaknuće u viši čin dočasnika ili časnika.
+
+#### Članak 85.
+
+(1) Djelatna vojna osoba kojoj je utvrđeno pravo na naknadu za stanovanje u skladu s odredbama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15. i 50/16.) nastavlja koristiti pravo na naknadu za stanovanje do stupanja na snagu odluke iz članka 58. ovoga Zakona.
+
+(2) Pravo na naknadu za stanovanje ostvaruju i djelatne vojne osobe raspoređene do dana stupanja na snagu ovoga Zakona po potrebi službe u mjesto službe koje je najmanje 50 km udaljeno od mjesta njihovog prebivališta ili kojima je mjesto službe na otoku, a mjesto prebivališta na kopnu ili drugom otoku, ili obratno, bez obzira na udaljenost.
+
+(3) Odluka iz stavka 1. ovoga članka donijet će se u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 86.
+
+(1) Djelatnim vojnicima/mornarima sa sklopljenim ugovorom o vojničkoj službi zatečenima u službi na dan stupanja na snagu ovoga Zakona, Ministarstvo obrane ponudit će u roku od dvije godine od dana stupanja na snagu ovoga Zakona, a najkasnije 90 dana prije isteka ugovora, sklapanje ugovora o vojničkoj službi na neodređeno vrijeme.
+
+(2) Djelatnim vojnicima/mornarima zatečenima u službi na dan stupanja na snagu ovoga Zakona s kojima u roku iz stavka 1. ovoga članka neće biti sklopljen ugovor o vojničkoj službi na neodređeno vrijeme služba prestaje istekom roka važenja ugovora o vojničkoj službi.
+
+#### Članak 87.
+
+(1) Djelatnim vojnicima/mornarima zatečenim u službi na neodređeno vrijeme na dan stupanja na snagu ovoga Zakona prestaje služba na temelju rješenja ministra obrane o prestanku službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, najkasnije s posljednjim danom kalendarske godine u kojoj navršavaju 50 godina života.
+
+(2) Djelatni vojnici/mornari iz stavka 1. ovoga članka materijalna prava ostvaruju na temelju ovoga Zakona i provedbenih propisa donesenih na temelju ovoga Zakona.
+
+#### Članak 88.
+
+(1) Danom stupanja na snagu ovoga Zakona časnici i dočasnici zatečeni na dužnosti ustrojbenog čina nižeg od osobnog čina zadržavaju pravo na plaću prema odluci o rasporedu do isteka roka rasporeda, a najdulje dvije godine.
+
+(2) Danom stupanja na snagu ovoga Zakona časnici i dočasnici zatečeni na dužnosti ustrojbenog čina višeg za dva čina od osobnog čina mogu na toj dužnosti ostati prema odluci o rasporedu do isteka roka rasporeda, a najdulje dvije godine, osim osoba iz članka 56. stavaka 2. i 4. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15. i 50/16.).
+
+#### Članak 89.
+
+(1) Osobe kojima je do 31. prosinca 2003. prestala djelatna vojna služba, a koje su na dan prestanka službe bile u činu djelatnog stožernog brigadira, danom stupanja na snagu ovoga Zakona prevode se po sili zakona u čin brigadnog generala.
+
+(2) Ovlašćuje se Ministarstvo obrane da na temelju službenih evidencija donese akt o prevođenju u čin za osobe iz stavka 1. ovoga članka.
+
+(3) Prevođenje čina iz stavka 1. ovoga članka nema nikakve financijske učinke na ranije stečena prava po osnovi osobnoga čina.
+
+#### Članak 90.
+
+(1) Prijam, promicanje i izdvajanje pripadnika Oružanih snaga do 31. prosinca 2018. provodit će se u skladu s planovima i provedbenim propisima donesenim u skladu s odredbama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15. i 50/16.).
+
+(2) Standardi profesionalnog razvoja djelatnih vojnih osoba do 31. prosinca 2018. određivat će se u skladu s provedbenim propisima donesenim u skladu s odredbama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15. i 50/16.).
+
+#### Članak 91.
+
+(1) Podzakonski propisi na temelju ovlasti iz članaka 4., 11., 12., 19., 22., 23., 43., 51., 53., 55., 58., 67. i 68. ovoga Zakona donijet će se u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Provedbeni propisi koji su doneseni na temelju ovlasti iz Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15. i 50/16.) uskladit će se s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 92.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 021-03/18-01/02  
+Zagreb: 23. ožujka 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske (NN 125/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/125/2488*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SLUŽBI U ORUŽANIM SNAGAMA REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o službi u oružanim snagama Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 13. prosinca 2019.
+
+Klasa: 011-01/19-01/230
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SLUŽBI U ORUŽANIM SNAGAMA REPUBLIKE HRVATSKE**
+
+#### Članak 1.
+
+U Zakonu o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16. i 30/18.) u članku 6. stavku 1. iza riječi: »iz djelokruga Oružanih snaga« dodaju se riječi: »koji obuhvaćaju i obavljanje poslova znanstvene djelatnosti i visokog obrazovanja«.
+
+#### Članak 2.
+
+Naslov iznad članka 8. mijenja se i glasi: »Dan Hrvatske vojske i dani grana Hrvatske vojske«.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Dan Hrvatske vojske je 28. svibnja.
+
+(2) Dani grana Hrvatske vojske su:
+
+– Dan Hrvatske kopnene vojske je 28. svibnja
+
+– Dan Hrvatske ratne mornarice je 18. rujna
+
+– Dan Hrvatskoga ratnog zrakoplovstva je 12. prosinca.
+
+(3) Dane rodova, službi, struka i posebnih dijelova Hrvatske vojske odlukom propisuje ministar obrane.«.
+
+#### Članak 3.
+
+U članku 28. stavku 3. riječi: » – na temelju ugovora o osposobljavanju za vojnog specijalista odnosno ugovora za službu u ugovornoj pričuvi« brišu se.
+
+#### Članak 4.
+
+Iza članka 34.a dodaje se članak 34.b i naslov iznad njega koji glase:
+
+*»Ponovni prijam*
+
+#### Članak 34.b
+
+Djelatna vojna osoba kojoj je djelatna vojna služba prestala na osobni zahtjev uz častan otpust bez prava na mirovinu, a ako je to u interesu Oružanih snaga, jedanput može biti ponovno primljena u djelatnu vojnu službu u skladu s uvjetima propisanim ovim Zakonom, ako nije starija od 40 godina života i ako posjeduje ili može dostići potrebnu razinu vojne izobrazbe za rod, službu ili struku u skladu s uvjetima propisanim ovim Zakonom.«.
+
+#### Članak 5.
+
+U članku 38. stavak 3. mijenja se i glasi:
+
+»(3) Ako je djelatni vojnik/mornar 90 dana prije isteka ugovora iz članka 37. stavka 1. ovoga Zakona privremeno nesposoban za rad zbog priznate ozljede na radu ili profesionalne bolesti, zbog bolesti ili komplikacija u vezi s trudnoćom ili porođajem, privremeno spriječen za rad zbog korištenja rodiljnog dopusta, zbog korištenja dopusta za slučaj smrti djeteta, u slučaju mrtvorođenog djeteta ili smrti djeteta za vrijeme korištenja rodiljnog dopusta, zbog korištenja dopusta za njegu djeteta s težim smetnjama u razvoju i korištenja roditeljskog dopusta te ne može pristupiti zdravstvenom pregledu i provjerama tjelesnih sposobnosti, trajanje ugovora iz članka 37. stavka 1. ovoga Zakona produljuje se za duljinu trajanja privremene nesposobnosti odnosno spriječenosti za rad, a najdulje šest mjeseci.«.
+
+#### Članak 6.
+
+Članak 40. mijenja se i glasi:
+
+»(1) Nakon navršene dvije godine službe djelatni vojnik/mornar može na temelju postignutih rezultata u službi, zadovoljavanja zdravstvenih, psihičkih, tjelesnih i sigurnosnih uvjeta biti odabran i uz osobnu suglasnost upućen na prvu razinu dočasničke izobrazbe.
+
+(2) Iznimno od stavka 1. ovoga članka, djelatni vojnik/mornar sa zvanjem medicinskog tehničara/medicinske sestre može biti upućen na prvu razinu dočasničke izobrazbe prije navršene dvije godine službe.
+
+(3) U skladu s godišnjim planom prijma osoblja iz članka 33. stavka 1. ovoga Zakona provodi se odabir kandidata za prijam u dočasnike između djelatnih vojnika/mornara koji su završili prvu razinu dočasničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršavaju 30 godina života.
+
+(4) Odabranim kandidatima iz stavaka 2. i 3. ovoga članka po završetku prve razine dočasničke izobrazbe raskida se ugovor o vojničkoj službi, primaju se u djelatnu vojnu službu, dodjeljuje im se prvi dočasnički čin i raspoređuju se na dočasničko ustrojbeno mjesto.
+
+(5) Kriterije i postupak odabira osoba koje će se uputiti na prvu razinu dočasničke izobrazbe pravilnikom propisuje ministar obrane.«.
+
+#### Članak 7.
+
+U članku 45. stavku 3. iza riječi: »natporučnika/poručnika fregate« dodaje se zarez i riječi: »a kandidatu za časnika – doktoru medicine specijalistu grane medicine dodjeljuje se čin bojnika/kapetana korvete«.
+
+#### Članak 8.
+
+U članku 46. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 1. ovoga članka, popunjavanje slobodnih ustrojbenih mjesta dočasnika vojnih specijalista zdravstvene službe može se provesti i prijmom kandidata s tržišta rada u skladu s člankom 27. ovoga Zakona.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., riječi: »Osobe iz stavaka 1. i 2. ovoga članka« zamjenjuju se riječima: »Osobe iz stavaka 1., 2. i 3. ovoga članka«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., riječi: »iz stavka 4.« zamjenjuju se riječima: »iz stavka 5.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+U dosadašnjem stavku 7., koji postaje stavak 8., riječi: »iz stavka 4.« zamjenjuju se riječima: »iz stavka 5.«.
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+#### Članak 9.
+
+U članku 48. ispred riječi: »Na« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Na službenike koji obavljaju poslove znanstvene djelatnosti i visokog obrazovanja primjenjuju se propisi o zaposlenicima u javnim službama u području znanosti i visokog obrazovanja ako je to za njih povoljnije.«.
+
+#### Članak 10.
+
+U članku 50. stavak 3. mijenja se i glasi:
+
+»(3) Djelatni dočasnik može obnašati neprekidno zapovjednu dužnost i dužnost prvog dočasnika na istom ustrojbenom mjestu najdulje četiri godine.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Djelatni časnik može obnašati neprekidno zapovjednu ili voditeljsku dužnost na istom ustrojbenom mjestu najdulje četiri godine.«.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., riječi: »iz stavka 3.« zamjenjuju se riječima: »iz stavaka 3. i 4.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 11.
+
+U članku 52. stavku 1. podstavku 1. iza riječi: »Ministarstvo obrane« dodaju se riječi: »ili na radno mjesto djelatne vojne osobe u drugom javnopravnom tijelu«.
+
+#### Članak 12.
+
+U članku 53. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Nakon isteka roka rasporeda iz stavka 3. ovoga članka može se iznimno produljiti raspored najdulje dvije godine.«.
+
+#### Članak 13.
+
+U članku 54. stavku 2. iza riječi: »može« dodaju se riječi: »uz zadržavanje prava osobnog čina«.
+
+#### Članak 14.
+
+U članku 55.a stavak 1. mijenja se i glasi:
+
+»(1) Časnik i dočasnik mogu istodobno biti dodatno raspoređeni na zapovjednu ili drugu dužnost u drugoj ustrojstvenoj jedinici Oružanih snaga u skladu s uvjetima ustrojbenog mjesta i osobnom vojnostručnom specijalnosti.«.
+
+#### Članak 15.
+
+Članak 56. mijenja se i glasi:
+
+»(1) Djelatna vojna osoba može biti u interesu Oružanih snaga raspoređena na ustrojbenom mjestu neposredno višeg čina od osobnog čina, a iznimno na ustrojbenom mjestu dva čina više od osobnog čina.
+
+(2) Raspored na ustrojbeno mjesto iz stavka 1. ovoga članka koje je dva čina više od osobnog čina mora se u svakom pojedinačnom slučaju posebno obrazložiti.
+
+(3) Iznimno od stavka 2. ovoga članka, obrazloženje se ne odnosi se na vojnika/mornara, vojnog specijalista, djelatnu vojnu osobu imenovanu na dužnost vojnog izaslanika ili na drugu vojnodiplomatsku dužnost te djelatnu vojnu osobu upućenu u međunarodna tijela.«.
+
+#### Članak 16.
+
+U članku 60. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, djelatna vojna osoba doktor medicine upućen na specijalizaciju iz grane medicine za vrijeme školovanja raspoređuje se na ustrojbeno mjesto u Vojno zdravstveno središte Ministarstva obrane i Oružanih snaga.«.
+
+#### Članak 17.
+
+U članku 62. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+Iza dosadašnjeg stavka 4., koji postaje stavak 3., dodaje se novi stavak 4. koji glasi:
+
+»(4) O prijavi na interni oglas za popunu dužnosti iz stavka 1. ovoga članka osoba koja se prijavljuje obvezna je u roku od tri dana od dana prijave o tome upoznati nadređenoga zapovjednika.«.
+
+#### Članak 18.
+
+U članku 63.a stavku 1. riječi: »tijekom ugovora o vojničkoj službi« zamjenjuju se riječima: »tijekom vojničke službe«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Iznimno od stavaka 1. i 2. ovoga članka, vojnici/mornari tijekom vojničke službe na neodređeno vrijeme mogu biti premješteni uz osobnu suglasnost u Ministarstvo obrane na temelju odluke ministra obrane i uz mišljenje načelnika Glavnog stožera.
+
+(4) Vojniku/mornaru iz stavka 3. ovoga članka premještajem prestaje djelatna vojna služba.«.
+
+#### Članak 19.
+
+U članku 64. stavku 1. iza podstavka 3. briše se točka te se dodaje podstavak 4. koji glasi:
+
+» – kada neopravdano ne pristupi pregledu za utvrđivanje zdravstvene sposobnosti – na rok od tri mjeseca.«.
+
+#### Članak 20.
+
+U članku 74. stavku 1. iza riječi: »i drugim aktivnostima« dodaju se riječi: »u zemlji i«.
+
+#### Članak 21.
+
+U članku 78.a iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Popis radnih mjesta i uvjeta za raspored na ustrojbena mjesta iz stavka 2. ovoga članka odlukom propisuje ministar obrane.«.
+
+#### Članak 22.
+
+U članku 82. stavku 2. riječi: »33 godine života« zamjenjuju se riječima: »35 godina života«.
+
+U stavku 3. riječi: »41 godinu života« zamjenjuju se riječima: »44 godine života«, a riječi: »37 godina života« zamjenjuju se riječima: »40 godina života«.
+
+U stavku 4. riječi: »47 godina života« zamjenjuju se riječima: »49 godina života«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Iznimno od godina života iz stavaka 1., 2., 3. i 4. ovoga članka, djelatnoj vojnoj osobi protiv koje se vodio kazneni postupak i koja je pravomoćno oslobođena optužbe, za vrijeme za koje nije mogla biti upućena na slijedno-rastuću dočasničku izobrazbu vrijeme trajanja kaznenog postupka priznat će se kao produljenje krajnjeg roka za upućivanje na slijedno-rastuću dočasničku izobrazbu.«.
+
+#### Članak 23.
+
+U članku 84. iza stavka 7. dodaje se stavak 8. koji glasi:
+
+»(8) Iznimno od godina života iz stavaka 2., 3. i 4. ovoga članka, djelatnoj vojnoj osobi protiv koje se vodio kazneni postupak i koja je pravomoćno oslobođena optužbe, za vrijeme za koje nije mogla biti upućena na slijedno-rastuću časničku izobrazbu vrijeme trajanja kaznenog postupka priznat će se kao produljenje krajnjeg roka za upućivanje na slijedno-rastuću časničku izobrazbu.«.
+
+#### Članak 24.
+
+U članku 86. stavku 1. iza riječi: »u zemlji i inozemstvu« dodaju se riječi: »te učenike srednjih škola«.
+
+#### Članak 25.
+
+U članku 89. stavku 2. riječi: »i protuzračnoj obrani« brišu se.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Iznimno od stavka 3. ovoga članka, čin za vojne specijaliste glazbene struke može biti do čina pukovnika/kapetana fregate.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 26.
+
+U članku 91. stavku 1. iza podstavka 7. briše se točka te se dodaje podstavak 8. koji glasi:
+
+» – ako u zadnje dvije godine niti jednom nije ocijenjena službenom ocjenom »zadovoljava.«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Djelatne vojne osobe koje nisu ocijenjene u skladu s odredbama ovoga Zakona ne ispunjavaju uvjete za promicanje.«.
+
+#### Članak 27.
+
+U članku 94. ispred riječi: »Čin« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Čin skupnika može se dodijeliti pričuvnim vojnicima/mornarima koji su završili prvu razinu slijedno-rastuće izobrazbe za dočasnike i koji nemaju zapreke iz članka 35. ovoga Zakona.
+
+(3) Čin skupnika može se dodijeliti i pričuvnim vojnicima/mornarima koji nisu završili prvu razinu slijedno-rastuće izobrazbe za dočasnike i koji nemaju zapreke iz članka 35. ovoga Zakona, a koji su u službi kao djelatni vojnici proveli najmanje pet godina i za to vrijeme bili ocijenjeni najmanje ocjenom »dobar«.«.
+
+#### Članak 28.
+
+U članku 95. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od godina provedenih u činu iz stavka 1. ovoga članka, djelatnoj vojnoj osobi protiv koje se vodio kazneni postupak i koja je pravomoćno oslobođena optužbe, za vrijeme za koje nije mogla biti promaknuta u viši čin propisano vrijeme u višem činu potrebno za promicanje skraćuje se za jednu godinu za svaku godinu trajanja kaznenog postupka pri čemu u viši čin može biti promaknuta jedanput u kalendarskoj godini.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 29.
+
+U članku 96. stavak 2. mijenja se i glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, kandidatima za časnika sa zvanjem doktora medicine nakon završetka prve razine slijedno-rastuće časničke izobrazbe dodjeljuje se čin natporučnika/poručnika fregate, a kandidatima za časnika – doktorima medicine specijalistima grane medicine dodjeljuje se čin bojnika/kapetana korvete.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Čin pričuvnog poručnika može se dodijeliti pričuvnim vojnicima/mornarima i pričuvnim dočasnicima koji su završili prvu razinu slijedno-rastuće izobrazbe časnika i koji nemaju zapreke iz članka 35. ovoga Zakona.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 30.
+
+U članku 97. stavku 1. podstavak 2. mijenja se i glasi:
+
+» – natporučnik, odnosno poručnik fregate može biti promaknut u čin satnika, odnosno poručnika bojnog broda ako ima završenu slijedno-rastuću časničku izobrazbu druge razine i u činu natporučnika odnosno poručnika fregate provede četiri godine i ako ima završen najmanje diplomski sveučilišni studij, integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij, odnosno kada u činu natporučnika odnosno poručnika fregate provede pet godina i ako ima završen preddiplomski sveučilišni studij ili stručni studij«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Iznimno od godina provedenih u činu iz stavka 1. ovoga članka, djelatnoj vojnoj osobi protiv koje se vodio kazneni postupak i koja je pravomoćno oslobođena optužbe, za vrijeme za koje nije mogla biti promaknuta u viši čin, propisano vrijeme u višem činu potrebno za promicanje skraćuje se za jednu godinu za svaku godinu trajanja kaznenog postupka pri čemu u viši čin može biti promaknuta jedanput u kalendarskoj godini.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 31.
+
+U članku 101. stavak 1. mijenja se i glasi:
+
+»Vojna osoba može biti izvanredno promaknuta u neposredno viši čin bez obzira na uvjete propisane ovim Zakonom ako je obavljanjem službe stekla posebne zasluge za Oružane snage.«.
+
+Stavak 2. briše se.
+
+#### Članak 32.
+
+Članak 101.a mijenja se i glasi:
+
+»(1) Djelatnim i pričuvnim dočasnicima i časnicima primljenim u vojnog specijalista prevodi se po sili zakona osobni čin u čin vojnog specijalista iste razine, pod uvjetom da njihov osobni čin nije viši od čina propisanoga ovim Zakonom za vojne specijaliste.
+
+(2) Vojnom specijalistu iz stavka 1. ovoga članka vrijeme provedeno u činu djelatnog dočasnika i časnika računa se u vrijeme za promaknuće u viši čin vojnog specijalista.«.
+
+#### Članak 33.
+
+U članku 108. stavak 3. briše se.
+
+Dosadašnji stavci 4. i 5. postaju stavci 3. i 4.
+
+U dosadašnjem stavku 6., koji postaje stavak 5., briše se točka i dodaju se riječi: »odnosno po ovlasti prvoocjenjivača njegov zamjenik te je u tom slučaju drugoocjenjivač osoba koja je prenijela tu ovlast.«.
+
+Dosadašnji stavak 7. postaje stavak 6.
+
+#### Članak 34.
+
+U članku 109. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+#### Članak 35.
+
+U članku 116. stavku 2. riječi: »zapovjednika bojne« zamjenjuju se riječima: »zapovjednika satnije«.
+
+#### Članak 36.
+
+Članak 117. mijenja se i glasi:
+
+»(1) Vojne osobe, službenici i namještenici Oružanih snaga i Ministarstva obrane mogu uz prethodno odobrenje Predsjednika Republike ili tijela koje on ovlasti primati vojne medalje stranih država i međunarodnih organizacija.
+
+(2) Prethodno odobrenje iz stavka 1. ovoga članka nije potrebno za primanje medalja međunarodnih organizacija čiji je član Republika Hrvatska.«.
+
+#### Članak 37.
+
+U članku 123. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Pravilnikom iz stavka 6. ovoga članka uredit će se i način utvrđivanja zdravstvene sposobnosti za vojnu službu za osobe s djelomičnim gubitkom zdravstvene sposobnosti za djelatnu vojnu službu, a za koje postoji potreba i interes za zadržavanje u službi.«.
+
+#### Članak 38.
+
+U članku 128. stavku 2. riječ: »dvije« zamjenjuje se riječju: »tri«.
+
+#### Članak 39.
+
+Iza članka 131. dodaju se članci 131.a, 131.b, 131.c, 131.d, 131.e, 131.f, 131.g, 131.h, 131.i, 131.j, 131.k, 131.l, 131.m i 131.n i naslovi iznad njih koji glase:
+
+### »2.a PRAVA PO OSNOVI STRADAVANJA VOJNE OSOBE
+
+#### Članak 131.a
+
+(1) Vojnoj osobi koja je bez svoje krivnje teško ranjena ili teško ozlijeđena u obavljanju službene zadaće u Oružanim snagama i koja je nepokretna, slabo pokretna ili joj se ne preporučuje kretanje, Ministarstvo obrane će uz njezinu suglasnost osigurati administrativnu i psihosocijalnu potporu pri rješavanju pitanja i ostvarivanju prava vezanih uz njezino stanje.
+
+(2) Potporu iz stavka 1. ovoga članka Ministarstvo obrane osigurat će najdulje 30 dana od dana prestanka odnosno otpusta iz službe.
+
+(3) Nehaj se ne smatra krivnjom u smislu stavka 1. ovoga članka.
+
+(4) Vrste i način pružanja potpore iz stavka 1. ovoga članka pravilnikom propisuje ministar obrane.
+
+#### Članak 131.b
+
+(1) Vojna osoba kojoj je organizam oštećen za najmanje 20% zbog rane ili ozljede koju je bez svoje krivnje zadobila u obavljanju službene zadaće u Oružanim snagama, u skladu s odredbama ovoga Zakona i posebnih zakona ostvaruje:
+
+– pravo na invalidsku mirovinu
+
+– prava po osnovi oštećenja organizma
+
+– pravo na stambeno zbrinjavanje.
+
+(2) Način i postupak utvrđivanja okolnosti u kojoj je nastala rana ili ozljeda iz stavka 1. ovoga članka propisuje se pravilnikom iz članka 131.a stavka 4. ovoga Zakona.
+
+*Pravo na invalidsku mirovinu*
+
+#### Članak 131.c
+
+(1) Vojna osoba iz članka 131.b ovoga Zakona kod koje zbog rane ili ozljede koju je bez svoje krivnje zadobila u obavljanju službene zadaće u Oružanim snagama nastane djelomični ili potpuni gubitak radne sposobnosti ima pravo na invalidsku mirovinu.
+
+(2) Pravo na invalidsku mirovinu iz stavka 1. ovoga članka ostvaruje se u skladu sa zakonom kojim se uređuju prava iz mirovinskoga osiguranja djelatnih vojnih osoba ako ovim Zakonom nije drukčije propisano.
+
+(3) Pri izračunu mirovine iz stavka 1. ovoga članka polazni faktor je 1,85.
+
+*Prava po osnovi oštećenja organizma*
+
+#### Članak 131.d
+
+(1) Prava koja se ostvaruju po osnovi oštećenja organizma su:
+
+– pravo na osobnu invalidninu
+
+– pravo na ortopedski doplatak
+
+– pravo na doplatak za njegu i pomoć druge osobe
+
+– pravo na medicinsku odnosno fizikalnu rehabilitaciju.
+
+(2) Oštećenje organizma iz stavka 1. ovoga članka, u smislu ovoga Zakona, je oštećenje nastalo kao posljedica rane ili ozljede koju je vojna osoba bez svoje krivnje zadobila u obavljanju službene zadaće u Oružanim snagama.
+
+(3) Radi ostvarivanja prava iz stavka 1. ovoga članka vojne osobe iz članka 131.b ovoga Zakona razvrstavaju se prema utvrđenom postotku oštećenja organizma u deset skupina:
+
+– I. skupina – osoba s invaliditetom koja ima 100% oštećenje organizma kojoj je za redoviti život potrebna njega i pomoć druge osobe
+
+– II. skupina – osoba s invaliditetom koja ima 100% oštećenje organizma
+
+– III. skupina – osoba s invaliditetom koja ima 90% oštećenje organizma
+
+– IV. skupina – osoba s invaliditetom koja ima 80% oštećenje organizma
+
+– V. skupina – osoba s invaliditetom koja ima 70% oštećenje organizma
+
+– VI. skupina – osoba s invaliditetom koja ima 60% oštećenje organizma
+
+– VII. skupina – osoba s invaliditetom koja ima 50% oštećenje organizma
+
+– VIII. skupina – osoba s invaliditetom koja ima 40% oštećenje organizma
+
+– IX. skupina – osoba s invaliditetom koja ima 30% oštećenje organizma
+
+– X. skupina – osoba s invaliditetom koja ima 20% oštećenje organizma.
+
+*Pravo na osobnu invalidninu*
+
+#### Članak 131.e
+
+(1) Osobna invalidnina je pravo vojne osobe iz članka 131.b ovoga Zakona na osnovi oštećenja organizma i na temelju toga prava ostvaruju se ostala prava po osnovi oštećenja organizma iz ovoga Zakona.
+
+(2) Osobna invalidnina iz stavka 1. ovoga članka određuje se prema skupini oštećenja organizma u koju je vojna osoba iz članka 131.b ovoga Zakona razvrstana i pripada joj u mjesečnom iznosu.
+
+(3) Mjesečni iznos osobne invalidnine osobe s invaliditetom I. skupine određuje se u iznosu od 115% od utvrđene proračunske osnovice.
+
+(4) Mjesečni iznos osobne invalidnine osobe s invaliditetom od II. do X. skupine određuje se u postotku od osobne invalidnine osobe s invaliditetom I. skupine, i to:
+
+| Skupina | Postotak |
+|---|---|
+| II. | 73 |
+| III. | 55 |
+| IV. | 41 |
+| V. | 29 |
+| VI. | 18 |
+| VII. | 12 |
+| VIII. | 6 |
+| IX. | 4 |
+| X. | 3. |
+
+*Pravo na ortopedski doplatak*
+
+#### Članak 131.f
+
+(1) Pravo na ortopedski doplatak ima vojna osoba iz članka 131.b ovoga Zakona kojoj je oštećenje organizma izravna posljedica rane ili ozljede koje je uzrokovalo amputaciju ekstremiteta, teško oštećenje funkcije ekstremiteta, potpuni gubitak vida na oba oka ili potpuni gubitak sluha.
+
+(2) Oštećenja organizma iz stavka 1. ovoga članka razvrstavaju se u četiri stupnja prema težini oštećenja u skladu s člankom 131.d stavkom 3. podstavcima 1., 2., 3. i 4. ovoga Zakona.
+
+(3) Osnovica za određivanje ortopedskog doplatka je mjesečni iznos osobne invalidnine osobe s invaliditetom I. skupine.
+
+(4) Ortopedski doplatak mjesečno iznosi:
+
+– za I. stupanj 29% od osnovice
+
+– za II. stupanj 22% od osnovice
+
+– za III. stupanj 14% od osnovice
+
+– za IV. stupanj 7% od osnovice.
+
+(5) Vojnoj osobi iz članka 131.b ovoga Zakona s dva ili više oštećenja I. stupnja ortopedski doplatak iz stavka 4. podstavka 1. ovoga članka povećava se za 25% za svako sljedeće oštećenje.
+
+*Pravo na doplatak za njegu i pomoć druge osobe*
+
+#### Članak 131.g
+
+(1) Vojna osoba iz članka 131.b ovoga Zakona ima mjesečno pravo na doplatak za njegu i pomoć druge osobe, i to:
+
+– I. skupine oštećenja organizma u iznosu 100% od osnovice
+
+– II., III. i IV. skupine oštećenja organizma u iznosu 60% od osnovice.
+
+(2) Osnovica za određivanje doplatka za njegu i pomoć druge osobe iz stavka 1. ovoga članka je mjesečni iznos osobne invalidnine osobe s invaliditetom I. skupine.
+
+*Pravo na medicinsku odnosno fizikalnu rehabilitaciju*
+
+#### Članak 131.h
+
+Vojna osoba iz članka 131.b ovoga Zakona ima pravo na bolničku medicinsku odnosno fizikalnu rehabilitaciju ako je takva rehabilitacija na temelju nalaza doktora specijalista prijeko potrebna u vezi s ranom ili ozljedom, a provodi se kod ozljeda lokomotornog sustava, amputacije udova, kraniocerebralnih ozljeda i ozljeda kralježnice.
+
+*Pravo na stambeno zbrinjavanje*
+
+#### Članak 131.i
+
+(1) Način i postupak ostvarivanja prava na stambeno zbrinjavanje za vojnu osobu iz članka 131.b ovoga Zakona, kao i prilagodbu stambenoga prostora uređuje se pravilnikom iz članka 132. ovoga Zakona.
+
+(2) Pravo iz stavka 1. ovoga članka ostvaruje i bračni ili izvanbračni drug ili djeca vojne osobe koja bez svoje krivnje pogine ili umre zbog rane ili ozljede koju je zadobila u obavljanju službene zadaće u Oružanim snagama.
+
+*Pravo na obiteljsku mirovinu*
+
+#### Članak 131.j
+
+(1) Članovi obitelji vojne osobe koja bez svoje krivnje pogine ili umre zbog rane ili ozljede koju je zadobila u obavljanju službene zadaće u Oružanim snagama ostvaruju pravo na obiteljsku mirovinu.
+
+(2) Pravo na obiteljsku mirovinu iz stavka 1. ovoga članka ostvaruje se u skladu sa zakonom kojim se uređuje mirovinsko osiguranje ako ovim Zakonom nije drukčije propisano.
+
+(3) Članovi obitelji vojne osobe iz stavka 1. ovoga članka su bračni ili izvanbračni drug i djeca te roditelji ako osoba nije imala bračnog ili izvanbračnog druga i djece.
+
+(4) Bračni ili izvanbračni drug vojne osobe iz stavka 1. ovoga članka stječe pravo na obiteljsku mirovinu kada navrši 40 godina života.
+
+(5) Roditelji vojne osobe iz stavka 1. ovoga članka stječu pravo na obiteljsku mirovinu kada navrše 50 godina života.
+
+(6) Osobe iz stavaka 4. i 5. ovoga članka pravo na obiteljsku mirovinu stječu bez obzira na godine života ako kod njih nastane potpuni gubitak radne sposobnosti prije ispunjenja uvjeta iz stavaka 4. i 5. ovoga članka.
+
+(7) Pri izračunu mirovine iz stavka 1. ovoga članka polazni faktor je 1,90.
+
+(8) Način i postupak utvrđivanja okolnosti pogibije odnosno smrti vojne osobe iz stavka 1. ovoga članka propisuje se pravilnikom iz članka 131.a stavka 4. ovoga Zakona.
+
+#### Članak 131.k
+
+Vojna osoba iz članka 131.b ovoga Zakona ima pravo na osnovno i dopunsko zdravstveno osiguranje ako ga ne ostvaruje po drugoj osnovi.
+
+#### Članak 131.l
+
+Na vojne osobe iz članka 131.b ovoga Zakona i članove obitelji vojnih osoba koje su poginule ili zadobile ranu ili ozljedu u obavljanju službenih zadaća u Oružanim snagama na poslovima protuminskoga djelovanja primjenjuju se prava propisana zakonom kojim se uređuje protuminsko djelovanje kada je to za njih povoljnije.
+
+#### Članak 131.m
+
+Na ostala pitanja u vezi s postupkom za ostvarivanje statusa, statusom i pravima vojnih osoba iz članka 131.b ovoga Zakona i članova obitelji vojnih osoba koje su poginule ili zadobile ranu ili ozljedu u obavljanju službenih zadaća u Oružanim snagama koja nisu propisana ovim Zakonom primjenjuju se odredbe zakona kojima se uređuje mirovinsko osiguranje i zaštita ratnih i mirnodopskih vojnih invalida odnosno pravo koje je za njih povoljnije.
+
+#### Članak 131.n
+
+Sredstva za ostvarivanje prava iz članaka 131.a, 131.b, 131.c, 131.d, 131.e, 131.f, 131.g, 131.h, 131.i, 131.j, 131.k 131.l i 131.m ovoga Zakona osiguravaju se u državnom proračunu Republike Hrvatske na razdjelu Ministarstva obrane.«.
+
+#### Članak 40.
+
+Članak 133. mijenja se i glasi:
+
+»(1) Naknada za stanovanje ostvaruje se kao nadoknada povećanih troškova života zbog najma stambenog prostora djelatnim vojnim osobama imenovanim ili raspoređenim u mjesto službe koje je udaljeno najmanje 50 km od mjesta njihova prebivališta, ili ako je prebivalište ili mjesto službe na otoku bez obzira na udaljenost te ako nemaju riješeno stambeno pitanje i nisu smještene u vojnim lokacijama.
+
+(2) Djelatna vojna osoba kojoj je prebivalište na otoku ili mu je mjesto službe na otoku ne ostvaruje pravo na naknadu za stanovanje ako mu je poslodavac osigurao prijevoz na otok i za povratak s otoka.
+
+(3) Pravo iz stavka 1. ovoga članka priznaje se na temelju prijavljenoga boravišta u mjestu službe.
+
+(4) Smatra se da djelatna vojna osoba ima riješeno stambeno pitanje ako ona ili član njezine obitelji (supružnik, maloljetno dijete ili dijete na redovitom školovanju, s kojim živi u obiteljskom kućanstvu) u mjestu službe ili u mjestu udaljenom do 50 km od mjesta službe ima u vlasništvu stan ili obiteljsku kuću.
+
+(5) Dočasnici i časnici te generali/admirali smješteni u vojnim lokacijama ostvaruju pravo na 50% najniže naknade za stanovanje.
+
+(6) Pod smještajem u vojnim lokacijama iz stavka 4. ovoga članka smatra se smještaj dočasnika i časnika te generala/admirala koji neprekidno traje najmanje 30 dana.
+
+(7) Pod vojnim lokacijama, u smislu odredbi ovoga članka, ne smatraju se službeni stanovi te osobe smještene u službenim stanovima ne ostvaruju pravo na naknadu za stanovanje.
+
+(8) Djelatni vojnici/mornari kojima nije osiguran smještaj u vojnim lokacijama imaju pravo na naknadu za stanovanje, osim djelatnih vojnika/mornara iz članka 132. stavka 2. ovoga Zakona.
+
+(9) Ako su bračni i izvanbračni supružnici imenovani ili raspoređeni u skladu sa stavkom 1. ovoga članka i žive u zajedničkom kućanstvu, svaki od njih ostvaruje pravo na 50% pripadajuće naknade za stanovanje, osim ako se ne dogovore da jedan od njih ostvaruje puni iznos naknade za stanovanje te u tom slučaju drugi supružnik ne ostvaruje pravo na troškove prijevoza za dolazak na posao i odlazak s posla te korištenje organiziranoga ili ugovorenog međumjesnog prijevoza.
+
+(10) Organizirani ili ugovoreni međumjesni prijevoz od mjesta prebivališta do mjesta službe isključuje pravo na naknadu za stanovanje, ako je to povoljnije za poslodavca.
+
+(11) Iznimno od stavka 10. ovoga članka, djelatne vojne osobe koje su raspoređene ili imenovane u mjesto službe u kojem nema mogućnosti najma stana ili kuće, ostvaruju pravo na naknadu za stanovanje prema mjestu službe i pravo na korištenje organiziranoga ili ugovorenog prijevoza od mjesta službe do najbližeg mjesta gdje postoji mogućnost najma stana ili kuće, ili naknadu troškova prijevoza sukladno propisima kojima se reguliraju troškovi prijevoza ako organizirani ili ugovoreni prijevoz ne postoji.
+
+(12) Pravo iz stavka 11. ovoga članka ostvaruje se na temelju potvrde o prijavljenom boravištu u najbližem mjestu.
+
+(13) Promjena mjesta prebivališta djelatne vojne osobe koje je udaljeno najmanje 50 km od mjesta službe, ili ako je prebivalište ili mjesto službe na otoku bez obzira na udaljenost, nije od utjecaja na priznavanje prava na naknadu za stanovanje za vrijeme rasporeda u istom mjestu službe.
+
+(14) Način utvrđivanja prava na naknadu za stanovanje propisuje se pravilnikom iz članka 132. stavka 4. ovoga Zakona.
+
+(15) Pravo na naknadu za stanovanje iz stavka 1. ovoga članka ostvaruje se umjesto naknade troškova zbog odvojenog života od obitelji te se ne smatra oporezivim primitkom po osnovi nesamostalnog rada u skladu s propisima o porezu na dohodak.
+
+(16) Visinu naknade za stanovanje iz stavka 1. ovoga članka i popis mjesta službe iz stavka 7. ovoga članka odlukom propisuje ministar obrane.«.
+
+#### Članak 41.
+
+Iza članka 133. dodaje se članak 133. a koji glasi:
+
+»Članak 133.a
+
+(1) Supružnik djelatne vojne osobe imenovane ili raspoređene po potrebi službe u mjesto službe koje je najmanje 50 km udaljeno od mjesta njihova prebivališta, kojem prestane radni odnos zbog preseljenja u mjesto službe djelatne vojne osobe, a u tom mjestu nema mogućnosti zaposliti se na odgovarajućem radnom mjestu, ima pravo na produženo osiguranje u trajanju do dvije godine od dana prestanka radnog odnosa na teret državnog proračuna Republike Hrvatske.
+
+(2) Odgovarajuće mjesto u smislu stavka 1. ovoga članka smatra se radno mjesto iste vrste i razine obrazovanja koje je supružnik imao prije prestanka radnog odnosa.
+
+(3) Pravo iz stavka 1. ovog članka supružnik djelatne vojne osobe ostvaruje na temelju prijavljenog boravišta u mjestu službe djelatne vojne osobe.
+
+(4) Pravo na produženo osiguranje supružniku prestaje i prije isteka roka iz stavka 1. ovoga članka kada se zaposli, ostvari pravo na mirovinu, odbije zaposlenje na odgovarajućem radnom mjestu, odjavi boravište u mjestu službe djelatne vojne osobe ili bude osuđen na kaznu zatvora.«.
+
+#### Članak 42.
+
+Članak 137. mijenja se i glasi:
+
+»(1) Osnovna plaća djelatne vojne osobe je umnožak koeficijenta osobnog čina i osnovice za obračun plaće, uvećan za 0,5% za svaku godinu navršenog radnog staža.
+
+(2) Iznimno od stavka 1. ovoga članka, osnovnu plaću djelatne vojne osobe raspoređene na ustrojbeno mjesto višega čina od osobnoga čina čini aritmetička sredina osnovne plaće utvrđene za osobni čin i osnovne plaće čina ustrojbenog mjesta na koje je djelatna vojna osoba raspoređena.
+
+(3) Ako je u slučaju rasporeda iz stavka 2. ovoga članka čin ustrojbenog mjesta određen u rasponu od dva ili više činova i pri čemu su svi činovi u rasponu viši od osobnoga čina, osnovna plaća čina ustrojbenog mjesta određuje se prema najnižem činu u rasponu.
+
+(4) Ako je u slučaju rasporeda iz stavka 2. ovoga članka čin ustrojbenog mjesta određen u rasponu od dva ili više činova i pri čemu je osobni čin po razini jednak jednom od činova u rasponu, osnovna plaća čina ustrojbenog mjesta određuje se prema činu koji je po razini jednak osobnom činu.
+
+(5) Vojnom specijalistu koji sustavom promaknuća, u skladu s odredbama ovoga Zakona, dostigne ustrojbeni čin radnog mjesta na koji je raspoređen ili dostigne maksimalni čin za vojnog specijalista propisan odredbama ovoga Zakona svakih idućih pet godina provedenih na dužnosti vojnog specijalista uvećava se vrijednost koeficijenta osobnog čina.
+
+(6) Osnovica za obračun plaće djelatne vojne osobe jednaka je osnovici za obračun plaće državnih službenika i namještenika.
+
+(7) Iznimno od odredbi ovoga članka, na pojedina ustrojbena mjesta u Hrvatskom vojnom učilištu koja su određena u skladu s nazivima radnih mjesta u javnim službama pri obračunu plaće primjenjuju se koeficijenti složenosti poslova utvrđeni za javne službe.
+
+(8) Vrijednost koeficijenta osobnog čina djelatnih vojnih osoba i iznos uvećanja koeficijenta osobnog čina za vojne specijaliste iz stavka 5. ovoga članka uredbom propisuje Vlada Republike Hrvatske.«.
+
+#### Članak 43.
+
+U članku 138. stavku 2. riječ: »sveučilišni« zamjenjuje se riječi: »specijalistički« te se iza riječi: »sveučilišnoga specijalista« dodaju riječi: »odnosno sveučilišnog magistra«.
+
+#### Članak 44.
+
+U članku 139.a ispred riječi: »Ministar« stavlja se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Službeniku raspoređenom na radno mjesto iz područja znanstvene djelatnosti i visokog obrazovanja priznaje se pravo na plaću čina ustrojbenog mjesta djelatne vojne osobe, uvećanje osnovice za obračun plaće iz članka 138. stavka 1. ovoga Zakona i dodatak djelatne vojne osobe izabrane u zvanje.«.
+
+#### Članak 45.
+
+U članku 144. stavku 1. iza riječi: »za nju povoljnije« dodaju se riječi: »od plaće u tijelu u koje je upućena«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Djelatna vojna osoba raspoređena u međunarodnu organizaciju sa sjedištem u Republici Hrvatskoj zadržava plaću dužnosti s koje je upućena i ostvaruje dodatke u skladu s posebnim propisima tijela u koje je upućena.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 46.
+
+U članku 147. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Djelatni vojnik/mornar raspoređen izvan mjesta svojega prebivališta ima pravo na naknadu u visini troškova najjeftinijeg prijevoza za dva putovanja mjesečno iz mjesta službe u mjesto prebivališta, osim kada koristi organizirani ili ugovoreni prijevoz ili ostvaruje pravo na naknadu za stanovanje.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 47.
+
+U članku 149. stavku 2. riječi: »za korisnike državnog proračuna Republike Hrvatske u skladu s odlukom Vlade Republike Hrvatske« zamjenjuju se riječima: »za državne službenike i namještenike«.
+
+#### Članak 48.
+
+U članku 150. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+Dosadašnji stavak 4., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Način organiziranja prehrane, vrste obroka, pravo na besplatnu ili subvencioniranu prehranu i druga pitanja u vezi s prehranom pravilnikom propisuje ministar obrane na prijedlog načelnika Glavnog stožera.«.
+
+#### Članak 49.
+
+U članku 159. stavku 1. podstavku 1. riječi: »pet radnih dana« zamjenjuju se riječima: »sedam radnih dana«.
+
+U postavku 2. riječi: »pet radnih dana« zamjenjuju se riječima: »sedam radnih dana«.
+
+U postavku 9. riječi: »četiri radna dana« zamjenjuju se riječima: »pet radnih dana«.
+
+#### Članak 50.
+
+Iza članka 159. dodaje se članak 159.a koji glasi:
+
+»Članak 159.a
+
+Djelatna vojna osoba za vrijeme stručnog osposobljavanja i usavršavanja uz rad ima pravo na plaćeni dopust u sljedećim slučajevima:
+
+– za svaki ispit po predmetu dva radna dana
+
+– za završni rad tri radna dana.«.
+
+#### Članak 51.
+
+U članku 162. stavak 3. mijenja se i glasi:
+
+»(3) Prava iz stavaka 1. i 2. ovoga članka osobe iz stavka 1. ovoga članka ostvaruju i za vrijeme provedeno na liječenju zbog rane ili ozljede zadobivene u provedbi misije bez svoje krivnje ili u zarobljeništvu, a najdulje do isteka roka na koji su upućene u operaciju potpore miru, operaciju odgovora na krize, humanitarnu operaciju i drugu aktivnost u inozemstvu.«.
+
+#### Članak 52.
+
+U članku 169. stavku 4. riječi: »Osobe iz stavka 1. ovoga članka« zamjenjuju se riječima: »Osobe iz stavaka 1. i 2. ovoga članka«.
+
+#### Članak 53.
+
+U članku 175. stavku 3. točki 39. iza riječi: »zdravstvene sposobnosti« dodaju se riječi: »i cijepljenju u skladu s kriterijima koje propiše nadležno tijelo, kao i odbijanje poduzimanja drugih radnji potrebnih za provedbu ocjenjivanja spremnosti snaga za upućivanje u operacije potpore miru, operacije odgovora na krize, humanitarne operacije i druge aktivnosti u inozemstvu«.
+
+Iza točke 43. dodaje se nova točka 44. koja glasi:
+
+»44. lažno prijavljivanje stegovnih pogrešaka i prijestupa ili podmetanje tragova koji upućuju na to da je određena osoba počinila stegovnu pogrešku ili prijestup«.
+
+Dosadašnja točka 44. postaje točka 45.
+
+#### Članak 54.
+
+U članku 198. stavak 1. mijenja se i glasi:
+
+»(1) Visina naknade štete utvrđuje se prema vrijednosti uništene, oštećene ili nestale imovine u vrijeme nastanka štete.«.
+
+#### Članak 55.
+
+Članak 205. mijenja se i glasi:
+
+»(1) Djelatnoj vojnoj osobi služba prestaje po sili zakona:
+
+1. smrću, proglašenjem nestale osobe umrlom, odnosno utvrđenjem činjenice smrti
+
+2. danom prestanka hrvatskog državljanstva
+
+3. kada neopravdano izostane s posla pet radnih dana uzastopce, s danom napuštanja službe
+
+4. kada izostane s posla dulje od 30 dana i vodi se u Nacionalnoj evidenciji nestalih osoba, s prvim danom izostanka, osim u slučaju iz članka 74. stavka 1. ovoga Zakona
+
+5. kada ostvari uvjete za starosnu mirovinu u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, najkasnije s posljednjim danom kalendarske godine u kojem je ostvarila te uvjete
+
+6. na temelju rješenja o prestanku službe zbog utvrđene nesposobnosti za djelatnu vojnu službu, danom utvrđenim rješenjem
+
+7. na temelju odluke Predsjednika Republike o prestanku službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, danom utvrđenim odlukom
+
+8. na temelju rješenja ministra obrane o prestanku službe s pravom na invalidsku mirovinu zbog profesionalne nesposobnosti za rad uzrokovane ozljedom na radu ili profesionalnom bolešću, ako joj je u odgovarajućem postupku utvrđena nemogućnost daljnjeg profesionalnog razvoja, u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, danom utvrđenim rješenjem
+
+9. na temelju rješenja ministra obrane o prestanku službe zbog potreba službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, s posljednjim danom kalendarske godine u kojoj:
+
+– general/admiral, časnik odnosno dočasnik ima navršenih 60 godina života
+
+– brigadir/kapetan bojnog broda ima navršenih 58 godina života i 40 godina mirovinskog staža
+
+– pukovnik/kapetan fregate ima navršenih 57 godina života i 40 godina mirovinskog staža
+
+– bojnik/kapetan korvete ima navršenih 56 godina života i 40 godina mirovinskog staža
+
+– satnik/poručnik bojnog broda, natporučnik/poručnik fregate i poručnik/poručnik korvete ima navršene 54 godine života i 40 godina mirovinskog staža
+
+– časnički namjesnik ima navršenih 56 godina života i 40 godina mirovinskog staža
+
+– stožerni narednik ima navršenih 55 godina života i 40 godina mirovinskog staža
+
+– nadnarednik ima navršene 54 godine života i 40 godina mirovinskog staža
+
+– narednik, desetnik i skupnik ima navršene 53 godine života i 40 godina mirovinskog staža
+
+10. kada vojnik/mornar primljen u službu na temelju ugovora o vojničkoj službi na neodređeno vrijeme navrši 45 godina života, najkasnije s posljednjim danom kalendarske godine u kojoj navršava te godine života, ako ne ispunjava uvjete za prestanak službe zbog razloga navedenih u točki 8. ovoga stavka
+
+11. na temelju rješenja o potpunom ili djelomičnom gubitku radne sposobnosti, danom utvrđenim rješenjem
+
+12. ako je ocijenjena službenom ocjenom »ne zadovoljava«, danom izvršnosti rješenja
+
+13. ako joj je izrečena stegovna kazna prestanka službe, danom izvršnosti rješenja vojnostegovnog suda o izricanju kazne
+
+14. kada je osuđena na kaznu zatvora u trajanju duljem od šest mjeseci, danom saznanja za pravomoćnu presudu
+
+15. kada se sazna da u vrijeme prijma u službu nije ispunjavala uvjete za prijam, danom saznanja
+
+16. kada se sazna da je u vrijeme prijma u službu postojala zapreka za prijam propisana člankom 35. stavkom 1. podstavkom 2. ovoga Zakona, danom saznanja
+
+17. kada je tijekom službe osuđena na kaznu zatvora za kazneno djelo koje je zapreka za prijam, danom saznanja
+
+18. istekom roka raspolaganja iz članka 64. stavka 1. podstavaka 1. i 2. ovoga Zakona, prvog dana nakon isteka roka raspolaganja
+
+19. istekom roka raspolaganja iz članka 64. stavka 1. podstavaka 1., 2. i 3. na temelju rješenja ministra obrane o prestanku službe zbog potreba službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, prvog dana nakon isteka roka raspolaganja
+
+20. kada se tijekom službe utvrdi da osoba ne zadovoljava sigurnosne kriterije, danom utvrđenja
+
+21. kada navrši 65 godina života i najmanje 15 godina mirovinskoga staža.
+
+(2) Iznimno od stavka 1. točaka 5. i 9. ovoga članka, djelatnoj vojnoj osobi sa zvanjem doktora medicine, koja posjeduje odobrenje za samostalni rad i raspoređena je na ustrojbenom mjestu zdravstvene službe djelatna vojna služba prestaje s posljednjim danom kalendarske godine u kojoj navršava 65 godina života.
+
+(3) Iznimno od stavka 1. točaka 5. i 9. ovoga članka, vojnom specijalistu djelatna vojna služba prestaje s posljednjim danom kalendarske godine u kojoj navršava 62 godine života.
+
+(4) Iznimno od stavka 1. točke 9. i stavaka 2. i 3. ovoga članka, djelatnoj vojnoj osobi služba može prestati na temelju rješenja ministra obrane o prestanku službe zbog potreba službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba i prije ispunjenja uvjeta iz stavka 1. točke 9. i stavaka 2. i 3. ovoga članka, danom utvrđenim rješenjem.
+
+(5) Iznimno od stavka 1. točke 9. ovoga članka, djelatnu vojnu osobu zbog posebno opravdanih razloga ministar obrane može zadržati u službi do dvije godine iako su ispunjeni uvjeti iz stavka 1. točke 9. ovoga članka.
+
+(6) Djelatnoj vojnoj osobi iz stavka 1. točaka 6., 8., 9. i 19. i stavka 4. ovoga članka ne može prestati služba ako je protiv nje pokrenut ili se vodi stegovni postupak do okončanja stegovnog postupka koji se u tom slučaju mora provesti po hitnom postupku i okončati najkasnije u roku od 45 dana od dana pokretanja stegovnog postupka.«.
+
+#### Članak 56.
+
+U članku 210. stavku 2. iza riječi: »na osobni zahtjev« dodaju se riječi: »i otkazom«.
+
+#### Članak 57.
+
+Članak 225. briše se.
+
+#### Članak 58.
+
+U Zakonu o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 30/18.) članak 87. briše se.
+
+#### Članak 59.
+
+U Zakonu o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 30/18.) u članku 88. stavku 1. oznaka stavka: »(1)« briše se.
+
+Stavak 2. briše se.
+
+#### Članak 60.
+
+U cijelom tekstu Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16. i 30/18.) riječ: »bolovanje« u određenom padežu zamjenjuje se riječima: »privremena nesposobnost za rad« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 61.
+
+(1) Dočasnici i časnici koji su stariji od godina života propisanih Zakonom o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16. i 30/18.) potrebnih za upućivanje na drugu, treću i četvrtu razinu slijedno-rastuće vojne izobrazbe mogu biti upućeni na tu izobrazbu neovisno o godinama života, a najkasnije do 31. prosinca 2021.
+
+(2) Na izobrazbu iz stavka 1. ovoga članka neće se upućivati dočasnici i časnici koji su zbog osobnih razloga odbijali školovanje više od dva puta, a u međuvremenu su postali stariji od godina života propisanih za upućivanje na školovanje.
+
+#### Članak 62.
+
+Djelatne vojne osobe, doktori medicine specijalisti grane medicine, zatečeni u nižem osobnom činu od čina bojnika koji imaju završenu drugu razinu slijedno-rastuće časničke izobrazbe na dan stupanja na snagu ovoga Zakona prevode se po sili zakona u čin bojnika.
+
+#### Članak 63.
+
+(1) Vojni specijalisti zatečeni u službi na dan stupanja na snagu ovoga Zakona prevode se u dočasnike i časnike osobnog čina iste razine, u slučaju promjene kategorije ustrojbenog mjesta vojnog specijalista u djelatnog dočasnika ili časnika, po sili zakona na dan 31. prosinca 2020.
+
+(2) Vojnim specijalistima iz stavka 1. ovoga članka vrijeme provedeno u činu vojnog specijalista računa se u vrijeme za promaknuće u viši čin dočasnika ili časnika.
+
+#### Članak 64.
+
+(1) U skladu s člankom 39. ovoga Zakona, vojna osoba odnosno članovi obitelji vojne osobe ostvaruju prava koja proizlaze iz stradavanja, a koja su se dogodila počevši od 1. srpnja 2019.
+
+(2) Za osobe koje su po osnovi stradavanja iz stavka 1. ovoga članka ostvarile prava po odredbama zakona kojima se uređuju prava iz mirovinskoga osiguranja i prava ratnih vojnih invalida i mirnodopskih vojnih invalida, po službenoj dužnosti prevest će im se prava u skladu s člankom 39. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(3) Postupci po osnovi stradavanja iz stavka 1. ovoga članka pokrenuti u skladu s drugim zakonima koji su u tijeku na dan stupanja na snagu ovoga Zakona dovršit će se prema odredbama ovoga Zakona.
+
+#### Članak 65.
+
+(1) Djelatna vojna osoba zatečena u službi na dan stupanja na snagu ovoga Zakona koja nije raspoređena na dužnost na kojoj se staž osiguranja računa s povećanim trajanjem, a koja će do 31. prosinca 2022. navršiti godine života iz članka 55. ovoga Zakona i pri tome imati više od 12, a manje od 15 godina mirovinskog staža na dužnostima odnosno na poslovima na kojima se staž osiguranja računa s povećanim trajanjem ispunjava uvjete za prestanak službe zbog potreba službe u skladu s odredbama zakona kojima se uređuje služba u Oružanim snagama Republike Hrvatske i prava iz mirovinskog osiguranja djelatnih vojnih osoba.
+
+(2) Osobe iz stavka 1. ovoga članka izdvajaju se u skladu s godišnjim planom izdvajanja osoblja.
+
+#### Članak 66.
+
+(1) Djelatnim vojnicima/mornarima zatečenim u službi na neodređeno vrijeme na dan stupanja na snagu ovoga Zakona, a koji su u službu na neodređeno vrijeme primljeni do stupanja na snagu Zakona o izmjenama i dopunama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 30/18.) služba prestaje na temelju rješenja ministra obrane o prestanku službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, u skladu s godišnjim planom izdvajanja osoblja.
+
+(2) Djelatnim časnicima zatečenim u službi na dan stupanja na snagu ovoga Zakona koji imaju srednju stručnu spremu služba prestaje na temelju rješenja ministra obrane o prestanku službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, u skladu s godišnjim planom izdvajanja osoblja.
+
+#### Članak 67.
+
+Pričuvnicima koji su do dana stupanja na snagu ovoga Zakona završili odgovarajuću slijedno-rastuću vojnu izobrazbu i nemaju zapreke iz članka 35. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16. i 30/18.) može se dodijeliti odgovarajući pričuvni čin.
+
+#### Članak 68.
+
+Djelatne vojne osobe kojima je utvrđeno pravo na naknadu za stanovanje u skladu s odredbama Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16. i 30/18.) nastavljaju koristiti pravo na naknadu za stanovanje do donošenja pojedinačne odluke o ostvarivanju prava na naknadu za stanovanje u skladu s odredbama ovoga Zakona.
+
+#### Članak 69.
+
+(1) Provedbeni propisi iz članaka 2., 6., 39., 40., 42. i 48. ovoga Zakona donijet će se u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Provedbeni propisi iz Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16. i 30/18.) uskladit će se s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 70.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«, osim članka 46. ovoga Zakona koji stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/221
+
+Zagreb, 13. prosinca 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Uredba o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske (NN 158/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/158/2504*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 1. Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, broj 145/23.), Vlada Republike Hrvatske je na sjednici održanoj 28. prosinca 2023. donijela
+
+**UREDBU**
+
+**O IZMJENI ZAKONA O SLUŽBI U ORUŽANIM SNAGAMA REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Zakonu o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18. i 125/19.) u članku 205. stavku 1. točki 10. riječi: »45 godina života« zamjenjuju se riječima: »50 godina života«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/23-44/05
+
+Urbroj: 50301-29/23-23-2
+
+Zagreb, 28. prosinca 2023.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Zakon o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske (NN 14/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/14/258*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI  
+ZAKONA O SLUŽBI U ORUŽANIM SNAGAMA REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 26. siječnja 2024.
+
+Klasa: 011-02/24-02/07  
+Urbroj: 71-10-01/1-24-2  
+Zagreb, 1. veljače 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O SLUŽBI U ORUŽANIM SNAGAMA REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Zakonu o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18., 125/19. i 158/23.) u članku 205. stavku 1. točki 10. riječi: »45 godina života« zamjenjuju se riječima: »50 godina života«.
+
+### Članak 2.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 158/23.).
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/4  
+Zagreb, 26. siječnja 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o službi u oružanim snagama Republike Hrvatske (NN 136/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/136/2012*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SLUŽBI U ORUŽANIM SNAGAMA REPUBLIKE HRVATSKE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o službi u oružanim snagama Republike Hrvatske, koji je Hrvatski sabor donio na sjednici 24. listopada 2025.
+
+Klasa: 011-02/25-02/79  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 30. listopada 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SLUŽBI U ORUŽANIM SNAGAMA REPUBLIKE HRVATSKE**
+
+#### Članak 1.
+
+U Zakonu o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18., 125/19., 155/23., 158/23. i 14/24.) u članku 1. stavak 2. mijenja se i glasi:
+
+»(2) Služba u Oružanim snagama je obavljanje Ustavom Republike Hrvatske (u daljnjem tekstu: Ustav), zakonom i drugim propisima uređenih vojnih i drugih stručnih poslova koji se u Oružanim snagama obavljaju kao temeljno vojno osposobljavanje, kadetska služba, djelatna vojna služba, služba pričuvnog sastava i služba državnih službenika i namještenika.«.
+
+#### Članak 2.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+»(1) Ročnik je vojna osoba na temeljnom vojnom osposobljavanju tijekom kojeg se vojnom obukom osposobljava za obnašanje vojničkih dužnosti u Oružanim snagama.«.
+
+#### Članak 3.
+
+Članak 6. mijenja se i glasi:
+
+»(1) Službenik je osoba koja u Oružanim snagama obavlja poslove iz djelokruga Oružanih snaga koji obuhvaćaju i obavljanje informatičkih poslova, općih i administrativnih, planskih, materijalno-financijskih, računovodstvenih i sličnih poslova.
+
+(2) Namještenik je osoba koja u Oružanim snagama radi na pomoćno-tehničkim i ostalim poslovima čije je obavljanje potrebno radi obavljanja poslova Oružanih snaga.«.
+
+#### Članak 4.
+
+U članku 25. stavak 2. mijenja se i glasi:
+
+»(2) Mirnodopski sastav Oružanih snaga čine djelatne vojne osobe, službenici i namještenici, pričuvnici pozvani na službu u Oružane snage, ugovorni pričuvnici, kadeti te ročnici koji su pristupili temeljnom vojnom osposobljavanju.«.
+
+Stavak 3. briše se.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., riječi: »iz stavaka 2. i 3. ovoga članka« zamjenjuju se riječima: »iz stavka 2. ovoga članka«.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 5.
+
+U članku 26. podstavak 1. mijenja se i glasi:
+
+» – ročnici – upućivanjem na temeljno vojno osposobljavanje«.
+
+#### Članak 6.
+
+Članak 27. mijenja se i glasi:
+
+»(1) U skladu s potrebama službe za popunu slobodnoga ustrojbenog mjesta raspisuje se javni natječaj za prijam u kadetsku službu, prijam vojnika/mornara, časnika, vojnih specijalista s tržišta rada te službenika i namještenika.
+
+(2) Određena ustrojbena mjesta mogu se popunjavati djelatnim vojnim osobama, vojnim specijalistima, službenicima i namještenicima na temelju rezultata internog oglasa.
+
+(3) Za obavljanje poslova i zadaća posebno važnih za obranu ministar obrane može iznimno primiti u službu osobu u status djelatne vojne osobe, vojnog specijalista odnosno službenika i namještenika i bez raspisivanja javnog natječaja.
+
+(4) Prijedlog izbora kandidata iz stavaka 1. i 2. ovoga članka utvrđuje povjerenstvo Ministarstva obrane koje imenuje ministar obrane.«.
+
+#### Članak 7.
+
+Naslov iznad članka 28. i članci 28. i 29. brišu se.
+
+#### Članak 8.
+
+Naslov iznad članka 30. mijenja se i glasi: »Odluka o temeljnom vojnom osposobljavanju«.
+
+Članak 30. mijenja se i glasi:
+
+»(1) Odlukom o temeljnom vojnom osposobljavanju ročniku se uređuje služba u Oružanim snagama i određuju njegova prava i obveze.
+
+(2) Odluka iz stavka 1. ovoga članka nije upravna stvar.«.
+
+#### Članak 9.
+
+Naslov iznad članka 33. mijenja se i glasi: »Plan i postupak prijma u Oružane snage«.
+
+Članak 33. mijenja se i glasi:
+
+»(1) Prijam u djelatnu vojnu službu provodi se prema broju i strukturi za prijam utvrđen godišnjim planom prijma osoblja koji u skladu s potrebama Oružanih snaga na prijedlog ministra obrane donosi Vlada Republike Hrvatske.
+
+(2) Planom iz stavka 1. ovoga članka obuhvaća se i prijam službenika i namještenika u Oružane snage.
+
+(3) Plan iz stavka 1. ovoga članka izrađuje se na temelju potreba Oružanih snaga koje iskazuje Glavni stožer.
+
+(4) Na temelju plana iz stavka 1. ovoga članka provodi se postupak privlačenja, oglašavanja i odabira kandidata za prijam u službu.
+
+(5) Način privlačenja, oglašavanja i odabira te postupak provedbe javnog natječaja i internog oglasa pravilnikom propisuje ministar obrane.«.
+
+#### Članak 10.
+
+Članak 36. mijenja se i glasi:
+
+»(1) Osoba može biti primljena kao vojnik/mornar u djelatnu vojnu službu kada osim općih uvjeta za prijam ispunjava i sljedeće posebne uvjete:
+
+– srednjoškolsko obrazovanje
+
+– najviše navršenih 30 godina života do kraja kalendarske godine u kojoj se prima u službu
+
+– uspješno završen program dragovoljnog vojnog osposobljavanja ili uspješno završen program temeljnog vojnog osposobljavanja.
+
+(2) Iznimno od stavka 1. podstavka 1. ovoga članka, osoba može biti primljena kao vojnik/mornar u djelatnu vojnu službu ako ima osnovnoškolsko obrazovanje uz uvjet da do isteka prvoga ugovora o vojničkoj službi uz potporu Ministarstva obrane završi srednjoškolsko obrazovanje.
+
+(3) Osoba iz stavka 2. ovoga članka prvi ugovor o vojničkoj službi na određeno vrijeme potpisuje s Ministarstvom obrane za vrijeme trajanja srednjoškolskog obrazovanja.
+
+(4) Godišnjim planom prijma osoblja iz članka 33. stavka 1. ovoga Zakona mogu se odrediti i dodatni kriteriji za prijam vojnika/mornara ovisno o rodu, službi, vojnostručnoj specijalnosti.
+
+(5) Odabirni postupak za prijam vojnika/mornara propisuje se pravilnikom iz članka 34. stavka 2. ovoga Zakona.«.
+
+#### Članak 11.
+
+U članku 43. stavku 1. podstavak 2. mijenja se i glasi:
+
+» – odslužen vojni rok ili uspješno završen program dragovoljnog vojnog osposobljavanja ili uspješno završen program temeljnog vojnog osposobljavanja ili uspješno završen program obuke za kadete«.
+
+#### Članak 12.
+
+U članku 47. stavku 1. podstavak 2. mijenja se i glasi:
+
+» – da je zdravstveno sposoban za obavljanje poslova radnog mjesta na koje se prima«.
+
+#### Članak 13.
+
+U članku 48. oznaka stavka 1. briše se.
+
+Stavak 2. briše se.
+
+#### Članak 14.
+
+U članku 53. stavku 1. podstavak 2. mijenja se i glasi:
+
+» – kada postoji poseban interes službe koji se mora kod svakog novog rasporeda posebno obrazložiti«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Ustrojbeno mjesto čija je popuna potrebna, a koje se ne može popuniti odgovarajućom djelatnom vojnom osobom, može se popuniti rasporedom službenika ili namještenika odgovarajućeg stupnja obrazovanja za poslove iz članka 6. ovoga Zakona koji su u skladu s poslovima toga ustrojbenog mjesta, čiji raspored može trajati do dvije godine.
+
+(6) Službenici i namještenici raspoređeni na ustrojbena mjesta djelatnih vojnih osoba za vrijeme obavljanja dužnosti imaju prava i obveze kao i djelatne vojne osobe na tim dužnostima.«.
+
+#### Članak 15.
+
+U članku 75. stavak 6. briše se.
+
+Dosadašnji stavak 7., koji postaje stavak 6., mijenja se i glasi:
+
+»(6) Mirovanje službe iz stavaka 1., 3., 4. i 5. ovoga članka upravne su stvari.«.
+
+#### Članak 16.
+
+Članak 78.a mijenja se i glasi:
+
+»(1) Pripadnici Oružanih snaga izabrani u znanstveno-nastavna radna mjesta koji izvode nastavu za potrebe Oružanih snaga mogu zasnovati radni odnos sa Sveučilištem obrane i sigurnosti »Dr. Franjo Tuđman« tako da u Oružanim snagama odnosno Sveučilištu obrane i sigurnosti »Dr. Franjo Tuđman« obavljaju poslove s nepunim radnim vremenom i da njihovo puno radno vrijeme iznosi najviše 48 sati tjedno.
+
+(2) Ministarstvo obrane i Sveučilište obrane i sigurnosti »Dr. Franjo Tuđman« sporazumom će urediti provedbu stavka 1. ovoga članka o izvođenju nastave.«.
+
+#### Članak 17.
+
+U članku 83. stavku 1. podstavku 3. zarez i riječi: »a unutar nje intergranska zapovjedno-stožerna škola za promicanje u čin brigadira/kapetana bojnog broda« zamjenjuju se riječima: »i čin brigadira/kapetana bojnog broda«.
+
+#### Članak 18.
+
+U članku 84. stavak 4. mijenja se i glasi:
+
+»(4) Brigadir/kapetan bojnog broda upućuje se na četvrtu razinu slijedno-rastuće časničke izobrazbe najkasnije u kalendarskoj godini u kojoj navršava 55 godina života. Na četvrtu razinu slijedno-rastuće časničke izobrazbe može se uputiti pukovnik/kapetan fregate najranije u kalendarskoj godini u kojoj navršava dvije godine u činu i najkasnije u kalendarskoj godini u kojoj navršava 52 godine života.«.
+
+Iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Ako se na četvrtu razinu slijedno-rastuće časničke izobrazbe iz stavka 5. ovoga članka upućuju službenici, za vrijeme izobrazbe zadržavaju pravo na plaću svojeg radnog mjesta s kojega su upućeni na izobrazbu.«.
+
+Dosadašnji stavci 6., 7. i 8. postaju stavci 7., 8. i 9.
+
+#### Članak 19.
+
+U članku 97. stavku 1. podstavku 5. riječi: »intergransku zapovjedno-stožernu školu« zamjenjuju se riječima: »slijedno rastuću časničku izobrazbu treće razine«, a riječi; »bez završene intergranske zapovjedno-stožerne škole« zamjenjuju se riječima: »bez završene slijedno-rastuće izobrazbe treće razine«.
+
+#### Članak 20.
+
+U članku 120. stavku 1. riječi: »Djelatne vojne osobe i kadeti« zamjenjuju se riječima: »Vojne osobe«.
+
+U stavku 2. riječi: »djelatne vojne osobe« zamjenjuju se riječima: »vojne osobe«.
+
+#### Članak 21.
+
+Iza članka 130. dodaje se članak 130.a koji glasi:
+
+»Članak 130.a
+
+Odredba članka 130. ovoga Zakona odgovarajuće se primjenjuje i na ročnike na temeljnom vojnom osposobljavanju.«.
+
+#### Članak 22.
+
+Iza članka 132. dodaje se članak 132.a koji glasi:
+
+»Članak 132.a
+
+(1) U svrhu rješavanja stambenog pitanja i poticanja zadržavanja u službi, djelatne vojne osobe mlađe od 45 godina života mogu ostvariti pravo na potporu za stambeno zbrinjavanje.
+
+(2) Podrobniji uvjeti, mjerila i postupak pružanja potpore vezano uz stambeno zbrinjavanje djelatnim vojnim osobama pravilnikom propisuje ministar obrane.«.
+
+#### Članak 23.
+
+U članku 133. iza stavka 13. dodaje se novi stavak 14. koji glasi:
+
+»(14) Prebivalište odnosno boravište djelatne vojne osobe u smislu ovoga Zakona je prebivalište odnosno boravište u skladu s odredbama zakona kojim se uređuje prebivalište i boravište hrvatskih državljana.«.
+
+Dosadašnji stavci 14., 15. i 16. postaju stavci 15., 16. i 17.
+
+#### Članak 24.
+
+Iza članka 137. dodaje se članak 137.a koji glasi:
+
+»Članak 137.a
+
+(1) Ročnik na temeljnom vojnom osposobljavanju ima pravo na plaću umnoška koeficijenta u visini od 90 % vrijednosti koeficijenta osobnog čina vojnika/mornara i osnovice za izračun plaće za vojnika/mornara.
+
+(2) Zaposleni ročnik na temeljnom vojnom osposobljavanju kojem prava iz radnog odnosu miruju u skladu sa zakonom kojim se uređuju radni odnosi, ostvaruje pravo na naknadu u visini plaće iz stavka 1. ovoga članka.«.
+
+#### Članak 25.
+
+Članak 138. mijenja se i glasi:
+
+»(1) Osnovna plaća djelatne vojne osobe uvećat će se za 8 % djelatnim vojnim osobama koje imaju akademski stupanj magistra znanosti odnosno za 15 % djelatnim vojnim osobama koje imaju akademski stupanj doktora znanosti, ako to nije uvjet za obavljanje poslova ustrojbenog mjesta, ali se odnosi na područje kojim se djelatna vojna osoba bavi u okviru poslova svojeg ustrojbenog mjesta.
+
+(2) Osnovna plaća djelatne vojne osobe uvećat će se za 8 % djelatnim vojnim osobama koje su završile sveučilišni specijalistički studij i stekle akademski naziv sveučilišnoga specijalista, ako to nije uvjet za obavljanje poslova ustrojbenog mjesta, ali se odnosi na područje kojim se djelatna vojna osoba bavi u okviru poslova svojeg ustrojbenog mjesta.
+
+(3) Pravo na uvećanje osnovne plaće za 8 % ostvaruju i djelatne vojne osobe koje su završile četvrtu razinu slijedno-rastuće vojne izobrazbe i stekle inozemnu visokoškolsku kvalifikaciju koju je u svrhu stručnog priznavanja priznala nadležna agencija za znanost i visoko obrazovanje u Republici Hrvatskoj.«.
+
+#### Članak 26.
+
+Iza članka 140. dodaje se članak 140.a koji glasi:
+
+»Članak 140.a
+
+Odredbe članka 140. ovoga Zakona odgovarajuće se primjenjuju i na ročnike na temeljnom vojnom osposobljavanju.«.
+
+#### Članak 27.
+
+U članku 145. riječi: »u visini 85 % osnovne plaće« zamjenjuju se riječima: »u visini 90 % osnovne plaće«.
+
+#### Članak 28.
+
+Iza članka 149.a dodaje se članak 149.b koji glasi:
+
+»Članak 149.b
+
+Odredbe članaka 142., 147., 148., 149. i 149.a ovoga Zakona odgovarajuće se primjenjuju i na ročnike na temeljnom vojnom osposobljavanju.«.
+
+#### Članak 29.
+
+Iza članka 154. dodaje se članak 154.a koji glasi:
+
+»Članak 154.a
+
+Odredbe članaka 153. i 154. ovoga Zakona odgovarajuće se primjenjuju i na ročnike na temeljnom vojnom osposobljavanju.«.
+
+#### Članak 30.
+
+U članku 155. ispred riječi: »Djelatnim« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Odredba stavka 1. ovoga članka odgovarajuće se primjenjuje i na ročnike na temeljnom vojnom osposobljavanju.«.
+
+#### Članak 31.
+
+U članku 159. stavku 1. podstavku 12. riječi: »elementarne nepogode« zamjenjuju se riječima: »prirodne nepogode«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Odredbe stavka 1. postavaka 2. i 3. ovoga članka odgovarajuće se primjenjuju i na ročnike na temeljnom vojnom osposobljavanju.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 32.
+
+U članku 180. stavku 2. riječ: »ročnicima« i zarez brišu se.
+
+#### Članak 33.
+
+U članku 181. stavku 1. točki 3. riječi: »u iznosu od 500,00 do 1.500,00 kuna«, zamjenjuju se riječima: »u iznosu od 100,00 eura do 300,00 eura«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Za stegovni postupak ročnika može se izreći odgovarajuća stegovna kazna iz stavka 1. ovoga članka, s time da se stegovni postupak mora provesti po hitnom postupku najkasnije u roku od 30 dana od pokretanja stegovnog postupka.«.
+
+#### Članak 34.
+
+U članku 205. stavku 1. točka 9. mijenja se i glasi:
+
+»9. na temelju rješenja ministra obrane o prestanku službe zbog potreba službe u skladu sa zakonom kojim se uređuju prava iz mirovinskog osiguranja djelatnih vojnih osoba, s posljednjim danom kalendarske godine u kojoj:
+
+– general/admiral ima navršenih 60 godina života
+
+– brigadir/kapetan bojnog broda ima navršenih 58 godina života
+
+– pukovnik/kapetan fregate ima navršenih 57 godina života
+
+– bojnik/kapetan korvete ima navršenih 56 godina života
+
+– satnik/poručnik bojnog broda, natporučnik/poručnik fregate i poručnik/poručnik korvete ima navršene 54 godine života
+
+– časnički namjesnik ima navršenih 56 godina života
+
+– stožerni narednik ima navršenih 55 godina života
+
+– nadnarednik ima navršene 54 godine života
+
+– narednik, desetnik i skupnik ima navršene 53 godine života«.
+
+Točka 14. mijenja se i glasi:
+
+»14. kada je osuđena na kaznu zatvora ili kaznu dugotrajnog zatvora ili djelomičnu uvjetnu osudu za kazneno djelo danom saznanja za pravomoćnost presude, osim ako joj je pravomoćnom presudom izrečena uvjetna osuda ili joj je kazna zatvora zamijenjena radom za opće dobro«.
+
+Točka 17. mijenja se i glasi:
+
+»17. kada je tijekom službe osuđena na kaznu zatvora za kazneno djelo koje je zapreka za prijam, danom saznanja, osim ako joj je pravomoćnom presudom izrečena uvjetna osuda ili joj je kazna zatvora zamijenjena radom za opće dobro«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Iznimno od stavka 1. točke 9. ovoga članka, djelatnu vojnu osobu zbog potreba službe ministar obrane može zadržati u službi najduže do dvije godine iako su ispunjeni uvjeti iz stavka 1. točke 9. ovoga članka.«.
+
+Iza stavka 6. dodaju se stavci 7. i 8. koji glasi:
+
+»(7) Djelatnoj vojnoj osobi iz stavka 1. točke 14. ovoga članka kojoj je izrečena uvjetna osuda, a sud donese odluku o opozivu izrečene uvjetne osude, služba prestaje danom saznanja za pravomoćnost odluke o opozivu uvjetne osude.
+
+(8) Djelatnoj vojnoj osobi iz stavka 1. točke 14. ovoga članka kojoj je kazna zatvora zamijenjena radom za opće dobro, a sud donese odluku kojom određuje izvršenje kazne zatvora u neizvršenom dijelu ili u cijelosti, služba prestaje danom saznanja za pravomoćnost odluke o izvršenju izrečene kazne zatvora.«.
+
+#### Članak 35.
+
+Iza članka 207. dodaje se članak 207.a koji glasi:
+
+»Članak 207.a
+
+Ročniku na temeljnom vojnom osposobljavanju služba prestaje istekom roka na koji je primljen na temeljno vojno osposobljavanje, ako mu služba ne prestane ranije na drugi način propisan ovim Zakonom.«.
+
+#### Članak 36.
+
+U članku 214. stavku 6. riječ: »stručni« briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 37.
+
+(1) Pravilnike donesene na temelju ovlasti iz članka 33. stavka 5., članka 34. stavka 2., članka 120. stavka 3. i članka 139. stavka 6. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18., 125/19., 155/23., 158/23. i 14/24.) i odluku donesenu na temelju ovlasti iz članka 149.a Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18., 125/19., 155/23., 158/23. i 14/24.) ministar obrane uskladit će s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Ministar obrane donijet će pravilnik iz članka 22. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 38.
+
+Ročnici zatečeni na dragovoljnom vojnom osposobljavanju na dan stupanja na snagu ovoga Zakona do završetka programa dragovoljnog vojnog osposobljavanja ostvaruju prava i obveze u skladu sa Zakonom o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18., 125/19., 155/23., 158/23. i 14/24.).
+
+#### Članak 39.
+
+Djelatna vojna osoba koja je do dana stupanja na snagu ovoga Zakona stekla pravo iz članka 138. stavaka 1. i 2. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18., 125/19., 155/23., 158/23. i 14/24.) i koja ima stečeni akademski stupanj odnosno akademski naziv koji nije uvjet za obavljanje poslova ustrojbenog mjesta i ne odnosi se na područje kojim se djelatna vojna osoba bavi u okviru poslova svojeg ustrojbenog mjesta, zadržava pravo na navedeni dodatak do prestanka službe.
+
+#### Članak 40.
+
+Izdvajanje djelatnih vojnih osoba do 31. prosinca 2025. provodit će se u skladu sa Zakonom o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18., 125/19., 155/23., 158/23. i 14/24.) i Planom izdvajanja osoblja za 2025. godinu, klasa: 112-01/25-03/1, urbroj: 512-01-25-13, od 5. veljače 2025.
+
+#### Članak 41.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/64  
+Zagreb, 24. listopada 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

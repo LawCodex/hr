@@ -6,11 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-06-29
+last_amended: 2024-03-06
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "71/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "71/15, 104/17, 36/22, 27/24"
+amendments:
+  - "NN 104/2017 (2383) Zakon o izmjenama i dopunama Stečajnog zakona"
+  - "NN 36/2022 (431) Zakon o izmjenama i dopunama Stečajnog zakona"
+  - "NN 27/2024 (403) Zakon o izmjenama i dopunama Stečajnog zakona"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/71/1365"
 retrieved: 2026-10-12
 ---
@@ -18,6 +22,8 @@ retrieved: 2026-10-12
 # Stečajni zakon
 
 > Izvor: Narodne novine, NN 71/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/71/1365).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 104/2017, NN 36/2022, NN 27/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -5309,3 +5315,1893 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Stečajnog zakona (NN 104/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/104/2383*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA STEČAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Stečajnog zakona, koji je Hrvatski sabor donio na sjednici 13. listopada 2017.
+
+Klasa: 011-01/17-01/85
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 16. listopada 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA STEČAJNOG ZAKONA**
+
+### Članak 1.
+
+U članku 4. stavku 1. Stečajnog zakona (»Narodne novine«, br. 71/15.) riječi: »sud stekne uvjerenje« zamjenjuju se riječima: »predlagatelj učini vjerojatnim«.
+
+U stavku 2. riječi: »nisu nastale okolnosti zbog kojih se smatra da je dužnik postao« zamjenjuju se riječima: »u trenutku podnošenja prijedloga nisu nastale okolnosti zbog kojih se smatra da je dužnik postao trajnije«.
+
+### Članak 2.
+
+U članku 5. iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Dužnik može predložiti otvaranje stečajnoga postupka i ako učini vjerojatnim da svoje već postojeće obveze neće moći ispuniti po dospijeću (prijeteća nesposobnost za plaćanje).
+
+(4) Na prijeteću nesposobnost za plaćanje kao stečajni razlog na odgovarajući način primjenjuju se odredbe članka 4. ovoga Zakona.«.
+
+### Članak 3.
+
+U članku 8. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ako dužnik pojedinac nema sjedište, isključivo je stvarno i mjesno nadležan trgovački sud na čijem se području nalazi prebivalište dužnika pojedinca. Ako dužnik pojedinac nema prebivalište, isključivo je stvarno i mjesno nadležan trgovački sud na čijem se području nalazi boravište dužnika pojedinca.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+### Članak 4.
+
+U članku 15. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ako je pokrenut stečajni postupak, nije dopušteno pokretanje predstečajnoga postupka.«.
+
+### Članak 5.
+
+U članku 16. stavak 4. mijenja se i glasi:
+
+»(4) Prijedlog za otvaranje predstečajnoga postupka može se povući do donošenja rješenja o otvaranju predstečajnoga postupka odnosno donošenja rješenja o odbacivanju prijedloga. U tom slučaju sud donosi rješenje o obustavi predstečajnoga postupka koje se objavljuje na mrežnoj stranici e-Oglasna ploča sudova. Nastale troškove postupka snosi predlagatelj.«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Prijedlog za otvaranje stečajnog postupka može se povući do donošenja rješenja o otvaranju stečajnog postupka odnosno donošenja rješenja o odbacivanju ili odbijanju prijedloga. U tom slučaju sud donosi rješenje o obustavi stečajnoga postupka koje se objavljuje na mrežnoj stranici e-Oglasna ploča sudova. Nastale troškove postupka snosi predlagatelj.«.
+
+Dosadašnji stavci 5. i 6. postaju stavci 6. i 7.
+
+### Članak 6.
+
+U članku 26. podstavak 2. briše se.
+
+Dosadašnji podstavci 3. i 4., koji postaju podstavci 2. i 3., mijenjaju se i glase:
+
+» – izjavu o broju zaposlenih na zadnji dan u mjesecu koji prethodi danu podnošenja prijedloga
+
+– prijedlog plana restrukturiranja.«.
+
+### Članak 7.
+
+Naslov iznad članka 27. mijenja se i glasi: »Prijedlog plana restrukturiranja«.
+
+U uvodnoj rečenici članka 27. riječi: »Plan restrukturiranja« zamjenjuju se riječima: »Prijedlog plana restrukturiranja«.
+
+Točke 8. i 9. mijenjaju se i glase:
+
+»8. ponudu vjerovnicima razvrstanim u skupine odgovarajućom primjenom pravila o razvrstavanju sudionika u stečajnom planu koja sadržava načine, rokove i uvjete namirenja tražbina
+
+9. najavu novoga zaduženja u novcu radi privremenog financiranja, ako je dužnik takvu mjeru restrukturiranja predvidio i«.
+
+### Članak 8.
+
+U članku 32. stavak 2. briše se.
+
+### Članak 9.
+
+U članku 34. stavku 1. podstavku 2. riječi: »15 dana« zamjenjuju se riječima: »21 dan«, riječi: »objave toga« zamjenjuju se riječima: »dostave toga«, a riječi: »osam dana od dana objave o očitovanju« zamjenjuju se riječima: »15 dana od dana dostave očitovanja«.
+
+U podstavku 3. riječ: »osam« zamjenjuje se brojem: »30«, a riječ: »objave« riječju: »dostave«.
+
+U stavku 4. riječ: »plan« zamjenjuje se riječima: »prijedlog plana«.
+
+### Članak 10.
+
+U članku 35. stavku 1. riječi: »osobe koje« zamjenjuju se riječima: »osobni vjerovnici dužnika koji«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Na tražbine otuđene nakon otvaranja predstečajnoga postupka na odgovarajući način primjenjuju se pravila iz članka 146. ovoga Zakona.
+
+(3) Na razlučne vjerovnike kao vjerovnike dužnika u predstečajnom postupku na odgovarajući način primjenjuju se pravila iz članka 153. ovoga Zakona.«.
+
+### Članak 11.
+
+U članku 38. stavku 1. riječi: »u prijavi navesti podatke« zamjenjuju se riječima: »nadležnu jedinicu Financijske agencije u roku za prijavu tražbine obavijestiti«.
+
+U stavku 2. riječi: »u prijavi navesti podatke« zamjenjuju se riječima: »nadležnu jedinicu Financijske agencije u roku za prijavu tražbine obavijestiti«.
+
+U stavku 3. riječ: »prijavi« zamjenjuje se riječju: »obavijesti«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Razlučni i izlučni vjerovnici mogu opozvati svoju izjavu iz stavka 3. ovoga članka najkasnije do početka ročišta za glasovanje o planu restrukturiranja ako su planom restrukturiranja njihova prava smanjena ili je ostvarenje njihovog prava izmijenjeno nakon dane izjave.
+
+(6) Obavijest iz stavaka 1. i 2. ovoga članka i izjave iz stavka 3. ovoga članka podnose se na obrascu za prijavu tražbine vjerovnika u predstečajnom postupku.«.
+
+### Članak 12.
+
+Naslov iznad članka 52. mijenja se i glasi: »Plan restrukturiranja«.
+
+U članku 52. stavak 1. mijenja se i glasi:
+
+»(1) Ako prijedlog plana restrukturiranja ne obuhvaća sve utvrđene i osporene tražbine, dužnik je dužan najkasnije u roku od 21 dan od dana dostave odluke drugostupanjskog suda o žalbi protiv rješenja o utvrđenim i osporenim tražbinama dostaviti sudu plan restrukturiranja kojim su obuhvaćene sve utvrđene i osporene tražbine. Na sadržaj plana restrukturiranja na odgovarajući način primjenjuje se članak 27. ovoga Zakona.«.
+
+### Članak 13.
+
+Iza članka 62. dodaje se naslov iznad članka i članak 62.a koji glase:
+
+*»Preuzimanje novog zaduženja u novcu radi privremenog financiranja*
+
+### Članak 62.a
+
+(1) Dužnik može uz suglasnost vjerovnika koji zajedno imaju više od dvije trećine pravomoćno utvrđenih tražbina preuzeti novo zaduženje u novcu radi privremenog financiranja nastalog da bi se osigurao kontinuitet poslovanja tijekom predstečajnoga postupka.
+
+(2) Suglasnost iz stavka 1. ovoga članka daje se pismeno najkasnije na ročištu za glasovanje o planu restrukturiranja.
+
+(3) U slučaju iz stavka 1. ovog članka, sud će u roku od tri dana od dana kada mu je dužnik dostavio suglasnost potrebnoga broja vjerovnika rješenjem utvrditi da je dužniku dana suglasnost za preuzimanje novog zaduženja u novcu radi privremenog financiranja.
+
+(4) Rješenjem iz stavka 3. ovoga članka sud će utvrditi iznose i uvjete novog zaduženja te rokove u kojima će se namirivati tražbine iz novoga zaduženja.
+
+(5) Rješenje iz stavka 3. ovoga članka sud će bez odgode objaviti na mrežnoj stranici e-Oglasna ploča sudova. Protiv toga rješenja nije dopuštena posebna žalba.
+
+(6) Ako se nad dužnikom otvori stečajni postupak, tražbine vjerovnika koji su dužniku dali novčana sredstva za novo zaduženje u skladu s odredbama ovoga članka namirit će se do iznosa novoga zaduženja prije ostalih stečajnih vjerovnika, osim vjerovnika prvoga višega isplatnog reda.
+
+(7) Pravne radnje poduzete radi preuzimanja novoga zaduženja iz stavka 1. ovoga članka neće se smatrati pravnim radnjama kojima se remeti pravo na ujednačeno namirenje vjerovnika, odnosno kojima bi se pojedini vjerovnici stavljali u povoljniji položaj.«.
+
+### Članak 14.
+
+U članku 63. stavku 1. riječi: »u roku od 120 dana o dana podnošenja prijedloga« zamjenjuju se riječima: »najkasnije u roku od 300 dana od dana otvaranja predstečajnoga postupka«.
+
+U stavku 2. broj: »90« zamjenjuje se brojem: »60«.
+
+### Članak 15.
+
+U članku 64. stavku 1. iza riječi: »obustaviti« dodaje se riječ: »otvoreni«, a točke 2., 3. i 4. brišu se.
+
+Dosadašnje točke 5. do 9. postaju točke 2. do 6.
+
+### Članak 16.
+
+U članku 66. u stavku 1. podstavak 1. mijenja se i glasi:
+
+»− pravo odvojenoga namirenja razlučnih vjerovnika pa i ako oni nisu osobni vjerovnici dužnika te izlučnih vjerovnika«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Otvaranje predstečajnoga postupka ne utječe na kvalificirane financijske ugovore na koje se na odgovarajući način primjenjuju odredbe članka 182. stavaka 6. i 7. ovoga Zakona.”.
+
+### Članak 17.
+
+U članku 67. stavku 1. iza riječi: »poslovanje« dodaju se riječi: »i ispunjavati obveze iz novog zaduženja koje je preuzeo u skladu s člankom 62.a ovoga Zakona«.
+
+### Članak 18.
+
+U članku 79. stavku 1. točki 2. riječ: »ETC« zamjenjuje se riječju: »ECTS«.
+
+U stavku 2. podstavak 5. mijenja se i glasi:
+
+» – koja je nesposobna za plaćanje.«.
+
+### Članak 19.
+
+U članku 81. podstavku 2. točki 5. riječi: »nakon položenoga stručnoga ispita« brišu se.
+
+### Članak 20.
+
+U članku 84. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Stečajni upravitelj može podnijeti zahtjev ministarstvu nadležnom za poslove pravosuđa da ga se privremeno izuzme od izbora za stečajnog upravitelja, u kojem slučaju može nastaviti obavljati dužnost u postupcima u kojima je imenovan, ali ga se izuzima od izbora za stečajnog upravitelja u novim predmetima u razdoblju od dvije godine od dana isteka godine u kojoj je zatražio svoje izuzimanje.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+### Članak 21.
+
+U članku 87. stavku 1. iza riječi: »izabrati drugoga stečajnog upravitelja« dodaju se riječi: »s liste A stečajnih upravitelja«.
+
+### Članak 22.
+
+U članku 91. stavku 5. iza riječi: »osobni zahtjev« dodaju se riječi: »iz opravdanih razloga«.
+
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Pravomoćnošću rješenja o brisanju s liste stečajnih upravitelja stečajnom upravitelju prestaje dužnost, što će sud utvrditi rješenjem u kojem slučaju se na odgovarajući način primjenjuje stavak 8. ovoga članka.«.
+
+### Članak 23.
+
+U članku 96. stavak 4. briše se.
+
+Dosadašnji stavci 5., 6. i 7. postaju stavci 4., 5. i 6.
+
+Stavak 8. briše se.
+
+### Članak 24.
+
+U članku 109. stavku 2. rečenica: »Smatrat će se da je vjerovnik učinio vjerojatnim postojanje svoje tražbine ako njezino postojanje temelji na ovršnoj ispravi ili nepravomoćnoj sudskoj ili upravnoj odluci.« briše se.
+
+U stavku 3. iza riječi: »vjerovnik« dodaju se riječi: »kojemu je dužnik osobno odgovoran«.
+
+U stavku 7. riječ: »osobno« briše se.
+
+### Članak 25.
+
+Članak 138. mijenja se i glasi:
+
+»(1) U tražbine prvog višeg isplatnog reda ulaze:
+
+– tražbine radnika i prijašnjih dužnikovih radnika nastale do otvaranja stečajnog postupka iz radnog odnosa
+
+– tražbine proračuna, zavoda ili fondova u skladu s posebnim propisima u visini pripadajućeg dijela ukupnog troška plaće ili naknade plaće
+
+– otpremnine do iznosa propisanoga zakonom odnosno kolektivnim ugovorom i tražbine po osnovi naknade štete pretrpljene zbog ozljede na radu ili profesionalne bolesti.
+
+(2) U tražbine drugoga višega isplatnog reda ulaze sve ostale tražbine prema dužniku, osim onih koje su razvrstane u niže isplatne redove.
+
+(3) Namirenje utvrđenih tražbina iz stavka 1. ovoga članka provodi se sukladno posebnim propisima koji uređuju isplatu plaće, doprinose za obvezna osiguranja prema plaći te pripadajući porez i prirez.«.
+
+### Članak 26.
+
+U članku 168. stavku 1. riječi: »koje ulazi« zamjenjuju se riječima: »na imovini koja ulazi«.
+
+### Članak 27.
+
+U članku 194. riječi: »na dan otvaranja« zamjenjuju se riječju: »otvaranjem«, a riječi: »toga dana« riječju: »tada«.
+
+### Članak 28.
+
+U članku 213. stavak 1. mijenja se i glasi:
+
+»(1) Ako protivnik pobijanja vrati natrag ono što je primio, njegova tražbina ponovno oživljuje. U tom slučaju protivnik pobijanja ima pravo u roku od 30 dana od dana dostave pravomoćne presude kojom se prihvaća tužbeni zahtjev za pobijanje pravne radnje prijaviti tražbinu stečajnom upravitelju u skladu s člankom 257. ovoga Zakona. Vrijeme između objave poziva za posebno ispitno ročište radi utvrđenja tražbine protivnika pobijanja i dana njegovog održavanja ne smije biti kraće od 15 dana ni duže od 45 dana.«.
+
+U stavku 2. iza riječ: »njegova« dodaje se riječ: »utvrđena«, a iza riječi: »izdvojiti« dodaju se riječi: »ili ako je masa obogaćena vrijednošću činidbe«.
+
+### Članak 29.
+
+U članku 229. stavak 5. briše se.
+
+### Članak 30.
+
+U članku 253. stavku 1. riječi: »tražbine ili unovčenja« zamjenjuju se riječima: »predmeta razlučnoga prava i naknadu troškova njegova unovčenja«.
+
+U stavku 2. riječ: »tražbine« zamjenjuje se riječima: »predmeta razlučnoga prava«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Troškovi utvrđivanja predmeta razlučnoga prava obuhvaćaju troškove utvrđivanja identiteta predmeta razlučnoga prava i troškove utvrđivanja prava koje postoji na njemu.«.
+
+### Članak 31.
+
+U članku 254. stavku 1. riječi: »unovčenja predmeta na kojem postoji razlučno pravo« zamjenjuju se riječima: »utvrđivanja predmeta razlučnoga prava i troškova njegova unovčenja«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Troškovi utvrđivanja predmeta razlučnoga prava određuju se paušalno u iznosu od 5 % od utrška.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Troškovi unovčenja predmeta razlučnoga prava određuju se paušalno u iznosu od 5 % od utrška. Ako su stvarno nastali troškovi unovčenja znatno niži ili viši, odredit će se u stvarnoj visini. Ako je zbog unovčenja stečajna masa opterećena porezom, iznos toga poreza pridodaje se paušalu troškova unovčenja odnosno stvarno nastalim troškovima unovčenja.«.
+
+### Članak 32.
+
+U članku 256. stavku 2. riječi: »stječe sud« zamjenjuju se riječima: »stječe stečajni upravitelj«.
+
+### Članak 33.
+
+U članku 301. stavku 2. broj: »297.« zamjenjuje se brojem: »298.«.
+
+### Članak 34.
+
+U članku 378. stavku 1. riječ: »četiri« zamjenjuje se riječju: »dvije«, riječi: »pet godina« zamjenjuju se riječima: »tri godine«, a riječi: »šest godina« zamjenjuju se riječima: »četiri godine«.
+
+### Članak 35.
+
+Naslov iznad članka i članak 391. brišu se.
+
+### Članak 36.
+
+U članku 394. riječi: »Uredba vijeća (EZ) br. 1346/2000 od 29. svibnja 2000. o stečajnom postupku« zamjenjuju se riječima: »Uredba (EU) 2015/848 Europskog parlamenta i Vijeća od 20. svibnja 2015. o postupku u slučaju nesolventnosti«.
+
+### Članak 37.
+
+(1) Postupci u tijeku dovršit će se prema odredbama zakona koji je bio na snazi u vrijeme njihova pokretanja, osim ako je ovim člankom drukčije propisano.
+
+(2) Odredbe članaka 13. i 17. ovoga Zakona primjenjuju se na postupke pokrenute nakon stupanja na snagu Stečajnog zakona (»Narodne novine«, br. 71/15.) ako na dan stupanja na snagu ovoga Zakona nije održano ročište za glasovanje o planu restrukturiranja.
+
+(3) Odredbe članka 31. stavaka 2. i 3. ovoga Zakona primjenjuju se u stečajnim postupcima koji su u tijeku, bez obzira na to kada su pokrenuti, ako rješenje o dosudi nije steklo svojstvo pravomoćnosti na dan stupanja na snagu ovoga Zakona.
+
+### Članak 38.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/137
+
+Zagreb, 13. listopada 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Stečajnog zakona (NN 36/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/36/431*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA STEČAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Stečajnog zakona, koji je Hrvatski sabor donio na sjednici 11. ožujka 2022.
+
+Klasa: 011-02/22-02/24  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 16. ožujka 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA STEČAJNOG ZAKONA**
+
+#### Članak 1.
+
+U Stečajnom zakonu (»Narodne novine«, br. 71/15. i 104/17.) iza članka 1. dodaje se članak 1.a koji glasi:
+
+*»Pravo Europske unije*
+
+#### Članak 1.a
+
+Ovim se Zakonom u hrvatsko zakonodavstvo preuzima Direktiva (EU) 2019/1023 Europskog parlamenta i Vijeća od 20. lipnja 2019. o okvirima za preventivno restrukturiranje, otpustu duga i zabranama te o mjerama za povećanje učinkovitosti postupaka koji se odnose na restrukturiranje, nesolventnost i otpust duga i o izmjeni Direktive (EU) 2017/1132 (Direktiva o restrukturiranju i nesolventnosti) (SL L 172/18).«.
+
+#### Članak 2.
+
+U članku 2. stavku 1. iza riječi: »vjerovnicima« stavlja se zarez i dodaju riječi: »sprečavanja nesposobnosti plaćanja«.
+
+#### Članak 3.
+
+U članku 3. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Nad dužnikom koji je pravomoćno osuđen za kazneno djelo zlouporabe povjerenja u gospodarskom poslovanju, prijevare u gospodarskom poslovanju, prouzročenja stečaja, pogodovanja vjerovnika ili povrede obveze vođenja trgovačkih i poslovnih knjiga iz Kaznenog zakona Republike Hrvatske predstečajni postupak može se provesti samo ako je dužnik poduzeo primjerene mjere za otklanjanje problema koji su doveli do te osude te je o poduzetim mjerama i njihovim rezultatima obavijestio svoje vjerovnike tijekom pregovora o restrukturiranju i dao im detaljne informacije o poduzetim mjerama i njihovim rezultatima u prijedlogu za otvaranje predstečajnog postupka.«.
+
+#### Članak 4.
+
+Iza članka 7. dodaju se članak 7.a i naslov iznad njega koji glase:
+
+*»Rano upozoravanje dužnika i pristup informacijama*
+
+#### Članak 7.a
+
+(1) Dužniku se osigurava pristup jasnom i transparentnom sustavu ranog upozoravanja na okolnosti koje bi mogle dovesti do prijeteće nesposobnosti plaćanja, posebice u slučaju njegova propuštanja izvršenja određenih vrsta plaćanja, a putem kojeg sustava se dužnik upozorava da je potrebno bez odgode djelovati.
+
+(2) Dužnik se može koristiti uslugama savjetovanja koje pružaju javne ili privatne organizacije, radi izrade strategije na temelju koje bi se izbjegao nastanak prijeteće nesposobnosti za plaćanje.
+
+(3) Poslodavac je dužan najmanje jednom godišnje obavijestiti radnike o novostima u pogledu sustava ranog upozoravanja, kao i postupaka i mjera koji se odnose na restrukturiranje i otpust duga (oslobođenje od preostalih obveza).
+
+(4) Dužnicima i cjelokupnoj javnosti na raspolaganju stoje relevantne i ažurirane informacije o pristupu sustavu ranog upozoravanja, kao i postupcima koji se odnose na restrukturiranje i otpust duga (oslobođenje od preostalih obveza) na mrežnoj stranici e-Oglasna ploča sudova, pri čemu informacije moraju biti lako dostupne i predstavljene na način prilagođen korisnicima.
+
+(5) Na mrežnoj stranici e-Oglasna ploča sudova javno su dostupni podaci o sadržaju i načinu sastavljanja planova restrukturiranja, posebice prilagođeni potrebama mikro, malih i srednjih poduzeća, i to na hrvatskom i engleskom jeziku.
+
+(6) Uspostavu sustava ranog upozoravanja za subjekte malog gospodarstva osigurava ministarstvo nadležno za poduzetništvo i obrt.
+
+(7) Ministar nadležan za poslove pravosuđa uz prethodnu će suglasnost ministra nadležnog za poduzetništvo i obrt te ministra nadležnog za financije pravilnikom urediti sustav iz stavka 1. ovoga članka, način njegova korištenja te način objave informacija iz stavaka 4. i 5. ovoga članka.«.
+
+#### Članak 5.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Sudska pismena dostavljaju se objavom pismena na mrežnoj stranici e-Oglasna ploča sudova, ako ovim Zakonom nije drukčije određeno.
+
+(2) Iznimno od stavka 1. ovoga članka, dostava pismena između suda i Financijske agencije kao tijela koje poduzima radnje sukladno odredbama ovoga Zakona i postupa po odlukama suda obavlja se putem jedinstvenog informacijskog sustava eSpis.
+
+(3) Dostava iz stavka 1. smatra se obavljenom istekom osmoga dana od dana objave pismena na mrežnoj stranici e-Oglasna ploča sudova.
+
+(4) Objava pismena na mrežnoj stranici e-Oglasna ploča sudova smatra se dokazom da je dostava obavljena svim sudionicama i onima za koje ovaj Zakon propisuje posebnu dostavu, osim u slučaju dostave Financijskoj agenciji iz stavka 2. ovoga članka.
+
+(5) U svakom sudu posebno za svakog dužnika vodit će se očevidnik pismena dostavljenih preko mrežne stranice e-Oglasna ploča sudova u elektroničkom obliku prema redoslijedu objave. Očevidnik pismena je javan i mora biti dostupan zainteresiranim osobama tijekom cijeloga radnog vremena suda.
+
+(6) U očevidnik pismena iz stavka 3. ovoga članka unosit će se podaci na temelju kojih se može utvrditi istovjetnost dužnika, broj predmeta, vrsta sudskoga pismena i dan objave pismena na mrežnoj stranici e-Oglasna ploča sudova.
+
+(7) Pismena koja Financijska agencija kao tijelo koje poduzima radnje sukladno odredbama ovoga Zakona dostavlja sudu putem jedinstvenog informacijskog sustava eSpis ovjeravaju se elektroničkim pečatom Financijske agencije.«.
+
+#### Članak 6.
+
+U članku 13. stavku 4. iza riječi: »nedopušten« stavlja se zarez i dodaju riječi: »osim ako podnesak sadrži sve podatke koji moraju biti navedeni u obrascu«.
+
+#### Članak 7.
+
+Iza članka 13. dodaju se članak 13.a i naslov iznad članka koji glase:
+
+*»Uporaba elektroničkih sredstava komunikacije*
+
+#### Članak 13.a
+
+(1) U predstečajnom i stečajnom postupku mogu se upotrebljavati elektronička sredstva komunikacije, uz odgovarajuću primjenu pravila parničnog postupka pred trgovačkim sudovima.
+
+(2) U prekograničnim slučajevima može se putem elektroničkih sredstava komunikacije:
+
+– podnijeti prijava tražbine
+
+– podnijeti plan restrukturiranja ili plan otplate
+
+– poslati obavijesti vjerovnicima i
+
+– podnositi prigovore odnosno pravne lijekove.«.
+
+#### Članak 8.
+
+U članku 19. stavku 8. riječi: »samo ako odluka drugostupanjskoga suda ovisi o rješenju nekoga materijalnopravnog ili postupovnopravnog pitanja važnog za osiguravanje jedinstvene primjene zakona i ravnopravnosti građana« zamjenjuju se riječima: »odgovarajućom primjenom pravila o reviziji u parničnom postupku«.
+
+#### Članak 9.
+
+Iza članka 20. dodaju se članci 20.a i 20.b s naslovima iznad članaka koji glase:
+
+*»Dužnosti direktora odnosno uprave društava u slučaju vjerojatnosti nastanka nesposobnosti za plaćanje*
+
+#### Članak 20.a
+
+Direktori odnosno uprava društva dužni su u slučaju vjerojatnosti nastanka nesposobnosti za plaćanje uzeti u obzir:
+
+1. interese vjerovnika, nositelja udjela i drugih osoba s posebnim interesom u skladu s člankom 232. ovoga Zakona
+
+2. poduzimanje mjera kojima bi se izbjegla nesposobnost za plaćanje
+
+3. izbjegavanje namjernih radnji ili radnji iz krajnje nepažnje kojima se ugrožava održivost poslovanja.
+
+*Prikupljanje podataka*
+
+#### Članak 20.b
+
+(1) Ministarstvo nadležno za poslove pravosuđa prikupljat će i generirati na godišnjoj osnovi i nacionalnoj razini podatke o postupcima koji se odnose na restrukturiranje, nesolventnost i otpust duga, po vrsti postupaka, te koji obuhvaćaju sljedeće elemente:
+
+– broj postupaka za koje je podnesen zahtjev za pokretanje ili su pokrenuti, ako je njihovo pokretanje predviđeno ovim Zakonom, te postupaka koji su u tijeku ili su okončani
+
+– prosječnu duljinu trajanja postupaka do predaje zahtjeva ili do njihova pokretanja, ako je njihovo pokretanje predviđeno ovim Zakonom, do njihova okončanja
+
+– broj zahtjeva za postupke restrukturiranja koji su proglašeni nedopuštenima, odbijeni ili su povučeni prije pokretanja
+
+– broj postupaka koji nisu oni koji se zahtijevaju prethodnim podstavkom, raščlanjenih po vrstama ishoda.
+
+(2) Ministarstvo nadležno za poslove pravosuđa prikupljat će i generirati na godišnjoj osnovi i nacionalnoj razini podatke o broju dužnika koji su podlijegali postupcima restrukturiranja ili postupcima u slučaju nesolventnosti i kojima je u razdoblju od tri godine prije podnošenja zahtjeva ili pokretanja takvih postupaka, ako je takvo pokretanje predviđeno važećim propisima, potvrđen plan restrukturiranja u okviru prethodnog postupka restrukturiranja.
+
+(3) Ministarstvo nadležno za poslove pravosuđa prikupljat će i generirati na godišnjoj osnovi i nacionalnoj razini podatke o:
+
+– prosječnom trošku svake vrste postupka
+
+– prosječnim stopama naplate za osigurane i neosigurane vjerovnike i, ako je to moguće, za ostale vrste vjerovnika, odvojeno
+
+– broju poduzetnika koji su nakon provedenog postupka iz stavka 1. ovoga članka pokrenuli novi posao
+
+– broju izgubljenih radnih mjesta povezanih s postupcima restrukturiranja i postupcima u slučaju insolventnosti.
+
+(4) Ministarstvo nadležno za poslove pravosuđa prikupljat će podatke iz stavka 1. ovoga članka i, ako je to moguće i dostupno, podatke iz stavka 3. ovoga članka prema sljedećim kriterijima:
+
+– veličini dužnika koji nisu fizičke osobe
+
+– jesu li dužnici koji podliježu postupcima koji se odnose na restrukturiranje ili nesolventnost fizičke ili pravne osobe i
+
+– odnose li se postupci koji vode do otpusta duga samo na poduzetnike ili na sve fizičke osobe.
+
+(5) Ministarstvo nadležno za poslove pravosuđa može prikupljati i generirati podatke iz stavaka od 1. do 4. ovoga članka s pomoću metode uzoraka kojom se osigurava da su uzorci reprezentativni u odnosu na veličinu i raznolikost.
+
+(6) Ministar nadležan za poslove pravosuđa propisat će pravilnikom način i kriterije prikupljanja podataka o postupcima koji se odnose na restrukturiranje, nesolventnost i otpust duga.«.
+
+#### Članak 10.
+
+U članku 23. stavku 2. riječi: »donošenja rješenja o potvrdi predstečajnoga sporazuma« zamjenjuju se riječima: »pravomoćnosti plana restrukturiranja«.
+
+#### Članak 11.
+
+U članku 24. iza točke 6. dodaju se nove točke 7. i 8. koje glase:
+
+»7. pružati pomoć dužniku u izradi plana restrukturiranja ili u pregovorima o tom planu
+
+8. preuzeti djelomično upravljanje nad imovinom ili poslovima dužnika tijekom pregovora, osim u dijelu u kojem dužnik može slobodno raspolagati prema odredbama ovoga Zakona«.
+
+Dosadašnje točke 7. i 8. postaju točke 9. i 10.
+
+Iza dosadašnje točke 8., koja postaje točka 10., dodaje se točka 11. koja glasi:
+
+»11. podnositi na propisanom obrascu izvješća sudu o tijeku predstečajnoga postupka«.
+
+Dosadašnja točka 9. postaje točka 12.
+
+#### Članak 12.
+
+U članku 25. stavku 1. riječi: »ili vjerovnik, ako se dužnik suglasi s tim prijedlogom« brišu se.
+
+Stavak 2. briše se.
+
+#### Članak 13.
+
+U članku 26. ispred riječi: »Podnositelj« stavlja se oznaka stavka: »(1)«.
+
+U podstavku 3. iza riječi: »restrukturiranja« dodaju se riječi: »ako je izrađen«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Ako plan restrukturiranja nije podnesen, uz prijedlog za otvaranje predstečajnog postupka plan se sudu mora podnijeti najkasnije u roku od 21 dana od dana pravomoćnosti rješenja o utvrđenim i osporenim tražbinama odnosno od dana dostave odluke drugostupanjskog suda o žalbi protiv rješenja o utvrđenim i osporenim tražbinama.«.
+
+#### Članak 14.
+
+Iza članka 26. dodaju se članak 26.a i naslov iznad članka koji glase:
+
+*»Pravo podnošenja plana restrukturiranja*
+
+#### Članak 26.a
+
+Pravo podnošenja plana restrukturiranja ima dužnik.«.
+
+#### Članak 15.
+
+U članku 27. dodaju se nove točke 1. do 4. koje glase:
+
+»1. podatke o identitetu dužnika
+
+2. podatke o identitetu povjerenika, ako se prijedlog plana restrukturiranja podnosi nakon otvaranja predstečajnoga postupka
+
+3. podatke o imovini i vrijednosti imovine dužnika u trenutku podnošenja plana restrukturiranja
+
+4. opis ekonomske situacije dužnika i položaja radnika te opis razloga i razmjer poteškoća dužnika.«.
+
+Dosadašnje točke 1. i 2. postaju točke 5. i 6.
+
+U dosadašnjoj točki 3., koja postaje točka 7., iza riječi: »restrukturiranja« stavlja se zarez i dodaju riječi: »uz vremensku naznaku njihova trajanja,«.
+
+U dosadašnjoj točki 4., koja postaje točka 8., iza riječi: »restrukturiranja« stavlja se zarez i dodaju riječi: »uz vremensku naznaku njihova trajanja,«, a iza riječi: »poslovanje« stavlja se zarez i dodaju riječi: »uz posebnu naznaku mogućih općih posljedica u pogledu zapošljavanja, kao što su moguća otpuštanja, rad na kraće vrijeme i slično«.
+
+Dosadašnje točke 5. do 8. postaju točke 9. do 12.
+
+U dosadašnjoj točki 9., koja postaje točka 13., iza riječi: »najavu« riječ: »novoga« briše se, a riječ: »privremenog« zamjenjuje se riječju: »novoga«.
+
+Iza dosadašnje točke 10., koja postaje točka 14., briše se točka te se iza nje dodaju točke 15. do 17. koje glase:
+
+»15. naznaku kategorija tražbina na koje plan restrukturiranja sukladno zakonu ne utječe
+
+16. način obavještavanja radnika i način obavljanja savjetovanja s njima
+
+17. obrazloženje u kojem se razjašnjava zašto plan restrukturiranja ima razumne izglede za sprječavanje nesposobnosti dužnika za plaćanje i osiguravanje održivosti poslovanja, uključujući potrebne pretpostavke za uspjeh plana.«.
+
+#### Članak 16.
+
+U članku 32. stavku 1. točki 2. riječi: »predstečajnog sporazuma« zamjenjuju se riječima: »plana restrukturiranja«.
+
+#### Članak 17.
+
+U članku 33. stavku 2. zarez i riječi: »ako imenovanje povjerenika smatra potrebnim« brišu se.
+
+U stavku 4. riječ: »stečajnoga« zamjenjuje se riječju: »predstečajnog«.
+
+#### Članak 18.
+
+U članku 36. stavku 4. na kraju rečenice umjesto točke stavlja se zarez te se dodaju riječi: »ako je dužnik uz prijedlog za otvaranje predstečajnog postupka dostavio plan prijedloga restrukturiranja.«.
+
+#### Članak 19.
+
+Članak 37. i naslov iznad članka brišu se.
+
+#### Članak 20.
+
+U članku 38. stavku 1. riječi: »za prijavu tražbine« zamjenjuju se riječima: »od 21 dana od dostave plana restrukturiranja«.
+
+U stavku 2. riječi: »za prijavu tražbine« zamjenjuju se riječima: »od 21 dana od dostave plana restrukturiranja«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Plan restrukturiranja ne smije zadirati u pravo razlučnih vjerovnika na namirenje iz predmeta na kojima postoje prava odvojenoga namirenja, ako tim planom nije izrijekom drukčije određeno. Ako je planom restrukturiranja drukčije određeno, za razlučne vjerovnike posebno će se navesti u kojem se dijelu njihova prava smanjuju, na koje se vrijeme odgađa namirenje i koje druge odredbe plana restrukturiranja prema njima djeluju.«.
+
+#### Članak 21.
+
+Naslov iznad članka 39. mijenja se i glasi: »Tražbine vjerovnika na koje predstečajni postupak utječe«.
+
+Članak 39. mijenja se i glasi:
+
+»Vjerovnici na koje predstečajni postupak utječe mogu svoje tražbine prema dužniku ostvarivati samo u predstečajnom postupku.«.
+
+#### Članak 22.
+
+U članku 46. stavak 1. mijenja se i glasi:
+
+»(1) Sud rukovodi ispitnim ročištem.«.
+
+U stavku 4. riječi: »ako je imenovan« brišu se.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Na ročištu za ispitivanje tražbina izjavljeno osporavanje može se otkloniti.«.
+
+#### Članak 23.
+
+U članku 47. riječi: »ako je imenovan« brišu se.
+
+#### Članak 24.
+
+U članku 48. stavku 3. riječi: »ako je imenovan« brišu se te se u zadnjoj rečenici umjesto točke stavlja zarez i dodaju riječi: »a na svoj trošak.«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Ako za tražbinu postoji ovršna isprava, sud će na parnicu uputiti osporavatelja da dokaže osnovanost svoga osporavanja.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 25.
+
+U članku 50. stavak 3. mijenja se i glasi:
+
+»(3) U parnici iz stavka 2. ovoga članka može se zahtijevati utvrđenje tražbine samo na temelju osnove i u iznosu kako je naznačeno u prijavi ili na ispitnom ročištu. Uz zahtjev za utvrđenje osnovanosti osporene tražbine za koju ne postoji ovršna isprava vjerovnik može zahtijevati namirenje tražbine u opsegu koji je određen potvrđenim planom restrukturiranja, ako se parnica pokreće nakon potvrde plana restrukturiranja.«.
+
+Iza stavka 3. dodaju se novi stavak 4. i stavci 5. i 6. koji glase:
+
+»(4) Ako je osporena tražbina za koju postoji ovršna isprava, u parnici se može zahtijevati utvrđivanje osnovanosti osporavanja na temelju ovršne isprave koja je predmet prijave tražbine i u iznosu kako je naznačeno u prijavi ili na ispitnom ročištu. Ako osporavatelj ne uspije u parnici, vjerovnik osporene tražbine može na temelju ovršne isprave koja je bila predmet osporavanja zahtijevati ovrhu u opsegu određenom potvrđenim planom restrukturiranja.
+
+(5) Ako se parnica pokreće nakon obustave predstečajnog postupka, vjerovnik može zahtijevati ispunjenje tražbine u cijelosti.
+
+(6) U predstečajnom postupku na odgovarajući se način primjenjuje odredba članka 268. ovoga Zakona.«.
+
+Dosadašnji stavak 4. postaje stavak 7.
+
+#### Članak 26.
+
+U članku 52. stavku 1. u prvoj rečenici iza riječi: »21 dan od dana« dodaju se riječi: »pravomoćnosti rješenja o utvrđenim i osporenim tražbinama odnosno od dana«.
+
+U stavku 2. iza riječi: »restrukturiranja« dodaju se riječi: »koji je podnesen prije donošenja rješenja o utvrđenim i osporenim tražbinama.«.
+
+#### Članak 27.
+
+U naslovu iznad članka 55. iza riječi: »Ročište za« dodaju se riječi: »raspravljanje i«.
+
+U stavcima 4. i 5. riječi: »ako je imenovan« brišu se.
+
+#### Članak 28.
+
+U članku 58. stavku 1. riječi: »protiv plana« zamjenjuju se riječima: »za plan«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+#### Članak 29.
+
+U članku 59. stavku 1. u drugoj rečenici riječi: »stečajnom planu« zamjenjuju se riječima: »planu restrukturiranja«. Iza druge rečenice dodaje se treća rečenica koja glasi: »Svim vjerovnicima iste skupine osiguravaju se ista prava te se oni namiruju razmjerno njihovoj tražbini.«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Smatrat će se da su vjerovnici prihvatili plan restrukturiranja ako je u svakoj skupini većina vjerovnika glasovala za plan te zbroj tražbina vjerovnika koji su glasovali za plan dvostruko prelazi zbroj tražbina vjerovnika koji su glasovali protiv plana.«.
+
+#### Članak 30.
+
+Iza članka 59. dodaju se članak 59.a i naslov iznad članka koji glase:
+
+*»Većinska odluka skupina vjerovnika*
+
+#### Članak 59.a
+
+(1) Ako u određenoj skupini vjerovnika nije postignuta potrebna većina iz članka 59. stavka 2. ovoga Zakona, a sve ostale pretpostavke za potvrdu plana restrukturiranja iz članka 61. ovoga Zakona su ispunjene, na prijedlog dužnika ili uz njegovu suglasnost, smatrat će se da je ta skupina prihvatila plan i sud će potvrditi plan restrukturiranja ako su ispunjeni sljedeći uvjeti:
+
+1. vjerovnici te skupine planom restrukturiranja nisu stavljeni u lošiji položaj od onoga u kojem bi bili da plana restrukturiranja nema
+
+2. vjerovnici te skupine primjereno sudjeluju u gospodarskim koristima koje bi sudionicima trebale pripasti na temelju plana restrukturiranja
+
+3. većina skupina vjerovnika prihvatila je plan restrukturiranja s potrebnom većinom, s tim što najmanje jedna od skupina vjerovnika koja je prihvatila plan ne smije biti skupina vjerovnika koji su nositelji udjela ili skupina vjerovnika s tražbinama nižih isplatnih redova u smislu članka 139. ovoga Zakona.
+
+(2) Smatrat će se da primjereno sudjelovanje vjerovnika skupine u gospodarskim koristima u smislu stavka 1. točke 2. ovoga članka postoji ako prema planu restrukturiranja:
+
+1. nijedan vjerovnik neće primiti imovinsku korist koja prelazi iznos njegove tražbine
+
+2. vjerovnici skupine koja je odbila prihvatiti plan stavljeni su barem u isti položaj kao i druge skupine vjerovnika s tražbinama koje bi u slučaju otvaranja stečajnog postupka bile istog isplatnog reda
+
+3. vjerovnici skupine koja je odbila prihvatiti plan stavljeni su u bolji položaj od vjerovnika drugih skupina s tražbinama koje bi u slučaju otvaranja stečajnog postupka bile nižeg isplatnog reda i
+
+4. dužnik ili osoba koja u njemu ima udjel neće primiti imovinsku korist.«.
+
+#### Članak 31.
+
+Naslov iznad članka 60. mijenja se i glasi: »Odgoda ročišta za raspravljanje i glasovanje o planu restrukturiranja«.
+
+#### Članak 32.
+
+Naslov iznad članka 61. mijenja se i glasi: »Odlučivanje o potvrdi plana restrukturiranja«.
+
+Članak 61. mijenja se i glasi:
+
+»(1) Nakon što vjerovnici prihvate plan restrukturiranja i dužnik da svoj pristanak na njega, sud će odlučiti o tome hoće li plan restrukturiranja potvrditi.
+
+(2) Pravila ovoga Zakona o pristanku dužnika na stečajni plan odgovarajuće se primjenjuju na pristanak dužnika na plan restrukturiranja.
+
+(3) Sud će po službenoj dužnosti uskratiti potvrdu plana restrukturiranja:
+
+1. ako je dužnik sposoban za plaćanje i ne postoji prijeteća nesposobnost za plaćanje njegovih obveza
+
+2. ako su bitno povrijeđena pravila o sadržaju plana restrukturiranja i postupanja tijekom njegove izrade i donošenja, kao i o prihvatu od vjerovnika i o pristanku dužnika, osim ako se nedostatak može otkloniti u kratkom roku koji će odrediti sud
+
+3. ako je prihvat plana restrukturiranja postignut na nedopušten način, osobito stavljanjem u povoljniji položaj pojedinih vjerovnika
+
+4. ako planom restrukturiranja nije određeno namirenje iznosa koji bi vjerovnici dobili da njihova tražbina nije osporena
+
+5. ako je planom restrukturiranja predloženo pretvaranje tražbine jednog ili više vjerovnika u temeljni kapital dužnika, a članovi dužnika nisu u skladu sa Zakonom o trgovačkim društvima donijeli odluku kojom se to dopušta
+
+6. ako se planom restrukturiranja u svrhu njegova ostvarenja predviđa novo financiranje koje neopravdano oštećuje interese vjerovnika ili
+
+7. ako očito ne postoje razumni izgledi da bi plan restrukturiranja mogao spriječiti nastanak nesposobnosti plaćanja ili osigurati održivost poslovanja.
+
+(4) Sud će na prijedlog vjerovnika, dužnika, dioničara, nositelja udjela te nositelja drugih osnivačkih prava pravnih osoba uskratiti potvrdu plana restrukturiranja ako je podnositelj prijedloga:
+
+– planu restrukturiranja prigovorio najkasnije na ročištu za raspravljanje i glasovanje pismeno ili usmeno na zapisnik i
+
+– planom restrukturiranja stavljen u lošiji položaj od onoga u kojem bi bio da plana nema.
+
+(5) Prijedlog iz stavka 4. ovoga članka dopušten je samo ako podnositelj prijedloga učini vjerojatnim da je planom restrukturiranja stavljen u lošiji položaj.
+
+(6) Radi utvrđenja je li sudionik plana restrukturiranja stavljen u lošiji položaj od onoga u kojem bi bio da plana nema sud može izvesti dokaz vještačenjem na trošak sudionika plana restrukturiranja koji tvrdi da je planom stavljen u lošiji položaj.«.
+
+#### Članak 33.
+
+Iza članka 61. dodaju se članci 61.a i 61.b i naslovi iznad članaka koji glase:
+
+*»Rješenje suda o planu restrukturiranja*
+
+#### Članak 61.a
+
+(1) Ako nisu ispunjene pretpostavke za potvrdu plana restrukturiranja, sud će rješenjem uskratiti potvrdu plana restrukturiranja i obustaviti predstečajni postupak.
+
+(2) Ako su ispunjene pretpostavke za potvrdu plana restrukturiranja, sud će rješenjem potvrditi plan restrukturiranja.
+
+(3) Rješenje iz stavaka 1. i 2. ovoga članka objavljuje se na mrežnoj stranici e-Oglasna ploča sudova.
+
+(4) Sud će u rješenju iz stavaka 1. i 2. ovoga članka odrediti da se uskrata potvrde plana restrukturiranja i obustava predstečajnog postupka odnosno potvrda plana restrukturiranja upišu u registre, javne knjige, upisnike i očevidnike iz članka 34. stavka 3. ovoga Zakona.
+
+(5) Pravomoćno rješenje iz stavaka 1. i 2. ovoga članka sud će bez odgode dostaviti Financijskoj agenciji.
+
+*Pravni lijek*
+
+#### Članak 61.b
+
+(1) Protiv rješenja kojim se plan restrukturiranja potvrđuje ili se potvrda plana restrukturiranja uskraćuje sudionici plana restrukturiranja imaju pravo na žalbu.
+
+(2) Žalba protiv rješenja kojim se plan restrukturiranja potvrđuje dozvoljena je samo ako je podnositelj žalbe:
+
+1. prigovorio planu u postupku glasanja o njemu
+
+2. glasao protiv plana i
+
+3. učinio vjerojatnim da je planom stavljen u lošiji položaj od onoga u kojem bi bio da plana nema i da se primijene isplatni redovi iz članaka 138. i 139. ovoga Zakona.
+
+(3) Žalba protiv rješenja kojim se plan restrukturiranja potvrđuje ne odgađa provedbu tog plana, ali sud može na prijedlog podnositelja žalbe odgoditi provedbu plana restrukturiranja ili njegovih dijelova, ako je to potrebno da bi se otklonilo nastupanje teške i nepopravljive štete za žalitelja koja bi nadišla prednosti neodgodive provedbe plana.«.
+
+#### Članak 34.
+
+U naslovu iznad članka 62. riječi: »predstečajnog sporazuma« zamjenjuju se riječima: »plana restrukturiranja«.
+
+Stavak 1. mijenja se i glasi:
+
+»(1) Potvrđeni plan restrukturiranja ima pravni učinak prema svim njegovim sudionicima. Tražbina vjerovnika koji svoju tražbinu nije prijavio u predstečajni postupak, premda je uredno bio obaviješten o njegovu otvaranju, može se namiriti samo na način, u rokovima i pod uvjetima koje predviđa plan restrukturiranja za tražbine skupine vjerovnika kojoj bi dotični vjerovnik pripadao da je prijavio tražbinu.«.
+
+U stavku 2. riječi: »predstečajnog sporazuma« zamjenjuju se riječima: »plana restrukturiranja«, a riječi: »predstečajnoga sporazuma« zamjenjuju se riječima: »plana restrukturiranja«.
+
+U stavku 3. riječi: »predstečajnim sporazumom« zamjenjuju se riječima: »planom restrukturiranja«.
+
+U stavku 4. riječi: »predstečajni sporazum« zamjenjuju se riječima: »plan restrukturiranja«.
+
+#### Članak 35.
+
+Naslov iznad članka 62.a mijenja se i glasi: »Privremeno i novo financiranje«.
+
+Članak 62.a mijenja se i glasi:
+
+»(1) Dužnik može, uz suglasnost vjerovnika koji zajedno imaju više od dvije trećine pravomoćno utvrđenih tražbina, predložiti preuzimanje novog zaduženja u novcu od postojećeg ili novog vjerovnika radi privremenog financiranja koje je opravdano i hitno potrebno da bi se osigurao kontinuitet poslovanja i uvećala vrijednost imovine tijekom predstečajnoga postupka.
+
+(2) Suglasnost iz stavka 1. ovoga članka daje se u pisanom obliku najkasnije na ročištu za glasovanje o planu restrukturiranja.
+
+(3) Sud će u roku od tri dana od dostave prijedloga iz stavka 1. ovoga članka ispitati je li suglasnost dao potreban broj vjerovnika i je li zaduženje za privremeno financiranje opravdano i hitno potrebno da bi se osigurao kontinuitet poslovanja i uvećala vrijednost imovine tijekom predstečajnoga postupka.
+
+(4) Ako novo zaduženje radi privremenog financiranja ispunjava pretpostavke iz stavka 1. ovoga članka, sud će svojim rješenjem utvrditi iznose i uvjete zaduženja te rokove u kojima će se namirivati tražbine iz tog zaduženja.
+
+(5) Rješenje iz stavka 4. ovoga članka sud će bez odgode objaviti na mrežnoj stranici e-Oglasna ploča sudova. Protiv toga rješenja nije dopuštena posebna žalba.
+
+(6) Dužnik može u planu restrukturiranja predvidjeti novo financiranje od strane postojećeg ili novog vjerovnika, a koje je potrebno za provedbu plana restrukturiranja te neopravdano ne oštećuje interese vjerovnika, pri čemu je taj vjerovnik kao sudionik uključen u plan restrukturiranja.
+
+(7) Ako se naknadno nad dužnikom otvori stečajni postupak, tražbine vjerovnika s osnove privremenog financiranja iz stavka 1. ovoga članka i tražbine vjerovnika s osnove novog financiranja iz stavka 6. ovoga članka namirit će se prije ostalih stečajnih vjerovnika, osim vjerovnika prvoga višega isplatnog reda.
+
+(8) Ako se naknadno nad dužnikom otvori stečajni postupak, privremeno financiranje iz stavka 1. ovoga članka i novo financiranje iz stavka 6. ovoga članka ne mogu se pobijati i davatelji takvih financiranja ne podliježu odgovornosti s obrazloženjem da ono šteti sveukupnosti vjerovnika, osim ako se utvrdi da bi bilo riječi o povredi načela savjesnosti i poštenja, sukobu interesa davatelja osiguranja ili kaznenom djelu.«.
+
+#### Članak 36.
+
+Iza članka 62.a dodaju se članak 62.b i naslov iznad članka koji glase:
+
+*»Zaštita drugih transakcija povezanih s restrukturiranjem*
+
+#### Članak 62.b
+
+(1) Ako se naknadno nad dužnikom otvori stečajni postupak, transakcije koje su opravdane i hitno potrebne za pregovore o planu restrukturiranja ne mogu se pobijati, osim ako bi bila riječ o kaznenom djelu, povredi načela savjesnosti i poštenja te sukobu interesa protivne strane.
+
+(2) Transakcije iz stavka 1. ovoga članka odnose se, primjerice, na:
+
+1. plaćanje naknada i troškova vezanih za pregovore, prihvat ili potvrdu plana restrukturiranja
+
+2. plaćanje naknada i troškova za uzimanje stručnog savjetovanja usko povezanog s restrukturiranjem
+
+3. isplatu plaća radnicima za već obavljeni posao
+
+4. sva ostala plaćanja i izdatke nastale u redovitom tijeku poslovanja.
+
+(3) Ako se naknadno nad dužnikom otvori stečajni postupak, transakcije koje su opravdane i hitno potrebne za provedbu plana restrukturiranja i koje se u skladu s planom restrukturiranja koji je sud potvrdio provode ne mogu se pobijati s obrazloženjem da one štete materijalnim pravima vjerovnika, osim ako bi bila riječ o kaznenom djelu, povredi načela savjesnosti i poštenja te sukobu interesa protivne strane.«.
+
+#### Članak 37.
+
+U članku 63. stavku 1. broj: »300« zamjenjuje se brojem: »120«.
+
+Stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Iznimno od odredbe stavka 1. ovoga članka, sud može, na prijedlog dužnika, vjerovnika ili povjerenika, dopustiti produženje roka najviše za daljnjih 180 dana ako smatra da je postignut napredak u pregovorima o planu restrukturiranja i da postoji vjerojatnost uspješnog okončanja predstečajnog postupka.
+
+(3) Sud može obustaviti predstečajni postupak ako je dužnik pridonio dužem trajanju predstečajnog postupka od rokova iz stavaka 1. i 2. ovoga članka.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Sud će na prijedlog dužnika, vjerovnika ili povjerenika ukinuti zabranu provedbe ovršnih postupaka i postupaka osiguranja protiv dužnika te obustaviti predstečajni postupak ako postane očito da dio vjerovnika koji bi mogao spriječiti donošenje plana restrukturiranja ne podupire nastavak pregovora o planu restrukturiranja.«.
+
+#### Članak 38.
+
+U članku 64. stavku 1. iza točke 5. dodaje se nova točka 6. koja glasi:
+
+»6. ako utvrdi da vjerovnici neće prihvatiti plan restrukturiranja«.
+
+Dosadašnja točka 6. postaje točka 7.
+
+#### Članak 39.
+
+Naslov iznad članka 66. mijenja se i glasi: »Tražbine i prava na koje predstečajni postupak ne utječe«.
+
+Članak 66. mijenja se i glasi:
+
+»(1) Predstečajni postupak ne utječe na:
+
+1. tražbine sadašnjih i prijašnjih radnika dužnika iz radnoga odnosa u bruto iznosu, otpremnine do iznosa propisanoga zakonom odnosno kolektivnim ugovorom i tražbine po osnovi naknade štete pretrpljene zbog ozljede na radu ili profesionalne bolesti
+
+2. tražbine po osnovi namjerno počinjene nedopuštene radnje
+
+3. novčane kazne izrečene za kazneno ili prekršajno djelo i troškove kaznenoga ili prekršajnog postupka te
+
+4. tražbine za uzdržavanje koje proizlaze iz obiteljskog odnosa, roditeljstva, braka ili tazbinskog srodstva.
+
+(2) Predstečajni postupak ne utječe na kvalificirane financijske ugovore na koje se na odgovarajući način primjenjuju odredbe članka 182. stavaka 6. i 7. ovoga Zakona.
+
+(3) Tražbine iz stavaka 1. i 2. ovoga članka ne mogu biti predmet plana restrukturiranja.
+
+(4) Prava razlučnih vjerovnika mogu se ograničiti planom restrukturiranja i bez njihove suglasnosti, ali oni ne smiju biti stavljeni u lošiji položaj od onoga u kojem bi bili da plana nema i da je otvoren stečajni postupak.
+
+(5) Izlučni vjerovnici mogu sudjelovati u planu restrukturiranja samo ako izričito i dobrovoljno pristanu na to.
+
+(6) Predstečajni postupak ne utječe na pojedinačna i kolektivna prava radnika koja proizlaze iz domaćeg radnog prava i radnog prava Europske unije, kao što su sljedeća:
+
+1. pravo na kolektivno pregovaranje i industrijske akcije
+
+2. pravo na obavješćivanje i savjetovanje:
+
+– obavješćivanje radnika o najnovijem i mogućem razvoju djelatnosti poduzeća ili pogona i njegovu gospodarskom položaju, kako bi mogli dužnika obavijestiti u vezi sa situacijom poslovanja i potrebi da se razmotre mehanizmi restrukturiranja
+
+– obavješćivanje radnika o svakom postupku preventivnog restrukturiranja koji bi mogao utjecati na zapošljavanje, isplatu plaće i sve buduće isplate radnicima, uključujući mirovine
+
+– obavješćivanje radnika i savjetovanje s njima u vezi s planovima restrukturiranja prije nego što oni budu podneseni na prihvat vjerovnicima ili na potvrdu sudu.
+
+(7) Ako su planom restrukturiranja predviđene mjere koje dovode do promjena u organizaciji rada ili ugovora o radu s radnicima, te mjere podliježu odobrenju radnika.«.
+
+#### Članak 40.
+
+U članku 67. stavku 1. iza riječi: »62.a« dodaju se riječi: »stavcima 1. – 5.«.
+
+#### Članak 41.
+
+Iza članka 67. dodaju se članak 67.a i naslov iznad članka koji glase:
+
+*»Dvostrano obvezni ugovori koje nije ispunila niti jedna ugovorna strana*
+
+#### Članak 67.a
+
+(1) Vjerovnik iz dvostrano obveznog ugovora koji je sklopljen prije otvaranja predstečajnog postupka i na koji predstečajni postupak utječe, a koji u vrijeme otvaranja tog postupka nisu ili nisu u potpunosti ispunili ni dužnik ni vjerovnik, nije ovlašten nakon otvaranja predstečajnog postupka uskratiti svoju činidbu, raskinuti ugovor, proglasiti dospjelost svoje tražbine ili na bilo koji drugi način izmijeniti taj ugovor na štetu dužnika pozivom na činjenicu da dužnik svoj dug nije platio. Pod bitnim ugovorom smatra se ugovor koji je nužan za nastavak redovitog poslovanja, uključujući ugovor koji se odnosi na opskrbu čiji bi prekid mogao dovesti do obustave poslovanja dužnika.
+
+(2) Postupanje vjerovnika protivno stavku 1. ovoga članka nema pravni učinak.
+
+(3) Vjerovnik iz dvostrano obveznog ugovora koji je sklopljen prije otvaranja predstečajnog postupka, a koji nisu ili nisu u potpunosti ispunili ni dužnik ni vjerovnik, nije ovlašten uskratiti svoju činidbu, raskinuti ugovor, proglasiti dospjelost svoje tražbine ili na bilo koji drugi način izmijeniti taj ugovor na štetu dužnika pozivom na odgovarajuću ugovorenu klauzulu zbog:
+
+1. podnošenja prijedloga za otvaranje predstečajnog postupka
+
+2. podnošenja prijedloga za zastoj/odgodu ovrhe
+
+3. otvaranja predstečajnog postupka
+
+4. usvajanja prijedloga za zastoj/odgodu ovrhe.
+
+(4) Ugovorne odredbe kojima se unaprijed isključuje ili ograničava primjena pravila iz stavka 3. ovoga članka bez pravnog su učinka, kao i ponašanja koja bi mu bila protivna.
+
+(5) Odredbe stavaka 1. do 4. ovoga članka ne primjenjuju se na ugovore iz članka 182. stavaka 1. do 4. ovoga Zakona.«.
+
+#### Članak 42.
+
+Naslov iznad članka 68. mijenja se i glasi: »Postupci na koje predstečajni postupak utječe«.
+
+Članak 68. mijenja se i glasi:
+
+»(1) Danom otvaranja predstečajnog postupka nastupa prekid parničnih i arbitražnih postupaka, kao i zabrana pokretanja novih parničnih i arbitražnih postupaka protiv dužnika u svezi s tražbinama na koje predstečajni postupak utječe. Parnični i arbitražni postupci u vezi s tražbinama na koje predstečajni postupak utječe mogu se nastaviti ili pokrenuti nakon sklopljenog predstečajnog sporazuma u odnosu na tražbine ili dio tražbina koje su u predstečajnom postupku osporene te nakon pravomoćnosti rješenja o obustavi predstečajnog postupka. Na zahtjeve u tim postupcima primjenjuju se pravila iz odredbe članka 50. stavaka 2. do 7. ovoga Zakona.
+
+(2) Danom otvaranja predstečajnog postupka nastupa prekid ovršnih postupaka i postupaka osiguranja, kao i zabrana pokretanja novih ovršnih postupaka i postupaka osiguranja protiv dužnika u svezi s tražbinama na koje predstečajni postupak utječe. Zabrana provođenja ovrhe traje 120 dana. Prije isteka tog roka sud u predstečajnom postupku može na zahtjev dužnika, vjerovnika ili povjerenika produžiti trajanje zabrane provedbe ovršnih postupaka i postupaka osiguranja dva puta za daljnjih 90 dana, pod uvjetom da je postignut relevantan napredak u pregovorima o planu restrukturiranja i da je navedena zabrana nužna radi ostvarivanja plana restrukturiranja. Zahtjev za produljenje roka mora se podnijeti najkasnije 15 dana prije isteka roka zabrane provedbe ovrhe ili postupka osiguranja. Na prijedlog dužnika, vjerovnika ili povjerenika sud će ukinuti zabranu provedbe ovršnih postupaka i postupaka osiguranja ako postane očito da dio vjerovnika koji bi mogli spriječiti donošenje plana restrukturiranja ne podupire nastavak pregovora te će obustaviti predstečajni postupak.
+
+(3) Ako sud ne dostavi Financijskoj agenciji odluku o produljenju trajanja zabrane provedbe ovršnih postupaka i postupaka osiguranja prije isteka 120 dana odnosno daljnjih 90 dana, Financijska agencija će nastaviti s provedbom ovrhe na novčanim sredstvima po računu dužnika na temelju osnova za plaćanje koje je prestala izvršavati od primitka rješenja o otvaranju predstečajnoga postupka.
+
+(4) Odredbe stavaka 1. i 2. ovoga članka ne primjenjuju se na postupke radi ostvarenja tražbina koje su nastale nakon otvaranja predstečajnoga postupka.
+
+(5) U parničnim i arbitražnim postupcima u kojima je utvrđen prekid postupka zbog otvaranja predstečajnoga postupka, u kojem je nakon toga doneseno pravomoćno rješenje o potvrdi plana restrukturiranja kojim je obuhvaćena tražbina vjerovnika o kojoj se vodi parnični odnosno arbitražni postupak, sud odnosno arbitražni sud nastavit će postupak i odbaciti tužbu u cijelosti odnosno u dijelu u kojem je tražbina obuhvaćena planom restrukturiranja.
+
+(6) U ovršnim postupcima i postupcima osiguranja u kojima je utvrđen prekid postupka zbog otvaranja predstečajnoga postupka u kojem je nakon toga doneseno pravomoćno rješenje o potvrdi plana restrukturiranja kojim je obuhvaćena tražbina vjerovnika u pogledu koje se vodi ovršni postupak odnosno postupak osiguranja sud će obustaviti ovršni postupak odnosno postupak osiguranja.«.
+
+#### Članak 43.
+
+Iza članka 68. dodaju se članak 68.a i naslov iznad članka koji glase:
+
+*»Postupci na koje predstečajni postupak ne utječe*
+
+#### Članak 68.a
+
+Predstečajni postupak ne utječe na:
+
+– mjere osiguranja u kaznenom postupku
+
+– porezne postupke utvrđivanja zloupotrebe prava i
+
+– upravne postupke koje provodi Ministarstvo financija, Porezna uprava u postupcima utvrđivanja poreznih obveza.«.
+
+#### Članak 44.
+
+Članak 69. mijenja se i glasi:
+
+»(1) Od dana primitka rješenja o otvaranju predstečajnoga postupka Financijska agencija prestaje izvršavati sve osnove za plaćanje evidentirane u Očevidniku redoslijeda osnova za plaćanje na teret dužnika, osim obračuna neisplaćene plaće, naknade plaće i otpremnine, osnova za plaćanje koje se odnose na tražbine sadašnjih i prijašnjih radnika dužnika iz radnog odnosa u bruto iznosu, zahtjeva za prisilnu naplatu u postupku osiguranja radničkih tražbina, rješenja nadležnog tijela o privremenom osiguranju naplate u slučaju blokade računa poslodavca zbog nemogućnosti prisilne naplate neisplaćene plaće odnosno naknade plaće, osnova za plaćanje koje se odnose na uzdržavanje djeteta i osnova za plaćanje koje se odnose na mjere osiguranja u kaznenom postupku.
+
+(2) Vjerovnik osnove za plaćanje na temelju koje se na novčanim sredstvima po računu dužnika pravne osobe treba provesti ili se provodi ovrha radi naplate tražbine po osnovi naknade štete pretrpljene zbog ozljede na radu ili profesionalne bolesti, naplate tražbine po osnovi namjerno počinjene nedopuštene radnje, radi naplate novčane kazne izrečene za kazneno ili prekršajno djelo i troškove kaznenoga ili prekršajnog postupka ili radi tražbine koja je nastala nakon otvaranja predstečajnoga postupka može zatražiti od povjerenika da naloži Financijskoj agenciji da nastavi s provedbom ovrhe po toj osnovi za plaćanje odnosno da provede ovrhu na novčanim sredstvima po računu dužnika sukladno posebnom zakonu.
+
+(3) Vjerovnik osnove za plaćanje na temelju koje se na novčanim sredstvima po računu dužnika pojedinca treba provesti ili se provodi ovrha radi naplate tražbine po osnovi naknade štete pretrpljene zbog ozljede na radu ili profesionalne bolesti, naplate tražbine po osnovi namjerno počinjene nedopuštene radnje, radi naplate novčane kazne izrečene za kazneno ili prekršajno djelo i troškove kaznenoga ili prekršajnog postupka, naplate tražbine za uzdržavanje koja proizlazi iz obiteljskog odnosa, braka ili tazbinskog srodstva, radi tražbine koja je nastala nakon otvaranja predstečajnoga postupka ili naplate tražbine koja nije proizašla iz obavljanja ili nije vezana uz obavljanje djelatnosti dužnika pojedinca može zatražiti od povjerenika da naloži Financijskoj agenciji da nastavi s provedbom ovrhe po toj osnovi za plaćanje odnosno da provede ovrhu na novčanim sredstvima po računu dužnika sukladno posebnom zakonu.
+
+(4) Razlučni vjerovnik čije se razlučno pravo temelji na založnom pravu stečenom pljenidbom novčane tražbine po računu dužnika provedbom ovrhe na novčanim sredstvima po računu, nakon utvrđenja njegova položaja kao razlučnoga vjerovnika za taj iznos tražbine, može zatražiti od povjerenika da naloži Financijskoj agenciji da nastavi s provedbom ovrhe po toj osnovi za plaćanje za iznos koji je zaplijenjen s računa dužnika do otvaranja predstečajnoga postupka.
+
+(5) Od dana primitka rješenja o otvaranju predstečajnoga postupka do dana primitka pravomoćnoga rješenja o obustavi predstečajnoga postupka, pravomoćnoga rješenja kojim se potvrđuje plan restrukturiranja ili do isteka roka zabrane provedbe ovršnih postupaka i postupaka osiguranja iz članka 68. stavka 2. ovoga Zakona Financijska agencija osnove za plaćanje neće upisivati u Očevidnik redoslijeda osnova za plaćanje niti po njima postupati, osim u slučaju iz stavaka 2., 3. i 4. ovoga članka i u slučaju primitka obračuna neisplaćene plaće, naknade plaće i otpremnine, osnova za plaćanje koje se odnose na tražbine sadašnjih i prijašnjih radnika dužnika iz radnog odnosa u bruto iznosu, zahtjeva za prisilnu naplatu u postupku osiguranja radničkih tražbina, rješenja nadležnog tijela o privremenom osiguranju naplate u slučaju blokade računa poslodavca zbog nemogućnosti prisilne naplate neisplaćene plaće odnosno naknade plaće, osnova za plaćanje koje se odnose na mjere osiguranja u kaznenom postupku i osnova za plaćanje koje se odnose na uzdržavanje djeteta.«.
+
+#### Članak 45.
+
+U naslovu iznad članka 71. riječi: »predstečajnoga sporazuma« zamjenjuju se riječima: »plana restrukturiranja«.
+
+U stavku 1. riječi: »predstečajni sporazum« zamjenjuju se riječima: »plan restrukturiranja«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Osnovu za plaćanje donesenu odnosno izdanu prije otvaranja predstečajnoga postupka, a primljenu nakon pravomoćne potvrde plana restrukturiranja Financijska agencija neće evidentirati u Očevidniku redoslijeda osnova za plaćanje, nego će je vratiti podnositelju uz obrazloženje, osim:
+
+– obračuna neisplaćene plaće, naknade plaće i otpremnine
+
+– osnova za plaćanje koje se odnose na tražbine sadašnjih i prijašnjih radnika dužnika iz radnog odnosa u bruto iznosu
+
+– zahtjeva za prisilnu naplatu u postupku osiguranja radničkih tražbina
+
+– rješenja nadležnog tijela o privremenom osiguranju naplate u slučaju blokade računa poslodavca zbog nemogućnosti prisilne naplate neisplaćene plaće odnosno naknade plaće
+
+– osnova za plaćanje koje se odnose na uzdržavanje djeteta
+
+– osnova za plaćanje koje se odnose na mjere osiguranja u kaznenom postupku
+
+– osnova za plaćanje za koje je povjerenik potvrdio da se ovrha treba provesti jer se radi o tražbini na koju predstečajni postupak ne utječe.«.
+
+U stavku 3. riječi: »predstečajnoga sporazuma« zamjenjuju se riječima: »plana restrukturiranja«.
+
+#### Članak 46.
+
+U članku 72. riječi: »predstečajnom sporazumu« zamjenjuju se riječima: »planu restrukturiranja«, a riječi: »predstečajni sporazum« riječima: »plan restrukturiranja«.
+
+#### Članak 47.
+
+U članku 73. stavku 2. riječi: »predstečajnim sporazumom« zamjenjuju se riječima: »planom restrukturiranja«, a riječi: »predstečajnom sporazumu« riječima: »planu restrukturiranja«.
+
+#### Članak 48.
+
+Iza članka 74. dodaju se poglavlje 8. s nazivom i članak 74.a s naslovom iznad njega koji glase:
+
+### »VIII. ZAKLJUČENJE PREDSTEČAJNOG POSTUPKA
+
+*Zaključenje predstečajnoga postupka*
+
+#### Članak 74.a
+
+(1) Sud će donijeti rješenje o zaključenju predstečajnoga postupka čim rješenje o potvrdi plana restrukturiranja postane pravomoćno.
+
+(2) Prije zaključenja predstečajnoga postupka dužnik je dužan namiriti troškove predstečajnoga postupka te nesporne dospjele tražbine vjerovnika koje su nastale nakon otvaranja predstečajnoga postupka, a za sporne pružiti odgovarajuće osiguranje.
+
+(3) Sud će objaviti izreku rješenja s naznakom osnove za zaključenje predstečajnoga postupka.
+
+(4) Sud će unaprijed izvijestiti dužnika i povjerenika o tome kada će nastupiti pravni učinci zaključenja predstečajnoga postupka.«.
+
+#### Članak 49.
+
+Naslov iznad članka 78. mijenja se i glasi: »Lista stečajnih upravitelja«.
+
+Članak 78. mijenja se i glasi:
+
+»(1) Ministarstvo nadležno za poslove pravosuđa za područje nadležnosti svakoga suda utvrđuje listu stečajnih upravitelja.
+
+(2) Lista stečajnih upravitelja može se dopunjavati.
+
+(3) Osoba može biti upisana na listu stečajnih upravitelja za područje nadležnosti jednog ili više sudova.
+
+(4) Lista stečajnih upravitelja objavljuje se na mrežnoj stranici e-Oglasna ploča sudova.
+
+(5) Ministarstvo nadležno za poslove pravosuđa dužno je voditi i na mrežnoj stranici e-Oglasna ploča sudova objaviti popis stečajnih upravitelja s naznakom predstečajnih i stečajnih postupaka u kojima su imenovani kao povjerenici, privremeni stečajni upravitelji i stečajni upravitelji, način njihova izbora, naznaku dužnika i suca koji vodi postupak, naznaku razrješenja i razloga razrješenja te izrečenih novčanih kazni.
+
+(6) Sud je dužan ministarstvo nadležno za poslove pravosuđa obavijestiti o pravomoćnosti rješenja iz članka 91. stavaka 2. i 6. ovoga Zakona te o pravomoćnosti rješenja o izrečenim novčanim kaznama stečajnim upraviteljima.
+
+(7) Ministar nadležan za poslove pravosuđa propisat će pravilnikom podatke koji se upisuju na listu stečajnih upravitelja i popis stečajnih upravitelja te način vođenja i objave popisa stečajnih upravitelja na mrežnoj stranici e-Oglasna ploča sudova.«.
+
+#### Članak 50.
+
+Naslov iznad članka 79. mijenja se i glasi: »Lista stečajnih upravitelja«.
+
+U članku 79. stavak 1. mijenja se i glasi:
+
+»(1) Na listu stečajnih upravitelja može biti upisana fizička osoba:
+
+1. koja ima poslovnu sposobnost i zdravstvenu sposobnost za obavljanje poslova stečajnog upravitelja
+
+2. koja ima položen stručni ispit za stečajnog upravitelja
+
+3. koja je nakon položenoga stručnog ispita obavila stručnu obuku u trajanju od najmanje jedne godine
+
+4. koja ima sklopljenu policu osiguranja od profesionalne odgovornosti odgovarajućom primjenom odredbi o osiguranju od profesionalne odgovornosti za odvjetnike
+
+5. koja je dostojna za obavljanje poslova stečajnoga upravitelja.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Osoba koja je brisana s liste stečajnih upravitelja sukladno članku 81. stavku 1. podstavku 2. točkama 5. i 6. ovoga Zakona ne može se ponovno upisati na listu stečajnih upravitelja dok ne prođe šest mjeseci od dana pravomoćnosti rješenja o brisanju.
+
+(4) Osoba iz stavka 3. ovoga članka kod ponovnog upisa na listu stečajnih upravitelja dužna je uz zahtjev priložiti dokaz o sklopljenoj polici osiguranja od profesionalne odgovornosti odnosno dokaz o provedenom stručnom usavršavanju.«.
+
+#### Članak 51.
+
+Iza članka 79. dodaju se članci 79.a i 79.b i naslovi iznad članaka koji glase:
+
+*»Lista visoko kvalificiranih stečajnih upravitelja*
+
+#### Članak 79.a
+
+(1) Ministarstvo nadležno za poslove pravosuđa utvrđuje i na mrežnoj stranici e-Oglasna ploča sudova objavljuje listu visokokvalificiranih stečajnih upravitelja za područje nadležnosti svih sudova.
+
+(2) Na listu visokokvalificiranih stečajnih upravitelja može biti upisana osoba koja je upisana na listu stečajnih upravitelja najmanje sedam godina i:
+
+1. koja je imenovana za stečajnog upravitelja u najmanje dva stečajna postupka u kojima se stečajni dužnici mogu označiti kao srednji i veliki poduzetnici u smislu računovodstvenih propisa
+
+2. koja je uspješno dovršila najmanje dva stečajna postupka potvrdom stečajnog plana.
+
+(3) Lista visokokvalificiranih stečajnih upravitelja može se dopunjavati.
+
+(4) Ministar nadležan za poslove pravosuđa propisat će pravilnikom podatke koji se upisuju na popis visokokvalificiranih stečajnih upravitelja te način vođenja i objave popisa visokokvalificiranih stečajnih upravitelja na mrežnoj stranici e-Oglasna ploča sudova.
+
+*Društvo stečajnih upravitelja*
+
+#### Članak 79.b
+
+(1) Dva ili više stečajnih upravitelja upisanih na listi stečajnih upravitelja može osnovati trgovačko društvo (društvo stečajnih upravitelja) za obavljanje poslova stečajnog upravitelja.
+
+(2) Društvo stečajnih upravitelja osniva se kao javno trgovačko društvo ili kao društvo s ograničenom odgovornošću.
+
+(3) Na društvo stečajnih upravitelja na odgovarajući se način primjenjuje Zakon o trgovačkim društvima, osim ako ovim Zakonom nije što drukčije uređeno.
+
+(4) Društvo stečajnih upravitelja ne može osnovati drugo društvo stečajnih upravitelja.
+
+(5) Društvo stečajnih upravitelja s ograničenom odgovornošću mogu osnovati dva ili više stečajnih upravitelja, a najniži iznos temeljnog kapitala iznosi 200.000,00 kuna.
+
+(6) Uvjete za prostor i opremu ureda društva stečajnih upravitelja pravilnikom propisuje ministar nadležan za poslove pravosuđa.«.
+
+#### Članak 52.
+
+Naslov iznad članka 80. mijenja se i glasi: »Udaljenje od obavljanja dužnosti stečajnog upravitelja«.
+
+Članak 80. mijenja se i glasi:
+
+»(1) Stečajni upravitelj udaljit će se od obavljanja dužnosti stečajnog upravitelja ako je protiv njega pokrenut kazneni postupak zbog kaznenog djela za koje se postupak pokreće po službenoj dužnosti.
+
+(2) Stečajni upravitelj može se udaljiti od obavljanja dužnosti stečajnog upravitelja ako je protiv njega pokrenut postupak za povredu Etičkog kodeksa stečajnih upravitelja.
+
+(3) Udaljenje iz stavaka 1. i 2. ovoga članka traje do pravomoćnog okončanja kaznenog postupka odnosno postupka za povredu Etičkog kodeksa stečajnih upravitelja.«.
+
+#### Članak 53.
+
+Članak 81. mijenja se i glasi:
+
+»(1) Osoba koja se nalazi na listi stečajnih upravitelja brisat će se s liste stečajnih upravitelja:
+
+− na osobni zahtjev
+
+− po službenoj dužnosti:
+
+1. ako se utvrdi da nisu postojali odnosno da su prestali postojati uvjeti na temelju kojih je osoba upisana na listu
+
+2. ako je pravomoćno osuđena zbog kaznenog djela za koje se postupak pokreće po službenoj dužnosti
+
+3. ako je razriješena dužnosti stečajnoga upravitelja zbog neurednog obavljanja dužnosti iz članka 91. stavka 2. ovoga Zakona u više od dva stečajna postupka u posljednje tri godine
+
+4. ako nije postupila po rješenju suda iz članka 91. stavka 6. ovoga Zakona
+
+5. ako ne dostavi dokaz da ima sklopljenu policu osiguranja od profesionalne odgovornosti odgovarajućom primjenom odredbi o osiguranju od profesionalne odgovornosti za odvjetnike
+
+6. ako svake dvije godine od dana upisa ne dostavi dokaz o provedenom stručnom usavršavanju
+
+7. kad navrši 70 godina života
+
+8. smrću.
+
+(2) Iznimno od odredbe stavka 1. točke 7., stečajni upravitelji koji će navršiti 70 godina života bit će izuzeti od dodjeljivanja novih predmeta, a brisat će se s liste nakon dovršetka svih postupaka u kojima su imenovani do trenutka navršavanja 70 godina života.
+
+(3) Odredbe ovoga članka na odgovarajući se način primjenjuju na listu visokokvalificiranih stečajnih upravitelja.«.
+
+#### Članak 54.
+
+Članak 82. mijenja se i glasi:
+
+»(1) Stručni ispit za stečajnog upravitelja organizira i provodi ministarstvo nadležno za poslove pravosuđa.
+
+(2) Polaganju stručnog ispita za stečajnog upravitelja može pristupiti osoba:
+
+1. koja ima završeni diplomski sveučilišni studij pravne ili ekonomske struke odnosno završeno visoko obrazovanje s najmanje 300 ECTS bodova pravne ili ekonomske struke
+
+2. koja ima najmanje tri godine radnog iskustava u pravnoj i/ili ekonomskoj struci i
+
+3. koja je pohađala obvezne pripreme za polaganje stručnog ispita za stečajnog upravitelja u organizaciji ministarstva nadležnog za poslove pravosuđa.
+
+(3) Stručnu obuku stečajnih upravitelja nakon položenog stručnog ispita organizira i provodi ministarstvo nadležno za poslove pravosuđa u trajanju od najmanje jedne godine.
+
+(4) Stečajni upravitelji dužni su stručno se usavršavati.
+
+(5) Stručno usavršavanje iz stavka 4. ovoga članka provodi ministarstvo nadležno za poslove pravosuđa.
+
+(6) Ministar nadležan za poslove pravosuđa propisat će pravilnikom program i trajanje obvezne pripreme za polaganje stručnog ispita za stečajnog upravitelja, program, pretpostavke i način polaganja stručnoga ispita za stečajne upravitelje te program i trajanje stručne obuke nakon položenog stručnog ispita za stečajne upravitelje i stručnoga usavršavanja.«.
+
+#### Članak 55.
+
+Naslov iznad članka 83. mijenja se i glasi: »Rješenje o upisu i brisanju s liste stečajnih upravitelja i rješenje o udaljenju od obavljanja dužnosti stečajnog upravitelja«.
+
+U članku 83. stavak 1. mijenja se i glasi:
+
+»(1) Rješenja o upisu i brisanju s liste stečajnih upravitelja te rješenje o udaljenju od obavljanja dužnosti stečajnog upravitelja donosi ministarstvo nadležno za poslove pravosuđa.«.
+
+#### Članak 56.
+
+Iza članka 83. dodaju se članci 83.a, 83.b i 83.c i naslovi iznad članaka koji glase:
+
+*»Nadzor nad radom stečajnih upravitelja*
+
+#### Članak 83.a
+
+(1) Ministarstvo nadležno za poslove pravosuđa prati rad stečajnih upravitelja.
+
+(2) Predstavke i pritužbe na nedolično ili neprimjereno ponašanje stečajnih upravitelja u postupcima u kojima sudjeluju u svojstvu stečajnog upravitelja podnose se ministarstvu nadležnom za poslove pravosuđa.«.
+
+*Etički kodeks stečajnih upravitelja*
+
+#### Članak 83.b
+
+(1) Etički kodeks stečajnih upravitelja utvrđuje etička načela i pravila ponašanja stečajnih upravitelja radi čuvanja dostojanstva i ugleda dužnosti stečajnog upravitelja.
+
+(2) Ministarstvo nadležno za poslove pravosuđa, uz prethodno mišljenje strukovne udruge, donosi Etički kodeks stečajnih upravitelja.
+
+(3) Etički kodeks objavljuje se na mrežnoj stranici ministarstva nadležnog za poslove pravosuđa.
+
+(4) Prijedlog za izmjene i dopune Etičkog kodeksa može dati strukovna udruga i najmanje deset stečajnih upravitelja.«.
+
+*Etičko vijeće i postupak povodom povrede Etičkog kodeksa*
+
+#### Članak 83.c
+
+»(1) O povredama Etičkog kodeksa iz članka 83.b ovoga Zakona odlučuje ministarstvo nadležno za poslove pravosuđa.
+
+(2) Protiv odluke ministarstva nadležnog za poslove pravosuđa stečajni upravitelj i podnositelj pritužbe imaju pravo prigovora u roku od osam dana od dana dostave odluke, o kojem odlučuje Etičko vijeće.
+
+(3) Etičko vijeće iz stavka 2. ovoga članka ima tri člana koji se biraju iz reda ministarstva nadležnog za poslove pravosuđa, stečajnih upravitelja i suda.
+
+(4) Ministar nadležan za poslove pravosuđa propisat će pravilnikom izbor predsjednika Etičkog vijeća i postupak po povredi Etičkog kodeksa.«.
+
+#### Članak 57.
+
+U članku 84. stavcima 1. i 2. slovo: »A« briše se.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Stečajni upravitelj može podnijeti zahtjev ministarstvu nadležnom za poslove pravosuđa da ga se privremeno izuzme od izbora za stečajnog upravitelja, u kojem slučaju može nastaviti obavljati dužnost u postupcima u kojima je imenovan, ali ga se izuzima od izbora i imenovanja za stečajnog upravitelja u novim predmetima u razdoblju od tri mjeseca do dvije godine. Vrijeme privremenog izuzeća računa se od dana izvršnosti rješenja o privremenom izuzimanju.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Odredbe ovoga članka na odgovarajući se način primjenjuju na listu visokokvalificiranih stečajnih upravitelja.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 58.
+
+U članku 87. stavku 1. riječi: »s liste A stečajnih upravitelja« brišu se.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Sud ne može odbiti potvrditi imenovanje stečajnoga upravitelja kojeg je izabrala skupština vjerovnika, osim u slučaju postojanja zapreka za imenovanje stečajnog upravitelja iz članka 77. stavaka 2. i 3. ovoga Zakona.«
+
+#### Članak 59.
+
+U članku 89. stavku 1. točki 1. iza riječi: »postupka« dodaju se riječi: »te sklopiti ugovor s ovlaštenom fizičkom ili pravnom osobom za vođenje knjigovodstveno-računovodstvenih usluga«.
+
+U točki 8. iza riječi: »Hrvatskom zavodu za mirovinsko osiguranje« dodaju se riječi: »i Hrvatskom zavodu za zdravstveno osiguranje«.
+
+Iza točke 9. dodaju se nove točke 10. i 11. koje glase:
+
+»10. dostaviti Financijskoj agenciji zahtjeve za prodaju nekretnina, pokretnina, prava i imovine stečajnog dužnika elektroničkom javnom dražbom i zahtjeve za upis nekretnina, pokretnina, prava i imovine stečajnog dužnika u Očevidnik nekretnina i pokretnina koje se prodaju u ovršnom postupku
+
+11. izvršiti uplatu predujma troškova provedbe prodaje elektroničkom javnom dražbom i troškova upisa podataka u Očevidnik nekretnina i pokretnina koje se prodaju u ovršnom postupku Financijskoj agenciji, što predstavlja trošak postupka«.
+
+Dosadašnje točke 10. do 13. postaju točke 12. do 15.
+
+#### Članak 60.
+
+U članku 91. stavak 1. mijenja se i glasi:
+
+»(1) Sud može po službenoj dužnosti ili na prijedlog odbora vjerovnika ili skupštine vjerovnika razriješiti stečajnog upravitelja ako svoju dužnost ne obavlja uspješno ili iz drugih važnih razloga, a osobito ako ne postupa po nalogu suda.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3., koji postaje stavak 2., mijenja se i glasi:
+
+»(2) Protiv rješenja o razrješenju stečajni upravitelj ima pravo žalbe. Protiv rješenja o odbijanju prijedloga za razrješenje pravo žalbe imaju odbor vjerovnika i svaki stečajni vjerovnik koji je na skupštini vjerovnika glasovao za prijedlog za razrješenje stečajnog upravitelja.«.
+
+Stavak 4. briše se.
+
+Dosadašnji stavci 5. do 8. postaju stavci 3. do 6.
+
+Dosadašnji stavak 9., koji postaje stavak 7., mijenja se i glasi:
+
+»(7) Pravomoćnošću rješenja o brisanju stečajnog upravitelja po službenoj dužnosti, izvršnošću rješenja o privremenom udaljenju te izvršnošću rješenja o brisanju stečajnog upravitelja na osobni zahtjev stečajnom upravitelju prestaje dužnost, što će sud utvrditi rješenjem, u kojem se slučaju na odgovarajući način primjenjuje odredba stavka 6. ovoga članka.«.
+
+#### Članak 61.
+
+U članku 107. stavku 1. točki 3. iza riječi: »imovine« dodaju se riječi: »koja nije opterećena razlučnim pravom«.
+
+#### Članak 62.
+
+U članku 109. stavak 7. briše se.
+
+#### Članak 63.
+
+U članku 110. stavak 5. mijenja se i glasi:
+
+»(5) Za podnošenje prijedloga za otvaranje stečajnoga postupka iz stavka 1. ovoga članka Financijska agencija ima pravo na naknadu troška. Trošak podnošenja prijedloga namiruje se iz predujma za namirenje troškova stečajnog postupka odnosno iz Fonda za namirenje troškova stečajnog postupka ako se naknada nije naplatila iz predujma. Visinu i način plaćanja naknade propisat će ministar nadležan za poslove pravosuđa pravilnikom.«.
+
+#### Članak 64.
+
+U članku 119. stavku 3. iza riječi: »postupka« dodaju se riječi: »i kakvi su izgledi za nastavak poslovanja dužnika«.
+
+#### Članak 65.
+
+U članku 132. stavku 2. iza druge rečenice dodaje se treća rečenica koja glasi: »Stečajni upravitelj nema obvezu dostavljanja godišnjih financijskih izvješća i dodatnih podataka Financijskoj agenciji radi javne objave i za nadzorne, statističke i druge potrebe, kao i podnošenja prijave poreza na dobit nadležnoj ispostavi porezne uprave.«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Rješenje iz stavka 2. ovoga članka sud će dostaviti radnicima dužnika.«.
+
+#### Članak 66.
+
+U članku 155. stavku 1. iza točke 3. dodaje se nova točka 4. koja glasi:
+
+»4. troškovi vođenja knjigovodstveno-računovodstvenih usluga po ugovoru iz članka 89. stavka 1. točke 1. ovoga Zakona, ako stečajni upravitelj podnosi godišnja financijska izvješća«.
+
+Dosadašnja točka 4. postaje točka 5.
+
+#### Članak 67.
+
+U članku 168. stavku 1. nakon riječi: »prijedloga za otvaranje stečajnoga postupka« dodaju se riječi: »odnosno zahtjeva za provedbu skraćenoga stečajnog postupka«.
+
+#### Članak 68.
+
+U članku 169. stavku 6. u prvoj rečenici iza riječi: »prekidaju se« stavlja se zarezi i dodaju riječi: »bez obzira na to kada je ovršni postupak pokrenut, osim ako u ovršnom postupku već nije doneseno rješenje o namirenju razlučnog vjerovnika«.
+
+#### Članak 69.
+
+Članak 212. mijenja se i glasi:
+
+»(1) Pravne radnje stečajnoga dužnika ovlašteni su pobijati tužbom stečajni vjerovnici te stečajni upravitelj u ime stečajnoga dužnika.
+
+(2) Tužba iz stavka 1. ovoga članka može se podnijeti u roku od dvije godine od otvaranja stečajnoga postupka.
+
+(3) Tužba iz stavka 1. ovoga članka podnosi se protiv osobe prema kojoj je pobijana radnja poduzeta.
+
+(4) Stečajni upravitelj može podnijeti tužbu iz stavka 1. za pobijanje pravnih radnji samo na temelju odobrenja stečajnoga suca.
+
+(5) Ako sud usvoji tužbu za pobijanje pravne radnje, pobijena pravna radnja je bez učinka prema stečajnoj masi i protivna je strana dužna vratiti u stečajnu masu sve imovinske koristi stečene na osnovi pobijene radnje.
+
+(6) Primatelj činidbe bez naknade ili uz neznatnu naknadu mora vratiti ono što je primio samo ako je time obogaćen, osim ako je znao ili je morao znati da se takvom činidbom oštećuje vjerovnike.
+
+(7) Pravomoćna presuda donesena u parnici za pobijanje pravnih radnji djeluje prema stečajnom dužniku odnosno stečajnoj masi te svim stečajnim vjerovnicima.
+
+(8) Stečajni vjerovnik koji je uspješno pobio pravnu radnju kojom su oštećeni stečajni vjerovnici u slučaju kada je nedostatnost stečajne mase utvrđena već tijekom prethodnog postupka, zbog čega je stečajni postupak otvoren i odmah zaključen, ima iz onoga što se mora vratiti u stečajnu masu na temelju stavka 5. ovoga članka pravo prvenstvenog namirenja za troškove koji su bili potrebni za navedenu parnicu. Stečajni vjerovnik čiji je tužbeni zahtjev za pobijanjem prihvaćen predložit će stečajnom sucu nastavak stečajnog postupka radi naknadne diobe.
+
+(9) Pravne radnje dužnika mogu se pobijati i isticanjem prigovora u parnici bez vremenskoga ograničenja iz stavka 2. ovoga članka.«.
+
+#### Članak 70.
+
+U članku 217. stavak 3. briše se.
+
+#### Članak 71.
+
+U članku 225. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Pravila iz stavaka 1. i 2. ovoga članka ne primjenjuju se ako se stečajni postupak odmah zaključi zbog nedostatnosti stečajne mase ili nakon provedenog skraćenog stečajnog postupka. Ako se nakon zaključenja stečajnog postupka zbog nedostatnosti stečajne mase nastavi stečajni postupak po pravilima za naknadnu diobu, stečajni upravitelj dužan je postupiti prema odredbi stavka 1. ovoga članka.«.
+
+#### Članak 72.
+
+U članku 235. stavku 3. iza riječi: »nekretnini« dodaju se riječi: »i primjenom odredbi članaka 247. i 249. ovoga Zakona«.
+
+#### Članak 73.
+
+U članku 247. stavku 6. iza prve rečenice dodaje se druga rečenica koja glasi: »Nakon neuspjele četvrte dražbe razlučni vjerovnici imaju pravo odlučiti o neunovčenom predmetu stečajne mase.«.
+
+#### Članak 74.
+
+U članku 250. stavcima 1. i 2. druga rečenica briše se.
+
+#### Članak 75.
+
+U članku 257. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Nadležno županijsko državno odvjetništvo ovlašteno je zastupati vjerovnike u stečajnom postupku po osnovi tražbina proračuna, zavoda ili fondova u skladu s posebnim propisima u visini pripadajućeg dijela ukupnog troška plaće ili naknade plaće.«.
+
+Dosadašnji stavci 5. i 6. postaju stavci 6. i 7.
+
+#### Članak 76.
+
+U članku 275. stavku 1. riječi: »od objave« zamjenjuju se riječima: »od dostave«.
+
+#### Članak 77.
+
+U članku 276. stavku 1. riječi: »nakon objave« zamjenjuju se riječima: »nakon dostave«.
+
+#### Članak 78.
+
+U članku 283. stavak 5. briše se.
+
+#### Članak 79.
+
+U članku 286. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Rješenje iz stavka 1. ovoga članka sud će dostaviti radnicima dužnika.«.
+
+#### Članak 80.
+
+U članku 299. stavku 2. riječi: »od objave« zamjenjuju se riječima: »od dostave«.
+
+#### Članak 81.
+
+U članku 303. stavku 2. podstavku 11. briše se točka na kraju rečenice te se dodaje podstavak 12. koji glasi:
+
+» – odrediti ostale odgovarajuće aktivnosti.«.
+
+#### Članak 82.
+
+U članku 304. stavak 1. mijenja se i glasi:
+
+»(1) Dužnik može stečajni plan podnijeti zajedno s prijedlogom za otvaranje stečajnoga postupka. Nakon otvaranja stečajnoga postupka stečajni plan imaju pravo sudu podnijeti stečajni upravitelj i dužnik pojedinac. Neće se uzeti u obzir stečajni plan koji se podnese sudu nakon završnog ročišta.«.
+
+Dosadašnji stavak 3. briše se.
+
+#### Članak 83.
+
+U članku 308. stavku 1. točki 3. briše se točka na kraju rečenice te se dodaje točka 4. koja glasi:
+
+»4. dioničare, nositelje udjela te nositelje drugih osnivačkih prava pravnih osoba, ako se stečajnim planom zadire u njihova dioničarska, nositeljska odnosno osnivačka prava.«.
+
+Iza stavka 3. dodaju se novi stavak 4. i stavak 5. koji glase:
+
+»(4) Vjerovnici s malim tražbinama mogu se svrstati u posebnu skupinu.
+
+(5) Prilikom osnivanja skupina sud će voditi posebnu brigu o zaštiti ranjivih vjerovnika poput malih dobavljača.«.
+
+Dosadašnji stavak 4. postaje stavak 6.
+
+#### Članak 84.
+
+U članku 316. stavku 1. iza druge rečenice dodaje se treća rečenica koja glasi: »Izjava dužnika nije potrebna ako je plan podnio sam dužnik.«.
+
+#### Članak 85.
+
+U članku 317. stavak 1. mijenja se i glasi:
+
+»(1) Sud će stečajni plan odbaciti po službenoj dužnosti u roku od 15 dana od njegova podnošenja:
+
+1. ako nisu poštivani propisi o podnošenju i sadržaju plana te ako podnositelj plana taj nedostatak ne može otkloniti ili ga ne otkloni unutar primjerenoga roka koji mu je odredio sud
+
+2. ako nema izgleda da plan koji je dužnik podnio vjerovnici prihvate ili sud potvrdi
+
+3. ako se ne mogu ostvariti prava koja bi sudionici trebali steći prema provedbenoj osnovi plana koji je dužnik podnio.«
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ako je dužnik u stečajnom postupku već podnio plan koji su vjerovnici odbili, koji sud nije potvrdio ili koji je dužnik povukao nakon javnoga zakazivanja ročišta za raspravljanje o planu, sud će odbaciti novi plan dužnika ako to odbacivanje zatraži stečajni upravitelj uz suglasnost odbora vjerovnika, ako je taj odbor osnovan.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 86.
+
+Članak 318. mijenja se i glasi:
+
+»(1) Ako stečajni plan ne bude odbačen, sud će zatražiti da se o njemu izjasne:
+
+1. odbor vjerovnika, ako je osnovan
+
+2. dužnik pojedinac, ako je plan podnio stečajni upravitelj
+
+3. stečajni upravitelj, ako je plan podnio dužnik.
+
+(2) Sud može pozvati tijela državne uprave nadležna za predmet poslovanja dužnika da se izjasne o predloženom planu.
+
+(3) Sud će odrediti rok za predaju izjašnjenja, koji ne može biti dulji od 15 dana.«.
+
+#### Članak 87.
+
+U članku 323. stavku 1. u drugoj rečenici iza riječi: »kao« veznik: »i« briše se te se iza riječi: »budu« dodaju riječi: »u potpunosti«.
+
+#### Članak 88.
+
+U članku 330. stavak 1. mijenja se i glasi:
+
+»(1) Smatrat će se da su vjerovnici prihvatili stečajni plan ako je u svakoj skupini većina vjerovnika glasovala za plan te zbroj tražbina vjerovnika koji su glasovali za plan dvostruko prelazi zbroj tražbina vjerovnika koji su glasovali protiv plana.«.
+
+#### Članak 89.
+
+Članak 331. mijenja se i glasi:
+
+»(1) Smatrat će se da je glasačka skupina prihvatila stečajni plan, iako potrebna većina nije postignuta ako:
+
+1. vjerovnici te skupine stečajnim planom nisu u lošijem položaju od onoga u kojem bi bili da stečajnog plana nema
+
+2. vjerovnici te skupine primjereno sudjeluju u gospodarskim koristima koje bi sudionicima trebale pripasti na temelju stečajnoga plana i
+
+3. je većina glasačkih skupina prihvatila stečajni plan s potrebnom većinom.
+
+(2) Smatrat će se da primjereno sudjelovanje vjerovnika skupine u gospodarskim koristima u smislu stavka 1. točke 2. ovoga članka postoji ako prema stečajnom planu:
+
+1. nijedan vjerovnik neće primiti imovinsku korist koja prelazi iznos njegove tražbine
+
+2. vjerovnici skupine koja je odbila prihvatiti plan stavljeni su barem u isti položaj kao i druge skupine vjerovnika s tražbinama koje bi u slučaju da stečajnog plana nema bile istog isplatnog reda
+
+3. vjerovnici skupine koja je odbila prihvatiti plan stavljeni su u bolji položaj od vjerovnika drugih skupina s tražbinama koje bi u slučaju da stečajnog plana nema bile nižeg isplatnog reda i
+
+4. dužnik, dioničar, nositelj udjela i nositelj drugih osnivačkih prava pravnih osoba neće primiti imovinsku korist, osim ako bi njihovo sudjelovanje u stečajnom planu u vidu vođenja poslovanja bilo zbog njihovih osobnih sposobnosti nužno za ostvarenje toga stečajnoga plana.«.
+
+#### Članak 90.
+
+U članku 346. stavku 1. riječi: »rješenju o potvrdi« zamjenjuju se riječima: »provedbenoj osnovi«.
+
+U stavku 2. riječi: »rješenjem iz stavka 1. ovoga članka« zamjenjuju se riječima: »provedbenom osnovom stečajnoga plana«.
+
+U stavku 3. riječi: »rješenju iz stavka 1. ovoga članka« zamjenjuju se riječima: »provedbenoj osnovi stečajnoga plana«, a riječi: »tim rješenjem« zamjenjuju se riječima: »tom provedbenom osnovom«.
+
+#### Članak 91.
+
+U članku 349. riječi: »rješenju o potvrdi« zamjenjuju se riječima: »provedbenoj osnovi«.
+
+#### Članak 92.
+
+U članku 350. stavku 1. riječi: »rješenju o potvrdi« zamjenjuju se riječima: »provedbenoj osnovi«.
+
+#### Članak 93.
+
+U članku 373. stavak 1. mijenja se i glasi:
+
+»(1) Prijedlog za oslobođenje od preostalih obveza dužnik može podnijeti zajedno s prijedlogom za otvaranje stečajnoga postupka. Ako dužnik nije bio podnositelj prijedloga za otvaranje stečajnog postupka, on može prijedlog za oslobođenje od preostalih obveza u otvorenom stečajnom postupku podnijeti najkasnije u roku od 15 dana nakon primitka upute iz članka 131. stavka 3. ovoga Zakona. Prijedlogu za oslobođenje od preostalih obveza dužnik je dužan priložiti javno ovjerovljenu izjavu o tome postoje li u njegovu slučaju okolnosti iz članka 373.a stavka 2. točaka 1. i 2. ovoga Zakona.«.
+
+U stavku 2. u prvoj rečenici riječi: »pet godina« zamjenjuju se riječima: »tri godine«, a riječi: »nakon zaključenja« zamjenjuju se riječima: »od otvaranja«. Iza druge rečenice dodaje se treća rečenica koja glasi: »Ako je dužniku već jednom dodijeljeno oslobođenje od preostalih obveza, vrijeme ustupa založivih tražbina iz radnog odnosa ili druge odgovarajuće tekuće tražbine u novom stečajnom postupku na temelju novog prijedloga za oslobođenje od preostalih obveza iznosi pet godina.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Stečajni vjerovnici mogu se očitovati o prijedlogu za oslobođenje od preostalih obveza dužnika do završnog ročišta.«.
+
+#### Članak 94.
+
+Iza članka 373. dodaju se članci 373.a i 373.b i naslovi iznad članaka koji glase:
+
+*»Odluka suda o dopuštenosti dužnikova prijedloga*
+
+#### Članak 373.a
+
+(1) Ako je prijedlog dužnika za oslobođenje od preostalih obveza dopušten, sud će rješenjem utvrditi da će dužnik biti oslobođen od preostalih obveza ako ispuni obveze iz članka 381. te ne postoje pretpostavke za uskratu oslobođenja iz članaka 376., 383. 383.a i 384. ovoga Zakona. Rješenje će se objaviti na mrežnoj stranici ­e-Oglasna ploča sudova. Protiv tog rješenja dužnik ima pravo na žalbu.
+
+(2) Prijedlog dužnika za oslobođenje od preostalih obveza nije dopušten:
+
+1. ako je dužnik u posljednjih deset godina koje su prethodile podnošenju prijedloga za otvaranje stečajnoga postupka ili nakon toga oslobođen preostalih obveza ili mu je oslobođenje uskraćeno u skladu s odredbama članka 383. ovoga Zakona ili
+
+2. ako je dužniku u posljednje tri godine koje su prethodile podnošenju prijedloga za otvaranje stečajnoga postupka ili nakon toga oslobođenje uskraćeno u skladu s člankom 376. stavkom 1. točkom 4., 5. ili 6. odnosno u skladu s člankom 383.a, kada je naknadna uskrata oslobođenja utemeljena na razlozima iz članka 376. stavka 1. točke 4., 5. ili 6. ovoga Zakona.
+
+(3) U slučajevima iz stavka 2. sud će dužniku dati mogućnost da povuče prijedlog za otvaranje stečajnog postupka prije nego što o njemu odluči.
+
+(4) Nedopušteni prijedlog za oslobođenje od preostalih obveza sud će odbaciti rješenjem.
+
+*Dužnost dužnika u pogledu zaposlenja ili obavljanja primjerene djelatnosti*
+
+#### Članak 373.b
+
+Od trenutka ustupa tražbina do zaključenja stečajnoga postupka dužnik je dužan baviti se primjerenim zanimanjem, a ako je bez zaposlenja, potruditi se naći primjereno zaposlenje te ne smije odbiti primjereno zaposlenje ili obavljanje primjerene djelatnosti.«.
+
+#### Članak 95.
+
+U članku 374. ispred riječi: »Dužnik« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Sud će rješenjem iz članka 373.a stavka 1. odrediti povjerenika na kojeg prelaze založiva primanja dužnika u skladu s izjavom o ustupu.«.
+
+#### Članak 96.
+
+Naslov iznad članka 375. mijenja se i glasi: »Odluka suda o osnovanosti dužnikova prijedloga«.
+
+U članku 375. stavku 2. iza riječi: »stečajni vjerovnik koji se« dodaje se riječ: »najkasnije«.
+
+U stavku 3. riječi: »članka 297.« zamjenjuju se riječima: »članka 295.«, a riječi: »članka 298.« zamjenjuju se riječima: »članka 297.«.
+
+#### Članak 97.
+
+U članku 376. stavku 1. iza riječi: »ako je to« dodaje se riječ: »najkasnije«.
+
+Točka 3. briše se.
+
+U dosadašnjoj točki 4., koja postaje točka 3., riječi: »posljednjoj godini« zamjenjuju se riječima: »posljednje tri godine«.
+
+Iza dosadašnje točke 5. koja postaje točka 4. briše se točka te se dodaju nova točka 5. i točka 6. koje glase:
+
+»5. ako je dužnik u izjavi iz članka 373. stavka 1. ili u pogledu popisa predmeta stečajne mase iz članka 221., popisa vjerovnika iz članka 222. ili pregleda imovine i obveza iz članka 223. ovoga Zakona te u pogledu svojih prihoda dao namjerno ili iz krajnje nepažnje netočne ili nepotpune podatke ili
+
+6. ako je dužnik povrijedio svoju obvezu iz članka 373.a ovoga Zakona i time oštetio svoje vjerovnike u namirenju, odredbe članka 382. stavaka 2. i 3. ovoga Zakona primijenit će se na odgovarajući način.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) U slučaju moguće obustave stečajnog postupka u skladu s člankom 297. ovoga Zakona prijedlog vjerovnika da se odbije prijedlog dužnika za oslobađanje od preostalih obveza može se staviti u pisanom obliku do donošenja odluke o obustavi stečajnog postupka.
+
+(4) Rješenje suda iz stavka 1. odnosno stavka 3. ovoga članka objavit će se na mrežnoj stranici e-Oglasna ploča sudova. Protiv tih rješenja dužnik i svaki stečajni vjerovnik koji se usprotivio dužnikovu oslobađanju od preostalih obveza ima pravo na žalbu.«.
+
+#### Članak 98.
+
+Naslov iznad članka 377. i članak 377. brišu se.
+
+#### Članak 99.
+
+U članku 378. stavku 1. treća rečenica mijenja se i glasi: »Povjerenik je dužan sudu jednom godišnje podnijeti izvješće o primljenim iznosima za raspodjelu vjerovnicima.«.
+
+#### Članak 100.
+
+U članku 380. stavak 1. mijenja se i glasi:
+
+»Od trenutka zaključenja stečajnog postupka odnosno obustave stečajnog postupka sukladno članku 297. ovoga Zakona pa sve do isteka vremena ustupa založivih tražbina nad imovinom dužnika nije dopuštena ovrha u korist pojedinih stečajnih vjerovnika.«.
+
+Stavak 3. mijenja se i glasi:
+
+»Prijeboj protiv tražbine dužnika na iznose koji su obuhvaćeni izjavom o ustupu nije dopušten.«.
+
+#### Članak 101.
+
+U članku 381. stavku 1. riječi: »tijekom trajanja ustupa« zamjenjuju se riječima: »od zaključenja stečajnog postupka odnosno obustave stečajnog postupka u skladu s člankom 297. ovoga Zakona pa sve do isteka vremena ustupa založivih tražbina«.
+
+Točka 2. mijenja se i glasi:
+
+»2. dužan je predati povjereniku jednu polovinu vrijednosti imovine koju stekne nasljeđivanjem ili s obzirom na buduće pravo nasljeđivanja te cijelu vrijednost imovine koju stekne kao dar, dobitak na lutriji ili koju stekne u bilo kojoj drugoj igri na dobitak. Od dužnosti na predaju izuzeti su prigodni darovi i dobici koji su neznatne vrijednosti«.
+
+Iza točke 5. briše se točka, te se dodaje se točka 6. koja glasi:
+
+»6. ne smije zasnivati neprimjerene obveze u smislu članka 376. stavka 1. točke 3. ovoga Zakona.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Na prijedlog dužnika sud će utvrditi je li određena imovina stečena u smislu stavka 1. točke 2. ovoga članka izuzeta od dužnosti predaje povjereniku.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 102.
+
+U članku 382. stavku 1. riječi: »tijekom trajanja ustupa« zamjenjuju se riječima: »od zaključenja stečajnog postupka odnosno obustave stečajnog postupka u skladu s člankom 297. ovoga Zakona pa do isteka vremena ustupa založivih tražbina« te se na kraju prve rečenice umjesto točke stavlja zarez i dodaju riječi: »osim ako dužnik nije kriv za povredu svojih dužnosti.«.
+
+Iza prve rečenice dodaje se nova druga rečenica koja glasi: »U slučaju iz članka 381. stavka 1. točke 6. ne uzima se u obzir obična nepažnja.« Dosadašnja druga i treća rečenica postaju treća i četvrta.
+
+#### Članak 103.
+
+U članku 383. stavku 1. riječi: »za vrijeme trajanja ustupa« zamjenjuju se riječima: »od zaključenja stečajnog postupka odnosno obustave stečajnog postupka u skladu s člankom 297. ovoga Zakona pa do isteka vremena ustupa založivih tražbina«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Protiv odluke suda o uskrati oslobođenja od preostalih obveza podnositelj prijedloga i dužnik imaju pravo na žalbu. Uskrata oslobođenja od preostalih obveza objavit će se na mrežnoj stranici e-Oglasna ploča sudova.«.
+
+#### Članak 104.
+
+Iza članka 383. dodaju se članak 383.a i naslov iznad članka koji glase:
+
+*»Naknadno poznati razlozi za uskratu oslobođenja*
+
+#### Članak 383.a
+
+(1) Sud će, na prijedlog stečajnog vjerovnika, uskratiti oslobođenje od preostalih obveza ako se nakon zaključenja stečajnog postupka ili u slučaju iz članka 297. ovoga Zakona nakon obustave stečajnog postupka utvrdi da je postojao razlog za uskratu oslobođenja iz članka 376. stavka 1. ovoga Zakona. Prijedlog se može staviti samo unutar šest mjeseci nakon što je vjerovnik saznao za postojanje takvog razloga. Prijedlog je dopušten samo ako se učini vjerojatnim da postoje pretpostavke iz ovoga stavka i da vjerovnik prije nije imao saznanja o postojanju takvog razloga.
+
+(2) Protiv odluke suda o uskrati oslobođenja od preostalih obveza podnositelj prijedloga i dužnik imaju pravo na žalbu. Uskrata oslobođenja od preostalih obveza objavit će se na mrežnoj stranici e-Oglasna ploča sudova.«.
+
+#### Članak 105.
+
+U članku 385. iza broja: »383.« stavlja se zarez i dodaje broj: »383.a«, a riječ: »dužnika« zamjenjuje se riječi: »vjerovnika«.
+
+#### Članak 106.
+
+U članku 386. iza stavka 1. dodaju se novi stavci 2. i 3. te stavci 4. i 5. koji glase:
+
+»(2) Određeno oslobađanje dužnika od preostalih obveza iz stavka 1. ovoga članka djeluje od trenutka isteka vremena ustupa založivih tražbina.
+
+(3) Ako u stečajnom postupku nisu prijavljene tražbine, ili su prijavljene i utvrđene tražbine stečajnih vjerovnika namirene, a dužnik je namirio i troškove stečajnog postupka, kao i ostale obveze stečajne mase, sud će na prijedlog dužnika odlučiti o oslobađanju od preostalih obveza i prije isteka vremena ustupa založivih tražbina. Određeno oslobađanje dužnika od preostalih obveza iz stavka 1. ovoga članka djeluje od trenutka isteka vremena ustupa založivih tražbina.
+
+(4) Dužnik je dužan učiniti vjerojatnim postojanje pretpostavki iz stavka 3. ovoga članka.
+
+(5) Ako sud odredi oslobođenje od preostalih obveza u skladu s odredbom stavka 3. ovoga članka, odgovarajuće će se primijeniti članci 385. i 386.a ovoga Zakona.«.
+
+U dosadašnjem stavku 2., koji postaje stavak 6., riječi: »iz članka 382. stavaka 1. ili 2., ili iz članka 383.,« zamjenjuju se riječima: »iz članka 376. stavka 1., iz članka 382. stavka 1., stavka 2. rečenice 3., iz članka 383. i iz članka 383.a«.
+
+Dosadašnji stavak 3. postaje stavak 7.
+
+#### Članak 107.
+
+Iza članka 386. dodaju se članak 386.a i naslov iznad članka koji glase:
+
+*»Stjecanje imovine nakon isteka vremena ustupa*
+
+#### Članak 386.a
+
+Ako je dužniku određeno oslobođenje od preostalih obveza, imovina koju dužnik stekne nakon isteka vremena ustupa založivih tražbina i nakon nastupa pretpostavka iz članka 386. stavka 2. ovoga Zakona ne pripada više stečajnoj masi, osim dijelova imovine koji su vraćeni stečajnoj masi na temelju pobijanja stečajnog upravitelja, na temelju spora koji je vodio stečajni upravitelj i na temelju radnji unovčenja stečajnog upravitelja.«.
+
+#### Članak 108.
+
+U članku 387. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Zabrana obavljanja trgovačkom, poslovnom, obrtničkom ili profesionalnom djelatnošću koja je izdana samo na temelju insolventnosti dužnika prestaje imati pravni učinak pravomoćnošću odluke kojom se određuje oslobađanje od preostalih obveza stečajnog dužnika.«.
+
+#### Članak 109.
+
+Članak 388. mijenja se i glasi:
+
+»Oslobođenje od preostalih obveza dužnika ne odnosi se na:
+
+1. osigurane tražbine
+
+2. tražbine po osnovi namjerno počinjene nedopuštene radnje
+
+3. tražbine po osnovi novčane kazne izrečene za kazneno ili prekršajno djelo i troškove kaznenoga ili prekršajnog postupka
+
+4. tražbine po osnovi uzdržavanja koje proizlaze iz obiteljskog odnosa, roditeljstva, braka ili tazbinskog srodstva
+
+5. tražbine koje su nastale nakon otvaranja stečajnoga postupka te
+
+6. tražbine po osnovi troškova za vođenje stečajnoga postupka.«.
+
+#### Članak 110.
+
+Članak 389. mijenja se i glasi:
+
+»(1) Na prijedlog stečajnih vjerovnika sud će opozvati određeno oslobođenje dužnika od preostalih obveza ako:
+
+1. se naknadno utvrdi da je dužnik koju od svojih dužnosti namjerno povrijedio i time znatno onemogućio namirenje stečajnih vjerovnika
+
+2. se naknadno utvrdi da je dužnik za vrijeme ustupa založivih tražbina pravomoćno osuđen za neko od kaznenih djela iz članka 376. stavka 1. točke 1. ovoga Zakona ili da je dužnik tek nakon određenja oslobođenja od preostalih obveza pravomoćno osuđen za neko od kaznenih djela iz članka 376. stavka 1. točke 1. ovoga Zakona koje je počinio do isteka vremena za ustup založivih tražbina ili
+
+3. je dužnik nakon određenja oslobođenja od preostalih obveza namjerno ili iz krajnje nepažnje povrijedio svoje dužnosti izvješćivanja i suradnje koje ima tijekom stečajnoga postupka.
+
+(2) Prijedlog se može podnijeti u roku od godine dana od pravomoćnosti odluke o oslobođenju dužnika od preostalih obveza. Opoziv prema stavku 1. točki 3. ovoga članka može se predložiti unutar šest mjeseci nakon pravomoćnog zaključenja stečajnoga postupka. Vjerovnik je dužan učiniti vjerojatnim da postoje pretpostavke za razlog opoziva na koji se poziva. U slučaju iz stavka 1. točke 3. ovoga članka vjerovnik je dužan učiniti vjerojatnim da prije pravomoćnosti odluke nije imao saznanja o postojanju toga razloga za opoziv.«.
+
+#### Članak 111.
+
+U članku 405. stavku 1. točki 4. riječi: »od objave« zamjenjuju se riječima: »od dostave«.
+
+#### Članak 112.
+
+U članku 429. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Financijska agencija ima pravo na naknadu troška za podnošenje zahtjeva iz stavka 1. ovoga članka. Visinu i način plaćanja naknade propisat će ministar nadležan za poslove pravosuđa pravilnikom.«.
+
+#### Članak 113.
+
+U članku 430. podstavku 4. riječi: »od objave« zamjenjuju se riječima: »od dostave«.
+
+#### Članak 114.
+
+U članku 432. riječi: »s liste A stečajnih upravitelja i s liste B stečajnih upravitelja« zamjenjuju se riječima: »s liste stečajnih upravitelja«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 115.
+
+(1) Postupci započeti prije stupanja na snagu ovoga Zakona dovršit će se prema odredbama zakona koji je bio na snazi u vrijeme njihova pokretanja.
+
+(2) Iznimno od odredbe stavka 1. ovoga članka, odredbe članka 89. stavka 1. točaka 10. i 11., koji je izmijenjen člankom 59. ovoga Zakona, članka 169. stavka 6., koji je izmijenjen člankom 68. ovoga Zakona, članka 235. stavka 3., koji je izmijenjen člankom 72. ovoga Zakona i članka 247. stavaka 4. i 7., koji je izmijenjen člankom 73. ovoga Zakona, primjenjivat će se na sve postupke u tijeku i na sve elektroničke javne dražbe u kojima se poziv na sudjelovanje u elektroničkoj javnoj dražbi objavljuje na mrežnim stranicama Financijske agencije nakon stupanja na snagu ovoga Zakona.
+
+(3) Ministar nadležan za poslove pravosuđa donijet će u roku od 30 dana od dana stupanja na snagu ovoga Zakona pravilnike iz članaka 4., 9., 49., 51., 54., 56., 63. i 112. ovoga Zakona.
+
+#### Članak 116.
+
+(1) Stečajne upravitelje koji su na dan stupanja na snagu ovoga Zakona upisani na listi A stečajnih upravitelja za područje određenog trgovačkog suda i navršili su 70 godina života ministarstvo nadležno za poslove pravosuđa po službenoj dužnosti upisat će na listu stečajnih upravitelja te će biti izuzeti od dodjeljivanja novih predmeta, a brisat će se s liste nakon dovršetka svih postupaka u kojima su imenovani do trenutka stupanja na snagu ovoga Zakona.
+
+(2) Stečajni upravitelji koji su na dan stupanja na snagu ovoga Zakona upisani na listi B stečajnih upravitelja za područje određenog trgovačkog suda mogu ostati upisani na listi B stečajnih upravitelja radi obavljanja stručne obuke sukladno članku 79. stavku 1. točki 4. Stečajnog zakona (»Narodne novine«, br. 71/15. i 104/17.) najkasnije do 31. ožujka 2023. odnosno do isteka godine dana od upisa na listu B ili do brisanja s liste B.
+
+#### Članak 117.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 31. ožujka 2022., osim odredbi članka 68. stavaka 2. i 3., koji je izmijenjen člankom 42. ovoga Zakona i članka 69., koji je izmijenjen člankom 44. ovoga Zakona, a koje stupaju na snagu 1. listopada 2022.
+
+Klasa: 022-03/21-01/148
+
+Zagreb, 11. ožujka 2022.
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Stečajnog zakona (NN 27/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/27/403*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA STEČAJNOG ZAKONA
+
+Proglašavam Zakon o izmjenama i dopunama Stečajnog zakona, koji je Hrvatski sabor donio na sjednici 28. veljače 2024.
+
+Klasa: 011-02/24-02/14
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 1. ožujka 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA STEČAJNOG ZAKONA**
+
+Članak. 1.
+
+U Stečajnom zakonu (»Narodne novine«, br. 71/15., 104/17. i 36/22.) u članku 28. stavku 1. riječi: »5000,00 kuna« zamjenjuju se riječima: »660,00 eura«.
+
+### Članak 2.
+
+U članku 36. stavku 1. točki 3. riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+### Članak 3.
+
+U članku 40. stavku 1. riječi: »200,00 kuna« zamjenjuju se riječima: »25 eura«.
+
+### Članak 4.
+
+U članku 45. stavku 2. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+### Članak 5.
+
+U članku 78. stavku 6. riječi: »članka 91. stavaka 2. i 6.« zamjenjuju se riječima: »članka 91. stavaka 1. i 4.«.
+
+### Članak 6.
+
+Naslov iznad članka 79. mijenja se i glasi: »Upis na listu stečajnih upravitelja«.
+
+U članku 79. stavku 2. podstavku 3. riječi: »članka 91. stavka 6.« zamjenjuju se riječima: »članka 91. stavka 4.«.
+
+U podstavku 4. riječi: »članka 91. stavka 2.« zamjenjuju se riječima: »članka 91. stavka 1.«.
+
+### Članak 7.
+
+U članku 79.b stavku 5. riječi: »200.000,00 kuna« zamjenjuju se riječima: »25.000,00 eura«.
+
+### Članak 8.
+
+U članku 81. stavku 1. podstavku 2. točki 3. riječi: »članka 91. stavka 2.« zamjenjuju se riječima: »članka 91. stavka 1.«.
+
+U točki 4. riječi: »članka 91. stavka 6.« zamjenjuju se riječima: »članka 91. stavka 4.«.
+
+U stavku 2. iza riječi: »stavka 1.« dodaju se riječi: »podstavka 2.«.
+
+### Članak 9.
+
+U članku 84. stavku 1. iza riječi: »suda« dodaju se riječi: »odnosno s liste visoko kvalificiranih stečajnih upravitelja«.
+
+### Članak 10.
+
+U članku 90. stavku 2. riječi: »10.000,00 kuna« zamjenjuju se riječima: »1320,00 eura«.
+
+### Članak 11.
+
+U članku 91. stavak 5. mijenja se i glasi:
+
+»(5) Ako razriješeni stečajni upravitelj ne postupi sukladno nalogu suda iz stavka 4. ovoga članka, može se kazniti novčanom kaznom do 1320,00 eura.«.
+
+### Članak 12.
+
+U članku 112. stavku 1. riječi: »5000,00 kuna« zamjenjuju se riječima: »660,00 eura«.
+
+### Članak 13.
+
+U članku 114. stavku 1. riječi: »1000,00 kuna« zamjenjuju se riječima: »130,00 eura«, a riječi: »20.000,00 kuna« zamjenjuju se riječima: »2700,00 eura«.
+
+### Članak 14.
+
+U članku 118. stavku 4. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+### Članak 15.
+
+U članku 127. stavku 1. riječi: »2.000.000,00 kuna« zamjenjuju se riječima »270.000,00 eura«.
+
+U stavku 2. riječi: »2.000.000,00 kuna« zamjenjuju se riječima »270.000,00 eura«.
+
+### Članak 16.
+
+U članku 178. stavku 2. riječi: »10.000,00 kuna« zamjenjuju se riječima: »1320,00 eura«.
+
+### Članak 17.
+
+U članku 216. stavku 7. riječi: »od 100,00 kuna niti veća od 1000,00 kuna« zamjenjuju se riječima: »od 13,00 eura niti veća od 130,00 eura«.
+
+### Članak 18.
+
+U članku 229. stavku 3. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
+
+### Članak 19.
+
+U članku 247. stavku 6. riječi: »1,00 kune « zamjenjuju se riječima: »1,00 eura«.
+
+### Članak 20.
+
+U članku 257. stavku 1. točki 3. riječ: »kunama« zamjenjuje se riječju: »eurima«.
+
+### Članak 21.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/110
+
+Zagreb, 28. veljače 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

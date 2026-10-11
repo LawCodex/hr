@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-02
-last_amended: 2013-06-21
+last_amended: 2020-05-27
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "81/96, 76/13"
+narodne_novine: "81/96, 76/13, 62/20"
 amendments:
   - "NN 76/2013 (1528) Zakon o izmjenama i dopunama Zakona o Hrvatskom registru brodova"
+  - "NN 62/2020 (1234) Zakon o izmjenama i dopuni Zakona o Hrvatskom registru brodova"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/81/1399"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 81/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/81/1399).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 76/2013, NN 62/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -399,3 +400,152 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o Hrvatskom registru brodova (NN 62/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/62/1234*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O HRVATSKOM REGISTRU BRODOVA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o hrvatskom registru brodova, koji je Hrvatski sabor donio na sjednici 18. svibnja 2020.
+
+Klasa: 011-01/20-01/80  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 22. svibnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O HRVATSKOM REGISTRU BRODOVA**
+
+#### Članak 1.
+
+U Zakonu o Hrvatskom registru brodova (»Narodne novine«, br. 81/96., 76/13.) članak 1.a mijenja se i glasi:
+
+»Ovim Zakonom osigurava se provedba sljedećih akata Europske unije:
+
+1. Uredba (EZ) br. 391/2009 Europskog parlamenta i Vijeća od 23. travnja 2009. o zajedničkim pravilima i normama za organizacije koje obavljaju pregled i nadzor brodova (preinačena) (Tekst značajan za EGP) (SL L 131, 28. 5. 2009.),
+
+2. Uredba (EU) 2015/757 Europskog parlamenta i Vijeća od 29. travnja 2015. o praćenju emisija ugljikova dioksida iz pomorskog prometa, izvješćivanju o njima i njihovoj verifikaciji te o izmjeni Direktive 2009/16/EZ (Tekst značajan za EGP) (SL L 123, 19. 5. 2015.), u daljnjem tekstu: Uredba (EU) 2015/757,
+
+3. Uredba (EU) br. 1257/2013 Europskog parlamenta i Vijeća od 20. studenoga 2013. o recikliranju brodova i o izmjeni Uredbe (EZ) br. 1013/2006 i Direktive 2009/16/EZ (Tekst značajan za EGP) (SL L 330, 10. 12. 2013.), u daljnjem tekstu: Uredba (EU) 1257/2013.«.
+
+#### Članak 2.
+
+Članak 6. mijenja se i glasi:
+
+»U okviru djelatnosti iz članka 1. stavka 2. ovoga Zakona, HRB obavlja sljedeće poslove od posebnog interesa za Republiku Hrvatsku:
+
+1. provodi statutarnu certifikaciju brodova hrvatske državne pripadnosti koji ne obavljaju međunarodna putovanja,
+
+2. provodi statutarnu certifikaciju brodova hrvatske državne pripadnosti koji obavljaju međunarodna putovanja, a na koje se odnose međunarodne konvencije, sukladno propisu koji uređuje uvjete koje moraju ispunjavati priznate organizacije koji donosi ministar nadležan za pomorstvo,
+
+3. provodi statutarnu certifikaciju jahti hrvatske državne pripadnosti koje ne obavljaju međunarodna putovanja, bez obzira na duljinu trupa,
+
+4. provodi statutarnu certifikaciju jahti hrvatske državne pripadnosti duljine trupa manje od 24 metra koje obavljaju međunarodna putovanja,
+
+5. provodi statutarnu certifikaciju jahti hrvatske državne pripadnosti duljine trupa 24 metra i veće koje obavljaju međunarodna putovanja, a na koje se odnose međunarodne konvencije, sukladno propisu koji uređuje uvjete koje moraju ispunjavati priznate organizacije koji donosi ministar nadležan za pomorstvo,
+
+6. provodi statutarnu certifikaciju plutajućih i nepomičnih odobalnih pomorskih objekata hrvatske državne pripadnosti,
+
+7. provodi statutarnu certifikaciju plovila unutarnje plovidbe,
+
+8. obavlja poslove statutarne certifikacije u vezi sa sigurnosnom zaštitom brodova u skladu sa zakonom i drugim propisima koji uređuju sigurnosnu zaštitu brodova,
+
+9. obavlja baždarenje pomorskih objekata hrvatske državne pripadnosti koji ne obavljaju međunarodna putovanja, osim brodica,
+
+10. obavlja baždarenje pomorskih brodova koji obavljaju međunarodna putovanja i jahti duljine trupa 24 metra i veće koje obavljaju međunarodna putovanja, a za koje provodi statutarnu certifikaciju i na koje se odnose međunarodne konvencije, sukladno propisu koji uređuje uvjete koje moraju ispunjavati priznate organizacije koji donosi ministar nadležan za pomorstvo,
+
+11. obavlja baždarenje ostalih pomorskih objekata hrvatske državne pripadnosti koji nisu obuhvaćeni točkom 10. ovoga članka, a koji obavljaju međunarodna putovanja, osim brodica,
+
+12. obavlja baždarenje plovila unutarnje plovidbe,
+
+13. utvrđuje sigurnost kontejnera,
+
+14. obavlja poslove tehničkog nadzornog tijela za certifikaciju plovila u unutarnjoj plovidbi sukladno propisu koji donosi ministar nadležan za unutarnju plovidbu,
+
+15. pruža stručnu potporu ministarstvu nadležnom za poslove pomorstva u ispunjavanju obveza Republike Hrvatske kao države zastave sukladno Konvenciji Ujedinjenih naroda o pravu mora, Kodeksu za implementaciju obveznih instrumenata Međunarodne pomorske organizacije, kao i drugih obveznih međunarodnih instrumenata, kao i odnosnim nacionalnim propisima te pruža stručnu potporu u pripremi prijedloga sadržaja Tehničkih pravila za statutarnu certifikaciju pomorskih objekata,
+
+16. pruža stručnu potporu ministarstvu nadležnom za poslove unutarnje plovidbe u ispunjavanju obveza Republike Hrvatske sukladno odnosnim međunarodnim instrumentima i nacionalnim propisima i pruža stručnu potporu u pripremi prijedloga sadržaja Tehničkih pravila za statutarnu certifikaciju plovila unutarnje plovidbe,
+
+17. vrši provjeru udovoljavanja tehničkim uvjetima raspreme za pomorske objekte hrvatske državne pripadnosti koji ne obavljaju međunarodna putovanja, osim brodica,
+
+18. vrši provjeru udovoljavanja tehničkim uvjetima stranog plovnog objekta u raspremi u unutarnjim morskim vodama Republike Hrvatske, sukladno posebnom propisu koji donosi ministar nadležan za pomorstvo,
+
+19. vrši provjeru udovoljavanja tehničkim uvjetima raspreme za brodove hrvatske državne pripadnosti koji obavljaju međunarodna putovanja, a za koje provodi statutarnu certifikaciju i na koje se odnose međunarodne konvencije, sukladno propisu koji uređuje uvjete koje moraju ispunjavati priznate organizacije koji donosi ministar nadležan za pomorstvo,
+
+20. sudjeluje u radu i izvršavanju obveza prema međunarodnim organizacijama glede poslova iz točaka 1. do 16. ovoga članka.«.
+
+#### Članak 3.
+
+U članku 9. iza podstavka 6. umjesto točke stavlja se zarez i dodaju se podstavci 7. i 8. koji glase:
+
+» – poslove verifikacije u skladu s Uredbom (EU) 2015/757 i Uredbom (EU) br. 1257/2013,
+
+– poslove ovlaštenog tijela u skladu s propisima koji uređuju brodice i jahte i propisima koji uređuje pomorsku opremu.«.
+
+#### Članak 4.
+
+U članku 12. stavak 2. briše se.
+
+#### Članak 5.
+
+Članak 14. mijenja se i glasi:
+
+»Upravno vijeće ima predsjednika i osam članova.
+
+Vlada Republike Hrvatske imenuje četiri člana Upravnog vijeća, i to:
+
+a) tri člana Upravnog vijeća na prijedlog ministra nadležnog za poslove pomorstva, od toga:
+
+– dva člana iz reda stručnjaka nadležnog ministarstva koji obavljaju poslove u vezi sa sigurnošću pomorske plovidbe,
+
+– jednog člana iz reda stručnjaka nadležnog ministarstva koji obavljaju poslove u vezi sa sigurnošću plovidbe na unutarnjim plovnim putevima,
+
+b) jednog člana Upravnog vijeća na prijedlog ministra nadležnog za poslove gospodarstva iz reda stručnjaka koji obavljaju poslove u vezi s industrijskim razvojem na području brodogradnje.
+
+Tri člana Upravnog vijeća imenuju sljedeći korisnici usluga HRB-a, uz naknadnu suglasnost Vlade Republike Hrvatske:
+
+– Hrvatska gospodarska komora – jednog člana iz redova predstavnika hrvatskih osiguravatelja i reosiguravatelja brodova,
+
+– udruga brodara registrirana u Republici Hrvatskoj, čiji članovi upravljaju s najmanje 60% ukupne bruto tonaže svih brodova hrvatske državne pripadnosti u međunarodnoj plovidbi – dva člana.
+
+Ako Vlada Republike Hrvatske ne dade naknadnu suglasnost za člana Upravnog vijeća iz stavka 3. ovoga članka, korisnici usluga dužni su u roku od 15 dana imenovati novog člana.
+
+Dva člana Upravnog vijeća radnici biraju iz svojih redova u skladu s postupkom propisanim općim propisom o radu.
+
+Predsjednika bira Upravno vijeće iz reda svojih članova.
+
+Predsjednik i članovi Upravnog vijeća imenuju se, odnosno biraju na vrijeme od četiri godine.
+
+Članove Upravnog vijeća može razriješiti, odnosno opozvati tijelo koje ih je imenovalo, odnosno izabralo i prije isteka vremena iz stavka 7. ovoga članka.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 6.
+
+Osobe koje obavljaju dužnost članova Upravnog vijeća Hrvatskog registra brodova na dan stupanja na snagu ovoga Zakona nastavljaju obavljati tu dužnost do imenovanja, odnosno izbora novih članova Upravnog vijeća Hrvatskog registra brodova sukladno odredbama ovoga Zakona.
+
+Upravno vijeće Hrvatskog registra brodova će u roku od četiri mjeseca od stupanja na snagu ovoga Zakona uskladiti Statut Hrvatskog registra brodova s odredbama ovoga Zakona i dostaviti ga na suglasnost Vladi Republike Hrvatske.
+
+#### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/224  
+Zagreb, 18. svibnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

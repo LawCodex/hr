@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-06-10
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "64/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "64/15, 98/19"
+amendments:
+  - "NN 98/2019 (1970) Zakon o izmjeni Zakona o pravima žrtava seksualnog nasilja za vrijeme oružane agresije na Republiku Hrvatsku u Domovinskom ratu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/64/1221"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o pravima žrtava seksualnog nasilja za vrijeme oružane agresije na Republiku Hrvatsku u Domovinskom ratu
 
 > Izvor: Narodne novine, NN 64/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/64/1221).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -472,3 +476,53 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o pravima žrtava seksualnog nasilja za vrijeme oružane agresije na Republiku Hrvatsku u Domovinskom ratu (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1970*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PRAVIMA ŽRTAVA SEKSUALNOG NASILJA ZA VRIJEME ORUŽANE AGRESIJE NA REPUBLIKU HRVATSKU U DOMOVINSKOM RATU
+
+Proglašavam Zakon o izmjeni Zakona o pravima žrtava seksualnog nasilja za vrijeme oružane agresije na Republiku Hrvatsku u Domovinskom ratu, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/178
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PRAVIMA ŽRTAVA SEKSUALNOG NASILJA ZA VRIJEME ORUŽANE AGRESIJE NA REPUBLIKU HRVATSKU U DOMOVINSKOM RATU**
+
+### Članak 1.
+
+U Zakonu o pravima žrtava seksualnog nasilja za vrijeme oružane agresije na Republiku Hrvatsku u Domovinskom ratu (»Narodne novine«, br. 64/15.) u članku 18. stavku 2. riječi: »uredi državne uprave u jedinici područne (regionalne) samouprave, odnosno nadležno upravno tijelo Grada Zagreba« zamjenjuju se riječima: »nadležna upravna tijela u županijama, odnosno Gradu Zagrebu kao povjereni posao državne uprave«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/173
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

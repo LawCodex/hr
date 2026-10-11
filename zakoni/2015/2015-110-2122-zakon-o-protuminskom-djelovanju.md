@@ -6,11 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-10-13
+last_amended: 2023-06-02
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "110/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "110/15, 118/18, 98/19, 114/22, 59/23"
+amendments:
+  - "NN 118/2018 (2353) Zakon o izmjenama Zakona o protuminskom djelovanju"
+  - "NN 98/2019 (1917) Zakon o izmjeni Zakona o protuminskom djelovanju"
+  - "NN 114/2022 (1690) Zakon o izmjenama Zakona o protuminskom djelovanju"
+  - "NN 59/2023 (999) Zakon o izmjenama i dopunama Zakona o protuminskom djelovanju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/110/2122"
 retrieved: 2026-10-12
 ---
@@ -18,6 +23,8 @@ retrieved: 2026-10-12
 # Zakon o protuminskom djelovanju
 
 > Izvor: Narodne novine, NN 110/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/110/2122).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 118/2018, NN 98/2019, NN 114/2022, NN 59/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -2024,3 +2031,1225 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o protuminskom djelovanju (NN 118/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/118/2353*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PROTUMINSKOM DJELOVANJU
+
+Proglašavam Zakon o izmjenama Zakona o protuminskom djelovanju, koji je Hrvatski sabor donio na sjednici 14. prosinca 2018.
+
+Klasa: 011-01/18-01/234
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PROTUMINSKOM DJELOVANJU**
+
+#### Članak 1.
+
+U Zakonu o protuminskom djelovanju (»Narodne novine«, br. 110/15.) u članku 1. riječi: »zadaće pravne osobe s javnim ovlastima« brišu se.
+
+#### Članak 2.
+
+U članku 2. stavku 4. iza riječi: »obavljaju službenici Ministarstva« briše se zarez i riječi: »Hrvatski centar za razminiranje (u daljnjem tekstu: HCR)«.
+
+#### Članak 3.
+
+U članku 4. stavku 1. podstavku 7. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+U podstavku 9. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+U podstavku 17. riječi: »ovlašteni djelatnici HCR-a« zamjenjuju se riječima: »službenici Ministarstva«.
+
+U podstavku 23. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 4.
+
+U članku 6. stavak 2. mijenja se i glasi:
+
+»(2) Nacrt prijedloga Nacionalnog programa protuminskog djelovanja Republike Hrvatske izrađuje Ministarstvo uz pribavljeno mišljenje ministarstava nadležnih za obranu, financije, pomorstvo, promet i infrastrukturu, regionalni razvoj i fondove Europske unije, kulturu, zaštitu okoliša, turizam, gospodarstvo, poljoprivredu, graditeljstvo i prostorno uređenje, poduzetništvo i obrt i jedinica područne (regionalne) samouprave koje na svojem području imaju površine uvrštene u MSP.«.
+
+#### Članak 5.
+
+U članku 7. stavak 1. mijenja se i glasi:
+
+»(1) Na temelju odobrenih financijskih sredstava Ministarstvo izrađuje prijedlog Plana protuminskog djelovanja (u daljem tekstu: Plan) za jednogodišnje razdoblje te ga dostavlja na mišljenje ministarstvima nadležnim za financije, obranu, pomorstvo, promet i infrastrukturu, regionalni razvoj i fondove Europske unije, kulturu, zaštitu okoliša, turizam, gospodarstvo, poljoprivredu, graditeljstvo i prostorno uređenje i poduzetništvo i obrt.«.
+
+U stavku 3. podstavcima 2. i 3. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+U stavku 4. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+U stavku 5. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+U stavku 7. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+Stavak 8. briše se.
+
+U stavku 9. koji postaje stavak 8. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+Stavak 10. postaje stavak 9.
+
+#### Članak 6.
+
+U članku 8. stavcima 1. i 2. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+U stavku 5. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Ministarstvo je dužno poslove razminiranja iz stavka 5. ovoga članka ugovorno ustupiti ovlaštenim pravnim osobama sukladno propisima kojima se uređuje postupak javne nabave.«.
+
+#### Članak 7.
+
+Članak 9. mijenja se i glasi:
+
+»(1) Ministarstvo obavlja poslove:
+
+– prikupljanja i obrade podataka o područjima i objektima zagađenim MES-om, NUS-om ili njihovim dijelovima
+
+– vođenja evidencija o razminiranim područjima i/ili građevinama, o MSP-u i pronađenom i uništenom MES-u, NUS-u i njihovim dijelovima
+
+– obilježavanja MSP-a
+
+– općeg izvida – analize i dopunskog općeg izvida MSP-a
+
+– izrade Idejnih planova razminiranja i Izvedbenih planova tehničkog izvida
+
+– kontrole kvalitete razminiranja na radilištu
+
+– izdavanja Potvrde o isključenju razminiranog područja i/ili građevine iz MSP-a
+
+– tehničkog izvida MSP-a primjenom odobrenih metoda
+
+– pružanja stručne pomoći i davanja potrebnih podataka nadležnim tijelima o opasnostima od MES-a, NUS-a i njihovih dijelova
+
+– informiranja i edukacije stanovništva o opasnostima od MES-a, NUS-a i njihovih dijelova te poduzimanja mjera zaštite i spašavanja
+
+– suradnje s međunarodnim subjektima u humanitarnom razminiranju.
+
+(2) Ministarstvo obavljanje poslova iz stavka 1. podstavka 8. ovoga članka, koji se odnose na poslove ručne detekcije mina, strojne pripreme površina i pregleda površina psima za detekciju mina, može, na pojedinim površinama i/ili građevinama utvrđenim Izvedbenim planom tehničkog izvida, ustupiti ovlaštenim pravnim osobama ili obrtnicima, sukladno propisima kojima se uređuje postupak javne nabave.«.
+
+#### Članak 8.
+
+U članku 20. stavcima 1. i 3. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 9.
+
+U članku 23. stavku 1. riječ: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+U stavku 3. riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«, a riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 4. riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«, a riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 5. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 10.
+
+U članku 24. stavku 1. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+U stavku 3. riječi: »Ravnatelj HCR-a« zamjenjuju se riječju: »Ministar ili osoba koju on za to ovlasti«.
+
+#### Članak 11.
+
+Članak 25. briše se.
+
+#### Članak 12.
+
+Članak 26. briše se.
+
+#### Članak 13.
+
+U članku 28. stavku 1. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 14.
+
+U članku 30. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 15.
+
+U članku 32. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 16.
+
+U članku 33. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«, a riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 17.
+
+U članku 34. u uvodnoj rečenici riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+#### Članak 18.
+
+U članku 37. stavku 2. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+U stavcima 3. i 4. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 5. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«, a riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 19.
+
+U članku 39. stavku 1. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 2. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«, a riječi: »ravnatelj HCR-a« zamjenjuju se riječju: »ministar ili osoba koju on za to ovlasti«.
+
+U stavku 3. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+U stavku 4. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 5. riječi: »ravnatelj HCR-a« zamjenjuju se riječju: »Ministarstvo«.
+
+#### Članak 20.
+
+U članku 40. stavku 1. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«, a riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 3. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 21.
+
+U članku 41. stavku 1. riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«, a riječi: »ravnatelj HCR-a« zamjenjuju se riječju: »Ministarstvo«.
+
+U stavku 2. riječi: »ravnatelj HCR-a« zamjenjuju se riječju: »Ministarstvo«, a podstavak 1. briše se.
+
+Dosadašnji podstavci 2. i 3. postaju podstavci 1. i 2.
+
+#### Članak 22.
+
+U članku 43. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 23.
+
+U članku 44. stavku 1. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavcima 2. i 3. riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«, a riječi: »HCR dužan« zamjenjuju se riječima: »Ministarstvo dužno«.
+
+#### Članak 24.
+
+U članku 45. stavku 2. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 25.
+
+U članku 46. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«, a riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 26.
+
+U članku 47. stavcima 2. i 3. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 27.
+
+U članku 48. stavku 1. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 28.
+
+U članku 49. u uvodnoj rečenici riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+U podstavku 2. riječi: »nadležnu ustrojstvenu jedinicu Ministarstva u sjedištu i« brišu se.
+
+U podstavku 3. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 29.
+
+U članku 53. stavcima 1. i 4. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 30.
+
+U članku 57. stavku 2. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 31.
+
+U članku 58. stavku 1. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 32.
+
+U članku 60. stavku 1. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+U stavcima 3. i 4. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+U stavku 5. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«, a riječi: »i Ministarstvu« brišu se.
+
+#### Članak 33.
+
+U članku 61. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 34.
+
+U članku 62. stavku 2. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 35.
+
+U članku 64. stavku 1. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 36.
+
+U članku 65. stavku 3. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 37.
+
+U članku 67. stavak 3. mijenja se i glasi:
+
+»(3) Službenici iz stavka 1. ovoga članka dostavit će Zapisnik o naknadnom pronalasku MES-a i NUS-a i njihovih dijelova ustrojstvenoj jedinici Ministarstva nadležnoj za poslove protuminskog djelovanja koja će provjeriti podatke o tome jesu li područje i/ili građevina bili predmet općeg izvida – analize MSP-a, tehničkog izvida i/ili razminiranja te tko je obavljao navedene poslove, radi poduzimanja odgovarajućih mjera inspekcijskog nadzora.«.
+
+Stavci 4. i 5. brišu se.
+
+U stavku 6., koji postaje stavak 4., riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+#### Članak 38.
+
+U članku 68. stavku 1. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 39.
+
+U članku 70. stavku 1. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 2. riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+U stavku 4. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 5. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«, a riječi: »HCR i Ministarstvo« zamjenjuju se riječima: »ustrojstvenu jedinicu Ministarstva nadležnu za poslove protuminskog djelovanja«.
+
+U stavku 6. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«, a riječi: »i Ministarstvu« brišu se.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Protiv rješenja iz stavka 6. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 40.
+
+U članku 71. stavku 1. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«, a riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+U podstavku 1. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U podstavku 5. na kraju rečenice stavlja se točka, a podstavak 6. briše se.
+
+U stavku 2. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 3. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 41.
+
+U članku 72. stavcima 1., 2., 3. i 4. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 5. riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«, a riječi: »i Ministarstvu« brišu se.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Protiv rješenja iz stavka 5. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 42.
+
+U članku 73. stavku 3. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 43.
+
+U članku 74. stavak 1. mijenja se i glasi:
+
+»(1) Povjerenstvo čine tri člana, službenika Ministarstva, od kojih su dva člana pirotehnički nadzornici kontrolori kvalitete i jedan inspektor Ministarstva.«.
+
+U stavku 2. riječi: »nadležnu inspekciju Ministarstva i« brišu se, a riječ: »tri« zamjenjuje se riječju: »pet«.
+
+U stavku 3. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 44.
+
+U članku 77. stavku 1. riječi: »ravnatelju HCR-a« brišu se.
+
+U stavku 2. riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+#### Članak 45.
+
+U članku 78. u uvodnoj rečenici riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+Podstavak 1. briše se.
+
+Dosadašnji podstavci 2. do 5. postaju podstavci 1. do 4.
+
+#### Članak 46.
+
+U članku 79. riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«, a riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 47.
+
+U članku 82. stavku 1. riječi: »HCR je dužan« zamjenjuju se riječima: »Ministarstvo je dužno«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Protiv rješenja iz stavka 1. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 48.
+
+U članku 83. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 49.
+
+U članku 86. stavcima 1. i 3. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+#### Članak 50.
+
+U članku 90. stavak 1. mijenja se i glasi:
+
+(1) Ministarstvo, u suradnji s drugim tijelima državne uprave, jedinicama lokalne i područne (regionalne) samouprave, civilnog sektora i lokalnim stanovništvom kontinuirano provodi informiranje i edukaciju o opasnostima od MES-a, NUS-a i njihovih dijelova.«.
+
+U stavku 2. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 51.
+
+U članku 93. stavku 1. riječi: »osposobljeni djelatnici HCR-a i« brišu se.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Službenici Ministarstva osposobljavaju se za obavljanje poslova iz stavka 1. ovoga članka putem stručnih radionica čiju je provedbu Ministarstvo dužno osigurati najmanje jednom godišnje.«.
+
+#### Članak 52.
+
+U članku 94. riječi: »osposobljeni djelatnici HCR-a i« brišu se.
+
+#### Članak 53.
+
+U članku 96. stavak 2. mijenja se i glasi:
+
+»(2) Koordinacijsko tijelo iz stavka 1. ovoga članka čine predstavnici Ministarstva i ministarstava nadležnih za poslove zdravstva i branitelja, Hrvatskog zavoda za mirovinsko osiguranje, Hrvatskog zavoda za javno zdravstvo te ostalih tijela i nevladinih organizacija u čijem je djelokrugu problematika osoba stradalih od EOR-a.«.
+
+#### Članak 54.
+
+U članku 97. stavku 1. riječi: »Ured za razminiranje Vlade Republike Hrvatske« zamjenjuju se riječju: »Ministarstvo«.
+
+#### Članak 55.
+
+U članku 98. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 56.
+
+U članku 100. stavku 1. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+U stavku 2. podstavcima 4. i 5. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 57.
+
+U članku 101. stavku 2. podstavku 4. riječ: »HCR-om« briše se.
+
+U stavku 4. podstavku 3. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+U stavku 5. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 58.
+
+U članku 102. stavku 3. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 59.
+
+U članku 104. stavku 2. riječ: »HCR« briše se.
+
+#### Članak 60.
+
+U članku 105. stavcima 4. i 5. riječ: »HCR-u« zamjenjuje se riječju: »Ministarstvu«.
+
+#### Članak 61.
+
+U članku 108. stavcima 2. i 3. riječ: »HCR« zamjenjuje se riječju: »Ministarstvo«.
+
+U stavku 7. riječi: »te upravnom nadzoru HCR-a« brišu se.
+
+#### Članak 62.
+
+U članku 123. stavku 1. riječi: »i HCR« brišu se.
+
+#### Članak 63.
+
+U članku 127. riječ: »HCR-a« briše se.
+
+#### Članak 64.
+
+U članku 129. stavku 1. riječ: »HCR,« briše se, a riječ: »ovlaštene« zamjenjuje se riječju: »Ovlaštene«.
+
+#### Članak 65.
+
+U članku 130. riječi: »HCR i« brišu se, a riječ: »ovlaštene« zamjenjuje se riječju: »Ovlaštene«.
+
+#### Članak 66.
+
+U članku 132. točki 7. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 67.
+
+U članku 133. stavku 2. riječ: »HCR-u« briše se.
+
+#### Članak 68.
+
+U članku 134. stavku 2. riječi: »i HCR-u« brišu se.
+
+U stavku 4. riječi: »i obavijestiti HCR« brišu se.
+
+U stavku 5. riječ: »HCR-a« zamjenjuje se riječju: »Ministarstva«.
+
+#### Članak 69.
+
+U članku 135. stavcima 3. i 4. riječ: »HCR-a« briše se.
+
+#### Članak 70.
+
+Članak 138. briše se.
+
+#### Članak 71.
+
+Članak 139. briše se.
+
+#### Članak 72.
+
+U članku 140. riječi: »HCR nije izdao« zamjenjuju se riječima: »Ministarstvo nije izdalo«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 73.
+
+(1) Danom stupanja na snagu ovoga Zakona prestaje s radom HCR.
+
+(2) Danom stupanja na snagu ovoga Zakona Ministarstvo preuzima sve poslove i radnike zatečene na preuzetim poslovima koji danom preuzimanja postaju državni službenici, pismohranu i drugu dokumentaciju, sredstva za rad, nekretnine, prava i obveze i financijska sredstva HCR-a.
+
+(3) Nekretnine iz stavka 2. ovoga članka su nekretnine koje su do stupanja na snagu ovoga Zakona bile korištene od strane HCR-a, i to u punom opsegu prava i obveza koje na istim nekretninama ima HCR.
+
+(4) Ravnatelj HCR-a obvezan je u roku od osam dana od dana stupanja na snagu ovoga Zakona podnijeti zahtjev za upis brisanja HCR-a iz sudskog registra.
+
+(5) S danom upisa brisanja HCR-a iz sudskog registra prestaje mandat njegova ravnatelja i zamjenika ravnatelja te Upravnog vijeća.
+
+(6) Do donošenja rješenja o rasporedu na radna mjesta u Ministarstvu preuzeti radnici nastavit će obavljati poslove utvrđene dosadašnjim ugovorima o radu te zadržavaju pravo na plaću, druga prava iz radnog odnosa te obveze i odgovornosti prema dosadašnjim ugovorima o radu.
+
+#### Članak 74.
+
+Provedbeni propisi doneseni na temelju Zakona o protuminskom djelovanju (»Narodne novine«, br. 110/15.) ostaju na snazi i uskladit će se s odredbama ovoga Zakona u roku od šest mjeseci od dana njegova stupanja na snagu.
+
+#### Članak 75.
+
+Stupanjem na snagu ovoga Zakona prestaje važiti Uredba o osnivanju Hrvatskog centra za razminiranje (»Narodne novine«, br. 24/98., 32/98., 150/98., 58/00., 18/02., 10/04., 79/05., 81/08., 37/11. i 70/12.).
+
+#### Članak 76.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/252
+
+Zagreb, 14. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o protuminskom djelovanju (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1917*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PROTUMINSKOM DJELOVANJU
+
+Proglašavam Zakon o izmjeni Zakona o protuminskom djelovanju, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/125
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O PROTUMINSKOM DJELOVANJU**
+
+### Članak 1.
+
+U Zakonu o protuminskom djelovanju (»Narodne novine«, br. 110/15. i 118/18.) u članku 122. stavku 3. riječi: »uredima državne uprave prema mjestu stanovanja« zamjenjuju se riječima: »nadležnom upravnom tijelu županije odnosno Grada Zagreba prema mjestu stanovanja, u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na obrazovanje«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/120
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o protuminskom djelovanju (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1690*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PROTUMINSKOM DJELOVANJU
+
+Proglašavam Zakon o izmjenama Zakona o protuminskom djelovanju, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/88  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PROTUMINSKOM DJELOVANJU**
+
+### Članak 1.
+
+U Zakonu o protuminskom djelovanju (»Narodne novine«, br. 110/15., 118/18. i 98/19.) u članku 123. stavku 1. riječi: »od najmanje 600.000,00 kn« zamjenjuju se riječima: »od najmanje 79.633,69 eura«, a riječi: »od najmanje 800.000,00 kn« zamjenjuju se riječima: »od najmanje 106.178,25 eura«.
+
+### Članak 2.
+
+U članku 136. stavku 1. riječi: »od 10.000 do 100.000 kuna« zamjenjuju se riječima: »od 1320,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »od 2000 do 10.000« zamjenjuju se riječima: »od 260,00 do 1320,00 eura«.
+
+U stavku 3. riječi: »od 50.000 kn do 100.000 kn« zamjenjuju se riječima: »od 6630,00 do 13.270,00 eura«, a riječi: »od 10.000 kn do 20.000 kn« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+U stavku 4. riječi: »od 100.000 kn do 150.000 kn« zamjenjuju se riječima: »od 13.270,00 do 19.900,00 eura«, a riječi: »od 20.000 do 40.000 kn« zamjenjuju se riječima: »od 2650,00 do 5300,00 eura«.
+
+### Članak 3.
+
+U članku 137. stavku 1. riječi: »od 2000 do 10.000 kuna« zamjenjuju se riječima: »od 260,00 do 1320,00 eura«.
+
+U stavku 2. riječi: »od 4000 kn do 10.000 kn« zamjenjuju se riječima: »od 530,00 do 1320,00 eura«.
+
+### Članak 4.
+
+U članku 140. riječi: »od 2000 do 10.000 kuna« zamjenjuju se riječima: »od 260,00 do 1320,00 eura«.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/88
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o protuminskom djelovanju (NN 59/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/59/999*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PROTUMINSKOM DJELOVANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o protuminskom djelovanju, koji je Hrvatski sabor donio na sjednici 24. svibnja 2023.
+
+Klasa: 011-02/23-02/43  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 26. svibnja 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PROTUMINSKOM DJELOVANJU**
+
+#### Članak 1.
+
+U Zakonu o protuminskom djelovanju (»Narodne novine«, br. 110/15., 118/18., 98/19. i 114/22.) u članku 2. stavku 3. iza riječi: »obavljaju« dodaje se riječ: »policijski«.
+
+U stavku 4. iza riječi: »obavljaju« i riječi: »osiguravaju« dodaje se riječ: »policijski«.
+
+U stavku 5. iza riječi: »službe,« dodaje se riječ: »policijski«.
+
+Stavak 6. briše se.
+
+#### Članak 2.
+
+U članku 4. stavak 1. mijenja se i glasi:
+
+»(1) Pojedini pojmovi, u smislu ovoga Zakona, imaju sljedeće značenje:
+
+1. MSP – svako područje, površina i/ili građevina za koje postoje izravni dokazi i/ili opravdana sumnja da su na njima postavljene minsko-eksplozivne zapreke izrađene od formacijskih i/ili improviziranih protupješačkih i protuoklopnih mina, kao i područje za koje postoji opravdana sumnja da je zagađeno podstreljivom
+
+2. MES – formacijske ili improvizirane protupješačke i protuoklopne mine koje svojim samostalnim djelovanjem ili pod vanjskim utjecajem mogu ugroziti život, zdravlje, imovinu i okoliš
+
+3. NUS – streljivo koje je armirano ili na neki drugi način pripremljeno za djelovanje i upotrijebljeno te može biti ispaljeno, lansirano, izbačeno ili bačeno, ali nije eksplodiralo zbog kvara, pogreške u izradi ili nekog drugog razloga može ugroziti život, zdravlje, imovinu i okoliš
+
+4. napuštena eksplozivna sredstva (u daljnjem tekstu: NES) – eksplozivna sredstva zaostala nakon ratnih djelovanja, ne nalaze se pod kontrolom i nisu bila iskorištena za vrijeme rata, a uskladištena su u poljska (priručna) skladišta ili pripremljena za uporabu, kao i druga neiskorištena eksplozivna sredstva napuštena na područjima na kojima su se izvodila borbena djelovanja
+
+5. dijelovi MES-a ili NUS-a – eksplozivne tvari i sastavni dijelovi MES-a ili NUS-a koji u sebi sadržavaju eksplozivnu tvar i koji svojim samostalnim djelovanjem ili pod vanjskim utjecajem mogu ugroziti život, zdravlje, imovinu ili okoliš
+
+6. eksplozivni ostaci rata (u daljnjem tekstu: EOR) – NUS i NES zaostali nakon ratnih djelovanja
+
+7. radilište – područje na kojem se obavljaju poslovi razminiranja ili tehničkog izvida i čija je granica utvrđena Idejnim planom razminiranja, Izvedbenim planom tehničkog izvida ili Izvedbenim planom razminiranja
+
+8. Idejni plan razminiranja – tehnička dokumentacija koju izrađuje Ministarstvo na osnovi prikupljenih podataka o području na kojem će se obavljati poslovi razminiranja. Sastavni je dio dokumentacije o nabavi sukladno zakonu kojim se uređuje javna nabava i služi kao podloga za pripremu ponuda od strane ovlaštenih pravnih osoba i obrtnika
+
+9. Izvedbeni plan razminiranja – tehnička dokumentacija koju, prema Idejnom planu razminiranja, izrađuje ovlaštena pravna osoba ili obrtnik, sadržava podatke o načinu obavljanja poslova razminiranja na radilištu i mora biti usklađena s odredbama ovoga Zakona i podzakonskih propisa te je sastavni dio ponude
+
+10. Izvedbeni plan tehničkog izvida – tehnička dokumentacija koju izrađuje Ministarstvo, a na temelju koje obavlja poslove tehničkog izvida
+
+11. opći izvid – analiza MSP-a – skup mjera i postupaka kojima se bez upotrebe tehničkih metoda razminiranja kontinuirano prikupljaju, obrađuju, analiziraju i ažuriraju informacije i podaci o minski sumnjivim područjima i/ili građevinama radi njihova definiranja i obilježavanja
+
+12. tehnički izvid – postupak kojim se tehničkom intervencijom, uz primjenu propisanih tehničkih metoda, dodatno prikupljaju i analiziraju podaci o MSP-u te utvrđuje točnost podataka o MSP-u prikupljenih metodom općeg izvida – analize MSP-a te utvrđuje zagađenost i/ili nezagađenost područja i/ili građevine MES-om, NUS-om i njihovim dijelovima
+
+13. razminiranje – skup radnji i postupaka kojima pirotehničari ovlaštenih pravnih osoba ili obrtnika primjenom odobrenih metoda pretražuju, pronalaze, obilježavaju, onesposobljavaju (dezaktiviraju) i uništavaju MES i NUS te njihove dijelove u MSP-u
+
+14. uklanjanje MES-a, NUS-a i njihovih dijelova – radnje i postupci koje poduzimaju policijski službenici Ministarstva radi otklanjanja neposredne opasnosti za život, zdravlje i imovinu na područjima koja su isključena iz MSP-a te radnje i postupci koje u moru, rijekama i jezerima te drugim vodenim površinama poduzimaju stručno osposobljeni i opremljeni policijski službenici Ministarstva, odnosno u sastavu vojnih objekata stručno osposobljene i opremljene službe Ministarstva obrane
+
+15. obilježavanje MSP-a – skup mjera i aktivnosti Ministarstva koje se provode radi stvaranja jasne granice između sigurnih površina te MSP-a
+
+16. početna točka/linija – točka unutar radilišta od koje se započinju, odnosno nastavljaju obavljati poslovi tehničkog izvida i/ili razminiranja
+
+17. pomoćni poslovi u razminiranju – poslovi strojne pripreme površina i poslovi pregleda površina psima za detekciju mina te ostali poslovi na radilištu, osim poslova pirotehničara, voditelja skupine i voditelja radilišta
+
+18. kontrola kvalitete – skup radnji, mjera i postupaka koje tijekom stručnog nadzora u tijeku obavljanja poslova razminiranja i završne kontrole kvalitete nad obavljenim poslovima razminiranja provode ovlašteni djelatnici Ministarstva u svrhu postizanja očišćenosti područja i/ili građevine
+
+19. očišćenost područja i/ili građevine – očišćenost područja i/ili građevine od svih MES-a, NUS-a i njihovih dijelova nakon obavljenih poslova razminiranja na radilištu do dubine određene Idejnim planom
+
+20. perspektivne vojne lokacije i/ili građevine – nekretnine u vlasništvu Republike Hrvatske koje su dane na upravljanje i raspolaganje Ministarstvu obrane te posebne vojne građevine specifične namjene
+
+21. neperspektivne vojne lokacije i/ili građevine – nekretnine u vlasništvu Republike Hrvatske koje se više ne koriste za vojne namjene i koje se prenose tijelu nadležnom za raspolaganje i upravljanje državnom imovinom
+
+22. Izjava o očišćenosti od svih MES-a, NUS-a i njihovih dijelova – dokument koji izdaje ovlaštena pravna osoba ili obrtnik nakon obavljenih poslova razminiranja
+
+23. Potvrda o isključenju područja i/ili građevine iz MSP-a – javna isprava koju izdaje Ministarstvo nakon obavljenih poslova općeg izvida – analize MSP-a, tehničkog izvida, odnosno razminiranja
+
+24. Hrvatska osnovna karta (u daljnjem tekstu: HOK) – osnovna službena državna karta, izrađuje se u mjerilu 1 : 5000
+
+25. ocjenjivanje sukladnosti – postupak kojim se utvrđuje da su određeni zahtjevi koji se odnose na proizvod, proces, sustav, osobu ili tijelo ispunjeni sukladno propisima kojima se uređuju tehnički zahtjevi za proizvode i ocjenjivanje sukladnosti
+
+26. ovlašteno tijelo za ocjenjivanje sukladnosti – tijelo koje obavlja poslove ocjenjivanja sukladnosti na temelju rješenja o ovlaštenju koje donosi ministar sukladno propisima kojima se uređuju tehnički zahtjevi za proizvode i ocjenjivanje sukladnosti i ovlaštena tijela za ocjenjivanje sukladnosti iz Europske unije i Europskoga gospodarskog prostora
+
+27. osobe stradale od EOR-a – osobe koje su kao civilne žrtve stradale ili smrtno stradale od MES-a, NUS-a, njihovih dijelova i NES-a zaostalih nakon ratnih djelovanja izvan MSP-a.«.
+
+#### Članak 3.
+
+U članku 5. stavak 2. mijenja se i glasi:
+
+»(2) Uklanjanje MES-a, NUS-a i njihovih dijelova iz mora, rijeka, jezera i drugih vodenih površina radi otklanjanja neposredne opasnosti za život, zdravlje i imovinu obavljaju za to stručno osposobljeni i opremljeni policijski službenici Ministarstva, a u sastavu vojnih objekata stručno osposobljene i opremljene službe Ministarstva obrane.«.
+
+#### Članak 4.
+
+U članku 8. stavku 2. iza riječi: »Ministarstvu« stavlja se zarez i dodaju riječi: »najkasnije do 30. lipnja tekuće godine,«.
+
+#### Članak 5.
+
+U članku 9. stavku 1. podstavak 1. mijenja se i glasi:
+
+»‒ prikupljanja, obrade i analize podataka o MSP-u«.
+
+U podstavku 4. riječi: »i dopunskog općeg izvida« brišu se.
+
+#### Članak 6.
+
+U članku 20. stavku 1. riječi: »dopunskog općeg izvida,« brišu se.
+
+U stavku 2. podstavci 6. i 7. mijenjaju se i glase:
+
+»‒ dokumentacije voditelja radilišta razminiranja / tehničkog izvida
+
+‒ Dnevnika kontrole kvalitete u tijeku obavljanja poslova razminiranja«.
+
+Podstavak 8. briše se.
+
+Dosadašnji podstavci 9. do 13. postaju podstavci 8. do 12.
+
+#### Članak 7.
+
+U članku 21. stavku 1. riječi: »dopunskog općeg izvida,« brišu se.
+
+#### Članak 8.
+
+Članak 32. mijenja se i glasi:
+
+»Općim izvidom – analizom MSP-a definiraju se minski sumnjiva područja i/ili građevine, a obavlja ga Ministarstvo.«.
+
+#### Članak 9.
+
+Članak 35. mijenja se i glasi:
+
+»(1) Ako se općim izvidom – analizom MSP-a, na temelju svih prikupljenih i analiziranih podataka i informacija, za neko područje ne može sa sigurnošću utvrditi nepostojanje sumnje u zagađenost područja MES-om i podstreljivom, to se područje proglašava MSP-om i provodi se obilježavanje područja sukladno odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona.
+
+(2) Ako se općim izvidom – analizom MSP-a prikupe direktni dokazi o miniranosti područja i/ili građevine, na temelju kojih se granice miniranih područja mogu točno definirati, Ministarstvo će za takvo područje izraditi Idejni plan razminiranja bez provedbe tehničkog izvida.«.
+
+#### Članak 10.
+
+Članak 36. mijenja se i glasi:
+
+»(1) Ako se na području koje zbog nepostojanja i/ili nedostupnosti informacija i vojnotehničke dokumentacije metodom općeg izvida – analize MSP-a nije definirano kao MSP pronađe MES i/ili podstreljivo, Ministarstvo će granice MSP-a utvrditi tehničkim izvidom.
+
+(2) Ako se za pronalaske MES-a, NUS-a, NES-a i/ili podstreljiva i njihovih dijelova izvan MSP-a utvrdi da su naknadno odbačeni, takvo područje i/ili građevina neće se smatrati MSP-om u smislu ovoga Zakona.«.
+
+#### Članak 11.
+
+Članak 37. mijenja se i glasi:
+
+»(1) Općim izvidom – analizom MSP-a može se isključiti iz MSP-a samo ono područje i/ili građevina koji na temelju svih prikupljenih i analiziranih podataka ispunjavaju propisane kriterije za isključenje.
+
+(2) Kriterije na temelju kojih se općim izvidom – analizom MSP-a neko područje može isključiti iz MSP-a propisuje ministar pravilnikom iz članka 84. ovoga Zakona.«.
+
+#### Članak 12.
+
+Članak 38. briše se.
+
+#### Članak 13.
+
+Članak 39. mijenja se i glasi:
+
+»(1) Tehnički izvid je postupak kojim Ministarstvo na temelju Izvedbenog plana tehničkog izvida, primjenom propisanih tehničkih metoda izviđanja, dodatno prikuplja i analizira podatke te utvrđuje točnost podataka prikupljenih općim izvidom – analizom MSP-a o minskim i terenskim karakteristikama područja, a posebice vrstama minsko-eksplozivnih zapreka, njihovu rasporedu i pravcu protezanja, broju, vrsti i tipu MES-a i/ili NUS-a i sl. te utvrđuje zagađenost i/ili nezagađenost područja i/ili građevine.
+
+(2) Tehnički izvid provodi se s ciljem:
+
+‒ potvrđivanja minsko-eksplozivnih zapreka, odnosno miniranih površina
+
+‒ preciznog definiranja položaja minsko-eksplozivnih zapreka, odnosno miniranih površina
+
+‒ utvrđivanja točnog rasporeda, pravca protezanja i vrste minsko-eksplozivnih zapreka
+
+‒ utvrđivanja vrste i tipova mina te procjene gustoće i broja mina
+
+‒ preciznog definiranja granica područja zagađenih NES-om i podstreljivom
+
+‒ prikupljanja podataka o terenskim karakteristikama
+
+‒ isključenja iz MSP-a onih područja za koja se utvrdi njihova nezagađenost.
+
+(3) Pirotehničari Ministarstva dužni su svoje poslove na tehničkom izvidu obavljati tako da nakon ručne detekcije mina ne zaostanu MES, NUS ili njihovi dijelovi do dubine određene Izvedbenim planom tehničkog izvida.
+
+(4) U slučaju bitnih odstupanja od Izvedbenog plana tehničkog izvida Ministarstvo izrađuje izmjene i dopune Izvedbenog plana tehničkog izvida.
+
+(5) Bitnim odstupanjima iz stavka 4. ovoga članka smatraju se promjene minske situacije u odnosu na polazno stanje, a koje su utvrđene tijekom obavljanja poslova tehničkog izvida i koje utječu na cilj i daljnji način provođenja tehničkog izvida.«.
+
+#### Članak 14.
+
+Članak 40. mijenja se i glasi:
+
+»Ako se tehničkim izvidom utvrdi sustavna zagađenost područja i/ili građevine MES-om, NES-om i podstreljivom, Ministarstvo će za predmetno područje i/ili građevinu izraditi Idejni plan razminiranja.«.
+
+#### Članak 15.
+
+Članak 41. mijenja se i glasi:
+
+»(1) Ako se tehničkim izvidom utvrdi nezagađenost područja i/ili građevine određenih Izvedbenim planom tehničkog izvida, Ministarstvo će takvo područje isključiti iz MSP-a.
+
+(2) Nakon obavljenih poslova tehničkog izvida, kada se područje i/ili građevina isključuju iz MSP-a, Ministarstvo je dužno u roku od 30 dana od dana završetka obavljanja poslova tehničkog izvida izdati potvrdu o isključenju područja i/ili građevine iz MSP-a.
+
+(3) Potvrdu iz stavka 2. ovoga članka Ministarstvo dostavlja:
+
+– nadležnoj jedinici područne (regionalne) samouprave
+
+– nadležnoj jedinici lokalne samouprave.
+
+(4) Način obavljanja tehničkog izvida propisuje ministar pravilnikom iz članka 84. ovoga Zakona.«.
+
+#### Članak 16.
+
+Članak 42. mijenja se i glasi:
+
+»Obilježavanje MSP-a obuhvaća skup mjera i aktivnosti koje provodi Ministarstvo radi stvaranja jasne i vidljive granice između sigurnih površina i MSP-a, a obavlja se u skladu s odredbama ovoga Zakona i propisa donesenih na temelju njega.«.
+
+#### Članak 17.
+
+U članku 44. stavku 1. riječ: »pirotehničari« zamjenjuje se riječju: »službenici«.
+
+#### Članak 18.
+
+Članak 46. briše se.
+
+#### Članak 19.
+
+U članku 51. stavku 2. briše se točka na kraju rečenice i dodaju riječi: »do dubine definirane Idejnim planom razminiranja.«.
+
+#### Članak 20.
+
+U članku 52. stavku 1. riječi: »dopunskog općeg izvida,« brišu se.
+
+#### Članak 21.
+
+Članak 53. mijenja se i glasi:
+
+»(1) Ministarstvo, ovlaštene pravne osobe i obrtnici dužni su za vrijeme obavljanja poslova tehničkog izvida, razminiranja i završne kontrole kvalitete uz radilište osigurati nazočnost medicinskog tima tako da se hitna medicinska skrb može pružiti stradalniku u najkraćem mogućem roku na način propisan pravilnikom iz članka 84. ovoga Zakona.
+
+(2) Medicinski tim čine doktor medicine, medicinska sestra / medicinski tehničar, vozač i vozilo s opremom za pružanje hitne medicinske pomoći.
+
+(3) Vozilo iz stavka 2. ovoga članka mora biti opremljeno medicinskom opremom koja zadovoljava minimalne uvjete u vezi s tehničkim karakteristikama za pružanje hitne medicinske pomoći u slučaju zbrinjavanja stradalnika na radilištu, a sukladno HRN EN 1789:2015 ili sljednicom navedene norme.
+
+(4) Ministarstvo, ovlaštene pravne osobe i obrtnici mogu imati vlastito vozilo i medicinski tim za pružanje hitne medicinske skrbi ili ih unajmiti od Zavoda za hitnu medicinu jedinica područne (regionalne) samouprave ili drugih ovlaštenih pravnih osoba i obrtnika iz stavka 1. ovoga članka koji ispunjavaju uvjete iz stavaka 2. i 3. ovoga članka.
+
+(5) Ministarstvo, ovlaštene pravne osobe i obrtnici moraju osigurati neprekidan sustav veza između voditelja radilišta, voditelja pirotehničke skupine i medicinskog tima.
+
+(6) Ako se hitna medicinska pomoć stradalniku ne može pružiti u najkraćem mogućem roku, voditelj radilišta dužan je pomoć zatražiti putem službi nadležnih za hitne intervencije.«.
+
+#### Članak 22.
+
+U članku 54. stavku 1. riječi: »dopunskog općeg izvida,« brišu se.
+
+#### Članak 23.
+
+U članku 59. briše se točka na kraju rečenice i dodaju riječi: »do dubine definirane Idejnim planom razminiranja.«.
+
+#### Članak 24.
+
+Iza članka 60. dodaje se članak 60.a koji glasi:
+
+»Članak 60.a
+
+(1) Ovlaštene pravne osobe i/ili obrtnici koji obavljaju poslove razminiranja dužni su provoditi svakodnevnu internu kontrolu kvalitete poslova razminiranja tijekom obavljanja poslova razminiranja.
+
+(2) Voditelj radilišta dužan je na radilištu svakodnevno organizirati i provoditi internu kontrolu ručnom detekcijom mina na 5% razminirane površine.
+
+(3) Internu kontrolu kvalitete iz stavka 1. ovoga članka obavljaju zaposlenici ovlaštene pravne osobe i/ili obrtnika na površinama na kojima nisu obavljali poslove razminiranja, prilikom čega se moraju poštivati minimalne sigurnosne udaljenosti, za što je odgovoran voditelj radilišta.
+
+(4) Ako se prilikom provođenja interne kontrole kvalitete pronađe MES, NUS, njihovi dijelovi ili neiskopani predmeti detekcije, zaposlenici koji obavljaju internu kontrolu kvalitete dužni su o tome odmah obavijestiti voditelja radilišta koji je dužan pirotehničaru kod kojeg su pronađena navedena sredstva ili neiskopani predmeti detekcije naložiti ponovni pregled radne staze.«.
+
+#### Članak 25.
+
+Članak 61. mijenja se i glasi:
+
+»(1) Uništavanje MES-a, NUS-a i njihovih dijelova na radilištu razminiranja obavljaju ovlaštene pravne osobe i obrtnici koji imaju odobrenje Ministarstva za obavljanje tih poslova sukladno propisima kojima se uređuje područje eksplozivnih tvari, o čemu su dužni voditi evidenciju s podacima o uništenom MES-u i NUS-u i njihovim dijelovima te utrošenim eksplozivnim sredstvima, uz poštivanje mjera sigurnosti radi zaštite života, zdravlja, imovine i okoliša.
+
+(2) Uništavanje MES-a, NUS-a i njihovih dijelova na radilištu tehničkog izvida obavljaju ovlašteni službenici ustrojstvene jedinice Ministarstva koja je obavljala tehnički izvid.«.
+
+#### Članak 26.
+
+U članku 64. stavak 4. mijenja se i glasi:
+
+»(4) Pravna osoba koja obavlja poslove uništavanja mora voditi Upisnik o uništavanju sukladno propisima kojima se uređuje područje eksplozivnih tvari.«.
+
+#### Članak 27.
+
+U članku 65. stavak 1. mijenja se i glasi:
+
+»(1) Odluku o mjestu i vremenu uništavanja ili drugom načinu zbrinjavanja pronađenog MES-a, NUS-a i njihovih dijelova donosi voditelj radilišta.«.
+
+U stavku. 3. riječ: »tri« zamjenjuje se riječju: »pet«.
+
+#### Članak 28.
+
+U članku 67. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Ako se u postupku iz stavka 3. ovoga članka utvrdi da MES, NUS, NES ili njihovi dijelovi nisu zaostali nakon općeg izvida – analize MSP-a, tehničkog izvida i/ili razminiranja, već su naknadno odbačeni, kontrolni pregled neće se obavljati.«.
+
+#### Članak 29.
+
+U članku 68. stavak 1. briše se.
+
+U dosadašnjem stavku 2. oznaka stavka: »(2)« briše se.
+
+#### Članak 30.
+
+Naziv odjeljka 9. iznad članka 69. mijenja se i glasi: »9. KONTROLA KVALITETE«.
+
+Članak 69. mijenja se i glasi:
+
+»(1) Stručni nadzor u tijeku obavljanja poslova razminiranja obuhvaća sve radnje i postupke koje na radilištu tijekom obavljanja poslova razminiranja poduzimaju ovlašteni službenici Ministarstva, nadzornici za kontrolu kvalitete i pirotehničari za kontrolu kvalitete, radi utvrđivanja očišćenosti područja i/ili građevine.
+
+(2) U obavljanju stručnog nadzora u tijeku poslova razminiranja mogu, neposrednim pretraživanjem kontrolnih uzoraka, sudjelovati i pirotehničari izvidnici Ministarstva.«.
+
+#### Članak 31.
+
+Članak 70. mijenja se i glasi:
+
+»(1) Poslovi nadzornika za kontrolu kvalitete su:
+
+– pregled i ovjera izvedbenih planova razminiranja ovlaštenih pravnih osoba i obrtnika
+
+– stručni nadzor obavljenih poslova u tijeku razminiranja minimalno svaki peti radni dan na radilištu
+
+– provjera obavljaju li se poslovi razminiranja sukladno Izvedbenom planu razminiranja, ugovoru o razminiranju, ovom Zakonu i podzakonskim propisima donesenim na temelju ovoga Zakona
+
+– provjera stanja kapaciteta na radilištu, provjera provode li se propisane mjere sigurnosti te neposredno pretraživanje kontrolnih uzoraka
+
+– provjera i ovjera dokumentacije voditelja radilišta
+
+– ovjera dnevnika kontrole kvalitete pirotehničara za kontrolu kvalitete
+
+– izrada i vođenje propisane dokumentacije.
+
+(2) O obavljenom stručnom nadzoru u tijeku obavljanja poslova razminiranja na radilištu nadzornik za kontrolu kvalitete dužan je sastaviti zapisnik stručnog nadzora koji potpisuje i voditelj radilišta.«.
+
+#### Članak 32.
+
+Članak 71. mijenja se i glasi:
+
+»(1) Poslovi pirotehničara za kontrolu kvalitete su:
+
+– kontrolni pregled razminirane površine u tijeku obavljanja poslova najmanje svaki treći radni dan
+
+– izrada i vođenje propisane dokumentacije
+
+– provjera stanja kapaciteta na radilištu i provjera provode li se propisane mjere sigurnosti
+
+– neposredno pretraživanje kontrolnih uzoraka.
+
+(2) Pirotehničari za kontrolu kvalitete i pirotehničari izvidnici dužni su kontrolnim uzorkovanjem ravnomjerno obuhvatiti svaku cjelinu i svaku ovlaštenu pravnu osobu ili obrtnika koji su izvršili poslove razminiranja.
+
+(3) Veličina površine za kontrolno uzorkovanje u tijeku obavljanja poslova razminiranja propisuje ministar pravilnikom iz članka 84. ovoga Zakona.«.
+
+#### Članak 33.
+
+Članak 72. mijenja se i glasi:
+
+»(1) Ako nadzornik za kontrolu kvalitete uoči nepravilnost u obavljanju poslova razminiranja ili tehničkog izvida, zaustavit će radove te će zahtijevati izvedbu poslova sukladno ugovoru, a ako su odstupanja od ugovorenog načina takva da se ne mogu otkloniti u roku od sat vremena, usmeno će naložiti prekid obavljanja poslova razminiranja ili tehničkog izvida do otklanjanja uočenih nepravilnosti, što će naznačiti u zapisniku o stručnom nadzoru u tijeku.
+
+(2) Ako pirotehničar za kontrolu kvalitete uoči nepravilnosti u provođenju mjera sigurnosti, zaustavit će radove te usmeno naložiti otklanjanje nepravilnosti, a ako su one takve prirode da se ne mogu otkloniti u roku od sat vremena, naložit će prekid poslova i o tome obavijestiti nadzornika za kontrolu kvalitete bez odgađanja.
+
+(3) Nadzornik za kontrolu kvalitete dužan je prekid poslova razminiranja naznačiti u zapisniku o stručnom nadzoru u tijeku, a ako se nepravilnosti iz stavaka 1. i 2. ovoga članka ne uklone u propisanom roku od sat vremena, Ministarstvo će izdati rješenje o prekidu poslova razminiranja.
+
+(4) Protiv rješenja Ministarstva iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor«.
+
+#### Članak 34.
+
+Članak 73. mijenja se i glasi:
+
+»(1) U slučaju pronalaska MES-a i njihovih dijelova tijekom stručnog nadzora u tijeku obavljanja poslova razminiranja na cjelini radilišta ovlaštene pravne osobe ili obrtnika, nadzornik za kontrolu kvalitete dužan je za cjelinu na kojoj je pronađen MES usmeno naložiti ponavljanje svih poslova izvršenih od zadnjeg stručnog nadzora u tijeku te nalog evidentirati u zapisniku iz članka 70. stavka 2. ovoga Zakona.
+
+(2) U slučaju pronalaska NUS-a i njihovih dijelova na jednom od uzoraka tijekom stručnog nadzora u tijeku obavljanja poslova razminiranja kod ovlaštene pravne osobe ili obrtnika, nadzornik za kontrolu kvalitete dužan je usmeno naložiti ponavljanje svih poslova izvršenih od strane pirotehničke skupine od zadnjeg stručnog nadzora u tijeku te nalog evidentirati u zapisniku iz članka 70. stavka 2. ovoga Zakona.
+
+(3) U slučaju pronalaska NUS-a i njihovih dijelova na dva i više uzoraka pronađenih tijekom stručnog nadzora u tijeku obavljanja poslova razminiranja kod ovlaštene pravne osobe ili obrtnika na pojedinoj cjelini, nadzornik za kontrolu kvalitete dužan je usmeno naložiti ponavljanje svih poslova na pojedinoj cjelini na kojoj je pronađen NUS, izvršenih od zadnjeg stručnog nadzora u tijeku, te nalog evidentirati u zapisniku iz članka 70. stavka 2. ovoga Zakona.
+
+(4) U slučaju pronalaska dva ili više metalnih predmeta dužine 3 cm i više, minimalnog promjera 5 mm, na površini od 1 m², nadzornik za kontrolu kvalitete usmeno će naložiti ponavljanje poslova koje je pirotehničar iza kojeg su pronađeni predmetni metalni predmeti pregledao na toj cjelini od zadnjeg stručnog nadzora u tijeku te nalog evidentirati u zapisniku iz članka 70. stavka 2. ovoga Zakona.
+
+(5) Ako se na površinama koje su pregledane pomoću pasa za detekciju mina pronađe MES i NUS, nadzornik za kontrolu kvalitete dužan je usmeno naložiti ponavljanje svih poslova koje su obavili tim vodič – pas na toj cjelini od zadnjeg stručnog nadzora u tijeku te nalog evidentirati u zapisniku iz članka 70. stavka 2. ovoga Zakona.
+
+(6) Ako se na površinama koje su pregledane pomoću pasa za detekciju mina na dva i više kontrolnih uzoraka pronađu neotkriveni dijelovi MES-a i NUS-a, nadzornik za kontrolu kvalitete dužan je usmeno naložiti ponavljanje svih poslova koje su obavili tim vodič – pas na toj cjelini od zadnjeg stručnog nadzora te nalog evidentirati u zapisniku iz članka 70. stavka 2. ovoga Zakona.
+
+(7) Ponavljanja iz stavaka 2. do 6. ovoga članka nalažu se za metodu kojom su izvršeni poslovi nakon kojih je utvrđena nepravilnost.
+
+(8) O naloženom ponavljanju poslova iz stavaka 1. do 6. ovoga članka Ministarstvo će izdati pisano rješenje u roku od pet dana od usmenog naloga.
+
+(9) Protiv rješenja Ministarstva iz stavka 8. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 35.
+
+Članak 74. mijenja se i glasi:
+
+»(1) Završnu kontrolu kvalitete nad obavljenim poslovima razminiranja obavljaju ovlašteni službenici Ministarstva, nadzornici za kontrolu kvalitete i pirotehničari za kontrolu kvalitete te pirotehničari izvidnici.
+
+(2) Prije provedbe završne kontrole kvalitete ovlaštena pravna osoba ili obrtnik dužan je osigurati obilježenost granica radilišta i obilježenost radilišta tako da se za svaku ovlaštenu pravnu osobu ili obrtnika može točno utvrditi na kojim su površinama obavljali poslove razminiranja, a nadzornik za kontrolu kvalitete dužan je posjedovati tehničku dokumentaciju.
+
+(3) Završna kontrola kvalitete obavlja se tako da se kontrolnim uzorkovanjem ispituje kvaliteta obavljenih poslova razminiranja na najmanje 1% površine na svakoj cjelini radilišta te kod svake pravne osobe i obrtnika.
+
+(4) Završnoj kontroli kvalitete dužan je nazočiti voditelj radilišta ili zamjenik voditelja radilišta kojeg je imenovala odgovorna osoba ovlaštene pravne osobe ili obrtnika.«.
+
+#### Članak 36.
+
+Članak 75. mijenja se i glasi:
+
+»(1) Ministarstvo je dužno započeti završnu kontrolu kvalitete nad obavljenim poslovima u roku od 15 dana od dana zaprimanja dokumentacije iz članka 29. stavka 1. ovoga Zakona.
+
+(2) Ako Ministarstvo ne može započeti završnu kontrolu kvalitete u roku iz stavka 1. ovoga članka zbog više sile, rok se produljuje za vrijeme trajanja više sile.«.
+
+#### Članak 37.
+
+Članak 76. mijenja se i glasi:
+
+»(1) Nadzornik za kontrolu kvalitete sastavlja zapisnik o završnoj kontroli kvalitete koji u prilogu mora sadržavati sljedeće:
+
+– kartografski prikaz (HOK) ili katastarski plan, odnosno skice s ucrtanim pozicijama kontrolnih uzoraka
+
+– topografsku kartu u mjerilu 1 : 25 000
+
+– ucrtane pozicije pronađenog MES-a, NUS-a i njihovih dijelova (HOK) u kontrolnom uzorku
+
+– podatke o količini i vrsti pronađenog MES-a, NUS-a i njihovih dijelova
+
+– fotodokumentaciju pronađenog MES-a, NUS-a i njihovih dijelova
+
+– djelovodnik kontrolnih uzoraka.
+
+(2) Zapisnik iz stavka 1. ovoga članka nadzornik za kontrolu kvalitete dužan je izraditi u roku od pet dana od obavljene završne kontrole kvalitete.«.
+
+#### Članak 38.
+
+Članak 77. mijenja se i glasi:
+
+»(1) Na temelju zapisnika o završnoj kontroli kvalitete Ministarstvo može:
+
+– izdati potvrdu o isključenju područja i/ili građevine iz MSP-a ako se utvrdi da je postignuta propisana kvaliteta obavljenih poslova ili
+
+– naložiti ponavljanje poslova razminiranja na površini sukladno utvrđenoj situaciji iz zapisnika o završnoj kontroli kvalitete.
+
+(2) U slučaju iz stavka 1. podstavka 1. ovoga članka Ministarstvo je dužno u roku od 30 dana od dana obavljene završne kontrole kvalitete u minsko-informacijski sustav unijeti geodetsku izmjeru izvršenih poslova razminiranja te nakon provedene analize završenih poslova u daljnjih 15 dana izdati potvrdu o isključenju područja i/ili građevine iz MSP-a.
+
+(3) U slučaju iz stavka 1. podstavka 2. ovoga članka Ministarstvo je dužno u roku od 15 dana donijeti rješenje o ponavljanju poslova razminiranja za koje je u završnoj kontroli kvalitete utvrđeno da nisu izvršeni u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona.
+
+(4) Protiv rješenja iz stavka 3. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.«.
+
+#### Članak 39.
+
+Članak 78. mijenja se i glasi:
+
+»(1) Ministarstvo će ovlaštenoj pravnoj osobi ili obrtniku koji je izdao Izjavu o očišćenosti od svih MES-a, NUS-a i njihovih dijelova naložiti ponavljanje poslova razminiranja ako se prilikom završne kontrole kvalitete pronađe MES, NUS kalibra većeg od 12,7 mm i/ili njihovi dijelovi.
+
+(2) Ponavljanje se nalaže za cjelinu na kojoj je pronađen MES, NUS kalibra većeg od 12,7 mm i/ili njihovi dijelovi.«.
+
+#### Članak 40.
+
+Članak 79. mijenja se i glasi:
+
+»Ministarstvo će ovlaštenoj pravnoj osobi ili obrtniku koji je poslove razminiranja obavio ručnom detekcijom mina te izdao Izjavu o očišćenosti od svih MES-a, NUS-a i njihovih dijelova naložiti ponavljanje poslova razminiranja u promjeru od 50 metara oko pronađenog NUS-a i/ili njegovih dijelova ako se prilikom završne kontrole kvalitete pronađe NUS kalibra do 12,7 mm i/ili njegovi dijelovi na razminiranoj površini.«.
+
+#### Članak 41.
+
+Članak 80. mijenja se i glasi:
+
+»Nakon izdavanja Potvrde o isključenju područja i/ili građevine Ministarstvo ju je dužno u roku od 15 dana dostaviti:
+
+– ovlaštenoj pravnoj osobi ili obrtniku – potpisniku ugovora o razminiranju
+
+– nadležnoj jedinici područne (regionalne) samouprave
+
+– nadležnoj jedinici lokalne samouprave
+
+– donatorima i/ili investitorima.«.
+
+#### Članak 42.
+
+Članak 81. mijenja se i glasi:
+
+»Ministarstvo je dužno za završnu kontrolu kvalitete osigurati potreban broj pirotehničara Ministarstva, a ovlaštena pravna osoba i/ili obrtnik dužni su osigurati medicinski tim.«.
+
+#### Članak 43.
+
+Članak 82. mijenja se i glasi:
+
+»Na površini na kojoj su ovlaštena pravna osoba i/ili obrtnik ponavljali poslove razminiranja ovlašteni službenici Ministarstva, nadzornici za kontrolu kvalitete i pirotehničari za kontrolu kvalitete te pirotehničari izvidnici ponovno će obaviti završnu kontrolu kvalitete.«.
+
+#### Članak 44.
+
+Članak 83. briše se.
+
+#### Članak 45.
+
+U članku 86. stavku 1. riječi: »dopunskog općeg izvida,« brišu se.
+
+#### Članak 46.
+
+U članku 100. stavcima 1. i 2. riječi: »dopunskog općeg izvida,« brišu se.
+
+#### Članak 47.
+
+U članku 102. stavak 3. briše se.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+#### Članak 48.
+
+U članku 107. podstavku 1. riječi: »dopunskog općeg izvida,« brišu se.
+
+#### Članak 49.
+
+U članku 127. riječi: »radilištima tehničkog izvida i« brišu se.
+
+#### Članak 50.
+
+U članku 130. riječi: »tehničkog izvida i/ili« brišu se.
+
+#### Članak 51.
+
+U članku 134. stavku 1. riječi: »tehničkog izvida i/ili« brišu se.
+
+#### Članak 52.
+
+U članku 135. stavku 1. riječi: »tehničkog izvida i/ili« brišu se.
+
+Stavci 3., 4. i 5. brišu se.
+
+U dosadašnjem stavku 6., koji postaje stavak 3., riječi: »ili pirotehničaru HCR-a« brišu se.
+
+Dosadašnji stavak 7. postaje stavak 4.
+
+#### Članak 53.
+
+U članku 136. stavku 1. iza točke 16. dodaje se točka 16.a koja glasi:
+
+»16.a ne provodi svakodnevnu internu kontrolu kvalitete poslova razminiranja tijekom obavljanja poslova razminiranja (članak 60.a stavak 1.)«.
+
+U točki 21. riječ: »tri« zamjenjuje se riječju: »pet«.
+
+Točke 23., 24. i 25. brišu se.
+
+#### Članak 54.
+
+U članku 137. stavku 1. točki 4. riječ: »četiri« zamjenjuje se riječju: »dva«.
+
+Iz točke 14. dodaje se točka 14.a koja glasi:
+
+»14.a voditelj radilišta ako svakodnevno ne organizira i ne provede internu kontrolu na 5% razminirane površine, ako internu kontrolu obavljaju pirotehničari na površinama na kojima su obavljali poslove razminiranja, ako se ne poštuju minimalne sigurnosne udaljenosti, ako ne naloži ponovno razminiranje pirotehničaru kod kojeg se internom kontrolom pronašao MES, NUS, njihovi dijelovi ili neiskopani predmeti detekcije (članak 60.a stavci 2., 3. i 4.)«.
+
+Točka 21. briše se.
+
+U točki 22. riječi: »stavak 2.« brišu se.
+
+Točke 23. i 25. brišu se.
+
+U stavku 4. broj: »33.« zamjenjuje se brojem: »32.«.
+
+#### Članak 55.
+
+U članku 143. stavku 1. riječi: »članka 2. stavka 6.,« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 56.
+
+Ministar nadležan za unutarnje poslove uskladit će Pravilnik o načinu obavljanja poslova razminiranja, kontrole kvalitete, općeg i tehničkog izvida i obilježavanja minski sumnjivog područja (»Narodne novine«, br. 45/16. i 27/17.) i Pravilnik o izgledu, sadržaju i vođenju dokumentacije u protuminskom djelovanju (»Narodne novine«, br. 73/18.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 57.
+
+Ovlaštene pravne osobe i/ili obrtnici dužni su uskladiti svoje poslovanje s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 58.
+
+Postupci započeti do stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o protuminskom djelovanju (»Narodne novine«, br. 110/15., 118/18., 98/19. i 114/22.).
+
+#### Članak 59.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/06
+
+Zagreb, 24. svibnja 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

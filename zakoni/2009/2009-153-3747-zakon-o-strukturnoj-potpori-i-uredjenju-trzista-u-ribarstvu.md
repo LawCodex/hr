@@ -811,7 +811,6 @@ UDJELI U SUFINANCIRANJU PRIHVATLJIVIH I OPRAVDANIH TROŠKOVA KROZ MJERE STRUKTUR
 
 <table>
 <tbody>
-
 <tr>
 <td>Grupa1*</td>
 <td>Područje</td>
@@ -819,7 +818,6 @@ UDJELI U SUFINANCIRANJU PRIHVATLJIVIH I OPRAVDANIH TROŠKOVA KROZ MJERE STRUKTUR
 <td colspan="2">Maksimalni udio potpore</td>
 <td colspan="2">Minimalni udio sufinanciranja od strane korisnika</td>
 </tr>
-
 <tr>
 <td rowspan="17">Grupa 1</td>
 <td rowspan="5">Prilagodba ribarske flote</td>
@@ -827,76 +825,59 @@ UDJELI U SUFINANCIRANJU PRIHVATLJIVIH I OPRAVDANIH TROŠKOVA KROZ MJERE STRUKTUR
 <td rowspan="16" colspan="2">100%</td>
 <td rowspan="16" colspan="2">0%</td>
 </tr>
-
 <tr>
 <td>Privremena obustava ribolovnih aktivnosti</td>
 </tr>
-
 <tr>
 <td>Socioekonomske mjere za gospodarski ribolov malim plovilima</td>
 </tr>
-
 <tr>
 <td>Gospodarski ribolov malim plovilima-potpore za ribare i vlasnike plovila</td>
 </tr>
-
 <tr>
 <td>Socioekonomske mjere vezane za upravljanje flotom</td>
 </tr>
-
 <tr>
 <td rowspan="5">Razvoj akvakulture, gospodarskog ribolova na slatkim vodama, prerade i marketinga proizvoda ribarstva</td>
 <td>Očuvanje vodenog okoliša</td>
 </tr>
-
 <tr>
 <td>Očuvanje javnog zdravlja</td>
 </tr>
-
 <tr>
 <td>Očuvanje zdravlja životinja</td>
 </tr>
-
 <tr>
 <td>Gospodarski ribolov na slatkim vodama – instalacije</td>
 </tr>
-
 <tr>
 <td>Gospodarski ribolov na slatkim vodama – prenamjena plovila</td>
 </tr>
-
 <tr>
 <td rowspan="6">Projekti od zajedničkog interesa</td>
 <td>Zajedničke akcije</td>
 </tr>
-
 <tr>
 <td>Zaštita akvatičke flore i faune</td>
 </tr>
-
 <tr>
 <td>Ulaganje u ribarske luke, iskrcajna mjesta i sidrišta</td>
 </tr>
-
 <tr>
 <td>Razvoj novih tržišta i promotivne kampanje</td>
 </tr>
-
 <tr>
 <td>Pilot projekti</td>
 </tr>
-
 <tr>
 <td>Modifikacija ili prenamjena ribarskih plovila</td>
 </tr>
-
 <tr>
 <td>Održivi razvitak ribarskih zajednica i područja koja ovise o ribarstvu</td>
 <td>Sve mjere</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td rowspan="5">Grupa 2</td>
 <td rowspan="3">Prilagodba ribarske flote</td>
@@ -904,33 +885,28 @@ UDJELI U SUFINANCIRANJU PRIHVATLJIVIH I OPRAVDANIH TROŠKOVA KROZ MJERE STRUKTUR
 <td colspan="2">60%</td>
 <td colspan="2">40%</td>
 </tr>
-
 <tr>
 <td>Investicije na plovilima osim zamjene porivnog stroja</td>
 <td colspan="2">40%</td>
 <td colspan="2">60%</td>
 </tr>
-
 <tr>
 <td>Investicije na plovilima koja podrazumijevaju zamjenu porivnog stroja</td>
 <td colspan="2">20%</td>
 <td colspan="2">80%</td>
 </tr>
-
 <tr>
 <td>Razvoj akvakulture, gospodarskog ribolova na slatkim vodama, prerade i marketinga proizvoda ribarstva</td>
 <td>Investicije na plovilima koja obavljaju slatkovodni ribolov</td>
 <td colspan="2">40%</td>
 <td colspan="2">60%</td>
 </tr>
-
 <tr>
 <td>Održivi razvitak ribarskih zajednica i područja koja ovise o ribarstvu</td>
 <td>Sve mjere</td>
 <td colspan="2">40%</td>
 <td colspan="2">60%</td>
 </tr>
-
 <tr>
 <td rowspan="5">Grupa 3</td>
 <td rowspan="4">Projekti od zajedničkog interesa</td>
@@ -938,24 +914,19 @@ UDJELI U SUFINANCIRANJU PRIHVATLJIVIH I OPRAVDANIH TROŠKOVA KROZ MJERE STRUKTUR
 <td rowspan="5" colspan="2">80%</td>
 <td rowspan="5" colspan="2">20%</td>
 </tr>
-
 <tr>
 <td>Zaštita akvatičke flore i faune</td>
 </tr>
-
 <tr>
 <td>Ribarske luke, iskrcajna mjesta i sidrišta</td>
 </tr>
-
 <tr>
 <td>Pilot-projekti</td>
 </tr>
-
 <tr>
 <td>Održivi razvitak ribarskih zajednica i područja koja ovise o ribarstvu</td>
 <td>Sve mjere</td>
 </tr>
-
 <tr>
 <td rowspan="5">Grupa 4</td>
 <td rowspan="4">Razvoj akvakulture, gospodarskog ribolova na slatkim vodama, prerade i marketinga proizvoda ribarstva</td>
@@ -965,27 +936,22 @@ UDJELI U SUFINANCIRANJU PRIHVATLJIVIH I OPRAVDANIH TROŠKOVA KROZ MJERE STRUKTUR
 <td rowspan="2">40%</td>
 <td rowspan="2">70%*</td>
 </tr>
-
 <tr>
 <td>Prerada i marketing</td>
 </tr>
-
 <tr>
 <td>Gospodarski ribolov na slatkim vodama– instalacije</td>
 <td rowspan="3" colspan="2">60%</td>
 <td rowspan="3" colspan="2">40%</td>
 </tr>
-
 <tr>
 <td>Razvoj novih tržišta i promotivne kampanje</td>
 </tr>
-
 <tr>
 <td>Održivi razvitak ribarskih zajednica i područja koja ovise o ribarstvu</td>
 <td>Sve mjere</td>
 </tr>
 </tbody>
-
 </table>
 
 DODATAK II.
@@ -994,78 +960,65 @@ PROIZVODI RIBARSTVA
 
 <table>
 <tbody>
-
 <tr>
 <td colspan="2">KN oznaka</td>
 <td>Opis proizvoda</td>
 </tr>
-
 <tr>
 <td>(a)</td>
 <td>0301<br> 0302<br> <br>0303<br> <br>0304</td>
 <td>Žive ribe<br> Ribe, svježe ili rashlađene, osim ribljih fileta i ostalog ribljeg mesa iz tarifnog broja 0304<br> Ribe smrznute, osim ribljih fileta i ostalog ribljeg mesa iz tarifnog broja 0304<br> Riblji fileti i ostalo riblje meso (nemljeveno i mljeveno), svježe, rashlađeno ili smrznuto</td>
 </tr>
-
 <tr>
 <td>(b)</td>
 <td>0305</td>
 <td>Ribe, sušene, soljene ili u salamuri; dimljene ribe, čak i kuhane prije ili u tijeku procesa dimljenja; riblje brašno, krupica i pelete od ribe, uporabljivi za ljudsku prehranu</td>
 </tr>
-
 <tr>
 <td>(c)</td>
 <td>0306<br><br><br><br><br><br> 0307</td>
 <td>Rakovi s ljuskom ili bez ljuske, živi, svježi, rashlađeni, smrznuti, sušeni, soljeni ili u salamuri; rakovi u ljusci, kuhani u pari ili vodi, čak i rashlađeni, smrznuti, sušeni, soljeni ili u salamuri; brašno, krupica i pelete, uporabljivi za ljudsku prehranu<br> Mekušci s ljušturom ili bez ljušture, živi, svježi, rashlađeni, smrznuti, sušeni, soljeni ili u salamuri; vodeni beskralješnjaci, osim rakova i mekušaca, živi, svježi, rashlađeni, smrznuti, sušeni, soljeni ili u salamuri; brašno, krupica i pelete od vodenih beskralješnjaka osim rakova, uporabljivi za ljudsku prehranu</td>
 </tr>
-
 <tr>
 <td>(d)</td>
 <td><br><br><br> <br><br><br> 0511 91 10<br> 0511 91 90</td>
 <td>Proizvodi životinjskog podrijetla što nisu spomenuti niti uključeni na drugom mjestu; mrtve životinje, neuporabive za ljudsku prehranu<br> – ostalo:<br> – – proizvodi od riba ili rakova, mekušaca ili ostalih vodenih beskralježnjaka; mrtve životinje:<br> – – – otpaci riba<br> – – – ostalo</td>
 </tr>
-
 <tr>
 <td>(e)</td>
 <td>1604</td>
 <td>Pripremljena ili konzervirana riba; kavijar i nadomjesci kavijara pripremljeni od ribljih jaja</td>
 </tr>
-
 <tr>
 <td>(f)</td>
 <td>1605</td>
 <td>Rakovi, mekušci i ostali vodeni beskralježnjaci, pripremljeni ili konzervirani</td>
 </tr>
-
 <tr>
 <td>(g)</td>
 <td>1902 20</td>
 <td>Tjestenina, kuhana ili nekuhana ili punjena (mesom ili drugim tvarima) ili drukčije pripremljena, kao što su špageti, makaroni, rezanci, lazanje, njoki, ravioli, kaneloni; kuskus, pripremljeni ili nepripremljeni:<br> – tjestenina, nekuhana, nepunjena niti drukčije pripremljena<br> – tjestenina punjena, kuhana ili nekuhana ili drukčije pripremljena:<br> – – s mesnim udjelom riba, rakova, mekušaca ili ostalih vodenih beskralježnjaka većim od 20%</td>
 </tr>
-
 <tr>
 <td>(h)</td>
 <td>2301 20 00</td>
 <td>Brašno, krupica i pelete, od mesa ili mesnih otpadaka, od riba ili rakova, mekušaca ili ostalih vodenih beskralješnjaka, neprikladni za ljudsku prehranu; čvarci:<br> – brašno, krupica i pelete, od ribe ili rakova, mekušaca ili ostalih vodenih beskralješnjaka</td>
 </tr>
 </tbody>
-
 </table>
 
 DODATAK III.
 
 <table>
 <tbody>
-
 <tr>
 <td colspan="3">KN oznaka</td>
 <td>Opis proizvoda</td>
 </tr>
-
 <tr>
 <td colspan="3"></td>
 <td>A. Proizvodi, svježi ili rashlađeni, iz tarifnog broja 0302 i 0307:</td>
 </tr>
-
 <tr>
 <td>1.<br> 2.<br> 3.<br> 4.<br> 5.<br> 6.<br> 7.<br> 8.<br> 9.<br> 10.<br> 11.<br> 12.<br> 13.<br> 14.<br> 15.<br> 16.<br> 17.<br> 18.<br> 19.</td>
 <td>ex<br> ex<br> ex<br> ex<br> ex<br> ex<br> ex<br> ex<br> ex</td>
@@ -1073,26 +1026,22 @@ DODATAK III.
 <td>Iverak zlatopjeg (Pleuronectes platessa)<br> Iverak (Limanda limanda)<br> Patarača oštronoska (Lepidorhombus spp.)<br> Iverak (Platichtys flesus)<br> Albakor ili tunj dugokrilac (Thunnus alalunga)<br> Atlantska haringa Clupea harengus<br> Bakalar vrste Gadus morhua<br> Srdela vrste Sardina pilchardus<br> Bakalarka (Melanogrammus aeglefinus)<br> Crni bakalar (koljuška) (Pollachius virens)<br> Skuša (Scomber scombrus) i lokarda (Scomber japonicus)<br> Kostelj (Squalus acanthias) i morska mačka (Scyliorhinus spp.)<br> Škarpina (Sebastes spp.)<br> Pišmolj (Merlangius merlangus)<br> Morski manjić (Molva spp.)<br> Inćuni (Engraulis spp.)<br> Oslić vrste Merluccius merluccius<br> Grdobina (Lophius spp.)<br> Sipe (Sepia officinalis i Rossia macrosoma)<br> B. Živi, svježi ili rashlađeni proizvodi ili proizvodi kuhani u pari ili vodi:<br> Kozice pljeskulje vrste Crangon crangon i kozice vrste Pandalus borealis<br> C. Živi, svježi ili rashlađeni proizvodi ili proizvodi kuhani u pari ili vodi:<br> List (Solea spp.)<br> Rakovica vrste Cancer pagurus<br> Škamp (Nephrops norvegicus)</td>
 </tr>
 </tbody>
-
 </table>
 
 DODATAK IV.
 
 <table>
 <tbody>
-
 <tr>
 <td colspan="2">KN oznaka</td>
 <td>Opis proizvoda</td>
 </tr>
-
 <tr>
 <td>ex<br> 1.<br> 2.<br> 3.<br> 4.<br> 5.</td>
 <td>0303 31 10<br> 0303 78 11<br> 0303 78 12<br> 0303 78 13<br> 0303 78 19<br> i<br> 0304 20 55<br> 0304 20 56<br> 0304 20 58<br> 0303 79 71<br> 0303 79 87<br> 0304 20 87<br> 0304 60 65<br> 0306 13 40<br> 0306 13 50<br> 0306 13 80<br> 0307 49 18<br> 0307 49 01<br> 0307 49 31<br> 0307 49 33<br> 0307 49 35<br> i<br> 0307 49 38<br> 0307 49 51<br> 0307 59 10<br> 0307 99 11</td>
 <td>A. Smrznuti proizvodi iz tarifnog broja 0303 i 0304:<br> Grenlandska ploča (Reinhardtius hippoglossoides)<br> Oslić roda Merluccius<br> Zubatac (Dentex dentex) i arbun (Pagellus spp.)<br> Iglun (Xiphias gladius)<br> B. Smrznuti proizvodi iz tarifnog broja 0306:<br> Kozice iz obitelji Penaeidae<br> C. Smrznuti proizvodi iz tarifnog broja 0307:<br> Sipe vrste Sepia officinalis, Rossia macrosoma i Sepiola rondeletti<br> Lignje (Loligo spp.)<br> Lignje (Ommastrephes sagittatus)<br> Hobotnica (Octopus spp.)<br> Illex spp.</td>
 </tr>
 </tbody>
-
 </table>
 
 DODATAK V.
@@ -1101,29 +1050,24 @@ Tunj (iz roda Thunnus), trup prugavac (Katsuwonus pelamis) i ostale vrste iz rod
 
 <table>
 <tbody>
-
 <tr>
 <td rowspan="2" colspan="4">Opis proizvoda</td>
 <td colspan="2">KN oznaka</td>
 </tr>
-
 <tr>
 <td>Svježi ili rashlađeni</td>
 <td>Smrznuti</td>
 </tr>
-
 <tr>
 <td colspan="4">Prezentirani u obliku drugačijem od onih koji su navedeni pod tarifnim brojem 0304:</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="4">I. Sljedeće vrste:</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>(a)</td>
@@ -1131,7 +1075,6 @@ Tunj (iz roda Thunnus), trup prugavac (Katsuwonus pelamis) i ostale vrste iz rod
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -1140,7 +1083,6 @@ Tunj (iz roda Thunnus), trup prugavac (Katsuwonus pelamis) i ostale vrste iz rod
 <td></td>
 <td>0303 41 11, 0303 41 13 i 0303 41 19<br> 0303 41 11, 0303 41 13 i 0303 41 19</td>
 </tr>
-
 <tr>
 <td></td>
 <td>(b)</td>
@@ -1148,7 +1090,6 @@ Tunj (iz roda Thunnus), trup prugavac (Katsuwonus pelamis) i ostale vrste iz rod
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>(c)<br> (d)<br> (e)</td>
@@ -1157,13 +1098,11 @@ Tunj (iz roda Thunnus), trup prugavac (Katsuwonus pelamis) i ostale vrste iz rod
 <td>0302 32 10*<br> 0302 32 10*<br> 0302 33 10<br> 0302 39 19<br> 0302 69 21</td>
 <td>0303 42 12, 0303 42 32 i 0303 42 52<br> 0303 42 18, 0303 42 38 i 0303 42 58<br> 0303 43 11, 0303 43 13 i 0303 43 19<br> 0303 49 21, 0303 49 23 i 0303 49 29<br> 0303 49 41, 0303 49 43, 0303 49 49, 0303 79 21, 0303 79 23 i 0303 79 29</td>
 </tr>
-
 <tr>
 <td colspan="4">II. Prezentirane u jednom od sljedećih oblika:</td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>(a)</td>
@@ -1171,7 +1110,6 @@ Tunj (iz roda Thunnus), trup prugavac (Katsuwonus pelamis) i ostale vrste iz rod
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>(b)</td>
@@ -1179,7 +1117,6 @@ Tunj (iz roda Thunnus), trup prugavac (Katsuwonus pelamis) i ostale vrste iz rod
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>(c)</td>
@@ -1187,24 +1124,20 @@ Tunj (iz roda Thunnus), trup prugavac (Katsuwonus pelamis) i ostale vrste iz rod
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="6">* Upućivanje na težinu odnosi se na cijeli proizvod</td>
 </tr>
 </tbody>
-
 </table>
 
 DODATAK VI.
 
 <table>
 <tbody>
-
 <tr>
 <td colspan="2">Svježi ili rashlađeni proizvodi sljedećih vrsta</td>
 <td colspan="2">KN oznaka</td>
 </tr>
-
 <tr>
 <td>1.<br> 2.<br> 3.<br> 4.<br> 5.<br> 6.<br> 7.<br> 8.<br> 9.<br> 10.<br> 11.<br> 12.<br> 13.<br> 14.<br> 15.<br> 16.<br> 17.<br> 18.</td>
 <td>Limanda (Microstomus kitt)<br> Tunj plavoperajni (Thunnus thynnus)<br> Kolja (Pollachius pollachius)<br> Grboglavka (Brama spp.)<br> Ugotica pučinka (Micromesistius potassou i Gadus poutassou)<br> Ugotica (Trisopterus luscus) i ugotica mala (Trisopterus minutus)<br> Bukva (Boops boops)<br> Gira (Spicara smaris)<br> Ugor (Conger conger)<br> Lastavica (Trigla spp)<br> Šnjur (Trachurus spp.)<br> Cipal (Mugil spp.)<br> Raža (Raja spp.)<br> Zmijičnjak (Lepidopus caudatus i Aphanopus carbo)<br> Kapica (Pecten maximus)<br> Puž Buccinum undatum<br> Trlja od kamena (Mullus surmuletus) ili trlja od blata (Mullus barbatus)<br> Kantar (Spondyliosoma cantharus)</td>
@@ -1212,80 +1145,67 @@ DODATAK VI.
 <td>0302 29 90<br> 0302 39 11<br> i<br> 0302 39 91<br> 0302 69 51<br> 0302 69 75<br> 0302 69 85<br> 0302 69 99<br> 0302 69 99<br> 0302 69 99<br> 0302 69 99<br> 0302 69 99<br> 0302 69 91<br> 0302 69 99<br> 0302 69 99<br> 0302 69 99<br> i<br> 0304 10 98<br> 0302 69 99<br> 0307 21 00<br> 0307 91 00<br> 0302 69 99<br> 0302 69 99</td>
 </tr>
 </tbody>
-
 </table>
 
 DODATAK VII.
 
 <table>
 <tbody>
-
 <tr>
 <td colspan="2">KN oznaka</td>
 <td>Opis</td>
 </tr>
-
 <tr>
 <td></td>
 <td>0301 93 00<br> 0302 69 11</td>
 <td>Šaran (Cyprinus carpio, Ctenopharyngodon idella, Hypophthalmichthytes nobilis, Hypophthalmichthyer molitrix)</td>
 </tr>
-
 <tr>
 <td>ex<br> ex</td>
 <td>0301 99 11<br> 0302 12 00</td>
 <td>Atlantski losos (Salmo salar)</td>
 </tr>
-
 <tr>
 <td>ex<br> ex</td>
 <td>0301 91<br> 0302 11</td>
 <td>Pastrve (Oncorhynchus mykiss, Salmo trutta)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>0301 92 00<br> 0302 66 00</td>
 <td>Jegulja (Anguilla anguilla)</td>
 </tr>
-
 <tr>
 <td>ex</td>
 <td>0301 99 90<br> 0302 69 95</td>
 <td>Komarča (Sparus aurata)</td>
 </tr>
-
 <tr>
 <td>ex</td>
 <td>0301 99 90<br> 0302 69 94</td>
 <td>Lubin (Dicentrarchus labrax)</td>
 </tr>
-
 <tr>
 <td>ex<br> ex</td>
 <td>0301 99 90<br> 0302 69 99</td>
 <td>Oblić (Psetta maxima)</td>
 </tr>
-
 <tr>
 <td>ex</td>
 <td>0307 10 10<br> 0307 10 90</td>
 <td>Kamenice (Ostrea edulis, Crassostrea gigas)</td>
 </tr>
-
 <tr>
 <td>ex</td>
 <td>0307 31 10</td>
 <td>Dagnje (Mytilus spp.)</td>
 </tr>
-
 <tr>
 <td></td>
 <td>0307 91 00</td>
 <td>Školjke (Ruditapes decussatus, Ruditapes philippinarum, Tapes spp, Veneridae, Mercenaria mercenaria)</td>
 </tr>
 </tbody>
-
 </table>
 
 [1]*Vlada RH odredit će Operativnim programom da li:

@@ -6,13 +6,15 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2010-06-16
-last_amended: 2014-10-27
+last_amended: 2026-03-20
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "74/10, 125/14"
+narodne_novine: "74/10, 125/14, 48/23, 28/26"
 amendments:
   - "NN 125/2014 (2384) Uredba o izmjeni Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi"
+  - "NN 48/2023 (820) Uredba o izmjenama Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi"
+  - "NN 28/2026 (324) Uredba o izmjenama Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2010/74/2190"
 retrieved: 2026-10-12
 ---
@@ -21,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 74/2010 (https://narodne-novine.nn.hr/eli/sluzbeni/2010/74/2190).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 125/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 125/2014, NN 48/2023, NN 28/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -539,296 +541,247 @@ Jadranka Kosor, dipl. iur., v. r.
 POPIS RADNIH MJESTA
 
 <table><tbody>
-
 <tr>
 <td colspan="4">RADNA MJESTA I. KATEGORIJE</td>
 </tr>
-
 <tr>
 <td>Potkategorija<br>radnog mjesta</td>
 <td colspan="2">Naziv radnog mjesta</td>
 <td>Klasifikacijski rang</td>
 </tr>
-
 <tr>
 <td>Glavni rukovoditelj</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">pročelnik upravnog odjela</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">pročelnik službe</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">voditelj jedinice za unutarnju reviziju</td>
 <td>1.</td>
 </tr>
-
 <tr>
 <td>Viši rukovoditelj</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">zamjenik pročelnika upravnoga tijela</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">pomoćnik pročelnika upravnoga tijela</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">voditelj ustrojstvene jedinice (u skladu s ispunjenjem razine standardnih mjerila za potkategoriju višeg rukovoditelja)</td>
 <td>3.</td>
 </tr>
-
 <tr>
 <td>Rukovoditelj</td>
 <td></td>
 <td>Razina</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>voditelj ustrojstvene jedinice (u skladu s ispunjenjem razine standardnih mjerila za potkategoriju rukovoditelja 1. razine)</td>
 <td>1.</td>
 <td>4.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>voditelj ustrojstvene jedinice (u skladu s ispunjenjem razine standardnih mjerila za potkategoriju rukovoditelja 2. razine)</td>
 <td>2.</td>
 <td>7.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>voditelj ustrojstvene jedinice (u skladu s ispunjenjem razine standardnih mjerila za potkategoriju rukovoditelja 3. razine)</td>
 <td>3.</td>
 <td>10.</td>
 </tr>
-
 <tr>
 <td colspan="4">RADNA MJESTA II. KATEGORIJE</td>
 </tr>
-
 <tr>
 <td>Potkategorija<br>radnog mjesta</td>
 <td colspan="2">Naziv radnog mjesta</td>
 <td>Klasifikacijski rang</td>
 </tr>
-
 <tr>
 <td>Viši savjetnik-specijalist</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">viši savjetnik-specijalist</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">viši unutarnji revizor</td>
 <td>2.</td>
 </tr>
-
 <tr>
 <td>Viši savjetnik</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">viši savjetnik</td>
 <td>4.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">unutarnji revizor</td>
 <td>4.</td>
 </tr>
-
 <tr>
 <td>Savjetnik</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">savjetnik</td>
 <td>5.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">pomoćni unutarnji revizor</td>
 <td>5.</td>
 </tr>
-
 <tr>
 <td>Viši stručni suradnik</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">viši stručni suradnik</td>
 <td>6.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">samostalni upravni referent</td>
 <td>6.</td>
 </tr>
-
 <tr>
 <td colspan="4">RADNA MJESTA III. KATEGORIJE</td>
 </tr>
-
 <tr>
 <td>Potkategorija<br>radnog mjesta</td>
 <td colspan="2">Naziv radnog mjesta</td>
 <td>Klasifikacijski rang</td>
 </tr>
-
 <tr>
 <td>Stručni suradnik</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">stručni suradnik</td>
 <td>8.</td>
 </tr>
-
 <tr>
 <td>Viši referent</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>viši referent</td>
 <td></td>
 <td>9.</td>
 </tr>
-
 <tr>
 <td>Referent</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">administrativni tajnik župana, gradonačelnika velikoga grada/grada sjedišta županije</td>
 <td>11.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">matičar (u Gradu Zagrebu)</td>
 <td>11.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">ekonom, referent, administrativni tajnik</td>
 <td>11.</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">daktilograf</td>
 <td>12.</td>
 </tr>
-
 <tr>
 <td colspan="4">RADNA MJESTA IV. KATEGORIJE</td>
 </tr>
-
 <tr>
 <td>Potkategorija radnog mjesta</td>
 <td colspan="2">Naziv radnog mjesta</td>
 <td>Klasifikacijski rang</td>
 </tr>
-
 <tr>
 <td>Namještenici I.<br>potkategorije</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2">voditelj poslova namještenika</td>
 <td>10.</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Namještenici II. potkategorije</td>
 <td></td>
 <td>Razina</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>vozač, tehničar za održavanje, grafički tehničar, zaštitar, čuvar, komunalni izvidnik, fotoreporter, domar</td>
 <td rowspan="2">1.</td>
 <td>11.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Ostala radna mjesta namještenika za koja je kao uvjet propisana srednja stručna sprema</td>
 <td>12.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>spremač, dostavljač, pomoćni radnik</td>
 <td rowspan="2">2.</td>
 <td>13.</td>
 </tr>
-
 <tr>
 <td></td>
 <td>Ostala radna mjesta namještenika za koja je kao uvjet propisana niža stručna sprema ili osnovna škola</td>
@@ -879,3 +832,131 @@ Zagreb, 23. listopada 2014.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi (NN 48/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/48/820*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 79. Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 86/08., 61/11., 4/18. i 112/19.), Vlada Republike Hrvatske je na sjednici održanoj 4. svibnja 2023. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O KLASIFIKACIJI RADNIH MJESTA U LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI**
+
+### Članak 1.
+
+U Uredbi o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 74/10. i 125/14.), u članku 11. podstavku 1. riječi: »magistar struke ili stručni specijalist« zamjenjuju se riječima: »sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij«.
+
+### Članak 2.
+
+U članku 12. podstavku 1. riječi: »magistar struke ili stručni specijalist« zamjenjuju se riječima: »sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij«.
+
+### Članak 3.
+
+U članku 13. podstavku 1. točki a) riječi: »magistar struke ili stručni specijalist« zamjenjuju se riječima: »sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij«.
+
+U točki b) riječi: »sveučilišni prvostupnik struke ili stručni prvostupnik struke« zamjenjuju se riječima: »sveučilišni prijediplomski studij ili stručni prijediplomski studij«.
+
+### Članak 4.
+
+U članku 15. podstavku 1. riječi: »magistar struke ili stručni specijalist« zamjenjuju se riječima: »sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij«.
+
+### Članak 5.
+
+U članku 16. podstavku 1. riječi: »magistar struke ili stručni specijalist« zamjenjuju se riječima: »sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij«.
+
+### Članak 6.
+
+U članku 17. podstavku 1. riječi: »magistar struke ili stručni specijalist« zamjenjuju se riječima: »sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij«.
+
+### Članak 7.
+
+U članku 18. stavku 1. podstavku 1. riječi: »magistar struke ili stručni specijalist« zamjenjuju se riječima: »sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij«.
+
+U stavku 2. riječ: »alineje« zamjenjuje se riječju: »podstavka«, a riječi: »stekne akademski naziv magistar struke ili stručni specijalist« zamjenjuju se riječima: »završi sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij«.
+
+### Članak 8.
+
+Članak 20. mijenja se i glasi:
+
+»U III. kategoriji radnih mjesta su radna mjesta koja obuhvaćaju izvršavanje administrativnih i jednostavnijih stručnih poslova te vođenje upravnog postupka i/ili rješavanje u jednostavnijim upravnim stvarima iz nadležnosti upravnog tijela.«.
+
+### Članak 9.
+
+U članku 21. podstavku 1. riječi: »sveučilišni prvostupnik struke ili stručni prvostupnik struke« zamjenjuju se riječima: »sveučilišni prijediplomski studij ili stručni prijediplomski studij«.
+
+Podstavak 2. mijenja se i glasi:
+
+» – stupanj složenosti koji uključuje izvršavanje administrativnih i jednostavnijih stručnih poslova s ograničenim brojem međusobno povezanih različitih zadaća u čijem rješavanju se primjenjuje ograničen broj propisanih postupaka, utvrđenih metoda rada ili stručnih tehnika te vođenje upravnog postupka i/ili rješavanje u jednostavnijim upravnim stvarima iz nadležnosti upravnog tijela;«.
+
+### Članak 10.
+
+U članku 22. stavku 1. podstavku 1. riječi: »sveučilišni prvostupnik struke ili stručni prvostupnik struke« zamjenjuju se riječima: »sveučilišni prijediplomski studij ili stručni prijediplomski studij ili stručni kratki studij«.
+
+Podstavak 2. mijenja se i glasi:
+
+» – stupanj složenosti koji uključuje izričito određene poslove koji zahtijevaju primjenu jednostavnijih i precizno utvrđenih postupaka, metoda rada i stručnih tehnika te vođenje upravnog postupka i/ili rješavanje u jednostavnijim upravnim stvarima iz nadležnosti upravnog tijela;«.
+
+U stavku 2. riječ: »alineje« zamjenjuje se riječju: »podstavka«, a riječi: »stekne naziv sveučilišni prvostupnik struke ili stručni prvostupnik struke« zamjenjuju se riječima: »završi sveučilišni prijediplomski studij ili stručni prijediplomski studij ili stručni kratki studij«.
+
+### Članak 11.
+
+U članku 24. stavku 2. riječi: »imenovan sveučilišni prvostupnik struke, odnosno stručni prvostupnik struke koji« zamjenjuju se riječima: »imenovana osoba koja završi sveučilišni prijediplomski studij ili stručni prijediplomski studij,«.
+
+### Članak 12.
+
+Općinski načelnici, gradonačelnici, odnosno župani uskladit će pravilnike o unutarnjem redu s odredbama ove Uredbe najkasnije u roku od tri mjeseca od dana stupanja na snagu ove Uredbe.
+
+### Članak 13.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/22-03/102
+
+Urbroj: 50301-21/32-23-3
+
+Zagreb, 4. svibnja 2023.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi (NN 28/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/28/324*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 54. stavka 2. Zakona o izmjenama i dopunama Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, broj 17/25.), Vlada Republike Hrvatske je na sjednici održanoj 18. ožujka 2026. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O KLASIFIKACIJI RADNIH MJESTA U LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI**
+
+### Članak 1.
+
+U Uredbi o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 74/10., 125/14. i 48/23.), u članku 18. ispred riječi: »Standardna mjerila« oznaka stavka: »(1)« briše se.
+
+Stavak 2. briše se.
+
+### Članak 2.
+
+U članku 22. ispred riječi: »Standardna mjerila« oznaka stavka: »(1)« briše se.
+
+Stavak 2. briše se.
+
+### Članak 3.
+
+U Popisu radnih mjesta koji je sastavni dio Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi, u Radnim mjestima III. kategorije, potkategorija radnog mjesta referent, naziv radnog mjesta: »matičar (u Gradu Zagrebu)« mijenja se i glasi: »matičar«.
+
+### Članak 4.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/25-03/93  
+Urbroj: 50301-04/32-26-7  
+Zagreb, 18. ožujka 2026.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

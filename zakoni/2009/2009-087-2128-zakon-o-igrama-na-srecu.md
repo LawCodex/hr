@@ -6,16 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2009-07-21
-last_amended: 2014-12-03
+last_amended: 2025-04-23
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "87/09, 35/13, 158/13, 41/14, 143/14"
+narodne_novine: "87/09, 35/13, 158/13, 41/14, 143/14, 114/22, 72/25"
 amendments:
   - "NN 35/2013 (634) Zakon o dopuni Zakona o igrama na sreću"
   - "NN 158/2013 (3309) Uredba o dopuni Zakona o igrama na sreću"
   - "NN 41/2014 (727) Zakon o izmjenama Zakona o igrama na sreću"
   - "NN 143/2014 (2684) Zakon o izmjeni Zakona o igrama na sreću"
+  - "NN 114/2022 (1681) Zakon o izmjenama Zakona o igrama na sreću"
+  - "NN 72/2025 (937) Zakon o izmjenama i dopunama Zakona o igrama na sreću"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/87/2128"
 retrieved: 2026-10-12
 ---
@@ -24,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 87/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/87/2128).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 35/2013, NN 158/2013, NN 41/2014, NN 143/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 35/2013, NN 158/2013, NN 41/2014, NN 143/2014, NN 114/2022, NN 72/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1438,3 +1440,515 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o igrama na sreću (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1681*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O IGRAMA NA SREĆU
+
+Proglašavam Zakon o izmjenama Zakona o igrama na sreću, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/79  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O IGRAMA NA SREĆU**
+
+#### Članak 1.
+
+U Zakonu o igrama na sreću (»Narodne novine«, br. 87/09., 35/13., 158/13., 41/14. i 143/14.) u članku 18. stavak 3. mijenja se i glasi:
+
+»(3) Porez na dobitke plaća se po stopi od 10% na dobitke iznad 99,54 eura do 1327,23 eura, po stopi od 15% na dobitke iznad 1327,23 eura do 3981,68 eura, po stopi od 20% na dobitke iznad 3981,68 eura do 66.361,40 eura, a po stopi od 30% na dobitke iznad 66.361,40 eura.«.
+
+#### Članak 2.
+
+U članku 21. stavku 3. riječi: »300.000,00 kuna« zamjenjuju se riječima: »39.816,84 eura«.
+
+#### Članak 3.
+
+U članku 37. stavku 1. riječi: »4.000.000,00 kuna« zamjenjuju se riječima: »530.891,23 eura«.
+
+U stavku 2. riječi: »1.500.000,00 kuna« zamjenjuju se riječima: »199.084,21 eura«.
+
+U stavku 3. riječi: »3.000.000,00 kuna« zamjenjuju se riječima: »398.168,43 eura«.
+
+#### Članak 4.
+
+U članku 38. stavku 1. riječi: »500.000,00 kuna« zamjenjuju se riječima: »66.361,40 eura«.
+
+U stavku 2. riječi: »3.000.000,00 kuna« zamjenjuju se riječima: »398.168,43 eura«.
+
+#### Članak 5.
+
+U članku 41. stavku 4. riječi: »500.000,00 kuna« zamjenjuju se riječima: »66.361,40 eura«.
+
+#### Članak 6.
+
+U članku 50. stavku 1. riječi: »4.000.000,00 kuna« zamjenjuju se riječima: »530.891,23 eura«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Priređivač koji je pravo priređivanja stekao odlukom Vlade Republike Hrvatske, a koji je u prethodnoj poslovnoj godini ostvario uplate od klađenja do 26.544.561,68 eura, mora radi osiguranja isplate dobitaka igračima i podmirenja javnih davanja u smislu općeg zakona kojim se uređuje odnos između poreznih obveznika i poreznih tijela, neprekidno u razdoblju u kojem priređuje igre na sreću, imati garanciju banke sa sjedištem u Republici Hrvatskoj u iznosu od 663.614,04 eura. Garancija banke za ostvarene uplate veće od 26.544.561,68 eura dostavlja se prema sljedećoj tablici:
+
+| IZNOS UPLATA U EURIMA | IZNOS GARANCIJE U<br>EURIMA |
+|---|---|
+| 26.544.561,68 – 39.816.842,52 | 929.059,66 |
+| 39.816.842,52 – 53.089.123,37 | 1.194.505,28 |
+| 53.089.123,37 – 66.361.404,21 | 1.459.950,89 |
+| 66.361.404,21 – 79.633.685,05 | 1.592.673,70 |
+| 79.633.685,05 – 106.178.246,73 | 1.725.396,51 |
+| 106.178.246,73 – 132.722.808,41 | 1.858.119,32 |
+| Iznad 132.722.808,41 | 1.990.842,13 |
+
+«.
+
+#### Članak 7.
+
+U članku 51. stavku 1. riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »132.722,81 eura«.
+
+U stavku 2. riječi: »3.000.000,00 kuna« zamjenjuju se riječima: »398.168,43 eura«.
+
+#### Članak 8.
+
+U članku 52. stavak 2. mijenja se i glasi:
+
+»(2) Porez na dobitke plaća se po stopi od 10% na dobitke do 1327,23 eura, po stopi od 15% na dobitke iznad 1327,23 eura do 3981,68 eura, po stopi od 20% na dobitke iznad 3981,68 eura do 66.361,40 eura te po stopi od 30% na dobitke iznad 66.361,40 eura.«.
+
+#### Članak 9.
+
+U članku 57. stavku 1. riječi: »2.000.000,00 kuna« zamjenjuju se riječima: »265.445,62 eura«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Priređivač igara na sreću na automatima koji te igre priređuje na temelju odluke Vlade Republike Hrvatske mora radi osiguranja isplate dobitaka igračima i podmirenja javnih davanja u smislu općeg zakona kojim se uređuje odnos između poreznih obveznika i poreznih tijela, prije početka rada dostaviti garanciju banke sa sjedištem u Republici Hrvatskoj za prvih 30 automata u iznosu od 39.816,84 eura.
+
+Priređivač koji priređuje igru na sreću u više automat klubova ili na više automata mora dostaviti garanciju prema sljedećoj tablici:
+
+| BROJ AUTOMATA | IZNOS GARANCIJE U EURIMA |
+|---|---|
+| 31 – 60 | 66.361,40 |
+| 61 – 90 | 92.905,97 |
+| 91 – 120 | 119.450,53 |
+| 121 – 150 | 145.995,09 |
+| 151 – 180 | 172.539,65 |
+| 181 – 210 | 199.084,21 |
+| 211 – 250 | 265.445,62 |
+| Iznad 250 | 663.614,04 |
+
+«.
+
+#### Članak 10.
+
+U članku 58. stavak 1. mijenja se i glasi:
+
+»(1) Za priređivanje igara na sreću na automatima plaća se godišnja naknada sukladno članku 31. ovoga Zakona u iznosu od 1327,23 eura po automatu. Ako priređivač u automat klubu priređuje igru na sreću na elektronskom roulettu do šest igraćih mjesta, plaća i godišnju naknadu u iznosu od 5308,91 eura, a iznad šest igraćih mjesta 6636,14 eura. Prilikom stavljanja u uporabu novih automata tijekom godine plaća se godišnja naknada po automatu u punom iznosu.«.
+
+#### Članak 11.
+
+U članku 63. stavku 3. riječi: »300,00 kuna« zamjenjuju se riječima »39,82 eura«, a riječi »500,00 kuna« zamjenjuju se riječima: »66,36 eura«.
+
+#### Članak 12.
+
+U članku 69. stavku 7. riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »132.722,81 eura«.
+
+U stavku 9. riječi: »5.000,00 kuna« zamjenjuju se riječima: »663,61 eura«.
+
+#### Članak 13.
+
+U članku 72. stavku 1. riječi: »od 50.000,00 do 500.000,00 kuna »zamjenjuju se riječima: »od 6630,00 do 66.360,00 eura«.
+
+U stavku 2. riječi: »od 5.000,00 do 50.000,00 kuna »zamjenjuju se riječima: »od 660,00 do 6630,00 eura«.
+
+#### Članak 14.
+
+U članku 73. stavku 1. riječi: »od 30.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 3980,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »od 30.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 3980,00 do 13.270,00 eura«.
+
+U stavku 3. riječi: »od 10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 6630,00 eura«.
+
+#### Članak 15.
+
+U članku 74. stavku 1. riječi: »od 5.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 66.360,00 eura«.
+
+U stavku 2. riječi: »od 5.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 6630,00 eura«.
+
+#### Članak 16.
+
+U članku 75. riječi: »od 5.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 6630,00 eura«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 17.
+
+Ministar financija uskladit će Pravilnik o obveznim evidencijama za obračun naknade od priređivanja igara na sreću (»Narodne novine«, br. 8/15.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 18.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/78
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o igrama na sreću (NN 72/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/72/937*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O IGRAMA NA SREĆU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o igrama na sreću, koji je Hrvatski sabor donio na sjednici 11. travnja 2025.
+
+Klasa: 011-02/25-02/41  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 17. travnja 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O IGRAMA NA SREĆU**
+
+#### Članak 1.
+
+U Zakonu o igrama na sreću (»Narodne novine« br. 87/09., 35/13., 158/13., 41/14., 143/14. i 114/22.) u članku 8. stavku 1. u uvodnoj rečenici riječi: »organizacija koje« zamjenjuju se riječju: »koji«.
+
+U točki 8. iza riječi: »društva« briše se točka, stavlja se zarez i dodaju točke 9. i 10. koje glase:
+
+»9. se bave psihosocijalnim osnaživanjem i podizanjem kvalitete življenja braniteljsko-stradalničke populacije iz Domovinskog rata te promicanjem i očuvanjem vrijednosti Domovinskog rata,
+
+10. se bave demografskom revitalizacijom Republike Hrvatske.«.
+
+#### Članak 2.
+
+U članku 13. stavak 1. mijenja se i glasi:
+
+»(1) Sudjelovanje u lutrijskoj igri dopušteno je samo punoljetnim osobama koje sukladno ovome Zakonu i pravilima pojedine igre ispunjavaju uvjete za sudjelovanje u pojedinoj igri (kolu ili seriji).«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) U slučaju sumnje u ispunjenje uvjeta punoljetnosti, sudionik u lutrijskoj igri dužan je dokazati punoljetnost identifikacijskom ispravom.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 3. i 4.
+
+#### Članak 3.
+
+U članku 18. stavak 3. mijenja se i glasi:
+
+»(3) Porez na dobitke plaća se po stopi od 10 % na dobitke iznad 100,00 eura do 1500,00 eura, po stopi od 15 % na dobitke iznad 1500,00 eura do 4000,00 eura, po stopi od 20 % na dobitke iznad 4000,00 eura do 70.000,00 eura, a po stopi od 30 % na dobitke iznad 70.000,00 eura.«.
+
+#### Članak 4.
+
+U članku 32. stavku 1. točki 15. iza riječi: »priređivanja« briše se točka i stavlja zarez te se dodaje točka 16. koja glasi:
+
+»16. da krši odredbe ovoga Zakona koje se odnose na provođenje mjera društveno odgovornog priređivanja igara na sreću.«.
+
+#### Članak 5.
+
+U članku 38. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Za priređivanje igara na sreću u casinima plaća se godišnja naknada, sukladno članku 31. ovoga Zakona, u iznosu od 100.000,00 eura za svaki casino. Za svako otvaranje casina tijekom godine plaća se godišnja naknada u punom iznosu.
+
+(2) Za priređivanje casino igara putem interaktivnih prodajnih kanala on-line igranja plaća se godišnja naknada, sukladno članku 31. ovoga Zakona u iznosu od 600.000,00 eura.«.
+
+#### Članak 6.
+
+U članku 46. stavak 2. mijenja se i glasi:
+
+»(2) Uplate za igre klađenja primaju se na uplatnim mjestima kladionica i putem samoposlužnih terminala na uplatnim mjestima kladionica, u prostorima casina i automat klubova.«.
+
+#### Članak 7.
+
+Naslov iznad članka 49. mijenja se i glasi: »Identifikacija igrača i zabrana sudjelovanja maloljetnika u igrama na sreću na uplatnim mjestima kladionica«.
+
+Članak 49. mijenja se i glasi:
+
+»(1) Sudjelovanje u igrama klađenja i igrama na automatima koje se priređuju na uplatnim mjestima kladionica dopušteno je samo osobama koje su se identificirale.
+
+(2) Zabranjuje se posjet uplatnim mjestima kladionica i sudjelovanje u igrama na sreću osobama mlađim od 18 godina.
+
+(3) Odgovornost za provođenje zabrana iz stavaka 1. i 2. ovoga članka snosi priređivač.«.
+
+#### Članak 8.
+
+U članku 51. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Za priređivanje klađenja putem uplatnih mjesta i samoposlužnih terminala plaća se godišnja naknada, sukladno članku 31. ovoga Zakona, u iznosu od 200.000,00 eura.
+
+(2) Za priređivanje igara klađenja putem interaktivnih prodajnih kanala on-line igranja plaća se godišnja naknada, sukladno članku 31. ovoga Zakona, u iznosu od 400.000,00 eura.«.
+
+#### Članak 9.
+
+U članku 52. stavak 2. mijenja se i glasi:
+
+»(2) Porez na dobitke plaća se po stopi od 10 % na dobitke do 1500,00 eura, po stopi od 15 % na dobitke iznad 1500,00 eura do 4000,00 eura, po stopi od 20 % na dobitke iznad 4000,00 eura do 70.000,00 eura te po stopi od 30 % na dobitke iznad 70.000,00 eura.«.
+
+#### Članak 10.
+
+U članku 58. stavak 1. mijenja se i glasi:
+
+»(1) Za priređivanje igara na sreću na automatima plaća se godišnja naknada sukladno članku 31. ovoga Zakona u iznosu od 2000,00 eura po automatu. Ako priređivač u automat klubu priređuje igru na sreću na elektronskom roulettu do šest igraćih mjesta, plaća i godišnju naknadu u iznosu od 8000,00 eura, a iznad šest igraćih mjesta 10.000,00 eura. Prilikom stavljanja u uporabu novih automata tijekom godine plaća se godišnja naknada po automatu u punom iznosu.«.
+
+#### Članak 11.
+
+Naslov iznad članka 60. mijenja se i glasi: »Identifikacija igrača i zabrana sudjelovanja maloljetnika u igrama na sreću u automat klubovima«.
+
+Članak 60. mijenja se i glasi:
+
+»(1) Posjet i sudjelovanje u igrama na sreću koje se priređuju u automat klubovima dopušteno je samo osobama koje su se identificirale.
+
+(2) Zabranjuje se posjet automat klubovima i sudjelovanje u igrama na sreću osobama mlađim od 18 godina.
+
+(3) Odgovornost za provođenje zabrana iz stavaka 1. i 2. ovoga članka snosi priređivač.«.
+
+#### Članak 12.
+
+U članku 66. stavak 2. mijenja se i glasi:
+
+»(2) Obveza čuvanja tajnosti nije povrijeđena u slučajevima u kojima sukladno odredbama općeg poreznog propisa ne postoji obveza čuvanja porezne tajne, u slučajevima kada je priređivač obvezan postupati sukladno propisima kojima se uređuje sprječavanje pranja novca i financiranja terorizma te prilikom razmjene podataka o isključenim igračima sukladno odredbama ovoga Zakona.«.
+
+#### Članak 13.
+
+Naslov iznad članka 67. mijenja se i glasi: »Društveno odgovorno priređivanje igara na sreću«.
+
+Članak 67. mijenja se i glasi:
+
+»(1) Igre na sreću moraju se priređivati na društveno odgovoran način pri čemu se posebno mora voditi računa o zaštiti maloljetnika, prevenciji ovisnosti o igrama na sreću te zaštiti osobnih podataka sudionika u igrama na sreću.
+
+(2) Priređivač igara na sreću iz članka 3. stavaka 3. i 4. ovoga Zakona svojom odlukom propisuje radno vrijeme u razdobljima od ponedjeljka do subote.
+
+(3) Zabranjuje se priređivanje igara na sreću nedjeljom u prostorima u kojima se priređuju igre na sreću iz članka 5. stavka 1. ovoga Zakona.
+
+(4) Priređivač igara na sreću iz članka 3. stavaka 3. i 4. ovoga Zakona može samostalno odrediti 16 radnih nedjelja u godini. Priređivač je obvezan odluku o radnim nedjeljama dostaviti Ministarstvu financija do kraja prosinca tekuće godine za sljedeću godinu.
+
+(5) Iznimno od stavaka 3. i 4. ovoga članka, dozvoljeno je priređivanje igara na sreću nedjeljom u casinu koji se nalazi u ugostiteljskom objektu skupine »hoteli« ili je njegov sastavni dio i na prodajnom mjestu poslovnog partnera Hrvatske Lutrije d.o.o. u kojem se priređuju isključivo lutrijske igre.
+
+(6) Vlada Republike Hrvatske uredbom će odrediti minimalnu udaljenost prostora za igre na sreću od drugih objekata i ustanova, javne prostore u kojima se mogu priređivati lutrijske igre, vanjsko uređenje i oglašavanje na vanjskim dijelovima prostora za igre na sreću te prostore u kojima je obvezna primjena tehničkog modela identifikacije igrača.«.
+
+#### Članak 14.
+
+Iza članka 67. dodaju se naslovi iznad članaka i članci 67.a do 67.e koji glase:
+
+*»Zabrana oglašavanja u medijima, sadržajima i događanjima za djecu i mladež*
+
+#### Članak 67.a
+
+(1) Zabranjeno je oglašavanje igara na sreću u svim medijima, sadržajima i na događanjima namijenjenima djeci i mladeži.
+
+(2) Zabrana iz stavka 1. ovoga članka odnosi se na priređivače igara na sreću, pružatelje medijskih usluga, pružatelje elektroničkih publikacija, izdavače i organizatore događanja.
+
+*Oglašavanje u medijima*
+
+#### Članak 67.b
+
+(1) Zabranjeno je oglašavanje igara na sreću putem interneta, u svim audiovizualnim i radijskim programima te sadržajima elektroničkih publikacija u vremenu od 6:00 do 23:00 sata.
+
+(2) Zabranjeno je oglašavanje igara na sreću u tiskanim medijima.
+
+(3) Zabrana iz stavaka 1. i 2. ovoga članka odnosi se na priređivače igara na sreću, pružatelje medijskih usluga, pružatelje elektroničkih publikacija, pružatelje usluga oglašavanja i izdavače.
+
+(4) U sadržaju koji se objavljuje u elektroničkim publikacijama ne smiju biti uključene poveznice koje na bilo koji način vode na stranice priređivača igara na sreću.
+
+(5) Iznimno od stavaka 1. i 2. ovoga članka, dozvoljeno je oglašavanje lutrijskih igara niskog rizika.
+
+(6) Lutrijske igre niskog rizika iz stavka 5. ovoga članka su igre kod kojih igrač saznaje ishod igre do najviše jedan puta dnevno te instant i ekspres lutrijske igre koje koriste papirnate srećke.
+
+(7) Iznimno od stavka 1. ovoga članka, dozvoljeno je oglašavanje na mrežnim stranicama priređivača igara na sreću iz članka 3. stavaka 3. i 4. ovoga Zakona.
+
+(8) Zabranjuje se oglašavanje koje poziva osobe na igranje igara na sreću ponudom bonusa, besplatnih vrtnji i sličnih pogodnosti, osim na mrežnim stranicama priređivača igara na sreću iz članka 3. stavaka 3. i 4. ovoga Zakona.
+
+(9) Oglašavanje igara na sreću mora sadržavati sljedeće poruke upozorenja:
+
+a) upozorenje da igre na sreću mogu uzrokovati ovisnost,
+
+b) upozorenje o zabrani sudjelovanja maloljetnika u igrama na sreću.
+
+*Oglašavanje na javno vidljivim površinama*
+
+#### Članak 67.c
+
+(1) Zabranjuje se oglašavanje igara na sreću na svim javno vidljivim površinama.
+
+(2) Zabrana iz stavka 1. ovoga članka odnosi se na priređivače igara na sreću i pružatelje usluga oglašavanja.
+
+(3) Iznimno od stavka 1. ovoga članka, dozvoljeno je oglašavanje na vanjskim dijelovima prostora u kojima se priređuju igre na sreću, a koje ne poziva osobe na igranje igara na sreću.
+
+(4) Vanjski izgled prostora casina, automat klubova i uplatnih mjesta kladionica mora biti takav da onemogućuje uvid u stolove za igre na sreću, automate za igre na sreću, samoposlužne terminale za klađenje te ponudu i rezultate igara klađenja.
+
+(5) Odredba stavka 4. ovoga članka ne primjenjuje se na vanjski izgled prostora casina u unutarnjem dijelu ugostiteljskih objekata skupine »hoteli« kategorije četiri ili više zvjezdica.
+
+*Sponzorstvo i ostali načini oglašavanja igara na sreću*
+
+#### Članak 67.d
+
+(1) Sponzorsko oglašavanje priređivača igara na sreću može sadržavati naziv tvrtke, prikaz znaka i prepoznatljive oznake usluge priređivača, ali ne smije sadržavati druga obilježja koja pozivaju ili upućuju na igre na sreću.
+
+(2) Nije dozvoljeno pojavljivanje poznatih osoba i osoba od medijskog utjecaja u oglašavanju igara na sreću putem interneta, audiovizualnim i radijskim programima, sadržajima elektroničkih publikacija, tiskanim medijima i na javno vidljivim površinama.
+
+(3) Zabranjuje se kreatorima sadržaja na društvenim mrežama promocija i oglašavanje igara na sreću i videoprijenos uživo (live stream) igara na sreću.
+
+(4) Ograničenja sponzorskog oglašavanja iz stavka 1. ovoga članka odnose se na priređivače igara na sreću i korisnike sponzorstva.
+
+*Postupak isključenja igrača i registar isključenih igrača*
+
+#### Članak 67.e
+
+(1) Igrač koji sudjeluje u igri na sreću iz članka 5. stavka 1. točaka 2., 3. i 4. ovoga Zakona i lutrijskim igrama na daljinu može zatražiti isključenje iz igre podnošenjem zahtjeva putem obrasca za isključenje priređivaču pisanim ili elektroničkim putem, kao i elektroničkim putem neposredno u registar isključenih igrača.
+
+(2) Zahtjev putem obrasca za isključenje iz igre, uz suglasnost igrača iz stavka 1. ovoga članka, neposredno u registar može podnijeti i ovlašteni djelatnik Hrvatskog zavoda za socijalni rad, ustanove za zaštitu obitelji te zdravstvene ustanove koje se bave zaštitom mentalnog zdravlja i liječenjem ovisnosti.
+
+(3) Zahtjev iz stavka 2. ovoga članka, bez suglasnosti igrača, može podnijeti i tijelo koje je nadležno za provedbu zaštitne mjere i posebne obveze izrečene u sudskom postupku.
+
+(4) Priređivač, ovlašteni djelatnik ustanove iz stavka 2. ovoga članka i tijelo iz stavka 3. ovoga članka dužni su dostaviti podatke o isključenim igračima u registar neposredno po zaprimanju zahtjeva za isključenje, a najkasnije u roku od 24 sata od zaprimanja.
+
+(5) Priređivač je dužan osigurati da igrač iz stavaka 1., 2. i 3. ovoga članka ne sudjeluje u igrama na sreću.
+
+(6) Hrvatski zavod za javno zdravstvo uspostavlja i vodi registar isključenih igrača koji sadrži podatke o isključenim igračima.
+
+(7) Ministar financija propisuje pravilnicima sadržaj obrasca za isključenje te način isključenja igrača.
+
+(8) Ministar zdravstva, uz prethodnu suglasnost ministra financija, propisuje pravilnikom sadržaj i način vođenja registra isključenih igrača te podatke koje registar mora sadržavati.«.
+
+#### Članak 15.
+
+U članku 69. stavku 1. iza prve rečenice dodaje se nova rečenica koja glasi: »Iznimno od navedenog, Ministarstvo financija u okviru svoje djelatnosti može priređivati nagradne igre u opće porezne svrhe.«.
+
+Iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Iznimno od stavka 5. ovoga članka, na pravila nagradne igre koju priređuje Ministarstvo financija ne izdaje se odobrenje.«.
+
+Dosadašnji stavci 6. do 10. postaju stavci 7. do 11.
+
+#### Članak 16.
+
+Naslov iznad članka 72. mijenja se i glasi: »PREKRŠAJNE ODREDBE«.
+
+U članku 72. stavku 1. točka 27. mijenja se i glasi:
+
+»27. ako dopusti sudjelovanje u lutrijskoj igri osobi koja nije punoljetna (članak 13. stavak 1.),«.
+
+Iza točke 27. dodaju se nove točke 28. i 29. i točke 30. do 42. koje glase:
+
+»28. ako dopusti sudjelovanje u igrama klađenja i igrama na automatima koje se priređuju na uplatnim mjestima kladionica osobi koja se nije identificirala ili ako dopusti posjet uplatnim mjestima kladionica i sudjelovanje u igrama na sreću osobi mlađoj od 18 godina (članak 49. stavci 1. i 2.),
+
+29. ako dopusti posjet i sudjelovanje u igrama na sreću koje se priređuju u automat klubovima osobi koja se nije identificirala i osobi mlađoj od 18 godina (članak 60. stavci 1. i 2.),
+
+30. ako se ne pridržava odluke o radnom vremenu u razdoblju od ponedjeljka do subote (članak 67. stavak 2.),
+
+31. ako se ne pridržava odredbe o neradnoj nedjelji i odredbe o 16 radnih nedjelja u godini (članak 67. stavci 3. i 4.),
+
+32. ako u medijima, sadržajima i na događanjima namijenjenima djeci i mladeži oglasi igre na sreću (članak 67.a stavak 1.),
+
+33. ako putem interneta, u audiovizualnim i radijskim programima te sadržajima elektroničkih publikacija u nedozvoljenom vremenu oglasi igru na sreću (članak 67.b stavak 1.),
+
+34. ako u tiskanim medijima oglasi igru na sreću (članak 67.b stavak 2.),
+
+35. ako u sadržaju objavljenom u elektroničkim publikacijama objavi sadržaj u koji je uključena poveznica koja na bilo koji način vodi na stranicu priređivača igara na sreću (članak 67.b stavak 4.),
+
+36. ako oglasi igru na sreću ponudom bonusa, besplatnih vrtnji i sličnih pogodnosti protivno odredbi ovoga Zakona (članak 67.b stavak 8.),
+
+37. ako oglasi igre na sreću bez propisanih poruka upozorenja (članak 67.b stavak 9.),
+
+38. ako oglasi igru na sreću na javno vidljivoj površini (članak 67.c stavak 1.),
+
+39. ako vanjski izgled prostora automat kluba, casina ili uplatnog mjesta kladionice nije uređen na propisan način (članak 67.c stavak 4.),
+
+40. ako u sponzorskom oglasu koristi obilježja koja pozivaju ili upućuju na igre na sreću (članak 67.d stavak 1.),
+
+41. ako se u oglašavanju igara na sreću putem interneta, u audiovizualnim i radijskim programima, sadržajima elektroničkih publikacija, tiskanim medijima i na javno vidljivim površinama pojavljuju poznate osobe i osobe od medijskog utjecaja (članak 67.d stavak 2.),
+
+42. ako priređivač u propisanom roku ne dostavi podatke o isključenim igračima u registar isključenih igrača i ne isključi iz igre igrača upisanog u registar isključenih igrača (članak 67.e stavci 4. i 5.),«.
+
+Dosadašnje točke 28. i 29. postaju točke 43. i 44.
+
+#### Članak 17.
+
+U članku 73. iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»(3) Novčanom kaznom od 3980,00 do 6630,00 eura kaznit će se fizička osoba koja oglasi igru na sreću putem interneta, u audiovizualnim i radijskim programima, sadržajima elektroničkih publikacija, u tiskanim medijima ili na javno vidljivim površinama (članak 67.b stavci 1. i 2., članak 67.c stavak 1.).
+
+(4) Novčanom kaznom od 3980,00 do 6630,00 eura kaznit će se fizička osoba, kreator sadržaja koji na društvenim mrežama promovira i oglašava igre na sreću ili priredi videoprijenos uživo (live stream) igara na sreću (članak 67.d stavak 3.).«.
+
+Dosadašnji stavci 3., 4., i 5. postaju stavci 5., 6. i 7.
+
+#### Članak 18.
+
+U članku 76. stavku 1. broj: »28.« zamjenjuje se brojem: »43.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 19.
+
+(1) Priređivači igara na sreću koji priređuju igre klađenja na samoposlužnim terminalima u ugostiteljskim objektima dužni su uskladiti svoje poslovanje s odredbom članka 46. stavka 2. koja je izmijenjena člankom 6. ovoga Zakona do 1. siječnja 2026.
+
+(2) Zahtjevi za izdavanje odobrenja za primanje uplata klađenja putem samoposlužnih terminala postavljenih u ugostiteljskim objektima podneseni do stupanja na snagu ovoga Zakona dovršit će se sukladno odredbama Zakona o igrama na sreću (»Narodne novine« br. 87/09., 35/13., 158/13., 41/14., 143/14. i 114/22.).
+
+(3) Priređivači igara na sreću koji priređuju igre klađenja na samoposlužnim terminalima i na automatima na uplatnim mjestima kladionica dužni su uskladiti svoje poslovanje s odredbom članka 49. stavka 1. koja je izmijenjena člankom 7. ovoga Zakona do 1. siječnja 2026.
+
+(4) Hrvatski zavod za javno zdravstvo dužan je uspostaviti registar isključenih igrača iz članka 67.e stavka 6. koji je dodan člankom 14. ovoga Zakona do 30. lipnja 2026.
+
+(5) Hrvatski zavod za javno zdravstvo dužan je do uspostave registra isključenih igrača formirati kontaktnu točku za razmjenu podataka o isključenim igračima u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(6) Priređivači igara na sreću dužni su razmjenjivati podatke o isključenim igračima u roku od 90 dana od dana uspostave kontaktne točke iz stavka 5. ovoga članka.
+
+(7) Priređivači igara na sreću dužni su uskladiti svoje poslovanje s odredbama članka 67. stavaka 3. i 4. koji su izmijenjeni člankom 13. ovoga Zakona, i odredbama članka 67.b stavaka 1., 2., 8. i 9., članka 67.c stavaka 1., 3. i 4. i članka 67.d stavaka 1. i 2. koji su dodani člankom 14. ovoga Zakona do 1. siječnja 2026.
+
+#### Članak 20.
+
+(1) Vlada Republike Hrvatske donijet će uredbu iz članka 67. stavka 6. koji je izmijenjen člankom 13. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Ministar financija uskladit će provedbene propise Zakona o igrama na sreću (»Narodne novine« br. 87/09., 35/13., 158/13., 41/14., 143/14. i 114/22.) u roku od 90 dana od dana stupanja na snagu ovoga Zakona:
+
+a) Pravilnik o prostornim i tehničkim uvjetima za priređivanje igara na sreću u casinima, na automatima i uplatnim mjestima kladionica (»Narodne novine« br. 38/10., 130/10., 69/11., 15/12., 151/14. i 36/20.),
+
+b) Pravilnik o priređivanju igara klađenja na daljinu (»Narodne novine« br. 8/10., 63/10. i 22/15.),
+
+c) Pravilnik o priređivanju igara na sreću u casinima putem interaktivnih prodajnih kanala on-line igranja (»Narodne novine« broj 78/10.),
+
+d) Pravilnik o priređivanju lutrijskih igara (»Narodne novine« br. 78/10., 69/11., 22/15., 45/16. i 101/18.),
+
+e) Pravilnik o obveznim evidencijama za obračun naknade od priređivanja igara na sreću (»Narodne novine« br. 8/15., 144/22. i 122/23.).
+
+(3) Ministar zdravstva donijet će pravilnik iz članka 67.e stavka 8. koji je dodan člankom 14. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(4) Stupanjem na snagu uredbe iz stavka 1. ovoga članka prestaju važiti odredbe iz članka 12. i članka 13. stavka 5. Pravilnika o priređivanju lutrijskih igara (»Narodne novine« br. 78/10., 69/11., 22/15., 45/16. i 101/18.) te odredbe članka 8. stavka 2., članka 28. stavka 3., članka 36. stavka 2. i članka 37. stavka 3. Pravilnika o prostornim i tehničkim uvjetima za priređivanje igara na sreću u casinima, na automatima i uplatnim mjestima kladionica (Narodne novine br. 38/10., 130/10., 69/11., 15/12., 151/14. i 36/20.).
+
+#### Članak 21.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/53  
+Zagreb, 11. travnja 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

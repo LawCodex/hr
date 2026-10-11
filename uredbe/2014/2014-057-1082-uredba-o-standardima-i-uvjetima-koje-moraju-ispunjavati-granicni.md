@@ -6,11 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2014-05-09
+last_amended: 2023-01-02
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "57/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "57/14, 16/18, 1/23"
+amendments:
+  - "NN 16/2018 (339) Uredba o dopuni Uredbe o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole"
+  - "NN 1/2023 (4) Uredba o izmjeni i dopunama Uredbe o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/57/1082"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Uredba o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole
 
 > Izvor: Narodne novine, NN 57/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/57/1082).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 16/2018, NN 1/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -331,3 +336,121 @@ Zagreb, 8. svibnja 2014.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopuni Uredbe o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole (NN 16/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/16/339*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 11. stavka 1. Zakona o nadzoru državne granice (»Narodne novine«, br. 83/13 i 27/16), Vlada Republike Hrvatske je na sjednici održanoj 15. veljače 2018. godine donijela
+
+**UREDBU**
+
+**O DOPUNI UREDBE O STANDARDIMA I UVJETIMA KOJE MORAJU ISPUNJAVATI GRANIČNI PRIJELAZI ZA UČINKOVITO I SIGURNO OBAVLJANJE GRANIČNE KONTROLE**
+
+### Članak 1.
+
+U Uredbi o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole (»Narodne novine«, broj 57/14), u članku 6. stavku 2. točki 3. iza riječi: »Zadar« stavlja se zarez i dodaje riječ: »Ploče«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-03/16
+
+Urbroj: 50301-29/09-18-2
+
+Zagreb, 15. veljače 2018.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjeni i dopunama Uredbe o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole (NN 1/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/1/4*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 11. stavka 1. Zakona o nadzoru državne granice (»Narodne novine«, br. 83/13., 27/16., 114/22. i 151/22.), Vlada Republike Hrvatske je na sjednici održanoj 2. siječnja 2023. donijela
+
+**UREDBU**
+
+**O IZMJENI I DOPUNAMA UREDBE O STANDARDIMA I UVJETIMA KOJE MORAJU ISPUNJAVATI GRANIČNI PRIJELAZI ZA UČINKOVITO I SIGURNO OBAVLJANJE GRANIČNE KONTROLE**
+
+### Članak 1.
+
+U Uredbi o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole (»Narodne novine«, br. 57/14. i 16/18.) u članku 6. stavku 1. točki 1. riječi: »Macelj, Bregana, Kaštel, Plovanija« brišu se.
+
+U stavku 2. točki 1. riječi: »Pasjak, Rupa, Mursko Središće, Goričan, Dubrava Križovljanska, Požane, Jurovski Brod, Bregana Naselje, Otok Virje, Hum na Sutli, Harmica, Trnovec, Duboševica, Pribanjci, Goričan, Lupinjak« brišu se.
+
+U točki 2. riječi: »Savski Marof, Koprivnica, Šapjane, Čakovec, Kotoriba, Beli Manastir« brišu se.
+
+### Članak 2.
+
+U članku 8. stavku 1. iza podstavka 1. dodaje se novi podstavak 2. koji glasi:
+
+» – prostoriju voditelja smjene graničnog prijelaza,«.
+
+Dosadašnji podstavci 2. do 11. postaju podstavci 3. do 12.
+
+U stavku 2. iza podstavka 7. dodaje se novi podstavak 8. koji glasi:
+
+» – uređaji za uzimanje biometrijskih podataka,«.
+
+Dosadašnji podstavci 8. do 15. postaju podstavci 9. do 16.
+
+### Članak 3.
+
+U članku 9. stavku 1. iza podstavka 1. dodaje se novi podstavak 2. koji glasi:
+
+» – prostoriju voditelja smjene graničnog prijelaza,«.
+
+Dosadašnji podstavci 2. do 11. postaju podstavci 3. do 12.
+
+U stavku 2. iza podstavka 6. dodaje se novi podstavak 7. koji glasi:
+
+» – uređaji za uzimanje biometrijskih podataka,«.
+
+Dosadašnji podstavci 7. do 12. postaju podstavci 8. do 13.
+
+### Članak 4.
+
+U članku 10. stavku 2. iza podstavka 4. dodaje se novi podstavak 5. koji glasi:
+
+» – uređaji za uzimanje biometrijskih podataka,«.
+
+Dosadašnji podstavci 5. do 11. postaju podstavci 6. do 12.
+
+### Članak 5.
+
+U članku 11. stavku 2. iza podstavka 2. dodaju se novi podstavci 3. i 4. koji glase:
+
+» – uređaji za uzimanje biometrijskih podataka,
+
+– telekomunikacijski i radiokomunikacijski sustav,«.
+
+Dosadašnji podstavci 3. i 4. postaju podstavci 5. i 6.
+
+### Članak 6.
+
+U članku 12. iza podstavka 4. dodaje se novi podstavak 5. koji glasi:
+
+» – CO<sub>2</sub> detektor za pregled vozila,«.
+
+Dosadašnji podstavak 5. postaje podstavak 6.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/22-03/99  
+Urbroj: 50301-21/21-23-5  
+Zagreb, 2. siječnja 2023.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-06-03
+last_amended: 2019-07-10
 status: in_force
-status_basis: "derived: enacted or amended in 2011 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "61/11"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "61/11, 66/19"
+amendments:
+  - "NN 66/2019 (1293) Zakon o izmjenama i dopuni Zakona o zabrani i sprječavanju obavljanja neregistrirane djelatnosti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1349"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o zabrani i sprječavanju obavljanja neregistrirane djelatnosti
 
 > Izvor: Narodne novine, NN 61/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1349).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 66/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -180,3 +184,69 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o zabrani i sprječavanju obavljanja neregistrirane djelatnosti (NN 66/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/66/1293*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O ZABRANI I SPRJEČAVANJU OBAVLJANJA NEREGISTRIRANE DJELATNOSTI
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o zabrani i sprječavanju obavljanja neregistrirane djelatnosti, koji je Hrvatski sabor donio na sjednici 28. lipnja 2019.
+
+Klasa: 011-01/19-01/101
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 5. srpnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O ZABRANI I SPRJEČAVANJU OBAVLJANJA NEREGISTRIRANE DJELATNOSTI**
+
+### Članak 1.
+
+U Zakonu o zabrani i sprječavanju obavljanja neregistrirane djelatnosti (»Narodne novine«, br. 61/11.) članak 8. mijenja se i glasi:
+
+»Inspekcijski nadzor nad provedbom ovoga Zakona obavljaju inspektori Državnog inspektorata u skladu s ovlastima određenim posebnim zakonom.«.
+
+### Članak 2.
+
+U članku 9. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Protiv rješenja inspektora iz stavka 3. ovoga članka može se izjaviti žalba u roku od 15 dana od dana dostave rješenja.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+Dosadašnji stavak 6., koji postaje stavak 7., mijenja se i glasi:
+
+»(7) O žalbama na rješenje iz stavka 3. ovog Zakona rješava nadležna unutarnja ustrojstvena jedinica za drugostupanjski postupak u središnjem uredu Državnog inspektorata.«.
+
+Dosadašnji stavci 7. i 8. brišu se.
+
+### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/82
+
+Zagreb, 28. lipnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,15 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2009-06-30
-last_amended: 2014-02-05
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "75/09, 61/11, 56/13, 14/14"
+narodne_novine: "75/09, 61/11, 56/13, 14/14, 32/19, 98/19"
 amendments:
   - "NN 61/2011 (1365) Zakon o izmjenama i dopunama Zakona o šumskom reprodukcijskom materijalu"
   - "NN 56/2013 (1150) Zakon o izmjenama i dopunama Zakona o šumskom reprodukcijskom materijalu"
   - "NN 14/2014 (285) Zakon o izmjeni Zakona o šumskom reprodukcijskom materijalu"
+  - "NN 32/2019 (659) Zakon o izmjenama i dopunama Zakona o šumskom reprodukcijskom materijalu"
+  - "NN 98/2019 (1952) Zakon o izmjenama Zakona o šumskom reprodukcijskom materijalu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/75/1784"
 retrieved: 2026-10-12
 ---
@@ -23,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 75/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/75/1784).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 61/2011, NN 56/2013, NN 14/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 61/2011, NN 56/2013, NN 14/2014, NN 32/2019, NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1665,3 +1667,155 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o šumskom reprodukcijskom materijalu (NN 32/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/32/659*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMSKOM REPRODUKCIJSKOM MATERIJALU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o šumskom reprodukcijskom materijalu, koji je Hrvatski sabor donio na sjednici 23. ožujka 2019.
+
+Klasa: 011-01/19-01/62
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 27. ožujka 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMSKOM REPRODUKCIJSKOM MATERIJALU**
+
+### Članak 1.
+
+U Zakonu o šumskom reprodukcijskom materijalu (»Narodne novine«, br. 75/09., 61/11., 56/13. i 14/14.) u članku 40. stavku 9. riječ: »Ministarstvu« zamjenjuje se riječima: »Državnom inspektoratu«.
+
+Stavci od 10. do 16. brišu se.
+
+U dosadašnjem stavku 17., koji postaje stavak 10., iza riječi: »propisuje ministar« stavlja se zarez i dodaju riječi: »uz prethodnu suglasnost glavnog državnog inspektora«.
+
+### Članak 2.
+
+U članku 55. stavku 1. riječ: »Ministarstva« zamjenjuje se riječima: »Državnog inspektorata«.
+
+Stavak 4. briše se.
+
+### Članak 3.
+
+U članku 56. točki 11. na kraju rečenice umjesto točke stavlja se zarez i dodaju se točke 12. do 16. koje glase:
+
+»12. nadzirati ispunjavanje uvjeta pravnih i fizičkih osoba upisanih u Upisnik dobavljača šumskog reprodukcijskog materijala i Upisnik dobavljača božićnih drvaca,
+
+13. nadzirati korištenje šumskog reprodukcijskog materijala iz uvoza,
+
+14. nadzirati uskladišten sjemenski materijal u sjemenskim štedionicama,
+
+15. nadzirati genetsku i sjemensku banku svojti šumskog drveća,
+
+16. nadzirati i sve ostale poslove propisane ovim Zakonom.«.
+
+### Članak 4.
+
+Naslov iznad članka 57. i članak 57. brišu se.
+
+### Članak 5.
+
+Naslovi iznad članaka 59. i 60. i članci 59. i 60. brišu se.
+
+### Članak 6.
+
+Članak 61. mijenja se i glasi:
+
+»(1) Protiv rješenja šumarskih inspektora može se u roku od 15 dana od dana dostave rješenja izjaviti žalba.
+
+(2) Žalbu protiv rješenja šumarskog inspektora rješava nadležna unutarnja ustrojstvena jedinica za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata.
+
+(3) Žalba protiv rješenja šumarskog inspektora ne odgađa izvršenje rješenja.«.
+
+### Članak 7.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/38
+
+Zagreb, 23. ožujka 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o šumskom reprodukcijskom materijalu (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1952*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ŠUMSKOM REPRODUKCIJSKOM MATERIJALU
+
+Proglašavam Zakon o izmjenama Zakona o šumskom reprodukcijskom materijalu, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/160
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ŠUMSKOM REPRODUKCIJSKOM MATERIJALU**
+
+### Članak 1.
+
+U Zakonu o šumskom reprodukcijskom materijalu (»Narodne novine«, br. 75/09., 61/11., 56/13., 14/14. i 32/19.) u članku 7. stavku 2. riječ: »središnjeg« briše se.
+
+### Članak 2.
+
+U članku 10. stavku 2. riječ: »središnjeg« briše se.
+
+### Članak 3.
+
+U članku 17. stavku 3. riječi: »uredu državne uprave u županiji/ispostavi« zamjenjuju se riječju: »županiji«.
+
+### Članak 4.
+
+U članku 25. stavak 1. mijenja se i glasi:
+
+»Poslove uspostavljanja i vođenja Upisnika dobavljača božićnih drvaca obavlja nadležno upravno tijelo županije odnosno Grada Zagreba (u daljnjem tekstu: nadležno tijelo) kao povjerene poslove državne uprave.«.
+
+### Članak 5.
+
+U članku 37. stavku 4. riječ: »središnjeg« briše se.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/155
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

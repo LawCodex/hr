@@ -903,7 +903,6 @@ DODATAK I.
 IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 
 <table>
-
 <tr>
 <td>Proizvodnja</td>
 <td><b>Jedinica</b><b></b><br> <b>mjere</b><b></b></td>
@@ -913,7 +912,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>[if !supportEmptyParas] [endif]<b></b></td>
 <td><b>Obujam poslovanja</b><b></b><br> <b>[proizvodna jedinica]</b><b></b></td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>2.</td>
@@ -923,7 +921,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>6.</td>
 <td>7.</td>
 </tr>
-
 <tr>
 <td>Žitarice</td>
 <td>ha</td>
@@ -933,7 +930,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Uljarice</td>
 <td>ha</td>
@@ -943,7 +939,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Krumpir (merkantilni)</td>
 <td>ha</td>
@@ -953,7 +948,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Šećerna repa</td>
 <td>ha</td>
@@ -963,7 +957,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td>ha</td>
@@ -973,7 +966,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Povrće i gljive</td>
 <td>ha</td>
@@ -983,7 +975,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Vinogradi</td>
 <td>ha</td>
@@ -993,7 +984,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Voće</td>
 <td>ha</td>
@@ -1003,7 +993,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Stabla maslina</td>
 <td>broj</td>
@@ -1013,7 +1002,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Hmelj</td>
 <td>ha</td>
@@ -1023,7 +1011,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Lavanda, ljekovito bilje</td>
 <td>ha</td>
@@ -1033,7 +1020,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Sjemenski usjevi</td>
 <td>ha</td>
@@ -1043,7 +1029,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ostali poljoprivredni usjevi</td>
 <td>ha</td>
@@ -1053,7 +1038,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Goveda (do 2 godine starosti)</td>
 <td>broj</td>
@@ -1063,7 +1047,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Goveda (iznad 2 godine starosti)</td>
 <td>broj</td>
@@ -1073,7 +1056,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ovce, ovnovi, koze, jarčevi</td>
 <td>broj</td>
@@ -1083,7 +1065,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice</td>
 <td>broj</td>
@@ -1093,7 +1074,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Kunići</td>
 <td>broj</td>
@@ -1103,7 +1083,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Nojevi</td>
 <td>broj</td>
@@ -1113,7 +1092,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Konji (do 2 godine starosti)</td>
 <td>broj</td>
@@ -1123,7 +1101,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Konji (iznad 2 godine starosti)</td>
 <td>broj</td>
@@ -1133,7 +1110,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Magarci, mazge, mule</td>
 <td>broj</td>
@@ -1143,7 +1119,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Svinje (do 50 kg)</td>
 <td>broj</td>
@@ -1153,7 +1128,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Svinje (više od 50 kg)</td>
 <td>broj</td>
@@ -1163,7 +1137,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Kokoši</td>
 <td>broj</td>
@@ -1173,7 +1146,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Pilići</td>
 <td>broj</td>
@@ -1183,7 +1155,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Purani</td>
 <td>broj</td>
@@ -1193,7 +1164,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ostala perad</td>
 <td>broj</td>
@@ -1203,13 +1173,11 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]<br> UKUPNO</td>
 <td colspan="5">[if !supportEmptyParas] [endif]<br> Ukupan obujam poslovanja =<br> [if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 </table>
 
 METODOLOGIJA:
@@ -1224,7 +1192,6 @@ DODATAK II.
 
 <table>
 <thead>
-
 <tr>
 <td><b>Opis</b><b></b></td>
 <td colspan="2"><b>Jedinica</b><b></b></td>
@@ -1232,489 +1199,419 @@ DODATAK II.
 <td><b>Područja s težim uvjetima gospodarenja (kn)</b><b></b></td>
 </tr>
 </thead>
-
 <tr>
 <td><b>Model poticanja proizvodnje</b><b></b></td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td><b>Poticanje ratarskih kultura</b><b></b></td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Krušna žita, pivarski ječam i soja</td>
 <td colspan="2">ha</td>
 <td>1.650</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Stočna žita</td>
 <td colspan="2">ha</td>
 <td>1.250</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Uljarice</td>
 <td colspan="2">ha</td>
 <td>2.250</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Krmno bilje</td>
 <td colspan="2">ha</td>
 <td>1.250</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Šećerna repa</td>
 <td colspan="2">ha</td>
 <td>3.000</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td colspan="2">kg</td>
 <td>5,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Povrće</td>
 <td colspan="2">ha</td>
 <td>1.250</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Povrće za industrijsku preradu</td>
 <td colspan="2">ha</td>
 <td>3.000</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ljekovito bilje</td>
 <td colspan="2">ha</td>
 <td>1.250</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Poljoprivreno sjeme I. skupine</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>- pšenice, pšenoraži, raži, ječma i zobi</td>
 <td colspan="2">kg</td>
 <td>0,25</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>- kukuruza</td>
 <td colspan="2">kg</td>
 <td>2,60</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>- šećerne repe</td>
 <td colspan="2">sjem.jedinica</td>
 <td>66,60</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>- soje</td>
 <td colspan="2">kg</td>
 <td>1,10</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>- suncokreta</td>
 <td colspan="2">kg</td>
 <td>7,40</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>- uljane repice</td>
 <td colspan="2">kg</td>
 <td>5,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>- duhana</td>
 <td colspan="2">kg</td>
 <td>5.650</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>- krumpira</td>
 <td colspan="2">kg</td>
 <td>1,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Poljoprivredno sjeme II. skupine</td>
 <td colspan="2">ha</td>
 <td>3.000</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Poticanje sadnog materijala, višegodišnjih nasada i maslinova ulja</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Sadni materijal</td>
 <td colspan="2">kom</td>
 <td>1,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Vinogradi (godišnja plaćanja)</td>
 <td colspan="2">ha</td>
 <td>1.250</td>
 <td>1.690</td>
 </tr>
-
 <tr>
 <td>Vinogradi (podizanje nasada)</td>
 <td colspan="2">ha</td>
 <td>28.000</td>
 <td>37.800</td>
 </tr>
-
 <tr>
 <td>Voćarstvo i hmelj (godišnja plaćanja)</td>
 <td colspan="2">ha</td>
 <td>1.250</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Voćarstvo I. skupina i hmelj (podizanje nasada)</td>
 <td colspan="2">ha</td>
 <td>20.000</td>
 <td>27.000</td>
 </tr>
-
 <tr>
 <td>Voćarstvo II. skupina (podizanje nasada)</td>
 <td colspan="2">ha</td>
 <td>14.000</td>
 <td>18.900</td>
 </tr>
-
 <tr>
 <td>Masline</td>
 <td colspan="2">stablo</td>
 <td>16</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Masline (podizanje nasada)</td>
 <td colspan="2">ha</td>
 <td>20.000</td>
 <td>27.000</td>
 </tr>
-
 <tr>
 <td>Maslinovo ulje</td>
 <td colspan="2">litra</td>
 <td>4,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Lavanda (godišnja plaćanja)</td>
 <td colspan="2">ha</td>
 <td>1.250</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Lavanda (podizanje nasada)</td>
 <td>ha</td>
 <td colspan="2">14.000</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Poticanje stočarstva i stočarskih proizvoda</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Mlijeko (kravlje)</td>
 <td>litra</td>
 <td colspan="2">0,65</td>
 <td>1,05</td>
 </tr>
-
 <tr>
 <td>Mlijeko (ovčje i kozje)</td>
 <td>litra</td>
 <td colspan="2">1,00</td>
 <td>1,35</td>
 </tr>
-
 <tr>
 <td>Utovljena junad</td>
 <td>grlo</td>
 <td colspan="2">800</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljene svinje</td>
 <td>grlo</td>
 <td colspan="2">100</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Mliječne krave</td>
 <td>grlo</td>
 <td colspan="2">800</td>
 <td>1.080</td>
 </tr>
-
 <tr>
 <td>Krave u sustavu krava tele</td>
 <td>grlo</td>
 <td colspan="2">1.500</td>
 <td>2.025</td>
 </tr>
-
 <tr>
 <td>Uzgoj ženske teladi i ždrebadi<br> (jednokratno)</td>
 <td>grlo</td>
 <td colspan="2">1.500</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Bikovi za rasplod (jednokratno)</td>
 <td>grlo</td>
 <td colspan="2">3.900</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Rasplodne ovce, ovnovi, koze i jarčevi</td>
 <td>grlo</td>
 <td colspan="2">200</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Rasplodne krmače</td>
 <td>grlo</td>
 <td colspan="2">300</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Nerasti za rasplod (jednokratno)</td>
 <td>grlo</td>
 <td colspan="2">1.000</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Rasplodne kobile i pastusi</td>
 <td>grlo</td>
 <td colspan="2">1.350</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice</td>
 <td colspan="2">košnica</td>
 <td>90</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Livade i pašnjaci</td>
 <td colspan="2">stoka/ha</td>
 <td>100</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Poticanje uzgoja autohtone pernate divljači</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Pilići autohtone pernate divljači</td>
 <td colspan="2">komada</td>
 <td>8,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Poticanje ekološke proizvodnje</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Ekološka proizvodnja</td>
 <td colspan="3">DODATAK IV.</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Poticanje ribarstva</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Uzgoj autohtonih vrsta bijele morske ribe</td>
 <td colspan="2">kg</td>
 <td>5,40</td>
 <td>7,30</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka - dagnje</td>
 <td colspan="2">kg</td>
 <td>0,80</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka - kamenice</td>
 <td colspan="2">kom</td>
 <td>0,50</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Riblja mlađ</td>
 <td colspan="2">kom</td>
 <td>0,25</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe I. skupine</td>
 <td colspan="2">kg</td>
 <td>3,50</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe II. skupine</td>
 <td colspan="2">kg</td>
 <td>4,80</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Ulov male plave ribe</td>
 <td colspan="2">kg</td>
 <td>0,35</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Prerada slatkovodne i male plave ribe</td>
 <td colspan="2">kg</td>
 <td>2,30</td>
 <td>3,10</td>
 </tr>
-
 <tr>
 <td>Model potpore dohotku</td>
 <td colspan="2">kn/osiguraniku</td>
 <td>7.200</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Model ruralnog razvitka</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td><b>Program očuvanja izvornih i zaštićenih pasmina</b><b></b></td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Goveda</td>
 <td colspan="2">grlo</td>
 <td>3.000</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Konji</td>
 <td colspan="2">grlo</td>
 <td>2.000</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Svinje</td>
 <td colspan="2">grlo</td>
 <td>700</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ovce</td>
 <td colspan="2">grlo</td>
 <td>350</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Magarci</td>
 <td colspan="2">grlo</td>
 <td>600</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Purani</td>
 <td colspan="2">grlo</td>
@@ -1722,7 +1619,6 @@ DODATAK II.
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
 [if !supportMisalignedColumns]
-
 <tr>
 <td></td>
 <td></td>
@@ -1731,20 +1627,17 @@ DODATAK II.
 <td></td>
 </tr>
 [endif]
-
 </table>
 
 DODATAK III.
 
 <table>
 <thead>
-
 <tr>
 <td><b>[if !supportEmptyParas] [endif]</b><br> <b>Opis</b><b></b></td>
 <td><b>[if !supportEmptyParas] [endif]</b><br> <b>Jedinica</b><b></b></td>
 <td colspan="4"><b>[if !supportEmptyParas] [endif]</b><br> <b>Minimalna poticana količina</b><b></b><br> [if !supportEmptyParas] [endif]<b></b></td>
 </tr>
-
 <tr>
 <td><b>GODINA</b><b></b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1753,7 +1646,6 @@ DODATAK III.
 <td colspan="2"><b>2005</b><b></b></td>
 </tr>
 </thead>
-
 <tr>
 <td>Model poticanja proizvodnje</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1761,7 +1653,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Poticanje ratarskih kultura</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1769,7 +1660,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Krušna žita i pivarski ječam (za svaku pojedinu kulturu minimalno 1 ha)</td>
 <td>ha</td>
@@ -1777,7 +1667,6 @@ DODATAK III.
 <td>3,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Soja</td>
 <td>ha</td>
@@ -1785,7 +1674,6 @@ DODATAK III.
 <td>2,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Stočna žita (za svaku pojedinu kulturu minimalno 1 ha)</td>
 <td>ha</td>
@@ -1793,7 +1681,6 @@ DODATAK III.
 <td>3,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Uljarice (za svaku pojedinu kulturu minimalno 0,5 ha)</td>
 <td>ha</td>
@@ -1801,7 +1688,6 @@ DODATAK III.
 <td>2,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Krmno bilje (ukupno za sve kulture)</td>
 <td>ha</td>
@@ -1809,7 +1695,6 @@ DODATAK III.
 <td>2,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Šećerna repa</td>
 <td>ha</td>
@@ -1817,13 +1702,11 @@ DODATAK III.
 <td>2,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td>kg</td>
 <td colspan="4">sva isporučena količina</td>
 </tr>
-
 <tr>
 <td>Povrće (za svaku pojedinu kulturu minimalno 0,25 ha)</td>
 <td>ha</td>
@@ -1831,7 +1714,6 @@ DODATAK III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Povrće za industrijsku preradu (za svaku pojedinu kulturu minimalno 0,25 ha)</td>
 <td>ha</td>
@@ -1839,7 +1721,6 @@ DODATAK III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Merkantilni krumpir</td>
 <td>ha</td>
@@ -1847,7 +1728,6 @@ DODATAK III.
 <td>1,50</td>
 <td colspan="2">2,00</td>
 </tr>
-
 <tr>
 <td>Ljekovito bilje (za svaku pojedinu kulturu)</td>
 <td>ha</td>
@@ -1855,13 +1735,11 @@ DODATAK III.
 <td>1,00</td>
 <td colspan="2">1,00</td>
 </tr>
-
 <tr>
 <td>Poljoprivredno sjeme</td>
 <td>ha, kg, sj. jed.</td>
 <td colspan="4">svo priznato sjeme</td>
 </tr>
-
 <tr>
 <td>Poticanje sadnog materijala, višegodišnjih nasada i maslinovog ulja</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1869,13 +1747,11 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Sadni materijal</td>
 <td>kom</td>
 <td colspan="4">sav priznati sadni materijal</td>
 </tr>
-
 <tr>
 <td>Vinogradi (godišnja plaćanja)</td>
 <td>ha</td>
@@ -1883,7 +1759,6 @@ DODATAK III.
 <td>0,25</td>
 <td colspan="2">0,25</td>
 </tr>
-
 <tr>
 <td>Vinogradi (podizanje nasada)</td>
 <td>ha</td>
@@ -1891,7 +1766,6 @@ DODATAK III.
 <td>0,25</td>
 <td colspan="2">0,25</td>
 </tr>
-
 <tr>
 <td>Voćarstvo i hmelj (godišnja plaćanja)</td>
 <td>ha</td>
@@ -1899,7 +1773,6 @@ DODATAK III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Voćarstvo I. skupina i hmelj (podizanje nasada)</td>
 <td>ha</td>
@@ -1907,7 +1780,6 @@ DODATAK III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Voćarstvo II. skupina (podizanje nasada)</td>
 <td>ha</td>
@@ -1915,7 +1787,6 @@ DODATAK III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Masline</td>
 <td>stablo</td>
@@ -1923,7 +1794,6 @@ DODATAK III.
 <td>50</td>
 <td colspan="2">50</td>
 </tr>
-
 <tr>
 <td>Masline (podizanje nasada)</td>
 <td>ha</td>
@@ -1931,7 +1801,6 @@ DODATAK III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Maslinovo ulje</td>
 <td>litra</td>
@@ -1939,7 +1808,6 @@ DODATAK III.
 <td>100</td>
 <td colspan="2">100</td>
 </tr>
-
 <tr>
 <td>Lavanda (godišnja plaćanja)</td>
 <td>ha</td>
@@ -1947,7 +1815,6 @@ DODATAK III.
 <td>0,25</td>
 <td colspan="2">0,25</td>
 </tr>
-
 <tr>
 <td>Lavanda (podizanje nasada)</td>
 <td>ha</td>
@@ -1955,7 +1822,6 @@ DODATAK III.
 <td>0,25</td>
 <td colspan="2">0,25</td>
 </tr>
-
 <tr>
 <td>Poticanje stočarstva i stočarskih proizvoda</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1964,7 +1830,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mlijeko (kravlje)</td>
 <td>Litra</td>
@@ -1973,7 +1838,6 @@ DODATAK III.
 <td>12.000</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mlijeko (ovčje i kozje)</td>
 <td>Litra</td>
@@ -1982,7 +1846,6 @@ DODATAK III.
 <td>2.500</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Utovljena junad</td>
 <td>grlo</td>
@@ -1991,7 +1854,6 @@ DODATAK III.
 <td>20</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Utovljene svinje</td>
 <td>grlo</td>
@@ -2000,7 +1862,6 @@ DODATAK III.
 <td>80</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mliječne krave</td>
 <td>grlo</td>
@@ -2009,7 +1870,6 @@ DODATAK III.
 <td>5</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Krave u sustavu krava tele</td>
 <td>grlo</td>
@@ -2018,7 +1878,6 @@ DODATAK III.
 <td>25</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uzgoj ženske teladi i ždrebadi (jednokratno)</td>
 <td>grlo</td>
@@ -2027,7 +1886,6 @@ DODATAK III.
 <td>3</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Bikovi i nerasti za rasplod (jednokratno)</td>
 <td>grlo</td>
@@ -2036,7 +1894,6 @@ DODATAK III.
 <td>1</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ovce i ovnovi, odnosno koze i jarčevi za rasplod</td>
 <td>grlo</td>
@@ -2045,7 +1902,6 @@ DODATAK III.
 <td>25</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Rasplodne krmače</td>
 <td>grlo</td>
@@ -2054,7 +1910,6 @@ DODATAK III.
 <td>10</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Rasplodne kobile i pastusi</td>
 <td>grlo</td>
@@ -2063,7 +1918,6 @@ DODATAK III.
 <td>3</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice</td>
 <td>košnica</td>
@@ -2072,7 +1926,6 @@ DODATAK III.
 <td>40</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Livade i pašnjaci</td>
 <td>stoka/ha</td>
@@ -2080,7 +1933,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Poticanje uzgoja autohtonih vrsta pernate divljači</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -2088,7 +1940,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Pilići autohtone pernate divljači</td>
 <td>komada</td>
@@ -2096,7 +1947,6 @@ DODATAK III.
 <td>6.000</td>
 <td colspan="2">6.000</td>
 </tr>
-
 <tr>
 <td>Poticanje ekološke proizvodnje</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -2104,7 +1954,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ekološka proizvodnja (ukupno za sve kulture)</td>
 <td>ha</td>
@@ -2112,7 +1961,6 @@ DODATAK III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Poticanje ribarstva</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -2120,7 +1968,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Uzgoj autohtonih vrsta bijele morske ribe</td>
 <td>kg</td>
@@ -2128,7 +1975,6 @@ DODATAK III.
 <td>3.000</td>
 <td colspan="2">3.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka - dagnje</td>
 <td>kg</td>
@@ -2136,7 +1982,6 @@ DODATAK III.
 <td>3.000</td>
 <td colspan="2">3.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka - kamenice</td>
 <td>kom</td>
@@ -2144,7 +1989,6 @@ DODATAK III.
 <td>3.000</td>
 <td colspan="2">3.000</td>
 </tr>
-
 <tr>
 <td>Riblja mlađ</td>
 <td>kom</td>
@@ -2152,7 +1996,6 @@ DODATAK III.
 <td>100.000</td>
 <td colspan="2">100.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe I.skupine</td>
 <td>kg</td>
@@ -2160,7 +2003,6 @@ DODATAK III.
 <td>3.000</td>
 <td colspan="2">3.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe II.skupine</td>
 <td>kg</td>
@@ -2168,7 +2010,6 @@ DODATAK III.
 <td>2.000</td>
 <td colspan="2">2.000</td>
 </tr>
-
 <tr>
 <td>Ulov male plave ribe</td>
 <td>kg</td>
@@ -2176,7 +2017,6 @@ DODATAK III.
 <td>50.000</td>
 <td colspan="2">50.000</td>
 </tr>
-
 <tr>
 <td>Prerada slatkovodne i male plave ribe</td>
 <td>kg</td>
@@ -2184,7 +2024,6 @@ DODATAK III.
 <td>10.000</td>
 <td colspan="2">10.000</td>
 </tr>
-
 <tr>
 <td>Model ruralnog razvitka</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -2192,7 +2031,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Program očuvanja izvornih i zaštićenih pasmina</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -2200,7 +2038,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Goveda</td>
 <td>grlo</td>
@@ -2208,7 +2045,6 @@ DODATAK III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Konji</td>
 <td>grlo</td>
@@ -2216,7 +2052,6 @@ DODATAK III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Svinje</td>
 <td>grlo</td>
@@ -2224,7 +2059,6 @@ DODATAK III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Ovce</td>
 <td>grlo</td>
@@ -2232,7 +2066,6 @@ DODATAK III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Magarci</td>
 <td>grlo</td>
@@ -2240,7 +2073,6 @@ DODATAK III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Purani</td>
 <td>grlo</td>
@@ -2248,14 +2080,12 @@ DODATAK III.
 <td>5</td>
 <td colspan="2">5</td>
 </tr>
-
 </table>
 
 DODATAK IV.
 
 <table>
 <thead>
-
 <tr>
 <td><b>Opis</b><b></b></td>
 <td colspan="2"><b>Jedinica</b><b></b></td>
@@ -2263,189 +2093,162 @@ DODATAK IV.
 <td><b>Područja s težim uvjetima gospodarenja (kn)</b><b></b></td>
 </tr>
 </thead>
-
 <tr>
 <td>Poticanje ekološke proizvodnje</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ratarske kulture</td>
 <td colspan="2">ha</td>
 <td>3.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Sadni materijal, višegodišnji nasadi osim maslina</td>
 <td>ha</td>
 <td colspan="2">3.000</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Masline</td>
 <td>stablo</td>
 <td colspan="2">20,8</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Maslinovo ulje</td>
 <td>litra</td>
 <td colspan="2">5,20</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Pašnjaci, livade</td>
 <td>ha/grlu</td>
 <td colspan="2">130</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Stočarstvo i stočarski proizvodi</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Mlijeko (kravlje)</td>
 <td>litra</td>
 <td colspan="2">0,85</td>
 <td>1,35</td>
 </tr>
-
 <tr>
 <td>Mlijeko (ovčje i kozje)</td>
 <td>litra</td>
 <td colspan="2">1,30</td>
 <td>1,75</td>
 </tr>
-
 <tr>
 <td>Utovljena junad</td>
 <td>grlo</td>
 <td colspan="2">1.040</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljene svinje</td>
 <td>grlo</td>
 <td colspan="2">130</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljena janjad i jarad</td>
 <td>grlo</td>
 <td colspan="2">30</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Utovljena perad</td>
 <td>kljun</td>
 <td colspan="2">20</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Mliječne krave</td>
 <td>grlo</td>
 <td colspan="2">1.040</td>
 <td>1.400</td>
 </tr>
-
 <tr>
 <td>Krave u sustavu krava tele</td>
 <td>grlo</td>
 <td colspan="2">2.630</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ovce,ovnovi, koze i jarčevi</td>
 <td>grlo</td>
 <td colspan="2">260</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Perad</td>
 <td>kljun</td>
 <td colspan="2">20</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Svinje</td>
 <td>grlo</td>
 <td colspan="2">390</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Konji</td>
 <td>grlo</td>
 <td colspan="2">1.750</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice</td>
 <td>košnica</td>
 <td colspan="2">115</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Akvakultura</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Uzgoj autohtonih vrsta bijele morske ribe</td>
 <td colspan="2">kg</td>
 <td>7,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – dagnje</td>
 <td colspan="2">kg</td>
 <td>1,04</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – kamenice</td>
 <td colspan="2">kom</td>
 <td>0,65</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Riblja mlađ</td>
 <td colspan="2">kom</td>
 <td>0,33</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe I.skupine</td>
 <td colspan="2">kg</td>
 <td>4,55</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe II.skupine</td>
 <td colspan="2">kg</td>
@@ -2453,7 +2256,6 @@ DODATAK IV.
 <td>-</td>
 </tr>
 [if !supportMisalignedColumns]
-
 <tr>
 <td></td>
 <td></td>
@@ -2462,7 +2264,6 @@ DODATAK IV.
 <td></td>
 </tr>
 [endif]
-
 </table>
 
 ---
@@ -2579,7 +2380,6 @@ IZMJENA DODATKA I.
 IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 
 <table>
-
 <tr>
 <td>Proizvodnja</td>
 <td><b>Jedinica</b><br> <b>mjere</b></td>
@@ -2589,7 +2389,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td><b></b></td>
 <td><b>Obujam poslovanja</b><br> <b>[proizvodna jedinica]</b></td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>2.</td>
@@ -2599,7 +2398,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>6.</td>
 <td>7.</td>
 </tr>
-
 <tr>
 <td>Žitarice</td>
 <td>ha</td>
@@ -2609,7 +2407,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uljarice</td>
 <td>ha</td>
@@ -2619,7 +2416,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Krumpir (merkantilni)</td>
 <td>ha</td>
@@ -2629,7 +2425,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Šećerna repa</td>
 <td>ha</td>
@@ -2639,7 +2434,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td>ha</td>
@@ -2649,7 +2443,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Povrće i gljive</td>
 <td>ha</td>
@@ -2659,7 +2452,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Vinogradi</td>
 <td>ha</td>
@@ -2669,7 +2461,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Voće</td>
 <td>ha</td>
@@ -2679,7 +2470,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Stabla maslina</td>
 <td>broj</td>
@@ -2689,7 +2479,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Hmelj</td>
 <td>ha</td>
@@ -2699,7 +2488,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Lavanda, ljekovito bilje</td>
 <td>ha</td>
@@ -2709,7 +2497,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Sjemenski usjevi</td>
 <td>ha</td>
@@ -2719,7 +2506,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ostali poljoprivredni usjevi</td>
 <td>ha</td>
@@ -2729,7 +2515,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Goveda (do 2 godine starosti)</td>
 <td>broj</td>
@@ -2739,7 +2524,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Goveda (iznad 2 godine starosti)</td>
 <td>broj</td>
@@ -2749,7 +2533,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ovce, ovnovi, koze, jarčevi</td>
 <td>broj</td>
@@ -2759,7 +2542,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice</td>
 <td>broj</td>
@@ -2769,7 +2551,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Kunići i krznaši</td>
 <td>broj</td>
@@ -2779,7 +2560,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Nojevi</td>
 <td>broj</td>
@@ -2789,7 +2569,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Konji (do 2 godine starosti)</td>
 <td>broj</td>
@@ -2799,7 +2578,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Konji (iznad 2 godine starosti)</td>
 <td>broj</td>
@@ -2809,7 +2587,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Magarci, mazge, mule</td>
 <td>broj</td>
@@ -2819,7 +2596,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Svinje (do 50 kg)</td>
 <td>broj</td>
@@ -2829,7 +2605,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Svinje (više od 50 kg)</td>
 <td>broj</td>
@@ -2839,7 +2614,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Kokoši</td>
 <td>broj</td>
@@ -2849,7 +2623,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Pilići</td>
 <td>broj</td>
@@ -2859,7 +2632,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Purani</td>
 <td>broj</td>
@@ -2869,7 +2641,6 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ostala perad</td>
 <td>broj</td>
@@ -2879,13 +2650,11 @@ IZRAČUN UKUPNOG OBUJMA POSLOVANJA POLJOPRIVREDNOG GOSPODARSTVA
 <td>=</td>
 <td></td>
 </tr>
-
 <tr>
 <td><br> UKUPNO</td>
 <td colspan="5"><br> Ukupan obujam poslovanja =<br> </td>
 <td></td>
 </tr>
-
 </table>
 
 METODOLOGIJA:
@@ -2902,7 +2671,6 @@ IZMJENA DODATKA II.
 
 <table>
 <thead>
-
 <tr>
 <td><b>Opis</b></td>
 <td><b>Jedinica</b></td>
@@ -2911,7 +2679,6 @@ IZMJENA DODATKA II.
 <td></td>
 </tr>
 </thead>
-
 <tr>
 <td><b>Model poticanja proizvodnje</b></td>
 <td></td>
@@ -2919,7 +2686,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Poticanje ratarskih kultura</b></td>
 <td></td>
@@ -2927,7 +2693,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Krušna žita, pivarski ječam i soja</td>
 <td>ha</td>
@@ -2935,7 +2700,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Stočna žita</td>
 <td>ha</td>
@@ -2943,7 +2707,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uljarice</td>
 <td>ha</td>
@@ -2951,7 +2714,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Krmno bilje</td>
 <td>ha</td>
@@ -2959,7 +2721,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Šećerna repa</td>
 <td>ha</td>
@@ -2967,7 +2728,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td>kg</td>
@@ -2975,7 +2735,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Povrće</td>
 <td>ha</td>
@@ -2983,7 +2742,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Povrće za industrijsku preradu</td>
 <td>ha</td>
@@ -2991,7 +2749,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ljekovito bilje</td>
 <td>ha</td>
@@ -2999,7 +2756,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Poljoprivredno sjeme I. skupine</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3007,7 +2763,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>- pšenice, pšenoraži, raži, ječma i zobi</td>
 <td>kg</td>
@@ -3015,7 +2770,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>- kukuruza</td>
 <td>kg</td>
@@ -3023,7 +2777,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>- šećerne repe</td>
 <td>sjem.jedinica</td>
@@ -3031,7 +2784,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>- soje</td>
 <td>kg</td>
@@ -3039,7 +2791,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>- suncokreta</td>
 <td>kg</td>
@@ -3047,7 +2798,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>- uljane repice</td>
 <td>kg</td>
@@ -3055,7 +2805,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>- duhana</td>
 <td>kg</td>
@@ -3063,7 +2812,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>- krumpira</td>
 <td>kg</td>
@@ -3071,7 +2819,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Poljoprivredno sjeme II. skupine</td>
 <td>ha</td>
@@ -3079,7 +2826,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Poticanje sadnog materijala, višegodišnjih nasada i maslinova ulja</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3087,7 +2833,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Sadni materijal</td>
 <td>kom</td>
@@ -3095,7 +2840,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Vinogradi (godišnja plaćanja)</td>
 <td>ha</td>
@@ -3103,7 +2847,6 @@ IZMJENA DODATKA II.
 <td colspan="2">1.690</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Vinogradi (podizanje nasada)</td>
 <td>ha</td>
@@ -3111,7 +2854,6 @@ IZMJENA DODATKA II.
 <td colspan="2">37.800</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Voćarstvo i hmelj (godišnja plaćanja)</td>
 <td>ha</td>
@@ -3119,7 +2861,6 @@ IZMJENA DODATKA II.
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Voćarstvo I. skupina i hmelj (podizanje nasada)</td>
 <td>ha</td>
@@ -3127,7 +2868,6 @@ IZMJENA DODATKA II.
 <td colspan="2">27.000</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Voćarstvo II. skupina (podizanje nasada)</td>
 <td>ha</td>
@@ -3135,7 +2875,6 @@ IZMJENA DODATKA II.
 <td colspan="2">18.900</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Masline</td>
 <td>stablo</td>
@@ -3143,7 +2882,6 @@ IZMJENA DODATKA II.
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Masline (podizanje nasada)</td>
 <td>ha</td>
@@ -3151,7 +2889,6 @@ IZMJENA DODATKA II.
 <td colspan="2">27.000</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Maslinovo ulje</td>
 <td>litra</td>
@@ -3159,7 +2896,6 @@ IZMJENA DODATKA II.
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Lavanda (godišnja plaćanja)</td>
 <td>ha</td>
@@ -3167,7 +2903,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Lavanda (podizanje nasada)</td>
 <td>ha</td>
@@ -3175,7 +2910,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>[if !supportEmptyParas] [endif]</b><br> <b>Poticanje stočarstva i stočarskih proizvoda</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3183,7 +2917,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mlijeko (kravlje)</td>
 <td>litra</td>
@@ -3191,7 +2924,6 @@ IZMJENA DODATKA II.
 <td colspan="2">1,05</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mlijeko (ovčje i kozje)</td>
 <td>litra</td>
@@ -3199,7 +2931,6 @@ IZMJENA DODATKA II.
 <td colspan="2">1,35</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Utovljena junad</td>
 <td>grlo</td>
@@ -3207,7 +2938,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Utovljene svinje</td>
 <td>grlo</td>
@@ -3215,7 +2945,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mliječne krave</td>
 <td>grlo</td>
@@ -3223,7 +2952,6 @@ IZMJENA DODATKA II.
 <td colspan="2">1.080</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Krave u sustavu krava tele</td>
 <td>grlo</td>
@@ -3231,7 +2959,6 @@ IZMJENA DODATKA II.
 <td colspan="2">2.025</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uzgoj ženske teladi i ždrebadi<br> (jednokratno)</td>
 <td>grlo</td>
@@ -3239,7 +2966,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Bikovi za rasplod (jednokratno)</td>
 <td>grlo</td>
@@ -3247,7 +2973,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Rasplodne ovce, ovnovi, koze i jarčevi</td>
 <td>grlo</td>
@@ -3255,7 +2980,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Rasplodne krmače</td>
 <td>grlo</td>
@@ -3263,7 +2987,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Nerasti za rasplod (jednokratno)</td>
 <td>grlo</td>
@@ -3271,7 +2994,6 @@ IZMJENA DODATKA II.
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Rasplodne kobile i pastusi</td>
 <td>grlo</td>
@@ -3279,7 +3001,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice</td>
 <td>košnica</td>
@@ -3287,7 +3008,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Livade i pašnjaci</td>
 <td>stoka/ha</td>
@@ -3295,7 +3015,6 @@ IZMJENA DODATKA II.
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Poticanje uzgoja autohtone pernate divljači</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3303,7 +3022,6 @@ IZMJENA DODATKA II.
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Pilići autohtone pernate divljači</td>
 <td>komada</td>
@@ -3311,7 +3029,6 @@ IZMJENA DODATKA II.
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Poticanje ekološke proizvodnje</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3319,13 +3036,11 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ekološka proizvodnja<b> </b></td>
 <td colspan="3">DODATAK IV.</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td><b>Poticanje ribarstva</b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
@@ -3333,7 +3048,6 @@ IZMJENA DODATKA II.
 <td colspan="2">[if !supportEmptyParas] [endif]<b></b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uzgoj autohtonih vrsta bijele morske ribe</td>
 <td>kg</td>
@@ -3341,7 +3055,6 @@ IZMJENA DODATKA II.
 <td colspan="2">7,30</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – dagnje</td>
 <td>kg</td>
@@ -3349,7 +3062,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – kamenice</td>
 <td>kom</td>
@@ -3357,7 +3069,6 @@ IZMJENA DODATKA II.
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Riblja mlađ</td>
 <td>kom</td>
@@ -3365,7 +3076,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe I. skupine</td>
 <td>kg</td>
@@ -3373,7 +3083,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe II. skupine</td>
 <td>kg</td>
@@ -3381,7 +3090,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ulov male plave ribe</td>
 <td>kg</td>
@@ -3389,7 +3097,6 @@ IZMJENA DODATKA II.
 <td colspan="2">-</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Prerada male plave ribe, uzgojenih slatkovodnih i autohtonih vrsta bijele morske ribe</td>
 <td>kg</td>
@@ -3397,7 +3104,6 @@ IZMJENA DODATKA II.
 <td colspan="2">3,10</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Model potpore dohotku</td>
 <td>kn/osiguraniku</td>
@@ -3405,7 +3111,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Model ruralnog razvitka</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3413,7 +3118,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td><b>Program očuvanja izvornih i zaštićenih pasmina</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3421,7 +3125,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Goveda</td>
 <td>grlo</td>
@@ -3429,7 +3132,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Konji</td>
 <td>grlo</td>
@@ -3437,7 +3139,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Svinje</td>
 <td>grlo</td>
@@ -3445,7 +3146,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ovce</td>
 <td>grlo</td>
@@ -3453,7 +3153,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Magarci</td>
 <td>grlo</td>
@@ -3461,7 +3160,6 @@ IZMJENA DODATKA II.
 <td colspan="2"></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Purani</td>
 <td>grlo</td>
@@ -3470,7 +3168,6 @@ IZMJENA DODATKA II.
 <td></td>
 </tr>
 [if !supportMisalignedColumns]
-
 <tr>
 <td></td>
 <td></td>
@@ -3480,20 +3177,17 @@ IZMJENA DODATKA II.
 <td></td>
 </tr>
 [endif]
-
 </table>
 
 IZMJENA DODATKA III.
 
 <table>
 <thead>
-
 <tr>
 <td><b> </b><br> <b>Opis</b></td>
 <td><b> </b><br> <b>Jedinica</b></td>
 <td colspan="4"><b> </b><br> <b>Minimalna poticana količina</b><br> <b></b></td>
 </tr>
-
 <tr>
 <td><b>GODINA</b></td>
 <td></td>
@@ -3502,7 +3196,6 @@ IZMJENA DODATKA III.
 <td colspan="2"><b>2005</b></td>
 </tr>
 </thead>
-
 <tr>
 <td>Model poticanja proizvodnje</td>
 <td></td>
@@ -3510,7 +3203,6 @@ IZMJENA DODATKA III.
 <td></td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td><b>Poticanje ratarskih kultura</b></td>
 <td></td>
@@ -3518,7 +3210,6 @@ IZMJENA DODATKA III.
 <td></td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td>Krušna žita i pivarski ječam (za svaku pojedinu kulturu minimalno 1 ha)</td>
 <td>ha</td>
@@ -3526,7 +3217,6 @@ IZMJENA DODATKA III.
 <td>3,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Soja</td>
 <td>ha</td>
@@ -3534,7 +3224,6 @@ IZMJENA DODATKA III.
 <td>2,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Stočna žita (za svaku pojedinu kulturu minimalno 1 ha)</td>
 <td>ha</td>
@@ -3542,7 +3231,6 @@ IZMJENA DODATKA III.
 <td>3,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Uljarice (za svaku pojedinu kulturu minimalno 0,5 ha)</td>
 <td>ha</td>
@@ -3550,7 +3238,6 @@ IZMJENA DODATKA III.
 <td>2,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Krmno bilje (ukupno za sve kulture)</td>
 <td>ha</td>
@@ -3558,7 +3245,6 @@ IZMJENA DODATKA III.
 <td>2,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Šećerna repa</td>
 <td>ha</td>
@@ -3566,13 +3252,11 @@ IZMJENA DODATKA III.
 <td>2,00</td>
 <td colspan="2">3,00</td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td>kg</td>
 <td colspan="4">sva isporučena količina</td>
 </tr>
-
 <tr>
 <td>Povrće (za svaku pojedinu kulturu minimalno 0,25 ha)</td>
 <td>ha</td>
@@ -3580,7 +3264,6 @@ IZMJENA DODATKA III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Povrće za industrijsku preradu (za svaku pojedinu kulturu minimalno 0,25 ha)</td>
 <td>ha</td>
@@ -3588,7 +3271,6 @@ IZMJENA DODATKA III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Merkantilni krumpir</td>
 <td>ha</td>
@@ -3596,7 +3278,6 @@ IZMJENA DODATKA III.
 <td>1,50</td>
 <td colspan="2">2,00</td>
 </tr>
-
 <tr>
 <td>Ljekovito bilje (za svaku pojedinu kulturu)</td>
 <td>ha</td>
@@ -3604,13 +3285,11 @@ IZMJENA DODATKA III.
 <td>1,00</td>
 <td colspan="2">1,00</td>
 </tr>
-
 <tr>
 <td>Poljoprivredno sjeme</td>
 <td>ha, kg,<br> sj. jed.</td>
 <td colspan="4">svo priznato sjeme</td>
 </tr>
-
 <tr>
 <td><b>Poticanje</b><b> sadnog</b><b> materijala</b><b>, vi</b><b>šegodi</b><b>šnjih</b><b> nasada</b><b> i</b><b> maslinovog</b><b> ulja</b><b></b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
@@ -3618,13 +3297,11 @@ IZMJENA DODATKA III.
 <td><b> </b></td>
 <td colspan="2"><b> </b></td>
 </tr>
-
 <tr>
 <td>Sadni materijal</td>
 <td>kom</td>
 <td colspan="4">sav priznati sadni materijal</td>
 </tr>
-
 <tr>
 <td>Vinogradi (godišnja plaćanja)</td>
 <td>ha</td>
@@ -3632,7 +3309,6 @@ IZMJENA DODATKA III.
 <td>0,25</td>
 <td colspan="2">0,25</td>
 </tr>
-
 <tr>
 <td>Vinogradi (podizanje nasada)</td>
 <td>ha</td>
@@ -3640,7 +3316,6 @@ IZMJENA DODATKA III.
 <td>0,25</td>
 <td colspan="2">0,25</td>
 </tr>
-
 <tr>
 <td>Voćarstvo i hmelj (godišnja plaćanja)</td>
 <td>ha</td>
@@ -3648,7 +3323,6 @@ IZMJENA DODATKA III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Voćarstvo I. skupina i hmelj (podizanje nasada)</td>
 <td>ha</td>
@@ -3656,7 +3330,6 @@ IZMJENA DODATKA III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Voćarstvo II. skupina (podizanje nasada)</td>
 <td>ha</td>
@@ -3664,7 +3337,6 @@ IZMJENA DODATKA III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Masline</td>
 <td>stablo</td>
@@ -3672,7 +3344,6 @@ IZMJENA DODATKA III.
 <td>50</td>
 <td colspan="2">50</td>
 </tr>
-
 <tr>
 <td>Masline (podizanje nasada)</td>
 <td>ha</td>
@@ -3680,7 +3351,6 @@ IZMJENA DODATKA III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td>Maslinovo ulje</td>
 <td>litra</td>
@@ -3688,7 +3358,6 @@ IZMJENA DODATKA III.
 <td>100</td>
 <td colspan="2">100</td>
 </tr>
-
 <tr>
 <td>Lavanda (godišnja plaćanja)</td>
 <td>ha</td>
@@ -3696,7 +3365,6 @@ IZMJENA DODATKA III.
 <td>0,25</td>
 <td colspan="2">0,25</td>
 </tr>
-
 <tr>
 <td>Lavanda (podizanje nasada)</td>
 <td>ha</td>
@@ -3704,7 +3372,6 @@ IZMJENA DODATKA III.
 <td>0,25</td>
 <td colspan="2">0,25</td>
 </tr>
-
 <tr>
 <td><b>Poticanje stočarstva i stočarskih proizvoda</b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
@@ -3713,7 +3380,6 @@ IZMJENA DODATKA III.
 <td><b> </b></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mlijeko (kravlje)</td>
 <td>Litra</td>
@@ -3722,7 +3388,6 @@ IZMJENA DODATKA III.
 <td>12.000</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mlijeko (ovčje i kozje)</td>
 <td>Litra</td>
@@ -3731,7 +3396,6 @@ IZMJENA DODATKA III.
 <td>2.500</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Utovljena junad</td>
 <td>grlo</td>
@@ -3740,7 +3404,6 @@ IZMJENA DODATKA III.
 <td>20</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Utovljene svinje</td>
 <td>grlo</td>
@@ -3749,7 +3412,6 @@ IZMJENA DODATKA III.
 <td>80</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mliječne krave</td>
 <td>grlo</td>
@@ -3758,7 +3420,6 @@ IZMJENA DODATKA III.
 <td>5</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Krave u sustavu krava tele</td>
 <td>grlo</td>
@@ -3767,7 +3428,6 @@ IZMJENA DODATKA III.
 <td>25</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uzgoj ženske teladi i ždrebadi (jednokratno)</td>
 <td>grlo</td>
@@ -3776,7 +3436,6 @@ IZMJENA DODATKA III.
 <td>3</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Bikovi i nerasti za rasplod (jednokratno)</td>
 <td>grlo</td>
@@ -3785,7 +3444,6 @@ IZMJENA DODATKA III.
 <td>1</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ovce i ovnovi, odnosno koze i jarčevi za rasplod</td>
 <td>grlo</td>
@@ -3794,7 +3452,6 @@ IZMJENA DODATKA III.
 <td>25</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Rasplodne krmače</td>
 <td>grlo</td>
@@ -3803,7 +3460,6 @@ IZMJENA DODATKA III.
 <td>10</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Rasplodne kobile i pastusi</td>
 <td>grlo</td>
@@ -3812,7 +3468,6 @@ IZMJENA DODATKA III.
 <td>3</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice</td>
 <td>košnica</td>
@@ -3821,7 +3476,6 @@ IZMJENA DODATKA III.
 <td>40</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Livade i pašnjaci</td>
 <td>stoka/ha</td>
@@ -3829,7 +3483,6 @@ IZMJENA DODATKA III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td><b>Poticanje uzgoja autohtonih vrsta pernate divljači</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3837,7 +3490,6 @@ IZMJENA DODATKA III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Pilići autohtone pernate divljači</td>
 <td>komada</td>
@@ -3845,7 +3497,6 @@ IZMJENA DODATKA III.
 <td>6.000</td>
 <td colspan="2">6.000</td>
 </tr>
-
 <tr>
 <td><b>Poticanje ekološke proizvodnje</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3853,7 +3504,6 @@ IZMJENA DODATKA III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ekološka proizvodnja (ukupno za sve kulture)</td>
 <td>ha</td>
@@ -3861,7 +3511,6 @@ IZMJENA DODATKA III.
 <td>0,50</td>
 <td colspan="2">0,50</td>
 </tr>
-
 <tr>
 <td><b>Poticanje ribarstva</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3869,7 +3518,6 @@ IZMJENA DODATKA III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Uzgoj autohtonih vrsta bijele morske ribe</td>
 <td>kg</td>
@@ -3877,7 +3525,6 @@ IZMJENA DODATKA III.
 <td>3.000</td>
 <td colspan="2">3.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – dagnje</td>
 <td>kg</td>
@@ -3885,7 +3532,6 @@ IZMJENA DODATKA III.
 <td>3.000</td>
 <td colspan="2">3.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – kamenice</td>
 <td>kom</td>
@@ -3893,7 +3539,6 @@ IZMJENA DODATKA III.
 <td>3.000</td>
 <td colspan="2">3.000</td>
 </tr>
-
 <tr>
 <td>Riblja mlađ</td>
 <td>kom</td>
@@ -3901,7 +3546,6 @@ IZMJENA DODATKA III.
 <td>100.000</td>
 <td colspan="2">100.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe I.skupine</td>
 <td>kg</td>
@@ -3909,7 +3553,6 @@ IZMJENA DODATKA III.
 <td>3.000</td>
 <td colspan="2">3.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe II.skupine</td>
 <td>kg</td>
@@ -3917,7 +3560,6 @@ IZMJENA DODATKA III.
 <td>2.000</td>
 <td colspan="2">2.000</td>
 </tr>
-
 <tr>
 <td>Ulov male plave ribe</td>
 <td>kg</td>
@@ -3925,7 +3567,6 @@ IZMJENA DODATKA III.
 <td>10.000</td>
 <td colspan="2">10.000</td>
 </tr>
-
 <tr>
 <td>Prerada male plave ribe, uzgojenih slatkovodnih i autohtonih vrsta bijele morske ribe</td>
 <td>kg</td>
@@ -3933,7 +3574,6 @@ IZMJENA DODATKA III.
 <td>2.000</td>
 <td colspan="2">2.000</td>
 </tr>
-
 <tr>
 <td>Model ruralnog razvitka</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3941,7 +3581,6 @@ IZMJENA DODATKA III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td><b>Program očuvanja izvornih i zaštićenih pasmina</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -3949,7 +3588,6 @@ IZMJENA DODATKA III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td colspan="2">[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Goveda</td>
 <td>grlo</td>
@@ -3957,7 +3595,6 @@ IZMJENA DODATKA III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Konji</td>
 <td>grlo</td>
@@ -3965,7 +3602,6 @@ IZMJENA DODATKA III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Svinje</td>
 <td>grlo</td>
@@ -3973,7 +3609,6 @@ IZMJENA DODATKA III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Ovce</td>
 <td>grlo</td>
@@ -3981,7 +3616,6 @@ IZMJENA DODATKA III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Magarci</td>
 <td>grlo</td>
@@ -3989,7 +3623,6 @@ IZMJENA DODATKA III.
 <td>1</td>
 <td colspan="2">1</td>
 </tr>
-
 <tr>
 <td>Purani</td>
 <td>grlo</td>
@@ -3997,7 +3630,6 @@ IZMJENA DODATKA III.
 <td>5</td>
 <td colspan="2">5</td>
 </tr>
-
 </table>
 
 IZMJENA DODATKA IV
@@ -5285,13 +4917,11 @@ kljun
 DODATAK III.
 
 <table>
-
 <tr>
 <td><b>Opis</b></td>
 <td><b>Jedinica</b></td>
 <td colspan="3"><b>Minimalna poticana količina</b></td>
 </tr>
-
 <tr>
 <td><b>GODINA</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -5299,7 +4929,6 @@ DODATAK III.
 <td><b>2004.</b></td>
 <td><b>2005.</b></td>
 </tr>
-
 <tr>
 <td><b>Model poticanja proizvodnje</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -5307,7 +4936,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td><b>Poticanje ratarskih kultura</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -5315,7 +4943,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Krušna žita i pivarski ječam</td>
 <td>ha</td>
@@ -5323,7 +4950,6 @@ DODATAK III.
 <td>3,00</td>
 <td>3,00</td>
 </tr>
-
 <tr>
 <td>Soja</td>
 <td>ha</td>
@@ -5331,7 +4957,6 @@ DODATAK III.
 <td>2,00</td>
 <td>3,00</td>
 </tr>
-
 <tr>
 <td>Ostala žita</td>
 <td>ha</td>
@@ -5339,7 +4964,6 @@ DODATAK III.
 <td>3,00</td>
 <td>3,00</td>
 </tr>
-
 <tr>
 <td>Uljarice</td>
 <td>ha</td>
@@ -5347,7 +4971,6 @@ DODATAK III.
 <td>2,00</td>
 <td>3,00</td>
 </tr>
-
 <tr>
 <td>Ostalo industrijsko bilje</td>
 <td>ha</td>
@@ -5355,7 +4978,6 @@ DODATAK III.
 <td>-</td>
 <td>3,00</td>
 </tr>
-
 <tr>
 <td>Krmno bilje</td>
 <td>ha</td>
@@ -5363,7 +4985,6 @@ DODATAK III.
 <td>2,00</td>
 <td>3,00</td>
 </tr>
-
 <tr>
 <td>Šećerna repa</td>
 <td>ha</td>
@@ -5371,7 +4992,6 @@ DODATAK III.
 <td>2,00</td>
 <td>3,00</td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td>kg</td>
@@ -5379,7 +4999,6 @@ DODATAK III.
 <td>sva isporučena količina</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Povrće</td>
 <td>ha</td>
@@ -5387,7 +5006,6 @@ DODATAK III.
 <td>0,50</td>
 <td>0,50</td>
 </tr>
-
 <tr>
 <td>Povrće za industrijsku preradu</td>
 <td>ha</td>
@@ -5395,7 +5013,6 @@ DODATAK III.
 <td>0,50</td>
 <td>0,50</td>
 </tr>
-
 <tr>
 <td>Merkantilni krumpir</td>
 <td>ha</td>
@@ -5403,7 +5020,6 @@ DODATAK III.
 <td>1,50</td>
 <td>2,00</td>
 </tr>
-
 <tr>
 <td>Ljekovito bilje (za svaku pojedinu kulturu)</td>
 <td>ha</td>
@@ -5411,7 +5027,6 @@ DODATAK III.
 <td>1,00</td>
 <td>1,00</td>
 </tr>
-
 <tr>
 <td>Sjemenski usjev</td>
 <td>ha</td>
@@ -5419,7 +5034,6 @@ DODATAK III.
 <td>-</td>
 <td>svi priznati usjevi</td>
 </tr>
-
 <tr>
 <td><b>Poticanje sadnog materijala, višegodišnjih nasada i maslinovog ulja</b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
@@ -5427,7 +5041,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]<b></b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
 </tr>
-
 <tr>
 <td>Sadni materijal</td>
 <td>kom.</td>
@@ -5435,7 +5048,6 @@ DODATAK III.
 <td>sav priznati sadni materijal</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Matičnjaci loznih i voćnih podloga (podizanje nasada)</td>
 <td>ha</td>
@@ -5443,7 +5055,6 @@ DODATAK III.
 <td>-</td>
 <td>0,1</td>
 </tr>
-
 <tr>
 <td>Matičnjaci loznih i voćnih plemki (podizanje nasada)</td>
 <td>ha</td>
@@ -5451,7 +5062,6 @@ DODATAK III.
 <td>-</td>
 <td>0,1</td>
 </tr>
-
 <tr>
 <td>Vinogradi (godišnja plaćanja)</td>
 <td>ha</td>
@@ -5459,7 +5069,6 @@ DODATAK III.
 <td>0,25</td>
 <td>0,25</td>
 </tr>
-
 <tr>
 <td>Vinogradi (podizanje nasada)</td>
 <td>ha</td>
@@ -5467,7 +5076,6 @@ DODATAK III.
 <td>0,25</td>
 <td>0,25</td>
 </tr>
-
 <tr>
 <td>Voćarstvo (godišnja plaćanja)</td>
 <td>ha</td>
@@ -5475,7 +5083,6 @@ DODATAK III.
 <td>0,50</td>
 <td>0,50</td>
 </tr>
-
 <tr>
 <td>Jagode i hmelj (godišnja plaćanja)</td>
 <td>ha</td>
@@ -5483,7 +5090,6 @@ DODATAK III.
 <td>0,50</td>
 <td>0,50</td>
 </tr>
-
 <tr>
 <td>Voćarstvo I. skupina i hmelj (podizanje nasada)</td>
 <td>ha</td>
@@ -5491,7 +5097,6 @@ DODATAK III.
 <td>0,50</td>
 <td>0,50</td>
 </tr>
-
 <tr>
 <td>Voćarstvo II. skupina (podizanje nasada)</td>
 <td>ha</td>
@@ -5499,7 +5104,6 @@ DODATAK III.
 <td>0,50</td>
 <td>0,50</td>
 </tr>
-
 <tr>
 <td>Masline</td>
 <td>stablo</td>
@@ -5507,7 +5111,6 @@ DODATAK III.
 <td>50</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>Preda ploda masline</td>
 <td>kg</td>
@@ -5515,7 +5118,6 @@ DODATAK III.
 <td>-</td>
 <td>800</td>
 </tr>
-
 <tr>
 <td>Masline (podizanje nasada)</td>
 <td>ha</td>
@@ -5523,7 +5125,6 @@ DODATAK III.
 <td>0,50</td>
 <td>0,50</td>
 </tr>
-
 <tr>
 <td>Maslinovo ulje</td>
 <td>litra</td>
@@ -5531,7 +5132,6 @@ DODATAK III.
 <td>100</td>
 <td>100</td>
 </tr>
-
 <tr>
 <td>Lavanda i buhač (godišnja plaćanja)</td>
 <td>ha</td>
@@ -5539,7 +5139,6 @@ DODATAK III.
 <td>0,25</td>
 <td>0,25</td>
 </tr>
-
 <tr>
 <td>Lavanda (podizanje nasada)</td>
 <td>ha</td>
@@ -5547,7 +5146,6 @@ DODATAK III.
 <td>0,25</td>
 <td>0,25</td>
 </tr>
-
 <tr>
 <td><b>Poticanje stočarstva i stočarskih proizvoda</b></td>
 <td>[if !supportEmptyParas] [endif]<b></b></td>
@@ -5555,7 +5153,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]<b></b></td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Mlijeko (kravlje)</td>
 <td>litra</td>
@@ -5563,7 +5160,6 @@ DODATAK III.
 <td>-</td>
 <td>6.000</td>
 </tr>
-
 <tr>
 <td>Mlijeko (ovčje i kozje)</td>
 <td>litra</td>
@@ -5571,7 +5167,6 @@ DODATAK III.
 <td>-</td>
 <td>2.500</td>
 </tr>
-
 <tr>
 <td>Utovljena junad</td>
 <td>grlo</td>
@@ -5579,7 +5174,6 @@ DODATAK III.
 <td>15</td>
 <td>20</td>
 </tr>
-
 <tr>
 <td>Telad za tov</td>
 <td>grlo</td>
@@ -5587,7 +5181,6 @@ DODATAK III.
 <td>1</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>Utovljene svinje</td>
 <td>grlo</td>
@@ -5595,7 +5188,6 @@ DODATAK III.
 <td>50</td>
 <td>75</td>
 </tr>
-
 <tr>
 <td>Utovljeni kunići</td>
 <td>kom.</td>
@@ -5603,7 +5195,6 @@ DODATAK III.
 <td>-</td>
 <td>500</td>
 </tr>
-
 <tr>
 <td>Mliječne krave</td>
 <td>grlo</td>
@@ -5611,7 +5202,6 @@ DODATAK III.
 <td>3</td>
 <td>4</td>
 </tr>
-
 <tr>
 <td>Krave u sustavu krava tele</td>
 <td>grlo</td>
@@ -5619,7 +5209,6 @@ DODATAK III.
 <td>20</td>
 <td>25</td>
 </tr>
-
 <tr>
 <td>Uzgoj ženske teladi i ždrebadi (jednokratno)</td>
 <td>grlo</td>
@@ -5627,7 +5216,6 @@ DODATAK III.
 <td>3</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>Bikovi i nerasti za rasplod (jednokratno)</td>
 <td>grlo</td>
@@ -5635,7 +5223,6 @@ DODATAK III.
 <td>1</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>Ovce i ovnovi, odnosno koze i jarčevi za rasplod</td>
 <td>grlo</td>
@@ -5643,7 +5230,6 @@ DODATAK III.
 <td>20</td>
 <td>25</td>
 </tr>
-
 <tr>
 <td>Rasplodne krmače</td>
 <td>grlo</td>
@@ -5651,7 +5237,6 @@ DODATAK III.
 <td>7</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>Rasplodne kobile i pastusi</td>
 <td>grlo</td>
@@ -5659,7 +5244,6 @@ DODATAK III.
 <td>3</td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice</td>
 <td>košnica</td>
@@ -5667,7 +5251,6 @@ DODATAK III.
 <td>30</td>
 <td>30</td>
 </tr>
-
 <tr>
 <td>Ženke uzgojno valjanih kunića</td>
 <td>kom.</td>
@@ -5675,7 +5258,6 @@ DODATAK III.
 <td>-</td>
 <td>25</td>
 </tr>
-
 <tr>
 <td>Livade i pašnjaci</td>
 <td>stoka/ha</td>
@@ -5683,7 +5265,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td><b>Poticanje uzgoja autohtonih vrsta pernate divljači</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -5691,7 +5272,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Pilići autohtone pernate divljači</td>
 <td>komada</td>
@@ -5699,7 +5279,6 @@ DODATAK III.
 <td>6.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td><b>Poticanje ekološke proizvodnje</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -5707,7 +5286,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Ekološka proizvodnja (ukupno za sve kulture)</td>
 <td>ha</td>
@@ -5715,7 +5293,6 @@ DODATAK III.
 <td>0,50</td>
 <td>0,50</td>
 </tr>
-
 <tr>
 <td><b>Poticanje ribarstva</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -5723,7 +5300,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Uzgoj autohtonih vrsta bijele morske ribe</td>
 <td>kg</td>
@@ -5731,7 +5307,6 @@ DODATAK III.
 <td>3.000</td>
 <td>3.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – dagnje</td>
 <td>kg</td>
@@ -5739,7 +5314,6 @@ DODATAK III.
 <td>3.000</td>
 <td>3.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – kamenice</td>
 <td>kom.</td>
@@ -5747,7 +5321,6 @@ DODATAK III.
 <td>3.000</td>
 <td>3.000</td>
 </tr>
-
 <tr>
 <td>Riblja mlađ</td>
 <td>kom.</td>
@@ -5755,7 +5328,6 @@ DODATAK III.
 <td>100.000</td>
 <td>100.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe I. skupine</td>
 <td>kg</td>
@@ -5763,7 +5335,6 @@ DODATAK III.
 <td>3.000</td>
 <td>3.000</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe II. skupine</td>
 <td>kg</td>
@@ -5771,7 +5342,6 @@ DODATAK III.
 <td>2.000</td>
 <td>2.000</td>
 </tr>
-
 <tr>
 <td>Ulov male plave ribe</td>
 <td>kg</td>
@@ -5779,7 +5349,6 @@ DODATAK III.
 <td>10.000</td>
 <td>10.000</td>
 </tr>
-
 <tr>
 <td>Prerada male plave ribe, uzgojenih slatkovodnih i</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -5787,7 +5356,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>autohtonih vrsta bijele morske ribe</td>
 <td>kg</td>
@@ -5795,7 +5363,6 @@ DODATAK III.
 <td>2.000</td>
 <td>2.000</td>
 </tr>
-
 <tr>
 <td><b>Model ruralnog razvitka</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -5803,7 +5370,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td><b>Program očuvanja izvornih i zaštićenih pasmina</b></td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -5811,7 +5377,6 @@ DODATAK III.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>Goveda</td>
 <td>grlo</td>
@@ -5819,7 +5384,6 @@ DODATAK III.
 <td>1</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>Konji</td>
 <td>grlo</td>
@@ -5827,7 +5391,6 @@ DODATAK III.
 <td>1</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>Svinje</td>
 <td>grlo</td>
@@ -5835,7 +5398,6 @@ DODATAK III.
 <td>1</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>Ovce</td>
 <td>grlo</td>
@@ -5843,7 +5405,6 @@ DODATAK III.
 <td>1</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>Magarci</td>
 <td>grlo</td>
@@ -5851,7 +5412,6 @@ DODATAK III.
 <td>1</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td>Kokoš hrvatica</td>
 <td>kljun</td>
@@ -5859,7 +5419,6 @@ DODATAK III.
 <td>-</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>Zagorski puran</td>
 <td>kljun</td>
@@ -5867,7 +5426,6 @@ DODATAK III.
 <td>5</td>
 <td>5</td>
 </tr>
-
 </table>
 
 DODATAK IV.
@@ -6154,643 +5712,551 @@ Vladimir Šeks, v. r.
 ### DODATAK II.
 
 <table>
-
 <tr>
 <td><b> Opis</b></td>
 <td><b> Jedinica</b></td>
 <td><b> Osnovno plaćanje po jedinici (kn)</b></td>
 <td><b> Područja s težim uvjetima gospodarenja (kn)</b></td>
 </tr>
-
 <tr>
 <td>Model poticanja proizvodnje</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td><i> Poticanje ratarskih kultura</i></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Pšenica</td>
 <td>ha</td>
 <td>2.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Raž, pšenoraž, pivarski ječam i soja</td>
 <td>ha</td>
 <td>1.650</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Ostala žita</td>
 <td>ha</td>
 <td>1.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uljarice</td>
 <td>ha</td>
 <td>2.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Ostalo industrijsko bilje</td>
 <td>ha</td>
 <td>1.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Krmno bilje</td>
 <td>ha</td>
 <td>1.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Šećerna repa</td>
 <td>ha</td>
 <td>3.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Duhan</td>
 <td>kg</td>
 <td>5,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Povrće</td>
 <td>ha</td>
 <td>1.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Povrće za industrijsku preradu</td>
 <td>ha</td>
 <td>3.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Ljekovito bilje</td>
 <td>ha</td>
 <td>1.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Sjemenski usjevi:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>– pšenice, pšenoraži, raži, ječma, zobi</td>
 <td>ha</td>
 <td>2.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>– kukuruza</td>
 <td>ha</td>
 <td>6.500</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>– soje i uljane repice</td>
 <td>ha</td>
 <td>4.500</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>– suncokreta, šećerne repe i duhana</td>
 <td>ha</td>
 <td>10.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>– krumpir</td>
 <td>ha</td>
 <td>13.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>– krmnog bilja, povrća i ostalog bilja</td>
 <td>ha</td>
 <td>3.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td rowspan="2"><i> Poticanje sadnog materijala, višegodišnjih nasada i maslinova ulja</i></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Voćne sadnice – certificirane</td>
 <td>kom.</td>
 <td>4,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Voćne sadnice – standard</td>
 <td>kom.</td>
 <td>2,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Lozne sadnice</td>
 <td>kom.</td>
 <td>2,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Sadnice maslina</td>
 <td>kom.</td>
 <td>5,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Matičnjaci loznih i voćnih podloga (podizanje nasada)</td>
 <td>ha</td>
 <td>50.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Matičnjaci loznih plemki (podizanje nasada)</td>
 <td>ha</td>
 <td>35.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Matičnjaci voćnih plemki (podizanje nasada)</td>
 <td>ha</td>
 <td>25.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Vinogradi (godišnja plaćanja)</td>
 <td>ha</td>
 <td>2.500</td>
 <td>3.400</td>
 </tr>
-
 <tr>
 <td>Vinogradi (podizanje nasada)</td>
 <td>ha</td>
 <td>33.600</td>
 <td>45.400</td>
 </tr>
-
 <tr>
 <td>Matičnjaci loznih podloga (god. plaćanja)</td>
 <td>ha</td>
 <td>2.500</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Voćarstvo I. i II. skupina (godišnja plaćanja)</td>
 <td>ha</td>
 <td>2.500</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Jagode i hmelj (godišnja plaćanja)</td>
 <td>ha</td>
 <td>1.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Voćarstvo I. skupina i hmelj (podizanje nasada)</td>
 <td>ha</td>
 <td>24.000</td>
 <td>32.400</td>
 </tr>
-
 <tr>
 <td>Voćarstvo II. skupina (podizanje nasada)</td>
 <td>ha</td>
 <td>16.800</td>
 <td>22.700</td>
 </tr>
-
 <tr>
 <td>Prerada ploda maslina</td>
 <td>kg</td>
 <td>1,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Masline (podizanje nasada)</td>
 <td>ha</td>
 <td>20.000</td>
 <td>27.000</td>
 </tr>
-
 <tr>
 <td>Maslinovo ulje ekstra djevičansko</td>
 <td>litra</td>
 <td>10,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Lavanda i buhač (godišnja plaćanja)</td>
 <td>ha</td>
 <td>1.250</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Lavanda (podizanje nasada)</td>
 <td>ha</td>
 <td>14.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td><i> Poticanje stočarstva i stočarskih proizvoda</i></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Mlijeko (kravlje)</td>
 <td>litara</td>
 <td>0,65</td>
 <td>1,05</td>
 </tr>
-
 <tr>
 <td>Mlijeko (ovčje i kozje)</td>
 <td>litara</td>
 <td>1,20</td>
 <td>1,56</td>
 </tr>
-
 <tr>
 <td>Junad u tovu iz domaćeg uzgoja (I. faza)</td>
 <td>grlo</td>
 <td>1.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljena zaklana junad iz domaćeg uzgoja (II. faza)</td>
 <td>grlo</td>
 <td>800</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljena živa junad za klanje iz domaćeg uzgoja (II. faza)</td>
 <td>grlo</td>
 <td>440</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljena zaklana junad od uvozne teladi</td>
 <td>grlo</td>
 <td>800</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljena živa junad za klanje od uvozne teladi</td>
 <td>grlo</td>
 <td>640</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljena telad za proizvodnju bijelog mesa</td>
 <td>grlo</td>
 <td>400</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljene svinje iz domaćeg uzgoja</td>
 <td>grlo</td>
 <td>100</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljene svinje od uvozne prasadi</td>
 <td>grlo</td>
 <td>50</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Utovljeni kunići</td>
 <td>grlo</td>
 <td>6,00</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Mliječne krave</td>
 <td>grlo</td>
 <td>500</td>
 <td>675</td>
 </tr>
-
 <tr>
 <td>Uzgojno valjane krave pod kontrolom mliječnosti</td>
 <td>grlo</td>
 <td>1.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Mliječne krave-prvotelke</td>
 <td>grlo</td>
 <td>1.500</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Krave u sustavu krava-tele</td>
 <td>grlo</td>
 <td>1.500</td>
 <td>2.025</td>
 </tr>
-
 <tr>
 <td>Krave dojilje</td>
 <td>grlo</td>
 <td>1.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Bikovi iz performance testa (jednokratno)</td>
 <td>grlo</td>
 <td>3.900</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Rasplodne ovce i koze</td>
 <td>grlo</td>
 <td>100</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgojno valjane rasplodne ovce, ovnovi, koze i jarčevi</td>
 <td>grlo</td>
 <td>300</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Ojanjene šilježice i ojarene jarice</td>
 <td>grlo</td>
 <td>400</td>
 <td>–</td>
 </tr>
-
 <tr>
 <td>Ovnovi i jarčevi iz performance testa (jednokratno)</td>
 <td>grlo</td>
 <td>800</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Rasplodne krmače</td>
 <td>grlo</td>
 <td>200</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgojno valjane rasplodne krmače (matična grla)</td>
 <td>grlo</td>
 <td>400</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Prvopraskinje</td>
 <td>grlo</td>
 <td>600</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Nerastovi (jednokratno)</td>
 <td>grlo</td>
 <td>800</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Nerastovi iz performance testa (jednokratno)</td>
 <td>grlo</td>
 <td>1.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Rasplodne kobile</td>
 <td>grlo</td>
 <td>1.000</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgojno valjane rasplodne kobile i pastusi (matična grla)</td>
 <td>grlo</td>
 <td>1.500</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Matične rasplodne kobile– prvoždrebkinje</td>
 <td>grlo</td>
 <td>1.750</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice</td>
 <td>med, kg</td>
 <td>4,5</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Matice pčela</td>
 <td>kom.</td>
 <td>15</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Rasplodne pilenke (djedovska i roditeljska jata kokoši i pura)</td>
 <td>kljun</td>
 <td>9,0</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Ženke uzgojno valjanih kunića</td>
 <td>grlo</td>
 <td>14</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td><i> Sperma bikova:</i></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>– elita</td>
 <td>doza</td>
 <td>10</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>– pozitivno testirani bik</td>
 <td>doza</td>
 <td>7,0</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Sperma nerastova</td>
 <td>doza</td>
 <td>5,0</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Livade i pašnjaci</td>
 <td>grla/ha</td>
 <td>100</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td><i> Poticanje ribarstva:</i></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Uzgoj autohtonih vrsta bijele morske ribe</td>
 <td>kg</td>
 <td>5,40</td>
 <td>7,30</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – dagnje</td>
 <td>kg</td>
 <td>0,80</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – kamenice</td>
 <td>kom.</td>
 <td>0,50</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Riblja mlađ</td>
 <td>kom.</td>
 <td>0,25</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe I. skupine</td>
 <td>kg</td>
 <td>3,50</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe II. skupine</td>
 <td>kg</td>
 <td>4,80</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Ulov male plave ribe</td>
 <td>kg</td>
 <td>0,35</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>Proizvodnja ribljih proizvoda I. skupine</td>
 <td>kg</td>
 <td>2,30</td>
 <td>3,10</td>
 </tr>
-
 <tr>
 <td>Proizvodnja ribljih proizvoda II. skupine</td>
 <td>kg</td>
 <td>1,15</td>
 <td>1,55</td>
 </tr>
-
 </table>
 
 ### DODATAK III.
@@ -7344,455 +6810,377 @@ Luka Bebić, v. r.
 DODATAK III.
 
 <table>
-
 <tr>
 <td>Opis<br> </td>
 <td>Jedinica<br> </td>
 <td>Minimalna poticana količina<br> </td>
 </tr>
-
 <tr>
 <td>Model poticanja proizvodnje<br> </td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3"><i> Poticanje ratarskih kultura</i><br> </td>
 </tr>
-
 <tr>
 <td>Krušna žita i pivski ječam<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Soja<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Ostala žita<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Uljarice<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Uljana repica za proizvodnju biodizela<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Ostalo industrijsko bilje<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Krmno bilje<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Šećerna repa<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Duhan<br> </td>
 <td>kg<br> </td>
 <td>sva isporučena količina<br> </td>
 </tr>
-
 <tr>
 <td>Povrće<br> </td>
 <td>ha<br> </td>
 <td>0,50<br> </td>
 </tr>
-
 <tr>
 <td>Povrće za industrijsku preradu<br> </td>
 <td>ha<br> </td>
 <td>0,50<br> </td>
 </tr>
-
 <tr>
 <td>Merkantilni krumpir<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Ljekovito bilje (za svaku pojedinu kulturu)<br> </td>
 <td>ha<br> </td>
 <td>1,00<br> </td>
 </tr>
-
 <tr>
 <td>Sjemenski usjevi<br> </td>
 <td>ha<br> </td>
 <td>svi priznati usjevi<br> </td>
 </tr>
-
 <tr>
 <td colspan="3"><i> Poticanje sadnog materijala, višegodišnjih nasada i maslinovog ulja</i><br> </td>
 </tr>
-
 <tr>
 <td>Sadni materijal<br> </td>
 <td>kom<br> </td>
 <td>sav priznati sadni materijal<br> </td>
 </tr>
-
 <tr>
 <td>Matičnjaci loznih i voćnih podloga (podizanje nasada)<br> </td>
 <td>ha<br> </td>
 <td>0,1<br> </td>
 </tr>
-
 <tr>
 <td>Matičnjaci loznih i voćnih plemki (podizanje nasada)<br> </td>
 <td>ha<br> </td>
 <td>0,1<br> </td>
 </tr>
-
 <tr>
 <td>Vinogradi (godišnja plaćanja)<br> </td>
 <td>ha<br> </td>
 <td>0,25<br> </td>
 </tr>
-
 <tr>
 <td>Vinogradi (podizanje nasada)<br> </td>
 <td>ha<br> </td>
 <td>0,25<br> </td>
 </tr>
-
 <tr>
 <td>Voćarstvo (godišnja plaćanja)<br> </td>
 <td>ha<br> </td>
 <td>0,50<br> </td>
 </tr>
-
 <tr>
 <td>Jagode i hmelj (godišnja plaćanja)<br> </td>
 <td>ha<br> </td>
 <td>0,50<br> </td>
 </tr>
-
 <tr>
 <td>Voćarstvo I. skupina i hmelj (podizanje nasada)<br> </td>
 <td>ha<br> </td>
 <td>0,50<br> </td>
 </tr>
-
 <tr>
 <td>Voćarstvo II. skupina (podizanje nasada)<br> </td>
 <td>ha<br> </td>
 <td>0,50<br> </td>
 </tr>
-
 <tr>
 <td>Masline<br> </td>
 <td>stablo<br> </td>
 <td>30<br> </td>
 </tr>
-
 <tr>
 <td>Prerada ploda masline<br> </td>
 <td>kg<br> </td>
 <td>800<br> </td>
 </tr>
-
 <tr>
 <td>Masline (podizanje nasada)<br> </td>
 <td>ha<br> </td>
 <td>0,50<br> </td>
 </tr>
-
 <tr>
 <td>Maslinovo ulje<br> </td>
 <td>litra<br> </td>
 <td>100<br> </td>
 </tr>
-
 <tr>
 <td>Lavanda i buhač (godišnja plaćanja)<br> </td>
 <td>ha<br> </td>
 <td>0,25<br> </td>
 </tr>
-
 <tr>
 <td>Lavanda (podizanje nasada)<br> </td>
 <td>ha<br> </td>
 <td>0,25<br> </td>
 </tr>
-
 <tr>
 <td colspan="3">Poticanje stočarstva i stočarskih proizvoda<br> </td>
 </tr>
-
 <tr>
 <td>Mlijeko (kravlje)<br> </td>
 <td>litra<br> </td>
 <td>6.000<br> </td>
 </tr>
-
 <tr>
 <td>Mlijeko (ovčje i kozje)<br> </td>
 <td>litra<br> </td>
 <td>500<br> </td>
 </tr>
-
 <tr>
 <td>Utovljena junad<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Utovljena telad za bijelo meso<br> </td>
 <td>grlo<br> </td>
 <td>10<br> </td>
 </tr>
-
 <tr>
 <td>Utovljene svinje<br> </td>
 <td>grlo<br> </td>
 <td>10<br> </td>
 </tr>
-
 <tr>
 <td>Utovljeni kunići<br> </td>
 <td>kom.<br> </td>
 <td>500<br> </td>
 </tr>
-
 <tr>
 <td>Mliječne krave<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Prvotelke<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Krave u sustavu krava-tele<br> </td>
 <td>grlo<br> </td>
 <td>10<br> </td>
 </tr>
-
 <tr>
 <td>Krave dojilje<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Ovce i ovnovi, odnosno koze i jarčevi za rasplod<br> </td>
 <td>grlo<br> </td>
 <td>10<br> </td>
 </tr>
-
 <tr>
 <td>Rasplodne krmače<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Rasplodne kobile i pastusi<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Prvoždrepke<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Roditeljske rasplodne pilenke<br> </td>
 <td>kom.<br> </td>
 <td>1.000<br> </td>
 </tr>
-
 <tr>
 <td>Pčelinje zajednice<br> </td>
 <td>košnica<br> </td>
 <td>30<br> </td>
 </tr>
-
 <tr>
 <td>Med<br> </td>
 <td>kg<br> </td>
 <td>450<br> </td>
 </tr>
-
 <tr>
 <td>Matice pčela<br> </td>
 <td>komada<br> </td>
 <td>100<br> </td>
 </tr>
-
 <tr>
 <td>Ženke uzgojno valjanih kunića<br> </td>
 <td>komada<br> </td>
 <td>25<br> </td>
 </tr>
-
 <tr>
 <td colspan="3">Poticanja ekološke proizvodnje<br> </td>
 </tr>
-
 <tr>
 <td>Ekološka proizvodnje (ukupno za sve kulture)<br> </td>
 <td>ha<br> </td>
 <td>0,25<br> </td>
 </tr>
-
 <tr>
 <td colspan="3">Poticanje ribarstva<br> </td>
 </tr>
-
 <tr>
 <td>Uzgoj autohtonih vrsta bijele morske ribe<br> </td>
 <td>kg<br> </td>
 <td>3.000<br> </td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – dagnje<br> </td>
 <td>kg<br> </td>
 <td>3.000<br> </td>
 </tr>
-
 <tr>
 <td>Uzgoj školjaka – kamenice<br> </td>
 <td>kom.<br> </td>
 <td>3.000<br> </td>
 </tr>
-
 <tr>
 <td>Riblja mlađ<br> </td>
 <td>kom.<br> </td>
 <td>100.000<br> </td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe I. skupine<br> </td>
 <td>kg<br> </td>
 <td>3.000<br> </td>
 </tr>
-
 <tr>
 <td>Uzgoj slatkovodne ribe II. skupine<br> </td>
 <td>kg<br> </td>
 <td>2.000<br> </td>
 </tr>
-
 <tr>
 <td>Ulov male plave ribe<br> </td>
 <td>kg<br> </td>
 <td>10.000<br> </td>
 </tr>
-
 <tr>
 <td>Riblji proizvodi I. skupine<br> </td>
 <td>kg<br> </td>
 <td>250<br> </td>
 </tr>
-
 <tr>
 <td>Riblji proizvodi II. skupine<br> </td>
 <td>kg<br> </td>
 <td>1.000<br> </td>
 </tr>
-
 <tr>
 <td>Riblji proizvodi III. skupine<br> </td>
 <td>kg<br> </td>
 <td>2.000<br> </td>
 </tr>
-
 <tr>
 <td>Riblji proizvodi IV. skupine<br> </td>
 <td>kg<br> </td>
 <td>3.000<br> </td>
 </tr>
-
 <tr>
 <td>Model ruralnog razvitka<br> </td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3"><i> Program očuvanja izvornih i zaštićenih pasmina</i><br> </td>
 </tr>
-
 <tr>
 <td>Goveda<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Konji<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Svinje<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Ovce<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Koze<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Magarci<br> </td>
 <td>grlo<br> </td>
 <td>1<br> </td>
 </tr>
-
 <tr>
 <td>Kokoš hrvatica<br> </td>
 <td>kljun<br> </td>
 <td>5<br> </td>
 </tr>
-
 <tr>
 <td>Zagorski puran<br> </td>
 <td>kljun<br> </td>
 <td>5<br> </td>
 </tr>
-
 </table>

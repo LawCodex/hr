@@ -6,17 +6,20 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2001-04-11
-last_amended: 2013-02-18
+last_amended: 2020-12-23
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: official_consolidated
 consolidated_text: "NN 19/2013 (323) https://narodne-novine.nn.hr/eli/sluzbeni/2013/19/323"
-narodne_novine: "33/01, 129/05, 109/07, 125/08, 150/11, 19/13"
+narodne_novine: "33/01, 129/05, 109/07, 125/08, 150/11, 19/13, 123/17, 98/19, 144/20"
 amendments:
   - "NN 129/2005 (2385) Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi"
   - "NN 109/2007 (3179) Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi"
   - "NN 125/2008 (3563) Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi"
   - "NN 150/2011 (3089) Zakon o izmjeni Zakona o lokalnoj i područnoj (regionalnoj) samoupravi"
+  - "NN 123/2017 (2800) Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi"
+  - "NN 98/2019 (1935) Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi"
+  - "NN 144/2020 (2762) Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/19/323"
 retrieved: 2026-10-12
 ---
@@ -26,6 +29,8 @@ retrieved: 2026-10-12
 > Izvor: Narodne novine, NN 33/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/33/569).
 >
 > Tekst u nastavku je službeni pročišćeni tekst objavljen u NN 19/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/19/323).
+>
+> Izmjene, dopune i ispravci objavljeni nakon pročišćenog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 123/2017, NN 98/2019, NN 144/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1723,3 +1728,932 @@ Ovlašćuje se Odbor za zakonodavstvo Hrvatskoga sabora da utvrdi i izda proči�
 Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 17., 18., 21., 44., 46., 47., 50., 51. i 52., koji stupaju na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih općih i redovitih izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave te općinskih načelnika, gradonačelnika i župana.
 
 Članak 13. ovoga Zakona stupa na snagu danom stupanja na snagu Zakona o lokalnim izborima kojim će se urediti izbor općinskog načelnika, gradonačelnika, odnosno župana.
+
+---
+
+# Izmjene, dopune i ispravci nakon pročišćenog teksta
+
+## Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (NN 123/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/123/2800*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi, koji je Hrvatski sabor donio na sjednici 8. prosinca 2017.
+
+Klasa: 011-01/17-01/108
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 12. prosinca 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI**
+
+#### Članak 1.
+
+U Zakonu o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/01., 60/01., 129/05., 109/07., 125/08., 36/09., 150/11., 144/12., 19/13. – pročišćeni tekst i 137/15. – ispravak) u članku 1. dodaje se stavak 2. koji glasi:
+
+»Izrazi u ovom Zakonu koji imaju rodno značenje odnose se jednako na muški i ženski rod.«.
+
+#### Članak 2.
+
+U članku 2. stavku 2. iza brojke: »1.« dodaju se riječi: »ovoga članka«.
+
+#### Članak 3.
+
+U članku 7. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Mišljenje iz stavka 2. ovoga članka nije obvezujuće.«.
+
+#### Članak 4.
+
+U članku 10. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»Grb i zastava ne smiju sadržavati simbole protivne Ustavu Republike Hrvatske i drugim propisima.«.
+
+Dosadašnji stavci 5., 6., 7., 8. i 9. postaju stavci 6., 7., 8., 9. i 10.
+
+#### Članak 5.
+
+U članku 24. stavku 5. riječi: »predstavničko tijelo dostavit će« zamjenjuju se riječima: »predsjednik predstavničkog tijela dužan je dostaviti«, a brojka: »8« zamjenjuje se brojkom: »30«.
+
+#### Članak 6.
+
+U članku 29. stavku 1. riječi: »četiri godine« zamjenjuju se riječima: »do dana stupanja na snagu odluke Vlade Republike Hrvatske o raspisivanju sljedećih redovnih izbora koji se održavaju svake četvrte godine sukladno odredbama zakona kojim se uređuju lokalni izbori, odnosno do dana stupanja na snagu odluke Vlade Republike Hrvatske o raspuštanju predstavničkog tijela sukladno odredbama ovoga Zakona«.
+
+U stavku 2. iza riječi: »redovnim izborima« dodaju se riječi: »koji se održavaju svake četvrte godine sukladno odredbama zakona kojim se uređuju lokalni izbori, odnosno do dana stupanja na snagu odluke Vlade Republike Hrvatske o raspuštanju predstavničkog tijela sukladno odredbama ovoga Zakona«.
+
+#### Članak 7.
+
+U članku 31. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»Član predstavničkog tijela ima pravo na opravdani neplaćeni izostanak s posla radi sudjelovanja u radu predstavničkog tijela i njegovih radnih tijela.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 8.
+
+U članku 36. stavku 2. riječ: »obračun« zamjenjuje se riječima: »izvještaj o izvršenju proračuna«.
+
+#### Članak 9.
+
+U članku 37. stavku 2. iza riječi: »župan« dodaju se riječi: »te njihov zamjenik«.
+
+#### Članak 10.
+
+U članku 40.b stavci 2. i 3. mijenjaju se i glase:
+
+»Raspisivanje referenduma za opoziv može predložiti:
+
+– 20% ukupnog broja birača u jedinici u kojoj se traži opoziv općinskog načelnika, gradonačelnika, odnosno župana i njihovog zamjenika koji je izabran zajedno s njima,
+
+– 2/3 članova predstavničkog tijela.
+
+Ako je raspisivanje referenduma za opoziv predložilo 20% ukupnog broja birača u jedinici u kojoj se traži opoziv, predstavničko tijelo raspisat će referendum za opoziv općinskog načelnika, gradonačelnika, odnosno župana i njihovog zamjenika koji je izabran zajedno s njima u skladu s člankom 24. stavkom 5. ovoga Zakona, u dijelu koji se odnosi na utvrđivanje je li prijedlog podnesen od potrebnog broja birača u jedinici.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Ako je raspisivanje referenduma za opoziv predložilo 2/3 članova predstavničkog tijela, odluku o raspisivanju referenduma za opoziv općinskog načelnika, gradonačelnika, odnosno župana i njihovog zamjenika koji je izabran zajedno s njima predstavničko tijelo donosi dvotrećinskom većinom glasova svih članova predstavničkog tijela.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., brojka: »12« zamjenjuje se brojkom: »6«.
+
+#### Članak 11.
+
+U članku 48. stavku 1. točki 5. iza riječi: »samouprave i« dodaje se riječ: »drugom«, a riječ: »ostalom« briše se.
+
+U stavku 2. u prvoj rečenici riječi: »raspolaganju ostalom« zamjenjuju se riječima: »drugom raspolaganju«, a u trećoj rečenici iza riječi: »te« dodaje se riječ: »drugo«, a riječ: »ostalom« briše se.
+
+U stavku 3. iza riječi: »te« dodaje se riječ: »drugom«, a riječ: »ostalom« briše se.
+
+Stavak 4. mijenja se i glasi:
+
+»Odluku o imenovanju i razrješenju iz stavka 1. točke 6. ovoga članka općinski načelnik, gradonačelnik, odnosno župan dužan je objaviti u prvom broju službenoga glasila jedinice lokalne i područne (regionalne) samouprave koji slijedi nakon donošenja te odluke.«.
+
+#### Članak 12.
+
+U članku 53. stavak 2. mijenja se i glasi:
+
+»U općinama i gradovima može se ustrojiti jedinstveni upravni odjel za obavljanje svih poslova iz samoupravnog djelokruga.«.
+
+U stavku 3. iza brojke: »1.« dodaju se riječi: »i 2.«.
+
+#### Članak 13.
+
+U članku 53.a stavku 2. točki 2. riječ: »radni« zamjenjuje se riječju: »službenički«, a riječi: »radnog odnosa« zamjenjuju se riječju: »službe«.
+
+U stavku 3. iza brojke: »2.« dodaju se riječi: »točkama 1., 3. i 4.«.
+
+#### Članak 14.
+
+U članku 54. stavku 1. iza riječi: »samouprave« zarez i riječi: »osobito one koje su prostorno povezane u jedinstvenu cjelinu (općine i gradovi na otoku i sl.),« brišu se, a iza riječi: »zajednički« točka se zamjenjuje zarezom i dodaju riječi: »osobito u svrhu pripreme projekata za povlačenje novčanih sredstava iz fondova Europske unije.«.
+
+#### Članak 15.
+
+U članku 58. riječi: »njihove organizacije i udruženja« zamjenjuju se riječima: »članovi predstavničkog tijela«.
+
+#### Članak 16.
+
+U članku 64. stavku 1. riječ: »koji« zamjenjuje se riječima: »te na njegov prijedlog predstavničko tijelo«.
+
+#### Članak 17.
+
+U članku 67. stavku 2. riječ: »domaćina« zamjenjuje se riječju: »gospodara«.
+
+#### Članak 18.
+
+U članku 68. stavku 3. točki 4. riječi: »koncesiju koje daje njezino predstavničko tijelo« zamjenjuju se riječju: »koncesije«.
+
+Točka 6. mijenja se i glasi: »6. udio u zajedničkom porezu«.
+
+U točki 7. riječi: »i dotacija« brišu se.
+
+#### Članak 19.
+
+Članak 69. mijenja se i glasi:
+
+»Temeljni financijski akt jedinice lokalne i područne (regionalne) samouprave je proračun.
+
+Općinski načelnik, gradonačelnik, odnosno župan, kao jedini ovlašteni predlagatelj, dužan je utvrditi prijedlog proračuna i podnijeti ga predstavničkom tijelu na donošenje u roku utvrđenom posebnim zakonom.
+
+Proračun donosi predstavničko tijelo jedinice lokalne i područne (regionalne) samouprave u skladu s posebnim zakonom.«.
+
+#### Članak 20.
+
+Iza članka 69. dodaje se članak 69.a koji glasi:
+
+»Članak 69.a
+
+Ako općinski načelnik, gradonačelnik, odnosno župan ne predloži proračun predstavničkom tijelu ili povuče prijedlog prije glasovanja o proračunu u cjelini te ne predloži novi prijedlog proračuna u roku koji omogućuje njegovo donošenje, Vlada Republike Hrvatske će na prijedlog središnjeg tijela državne uprave nadležnog za lokalnu i područnu (regionalnu) samoupravu razriješiti općinskog načelnika, gradonačelnika, odnosno župana i njihovog zamjenika koji je izabran zajedno s njima.
+
+U slučaju iz stavka 1. ovoga članka Vlada Republike Hrvatske imenovat će povjerenika Vlade Republike Hrvatske za obavljanje poslova iz nadležnosti općinskog načelnika, gradonačelnika, odnosno župana i raspisati prijevremene izbore za općinskog načelnika, gradonačelnika, odnosno župana sukladno posebnom zakonu.
+
+Novoizabrani općinski načelnik, gradonačelnik, odnosno župan dužan je predložiti predstavničkom tijelu proračun u roku od 45 dana od dana stupanja na dužnost.
+
+Predstavničko tijelo mora donijeti proračun iz stavka 3. ovog članka u roku od 45 dana od dana kada ga je općinski načelnik, gradonačelnik, odnosno župan predložio predstavničkom tijelu.
+
+Rješenje Vlade Republike Hrvatske o razrješenju općinskog načelnika, gradonačelnika, odnosno župana iz stavka 1. ovoga članka stupa na snagu danom objave u »Narodnim novinama«.
+
+Protiv rješenja Vlade Republike Hrvatske iz stavka 5. ovoga članka razriješeni općinski načelnik, gradonačelnik, odnosno župan može podnijeti tužbu Visokom upravnom sudu Republike Hrvatske u roku od 8 dana od dana objave rješenja.
+
+Postupak rješavanja o tužbi protiv rješenja Vlade Republike Hrvatske je hitan.
+
+Visoki upravni sud Republike Hrvatske odlučit će o tužbi u roku od 30 dana od dana primitka tužbe te svoju odluku bez odgađanja dostaviti Vladi Republike Hrvatske i razriješenom općinskom načelniku, gradonačelniku, odnosno županu.
+
+Odluka Visokog upravnog suda Republike Hrvatske objavljuje se u »Narodnim novinama«.
+
+Ako je tužba odbačena ili odbijena, Vlada Republike Hrvatske će raspisati prijevremene izbore za općinskog načelnika, gradonačelnika, odnosno župana u roku od 90 dana od dana objave odluke Visokog upravnog suda Republike Hrvatske u »Narodnim novinama«.«.
+
+#### Članak 21.
+
+Članak 70. mijenja se i glasi:
+
+»Ako predstavničko tijelo ne donese proračun prije početka proračunske godine, privremeno se, a najduže za prva tri mjeseca proračunske godine, na osnovi odluke o privremenom financiranju, nastavlja financiranje poslova, funkcija i programa tijela jedinica lokalne i područne (regionalne) samouprave i drugih proračunskih i izvanproračunskih korisnika u skladu s posebnim zakonom.
+
+Odluku o privremenom financiranju iz stavka 1. ovoga članka donosi do 31. prosinca predstavničko tijelo u skladu s posebnim zakonom na prijedlog općinskog načelnika, gradonačelnika, odnosno župana ili povjerenika Vlade Republike Hrvatske.
+
+U slučaju kada je raspušteno samo predstavničko tijelo, a općinski načelnik, gradonačelnik, odnosno župan nije razriješen, do imenovanja povjerenika Vlade Republike Hrvatske, financiranje se obavlja izvršavanjem redovnih i nužnih rashoda i izdataka temeljem odluke o financiranju nužnih rashoda i izdataka koju donosi općinski načelnik, gradonačelnik, odnosno župan.
+
+Po imenovanju povjerenika Vlade Republike Hrvatske, općinski načelnik, gradonačelnik, odnosno župan predlaže povjereniku novu odluku o financiranju nužnih rashoda i izdataka u koju su uključeni ostvareni prihodi i primici te izvršeni rashodi i izdaci u vremenu do dolaska povjerenika.
+
+Ako se do 31. ožujka ne donese proračun, povjerenik donosi odluku o financiranju nužnih rashoda i izdataka za razdoblje do donošenja proračuna.
+
+Odluka o financiranju nužnih rashoda i izdataka iz stavaka 3., 4. i 5. ovoga članka sadržajno odgovara odluci o privremenom financiranju propisanoj posebnim zakonom, ali razmjerno razdoblju za koje se donosi.«.
+
+#### Članak 22.
+
+U članku 73. stavku 4. riječ: »danom« zamjenjuje se riječima: »prvog dana od dana«.
+
+#### Članak 23.
+
+U članku 74. riječi: »obavlja nadzor nad zakonitošću« zamjenjuju se riječima: »nadziru zakonitost«.
+
+#### Članak 24.
+
+U članku 75. stavku 1. riječi: »i nadziru« brišu se.
+
+Stavak 2. briše se.
+
+#### Članak 25.
+
+U članku 84. točki 6. iza brojke: »40.b« dodaju se riječi: »stavka 3.«, a točka na kraju rečenice zamjenjuje se zarezom.
+
+Iza točke 6. dodaje se točka 7. koja glasi:
+
+»7. ako u tekućoj godini ne donese proračun za sljedeću godinu niti odluku o privremenom financiranju te ako ne donese proračun do isteka roka privremenog financiranja, osim u slučaju iz članka 69.a stavka 1. ovog Zakona.«.
+
+#### Članak 26.
+
+Članak 85.a mijenja se i glasi:
+
+»Na prijedlog središnjeg tijela državne uprave nadležnog za lokalnu i područnu (regionalnu) samoupravu Vlada Republike Hrvatske istovremeno će raspustiti predstavničko tijelo i razriješiti općinskog načelnika, gradonačelnika, odnosno župana i njihove zamjenike koji su izabrani zajedno s njima:
+
+– ako nakon raspuštanja predstavničkog tijela iz razloga navedenih u članku 84. stavku 1. točki 7. ovoga Zakona novoizabrano predstavničko tijelo ne donese proračun u roku od 90 dana od konstituiranja,
+
+– ako predstavničko tijelo ne donese proračun u roku iz članka 69.a stavka 4. ovog Zakona.«.
+
+#### Članak 27.
+
+U članku 86. stavku 1. točki 4. iza brojke: »6« dodaju se riječi: »te članka 69.a«.
+
+#### Članak 28.
+
+Iza članka 86. dodaje se članak 86.a koji glasi:
+
+»Članak 86.a
+
+Središnje tijelo državne uprave nadležno za lokalnu i područnu (regionalnu) samoupravu predložit će Vladi Republike Hrvatske imenovanje, odnosno razrješenje povjerenika Vlade kada se za to ispune uvjeti propisani ovim Zakonom.
+
+Za povjerenika Vlade u pravilu može biti imenovan rukovodeći službenik jedinice lokalne, odnosno područne (regionalne) samouprave ili ureda državne uprave u županiji koji ispunjava sljedeće uvjete:
+
+– ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij,
+
+– protiv kojeg se ne vodi kazneni postupak niti je osuđivan za kaznena djela za koja se postupak pokreće po službenoj dužnosti.
+
+Vlada Republike Hrvatske razriješit će dužnosti povjerenika prije isteka vremena na koje je imenovan:
+
+– ako to sam zatraži,
+
+– ako nastupe okolnosti zbog kojih više ne ispunjava uvjete za izbor iz stavka 2. podstavka 2. ovoga članka,
+
+– ako ne obavlja dužnost sukladno ovom Zakonu.
+
+Povjerenik je u svom radu samostalan i odgovoran Vladi Republike Hrvatske.«.
+
+#### Članak 29.
+
+Članak 88. mijenja se i glasi:
+
+»Povjerenik može:
+
+– donositi ili mijenjati opće akte jedinice lokalne, odnosno područne (regionalne) samouprave, osim proračuna, samo ako je to potrebno radi provedbe zakona ili drugog propisa ili usklađivanja sa zakonom ili drugim propisom,
+
+– raspolagati imovinom jedinice lokalne, odnosno područne (regionalne) samouprave samo ako je to nužno radi izvršenja ranije preuzetih obveza ili dovršenja ranije započetih poslova,
+
+– donositi odluke o imenovanjima samo kada je to nužno radi osiguranja nesmetanog rada upravnih tijela jedinica lokalne i područne (regionalne) samouprave i pravnih osoba kojih je osnivač ili vlasnik jedinica lokalne, odnosno područne (regionalne) samouprave, u kojem slučaju je ovlašten imenovati vršitelje dužnosti,
+
+– zaključivati ugovore značajnije vrijednosti samo ako bi nezaključivanje ugovora prouzročilo znatnu materijalnu štetu, odnosno ako je zaključivanje ugovora nužno radi provedbe zakona ili izvršenja ranije preuzetih obveza ili dovršenja ranije započetih poslova.
+
+Povjerenik je u svojem postupanju dužan procijeniti nužnost i opravdanost poduzimanja određenih radnji te njihov značaj i utjecaj na jedinicu lokalne, odnosno područne (regionalne) samouprave.
+
+U slučaju iz članka 69.a ovoga Zakona povjerenik može predstavničkom tijelu predložiti donošenje odluke o privremenom financiranju ako ju predstavničko tijelo nije donijelo.«.
+
+#### Članak 30.
+
+U članku 90. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»Osobe koje dužnost obavljaju volonterski ne mogu promijeniti način obavljanja dužnosti u godini održavanja redovnih lokalnih izbora.«.
+
+#### Članak 31.
+
+U članku 91. stavku 1. podstavak 4. mijenja se i glasi:
+
+» – danom stupanja na snagu odluke o raspuštanju predstavničkog tijela, odnosno odluke o raspisivanju redovnih izbora.«.
+
+#### Članak 32.
+
+U članku 92. stavak 1. mijenja se i glasi:
+
+»Općinskom načelniku, gradonačelniku, županu i njihovim zamjenicima prava na temelju obavljanja dužnosti prestaju danom stupanja na dužnost novoga općinskog načelnika, gradonačelnika, župana i njihovog zamjenika, odnosno danom stupanja na snagu rješenja o imenovanju povjerenika Vlade Republike Hrvatske za obavljanje poslova iz nadležnosti općinskog načelnika, gradonačelnika, odnosno župana.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 33.
+
+Jedinice lokalne i područne (regionalne) samouprave dužne su uskladiti svoje statute i druge opće akte s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 34.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/149
+
+Zagreb, 8. prosinca 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r..
+
+## Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1935*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/143
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI**
+
+#### Članak 1.
+
+U Zakonu o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/01., 60/01., 129/05., 109/07., 125/08., 36/09., 150/11., 144/12., 19/13. – pročišćeni tekst, 137/15 – ispravak i 123/17.) u članku 23. stavku 2. riječ: »obavljanja« zamjenjuje se riječju: »povjerenih«, a riječi: »koji su preneseni na« zamjenjuju se riječima: »koje obavljaju upravna«.
+
+#### Članak 2.
+
+U članku 42. stavak 2. mijenja se i glasi:
+
+»Općinski načelnik, gradonačelnik, odnosno župan odgovoran je za zakonito i pravilno obavljanje povjerenih poslova državne uprave tijelu državne uprave nadležnom za upravni nadzor u odgovarajućem upravnom području.«.
+
+U stavku 5. riječi: »predstojnika ureda državne uprave u županiji« zamjenjuju se riječima: »nadležno tijelo državne uprave u čijem je djelokrugu opći akt«.
+
+Stavak 6. briše se.
+
+#### Članak 3.
+
+U članku 53. stavku 1. riječi: »poslova državne uprave prenijetih na te jedinice« zamjenjuju se riječima: »povjerenih poslova državne uprave«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»U obavljanju povjerenih poslova državne uprave upravna tijela jedinica imaju ovlasti i obveze tijela državne uprave sukladno zakonu kojim se uređuje sustav državne uprave.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 4.
+
+U članku 61.b stavku 2. riječi: »uredu državne uprave« zamjenjuju se riječima: »upravnom tijelu u županiji«.
+
+#### Članak 5.
+
+U članku 76. stavak 2. mijenja se i glasi:
+
+»Upravna tijela jedinica lokalne i područne (regionalne) samouprave u obavljanju povjerenih poslova državne uprave rješavaju u upravnim stvarima u prvom stupnju.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Protiv pojedinačnih akata iz stavka 2. ovoga članka koje donose upravna tijela jedinica lokalne i područne (regionalne) samouprave u obavljanju povjerenih poslova državne uprave može se izjaviti žalba nadležnom tijelu državne uprave u skladu s posebnim zakonom kojim se uređuje pojedino upravno područje.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+Dosadašnji stavak 6., koji postaje stavak 7., mijenja se i glasi:
+
+»Odredbe ovoga članka odnose se i na pojedinačne akte koje donose pravne osobe kojima je odlukom predstavničkog tijela, u skladu sa zakonom, povjereno obavljanje javnih ovlasti u poslovima iz samoupravnog djelokruga jedinice.«.
+
+#### Članak 6.
+
+U članku 79. stavku 1. riječi: »uredi državne uprave u županijama i« te riječ: »središnja« brišu se.
+
+U stavku 2. riječi: »predstojniku ureda državne uprave u županiji (u daljnjem tekstu: predstojnik)« zamjenjuju se riječima: »nadležnom tijelu državne uprave u čijem je djelokrugu opći akt«.
+
+#### Članak 7.
+
+Članak 80. mijenja se i glasi:
+
+»Kad nadležno tijelo državne uprave ocijeni da su odredbe općeg akta jedinice lokalne, odnosno područne (regionalne) samouprave u suprotnosti s Ustavom i zakonom ili da su u postupku donošenja općeg akta počinjene nepravilnosti, bez odgode će dati uputu predstavničkom tijelu da u roku od 15 dana od primitka upute otkloni uočene nedostatke.
+
+Ako predstavničko tijelo ne postupi po uputi nadležnog tijela državne uprave i ne otkloni uočene nedostatke u roku iz stavka 1. ovoga članka, nadležno tijelo državne uprave donosi odluku o obustavi od primjene općeg akta ili pojedinih odredaba općeg akta (u daljnjem tekstu: odluka o obustavi) koja mora biti obrazložena.
+
+Odluku o obustavi nadležno tijelo državne uprave dužno je donijeti u roku od 60 dana od isteka roka iz stavka 1. ovoga članka.
+
+Odluka o obustavi dostavlja se bez odgode predsjedniku predstavničkog tijela koje je donijelo opći akt, općinskom načelniku, gradonačelniku ili županu te tijelu državne uprave nadležnom za lokalnu i područnu (regionalnu) samoupravu.
+
+Odluka o obustavi obvezno se objavljuje u službenom glasilu jedinice.«.
+
+#### Članak 8.
+
+Članak 80.a mijenja se i glasi:
+
+»Postupajući po odluci općinskog načelnika, gradonačelnika, odnosno župana o obustavi iz članka 42. stavka 4. ovoga Zakona, u roku od 30 dana od zaprimanja odluke nadležno tijelo državne uprave donijet će:
+
+1. odluku o potvrdi odluke općinskog načelnika, gradonačelnika, odnosno župana o obustavi ako odluku ocijeni osnovanom,
+
+2. odluku o ukidanju odluke općinskog načelnika, gradonačelnika, odnosno župana o obustavi ako odluku ocijeni neosnovanom.
+
+Odluke iz stavka 1. ovoga članka dostavljaju se bez odgode predsjedniku predstavničkog tijela koje je donijelo opći akt, općinskom načelniku, gradonačelniku ili županu te tijelu državne uprave nadležnom za lokalnu i područnu (regionalnu) samoupravu.
+
+Odluke iz stavka 1. ovoga članka obvezno se objavljuju u službenom glasilu jedinice.«.
+
+#### Članak 9.
+
+Članak 80.b mijenja se i glasi:
+
+»Osim u nadzoru zakonitosti općih akata iz članaka 79., 80. i 80.a ovoga Zakona, sva tijela državne uprave u okviru svoga djelokruga utvrđenog posebnim zakonom mogu neposredno provoditi nadzor zakonitosti općih akata koje u samoupravnom djelokrugu donose predstavnička tijela općina, gradova i županija i donijeti odluku o obustavi.
+
+Odluka o obustavi iz stavka 1. ovoga članka dostavlja se bez odgode predsjedniku predstavničkog tijela koje je donijelo opći akt, općinskom načelniku, gradonačelniku ili županu te tijelu državne uprave nadležnom za lokalnu i područnu (regionalnu) samoupravu.
+
+Odluka o obustavi obvezno se objavljuje u službenom glasilu jedinice.
+
+Postupak nadzora zakonitosti općeg akta iz stavka 1. ovoga članka nadležno tijelo državne uprave može provesti u svakom trenutku po stjecanju saznanja da opći akt ili pojedine odredbe općeg akta nisu suglasne s Ustavom ili zakonom.«.
+
+#### Članak 10.
+
+Članak 81. briše se.
+
+#### Članak 11.
+
+Članak 82. mijenja se i glasi:
+
+»Kada nadležno tijelo državne uprave donese odluku o obustavi, odnosno odluku o potvrdi odluke općinskog načelnika, gradonačelnika, odnosno župana o obustavi, podnijet će Visokom upravnom sudu Republike Hrvatske zahtjev za ocjenu zakonitosti općeg akta u roku od 30 dana od donošenja odluke o obustavi, odnosno odluke o potvrdi odluke općinskog načelnika, gradonačelnika ili župana o obustavi.
+
+O podnošenju zahtjeva za ocjenu zakonitosti općeg akta nadležno tijelo državne uprave obavijestit će bez odgode predsjednika predstavničkog tijela koje je donijelo obustavljeni opći akt, općinskog načelnika, gradonačelnika ili župana te tijelo državne uprave nadležno za lokalnu i područnu (regionalnu) samoupravu.
+
+Ako nadležno tijelo državne uprave ne podnese Visokom upravnom sudu Republike Hrvatske zahtjev za ocjenu zakonitosti općeg akta u roku iz stavka 1. ovoga članka, obustava od primjene općeg akta prestaje istekom tog roka.«.
+
+#### Članak 12.
+
+U članku 82.a stavku 1. riječi: »80., 80.a, 80.b i 81.« zamjenjuju se riječima: »79., 80., 80.a i 80.b«.
+
+Stavak 2. mijenja se i glasi:
+
+»Kad tijelo državne uprave nadležno za lokalnu i područnu (regionalnu) samoupravu obustavi od primjene statut jedinice ili pojedine odredbe statuta, odnosno kad potvrdi odluku općinskog načelnika, gradonačelnika, odnosno župana o obustavi od primjene statuta jedinice ili pojedinih odredaba statuta, predložit će bez odgode Vladi Republike Hrvatske da pokrene postupak za ocjenu suglasnosti statuta jedinice s Ustavom i zakonom pred Ustavnim sudom Republike Hrvatske.«.
+
+#### Članak 13.
+
+U naslovu iznad članka 83. riječ: »PRENIJETIH« zamjenjuje se riječju: »POVJERENIH«.
+
+U članku 83. stavak 1. mijenja se i glasi:
+
+»Nadležno tijelo državne uprave u upravnom nadzoru nad obavljanjem povjerenih poslova državne uprave može upravnim tijelima jedinica davati opće i pojedinačne upute te poduzimati mjere i radnje utvrđene zakonom kojim se uređuje sustav državne uprave.«.
+
+Stavak 2. briše se.
+
+#### Članak 14.
+
+U članku 86.a stavku 1. riječi: »Središnje tijelo« zamjenjuju se riječju: »Tijelo«.
+
+U stavku 2. riječi: »ili ureda državne uprave u županiji« brišu se.
+
+#### Članak 15.
+
+U cijelom tekstu Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/01., 60/01., 129/05., 109/07., 125/08., 36/09., 150/11., 144/12., 19/13. – pročišćeni tekst, 137/15 – ispravak i 123/17.) riječi: »središnje tijelo državne uprave« u određenom broju i padežu zamjenjuju se riječima: »tijelo državne uprave« u odgovarajućem broju i padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 16.
+
+Jedinice lokalne i područne (regionalne) samouprave dužne su uskladiti svoje statute i druge opće akte s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 17.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/138
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (NN 144/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/144/2762*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o lokalnoj i područnoj (regionalnoj) samoupravi, koji je Hrvatski sabor donio na sjednici 15. prosinca 2020.
+
+Klasa: 011-01/20-01/115
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 17. prosinca 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O LOKALNOJ I PODRUČNOJ (REGIONALNOJ) SAMOUPRAVI**
+
+#### Članak 1.
+
+U Zakonu o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 33/01., 60/01., 129/05., 109/07., 125/08., 36/09., 150/11., 144/12., 19/13. – pročišćeni tekst, 137/15. – ispravak, 123/17. i 98/19.) iza članka 9. dodaje se članak 9.a koji glasi:
+
+»Članak 9.a
+
+Tijelo državne uprave nadležno za lokalnu i područnu (regionalnu) samoupravu vodi evidenciju općih podataka općina, gradova i županija o pitanjima proizašlim iz ovoga Zakona.
+
+Čelnik tijela državne uprave nadležnog za lokalnu i područnu (regionalnu) samoupravu donijet će pravilnik o prikupljanju, sistematiziranju i objavi podataka te vođenju evidencije iz stavka 1. ovoga članka.«.
+
+#### Članak 2.
+
+U članku 10. stavku 7. riječi: »vođenju očevidnika o izdanim odobrenjima iz stavka 1. ovoga članka,« brišu se.
+
+#### Članak 3.
+
+Članak 24. mijenja se i glasi:
+
+»Građani mogu neposredno sudjelovati u odlučivanju o lokalnim poslovima putem referenduma i zbora građana, u skladu sa zakonom i statutom jedinice lokalne i područne (regionalne) samouprave.
+
+Referendum se može raspisati radi odlučivanja o prijedlogu o promjeni statuta, o prijedlogu općeg akta ili drugog pitanja iz djelokruga predstavničkog tijela, kao i o drugim pitanjima određenim zakonom i statutom.
+
+Na postupak provođenja referenduma odgovarajuće se primjenjuju odredbe zakona kojim se uređuje provedba referenduma.
+
+Na odluke donesene u svezi s referendumom i na referendumu primjenjuju se odredbe članaka 79. do 82. ovoga Zakona.«.
+
+#### Članak 4.
+
+Članak 24.a mijenja se i glasi:
+
+»Na temelju odredaba zakona i statuta jedinice lokalne i područne (regionalne) samouprave raspisivanje referenduma može predložiti najmanje jedna trećina članova predstavničkog tijela, općinski načelnik, gradonačelnik ili župan, 20% ukupnog broja birača u jedinici za koju se traži raspisivanje referenduma, a u općini, gradu i Gradu Zagrebu i većina vijeća mjesnih odbora, odnosno gradskih četvrti ili gradskih kotareva na području općine, grada, odnosno Grada Zagreba.
+
+Ako je raspisivanje referenduma predložila najmanje jedna trećina članova predstavničkog tijela, odnosno ako je raspisivanje referenduma predložio općinski načelnik, gradonačelnik ili župan te ako je raspisivanje referenduma predložila većina vijeća mjesnih odbora, odnosno gradskih četvrti ili gradskih kotareva na području općine, grada, odnosno Grada Zagreba, predstavničko tijelo dužno je izjasniti se o podnesenom prijedlogu te ako prijedlog prihvati, donijeti odluku o raspisivanju referenduma u roku od 30 dana od zaprimanja prijedloga. Odluka o raspisivanju referenduma donosi se većinom glasova svih članova predstavničkog tijela.
+
+Ako je raspisivanje referenduma predložilo 20% od ukupnog broja birača u jedinici, predsjednik predstavničkog tijela dužan je dostaviti zaprimljeni prijedlog tijelu državne uprave nadležnom za lokalnu i područnu (regionalnu) samoupravu u roku od 30 dana od zaprimanja prijedloga. Tijelo državne uprave nadležno za lokalnu i područnu (regionalnu) samoupravu će u roku od 60 dana od dostave utvrditi ispravnost podnesenog prijedloga, odnosno utvrditi je li prijedlog podnesen od potrebnog broja birača u jedinici i je li referendumsko pitanje sukladno odredbama Zakona te odluku o utvrđenom dostaviti predstavničkom tijelu. Ako tijelo državne uprave nadležno za lokalnu i područnu (regionalnu) samoupravu utvrdi da je prijedlog ispravan, predstavničko tijelo raspisat će referendum u roku od 30 dana od zaprimanja odluke. Protiv odluke tijela državne uprave kojom je utvrđeno da prijedlog nije ispravan nije dozvoljena žalba, već se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+Predstavničko tijelo može raspisati savjetodavni referendum o pitanjima iz svog djelokruga.
+
+Pravo glasovanja na referendumu imaju građani koji imaju prebivalište na području općine, grada, odnosno županije i upisani su u popis birača.
+
+Odluka donesena na referendumu obvezatna je za predstavničko tijelo, osim odluke donesene na savjetodavnom referendumu koja nije obvezatna.«.
+
+#### Članak 5.
+
+Iza članka 24.a dodaje se članak 24.b koji glasi:
+
+»Članak 24.b
+
+Zborovi građana mogu se sazvati radi izjašnjavanja građana o pojedinim pitanjima i prijedlozima iz samoupravnog djelokruga općine, odnosno grada te raspravljanja o potrebama i interesima građana od lokalnog značenja, u skladu sa zakonom i statutom jedinice.
+
+Zborove građana saziva vijeće mjesnog odbora, gradske četvrti ili gradskog kotara, u skladu sa statutom općine ili grada.
+
+Zborovi građana sazivaju se za cijelo područje ili za dio područja mjesnog odbora, gradske četvrti ili gradskog kotara koji čini zasebnu cjelinu.
+
+Zborove građana može sazvati i općinsko, odnosno gradsko vijeće te općinski načelnik, odnosno gradonačelnik radi raspravljanja i izjašnjavanja građana o pitanjima od značenja za pojedinu općinu ili grad.
+
+Kada zborove građana saziva općinsko, odnosno gradsko vijeće ili općinski načelnik, odnosno gradonačelnik, zborovi građana sazivaju se za cijelo područje ili za dio područja općine ili grada, pojedina naselja ili dijelove naselja na području općine ili grada, a mogu se sazvati i za cijelo područje ili za dio područja mjesnog odbora, gradske četvrti ili gradskog kotara koji čini zasebnu cjelinu.
+
+Na zboru građana odlučuje se javnim glasovanjem, osim ako se na zboru većinom glasova prisutnih građana ne donese odluka o tajnom izjašnjavanju.
+
+Mišljenje dobiveno od zbora građana obvezatno je za mjesni odbor, gradsku četvrt ili gradski kotar, a savjetodavno za općinsko, odnosno gradsko vijeće i općinskog načelnika, odnosno gradonačelnika.
+
+Način sazivanja, rada i odlučivanja na zboru građana uređuje se općim aktom općine ili grada u skladu sa zakonom i statutom.«.
+
+#### Članak 6.
+
+Članak 25. mijenja se i glasi:
+
+»Građani imaju pravo predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave predlagati donošenje općeg akta ili rješavanje određenog pitanja iz njegova djelokruga te podnositi peticije o pitanjima iz samoupravnog djelokruga općine, grada, odnosno županije od lokalnog značenja, u skladu sa zakonom i statutom jedinice.
+
+O prijedlogu i peticiji iz stavka 1. ovoga članka predstavničko tijelo mora raspravljati ako ga potpisom podrži najmanje 10% od ukupnog broja birača u jedinici te dati odgovor podnositeljima najkasnije u roku od tri mjeseca od zaprimanja prijedloga.
+
+Prijedlozi i peticije iz stavka 1. ovoga članka mogu se podnijeti i elektroničkim putem u skladu s tehničkim mogućnostima općine, grada, odnosno županije.
+
+Način podnošenja prijedloga i peticija, odlučivanja o njima i druga pitanja uređuju se općim aktom općine, grada ili županije u skladu sa zakonom i statutom.«.
+
+#### Članak 7.
+
+U članku 26. stavku 2. iza riječi: »lokalne« dodaju se riječi: »i područne (regionalne)«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»Predstavke i pritužbe iz stavka 1. ovoga članka mogu se podnijeti i elektroničkim putem u skladu s tehničkim mogućnostima jedinice.«.
+
+#### Članak 8.
+
+Članak 28. mijenja se i glasi:
+
+»Broj članova predstavničkog tijela jedinice lokalne, odnosno područne (regionalne) samouprave je neparan, a određuje se ovisno o broju stanovnika, i to tako da predstavničko tijelo:
+
+1. županije
+
+a) s više od 300.000 stanovnika, ima 47 članova,
+
+b) s više od 200.000 do 300.000 stanovnika, ima 41 člana,
+
+c) s više od 100.000 do 200.000 stanovnika, ima 37 članova,
+
+d) s više od 60.000 do 100.000 stanovnika, ima 31 člana,
+
+e) do 60.000 stanovnika, ima 27 članova,
+
+2. općine i grada
+
+a) s više od 300.000 stanovnika, ima 47 članova,
+
+b) s više od 200.000 do 300.000 stanovnika, ima 41 člana,
+
+c) s više od 100.000 do 200.000 stanovnika, ima 31 člana,
+
+d) s više od 60.000 do 100.000 stanovnika, ima 27 članova,
+
+e) s više od 35.000 do 60.000 stanovnika, ima 21 člana,
+
+f) s više od 20.000 do 35.000 stanovnika, ima 19 članova,
+
+g) s više od 10.000 do 20.000 stanovnika, ima 15 članova,
+
+h) s više od 2.500 do 10.000 stanovnika, ima 13 članova,
+
+i) s više od 1.000 do 2.500 stanovnika, ima 9 članova,
+
+j) do 1.000 stanovnika, ima 7 članova.«.
+
+#### Članak 9.
+
+U članku 31. stavku 3. riječ: »neplaćeni« briše se, točka na kraju rečenice zamjenjuje se zarezom te se dodaju riječi: »sukladno sporazumu s poslodavcem.«.
+
+#### Članak 10.
+
+Iza članka 31. dodaje se članak 31.a koji glasi:
+
+»Članak 31.a
+
+Naknada iz članka 31. stavka 2. ovoga Zakona može se odrediti za rad u predstavničkom tijelu i radnim tijelima predstavničkog tijela, a određuje se u netoiznosu po članu predstavničkog tijela tako da ukupna godišnja netonaknada po članu predstavničkog tijela ne smije iznositi više od:
+
+1) u županiji
+
+a) s više od 300.000 stanovnika – 16.000,00 kuna,
+
+b) s više od 200.000 do 300.000 stanovnika – 15.000,00 kuna,
+
+c) s više od 100.000 do 200.000 stanovnika – 14.000,00 kuna,
+
+d) do 100.000 stanovnika – 13.000,00 kuna,
+
+2) u općini i gradu:
+
+a) s više od 300.000 stanovnika – 16.000,00 kuna,
+
+b) s više od 100.000 do 300.000 stanovnika – 14.000,00 kuna,
+
+c) s više od 60.000 do 100.000 stanovnika – 13.000,00 kuna,
+
+d) s više od 35.000 do 60.000 stanovnika – 12.000,00 kuna,
+
+e) s više od 20.000 do 35.000 stanovnika – 11.000,00 kuna,
+
+f) s više od 10.000 do 20.000 stanovnika – 10.000,00 kuna,
+
+g) s više od 5.000 do 10.000 stanovnika – 8.000,00 kuna,
+
+h) s više od 1.000 do 5.000 stanovnika – 6.000,00 kuna,
+
+i) do 1.000 stanovnika – 4.000,00 kuna.«.
+
+Naknada za predsjednika predstavničkog tijela može se odrediti u iznosu uvećanom za najviše 50%, a za potpredsjednike u iznosu uvećanom za najviše 30% pripadajuće naknade utvrđene stavkom 1. ovoga članka.«.
+
+#### Članak 11.
+
+U članku 37. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»U slučaju nastupanja posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje trenutačno ugrožava pravni poredak, život, zdravlje ili sigurnost stanovništva te imovinu veće vrijednosti, za vrijeme trajanja posebnih okolnosti sjednice predstavničkih tijela iznimno se mogu održavati elektroničkim putem.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 12.
+
+U članku 39. stavku 2. riječi: »općinskog načelnika,« brišu se.
+
+Stavak 3. mijenja se i glasi:
+
+»Zamjenik koji obnaša dužnost gradonačelnika, odnosno župana je zamjenik gradonačelnika, odnosno župana koji je izabran na neposrednim izborima zajedno s gradonačelnikom, odnosno županom, a dužnost gradonačelnika, odnosno župana obnaša ako je mandat gradonačelnika, odnosno župana prestao nakon isteka dvije godine mandata u toj jedinici lokalne, odnosno područne (regionalne) samouprave.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»Zamjenik koji obnaša dužnost gradonačelnika, odnosno župana je i zamjenik gradonačelnika, odnosno župana koji je izabran na neposrednim izborima zajedno s gradonačelnikom, odnosno županom, a dužnost gradonačelnika, odnosno župana obnaša ako je gradonačelnik, odnosno župan za vrijeme trajanja mandata spriječen u obavljanju svoje dužnosti.«.
+
+Dosadašnji stavak 4., koji postaje stavak 5., mijenja se i glasi:
+
+»Zamjenik iz stavaka 2., 3. i 4. ovoga članka koji obnaša dužnost gradonačelnika, odnosno župana ima sva prava i dužnosti gradonačelnika, odnosno župana.«.
+
+#### Članak 13.
+
+U članku 40.b stavku 1. riječi: »i njihov zamjenik« zamjenjuju se riječima: »te zamjenik gradonačelnika i župana«.
+
+U stavku 2. podstavku 1. riječi: »i njihovog zamjenika« zamjenjuju se riječima: »te zamjenika gradonačelnika i župana«.
+
+U stavku 3. riječi: »i njihovog zamjenika« zamjenjuju se riječima: »te zamjenika gradonačelnika i župana«, a riječi: »člankom 24. stavkom 5. ovoga Zakona« zamjenjuju se riječima: »odredbama ovoga Zakona i zakona kojim se uređuje raspisivanje referenduma«.
+
+U stavku 4. riječi: »i njihovog zamjenika« zamjenjuju se riječima: »te zamjenika gradonačelnika i župana«.
+
+U stavku 5. riječi: »općinskog načelnika,« brišu se.
+
+U stavku 6. riječi: »i njihovog zamjenika« zamjenjuju se riječima: »te zamjenika gradonačelnika i župana«.
+
+#### Članak 14.
+
+U članku 40.c stavku 1. riječi: »i njihovog zamjenika« zamjenjuju se riječima: »te zamjenika gradonačelnika i župana«.
+
+#### Članak 15.
+
+Članak 40.d mijenja se i glasi:
+
+»Ako prije isteka mandata prestane mandat općinskom načelniku i gradonačelniku koji nemaju zamjenika, u toj jedinici lokalne samouprave raspisat će se prijevremeni izbori za općinskog načelnika, odnosno gradonačelnika. Do provedbe prijevremenih izbora dužnost općinskog načelnika, odnosno gradonačelnika obnašat će povjerenik Vlade Republike Hrvatske.
+
+Ako prije isteka dvije godine mandata prestane mandat gradonačelniku koji ima zamjenika i županu, u toj jedinici lokalne i područne (regionalne) samouprave raspisat će se prijevremeni izbori za gradonačelnika, odnosno župana i njihova zamjenika. Do provedbe prijevremenih izbora dužnost gradonačelnika, odnosno župana obnašat će njegov zamjenik koji je izabran zajedno s njim, a ako je mandat prestao i zamjeniku, do provedbe prijevremenih izbora dužnost gradonačelnika, odnosno župana obnašat će povjerenik Vlade Republike Hrvatske.
+
+Ako nakon isteka dvije godine mandata prestane mandat gradonačelniku koji ima zamjenika, odnosno županu, u toj jedinici lokalne i područne (regionalne) samouprave neće se raspisati prijevremeni izbori za gradonačelnika, odnosno župana, a dužnost gradonačelnika, odnosno župana do kraja mandata obnašat će njegov zamjenik koji je izabran zajedno s njim.
+
+Ako gradonačelnik, odnosno župan u slučaju iz stavka 3. ovoga članka ima više zamjenika, dužnost gradonačelnika, odnosno župana obnašat će zamjenik koji je na kandidaturi za izbor gradonačelnika, odnosno župana bio prvi naveden iza kandidata za gradonačelnika, odnosno župana.
+
+Ako za vrijeme trajanja mandata gradonačelnika koji ima zamjenika, odnosno župana prestane mandat samo njihovu zamjeniku koji je izabran s njim, u toj jedinici lokalne i područne (regionalne) samouprave neće se raspisati prijevremeni izbori za zamjenika gradonačelnika, odnosno zamjenika župana.
+
+Ako prestane mandat zamjeniku koji obnaša dužnost gradonačelnika, odnosno župana iz stavka 3. ovoga članka, u toj jedinici lokalne i područne (regionalne) samouprave raspisat će se prijevremeni izbori za gradonačelnika, odnosno župana i njihova zamjenika. Do provedbe prijevremenih izbora dužnost gradonačelnika, odnosno župana obnašat će povjerenik Vlade Republike Hrvatske.
+
+Ako je prestanak mandata općinskog načelnika, gradonačelnika, odnosno župana te zamjenika gradonačelnika i zamjenika župana nastupio opozivom, u toj jedinici lokalne i područne (regionalne) samouprave raspisat će se prijevremeni izbori za općinskog načelnika, gradonačelnika, odnosno župana te zamjenika gradonačelnika i zamjenika župana. Do provedbe prijevremenih izbora dužnost općinskog načelnika, gradonačelnika, odnosno župana obnašat će povjerenik Vlade Republike Hrvatske.
+
+O svim promjenama tijekom mandata općinskog načelnika, gradonačelnika, župana te zamjenika gradonačelnika i zamjenika župana, pročelnik upravnog tijela nadležnog za službeničke odnose u jedinici lokalne, odnosno područne (regionalne) samouprave dužan je bez odgode obavijestiti tijelo državne uprave nadležno za lokalnu i područnu (regionalnu) samoupravu.«.
+
+#### Članak 16.
+
+Članak 41. mijenja se i glasi:
+
+»U županiji koja ima više od 250.000 stanovnika i gradu koji ima više od 100.000 stanovnika župan i gradonačelnik imaju dva zamjenika koji se biraju zajedno s njima na neposrednim izborima sukladno posebnom zakonu.
+
+U županiji koja ima do 250.000 stanovnika, jedinici lokalne samouprave koja ima više od 10.000 do 100.000 stanovnika i gradu koji je sjedište županije župan i gradonačelnik odnosno općinski načelnik imaju jednog zamjenika koji se bira zajedno s njima na neposrednim izborima sukladno posebnom zakonu.
+
+Odredbe ovog Zakona koje se odnose na zamjenika gradonačelnika koji se bira zajedno s gradonačelnikom primjenjuju se i na zamjenika općinskog načelnika koji se bira zajedno s općinskim načelnikom.«.
+
+#### Članak 17.
+
+U članku 41.a iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»Ako prije isteka mandata prestane mandat zamjeniku općinskog načelnika, gradonačelnika, odnosno župana izabranom iz reda pripadnika nacionalnih manjina, raspisat će se prijevremeni izbori za zamjenika iz reda pripadnika nacionalnih manjina.
+
+O svim promjenama tijekom mandata zamjenika općinskog načelnika, gradonačelnika, odnosno župana izabranom iz reda pripadnika nacionalnih manjina pročelnik upravnog tijela nadležnog za službeničke odnose u jedinici lokalne, odnosno područne (regionalne) samouprave dužan je bez odgode obavijestiti tijelo državne uprave nadležno za lokalnu i područnu (regionalnu) samoupravu.«.
+
+#### Članak 18.
+
+Članak 43. mijenja se i glasi:
+
+»Gradonačelnika koji ima zamjenika, odnosno župana u slučaju duže odsutnosti ili drugih razloga spriječenosti u obavljanju njegove dužnosti zamjenjuje zamjenik koji je izabran zajedno s njim, u skladu sa statutom.
+
+Gradonačelnik koji ima zamjenika i župan, u skladu sa statutom, mogu obavljanje određenih poslova iz svog djelokruga povjeriti zamjeniku koji je izabran zajedno s njima. Pri obavljanju povjerenih poslova zamjenik je dužan pridržavati se uputa gradonačelnika, odnosno župana. Povjeravanjem poslova iz svog djelokruga zamjeniku ne prestaje odgovornost gradonačelnika, odnosno župana za njihovo obavljanje.«.
+
+#### Članak 19.
+
+Iza članka 43. dodaje se članak 43.a koji glasi:
+
+»Članak 43.a
+
+»Ako za vrijeme trajanja mandata općinskog načelnika i gradonačelnika koji nemaju zamjenika nastupe okolnosti zbog kojih je općinski načelnik, odnosno gradonačelnik onemogućen obavljati svoju dužnost zbog duže odsutnosti ili drugih razloga spriječenosti, općinskog načelnika, odnosno gradonačelnika zamijenit će privremeni zamjenik kojeg će imenovati općinski načelnik, odnosno gradonačelnik na početku mandata iz reda pripadnika nacionalnih manjina, odnosno pripadnika hrvatskoga naroda u jedinicama u kojima pripadnici nacionalnih manjina čine većinu stanovništva ili iz reda članova predstavničkog tijela.
+
+Odluku o imenovanju privremenog zamjenika iz reda članova predstavničkog tijela općinski načelnik, odnosno gradonačelnik može promijeniti tijekom mandata.
+
+Zamjenik općinskog načelnika, odnosno gradonačelnika iz reda pripadnika nacionalnih manjina, odnosno pripadnika hrvatskoga naroda u jedinicama u kojima pripadnici nacionalnih manjina čine većinu stanovništva ili član predstavničkog tijela iz stavka 1. ovog članka je privremeni zamjenik općinskog načelnika, odnosno gradonačelnika koji zamjenjuje općinskog načelnika, odnosno gradonačelnika za vrijeme trajanja duže odsutnosti ili drugih razloga spriječenosti zbog kojih je općinski načelnik, odnosno gradonačelnik kojemu mandat nije prestao onemogućen obavljati svoju dužnost.
+
+Privremeni zamjenik ovlašten je obavljati samo redovne i nužne poslove kako bi se osiguralo nesmetano funkcioniranje općine, odnosno grada.
+
+Privremeni zamjenik za vrijeme zamjenjivanja općinskog načelnika, odnosno gradonačelnika ostvaruje prava općinskog načelnika, odnosno gradonačelnika.
+
+Ako zbog okolnosti iz stavka 1. ovoga članka nastupi prestanak mandata općinskog načelnika, odnosno gradonačelnika, u toj jedinici raspisat će se prijevremeni izbori za općinskog načelnika, odnosno gradonačelnika. Do provedbe prijevremenih izbora dužnost općinskog načelnika, odnosno gradonačelnika obnašat će povjerenik Vlade Republike Hrvatske.
+
+Ovlast privremenog zamjenika za zamjenjivanje općinskog načelnika, odnosno gradonačelnika prestaje danom nastavljanja obavljanja dužnosti općinskog načelnika, odnosno gradonačelnika po prestanku razloga zbog kojih je općinski načelnik, odnosno gradonačelnik bio onemogućen u obavljanju svoje dužnosti, odnosno u slučaju iz stavka 6. ovoga članka danom stupanja na snagu rješenja o imenovanju povjerenika Vlade Republike Hrvatske.
+
+O okolnostima iz stavka 1. i 2. ovoga članka općinski načelnik, odnosno gradonačelnik ili pročelnik upravnog tijela općine, odnosno grada nadležnog za službeničke odnose dužan je obavijestiti predsjednika predstavničkog tijela odmah po nastanku tih okolnosti.
+
+O okolnostima iz stavka 6. ovoga članka predsjednik predstavničkog tijela će u roku od 8 dana obavijestiti Vladu Republike Hrvatske radi raspisivanja prijevremenih izbora za novog općinskog načelnika, odnosno gradonačelnika.«.
+
+#### Članak 20.
+
+U članku 56. iza stavka 2. dodaju se novi stavak 3. i stavak 4. koji glase:
+
+»Jedinice lokalne samouprave dužne su osigurati obavljanje upravnih i stručnih poslova iz stavaka 1. i 2. ovoga članka u okviru svojih upravnih tijela.
+
+Jedinice lokalne samouprave koje nemaju mogućnost osigurati obavljanje upravnih i stručnih poslova u okviru svojih upravnih tijela dužne su osigurati obavljanje tih poslova zajednički s drugom jedinicom lokalne samouprave.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+#### Članak 21.
+
+Članak 63. briše se.
+
+#### Članak 22.
+
+Iza članka 68. dodaje se članak 68.a koji glasi:
+
+»Članak 68.a
+
+Općina, grad i županija dužne su javno objaviti informacije o trošenju proračunskih sredstava na svojim mrežnim stranicama tako da te informacije budu lako dostupne i pretražive.
+
+Objava informacija iz stavka 1. ovoga članka obavlja se u skladu s odredbama zakona kojim se uređuje planiranje, izrada, donošenje i izvršavanje proračuna te uputa i drugih akata ministarstva nadležnog za financije.«.
+
+#### Članak 23.
+
+U članku 70. stavku 2. točka na kraju rečenice zamjenjuje se zarezom i dodaju se riječi: »te drugog ovlaštenog predlagatelja utvrđenog poslovnikom predstavničkog tijela.«.
+
+#### Članak 24.
+
+Iza članka 70. dodaju se članci 70.a, 70.b, 70.c i 70.d koji glase:
+
+»Članak 70.a
+
+Ako do isteka roka privremenog financiranja nije donesen proračun u jedinici u kojoj je općinski načelnik, odnosno gradonačelnik koji nema zamjenika onemogućen u obavljanju svoje dužnosti, financiranje se obavlja izvršavanjem redovnih i nužnih rashoda i izdataka temeljem odluke o financiranju nužnih rashoda i izdataka koju donosi predstavničko tijelo na prijedlog privremenog zamjenika općinskog načelnika, odnosno gradonačelnika iz članka 43.a ovoga Zakona.
+
+#### Članak 70.b
+
+Kada je u jedinici konstituirano novoizabrano predstavničko tijelo nakon provedenih prijevremenih izbora, do donošenja proračuna jedinice financiranje se obavlja izvršavanjem redovnih i nužnih rashoda i izdataka temeljem odluke o financiranju nužnih rashoda i izdataka koju donosi općinski načelnik, gradonačelnik, odnosno župan.
+
+#### Članak 70.c
+
+Kada u postupku nadzora zakonitosti općeg akta nadležno tijelo državne uprave donese odluku o obustavi proračuna, odnosno odluku o potvrdi odluke općinskog načelnika, gradonačelnika, odnosno župana o obustavi proračuna, za vrijeme trajanja obustave proračuna financiranje se obavlja izvršavanjem redovnih i nužnih rashoda i izdataka temeljem odluke o financiranju nužnih rashoda i izdataka koju donosi općinski načelnik, gradonačelnik, odnosno župan.
+
+Ako Visoki upravni sud Republike Hrvatske u postupku ocjene zakonitosti općeg akta ukine proračun jedinice lokalne i područne (regionalne) samouprave, predstavničko tijelo dužno je donijeti proračun u roku od 45 dana od objave presude Visokog upravnog suda Republike Hrvatske u »Narodnim novinama«. Do donošenja proračuna financiranje se obavlja izvršavanjem redovnih i nužnih rashoda i izdataka temeljem odluke o financiranju nužnih rashoda i izdataka koju donosi općinski načelnik, gradonačelnik, odnosno župan.
+
+#### Članak 70.d
+
+Na sadržaj odluke o financiranju nužnih rashoda i izdataka iz članaka 70.a, 70.b i 70.c ovoga Zakona primjenjuje se odredba članka 70. stavka 6. ovoga Zakona.«.
+
+#### Članak 25.
+
+U članku 84. točka 6. mijenja se i glasi:
+
+»6. ako ne raspiše referendum na prijedlog birača kada je utvrđeno da je dopušteni prijedlog podnesen od dovoljnog broja birača, u skladu s odredbama ovoga Zakona i zakona kojim se uređuje raspisivanje referenduma,«.
+
+Iza točke 6. dodaje se nova točka 7. koja glasi:
+
+»7. ako ne raspiše referendum za opoziv iz članka 40.b stavka 3. ovoga Zakona,«.
+
+U dosadašnjoj točki 7., koja postaje točka 8., točka na kraju rečenice zamjenjuje se zarezom.
+
+Iza točke 8. dodaje se točka 9. koja glasi:
+
+»9. ako ne donese proračun u roku od 45 dana od objave presude Visokog upravnog suda Republike Hrvatske kojom je proračun ukinut u postupku ocjene zakonitosti općeg akta, osim u slučaju iz članka 69.a stavka 1. ovoga Zakona.«.
+
+#### Članak 26.
+
+U članku 86. stavku 1. točka 4. mijenja se i glasi:
+
+»4. kada prestane mandat općinskom načelniku, gradonačelniku, odnosno županu te zamjeniku gradonačelnika i župana koji je izabran zajedno s njima u slučaju iz članka 40.c, članka 40.d, članka 43.a i članka 69.a ovoga Zakona,«.
+
+#### Članak 27.
+
+U članku 90. stavak 6. mijenja se i glasi:
+
+»Ako u obavijesti iz stavka 5. ovoga članka nije naveden dan početka novog načina obavljanja dužnosti, novi način obavljanja dužnosti započinje prvog dana sljedećeg mjeseca nakon dostave te obavijesti.«.
+
+#### Članak 28.
+
+U članku 90.a iza stavka 5. dodaju se novi stavci 6., 7. i 8. koji glase:
+
+»Pravo na naknadu plaće i staž osiguranja iz stavaka 4. i 5. ovoga članka ostvaruje se na vlastiti zahtjev općinskog načelnika, gradonačelnika, odnosno župana i njihovih zamjenika te započinje prvoga dana po prestanku profesionalnog obavljanja dužnosti.«.
+
+Zahtjev iz stavka 6. ovoga članka podnosi se najkasnije posljednjeg dana profesionalnog obavljanja dužnosti.
+
+Ako ne podnesu zahtjev u roku iz stavka 7. ovoga članka, općinski načelnik, gradonačelnik, odnosno župan i njihovi zamjenici ne mogu ostvariti pravo na naknadu plaće i staž osiguranja iz stavaka 4. i 5. ovoga članka.«.
+
+Dosadašnji stavci 6., 7. i 8. postaju stavci 9., 10. i 11.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 29.
+
+Pravilnik iz članka 1. ovoga Zakona ministar nadležan za lokalnu i područnu (regionalnu) samoupravu donijet će najkasnije u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 30.
+
+U općinama, gradovima i županijama u kojima se smanjuje broj članova predstavničkih tijela sukladno odredbama ovoga Zakona, članovi predstavničkih tijela zatečeni na dužnosti u trenutku stupanja na snagu ovoga Zakona nastavljaju s obavljanjem dužnosti do isteka tekućeg mandata.
+
+#### Članak 31.
+
+U općinama, gradovima i županijama u kojima se ukida, odnosno smanjuje broj zamjenika općinskih načelnika, gradonačelnika i župana sukladno odredbama ovoga Zakona, osobe zatečene na dužnosti zamjenika općinskog načelnika, gradonačelnika i župana u trenutku stupanja na snagu ovoga Zakona nastavljaju s obnašanjem dužnosti do isteka tekućeg mandata.
+
+#### Članak 32.
+
+Jedinice lokalne i područne (regionalne) samouprave dužne su uskladiti svoje statute i druge opće akte s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 33.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«, osim članaka 10., 12., 13., 14., 15., 17., 18., 19., 24. i 26. koji stupaju na snagu na dan stupanja na snagu odluke o raspisivanju prvih sljedećih redovnih lokalnih izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave te općinske načelnike, gradonačelnike i župane.
+
+Klasa: 022-03/20-01/146  
+Zagreb, 15. prosinca 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

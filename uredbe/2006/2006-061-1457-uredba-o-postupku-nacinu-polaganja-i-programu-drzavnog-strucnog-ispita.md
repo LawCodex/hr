@@ -6,15 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2006-05-31
-last_amended: 2015-11-13
+last_amended: 2017-03-24
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "61/06, 145/12, 11/15, 124/15"
+narodne_novine: "61/06, 145/12, 11/15, 124/15, 27/17"
 amendments:
   - "NN 145/2012 (3099) Uredba o izmjeni i dopuni Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita"
   - "NN 11/2015 (214) Uredba o izmjenama i dopunama Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita"
   - "NN 124/2015 (2354) Uredba o izmjenama i dopunama Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita"
+  - "NN 27/2017 (594) Uredba o izmjenama i dopuni Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/61/1457"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 61/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/61/1457).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 145/2012, NN 11/2015, NN 124/2015.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 145/2012, NN 11/2015, NN 124/2015, NN 27/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -349,7 +350,7 @@ Jadranka Kosor, dipl. iur., v. r.
 
 #### PROGRAM OPĆEG I POSEBNOG DIJELA DRŽAVNOG STRUČNOG ISPITA — OPĆI DIO DRŽAVNOG STRUČNOG ISPITA
 
-### I.
+I.
 
 Opći dio državnog stručnog ispita obuhvaća sljedeće predmete:  
 1. Ustavno uređenje  
@@ -360,7 +361,7 @@ Opći dio državnog stručnog ispita obuhvaća sljedeće predmete:
 6. Uredsko poslovanje  
 7. Osnove sustava Europske unije
 
-### II.
+II.
 
 Pravni izvori i literatura za pripremu polaganja općeg dijela državnog stručnog ispita utvrđuju se ovisno o stručnoj spremi potrebnoj za obavljanje poslova u tijelima državne vlasti.
 
@@ -418,7 +419,7 @@ www.delhrv.cec.eu.int.hr
 www.mvp.hr  
 www.eu-pregovori.hr
 
-### IV.
+IV.
 
 Osoba koja polaže državni stručni ispit za obavljanje poslova više stručne spreme polaže opći dio državnog stručnog ispita sukladno sljedećim pravnim izvorima i literaturi:  
 1. Predmet Ustavno uređenje obuhvaća sljedeće pravne izvore:  
@@ -481,7 +482,7 @@ www.delhrv.cec.eu.int.hr
 www.mvp.hr  
 www.eu-pregovori.hr
 
-### V.
+V.
 
 Osoba koja polaže državni stručni ispit za obavljanje poslova visoke stručne spreme polaže opći dio državnog stručnog ispita sukladno sljedećim pravnim izvorima i literaturi:  
 1. Predmet Ustavno uređenje obuhvaća sljedeće pravne izvore:  
@@ -554,7 +555,7 @@ www.delhrv.cec.eu.int.hr
 www.mvp.hr  
 www.eu-pregovori.hr
 
-### VI.
+VI.
 
 Pravni izvori za polaganje općeg dijela državnog stručnog ispita su i sve izmjene i dopune propisa utvrđene ovim Programom, a koji će stupiti na snagu nakon stupanja na snagu ovoga Programa.
 
@@ -605,7 +606,7 @@ Pravni izvori za polaganje općeg dijela državnog stručnog ispita su i sve izm
 5.1. Priručnik za prevođenje pravnih akata Europske unije na hrvatski jezik  
 5.2. Priručnik za prevođenje hrvatskoga zakonodavstva na engleski jezik
 
-### IX.
+IX.
 
 Osoba koja polaže državni stručni ispit iz upravnog područja financija, polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima:  
 1. Sve osobe koje obavljaju poslove iz upravnog područja financija polažu posebni dio državnog stručnog ispita sukladno sljedećim pravnim izvorima i literaturi:  
@@ -795,7 +796,7 @@ Osoba koja polaže državni stručni ispit iz upravnog područja financija, pola
 4.108. Pravilnik o prekograničnom prometu i trgovini zaštićenim vrstama (»Narodne novine«, broj 34/06)  
 4.109. Kazneni zakon (»Narodne novine«, broj 110/97, 27/98, 129/00, 51/01 i 111/03) članci 19, 20, 285, 286, 297, 298 i 325)
 
-### X.
+X.
 
 Osoba koja polaže državni stručni ispit iz upravnog područja obrane za obavljanje poslova srednje stručne spreme, polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima:  
 1. Zakon o obrani (»Narodne novine« broj 33/02, 58/02)  
@@ -815,7 +816,7 @@ Osoba koja polaže državni stručni ispit iz upravnog područja obrane za obavl
 11. Pravilnik o radu Inspektorata obrane (»Narodne novine« broj 143/02 i 60/04)  
 12. Pravilnik o djelokrugu rada, dužnostima i ovlastima pripadnika vojne policije (»Narodne novine« broj 74/03)
 
-### XI.
+XI.
 
 Osoba koja polaže državni stručni ispit iz upravnog područja unutarnjih poslova, polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima:  
 1. policijski službenici  
@@ -906,7 +907,7 @@ Osoba koja polaže državni stručni ispit iz upravnog područja osiguranja prav
 8. Pravilnik o unutarnjem poslovanju u državnim odvjetništvima (»Narodne novine«, broj: 106/02. – opće odredbe članak 1. i 2., odredba o poslovanju državnoodvjetničke uprave članak 3., odredbe o ovlastima i dužnostima državnog odvjetnika članak 4. do 7. odredba o ustrojstvenim jedinicama članak 19. i 20., odredbe o pisarnici članak 21. i 22., odredbe o radnom vremenu, odmorima i dopustima članak 35. i 36. odredba o službi dežurstva članak 37., odredba o godišnjim odmorima članak 38., odredbe o službenoj zgradi i rasporedu radnih prostorija članak 39. do 45., odredbe o radu sa strankama i drugim osobama članak 46. do 49., odredbe o čuvanju službene tajne i nestanku tajnih podataka članak 54. do 62., odredbe o preuzimanju i otvaranju pošiljki članak 92. do 97.)  
 9. Pravilnik o unutarnjem redu Ministarstva pravosuđa – normativni (opći) dio – član 1. do 13..
 
-### XV.
+XV.
 
 Osoba koja polaže državni stručni ispit iz upravnog područja gospodarstva, polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima:  
 1. energetika i rudarstvo  
@@ -1104,7 +1105,7 @@ Osoba koja polaže ispit za zrakoplovnog inspektora, uz pravne izvore iz točke 
 Osoba koja polaže ispit za poštanskog i telekomunikacijskog inspektora, uz pravne izvore iz točke 4. polaže pisani i usmeni dio ispita i iz sljedećeg pravnog izvora:  
 – Zakon o prekršajima (»Narodne novine«, br. 88/02,122/02, 187/03, 105/04, 127/04.) – odredbe koje se odnose na podnošenje zahtjeva za pokretanje prekršajnog postupka, prekršajni nalog, te na zapisnik o izvidnim radnjama, ispitivanje svjedoka, ispitivanje osumnjičenika te ovrhu kaznenih mjera.
 
-### XX.
+XX.
 
 Osoba koja polaže državni stručni ispit iz upravnog područja regionalnog razvitka, obnove, prognanika i povratnika, polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima:  
 1 Zakon o obnovi (»Narodne novine«, broj 24/96, 54/96, 87/96, 57/00),  
@@ -1944,7 +1945,7 @@ Ispit za katastarske poslove:
 14. Uredba o postupku utvrđivanja granice pomorskog dobra (»Narodne novine«, broj 8/04)  
 15. Pravilnik o evidentiranju i obilježavanju pomorskog dobra (»Narodne novine«, broj 29/05)
 
-### XL.
+XL.
 
 Osoba koja polaže državni stručni ispit iz upravnog područja meteorologije i hidrologije, polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima:  
 Posebni dio državnog stručnog ispita polaže se iz sljedećih stručnih područja:  
@@ -2853,7 +2854,7 @@ Propise pod rednim brojevima 3.22. do 3.25.
 6.7. Zakon o sustavu državne uprave (»Narodne novine«, broj 75/93, 48/99, 15/00, 127/00 – vjerodostojno tumačenje članka 2. stavka 2. Zakona o izmjenama i dopunama Zakona o sustavu državne uprave, 59/01, 190/03 – pročišćeni tekst i 199/03,),  
 6.8. Zakon o lokalnoj i područnoj (regionalnoj) samoupravi (»Na­rodne novine«, broj 33/01 i 60/01 – vjerodostojno tumačenje članka 31. stavka 1., članka 46. stavka 1. i 2., članka 53. stavka 4. i članka 90. stavka 1. i 129/05.)
 
-### IL.
+IL.
 
 Osoba koja polaže državni stručni ispit iz upravnog područja informatičkih poslova polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima, programima i stručnim podlogama u području informatičkih poslova:  
 1. Zakon o elektroničkom potpisu (»Narodne novine« broj10/2002)  
@@ -2866,7 +2867,7 @@ Osoba koja polaže državni stručni ispit iz upravnog područja informatičkih 
 8. Pravilnik o sigurnosti i zaštiti zdravlja pri radu s računalom (»Narodne novine« broj 69/2005)  
 9. Zakon o pravu na pristup informacijama (»Narodne novine« broj 172/2003) – u dijelu koji se odnosi na opće odredbe, načela i izuzeća sadržano u člancima 1. do 8.
 
-### L.
+L.
 
 Osoba koja polaže državni stručni ispit iz upravnog područja prava i politike tržišnog natjecanja i državnih potpora polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima i literaturi:  
 Posebni dio državnog stručnog ispita polaže se iz sljedećih predmeta:  
@@ -2900,7 +2901,7 @@ U predmetu Usklađivanja prava državnih potpora s propisima EZ obav­lja se pro
 3. Sporazum o stabilizaciji i pridruživanju između Europskih zajednica i njihovih država članica i Republike Hrvatske (»Na­rodne novine – Međunarodni ugovori«, broj  
 14/01), Glava VI »Usklađivanje zakona, provedba zakona i pravila tržišnog natjecanja« članak 70.
 
-### LI.
+LI.
 
 Osoba koja polaže državni stručni ispit iz upravnog područja informacijsko-dokumentacijskih poslova polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima i literaturi:  
 1. Zakon o pravu na pristup informacijama (»Narodne novine«, broj 172/03.)  
@@ -2972,7 +2973,7 @@ Osoba koja polaže državni stručni ispit iz upravnog područja javne nabave po
 4. Uredba o osnivanju Ureda za javnu nabavu Vlade Republike Hrvatske (»Narodne novine«, broj 179/03 i 98/05),  
 5. Zakon o Državnoj komisiji za kontrolu postupaka javne nabave (»Narodne novine«, broj 117/03).
 
-### LV.
+LV.
 
 Osoba koja polaže državni stručni ispit za obavljanje poslova iz djelokruga Obavještajne agencije, polaže pisani i usmeni dio ispita sukladno sljedećim pravnim izvorima:  
 1. Zakon o sigurnosnim službama Republike Hrvatske (»Narodne novine«, broj 32/02 i 38/02),  
@@ -5757,3 +5758,66 @@ Zagreb, 12. studenoga 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama i dopuni Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita (NN 27/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/27/594*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 57. stavka 2. Zakona o državnim službenicima (»Narodne novine«, br. 92/05, 107/07, 27/08, 34/11, 49/11, 150/11, 34/12, 49/12 – pročišćeni tekst, 37/13, 38/13 i 138/15 – Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 23. ožujka 2017. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O POSTUPKU, NAČINU POLAGANJA I PROGRAMU DRŽAVNOG STRUČNOG ISPITA**
+
+### Članak 1.
+
+U Uredbi o postupku, načinu polaganja i Programu državnog stručnog ispita (»Narodne novine«, br. 61/06, 145/12, 1/14, 11/15 i 124/15), u članku 2. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»Odredbe ove Uredbe primjenjuju se i na kandidate koji su na stručnom osposobljavanju za rad bez zasnivanja radnog odnosa, kada im je posebnim propisom omogućeno polaganje Ispita.«.
+
+### Članak 2.
+
+U članku 6. stavak 1. mijenja se i glasi:
+
+»Zahtjev za podnošenje prijave za polaganje Ispita podnosi se čelniku državnog tijela (u daljnjem tekstu: čelnik tijela) u kojem je službenik zaposlen, odnosno u kojem se osoba nalazi na stručnom osposobljavanju bez zasnivanja radnog odnosa.«.
+
+### Članak 3.
+
+Članak 7. mijenja se i glasi:
+
+»Prijava za polaganje Ispita je podnesena u roku ako je zaprimljena u središnjem tijelu državne uprave nadležnom za službeničke odnose najkasnije dva mjeseca prije isteka roka u kojem je osoba dužna položiti Ispit.«.
+
+### Članak 4.
+
+U članku 10. stavku 2. riječi: »petnaest dana« zamjenjuju se riječima: »osam dana«.
+
+### Članak 5.
+
+Članak 29. mijenja se i glasi:
+
+»Članovi Komisije imenuju se iz reda službenika i drugih osoba koje imaju završen najmanje diplomski sveučilišni studij ili specijalistički diplomski stručni studij upravne, pravne ili druge odgovarajuće struke u odnosu na područje ispitivanja, te najmanje sedam godina radnog iskustva ostvarenog u navedenom stupnju obrazovanja i struci.
+
+Član Komisije iz reda službenika mora imati položen Ispit i najmanju ocjenu radne uspješnosti »primjeran« u prethodnom razdoblju od tri godine.
+
+Član Komisije koji nema status službenika mora pored uvjeta iz stavka 1. ovoga članka imati istaknute rezultate u radu u području za koje će provoditi Ispit i ne može biti osoba kod koje postoje zakonske zapreke za prijam u državnu službu prema odredbama posebnog propisa kojim se uređuje radnopravni status službenika.«.
+
+### Članak 6.
+
+U članku 32. stavak 3. mijenja se i glasi:
+
+»Tajnik Komisije imenuje se iz reda službenika središnjeg tijela državne uprave nadležnog za službeničke odnose koji ima najmanje srednju stručnu spremu, položen Ispit, tri godine radnog iskustva, najmanju ocjenu radne uspješnosti »primjeran« u prethodnom razdoblju od godine dana i organizacijske sposobnosti.«.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-03/30
+
+Urbroj: 50301-24/04-17-2
+
+Zagreb, 23. ožujka 2017.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

@@ -6,11 +6,11 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2004-12-15
-last_amended: 2016-12-09
+last_amended: 2025-12-15
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "177/04, 90/05, 57/06, 146/08, 80/10, 22/12, 148/13, 143/14, 50/16, 115/16"
+narodne_novine: "177/04, 90/05, 57/06, 146/08, 80/10, 22/12, 148/13, 143/14, 50/16, 115/16, 106/18, 121/19, 32/20, 138/20, 114/22, 114/23, 151/25"
 amendments:
   - "NN 90/2005 (1776) Zakon o izmjenama Zakona o porezu na dobit"
   - "NN 57/2006 (1354) Zakon o izmjenama i dopunama Zakona o porezu na dobit"
@@ -21,6 +21,13 @@ amendments:
   - "NN 143/2014 (2683) Zakon o izmjenama i dopunama Zakona o porezu na dobit"
   - "NN 50/2016 (1336) Zakon o izmjeni i dopunama Zakona o porezu na dobit"
   - "NN 115/2016 (2527) Zakon o izmjenama i dopunama Zakona o porezu na dobit"
+  - "NN 106/2018 (2061) Zakon o izmjenama i dopunama Zakona o porezu na dobit"
+  - "NN 121/2019 (2382) Zakon o izmjenama i dopunama Zakona o porezu na dobit"
+  - "NN 32/2020 (693) Zakon o izmjeni i dopuni Zakona o porezu na dobit"
+  - "NN 138/2020 (2627) Zakon o izmjenama i dopunama Zakona o porezu na dobit"
+  - "NN 114/2022 (1679) Zakon o izmjenama Zakona o porezu na dobit"
+  - "NN 114/2023 (1613) Zakon o izmjenama i dopunama Zakona o porezu na dobit"
+  - "NN 151/2025 (2261) Zakon o izmjenama i dopunama Zakona o porezu na dobit"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/177/3067"
 retrieved: 2026-10-12
 ---
@@ -29,7 +36,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 177/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/177/3067).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 90/2005, NN 57/2006, NN 146/2008, NN 80/2010, NN 22/2012, NN 148/2013, NN 143/2014, NN 50/2016, NN 115/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 90/2005, NN 57/2006, NN 146/2008, NN 80/2010, NN 22/2012, NN 148/2013, NN 143/2014, NN 50/2016, NN 115/2016, NN 106/2018, NN 121/2019, NN 32/2020, NN 138/2020, NN 114/2022, NN 114/2023, NN 151/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1873,8 +1880,6 @@ akademik Željko Reiner, v. r.
 
 HRVATSKI SABOR
 
-2527
-
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
 ODLUKU
@@ -2146,3 +2151,1086 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dobit (NN 106/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/106/2061*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA  
+I DOPUNAMA ZAKONA O POREZU NA DOBIT
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dobit, koji je Hrvatski sabor donio na sjednici 21. studenoga 2018.
+
+Klasa: 011-01/18-01/138  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 26. studenoga 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT**
+
+#### Članak 1.
+
+U Zakonu o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16. i 115/16.) u članku 1.a podstavku 6. iza riječi: »(SL L 219/40, 25. 7. 2014.)« riječ: »i« briše se i stavlja se zarez.
+
+U podstavku 7. iza riječi: »(SL L 21/1, 28. 1. 2015.)« briše se točka i dodaje se riječ: »i«.
+
+Iza podstavka 7. dodaje se podstavak 8. koji glasi:
+
+» – Direktiva Vijeća (EU) 2016/1164 od 12. srpnja 2016. o utvrđivanju pravila protiv praksi izbjegavanja poreza kojima se izravno utječe na funkcioniranje unutarnjeg tržišta (SL L 193/1, 19. 7. 2016.).«.
+
+#### Članak 2.
+
+U članku 2. stavak 8. mijenja se i glasi:
+
+»(8) Investicijski fondovi bez pravne osobnosti koji su osnovani i posluju u skladu sa zakonom po kojem su osnovani nisu obveznici poreza na dobit.«.
+
+#### Članak 3.
+
+Članak 4. mijenja se i glasi:
+
+»Poslovna jedinica inozemnog poduzetnika (nerezidenta) iz članka 2. stavka 2. ovoga Zakona utvrđuje se u skladu s općim poreznim propisom.«.
+
+#### Članak 4.
+
+U članku 9. stavak 9. mijenja se i glasi:
+
+»(9) Porezno priznatim rashodom smatraju se otpisi potraživanja koji su potvrđeni u skladu s posebnim propisom o stečaju potrošača i posebnim propisom o postupku izvanredne uprave u trgovačkim društvima od sistemskog značaja.«.
+
+#### Članak 5.
+
+U članku 15. stavku 2. iza riječi: »čija je poslovna jedinica« stavlja se zarez i dodaju riječi: »pritom uzimajući u obzir obavljene funkcije, imovinu koju koristi te sve rizike koje je preuzela bilo kojim putem«.
+
+#### Članak 6.
+
+Iza članka 30. dodaje se glava VII.a i naziv glave s člancima 30.a, 30.b i 30.c i naslovima iznad njih koji glase:
+
+### »VII.a PRAVILA PROTIV PREMJEŠTANJA DOBITI
+
+*Pravilo o ograničenju kamate*
+
+#### Članak 30.a
+
+(1) Porezni obveznik kao porezno priznati rashod može utvrditi prekoračene troškove zaduživanja nastale u poreznom razdoblju samo do:
+
+1. 30% dobiti prije kamata, poreza i amortizacije (EBITDA) ili
+
+2. 3.000.000,00 EUR ako se tako dobije veći iznos nego prema točki 1. ovoga stavka.
+
+(2) Smatra se da porezni obveznik ostvaruje prekoračene troškove zaduživanja kada troškovi zaduživanja prekoračuju oporezivi prihod od kamate ili drugi ekonomski istovjetni oporezivi prihod.
+
+(3) U smislu stavka 1. ovoga članka, troškovima zaduživanja smatraju se kamate na sve oblike duga, drugi troškovi ekonomski istovjetni kamati i troškovi koji su nastali u vezi s prikupljanjem sredstava, što među ostalim uključuje plaćanja u okviru zajmova kojima se sudjeluje u dobiti, pripisane kamate na instrumente poput zamjenjivih obveznica i obveznica bez kupona, iznosi u okviru alternativnih financijskih aranžmana kao što je islamsko bankarstvo, element financijske pristojbe plaćanja financijskog leasinga, kapitalizirana kamata koja je uključena u vrijednost imovine ili amortizacija kapitalizirane kamate, iznosi koji se mjere upućivanjem na povrat financiranja u skladu s pravilima o transfernim cijenama, ako je primjenjivo, iznosi nominalnih kamata u okviru izvedenih instrumenata ili aranžmani za zaštitu od rizika u odnosu na zaduživanje subjekta, pozitivne ili negativne tečajne razlike pri pozajmljivanju i instrumenti povezani s prikupljanjem sredstava, naknade za jamstva za financijske aranžmane, mehanizmi naknade i slični troškovi koji se odnose na zaduživanje.
+
+(4) Za potrebe stavka 1. ovoga članka, pri izračunu EBITDA-e uzimaju se u obzir samo oporezivi prihodi te se dobiti prije poreza dodaju porezno priznati troškovi amortizacije utvrđeni prema ovom Zakonu te ukupni troškovi zaduživanja.
+
+(5) Odredbe o ograničenju odbitka kamate iz stavka 1. ovoga članka ne primjenjuje:
+
+1. samostalni porezni obveznik odnosno onaj koji nije dio konsolidirane grupe za računovodstvene potrebe i koji nema nijednu povezanu osobu u smislu članka 30.b stavka 8. ovoga Zakona, ili stalnu poslovnu jedinicu, te ako ne prima ili ne odobrava zajmove svojim članovima ili dioničarima i
+
+2. porezni obveznik koji je financijsko društvo.
+
+(6) U smislu stavka 5. točke 2. ovoga članka, financijsko društvo je svaki subjekt koji se pojavljuje u bilo kojem od sljedećih ustrojstveno pravnih oblika: kreditna institucija, investicijsko društvo, društvo za upravljanje, UAIF, investicijski fond (UCITS i AIF), društvo za osiguranje, društvo za reosiguranje, institucija za strukovno mirovinsko osiguranje, mirovinsko društvo, mirovinski fond, središnja druga ugovorna strana, središnji depozitorij vrijednosnih papira, a koji se utvrđuju u skladu s posebnim propisima.
+
+(7) Porezni obveznik može pri izračunu prekoračenih troškova zaduživanja isključiti zajmove upotrijebljene za financiranje dugoročnih javnih infrastrukturnih projekata ako su nositelj projekta, troškovi zaduživanja, imovina i prihod unutar Europske unije, pri čemu se sav prihod od dugoročnog javnog infrastrukturnog projekta isključuje iz EBITDA-e poreznog obveznika.
+
+(8) Dugoročni javni infrastrukturni projekt iz stavka 7. ovoga članka znači projekt kojim se osigurava, nadograđuje, upravlja i/ili održava imovina velikih razmjera za koju država članica smatra da je u općem javnom interesu.
+
+(9) Porezni obveznik može prekoračene troškove zaduživanja iz stavka 1. ovoga članka utvrđene u poreznom razdoblju prenositi u sljedeća tri porezna razdoblja, ali u svakom poreznom razdoblju do iznosa utvrđenog prema stavku 1. ovoga članka.
+
+(10) Za iznose prekoračenih troškova zaduživanja koji su veći od iznosa iz stavka 1. ovoga članka porezni obveznik uvećava poreznu osnovicu.
+
+(11) Iznimno od stavka 10. ovoga članka, porezni obveznici koji primjenjuju odredbe članaka 8. i 14. ovoga Zakona iznos porezno nepriznatih troškova iz stavka 1. ovoga članka umanjuju iznosima za koje se povećava porezna osnovica utvrđena prema tim člancima ovoga Zakona.
+
+(12) Način provedbe ovoga članka pravilnikom propisuje ministar financija.
+
+*Pravilo o kontroliranim inozemnim društvima*
+
+#### Članak 30.b
+
+(1) Kontroliranim inozemnim društvom poreznog obveznika smatra se svaki subjekt koji se pojavljuje u bilo kojem ustrojstveno pravnom obliku ili stalna poslovna jedinica smještena u drugoj državi čija dobit ne podliježe porezu ili je neoporeziva u toj državi ako su ispunjeni sljedeći uvjeti:
+
+1. u slučaju subjekta, ako sam porezni obveznik ili zajedno s povezanim osobama sudjeluje izravno ili neizravno s više od 50% glasačkih prava ili je izravni ili neizravni vlasnik više od 50% kapitala ili ostvaruje pravo na primitak više od 50% dobiti tog subjekta i
+
+2. stvarni porez na dobit koji je subjekt ili stalna poslovna jedinica platila u inozemstvu (drugoj državi članici) manji je od razlike između poreza na dobit koji bi se naplatio subjektu ili stalnoj poslovnoj jedinici prema Zakonu i stvarnog poreza na dobit koji je subjekt ili stalna poslovna jedinica platila.
+
+(2) Ako se subjekt ili stalna poslovna jedinica smatra kontroliranim inozemnim društvom u skladu sa stavkom 1. ovoga članka, porezni obveznik je dužan u poreznu osnovicu uključiti neraspodijeljenu dobit subjekta ili stalne poslovne jedinice koja proizlazi iz sljedećih kategorija prihoda:
+
+1. kamata ili drugog prihoda od financijske imovine,
+
+2. naknada za licencije ili bilo kojeg drugog prihoda od intelektualnog vlasništva,
+
+3. dividende, udjela u dobiti i prihoda od raspolaganja dionicama ili udjelima,
+
+4. financijskog leasinga,
+
+5. osiguranja, bankarstva i ostalih financijskih djelatnosti,
+
+6. od prodaje i usluga, nastalih od robe i usluga nabavljenih od povezanih društava i prodanih povezanim društvima, s malo ili nimalo dodane gospodarske vrijednosti.
+
+(3) Stavak 2. ovoga članka ne primjenjuje se ako kontrolirano inozemno društvo obavlja znatnu gospodarsku djelatnost s pomoću osoblja, opreme, imovine i zgrada, što se potvrđuje relevantnim činjenicama i okolnostima.
+
+(4) Ako prihodi iz stavka 2. ovoga članka čine jednu trećinu ili manje od jedne trećine ukupnih prihoda subjekta ili stalne poslovne jedinice, subjekt ili stalna poslovna jedinica ne smatra se kontroliranim inozemnim društvom.
+
+(5) Iznimno od stavka 1. ovoga članka, financijska društva utvrđena prema članku 30.a stavku 6. ovoga Zakona ne smatraju se kontroliranim inozemnim društvima ako jedna trećina ili manje od jedne trećine prihoda iz stavka 2. ovoga članka proizlazi iz transakcija s poreznim obveznikom ili njegovim povezanim društvima.
+
+(6) Odredbe stavaka 4. i 5. ovoga članka ne primjenjuju se kada se subjekt ili stalna poslovna jedinica nalazi u državama koje se nalaze na EU popisu nekooperativnih jurisdikcija u porezne svrhe.
+
+(7) Za potrebe utvrđivanja kontroliranog inozemnog društva, povezanim osobama iz stavka 1. točke 1. ovoga članka smatraju se:
+
+1. subjekt u kojemu porezni obveznik izravno ili neizravno posjeduje udio u smislu prava glasa ili vlasništva kapitala od 25% ili više ili ostvaruje pravo na primitak od 25% ili više dobiti tog subjekta,
+
+2. fizičke osobe ili subjekti koji izravno ili neizravno posjeduju udio u smislu prava glasa ili vlasništva kapitala poreznog obveznika od 25% ili više ili ostvaruju pravo na primitak od 25% ili više dobiti tog poreznog obveznika i
+
+3. ako fizička osoba ili subjekt izravno ili neizravno posjeduje udio od 25% ili više u poreznom obvezniku i jednom ili više subjekata, svi dotični subjekti, uključujući poreznog obveznika, smatraju se povezanim osobama.
+
+(8) Način provedbe ovoga članka pravilnikom propisuje ministar financija.
+
+*Izračun dobiti kontroliranog inozemnog društva*
+
+#### Članak 30.c
+
+(1) Iznos dobiti kontroliranog inozemnog subjekta ili stalne poslovne jedinice koja se, prema članku 30.b stavku 2. ovoga Zakona, uključuje u poreznu osnovicu poreznog obveznika izračunava se na način propisan za porezne obveznike rezidente, a udio poreznog obveznika u dobiti izračunava se na način definiran u članku 30.b stavku 1. točki 1. ovoga Zakona. Gubici subjekta ili stalne poslovne jedinice ne uključuju se u poreznu osnovicu.
+
+(2) Podatke potrebne za utvrđivanje kontroliranih inozemnih društava iz članka 30.b ovoga Zakona i podatke o iznosu dobiti koja se prema stavku 1. ovoga članka uključuje u poreznu osnovicu dužan je uz prijavu poreza na dobit dostaviti svaki porezni obveznik koji izravno ili neizravno sudjeluje u upravi, nadzoru, kapitalu ili ostvaruje pravo na sudjelovanje u dobiti subjekta ili stalne poslovne jedinice smještene u inozemstvu.
+
+(3) Ako je kontrolirani inozemni subjekt ili stalna poslovna jedinica platila porez na dobit za porezno razdoblje u kojemu je ta dobit bila sukladno članku 30.b stavku 2. ovoga Zakona uključena u poreznu osnovicu, plaćeni porez uračunava se u skladu s člankom 30. ovoga Zakona.
+
+(4) Način provedbe ovoga članka pravilnikom propisuje ministar financija.«.
+
+#### Članak 7.
+
+U članku 31. stavak 10. mijenja se i glasi:
+
+»(10) Porez po odbitku iz stavka 1. ovoga članka plaća se po stopi od 15% na naknade za nastupe inozemnih izvođača (umjetnika, zabavljača i športaša) kada se naknada plaća prema ugovoru s inozemnom osobom koja nije fizička osoba i u tom slučaju ne nastaje obveza obračuna poreza na dohodak i doprinosa za fizičku osobu izvođača.«.
+
+Iza stavka 11. dodaje se stavak 12. koji glasi:
+
+»(12) Iznimno od odredbi ovoga članka, porez po odbitku plaća se po stopi od 20% na sve usluge te na sve vrste naknada oporezivih prema ovom članku, kada se plaćaju osobama koje imaju sjedište ili mjesto stvarne uprave odnosno nadzora poslovanja u državama koje se nalaze na EU popisu nekooperativnih jurisdikcija u porezne svrhe, a s kojima Republika Hrvatska ne primjenjuje ugovor o izbjegavanju dvostrukog oporezivanja.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 8.
+
+(1) Ovaj Zakon primjenjuje se u postupku podnošenja prijave poreza na dobit za 2019. godinu i nadalje odnosno za porezna razdoblja koja počinju teći od 1. siječnja 2019., osim odredbe članka 4. ovoga Zakona kojom je izmijenjen članak 9. stavak 9. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16. i 115/16.), a koja se primjenjuje u postupku podnošenja prijave poreza na dobit za 2018. godinu i nadalje.
+
+(2) Ministar financija uskladit će provedbene propise Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16. i 115/16.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+(3) Ministar financija donijet će pravilnik iz članka 6. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(4) Ministar financija uskladit će Pravilnik o porezu na dobit (»Narodne novine«, br. 95/05., 133/07., 156/08., 146/09., 123/10., 137/11., 61/12., 146/12., 160/13., 12/14., 157/14., 137/15., 1/17. i 2/18.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+#### Članak 9.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/143  
+Zagreb, 21. studenoga 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dobit (NN 121/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/121/2382*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dobit, koji je Hrvatski sabor donio na sjednici 29. studenoga 2019.
+
+Klasa: 011-01/19-01/207
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT**
+
+#### Članak 1.
+
+U Zakonu o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16. i 106/18.) u članku 1.a podstavku 7. iza riječi: »(SL L 21/41, 28. 1. 2015.)« riječ: »i« briše se i dodaje se zarez.
+
+U podstavku 8. iza riječi: »(SL L 193/1, 19. 7. 2016.)« briše se točka i dodaje se riječ: »i«.
+
+Iza podstavka 8. dodaje se podstavak 9. koji glasi:
+
+» – Direktiva Vijeća (EU) 2017/952 od 29. svibnja 2017. o izmjeni Direktive (EU) 2016/1164 u pogledu hibridnih neusklađenosti s trećim zemljama (SL L 144/1, 7. 6. 2017).«.
+
+#### Članak 2.
+
+U članku 2. stavak 3. mijenja se i glasi:
+
+»(3) Porezni obveznik je i fizička osoba koja utvrđuje dohodak na način propisan za samostalne djelatnosti prema propisima o oporezivanju dohotka ili koja počinje obavljati takvu samostalnu djelatnost ako izjavi da će plaćati porez na dobit umjesto poreza na dohodak.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Fizička osoba iz stavka 3. ovoga članka obveznik je plaćanja poreza na dobit ako u prethodnom poreznom razdoblju ostvari ukupni primitak veći od 7.500.000,00 kuna.«.
+
+U stavku 9. iza riječi: »poduzetnik« dodaju se riječi: »ili njegov pravni slijednik«.
+
+#### Članak 3.
+
+U članku 3. stavak 2. mijenja se i glasi:
+
+»(2) Nerezidenti su osobe kojima nije utvrđena rezidentnost prema stavku 1. ovoga članka, prema posebnom zakonu ili međunarodnom ugovoru.«.
+
+#### Članak 4.
+
+U članku 5. stavku 4. iza riječi: »likvidacije« dodaju se riječi: »ili drugog postupka kojim porezni obveznik okončava poslovanje sukladno posebnim propisima«.
+
+U stavku 7. riječi: »3.000.000,00 kuna« zamjenjuju se riječima: »7.500.000,00 kuna«.
+
+#### Članak 5.
+
+U članku 5.b stavku 1. riječi: »iznosa propisanog za ulazak u sustav poreza na dodanu vrijednost prema posebnom propisu o porezu na dodanu vrijednost« zamjenjuju se riječima: »7.500.000,00 kuna«.
+
+Stavci 5. i 6. mijenjaju se i glase:
+
+»(5) Godišnji porez u paušalnom iznosu, iznos predujma paušalnog poreza i razlika godišnjeg paušalnog poreza za uplatu ili povrat utvrđuje se na temelju izvješća iz stavka 6. ovoga članka, koje porezni obveznik podnosi Poreznoj upravi najkasnije u roku od 15 dana od dana isteka poreznog razdoblja za koje se izvješće podnosi. Porezni obveznik obvezan je razliku godišnjeg paušalnog poreza uplatiti s danom podnošenja izvješća.
+
+(6) Visinu paušalne porezne osnovice i paušalne obveze poreza na dobit, rokove plaćanja te evidencije i izvješća u svezi s paušalnim oporezivanjem utvrđuje pravilnikom ministar financija.«.
+
+Stavci 7. i 8. brišu se.
+
+#### Članak 6.
+
+U članku 7. stavku 8. iza riječi: »pomagala« dodaju se riječi: »te troškovi prijevoza i smještaja u zdravstvene ustanove«.
+
+#### Članak 7.
+
+U članku 9. stavku 3. riječi: »obveznikom poreza na dobit« brišu se.
+
+U stavku 4. iza riječi: »dobit« dodaju se riječi: »ili poreza na dohodak po osnovi obavljanja samostalne djelatnosti«, a riječi: »djelatnosti obrta i s obrtom izjednačenih djelatnosti« zamjenjuju se riječima: »samostalne djelatnosti«.
+
+#### Članak 8.
+
+Naslov iznad članka 18. mijenja se i glasi: »9. Preoblikovanje, likvidacija, stečaj i okončanje poslovanja«.
+
+U članku 18. stavak 3. mijenja se i glasi:
+
+»(3) U slučaju okončanja likvidacije ili drugog postupka kojim porezni obveznik okončava poslovanje sukladno posebnim propisima, porezni obveznik na zadnji dan poreznog razdoblja zatvara poslovne knjige, sastavlja zaključna financijska izvješća i utvrđuje poreznu obvezu. Ako na zadnji dan tog poreznog razdoblja sva imovina nije unovčena, u poreznu osnovicu se uključuju iznosi kao da je imovina unovčena.«.
+
+U stavku 4. iza riječi: »likvidacije« dodaju se riječi: »ili drugog postupka kojim porezni obveznik okončava poslovanje sukladno posebnim propisima,«.
+
+U stavku 5. iza riječi: »likvidaciji« dodaju se riječi: »ili drugom postupku kojim porezni obveznik okončava poslovanje sukladno posebnim propisima«.
+
+#### Članak 9.
+
+Članak 20. mijenja se i glasi:
+
+»(1) U slučaju spajanja, pripajanja ili podjele prema članku 19. ovoga Zakona porezni obveznik dužan je prethodno iskazana usklađenja vrijednosti ili procjene imovine uključiti u poreznu osnovicu, osim ako primjenjuje odredbe članka 20.a do 20.r ovoga Zakona.
+
+(2) Ako porezni obveznik nema iskazana usklađenja iz stavka 1. ovoga članka te ako sukladno računovodstvenom propisu nije bio dužan, nije izvršio i ne treba izvršiti određena usklađenja vrijednosti, tada postupci iz članka 19. ovoga Zakona nemaju utjecaja na oporezivanje.
+
+(3) U slučaju kada nisu ispunjeni uvjeti iz stavka 2. ovoga članka, porezni obveznik dužan je za svrhe oporezivanja procijeniti imovinu i otkriti skrivene pričuve, a razliku, zajedno s već iskazanim pričuvama, uključiti u poreznu osnovicu, osim ako primjenjuje odredbe članaka 20.a do 20.r ovoga Zakona.
+
+(4) Odredbe ovoga članka na odgovarajući način primjenjuju se na sve obveznike poreza na dobit i neovisno o tome radi li se o jednom ili više prenesenih društava ili društava preuzimatelja.«.
+
+#### Članak 10.
+
+U članku 28. riječi: »3.000.000,00 kuna« zamjenjuju se riječima: »7.500.000,00 kuna«, a riječi: »3.000.000,01 kuna« zamjenjuju se riječima: »7.500.000,01 kuna«.
+
+#### Članak 11.
+
+U članku 29. stavku 3. točki 7. iza riječi: »likvidacije« briše se točka i dodaje se zarez.
+
+Iza točke 7. dodaje se točka 8. koja glasi:
+
+»8. razdoblje koje se nastavlja na posljednju poslovnu godinu do okončanja poslovanja sukladno posebnim propisima.«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Porezni obveznik koji namjerava pokrenuti postupke iz stavka 3. točaka 3., 4. i 7. u slučaju okončanja likvidacije i točke 8. ovoga članka, dužan je te postupke najaviti Poreznoj upravi najkasnije 30 dana prije početka obavljanja formalnih radnji prema nadležnim tijelima te dostaviti podatke o ovlaštenom poreznom savjetniku ako je on uključen u provođenje navedenog postupka.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6. riječ: »uvjeti« zamjenjuje se riječju: »uvjet«, a riječ: » kojih« zamjenjuje se riječju: »kojeg«.
+
+#### Članak 12.
+
+U članku 30.a stavku 5. točki 1. riječi: »stavka 8.« zamjenjuju se riječima »stavka 7.«.
+
+#### Članak 13.
+
+Iza članka 30.c dodaju se članci 30.d do 30.i i naslovi iznad njih koji glase:
+
+*»Izlazno oporezivanje*
+
+#### Članak 30.d
+
+(1) Porezni obveznik dužan je u poreznu osnovicu uključiti razliku između tržišne vrijednosti imovine i njezine vrijednosti utvrđene za potrebe oporezivanja kada prenosi:
+
+1. imovinu u svoju stalnu poslovnu jedinicu u drugoj državi članici ili trećoj zemlji, ako zbog prijenosa prestaje pravo oporezivanja prenesene imovine iako imovina ostaje u pravnom i gospodarskom vlasništvu poreznog obveznika,
+
+2. imovinu iz stalne poslovne jedinice u svoje sjedište ili drugu stalnu poslovnu jedinicu u drugoj državi članici ili trećoj zemlji, ako zbog prijenosa prestaje pravo oporezivanja prenesene imovine ili
+
+3. poslovanje koje provodi stalna poslovna jedinica u drugu državu članicu ili treću zemlju, tako da pravo oporezivanja poslovanja stalne poslovne jedinice stječe druga država članica ili treća zemlja, a da pri tome ne postaje rezident te države članice ili treće zemlje.
+
+(2) Odredbe stavka 1. ovoga članka primjenjuje i porezni obveznik kada prenosi svoju poreznu rezidentnost u drugu državu članicu ili treću zemlju odnosno postaje rezident te države ili treće zemlje, osim u slučaju one imovine koja ostaje povezana sa stalnom poslovnom jedinicom.
+
+(3) Porezni obveznik koji prema stavku 1. i stavku 2. ovoga članka preuzima imovinu iz druge države, za porezne potrebe prihvaća utvrđene vrijednost imovine samo ako u trenutku prijenosa odražavaju tržišnu vrijednost.
+
+(4) Odredbe stavka 1. i stavka 2. ovoga članka ne primjenjuju se ako je imovina određena za vraćanje u roku od 12 mjeseci ili ako se prenosi imovina koja se odnosi na financiranje vrijednosnih papira, imovina koja se daje kao jamstvo ili kada se prijenos imovine obavlja kako bi se ispunili bonitetni kapitalni zahtjevi ili u svrhu upravljanja likvidnošću.
+
+(5) Porezni obveznik dužan je promjene iz stavka 1. točke 3. i stavka 2. ovoga članka u roku od osam dana prijaviti Poreznoj upravi.
+
+(6) Iznos iz stavka 1. ovoga članka porezni obveznik može, uz odgovarajuće jamstvo, uključiti u poreznu osnovici tijekom pet poreznih razdoblja, u slučaju prijenosa imovine u drugu državu članicu ili treću zemlju koja je stranka Sporazuma o europskom gospodarskom prostoru s kojom je sklopljen sporazum o uzajamnoj pomoći u pogledu namire poreznih potraživanja koji je istovjetan uzajamnoj pomoći predviđenoj Direktivom Vijeća 2010/24/EU o uzajamnoj pomoći kod naplate potraživanja vezanih za poreze, carine i druge mjere ili je takav sporazum sklopljen s Europskom unijom. Tijekom razdoblja odgode poreznom obvezniku će se obračunati kamate.
+
+(7) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s utvrđivanjem porezne osnovice i odgodom oporezivanja pri izlaznom oporezivanju imovine.
+
+*Hibridne neusklađenosti*
+
+#### Članak 30.e
+
+(1) U smislu članka 30.f do 30.i ovoga Zakona navedeni pojmovi imaju sljedeće značenje:
+
+1. neusklađenost znači dvostruki odbitak ili odbitak bez uključivanja,
+
+2. dvostruki odbitak znači odbitak istog plaćanja, troškova ili gubitaka u jurisdikciji iz koje potječe plaćanje, u kojoj su nastali troškovi ili u kojoj su pretrpljeni gubitci (jurisdikcija platitelja) i u drugoj jurisdikciji (jurisdikcija ulagatelja). U slučaju plaćanja hibridnog subjekta ili stalne poslovne jedinice jurisdikcija platitelja jest jurisdikcija u kojoj hibridni subjekt ili stalna poslovna jedinica imaju poslovni nastan ili jurisdikcija u kojoj su smješteni,
+
+3. odbitak bez uključivanja pretpostavlja odbitak plaćanja ili pretpostavljenog plaćanja između sjedišta i stalne poslovne jedinice ili između dviju ili više stalnih poslovnih jedinica u svakoj jurisdikciji za koju se smatra da je u njoj izvršeno to plaćanje ili pretpostavljeno plaćanje (jurisdikcija platitelja) bez pripadajućeg uključivanja tog plaćanja ili pretpostavljenog plaćanja u porezne svrhe u jurisdikciji primatelja plaćanja. Jurisdikcija primatelja plaćanja jest svaka jurisdikcija u kojoj je to plaćanje ili pretpostavljeno plaćanje zaprimljeno ili se smatra zaprimljenim u skladu sa zakonima bilo koje druge jurisdikcije,
+
+4. odbitak je iznos za koji se smatra da se može odbiti od oporezivog prihoda u skladu sa zakonima jurisdikcije platitelja ili jurisdikcije ulagatelja. Izraz »koji se može odbiti« tumači se u skladu s tim,
+
+5. uključivanje znači iznos koji se uzima u obzir u oporezivom prihodu u skladu sa zakonima jurisdikcije primatelja plaćanja. Plaćanje u okviru financijskog instrumenta ne smatra se uključenim u mjeri u kojoj plaćanje ispunjava uvjete za bilo koju poreznu olakšicu isključivo zbog načina na koji se to plaćanje definira u skladu sa zakonima jurisdikcije primatelja plaćanja. Izraz »uključen« tumači se u skladu s tim,
+
+6. porezna olakšica znači oslobođenje od poreza, smanjenje porezne stope ili svaki porezni odbitak ili povrat poreza (koji ne uključuju odbitak za poreze po odbitku),
+
+7. prihod koji se dvostruko uključuje znači svaku stavku prihoda koja se uključuje u skladu sa zakonima obiju jurisdikcija u kojima je nastala neusklađenost,
+
+8. osoba znači fizička osoba ili subjekt,
+
+9. hibridni subjekt znači svaki subjekt ili aranžman koji se smatra oporezivim subjektom u skladu sa zakonima jedne jurisdikcije i čiji se prihod ili rashod smatra prihodom ili rashodom jedne osobe ili više njih u skladu sa zakonima druge jurisdikcije,
+
+10. financijski instrument znači svaki instrument u mjeri u kojoj dovodi do povrata na financijska sredstva ili vlastiti kapital, a koji se oporezuje u skladu s pravilima za oporezivanje dužničkog kapitala, vlasničkog kapitala ili izvedenica u skladu sa zakonima jurisdikcije primatelja plaćanja ili jurisdikcije platitelja te obuhvaća hibridni prijenos,
+
+11. financijski trgovac je osoba ili subjekt koji u okviru svojeg poslovanja redovito kupuje i prodaje financijske instrumente za vlastiti račun u svrhu ostvarivanja dobiti,
+
+12. hibridni prijenos znači svaki aranžman za prijenos financijskog instrumenta ako se, u porezne svrhe, za odnosni prinos na preneseni financijski instrument smatra da ga je istodobno dobilo više strana koje sudjeluju u tom aranžmanu,
+
+13. tržišni hibridni prijenos znači svaki hibridni prijenos koji financijski trgovac provodi u okviru svojeg redovitog poslovanja, a ne kao dio strukturiranog aranžmana,
+
+14. stalna poslovna jedinica koja nije uzeta u obzir znači svaki aranžman koji se u skladu sa zakonima jurisdikcije sjedišta smatra razlogom za dodjelu statusa stalne poslovne jedinice te koji se u skladu sa zakonima druge jurisdikcije ne smatra razlogom za dodjelu statusa stalne poslovne jedinice,
+
+15. strukturirani aranžman znači aranžman koji uključuje hibridnu neusklađenost u kojem je cijena te neusklađenosti uvrštena u uvjete aranžmana ili aranžman koji je osmišljen kako bi njime nastala hibridna neusklađenost, osim ako se od poreznog obveznika ili povezanog društva nije moglo u razumnoj mjeri očekivati da su upoznati s postojanjem hibridne neusklađenosti i nisu imali udjela u vrijednosti porezne olakšice nastale iz hibridne neusklađenosti.
+
+(2) Za potrebe primjene članka 30.g i članka 30.h ovoga Zakona, definicija povezanih osoba iz članka 30.b stavka 7. ovoga Zakona nadopunjuje se kako slijedi:
+
+1. ako do neusklađenosti dolazi prema stavku 1. točkama 2., 3., 4., 5. ili 7. ovoga članka ili ako je provedena prilagodba u skladu s člankom 30.g stavkom 4. ili člankom 30.h ovoga Zakona, definicija povezanog društva mijenja se tako da se zahtjev za udjelom od 25 posto zamjenjuje zahtjevom za udjelom od 50 posto,
+
+2. smatra se da fizička osoba ili subjekt, koja djeluje zajedno s drugom osobom u smislu glasačkih prava u subjektu ili u smislu vlasništva kapitala subjekta, ima udio u svim glasačkim pravima tog subjekta koje ima druga osoba odnosno da ima udio u cjelokupnom vlasništvu kapitala tog subjekta koji drži druga osoba,
+
+3. povezano društvo znači i subjekt koji je dio iste konsolidirane grupe za potrebe računovodstva kao i porezni obveznik ili društvo u kojemu porezni obveznik ima znatan utjecaj na upravljanje ili društvo koje ima znatan utjecaj na upravljanje poreznog obveznika.
+
+#### Članak 30.f
+
+(1) Smatra se da dolazi do hibridne neusklađenost u situacijama kada:
+
+1. plaćanje u okviru financijskog instrumenta dovodi do odbitka bez uključivanja te takvo plaćanje nije uključeno u razumnom roku, a neusklađenost se može pripisati razlikama u definicijama instrumenta ili plaćanja u okviru njega,
+
+2. plaćanje hibridnom subjektu dovodi do odbitka bez uključivanja te je ta neusklađenost rezultat razlika u raspodjeli plaćanja hibridnom subjektu u skladu sa zakonima jurisdikcije poslovnog nastana (osnivanja) ili registracije hibridnog subjekta i jurisdikcije svake osobe s udjelom u tom hibridnom subjektu,
+
+3. plaćanje subjektu s jednom stalnom poslovnom jedinicom ili više njih dovodi do odbitka bez uključivanja te je ta neusklađenost rezultat razlika u raspodjeli plaćanja između sjedišta i stalne poslovne jedinice ili između dviju ili više stalnih poslovnih jedinica istog subjekta u skladu sa zakonima jurisdikcija u kojima subjekt posluje,
+
+4. plaćanje dovodi do odbitka bez uključivanja kao rezultat plaćanja stalnoj poslovnoj jedinici koja nije uzeta u obzir,
+
+5. plaćanje hibridnog subjekta dovodi do odbitka bez uključivanja te je ta neusklađenost rezultat činjenice da, u skladu sa zakonima jurisdikcije primatelja plaćanja, plaćanje nije uzeto u obzir,
+
+6. pretpostavljeno plaćanje između sjedišta i stalne poslovne jedinice ili između dvije ili više stalnih poslovnih jedinica dovodi do odbitka bez uključivanja te je ta neusklađenost rezultat činjenice da, u skladu sa zakonima jurisdikcije primatelja plaćanja, plaćanje nije uzeto u obzir,
+
+7. dolazi do dvostrukog odbitka ili
+
+8. dolazi do stvaranja strukturiranog aranžmana.
+
+(2) Za potrebe stavka 1. točke 1. ovoga članka smatra se da je plaćanje u okviru financijskog instrumenta uključeno u oporezive prihode u razumnom roku ako:
+
+1. jurisdikcija primatelja plaćanja uključuje plaćanje u porez­nom razdoblju koje započinje u roku od 12 mjeseci od kraja poreznog razdoblja platitelja ili
+
+2. je razumno očekivati da će jurisdikcija primatelja plaćanja uključiti plaćanje u budućem poreznom razdoblju te uvjeti plaćanja odgovaraju onima za koje bi se očekivalo da bi se dogovorili među nepovezanim osobama.
+
+(3) Iznimno od stavka 1. ovoga članka, smatra se da ne dolazi do hibridne neusklađenosti ako:
+
+1. financijski trgovac obavlja plaćanje koje odgovara odnosnom prinosu na preneseni financijski instrument u okviru stavka 1. točke 1. ovoga članka uz uvjet da je u jurisdikciji platitelja financijski trgovac obvezan u prihod uključiti sve iznose primljene u vezi s prenesenim financijskim instrumentom,
+
+2. se u slučajevima iz stavka 1. točaka 5., 6. ili 7. ovoga članka u jurisdikciji platitelja omogućuje prijeboj odbitka s iznosom prihoda koji se dvostruko uključuje ili
+
+3. ne nastaje među povezanim osobama utvrđenim prema članku 30.b stavku 7. i članku 30.e stavku 2. ovoga Zakona, između poreznog obveznika i povezanog društva, između sjedišta i stalne poslovne jedinice, između dviju ili više stalnih poslovnih jedinica istog subjekta ili u okviru strukturiranog aranžmana.
+
+#### Članak 30.g
+
+(1) U slučaju kada hibridna neusklađenost rezultira dvostrukim odbitkom, porezni obveznik koji je:
+
+1. ulagatelj odnosno fizička osoba ili subjekt, koji ima direktno ili indirektno udjele u kapitalu ili glasačkom pravu primatelja, ne može iskazati porezno priznati odbitak
+
+2. platitelj ne može iskazati porezno priznati odbitak ako se odbitak ne uskraćuje u jurisdikciji ulagatelja.
+
+3. točke 1. i 2. ovoga stavka ne primjenjuju se u slučaju kada se odbitak može prebiti s prihodom koji se dvostruko uključuje u poreznu osnovicu, neovisno o tome nastaje li u tekućem ili idućem poreznom razdoblju.
+
+(2) U slučaju kada hibridna neusklađenost rezultira odbitkom bez uključivanja, porezni obveznik koji je:
+
+1. platitelj ne može iskazati porezno priznati odbitak odnosno rashod,
+
+2. primatelj uključuje u poreznu osnovicu iznos plaćanja koji bi inače doveo do neusklađenosti ako se odbitak ne uskraćuje u jurisdikciji platitelja.
+
+(3) Porezni obveznik ne može iskazati porezno priznati odbitak za plaćanje u slučaju kada s takvim plaćanjem izravno ili neizravno financira rashod koji se može odbiti i koji dovodi do hibridne neusklađenosti na temelju transakcije ili niza transakcija s povezanim društvima ili transakcija koje se sklapaju kao dio strukturiranog aranžmana, osim ako je jedna od jurisdikcija uključenih u transakciju ili niz transakcija provela istovjetnu prilagodbu takve hibridne neusklađenosti.
+
+(4) U slučaju kada hibridna neusklađenost uključuje prihod stalne poslovne jedinice koja nije uzeta u obzir, porezni obveznik dužan je uključiti prihod koji bi se inače pripisao stalnoj poslovnoj jedinici koja nije uzeta u obzir, osim u slučajevima kada se prihod izuzima u skladu s ugovorom o izbjegavanju dvostrukog oporezivanja.
+
+(5) U slučaju kada je hibridni prijenos financijskog instrumenta osmišljen kako bi njime nastala olakšica za porez po odbitku za plaćanje koje proizlazi iz prenesenog financijskog instrumenta u korist više uključenih strana, poreznom obvezniku ograničava se korist vezana uz porez po odbitku razmjerno neto oporezivom prihodu tog plaćanja.
+
+(6) Odredbe stavka 2. točke 2. ovoga članka ne primjenjuju se u slučaju kada su hibridne neusklađenosti utvrđene prema članku 30.f stavku 1. točkama 2., 3., 4. ili 6. ovoga Zakona, odnosno kada primatelj nije obveznik poreza na dobit u skladu s ovim Zakonom.
+
+(7) Porezni obveznik dužan je za utvrđene iznose porezno nepriznatog odbitka ili iznose koji se uključuju u poreznu osnovicu prema ovom članku i članku 30.i ovoga Zakona povećati poreznu osnovicu, a za iznos utvrđen prema članka 30.h ovoga Zakona podnijeti poreznu prijavu.
+
+(8) Porezni obveznik dužan je uz prijavu poreza na dobit dostaviti informacije o tome koje su transakcije s povezanim osobama izazvale hibridnu neusklađenost, a za koje je prema stavku 7. ovoga članka povećao poreznu osnovicu ili podnio poreznu prijavu.
+
+(9) Uz iznose iz stavka 8. ovoga članka uključuju se i hibridne neusklađenosti nastale prema članku 6. stavku 1. ovoga Zakona.
+
+(10) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s hibridnom neusklađenosti.
+
+*Obrnute hibridne neusklađenosti*
+
+#### Članak 30.h
+
+(1) Ako se jedan ili više povezanih nerezidentnih subjekata koji drže ukupan izravan ili neizravan udio od najmanje 50 % glasačkih prava, kapitala ili prava na sudjelovanje u dobiti u hibridnom subjektu osnovanom ili registriranom u Republici Hrvatskoj nalaze u jurisdikcijama u kojima se taj hibridni subjekt smatra poreznim obveznikom, zbog potrebe izbjegavanja hibridne neusklađenosti taj subjekt će se smatrati rezidentom i obveznikom poreza na dobit po osnovi ostvarenih prihoda koji se ne oporezuju na drugi način u okviru zakona bilo koje druge jurisdikcije. Odredba ovoga stavka primjenjuje se neovisno o članku 3. ovoga Zakona.
+
+(2) Odredbe stavka 1. ovoga članka ne primjenjuju se na investicijske fondove iz članka 2. stavka 8. ovoga Zakona.
+
+(3) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s obrnutom hibridnom neusklađenosti.
+
+*Neusklađenost rezidentnosti*
+
+#### Članak 30.i
+
+(1) U slučaju kada je porezni obveznik za porezne svrhe rezident i u nekoj drugoj jurisdikciji i kada se odbitak za plaćanje, troškove ili gubitke poreznog obveznika može odbiti od porezne osnovice i u drugoj jurisdikciji, porezni obveznik može iskazati porezno priznati odbitak samo do iznosa za koji se u drugoj jurisdikciji omogućuje prijeboj drugog odbitka s prihodom koji se dvostruko uključuje.
+
+(2) Ako je u slučaju iz stavka 1. ovoga članka druga jurisdikcija država članica, odbitak uskraćuje država za koju se smatra da u njoj porezni obveznik nije rezident u skladu s ugovorom o izbjegavanju dvostrukog oporezivanja.
+
+(3) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s neusklađenosti rezidentnosti.«.
+
+#### Članak 14.
+
+U članku 31. stavku 10. riječi: »se naknada plaća« zamjenjuju se riječima: »naknadu isplaćuje tuzemni ili inozemni isplatitelj«.
+
+#### Članak 15.
+
+U članku 35. iza stavka 6. dodaje se novi stavak 7. i stavci 8. i 9. koji glase:
+
+»(7) Iznimno od stavka 2. ovoga članka, u slučaju iz članka 29. stavka 3. točke 4. i točke 5. ovoga Zakona, kod otvaranja stečajnog postupka prijava poreza na dobit podnosi se u roku od 30 dana od isteka poreznog razdoblja, a u slučajevima iz točaka 7. i 8. istog članka u roku od osam dana od isteka poreznog razdoblja.
+
+(8) Ako porezni obveznik ne podnese poreznu prijavu prema ovom članku, obveza poreza na dobit utvrdit će se procjenom u skladu s općim poreznim propisom, uzimajući u obzir dostupne podatke iz prethodnih poreznih razdoblja, osobito ostvarene prihode, utvrđene porezne obveze, imovinu te stanje računa kod banaka.
+
+(9) U slučaju iz stavka 8. ovoga članka, ako se iz svih objektivnih okolnosti može utvrditi da se porezni obveznik ne ponaša kao poduzetnik, porezna obveza će se utvrditi procjenom kao da je došlo do okončanja postupka likvidacije ili drugog postupka kojim porezni obveznik okončava poslovanje u skladu s posebnim propisima.«.
+
+Dosadašnji stavak 7. postaje stavak 10.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 16.
+
+(1) Ovaj Zakon primjenjuje se u postupku podnošenja prijave poreza na dobit za 2020. godinu i nadalje odnosno za porezna razdoblja koja počinju teći od 1. siječnja 2020., osim članka 13. ovoga Zakona u dijelu kojim se u Zakon o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16. i 106/18.) dodaje članak 30.h čije odredbe propisuju porezni tretman u slučaju nastanka obrnute hibridne neusklađenosti, a koje se primjenjuju u postupku podnošenja prijave poreza na dobit za 2022. godinu i nadalje odnosno za porezna razdoblja koja počinju teći od 1. siječnja 2022.
+
+(2) Pri izračunu predujma poreza na dobit iz članka 34. stavka 1. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16. i 106/18.) za 2020. godinu, na temelju prijave poreza na dobit za 2019. godinu, primjenjuju se odredbe članka 10. ovoga Zakona.
+
+(3) Fizička osoba koja ostvaruje dohodak od samostalne djelatnosti prema propisima o oporezivanju dohotka obvezu plaćanja poreza na dobit za 2020. godinu utvrđuje prema uvjetima iz članka 2. stavka 2. ovoga Zakona.
+
+(4) Porezni obveznici koji utvrđuju poreznu osnovicu prema novčanom načelu ili u paušalnom iznosu, poreznu osnovicu za 2020. godinu utvrđuju prema odredbama članka 4. stavka 2. odnosno članka 5. ovoga Zakona.
+
+(5) Odredbe članaka 4., 8., 11. i 15. ovoga Zakona primjenjuju se na odgovarajući način i na porezne obveznike koji su prestali poslovati po skraćenom postupku bez likvidacije tijekom 2019. godine, ako nisu podnesene prijave poreza na dobit za razdoblje poslovanja tijekom 2019. godine.
+
+(6) Odredbe članka 5. ovoga Zakona mogu se primijeniti i na porezne obveznike kojima se tijekom 2020. godine utvrdi porezna obveza za prethodna porezna razdoblja.
+
+(7) Porezni obveznik iz stavka 5. ovoga članka dužan je za potrebe javne objave godišnjih financijskih izvještaja primijeniti odredbe Zakona o računovodstvu (»Narodne novine«, br. 120/15. i 116/18.) na način koji se primjenjuje u slučaju zaključenja postupka likvidacije.
+
+#### Članak 17.
+
+Ministar financija uskladit će Pravilnik o porezu na dobit (»Narodne novine«, br. 95/05., 133/07., 156/08., 146/09., 123/10., 137/11., 61/12., 146/12., 160/13., 12/14., 157/14., 137/15., 1/17., 2/18. i 1/19.) s odredbama ovoga Zakona u roku od 90 dana od njegova stupanja na snagu.
+
+#### Članak 18.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020., osim članka 30.h koji je dodan člankom 13. ovoga Zakona koji stupa na snagu 1. siječnja 2022.
+
+Klasa: 022-03/19-01/210
+
+Zagreb, 29. studenoga 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni i dopuni Zakona o porezu na dobit (NN 32/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/32/693*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI I DOPUNI ZAKONA O POREZU NA DOBIT
+
+Proglašavam Zakon o izmjeni i dopuni Zakona o porezu na dobit, koji je Hrvatski sabor donio na sjednici 19. ožujka 2020.
+
+Klasa: 011-01/20-01/20  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 19. ožujka 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI I DOPUNI ZAKONA O POREZU NA DOBIT**
+
+#### Članak 1.
+
+U Zakonu o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16., 106/18. i 121/19.) u članku 6. iza stavka 5. dodaju se novi stavak 6. i stavak 7. koji glase:
+
+»(6) Porezna osnovica iz članka 5. ovoga Zakona smanjuje se za iznos potpora primljenih radi ublažavanja negativnih posljedica u slučaju nastanka posebnih okolnosti u smislu općeg poreznog propisa.
+
+(7) Iznos primljene potpore iz stavka 6. ovoga članka ne utječe na prag prihoda iz članka 2. stavka 4., članka 5. stavka 7., članka 5.b stavka 1. i članka 28. ovoga Zakona.«.
+
+Dosadašnji stavak 6., koji postaje stavak 8., mijenja se i glasi:
+
+»(8) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi sa smanjenjem porezne osnovice.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 2.
+
+Ovaj Zakon primjenjuje se u postupku podnošenja prijave poreza na dobit za 2020. godinu i nadalje odnosno za porezna razdoblja koja su počela teći od 1. siječnja 2020., ako ta porezna razdoblja nisu završila prije stupanja na snagu ovoga Zakona, te u postupku podnošenja prijave poreza na dobit koja se podnosi za porezno razdoblje započeto prije 1. siječnja 2020., ako porezno razdoblje za koje se podnosi prijava poreza na dobit nije isteklo prije stupanja na snagu ovoga Zakona.
+
+#### Članak 3.
+
+Ovlašćuje se ministar financija uskladiti Pravilnik o porezu na dobit (»Narodne novine«, br. 95/05., 133/07., 156/08., 146/09., 123/10., 137/11., 61/12., 146/12., 160/13., 12/14., 157/14., 137/15., 1/17., 2/18., 1/19. i 1/20.) s odredbama ovoga Zakona u roku od 30 dana od dana njegova stupanja na snagu.
+
+#### Članak 4.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/28
+
+Zagreb, 19. ožujka 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dobit (NN 138/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/138/2627*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dobit, koji je Hrvatski sabor donio na sjednici 4. prosinca 2020.
+
+Klasa: 011-01/20-01/110
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 9. prosinca 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT**
+
+#### Članak 1.
+
+U Zakonu o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16., 106/18., 121/19. i 32/20.) u članku 5.a stavku 1. iza riječi: »Zakona« dodaju se riječi: »i/ili međunarodnih ugovora«.
+
+#### Članak 2.
+
+U članku 9. stavci 5., 6. i 7. mijenjaju se i glase:
+
+»(5) Iznimno od stavka 3. ovoga članka i članka 10. stavka 1. ovoga Zakona, porezno priznatim rashodom kreditne institucije smatra se iznos otpisa potraživanja (glavnice i kamate iskazane u prihodima) od nepovezane fizičke ili pravne osobe, a koja su prethodno bila vrijednosno umanjena i rezervirana u skladu s propisima Hrvatske narodne banke.
+
+(6) U slučaju iz stavka 5. ovoga članka kreditna institucija se odriče prava naplate otpisanog iznosa potraživanja te o istome dostavlja dužniku i jamcu pisanu izjavu o prestanku njihove obveze u navedenom iznosu otpisa, a iznos otpisane obveze ne smatra se oporezivim prihodom odnosno primitkom i nema utjecaja na druge pragove propisane ovim Zakonom.
+
+(7) Kreditna institucija dužna je uz prijavu poreza na dobit dostaviti pregled otpisa izvršenih sukladno stavcima 5. i 6. ovoga članka, u ukupnom iznosu te po pojedinom plasmanu i korisniku kredita.«.
+
+#### Članak 3.
+
+U članku 13. stavku 1. riječi: »tada se sva dobit u svoti u kojoj bi bila ostvarena, kad bi se radilo o odnosima između nepovezanih osoba, uključuje u poreznu osnovicu povezanih osoba« zamjenjuju se riječima: »tada porezni obveznik za iznos dobiti koja bi bila ostvarena, kada bi se radilo o odnosima između nepovezanih osoba, provodi usklađenje«.
+
+U stavku 4. iza riječi: »cijena« riječ: »i« briše se i dodaje se zarez, a iza riječi: »konkretnih metoda« dodaju se riječi: »te načinu na koji se provodi usklađenje«.
+
+#### Članak 4.
+
+U članku 28. točki 1. riječi: »12%« zamjenjuju se riječima: »10%«.
+
+#### Članak 5.
+
+U članku 29. stavku 6. riječi: »stavka 4.« zamjenjuju se riječima: »stavka 5.«.
+
+#### Članak 6.
+
+U članku 31. stavku 7. riječi: »12%« zamjenjuju se riječima: »10%«.
+
+U stavku 10. riječi: »15%« zamjenjuju se riječima: »10%«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 7.
+
+(1) Ovaj Zakon primjenjuje se u postupku podnošenja prijave poreza na dobit za 2021. i nadalje odnosno za porezna razdoblja koja počinju teći od 1. siječnja 2021.
+
+(2) Pri izračunu predujma poreza na dobit iz članka 5.b stavka 5. i članka 34. stavka 1. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16., 106/18., 121/19. i 32/20.) za 2021. godinu, temeljem prijave poreza na dobit za 2020. godinu, primjenjuju se odredbe članka 4. ovoga Zakona.
+
+(3) Ministar financija uskladit će Pravilnik o porezu na dobit (»Narodne novine«, br. 95/05., 133/07., 156/08., 146/09., 123/10., 137/11., 61/12., 146/12., 160/13., 12/14., 157/14., 137/15., 1/17., 2/18., 1/19., 1/20. i 59/20.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+#### Članak 8.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2021.
+
+Klasa: 022-03/20-01/122
+
+Zagreb, 4. prosinca 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o porezu na dobit (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1679*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O POREZU NA DOBIT
+
+Proglašavam Zakon o izmjenama Zakona o porezu na dobit, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/77  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 28. rujna 2022,
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O POREZU NA DOBIT**
+
+#### Članak 1.
+
+U Zakonu o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16., 106/18., 121/19., 32/20. i 138/20.) u članku 2. stavku 4. riječi: »7.500.000,00 kuna« zamjenjuju se riječima: »995.421,06 eura«.
+
+#### Članak 2.
+
+U članku 5. stavku 7. riječi: »7.500.000,00 kuna« zamjenjuju se riječima: »995.421,06 eura«.
+
+#### Članak 3.
+
+U članku 5.b stavku 1. riječi: »7.500.000,00 kuna« zamjenjuju se riječima: »995.421,06 eura«.
+
+#### Članak 4.
+
+U članku 7. stavku 6. riječi: »160,00 kuna« zamjenjuju se riječima: »21,24 eura«.
+
+#### Članak 5.
+
+U članku 9. stavku 4. riječi: »ne prelaze 5.000,00 kuna« zamjenjuju se riječima: »ne prelaze 663,61 euro«, a riječi: »do 200,00 kuna« zamjenjuju se riječima: »do 26,54 eura«.
+
+#### Članak 6.
+
+U članku 12. stavku 3. riječi: »3.500,00 kuna« zamjenjuju se riječima: »464,53 eura«.
+
+U stavku 13. riječi: »400.000,00 kuna« zamjenjuju se riječima: »53.089,12 eura«.
+
+#### Članak 7.
+
+U članku 28. točki 1. riječi: »7.500.000,00 kuna« zamjenjuju se riječima: »995.421,06 eura«.
+
+U točki 2. riječi: »jednaki ili veći od 7.500.000,01 kuna« zamjenjuju se riječima: »veći od 995.421,06 eura.«.
+
+#### Članak 8.
+
+U članku 38. stavku 1. riječi: »2.000,00 kuna do 200.000,00 kuna« zamjenjuju se riječima: »260,00 eura do 26.540,00 eura«.
+
+U stavku 2. riječi: »2.000,00 kuna do 20.000,00 kuna« zamjenjuju se riječima: »260,00 eura do 2650,00 eura«.
+
+U stavku 3. riječi: » od 3.000,00 kuna do 300.000,00 kuna« zamjenjuju se riječima: »od 390,00 eura do 39.810,00 eura«, a riječi: »od 3.000,00 kuna do 30.000,00 kuna« zamjenjuju se riječima: »od 390,00 eura do 3980,00 eura«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 9.
+
+Razlike koje porezni obveznik utvrdi i evidentira primjenom pravila za preračunavanje i zaokruživanje ili za otpise po službenoj dužnosti, u skladu sa Zakonom o uvođenju eura kao službene valute u Republici Hrvatskoj (»Narodne novine«, br. 57/22. i 88/22.), uključuju se u poreznu osnovicu.
+
+#### Članak 10.
+
+Ministar financija uskladit će Pravilnik o porezu na dobit (»Narodne novine«, br. 95/05., 133/07., 156/08., 146/09., 123/10., 137/11., 61/12., 146/12., 160/13., 12/14., 157/14., 137/15., 1/17., 2/18., 1/19., 1/20., 59/20. i 1/21.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 11.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/76  
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dobit (NN 114/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1613*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dobit, koji je Hrvatski sabor donio na sjednici 28. rujna 2023.
+
+Klasa: 011-02/23-02/75  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 3. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT**
+
+#### Članak 1.
+
+U Zakonu o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16., 106/18., 121/19., 32/20., 138/20. i 114/22.) u članku 2. stavku 4. riječi: »995.421,06 eura« zamjenjuju se riječima: »1.000.000,00 eura«.
+
+#### Članak 2.
+
+U članku 5. stavku 7. riječi: »995.421,06 eura« zamjenjuju se riječima: »1.000.000,00 eura«.
+
+#### Članak 3.
+
+U članku 5.b stavku 1. riječi: »995.421,06 eura« zamjenjuju se riječima: »1.000.000,00 eura«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Godišnji porez u paušalnom iznosu, iznos predujma paušalnog poreza i razlika godišnjeg paušalnog poreza za uplatu ili povrat utvrđuje se na temelju izvješća iz stavka 6. ovoga članka, koje porezni obveznik podnosi Poreznoj upravi najkasnije u roku od 15 dana od dana isteka poreznog razdoblja za koje se izvješće podnosi, pri čemu razlika uplate godišnjeg paušalnog poreza dospijeva 15-og dana od dana isteka poreznog razdoblja, a isti dan se utvrđuje pravo na povrat preplaćenog iznosa godišnjeg paušalnog poreza i vraća se poreznom obvezniku nakon podnošenja zahtjeva.«.
+
+#### Članak 4.
+
+U članku 7. stavku 1. točka 10. mijenja se i glasi:
+
+»10. za darovanja iznad svote iz stavaka 7. i. 9. ovoga članka i za darovanja koja poreznom obvezniku ili povezanoj osobi donose izravnu ili neizravnu korist,«.
+
+U stavku 6. riječi: »21,24 eura« zamjenjuju se riječima: »22,00 eura«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Porezno priznatim rashodima darovanja smatraju se darovanja u naravi ili novcu, u iznosu do 2 % prihoda ostvarenog prethodnog ili tekućeg poreznog razdoblja, koja su učinjena u tuzemstvu za kulturne, znanstvene, odgojno-obrazovne, zdravstvene, humanitarne, sportske, vjerske, ekološke i druge općekorisne svrhe udrugama, tijelima državne uprave, lokalne i područne (regionalne) samouprave i drugim osobama koje navedene djelatnosti obavljaju u skladu s posebnim propisima.«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Iznimno od stavka 7. ovoga članka, darovanja dana za svrhe utvrđene strateškim projektima prema posebnim propisima ili strategijom nadležnih ministarstava mogu biti utvrđena u iznosu većem od 2 % prihoda ostvarenog prethodnog ili tekućeg poreznog razdoblja na temelju Odluke nadležnog ministarstva donesene uz suglasnost Vlade Republike Hrvatske.«.
+
+Dosadašnji stavci 8. i 9. postaju stavci 9. i 10.
+
+Iza dosadašnjeg stavka 10., koji postaje stavak 11., dodaje se stavak 12. koji glasi:
+
+»(12) Ministar financija pravilnikom propisuje postupak priznavanja rashoda iz stavaka 7. i 8. ovoga članka.«.
+
+#### Članak 5.
+
+Iza članka 7. dodaje se članak 7.a koji glasi:
+
+»Članak 7.a
+
+(1) Svaka nepripadna nagrada, dar ili druga imovinska ili neimovinska korist bez obzira na vrijednost, koja se može sankcionirati sukladno propisima kaznenog zakonodavstva, ne priznaje se kao porezno priznat trošak poslovanja.
+
+(2) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s utvrđivanjem porezne osnovice.«.
+
+#### Članak 6.
+
+U članku 9. stavku 4. riječi: »663,61 euro« zamjenjuju se riječima: »665,00 eura«, a riječi: »do 26,54 eura« zamjenjuju se riječima: »do 40,00 eura«.
+
+#### Članak 7.
+
+U članku 12. stavku 3. riječi: »464,53 eura« zamjenjuju se riječima: »665,00 eura«.
+
+U stavku 13. riječi: »53.089,12 eura« zamjenjuju se riječima: »54.000,00 eura«.
+
+Stavak 23. mijenja se i glasi:
+
+»(23) Oporezivim prihodom ne smatra se iznos razlike između ostvarenih bespovratnih novčanih sredstava isplaćenih iz fondova Europske unije i državnog proračuna Republike Hrvatske za provedbu mjere trajne obustave ribolovne aktivnosti ili mjere trajnog ukidanja prava na obavljanje ribolova obalnim mrežama potegačama, malim plivaricama i gospodarskog sakupljanja crvenog koralja uz uništenje plovila ili ribolovnih alata, u skladu s posebnim propisima, i neamortiziranog troška nabave uništenog plovila odnosno ribolovnih alata prema stavku 10. ovoga članka.«.
+
+#### Članak 8.
+
+U članku 28. stavku 1. točki 1. riječi: »995.421,06 eura« zamjenjuju se riječima: 1.000.000,00 eura«.
+
+U točki 2. riječi: »995.421,06 eura« zamjenjuju se riječima: »1.000.000,00 eura«.
+
+#### Članak 9.
+
+U članku 31. stavak 6. mijenja se i glasi:
+
+»(6) Porez po odbitku plaća se po stopi od 15 %.«.
+
+Stavak 7. mijenja se i glasi:
+
+»(7) Iznimno od stavka 6. ovoga članka, porez po odbitku na dividende i udjele u dobiti plaća se po stopi od 10 %.«.
+
+Stavak 12. mijenja se i glasi:
+
+»(12) Porez po odbitku plaća se po stopi od 25 % na sve vrste naknada i usluga oporezivih prema ovom članku te na usluge istraživanja tržišta, poreznog i poslovnog savjetovanja i revizorske usluge, kada se plaćaju osobama koje imaju sjedište ili mjesto stvarne uprave odnosno nadzora poslovanja u državama koje se nalaze na EU popisu nekooperativnih jurisdikcija u porezne svrhe, a s kojima Republika Hrvatska ne primjenjuje ugovor o izbjegavanju dvostrukog oporezivanja.«.
+
+#### Članak 10.
+
+U članku 31.b iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Ako u trenutku isplate nije ispunjen uvjet minimalnog zadržavanja udjela u neprekinutom razdoblju od 24 mjeseca iz stavka 3. ovoga članka, isplata se može izvršiti neoporezivo pod uvjetom da porezni obveznik dostavi odgovarajuće jamstvo.
+
+(5) Ministar financija pravilnikom će propisati uvjete prihvaćanja odgovarajućeg jamstva.«.
+
+#### Članak 11.
+
+Iza članka 31.e dodaje se članak 31.f koji glasi:
+
+»Članak 31.f
+
+(1) Odredbe članaka 31.a do 31.e ovoga Zakona koje se odnose na društva koja su za porezne svrhe rezidenti u državi članici EU-a na odgovarajući način se primjenjuju i za društva koja su za porezne svrhe rezidenti u državi članici Europskoga gospodarskog prostora.
+
+(2) Način provedbe stavka 1. ovoga članka propisat će pravilnikom ministar financija na način da će sve postupke predviđene za društva iz država članica EU-a prilagoditi i za društva iz država članica Europskoga gospodarskog prostora.«.
+
+#### Članak 12.
+
+U članku 35. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Porezni obveznik podnosi Prijavu poreza na dobit za porezno razdoblje najkasnije četiri mjeseca nakon isteka razdoblja za koje se utvrđuje porez na dobit.
+
+(2) Porezna obveza i/ili razlika za uplatu iskazana u podnesenoj Prijavi poreza na dobit dospijeva na zadnji dan roka iz stavka 1. ovoga članka.«.
+
+U stavku 5. iza riječi: »porezne prijave« dodaju se riječi: »utvrđuje se na zadnji dan roka za podnošenje Prijave poreza na dobit iz stavka 1. ovoga članka i«.
+
+U stavku 7. riječi: »stavka 2.« zamjenjuju se riječima: »stavka 1.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 13.
+
+(1) Ovaj Zakon primjenjuje se u postupku podnošenja prijave poreza na dobit za 2024. godinu i nadalje odnosno za porezna razdoblja koja počinju teći od 1. siječnja 2024., osim članka 35. stavaka 1., 2., 5. i 7. koji se mijenja člankom 12. ovoga Zakona, a koji se primjenjuje na prijave poreza na dobit koje se podnose nakon 31. prosinca 2023. odnosno za porezno razdoblje koje završava 31. prosinca 2023.
+
+(2) Odredba članka 5.b stavka 5. koja je izmijenjena člankom 3. ovoga Zakona primjenjuje se na izvješća koja se podnose nakon 31. prosinca 2023. odnosno za porezno razdoblje koje završava 31. prosinca 2023.
+
+(3) Pri izračunu predujma poreza na dobit iz članka 34. stavka 1. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16., 106/18., 121/19., 32/20., 138/20. i 114/22.) za 2024. godinu, na temelju prijave poreza na dobit za 2023. godinu, primjenjuje se članak 8. ovoga Zakona.
+
+#### Članak 14.
+
+Ministar financija uskladit će Pravilnik o porezu na dobit (»Narodne novine«, br. 95/05., 133/07., 156/08., 146/09., 123/10., 137/11., 61/12., 146/12., 160/13., 12/14., 157/14., 137/15., 1/17., 2/18., 1/19., 1/20., 59/20., 1/21. i 156/22.) s odredbama ovoga Zakona u roku od 60 dana od dana njegova stupanja na snagu.
+
+#### Članak 15.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu osmoga dana od dana objave, osim članaka 1. do 4., članaka 6. do 8. i članka 12. koji stupaju na snagu 1. siječnja 2024.
+
+Klasa: 022-02/23-01/56
+
+Zagreb, 28. rujna 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o porezu na dobit (NN 151/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/151/2261*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dobit, koji je Hrvatski sabor donio na sjednici 5. prosinca 2025.
+
+Klasa: 011-02/25-02/106  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 9. prosinca 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT**
+
+#### Članak 1.
+
+U Zakonu o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16., 106/18., 121/19., 32/20., 138/20., 114/22. i 114/23.) u članku 2. stavak 8. mijenja se i glasi:
+
+»(8) Porezni obveznici izuzeti od oporezivanja porezom na dobit su mirovinski i investicijski fondovi bez pravne osobnosti koji su osnovani i posluju u skladu s posebnim propisom.«.
+
+Iza stavka 8. dodaje se novi stavak 9. koji glasi:
+
+»(9) Na fondove iz stavka 8. ovoga članka ne primjenjuju se druge odredbe ovoga Zakona i posebnih propisa koje se primjenjuju na obveznike poreza na dobit, osim u slučaju investicijskog fonda za koji je utvrđeno kako je osnovan radi iskorištavanja porezne pogodnosti odnosno na koji se ne može primijeniti izuzeće od oporezivanja.«.
+
+Iza dosadašnjeg stavka 9., koji postaje stavak 10., dodaje se stavak 11. koji glasi:
+
+»(11) Ministar financija pravilnikom propisuje način utvrđivanja investicijskih fondova iz stavka 9. ovoga članka na koje se ne može primijeniti izuzeće od oporezivanja.«.
+
+#### Članak 2.
+
+U članku 6. stavku 1. iza točke 5. dodaje se točka 6. koja glasi:
+
+»6. za sponzorstava učinjena u tuzemstvu za kulturne, znanstvene, odgojno-obrazovne, zdravstvene, humanitarne, sportske, vjerske, ekološke i druge općekorisne svrhe subjektima kao što su udruge, zaklade, ustanove, samostalni umjetnici, pravne i fizičke osobe u sustavu sporta, tijela državne uprave te jedinice lokalne i područne (regionalne) samouprave ili drugim subjektima koji navedene djelatnosti obavljaju u skladu s posebnim propisima, a koji provode programe i aktivnosti od interesa za Republiku Hrvatsku.«.
+
+Iza stavka 7. dodaje se novi stavak 8. koji glasi:
+
+»(8) Ministar nadležan za aktivnosti iz stavka 1. točke 6. ovoga članka uz prethodnu suglasnost ministra financija odlukom utvrđuje subjekte koji ispunjavaju uvjete za smanjenje porezne osnovice iz stavka 1. točke 6. ovoga članka.«.
+
+Dosadašnji stavak 8. postaje stavak 9.
+
+#### Članak 3.
+
+U članku 7. stavku 9. riječ: »žiroračun« zamjenjuje se riječju: »račun«.
+
+#### Članak 4.
+
+U članku 13. stavak 3. mijenja se i glasi:
+
+»(3) Pri utvrđivanju i procjeni jesu li poslovni odnosi između povezanih osoba iz stavka 2. ovoga članka ugovoreni po tržišnim cijenama može se koristiti jedna od sljedećih metoda:
+
+a) Metoda usporedivih nekontroliranih cijena po kojoj se cijene za prodane proizvode, robu ili usluge u kontroliranim poslovima uspoređuju s onima u nekontroliranim poslovima i usporedivim okolnostima
+
+b) Metoda preprodajne cijene po kojoj se utvrđuje cijena po kojoj se roba nabavljena od povezanih osoba prodaje nepovezanim osobama. Tako utvrđena cijena umanjuje se za odgovarajuću bruto trgovačku maržu koja se može postići u postojećim tržišnim uvjetima. Dobiveni ostatak, nakon usklađenja za ostale troškove u vezi s kupnjom proizvoda, je cijena po kojoj je roba mogla biti nabavljena od nepovezanih osoba
+
+c) Metoda trošak plus po kojoj se prvo utvrđuju troškovi proizvoda, poluproizvoda ili usluga koje je imala osoba koja je proizvode, poluproizvode ili usluge prodala drugoj povezanoj osobi. Na tako utvrđene troškove dodaje se odgovarajuća brutodobit koja se može postići u postojećim tržišnim uvjetima. Tako dobiveni iznos je cijena po kojoj su proizvodi, poluproizvodi ili usluge mogli biti nabavljeni od nepovezanih osoba
+
+d) Transakcijska metoda podjele dobiti identificira relevantnu dobit koja će se podijeliti između povezanih društava iz kontrolirane transakcije ili kontroliranih transakcija koje je prikladno agregirati, a zatim dijeli tu dobit između povezanih društava na gospodarski valjanoj osnovi koja je približna raspodjeli dobiti prema načelu nepristrane transakcije
+
+e) Metoda transakcijske netomarže po kojoj se ispituje ostvarena netomarža dobiti u odnosu na odgovarajuću osnovicu, kao što su ukupni troškovi, prihodi od prodaje, imovina ili vlastiti kapital koju jedna osoba ostvaruje u poslovima s jednom ili više povezanih osoba. Tako ostvarena netodobit uspoređuje se s netodobitkom sličnih osoba u sličnim okolnostima
+
+f) Osim metoda navedenih u točkama (a) do (e) iz ovoga stavka, porezni obveznik može koristiti i druge metode za određivanje cijena pod uvjetom da te cijene zadovoljavaju načelo nepristrane transakcije. Druge metode koriste se samo ako metode iz točaka (a) do (e) ovoga stavka nisu primjerene činjenicama i okolnostima slučaja.«.
+
+#### Članak 5.
+
+U članku 14.a stavku 1. iza riječi: »prije nego što su započele,« dodaju se riječi: »a u poslovno opravdanim okolnostima i za transakcije koje su već u tijeku«.
+
+#### Članak 6.
+
+U članku 18. stavku 6. broj: »1« zamjenjuje se brojem: »3«.
+
+#### Članak 7.
+
+Članak 30. mijenja se i glasi:
+
+»(1) Porezni obveznik koji u inozemstvu obavlja djelatnost putem stalne poslovne jedinice odnosno poslovne jedinice koja se u inozemstvu smatra poreznim obveznikom i za koju u inozemstvu za porezne potrebe vodi poslovne knjige, podnosi poreznu prijavu i plaća porez na dobit ili njemu istovrsni porez, inozemnu pozitivnu poreznu osnovicu uključuje u tuzemnu poreznu osnovicu, a plaćeni porez se uračunava u tuzemni porez u istom poreznom razdoblju, i to do propisanog iznosa prema stavku 2. ovoga članka.
+
+(2) Iznos poreza plaćenog u inozemstvu prema stavku 1. ovoga članka koji se može uračunati u tuzemni porez izračunava se tako da se na poreznu osnovicu ostvarenu u inozemstvu na koju je obračunan inozemni porez na dobit primijeni tuzemna porezna stopa u skladu s člankom 28. ovoga Zakona u istom poreznom razdoblju, ali najviše do iznosa porezne obveze utvrđene u tuzemstvu i ne više od iznosa plaćanog poreza u inozemstvu.
+
+(3) U slučaju primjene ugovora o izbjegavanju dvostrukog oporezivanja s državom u kojoj se nalazi stalna poslovna jedinica iz stavka 1. ovoga članka porezni obveznik na odgovarajući način uz taj ugovor primjenjuje odredbe stavaka 1. i 2. ovoga članka.
+
+(4) Kada porezni obveznik u državi s kojom je u primjeni ugovor o izbjegavanju dvostrukog oporezivanja plati porez po odbitku na prihode uključene u poreznu osnovicu, taj porez može uračunati u tuzemni porez u istom poreznom razdoblju u skladu s ugovorom, ali najviše do iznosa porezne obveze utvrđene u tuzemstvu i ne više od iznosa plaćenog poreza u inozemstvu.
+
+(5) Ako porezni obveznik u inozemstvu plati porez po odbitku ili neki drugi porez na ostvarene prihode uključene u poreznu osnovicu, a koji nisu obuhvaćeni ugovorima o izbjegavanju dvostrukog oporezivanja ili takav ugovor ne postoji, tako plaćeni porez može umanjiti poreznu osnovicu u istom poreznom razdoblju.
+
+(6) Ovaj članak primjenjuje se pod uvjetom da je utvrđeni plaćeni porez u inozemstvu bez prava na povrat i na temelju potvrde inozemnog poreznog tijela ili za to ovlaštene osobe o uplaćenom porezu u inozemstvu.
+
+(7) Ministar financija pravilnikom propisuje postupak uračunavanja ili uključivanja u tuzemnu poreznu osnovicu poreza plaćenog u inozemstvu.«.
+
+#### Članak 8.
+
+U članku 32. stavku 2. riječi: »s danom podnošenja porezne prijave« zamjenjuju se riječima: »koji dospijeva na zadnji dan propisanog roka za podnošenje porezne prijave, a u slučaju skraćivanja poreznog razdoblja ili okončanja poslovanja po bilo kojoj osnovi, obveze po podnesenim poreznim prijavama dospijevaju na zadnji dan roka za podnošenje zadnje porezne prijave«.
+
+#### Članak 9.
+
+U članku 33. stavak 2. mijenja se i glasi:
+
+»(2) Kada se u skladu s odredbama ovoga Zakona privremeno isključuju određeni podaci evidentirani u poslovnim knjigama iz stavka 1. ovoga članka, uvećanjem ili umanjenjem porezne osnovice, a koji se mogu uključiti u budućim poreznim razdobljima, ili ako se određeni prihodi i rashodi vezani uz jedan poslovni događaj evidentiraju tijekom više poreznih razdoblja, porezni obveznik dužan je osigurati dokumentaciju o prethodnom poreznom tretmanu.«.
+
+#### Članak 10.
+
+U članku 35. stavku 3. riječi: »koji je prema računovodstvenim propisima razvrstan u velike i srednje poduzetnike« brišu se.
+
+U stavku 8. iza riječi: »ovom članku« dodaju se riječi: »ili izvješće iz članka 5.b stavka 5. ovoga Zakona«.
+
+#### Članak 11.
+
+U članku 36. ispred riječi: »Na« dodaje se oznaka stavka: »(1)«
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Iznimno od stavka 1. ovoga članka, na dodijeljene državne potpore iz članka 6. stavka 4. ovoga Zakona primjenjuju se odredbe posebnih propisa koje se odnose na zastaru prava na naplatu ili ispravak porezne prijave na temelju kojih su potpore i odobrene.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 12.
+
+Ministar financija uskladit će Pravilnik o porezu na dobit (»Narodne novine«, br. 95/05., 133/07., 156/08., 146/09., 123/10., 137/11., 61/12., 146/12., 160/13., 12/14., 157/14., 137/15., 1/17., 2/18., 1/19., 1/20., 59/20., 1/21., 156/22., 156/23. i 16/25.) s odredbama ovoga Zakona u roku od 60 dana od dana njegova stupanja na snagu.
+
+#### Članak 13.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2026.
+
+Klasa: 022-02/25-01/120
+
+Zagreb, 5. prosinca 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

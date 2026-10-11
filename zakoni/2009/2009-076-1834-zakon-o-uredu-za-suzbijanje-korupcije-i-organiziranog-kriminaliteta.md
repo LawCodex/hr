@@ -6,16 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2009-07-01
-last_amended: 2013-12-11
+last_amended: 2025-11-05
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "76/09, 116/10, 57/11, 136/12, 148/13"
+narodne_novine: "76/09, 116/10, 57/11, 136/12, 148/13, 70/17, 136/25"
 amendments:
   - "NN 116/2010 (3054) Zakon o izmjeni i dopuni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta"
   - "NN 57/2011 (1256) Zakon o izmjeni i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta"
   - "NN 136/2012 (2882) Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta"
   - "NN 148/2013 (3147) Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta"
+  - "NN 70/2017 (1664) Zakon o izmjeni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta"
+  - "NN 136/2025 (2017) Zakon o izmjenama i dopunama Zakona o uredu za suzbijanje korupcije i organiziranog kriminaliteta"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/76/1834"
 retrieved: 2026-10-12
 ---
@@ -24,7 +26,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 76/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/76/1834).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 116/2010, NN 57/2011, NN 136/2012, NN 148/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 116/2010, NN 57/2011, NN 136/2012, NN 148/2013, NN 70/2017, NN 136/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1275,3 +1277,406 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjeni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta (NN 70/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1664*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O UREDU ZA SUZBIJANJE KORUPCIJE I ORGANIZIRANOG KRIMINALITETA
+
+Proglašavam Zakon o izmjeni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta, koji je Hrvatski sabor donio na sjednici 7. srpnja 2017. godine.
+
+Klasa: 011-01/17-01/59
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 13. srpnja 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O UREDU ZA SUZBIJANJE KORUPCIJE I ORGANIZIRANOG KRIMINALITETA**
+
+#### Članak 1.
+
+U Zakonu o Uredu za suzbijanje korupcije i organiziranog kriminaliteta (»Narodne novine«, br. 76/09., 116/10., 145/10., 57/11., 136/12. i 148/13.) glava IV. »Osiguranje prisilnog oduzimanja sredstava, prihoda ili imovine ostvarene kaznenim djelom« te članci 50. – 57. i članci 59. – 61. brišu se.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Mjere osiguranja prisilnog oduzimanja imovinske koristi ostvarene kaznenim djelom, određene sukladno odredbama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta (»Narodne novine«, br. 76/09., 116/10., 145/10., 57/11., 136/12. i 148/13.) do stupanja na snagu ovoga Zakona, ostaju na snazi. Daljnje postupanje po tim mjerama provest će se u skladu s odredbama zakona kojim se uređuje kazneni postupak.
+
+#### Članak 3.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/12
+
+Zagreb, 7. srpnja 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o uredu za suzbijanje korupcije i organiziranog kriminaliteta (NN 136/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/136/2017*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O UREDU ZA SUZBIJANJE KORUPCIJE I ORGANIZIRANOG KRIMINALITETA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta, koji je Hrvatski sabor donio na sjednici 24. listopada 2025.
+
+Klasa: 011-02/25-02/84  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 30. listopada 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O UREDU ZA SUZBIJANJE KORUPCIJE I ORGANIZIRANOG KRIMINALITETA**
+
+#### Članak 1.
+
+U Zakonu o Uredu za suzbijanje korupcije i organiziranog kriminaliteta (»Narodne novine«, br. 76/09., 116/10., 145/10., 57/11., 136/12., 148/13. i 70/17.) u članku 1. stavku 1. točka 4. briše se.
+
+Dosadašnje točke 5. i 6. postaju točke 4. i 5.
+
+#### Članak 2.
+
+Članak 1.a mijenja se i glasi:
+
+»Ovim se Zakonom u pravni poredak Republike Hrvatske prenosi Okvirna odluka Vijeća od 13. lipnja 2002. o zajedničkim istražnim timovima (2002/465/PUP) (SL L 162, 20. 6. 2002.).«.
+
+#### Članak 3.
+
+U članku 2. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Ako u ovom Zakonu nije što drukčije propisano, na unutarnje ustrojstvo i poslovanje Ureda primjenjuju se odredbe zakona kojim se propisuje ustrojstvo i nadležnost državnih odvjetništava.
+
+(3) Ured ima pečat koji sadrži naziv i sjedište Ureda te naziv i grb Republike Hrvatske. Na zgradi u kojoj je smješten Ured moraju biti istaknuti naziv Ureda, grb i zastava Republike Hrvatske.«.
+
+#### Članak 4.
+
+U članku 3. stavku 1. riječi: »koji ispunjava uvjete za imenovanje za zamjenika Glavnoga državnog odvjetnika« brišu se.
+
+Stavci 4. i 5. mijenjaju se i glase:
+
+»(4) Postupak za imenovanje Ravnatelja Glavni državni odvjetnik pokreće četiri mjeseca prije isteka vremena na koje je Ravnatelj imenovan odnosno najkasnije 30 dana nakon prestanka dužnosti Ravnatelja zbog drugih zakonom određenih razloga.
+
+(5) Kandidat za Ravnatelja daje izjavu kojom pristaje na sigurnosnu provjeru.«.
+
+Stavak 6. briše se.
+
+Dosadašnji stavak 7., koji postaje stavak 6., mijenja se i glasi:
+
+»(6) Sigurnosna provjera provodi se sukladno posebnim propisima.«.
+
+#### Članak 5.
+
+Članak 4. mijenja se i glasi:
+
+»(1) Ravnatelj se imenuje na vrijeme od četiri godine. Nakon isteka vremena na koje je imenovan Ravnatelj može biti ponovno imenovan na tu dužnost. Nitko ne može biti imenovan na ovu dužnost više od dva puta uzastopce.
+
+(2) Ravnatelju dužnost prestaje:
+
+1. istekom vremena na koje je imenovan,
+
+2. prestankom državnoodvjetničke dužnosti,
+
+3. razrješenjem.
+
+(3) Ravnatelj se razrješava:
+
+1. na vlastiti zahtjev,
+
+2. ako poslove državnoodvjetničke uprave obavlja protivno propisima,
+
+3. ako ne poduzima mjere iz svojih ovlasti za učinkovit rad Ureda,
+
+4. ako propuštanjem nadzora neposredno krši propise o dodjeljivanju predmeta u rad,
+
+5. ako kršenjem propisa ili na drugi način povrijedi načelo samostalnosti zamjenika ravnatelja u radu,
+
+6. ako svojim ponašanjem nanese štetu ugledu Ureda ili državnoodvjetničke dužnosti,
+
+7. ako počini djelo koje odgovara stegovnom djelu,
+
+8. ako ne pristane na sigurnosnu provjeru ili ometa njezinu provedbu ili se u postupku obnavljanja sigurnosne provjere utvrdi postojanje sigurnosne zapreke.
+
+(4) Odluke o prestanku dužnosti Ravnatelja donosi Glavni državni odvjetnik.
+
+(5) U slučajevima iz stavka 2. točaka 1. i 3. ovoga članka Ravnatelj nastavlja obnašati dužnost zamjenika državnog odvjetnika u državnom odvjetništvu u kojem je imenovan.
+
+(6) Ravnatelj ima prava i dužnosti državnog odvjetnika.«.
+
+#### Članak 6.
+
+U članku 5. stavku 1. drugoj rečenici, iza riječi: »odvjetnika« dodaju se riječi: »sukladno Okvirnim mjerilima za rad zamjenika državnih odvjetnika«.
+
+#### Članak 7.
+
+Članak 6. mijenja se i glasi:
+
+»(1) Broj službenika i namještenika za obavljanje stručnih, uredskih i tehničkih poslova utvrđuje ministar nadležan za poslove pravosuđa u skladu s mjerilima za određivanje broja službenika i namještenika u državnom odvjetništvu.
+
+(2) Ravnatelj donosi pravilnik o unutarnjem redu Ureda uz prethodnu suglasnost ministra nadležnog za poslove pravosuđa.«.
+
+#### Članak 8.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Za zamjenika ravnatelja u Ured može biti raspoređen državni odvjetnik ili zamjenik državnog odvjetnika koji je najmanje osam godina obnašao pravosudnu dužnost te koji ima izražene sklonosti i sposobnosti za istraživanje najtežih i najsloženijih kaznenih djela.
+
+(2) Stručno znanje i sposobnost državnog odvjetnika ili zamjenika državnog odvjetnika iz stavka 1. ovoga članka za istraživanje najtežih i najsloženijih kaznenih djela utvrđuje se na temelju mišljenja o radu kandidata koje za državnog odvjetnika daje neposredno viši državni odvjetnik, a za zamjenika državnog odvjetnika državni odvjetnik u državnom odvjetništvu u kojem zamjenik obnaša državnoodvjetničku dužnost i ocjene o obnašanju državnoodvjetničke dužnosti, koja mora biti najmanje »vrlo uspješno obnaša dužnost«.«.
+
+#### Članak 9.
+
+Članak 9. mijenja se i glasi:
+
+»(1) Slobodno mjesto zamjenika ravnatelja Ured oglašava na mrežnim stranicama Ureda, a objavljuje se i na mrežnim stranicama Državnog odvjetništva Republike Hrvatske. Kandidati mogu podnijeti prijavu na oglas u roku od 30 dana od dana objave.
+
+(2) Zamjenika ravnatelja raspoređuje na rad u Ured Glavni državni odvjetnik na prijedlog Ravnatelja na vrijeme od četiri godine, a nakon isteka toga vremena zamjenik ravnatelja može biti ponovno raspoređen na rad u Ured.
+
+(3) Ako zamjenik ravnatelja ne bude ponovno raspoređen na rad u Ured, nastavlja obnašati dužnost zamjenika državnog odvjetnika u državnom odvjetništvu u kojem je imenovan.
+
+(4) U postupku raspoređivanja zamjenika ravnatelja na odgovarajući način primjenjuju se odredbe članka 3. stavaka 5. i 6. ovoga Zakona.«.
+
+#### Članak 10.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Glavni državni odvjetnik, na zahtjev zamjenika ravnatelja, donosi odluku o prestanku njegova rasporeda na rad u Ured prije isteka vremena na koje je raspoređen.
+
+(2) Glavni državni odvjetnik, na prijedlog Ravnatelja, donosi odluku o prestanku rasporeda zamjenika ravnatelja na rad u Ured prije isteka vremena na koje je raspoređen ako ne ostvari očekivane rezultate rada u predmetima iz nadležnosti Ureda ili ako na temelju sigurnosne provjere utvrdi postojanje sigurnosne zapreke.«.
+
+#### Članak 11.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Ako za to postoje osobito važni razlozi, Glavni državni odvjetnik može na prijedlog Ravnatelja na rad u Ured uputiti državnog odvjetnika ili zamjenika državnog odvjetnika na vrijeme do godine dana, a upućivanje se može ponavljati dok takvi razlozi postoje.
+
+(2) U postupku upućivanja na rad u Ured iz stavka 1. ovoga članka na odgovarajući način primjenjuju se odredbe članka 3. stavaka 5. i 6. ovoga Zakona.
+
+(3) Državni odvjetnik ili zamjenik državnog odvjetnika iz stavka 1. ovoga članka ima prava i dužnosti zamjenika ravnatelja.«.
+
+#### Članak 12.
+
+Iza članka 11. dodaje se članak 11.a koji glasi:
+
+»Članak 11.a
+
+(1) Ako za to postoje osobito važni razlozi, Glavni državni odvjetnik može na prijedlog Ravnatelja državnom odvjetniku ili zamjeniku državnog odvjetnika povjeriti postupanje u predmetu iz nadležnosti Ureda na vrijeme do godine dana, a povjeravanje se može ponavljati dok takvi razlozi postoje.
+
+(2) U postupanju u predmetu iz stavka 1. ovoga članka državni odvjetnik ili zamjenik državnog odvjetnika ima ovlasti zamjenika ravnatelja.«.
+
+#### Članak 13.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Kandidat u postupku prijma državnih službenika i namještenika daje izjavu kojom pristaje na sigurnosnu provjeru.
+
+(2) Kandidat koji nije dao izjavu iz stavka 1. ovoga članka ili u odnosu na kojega se utvrdi postojanje sigurnosnih zapreka ne može biti primljen u državnu službu odnosno na rad u Ured.
+
+(3) Sigurnosna provjera provodi se sukladno posebnim propisima.«.
+
+#### Članak 14.
+
+Članak 13. mijenja se i glasi:
+
+»(1) U Uredu se ustrojavaju sljedeće ustrojstvene jedinice:
+
+1. Ured Ravnatelja,
+
+2. Odjel državnih odvjetnika koji nastupaju kao tužitelji (u daljnjem tekstu: Odjel tužitelja),
+
+3. Odjel za istraživanje imovinske koristi stečene kaznenim djelom,
+
+4. Odjel za međunarodnu suradnju i zajedničke istrage,
+
+5. Odjel za odnose s javnošću i za sprječavanje pojava korupcije i organiziranog kriminaliteta.
+
+(2) Osim onih navedenih u stavku 1. ovoga članka, u Uredu se mogu ustrojiti i druge ustrojstvene jedinice u skladu s posebnim propisima.
+
+(3) Ako ovim Zakonom nije drukčije propisano, na unutarnji ustroj i poslovanje Ureda primjenjuje se Poslovnik državnog odvjetništva.«.
+
+#### Članak 15.
+
+Članak 14. mijenja se i glasi:
+
+»Ured Ravnatelja obavlja poslove državnoodvjetničke uprave.«.
+
+#### Članak 16.
+
+Članak 15. mijenja se i glasi:
+
+»(1) Odjel tužitelja obavlja poslove državnoga odvjetnika i to:
+
+1. usmjerava rad policije i drugih tijela u otkrivanju kaznenih djela iz članka 21. ovoga Zakona i zahtijeva prikupljanje podataka o tim djelima,
+
+2. poduzima izvide kako bi se utvrdila vrijednost stečene imovinske koristi pribavljene počinjenjem kaznenog djela iz članka 21. ovoga Zakona te gdje se tako stečena imovina nalazi i predlaže primjenu mjera osiguranja prisilnog oduzimanja te imovine predviđenih ovim Zakonom i drugim propisima,
+
+3. obavlja i druge poslove državnog odvjetnika prema zakonu kojim se uređuje kazneni postupak i drugim propisima, te obavlja i druge poslove prema rasporedu poslova u Uredu.
+
+(2) Ako je to potrebno zbog velikog broja predmeta, u Odjelu tužitelja mogu se osnovati odsjeci za postupanje pred županijskim sudovima u Osijeku, Rijeci i Splitu.«.
+
+#### Članak 17.
+
+Članak 16. mijenja se i glasi:
+
+»(1) Odjel za istraživanje imovinske koristi stečene kaznenim djelom, u dogovoru i po nalogu zamjenika ravnatelja koji je zadužen za predmet, provodi izvide ako postoje osnove sumnje da je kaznenim djelom iz članka 21. ovoga Zakona ostvarena znatna imovinska korist.
+
+(2) Izvidi se provode radi utvrđivanja točne vrijednosti imovinske koristi, pronalaženja imovine stečene kaznenim djelom te osiguranja njezina oduzimanja.
+
+(3) U radu Odjela za istraživanje imovinske koristi stečene kaznenim djelom mogu sudjelovati službenici policije i Ministarstva financija na način i pod uvjetima propisanim zakonom kojim se uređuje kazneni postupak.
+
+(4) Odjel za istraživanje imovinske koristi stečene kaznenim djelom obavlja i druge poslove prema rasporedu poslova u Uredu.«.
+
+#### Članak 18.
+
+Članak 16.a briše se.
+
+#### Članak 19.
+
+Članak 18. mijenja se i glasi:
+
+»Odjel za odnose s javnošću i za sprječavanje pojava korupcije i organiziranog kriminaliteta:
+
+1. upoznaje javnost o opasnosti i štetnosti korupcije te o metodama i sredstvima njezina sprječavanja,
+
+2. na temelju ovlasti i upute Ravnatelja izvješćuje javnost o radu Ureda,
+
+3. na način propisan posebnim zakonom može izvještavati javnost o tijeku izvida koje provodi Ured, ali samo kad to nalaže interes javnosti,
+
+4. sastavlja izvješća i izrađuje raščlambe o pojavnim oblicima i uzrocima korupcije u javnom i privatnom sektoru, a može davati Ravnatelju i poticaje za donošenje novih ili izmjene važećih propisa,
+
+5. obavlja i druge poslove prema godišnjem rasporedu poslova u Uredu.«.
+
+#### Članak 20.
+
+Članak 19. mijenja se i glasi:
+
+»(1) Osiguranje osoba, imovine i objekata Ureda te održavanje reda u Uredu obavljaju službenici pravosudne policije.
+
+(2) Poslovi iz stavka 1. ovoga članka obavljaju se uporabom tehničkih sredstava zaštite i sredstvima prisile.
+
+(3) Prijam u državnu službu, sigurnosna provjera i posebna prava službenika pravosudne policije te način osiguranja osoba, imovine i objekata Ureda propisuju se zakonom.«.
+
+#### Članak 21.
+
+Članak 20. briše se.
+
+#### Članak 22.
+
+U članku 21. stavku 2. točki. 1. ispred riječi: »primanja i davanja mita« dodaju se riječi: »terorizma iz članka 97., financiranja terorizma iz članka 98., terorističkog udruženja iz članka 102.,«.
+
+#### Članak 23.
+
+Članak 24. mijenja se i glasi:
+
+»(1) Ako se, uz osnove sumnje da je počinjeno kazneno djelo za koje se progon poduzima po službenoj dužnosti iz nadležnosti općinskog ili županijskog državnog odvjetništva, pojave naznake počinjenja kaznenih djela iz članka 21. ovoga Zakona, nadležno državno odvjetništvo bez odgode poduzima potrebne radnje i o tome izvješćuje Ured.
+
+(2) Nakon primitka obavijesti iz stavka 1. ovoga članka Ured može, ako ocijeni da je počinjeno kazneno djelo iz njegove nadležnosti, preuzeti rad u predmetu, o čemu izvješćuje policiju i državno odvjetništvo koje je do tada postupalo u predmetu.
+
+(3) Predmete u kojima postoje samo naznake počinjenja kaznenih djela iz članka 21. ovoga Zakona Ured može dostaviti na postupanje mjesno nadležnom državnom odvjetništvu radi provođenja izvida.
+
+(4) Na postupanje nadležnog državnog odvjetništva iz stavaka 1. i 3. ovoga članka primjenjuje se članak 29. ovoga Zakona.
+
+(5) Iznimno od stavka 3. ovoga članka, Ured ne može dostaviti na postupanje mjesno nadležnom državnom odvjetništvu predmete u kojima postoje naznake počinjenja kaznenih djela iz članka 21. ovoga Zakona ako je počinitelj ili objekt počinjenja kaznenog djela državni dužnosnik, dužnosnik u jedinici lokalne i područne (regionalne) samouprave, kao i osoba koja u Europskoj uniji, stranoj državi ili međunarodnoj organizaciji koje je Republika Hrvatska član obavlja dužnosti povjerene državnom dužnosniku ili dužnosniku u jedinici lokalne i područne (regionalne) samouprave, niti ako je počinitelj ili objekt počinjenja kaznenog djela iz članka 21. ovoga Zakona strani javni službenik, zastupnik u Europskom parlamentu, zakonodavnom ili predstavničkom tijelu strane države ili međunarodne javne organizacije.
+
+(6) O rezultatima izvida nadležno državno odvjetništvo iz stavka 3. ovoga članka obavještava Ured, koji može preuzeti rad na navedenom predmetu ili postupiti sukladno članku 11.a ovoga Zakona.«.
+
+#### Članak 24.
+
+Članak 30. mijenja se i glasi:
+
+»(1) Sud i državna tijela koja sudjeluju u kaznenom postupku za kaznena djela iz članka 21. ovoga Zakona dužna su postupati hitno.
+
+(2) U postupku za kaznena djela iz članka 21. ovoga Zakona sjednice, ročišta i rasprave održavaju se u kontinuitetu, bez odugovlačenja i uz pravodobnu najavu, pri čemu je predsjednik vijeća dužan poduzeti sve potrebne mjere za sprječavanje neopravdanih odgoda kako bi se postupak završio u najkraćem mogućem roku.«.
+
+#### Članak 25.
+
+U članku 31. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Za predmete kaznenih djela iz članka 21. ovoga Zakona, u kojima je tužitelj Ured, stvarno i mjesno su nadležni županijski sudovi u Osijeku, Rijeci, Splitu, Varaždinu i Zagrebu, osim ako ovim Zakonom nije propisano drukčije.
+
+(2) Županijski sud u Osijeku nadležan je i za područja županijskih sudova u Slavonskom Brodu i Vukovaru. Županijski sud u Rijeci nadležan je i za područje županijskih sudova u Karlovcu i Puli – Pola. Županijski sud u Splitu nadležan je i za područja županijskih sudova u Dubrovniku, Šibeniku i Zadru. Županijski sud u Zagrebu nadležan je i za područja županijskih sudova u Sisku i Velikoj Gorici. Županijski sud u Varaždinu nadležan je i za područje Županijskog suda u Bjelovaru.«.
+
+#### Članak 26.
+
+Članak 32. mijenja se i glasi:
+
+»(1) U županijskim sudovima u Osijeku, Rijeci, Splitu, Varaždinu i Zagrebu, kao i u općinskim sudovima u Osijeku, Rijeci, Splitu, Varaždinu i Općinskom kaznenom sudu u Zagrebu osnivaju se posebni odjeli za postupanje u predmetima kaznenih djela iz članka 21. ovoga Zakona. U odjele se raspoređuju suci koji imaju iskustvo na radu u složenijim predmetima.
+
+(2) Suce u odjele iz stavka 1. ovoga članka godišnjim rasporedom poslova raspoređuje predsjednik suda.
+
+(3) U postupku raspoređivanja sudaca na rad te prestanka rasporeda sudaca na odgovarajući se način primjenjuju odredbe članka 3. stavaka 5. i 6. ovoga Zakona.«.
+
+#### Članak 27.
+
+U članku 39. točki 2. iza brojke: »111. « dodaju se zarez i riječi: »teškog ubojstva ženske osobe iz članka 111.a«.
+
+#### Članak 28.
+
+U članku 48. stavak 1. mijenja se i glasi:
+
+»(1) Na zahtjev Ravnatelja, sudac istrage može protiv osobe za koju postoje osnove sumnje da sama ili zajedno s drugima priprema kaznena djela navedena u članku 21. ovoga Zakona odrediti posebne dokazne radnje ako policija na drugi način to kazneno djelo ne može otkriti, spriječiti ili dokazati ili bi to bilo moguće samo uz nerazmjerne teškoće.«.
+
+#### Članak 29.
+
+U članku 49. stavak 1. mijenja se i glasi:
+
+»(1) Čim sazna za vjerojatnost da određena osoba na svojim bankovnim računima prima, drži ili na drugi način posluje s prihodima ostvarenima kaznenim djelima iz članka 21. ovoga Zakona, a ti su prihodi važni za izvide i istragu tih kaznenih djela ili podliježu prisilnom oduzimanju prema odredbama zakona kojim se uređuju pretpostavke kažnjivosti i sankcije koje se mogu izreći počiniteljima kaznenih djela, zakona kojim se uređuje kazneni postupak i zakona kojim se uređuje odgovornost pravnih osoba za kaznena djela, Ured će zahtjevom zatražiti od banke dostavljanje podataka o tim računima.«.
+
+U stavku 5. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«, a riječi: »5.000.000,00 kuna« zamjenjuju se riječima: »663.610,00 eura«.
+
+#### Članak 30.
+
+U članku 62. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Podaci o kaznenom progonu u predmetima iz članka 21. ovoga Zakona ne smiju se objaviti bez odobrenja Ravnatelja.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 31.
+
+(1) Članak 22. ovoga Zakona primjenjuje se na kaznena djela terorizma iz članka 97., financiranja terorizma iz članka 98. i terorističkog udruženja iz članka 102. Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. – ispravak, 101/17., 118/18., 126/19., 84/21., 114/22., 114/23. i 36/24.) počinjena nakon stupanja na snagu ovoga Zakona.
+
+(2) Županijski sud u Varaždinu nadležan je za predmete kaznenih djela iz članka 21. koji je izmijenjen člankom 22. ovoga Zakona za područje županijskih sudova u Varaždinu i Bjelovaru u kojima do stupanja na snagu ovoga Zakona nije podignuta optužnica.
+
+(3) Županijski sud u Rijeci nadležan je za predmete kaznenih djela iz članka 21. koji je izmijenjen člankom 22. ovoga Zakona za područje Županijskog suda u Karlovcu u kojem do stupanja na snagu ovoga Zakona nije podignuta optužnica.
+
+(4) Ravnatelj Ureda za suzbijanje korupcije i organiziranog kriminaliteta donijet će pravilnik o unutarnjem redu u skladu s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 32.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 25. i 26. ovoga Zakona koji stupaju na snagu 1. siječnja 2026.
+
+Klasa: 022-02/25-01/80  
+Zagreb, 24. listopada 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

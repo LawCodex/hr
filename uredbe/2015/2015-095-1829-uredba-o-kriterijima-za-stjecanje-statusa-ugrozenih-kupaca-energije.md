@@ -6,11 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2015-09-04
+last_amended: 2024-03-08
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "95/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "95/15, 31/22, 28/24"
+amendments:
+  - "NN 31/2022 (374) Uredba o izmjenama i dopuni Uredbe o kriterijima za stjecanje statusa ugroženih kupaca energije iz umreženih sustava"
+  - "NN 28/2024 (426) Uredba o izmjeni Uredbe o kriterijima za stjecanje statusa ugroženih kupaca energije iz umreženih sustava"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/95/1829"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Uredba o kriterijima za stjecanje statusa ugroženih kupaca energije iz umreženih sustava
 
 > Izvor: Narodne novine, NN 95/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/95/1829).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 31/2022, NN 28/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -117,3 +122,125 @@ Zagreb, 3. rujna 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopuni Uredbe o kriterijima za stjecanje statusa ugroženih kupaca energije iz umreženih sustava (NN 31/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/31/374*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 39. stavka 6. Zakona o energiji (»Narodne novine«, br. 120/12., 14/14. i 102/15.) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.), Vlada Republike Hrvatske je na sjednici održanoj 9. ožujka 2022. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNI UREDBE O KRITERIJIMA ZA STJECANJE STATUSA UGROŽENIH KUPACA ENERGIJE IZ UMREŽENIH SUSTAVA**
+
+### Članak 1.
+
+U Uredbi o kriterijima za stjecanje statusa ugroženih kupaca energije iz umreženih sustava (»Narodne novine«, broj 95/15.), u članku 4. stavku 1. podstavak 3. mijenja se i glasi:
+
+» – je korisnik osobne invalidnine kojemu nije osigurana usluga smještaja ili organizirano stanovanje,«.
+
+Iza podstavka 4. dodaju se podstavci 5., 6., 7., 8., 9. i 10. koji glase:
+
+» – je korisnik nacionalne naknade za starije osobe,
+
+– živi u kućanstvu s korisnikom nacionalne naknade za starije osobe,
+
+– je korisnik novčane naknade za nezaposlene hrvatske branitelje iz Domovinskog rata i članove njihovih obitelji,
+
+– živi u kućanstvu s korisnikom novčane naknade za nezaposlene hrvatske branitelje iz Domovinskog rata i članove njihovih obitelji,
+
+– je korisnik novčane naknade za civilne stradalnike iz Domovinskog rata,
+
+– živi u kućanstvu s korisnikom novčane naknade za civilne stradalnike iz Domovinskog rata.«.
+
+U stavku 3. riječi: »Nadležni centar za socijalnu skrb« mijenjaju se i glase: »Hrvatski zavod za socijalni rad (u daljnjem tekstu: Zavod)«.
+
+U stavku 4. riječi: »Nadležni centar za socijalnu skrb koji je utvrdio« mijenjaju se i glase: »Kada Zavod utvrdi«.
+
+### Članak 2.
+
+U članku 7. stavku 1. riječi: »nadležnog centra za socijalnu skrb« mijenjaju se i glase: »Zavoda«.
+
+U stavku 2. riječi: »Nadležni centar za socijalnu skrb« mijenjaju se i glase: »Zavod je«, a iza riječi: »dužan« riječ: »je« briše se.
+
+### Članak 3.
+
+Centri za socijalnu skrb postupaju sukladno odredbama ove Uredbe do početka rada Hrvatskog zavoda za socijalni rad i preuzimanja poslova sukladno članku 317. stavku 5. Zakona o socijalnoj skrbi (»Narodne novine«, broj 18/22.).
+
+### Članak 4.
+
+Ova Uredba objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2022.
+
+Klasa: 022-03/22-03/24
+
+Urbroj: 50301-05/31-22-1
+
+Zagreb, 9. ožujka 2022.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjeni Uredbe o kriterijima za stjecanje statusa ugroženih kupaca energije iz umreženih sustava (NN 28/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/28/426*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 39. stavka 6. Zakona o energiji (»Narodne novine«, br. 120/12., 14/14., 102/15. i 68/18.) i članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), Vlada Republike Hrvatske je na sjednici održanoj 8. ožujka 2024. donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O KRITERIJIMA ZA STJECANJE STATUSA UGROŽENIH KUPACA ENERGIJE IZ UMREŽENIH SUSTAVA**
+
+### Članak 1.
+
+U Uredbi o kriterijima za stjecanje statusa ugroženih kupaca energije iz umreženih sustava (»Narodne novine«, br. 95/15. i 31/22.), u članku 4. stavak 1. mijenja se i glasi:
+
+»Status ugroženog kupca može imati krajnji kupac na umreženom sustavu iz kategorije kućanstva koji se opskrbljuje kroz obveznu javnu uslugu u okviru univerzalne usluge i/ili obveznu javnu uslugu opskrbe plinom i/ili uslugu opskrbe toplinskom energijom pod uvjetom da:
+
+– je korisnik zajamčene minimalne naknade
+
+– je član kućanstva koje je korisnik zajamčene minimalne nak­nade
+
+– je korisnik prava na inkluzivni dodatak prve, druge ili treće razine potpore, kojemu nije osigurana usluga smještaja ili organizirano stanovanje
+
+– živi u kućanstvu s korisnikom prava na inkluzivni dodatak prve, druge ili treće razine potpore
+
+– je korisnik osobne invalidnine na temelju Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22., 46/22., 119/22., 71/23. i 156/23.), kojemu nije osigurana usluga smještaja ili organizirano stanovanje
+
+– živi u kućanstvu s korisnikom osobne invalidnine
+
+– je korisnik nacionalne naknade za starije osobe
+
+– živi u kućanstvu s korisnikom nacionalne naknade za starije osobe
+
+– je korisnik novčane naknade za nezaposlene hrvatske branitelje iz Domovinskog rata i članove njihovih obitelji
+
+– živi u kućanstvu s korisnikom novčane naknade za nezaposlene hrvatske branitelje iz Domovinskog rata i članove njihovih obitelji
+
+– je korisnik novčane naknade za civilne stradalnike iz Domovinskog rata
+
+– živi u kućanstvu s korisnikom novčane naknade za civilne stradalnike iz Domovinskog rata.«.
+
+### Članak 2.
+
+Korisnici naknade za ugroženog kupca energenata kojima je na dan stupanja na snagu ove Uredbe pravo na naknadu za ugroženog kupca energenata priznato na temelju prava na osobnu invalidninu zadržava priznato pravo i nakon stupanja na snagu ove Uredbe, do donošenja rješenja o ukidanju rješenja kojim je priznato pravo na naknadu za ugroženog kupca energenata koje je priznato na temelju prava na osobnu invalidninu.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/24-03/30
+
+Urbroj: 50301-05/27-24-2
+
+Zagreb, 8. ožujka 2024.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

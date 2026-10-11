@@ -6,11 +6,11 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2004-02-23
-last_amended: 2012-07-23
+last_amended: 2017-02-03
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2017 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "23/04, 101/04, 39/06, 63/08, 125/10, 102/11, 83/12"
+narodne_novine: "23/04, 101/04, 39/06, 63/08, 125/10, 102/11, 83/12, 10/17"
 amendments:
   - "NN 101/2004 (1948) Uredba o izmjenama Uredbe o postupku davanja koncesije na pomorskom dobru"
   - "NN 39/2006 (950) Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesije na pomorskom dobru"
@@ -18,6 +18,7 @@ amendments:
   - "NN 125/2010 (3244) Uredba o izmjeni Uredbe o postupku davanja koncesije na pomorskom dobru"
   - "NN 102/2011 (2085) Uredba o dopunama Uredbe o postupku davanja koncesije na pomorskom dobru"
   - "NN 83/2012 (1925) Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesije na pomorskom dobru"
+  - "NN 10/2017 (284) Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesije na pomorskom dobru"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2004/23/665"
 retrieved: 2026-10-12
 ---
@@ -26,7 +27,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 23/2004 (https://narodne-novine.nn.hr/eli/sluzbeni/2004/23/665).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 101/2004, NN 39/2006, NN 63/2008, NN 125/2010, NN 102/2011, NN 83/2012.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 101/2004, NN 39/2006, NN 63/2008, NN 125/2010, NN 102/2011, NN 83/2012, NN 10/2017.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -173,105 +174,87 @@ A.1.Turističko-ugostiteljska djelatnost (plaže, ugostiteljski objekti i sl.)
 A.1.1. Početni iznos stalnog dijela koncesijske naknade izračunava se prema zauzetim metrima kvadratnim, a prema sljedećim kriterijima:
 
 <table>
-
 <tr>
 <td colspan="3">KRITERIJ 1 – k<sup>1</sup></td>
 </tr>
-
 <tr>
 <td>Redni<br> broj</td>
 <td>Broj noćenja turista u <br> prošloj godini u mjestu <br> ili najbližem mjestu pla <br> za koju se traži koncesija</td>
 <td>Broj<br> bodova</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>više od 200.001 noćenja turista</td>
 <td>50</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>od 100.001 do 200.000 noćenja turista</td>
 <td>30</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>od 50.001 do 100.000 noćenja turista</td>
 <td>15</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td>do 50.000 noćenja turista</td>
 <td>5</td>
 </tr>
-
 </table>
 
 Izvor podataka o broju noćenja: Državni zavod za statistiku
 
 <table>
-
 <tr>
 <td colspan="3">KRITERIJ 2 – k<sup>2</sup></td>
 </tr>
-
 <tr>
 <td>Redni</td>
 <td>Opremljenost plaže,</td>
 <td>Broj</td>
 </tr>
-
 <tr>
 <td>broj</td>
 <td>ugostiteljskog objekta</td>
 <td>bodova</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>potpuno uređena lokacija predmeta konce-</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>sije po prijašnjoj koncesiji (plava zastava)</td>
 <td>60</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>djelomično uređena lokacija predmeta</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>koncesije (blizina struje, vode, pristupne</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>ceste i itd.)</td>
 <td>35</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td>potpuno neuređena lokacija predmeta</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>koncesije</td>
 <td>5</td>
 </tr>
-
 </table>
 
 Najniži koeficijent cijene m<sup>2</sup> iznosi 0,10 kn (za sve lokacije na kopnu i za II. skupinu otoka).
@@ -333,32 +316,27 @@ B.1. Luke nautičkog turizma dijele se u dvije skupine i to:
 B.1.1. Stalni dio koncesijske naknade izračunava se prema zauzetim metrima kvadratnim, a prema sljedećim početnim cijenama:
 
 <table>
-
 <tr>
 <td rowspan="4" colspan="2">LUKE<br> NAUTIČKOG<br> TURIZMA</td>
 <td>početni iznos</td>
 <td>početni iznos</td>
 <td>početni iznos</td>
 </tr>
-
 <tr>
 <td>u kn/m<sup>2</sup> za</td>
 <td>u kn/m<sup>2</sup> za</td>
 <td>u kn/m<sup>2</sup> za</td>
 </tr>
-
 <tr>
 <td>kopno i za II</td>
 <td>kopno i za I</td>
 <td>kopno i za III</td>
 </tr>
-
 <tr>
 <td>skupinu otoka</td>
 <td>skupinu otoka</td>
 <td>skupinu otoka</td>
 </tr>
-
 <tr>
 <td>1.</td>
 <td>Sidrišta i privezišta</td>
@@ -366,7 +344,6 @@ B.1.1. Stalni dio koncesijske naknade izračunava se prema zauzetim metrima kvad
 <td>4 kn/m<sup>2</sup></td>
 <td>6 kn/m<sup>2</sup></td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td>Marine</td>
@@ -374,7 +351,6 @@ B.1.1. Stalni dio koncesijske naknade izračunava se prema zauzetim metrima kvad
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>2.1.Postojeće i iz-</td>
@@ -382,7 +358,6 @@ B.1.1. Stalni dio koncesijske naknade izračunava se prema zauzetim metrima kvad
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>građene marine</td>
@@ -390,7 +365,6 @@ B.1.1. Stalni dio koncesijske naknade izračunava se prema zauzetim metrima kvad
 <td>8 kn/m<sup>2</sup></td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>2.2.Neizgrađene</td>
@@ -398,7 +372,6 @@ B.1.1. Stalni dio koncesijske naknade izračunava se prema zauzetim metrima kvad
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>marine (nove)</td>
@@ -406,7 +379,6 @@ B.1.1. Stalni dio koncesijske naknade izračunava se prema zauzetim metrima kvad
 <td>1,6 kn/m<sup>2</sup></td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 </table>
 
 *Legenda*
@@ -420,34 +392,28 @@ B.1.2. Promjenjivi dio koncesijske naknade
 Početni iznos promjenjivog dijela koncesijske naknade obračunava se u postotku od prihoda ponuditelja, a prema slje­dećim kriterijima:
 
 <table>
-
 <tr>
 <td colspan="2">LUKE<br> NAUTIČKOG TURIZMA</td>
 <td>početni iznos u % od<br> prihoda ponuditelja</td>
 </tr>
-
 <tr>
 <td colspan="2">1. Sidrišta, privezišta</td>
 <td>2%</td>
 </tr>
-
 <tr>
 <td colspan="2">2. Marine</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>2.1. Postojeće i izgrađene marine</td>
 <td>4 %</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>2.2. Neizgrađene marine (nove)</td>
 <td>2 %</td>
 </tr>
-
 </table>
 
 B.2. Industrijske luke
@@ -1024,24 +990,20 @@ Jadranka Kosor, dipl. iur., v. r.
 ### TURISTIČKO-UGOSTITELJSKA DJELATNOST
 
 <table>
-
 <tr>
 <td colspan="7">KONCESIJA</td>
 </tr>
-
 <tr>
 <td>TURISTIČKO</td>
 <td>OBRAČUNSKA</td>
 <td rowspan="2" colspan="4">STALNI DIO NAKNADE (kn) PO<br> TURISTIČKIM RAZREDIMA</td>
 <td>PROMJENIVI DIO NAKNADE</td>
 </tr>
-
 <tr>
 <td>UGOSTITELJSKA</td>
 <td>JEDINICA(metar</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>DJELATNOST</td>
 <td>kvadratni)</td>
@@ -1051,7 +1013,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>/</td>
 <td>/</td>
@@ -1061,7 +1022,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>D</td>
 <td>/</td>
 </tr>
-
 <tr>
 <td rowspan="14"><br> <br> <br> <br> <br> <br> RESTORANI<br> CAFFE BAROVI<br> KONOBE I SL</td>
 <td>od 12 do 100</td>
@@ -1071,7 +1031,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>[if !supportEmptyParas] [endif]</td>
 <td rowspan="14"><br> <br> <br> <br> <br> <br> 3% prihoda ostvarenog obavljanjem djelatnosti i pružanjem usluga</td>
 </tr>
-
 <tr>
 <td>metara kvadratnih</td>
 <td>400,00</td>
@@ -1079,7 +1038,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>350,00</td>
 <td>300,00</td>
 </tr>
-
 <tr>
 <td>od 101 do 300</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1087,7 +1045,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>metara kvadratnih</td>
 <td>300,00</td>
@@ -1095,7 +1052,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>250,00</td>
 <td>200,00</td>
 </tr>
-
 <tr>
 <td>od 301 do 500</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1103,7 +1059,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>metara kvadratnih</td>
 <td>200,00</td>
@@ -1111,7 +1066,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>150,00</td>
 <td>100,00</td>
 </tr>
-
 <tr>
 <td>od 501 do 1000</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1119,7 +1073,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>metara kvadratnih</td>
 <td>100,00</td>
@@ -1127,7 +1080,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>65,00</td>
 <td>50,00</td>
 </tr>
-
 <tr>
 <td>od 1001 do 2000</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1135,7 +1087,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>metara kvadratnih</td>
 <td>50,00</td>
@@ -1143,7 +1094,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>25,00</td>
 <td>10,00</td>
 </tr>
-
 <tr>
 <td>od 2001 do 5000</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1151,7 +1101,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>metara kvadratnih</td>
 <td>10,00</td>
@@ -1159,7 +1108,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>8,00</td>
 <td>6,00</td>
 </tr>
-
 <tr>
 <td>preko 5000 metara</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1167,7 +1115,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>kvadratnih</td>
 <td>8,00</td>
@@ -1175,7 +1122,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>6,00</td>
 <td>5,00</td>
 </tr>
-
 </table>
 
 *SVI IZNOSI IZ OVE TABLICE SU POČETNI IZNOSI KONCESIJSKE NAKNADE
@@ -1185,11 +1131,9 @@ PRILOG 2
 PLAŽE
 
 <table>
-
 <tr>
 <td colspan="8"><br> KONCESIJA<br> [if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>VRSTE PLAŽA</td>
 <td>OBRAČUNSKA<br> JEDINICA<br> (m² )<br> [if !supportEmptyParas] [endif]</td>
@@ -1197,7 +1141,6 @@ PLAŽE
 <td colspan="4">STALNI DIO NAKNADE (kn)PO <br> TURISTIČKIM RAZREDIMA<br> [if !supportEmptyParas] [endif]</td>
 <td>PROMJENJIVI DIO NAKNADE</td>
 </tr>
-
 <tr>
 <td>/</td>
 <td>/</td>
@@ -1208,7 +1151,6 @@ PLAŽE
 <td>D</td>
 <td>/</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1219,7 +1161,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>3% prihoda ostvarenog</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1230,7 +1171,6 @@ PLAŽE
 <td>2,00</td>
 <td>obavljanjem djelatnosti</td>
 </tr>
-
 <tr>
 <td>UREĐENJE</td>
 <td>po m²</td>
@@ -1241,7 +1181,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>i pružanjem usluga na plaži</td>
 </tr>
-
 <tr>
 <td>JAVNE PLAŽE</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1252,7 +1191,6 @@ PLAŽE
 <td>7,00</td>
 <td>* NAPOMENA:iznos od</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1263,7 +1201,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>3% dodaje se i 1% od</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1274,7 +1211,6 @@ PLAŽE
 <td>12,00</td>
 <td>cijene ulaznica</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1285,7 +1221,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1296,7 +1231,6 @@ PLAŽE
 <td>6,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1307,7 +1241,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>do5.000 m²</td>
@@ -1318,7 +1251,6 @@ PLAŽE
 <td>15,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1329,7 +1261,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1340,7 +1271,6 @@ PLAŽE
 <td>35,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1351,7 +1281,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1362,7 +1291,6 @@ PLAŽE
 <td>2,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>od 5.000</td>
@@ -1373,7 +1301,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>2% prihoda ostvarenog</td>
 </tr>
-
 <tr>
 <td>UREĐENJE</td>
 <td>do10.000 m²</td>
@@ -1384,7 +1311,6 @@ PLAŽE
 <td>7,00</td>
 <td>obavljanjem djelatnosti</td>
 </tr>
-
 <tr>
 <td>POSEBNE</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1395,7 +1321,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>i pružanjem usluga na</td>
 </tr>
-
 <tr>
 <td>PLAŽE</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1406,7 +1331,6 @@ PLAŽE
 <td>9,00</td>
 <td>plaži</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1417,7 +1341,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>*NAPOMENA:</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1428,7 +1351,6 @@ PLAŽE
 <td>2,00</td>
 <td>iznosu od 2%</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>od 10.000</td>
@@ -1439,7 +1361,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>dodaje se i 1% od</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>do 20.000</td>
@@ -1450,7 +1371,6 @@ PLAŽE
 <td>3,50</td>
 <td>cijene ulaznica</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>m²</td>
@@ -1461,7 +1381,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1472,7 +1391,6 @@ PLAŽE
 <td>5,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1483,7 +1401,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1494,7 +1411,6 @@ PLAŽE
 <td>0,40</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>preko</td>
@@ -1505,7 +1421,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>20.000 m²</td>
@@ -1516,7 +1431,6 @@ PLAŽE
 <td>1,50</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1527,7 +1441,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1538,7 +1451,6 @@ PLAŽE
 <td>2,00</td>
 <td>[if !supportEmptyParas] [endif]</td>
 </tr>
-
 <tr>
 <td>PRIRODNE</td>
 <td>po m2</td>
@@ -1549,7 +1461,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>1,5% prihoda ostvarenog</td>
 </tr>
-
 <tr>
 <td>PLAŽE</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1560,7 +1471,6 @@ PLAŽE
 <td>0,50</td>
 <td>obavljanjem djelatnosti</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1571,7 +1481,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>i pružanjem usluga na</td>
 </tr>
-
 <tr>
 <td>[if !supportEmptyParas] [endif]</td>
 <td>[if !supportEmptyParas] [endif]</td>
@@ -1582,7 +1491,6 @@ PLAŽE
 <td>[if !supportEmptyParas] [endif]</td>
 <td>plaži</td>
 </tr>
-
 </table>
 
 \* u slučaju ograđivanja i naplate ulaza na plažu
@@ -1903,3 +1811,104 @@ Zagreb, 19. srpnja 2012.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesije na pomorskom dobru (NN 10/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/10/284*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 119. točaka 1.b) i 2.c) Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03, 100/04, 141/06, 38/09, 123/11 i 56/16), Vlada Republike Hrvatske je na sjednici održanoj 2. veljače 2017. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O POSTUPKU DAVANJA KONCESIJE NA POMORSKOM DOBRU**
+
+### Članak 1.
+
+U Uredbi o postupku davanja koncesije na pomorskom dobru (»Narodne novine«, br. 23/04, 101/04, 39/06, 63/08, 125/10, 102/11 i 83/12) članak 8. briše se.
+
+### Članak 2.
+
+U članku 16. stavku 1. točki A. podtočki A.4. iza riječi: »centri« dodaju se riječi: »akvagan, zipline, ski lift, arheološki park, podmorski park,«.
+
+U točki B. podtočki B.3.2. iza riječi: »ponuditelja« briše se točka i dodaje se zarez i riječi: »s time da se prihodom ponuditelja smatra onaj dio prihoda kojim se pokrivaju pozicije iz Računa dobiti i gubitka koncesionara kako slijedi: troškovi osoblja (AOP 120), amortizacija (AOP 124) i dobit razdoblja (AOP 153). Ukoliko je poslovni rezultat razdoblja gubitak (AOP 154), osnovica za obračun koncesijske naknade računa se samo zbrajanjem pozicija troškova osoblja (AOP 120) i amortizacije (AOP 124).«.
+
+### Članak 3.
+
+U članku 18. stavak 2. mijenja se i glasi:
+
+»Ponuda obavezno sadrži sljedeće dokumente:
+
+1. dokaze o sposobnosti ponuditelja:
+
+– izvadak iz sudskog registra trgovačkog suda ili izvadak iz obrtnog registra s upisanom djelatnošću za koju se traži koncesija, ne stariji od 30 dana
+
+– odgovarajuću potvrdu kojom dokazuje da nije pokrenut stečajni, odnosno predstečajni postupak, da se ne nalazi u postupku likvidacije, odnosno da nije u postupku obustavljanja poslovnih djelatnosti
+
+– podatke o bonitetu (BON 1), osim za obrte obveznike poreza na dohodak i novoosnovana društva i obrte
+
+– podatke o solventnosti (BON 2 – za glavni račun ponuditelja) i potvrdu nadležne Porezne uprave o plaćenim dospjelim obvezama temeljem javnih davanja, sve ne starije od 30 dana
+
+– izjavu da li je ponuditelj ispunio sve obveze iz drugih koncesija, ako ih ima ili ih je imao
+
+– izjavu da li je ponuditelju do sada oduzeta koncesija sukladno članku 30. Zakona
+
+– izjavu da ponuditelju ili osobi ovlaštenoj za zastupanje nije izrečena pravomoćna osuđujuća presuda za jedno ili više kaznenih djela iz područja gospodarskoga kriminala.
+
+2. ponuđeni iznos stalnog i postotak promjenjivog dijela koncesijske naknade.
+
+3. studiju gospodarske opravdanosti koja se izrađuje prema sadržaju i u formi iz dokumentacije za javno prikupljanje ponuda. Ukupna vrijednost investicije koja se planira studijom gospodarske opravdanosti smatra se ulaganjem u osnovna sredstva.
+
+4. garanciju poslovne banke za ozbiljnost ponude u izvornom obliku u visini 1% od ponuđene vrijednosti investicije s rokom važenja do planiranog roka zaključenja ugovora o koncesiji, a najduže dvije godine.
+
+5. pismo namjere poslovne banke u izvornom obliku da će izdati garanciju za dobro ispunjenje obveza iz ugovora o koncesiji koji će se sklopiti s odabranim ponuditeljem u visini 5% ponuđene vrijednosti investicije s rokom važenja šest mjeseci dužim od planiranog roka završetka investicijskog ciklusa.
+
+6. uvjerenje nadležnog tijela za izdavanje lokacijske dozvole da je zahvat prikazan u idejnom projektu planiran dokumentima prostornoga uređenja.
+
+7. idejni projekt zahvata u prostoru na pomorskom dobru izrađen od ovlaštenog projektanta sukladno dokumentima prostornoga uređenja i prema studiji gospodarske opravdanosti.«.
+
+### Članak 4.
+
+U članku 19. stavku 2. iza riječi: »dostavljenih ponuda,« dodaju se riječi: »čita rekapitulacijski list i provjerava da li je dostavljena sva tražena dokumentacija.«, a riječi: »a potom uspoređuje zaprimljene ponude s obveznom dokumentacijom iz članka 18. ove Uredbe i utvrđuje sposobnost ponuditelja.« brišu se.
+
+U stavku 3. iza riječi: »15 dana« dodaje se riječ: »neprekinute«.
+
+### Članak 5.
+
+U članku 21. točka A. mijenja se i glasi:
+
+»A. Koncesije na pomorskom dobru:
+
+Ocjenjivanje ponuda za sve koncesije na pomorskom dobru, obavlja se prema sljedećim kriterijima:
+
+| – ponuđeni iznos stalnog dijela koncesijske naknade | 30% |
+|---|---|
+| – ponuđeni iznos promjenjivog dijela koncesijske naknade | 30% |
+| – ponuđeni iznos ukupnoga investicijskog ulaganja prema studiji gospodarske opravdanosti | 40%. |
+
+Svaki element ponude se vrednuje zasebno, a zbroj ukupne ocjene po kriterijima ne može iznositi više od 1,000.
+
+Promjenjivi dio koncesijske naknade izračunava se u apsolutnom iznosu prema prikazanim ukupnim prihodima iz studije gospodarske opravdanosti, a za vrijeme trajanja koncesije.
+
+Formule i način izračuna:
+
+| a) | ![](https://narodne-novine.nn.hr/files/_web/sluzbeni-dio/2017/129691/images/2575.jpg) |
+|---|---|
+| b) | ![](https://narodne-novine.nn.hr/files/_web/sluzbeni-dio/2017/129691/images/2569.jpg) |
+| c) | ![](https://narodne-novine.nn.hr/files/_web/sluzbeni-dio/2017/129691/images/2561.jpg) |
+
+
+
+U točki B. podtočki 1. iza slova: »c«, slova: »d, e« u zagradi brišu se.
+
+### Članak 6.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/16-03/33  
+Urbroj: 50301-25/18-17-5  
+Zagreb, 2. veljače 2017.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

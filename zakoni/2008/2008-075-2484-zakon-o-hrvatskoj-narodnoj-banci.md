@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2008-07-01
-last_amended: 2013-05-07
+last_amended: 2020-04-17
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "75/08, 54/13"
+narodne_novine: "75/08, 54/13, 47/20"
 amendments:
   - "NN 54/2013 (1087) Zakon o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci"
+  - "NN 47/2020 (949) Zakon o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2008/75/2484"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 75/2008 (https://narodne-novine.nn.hr/eli/sluzbeni/2008/75/2484).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 54/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 54/2013, NN 47/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1384,3 +1385,624 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci (NN 47/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/47/949*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O HRVATSKOJ NARODNOJ BANCI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Hrvatskoj narodnoj banci, koji je Hrvatski sabor donio na sjednici 7. travnja 2020.
+
+Klasa: 011-01/20-01/54  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 9. travnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O HRVATSKOJ NARODNOJ BANCI**
+
+#### Članak 1.
+
+Zakonu o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/08. i 54/13.) u članku 1. stavku 1. podstavku 3. na kraju rečenice riječ: »i« briše se.
+
+Iza podstavka 3. dodaju se novi podstavak 4. i podstavak 5. koji glase:
+
+» – zadaci i nadležnosti Hrvatske narodne banke u okviru bliske suradnje s Europskom središnjom bankom,
+
+– zadaci i nadležnosti Hrvatske narodne banke u suradnji s Jedinstvenim sanacijskim odborom i«.
+
+Dosadašnji podstavak 4. postaje podstavak 6.
+
+#### Članak 2.
+
+Naslov iznad članka 1.a mijenja se i glasi: »Provedba uredbi Europske unije«.
+
+Članak 1.a mijenja se i glasi:
+
+»Ovim se Zakonom osigurava provedba sljedećih uredbi Europske unije:
+
+– Uredba Vijeća (EZ) br. 1338/2001 od 28. lipnja 2001. koja propisuje mjere potrebne za zaštitu eura od krivotvorenja (SL L 181, 4. 7. 2001.) kako je posljednji put izmijenjena Uredbom Vijeća (EZ) br. 44/2009 od 18. prosinca 2008. o izmjeni Uredbe (EZ) br. 1338/2001 o utvrđivanju mjera potrebnih za zaštitu eura od krivotvorenja (SL L 17, 22. 1. 2009.) i ispravljena Ispravkom Uredbe Vijeća (EZ) br. 44/2009 od 18. prosinca 2008. o izmjeni Uredbe (EZ) br. 1338/2001 o utvrđivanju mjera potrebnih za zaštitu eura od krivotvorenja (SL L 17, 22. 1. 2009.) (Posebno izdanje Službenog lista Europske unije 19/Sv. 11 od 29. listopada 2013.; u daljnjem tekstu: Uredba Vijeća (EZ) br. 1338/2001),
+
+– Uredba Vijeća (EZ) br. 1339/2001 od 28. lipnja 2001. kojom se proširuju učinci Uredbe Vijeća (EZ) 1338/2001 koja propisuje mjere potrebne za zaštitu eura od krivotvorenja i na one države članice koje nisu usvojile euro kao jedinstvenu valutu (SL L 181, 4. 7. 2001.) kako je posljednji put izmijenjena Uredbom Vijeća (EZ) br. 45/2009 od 18. prosinca 2008. o izmjeni Uredbe (EZ) br. 1339/2001 o proširenju učinaka Uredbe (EZ) br. 1338/2001 o propisivanju mjera potrebnih za zaštitu eura od krivotvorenja na one države članice koje nisu prihvatile euro kao svoju jedinstvenu valutu (u daljnjem tekstu: Uredba Vijeća (EZ) br. 1339/2001),
+
+– Uredba Vijeća (EU) br. 1024/2013 od 15. listopada 2013. o dodjeli određenih zadaća Europskoj središnjoj banci u vezi s politikama bonitetnog nadzora kreditnih institucija (SL L 287, 29. 10. 2013.; u daljnjem tekstu: Uredba Vijeća (EU) br. 1024/2013) i
+
+– Uredba (EU) br. 806/2014 Europskog parlamenta i Vijeća od 15. srpnja 2014. o utvrđivanju jedinstvenih pravila i jedinstvenog postupka za sanaciju kreditnih institucija i određenih investicijskih društava u okviru jedinstvenog sanacijskog mehanizma i jedinstvenog fonda za sanaciju te o izmjeni Uredbe (EU) br. 1093/2010 (SL L 225, 30. 7. 2014.; u daljnjem tekstu: Uredba (EU) br. 806/2014).«.
+
+#### Članak 3.
+
+U članku 2. dosadašnji stavci 10. i 11. brišu se.
+
+Iza stavka 9. dodaje se stavak 10. koji glasi:
+
+»(10) Lokacije, građevine trezora i trezorsko poslovanje Hrvatske narodne banke od posebne su važnosti za financijske, gospodarske i sigurnosne interese Republike Hrvatske te za obranu Republike Hrvatske.«.
+
+#### Članak 4.
+
+Članak 4. mijenja se i glasi:
+
+»(1) Hrvatska narodna banka je samostalna i neovisna u okviru Ustava i zakona u cjelokupnosti poslova iz svoje nadležnosti, što se osobito očituje u:
+
+– utvrđivanju i provođenju monetarne i devizne politike,
+
+– držanju i upravljanju međunarodnim pričuvama Republike Hrvatske,
+
+– izdavanju novčanica i kovanog novca,
+
+– izdavanju i oduzimanju odnosno ukidanju odobrenja i suglasnosti te donošenju drugih rješenja u skladu sa zakonima kojima se uređuje poslovanje kreditnih institucija i poslovanje kreditnih unija, pružatelja platnih usluga, izdavatelja elektroničkog novca i platnih sustava, platni promet, izdavanje elektroničkog novca te devizno poslovanje i poslovanje ovlaštenih mjenjača,
+
+– obavljanju supervizije i nadzora u skladu sa zakonima kojima se uređuje poslovanje kreditnih institucija i poslovanje kreditnih unija, pružatelja platnih usluga, izdavatelja elektroničkog novca i platnih sustava, platni promet i izdavanje elektroničkog novca,
+
+– provođenju ovlasti za sanaciju u skladu s propisima kojima se uređuje sanacija kreditnih institucija,
+
+– vođenju računa kreditnih institucija i obavljanju platnog prometa po tim računima, davanju kredita kreditnim institucijama i primanju u depozit sredstava kreditnih institucija,
+
+– uređivanju i unapređivanju platnog prometa i osiguravanju njegova nesmetanog funkcioniranja,
+
+– obavljanju zakonom utvrđenih poslova za Republiku Hrvatsku,
+
+– donošenju podzakonskih propisa u poslovima iz svoje nadležnosti,
+
+– provođenju makrobonitetne politike radi pridonošenja očuvanju stabilnosti financijskog sustava u cjelini i
+
+– obavljanju ostalih zakonom utvrđenih poslova.
+
+(2) Zadatke iz stavka 1. podstavaka 4. i 5. ovoga članka u dijelu koji se odnosi na kreditne institucije Hrvatska narodna banka izvršava u okviru bliske suradnje s Europskom središnjom bankom u skladu s člankom 7. Uredbe Vijeća (EU) br. 1024/2013 i dijelom IX. Uredbe (EU) br. 468/2014 Europske središnje banke od 16. travnja 2014. o uspostavljanju okvira za suradnju unutar jedinstvenog nadzornog mehanizma između Europske središnje banke i nacionalnih nadležnih tijela te s nacionalnim imenovanim tijelima (Okvirna uredba o SSM-u SL L 141/1, 14. 5. 2014.; u daljnjem tekstu: Uredba (EU) br. 468/2014).
+
+(3) Zadatke iz stavka 1. podstavka 6. ovoga članka Hrvatska narodna banka izvršava u okviru jedinstvenog sanacijskog mehanizma utvrđenog Uredbom (EU) br. 806/2014.«.
+
+#### Članak 5.
+
+U članku 7. stavak 1. mijenja se i glasi:
+
+»(1) Hrvatska narodna banka može biti članica međunarodnih institucija i organizacija nadležnih za područja monetarne politike, devizne politike, platnog prometa, supervizije i sanacije kreditnih institucija i ostala područja iz njezina djelokruga i sudjelovati u njihovu radu, osim kad je to članstvo u suprotnosti s:
+
+– bliskom suradnjom uspostavljenom s Europskom središnjom bankom u skladu s člankom 7. Uredbe Vijeća (EU) br. 1024/2013 ili
+
+– sudjelovanjem u jedinstvenom sanacijskom mehanizmu utvrđenim Uredbom (EU) br. 806/2014.«.
+
+#### Članak 6.
+
+U članku 8. stavku 2. riječi: »supervizije i nadzora« zamjenjuju se riječima: »supervizije, nadzora i sanacije«, a riječ: »grubom« zamjenjuje se riječju: »krajnjom«.
+
+U stavku 3. riječ: »grubom« zamjenjuje se riječju: »krajnjom«.
+
+#### Članak 7.
+
+U članku 13. ispred riječi: »Hrvatska narodna banka« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Kamatna stopa za novčana sredstva koja je Hrvatska narodna banka primila u depozit može biti negativna.«.
+
+#### Članak 8.
+
+U članku 18. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Međunarodne pričuve Republike Hrvatske čine svi oblici imovine u stranoj valuti i plemenite kovine. Pojam imovine u stranoj valuti uključuje vrijednosne papire i svu drugu imovinu u konvertibilnoj valuti nerezidentnog dužnika ili obračunskoj jedinici neovisno o obliku u kojem se drži.
+
+(3) Radi upravljanja međunarodnim pričuvama Republike Hrvatske, Hrvatska narodna banka može kupovati i prodavati promptno i na rok te na drugi način stjecati oblike imovine iz stavka 2. ovoga članka.«.
+
+#### Članak 9.
+
+U članku 42. stavak 3. mijenja se i glasi:
+
+»(3) U sklopu opće nadležnosti iz stavka 2. ovoga članka Savjet Hrvatske narodne banke osobito je nadležan za:
+
+1) utvrđivanje monetarne i devizne politike,
+
+2) donošenje financijskog plana Hrvatske narodne banke,
+
+3) donošenje izvješća iz članka 62. ovoga Zakona,
+
+4) donošenje Statuta Hrvatske narodne banke,
+
+5) utvrđivanje uvjeta odobravanja kredita kreditnim institucijama,
+
+6) utvrđivanje kamatnih stopa Hrvatske narodne banke i naknada za usluge Hrvatske narodne banke,
+
+7) utvrđivanje osnovice za obračunavanje obvezne pričuve i stope obvezne pričuve, kao i načina, uvjeta i rokova udovoljavanja obvezi izdvajanja i održavanja obvezne pričuve i uvjeta korištenja obveznom pričuvom,
+
+8) izdavanje i ukidanje odobrenja za rad kreditnim institucijama sa sjedištem u Republici Hrvatskoj i podružnicama kreditnih institucija sa sjedištem izvan Republike Hrvatske i za obavljanje pojedinih poslova te odobrenja za stjecanje dionica kreditnih institucija u skladu sa zakonom kojim se uređuje poslovanje kreditnih institucija,
+
+9) davanje suglasnosti za pripajanje, spajanje i druge statusne promjene kreditnih institucija u skladu sa zakonom koji uređuje poslovanje kreditnih institucija,
+
+10) davanje i ukidanje suglasnosti za imenovanje predsjednika i članova uprava i nadzornih odbora kreditnih institucija, u skladu sa zakonom kojim se uređuje poslovanje kreditnih institucija,
+
+11) donošenje podzakonskih propisa kojima se uređuje devizno poslovanje pravnih i fizičkih osoba i poslovanje ovlaštenih mjenjača,
+
+12) izdavanje i ukidanje odobrenja za rad platnih sustava i donošenje podzakonskih propisa kojima se propisuje način njihova rada,
+
+13) odlučivanje o apoenima i obilježjima novčanica i kovanog novca i njihovu puštanju u optjecaj i povlačenju iz optjecaja,
+
+14) određivanje strategije i politike upravljanja međunarodnim pričuvama,
+
+15) odlučivanje o članstvu Hrvatske narodne banke u međunarodnim institucijama i organizacijama,
+
+16) odlučivanje o osnivanju i zatvaranju podružnica i predstavništava Hrvatske narodne banke,
+
+17) odlučivanje da kreditna institucija propada ili će vjerojatno propasti i
+
+18) odlučivanje o davanju prijedloga za otvaranje postupka sanacije nad kreditnom institucijom ili odlučivanje o davanju prijedloga za pokretanje stečajnog postupka nad kreditnom institucijom ili odlučivanje o pokretanju postupka prisilne likvidacije kreditne institucije.«.
+
+Iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+
+»(4) Savjet Hrvatske narodne banke nadležnosti iz stavka 3. točaka 8., 9., 10. i 17. ovoga članka ostvaruje u okviru bliske suradnje uspostavljene s Europskom središnjom bankom u skladu s člankom 7. Uredbe Vijeća (EU) br. 1024/2013 i dijelom IX. Uredbe (EU) br. 468/2014.
+
+(5) Savjet Hrvatske narodne banke nadležnosti iz stavka 3. točke 18. ovoga članka ostvaruje u okviru jedinstvenog sanacijskog mehanizma utvrđenog Uredbom (EU) br. 806/2014.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 6. i 7.
+
+#### Članak 10.
+
+U članku 43. stavak 2. mijenja se i glasi:
+
+»(2) Guverner Hrvatske narodne banke:
+
+1) upravlja i rukovodi poslovanjem Hrvatske narodne banke,
+
+2) organizira rad Hrvatske narodne banke,
+
+3) predstavlja i zastupa Hrvatsku narodnu banku,
+
+4) propisuje pobliže uvjete i način obavljanja supervizije i nadzora, vrste, rokove, redoslijed i postupak poduzimanja mjera prema kreditnim institucijama,
+
+5) donosi rješenja u postupku supervizije i nadzora nad kreditnim institucijama,
+
+6) provodi makrobonitetnu politiku i donosi podzakonske propise, preporuke, odluke i rješenja iz područja makrobonitetne politike,
+
+7) donosi akte o funkcioniranju i razvoju informacijskog sustava Hrvatske narodne banke,
+
+8) imenuje i razrješava osobe s posebnim ovlastima i odgovornostima u Hrvatskoj narodnoj banci,
+
+9) donosi opći akt o unutrašnjem ustroju i sistematizaciji radnih mjesta u Hrvatskoj narodnoj banci i opće akte kojima se utvrđuju prava, obveze i odgovornosti zaposlenika Hrvatske narodne banke,
+
+10) donosi podzakonske propise, odluke i opće akte iz djelokruga Hrvatske narodne banke koji zakonom nisu stavljeni u nadležnost Savjeta Hrvatske narodne banke,
+
+11) odlučuje o drugim pitanjima za koja je prema ovom Zakonu, drugim zakonima i propisima nadležan, kao i o pitanjima za koja ga ovlasti Savjet Hrvatske narodne banke,
+
+12) propisuje pobliže uvjete i način provedbe sanacijskog nadzora te postupak nalaganja mjera prema kreditnim institucijama u postupku sanacijskog nadzora i
+
+13) donosi rješenja u postupku sanacijskog nadzora nad kreditnim institucijama.«.
+
+Iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»(3) Guverner Hrvatske narodne banke nadležnosti iz stavka 2. točaka 4. i 5. ovoga članka ostvaruje u okviru bliske suradnje uspostavljene s Europskom središnjom bankom u skladu s člankom 7. Uredbe Vijeća (EU) br. 1024/2013 i dijelom IX. Uredbe (EU) br. 468/2014.
+
+(4) Guverner Hrvatske narodne banke nadležnosti iz stavka 2. točaka 12. i 13. ovoga članka ostvaruje u okviru jedinstvenog sanacijskog mehanizma utvrđenog Uredbom (EU) br. 806/2014.«.
+
+Dosadašnji stavci 3. do 6. postaju stavci 5. do 8.
+
+#### Članak 11.
+
+U članku 52. iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Općim aktom Hrvatske narodne banke određuju se radna mjesta za koja je, zbog visokog stupnja osjetljivosti, kao poseban uvjet za zasnivanje radnog odnosa potrebno provesti temeljnu sigurnosnu provjeru kandidata. Temeljnu sigurnosnu provjeru kandidata provodi nadležna sigurnosno-obavještajna agencija, i to na zahtjev Hrvatske narodne banke, a u skladu s posebnim zakonom kojim se uređuju sigurnosne provjere.«.
+
+#### Članak 12.
+
+Naslov iznad članka 55. mijenja se i glasi: »Opće pričuve Hrvatske narodne banke«.
+
+Članak 55. mijenja se i glasi:
+
+»(1) Opće pričuve Hrvatske narodne banke formiraju se radi pokrića općih rizika poslovanja Hrvatske narodne banke.
+
+(2) Donji iznos općih pričuva određuje Savjet Hrvatske narodne banke odlukom.«.
+
+#### Članak 13.
+
+Iza članka 55. dodaju se naslovi iznad članaka i članci 55.a i 55.b koji glase:
+
+*»Revalorizacijski računi*
+
+#### Članak 55.a
+
+(1) Hrvatska narodna banka formira revalorizacijske račune radi ponovnog vrednovanja imovine i obveza u skladu sa Smjernicom (EU) 2016/2249 Europske središnje banke od 3. studenoga 2016. o pravnom okviru za računovodstvo i financijsko izvještavanje u Europskom sustavu središnjih banaka (ESB/2016/34).
+
+(2) Revalorizacijske račune čije formiranje nije uređeno smjernicom iz stavka 1. ovoga članka Hrvatska narodna banka formirat će u skladu s važećim Međunarodnim standardima financijskog izvještavanja utvrđenim od strane Europske komisije i objavljenim u Službenom listu Europske unije.
+
+*Rezervacije za financijske rizike*
+
+#### Članak 55.b
+
+Hrvatska narodna banka može formirati rezervacije za financijske rizike u skladu s odlukom koju donosi Savjet Hrvatske narodne banke.«.
+
+#### Članak 14.
+
+Naslov iznad članka 56. mijenja se i glasi: »Dobit ili gubitak Hrvatske narodne banke«.
+
+Članak 56. mijenja se i glasi:
+
+»Dobit ili gubitak Hrvatske narodne banke izračunava se za svaku financijsku godinu kao razlika između ukupnih prihoda i ukupnih rashoda Hrvatske narodne banke.«.
+
+#### Članak 15.
+
+Naslov iznad članka 57. mijenja se i glasi: »Raspored dobiti i pokrivanje gubitka«.
+
+Članak 57. mijenja se i glasi:
+
+»(1) Dobit Hrvatske narodne banke iskazana u financijskoj godini raspoređuje se u opće pričuve i u korist državnog proračuna sukladno odluci Savjeta Hrvatske narodne banke.
+
+(2) Dobit Hrvatske narodne banke raspoređuje se na način da se 20% dobiti rasporedi u opće pričuve, a 80% dobiti je prihod državnog proračuna.
+
+(3) Iznimno od stavka 2. ovoga članka, ako visina općih pričuva na posljednji dan financijske godine bude niža od donjeg iznosa općih pričuva utvrđenog sukladno članku 55. stavku 2. ovoga Zakona, Savjet Hrvatske narodne banke donijet će odluku da se u opće pričuve raspoređuje iznos dobiti potreban za dostizanje donjeg iznosa općih pričuva, dok se preostala dobit raspoređuje sukladno stavku 2. ovoga članka.
+
+(4) Gubitak Hrvatske narodne banke najprije se pokriva iz općih pričuva.
+
+(5) Ako je gubitak Hrvatske narodne banke veći od iznosa općih pričuva, iznos gubitka koji prelazi visinu općih pričuva pokrit će se iz dobiti narednih godina.
+
+(6) Dobit koju će Hrvatska narodna banka iskazati u narednim godinama najprije će se koristiti za pokriće gubitka iz prethodnih godina.
+
+(7) Ako je tijekom dužeg razdoblja ukupni kapital Hrvatske narodne banke umanjen za gubitak iz prethodnih godina manji od temeljnog kapitala Hrvatske narodne banke, potrebni iznos do visine temeljnog kapitala osigurat će se u državnom proračunu u narednom srednjoročnom razdoblju.
+
+(8) U smislu stavka 7. ovog članka ukupni kapital Hrvatske narodne banke čine temeljni kapital, opće pričuve, revalorizacijski računi i rezervacije za financijske rizike.«.
+
+#### Članak 16.
+
+Naslov iznad članka 60. mijenja se i glasi: »Financijski izvještaji«.
+
+Članak 60. mijenja se i glasi:
+
+»(1) Hrvatska narodna banka sastavlja financijske izvještaje u skladu sa Smjernicom (EU) 2016/2249 Europske središnje banke od 3. studenoga 2016. o pravnom okviru za računovodstvo i financijsko izvještavanje u Europskom sustavu središnjih banaka (ESB/2016/34).
+
+(2) Za izvještavanje o transakcijama koje nisu regulirane Smjernicom iz stavka 1. ovoga članka Hrvatska narodna banka primjenjuje, pod uvjetom da ne postoji suprotna odluka Savjeta Hrvatske narodne banke, načela vrednovanja u skladu s Međunarodnim standardima financijskog izvještavanja koje je prihvatila Europska unija, a koji su bitni za poslove i izvještaje Hrvatske narodne banke.«.
+
+#### Članak 17.
+
+Iza članka 60. dodaje se naslov iznad članka i članak 60.a koji glase:
+
+*»Konsolidacija financijskih izvještaja*
+
+#### Članak 60.a
+
+U financijskim izvještajima Hrvatske narodne banke ne iskazuju se financijski izvještaji društava u kojima Hrvatska narodna banka ima većinski udio u kapitalu, ako ta društva pojedinačno ili skupno nisu značajna za njezine financijske izvještaje.«.
+
+#### Članak 18.
+
+U članku 69. stavku 2. riječi: »poništavanje, ukidanje, izvanredno ukidanje i proglašavanje rješenja ništavim, po pravu nadzora« zamjenjuju se riječima: »poništavanje i ukidanje rješenja i oglašivanje rješenja ništavim«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 1. ovoga članka, protiv rješenja koja Hrvatska narodna banka donosi u postupcima povodom zahtjeva za pristup informacijama, podnositelj zahtjeva može podnijeti žalbu sukladno odredbama zakona koji uređuje pravo na pristup informacijama.«.
+
+#### Članak 19.
+
+U članku 70. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Hrvatska narodna banka dio je Europskog sustava financijskog nadzora (ESFS) i u okviru toga sudjeluje u radu Europskog nadzornog tijela za bankarstvo (EBA) i Europskog odbora za sistemske rizike (ESRB).«.
+
+#### Članak 20.
+
+U članku 71. stavku 2. iza riječi: »neovisnost Hrvatske narodne banke,« dodaju se riječi: »članove njezinih tijela nadležnih za odlučivanje,«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Odredbe stavaka 1. i 2. ovoga članka ne dovode u pitanje ovlasti ESB-a i dužnosti Hrvatske narodne banke u okviru bliske suradnje uspostavljene s ESB-om prema članku 7. Uredbe Vijeća (EU) br. 1024/2013.«.
+
+#### Članak 21.
+
+Iza članka 71. dodaju se naslovi iznad članaka i članci 71.a i 71.b koji glase:
+
+*»Položaj Hrvatske narodne banke u jedinstvenom sanacijskom mehanizmu*
+
+#### Članak 71.a
+
+(1) Hrvatska narodna banka neovisna je prilikom izvršavanja zadaća koje su joj u okviru jedinstvenog sanacijskog mehanizma povjerene Uredbom (EU) br. 806/2014.
+
+(2) Odredba stavka 1. ovoga članka ne dovodi u pitanje ovlasti Jedinstvenog sanacijskog odbora prema Uredbi (EU) br. 806/2014 u odnosu na Hrvatsku narodnu banku.
+
+*Ovlast za donošenje provedbenih akata*
+
+#### Članak 71.b
+
+U područjima iz nadležnosti Jedinstvenog sanacijskog odbora iz Uredbe (EU) br. 806/2014 koje je Jedinstveni sanacijski odbor uredio smjernicama, Hrvatska narodna banka može, uz suglasnost Jedinstvenog sanacijskog odbora, donijeti provedbene akte za primjenu odredaba smjernica Jedinstvenog sanacijskog odbora.«.
+
+#### Članak 22.
+
+Naslov iznad članka 76.mijenja se i glasi: »Zaštita od krivotvorenja novčanica i kovanog novca koji glasi na kune i lipe«.
+
+Članak 76. mijenja se i glasi:
+
+»(1) Hrvatska narodna banka nadležna je za tehničku analizu sumnjivih primjeraka novčanica i kovanog novca koji glasi na kune i lipe kao novčane jedinice u Republici Hrvatskoj te za poduzimanje i provođenje mjera za suzbijanje krivotvorenja tih novčanica i kovanog novca u čemu surađuje s nadležnim nacionalnim tijelima i institucijama u zemlji i inozemstvu.
+
+(2) Hrvatska narodna banka podzakonskim propisom uređuje postupanje sa sumnjivim primjercima novčanica i kovanog novca koji glasi na kune i lipe kao novčane jedinice u Republici Hrvatskoj.«.
+
+#### Članak 23.
+
+Iza članka 76. dodaju se naslovi iznad članaka i članci 76.a i 76.b koji glase:
+
+*»Zaštita od krivotvorenja novčanica i kovanog novca koji glasi na euro*
+
+#### Članak 76.a
+
+(1) Hrvatska narodna banka je nadležno nacionalno tijelo za zaštitu eura od krivotvorenja u smislu Uredbe Vijeća (EZ) br. 1338/2001 i Uredbe Vijeća (EZ) br. 1339/2001.
+
+(2) U obavljanju poslova zaštite novčanica i kovanog novca koji glase na euro od krivotvorenja i distribucije krivotvorenih novčanica i kovanog novca eura Hrvatska narodna banka u cijelosti djeluje u skladu s propisima Europske unije.
+
+(3) Hrvatska narodna banka nadležna je za tehničku analizu sumnjivih primjeraka novčanica i kovanog novca koji glase na euro te za poduzimanje i provođenje mjera za suzbijanje krivotvorenja novčanica i kovanog novca koji glase na euro u čemu surađuje s nadležnim nacionalnim tijelima i institucijama u zemlji i inozemstvu.
+
+(4) Radi učinkovitog obavljanja pojedinih poslova iz područja zaštite novčanica i kovanog novca koji glasi na euro od krivotvorenja i distribucije krivotvorenih novčanica i kovanog novca eura Hrvatska narodna banka može donijeti provedbene akte kojima se osigurava neposredna primjena propisa iz ovoga članka.
+
+(5) Provedbeni akti Hrvatske narodne banke iz stavka 4. ovoga članka moraju u cijelosti biti usklađeni s propisima Europske unije.
+
+*Zaštita od krivotvorenja stranih novčanica i kovanog novca koji ne glasi na euro*
+
+#### Članak 76.b
+
+(1) Hrvatska narodna banka nadležna je za tehničku analizu sumnjivih primjeraka stranih novčanica i kovanog novca koji ne glasi na euro te za poduzimanje i provođenje mjera za suzbijanje krivotvorenja tih novčanica i kovanog novca u čemu surađuje s nadležnim nacionalnim tijelima i institucijama u zemlji i inozemstvu.
+
+(2) Hrvatska narodna banka ovlaštena je podzakonskim propisom propisati postupanje sa sumnjivim primjercima stranih novčanica i kovanog novca koji ne glasi na euro.«.
+
+#### Članak 24.
+
+Članak 77. mijenja se i glasi:
+
+»(1) U skladu s propisima Europske unije, a prema odredbama posebnog zakona, Hrvatska narodna banka izdaje i ukida odobrenja za rad kreditnim institucijama, obavlja superviziju i nadzor poslovanja kreditnih institucija, obavlja druge poslove iz svoje nadležnosti i donosi podzakonske propise kojima se uređuje bankarsko poslovanje i utvrđuju standardi stabilnog i sigurnog poslovanja kreditnih institucija.
+
+(2) Ovlasti iz stavka 1. ovoga članka Hrvatska narodna banka izvršava u okviru bliske suradnje uspostavljene s ESB-om u skladu s člankom 7. Uredbe Vijeća (EU) br. 1024/2013 i dijelom IX. Uredbe (EU) br. 468/2014.
+
+(3) U skladu s propisima Europske unije, a prema uvjetima jedinstvenog sanacijskog mehanizma utvrđenog Uredbom (EU) br. 806/2014 i odredbama posebnog zakona, Hrvatska narodna banka provodi sanacijske ovlasti nad kreditnim institucijama i donosi podzakonske propise.«.
+
+#### Članak 25.
+
+Iza članka 77. dodaje se naslov iznad članka i članak 77.a koji glase:
+
+*»Provođenje makrobonitetne politike*
+
+#### Članak 77.a
+
+Hrvatska narodna banka utvrđuje i provodi makrobonitetnu politiku Republike Hrvatske djelujući, pri tom, u skladu s relevantnim pravnim aktima Europske unije, njezinih institucija i tijela.«.
+
+#### Članak 26.
+
+Iza članka 87. dodaju se naslovi iznad članaka i članci 87.a, 87.b i 87.c koji glase:
+
+*»Upravne sankcije ESB-a*
+
+#### Članak 87.a
+
+Kada Europska središnja banka izvršava svoje ovlasti iz članka 18. Uredbe (EU) br. 1024/2013, a u vezi s člankom 7. Uredbe (EU) br. 1024/2013, Hrvatska narodna banka surađuje s ESB-om u postupku izricanja upravnih sankcija. U tom slučaju Hrvatska narodna banka postupa u skladu s uputom ESB-a.
+
+*Kazne Jedinstvenog sanacijskog odbora*
+
+#### Članak 87.b
+
+Kada Jedinstveni sanacijski odbor izvršava svoje ovlasti iz Uredbe (EU) br. 806/2014, Hrvatska narodna banka surađuje s Jedinstvenim sanacijskim odborom u postupku izricanja kazni.
+
+*Vođenje postupka za utvrđivanje povreda i izricanje sankcija*
+
+#### Članak 87.c
+
+Hrvatska narodna banka ovlaštena je voditi postupak izricanja upravnih sankcija i izricati upravne sankcije na način i u opsegu kako je to uređeno zakonom kojim se propisuje postupak i izricanje upravnih sankcija.«.
+
+#### Članak 27.
+
+Članak 89. mijenja se i glasi:
+
+»Ne dovodeći u pitanje zadatke iz članka 88. ovoga Zakona i svoju neovisnost, Hrvatska narodna banka, u skladu s relevantnim pravnim aktima Europske unije, njezinih institucija i tijela, obavlja sljedeće zadatke:
+
+1) upravlja imovinom iz članka 100. stavka 1. ovoga Zakona,
+
+2) izdaje i oduzima odnosno ukida odobrenja i suglasnosti te donosi druga rješenja u skladu sa zakonima kojima se uređuje poslovanje kreditnih institucija i poslovanje kreditnih unija, pružatelja platnih usluga, izdavatelja elektroničkog novca i platnih sustava, platni promet, izdavanje elektroničkog novca te devizno poslovanje i poslovanje ovlaštenih mjenjača,
+
+3) obavlja superviziju i nadzor u skladu sa zakonima kojima se uređuje poslovanje kreditnih institucija i poslovanje kreditnih unija, pružatelja platnih usluga, izdavatelja elektroničkog novca i platnih sustava, platni promet i izdavanje elektroničkog novca,
+
+4) otvara račune i prima sredstva kreditnih institucija, obavlja platni promet po tim računima te odobrava kredite kreditnim institucijama,
+
+5) prikuplja i obrađuje statističke podatke,
+
+6) uređuje i unapređuje platni promet i osigurava njegovo nesmetano funkcioniranje,
+
+7) obavlja poslove fiskalnog agenta za Republiku Hrvatsku i obavlja ostale zakonom utvrđene poslove za Republiku Hrvatsku,
+
+8) donosi podzakonske propise za poslove iz svoje nadležnosti,
+
+9) provodi makrobonitetnu politiku radi pridonošenja očuvanju stabilnosti financijskog sustava u cjelini, u granicama svoje nadležnosti i
+
+10) obavlja ostale poslove utvrđene drugim propisima.«.
+
+#### Članak 28.
+
+Članak 104. mijenja se i glasi:
+
+»(1) Savjet Hrvatske narodne banke osobito je nadležan za:
+
+1) donošenje financijskog plana Hrvatske narodne banke,
+
+2) donošenje izvješća iz članka 62. ovoga Zakona,
+
+3) donošenje Statuta Hrvatske narodne banke,
+
+4) izdavanje i ukidanje odobrenja za osnivanje podružnica kreditnih institucija sa sjedištem izvan država članica, u skladu s propisima kojima se uređuje poslovanje kreditnih institucija,
+
+5) davanje i ukidanje suglasnosti za imenovanje predsjednika i članova uprava i nadzornih odbora kreditnih institucija, u skladu s propisima kojima se uređuje poslovanje kreditnih institucija,
+
+6) izdavanje i ukidanje odobrenja za rad platnih sustava i donošenje podzakonskih propisa kojima se propisuje način njihova rada,
+
+7) donošenje podzakonskih propisa kojima se uređuje izdavanje kovanog novca ako je za njihovo donošenje ovlašten ovim Zakonom i Statutom ESSB-a i ESB-a te relevantnim propisima Europske unije,
+
+8) određivanje strategije i politike upravljanja imovinom iz članka 100. ovoga Zakona,
+
+9) odlučivanje o članstvu Hrvatske narodne banke u međunarodnim institucijama i organizacijama, ne dovodeći u pitanje ovlast ESB-a iz članka 6. stavka 6.1. Statuta ESSB-a i ESB-a,
+
+10) odlučivanje o članstvu Hrvatske narodne banke u međunarodnim monetarnim institucijama, za koje je potrebna suglasnost ESB-a,
+
+11) odlučivanje o osnivanju i zatvaranju podružnica i predstavništava Hrvatske narodne banke,
+
+12) utvrđivanje da kreditna institucija propada ili će vjerojatno propasti i
+
+13) odlučivanje o davanju prijedloga za otvaranje postupka sanacije nad kreditnom institucijom ili odlučivanje o davanju prijedloga za pokretanje stečajnog postupka nad kreditnom institucijom, ili odlučivanje o pokretanju postupka prisilne likvidacije kreditne institucije.
+
+(2) Nadležnosti Savjeta Hrvatske narodne banke iz stavka 1. ovoga članka ostvaruju se u opsegu, na način i pod uvjetima uređenima Statutom ESSB-a i ESB-a ili pravnim aktima Europske unije, njezinih institucija i tijela.
+
+(3) Nadležnosti Savjeta Hrvatske narodne banke iz stavka 1. točke 13. ovoga članka ostvaruju se u okviru jedinstvenog sanacijskog mehanizma utvrđenog Uredbom (EU) br. 806/2014.«.
+
+#### Članak 29.
+
+U članku 107. stavak 1. briše se.
+
+U stavku 2. ispred riječi: »Hrvatska« oznaka stavka »(2)« briše se.
+
+#### Članak 30.
+
+U članku 109. ispred riječi: »U područjima« dodaje se oznaka stavka: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) U područjima iz nadležnosti Jedinstvenog sanacijskog odbora iz Uredbe (EU) br. 806/2014 koje je Jedinstveni sanacijski odbor uredio smjernicama, Hrvatska narodna banka može, uz suglasnost Jedinstvenog sanacijskog odbora, donijeti provedbene akte za primjenu odredaba smjernica Jedinstvenog sanacijskog odbora.«.
+
+#### Članak 31.
+
+Članak 111. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj kreditna institucija:
+
+1) ako protivno podzakonskom propisu Hrvatske narodne banke donesenom na temelju članka 14. stavka 1. ovoga Zakona izdvoji ili održava obveznu pričuvu na računu za namiru i u blagajni ili na izdvojenom računu u Hrvatskoj narodnoj banci,
+
+2) ako se ne pridržava mjera i instrumenata određenih podzakonskim propisima Hrvatske narodne banke donesenima na temelju članka 16. stavka 2. ovoga Zakona radi provođenja utvrđene monetarne i devizne politike,
+
+3) ako protivno članku 16. stavku 3. ovoga Zakona nije na vrijeme i/ili u cijelosti platila Hrvatskoj narodnoj banci naknadu utvrđenu podzakonskim propisom Hrvatske narodne banke donesenim na temelju članka 16. stavka 2. ovoga Zakona,
+
+4) ako suprotno članku 24. ovoga Zakona, bez prethodnog pristanka Hrvatske narodne banke, reproducira novčanice ili optjecajni kovani novac koji glase na kune i lipe ili na drugi način povrijedi autorska prava Hrvatske narodne banke na novčanicama i optjecajnome kovanom novcu koji glase na kune i lipe,
+
+5) ako Hrvatskoj narodnoj banci ne dostavi podatke i izvješća odnosno druge podatke potrebne za izvršavanje funkcija Hrvatske narodne banke u skladu s podzakonskim propisom Hrvatske narodne banke donesenim na temelju članka 30. stavka 1. ovoga Zakona ili
+
+6) ako ne otvori račun u Hrvatskoj narodnoj banci u skladu s člankom 34. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 50.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj pravna osoba ako suprotno članku 24. ovoga Zakona, bez prethodnog pristanka Hrvatske narodne banke, reproducira novčanice ili optjecajni kovani novac koji glase na kune i lipe ili na drugi način povrijedi autorska prava Hrvatske narodne banke na novčanicama i optjecajnome kovanom novcu koji glase na kune i lipe.
+
+(3) Novčanom kaznom u iznosu od 5.000,00 kuna do 50.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka i odgovorna osoba iz uprave kreditne institucije odnosno odgovorna osoba iz rukovodstva podružnice kreditne institucije.
+
+(4) Novčanom kaznom u iznosu od 5.000,00 kuna do 50.000,00 kuna kaznit će se za prekršaj iz stavka 2. ovoga članka i odgovorna osoba u pravnoj osobi.
+
+(5) Novčanom kaznom u iznosu od 5.000,00 kuna do 50.000,00 kuna kaznit će se za prekršaj fizička osoba ako suprotno članku 24. ovoga Zakona, bez prethodnog pristanka Hrvatske narodne banke, reproducira novčanice ili optjecajni kovani novac koji glase na kune i lipe ili na drugi način povrijedi autorska prava Hrvatske narodne banke na novčanicama i optjecajnome kovanom novcu koji glase na kune i lipe.«.
+
+#### Članak 32.
+
+Članak 112. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj kreditna institucija:
+
+1) ako u obavljanju poslova zaštite od krivotvorenja i distribucije novčanica i kovanog novca koji glase na euro, sukladno članku 6. stavcima 1. i 1.a Uredbe Vijeća (EZ) br. 1338/2001, a temeljem članka 1. Uredbe Vijeća (EZ) br. 1339/2001, ne osigura valjanu provjeru autentičnosti novčanica i kovanog novca koji glase na euro odnosno ako ne osigura povlačenje iz optjecaja primljenih novčanica i kovanog novca za koje zna ili za koje ima dovoljno razloga sumnjati da su krivotvoreni,
+
+2) ako obavlja poslove u vezi s izdavanjem, tiskanjem i kovanjem, rukovanjem i obradom, opskrbom i zamjenom novčanica i kovanog novca protivno odredbama podzakonskog propisa Hrvatske narodne banke donesenog na temelju članka 27. ovoga Zakona,
+
+3) ako se ne pridržava provedbenih akata Hrvatske narodne banke za primjenu odredaba smjernica Jedinstvenog sanacijskog odbora donesenih na temelju članka 71.b ovoga Zakona,
+
+4) ako postupi sa sumnjivim primjercima novčanica i kovanog novca koji glasi na kune i lipe kao novčane jedinice Republike Hrvatske protivno podzakonskom propisu Hrvatske narodne banke donesenom na temelju članka 76. stavka 2. ovoga Zakona,
+
+5) ako postupi protivno provedbenom aktu Hrvatske narodne banke donesenom na temelju članka 76.a stavka 4. ovoga Zakona kojim se regulira učinkovitost obavljanja poslova iz područja zaštite novčanica i kovanog novca koji glasi na euro od krivotvorenja i distribucije krivotvorenih novčanica i kovanog novca koji glasi na euro,
+
+6) ako postupi sa sumnjivim primjercima stranih novčanica i kovanog novca koji ne glasi na euro protivno podzakonskom propisu Hrvatske narodne banke donesenom na temelju članka 76.b stavka 2. ovoga Zakona,
+
+7) ako se ne pridržava podzakonskih propisa i odluka Hrvatske narodne banke donesenih na temelju članka 77. stavka 1. ovoga Zakona kojima se regulira bankarsko poslovanje i utvrđuju standardi stabilnog i sigurnog poslovanja kreditnih institucija,
+
+8) ako se ne pridržava podzakonskih propisa Hrvatske narodne banke iz područja sanacije donesenih na temelju članka 77. stavka 3. ovoga Zakona,
+
+9) ako kao obveznik podzakonskog propisa donesenog na temelju članka 86. stavka 3. ovoga Zakona ne dostavi Hrvatskoj narodnoj banci podatke za statističku obradu u skladu s tim podzakonskim propisom Hrvatske narodne banke donesenim na temelju članka 86. stavka 3. ovoga Zakona,
+
+10) ako ne izvrši mjere radi sprječavanja nekontroliranog rasta likvidnosti na tržištu do kojeg bi moglo doći u trenutku uvođenja eura kao službene novčane jedinice u Republici Hrvatskoj određene podzakonskim propisima Hrvatske narodne banke donesenim na temelju članka 87. stavka 1. ovoga Zakona,
+
+11) ako u područjima iz nadležnosti ESB-a koje je ESB uredio smjernicama postupi protivno provedbenom propisu Hrvatske narodne banke za primjenu odredaba smjernica ESB-a donesenom na temelju članka 109. stavka 1. ovoga Zakona i
+
+12) ako u područjima iz nadležnosti Jedinstvenog sanacijskog odbora iz Uredbe (EU) br. 806/2014 koje je Jedinstveni sanacijski odbor uredio smjernicama postupi protivno provedbenim aktima Hrvatske narodne banke za primjenu smjernica Jedinstvenog sanacijskog odbora donesenima na temelju članka 109. stavka 2. ovoga Zakona.
+
+(2) Novčanom kaznom u iznosu od 50.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj pravna osoba:
+
+1) ako u obavljanju poslova zaštite od krivotvorenja i distribucije novčanica i kovanog novca koji glase na euro, sukladno članku 6. stavcima 1. i 1.a Uredbe Vijeća (EZ) br. 1338/2001, a temeljem članka 1. Uredbe Vijeća (EZ) br. 1339/2001, ne osigura valjanu provjeru autentičnosti novčanica i kovanog novca koji glase na euro odnosno ako ne osigura povlačenje iz optjecaja primljenih novčanica i kovanog novca za koje zna ili za koje ima dovoljno razloga sumnjati da su krivotvoreni,
+
+2) ako obavlja poslove u vezi s izdavanjem, tiskanjem i kovanjem, rukovanjem i obradom, opskrbom i zamjenom novčanica i kovanog novca protivno odredbama podzakonskog propisa Hrvatske narodne banke donesenog na temelju članka 27. ovoga Zakona,
+
+3) ako postupi sa sumnjivim primjercima novčanica i kovanog novca koji glasi na kune i lipe kao novčane jedinice Republike Hrvatske protivno podzakonskom propisu Hrvatske narodne banke donesenom na temelju članka 76. stavka 2. ovoga Zakona,
+
+4) ako postupi protivno provedbenom aktu Hrvatske narodne banke donesenom na temelju članka 76.a stavka 4. ovoga Zakona kojim se regulira učinkovitost obavljanja poslova iz područja zaštite novčanica i kovanog novca koji glasi na euro od krivotvorenja i distribucije krivotvorenih novčanica i kovanog novca koji glasi na euro,
+
+5) ako postupa sa sumnjivim primjercima stranih novčanica i kovanog novca koji ne glasi na euro i protivno podzakonskom propisu Hrvatske narodne banke donesenom na temelju članka 76.b stavka 2. ovoga Zakona i
+
+6) ako kao obveznik podzakonskog propisa donesenog na temelju članka 86. stavka 3. ovoga Zakona ne dostavi Hrvatskoj narodnoj banci podatke za statističku obradu u skladu s tim podzakonskim propisom Hrvatske narodne banke donesenim na temelju članka 86. stavka 3. ovoga Zakona.
+
+(3) Za prekršaje iz stavka 1. ovoga članka odgovorna osoba iz uprave kreditne institucije odnosno odgovorna osoba iz rukovodstva podružnice kreditne institucije kaznit će se novčanom kaznom u iznosu od 5.000,00 kuna do 50.000,00 kuna.
+
+(4) Za prekršaj iz stavka 2. ovoga članka odgovorna osoba u pravnoj osobi kaznit će se novčanom kaznom u iznosu od 5.000,00 kuna do 50.000,00 kuna.
+
+(5) Novčanom kaznom u iznosu od 5.000,00 kuna do 50.000,00 kuna kaznit će se za prekršaj fizička osoba:
+
+1) ako obavlja poslove u vezi s izdavanjem, tiskanjem i kovanjem, rukovanjem i obradom, opskrbom i zamjenom novčanica i kovanog novca protivno odredbama podzakonskog propisa Hrvatske narodne banke donesenog na temelju članka 27. ovoga Zakona,
+
+2) ako postupi sa sumnjivim primjercima novčanica i kovanog novca koji glasi na kune i lipe kao novčane jedinice Republike Hrvatske protivno podzakonskom propisu Hrvatske narodne banke donesenom na temelju članka 76. stavka 2. ovoga Zakona,
+
+3) ako postupi protivno provedbenom aktu Hrvatske narodne banke donesenom na temelju članka 76.a stavka 4. ovoga Zakona kojim se regulira učinkovitost obavljanja poslova iz područja zaštite novčanica i kovanog novca koji glasi na euro od krivotvorenja i distribucije krivotvorenih novčanica i kovanog novca koji glasi na euro,
+
+4) ako postupi sa sumnjivim primjercima stranih novčanica i kovanog novca koji ne glasi na euro i protivno podzakonskom propisu Hrvatske narodne banke donesenom na temelju članka 76.b stavka 2. ovoga Zakona i
+
+5) ako kao obveznik podzakonskog propisa donesenog na temelju članka 86. stavka 3. ovoga Zakona ne dostavi Hrvatskoj narodnoj banci podatke za statističku obradu u skladu s tim podzakonskim propisom Hrvatske narodne banke donesenim na temelju članka 86. stavka 3. ovoga Zakona.
+
+(6) Novčanom kaznom u iznosu od 50.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj fizička osoba obrtnik ako u obavljanju poslova zaštite od krivotvorenja i distribucije novčanica i kovanog novca koji glase na euro, sukladno članku 6. stavcima 1. i 1.a Uredbe Vijeća (EZ) br. 1338/2001, a temeljem članka 1. Uredbe Vijeća (EZ) br. 1339/2001, ne osigura valjanu provjeru autentičnosti novčanica i kovanog novca koji glase na euro odnosno ako ne osigura povlačenje iz optjecaja primljenih novčanica i kovanog novca za koje zna ili za koje ima dovoljno razloga sumnjati da su krivotvoreni.«.
+
+#### Članak 33.
+
+Naslov iznad članka i članak 113. brišu se.
+
+#### Članak 34.
+
+Članak 118. mijenja se i glasi:
+
+»Na dan uvođenja eura kao službene novčane jedinice Republike Hrvatske prestaju važiti sljedeće odredbe ovoga Zakona: članak 1. stavak 1. podstavak 4., članak 4., članak 6. stavak 2., članak 7., članci 9. do 27., članci 33. do 35., članci 38. i 39., članak 42. stavci 3., 4. i 5., članak 43. stavak 3., članak 54. stavak 1., članak 61., članak 64., članak 71. stavak 4., članak 71.b, članak 74., članak 76., članak 77. stavak 2., članak 87., članak 87.a, članak 111. stavak 1. točke 1., 2., 3., 4., i 6., članak 111. stavci 2., 4. i 5., članak 112. stavak 1. točke 2. i 4., članak 112. stavak 2. točke 2. i 3. i članak 112. stavak 5. točke 1. i 2. ovoga Zakona.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 35.
+
+(1) Iz dijela općih pričuva zatečenih na dan 1. siječnja 2021. koji se odnosi na nerealizirane dobitke proizašle iz ponovnog vrednovanja imovine i obveza u prethodnim godinama, formirat će se revalorizacijski računi sukladno članku 13. ovoga Zakona, u dijelu kojim se dodaje članak 55.a Zakonu o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/08. i 54/13.), i to u iznosu koji će odrediti Savjet Hrvatske narodne banke.
+
+(2) Iz dijela općih pričuva zatečenih na dan 1. siječnja 2021. formirat će se rezervacije za rizike sukladno članku 13. ovoga Zakona, u dijelu kojim se dodaje članak 55.b Zakonu o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/08. i 54/13.), i to u iznosu koji će odrediti Savjet Hrvatske narodne banke.
+
+(3) Sastavljanje financijskih izvještaja, izračun dobiti odnosno gubitka i raspored dobiti odnosno pokrivanje gubitka Hrvatske narodne banke za financijsku godinu 2020. izvršit će se prema odredbama Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/08. i 54/13.). Počevši s financijskom godinom 2021., sastavljanje financijskih izvještaja, izračun dobiti odnosno gubitka i raspored dobiti odnosno pokrivanje gubitka Hrvatske narodne banke provode se u skladu s odredbama ovoga Zakona.
+
+#### Članak 36.
+
+Ako nakon uspostave bliske suradnje s ESB-om dođe do raskida iste sukladno članku 7. stavcima 5. ili 6. Uredbe Vijeća (EU) br. 1024/2013, danom primjene Odluke ESB-a o raskidu bliske suradnje, a koja će biti objavljena u Službenom listu Europske unije, prestaje važiti članak 1. ovoga Zakona, članak 1.a podstavci 3. i 4. koji je izmijenjen člankom 2. ovoga Zakona, članak 4. stavci 2. i 3. koji je izmijenjen člankom 4. ovoga Zakona, članak 5. ovoga Zakona, članak 42. stavci 4. i 5. koji je izmijenjen člankom 9. ovoga Zakona, članak 43. stavci 3. i 4. koji je izmijenjen člankom 10. ovoga Zakona, članak 71. stavak 4. koji je izmijenjen člankom 20. ovoga Zakona, članak 21. ovoga Zakona, članak 77. stavci 2. i 3. koji je izmijenjen člankom 24. ovoga Zakona i članak 26. ovoga Zakona u dijelu koji se odnosi na članke 87.a i 87.b.
+
+#### Članak 37.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 12. do 16. ovoga Zakona koji stupaju na snagu 1. siječnja 2021. te članka 1. ovoga Zakona, članka 1.a podstavaka 3. i 4. koji je izmijenjen člankom 2. ovoga Zakona, članka 4. stavaka 2. i 3. koji je izmijenjen člankom 4. ovoga Zakona, članka 5. ovoga Zakona, članka 42. stavaka 4. i 5. koji je izmijenjen člankom 9. ovoga Zakona, članka 43. stavaka 3. i 4. koji je izmijenjen člankom 10. ovoga Zakona, članka 71. stavka 4. koji je izmijenjen člankom 20. ovoga Zakona, članka 21. ovoga Zakona, članka 77. stavaka 2. i 3. koji je izmijenjen člankom 24. ovoga Zakona, članka 26. ovoga Zakona u dijelu koji se odnosi na članke 87.a i 87.b. koji stupaju na snagu danom primjene bliske suradnje Europske središnje banke s Hrvatskom narodnom bankom sukladno odluci ESB-a o uspostavi bliske suradnje iz članka 7. stavka 2. Uredbe Vijeća (EU) br. 1024/2013, a koja će biti objavljena u Službenom listu Europske unije te članaka 27., 28. i 30. ovoga Zakona koji stupaju na snagu na dan uvođenja eura kao službene novčane jedinice Republike Hrvatske.
+
+Klasa: 022-03/20-01/08  
+Zagreb, 7. travnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

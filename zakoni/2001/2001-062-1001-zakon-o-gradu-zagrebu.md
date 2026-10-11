@@ -6,15 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2001-07-11
-last_amended: 2014-10-07
+last_amended: 2020-12-23
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "62/01, 125/08, 36/09, 119/14"
+narodne_novine: "62/01, 125/08, 36/09, 119/14, 98/19, 144/20"
 amendments:
   - "NN 125/2008 (3565) Zakon o izmjenama i dopunama Zakona o Gradu Zagrebu"
   - "NN 36/2009 (794) Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o Gradu Zagrebu (\"Narodne novine\", br. 125/08.)"
   - "NN 119/2014 (2235) Zakon o izmjenama i dopuni Zakona o Gradu Zagrebu"
+  - "NN 98/2019 (1936) Zakon o izmjenama Zakona o Gradu Zagrebu"
+  - "NN 144/2020 (2764) Zakon o izmjenama Zakona o Gradu Zagrebu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1001"
 retrieved: 2026-10-12
 ---
@@ -23,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 62/2001 (https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1001).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 125/2008, NN 36/2009, NN 119/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 125/2008, NN 36/2009, NN 119/2014, NN 98/2019, NN 144/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -533,3 +535,134 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o Gradu Zagrebu (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1936*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O GRADU ZAGREBU
+
+Proglašavam Zakon o izmjenama Zakona o Gradu Zagrebu, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/144
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O GRADU ZAGREBU**
+
+### Članak 1.
+
+U Zakonu o Gradu Zagrebu (»Narodne novine«, br. 62/01., 125/08., 36/09. i 119/14.) u članku 4. stavak 2. mijenja se i glasi:
+
+»Povjerene poslove državne uprave utvrđene posebnim zakonom obavljaju nadležna upravna tijela Grada Zagreba.«.
+
+### Članak 2.
+
+U članku 4.a stavku 1. riječ: »središnjim« te riječi: »i uredima državne uprave« brišu se.
+
+### Članak 3.
+
+U članku 8. stavci 1. i 2. mijenjaju se i glase:
+
+»Gradonačelnik je odgovoran za zakonito i pravilno obavljanje povjerenih poslova državne uprave tijelu državne uprave nadležnom za upravni nadzor u odgovarajućem upravnom području.
+
+Nadležno tijelo državne uprave u upravnom nadzoru nad obavljanjem povjerenih poslova državne uprave može nadležnim upravnim tijelima Grada Zagreba davati opće i pojedinačne upute te poduzimati mjere i radnje utvrđene zakonom kojim se uređuje sustav državne uprave.«.
+
+Stavci 3., 4. i 5. brišu se.
+
+### Članak 4.
+
+U članku 14. stavku 3. riječ: »središnjeg« briše se.
+
+### Članak 5.
+
+U članku 15. stavku 2. riječi: »predstojnika ureda« zamjenjuju se riječima: »čelnika tijela«.
+
+Stavak 3. briše se.
+
+### Članak 6.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/139
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o Gradu Zagrebu (NN 144/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/144/2764*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O GRADU ZAGREBU
+
+Proglašavam Zakon o izmjenama Zakona o Gradu Zagrebu, koji je Hrvatski sabor donio na sjednici 15. prosinca 2020.
+
+Klasa: 011-01/20-01/117
+
+Urbroj: 71-10-01/1-20-2
+
+Zagreb, 17. prosinca 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O GRADU ZAGREBU**
+
+#### Članak 1.
+
+U Zakonu o Gradu Zagrebu (»Narodne novine«, br. 62/01., 125/08., 36/09., 119/14. i 98/19.) u članku 5. stavak 2. mijenja se i glasi:
+
+»Gradska skupština ima četrdeset sedam gradskih zastupnika.«.
+
+#### Članak 2.
+
+U članku 11. stavak 5. mijenja se i glasi:
+
+»Ako u obavijesti iz stavka 4. ovoga članka nije naveden dan početka novog načina obavljanja dužnosti, novi način obavljanja dužnosti započinje prvog dana sljedećeg mjeseca nakon dostave te obavijesti.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 3.
+
+Članovi Gradske skupštine Grada Zagreba zatečeni na dužnosti u trenutku stupanja na snagu ovoga Zakona nastavljaju s obavljanjem dužnosti do isteka tekućeg mandata.
+
+#### Članak 4.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/148  
+Zagreb, 15. prosinca 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

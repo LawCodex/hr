@@ -6,11 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2013-06-27
+last_amended: 2023-01-02
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "79/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/13, 38/20, 68/20, 88/22, 1/23"
+amendments:
+  - "NN 38/2020 (814) Uredba o dopunama Uredbe o graničnim prijelazima Republike Hrvatske"
+  - "NN 68/2020 (1355) Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske"
+  - "NN 88/2022 (1358) Uredba o dopuni Uredbe o graničnim prijelazima Republike Hrvatske"
+  - "NN 1/2023 (3) Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/79/1630"
 retrieved: 2026-10-12
 ---
@@ -18,6 +23,8 @@ retrieved: 2026-10-12
 # Uredba o graničnim prijelazima Republike Hrvatske
 
 > Izvor: Narodne novine, NN 79/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/79/1630).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 38/2020, NN 68/2020, NN 88/2022, NN 1/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -557,3 +564,193 @@ Zagreb, 26. lipnja 2013.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o dopunama Uredbe o graničnim prijelazima Republike Hrvatske (NN 38/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/38/814*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 9. stavka 2. Zakona o nadzoru državne granice (»Narodne novine«, br. 83/13 i 27/16), Vlada Republike Hrvatske je na sjednici održanoj 30. ožujka 2020. godine donijela
+
+**UREDBU**
+
+**O DOPUNAMA UREDBE O GRANIČNIM PRIJELAZIMA REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Uredbi o graničnim prijelazima Republike Hrvatske (»Narodne novine«, broj 79/13), iza članka 30. dodaju se članci 30.a i 30.b koji glase:
+
+»Članak 30.a
+
+Privremeno se, radi zaštite života i zdravlja pučanstva Republike Hrvatske za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 zatvaraju stalni granični prijelazi za međunarodni promet putnika u pomorskom prometu iz članka 26. ove Uredbe, i to:
+
+1. Umag
+
+2. Poreč
+
+3. Rovinj
+
+4. Mali Lošinj
+
+5. Korčula
+
+6. Ubli.
+
+### Članak 30.b
+
+Radi zaštite života i zdravlja pučanstva Republike Hrvatske za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 privremeno se odgađa otvaranje sezonskih graničnih prijelaza za međunarodni promet putnika u pomorskom prometu iz članka 27. ove Uredbe.«.
+
+### Članak 2.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/22
+
+Urbroj: 50301-29/09-20-2
+
+Zagreb, 30. ožujka 2020.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske (NN 68/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/68/1355*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 9. stavka 2. Zakona o nadzoru državne granice (»Narodne novine«, br. 83/13 i 27/16), Vlada Republike Hrvatske je na sjednici održanoj 10. lipnja 2020. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O GRANIČNIM PRIJELAZIMA REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Uredbi o graničnim prijelazima Republike Hrvatske (»Narodne novine«, br. 79/13 i 38/20) članak 30.a briše se.
+
+### Članak 2.
+
+Članak 30.b briše se.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/41  
+Urbroj: 50301-29/09-20-1  
+Zagreb, 10. lipnja 2020.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o dopuni Uredbe o graničnim prijelazima Republike Hrvatske (NN 88/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/88/1358*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 9. stavka 2. Zakona o nadzoru državne granice (»Narodne novine«, br. 83/13. i 27/16.), Vlada Republike Hrvatske je na sjednici održanoj 28. srpnja 2022. donijela
+
+UREDBU
+
+### O DOPUNI UREDBE O GRANIČNIM PRIJELAZIMA REPUBLIKE HRVATSKE
+
+I.
+
+U Uredbi o graničnim prijelazima Republike Hrvatske (»Narodne novine«, br. 79/13., 38/20. i 68/20.) iza članka 30. dodaje se članak 30.c koji glasi:
+
+»Članak 30.c
+
+Radi izvođenja radova dogradnje luke Sali i zatvaranja luke otvorene za javni promet lokalnog značaja – Sali, privremeno se odgađa otvaranje sezonskog graničnog prijelaza za međunarodni promet putnika u pomorskom prometu Sali, a sve do završetka radova dogradnje luke.«.
+
+II.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/22-03/50
+
+Urbroj: 50301-21/32-22-2
+
+Zagreb, 28. srpnja 2022.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske (NN 1/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/1/3*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 9. stavka 2. Zakona o nadzoru državne granice (»Narodne novine«, br. 83/13., 27/16., 114/22. i 151/22.), Vlada Republike Hrvatske je na sjednici održanoj 2. siječnja 2023. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O GRANIČNIM PRIJELAZIMA REPUBLIKE HRVATSKE**
+
+### Članak 1.
+
+U Uredbi o graničnim prijelazima Republike Hrvatske (»Narodne novine«, br. 79/13., 38/20., 68/20. i 88/22.) u članku 3. stavak 4. mijenja se i glasi:
+
+»Stalni granični prijelazi za pogranični promet su prijelazi određeni za prelazak vanjske granice sukladno pravilima režima pograničnog prometa utvrđenog sporazumom o pograničnom prometu sa susjednom trećom zemljom. Sukladno pravilima režima pograničnog prometa stanovnici pograničnog područja mogu prelaziti vanjsku granicu i preko drugih graničnih prijelaza.«.
+
+Stavak 5. briše se.
+
+Dosadašnji stavak 6. koji postaje stavak 5. mijenja se i glasi:
+
+»Na stalnim graničnim prijelazima za međunarodni promet u pomorskom prometu, poslove iz svoje nadležnosti neprekidno obavlja nadležna lučka kapetanija, osim na graničnim prijelazima iz članaka 26. ove Uredbe.«.
+
+### Članak 2.
+
+Iznad članka 13. naziv glave IV.: »IV. GRANIČNI PRIJELAZI REPUBLIKE HRVATSKE NA GRANICI S MAĐARSKOM« briše se.
+
+Članci 13., 14. i 15. brišu se.
+
+### Članak 3.
+
+Iznad članka 16. naziv glave V.: »V. GRANIČNI PRIJELAZI REPUBLIKE HRVATSKE NA GRANICI S REPUBLIKOM SLOVENIJOM« briše se.
+
+Članci 16., 17., 18. i 19. brišu se.
+
+### Članak 4.
+
+Članak 26. mijenja se i glasi:
+
+»Stalni granični prijelazi za međunarodni promet putnika u pomorskom prometu su:
+
+1. Umag
+
+2. Pula
+
+3. Mali Lošinj
+
+4. Vis
+
+5. Ubli
+
+6. Cavtat.«.
+
+### Članak 5.
+
+Članak 27. briše se.
+
+### Članak 6.
+
+Članak 30.c briše se.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/22-03/98  
+Urbroj: 50301-21/21-23-6  
+Zagreb, 2. siječnja 2023.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

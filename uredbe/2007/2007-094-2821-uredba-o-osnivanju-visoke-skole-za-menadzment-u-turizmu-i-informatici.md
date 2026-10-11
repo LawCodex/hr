@@ -6,13 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2007-09-13
-last_amended: 2013-09-25
+last_amended: 2021-02-12
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2021 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "94/07, 119/13"
+narodne_novine: "94/07, 119/13, 14/21"
 amendments:
   - "NN 119/2013 (2537) Uredba o izmjenama i dopuni Uredbe o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici"
+  - "NN 14/2021 (274) Uredba o izmjenama Uredbe o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/94/2821"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 94/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/94/2821).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 119/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 119/2013, NN 14/2021.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -212,3 +213,46 @@ Zagreb, 19. rujna 2013.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Uredba o izmjenama Uredbe o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici (NN 14/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/14/274*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. – ispravak, 47/99. – ispravak, 35/08. i 127/19.) i članka 49. stavka 2. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, br. 123/03., 105/04., 174/04., 2/07 – Odluka Ustavnog suda Republike Hrvatske, 46/07., 45/09., 63/11., 94/13., 139/13., 101/14 – Odluka Ustavnog suda Republike Hrvatske i 60/15. – Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 11. veljače 2021. donijela
+
+**UREDBU**
+
+**O IZMJENAMA UREDBE O OSNIVANJU VISOKE ŠKOLE ZA MENADŽMENT U TURIZMU I INFORMATICI U VIROVITICI**
+
+### Članak 1.
+
+U Uredbi o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici (»Narodne novine«, br. 94/07. i 119/13.), naziv Uredbe mijenja se i glasi: »Uredba o osnivanju Veleučilišta u Virovitici«.
+
+### Članak 2.
+
+U članku 1. stavku 1. riječi: »Visoka škola za menadžment u turizmu i informatici u Virovitici (u daljnjem tekstu: Škola)« zamjenjuju se riječima: »Veleučilište u Virovitici (u daljnjem tekstu: Veleučilište)«.
+
+U stavku 2. riječi: »Visoke škole« zamjenjuju se riječju: »Veleučilišta«.
+
+### Članak 3.
+
+U cijelom tekstu Uredbe o osnivanju Visoke škole za menadž­ment u turizmu i informatici u Virovitici (»Narodne novine«, br. 94/07. i 119/13.) riječ: »Škola« u određenom padežu zamjenjuje se riječju: »Veleučilište« u odgovarajućem padežu.
+
+### Članak 4.
+
+Tijela Veleučilišta uskladit će Statut i druge opće akte Veleučilišta s odredbama ove Uredbe u roku od 60 dana od dana stupanja na snagu ove Uredbe.
+
+### Članak 5.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-03/04
+
+Urbroj: 50301-04/04-21-2
+
+Zagreb, 11. veljače 2021.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

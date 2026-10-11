@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2007-10-24
-last_amended: 2013-12-11
+last_amended: 2025-12-15
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "109/07, 108/12, 148/13"
+narodne_novine: "109/07, 108/12, 148/13, 151/25"
 amendments:
   - "NN 108/2012 (2364) Zakon o izmjeni i dopuni Zakona o preuzimanju dioničkih društava"
   - "NN 148/2013 (3141) Zakon o izmjenama i dopunama Zakona o preuzimanju dioničkih društava"
+  - "NN 151/2025 (2259) Zakon o izmjenama i dopunama Zakona o preuzimanju dioničkih društava"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2007/109/3173"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 109/2007 (https://narodne-novine.nn.hr/eli/sluzbeni/2007/109/3173).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 108/2012, NN 148/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 108/2012, NN 148/2013, NN 151/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1441,3 +1442,219 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o preuzimanju dioničkih društava (NN 151/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/151/2259*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PREUZIMANJU DIONIČKIH DRUŠTAVA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o preuzimanju dioničkih društava, koji je Hrvatski sabor donio na sjednici 5. prosinca 2025.
+
+Klasa: 011-02/25-02/104  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 9. prosinca 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PREUZIMANJU DIONIČKIH DRUŠTAVA**
+
+#### Članak 1.
+
+U Zakonu o preuzimanju dioničkih društava (»Narodne novine«, br. 109/07., 36/09., 108/12., 90/13., 99/13. i 148/13.) u članku 1. ispred riječi: »Ovim« briše se oznaka stavka: »(1)«.
+
+Stavak 2. briše se.
+
+#### Članak 2.
+
+Iza članka 1. dodaju se naslov iznad članka i članak 1.a koji glase:
+
+### »PRIJENOS PROPISA EUROPSKE UNIJE
+
+#### Članak 1.a
+
+Ovim se Zakonom u pravni poredak Republike Hrvatske preuzima Direktiva 2004/25/EZ Europskog parlamenta i Vijeća od 21. travnja 2004. o ponudama za preuzimanje (SL L 142, 30. 4. 2004.), kako je posljednji put izmijenjena Direktivom (EU) 2023/2864 Europskog parlamenta i Vijeća od 13. prosinca 2023. o izmjeni određenih direktiva u pogledu uspostave i funkcioniranja jedinstvene europske pristupne točke (Tekst značajan za EGP) (SL L 2023/2864, 20. 12. 2023.) (u daljnjem tekstu: Direktiva 2004/25/EZ).«.
+
+#### Članak 3.
+
+U članku 2. točki 8. iza riječi: »prostora« točka se zamjenjuje zarezom.
+
+Iza točke 8. dodaju se točke 9. i 10. koje glase:
+
+»9. Uredba (EU) 2023/2859 je Uredba (EU) 2023/2859 Europskog parlamenta i Vijeća od 13. prosinca 2023. o uspostavi jedinstvene europske pristupne točke za centralizirani pristup javno dostupnim informacijama koje su od važnosti za financijske usluge, tržišta kapitala i održivost (Tekst značajan za EGP) (SL L 2023/2859, 20. 12. 2023.),
+
+*10. novac, novčana naknada ili novčana sredstva u smislu ovoga Zakona su novčanice i kovani novac, elektronički novac u smislu zakona kojim se uređuje elektronički novac te druga novčana potraživanja prema pružatelju platnih usluga (knjižni novac), isključujući kriptoimovinu.«.*
+
+#### Članak 4.
+
+U članku 13. stavku 3. točki 2. riječi: »i naloži poduzimanje radnji radi objavljivanja ponude za preuzimanje« brišu se.
+
+#### Članak 5.
+
+U članku 19. stavak 1. mijenja se i glasi:
+
+»(1) Radi osiguranja novčane naknade ponuditelj je obvezan na račun depozitara na koji se prenosi novčana naknada u svrhu provođenja ponude za preuzimanje izdvojiti novčana sredstva potrebna za plaćanje svih dionica koje su predmet ponude za preuzimanje i/ili depozitaru dostaviti neopozivu bankovnu garanciju na prvi poziv izdanu u korist osoba koje će pohraniti svoje dionice u ponudi za preuzimanje, na iznos potreban za plaćanje svih dionica koje su predmet ponude za preuzimanje. Novčana sredstva pohranjena na računu depozitara u svrhu provođenja ponude za preuzimanje ne ulaze u likvidacijsku ili stečajnu masu depozitara, niti mogu biti predmetom ovrhe u vezi s potraživanjem prema depozitaru.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Ponuditelj ne smije raspolagati novčanim sredstvima koja su, radi osiguranja isplate pohranjenih dionica, izdvojena na računu depozitara, osim radi isplate pohranjenih dionica.«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Depozitar je ovlašten u ime i za račun osoba koje su pohranile dionice u ponudi za preuzimanje uputiti poziv na plaćanje na temelju bankovne garancije.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 6.
+
+U članku 24. stavku 3. broj: »14« zamjenjuje se brojem: »30«.
+
+#### Članak 7.
+
+Članak 34. mijenja se i glasi:
+
+»(1) Dionice u obliku elektroničkih zapisa kod depozitara pohranjuju se prijenosom na posebnu poziciju na računu dioničara na temelju prihvata ponude za preuzimanje.
+
+(2) Prihvat ponude za preuzimanje i opoziv prihvata ponude za preuzimanje može biti izjavljen u pisanom i digitalnom obliku primjenjujući međunarodno priznate standarde sigurnosti komuniciranja ili na drugi način uređen operativnim pravilima rada depozitara.
+
+(3) Dioničar može pohranjene dionice povući iz pohrane do isteka roka trajanja ponude za preuzimanje na temelju opoziva prihvata ponude za preuzimanje.
+
+(4) Dioničar se ne može odreći prava na povlačenje dionica iz pohrane. Ponuditelj se ne može pozivati na izjavu dioničara o odricanju od prava na povlačenje dionica iz pohrane.«.
+
+#### Članak 8.
+
+U članku 45. stavak 6. mijenja se i glasi:
+
+»(6) Radi osiguranja naknade iz stavka 5. ovoga članka ponuditelj je obvezan na račun depozitara na koji se prenosi novčana naknada izdvojiti novčana sredstva ili depozitaru dostaviti neopozivu bankovnu garanciju na prvi poziv izdanu u korist manjinskih dioničara na iznos potreban za plaćanje svih dionica manjinskih dioničara. Novčana sredstva pohranjena na računu depozitara u svrhu provođenja ponude za preuzimanje ne ulaze u likvidacijsku ili stečajnu masu depozitara i/ili kreditne institucije, niti mogu biti predmetom ovrhe u vezi s potraživanjem prema depozitaru i/ili kreditnoj instituciji.«.
+
+Iza stavka 9. dodaju se stavci 10. do 14. koji glase:
+
+»(10) Iznimno od stavka 9. ovoga članka, za rješavanje sporova između ponuditelja i osoba koje s njim djeluju zajednički i manjinskih dioničara nadležan je trgovački sud. Odluka suda o visini pravične naknade djeluje prema svim manjinskim dioničarima neovisno o tome jesu li sudjelovali u sudskom postupku u kojem se raspravljalo o primjerenosti pravične naknade. Ako sud odredi pravičnu naknadu po cijeni koja je viša od cijene određene prema stavku 5. ovoga članka, ponuditelj ili osoba koja s njim djeluje zajednički obvezna je svim manjinskim dioničarima isplatiti razliku u cijeni u roku od sedam dana od dana pravomoćnosti odluke, ako protiv nje nije bio izjavljen pravni lijek odnosno od dostave pravomoćne odluke.
+
+(11) Ako sud prilikom odlučivanja o pravičnoj naknadi u postupku iz stavka 10. ovoga članka utvrdi da je cijena određena u ponudi za preuzimanje bila niža od cijene propisane člankom 16. stavcima 2. do 6. ovoga Zakona, ponuditelj ili osoba koja s njim djeluje zajednički obvezna je svim dioničarima koji su prihvatili ponudu za preuzimanje isplatiti razliku u cijeni u roku od sedam dana od dana pravomoćnosti odluke, ako protiv nje nije bio izjavljen pravni lijek odnosno od dostave pravomoćne odluke.
+
+(12) Ponuditelj ili osoba koja s njim djeluje zajednički dužna je bez odgode, a najkasnije u roku od pet dana od dana dostave sudske odluke iz stavka 10. ovoga članka, obavijestiti Agenciju o ishodu sudskog postupka u kojem je donesena odluka suda o visini pravične naknade iz stavka 10. ovoga članka.
+
+(13) Ponuditelj ili osoba koja s njim djeluje zajednički dužna je bez odgode, a najkasnije u roku od pet dana od dana isplate, o isplati razlike u cijeni koja je isplaćena na temelju stavka 10. i stavka 11. ovoga članka obavijestiti Agenciju.
+
+(14) U stvarima iz stavka 10. ovoga članka sud odlučuje u izvanparničnom postupku.«.
+
+#### Članak 9.
+
+U članku 50. stavak 3. mijenja se i glasi:
+
+»(3) Pravodobno podnesena tužba protiv rješenja Agencije kojim se utvrđuje nastanak obveze objavljivanja ponude za preuzimanje odgađa pravne učinke tog rješenja do nastupanja pravomoćnosti tog rješenja Agencije.«.
+
+#### Članak 10.
+
+Iza članka 53. dodaju se naslov iznad članka i članak 53.a koji glase:
+
+### »DOSTUPNOST INFORMACIJA NA JEDINSTVENOJ — EUROPSKOJ PRISTUPNOJ TOČKI
+
+#### Članak 53.a
+
+(1) Ponuditelj odnosno ciljno društvo dužno je pri javnoj objavi informacija iz članka 9. stavka 3., članka 10. stavka 2., članka 27. stavka 1., članka 41. stavka 1. i članka 56. stavka 1. ovoga Zakona istodobno s javnom objavom informacija dostaviti te informacije Agenciji za potrebe njihove dostupnosti na jedinstvenoj europskoj pristupnoj točki (ESAP) uspostavljenoj na temelju Uredbe (EU) 2023/2859.
+
+(2) Ponuditelj odnosno ciljno društvo dužno je osigurati da informacije iz stavka 1. ovoga članka ispunjavaju sljedeće zahtjeve:
+
+1. dostavljaju se u formatu iz kojeg se mogu izdvojiti podaci kako je definirano u članku 2. točki 3. Uredbe (EU) 2023/2859 ili, ako je to propisano pravom Europske unije, u strojno čitljivom formatu kako je definirano u članku 2. točki 4. Uredbe (EU) 2023/2859,
+
+2. priloženi su im sljedeći metapodaci:
+
+a) svi nazivi društva na koje se informacije odnose,
+
+b) identifikacijska oznaka društva kako je utvrđena u skladu s člankom 7. stavkom 4. točkom (b) Uredbe (EU) 2023/2859,
+
+c) veličina društva po kategorijama kako su utvrđene u skladu s člankom 7. stavkom 4. točkom (d) Uredbe (EU) 2023/2859,
+
+d) industrijski sektor ili sektori gospodarskih djelatnosti društva kako je utvrđeno u skladu s člankom 7. stavkom 4. točkom (e) Uredbe (EU) 2023/2859,
+
+e) vrsta informacija kako je klasificirana u skladu s člankom 7. stavkom 4. točkom (c) Uredbe (EU) 2023/2859,
+
+f) naznaka o tome sadržavaju li informacije osobne podatke.
+
+(3) Ako društvo nema identifikacijsku oznaku pravne osobe kako je utvrđena u skladu s člankom 7. stavkom 4. točkom (b) Uredbe (EU) 2023/2859, dužno ju je ishoditi prije dostave informacija iz stavka 1. ovoga članka.
+
+(4) Ponuditelj osigurava dostupnost informacije u vezi s cijenom iz ponude za preuzimanje određenom u skladu s člankom 16. stavcima 2. do 5. ovoga Zakona.
+
+(5) Ponuditelj je dužan osigurati da informacija iz stavka 4. ovoga članka ispunjava sljedeće zahtjeve:
+
+1. dostavlja se u formatu iz kojeg se mogu izdvojiti podaci kako je definirano u članku 2. točki 3. Uredbe (EU) 2023/2859,
+
+2. priloženi su sljedeći metapodaci:
+
+a) svi nazivi društva na koje se informacija odnosi,
+
+b) identifikacijska oznaka društva kako je utvrđena u skladu s člankom 7. stavkom 4. točkom (b) Uredbe (EU) 2023/2859,
+
+c) vrsta informacije kako je klasificirana u skladu s člankom 7. stavkom 4. točkom (c) Uredbe (EU) 2023/2859,
+
+d) naznaka o tome sadržava li informacija osobne podatke.
+
+(6) Agencija je dužna osigurati da su informacije iz stavaka 1. i 4. ovoga članka dostupne na jedinstvenoj europskoj pristupnoj točki (ESAP) uspostavljenoj na temelju Uredbe (EU) 2023/2859 i da informacije ispunjavaju zahtjeve iz stavaka 2. i 5. ovoga članka.
+
+(7) Agencija je, u smislu ovoga Zakona, tijelo za prikupljanje kako je definirano u članku 2. točki 2. Uredbe (EU) 2023/2859.«.
+
+#### Članak 11.
+
+U članku 59. stavku 1. u uvodnoj rečenici riječi: »200.000 do 1.000.000 kuna« zamjenjuju se riječima: »26.540,00 do 132.720,00 eura«, a zarez i riječi: »odnosno novčanom kaznom od 100,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba« brišu se.
+
+U stavku 2. u uvodnoj rečenici riječi: »100.000 do 500.000,00 kuna« zamjenjuju se riječima: »13.270,00 do 66.360,00 eura«, a zarez i riječi: »odnosno novčanom kaznom od 50.000 do 200.000,00 kuna kaznit će se za prekršaj fizička osoba« brišu se.
+
+Iza točke 17. dodaju se nove točke 18. i 19. koje glase:
+
+»18. kao ponuditelj ili osoba koja s njim djeluje zajednički, ne isplati, protivno odredbama članka 45. stavka 10. ovoga Zakona, razliku u cijeni svim manjinskim dioničarima, u roku od sedam dana od dana pravomoćnosti odluke, ako protiv nje nije bio izjavljen pravni lijek odnosno od dostave pravomoćne odluke,
+
+19. kao ponuditelj ili osoba koja s njim djeluje zajednički, ne isplati, protivno odredbama članka 45. stavka 11. ovoga Zakona, razliku u cijeni svim dioničarima koji su prihvatili ponudu za preuzimanje, u roku od sedam dana od dana pravomoćnosti odluke, ako protiv nje nije bio izjavljen pravni lijek odnosno od dostave pravomoćne odluke,«.
+
+Dosadašnje točke 18. i 19. postaju točke 20. i 21.
+
+U stavku 3. u uvodnoj rečenici riječi: »50.000,00 do 200.000,00 kuna« zamjenjuju se riječima: »6630,00 do 26.540,00 eura«, a zarez i riječi: »odnosno novčanom kaznom od 20.000 do 100.000,00 kuna kaznit će se za prekršaj fizička osoba« brišu se.
+
+Iza točke 17. dodaju se nove točke 18. i 19. koje glase:
+
+»18. kao ponuditelj ili osoba koja s njim djeluje zajednički, protivno odredbama članka 45. stavka 12. ovoga Zakona, najkasnije u roku od pet dana od dana dostave sudske odluke, ne obavijesti Agenciju o ishodu sudskog postupka u kojem je donesena predmetna odluka,
+
+19. kao ponuditelj ili osoba koja s njim djeluje zajednički, protivno odredbama članka 45. stavka 13. ovoga Zakona, najkasnije u roku od pet dana od dana isplate, ne obavijesti Agenciju o isplati razlike u cijeni koja je isplaćena na temelju stavka 10. i/ili stavka 11. članka 45. ovoga Zakona,«.
+
+Dosadašnje točke 18. i 19. postaju točke 20. i 21.
+
+Iza stavka 3. dodaju se novi stavak 4. i stavak 5. koji glase:
+
+»(4) Novčanom kaznom u iznosu od 6630,00 do 26.540,00 eura za prekršaj iz stavka 1. ovoga članka, novčanom kaznom u iznosu od 2650,00 do 13.270,00 eura za prekršaj iz stavka 2. ovoga članka i novčanom kaznom u iznosu od 1990,00 do 9950,00 eura za prekršaj iz stavka 3. ovoga članka kaznit će se fizička osoba obrtnik ili fizička osoba koja obavlja drugu samostalnu djelatnost, koje je počinila u vezi s obavljanjem svog obrta ili samostalne djelatnosti.
+
+(5) Novčanom kaznom u iznosu od 130,00 do 6630,00 eura za prekršaje iz stavaka 1., 2. i 3. ovoga članka kaznit će se fizička osoba.«.
+
+Dosadašnji stavak 4., koji postaje stavak 6., mijenja se i glasi:
+
+»(6) Novčanom kaznom u iznosu od 1320,00 do 6630,00 eura za prekršaje iz stavaka 1., 2. i 3. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 12.
+
+Agencija je dužna u roku od 30 dana od stupanja na snagu članka 10. ovoga Zakona obavijestiti Europsko nadzorno tijelo za vrijednosne papire i tržišta kapitala da je, sukladno članku 10. ovoga Zakona, tijelo za prikupljanje kako je definirano u članku 2. točki 2. Uredbe (EU) 2023/2859.
+
+#### Članak 13.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 10. ovoga Zakona koji stupa na snagu 10. siječnja 2030.
+
+Klasa: 022-02/25-01/89
+
+Zagreb, 5. prosinca 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2012-10-31
+last_amended: 2018-07-27
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "120/12"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "120/12, 68/18"
+amendments:
+  - "NN 68/2018 (1397) Zakon o izmjenama i dopunama Zakona o regulaciji energetskih djelatnosti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/120/2584"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o regulaciji energetskih djelatnosti
 
 > Izvor: Narodne novine, NN 120/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/120/2584).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 68/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -624,3 +628,295 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o regulaciji energetskih djelatnosti (NN 68/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/68/1397*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O REGULACIJI ENERGETSKIH DJELATNOSTI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o regulaciji energetskih djelatnosti, koji je Hrvatski sabor donio na sjednici 13. srpnja 2018.
+
+Klasa: 011-01/18-01/103
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 19. srpnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O REGULACIJI ENERGETSKIH DJELATNOSTI**
+
+#### Članak 1.
+
+U Zakonu o regulaciji energetskih djelatnosti (»Narodne novine«, br. 120/12.) u članku 2. ispred riječi: »Ovim« stavlja se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Ovim Zakonom osigurava se provedba Uredbe (EU) br. 1227/2011 Europskog parlamenta i Vijeća od 25. listopada 2011. o cjelovitosti i transparentnosti veleprodajnog tržišta energije (Tekst značajan za EGP) (SL L 326, 8. 12. 2011.).«.
+
+#### Članak 2.
+
+Članak 7. mijenja se i glasi:
+
+»(1) Hrvatska energetska regulatorna agencija (u daljnjem tekstu: Agencija) je samostalna, neovisna pravna osoba s javnim ovlastima za regulaciju energetskih djelatnosti.
+
+(2) Sjedište Agencije je u Zagrebu.
+
+(3) Rad Agencije je javan.
+
+(4) Agencija vodi financijsko poslovanje i računovodstvo u skladu s propisima za proračunske korisnike.
+
+(5) Statutom Agencije uređuju se: unutarnje ustrojstvo, osnivanje i djelokrug rada savjetodavnih i stručnih tijela, predstavljanje i zastupanje, rad i poslovanje, ovlasti i način odlučivanja, opći akti, tajnost podataka, javnost rada te druga pitanja značajna za rad Agencije.
+
+(6) Statut Agencije donosi Upravno vijeće Agencije, uz prethodnu suglasnost Hrvatskoga sabora.
+
+(7) Pravilima se utvrđuju uvjeti koje moraju ispunjavati stručni voditelji te njihova prava, dužnosti i odgovornosti, a donosi ih Upravno vijeće Agencije.«.
+
+#### Članak 3.
+
+U članku 28. stavak 3. briše se.
+
+Dosadašnji stavak 4. postaje stavak 3.
+
+#### Članak 4.
+
+Članak 30. briše se.
+
+#### Članak 5.
+
+U članku 32. stavak 5. briše se.
+
+#### Članak 6.
+
+U članku 35. stavku 1. riječi: »energetskih subjekata« zamjenjuju se riječima: »svake fizičke i/ili pravne osobe«.
+
+Stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Svaka fizička i/ili pravna osoba dužna je u roku koji odredi Agencija odgovoriti na zahtjev Agencije i dostaviti zatražene podatke, izvješća i drugu dokumentaciju u skladu sa zahtjevom Agencije iz stavka 1. ovoga članka.
+
+(4) Agencija je dužna u roku od 15 dana odgovoriti na pisani zahtjev svake fizičke i/ili pravne osobe o pitanjima iz nadležnosti Agencije.«.
+
+#### Članak 7.
+
+Naslov iznad članka 36. mijenja se i glasi: »III. OVLASTI AGENCIJE U POSTUPKU NADZORA«.
+
+Članak 36. mijenja se i glasi:
+
+»(1) Agencija provodi postupak nadzora u okviru svojih nadležnosti propisanih odredbama ovoga Zakona, osim u slučajevima koji po posebnim propisima spadaju u nadležnost drugih tijela.
+
+(2) Položaj stranke u postupku nadzora u smislu ovoga Zakona imaju energetski subjekti, krajnji kupci i druge pravne ili fizičke osobe protiv kojih Agencija vodi postupak iz svoje nadležnosti.
+
+(3) Postupak nadzora u smislu ovoga Zakona Agencija pokreće po službenoj dužnosti.
+
+(4) Agencija dostavlja stranci obavijest o pokretanju postupka nadzora, koja sadrži:
+
+1. oznaku predmeta na koji se obavijest odnosi,
+
+2. odredbe propisa na temelju kojih se pokreće postupak,
+
+3. podatke o strankama,
+
+4. opis činjeničnog stanja ili okolnosti koje su razlog za pokretanje postupka,
+
+5. zahtjev za dostavu podataka i dokumentacije.
+
+(5) Stranci se može uručiti obavijest o pokretanju postupka nadzora i na dan početka provođenja nadzora, ako je potrebno hitno provođenje nadzora ili nije moguće na drugi način postići svrhu nadzora.«.
+
+#### Članak 8.
+
+Iza članka 36. dodaju se članci 36.a do 36.c koji glase:
+
+»Članak 36.a
+
+(1) Agencija utvrđuje činjenično stanje u postupku nadzora:
+
+1. neposredno, opažanjem ovlaštene osobe Agencije, pri čemu je ovlaštena zahtijevati od stranke u postupku da joj omogući neposredan uvid u sve poslovne prostorije, svu nepokretnu i pokretnu imovinu, poslovne knjige, baze podataka i drugu dokumentaciju, pri čemu se sastavlja zapisnik,
+
+2. posredno, na temelju pribavljenih podataka, izvješća i druge dokumentacije,
+
+3. zagušenjem unutar hrvatskog elektroenergetskog sustava, uključujući spojne vodove, kao i provedbu pravila za upravljanje zagušenjem sukladno odredbama zakona kojim se uređuje tržište električne energije,
+
+4. zagušenjem unutar hrvatskog transportnog sustava plina, uključujući spojne plinovode, kao i provedbu pravila upravljanja zagušenjem sukladno odredbama zakona kojim se uređuje tržište plina.
+
+(2) Stranka je dužna ovlaštenoj osobi Agencije, nakon zaprimanja obavijesti o nadzoru, omogućiti obavljanje nadzora u sjedištu stranke i/ili na ostalim mjestima u kojima stranka ili druga osoba po njezinom ovlaštenju obavlja djelatnost i poslove u vezi s kojima Agencija obavlja nadzor.
+
+(3) Stranka je dužna ovlaštenoj osobi Agencije koja provodi nadzor omogućiti pregled poslovnih knjiga, baze podataka i druge dokumentacije te nadzor nad informacijskim sustavom i tehnologijama koje omogućavaju rad informacijskog sustava, u opsegu potrebnom za obavljanje nadzora.
+
+(4) Stranka je dužna ovlaštenoj osobi Agencije koja provodi nadzor predati svu zatraženu poslovnu dokumentaciju, računalne ispise koji uključuju ispise elektroničke pošte, preslike poslovnih knjiga te zapise s telefaksa u papirnatom obliku ili u obliku elektroničkog zapisa na mediju i u obliku koji zahtijeva ovlaštena osoba Agencije te je dužna osigurati standardno sučelje za pristup sustavu za upravljanje bazama podataka kojima se koristi, u svrhu provođenja nadzora potpomognutog računalnim programima.
+
+(5) Dokumentaciju, ispise i zapise iz stavka 4. ovoga članka ili predmete koji mogu poslužiti kao dokaz u kaznenom ili prekršajnom postupku ovlaštena osoba Agencije može, uz izdavanje potvrde, privremeno oduzeti stranci, ali samo do pokretanja tih postupaka, kada ih predaje tijelu nadležnom za vođenje postupka.
+
+(6) Odgovorne osobe i radnici stranke dužni su surađivati s ovlaštenom osobom Agencije, na njezin zahtjev obaviti s njom razgovor te joj dati sve informacije i podatke bitne za obavljanje nadzora i ispunjavanje ciljeva nadzora.
+
+(7) Odredbe stavaka 2. do 6. ovoga članka mogu se na odgovarajući način primijeniti i na druge osobe koje po ovlaštenju stranke obavljaju djelatnost i poslove u vezi s kojima Agencija obavlja nadzor.
+
+(8) Stranka je dužna, na zahtjev ovlaštene osobe Agencije, osigurati stručnu i tehničku pomoć, kao i druge uvjete potrebne za obavljanje nadzora, te dati ovlaštenoj osobi Agencije sva potreba pojašnjenja, podatke i informacije u vezi s postupkom nadzora.
+
+(9) Nakon provedenog postupka nadzora opisanog u stavku 1. točki 1. ovoga članka sastavlja se zapisnik koji sadrži:
+
+1. mjesto i datum sastavljanja zapisnika,
+
+2. klasifikacijsku oznaku predmeta i pravni temelj za provedbu nadzora,
+
+3. mjesto i vrijeme provedbe nadzora,
+
+4. osobna imena ovlaštenih osoba Agencije, nazočnih stranaka u postupku i njihovih opunomoćenika i trećih osoba,
+
+5. opis tijeka i sadržaja svake provedene radnje tijekom nadzora i danih izjava,
+
+6. popis dokumenata i ostalih predmeta korištenih i/ili privremeno oduzetih tijekom nadzora.
+
+(10) Zapisnik iz stavka 9. ovoga članka dostavlja se strankama u postupku kao i osobama kod kojih je proveden nadzor opisan u stavku 1. točki 1. ovoga članka.
+
+(11) Stranke u postupku, kao i osobe kod kojih je proveden nadzor opisan u stavku 1. točki 1. ovoga članka, imaju pravo pisanim putem dostaviti svoje primjedbe na zapisnik iz stavka 9. ovoga članka u roku od osam dana od dana dostave zapisnika.
+
+(12) U postupku nadzora opisanom u stavku 1. točki 2. ovoga članka Agencija je, u svrhu utvrđivanja činjeničnog stanja, ovlaštena pisanim putem:
+
+1. zahtijevati od stranke u postupku, kao i od drugih pravnih ili fizičkih osoba, udruga potrošača, tijela državne uprave te tijela jedinica lokalne i područne (regionalne) samouprave, sve potrebne obavijesti, u obliku pisanih očitovanja ili usmenih izjava te dostavu na uvid potrebnih podataka i dokumentacije,
+
+2. zahtijevati od stranke u postupku obavljanje drugih radnji koje smatra potrebnima radi utvrđenja svih relevantnih činjenica.
+
+(13) Zahtjev iz stavka 12. ovoga članka mora sadržavati pravnu osnovu, predmet i svrhu zahtjeva te rok za njegovo izvršenje, kao i upozorenje da ako stranka u postupku i druge pravne i fizičke osobe iz stavka 12. točke 1. ovoga članka ne postupe po zahtjevu Agencije, Agencija može protiv tih osoba pokrenuti prekršajni postupak.
+
+(14) Kada podaci i dokumentacija sadrže poslovnu tajnu, stranka u postupku i druge pravne i fizičke osobe dužne su Agenciji označiti, uz valjano obrazloženje, što se smatra poslovnom tajnom.
+
+#### Članak 36.b
+
+(1) Kako bi strankama u postupku nadzora u smislu ovoga Zakona osigurala mogućnost da se izjasne o svim relevantnim činjenicama i okolnostima, Agencija će im prije donošenja odluke iz članka 36.c ovoga Zakona dostaviti pisanim putem obavijest o preliminarno utvrđenim činjenicama u postupku nadzora.
+
+(2) Stranke u postupku imaju pravo dostaviti svoje primjedbe na obavijest iz stavka 1. ovoga članka, u pisanom obliku, u roku od 15 dana od dana dostave obavijesti.
+
+(3) Osim primjedbi iz stavka 2. ovoga članka, stranke u postupku mogu pisanim putem predložiti izvođenje dodatnih dokaza.
+
+(4) Ako nakon donošenja obavijesti iz stavka 1. ovoga članka Agencija provede dodatne analize te na taj ili neki drugi način utvrdi nove činjenice ili dokaze kojima se značajno mijenja već utvrđeno činjenično stanje, Agencija može donijeti odluku koja se razlikuje od stajališta utvrđenog u obavijesti iz stavka 1. ovoga članka.
+
+(5) U slučaju propisanim stavkom 4. ovoga članka, Agencija će prije donošenja odluke iz članka 36.c ovoga Zakona strankama u postupku dostaviti novu obavijest u kojoj će navesti sve novo utvrđene činjenice, okolnosti i zaključke.
+
+(6) Na obavijest iz stavka 5. ovoga članka stranke imaju pravo pisanim putem dostaviti primjedbe i prijedloge Agenciji u roku koji odredi Agencija.
+
+#### Članak 36.c
+
+(1) Na temelju utvrđenog činjeničnog stanja u postupku nadzora Agencija donosi odluke o:
+
+– privremenom oduzimanju dozvole za obavljanje energetske djelatnosti sukladno propisima kojima se uređuje energija i regulacija energetskih djelatnosti,
+
+– trajnom oduzimanju dozvole za obavljanje energetske djelatnosti sukladno propisima kojima se uređuje energija i regulacija energetskih djelatnosti,
+
+– nalaganju poduzimanja određenih radnji,
+
+– nalaganju otklanjanja nedostataka u radu ili
+
+– obustavi postupka.
+
+(2) Odluka iz stavka 1. ovoga članka dostavit će se stranci.
+
+(3) Protiv odluka iz Agencije stavka 1. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor. Postupak pred upravnim sudom je hitan.
+
+(4) Uz odluke iz stavka 1. ovoga članka Agencija može pokrenuti prekršajni postupak podnošenjem optužnog prijedloga.«.
+
+#### Članak 9.
+
+Članak 37. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 10.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. ne dostavi zatražene podatke i dokumentaciju na zahtjev Agencije sukladno članku 35. stavku 1. ovoga Zakona,
+
+2. ne postupi sukladno odluci Agencije sukladno članku 27. stavku 5. ovoga Zakona,
+
+3. ne izrađuje planove razvoja prijenosne, odnosno transportne ili distribucijske mreže sukladno članku 11. stavku 1. točki 12. ovoga Zakona,
+
+4. objavi pravila za čije donošenje je nadležna, bez prethodne suglasnosti Agencije sukladno članku 11. stavku 1. točki 7. odnosno članku 11. stavku 2. točki 3. i 4. ovoga Zakona,
+
+5. objavi cijene i naknade za djelatnosti koje obavlja, bez prethodne suglasnosti Agencije, ako je propisano ishođenje takve suglasnosti sukladno članku 11. stavku 1. točki 10. ovoga Zakona,
+
+6. obavlja energetsku djelatnost bez dozvole Agencije sukladno članku 11. stavku 1. točki 1. ovoga Zakona,
+
+7. ne izrađuje i ne dostavlja izvješća Agenciji sukladno članku 35. stavku 1. ovoga Zakona.
+
+(2) Za prekršaj iz stavka 1. ovog članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna.
+
+(3) Za prekršaj iz stavka 1. ovog članka kaznit će se fizička osoba koja obavlja gospodarsku djelatnost novčanom kaznom u iznosu od 5000,00 do 250.000,00 kuna.
+
+(4) Uz novčanu kaznu za prekršaj može se pravnoj osobi koja je počinila dva ili više prekršaja ili u roku od godine dana dva ili više puta ponovila prekršaje iz stavka 1. ovog članka izreći zaštitna mjera zabrane obavljanja djelatnosti u čijem obavljanju je prekršaj počinjen u trajanju od tri mjeseca do jedne godine.
+
+(5) Uz novčanu kaznu za prekršaj može se odgovornoj osobi u pravnoj osobi ili fizičkoj osobi koja obavlja gospodarsku djelatnost koja je počinila dva ili više prekršaja ili u roku od godine dana dva ili više puta ponovila prekršaje iz stavka 1. ovog članka izreći zaštitna mjera zabrane obavljanja djelatnosti u čijem obavljanju je prekršaj počinjen u trajanju od jednog mjeseca do jedne godine.«.
+
+#### Članak 10.
+
+Iza članka 37. dodaje se članak 37.a koji glasi:
+
+»Članak 37.a
+
+(1) Novčanom kaznom u iznosu od 10.000,00 do 500.000,00 kuna kaznit će se za prekršaj pravna osoba koja:
+
+1. ovlaštenoj osobi Agencije ne omogući obavljanje nadzora sukladno članku 36.a stavku 2. ovoga Zakona,
+
+2. ovlaštenoj osobi Agencije ne omogući pregled poslovnih knjiga, baze podataka i druge dokumentacije te nadzor nad informacijskim sustavom i tehnologijama koje omogućavaju rad informacijskog sustava, u opsegu potrebnom za obavljanje nadzora sukladno članku 36.a stavku 3. ovoga Zakona,
+
+3. ovlaštenoj osobi Agencije ne preda svu zatraženu poslovnu dokumentaciju, računalne ispise koji uključuju ispise elektroničke pošte, preslike poslovnih knjiga te zapise s telefaksa u papirnatom obliku ili u obliku elektroničkog zapisa na mediju i u obliku koji zahtijeva ovlaštena osoba Agencije te ne osigura standardno sučelje za pristup sustavu za upravljanje bazama podataka kojima se koristi, u svrhu provođenja nadzora potpomognutog računalnim programima sukladno članku 36.a stavku 4. ovoga Zakona,
+
+4. po ovlaštenju stranke obavlja djelatnost i poslove iz članka 36.a stavaka 2. do 6. u vezi s kojima Agencija obavlja nadzor, sukladno članku 36.a stavku 7. ovoga Zakona,
+
+5. na zahtjev ovlaštene osobe Agencije ne osigura stručnu i tehničku pomoć, kao i druge uvjete potrebne za obavljanje nadzora, te ne daje ovlaštenoj osobi Agencije sva potrebna pojašnjenja, podatke i informacije u vezi s postupkom nadzora sukladno članku 36.a stavku 8. ovoga Zakona,
+
+6. ne da sve potrebne obavijesti, u obliku pisanih očitovanja ili usmenih izjava, ne dostavi na uvid potrebne podatke i dokumentaciju te ne obavi druge radnje koje Agencija smatra potrebnima radi utvrđenja svih relevantnih činjenica sukladno članku 36.a stavku 12. ovoga Zakona, osim tijela državne uprave te tijela jedinica lokalne i područne (regionalne) samouprave.
+
+(2) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi te odgovorne osobe u tijelima državne uprave te tijelima jedinica lokalne i područne (regionalne) samouprave za prekršaje iz stavka 1. ovoga članka.
+
+(3) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi ako s ovlaštenom osobom Agencije ne surađuje i ne daje sve informacije i podatke bitne za obavljanje nadzora i ispunjavanje ciljeva nadzora sukladno članku 36.a stavku 6. ovoga Zakona.
+
+(4) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se fizička osoba za prekršaje iz stavka 1. ovoga članka.
+
+(5) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se fizička osoba ako s ovlaštenom osobom Agencije ne surađuje i ne daje sve informacije i podatke bitne za obavljanje nadzora i ispunjavanje ciljeva nadzora sukladno članku 36.a stavku 6. ovoga Zakona.
+
+(6) Novčanom kaznom u iznosu od 3000,00 do 50.000,00 kuna kaznit će se fizička osoba koja obavlja gospodarsku djelatnost za prekršaje iz stavka 1. ovoga članka.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 11.
+
+Danom stupanja na snagu ovoga Zakona prestaju važiti članak 17. stavak 3. i članak 18. stavak 6. Zakona o energiji (»Narodne novine«, br. 120/12., 14/14. i 102/15.).
+
+#### Članak 12.
+
+(1) Upravno vijeće Agencije dužno je uskladiti Statut Agencije s odredbama ovoga Zakona i zatražiti suglasnost Hrvatskoga sabora na Statut Agencije najkasnije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Upravno vijeće Agencije dužno je donijeti pravila iz članka 2. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu Statuta Agencije iz stavka 1. ovoga članka.
+
+#### Članak 13.
+
+Postupci započeti do stupanja na snagu ovoga Zakona nastavit će se i dovršiti prema odredbama Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, br. 120/12.).
+
+#### Članak 14.
+
+Ministarstvo nadležno za energetiku će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 15.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/69
+
+Zagreb, 13. srpnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

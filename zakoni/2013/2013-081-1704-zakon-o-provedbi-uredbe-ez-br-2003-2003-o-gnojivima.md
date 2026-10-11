@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-29
+last_amended: 2019-03-29
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "81/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "81/13, 32/19"
+amendments:
+  - "NN 32/2019 (653) Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 2003/2003 o gnojivima"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/81/1704"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o provedbi Uredbe (EZ) br. 2003/2003 o gnojivima
 
 > Izvor: Narodne novine, NN 81/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/81/1704).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 32/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -210,3 +214,67 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 2003/2003 o gnojivima (NN 32/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/32/653*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 2003/2003 O GNOJIVIMA
+
+Proglašavam Zakon o izmjenama Zakona o provedbi uredbe (EZ) br 2003/2003 o gnojivima, koji je Hrvatski sabor donio na sjednici 23. ožujka 2019.
+
+Klasa: 011-01/19-01/56
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 27. ožujka 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 2003/2003 O GNOJIVIMA**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EZ) br. 2003/2003 o gnojivima (»Narodne novine«, br. 81/13.) članak 8. mijenja se i glasi:
+
+»Inspekcijski nadzor nad provedbom Uredbe (EZ) br. 2003/2003 i ovoga Zakona obavljaju poljoprivredni inspektori Državnog inspektorata.«.
+
+### Članak 2.
+
+Članak 10. mijenja se i glasi:
+
+»(1) Ako poljoprivredni inspektor u postupku inspekcijskog nadzora utvrdi da je povrijeđen ovaj Zakon, može rješenjem narediti da se utvrđene nepravilnosti, odnosno nedostaci uklone u određenom roku.
+
+(2) Poljoprivredni inspektor donijet će rješenje iz stavka 1. ovoga članka bez odgađanja, a najkasnije u roku od 15 dana od dana završetka nadzora.
+
+(3) Protiv rješenja poljoprivrednog inspektora iz stavka 2. ovoga članka može se u roku od 15 dana od dana dostave rješenja izjaviti žalba Državnom inspektoratu.
+
+(4) Žalba protiv rješenja iz stavka 2. ovoga članka ne odgađa izvršenje rješenja.«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/33
+
+Zagreb, 23. ožujka 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

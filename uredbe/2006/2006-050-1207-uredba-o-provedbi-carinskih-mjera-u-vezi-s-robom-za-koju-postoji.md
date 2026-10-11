@@ -337,73 +337,59 @@ ____________________
 *ZAPISNIK o uzimanju uzoraka sukladno članku 15. Uredbe o provedbi carinskih mjera u svezi s robom za koju postoji sumnja da povrjeđuje određena prava intelektualnog vlasništva*
 
 <table>
-
 <tr>
 <td>1.</td>
 <td colspan="2">Nositelj prava</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td colspan="2">Carinski deklarant</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td colspan="2">Primatelj robe</td>
 </tr>
-
 <tr>
 <td>4.</td>
 <td colspan="2">Posjednik robe</td>
 </tr>
-
 <tr>
 <td>5.</td>
 <td colspan="2">Vlasnik robe</td>
 </tr>
-
 <tr>
 <td>6.</td>
 <td colspan="2">Broj JCD i vrsta carinskog postupka</td>
 </tr>
-
 <tr>
 <td>7.</td>
 <td colspan="2">Trgovački naziv robe iz fakture *</td>
 </tr>
-
 <tr>
 <td>8.</td>
 <td colspan="2">Tarifna oznaka</td>
 </tr>
-
 <tr>
 <td>9.</td>
 <td colspan="2">Uzorci, uzeti iz:** posuda, vreća, staklenki, kolutova, bala, kutija, omota, vagona, kamiona, broda, ...</td>
 </tr>
-
 <tr>
 <td>10.</td>
 <td colspan="2">Carinska obilježja stavljena na uzete uzorke**<br> Broj plombe Pečat carinarnice</td>
 </tr>
-
 <tr>
 <td>11.</td>
 <td>Količina uzeta za pojedini uzorak:</td>
 <td>Uzorci uzeti u originalnoj ambalaži**<br> DA NE</td>
 </tr>
-
 <tr>
 <td>12.</td>
 <td colspan="2">Napomene i upozorenja</td>
 </tr>
-
 <tr>
 <td>13.</td>
 <td colspan="2">Prilozi:** faktura, JCD, certifikat, tehnički podaci,<br> garancija, fotografije</td>
 </tr>
-
 </table>
 
 \* ako je različita vrsta robe, treba je označiti na fakturi. U toj rubrici treba napisati F.  

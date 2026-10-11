@@ -6,14 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-07-26
-last_amended: 2010-06-10
+last_amended: 2023-02-28
 status: in_force
-status_basis: "derived: enacted or amended in 2010 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "85/06, 150/08, 71/10"
+narodne_novine: "85/06, 150/08, 71/10, 53/20, 120/21, 23/23"
 amendments:
   - "NN 150/2008 (4099) Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju"
   - "NN 71/2010 (2140) Zakon o izmjenama i dopunama Zakona o dobrovoljnom zdravstvenom osiguranju"
+  - "NN 53/2020 (1058) Zakon o izmjenama i dopuni Zakona o dobrovoljnom zdravstvenom osiguranju"
+  - "NN 120/2021 (2067) Zakon o izmjeni Zakona o dobrovoljnom zdravstvenom osiguranju"
+  - "NN 23/2023 (387) Zakon o izmjeni Zakona o dobrovoljnom zdravstvenom osiguranju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2016"
 retrieved: 2026-10-12
 ---
@@ -22,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 85/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2016).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 150/2008, NN 71/2010.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 150/2008, NN 71/2010, NN 53/2020, NN 120/2021, NN 23/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -523,3 +526,171 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o dobrovoljnom zdravstvenom osiguranju (NN 53/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/53/1058*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o dobrovoljnom zdravstvenom osiguranju, koji je Hrvatski sabor donio na sjednici 30. travnja 2020.
+
+Klasa: 011-01/20-01/68  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 30. travnja 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU**
+
+### Članak 1.
+
+U Zakonu o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, br. 85/06., 150/08. i 71/10.) u članku 5. riječi: »članka 16. stavka 3. i 4. i članka 17. stavka 5. Zakona o obveznom zdravstvenom osiguranju« zamjenjuju se riječima: »članka 19. stavaka 3. i 4. i članka 20. stavka 5. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.)«.
+
+### Članak 2.
+
+U članku 10. stavku 1. riječi: »članka 16. stavka 3. i 4. i članka 17. stavka 5. Zakona o obveznom zdravstvenom osiguranju« zamjenjuju se riječima: »članka 19. stavaka 3. i 4. i članka 20. stavka 5. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.)«.
+
+### Članak 3.
+
+U članku 14.b stavku 1. riječi: »45,59% proračunske osnovice« zamjenjuju se riječima: »1.563,23 kune«.
+
+U stavku 2. riječi: »58,31% proračunske osnovice« zamjenjuju se riječima: »2.000,00 kuna«.
+
+Iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
+
+»Prihodovni cenzus iz stavaka 1. i 2. ovoga članka povećava se svake kalendarske godine prema stopi povećanja prihodovnog cenzusa koja se utvrđuje tako da se zbroji stopa promjene prosječnog indeksa potrošačkih cijena u prethodnoj godini u odnosu na godinu koja joj prethodi i stopa promjene prosječne brutoplaće svih zaposlenih u Republici Hrvatskoj u prethodnoj godini u odnosu na godinu koja joj prethodi, i to:
+
+– ako je udio stope promjene prosječnog indeksa potrošačkih cijena u zbroju stopa manji ili jednak 50 %, stopa usklađivanja prihodovnog cenzusa određuje se tako da se zbroji 30 % stope promjene prosječnog indeksa potrošačkih cijena i 70 % stope promjene prosječne brutoplaće ili
+
+– ako je udio stope promjene prosječnog indeksa potrošačkih cijena u zbroju stopa veći od 50 %, stopa usklađivanja prihodovnog cenzusa određuje se tako da se zbroji 70 % stope promjene prosječnog indeksa potrošačkih cijena i 30 % stope promjene prosječne brutoplaće.
+
+Za izračun udjela stope promjene potrošačkih cijena u zbroju stopa iz stavka 3. ovoga članka uzimaju se apsolutni brojevi tih stopa.
+
+Odluku o usklađivanju prihodovnog cenzusa donosi Upravno vijeće Zavoda na temelju podataka Državnog zavoda za statistiku, najkasnije do 30. studenoga tekuće godine za sljedeću godinu.«.
+
+### Članak 4.
+
+U članku 14.f riječi: »članka 8.« zamjenjuju se riječima: »članka 10. stavka 1.«.
+
+### Članak 5.
+
+Ministarstvo zdravstva će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/69  
+Zagreb, 30. travnja 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o dobrovoljnom zdravstvenom osiguranju (NN 120/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/120/2067*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA  
+O IZMJENI ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU
+
+Proglašavam Zakon o izmjeni Zakona o dobrovoljnom zdravstvenom osiguranju, koji je Hrvatski sabor donio na sjednici 29. listopada 2021.
+
+Klasa: 011-01/21-01/79
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 4. studenoga 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU**
+
+### Članak 1.
+
+U Zakonu o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, br. 85/06., 150/08., 71/10. i 53/20.) u članku 14.b stavku 1. riječi: »1.563,23 kune« zamjenjuju se riječima: »2.000,00 kuna«.
+
+U stavku 2. riječi: »2.000,00 kuna« zamjenjuju se riječima: »2.500,00 kuna«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 500-01/21-01/07
+
+Zagreb, 29. listopada 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o dobrovoljnom zdravstvenom osiguranju (NN 23/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/23/387*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU
+
+Proglašavam Zakon o izmjeni Zakona o dobrovoljnom zdravstvenom osiguranju, koji je Hrvatski sabor donio na sjednici 17. veljače 2023.
+
+Klasa: 011-02/23-02/16  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 23. veljače 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O DOBROVOLJNOM ZDRAVSTVENOM OSIGURANJU**
+
+### Članak 1.
+
+U Zakonu o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, br. 85/06., 150/08., 71/10., 53/20. i 120/21.) u članku 14.b stavku 1. riječi: »2.000,00 kuna« zamjenjuju se riječima: »331,81 eura«.
+
+U stavku 2. riječi: »2.500,00 kuna« zamjenjuju se riječima: »415,42 eura«.
+
+### Članak 2.
+
+Ovaj Zakon stupa na snagu osmoga dana od objave u »Narodnim novinama«.
+
+Klasa: 502-01/22-01/05
+
+Zagreb, 17. veljače 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

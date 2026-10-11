@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2006-07-17
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2006; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "79/06"
-amendments: []
+last_amended: 2018-11-09
+status: in_force
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "79/06, 99/18"
+amendments:
+  - "NN 99/2018 (1916) Zakon o izmjenama i dopunama Zakona o Zakladi hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1913"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o Zakladi hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji
 
 > Izvor: Narodne novine, NN 79/2006 (https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1913).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 99/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -246,3 +250,73 @@ Predsjednik
 Hrvatskoga sabora
 
 Vladimir Šeks, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o Zakladi hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (NN 99/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/99/1916*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ZAKLADI HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o Zakladi hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, koji je Hrvatski sabor donio na sjednici 31. listopada 2018.
+
+Klasa: 011-01/18-01/129
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 5. studenoga 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ZAKLADI HRVATSKIH BRANITELJA IZ DOMOVINSKOG RATA I ČLANOVA NJIHOVIH OBITELJI**
+
+### Članak 1.
+
+(1) U Zakonu o Zakladi hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (»Narodne novine«, br. 79/06.) u članku 3. iza podstavka 5. dodaju se novi podstavak 6. i podstavak 7. koji glase:
+
+» – pružanjem prava na potporu za obrazovanje osobama i pod uvjetima iz članka 124. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, br. 121/17.),
+
+– pružanjem stručne potpore hrvatskim braniteljima i članovima njihovih obitelji u pripremi i provedbi projekata sufinanciranih iz fondova i programa Europske unije i«.
+
+(2) U dosadašnjem podstavku 6., koji postaje podstavak 8., riječ: »financijskih« briše se.
+
+### Članak 2.
+
+U članku 5. stavku 4. riječi: »socijalnu skrb« zamjenjuju se riječima: »znanost i obrazovanje«.
+
+### Članak 3.
+
+U članku 14. stavku 1. riječ: »trećine« briše se, a iza riječi: »obitelji« dodaju se riječi: »namijenjene za razvojne socijalne i humanitarne mjere u svrhu poboljšanja statusa hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji«.
+
+### Članak 4.
+
+Članak 16. mijenja se i glasi:
+
+»Dio neto dobiti od ulaganja Fonda hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji namijenjene za razvojne socijalne i humanitarne mjere u svrhu poboljšanja statusa hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji iz koje se financira Zaklada, Upravni odbor Fonda hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji usmjerava za financiranje Zaklade sukladno propisu kojim se uređuje Fond hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.«.
+
+### Članak 5.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-01/96
+
+Zagreb, 31. listopada 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

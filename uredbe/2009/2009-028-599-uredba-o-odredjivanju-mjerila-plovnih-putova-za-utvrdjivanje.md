@@ -116,7 +116,6 @@ Jadranka Kosor, dipl. iur., v. r.
 
 <table>
 <tbody>
-
 <tr>
 <td rowspan="2">KLASA</td>
 <td colspan="2">KLASA VODNOG PUTA</td>
@@ -124,14 +123,12 @@ Jadranka Kosor, dipl. iur., v. r.
 <td colspan="3">II</td>
 <td colspan="3">III</td>
 </tr>
-
 <tr>
 <td colspan="2">OZNAKA KLASE</td>
 <td>________</td>
 <td colspan="3">_____________________<br> _____________________</td>
 <td colspan="3">_____________________<br> _____________________<br> _____________________</td>
 </tr>
-
 <tr>
 <td rowspan="8">PLOVILA I SASTAVI</td>
 <td rowspan="2">Dužina l(m)</td>
@@ -140,14 +137,12 @@ Jadranka Kosor, dipl. iur., v. r.
 <td colspan="3">57</td>
 <td colspan="3">67 – 70</td>
 </tr>
-
 <tr>
 <td>potiskivani sastavi</td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">118 – 132</td>
 </tr>
-
 <tr>
 <td rowspan="2">Širina b(m)</td>
 <td>teglenice i</td>
@@ -155,14 +150,12 @@ Jadranka Kosor, dipl. iur., v. r.
 <td colspan="3">7,5 – 9,0</td>
 <td colspan="3">8,2 – 9,0</td>
 </tr>
-
 <tr>
 <td>potiskivani sastavi</td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">8,2 – 9,0</td>
 </tr>
-
 <tr>
 <td rowspan="2">Gaz puni t(m)</td>
 <td>teglenice i</td>
@@ -170,14 +163,12 @@ Jadranka Kosor, dipl. iur., v. r.
 <td colspan="3">1,6</td>
 <td colspan="3">1,6 – 2,0</td>
 </tr>
-
 <tr>
 <td>potiskivani sastavi</td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">1,6 – 2,0</td>
 </tr>
-
 <tr>
 <td rowspan="2">Nosivost W(t)</td>
 <td>teglenice i</td>
@@ -185,14 +176,12 @@ Jadranka Kosor, dipl. iur., v. r.
 <td colspan="3">500 – 630</td>
 <td colspan="3">470 – 700</td>
 </tr>
-
 <tr>
 <td>potiskivani sastavi</td>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">1000 – 1200</td>
 </tr>
-
 <tr>
 <td rowspan="4">OSNOVNI PARAMETRI KLASE</td>
 <td colspan="2"></td>
@@ -204,7 +193,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>Regulirane i kanalizirane rijeke</td>
 <td>Kanali</td>
 </tr>
-
 <tr>
 <td colspan="2">Minimalni radijus krivina (m)</td>
 <td>250</td>
@@ -215,7 +203,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>300 – 550</td>
 <td>650</td>
 </tr>
-
 <tr>
 <td colspan="2">Trajnost niskog plovnog vodostaja (NpV)- %-tak dana kada je dostignut ili premašen</td>
 <td>60</td>
@@ -226,7 +213,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>65 – 85</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td colspan="2">Trajnost visokog plovnog vodostaja – %-tak dana</td>
 <td>1</td>
@@ -237,7 +223,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>1</td>
 <td>1</td>
 </tr>
-
 <tr>
 <td rowspan="2">GABARITI ISPOD MOSTOVA</td>
 <td colspan="2">Slobodna visina ispod mosta od visokog plovnog vodostaja VpV – H(m)</td>
@@ -249,7 +234,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>4,0</td>
 <td>4,0</td>
 </tr>
-
 <tr>
 <td colspan="2">Slobodna širina plovIdbenog otvora (m)</td>
 <td>&gt;35</td>
@@ -260,7 +244,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>&gt;45</td>
 <td>&gt;45</td>
 </tr>
-
 <tr>
 <td rowspan="4">VISINA ZRAČNIH KABELA IZNAD VpV</td>
 <td colspan="2">Vodovi niskog napona i nenaponski kabeli (m)</td>
@@ -272,7 +255,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>12,0</td>
 <td>12,0</td>
 </tr>
-
 <tr>
 <td colspan="2">Vodovi visokog napona do 110 KV (m)</td>
 <td>15,0</td>
@@ -283,7 +265,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>15,0</td>
 <td>15,0</td>
 </tr>
-
 <tr>
 <td colspan="2">Vodovi visokog napona od 220 KV</td>
 <td>15,75</td>
@@ -294,7 +275,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>15,75</td>
 <td>15,75</td>
 </tr>
-
 <tr>
 <td colspan="2">Vodovi visokog napona od 400 KV</td>
 <td>17,0</td>
@@ -305,7 +285,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>17,0</td>
 <td>17,0</td>
 </tr>
-
 <tr>
 <td>DUBINA PODVODNIH INSTALACIJA</td>
 <td colspan="2">Dubina polaganja ispod regulacijske dubine plov. puta (m)</td>
@@ -317,7 +296,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>1,5</td>
 <td>1,5</td>
 </tr>
-
 <tr>
 <td rowspan="3">GABARITI BRODSKIH PREVODNICA</td>
 <td colspan="2">Dubina na pragovima (m)</td>
@@ -329,7 +307,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>2,5</td>
 <td>2,5</td>
 </tr>
-
 <tr>
 <td colspan="2">Minimalna širina (m)</td>
 <td>10,0</td>
@@ -340,7 +317,6 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>10,0</td>
 <td>10,0</td>
 </tr>
-
 <tr>
 <td colspan="2">Minimalna dužina (m)</td>
 <td>60</td>
@@ -352,5 +328,4 @@ Jadranka Kosor, dipl. iur., v. r.
 <td>120 – 150</td>
 </tr>
 </tbody>
-
 </table>

@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-02-15
+last_amended: 2022-07-18
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "18/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "18/13, 114/18, 83/22"
+amendments:
+  - "NN 114/2018 (2212) Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ"
+  - "NN 83/2022 (1250) Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/18/298"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ
 
 > Izvor: Narodne novine, NN 18/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/18/298).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2018, NN 83/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -155,3 +160,143 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2212*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 1829/2003 EUROPSKOGA PARLAMENTA I VIJEĆA OD 22. RUJNA 2003. GODINE O GENETSKI MODIFICIRANOJ HRANI I HRANI ZA ŽIVOTINJE I UREDBE (EZ) BR. 1830/2003 EUROPSKOGA PARLAMENTA I VIJEĆA OD 22. RUJNA 2003. GODINE O SLJEDIVOSTI I OZNAČAVANJU GENETSKI MODIFICIRANIH ORGANIZAMA I SLJEDIVOSTI HRANE I HRANE ZA ŽIVOTINJE PROIZVEDENIH OD GENETSKI MODIFICIRANIH ORGANIZAMA KOJOM SE IZMJENJUJE I DOPUNJUJE DIREKTIVA 2001/18/EZ
+
+Proglašavam Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/200
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 1829/2003 EUROPSKOGA PARLAMENTA I VIJEĆA OD 22. RUJNA 2003. GODINE O GENETSKI MODIFICIRANOJ HRANI I HRANI ZA ŽIVOTINJE I UREDBE (EZ) BR. 1830/2003 EUROPSKOGA PARLAMENTA I VIJEĆA OD 22. RUJNA 2003. GODINE O SLJEDIVOSTI I OZNAČAVANJU GENETSKI MODIFICIRANIH ORGANIZAMA I SLJEDIVOSTI HRANE I HRANE ZA ŽIVOTINJE PROIZVEDENIH OD GENETSKI MODIFICIRANIH ORGANIZAMA KOJOM SE IZMJENJUJE I DOPUNJUJE DIREKTIVA 2001/18/EZ**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ (»Narodne novine«, br. 18/13. i 47/14.) u članku 3. stavku 1. riječi: »ministarstvo nadležno za zdravlje« zamjenjuju se riječima: »ministarstvo nadležno za zdravstvo«.
+
+U stavku 2. riječi: »ministar nadležan za zdravlje« zamjenjuju se riječima: »ministar nadležan za zdravstvo«.
+
+### Članak 2.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+»Službene kontrole nad provedbom Uredbe (EZ) br. 1829/2003, Uredbe (EZ) br. 1830/2003 i ovoga Zakona provode sanitarni inspektori, veterinarski inspektori i inspektori za kakvoću hrane Državnog inspektorata sukladno propisima kojima su uređeni djelokrug i ovlasti Državnog inspektorata.«.
+
+Stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+### Članak 3.
+
+U članku 7. stavku 5. riječi: »sanitarni inspektor« zamjenjuju se riječima: »nadležni inspektori iz članka 5. stavka 1. ovoga Zakona«.
+
+### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/205
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ (NN 83/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/83/1250*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 1829/2003 EUROPSKOGA PARLAMENTA I VIJEĆA OD 22. RUJNA 2003. GODINE O GENETSKI MODIFICIRANOJ HRANI I HRANI ZA ŽIVOTINJE I UREDBE (EZ) BR. 1830/2003 EUROPSKOGA PARLAMENTA I VIJEĆA OD 22. RUJNA 2003. GODINE O SLJEDIVOSTI I OZNAČAVANJU GENETSKI MODIFICIRANIH ORGANIZAMA I SLJEDIVOSTI HRANE I HRANE ZA ŽIVOTINJE PROIZVEDENIH OD GENETSKI MODIFICIRANIH ORGANIZAMA KOJOM SE IZMJENJUJE I DOPUNJUJE DIREKTIVA 2001/18/EZ
+
+Proglašavam Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ, koji je Hrvatski sabor donio na sjednici 8. srpnja 2022.
+
+Klasa: 011-02/22-02/68  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 13. srpnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PROVEDBI UREDBE (EZ) BR. 1829/2003 EUROPSKOGA PARLAMENTA I VIJEĆA OD 22. RUJNA 2003. GODINE O GENETSKI MODIFICIRANOJ HRANI I HRANI ZA ŽIVOTINJE I UREDBE (EZ) BR. 1830/2003 EUROPSKOGA PARLAMENTA I VIJEĆA OD 22. RUJNA 2003. GODINE O SLJEDIVOSTI I OZNAČAVANJU GENETSKI MODIFICIRANIH ORGANIZAMA I SLJEDIVOSTI HRANE I HRANE ZA ŽIVOTINJE PROIZVEDENIH OD GENETSKI MODIFICIRANIH ORGANIZAMA KOJOM SE IZMJENJUJE I DOPUNJUJE DIREKTIVA 2001/18/EZ**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br. 1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ (»Narodne novine«, br. 18/13., 47/14. i 114/18.) naziv Zakona mijenja se i glasi: »Zakon o provedbi uredbi Europske unije o sljedivosti i označavanju genetski modificirane hrane i hrane za životinje«.
+
+### Članak 2.
+
+Članak 1. mijenja se i glasi:
+
+»Ovim se Zakonom utvrđuju nadležna tijela i njihove zadaće, službene kontrole i prekršajne odredbe za provedbu: Uredbe (EZ) br. 1829/2003 Europskog parlamenta i Vijeća od 22. rujna 2003. o genetski modificiranoj hrani i hrani za životinje (SL L 268, 18. 10. 2003., u daljnjem tekstu: Uredba (EZ) br. 1829/2003), kako je posljednji puta izmijenjena Uredbom (EU) 2019/1381 Europskog parlamenta i Vijeća od 20. lipnja 2019. o transparentnosti i održivosti procjene rizika EU-a u prehrambenom lancu i o izmjeni uredbi (EZ) br. 178/2002, (EZ) br. 1829/2003, (EZ) br. 1831/2003, (EZ) br. 2065/2003, (EZ) br. 1935/2004, (EZ) br. 1331/2008, (EZ) br. 1107/2009 i (EU) 2015/2283 te Direktive 2001/18/EZ (SL L 231, 6. 9. 2019.) i Uredbe (EZ) br. 1830/2003 Europskog parlamenta i Vijeća od 22. rujna 2003. o sljedivosti i označavanju genetski modificiranih organizama te sljedivosti hrane i hrane za životinje proizvedene od genetski modificiranih organizama i izmjeni Direktive 2001/18/EZ (SL L 268, 18. 10. 2003., u daljnjem tekstu: Uredba (EZ) br. 1830/2003).«.
+
+### Članak 3.
+
+U članku 4. točka 1. mijenja se i glasi:
+
+»1. zaprima zahtjeve za izdavanje odobrenja za stavljanje na tržište hrane iz članka 3. i članka 15. stavka 1. Uredbe (EZ) br. 1829/2003 koji su podneseni u skladu sa standardnim formatima podataka, ako postoje na temelju članka 39.f Uredbe (EZ) br. 178/2002 Europskog parlamenta i Vijeća od 28. siječnja 2002. o utvrđivanju općih načela i uvjeta zakona o hrani, osnivanju Europske agencije za sigurnost hrane te utvrđivanju postupaka u područjima sigurnosti hrane (SL L 31, 1. 2. 2002.) kako je posljednji put izmijenjena Uredbom (EU) 2019/1381 Europskog parlamenta i Vijeća od 20. lipnja 2019. o transparentnosti i održivosti procjene rizika EU-a u prehrambenom lancu i o izmjeni uredbi (EZ) br. 178/2002, (EZ) br. 1829/2003, (EZ) br. 1831/2003, (EZ) br. 2065/2003, (EZ) br. 1935/2004, (EZ) br. 1331/2008, (EZ) br. 1107/2009 i (EU) 2015/2283 te Direktive 2001/18/EZ (SL L 231, 6. 9. 2019.) te pisanim putem potvrđuje njihovo zaprimanje sukladno članku 5. stavku 2.a podstavku i) Uredbe (EZ) br. 1829/2003 i članku 17. stavku 2.a podstavku i) Uredbe (EZ) br. 1829/2003,«.
+
+### Članak 4.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+»(1) Službene kontrole nad provedbom Uredbe (EZ) br. 1829/2003, Uredbe (EZ) br. 1830/2003 i ovoga Zakona provode sanitarni inspektori, veterinarski inspektori i poljoprivredni inspektori Državnog inspektorata sukladno propisima kojima su uređeni djelokrug i ovlasti Državnog inspektorata te propisima kojima je uređeno postupanje s genetski modificiranim organizmima te propisima kojima je uređeno postupanje u području hrane.«.
+
+### Članak 5.
+
+U članku 7. stavku 2. riječi: »od 10.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 5000,00 do 15.000,00 kuna«.
+
+U stavku 3. riječi: »od 10.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 5000,00 do 10.000,00 kuna«.
+
+Stavci 5. i 6. mijenjaju se i glase:
+
+»(5) Novčanu kaznu za prekršaje u iznosu od 2500,00 kuna na mjestu počinjenja prekršaja nadležni inspektori iz članka 5. ovoga Zakona mogu izreći odgovornoj osobi u pravnoj osobi za postupanja protivna odredbama stavka 1. ovoga članka.
+
+(6) Za prekršaje iz stavka 1. ovoga članka novčana kazna u iznosu od 1500,00 kuna na mjestu počinjenja prekršaja može se izreći fizičkoj osobi obrtniku i osobi koja obavlja drugu samostalnu djelatnost.«.
+
+### Članak 6.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/22-01/10
+
+Zagreb, 8. srpnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

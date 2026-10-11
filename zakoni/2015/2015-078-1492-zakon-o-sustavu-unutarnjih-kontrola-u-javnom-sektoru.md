@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-07-17
+last_amended: 2025-07-23
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "78/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "78/15, 102/19, 105/25"
+amendments:
+  - "NN 102/2019 (2049) Zakon o izmjenama i dopunama Zakona o sustavu unutarnjih kontrola u javnom sektoru"
+  - "NN 105/2025 (1475) Zakon o izmjenama i dopunama Zakona o sustavu unutarnjih kontrola u javnom sektoru"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/78/1492"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o sustavu unutarnjih kontrola u javnom sektoru
 
 > Izvor: Narodne novine, NN 78/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/78/1492).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 102/2019, NN 105/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -724,3 +729,495 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o sustavu unutarnjih kontrola u javnom sektoru (NN 102/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/102/2049*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUSTAVU UNUTARNJIH KONTROLA U JAVNOM SEKTORU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sustavu unutarnjih kontrola u javnom sektoru, koji je Hrvatski sabor donio na sjednici 18. listopada 2019.
+
+Klasa: 011-01/19-01/187
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 22. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUSTAVU UNUTARNJIH KONTROLA U JAVNOM SEKTORU**
+
+#### Članak 1.
+
+U Zakonu o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15.) u članku 3. stavak 2. mijenja se i glasi:
+
+»(2) Odredbe ovoga Zakona odnose se i na trgovačka društva u vlasništvu Republike Hrvatske i/ili jedne ili više jedinica lokalne i područne (regionalne) samouprave te na druge pravne osobe kojima je osnivač Republika Hrvatska i/ili jedna ili više jedinica lokalne i područne (regionalne) samouprave (u daljnjem tekstu: trgovačka društva i druge pravne osobe) koje su utvrđene u Registru trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave o fiskalnoj odgovornosti koji vodi Ministarstvo financija.«.
+
+#### Članak 2.
+
+U članku 4. iza točke 9. dodaje se nova točka 10. koja glasi:
+
+»10. Nepravilnost je nepridržavanje ili pogrešna primjena zakona i drugih propisa koja proizlazi iz radnji ili propusta obveznika, koja ima ili bi mogla imati štetan utjecaj na proračunska sredstva i sredstva iz drugih izvora, bilo da se radi o prihodima/primicima, rashodima/izdacima, povratima, imovini, potraživanjima ili obvezama te je protivna etičkim načelima u javnom sektoru, a klasificira se kao nepravilnost za koju nisu propisane prekršajne odredbe, nepravilnost koja ima obilježje prekršaja i nepravilnost kod koje postoji sumnja na kazneno djelo.«.
+
+Dosadašnje točke 10. do 13. postaju točke 11. do 14.
+
+Dosadašnja točka 14. briše se.
+
+U točki 23. iza prve rečenice dodaje se rečenica koja glasi:
+
+»Sustav unutarnjih kontrola uspostavlja se radi osiguranja postupanja u skladu s načelom dobrog financijskog upravljanja.«.
+
+#### Članak 3.
+
+U članku 7. točka e) mijenja se i glasi:
+
+»e) upravljanje najznačajnijim rizicima koji mogu ugroziti ostvarenje ciljeva sadržanih u strateškim i drugim planovima«.
+
+#### Članak 4.
+
+U članku 19. riječi: »koji je sastavni dio pravilnika« brišu se.
+
+#### Članak 5.
+
+U članku 27. stavak 4. briše se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 6.
+
+U članku 33. stavak 3. mijenja se i glasi:
+
+»(3) Strateški plan unutarnje revizije donosi se svake tri godine i to do konca tekuće godine za sljedeće trogodišnje razdoblje, a godišnji plan unutarnje revizije donosi se svake godine i to do konca tekuće godine za sljedeću godinu.«.
+
+#### Članak 7.
+
+U članku 35. stavku 1. riječi: »uz suglasnost odgovorne osobe institucije utvrditi« zamjenjuju se riječima: »u dogovoru s rukovoditeljem unutarnje revizije predložiti«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Rok provedbe preporuka iz stavka 1. ovoga članka može se produžiti samo jednom, o čemu odluku donosi odgovorna osoba institucije.«.
+
+#### Članak 8.
+
+U članku 38. riječi: »uz odobrenje odgovorne osobe institucije« brišu se.
+
+#### Članak 9.
+
+U članku 41. stavku 2. točki h) iza riječi: »kontrola« dodaju se riječi: »ili pojedinog njegova dijela«.
+
+#### Članak 10.
+
+U članku 42. stavku 2. iza riječi: »Vladi Republike Hrvatske« dodaju se riječi: »koja ga usvaja«.
+
+#### Članak 11.
+
+Članak 43. mijenja se i glasi:
+
+»(1) Odgovorna osoba institucije obvezna je sprječavati rizik nepravilnosti i poduzimati mjere u slučaju utvrđenih nepravilnosti u radu institucije.
+
+(2) Odgovorne osobe nadležnih ministarstava i drugih državnih tijela na razini razdjela organizacijske klasifikacije te jedinica lokalne i područne (regionalne) samouprave imenuju osobu za nepravilnosti koja:
+
+– zaprima prijave o nepravilnostima od zaposlenika, građana ili anonimnih prijavitelja, odnosno kada nepravilnosti nisu utvrđene tijekom nadležnog postupanja državnih institucija, koje se odnose na rad nadležnih ministarstava i drugih državnih tijela na razini razdjela organizacijske klasifikacije te jedinica lokalne i područne (regionalne) samouprave u kojima su imenovane
+
+– procjenjuje osnovanost zaprimljenih prijava o nepravilnostima i predlaže način postupanja u skladu s Pravilnikom iz stavka 5. ovoga članka te
+
+– priprema godišnje objedinjeno izvješće o nepravilnostima.
+
+(3) Odgovorne osobe institucija iz nadležnosti ministarstava i drugih državnih tijela na razini razdjela organizacijske klasifikacije te iz nadležnosti jedinica lokalne i područne (regionalne) samouprave, dužne su osobi za nepravilnosti u nadležnom tijelu do 28. veljače tekuće godine dostaviti godišnje izvješće o nepravilnostima iz prethodne godine, koje sadrži podatke o nepravilnostima prijavljenim od strane zaposlenika, građana ili anonimnih prijavitelja, odnosno kada nepravilnosti nisu utvrđene tijekom nadležnog postupanja državnih institucija.
+
+(4) Odgovorne osobe nadležnih ministarstava i drugih državnih tijela na razini razdjela organizacijske klasifikacije te jedinica lokalne i područne (regionalne) samouprave dužne su nadležnoj ustrojstvenoj jedinici u Ministarstvu financija u čijem je djelokrugu proračunski nadzor do 31. ožujka tekuće godine dostaviti objedinjeno godišnje izvješće o nepravilnostima iz prethodne godine, koje sadrži podatke o nepravilnostima koje se odnose na rad nadležnih ministarstava i drugih državnih tijela na razini razdjela organizacijske klasifikacije te jedinica lokalne i područne (regionalne) samouprave te podatke o nepravilnostima u institucijama iz nadležnosti.
+
+(5) Ministar financija pravilnikom utvrđuje obveze i način postupanja po prijavljenim/uočenim nepravilnostima, kriterije i sadržaj odluke za imenovanje osobe za nepravilnosti te način i rokove izvještavanja o nepravilnostima u upravljanju sredstvima institucije.
+
+(6) Zaposlenicima institucije koji prijave nepravilnost jamče se prava sukladno zakonu kojim je uređena zaštita prijavitelja nepravilnosti.
+
+(7) Ako su nadležna ministarstva i druga državna tijela na razini razdjela organizacijske klasifikacije te jedinice lokalne i područne (regionalne) samouprave obvezni imati povjerljivu osobu sukladno zakonu kojim je uređena prijava nepravilnosti i zaštita prijavitelja nepravilnosti, povjerljiva osoba je ujedno i osoba za nepravilnosti u skladu s ovim Zakonom i podzakonskim propisima donesenima na temelju ovoga Zakona.
+
+(8) Ako je osoba za nepravilnosti ujedno i povjerljiva osoba, zaštita prijavitelja nepravilnosti provodi se sukladno zakonu i ostalim propisima kojim je uređena zaštita prijavitelja nepravilnosti.«.
+
+#### Članak 12.
+
+U članku 44. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 5000,00 kuna do 25.000,00 kuna kaznit će se za prekršaj:
+
+a) odgovorna osoba institucije ako ne uspostavi unutarnju reviziju (članak 23. i članak 24. stavci 1. i 2.)
+
+b) odgovorna osoba institucije iz nadležnosti ministarstva i drugog državnog tijela na razini razdjela organizacijske klasifikacije te iz nadležnosti jedinice lokalne i područne (regionalne) samouprave ako nadležnom tijelu do 28. veljače tekuće godine ne dostavi godišnje izvješće o nepravilnostima iz prethodne godine, a koje sadrži podatke o nepravilnostima prijavljenim od strane zaposlenika, građana ili anonimnih prijavitelja, odnosno kada nepravilnosti nisu utvrđene tijekom nadležnog postupanja državnih institucija (članak 43. stavak 3.)
+
+c) odgovorna osoba nadležnog ministarstva i drugog državnog tijela na razini razdjela organizacijske klasifikacije te jedinica lokalne i područne (regionalne) samouprave ako nadležnoj ustrojstvenoj jedinici u Ministarstvu financija u čijem je djelokrugu proračunski nadzor do 31. ožujka tekuće godine ne dostavi objedinjeno godišnje izvješće o nepravilnostima iz prethodne godine, a koje sadrži podatke o nepravilnostima koje se odnose na rad nadležnih ministarstava i drugih državnih tijela na razini razdjela organizacijske klasifikacije te jedinica lokalne i područne (regionalne) samouprave te podatke o nepravilnostima u institucijama iz nadležnosti (članak 43. stavak 4.).«.
+
+#### Članak 13.
+
+U članku 45. stavku 1. točka b) mijenja se i glasi:
+
+»b) program izobrazbe u području razvoja sustava unutarnjih kontrola iz članka 19. ovoga Zakona«.
+
+Točka e) briše se.
+
+Dosadašnje točke f) do h) postaju točke e) do g).
+
+Točka i) briše se.
+
+#### Članak 14.
+
+Članak 49. mijenja se i glasi:
+
+»(1) Osoba raspoređena na radno mjesto unutarnjeg revizora dužna je u roku od godine dana od dana početka izobrazbe za stjecanje zvanja ovlaštenoga unutarnjeg revizora za javni sektor odnosno stjecanja uvjeta za certificiranje prema uvjetima strukovnih organizacija steći stručno ovlaštenje, odnosno certifikat iz članka 26. stavka 1. ovoga Zakona, a najkasnije u roku od dvije godine od dana rasporeda na radno mjesto.
+
+(2) Ako osoba iz stavka 1. ovoga članka nije zbog opravdanih razloga u mogućnosti steći stručno ovlaštenje ili certifikat u roku iz stavka ovoga članka, rok prestaje teći i nastavlja se od dana prestanka opravdanog razloga.
+
+(3) Ako osoba iz stavka 1. ovoga članka u propisanom roku ne stekne stručno ovlaštenje ili certifikat, rasporedit će se na druge poslove primjerene njezinoj obrazovnoj kvalifikaciji i sposobnostima ili ako nema odgovarajućeg radnog mjesta na koje se osoba može rasporediti, status osobe uređuje se u svemu prema važećim pozitivnim propisima.«.
+
+### PRIJELAZNE I ZAVRŠNE — ODREDBE
+
+#### Članak 15.
+
+Pravilnik iz članka 11. stavka 5. ovoga Zakona ministar financija donijet će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 16.
+
+(1) Osobe za nepravilnosti u ministarstvima i drugim državnim tijelima na razini razdjela organizacijske klasifikacije te jedinicama lokalne i područne (regionalne) samouprave koje su imenovane na temelju Zakona o sustavu unutarnjih financijskih kontrola u javnom sektoru (»Narodne novine«, br. 141/06.) i na temelju Zakona o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15.) nastavljaju obavljati poslove sukladno odredbama ovoga Zakona i podzakonskih propisa donesenih na temelju ovoga Zakona te ih odgovorna osoba institucije nije dužna ponovno imenovati sukladno odredbama ovoga Zakona.
+
+(2) Ako je odgovorna osoba institucije imenovala osobu za nepravilnosti na temelju Zakona o sustavu unutarnjih financijskih kontrola u javnom sektoru (»Narodne novine«, br. 141/06.) i na temelju Zakona o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15.), a ta je institucija obvezna imati povjerljivu osobu sukladno zakonu kojim je uređena prijava nepravilnosti i zaštita prijavitelja nepravilnosti, danom stupanja na snagu ovoga Zakona povjerljiva osoba ujedno postaje i osoba za nepravilnosti te ima obveze osobe za nepravilnosti propisane ovim Zakonom i podzakonskim propisima donesenima na temelju ovoga Zakona.
+
+(3) Ako odgovorna osoba institucije nije imenovala osobu za nepravilnosti, dužna je imenovati osobu za nepravilnosti najkasnije u roku od 12 mjeseci od stupanja na snagu ovoga Zakona.
+
+#### Članak 17.
+
+(1) Svi postupci unutarnje revizije započeti do stupanja na snagu ovoga Zakona završit će se po odredbama Zakona o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15.).
+
+(2) Na osobe raspoređene na radno mjesto unutarnjeg revizora koje u trenutku stupanja na snagu ovoga Zakona nisu započele izobrazbu za stjecanje zvanja ovlaštenoga unutarnjeg revizora u javnom sektoru primjenjuju se odredbe ovoga Zakona.
+
+#### Članak 18.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/61
+
+Zagreb, 18. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o sustavu unutarnjih kontrola u javnom sektoru (NN 105/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/105/1475*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O SUSTAVU UNUTARNJIH KONTROLA U JAVNOM SEKTORU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o sustavu unutarnjih kontrola u javnom sektoru, koji je Hrvatski sabor donio na sjednici 15. srpnja 2025.
+
+Klasa: 011-02/25-02/67  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 17. srpnja 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O SUSTAVU UNUTARNJIH KONTROLA U JAVNOM SEKTORU**
+
+#### Članak 1.
+
+U Zakonu o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15. i 102/19.) članak 3. mijenja se i glasi:
+
+»(1) Odredbe ovoga Zakona odnose se na proračunske i izvanproračunske korisnike državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave utvrđene u Registru proračunskih i izvanproračunskih korisnika i na jedinice lokalne i područne (regionalne) samouprave (u daljnjem tekstu: korisnici proračuna).
+
+(2) Odredbe ovoga Zakona odnose se na trgovačka društva u kojima Republika Hrvatska i/ili jedna ili više jedinica lokalne i područne (regionalne) samouprave imaju pojedinačno ili kumulativno većinsko vlasništvo, a koja su upisana u Registar trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave o fiskalnoj odgovornosti koji vodi Ministarstvo financija.
+
+(3) Odredbe ovoga Zakona odnose se na pravne osobe od posebnog interesa za Republiku Hrvatsku koje Vlada Republike Hrvatske utvrđuje odlukom te na druge pravne osobe kojima je osnivač Republika Hrvatska i/ili jedna ili više jedinica lokalne i područne (regionalne) samouprave, a koje su upisane u Registar trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave o fiskalnoj odgovornosti koji vodi Ministarstvo financija.
+
+(4) Odredbe ovoga Zakona odnose se na trgovačka društva i druge pravne osobe u kojima obveznici primjene ovoga Zakona iz stavaka 1., 2. i 3. ovoga članka imaju pojedinačno ili kumulativno većinsko vlasništvo ili su njihovi osnivači, a koji su upisani u Registar trgovačkih društava i drugih pravnih osoba obveznika davanja Izjave o fiskalnoj odgovornosti koji vodi Ministarstvo financija.«.
+
+#### Članak 2.
+
+U članku 4. dodaje se nova točka 1. koja glasi:
+
+»1. Dionik je bilo koji pojedinac, grupa ili strana koja ima interes u instituciji i rezultatima njezina djelovanja. U trgovačkom društvu i drugoj pravnoj osobi dionik posebno uključuje njezine vlasnike, vjerovnike, rukovodstvo, zaposlenike, kupce, dobavljače i javnost.«.
+
+Dosadašnje točke 1. i 2. postaju točke 2. i 3.
+
+Iza dosadašnje točke 3., koja postaje točka 4., dodaje se nova točka 5. koja glasi:
+
+»5. Integrirano upravljanje rizicima podrazumijeva uspostavu organizacijske strukture, postupaka, pravila, procesa, sustava i resursa za utvrđivanje, procjenu, postupanje, praćenje i izvještavanje o izloženosti rizicima odnosno upravljanje rizicima u cjelini, kao i kontinuirano unaprjeđenje, kontrolu i nadzor procesa integriranog upravljanja rizicima.«.
+
+Dosadašnje točke 4. do 10. postaju točke 6. do 12.
+
+Dosadašnja točka 11., koja postaje točka 13., mijenja se i glasi:
+
+»13. Odbor podrazumijeva nadzorni odbor ili njegov odgovarajući pododbor, kao što su revizijski odbor, odbor za rizike ili drugi pododbor osnovan u skladu s posebnim propisima. U instituciji u kojoj je uspostavljena funkcija unutarnje revizije, a koja nije u obvezi uspostaviti nadzorni odbor, odbor može podrazumijevati i drugo tijelo koje obavlja nadzor poslovanja institucije uspostavljeno sukladno posebnim propisima.«.
+
+Dosadašnje točke 12. do 19. postaju točke 14. do 21.
+
+Dosadašnja točka 20., koja postaje točka 22., mijenja se i glasi:
+
+»22. Rukovoditelj unutarnje revizije je osoba odgovorna za upravljanje i unaprjeđenje funkcije unutarnje revizije u instituciji. Pojam uključuje i imenovanog unutarnjeg revizora.«.
+
+Dosadašnje točke 21. do 23. postaju točke 23. do 25.
+
+U dosadašnjoj točki 24., koja postaje točka 26., riječ: »stručno« briše se.
+
+Dosadašnje točke 25. i 26. postaju točke 27. i 28.
+
+#### Članak 3.
+
+Članak 12. mijenja se i glasi:
+
+»Odgovorna osoba institucije treba uspostaviti integrirano upravljanje rizicima.«.
+
+#### Članak 4.
+
+Iza članka 17. dodaje se članak 17.a koji glasi:
+
+»Članak 17.a
+
+(1) Odgovorna osoba trgovačkog društva i druge pravne osobe u kojoj Republika Hrvatska i/ili jedna ili više jedinica lokalne i područne (regionalne) samouprave imaju pojedinačno ili kumulativno većinsko vlasništvo ili su njihovi osnivači i koja ispunjava uvjete za razvrstavanje u velike poduzetnike u smislu zakona koji uređuje računovodstvo poduzetnika treba, uz prethodnu suglasnost odbora, usvojiti politiku i strategiju integriranog upravljanja rizicima, u cilju realizacije poslovnih ciljeva i poslovne strategije te zaštite interesa dionika.
+
+(2) Odgovorna osoba iz stavka 1. ovoga članka uspostavlja i unaprjeđuje integrirano upravljanje rizicima te osigurava provođenje politike i strategije integriranog upravljanja rizicima, uspostavom kontrolne funkcije za integrirano upravljanje rizicima.
+
+(3) Osobu koja rukovodi kontrolnom funkcijom iz stavka 2. ovoga članka imenuje i razrješuje odgovorna osoba iz stavka 1. ovoga članka, uz ishođenje prethodne suglasnosti odbora.
+
+(4) Osoba koja rukovodi kontrolnom funkcijom iz stavka 3. ovoga članka funkcionalno je odgovorna odgovornoj osobi iz stavka 1. ovoga članka i odboru te ih polugodišnje izvještava o integriranom upravljanju rizicima i provedbi strategije upravljanja rizicima.
+
+(5) Odbor uspostavljen u trgovačkom društvu i drugoj pravnoj osobi iz stavka 1. ovoga članka nadzire funkcioniranje integriranog upravljanja rizicima u cilju osiguranja djelotvornih struktura, politika i postupaka radi utvrđivanja, procjenjivanja i postupanja po rizicima, izvještavanja i nadzora značajnih rizika, kao i kontrole, kontinuiranog praćenja te unaprjeđivanja procesa integriranog upravljanja rizicima.
+
+(6) Odbor iz stavka 5. ovoga članka mora najmanje jednom godišnje procijeniti primjenu politika i strategija, kao i djelotvornost postupaka integriranog upravljanja rizicima te dati preporuke za unaprjeđenje integriranog upravljanja rizicima odgovornoj osobi trgovačkog društva ili druge pravne osobe iz stavka 1. ovoga članka.
+
+(7) Unutarnja revizija uspostavljena u trgovačkom društvu i drugoj pravnoj osobi iz stavka 1. ovoga članka daje neovisno mišljenje o prikladnosti i učinkovitosti integriranog upravljanja rizicima, o čemu izvještava odgovornu osobu i odbor.«.
+
+#### Članak 5.
+
+Članak 21. mijenja se i glasi:
+
+»Svrha unutarnje revizije je neovisna i objektivna procjena sustava unutarnjih kontrola, kao i davanje mišljenja o funkcioniranju sustava unutarnjih kontrola te preporuka i savjeta rukovoditeljima i odboru za poboljšanje djelotvornosti procesa upravljanja rizicima, kontrola i upravljanja poslovanjem odnosno korporativnog upravljanja, u cilju jačanja sposobnosti institucije da stvara, štiti i održava svoje vrijednosti.«.
+
+#### Članak 6.
+
+U članku 22. stavak 3. mijenja se i glasi:
+
+»(3) Unutarnja revizija daje mišljenje o funkcioniranju sustava unutarnjih kontrola i preporuke za poboljšanje sustava unutarnjih kontrola u revidiranom području.«.
+
+#### Članak 7.
+
+Iza članka 23. dodaju se naslov iznad članka i članak 23.a koji glase:
+
+*»Organizacijska neovisnost funkcije unutarnje revizije*
+
+#### Članak 23.a
+
+(1) Unutarnja revizija ustrojava se kao samostalna unutarnja ustrojstvena jedinica.
+
+(2) Unutarnja revizija je funkcionalno odgovorna odboru, a ustrojstveno je odgovorna odgovornoj osobi institucije.
+
+(3) Funkcionalna neovisnost unutarnje revizije osobito se ostvaruje njezinom neovisnošću o drugim ustrojstvenim jedinicama institucije u planiranju rada, obavljanju poslova unutarnje revizije i izvještavanju.
+
+(4) U instituciji gdje nije osnovan odbor, unutarnja revizija je funkcionalno odgovorna odgovornoj osobi institucije.
+
+(5) Na imenovanog unutarnjeg revizora iz članka 24. stavka 1. točke b) ovoga Zakona na odgovarajući se način primjenjuju stavci 2. i 3. ovoga članka.«.
+
+#### Članak 8.
+
+U članku 24. stavak 2. mijenja se i glasi:
+
+»(2) Funkcija unutarnje revizije obavlja poslove unutarnje revizije u instituciji u kojoj je uspostavljena i u institucijama iz nadležnosti, osim u onima koje imaju uspostavljenu funkciju unutarnje revizije.«.
+
+#### Članak 9.
+
+U članku 27. stavak 2. točka a) mijenja se i glasi:
+
+»a) imati završen odgovarajući sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij (razina 7.1.sv ili 7.1.st HKO-a).«.
+
+#### Članak 10.
+
+Članak 28. mijenja se i glasi:
+
+»(1) Rukovoditelj unutarnje revizije mora imati:
+
+a) stručno ovlaštenje ministra financija za obavljanje poslova unutarnje revizije u javnom sektoru ili
+
+b) u trgovačkom društvu i drugoj pravnoj osobi certifikat ovlaštenog unutarnjeg revizora koji izdaju strukovne organizacije i
+
+c) najmanje pet godina radnog iskustva na odgovarajućim poslovima, ako posebnim propisom nije drukčije određeno, od čega najmanje tri godine na poslovima unutarnje revizije ili revizije.
+
+(2) Rukovoditelja unutarnje revizije imenuje i razrješuje odgovorna osoba institucije, sukladno propisima kojima se uređuju radnopravni odnosi, uz ishođenje prethodne suglasnosti odbora.
+
+(3) Iznimno od stavka 2. ovoga članka, ako u instituciji nije uspostavljen odbor, rukovoditelja unutarnje revizije imenuje i razrješuje odgovorna osoba institucije, sukladno propisima kojima se uređuju radnopravni odnosi.«.
+
+#### Članak 11.
+
+Naslov iznad članka 29. i članak 29. brišu se.
+
+#### Članak 12.
+
+U članku 33. stavak 2. mijenja se i glasi:
+
+»(2) Strateški i godišnji plan unutarnje revizije, kao i njihove izmjene i dopune, na temelju procjene rizika, predlaže rukovoditelj unutarnje revizije, a donosi odgovorna osoba institucije, uz ishođenje prethodne suglasnosti odbora.«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, ako u instituciji nije osnovan odbor, strateški i godišnji plan unutarnje revizije, kao i njihove izmjene i dopune, na temelju procjene rizika, predlaže rukovoditelj unutarnje revizije, a donosi odgovorna osoba institucije.«.
+
+Dosadašnji stavci 3., 4. i 5. postaju stavci 4., 5. i 6.
+
+#### Članak 13.
+
+U članku 34. stavak 2. mijenja se i glasi:
+
+»(2) O statusu provedbe preporuka odgovorna osoba revidirane jedinice obvezna je izvijestiti rukovoditelja unutarnje revizije koji prati provedbu preporuka i koji izvještava o provedbi odgovornu osobu institucije i odbor.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) U instituciji gdje nije osnovan odbor rukovoditelj unutarnje revizije izvještava odgovornu osobu institucije.«.
+
+#### Članak 14.
+
+U članku 37. riječi: »uputama Ministarstva financija« zamjenjuju se riječima: »Pravilnikom iz članka 41. stavka 4. ovoga Zakona.«.
+
+#### Članak 15.
+
+U članku 40. stavku 10. riječi: »dva puta« zamjenjuju se riječi: »jednom«.
+
+#### Članak 16.
+
+U članku 41. stavak 1. mijenja se i glasi:
+
+»(1) Ministarstvo financija nadležno je za koordinaciju razvoja sustava unutarnjih kontrola u javnom sektoru.«.
+
+U stavku 2. točki c) iza riječi: »izradu smjernica za razvoj sustava unutarnjih kontrola« stavlja se zarez i dodaju riječi: »smjernica za uspostavu integriranog upravljanja rizicima«.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Ministar financija može dati prijedlog za obavljanje zajedničkih unutarnjih revizija koji se dostavlja na suglasnost odgovornim osobama onih institucija čija će unutarnja revizija biti uključena u obavljanje revizije.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 17.
+
+U članku 42. stavku 2. riječi: »31. srpnja« zamjenjuju se riječima: »30. rujna«.
+
+#### Članak 18.
+
+Članak 43. mijenja se i glasi:
+
+»(1) Odgovorna osoba institucije obvezna je sprječavati rizik nepravilnosti i poduzimati mjere u slučaju utvrđenih nepravilnosti u radu institucije.
+
+(2) Odgovorna osoba nadležnog ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno odgovorna osoba jedinice lokalne i područne (regionalne) samouprave dužna je imenovati osobu za nepravilnosti koja:
+
+– zaprima prijave o nepravilnostima koje se odnose na rad institucije u kojoj je imenovana
+
+– procjenjuje osnovanost zaprimljenih prijava o nepravilnostima i predlaže način postupanja u skladu s Pravilnikom iz stavka 8. ovoga članka
+
+– prati postupanje po zaprimljenoj prijavi o nepravilnostima koje se odnose na rad institucije iz nadležnosti ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno institucije iz nadležnosti jedinice lokalne i područne (regionalne) samouprave.
+
+(3) Odgovorna osoba institucije iz stavka 2. ovoga članka dužna je nadležnoj ustrojstvenoj jedinici u Ministarstvu financija, u čijem je djelokrugu proračunski nadzor, dostaviti podatke o imenovanoj osobi za nepravilnosti radi vođenja očevidnika osoba za nepravilnosti.
+
+(4) Odgovorna osoba institucije iz nadležnosti ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno iz nadležnosti jedinice lokalne i područne (regionalne) samouprave dostavit će nadležnom ministarstvu, drugom tijelu državne uprave na razini razdjela organizacijske klasifikacije odnosno nadležnoj jedinici lokalne i područne (regionalne) samouprave zaprimljenu prijavu o nepravilnosti u roku od 15 dana od dana primitka prijave, uz informaciju o statusu postupka.
+
+(5) Odgovorna osoba iz stavka 2. ovoga članka dostavit će nadležnoj ustrojstvenoj jedinici u Ministarstvu financija, u čijem je djelokrugu proračunski nadzor, zaprimljenu prijavu o nepravilnosti institucije iz nadležnosti ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno iz nadležnosti jedinice lokalne i područne (regionalne) samouprave zaprimljenu prijavu o nepravilnosti u roku od 15 dana od dana primitka prijave, uz informaciju o statusu postupka.
+
+(6) Ako se prijava o nepravilnosti odnosi na rad nadležnog ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno jedinice lokalne i područne (regionalne) samouprave, odgovorna osoba iz stavka 2. ovoga članka dostavit će nadležnoj ustrojstvenoj jedinici u Ministarstvu financija, u čijem je djelokrugu proračunski nadzor, zaprimljenu prijavu o nepravilnosti u roku od 15 dana od dana primitka prijave, uz informaciju o statusu postupka.
+
+(7) Zaposlenici institucije koji prijave nepravilnost u skladu i pod uvjetima propisanim zakonom kojim je uređena zaštita prijavitelja nepravilnosti imaju pravo na zaštitu predviđenu tim zakonom.
+
+(8) Ministar financija pravilnikom utvrđuje obveze i način postupanja po prijavljenim nepravilnostima, kriterije i sadržaj odluke za imenovanje osobe za nepravilnosti te način dostave prijave o nepravilnostima i izvještavanja o statusu postupka.«.
+
+#### Članak 19.
+
+Članak 44. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 2000,00 eura do 5000,00 eura kaznit će se za prekršaj:
+
+a) odgovorna osoba institucije ako ne uspostavi unutarnju reviziju u skladu s odredbama ovoga Zakona (članak 23., članak 24. stavci 1. i 2.)
+
+b) odgovorna osoba iz članka 17.a stavka 1. ovoga Zakona ako ne uspostavi integrirano upravljanje rizicima u skladu s odredbama ovoga Zakona (članak 17.a)
+
+c) odgovorna osoba ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno odgovorna osoba jedinice lokalne i područne (regionalne) samouprave ako ne imenuje osobu za nepravilnosti (članak 43. stavak 2.)
+
+d) odgovorna osoba institucije iz nadležnosti ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno odgovorna osoba institucije iz nadležnosti jedinice lokalne i područne (regionalne) samouprave ako ne dostavi nadležnom ministarstvu, drugom tijelu državne uprave na razini razdjela organizacijske klasifikacije odnosno nadležnoj jedinici lokalne i područne (regionalne) samouprave zaprimljenu prijavu o nepravilnosti, u roku od 15 dana od dana primitka prijave (članak 43. stavak 4.)
+
+e) odgovorna osoba ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno odgovorna osoba jedinice lokalne i područne (regionalne) samouprave ako nadležnoj ustrojstvenoj jedinici u Ministarstvu financija u čijem je djelokrugu proračunski nadzor ne dostavi zaprimljenu prijavu o nepravilnosti institucije iz nadležnosti ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno institucije iz nadležnosti jedinice lokalne i područne (regionalne) samouprave, u roku od 15 dana od dana primitka prijave (članak 43. stavak 5.)
+
+f) odgovorna osoba ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno odgovorna osoba jedinice lokalne i područne (regionalne) samouprave ako nadležnoj ustrojstvenoj jedinici u Ministarstvu financija u čijem je djelokrugu proračunski nadzor ne dostavi zaprimljenu prijavu o nepravilnosti koja se odnosi na rad ministarstva ili drugog tijela državne uprave na razini razdjela organizacijske klasifikacije odnosno na rad jedinice lokalne i područne (regionalne) samouprave, u roku od 15 dana od dana primitka prijave (članak 43. stavak 6.).
+
+(2) Inspektor proračunskog nadzora koji je u postupku nadzora utvrdio radnje kojima je ostvaren prekršaj sastavlja optužni prijedlog protiv počinitelja prekršaja i podnosi ga nadležnom područnom uredu Porezne uprave Ministarstva financija.
+
+(3) Prekršajni postupak za prekršaje propisane ovim Zakonom u prvom stupnju vodi nadležni područni ured Porezne uprave Ministarstva financija.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 20.
+
+Ministar financija će u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona sljedeće propise i akte uskladiti s odredbama ovoga Zakona:
+
+a) Pravilnik o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 58/16.)
+
+b) Program izobrazbe u području razvoja sustava unutarnjih kontrola (klasa: 131-01/20-01/1, urbroj: 513-05-04/20-1, lipanj 2020.)
+
+c) Pravilnik o unutarnjoj reviziji u javnom sektoru (»Narodne novine«, br. 42/16. i 77/19.)
+
+d) Pravilnik o izobrazbi, uvjetima i načinu polaganja ispita za stjecanje zvanja ovlaštenoga unutarnjeg revizora za javni sektor (»Narodne novine«, br. 138/20.)
+
+e) Kodeks strukovne etike unutarnjih revizora u javnom sektoru (»Narodne novine«, br. 42/16.)
+
+f) Pravilnik o sadržaju i načinu vođenja Registra jedinica za unutarnju reviziju i Registra ovlaštenih unutarnjih revizora za javni sektor (»Narodne novine«, br. 42/16.)
+
+g) Pravilnik o obavljanju provjere kvalitete aktivnosti unutarnje revizije (»Narodne novine«, br. 35/16.)
+
+h) Pravilnik o postupanju i izvještavanju o nepravilnostima u upravljanju sredstvima institucija u javnom sektoru (»Narodne novine«, br. 78/20.).
+
+#### Članak 21.
+
+(1) Odgovorna osoba trgovačkog društva i druge pravne osobe iz članka 17.a stavka 1. koji je dodan člankom 4. ovoga Zakona dužna je usvojiti politiku i strategiju integriranog upravljanja rizicima, imenovati osobu koja rukovodi kontrolnom funkcijom za integrirano upravljanje rizicima i implementirati integrirano upravljanje rizicima, primjenjujući načelo razdvajanja poslovnih funkcija i dužnosti, u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Odgovorna osoba trgovačkog društva i druge pravne osobe iz članka 17.a stavka 1. koji je dodan člankom 4. ovoga Zakona dužna je u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona uskladiti akte poslovanja vezano za integrirano upravljanje rizicima iz stavka 1. ovoga članka.
+
+#### Članak 22.
+
+Obveznici primjene ovoga Zakona dužni su uskladiti pravilnike o unutarnjem redu i sistematizaciji radnih mjesta ili druge odgovarajuće akte kojima se utvrđuje sistematizacija radnih mjesta s odredbama o uvjetima za obavljanje poslova rukovoditelja unutarnje revizije iz članka 28. koji je izmijenjen člankom 10. ovoga Zakona, u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 23.
+
+(1) Osobe za nepravilnosti u ministarstvima i drugim tijelima državne uprave na razini razdjela organizacijske klasifikacije te jedinicama lokalne i područne (regionalne) samouprave koje su imenovane na temelju Zakona o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15. i 102/19.) nastavljaju obavljati poslove sukladno odredbama ovoga Zakona i podzakonskih propisa donesenih na temelju ovoga Zakona.
+
+(2) Ako odgovorna osoba institucije iz članka 43. stavka 2. koji je izmijenjen člankom 18. ovoga Zakona nije imenovala osobu za nepravilnosti, dužna je imenovati osobu za nepravilnosti najkasnije u roku od 12 mjeseci od stupanja na snagu ovoga Zakona.
+
+#### Članak 24.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/59
+
+Zagreb, 15. srpnja 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

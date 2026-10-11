@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-12-30
+last_amended: 2022-02-18
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "159/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "159/13, 39/18, 21/22"
+amendments:
+  - "NN 39/2018 (743) Zakon o izmjenama i dopuni Zakona o Središnjem registru osiguranika"
+  - "NN 21/2022 (229) Zakon o dopunama Zakona o Središnjem registru osiguranika"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/159/3330"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o Središnjem registru osiguranika
 
 > Izvor: Narodne novine, NN 159/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/159/3330).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 39/2018, NN 21/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -508,3 +513,179 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o Središnjem registru osiguranika (NN 39/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/39/743*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O SREDIŠNJEM REGISTRU OSIGURANIKA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o Središnjem registru osiguranika, koji je Hrvatski sabor donio na sjednici 20. travnja 2018.
+
+Klasa: 011-01/18-01/42  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 24. travnja 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O SREDIŠNJEM REGISTRU OSIGURANIKA**
+
+#### Članak 1.
+
+U Zakonu o Središnjem registru osiguranika (»Narodne novine«, br. 159/13.) u članku 4. stavak 3. mijenja se i glasi:
+
+»(3) Statut REGOS-a donosi Upravno vijeće, a potvrđuje Vlada Republike Hrvatske.«.
+
+#### Članak 2.
+
+U članku 11. stavak 2. briše se.
+
+Dosadašnji stavci 3. i 4. postaju stavci 2. i 3.
+
+#### Članak 3.
+
+U članku 19. stavku 3. riječi: »stavka 6.« brišu se, a riječi: »u suradnji s ministrom nadležnim« zamjenjuju se riječima: »uz prethodnu suglasnost ministra nadležnog«.
+
+#### Članak 4.
+
+U članku 27. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Sredstva uplaćena s osnove naknade iz stavka 2. ovoga članka, osim za obavljanje aktivnosti iz stavka 1. ovoga članka, koriste se za:
+
+– administrativnu, tehničku podršku i razmjenu podataka
+
+– održavanje i razvoj informacijskog sustava
+
+– projekte i programe vezane uz tehničku podršku i razmjenu podataka
+
+– prikupljanje i obradu podataka po osiguranicima i drugim osobama
+
+– administraciju i upravljanje
+
+– elektroničku razmjenu i dostavu podataka temeljem uredbi Europske unije o koordinaciji sustava socijalne sigurnosti.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+#### Članak 5.
+
+Članak 31. mijenja se i glasi:
+
+»(1) REGOS je ovlašten, bez pristanka obveznika plaćanja koji ima nepovezane uplate doprinosa za obvezna mirovinska osiguranja temeljem individualne kapitalizirane štednje, čiji iznos je jednak obračunanom iznosu, temeljem provedene kontrole uplate doprinosa, provesti povezivanje podataka i raspored po osiguranicima.
+
+(2) Ako je iznos uplate različit od obračunanog iznosa, povezivanje podataka i rasporeda po osiguranicima iz stavka 1. ovoga članka REGOS provodi redom počevši od najstarijeg iznosa uplate doprinosa i zaduženja za određenu vrstu doprinosa.
+
+(3) REGOS provodi povezivanje podataka i raspored po osiguranicima iz stavka 1. ovoga članka nakon isteka roka od šest mjeseci od dana nepovezane uplate.
+
+(4) REGOS je ovlašten provesti raspored po osiguranicima nepovezanih uplata doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje prema stanju podataka zaprimljenih od javnopravnih tijela razmjerno broju dana u osiguranju svakog pojedinog osiguranika, člana obveznog mirovinskog fonda, za razdoblje za koje obveznik podnošenja podataka sukladno posebnom propisu nije podnio podatke po osiguranicima:
+
+1. za obveznika plaćanja koji je prestao postojati i nema pravnog slijednika
+
+2. za obveznika plaćanja čije su nepovezane uplate starije od šest godina.
+
+(5) REGOS je ovlašten provesti raspored po osiguranicima nepovezanih uplata doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje za obveznika plaćanja iz stavka 4. ovoga članka koji je podnio sve obračune doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje po osnovi nesamostalnog rada prema udjelu broja dana u osiguranju svakog pojedinog osiguranika u ukupnom broju dana u osiguranju u godini u kojoj je izvršena nepovezana uplata temeljem stanja podataka zaprimljenih od javnopravnih tijela.
+
+(6) Iznimno od stavka 5. ovoga članka, ako u godini u kojoj je izvršena nepovezana uplata doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje po osnovi nesamostalnog rada nema osiguranika – članova obveznih mirovinskih fondova koji su imali aktivno osiguranje kod tog obveznika plaćanja doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje, REGOS izračunava broj dana u osiguranju s osnove radnog odnosa osiguranika – članova obveznih mirovinskih fondova za posljednju godinu u kojoj postoje podaci o aktivnom osiguranju osiguranika – članova obveznih mirovinskih fondova te provodi raspored po osiguranicima nepovezanih uplata doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje.
+
+(7) REGOS je ovlašten provesti raspored nepovezanih uplata doprinosa za mirovinsko osiguranje temeljem individualne kapitalizirane štednje starijih od šest godina za obveznika plaćanja koji je imao status osiguranika temeljem obavljanja samostalne djelatnosti.«.
+
+#### Članak 6.
+
+Naslov iznad članka 32. i članak 32. brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 7.
+
+(1) Ministar nadležan za mirovinski sustav uskladit će s odredbama ovoga Zakona Pravilnik o Registru Središnjeg registra osiguranika (»Narodne novine«, br. 22/14.) u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Ministar nadležan za mirovinski sustav uz prethodnu suglasnost ministra nadležnog za financije uskladit će s odredbama ovoga Zakona Pravilnik o povezivanju podataka o doprinosima za obvezna mirovinska osiguranja (»Narodne novine«, br. 12/14.) u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 8.
+
+Sredstva koja su ostvarena s osnove naknade na temelju Zakona o Središnjem registru osiguranika (»Narodne novine«, br. 159/13.), a koja su na dan stupanja na snagu ovoga Zakona ostala neutrošena, mogu se koristiti i za namjene utvrđene člankom 27. stavkom 3. koji je dodan člankom 4. ovoga Zakona.
+
+#### Članak 9.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbe članka 31. stavka 1., koji je izmijenjen člankom 5. ovoga Zakona, koja stupa na snagu 1. srpnja 2018.
+
+Klasa: 022-03/17-01/193
+
+Zagreb, 20. travnja 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o dopunama Zakona o Središnjem registru osiguranika (NN 21/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/21/229*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O SREDIŠNJEM REGISTRU OSIGURANIKA
+
+Proglašavam Zakon o dopunama Zakona o središnjem registru osiguranika, koji je Hrvatski sabor donio na sjednici 11. veljače 2022.
+
+Klasa: 011-02/22-02/19  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 16. veljače 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O SREDIŠNJEM REGISTRU OSIGURANIKA**
+
+#### Članak 1.
+
+U Zakonu o Središnjem registru osiguranika (»Narodne novine«, br. 159/13. i 39/18.) u članku 19. stavku 3. iza riječi: »članka 31.« dodaju se riječi: »i članka 31.a«.
+
+#### Članak 2.
+
+Iza članka 31. dodaje se članak 31.a koji glasi:
+
+»Članak 31.a
+
+REGOS je ovlašten, bez pristanka obveznika plaćanja koji ima nepovezane uplate doprinosa za obvezno mirovinsko osiguranje na temelju generacijske solidarnosti, provesti povezivanje s nepovezanim zaduženjima po osiguranicima.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 3.
+
+Ministar nadležan za mirovinski sustav, uz prethodnu suglasnost ministra nadležnog za financije, uskladit će Pravilnik o povezivanju podataka o doprinosima za obvezna mirovinska osiguranja (»Narodne novine«, br. 71/18.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 4.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-01/113
+
+Zagreb, 11. veljače 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

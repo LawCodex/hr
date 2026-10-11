@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-12-18
+last_amended: 2024-12-13
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "153/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2024 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "153/13, 145/24"
+amendments:
+  - "NN 145/2024 (2375) Zakon o dopunama Zakona o građevinskoj inspekciji"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/153/3222"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o građevinskoj inspekciji
 
 > Izvor: Narodne novine, NN 153/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/153/3222).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 145/2024.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -786,3 +790,268 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o dopunama Zakona o građevinskoj inspekciji (NN 145/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/145/2375*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O DOPUNAMA ZAKONA O GRAĐEVINSKOJ INSPEKCIJI
+
+Proglašavam Zakon o dopunama Zakona o građevinskoj ins­pekciji, koji je Hrvatski sabor donio na sjednici 6. prosinca 2024. godine.
+
+Klasa: 011-02/24-02/80  
+Urbroj: 71-10-01/1-24-2  
+Zagreb, 11. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O DOPUNAMA ZAKONA O GRAĐEVINSKOJ INSPEKCIJI**
+
+#### Članak 1.
+
+U Zakonu o građevinskoj inspekciji (»Narodne novine«, br. 153/13.) u članku 2. stavku 4. iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. obustavom građenja zgrada«.
+
+Dosadašnje točke 3. do 6. postaju točke 4. do 7.
+
+#### Članak 2.
+
+U članku 51. iza točke 5. dodaje se nova točka 6. koja glasi:
+
+»6. obustavu građenja zgrade«.
+
+Dosadašnje točke 6., 7. i 8. postaju točke 7., 8. i 9.
+
+#### Članak 3.
+
+Iza članka 57. dodaju se naslov iznad članka i članci 57.a i 57.b koji glase:
+
+*»Obustava građenja zgrade*
+
+#### Članak 57.a
+
+(1) U provedbi nadzora komunalni redar rješenjem naređuje investitoru, odnosno vlasniku i/ili izvođaču obustavu građenja zgrade ako se gradi:
+
+1. bez izvršne građevinske dozvole, odnosno drugog odgovarajućeg akta za građenje
+
+2. bez glavnog projekta sukladno propisu kojim se uređuju jednostavne i druge građevine i radovi.
+
+(2) Komunalni redar obustavu građenja zgrade provodi zatvaranjem gradilišta zgrade postavljanjem posebnog službenog znaka na gradilište, odnosno zgradu.
+
+(3) Nakon zatvaranja gradilišta posebnim službenim znakom zabranjeno je svako građenje na zatvorenom gradilištu do prestanka važenja mjere obustave građenja.
+
+(4) Ako investitor, odnosno vlasnik i/ili izvođač nastavi graditi poslije zatvaranja gradilišta posebnim službenim znakom, komunalni redar provodi sprečavanje daljnjeg građenja izricanjem novčanih kazni sukladno odredbama članaka 61.b do 61.d ovoga Zakona.
+
+(5) Novčane kazne iz stavka 4. ovoga članka prihod su proračuna jedinice lokalne samouprave.
+
+(6) Ako je stranka izvršila obvezu ili je zbog nekog drugog razloga prestala obveza izvršenja rješenja komunalnog redara iz stavka 1. ovoga članka, komunalni redar će po službenoj dužnosti rješenjem obustaviti postupak izvršenja tog rješenja.
+
+(7) Način zatvaranja i označavanja zatvorenog gradilišta od strane komunalnog redara propisuje ministar pravilnikom.
+
+#### Članak 57.b
+
+(1) Rješenje o obustavi građenja zgrade dostavlja se radi znanja građevinskoj inspekciji bez odgode.
+
+(2) Podaci iz rješenja iz stavka 1. ovoga članka evidentiraju se i objavljuju u informacijskom sustavu prostornog uređenja.
+
+(3) Rješenje o obustavi građenja zgrade i zatvaranje gradilišta posebnim službenim znakom od strane komunalnog redara ne sprečava postupanje građevinskog inspektora u skladu s posebnim zakonom.«.
+
+#### Članak 4.
+
+Iza članka 61. dodaje se poglavlje X.a s nazivom i člancima 61.a do 61.d koji glase:
+
+### »X.a NOVČANE KAZNE KOJIMA SE IZVRŠENICI PRISILJAVAJU NA IZVRŠENJE RJEŠENJA KOMUNALNIH REDARA
+
+#### Članak 61.a
+
+Novčana kazna kojom se pravna osoba prisiljava na izvršenje izriče se rješenjem odgovornoj osobi te pravne osobe.
+
+#### Članak 61.b
+
+(1) Na izvršenje rješenja o obustavi građenja zgrade donesenog na temelju članka 57.a ovoga Zakona izvršenik fizička osoba prisiljava se rješenjem novčanim kaznama u sljedećim iznosima eura:
+
+1. novčana kazna 6630,00
+
+2. novčana kazna 10.610,00
+
+3. i svaka sljedeća novčana kazna 13.270,00.
+
+(2) Na izvršenje rješenja o obustavi građenja zgrade donesenog na temelju članka 57.a ovoga Zakona izvršenik pravna osoba prisiljava se rješenjem novčanim kaznama u sljedećim iznosima eura:
+
+1. novčana kazna 13.270,00
+
+2. novčana kazna 19.900,00
+
+3. i svaka sljedeća novčana kazna 26.240,00.
+
+#### Članak 61.c
+
+(1) Na izvršenje rješenja o privremenoj obustavi izvođenja radova donesenog na temelju članka 58. stavka 3. ovoga Zakona i rješenja o dovršenju zgrade u pogledu vanjskog izgleda i uređenja građevne čestice donesenog na temelju članka 59. stavka 2. ovoga Zakona izvršenik fizička osoba prisiljava se rješenjem novčanim kaznama u iznosima eura po skupinama građevina razvrstanim sukladno zakonu kojim se uređuje gradnja:
+
+1. skupina – građevine koje se planiraju Državnim planom prostornog razvoja:
+
+– 1. novčana kazna 5000,00
+
+– 2. novčana kazna 6000,00
+
+– 3. novčana kazna 7000,00
+
+– 4. novčana kazna 8000,00
+
+– 5. novčana kazna 9500,00
+
+– 6. novčana kazna 11.000,00
+
+2. skupina – građevine iz 2.a i 2.b skupine:
+
+– 1. novčana kazna 1500,00
+
+– 2. novčana kazna 3000,00
+
+– 3. novčana kazna 4000,00
+
+– 4. novčana kazna 6000,00
+
+– 5. novčana kazna 7000,00
+
+– 6. novčana kazna 8000,00
+
+3. skupina – građevine iz 3.a, 3.b skupine i građevine koje se prema pravilniku iz zakona kojim se uređuje gradnja mogu graditi bez građevinske dozvole:
+
+– 1. novčana kazna 400,00
+
+– 2. novčana kazna 665,00
+
+– 3. novčana kazna 1000,00
+
+– 4. novčana kazna 1400,00
+
+– 5. novčana kazna 2000,00
+
+– 6. novčana kazna 2660,00.
+
+(2) Na izvršenje rješenja o privremenoj obustavi izvođenja radova donesenog na temelju članka 58. stavka 3. ovoga Zakona i rješenja o dovršenju zgrade u pogledu vanjskog izgleda i uređenja građevne čestice donesenog na temelju članka 59. stavka 2. ovoga Zakona izvršenik pravna osoba prisiljava se rješenjem novčanim kaznama u iznosima eura po skupinama građevina razvrstanim sukladno zakonu kojim se uređuje gradnja:
+
+1. skupina – građevine koje se planiraju Državnim planom prostornog razvoja:
+
+– 1. novčana kazna 12.000,00
+
+– 2. novčana kazna 16.000,00
+
+– 3. novčana kazna 20.000,00
+
+– 4. novčana kazna 24.000,00
+
+– 5. novčana kazna 27.000,00
+
+– 6. novčana kazna 32.000,00
+
+2. skupina – građevine iz 2.a i 2.b skupine:
+
+– 1. novčana kazna 5000,00
+
+– 2. novčana kazna 8000,00
+
+– 3. novčana kazna 12.000,00
+
+– 4. novčana kazna 16.000,00
+
+– 5. novčana kazna 20.000,00
+
+– 6. novčana kazna 24.000,00
+
+3. skupina – građevine iz 3.a, 3.b skupine i građevine koje se prema pravilniku iz zakona kojim se uređuje gradnja mogu graditi bez građevinske dozvole:
+
+– 1. novčana kazna 1500,00
+
+– 2. novčana kazna 2000,00
+
+– 3. novčana kazna 3000,00
+
+– 4. novčana kazna 5000,00
+
+– 5. novčana kazna 6000,00
+
+– 6. novčana kazna 8000,00.
+
+#### Članak 61.d
+
+Na izvršenje rješenja kojim se naređuje izlaganje energetskog certifikata donesenog na temelju članka 60. stavka 2. ovoga Zakona izvršenik se prisiljava rješenjem novčanim kaznama u sljedećim iznosima eura:
+
+– 1. novčana kazna 1500,00
+
+– 2. novčana kazna 3000,00
+
+– 3. novčana kazna 4000,00
+
+– 4. novčana kazna 6000,00
+
+– 5. novčana kazna 7000,00
+
+– 6. novčana kazna 8000,00.«.
+
+#### Članak 5.
+
+Iza članka 61.d dodaje se poglavlje X.b s nazivom i člancima 61.e i 61.f koji glase:
+
+### »X.b PREKRŠAJNE ODREDBE
+
+#### Članak 61.e
+
+(1) Novčanom kaznom u iznosu od 20.000,00 do 30.000,00 eura kaznit će se za prekršaj pravna osoba u svojstvu investitora, odnosno vlasnika i/ili izvođača koja gradi bez izvršne građevinske dozvole, odnosno drugog odgovarajućeg akta za građenje (članak 57.a stavak 1. podstavak 1.).
+
+(2) Novčanom kaznom u iznosu od 5000,00 do 10.000,00 eura kaznit će se za prekršaj pravna osoba u svojstvu investitora, odnosno vlasnika i/ili izvođača koja gradi bez glavnog projekta sukladno propisu kojim se uređuju jednostavne i druge građevine i radovi (članak 57.a stavak 1. podstavak 2.).
+
+(3) Novčanom kaznom u iznosu od 4500,00 do 6630,00 eura kaznit će se investitor, odnosno vlasnik i/ili izvođač fizička osoba i odgovorna osoba u pravnoj osobi koja gradi bez izvršne građevinske dozvole, odnosno drugog odgovarajućeg akta za građenje (članak 57.a stavak 1. podstavak 1.).
+
+(4) Novčanom kaznom u iznosu od 2500,00 do 4500,00 eura kaznit će se investitor, odnosno vlasnik i/ili izvođač fizička osoba i odgovorna osoba u pravnoj osobi koja gradi bez glavnog projekta sukladno propisu kojim se uređuju jednostavne i druge građevine i radovi (članak 57.a stavak 1. podstavak 2.).
+
+(5) Novčane kazne iz ovoga članka u slučaju građenja građevine iz 3.a i 3.b skupine građevina razvrstanih sukladno zakonu kojim se uređuje gradnja umanjuju se za 50%.
+
+#### Članak 61.f
+
+(1) Za prekršaj propisan odredbama članka 61.e ovoga Zakona koji u nadzoru utvrdi komunalni redar optužni prijedlog, odnosno obvezni prekršajni nalog podnosi upravno tijelo.
+
+(2) Novčane kazne naplaćene za prekršaje propisane odredbama članka 61.e ovoga Zakona prihod su proračuna jedinice lokalne samouprave.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 6.
+
+Postupci započeti prema Zakonu o građevinskoj inspekciji (»Narodne novine«, br. 153/13.) do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona i propisa donesenih na temelju toga Zakona.
+
+#### Članak 7.
+
+Ministar će donijeti pravilnik iz članka 57.a stavka 7., koji je dodan člankom 3. ovoga Zakona, u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 8.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Naputak o novčanim kaznama koje izriču komunalni redari (»Narodne novine«, br. 23/18.).
+
+#### Članak 9.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/63  
+Zagreb, 6. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,11 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2016-05-11
+last_amended: 2026-02-06
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "44/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2026 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "44/16, 126/19, 110/21, 76/22, 152/24, 13/26"
+amendments:
+  - "NN 126/2019 (2526) Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom"
+  - "NN 110/2021 (1927) Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom"
+  - "NN 76/2022 (1117) Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom"
+  - "NN 152/2024 (2510) Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom"
+  - "NN 13/2026 (119) Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/44/1135"
 retrieved: 2026-10-12
 ---
@@ -18,6 +24,8 @@ retrieved: 2026-10-12
 # Zakon o otvorenim investicijskim fondovima s javnom ponudom
 
 > Izvor: Narodne novine, NN 44/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/44/1135).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 126/2019, NN 110/2021, NN 76/2022, NN 152/2024, NN 13/2026.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -6835,3 +6843,4124 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 akademik Željko Reiner, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom (NN 126/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/126/2526*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom, koji je Hrvatski sabor donio na sjednici 13. prosinca 2019.
+
+Klasa: 011-01/19-01/233
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM**
+
+#### Članak 1.
+
+U Zakonu o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16.) u članku 2. stavku 1. točka 1. mijenja se i glasi:
+
+»1. Direktiva 2009/65/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. o usklađivanju zakona i drugih propisa koji se odnose na subjekte za zajednička ulaganja u prenosive vrijednosne papire (UCITS), kako je posljednji put izmijenjena Uredbom (EU) 2017/2402 Europskog parlamenta i Vijeća od 12. prosinca 2017. o utvrđivanju općeg okvira za sekuritizaciju i o uspostavi specifičnog okvira za jednostavnu, transparentnu i standardiziranu sekuritizaciju te o izmjeni direktiva 2009/65/EZ, 2009/138/EZ i 2011/61/EU te uredaba (EZ) br. 1060/2009 i (EU) br. 648/2012 SL L 347, 28. 12. 2017.) (u daljnjem tekstu: Direktiva 2009/65/EZ)«.
+
+U točki 2. riječi: »članci 3. do 7. te članci 20. do 23.« zamjenjuju se riječima: »članci 2. do 7., članci 20. do 23. te članci 26. do 29.«.
+
+#### Članak 2.
+
+Članak 3. mijenja se i glasi:
+
+»(1) Agencija je nadležna i odgovorna za provedbu i nadzor ovoga Zakona, uredbi Europske unije iz članka 2. stavka 2. ovoga Zakona, regulatornih i provedbenih tehničkih standarda, kao i smjernica i drugih akata koje donose europska nadzorna tijela.
+
+(2) Smjernice koje europska nadzorna tijela donose u skladu sa svojim ovlastima obvezujuće su za Agenciju i osobe čije su obveze definirane odredbama ovoga Zakona i relevantnih propisa, i to u opsegu koji je određen očitovanjem Agencije iz točke 1. ovoga stavka, ako su ispunjeni sljedeći uvjeti:
+
+1. da se sukladno proceduri propisanoj uredbama kojima se osnivaju europska nadzorna tijela Agencija očitovala da se obvezuje u cijelosti ili djelomično pridržavati odredbi pojedine smjernice ili da se do određenog roka namjerava uskladiti s pojedinom smjernicom
+
+2. da je Agencija na svojoj mrežnoj stranici objavila obavijest o očitovanju iz točke 1. ovoga stavka, pri čemu su stupanje na snagu i početak primjene određeni pojedinom smjernicom, osim u slučaju kada se Agencija očitovala da se do određenog roka namjerava uskladiti s pojedinom smjernicom, kada su stupanje na snagu i početak primjene određeni unutar navedene obavijesti.
+
+(3) Agencija na svojoj mrežnoj stranici objavljuje tekstove smjernica kojih se Agencija i/ili subjekti nadzora moraju u cijelosti ili djelomično pridržavati ili s kojima se do određenog roka namjeravaju uskladiti, zajedno s obavijesti koja sadržava:
+
+a) na koje se subjekte nadzora smjernica odnosi
+
+b) primjenjuje li se smjernica u cijelosti ili djelomično i
+
+c) datum početka primjene smjernice, s prijelaznim razdobljima, ako je primjenjivo.
+
+(4) Subjekti nadzora na koje se smjernica iz stavka 2. ovoga članka primjenjuje dužni su poduzeti sve potrebne aktivnosti radi usklađenja s tom smjernicom, u opsegu i rokovima koji su određeni u obavijesti Agencije iz stavka 2. ovoga članka.«.
+
+#### Članak 3.
+
+U članku 4. stavku 1. točki 33. podtočki b) riječ: »nuđenje« zamjenjuje se riječju: »distribucija«.
+
+Iza točke 43. dodaju se točke 44. do 52. koje glase:
+
+»44. subjekt financijskog sektora je subjekt kako je definiran člankom 4. stavkom 1. točkom 27. Uredbe (EU) br. 575/2013.
+
+45. sekuritizacija je sekuritizacija kako je definirana člankom 2. točkom 1. Uredbe (EU) 2017/2402 Europskog parlamenta i Vijeća od 12. prosinca 2017. o utvrđivanju općeg okvira za sekuritizaciju i o uspostavi specifičnog okvira za jednostavnu, transparentnu i standardiziranu sekuritizaciju te o izmjeni direktiva 2009/65/EZ, 2009/138/EZ i 2011/61/EU te uredaba (EZ) br. 1060/2009 i (EU) br. 648/2012 (u daljnjem tekstu: Uredba (EU) 2017/2402).
+
+46. serviser je subjekt na kojeg je delegirano svakodnevno aktivno upravljanje portfeljem koji je uključen u sekuritizaciju u skladu s člankom 2. točkom 5. podtočkom b) Uredbe (EU) 2017/2402.
+
+47. distribucija je prodaja ili savjetovanje u odnosu na udjele u UCITS fondovima koju obavljaju društvo za upravljanje ili osobe iz članka 164. ovoga Zakona.
+
+48. suradnik kandidata za obavljanje funkcije člana uprave društva za upravljanje je:
+
+a) svaka fizička osoba koja je član uprave ili nadzornog odbora u pravnom subjektu u kojem je kandidat za člana uprave društva za upravljanje na rukovodećem položaju ili stvarni vlasnik nad pravnim subjektom
+
+b) svaka fizička osoba koja je stvarni vlasnik pravnog subjekta u kojem je kandidat za člana uprave društva za upravljanje na rukovodećem položaju
+
+c) svaka fizička osoba koja s kandidatom za člana uprave u društva za upravljanje ima zajedničko stvarno vlasništvo nad pravnim subjektom.
+
+49. osobe koje djeluju zajednički su:
+
+a) fizičke ili pravne osobe koje surađuju međusobno ili s društvom za upravljanje na temelju sporazuma, izričitoga ili prešutnoga, usmenoga ili pisanoga, čiji je cilj stjecanje dionica ili poslovnog udjela s pravom glasa ili usklađeno ostvarivanje prava glasa ili
+
+b) pravne osobe koje su međusobno povezane u smislu odredbi zakona koji uređuje osnivanje i ustroj trgovačkih društava.
+
+50. povezane osobe su dvije ili više pravnih ili fizičkih osoba i članovi njihove uže obitelji koji su, ako se ne dokaže drugačije, za društvo za upravljanje jedan rizik jer:
+
+a) jedna od njih ima, izravno ili neizravno, kontrolu nad drugom odnosno drugima ili
+
+b) su međusobno povezane tako da postoji velika vjerojatnost da će zbog pogoršanja ili poboljšanja gospodarskog i financijskog stanja jedne osobe doći do pogoršanja ili poboljšanja gospodarskog i financijskog stanja jedne ili više drugih osoba, osobito ako između njih postoji mogućnost prijenosa gubitka, dobiti, kreditne sposobnosti ili ako poteškoće u izvorima financiranja odnosno podmirivanju obveza jedne osobe mogu prouzročiti poteškoće u izvoru financiranja odnosno podmirivanja obveza jedne ili više drugih osoba.
+
+51. grupu povezanih osoba čine sve povezane osobe i sve s njima povezane osobe.
+
+52. članovi uže obitelji povezane osobe u smislu ovoga Zakona jesu:
+
+a) bračni drug ili osoba s kojom duže živi u zajedničkom kućanstvu koja, prema posebnom zakonu, ima položaj jednak položaju u bračnoj zajednici
+
+b) djeca ili posvojena djeca te osobe ili djeca ili posvojena djeca osoba iz podtočke a) ove točke koja nemaju punu poslovnu sposobnost i
+
+c) druge osobe koje nemaju punu poslovnu sposobnost i koje su stavljene pod skrbništvo te osobe.«.
+
+#### Članak 4.
+
+U članku 7. stavak 2. mijenja se i glasi:
+
+»(2) Poslove distribucije udjela UCITS fondova odnosno primanje zahtjeva za kupnju, otkup ili prijenos udjela u UCITS fondovima mogu obavljati društva za upravljanje i osobe iz članka 164. ovoga Zakona.«.
+
+#### Članak 5.
+
+Članak 13. mijenja se i glasi:
+
+»(1) Djelatnosti društva za upravljanje su:
+
+1. osnovna djelatnost – upravljanje UCITS fondovima
+
+2. pomoćne djelatnosti:
+
+a) upravljanje portfeljem, prema odredbama zakona kojim se uređuje tržište kapitala
+
+b) investicijsko savjetovanje, u vezi s financijskim instrumentima prema odredbama zakona kojim se uređuje tržište kapitala
+
+c) pohrana i administriranje, u vezi s udjelima u investicijskom fondu i
+
+d) obavljanje poslova servisera.
+
+(2) Osim djelatnosti iz stavka 1. ovoga članka društvo za upravljanje može obavljati i sljedeće djelatnosti:
+
+1. upravljati alternativnim investicijskim fondovima, uz uvjet da je od Agencije dobilo odobrenje za rad u skladu sa zakonom kojim se uređuje osnivanje i upravljanje alternativnim investicijskim fondovima
+
+2. upravljati dobrovoljnim mirovinskim fondovima, uz uvjet da je od Agencije dobilo odobrenje za rad u skladu sa zakonom kojim se uređuje osnivanje i upravljanje dobrovoljnih mirovinskih fondova
+
+3. upravljati fondovima osnovanima prema posebnim zakonima, a koji nisu navedeni u točkama 1. i 2. ovoga stavka, uz uvjet da su od Agencije dobili odobrenje za upravljanje takvim fondovima.
+
+(3) Upravljanje UCITS fondom obuhvaća:
+
+1. osnivanje UCITS fonda, kada je to primjenjivo
+
+2. upravljanje imovinom UCITS fonda
+
+3. upravljanje rizicima UCITS fonda
+
+4. administrativne poslove i
+
+5. trgovanje udjelima UCITS fonda.
+
+(4) Administrativni poslovi iz stavka 3. točke 4. ovoga članka obuhvaćaju:
+
+1. pravne i računovodstvene usluge u vezi s upravljanjem UCITS fondom
+
+2. zaprimanje i obradu upita ulagatelja
+
+3. vrednovanje imovine UCITS fonda i utvrđivanje cijene udjela UCITS fonda (uključujući i izračun porezne obveze)
+
+4. praćenje usklađenosti s propisima
+
+5. isplatu prihoda ili dobiti
+
+6. izdavanje i otkup udjela
+
+7. namiru ugovorenih obveza
+
+8. vođenje poslovnih evidencija
+
+9. vođenje registra udjela, kada je to primjenjivo, i
+
+10. objave i obavještavanje ulagatelja.«.
+
+#### Članak 6.
+
+U članku 14. stavku 1. iza riječi: »društva za upravljanje« dodaju se riječi: »iz članka 13. stavka 1. ovoga Zakona«.
+
+#### Članak 7.
+
+U članku 15. stavak 1. mijenja se i glasi:
+
+»(1) Društvo za upravljanje može obavljati djelatnosti društva za upravljanje iz članka 13. ovoga Zakona za koje je dobilo odobrenje Agencije i upisalo ih kao djelatnost u sudski registar, a poslove iz članka 13. stavka 1. točke 2. podtočke d. može obavljati uz prethodnu obavijest Agenciji.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Društvo za upravljanje, u skladu s odredbama ovoga Zakona, svoju djelatnost iz članka 13. stavka 1. ovoga Zakona može obavljati na području Republike Hrvatske, druge države članice i treće države, ako je to dozvoljeno propisima treće države.«.
+
+#### Članak 8.
+
+U članku 16. stavku 2. iza riječi: »pružanjem investicijskih usluga« stavlja se zarez i dodaju riječi: »a kako je to propisano zakonom kojim se uređuje tržište kapitala«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Društvo za upravljanje koje obavlja djelatnosti upravljanja fondovima osnovanima prema posebnim zakonima dužno je, uz odredbe ovoga Zakona, poštivati i odredbe takvih posebnih zakona.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+#### Članak 9.
+
+U članku 17. stavku 1. riječi: »upravljanja dobrovoljnim mirovinskim fondovima,« brišu se.
+
+#### Članak 10.
+
+Iza članka 21. dodaje se članak 21.a koji glasi:
+
+»Članak 21.a
+
+(1) Društvo za upravljanje mora uložiti barem minimalni iznos regulatornog kapitala društva za upravljanje iz članka 21. ovoga Zakona u likvidnu imovinu ili imovinu koja se lako može pretvoriti u novac u kratkom roku i koja ne smije biti namijenjena špekulativnom trgovanju.
+
+(2) Kada društvo za upravljanje osim djelatnosti upravljanja UCITS fondovima i/ili alternativnim investicijskim fondovima obavlja djelatnosti osnivanja i upravljanja dobrovoljnim mirovinskim fondovima, na minimalni iznos regulatornog kapitala koje je društvo dužno održavati prema odredbama zakona kojim je uređeno osnivanje i upravljanje dobrovoljnim mirovinskim fondovima primjenjuju se odredbe tog zakona.«.
+
+#### Članak 11.
+
+Članak 23. mijenja se i glasi:
+
+»(1) Agencija društvu za upravljanje izdaje odobrenje za rad.
+
+(2) Odobrenje za rad izdaje se na neodređeno vrijeme, ne može se prenijeti na drugu osobu i ne vrijedi za pravnog sljednika.
+
+(3) Zahtjev za izdavanje odobrenja za rad podnose osnivači društva za upravljanje. Odobrenje za rad može zatražiti i već osnovano dioničko društvo ili društvo s ograničenom odgovornošću, pri čemu zahtjev za izdavanje odobrenja za rad podnosi uprava društva.
+
+(4) Zahtjev za izdavanje odobrenja za rad društva za upravljanje podnosi se za djelatnost upravljanja UCITS fondovima.
+
+(5) Ako društvo za upravljanje namjerava, uz djelatnost upravljanja UCITS fondovima, obavljati jednu ili više pomoćnih djelatnosti iz članka 13. stavka 1. točke 2. ovoga Zakona, u okviru zahtjeva iz stavka 4. ovoga članka mora zatražiti izdavanje odobrenja i za obavljanje predmetnih djelatnosti.
+
+(6) Kada društvo za upravljanje namjerava upravljati AIF-ovima koji su regulirani zakonom kojim se uređuje osnivanje i rad alternativnih investicijskih fondova, tada Agenciji podnosi zahtjev za izdavanje odobrenja za rad u skladu s odredbama zakona kojim se uređuje osnivanje i rad alternativnih investicijskih fondova.
+
+(7) Kada društvo za upravljanje namjerava upravljati dobrovoljnim mirovinskim fondovima koji su regulirani zakonom kojim se uređuje osnivanje i rad dobrovoljnih mirovinskih fondova, tada Agenciji podnosi zahtjev za izdavanje odobrenja za rad u skladu s odredbama zakona kojim se uređuje osnivanje i rad dobrovoljnih mirovinskih fondova.
+
+(8) Prije upisa osnivanja društva za upravljanje u sudski registar, kao i prije svakog sljedećeg upisa naknadno zatraženih djelatnosti, društvo za upravljanje mora dobiti odobrenje za rad, odnosno proširenje odobrenja za rad.
+
+(9) Kada društvo za upravljanje podnosi zahtjev iz stavka 6. ili 7. ovoga članka, nije dužno dostaviti one informacije i dokumentaciju koje je Agenciji dostavilo prilikom podnošenja zahtjeva iz stavka 4. ovoga članka, uz uvjet da su takve informacije i dokumentacija ažurni.
+
+(10) Sadržaj zahtjeva za izdavanje odobrenja za rad društvu za upravljanje, potrebnu dokumentaciju koja se prilaže zahtjevu, kao i sadržaj te dokumentacije Agencija propisuje pravilnikom.«.
+
+#### Članak 12.
+
+U članku 24. stavku 1. iza riječi: »članka 23.« dodaju se riječi: »stavka 4.«.
+
+U stavku 3. riječi: »stavaka 2., 4. i 5.« zamjenjuju se riječima: »stavaka 2. i 8.«.
+
+#### Članak 13.
+
+U članku 25. stavku 2. broj: »6.« zamjenjuje se brojem: »9.«.
+
+#### Članak 14.
+
+U članku 26. stavku 1. broj: »82.« zamjenjuje se brojem »79.«.
+
+#### Članak 15.
+
+Naslov iznad članka 31. mijenja se i glasi: »Prestanak važenja i ukidanje odobrenja za rad«.
+
+Članak 31. mijenja se i glasi:
+
+»(1) Odobrenje za rad društva za upravljanje izdano u skladu s ovim Zakonom prestaje važiti:
+
+1. ako društvo za upravljanje ne započne obavljati djelatnost upravljanja UCITS fondovima u roku od jedne godine od dana izdavanja odobrenja za rad, istekom navedenoga roka
+
+2. ako društvo za upravljanje uzastopno tijekom šest mjeseci ne obavlja onu djelatnost za koju je odobrenje za rad izdano, istekom navedenoga roka, u odnosu na predmetnu djelatnost
+
+3. u slučaju dobrovoljnog prestanka obavljanja djelatnosti u skladu s odredbama članaka 96. i 97. ovoga Zakona, prijenosom upravljanja UCITS fondova na drugo društvo za upravljanje ili dovršetkom likvidacije UCITS fondova kojima društvo za upravljanje upravlja
+
+4. danom otvaranja stečajnog postupka nad društvom za upravljanje
+
+5. zaključenjem postupka likvidacije društva za upravljanje i/ili
+
+6. kada društvo prenositelj po provedenom prijenosu upravljanja UCITS fondom Agenciji dostavi obavijest o poduzetim radnjama i postupcima iz članka 89. stavka 2. ovoga Zakona, a društvo prenositelj ne upravlja drugim UCITS fondovima.
+
+(2) Agencija može ukinuti zakonito rješenje kojim je dano odobrenje za rad društva za upravljanje ako je društvu za upravljanje blokiran račun duže od 30 dana te je dovedena u pitanje njegova likvidnost ili solventnost.
+
+(3) Ako nastupi razlog iz stavka 1. ovoga članka, Agencija donosi rješenje kojim se ukida odobrenje za rad, a u slučajevima iz stavka 1. točaka 4. i 5. ovoga članka i ostala rješenja izdana društvu za upravljanje na temelju odredbi ovoga Zakona od dana nastupanja okolnosti iz stavka 1. ovoga članka.
+
+(4) O prestanku važenja odnosno ukidanju odobrenja za rad Agencija obavještava depozitara i nadležni trgovački sud, a prema potrebi i operatera Fonda za zaštitu ulagatelja i/ili druge institucije kada je primjenjivo.«.
+
+#### Članak 16.
+
+Članak 34. mijenja se i glasi:
+
+»(1) Organi društva za upravljanje su:
+
+a) kod dioničkog društva – glavna skupština, uprava i nadzorni odbor, odnosno upravni odbor
+
+b) kod društva s ograničenom odgovornošću – skupština, uprava i nadzorni odbor.
+
+(2) Uprava društva za upravljanje mora skupno raspolagati stručnim znanjima, sposobnostima i iskustvom potrebnim za samostalno i neovisno vođenje poslova društva za upravljanje, a posebno za razumijevanje poslova i značajnih rizika društva za upravljanje.
+
+(3) Nadzorni odbor društva za upravljanje mora skupno raspolagati stručnim znanjima, sposobnostima i iskustvom potrebnim za samostalno i neovisno nadziranje poslova društva za upravljanje, a posebno za razumijevanje poslova i značajnih rizika društva za upravljanje.
+
+(4) O održanim sastancima ili sjednicama organa društva za upravljanje vode se zapisnici.
+
+(5) Društvo za upravljanje dužno je najkasnije u roku od tri radna dana Agenciju izvijestiti o prestanku mandata pojedinog člana uprave ili nadzornog odbora te navesti razloge za prestanak mandata.«.
+
+#### Članak 17.
+
+Članak 36. mijenja se i glasi:
+
+»(1) Član uprave društva za upravljanje može biti osoba koja u svakom trenutku dok obavlja tu dužnost ispunjava sljedeće uvjete:
+
+1. ima odgovarajuće stručno znanje, sposobnost i iskustvo potrebno za vođenje poslova društva za upravljanje
+
+2. nije bila član nadzornog odbora, član uprave ili osoba na drugom rukovodećem položaju u društvu za upravljanje, odnosno trgovačkom društvu kada je nad njim otvoren stečajni postupak, donesena odluka o prisilnoj likvidaciji ili kojem je poništeno ili ukinuto odobrenje za rad, osim ako Agencija ocijeni da ta osoba nije svojim nesavjesnim ili nestručnim radom i postupanjem utjecala na prouzročenje stečaja, prisilne likvidacije, poništavanje ili ukidanje odobrenja za rad
+
+3. nad njezinom imovinom nije otvoren stečajni postupak
+
+4. ima dobar ugled
+
+5. nije pravomoćno osuđena za prekršaj koji predstavlja grubo i/ili ponavljajuće kršenje propisa iz nadležnosti Agencije, Hrvatske narodne banke ili drugog nadležnog regulatornog tijela, ili za kazneno djelo iz stavka 6. ovoga članka
+
+6. nije suradnik osobe osuđene za kazneno djelo za koje se goni po službenoj dužnosti
+
+7. na osnovi dosadašnjeg ponašanja moguće je opravdano zaključiti da će pošteno i savjesno obavljati poslove člana uprave društva za upravljanje
+
+8. ispunjava uvjete za člana uprave propisane zakonom koji uređuje osnivanje i ustroj trgovačkih društava
+
+9. nije član uprave, odnosno prokurist drugoga trgovačkog društva
+
+10. nije osoba za koju je Agencija odbila izdati odobrenje za obavljanje funkcije člana uprave, i to najmanje godinu dana od dana donošenja rješenja kojim se odbija zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave
+
+11. nije osoba u odnosu na koju je Agencija ukinula ili poništila izdano odobrenje za obavljanje funkcije člana uprave, i to najmanje pet godina od dana donošenja rješenja kojim se ukida ili poništava izdano odobrenje za obavljanje funkcije člana uprave
+
+12. može posvetiti dovoljno vremena ispunjavanju dužnosti iz svoje nadležnosti u društvu za upravljanje.
+
+(2) Pod iskustvom iz stavka 1. točke 1. ovoga članka podrazumijeva se najmanje trogodišnje iskustvo u upravi ili rukovođenju organizacijskim dijelovima društva za upravljanje, društva za upravljanje alternativnim investicijskim fondovima, kreditne institucije ili investicijskog društva sa sjedištem u Republici Hrvatskoj ili u drugoj državi članici ili mirovinskog društva, odnosno pet godina iskustva u vođenju poslova ili radu na ključnim mjestima s visokim stupnjem samostalnosti u subjektu financijskog sektora, tijelu nadležnom za nadzor financijskih institucija, ili u odgovarajućem tijelu državne uprave odnosno iskustvo rukovođenja financijskim poslovima na razini uprave, neposredno ispod uprave ili na ključnim mjestima s visokim stupnjem samostalnosti u drugim institucijama ili pravnim osobama koje su prema zakonu kojim se uređuje računovodstvo poduzetnika razvrstane u velike poduzetnike, odnosno drugo odgovarajuće iskustvo u skladu s pravilnikom iz stavka 8. ovoga članka.
+
+(3) Smatra se da fizička osoba koja nije državljanin Republike Hrvatske ispunjava uvjete o nekažnjavanju iz stavka 1. točke 5. ovoga članka ako nije pravomoćno osuđena za djela koja u svom opisu odgovaraju tim djelima.
+
+(4) Članovi uprave društva za upravljanje moraju voditi poslovanje društva za upravljanje u punom radnom vremenu i biti u radnom odnosu s društvom za upravljanje.
+
+(5) Najmanje jedan član uprave mora znati hrvatski jezik tečno u govoru i pismu da bi mogao obavljati tu funkciju.
+
+(6) Agencija je ovlaštena podatke o prekršajnoj osuđivanosti člana uprave, kandidata za člana uprave i suradnike člana uprave odnosno kandidata za člana uprave, te podatke o tome da nisu pravomoćno osuđeni za kaznena djela u Republici Hrvatskoj, kao i za kaznena djela u državi članici, pribaviti iz kaznene odnosno prekršajne evidencije ili iz Europskog sustava kaznenih evidencija u skladu sa zakonom kojim se uređuju pravne posljedice osude, kaznena evidencija i rehabilitacija, i to za sljedeća kaznena djela:
+
+– kaznena djela protiv života i tijela (glava X.), kaznena djela protiv vrijednosti zaštićenih međunarodnim pravom (glava XIII.), kaznena djela protiv spolne slobode i spolnog ćudoređa (glava XIV.), kaznena djela protiv imovine (glava XVII.), osim kaznenih djela povrede prava autora ili umjetnika izvođača (članak 229.), nedozvoljene uporabe autorskog djela ili izvedbe umjetnika izvođača (članak 230.), povrede prava proizvoditelja zvučne ili slikovne snimke i prava u svezi s radiodifuzijskim emisijama (članak 231.) i povrede prava iz prijavljenog ili zaštićenog izuma (članak 232.), kaznena djela protiv sigurnosti platnog prometa i poslovanja (glava XXI.), kaznena djela protiv vjerodostojnosti isprava (glava XXIII.), kaznena djela protiv službene dužnosti (glava XXV.), osim kaznenih djela neizvršavanja zapovijedi (članak 340.) i povrede čuvanja državne granice (članak 341.) iz Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98., 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08., 57/11., 77/11. i 143/12.)
+
+– kaznena djela neovlaštenog korištenja i odavanja povlaštenih informacija, kaznena djela manipuliranja cijenama i širenja neistinitih informacija, kaznena djela navođenja neistinitih podataka u prospektu i njegova nedopuštena distribucija, kaznena djela nedopuštenog uvrštenja vrijednosnih papira, kaznena djela prikrivanja vlasništva i kaznena djela nedopuštene trgovine vrijednosnim papirima iz Zakona o tržištu vrijednosnih papira (»Narodne novine«, br. 84/02. i 138/06.)
+
+– kaznena djela korištenja, otkrivanja i preporučivanja povlaštenih informacija, kaznena djela manipulacije tržištem, kaznena djela neovlaštenog pružanja investicijskih usluga i kaznena djela neovlaštenog obavljanja poslova vezanog zastupnika i Zakona o kaznenim djelima protiv tržišta kapitala (»Narodne novine«, br. 152/08.)
+
+– kaznena djela protiv čovječnosti i ljudskog dostojanstva (glava IX.), kaznena djela protiv života i tijela (glava X.), kazneno djelo povreda ravnopravnosti (članak 125.), kaznena djela protiv radnih odnosa i socijalnog osiguranja (glava XII.), kaznena djela protiv spolnih sloboda (glava XVI.), kazneno djelo neovlaštene proizvodnje i prometa drogama (članak 190.) i kazneno djelo omogućavanja trošenja droga (članak 191.), kazneno djelo uništenja ili oštećenja javnih naprava (članak 216.), kazneno djelo uništenja, oštećenja ili zlouporabe znakova za opasnost (članak 218.), kazneno djelo zlouporabe radioaktivnih tvari (članak 219.), kazneno djelo rukovanja općeopasnim tvarima (članak 220.), kazneno djelo napada na zrakoplov, brod ili nepokretnu platformu (članak 223.), kazneno djelo ugrožavanja prometa opasnom radnjom ili sredstvom (članak 224.), kaznena djela protiv imovine (glava XXIII.), kaznena djela protiv gospodarstva (glava XXIV.), kaznena djela računalnoga krivotvorenja (članak 270.), računalne prijevare (članak 271.), kaznena djela krivotvorenja (glava XXVI.) i kaznena djela protiv službene dužnosti (glava XXVIII.), kazneno djelo pomoći počinitelju nakon počinjenja kaznenog djela (članak 303.), protuzakonito ulaženje, kretanje i boravak u Republici Hrvatskoj, drugoj državi članici Europske unije ili potpisnici Šengenskog sporazuma (članak 326.), kazneno djelo zločinačkog udruženja (članak 328.), nedozvoljeno posjedovanje, izrada i nabavljanje oružja i eksplozivnih tvari (članak 331.), kaznena djela protiv strane države ili međunarodne organizacije (glava XXXIII.) iz Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15., 101/17. i 118/18.)
+
+– kaznena djela iz Zakona o trgovačkim društvima (»Narodne novine«, br. 111/93., 34/99., 121/99., 52/00., 118/03., 107/07., 146/08., 137/09., 125/11., 152/11., 111/12., 68/13., 110/15. i 40/19.) ili
+
+– kaznena djela iz Zakona o računovodstvu (»Narodne novine«, br. 109/07., 125/11., 54/13. i 121/14.).
+
+(7) Uvjeti za obavljanje funkcije člana uprave na odgovarajući se način primjenjuju i na prokurista društva za upravljanje, pri čemu za njega nije potrebno ishoditi odobrenje Agencije. Prokurist može zastupati društvo za upravljanje samo zajedno s još jednim članom uprave.
+
+(8) Agencija pravilnikom detaljnije propisuje kriterije za procjenu uvjeta iz stavaka 1. i 2. ovoga članka za članstvo u upravi društva za upravljanje i dokumentaciju koja se prilaže zahtjevu za izdavanje odobrenja za obavljanje funkcije člana uprave.«.
+
+#### Članak 18.
+
+Članak 39. mijenja se i glasi:
+
+»(1) Članom uprave društva za upravljanje može biti imenovana osoba koja je dobila odobrenje Agencije za obavljanje funkcije člana uprave društva za upravljanje.
+
+(2) Zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave podnose članovi, odnosno nadzorni odbor društva za upravljanje za mandat koji ne može biti duži od pet godina.
+
+(3) Iznimno, ako člana uprave društva za upravljanje imenuje nadležni sud u skladu s odredbama zakona koji uređuje osnivanje i ustroj trgovačkih društava, njegov mandat ne može trajati duže od šest mjeseci, ali i u tom slučaju osoba koja se imenuje mora ispunjavati uvjete iz članka 36. ovoga Zakona.
+
+(4) Kada sud u skladu s odredbama zakona kojim se uređuje osnivanje i ustroj trgovačkih društava imenuje privremenog upravitelja društva za upravljanje osnovanog u obliku društva s ograničenom odgovornošću, njegov mandat ne može trajati dulje od tri mjeseca.
+
+(5) Nadzorni odbor, odnosno članovi društva za upravljanje dužni su podnijeti zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave i dostaviti program vođenja poslova društva za upravljanje za mandatno razdoblje najmanje tri mjeseca prije isteka mandata pojedinom članu uprave.
+
+(6) Podnositelji zahtjeva za izdavanje odobrenja iz stavka 1. ovoga članka dužni su priložiti dokaze o ispunjavanju uvjeta iz članka 36. ovoga Zakona i pravilnika iz članka 36. stavka 8. ovoga Zakona.
+
+(7) U postupku odlučivanja o odobrenju iz stavka 1. ovoga članka Agencija može zatražiti da kandidat za člana uprave društva za upravljanje predstavi program vođenja poslova društva za upravljanje za mandatno razdoblje.
+
+(8) Osoba za koju je Agencija izdala odobrenje za obavljanje funkcije člana uprave društva za upravljanje dužna je, prije nego što bude imenovana na tu dužnost u drugom društvu za upravljanje, ponovno dobiti odobrenje Agencije.
+
+(9) Agencija rješenjem odlučuje o izdavanju odobrenja iz stavka 1. ovoga članka na temelju:
+
+1. procjene i dokumentacije iz stavka 5. ovoga članka
+
+2. programa vođenja poslova iz stavka 5. ovoga članka i
+
+3. ostalih podataka kojima raspolaže
+
+(10) Agencija pravilnikom detaljnije propisuje sadržaj programa vođenja poslova društva za upravljanje iz stavka 5. ovoga članka, kao i postupak i kriterije za ocjenjivanje programa i kandidata koji predstavljaju program.«.
+
+#### Članak 19.
+
+U članku 40. točki 1. riječi: »stavka 6.« zamjenjuju se riječima: »stavka 8.«.
+
+Iza točke 1. dodaje se nova točka 2. koja glasi:
+
+»2. procjena, dokumentacija te podaci iz članka 39. stavka 9. ovoga Zakona upućuju na to da predložena osoba za člana uprave nije primjerena za obavljanje te funkcije«.
+
+Dosadašnje točke 2. i 3. postaju točke 3. i 4.
+
+#### Članak 20.
+
+Naslov iznad članka 41. i članak 41. brišu se.
+
+#### Članak 21.
+
+Naslov iznad članka 42. mijenja se i glasi: »Ukidanje odobrenja za obavljanje funkcije člana uprave društva za upravljanje«.
+
+Članak 42. mijenja se i glasi:
+
+»(1) Agencija ukida rješenje kojim je izdano odobrenje za obavljanje funkcije člana uprave društva za upravljanje u sljedećim slučajevima, ako:
+
+1. osoba u roku od šest mjeseci od izdavanja odobrenja ne bude imenovana ili ne stupi na dužnost na koju se odobrenje odnosi
+
+2. osobi prestane dužnost na koju se odobrenje odnosi
+
+3. osobi prestane radni odnos u društvu za upravljanje
+
+4. član uprave prestane ispunjavati uvjete pod kojima mu je odobrenje izdano
+
+5. u slučaju provedene obnove postupka utvrdi da je odobrenje izdano na temelju neistinitih ili netočnih podataka ili izjava bitnih za donošenje tog rješenja
+
+6. je član uprave prekršio odredbe o zabrani trgovanja ili izvršavanja transakcija, odnosno davanja naloga za trgovanje na temelju povlaštenih informacija ili na način koji bi predstavljao tržišnu manipulaciju prema odredbama zakona koji uređuje tržište kapitala i/ili
+
+7. je član uprave teže ili sustavno kršio ovaj Zakon, propise donesene na temelju ovoga Zakona ili ostale primjenjive propise Republike Hrvatske ili Europske unije u vezi s funkcijom člana uprave ili poslovanjem društva za upravljanje, a osobito ako je zbog toga ugrožena likvidnost ili održavanje regulatornog kapitala društva za upravljanje ili se radi o jednakom kršenju koje se ponavlja dva puta u tri godine.
+
+(2) Agencija može ukinuti rješenje kojim je dano odobrenje za obavljanje funkcije člana uprave društva za upravljanje u sljedećim slučajevima, ako:
+
+1. član uprave nije osigurao provođenje ili nije proveo nadzorne mjere koje je naložila Agencija
+
+2. član uprave nije osigurao adekvatne organizacijske uvjete iz članaka 48. do 66. ovoga Zakona
+
+3. je član uprave u sukobu interesa zbog kojeg ne može ispunjavati svoje obveze i dužnosti pažnjom dobrog stručnjaka i/ili
+
+4. član uprave redovito ne ispunjava obvezu utvrđivanja i ocjenjivanja učinkovitosti politika, mjera ili internih procedura vezanih za usklađenost društva za upravljanje i UCITS fonda kojim ono upravlja s ovim Zakonom i propisima donesenim na temelju ovoga Zakona ili obvezu poduzimanja odgovarajućih mjera radi ispravljanja nedostataka, odnosno nepravilnosti u poslovanju društva za upravljanje.
+
+(3) U slučajevima iz stavka 2. ovoga članka Agencija može i posebnom nadzornom mjerom privremeno zabraniti obavljanje funkcije člana uprave društva za upravljanje.
+
+(4) O tužbama protiv akata Agencije iz stavaka 1., 2. i 3. ovoga članka nadležni upravni sud odlučuje hitno, a najkasnije u roku od šest mjeseci od dana podnošenje tužbe.
+
+(5) Ako Agencija ukine odobrenje za obavljanje funkcije člana uprave, društvo za upravljanje obvezno je bez odgode donijeti odluku o opozivu imenovanja tog člana uprave.
+
+(6) Kada društvo za upravljanje ne zadovoljava uvjet o najmanjem broju članova uprave iz članka 35. stavka 1. ovoga Zakona, nadzorni odbor društva za upravljanje dužan je po hitnom postupku iz redova svojih članova, bez odobrenja Agencije, u skladu s odredbama zakona koji uređuje osnivanje i ustroj trgovačkih društava, imenovati zamjenika člana uprave i o tome bez odgode obavijestiti Agenciju.
+
+(7) Nadzorni odbor odnosno članovi društva za upravljanje dužni su predložiti kandidata za člana uprave koji nedostaje i podnijeti zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave u roku od 60 dana od dana ukidanja odobrenja Agencije u skladu s ovim člankom, odnosno od primitka odluke Agencije o ukidanju odobrenja ili o odbijanju zahtjeva za izdavanje odobrenja za obavljanje funkcije člana uprave.
+
+(8) Zamjenik člana uprave iz stavka 6. ovoga članka imenuje se na mandat od najviše tri mjeseca i na navedenu se funkciju može ponovno imenovati isti ili drugi član nadzornog odbora, uz uvjet da zamjenski mandat tako imenovanog člana ne traje ukupno dulje od šest mjeseci.«.
+
+#### Članak 22.
+
+Članak 44. mijenja se i glasi:
+
+»(1) Za člana nadzornog odbora društva za upravljanje može biti izabrana ili imenovana osoba koja ima dobar ugled, odgovarajuće stručno znanje, sposobnost i iskustvo za nadziranje vođenja poslova društva za upravljanje te može posvetiti dovoljno vremena ispunjavanju obveza iz svoje nadležnosti u društvu za upravljanje.
+
+(2) Smatra se da je uvjet iz stavka 1. ovoga članka ispunjen ako osoba ima najmanje trogodišnje iskustvo vođenja ili nadzora nad vođenjem poslova društva za upravljanje ili društva za upravljanje alternativnim investicijskim fondovima, mirovinskog društva, kreditne institucije ili investicijskog društva sa sjedištem u Republici Hrvatskoj ili u drugoj državi članici, ili najmanje petogodišnje iskustvo vođenja ili nadzora nad vođenjem poslova subjekta financijskog sektora odgovarajuće veličine, odnosno drugo odgovarajuće iskustvo u skladu s pravilnikom iz stavka 5. ovoga članka.
+
+(3) Svaki član nadzornog odbora dužan je djelovati otvoreno, pošteno i neovisno kako bi mogao učinkovito procjenjivati i nadzirati odluke uprave i poslovanje društva za upravljanje.
+
+(4) Agencija može naložiti društvu za upravljanje opoziv člana nadzornog odbora ako:
+
+1. član nadzornog odbora krši svoje dužnosti određene ovim i drugim zakonima te propisima donesenim na temelju tih zakona ili primjenjivim propisima Europske unije
+
+2. postoji ili nastupi zapreka za izbor ili imenovanje člana nadzornog odbora ili
+
+3. član nadzornog odbora ne ispunjava uvjete iz stavaka 1., 2. i 3. ovoga članka.
+
+(5) Agencija pravilnikom detaljnije propisuje kriterije za procjenu uvjeta kojima moraju udovoljavati članovi nadzornog odbora društva za upravljanje.«.
+
+#### Članak 23.
+
+U članku 50. stavku 3. riječi: »stavka 1. točke 1. podtočke c)« zamjenjuju se riječima: »stavka 2. točke 2.«.
+
+U stavku 4. riječi: »stavka 1. točke 1. podtočke b)« zamjenjuju se riječima: »stavka 2. točke 1.«.
+
+#### Članak 24.
+
+Iza članka 56. dodaje se naslov iznad članka i članak 56.a koji glase:
+
+*»Izloženost sekuritizaciji*
+
+#### Članak 56.a
+
+(1) Ako je društvo za upravljanje odnosno pojedini UCITS fond kojim ono upravlja izloženo sekuritizaciji, dužno je napraviti pisanu procjenu ispunjava li predmetna sekuritizacija uvjete propisane Uredbom (EU) 2017/2402, u skladu s člankom 5. Uredbe (EU) 2017/2402.
+
+(2) Ako sekuritizacija kojoj je izloženo društvo za upravljanje odnosno pojedini UCITS fond kojim ono upravlja ne ispunjava uvjete propisane Uredbom (EU) 2017/2402, društvo za upravljanje dužno je uz procjenu iz stavka 1. ovoga članka napraviti pisanu procjenu kako okolnosti vezane za predmetnu sekuritizaciju utječu ili mogu utjecati na interese ulagatelja u pojedini UCITS fond.
+
+(3) Društvo za upravljanje dužno je na temelju procjene iz stavka 2. ovoga članka usvojiti i poduzeti mjere za smanjenje izloženosti odnosno druge odgovarajuće korektivne mjere, ako je to potrebno u svrhu postupanja u najboljem interesu ulagatelja u pojedini fond.
+
+(4) Procjenu iz stavka 2. ovoga članka i mjere iz stavka 3. ovoga članka društvo za upravljanje dužno je ažurirati periodički, najmanje jednom godišnje, te po svakoj materijalnoj promjeni izloženosti sekuritizaciji koja ne ispunjava uvjete propisane Uredbom (EU) 2017/2402.
+
+(5) O mjerama iz stavka 3. ovoga članka društvo za upravljanje dužno je voditi evidencije te ih dostaviti na zahtjev Agencije uz pisano obrazloženje kako one predstavljaju postupanje u najboljem interesu ulagatelja.«.
+
+#### Članak 25.
+
+U članku 59. stavku 3. iza riječi: »poslove« dodaju se riječi: »upravljanja imovinom i/ili upravljanja rizicima«.
+
+#### Članak 26.
+
+U članku 61. stavku 2. riječi: »odbor mora« zamjenjuju se riječima: »se odbor mora sastojati od najmanje dva člana od kojih je jedan predsjednik te mora«.
+
+Stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Odbor za primitke dužan je predlagati odluke nadzornom odboru društva za upravljanje vezane uz primitke višeg rukovodstva, voditelja kontrolnih funkcija i radnika koji imaju utjecaj na izloženost društva za upravljanje odnosno UCITS fonda rizicima. Odbor za primitke je dužan u svome radu voditi računa o dugoročnim interesima društva za upravljanje, UCITS fondova kojima upravlja, ulagatelja u UCITS fondove kojima upravlja te drugih zainteresiranih strana.
+
+(4) Kada je relevantnim propisom određeno da u nadzornom odboru mora biti predstavnik radnika, odbor za primitke uključuje jednog ili više predstavnika radnika. Ako odbor za primitke ima manje od tri člana, u njemu ne može biti više od jednog predstavnika radnika.«.
+
+#### Članak 27.
+
+U članku 69. stavku 1. riječi: »iz članka 13. stavka 2. točaka 2. i 3. te članka 13. stavka 3. točke 3. ovoga Zakona« zamjenjuju se riječima: »iz članka 13. stavka 3. točaka 2. i 3. te članka 13. stavka 4. točke 3. ovoga Zakona«.
+
+#### Članak 28.
+
+Članak 74. mijenja se i glasi:
+
+»(1) Izravni ili neizravni imatelji kvalificiranog udjela u društvu za upravljanje mogu biti samo fizička ili pravna osoba, grupa povezanih osoba ili osobe koje djeluju zajednički, koje su na temelju zahtjeva za stjecanje kvalificiranog udjela dobile suglasnost Agencije za stjecanje kvalificiranog udjela.
+
+(2) Smatra se da djeluju zajednički:
+
+1. osobe koje povezuju samo okolnosti u svezi sa stjecanjem dionica ili poslovnih udjela, a koje ukazuju na usklađenost u stjecanju dionica ili poslovnih udjela ili u zajedničkoj namjeri osoba
+
+2. članovi uprava ili nadzornih odbora društava koji djeluju zajednički ili
+
+3. članovi uprave ili nadzornog odbora s društvima u kojima su članovi tih tijela.
+
+(3) Pravne osobe te fizičke i/ili pravne osobe djeluju zajednički kada fizička i/ili pravna osoba ima:
+
+1. izravno ili neizravno više od 25% udjela u temeljnom kapitalu iste pravne osobe
+
+2. izravno ili neizravno više od 25% glasačkih prava u glavnoj skupštini odnosno skupštini iste pravne osobe
+
+3. pravo upravljanja poslovnim i financijskim politikama iste pravne osobe na temelju ovlasti iz statuta ili sporazuma ili
+
+4. izravno ili neizravno prevladavajući utjecaj na vođenje poslova i donošenje odluka.
+
+(4) Svaki imatelj kvalificiranog udjela koji namjerava izravno ili neizravno povećati udjel u društvu za upravljanje, što bi rezultiralo time da visina udjela u kapitalu ili u glasačkim pravima dosegne ili premaši 20%, 30% ili 50%, ili da društvo za upravljanje postane ovisno društvo imatelja kvalificiranog udjela, dužan je ponovno prethodno Agenciji podnijeti zahtjev za izdavanje suglasnosti za povećanje kvalificiranog udjela.
+
+(5) Zahtjev iz stavaka 1. i 3. ovoga članka mora sadržavati podatke o visini udjela koji se namjerava steći i svu dokumentaciju propisanu pravilnikom Agencije iz članka 79. stavka 4. ovoga Zakona.
+
+(6) Ako je Agencija zaprimila dva ili više zahtjeva za stjecanje ili povećanje kvalificiranog udjela u istom društvu za upravljanje, odnosi se prema svim namjeravanim stjecateljima ravnopravno.«.
+
+#### Članak 29.
+
+Iznad članka 75. dodaje se naslov koji glasi: »Izvještavanje Agencije«.
+
+Članak 75. mijenja se i glasi:
+
+»(1) Svaka fizička ili pravna osoba koja namjerava izravno ili posredno otpustiti kvalificirani udjel u društvu za upravljanje dužna je o tome prethodno izvijestiti Agenciju pisanim putem, navodeći visinu udjela koji namjerava otpustiti.
+
+(2) Svaka fizička ili pravna osoba koja namjerava svoj udjel u društvu za upravljanje smanjiti na način da se udio u kapitalu ili glasačkim pravima te osobe smanji ispod granice od 20%, 30% ili 50% ili da društvo za upravljanje prestaje biti društvo kći te osobe, dužna je o tome prethodno izvijestiti Agenciju pisanim putem, navodeći visinu udjela koji namjerava otpustiti.«.
+
+#### Članak 30.
+
+Iznad članka 76. dodaje se naslov koji glasi: »Glasačka prava koja proizlaze iz pružanja investicijskih usluga«.
+
+Članak 76. mijenja se i glasi:
+
+»Kod odlučivanja o zahtjevu iz članka 74. ovoga Zakona i pri procjeni visine kvalificiranog udjela neće se uzeti u obzir glasačka prava ili dionice koje investicijsko društvo ili kreditna institucija drže kao rezultat pružanja investicijske usluge provedbe ponude, odnosno prodaje financijskih instrumenata bez obveze otkupa u skladu s odredbama zakona koji uređuje tržište kapitala, pod uvjetom da se ta prava ne koriste za ostvarivanja utjecaja na upravljanje te da se navedene dionice ili poslovni udjeli ne drže dulje od godine dana od dana stjecanja.«.
+
+#### Članak 31.
+
+Iznad članka 77. dodaje se naslov koji glasi: »Postupak savjetovanja s drugim nadležnim tijelima«.
+
+Članak 77. mijenja se i glasi:
+
+»(1) Agencija se, prije donošenja odluke o suglasnosti, savjetuje s drugim nadležnim tijelom ako je podnositelj zahtjeva za stjecanje kvalificiranog udjela:
+
+1. kreditna institucija, društvo za životno osiguranje, društvo za osiguranje, društvo za reosiguranje, investicijsko društvo ili društvo za upravljanje kojem je odobrenje za rad izdano u drugoj državi članici ili je za stjecatelja nadležno drugo nadzorno tijelo
+
+2. matično društvo kreditne institucije, društva za životno osiguranje, društva za osiguranje, društva za reosiguranje, investicijskog društva ili društva za upravljanje kojem je odobrenje za rad izdano u drugoj državi članici ili je za stjecatelja nadležno drugo nadzorno tijelo ili
+
+3. fizička ili pravna osoba koja kontrolira kreditnu instituciju, društvo za životno osiguranje, društvo za osiguranje, društvo za reosiguranje, investicijsko društvo ili društvo za upravljanje kojem je odobrenje za rad izdano u drugoj državi članici ili je za stjecatelja nadležno drugo nadzorno tijelo.
+
+(2) Agencija od drugog nadležnog tijela može zatražiti sve podatke relevantne za donošenje odluke o suglasnosti za stjecanje kvalificiranog udjela. Drugo nadležno tijelo dužno je Agenciji dostaviti i druge podatke kojima raspolaže, a nužni su za donošenje odluke o suglasnosti za stjecanje kvalificiranog udjela.
+
+(3) U slučaju iz stavka 1. ovoga članka Agencija u obrazloženju odluke o suglasnosti za stjecanje kvalificiranog udjela navodi mišljenje drugog nadležnog tijela.«.
+
+#### Članak 32.
+
+Iznad članka 78. dodaje se naslov koji glasi: »Naknadno izvještavanje Agencije«.
+
+Članak 78. mijenja se i glasi:
+
+»(1) Ako društvo za upravljanje sazna za stjecanje ili otpuštanje kvalificiranog udjela koji će izazvati prelazak ili smanjenje ispod 20%, 30% ili 50%, dužno je o tome bez odgode izvijestiti Agenciju.
+
+(2) Društvo za upravljanje dužno je jednom godišnje Agenciji dostaviti popis imena/naziva svih dioničara, kao i imatelja kvalificiranih udjela s veličinom pojedinih udjela, sa stanjem na dan 1. siječnja tekuće godine, najkasnije do 31. ožujka tekuće godine.«.
+
+#### Članak 33.
+
+Članak 79. mijenja se i glasi:
+
+»(1) Za potrebe odlučivanja o izdavanju suglasnosti podnositelj zahtjeva dužan je dostaviti Agenciji podatke propisane pravilnikom iz stavka 4. ovoga članka.
+
+(2) Agencija u postupku odlučivanja vodi računa da je opseg podataka potrebnih za odlučivanje o zahtjevu iz članka 74. ovoga Zakona razmjeran i prilagođen prirodi podnositelja zahtjeva za stjecanje kvalificiranog udjela i samog stjecanja.
+
+(3) Agencija u postupku odlučivanja neće tražiti niti procjenjivati podatke koji nisu važni za bonitetnu ocjenu stjecatelja i stjecanja kvalificiranog udjela.
+
+(4) Agencija pravilnikom detaljnije propisuje opseg potrebnih podataka iz stavka 1. ovoga članka i detaljniji popis dokumentacije koji se prilaže zahtjevu iz članka 74. ovoga Zakona.«.
+
+#### Članak 34.
+
+Iznad članka 80. dodaje se naslov koji glasi: »Postupak odlučivanja o suglasnosti«.
+
+Članak 80. mijenja se i glasi:
+
+»(1) Agencija bez odgađanja, a najkasnije u roku od dva radna dana od primitka urednog zahtjeva iz članka 74. ovoga Zakona, kao i nakon mogućeg naknadnog primanja informacija iz članka 74. ovoga Zakona, podnositelju izdaje pisanu potvrdu o zaprimanju zahtjeva.
+
+(2) Urednim zahtjevom iz stavka 1. ovoga članka smatra se zahtjev kojem je priložena dokumentacija iz članka 79. stavka 1. ovoga Zakona, uključujući i dodatnu dokumentaciju, ako je Agencija zatraži uzimajući u obzir članak 79. stavak 2. ovoga Zakona.
+
+(3) Agencija postupak odlučivanja o suglasnosti provodi u roku od 60 radnih dana od dana slanja pisane potvrde iz stavka 1. ovoga članka.
+
+(4) Pisana potvrda iz stavka 1. ovoga članka sadrži i naznaku datuma isteka razdoblja procjene.«.
+
+#### Članak 35.
+
+Iza članka 80. dodaje se naslov iznad članka i članak 80.a koji glase:
+
+*»Dopuna zahtjeva*
+
+#### Članak 80.a
+
+(1) Agencija može od podnositelja zahtjeva pisanim putem prema potrebi, a najkasnije 50. radni dan razdoblja procjene, zatražiti dodatne podatke potrebne za procjenu, uz detaljno navođenje potrebnih podataka.
+
+(2) Razdoblje procjene se prekida od dana kada podnositelj zahtjeva zaprimi zahtjev Agencije iz stavka 1. ovoga članka do dana zaprimanja odgovora od podnositelja zahtjeva, pri čemu prekid može trajati najdulje 20 radnih dana.
+
+(3) Daljnji zahtjevi Agencije za nadopunom ili pojašnjenjem podataka ne prekidaju razdoblje procjene.
+
+(4) Iznimno od stavka 3. ovoga članka, razdoblje procjene može se prekinuti najviše do 30 radnih dana ako je podnositelj zahtjeva:
+
+1. fizička ili pravna osoba sa sjedištem ili prebivalištem u trećoj zemlji ili čije je poslovanje uređeno zakonodavstvom treće zemlje
+
+2. fizička ili pravna osoba koja ne podliježe nadzoru po propisima Europske unije koji uređuju poslovanje investicijskih društava ili propisima koji uređuju osnivanje i rad otvorenih investicijskih fondova s javnom ponudom i njihovih društava za upravljanje, alternativnih investicijskih fondova i njihovih društava za upravljanje, društava za osiguranje, društva za reosiguranje i kreditnih institucija.«.
+
+#### Članak 36.
+
+Iznad članka 81. dodaje se naslov koji glasi: »Rokovi za odlučivanje o suglasnosti«.
+
+Članak 81. mijenja se i glasi:
+
+»(1) Agencija o zahtjevu iz članka 74. ovoga Zakona odlučuje rješenjem.
+
+(2) Agencija je dužna rješenje iz stavka 1. ovoga članka donijeti unutar razdoblja procjene i o tome obavijestiti podnositelja zahtjeva za stjecanje kvalificiranog udjela u roku od dva dana, ne prelazeći razdoblje procjene.
+
+(3) Ako Agencija unutar razdoblja procjene ne odbije zahtjev za izdavanje suglasnosti, smatra se da je stjecanje odobreno.
+
+(4) U rješenju kojim se izdaje suglasnost za stjecanje kvalificiranog udjela može se odrediti krajnji rok do kojeg se stjecanje mora provesti. Taj rok Agencija na zahtjev stjecatelja kvalificiranog udjela iz opravdanih razloga može produljiti.«.
+
+#### Članak 37.
+
+Iznad članka 82. dodaje se naslov koji glasi: »Odlučivanje o suglasnosti na stjecanje kvalificiranog udjela«.
+
+Članak 82. mijenja se i glasi:
+
+»(1) Pri odlučivanju o izdavanju suglasnosti za stjecanje kvalificiranog udjela, u svrhu provjere hoće li se društvom za upravljanje upravljati pažnjom dobrog stručnjaka, a s obzirom na vjerojatni utjecaj stjecatelja kvalificiranog udjela na društvo za upravljanje, procjenjuje se primjerenost stjecatelja kvalificiranog udjela i financijska stabilnost stjecanja prema sljedećim kriterijima:
+
+1. ugledu podnositelja zahtjeva za stjecanje kvalificiranog udjela
+
+2. ugledu, stručnim znanjima, sposobnostima i iskustvu osoba koje stjecatelj namjerava predložiti kao članove uprave ili nadzornog odbora društva za upravljanje
+
+3. financijskoj stabilnosti podnositelja zahtjeva za stjecanje kvalificiranog udjela, posebno u odnosu na poslovanje društva za upravljanje u kojemu se stjecanje predlaže
+
+4. mogućnostima društva za upravljanje da se pridržava odnosno nastavi pridržavati odredbi ovoga Zakona, drugih relevantnih propisa, propisa kojima se uređuje poslovanje financijskih konglomerata te, ako je to primjenjivo, ostalih propisa Europske unije, a posebno prema tome ima li grupa čijim će članom postati društva za upravljanje strukturu koja omogućava učinkovito provođenje nadzora, djelotvornu razmjenu podataka između nadležnih nadzornih tijela i određivanje podjele odgovornosti među nadležnim tijelima
+
+5. postoje li opravdani razlozi za sumnju, u skladu s propisima o sprečavanju pranja novca i financiranja terorizma, da se u vezi sa stjecanjem kvalificiranog udjela provodi ili pokušava provesti pranje novca ili financiranje terorizma ili da stjecanje kvalificiranog udjela može povećati rizik od provođenja pranja novca ili financiranja terorizma i
+
+6. je li podnositelj zahtjeva za stjecanje kvalificiranog udjela suradnik osobe osuđene za kazneno djelo koje se goni po službenoj dužnosti.
+
+(2) U postupku odlučivanja Agencija neće postavljati prethodne uvjete u vezi s visinom udjela koje stjecatelj namjerava steći niti će se zahtjev za izdavanje suglasnosti za stjecanje kvalificiranog udjela procjenjivati s osnova gospodarskih potreba tržišta.
+
+(3) Agencija je ovlaštena podatke o pravomoćnoj osuđivanosti namjeravanog stjecatelja i suradnika namjeravanog stjecatelja kvalificiranog udjela za kaznena djela u Republici Hrvatskoj pribaviti od ministarstva nadležnog za pravosuđe ili iz Europskog sustava kaznenih evidencija u skladu sa zakonom kojim se uređuju pravne posljedice osude, kaznena evidencija i rehabilitacija.
+
+(4) Agencija zahtjev za izdavanje suglasnosti za stjecanje kvalificiranog udjela odbija rješenjem ako ocijeni da postoje opravdani razlozi za to na temelju kriterija propisanih stavkom 1. ovoga članka ili ako na temelju dostavljenih podataka nije moguće utvrditi da su ti kriteriji ispunjeni.«.
+
+#### Članak 38.
+
+Članak 83. mijenja se i glasi:
+
+»(1) Ako osoba stekne udio u društvu za upravljanje bez suglasnosti Agencije, Agencija joj rješenjem nalaže da proda dionice ili poslovne udjele koje je stekla bez suglasnosti te da dostavi dokaz o prodaji i podatke o kupcu, ako su poznati.
+
+(2) Agencija rješenjem iz stavka 1. ovoga članka određuje rok za prodaju, koji ne može biti kraći od tri mjeseca niti duži od devet mjeseci.
+
+(3) Rješenje iz stavka 1. ovoga članka dostavlja se osobama iz stavka 1. ovoga članka, društvu za upravljanje, nadležnom trgovačkom sudu i središnjem depozitoriju, ako je primjenjivo.
+
+(4) Od trenutka izvršnosti rješenja iz stavka 1. ovoga članka stjecatelj ne može ostvarivati prava niti iz jedne dionice ili poslovnog udjela za koje je naložena prodaja, a kvorum za valjano odlučivanje i potrebna većina za donošenje odluka glavne skupštine odnosno skupštine računaju se u odnosu na temeljni kapital umanjen za iznos dionica odnosno poslovnih udjela na temelju kojih stjecatelj ne može ostvarivati pravo glasa.
+
+(5) Društvo za upravljanje dužno je:
+
+1. osigurati da stjecatelj iz stavka 1. ovoga članka ne ostvaruje nikakva prava niti iz jedne dionice ili poslovnog udjela za koje je naložena prodaja i
+
+2. od primitka rješenja iz stavka 1. ovoga članka do isteka roka određenog u skladu sa stavkom 3. ovoga članka jednom mjesečno izvještavati Agenciju o svim promjenama imatelja dionica odnosno poslovnih udjela.
+
+(6) U izreci rješenja iz stavka 1. ovoga članka Agencija navodi:
+
+1. da se izreka javno objavljuje i
+
+2. da stjecatelj ne može ostvarivati prava niti iz jedne dionice ili poslovnog udjela za koji je naložena prodaja.«.
+
+#### Članak 39.
+
+Iza članka 83. dodaje se naslov iznad članka i članak 83.a koji glase:
+
+*»Ukidanje suglasnosti za namjeravano stjecanje*
+
+#### Članak 83.a
+
+(1) Agencija rješenjem može ukinuti zakonito rješenje kojim je izdana suglasnost za stjecanje kvalificiranog udjela:
+
+1. ako u slučaju provedene obnove postupka utvrdi da je suglasnost izdana na temelju neistinitih ili netočnih podataka ili izjava bitnih za donošenje tog rješenja
+
+2. ako stjecatelj krši obveze propisane ovim Zakonom vezano za nadzor na konsolidiranoj osnovi odnosno ako ne postupi u skladu s rješenjem Agencije ili drugog tijela nadležnog za nadzor na konsolidiranoj osnovi kojim se nalaže uklanjanje određenih nedostataka
+
+3. ako nakon izdavanja suglasnosti nastupe okolnosti koje bi, da su postojale u vrijeme odlučivanja, bile razlog za odbijanje zahtjeva iz članka 82. stavka 4. ovoga Zakona ili
+
+4. ako se stjecatelj koristi svojim utjecajem protivno dobrom i razboritom upravljanju društvom za upravljanje ili ne postupa s pozornošću urednog i savjesnog gospodarstvenika.
+
+(2) Agencija rješenjem ukida rješenje kojim je izdana suglasnost za stjecanje kvalificiranog udjela, i to:
+
+1. u cijelosti, ako podnositelj zahtjeva u roku određenom prema članku 81. stavku 2. ovoga Zakona ne stekne dionice ili poslovne udjele u društvu za upravljanje, na temelju kojih bi dosegnuo najmanje 10% udjela u kapitalu ili glasačkim pravima ili
+
+2. djelomično, ako podnositelj zahtjeva u roku određenom prema članku 81. stavku 2. ovoga Zakona stekne dionice ili poslovne udjele u društvu za upravljanje koji čine najmanje 10% udjela u kapitalu ili glasačkim pravima, ali manje od udjela za koji je izdana suglasnost, u preostalom dijelu za koji je dobio suglasnost.
+
+(3) Kada Agencija donosi rješenje kojim se ukida suglasnost za stjecanje kvalificiranog udjela, suglasnost je ukinuta danom dostave rješenja Agencije kojim se ukida suglasnost za stjecanje kvalificiranog udjela.«.
+
+#### Članak 40.
+
+Naslov iznad članka 84. mijenja se i glasi: »Privremena zabrana ostvarivanja prava glasa«.
+
+Članak 84. mijenja se i glasi:
+
+»(1) Agencija može imatelju kvalificiranog udjela rješenjem privremeno zabraniti ostvarivanje prava glasa iz dionica ili poslovnih udjela ako postoji mogućnost da se netko koristi svojim utjecajem tako da to bude protivno obvezi dobrog i razboritog upravljanja društvom za upravljanje ili da neće postupati pozornošću urednog i savjesnog gospodarstvenika.
+
+(2) Privremena zabrana iz stavka 1. ovoga članka ne može trajati dulje od 12 mjeseci.
+
+(3) Na privremenu zabranu iz stavka 1. ovoga članka primjenjuju se odredbe članka 83. stavka 4. i stavka 5. točke 1. ovoga Zakona.«.
+
+#### Članak 41.
+
+U članku 89. stavak 1. mijenja se i glasi:
+
+»(1) Na dan prijenosa upravljanja UCITS fondom sva prava i obveze društva prenositelja u vezi s upravljanjem UCITS fondom prelaze na društvo preuzimatelja.«.
+
+#### Članak 42.
+
+Članak 90. mijenja se i glasi:
+
+»Prisilni prijenos upravljanja UCITS fondom provodi se ako je:
+
+1. Agencija društvu za upravljanje ukinula rješenje kojim je dano odobrenje za rad, i to za sve djelatnosti ili samo za obavljanje djelatnosti iz članka 13. stavka 1. točke 1. ovoga Zakona (upravljanje UCITS fondovima)
+
+2. Agencija društvu za upravljanje ukinula odobrenje za upravljanje pojedinim UCITS fondom
+
+3. Agencija društvu za upravljanje ukinula odobrenje za rad jer je nad društvom za upravljanje otvoren stečajni postupak ili postupak likvidacije ili
+
+4. društvo za upravljanje u situaciji da više nije u mogućnosti obavljati poslove upravljanja UCITS fondom.«.
+
+#### Članak 43.
+
+U članku 91. stavku 2. točki b) riječi: »stavka 3.« zamjenjuju se riječima: »stavka 4.«.
+
+#### Članak 44.
+
+U članku 106. ispred riječi: »Društvo« dodaje se oznaka stavka: »(1)«.
+
+U točki 5. iza riječi: »ili njihovom primitku« dodaju se riječi: »a najkasnije prilikom dostave naloga za namiru depozitaru«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) U slučaju iz stavka 1. točaka 1. i 2. ovoga članka, društvo za upravljanje dužno je bez odgode obavijestiti Agenciju o okolnostima koje mogu dovesti u pitanje načelo likvidnosti i/ili solventnosti društva za upravljanje i/ili UCITS fonda, poput ovrhe ili blokade računa.«.
+
+#### Članak 45.
+
+U članku 110. stavak 2. mijenja se i glasi:
+
+»(2) U slučaju da društvo za upravljanje ne obavi ili propusti obaviti, u cijelosti ili djelomično, odnosno ako nepropisno obavi bilo koji posao ili dužnost predviđenu ovim Zakonom, prospektom ili pravilima UCITS fonda, društvo za upravljanje odgovara za štetu koja je nanesena zasebnoj imovini UCITS fonda, a koja je nastala kao posljedica propusta društva za upravljanje u obavljanju i izvršavanju njegovih dužnosti. Ništetna je odredba prospekta ili pravila UCITS fonda kojom se otklanja pravo ulagatelja na zateznu kamatu za slučaj zakašnjenja s ispunjenjem novčane obveze.«.
+
+#### Članak 46.
+
+U članku 115. stavku 2. točke a) i b) mijenjaju se i glase:
+
+»a) u skladu s odredbama članka 99. stavka 3. ovoga Zakona, društvo za upravljanje, izravno ili putem distributera, zaprimilo uredan zahtjev za izdavanje udjela i kada je ulagatelj izvršio valjanu uplatu iznosa iz zahtjeva, a društvo za upravljanje u tom roku nije odbilo sklapanje ugovora ili
+
+b) podnesena uredna dokumentacija iz članka 116. ovoga Zakona voditelju registra«.
+
+U stavku 3. iza riječi: »imatelji« dodaju se riječi: »osim ako takav izvještaj ulagatelju ne dostavlja distributer u skladu s odredbama zakona kojim se uređuje tržište kapitala«.
+
+#### Članak 47.
+
+U članku 129. riječi: »stavka 1. točke 1. podtočaka b) i c)« zamjenjuju se riječima: »stavka 2. točaka 1. i 2.«.
+
+#### Članak 48.
+
+U članku 145. točka 2. mijenja se i glasi:
+
+»2. distribuiranje odnosno provedbu izdavanja i otkupa udjela otvorenog investicijskog fonda s javnom ponudom«.
+
+#### Članak 49.
+
+U članku 158. stavku 5. točki 7. riječ: »neosobne« zamjenjuje se riječju: »općenite«.
+
+Iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Kada promidžbene sadržaje i aktivnosti iz ovoga članka pored društva za upravljanje obavljaju i treće osobe za račun društva za upravljanje, ako takva aktivnost ujedno predstavlja distribuciju udjela UCITS fonda, ona se može obavljati isključivo putem osoba iz članka 164. ovoga Zakona.«.
+
+#### Članak 50.
+
+U članku 164. stavak 1. mijenja se i glasi:
+
+»(1) Distribuciju udjela UCITS fondova, pored društva za upravljanje iz članka 144. stavka 1. ovoga Zakona, mogu obavljati i osobe koje su prema zakonu kojim se uređuje tržište kapitala ovlaštene pružati investicijske usluge zaprimanja i prijenosa naloga i/ili investicijskog savjetovanja.«.
+
+#### Članak 51.
+
+U članku 165. stavci 1. i 2. mijenjaju se i glase:
+
+»(1) Prilikom distribucije udjela UCITS fondova osobe iz članka 164. ovoga Zakona nastupaju kao distributeri u smislu zakona koji uređuje tržište kapitala.
+
+(2) Društvo za upravljanje je dužno obavijestiti Agenciju o svakom ugovoru koji sklopi s distributerom iz stavka 1. ovoga članka.«.
+
+#### Članak 52.
+
+U članku 166. stavak 2. mijenja se i glasi:
+
+»(2) Osobe iz članka 164. ovoga Zakona dužne su o poništavanju ili ukidanju odobrenja za rad bez odgode obavijestiti društvo za upravljanje s kojim je sklopljen ugovor iz stavka 2. članka 165. ovoga Zakona.«.
+
+Stavci 3. i 4. brišu se.
+
+#### Članak 53.
+
+U članku 169. stavak 2. mijenja se i glasi:
+
+»(2) Računovodstvene politike, odnosno metodologije vrednovanja društvo za upravljanje dužno je usvojiti za svaki UCITS fond kojim upravlja te ih najkasnije sedam radnih dana prije stupanja na snagu dostaviti depozitaru UCITS fonda.«.
+
+#### Članak 54.
+
+U članku 191. stavak 2. mijenja se i glasi:
+
+»(2) Neovisno o instrumentima u koje UCITS fond ulaže, prospekt UCITS fonda mora sadržavati profil rizičnosti UCITS fonda te jasno i lako razumljivo objašnjenje profila rizičnosti UCITS fonda.«.
+
+U stavku 3. točka a) mijenja se i glasi:
+
+»a) podatke o UCITS fondu:
+
+1. naziv fonda, naznaku vrste fonda
+
+2. datum osnivanja UCITS fonda te vrijeme trajanja UCITS fonda u slučaju da je osnovan na određeno vrijeme
+
+3. mjesto gdje je moguće dobiti primjerak prospekta i pravila UCITS fonda ili dodatne informacije o UCITS fondu te polugodišnje i revidirane godišnje izvještaje
+
+4. kratke podatke o poreznim propisima koji se primjenjuju na UCITS fond i koji su bitni za ulagatelja te pojedinosti o tome obračunavaju li se odbici iz prihoda ili kapitalne dobiti koje UCITS fond plaća ulagateljima
+
+5. datum računovodstvenih obračuna i raspodjele prihoda ili dobiti UCITS fonda
+
+6. podatke o revizoru i drugim pružateljima usluga UCITS fondu
+
+7. najniži iznos novčanih sredstava koji će se prikupiti prilikom osnivanja UCITS fonda te radnje koje će se poduzeti ako se ne prikupi najniži utvrđeni iznos
+
+8. pojedinosti o glavnim značajkama udjela UCITS fonda, a posebno:
+
+a) priroda prava iz udjela (stvarnopravna, obveznopravna, osobna)
+
+b) naznake mogućih klasa udjela i valute u kojoj je fond denominiran i
+
+c) prava koja proizlaze iz udjela: pravo na obaviještenost (polugodišnje i revidirane godišnje izvještaje), pravo na udio u dobiti, pravo na otkup udjela UCITS fonda, odnosno obveza otkupa udjela, pravo na isplatu dijela ostatka likvidacijske mase UCITS fonda
+
+9. pretpostavke pod kojima je dopušteno donijeti odluku o likvidaciji UCITS fonda te postupak likvidacije UCITS fonda
+
+10. naznaku uređenog tržišta ili drugog mjesta trgovanja na kojem su udjeli uvršteni ili primljeni u trgovanje, kada je to primjenjivo
+
+11. postupci i uvjeti izdavanja udjela, najniži iznos pojedinačnih ulaganja u UCITS fond, način upisa, odnosno izdavanja udjela, početna cijena udjela, postupci i uvjeti nuđenja udjela, način i uvjeti otkupa i isplate udjela te okolnosti u kojima može doći do obustave izdavanja ili otkupa
+
+12. informacije o načinu i učestalosti raspodjele prihoda ili dobiti UCITS fonda imateljima udjela
+
+13. vrsta imovine u koju je UCITS fondu dopušteno ulaganje
+
+14. opis sljedećih elemenata vezanih uz ulaganja UCITS fonda:
+
+a) ulagateljskih ciljeva UCITS fonda, uključujući njegove financijske ciljeve (primjerice ostvarivanje kapitalne dobiti ili prihoda) te načina ostvarenja ciljeva UCITS fonda
+
+b) ciljane strukture portfelja
+
+c) strategije ulaganja (primjerice specijalizacija po geografskim ili industrijskim sektorima)
+
+d) bilo kakvih ograničenja na strategiju ulaganja
+
+e) naznake svih tehnika, instrumenata ili ovlasti za uzimanje zajma ili drugih pravnih poslova koji su po svojim ekonomskim učincima jednaki zajmu, koje se mogu koristiti pri upravljanju UCITS fondom i
+
+f) rizika povezanih s ulaganjima i sa strukturom UCITS fonda, uz tabelarni prikaz tih rizika i njihovu maksimalno prihvatljivu razinu koju je UCITS fond spreman prihvatiti, kao i način upravljanja navedenim rizicima
+
+g) rizika povezanih s društvom za upravljanje te način upravljanja tim rizicima
+
+15. izjavu iz koje je vidljivo da je UCITS fond dobio odobrenje Agencije u skladu s člankom 256. ovoga Zakona te u vezi s time jasno naznačene države članice, jedinice lokalne i područne (regionalne) samouprave države članice, treće države ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica u čije vrijednosne papire i instrumente tržišta novca se namjerava ulagati više od 35% neto vrijednosti imovine fonda
+
+16. dopuštenost ulaganja u terminske i opcijske ugovore i druge financijske izvedenice, u slučaju dopuštenosti takvog ulaganja, uz izjavu mogu li se takve transakcije zaključivati sa svrhom zaštite ili sa svrhom postizanja ulagateljskih ciljeva te utjecaj takvih transakcija na profil rizičnosti UCITS fonda i toleranciju na rizike
+
+17. kada UCITS fond pretežito ulaže u bilo koju vrstu imovine iz članka 252. ovoga Zakona, osim u prenosive vrijednosne papire ili instrumente tržišta novca, izjavu kojom se upozorava na takve investicijske ciljeve
+
+18. naznaku da je ulagateljski cilj UCITS fonda repliciranje indeksa, ako UCITS fond nastoji replicirati neki dionički indeks ili indeks dužničkih vrijednosnih papira
+
+19. ako će cijena udjela u UCITS fondu imati visoku volatilnost s obzirom na sastav portfelja UCITS fonda, odnosno na tehnike upravljanja imovinom UCITS fonda, izjavu koja će upozoriti na navedenu karakteristiku imovine UCITS fonda
+
+20. način i vrijeme izračuna neto vrijednosti imovine UCITS fonda te osnovica na temelju koje se utvrđuje vrijednost imovine UCITS fonda
+
+21. vrijeme, metoda i učestalost izračunavanja cijene za izdavanje novih udjela ili otkup postojećih te način objavljivanja tih cijena, opis iznosa i učestalosti plaćanja dopuštenih naknada i troškova izdavanja i otkupa udjela
+
+22. naknade i troškove upravljanja i poslovanja koji smiju teretiti UCITS fond i ulagatelje te opis njihova učinka na buduće prinose ulagatelja, kao i činjenicu može li društvo za upravljanje, u potpunosti ili djelomično, osloboditi ulagatelje plaćanja ulazne ili izlazne naknade ili im odobriti djelomični povrat naknade za upravljanje
+
+23. slučajeve u kojima društvo za upravljanje može odbiti uplate ulagatelja
+
+24. kada je to primjenjivo, informacije o povijesnom prinosu UCITS fonda uz opis načina na koji je izračunat te napomenu da rezultati poslovanja UCITS fonda ostvareni u proteklim razdobljima ne predstavljaju indikaciju i nemaju nikakav utjecaj na buduće rezultate poslovanja UCITS fonda
+
+25. ciljano tržište ulagatelja kojima je UCITS fond namijenjen uzimajući u obzir investicijski horizont, investicijski cilj ulagatelja, njegovo poznavanje tržišta kapitala te toleranciju rizika vezanih za ulaganje u UCITS fond
+
+26. trajanje poslovne godine i
+
+27. datum izdavanja prospekta.«.
+
+#### Članak 55.
+
+U članku 192. stavku 1. točki 2. broj: »13« zamjenjuje se brojem: »14«.
+
+#### Članak 56.
+
+U članku 205. stavak 4. mijenja se glasi:
+
+»(4) Društvo je dužno izvijestiti Agenciju o promjeni strukture portfelja UCITS fonda kojom se mijenja vrsta fonda određena prospektom tog UCITS fonda.«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Agencija pravilnikom detaljnije propisuje strukturu i sadržaj polugodišnjih i godišnjih izvještaja iz stavka 1. ovoga članka te način njihova dostavljanja i objavljivanja.«.
+
+Iza dosadašnjeg stavka 5., koji postaje stavak 6., dodaje se stavak 7. koji glasi:
+
+»(7) Agencija pravilnikom detaljnije propisuje sadržaj, strukturu, način i rokove dostave izvješća iz stavka 4. ovoga članka.«.
+
+#### Članak 57.
+
+Članak 208. mijenja se i glasi:
+
+»Društvo za upravljanje, svaka osoba koja u ime i za račun društva za upravljanje distribuira udjele UCITS fonda te osobe iz članka 164. ovoga Zakona koje distribuiraju udjele UCITS fonda ili proizvode koji uključuju izloženost prema takvom UCITS fondu, moraju ulagatelju prije sklapanja ugovora o ulaganju besplatno staviti na raspolaganje ključne podatke za ulagatelje.«.
+
+#### Članak 58.
+
+U članku 216. stavku 3. točki 1. iza riječi: »instrumentima osiguranja« dodaje se riječ: »ili«.
+
+Točka 2. briše se.
+
+Dosadašnja točka 3. postaje točka 2.
+
+#### Članak 59.
+
+U članku 224. stavku 2. točki 4. podtočki e) broj: »219.« zamjenjuje se brojem: »216.«.
+
+U stavku 4. broj: »1.« zamjenjuje se brojem: »5.«.
+
+#### Članak 60.
+
+Članak 237. mijenja se i glasi:
+
+»(1) Izdano odobrenje na izbor depozitara za UCITS fond prestaje važiti:
+
+1. otvaranjem stečajnog postupka nad depozitarom
+
+2. otvaranjem postupka likvidacije depozitara ili
+
+3. ako bude donijeto rješenje kojim se ukida odobrenje za rad kreditnoj instituciji od strane nadležnog tijela koje je to odobrenje izdalo.
+
+(2) Ako nastupi koji od razloga iz stavka 1. ovoga članka, Agencija donosi rješenje kojim se ukida odobrenje na izbor depozitara od dana nastupanja okolnosti iz stavka 1. ovoga članka.
+
+(3) Agencija rješenjem ukida izdano odobrenje na izbor depozitara u sljedećim slučajevima:
+
+1. ako u slučaju provedene obnove postupka utvrdi da je odobrenje izdano na temelju neistinitih ili netočnih podataka ili izjava bitnih za donošenje tog rješenja
+
+2. ako depozitar prestane ispunjavati uvjete pod kojima je odobrenje izdano
+
+3. ako Agencija utvrdi da depozitar ne ispunjava svoje dužnosti u skladu s preuzetim obvezama i/ili odredbama ovoga Zakona, osobito u odnosu na delegirane poslove
+
+4. ako postoje okolnosti koje dovode u sumnju sposobnost depozitara za uredno, pravovremeno i kvalitetno ispunjenje dužnosti u skladu s preuzetim obvezama odnosno odredbama ovoga Zakona
+
+5. ako depozitar sustavno i/ili teško krši odredbe ovoga Zakona ili prospekta UCITS fonda ili
+
+6. kada Agencija opravdano sumnja da društvo za upravljanje i depozitar djeluju u dosluhu na štetu interesa ulagatelja u UCITS fond.
+
+(4) U slučajevima iz stavaka 1., 2. i 3. ovoga članka društvo za upravljanje je dužno u roku od 30 dana od prestanka važenja odnosno ukidanja odobrenja na izbor depozitara zaključiti ugovor s drugim depozitarom i podnijeti zahtjev za izdavanje odgovarajućeg odobrenja Agencije u skladu s odredbama ovoga Zakona.
+
+(5) Agencija o zahtjevu iz stavka 4. ovoga članka odlučuje u roku od 15 radnih dana od dana zaprimanja urednog zahtjeva.
+
+(6) Ako društvo za upravljanje ne postupi u skladu sa stavkom 4. ovoga članka ili ako Agencija odbije ili odbaci zahtjev iz stavka 4. ovoga članka, UCITS fondovi za koje je depozitar obavljao poslove depozitara moraju biti likvidirani, u skladu s odredbama dijela trinaestoga ovoga Zakona.
+
+(7) Agencija pravilnikom detaljnije propisuje način postupanja društva za upravljanje i depozitara u slučajevima iz stavaka 1. do 3. ovoga članka.«.
+
+#### Članak 61.
+
+U članku 243. stavku 2. iza točke 7. dodaje se točka 8. koja glasi:
+
+»8. izjavu o dodatnim podacima UCITS fonda.«.
+
+U stavku 4. iza riječi: »zahtjev« dodaju se riječi: »dokumentaciju koja se prilaže zahtjevu,«.
+
+#### Članak 62.
+
+U članku 244. stavku 1. točki 2. iza riječi: »fonda« dodaju se riječi: »i/ili dodatni podaci u izjavi iz članka 243. stavka 2. točke 8. ovoga Zakona«.
+
+#### Članak 63.
+
+U članku 245. stavak 9. mijenja se i glasi:
+
+»(9) Ako se UCITS fond ne osnuje u roku od tri mjeseca od izdavanja odobrenja za osnivanje i upravljanje UCITS fondom, odobrenje prestaje važiti, a Agencija će rješenjem ukinuti odobrenje za osnivanje i upravljanje UCITS fondom.«.
+
+#### Članak 64.
+
+U članku 247. stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od stavaka 1. i 2. ovoga članka, dopušteno je naplaćivati i naknadu vezanu uz prinos UCITS fonda, kao i druge naknade propisane pravilnikom iz stavka 6. ovoga Zakona.«.
+
+U stavku 6. iza riječi: »pravilnikom« dodaje se riječ: »naknade,«.
+
+#### Članak 65.
+
+U članku 248. stavku 2. točka 9. mijenja se i glasi:
+
+»9. ostali troškovi određeni posebnim zakonima (primjerice troškovi Agencije i/ili drugog nadležnog tijela) i pravilnika iz stavka 5. ovoga članka.«.
+
+#### Članak 66.
+
+U članku 252. stavku 1. točki 3. broj: »3.« zamjenjuje se brojem: »4.«.
+
+#### Članak 67.
+
+U članku 254. stavku 1. točki 3. riječi: »riziku druge ugovorne strane« zamjenjuju se riječima: »prema jednoj ugovornoj strani«.
+
+#### Članak 68.
+
+U članku 315. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Na glavni UCITS fond iz Republike Hrvatske koji na području druge države članice ne prikuplja sredstva javnom ponudom udjela, već ima samo jedan ili više napajajućih UCITS fondova iz druge države članice, ne primjenjuju se odredbe dijela šestoga glave 1. poglavlja 5. ovoga Zakona niti odredbe relevantnih propisa druge države članice kojima se u nacionalne propise države članice prenose odredbe poglavlja XI. i članka 108. stavka 1. točke 2. Direktive.«.
+
+#### Članak 69.
+
+U članku 322. stavak 4. briše se.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 70.
+
+U članku 336. stavku 1. točki 6. riječi: »pripadajućim pravilnikom koji će Agencija donijeti« zamjenjuju se riječima: »propisima donesenim na temelju ovoga Zakona«.
+
+#### Članak 71.
+
+U članku 337. stavak 1. mijenja se i glasi:
+
+»(1) Likvidaciju UCITS fonda, kao likvidator, provodi:
+
+1. društvo za upravljanje UCITS fondom u likvidaciji, osim ako je društvo za upravljanje u stečaju ili mu je Agencija, odnosno nadležno tijelo matične države članice društva za upravljanje ukinulo odobrenje za rad
+
+2. depozitar UCITS fonda, u slučaju nemogućnosti provedbe likvidacije UCITS fonda od strane društva za upravljanje iz razloga naznačenih točkom 1. ovoga stavka
+
+3. likvidator UCITS fonda kojeg je imenovala Agencija, u slučaju kada je društvo za upravljanje ili depozitar UCITS fonda u stečaju ili je Hrvatska narodna banka, Agencija, odnosno nadležno tijelo matične države članice društva za upravljanje privremeno ili trajno ukinulo odobrenje za rad
+
+4. društvo za upravljanje, kada Agencija, kao posebnu nadzornu mjeru, naloži upravi društva za upravljanje likvidaciju UCITS fonda.«.
+
+#### Članak 72.
+
+U članku 346. stavak 3. mijenja se i glasi:
+
+»(3) Protiv akata Agencije žalba nije dopuštena, ali se može pokrenuti upravni spor. Tužba kojom se pokreće upravni spor protiv rješenja Agencije nema odgodni učinak.«.
+
+U stavku 5. točki 8. riječi: »dijela devetoga« brišu se.
+
+#### Članak 73.
+
+U članku 352. iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Agencija može, ako postoji sumnja na kršenje odredbi ovoga Zakona, propisa donesenih na temelju ovoga Zakona i ostalih primjenjivih propisa, od Hrvatske regulatorne agencije za mrežne djelatnosti zatražiti i dobiti zapise o telefonskim razgovorima i snimke telefonskih razgovora, zapise s telefaks uređaja i zapise o elektroničkoj komunikaciji, u skladu s posebnim zakonom koji uređuje elektroničku komunikaciju.«.
+
+#### Članak 74.
+
+U članku 355. stavak 1. mijenja se i glasi:
+
+»(1) Nakon obavljenog neposrednog nadzora sastavlja se zapisnik o obavljenom nadzoru koji se uručuje subjektu nadzora, s detaljnim opisom utvrđenih činjenica, odnosno opisom nedostataka, nezakonitosti i nepravilnosti u poslovanju subjekta nadzora, ako su oni utvrđeni u postupku nadzora. Uprava subjekta nadzora dužna je bez odgode zapisnik o obavljenom nadzoru dostaviti nadzornom odboru u skladu s odredbom članka 46. stavka 1. točke 2. ovoga Zakona.«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) U slučaju da subjekt nadzora, u skladu sa stavcima 4. i/ili 5. ovoga članka, otkloni sve nezakonitosti i/ili nepravilnosti, Agencija može donijeti rješenje kojim se utvrđuje da je postupak nadzora okončan, ali može i nevezano uz okončanje postupka nadzora rješenjem izreći odgovarajuću nadzoru mjeru.«.
+
+#### Članak 75.
+
+U članku 360. stavku 1. iza riječi: »posrednog nadzora« stavlja se zarez i dodaju riječi: »pored ostalih mjera i postupaka predviđenih ovim Zakonom,«.
+
+#### Članak 76.
+
+Članak 363. mijenja se i glasi:
+
+»(1) Agencija društvu za upravljanje, pod uvjetima propisanim ovim Zakonom, može odrediti sljedeće nadzorne mjere:
+
+1. opomenu
+
+2. otklanjanje nezakonitosti i nepravilnosti
+
+3. posebne nadzorne mjere i
+
+4. ukidanje odobrenja za rad za sve ili za pojedine djelatnosti te za upravljanje svim ili pojedinim UCITS fondovima.
+
+(2) Agencija bez nepotrebnog odgađanja, a nakon što je subjekt nadzora ili druga osoba kojoj je izrečena nadzorna mjera obaviještena o toj mjeri, na svojoj mrežnoj stranici javno objavljuje podatke o svakoj nadzornoj mjeri koja je izrečena u vezi s ponašanjem za koje su propisani prekršaji iz ovoga Zakona, uključujući i izvršna rješenja o izricanju nadzornih mjera, a koje su donesene u postupcima nadzora koje provodi Agencija, uz naznaku da se radi o nepravomoćnim rješenjima.
+
+(3) Objava iz stavka 2. ovoga članka sadrži najmanje informacije o vrsti i karakteru kršenja odredbi ovoga Zakona ili relevantnih osoba i identitetu osobe kojoj je izrečena nadzorna mjera.
+
+(4) Iznimno od stavaka 2. i 3. ovoga članka, ako Agencija smatra da bi objavljivanje identiteta pravnih osoba ili osobnih podataka fizičkih osoba bilo nerazmjerno ili ako bi objavljivanje ugrozilo stabilnost financijskih tržišta ili istragu u tijeku, ovisno o okolnostima pojedinačnih slučajeva, Agencija može:
+
+1. odgoditi objavu nadzorne mjere do trenutka kada razlozi neobjavljivanja prestanu postojati
+
+2. nadzornu mjeru objaviti na anonimnoj osnovi, ako takvo anonimno objavljivanje osigurava učinkovitu zaštitu dotičnih osobnih podataka ili
+
+3. ne objaviti nadzornu mjeru ako smatra da mogućnosti u točkama 1. i 2. ovoga stavka nisu dostatne za osiguravanje neugrožavanja stabilnosti financijskih tržišta ili razmjernost objave takvih odluka u odnosu na mjere koje se smatraju mjerama blaže naravi.
+
+U slučaju odluke o anonimnoj objavi nadzorne mjere, Agencija može objavu relevantnih podataka odgoditi na razuman rok, ako je predviđeno da će razlozi za anonimnu objavu prestati postojati tijekom toga roka.
+
+(5) Kada Agencija utvrdi da bi javna objava mogla prouzročiti nerazmjernu i/ili ozbiljnu štetu pravnim ili fizičkim osobama koje su predmet objave, može u odnosu na nadzorne mjere izrečene u vezi s ponašanjem za koje su propisani prekršaji iz dijela trećega glave I. ovoga Zakona postupiti na način predviđen stavkom 3. točkom 3. ovoga članka.
+
+(6) Ako je protiv nadzorne mjere podnesen pravni lijek odnosno pokrenut upravni spor, Agencija tu informaciju uključuje u objavu ili izmjenjuje prethodnu objavu ako je pravni lijek podnesen odnosno upravni spor pokrenut nakon prvobitne objave. Agencija objavljuje podatak o ishodu postupka pokrenutog po podnesenom pravnom lijeku odnosno pokrenutom upravnom sporu, kao i svaku odluku kojom se poništava prethodna izrečena nadzorna mjera odnosno usvaja tužbeni zahtjev u upravnom sporu.
+
+(7) Agencija drži objavljene nadzorne mjere na svojoj mrežnoj stranici najmanje pet godina od trenutka njihove objave. Osobni podaci sadržani u objavi nalaze se na službenoj mrežnoj stranici nadležnog tijela samo u trajanju koje je potrebno u skladu s važećim pravilima o zaštiti podataka.
+
+(8) Agencija obavještava ESMA-u o svakoj izrečenoj nadzornoj mjeri koja nije objavljena u skladu sa stavkom 4. ovoga članka. Ova obavijest uključuje informaciju o svakom izjavljenom pravnom lijeku odnosno upravnom sporu protiv nadzorne mjere i o ishodu postupka po pravnom lijeku odnosno pokrenutom upravnom sporu, ako se radi o mjerama izrečenima radi kršenja ovoga Zakona koje predstavljaju teži prekršaj prema odredbama ovoga Zakona.«.
+
+#### Članak 77.
+
+U članku 364. stavak 2. mijenja se i glasi:
+
+»(2) Agencija može izreći opomenu društvu za upravljanje i u onim slučajevima kada tijekom nadzora utvrdi nezakonitosti i nepravilnosti za koje bi se inače izrekla nadzorna mjera otklanjanja nezakonitosti i nepravilnosti, a koje je društvo za upravljanje do donošenja rješenja otklonilo.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Ako u roku iz stavka 2. ovoga članka društvo za upravljanje ne ispravi nezakonitost ili nepravilnost, Agencija može društvu za upravljanje izreći nadzornu mjeru koju ocijeni potrebnom.«.
+
+#### Članak 78.
+
+U članku 369. stavku 1. točka 5. mijenja se i glasi:
+
+»5. u drugim slučajevima kada Agencija utvrdi kršenje odredbi ovoga Zakona i/ili relevantnih propisa, a takva mjera je potrebna kako bi se takvo kršenje obustavilo i/ili uspostavilo zakonito postupanje i/ili osiguralo poštivanje odredbi ovoga Zakona i/ili drugih relevantnih propisa.«.
+
+#### Članak 79.
+
+Članak 371. mijenja se i glasi:
+
+»(1) Agencija ukida rješenje kojim je dano odobrenje za rad društvu za upravljanje za sve ili za pojedine djelatnosti, ako društvo za upravljanje prestane ispunjavati uvjete pod kojima je odobrenje za rad izdano.
+
+(2) Agencija može ukinuti rješenje kojim je dano odobrenje za rad društvu za upravljanje za sve ili za pojedine djelatnosti:
+
+1. ako u slučaju provedene obnove postupka utvrdi da je odobrenje izdano na temelju neistinitih ili netočnih podataka ili izjava bitnih za donošenje tog rješenja
+
+2. ako društvo za upravljanje koje ima odobrenje za djelatnost upravljanja portfeljem ne udovoljava uvjetima propisanima zakonom koji uređuje tržište kapitala za vođenje portfelja, pri čemu se odobrenje oduzima samo u odnosu na tu djelatnost
+
+3. ako društvo za upravljanje koje ima odobrenje za djelatnost investicijskog savjetovanja ne udovoljava uvjetima propisanima zakonom koji uređuje tržište kapitala za investicijsko savjetovanje, pri čemu se odobrenje oduzima samo u odnosu na tu djelatnost
+
+4. ako društvo za upravljanje koje ima odobrenje za djelatnost upravljanja dobrovoljnim mirovinskim fondovima ne udovoljava uvjetima propisa koji uređuju osnivanje i poslovanje dobrovoljnih mirovinskih fondova, pri čemu se odobrenje oduzima samo u odnosu na tu djelatnost
+
+5. ako Agencija ocijeni da se poslovanje društva za upravljanje ne vodi pažnjom dobrog stručnjaka i u skladu s dobrom poslovnom praksom
+
+6. ako je društvo za upravljanje teže i/ili sustavno kršilo odredbe ovoga Zakona, propise donesene na temelju ovoga Zakona ili druge propise kojih je dužno pridržavati se
+
+7. ako društvo za upravljanje ne postupi u skladu s rješenjem kojim Agencija nalaže mjere za otklanjanje nezakonitosti i nepravilnosti iz članka 365. ovoga Zakona ili posebne nadzorne mjere iz članka 369. ovoga Zakona
+
+8. ako društvo za upravljanje ne postupi u skladu s rješenjem iz članka 377. stavka 5. ovoga Zakona
+
+9. ako društvo za upravljanje krši odredbe o pravovremenom i točnom izvješćivanju Agencije, više od dva puta u razdoblju od tri godine, ili ako na drugi način onemogućava nadzor Agencije nad svojim poslovanjem
+
+10. ako društvo za upravljanje obavlja poslove na način koji može pogoršati ili ugroziti njegovu likvidnost ili solventnost ili likvidnost fondova kojima upravlja
+
+11. ako društvo za upravljanje nije organiziralo poslovanje ili ne vodi svoje poslovne knjige ili poslovne knjige UCITS fondova kojima upravlja, ili administrativnu i drugu poslovnu dokumentaciju, na način koji u svakom trenutku omogućuje provjeru posluje li društvo za upravljanje u skladu s propisima i pravilima o upravljanju rizicima, upravlja li društvo za upravljanje UCITS fondovima u skladu s odredbama ovoga Zakona, zakona koji uređuje tržište kapitala i propisa koji su na temelju njih doneseni i drugih propisa kojih je dužno pridržavati se
+
+12. ako društvo za upravljanje sustavno i/ili teško krši organizacijske, tehničke, kadrovske ili druge uvjete za poslovanje propisane člancima 48. do 66. ovoga Zakona ili pravilnicima koji te uvjete pobliže uređuju ili
+
+13. ako društvo za upravljanje učestalo ne postupa u skladu s odredbama ovoga Zakona kojima se propisuje obveza pružanja informacija ulagateljima.
+
+(3) U slučajevima iz stavka 3. točaka 5. do 13. ovoga članka Agencija može društvu za upravljanje ukinuti odobrenje za osnivanje i upravljanje svim ili pojedinim UCITS fondovima.
+
+(4) O ukidanju odobrenja za rad Agencija odmah obavještava depozitara UCITS fondova kojima društvo za upravljanje upravlja.
+
+(5) O tužbama protiv akata Agencije iz stavaka 1., 2. i 3. ovoga članka nadležni upravni sud odlučuje hitno, a najkasnije u roku od šest mjeseci od dana podnošenje tužbe.«.
+
+#### Članak 80.
+
+U članku 374. riječ: »oduzme« zamjenjuje se riječju: »ukine«.
+
+#### Članak 81.
+
+U članku 376. stavku 1. točka 1. briše se.
+
+Dosadašnje točke 2. do 5. postaju točke 1. do 4.
+
+#### Članak 82.
+
+U članku 382. stavak 1. mijenja se i glasi:
+
+»(1) U slučajevima ukidanja odobrenja za rad društvu za upravljanje, u potpunosti ili u odnosu na pojedine djelatnosti, za koje je Agenciji poznato da upravlja UCITS fondom iz druge države članice, Agencija nadležnom tijelu matične države članice UCITS fonda prethodno dostavlja obavijest o takvom ukidanju odobrenja za rad.«.
+
+U stavku 2. riječ: »oduzimanju« zamjenjuje se riječima: »poništenju ili ukidanju«.
+
+#### Članak 83.
+
+U članku 389. stavak 2. mijenja se i glasi:
+
+»(2) Obveza čuvanja povjerljivih podataka iz stavka 1. ovoga članka ne odnosi se na:
+
+1. dostavljanje povjerljivih podataka koji se priopćavaju za potrebe provođenja kaznenog postupka ili postupka koji mu prethodi, a to pisanim putem zatraži ili naloži nadležni sud, Ured za suzbijanje korupcije i organiziranog kriminaliteta, Državno odvjetništvo Republike Hrvatske, Ministarstvo unutarnjih poslova ako mu je to pisanim putem naložilo Državno odvjetništvo Republike Hrvatske, ili to pisanim putem zatraži ovlašteno tijelo iz druge države članice
+
+2. dostavljanje povjerljivih podataka u slučajevima kad je nad subjektom nadzora pokrenut stečajni postupak ili je u tijeku postupak prisilne likvidacije i
+
+3. dostavljanje povjerljivih podataka istražnim povjerenstvima Hrvatskoga sabora, pod uvjetom da se na članove istražnog povjerenstva primjenjuje obveza čuvanja povjerljivih podataka iz ovoga članka te da su sjednice istražnog povjerenstva u tom dijelu zatvorene za javnost.«.
+
+#### Članak 84.
+
+U članku 397. stavak 1. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 1% do 10% od ukupnog prihoda ostvarenog u godini počinjenja prekršaja, koji je utvrđen službenim financijskim izvještajima za tu godinu, kaznit će se za prekršaj društvo za upravljanje ako:
+
+1. posluje u obliku različitom od onoga propisanog člankom 12. stavcima 1. i 2. ovoga Zakona
+
+2. obavlja djelatnosti iz članka 13. ovoga Zakona za koje nije dobilo odobrenje za rad Agencije ili ih nije upisalo kao djelatnost u sudski registar, u skladu s odredbom članka 15. stavka 1. ovoga Zakona
+
+3. obavlja druge djelatnosti protivno članku 15. stavku 2. ovoga Zakona
+
+4. obavlja poslove upravljanja fondovima protivno odredbama članka 15. stavka 3. ovoga Zakona
+
+5. svoju djelatnost obavlja izvan područja iz članka 15. stavka 4. ovoga Zakona
+
+6. regulatorni kapital društva za upravljanje nije u skladu s odredbama pravilnika iz članka 19. stavka 2. ovoga Zakona
+
+7. osim djelatnosti upravljanja UCITS fondovima obavlja djelatnosti osnivanja i upravljanja alternativnim investicijskim fondovima ili upravljanja dobrovoljnim mirovinskim fondovima ili upravljanja portfeljem, a ne ispunjava dodatne kapitalne zahtjeve propisane pravilnikom iz članka 20. stavka 4. ovoga Zakona
+
+8. regulatorni kapital društva za upravljanje nije u svakom trenutku veći ili jednak većem od iznosa iz članka 21. stavka 1. ili 3. ovoga Zakona ili stavke općih troškova iz članka 21. stavka 1. točke 2. ovoga Zakona nisu u skladu s odredbama pravilnika iz članka 21. stavka 4. ovoga Zakona
+
+9. o ispunjenju kapitalnih zahtjeva iz članka 21. ovoga Zakona ne izvještava Agenciju najmanje jednom u šest mjeseci, u skladu s odredbama članka 22. stavka 1. ovoga Zakona
+
+10. su vrste ili sadržaj izvještaja o izračunu regulatornog kapitala i/ili rokovi njihove dostave protivni odredbama pravilnika iz članka 22. stavka 2. ovoga Zakona
+
+11. protivno odredbama članka 29. stavka 1. ovoga Zakona ima ili stekne kontrolu ili kvalificirani udjel u investicijskom društvu, kreditnoj instituciji koja pruža investicijske usluge i obavlja investicijske aktivnosti u skladu s odredbama zakona koji uređuje tržište kapitala, odnosno koja obavlja odgovarajuće usluge u skladu s odredbama zakona koji uređuje osnivanje i poslovanje kreditnih institucija, društvu za osiguranje, društvu za reosiguranje, mirovinskom društvu za upravljanje obveznim ili dobrovoljnim mirovinskim fondovima, mirovinskom osiguravajućem društvu, faktoring-društvu ili leasing-društvu
+
+12. ima ili stekne dionice ili udjele u depozitaru, protivno odredbama članka 29. stavka 2. ovoga Zakona
+
+13. ima ili stekne dionice ili udjele u osobi na koju je depozitar delegirao poslove iz članka 221. ovoga Zakona, protivno odredbama članka 29. stavka 3. ovoga Zakona
+
+14. funkciju člana uprave društva za upravljanje, protivno odredbama članka 39. stavka 1. ovoga Zakona, obavlja osoba koja nije dobila odobrenje Agencije za obavljanje funkcije člana uprave društva za upravljanje
+
+15. društvo za upravljanje, odnosno članovi njegove uprave ili prokuristi ili članovi nadzornog odbora postupe protivno odredbama članka 47. stavka 1. točke 1. ovoga Zakona
+
+16. društvo za upravljanje, odnosno članovi njegove uprave ili prokuristi ili članovi nadzornog odbora postupe protivno odredbama članka 47. stavka 1. točke 2. ovoga Zakona
+
+17. društvo za upravljanje, odnosno članovi njegove uprave ili prokuristi ili članovi nadzornog odbora postupe protivno odredbama članka 47. stavka 1. točke 3. ovoga Zakona na način da u svome poslovanju ne postupe u najboljem interesu UCITS fondova ili ulagatelja u UCITS fondove kojima upravljaju, ili postupe na način kojim se ne štititi integritet tržišta kapitala
+
+18. društvo za upravljanje, odnosno članovi njegove uprave ili prokuristi ili članovi nadzornog odbora postupe protivno odredbama članka 47. stavka 1. točke 4. ovoga Zakona na način da nisu uspostavili ili učinkovito koristili sredstva ili procese potrebne za uredno obavljanje djelatnosti društva za upravljanje
+
+19. društvo za upravljanje, odnosno članovi njegove uprave ili prokuristi ili članovi nadzornog odbora postupe protivno odredbama članka 47. stavka 1. točke 5. ovoga Zakona na način da nisu poduzeli sve razumne mjere za sprečavanje negativnog utjecaja sukoba interesa na interese UCITS fondova ili njihovih ulagatelja ili osigurali da se prema UCITS fondovima i njihovim ulagateljima postupa pošteno
+
+20. društvo za upravljanje, odnosno članovi njegove uprave ili prokuristi ili članovi nadzornog odbora protivno odredbama članka 47. stavka 1. točke 6. ovoga Zakona ne primjene odredbe Zakona i propisa donesenih na temelju Zakona na način koji promovira najbolje interese ulagatelja i integritet tržišta kapitala
+
+21. društvo za upravljanje, odnosno članovi njegove uprave ili prokuristi ili članovi nadzornog odbora postupe protivno odredbama članka 47. stavka 2. ovoga Zakona na način da su u svojem poslovanju stavili svoje interese ili interese povezanih osoba ispred interesa ulagatelja ili UCITS fonda ili integriteta tržišta kapitala
+
+22. ne uspostavi sveobuhvatan i učinkovit sustav upravljanja rizicima za društvo za upravljanje i UCITS fondove kojima upravlja u skladu s odredbama članka 56. stavka 1. ovoga Zakona
+
+23. kao društvo za upravljanje koje je izloženo sekuritizaciji ili društvo za upravljanje koje upravlja pojedinim UCITS fondom koji je izložen sekuritizaciji ne napravi pisanu procjenu, kada je to dužan u skladu s odredbom članka 56.a stavka 1. ovoga Zakona, a u svezi s odredbom članka 5. Uredbe (EU) 2017/2402
+
+24. kao društvo za upravljanje koje je izloženo sekuritizaciji ili društvo za upravljanje koji upravlja pojedinim UCITS fondom koji je izložen sekuritizaciji ne napravi pisanu procjenu kako okolnosti vezane uz predmetnu sekuritizaciju utječu ili mogu utjecati na interese ulagatelja u pojedini UCITS fond, kada je to dužan u skladu s odredbom članka 56.a stavka 2. ovoga Zakona
+
+25. kao društvo za upravljanje koje je izloženo sekuritizaciji ili društvo za upravljanje koje upravlja pojedinim UCITS fondom koji je izložen sekuritizaciji pisanu procjenu iz članka 56.a stavka 2. ovoga Zakona ne ažurira u skladu s odredbama članka 56.a stavka 4. ovoga Zakona
+
+26. kao društvo za upravljanje koje je izloženo sekuritizaciji ili društvo za upravljanje koje upravlja pojedinim UCITS fondom koji je izložen sekuritizaciji u smislu članka 56.a stavka 2. ovoga Zakona ne usvoji ili ne poduzme mjere za smanjenje izloženosti odnosno druge odgovarajuće korektivne mjere, kada je to dužno u skladu s odredbom članka 56.a stavka 3. ovoga Zakona
+
+27. kao društvo za upravljanje koje je izloženo sekuritizaciji ili društvo za upravljanje koje upravlja pojedinim UCITS fondom koji je izložen sekuritizaciji u smislu članka 56.a stavka 2. ovoga Zakona ne ažurira mjere iz članka 56.a stavka 3. ovoga Zakona u skladu s odredbama članka 56.a stavka 4. ovoga Zakona
+
+28. kao društvo za upravljanje koje je izloženo sekuritizaciji ili UAIF koji upravlja pojedinim AIF-om koji je izložen sekuritizaciji u smislu članka 56.a stavka 2. ovoga Zakona ne vodi evidencije o mjerama iz članka 56.a stavka 3. ovoga Zakona u skladu s odredbama članka 56.a stavka 5. ovoga Zakona
+
+29. protivno odredbama članka 69. stavka 1. ovoga Zakona, poslove koje je dužno obavljati delegira trećim osobama bez odobrenja Agencije
+
+30. delegira poslove na treće osobe bez da ispuni uvjete propisane odredbama članka 70. ovoga Zakona
+
+31. protivno odredbama članka 85. stavka 2. ovoga Zakona, preuzme poslove upravljanja UCITS fondom bez odobrenja Agencije
+
+32. nije sposobno pravovremeno ispuniti svoju dospjelu obvezu ili nije trajno sposobno ispunjavati sve svoje obveze, suprotno obvezi iz članka 106. stavka 1. točke 1. ovoga Zakona
+
+33. ne upravlja UCITS fondom na način da je UCITS fond sposoban pravovremeno ispunjavati svoje dospjele obveze ili na način da je UCITS fond trajno sposoban ispunjavati sve svoje obveze, suprotno obvezi iz članka 106. stavka 1. točke 2. ovoga Zakona
+
+34. suprotno zabrani iz članka 107. točke 1. članka ovoga Zakona obavlja djelatnost posredovanja u kupnji i prodaji financijskih instrumenata
+
+35. suprotno zabrani iz članka 107. točke 2. ovoga Zakona stječe ili otuđuje imovinu UCITS fonda kojim upravlja za svoj račun ili račun relevantnih osoba
+
+36. suprotno zabrani iz članka 107. točke 3. ovoga Zakona kupi sredstvima UCITS fonda imovinu ili sklopi posao koji nije predviđen njegovim prospektom
+
+37. suprotno zabrani iz članka 107. točke 5. ovoga Zakona nenaplatno otuđi imovinu UCITS fonda
+
+38. suprotno zabrani iz članka 107. točke 6. ovoga Zakona stekne ili otuđi imovinu UCITS fondova kojima upravlja po cijeni nepovoljnijoj od tržišne cijene ili procijenjene vrijednosti predmetne imovine
+
+39. suprotno zabrani iz članka 107. točke 7. ovoga Zakona neposredno ili posredno, istodobno ili s odgodom, dogovori prodaju, kupnju ili prijenos imovine između dva UCITS fonda kojima upravlja isto društvo za upravljanje ili između UCITS fonda i alternativnog investicijskog fonda, dobrovoljnog mirovinskog fonda ili individualnog portfelja ako društvo za upravljanje njima upravlja, pod uvjetima različitim od tržišnih uvjeta ili uvjetima koji jedan UCITS fond, alternativni investicijski fond, dobrovoljni mirovinski fond ili individualni portfelj stavi u povoljniji položaj u odnosu na drugi
+
+40. suprotno zabrani iz članka 107. točke 8. ovoga Zakona preuzme obveze u vezi s imovinom koja u trenutku preuzimanja tih obveza nije vlasništvo UCITS fonda
+
+41. suprotno zabrani iz članka 107. točke 9. ovoga Zakona za svoj račun stekne ili otuđi udjele u UCITS fondu kojim upravlja
+
+42. suprotno zabrani iz članka 107. točke 10. ovoga Zakona izda drugi financijski instrument osim udjela u UCITS fondu
+
+43. suprotno zabrani iz članka 107. točke 11. ovoga Zakona uloži imovinu UCITS fonda u financijske instrumente kojih je ono izdavatelj
+
+44. suprotno zabrani iz članka 107. točke 12. ovoga Zakona isplati dividendu ili bonus radniku ili upravi ako ne ispunjava kapitalne zahtjeve
+
+45. suprotno zabrani iz članka 107. točke 13. ovoga Zakona provede prodaju bez pokrića prenosivih vrijednosnih papira, instrumenata tržišta novca ili drugih financijskih instrumenata iz članka 252. stavka 1. točaka 3., 5. ili 6. ovoga Zakona za račun UCITS fonda
+
+46. suprotno zabrani iz članka 107. točke 14. ovoga Zakona postupi protivno odredbama prospekta UCITS fonda kojim upravlja, a osobito u odnosu na odredbe o ograničenjima ulaganja
+
+47. suprotno zabrani iz članka 108. stavka 1. točke 1. ovoga Zakona uzme ili odobriti zajam ili sklopi drugi pravni posao koji je po svojim ekonomskim učincima jednak zajmu
+
+48. suprotno zabrani iz članka 108. stavka 1. točke 2. ovoga Zakona preuzme jamstvo ili izda garanciju
+
+49. suprotno zabrani iz članka 108. stavka 2. ovoga Zakona imovinu UCITS fonda založi ili na bilo koji način optereti, prenese ili ustupi u svrhu osiguranja tražbine
+
+50. su UCITS fondovi, zajedno s portfeljima kojima upravlja suprotno članku 109. stavku 1. točki a) ovoga Zakona, imatelji više od 25% dionica s pravom glasa jednog te istog izdavatelja
+
+51. su UCITS fondovi, zajedno s portfeljima kojim upravlja suprotno članku 109. stavku 1. točki b) ovoga Zakona, imatelji više od 10% dionica bez prava glasa jednog te istog izdavatelja
+
+52. su UCITS fondovi, zajedno s portfeljima kojim upravlja suprotno članku 109. stavku 1. točki c) ovoga Zakona, imatelji više od 10% dužničkih vrijednosnih papira koje je izdao jedan te isti izdavatelj
+
+53. su UCITS fondovi, zajedno s portfeljima kojim upravlja suprotno članku 109. stavku 1. točki d) ovoga Zakona, imatelji više od više od 25% udjela pojedinoga investicijskog fonda
+
+54. su UCITS fondovi, zajedno s portfeljima kojim upravlja suprotno članku 109. stavku 1. točki e) ovoga Zakona, imatelji više od 10% instrumenata tržišta novca koje je izdao jedan te isti izdavatelj
+
+55. vodeći registar udjela UCITS fonda priopći podatke o ulagateljima, stanju udjela te uplatama i isplatama protivno odredbama članka 114. stavka 1. ovoga Zakona
+
+56. kao društvo za upravljanje iz treće države trguje udjelima otvorenih investicijskih fondova s javnom ponudom iz treće države protivno odredbama članka 147. stavka 1. ovoga Zakona na način da na račun kod kreditne institucije, odnosno štedne banke sa sjedištem u Republici Hrvatskoj prethodno ne uplati iznos od najmanje 1.000.000,00 kuna u svrhu osiguranja isplata imatelja udjela otvorenog investicijskog fonda s javnom ponudom kojim društvo iz treće države upravlja i čijim udjelima namjerava trgovati u Republici Hrvatskoj
+
+57. ne utvrđuje vrijednost imovine UCITS fonda, odnosno cijene udjela, u skladu s odredbama članka 168. stavka 1. ovoga Zakona
+
+58. obustavu izdavanja i otkupa udjela UCITS fonda ne provodi u skladu s odredbama članka 177. stavaka 1. do 5. ili članka 178. stavaka 1. i 4. ovoga Zakona
+
+59. za UCITS fond kojim upravlja ne usvoji prospekt UCITS fonda u skladu s odredbama glave druge dijela osmog ovoga Zakona, suprotno odredbi članka 183. stavka 1. točke 1. ovoga Zakona
+
+60. ne postupi u skladu s odredbama članka 183. stavka 1. točke 2. ovoga Zakona na način da za UCITS fond kojim upravlja ne usvoji pravila UCITS fonda u skladu s odredbama glave treće dijela osmog ovoga Zakona
+
+61. ne postupi u skladu s odredbama članka 183. stavka 1. točke 3. ovoga Zakona na način da za UCITS fond ne izradi ključne podatke za ulagatelje, prema odredbama glave četvrte dijela osmog ovoga Zakona
+
+62. ne postupi u skladu s odredbama članka 183. stavka 1. točke 4. ovoga Zakona na način da za UCITS fond kojim upravlja ne usvoji ili ne objavi polugodišnji ili revidirani godišnji izvještaj u skladu s glavom pet dijela osmog ovoga Zakona
+
+63. ne postupi u skladu s odredbama članka 183. stavka 1. točke 5. ovoga Zakona na način da u vezi s poslovanjem UCITS fonda ne obavještava redovito ulagatelje o objavama na koje je obvezan prema odredbama glave sedme dijela osmog ovoga Zakona
+
+64. započne javnu ponudu udjela UCITS fonda na području Republike Hrvatske protivno odredbama članka 188. stavka 1. ovoga Zakona
+
+65. sljedeći radni dan nakon zaprimanja odobrenja Agencije iz članka 193. stavka 1. ovoga Zakona na svojim mrežnim stranicama na vidljivom mjestu ne objavi obavijest o bitnim promjenama prospekta u skladu s odredbama članka 193. stavka 2. ovoga Zakona
+
+66. u roku od sedam dana od dana zaprimanja odobrenja Agencije iz članka 193. stavka 1. ovoga Zakona ne pošalje svim ulagateljima obavijest o bitnim promjenama prospekta u skladu s odredbom članka 193. stavka 3. ovoga Zakona
+
+67. ne objavi pravila UCITS fonda, kao i njihove izmjene i dopune, u skladu s odredbama članka 199. ovoga Zakona
+
+68. suprotno članku 200. stavku 1. ovoga Zakona ključni podaci za ulagatelje pojedinog UCITS fonda kojim upravlja ne sadrže jasan, nedvosmislen i prosječnome ulagatelju razumljiv opis bitnih karakteristika UCITS fonda
+
+69. suprotno članku 200. stavku 2. ovoga Zakona ključni podaci za ulagatelje pojedinog UCITS fonda kojim upravlja dovode u zabludu
+
+70. suprotno članku 200. stavku 3. ovoga Zakona ključni podaci za ulagatelje pojedinog UCITS fonda kojim upravlja prosječnom ulagatelju ne omogućuju razumijevanje vrste i značaja rizika, uz ocjenu posljedica stjecanja udjela u UCITS fondu
+
+71. suprotno članku 200. stavku 4. ovoga Zakona ključni podaci za ulagatelje nisu u skladu sa sadržajem prospekta i pravilima UCITS fonda
+
+72. suprotno članku 200. stavku 5. ovoga Zakona ključni podaci za ulagatelje pojedinog UCITS fonda kojim upravlja ne predstavljaju sveobuhvatnu sadržajnu cjelinu ili nisu razumljivi ulagatelju bez pozivanja ili upućivanja na druge dokumente
+
+73. ključni podaci za ulagatelje pojedinog UCITS fonda kojim upravlja ne sadrže sve podatke propisane člankom 201. ovoga Zakona
+
+74. ne ažurira redovito ključne podatke za ulagatelje, u skladu s odredbama članka 202. ovoga Zakona
+
+75. protivno odredbama članka 217. stavka 1. ili stavka 2. ovoga Zakona izabere ili promijeni depozitara bez odobrenja Agencije
+
+76. protivno odredbama članka 217. stavka 1. ili stavka 2. ovoga Zakona napravi bitne promjene ugovora o obavljanju poslova depozitara bez odobrenja Agencije
+
+77. protivno odredbama članka 233. stavka 1. ovoga Zakona promijeni depozitara bez suglasnosti
+
+78. postupi protivno odredbama pravilnika iz članka 237. stavka 7. ovoga Zakona
+
+79. izdaje druge vrste financijskih instrumenata, osim udjela UCITS fonda, protivno odredbama članka 241. stavka 1. ovoga Zakona
+
+80. protivno odredbama članka 243. stavka 1. ovoga Zakona, osnuje UCITS fond bez odobrenja Agencije
+
+81. započne početnu ponudu udjela UCITS fonda prije objavljivanja prospekta protivno odredbama članka 245. stavka 1. ovoga Zakona
+
+82. ne vrati uplaćena sredstva ulagateljima u roku i uz uvjete iz članka 245. stavka 8. ovoga Zakona
+
+83. naplaćuje naknade ili troškove koji nisu predviđeni odredbama članka 247. ovoga Zakona, suprotno odredbi članka 247. stavka 1. ovoga Zakona
+
+84. naplaćuje naknade ili troškove koji nisu predviđeni odredbama članka 248. ovoga Zakona, suprotno odredbi članka 248. stavka 1. ovoga Zakona
+
+85. ulaže imovinu UCITS fonda protivno ograničenjima propisanima odredbama članka 252. stavka 1. ovoga Zakona
+
+86. ulaže imovinu UCITS fonda protivno ograničenju propisanim člankom 255. stavkom 1. ovoga Zakona
+
+87. nije uspostavilo ili ne koristi proces upravljanja rizicima koji u svakom trenutku omogućuje praćenje i mjerenje rizika svake pojedine pozicije u portfelju UCITS fonda i njegova utjecaja na ukupni profil rizičnosti portfelja UCITS fonda, protivno obvezi iz članka 253. stavka 1. ovoga Zakona
+
+88. nije uspostavilo proces za točnu i neovisnu procjenu vrijednosti OTC izvedenica u skladu s odredbom članka 253. stavka 2. ovoga Zakona
+
+89. koristi tehnike i instrumente vezane uz prenosive vrijednosne papire i instrumente tržišta novca na način da ih dovode do odstupanja od investicijskih ciljeva navedenih u prospektu fonda, protivno zabrani iz članka 253. stavka 5. ovoga Zakona
+
+90. nije osiguralo da ukupna izloženost UCITS fonda prema financijskim izvedenicama nije veća od neto vrijednosti imovine fonda, suprotno obvezi iz članka 253. stavka 6. ovoga Zakona
+
+91. imovinu UCITS fonda uloži u financijske izvedenice suprotno odredbi članka 253. stavka 7. ovoga Zakona
+
+92. imovinu UCITS fonda uloži u vrijednosni papir ili instrument tržišta novca koji sadržava ugrađenu izvedenicu, a u odnosu na tu izvedenicu ne primijeni zahtjeve iz članka 253. ovoga Zakona, protivno odredbama članka 253. stavka 8. ovoga Zakona
+
+93. ulaže imovinu UCITS fonda protivno ograničenjima ulaganja iz članka 254. ovoga Zakona, suprotno odredbi članka 254. stavka 1. ovoga Zakona
+
+94. ulaže imovinu UCITS fonda protivno odredbama članka 255. stavka 1. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 259. stavaka 2., 3. ili 4. ovoga Zakona
+
+95. ulaže imovinu UCITS fonda protivno odredbama članka 256. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 259. stavaka 2., 3. ili 4. ovoga Zakona
+
+96. ulaže imovinu UCITS fonda protivno odredbama članka 257. stavka 1. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 259. stavaka 2., 3. ili 4. ovoga Zakona
+
+97. zaračuna ulaznu ili izlaznu naknadu protivno odredbama članka 257. stavka 3. ovoga Zakona
+
+98. ulaže imovinu UCITS fonda protivno odredbama članka 258. stavka 1. ovoga Zakona, a ne uskladi ulaganja fonda u roku iz članka 259. stavaka 2., 3. ili 4. ovoga Zakona
+
+99. protivno odredbama članka 267. stavka 1. ovoga Zakona, društvo za upravljanje fondom prenositeljem započne provođenje postupka pripajanja bez odobrenja Agencije
+
+100. društvo za upravljanje fondom prenositeljem provede prijenos imovine i obveza te zamjenu udjela prilikom pripajanja UCITS fondova, a da revizor prethodno nije izdao pozitivno mišljenje o pripajanju, protivno odredbama članka 279. stavka 6. ovoga Zakona
+
+101. društvo za upravljanje fondom preuzimateljem provede prijenos imovine i obveza te zamjenu udjela prilikom pripajanja UCITS fondova, a da revizor prethodno nije izdao pozitivno mišljenje o pripajanju, protivno odredbama članka 279. stavka 6. ovoga Zakona
+
+102. napajajući UCITS fond ne ulaže najmanje 85% svoje imovine u udjele glavnog UCITS fonda, u skladu s odredbama članka 293. stavka 2. ovoga Zakona
+
+103. osnuje napajajući UCITS fond bez odobrenja Agencije, protivno odredbama članka 294. stavka 1. ovoga Zakona
+
+104. društvo za upravljanje koje upravlja glavnim UCITS fondom ne obavijesti Agenciju u skladu s odredbama članka 310. stavka 1. ovoga Zakona o svakom napajajućem UCITS fondu tog glavnog UCITS fonda
+
+105. društvo za upravljanje koje upravlja glavnim UCITS fondom napajajućem UCITS fondu naplati ulazne i izlazne naknade, protivno odredbama članka 311. ovoga Zakona
+
+106. društvo za upravljanje koje upravlja glavnim UCITS fondom ne osigura da su društvu za upravljanje napajajućim UCITS fondom, Agenciji, depozitaru i revizoru napajajućeg UCITS fonda u najkraćem mogućem roku dostupne informacije i podaci u skladu s odredbama članka 312. ovoga Zakona i/ili
+
+107. nakon nastupa razloga za početak likvidacije ne donese odluku o likvidaciji UCITS fonda, u skladu s odredbama članka 336. stavka 2. ovoga Zakona.«.
+
+#### Članak 85.
+
+U članku 398. stavku 1. iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. nije u roku od tri dana Agenciju izvijestilo o prestanku mandata pojedinog člana uprave ili nadzornog odbora te navelo razloge za prestanak mandata, u skladu s odredbama članka 34. stavka 4. ovoga Zakona«.
+
+Dosadašnje točke 3. do 5. postaju točke 4. do 6.
+
+Dosadašnje točke 6. i 7., koje postaju točke 7. i 8., mijenjaju se i glase:
+
+»7. obavlja djelatnost upravljanja portfeljem iz članka 13. stavka 1. točke 2. podtočke a) ovoga Zakona, a ne poduzme razumne mjere za prepoznavanje, upravljanje, praćenje, sprječavanje ili objavljivanje sukoba interesa klijentima, ili ako ne utvrdi odgovarajuće kriterije za određivanje tipova sukoba interesa čije postojanje može biti štetno za interese klijenata i UCITS fondova kojima društvo upravlja, u skladu s odredbama članka 50. stavka 2. ovoga Zakona
+
+8. obavljajući djelatnost upravljanja dobrovoljnim mirovinskim fondovima iz članka 13. stavka 2. točke 2. ovoga Zakona, uloži dio ili cijelu imovinu dobrovoljnog mirovinskog fonda kojim upravlja u udjele UCITS fondova ili AIF-ova kojima upravlja protivno odredbama članka 50. stavka 3. ovoga Zakona«.
+
+Dosadašnje točke 8. do 18. postaju točke 9. do 19.
+
+Dosadašnje točke 19. i 20., koje postaju točke 20. i 21., mijenjaju se i glase:
+
+»20. sazna za stjecanje ili otuđenje kvalificiranog udjela u društvu, koje je izazvalo prelazak ili smanjenje ispod 20%, 30% ili 50%, a o tome bez odgode ne obavijesti Agenciju u skladu s odredbama članka 78. stavka 1. ovoga Zakona
+
+21. najkasnije do 31. ožujka tekuće godine Agenciji ne dostavi popis imena/naziva svih dioničara, kao i imatelja kvalificiranih udjela s veličinom pojedinih udjela, sa stanjem na dan 1. siječnja tekuće godine, u skladu s odredbama članka 78. stavka 2. ovoga Zakona «.
+
+Dosadašnje točke 21. do 23. postaju točke 22. do 24.
+
+Dosadašnja točka 24., koja postaje točka 25., mijenja se i glasi:
+
+»25. ulagatelju najmanje jednom godišnje ne dostavi izvadak o stanju i prometima udjelima u UCITS fondu kojih je imatelj, u skladu s odredbom članka 115. stavka 3. ovoga Zakona«.
+
+Dosadašnje točke 25. do 48. postaju točke 26. do 49.
+
+Iza dosadašnje točke 49., koja postaje točka 50., dodaje se nova točka 51. koja glasi:
+
+»51. ne izvijesti Agenciju o promjeni strukture portfelja UCITS fonda kojom se mijenja vrsta fonda određena prospektom tog UCITS fonda u rokovima ili na način propisan odredbama članka 205. stavka 6. ovoga Zakona i pravilnika iz članka 205. stavka 7. ovoga Zakona«.
+
+Dosadašnje točke 50. do 71. postaju točke 52. do 73.
+
+#### Članak 86.
+
+U članku 402. stavku 1. točke 4. i 5. mijenjaju se i glase:
+
+»4. koja izravno ili neizravno stekne ili poveća kvalificirani udjel u društvu za upravljanje, a prethodno Agenciji ne podnese zahtjev za izdavanje suglasnosti, u skladu s odredbama članka 74. stavka 1. ovoga Zakona
+
+5. koja nije prethodno Agenciju pisanim putem izvijestila o namjeri izravnog ili posrednog otpuštanja kvalificiranog udjela u društvu za upravljanje, u skladu s odredbom članka 75. stavka 1. ovoga Zakona«.
+
+Iza točke 5. dodaje se nova točka 6. koja glasi:
+
+»6. koja nije prethodno Agenciju pisanim putem izvijestila o namjeri smanjenja udjela u društvu za upravljanje na način da se udio u kapitalu ili glasačkim pravima te osobe smanji ispod granice od 20%, 30% ili 50% ili da društvo za upravljanje prestaje biti društvo kći te osobe, u skladu s odredbom članka 75. stavka 2. ovoga Zakona«.
+
+Dosadašnje točke 6. i 7. postaju točke 7. i 8.
+
+Iza dosadašnje točke 8., koja postaje točka 9., dodaje se nova točka 10. koja glasi:
+
+»10. koja protivno odredbama članka 158. stavka 7. ovoga Zakona obavlja za račun društva za upravljanje promidžbene sadržaje i aktivnosti, ako takve aktivnosti predstavljaju distribuciju udjela UCITS fonda«.
+
+Dosadašnja točka 9. postaje točka 11.
+
+Točke 10. i 11. brišu se.
+
+U stavku 3. točke 1. i 2. mijenjaju se i glase:
+
+»1. koja izravno ili neizravno stekne ili poveća kvalificirani udjel u društvu za upravljanje, a prethodno Agenciji ne podnese zahtjev za izdavanje suglasnosti, u skladu s odredbama članka 74. stavka 1. ovoga Zakona
+
+2. koja nije prethodno Agenciju pisanim putem izvijestila o namjeri izravnog ili posrednog otpuštanja kvalificiranog udjela u društvu za upravljanje, u skladu s odredbom članka 75. stavka 1. ovoga Zakona«.
+
+Iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. koja nije prethodno Agenciju pisanim putem izvijestila o namjeri smanjenja udjela u društvu za upravljanje na način da se udio u kapitalu ili glasačkim pravima te osobe smanji ispod granice od 20%, 30% ili 50% ili da društvo za upravljanje prestaje biti društvo kći te osobe, u skladu s odredbom članka 75. stavka 2. ovoga Zakona«.
+
+Dosadašnja točka 3. postaje točka 4.
+
+#### Članak 87.
+
+U članku 403. stavku 1. točki 18. broj: »6.« zamjenjuje se brojem: »8.«.
+
+#### Članak 88.
+
+(1) U cijelom tekstu Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16.) riječ: »nuditi« zamjenjuje se riječju: »distribuirati«, a riječ: »nudi« zamjenjuje se riječju: »distribuira«.
+
+(2) U cijelom tekstu Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16.) riječ: »nuđenje« u određenom padežu zamjenjuje se riječju: »distribucija« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+*Pravilnici i započeti postupci*
+
+#### Članak 89.
+
+(1) Stupanjem na snagu ovoga Zakona prestaje važiti Pravilnik o uvjetima za nuđenje udjela UCITS fonda (»Narodne novine«, br. 41/17.).
+
+(2) Agencija će sve ostale pravilnike donesene na temelju odredbi Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16.) uskladiti s odredbama ovoga Zakona u roku od 12 mjeseci od stupanja na snagu ovoga Zakona.
+
+(3) Postupci započeti pred Agencijom prije stupanja na snagu ovoga Zakona dovršit će se primjenom odredbi Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16.).
+
+*Stupanje na snagu*
+
+#### Članak 90.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/108
+
+Zagreb, 13. prosinca 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom (NN 110/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/110/1927*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom, koji je Hrvatski sabor donio na sjednici 1. listopada 2021.
+
+Klasa: 011-01/21-01/60
+
+Urbroj: 71-10-01/1-21-2
+
+Zagreb, 6. listopada 2021.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM**
+
+#### Članak 1.
+
+U Zakonu o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16. i 126/19.) u članku 2. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:«.
+
+Točka 1. mijenja se i glasi:
+
+»1. Direktiva 2009/65/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. o usklađivanju zakona i drugih propisa koji se odnose na subjekte za zajednička ulaganja u prenosive vrijednosne papire (UCITS) (Tekst značajan za EGP) (SL L 302, 17. 11. 2009.), kako je posljednji put izmijenjena Direktivom (EU) 2019/1160 Europskog parlamenta i Vijeća od 20. lipnja 2019. o izmjeni direktiva 2009/65/EZ i 2011/61/EU u pogledu prekogranične distribucije subjekata za zajednička ulaganja (Tekst značajan za EGP) (SL L 188, 12. 7. 2019.) (u daljnjem tekstu: Direktiva 2009/65/EZ)«.
+
+Iza točke 8. briše se točka i dodaje se točka 9. koja glasi:
+
+»9. Direktiva (EU) 2019/2034 Europskog parlamenta i Vijeća od 27. studenoga 2019. o bonitetnom nadzoru nad investicijskim društvima i izmjeni direktiva 2002/87/EZ, 2009/65/EZ, 201 1/61/EU, 2013/36/EU, 2014/59/EU i 2014/65/EU (Tekst značajan za EGP) (SL L 314, 5. 12. 2019.).«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Ovim Zakonom osigurava se provedba sljedećih akata Europske unije:
+
+1. Uredbe (EU) 2019/1156 Europskog parlamenta i Vijeća od 20. lipnja 2019. o olakšavanju prekogranične distribucije subjekata za zajednička ulaganja i izmjeni uredaba (EU) br. 345/2013, (EU) br. 346/2013 i (EU) br. 1286/2014 (Tekst značajan za EGP) (SL L 188, 12. 7. 2019.) (u daljnjem tekstu: Uredba (EU) 2019/1156)
+
+2. Uredbe (EU) 2019/2033 Europskog parlamenta i Vijeća od 27. studenoga 2019. o bonitetnim zahtjevima za investicijska društva i o izmjeni uredaba (EU) br. 1093/2010, (EU) br. 575/2013, (EU) br. 600/2014 i (EU) br. 806/2014 (Tekst značajan za EGP) (SL L 314, 5. 12. 2019.) (u daljnjem tekstu: Uredba (EU) 2019/2033).
+
+(4) Kada je ovim Zakonom propisana ovlast Hrvatske agencije za nadzor financijskih usluga za donošenje pravilnika, taj pravilnik donosi Upravno vijeće Hrvatske agencije za nadzor financijskih usluga.«.
+
+#### Članak 2.
+
+U članku 4. stavku 1. iza točke 4. dodaje se točka 4.a koja glasi:
+
+»4.a UCITS ETF (engl. »Exchange-Traded Fund«) je otvoreni investicijski fond s javnom ponudom čijom se barem jednom klasom udjela trguje tijekom dana na uređenom tržištu ili multilateralnoj trgovinskoj platformi, s barem jednim održavateljem tržišta, koji poduzima odgovarajuće radnje kako bi osigurao da tržišna vrijednost njegovih udjela ne odstupa znatno od njegove neto vrijednosti imovine i, kada je primjenjivo, njegove indikativne neto vrijednosti imovine«.
+
+Točka 44. mijenja se i glasi:
+
+»44. subjekt financijskog sektora je subjekt kako je definiran člankom 4. stavkom 1. točkom 27. Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe (EU) br. 648/2012 (Tekst značajan za EGP) (SL L 176, 27. 6. 2013.) (u daljnjem tekstu: Uredba (EU) br. 575/2013«.
+
+Iza točke 52. briše se točka i dodaje se točka 53. koja glasi:
+
+»53. kreditna institucija je kreditna institucija kako je uređeno člankom 4. stavkom 1. točkom 1. Uredbe (EU) br. 575/2013.«.
+
+#### Članak 3.
+
+U članku 7. stavku 2. riječ: »kupnju« zamjenjuje se riječju: »izdavanje«.
+
+#### Članak 4.
+
+U članku 21. stavku 1. točka 2. mijenja se i glasi:
+
+»2. neovisno o dodatnim zahtjevima za kapitalom iz članka 20. stavka 1. ovoga Zakona, jedne četvrtine fiksnih općih troškova društva za upravljanje iz prethodne poslovne godine, kako je popisano člankom 13. Uredbe (EU) 2019/2033.«.
+
+U stavku 3. točki b) iza riječi: »četvrtine« dodaje se riječ: »fiksnih«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Društvo za upravljanje računa fiksne opće troškove iz stavka 1. točke 2. ovoga članka na način kako je to propisano regulatornim tehničkim standardima donesenima na temelju Uredbe iz stavka 1. točke 2. ovoga članka.«.
+
+#### Članak 5.
+
+U članku 39. stavku 2. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»Agencija može predmetno odobrenje izdati i za mandat kraći od zahtijevanog, ako smatra da za to postoji opravdani razlog.«.
+
+Stavak 10. mijenja se i glasi:
+
+»(10) Agencija će pravilnikom propisati sadržaj programa vođenja poslova društva za upravljanje iz stavka 5. ovoga članka, postupak i kriterije za ocjenjivanje programa i kandidata koji predstavljaju program, kao i opravdane razloge radi kojih Agencija može izdati suglasnost na mandat na kraći rok od zahtijevanog.«.
+
+#### Članak 6.
+
+U članku 56. stavak 2. mijenja se i glasi:
+
+»(2) Društvo za upravljanje dužno je urediti, primjenjivati, dokumentirati i redovito ažurirati odgovarajuće, učinkovite i sveobuhvatne strategije i politike upravljanja rizicima u svrhu utvrđivanja:
+
+a) rizika povezanih s poslovanjem društva za upravljanje i UCITS fondovima kojima upravlja te poslovnim procesima i sustavima društva za upravljanje i UCITS fondova kojima upravlja
+
+b) doprinosa tih pojedinih rizika profilu rizičnosti društva za upravljanje i pojedinog UCITS fonda i
+
+c) prihvatljive razine rizika za svaki identificirani rizik kojemu je izloženo ili bi moglo biti izloženo društvo za upravljanje i pojedini UCITS fond kojim upravlja.«.
+
+Iza stavka 11. dodaje se novi stavak 12. i stavak 13. koji glase:
+
+»(12) Društvo za upravljanje dužno je za svaki UCITS fond kojim upravlja urediti sustav ograničenja rizika (engl. risk limit system) s kojima UCITS fond treba biti usklađen kako bi se održala dosljednost s odobrenim profilom rizičnosti UCITS fonda.
+
+(13) Sustav ograničenja rizika treba biti u skladu sa strategijom ulaganja UCITS fonda i obuhvaćati zakonska ograničenja, kao i sva druga interna ograničenja rizika definirana od strane društva za upravljanje.«.
+
+Dosadašnji stavak 12. postaje stavak 14.
+
+#### Članak 7.
+
+U članku 57. stavku 3. točki 2. iza riječi: »strane« dodaju se riječi: »te interno uređena ograničenja rizika«.
+
+U točki 4. podtočki b) iza riječi: »taj« dodaje se skraćenica: »UCITS«.
+
+#### Članak 8.
+
+U članku 80. stavku 3. iza riječi: »članka« dodaju se riječi: »(razdoblje procjene)«.
+
+#### Članak 9.
+
+U članku 99. stavak 2. mijenja se i glasi:
+
+»(2) Ugovorom o ulaganju društvo za upravljanje obvezuje se izdati ulagatelju udjel, izvršiti odnosno omogućiti njegov upis u registar udjela, otkupiti udjel od ulagatelja kada ulagatelj to zatraži te dalje ulagati ta sredstva i upravljati UCITS fondom za zajednički račun ulagatelja i poduzimati sve ostale pravne poslove i radnje potrebne za upravljanje UCITS fondom u skladu s odredbama ovoga Zakona, prospekta i pravila UCITS fonda. Kod ETF-a, društvo za upravljanje u obvezi je otkupiti udjel izravno od ulagatelja samo u slučajevima koji su predviđeni prospektom ili pravilima ETF-a na način kako je uređeno prospektom ili pravilima ETF-a.«.
+
+#### Članak 10.
+
+U članku 100. iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Odredbe ovoga članka ne primjenjuju se na ETF-ove.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+#### Članak 11.
+
+U članku 110. stavak 5. mijenja se i glasi:
+
+»(5) Društvo za upravljanje dužno je pravilima UCITS fonda predvidjeti odgovarajuće postupke naknade štete koji moraju posebno obuhvatiti izradu i provjeru plana naknade štete, kao i mjere naknade štete, u slučaju pogrešnog izračuna vrijednosti udjela i u slučaju povrede ograničenja ulaganja u smislu članka 259. stavka 4. ovoga Zakona, zatim u slučaju štete koja je nanesena imovini UCITS fonda kao posljedica propusta društva za upravljanje u smislu stavaka 1. i 2. ovoga članka, kao i u slučaju štete koja nastane imateljima udjela zbog izdavanja ili otkupa udjela te zbog propusta otkupa udjela UCITS fonda na način predviđen člankom 184. ovoga Zakona.«.
+
+#### Članak 12.
+
+U članku 114. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Osoba koja vodi registar udjela UCITS fonda dužna je kao poslovnu tajnu čuvati podatke o ulagateljima, stanju udjela te uplatama i isplatama. Kada je to dopušteno propisima kojima je uređena zaštita osobnih podataka, navedene podatke osoba koja vodi registar udjela može priopćavati:«.
+
+#### Članak 13.
+
+U članku 119. stavku 4. riječi: »sedam dana« zamjenjuju se riječima: »pet radnih dana«.
+
+#### Članak 14.
+
+U članku 122. stavak 3. briše se.
+
+#### Članak 15.
+
+U članku 124. stavak 6. mijenja se i glasi:
+
+»(6) Društvo za upravljanje dužno je Agenciji i nadležnom tijelu države članice domaćina društva za upravljanje dostaviti obavijest o svakoj promjeni podataka iz obavijesti i dokumentacije iz članka 123. ovoga Zakona, najmanje 30 dana prije provođenja promjena, a kako bi Agencija mogla donijeti odluku o predloženoj promjeni, odnosno kako bi se nadležno tijelo države članice domaćina moglo pripremiti za nadzor u dijelu poštivanja pravila države članice domaćina društva za upravljanje. U slučaju promjene u opsegu djelatnosti ili ograničenjima u vrstama UCITS fondova kojima je društvo ovlašteno upravljati, Agencija će o toj promjeni obavijestiti nadležno tijelo države članice domaćina društva za upravljanje.«.
+
+Iza stavka 6. dodaje se novi stavak 7. i stavak 8. koji glase:
+
+»(7) Ako bi namjeravana promjena dovela do toga da društvo za upravljanje ne bi više bilo usklađeno s odredbama ovoga Zakona, Agencija će u roku od 15 radnih dana od zaprimanja svih dokumenata iz članka 123. ovoga Zakona zabraniti provođenje namjeravane promjene i o tome obavijestiti nadležno tijelo države članice domaćina društva za upravljanje.
+
+(8) Ako je protivno stavcima 6. i 7. ovoga članka namjeravana promjena provedena odnosno ako se dogodila neplanirana promjena zbog koje društvo za upravljanje više nije usklađeno s odredbama ovoga Zakona, Agencija će poduzeti odgovarajuće mjere u skladu s dijelom četrnaestim ovoga Zakona i o tome bez odgode obavijestiti nadležno tijelo države članice domaćina društva za upravljanje.«.
+
+Dosadašnji stavak 7. postaje stavak 9.
+
+#### Članak 16.
+
+U članku 134. stavak 3. briše se.
+
+#### Članak 17.
+
+U članku 137. stavku 2. iza riječi: »fondom« dodaju se riječi: »iz druge države članice«.
+
+#### Članak 18.
+
+Članak 138. mijenja se i glasi:
+
+»(1) Društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona mora za trgovanje udjelima UCITS fonda osnovanog u drugoj državi članici osigurati u Republici Hrvatskoj sustave za obavljanje sljedećih zadataka:
+
+a) izvršavanje zahtjeva za izdavanje i otkup udjela i osiguranja drugih plaćanja povezanih s udjelima UCITS fonda imateljima udjela UCITS fonda, na način kako je uređeno prospektom UCITS fonda
+
+b) pružanje informacija ulagateljima o mogućim načinima podnošenja zahtjeva za izdavanjem ili otkupom udjela, kao i načinima isplate na temelju zahtjeva za otkupom udjela
+
+c) olakšavanje obrade informacija i pristupa postupcima i mjerama vezanima uz rješavanje pritužbi ulagatelja i ostvarivanja prava ulagatelja koja proizlaze iz njihova ulaganja u UCITS fond, u skladu s člancima 63. i 64. ovoga Zakona
+
+d) stavljanje informacija i dokumenata iz članka 139. stavka 2. točaka 1. do 4. ovoga Zakona na raspolaganje ulagateljima u svrhu njihova pregleda i izrade preslika, na način kako je propisano člankom 139. stavcima 3. i 4. ovoga Zakona.
+
+(2) Društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona dužno je informacije iz stavka 1. ovoga članka na njihov zahtjev dostaviti ulagateljima na trajnom mediju.
+
+(3) Društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona dužno je djelovati kao kontakt-točka za komunikaciju s Agencijom.
+
+(4) Društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona nije dužno imati fizičkog predstavnika ili imenovati treću osobu u Republici Hrvatskoj za obavljanje zadataka iz stavaka 1., 2. i 3. ovoga članka.
+
+(5) Sustavi za obavljanje zadataka iz stavaka 1., 2. i 3. ovoga članka, a koji mogu biti i elektronički, u Republici Hrvatskoj moraju biti osigurani:
+
+a) na hrvatskom ili engleskom jeziku
+
+b) samostalno i/ili putem treće osobe koja u državi članci podliježe posebnim propisima koji uređuju obavljanje navedenih zadataka ili nadzoru nad obavljanjem navedenih zadataka.
+
+(6) Kada društvo za upravljanje imenuje treću osobu za obavljanje zadataka iz stavaka 1., 2. i 3. ovoga članka, dužno je s tom trećom osobom sklopiti pisani ugovor u kojem će biti navedeno koje zadatke obavlja treća osoba, kao i da je društvo za upravljanje dužno trećoj osobi dostavljati sve informacije i dokumente koji su joj potrebni za izvršavanje zadataka definiranih ugovorom.«.
+
+#### Članak 19.
+
+U članku 139. stavak 2. mijenja se i glasi:
+
+»(2) Obavijest iz stavka 1. ovoga članka koju je Agencija zaprimila od nadležnog tijela matične države članice UCITS fonda sadržava podatke o dogovorenim uvjetima za trgovanje udjelima UCITS fonda osnovanog u drugoj državi članici u Republici Hrvatskoj, podatke potrebne za izdavanje računa ili obavještavanje o primjenjivim regulatornim naknadama ili drugim pristojbama Agencije, uključujući i adresu društva za upravljanje, podatke o sustavima za obavljanje zadataka iz članka 138. stavaka 1., 2. i 3. ovoga Zakona i podatke iz Priloga I. Uredbe Komisije (EU) br. 584/2010 te za svaki UCITS fond osnovan u drugoj državi članici čijim se udjelima namjerava trgovati u Republici Hrvatskoj sljedeće priloge:
+
+1. važeći prospekt
+
+2. pravila UCITS fonda odnosno drugi odgovarajući dokument
+
+3. posljednje revidirane godišnje izvještaje i naknadne polugodišnje izvještaje UCITS fonda, ako oni postoje
+
+4. ključne podatke za ulagatelje i
+
+5. potvrdu nadležnog tijela matične države članice UCITS fonda iz Priloga II. Uredbe Komisije (EU) br. 584/2010.«.
+
+#### Članak 20.
+
+U članku 140. stavak 2. mijenja se i glasi:
+
+»(2) Ako društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona namjerava promijeniti podatke iz obavijesti iz članka 139. stavka 1. ovoga Zakona odnosno dokumente iz članka 139. stavka 2. ovoga Zakona ili podatke o klasama udjela UCITS fondova osnovanih u drugoj državi članici kojima se trguje, najmanje mjesec dana prije uvođenja tih promjena mora o tome obavijestiti Agenciju.«.
+
+#### Članak 21.
+
+U članku 141. stavak 2. briše se.
+
+Dosadašnji stavak 3. postaje stavak 2.
+
+U dosadašnjem stavku 4., koji postaje stavak 3., riječi: »stavka 3.« zamjenjuju se riječima: »stavka 2.«.
+
+Dosadašnji stavak 5. postaje stavak 4.
+
+#### Članak 22.
+
+Iza članka 143. dodaje se naslov iznad članka i članak 143.a koji glase:
+
+*»Povlačenje obavijesti o trgovanju udjelima UCITS fonda u Republici Hrvatskoj osnovanog u drugoj državi članici*
+
+#### Članak 143.a
+
+(1) Društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona može povući obavijest iz članka 139. stavka 1. ovoga Zakona u odnosu na sve ili dio UCITS fondova ili klasa udjela UCITS fondova kojima trguje u Republici Hrvatskoj.
+
+(2) Informacije koje odgovaraju onima iz članka 154.a stavka 2. točaka a), b) i c) ovoga Zakona društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona dužno je pripremiti na hrvatskom ili engleskom jeziku.
+
+(3) Od dana povlačenja obavijesti iz stavka 1. ovoga članka društvo za upravljanje dužno je u Republici Hrvatskoj prestati s izravnom ili neizravnom distribucijom udjela UCITS fonda u odnosu na koji je povučena obavijest.
+
+(4) Društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona koje povuče obavijest iz članka 139. stavka 1. ovoga Zakona dužno je ulagateljima u Republici Hrvatskoj koji ostanu imatelji udjela UCITS fonda u odnosu na koji je obavijest povučena osigurati svu dokumentaciju i informacije koje osigurava ulagateljima tog UCITS fonda u matičnoj državi članici UCITS fonda, što uključuje prospekt, pravila, ključne podatke za ulagatelje te polugodišnje i revidirane godišnje izvještaje UCITS fonda, na jeziku kako je propisano člankom 142. ovoga Zakona.
+
+(5) Društvo za upravljanje može informacije iz stavka 4. ovoga članka ulagateljima u Republici Hrvatskoj osigurati upotrebom elektroničkih ili drugih sredstava komunikacije, uz uvjet da su informacije i komunikacijska sredstva ulagateljima dostupna na hrvatskom ili engleskom jeziku.
+
+(6) U odnosu na društvo za upravljanje koje povuče obavijest iz članka 139. stavka 1. ovoga Zakona, a u Republici Hrvatskoj ostanu imatelji udjela UCITS fonda u odnosu na koji je obavijest povučena, Agencija će imati ista prava i obveze kao što ima u skladu s člankom 381. stavkom 2., člankom 346. stavkom 5. točkom 6. i člankom 391. ovoga Zakona.
+
+(7) Agencija neće od društva za upravljanje koje je u Republici Hrvatskoj povuklo obavijesti iz članka 139. stavka 1. ovoga Zakona tražiti usklađenost sa zahtjevima o oglašavanju UCITS fonda iz glave II. ovoga dijela, a koji su objavljeni na mrežnim stranicama Agencije u skladu s člankom 5. Uredbe (EU) 2019/1156.«.
+
+#### Članak 23.
+
+U članku 147. stavku 1. iza riječi: »institucije« zarez i riječi: »odnosno štedne banke« brišu se.
+
+#### Članak 24.
+
+U članku 151. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Društvo za upravljanje dužno je u obavijesti iz stavka 1. ovoga članka navesti i sve podatke, uključujući adresu, koji su nadležnom tijelu države članice domaćina potrebni vezano za izdavanje računa ili za obavještavanje o primjenjivim regulatornim naknadama ili pristojbama. Obavijest mora sadržavati i informacije o sustavima za obavljanje zadataka iz članka 151.a ovoga Zakona.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., riječi: »stavka 2.« zamjenjuju se riječima: »stavka 3.«.
+
+#### Članak 25.
+
+Iza članka 151. dodaje se članak 151.a koji glasi:
+
+»Članak 151.a
+
+(1) Društvo za upravljanje iz članka 150. stavka 1. ovoga Zakona dužno je u svakoj državi članici domaćinu u kojoj namjerava trgovati udjelima UCITS fonda omogućiti pristup sustavima za obavljanje sljedećih zadataka:
+
+a) izvršavanje zahtjeva za izdavanje i otkup udjela i osiguranja drugih plaćanja povezanih s udjelima u UCITS fondu imateljima udjela UCITS fonda, na način kako je uređeno prospektom UCITS fonda
+
+b) pružanje informacija ulagateljima o mogućim načinima podnošenja zahtjeva za izdavanjem ili otkupom udjela, kao i načinima isplate na temelju zahtjeva za otkupom udjela
+
+c) olakšavanje obrade informacija i pristupa postupcima i mjerama vezanima uz rješavanje pritužbi ulagatelja i ostvarivanja prava ulagatelja koja proizlaze iz njihova ulaganja u UCITS fond, u državi članici u kojoj se trguje udjelima UCITS fonda, u skladu s člancima 63. i 64. ovoga Zakona
+
+d) stavljanje informacija i dokumenata iz članka 151. stavka 2. ovoga Zakona na raspolaganje ulagateljima u svrhu njihova pregleda i izrade preslika, na način kako je propisano propisima države članice domaćina UCITS fonda.
+
+(2) Društvo za upravljanje dužno je informacije iz stavka 1. ovoga članka na njihov zahtjev dostaviti ulagateljima na trajnom mediju.
+
+(3) Društvo za upravljanje dužno je djelovati kao kontaktna točka za komunikaciju s Agencijom i nadležnim tijelom države članice domaćina UCITS fonda.
+
+(4) Sustavi za obavljanje zadataka iz stavaka 1., 2. i 3. ovoga članka, a koji mogu biti i elektronički, u državi članici domaćinu UCITS fonda moraju biti osigurani:
+
+a) na službenom jeziku ili jednom od službenih jezika države članice domaćina UCITS fonda ili na jeziku koji odobri nadležno tijelo države članice domaćina UCITS fonda
+
+b) samostalno i/ili putem treće osobe koja u državi članici podliježe posebnim propisima koji uređuju obavljanje navedenih zadataka ili nadzoru nad obavljanjem navedenih zadataka.
+
+(5) Kada društvo za upravljanje imenuje treću osobu za obavljanje zadataka iz stavaka 1., 2. i 3. ovoga članka, dužno je s tom trećom osobom sklopiti pisani ugovor u kojem će biti navedeno koje zadatke obavlja treća osoba, kao i da je društvo za upravljanje dužno trećoj osobi dostavljati sve informacije i dokumente koji su joj potrebni za izvršavanje zadataka definiranih ugovorom.«.
+
+#### Članak 26.
+
+Članak 154. mijenja se i glasi:
+
+»(1) Društvo za upravljanje koje trguje udjelima UCITS fonda u državi članici domaćinu UCITS fonda dužno je nadležnom tijelu države članice domaćina UCITS fonda omogućiti elektronski pristup prijevodima važeće dokumentacije UCITS fonda iz članka 151. stavka 2. ovoga Zakona i obavještavati nadležno tijelo države članice domaćina UCITS fonda o svim promjenama te dokumentacije.
+
+(2) Ako društvo za upravljanje namjerava promijeniti podatke u obavijesti iz članka 151. stavaka 1. i 2. ovoga Zakona odnosno podatke o klasama udjela UCITS fonda koji su predmet trgovanja u državi članici domaćinu UCITS fonda, minimalno 30 dana prije uvođenja tih promjena mora o tome obavijestiti Agenciju i nadležno tijelo države članice domaćina UCITS fonda.
+
+(3) Ako bi namjeravana promjena iz stavka 2. ovoga članka dovela do toga da društvo za upravljanje ne bi više bilo usklađeno s odredbama ovoga Zakona, Agencija će u roku od 15 radnih dana od zaprimanja svih informacija iz stavka 2. ovoga članka zabraniti provođenje namjeravane promjene i o tome obavijestiti nadležno tijelo države članice domaćina UCITS fonda.
+
+(4) Ako je protivno stavku 3. ovoga članka namjeravana promjena provedena i zbog nje društvo za upravljanje više nije usklađeno s odredbama ovoga Zakona, Agencija će poduzeti odgovarajuće mjere u skladu s dijelom četrnaestim ovoga Zakona, uključujući i zabranu trgovanja udjelima UCITS fonda i o tome bez odgode obavijestiti nadležno tijelo države članice domaćina UCITS fonda.«.
+
+#### Članak 27.
+
+Iza članka 154. dodaje se naslov iznad članka i članak 154.a koji glase:
+
+*»Povlačenje obavijesti o trgovanju udjelima UCITS fonda u državi članici domaćinu UCITS fonda*
+
+#### Članak 154.a
+
+(1) Društvo za upravljanje može povući obavijest iz članka 151. stavka 1. ovoga Zakona u odnosu na sve ili dio UCITS fondova ili klasa udjela UCITS fondova te u odnosu na sve ili pojedinu državu članicu domaćina UCITS fonda.
+
+(2) Društvo za upravljanje koje želi povući obavijesti iz članka 151. stavka 1. ovoga Zakona mora dostaviti obavijest Agenciji i uz obavijest priložiti dokaze o ispunjavanju sljedećih uvjeta:
+
+a) da je društvo za upravljanje dalo opću ponudu za otkup ili isplatu svih udjela UCITS fonda na koji se odnosi povlačenje obavijesti koje drže ulagatelji u državi članici domaćinu UCITS fonda u odnosu na koju je obavijest povučena, bez naplate naknada za otkup ili isplatu udjela
+
+b) da je ponuda iz točke a) ovoga stavka javno dostupna barem 30 radnih dana te da je društvo za upravljanje istu izravno ili preko financijskih posrednika pojedinačno uputilo svim ulagateljima u državi članici domaćinu UCITS fonda u odnosu na koju je obavijest povučena, a čiji mu je identitet poznat
+
+c) da je društvo za upravljanje na javno dostupnom mediju, koji je uobičajen za oglašavanje UCITS fondova i prikladan za tipičnog ulagatelja u UCITS fond, što uključuje i elektronička sredstva, objavilo namjeru povlačenja obavijesti iz članka 151. stavka 1. ovoga Zakona i navelo UCITS fond i državu članicu domaćina UCITS fonda u odnosu na koje se obavijest povlači
+
+d) da je društvo za upravljanje izmijenilo ili raskinulo ugovore s financijskim posrednicima ili trećim osobama koje obavljaju distribuciju udjela UCITS fonda u odnosu na koji je obavijest povučena, a kako bi se spriječilo njihovo daljnje distribuiranje. Izmjene ili raskid ugovora primjenjuju se od dana povlačenja obavijesti iz članka 151. stavka 1. ovoga Zakona.
+
+(3) Društvo za upravljanje dužno je u informacijama iz stavka 2. točaka a), b) i c) ovoga članka jasno navesti posljedice za ulagatelje ako ne prihvate ponudu za otkupom ili isplatom udjela UCITS fonda navedenog u stavku 2. točki c) ovoga članka.
+
+(4) Društvo za upravljanje dužno je informacije iz stavka 2. točaka a), b) i c) ovoga članka objaviti i dostaviti Agenciji na službenom jeziku ili jednom od službenih jezika države članice domaćina UCITS fonda u odnosu na koju je obavijest povučena ili na jeziku koji odobri nadležno tijelo te države članice.
+
+(5) Od dana povlačenja obavijesti iz članka 151. stavka 1. ovoga Zakona društvo za upravljanje dužno je prestati s izravnom ili neizravnom distribucijom udjela UCITS fonda u odnosu na koji je povučena obavijest u državi članici domaćinu UCITS fonda u odnosu na koju je povučena obavijest.
+
+(6) Agencija će provjeriti je li obavijest iz stavka 2. ovoga članka potpuna te će je najkasnije u roku od 15 radnih dana od dana zaprimanja potpune obavijesti iz stavka 2. ovoga članka proslijediti nadležnom tijelu države članice domaćina UCITS fonda navedene u stavku 2. točki c) ovoga članka i ESMA-i.
+
+(7) Agencija će o prosljeđivanju obavijesti u skladu sa stavkom 6. ovoga članka bez odgode obavijestiti društvo za upravljanje.
+
+(8) Društvo za upravljanje dužno je osigurati ulagateljima koji ostanu imatelji udjela UCITS fonda iz stavka 2. točke c) ovoga članka i Agenciji svu dokumentaciju i informacije koje osigurava ulagateljima tog UCITS fonda u Republici Hrvatskoj, što uključuje prospekt, pravila, ključne podatke za ulagatelje te polugodišnje i revidirane godišnje izvještaje UCITS fonda, na jeziku kako je propisano člankom 153. ovoga Zakona.
+
+(9) Društvo za upravljanje može informacije iz stavka 8. ovoga članka osigurati upotrebom elektroničkih ili drugih sredstava komunikacije, uz uvjet da su informacije i komunikacijska sredstva ulagateljima dostupna na službenom jeziku ili jednom od službenih jezika države članice domaćina UCITS fonda u kojoj se nalaze ulagatelji UCITS fonda ili na jeziku koji su odobrila nadležna tijela te države članice.
+
+(10) Agencija će nadležnom tijelu države članice domaćina UCITS fonda navedenoj u stavku 2. točki c) ovoga članka proslijediti informacije o svim izmjenama dokumenata iz članka 151. stavka 3. ovoga Zakona.«.
+
+#### Članak 28.
+
+Članak 157. mijenja se i glasi:
+
+»(1) Društvo za upravljanje dužno je osigurati da je promidžbeni sadržaj UCITS fonda koji izrađuje ili odobrava za daljnju distribuciju usklađen sa zahtjevima iz članka 4. Uredbe (EU) 2019/1156.
+
+(2) Promidžbeni sadržaj za potrebe oglašavanja UCITS fondova u Republici Hrvatskoj mora biti izrađen na hrvatskom jeziku.
+
+(3) Društvo za upravljanje odgovorno je za potpunost i točnost informacija koje izrađuje ili odobrava za daljnju distribuciju, a koje su objavljene u svrhu promidžbe UCITS fonda.
+
+(4) Promidžbeni sadržaj o UCITS fondovima koji se izrađuje ili odobrava za daljnju distribuciju moraju odobriti osobe ovlaštene za zastupanje društva za upravljanje.
+
+(5) Društvo za upravljanje mora kao dio poslovne dokumentacije sačuvati primjerak svakog objavljenog promidžbenog sadržaja, kada je to primjenjivo, kao i izvore podataka koji potkrepljuju navode iz takvih publikacija.
+
+(6) Ako promidžbeni sadržaj UCITS fonda ne izrađuje društvo za upravljanje, već njega izrađuje distributer, društvo za upravljanje dužno ga je odobriti za daljnju distribuciju.«.
+
+#### Članak 29.
+
+Članci 158. do 163. brišu se.
+
+#### Članak 30.
+
+Članak 191. mijenja se i glasi:
+
+»(1) Prospekt UCITS fonda mora sadržavati sve informacije koje su ulagatelju potrebne za donošenje informirane odluke o ulaganju koje mu je ponuđeno, a posebno o rizicima povezanim s takvim ulaganjem.
+
+(2) Prospekt UCITS fonda mora sadržavati najmanje sljedeće podatke:
+
+a) podatke o UCITS fondu:
+
+1. naziv fonda, naznaku vrste fonda
+
+2. datum osnivanja UCITS fonda te vrijeme trajanja UCITS fonda ako je osnovan na određeno vrijeme
+
+3. mjesto gdje je moguće dobiti primjerak prospekta i pravila UCITS fonda ili dodatne informacije o UCITS fondu te polugodišnje i revidirane godišnje izvještaje
+
+4. kratke podatke o poreznim propisima koji se primjenjuju na UCITS fond i koji su bitni za ulagatelja te pojedinosti o tome obračunavaju li se odbici iz prihoda ili kapitalne dobiti koje UCITS fond plaća ulagateljima
+
+5. datum računovodstvenih obračuna i raspodjele prihoda ili dobiti UCITS fonda
+
+6. podatke o revizoru i drugim pružateljima usluga UCITS fondu
+
+7. najniži iznos novčanih sredstava koji će se prikupiti prilikom osnivanja UCITS fonda te radnje koje će se poduzeti ako se ne prikupi najniži utvrđeni iznos
+
+8. pojedinosti o glavnim značajkama udjela UCITS fonda, a posebno:
+
+– priroda prava iz udjela (stvarnopravna, obveznopravna, osobna)
+
+– naznake mogućih klasa udjela i valute u kojoj je fond denominiran i
+
+– prava koja proizlaze iz udjela: pravo na obaviještenost (polugodišnje i revidirane godišnje izvještaje), pravo na udio u dobiti, pravo na otkup udjela UCITS fonda odnosno obveza otkupa udjela, pravo na isplatu dijela ostatka likvidacijske mase UCITS fonda
+
+9. pretpostavke pod kojima je dopušteno donijeti odluku o likvidaciji UCITS fonda te postupak likvidacije UCITS fonda
+
+10. naznaku uređenog tržišta ili drugog mjesta trgovanja na kojem su udjeli uvršteni ili primljeni u trgovanje, kada je to primjenjivo
+
+11. postupci i uvjeti izdavanja udjela, najniži iznos pojedinačnih ulaganja u UCITS fond, način upisa odnosno izdavanja udjela, početna cijena udjela, postupci i uvjeti nuđenja udjela, način i uvjeti otkupa i isplate udjela te okolnosti u kojima može doći do obustave izdavanja ili otkupa
+
+12. informacije o načinu i učestalosti raspodjele prihoda ili dobiti UCITS fonda imateljima udjela
+
+13. vrste imovine u koju je UCITS fondu u skladu sa strategijom ulaganja dopušteno ulaganje
+
+14. opis sljedećih elemenata vezanih uz ulaganja UCITS fonda:
+
+– ulagateljskih ciljeva UCITS fonda, uključujući njegove financijske ciljeve, primjerice ostvarivanje kapitalne dobiti ili prihoda, te načina ostvarenja ciljeva UCITS fonda
+
+– strategije ulaganja, primjerice specijalizacija po geografskim ili industrijskim sektorima
+
+– bilo kakvih ograničenja na strategiju ulaganja
+
+– naznake svih tehnika, instrumenata ili ovlasti za uzimanje ili odobravanje zajma ili drugih pravnih poslova koji su po svojim ekonomskim učincima jednaki zajmu, koje se mogu koristiti pri upravljanju UCITS fondom
+
+15. neovisno o instrumentima u koje UCITS fond ulaže, jasno i lako razumljivo objašnjenje profila rizičnosti UCITS fonda te sažeto, jasno i lako razumljivo objašnjenje rizika povezanih s ulaganjima i sa strukturom UCITS fonda, uz tabelarni prikaz tih rizika
+
+16. izjavu iz koje je vidljivo da je UCITS fond dobio odobrenje Agencije u skladu s člankom 256. ovoga Zakona te u vezi s time jasno naznačene države članice, jedinice lokalne i područne (regionalne) samouprave države članice, treće države ili javno međunarodno tijelo kojemu pripadaju jedna ili više država članica u čije vrijednosne papire i instrumente tržišta novca se namjerava ulagati više od 35% neto vrijednosti imovine fonda
+
+17. dopuštenost ulaganja u terminske i opcijske ugovore i druge financijske izvedenice, u slučaju dopuštenosti takvog ulaganja, uz izjavu mogu li se takve transakcije zaključivati sa svrhom zaštite ili sa svrhom postizanja ulagateljskih ciljeva te utjecaj takvih transakcija na profil rizičnosti UCITS fonda i toleranciju na rizike
+
+18. kada UCITS fond pretežito ulaže u bilo koju vrstu imovine iz članka 252. ovoga Zakona, osim u prenosive vrijednosne papire ili instrumente tržišta novca, izjavu kojom se upozorava na takve investicijske ciljeve
+
+19. naznaku da je ulagateljski cilj UCITS fonda repliciranje indeksa, ako UCITS fond nastoji replicirati neki dionički indeks ili indeks dužničkih vrijednosnih papira
+
+20. ako će cijena udjela u UCITS fondu imati visoku volatilnost s obzirom na sastav portfelja UCITS fonda, odnosno na tehnike upravljanja imovinom UCITS fonda, izjavu koja će upozoriti na navedenu karakteristiku imovine UCITS fonda
+
+21. način i vrijeme izračuna neto vrijednosti imovine UCITS fonda te osnovica na temelju koje se utvrđuje vrijednost imovine UCITS fonda
+
+22. vrijeme, metoda i učestalost izračunavanja cijene za izdavanje novih udjela ili otkup postojećih te način objavljivanja tih cijena, opis iznosa i učestalosti plaćanja dopuštenih naknada i troškova izdavanja i otkupa udjela
+
+23. naknade i troškove upravljanja i poslovanja koji smiju teretiti UCITS fond i ulagatelje te opis njihova učinka na buduće prinose ulagatelja, kao i činjenicu može li društvo za upravljanje, u potpunosti ili djelomično, osloboditi ulagatelje plaćanja ulazne ili izlazne naknade ili im odobriti djelomični povrat naknade za upravljanje
+
+24. slučajeve u kojima društvo za upravljanje može odbiti uplate ulagatelja
+
+25. kada je to primjenjivo, informacije o povijesnom prinosu UCITS fonda u zadnjih deset godina, uz opis načina na koji je izračunat te napomenu da rezultati poslovanja UCITS fonda ostvareni u proteklim razdobljima ne predstavljaju indikaciju i nemaju nikakav utjecaj na buduće rezultate poslovanja UCITS fonda
+
+26. ciljano tržište ulagatelja kojima je UCITS fond namijenjen, uzimajući u obzir investicijski horizont, investicijski cilj ulagatelja, njegovo poznavanje tržišta kapitala te toleranciju rizika vezanih za ulaganje u UCITS fond
+
+27. trajanje poslovne godine i
+
+28. datum izdavanja prospekta
+
+b) podatke o društvu za upravljanje:
+
+1. tvrtka, pravni oblik, sjedište društva za upravljanje i adresa uprave, ako ona nije ista kao sjedište, broj odobrenja za rad koji je izdala Agencija, datum osnivanja i naznaku trajanja, ako je osnovano na određeno vrijeme, datum upisa u sudski registar, uključujući i naznaku je li društvo za upravljanje osnovano u državi članici koja nije matična država članica UCITS fonda
+
+2. ako društvo za upravljanje upravlja i drugim UCITS fondovima, popis tih drugih UCITS fondova
+
+3. osobna imena i položaj članova uprave i nadzornog odbora odnosno upravnog odbora, njihovi kratki životopisi, uključujući i pojedinosti o njihovim glavnim djelatnostima izvan društva za upravljanje, ako su bitne za društvo za upravljanje
+
+4. iznos temeljnog kapitala društva za upravljanje te osobna imena ili naziv članova društva za upravljanje, pravni oblik i naznaku udjela članova u temeljnom kapitalu
+
+5. tvrtku, pravni oblik, datum osnivanja i upisa u sudski registar te ulogu društava koja djeluju kao savjetnik UCITS fonda te osobno ime predsjednika uprave ili drugih odgovornih osoba tih društava
+
+6. bitne odredbe ugovora sklopljenog s depozitarom koje mogu biti važne za imatelje udjela, osim onih koje se odnose na plaćanje naknada
+
+7. druge važne djelatnosti
+
+8. popis delegiranih poslova iz članka 70. točke k) ovoga Zakona te osoba na koje su poslovi delegirani
+
+9. pojedinosti o aktualnoj politici primitaka, uključujući, no ne ograničavajući se na, opis načina izračuna primitaka, identitet osoba odgovornih za dodjelu primitaka te sastav odbora za primitke, ako takav odbor postoji ili sažetak politike primitaka i izjavu da su pojedinosti aktualne politike primitaka, uključujući, no ne ograničavajući se na, opis načina izračuna primitaka, identitet osoba odgovornih za dodjelu primitaka te sastav odbora za primitke, ako takav odbor postoji, dostupne na mrežnoj stranici društva za upravljanje (uključujući upućivanje na tu mrežnu stranicu), kao i informaciju da će se na zahtjev ulagatelja primjerak politika primitaka u papirnatom obliku njemu besplatno dostaviti i
+
+10. opis rizika kojima je izloženo društvo za upravljanje
+
+c) podatke o depozitaru:
+
+1. tvrtka, pravni oblik, sjedište i adresa uprave depozitara, podaci i broj odobrenja nadležne institucije za obavljanje poslova depozitara, opis poslova koje depozitar obavlja za UCITS fond i potencijalnih sukoba interesa koji iz toga mogu nastati
+
+2. opis svih poslova iz članka 221. ovoga Zakona koje je depozitar delegirao na treće osobe, popis svih trećih osoba s kojima depozitar ima sklopljen ugovor o delegiranju poslova iz članka 221. ovoga Zakona, kao i popis svih osoba s kojima treća osoba ima sklopljen ugovor o delegiranju tih poslova te potencijalnih sukoba interesa koji iz takvog delegiranja mogu nastati i
+
+3. izjava depozitara da će ažurirane informacije iz podtočaka 1. i 2. ove točke ulagateljima biti dostupne na zahtjev.«.
+
+#### Članak 31.
+
+U članku 192. stavak 1. mijenja se i glasi:
+
+»(1) Za bitne promjene prospekta UCITS fonda potrebno je ishoditi odobrenje Agencije. Bitnim promjenama prospekta UCITS fonda smatraju se izmjene i dopune prospekta UCITS fonda koje se predlažu s namjenom:
+
+1. promjene ulaznih ili izlaznih naknada, godišnjih naknada za upravljanje te naknada vezanih za prinos, koje mogu rezultirati većim troškovima za ulagatelje
+
+2. promjene elemenata vezanih uz ulaganja UCITS fonda navedenih u članku 191. stavku 2. točki a) podtočki 14. ovoga Zakona
+
+3. promjene profila rizičnosti UCITS fonda
+
+4. promjene politike isplate prihoda ili dobiti UCITS fonda imateljima udjela i/ili
+
+5. produljenja trajanja ili skraćivanja trajanja UCITS fonda, kada je on osnovan na određeno vrijeme.«.
+
+#### Članak 32.
+
+U članku 197. stavak 1. mijenja se i glasi:
+
+»(1) Društvo za upravljanje je za promjenu obveznog sadržaja pravila iz članka 198. ovoga Zakona, osim za promjenu organizacijske strukture društva za upravljanje s linijama odgovornosti, dužno ishoditi odobrenje Agencije.«.
+
+#### Članak 33.
+
+U članku 198. točka g) mijenja se i glasi:
+
+»g) postupke naknade štete ulagateljima i/ili UCITS fondu, u skladu s odredbama članka 110. stavka 5. ovoga Zakona«.
+
+#### Članak 34.
+
+U članku 205. stavak 4. briše se.
+
+Dosadašnji stavci 5. i 6. postaju stavci 4. i 5.
+
+Stavak 7. briše se.
+
+#### Članak 35.
+
+U članku 237. stavku 1. točki 2. riječ: »otvaranjem« zamjenjuje se riječju: »pokretanjem«.
+
+#### Članak 36.
+
+U članku 247. stavku 3. riječi: »iz stavka 6. ovoga Zakona« zamjenjuju se riječima: »iz članka 249. stavka 2. ovoga Zakona«.
+
+Stavak 6. briše se.
+
+#### Članak 37.
+
+U članku 248. stavku 2. točki 9. riječi: »stavka 5. ovoga članka« zamjenjuju se riječima: »članka 249. stavka 2. ovoga Zakona«.
+
+Stavak 5. briše se.
+
+#### Članak 38.
+
+Članak 249. mijenja se i glasi:
+
+»(1) Naknade i troškovi iz članaka 247. i 248. ovoga Zakona ne smiju se plaćati iz imovine UCITS fonda ako nisu naznačeni u prospektu UCITS fonda.
+
+(2) Agencija propisuje pravilnikom naknade te troškove koji se mogu plaćati izravno iz imovine UCITS fonda, kao i uvjete za njihovu naplatu, visinu i način izračuna.«.
+
+#### Članak 39.
+
+U članku 250. stavku 1. iza riječi: »na teret UCITS fonda« dodaju se riječi: »osim naknade vezane uz prinos fonda«.
+
+#### Članak 40.
+
+U članku 252. stavku 1. točki 4. riječi: »te koji« zamjenjuju se riječima: »ili daju pravo opoziva i«.
+
+#### Članak 41.
+
+U članku 254. stavku 1. točka 7. mijenja se i glasi:
+
+»7. iznimno od ograničenja iz točke 1. ovoga stavka, najviše 25% neto vrijednosti imovine fonda može biti uloženo u pokrivene obveznice koje izdaju kreditne institucije:
+
+a) ako se na obveznice primjenjuje definicija pokrivenih obveznica iz zakona kojim se uređuje izdavanje i javni nadzor pokrivenih obveznica ili
+
+b) ako su obveznice izdane prije 8. srpnja 2022. i ako su u trenutku njihova izdavanja bili ispunjeni zahtjevi:
+
+– da te obveznice izdaju kreditne institucije koje imaju registrirano sjedište u Republici Hrvatskoj ili drugoj državi članici koje su na temelju posebnog zakona predmetom posebnoga javnog nadzora sa svrhom zaštite ulagatelja u te obveznice i
+
+– da sredstva od izdavanja takvih obveznica moraju biti uložena u skladu s posebnim zakonom u imovinu koja će do dospijeća obveznica omogućiti ispunjenje obveza koje proizlaze iz obveznica i koja bi se, u slučaju neispunjenja obveza izdavatelja, ponajprije iskoristila za isplatu glavnice i stečenih kamata iz tih obveznica.
+
+c) ako je više od 5% neto vrijednosti imovine fonda uloženo u takve obveznice jednog izdavatelja, ukupna vrijednost takvih ulaganja koja čine više od 5% neto vrijednosti imovine fonda ne smije prijeći 80% neto vrijednosti imovine fonda.«.
+
+#### Članak 42.
+
+U članku 259. stavku 2. iza riječi: »prodaje« dodaju se riječi: »i/ili kupnje«.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Ograničenja ulaganja navedena u ovom Zakonu mogu biti prekoračena u razdoblju od šest mjeseci koji prethode datumu prestanka UCITS fonda koji je osnovan na određeno vrijeme, kada su ona rezultat prodaje imovine fonda u svrhu unovčavanja radi ispunjavanja obveze iz članka 342. stavka 3. ovoga Zakona, uz dužno poštivanje načela razdiobe rizika i zaštite interesa imatelja udjela.«.
+
+#### Članak 43.
+
+U naslovu iznad članka 305. riječ: »depozitaru« briše se.
+
+#### Članak 44.
+
+U članku 342. iza stavka 5. dodaje se novi stavak 6. i stavak 7. koji glase:
+
+»(6) Ako društvo za ulaganje ne ispuni obveze iz stavaka 2. i 3. ovoga članka u predviđenim rokovima, UCITS fond osnovan na određeno vrijeme će se nakon datuma prestanka smatrati UCITS fondom u likvidaciji.
+
+(7) Ako društvo za upravljanje utvrdi da neće biti u mogućnosti ispuniti obveze iz stavaka 2. i 3. ovoga članka u predviđenim rokovima, dužno je o tome bez odgode obavijestiti Agenciju i ulagatelje.«.
+
+Dosadašnji stavak 6. postaje stavak 8.
+
+#### Članak 45.
+
+U članku 346. stavku 2. iza prve rečenice dodaje se druga rečenica koja glasi:
+
+»U postupcima iz stavka 1. ovoga članka koje vodi Agencija odlučuje u pravilu bez usmene rasprave.«.
+
+#### Članak 46.
+
+U članku 355. stavku 1. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+#### Članak 47.
+
+U članku 357. stavku 2. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+#### Članak 48.
+
+U članku 359. stavcima 1. i 2. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+#### Članak 49.
+
+U članku 363. stavku 1. točki 2. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+#### Članak 50.
+
+U članku 364. stavku 1. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+U stavku 5. riječi: »nezakonitosti ili nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+#### Članak 51.
+
+Naslov iznad članka 365. mijenja se i glasi: »Otklanjanje utvrđenih nezakonitosti i/ili nepravilnosti«.
+
+U članku 365. stavak 1. mijenja se i glasi:
+
+»(1) Kad Agencija tijekom nadzora utvrdi nezakonitosti i/ili nepravilnosti koje predstavljaju povredu odredbi ovoga Zakona ili na temelju njega donesenih propisa, drugih zakona kojima se uređuje poslovanje subjekata nadzora i propisa na temelju njih, uredbi Europske unije kojima se uređuje poslovanje subjekata nadzora, smjernica europskih nadzornih tijela iz članka 3. ovoga Zakona ili povredu vlastitih poslovnih politika i usvojenih pravila te standarda i pravila struke ili njihovu nedosljednu primjenu, rješenjem će društvu za upravljanje naložiti mjere za otklanjanje utvrđenih nezakonitosti i/ili nepravilnosti ili prestanak postupanja i zabranu svakog daljnjeg postupanja koje predstavlja povredu navedenih propisa.«.
+
+U stavku 2. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+#### Članak 52.
+
+U članku 366. iza riječi: »druge bitnije nezakonitosti« dodaju se riječi: »i/ili nepravilnosti«.
+
+#### Članak 53.
+
+Naslov iznad članka 367. mijenja se i glasi: »Izvještaj o otklanjanju nezakonitosti i/ili nepravilnosti«.
+
+U članku 367. stavku 2. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+U stavku 3. riječi: »nezakonitosti otklonjene« zamjenjuju se riječima: »utvrđene nezakonitosti i/ili nepravilnosti otklonjene«.
+
+U stavku 4. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+#### Članak 54.
+
+U naslovu iznad članka 371. riječ: »Oduzimanje« zamjenjuje se riječju: »Ukidanje«.
+
+U članku 371. stavku 2. točkama 2., 3. i 4. riječ: »oduzima« zamjenjuje se riječju: »ukida«.
+
+#### Članak 55.
+
+U članku 376. stavku 1. točki 2. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+#### Članak 56.
+
+U članku 377. stavku 4. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
+
+#### Članak 57.
+
+U članku 397. stavku 1. točka 8. mijenja se i glasi:
+
+»8. regulatorni kapital društva za upravljanje nije u svakom trenutku veći ili jednak većem od iznosa iz članka 21. stavka 1. ili 3. ovoga Zakona ili stavke općih troškova iz članka 21. stavka 1. točke 2. ovoga Zakona nisu u skladu s odredbama članka 13. Uredbe (EU) br. 2019/2033.«.
+
+U točki 56. iza riječi: »institucije« zarez i riječi: »odnosno štedne banke« brišu se.
+
+Iza točke 107. briše se točka i dodaju se točke 108. do 114. koje glase:
+
+»108. suprotno članku 342. stavku 2. ovoga Zakona ne izračuna cijenu udjela dan prije prestanka postojanja UCITS fonda
+
+109. suprotno članku 342. stavku 3. ovoga Zakona isplatu sredstava koja su izračunata na temelju odredbe stavka 2. istoga članka na račune ulagatelja ne provede u roku od sedam dana nakon prestanka UCITS fonda
+
+110. suprotno članku 342. stavku 5. ovoga Zakona u slučaju prestanka UCITS fonda osnovanog na određeno vrijeme prije datuma prestanka određenog njegovim prospektom ne obavijesti ulagatelje i Agenciju o toj odluci
+
+111. suprotno članku 342. stavku 5. ovoga Zakona u slučaju prestanka UCITS fonda osnovanog na određeno vrijeme prije datuma prestanka određenog njegovim prospektom ulagateljima naplati izlaznu naknadu
+
+112. suprotno članku 343. stavku 1. ovoga Zakona donese odluku o produljenju trajanja UCITS fonda, a ta mogućnost nije predviđena prospektom UCITS fonda
+
+113. suprotno članku 343. stavku 2. ovoga Zakona o odluci o produljenju UCITS fonda ne obavijesti Agenciju i ulagatelje
+
+114. suprotno članku 343. stavku 3. ovoga Zakona odbije otkupiti udjele na dan predviđenog prestanka UCIS fonda ulagateljima koji žele istupiti iz UCITS fonda zbog produljenja njegova trajanja.«.
+
+#### Članak 58.
+
+U članku 398. stavku 1. iza točke 33. dodaju se nove točke 34. do 37. koje glase:
+
+»34. kao društvo za upravljanje iz druge države članice koje u Republici Hrvatskoj za trgovanje udjelima UCITS fonda osnovanog u drugoj državi članici u Republici Hrvatskoj nije osiguralo sustave za obavljanje zadataka iz članka 138. stavka 1. ovoga Zakona
+
+35. kao društvo za upravljanje iz druge države članice sukladno odredbi članka 138. stavka 2. ovoga Zakona učestalo ne dostavlja ulagateljima na njihov zahtjev na trajnom mediju informacije iz stavka 1. istoga članka
+
+36. kao društvo za upravljanje iz druge države članice nije osiguralo da sustavi za obavljanje zadataka iz članka 138. stavaka 1., 2. i 3. ovoga Zakona ispunjavaju uvjete iz točaka a) i b) stavka 5. istoga članka
+
+37. kao društvo za upravljanje iz druge države članice ne postupi na način i u rokovima propisanim odredbom članka 140. stavka 2. ovoga Zakona«.
+
+Iza dosadašnje točke 34., koja postaje točka 38., dodaju se nove točke 39. i 40. koje glase:
+
+»39. kao društvo za upravljanje iz druge države članice koje je povuklo obavijest iz članka 139. ovoga Zakona ulagateljima u Republici Hrvatskoj koji ostanu imatelji udjela u UCITS fondu u odnosu na koji je obavijest povučena ne osigura svu dokumentaciju i informacije koje je dužno osigurati, u skladu s odredbom članka 143.a stavka 4. ovoga Zakona
+
+40. kao društvo za upravljanje iz druge države članice u pogledu osiguranja informacija upotrebom elektroničkih ili drugih sredstava komunikacije iz članka 143.a stavka 4. ovoga Zakona ne postupi sukladno odredbi članka 143.a stavka 5. ovoga Zakona«.
+
+Dosadašnja točka 35. postaje točka 41.
+
+Iza dosadašnje točke 36., koja postaje točka 42., dodaju se nove točke 43. do 48. koje glase:
+
+»43. ne postupi u skladu s odredbom članka 154.a stavka 2. ovoga Zakona na način da o povlačenju obavijesti iz članka 151. stavka 1. ovoga Zakona ne obavijesti Agenciju
+
+44. u informacijama iz članka 154.a stavka 2. točaka a), b) i c) ovoga Zakona ne navede jasno posljedice za ulagatelje ako ne prihvate ponudu za otkupom ili isplatom udjela UCITS fonda, suprotno odredbi članka 154.a stavka 3. ovoga Zakona
+
+45. ne ispunjava dužnosti propisane odredbom članka 154.a stavka 4. ovoga Zakona na način da informacije iz članka 154.a stavka 2. točaka a), b) i c) ovoga Zakona ne objavi na službenom jeziku ili jednom od službenih jezika države članice domaćina UCITS fonda u odnosu na koju je obavijest povučena ili na jeziku koji odobri nadležno tijelo te države članice
+
+46. ne prestane s distribucijom udjela UCITS fonda u odnosu na koji je povučena obavijest u državi članici domaćinu UCITS fonda u odnosu na koju je povučena obavijest suprotno odredbi članka 154.a stavka 5. ovoga Zakona
+
+47. ne osigura ulagateljima koji ostanu imatelji udjela UCITS fonda iz članka 154.a stavka 2. točke c) ovoga Zakona i Agenciji svu dokumentaciju i informacije koje osigurava ulagateljima tog UCITS fonda u Republici Hrvatskoj kako je propisano stavkom 8. istoga članka
+
+48. ako u pogledu osiguranja informacija upotrebom elektroničkih ili drugih sredstava komunikacije iz članka 154.a stavka 8. ovoga Zakona ne postupi sukladno odredbi članka 154.a stavka 9. ovoga Zakona na način da osigura da su informacije i komunikacijska sredstva ulagateljima dostupna na službenom jeziku ili jednom od službenih jezika države članice domaćina UCITS fonda u kojoj se nalaze ulagatelji UCITS fonda ili na jeziku koji su odobrila nadležna tijela te države članice«.
+
+Dosadašnje točke 37. i 38. postaju točke 49. i 50.
+
+Dosadašnje točke 39. i 40., koje postaju točke 51. i 52., mijenjaju se i glase:
+
+»51. ne osigura da je sav promidžbeni sadržaj o UCITS fondovima koji izrađuje ili odobrava za distribuciju u skladu s odredbama članka 4. Uredbe (EU) 2019/1156, protivno članku 157. stavku 1. ovoga Zakona
+
+52. ne osigura da su promidžbeni sadržaj o UCITS fondovima koji izrađuje ili odobrava za daljnju distribuciju odobrile osobe ovlaštene za zastupanje društva za upravljanje, protivno članku 157. stavku 4. ovoga Zakona«.
+
+Dosadašnje točke 41. do 50. postaju točke 53. do 62.
+
+Dosadašnja točka 51. briše se.
+
+Dosadašnje točke 52. do 71. postaju točke 63. do 82.
+
+Dosadašnje točke 72. i 73. brišu se.
+
+#### Članak 59.
+
+U članku 402. stavku 1. točka 10. briše se.
+
+Dosadašnje točke 11. i 12. postaju točke 10. i 11.
+
+#### Članak 60.
+
+U članku 405. stavku 1. riječi: »prekršajnih sudova« zamjenjuju se riječima: »općinskih sudova«, a riječi: »prekršajnog suda« zamjenjuju se riječima: »općinskog suda«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 61.
+
+(1) Agencija će u roku od 12 mjeseci od stupanja na snagu ovoga Zakona uskladiti pravilnike iz članka 22. stavka 2., članka 66., članka 110. stavka 7. i članka 193. stavka 7. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16. i 126/19.) s odredbama ovoga Zakona.
+
+(2) Agencija će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike iz članaka 5. i 38. ovoga Zakona.
+
+(3) Društvo za upravljanje dužno je uskladiti se s odredbama ovoga Zakona u roku od šest mjeseci od stupanja na snagu ovoga Zakona.
+
+#### Članak 62.
+
+Postupci započeti pred Agencijom prije stupanja na snagu ovoga Zakona dovršit će se primjenom odredbi Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16. i 126/19.).
+
+#### Članak 63.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbe članka 157. koji je izmijenjen člankom 28. ovoga Zakona i odredbe članka 398. stavka 1. točaka 51. i 52. koji je izmijenjen člankom 58. ovoga Zakona koje stupaju na snagu 1. siječnja 2023.
+
+Klasa: 022-03/21-01/47
+
+Zagreb, 1. listopada 2021.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom (NN 76/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/76/1117*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom, koji je Hrvatski sabor donio na sjednici 1. srpnja 2022.
+
+Klasa: 011-02/22-02/55
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 1. srpnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM**
+
+#### Članak 1.
+
+U Zakonu o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16., 126/19. i 110/21.) u članku 2. stavku 1. točka 1. mijenja se i glasi:
+
+»1. Direktiva 2009/65/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. o usklađivanju zakona i drugih propisa koji se odnose na subjekte za zajednička ulaganja u prenosive vrijednosne papire (UCITS) (Tekst značajan za EGP) (SL L 302, 17. 11. 2009.), kako je posljednji put izmijenjena Direktivom (EU) 2021/2261 Europskog parlamenta i Vijeća od 15. prosinca 2021. o izmjeni Direktive 2009/65/EZ u pogledu uporabe dokumenata s ključnim informacijama od strane društava za upravljanje subjektima za zajednička ulaganja u prenosive vrijednosne papire (UCITS) (Tekst značajan za EGP) (SL L 455, 20. 12. 2021.) (u daljnjem tekstu: Direktiva 2009/65/EZ)«.
+
+#### Članak 2.
+
+U članku 18. stavku 1. riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »125.000,00 eura«.
+
+#### Članak 3.
+
+U članku 20. stavku 1. riječi: »dvije milijarde kuna« zamjenjuju se riječima: »250.000.000,00 eura«, a riječi: »80.000.000,00 kuna« zamjenjuju se riječima: »10.000.000,00 eura«.
+
+#### Članak 4.
+
+U članku 65. stavku 1. točka 11. briše se.
+
+Dosadašnje točke 12. i 13. postaju točke 11. i 12.
+
+#### Članak 5.
+
+U članku 143.a stavak 1. mijenja se i glasi:
+
+»(1) Društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona može povući obavijest iz članka 139. stavka 1. ovoga Zakona u odnosu na sve ili dio UCITS fondova ili klasa udjela UCITS fondova kojima trguje u Republici Hrvatskoj ako su ispunjeni svi sljedeći uvjeti:
+
+a) društvo za upravljanje dalo je opću ponudu za otkup ili isplatu svih udjela UCITS fonda na koji se odnosi povlačenje obavijesti koje drže ulagatelji u Republici Hrvatskoj, bez naplate naknada za otkup ili isplatu udjela
+
+b) ponuda iz točke a) ovoga stavka javno je dostupna barem 30 radnih dana te ju je društvo za upravljanje izravno ili preko financijskih posrednika pojedinačno uputilo svim ulagateljima u Republici Hrvatskoj, a čiji mu je identitet poznat
+
+c) društvo za upravljanje je na javno dostupnom mediju, koji je uobičajen za oglašavanje UCITS fondova i prikladan za tipičnog ulagatelja u UCITS fond, što uključuje i elektronička sredstva, objavilo namjeru povlačenja obavijesti iz članka 139. stavka 1. ovoga Zakona i navelo UCITS fond u odnosu na koji se obavijest povlači
+
+d) društvo za upravljanje izmijenilo je ili raskinulo ugovore s financijskim posrednicima ili trećim osobama koje obavljaju distribuciju udjela UCITS fonda u odnosu na koji je obavijest povučena, a kako bi se spriječilo njihovo novo ili daljnje, izravno ili neizravno distribuiranje. Izmjene ili raskid ugovora primjenjuju se od dana povlačenja obavijesti iz članka 139. stavka 1. ovoga Zakona.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Društvo za upravljanje dužno je u informacijama iz stavka 1. točaka a), b) i c) ovoga članka jasno navesti posljedice za ulagatelje ako ne prihvate ponudu za otkupom ili isplatom udjela UCITS fonda navedenog u stavku 1. točki c) ovoga članka.«.
+
+Dosadašnji stavak 2., koji postaje stavak 3., mijenja se i glasi:
+
+»(3) Informacije iz stavka 1. točaka a), b) i c) ovoga članka društvo za upravljanje iz članka 137. stavka 1. ovoga Zakona dužno je pripremiti na hrvatskom ili engleskom jeziku.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., iza riječi: »prestati s« dodaju se riječi: »novom ili daljnjom,«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., riječi: »stavka 4.« zamjenjuju se riječima: »stavka 5.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+U dosadašnjem stavku 7., koji postaje stavak 8., ispred riječi: »Agencija« dodaju se riječi: »Neovisno o drugim nadzornim aktivnostima i ovlastima koje ima prema odredbama ovoga Zakona,«.
+
+#### Članak 6.
+
+U članku 144. stavak 1. mijenja se i glasi:
+
+»(1) Udjelima otvorenog investicijskog fonda s javnom ponudom iz treće države u Republici Hrvatskoj može trgovati:
+
+a) društvo za upravljanje iz treće države koje ima odobrenje za upravljanje tim investicijskim fondom, isključivo putem podružnice za koju je dobilo odobrenje Agencije
+
+b) društvo za upravljanje iz druge države članice koje ima odobrenje za upravljanje tim investicijskim fondom, isključivo putem podružnice ili
+
+c) društvo za upravljanje iz Republike Hrvatske koje ima odobrenje za upravljanje tim investicijskim fondom.«.
+
+#### Članak 7.
+
+U članku 147. stavku 1. riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »125.000,00 eura«.
+
+#### Članak 8.
+
+U članku 154. stavku 2. iza riječi: »o tome« dodaju se riječi: »pisanim putem«.
+
+#### Članak 9.
+
+U članku 154.a stavku 2. točki a) iza riječi: »bez« dodaju se riječi: »odbitaka ili«.
+
+U točki d) riječi: »daljnje distribuiranje« zamjenjuju se riječima: »novo, daljnje, izravno ili neizravno distribuiranje«.
+
+#### Članak 10.
+
+Iza članka 203. dodaju se naslov iznad članka i članak 203.a koji glase:
+
+*»Uporaba dokumenta s ključnim informacijama za ulagatelje prema Uredbi (EU) br. 1286/2014*
+
+#### Članak 203.a
+
+(1) Agencija će smatrati da je dokument s ključnim informacijama usklađen sa zahtjevima iz članaka 141., 142., 183., 200. do 203., 208. i 211. ovoga Zakona ako društvo za upravljanje za pojedini UCITS fond kojim upravlja dokument s ključnim informacijama sastavi, dostavi, revidira odnosno prevede dokument s ključnim informacijama u skladu sa zahtjevima za dokumente s ključnim informacijama propisanima Uredbom (EU) br. 1286/2014 Europskog parlamenta i Vijeća od 26. studenoga 2014. o dokumentima s ključnim informacijama za upakirane investicijske proizvode za male ulagatelje i investicijske osigurateljne proizvode (PRIIP-ovi) (Tekst značajan za EGP) (SL L 352, 9. 12. 2014.) (u daljnjem tekstu: Uredba (EU) br. 1286/2014).
+
+(2) Ako društvo za upravljanje za pojedini UCITS fond kojim upravlja sastavi, dostavi, revidira odnosno prevede dokument s ključnim informacijama u skladu sa zahtjevima za dokument s ključnim informacijama propisanima Uredbom (EU) br. 1286/2014, nije dužno izraditi ključne podatke za ulagatelje iz ove glave Zakona.«.
+
+#### Članak 11.
+
+U članku 242. stavku 1. riječi: »5.000.000,00 kuna« zamjenjuju se riječima: »600.000,00 eura«.
+
+#### Članak 12.
+
+U članku 245. stavku 3. riječi: »5.000.000,00 kuna« zamjenjuju se riječima: »600.000,00 eura«.
+
+#### Članak 13.
+
+U članku 252. stavku 1. točki 6. podtočki d) riječi: »80 milijuna kuna« zamjenjuju se riječima: »10 milijuna eura«.
+
+#### Članak 14.
+
+U članku 316. točki 2. riječi: »i sklonost riziku napajajućeg UCITS fonda« brišu se.
+
+U točki 5. iza riječi: »strategije ulaganja« briše se zarez i dodaje riječ: »te«, a riječi: »i sklonost riziku« brišu se.
+
+#### Članak 15.
+
+U članku 336. stavku 1. točki 3. riječi: »5.000.000,00 kuna« zamjenjuju se riječima: »600.000,00 eura«.
+
+#### Članak 16.
+
+U članku 342. stavku 3. riječ: »sedam« zamjenjuje se riječima: »pet radnih«.
+
+#### Članak 17.
+
+U članku 397. stavku 1. točki 56. riječi: »1.000.000,00 kuna« zamjenjuju se riječima: »125.000,00 eura«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Izračunati iznos iz stavka 1. ovoga članka izriče se u iznosu koji je višekratnik broja 1000. Kada je izračunati iznos iz stavka 1. ovoga članka manji od 26.540,00 eura, društvo za upravljanje kaznit će se za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 26.540,00 do 66.360,00 eura.«.
+
+U stavku 4. riječi: »20.000,00 do 40.000.000,00 kuna« zamjenjuju se riječima: »2650,00 do 5.000.000,00 eura«.
+
+#### Članak 18.
+
+U članku 398. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+U točki 39. riječi: »stavka 4.« zamjenjuju se riječima: »stavka 5.«.
+
+U točki 40. riječi: »stavka 5.« zamjenjuju se riječima: »stavka 6.«.
+
+U stavku 2. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 do 3980,00 eura«.
+
+#### Članak 19.
+
+U članku 399. u uvodnoj rečenici riječi: »20.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »2650,00 do 6630,00 eura«.
+
+#### Članak 20.
+
+U članku 400. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 do 3980,00 eura«.
+
+U stavku 3. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 do 3980,00 eura«.
+
+#### Članak 21.
+
+U članku 401. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 do 3980,00 eura«.
+
+#### Članak 22.
+
+U članku 402. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 do 3980,00 eura«.
+
+U stavku 3. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 do 3980,00 eura«.
+
+#### Članak 23.
+
+U članku 403. stavak 2. mijenja se i glasi:
+
+»(2) Izračunati iznos iz stavka 1. ovoga članka izriče se u iznosu koji je višekratnik broja 1000. Kada je izračunati iznos iz stavka 1. ovoga članka manji od 26.540,00 eura, depozitar će se kazniti za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 26.540,00 do 66.360,00 eura.«.
+
+U stavku 4. riječi: »20.000,00 do 40.000.000,00 kuna« zamjenjuju se riječima: »2650,00 do 5.000.000,00 eura«.
+
+#### Članak 24.
+
+U članku 404. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »6630,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 do 3980,00 eura«.
+
+#### Članak 25.
+
+U Zakonu o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 110/21.) u članku 63. riječi: »1. siječnja 2023.« zamjenjuju se riječima: »15. srpnja 2022.«.
+
+### STUPANJE NA SNAGU
+
+#### Članak 26.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 1. i 10. ovoga Zakona koji stupaju na snagu 1. siječnja 2023. te članaka 2., 3., 7., 11. do 13., 15. te 17. do 24. koji stupaju na snagu na dan uvođenja eura kao službene valute Republike Hrvatske.
+
+Klasa: 022-02/22-01/38
+
+Zagreb, 1. srpnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom (NN 152/2024)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2510*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom, koji je Hrvatski sabor donio na sjednici 13. prosinca 2024.
+
+Klasa: 011-02/24-02/95
+
+Urbroj: 71-10-01/1-24-2
+
+Zagreb, 17. prosinca 2024.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM**
+
+#### Članak 1.
+
+U Zakonu o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16., 126/19., 110/21. i 76/22.) u članku 2. stavku 1. točka 1. mijenja se i glasi:
+
+»1. Direktiva 2009/65/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. o usklađivanju zakona i drugih propisa u odnosu na subjekte za zajednička ulaganja u prenosive vrijednosne papire (UCITS) (Tekst značajan za EGP) (SL L 302, 17. 11. 2009.), kako je posljednji put izmijenjena Direktivom (EU) 2022/2556 Europskog parlamenta i Vijeća od 14. prosinca 2022. o izmjeni direktiva 2009/65/EZ, 2009/138/EZ, 2011/61/EU, 2013/36/EU, 2014/59/EU, 2014/65/EU, (EU) 2015/2366 i (EU) 2016/2341 u pogledu digitalne operativne otpornosti za financijski sektor (Tekst značajan za EGP) (SL L 333, 27. 12. 2022.) (u daljnjem tekstu: Direktiva 2009/65/EZ)«.
+
+#### Članak 2.
+
+U članku 4. stavku 1. točka 7. mijenja se i glasi:
+
+»7. depozitar je kreditna institucija ili podružnica kreditne institucije kojoj su odnosno investicijsko društvo i podružnica investicijskog društva kojima su povjereni poslovi propisani odredbama članaka 219., 220. i 221. ovoga Zakona«.
+
+U točki 46. riječi: »točkom 5. podtočkom b)« zamjenjuju se riječima: »točkom 13.«.
+
+Iza točke 53. briše se točka i dodaju se točke 54., 55. i 56. koje glase:
+
+»54. suradnik stjecatelja kvalificiranog udjela u društvu za upravljanje je:
+
+– svaka fizička osoba koja je na rukovodećem položaju u pravnom subjektu u kojem je namjeravani stjecatelj kvalificiranog udjela u društvu za upravljanje na rukovodećem položaju ili stvarni vlasnik nad pravnim subjektom
+
+– svaka fizička osoba koja je stvarni vlasnik pravnog subjekta u kojem je namjeravani stjecatelj kvalificiranog udjela u društvu za upravljanje na rukovodećem položaju
+
+– svaka fizička osoba koja s namjeravanim stjecateljem kvalificiranog udjela u društvu za upravljanje ima zajedničko stvarno vlasništvo nad pravnim subjektom
+
+55. digitalna operativna otpornost je kako je definirano u članku 3. točki 1. Uredbe (EU) br. 2022/2554 Europskog parlamenta i Vijeća od 14. prosinca 2022. o digitalnoj operativnoj otpornosti za financijski sektor i izmjeni uredbi (EZ) br. 1060/2009, (EU) br. 648/2012, (EU) br. 600/2014, (EU) br. 909/2014 i (EU) 2016/1011 (Tekst značajan za EGP) (SL L 333, 27. 12. 2022.) (u daljnjem tekstu: Uredba (EU) 2022/2554)
+
+56. mrežni i informacijski sustav znači mrežni i informacijski sustav definiran člankom 3. točkom 2. Uredbe (EU) br. 2022/2554.«.
+
+#### Članak 3.
+
+U članku 18. stavku 2. riječi: »temeljnih uloga« zamjenjuju se riječima: »poslovnih udjela«.
+
+#### Članak 4.
+
+Članak 31. mijenja se i glasi:
+
+»(1) Odobrenje za rad društva za upravljanje izdano u skladu s ovim Zakonom prestaje važiti:
+
+1. u slučaju dobrovoljnog prestanka obavljanja djelatnosti u skladu s odredbama članaka 96. i 97. ovoga Zakona, prijenosom upravljanja UCITS fondova na drugo društvo za upravljanje ili dovršetkom likvidacije UCITS fondova kojima društvo za upravljanje upravlja
+
+2. danom otvaranja stečajnog postupka nad društvom za upravljanje
+
+3. zaključenjem postupka likvidacije društva za upravljanje i/ili
+
+4. kada društvo prenositelj po provedenom prijenosu upravljanja UCITS fondom Agenciji dostavi obavijest o poduzetim radnjama i postupcima iz članka 89. stavka 2. ovoga Zakona, a društvo prenositelj ne upravlja drugim UCITS fondovima.
+
+(2) Agencija će rješenjem ukinuti zakonito rješenje kojim je izdano odobrenje za rad društvu za upravljanje:
+
+1. ako društvo za upravljanje ne započne obavljati djelatnost upravljanja UCITS fondovima u roku od jedne godine od dana izdavanja odobrenja za rad, istekom navedenoga roka
+
+2. ako društvo za upravljanje uzastopno tijekom šest mjeseci ne obavlja onu djelatnost za koju je odobrenje za rad izdano, istekom navedenoga roka, u odnosu na predmetnu djelatnost
+
+3. ako društvo za upravljanje Agenciji dostavi obavijest u pisanom obliku da više ne namjerava obavljati koju od djelatnosti iz članka 13. stavka 1. ovoga Zakona, u skladu s odredbom članka 96. ovoga Zakona, a pri tome više ne obavlja predmetnu djelatnost u skladu s člankom 97. stavkom 4. ovoga Zakona ili više ne obavlja pomoćnu djelatnost, u odnosu na sve relevantne djelatnosti.
+
+(3) Agencija može ukinuti zakonito rješenje kojim je dano odobrenje za rad društva za upravljanje ako je društvu za upravljanje blokiran račun duže od 30 dana te je dovedena u pitanje njegova likvidnost ili solventnost.
+
+(4) Ako nastupi razlog iz stavka 1. ovoga članka, Agencija donosi rješenje kojim se ukida odobrenje za rad, a u slučajevima iz stavka 1. točaka 2. i 3. ovoga članka i ostala rješenja izdana društvu za upravljanje na temelju odredbi ovoga Zakona od dana nastupanja okolnosti iz stavka 1. ovoga članka.
+
+(5) O prestanku važenja odnosno ukidanju odobrenja za rad Agencija obavještava depozitara i nadležni trgovački sud, a prema potrebi i operatera Fonda za zaštitu ulagatelja i/ili druge institucije.«.
+
+#### Članak 5.
+
+U članku 48. stavku 1. točki 10. iza riječi: »podataka« stavlja se zarez i dodaju riječi: »uključujući i u pogledu mrežnih i informacijskih sustava koje je uspostavilo i kojima upravlja u skladu s pravilima za postizanje digitalne operativne otpornosti u smislu Uredbe (EU) 2022/2554 Europskog parlamenta i Vijeća od 14. prosinca 2022. o digitalnoj operativnoj otpornosti za financijski sektor i izmjeni uredbi (EZ) br. 1060/2009, (EU) br. 648/2012, (EU) br. 600/2014, (EU) br. 909/2014 i (EU) 2016/1011 (Tekst značajan za EGP) (SL L 333, 27. 12. 2022.)«.
+
+#### Članak 6.
+
+U članku 69. iza stavka 5. dodaje se novi stavak 6. koji glasi:
+
+»(6) Društvo za upravljanje će bez odgode obavijestiti Agenciju o prestanku delegiranja poslova koje je dužan obavljati.«.
+
+Dosadašnji stavak 6. postaje stavak 7.
+
+#### Članak 7.
+
+U članku 86. iza točke 2. dodaje se nova točka 3. koja glasi:
+
+»3. kada dolazi do bitnih promjena prospekta i/ili pravila UCITS, zahtjev za izdavanje odobrenja za bitne promjene prospekta i/ili pravila UCITS fonda čije se upravljanje prenosi«.
+
+Dosadašnja točka 3. postaje točka 4.
+
+#### Članak 8.
+
+U članku 88. stavku 1. točke b) i c) mijenjaju se i glase:
+
+»b) informaciju o svim postupcima i radnjama koje će se poduzeti u vezi s prijenosom upravljanja, uključujući i obavijest o bitnim promjenama prospekta i pravila UCITS fonda kada takve promjene postoje, uz naznaku datuma kada će se upravljanje prenijeti na drugo društvo za upravljanje u skladu s člankom 85. stavkom 3. točkom 2. ovoga Zakona te naznaku datuma kada će bitne promjene prospekta kada do njih dolazi stupiti na snagu u skladu s člankom 193. stavkom 6. ovoga Zakona i
+
+c) podatak o pravu ulagatelja UCITS fonda koji se prenosi u skladu s člankom 85. stavkom 5. ovoga Zakona te podatak o pravu ulagatelja u skladu s člankom 193. stavkom 4. ovoga Zakona, uz naznaku datuma do kojeg mogu podnijeti zahtjeve za otkup udjela bez plaćanja izlazne naknade.«.
+
+#### Članak 9.
+
+Članak 96. mijenja se i glasi:
+
+»(1) Društvo za upravljanje može prestati obavljati svoju registriranu djelatnost tako da glavna skupština odnosno skupština Društva donese odluku o prestanku obavljanja djelatnosti te Društvo najkasnije u roku od pet dana od donošenja takve odluke o tome obavijesti depozitara UCITS fondova kojima upravlja te Agenciju.
+
+(2) Uz dostavljenu obavijest Društvo je dužno dostaviti Agenciji odluku o dobrovoljnom prestanku obavljanja djelatnosti, informacije i dokumentaciju o poduzetim radnjama vezano za prestanak obavljanja predmetne/ih djelatnosti, a za pomoćne djelatnosti iz članka 13. stavka 1. točke 2. ovoga Zakona i dokaze iz kojih proizlazi da su obavljene sve radnje za prestanak obavljanja predmetne/predmetnih djelatnosti.
+
+(3) Prilikom donošenja odluke o dobrovoljnom prestanku obavljanja registrirane djelatnosti društvo za upravljanje dužno je pridržavati se odredbi članka 17. ovoga Zakona.«.
+
+#### Članak 10.
+
+U članku 97. stavak 3. mijenja se i glasi:
+
+»(3) U slučajevima iz stavaka 1. i 2. ovoga članka prijenosom upravljanja UCITS fondovima na drugo društvo za upravljanje odnosno dovršetkom postupka likvidacije UCITS fondova društvu za upravljanje prestaje važiti izdano odobrenje za rad, o čemu Agencija donosi rješenje iz članka 31. stavka 1. ovoga Zakona.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ako društvo za upravljanje nema fondova pod upravljanjem u trenutku donošenja odluke o prestanku obavljanja djelatnosti, Agencija će rješenjem ukinuti zakonito rješenje kojim je društvu za upravljanje izdano odobrenje za rad.«.
+
+#### Članak 11.
+
+U članku 109. stavak 1. mijenja se i glasi:
+
+»(1) UCITS fondovi kojima upravlja isto društvo za upravljanje ne smiju zajedno niti pojedinačno biti imatelji više od 25 % dionica s pravom glasa jednog te istog izdavatelja.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) UCITS fond ne smije biti imatelj:
+
+a) više od 10 % dionica bez prava glasa jednog te istog izdavatelja
+
+b) više od 10 % dužničkih vrijednosnih papira koje je izdao jedan te isti izdavatelj
+
+c) više od 25 % udjela pojedinoga investicijskog fonda ili
+
+d) više od 10 % instrumenata tržišta novca koje je izdao jedan te isti izdavatelj.«.
+
+U dosadašnjem stavku 2., koji postaje stavak 3., riječi: »iz stavka 1.« zamjenjuju se riječima: »iz stavaka 1. i 2.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., riječi: »točke a)« brišu se.
+
+#### Članak 12.
+
+U članku 144. stavku 5. točki 1. riječi: »članaka 35. i 36.« zamjenjuju se riječima: »članaka 36. i 37.«.
+
+#### Članak 13.
+
+Članak 216. mijenja se i glasi:
+
+»(1) Društvo za upravljanje dužno je za svaki UCITS fond kojim upravlja izabrati depozitara u skladu s odredbama ovoga Zakona te s njim sklopiti pisani ugovor o obavljanju poslova depozitara određenih ovim Zakonom.
+
+(2) UCITS fond može imati samo jednog depozitara.
+
+(3) Depozitar UCITS fonda osnovanog u Republici Hrvatskoj mora biti osnovan ili imati podružnicu u Republici Hrvatskoj.
+
+(4) Depozitar UCITS fonda može biti:
+
+1. kreditna institucija sa sjedištem u Republici Hrvatskoj, koja ima odobrenje u skladu s odredbama zakona kojim se uređuje osnivanje i rad kreditnih institucija za obavljanje poslova pohrane i administriranja financijskih instrumenata za račun klijenta, uključujući i poslove skrbništva i s tim povezane usluge, kao na primjer upravljanje novčanim sredstvima, odnosno instrumentima osiguranja ili
+
+2. podružnica kreditne institucije iz druge države članice, osnovana u Republici Hrvatskoj u skladu s odredbama zakona kojim se uređuje osnivanje i rad kreditnih institucija, koja ima odobrenje nadležnog tijela te države članice za obavljanje poslova pohrane i administriranja financijskih instrumenata za račun klijenta, uključujući i poslove skrbništva i s tim povezane usluge, kao na primjer upravljanje novčanim sredstvima odnosno instrumentima osiguranja ili
+
+3. podružnica kreditne institucije iz treće države, osnovana u Republici Hrvatskoj u skladu s odredbama zakona kojim se uređuje osnivanje i rad kreditnih institucija, koja ima odobrenje Hrvatske narodne banke za obavljanje poslova pohrane i administriranja financijskih instrumenata za račun klijenta, uključujući i poslove skrbništva i s tim povezane usluge, kao na primjer upravljanje novčanim sredstvima odnosno instrumentima osiguranja ili
+
+4. investicijsko društvo sa sjedištem u Republici Hrvatskoj, koje ima minimalni temeljni kapital od 750.000,00 eura i podliježe zahtjevima u vezi s adekvatnosti kapitala u skladu sa zakonom kojim se uređuje tržište kapitala te u skladu s Uredbom (EU) 2019/2033, te koje ima odobrenje Agencije za obavljanje poslova skrbništva i s tim povezanih usluga, kao na primjer upravljanje novčanim sredstvima odnosno instrumentima osiguranja ili
+
+5. podružnica investicijskog društva iz druge države članice, osnovana u Republici Hrvatskoj u skladu s odredbama zakona kojim se uređuje osnivanje i poslovanje investicijskih društava, koja ima minimalni temeljni kapital od 750.000,00 eura i podliježe zahtjevima u vezi s adekvatnosti kapitala u skladu sa zakonom kojim se uređuje tržište kapitala, a u skladu s Uredbom (EU) 2019/2033 te koje ima odobrenje nadležnog tijela matične države članice za obavljanje poslova skrbništva i s tim povezanih usluga, kao na primjer upravljanje novčanim sredstvima odnosno instrumentima osiguranja i odobrenje za obavljanje poslova depozitara u skladu s propisom kojim su u nacionalno zakonodavstvo matične države članice investicijskog društva prenesene odredbe Direktive 2009/65/EZ.
+
+(5) Depozitar iz stavka 4. točaka 2., 3. i 5. ovoga Zakona dužan je ustrojiti adekvatnu organizacijsku strukturu i uspostaviti sustav upravljanja podružnicom koji će osigurati da se poslovi depozitara obavljaju samostalno u podružnici neovisno od sjedišta kreditne institucije.
+
+(6) Depozitar mora trajno ispunjavati sve organizacijske zahtjeve i uvjete potrebne za obavljanje poslova depozitara prema odredbama ovoga Zakona.
+
+(7) Upravitelji depozitara UCITS fonda moraju imati dobar ugled i odgovarajuće iskustvo u odnosu na UCITS fond za koji se obavljaju poslovi depozitara.
+
+(8) Upraviteljima depozitara smatraju se osobe odgovorne za poslovanje organizacijske jedinice koja obavlja poslove depozitara unutar subjekata iz stavka 4. ovoga članka ili osobe koje mogu utjecati na poslovnu politiku subjekata iz stavka 3. ovoga članka, u dijelu obavljanja poslova depozitara.«.
+
+#### Članak 14.
+
+Iza članka 216. dodaju se članci 216.a do 216.d s naslovima iznad njih koji glase:
+
+### »Odobrenje za rad investicijskom društvu za obavljanje poslova depozitara
+
+#### Članak 216.a
+
+(1) Zahtjev za izdavanje odobrenja podnosi se Agenciji.
+
+(2) Agencija izdaje odobrenje investicijskom društvu za obavljanje poslova depozitara na temelju zahtjeva iz stavka 1. ovoga članka.
+
+(3) Agencija će izdati odobrenje investicijskom društvu za obavljanje poslova depozitara ako su ispunjeni svi sljedeći uvjeti:
+
+1. uvjeti iz članka 216. stavka 4. ovoga Zakona koji se odnose na potrebni temeljni kapital, regulatorni kapital i vrstu usluga koje je investicijsko društvo ovlašteno obavljati u skladu s odredbama zakona kojim se uređuje tržište kapitala
+
+2. uvjeti koji se odnose na dodatne organizacijske i tehničke zahtjeve iz članka 216.d ovoga Zakona i pravilnika iz članka 217. stavka 3. ovoga Zakona
+
+3. upravitelji depozitara UCITS fonda u smislu članka 216. stavka 7. ovoga Zakona imaju dobar ugled i odgovarajuće iskustvo u odnosu na UCITS fond za koji se obavljaju poslovi depozitara
+
+4. ustrojeni su svi mehanizmi koji osiguravaju da će biti ispunjeni uvjeti iz ovoga Zakona koji se odnose na obveze i poslove depozitara koji su propisani ovim Zakonom, kao i Delegiranom uredbom Komisije (EU) 2016/438 оd 17. prosinca 2015. o dopuni Direktive 2009/65/EZ Europskog parlamenta i Vijeća o obvezama depozitara (Tekst značajan za EGP) (SL L 78, 24. 3. 2016.)
+
+5. iz programa aktivnosti depozitara iz stavka 6. ovog članka, kao i drugih podataka iz zahtjeva iz stavka 1. ovoga članka, Agencija može utvrditi da su svi uvjeti propisani ovim Zakonom ispunjeni
+
+6. uvjeti propisani zakonom kojim se uređuje tržište kapitala vezano uz obavljanje dodatnih djelatnosti koje prema ocjeni Agencije ne utječu negativno na obavljanje investicijskih usluga i aktivnosti.
+
+(4) Uz zahtjev iz stavka 1. ovoga članka investicijsko društvo Agenciji podnosi i zahtjev za izdavanje odobrenja za obavljanje dodatnih djelatnosti investicijskog društva sukladno zakonu kojim se uređuje tržište kapitala.
+
+(5) Agencija će o zahtjevima iz stavka 4. ovoga članka odlučivati istodobno.
+
+(6) Program aktivnosti depozitara mora obuhvaćati najmanje sljedeće cjeline:
+
+a) detaljan opis aktivnosti za koje se traži odobrenje
+
+b) detaljan opis ljudskih resursa koji će biti posvećeni poslovima depozitara
+
+c) podatke o dobrom ugledu i odgovarajućem iskustvu upravitelja depozitara UCITS fonda
+
+d) potvrdu investicijskog društva o kontinuiranom ispunjavanju uvjeta za rad koji su propisani zakonom kojim se uređuje tržište kapitala, uključujući i onih koji se odnose na primjerenost članova uprave, nadzornog odbora i imatelja kvalificiranih udjela, kao i važeći podatak o svim članovima upravljačkog tijela te imateljima kvalificiranih udjela
+
+e) detaljan opis uspostavljenog prikladnog sustava za prikupljanje svih podataka o UCITS fondovima za koje će se obavljati usluge depozitara te relevantnih podataka o društvu za upravljanje, a koji su prijeko potrebni za obavljanje poslova depozitara
+
+f) detaljan opis načina obavljanja kontrolnih poslova iz članka 219. ovoga Zakona
+
+g) detaljan opis načina obavljanja poslova praćenja tijeka novca UCITS fonda iz članka 220. ovoga Zakona
+
+h) detaljan opis načina obavljanja poslova pohrane i vođenja imovine UCITS fonda iz članaka 221. do 223. ovoga Zakona
+
+i) detaljan opis poslova koji su delegirani trećim osobama, sukladno članku 224. ovoga Zakona
+
+j) detaljan opis mehanizama interne kontrole
+
+k) podatak o broju UCITS fondova i društava za upravljanje kojima planiraju pružati usluge depozitara
+
+l) podatak o broju alternativnih investicijskih fondova i društava za upravljanje alternativnim investicijskim fondovima kojima planiraju pružati usluge depozitara ili se one već pružaju sukladno zakonu kojim se uređuje osnivanje i poslovanje alternativnih investicijskih fondova.
+
+(7) Odobrenje investicijskom društvu za obavljanje poslova depozitara vrijedi za obavljanje djelatnosti na području Republike Hrvatske te se na njega ne odnose prava prekograničnog pružanja usluga sukladno zakonu kojim se uređuje tržište kapitala.
+
+(8) Agencija pravilnikom detaljnije uređuje sadržaj zahtjeva iz stavka 1. ovoga članka, pobliže određuje uvjete za izdavanje odobrenja propisane stavkom 3. ovoga članka i kriterije za procjenu ispunjavanja tih uvjeta te sadržaj programa aktivnosti depozitara iz stavka 3. točke 5. ovoga članka.
+
+### Rokovi za odlučivanje o zahtjevu i odbijanje zahtjeva
+
+#### Članak 216.b
+
+(1) O zahtjevima iz članka 216.a stavaka 1. i 4. ovoga Zakona Agencija će odlučiti u roku od 60 dana od dana zaprimanja urednog zahtjeva.
+
+(2) Zahtjev je uredan ako sadrži sve podatke potrebne za odlučivanje propisane člankom 216.a ovoga Zakona i pravilnikom iz članka 216.a stavka 8. ovoga Zakona.
+
+(3) Agencija će rješenjem odbiti zahtjev za izdavanje odobrenja investicijskom društvu za obavljanje poslova depozitara ako nisu ispunjeni uvjeti iz članka 216.a stavka 3. ovoga Zakona ili ako nisu ispunjeni uvjeti propisani zakonom kojim se uređuje tržište kapitala vezano obavljanje dodatnih djelatnosti koje prema ocjeni Agencije ne utječu negativno na obavljanje investicijskih usluga i aktivnosti.
+
+### Ukidanje odobrenja investicijskom društvu za obavljanje poslova depozitara
+
+#### Članak 216.c
+
+Agencija će rješenjem ukinuti odobrenje investicijskom društvu za obavljanje poslova depozitara izdano u skladu s člankom 216.a ovoga Zakona u sljedećim slučajevima:
+
+1. ako u slučaju provedene obnove postupka utvrdi da je odobrenje izdano na temelju neistinitih ili netočnih podataka ili izjava bitnih za donošenje tog rješenja
+
+2. ako depozitar prestane ispunjavati uvjete pod kojima je odobrenje izdano
+
+3. ako Agencija utvrdi da depozitar ne ispunjava svoje dužnosti u skladu s preuzetim obvezama i/ili odredbama ovoga Zakona, osobito u odnosu na delegirane poslove
+
+4. ako postoje okolnosti koje dovode u sumnju sposobnost depozitara za uredno, pravodobno i kvalitetno ispunjenje dužnosti u skladu s preuzetim obvezama odnosno odredbama ovoga Zakona
+
+5. ako depozitar sustavno i/ili teško krši odredbe ovoga Zakona ili prospekta UCITS fonda ili
+
+6. kada Agencija opravdano sumnja da društvo za upravljanje i depozitar djeluju u dosluhu na štetu interesa ulagatelja u UCITS fond.
+
+### Organizacijski i tehnički zahtjevi
+
+#### Članak 216.d
+
+Investicijsko društvo koje obavlja poslove depozitara mora zadovoljavati sljedeće minimalne organizacijske i tehničke zahtjeve:
+
+a) imati potrebnu infrastrukturu za pohranu imovine UCITS fonda za koji će obavljati poslove depozitara
+
+b) uspostaviti adekvatne administrativne i računovodstvene postupke, mehanizme unutarnje kontrole, djelotvorne postupke procjene rizika te djelotvorne mehanizme nadzora i zaštite sustava za obradu podataka, a vezano za obavljanje poslova depozitara
+
+c) uspostaviti i provoditi djelotvorne organizacijske i upravljačke sustave u svrhu poduzimanja svih razumnih mjera usmjerenih na sprečavanje sukoba interesa, a koji mogu proizaći iz obavljanja poslova depozitara
+
+d) osigurati vođenje evidencija za sve usluge, djelatnosti i transakcije koje obavlja u sklopu obavljanja poslova depozitara
+
+e) poduzimati razumne mjere za osiguranje kontinuiteta i pravilnosti u obavljanju poslova depozitara upotrebom primjerenih i proporcionalnih sustava, resursa i postupaka
+
+f) upravitelji depozitara moraju imati znanja, vještine i iskustvo vezano za obavljanje poslova depozitara, a kako bi mogli razumjeti glavne rizike koji proizlaze iz obavljanja poslova depozitara.«.
+
+#### Članak 15.
+
+U članku 237. stavku 1. točka 3. mijenja se i glasi:
+
+»3. kada je depozitar kreditna institucija, ako bude donijeto rješenje kojim se ukida odobrenje za rad kreditnoj instituciji od strane nadležnog tijela koje je odobrenje izdalo«.
+
+Iza točke 3. dodaju se točke 4. i 5. koje glase:
+
+»4. kada je depozitar investicijsko društvo, ako Agencija donese rješenje kojim se ukida odobrenje za rad tog investicijskog društva ili ukida odobrenje za pružanje usluge za pružanje pomoćne usluge pohrane i administriranja financijskih instrumenata za račun klijenta u skladu s odredbama zakona kojim se uređuje tržište kapitala ili
+
+5. kada je depozitar investicijsko društvo, ako Agencija donese rješenje kojim se ukida odobrenje za rad tog investicijskog društva za obavljanje poslova depozitara izdano u skladu s člankom 216.a ovoga Zakona.«.
+
+#### Članak 16.
+
+U članku 245. iza stavka 10. dodaje se stavak 11. koji glasi:
+
+»(11) Uspješnim okončanjem početne ponude udjela u UCITS fondu smatrat će se i uplata minimalnog iznosa dovoljnog za početak rada fonda (engl. seed money), na način da se osigura prelazak definiranog praga najniže vrijednosti imovine UCITS fonda. O navedenom će društvo za upravljanje obavijestiti ulagatelje te Agenciju u skladu s odredbom stavka 10. ovoga članka.«.
+
+#### Članak 17.
+
+U članku 261. iza stavka 8. dodaje se stavak 9. koji glasi:
+
+»(9) Na osnivanje podfonda na odgovarajući se način primjenjuju odredbe članaka 243. i 244. ovoga Zakona.«.
+
+#### Članak 18.
+
+U članku 355. iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+
+»(6) Uprava subjekta nadzora dužna je bez odgode dopunu zapisnika o obavljenom nadzoru dostaviti nadzornom odboru u skladu s odredbom članka 46. stavka 1. točke 2. ovoga Zakona.
+
+(7) Na dopunu zapisnika na odgovarajući se način primjenjuju odredbe iz stavaka 2. i 3. ovoga članka.«.
+
+Dosadašnji stavci 6. i 7. postaju stavci 8. i 9.
+
+#### Članak 19.
+
+U članku 375. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Kada poslove depozitara obavljaju subjekti iz članka 216. stavka 4. točaka 2., 3. i 5. ovoga Zakona, Agencija je nadležna i za nadzor nad raspodjelom poslova depozitara između podružnice i sjedišta depozitara, a kako bi se izbjeglo moguće zaobilaženje zahtjeva za osnivanjem depozitara u matičnoj državi članici UCITS fonda.«.
+
+#### Članak 20.
+
+Naslov iznad članka 376. mijenja se i glasi: »Nadzorne mjere i posebne nadzorne mjere koje Agencija može izreći depozitaru«.
+
+#### Članak 21.
+
+Iza članka 376. dodaju se članci 376.a i 376.b koji glase:
+
+»Članak 376.a
+
+(1) Agencija je ovlaštena depozitaru izreći posebne nadzorne mjere iz stavka 2. ovoga članka:
+
+1. ako depozitar nije postupio u skladu s rješenjem kojim Agencija nalaže mjere za otklanjanje nezakonitosti i nepravilnosti iz članka 376. ovoga Zakona
+
+2. ako nije uspostavio, ne provodi ili redovito ne održava organizacijske, tehničke, kadrovske ili druge uvjete za obavljanje poslova depozitara propisane ovim Zakonom i podzakonskim propisima i/ili drugim relevantnim propisima
+
+3. u drugim slučajevima kada Agencija utvrdi kršenje odredbi ovoga Zakona i/ili relevantnih propisa, a takva mjera je potrebna kako bi se takvo kršenje obustavilo i/ili uspostavilo zakonito postupanje i/ili osiguralo poštivanje odredbi ovoga Zakona i/ili drugih relevantnih propisa.
+
+(2) Ako nastupe okolnosti iz stavka 1. ovoga članka, Agencija može izreći rješenjem sljedeće posebne nadzorne mjere:
+
+1. naložiti depozitaru da uspostavi, provodi ili poboljša organizacijske, tehničke, kadrovske ili druge uvjete za obavljanje poslova depozitara propisane ovim Zakonom i podzakonskim propisima i/ili drugim relevantnim propisima
+
+2. naložiti depozitaru poboljšanje politika i procesa upravljanja rizicima ili obavljanja poslova depozitara
+
+3. naložiti depozitaru da u daljnjem poslovanju smanjuje rizike koji su povezani s poslovanjem depozitara
+
+4. naložiti depozitaru da promjeni, smanji ili prestane obavljati određenu aktivnost za koju Agencija utvrdi da je prouzročila znatne gubitke ili da predstavlja veliki rizik za obavljanje poslova depozitara
+
+5. naložiti da depozitar suspendira jednu ili više osoba s posebnim pravima ili odgovornostima ili
+
+6. naložiti depozitaru druge razmjerne mjere koje su potrebne da bi depozitar poslovao u skladu s odredbama ovoga Zakona i propisima donesenim na temelju ovoga Zakona ili na temelju drugih zakona kojima se uređuje poslovanje depozitara i propisa donesenih na temelju njih.
+
+(3) Agencija može rješenjem iz stavka 2. ovoga članka odrediti primjeren rok za poduzimanje mjera iz stavka 2. ovoga članka.
+
+(4) Depozitar je dužan Agenciji dostaviti izvještaj o provedbi naloženih mjera iz stavka 2. ovoga članka, na koji se na odgovarajući način primjenjuju odredbe članka 366. i članka 367. stavaka 1. do 3. ovoga Zakona.
+
+#### Članak 376.b
+
+Ako je donošenje mjera iz članka 376.a ovoga Zakona potrebno radi zaštite ulagatelja i/ili javnog interesa, a radi se o mjerama koje se ne mogu odgađati te su činjenice na kojima se mjera temelji utvrđene ili su barem učinjene vjerojatnim, Agencija može o njima neposredno riješiti.«.
+
+#### Članak 22.
+
+U članku 397. stavku 1. točke 50. do 54. mijenjaju se i glase:
+
+»50. su UCITS fondovi, zajedno ili pojedinačno, suprotno članku 109. stavku 1. ovoga Zakona, imatelji više od 25 % dionica s pravom glasa jednog te istog izdavatelja
+
+51. je UCITS fond, suprotno članku 109. stavku 2. točki a) ovoga Zakona, imatelj više od 10 % dionica bez prava glasa jednog te istog izdavatelja
+
+52. je UCITS fond, suprotno članku 109. stavku 2. točki b) ovoga Zakona, imatelj više od 10 % dužničkih vrijednosnih papira koje je izdao jedan te isti izdavatelj
+
+53. je UCITS fond, suprotno članku 109. stavku 2. točki c) ovoga Zakona, imatelj više od 25 % udjela pojedinoga investicijskog fonda
+
+54. je UCITS fond, suprotno članku 109. stavku 2. točki d) ovoga Zakona, imatelj više od 10 % instrumenata tržišta novca koje je izdao jedan te isti izdavatelj«.
+
+#### Članak 23.
+
+U članku 398. stavku 1. iza točke 23. dodaju se nove točke 24. i 25. koje glase:
+
+»24. Agenciji ne dostavi odluku o dobrovoljnom prestanku obavljanja djelatnosti, informacije i dokumentaciju o poduzetim radnjama vezano za prestanak obavljanja predmetne/predmetnih djelatnosti, a za pomoćne djelatnosti iz članka 13. stavka 1. točke 2. ovoga Zakona i dokaze iz kojih proizlazi da su obavljene sve radnje za prestanak obavljanja predmetne/predmetnih djelatnosti, u skladu s odredbama članka 96. stavka 2. ovoga Zakona
+
+25. se prilikom donošenja odluke o dobrovoljnom prestanku obavljanja registrirane djelatnosti društvo za upravljanje ne pridržava odredbi članka 17. ovoga Zakona, u skladu s odredbama članka 96. stavka 3. ovoga Zakona«.
+
+Dosadašnje točke 24. do 82. postaju točke 26. do 84.
+
+#### Članak 24.
+
+U članku 399. iza točke 6. dodaje se točka 7. koja glasi:
+
+»7. članovi uprave društva za upravljanje ako bez odgode ne dostave dopunu zapisnika o obavljenom nadzoru nadzornom odboru u skladu s odredbom članka 46. stavka 1. točke 2. ovoga Zakona u skladu s odredbama članka 355. stavka 6. ovoga Zakona.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 25.
+
+Agencija će u roku od 12 mjeseci od stupanja na snagu ovoga Zakona uskladiti Pravilnik o obavljanju poslova depozitara UCITS fonda (»Narodne novine«, br. 41/17. i 139/20.) s odredbama ovoga Zakona.
+
+#### Članak 26.
+
+Postupci započeti prema odredbama Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16., 126/19., 110/21. i 76/22.) dovršit će se prema odredbama toga Zakona.
+
+#### Članak 27.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 5. koji stupa na snagu 17. siječnja 2025.
+
+Klasa: 022-02/24-01/89
+
+Zagreb, 13. prosinca 2024.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom (NN 13/2026)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2026/13/119*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o otvorenim investicijskim fondovima s javnom ponudom, koji je Hrvatski sabor donio na sjednici 29. siječnja 2026.
+
+Klasa: 011-02/26-02/08  
+Urbroj: 71-10-01/1-26-2  
+Zagreb, 2. veljače 2026.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OTVORENIM INVESTICIJSKIM FONDOVIMA S JAVNOM PONUDOM**
+
+#### Članak 1.
+
+U Zakonu o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16., 126/19., 110/21., 76/22. i 152/24.) u članku 2. stavku 1. točka 1. mijenja se i glasi:
+
+»1. Direktiva 2009/65/EZ Europskog parlamenta i Vijeća od 13. srpnja 2009. o usklađivanju zakona i drugih propisa u odnosu na subjekte za zajednička ulaganja u prenosive vrijednosne papire (UCITS) (preinačena) (Tekst značajan za EGP) (SL L 302, 17. 11. 2009.), kako je posljednji put izmijenjena Direktivom (EU) 2024/2994 Europskog parlamenta i Vijeća od 27. studenoga 2024. o izmjeni direktiva 2009/65/EZ, 2013/36/EU i (EU) 2019/2034 u pogledu tretmana koncentracijskog rizika koji proizlazi iz izloženosti prema središnjim drugim ugovornim stranama te rizika druge ugovorne strane za transakcije izvedenicama čije poravnanje obavlja središnja druga ugovorna strana (Tekst značajan za EGP) (SL L, 2024/2994, 4. 12. 2024.) (u daljnjem tekstu: Direktiva 2009/65/EZ)«.
+
+Na kraju točke 9. briše se točka i dodaje točka 10. koja glasi:
+
+»10. Direktiva (EU) 2023/2864 Europskog Parlamenta i Vijeća od 13. prosinca 2023. o izmjeni određenih direktiva u pogledu uspostave i funkcioniranja jedinstvene europske pristupne točke (Tekst značajan za EGP) (SL L, 2023/2864, 20. 12. 2023.) (u daljnjem tekstu: Direktiva (EU) 2023/2864).«.
+
+#### Članak 2.
+
+U članku 4. stavku 1. na kraju točke 56. briše se točka i dodaju se točke 57. do 64. koje glase:
+
+»57. pripajanje je radnja u kojoj jedan ili više UCITS fondova ili njegovih podfondova (fond prenositelj) prenosi cjelokupnu imovinu, prava i obveze na drugi postojeći UCITS fond ili njegov podfond (fond preuzimatelj), pri čemu fond prenositelj prestaje postojati bez provođenja likvidacije, u zamjenu za izdavanje udjela fonda preuzimatelja ulagateljima fonda prenositelja i novčanu isplatu koja ne smije prelaziti 10 % vrijednosti njihovih udjela u fondu preuzimatelju
+
+58. spajanje je radnja u kojoj dva ili više UCITS fondova ili njegovih podfondova (fond prenositelj) prenose cjelokupnu imovinu, prava i obveze na novi UCITS fond koji se osniva (fond preuzimatelj), pri čemu fondovi prenositelji prestaju postojati bez provođenja likvidacije, u zamjenu za izdavanje udjela fonda preuzimatelja ulagateljima fondova prenositelja i novčanu isplatu koja ne smije prelaziti 10 % vrijednosti njihovih udjela u fondu preuzimatelju
+
+59. prekogranično pripajanje ili spajanje je pripajanje ili spajanje UCITS fondova od kojih su barem dva UCITS fonda osnovana u različitim državama članicama ili su osnovana u istoj državi članici, a spajaju se u novi UCITS fond osnovan u drugoj državi članici
+
+60. domaće pripajanje ili spajanje je pripajanje ili spajanje između UCITS fondova osnovanih u Republici Hrvatskoj, pri čemu se udjeli barem jednog od UCITS fondova distribuiraju u Republici Hrvatskoj
+
+61. središnji depozitorij vrijednosnih papira je središnji depozitorij vrijednosnih papira kako je definiran u članku 2. stavku 1. točki 1. Uredbe (EU) br. 909/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o poboljšanju namire vrijednosnih papira u Europskoj uniji i o središnjim depozitorijima vrijednosnih papira te izmjeni direktiva 98/26/EZ i 2014/65/EU te Uredbe (EU) br. 236/2012 (Tekst značajan za EGP) (SL L 257, 28. 8. 2014.) (u daljnjem tekstu: Uredba (EU) br. 909/2014)
+
+62. središnja druga ugovorna strana ili CCP je CCP kako je definiran u članku 2. točki 1. Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (Tekst značajan za EGP) (SL L 201, 27. 7. 2012.) (u daljnjem tekstu: Uredba (EU) br. 648/2012)
+
+63. Uredba (EU) 2023/2859 je Uredba (EU) 2023/2859 Europskog parlamenta i Vijeća od 13. prosinca 2023. o uspostavi jedinstvene europske pristupne točke za centralizirani pristup javno dostupnim informacijama koje su od važnosti za financijske usluge, tržišta kapitala i održivost (Tekst značajan za EGP) (SL L, 2023/2859, 20. 12. 2023.)
+
+64. Uredba (EU) 2016/1011 je Uredba (EU) 2016/1011 Europskog parlamenta i Vijeća od 8. lipnja 2016. o indeksima koji se upotrebljavaju kao referentne vrijednosti u financijskim instrumentima i financijskim ugovorima ili za mjerenje uspješnosti investicijskih fondova i o izmjeni direktiva 2008/48/EZ i 2014/17/EU te Uredbe (EU) br. 596/2014 (Tekst značajan za EGP) (SL L 171, 29. 6. 2016.).«.
+
+#### Članak 3.
+
+U članku 7. stavak 1. mijenja se i glasi:
+
+»(1) Niti jedna osoba, bilo pravna ili fizička, ne može osnovati niti upravljati UCITS fondom ako za to nije dobila odobrenje Agencije ili nadležnog tijela matične države članice.«.
+
+#### Članak 4.
+
+Iza članka 9. dodaju se naslov iznad članka i članak 9.a koji glase:
+
+*»Dostava dokumenata i izvješća Agenciji*
+
+#### Članak 9.a
+
+Dokumenti i izvješća koje društvo za upravljanje dostavlja Agenciji u skladu s ovim Zakonom sastavljaju se i dostavljaju na hrvatskom jeziku.«.
+
+#### Članak 5.
+
+Naslov iznad članka 13. mijenja se i glasi: »Djelatnosti i usluge društva za upravljanje«.
+
+U članku 13. stavak 1. mijenja se i glasi:
+
+»(1) Djelatnost i usluge društva za upravljanje su:
+
+– osnovna djelatnost – upravljanje UCITS fondovima
+
+– dodatne usluge:
+
+1. upravljanje portfeljem, prema odredbama zakona kojim se uređuje tržište kapitala
+
+2. pomoćne usluge:
+
+a) investicijsko savjetovanje, u vezi s financijskim instrumentima prema odredbama zakona kojim se uređuje tržište kapitala
+
+b) pohrana i administriranje, u vezi s udjelima u investicijskom fondu
+
+c) zaprimanje i prijenos naloga u vezi s financijskim instrumentima
+
+d) bilo koja druga funkcija ili djelatnost koju društvo za upravljanje već obavlja u vezi s UCITS fondom kojim upravlja u skladu sa stavkom 1. podstavkom 1. ovoga članka ili u vezi s uslugama koje pruža u skladu s podstavkom 2. ovoga članka, pod uvjetom da se svakim mogućim sukobom interesa prouzročenim obavljanjem te funkcije ili djelatnosti drugim stranama upravlja na odgovarajući način
+
+3. upravljanje referentnim vrijednostima u skladu s Uredbom (EU) 2016/1011 i/ili
+
+4. obavljanje poslova servisera u skladu s Uredbom (EU) 2017/2402.«.
+
+U stavku 2. uvodna rečenica mijenja se i glasi:
+
+»(2) Osim obavljanja djelatnosti i pružanja usluga iz stavka 1. ovoga članka društvo za upravljanje može obavljati i sljedeće djelatnosti:«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Za pružanje usluge iz stavka 1. podstavka 2. točke 3. ovoga članka društvo za upravljanje dužno je uz odobrenje za rad u skladu s ovim Zakonom od Agencije dobiti i odobrenje za rad odnosno registraciju u skladu s Uredbom (EU) 2016/1011.«.
+
+#### Članak 6.
+
+U članku 14. stavku 1. u uvodnoj rečenici iza riječi: »djelatnosti« dodaju se riječi: »i usluge«.
+
+#### Članak 7.
+
+U članku 15. stavak 1. mijenja se i glasi:
+
+»(1) Društvo za upravljanje može obavljati djelatnosti i usluge društva za upravljanje iz članka 13. ovoga Zakona za koje je dobilo odobrenje Agencije i upisalo ih kao djelatnost u sudski registar, a poslove iz članka 13. stavka 1. podstavka 2. točke 4. ovoga Zakona može obavljati uz prethodnu obavijest Agenciji.«.
+
+U stavku 2. iza riječi: »djelatnosti« dodaju se riječi: »i usluge«.
+
+U stavku 4. iza riječi: »djelatnost« dodaju se riječi: »i usluge«.
+
+#### Članak 8.
+
+U članku 16. stavak 2. mijenja se i glasi:
+
+»(2) Društvo za upravljanje koje pruža usluge iz članka 13. stavka 1. podstavka 2. točke 1. i točke 2. podtočaka a), b) i c) ovoga Zakona dužno je, uz odredbe ovoga Zakona, poštivati i odredbe zakona koji uređuje tržište kapitala i propisa donesenih na temelju toga zakona koji se odnose na visinu kapitala, organizacijske zahtjeve, sukob interesa, uvjete poslovanja i zaštitu klijenata, postupanje s nalogom klijenta i izvršavanje naloga, pravila poslovnog ponašanja prema klijentima kod pružanja ovih investicijskih usluga te zaštitu ulagatelja i nadzor nad pružanjem investicijskih usluga, a kako je to propisano zakonom kojim se uređuje tržište kapitala.«.
+
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+
+»(6) Društvo za upravljanje koje pruža uslugu upravljanja referentnim vrijednostima iz članka 13. stavka 1. podstavka 2. točke 3. ovoga Zakona dužno je uz odredbe ovoga Zakona primjenjivati i odredbe Uredbe (EU) 2016/1011.
+
+(7) Društvo za upravljanje koje obavlja poslove servisera iz članka 13. stavka 1. podstavka 2. točke 4. ovoga Zakona dužno je uz odredbe ovoga Zakona primjenjivati i odredbe Uredbe (EU) 2017/2402.«.
+
+#### Članak 9.
+
+U članku 17. stavku 1. riječi: »obavljanje djelatnosti upravljanja portfeljem, djelatnosti investicijskog savjetovanja i/ili djelatnosti pohrane i administriranja« zamjenjuju se riječima: »pružanje usluga iz članka 13. stavka 1. podstavka 2. ovoga Zakona«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Društvu za upravljanje ne može se izdati odobrenje za rad koje sadržava odobrenje za pružanje usluge upravljanja referentnim vrijednostima u skladu s Uredbom (EU) 2016/1011 iz članka 13. stavka 1. podstavka 2. točke 3. ovoga Zakona koje koristi UCITS fond kojim upravlja.«.
+
+#### Članak 10.
+
+U članku 23. stavak 5. mijenja se i glasi:
+
+»(5) Ako društvo za upravljanje namjerava, uz djelatnost upravljanja UCITS fondovima, pružati jednu ili više dodatnih usluga iz članka 13. stavka 1. podstavka 2. ovoga Zakona, u okviru zahtjeva iz stavka 4. ovoga članka, mora zatražiti izdavanje odobrenja i za pružanje predmetnih usluga.«.
+
+#### Članak 11.
+
+U članku 24. stavku 1. riječi: »obavljanje djelatnosti« zamjenjuju se riječima: »pružanje usluga«.
+
+#### Članak 12.
+
+U članku 25. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Uz zahtjev za izdavanje odobrenja za rad društvu za upravljanje podnositelj zahtjeva dužan je priložiti:
+
+– poslovni plan s organizacijskom strukturom društva za upravljanje koja uključuje opis ljudskih i tehničkih resursa dodijeljenih različitim planiranim aktivnostima društva za upravljanje te sljedeće informacije o članovima uprave:
+
+a) opis funkcije i nadležnosti članova uprave
+
+b) opis linija izvješćivanja i zaduženja članova uprave u društvu za upravljanje i izvan njega
+
+c) pregled količine vremena koje članovi uprave posvećuju svakom svom zaduženju
+
+d) informacije o tome kako društvo za upravljanje namjerava ispuniti svoje obveze propisane ovim Zakonom i obveze koje ima na temelju članka 3. stavka 1., članka 6. stavka 1. točke a) i članka 13. stavka 1. Uredbe (EU) 2019/2088 Europskog parlamenta i Vijeća od 27. studenoga 2019. o objavama povezanim s održivosti u sektoru financijskih usluga (Tekst značajan za EGP) (SL L 317, 9. 12. 2019.) te detaljan opis odgovarajućih ljudskih i tehničkih resursa kojima će društvo za upravljanje osigurati ispunjavanje navedenih obveza
+
+– informacije o postupcima delegiranja i poddelegiranja poslova na treće osobe u skladu s člankom 69. ovoga Zakona, a koje uključuju minimalno sljedeće:
+
+a) tvrtku ili naziv i OIB ili drugu odgovarajuću identifikacijsku oznaku društva za upravljanje
+
+b) za svaku treću osobu kojoj su delegirani poslovi:
+
+1. tvrtku ili naziv i OIB ili drugu odgovarajuću identifikacijsku oznaku
+
+2. nadležnost suda ili drugog tijela države članice u kojoj ima sjedište
+
+3. nadzorno tijelo treće osobe, ako ga ima
+
+c) detaljan opis ljudskih i tehničkih resursa koje će društvo za upravljanje koristiti za:
+
+1. obavljanje svakodnevnih poslova upravljanja portfeljem i/ili imovinom UCITS fondova te upravljanja rizicima u društvu za upravljanje
+
+2. praćenje i nadziranje delegiranih poslova
+
+d) za svaki UCITS fond kojim upravlja ili namjerava upravljati:
+
+1. kratak opis delegirane funkcije upravljanja imovinom, uključujući informaciju je li delegiranje djelomično ili potpuno
+
+2. kratak opis delegirane funkcije upravljanja rizicima, uključujući informaciju je li delegiranje djelomično ili potpuno
+
+e) opis periodičkog provođenja mjera dubinske analize koje društvo za upravljanje treba provoditi radi praćenja delegiranih poslova ili aktivnosti.«.
+
+U dosadašnjem stavku 2., koji postaje stavak 3., u drugoj rečenici iza riječi: »odredbama« dodaju se riječi: »stavka 2. ovoga članka i«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 13.
+
+Iznad članka 28. dodaje se naslov koji glasi: »Promjena uvjeta pod kojima je društvu za upravljanje izdano odobrenje za rad«.
+
+U članku 28. stavak 2. mijenja se i glasi:
+
+»(2) Društvo za upravljanje dužno je izvijestiti Agenciju o svim predloženim odnosno planiranim značajnim promjenama podataka i uvjeta pod kojima mu je izdano odobrenje za rad, a osobito o značajnim promjenama podataka koji su dostavljeni uz zahtjev za izdavanje odobrenja za rad, najmanje 30 dana prije provođenja ili od nastanka značajnih promjena podataka i uvjeta pod kojima je izdano odobrenje za rad.«.
+
+#### Članak 14.
+
+U članku 31. stavku 2. točke 2. i 3. mijenjaju se i glase:
+
+»2. ako društvo za upravljanje uzastopno tijekom šest mjeseci ne obavlja djelatnost iz članka 13. stavka 1. podstavka 1. i stavka 2. ovoga Zakona za koje je odobrenje za rad izdano ili ne pruža dodatne usluge iz članka 13. stavka 1. podstavka 2. ovoga Zakona za koje je odobrenje za rad izdano, istekom navedenoga roka u odnosu na predmetnu djelatnost odnosno uslugu
+
+3. ako društvo za upravljanje Agenciji dostavi obavijest u pisanom obliku da više ne namjerava obavljati djelatnost iz članka 13. stavka 1. podstavka 1. ovoga Zakona, u skladu s odredbom članka 96. ovoga Zakona, a pri tome više ne obavlja predmetnu djelatnost u skladu s člankom 97. stavkom 4. ovoga Zakona, u odnosu na predmetnu djelatnosti i povezane dodatne usluge.«.
+
+Iza točke 3. dodaje se točka 4. koja glasi:
+
+»4. ako društvo za upravljanje Agenciji dostavi obavijest u pisanom obliku, u skladu s odredbom članka 96. ovoga Zakona, da više ne namjerava pružati neku od dodatnih usluga iz članka 13. stavka 1. podstavka 2. ovoga Zakona, ali obavlja djelatnost upravljanja UCITS fondovima, u odnosu na dodatnu uslugu.«.
+
+#### Članak 15.
+
+U članku 35. stavak 3. mijenja se i glasi:
+
+»(3) Jedan član uprave društva za upravljanje mora imati prebivalište ili stalni boravak u Republici Hrvatskoj i dužan je voditi poslove društva za upravljanje s područja Republike Hrvatske, dok drugi članovi uprave mogu imati prebivalište ili stalni boravak u drugoj državi članici i s područja te države voditi poslove društva za upravljanje.«.
+
+#### Članak 16.
+
+U članku 36. stavku 1. točka 2. mijenja se i glasi:
+
+»2. nije bila član uprave u društvu za upravljanje, odnosno društvu iz članka 37. stavka 1. ovoga Zakona kada je nad njim otvoren stečajni postupak, donesena odluka o prisilnoj likvidaciji ili kojem je poništeno ili ukinuto odobrenje za rad, i to najmanje pet godina od dana otvaranja stečajnog postupka odnosno od dana donošenja odluke o prisilnoj likvidaciji ili kojem je poništeno ili ukinuto odobrenje za rad, osim ako Agencija ocijeni da ta osoba nije svojim nesavjesnim ili nestručnim radom i postupanjem utjecala na prouzročenje stečajnog postupka, prisilne likvidacije, poništavanje ili ukidanje odobrenja za rad«.
+
+Točka 3. briše se.
+
+Dosadašnje točke 4. do 8. postaju točke 3. do 7.
+
+Dosadašnja točka 9., koja postaje točka 8., mijenja se i glasi:
+
+»8. ispunjava uvjete iz članka 37. ovoga Zakona«.
+
+Dosadašnja točka 10. postaje točka 9.
+
+U dosadašnjoj točki 11., koja postaje točka 10., iza riječi: »člana uprave« dodaju se riječi: »zbog razloga iz članka 42. stavka 1. točaka 4. do 7. ovoga Zakona«.
+
+Dosadašnja točka 12. postaje točka 11.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Pod iskustvom iz stavka 1. točke 1. ovoga članka podrazumijeva se najmanje trogodišnje iskustvo u upravi, rukovođenju organizacijskim dijelovima ili radu na radnim mjestima s visokim stupnjem samostalnosti u društvu za upravljanje, društvu za upravljanje alternativnim investicijskim fondovima, kreditnoj instituciji, investicijskom društvu, mirovinskom društvu, mirovinskom osiguravajućem društvu ili društvu za osiguranje i reosiguranje sa sjedištem u Republici Hrvatskoj ili u drugoj državi članici, tijelu nadležnom za nadzor financijskih institucija ili u odgovarajućem tijelu državne uprave odnosno iskustvo rukovođenja financijskim poslovima na razini uprave, neposredno ispod uprave ili na radnim mjestima s visokim stupnjem samostalnosti u drugim institucijama ili pravnim osobama koje su prema zakonu kojim se uređuje računovodstvo poduzetnika razvrstane u velike ili srednje poduzetnike odnosno drugo odgovarajuće iskustvo u skladu s pravilnikom iz stavka 8. ovoga članka.«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Najmanje dva člana uprave društva za upravljanje moraju voditi poslovanje društva za upravljanje u punom radnom vremenu.«.
+
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Članovi uprave društva za upravljanje iz stavka 4. ovoga članka moraju biti u radnom odnosu s društvom za upravljanje ili moraju na drugi način dokazati da u punom radnom vremenu obavljaju funkciju člana uprave društva za upravljanje.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+U dosadašnjem stavku 6., koji postaje stavak 7., u podstavku 4. riječi: »(»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15., 101/17. i 118/18.)« zamjenjuju se riječima: »(»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15., 101/17., 118/18., 126/19., 84/21., 114/22., 114/23., 36/24. i 136/25.)«.
+
+U podstavku 5. riječi: »(»Narodne novine«, br. 111/93., 34/99., 121/99., 52/00., 118/03., 107/07., 146/08., 137/09., 125/11., 152/11., 111/12., 68/13., 110/15. i 40/19.)« zamjenjuju se riječima: »(»Narodne novine«, br. 111/93., 34/99., 121/99., 52/00., 118/03., 107/07., 146/08., 137/09., 125/11., 152/11. – pročišćeni tekst, 111/12., 68/13., 110/15., 40/19., 34/22., 114/22., 18/23., 130/23. i 136/24.)«.
+
+Podstavak 6. briše se.
+
+Dosadašnji stavci 7. i 8. postaju stavci 8. i 9.
+
+#### Članak 17.
+
+U članku 37. stavku 2. iza riječi: »burze« dodaju se riječi: »te član nadzornog odbora društava iz stavka 1. ovoga članka, ako su ta društva članice iste grupacije kao društvo za upravljanje.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimka iz stavka 2. ovoga članka ne odnosi se na kreditnu instituciju i/ili investicijsko društvo koje obavlja poslove depozitara fondova kojima društvo za upravljanje upravlja.«.
+
+#### Članak 18.
+
+U članku 44. stavak 2. mijenja se i glasi:
+
+»(2) Smatra se da je uvjet iz stavka 1. ovoga članka ispunjen ako osoba ima najmanje trogodišnje iskustvo vođenja ili nadzora nad vođenjem poslova odnosno rada na radnim mjestima s visokim stupnjem samostalnosti u društvu za upravljanje ili društvu za upravljanje alternativnim investicijskim fondovima, mirovinskom društvu, kreditnoj instituciji, mirovinskom osiguravajućem društvu, društvu za osiguranje i reosiguranje ili investicijskom društvu sa sjedištem u Republici Hrvatskoj ili u drugoj državi članici, tijelu nadležnom za nadzor financijskih institucija ili u odgovarajućem tijelu državne uprave ili iskustvo vođenja ili nadzora nad vođenjem poslova trgovačkog društva odgovarajuće veličine odnosno drugo odgovarajuće iskustvo u skladu s pravilnikom iz stavka 5. ovoga članka.«.
+
+#### Članak 19.
+
+U članku 47. iza stavka 2. dodaju se novi stavak 3. i stavak 4. koji glase:
+
+»(3) Ako društvo za upravljanje upravlja ili namjerava upravljati UCITS fondom na inicijativu treće osobe, uključujući slučajeve kada taj UCITS fond koristi ime treće osobe koja je inicijator ili kada društvo za upravljanje delegira poslove u skladu s člankom 70. ovoga Zakona na treću osobu koja je inicijator, društvo za upravljanje dužno je, uzimajući u obzir eventualne sukobe interesa, Agenciji bez odgode dostaviti detaljna objašnjenja i dokaze o usklađenosti sa stavkom 1. točkom 5. ovoga članka.
+
+(4) Društvo za upravljanje iz stavka 3. ovoga članka dužno je posebno navesti razumne korake koje je poduzelo kako bi spriječilo sukobe interesa koji proizlaze iz odnosa s trećom osobom ili, ako se ti sukobi interesa ne mogu spriječiti, kako ih utvrđuje, njima upravlja, prati i, prema potrebi, objavljuje, a kako bi spriječilo da oni negativno utječu na interese UCITS fonda i njegovih ulagatelja.«.
+
+Dosadašnji stavak 3. postaje stavak 5.
+
+#### Članak 20.
+
+U članku 50. stavcima 1., 2. i 5. riječi: »obavlja djelatnost« zamjenjuju se riječima: »pruža uslugu«, a riječi: »iz članka 13. stavka 1. točke 2. podtočke a)« zamjenjuju se riječima: »iz članka 13. stavka 1. podstavka 2. točke 1.«.
+
+#### Članak 21.
+
+U članku 51. stavak 1. mijenja se i glasi:
+
+»(1) Društvo za upravljanje dužno je prilikom internog raspoređivanja funkcija osigurati da su viši rukovoditelji i osobe koje obavljaju nadzornu funkciju odgovorni za usklađenost s obvezama propisanima odredbama ovoga Zakona i propisima donesenim na temelju ovoga Zakona.«.
+
+U stavku 2. uvodna rečenica mijenja se i glasi:
+
+»(2) Društvo za upravljanje dužno je osigurati da njegovi viši rukovoditelji:«.
+
+Iza točke 6. dodaje se točka 7. koja glasi:
+
+»7. odgovaraju za integriranje rizika održivosti u aktivnosti iz točaka 1. do 6. ovoga stavka.«.
+
+U stavku 4. iza riječi: »propisima« stavlja se zarez i dodaje riječ: »sastavljena«, a riječi: »stavcima 5., 6. i 7.« zamjenjuju se riječima: »stavkom 7.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Društvo za upravljanje dužno je osigurati da njegovi viši rukovoditelji zaprimaju i operativna izvješća kontrolnih funkcija iz stavka 6. ovoga Zakona.«.
+
+U stavku 6. uvodna rečenica mijenja se i glasi:
+
+»(6) Operativno izvješće kontrolne funkcije, ovisno o poslovima koje ta kontrolna funkcija obavlja, sadrži:«.
+
+#### Članak 22.
+
+U članku 56. stavak 2. mijenja se i glasi:
+
+»(2) Društvo za upravljanje dužno je usvojiti, primjenjivati, dokumentirati i redovito ažurirati učinkovite i sveobuhvatne politike upravljanja rizicima u svrhu utvrđivanja:
+
+a) rizika povezanih s poslovanjem društva za upravljanje i ulaganjima UCITS fondova kojima upravlja
+
+b) doprinosa rizika pojedine pozicije u UCITS fondu sveukupnom profilu rizičnosti pojedinog UCITS fonda i
+
+c) prihvatljive razine rizika za svaki identificirani rizik kojemu je izloženo ili bi moglo biti izloženo društvo za upravljanje i pojedini UCITS fond kojim upravlja.«.
+
+Stavci 3. i 4. brišu se.
+
+Dosadašnji stavci 5. i 6. postaju stavci 3. i 4.
+
+Dosadašnji stavak 7., koji postaje stavak 5., mijenja se i glasi:
+
+»(5) Društvo za upravljanje dužno je nadzirati, ocjenjivati, preispitivati i ažurirati primjerenost, sveobuhvatnost i učinkovitost politike upravljanja rizicima.«.
+
+Dosadašnji stavak 8., koji postaje stavak 6., mijenja se i glasi:
+
+»(6) Društvo za upravljanje dužno je politiku upravljanja rizicima dokumentirati i na zahtjev Agencije dostaviti bez odgode.«.
+
+Dosadašnji stavak 9. briše se.
+
+Dosadašnji stavak 10. postaje stavak 7.
+
+Dosadašnji stavak 11., koji postaje stavak 8., mijenja se i glasi:
+
+»(8) Društvo za upravljanje dužno je u procesu upravljanja rizicima odrediti profil rizičnosti UCITS fondova kojima upravlja, doprinose rizika pojedinih pozicija u UCITS fondu cjelokupnom profilu rizičnosti pojedinog UCITS fonda i utvrditi prihvatljivi stupanj rizika.«.
+
+Dosadašnji stavci 12., 13. i 14. postaju stavci 9., 10. i 11.
+
+#### Članak 23.
+
+U članku 57. stavku 3. točki 3. brišu se riječi: »društva za upravljanje i«.
+
+U točki 4. podtočki c) riječi: »između postojeće razine izloženosti rizicima i unaprijed određenog profila rizičnosti te« zamjenjuju se riječima: »društva za upravljanje s«.
+
+U točki 5. riječi: »društva za upravljanje i« brišu se.
+
+#### Članak 24.
+
+Iza članka 57. dodaju se naslov iznad članka i članak 57.a koji glase:
+
+*»Alati za upravljanje likvidnošću*
+
+#### Članak 57.a
+
+(1) Društvima za upravljanje dostupni su najmanje sljedeći alati za upravljanje likvidnošću UCITS fonda:
+
+1. obustava izdavanja, otkupa i isplata (engl. Suspension of subscriptions, repurchases and redemption) udjela UCITS fonda koja znači da privremeno nije dopušteno izdavanje, otkup i isplata udjela UCITS fonda
+
+2. ograničenje isplate (engl. Redemption gate) koje znači privremeno i djelomično ograničenje prava imatelja udjela UCITS fonda da zahtijevaju isplatu svojih udjela tako da ulagatelji mogu zahtijevati isplatu samo određenog dijela svojih udjela UCITS fonda
+
+3. produljenje rokova za prethodnu obavijest (engl. Extension of notice period) koja znači produljenje roka za prethodnu obavijest koju imatelji udjela UCITS fonda moraju dati društvu za upravljanje nakon minimalnog roka primjerenog za pojedinačni UCITS fond pri otkupu njihovih udjela
+
+4. naknada za isplatu (engl. Redemption fee) koja znači naknadu, u okviru unaprijed određenog raspona kojim se uzima u obzir trošak likvidnosti, a koju imatelji udjela UCITS fonda plaćaju UCITS fondu pri otkupu udjela i kojom se osigurava da imatelji udjela koji ostaju u UCITS fondu ne budu nepravedno stavljeni u nepovoljan položaj
+
+5. zaštitno prilagođavanje cijena (engl. Swing pricing) koje znači unaprijed utvrđeni mehanizam kojim se neto vrijednost udjela odnosno cijena udjela UCITS fonda prilagođava primjenom faktora (»faktor zaštitnog prilagođavanja«) koji odražava trošak likvidnosti
+
+6. dvostruko određivanje cijena (engl. Dual pricing) koje znači unaprijed utvrđeni mehanizam kojim se cijene izdavanja, otkupa i isplate udjela UCITS fonda određuju prilagodbom neto vrijednosti udjela odnosno cijene udjela UCITS fonda faktorom koji odražava trošak likvidnosti
+
+7. naknada za sprječavanje razvodnjavanja (engl. Anti-dilution levy) koja znači naknadu koju imatelj udjela UCITS fonda plaća UCIT fondu u vrijeme izdavanja, otkupa ili isplate udjela, a kojom se UCITS fondu nadoknađuje trošak likvidnosti koji je nastao zbog veličine te transakcije i kojom se osigurava da drugi imatelji udjela nisu nepravedno stavljeni u nepovoljan položaj
+
+8. isplata u naravi (engl. Redemption in kind) koja znači prijenos imovine koju drži UCITS fond, umjesto gotovine, a kako bi se ispunili zahtjevi za otkup udjela i isplatu imatelja udjela UCITS fonda
+
+9. računi za odvajanje nelikvidne imovine (engl. Side pockets) koji znače odvajanje određene imovine UCITS fonda čije su se gospodarske ili pravne značajke znatno promijenile ili su postale neizvjesne zbog iznimnih okolnosti od ostale imovine UCITS fonda.
+
+(2) Društvo za upravljanje dužno je odabrati najmanje dva odgovarajuća alata za upravljanje likvidnošću iz stavka 1. točaka 2. do 8. ovoga članka, nakon procjene primjerenosti tih alata u skladu sa strategijom ulaganja, profilom likvidnosti i politikom otkupa UCITS fonda, pri čemu ne može odabrati samo alate iz stavka 1. točaka 5. i 6. ovoga članka.
+
+(3) Društvo za upravljanje dužno je u pravilima i prospektu UCITS fonda navesti koje je alate za upravljanje iz stavka 1. točaka 2. do 8. ovoga članka odabralo za moguću primjenu u interesu ulagatelja UCITS fonda.
+
+(4) Iznimno od stavka 2. ovoga članka, društvo za upravljanje može za novčani fond kojim upravlja odabrati samo jedan alat za upravljanje likvidnošću iz stavka 1. točaka 2. do 8. ovoga članka.
+
+(5) Društvo za upravljanje dužno je usvojiti i primjenjivati detaljne politike i procedure za aktivaciju i deaktivaciju svakog odabranog alata za upravljanje likvidnošću, kao i operativne i administrativne mjere za primjenu odabranih alata.
+
+(6) Društvo za upravljanje dužno je obavijestiti Agenciju o odabiru iz stavka 2. ovoga članka te joj dostaviti politike i procedure iz stavka 5. ovoga članka, u roku od pet radnih dana od njihova usvajanja.
+
+(7) Isplata u naravi iz stavka 2. točke 8. ovoga članka može se aktivirati samo za ispunjavanje zahtjeva za otkup i isplatu udjela UCITS fonda od strane profesionalnih ulagatelja i ako odgovara razmjernom udjelu imovine koju drži UCITS fond.
+
+(8) Iznimno od stavka 7. ovoga članka, isplata u naravi ne mora odgovarati razmjernom udjelu imovine koju drži UCITS fond ako se UCITS fond nudi isključivo profesionalnim ulagateljima ili ako se radi o ETF-u čijim se udjelima trguje na uređenom tržištu i čija je investicijska strategija replicirati sastav određenog dioničkog indeksa ili indeksa dužničkih vrijednosnih papira.«.
+
+#### Članak 25.
+
+U članku 65. stavku 1. točki 3. iza riječi: »djelatnosti« dodaju se riječi: »i usluga«.
+
+U točki 6. riječi: »i popis svih trećih osoba s kojima depozitar ima sklopljen ugovor o delegiranju poslova iz članka 221. ovoga Zakona« brišu se.
+
+U točki 10. riječ: »mjesečni« zamjenjuje se s riječju: »kvartalni«.
+
+#### Članak 26.
+
+U članku 66. točki 12. veznik: »i« briše se i dodaje se točka na kraju rečenice.
+
+Točka 13. briše se.
+
+#### Članak 27.
+
+U članku 68. stavku 3. riječi: »najviše sedam« zamjenjuju se riječima: »najviše deset«.
+
+#### Članak 28.
+
+Članak 69. mijenja se i glasi:
+
+»(1) Društvo za upravljanje koje namjerava delegirati trećim osobama da u njegovo ime obavljaju jedan ili više poslova iz članka 13. stavka 3. ovoga Zakona ili pružaju usluge iz članka 13. stavka 1. podstavka 2. ovoga Zakona dužno je o tome obavijestiti Agenciju prije nego što delegiranje stupi na snagu.
+
+(2) O delegiranju poslova i/ili usluga iz stavka 1. ovoga članka društvo za upravljanje i treća osoba sklapaju ugovor u pisanom obliku. Ugovorom mora biti određeno da je treća osoba dužna omogućiti provođenje nadzora nad delegiranim poslom i/ili uslugom od strane radnika Agencije.
+
+(3) Ugovor o delegiranju poslova iz stavka 2. ovoga članka ne može stupiti na snagu bez obavještavanja Agencije.
+
+(4) Društvo za upravljanje dužno je na svojim mrežnim stranicama objaviti podatak o poslovima i uslugama koji su delegirani na treću osobu, kao i o identitetu treće osobe. Ako treća osoba dalje delegira obavljanje delegiranih poslova i usluga, prema odredbama članka 72. ovoga Zakona, društvo za upravljanje na svojim mrežnim stranicama objavit će i taj podatak, uz identitet te osobe, sljedeći radni dan od dana stupanja na snagu toga ugovora.
+
+(5) Društvo za upravljanje bez odgode će obavijestiti Agenciju o prestanku delegiranja poslova i/ili usluga iz stavka 1. ovoga članka.
+
+(6) Agencija će pravilnikom detaljnije propisati postupak delegiranja poslova i usluga na treće osobe od strane društva za upravljanje te sadržaj ugovora o delegiranju poslova.«.
+
+#### Članak 29.
+
+Članak 70. mijenja se i glasi:
+
+»(1) Delegiranje poslova i usluga na treće osobe moguće je samo uz ispunjenje sljedećih uvjeta:
+
+a) delegiranje se provodi iz objektivnih razloga i isključivo radi povećanja učinkovitosti obavljanja tih poslova i/ili usluga
+
+b) uzimajući u obzir prirodu poslova i usluga koje se delegiraju, treća osoba kojoj se delegira obavljanje poslova ili pružanje usluga mora biti osposobljena i u mogućnosti obavljati poslove i pružati usluge koje joj se delegiraju
+
+c) ovlaštene osobe treće osobe moraju imati dobar ugled te stručne kvalifikacije i iskustvo potrebno za obavljanje delegiranih poslova
+
+d) društvo za upravljanje mora dokazati da je treća osoba kvalificirana i sposobna za obavljanje delegiranih poslova, da je izabrana primjenom dužne pažnje i da društvo za upravljanje može u svako doba učinkovito nadzirati obavljanje delegiranih poslova
+
+e) društvo za upravljanje kontinuirano će nadzirati treću osobu u obavljanju delegiranih poslova i usluga
+
+f) društvo za upravljanje ne smije delegirati poslove ili usluge na treće osobe do te mjere da se više ne može smatrati društvom koje upravlja UCITS fondovima odnosno društvom koje pruža usluge iz članka 13. stavka 1. podstavka 2. ovoga Zakona (»poštanski sandučić«)
+
+g) poslovi i usluge ne smiju se delegirati na osobu čiji interesi mogu biti u sukobu s interesima društva za upravljanje, UCITS fonda ili njegovih ulagatelja odnosno klijenata društva za upravljanje
+
+h) delegiranjem se ne umanjuje učinkovitost nadzora nad društvom za upravljanje i UCITS fondovima
+
+i) delegiranjem se ne smiju ugroziti interesi ulagatelja i UCITS fonda odnosno klijenata društva za upravljanje
+
+j) društvo za upravljanje i dalje ostaje u potpunosti odgovorno za obavljanje delegiranih poslova ili usluga
+
+k) u prospektu UCITS fonda naveden je popis poslova i usluga koji su delegirani na treću osobu i osoba na koju su oni delegirani i
+
+l) društvu za upravljanje mora biti omogućeno da u bilo kojem trenutku može trećoj osobi na koju je delegiralo obavljanje poslova ili pružanje usluga dati daljnju uputu ili raskinuti ugovor o delegiranju s trenutačnim učinkom kada je to u interesu ulagatelja i klijenata.
+
+(2) Iznimno od stavka 1. ovoga članka, ako distribuciju udjela UCITS fonda iz članka 13. stavka 3. točke 5. ovoga Zakona obavlja jedan ili više distributera koji djeluju u svoje ime i koji distribuiraju udjele UCITS fonda na temelju zakona kojim se uređuje tržište kapitala odnosno propisa kojim su u nacionalno zakonodavstvo druge države članice prenesene odredbe Direktive 2014/65/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o tržištu financijskih instrumenata i izmjeni Direktive 2002/92/EZ i Direktive 2011/61/EU (preinaka) (Tekst značajan za EGP) (SL L 173, 12. 6. 2014.) ili putem investicijskih proizvoda osiguranja na temelju zakona kojim se uređuje poslovanje društava za osiguranje odnosno propisa kojim su u nacionalno zakonodavstvo druge države članice prenesene odredbe Direktive (EU) 2016/97 Europskog parlamenta i Vijeća od 20. siječnja 2016. o distribuciji osiguranja (preinačeni tekst) (Tekst značajan za EGP) (SL L 26, 2. 2. 2016.), takav se posao ne smatra delegiranjem koje podliježe zahtjevima iz stavka 1. ovoga članka bez obzira na postojanje ugovora o distribuciji između društva za upravljanje i distributera.
+
+(3) Društvo za upravljanje dužno je osigurati da se delegirani poslovi i usluge obavljaju odnosno pružaju u skladu s odredbama ovoga Zakona i pravilnika donesenih na temelju ovoga Zakona, bez obzira na regulatorni status ili lokaciju treće osobe kojoj su poslovi i usluge delegirani ili poddelegirani.«.
+
+#### Članak 30.
+
+U članku 86. stavku 1. točki 2. veznik: »i« briše se.
+
+#### Članak 31.
+
+U članku 90. stavku 1. točki 1. iza riječi: »sve djelatnosti« dodaju se riječi: »i dodatne usluge«.
+
+#### Članak 32.
+
+U članku 96. stavak 2. mijenja se i glasi:
+
+»(2) Uz dostavljenu obavijest Društvo je dužno dostaviti Agenciji odluku o dobrovoljnom prestanku obavljanja djelatnosti upravljanja UCITS fondom, informacije i dokumentaciju o poduzetim radnjama vezano za prestanak obavljanja navedene djelatnosti, a za dodatne usluge iz članka 13. stavka 1. podstavka 2. ovoga Zakona i dokaze iz kojih proizlazi da su obavljene sve radnje za prestanak obavljanja dodatnih usluga.«.
+
+#### Članak 33.
+
+U članku 97. stavku 4. riječ: »Ako« zamjenjuje se riječima: »Iznimno od stavka 3. ovoga članka, ako«.
+
+#### Članak 34.
+
+U članku 99. stavak 3. mijenja se i glasi:
+
+»(3) Kod originarnog stjecanja udjela ugovor o ulaganju sklopljen je kada je ulagatelj podnio uredan zahtjev za izdavanje udjela i izvršio valjanu uplatu iznosa iz zahtjeva ili kada je ulagatelj podnio uredan zahtjev za izdavanje udjela i društvo za upravljanje ima ugovoren aranžman kojim osigurava jamstvo uplate iznosa naznačenog u zahtjevu za izdavanje udjela, sve sukladno uvjetima određenim u prospektu i pravilima UCITS fonda, a društvo za upravljanje ne odbije sklapanje ugovora. U svim ostalim slučajevima ugovor o ulaganju je sklopljen u trenutku kada društvo odnosno voditelj registra upiše stjecatelja u registar udjela.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Uplaćenim sredstvima iz stavka 3. ovoga članka društvo za upravljanje smije raspolagati u svrhu ulaganja tek nakon što ulagatelj bude upisan u registar udjela, osim ako iz prospekta i pravila ne proizlazi drugačije, u kojem slučaju je društvo za upravljanje dužno pribaviti izričiti pisani pristanak podnositelja zahtjeva na takvo ulaganje.«.
+
+#### Članak 35.
+
+U članku 100. iza stavka 6. dodaje se novi stavak 7. koji glasi:
+
+»(7) Društvo za upravljanje dužno je usvojiti internu proceduru u kojoj će detaljno opisati postupanje društva za upravljanje kada uplaćenim sredstvima iz članka 99. stavka 3. ovoga Zakona, u skladu s prospektom i pravilima UCITS fonda, raspolaže prije upisa ulagatelja u registar udjela, posebice postupanje kada društvo za upravljanje nakon toga odbije sklapanje ugovora o ulaganju odnosno odbije upis u registar udjela.«.
+
+Dosadašnji stavak 7. postaje stavak 8.
+
+#### Članak 36.
+
+U članku 107. točka 1. briše se.
+
+Dosadašnje točke 2. do 14. postaju točke 1. do 13.
+
+#### Članak 37.
+
+Članak 109. briše se.
+
+#### Članak 38.
+
+Članak 112. mijenja se i glasi:
+
+»(1) Društvo za upravljanje dužno je ulagateljima UCITS fonda sve informacije i/ili dokumente koje mu je dužno dostaviti prema ovome Zakonu dostaviti u elektroničkom obliku, osim ako je drugačije propisano ovim Zakonom.
+
+(2) Iznimno od stavka 1. ovoga članka, ako je ulagatelj zatražio primitak informacija i/ili dokumenata u tiskanom obliku, društvo za upravljanje dužno ih je takvom ulagatelju dostaviti bez naknade u tiskanom obliku.
+
+(3) O mogućnosti iz stavka 2. ovoga članka društvo za upravljanje dužno je prethodno obavijestiti ulagatelja.«.
+
+#### Članak 39.
+
+U članku 115. stavku 2. točka a) mijenja se i glasi:
+
+»a) u skladu s odredbama članka 99. stavka 3. ovoga Zakona, društvo za upravljanje, izravno ili putem distributera, zaprimilo uredan zahtjev za izdavanje udjela i kada je izvršena valjana uplata iznosa iz zahtjeva sukladno uvjetima određenim prospektom i pravilima UCITS fonda, a društvo za upravljanje u tom roku nije odbilo sklapanje ugovora ili«.
+
+#### Članak 40.
+
+U članku 119. stavak 4. mijenja se i glasi:
+
+»(4) Isplata iznosa od otkupa udjela u UCITS fondu doznačuje se imatelju otkupljenog udjela u roku koji društvo za upravljanje propiše u prospektu UCITS fonda, a koji ne može biti duži od deset radnih dana od:
+
+a) primitka valjanog zahtjeva za otkup, ako se otkupi omogućavaju dnevno
+
+b) dana izvršenja otkupa udjela, pod uvjetom da je društvo za upravljanje zaprimilo valjani zahtjev za otkup.«.
+
+#### Članak 41.
+
+Članak 129. mijenja se i glasi:
+
+»Društvo za upravljanje može obavljati djelatnosti iz članka 13. stavka 2. točaka 1. i 2. ovoga Zakona te pružati dodatne usluge iz članka 13. stavka 1. podstavka 2. ovoga Zakona u trećoj državi pod uvjetima i na način kako je propisano relevantnim propisima koji uređuju obavljanje pojedinih djelatnosti.«.
+
+#### Članak 42.
+
+U članku 164. stavak 1. mijenja se i glasi:
+
+»(1) Distribuciju udjela UCITS fondova pored društava za up­ravljanje mogu obavljati i osobe koje su prema ovom Zakonu, zakonu kojim se uređuje tržište kapitala i zakonu kojim se uređuje osnivanje i poslovanje alternativnih investicijskih fondova ovlaštene pružati investicijske usluge zaprimanja i prijenosa naloga i/ili investicijskog savjetovanja.«.
+
+#### Članak 43.
+
+U članku 173. stavak 1. mijenja se i glasi:
+
+»(1) Izdavanje i otkup udjela u UCITS fondu obavlja se na način i u rokovima propisanima u prospektu UCITS fonda, a minimalno dva puta mjesečno u pravilnim vremenskim intervalima, po cijeni koja u vrijeme izvršenja zahtjeva za izdavanje ili otkup udjela nije određena, nego odrediva, u skladu s ovim Zakonom i propisima donesenima na temelju ovoga Zakona odnosno prospektom UCITS fonda. Na utvrđenu cijenu dozvoljeno je obračunavati i naplaćivati ulazne i izlazne naknade.«.
+
+#### Članak 44.
+
+U članku 174. stavak 2. mijenja se i glasi:
+
+»(2) Ulagatelj može otuđiti sve ili dio svojih udjela u UCITS fondu i zahtijevati isplatu tih udjela iz imovine UCITS fonda, pod uvjetima navedenima u prospektu UCITS fonda, a društvo za upravljanje ima obvezu otkupiti udjele UCITS fonda na zahtjev svakog ulagatelja UCITS fonda, osim u slučajevima kada je to propisano odredbama ovoga Zakona.«.
+
+#### Članak 45.
+
+Naslov iznad članka 175. i članak 175. brišu se.
+
+#### Članak 46.
+
+Naslov iznad članka 177. mijenja se i glasi: »Korištenje alata za upravljanje likvidnošću«.
+
+Članak 177. mijenja se i glasi:
+
+»(1) Iznimno od članka 174. stavka 2. ovoga Zakona, društvo za upravljanje može u interesu ulagatelja UCITS fonda kojim upravlja:
+
+a) privremeno obustaviti izdavanje, otkup i isplatu udjela UCITS fonda ili aktivirati ili deaktivirati druge alate za upravljanje likvidnošću iz članka 57.a stavka 1. točaka 2. do 8. ovoga Zakona koje je odabralo u skladu s člankom 57.a stavkom 2. ovoga Zakona
+
+b) aktivirati račune za odvajanje nelikvidne imovine iz članka 57.a stavka 1. točke 9. ovoga Zakona.
+
+(2) Društvo za upravljanje može koristiti obustavu izdavanja, otkupa i isplate udjela UCITS fonda ili račune za odvajanje nelikvidne imovine samo u iznimnim slučajevima kada to okolnosti zahtijevaju i kada je to opravdano s obzirom na interese ulagatelja UCITS fonda.
+
+(3) Društvo za upravljanje dužno je bez odgode obavijestiti Agenciju o:
+
+a) aktiviranju i deaktiviranju obustave izdavanja, otkupa i isplate udjela UCITS fonda i
+
+b) aktiviranju i deaktiviranju ostalih alata za upravljanje likvidnošću iz članka 57.a stavka 1. točaka 2. do 8. ovoga Zakona na način koji nije u uobičajenom tijeku poslovanja kako je predviđeno pravilima i prospektom UCITS fonda.
+
+(4) Društvo za upravljanje dužno je u razumnom roku prije aktiviranja ili deaktiviranja alata za upravljanje likvidnošću iz članka 57.a stavka 1. točke 9. ovoga Zakona obavijestiti Agenciju o planiranoj aktivaciji ili deaktivaciji.
+
+(5) Ako UCITS fondom osnovanim u Republici Hrvatskoj upravlja društvo za upravljanje iz druge države članice, Agencija će bez odgode obavijestiti nadležna tijela matične države članice društva za upravljanje, nadležna tijela države članice domaćina UCITS fonda, ESMA-u i, ako postoje potencijalni rizici za stabilnost i cjelovitost financijskog sustava, ESRB o svim obavijestima iz stavaka 3. i 4. ovoga članka.
+
+(6) U iznimnim okolnostima i nakon savjetovanja s društvom za upravljanje Agencija može u interesu ulagatelja naložiti društvu za upravljanje da aktivira ili deaktivira obustavu izdavanja, otkupa i isplate udjela iz članka 57.a stavka 1. točke 1. ovoga Zakona, ako postoje osnovani rizici za zaštitu ulagatelja ili financijsku stabilnost koji zahtijevaju takvu aktivaciju ili deaktivaciju.
+
+(7) Ako Agencija u skladu sa stavkom 6. ovoga članka naloži društvu za upravljanje da aktivira ili deaktivira obustavu izdavanja, otkupa i isplate udjela iz članka 57.a stavka 1. točke 1. ovoga Zakona, o tome će obavijestiti nadležno tijelo države članice domaćina UCITS fonda, nadležno tijelo matične države članice društva za upravljanje ako UCITS fondom upravlja društvo za upravljanje iz druge države članice, ESMA-u i, ako postoje potencijalni rizici za stabilnost i cjelovitost financijskog sustava, ESRB.
+
+(8) Nadležna tijela države članice domaćina UCITS fonda osnovanog u Republici Hrvatskoj ili, kada UCITS fondom osnovanim u Republici Hrvatskoj upravlja društvo za upravljanje iz druge države članice, nadležna tijela matične države članice društva za upravljanje, mogu zahtijevati od Agencije da iskoristi svoju ovlasti iz stavka 6. ovoga članka uz navođenje razloga za taj zahtjev.
+
+(9) Nadležna tijela iz stavka 8. ovoga članka o svom su zahtjevu dužna obavijestit ESMA-u i, ako postoje potencijalni rizici za stabilnost i integritet financijskog sustava, ESRB.
+
+(10) Ako se Agencija ne slaže sa zahtjevom iz stavka 8. ovoga članka, o tome će obavijestiti nadležno tijelo koje je podnijelo zahtjev, ESMA-u i, ESRB ako je obaviješten o tom zahtjevu u skladu sa stavkom 9. ovoga članka, navodeći razloge neslaganja.
+
+(11) Kada se udjelima UCITS fonda iz druge države članice trguje u Republici Hrvatskoj ili kada društvo za upravljanje iz Republike Hrvatske upravlja UCITS fondom iz druge države članice, Agencija može zahtijevati od nadležnih tijela matične države članice UCITS fonda da iskoriste svoju ovlast koju imaju u skladu s propisom kojim su u nacionalno zakonodavstvo matične države članice UCITS fonda prenesene odredbe članka 84. stavka 2. točke b) Direktive 2009/65/EZ uz navođenje razloga za taj zahtjev. Agencija će o svom zahtjevu obavijestiti ESMA-u i, ako postoje potencijalni rizici za stabilnost i integritet financijskog sustava, ESRB.
+
+(12) Ako Agencija kao nadležno tijelo matične države članice UCITS fonda ne postupi u skladu s mišljenjem ESMA-e ili se ne namjerava uskladiti s tim mišljenjem, o tome je dužna obavijestiti ESMA-u i nadležno tijelo koje je podnijelo zahtjev, navodeći razloge za takvo postupanje.
+
+(13) Agencija pravilnikom propisuje način zaprimanja zahtjeva za stjecanje ili otkup udjela za vrijeme trajanja obustave izdavanja i otkupa udjela, utvrđivanje cijene udjela, rokove isplate te nastavak poslovanja nakon prestanka obustave izdavanja i otkupa udjela.«.
+
+#### Članak 47.
+
+Članak 178. briše se.
+
+#### Članak 48.
+
+U članku 181. stavku 1. točka b) mijenja se i glasi:
+
+»b) postupak provođenja izdavanja i otkupa udjela«.
+
+Točke c) i d) brišu se.
+
+Dosadašnja točka e) postaje točka c).
+
+#### Članak 49.
+
+U članku 191. stavku 2. točki a) podtočki 11. iza riječi: »otkupa« dodaju se riječi: »udjela ili aktivacije drugih alata za upravljanje likvidnošću«.
+
+U podtočki 15. iza riječi: »profila rizičnosti UCITS fonda« stavlja se zarez i dodaju riječi: » kao i popis alata za upravljanje likvidnošću odabranih u skladu s člankom 57.a stavkom 2. ovoga Zakona«.
+
+U podtočki 17. riječi: »i toleranciju na rizike« brišu se.
+
+U točki b) podtočki 8. iza riječi: »poslova« dodaju se riječi: »i usluga«.
+
+U podtočki 9. riječi: »u papirnatom obliku« brišu se.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Ako društvo za upravljanje u prospektu i pravilima UCITS fonda predvidi mogućnost raspolaganja uplaćenih sredstava iz članka 99. stavka 3. ovoga Zakona prije trenutka stjecanja udjela i prava iz udjela kako je definiran u skladu s člankom 115. stavkom 1. ovoga Zakona, dužno je u prospektu i pravilima UCITS fonda detaljno odrediti prava i obveze ugovornih strana u tom pogledu te postupanje društva za upravljanje ako nakon toga odbije sklapanje ugovora o ulaganju odnosno odbije upis u registar.«.
+
+#### Članak 50.
+
+U članku 192. stavku 1. u uvodnoj rečenici brišu se riječi: »izmjene i dopune prospekta UCITS fonda koje se predlažu s namjenom«.
+
+Točka 2. mijenja se i glasi:
+
+»2. značajne promjene elemenata vezanih uz ciljeve i strategiju ulaganja UCITS fonda navedenih u članku 191. stavku 2. točki a) podtočki 14. ovoga Zakona«.
+
+Točka 5. mijenja se i glasi:
+
+»5. promjene postupaka i uvjeta izdavanja, otkupa i isplate udjela UCITS fonda.«.
+
+#### Članak 51.
+
+U članku 193. stavcima 4. i 6. riječi: »40 dana« zamjenjuju se riječima: »30 dana«.
+
+#### Članak 52.
+
+U članku 195. stavak 3. mijenja se i glasi:
+
+»(3) S pravilima UCITS fonda mora se suglasiti nadzorni odbor društva za upravljanje.«.
+
+#### Članak 53.
+
+U članku 198. točki h) iza riječi: »djelatnosti« stavlja se zarez, dodaje riječ: »usluga« a veznik: »i« na kraju rečenice briše se.
+
+U točki i) iza riječi: »ulagatelja« briše se točka i dodaje veznik: »i«.
+
+Iza točke i) dodaje se točka j) koja glasi:
+
+»j) popis alata za upravljanje likvidnošću odabranih u skladu s člankom 57.a stavkom 2. ovoga Zakona te opis okolnosti za njihovu aktivaciju.«.
+
+#### Članak 54.
+
+U članku 200. stavku 1. iza riječi: »ulagatelje« stavlja se zarez i dodaju riječi: »uključujući i naziv UCITS fonda, predstavljaju predugovorne podatke i«.
+
+#### Članak 55.
+
+U članku 201. stavku 1. točki 9. riječi: »u papirnatom obliku« brišu se.
+
+#### Članak 56.
+
+Iza članka 203.a dodaju se naslov iznad članka i članak 203.b koji glase:
+
+*»Dostupnost podataka na jedinstvenoj europskoj pristupnoj točki*
+
+#### Članak 203.b
+
+(1) Kada društvo za upravljanje javno objavljuje informacije iz članka 183. stavka 1. točaka 1., 3. i 4. ovoga Zakona, dužno je istodobno s javnom objavom informacija dostaviti te informacije Agenciji za potrebe njihove dostupnosti na jedinstvenoj europskoj pristupnoj točki (ESAP) uspostavljenoj na temelju Uredbe (EU) 2023/2859.
+
+(2) Društvo za upravljanje dužno je osigurati da informacije iz stavka 1. ovoga članka ispunjavaju sljedeće zahtjeve:
+
+1. dostavljaju se u formatu iz kojeg se mogu izdvojiti podaci kako je definirano u članku 2. točki 3. Uredbe (EU) 2023/2859 ili, ako je to propisano pravom Europske unije, u strojno čitljivom formatu kako je definirano u članku 2. točki 4. Uredbe (EU) 2023/2859
+
+2. priloženi su im sljedeći metapodaci:
+
+a) svi nazivi UCITS fondova na koje se informacije odnose
+
+b) jedinstvena identifikacijska oznaka (LEI) UCITS fonda kako je utvrđena u skladu s člankom 7. stavkom 4. točkom (b) Uredbe (EU) 2023/2859
+
+c) veličina UCITS fonda po kategorijama kako su utvrđene u skladu s člankom 7. stavkom 4. točkom (d) Uredbe (EU) 2023/2859
+
+d) vrsta informacija kako je klasificirana u skladu s člankom 7. stavkom 4. točkom (c) Uredbe (EU) 2023/2859
+
+e) naznaka o tome sadržavaju li informacije osobne podatke.
+
+(3) Ako UCITS fond nema identifikacijsku oznaku pravne osobe kako je utvrđena u skladu s člankom 7. stavkom 4. točkom (b) Uredbe (EU) 2023/2859, društvo za upravljanje dužno ju je ishoditi prije dostave informacija iz stavka 1. ovoga članka.
+
+(4) Agencija je dužna osigurati da su informacije iz stavka 1. ovoga članka dostupne na jedinstvenoj europskoj pristupnoj točki (ESAP) uspostavljenoj na temelju Uredbe (EU) 2023/2859 te da ispunjavaju zahtjeve iz stavka 2. ovoga članka.
+
+(5) Agencija je dužna osigurati da su informacije iz članka 394. stavka 3. ovoga Zakona dostupne na jedinstvenoj europskoj pristupnoj točki (ESAP) uspostavljenoj na temelju Uredbe (EU) 2023/2859 te da ispunjavaju sljedeće zahtjeve:
+
+1. dostavljaju se u formatu iz kojeg se mogu izdvojiti podaci kako je definirano u članku 2. točki 3. Uredbe (EU) 2023/2859
+
+2. priloženi su im sljedeći metapodaci:
+
+a) svi nazivi društva za upravljanje na koje se informacije odnose
+
+b) ako postoji, identifikacijska oznaka pravne osobe društva za upravljanje kako je utvrđena u skladu s člankom 7. stavkom 4. točkom (b) Uredbe (EU) 2023/2859
+
+c) vrsta informacija kako je klasificirana u skladu s člankom 7. stavkom 4. točkom (c) Uredbe (EU) 2023/2859
+
+d) naznaka o tome sadržavaju li informacije osobne podatke.
+
+(6) Agencija je dužna osigurati da su informacije iz članka 363. stavka 2. i članka 405. stavka 1. ovoga Zakona dostupne na jedinstvenoj europskoj pristupnoj točki (ESAP) uspostavljenoj na temelju Uredbe (EU) 2023/2859 te da ispunjavaju sljedeće zahtjeve:
+
+1. dostavljaju se u formatu iz kojeg se mogu izdvojiti podaci kako je definirano u članku 2. točki 3. Uredbe (EU) 2023/2859
+
+2. priloženi su im sljedeći metapodaci:
+
+a) svi nazivi UCITS fondova na koje se informacije odnose
+
+b) jedinstvena identifikacijska oznaka (LEI) UCITS fonda kako je utvrđena u skladu s člankom 7. stavkom 4. točkom (b) Uredbe (EU) 2023/2859
+
+c) vrsta informacija kako je klasificirana u skladu s člankom 7. stavkom 4. točkom (c) Uredbe (EU) 2023/2859
+
+d) naznaka o tome sadržavaju li informacije osobne podatke.
+
+(7) Agencija obavještava ESMA-u da je, u smislu ovoga Zakona, tijelo za prikupljanje kako je definirano u članku 2. točki 2. Uredbe (EU) 2023/2859.«.
+
+#### Članak 57.
+
+U članku 206. stavku 4. riječi: »najviše sedam« zamjenjuju se riječima: »najviše deset«.
+
+#### Članak 58.
+
+Iza članka 207. dodaju se naslov iznad članka i članak 207.a koji glase:
+
+*»Obveze redovitog izvještavanja Agencije*
+
+#### Članak 207.a
+
+(1) Društvo za upravljanje dužno je redovito izvještavati Agenciju o tržištima na kojima trguje i instrumentima kojima trguje za račun UCITS fondova kojima upravlja.
+
+(2) Društvo za upravljanje dužno je za svaki UCITS fond kojim upravlja Agenciji dostaviti sveobuhvatnu informaciju o instrumentima kojima trguje, o tržištima na kojima je član ili gdje aktivno trguje te o izloženostima i imovini UCITS fonda.
+
+(3) Informacije iz stavka 2. ovoga članka moraju uključivati identifikacijske oznake koje su potrebne kako bi se podaci o imovini, UCITS fondu i društvu za upravljanje povezali s drugim nadzornim ili javno dostupnim izvorima podataka.
+
+(4) Društvo za upravljanje dužno je za svaki UCITS fond kojim upravlja Agenciji dostavljati izvještaj o sljedećem:
+
+a) postupcima za upravljanje likvidnošću UCITS fonda, uključujući trenutačni odabir alata za upravljanje likvidnošću i svakoj njihovoj aktivaciji ili deaktivaciji
+
+b) trenutačnom profilu rizičnosti UCITS fonda, tržišnom riziku, riziku likvidnosti, riziku druge ugovorne strane, ostalim rizicima, uključujući operativni rizik, i ukupnom iznosu financijske poluge koju UCITS fond koristi
+
+c) rezultatima testova otpornosti na stres provedenih u skladu s člankom 253. stavcima 1. i 3. ovoga Zakona
+
+d) postupcima delegiranja koji se odnose na poslove upravljanja portfeljem ili upravljanja rizicima, a koji uključuju sljedeće:
+
+1. informacije o trećim osobama kojima su delegirani poslovi: naziv i adresu registriranog sjedišta ili podružnice, postoji li uska povezanost s društvom za upravljanje, ima li odobrenje za obavljanje poslova upravljanja imovinom, podatke o nadzornim tijelima matične države članice te identifikacijske oznake koje su potrebne za povezivanje informacija dostavljenih drugim nadzornim ili javno dostupnim izvorima podataka
+
+2. broj zaposlenih na puno radno vrijeme koji u društvu za upravljanje obavljaju svakodnevne poslove upravljanja imovinom ili upravljanja rizicima
+
+3. popis i opis delegiranih aktivnosti koje se odnose na poslove upravljanja portfeljem i upravljanja rizicima
+
+4. ako je delegirana funkcija upravljanja imovinom, iznos i postotak imovine UCITS fonda u odnosu na koju se upravljanje delegira
+
+5. broj zaposlenih na puno radno vrijeme koji su u društvu za upravljanje zaduženi za praćenje delegiranih poslova
+
+6. broj i datume provođenja periodičnih provjera dubinske analize radi praćenja delegiranih poslova, popis utvrđenih problema i, u slučaju da ih je bilo, mjera donesenih za rješavanje tih problema te datum do kojeg mjere treba provesti
+
+7. u slučaju poddelegiranja, informacije iz podtočaka 1., 3. i 4. ove točke o osobama na koje su poddelegirane aktivnosti povezane s poslovima upravljanja imovinom i upravljanja rizicima
+
+8. datume početka i završetka postupaka delegiranja i poddelegiranja
+
+e) popis država članica u kojima društvo za upravljanje ili distributer koji djeluje u ime društva za upravljanje stvarno distribuira udjele UCITS fonda.
+
+(5) Agencija će sve informacije koje je o UCITS fondu prikupila u skladu sa stavkom 4. ovoga članka te podatke i dokumentaciju koju je društvo za upravljanje dostavilo uz zahtjev za izdavanje odobrenja za rad i osnivanje UCITS fonda dostaviti drugim nadležnim tijelima, ESMA-i, EBA-i, EIOPA-i i ESRB-u kad god je to potrebno za obavljanje njihovih dužnosti, na način kako je to propisano odredbama članka 387. ovoga Zakona.
+
+(6) Agencija će sve informacije koje je o UCITS fondu prikupila u skladu sa stavkom 4. ovoga članka dostaviti ESSB-u isključivo u statističke svrhe, na način kako je to propisano odredbama članka 387. ovoga Zakona.
+
+(7) Ako Agencija utvrdi da društvo za upravljanje iz Republike Hrvatske ili UCITS fond kojim upravlja potencijalno predstavlja važan izvor rizika druge ugovorne strane za kreditnu instituciju ili druge sistemski važne institucije u drugim državama članicama ili za stabilnost financijskog sustava u drugoj državi članici, Agencija će bez odgode dostaviti informacije nadležnim tijelima drugih država članica kojih se to izravno tiče, na način kako je to propisano odredbama članka 387. ovoga Zakona i bilateralno.
+
+(8) Kad je to potrebno za učinkovito praćenje sistemskog rizika, Agencija može zahtijevati dodatne informacije osim onih opisanih u ovom članku, na periodičnoj i na ad hoc osnovi. Agencija će obavijestiti ESMA-u o dodatnim zahtjevima za informacijama.
+
+(9) U iznimnim okolnostima i kada je to potrebno za osiguranje stabilnosti i integriteta financijskog sustava ili za promicanje dugoročnog održivog razvoja, Agencija može na zahtjev ESMA-e uvesti i dodatne zahtjeve za izvještavanjem društva za upravljanje u odnosu na one utvrđene ovim člankom.«.
+
+#### Članak 59.
+
+U članku 211. stavak 1. mijenja se i glasi:
+
+»(1) Društvo za upravljanje dužno je ulagatelju, na njegov zahtjev, besplatno dostaviti prospekt, ključne podatke za ulagatelje te godišnje i polugodišnje izvještaje UCITS fonda.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Prospekt UCITS fonda i ključni podaci za ulagatelje mogu biti dostavljeni na trajnom mediju ili putem mrežne stranice društva za upravljanje, a na zahtjev ulagatelja društvo za upravljanje dužno mu je prospekt i ključne podatke za ulagatelje dostaviti besplatno u tiskanom obliku.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+#### Članak 60.
+
+Naslov iznad članka 212. mijenja se i glasi: »Kvartalni izvještaji«.
+
+Članak 212. mijenja se i glasi:
+
+»(1) Društvo za upravljanje dužno je izrađivati izvještaj o poslovanju UCITS fonda namijenjen ulagateljima i objavljivati ga na svojim mrežnim stranicama minimalno jednom kvartalno, najkasnije do 20. u mjesecu koji slijedi iza kvartala za koji se izvještaj izrađuje.
+
+(2) Iznimno od stavka 1. ovoga članka, društvo za upravljanje nije dužno izrađivati kvartalni izvještaj o poslovanju UCITS fonda za prvi kvartal od početka njegova rada.«.
+
+#### Članak 61.
+
+U članku 215. riječ: »mjesečnog« zamjenjuje se riječju: »kvartalnog«.
+
+#### Članak 62.
+
+U članku 224. stavku 2. točki 3. iza riječi: »pažnju« stavlja se zarez i dodaju riječi: »osim kada je ta treća osoba središnji depozitorij vrijednosnih papira (CSD) koji nastupa u svojstvu CSD ulagatelja kako je definiran u delegiranom aktu donesenom na temelju članka 29. stavka 3. i članka 48. stavka 10. Uredbe (EU) br. 909/2014,«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) U smislu ovoga članka, pružanje usluga od strane središnjeg depozitorija vrijednosnih papira koji djeluje u svojstvu CSD izdavatelja kako je definiran u delegiranom aktu donesenom na temelju članka 29. stavka 3. i članka 48. stavka 10. Uredbe (EU) br. 909/2014 ne smatra se delegiranjem poslova skrbništva, dok se pružanje usluga od strane središnjeg depozitorija vrijednosnih papira koji djeluje u svojstvu CSD ulagatelja kako je definiran u tom delegiranom aktu smatra delegiranjem poslova skrbništva.«.
+
+#### Članak 63.
+
+Članak 225. briše se.
+
+#### Članak 64.
+
+Naslov iznad članka 230. i članak 230. brišu se.
+
+#### Članak 65.
+
+U članku 240. stavak 2. mijenja se i glasi:
+
+»(2) Imatelji udjela u UCITS fondu (ulagatelji) imaju pravo zahtijevati otkup udjela u skladu s prospektom UCITS fonda i na taj način istupiti iz UCITS fonda.«.
+
+#### Članak 66.
+
+U članku 242. stavku 1. riječi: »600.000,00 eura« zamjenjuju se riječima: »praga utvrđenog u prospektu UCITS fonda«.
+
+#### Članak 67.
+
+U članku 244. stavku 1. na kraju točke 4. briše se točka i dodaje se točka 5. koja glasi:
+
+»5. je prospektom UCITS fonda propisano da se udjeli UCITS fonda ne smiju nuditi u Republici Hrvatskoj.«.
+
+#### Članak 68.
+
+U članku 245. stavku 3. riječi: »zakonom utvrđeni« brišu se, a riječi: »od 600.000,00 eura« zamjenjuju se riječima: »koju je u prospektu UCITS fonda odredilo društvo za upravljanje.«.
+
+#### Članak 69.
+
+U članku 248. stavku 2. točki 8. na kraju rečenice veznik: »i« briše se i dodaju se nova točka 9. i točka 10. koje glase:
+
+»9. troškovi pravnih usluga i savjetovanja vezano za glasovanje na skupštinama i ostvarivanje prava iz vlasništva
+
+10. troškovi upravljanja rizicima u dijelu ESG ratinga i troškova bonitetnih ocjena za upravljanje kreditnim rizikom i«.
+
+Dosadašnja točka 9. postaje točka 11.
+
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Troškovi iz stavka 2. točaka 9. i 10. ovoga članka ne smiju biti viši od 10 % iznosa naknade za upravljanje.«.
+
+Dosadašnji stavci 3. i 4. postaju stavci 4. i 5.
+
+#### Članak 70.
+
+U članku 253. stavku 1. riječ: »njegova« zamjenjuje se riječju: »njezina«.
+
+#### Članak 71.
+
+U članku 254. stavku 1. točki 3. uvodna rečenica mijenja se i glasi: »izloženost fonda riziku jedne druge ugovorne strane u transakcijama s izvedenicama čije poravnanje ne obavlja središnja druga ugovorna strana koja ima odobrenje za rad u skladu s člankom 14. Uredbe (EU) br. 648/2012 ili je priznata u skladu s člankom 25. Uredbe (EU) br. 648/2012 ne smije biti veća od:«.
+
+U točki 4. podtočki b) riječ: »OTC« briše se.
+
+U točki 5. podtočki c) riječ: »OTC« briše se, a iza riječi: »osobom« dodaju se riječi: »čije poravnanje ne obavlja središnja druga ugovorna strana koja ima odobrenje za rad u skladu s člankom 14. Uredbe 648/2012 ili je priznata u skladu s člankom 25. Uredbe (EU) br. 648/2012«.
+
+#### Članak 72.
+
+U članku 258. dodaje se novi stavak 1. koji glasi:
+
+»(1) UCITS fondovi kojima upravlja isto društvo za upravljanje ne smiju zajedno niti pojedinačno biti imatelji više od 25 % dionica s pravom glasa jednog te istog izdavatelja.«.
+
+U dosadašnjem stavku 1., koji postaje stavak 2., točka a) briše se.
+
+Dosadašnje točke b) do e) postaju točke a) do d).
+
+U drugoj rečenici riječi: »točaka c), d) i e)« zamjenjuju se riječima: » točaka b), c) i d)«.
+
+U dosadašnjem stavku 2., koji postaje stavak 3., riječi: »iz stavka 1.« zamjenjuju se riječima: »iz stavaka 1. i 2.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Ako je pravom druge države članice određeno strože ograničenje za stjecanje dionica s pravom glasa jednog te istog izdavatelja iz stavka 1. ovoga članka, društvo za upravljanje dužno je za UCITS fondove kojima upravlja prilikom stjecanja dionica s pravom glasa izdavatelja koji ima sjedište u toj državi članici primjenjivati to strože ograničenje.«.
+
+#### Članak 73.
+
+U članku 259. iza stavka 6. dodaje se stavak 7. koji glasi:
+
+»(7) Ako društvo za upravljanje u UCITS fondu kojim upravlja aktivira račune za odvajanje nelikvidne imovine iz članka 177. stavka 1. točke b) ovoga Zakona odvajanjem imovine, odvojena imovina može se isključiti iz izračuna ograničenja ulaganja navedenih u ovom Zakonu.«.
+
+#### Članak 74.
+
+U članku 336. stavku 1. točki 3. riječi: »600.000,00 eura« zamjenjuju se riječima: »praga utvrđenog u prospektu UCITS fonda«.
+
+#### Članak 75.
+
+U članku 348. iza stavka 2. dodaju se stavci 3. do 5. koji glase:
+
+»(3) Agencija ima pravo provoditi nadzor aktivnosti društva za upravljanje i UCITS fonda putem neprijavljenih kontrola, uključujući i metode tajnog nadzora (engl. mystery shopping), osim ako odredbama ovoga Zakona nije drukčije uređeno i ako se ne protivi cilju i svrsi takvog nadzora.
+
+(4) Tajni nadzor može, među ostalim, uključivati kontaktiranje društva za upravljanje, njegovih zaposlenika ili distributera bez prethodne najave i bez otkrivanja identiteta Agencije, u svrhu procjene primjene pravila o poslovnom ponašanju i poštenom tretmanu ulagatelja, ispunjavanja zahtjeva u svezi s pružanjem informacija ulagateljima, distribucijskih aktivnosti i marketinga, zaštite ulagatelja te drugih aktivnosti sukladno odredbama ovoga Zakona i procjeni Agencije.
+
+(5) Agencija će pravilnikom propisati način provođenja tajnog nadzora iz stavka 4. ovoga članka.«.
+
+#### Članak 76.
+
+U članku 349. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Osoba iz stavaka 1. i 2. ovoga članka koju je Agencija ovlastila kao tajnog ulagatelja u postupku tajnog nadzora može postupati kao ulagatelj i sklopiti ugovor o ulaganju za potrebe nadzora i drugih povezanih postupaka pri čemu taj ugovor ne proizvodi pravne učinke između ugovornih strana, ali se uzima kao da je sklopljen isključivo za potrebe dokazivanja činjenica utvrđenih u postupku tajnog nadzora te u prekršajnom i drugim postupcima povodom tog postupka nadzora.«.
+
+#### Članak 77.
+
+U članku 351. stavku 5. na kraju rečenice briše se točka, stavlja zarez i dodaju riječi: »te u slučaju provođenja tajnog nadzora iz članka 348. stavka 3. ovoga Zakona, obavijest o neposrednom nadzoru Agencija će dostaviti subjektu nadzora nakon obavljenog tajnog nadzora, a najkasnije u roku od 30 dana od dana sklapanja ugovora iz članka 99. ovoga Zakona, kada je takav ugovor sklopljen.«.
+
+#### Članak 78.
+
+U članku 363. stavku 1. točki 4. iza riječi: »djelatnosti« dodaju se riječi: »ili dodatne usluge«.
+
+#### Članak 79.
+
+U članku 371. stavcima 1. i 2. iza riječi: »djelatnosti« dodaju se riječi: »ili dodatne usluge«.
+
+#### Članak 80.
+
+Iza članka 371. dodaju se naslov iznad članka i članak 371.a koji glase:
+
+*»Postupanje nadležnih tijela u odnosu na trgovanje udjelima UCITS fondova iz druge države članice na teritoriju Republike Hrvatske*
+
+#### Članak 371.a
+
+(1) Kada se udjelima UCITS fonda iz druge države članice trguje na teritoriju Republike Hrvatske i kada za to ima opravdane razloge, Agencija može od nadležnih tijela matične države članice UCITS fonda zahtijevati da bez odgode izvrše ovlasti koje imaju u skladu s propisom kojim su u nacionalno zakonodavstvo matične države članice UCITS fonda prenesene odredbe članka 98. stavka 2. Direktive 2009/65/EZ, osim obustave izdavanja i otkupa udjela UCITS fonda.
+
+(2) Uz zahtjev iz stavka 1. ovoga članka Agencija je dužna što detaljnije navesti razloge zbog kojih isti podnosi te o tome obavijestiti ESMA-u i, ako postoje potencijalni rizici za stabilnost i cjelovitost financijskog sustava, ESRB.
+
+(3) Ako Agencija od nadležnih tijela države članice domaćina UCITS fonda iz Republike Hrvatske zaprimi zahtjev koji odgovara onome iz stavka 1. ovoga članka, dužna je bez odgode o utvrđenim okolnostima i poduzetim mjerama obavijestiti nadležno tijelo države članice domaćina UCITS fonda, ESMA-u, i ako postoje potencijalni rizici za stabilnost i cjelovitost financijskog sustava, ESRB.
+
+(4) ESMA od Agencije može zahtijevati da joj bez odgode dostavi objašnjenja u vezi s posebnim slučajevima koji predstavljaju ozbiljnu prijetnju zaštiti ulagatelja, urednom funkcioniranju i cjelovitosti financijskih tržišta ili stabilnosti cijelog ili dijela financijskog sustava Unije.«.
+
+#### Članak 81.
+
+Članak 378. mijenja se i glasi:
+
+»(1) Agencija je ovlaštena za obavljanje nadzora nad drugom osobom koja suprotno odredbama članaka 7., 14. i 164. ovoga Zakona obavlja djelatnosti i usluge društva za upravljanje iz članka 13. ovoga Zakona i/ili distributera iz članka 164. ovoga Zakona u Republici Hrvatskoj.
+
+(2) U svrhu utvrđivanja činjenica i okolnosti iz stavka 1. ovoga članka nužnih za izvršavanje svojih ovlasti Agencija može poduzimati sve potrebne radnje kako je propisano člankom 350. ovoga Zakona.
+
+(3) Kada utvrdi da osoba iz stavka 1. ovoga članka suprotno zabrani obavlja djelatnosti i/ili pruža usluge društva za upravljanje, Agencija može rješenjem naložiti prestanak odnosno zabranu obavljanja sporne djelatnosti.
+
+(4) Odluku iz stavka 3. ovoga članka Agencija može javno objaviti u skladu s člankom 363. ovoga Zakona.
+
+(5) Na osobe iz stavka 1. ovoga članka na odgovarajući se način primjenjuju odredbe dijela četrnaestog poglavlja I., II. i III. ovoga Zakona koje se odnose na subjekte nadzora Agencije iz članka 346. stavka 5. ovoga Zakona.«.
+
+#### Članak 82.
+
+U članku 382. stavku 1. iza riječi: »djelatnosti« dodaju se riječi: »i usluge«.
+
+#### Članak 83.
+
+U članku 387. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Agencija surađuje s nadležnim tijelima drugih država članica, ESMA-om i ESRB-om, kad god je to potrebno za izvršenje njihovih nadzornih dužnosti nad poštivanjem propisa kojima se u pravni poredak države članice prenose odredbe Direktive 2009/65/EZ.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Agencija pri suradnji iz stavaka 1. i 3. ovoga članka postupa u skladu sa svojim ovlastima i kada radnje, koje su predmet te istrage, ne predstavljaju kršenje propisa koji su na snazi u Republici Hrvatskoj.«.
+
+#### Članak 84.
+
+U članku 389. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Obveza iz stavka 1. ovoga članka podrazumijeva da povjerljive informacije koje osobe iz stavka 1. ovoga članka prime tijekom obavljanja svojih zadaća ne smiju biti otkrivene ni jednoj osobi ili tijelu, osim u sažetom ili zbirnom obliku na način da se UCITS fondovi, društva za upravljanje i depozitari ne mogu pojedinačno identificirati, pritom ne dovodeći u pitanje slučajeve kaznenog ili poreznog prava.«.
+
+U dosadašnjem stavku 2., koji postaje stavak 3., točki 2. na kraju rečenice veznik: »i« briše se.
+
+U točki 3. briše se točka na kraju rečenice i dodaje se točka 4. koja glasi:
+
+»4. dostavljanje povjerljivih podataka poreznim tijelima u Republici Hrvatskoj.«.
+
+Dosadašnji stavci 3. do 6. postaju stavci 4. do 7.
+
+#### Članak 85.
+
+U članku 397. stavku 1. točkama 2. i 3. iza riječi: »djelatnosti« dodaju se riječi: »i usluge«.
+
+U točki 5. iza riječi: »djelatnost« dodaju se riječi: »i usluge«.
+
+Iza točke 21. dodaju se točke 21.a i 21.b koje glase:
+
+»21.a bez odgode ne dostavi Agenciji u slučajevima iz članka 47. stavka 3. ovoga Zakona detaljna objašnjenja i dokaze o usklađenosti s člankom 47. stavkom 1. točkom 5. ovoga Zakona
+
+21.b protivno odredbi članka 47. stavka 4. ovoga Zakona ne navede razumne korake koje je poduzelo kako bi spriječilo sukobe interesa koji proizlaze iz odnosa s trećom osobom ili, ako se ti sukobi interesa ne mogu spriječiti, kako utvrđuje, upravlja, prati i, prema potrebi, objavljuje te sukobe interesa kako bi spriječilo da oni negativno utječu na interese UCITS fonda i njegovih ulagatelja«.
+
+Iza točke 22. dodaju se točke 22.a i 22.b koje glase:
+
+»22.a ne usvoji ili ne primjenjuje ili ne dokumentira ili ne ažurira redovito učinkovite i sveobuhvatne politike upravljanja rizicima u skladu s člankom 56. stavkom 2. ovoga Zakona
+
+22.b bez odgode na zahtjev Agencije ne dostavi politiku upravljanja rizicima u skladu s člankom 56. stavkom 6. ovoga Zakona«.
+
+Iza točke 28. dodaju se točke 28.a, 28.b, 28.c i 28.d koje glase:
+
+»28.a u pravilima i prospektu UCITS fonda ne navede koje je alate za upravljanje iz članka 57.a stavka 1. točaka 2. do 8. ovoga Zakona odabralo za primjenu u interesu ulagatelja UCITS fonda protivno članku 57.a stavku 3. ovoga Zakona
+
+28.b protivno članku 57.a stavku 5. ovoga Zakona ne uspostavi i/ili ne primjenjuje detaljne politike i procedure za aktivaciju i deaktivaciju svakog odabranog alata za upravljanje likvidnošću, kao i operativne i administrativne mjere za primjenu odabranih alata
+
+28.c ne obavijesti Agenciju o odabiru alata za upravljanje likvidnošću iz članka 57.a stavka 2. ovoga Zakona u roku od pet radnih dana od njihova usvajanja u skladu s člankom 57.a stavkom 6. ovoga Zakona
+
+28.d ne dostavi Agenciji politike i procedure iz članka 57.a stavka 5. ovoga Zakona u roku od pet radnih dana od njihova usvajanja u skladu s člankom 57.a stavkom 6. ovoga Zakona«.
+
+Točka 29. mijenja se i glasi:
+
+»29. protivno odredbama članka 69. stavka 1. ovoga Zakona ne obavijesti Agenciju o namjeri delegiranja trećim osobama poslova iz članka 13. stavka 3. ovoga Zakona ili usluga iz članka 13. stavka 1. podstavka 2. ovoga Zakona prije nego što delegiranje stupi na snagu«.
+
+Iza točke 29. dodaje se točka 29.a koja glasi:
+
+»29.a protivno odredbi članka 69. stavka 5. ovoga Zakona ne obavijesti bez odgode Agenciju o prestanku delegiranja poslova i/ili usluga iz članka 69. stavka 1. ovoga Zakona«.
+
+Točka 34. briše se.
+
+U točki 35. riječi: »članka 107. točke 2.« zamjenjuju se riječima: »članka 107. točke 1.«.
+
+U točki 36. riječi: »članka 107. točke 3.« zamjenjuju se riječima: »članka 107. točke 2.«.
+
+U točki 37. riječi: »članka 107. točke 5.« zamjenjuju se riječima: »članka 107. točke 4.«.
+
+U točki 38. riječi: »članka 107. točke 6.« zamjenjuju se riječima: »članka 107. točke 5.«.
+
+U točki 39. riječi: »članka 107. točke 7.« zamjenjuju se riječima: »članka 107. točke 6.«.
+
+U točki 40. riječi: »članka 107. točke 8.« zamjenjuju se riječima: »članka 107. točke 7.«.
+
+U točki 41. riječi: »članka 107. točke 9.« zamjenjuju se riječima: »članka 107. točke 8.«.
+
+U točki 42. riječi: »članka 107. točke 10.« zamjenjuju se riječima: »članka 107. točke 9.«.
+
+U točki 43. riječi: »članka 107. točke 11.« zamjenjuju se riječima: »članka 107. točke 10.«.
+
+U točki 44. riječi: »članka 107. točke 12.« zamjenjuju se riječima: »članka 107. točke 11.«.
+
+U točki 45. riječi: »članka 107. točke 13.« zamjenjuju se riječima: »članka 107. točke 12.«.
+
+U točki 46. riječi: »članka 107. točke 14.« zamjenjuju se riječima: »članka 107. točke 13.«.
+
+Točke 50. do 54. brišu se.
+
+Točka 58. mijenja se i glasi:
+
+»58. obustavu izdavanja, otkupa i isplate udjela UCITS fonda ili račune za odvajanje nelikvidne imovine ne koristi u skladu s odredbama članka 177. stavaka 1. do 3. ovoga Zakona ili odredbama pravilnika iz članka 177. stavka 13. ovoga Zakona«.
+
+Iza točke 58. dodaju se točke 58.a i 58.b koje glase:
+
+»58.a protivno odredbi članka 177. stavka 3. ovoga Zakona bez odgode ne obavijesti Agenciju o aktiviranju i deaktiviranju obustave izdavanja, otkupa i isplate udjela UCITS fonda i/ili aktiviranju i deaktiviranju ostalih alata za upravljanje likvidnošću iz članka 57.a stavka 1. točaka 2. do 8. ovoga Zakona na način koji nije u uobičajenom tijeku poslovanja kako je predviđeno pravilima i prospektom UCITS fonda
+
+58.b protivno odredbi članka 177. stavka 4. ovoga Zakona u razumnom roku prije aktiviranja ili deaktiviranja alata za upravljanje likvidnošću iz članka 57.a stavka 1. točke 9. ovoga Zakona ne obavijesti Agenciju o planiranoj aktivaciji ili deaktivaciji«.
+
+U točki 68. iza riječi: »upravlja« stavlja se zarez i dodaju se riječi: »uključujući i naziv UCITS fonda,«.
+
+U točki 87. riječ: »njegova« zamjenjuje se riječju: »njezina«. Iza točke 97. dodaju se točke 97.a do 97.e koje glase:
+
+»97.a su UCITS fondovi, zajedno ili pojedinačno, suprotno članku 258. stavku 1. ovoga Zakona, imatelji više od 25 % dionica s pravom glasa jednog izdavatelja
+
+97.b je UCITS fond, suprotno članku 258. stavku 2. točki a) ovoga Zakona, imatelj više od 10 % dionica bez prava glasa jednog izdavatelja
+
+97.c je UCITS fond, suprotno članku 258. stavku 2. točki b) ovoga Zakona, imatelj više od 10 % dužničkih vrijednosnih papira koje je izdao jedan izdavatelj
+
+97.d je UCITS fond, suprotno članku 258. stavku 2. točki c) ovoga Zakona, imatelj više od 25 % udjela pojedinoga investicijskog fonda ili drugog investicijskog fonda koji zadovoljava uvjete iz članka 4. stavka 1. točke 2. podtočaka a) i b) ovoga Zakona
+
+97.e je UCITS fond, suprotno članku 258. stavku 2. točki d) ovoga Zakona, imatelj više od 10 % instrumenata tržišta novca koje je izdao jedan izdavatelj«.
+
+U točki 98. riječi: »stavka 1.« zamjenjuju se riječima: »stavka 2.«.
+
+#### Članak 86.
+
+U članku 398. stavku 1. točka 1. mijenja se i glasi:
+
+»1. ne izvijesti Agenciju o svim predloženim odnosno planiranim značajnim promjenama podataka i uvjeta pod kojima mu je izdano odobrenje za rad, a osobito o značajnim promjenama podataka koji su dostavljeni uz zahtjev za izdavanje odobrenja za rad, u roku od 30 dana prije provođenja ili od nastanka značajnih promjena podataka i uvjeta pod kojima je izdano odobrenje za rad u skladu s odredbama članka 28. stavka 2. ovoga Zakona«.
+
+U točkama 6. i 7. riječi: »članka 13. stavka 1. točke 2. podtočke a)« zamjenjuju se riječima: »članka 13. stavka 1. podstavka 2. točke 1.«.
+
+U točki 18. riječi: »stavka 5.« zamjenjuju se riječima: »stavka 4.«.
+
+Točka 24. mijenja se i glasi:
+
+»24. ne dostavi Agenciji, uz obavijest iz članka 96. stavka 1. ovoga Zakona, odluku o dobrovoljnom prestanku obavljanja djelatnosti, informacije i dokumentaciju o poduzetim radnjama vezano za prestanak obavljanja predmetne/predmetnih djelatnosti, a za dodatne usluge iz članka 13. stavka 1. podstavka 2. ovoga Zakona i dokaze iz kojih proizlazi da su obavljene sve radnje za prestanak obavljanja dodatnih usluga, u skladu s odredbama članka 96. stavka 2. ovoga Zakona«.
+
+Točka 57. briše se.
+
+Iza točke 64. dodaju se točke 64.a i 64.b koje glase:
+
+»64.a ne izvještava redovito Agenciju o tržištima na kojima trguje i instrumentima kojima trguje za račun UCITS fondova kojima upravlja u skladu s člankom 207.a stavkom 1. ovoga Zakona
+
+64.b ne dostavlja u izvještaju Agenciji sveobuhvatne informacije iz članka 207.a stavaka 2., 3. i 4. ovoga Zakona za svaki UCITS fond kojim upravlja«.
+
+Točka 67. mijenja se i glasi:
+
+»67. ne dostavi prospekt UCITS fonda i ključne podatke za ulagatelje na trajnom mediju ili putem mrežne stranice društva za upravljanje, ili, na zahtjev ulagatelja, besplatno u tiskanom obliku, u skladu s odredbom članka 211. stavka 2. ovoga Zakona
+
+U točki 68. riječ: »stavka 4.« zamjenjuje se riječju: »stavka 5.«.
+
+#### Članak 87.
+
+U članku 401. stavku 1. točka 4. briše se.
+
+#### Članak 88.
+
+U članku 402. stavku 1. točki 2. iza riječi: »djelatnosti« dodaju se riječi: »i usluge«.
+
+U točki 3. riječi: »članka 70. stavka 6.« zamjenjuju se riječima: »članka 72.«.
+
+#### Članak 89.
+
+U članku 404. stavku 1. točka 1. briše se.
+
+Dosadašnje točke 2. do 6. postaju točke 1. do 5.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 90.
+
+Postupci započeti prema odredbama Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16., 126/19., 110/21., 76/22. i 152/24.) dovršit će se prema odredbama toga Zakona.
+
+#### Članak 91.
+
+(1) Upravno vijeće Agencije donijet će pravilnike iz članaka 46. i 75. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Upravno vijeće Agencije uskladit će pravilnike donesene na temelju Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16., 126/19., 110/21., 76/22. i 152/24.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 92.
+
+(1) Društva za upravljanje dužna su uskladiti pravila i prospekte UCITS fondova s odredbama članaka 24., 49. i 53. ovoga Zakona do 16. travnja 2026.
+
+(2) Društva za upravljanje dužna su usvojiti politike i procedure iz odredbi članka 24. ovoga Zakona do 16. travnja 2026.
+
+(3) Društva za upravljanje dužna su obavijestiti Agenciju o svim predloženim odnosno planiranim promjenama obveznog sadržaja pravila UCITS fonda koja se odnose isključivo na usklađenje s odredbama članaka 24. i 53. ovoga Zakona.
+
+(4) Agencija će u roku od 30 dana od dana zaprimanja obavijesti iz stavka 3. ovoga članka obavijestiti društvo za upravljanje o eventualnim ograničenjima pri provedbi navedenih promjena ili će predložene promjene odbiti ako utvrdi da su iste promjene neusklađene s odredbama članaka 24. i 53. ovoga Zakona.
+
+(5) Ako u roku od 30 dana od dana zaprimanja obavijesti iz stavka 3. ovog članka o predloženim odnosno planiranim promjenama obveznog sadržaja pravila UCITS fonda koje se odnose isključivo na usklađenje s odredbama članaka 24. i 53. ovoga Zakona Agencija ne obavijesti društvo za upravljanje o eventualnim ograničenjima pri provedbi navedenih promjena, smatra se da je izdala odobrenje na predmetne izmjene pravila UCITS fonda.
+
+(6) Društvo za upravljanje dužno je u skladu s odredbama članka 199. stavka 2. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16., 126/19., 110/21., 76/22. i 152/24.) na svojoj mrežnoj stranici objaviti informaciju o promjeni pravila te izmijenjena odnosno dopunjena pravila UCITS fonda i u istom roku objaviti ažurirani prospekt UCITS fonda u dijelu koji se odnosi na usklađivanje s člankom 49. ovoga Zakona.
+
+(7) Ako Agencija nije obavijestila društvo za upravljanje o eventualnim ograničenjima pri provedbi navedenih promjena iz stavka 3. ovoga članka u roku od 30 dana od dana zaprimanja predmetne obavijesti, Agencija zadržava pravo, pri obavljanju nadzora, naknadno zahtijevati dopune, dodatna pojašnjenja ili izmjene pravila UCITS fonda u dijelu koji se odnosi na odredbe članaka 24. i 53. ovoga Zakona, ako se to pri obavljanju nadzora pokaže potrebnim radi potpune usklađenosti s predmetnim odredbama.
+
+*Stupanje na snagu*
+
+#### Članak 93.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članaka 45., 46. i 47. ovoga Zakona, odredbe članka 397. stavka 1. točaka 58.a, 58.b koje su dodane člankom 85. ovoga Zakona, odredbe članka 397. stavka 1. točke 58. koja je izmijenjena člankom 85. ovoga Zakona i odredbe članka 398. stavka 1. točke 57. koja je brisana člankom 86. ovoga Zakona koje stupaju na snagu 16. travnja 2026., odredbe članka 397. stavka 1. točaka 28.a, 28.b, 28.c, 28.d koje su dodane člankom 85. ovoga Zakona koje stupaju na snagu 17. travnja 2026., odredbe članka 58. ovoga Zakona koja stupa na snagu 16. travnja 2027. i odredbe članka 56. ovoga Zakona koja stupa na snagu 10. siječnja 2028.
+
+Klasa: 022-02/25-01/96  
+Zagreb, 29. siječnja 2026.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

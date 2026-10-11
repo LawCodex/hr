@@ -42,43 +42,36 @@ Ovom se Uredbom u pravni poredak Republike Hrvatske prenosi Direktiva Vijeća 20
 Visina trošarine iz članka 84. stavka 3. Zakona o trošarinama iznosi za:
 
 <table><tbody>
-
 <tr>
 <td>1.</td>
 <td colspan="3">Motorne benzine koji se koriste kao pogonska goriva:</td>
 </tr>
-
 <tr>
 <td></td>
 <td>1.1.</td>
 <td>Olovni benzin iz tarifnih oznaka<br> KN 2710 11 31, 2710 11 51, 2710 11 59</td>
 <td>4.000,00 kn/1000 l</td>
 </tr>
-
 <tr>
 <td></td>
 <td>1.2.</td>
 <td>Bezolovni benzin iz tarifnih oznaka<br> KN 2710 11 31, 2710 11 41, 2710 11 45, 2710 11 49</td>
 <td>3.360,00 kn/1000 l</td>
 </tr>
-
 <tr>
 <td>2.</td>
 <td colspan="3">Plinsko ulje iz tarifnih oznaka 2710 19 41 do 2710 19 49</td>
 </tr>
-
 <tr>
 <td></td>
 <td>2.1.</td>
 <td>za pogon</td>
 <td>2.560,00 kn/1000 l</td>
 </tr>
-
 <tr>
 <td>3.</td>
 <td colspan="3">Kerozin – petrolej iz tarifnih oznaka 2710 19 21 i 2710 19 25</td>
 </tr>
-
 <tr>
 <td></td>
 <td>3.1.</td>

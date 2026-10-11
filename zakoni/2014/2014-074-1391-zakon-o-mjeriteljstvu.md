@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-06-18
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "74/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "74/14, 111/18, 114/22"
+amendments:
+  - "NN 111/2018 (2150) Zakon o izmjenama Zakona o mjeriteljstvu"
+  - "NN 114/2022 (1738) Zakon o izmjenama Zakona o mjeriteljstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1391"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o mjeriteljstvu
 
 > Izvor: Narodne novine, NN 74/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1391).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 111/2018, NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1204,3 +1209,239 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o mjeriteljstvu (NN 111/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/111/2150*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O MJERITELJSTVU
+
+Proglašavam Zakon o izmjenama Zakona o mjeriteljstvu, koji je Hrvatski sabor donio na sjednici 3. prosinca 2018.
+
+Klasa: 011-01/18-01/157
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 5. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O MJERITELJSTVU**
+
+#### Članak 1.
+
+U Zakonu o mjeriteljstvu (»Narodne novine«, br. 74/14.) u članku 5. točka 2. briše se.
+
+Dosadašnje točke 3. i 4. postaju točke 2. i 3.
+
+#### Članak 2.
+
+U članku 6. stavku 1. točka 17. mijenja se i glasi:
+
+»17. proglašava državne etalone, obavlja upravne i stručne poslove u vezi s državnim etalonima i usklađuje rad nacionalnih umjernih laboratorija«.
+
+Iza točke 17. dodaju se točke 18. – 25. koje glase:
+
+»18. planira, organizira, koordinira i provodi poslove razvoja nacionalnog sustava temeljnog mjeriteljstva
+
+19. osigurava sljedivost mjerenja u Republici Hrvatskoj i provodi umjeravanje etalona i mjerila
+
+20. ostvaruje, čuva i održava državne mjerne etalone i osigurava njihovu sljedivost prema međunarodnim etalonima
+
+21. obavlja poslove istraživanja i razvoja u području temeljnog mjeriteljstva
+
+22. obavlja poslove nacionalnih umjernih laboratorija koji se po potrebi uspostavljaju u okviru Zavoda
+
+23. usklađuje i nadzire rad nacionalnih umjernih laboratorija koji su izvan Zavoda
+
+24. predstavlja Republiku Hrvatsku u međunarodnim mjeriteljskim organizacijama za temeljno mjeriteljstvo i osigurava izvršenje zadaća koje proizlaze iz članstva u tim organizacijama
+
+25. obavlja i druge poslove u skladu sa zakonom.«.
+
+#### Članak 3.
+
+U članku 15. stavku 2. iza riječi: »mjeriteljstvo« briše se zarez i riječi: »Hrvatskog mjeriteljskog instituta«.
+
+U stavku 6. riječ: »HMI« zamjenjuje se riječju: »Zavod«.
+
+#### Članak 4.
+
+U članku 17. stavku 1. riječ: »HMI-a« zamjenjuje se riječju: »Zavoda«.
+
+U stavku 4. riječ: »HMI-u« zamjenjuje se riječju: »Zavodu«.
+
+U stavku 5. iza riječi: »ravnatelj Zavoda« umjesto zareza stavlja se točka, a riječi: »a na osnovi stručnih mjerila i kriterija pripremljenih od strane HMI-a« brišu se.
+
+#### Članak 5.
+
+U članku 18. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»Zavod obavlja sljedeće poslove:«.
+
+U točki 6. riječ: »HMI-a« zamjenjuje se riječju: »Zavoda«.
+
+U točki 7. riječ: »HMI-a« zamjenjuje se riječju: »Zavoda«.
+
+Točka 9. mijenja se i glasi:
+
+»9. obavlja i druge stručne poslove u skladu sa zakonom.«.
+
+Stavak 2. briše se.
+
+#### Članak 6.
+
+U članku 19. stavku 1. riječ: »HMI-a« zamjenjuje se riječju: »Zavoda«.
+
+U stavku 2. riječ: »HMI« zamjenjuje se riječju: »Zavod«.
+
+U stavku 3. riječ: »HMI« zamjenjuje se riječju: »Zavod«.
+
+U stavku 6. riječ: »HMI-a« zamjenjuje se riječju: »Zavoda«.
+
+#### Članak 7.
+
+U članku 32. stavku 2. riječ: »HMI« zamjenjuje se riječju: »Zavod«.
+
+#### Članak 8.
+
+U članku 44. stavku 2. uvodna rečenica mijenja se i glasi:
+
+»(2) Djelatnost Zavoda iz stavka 1. ovoga članka financira se:«.
+
+#### Članak 9.
+
+U članku 45. stavku 3. riječ: »HMI-a« zamjenjuje se riječju: »Zavoda«, a riječ: »HMI« zamjenjuje se riječju: »Zavod«.
+
+Stavak 4. briše se.
+
+#### Članak 10.
+
+U članku 46. riječ: »HMI« zamjenjuje se riječju: »Zavod«, iza riječi: »proglašenje državnog etalona« umjesto zareza stavlja se točka, a riječi: »kao i plaće za rad djelatnika koji obavljaju ove poslove.« brišu se.
+
+#### Članak 11.
+
+U članku 47. stavku 1. iza riječi: »Zavod« briše se zarez i riječ: »HMI«.
+
+U stavku 5. riječ: »HMI« zamjenjuje se riječju: »Zavod«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 12.
+
+(1) Danom stupanja na snagu ovoga Zakona Hrvatski mjeriteljski institut prestaje s radom.
+
+(2) Radnici Hrvatskog mjeriteljskog instituta zatečeni u radnom odnosu na dan stupanja na snagu ovoga Zakona postaju državni službenici ili namještenici i preuzimaju se u Državni zavod za mjeriteljstvo.
+
+(3) Državni zavod za mjeriteljstvo preuzet će poslove, imovinu, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva te prava i obveze Hrvatskog mjeriteljskog instituta.
+
+(4) Ravnatelj Hrvatskog mjeriteljskog instituta podnijet će prijavu za upis prestanka Hrvatskog mjeriteljskog instituta u sudskom registru u roku od osam dana od dana stupanja na snagu ovoga Zakona.
+
+(5) Hrvatski mjeriteljski institut prestaje danom upisa brisanja u sudskom registru.
+
+(6) Danom upisa brisanja Hrvatskog mjeriteljskog instituta iz sudskog registra prestaje mandat ravnatelju, zamjeniku i pomoćnicima ravnatelja, predsjedniku i članovima Upravnog vijeća te članovima Mjeriteljskog savjeta Hrvatskog mjeriteljskog instituta.
+
+(7) Vlada Republike Hrvatske će u roku od 60 dana od dana stupanja na snagu ovoga Zakona uredbom urediti unutarnji ustroj Državnog zavoda za mjeriteljstvo u skladu s odredbama ovoga Zakona.
+
+(8) Ravnatelj Zavoda uskladit će pravilnik o unutarnjem redu prema uredbi iz stavka 7. ovoga članka u roku od 30 dana od dana njezina stupanja na snagu.
+
+(9) Do donošenja pravilnika iz stavka 8. ovoga članka i rasporedu sukladno propisima o državnim službenicima preuzeti radnici iz stavka 2. ovoga članka nastavljaju obavljati poslove koje su obavljali i zadržavaju sva prava iz radnog odnosa koja su stekli do dana preuzimanja.
+
+(10) Nakon donošenja pravilnika iz stavka 8. ovoga članka državni službenici i namještenici iz stavka 2. ovoga članka rasporedit će se sukladno propisima o državnim službenicima.
+
+(11) Preuzeti državni službenici iz stavka 2. ovoga članka koji neće biti raspoređeni stavit će se na raspolaganje Vladi Republike Hrvatske sukladno propisima o državnim službenicima.
+
+(12) Preuzetim namještenicima iz stavka 2. ovoga članka koji neće biti raspoređeni otkazat će se radni odnos sukladno općim propisima o radu.
+
+(13) Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o osnivanju Hrvatskog mjeriteljskog instituta (»Narodne novine«, br. 77/08.).
+
+#### Članak 13.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/179
+
+Zagreb, 3. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama Zakona o mjeriteljstvu (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1738*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O MJERITELJSTVU
+
+Proglašavam Zakon o izmjenama Zakona o mjeriteljstvu, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/136
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O MJERITELJSTVU**
+
+### Članak 1.
+
+U Zakonu o mjeriteljstvu (»Narodne novine«, br. 74/14. i 111/18.) u članku 52. stavku 3. riječi: »od 1000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 1320,00 eura«, a riječi: »od 2000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 6630,00 eura«.
+
+### Članak 2.
+
+U članku 65. stavku 1. riječi: »od 1000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 1320,00 eura«, a riječi: »od 2000,00 do 50.000,00« zamjenjuju se riječima: »od 260,00 do 6630,00 eura«.
+
+U stavku 2. riječi: »od 1000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 1320,00 eura«.
+
+### Članak 3.
+
+U članku 66. stavku 1. riječi: »od 10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 3980,00 eura«, a riječi: »od 50.000,00 do 100.000,00 kuna« zamjenjuju se riječima: »od 6630,00 do 13.270,00 eura«.
+
+U stavku 2. riječi: »od 10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 3980,00 eura«.
+
+### Članak 4.
+
+U članku 67. stavku 1. riječi: »od 30.000,00 do 70.000,00 kuna« zamjenjuju se riječima: »od 3980,00 do 9290,00 eura«, a riječi: »od 100.000,00 do 200.000,00 kuna« zamjenjuju se riječima: »od 13.270,00 do 26.540,00 eura«.
+
+U stavku 2. riječi: »od 30.000,00 do 70.000,00 kuna« zamjenjuju se riječima: »od 3980,00 do 9290,00 eura«.
+
+### Članak 5.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/136
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

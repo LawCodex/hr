@@ -88,12 +88,10 @@ Nagrada stečajnom upravitelju iznosi najviše 795.000,00 kuna od čega s osnove
 Nagrada stečajnom upravitelju s osnove vrijednosti unovčene stečajne mase obračunava se primjenom tablice vrijednosti unovčene stečajne mase i nagrade u postocima:
 
 <table><tbody>
-
 <tr>
 <td colspan="4">Vrijednost unovčene stečajne mase u kunama</td>
 <td>Nagrada u %</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -101,7 +99,6 @@ Nagrada stečajnom upravitelju s osnove vrijednosti unovčene stečajne mase obr
 <td>100.000,00</td>
 <td>16</td>
 </tr>
-
 <tr>
 <td>na razliku od</td>
 <td>100.000,01</td>
@@ -109,7 +106,6 @@ Nagrada stečajnom upravitelju s osnove vrijednosti unovčene stečajne mase obr
 <td>300.000,00</td>
 <td>12</td>
 </tr>
-
 <tr>
 <td>na razliku od</td>
 <td>300.000,01</td>
@@ -117,7 +113,6 @@ Nagrada stečajnom upravitelju s osnove vrijednosti unovčene stečajne mase obr
 <td>500.000,00</td>
 <td>10</td>
 </tr>
-
 <tr>
 <td>na razliku od</td>
 <td>500.000,01</td>
@@ -125,7 +120,6 @@ Nagrada stečajnom upravitelju s osnove vrijednosti unovčene stečajne mase obr
 <td>1.000.000,00</td>
 <td>8</td>
 </tr>
-
 <tr>
 <td>na razliku od</td>
 <td>1.000.000,01</td>
@@ -133,7 +127,6 @@ Nagrada stečajnom upravitelju s osnove vrijednosti unovčene stečajne mase obr
 <td>5.000,000,00</td>
 <td>7</td>
 </tr>
-
 <tr>
 <td>na razliku od</td>
 <td>5.000.000,01</td>
@@ -141,7 +134,6 @@ Nagrada stečajnom upravitelju s osnove vrijednosti unovčene stečajne mase obr
 <td>10.000.000,00</td>
 <td>6</td>
 </tr>
-
 <tr>
 <td>na razliku od</td>
 <td>10.000.000,01</td>
@@ -149,7 +141,6 @@ Nagrada stečajnom upravitelju s osnove vrijednosti unovčene stečajne mase obr
 <td>12.000.000,00</td>
 <td>5</td>
 </tr>
-
 <tr>
 <td>na razliku iznad</td>
 <td colspan="2">12.000,000,01</td>

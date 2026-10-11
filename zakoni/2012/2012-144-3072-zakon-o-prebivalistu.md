@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2012-12-21
-last_amended: 2013-12-27
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "144/12, 158/13"
+narodne_novine: "144/12, 158/13, 114/22"
 amendments:
   - "NN 158/2013 (3310) Uredba o izmjeni Zakona o prebivalištu"
+  - "NN 114/2022 (1692) Zakon o izmjenama Zakona o prebivalištu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3072"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 144/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3072).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 158/2013.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 158/2013, NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -366,3 +367,53 @@ Zagreb, 27. prosinca 2013.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+## Zakon o izmjenama Zakona o prebivalištu (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1692*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O PREBIVALIŠTU
+
+Proglašavam Zakon o izmjenama Zakona o prebivalištu, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/90  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O PREBIVALIŠTU**
+
+### Članak 1.
+
+U Zakonu o prebivalištu (»Narodne novine«, br. 144/12. i 158/13.) u članku 16. riječi: »od 500,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 60,00 do 660,00 eura«.
+
+### Članak 2.
+
+U članku 17. stavku 1. riječi: »od 5.000,00 do 15.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1990,00 eura«.
+
+U stavku 2. riječi: »od 1.000,00 do 5.000,00 kuna« zamjenjuju se riječima: »od 130,00 do 660,00 eura«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/90
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

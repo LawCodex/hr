@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 1996-10-30
-last_amended: 2002-07-05
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2002; may be obsolete or implicitly repealed"
+last_amended: 2019-10-16
+status: in_force
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "92/96, 92/99, 80/02"
+narodne_novine: "92/96, 92/99, 80/02, 98/19"
 amendments:
   - "NN 92/1999 (1593) Ispravak Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine"
   - "NN 80/2002 (1292) Zakon o izmjenama i dopunama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine"
+  - "NN 98/2019 (1922) Zakon o izmjenama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/1996/92/1600"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 92/1996 (https://narodne-novine.nn.hr/eli/sluzbeni/1996/92/1600).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/1999, NN 80/2002.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 92/1999, NN 80/2002, NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -883,3 +884,103 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Zlatko Tomčić, v. r.
+
+## Zakon o izmjenama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1922*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O NAKNADI ZA IMOVINU ODUZETU ZA VRIJEME JUGOSLAVENSKE KOMUNISTIČKE VLADAVINE
+
+Proglašavam Zakon o izmjenama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/130
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O NAKNADI ZA IMOVINU ODUZETU ZA VRIJEME JUGOSLAVENSKE KOMUNISTIČKE VLADAVINE**
+
+#### Članak 1.
+
+U Zakonu o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine (»Narodne novine«, br. 92/96., 39/99., 42/99., 92/99., 43/00., 131/00., 27/01., 34/01., 65/01., 118/01., 80/02. i 81/02.) u članku 18. stavku 2. riječi: »uredima državne uprave u županijama« zamjenjuju se riječima: »upravnom tijelu županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na imovinskopravne poslove«, a riječi u zagradama: »ureda državne uprave« brišu se.
+
+#### Članak 2.
+
+U članku 22. stavku 2. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 3.
+
+U članku 23. stavku 1. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 4.
+
+U članku 26. stavcima 1. i 2. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 5.
+
+U članku 28. stavku 1. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 6.
+
+U članku 45. stavku 4. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 7.
+
+U članku 48. stavku 5. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 8.
+
+U članku 56. stavcima 2. i 4. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 9.
+
+U članku 64. stavku 2. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 10.
+
+U članku 65. stavku 1. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 11.
+
+U članku 69. stavku 1. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 12.
+
+U članku 72. stavku 1. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 13.
+
+U članku 73. riječi: »ureda državne uprave« brišu se.
+
+#### Članak 14.
+
+U članku 75. stavku 1. riječi: »ureda državne uprave« brišu se.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 15.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/125
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,13 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2012-07-13
-last_amended: 2014-12-22
+last_amended: 2018-12-19
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "78/12, 152/14"
+narodne_novine: "78/12, 152/14, 114/18"
 amendments:
   - "NN 152/2014 (2862) Zakon o izmjenama i dopunama Zakona o javno-privatnom partnerstvu"
+  - "NN 114/2018 (2214) Zakon o izmjenama Zakona o javno-privatnom partnerstvu"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2012/78/1833"
 retrieved: 2026-10-12
 ---
@@ -21,7 +22,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 78/2012 (https://narodne-novine.nn.hr/eli/sluzbeni/2012/78/1833).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 152/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 152/2014, NN 114/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -828,3 +829,61 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o javno-privatnom partnerstvu (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2214*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O JAVNO-PRIVATNOM PARTNERSTVU
+
+Proglašavam Zakon o izmjenama Zakona o javno-privatnom partnerstvu, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/202
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O JAVNO-PRIVATNOM PARTNERSTVU**
+
+### Članak 1.
+
+U Zakonu o javno-privatnom partnerstvu (»Narodne novine«, br. 78/12. i 152/14.) u članku 1. stavak 1. mijenja se i glasi:
+
+»(1) Ovim se Zakonom uređuje postupak predlaganja i odobravanja prijedloga projekata javno-privatnog partnerstva, praćenje provedbe projekata javno-privatnog partnerstva, sadržaj ugovora o javno-privatnom partnerstvu, pitanja projekata javno-privatnog partnerstva male vrijednosti te druga bitna pitanja.«
+
+### Članak 2.
+
+U cijelom tekstu Zakona o javno-privatnom partnerstvu riječ: »Agencija« u određenom padežu zamjenjuje se riječima: »ministarstvo nadležno za gospodarstvo« u odgovarajućem padežu.
+
+### Članak 3.
+
+(1) Uredbu o provedbi projekata javno-privatnog partnerstva (»Narodne novine«, br. 88/12. i 15/15.) Vlada Republike Hrvatske u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladit će prema odredbama ovoga Zakona.
+
+(2) Pravilnik o ustrojstvu i vođenju Registra ugovora o javno--privatnom partnerstvu (»Narodne novine«, br. 16/13.) ministar nadležan za gospodarstvo u roku od 60 dana od dana stupanja na snagu ovoga Zakona uskladit će prema odredbama ovoga Zakona.
+
+### Članak 4.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/233
+
+Zagreb, 7. prosinca 2018
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r

@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2009-03-09
-status: unknown
-status_basis: "no repeal detected in Narodne novine, but no amendment since 2009; may be obsolete or implicitly repealed"
-text_version: original
-narodne_novine: "30/09"
-amendments: []
+last_amended: 2022-06-17
+status: in_force
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "30/09, 25/18, 69/22"
+amendments:
+  - "NN 25/2018 (478) Zakon o izmjenama i dopuni Zakona o strukovnom obrazovanju"
+  - "NN 69/2022 (1024) Zakon o izmjenama i dopunama Zakona o strukovnom obrazovanju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/652"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o strukovnom obrazovanju
 
 > Izvor: Narodne novine, NN 30/2009 (https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/652).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 25/2018, NN 69/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -734,3 +739,737 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Luka Bebić, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o strukovnom obrazovanju (NN 25/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/25/478*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O STRUKOVNOM OBRAZOVANJU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o strukovnom obrazovanju, koji je Hrvatski sabor donio na sjednici 2. ožujka 2018.
+
+Klasa: 011-01/18-01/30
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 8. ožujka 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O STRUKOVNOM OBRAZOVANJU**
+
+#### Članak 1.
+
+U Zakonu o strukovnom obrazovanju (»Narodne novine«, br. 30/09., 24/10. i 22/13.) članak 3. mijenja se i glasi:
+
+»Pojedini pojmovi u smislu ovoga Zakona imaju sljedeća značenja:
+
+1. strukovno obrazovanje je proces stjecanja, vrednovanja i potvrde posjedovanja ishoda učenja koji provode ustanove za strukovno obrazovanje, a provodi se prema strukovnome kurikulumu,
+
+2. strukovno osposobljavanje podrazumijeva obrazovanje kojim se stječu kompetencije za obavljanje jednostavnih poslova,
+
+3. strukovno usavršavanje podrazumijeva obrazovanje kojim se stječu dodatne kompetencije iste ili više razine kvalifikacije u sklopu obrazovnoga sektora kojemu kvalifikacija polaznika pripada,
+
+4. formalno učenje je organizirana aktivnost ovlaštene pravne ili fizičke osobe koja se izvodi prema odobrenim programima radi stjecanja i unapređivanja kompetencija za osobne, društvene i profesionalne potrebe, a dokazuje se svjedodžbom, diplomom ili drugom javnom ispravom koju izdaje ovlaštena pravna osoba,
+
+5. kompetencije su znanje i vještine te pripadajuća samostalnost i odgovornost,
+
+6. ključne kompetencije za cjeloživotno učenje su kompetencije odgovarajuće razine koje su nužne pojedincu za uključenost u život zajednice. Osnova su za stjecanje kompetencija tijekom života za sve osobne, društvene i profesionalne potrebe, a obuhvaćaju komunikaciju na materinskome jeziku, komunikaciju na stranim jezicima, matematičku kompetenciju i osnovne kompetencije u prirodoslovlju i tehnologiji, digitalnu kompetenciju, kompetenciju učiti kako učiti, socijalnu i građansku kompetenciju, inicijativnost i poduzetnost te kulturnu svijest i izražavanje,
+
+7. učenje temeljeno na radu je stjecanje znanja i vještina sudjelovanjem u aktivnostima u radnom okruženju, a prisutno je u tri oblika u strukovnim kurikulumima: kao kombinirani programi ili naukovanje, u školi s razdobljima kod poslodavaca i integrirano u programu strukovnog obrazovanja i osposobljavanja,
+
+8. poslodavac je gospodarski subjekt u smislu propisa koji regulira poticanje razvoja maloga gospodarstva koji provodi učenje temeljeno na radu,
+
+9. nacionalni kurikulum za strukovno obrazovanje je dokument kojim se određuju svrha, vrijednosti, ciljevi, procesi učenja i poučavanja, organizacija i načini vrednovanja ishoda učenja u sustavu strukovnog obrazovanja Republike Hrvatske,
+
+10. sektorski kurikulum je dokument kojim se određuje okvir koji obuhvaća sve strukovne kurikulume kojima se omogućuje stjecanje kvalifikacija na razinama od 2 do 5 Hrvatskoga kvalifikacijskog okvira (u daljnjem tekstu: HKO) jednoga obrazovnog sektora,
+
+11. kurikulum ustanove za strukovno obrazovanje je dokument koji izrađuje i donosi ustanova za strukovno obrazovanje kojim se detaljno razrađuje odgojno-obrazovni proces kojim se stječu kvalifikacije na razinama od 2 do 5 HKO-a u toj ustanovi, a izrađuje se na temelju sektorskih i strukovnih kurikuluma,
+
+12. strukovni kurikulum je dokument kojim se definira proces i uvjeti stjecanja kvalifikacija na razinama od 2 do 5 HKO-a,
+
+13. kvalifikacija je naziv za objedinjene skupove ishoda učenja određenih razina, obujma, profila, vrste i kvalitete, a koja se dokazuje javnom ispravom koju izdaje ovlaštena pravna osoba,
+
+14. razine kvalifikacija označavaju složenost i doseg stečenih kompetencija, a opisuju se skupom mjerljivih pokazatelja,
+
+15. kreditni bod je mjerna jedinica kojom se iskazuje obujam stečenih kompetencija, a određuje se prosječnim ukupno utrošenim vremenom polaznika koji su uspješno svladali program, a koje je potrebno za stjecanje tih kompetencija,
+
+16. standard zanimanja je popis svih poslova koje pojedinac obavlja u određenom zanimanju i popis kompetencija potrebnih za njihovo uspješno obavljanje,
+
+17. standard kvalifikacije je sadržaj i struktura određene kvalifikacije. Uključuje sve podatke koji su potrebni za određivanje razine, obujma i profila kvalifikacije te podatke koji su potrebni za osiguravanje i unapređenje kvalitete standarda kvalifikacije,
+
+18. modul je zaokružena cjelina u strukovnome kurikulumu koja povezuje strukovne i ključne kompetencije te sadrži popis skupova ishoda učenja,
+
+19. obrazovni sektor je skupina kvalifikacija jednog obrazovnog područja i zanimanja koja koriste ishode tih kvalifikacija na radnom mjestu,
+
+20. podsektor je skupina srodnih programa u sklopu jednoga obrazovnog sektora,
+
+21. ishodi učenja su kompetencije koje je osoba stekla učenjem i dokazala nakon postupka učenja,
+
+22. skup ishoda učenja je najmanji cjeloviti skup povezanih ishoda učenja iste razine, obujma i profila.«.
+
+#### Članak 2.
+
+Naslov iznad članka 5. mijenja se i glasi: »II. STJECANJE KVALIFIKACIJA«.
+
+Članak 5. mijenja se i glasi:
+
+»(1) Strukovnim obrazovanjem stječe se kvalifikacija određene razine, obujma, profila i kvalitete koja se dokazuje javnom ispravom te se omogućuje uključivanje na tržište rada ili nastavak obrazovanja.
+
+(2) Iznimno, polaznicima programa za stjecanje zdravstvenih kvalifikacija, nakon završenoga dvogodišnjega općeobrazovnog dijela obrazovanja, izdaje se uvjerenje.
+
+(3) Proces učenja temeljenog na radu sastavni je i neodvojiv dio strukovnog obrazovanja i partnerski se provodi između ustanova za strukovno obrazovanje i poslodavaca.
+
+(4) Učenje temeljeno na radu provodi se:
+
+– kod poslodavca i/ili
+
+– u ustanovi za strukovno obrazovanje, koja može biti i regionalni centar kompetentnosti.
+
+(5) Polaznici mogu stjecati ishode učenja i tijekom razdoblja međunarodne mobilnosti u drugoj zemlji kod poslodavca ili u ustanovi za strukovno obrazovanje.
+
+(6) Sadržaj i oblik javne isprave iz stavka 1. ovoga članka te sadržaj i oblik uvjerenja iz stavka 2. ovoga članka propisuje pravilnikom ministar nadležan za obrazovanje (u daljnjem tekstu: ministar).«.
+
+#### Članak 3.
+
+Članak 6. briše se.
+
+#### Članak 4.
+
+Članak 7. mijenja se i glasi:
+
+»(1) Kreditni bodovi dodjeljuju se kvalifikacijama i pripadajućim skupovima ishoda učenja.
+
+(2) Jedan kreditni bod dodjeljuje se polazniku za prosječno 15 do 25 radnih sati u trajanju od 60 minuta potrebnih za stjecanje odgovarajućih ishoda učenja.
+
+(3) Jednom stečeni kreditni bodovi određenoga skupa ishoda učenja pripadajućega standarda kvalifikacije priznaju se kao stečeni kreditni bodovi skupa ishoda učenja istog naziva i sadržaja drugog standarda kvalifikacije.
+
+(4) Zbroj kreditnih bodova svih skupova ishoda učenja određenoga standarda kvalifikacije odgovarajuće razine jednak je obujmu te kvalifikacije.«.
+
+#### Članak 5.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Strukovno obrazovanje ostvaruje se na temelju nacionalnoga kurikuluma za strukovno obrazovanje, sektorskih kurikuluma, strukovnih kurikuluma te kurikuluma ustanove za strukovno obrazovanje.
+
+(2) Sektorski kurikulum je okvir koji obuhvaća sve strukovne kurikulume kojima se omogućuje stjecanje kvalifikacija na razinama od 2 do 5 HKO-a jednoga obrazovnog sektora te pripadajuće skupove ishoda učenja iz standarda kvalifikacija.
+
+(3) Sektorski kurikulum sadrži popis svih kvalifikacija obrazovnoga sektora koje se mogu stjecati strukovnim obrazovanjem u sklopu pojedinoga obrazovnog sektora, trajanje obrazovanja, načine i uvjete za ostvarivanje horizontalne i vertikalne prohodnosti u sklopu obrazovnoga sektora te modele i preporuke za provođenja svih oblika učenja temeljenog na radu.
+
+(4) Strukovnim kurikulumom stječu se ključne i strukovne kompetencije te definiraju pravila i načini kombiniranja skupova ishoda učenja s ciljem stjecanja kvalifikacije. Skupovi ishoda učenja grupiraju se u obvezne i izborne module određenoga obujma, a za svaki modul navode nastavne cjeline, okruženje za učenje te načini praćenja stjecanja skupova ishoda učenja i vrednovanje ishoda učenja. Strukovnim kurikulumom može se utvrditi i popis potrebnih kvalifikacija nastavnika za izvođenje kurikuluma.
+
+(5) Strukovnim kurikulumom stječe se najmanje 70% kreditnih bodova obveznih skupova ishoda i najviše 30% kreditnih bodova izbornih skupova ishoda učenja od ukupnoga obujma kvalifikacije.
+
+(6) Kurikulum ustanove za strukovno obrazovanje izrađuje se na temelju sektorskih i strukovnih kurikuluma nakon njihova donošenja u suradnji s dionicima strukovnog obrazovanja na lokalnoj i regionalnoj razini.
+
+(7) Kurikulumom ustanove za strukovno obrazovanje utvrđuje se plan i vremenski slijed stjecanja ishoda učenja s pripadajućim nastavnim temama, metodama učenja i poučavanja, načinima praćenja, vrednovanja i ocjenjivanja te zajedničkim aktivnostima i horizontalnim temama koje pridonose stjecanju ishoda učenja.
+
+(8) Udjeli ključnih kompetencija utvrđuju se u nacionalnome okvirnom kurikulumu i nacionalnome kurikulumu za strukovno obrazovanje.
+
+(9) Metodologiju izrade sektorskoga kurikuluma i strukovnoga kurikuluma, kao i smjernice za izradu kurikuluma ustanove za strukovno obrazovanje, utvrđuje agencija nadležna za strukovno obrazovanje (u daljnjem tekstu: Agencija).
+
+(10) Nacionalni kurikulum za strukovno obrazovanje donosi ministar.
+
+(11) Sektorski kurikulum i strukovni kurikulum donosi ministar, na prijedlog Agencije.
+
+(12) Kurikulum ustanove za strukovno obrazovanje donosi ustanova najkasnije do 31. kolovoza tekuće godine prije početka školske godine u kojoj se počinje primjenjivati.
+
+(13) Ustanova za strukovno obrazovanje dužna je najkasnije u roku od 15 dana od dana donošenja kurikuluma iz stavka 12. ovoga članka dostaviti ga Agenciji, o čemu Agencija vodi evidenciju.«.
+
+#### Članak 6.
+
+Članak 9. mijenja se i glasi:
+
+»(1) Nacionalni sustav osiguravanja kvalitete strukovnog obrazovanja povezan je s Europskim sustavom osiguravanja kvalitete u strukovnom obrazovanju i osposobljavanju (EQAVET).
+
+(2) Sustav osiguravanja kvalitete strukovnog obrazovanja uspostavlja se na razini pružatelja strukovnog obrazovanja i na razini kvalifikacija. Sustav osiguravanja kvalitete temelji se na postupcima samovrednovanja i vanjskog vrednovanja.
+
+(3) Postupci samovrednovanja i vanjskog vrednovanja provode se u pojedinoj ustanovi za strukovno obrazovanje, uključujući neposredni uvid u rad ustanove za strukovno obrazovanje te na temelju nacionalnih, odnosno posebnih ispita.
+
+(4) Rezultate samovrednovanja i vanjskog vrednovanja ustanove za strukovno obrazovanje moraju koristiti za unapređivanje kvalitete rada i ostvarivanje boljih rezultata.
+
+(5) Metodologiju i područja samovrednovanja ustanova za strukovno obrazovanje donosi Agencija.
+
+(6) Metodologiju vanjskog vrednovanja ustanova za strukovno obrazovanje donosi Nacionalni centar za vanjsko vrednovanje obrazovanja u suradnji s Agencijom.
+
+(7) Agencija vodi i održava informacijski sustav koji pruža potporu ustanovama za strukovno obrazovanje u provedbi samovrednovanja, koristi se njime pri vanjskom vrednovanju ustanova za strukovno obrazovanje te za izvješćivanje i praćenje pokazatelja kvalitete.
+
+(8) Pokazatelje kvalitete strukovnog obrazovanja, njihovo praćenje te korištenje rezultata vrednovanja ustanova za strukovno obrazovanje propisuje ministar pravilnikom.«.
+
+#### Članak 7.
+
+Članak 10. briše se.
+
+#### Članak 8.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Ustanove za strukovno obrazovanje dužne su provoditi samovrednovanje i sudjelovati u postupku vanjskog vrednovanja.
+
+(2) Vanjsko vrednovanje ustanova za strukovno obrazovanje provodi Nacionalni centar za vanjsko vrednovanje obrazovanja.«.
+
+#### Članak 9.
+
+Članak 14. mijenja se i glasi:
+
+»(1) Vijeće za strukovno obrazovanje (u daljnjem tekstu: Vijeće) ima 21 člana kojeg imenuje ministar, i to:
+
+– 1 člana na prijedlog Hrvatske udruge poslodavaca,
+
+– 1 člana na prijedlog Hrvatske gospodarske komore,
+
+– 1 člana na prijedlog Hrvatske obrtničke komore,
+
+– 3 člana predstavnika sindikata,
+
+– 1 člana na prijedlog ministarstva nadležnog za gospodarstvo, poduzetništvo i obrt,
+
+– 1 člana na prijedlog ministarstva nadležnog za turizam,
+
+– 1 člana na prijedlog ministarstva nadležnog za poljoprivredu,
+
+– 1 člana na prijedlog ministarstva nadležnog za rad,
+
+– 1 člana predstavnika nacionalnih saveza osoba s invaliditetom koji predstavlja polaznike s teškoćama u razvoju, na prijedlog ministra nadležnog za socijalnu politiku,
+
+– 1 člana na prijedlog Agencije,
+
+– 1 člana na prijedlog Hrvatskog zavoda za zapošljavanje,
+
+– 1 člana na prijedlog Ministarstva,
+
+– 1 člana predstavnika osnivača na prijedlog Hrvatske zajednice županija,
+
+– 4 člana predstavnika ustanova za strukovno obrazovanje,
+
+– 1 člana predstavnika sveučilišnih studija,
+
+– 1 člana predstavnika stručnih studija.
+
+(2) Članovi Vijeća biraju se na razdoblje od pet godina.
+
+(3) Vijeće usklađuje rad svih dionika u području strukovnog obrazovanja, pokreće inicijative za donošenje novih ili izmjene i dopune postojećih kurikuluma, predlaže mjere i aktivnosti te strategije razvoja strukovnog obrazovanja, daje prethodno mišljenje u vezi s donošenjem mreže i imenovanjem regionalnih centara kompetentnosti te obavlja i druge poslove u skladu s odlukom o imenovanju.«.
+
+#### Članak 10.
+
+Članak 15. briše se.
+
+#### Članak 11.
+
+U članku 20. stavak 4. briše se.
+
+#### Članak 12.
+
+Članak 23. mijenja se i glasi:
+
+»Nastavna godina za stjecanje kvalifikacija na razinama od 2 do 5 HKO-a traje najviše 40 tjedana.«.
+
+#### Članak 13.
+
+U članku 24. stavku 2. iza riječi: »obrazovanje« dodaju se zarez i riječi: »koja može biti i regionalni centar kompetentnosti«.
+
+#### Članak 14.
+
+Članak 29. mijenja se i glasi:
+
+»(1) Na izvođenje praktične nastave i vježbi primjenjuju se odredbe ovoga Zakona i propisa koji iz njega proizlaze.
+
+(2) Ako praktična nastava i vježbe kontinuirano traju 4 ili više sati dnevno, polaznicima se mora osigurati najmanje trideset minuta dnevnog odmora.
+
+(3) Tijekom školske godine ustanova za strukovno obrazovanje i poslodavac polaznicima moraju osigurati najmanje 45 radnih dana odmora.
+
+(4) Polaznik ne može biti istoga dana i na nastavi u ustanovi za strukovno obrazovanje i na praktičnoj nastavi i vježbama kod poslodavca.
+
+(5) Maloljetnim redovitim polaznicima praktična nastava i vježbe organiziraju se u vremenu od 6 do 22 sata i ne smiju trajati dulje od osam sati dnevno.
+
+(6) Iznimno, u opravdanima slučajevima, na zahtjev ustanove, a uz prethodno mišljenje Agencije, Ministarstvo može odobriti i drugačiju organizaciju nastave iz stavka 4. ovoga članka.
+
+(7) U provedbi praktične nastave i vježbi osiguravaju se propisane mjere zaštite na radu i mjere sigurnosti sukladno posebnim propisima, kao i odgovarajuća primjena posebnih propisa kojima se uređuju poslovi koje ne smije obavljati maloljetnik.«.
+
+#### Članak 15.
+
+Članak 33. mijenja se i glasi:
+
+»(1) Ustanova za strukovno obrazovanje može biti imenovana regionalnim centrom kompetentnosti (u daljnjem tekstu: Centar).
+
+(2) Centar je mjesto izvrsnosti strukovnog obrazovanja i osposobljavanja u kojemu se uz osnovnu djelatnost strukovnog obrazovanja, koja obuhvaća i provedbu učenja temeljenog na radu, obavlja i osposobljavanje i usavršavanje i druge djelatnosti koje doprinose poboljšanju kvalitete strukovnog obrazovanja i osposobljavanja i njegove prilagodbe potrebama gospodarstva i tržišta rada.
+
+(3) U obavljanju djelatnosti Centar:
+
+– provodi učenje temeljeno na radu,
+
+– provodi stručno osposobljavanje i usavršavanje te cjeloživotno učenje za potrebe gospodarskih subjekata, nezaposlenih i drugih polaznika,
+
+– provodi stručno usavršavanje nastavnika strukovnih predmeta, suradnika u nastavi, mentora kod poslodavaca i drugih stručnjaka u obrazovanju,
+
+– potiče suradnju obrazovnih ustanova na svim razinama s gospodarskim subjektima s ciljem prilagodbe obrazovnih programa potrebama na tržištu rada,
+
+– provodi aktivnosti promocije strukovnih zanimanja i organizaciju smotri i drugih skupova,
+
+– obavlja profesionalno usmjeravanje vezano uz učenje temeljeno na radu, nastavak obrazovanja i pronalazak posla,
+
+– potiče suradnju i sudjeluje u provedbi projekata vezanih uz poboljšanje kvalitete strukovnog obrazovanja i njegove prilagodbe gospodarskim potrebama,
+
+– obavlja druge poslove koji doprinose poboljšanju kvalitete strukovnog obrazovanja i njegove prilagodbe potrebama na tržištu rada.
+
+(4) Sredstva za obavljanje djelatnosti Centra osigurava osnivač, a Centar može stjecati prihode i iz drugih izvora, u skladu sa zakonom.
+
+(5) Temeljna obilježja Centra su inovativne metode poučavanja i inovativni modeli učenja, učenje temeljeno na radu za učinkovitije uključivanje polaznika na tržište rada, uvažavanje potreba polaznika s teškoćama i drugih ranjivih skupina, omogućena vertikalna prohodnost za nastavak obrazovanja, izvrsnost nastavnika, visokokvalitetna infrastruktura, konstruktivna i kreativna suradnja sa socijalnim partnerima, javnim sektorom, gospodarskim subjektima, visokim učilištima i drugim zainteresiranim institucijama šire zajednice.
+
+(6) Mreža centara sadrži skup parametara i detaljnijih smjernica vezanih uz prostorni raspored, područnu zastupljenost, uvažavajući ravnomjerni regionalni razvoj, potrebne prostorne, materijalne i kadrovske uvjete te mogući broj centara na razini Republike Hrvatske temeljen na broju ustanova za strukovno obrazovanje u pojedinom sektoru te optimalnom broju centara s obzirom na broj polaznika, ustanova za strukovno obrazovanje te potrebe tržište rada, kao i razrađene kriterije za njihovo imenovanje.
+
+(7) Mrežu centara iz stavka 6. ovoga članka donosi ministar uz prethodno mišljenje Vijeća.
+
+(8) Mreža centara iz stavka 6. ovoga članka može se izmijeniti na temelju izmijenjenih okolnosti koje predstavljaju elemente za izradu Mreže.
+
+(9) Na temelju parametara i smjernica utvrđenih Mrežom, postupak odabira centara započinje otvorenim javnim pozivom osnivačima ustanova za strukovno obrazovanje koji objavljuje Ministarstvo.
+
+(10) Javni poziv otvoren je do imenovanja broja centara u skladu s Mrežom. Javni poziv može se ponovno otvoriti ako se sukladno Mreži ispune pretpostavke za imenovanje novih centara.
+
+(11) Osnivači predlažu ustanove za strukovno obrazovanje za imenovanje Centrom, temeljem razvojnog plana za razdoblje od pet godina, uz koji moraju ispunjavati sljedeće minimalne uvjete:
+
+– izražena regionalna gospodarska potreba, koja se dokazuje ugovorima o suradnji s relevantnim gospodarskim subjektima, uvažavajući potrebe gospodarstva i tržišta rada na području na kojem djeluje Centar,
+
+– broj polaznika strukovnog obrazovanja i osposobljavanja u obrazovnom sektoru ili sektorima u kojima djeluje Centar u skladu s Mrežom,
+
+– sklopljeni ugovori o suradnji s drugim ustanovama za strukovno obrazovanje, visokim učilištima, strukovnim komorama i drugim institucijama koje doprinose kvaliteti strukovnog obrazovanja u obrazovnom sektoru ili sektorima u kojima djeluje Centar,
+
+– funkcionalna održivost Centra u smislu odgovarajućih financijskih, kadrovskih i materijalnih resursa sukladno Mreži,
+
+– postoji poveznica s razvojnim planovima osnivača,
+
+– prostorni uvjeti za obavljanje djelatnosti strukovnog obrazovanja i osposobljavanja osigurani su na jednoj ili više lokacija.
+
+(12) Uz prijedlog iz stavka 11. ovoga članka obvezno se prilažu dokazi o ispunjavanju uvjeta iz stavka 11. ovoga članka, definirani javnim pozivom.
+
+(13) Ministarstvo prikupljene prijedloge radi provjere ispunjavanja uvjeta upućuje na prethodno mišljenje Vijeću, koje dostavlja mišljenje u roku od 15 dana od dostave zahtjeva za mišljenjem.
+
+(14) Na temelju mišljenja Vijeća i u skladu s Mrežom iz stavka 6. ovoga članka ministar donosi odluku o imenovanju ustanova za strukovno obrazovanje centrima.
+
+(15) Popis centara javno je dostupan na mrežnim stranicama Ministarstva.
+
+(16) Odluka o imenovanju Centra donosi se na razdoblje od pet godina s mogućnošću ponovnog imenovanja. Prijedlog za pokretanje postupka vrednovanja Centra radi ponovnog imenovanja osnivač upućuje Ministarstvu najkasnije šest mjeseci prije isteka razdoblja za koje je ustanova imenovana Centrom.
+
+(17) U postupku vrednovanja Centra radi ponovnog imenovanja Centar mora uz uvjete iz stavka 11. ovoga članka priložiti izvješće o radu za prethodno razdoblje i izrađen razvojni plan Centra za sljedeće razdoblje.
+
+(18) Uz prijedlog iz stavka 16. ovoga članka prilažu se dokazi o ispunjavanju uvjeta iz stavaka 11. i 17. ovoga članka.
+
+(19) Nakon obavljenog postupka vrednovanja iz stavka 17. ovoga članka, a na temelju prethodnog mišljenja Vijeća, ministar donosi odluku o ponovnom imenovanju.
+
+(20) Centar osigurava ukupne stručne i materijalne uvjete za obavljanje djelatnosti redovitim polaznicima.
+
+(21) Ustanova za strukovno obrazovanje koja je imenovana Centrom može, radi obavljanja dodatnih poslova koji proizlaze iz djelokruga rada Centra, zaposliti djelatnika za koordiniranje poslova Centra te druge djelatnike koji ne obavljaju poslove strukovnog obrazovanja i osposobljavanja, s kojim sklapa ugovor o radu na vrijeme imenovanja Centra, a u slučaju ponovnog imenovanja Centra, dopušteno je sklapanje uzastopnih ugovora na određeno vrijeme na koje je Centar ponovno imenovan.«.
+
+#### Članak 16.
+
+U članku 37. stavak 6. mijenja se i glasi:
+
+»(6) Strukovni učitelji i suradnici u nastavi iz ovoga članka pedagoške kompetencije stječu po posebnome programu koji donosi Ministarstvo, a organizira i provodi institucija koju ovlasti Ministarstvo.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 17.
+
+Pravilnike iz članaka 2. i 6. ovoga Zakona ministar će donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 18.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/17-01/178
+
+Zagreb, 2. ožujka 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o strukovnom obrazovanju (NN 69/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/69/1024*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O STRUKOVNOM OBRAZOVANJU
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o strukovnom obrazovanju, koji je Hrvatski sabor donio na sjednici 10. lipnja 2022.
+
+Klasa: 011-02/22-02/51  
+Urbroj: 71-10-01/1-22-2  
+Zagreb, 14. lipnja 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O STRUKOVNOM OBRAZOVANJU**
+
+#### Članak 1.
+
+U Zakonu o strukovnom obrazovanju (»Narodne novine«, br. 30/09., 24/10., 22/13. i 25/18.) u članku 1. stavak 4. mijenja se i glasi:
+
+»(4) Dio djelatnosti strukovnog obrazovanja koji se ostvaruje naukovanjem provodi se na temelju posebnog zakona kojim je uređena djelatnost obrta.«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Djelatnost strukovnog obrazovanja za stjecanje kvalifikacija za regulirane profesije obavljaju ustanove za strukovno obrazovanje na temelju rješenja Ministarstva, sukladno posebnom propisu.«.
+
+#### Članak 2.
+
+U članku 3. točka 7. mijenja se i glasi:
+
+»7. učenje temeljeno na radu je proces stjecanja znanja i vještina te pripadajuće samostalnosti i odgovornosti u ustanovi za strukovno obrazovanje, u ustanovi za strukovno obrazovanje i kod poslodavca, odnosno kod poslodavca,«.
+
+Točka 9. mijenja se i glasi:
+
+»9. nacionalni kurikulum za strukovno obrazovanje je dokument kojim se određuje zajednički okvir strukovnog obrazovanja u Republici Hrvatskoj koji potiče stalni razvoj strukovnog obrazovanja u skladu s osobnim i društvenim razvojem te razvojnim ciljevima hrvatskoga gospodarstva,«.
+
+U točki 19. riječ: »obrazovni« ispred riječi: »sektor« briše se.
+
+#### Članak 3.
+
+U članku 4. stavku 1. podstavku 1. riječ: »temeljnih« zamjenjuje se riječju: »ključnih«.
+
+U stavku 2. podstavku 2. riječ: »rezultate« zamjenjuje se riječju: »ishode«.
+
+#### Članak 4.
+
+U članku 8. stavak 4. mijenja se i glasi:
+
+»(4) Strukovni kurikulum donosi se na temelju jednog ili više standarda kvalifikacija koji su izrađeni na temelju jednog ili više standarda zanimanja sukladno konceptu Hrvatskog kvalifikacijskog okvira, a strukovnim kurikulumom stječu se ključne i strukovne kompetencije te definiraju pravila i načini stjecanja kvalifikacija.«.
+
+#### Članak 5.
+
+Članak 12. mijenja se i glasi:
+
+»(1) Samovrednovanje ustanove za strukovno obrazovanje prati i vrednuje Povjerenstvo za kvalitetu, koje imenuje tijelo upravljanja ustanove za strukovno obrazovanje.
+
+(2) Način i postupak izbora članova Povjerenstva za kvalitetu utvrđuje se statutom ustanove za strukovno obrazovanje.
+
+(3) Povjerenstvo za kvalitetu ima pet članova, i to su:
+
+– ravnatelj ustanove, koji je i predsjednik Povjerenstva,
+
+– predstavnik nastavničkog vijeća,
+
+– predstavnik polaznika,
+
+– predstavnik roditelja,
+
+– predstavnik dionika na prijedlog osnivača.
+
+(4) Za rad Povjerenstva za kvalitetu odgovoran je ravnatelj ustanove za strukovno obrazovanje, koji:
+
+– osigurava uvjete za provedbu svih procesa osiguranja kvalitete,
+
+– osigurava da svi dionici budu uključeni u procese osiguravanja kvalitete,
+
+– pruža podršku zaposlenicima u procesu samovrednovanja.
+
+(5) Za operativnu provedbu procesa samovrednovanja u ustanovi za strukovno obrazovanje ravnatelj imenuje školski tim za samovrednovanje.
+
+(6) Način i postupak izbora članova školskog tima za samovrednovanje utvrđuje se statutom ustanove za strukovno obrazovanje.
+
+(7) Školski tim za samovrednovanje ima tri člana koji se imenuju iz reda nastavnika i stručnih suradnika.
+
+(8) Jedan od tri člana školskog tima za samovrednovanje je voditelj tima i koordinator samovrednovanja.
+
+(9) Školski tim za samovrednovanje:
+
+– koordinira proces samovrednovanja u suradnji s Povjerenstvom za kvalitetu,
+
+– planira provedbu procesa samovrednovanja u suradnji s Povjerenstvom za kvalitetu,
+
+– upravlja aktivnostima koje se provode u procesu samovrednovanja,
+
+– daje stručnu podršku za provedbu procesa samovrednovanja,
+
+– o rezultatima aktivnosti koje se provode u procesu samovrednovanja izvješćuje Povjerenstvo za kvalitetu,
+
+– sastavlja izvješće o samovrednovanju i dostavlja ga Povjerenstvu za kvalitetu na usvajanje,
+
+– koordinira provedbu planiranih unapređenja u suradnji s Povjerenstvom za kvalitetu.«.
+
+#### Članak 6.
+
+Iza članka 12. dodaje se članak 12.a koji glasi:
+
+»Članak 12.a
+
+(1) Upute o elementima i načinu provođenja samovrednovanja, kao i trajanju procesa samovrednovanja u ustanovama za strukovno obrazovanje propisuje Metodologija samovrednovanja koju odlukom donosi Agencija.
+
+(2) O provedenom procesu samovrednovanja predsjednik Povjerenstva za kvalitetu izvješćuje Agenciju.
+
+(3) Upute o sadržaju i načinu izvješćivanja o provedenom procesu samovrednovanja donosi Agencija.«.
+
+#### Članak 7.
+
+Iza članka 14. dodaje se članak 14.a koji glasi:
+
+»Članak 14.a
+
+(1) Ministar, uz prethodno mišljenje Agencije i Vijeća donosi odluku kojom se programi obrazovanja raspoređuju u sektore u skladu s pripadajućim zanimanjima, a na temelju Nacionalne klasifikacije zanimanja koju donosi ministarstvo nadležno za rad.
+
+(2) Sektor/podsektor obuhvaća skupinu programa obrazovanja za obavljanje određenih poslova u različitim zanimanjima.«.
+
+#### Članak 8.
+
+U članku 19. stavku 1. podstavku 1. iza riječi: »redovitih učenika« dodaju se zarez i riječi: »a može obavljati«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Iznimno od stavka 2. ovoga članka, ustanova za strukovno obrazovanje čiji je osnivač druga pravna ili fizička osoba, odnosno čiji su jedini osnivači druge pravne i/ili fizičke osobe način raspolaganja dobiti uređuje statutom, u skladu s člankom 57. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. – ispravak, 47/99. – ispravak, 35/08. i 127/19.).«.
+
+#### Članak 9.
+
+U članku 20. stavku 2. riječi: »praktičnog dijela obrazovanja« zamjenjuju se riječima: »učenja temeljenog na radu te preporukama Hrvatskog zavoda za zapošljavanje za obrazovnu upisnu politiku i politiku stipendiranja«.
+
+#### Članak 10.
+
+Iznad članka 24. dodaje se naziv poglavlja koji glasi: »V.a UČENJE TEMELJENO NA RADU«.
+
+#### Članak 11.
+
+Članak 24. mijenja se i glasi:
+
+»(1) Učenjem temeljenim na radu stječu se specifična znanja i vještine potrebne za samostalan, siguran i odgovoran rad te rješavanje stvarnih problema radnoga procesa određenog zanimanja.
+
+(2) Učenje temeljeno na radu može se ostvarivati u ustanovi za strukovno obrazovanje, regionalnom centru kompetentnosti, kod poslodavca u obrazovnim skupinama ili pojedinačno.
+
+(3) Sektorski kurikulum i/ili strukovni kurikulum određuje obujam i oblik učenja temeljenog na radu.
+
+(4) Ukupan godišnji broj sati učenja temeljenog na radu ostvaruje se u skladu sa strukovnim kurikulumom.
+
+(5) Ustanova za strukovno obrazovanje dužna je ostvariti planirani godišnji broj sati po predmetima, odnosno modulima po modelu koji je najprimjereniji za izvođenje nastave određenoga strukovnog kurikuluma.
+
+(6) Učenje temeljeno na radu kod poslodavca ostvaruje se u cijelosti kod jednog, odnosno više poslodavaca ovisno o definiranim ishodima učenja strukovnoga i izbornoga modula strukovnoga kurikuluma te u skladu sa specifičnostima pojedine kvalifikacije i sektora.
+
+(7) Iznimno od stavka 6. ovoga članka, dio učenja temeljenog na radu koji se ne može ostvariti kod poslodavca izvodi se u ustanovi za strukovno obrazovanje.«.
+
+#### Članak 12.
+
+U članku 25. stavku 1. riječi: »ugovorom o provedbi praktične nastave« zamjenjuju se riječima: »ugovorom o provedbi učenja temeljenog na radu (u daljnjem tekstu: ugovor)«.
+
+#### Članak 13.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Poslodavac može sklopiti ugovor:
+
+– ako ima propisane radne prostore i opremu,
+
+– ako polazniku odredi mentora koji ima odgovarajuću kvalifikaciju i položen ispit kojim se dokazuju osnovna znanja o poučavanju učenika.
+
+(2) Ispit kojim se dokazuju osnovna znanja o poučavanju učenika provodi se na temelju Programa stjecanja osnovnih znanja o poučavanju učenika.
+
+(3) Ispit kojim se dokazuju osnovna znanja o poučavanju učenika provodi se sukladno nadležnostima uređenima posebnim propisima iz područja poduzetništva i obrta i područja obrazovanja.
+
+(4) Ostali uvjeti koje moraju ispunjavati poslodavci za izvođenje učenja temeljenog na radu utvrđuju se pedagoškim standardom i kurikulumom.
+
+(5) Postupak utvrđivanja uvjeta za izvođenje kurikuluma, čiji je sastavni dio obujam i oblik učenja temeljenog na radu, propisuje se odredbama zakona kojim se uređuje djelatnost srednjeg obrazovanja.
+
+(6) Postupak utvrđivanja uvjeta za izvođenje učenja temeljenog na radu te obrasce ugovora propisuje ministar pravilnikom.«.
+
+#### Članak 14.
+
+Iza članka 26. dodaje se članak 26.a koji glasi:
+
+»Članak 26.a
+
+(1) Mentor kod poslodavca:
+
+– samostalno ili s osobom koja ga zamjenjuje poučava polaznika u skladu s kurikulumom za stjecanje određene kvalifikacije,
+
+– osigurava i organizira radno okruženje za stjecanje znanja i vještina potrebnih za obavljanje poslova određenog zanimanja,
+
+– provodi proces rada i učenje na radnom mjestu u svrhu postizanja propisanih ishoda učenja,
+
+– kontinuirano prati postignuća učenika, sudjeluje u procesu vrednovanja i ocjenjivanja,
+
+– surađuje s nastavnikom ustanove za strukovno obrazovanje u usklađivanju realizacije učenja temeljenog na radu te u procesu učenja kako bi se ostvarili očekivani ishodi učenja,
+
+– vodi propisanu pedagošku dokumentaciju i evidenciju,
+
+– sudjeluje u izradbi i obrani završnoga rada.
+
+(2) U slučaju spriječenosti mentora poslodavac može odrediti jednu ili više osoba koje ga zamjenjuju pri poučavaju polaznika.
+
+(3) Osoba iz stavka 2. ovoga članka može zamijeniti mentora u slučaju njegove spriječenosti najduže do 60 dana uzastopno.
+
+(4) Poslove mentora kod poslodavca može obavljati osoba koja je završila najmanje razinu kvalifikacije 4.1 sukladno zakonu kojim je uspostavljen Hrvatski kvalifikacijski okvir, ima položen ispit kojim se dokazuju osnovna znanja o poučavanju učenika te ima radno iskustvo na odgovarajućim poslovima u trajanju od najmanje tri godine, osim ako strukovnim kurikulumom nije drugačije propisano.
+
+(5) Mentor i osoba koja zamjenjuje mentora kod poslodavaca ne može biti osoba koja je pravomoćno osuđena za:
+
+– kazneno djelo protiv života i tijela iz članaka 111., 112., 116., 118., 119., 120. i 122., kazneno djelo protiv osobne slobode iz članaka 138. i 140., neko od kaznenih djela protiv spolne slobode i kaznenih djela spolnog zlostavljanja i iskorištavanja djeteta, kazneno djelo protiv braka, obitelji i djece iz članka 179. Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. – ispravak, 101/17., 118/18., 126/19. i 84/21.),
+
+– kazneno djelo protiv života i tijela iz članaka 91., 99. i 103., kazneno djelo protiv spolne slobode i spolnog ćudoređa iz članaka 188., 189., 190., 191., 192., 193., 194., 195., 196. i 197. Kaznenog zakona (»Narodne novine«, br. 110/97., 27/98. – ispravak, 50/00., 129/00., 51/01., 111/03., 190/03., 105/04., 84/05., 71/06., 110/07., 152/08. i 57/11.).«.
+
+#### Članak 15.
+
+U članku 27. stavak 1. mijenja se i glasi:
+
+»(1) Dužnosti poslodavca koji sklapa ugovor su:
+
+– osigurati prostorne, materijalne i kadrovske uvjete potrebne za postizanje dijela ishoda učenja koji se provode kod poslodavca,
+
+– osigurati mentora koji je u radnom odnosu kod poslodavca te je osposobljen za poučavanje na radnom mjestu i osigurava kvalitetu procesa učenja,
+
+– voditi dokumentaciju pohađanja učenja temeljenog na radu,
+
+– trajno stručno usavršavati svoje mentore,
+
+– osigurati polaznicima poticajno i sigurno okruženje,
+
+– surađivati s ustanovom za strukovno obrazovanje i omogućiti razmjenu znanja i novih tehnologija,
+
+– provoditi propisane mjere zaštite na radu za vrijeme provedbe učenja temeljenog na radu,
+
+– putem mentora sudjelovati u izradbi i obrani završnoga rada.«.
+
+#### Članak 16.
+
+Iza članka 27. dodaje se članak 27.a koji glasi:
+
+»Članak 27.a
+
+Poslodavac ne može provoditi učenje temeljeno na radu ako je poslodavac pravna osoba i/ili odgovorna osoba poslodavca, odnosno fizička osoba poslodavca:
+
+– pravomoćno osuđena za kazneno djelo protiv gospodarstva iz članaka 247., 252., 253., 254., 256., 258. i 265. Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. – ispravak, 101/17., 118/18., 126/19. i 84/21.),
+
+– ako ne posjeduje odgovarajuće prostorne i materijalne uvjete te ne ispunjava zahtjeve sigurnosti i zaštite zdravlja,
+
+– ako joj je oduzeto pravo na primanje polaznika.«.
+
+#### Članak 17.
+
+Članak 28. mijenja se i glasi:
+
+»Obveze polaznika učenja temeljenog na radu kod poslodavca su:
+
+– ostvarivanje ishoda učenja predviđenih strukovnim kurikulumom za stjecanje kvalifikacije učenjem u ustanovi za strukovno obrazovanje te u radnom okruženju,
+
+– razvijanje samostalnosti, odgovornosti, iskustva i navika za ulazak na tržište rada,
+
+– redovito pohađanje učenja temeljenog na radu i svih ostalih oblika nastave, samostalno učenje, briga za svoje radno i životno okruženje,
+
+– razvijanje suradničkog odnosa prema drugima prihvaćajući različitosti, međusobno poštovanje i razumijevanje,
+
+– postupanje u skladu s uputama poslodavca i ustanove za strukovno obrazovanje o provedbi učenja temeljenog na radu,
+
+– postupanje u skladu s propisima o radu i zaštiti na radu,
+
+– sudjelovanje u radnome procesu u skladu s mogućnostima i usvojenim kompetencijama.«.
+
+#### Članak 18.
+
+Iza članka 33. dodaje se članak 33.a koji glasi:
+
+»Članak 33.a
+
+(1) Centar može kroz javno-privatno partnerstvo, a u skladu s odredbama propisa kojima se uređuje javno-privatno partnerstvo osigurati sredstva za osiguravanje radnih strojeva, opreme i ostalih uvjeta za provođenje učenja temeljenog na radu.
+
+(2) Sredstva iz stavka 1. ovoga članka mogu se osigurati iz vlastitih sredstava Centra, sredstava osnivača, poslodavaca te iz drugih izvora.«.
+
+#### Članak 19.
+
+Iza članka 36. dodaje se članak 36.a koji glasi:
+
+»Članak 36.a
+
+(1) Poticaji uključivanja polaznika u kurikulume za stjecanje kvalifikacija relevantnih tržištu rada mogu se osigurati u obliku stipendija iz sredstava državnog proračuna, sredstava fondova Europske unije, proračuna jedinica lokalne i područne (regionalne) samouprave, vlastitih sredstava poslodavaca te iz drugih izvora.
+
+(2) Kriteriji za odabir kurikuluma za stjecanje kvalifikacija relevantnih tržištu rada iz stavka 1. ovoga članka utvrđuju se uzimajući u obzir potrebe gospodarstva i tržišta rada.
+
+(3) Odluku o kriterijima za dodjelu poticaja iz stavka 1. ovoga članka donosi predstavničko tijelo jedinice lokalne i područne (regionalne) samouprave, čelnik nadležnog tijela, odnosno čelna osoba poslodavca, koji dodjeljuju poticaje sukladno promjenama na tržištu rada.
+
+(4) Čelnicima nadležnih tijela iz stavka 3. ovoga članka smatraju se osobe utvrđene sukladno propisima kojima se uređuje sustav državne uprave.
+
+(5) Čelnim osobama poslodavaca smatraju se osobe koje su u skladu s posebnim propisima ovlaštene za zastupanje poslodavca pravne, odnosno fizičke osobe.«.
+
+#### Članak 20.
+
+U članku 37. stavku 2. riječi: »stječe 60« zamjenjuju se riječima: »stječe najmanje 55«.
+
+#### Članak 21.
+
+Članak 38. mijenja se i glasi:
+
+»(1) Stručni nadzor nad izvođenjem učenja temeljenog na radu kod poslodavca provodi povjerenstvo koje imenuje ministar nadležan za gospodarstvo, a koje čine predstavnici ministarstva nadležnog za gospodarstvo, Ministarstva, ustanove za strukovno obrazovanje, Agencije, Hrvatske gospodarske komore i Hrvatske obrtničke komore.
+
+(2) O obavljenom nadzoru nad izvođenjem učenja temeljenog na radu kod poslodavca povjerenstvo iz stavka 1. ovoga članka sastavlja nalaz koji sadrži:
+
+– opis utvrđenog stanja,
+
+– mjere koje je poslodavac dužan poduzeti radi otklanjanja utvrđenih nepravilnosti i nedostataka pri provođenju učenja temeljenog na radu,
+
+– mjere koje se predlažu ustanovi za strukovno obrazovanje čiji učenici polaze učenje temeljeno na radu kod poslodavca nad kojim se obavlja nadzor,
+
+– rokove izvršenja mjera,
+
+– uputu o izjavljivanju primjedbi poslodavca na nalaz.
+
+(3) Nalaz iz stavka 2. ovoga članka dostavlja se poslodavcu nad kojim se obavlja nadzor, ravnatelju ustanove za strukovno obrazovanje čiji učenici polaze učenje temeljeno na radu kod poslodavca nad kojim se obavlja nadzor, ministarstvu nadležnom za gospodarstvo i Ministarstvu.
+
+(4) Ako utvrđene nepravilnosti i nedostaci u provođenju učenja temeljenog na radu kod poslodavca ne budu otklonjeni u roku utvrđenom nalazom iz stavka 2. ovoga članka, postupit će se u skladu s odredbama o ispunjenosti uvjeta za izvođenje kurikuluma propisanima zakonom kojim se uređuje djelatnost srednjeg obrazovanja.
+
+(5) Inspekcijski nadzor nad ustanovama za strukovno obrazovanje obavlja prosvjetna inspekcija Ministarstva.
+
+(6) Način provedbe stručnog nadzora nad izvođenjem učenja temeljenog na radu pravilnikom propisuje ministar nadležan za gospodarstvo nakon prethodno pribavljenog mišljenja Hrvatske gospodarske komore i Hrvatske obrtničke komore, uz prethodnu suglasnost ministra.«.
+
+#### Članak 22.
+
+Naziv poglavlja IX. iznad članka 40. mijenja se i glasi: »IX. PREKRŠAJNE ODREDBE«.
+
+#### Članak 23.
+
+U cijelom tekstu Zakona o strukovnom obrazovanju (»Narodne novine«, br. 30/09., 24/10., 22/13. i 25/18.) riječi: »praktična nastava« te riječi: »praktična nastava i vježbe« u određenom padežu zamjenjuju se riječima: »učenje temeljeno na radu« u odgovarajućem padežu.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 24.
+
+(1) Odluku iz članka 7. i pravilnik iz članka 13. ovoga Zakona ministar će donijeti u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Pravilnik iz članka 21. ovoga Zakona ministar nadležan za gospodarstvo donijet će u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+(3) Odluku i upute iz članka 6. ovoga Zakona Agencija će donijeti u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(4) Odluku iz članka 19. ovoga Zakona predstavnička tijela jedinica lokalne i područne (regionalne) samouprave, čelnici nadležnih tijela, odnosno čelne osobe poslodavca, koji dodjeljuju poticaje, donijet će u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+
+(5) Ustanove za strukovno obrazovanja dužne su uskladiti odredbe statuta i drugih općih akata s odredbama ovoga Zakona u roku od šest mjeseci od dana njegova stupanja na snagu.
+
+#### Članak 25.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/22-01/02
+
+Zagreb, 10. lipnja 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

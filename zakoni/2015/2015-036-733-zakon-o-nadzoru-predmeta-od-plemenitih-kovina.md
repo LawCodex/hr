@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-03-30
+last_amended: 2022-10-03
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "36/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2022 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "36/15, 114/22"
+amendments:
+  - "NN 114/2022 (1739) Zakon o izmjenama Zakona o nadzoru predmeta od plemenitih kovina"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/36/733"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o nadzoru predmeta od plemenitih kovina
 
 > Izvor: Narodne novine, NN 36/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/36/733).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 114/2022.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -580,3 +584,63 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o nadzoru predmeta od plemenitih kovina (NN 114/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/114/1739*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O NADZORU PREDMETA OD PLEMENITIH KOVINA
+
+Proglašavam Zakon o izmjenama Zakona o nadzoru predmeta od plemenitih kovina, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/137
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O NADZORU PREDMETA OD PLEMENITIH KOVINA**
+
+### Članak 1.
+
+U Zakonu o nadzoru predmeta od plemenitih kovina (»Narodne novine«, br. 36/15.) u članku 38. stavku 1. riječi: »od 1000,00 kuna do 5000,00 kuna« zamjenjuju se riječima: »od 130,00 do 660,00 eura«, a riječi: »od 2000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 1320,00 eura«.
+
+U stavku 2. riječi: »od 1000,00 kuna do 5000,00 kuna« zamjenjuju se riječima: »od 130,00 do 660,00 eura«.
+
+### Članak 2.
+
+U članku 39. stavku 1. riječi: »od 5000,00 kuna do 10.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 1320,00 eura«, a riječi: »od 10.000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 2650,00 eura«.
+
+U stavku 2. riječi: »od 5000,00 kuna do 10.000,00« zamjenjuju se riječima: »od 660,00 do 1320,00 eura«.
+
+U stavku 3. riječi: »od 5000,00 kuna do 8000,00« zamjenjuju se riječima: »od 660,00 do 1060,00 eura«.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/137
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

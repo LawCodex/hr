@@ -6,14 +6,16 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2011-03-23
-last_amended: 2014-06-24
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "34/11, 125/13, 76/14"
+narodne_novine: "34/11, 125/13, 76/14, 114/18, 98/19"
 amendments:
   - "NN 125/2013 (2679) Zakon o izmjenama i dopunama Zakona o zadrugama"
   - "NN 76/2014 (1415) Zakon o izmjenama i dopunama Zakona o zadrugama"
+  - "NN 114/2018 (2213) Zakon o izmjenama Zakona o zadrugama"
+  - "NN 98/2019 (1963) Zakon o izmjeni Zakona o zadrugama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/764"
 retrieved: 2026-10-12
 ---
@@ -22,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 34/2011 (https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/764).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 125/2013, NN 76/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 125/2013, NN 76/2014, NN 114/2018, NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1448,3 +1450,179 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama Zakona o zadrugama (NN 114/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/114/2213*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O ZADRUGAMA
+
+Proglašavam Zakon o izmjenama Zakona o zadrugama, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/201
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O ZADRUGAMA**
+
+#### Članak 1.
+
+U Zakonu o zadrugama (»Narodne novine«, br. 34/11., 125/13. i 76/14.) u članku 9. stavku 4. riječi: »Hrvatskom centru za zadružno poduzetništvo« zamjenjuju se riječima: »ministarstvu nadležnom za poduzetništvo i obrt«.
+
+#### Članak 2.
+
+Naslov iznad članka 49. i članak 49. brišu se.
+
+#### Članak 3.
+
+Naslov iznad članka 50. briše se.
+
+U članku 50. stavku 1. riječi: »Centar u okviru svojih djelatnosti« zamjenjuju se riječima: »Ministarstvo nadležno za poduzetništvo i obrt u okviru provedbe ovoga Zakona«.
+
+Stavak 3. briše se.
+
+#### Članak 4.
+
+Naslov iznad članka 54. i članak 54. brišu se.
+
+#### Članak 5.
+
+Naslov iznad članka 54.a i članak 54.a brišu se.
+
+#### Članak 6.
+
+Naslov iznad članka 54.b i članak 54.b brišu se.
+
+#### Članak 7.
+
+Naslov iznad članka 55. i članak 55. brišu se.
+
+#### Članak 8.
+
+U članku 56. stavku 6. riječi: »Centru za razvoj zadrugarstva« zamjenjuju se riječima: »ministarstvu nadležnom za poduzetništvo i obrt«.
+
+#### Članak 9.
+
+Članak 70. mijenja se i glasi:
+
+»Nadzor nad primjenom odredaba ovoga Zakona i propisa donesenih na temelju njega provodi ministarstvo nadležno za poslove poduzetništva i obrta.«.
+
+#### Članak 10.
+
+Članak 70.a mijenja se i glasi:
+
+»Ako u provedbi nadzora iz članka 70. ovoga Zakona ministarstvo nadležno za poduzetništvo i obrt ocijeni da postoje određene nezakonitosti ili nepravilnosti u radu, poduzet će mjere radi otklanjanja nezakonitosti ili nepravilnosti i druge mjere u skladu s ovim Zakonom i drugim propisima.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 11.
+
+(1) Danom stupanja na snagu ovoga Zakona Hrvatski centar za zadružno poduzetništvo (u daljnjem tekstu: Centar) prestaje s radom.
+
+(2) Danom stupanja na snagu ovoga Zakona ministarstvo nadležno za poduzetništvo i obrt preuzima poslove Centra.
+
+(3) Danom stupanja na snagu ovoga Zakona ministarstvo nadležno za poduzetništvo i obrt preuzima radnike, imovinu, opremu, elektroničke očevidnike i informacijske sustave, sredstva za rad, financijska sredstva, prava i obveze, pismohranu i drugu dokumentaciju Centra.
+
+#### Članak 12.
+
+(1) Ministarstvo nadležno za poduzetništvo i obrt će u roku od 60 dana od dana stupanja na snagu Pravilnika iz članka 14. stavka 2. ovoga Zakona radnike zatečene na preuzetim poslovima Centra rasporediti na nova radna mjesta za koja ispunjavaju uvjete sukladno Pravilniku o unutarnjem redu.
+
+(2) Do donošenja rješenja o rasporedu državnog službenika odnosno do sklapanja novog ugovora o radu namještenika, radnici iz stavka 1. ovoga članka nastavljaju obavljati poslove sukladno dosadašnjim ugovorima o radu i zadržavaju sva prava iz radnog odnosa sukladno sklopljenim ugovorima o radu.
+
+(3) Preuzetim radnicima iz stavka 1. ovoga članka koji neće biti raspoređeni, otkazat će se radni odnos sukladno općim propisima o radu.
+
+#### Članak 13.
+
+(1) Ravnatelj Centra podnijet će prijavu za upis prestanka Centra u sudskom registru u roku od osam dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Danom brisanja iz sudskog registra prestaje mandat ravnatelju, predsjedniku i članovima Upravnog vijeća Centra.
+
+#### Članak 14.
+
+(1) Vlada Republike Hrvatske će u roku od 30 dana od dana stupanja na snagu ovoga Zakona uskladiti Uredbu o unutarnjem ustrojstvu Ministarstva gospodarstva, poduzetništva i obrta (»Narodne novine«, br. 14/17. i 90/17.) s odredbama ovoga Zakona.
+
+(2) Ministar nadležan za poduzetništvo i obrt će u roku od 30 dana od dana stupanja na snagu Uredbe iz stavka 1. ovoga članka uskladiti Pravilnik o unutarnjem redu s odredbama Uredbe iz stavka 1. ovoga članka.
+
+#### Članak 15.
+
+(1) Propise za čije je donošenje ovlašten ovim Zakonom ministar nadležan za poduzetništvo i obrt donijet će u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Do dana stupanja na snagu propisa iz stavka 1. ovoga članka ostaju na snazi Pravilnik o imeniku zadrugara (»Narodne novine«, br. 56/12.) i Pravilnik o evidenciji zadruga i zadružnih saveza (»Narodne novine«, br. 95/14.).
+
+#### Članak 16.
+
+Postupci započeti na temelju Zakona o zadrugama (»Narodne novine«, br. 34/11., 125/13. i 76/14.) koji nisu dovršeni do stupanja na snagu ovoga Zakona, dovršit će se prema odredbama toga Zakona.
+
+#### Članak 17.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/243
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjeni Zakona o zadrugama (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1963*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O ZADRUGAMA
+
+Proglašavam Zakon o izmjeni Zakona o zadrugama, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/171
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O ZADRUGAMA**
+
+### Članak 1.
+
+U Zakonu o zadrugama (»Narodne novine«, br. 34/11., 125/13., 76/14. i 114/18.) u članku 43. stavcima 2. i 3. riječi: »ured državne uprave« zamjenjuju se riječima: »nadležno upravno tijelo županije odnosno Grada Zagreba, kao povjereni posao državne uprave«.
+
+### Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/166
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

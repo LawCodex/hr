@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2016-12-09
+last_amended: 2018-11-30
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "115/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "115/16, 106/18"
+amendments:
+  - "NN 106/2018 (2060) Zakon o izmjeni Zakona o porezu na promet nekretnina"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2523"
 retrieved: 2026-10-12
 ---
@@ -19,11 +21,11 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 115/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2523).
 >
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 106/2018.
+>
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
 HRVATSKI SABOR
-
-2523
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
@@ -368,3 +370,58 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjeni Zakona o porezu na promet nekretnina (NN 106/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/106/2060*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O POREZU NA PROMET NEKRETNINA
+
+Proglašavam Zakon o izmjeni Zakona o porezu na promet nekretnina, koji je Hrvatski sabor donio na sjednici 21. studenoga 2018.
+
+Klasa: 011-01/18-01/137  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 26. studenoga 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENI ZAKONA O POREZU NA PROMET NEKRETNINA**
+
+#### Članak 1.
+
+U Zakonu o porezu na promet nekretnina (»Narodne novine«, br. 115/16.) članak 12. mijenja se i glasi:
+
+»Porez na promet nekretnina plaća se po stopi od 3%.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 2.
+
+Na sve sklopljene ugovore i druge isprave o stjecanju nekretnina odnosno na sve odluke koje su postale pravomoćne do 31. prosinca 2018. primjenjuju se odredbe Zakona o porezu na promet nekretnina (»Narodne novine«, br. 115/16.), neovisno o statusu porezne prijave.
+
+#### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.
+
+Klasa: 022-03/18-01/146  
+Zagreb, 21. studenoga 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

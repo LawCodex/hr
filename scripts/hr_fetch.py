@@ -172,7 +172,26 @@ def main():
                 print(i, stats, flush=True)
     print("fetched", stats, flush=True)
     follow_stubs(rows)
+    fetch_pdf_only(rows)
     print("done", flush=True)
+
+
+def fetch_pdf_only(rows):
+    """Documents published only as PDF (no HTML text): fetch <ELI>/pdf next to the HTML."""
+    n = 0
+    for r in rows:
+        p = html_path(r)
+        if not os.path.exists(p) or os.path.exists(p + ".pdf"):
+            continue
+        with open(p, encoding="utf-8", errors="replace") as f:
+            if 'class="sl-content"' in f.read():
+                continue
+        rr = get(r["url"].rstrip("/") + "/pdf")
+        if rr is not None and rr.status_code == 200 and rr.content[:4] == b"%PDF":
+            with open(p + ".pdf", "wb") as f:
+                f.write(rr.content)
+            n += 1
+    print("fetched PDF-only documents:", n, flush=True)
 
 
 STUB_LINK_RE = __import__("re").compile(r'href="(https?://narodne-novine\.nn\.hr)?(/clanci/sluzbeni/[^"]+\.html)"')

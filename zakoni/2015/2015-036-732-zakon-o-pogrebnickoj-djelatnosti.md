@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2015-03-30
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "36/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "36/15, 98/19"
+amendments:
+  - "NN 98/2019 (1964) Zakon o izmjenama Zakona o pogrebničkoj djelatnosti"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/36/732"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o pogrebničkoj djelatnosti
 
 > Izvor: Narodne novine, NN 36/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/36/732).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -355,3 +359,59 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama Zakona o pogrebničkoj djelatnosti (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1964*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA ZAKONA O POGREBNIČKOJ DJELATNOSTI
+
+Proglašavam Zakon o izmjenama Zakona o pogrebničkoj djelatnosti, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/172
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA ZAKONA O POGREBNIČKOJ DJELATNOSTI**
+
+### Članak 1.
+
+U Zakonu o pogrebničkoj djelatnosti (»Narodne novine«, br. 36/15.) u članku 12. stavak 2. mijenja se i glasi:
+
+»(2) Zahtjev za izdavanje rješenja iz stavka 1. ovoga članka podnosi se nadležnom upravnom tijelu županije, odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na pogrebničku djelatnost (u daljnjem tekstu: nadležno upravno tijelo).«.
+
+### Članak 2.
+
+U cijelom tekstu Zakona o pogrebničkoj djelatnosti (»Narodne novine«, br. 36/15.) riječi: »mjesno nadležni ured državne uprave u županiji, odnosno nadležni ured Grada Zagreba« u određenom padežu zamjenjuju se riječima: »nadležno upravno tijelo« u odgovarajućem padežu.
+
+### Članak 3.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/167
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

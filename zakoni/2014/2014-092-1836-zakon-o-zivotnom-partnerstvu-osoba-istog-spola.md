@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-07-28
+last_amended: 2019-10-16
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "92/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "92/14, 98/19"
+amendments:
+  - "NN 98/2019 (1927) Zakon o izmjenama i dopunama Zakona o životnom partnerstvu osoba istog spola"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/92/1836"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o životnom partnerstvu osoba istog spola
 
 > Izvor: Narodne novine, NN 92/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/92/1836).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 98/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -849,3 +853,97 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o životnom partnerstvu osoba istog spola (NN 98/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/98/1927*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ŽIVOTNOM PARTNERSTVU OSOBA ISTOG SPOLA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o životnom partnerstvu osoba istog spola, koji je Hrvatski sabor donio na sjednici 2. listopada 2019.
+
+Klasa: 011-01/19-01/135
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. listopada 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ŽIVOTNOM PARTNERSTVU OSOBA ISTOG SPOLA**
+
+#### Članak 1.
+
+U Zakonu o životnom partnerstvu osoba istog spola (»Narodne novine«, br. 92/14.) u članku 15. stavci 2. i 3. mijenjaju se i glase:
+
+»(2) Osobe koje namjeravaju sklopiti životno partnerstvo mogu u roku od osam dana od dana priopćenja o nedopustivosti sklapanja životnog partnerstva podnijeti zahtjev za utvrđivanje ispunjavaju li pretpostavke za njegovo sklapanje nadležnom upravnom tijelu županije odnosno Grada Zagreba (u daljnjem tekstu: nadležno upravno tijelo).
+
+(3) O zahtjevu iz stavka 2. ovoga članka nadležno upravno tijelo donosi rješenje u roku od petnaest dana od primitka urednog zahtjeva.«.
+
+#### Članak 2.
+
+U članku 31. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Bazu podataka iz stavka 1. ovoga članka vodi ministarstvo nadležno za poslove opće uprave te se brine za njezino održavanje i nadogradnju.
+
+(3) Ministarstvo nadležno za poslove opće uprave voditelj je zbirke osobnih podataka registra sukladno propisima kojima se uređuje zaštita osobnih podataka.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 4., 5. i 6.
+
+#### Članak 3.
+
+Članak 32. mijenja se i glasi:
+
+»(1) Nadležna upravna tijela vode dio registra za područje za koje su ustrojena.
+
+(2) Registar neposredno vode matičari.«.
+
+#### Članak 4.
+
+U članku 34. stavak 2. mijenja se i glasi:
+
+»(2) Nakon zaključivanja upisa u registru matičar smije izvršiti ispravke na temelju rješenja nadležnog upravnog tijela.«.
+
+#### Članak 5.
+
+Iza članka 36. dodaje se članak 36.a koji glasi:
+
+»Članak 36.a
+
+Nadležno upravno tijelo obavlja poslove utvrđene ovim Zakonom kao povjerene poslove državne uprave.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 6.
+
+Ministar nadležan za poslove opće uprave uskladit će Naputak za vođenje registra životnog partnerstva (»Narodne novine«, br. 147/14.) s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+Ministar nadležan za poslove opće uprave uskladit će Pravilnik o mjerilima za određivanje iznosa i namjeni naknade ostvarene za sklapanje životnog partnerstva izvan službene prostorije (»Narodne novine«, br. 99/14.) s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 7.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/130
+
+Zagreb, 2. listopada 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

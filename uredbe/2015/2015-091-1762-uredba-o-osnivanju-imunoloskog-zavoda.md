@@ -6,11 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2015-08-21
+last_amended: 2023-06-23
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "91/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "91/15, 99/21, 68/23"
+amendments:
+  - "NN 99/2021 (1782) Uredba o izmjenama i dopunama Uredbe o osnivanju Imunološkog zavoda"
+  - "NN 68/2023 (1111) Uredba o izmjenama i dopunama Uredbe o osnivanju Imunološkog zavoda"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/91/1762"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Uredba o osnivanju Imunološkog zavoda
 
 > Izvor: Narodne novine, NN 91/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/91/1762).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 99/2021, NN 68/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -253,3 +258,153 @@ Zagreb, 20. kolovoza 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o osnivanju Imunološkog zavoda (NN 99/2021)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2021/99/1782*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. – ispravak, 47/99. – ispravak, 35/08. i 127/19.), Vlada Republike Hrvatske je na sjednici održanoj 9. rujna 2021. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O OSNIVANJU IMUNOLOŠKOG ZAVODA**
+
+### Članak 1.
+
+U Uredbi o osnivanju Imunološkog zavoda (»Narodne novine«, broj 91/15.), u članku 2. stavku 1. riječi: »ministarstvo nadležno za zdravlje« zamjenjuju se riječima: »ministarstvo nadležno za zdravstvo«.
+
+Iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+
+»(5) Radi povećanja imovine Zavod može osnovati trgovačko društvo.
+
+(6) Dobit ostvarena poslovanjem trgovačkog društva iz stavka 5. ovoga članka može se koristiti za razvoj djelatnosti Zavoda u cilju poboljšanja zdravstvene zaštite pacijenata u Republici Hrvatskoj.«.
+
+### Članak 2.
+
+U članku 3. stavku 2. iza riječi: »virusa« stavlja se zarez i dodaju riječi: »provjera kakvoće lijekova«.
+
+### Članak 3.
+
+U članku 4. stavku 1. iza riječi: »Zagrebu« briše se zarez, a riječi: »Rockefellerova 2 – 10 i Sveta Nedelja« zamjenjuju se riječima: »i Svetoj Nedelji«.
+
+### Članak 4.
+
+U članku 20. stavak 1. briše se.
+
+Dosadašnji stavci 2. i 3. postaju stavci 1. i 2.
+
+### Članak 5.
+
+Članak 21. mijenja se i glasi:
+
+»Vlada Republike Hrvatske će posebnim aktom prenijeti na Zavod nekretnine u Svetoj Nedelji, Brezje, Svetonedeljska cesta 14, nakon stupanja na snagu ugovora o prijenosu imovine Imunološkog zavoda d.d. na Republiku Hrvatsku.«.
+
+### Članak 6.
+
+U članku 6. stavku 2., članku 9. stavku 2., članku 10. stavcima 1. i 3., članku 13. stavku 1., članku 18. stavku 1. i članku 23. stavku 2. riječi: »ministar nadležan za zdravlje« u određenom padežu zamjenjuju se riječima: »ministar nadležan za zdravstvo« u odgovarajućem padežu.
+
+### Članak 7.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/21-03/26
+
+Urbroj: 50301-04/12-21-3
+
+Zagreb, 9. rujna 2021.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjenama i dopunama Uredbe o osnivanju Imunološkog zavoda (NN 68/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/68/1111*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. – ispravak, 47/99. – ispravak, 35/08., 127/19. i 151/22.), Vlada Republike Hrvatske je na sjednici održanoj 21. lipnja 2023. donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O OSNIVANJU IMUNOLOŠKOG ZAVODA**
+
+### Članak 1.
+
+U Uredbi o osnivanju Imunološkog zavoda (»Narodne novine«, br. 91/15. i 99/21.), u članku 2. stavku 5. riječi: »povećanja imovine« zamjenjuju se riječima: »obavljanja djelatnosti iz članka 3. ove Uredbe«.
+
+Stavak 6. mijenja se i glasi:
+
+»(6) Dobit ostvarena poslovanjem trgovačkog društva iz stavka 5. ovoga članka može se koristiti za razvoj djelatnosti iz članka 3. ove Uredbe.«.
+
+### Članak 2.
+
+U članku 4. stavak 1. mijenja se i glasi:
+
+»(1) Zavod obavlja poslove iz svoje djelatnosti u sjedištu i ustrojstvenim jedinicama na lokacijama u Zagrebu, Svetoj Nedelji, Rugvici i drugim lokacijama.«.
+
+### Članak 3.
+
+U članku 7. podstavku 1. riječi: »i Pravilnik o unutarnjem ustroju i načinu rada Zavoda« brišu se.
+
+Iza podstavka 1. dodaje se novi podstavak 2. koji glasi:
+
+» – donosi Pravilnik o unutarnjem ustroju i načinu rada Zavoda na prijedlog ravnatelja,«.
+
+Dosadašnji podstavci 2. do 10. postaju podstavci 3. do 11.
+
+### Članak 4.
+
+U članku 8. stavku 2. podstavci 3. i 4. mijenjaju se i glase:
+
+» – odlučuje o stjecanju, opterećenju ili otuđenju nekretnina i druge imovine Zavoda, odnosno o sklapanju drugog pravnog posla, kada vrijednost pojedinačnog ugovora ne prelazi iznos od 30.000,00 eura,
+
+– odlučuje, uz suglasnost Upravnog vijeća, o stjecanju, opterećenju ili otuđenju nekretnina i druge imovine Zavoda, odnosno o sklapanju drugog pravnog posla, kada vrijednost pojedinačnog ugovora prelazi iznos od 30.000,00 eura,«.
+
+Iza podstavka 4. dodaje se novi podstavak 5. koji glasi:
+
+» – odlučuje, uz suglasnost Upravnog vijeća i suglasnost osnivača, o stjecanju, opterećenju ili otuđenju nekretnina i druge imovine Zavoda, odnosno o sklapanju drugog pravnog posla, kada vrijednost pojedinačnog ugovora prelazi iznos od 150.000,00 eura,«.
+
+Dosadašnji podstavak 5. postaje podstavak 6.
+
+### Članak 5.
+
+Članak 11. mijenja se i glasi:
+
+»(1) Ravnatelj Zavoda ima zamjenika i najmanje jednog pomoćnika.
+
+(2) Zamjenika ravnatelja Zavoda, na vrijeme od četiri godine, imenuje Upravno vijeće Zavoda na prijedlog ravnatelja.
+
+(3) Pomoćnika ravnatelja Zavoda, na vrijeme od četiri godine, imenuje Upravno vijeće Zavoda na prijedlog ravnatelja.
+
+(4) Uvjeti za imenovanje, djelokrug rada, ovlaštenja i odgovornost ravnatelja, zamjenika ravnatelja i pomoćnika ravnatelja Zavoda utvrđuju se sukladno zakonu i Statutu Zavoda.«.
+
+### Članak 6.
+
+U članku 15. stavku 2. riječi: »od 200.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »od 30.000,00 do 150.000,00 eura«.
+
+U stavku 3. riječi: »od 500.000,00 kuna« zamjenjuju se riječima: »od 150.000,00 eura«.
+
+### Članak 7.
+
+(1) Zavod je obvezan uskladiti svoj rad i poslovanje s odredbama ove Uredbe u roku od šest mjeseci od dana stupanja na snagu ove Uredbe.
+
+(2) Zavod je obvezan u roku od šest mjeseci od dana stupanja na snagu ove Uredbe uskladiti Statut i druge opće akte s odredbama ove Uredbe.
+
+### Članak 8.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/22-03/118
+
+Urbroj: 50301-04/12-23-5
+
+Zagreb, 21. lipnja 2023.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

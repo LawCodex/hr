@@ -6,11 +6,18 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2016-12-09
+last_amended: 2025-12-03
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "115/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "115/16, 130/17, 106/18, 121/19, 151/22, 114/23, 146/25"
+amendments:
+  - "NN 130/2017 (2989) Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza"
+  - "NN 106/2018 (2066) Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza"
+  - "NN 121/2019 (2383) Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza"
+  - "NN 151/2022 (2338) Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza"
+  - "NN 114/2023 (1616) Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza"
+  - "NN 146/2025 (2167) Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2522"
 retrieved: 2026-10-12
 ---
@@ -19,11 +26,11 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 115/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/115/2522).
 >
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 130/2017, NN 106/2018, NN 121/2019, NN 151/2022, NN 114/2023, NN 146/2025.
+>
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
 HRVATSKI SABOR
-
-2522
 
 Na temelju članka 89. Ustava Republike Hrvatske, donosim
 
@@ -1024,3 +1031,1716 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Božo Petrov, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza (NN 130/2017)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2017/130/2989*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza, koji je Hrvatski sabor donio na sjednici 15. prosinca 2017.
+
+Klasa: 011-01/17-01/126
+
+Urbroj: 71-06-01/1-17-2
+
+Zagreb, 20. prosinca 2017.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA**
+
+### Članak 1.
+
+U Zakonu o administrativnoj suradnji u području poreza (»Narodne novine«, br. 115/16.) u članku 1. iza riječi: »jurisdikcija« dodaje se zarez i riječi: »automatsku razmjenu informacija o izvješćima po državama između Republike Hrvatske i jurisdikcija izvan Europske unije«.
+
+### Članak 2.
+
+U članku 2. stavku 1. iza točke 7. dodaje se točka 8. koja glasi:
+
+»8. Direktiva Vijeća (EU) 2016/2258 od 6. prosinca 2016. o izmjeni Direktive 2011/16/EU u pogledu pristupa poreznih tijela informacijama o sprječavanju pranja novca (SL L 342, 16. 12. 2016.), (u daljnjem tekstu: Direktiva Vijeća (EU) 2016/2258).«.
+
+### Članak 3.
+
+Iza članka 6. dodaje se naslov iznad članka i članak 6.a koji glase:
+
+*»Pravila protiv zlouporabe*
+
+### Članak 6.a
+
+Odredbe ovoga Zakona nisu provedene, ako se može zaključiti, uzimajući u obzir sve bitne čimbenike i okolnosti, da je jedna od glavnih svrha bilo kojih instrumenata, poslovnih transakcija, aktivnosti, shema, sporazuma, obveza ili događaja, dovela do izbjegavanja ili zlouporabe odredbi i obveza iz ovoga Zakona.«.
+
+### Članak 4.
+
+Iza članka 7. dodaje se naslov iznad članka i članak 7.a koji glase:
+
+*»Pristup informacijama koje se odnose na dubinsku analizu i na stvarnog vlasnika*
+
+### Članak 7.a
+
+(1) Ministarstvo financija, Porezna uprava može za potrebe učinkovitog praćenja postupaka dubinske analize koje primjenjuju izvještajne financijske institucije u smislu ovoga Zakona pristupiti mehanizmima, postupcima, dokumentima i informacijama kod subjekata koji provode dubinsku analizu, a koje se odnose na mjere dubinske analize stranaka u skladu s propisima kojima se uređuje sprečavanje pranja novca i financiranja terorizma, čuvanje evidencija o transakcijama, informacije o stvarnom vlasniku ili stvarnim vlasnicima koje se prikupljaju, obrađuju i čuvaju u skladu s propisima kojima se uređuje sprječavanje pranja novca i financiranja terorizma.
+
+(2) Ministarstvu financija, Poreznoj upravi, u skladu s propisima koji uređuju sprječavanje pranja novca i financiranja terorizma, izravno su dostupni podaci koji se nalaze u Registru stvarnih vlasnika.
+
+(3) Ministarstvu financija, Poreznoj upravi, u skladu s propisima koji uređuju sprječavanje pranja novca i financiranja terorizma, dostupni su podaci o stvarnom vlasništvu koji se nalaze kod pravnih subjekata i upravitelja trusta ili s trustom izjednačenog subjekta stranog prava.«.
+
+### Članak 5.
+
+U članku 34. stavku 2. iza riječi: »članica« dodaju se riječi: »i jurisdikcija izvan Europske unije koje primjenjuju sporazum između nadležnih tijela čija je Republika Hrvatska stranka«.
+
+### Članak 6.
+
+U članku 35. stavak 1. mijenja se i glasi:
+
+»(1) Skupine multinacionalnih poduzeća čiji ukupni konsolidirani prihod skupine u prethodnoj poreznoj godini prelazi iznos od 750 milijuna eura ili iznos u drugoj valuti koji odgovara navedenom iznosu i čija su krajnja matična društva u svrhu oporezivanja rezidenti Republike Hrvatske ili drugi sastavni subjekti skupine multinacionalnih poduzeća obvezni su Ministarstvu financija, Poreznoj upravi dostaviti izvješće po državama iz članka 34. stavka 1. ovoga Zakona u roku od 12 mjeseci od posljednjeg dana porezne godine za koju se izvješće po državama podnosi.«.
+
+### Članak 7.
+
+U članku 66. stavku 1. točka 2. mijenja se i glasi:
+
+»2. pravna osoba ako ne podnese točno popunjeno propisano izvješće, ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35. stavak 1.)«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Novčanom kaznom u iznosu od 2000,00 do 20.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi za prekršaj iz stavka 1. točke 1. ovoga članka.
+
+(4) Novčanom kaznom u iznosu od 2000,00 do 20.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi za prekršaj iz stavka 1. točke 2. ovoga članka.«.
+
+### Članak 8.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2018.
+
+Klasa: 022-03/17-01/130
+
+Zagreb, 15. prosinca 2017.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza (NN 106/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/106/2066*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza, koji je Hrvatski sabor donio na sjednici 21. studenoga 2018.
+
+Klasa: 011-01/18-01/143  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 26. studenoga 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA**
+
+### Članak 1.
+
+U Zakonu o administrativnoj suradnji u području poreza (»Narodne novine«, br. 115/16. i 130/17.) u članku 2. stavak 2. mijenja se i glasi:
+
+»Ovim se Zakonom osigurava provedba Uredbe Vijeća (EU) br. 904/2010 od 7. listopada 2010. o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (preinaka) (SL L 268, 12. 10. 2010.); (u daljnjem tekstu: Uredba Vijeća (EU) br. 904/2010), kako je posljednji put izmijenjena Uredbom Vijeća (EU) 2017/2454 od 5. prosinca 2017. o izmjeni Uredbe (EU) br. 904/2010 o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (SL L 348, 29. 12. 2017.); (u daljnjem tekstu: Uredba Vijeća (EU) 2017/2454).«.
+
+### Članak 2.
+
+U članku 3. stavku 2. iza riječi: »Uredbe Vijeća (EU) br. 904/2010« dodaju se riječi: »i Uredbe Vijeća (EU) 2017/2454«.
+
+### Članak 3.
+
+U članku 6.a ispred riječi: »Odredbe« stavlja se oznaka stavka koja glasi: »(1)«.
+
+Iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Na izvještajne financijske institucije, druge osobe ili posrednike koji poduzimaju radnje iz stavka 1. ovoga članka u svrhu zaobilaženja provođenja pravila izvješćivanja i dubinske analize primjenjivat će se odredbe ovoga Zakona kao da obveze izvješćivanja i dubinske analize nisu provedene.«.
+
+### Članak 4.
+
+U članku 10. stavcima 7. i 8. riječi: »32. i 33. ovoga Zakona« zamjenjuju se riječima: »34. i 35. ovoga Zakona.«.
+
+### Članak 5.
+
+U članku 14. točki 1. podtočka a. mijenja se i glasi:
+
+»a. druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni informacija o financijskim računima na temelju međunarodnog sporazuma i koja na temelju sporazuma dostavlja informacije iz članka 26. ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave«.
+
+### Članak 6.
+
+U članku 26. točka 1. mijenja se i glasi:
+
+»1. ime i prezime, adresu, državu članicu ili drugu jurisdikciju rezidentnosti, osobni identifikacijski broj (OIB), porezni identifikacijski broj ili više njih, datum i mjesto rođenja (u slučaju fizičke osobe) svake osobe o kojoj se izvješćuje i koja je imatelj računa i, u slučaju subjekta koji je imatelj računa i za koji je nakon primjene pravila dubinske analize utvrđeno da ima jednu ili više osoba koje nad njim imaju kontrolu, a koje su osobe o kojima se izvješćuje, naziv, adresu, državu članicu ili drugu jurisdikciju rezidentnosti, osobni identifikacijski broj (OIB), porezni identifikacijski broj subjekta ili više subjekata te ime i prezime, adresu, državu članicu ili drugu jurisdikciju rezidentnosti, osobni identifikacijski broj (OIB), porezni identifikacijski broj ili više njih, datum i mjesto rođenja svake osobe o kojoj se izvješćuje«.
+
+### Članak 7.
+
+U članku 28. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ministarstvo financija, Porezna uprava obavijestit će bez nepotrebnog odgađanja svaku fizičku osobu o kojoj se izvješćuje o povredi njezinih osobnih podataka ako je vjerojatno da će ta povreda prouzročiti rizik za prava i slobode fizičke osobe o kojoj se izvješćuje.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+### Članak 8.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članaka 1. i 2. ovoga Zakona koji stupaju na snagu 1. siječnja 2021.
+
+Klasa: 022-03/18-01/149  
+Zagreb, 21. studenoga 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza (NN 121/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/121/2383*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza, koji je Hrvatski sabor donio na sjednici 29. studenoga 2019.
+
+Klasa: 011-01/19-01/208
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA**
+
+#### Članak 1.
+
+U Zakonu o administrativnoj suradnji u području poreza (»Narodne novine«, br. 115/16., 130/17. i 106/18.) u članku 2. stavku 1. iza točke 8. točka se zamjenjuje zarezom i dodaje se točka 9. koja glasi:
+
+»9. Direktiva Vijeća (EU) 2018/822 od 25. svibnja 2018. o izmjeni Direktive 2011/16/EU u pogledu obvezne automatske razmjene informacija u području oporezivanja u odnosu na prekogranične aranžmane o kojima se izvješćuje (SL L 139, 5. 6. 2018.) (u daljnjem tekstu: Direktiva Vijeća (EU) 2018/822).«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Ovim se Zakonom osigurava provedba Uredbe Vijeća (EU) br. 904/2010 od 7. listopada 2010. o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (preinaka) (SL L 268, 12. 10. 2010.) (u daljnjem tekstu: Uredba Vijeća (EU) br. 904/2010), Uredbe Vijeća (EU) 2017/2454 od 5. prosinca 2017. o izmjeni Uredbe (EU) br. 904/2010 o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (SL L 348, 29. 12. 2017.) (u daljnjem tekstu: Uredba Vijeća (EU) 2017/2454), Uredbe Vijeća (EU) 2018/1541 od 2. listopada 2018. o izmjeni uredbi (EU) br. 904/2010 i (EU) 2017/2454 u pogledu mjera za jačanje administrativne suradnje u području poreza na dodanu vrijednost (SL L 259, 16. 10. 2018.) (u daljnjem tekstu: Uredba Vijeća (EU) 2018/1541) i Uredba Vijeća (EU) 2018/1909 od 4. prosinca 2018. o izmjeni Uredbe (EU) br. 904/210 u pogledu razmjene informacija u svrhu praćenja pravilne primjene aranžmana za premještanje dobara (SL L 311, 7. 12. 2018. (u daljnjem tekstu: Uredba Vijeća (EU) 2018/1909).«.
+
+#### Članak 2.
+
+U članku 3. stavku 2. iza riječi: »Uredbe Vijeća (EU) br. 904/2010« riječ: »i« zamjenjuje se zarezom te se iza riječi: »Uredbe Vijeća (EU) 2017/2454« dodaju riječi: »Uredbe Vijeća (EU) 2018/1541 i Uredbe Vijeća (EU) 2018/1909.«.
+
+#### Članak 3.
+
+Iza članka 35. dodaje se Odjeljak 5. s člancima 35.a do 35.k i naslovima iznad njih koji glase:
+
+»Odjeljak 5.
+
+*Automatska razmjena informacija o prekograničnim aranžmanima o kojima se izvješćuje*
+
+#### Članak 35.a
+
+(1) Prekogranični aranžman u smislu ovoga Zakona podrazumijeva aranžman koji se odnosi na više od jedne države članice ili na jednu državu članicu i treću zemlju, pri čemu je ispunjen najmanje jedan od sljedećih uvjeta:
+
+1. sudionici u aranžmanu nisu svi rezidenti u porezne svrhe u istoj jurisdikciji
+
+2. jedan ili više sudionika u aranžmanu istodobno su rezidenti u porezne svrhe u više od jedne jurisdikcije
+
+3. jedan ili više sudionika u aranžmanu posluje u drugoj jurisdikciji preko stalne poslovne jedinice koja se nalazi u toj jurisdikciji, a taj je aranžman dio poslovanja ili cjelokupno poslovanje te stalne poslovne jedinice
+
+4. jedan ili više sudionika u aranžmanu obavlja djelatnost u drugoj jurisdikciji, a da pritom nije rezident u porezne svrhe u toj jurisdikciji niti je u njoj uspostavio stalnu poslovnu jedinicu ili
+
+5. takav aranžman može imati učinak na automatsku razmjenu informacija ili identifikaciju stvarnog vlasništva.
+
+(2) Aranžmanom u smislu ovoga članka smatra se i niz aranžmana.
+
+(3) Aranžman u smislu ovoga članka može sadržavati više koraka ili dijelova.
+
+(4) Prekogranični aranžman o kojem se izvješćuje podrazumijeva svaki prekogranični aranžman koji sadrži najmanje jedno obilježje koje ukazuje na potencijalni rizik od izbjegavanja plaćanja poreza.
+
+(5) Ministar financija pravilnikom propisuje obilježja koja ukazuju na potencijalni rizik od izbjegavanja plaćanja poreza iz stavka 4. ovoga članka.
+
+#### Članak 35.b
+
+(1) Posrednik u skladu s člancima 35.a do 35.k ovoga Zakona podrazumijeva svaku osobu koja osmišljava, stavlja na tržište ili organizira prekogranični aranžman o kojem se izvješćuje ili takav aranžman stavlja na raspolaganje radi njegove provedbe ili upravlja njegovom provedbom.
+
+(2) Posrednik je i svaka osoba koja, uzimajući u obzir relevantne činjenice i okolnosti i na temelju dostupnih informacija i relevantnog stručnog znanja i razumijevanja potrebnog za pružanje takvih usluga, zna ili bi se od nje u razumnoj mjeri moglo očekivati da zna da se obvezala na pružanje, izravno ili posredstvom drugih osoba, potpore, pomoći ili savjeta u pogledu osmišljavanja, stavljanja na tržište, organiziranja, stavljanja na raspolaganje radi provedbe, ili upravljanja provedbom prekograničnog aranžmana o kojem se izvješćuje.
+
+(3) Svaka osoba ima pravo dostaviti dokaze o tome da nije znala i da se od nje u razumnoj mjeri nije moglo očekivati da zna da je bila uključena u prekogranični aranžman o kojem se izvješćuje.
+
+(4) U skladu sa stavkom 3. ovoga članka, osoba se može pozvati na sve relevantne činjenice i okolnosti, kao i na dostupne informacije i svoje relevantno stručno znanje i razumijevanje.
+
+(5) Posrednik u smislu ovoga članka mora ispunjavati najmanje jedan od sljedećih dodatnih uvjeta:
+
+1. rezident je u porezne svrhe u Republici Hrvatskoj
+
+2. u Republici Hrvatskoj ima stalnu poslovnu jedinicu preko koje se pružaju usluge u vezi s aranžmanom
+
+3. osnovan je ili je uređen prema zakonima Republike Hrvatske ili
+
+4. registriran je pri strukovnom udruženju u području pravnih, poreznih i savjetodavnih usluga u Republici Hrvatskoj.
+
+#### Članak 35.c
+
+Relevantni porezni obveznik u skladu s člancima 35.a do 35.k ovoga Zakona podrazumijeva svaku osobu kojoj se prekogranični aranžman o kojem se izvješćuje stavlja na raspolaganje radi njegove provedbe, ili koja je spremna provesti prekogranični aranžman o kojem se izvješćuje, ili koja je provela prvi korak takvog aranžmana.
+
+#### Članak 35.d
+
+(1) Povezano poduzeće u skladu s člancima 35.a do 35.k ovoga Zakona podrazumijeva osobu koja je povezana s drugom osobom na najmanje jedan od sljedećih načina:
+
+1. osoba sudjeluje u upravljanju druge osobe tako što može ostvarivati znatan utjecaj na tu drugu osobu
+
+2. osoba sudjeluje u kontroli nad drugom osobom na temelju udjela glasačkih prava koji premašuje 25%
+
+3. osoba sudjeluje u kapitalu druge osobe na temelju prava vlasništva koje izravno ili neizravno premašuje 25% kapitala ili
+
+4. osoba ima pravo na najmanje 25% dobiti druge osobe.
+
+(2) Ako u upravljanju, kontroli, kapitalu ili dobiti iste osobe sudjeluje više osoba iz stavka 1. ovoga članka, tada se sve dotične osobe smatraju povezanim poduzećima.
+
+(3) Ako iste osobe iz stavka 1. ovoga članka sudjeluju u upravljanju, kontroli, kapitalu ili dobiti više od jedne osobe, tada se sve dotične osobe smatraju povezanim poduzećima.
+
+(4) U smislu ovoga članka osoba koja djeluje zajedno s drugom osobom u pogledu glasačkih prava u subjektu ili u pogledu vlasništva kapitala subjekta smatra se da ima udio u svim glasačkim pravima tog subjekta koje ima druga osoba odnosno da ima udio u vlasništvu kapitala tog subjekta koji drži druga osoba.
+
+(5) Kad je riječ o posrednim udjelima, ispunjenje zahtjeva iz stavka 1. točke 3. ovoga članka utvrđuje se množenjem stopa udjela po sukcesivnim redovima.
+
+(6) Ako osoba ima više od 50% glasačkih prava, smatra se osobom koja ima 100% tih prava.
+
+(7) Fizička osoba, njezin bračni drug ili neposredni predak ili potomak, u smislu ovoga članka, smatraju se jednom osobom.
+
+#### Članak 35.e
+
+(1) Tržišni aranžman u skladu s člancima 35.a do 35.k ovoga Zakona podrazumijeva prekogranični aranžman koji je osmišljen, stavljen na tržište, spreman za provedbu ili je stavljen na raspolaganje radi njegove provedbe, a da pritom ne treba znatnu prilagodbu.
+
+(2) Posebno prilagođeni aranžman podrazumijeva svaki prekogranični aranžman koji nije tržišni aranžman iz stavka 1. ovoga članka.
+
+*Obveza izvješćivanja o prekograničnim aranžmanima*
+
+#### Članak 35.f
+
+(1) Posrednici su obvezni informacije u vezi s prekograničnim aranžmanima o kojima se izvješćuje iz članka 35.k ovoga Zakona, a koje su im poznate, u njihovu su posjedu ili se nalaze pod njihovom kontrolom, dostaviti Ministarstvu financija, Poreznoj upravi u roku od 30 dana od:
+
+1. dana nakon što je prekogranični aranžman o kojem se izvješćuje stavljen na raspolaganje radi njegove provedbe ili
+
+2. dana nakon što je prekogranični aranžman o kojem se izvješćuje spreman za provedbu ili
+
+3. trenutka kada je napravljen prvi korak u provedbi prekograničnog aranžmana o kojem se izvješćuje
+
+ovisno o tome što nastupi ranije.
+
+(2) Neovisno o stavku 1. ovoga članka, posrednici iz članka 35.b stavka 2. ovoga Zakona obvezni su podnijeti informacije u roku od 30 dana počevši od dana nakon što su, izravno ili posredstvom drugih osoba, pružili potporu, pomoć ili savjet.
+
+(3) U slučaju tržišnih aranžmana, posrednici su obvezni svaka tri mjeseca sastaviti periodično izvješće s ažuriranim informacijama o prekograničnim aranžmanima o kojima se izvješćuje iz članka 35.k stavka 1. točki 1., 4., 7. i 8. ovoga Zakona, a koje su postale dostupne nakon podnošenja posljednjeg izvješća, i dostaviti ga Ministarstvu financija, Poreznoj upravi.
+
+(4) Izvješće iz stavka 3. ovoga članka podnosi se u roku od jednog mjeseca od završetka tromjesečja u kojem su informacije postale dostupne.
+
+*Pravila izvješćivanja kada postoji više nadležnih tijela u više država članica*
+
+#### Članak 35.g
+
+(1) Ako je posrednik dužan nadležnim tijelima u više od jedne države članice podnijeti informacije o prekograničnim aranžmanima o kojima se izvješćuje, takve informacije podnose se samo Ministarstvu financija, Poreznoj upravi u sljedećim slučajevima:
+
+1. ako je posrednik rezident u porezne svrhe u Republici Hrvatskoj
+
+2. ako posrednik ima stalnu poslovnu jedinicu u Republici Hrvatskoj preko koje se pružaju usluge u vezi s aranžmanom, a nije rezident u porezne svrhe u bilo kojoj drugoj državi članici
+
+3. ako je posrednik osnovan ili je uređen prema zakonima Republike Hrvatske, a uvjeti iz točaka 1. i 2. ovoga stavka nisu ispunjeni u nekoj drugoj državi članici ili
+
+4. ako je posrednik registriran pri strukovnom udruženju u području pravnih, poreznih ili savjetodavnih usluga u Republici Hrvatskoj, a uvjeti iz točaka 1., 2. i 3. ovoga stavka nisu ispunjeni u nekoj drugoj državi članici.
+
+(2) Ako u skladu sa stavkom 1. ovoga članka postoji više obveza izvješćivanja, posrednik se izuzima od obveze podnošenja informacija Ministarstvu financija, Poreznoj upravi ako ima dokaz da su iste informacije podnesene u drugoj državi članici.
+
+*Profesionalna tajna*
+
+#### Članak 35.h
+
+(1) Posrednik je oslobođen obveze podnošenja informacija o prekograničnom aranžmanom o kojem se izvješćuje ako bi se obvezom izvješćivanja prekršila obveza čuvanja profesionalne tajne, kako je propisano propisima kojima se uređuje profesionalna tajna.
+
+(2) Ako se posrednik pozove na profesionalnu tajnu, obvezan je u roku od tri dana obavijestiti pisanim putem sve druge posrednike ili, ako takvih posrednika nema, relevantnog poreznog obveznika o obvezi izvješćivanja iz članka 35.i stavka 1. ovoga Zakona.
+
+(3) Posrednici imaju pravo na izuzeće iz stavka 1. ovoga članka samo u onoj mjeri u kojoj posluju unutar ograničenja iz propisa kojim se uređuje njihova djelatnost.
+
+#### Članak 35.i
+
+(1) Ako nema posrednika ili ako je posrednik obavijestio relevantnog poreznog obveznika ili drugog posrednika o primjeni izuzeća iz članka 35.h ovoga Zakona, obvezu podnošenja informacija o prekograničnom aranžmanu o kojem se izvješćuje snosi drugi obaviješteni posrednik ili, ako nema takvoga posrednika, relevantni porezni obveznik.
+
+(2) Relevantni porezni obveznik koji ima obvezu izvješćivanja podnosi informacije iz članka 35.k ovoga Zakona u roku od 30 dana Ministarstvu financija, Poreznoj upravi, počevši od dana nakon što je prekogranični aranžman o kojem se izvješćuje stavljen tom relevantnom poreznom obvezniku na raspolaganje radi njegove provedbe, ili nakon što je taj aranžman spreman za provedbu od strane relevantnog poreznog obveznika, ili trenutka kada je napravljen prvi korak u njegovoj provedbi u vezi s relevantnim poreznim obveznikom, ovisno što nastupi ranije.
+
+(3) Ako je relevantni porezni obveznik dužan nadležnim tijelima u više od jedne države članice podnijeti informacije o prekograničnim aranžmanima o kojima se izvješćuje, takve informacije podnose se samo Ministarstvu financija, Poreznoj upravi u sljedećim slučajevima:
+
+1. ako je rezident u porezne svrhe u Republici Hrvatskoj
+
+2. ako ima stalnu poslovnu jedinicu u Republici Hrvatskoj koja ostvaruje koristi od aranžmana, a nije rezident u porezne svrhe u bilo kojoj drugoj državi članici
+
+3. ako ostvaruje dohodak ili dobit u Republici Hrvatskoj, a nije rezident u porezne svrhe i nema stalnu poslovnu jedinicu u drugoj državi članici ili
+
+4. ako obavlja djelatnost u Republici Hrvatskoj, a uvjeti iz točaka 1., 2. i 3. ovoga stavka nisu ispunjeni u nekoj drugoj državi članici.
+
+(4) Relevantni porezni obveznik izuzima se od obveze podnošenja informacija u Republici Hrvatskoj ako može dokazati da su, pod okolnostima iz stavka 3. ovoga članka, isti podaci iz članka 35.k stavka 1. ovoga Zakona već podneseni u drugoj državi članici.
+
+*Pravila izvješćivanja kada postoji više posrednika ili nekoliko relevantnih poreznih obveznika*
+
+#### Članak 35.j
+
+(1) Ako postoji više posrednika, obvezu podnošenja informacija o prekograničnom aranžmanu o kojem se izvješćuje imaju svi posrednici koji sudjeluju u istom prekograničnom aranžmanu o kojem se izvješćuje.
+
+(2) Posrednik se izuzima od obveze podnošenja informacija samo u mjeri u kojoj ima dokaz da je iste informacije iz članka 35.k stavka 1. ovoga Zakona već podnio drugi posrednik.
+
+(3) Ako obvezu izvješćivanja ima relevantni porezni obveznik i ako postoji više od jednog relevantnog poreznog obveznika, obvezu podnošenja informacija u skladu s člankom 35.i stavkom 1. ovoga Zakona ima onaj relevantni porezni obveznik koji se nalazi prvi na sljedećem popisu:
+
+1. relevantni porezni obveznik koji je s posrednikom dogovorio prekogranični aranžman o kojem se izvješćuje
+
+2. relevantni porezni obveznik koji upravlja provedbom aranžmana.
+
+(4) Relevantni porezni obveznik izuzima se od obveze podnošenja informacija samo ako može dokazati da je istu informaciju iz članka 35.k stavka 1. ovoga Zakona već podnio drugi relevantni porezni obveznik.
+
+(5) Svaki relevantni porezni obveznik obvezan je Ministarstvu financija, Poreznoj upravi podnositi informacije o upotrebi aranžmana u svakoj godini u kojoj ga je upotrebljavao.
+
+(6) Obavijest o upotrebi aranžmana podnosi se u roku od tri mjeseca nakon isteka godine u kojoj se aranžman upotrebljavao.
+
+*Informacije o kojima se izvješćuje*
+
+#### Članak 35.k
+
+(1) Ministarstvo financija, Porezna uprava putem automatske razmjene informacija dostavlja nadležnim tijelima svih drugih država članica i Europskoj komisiji sljedeće informacije o prekograničnim aranžmanima o kojima se izvješćuje:
+
+1. identifikaciju posrednika i relevantnih poreznih obveznika, uključujući njihovo ime, datum i mjesto rođenja (u slučaju fizičke osobe), rezidentnost u porezne svrhe i porezni identifikacijski broj te, po potrebi, osobe koje su povezana poduzeća relevantnog porez­nog obveznika
+
+2. pojedinosti o obilježjima koja ukazuju na potencijalni rizik od izbjegavanja plaćanja poreza utvrđenima u pravilniku iz članka 35.a stavka 5. ovoga Zakona zbog kojih nastaje obveza izvješćivanja o prekograničnim aranžmanima
+
+3. sažetak sadržaja prekograničnog aranžmana o kojem se izvješćuje, uključujući upućivanje na ime pod kojim je općenito poznat, ako postoji, apstraktni opis relevantnih poslovnih aktivnosti ili aranžmana na način da se ne otkriva poslovna, industrijska, ili profesionalna tajna, ni poslovni proces, ni informacije koje bi bile u suprotnosti s javnim poretkom
+
+4. datum poduzimanja prvog koraka u provedbi prekograničnog aranžmana ili datum na koji će biti poduzet prvi korak u provedbi prekograničnog aranžmana
+
+5. pojedinosti o propisima koji uređuju prekogranični aranžman iz članka 35.a ovoga Zakona
+
+6. vrijednost prekograničnog aranžmana o kojem se izvješćuje
+
+7. podatak o državi članici relevantnog poreznog obveznika ili više njih i svim drugim državama članicama na koje bi prekogranični aranžman mogao utjecati
+
+8. podatak o svim drugim osobama u državi članici na koje bi prekogranični aranžman o kojem se izvješćuje mogao utjecati, uz navođenje država članica s kojima je ta osoba povezana.
+
+(2) Nepostupanje Ministarstva financija, Porezne uprave u odnosu na prekogranični aranžman o kojem se izvješćuje, ne podrazumijeva valjanost poreznog tretmana tog aranžmana.
+
+(3) Automatska razmjena informacija iz stavka 1. ovoga članka provodi se u roku od mjesec dana od završetka tromjesečja u kojem su te informacije bile podnesene.«.
+
+#### Članak 4.
+
+U članku 66. stavku 1. iza točke 4. briše se točka i dodaju se točke od 5. do 9. koje glase:
+
+»5. pravna osoba ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.f stavak 1.)
+
+6. pravna osoba ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.i stavak 2.)
+
+7. pravna osoba ako ne podnese potpuno propisano periodično izvješće s ažuriranim informacijama o kojima se izvješćuje i ako u roku ne podnose propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.f stavak 3.)
+
+8. pravna osoba ako u roku ne podnese propisano izvješće o informacijama o upotrebi prekograničnih aranžmana o kojima se izvješćuje Ministarstvu financija, Poreznoj upravi (članak 35.j stavci 5. i 6.)
+
+9. pravna osoba ako se pozove na profesionalnu tajnu, a ne obavijesti sve druge posrednike, ili ako takvih posrednika nema, relevantnog poreznog obveznika o obvezi izvješćivanja (članak 35.h stavak 2.).«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Novčanom kaznom u iznosu od 2000,00 do 20.000,00 kuna kaznit će se i odgovorna osoba u pravnoj osobi za prekršaj iz stavka 1. točaka 5., 6., 7., 8. i 9. ovoga članka.«.
+
+Dosadašnji stavci 2., 3. i 4. postaju stavci 3., 4. i 5.
+
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+
+»(6) Novčanom kaznom u iznosu od 1000,00 do 100.000,00 kuna za prekršaj iz stavka 1. točaka 5., 6., 7., 8. i 9. ovoga članka kaznit će se fizička osoba.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 5.
+
+(1) Ministarstvo financija, Porezna uprava će do 31. listopada 2020. nadležnim tijelima država članica i Europskoj komisiji automatskom razmjenom dostaviti informacije iz odredbi članka 3. ovoga Zakona u dijelu koji se odnosi na informacije o kojima se izvješćuje počevši od 25. lipnja 2018.
+
+(2) Iznimno od odredbe članka 3. ovoga Zakona u dijelu koji se odnosi na rokove izvješćivanja, posrednici i relevantni porezni obveznici podnose Ministarstvu financija, Poreznoj upravi do 31. kolovoza 2020. informacije o prekograničnim aranžmanima o kojima se izvješćuje čiji je prvi korak proveden u razdoblju između 25. lipnja 2018. i 1. srpnja 2020.
+
+#### Članak 6.
+
+Ministar financija uskladit će Pravilnik o automatskoj razmjeni informacija u području poreza (»Narodne novine«, br. 18/17. i 1/19.) s odredbama ovoga Zakona u roku od 30 dana od dana njegova stupanja na snagu.
+
+#### Članak 7.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/215
+
+Zagreb, 29. studenoga 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza (NN 151/2022)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2338*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza, koji je Hrvatski sabor donio na sjednici 16. prosinca 2022.
+
+Klasa: 011-02/22-02/170
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 20. prosinca 2022.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA**
+
+#### Članak 1.
+
+U Zakonu o administrativnoj suradnji u području poreza (»Narodne novine«, br. 115/16., 130/17., 106/18. i 121/19.) u članku 2. stavku 1. u uvodnoj rečenici riječi: »u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:« zamjenjuje se riječima: »u hrvatsko zakonodavstvo preuzimaju sljedeći akti Europske unije:«.
+
+U stavku 1. iza točke 9. briše se točka i dodaje se točka 10. koja glasi:
+
+»10. Direktiva Vijeća (EU) 2021/514 od 22. ožujka 2021. o izmjeni Direktive 2011/16/EU o administrativnoj suradnji u području oporezivanja (SL L 104, 25. 3. 2021.) (u daljnjem tekstu: Direktiva Vijeća (EU) 2021/514).«.
+
+#### Članak 2.
+
+U članku 7.a dodaju se novi stavci 1. do 3. te stavak 4. koji glase:
+
+»(1) Ministarstvo financija, Porezna uprava provodi nadzor nad točnošću prikupljanja propisanih informacija i nad provedbom dubinske analize u smislu ovoga Zakona koju su obvezne provoditi izvještajne financijske institucije te jesu li izvještajne financijske institucije utvrdile račune o kojima se izvješćuje i jesu li o njima izvijestile u roku koji je propisan ovim Zakonom.
+
+(2) Ministarstvo financija, Porezna uprava provodi nadzor nad točnošću i potpunosti popunjenih propisanih izvješća te jesu li izvještajne financijske institucije podnijele propisano izvješće u roku koji je propisan ovim Zakonom.
+
+(3) Ministarstvo financija, Porezna uprava provodi nadzor nad točnošću prikupljanja propisanih informacija i nad provedbom dubinske analize koju su obvezni provoditi operateri platformi te provjerava jesu li operateri platformi podnijeli potpuno propisano izvješće i jesu li ga podnijeli u roku koji je propisan ovim Zakonom.
+
+(4) Na postupak nadzora koji provodi Ministarstvo financija, Porezna uprava primjenjuju se u odgovarajućem dijelu i propisi koji uređuju ovlasti i postupanje Ministarstva financija, Porezne uprave prilikom provođenja postupaka iz svoje nadležnosti.«.
+
+Dosadašnji stavci 1., 2. i 3. postaju stavci 5., 6. i 7.
+
+#### Članak 3.
+
+U članku 10. stavku 1. iza riječi: »iz članka 4. ovoga Zakona« dodaju se riječi: »te PDV-a i drugih neizravnih poreza«.
+
+Iza stavka 3. dodaju se novi stavci 4. i 5. koji glase:
+
+»(4) Porezno tijelo može nadležnom tijelu države članice priopćiti popis svrha za koje se dostavljene informacije i dokumenti mogu koristiti.
+
+(5) Država članica koja prima informacije može upotrijebiti dostavljene informacije bez pristanka iz stavka 2. ovoga članka za bilo koju svrhu navedenu na popisu iz stavka 4. ovoga članka.«.
+
+Dosadašnji stavak 4. postaje stavak 6.
+
+U dosadašnjem stavku 5., koji postaje stavak 7., riječi: »od stavaka 1. do 4.« zamjenjuju se riječima: »od stavaka 1. do 6.«.
+
+Dosadašnji stavak 6. postaje stavak 8.
+
+U dosadašnjem stavku 7., koji postaje stavak 9., riječi: »od 1. do 6. ovoga članka« zamjenjuje se riječima: »od 1. do 8. ovoga članka«.
+
+Dosadašnji stavak 8. postaje stavak 10.
+
+#### Članak 4.
+
+Iza članka 10. dodaju se članci 10.a i 10.b i naslovi iznad njih koji glase:
+
+*»Zaštita podataka*
+
+#### Članak 10.a
+
+(1) Ministarstvo financija, Porezna uprava, izvještajne financijske institucije, posrednici i operateri platformi koji izvješćuju smatraju se voditeljima obrade podataka kada samostalno ili zajednički utvrđuju svrhu i načine obrade osobnih podataka u skladu s propisom kojim se uređuje zaštita osobnih podataka.
+
+(2) Izvještajne financijske institucije, posrednik ili operater platforme za izvješćivanje obavještavaju osobu o kojoj se izvješćuje da će informacije koje se na njega odnose prikupljati i dostavljati u skladu s ovim Zakonom te pružaju toj osobi sve informacije u skladu s propisima kojima se uređuje zaštita osobnih podataka prije izvješćivanja o tim informacijama kako bi osoba mogla ostvariti svoja prava na zaštitu podataka.
+
+(3) Operateri platforme koja izvješćuje obavještavaju prodavatelje o kojima se izvješćuje o prijavljenoj naknadi.
+
+*Povreda podataka*
+
+#### Članak 10.b
+
+(1) Povreda podataka u smislu ovoga Zakona podrazumijeva povredu sigurnosti koja dovodi do uništenja, gubitka, izmjene ili bilo kakvog neprimjerenog i neovlaštenog pristupa informacijama, njihova otkrivanja ili uporabe, uključujući osobne podatke koji se prenose, pohranjuju ili na drugi način obrađuju, kao rezultat namjernih nezakonitih radnji, nepažnje ili nesreća.
+
+(2) Povreda podataka iz stavka 1. ovoga članka može se odnositi na povjerljivost, dostupnost i cjelovitost podataka.
+
+(3) Ministarstvo financija, Porezna uprava će bez odgode obavijestiti Europsku komisiju o svakoj povredi podataka i svim naknadnim korektivnim mjerama.
+
+(4) Ministarstvo financija, Porezna uprava će u pisanom obliku zatražiti od Europske komisije da obustavi pristup CCN mreži (Zajednička komunikacijska mreža – CCN) za potrebe ovoga Zakona ako se povreda podataka ne može odmah i na odgovarajući način staviti pod kontrolu.
+
+(5) Ministarstvo financija, Porezna uprava može pisanim putem obavijestiti Europsku komisiju i državu članicu u kojoj je došlo do povrede podataka o obustavi razmjene informacija s navedenom državom članicom.
+
+(6) Obustava razmjene informacija iz stavka 5. ovoga članka stupa na snagu odmah.«.
+
+#### Članak 5.
+
+U članku 12. stavak 1. mijenja se i glasi:
+
+»(1) Povratna informacija iz članka 9. ovoga Zakona, razmjena informacija na zahtjev iz članka 15. ovoga Zakona i obavijesti iz članka 17. ovoga Zakona, obavijesti iz članka 10. stavaka 2. i 3. ovoga Zakona, spontana razmjena informacija iz članka 18. ovoga Zakona i potvrda o njihovu primitku iz članka 20. ovoga Zakona, obvezna automatska razmjena informacija iz članaka 21. i 35.l ovoga Zakona, prosljeđivanje obavijesti iz članka 43. ovoga Zakona odvija se u elektroničkom obliku, na za to propisanim standardnim obrascima.«.
+
+U stavku 3. točki a) iza riječi: »odnosi« stavlja se zarez i dodaju se riječi: »a u slučaju zahtjeva iz članka 17.a stavka 3. ovoga Zakona i detaljan opis skupine«.
+
+#### Članak 6.
+
+U članku 17. stavku 1. riječi: »6 mjeseci« zamjenjuje se riječima: »tri mjeseca«.
+
+U stavku 5. iza riječi: »odgovor« briše se točka, stavlja se zarez i dodaju se riječi: »koji ne smije biti dulji od šest mjeseci od datuma primitka zahtjeva.«.
+
+#### Članak 7.
+
+Iza članka 17. dodaje se članak 17.a i naslov iznad njega koji glasi:
+
+*»Predvidiva relevantnost*
+
+#### Članak 17.a
+
+(1) Za potrebe zahtjeva iz članka 16. ovoga Zakona, tražene informacije smatraju se predvidivo relevantnima ako u trenutku podnošenja zahtjeva nadležno tijelo države članice koja podnosi zahtjev smatra da, u skladu sa svojim nacionalnim zakonodavstvom, postoji razumna mogućnost da će tražene informacije biti relevantne za porezna pitanja jednog poreznog obveznika ili nekoliko njih, neovisno o tome jesu li identificirani imenom ili na neki drugi način, i biti opravdane za potrebe upravnih radnji.
+
+(2) Kako bi se dokazala predvidiva relevantnost zatraženih informacija iz stavka 1. ovoga članka, nadležno tijelo države članice koja podnosi zahtjev dostavit će poreznom tijelu najmanje sljedeće informacije:
+
+1. porezna svrha za koju se informacije traže i
+
+2. specifikacija informacija potrebnih za primjenu ili provedbu nacionalnog prava.
+
+(3) Ako se zahtjev iz članka 16. ovoga Zakona odnosi na skupinu poreznih obveznika koji se ne mogu pojedinačno identificirati, nadležno tijelo države članice koja podnosi zahtjev dostavit će poreznom tijelu najmanje sljedeće informacije:
+
+1. detaljan opis skupine
+
+2. objašnjenje mjerodavnog prava i činjenica na temelju kojih se može smatrati da porezni obveznici iz skupine nisu bili usklađeni s mjerodavnim pravom
+
+3. objašnjenje načina na koji bi zatražene informacije bile od pomoći u utvrđivanju usklađenosti poreznih obveznika iz skupine s mjerodavnim pravom i
+
+4. gdje je primjenjivo, činjenice i okolnosti povezane s uključenošću treće strane koja je aktivno pridonijela potencijalnom nepoštivanju mjerodavnog zakona od strane poreznih obveznika iz skupine.«.
+
+#### Članak 8.
+
+U članku 22. stavku 1. točki 5. iza riječi: »prava« briše se točka i dodaje se točka 6. koja glasi:
+
+»6. autorske naknade.«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ministarstvo financija, Porezna uprava nastoji uključiti porezni identifikacijski broj (PIB) rezidenata koji izdaje država članica rezidentnosti pri dostavi informacija iz stavka 1. ovoga članka.«.
+
+Dosadašnji stavak 2. postaje stavak 3.
+
+#### Članak 9.
+
+U članku 23. oznaka stavka 1. briše se.
+
+Stavak 2. briše se.
+
+#### Članak 10.
+
+Članak 24. mijenja se i glasi:
+
+»(1) Ministarstvo financija, Porezna uprava izvješćuje Europsku komisiju o barem dvije kategorije dohotka i imovine navedenim u članku 22. stavku 1. ovoga Zakona do 31. prosinca 2023.
+
+(2) Ministarstvo financija, Porezna uprava jedanput godišnje izvješćuje Europsku komisiju o barem četiri kategorije dohotka i imovine navedenim u članku 22. stavku 1. ovoga Zakona.
+
+(3) Ministarstvo financija, Porezna uprava obvezna je svake godine dostavljati Europskoj komisiji statističke podatke o opsegu automatske razmjene informacija, godišnju procjenu učinkovitosti izvršene automatske razmjene podataka sukladno propisanom obrascu, informacije o administrativnim i drugim relevantnim troškovima i koristima povezanim s obavljanim razmjenama te o mogućim promjenama za porezne uprave i treće strane.
+
+(4) Informacije koje Ministarstvo financija, Porezna uprava priopći Europskoj komisiji na temelju stavka 3. ovoga članka te svako drugo izvješće ili dokument koje Europska komisija izradi koristeći se takvim informacijama mogu se proslijediti drugim državama članicama.
+
+(5) Proslijeđene informacije iz stavka 4. ovoga članka obuhvaćene su obvezom čuvanja poslovne tajne i uživaju zaštitu koja se primjenjuje na slične informacije na temelju nacionalnog prava države članice koja ih je primila.
+
+(6) Izvješća i dokumenti iz stavka 4. ovoga članka koje izradi Europska komisija mogu se upotrijebiti samo u analitičke svrhe te se ne smiju objavljivati ili davati na raspolaganje drugim osobama ili tijelima bez izričite suglasnosti Europske komisije.«.
+
+#### Članak 11.
+
+U članku 28. stavak 1. briše se.
+
+Oznaka stavka 2. briše se.
+
+Stavak 3. briše se.
+
+#### Članak 12.
+
+U članku 29. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Izvještajne financijske institucije obvezne su komunikaciju s Ministarstvom financija, Poreznom upravom obavljati putem sustava ePorezna – Jedinstvenog portala Porezne uprave.«.
+
+Dosadašnji stavak 3. postaje stavak 4.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., riječi: »iz stavka 5.« zamjenjuju se riječima: »iz stavka 6.«.
+
+Dosadašnji stavak 5. postaje stavak 6.
+
+#### Članak 13.
+
+U članku 32. stavku 1. točki 2. iza riječi: »niza transakcija« dodaju se riječi: »kao i sve druge informacije koje bi mogle biti korisne nadležnom tijelu države članice u procjeni mogućeg poreznog rizika«.
+
+#### Članak 14.
+
+U članku 33. stavku 1. iza riječi: »članica« dodaju se riječi: »odmah nakon što je prethodno porezno mišljenje s prekograničnim učinkom ili prethodni sporazum o transfernim cijenama izdano, izmijenjeno ili obnovljeno, a najkasnije«.
+
+#### Članak 15.
+
+Iza članka 35.k dodaje se Odjeljak 6. s člancima 35.l do 35.p i naslovima iznad njih koji glase:
+
+### »ODJELJAK 6. — AUTOMATSKA RAZMJENA INFORMACIJA O KOJIMA IZVJEŠĆUJU OPERATERI PLATFORMI
+
+*Informacije o kojima se izvješćuje*
+
+#### Članak 35.l
+
+(1) Automatska razmjena informacija o kojima izvješćuju operateri platformi obuhvaća sljedeće informacije:
+
+1. naziv, adresu registriranog sjedišta, osobni identifikacijski broj (OIB), porezni identifikacijski broj i, prema potrebi, individualni identifikacijski broj operatera platforme koji izvješćuje dodijeljen na temelju članka 35.o stavka 2. ovoga Zakona te poslovni naziv platforme ili poslovne nazive platformi u pogledu kojih izvješćuje
+
+2. ime i prezime fizičke osobe koja je prodavatelj o kojem se izvješćuje te pravni naziv subjekta koji je prodavatelj o kojem se izvješćuje
+
+3. primarnu adresu prodavatelja o kojem se izvješćuje iz točke 2. ovoga stavka
+
+4. svaki porezni identifikacijski broj prodavatelja o kojem se izvješćuje, uključujući svaku državu članicu izdavanja ili, u nedostatku poreznog identifikacijskog broja, mjesto rođenja prodavatelja o kojem se izvješćuje koji je fizička osoba
+
+5. matični broj prodavatelja o kojem se izvješćuje koji je subjekt
+
+6. PDV identifikacijski broj prodavatelja o kojem se izvješćuje, ako postoji
+
+7. datum rođenja prodavatelja o kojem se izvješćuje koji je fizička osoba
+
+8. identifikacijsku oznaku financijskog računa na koji se uplaćuje ili doznačuje naknada, u mjeri u kojoj su te informacije dostupne operateru platforme koji izvješćuje, a nadležno tijelo države članice čiji je prodavatelj o kojem se izvješćuje rezident nije obavijestilo nadležna tijela svih ostalih država članica da ne namjerava koristiti identifikacijsku oznaku financijskog računa u tu svrhu
+
+9. ako se imatelj financijskog računa na koji se uplaćuje naknada razlikuje od imena prodavatelja o kojem se izvješćuje, uz identifikacijsku oznaku financijskog računa dostaviti i ime imatelja financijskog računa na koji se uplaćuje naknada u mjeri u kojoj je dostupno operateru platforme koji izvješćuje te sve druge informacije za financijsku identifikaciju dostupne operateru platforme koji izvješćuje u pogledu tog imatelja računa
+
+10. svaku državu članicu čiji je rezident prodavatelj o kojem se izvješćuje
+
+11. ukupnu plaćenu ili pripisanu naknadu tijekom svakog tromjesečja razdoblja o kojem se izvješćuje
+
+12. sve pristojbe, provizije ili porezi koje je platforma koja izvješćuje zadržala ili naplatila tijekom svakog tromjesečja razdoblja o kojem se izvješćuje.
+
+(2) Ako prodavatelj o kojem se izvješćuje pruža usluge najma nekretnina, priopćuju se sljedeće dodatne informacije:
+
+1. adresu svake oglašene nekretnine, utvrđene na osnovi postupka dubinske analize, i odgovarajuće brojeve katastarskih čestica ili njihov ekvivalent na temelju nacionalnog prava države članice u kojoj se nalazi, ako su dostupni
+
+2. ukupnu plaćenu ili pripisanu naknadu tijekom svakog tromjesečja razdoblja o kojem se izvješćuje i broj relevantnih aktivnosti pruženih u vezi sa svakom oglašenom nekretninom
+
+3. ako je dostupno, broj dana tijekom kojih je bila iznajmljena svaka oglašena nekretnina u razdoblju o kojem se izvješćuje i vrstu svake oglašene nekretnine.
+
+(3) Ministarstvo financija, Porezna uprava automatskom razmjenom informacija dostavlja informacije iz stavaka 1. i 2. ovoga članka nadležnom tijelu države članice čiji je prodavatelj o kojem se izvješćuje rezident i, ako prodavatelj o kojem se izvješćuje pruža usluge najma nekretnina, nadležnom tijelu države članice u kojoj se nalazi nekretnina.
+
+(4) Automatska razmjena informacija iz stavaka 1. i 2. ovoga članka odvija se elektroničkim putem u propisanom formatu u roku od dva mjeseca od isteka razdoblja o kojem se izvješćuje, a na koje se odnose zahtjevi za izvješćivanje koji se primjenjuju na operatera platforme koji izvješćuje.
+
+#### Članak 35.m
+
+(1) Informacije iz članka 35.l ovoga Zakona koje se odnose na rezidente država članica operateri platforme koji izvješćuju obvezni su prikupljati u skladu s pravilima izvješćivanja i dubinske analize te ih dostaviti Ministarstvu financija, Poreznoj upravi do 31. siječnja godine koja slijedi nakon kalendarske godine u kojoj se prodavatelj utvrdio kao prodavatelj o kojem se izvješćuje.
+
+(2) Ako prodavatelj ne dostavi operateru platformi informacije koje se zahtijevaju na temelju članka 35.l ovoga Zakona niti nakon dva podsjetnika koje je operater platforme uputio nakon što je prodavatelju dostavio početni zahtjev, ali ne prije isteka 60 dana, operater platforme koji izvješćuje zatvara prodavateljev račun i onemogućuje njegovu ponovnu registraciju na platformi ili zadržava plaćanje naknade prodavatelju dok god prodavatelj ne dostavi tražene informacije.
+
+(3) Operater platforme koji izvješćuje obavlja postupke dubinske analize do 31. prosinca razdoblja o kojem se izvješćuje.
+
+(4) U pogledu prodavatelja koji su već bili registrirani na platformi 1. siječnja 2023. ili na datum kada je subjekt postao operater platforme koji izvješćuje, postupci dubinske analize moraju se obaviti do 31. prosinca drugog razdoblja o kojem se izvješćuje za operatera platforme koji izvješćuje.
+
+(5) Operater platforme koji izvješćuje dostavlja prodavatelju o kojem se izvješćuje najkasnije do 31. siječnja godine koja slijedi nakon kalendarske godine u kojoj se prodavatelja utvrdilo kao prodavatelja o kojem se izvješćuje sljedeće informacije koje se odnose na njega:
+
+1. pravni naziv
+
+2. primarnu adresu prodavatelja o kojem se izvješćuje iz članka 35.l stavka 1. točke 2. ovoga Zakona
+
+3. svaki porezni identifikacijski broj koji je izdan prodavatelju, uključujući svaku državu članicu izdavanja
+
+4. PDV identifikacijski broj prodavatelja, ako je dostupan
+
+5. matični broj subjekta
+
+6. postojanje bilo koje stalne poslovne jedinice kroz koju se u Europskoj uniji obavljaju relevantne aktivnosti, ako je dostupna, navodeći svaku državu članicu u kojoj se nalazi takva stalna poslovna jedinica.
+
+(6) Operater platforme koji izvješćuje vodi evidencije o svim poduzetim koracima i dokazima koji se upotrebljavaju za prikupljanje informacija u skladu s pravilima izvješćivanja i dubinske analize.
+
+(7) Evidencije iz stavka 6. ovoga članka moraju biti dostupne najmanje pet godina, a najviše deset godina nakon isteka razdoblja o kojem se izvješćuje.
+
+(8) Operater platforme koji izvješćuje može koristiti usluge vanjskih pružatelja usluga radi izvršavanja obveza dubinske analize, ali su te obveze i nadalje odgovornost operatera platforme koji izvješćuje.
+
+(9) Ministar financija pravilnikom propisuje pojmove, pravila izvješćivanja i postupak dubinske analize.
+
+#### Članak 35.n
+
+(1) Operater platforme koji izvješćuje podnosi informacije o prodavateljima o kojima se izvješćuje Ministarstvu financija, Poreznoj upravi u sljedećim slučajevima:
+
+1. ako je rezident u porezne svrhe u Republici Hrvatskoj
+
+2. ako je osnovan prema zakonima Republike Hrvatske
+
+3. ako je mjesto njegove uprave (uključujući mjesto stvarne uprave) u Republici Hrvatskoj
+
+4. ako ima stalnu poslovnu jedinicu u Republici Hrvatskoj.
+
+(2) Ako operater platforme koji izvješćuje ispunjava uvjete za izvješćivanje iz stavka 1. ovoga članka u više država članica, operater platforme koji izvješćuje odabire jednu od tih država članica u kojoj će ispuniti obvezu izvješćivanja.
+
+(3) Operater platforme koji izvješćuje iz stavka 2. ovoga članka obvezan je Ministarstvo financija, Poreznu upravu izvijestiti o odabiru države članice u kojoj će ispuniti obvezu izvješćivanja, kao i državu članicu u kojoj izvješćuje.
+
+(4) Operater platforme koji izvješćuje iz stavka 2. ovoga članka izuzima se od obveze podnošenja informacija iz članka 35.l ovoga Zakona Ministarstvu financija, Poreznoj upravi ako ima dokaz da su iste informacije podnesene u drugoj državi članici.
+
+(5) Ako postoji više operatera platforme koji izvješćuju, bilo koji od tih operatera platforme oslobađa se obveze izvješćivanja ako ima dokaz da je o istim informacijama u drugoj državi članici izvijestio drugi operater platforme koji izvješćuje.
+
+*Obveza registracije operatera platforme koji izvješćuje*
+
+#### Članak 35.o
+
+(1) Operater platforme koji izvješćuje koji nije rezident u porezne svrhe niti je osnovan ili se njima upravlja u državi članici, niti ima stalnu poslovnu jedinicu u državi članici, ali omogućuje obavljanje relevantne aktivnosti prodavatelja o kojima se izvješćuje ili relevantne aktivnosti koja uključuje najam nekretnine koja se nalazi u državi članici te nije kvalificirani operater platforme izvan Europske unije, ima obvezu registracije kod nadležnog tijela države članice u trenutku kada započinje obavljati aktivnost operatera platforme.
+
+(2) Operateru platforme koji izvješćuje iz stavka 1. ovoga članka koji izvrši registraciju u Republici Hrvatskoj Ministarstvo financija, Porezna uprava dodjeljuje individualni identifikacijski broj.
+
+(3) Operater platforme koji izvješćuje iz stavka 1. ovoga članka dostavlja informacije iz članka 35.l ovoga Zakona Ministarstvu financija, Poreznoj upravi najkasnije do 31. siječnja godine koja slijedi nakon kalendarske godine u kojoj se prodavatelj utvrdio kao prodavatelj o kojem se izvješćuje.
+
+(4) Ako operater platforme nakon dva podsjetnika koje je uputilo Ministarstvo financija, Porezna uprava ne ispuni obvezu izvješćivanja iz stavka 3. ovoga članka, Ministarstvo financija, Porezna uprava povlači registraciju operatera platforme koji izvješćuje.
+
+(5) Registracija se može opozvati najkasnije 90 dana nakon drugog podsjetnika, ali ne prije isteka 30 dana nakon drugog podsjetnika.
+
+(6) Operater platforme koji izvješćuje kojem je registracija povučena u skladu sa stavkom 4. ovoga članka može se ponovno registrirati u Republici Hrvatskoj samo ako Ministarstvu financija, Poreznoj upravi pruži odgovarajuća jamstva u pogledu svoje obveze da ispuni zahtjeve za izvješćivanje unutar Europske unije, uključujući sve preostale neispunjene zahtjeve za izvješćivanje iz stavka 3. ovoga članka.
+
+(7) Ministar financija pravilnikom propisuje pravila za jedinstvenu registraciju operatera platforme koji izvješćuje.
+
+*Isključeni operater platforme*
+
+#### Članak 35.p
+
+(1) Isključeni operater platforme u smislu ovoga Zakona podrazumijeva operatera platforme čiji je cjelokupni poslovni model platforme takav da nema prodavatelja o kojima se izvješćuje.
+
+(2) Operater platforme iz stavka 1. ovoga članka obvezan je Ministarstvu financija, Poreznoj upravi dostaviti dokaz da je isključeni operater platforme za svaku godinu u kojoj posluje kao isključeni operater platforme do 31. prosinca razdoblja o kojem se izvješćuje.«.
+
+#### Članak 16.
+
+U članku 36. stavak 1. mijenja se i glasi:
+
+»(1) Radi razmjene informacija vezano uz poreze iz članka 4. ovoga Zakona, nadležno tijelo države članice može zatražiti od poreznog tijela da službenici koje je ovlastilo nadležno tijelo države članice i u skladu s nacionalnim zakonodavstvom mogu:
+
+1. biti nazočni u službenim prostorijama poreznog tijela
+
+2. biti nazočni tijekom službenih ili upravnih radnji koje se provode na području Republike Hrvatske
+
+3. prema potrebi, sudjelovati u službenim ili upravnim radnjama koje se provode u Republici Hrvatskoj uporabom elektroničkih sredstava komunikacije.«.
+
+Iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Porezno tijelo odgovara na zahtjev iz stavka 1. ovoga članka u roku od 60 dana od dana primitka zahtjeva potvrđujući svoj pristanak ili priopćuje obrazloženje svojeg odbijanja nadležnom tijelu države članice koje podnosi zahtjev.
+
+(3) Ako su službenici tijela države članice koje podnosi zahtjev prisutni tijekom službenih ili upravnih radnji ili sudjeluju korištenjem elektroničkih sredstava komunikacije, mogu obavljati razgovore s pojedincima i pregledavati dokumentaciju u skladu s nacionalnim zakonodavstvom.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 4. i 5.
+
+U dosadašnjem stavku 4., koji postaje stavak 6., riječi: »sa stavcima 1., 2. i 3.« zamjenjuju se riječima: »sa stavcima 1. do 5.«.
+
+#### Članak 17.
+
+U članku 37. stavku 5. iza riječi: »nadzor« dodaju se riječi: »u roku od 60 dana od dana primitka prijedloga«.
+
+#### Članak 18.
+
+Iza članka 37. dodaju se članak 37.a i naslov iznad njega koji glasi:
+
+*»Zajednički nadzori*
+
+#### Članak 37.a
+
+(1) Zajednički nadzor u smislu ovoga Zakona podrazumijeva upravnu radnju koju zajednički obavljaju porezno tijelo i nadležno tijelo jedne ili više država članica i koja uključuje jednu ili više osoba od zajedničkog ili komplementarnog interesa nadležnih tijela tih država članica.
+
+(2) Nadležno tijelo jedne ili više država članica može zatražiti od poreznog tijela da provedu zajednički nadzor.
+
+(3) Na zahtjev iz stavka 2. ovoga članka porezno tijelo odgovorit će u roku od 60 dana od dana primitka zahtjeva.
+
+(4) Porezno tijelo može odbiti zahtjev nadležnog tijela države članice za zajednički nadzor iz stavka 2. ovoga članka iz opravdanih razloga.
+
+(5) Zajednički nadzor koji se odvija u Republici Hrvatskoj provodi se na koordiniran način koji je unaprijed dogovoren između poreznog tijela i nadležnog tijela jedne ili više država članica koje su podnijele zahtjev, uključujući i jezično uređenje, te se provodi u skladu sa zakonodavstvom i postupovnim propisima Republike Hrvatske.
+
+(6) U skladu sa stavkom 5. ovoga članka:
+
+1. službenici koje je ovlastilo nadležno tijelo jedne ili više država članica koje podnose zahtjev mogu, u dogovoru sa službenicima poreznog tijela, ispitivati osobe i pregledavati dokumente
+
+2. dokazi prikupljeni tijekom zajedničkog nadzora mogu se ocijeniti, među ostalim, i u pogledu njihove dopuštenosti, pod istim pravnim uvjetima kao u slučaju nadzora koji se provodi u Republici Hrvatskoj, kao i tijekom bilo kojeg postupka prigovora ili žalbe, i
+
+3. jedna osoba ili više njih koje su predmet zajedničkog nadzora ili na koje on utječe imaju ista prava i obveze kao u slučaju nadzora u kojem sudjeluju samo službenici Republike Hrvatske, kao i tijekom bilo kojeg postupka prigovora ili žalbe.
+
+(7) Porezno tijelo odredit će predstavnika koji će za Republiku Hrvatsku biti zadužen za nadzor i koordinaciju aktivnosti zajedničkog nadzora u Republici Hrvatskoj.
+
+(8) Prava i obveze službenika ovlaštenih od strane nadležnog tijela jedne ili više država članica koji sudjeluju u zajedničkom nadzoru u Republici Hrvatskoj, u slučaju njihove prisutnosti na tim aktivnostima, utvrđuju se u skladu sa zakonodavstvom Republike Hrvatske i ni u kojem slučaju ne izvršavaju ovlasti koje nadilaze ovlasti koje su im dodijeljene zakonima njihove države članice.
+
+(9) Nakon provedenog zajedničkog nadzora iz stavka 1. ovoga članka porezno tijelo nastoji s nadležnim tijelom jedne ili više država članica koje su podnijele zahtjev postići dogovor o:
+
+1. činjenicama i okolnostima koje su relevantne za zajednički nadzor
+
+2. poreznom položaju osobe ili osoba koje su predmet zajedničkog nadzora.
+
+(10) Nalaz zajedničkog nadzora sadržan je u završnom izvješću i obuhvaća zaključke dogovora iz stavka 9. ovoga članka koji je postignut između poreznog tijela i nadležnog tijela jedne ili više država članica koji su podnijeli zahtjev, a koristi se u postupcima koji se provode nakon zajedničkog nadzora.
+
+(11) Postupke koje porezno tijelo provodi nakon zajedničkog nadzora, kao i svi daljnji postupci, provode se u skladu s nacionalnim zakonodavstvom.
+
+(12) Jedna ili više osoba nad kojima je proveden zajednički nadzor obavješćuje se o ishodu zajedničkog nadzora uz dostavu preslike završnog izvješća, u roku od 60 dana od dana izdavanja završnog izvješća.
+
+(13) Porezno tijelo može u skladu s ovim člankom podnositi vlastite zahtjeve za provođenje zajedničkog nadzora nadležnim tijelima drugih država članica.«.
+
+#### Članak 19.
+
+U članku 44. stavku 8. riječ: »kunama« zamjenjuje se riječi: »eurima«.
+
+#### Članak 20.
+
+U članku 50. stavku 6. iza riječi: »eura«, zarez i riječi: »odnosno istog iznosa u kunskoj protuvrijednosti« brišu se.
+
+#### Članak 21.
+
+Članak 59. mijenja se i glasi:
+
+»(1) Ministarstvo financija, Porezna uprava je tijelo nadležno za prikupljanje informacija iz članka 61. ovoga Zakona.
+
+(2) Ministarstvo financija, Porezna uprava provodi nadzor nad točnošću prikupljana propisanih informacija i nad provedbom dubinske analize u smislu ovoga Zakona koju su obvezne provoditi hrvatske izvještajne i neizvještajne financijske institucije te jesu li hrvatske izvještajne i neizvještajne financijske institucije utvrdile račune o kojima se izvješćuje u smislu ovoga Zakona.
+
+(3) Ministarstvo financija, Porezna uprava provodi nadzor nad točnošću i potpunosti popunjenih propisanih izvješća te jesu li izvještajne financijske institucije podnijele propisano izvješće u roku koji je propisan ovim Zakonom.
+
+(4) Na postupak nadzora koji provodi Ministarstvo financija, Porezna uprava primjenjuju se u odgovarajućem dijelu i propisi koji uređuju ovlasti i postupanje Porezne uprave prilikom provođenja postupaka iz svoje nadležnosti.«.
+
+#### Članak 22.
+
+U članku 64. stavku 4. riječ: »kunama« zamjenjuje se riječi: »eurima«, a riječi: »prema srednjem tečaju Hrvatske narodne banke na dan prijenosa« brišu se.
+
+#### Članak 23.
+
+Članak 66. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 260,00 do 26.540,00 eura kaznit će se za prekršaj:
+
+1. pravna osoba ako ne prikuplja propisane informacije, ne provodi dubinsku analizu, ne utvrđuje račune o kojima se izvješćuje i ne izvješćuje o njima, ili ne izvješćuje u roku, Ministarstvo financija, Poreznu upravu (članak 27. stavak 1.)
+
+2. pravna osoba ako ne podnese točno popunjeno propisano izvješće, ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35. stavak 1.)
+
+3. pravna osoba ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.f stavak 1.)
+
+4. pravna osoba ako ne podnese potpuno propisano periodično izvješće s ažuriranim informacijama o kojima se izvješćuje i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.f stavak 3.)
+
+5. pravna osoba ako se pozove na profesionalnu tajnu, a ne obavijesti sve druge posrednike ili ako takvih posrednika nema, relevantnog poreznog obveznika o obvezi izvješćivanja (članak 35.h stavak 2.)
+
+6. pravna osoba ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.i stavak 2.)
+
+7. pravna osoba ako u roku ne podnese propisano izvješće o informacijama o upotrebi prekograničnih aranžmana o kojima se izvješćuje Ministarstvu financija, Poreznoj upravi (članak 35.j stavci 5. i 6.)
+
+8. pravna osoba ako ne prikuplja propisane informacije u skladu s pravilima izvješćivanja i dubinske analize, ako ne podnese točno popunjeno propisano izvješće, ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.m stavak 1.)
+
+9. hrvatska izvještajna financijska institucija ako Ministarstvu financija, Poreznoj upravi ne dostavi propisane informacije u odnosu na sve račune o kojima se izvješćuje ili propisane informacije ne dostavi u propisanom roku ili obliku (članak 61. stavci 1. i 4.)
+
+10. hrvatska izvještajna i neizvještajna financijska institucija ako ne prikuplja propisane informacije, ne provodi dubinsku analizu ili ne utvrđuje račune o kojima se izvješćuje (članak 62. stavak 1.).
+
+(2) Novčanom kaznom u iznosu od 260,00 do 2650,00 eura kaznit će se i odgovorna osoba u pravnoj osobi za prekršaj iz točaka 1. do 8. ovoga članka.
+
+(3) Novčanom kaznom u iznosu od 260,00 do 2650,00 eura kaznit će se i odgovorna osoba u hrvatskoj izvještajnoj i neizvještajnoj financijskoj instituciji za prekršaj iz stavka 1. točaka 9. i 10. ovoga članka.
+
+(4) Novčanom kaznom u iznosu od 130,00 do 13.270,00 eura za prekršaj iz stavka 1. točaka 3. do 7. ovoga članka kaznit će se fizička osoba.«.
+
+#### Članak 24.
+
+U članku 69. stavku 2. riječi: »koji ne prelazi kunski iznos koji odgovara iznosu« brišu se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 25.
+
+(1) Operater platformi koji izvješćuje obvezan je ispuniti obvezu iz članka 15. ovoga Zakona koja se odnosi na obvezu registracije te za razdoblje o kojem se izvješćuje koje počinje teći 1. siječnja 2023. izvršiti registraciju u roku od 90 dana prije prvog roka za dostavu informacija 31. siječnja 2024.
+
+(2) Prva automatska razmjena informacija iz članka 35.l, koji je dodan člankom 15. ovoga Zakona, odvija se za razdoblje o kojem se izvješćuje počevši od 1. siječnja 2023.
+
+#### Članak 26.
+
+Ministar financija uskladit će Pravilnik o automatskoj razmjeni informacija u području poreza (»Narodne novine«, br. 18/17., 1/19. i 1/20.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 27.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2023., osim odredbi članka 22. stavka 2. koji je dodan člankom 8. ovoga Zakona, članka 24. stavka 2. koji je izmijenjen člankom 10. ovoga Zakona i članka 18. ovoga Zakona koji stupaju na snagu 1. siječnja 2024.
+
+Klasa: 022-02/22-01/153
+
+Zagreb, 16. prosinca 2022.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza (NN 114/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/114/1616*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza, koji je Hrvatski sabor donio na sjednici 28. rujna 2023.
+
+Klasa: 011-02/23-02/78  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 3. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA**
+
+#### Članak 1.
+
+U Zakonu o administrativnoj suradnji u području poreza (»Narodne novine«, br. 115/16., 130/17., 106/18., 121/19. i 151/22.) u članku 2. stavak 2. mijenja se i glasi:
+
+»(2) Ovim se Zakonom osigurava provedba Uredbe Vijeća (EU) br. 904/2010 od 7. listopada 2010. o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (SL L 268, 12. 10. 2010.), kako je posljednji put izmijenjena Uredbom Vijeća (EU) 2020/283 od 18. veljače 2020. o izmjeni Uredbe (EU) br. 904/2010 u pogledu mjere za jačanje administrativne suradnje radi suzbijanja prijevara u vezi s PDV-om (SL L 62, 2. 3. 2020.: u daljnjem tekstu: »Uredba Vijeća (EU) br. 904/2010«).«.
+
+#### Članak 2.
+
+U članku 14. točki 1. iza podtočke b. dodaje se podtočka c. koja glasi:
+
+»c. druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni informacija o dohotku ostvarenom putem digitalnih platformi i koja na temelju sporazuma razmjenjuje informacije iz članka 35.l ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave«.
+
+#### Članak 3.
+
+U članku 27. stavku 1. riječ: »Informacije« zamjenjuje se riječima: »Točne i potpune informacije«.
+
+#### Članak 4.
+
+U članku 32. stavku 1. točki 2. iza riječi: »uključujući« riječ: »apstraktni« briše se.
+
+#### Članak 5.
+
+U članku 35.l stavku 1. točki 4. iza riječi: »državu članicu« dodaju se riječi: »ili drugu jurisdikciju«.
+
+Točka 8. mijenja se i glasi:
+
+»8. identifikacijsku oznaku financijskog računa na koji se uplaćuje ili doznačuje naknada, u mjeri u kojoj su te informacije dostupne operateru platforme koji izvješćuje, a nadležno tijelo države članice ili druge jurisdikcije čiji je prodavatelj o kojem se izvješćuje rezident nije obavijestilo nadležna tijela svih ostalih jurisdikcija da ne namjerava koristiti identifikacijsku oznaku financijskog računa u tu svrhu«.
+
+U točki 10. iza riječi: »državu članicu« dodaju se riječi: »ili drugu jurisdikciju«.
+
+U točki 11. iza riječi: »izvješćuje« dodaju se riječi: »i broj relevantnih aktivnosti u vezi s kojima je plaćena ili pripisana«.
+
+U stavku 2. točki 1. iza riječi: »države članice« dodaju se riječi: »ili druge jurisdikcije«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Ministarstvo financija, Porezna uprava automatskom razmjenom informacija dostavlja informacije iz stavaka 1. i 2. ovoga članka nadležnim tijelima država članica i drugih jurisdikcija koje primjenjuju sporazum između nadležnih tijela čija je Republika Hrvatska stranka u kojima je prodavatelj o kojem se izvješćuje rezident i, ako prodavatelj o kojem se izvješćuje pruža usluge najma nekretnina, nadležnom tijelu države članice ili druge jurisdikcije u kojoj se nalazi nekretnina.«.
+
+#### Članak 6.
+
+U članku 35.m stavku 1. iza riječi: »država članica« dodaju se riječi: »ili kvalificiranih jurisdikcija izvan Europske unije«.
+
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Ministarstvo financija, Porezna uprava može uputiti zahtjev za izvješćivanjem operateru platforme koji izvješćuje ako isti ne dostavi sve podatke koji su potrebni kako bi Ministarstvo financija, Porezna uprava ispunilo obvezu automatske razmjene informacija iz članka 35.l ovoga Zakona.«.
+
+Dosadašnji stavci 2. do 9. postaju stavci 3. do 10.
+
+#### Članak 7.
+
+U članku 35.n stavku 5. iza riječi: »državi članici« dodaju se riječi: »ili kvalificiranoj jurisdikciji izvan Europske unije«.
+
+#### Članak 8.
+
+Iza članka 35.p dodaje se odjeljak 7. s člancima 35.r do 35.t i naslovima iznad njih koji glase:
+
+### »Odjeljak 7. — Provedba Mnogostranog sporazuma između nadležnih tijela o automatskoj razmjeni informacija u vezi s aranžmanima izbjegavanja zajedničkog standarda izvješćivanja i netransparentnim offshore strukturama
+
+*Značenje pojmova*
+
+#### Članak 35.r
+
+Pojmovi iz ovoga poglavlja imaju značenje u skladu s odredbama Mnogostranog sporazuma između nadležnih tijela o automatskoj razmjeni informacija u vezi s aranžmanima izbjegavanja zajedničkog standarda izvješćivanja i netransparentnim offshore strukturama.
+
+*Obveza izvješćivanja za posrednike*
+
+#### Članak 35.s
+
+(1) Osoba koja se smatra posrednikom u odnosu na aranžman izbjegavanja zajedničkog standarda izvješćivanja ili netransparentnu offshore strukturu ima obvezu prijaviti aranžman ili strukturu Ministarstvu financija, Poreznoj upravi ako:
+
+1. taj aranžman izbjegavanja zajedničkog standarda izvješćivanja ili netransparentnu offshore strukturu čini dostupnom ili pruža relevantne usluge u odnosu na taj aranžman izbjegavanja zajedničkog standarda izvješćivanja ili netransparentnu offshore strukturu putem poslovnice koja se nalazi u Republici Hrvatskoj
+
+2. je rezident ili ima mjesto upravljanja u Republici Hrvatskoj ili
+
+3. je osnovana ili ima poslovni nastan prema zakonima Republike Hrvatske.
+
+(2) Posrednici su obvezni informacije u vezi s prekograničnim aranžmanima dostaviti Ministarstvu financija, Poreznoj upravi u roku od 30 dana nakon što:
+
+1. sklope aranžman izbjegavanja zajedničkog standarda izvješćivanja ili netransparentnu offshore strukturu koja je dostupna za provedbu ili
+
+2. pruže relevantne usluge u odnosu na aranžman izbjegavanja zajedničkog standarda izvješćivanja ili netransparentnu offshore strukturu.
+
+*Informacije o kojima se izvješćuje*
+
+#### Članak 35.t
+
+(1) Ministarstvo financija, Porezna uprava putem automatske razmjene informacija dostavlja nadležnim tijelima jurisdikcija porezne rezidentnosti poreznog obveznika o kojem se izvješćuje, s obzirom na aranžman o kojem se izvješćuje, sljedeće informacije:
+
+1. imena i adrese sljedećih osoba:
+
+a) osobe koja objavljuje podatke
+
+b) poreznog obveznika o kojem se izvješćuje, uključujući jurisdikciju i porezni identifikacijski broj porezne rezidentnosti i datum rođenja
+
+c) svih osoba koje su posrednici u odnosu na taj aranžman ili strukturu (osim osobe koja objavljuje podatke), uključujući svaku takvu jurisdikciju porezne rezidentnosti posrednika
+
+2. detalje tog aranžmana izbjegavanja zajedničkog standarda izvješćivanja ili netransparentne offshore strukture, uključujući:
+
+a) u odnosu na aranžman izbjegavanja zajedničkog standarda izvješćivanja, činjenični opis onih svojstava aranžmana koji su izrađeni da bi imali, kojima se trguje kao da imaju ili koji imaju učinak zaobilaženja zakonodavstva o zajedničkom standardu izvješćivanja
+
+b) u odnosu na netransparentne offshore strukture, činjenični opis onih svojstava koja imaju učinak onemogućavanja preciznog određivanja stvarnog vlasnika poreznog obveznika o kojem se izvješćuje ili stvaranja dojma da porezni obveznik o kojem se izvješćuje nije stvarni vlasnik pasivnog offshore subjekta i
+
+c) jurisdikciju ili jurisdikcije u kojima su aranžman izbjegavanja zajedničkog standarda izvješćivanja ili netransparentna offshore struktura na raspolaganju.
+
+(2) Informacije iz stavka 1. ovoga članka odnose se na informacije koje su poznate osobi koja ih prijavljuje, u njezinu su posjedu ili se nalaze pod njezinom kontrolom te odražavaju sadržaj koji je posrednik prijavio Ministarstvu financija, Poreznoj upravi.
+
+(3) Automatska razmjena informacija iz stavka 1. ovoga članka odvija se u roku od tri mjeseca od isteka tromjesečja u kojem su informacije o aranžmanu o kojem se izvješćuje dostavljene Ministarstvu financija, Poreznoj upravi.«.
+
+#### Članak 9.
+
+U članku 66. stavku 1. točki 1. iza riječi: »u roku,« riječi: »Ministarstvo financija, Poreznu upravu« brišu se i dodaju se riječi: »ili ne podnese točno ili potpuno propisane informacije Ministarstvu financija, Poreznoj upravi«.
+
+Točka 9. mijenja se i glasi:
+
+»9. hrvatska izvještajna financijska institucija ako Ministarstvu financija, Poreznoj upravi ne dostavi propisane informacije u odnosu na sve račune o kojima se izvješćuje ili ne podnese točne ili potpuno propisane informacije ili propisane informacije ne dostavi u propisanom roku ili obliku (članak 61. stavci 1., 3. i 4.)«.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 10.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 1. ovoga Zakona koji stupa na snagu 1. siječnja 2024.
+
+Klasa: 022-02/23-01/59
+
+Zagreb, 28. rujna 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza (NN 146/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/146/2167*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o administrativnoj suradnji u području poreza, koji je Hrvatski sabor donio na sjednici 21. studenoga 2025.
+
+Klasa: 011-02/25-02/89
+
+Urbroj: 71-10-01/1-25-2
+
+Zagreb, 26. studenoga 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNOJ SURADNJI U PODRUČJU POREZA**
+
+#### Članak 1.
+
+U Zakonu o administrativnoj suradnji u području poreza (»Narodne novine«, br. 115/16., 130/17., 106/18., 121/19., 151/22. i 114/23.) članak 1. mijenja se i glasi:
+
+»Ovaj Zakon uređuje administrativnu suradnju u području poreza između Republike Hrvatske i država članica Europske unije (u daljnjem tekstu: države članice), automatsku razmjenu informacija o financijskim računima između Republike Hrvatske i drugih jurisdikcija, automatsku razmjenu informacija o izvješćima po državama između Republike Hrvatske i jurisdikcija izvan Europske unije, provedbu Sporazuma između Vlade Republike Hrvatske i Vlade Sjedinjenih Američkih Država o unaprjeđenju ispunjavanja poreznih obveza na međunarodnoj razini i provedbi FATCA-e, automatsku razmjenu informacija o kojima izvješćuju operateri platformi između Republike Hrvatske i drugih jurisdikcija, provedbu Mnogostranog sporazuma između nadležnih tijela o automatskoj razmjeni informacija u vezi s aranžmanima izbjegavanja zajedničkog standarda izvješćivanja i netransparentnim offshore strukturama, automatsku razmjenu informacija o kriptoimovini između Republike Hrvatske i drugih jurisdikcija i automatsku razmjenu Prijava s informacijama o dopunskom porezu između Republike Hrvatske i drugih jurisdikcija.«.
+
+#### Članak 2.
+
+U članku 2. stavku 1. točki 10. briše se točka na kraju rečenice i dodaju se točke 11. i 12. koje glase:
+
+»11. Direktiva Vijeća (EU) 2023/2226 od 17. listopada o izmjeni Direktive o administrativnoj suradnji u području poreza (SL L, 24. 10. 2023.) (u daljnjem tekstu: Direktiva Vijeća (EU) 2023/2226/EU)
+
+12. Direktiva Vijeća (EU) 2025/872 od 14. travnja 2025. o izmjeni Direktive 2011/16/EU o administrativnoj suradnji u području poreza (SL L, 6. 5. 2025.) (u daljnjem tekstu: Direktiva Vijeća (EU) 2025/872).«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Ovim se Zakonom osigurava provedba Uredbe Vijeća (EU) br. 904/2010 od 7. listopada 2010. o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (preinaka) (SL L 268, 12. 10. 2010.) (u daljnjem tekstu: Uredba Vijeća (EU) br. 904/2010), Uredbe Vijeća (EU) 2017/2454 od 5. prosinca 2017. o izmjeni Uredbe (EU) br. 904/2010 o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost (SL L 348, 29. 12. 2017.) (u daljnjem tekstu: Uredba Vijeća (EU) 2017/2454), Uredbe Vijeća (EU) 2018/1541 od 2. listopada 2018. o izmjeni uredbi (EU) br. 904/2010 i (EU) 2017/2454 u pogledu mjera za jačanje administrativne suradnje u području poreza na dodanu vrijednost (SL L 259, 16. 10. 2018.) (u daljnjem tekstu: Uredba Vijeća (EU) 2018/1541), Uredbe Vijeća (EU) 2018/1909 od 4. prosinca 2018. o izmjeni Uredbe (EU) br. 904/210 u pogledu razmjene informacija u svrhu praćenja pravilne primjene aranžmana za premještanje dobara (SL L 311, 7. 12. 2018.) (u daljnjem tekstu: Uredba Vijeća (EU) 2018/1909) i Uredbe Vijeća (EU) 2025/517 od 11. ožujka 2025. o izmjeni Uredbe (EU) br. 904/2010 o administrativnoj suradnji i suzbijanju prijevare u području poreza na dodanu vrijednost potrebnih u digitalno doba (SL L 2025/517, 25. 3. 2025.) (u daljnjem tekstu: Uredba Vijeća (EU) 2025/517).«.
+
+#### Članak 3.
+
+U članku 3. stavak 2. mijenja se i glasi:
+
+»(2) Ministarstvo financija, Porezna uprava i Carinska uprava nadležni su za provedbu Uredbe Vijeća (EU) br. 904/2010, Uredbe Vijeća (EU) 2017/2454, Uredbe Vijeća (EU) 2018/1541, Uredbe Vijeća (EU) 2018/1909 i Uredbe Vijeća (EU) 2025/517.«.
+
+#### Članak 4.
+
+U članku 7.a iza stavka 3. dodaju se novi stavci 4., 5. i 6. koji glase:
+
+»(4) Ministarstvo financija, Porezna uprava provodi nadzor nad točnošću prikupljanja propisanih informacija u smislu ovoga Zakona koju su obvezni provoditi pružatelji usluga povezanih s kriptoimovinom koji izvješćuju te jesu li pružatelji usluga povezanih s kriptoimovinom koji izvješćuju utvrdili vrstu kriptoimovine o kojoj se izvješćuje u pogledu koje su pružatelji usluga povezanih s kriptoimovinom koji izvješćuju proveli transakcije o kojima se izvješćuje i jesu li o njima izvijestili u roku koji je propisan člankom 35.v stavkom 1. ovoga Zakona.
+
+(5) Ministarstvo financija, Porezna uprava provodi nadzor nad točnošću i potpunosti popunjenih izvješća i jesu li pružatelji usluga povezanih s kriptoimovimom koji izvješćuju podnijeli propisano izvješće u roku propisanim člankom 35.v stavkom 1. ovoga Zakona.
+
+(6) Agencija provodi nadzor nad točnošću prikupljanja propisanih informacija koje se odnose na postupke dubinske analize stranke koja se smatra korisnikom kriptoimovine, a koje su postupke obvezni provoditi pružatelji usluga povezanih s kriptoimovinom u skladu s odredbama propisa kojim se uređuje sprječavanje pranja novca i financiranja terorizma.«.
+
+Dosadašnji stavci 4. do 7. postaju stavci 7. do 10.
+
+#### Članak 5.
+
+U članku 10. stavku 1. iza riječi: »te PDV-a i drugih neizravnih poreza« stavlja se zarez i dodaju riječi: »carina, za potrebe sprječavanja pranja novca i borbe protiv financiranja terorizma«.
+
+U stavku 3. riječi: »od deset dana« zamjenjuju se riječima: »od petnaest dana«.
+
+#### Članak 6.
+
+Članak 10.a mijenja se i glasi:
+
+»(1) Ministarstvo financija, Porezna uprava, izvještajne financijske institucije, posrednici, operateri platformi koji izvješćuju i pružatelji usluga povezanih s kriptoimovinom koji izvješćuju smatraju se voditeljima obrade podataka kada samostalno ili zajednički utvrđuju svrhu i načine obrade osobnih podataka u skladu s propisom kojim se uređuje zaštita osobnih podataka.
+
+(2) Izvještajne financijske institucije, posrednik, operateri platforme za izvješćivanje ili pružatelji usluga povezanih s kriptoimovinom koji izvješćuju obavještavaju osobu o kojoj se izvješćuje da će informacije koje se na nju odnose prikupljati i dostavljati u skladu s ovim Zakonom te pružaju toj osobi sve informacije u skladu s propisima kojima se uređuje zaštita osobnih podataka prije izvješćivanja o tim informacijama kako bi osoba mogla ostvariti svoja prava na zaštitu podataka.
+
+(3) Operateri platforme koja izvješćuje obavještavaju prodavatelje o kojima se izvješćuje o prijavljenoj naknadi.«.
+
+#### Članak 7.
+
+Iza članka 10.b dodaju se naslov iznad članka i članak 10.c koji glase:
+
+*»Usklađenost s Državnom informacijskom strukturom*
+
+#### Članak 10.c
+
+Razvoj, implementacija i nadogradnja informacijskih sustava potrebnih za provedbu ovoga Zakona provode se u skladu s općim načelima te specifičnim organizacijskim i tehničkim standardima propisanim zakonom kojim se uređuje državna informacijska infrastruktura, a što uključuje obvezu korištenja Središnjeg sustava interoperabilnosti (SSI) i njegovih komponenti za automatsku razmjenu podataka propisanu ovim Zakonom.«.
+
+#### Članak 8.
+
+U članku 12. stavku 1. riječi: »iz članaka 21. i 35.l ovoga Zakona« zamjenjuju se riječima: »iz članaka 22., 27., 35.l i 35.af ovoga Zakona«.
+
+#### Članak 9.
+
+Članak 14. mijenja se i glasi:
+
+»U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+
+1. druga jurisdikcija je:
+
+a) druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni informacija o financijskim računima i dodatak sporazumu nadležnih tijela o automatskoj razmjeni informacija o financijskim računima na temelju međunarodnog sporazuma i koja na temelju sporazuma dostavlja informacije iz članka 26. ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave
+
+b) druga jurisdikcija s kojom je Europska unija sklopila sporazum na temelju kojega ta država dostavlja informacije iz članka 26. ovoga Zakona Ministarstvu financija, Poreznoj upravi i koja je navedena na popisu koji je objavila Europska komisija
+
+c) druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni informacija o dohotku ostvarenom putem digitalnih platformi i koja na temelju sporazuma razmjenjuje informacije iz članka 35.l ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave
+
+d) druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni informacija u skladu s okvirom za izvješćivanje o kriptoimovini i koja na temelju sporazuma razmjenjuje informacije iz članka 35.u ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave
+
+e) druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni Prijava s informacijama o dopunskom porezu koja na temelju sporazuma razmjenjuje informacije iz članka 35.ae ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave
+
+2. porezno tijelo jest tijelo državne uprave, tijelo jedinice područne (regionalne) samouprave ili tijelo jedinice lokalne samouprave u čijem su djelokrugu poslovi utvrđivanja, nadzora i naplate poreza
+
+3. nadležno tijelo države članice je tijelo države članice nadležno za administrativnu suradnju u području poreza
+
+4. povezana poduzeća znače kada jedno poduzeće izravno ili neizravno sudjeluje u upravljanju, kontroli ili kapitalu drugog poduzeća ili ako iste osobe sudjeluju, izravno ili neizravno, u upravljanju, kontroli ili kapitalu poduzeća
+
+5. poduzeće podrazumijeva svaki oblik poslovanja
+
+6. primici od neskrbničkih dividendi su dohodak od dividendi ili drugi dohodak koji se u državi članici platitelja smatra dividendama, a koji se isplaćuju ili doznačuju na račun koji nije skrbnički račun
+
+7. proizvodi životnog osiguranja koji nisu obuhvaćeni drugim pravnim instrumentima Europske unije o razmjeni informacija i drugim sličnim mjerama su ugovori o osiguranju, osim ugovora o osiguranju uz mogućnost isplate otkupne vrijednosti police koji podliježu izvješćivanju, u kojima se naknade iz ugovora plaćaju u slučaju smrti ugovaratelja osiguranja
+
+8. adresa distribuiranog zapisa je adresa distribuiranog zapisa kako je navedena u Uredbi (EU) 2023/1114
+
+9. klijent je svaki posrednik ili relevantni porezni obveznik koji prima usluge, uključujući pomoć, savjete, usmjeravanje ili smjernice, od posrednika koji podliježe obvezi čuvanja profesionalne tajne u vezi s prekograničnim aranžmanom o kojem se izvješćuje.«.
+
+#### Članak 10.
+
+U članku 22. stavku 1. točki 6. briše se točka na kraju rečenice i dodaje točka 7. koja glasi:
+
+»7. primici od neskrbničkih dividendi, osim primitaka od dividendi izuzetih od poreza na dobit na temelju odredbi koje uređuju oporezivanje dobiti od udjela u dobiti između matičnih društava i povezanih društava iz različitih država članica u skladu s propisom kojim se uređuje oporezivanje dobiti.«.
+
+#### Članak 11.
+
+U članku 24. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Ministarstvo financija, Porezna uprava izvješćuje Europsku komisiju o barem pet kategorija dohotka i imovine navedenim u članku 22. stavku 1. ovoga Zakona do
+
+1. siječnja 2026. za razdoblje koje počinje teći od 1. siječnja 2026.«.
+
+Dosadašnji stavci 3. do 6. postaju stavci 4. do 7.
+
+#### Članak 12.
+
+U članku 26. točki 7. briše se točka na kraju rečenice i dodaju se točke 8. do 12. koje glase:
+
+»8. je li za svakog imatelja računa pribavljena valjana izjava o rezidentnosti
+
+9. vrsta računa, radi li se postojećem računu ili o novom računu i je li račun zajednički račun, uključujući broj imatelja zajedničkog računa
+
+10. nedokumentirani račun, ako se pretraživanjem evidencija na papiru ne utvrdi indicija, a pokušaj dobivanja izjave o rezidentnosti ili dokumentiranog dokaza ne bude uspješan
+
+11. u slučaju vlasničkih udjela u vlasništvu investicijskog subjekta koji je pravni aranžman uloga ili uloge na temelju kojih je osoba o kojoj se izvješćuje imatelj vlasničkog udjela
+
+12. uloga ili uloge na temelju kojih je svaka osoba o kojoj se izvješćuje, koja je osoba koja ima kontrolu nad subjektom koji je imatelj računa, osoba koja ima kontrolu nad subjektom i je li za svaku takvu osobu o kojoj se izvješćuje pribavljena valjana izjava o rezidentnosti.«.
+
+#### Članak 13.
+
+U članku 27. iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Izvještajne financijske institucije obvezne su od imatelja računa i osobe o kojoj se izvješćuje pribaviti valjanu izjavu o rezidentnosti.«.
+
+#### Članak 14.
+
+U članku 30. stavku 1. točka 4. mijenja se i glasi:
+
+»4. odnosi se na prekograničnu transakciju ili pitanje uspostavlja li se obavljanjem djelatnosti osobe u drugoj jurisdikciji stalna poslovna jedinica ili na pitanje je li fizička osoba rezident u porezne svrhe u Republici Hrvatskoj«.
+
+#### Članak 15.
+
+U članku 32. stavku 1. točka 1. mijenja se i glasi:
+
+»1. podatke o osobi i prema potrebi o skupini osoba kojoj pripada, osim fizičke osobe ako se prethodno porezno mišljenje s prekograničnim učinkom ne odnosi na fizičku osobu i priopćuje u skladu s člankom 32. stavcima 3., 4. i 5. ovoga Zakona«.
+
+Točka 11. mijenja se i glasi:
+
+»11. utvrđivanje bilo koje osobe, osim fizičke osobe ako se prethodno porezno mišljenje s prekograničnim učinkom ne odnosi na fizičku osobu i priopćuje u skladu s člankom 32. stavcima 3., 4. i 5. ovoga Zakona, u drugim državama članicama, na koju bi moglo utjecati prethodno porezno mišljenje s prekograničnim učinkom ili prethodni sporazum o transfernim cijenama te je potrebno navesti s kojim su državama članicama pogođene osobe povezane i«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Odredba stavka 2. ovoga članka ne primjenjuje se kada se prethodno porezno mišljenje s prekograničnim učinkom odnosi isključivo na porezna davanja fizičke osobe ili više njih, osim ako je to prethodno porezno mišljenje s prekograničnim učinkom izdano, izmijenjeno ili produljeno nakon 1. siječnja 2026. i ako iznos transakcije ili niza transakcija prethodnog poreznog mišljenja s prekograničnim učinkom premašuje 1.500.000,00 eura (ili jednakovrijedni iznos u bilo kojoj drugoj valuti), ako se takav iznos navodi u prethodnom poreznom mišljenju s prekograničnim učinkom, ili se prethodnim poreznim mišljenjem s prekograničnim učinkom utvrđuje je li osoba rezident u porezne svrhe u Republici Hrvatskoj.«.
+
+Iza stavka 3. dodaju se stavci 4. i 5. koji glase:
+
+»(4) Ako iznos transakcije ili niza transakcija prethodnog poreznog mišljenja s prekograničnim učinkom premašuje 1.500.000,00 eura (ili jednakovrijedni iznos u bilo kojoj drugoj valuti), u nizu transakcija koje se odnose na različitu robu, usluge ili imovinu iznos prethodnog poreznog mišljenja s prekograničnim učinkom obuhvaća ukupnu temeljnu vrijednost čiji se iznosi ne zbrajaju ako se transakcije za istu robu, usluge ili imovinu izvršavaju nekoliko puta.
+
+(5) Razmjena informacija o prethodnim poreznim mišljenjima s prekograničnim učinkom koja se odnose na fizičke osobe ne uključuje mišljenja o oporezivanju na izvoru u pogledu dohotka nerezidenata od nesamostalnog rada, direktorskih naknada ili mirovina.«.
+
+#### Članak 16.
+
+U članku 35. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Sastavni subjekt skupine multinacionalnih poduzeća koji je u svrhu oporezivanja rezident u Republici Hrvatskoj obvezan je Ministarstvo financija, Poreznu upravu izvijestiti o tome je li krajnje matično društvo ili zamjensko matično društvo ili sastavni subjekt, u roku najkasnije četiri mjeseca nakon isteka razdoblja za koje se utvrđuje porez na dobit u skladu s propisom kojim se uređuje oporezivanje dobiti.
+
+(3) Sastavni subjekt skupine multinacionalnih poduzeća koji je u svrhu oporezivanja rezident u Republici Hrvatskoj, a koji nije krajnje matično društvo, zamjensko matično društvo niti sastavni subjekt, obvezan je Ministarstvo financija, Poreznu upravu izvijestiti o identitetu i poreznoj rezidentnosti subjekta koji podnosi izvješće u roku najkasnije četiri mjeseca nakon isteka razdoblja za koje utvrđuje porez na dobit u skladu s propisom kojim se uređuje oporezivanje dobiti.«.
+
+Dosadašnji stavci 2. i 3. postaju stavci 4. i 5.
+
+#### Članak 17.
+
+U članku 35.h stavak 2. mijenja se i glasi:
+
+»(2) Ako se posrednik pozove na profesionalnu tajnu, obvezan je u roku od tri dana obavijestiti pisanim putem svojeg klijenta, ako je taj klijent posrednik ili relevantni porezni obveznik, o obvezi izvješćivanja tog klijenta u skladu s člankom 35.i stavkom 1. ovoga Zakona.«.
+
+#### Članak 18.
+
+U članku 35.k stavku 1. točki 1. iza riječi: »identifikaciju posrednika« stavlja se zarez i dodaju riječi: »osim posrednika izuzetih od obveze izvješćivanja zbog obveze čuvanja profesionalne tajne u skladu s člankom 35.h ovoga Zakona«.
+
+Točka 3. mijenja se i glasi:
+
+»3. sažetak sadržaja prekograničnog aranžmana o kojem se izvješćuje, uključujući upućivanje na naziv pod kojim je općenito poznat, ako postoji, te opis relevantnih aranžmana i sve druge informacije koje bi nadležnom tijelu mogle pomoći u procjeni potencijalnog poreznog rizika, a da se pritom ne otkrije poslovna, industrijska ili profesionalna tajna ili poslovni postupak, ili informacija čije bi otkrivanje bilo u suprotnosti s javnim poretkom«.
+
+#### Članak 19.
+
+U članku 35.l stavku 1. točki 12. briše se točka na kraju rečenice i dodaje se točka 13. koja glasi:
+
+»13. oznaku usluge identifikacije i državu članicu izdavanja, ako se operater platforme koji izvješćuje oslanja na izravnu potvrdu identiteta i boravišta prodavatelja putem usluge identifikacije koju je država članica ili Europska unija stavila na raspolaganje radi utvrđivanja identiteta i porezne rezidentnosti prodavatelja, u takvim slučajevima nije potrebno državi članici izdavanja oznake usluge identifikacije priopćiti informacije iz članka 35.l stavka 1. točaka 3. do 7. ovoga Zakona.«.
+
+#### Članak 20.
+
+U članku 35.m iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Operater platforme koji izvješćuje prikuplja sljedeće informacije:
+
+1. o prodavatelju koji je fizička osoba i nije isključeni prodavatelj:
+
+a) ime i prezime
+
+b) OIB
+
+c) primarnu adresu
+
+d) svaki PIB koji je izdan tom prodavatelju, uključujući svaku državu članicu ili drugu jurisdikciju izdavanja, te u nedostatku PIB-a, mjesto rođenja tog prodavatelja
+
+e) PDV identifikacijski broj tog prodavatelja, ako je dostupan
+
+f) datum rođenja
+
+2. o prodavatelju koji je subjekt i nije isključeni prodavatelj:
+
+a) pravni naziv
+
+b) OIB
+
+c) primarnu adresu
+
+d) svaki PIB koji je izdan tom prodavatelju, uključujući svaku državu članicu ili drugu jurisdikciju izdavanja
+
+e) PDV identifikacijski broj tog prodavatelja, ako je dostupan
+
+f) matični broj subjekta.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+Dosadašnji stavak 6., koji postaje stavak 7., mijenja se i glasi:
+
+»(7) Operater platforme koji izvješćuje dostavlja prodavatelju o kojem se izvješćuje najkasnije do 31. siječnja godine koja slijedi nakon kalendarske godine u kojoj se prodavatelja utvrdilo kao prodavatelja o kojem se izvješćuje sljedeće informacije koje se odnose na njega:
+
+1. u odnosu na svakog prodavatelja o kojem se izvješćuje koji je obavljao relevantnu aktivnost, osim iznajmljivanja nekretnina:
+
+a) informacijske stavke iz stavka 4. točke 1. ovoga članka
+
+b) oznaku financijskog računa, u mjeri u kojoj je dostupna operateru platforme koji izvješćuje i pod uvjetom da nadležno tijelo države članice ili druge jurisdikcije čiji je prodavatelj o kojem se izvješćuje rezident nije javno objavilo da ne namjerava koristiti oznaku financijskog računa u tu svrhu
+
+c) ako se razlikuje od imena prodavatelja o kojem se izvješćuje, uz identifikacijsku oznaku financijskog računa, ime imatelja financijskog računa na koji se uplaćuje ili doznačuje naknada, u mjeri u kojoj je dostupno operateru platforme koji izvješćuje te sve druge informacije za financijsku identifikaciju dostupne operateru platforme koji izvješćuje u pogledu tog imatelja računa
+
+d) svaku državu članicu drugu jurisdikciju čiji je prodavatelj o kojem se izvješćuje rezident
+
+e) ukupno plaćenu ili doznačenu naknadu tijekom svakog tromjesečja razdoblja o kojem se izvješćuje i broj relevantnih aktivnosti u vezi s kojima je ta naknada plaćena ili doznačena
+
+f) sve pristojbe, provizije ili poreze koje je operater platforme koji izvješćuje obustavio ili naplatio tijekom svakog tromjesečja razdoblja o kojem se izvješćuje
+
+2. u odnosu na svakog prodavatelja o kojem se izvješćuje koji je obavljao relevantnu aktivnost koja uključuje iznajmljivanje nekretnina:
+
+a) informacijske stavke iz stavka 4. točke 2. ovoga članka
+
+b) oznaku financijskog računa, u mjeri u kojoj je dostupna operateru platforme koji izvješćuje i pod uvjetom da nadležno tijelo države članice ili druge jurisdikcije čiji je prodavatelj o kojem se izvješćuje rezident nije javno objavilo da ne namjerava koristiti oznaku financijskog računa u tu svrhu
+
+c) ako se razlikuje od imena prodavatelja o kojem se izvješćuje, uz identifikacijsku oznaku financijskog računa, ime imatelja financijskog računa na koji se uplaćuje ili doznačuje naknada, u mjeri u kojoj je dostupno operateru platforme koji izvješćuje te sve druge informacije za financijsku identifikaciju dostupne operateru platforme koji izvješćuje u pogledu imatelja računa
+
+d) svaku državu članicu ili drugu jurisdikciju čiji je prodavatelj o kojem se izvješćuje rezident
+
+e) adresu svake oglašene nekretnine i odgovarajuće brojeve katastarskih čestica ili njihov ekvivalent na temelju nacionalnog prava države članice ili druge jurisdikcije u kojoj se nalaze, ako su dostupni
+
+f) ukupno plaćenu ili doznačenu naknadu tijekom svakog tromjesečja razdoblja o kojem se izvješćuje i broj relevantnih aktivnosti pruženih u vezi sa svakom oglašenom nekretninom
+
+g) sve pristojbe, provizije ili poreze koje je operater platforme koji izvješćuje zadržao tijekom svakog tromjesečja razdoblja o kojem se izvješćuje
+
+h) ako je dostupno, broj dana tijekom kojih je bila iznajmljena svaka oglašena nekretnina tijekom razdoblja o kojem se izvješćuje i vrsta svake oglašene nekretnine.«.
+
+Dosadašnji stavci 7. do 10. postaju stavci 8. do 11.
+
+#### Članak 21.
+
+Iza članka 35.t dodaju se Odjeljak 8. s nazivom i člancima 35.u do 35.ad i naslovima iznad njih koji glase:
+
+### »ODJELJAK 8. — AUTOMATSKA RAZMJENA INFORMACIJA O KOJIMA IZVJEŠĆUJU PRUŽATELJI USLUGA POVEZANIH S KRIPTOIMOVINOM
+
+*Informacije o kojima se izvješćuje*
+
+#### Članak 35.u
+
+(1) Automatska razmjena informacija o kojima izvješćuju pružatelji usluga povezanih s kriptoimovinom obuhvaća sljedeće informacije:
+
+1. ime, adresu, državu članicu ili drugu jurisdikciju rezidentnost ili Republiku Hrvatsku ako je država rezidentnosti, osobni identifikacijski broj (OIB), porezni identifikacijski broj ili više njih, datum i mjesto rođenja svakog korisnika o kojem se izvješćuje te, u slučaju bilo kojeg subjekta za koji je nakon primjene postupaka dubinske analize utvrđeno da ima jednu ili više osoba koje imaju kontrolu, a koje su osobe o kojima se izvješćuje, ime, adresu, državu članicu ili drugu jurisdikciju rezidentnosti, osobni identifikacijski broj (OIB), porezni identifikacijski broj subjekta ili više subjekata te ime, adresu, državu članicu ili drugu jurisdikciju rezidentnosti, osobni identifikacijski broj (OIB), porezni identifikacijski broj ili više njih te datum i mjesto rođenja svake osobe koja ima kontrolu nad subjektom koja je osoba o kojoj se izvješćuje, kao i ulogu ili uloge na temelju kojih svaka takva osoba o kojoj se izvješćuje jest osoba koja ima kontrolu nad subjektom
+
+2. ako se pružatelj usluga povezanih s kriptoimovinom koji izvješćuje oslanja na izravnu potvrdu identiteta i rezidentnosti osobe o kojoj se izvješćuje putem usluge identifikacije koju je država članica, druga jurisdikcija ili Europska unija stavila na raspolaganje radi utvrđivanja identiteta i rezidentnosti u porezne svrhe osobe o kojoj se izvješćuje, informacije koje treba dostaviti državi članici ili drugoj jurisdikciji izdavanja oznake usluge identifikacije u pogledu osobe o kojoj se izvješćuje jesu ime, oznaka usluge identifikacije i država članica ili druga jurisdikcija izdavanja, kao i uloga ili više njih na temelju kojih je svaka osoba o kojoj se izvješćuje osoba koja ima kontrolu nad subjektom
+
+3. ime, adresu, osobni identifikacijski broj (OIB), porezni identifikacijski broj i, ako je dostupan, individualni identifikacijski broj i globalnu identifikacijsku oznaku pravnog subjekta pružatelja usluga povezanih s kriptoimovinom koji izvješćuje.
+
+(2) Za svaku vrstu kriptoimovine o kojoj se izvješćuje u skladu sa stavkom 1. ovoga članka, u pogledu koje je pružatelj usluga povezanih s kriptoimovinom koji izvješćuje proveo transakcije o kojima se izvješćuje tijekom relevantne kalendarske godine ili drugog odgovarajućeg izvještajnog razdoblja, priopćuju se sljedeće informacije prema potrebi:
+
+1. puni naziv vrste kriptoimovine o kojoj se izvješćuje
+
+2. ukupan bruto plaćeni iznos, ukupan broj jedinica i broj transakcija o kojima se izvješćuje u pogledu stjecanja u fiducijarnoj valuti
+
+3. ukupan primljeni bruto iznos, ukupan broj jedinica i broj transakcija o kojima se izvješćuje u pogledu prodaje u fiducijarnoj valuti
+
+4. ukupnu fer tržišnu vrijednost, ukupan broj jedinica i broj transakcija o kojima se izvješćuje u pogledu stjecanja druge kriptoimovine o kojoj se izvješćuje
+
+5. ukupnu fer tržišnu vrijednost, ukupan broj jedinica i broj transakcija o kojima se izvješćuje u pogledu prodaje druge kriptoimovine o kojoj se izvješćuje
+
+6. ukupnu fer tržišnu vrijednost, ukupan broj jedinica i broj maloprodajnih platnih transakcija o kojima se izvješćuje
+
+7. ukupnu fer tržišnu vrijednost, ukupan broj jedinica i broj transakcija o kojima se izvješćuje, dalje podijeljene prema vrsti prijenosa, ako je poznata pružatelju usluga povezanih s kriptoimovinom koji izvješćuje, u pogledu prijenosa korisniku o kojem se izvješćuje koji nisu obuhvaćeni točkama 2. i 4. ovoga stavka
+
+8. ukupnu fer tržišnu vrijednost, ukupan broj jedinica i broj transakcija o kojima se izvješćuje, dalje podijeljene prema vrsti prijenosa, ako je poznata pružatelju usluga povezanih s kriptoimovinom koji izvješćuje, u pogledu prijenosa korisnika o kojem se izvješćuje koji nisu obuhvaćeni točkama 3., 5. i 6. ovoga stavka i
+
+9. ukupnu fer tržišnu vrijednost i ukupan broj jedinica prijenosa koje je proveo pružatelj usluga povezanih s kriptoimovinom koji izvješćuje na adrese distribuiranog zapisa u skladu s propisima kojima se uređuju tržišta kriptoimovine za koje nije poznato da su povezane s pružateljem usluga povezanih s virtualnom imovinom ili financijskom institucijom.
+
+(3) Informacije iz stavka 2. točaka 2. i 3. ovoga članka priopćuju se u fiducijarnoj valuti u kojoj je iznos plaćen ili primljen, a iznosi plaćeni ili primljeni u više fiducijarnih valuta priopćuju se u jedinstvenoj fiducijarnoj valuti u koju se preračunavaju u trenutku svake transakcije o kojoj se izvješćuje na način koji pružatelj usluga povezanih s kriptoimovinom koji izvješćuje dosljedno primjenjuje.
+
+(4) Fer tržišna vrijednost iz stavka 2. točaka 4. do 9. ovoga članka utvrđuje se i priopćuje u jedinstvenoj fiducijarnoj valuti, a vrednuje se u trenutku svake transakcije o kojoj se izvješćuje na način koji pružatelj usluga povezanih s kriptoimovinom koji izvješćuje dosljedno primjenjuje.
+
+(5) U dostavljenim informacijama iz stavka 2. ovoga članka navodi se fiducijarna valuta u kojoj se iskazuje svaki iznos.
+
+#### Članak 35.v
+
+(1) Točne i potpune informacije iz članka 35.u stavaka 1. i 2. ovoga Zakona pružatelj usluga povezanih s kriptoimovinom koji izvješćuje obvezan je prikupljati u skladu s pravilima izvješćivanja i dubinske analize te ih dostaviti Ministarstvu financija, Poreznoj upravi do 30. lipnja tekuće godine za prethodnu kalendarsku godinu.
+
+(2) Pružatelj usluga povezanih s kriptoimovinom koji izvješćuje obvezan je prikupiti valjanu izjavu o rezidentnosti pojedinačnog korisnika kriptoimovine ili osobe koja ima kontrolu.
+
+(3) Pružatelj usluga povezanih s kriptoimovinom koji izvješćuje obvezan je evidentirati poduzete radnje i informacije na koje se oslanjao pri ispunjavanju obveza izvješćivanja i provedbe postupaka dubinske analize.
+
+(4) Pružatelj usluga povezanih s kriptoimovinom koji izvješćuje obvezan je evidencije iz stavka 1. ovoga članka čuvati najmanje pet godina, a najviše deset godina nakon isteka razdoblja unutar kojeg je pružatelj usluga povezanih s kriptoimovinom koji izvješćuje dužan prijaviti informacije u skladu s člankom 35.u ovoga Zakona.
+
+(5) Ministar financija pravilnikom iz članka 29. stavka 6. ovoga Zakona propisuje pojmove, pravila prikupljanja informacija, pravila izvješćivanja i dubinske analize potrebne za provedbe automatske razmjene informacija o kojima izvješćuju pružatelji usluga povezanih s kriptoimovinom.
+
+#### Članak 35.z
+
+(1) Ministarstvo financija, Porezna uprava automatskom razmjenom informacija dostavlja informacije iz članka 35. stavaka 1. i 2. ovoga Zakona nadležnim tijelima država članica i drugih jurisdikcija najkasnije do 30. rujna tekuće godine za prethodnu kalendarsku godinu.
+
+(2) Automatska razmjena informacija iz članka 35.v ovoga Zakona i stavka 1. ovoga članka odvija se elektroničkim putem u propisanom formatu objavljenom na mrežnim stranicama Ministarstva financija, Porezne uprave.
+
+#### Članak 35.aa
+
+(1) Pružatelj usluga povezanih s kriptoimovinom koji izvješćuje je u skladu s pravilima izvješćivanja i dubinskom analizom obvezan dostaviti informacije o korisnicima kriptoimovine o kojima se izvješćuje, Ministarstvu financija, Poreznoj upravi ako:
+
+1. je subjekt kojeg je Agencija ovlastila za ili mu je omogućeno pružanje usluga povezanih s kriptoimovinom u skladu s propisom kojim se uređuje provedba Uredbe (EU) 2023/1114 i u skladu s člankom 63. Uredbe (EU) 2023/1114, a nakon obavijesti Agenciji u skladu s propisom kojim se uređuje provedba Uredbe (EU) 2023/1114 i u skladu s člankom 60. Uredbe (EU) 2023/1114 ili
+
+2. nije subjekt kojeg je Agencija ovlastila za ili mu je omogućeno pružanje usluga povezanih s kriptoimovinom u skladu s propisom kojim se uređuje provedba Uredbe (EU) 2023/1114 i u skladu s člankom 63. Uredbe (EU) 2023/1114, a nakon obavijesti Agenciji u skladu s propisom kojim se uređuje provedba Uredbe (EU) 2023/1114 i u skladu s člankom 60. Uredbe (EU) 2023/1114, a ispunjava sljedeće kriterije:
+
+a) subjekt ili fizička osoba je rezident u porezne svrhe u Republici Hrvatskoj
+
+b) subjekt je osnovan ili organiziran u skladu sa zakonima Republike Hrvatske i ima pravnu osobnost u Republici Hrvatskoj ili ima obvezu podnositi porezne prijave ili ostale relevantne informacije poreznim tijelima u Republici Hrvatskoj koje se odnose na porez na dobit subjekta
+
+c) subjektu je mjesto upravljanja u Republici Hrvatskoj ili
+
+d) subjektu ili fizičkoj osobi je redovito mjesto poslovanja u Republici Hrvatskoj.
+
+(2) Pružatelj usluga povezanih s kriptoimovinom koji izvješćuje, u skladu s pravilima izvješćivanja i dubinskom analizom, podnosi informacije o transakcijama o kojima se izvješćuje i koje su provedene preko podružnice koja se nalazi u Republici Hrvatskoj, Ministarstvu financija, Poreznoj upravi.
+
+(3) Iznimno od članka 35.u ovoga Zakona, pružatelj usluga povezanih s kriptoimovinom koji izvješćuje iz stavka 1. točke 2. podtočke b), c) ili d) ovoga članka nije obvezan podnijeti informacije Ministarstvu financija, Poreznoj upravi ako je iste informacije podnio u drugoj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije jer je rezident u porezne svrhe u toj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije.
+
+(4) Iznimno od članka 35.u ovoga Zakona, pružatelj usluga povezanih s kriptoimovinom koji izvješćuje iz stavka 1. točke 2. podtočke c) ili d) ovoga članka nije obvezan podnijeti informacije Ministarstvu financija, Poreznoj upravi ako je iste informacije podnio u bilo kojoj drugoj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije jer je subjekt koji je osnovan ili organiziran prema zakonima te države članice ili kvalificirane jurisdikcije izvan Europske unije, ima pravnu osobnost u drugoj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije ili ima obvezu podnositi porezne prijave ili ostale relevantne informacije koje se odnose na njegovu porez na dobit poreznim tijelima u drugoj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije.
+
+(5) Iznimno od članka 35.u ovoga Zakona, pružatelj usluga povezanih s kriptoimovinom koji izvješćuje iz stavka 1. točke 2. podtočke d) ovoga članka nije obvezan podnijeti informacije Ministarstvu financija, Poreznoj upravi ako je iste informacije podnio u bilo kojoj drugoj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije jer mu je mjesto upravljanja u toj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije.
+
+(6) Iznimno od članka 35.u ovoga Zakona, pružatelj usluga povezanih s kriptoimovinom koji izvješćuje koji je fizička osoba iz stavka 1. točke 2. podtočke d) ovoga članka nije obvezan podnijeti informacije Ministarstvu financija, Poreznoj upravi ako je iste informacije podnio u bilo kojoj drugoj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije jer je rezident u porezne svrhe u toj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije.
+
+(7) Iznimno od članka 35.u ovoga Zakona, pružatelj usluga povezanih s kriptoimovinom koji izvješćuje iz stavka 1. točke 2. podtočke a), b), c) ili d) ovoga članka nije obvezan podnijeti informacije Ministarstvu financija, Poreznoj upravi ako je Ministarstvu financija, Poreznoj upravi podnio dokaz kojim se potvrđuje da je iste informacije podnio u drugoj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije.
+
+(8) Iznimno od članka 35.u ovoga Zakona, pružatelj usluga povezanih s kriptoimovinom koji izvješćuje nije obvezan podnijeti informacije Ministarstvu financija, Poreznoj upravi o transakcijama o kojima se izvješćuje, a koje provodi preko podružnice u bilo kojoj drugoj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije ako ta podružnica takve zahtjeve ispunjava u bilo kojoj drugoj takvoj državi članici ili kvalificiranoj jurisdikciji izvan Europske unije.
+
+*Obveze korisnika imovine*
+
+#### Članak 35.ab
+
+Ako korisnik kriptoimovine ne dostavi informacije u skladu s člancima 35.u i 35.v ovoga Zakona nakon dva podsjetnika kojima je prethodio početni zahtjev pružatelja usluga povezanih s kriptoimovinom koji izvješćuje, ali ne prije isteka roka od 60 dana, pružatelj usluga povezanih s kriptoimovinom koji izvješćuje spriječit će tog korisnika kriptoimovine u obavljanju transakcija o kojima se izvješćuje.
+
+*Obveza registracije subjekta koji je povezan s kriptoimovinom*
+
+#### Članak 35.ac
+
+(1) Subjekt povezan s kriptoimovinom koji je pružatelj usluga povezanih s kriptoimovinom koji izvješćuje obvezan je registrirati se kod Ministarstva financija, Porezne uprave prije isteka razdoblja u kojem je bio obvezan dostaviti informacije iz članka 35.u ovoga Zakona.
+
+(2) Ako subjekt povezan s kriptoimovinom ispunjava uvjete iz članka 35.aa stavka 1. točke 2. podtočaka a), b), c) i d) ovoga Zakona ili članka 35.aa stavka 2. ovoga Zakona u više država članica, ima obvezu registracije kod nadležnog tijela jedne od tih država članica prije isteka razdoblja u kojem je bio obvezan dostaviti informacije iz članka 35.u ovoga Zakona.
+
+(3) Ako je subjekt povezan s kriptoimovinom koji je pružatelj usluga povezanih s kriptoimovinom koji izvješćuje ispunio obvezu registracije u nekoj od država članica, izuzima se od obveze registracije u Republici Hrvatskoj te od ispunjavanja obveza izvješćivanja o korisnicima kriptoimovine u skladu s pravilima izvješćivanja i dubinske analize.
+
+(4) Subjekt povezan s kriptoimovinom koji se registrirao u Ministarstvu financija, Poreznoj upravi nakon registracije u skladu sa stavcima 1., 2. i 3. ovoga članka obvezan je Ministarstvu financija, Poreznoj upravi dostaviti sljedeće informacije:
+
+1. ime
+
+2. poštansku adresu
+
+3. elektroničke adrese, uključujući web-mjesta
+
+4. svaki porezni identifikacijski broj izdan subjektu povezanom s kriptoimovinom
+
+5. države članice ili druge jurisdikcije u kojima su korisnici o kojima se izvješćuje rezidenti u skladu s postupcima dubinske analize
+
+6. sve kvalificirane jurisdikcije izvan Europske unije.
+
+(5) Subjekt povezan s kriptoimovinom obavješćuje Ministarstvo financija, Poreznu upravu o svim promjenama u odnosu na dostavljene informacije iz stavka 4. ovoga članka.
+
+(6) Ministarstvo financija, Porezna uprava dodjeljuje individualni identifikacijski broj subjektu iz stavka 4. ovoga članka o kojem elektroničkim putem obavješćuje nadležna tijela svih država članica.
+
+(7) Ministarstvo financija, Porezna uprava može izbrisati subjekt povezan s kriptoimovinom iz registra subjekata povezanih s kriptoimovinom u sljedećim slučajevima:
+
+1. subjekt povezan s kriptoimovinom dostavio je obavijest Ministarstvu financija, Poreznoj upravi da u Europskoj uniji više nema korisnike o kojima se izvješćuje
+
+2. ako nije dostavljena obavijest na temelju točke 1. ovoga stavka, to opravdava pretpostavku da je subjekt povezan s kriptoimovinom prestao obavljati svoju aktivnost
+
+3. subjekt više nije subjekt povezan s kriptoimovinom
+
+4. Ministarstvo financija, Porezna uprava opozvala je registraciju subjekta koji je povezan s kriptoimovinom.
+
+(8) Ministarstvo financija, Porezna uprava dostavlja obavijest Komisiji o svakom subjektu povezanom s kriptoimovinom koji ima korisnike o kojima se izvješćuje koji su rezidenti Europske unije iako se nije registrirao u Ministarstvu financija, Poreznoj upravi.
+
+(9) Ako subjekt povezan s kriptoimovinom nakon dva podsjetnika koje je uputilo Ministarstvo financija, Porezna uprava ne ispuni obvezu izvješćivanja iz članka 35.u ovoga Zakona, Ministarstvo financija, Porezna uprava povlači registraciju subjekta povezanog s kriptoimovinom.
+
+(10) Registracija se opoziva najkasnije nakon isteka 90 dana, ali ne prije isteka 30 dana nakon drugog podsjetnika.
+
+(11) Subjekt povezan s kriptoimovinom kojem je registracija povučena u skladu sa stavkom 9. ovoga članka može se ponovo registrirati u Republici Hrvatskoj samo ako Ministarstvu financija, Poreznoj upravi pruži odgovarajuće jamstvo u pogledu svoje obveze izvješćivanja u Europskoj uniji, uključujući sve prethodno neispunjene zahtjeve za izvješćivanjem.
+
+(12) Ministar financija pravilnikom iz članka 29. stavka 6. ovoga Zakona propisuje pravila za jedinstvenu registraciju subjekta koji je povezan s kriptoimovinom.
+
+#### Članak 35.ad
+
+Agencija u skladu s propisom kojim se uređuje provedba Uredbe (EU) 2023/1114 najkasnije do 31. prosinca kalendarske godine u kojoj je izdano odobrenje za rad Ministarstvu financija, Poreznoj upravi dostavlja popis svih pružatelja usluga povezanih s kriptoimovinom kojima je izdano odobrenje za rad.«.
+
+#### Članak 22.
+
+Iza članka 35.ad dodaje se Odjeljak 9. s nazivom i člancima 35.ae do 35.ah i naslovima iznad njih koji glase:
+
+### »ODJELJAK 9. — RAZMJENA INFORMACIJA O PRIJAVAMA S INFORMACIJAMA O DOPUNSKOM POREZU I FORMAT PRIJAVE
+
+#### Članak 35.ae
+
+(1) Automatska razmjena informacija o prijavama s informacijama o dopunskom porezu obuhvaća sljedeće informacije:
+
+1. informacije o skupini multinacionalnih poduzeća:
+
+a) informacije koje se odnose na identifikaciju sastavnog subjekta, odnosno krajnje matično društvo ili imenovani sastavni subjekt koji podnosi prijavu, koje obuhvaćaju ime sastavnog subjekta koji podnosi prijavu, porezni identifikacijski broj, uloga u odnosu na pravila, jurisdikcija u kojoj se nalazi sastavni subjekt koji podnosi prijavu, jurisdikcija primateljica za razmjenu informacija
+
+b) opće informacije o skupini multinacionalnih poduzeća, odnosno naziv skupine multinacionalnih poduzeća, datum početka i završetka izvještajne fiskalne godine, izmijenjena prijava, konsolidirani financijski izvještaj krajnjeg matičnog društva (vrsta), standard financijskog računovodstva koji se primjenjuje za konsolidirane financijske izvještaje krajnjeg matičnog društva, valuta prezentiranja koja se upotrebljava za konsolidirane financijske izvještaje krajnjeg matičnog društva, odnosno oznaka ISO
+
+c) informacije o korporativnoj strukturi koje obuhvaćaju jurisdikciju krajnjeg matičnog društva, primjenjiva pravila, ime, porezni identifikacijski broj krajnjeg matičnog društva, porezni identifikacijski broj krajnjeg matičnog društva u jurisdikciji u kojoj se podnosi prijava, ako je različit i ako postoji, status za potrebe pravila, a ako je krajnje matično društvo isključeni subjekt, navodi se vrsta, jurisdikcija u kojoj se smatra da matično društvo dvostruke rezidentnosti podliježe kvalificiranom pravilu o uključivanju dobiti, u slučaju da se to matično društvo nalazi u drugoj jurisdikciji u kojoj ne podliježe kvalificiranom pravilu o uključivanju dobiti; identifikacija sastavnog subjekta, zajedničkog pothvata ili povezanog subjekta zajedničkog pothvata, što uključuje ime, porezni identifikacijski broj, porezni identifikacijski broj za jurisdikciju koja podnosi prijavu ako postoji, status za potrebe pravila, promjene u odnosu na prethodnu izvještajnu fiskalnu godinu, jurisdikciju, vlasničku strukturu sastavnog subjekta, zajedničkog pothvata ili povezanog subjekta zajedničkog pothvata, ako je sastavni subjekt matično društvo u djelomičnom vlasništvu ili posredničko matično društvo, je li subjekt obvezan primjenjivati kvalificirano pravilo o uključivanju dobiti, primjenjuje li se na subjekt pravilo o prenisko oporezivanoj dobiti; ime i vrsta isključenog subjekta, promjene u odnosu na prethodnu izvještajnu godinu, promjene korporativne strukture do kojih je došlo tijekom izvještajne fiskalne godine
+
+d) sažetak informacija na visokoj razini: ime jurisdikcije, vrsta podskupine, identifikacija podskupine, imena jurisdikcija s pravom oporezivanja, primjenjuje li se sigurna luka ili isključenje, raspon efektivne porezne stope, je li primjena sadržajnog isključivanja dobiti dovela do toga da ne nastaje dopunski porez, dopunski porez koji treba platiti odnosno kvalificirani domaći dopunski porez – raspon, dopunski porez koji treba platiti odnosno kvalificirano pravilo o uključivanju dobiti/kvalificirano pravilo o prenisko oporezivanoj dobiti – raspon
+
+2. sigurne luke u smislu međunarodnog oporezivanja i iznimke primjenjive u određenoj jurisdikciji koje uključuju sljedeće: ime jurisdikcije, vrstu podskupine, identifikaciju podskupine ako postoji, jurisdikciju s pravom oporezivanja, postojanje razlika o kojima se izvješćuje, iznimke u jurisdikciji primjenjive na tu jurisdikciju – dopunski porez sveden na nulu, odluku o jurisdikciji sigurne luke, odluku o sigurnoj luci – odabrana sigurna luka, stalne sigurne luke – pojednostavljeni izračun za sastavne subjekte koji nisu značajni: ukupni prihodi tih subjekata i ukupni pojednostavljeni porez, prijelazne sigurne luke: a) prijelazne sigurne luke za izvješća po državama, što obuhvaća ukupan prihod, dobit (gubitak) prije poreza na dobit, pojednostavljene obuhvaćene poreze, b) prijelazne sigurne luke u kojima se primjenjuje pravilo o prenisko oporezivanoj dobiti, što obuhvaća stopu poreza na dobit, odluku o de minimis isključenju: a) odluka o primjeni de minimis isključenja za izvještajnu fiskalnu godinu, b) pojednostavljeni izračun za sastavne subjekte koji nisu značajni, a koji obuhvaća prihode, kvalificirajuće prihode, neto računovodstvenu dobit ili gubitak, kvalificirajući dobit ili gubitak po posebno definiranim fiskalnim godinama u prijavi, skupinu multinacionalnih poduzeća u početnoj fazi međunarodne aktivnosti, ako je primjenjivo
+
+3. elemente za izračune:
+
+a) obilježja jurisdikcije koja obuhvaćaju: ime jurisdikcije, vrstu podskupine ako postoji, identifikaciju podskupine, jurisdikciju s pravom oporezivanja, efektivnu poreznu stopu, prilagođene obuhvaćene poreze, neto kvalificirajuću dobit ili gubitak, sadržajno isključivanje dobiti, dodatni važeći dopunski porez, iznos dopunskog poreza prema domaćem zakonodavstvu, odluke, agregirane tekuće porezne rashode u odnosu na obuhvaćene poreze nakon dodjela obuhvaćenih poreza koji su nastali za određene vrste sastavnih subjekata, kvalificirane povrative porezne kredite ili utržive prenosive porezne kredite odnosno porezne rashode, ostale porezne kredite odnosno porezne rashode, iznos odgođenih poreznih rashoda, kvalificirane povrative porezne kredite ili utržive prenosive porezne kredite, višak negativnih poreznih rashoda, prijelazna pravila
+
+b) izračun efektivne porezne stope koji uključuje neto kvalificirajuću dobit ili gubitak i prilagođene obuhvaćene poreze te se efektivna porezna stopa obračunava po sljedećoj formuli: efektivna porezna stopa = prilagođeni obuhvaćeni porezi sastavnih subjekata u jurisdikciji / neto kvalificirajuća dobit ili gubitak sastavnih subjekata u jurisdikciji. Izračun kvalificirajuće dobiti ili gubitka obuhvaća ukupan iznos prilagođenih obuhvaćenih poreza, višak negativnih poreznih rashoda, izračun prijelaznog mješovitog režima oporezivanja kontroliranog inozemnog društva, ako postoji. Izračuni u pogledu jurisdikcije povezani s odgođenim poreznim računovodstvom; Odgođene porezne prilagodbe; sažetak na visokoj razini; raščlamba prilagodbi; prijenosi gubitaka; Mehanizam ponovnog obračuna prilagodbi; Prijelazna pravila; Odluke o jurisdikcijama: a) odluke, b) zahtjevi za informacije u vezi s odlukama o jurisdikciji; Odluka o pretpostavljenom porezu na raspodjelu; Izračuni sastavnog subjekta: a) odluka o primjeni prijelaznog pojednostavljenog okvira za izvješćivanje o jurisdikcijama, b) agregirano izvješćivanje za skupine s konsolidiranim porezom; Kvalificirajuća dobit ili gubitak: a) prilagodbe neto računovodstvene dobiti ili gubitka, b) prekogranična dodjela dobiti ili gubitka između glavnog subjekta i stalne poslovne jedinice te provodnog subjekta, c) prekogranične prilagodbe, d) prilagodbe kvalificirajuće dobiti krajnjeg matičnog društva koje je provodni subjekt ili podliježe režimu odbitka dividende; Prilagođeni obuhvaćeni porezi; Odluke o sastavnom subjektu ili odluke koje se primjenjuju na skupinu zajedničkih pothvata; Isključivanje dobiti od međunarodnog pomorskog prijevoza; Informacije za potrebe odluke o primjeni metode oporezive raspodjele; Ostali računovodstveni standardi
+
+c) izračun dopunskog poreza koji obuhvaća Postotak dopunskog poreza 15% – efektivna porezna stopa (a); sadržajno isključivanje dobiti (b); višak dobiti – neto kvalificirajuća dobit (c), daljnji dopunski porez (d), dospjeli domaći dopunski porez (e), dopunski porez = (a) x (c) + (d) - (e) Ukupni iznos sadržajnog isključivanja dobiti: izuzeće za plaće, izuzeće za materijalnu imovinu; Raspodjela prihvatljivih troškova plaća i knjigovodstvene vrijednosti prihvatljive materijalne imovine stalnim poslovnim jedinicama za potrebe sadržajnog isključivanja dobiti; Raspodjela prihvatljivih troškova plaća i knjigovodstvene vrijednosti prihvatljive materijalne imovine provodnog subjekta za potrebe sadržajnog isključivanja dobiti; Dodatni važeći dopunski porez; Dodatni dopunski porez osim u slučaju neto kvalificirajućeg gubitka u izvještajnoj fiskalnoj godini; Dodatni dopunski porez u slučaju neto kvalificirajućeg gubitka u izvještajnoj fiskalnoj godini; Kvalificirani domaći dopunski porez; Dodjela i raspodjela dopunskog poreza, ako postoji, Primjena pravila o uključivanju dobiti u odnosu na tu jurisdikciju, Ukupni iznos dopunskog poreza na temelju pravila o prenisko oporezovanoj dobiti za tu jurisdikciju, Pripisivanje dopunskog poreza na temelju pravila o prenisko oporezivanoj dobiti.
+
+(2) Informacije iz stavka 1. ovoga članka sastavni su dio standardnog predloška koji sadrži relevantne dijelove koje trebaju zaprimiti relevantne države članice i/ili druge jurisdikcije u skladu s odredbama ovoga Zakona.
+
+#### Članak 35.af
+
+(1) Sastavni subjekti koji su članovi skupine multinacionalnih poduzeća ili velike domaće skupine, čiji godišnji prihod u konsolidiranim financijskim izvještajima krajnjeg matičnog društva u najmanje dvije od četiri fiskalne godine koje neposredno prethode oglednoj fiskalnoj godini iznose 750 milijuna eura ili više, uključujući prihod isključenih subjekata, obvezni su Ministarstvu financija, Poreznoj upravi dostaviti Prijavu s informacijama o dopunskom porezu upotrebom standardnog predloška u skladu s člancima 35.ae i 35.ag ovoga Zakona, kao i propisom kojim se uređuje minimalni globalni porez.
+
+(2) Rok za podnošenje prijave iz stavka 1. ovoga članka je petnaest mjeseci nakon isteka fiskalne godine za koju se prijava podnosi.
+
+(3) Za prvu fiskalnu godinu rok za podnošenje prijave iz stavka 1. ovoga članka je osamnaest mjeseci nakon isteka prvog fiskalnog razdoblja.
+
+(4) Sastavni subjekti skupine multinacionalnih poduzeća u Republici Hrvatskoj obvezni su Ministarstvu financija, Poreznoj upravi podnijeti Prijavu s informacijama o dopunskom porezu (»lokalno podnošenje prijave«) u skladu s propisom kojim se uređuje minimalni globalni porez, osim ako je Prijavu o informacijama o dopunskom porezu podnijelo krajnje matično društvo ili subjekt imenovan za podnošenje prijave koji se nalazi u jurisdikciji koja, za izvještajnu fiskalnu godinu, s Republikom Hrvatskom ima važeći sporazum između kvalificiranih nadležnih tijela (»centralizirano podnošenje prijave«) u skladu s propisanim rokovima.
+
+(5) Ako krajnje matično društvo ili subjekt imenovan za podnošenje prijave skupine multinacionalnih poduzeća nije centralizirano podnio Prijavu s informacijama o dopunskom porezu, a informacije se ne dostave do propisanih rokova, Ministarstvo financija, Porezna uprava zatražit će lokalno podnošenje Prijave s informacijama o dopunskom porezu jer nisu ispunjeni uvjeti za centralizirano podnošenje prijave.
+
+(6) Sastavni subjekti skupine multinacionalnih poduzeća u Republici Hrvatskoj obvezni su Ministarstvu financija, Poreznoj upravi za svaku izvještajnu godinu dostaviti obavijest o identitetu subjekta koji Podnosi prijavu s informacijama o dopunskom porezu i jurisdikciji u kojoj se nalazi u skladu s propisima kojima se uređuje minimalni globalni porez u roku od trideset dana prije isteka roka za podnošenje Prijave s informacijama o dopunskom porezu.
+
+(7) Posebni dijelovi (tzv. »odjeljci o jurisdikciji«) iz Prijave s informacijama o dopunskom porezu iz članka 35.ag stavka 1. ovoga Zakona sadržavaju informacije o detaljnoj primjeni kvalificiranog pravila o uključivanju dobiti, kvalificiranog pravila o prenisko oporezivanoj dobiti i kvalificiranog domaćeg dopunskog poreza za svaku jurisdikciju u kojoj posluje skupina multinacionalnih poduzeća.
+
+(8) Sastavni subjekt koji podnosi Prijavu s informacijama o dopunskom porezu obvezan je utvrditi relevantne odjeljke i relevantne države članice i/ili druge jurisdikcije kojima se te informacije dostavljaju u skladu s pristupom širenja propisanim člankom 35.ag stavcima 1. i 2. ovoga Zakona.
+
+(9) Matično društvo velike domaće skupine koje ima izravan ili neizravan vlasnički udio u zajedničkom pothvatu ili povezanom subjektu zajedničkog pothvata, a koji podliježu kvalificiranom domaćem dopunskom porezu u državi članici ili drugoj jurisdikciji koja nije država članica ili druga jurisdikcija u kojoj se nalazi velika domaća skupina, takva domaća skupina upotrebljava standardni predložak za prijavu s informacijama o dopunskom porezu u skladu s člankom 35.ae stavkom 2. ovoga Zakona.
+
+(10) Automatska razmjena informacija iz članka 35.ae ovoga Zakona odvija se elektroničkim putem u propisanom formatu objavljenom na mrežnim stranicama Ministarstva financija, Porezne uprave.
+
+(11) Ministar financija pravilnikom iz članka 29. stavka 6. ovoga Zakona propisuje sadržaj, oblik, pojmove i pravila za ispunjavanje prijava s informacijama o dopunskom porezu.
+
+#### Članak 35.ag
+
+(1) Ministarstvo financija, Porezna uprava Prijavu s informacijama o dopunskom porezu koja sadrži informacije iz članka 35.ae ovoga Zakona, a koju je podnijelo krajnje matično društvo ili subjekt imenovan za podnošenje prijave, automatskom razmjenom dostavlja nadležnim tijelima drugih država članica i drugih jurisdikcija u skladu sa sljedećim pristupom širenja:
+
+1. opći odjeljak prijave s informacijama o dopunskom porezu, i to provedbenoj državi članici ili drugoj jurisdikciji u kojoj se nalazi krajnje matično društvo ili sastavni subjekti skupine multinacionalnih poduzeća
+
+2. opći odjeljak prijave s informacijama o dopunskom porezu, uz iznimku sažetka informacija na visokoj razini iz njezina odjeljka 1.4., državama članicama i drugim jurisdikcijama koje primjenjuju samo kvalificirani domaći dopunski porez
+
+a) u kojima se nalaze sastavni subjekti skupine multinacionalnih poduzeća
+
+b) u kojima se nalazi zajednički pothvat ili član skupine zajedničkih pothvata skupine multinacionalnih poduzeća ako je uveden kvalificirani domaći dopunski porez u odnosu na zajedničke pothvate u državi članici i/ili drugoj jurisdikciji
+
+c) u kojima je kvalificirani domaći dopunski porez uveden u državi članici i/ili drugoj jurisdikciji u odnosu na sastavni subjekt bez državne pripadnosti ili zajednički pothvat bez državne pripadnosti skupine multinacionalnih poduzeća
+
+3. jedan ili više odjeljaka »Jurisdikcija« Prijave s informacijama o dopunskom porezu, i to državama članicama i drugim jurisdikcijama koje imaju prava oporezivanja na temelju pravila posebnih propisa kojima se uređuje to područje, uključujući kvalificirani domaći dopunski porez, u odnosu na države članice i druge jurisdikcije na koje se ti odjeljci o jurisdikciji odnose.
+
+(2) Ministarstvo financija, Porezna uprava nakon zaprimanja Prijave s informacijama o dopunskom porezu u okviru centraliziranog podnošenja prijave u skladu s posebnim propisima od krajnjeg matičnog društva ili subjekta imenovanog za podnošenje prijave skupine multinacionalnih poduzeća obvezno je dostaviti drugim provedbenim državama članicama i drugim jurisdikcijama ili državama članicama i drugim jurisdikcijama koje primjenjuju samo kvalificirani domaći dopunski porez relevantne posebne dijelove Prijave s informacijama o dopunskom porezu u skladu s pristupom širenja iz stavka 1. ovoga članka.
+
+(3) Automatska razmjena informacija iz stavaka 1. i 2. ovoga članka odvija se u roku od tri mjeseca nakon roka za podnošenje Prijave s informacijama o dopunskom porezu za tu izvještajnu fiskalnu godinu.
+
+(4) Automatska razmjena informacija iz stavaka 1. i 2. ovoga članka koja je zaprimljena nakon propisanog roka u skladu s člankom 35.ah ovoga Zakona odvija se najkasnije u roku od tri mjeseca nakon datuma primitka Prijave s informacijama o dopunskom porezu za tu izvještajnu fiskalnu godinu.
+
+(5) Državama članicama i drugim jurisdikcijama koje primjenjuju pravilo o prenisko oporezivanoj dobiti s postotkom na temelju pravila o prenisko oporezivanoj dobiti koji je jednak nuli dostavlja se samo dio Prijave s informacijama o dopunskom porezu koji sadržava informacije o pripisivanju dopunskog poreza na temelju pravila o prenisko oporezivanoj dobiti za tu državu članicu i drugu jurisdikciju, a provedbenoj državi članici i drugoj jurisdikciji u kojoj se nalazi krajnje matično društvo dostavljaju se svi odjeljci Prijave s informacijama o dopunskom porezu u skladu s člankom 35.ae ovoga Zakona odnosno u skladu s propisanim standardiziranim obrascem.
+
+*Suradnja u području ispravaka, usklađenosti i izvršenja u pogledu prijava s informacijama o dopunskom porezu*
+
+#### Članak 35.ah
+
+Ministarstvo financija, Porezna uprava obavješćuje nadležno tijelo države članice i drugih jurisdikcija kada je potrebno ispraviti, uskladiti i dostaviti informacije u Prijavi s informacijama o dopunskom porezu, i to u sljedećim slučajevima:
+
+1. ako Ministarstvo financija, Porezna uprava utvrdi da je za informacije iz Prijave s informacijama o dopunskom porezu, koju je podnijelo krajnje matično društvo ili subjekt imenovan za podnošenje prijave koji se nalazi drugoj državi članici ili drugoj jurisdikciji, potreban ispravak očitih pogrešaka, ono o tome žurno obavješćuje nadležno tijelo druge države članice ili druge jurisdikcije. Obaviješteno nadležno tijelo žurno poduzima određene mjere kako bi zaprimilo ispravljenu prijavu s informacijama o dopunskom porezu od dotičnog krajnjeg matičnog društva ili subjekta imenovanog za podnošenje prijave te ispravljenu prijavu s informacijama o dopunskom porezu dostavlja Ministarstvu financija, Poreznoj upravi, kao i svim nadležnim tijelima s kojima se takve informacije trebaju razmjenjivati u skladu s posebnim propisima
+
+2. ako Ministarstvo financija, Porezna uprava primi obavijest od jednog ili više sastavnih subjekata koji se nalaze u njegovoj državi članici i/ili drugoj jurisdikciji da je krajnje matično društvo ili subjekt imenovan za podnošenje prijave koji se nalazi u drugoj državi članici ili drugoj jurisdikciji trebao podnijeti Prijavu s informacijama o dopunskom porezu za takve sastavne subjekte, ali informacije uključene u Prijavu s informacijama o dopunskom porezu nisu dostavljene u rokovima utvrđenima u članku 35.ag ovoga Zakona, ono žurno obavješćuje drugo nadležno tijelo da informacije nisu primljene. Obaviješteno nadležno tijelo žurno utvrđuje razlog za izostanak dostave dotične prijave s informacijama o dopunskom porezu i o tome obavješćuje Ministarstvo financija, Poreznu upravu u roku od mjesec dana od primitka obavijesti, uključujući očekivani datum razmjene za prijavu s informacijama o dopunskom porezu, ako je to relevantno. Očekivani datum razmjene utvrđuje se na određeni dan, a koji je najkasnije tri mjeseca od datuma primitka obavijesti o razmjeni koja nije provedena
+
+3. ako Ministarstvo financija, Porezna uprava primi obavijesti od drugog nadležnog tijela iz razloga navedenih u točkama 1. i 2. ovoga stavka, postupit će na način i u rokovima u skladu s točkama 1. i 2. ovoga članka.«.
+
+#### Članak 23.
+
+Članak 66. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 260,00 do 26.540,00 eura kaznit će se za prekršaj:
+
+1. pravna osoba ako ne prikuplja propisane informacije, ne provodi dubinsku analizu, ne utvrđuje račune o kojima se izvješćuje i ne izvješćuje o njima, ili ne izvješćuje u roku Ministarstvo financija, Poreznu upravu (članak 27. stavci 1. do 4.)
+
+2. pravna osoba ako ne podnese točno popunjeno propisano izvješće, ako ne podnese potpuno propisano izvješće, ako ne podnese propisanu obavijest i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35. stavci 1. do 3.)
+
+3. pravna osoba ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.f stavak 1.)
+
+4. pravna osoba ako ne podnese potpuno propisano periodično izvješće s ažuriranim informacijama o kojima se izvješćuje i ako u roku ne podnose propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.f stavak 3.)
+
+5. pravna osoba ako se pozove na profesionalnu tajnu, a ne obavijesti u roku od tri dana pisanim putem svojeg klijenta, ako je taj klijent posrednik ili ako takvog posrednika nema, ako je taj klijent relevantni porezni obveznik, o obvezi izvješćivanja tog klijenta (članak 35.h stavak 2.)
+
+6. pravna osoba ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.i stavak 2.)
+
+7. pravna osoba ako u roku ne podnese propisano izvješće o informacijama o upotrebi prekograničnih aranžmana o kojima se izvješćuje Ministarstvu financija, Poreznoj upravi (članak 35.j stavci 5. i 6.)
+
+8. pravna osoba ako ne prikuplja propisane informacije u skladu s pravilima izvješćivanja i dubinske analize, ako ne podnese točno popunjeno propisano izvješće, ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.m stavak 1.)
+
+9. pravna osoba ako ne prikuplja propisane informacije u skladu s pravilima izvješćivanja i dubinske analize, ako ne podnese točno popunjeno propisano izvješće, ako ne podnese potpuno propisano izvješće i ako u roku ne podnese propisano izvješće Ministarstvu financija, Poreznoj upravi (članak 35.v stavci 1. do 4.)
+
+10. pravna osoba ako ne podnese točno popunjenu prijavu s informacijama o dopunskom porezu, ako ne podnese potpuno propisanu prijavu s informacijama o dopunskom porezu ili ako u roku ne podnese propisanu prijavu s informacijama o dopunskom porezu Ministarstvu financija, Poreznoj upravi (članak 35.af stavci 1. do 9., članak 35.ag)
+
+11. hrvatska izvještajna financijska institucija ako Ministarstvu financija, Poreznoj upravi ne dostavi propisane informacije u odnosu na sve račune o kojima se izvješćuje, ili propisane informacije ne dostavi u propisanom roku ili obliku (članak 61. stavci 1. i 5.)
+
+12. hrvatska izvještajna i neizvještajna financijska institucija ako ne prikuplja propisane informacije, ne provodi dubinsku analizu ili ne utvrđuje račune o kojima se izvješćuje (članak 62. stavak 1.).
+
+(2) Novčanom kaznom u iznosu od 260,00 do 2650,00 eura kaznit će se i odgovorna osoba u pravnoj osobi za prekršaj iz točaka 1. do 10. ovoga članka.
+
+(3) Novčanom kaznom u iznosu od 260,00 do 2650,00 eura kaznit će se i odgovorna osoba u hrvatskoj izvještajnoj i neizvještajnoj financijskoj instituciji za prekršaj iz stavka 1. točaka 11. i 12. ovoga članka.
+
+(4) Novčanom kaznom u iznosu od 130,00 do 13.270,00 eura za prekršaj iz stavka 1. točaka 3. do 7. ovoga članka kaznit će se fizička osoba.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 24.
+
+(1) Subjekt povezan s kriptoimovinom koji je pružatelj usluga povezanih s kriptoimovinom koji izvješćuje obvezan je ispuniti obvezu registracije iz članka 35.ac koji je dodan člankom 21. ovoga Zakona do 30. lipnja 2027. za razdoblje o kojem se izvješćuje koje počinje teći 1. siječnja 2026.
+
+(2) Prva automatska razmjena informacija iz članka 35.u koji je dodan člankom 21. ovoga Zakona odvija se za razdoblje o kojem se izvješćuje počevši od 1. siječnja 2026.
+
+(3) Prijave s informacijama o dopunskom porezu propisane člankom 35.ae koji je dodan člankom 22. ovoga Zakona dostavljaju se za prvu izvještajnu fiskalnu godinu koja počinje 31. prosinca 2023., osim ako je posebnim zakonom drugačije određeno.
+
+(4) Ministarstvo financija, Porezna uprava razmjenjuje informacije na temelju članka 35.ag koji je dodan člankom 22. ovoga Zakona u odnosu na prvu izvještajnu godinu u roku od šest mjeseci nakon roka za podnošenje prijave propisanog člankom 35.af stavka 3. ovoga Zakona koji je dodan člankom 22. ovoga Zakona.
+
+#### Članak 25.
+
+Ministar financija uskladit će Pravilnik o automatskoj razmjeni informacija u području poreza (»Narodne novine«, br. 18/17., 1/19., 1/20., 27/23. i 1/24.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 26.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/73
+
+Zagreb, 21. studenoga 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

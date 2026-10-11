@@ -6,11 +6,14 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2015-09-11
+last_amended: 2020-12-16
 status: in_force
-status_basis: "derived: enacted or amended in 2015 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "97/15"
-amendments: []
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "97/15, 7/20, 140/20"
+amendments:
+  - "NN 7/2020 (93) Uredba o izmjenama i dopunama Uredbe o gospodarenju otpadnom ambalažom"
+  - "NN 140/2020 (2703) Uredba o izmjeni Uredbe o izmjenama i dopunama Uredbe o gospodarenju otpadnom ambalažom"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2015/97/1872"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Uredba o gospodarenju otpadnom ambalažom
 
 > Izvor: Narodne novine, NN 97/2015 (https://narodne-novine.nn.hr/eli/sluzbeni/2015/97/1872).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 7/2020, NN 140/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -130,3 +135,145 @@ Zagreb, 10. rujna 2015.
 
 Predsjednik  
 Zoran Milanović, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Uredba o izmjenama i dopunama Uredbe o gospodarenju otpadnom ambalažom (NN 7/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/7/93*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 53. stavka 4. Zakona o održivom gospodarenju otpadom (»Narodne novine«, br. 94/13, 73/17, 14/19 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 16. siječnja 2020. godine donijela
+
+**UREDBU**
+
+**O IZMJENAMA I DOPUNAMA UREDBE O GOSPODARENJU OTPADNOM AMBALAŽOM**
+
+#### Članak 1.
+
+U Uredbi o gospodarenju otpadnom ambalažom (»Narodne novine«, broj 97/15), u članku 1. iza stavka 1. dodaje se stavak 2. koji glasi:
+
+»(2) Ova se Uredba donosi uzimajući u obzir postupak obavješćivanja na temelju Direktive (EU) 2015/1535 Europskog parlamenta i Vijeća od 9. rujna 2015. o utvrđivanju postupka pružanja informacija u području tehničkih propisa i pravila o uslugama informacijskog društva (SL L 241, 17. 9. 2015.).«.
+
+#### Članak 2.
+
+U članku 2. točka 1. briše se.
+
+Dosadašnje točke 2. do 5. postaju točke 1. do 4.
+
+Dosadašnja točka 6. koja postaje točka 5. mijenja se i glasi:
+
+»5. piće je alkoholno piće, bezalkoholno piće, stolna, prirodna mineralna voda i prirodna izvorska voda, voćni sirupi, voćni sokovi i nektari, mlijeko i tekući mliječni proizvodi i ostali tekući proizvodi na voćnoj i drugoj bazi te bilo koji drugi dodatak koji pakiran zajedno s tekućom bazom čini cjelovitu jedinicu primarne ambalaže«.
+
+Dosadašnja točka 7. postaje točka 6.
+
+Dosadašnja točka 8. koja postaje točka 7. mijenja se i glasi:
+
+»7. proizvođač i uvoznik proizvoda (u daljnjem tekstu: pro­izvođač) je pravna ili fizička osoba – obrtnik ili fizička osoba koja razvija, proizvodi, prerađuje, obrađuje, prodaje, unosi ili uvozi, odnosno stavlja na tržište na području Republike Hrvatske proizvode pakirane u ambalažu«.
+
+Dosadašnja točka 9. postaje točka 8.
+
+#### Članak 3.
+
+U članku 4. stavku 2. riječi: »u suradnji s Agencijom« zamjenjuju se riječima: »u suradnji s Ministarstvom«, riječi: »otpadnog stakla i otpadne plastike« zamjenjuju se riječima: »otpadnog metala, stakla i plastike«, a riječi: »trošak zbrinjavanja« zamjenjuju se riječima: »trošak obrade«.
+
+#### Članak 4.
+
+Članak 5. mijenja se i glasi:
+
+»(1) Iznos povratne naknade iznosi 0,50 kuna po komadu ambalažne jedinice od pića.
+
+(2) Na iznos povratne naknade ne obračunava se porez.«.
+
+#### Članak 5.
+
+Članak 6. mijenja se i glasi:
+
+»(1) Proizvođač je obvezan Fondu uplatiti iznos povratne naknade iz članka 5. ove Uredbe prilikom stavljanja na tržište pića u ambalaži koja je obuhvaćena sustavom povratne naknade.
+
+(2) Obračun obveze iz stavka 1. ovoga članka obavlja se tromjesečno u skladu s Pravilnikom.
+
+(3) Prodavatelj i osoba koja upravlja reciklažnim dvorištem obvezni su prilikom preuzimanja otpadne ambalaže od pića obuhvaćene sustavom povratne naknade potrošaču (posjedniku) isplatiti iznos povratne naknade iz članka 5. ove Uredbe.
+
+(4) Fond je obvezan prodavatelju i osobi koja upravlja reciklažnim dvorištem vratiti isplaćeni iznos povratne naknade potrošaču kao i sljedeće troškove preuzimanja i predaje otpadne ambalaže od pića sakupljaču:
+
+1. za ručno preuzimanje otpadne ambalaže od pića:
+
+– 0,08 kuna (PDV uključen) po jedinici otpadne ambalaže za 2020. godinu
+
+– 0,06 kuna (PDV uključen) po jedinici otpadne ambalaže za 2021. godinu
+
+– 0,05 kuna (PDV uključen) po jedinici otpadne ambalaže za 2022. godinu i nadalje
+
+2. za preuzimanje otpadne ambalaže od pića putem aparata:
+
+– 0,14 kuna (PDV uključen) po jedinici otpadne ambalaže za 2020. godinu
+
+– 0,16 kuna (PDV uključen) po jedinici otpadne ambalaže za 2021. godinu
+
+– 0,18 kuna (PDV uključen) po jedinici otpadne ambalaže za 2022. godinu i nadalje.
+
+(5) Popis prodavatelja i reciklažnih dvorišta koji su obvezni preuzimati otpadnu ambalažu od pića od potrošača Fond objavljuje na svojoj mrežnoj stranici.«.
+
+#### Članak 6.
+
+U članku 7. stavak 3. mijenja se i glasi:
+
+»(3) Naknada gospodarenja po jedinici proizvoda za evidentirane količine ambalaže za pića stavljene na tržište iznosi 0,10 kuna po jedinici prodajne ambalaže za pića u jednokratnoj PET, Al/Fe i staklenoj ambalaži volumena jednakog i većeg od 0,2 l.«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Iznimno od stavka 3. ovoga članka naknada gospodarenja po jedinici proizvoda za mlijeko i tekuće mliječne proizvode iznosi 0,02 kuna.«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 7.
+
+Povratna naknada i naknada gospodarenja po jedinici proizvoda za ambalažu od mlijeka i tekućih mliječnih proizvoda i za ambalažu volumena jednakog 0,2 l plaćaju se od 1. siječnja 2021. godine.
+
+#### Članak 8.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/02  
+Urbroj: 50301-25/16-20-3  
+Zagreb, 16. siječnja 2020.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+## Uredba o izmjeni Uredbe o izmjenama i dopunama Uredbe o gospodarenju otpadnom ambalažom (NN 140/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/140/2703*
+
+Vlada Republike Hrvatske
+
+Na temelju članka 53. stavka 4. Zakona o održivom gospodarenju otpadom (»Narodne novine«, br. 94/13, 73/17, 14/19 i 98/19), Vlada Republike Hrvatske je na sjednici održanoj 14. prosinca 2020. donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O IZMJENAMA I DOPUNAMA UREDBE O GOSPODARENJU OTPADNOM AMBALAŽOM**
+
+#### Članak 1.
+
+U Uredbi o izmjenama i dopunama Uredbe o gospodarenju otpadnom ambalažom (»Narodne novine«, broj 7/20), članak 7. mijenja se i glasi:
+
+»(1) Povratna naknada i naknada gospodarenja po jedinici proizvoda za ambalažu volumena jednakog 0,2 l plaćaju se od 1. siječnja 2021.
+
+(2) Povratna naknada i naknada gospodarenja po jedinici pro­izvoda za ambalažu od mlijeka i tekućih mliječnih proizvoda plaćaju se od 1. srpnja 2021.«.
+
+### ZAVRŠNA ODREDBA
+
+#### Članak 2.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-03/89  
+Urbroj: 50301-05/27-20-2  
+Zagreb, 14. prosinca 2020.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.

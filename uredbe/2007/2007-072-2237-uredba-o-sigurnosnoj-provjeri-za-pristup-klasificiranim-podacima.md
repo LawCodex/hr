@@ -160,31 +160,25 @@ dr. sc. Ivo Sanader, v. r.
 UPITNIK ZA DJELOMIČNU SIGURNOSNU PROVJERU
 
 <table>
-
 <tr>
 <td colspan="2">IDENTIFIKACIJSKI PODACI</td>
 </tr>
-
 <tr>
 <td>Ime</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Prezime</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Rođeno prezime</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Ime roditelja</td>
 <td></td>
 </tr>
-
 </table>
 
 | MBG |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -217,51 +211,41 @@ Zvanje, zanimanje, radno mjesto
 SIGURNOSNI PODACI
 
 <table>
-
 <tr>
 <td colspan="3">Počinjena prekršajna i kaznena djela</td>
 </tr>
-
 <tr>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="3">Izrečene pravomoćne ili nepravomoćne sudske presude ili rješenja</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>Popunjavanje sigurnosnog upitnika ili davanje sigurnosne izjave u zemlji ili inozemstvu</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>Kontakti s pripadnicima sigurnosno-obavještajnih službi stranih država</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td>Kontakti s pojedincima, grupama ili organizacijama koje ugrožavaju sigurnost Republike Hrvatske ili vrijednosti zaštićene međunarodnim pravom</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 </table>
 
 NAPOMENE
@@ -310,136 +294,112 @@ Ranija državljanstva
 Način prestanka državljanstva
 
 <table>
-
 <tr>
 <td colspan="2">BRAČNI STATUS</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td>Broj djece</td>
 <td></td>
 </tr>
-
 </table>
 
 <table>
-
 <tr>
 <td colspan="3">PODACI O ŠKOLOVANJU</td>
 </tr>
-
 <tr>
 <td>Obrazovna ustanova</td>
 <td>Vrijeme školovanja</td>
 <td>Stečeno zvanje</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td colspan="3">Stručno usavršavanje</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 </table>
 
 <table>
-
 <tr>
 <td colspan="4">PODACI O RADNOM ODNOSU</td>
 </tr>
-
 <tr>
 <td>Poslodavac</td>
 <td>Naziv radnog mjesta</td>
 <td>Vrijeme zaposlenja</td>
 <td>Način prekida radnog odnosa</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-
 </table>
 
 PODACI O IMOVINSKOM STANJU
@@ -459,116 +419,94 @@ Izrečene pravomoćne ili nepravomoćne sudske presude ili rješenja
 SIGURNOSNI PODACI
 
 <table>
-
 <tr>
 <td colspan="5">VOJNA OBVEZA</td>
 </tr>
-
 <tr>
 <td>Mjesto i država služenja</td>
 <td colspan="2">Postrojba</td>
 <td colspan="2">Vrijeme</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td colspan="2">Čin</td>
 <td colspan="3">Godina dodjele</td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 </tr>
-
 <tr>
 <td colspan="5">Sudjelovanje u Domovinskom ratu</td>
 </tr>
-
 <tr>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td colspan="5">Sudjelovanje u stranim ili međunarodnim vojnim postrojbama</td>
 </tr>
-
 <tr>
 <td>Postrojba</td>
 <td colspan="2">Dužnost u postrojbi</td>
 <td colspan="2">Mjesto i vrijeme</td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
-
 <tr>
 <td colspan="3">Boravak u inozemstvu duži od 3 mjeseca u kontinuitetu</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td colspan="5">Razlog boravka</td>
 </tr>
-
 <tr>
 <td colspan="3">Popunjavanje sigurnosnog upitnika ili davanje sigurnosne izjave u zemlji ili inozemstvu</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td colspan="3">Kontakti s pripadnicima sigurnosno-obavještajnih službi stranih država</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td colspan="5"></td>
 </tr>
-
 <tr>
 <td rowspan="2" colspan="3">Kontakti s pojedincima, grupama ili organizacijama koje ugrožavaju sigurnost Republike Hrvatske ili vrijednosti zaštićene međunarodnim pravom</td>
 <td>DA</td>
 <td>NE</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
 </tr>
 [if !supportMisalignedColumns]
-
 <tr>
 <td></td>
 <td></td>
@@ -577,15 +515,12 @@ SIGURNOSNI PODACI
 <td></td>
 </tr>
 [endif]
-
 </table>
 
 <table>
-
 <tr>
 <td colspan="6">PODACI O PUNOLJETNIM ČLANOVIMA UŽE OBITELJI I ČLANOVIMA ZAJEDNIČKOG KUĆANSTVA</td>
 </tr>
-
 <tr>
 <td>Ime i prezime<br> (rođeno prezime)</td>
 <td>Ime roditelja</td>
@@ -594,7 +529,6 @@ SIGURNOSNI PODACI
 <td>Srodstvo/<br> drugi odnos</td>
 <td>Mjesto zaposlenja, zvanje i zanimanje</td>
 </tr>
-
 <tr>
 <td></td>
 <td></td>
@@ -603,7 +537,6 @@ SIGURNOSNI PODACI
 <td></td>
 <td></td>
 </tr>
-
 </table>
 
 NAPOMENE

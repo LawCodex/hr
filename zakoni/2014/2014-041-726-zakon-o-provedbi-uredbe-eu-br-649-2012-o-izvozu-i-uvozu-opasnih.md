@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2014-03-31
+last_amended: 2018-12-20
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "41/14"
-amendments: []
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "41/14, 115/18"
+amendments:
+  - "NN 115/2018 (2256) Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 649/2012 o izvozu i uvozu opasnih kemikalija"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2014/41/726"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o provedbi Uredbe (EU) br. 649/2012 o izvozu i uvozu opasnih kemikalija
 
 > Izvor: Narodne novine, NN 41/2014 (https://narodne-novine.nn.hr/eli/sluzbeni/2014/41/726).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 115/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -196,3 +200,88 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 649/2012 o izvozu i uvozu opasnih kemikalija (NN 115/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2256*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBE (EU) BR. 649/2012 O IZVOZU I UVOZU OPASNIH KEMIKALIJA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 649/2012 o izvozu i uvozu opasnih kemikalija, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/181
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBE (EU) BR. 649/2012 O IZVOZU I UVOZU OPASNIH KEMIKALIJA**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EU) br. 649/2012 o izvozu i uvozu opasnih kemikalija (»Narodne novine«, br. 41/14.) naziv glave II. mijenja se i glasi: »II. NADLEŽNA TIJELA I NJIHOVE NADLEŽNOSTI«.
+
+Naslov iznad članka 3. mijenja se i glasi: »Nadležna tijela«.
+
+Članak 3. mijenja se i glasi:
+
+»(1) Nadležna tijela za provedbu Uredbe (EU) br. 649/2012 i ovoga Zakona su ministarstvo nadležno za zdravstvo (u daljnjem tekstu: Ministarstvo) i Državni inspektorat.
+
+(2) Ministar nadležan za zdravstvo ovlašten je donijeti pravilnik kojim će pobliže urediti pojedina pitanja uvoza i izvoza opasnih kemikalija radi provedbe pravno obvezujućih akata Europske unije donesenih na temelju Uredbe (EU) br. 649/2012.
+
+(3) Pri provedbi ovoga Zakona nadležna tijela iz stavka 1. ovoga članka surađuju sa središnjim tijelima državne uprave nadležnima za poslove poljoprivrede, zaštite okoliša, prometa, pomorstva, gospodarstva i carinskog nadzora.«.
+
+### Članak 2.
+
+U članku 4. stavku 1. podstavak 17. mijenja se i glasi:
+
+» – provodi izobrazbu nadležnih inspektora Državnog inspektorata i državnih službenika u središnjem tijelu državne uprave nadležnom za provedbu carinskog nadzora.«.
+
+U stavku 2. riječi: »Hrvatskim zavodom za toksikologiju i antidoping« zamjenjuju se riječima: »Hrvatskim zavodom za javno zdravstvo«.
+
+### Članak 3.
+
+U članku 5. stavak 1. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor nad provedbom Uredbe (EU) br. 649/2012 i ovoga Zakona obavljaju sanitarni inspektori Državnog inspektorata sukladno propisima kojima je uređen djelokrug i ovlasti Državnog inspektorata te nadzor nad kemikalijama.«.
+
+### Članak 4.
+
+U članku 6. riječi: »Nadležni sanitarni inspektor na granici« zamjenjuju se riječima: »Nadležni granični sanitarni inspektor Državnog inspektorata«, a riječi: »sanitarne inspekcije« zamjenjuju se riječima: »Državnog inspektorata«.
+
+### Članak 5.
+
+U članku 7. stavku 1. podstavku 1. riječi: »sanitarnog inspektora na granici« zamjenjuju se riječima: »graničnog sanitarnog inspektora Državnog inspektorata«.
+
+### Članak 6.
+
+U članku 8. stavku 3. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 7.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019.. osim članaka 1. i 2. u dijelu koji se odnosi na Državni inspektorat i članaka 3., 4., 5. i 6. koji stupaju na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/200  
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

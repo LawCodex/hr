@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-17
+last_amended: 2020-02-28
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "72/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "72/13, 121/19, 22/20"
+amendments:
+  - "NN 121/2019 (2389) Zakon o izmjenama i dopuni Zakona o posebnom porezu na kavu i bezalkoholna pića"
+  - "NN 22/2020 (532) Zakon o izmjenama i dopuni Zakona o posebnom porezu na kavu i bezalkoholna pića"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/72/1435"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o posebnom porezu na kavu i bezalkoholna pića
 
 > Izvor: Narodne novine, NN 72/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/72/1435).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 121/2019, NN 22/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -640,3 +645,208 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o posebnom porezu na kavu i bezalkoholna pića (NN 121/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/121/2389*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O POSEBNOM POREZU NA KAVU I BEZALKOHOLNA PIĆA
+
+Proglašavam Zakon o o izmjeni i dopuni Zakona o posebnom porezu na kavu i bezalkoholna pića, koji je Hrvatski sabor donio na sjednici 29. studenoga 2019.
+
+Klasa: 011-01/19-01/214
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 4. prosinca 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O POSEBNOM POREZU NA KAVU I BEZALKOHOLNA PIĆA**
+
+#### Članak 1.
+
+U Zakonu o posebnom porezu na kavu i bezalkoholna pića (»Narodne novine«, br. 72/13.) u članku 3. stavku 1. točka n) mijenja se i glasi:
+
+»n) Dodanim šećerima smatraju se:
+
+– šećeri (monosaharidi i disaharidi),
+
+– pripravci koji sadrže šećer, osim sokova iz tarifne oznake KN 2009 koji ne sadrže dodane šećere.«.
+
+Iza točke n) dodaju se točke o) i p) koje glase:
+
+»o) Metil-ksantinima smatraju se:
+
+– kofein (1,3,7-trimetil-ksantin),
+
+– teobromin (3,7-dimetil-ksantin),
+
+– teofilin (1,3-dimetil-ksantin).
+
+p) Taurinom se smatra spoj kemijske formule H<sub>2</sub>N-CH<sub>2</sub>-CH<sub>2</sub>-SO<sub>2</sub>-OH.«.
+
+#### Članak 2.
+
+U članku 4. stavku 2. točka 5. briše se.
+
+U stavku 3. točka 1. mijenja se i glasi:
+
+»1. pića iz tarifnih oznaka KN 2009 i 2202 koja sadrže dodane šećere ili metil-ksantine ili taurin, osim bezalkoholnih pića koja sadrže proizvode iz tarifne oznake KN 0401 do 0404. Iznimka od oporezivanja na bezalkoholna pića koja sadrže proizvode iz tarifne oznake KN 0401 do 0404 ne odnosi se na proizvode koji sadrže metil-ksantine ili taurin,«.
+
+Točke 3. i 4. mijenjaju se i glase:
+
+»3. sirupi i koncentrati koji sadrže dodane šećere ili metil-ksantine ili taurin namijenjeni za pripremu bezalkoholnih pića, neovisno o njihovu razvrstavanju u Kombiniranu nomenklaturu,
+
+4. prašci i granule koji sadrže dodane šećere ili metil-ksantine ili taurin namijenjeni za pripremu bezalkoholnih pića, neovisno o njihovu razvrstavanju u Kombiniranu nomenklaturu.«.
+
+#### Članak 3.
+
+Članak 7. mijenja se i glasi:
+
+»(1) Posebni porez na predmete oporezivanja iz članka 4. stavka 2. ovoga Zakona plaća se prema netomasi kave.
+
+(2) Posebni porez na predmete oporezivanja iz članka 4. stavka 3. ovoga Zakona plaća se prema volumenu i sadržaju šećera, ako predmeti oporezivanja ne sadrže metil-ksantine ili taurin. Za voćne nektare i pića iz tarifne oznake KN 2009 iznos posebnog poreza utvrđen na temelju sadržaja šećera umanjuje se za postotni iznos udjela voća koji je sadržan u voćnom nektaru ili piću iz tarifne oznake KN 2009. Posebni porez na predmete oporezivanja iz članka 4. stavka 3. ovoga Zakona koji sadrže taurin plaća se prema volumenu i sadržaju taurina, a na predmete oporezivanja koji sadrže metil-ksantine, a ne sadrže taurin plaća se prema volumenu i sadržaju metil-ksantina.
+
+(3) Sadržaj šećera, metil-ksantina i taurina utvrđuje se sukladno podacima označenim na pretpakovini ili etiketi koja je na nju pričvršćena prema propisima o informiranju potrošača o hrani ili prema pratećem dokumentu na kojem se taj podatak nalazi te analitičkim postupkom u neovisnom akreditiranom laboratoriju. Volumen predmeta oporezivanja iz članka 4. stavka 3. ovoga Zakona koji se dobiva iz prašaka i granula namijenjenih za pripremu bezalkoholnih pića utvrđuje se prema volumenu pripremljenog proizvoda.
+
+(4) Hrvatski zavod za javno zdravstvo i Carinska uprava ovlašteni su provoditi monitoring, odnosno analitička ispitivanja u svrhu utvrđivanja sadržaja šećera, metil-ksantina i taurina iz stavka 2. ovoga članka.
+
+(5) Vlada Republike Hrvatske uredbom utvrđuje način izračuna i visine sastavnica za izračun posebnog poreza iz stavaka 1. i 2. ovoga članka.«.
+
+#### Članak 4.
+
+U članku 20. stavci 1., 2. i 3. mijenjaju se i glase:
+
+»(1) Prijava za upis u registar obveznika posebnog poreza i izvješća koja porezni obveznici podnose u skladu s ovim Zakonom te porezni akti i podnesci poreznih obveznika u smislu ovoga Zakona dostavljaju se pisano, osim kada Carinska uprava odobri korištenje tehnika elektroničke obrade podataka za potrebe razmjene i pohrane informacija između stranaka i Carinske uprave, u kojem slučaju takvo korištenje ima pravno obvezujući učinak.
+
+(2) Carinska uprava objavljuje na svojim mrežnim stranicama tehničke preduvjete za potrebe elektroničke komunikacije s Carinskom upravom te pravila uporabe sustava elektroničke razmjene podataka i pružanja usluga elektroničkog poslovanja Carinske uprave (e-Carina).
+
+(3) Korisnici sustava elektroničke razmjene podataka i pružanja usluga elektroničkog poslovanja:
+
+1. moraju osigurati ispunjenje tehničkih preduvjeta i
+
+2. dužni su postupati prema pravilima uporabe sustava elektroničke razmjene podataka i pružanja usluga elektroničkog poslovanja Carinske uprave (e-Carina).«.
+
+#### Članak 5.
+
+U članku 26. točki 2. riječi: »članak 7. stavak 1., 2., 3. i 4.« zamjenjuju se riječima: »članak 7. stavak 1., 2., 3., 4. i 5.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 6.
+
+(1) Vlada Republike Hrvatske donijet će uredbu iz članka 3. ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+
+(2) Do stupanja na snagu uredbe iz stavka 1. ovoga članka na predmete oporezivanja propisane člankom 4. Zakona o posebnom porezu na kavu i bezalkoholna pića (»Narodne novine«, br. 72/13.) primjenjuju se visine posebnog poreza propisane člankom 7. Zakona o posebnom porezu na kavu i bezalkoholna pića (»Narodne novine«, br. 72/13.).
+
+#### Članak 7.
+
+Ministarstvo financija će u roku od dvije godine od dana stupanja na snagu ovoga Zakona provesti naknadnu procjenu učinaka ovoga Zakona.
+
+#### Članak 8.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2020.
+
+Klasa: 022-03/19-01/218
+
+Zagreb, 29. studenoga­­­­ 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o posebnom porezu na kavu i bezalkoholna pića (NN 22/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/22/532*
+
+Hrvatski sabor
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O POSEBNOM POREZU NA KAVU I BEZALKOHOLNA PIĆA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o posebnom porezu na kavu i bezalkoholna pića, koji je Hrvatski sabor donio na sjednici 21. veljače 2020. godine.
+
+Klasa: 011-01/20-01/09  
+Urbroj: 71-06-01/1-20-2  
+Zagreb, 25. veljače 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O POSEBNOM POREZU NA KAVU I BEZALKOHOLNA PIĆA**
+
+#### Članak 1.
+
+U Zakonu o posebnom porezu na kavu i bezalkoholna pića (»Narodne novine«, br. 72/13. i 121/19.) u članku 4. stavak 3. mijenja se i glasi:
+
+»(3) U smislu ovoga Zakona bezalkoholnim pićima smatraju se proizvodi navedeni u točkama 1. – 3. ovoga stavka, osim proizvoda koji se sukladno posebnim propisima smatraju hranom za posebne prehrambene potrebe ili dodacima prehrani:
+
+1. pića iz tarifnih oznaka KN 2009 i 2202 te ostala pića s udjelom alkohola ne većim od 1,2 % iz tarifne oznake KN 2204, 2205, 2206 i 2208, osim pića koja su mješavina piva i bezalkoholnih pića iz tarifne oznake KN 2206 s volumnim udjelom stvarnog alkohola većim od 0,5 % vol,
+
+2. sirupi i koncentrati namijenjeni za pripremu bezalkoholnih pića, neovisno o njihovu razvrstavanju u Kombiniranu nomenklaturu,
+
+3. prašci i granule namijenjeni za pripremu bezalkoholnih pića, neovisno o njihovu razvrstavanju u Kombiniranu nomenklaturu.«.
+
+#### Članak 2.
+
+U članku 7. stavak 2. mijenja se i glasi:
+
+»(2) Posebni porez na predmete oporezivanja iz članka 4. stavka 3. ovoga Zakona plaća se prema volumenu izraženom u hektolitru bezalkoholnog pića te prema sadržaju šećera, metil-ksantina i taurina.«.
+
+Iza stavka 2. dodaju se novi stavci 3. i 4. koji glase:
+
+»(3) Za voćne nektare i pića iz tarifne oznake KN 2009 koji sadrže dodane šećere iznos posebnog poreza utvrđen na temelju sadržaja šećera umanjuje se za postotni iznos udjela voća koji je sadržan u voćnom nektaru ili piću iz tarifne oznake KN 2009.
+
+(4) Posebni porez ne plaća se na bezalkoholna pića:
+
+1. koja sadrže proizvode iz tarifne oznake KN 0401 do 0404, a ne sadrže metil-ksantine ili taurin
+
+2. iz tarifne oznake KN 2009 i 2202 sa 100-postotnim udjelom voća i/ili povrća, a koja ne sadrže dodane šećere, tvari za zaslađivanje i sladila.«.
+
+Dosadašnji stavci 3., 4. i 5. postaju stavci 5., 6. i 7.
+
+#### Članak 3.
+
+U članku 26. točki 2. riječi: »članak 7. stavak 1., 2., 3., 4. i 5.« zamjenjuju se riječima: »članak 7. stavak 1., 2., 3. i 5.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 4.
+
+Ministar financija uskladit će provedbeni propis iz članka 4. stavka 4. Zakona o posebnom porezu na kavu i bezalkoholna pića (»Narodne novine«, br. 72/13. i 121/19.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu.
+
+#### Članak 5.
+
+Ovaj Zakon stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/20-01/07  
+Zagreb, 21. veljače 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

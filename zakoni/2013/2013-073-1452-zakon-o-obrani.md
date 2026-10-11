@@ -6,14 +6,17 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-06-18
-last_amended: 2016-03-25
+last_amended: 2025-11-05
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "73/13, 75/15, 27/16"
+narodne_novine: "73/13, 75/15, 27/16, 30/18, 70/19, 136/25"
 amendments:
   - "NN 75/2015 (1430) Zakon o izmjenama i dopunama Zakona o obrani"
   - "NN 27/2016 (785) Zakon o dopuni Zakona o obrani"
+  - "NN 30/2018 (606) Zakon o izmjenama i dopunama Zakona o obrani"
+  - "NN 70/2019 (1451) Zakon o izmjenama i dopunama Zakona o obrani"
+  - "NN 136/2025 (2011) Zakon o izmjenama i dopunama Zakona o obrani"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/73/1452"
 retrieved: 2026-10-12
 ---
@@ -22,7 +25,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 73/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/73/1452).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 75/2015, NN 27/2016.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 75/2015, NN 27/2016, NN 30/2018, NN 70/2019, NN 136/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1877,3 +1880,1622 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 akademik Željko Reiner, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obrani (NN 30/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/30/606*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBRANI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obrani, koji je Hrvatski sabor donio na sjednici 23. ožujka 2018.
+
+Klasa:011-01/18-01/38  
+Urbroj: 71-06-01/1-18-2  
+Zagreb, 27. ožujka 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBRANI**
+
+#### Članak 1.
+
+U Zakonu o obrani (»Narodne novine«, br. 73/13., 75/15., 27/16. i 110/17. – Odluka Ustavnog suda Republike Hrvatske) u članku 3. točka 3. mijenja se i glasi:
+
+»3. Oružane snage Republike Hrvatske su snage organizirane za obranu Republike Hrvatske i saveznika vojnim sredstvima te za druge oblike uporabe i korištenja u skladu sa zakonom i međunarodnim pravom. Za Oružane snage Republike Hrvatske koristi se i naziv Hrvatska vojska.«.
+
+#### Članak 2.
+
+U članku 14. iza točke 13. dodaje se točka 13.a koja glasi:
+
+»13.a određivanje elemenata spremnosti te načela i mjerila prema kojima se provodi nadzor i ocjenjuje spremnost Oružanih snaga«.
+
+#### Članak 3.
+
+U članku 19. riječi: »,uključivanjem u Oružane snage,« brišu se.
+
+#### Članak 4.
+
+U članku 20. stavak 3. mijenja se i glasi:
+
+»(3) Iznimno od stavka 2. točke 1. ovoga članka, vojna obveza prestaje:
+
+1. višim časnicima – posljednjeg dana kalendarske godine u kojoj navršavaju 60 godina života
+
+2. generalima/admiralima – posljednjeg dana kalendarske godine u kojoj navršavaju 65 godina života.«.
+
+#### Članak 5.
+
+U članku 21. stavku 4. iza riječi: »u vojnu evidenciju« dodaju se riječi: »i obvezi služenja u pričuvnom sastavu Oružanih snaga u skladu s odredbama ovoga Zakona«.
+
+#### Članak 6.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Pričuvni sastav Oružanih snaga dijeli se na ugovornu i mobilizacijsku pričuvu, a mobilizacijska pričuva na nerazvrstanu i razvrstanu pričuvu.
+
+(2) Razvrstani pričuvnik je vojni obveznik koji je odslužio vojni rok ili je bio na dragovoljnom vojnom osposobljavanju ili u djelatnoj vojnoj službi te mu je određena vojnostručna specijalnost.
+
+(3) Razvrstanim pričuvnicima, prema potrebama popune Oružanih snaga, određuje se i priopćava ratni raspored u Oružanim snagama te ih se prema utvrđenim planovima poziva na službu u Oružane snage radi osposobljavanja, vježbi i drugih aktivnosti utvrđenih ovim Zakonom.
+
+(4) Razvrstani pričuvnici mogu biti pozvani na službu u Oružane snage radi osposobljavanja i vježbi u ukupnom trajanju od najviše 30 dana tijekom jedne kalendarske godine.
+
+(5) Program osposobljavanja i vježbi za razvrstane pričuvnike iz stavka 3. ovoga članka donosi načelnik Glavnog stožera.
+
+(6) Razvrstane pričuvnike na osposobljavanje i vježbe iz stavka 4. ovoga članka poziva nadležna ustrojstvena jedinica Ministarstva obrane na temelju zahtjeva Oružanih snaga.
+
+(7) Ograničenja iz stavka 4. ovoga članka ne primjenjuju se na razvrstane pričuvnike upućene na vojnu izobrazbu te u slučaju ratnog stanja i stanja neposredne ugroženosti.
+
+(8) Na službu iz stavka 4. ovoga članka ne upućuju se trudnice, majke, samohrani roditelji odnosno skrbnici s jednim djetetom ili više djece mlađe od 14 godina te osobe koje skrbe o nemoćnim osobama.
+
+(9) Način određivanja ratnog rasporeda i izdavanja osobne vojne opreme, način čuvanja, održavanja i vraćanja pravilnikom propisuje ministar obrane na prijedlog načelnika Glavnog stožera.«.
+
+#### Članak 7.
+
+Iza članka 25. dodaju se članci 25.a i 25.b koji glase:
+
+»Članak 25.a
+
+(1) Nerazvrstani pričuvnik je vojni obveznik uveden u vojnu evidenciju, stariji od 27 godina, kojemu nije određena vojnostručna specijalnost u skladu s člankom 25. stavkom 2. ovoga Zakona.
+
+(2) Nerazvrstani pričuvnici mogu biti pozvani na službu u Oružane snage nakon ocjene sposobnosti za vojnu službu te odgovarajućega vojnog osposobljavanja.
+
+(3) Program vojnog osposobljavanja nerazvrstanih pričuvnika iz stavka 2. ovoga članka donosi načelnik Glavnog stožera.
+
+#### Članak 25.b
+
+(1) Za vrijeme službe u Oružanim snagama radnopravni status pričuvnika koji je u radnom odnosu uređuje se zakonom kojim se uređuju radni odnosi.
+
+(2) Pričuvnici pozvani na službu u Oružane snage imaju pravo na novčanu naknadu i na naknadu putnih troškova za vrijeme provedeno u službi u Oružanim snagama.
+
+(3) Visinu i načine isplate naknada iz stavka 2. ovoga članka pravilnikom propisuje ministar obrane.«.
+
+#### Članak 8.
+
+Članak 26. mijenja se i glasi:
+
+»(1) Dragovoljno vojno osposobljavanje provodi se kada nije na snazi obveza služenja vojnog roka u skladu s odredbama ovoga Zakona.
+
+(2) Na dragovoljno vojno osposobljavanje mogu se uputiti, do posljednjeg dana kalendarske godine u kojoj navršavaju 30 godina, vojni obveznici koji se za to prijave u nadležnu ustrojstvenu jedinicu Ministarstva obrane.
+
+(3) Iznimno od stavka 2. ovoga članka, na dragovoljno vojno osposobljavanje mogu se uputiti i vojni obveznici stariji od 30 godina ako su kandidati za ugovorne pričuvnike, za vojne specijaliste ili za kasni prijam u djelatnu vojnu službu.
+
+(4) Na dragovoljno vojno osposobljavanje mogu se uputiti i žene u skladu s odredbama ovoga Zakona.
+
+(5) Dragovoljno vojno osposobljavanje provodi se u ustrojstvenim jedinicama Oružanih snaga.
+
+(6) Dragovoljnim vojnim osposobljavanjem stječu se potrebna znanja i vještine za služenje u pričuvnom sastavu Oružanih snaga i ispunjava se jedan od propisanih uvjeta za prijam u djelatnu vojnu službu.
+
+(7) Osobama koje su u okviru obuke za kadete stekle vojna znanja i vještine u skladu s programom dragovoljnog vojnog osposobljavanja priznaje se i upisuje u vojnu evidenciju uspješan završetak dragovoljnog vojnog osposobljavanja.
+
+(8) Postupak prijave i evidencije kandidata, selekcije i upućivanja kandidata na dragovoljno vojno osposobljavanje, prava i obveze osoba na dragovoljnom vojnom osposobljavanju pravilnikom propisuje ministar obrane.
+
+(9) Uz dragovoljno vojno osposobljavanje mogu se provoditi i drugi programi i aktivnosti osposobljavanja kojima se razvija sigurnosna kultura te jača svijest kako je sudjelovanje u obrani pravo i obveza svakoga državljanina.
+
+(10) Programe i aktivnosti osposobljavanja iz stavka 9. ovoga članka te prava i obveze osoba na tom osposobljavanju pravilnikom propisuje ministar obrane.«.
+
+#### Članak 9.
+
+U članku 27. stavku 3. riječi: »članka 25. stavka 6. ovoga Zakona« zamjenjuju se riječima: »članka 25.a stavka 2. ovoga Zakona«.
+
+#### Članak 10.
+
+Članak 35. mijenja se i glasi:
+
+»(1) Obveznici iz članka 18. ovoga Zakona moraju se na poziv nadležnih ustrojstvenih jedinica Ministarstva obrane javiti na mjesto i u vremenu utvrđenom općim ili pojedinačnim pozivom.
+
+(2) Ako se osobe iz stavka 1. ovoga članka ne odazovu pozivu i ne opravdaju svoj izostanak, nadležna ustrojstvena jedinica Ministarstva obrane može zahtijevati od nadležnih tijela raspisivanje potrage i dovođenje te utvrđivanje prekršajne odgovornosti.
+
+(3) Dovođenje izvršava središnje tijelo državne uprave nadležno za unutarnje poslove.«.
+
+#### Članak 11.
+
+Iza članka 35. dodaje se članak 35.a koji glasi:
+
+»Članak 35.a
+
+(1) Razvrstanom pričuvniku može se, na osobni zahtjev, odgoditi odlazak na službu u Oružane snage.
+
+(2) Zahtjev za odgodu iz stavka 1. ovoga članka podnosi se nadležnoj ustrojstvenoj jedinici Ministarstva obrane u roku od osam dana od primitka poziva za odlazak na službu.
+
+(3) Uvjete i način ostvarivanja prava na odgodu iz stavaka 1. i 2. ovoga članka ministar obrane propisuje pravilnikom kojim se uređuje izvršavanje vojne obveze.«.
+
+#### Članak 12.
+
+Članak 38. mijenja se i glasi:
+
+»(1) Državljani Republike Hrvatske tijekom izvršavanja obveza iz članka 18. ovoga Zakona i nakon otpusta iz Oružanih snaga imaju pravo na pokriće troškova zdravstvene zaštite iz obveznog i dopunskog zdravstvenog osiguranja na teret državnog proračuna Republike Hrvatske do izlječenja odnosno dok nadležno tijelo mirovinskog osiguranja ne donese ocjenu radne sposobnosti u slučaju nastanka ozljede ili bolesti koje su zadobili za vrijeme izvršavanja obveze, a koje su izravna posljedica izvršavanja obveze.
+
+(2) Nadležna ustrojstvena jedinica Ministarstva obrane koja je organizirala aktivnost na kojoj se obveznik iz stavka 1. ovoga članka razbolio ili ozlijedio pokreće postupak utvrđivanja i priznavanja ozljede na radu u skladu sa zakonom kojim se uređuju prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu.«.
+
+#### Članak 13.
+
+U članku 39. stavku 2. podstavku 4. iza riječi: »prijevozu unesrećenih ili oboljelih« dodaju se riječi: »koje obuhvaća i hitni medicinski let«.
+
+Iza podstavka 4. dodaje se podstavak 5. koji glasi:
+
+» – osiguravati nekretnine u vlasništvu Republike Hrvatske kojima raspolaže Ured predsjednika Republike Hrvatske, koje se koriste u funkciji Predsjednika Republike«.
+
+#### Članak 14.
+
+U članku 41. stavku 3. riječi: »i protuzračna obrana« brišu se.
+
+#### Članak 15.
+
+U članku 54. iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Ministar obrane odlukom utvrđuje aktivnosti potrebne za provedbu naredbe iz stavka 3. ovoga članka i njihove nositelje.«.
+
+Dosadašnji stavci 4. i 5. postaju stavci 5. i 6.
+
+#### Članak 16.
+
+Članak 56. mijenja se i glasi:
+
+»(1) Oružane snage mogu prijeći granice Republike Hrvatske radi pružanja humanitarne pomoći drugoj državi na temelju odluke koju donosi Vlada uz prethodnu suglasnost Predsjednika Republike.
+
+(2) Oružane snage država saveznica mogu prijeći granice Republike Hrvatske radi pružanja humanitarne pomoći Republici Hrvatskoj na temelju odluke koju donosi Vlada uz prethodnu suglasnost Predsjednika Republike.
+
+(3) Prijedlog odluke iz stavaka 1. i 2. ovoga članka Vladi predlaže ministar obrane uz prethodnu suglasnost ministra nadležnog za vanjske poslove.
+
+(4) Odlukom iz stavka 1. ovoga članka definira se mandat i nacionalna ograničenja i izuzeća u uporabi Oružanih snaga.
+
+(5) Na temelju odluke iz stavka 1. ovoga članka ministar obrane naređuje upućivanje i uporabu dijelova Oružanih snaga.
+
+(6) Iznimno od stavaka 1. – 5. ovoga članka, Oružane snage mogu prijeći granice Republike Hrvatske radi pružanja humanitarne pomoći na zadaćama protupožarne zaštite na temelju odluke koju jedanput godišnje donosi Vlada uz prethodnu suglasnost Predsjednika Republike.
+
+(7) Provedbu odluke, mandat i nacionalna ograničenja i izuzeća u uporabi Oružanih snaga iz stavka 6. ovoga članka radi pružanja humanitarne pomoći na zadaćama protupožarne zaštite definira naredbom ministar obrane i o tome izvješćuje ministra nadležnog za vanjske poslove, Predsjednika Republike i Vladu.«.
+
+#### Članak 17.
+
+U članku 61. stavku 1. iza riječi: »prijevoz unesrećenih ili oboljelih« dodaju se riječi: »koje obuhvaća i hitni medicinski let«.
+
+#### Članak 18.
+
+U članku 69. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+
+»(5) Odluke o prelasku granice radi protokolarno-ceremonijalnih aktivnosti te postrojbi razine voda i niže donosi ministar obrane.«.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., riječi: »iz stavka 4. ovoga članka« zamjenjuju se riječima: »iz stavaka 4. i 5. ovoga članka«.
+
+#### Članak 19.
+
+U članku 70. stavku 3. iza riječi: »akata iz stavka 2. ovoga članka« dodaju se riječi: »kojima se regulira uporaba ili korištenje Oružanih snaga«.
+
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+
+»(4) Načelnik Glavnog stožera može zapovjediti privremeno stavljanje u pripravnost dijela postrojbi Oružanih snaga u slučaju opasnosti od katastrofa, velikih nesreća i nesreća, o čemu je dužan odmah izvijestiti Predsjednika Republike i ministra obrane.«.
+
+Dosadašnji stavak 4. postaje stavak 5.
+
+U dosadašnjem stavku 5., koji postaje stavak 6., riječi: »iz stavka 4. ovoga članka« zamjenjuju se riječima: »iz stavka 5. ovoga članka«.
+
+Dosadašnji stavci 6. – 7. postaju stavci 7. – 8.
+
+#### Članak 20.
+
+U članku 74. iza stavka 1. dodaje se novi stavak 2. koji glasi:
+
+»(2) Mobilizacija Oružanih snaga ili njihovih dijelova može se izvoditi i u slučaju katastrofa i velikih nesreća.«.
+
+Dosadašnji stavci 2. – 5. postaju stavci 3. – 6.
+
+Iza dosadašnjeg stavka 5., koji je postao stavak 6., dodaje se stavak 7. koji glasi:
+
+»(7) Način pripreme i provedbe mobilizacije Oružanih snaga ili njihovih dijelova pravilnikom propisuje ministar obrane.«.
+
+#### Članak 21.
+
+Iza članka 84. dodaju se članak 84.a i podnaslov 1.a iznad njega koji glase:
+
+*»1.a Obrazovanje i znanstvena djelatnost za potrebe obrane*
+
+#### Članak 84.a
+
+Za provedbu obrazovanja i znanstvene djelatnosti za potrebe obrane mogu se osnivati visoka učilišta u skladu sa zakonom kojim se uređuje znanstvena djelatnost i visoko obrazovanje i s ovim Zakonom.«.
+
+#### Članak 22.
+
+U članku 87. stavku 2. riječ: »zvanje« briše se.
+
+#### Članak 23.
+
+U članku 89. stavak 1. mijenja se i glasi:
+
+»(1) O izvršenom nadzoru, utvrđenom stanju i provedbi naloženih mjera inspektori Inspektorata sastavljaju zapisnik.«.
+
+#### Članak 24.
+
+Iza članka 90. dodaje se članak 90.a koji glasi:
+
+»Članak 90.a
+
+Nadzirane cjeline u Ministarstvu obrane i Oružanim snagama te civilni nositelji obrambenih priprema dužni su Inspektoratu dostavljati izvješća o realizaciji mjera iz članka 89. ovoga Zakona.«.
+
+#### Članak 25.
+
+U članku 96. stavku 1. iza riječi: »posebno važnima za obranu« stavlja se zarez i dodaju riječi: »osim vojnih lokacija i građevina koje se koriste zajedno s pravnim osobama u Republici Hrvatskoj«.
+
+#### Članak 26.
+
+Članak 109. briše se.
+
+#### Članak 27.
+
+Članak 110. mijenja se i glasi:
+
+»(1) Vojna policija u obavljanju vojnopolicijskih poslova ovlaštena je postupati prema:
+
+1. pripadnicima Oružanih snaga
+
+2. državnim službenicima i namještenicima u službi u Ministarstvu obrane, u vezi s poslovima iz djelokruga rada Ministarstva obrane i Oružanih snaga
+
+3. drugim osobama u vojnim lokacijama i građevinama
+
+4. osobama u bijegu izvan prostora vojne lokacije i građevine, a koje su zatečene u izvršenju ili pokušaju izvršenja kaznenog djela na prostoru vojne lokacije i građevine
+
+5. osobama izvan vojnih lokacija i građevina u provedbi vojnopolicijskih poslova koji se odnose na nadzor vojnih vozila i upravljanje prometom vozila na cestama pri kretanju vojnih postrojbi i vozila, mjere i radnje zaštite štićenih osoba u lokacijama i prostorima gdje se te štićene osobe nalaze te na kriminalističke poslove u lokacijama i prostorima gdje Ministarstvo obrane i Oružane snage provode službene aktivnosti
+
+6. civilnim osobama u slučaju postupanja u skladu s člankom 62.a ovoga Zakona prema uvjetima utvrđenim posebnom odlukom Vlade.
+
+(2) Ako se prilikom postupanja prema osobama iz stavka 1. točaka 3. i 4. ovoga članka utvrdi da se ne radi o pripadnicima Ministarstva obrane ili Oružanih snaga, vojna policija dužna je odmah izvijestiti policiju.«.
+
+#### Članak 28.
+
+U članku 111. stavku 1. točka 10. mijenja se i glasi:
+
+»10. zaprimanje prijava, podnošenje kaznenih prijava, podnošenje stegovnih prijava, podnošenje obavijesti o povredi vojne stege i obavijesti o povredi službene dužnosti, izdavanje prekršajnih naloga te podnošenje optužnih prijedloga«.
+
+Stavak 3. mijenja se i glasi:
+
+»(3) Dokazne i druge radnje u smislu zakona kojim se uređuje kazneni postupak po službenoj dužnosti provode ovlaštene službene osobe vojne policije imenovane istražiteljima.«.
+
+U stavku 4. riječ: »Istražitelja« zamjenjuje se riječju: »Istražitelje«.
+
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+
+»(5) Za istražitelje iz stavka 3. ovoga članka mogu biti imenovane ovlaštene službene osobe vojne policije s odgovarajućom razinom obrazovanja i radnim iskustvom i koje su posebno osposobljene za provođenje dokaznih radnji.«.
+
+#### Članak 29.
+
+U članku 113. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+
+»(2) Državnim službenicima i namještenicima raspoređenima u službu u Ministarstvo obrane ministar obrane može odlukom, uz prethodnu suglasnost ministra financija, utvrditi dodatak na osnovnu plaću zbog posebnih uvjeta rada, težine i naravi poslova i odgovornosti.
+
+(3) Postupak i kriterije upućivanja državnih službenika i namještenika Ministarstva obrane na rad u međunarodnu organizaciju ili nacionalno predstavništvo, strukture Europske unije te druga međunarodna tijela iz područja obrane i sigurnosti pravilnikom propisuje ministar obrane.«.
+
+Dosadašnji stavci 2. – 6. postaju stavci 4. – 8.
+
+#### Članak 30.
+
+U članku 114. stavku 1. iza riječi: »programe« stavlja se zarez i dodaje riječ: »projekte«.
+
+#### Članak 31.
+
+U članku 122. iza riječi: »ne postoji ni« dodaje se riječ: »njihova«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 32.
+
+(1) Podzakonski propisi na temelju ovlasti iz članaka 6., 7., 8., 11., 20. i 29. ovoga Zakona donijet će se u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+(2) Provedbeni propisi doneseni na temelju ovlasti iz Zakona o obrani (»Narodne novine«, br. 73/13., 75/15., 27/16. i 110/17. – Odluka Ustavnog suda Republike Hrvatske) uskladit će se s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 33.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 021-03/18-01/05  
+Zagreb, 23. ožujka 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obrani (NN 70/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/70/1451*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBRANI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obrani, koji je Hrvatski sabor donio na sjednici 12. srpnja 2019.
+
+Klasa: 011-01/19-01/113
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 17. srpnja 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBRANI**
+
+#### Članak 1.
+
+U Zakonu o obrani (»Narodne novine«, br. 73/13., 75/15., 27/16., 110/17. – Odluka Ustavnog suda Republike Hrvatske i 30/18.) u članku 14. iza točke 24. dodaje se točka 24.a koja glasi:
+
+»24.a normativno uređenje i pravila djelovanja te nadzor djelovanja u kibernetičkom prostoru za potrebe Ministarstva obrane i Oružanih snaga, ako zakonom nije drukčije propisano«.
+
+#### Članak 2.
+
+U članku 16. stavku 1. iza točke 4. dodaju se točke 4.a i 4.b koje glase:
+
+»4.a sudjelovanje u izradi Godišnjeg izvješća o obrani
+
+4.b izradu Vojnih prioriteta Oružanih snaga«.
+
+Iza točke 31. dodaje se točka 31.a koja glasi:
+
+»31.a planiranje, definiranje, organiziranje, razvoj i nadzor sposobnosti Oružanih snaga za djelovanje u kibernetičkom prostoru«.
+
+#### Članak 3.
+
+U članku 26. stavku 2. riječi: »vojni obveznici« zamjenjuju se riječima: »državljani Republike Hrvatske«.
+
+U stavku 3. riječi: »vojni obveznici« zamjenjuju se riječima: »državljani Republike Hrvatske«.
+
+#### Članak 4.
+
+U članku 39. stavku 2. podstavku 4. riječi: »katastrofa, velikih nesreća i nesreća« zamjenjuju se riječima: »katastrofa i velikih nesreća«.
+
+#### Članak 5.
+
+U članku 59. stavku 1. riječi: »katastrofa, velikih nesreća i nesreća« zamjenjuju se riječima: »katastrofa i velikih nesreća«.
+
+U stavku 3. riječi: »i nesreća« brišu se.
+
+#### Članak 6.
+
+U članku 65. iza stavka 2. dodaje se novi stavak 3. koji glasi:
+
+»(3) Pojedine postrojbe ili namjenski organizirane snage iz Oružanih snaga mogu biti deklarirane u multinacionalne snage za odgovor koje se organiziraju u sklopu operacija i misija koje vode Ujedinjeni narodi.«.
+
+U dosadašnjem stavku 3., koji postaje stavak 4., riječi: »iz stavaka 1. i 2. ovoga članka« zamjenjuju se riječima: »iz stavaka 1., 2. i 3. ovoga članka«.
+
+U dosadašnjem stavku 4., koji postaje stavak 5., riječi: »iz stavaka 1. i 2. ovoga članka« zamjenjuju se riječima: »iz stavaka 1., 2. i 3. ovoga članka«.
+
+#### Članak 7.
+
+Iza članka 68. dodaje se članak 68.a koji glasi:
+
+»Članak 68.a
+
+(1) Radi razvoja zajedničkih obrambenih sposobnosti s državama saveznicama, u Republici Hrvatskoj mogu se osnivati međunarodna vojna zapovjedništva i druga vojna tijela.
+
+(2) Međunarodna vojna zapovjedništva i druga vojna tijela iz stavka 1. ovoga članka djeluju u skladu sa sklopljenim međunarodnim aktima i međunarodnim ugovorima.
+
+(3) U skladu sa stavkom 2. ovoga članka, uredbom Vlade uređuje se naziv, sjedište, organizacija i upravljanje međunarodnim vojnim zapovjedništvom odnosno drugim vojnim tijelom iz stavka 1. ovoga članka.«.
+
+#### Članak 8.
+
+Članak 94. mijenja se i glasi:
+
+»Klasificirani podaci obrane mogu se stvarati, obrađivati i prenositi informacijskim i komunikacijskim sustavima uz primjenu propisanih mjera zaštite klasificiranih podataka.«.
+
+#### Članak 9.
+
+U članku 96. stavak 1. mijenja se i glasi:
+
+»(1) Zabranjeno je neovlašteno motrenje, snimanje i pristup s kopna, mora i iz zraka vojnim lokacijama i građevinama posebno važnima za obranu i ostalim vojnim lokacijama i građevinama, osim vojnih lokacija i građevina koje se koriste zajedno s pravnim osobama u Republici Hrvatskoj.«.
+
+U stavku 5. riječi: »posebno važnih za obranu« zamjenjuju se riječima: »iz stavka 1. ovoga članka«.
+
+#### Članak 10.
+
+Članak 98. mijenja se i glasi:
+
+»(1) Pravne i fizičke osobe registrirane za djelatnost snimanja iz zraka mogu snimati područja u Republici Hrvatskoj nakon pribavljenog odobrenja za snimanje iz zraka.
+
+(2) Zahtjev za odobrenje za snimanje iz zraka i zahtjev za uporabu zračnih snimaka podnosi naručitelj snimanja odnosno pravna ili fizička osoba po ovlasti naručitelja snimanja.
+
+(3) O zahtjevima iz stavka 2. ovoga članka odlučuje tijelo državne uprave nadležno za geodetske poslove rješenjem protiv kojeg nije dopuštena žalba, ali se može pokrenuti upravni spor.
+
+(4) Odobrenje za snimanje iz zraka područja Republike Hrvatske na kojima se nalaze vojne lokacije i građevine iz članka 96. stavka 1. ovoga Zakona tijelo državne uprave nadležno za geodetske poslove izdaje uz prethodnu suglasnost Ministarstva obrane.
+
+(5) Popis i položaj vojnih lokacija i građevina iz stavka 4. ovoga članka Ministarstvo obrane dostavlja tijelu državne uprave nadležnom za geodetske poslove.
+
+(6) Naručitelj snimanja odnosno pravna ili fizička osoba koju ovlasti naručitelj snimanja dužna je zračne snimke prije uporabe, a najkasnije u roku od osam dana od dana snimanja, dostaviti na pregled tijelu državne uprave nadležnom za geodetske poslove.
+
+(7) Tijelo državne uprave nadležno za geodetske poslove u suradnji s Ministarstvom obrane pregledava zračne snimke iz stavka 4. ovoga članka te rješenjem određuje koje se snimke mogu rabiti u skladu s podnesenim zahtjevom odnosno koje se ne mogu javno objavljivati i ustupati drugim korisnicama ili koje je potrebno izuzeti.
+
+(8) Zračne snimke iz stavka 7. ovoga članka ne smiju se umnožavati, objavljivati, razmjenjivati putem interneta i iznositi iz Repub­like Hrvatske prije dobivanja odobrenja iz stavka 7. ovoga članka tijela državne uprave nadležnoga za geodetske poslove.
+
+(9) Naručitelj snimanja je vlasnik snimljenog materijala i odgovoran je za njegovu zaštitu i uporabu u skladu s izdanim odobrenjem.«.
+
+#### Članak 11.
+
+Članak 99. briše se.
+
+#### Članak 12.
+
+Članak 100. mijenja se i glasi:
+
+»Na prijedlog tijela državne uprave nadležnog za geodetske poslove, a uz prethodnu suglasnost Ministarstva obrane, Vlada donosi uredbu o snimanju iz zraka, kojom se uređuje snimanje iz zraka područja Republike Hrvatske.«.
+
+#### Članak 13.
+
+Članak 116. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 5.000,00 do 25.000,00 kuna kaznit će se za prekršaj županija i Grad Zagreb ako nisu izradili plan djelovanja u ratu i stanju neposredne ugroženosti (članak 81. stavci 2. i 3.).
+
+(2) Novčanom kaznom od 2.000,00 do 10.000,00 kuna kaznit će se i odgovorna osoba u županiji i Gradu Zagrebu za prekršaj iz stavka 1. ovoga članka.
+
+(3) Novčanom kaznom od 5.000,00 do 25.000,00 kuna kaznit će se za prekršaj pravna i fizička osoba:
+
+1. ako bez odobrenja sustavima bespilotnih zrakoplova motri, snima i pristupa s kopna, mora i iz zraka vojnim lokacijama i građevinama (članak 96. stavak 1.)
+
+2. ako bez odobrenja nadležnog tijela obavlja znanstvena ili druga istraživanja na područjima i lokacijama važnima za obranu Republike Hrvatske ili ako protivno zakonu rezultate istraživanja ustupi drugim osobama (članak 97. stavci 1. i 2.)
+
+3. ako snima iz zraka bez odobrenja, ako zračne snimke ne dostavi na pregled prije njihove uporabe te ako umnožava, objavljuje, razmjenjuje putem interneta i iznosi snimke iz Republike Hrvatske bez odobrenja (članak 98. stavci 1., 6. i 8.).«.
+
+#### Članak 14.
+
+Članak 117. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 5.000,00 do 15.000,00 kuna kaznit će se za prekršaj vlasnik odnosno korisnik vojne lokacije i građevine posebno važne za obranu ako ne postupa u skladu s uredbom Vlade koja propisuje kriterije za odabir, mjere za zaštitu te način označavanja lokacija i građevina iz članka 96. stavka 1. ovoga Zakona odnosno pravilnikom ministra obrane koji uređuje način osiguranja vojnih lokacija i građevina iz članka 96. stavka 1. ovoga Zakona (članak 96. stavci 4. i 5.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom od 2.000,00 do 10.000,00 kuna kaznit će se i odgovorna osoba vlasnika odnosno korisnika vojne lokacije i građevine iz članka 96. stavka 1. ovoga Zakona.«.
+
+#### Članak 15.
+
+Članak 118. mijenja se i glasi:
+
+»Novčanom kaznom od 3.000,00 do 10.000,00 kuna kaznit će se za prekršaj odgovorna osoba:
+
+1. ako ne ukloni neusklađenosti, provedbu mjera i radnji u skladu s planovima i drugim dokumentima, ako ne obustavi mjere i radnje koje nisu usklađene sa zakonom, planovima ili propisanim mjerama za obranu, ako ne podnese izvješće Inspektoratu, ako ne obustavi postupke i radnje kojima se dovode u opasnost životi i imovina (članak 88. podstavci 3., 4., 5. i 6.)
+
+2. ako stvara, obrađuje i prenosi klasificirane podatke informacijskim i komunikacijskim sustavima suprotno propisanim mjerama zaštite klasificiranih podataka (članak 94.)
+
+3. ako ne postupa s klasificiranim podacima obrane na propisan način (članak 95.).«.
+
+#### Članak 16.
+
+U članku 119. točka 2. mijenja se i glasi:
+
+»2. ako neovlašteno motri, snima i pristupa s kopna, mora i iz zraka vojnim lokacijama i građevinama posebno važnima za obranu i ostalim vojnim lokacijama i građevinama, osim vojnih lokacija i građevina koje se koriste zajedno s pravnim osobama u Republici Hrvatskoj (članak 96. stavak 1.).«.
+
+### PRIJELAZNA I ZAVRŠNA ODREDBA
+
+#### Članak 17.
+
+Provedbeni propisi doneseni na temelju ovlasti iz Zakona o obrani (»Narodne novine«, br. 73/13., 75/15., 27/16. i 110/17. – Odluka Ustavnog suda Republike Hrvatske i 30/18.) uskladit će se s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 18.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama« .
+
+Klasa: 022-03/19-01/85
+
+Zagreb, 12. srpnja 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopunama Zakona o obrani (NN 136/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/136/2011*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O OBRANI
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o obrani, koji je Hrvatski sabor donio na sjednici 24. listopada 2025.
+
+Klasa: 011-02/25-02/78
+
+Urbroj: 71-10-01/1-25-2
+
+Zagreb, 30. listopada 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O OBRANI**
+
+#### Članak 1.
+
+U Zakonu o obrani (»Narodne novine«, br. 73/13., 75/15., 27/16., 110/17. – Odluka Ustavnog suda Republike Hrvatske, 30/18., 70/19. i 155/23.) u članku 5. stavku 2. točka 6. briše se.
+
+Dosadašnja točka 7. postaje točka 6.
+
+#### Članak 2.
+
+U članku 6. stavak 2. mijenja se i glasi:
+
+»(2) Odbor iz stavka 1. ovoga članka daje mišljenje Ministarstvu obrane o nabavi za potrebe obrane za vrijednosti veće od 15.000.000,00 eura prije pokretanja postupka javne nabave.«.
+
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) O provedenim postupcima javne nabave za potrebe obrane za vrijednosti od 5.000.000,00 eura do 15.000.000,00 eura Ministarstvo obrane podnosi izvješće Odboru iz stavka 1. ovoga članka do 1. ožujka tekuće godine za prethodnu proračunsku godinu.«.
+
+#### Članak 3.
+
+U članku 8. točka 5. briše se.
+
+Dosadašnja točka 6. postaje točka 5.
+
+#### Članak 4.
+
+U članku 18. točka 2. briše se.
+
+Dosadašnje točke 3. do 7. postaju točke 2. do 6.
+
+#### Članak 5.
+
+Članak 19. mijenja se i glasi:
+
+»(1) Vojna obveza dužnost je svih za to sposobnih državljana Republike Hrvatske i obuhvaća osposobljavanje, pripremanje i sudjelovanje u obrani na organiziran način.
+
+(2) Vojna obveza nastaje u kalendarskoj godini u kojoj državljanin Republike Hrvatske navršava 18 godina života.«.
+
+#### Članak 6.
+
+Članak 20. mijenja se i glasi:
+
+»(1) Vojna obveza državljaninu Republike Hrvatske prestaje:
+
+– na kraju kalendarske godine u kojoj navršava 55 godina života (muškarac) odnosno 50 godina života (žena)
+
+– ako je ocijenjen nesposobnim za vojnu službu
+
+– na temelju otpusta iz hrvatskog državljanstva.
+
+(2) Iznimno od stavka 1. podstavka 1. ovoga članka, vojna obveza prestaje višim časnicima i generalima/admiralima posljednjeg dana kalendarske godine u kojoj navršavaju 65 godina života.«.
+
+#### Članak 7.
+
+Članak 21. mijenja se i glasi:
+
+»(1) Vojna obveza sastoji se od novačke obveze, temeljnog vojnog osposobljavanja odnosno civilne službe i služenja u pričuvnom sastavu Oružanih snaga.
+
+(2) Muškarac vojni obveznik podliježe novačkoj obvezi i obvezi temeljnog vojnog osposobljavanja odnosno civilne službe i obvezi služenja u pričuvnom sastavu u skladu s odredbama ovoga Zakona.
+
+(3) Žena vojna obveznica ne podliježe novačkoj obvezi, ali može dragovoljno pohađati temeljno vojno osposobljavanje i služiti u pričuvnom sastavu Oružanih snaga.
+
+(4) Način vođenja evidencije, obrazac vojne iskaznice i način izdavanja, pozivanja, prava i obveze te način izvršavanja vojne obveze pravilnikom propisuje ministar obrane.«.
+
+#### Članak 8.
+
+Iza članka 21. dodaju se članci 21.a do 21.z koji glase:
+
+»Članak 21.a
+
+(1) Vojni obveznik u pravilu izvršava vojnu obvezu u Oružanim snagama.
+
+(2) Stupanjem u Oružane snage vojni obveznik postaje vojnom osobom, a status vojne osobe gubi otpustom iz Oružanih snaga.
+
+(3) Vojni obveznik ima status vojne osobe:
+
+– pri dolasku u Oružane snage na putu od mjesta prebivališta odnosno boravišta do mjesta u koje se treba javiti nadležnom tijelu, a pri povratku na putu od mjesta u kojem je izvršio vojnu obvezu do mjesta prebivališta odnosno boravišta
+
+– ako boravi u inozemstvu pri dolasku u Oružane snage na putu od granice Republike Hrvatske do mjesta u koje se treba javiti nadležnom tijelu, a pri povratku na putu od mjesta u kojem je izvršio vojnu obvezu do granice Republike Hrvatske.
+
+#### Članak 21.b
+
+(1) Državljanin Republike Hrvatske uvodi se u vojnu evidenciju u kalendarskoj godini kada navrši 18 godina života.
+
+(2) Državljanin Republike Hrvatske koji iz bilo kojih razloga nije uveden u vojnu evidenciju u kalendarskoj godini u kojoj je navršio 18 godina života uvodi se u vojnu evidenciju do prestanka vojne obveze iz članka 20. ovoga Zakona.
+
+(3) Žena vojna obveznica uvodi se u vojnu evidenciju prilikom dragovoljne prijave na temeljno vojno osposobljavanje.
+
+(4) Evidenciju vojnih obveznika vodi:
+
+– područni odjel za poslove obrane za vojne obveznike s prebivalištem na području njegove nadležnosti
+
+– ustrojstvena jedinica Ministarstva obrane nadležna za vojnu obvezu za vojne obveznike koji nemaju prebivalište u Republici Hrvatskoj.
+
+#### Članak 21.c
+
+(1) Novak koji boravi u inozemstvu od rođenja ili je s roditeljima otišao boraviti u inozemstvo prije nastanka novačke obveze dužan je u kalendarskoj godini u kojoj navršava 18 godina života prijaviti se diplomatskoj misiji ili konzularnom uredu Republike Hrvatske radi uvođenja u vojnu evidenciju.
+
+(2) Novak koji boravi u inozemstvu i koji iz bilo kojeg razloga nije uveden u vojnu evidenciju u Republici Hrvatskoj dužan je prijaviti se nadležnoj diplomatskoj misiji odnosno konzularnom uredu Republike Hrvatske najkasnije do navršenih 29 godina života.
+
+(3) Za novaka koji je regulirao obvezu vojnog osposobljavanja u inozemstvu uz prijavu se dostavlja i potvrda nadležnog tijela države u kojoj je regulirao obvezu vojnog osposobljavanja.
+
+(4) Diplomatska misija odnosno konzularni ured Republike Hrvatske prijavu i dokumentaciju iz stavaka 1., 2. i 3. ovoga članka dostavlja ustrojstvenoj jedinici Ministarstva obrane nadležnoj za vojnu obvezu.
+
+#### Članak 21.d
+
+(1) Evidencija vojnih obveznika vodi se u pravilu u računalno-informacijskom sustavu, uz jedinstvenu primjenu elektroničke obrade podataka i na propisanim obrascima.
+
+(2) Vođenje vojne evidencije iz stavka 1. ovoga članka propisuje se pravilnikom iz članka 21. stavka 4. ovoga Zakona.
+
+(3) Vojni obveznik obvezan je nadležni područni odjel za poslove obrane obavijestiti o promjeni podataka u vezi sa zdravstvenim stanjem, zvanjem i stupnjem obrazovanja, zanimanjem i zaposlenjem te dostaviti dokaz o nastaloj promjeni u roku od 30 dana od nastanka promjene.
+
+(4) Prijava promjene iz stavka 3. ovoga članka može se dostaviti preporučenom pošiljkom odnosno elektroničkim putem nadležnom područnom odjelu za poslove obrane.
+
+(5) Novak koji se radi uvođenja u vojnu evidenciju prijavi diplomatskoj misiji odnosno konzularnom uredu Republike Hrvatske popunjava prijavu s potrebnim podacima.
+
+(6) Ministarstvo obrane putem Ministarstva unutarnjih poslova najmanje jedanput godišnje ažurira evidenciju prebivališta i boravišta vojnih obveznika.
+
+(7) Ako je novak, ročnik ili pričuvnik pravomoćno osuđen, prvostupanjski sud će prijepis pravomoćne osuđujuće presude dostaviti nadležnom područnom odjelu za poslove obrane u kojem se osuđenik vodi u vojnoj evidenciji.
+
+#### Članak 21.e
+
+(1) Pozivanje vojnog obveznika na izvršavanje vojne obveze provodi nadležni područni odjel za poslove obrane pojedinačnim i općim pozivom.
+
+(2) Opći poziv objavljuje se u sredstvima javnog priopćavanja ili na drugi prikladan način.
+
+(3) Pojedinačni poziv dostavlja se na adresu prebivališta ili boravišta vojnog obveznika i sadrži podatke o mjestu, vremenu i razlogu pozivanja.
+
+(4) Pojedinačni poziv, osim poziva za mobilizaciju, dostavlja se vojnom obvezniku u pravilu 30 dana prije početka izvršavanja vojne obveze.
+
+(5) Vojni obveznik kojeg nadležni područni odjel za poslove obrane pozove na izvršavanje vojne obveze obvezan je javiti se naznačenom tijelu u mjestu i vremenu navedenom u pojedinačnom ili općem pozivu, sa stvarima i ispravama navedenim u pozivu.
+
+(6) Vojni obveznik koji je zbog bolesti ili drugog opravdanog razloga spriječen doći na mjesto i u vrijeme određeno u pojedinačnom pozivu obvezan je u roku od tri dana od primitka poziva o tome obavijestiti područni odjel za poslove obrane koji mu je uputio poziv.
+
+(7) Osobu koja je podnijela zahtjev za otpust iz hrvatskog državljanstva ne poziva se na izvršavanje vojne obveze do izvršnosti rješenja kojim se odlučuje o zahtjevu za otpust, osim novaka koji u toj kalendarskoj godini navršava 30 godina života.
+
+#### Članak 21.f
+
+(1) Novačka obveza nastaje u kalendarskoj godini u kojoj državljanin Republike Hrvatske navršava 18 godina života i traje do stupanja na temeljno vojno osposobljavanje ili u civilnu službu odnosno isteka 30 godina života ili do prestanka vojne obveze u skladu s odredbama ovoga Zakona.
+
+(2) Za vrijeme novačke obveze novak podliježe uvođenju u vojnu evidenciju, zdravstvenom pregledu i psihologijskom ispitivanju, stupanju na temeljno vojno osposobljavanje odnosno u civilnu službu te odazivu na opći ili pojedinačni poziv.
+
+#### Članak 21.g
+
+(1) Nadležni područni odjel za poslove obrane poziva i upućuje novake na zdravstveni pregled i psihologijsko ispitivanje na temelju plana koji donosi ustrojstvena jedinica Ministarstva obrane nadležna za vojnu obvezu.
+
+(2) Na zdravstveni pregled i psihologijsko ispitivanje ne upućuju se novaci koji boluju od neizlječive bolesti, imaju tjelesne mane ili nedostatke odnosno nesposobni su za vojnu službu.
+
+(3) Zdravstveni pregled i psihologijsko ispitivanje vojnih obveznika provodi se u Ministarstvu obrane ili u zdravstvenim ustanovama i privatnim praksama medicine rada i sporta koje odlukom odredi ministar nadležan za zdravstvo i koju dostavlja Ministarstvu obrane.
+
+(4) Ocjena sposobnosti novaka za vojnu službu može biti:
+
+– sposoban za vojnu službu
+
+– nesposoban za vojnu službu.
+
+(5) Mjerila i postupke za ocjenu zdravstvene sposobnosti novaka i ročnika pravilnikom propisuje ministar obrane, uz prethodnu suglasnost ministra nadležnog za zdravstvo.
+
+(6) Metodologijske upute za provedbu zdravstvenih pregleda i psihologijskih ispitivanja s popisom bolesti i srodnih zdravstvenih problema donosi ministar nadležan za zdravstvo, uz suglasnost ministra obrane, i objavljuju se na mrežnim stranicama ministarstva nadležnog za zdravstvo i Ministarstva obrane.
+
+#### Članak 21.h
+
+(1) Ocjenu sposobnosti novaka za vojnu službu nadležni područni odjel za poslove obrane upisuje u vojnu iskaznicu i ostale evidencijske dokumente.
+
+(2) Osobu kojoj je prestala vojna obveza jer je ocijenjena nesposobnom za vojnu službu može se uputiti na revizijski pregled radi provjere sposobnosti za vojnu službu.
+
+(3) Osoba iz stavka 2. ovoga članka koja je na revizijskom pregledu ocijenjena sposobnom za vojnu službu podliježe temeljnom vojnom osposobljavanju do isteka 30 godina života odnosno obvezi služenja u pričuvnom sastavu ako je starija od 30 godina života.
+
+#### Članak 21.i
+
+(1) Na temeljno vojno osposobljavanje ne upućuje se novak:
+
+– koji je pravomoćno osuđen na kaznu maloljetničkog zatvora ili na kaznu zatvora koja nije zamijenjena uvjetnom osudom ili radom za opće dobro
+
+– kojem je izrečena mjera obveznog psihijatrijskog liječenja ili obveznog liječenja od ovisnosti i prisilnog smještaja u zdravstvenoj ustanovi
+
+– protiv kojeg je pokrenut kazneni postupak zbog kaznenog djela za koje se goni po službenoj dužnosti.
+
+(2) Novak iz stavka 1. ovoga članka upućuje se na temeljno vojno osposobljavanje nakon izdržane kazne zatvora, uvjetnog otpusta, obustave sigurnosne mjere odnosno nakon pravomoćno okončanog kaznenog postupka, a najkasnije do isteka 30 godina života.
+
+#### Članak 21.j
+
+(1) Obveze temeljnog vojnog osposobljavanja oslobađa se novak:
+
+– koji je ocijenjen nesposobnim za vojnu službu
+
+– koji se na temelju ugovora s Ministarstvom obrane najmanje dvije godine obrazovao za kadeta u Republici Hrvatskoj i inozemstvu, kojim stječe vojna znanja i vještine
+
+– koji je stekao hrvatsko državljanstvo naturalizacijom ili prirođenjem, ako je u državi čiji je državljanin bio regulirao obvezu vojnog osposobljavanja
+
+– koji osim hrvatskog ima i strano državljanstvo, a regulirao je obvezu vojnog osposobljavanja u inozemstvu
+
+– policijski službenik i policijski vježbenik Ministarstva unutarnjih poslova te učenik Programa srednjoškolskog obrazovanja kroz 3. i 4. razred za zanimanje policajac, polaznik Programa srednjoškolskog obrazovanja odraslih za zanimanje policajac i student stručnog prijediplomskog ili stručnog diplomskog studija na Veleučilištu kriminalistike i javne sigurnosti, nakon završenog oblika obrazovanja u Ministarstvu unutarnjih poslova, koji su podnijeli zahtjev za oslobađanje od obveze temeljnog vojnog osposobljavanja
+
+– službenik pravosudne policije, učenik Programa srednjoškolskog obrazovanja kroz 3. i 4. razred za zanimanje pravosudni policajac, polaznik temeljnog tečaja za službenike pravosudne policije za potrebe ministarstva nadležnog za poslove pravosuđa, nakon završenog oblika obrazovanja u ministarstvu nadležnom za pravosuđe ili Ministarstvu unutarnjih poslova, koji su podnijeli zahtjev za oslobađanje od obveze temeljnog vojnog osposobljavanja
+
+– zaređeni svećenik, đakon i redovnik koji se zavjetovao te osoba istoga statusa vjerskih zajednica u Republici Hrvatskoj, koji su podnijeli zahtjev za oslobađanje od obveze temeljnog vojnog osposobljavanja.
+
+(2) Osobe iz stavka 1. podstavaka 2. do 7. ovoga članka zahtjev za oslobađanje od obveze temeljnog vojnog osposobljavanja podnose nadležnom područnom odjelu za poslove obrane osobno, preporučenom pošiljkom odnosno elektroničkim putem.
+
+(3) Uz zahtjev za oslobađanje obveze temeljnog vojnog osposobljavanja osobe iz stavka 1. ovoga članka obvezne su priložiti dokaz o činjenicama na kojima temelje svoj zahtjev.
+
+(4) Nadležni područni odjel za poslove obrane o zahtjevu iz stavka 2. ovoga članka odlučuje odlukom.
+
+(5) Odluka iz stavka 4. ovoga članka mora biti obrazložena i sadržavati sve elemente rješenja propisane zakonom kojim se uređuje opći upravni postupak.
+
+(6) Protiv odluke iz stavka 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(7) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+#### Članak 21.k
+
+(1) Novak koji je upisan na visoko učilište u smislu zakona kojim se uređuje visoko obrazovanje i znanstvena djelatnost odmah nakon upisa, a najkasnije do 31. listopada tekuće godine obvezan je dostaviti nadležnom područnom odjelu za poslove obrane potvrdu o upisu u svaku akademsku godinu radi odgode upućivanja na temeljno vojno osposobljavanje, a najkasnije do 30. rujna kalendarske godine u kojoj novak navršava 29 godina života.
+
+(2) Novaku se zbog sudjelovanja na svjetskim i europskim prvenstvima, međunarodnim natjecanjima i državnim prvenstvima može, na osobni zahtjev i na zahtjev Hrvatskog olimpijskog odbora odnosno nacionalnog sportskog saveza, odgoditi temeljno vojno osposobljavanje najdulje do jedne godine, a najkasnije do 30. rujna kalendarske godine u kojoj novak navršava 29 godina života.
+
+(3) O zahtjevu za odgodu temeljnog vojnog osposobljavanja odlučuje nadležni područni odjel za poslove obrane odlukom.
+
+(4) Odluka iz stavka 3. ovoga članka mora biti obrazložena i sadržavati sve elemente rješenja propisane zakonom kojim se uređuje opći upravni postupak.
+
+(5) Protiv odluke iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(6) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+#### Članak 21.l
+
+(1) Temeljno vojno osposobljavanje može se odgoditi novaku na osobni zahtjev najdulje do 30. lipnja kalendarske godine u kojoj navršava 29 godina života.
+
+(2) Temeljno vojno osposobljavanje može se odgoditi novaku:
+
+– ako u njegovu kućanstvu nema drugog člana koji privređuje, najdulje godinu dana
+
+– ako se zaposlio u svojstvu vježbenika ili se prvi put zaposlio, do završetka vježbeničkog staža odnosno isteka probnog rada
+
+– ako su u njegovu kućanstvu samo članovi kojima je za svakodnevne životne potrebe prijeko potrebna pomoć i njega druge osobe, najdulje do 30. lipnja kalendarske godine u kojoj navršava 29 godina života
+
+– ako se iz njegova kućanstva u isto vrijeme na temeljno vojno osposobljavanje upućuju dva člana ili više njih odnosno ako je jedan od njih na temeljnom vojnom osposobljavanju, dok se drugi član kućanstva ne vrati s temeljnog vojnog osposobljavanja
+
+– ako ima određen datum za sklapanje braka, najdulje tri mjeseca
+
+– ako očekuje rođenje djeteta do odlaska na temeljno vojno osposobljavanje odnosno za vrijeme temeljnog vojnog osposobljavanja, najdulje godinu dana
+
+– ako je prije odlaska ili u vrijeme odlaska na temeljno vojno osposobljavanje nastupila smrt u njegovoj užoj obitelji, do idućeg roka za upućivanje
+
+– ako je otvorio obrt ili samostalnu djelatnost, najdulje godinu dana od dana registracije obrta ili djelatnosti.
+
+(3) Zahtjev za odgodu temeljnog vojnog osposobljavanja podnosi se nadležnom područnom odjelu za poslove obrane u roku od osam dana od dana primitka poziva za temeljno vojno osposobljavanje osobno, preporučenom pošiljkom odnosno elektroničkim putem.
+
+(4) Uz zahtjev za odgodu temeljnog vojnog osposobljavanja novak je dužan priložiti:
+
+– dokaz o nezaposlenosti ostalih članova obitelji
+
+– ugovor o radu odnosno rješenje o radnom odnosu odnosno potvrdu nadležnog tijela o prijavi zdravstvenog i mirovinskog osiguranja, ako odgodu traži zbog zaposlenja u svojstvu vježbenika
+
+– potvrdu ovlaštenog tijela za socijalnu skrb, ako su u njegovu kućanstvu samo članovi kojima je za svakodnevne životne potrebe prijeko potrebna pomoć i njega druge osobe
+
+– potvrdu matičnog ili vjerskog ureda o određenom datumu za sklapanje braka
+
+– izvadak iz matice umrlih
+
+– potvrdu o registraciji obrta ili djelatnosti
+
+– dokaz o trudnoći bračne ili izvanbračne supruge.
+
+(5) Uz zahtjev za odgodu temeljnog vojnog osposobljavanja u slučaju da su u isto vrijeme na temeljno vojno osposobljavanje pozvana dva člana istog kućanstva ili više njih odnosno ako se jedan od njih već nalazi na temeljnom vojnom osposobljavanju ne prilažu se dokazi, već to utvrđuje područni odjel za poslove obrane po službenoj dužnosti uvidom u evidenciju o vojnim obveznicima na temeljnom vojnom osposobljavanju.
+
+(6) Odluka o zahtjevu za odgodu temeljnog vojnog osposobljavanja sadrži dan, mjesec i godinu dokad se odgađa temeljno vojno osposobljavanje.
+
+#### Članak 21.lj
+
+(1) Novak može boraviti u inozemstvu do 30. lipnja kalendarske godine u kojoj navršava 29 godina života, a nakon toga se u roku od 30 dana mora javiti nadležnom područnom odjelu za poslove obrane.
+
+(2) Novaka iz stavka 1. ovoga članka područni odjel za poslove obrane upućuje na zdravstveni pregled i psihologijsko ispitivanje.
+
+(3) Novaka koji je ocijenjen sposobnim za vojnu službu područni odjel za poslove obrane upućuje na temeljno vojno osposobljavanje do isteka 30 godina života.
+
+#### Članak 21.m
+
+(1) Novaka se upućuje na temeljno vojno osposobljavanje u skladu s odlukom ministra obrane i planom upućivanja novaka u Oružane snage koji donosi ministar obrane.
+
+(2) Temeljno vojno osposobljavanje traje dva mjeseca.
+
+#### Članak 21.n
+
+(1) Novaka se upućuje na temeljno vojno osposobljavanje u kalendarskoj godini u kojoj navršava 19 godina života u skladu s brojem novaka koji odlukom određuje ministar obrane na temelju propisanih kriterija.
+
+(2) Kriteriji iz stavka 1. ovoga članka propisuju se pravilnikom iz članka 21.g stavka 5. ovoga Zakona.
+
+(3) Iznimno od stavka 1. ovoga članka, na temeljno vojno osposobljavanje upućuju se i novaci stariji od 19 godina, a najkasnije do isteka 30 godina života, u skladu s brojem novaka i kriterijima iz stavaka 1. i 2. ovoga članka.
+
+(4) Na temeljno vojno osposobljavanje mogu se uputiti i novaci koji se dragovoljno prijave na temeljno vojno osposobljavanje u skladu s brojem novaka i kriterijima iz stavka 1. ovoga članka, o čemu odluku donosi ustrojstvena jedinica Ministarstva obrane nadležna za vojnu obvezu.
+
+(5) Novak se na temeljno vojno osposobljavanje javlja u Oružane snage u vrijeme naznačeno u pozivu za temeljno vojno osposobljavanje.
+
+(6) Područni odjel za poslove obrane novaku povlači poziv za temeljno vojno osposobljavanje:
+
+– ako mu se odgodi temeljno vojno osposobljavanje u skladu s odredbama ovoga Zakona
+
+– ako je nesposoban za vojnu službu
+
+– ako dostavi dokaz da je u tekućoj godini upisan na visoko učilište
+
+– ako mu je u međuvremenu odobrena civilna služba.
+
+#### Članak 21.nj
+
+(1) Temeljno vojno osposobljavanje prekida se:
+
+– ročniku koji je ocijenjen nesposobnim za vojnu službu
+
+– ročniku protiv kojeg je pokrenut kazneni postupak za kazneno djelo koje se goni po službenoj dužnosti
+
+– ročniku zbog samovoljnog napuštanja postrojbe.
+
+(2) Odluku o prekidu temeljnog vojnog osposobljavanja, koja nije upravna stvar, donosi zapovjednik samostalne bojne, njemu ravne ili više razine.
+
+(3) Odluka iz stavka 2. ovoga članka upisuje se u vojnu iskaznicu i druge evidencijske dokumente.
+
+(4) Odluka o prekidu temeljnog vojnog osposobljavanja sadrži datum početka i datum prekida temeljnog vojnog osposobljavanja.
+
+(5) Odluka o prekidu temeljnog vojnog osposobljavanja donosi se na temelju:
+
+– odluke kojom je ročnik ocijenjen nesposobnim za vojnu službu
+
+– uvjerenja nadležnog suda da je protiv ročnika pokrenut kazneni postupak za kazneno djelo koje se goni po službenoj dužnosti
+
+– izvješća vojne policije o nemogućnosti dovođenja ročnika koji zbog samovoljnog napuštanja postrojbe odnosno neopravdanog izostanka izbiva iz postrojbe dulje od pet dana jer je nedostupan.
+
+#### Članak 21.o
+
+(1) Ročniku se može, na njegov zahtjev, prekinuti temeljno vojno osposobljavanje zbog smrti ili teške bolesti u obitelji odnosno zbog katastrofa ili velikih nesreća, ako je njegova obitelj zbog njegove odsutnosti dovedena u težak položaj, dok postoje razlozi, a najdulje jednu godinu.
+
+(2) Ročniku se može, na osobni zahtjev i na zahtjev ovlaštenog tijela odlukom, prekinuti temeljno vojno osposobljavanje zbog njegova sudjelovanja na svjetskom ili europskom sportskom natjecanju odnosno na Olimpijskim igrama.
+
+(3) Uz zahtjev za prekid temeljnog vojnog osposobljavanja ročnik prilaže:
+
+– potvrdu zdravstvene ustanove o teškoj bolesti u obitelji odnosno izvadak iz matice umrlih o smrti člana obitelji i mišljenje ovlaštenog tijela za socijalnu skrb da je zbog toga njegova obitelj dovedena u težak položaj, ako prekid temeljnog vojnog osposobljavanja traži zbog teškog položaja obitelji
+
+– mišljenje ovlaštenog tijela za socijalnu skrb da je njegova obitelj zbog katastrofa ili velikih nesreća dovedena u težak položaj, ako prekid temeljnog vojnog osposobljavanja traži zbog posljedica katastrofa ili velikih nesreća
+
+– mišljenje ovlaštenog tijela za socijalnu skrb da je njegova obitelj dovedena u težak položaj, ako prekid temeljnog vojnog osposobljavanja traži zbog drugih nesreća u svojoj obitelji.
+
+(4) Odluka o prekidu temeljnog vojnog osposobljavanja ročniku donosi se na temelju potvrde ovlaštenog tijela ako je riječ o sportašu koji je ispunio norme za sudjelovanje na svjetskom ili europskom natjecanju odnosno Olimpijskim igrama te se trajanje prekida temeljnog vojnog osposobljavanja određuje prema vremenu utvrđenom za pripreme za natjecanje i natjecanje.
+
+#### Članak 21.p
+
+(1) Ročnika kod kojeg je nastala promjena zdravstvenog stanja koja utječe na njegovu sposobnost za vojnu službu nadležni liječnik upućuje na ocjenu sposobnosti za vojnu službu.
+
+(2) Na temelju ocjene o zdravstvenoj nesposobnosti ročnika zapovjednik samostalne bojne, njemu ravne ili više razine donosi odluku o prekidu temeljnog vojnog osposobljavanja te u vojnu iskaznicu upisuje temelj i datum prekida temeljnog vojnog osposobljavanja i otpusta iz Oružanih snaga.
+
+#### Članak 21.r
+
+(1) Ročnika koji je imao prekid temeljnog vojnog osposobljavanja u skladu s odredbama ovoga Zakona nadležno zapovjedništvo ili postrojba u kojoj se nalazio na dan odsluženja odnosno prekida temeljnog vojnog osposobljavanja upućuje na dovršenje nakon prestanka razloga zbog kojih mu je prekinuto temeljno vojno osposobljavanje, a najkasnije do kraja kalendarske godine u kojoj navršava 30 godina života.
+
+(2) Iznimno od stavka 1. ovoga članka, ročnik se neće uputiti na dovršenje temeljnog vojnog osposobljavanja ako mu je do kraja temeljnog vojnog osposobljavanja ostalo manje od deset dana.
+
+(3) Ročnik koji je imao prekid temeljnog vojnog osposobljavanja zbog razloga navedenih u ovom Zakonu te nije regulirao obvezu temeljnog vojnog osposobljavanja u smislu stavaka 1. i 2. ovoga članka ponovno postaje novak i podliježe obvezama koje su propisane za novake.
+
+#### Članak 21.s
+
+U temeljno vojno osposobljavanje ne računa se vrijeme:
+
+– koje ročnik provede na liječenju i bolovanju zbog ozljede ili druge nesposobnosti izazvane u namjeri izbjegavanja vojne obveze
+
+– tijekom kojeg ročnik samovoljno i neopravdano izostane iz postrojbe najmanje 24 sata
+
+– koje ročnik provede u istražnom zatvoru.
+
+#### Članak 21.t
+
+(1) Ročnika koji je odslužio temeljno vojno osposobljavanje ili kojemu je prekinuto temeljno vojno osposobljavanje iz Oružanih snaga otpušta zapovjedništvo ili postrojba u kojoj se nalazio na dan odsluženja odnosno prekida temeljnog vojnog osposobljavanja.
+
+(2) Pri otpustu iz Oružanih snaga ročniku se uručuje vojna iskaznica u koju je upisan temelj i datum otpusta s temeljnog vojnog osposobljavanja.
+
+#### Članak 21.u
+
+(1) Na temeljno vojno osposobljavanje mogu se uputiti žene državljani Republike Hrvatske koje se prijave dragovoljno u nadležni područni odjel za poslove obrane najkasnije do 30. lipnja kalendarske godine u kojoj navršavaju 30 godina života.
+
+(2) Na temeljno vojno osposobljavanje mogu se uputiti i državljani Republike Hrvatske stariji od 30 godina, ako su kandidati za ugovorne pričuvnike, za vojne specijaliste ili za kasni prijam u djelatnu vojnu službu.
+
+(3) Postupak prijave i evidencije kandidata i upućivanje kandidata na temeljno vojno osposobljavanje te prava i obveze osoba na temeljnom vojnom osposobljavanju propisuje pravilnikom ministar obrane.
+
+#### Članak 21.v
+
+Odredbe ovoga Zakona kojima se uređuje temeljno vojno osposobljavanje i obveza civilne službe ne smatraju se diskriminacijom u smislu zakona kojim se uređuje suzbijanje diskriminacije.
+
+#### Članak 21.z
+
+(1) Tijela državne uprave i druga državna tijela te upravna tijela jedinica lokalne i područne (regionalne) samouprave obvezna su pri zapošljavanju na neodređeno vrijeme na temelju javnog natječaja i oglasa dati prednost nezaposlenoj osobi koja je završila temeljno vojno osposobljavanje ili dragovoljno vojno osposobljavanje i razvrstanom pričuvniku koji se poziva na službu u Oružane snage radi osposobljavanja i vježbi, pod jednakim uvjetima.
+
+(2) Prednost pri zapošljavanju iz stavka 1. ovoga članka može se ostvariti jednokratno, a ne mogu ga ostvarivati osobe kojima je radni odnos prestao otkazom zbog skrivljenog ponašanja radnika, otkazom radnika ili sporazumom.
+
+(3) Provedbu stavaka 1. i 2. ovoga članka nadzire upravna inspekcija.
+
+(4) Osoba koja smatra da joj je povrijeđeno pravo prednosti pri zapošljavanju može u roku od 30 dana od dana izjavljivanja žalbe na rješenje o prijmu u službu izabranog kandidata podnijeti predstavku upravnoj inspekciji radi provedbe inspekcijskog nadzora i upravna inspekcija obvezna je u roku od osam dana od dana primitka predstavke obavijestiti donositelja rješenja o prijmu u službu o pokretanju postupka inspekcijskog nadzora radi ostvarenja prava prednosti pri zapošljavanju.
+
+(5) Upravna inspekcija po provedbi inspekcijskog nadzora ovlaštena je u slučaju postojanja povrede prava prednosti pri zapošljavanju iz stavaka 1. i 2. ovoga članka donijeti rješenje kojim će ukinuti rješenje o prijmu u službu.
+
+(6) Protiv rješenja iz stavka 5. ovoga članka može se pokrenuti upravni spor pred nadležnim upravnim sudom.
+
+(7) Ako upravna inspekcija utvrdi da u postupku prijma nije izvršena povreda prava, izvješćuje podnositelja predstavke iz stavka 4. ovoga članka i čelnika tijela o rezultatima provedenog inspekcijskog nadzora.«.
+
+#### Članak 9.
+
+Članak 22. briše se.
+
+#### Članak 10.
+
+Članak 23. mijenja se i glasi:
+
+»Hrvatski sabor može donijeti odluku o nepozivanju novaka na temeljno vojno osposobljavanje.«.
+
+#### Članak 11.
+
+Članak 24. mijenja se i glasi:
+
+»(1) Osobama koje zbog svojih vjerskih ili moralnih nazora nisu pripravne sudjelovati u obavljanju vojničkih dužnosti u Oružanim snagama dopušten je prigovor savjesti i one su obveznici civilne službe.
+
+(2) Osobe iz stavka 1. ovoga članka civilnu službu obavljaju tri mjeseca u tijelu državne uprave nadležnom za civilnu zaštitu.
+
+(3) Obavljanje civilne službe iz stavka 2. ovoga članka počinje danom dolaska novaka u tijelo iz stavka 2. ovoga članka i od dana dolaska u tijelo novak postaje civilni ročnik.
+
+(4) Iznimno od stavka 2. ovoga članka, obveznici civilne službe mogu obavljati civilnu službu u jedinicama lokalne i područne (regionalne) samouprave, obavljajući poslove iz njihova samoupravnog djelokruga koji su u funkciji protupožarne i civilne zaštite, zaštite i unaprjeđenja prirodnog okoliša, komunalnoga gospodarstva i održavanja javnih cesta.
+
+(5) Civilna služba iz stavka 4. ovoga članka traje četiri mjeseca.
+
+(6) Osam sati provedenih u obavljanju civilne službe iz stavka 4. ovoga članka računa se kao jedan dan u civilnoj službi te civilni obveznik u pravilu obavlja civilnu službu u mjestu u kojem boravi, a ako to nije moguće, u mjestu koje je što bliže njegovu prebivalištu ili boravištu.
+
+(7) Upućivanje osoba iz stavaka 2. i 4. ovoga članka u civilnu službu određuje se u skladu s kriterijima iz članka 21.n stavka 2. ovoga Zakona te na temelju programa srednjeg obrazovanja koji su završili ili pohađaju i stečenih vještina i kompetencija u području zaštite i spašavanja, protupožarne zaštite i pružanja prve pomoći.
+
+(8) Način obavljanja civilne službe u tijelu državne uprave nadležnom za civilnu zaštitu i druga pitanja od važnosti za obavljanje civilne službe iz stavka 2. ovoga članka uredbom propisuje Vlada.
+
+(9) Poslove iz stavka 4. ovoga članka koje obavljaju obveznici civilne službe, način obavljanja poslova i druga pitanja od važnosti za obavljanje civilne službe i način financiranja uredbom propisuje Vlada.
+
+(10) Pravila obavljanja civilne službe iz stavka 2. ovoga članka i program osposobljavanja civilnih ročnika za stjecanje ključnih vještina i razine spremnosti obveznika civilne službe pravilnikom propisuje ministar nadležan za civilnu zaštitu.«.
+
+#### Članak 12.
+
+Iza članka 24. dodaju se članci 24.a do 24.r koji glase:
+
+»Članak 24.a
+
+(1) Nadležni područni odjel za poslove obrane dužan je novaka pri uvođenju u vojnu evidenciju upoznati s pravom da na temelju prigovora savjesti može podnijeti zahtjev za civilnu službu.
+
+(2) Zahtjev za civilnu službu nadležnom područnom odjelu za poslove obrane može podnijeti novak nakon ocjene sposobnosti za vojnu službu, ročnik i pričuvnik.
+
+(3) Uz zahtjev iz stavka 2. ovoga članka novak i ročnik obvezni su priložiti svjedodžbu o završenom srednjoškolskom obrazovanju odnosno potvrdu srednje škole koju pohađaju, ako još nisu završili srednjoškolsko obrazovanje te, ako posjeduju vještine i kompetencije iz članka 24. stavka 7. ovoga Zakona, dokaze kojima to dokazuju.
+
+(4) Zahtjev iz stavka 2. ovoga članka nadležni područni odjel za poslove obrane, uz ocjenu sposobnosti iz članka 21.g stavka 4. ovoga Zakona i dokumentaciju iz stavka 3. ovoga članka, dostavlja tijelu državne uprave nadležnom za civilnu zaštitu.
+
+#### Članak 24.b
+
+(1) Osoba iz članka 24.a stavka 2. ovoga Zakona dužna je u zahtjevu za civilnu službu učiniti uvjerljivim vjerske ili moralne razloge zbog kojih traži civilnu službu.
+
+(2) Prioritet pri upućivanju na obavljanje civilne službe u tijelo državne uprave nadležno za civilnu zaštitu može se dati osobama iz članka 24. stavka 1. ovoga Zakona koje su u skladu s kriterijima iz članka 21.n stavka 2. ovoga Zakona ocijenjene boljim ocjenama i osobama koje su na temelju programa srednjeg obrazovanja koje su završile odnosno koje pohađaju stekle znanja od interesa za sustav civilne zaštite ili posjeduju vještine i kompetencije iz članka 24. stavka 7. ovoga Zakona.
+
+(3) O zahtjevu iz stavka 1. ovoga članka tijelo državne uprave nadležno za civilnu zaštitu donosi rješenje na prijedlog povjerenstva za civilnu službu u roku od 30 dana od dana podnošenja urednog zahtjeva.
+
+(4) Povjerenstvo iz stavka 3. ovoga članka imenuje ministar nadležan za civilnu zaštitu iz reda državnih službenika tijela državne uprave nadležnog za civilnu zaštitu.
+
+(5) Pri odlučivanju o zahtjevu iz stavka 1. ovoga članka tijelo državne uprave nadležno za civilnu zaštitu zatražit će mišljenje nadležnog područnog odjela za poslove obrane koje ga je dužno dostaviti u roku od deset dana.
+
+(6) Protiv rješenja iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(7) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+(8) Rješenje iz stavka 2. ovoga članka dostavlja se tijelu u kojem će osoba obavljati civilnu službu, nadležnom područnom odjelu za poslove obrane i novaku.
+
+#### Članak 24.c
+
+Dužnosti obavljanja civilne službe oslobađa se novak:
+
+– koji je ocijenjen nesposobnim za vojnu službu
+
+– koji je stekao hrvatsko državljanstvo naturalizacijom ili prirođenjem, ako je u državi čiji je bio državljanin regulirao obvezu vojnog osposobljavanja ili civilnu službu
+
+– koji osim hrvatskog ima i strano državljanstvo, a regulirao je obvezu vojnog osposobljavanja ili civilnu službu u inozemstvu.
+
+#### Članak 24.d
+
+(1) Na obavljanje civilne službe ne upućuje se novak:
+
+– koji je pravomoćno osuđen na kaznu maloljetničkog zatvora ili kaznu zatvora koja nije zamijenjena uvjetnom osudom ili radom za opće dobro
+
+– kojem je izrečena mjera obveznog psihijatrijskog liječenja ili obveznog liječenja od ovisnosti i prisilnog smještaja u zdravstvenoj ustanovi
+
+– protiv kojeg je pokrenut kazneni postupak za kazneno djelo koje se goni po službenoj dužnosti.
+
+(2) Novak iz stavka 1. ovoga članka upućuje se na obavljanje civilne službe nakon izdržane kazne zatvora, uvjetnog otpusta, obustave sigurnosne mjere odnosno nakon pravomoćno okončanog kaznenog postupka, a najkasnije do isteka 30 godina života.
+
+#### Članak 24.e
+
+O postojanju smetnji iz članka 24.d stavka 1. ovoga Zakona za upućivanje novaka u civilnu službu nadležna tijela iz članka 24.d stavka 1. ovoga Zakona dužna su dostaviti pisanu obavijest tijelu državne uprave nadležnom za civilnu zaštitu.
+
+#### Članak 24.f
+
+Obavljanje civilne službe može se na zahtjev novaka odgoditi najdulje do jedne godine, a najkasnije do 30. lipnja kalendarske godine u kojoj novak navršava 29 godina života:
+
+– ako se zaposlio u svojstvu vježbenika ili se prvi put zaposlio, do završetka vježbeničkog staža odnosno isteka probnog rada
+
+– ako u njegovu kućanstvu nema drugog člana sposobnog za privređivanje, a prijeko je potrebno obaviti neodgodive poslove koji se bez njegove nazočnosti ne mogu obaviti bez znatne štete za kućanstvo, najdulje godinu dana
+
+– ako su u njegovu kućanstvu samo članovi kojima je za svakodnevne životne potrebe prijeko potrebna pomoć i njega druge osobe, najdulje do 30. lipnja kalendarske godine u kojoj navršava 29 godina života
+
+– ako se iz njegova kućanstva u isto vrijeme upućuju na temeljno vojno osposobljavanje ili obavljanje civilne službe dva člana ili više članova odnosno ako je neki od njih već na temeljnom vojnom osposobljavanju ili obavljanju civilne službe, dok se jedan od njih ne vrati s temeljnog vojnog osposobljavanja ili obavljanja civilne službe
+
+– ako ima određen datum za sklapanje braka, najdulje tri mjeseca
+
+– ako očekuje rođenje djeteta do odlaska u civilnu službu odnosno za vrijeme civilne službe, najdulje godinu dana
+
+– ako je otvorio obrt ili samostalnu djelatnost, najdulje godinu dana od dana registracije obrta ili djelatnosti.
+
+#### Članak 24.g
+
+(1) Novaku se na njegov zahtjev i na zahtjev Hrvatskog olimpijskog odbora odnosno nacionalnog sportskog saveza može odgoditi civilna služba najdulje do jedne godine, a najkasnije do 30. rujna kalendarske godine u kojoj novak navršava 29 godina života, zbog sudjelovanja na svjetskim i europskim prvenstvima, međunarodnim natjecanjima i državnim prvenstvima.
+
+(2) O zahtjevu za odgodu obavljanja civilne službe iz stavka 1. ovoga članka odlučuje tijelo državne uprave nadležno za civilnu zaštitu.
+
+(3) U slučaju odbijanja zahtjeva za odgodu obavljanja civilne službe tijelo državne uprave nadležno za civilnu zaštitu donosi rješenje.
+
+(4) Protiv rješenja iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(5) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+#### Članak 24.h
+
+(1) Novak upisan na visoko učilište u smislu zakona kojim se uređuje visoko obrazovanje i znanstvena djelatnost ne upućuje se na obavljanje civilne službe za vrijeme školovanja, najkasnije do 30. lipnja kalendarske godine u kojoj navršava 29 godina života.
+
+(2) Novak upisan na visoko učilište dužan je najkasnije do 31. listopada kalendarske godine dostaviti tijelu državne uprave nadležnom za civilnu zaštitu potvrdu o upisu odnosno o pohađanju visokog učilišta za tekuću akademsku godinu.
+
+(3) Novaka se na osobni zahtjev upućuje na obavljanje civilne službe u utvrđenom razdoblju tako da mu obavljanje civilne službe istekne do početka nastave u idućoj akademskoj godini na visokom učilištu na koje je upisan.
+
+#### Članak 24.i
+
+Tijelo državne uprave nadležno za civilnu zaštitu novaku će odbiti zahtjev za civilnu službu:
+
+– ako je pravomoćnom presudom utvrđeno da je podnositelj zahtjeva počinio kazneno djelo uporabom oružja
+
+– ako podnositelj zahtjeva posjeduje oružje, osim osoba koje imaju izdan oružni list za držanje oružja kao uspomene
+
+– ako podnositelj zahtjeva nije naveo traži li civilnu službu zbog vjerskih ili moralnih nazora, a to nije učinio ni u roku u kojem ga je tijelo državne uprave nadležno za civilnu zaštitu pozvalo da u tom smislu dopuni svoj zahtjev.
+
+#### Članak 24.j
+
+(1) Novak koji prije upućivanja u civilnu službu pisano izjavi da više ne odbija sudjelovati u obavljanju vojničkih dužnosti u Oružanim snagama upućuje se na temeljno vojno osposobljavanje.
+
+(2) Tijelo državne uprave nadležno za civilnu zaštitu u tom će slučaju ukinuti rješenje kojim je novaku usvojen zahtjev za civilnu službu, o čemu obavještava nadležni područni odjel za poslove obrane.
+
+(3) Protiv rješenja iz stavka 2. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(4) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+#### Članak 24.k
+
+(1) Ako je zahtjev za civilnu službu podnio ročnik tijekom temeljnog vojnog osposobljavanja odnosno pričuvnik nakon uručenja poziva za vojnu službu, tijelo državne uprave nadležno za civilnu zaštitu dužno je donijeti rješenje u roku od 30 dana od dana podnošenja urednog zahtjeva.
+
+(2) Ako tijelo državne uprave nadležno za civilnu zaštitu usvoji zahtjev za civilnu službu, ovlašteni zapovjednik dužan je odmah, a najkasnije u roku od osam dana od dana primitka rješenja tijela državne uprave nadležnog za civilnu zaštitu otpustiti ročnika iz Oružanih snaga.
+
+(3) Protiv rješenja iz stavka 1. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(4) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+#### Članak 24.l
+
+Obavljanje civilne službe prekida se civilnom ročniku:
+
+– kojeg je nadležno tijelo tijekom obavljanja civilne službe ocijenilo nesposobnim za vojnu službu
+
+– protiv kojega je pokrenut kazneni postupak za kaznena djela za koja se goni po službenoj dužnosti
+
+– koji samovoljno i neopravdano izostane s civilne službe neprekidno dulje od deset dana, ali ne dulje od 30 dana.
+
+#### Članak 24.lj
+
+(1) Rješenje o prekidu civilne službe donosi tijelo državne uprave nadležno za civilnu zaštitu.
+
+(2) Iznimno, obavljanje civilne službe ne prekida se civilnom ročniku koji je pravomoćnom presudom osuđen na kaznu maloljetničkog zatvora ili na kaznu zatvora do dvije godine i kojemu do kraja civilne službe nije ostalo više od 30 dana.
+
+(3) Protiv rješenja iz stavka 1. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(4) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+#### Članak 24.m
+
+(1) Civilnom ročniku koji je ocijenjen privremeno nesposobnim za vojnu službu može se jedanput prekinuti civilna služba.
+
+(2) Civilni ročnik kojemu bi i drugi put trebalo prekinuti civilnu službu zbog toga što je ocijenjen privremeno nesposobnim za vojnu službu prevodi se u pričuvu bez obzira na to koliko je vremena proveo na obavljanju civilne službe.
+
+(3) Civilni ročnik koji je imao prekid civilne službe u skladu s odredbama ovoga Zakona uputit će se na obavljanje civilne službe nakon prestanka razloga zbog kojih mu je prekinuto obavljanje civilne službe, a najkasnije do 30. lipnja kalendarske godine u kojoj navršava 29 godina života.
+
+(4) Civilnom ročniku može se, na osobni zahtjev, prekinuti obavljanje civilne službe zbog smrti ili teške bolesti u obitelji odnosno zbog katastrofa ili velikih nesreća, ako je njegova obitelj dovedena u težak položaj zbog njegove odsutnosti, dok postoje ti razlozi, a najdulje jednu godinu.
+
+#### Članak 24.n
+
+(1) Civilnom ročniku vrhunskom sportašu može se, na njegov zahtjev i na zahtjev Hrvatskog olimpijskog odbora odnosno nacionalnog sportskog saveza, prekinuti obavljanje civilne službe zbog sudjelovanja na svjetskim i europskim prvenstvima, međunarodnim natjecanjima i državnim prvenstvima do završetka natjecanja odnosno prvenstva.
+
+(2) O razlozima za prekid civilne službe civilni ročnik izvješćuje ovlaštenu osobu u tijelu u kojem obavlja civilnu službu, a zahtjev za prekid civilne službe podnosi tijelu državne uprave nadležnom za civilnu zaštitu koje o tome donosi odluku.
+
+(3) U slučaju odbijanja zahtjeva za prekid obavljanja civilne službe tijelo državne uprave nadležno za civilnu zaštitu donosi rješenje.
+
+(4) Protiv rješenja iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(5) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+(6) Odluku o upućivanju u civilnu službu civilnog ročnika kojem je prekinuto obavljanje civilne službe donosi tijelo državne uprave nadležno za civilnu zaštitu.
+
+(7) Odlukom iz stavka 6. ovoga članka određuje se vrijeme pristupanja daljnjem obavljanju civilne službe, trajanje civilne službe i tijelo u kojem će se obavljati civilna služba.
+
+(8) Civilnog ročnika kojemu je prekinuto obavljanje civilne službe tijelo državne uprave nadležno za civilnu zaštitu ne upućuje na obavljanje civilne službe ako mu je do kraja obavljanja civilne službe ostalo manje od 30 dana te se prevodi u pričuvu s danom prekida civilne službe.
+
+#### Članak 24.nj
+
+(1) U vrijeme obavljanja civilne službe ne ubraja se svaki dan samovoljnog i neopravdanog izostanka s civilne službe i svaki dan u kojem civilni ročnik neopravdano odbija obavljati poslove u tijelu u koje je upućen na obavljanje civilne službe.
+
+(2) Ako osoba bez opravdanog razloga ni osam dana otkad je to morala učiniti ne počne obavljati civilnu službu ili ako neopravdano izostane s civilne službe dulje od osam dana neprekidno, smatra se da je odustala od zahtjeva za civilnu službu.
+
+(3) Tijelo državne uprave nadležno za civilnu zaštitu donijet će rješenje o prestanku civilne službe i obavijestiti o tome nadležni područni odjel za poslove obrane koji će u prvom sljedećem uputnom roku osobu iz stavka 2. ovoga članka uputiti na temeljno vojno osposobljavanje.
+
+(4) Protiv rješenja iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(5) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+#### Članak 24.o
+
+Civilni ročnik dužan je pravodobno dolaziti u tijelo u kojem obavlja civilnu službu te savjesno obavljati poslove koji su mu povjereni, kao i pridržavati se uputa u radu osobe koja je zadužena za praćenje njegova rada.
+
+#### Članak 24.p
+
+(1) Civilni ročnik koji civilnu službu obavlja u tijelu državne uprave nadležnom za civilnu zaštitu za vrijeme civilne službe ima pravo na neoporezivu novčanu naknadu te na radnu i zaštitnu odjeću, smještaj i prehranu u skladu s uredbom iz članka 24. stavka 8. ovoga Zakona.
+
+(2) Civilni ročnik koji civilnu službu obavlja u jedinicama lokalne i područne (regionalne) samouprave ima pravo na neoporezivu novčanu naknadu u skladu s uredbom iz članka 24. stavka 9. ovoga Zakona.
+
+(3) Civilni ročnik za vrijeme obavljanja civilne službe ostvaruje pravo na zdravstvenu zaštitu, obvezno zdravstveno osiguranje i prava u slučaju stradanja, oboljenja ili pogoršanja bolesti za vrijeme civilne službe.
+
+(4) Civilni ročnik ima pravo na izvanredni dopust u trajanju od pet dana u slučaju sklapanja braka, rođenja djeteta, smrti člana uže obitelji i u drugim opravdanim slučajevima do pet dana.
+
+(5) Odluku o provedbi stavka 4. ovoga članka donosi ovlaštena osoba u tijelu za praćenje rada civilnog ročnika i o tome obavještava tijelo državne uprave nadležno za civilnu zaštitu.
+
+#### Članak 24.r
+
+(1) Evidenciju o obveznicima civilne službe vodi Ministarstvo obrane.
+
+(2) Obveznicima civilne službe iskaznicu civilne službe izdaje tijelo državne uprave nadležno za civilnu zaštitu.
+
+(3) Iskaznica iz stavka 2. ovoga članka javna je isprava kojom obveznik civilne službe dokazuje obavljanje civilne službe i svoj status dok je u civilnoj službi.«.
+
+#### Članak 13.
+
+Članak 25. mijenja se i glasi:
+
+»(1) Pričuvni sastav Oružanih snaga dijeli se na ugovornu i mobilizacijsku pričuvu, a mobilizacijska pričuva na nerazvrstanu i razvrstanu pričuvu.
+
+(2) Razvrstani pričuvnik je vojni obveznik koji je odslužio vojni rok, temeljno vojno osposobljavanje ili je bio na dragovoljnom vojnom osposobljavanju ili u djelatnoj vojnoj službi te mu je određena vojnostručna specijalnost.
+
+(3) Razvrstanim pričuvnicima, prema potrebama popune Oružanih snaga, određuje se i priopćava ratni raspored u Oružanim snagama te ih se prema utvrđenim planovima poziva na službu u Oružane snage radi osposobljavanja.
+
+(4) Osposobljavanje u smislu stavka 3. ovoga članka je održavanje vježbi i drugih aktivnosti utvrđenih ovim Zakonom.
+
+(5) Program osposobljavanja za razvrstane pričuvnike iz stavka 3. ovoga članka donosi načelnik Glavnog stožera, uz prethodnu suglasnost ministra obrane.
+
+(6) Razvrstane pričuvnike na osposobljavanje iz stavka 3. ovoga članka poziva nadležni područni odjel za poslove obrane na temelju zahtjeva Oružanih snaga.
+
+(7) Na osposobljavanje iz stavka 3. ovoga članka ne upućuju se trudnice, majke, samohrani roditelji odnosno skrbnici s jednim djetetom ili više djece mlađe od 14 godina te osobe koje se skrbe o nemoćnim osobama.
+
+(8) Način određivanja ratnog rasporeda i izdavanja osobne vojne opreme, način čuvanja, održavanja i vraćanja pravilnikom propisuje ministar obrane.«.
+
+#### Članak 14.
+
+Članak 25.a mijenja se i glasi:
+
+»(1) Obvezi služenja u pričuvnom sastavu podliježe:
+
+– vojni obveznik koji je odslužio temeljno vojno osposobljavanje
+
+– vojni obveznik koji je uspješno završio dragovoljno vojno osposobljavanje
+
+– vojni obveznik koji je odslužio vojni rok
+
+– djelatna vojna osoba nakon prestanka službe.
+
+(2) Uz osobe iz stavka 1. ovoga članka obvezi služenja u pričuvnom sastavu podliježe:
+
+– vojni obveznik uveden u vojnu evidenciju i stariji od 30 godina života koji nije odslužio temeljno vojno osposobljavanje ili nije završio program dragovoljnog vojnog osposobljavanja
+
+– žena vojna obveznica s navršenih 19 godina života koja ima odgovarajuće zvanje i stupanj obrazovanja za obavljanje stručnih i tehničkih poslova u Oružanim snagama i koja je uvedena u vojnu evidenciju kao nerazvrstani pričuvnik
+
+– vojni obveznik koji je na drugi način regulirao vojno osposobljavanje.
+
+(3) Nadležni područni odjel za poslove obrane pričuvnike iz stavka 2. ovoga članka može pozvati na službu u Oružane snage nakon ocjene sposobnosti za vojnu službu te odgovarajućeg vojnog osposobljavanja.
+
+(4) Pozivanje pričuvnika iz stavka 3. ovoga članka na službu u Oružane snage obavlja se na temelju naredbe ministra obrane.
+
+(5) Obvezi služenja u pričuvnom sastavu podliježu i ugovorni pričuvnici u skladu s pravilnikom iz članka 28. stavka 3. ovoga Zakona.«.
+
+#### Članak 15.
+
+Članak 25.b mijenja se i glasi:
+
+»U ratnom stanju i stanju neposredne ugroženosti pričuvnike se poziva u Oružane snage radi mobilizacije.«.
+
+#### Članak 16.
+
+Iza članka 25.b dodaju se članci 25.c do 25.o koji glase:
+
+»Članak 25.c
+
+(1) Zapovjedništvo ili postrojba Oružanih snaga podnosi ustrojstvenoj jedinici Ministarstva obrane nadležnoj za vojnu obvezu izvješće o sudjelovanju pričuvnika na osposobljavanju na propisanom obrascu.
+
+(2) Zapovjedništvo ili postrojba Oružanih snaga dostavlja izvode iz službenih ocjena razvrstanog pričuvnika nadležnom područnom odjelu za poslove obrane, koji izvod ulaže u dosje pričuvnika.
+
+#### Članak 25.d
+
+(1) Razvrstanog pričuvnika kod kojeg je došlo do promjene zdravstvenog stanja nadležni područni odjel za poslove obrane upućuje odmah, a najkasnije u roku od osam dana nadležnoj liječničkoj komisiji na ocjenu sposobnosti za vojnu službu.
+
+(2) Nadležna liječnička komisija iz stavka 1. ovoga članka donosi odluku o ocjeni sposobnosti razvrstanog pričuvnika na temelju zdravstvene dokumentacije.
+
+(3) Ako zdravstvena dokumentacija nije dostatna za donošenje ocjene sposobnosti za vojnu službu, nadležna liječnička komisija od razvrstanog pričuvnika iz stavka 1. ovoga članka zatražit će dodatnu dokumentaciju.
+
+(4) Nadležna liječnička komisija upisuje ocjenu sposobnosti u vojnu iskaznicu razvrstanog pričuvnika.
+
+(5) U skladu s utvrđenim zdravstvenim stanjem i potrebama Oružanih snaga nadležni područni odjel za poslove obrane može razvrstanom pričuvniku odrediti drugi rod odnosno struku.
+
+#### Članak 25.e
+
+(1) Razvrstanom pričuvniku može se, na njegov zahtjev, odgoditi osposobljavanje zbog opravdanih obiteljskih i drugih razloga.
+
+(2) Zahtjev za odgodu osposobljavanja podnosi se nadležnom područnom odjelu za poslove obrane u roku od osam dana od dana primitka poziva za osposobljavanje ili kada nastane razlog zbog kojeg se traži odgoda osposobljavanja.
+
+(3) O zahtjevu za odgodu osposobljavanja odlučuje nadležni područni odjel za poslove obrane odlukom.
+
+(4) Odluka iz stavka 3. ovoga članka mora biti obrazložena i sadržavati sve elemente rješenja propisane zakonom kojim se uređuje opći upravni postupak.
+
+(5) Protiv odluke iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(6) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+(7) Odluku iz stavka 3. ovoga članka nadležni područni odjel za poslove obrane dostavlja podnositelju zahtjeva i postrojbi ili zapovjedništvu Oružanih snaga u kojoj podnositelj zahtjeva ima ratni raspored.
+
+#### Članak 25.f
+
+(1) Osposobljavanje se odgađa razvrstanom pričuvniku:
+
+– ako je bolestan, do idućeg pozivanja nakon ozdravljenja
+
+– ako se iz njegova kućanstva u isto vrijeme pozivaju na osposobljavanje dva člana ili više članova odnosno ako se neki od njih već nalazi na osposobljavanju ili na temeljnom vojnom osposobljavanju, dok se drugi član kućanstva ne vrati s osposobljavanja ili s temeljnog vojnog osposobljavanja
+
+– ako u vrijeme osposobljavanja polaže ispite ili ako bi odlaskom na osposobljavanje bio spriječen završiti akademsku godinu, dok takav razlog postoji
+
+– ako bi zbog smrti ili teške bolesti u kućanstvu odnosno zbog katastrofa ili velikih nesreća kućanstvo bilo dovedeno u težak položaj njegovim odlaskom na osposobljavanje, dok takvo stanje u kućanstvu traje, najdulje godinu dana
+
+– ako je neposredno prije odlaska ili u vrijeme odlaska na osposobljavanje nastupila smrt u njegovu kućanstvu ili obitelji, do idućeg pozivanja na osposobljavanje
+
+– ako koristi rodiljni ili roditeljski dopust, dok takav razlog postoji
+
+– ako ima određen datum za sklapanje braka u vrijeme održavanja osposobljavanja, do idućeg pozivanja na osposobljavanje.
+
+(2) Osposobljavanje koje traje dulje od tri dana može se iznimno odgoditi zbog neodgodivih potreba službe, ako to zatraži tijelo državne uprave, jedinica lokalne i područne (regionalne) samouprave ili pravna osoba kod koje je pričuvnik zaposlen, dok takva potreba postoji, najdulje tri mjeseca.
+
+(3) Osposobljavanje koje traje dulje od tri dana može se iznimno odgoditi poljoprivredniku i drugoj osobi koja samostalno obavlja gospodarsku djelatnost zbog neodgodivih poslova ili radova, ako u njegovu kućanstvu nema drugog člana sposobnog za privređivanje, najdulje tri mjeseca.
+
+(4) Uz zahtjev za odgodu osposobljavanja nadležnom područnom odjelu za poslove obrane pričuvnik je dužan priložiti:
+
+– potvrdu izabranog doktora medicine primarne zdravstvene zaštite koja sadrži zdravstvenu dijagnozu i mišljenje o sposobnosti pričuvnika za osposobljavanje, ako se odgoda traži zbog bolesti pričuvnika
+
+– pisani dokaz visokog učilišta o tome da bi pričuvnik odlaskom na osposobljavanje u vrijeme kada je pozvan bio spriječen pristupiti polaganju ispita i ako bi dolaskom na osposobljavanje bio spriječen završiti akademsku godinu, ako se odgoda traži zato što se nalazi na školovanju
+
+– liječnički nalaz o teškoj bolesti ili izvadak iz matice umrlih odnosno mišljenje nadležnog tijela za socijalnu skrb o posljedicama katastrofa ili velikih nesreća, ako se odgoda traži zbog smrti člana obitelji ili kućanstva, zbog teške bolesti člana kućanstva ili štete uzrokovane katastrofom ili velikom nesrećom odnosno drugom nesrećom zbog koje bi kućanstvo pričuvnika bilo dovedeno u težak položaj
+
+– potvrdu ustanove zdravstvenog osiguranja o korištenju rodiljnog ili roditeljskog dopusta za muškarca
+
+– potvrdu matičnog ili vjerskog ureda da pričuvnik ima određen datum za sklapanje braka
+
+– ako poljoprivrednik ili druga osoba koja samostalno obavlja gospodarsku djelatnost traži odgodu osposobljavanja zbog neodgodivih poljoprivrednih radova odnosno gospodarske djelatnosti, uz zahtjev prilaže dokaz da u njegovu kućanstvu nema drugog člana sposobnog za obavljanje poljoprivrednih radova odnosno gospodarske djelatnosti koji bi ga mogao zamijeniti dok traje osposobljavanje.
+
+(5) Uz zahtjev pričuvnika za odgodu osposobljavanja zato što su iz njegova kućanstva u isto vrijeme pozvana na osposobljavanje dva člana ili više članova ili se jedan član već nalazi na osposobljavanju odnosno temeljnom vojnom osposobljavanju kada je na snazi obveza temeljnog vojnog osposobljavanja ne prilažu se dokazi, već nadležni područni odjel za poslove obrane po službenoj dužnosti utvrđuje te činjenice uvidom u evidenciju o vojnim obveznicima pozvanim na osposobljavanje odnosno temeljno vojno osposobljavanje.
+
+(6) Ako odgodu osposobljavanja zbog neodgodivih potreba službe traži tijelo državne uprave, jedinica lokalne i područne (regionalne) samouprave ili pravna osoba kod koje je pričuvnik zaposlen, uz zahtjev za odgodu osposobljavanja prilaže se obrazloženje o tome zašto se traži odgoda osposobljavanja.
+
+#### Članak 25.g
+
+(1) Nadležni područni odjel za poslove obrane neće pozvati na osposobljavanje pričuvnika iz mjesta u kojem se pojavila zarazna bolest, o čemu izvješćuje postrojbu odnosno zapovjedništvo Oružanih snaga koje je podnijelo zahtjev za pozivanje pričuvnika na osposobljavanje.
+
+(2) Podatke o vrsti i širenju zarazne bolesti nadležni područni odjel za poslove obrane pribavlja od nadležne epidemiološke službe.
+
+#### Članak 25.h
+
+(1) Pričuvnik koji ima ratni raspored i odlazi u inozemstvo na boravak dulji od 90 dana obvezan je prijaviti se nadležnom područnom odjelu za poslove obrane u kojem se vodi u evidenciji vojnih obveznika.
+
+(2) Pričuvniku kojem je dostavljen poziv za izvršavanje vojne obveze nije dopušteno putovanje i odlazak na boravak u inozemstvo za vrijeme izvršenja vojne obveze.
+
+#### Članak 25.i
+
+(1) Za vrijeme službe u Oružanim snagama radnopravni status pričuvnika koji je u radnom odnosu uređuje se zakonom kojim se uređuju radni odnosi.
+
+(2) Pričuvnik pozvan na službu u Oružane snage ima pravo na novčanu naknadu i na naknadu putnih troškova za vrijeme provedeno u službi u Oružanim snagama.
+
+(3) Visina i način isplate naknada iz stavka 2. ovoga članka propisuju se pravilnikom iz članka 21. stavka 4. ovoga Zakona.
+
+#### Članak 25.j
+
+(1) Vojni obveznik koji je zbog izvršavanja vojne obveze pozvan na službu u Oružane snage ima pravo na naknadu troškova za prijevoz sredstvima javnog prijevoza te osiguran smještaj i prehranu.
+
+(2) Vojni obveznik ima pravo na naknadu troškova javnog prijevoza u visini cijene karte najjeftinijeg javnog prijevoza, i to pri dolasku u Oružane snage od mjesta prebivališta ili boravišta do mjesta u kojem se treba javiti nadležnom tijelu, a pri povratku od mjesta u kojem je izvršavao vojnu obvezu do mjesta prebivališta ili boravišta.
+
+(3) Vojni obveznik koji je zaposlen, a pozvan je na izvršavanje vojne obveze ima prava i dužnosti iz radnog odnosa u skladu s odredbama zakona kojim se uređuju radni odnosi.
+
+(4) Pričuvniku koji ostvaruje pravo na mirovinu ili novčanu naknadu zbog privremene nezaposlenosti pripada mirovina odnosno novčana naknada i dok izvršava vojnu obvezu.
+
+#### Članak 25.k
+
+(1) Nerazvrstani pričuvnik je vojni obveznik uveden u vojnu evidenciju, stariji od 30 godina, kojemu nije određena vojnostručna specijalnost.
+
+(2) Nerazvrstani pričuvnik može biti pozvan na službu u Oružane snage nakon ocjene sposobnosti za vojnu službu i odgovarajućeg vojnog osposobljavanja.
+
+(3) Program vojnog osposobljavanja nerazvrstanih pričuvnika iz stavka 2. ovoga članka donosi načelnik Glavnog stožera, uz prethodnu suglasnost ministra obrane.
+
+#### Članak 25.l
+
+(1) Vojna iskaznica je javna isprava kojom vojni obveznik dokazuje identitet dok izvršava vojnu obvezu.
+
+(2) Vojnom iskaznicom svoj status dokazuje:
+
+– ročnik na temeljnom vojnom osposobljavanju
+
+– pričuvnik tijekom služenja u pričuvnom sastavu.
+
+(3) Vojnu iskaznicu izdaje nadležni područni odjel za poslove obrane koji vojnog obveznika vodi u evidenciji.
+
+(4) Iznimno od stavka 3. ovoga članka, ročnicima i pričuvnicima koji izgube vojnu iskaznicu ili na drugi način ostanu bez nje vojnu iskaznicu izdaje postrojba Oružanih snaga razine samostalne bojne, njoj ravne ili više razine.
+
+(5) Vojna iskaznica izdaje se:
+
+– novaku prilikom pozivanja na temeljno vojno osposobljavanje
+
+– kadetu i stipendistu nakon sklapanja ugovora.
+
+(6) Serija i broj vojne iskaznice upisuju se u očevidnik i osobni karton.
+
+(7) Vojnu iskaznicu potpisuje i ovjerava nadležna osoba Ministarstva obrane, a potpisuje ju i njezin imatelj.
+
+#### Članak 25.lj
+
+(1) Vojni obveznik koji izgubi vojnu iskaznicu ili na drugi način ostane bez nje obvezan je u roku od osam dana od dana nestanka vojne iskaznice gubitak prijaviti nadležnom područnom odjelu za poslove obrane koji ga vodi u evidenciji.
+
+(2) Nadležni područni odjel za poslove obrane iz stavka 1. ovoga članka vojnom obvezniku izdaje novu vojnu iskaznicu.
+
+(3) Podaci o ratnom rasporedu u vojnoj iskaznici klasificirani su podaci.
+
+#### Članak 25.m
+
+(1) Civilni ročnik koji obavi civilnu službu postaje civilni pričuvnik, a tijelo u kojem je civilni ročnik obavio civilnu službu o tome će dostaviti pisanu obavijest Ministarstvu obrane koje donosi odluku o prevođenju civilnog ročnika u pričuvni sastav te o tome obavještava tijelo državne uprave nadležno za civilnu zaštitu.
+
+(2) Obvezi obavljanja civilne službe u pričuvnom sastavu podliježu osobe koje su obavile civilnu službu kao civilni ročnici i osobe koje su na drugi način regulirale vojnu obvezu, a dobile su status civilnog pričuvnika.
+
+(3) Pripadnici pričuvnog sastava iz stavka 1. ovoga članka obveznici su civilne zaštite i sudjeluju u raznim oblicima njihove obveze, a u slučaju katastrofa ili velikih nesreća te ratnog stanja ili stanja neposredne ugroženosti obavljaju poslove na koje ih rasporede nadležna tijela državne uprave za obranu i civilnu zaštitu.
+
+#### Članak 25.n
+
+Civilni pričuvnik koji je zaposlen, dok izbiva s posla zbog civilne službe ostvaruje prava na naknadu troškova prijevoza sredstvima javnog prijevoza, smještaj i prehranu te prava iz radnog odnosa kao i pričuvnik koji izbiva s posla zbog vojne obveze.
+
+#### Članak 25.nj
+
+(1) Civilnom pričuvniku na njegov zahtjev tijelo državne uprave nadležno za civilnu zaštitu odgađa civilnu službu:
+
+– u slučaju bolesti, do idućeg pozivanja nakon ozdravljenja
+
+– ako je neposredno prije odlaska ili u vrijeme odlaska u civilnu službu nastupila teška bolest ili smrt člana obitelji odnosno zbog katastrofa ili velikih nesreća odnosno drugih nesreća u obitelji, do idućeg poziva u civilnu službu
+
+– ako bi obitelj bila dovedena u težak položaj njegovim odlaskom u civilnu službu, do idućeg poziva u civilnu službu.
+
+(2) Civilna služba može se iznimno odgoditi zbog potreba službe, ako to zatraži tijelo ili pravna osoba u kojoj je civilni pričuvnik zaposlen, dok takva potreba postoji, a najdulje do jedne godine.
+
+(3) O zahtjevu za odgađanje obavljanja civilne službe odlučuje rješenjem tijelo državne uprave nadležno za civilnu zaštitu.
+
+(4) Protiv rješenja iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+
+(5) Visoki upravni sud Republike Hrvatske mora donijeti odluku o tužbi u roku od 90 dana od dana njezina zaprimanja.
+
+#### Članak 25.o
+
+Novaka, civilnog ročnika i civilnog pričuvnika kod kojega je nastala promjena zdravstvenog stanja koja utječe na njegovu sposobnost za civilnu službu može na njegov zahtjev i po službenoj dužnosti nadležni područni odjel za poslove obrane uputiti na ocjenu sposobnosti za vojnu službu.«.
+
+#### Članak 17.
+
+Naslov iznad članka 26. i članak 26. brišu se.
+
+#### Članak 18.
+
+Članak 27. mijenja se i glasi:
+
+»(1) Ministarstvo obrane može s razvrstanim pričuvnikom koji je odslužio vojni rok, temeljno vojno osposobljavanje ili je bio na dragovoljnom vojnom osposobljavanju sklopiti ugovor na temelju kojega ima i druga prava i obveze u vezi sa služenjem u pričuvnom sastavu Oružanih snaga.
+
+(2) Pričuvnik iz stavka 1. ovoga članka mora ispunjavati opće i posebne uvjete propisane za prijam u djelatnu vojnu službu, osim uvjeta dobi.
+
+(3) Iznimno od stavaka 1. i 2. ovoga članka, Ministarstvo obrane može s nerazvrstanim pričuvnikom sklopiti ugovor iz stavka 1. ovoga članka.«.
+
+#### Članak 19.
+
+U članku 28. stavak 2. mijenja se i glasi:
+
+»(2) Pozivanje ugovornih pričuvnika provodi se putem nadležnog područnog odjela za poslove obrane.«.
+
+#### Članak 20.
+
+U članku 33. stavku 2. riječi: »nadležne ustrojstvene jedinice Ministarstva obrane« zamjenjuju se riječima: »nadležnog područnog odjela za poslove obrane«.
+
+#### Članak 21.
+
+Članak 35. mijenja se i glasi:
+
+»(1) Obveznik iz članka 18. ovoga Zakona mora se na poziv nadležnog područnog odjela za poslove obrane javiti na mjesto i u vremenu utvrđenom općim ili pojedinačnim pozivom.
+
+(2) U pozivu iz stavka 1. ovoga članka navodi se upozorenje kojim se poziva obveznika da mu, ako se ne odazove pozivu ili ne opravda svoj izostanak, može biti izrečena novčana kazna propisana ovim Zakonom.
+
+(3) Ako se osoba iz stavka 1. ovoga članka ne odazove pozivu i ne opravda svoj izostanak, nadležni područni odjel za poslove obrane pokrenut će prekršajni postupak.
+
+(4) Kažnjavanje u prekršajnom postupku obveznika iz stavka 1. ovoga članka ne isključuje ispunjavanje obveza koje obveznik iz stavka 1. ovoga članka ima u skladu s odredbama ovoga Zakona.«.
+
+#### Članak 22.
+
+U članku 35.a stavku 2. riječi: »nadležnoj ustrojstvenoj jedinici Ministarstva obrane« zamjenjuju se riječima: »nadležnom područnom odjelu za poslove obrane«.
+
+#### Članak 23.
+
+U članku 36. stavku 1. riječi: »Nadležne ustrojstvene jedinice Ministarstva obrane« zamjenjuju se riječima: »Nadležni područni odjeli za poslove obrane«.
+
+U stavku 2. riječi: »nadležne ustrojstvene jedinice Ministarstva obrane« zamjenjuju se riječima: »nadležni područni odjeli za poslove obrane«.
+
+#### Članak 24.
+
+U članku 37. riječi: »nadležno tijelo Ministarstva obrane« zamjenjuju se riječima: »nadležni područni odjel za poslove obrane«.
+
+#### Članak 25.
+
+U članku 43. stavku 2. riječi: »dragovoljnom vojnom osposobljavanju«, zamjenjuju se riječima: »temeljnom vojnom osposobljavanju«.
+
+Stavak 3. briše se.
+
+Dosadašnji stavak 4., koji postaje stavak 3., mijenja i glasi:
+
+»(3) Ratni sastav Oružanih snaga, uz osobe iz stavka 2. ovoga članka, čine i vojni obveznici mobilizirani u Oružane snage.«.
+
+#### Članak 26.
+
+Članak 116. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 1000,00 eura do 10.000,00 eura kaznit će se za prekršaj županija i Grad Zagreb ako nisu izradili plan djelovanja u ratu i stanju neposredne ugroženosti (članak 81. stavci 2. i 3.).
+
+(2) Novčanom kaznom od 500,00 eura do 5000,00 eura kaznit će se i odgovorna osoba u županiji i Gradu Zagrebu za prekršaj iz stavka 1. ovoga članka.
+
+(3) Novčanom kaznom od 1000,00 eura do 6630,00 eura kaznit će se za prekršaj pravna i fizička osoba:
+
+1. ako bez odobrenja sustavima bespilotnih zrakoplova motri, snima i pristupa s kopna, mora i iz zraka vojnim lokacijama i građevinama (članak 96. stavak 1.)
+
+2. ako bez odobrenja nadležnog tijela provodi znanstvena ili druga istraživanja na područjima i lokacijama važnima za obranu Republike Hrvatske ili ako protivno zakonu rezultate istraživanja ustupi drugim osobama (članak 97. stavci 1. i 2.)
+
+3. ako snima iz zraka bez odobrenja, ako zračne snimke ne dostavi na pregled prije njihove uporabe te ako umnožava, objavljuje, razmjenjuje putem interneta i iznosi snimke iz Republike Hrvatske bez odobrenja (članak 98. stavci 1., 6. i 8.).
+
+(4) Tko ponovi prekršaj iz stavaka 1., 2. i 3. ovoga članka, kaznit će se novčanom kaznom propisanom za taj prekršaj uvećanom za iznos od 1000,00 eura.«.
+
+#### Članak 27.
+
+Članak 117. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 1000,00 eura do 6630,00 eura kaznit će se za prekršaj vlasnik odnosno korisnik vojne lokacije i građevine posebno važne za obranu ako ne postupa u skladu s uredbom Vlade kojom se propisuju kriteriji za odabir, mjere za zaštitu te način označavanja lokacija i građevina iz članka 96. stavka 1. ovoga Zakona odnosno pravilnikom ministra obrane kojim se uređuje način osiguranja vojnih lokacija i građevina iz članka 96. stavka 1. ovoga Zakona (članak 96. stavci 4. i 5.).
+
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom od 500,00 eura do 5000,00 eura kaznit će se i odgovorna osoba vlasnika odnosno korisnika vojne lokacije i građevine iz članka 96. stavka 1. ovoga Zakona.
+
+(3) Tko ponovi prekršaj iz stavaka 1. i 2. ovoga članka, kaznit će se novčanom kaznom propisanom za taj prekršaj uvećanom za iznos od 1000,00 eura.«.
+
+#### Članak 28.
+
+Članak 118. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 500,00 eura do 5000,00 eura kaznit će se za prekršaj odgovorna osoba:
+
+1. ako ne ukloni neusklađenosti, provedbu mjera i radnji u skladu s planovima i drugim dokumentima, ako ne obustavi mjere i radnje koje nisu usklađene sa zakonom, planovima ili propisanim mjerama za obranu, ako ne podnese izvješće Inspektoratu, ako ne obustavi postupke i radnje kojima se dovode u opasnost životi i imovina (članak 88. stavci 3., 4., 5. i 6.)
+
+2. ako stvara, obrađuje i prenosi klasificirane podatke informacijskim i komunikacijskim sustavima suprotno propisanim mjerama zaštite klasificiranih podataka (članak 94.)
+
+3. ako ne postupa s klasificiranim podacima obrane na propisani način (članak 95.).
+
+(2) Tko ponovi prekršaj iz stavka 1. ovoga članka, kaznit će se za prekršaj novčanom kaznom u iznosu od 1500,00 eura do 6630,00 eura.«.
+
+#### Članak 29.
+
+Članak 119. mijenja se i glasi:
+
+»(1) Novčanom kaznom od 500,00 eura do 5000,00 eura kaznit će se za prekršaj fizička osoba:
+
+1. ako se bez opravdanog razloga ne odazove pozivu nadležnog tijela u vrijeme i na mjestu koji su naznačeni u pojedinačnom odnosno općem pozivu za sudjelovanje u vojnoj obvezi, radnoj obvezi, radnoj pomoći odnosno za ustupanje materijalnog sredstva (članak 35. stavak 1.)
+
+2. ako neovlašteno motri, snima i pristupa s kopna, mora i iz zraka vojnim lokacijama i građevinama posebno važnima za obranu i ostalim vojnim lokacijama i građevinama, osim vojnih lokacija i građevina koje se koriste zajedno s pravnim osobama u Republici Hrvatskoj (članak 96. stavak 1.).
+
+(2) Tko ponovi prekršaj iz stavka 1. ovoga članka, kaznit će se za prekršaj novčanom kaznom u iznosu od 1500,00 eura do 6630,00 eura.«.
+
+#### Članak 30.
+
+Iza članka 119. dodaju se članci 119.a i 119.b koji glase:
+
+»Članak 119.a
+
+(1) Novčanom kaznom u iznosu od 500,00 eura do 5000,00 eura kaznit će se za prekršaj novak ako se bez opravdanog razloga ne odazove pozivu nadležnog tijela u vrijeme i na mjestu koji su naznačeni u pojedinačnom odnosno općem pozivu za temeljno vojno osposobljavanje (članak 21.n stavci 1., 3., 4. i 5.).
+
+(2) Tko ponovi prekršaj iz stavka 1. ovoga članka, kaznit će se za prekršaj novčanom kaznom u iznosu od 1500,00 eura do 6630,00 eura.
+
+(3) Za novaka iz stavka 1. ovoga članka koji se bez opravdanog razloga ne odazove pozivu na temeljno vojno osposobljavanje ovlašteni tužitelj za pokretanje prekršajnog postupka je Ministarstvo obrane, nadležni područni odjel za poslove obrane.
+
+#### Članak 119.b
+
+(1) Novčanom kaznom od 500,00 eura do 5000,00 eura kaznit će se za prekršaj civilni obveznik ako bez opravdanog razloga ne dođe u tijelo u vrijeme naznačeno u rješenju za obavljanje civilne službe odnosno ako bez opravdanog razloga napusti civilnu službu (članak 24. stavci 2. i 4.).
+
+(2) Tko ponovi prekršaj iz stavka 1. ovoga članka, kaznit će se za prekršaj novčanom kaznom u iznosu od 1500,00 eura do 6630,00 eura.
+
+(3) Za civilnog obveznika iz stavka 1. ovoga članka koji bez opravdanog razloga ne dođe u tijelo u vrijeme naznačeno u rješenju za obavljanje civilne službe odnosno ako bez opravdanog razloga napusti civilnu službu ovlašteni tužitelj za pokretanje prekršajnog postupka je tijelo državne uprave nadležno za civilnu zaštitu koje je prethodno odobrilo civilnu službu.«.
+
+#### Članak 31.
+
+Članak 122. briše se.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 32.
+
+(1) Pravilnike donesene na temelju ovlasti iz članka 21. stavka 4., članka 25. stavka 8. i članka 28. stavka 3. Zakona o obrani (»Narodne novine«, br. 73/13., 75/15., 27/16. i 110/17. – Odluka Ustavnog suda Republike Hrvatske, 30/18., 70/19. i 155/23.) ministar obrane uskladit će s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(2) Vlada će uredbe iz članka 11. ovoga Zakona donijeti u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+
+(3) Ministar obrane će pravilnike iz članka 8. ovoga Zakona donijeti u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+(4) Ministar nadležan za civilnu zaštitu će pravilnik iz članka 11. ovoga Zakona donijeti u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 33.
+
+Ročnici zatečeni na dragovoljnom vojnom osposobljavanju na dan stupanja na snagu ovoga Zakona završit će program dragovoljnog vojnog osposobljavanja u skladu sa Zakonom o obrani (»Narodne novine«, br. 73/13., 75/15., 27/16., 110/17. – Odluka Ustavnog suda Republike Hrvatske, 30/18., 70/19. i 155/23.).
+
+#### Članak 34.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Odluka o nepozivanju novaka na obvezu služenja vojnog roka (»Narodne novine«, br. 105/07.).
+
+#### Članak 35.
+
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o civilnoj službi (»Narodne novine«, br. 25/03.).
+
+#### Članak 36.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/25-01/63
+
+Zagreb, 24. listopada 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

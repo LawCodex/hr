@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-05-07
+last_amended: 2023-10-23
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "54/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2023 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "54/13, 123/23"
+amendments:
+  - "NN 123/2023 (1704) Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. godine o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1080"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o provedbi Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. godine o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju
 
 > Izvor: Narodne novine, NN 54/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1080).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 123/2023.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -504,3 +508,92 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. godine o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (NN 123/2023)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2023/123/1704*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBE (EU) BR. 648/2012 EUROPSKOG PARLAMENTA I VIJEĆA OD 4. SRPNJA 2012. GODINE O OTC IZVEDENICAMA, SREDIŠNJOJ DRUGOJ UGOVORNOJ STRANI I TRGOVINSKOM REPOZITORIJU
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. godine o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju, koji je Hrvatski sabor donio na sjednici 17. listopada 2023.
+
+Klasa: 011-02/23-02/93  
+Urbroj: 71-10-01/1-23-2  
+Zagreb, 20. listopada 2023.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBE (EU) BR. 648/2012 EUROPSKOG PARLAMENTA I VIJEĆA OD 4. SRPNJA 2012. GODINE O OTC IZVEDENICAMA, SREDIŠNJOJ DRUGOJ UGOVORNOJ STRANI I TRGOVINSKOM REPOZITORIJU**
+
+### Članak 1.
+
+U Zakonu o provedbi Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. godine o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (»Narodne novine«, br. 54/13.) u članku 2. stavku 1. iza točke 7. dodaju se točke 8. i 9. koje glase:
+
+»8. Druga ugovorna strana je financijska druga ugovorna strana iz članka 2. točke 8. Uredbe (EU) br. 648/2012 i nefinancijska druga ugovorna strana iz članka 2. točke 9. Uredbe (EU) br. 648/2012.
+
+9. Pravna osoba koja upravlja mjestom trgovanja je tržišni operater, kreditna institucija i investicijsko društvo koje ima odgovarajuće odobrenje u skladu s odredbama zakona kojim se uređuje tržište kapitala.«.
+
+### Članak 2.
+
+U članku 15. stavku 1. u uvodnoj rečenici riječi: »200.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »26.540,00 eura do 66.360,00 eura«.
+
+U stavku 2. riječi: »20.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »2650,00 eura do 6630,00 eura«.
+
+### Članak 3.
+
+U članku 16. stavku 1. u uvodnoj rečenici riječi: »200.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »26.540,00 eura do 66.360,00 eura«.
+
+U stavku 2. riječi: »30.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »3980,00 eura do 6630,00 eura«.
+
+### Članak 4.
+
+Naslov iznad članka 17. mijenja se i glasi:: »Prekršaji pravne osobe koja upravlja mjestom trgovanja«.
+
+U članku 17. stavku 1. u uvodnoj rečenici riječi: »200.000,00 do 500.000,00 kuna« zamjenjuju se riječima: »26.540,00 eura do 66.360,00 eura«, a riječi: »mjesto trgovanja« zamjenjuju se riječima: »pravna osoba koja upravlja mjestom trgovanja«.
+
+U stavku 2. riječi: »30.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »3980,00 eura do 6630,00 eura«, a riječi: »mjesta trgovanja« zamjenjuju se riječima: »u pravnoj osobi koja upravlja mjestom trgovanja«.
+
+### Članak 5.
+
+U naslovu iznad članka 18. riječi: »središnje druge ugovorne strane« zamjenjuju se riječima: »sustava poravnanja«.
+
+U članku 18. stavku 1. u uvodnoj rečenici riječi: »50.000,00 do 150.000,00 kuna« zamjenjuju se riječima: »6630,00 eura do 19.900,00 eura«, a riječi: »središnje druge ugovorne strane« zamjenjuju se riječima: »sustava poravnanja«.
+
+U stavku 2. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 eura do 3980,00 eura«, a riječi: »središnje druge ugovorne strane« zamjenjuju se riječima: »sustava poravnanja«.
+
+### Članak 6.
+
+U članku 19. stavku 1. riječi: »50.000,00 do 150.000,00 kuna« zamjenjuju se riječima: »6630,00 eura do 19.900,00 eura«.
+
+U stavku 2. riječi: »10.000,00 do 30.000,00 kuna« zamjenjuju se riječima: »1320,00 eura do 3980,00 eura«.
+
+U stavku 3. riječi: »20.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »2650,00 eura do 6630,00 eura«.
+
+*Završna odredba*
+
+### Članak 7.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/23-01/89  
+Zagreb, 17. listopada 2023.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

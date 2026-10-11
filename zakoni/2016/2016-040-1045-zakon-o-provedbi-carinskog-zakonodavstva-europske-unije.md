@@ -6,11 +6,13 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2016-04-30
+last_amended: 2025-03-21
 status: in_force
-status_basis: "derived: enacted or amended in 2016 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "40/16"
-amendments: []
+status_basis: "derived: enacted or amended in 2025 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "40/16, 52/25"
+amendments:
+  - "NN 52/2025 (672) Zakon o izmjenama i dopunama Zakona o provedbi carinskog zakonodavstva Europske unije"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2016/40/1045"
 retrieved: 2026-10-12
 ---
@@ -18,6 +20,8 @@ retrieved: 2026-10-12
 # Zakon o provedbi carinskog zakonodavstva Europske unije
 
 > Izvor: Narodne novine, NN 40/2016 (https://narodne-novine.nn.hr/eli/sluzbeni/2016/40/1045).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 52/2025.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -1143,3 +1147,298 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 akademik Željko Reiner, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o provedbi carinskog zakonodavstva Europske unije (NN 52/2025)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2025/52/672*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O PROVEDBI CARINSKOG ZAKONODAVSTVA EUROPSKE UNIJE
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o provedbi carinskog zakonodavstva Europske unije, koji je Hrvatski sabor donio na sjednici 14. ožujka 2025.
+
+Klasa: 011-02/25-02/25  
+Urbroj: 71-10-01/1-25-2  
+Zagreb, 18. ožujka 2025.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O PROVEDBI CARINSKOG ZAKONODAVSTVA EUROPSKE UNIJE**
+
+#### Članak 1.
+
+U Zakonu o provedbi carinskog zakonodavstva Europske unije (»Narodne novine«, br. 40/16.) u članku 2. stavku 1. na kraju točke 14. briše se točka i dodaje se točka 15. koja glasi:
+
+»15. Uredbu (EU) 2022/2399 Europskog parlamenta i Vijeća od 23. studenoga 2022. o uspostavi okruženja jedinstvenog sučelja Europske unije za carinu i izmjeni Uredbe (EU) br. 952/2013 (SL L 317, 9. 12. 2022., str. 1; u daljnjem tekstu: Uredba (EU) 2022/2399).«.
+
+#### Članak 2.
+
+Iza članka 4. dodaju se naslov iznad članka i članak 4.a koji glase:
+
+*»Nacionalno tijelo u Republici Hrvatskoj za jedinstveno sučelje za carinu*
+
+#### Članak 4.a
+
+U provedbi Uredbe (EU) 2022/2399, nacionalno tijelo u Republici Hrvatskoj nadležno za uspostavu i rad nacionalnog okruženja jedinstvenog sučelja za carinu u okviru jedinstvenog sučelja Unije za carinu (EU CSW-CERTEX) je Carinska uprava.«.
+
+#### Članak 3.
+
+Članak 23. mijenja se i glasi:
+
+»(1) Sukladno članku 53. stavku 1. točki (a) Uredbe (EU) br. 952/2013, za konverziju valute za potrebe utvrđivanja carinske vrijednosti primjenjuje se tečaj koji je objavila Europska središnja banka.
+
+(2) Za tečaj valute različite od eura koji ne objavljuje Europska središnja banka primjenjuje se tečaj koji objavljuje Hrvatska narodna banka.
+
+(3) Ako valuta iz stavka 2. ovoga članka ne kotira na deviznom tržištu u Republici Hrvatskoj, konverzija valute provodi se uz primjenu tečaja koji objavljuju financijski servisi u odnosu na euro.
+
+(4) Ako nije dostupan tečaj stranih valuta u odnosu na euro iz stavka 3. ovoga članka, primjenjuje se tečaj stranih valuta u odnosu na američki dolar.
+
+(5) Izračun tečaja iz stavaka 2., 3. i 4. ovoga članka Carinska uprava objavljuje na svojim mrežnim stranicama.«.
+
+#### Članak 4.
+
+U članku 31. ispred riječi: »Ako je« dodaje se oznaka stavka »(1)«.
+
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+
+»(2) Smatra se da je stavljeno sredstvo za prepoznavanje robe oštećeno ako se i bez njegova oštećenja ili uklanjanja može nesmetano ući u tovarni prostor prijevoznog ili prometnog sredstva gdje se nalazi roba.
+
+(3) Okolnosti koje dovode do utvrđenja situacije iz stavka 2. ovoga članka osobito su prerezana cerada ili područje čvrstog dijela spremnika za teret prijevoznog ili prometnog sredstva gdje se nalazi roba, prerezano ili neodgovarajuće stavljeno uže u sustavu plombiranja, nefunkcionalnost dijelova sustava plombiranja, uključivo i neučinkovito stavljena plomba.«.
+
+#### Članak 5.
+
+U članku 35. stavku 1. iza riječi: »nadležno je« riječ: »središnje« briše se.
+
+#### Članak 6.
+
+U članku 45. stavci 3. i 4. mijenjaju se i glase:
+
+»(3) Odluku o besplatnoj dodjeli robe iz stavaka 1. i 2. ovoga članka čija je procijenjena vrijednost manja ili jednaka iznosu od 15.000,00 eura donosi Povjerenstvo Carinske uprave za besplatnu dodjelu robe.
+
+(4) Odluku o besplatnoj dodjeli robe iz stavaka 1. i 2. ovoga članka čija procijenjena vrijednost prelazi iznos od 15.000,00 eura donosi ministar financija na prijedlog Povjerenstva Carinske uprave za besplatnu dodjelu robe.«.
+
+#### Članak 7.
+
+Iza članka 45. dodaju se naslovi iznad članaka i članci 45.a i 45.b koji glase:
+
+*»Povjerenstvo Carinske uprave za besplatnu dodjelu robe*
+
+#### Članak 45.a
+
+(1) Povjerenstvo Carinske uprave za besplatnu dodjelu robe (u daljnjem tekstu ovoga dijela: Povjerenstvo) osniva se i u njegov sastav imenuju članovi odlukom ravnatelja Carinske uprave.
+
+(2) Povjerenstvo osnovano odlukom iz stavka 1. ovoga članka sastoji se od četiri člana, i to: predsjednika i tri člana, a predsjednik i članovi Povjerenstva imaju svoje zamjenike koji ih zamjenjuju u slučaju njihove spriječenosti.
+
+(3) Predsjednik i članovi Povjerenstva te njihovi zamjenici imenuju se, za razdoblje od četiri godine, iz redova službenika Carinske uprave koji imaju radno iskustvo i stručna znanja iz područja zadaće Povjerenstva, s time da se kao predsjednik imenuje pomoćnik ravnatelja nadležan za carinski sustav, a kao njegov zamjenik službenik iz redova službenika ustrojstvene jedinice Središnjeg ureda Carinske uprave koja je nadležna za carinski sustav.
+
+(4) Osobe koje djeluju u sastavu Povjerenstva nemaju pravo na naknadu za svoj rad.
+
+(5) Radom Povjerenstva rukovodi i sjednicama Povjerenstva predsjedava predsjednik Povjerenstva odnosno u slučaju njegove spriječenosti zamjenik predsjednika Povjerenstva.
+
+(6) Povjerenstvo najkasnije do 31. ožujka za prethodnu godinu podnosi godišnje izvješće o svom radu ministru financija i ravnatelju Carinske uprave.
+
+*Zadaća Povjerenstva Carinske uprave za besplatnu dodjelu robe*
+
+#### Članak 45.b
+
+(1) Povjerenstvo provodi sve radnje u odnosu na ostvarivanje besplatne dodjele robe, sukladno članku 45. ovoga Zakona, u okolnostima utvrđenja da takvo raspolaganje robom predstavlja odgovarajući način za postizanje svrhe učinkovitog i ekonomičnog reguliranja pitanja robe, pod uvjetom provedbe carinskih formalnosti za postupak puštanja robe u slobodan promet i uređenja pitanja carinskog duga propisanih carinskim zakonodavstvom.
+
+(2) Radi provedbe postupka besplatne dodjele robe carinski uredi, nadležni prema mjestu oduzimanja robe ili ustupa robe u korist Republike Hrvatske, bez odgađanja Povjerenstvu dostavljaju izvješće s podacima o robi koja je pogodna za besplatnu dodjelu sukladno članku 45. ovoga Zakona te ne poduzimaju radnje za drukčije raspolaganje robom do primitka odgovora Povjerenstva da se s robom neće provoditi postupak besplatne dodjele robe.«.
+
+#### Članak 8.
+
+Članak 48. mijenja se i glasi:
+
+»Ministar financija pravilnikom propisuje način provedbe i postupanja sudionika u postupcima prikupljanja, smještaja, čuvanja i prodaje ustupljene i oduzete robe te način obračuna i raspodjele sredstava dobivenih prodajom, postupak besplatne dodjele ustupljene i oduzete robe, način rada i detaljnije zadaće Povjerenstva Carinske uprave za besplatnu dodjelu robe i način postupanja sudionika postupka besplatne dodjele ustupljene i oduzete robe te uništenja robe.«.
+
+#### Članak 9.
+
+Članak 60. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 1320,00 do 132.720,00 eura kaznit će se za prekršaj pravna osoba ako preko graničnog prijelaza u vrijeme kad granični prijelaz nije otvoren za promet ili izvan graničnoga prijelaza unese robu u carinsko područje Unije ili pokuša unijeti robu u carinsko područje Unije ili ako preko graničnog prijelaza u vrijeme kad granični prijelaz nije otvoren za promet ili izvan graničnoga prijelaza iznese robu iz carinskog područja Unije ili pokuša iznijeti robu iz carinskog područja Unije (članak 7. ovoga Zakona).
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 390,00 do 13.260,00 eura i odgovorna osoba u pravnoj osobi.
+
+(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 660,00 do 119.450,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 390,00 do 13.260,00 eura.«.
+
+#### Članak 10.
+
+U članku 61. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 390,00 do 132.720,00 eura kaznit će se za prekršaj pravna osoba ako:«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 260,00 do 6630,00 eura i odgovorna osoba u pravnoj osobi.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 390,00 do 66.360,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 260,00 do 6630,00 eura.«.
+
+#### Članak 11.
+
+U članku 62. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 260,00 do 66.360,00 eura kaznit će se za prekršaj pravna osoba ako:«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 130,00 do 5300,00 eura i odgovorna osoba u pravnoj osobi.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 130,00 do 39.810,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 130,00 do 5300,00 eura.«.
+
+#### Članak 12.
+
+U članku 63. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 1320,00 do 132.720,00 eura kaznit će se za prekršaj pravna osoba ako:«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 390,00 do 13.260,00 eura i odgovorna osoba u pravnoj osobi.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 660,00 do 119.450,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 390,00 do 13.260,00 eura.«.
+
+#### Članak 13.
+
+U članku 64. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 390,00 do 132.720,00 eura kaznit će se za prekršaj pravna osoba ako:«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 260,00 do 6630,00 eura i odgovorna osoba u pravnoj osobi.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 390,00 do 66.360,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 260,00 do 6630,00 eura.«.
+
+#### Članak 14.
+
+U članku 65. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 260,00 do 66.360,00 eura kaznit će se za prekršaj pravna osoba ako:«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 130,00 do 5300,00 eura i odgovorna osoba u pravnoj osobi.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 130,00 do 39.810,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 130,00 do 5300,00 eura.«.
+
+#### Članak 15.
+
+U članku 66. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 390,00 do 132.720,00 eura kaznit će se za prekršaj pravna osoba ako:«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 260,00 do 6630,00 eura i odgovorna osoba u pravnoj osobi.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 390,00 do 66.360,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 260,00 do 6630,00 eura.«.
+
+#### Članak 16.
+
+Članak 67. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 390,00 do 132.720,00 eura kaznit će se za prekršaj pravna osoba ako prilikom kretanja robe Unije preko područja Neuma ne preda robu i prateće isprave carinskom uredu ponovnog ulaska u carinsko područje Unije ili ne preda u određenom roku sukladno Uredbi Vijeća (EU) br. 479/2013.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 260,00 do 6630,00 eura i odgovorna osoba u pravnoj osobi.
+
+(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 390,00 do 66.360,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 260,00 do 6630,00 eura.«.
+
+#### Članak 17.
+
+U članku 68. stavku 1. uvodna rečenica mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 260,00 do 13.270,00 eura kaznit će se za prekršaj pravna osoba koja je nositelj odobrenja ako:«.
+
+Stavak 2. mijenja se i glasi:
+
+»(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 130,00 do 2650,00 eura i odgovorna osoba u pravnoj osobi.«.
+
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+
+»(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 390,00 do 6630,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost kao nositelj odobrenja.
+
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 130,00 do 2650,00 eura.«.
+
+#### Članak 18.
+
+Članak 69. mijenja se i glasi:
+
+»(1) Pravna osoba kod koje se zatekne u posjedu roba, odnosno koja kupi, proda, preda drugom, primi na dar, prikrije, primi na čuvanje ili na prijevoz, upotrijebi ili primi po bilo kojoj drugoj osnovi robu za koju zna ili je prema okolnostima slučaja mogla znati da je riječ o robi koja je predmet prekršaja propisanog ovim Zakonom kaznit će se kao da je sama počinila prekršaj, istom kaznom koja je propisana za počinitelja prekršaja pravnu osobu.
+
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi istom kaznom koja je propisana za počinitelja prekršaja odgovornu osobu u pravnoj osobi.
+
+(3) Obrtnik i osoba koja obavlja drugu samostalnu djelatnost kod koje se zatekne u posjedu roba, odnosno koja kupi, proda, preda drugom, primi na dar, prikrije, primi na čuvanje ili na prijevoz, upotrijebi ili primi po bilo kojoj drugoj osnovi robu za koju zna ili je prema okolnostima slučaja mogla znati da je riječ o robi koja je predmet prekršaja propisanog ovim Zakonom kaznit će se kao da je sama počinila prekršaj, istom kaznom koja je propisana za počinitelja prekršaja obrtnika i osobu koja obavlja drugu samostalnu djelatnost.
+
+(4) Fizička osoba kod koje se zatekne u posjedu roba, odnosno koja kupi, proda, preda drugom, primi na dar, prikrije, primi na čuvanje ili na prijevoz, upotrijebi ili primi po bilo kojoj drugoj osnovi robu za koju zna ili je prema okolnostima slučaja mogla znati da je riječ o robi koja je predmet prekršaja propisanog ovim Zakonom kaznit će se kao da je sama počinila prekršaj, istom kaznom koja je propisana za počinitelja prekršaja fizičku osobu.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 19.
+
+(1) Postupci besplatne dodjele robe započeti prije stupanja na snagu ovoga Zakona po odredbama Zakona o provedbi carinskog zakonodavstva Europske unije (»Narodne novine«, br. 40/16.) dovršit će se prema odredbama toga Zakona.
+
+(2) Prekršajni postupci pokrenuti prije stupanja na snagu ovoga Zakona po odredbama Zakona o provedbi carinskog zakonodavstva Europske unije (»Narodne novine«, br. 40/16.) dovršit će se po odredbama toga Zakona.
+
+(3) Iznimno od stavka 2. ovoga članka, prekršajni postupci pokrenuti prije stupanja na snagu ovoga Zakona po odredbama Zakona o provedbi carinskog zakonodavstva Europske unije (»Narodne novine«, br. 40/16.) dovršit će se po odredbama ovoga Zakona, ako je to povoljnije za počinitelja.
+
+#### Članak 20.
+
+(1) Ministar financija će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 8. ovoga Zakona.
+
+(2) Ravnatelj Carinske uprave će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona donijeti odluku o osnivanju i imenovanju članova Povjerenstva Carinske uprave za besplatnu dodjelu robe u skladu s člankom 7. ovoga Zakona.
+
+(3) Povjerenstvo osnovano na temelju članka 45. stavka 4. Zakona o provedbi carinskog zakonodavstva Europske unije (»Narodne novine«, br. 40/16.) prestaje s radom danom donošenja odluke o osnivanju i imenovanju članova Povjerenstva Carinske uprave za besplatnu dodjelu robe iz stavka 2. ovoga članka.
+
+#### Članak 21.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-02/24-01/130  
+Zagreb, 14. ožujka 2025.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

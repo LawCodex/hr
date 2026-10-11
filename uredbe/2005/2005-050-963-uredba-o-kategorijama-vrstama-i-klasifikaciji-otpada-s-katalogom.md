@@ -661,7 +661,7 @@ _________
 
 ### PRILOG III.
 
-### ZELENI POPIS OTPADA<sup>1</sup>
+ZELENI POPIS OTPADA<sup>1</sup>
 
 Neovisno o činjenici da je određeni otpad sadržan u ovom popisu, nije ga dozvoljeno prevoziti kao otpad sa Zelenog popisa ako je onečišćen (kontaminiran) drugim tvarima u mjeri da:
 
@@ -676,7 +676,7 @@ otpada oznaka
 
 ___________________________________________________
 
-### GA. OTPADNI METAL I NJIHOVE LEGURE U NERASUTOM<sup>2</sup> OBLIKU
+GA. OTPADNI METAL I NJIHOVE LEGURE U NERASUTOM<sup>2</sup> OBLIKU
 
 Sljedeći otpad i ostaci plemenitih metala i njihovih legura:
 
@@ -1384,7 +1384,7 @@ bez baterija
 
 ### PRILOG IV.
 
-### ŽUTI POPIS OTPADA<sup>1</sup>
+ŽUTI POPIS OTPADA<sup>1</sup>
 
 Neovisno o činjenici da je određeni otpad sadržan u ovom popisu, nije ga dozvoljeno prevoziti kao otpad sa Žutog popisa ako je onečišćen drugim tvarima u mjeri koja:
 
@@ -3584,13 +3584,11 @@ KATALOG OTPADA
 
 <table>
 <tbody>
-
 <tr>
 <td>Ključni broj</td>
 <td>NAZIV OTPADA</td>
 <td colspan="4">Preporučeni<br>postupci obrade</td>
 </tr>
-
 <tr>
 <td>01</td>
 <td>OTPAD KOJI NASTAJE PRI ISTRAŽIVANJU, EKSPLOATIRANJU I FIZIKALNO-KEMIJSKOJ OBRADI MINERALNIH SIROVINA</td>
@@ -3599,7 +3597,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>01 01</td>
 <td>otpad od iskopavanja mineralnih sirovina</td>
@@ -3608,7 +3605,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>01 01 01</td>
 <td>otpad od iskopavanja metalnih mineralnih sirovina</td>
@@ -3617,7 +3613,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>01 01 02</td>
 <td>otpad od iskopavanja nemetalnih mineralnih sirovina</td>
@@ -3626,7 +3621,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>01 03</td>
 <td>otpad od fizikalne i kemijske obrade metalnih mineralnih sirovina</td>
@@ -3635,7 +3629,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>01 03 04*</td>
 <td>kisela jalovina od prerade sulfidne rude</td>
@@ -3644,7 +3637,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>01 03 05*</td>
 <td>ostala jalovina koja sadrži opasne tvari</td>
@@ -3653,7 +3645,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>01 03 06</td>
 <td>otpadna jalovina koja nije navedena pod 01 03 04 i 01 03 05</td>
@@ -3662,7 +3653,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 03 07*</td>
 <td>ostali otpad od fizikalne i kemijske obrade metalnih mineralnih sirovina, koji sadrži opasne tvari</td>
@@ -3671,7 +3661,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>01 03 08</td>
 <td>otpad u obliku prašine i praha, koji nije naveden pod 01 03 07</td>
@@ -3680,7 +3669,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 03 09</td>
 <td>crveni mulj iz proizvodnje aluminija, različit od otpada navedenog pod 01 03 07</td>
@@ -3689,7 +3677,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 03 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -3698,7 +3685,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 04</td>
 <td>otpad od fizikalne i kemijske obrade nemetalnih mineralnih sirovina</td>
@@ -3707,7 +3693,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>01 04 07*</td>
 <td>otpad od fizikalne i kemijske obrade nemetalnih mineralnih sirovina, koji sadrži opasne tvari</td>
@@ -3716,7 +3701,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>01 04 08</td>
 <td>otpadni šljunak i drobljeni kamen, koji nisu navedeni pod 01 04 07</td>
@@ -3725,7 +3709,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>01 04 09</td>
 <td>otpadni pijesak i otpadne vrste gline</td>
@@ -3734,7 +3717,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>01 04 10</td>
 <td>otpad u obliku prašine i praha, koji nije naveden pod 01 04 07</td>
@@ -3743,7 +3725,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 04 11</td>
 <td>otpad od prerade potaše i kamene soli koji nije naveden pod 01 04 07</td>
@@ -3752,7 +3733,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 04 12</td>
 <td>talozi i drugi otpad od ispiranja i čišćenja ruda, koji nisu navedeni pod 01 04 07 i 01 04 11</td>
@@ -3761,7 +3741,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 04 13</td>
 <td>otpad od rezanja i piljenja kamena, koji nije naveden pod 01 04 07</td>
@@ -3770,7 +3749,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 04 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -3779,7 +3757,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>01 05</td>
 <td>isplačni muljevi i ostali otpad od bušenja</td>
@@ -3788,7 +3765,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>01 05 04</td>
 <td>isplačni muljevi i drugi otpad od bušenja, koji sadrže slatku vodu</td>
@@ -3797,7 +3773,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 05 05*</td>
 <td>isplačni muljevi i drugi otpad od bušenja, koji sadrže ulja</td>
@@ -3806,7 +3781,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 05 06*</td>
 <td>isplačni muljevi i drugi otpad od bušenja, koji sadrže opasne tvari</td>
@@ -3815,7 +3789,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 05 07</td>
 <td>isplačni muljevi i drugi otpad od bušenja, koji sadrže barit i nisu navedeni pod 01 05 05 i 01 05 06</td>
@@ -3824,7 +3797,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 05 08</td>
 <td>isplačni muljevi i drugi otpad od bušenja,koji sadrže kloride i nisu navedeni pod 01 05 05 i 01 05 06</td>
@@ -3833,7 +3805,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>01 05 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -3842,7 +3813,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02</td>
 <td>OTPAD IZ POLJODJELSTVA, VRTLARSTVA, PROIZVODNJE VODENIH KULTURA, ŠUMARSTVA, LOVSTVA I RIBARSTVA, PRIPREMANJA I PRERADE HRANE</td>
@@ -3851,7 +3821,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 01</td>
 <td>otpad iz poljodjelstva, vrtlarstva, proizvodnje vodenih kultura, šumarstva, lovstva i ribarstva</td>
@@ -3860,7 +3829,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 01 01</td>
 <td>muljevi od pranja i čišćenja</td>
@@ -3869,7 +3837,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>02 01 02</td>
 <td>otpadna životinjska tkiva</td>
@@ -3878,7 +3845,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 01 03</td>
 <td>otpadna biljna tkiva</td>
@@ -3887,7 +3853,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 01 04</td>
 <td>otpadna plastika (isključujući ambalažu)</td>
@@ -3896,7 +3861,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 01 06</td>
 <td>životinjske fekalije, urin i gnoj (uključujući onečišćenu slamu) i efluenti, koji se posebno skupljaju i obrađuju izvan mjesta njihova nastanka</td>
@@ -3905,7 +3869,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 01 07</td>
 <td>otpad iz šumarstva</td>
@@ -3914,7 +3877,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>02 01 08*</td>
 <td>otpad od kemikalija koje se koriste u poljodjelstvu, koji sadrži opasne tvari</td>
@@ -3923,7 +3885,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 01 09</td>
 <td>otpad od kemikalija koje se koriste u poljodjelstvu, koji nije naveden pod 02 01 08</td>
@@ -3932,7 +3893,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 01 10</td>
 <td>otpadni metal</td>
@@ -3941,7 +3901,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -3950,7 +3909,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 02</td>
 <td>otpad od pripremanja i prerade mesa, ribe i drugih namirnica životinjskog podrijetla</td>
@@ -3959,7 +3917,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 02 01</td>
 <td>muljevi od ispiranja i čišćenja</td>
@@ -3968,7 +3925,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 02 02</td>
 <td>otpadno životinjsko tkivo</td>
@@ -3977,7 +3933,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 02 03</td>
 <td>materijali neprikladni za potrošnju ili preradu</td>
@@ -3986,7 +3941,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 02 04</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka</td>
@@ -3995,7 +3949,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 02 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4004,7 +3957,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 03</td>
 <td>otpad od pripremanja i prerade voća, povrća, žitarica, jestivih ulja, kakaa, kave, čaja i duhana; konzerviranja; proizvodnje kvasca i ekstrakata kvasca, pripremanja i fermentacije melase</td>
@@ -4013,7 +3965,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 03 01</td>
 <td>muljevi od pranja, čišćenja, guljenja, centrifugiranja i separacije</td>
@@ -4022,7 +3973,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 03 02</td>
 <td>otpad od sredstava za konzerviranje</td>
@@ -4031,7 +3981,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 03 03</td>
 <td>otpad od ekstrakcije otapalom</td>
@@ -4040,7 +3989,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 03 04</td>
 <td>materijali neprikladni za potrošnju ili preradu</td>
@@ -4049,7 +3997,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 03 05</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka</td>
@@ -4058,7 +4005,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 03 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4067,7 +4013,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 04</td>
 <td>otpad od proizvodnje šećera</td>
@@ -4076,7 +4021,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 04 01</td>
 <td>otpad od čišćenja i pranja šećerne repe</td>
@@ -4085,7 +4029,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>02 04 02</td>
 <td>kalcij karbonat koji nije u skladu sa specifikacijom</td>
@@ -4094,7 +4037,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 04 03</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka</td>
@@ -4103,7 +4045,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 04 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4112,7 +4053,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 05</td>
 <td>otpad iz mljekarske industrije</td>
@@ -4121,7 +4061,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 05 01</td>
 <td>materijali neprikladni za potrošnju ili preradu</td>
@@ -4130,7 +4069,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 05 02</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka</td>
@@ -4139,7 +4077,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 05 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4148,7 +4085,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 06</td>
 <td>otpad iz pekarske i slastičarske industrije</td>
@@ -4157,7 +4093,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 06 01</td>
 <td>materijali neprikladni za potrošnju ili preradu</td>
@@ -4166,7 +4101,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 06 02</td>
 <td>otpad od sredstava za konzerviranje</td>
@@ -4175,7 +4109,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 06 03</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka</td>
@@ -4184,7 +4117,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 06 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4193,7 +4125,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 07</td>
 <td>otpad iz proizvodnje alkoholnih i bezalkoholnih pića (isključujući kavu, čaj i kakao)</td>
@@ -4202,7 +4133,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 07 01</td>
 <td>otpad od pranja, čišćenja i mehaničke obrade sirovina</td>
@@ -4211,7 +4141,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>02 07 02</td>
 <td>otpad od destilacije alkohola</td>
@@ -4220,7 +4149,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 07 03</td>
 <td>otpad od kemijske obrade</td>
@@ -4229,7 +4157,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 07 04</td>
 <td>materijali neprikladni za potrošnju ili preradu</td>
@@ -4238,7 +4165,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 07 05</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka</td>
@@ -4247,7 +4173,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>02 07 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4256,7 +4181,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03</td>
 <td>OTPAD OD PRERADE DRVETA I PROIZVODNJE DRVENIH PLOČA I NAMJEŠTAJA, CELULOZE, PAPIRA I KARTONA</td>
@@ -4265,7 +4189,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 01</td>
 <td>otpad od prerade drveta i proizvodnje drvenih ploča i namještaja</td>
@@ -4274,7 +4197,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 01 01</td>
 <td>otpadna kora i pluto</td>
@@ -4283,7 +4205,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>03 01 04*</td>
 <td>piljevina, strugotine, otpaci od rezanja drva, drvo, otpaci dasaka i furnira, koji sadrže opasne tvari</td>
@@ -4292,7 +4213,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 01 05</td>
 <td>piljevina, strugotine, otpaci od rezanja drva, drvo, otpaci dasaka i furnira, koji nisu navedeni pod 03 01 04</td>
@@ -4301,7 +4221,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4310,7 +4229,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03 02</td>
 <td>otpad od zaštite drveta</td>
@@ -4319,7 +4237,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 02 01*</td>
 <td>nehalogenirana organska sredstva za zaštitu drveta</td>
@@ -4328,7 +4245,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 02 02*</td>
 <td>organo-klorna sredstva za zaštitu drveta</td>
@@ -4337,7 +4253,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 02 03*</td>
 <td>organo-metalna sredstva za zaštitu drveta</td>
@@ -4346,7 +4261,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 02 04*</td>
 <td>anorganska sredstva za zaštitu drveta</td>
@@ -4355,7 +4269,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 02 05*</td>
 <td>ostala sredstva za zaštitu drveta koja sadrže opasne tvari</td>
@@ -4364,7 +4277,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 02 99</td>
 <td>sredstva za zaštitu drveta koja nisu specificirana na drugi način</td>
@@ -4373,7 +4285,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03 03</td>
 <td>otpad od proizvodnje i prerade celuloze, papira i kartona</td>
@@ -4382,7 +4293,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 03 01</td>
 <td>otpadna kora i otpaci drveta</td>
@@ -4391,7 +4301,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03 03 02</td>
 <td>muljevi od obrade sulfitnih lugova (od oporabe komponenti iz tekućine za kuhanje)</td>
@@ -4400,7 +4309,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>03 03 05</td>
 <td>muljevi od obezbojenja kod recikliranja papira</td>
@@ -4409,7 +4317,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03 03 07</td>
 <td>mehanički izdvojeni škart od prerade otpadnog papira i kartona</td>
@@ -4418,7 +4325,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03 03 08</td>
 <td>otpad od sortiranja papira i kartona namijenjenog za recikliranje</td>
@@ -4427,7 +4333,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03 03 09</td>
 <td>otpadni vapneni mulj</td>
@@ -4436,7 +4341,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03 03 10</td>
 <td>otpadna vlakna i muljevi od vlakana, punila i prevlake, koji nastaju pri mehaničkoj separaciji</td>
@@ -4445,7 +4349,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03 03 11</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji nisu navedeni pod 03 03 10</td>
@@ -4454,7 +4357,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>03 03 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4463,7 +4365,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04</td>
 <td>OTPAD IZ KOŽARSKE, KRZNARSKE I TEKSTILNE INDUSTRIJE</td>
@@ -4472,7 +4373,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>04 01</td>
 <td>otpad iz kožarske i krznarske industrije</td>
@@ -4481,7 +4381,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>04 01 01</td>
 <td>otpad od uklanjanja potkožnog tkiva i razlaganja vapnom</td>
@@ -4490,7 +4389,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 01 02</td>
 <td>otpad od krečenja sirove kože</td>
@@ -4499,7 +4397,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>04 01 03*</td>
 <td>otpad od odmašćivanja koji sadrži otapala bez tekuće faze</td>
@@ -4508,7 +4405,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>04 01 04</td>
 <td>tekućine od štavljenja koje sadrže krom</td>
@@ -4517,7 +4413,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 01 05</td>
 <td>tekućine od štavljenja koje ne sadrže krom</td>
@@ -4526,7 +4421,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 01 06</td>
 <td>muljevi, posebno od obrade efluenata na mjestu njihova nastanka, koji sadrže krom</td>
@@ -4535,7 +4429,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 01 07</td>
 <td>muljevi, posebno od obrade efluenata na mjestu njihova nastanka, koji ne sadrže krom</td>
@@ -4544,7 +4437,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 01 08</td>
 <td>otpadna štavljena koža (plava platna, strugotine, otpaci, prah od poliranja) koja sadrži krom</td>
@@ -4553,7 +4445,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 01 09</td>
 <td>otpad od obrade i završne obrade</td>
@@ -4562,7 +4453,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4571,7 +4461,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 02</td>
 <td>otpad iz tekstilne industrije</td>
@@ -4580,7 +4469,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>04 02 09</td>
 <td>otpad od mješovitih (kompozitnih) materijala (impregnirani tekstil, elastomeri, plastomeri)</td>
@@ -4589,7 +4477,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>04 02 10</td>
 <td>organske tvari iz prirodnih proizvoda (npr. mast, vosak)</td>
@@ -4598,7 +4485,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 02 14*</td>
 <td>otpad od završne obrade koji sadrži organska otapala</td>
@@ -4607,7 +4493,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>04 02 15</td>
 <td>otpad od završne obrade koji nije naveden pod 04 02 14</td>
@@ -4616,7 +4501,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>04 02 16*</td>
 <td>sredstva za bojenje i pigmenti, koji sadrže opasne tvari</td>
@@ -4625,7 +4509,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>04 02 17</td>
 <td>sredstva za bojenje i pigmenti, koji nisu navedeni pod 04 02 16</td>
@@ -4634,7 +4517,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 02 19*</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji sadrže opasne tvari</td>
@@ -4643,7 +4525,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>04 02 20</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji nisu navedeni pod 04 02 19</td>
@@ -4652,7 +4533,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>04 02 21</td>
 <td>otpad od neprerađenih tekstilnih vlakana</td>
@@ -4661,7 +4541,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>04 02 22</td>
 <td>otpad od prerađenih tekstilnih vlakana</td>
@@ -4670,7 +4549,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>04 02 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4679,7 +4557,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05</td>
 <td>OTPAD OD PRERADE NAFTE, PROČIŠĆAVANJA PRIRODNOG PLINA I PIROLITIČKE OBRADE UGLJENA</td>
@@ -4688,7 +4565,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 01</td>
 <td>otpad od prerade nafte</td>
@@ -4697,7 +4573,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 01 02*</td>
 <td>muljevi od odsoljavanja</td>
@@ -4706,7 +4581,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 01 03*</td>
 <td>talozi sa dna spremnika</td>
@@ -4715,7 +4589,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 01 04*</td>
 <td>kiseli muljevi iz alkilacije</td>
@@ -4724,7 +4597,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 01 05*</td>
 <td>razlivena nafta</td>
@@ -4733,7 +4605,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 01 06*</td>
 <td>zauljeni muljevi od održavanja uređaja i opreme</td>
@@ -4742,7 +4613,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 01 07*</td>
 <td>kiseli katrani</td>
@@ -4751,7 +4621,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 01 08*</td>
 <td>ostali katrani</td>
@@ -4760,7 +4629,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 01 09*</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji sadrže opasne tvari</td>
@@ -4769,7 +4637,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 01 10</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji nisu navedeni pod 05 01 09</td>
@@ -4778,7 +4645,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 01 11*</td>
 <td>otpad od čišćenja goriva lužinama</td>
@@ -4787,7 +4653,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 01 12*</td>
 <td>ulja koja sadrže kiseline</td>
@@ -4796,7 +4661,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 01 13</td>
 <td>muljevi od pripreme napojne vode za kotlove</td>
@@ -4805,7 +4669,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 01 14</td>
 <td>otpad iz rashladnih stupova</td>
@@ -4814,7 +4677,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 01 15*</td>
 <td>istrošena glina za filtraciju</td>
@@ -4823,7 +4685,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 01 16</td>
 <td>otpad koji sadrži sumpor iz procesa odsumporavanja nafte</td>
@@ -4832,7 +4693,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 01 17</td>
 <td>bitumen</td>
@@ -4841,7 +4701,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4850,7 +4709,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 06</td>
 <td>otpad od pirolitičke obrade ugljena</td>
@@ -4859,7 +4717,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 06 01*</td>
 <td>kiseli katrani</td>
@@ -4868,7 +4725,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 06 03*</td>
 <td>ostali katrani</td>
@@ -4877,7 +4733,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 06 04</td>
 <td>otpad iz rashladnih stupova</td>
@@ -4886,7 +4741,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 06 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4895,7 +4749,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 07</td>
 <td>otpad od pročišćavanja i transporta prirodnog plina</td>
@@ -4904,7 +4757,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>05 07 01*</td>
 <td>otpad koji sadrži živu</td>
@@ -4913,7 +4765,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 07 02</td>
 <td>otpad koji sadrži sumpor</td>
@@ -4922,7 +4773,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>05 07 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -4931,7 +4781,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06</td>
 <td>OTPAD IZ ANORGANSKIH KEMIJSKIH PROCESA</td>
@@ -4940,7 +4789,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 01</td>
 <td>otpad iz proizvodnje, formulacije, dobave i uporabe (PFDU) kiselina</td>
@@ -4949,7 +4797,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 01 01*</td>
 <td>sulfatna i sulfitna kiselina</td>
@@ -4958,7 +4805,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 01 02*</td>
 <td>kloridna kiselina</td>
@@ -4967,7 +4813,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 01 03*</td>
 <td>fluoridna kiselina</td>
@@ -4976,7 +4821,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 01 04*</td>
 <td>fosfatna kiselina i fosfitna kiselina</td>
@@ -4985,7 +4829,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 01 05*</td>
 <td>nitratna i nitritna kiselina</td>
@@ -4994,7 +4837,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 01 06*</td>
 <td>ostale kiseline</td>
@@ -5003,7 +4845,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5012,7 +4853,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 02</td>
 <td>otpad iz PFDU lužina</td>
@@ -5021,7 +4861,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 02 01*</td>
 <td>kalcij hidroksid</td>
@@ -5030,7 +4869,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 02 03*</td>
 <td>amonij hidroksid</td>
@@ -5039,7 +4877,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 02 04*</td>
 <td>natrij i kalij hidroksid</td>
@@ -5048,7 +4885,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 02 05*</td>
 <td>ostale lužine</td>
@@ -5057,7 +4893,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 02 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5066,7 +4901,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 03</td>
 <td>otpad iz PFDU soli i njihovih otopina i metalnih oksida</td>
@@ -5075,7 +4909,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 03 11*</td>
 <td>krute soli i otopine koje sadrže cijanide</td>
@@ -5084,7 +4917,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 03 13*</td>
 <td>krute soli i otopine koje sadrže teške metale</td>
@@ -5093,7 +4925,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 03 14</td>
 <td>krute soli i otopine koje nisu navedene u 06 03 11 i 06 03 13</td>
@@ -5102,7 +4933,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 03 15*</td>
 <td>metalni oksidi koji sadrže teške metale</td>
@@ -5111,7 +4941,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 03 16</td>
 <td>metalni oksidi koji nisu navedeni u 06 03 15</td>
@@ -5120,7 +4949,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 03 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5129,7 +4957,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 04</td>
 <td>otpad koji sadrži metale i koji nije naveden u 06 03</td>
@@ -5138,7 +4965,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 04 03*</td>
 <td>otpad koji sadrži arsen</td>
@@ -5147,7 +4973,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 04 04*</td>
 <td>otpad koji sadrži živu</td>
@@ -5156,7 +4981,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 04 05*</td>
 <td>otpad koji sadrži ostale teške metale</td>
@@ -5165,7 +4989,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 04 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5174,7 +4997,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 05</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka</td>
@@ -5183,7 +5005,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 05 02*</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji sadrže opasne tvari</td>
@@ -5192,7 +5013,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 05 03</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji nisu navedeni u 06 05 02</td>
@@ -5201,7 +5021,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 06</td>
 <td>otpad od PFDU kemikalija sa sumporom, od kemijskih procesa sa sumporom i od procesa odsumporavanja</td>
@@ -5210,7 +5029,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 06 02*</td>
 <td>otpad koji sadrži opasne sulfide</td>
@@ -5219,7 +5037,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 06 03</td>
 <td>otpad koji sadrži sulfide i koji nije naveden u 06 06 02</td>
@@ -5228,7 +5045,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 06 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5237,7 +5053,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 07</td>
 <td>otpad od PFDU halogena i kemijskih procesa sa halogenima</td>
@@ -5246,7 +5061,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 07 01*</td>
 <td>otpad od elektrolize koji sadrži azbest</td>
@@ -5255,7 +5069,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 07 02*</td>
 <td>aktivni ugljen od proizvodnje klora</td>
@@ -5264,7 +5077,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 07 03*</td>
 <td>mulj barijevog sulfata koji sadrži živu</td>
@@ -5273,7 +5085,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 07 04*</td>
 <td>otopine i kiseline, npr. kontaktna kiselina</td>
@@ -5282,7 +5093,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 07 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5291,7 +5101,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 08</td>
 <td>otpad od PFDU silicija i silicijevih derivata</td>
@@ -5300,7 +5109,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 08 02*</td>
 <td>otpad koji sadrži opasne klorosilane</td>
@@ -5309,7 +5117,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 08 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5318,7 +5125,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>06 09</td>
 <td>otpad od PFDU kemikalija koje sadrže fosfor i od kemijskih procesa s fosforom</td>
@@ -5327,7 +5133,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 09 02</td>
 <td>šljaka koja sadrži fosfor</td>
@@ -5336,7 +5141,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 09 03*</td>
 <td>otpad iz kemijskih procesa na bazi kalcija, koji sadrži opasne tvari ili je onečišćen opasnim tvarima</td>
@@ -5345,7 +5149,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 09 04</td>
 <td>otpad iz kemijskih procesa na bazi kalcija, koji nije naveden u 06 09 03</td>
@@ -5354,7 +5157,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 09 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5363,7 +5165,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 10</td>
 <td>otpad od PFDU kemikalija koje sadrže dušik, od kemijskih procesa sa dušikom i od proizvodnje umjetnih gnojiva</td>
@@ -5372,7 +5173,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 10 02*</td>
 <td>otpad koji sadrži opasne tvari</td>
@@ -5381,7 +5181,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 10 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5390,7 +5189,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>06 11</td>
 <td>otpad iz proizvodnje anorganskih pigmenata i zamućivača</td>
@@ -5399,7 +5197,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 11 01</td>
 <td>otpad iz kemijskih procesa na bazi kalcija iz proizvodnje titan dioksida</td>
@@ -5408,7 +5205,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>06 11 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5417,7 +5213,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>06 13</td>
 <td>otpad od ostalih anorganskih kemijskih procesa koji nisu specificirani na drugi način</td>
@@ -5426,7 +5221,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 13 01*</td>
 <td>anorganska sredstva za zaštitu bilja, sredstva za zaštitu drveta i drugi biocidi</td>
@@ -5435,7 +5229,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 13 02*</td>
 <td>istrošeni aktivni ugljen (osim 06 07 02)</td>
@@ -5444,7 +5237,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 13 03</td>
 <td>ugljeno crnilo</td>
@@ -5453,7 +5245,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 13 04*</td>
 <td>otpad iz prerade azbesta</td>
@@ -5462,7 +5253,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>06 13 05*</td>
 <td>čađa</td>
@@ -5471,7 +5261,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>06 13 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5480,7 +5269,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07</td>
 <td>OTPAD IZ ORGANSKIH KEMIJSKIH PROCESA</td>
@@ -5489,7 +5277,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 01</td>
 <td>otpad iz proizvodnje, formulacije, dobave i uporabe (PFDU) osnovnih organskih kemikalija</td>
@@ -5498,7 +5285,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 01 01*</td>
 <td>vodene tekućine za ispiranje i matični lugovi</td>
@@ -5507,7 +5293,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 01 03*</td>
 <td>organska halogenirana otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5516,7 +5301,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 01 04*</td>
 <td>ostala organska otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5525,7 +5309,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 01 07*</td>
 <td>halogenirani talozi i ostaci od reakcija i destilacija</td>
@@ -5534,7 +5317,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 01 08*</td>
 <td>ostali talozi i ostaci od reakcija i destilacija</td>
@@ -5543,7 +5325,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 01 09*</td>
 <td>halogenirani filtarski kolači i istrošeni apsorbensi</td>
@@ -5552,7 +5333,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 01 10*</td>
 <td>ostali filtarski kolači i istrošeni apsorbensi</td>
@@ -5561,7 +5341,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 01 11*</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji sadrže opasne tvari</td>
@@ -5570,7 +5349,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 01 12</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji nisu navedeni pod 07 01 11</td>
@@ -5579,7 +5357,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5588,7 +5365,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02</td>
 <td>otpad od PFDU plastike, sintetičke gume i umjetnih vlakana</td>
@@ -5597,7 +5373,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 02 01*</td>
 <td>vodene tekućine za ispiranje i matični lugovi</td>
@@ -5606,7 +5381,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 02 03*</td>
 <td>organska halogenirana otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5615,7 +5389,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 02 04*</td>
 <td>ostala organska otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5624,7 +5397,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 02 07*</td>
 <td>halogenirani talozi i ostaci od reakcija i destilacija</td>
@@ -5633,7 +5405,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02 08*</td>
 <td>ostali talozi i ostaci od reakcija i destilacija</td>
@@ -5642,7 +5413,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02 09*</td>
 <td>halogenirani filtarski kolači i istrošeni apsorbensi</td>
@@ -5651,7 +5421,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02 10*</td>
 <td>ostali filtarski kolači i istrošeni apsorbensi</td>
@@ -5660,7 +5429,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02 11*</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji sadrže opasne tvari</td>
@@ -5669,7 +5437,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02 12</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji nisu navedeni pod 07 02 11</td>
@@ -5678,7 +5445,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02 13</td>
 <td>otpadna plastika</td>
@@ -5687,7 +5453,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>07 02 14*</td>
 <td>otpad od aditiva koji sadrže opasne tvari</td>
@@ -5696,7 +5461,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 02 15</td>
 <td>otpad od aditiva koji nije naveden pod 07 02 14</td>
@@ -5705,7 +5469,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02 16*</td>
 <td>otpad koji sadrži opasne silikone</td>
@@ -5714,7 +5477,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02 17</td>
 <td>otpad koji sadrži silikone, osim onih koju su navedeni pod 07 02 16</td>
@@ -5723,7 +5485,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 02 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5732,7 +5493,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 03</td>
 <td>otpad od PFDU organskih boja i pigmenata (isključujući 06 11)</td>
@@ -5741,7 +5501,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 03 01*</td>
 <td>vodene tekućine za ispiranje i matični lugovi</td>
@@ -5750,7 +5509,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 03 03*</td>
 <td>organska halogenirana otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5759,7 +5517,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 03 04*</td>
 <td>ostala organska otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5768,7 +5525,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 03 07*</td>
 <td>halogenirani talozi i ostaci od reakcija i destilacija</td>
@@ -5777,7 +5533,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 03 08*</td>
 <td>ostali talozi i ostaci od reakcija i destilacija</td>
@@ -5786,7 +5541,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 03 09*</td>
 <td>halogenirani filtarski kolači i istrošeni apsorbensi</td>
@@ -5795,7 +5549,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 03 10*</td>
 <td>ostali filtarski kolači i istrošeni apsorbensi</td>
@@ -5804,7 +5557,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 03 11*</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka, koji sadrže opasne tvari</td>
@@ -5813,7 +5565,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 03 12</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka, koji nisu navedeni pod 07 03 11</td>
@@ -5822,7 +5573,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 03 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5831,7 +5581,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 04</td>
 <td>otpad od PFDU organskih sredstava za zaštitu bilja (osim 02 01 08 i 02 01 09), sredstava za zaštitu drveta (osim 03 02) i drugih biocida</td>
@@ -5840,7 +5589,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 04 01*</td>
 <td>vodene tekućine za ispiranje i matični lugovi</td>
@@ -5849,7 +5597,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 04 03*</td>
 <td>organska halogenirana otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5858,7 +5605,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 04 04*</td>
 <td>ostala organska otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5867,7 +5613,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 04 07*</td>
 <td>halogenirani ostaci reakcija i destilacija</td>
@@ -5876,7 +5621,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 04 08*</td>
 <td>ostali talozi i ostaci od reakcija i destilacija</td>
@@ -5885,7 +5629,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 04 09*</td>
 <td>halogenirani filtarski kolači, istrošeni apsorbensi</td>
@@ -5894,7 +5637,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 04 10*</td>
 <td>ostali filtarski kolači i istrošeni apsorbensi</td>
@@ -5903,7 +5645,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 04 11*</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka, koji sadrže opasne tvari</td>
@@ -5912,7 +5653,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 04 12</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka, koji nisu navedeni pod 07 04 11</td>
@@ -5921,7 +5661,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 04 13*</td>
 <td>kruti otpad koji sadrži opasne tvari</td>
@@ -5930,7 +5669,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 04 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -5939,7 +5677,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 05</td>
 <td>otpad od PFDU farmaceutskih proizvoda</td>
@@ -5948,7 +5685,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 05 01*</td>
 <td>vodene tekućine za ispiranje i matični lugovi</td>
@@ -5957,7 +5693,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 05 03*</td>
 <td>organska halogenirana otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5966,7 +5701,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 05 04*</td>
 <td>ostala organska otapala, tekućine za ispiranje i matični lugovi</td>
@@ -5975,7 +5709,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 05 07*</td>
 <td>halogenirani ostaci od reakcija i destilacija</td>
@@ -5984,7 +5717,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 05 08*</td>
 <td>ostali talozi i ostaci od reakcija i destilacija</td>
@@ -5993,7 +5725,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 05 09*</td>
 <td>halogenirani filtarski kolači i istrošeni apsorbensi</td>
@@ -6002,7 +5733,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 05 10*</td>
 <td>ostali filtarski kolači i istrošeni apsorbensi</td>
@@ -6011,7 +5741,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 05 11*</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka koji sadrže opasne tvari</td>
@@ -6020,7 +5749,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 05 12</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka koji nisu navedeni pod 07 05 11</td>
@@ -6029,7 +5757,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 05 13*</td>
 <td>kruti otpad koji sadrži opasne tvari</td>
@@ -6038,7 +5765,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 05 14</td>
 <td>kruti otpad koji nije naveden pod 07 05 13</td>
@@ -6047,7 +5773,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 05 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -6056,7 +5781,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 06</td>
 <td>otpad od PFDU masti, ulja, sapuna, deterdženata, sredstava za dezinfekciju i kozmetičkih sredstava</td>
@@ -6065,7 +5789,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 06 01*</td>
 <td>vodene tekućine za ispiranje i matični lugovi</td>
@@ -6074,7 +5797,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 06 03*</td>
 <td>organska halogenirana otapala, tekućine za ispiranje i matični lugovi</td>
@@ -6083,7 +5805,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 06 04*</td>
 <td>ostala organska otapala, tekućine za ispiranje i matični lugovi</td>
@@ -6092,7 +5813,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 06 07*</td>
 <td>halogenirani ostaci od reakcija i destilacija</td>
@@ -6101,7 +5821,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 06 08*</td>
 <td>ostali talozi i ostaci od reakcija i destilacija</td>
@@ -6110,7 +5829,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 06 09*</td>
 <td>halogenirani filtarski kolači, istrošeni apsorbensi</td>
@@ -6119,7 +5837,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 06 10*</td>
 <td>ostali filtarski kolači, istrošeni apsorbensi</td>
@@ -6128,7 +5845,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 06 11*</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka koji sadrže opasne tvari</td>
@@ -6137,7 +5853,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 06 12</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka koji nisu navedeni pod 07 06 11</td>
@@ -6146,7 +5861,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 06 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -6155,7 +5869,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 07</td>
 <td>otpad od PFDU specijalnih/finih kemikalija i kemijskih proizvoda koji nisu specificirani na drugi način</td>
@@ -6164,7 +5877,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 07 01*</td>
 <td>vodene tekućine za ispiranje i matični lugovi</td>
@@ -6173,7 +5885,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 07 03*</td>
 <td>organska halogenirana otapala, tekućine za ispiranje i matični lugovi</td>
@@ -6182,7 +5893,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 07 04*</td>
 <td>ostala organska otapala, tekućine za ispiranje i matični lugovi</td>
@@ -6191,7 +5901,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>07 07 07*</td>
 <td>halogenirani ostaci od reakcija i destilacija</td>
@@ -6200,7 +5909,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 07 08*</td>
 <td>ostali talozi i ostaci od reakcija i destilacija</td>
@@ -6209,7 +5917,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 07 09*</td>
 <td>halogenirani filtarski kolači, istrošeni apsorbensi</td>
@@ -6218,7 +5925,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 07 10*</td>
 <td>ostali filtarski kolači, istrošeni apsorbensi</td>
@@ -6227,7 +5933,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 07 11*</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka koji sadrže opasne tvari</td>
@@ -6236,7 +5941,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 07 12</td>
 <td>muljevi od pročišćavanja efluenata na mjestu njihova nastanka koji nisu navedeni pod 07 07 11</td>
@@ -6245,7 +5949,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>07 07 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -6254,7 +5957,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08</td>
 <td>OTPAD OD PROIZVODNJE, FORMULACIJE, DOBAVE I UPORABE (PFDU) PREMAZA (BOJE, LAKOVI I STAKLASTI EMAJLI), LJEPILA, SREDSTAVA ZA BRTVLJENJE I TISKARSKIH BOJA</td>
@@ -6263,7 +5965,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 01</td>
 <td>otpad od PFDU i uklanjanja boja i lakova</td>
@@ -6272,7 +5973,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 01 11*</td>
 <td>otpadne boje i lakovi koji sadrže organska otapala ili druge opasne tvari</td>
@@ -6281,7 +5981,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 01 12</td>
 <td>otpadne boje i lakovi koji nisu navedeni pod 08 01 11</td>
@@ -6290,7 +5989,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 01 13*</td>
 <td>muljevi od boja ili lakova koji sadrže organska otapala ili druge opasne tvari</td>
@@ -6299,7 +5997,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 01 14</td>
 <td>muljevi od boja ili lakova koji nisu navedeni pod 08 01 13</td>
@@ -6308,7 +6005,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 01 15*</td>
 <td>vodeni muljevi koji sadrže boje ili lakove koji sadrže organska otapala ili druge opasne tvari</td>
@@ -6317,7 +6013,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 01 16</td>
 <td>vodeni muljevi koji sadrže boje ili lakove koji nisu navedeni pod 08 01 15</td>
@@ -6326,7 +6021,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 01 17*</td>
 <td>otpad od uklanjanja boja ili lakova koji sadrže organska otapala ili druge opasne tvari</td>
@@ -6335,7 +6029,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 01 18</td>
 <td>otpad od uklanjanja boja ili lakova koji nije naveden pod 08 01 17</td>
@@ -6344,7 +6037,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 01 19*</td>
 <td>vodene suspenzije koje sadrže boje ili lakove koji sadrže organska otapala ili druge opasne tvari</td>
@@ -6353,7 +6045,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 01 20</td>
 <td>vodene suspenzije koje sadrže boje ili lakove, a koje nisu navedene pod 08 01 19</td>
@@ -6362,7 +6053,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 01 21*</td>
 <td>otpad od sredstava za uklanjanje boja ili lakova</td>
@@ -6371,7 +6061,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -6380,7 +6069,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 02</td>
 <td>otpad od PFDU ostalih prevlaka (uključujući keramičke materijale)</td>
@@ -6389,7 +6077,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 02 01</td>
 <td>otpadni prahovi za prevlake</td>
@@ -6398,7 +6085,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 02 02</td>
 <td>vodeni muljevi koji sadrže keramičke materijale</td>
@@ -6407,7 +6093,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 02 03</td>
 <td>vodene suspenzije koje sadrže keramičke materijale</td>
@@ -6416,7 +6101,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 02 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -6425,7 +6109,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 03</td>
 <td>otpad od PFDU tiskarskih boja</td>
@@ -6434,7 +6117,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 03 07</td>
 <td>vodeni muljevi koji sadrže tiskarske boje</td>
@@ -6443,7 +6125,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 03 08</td>
 <td>vodeni tekući otpad koji sadrži tiskarske boje</td>
@@ -6452,7 +6133,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 03 12*</td>
 <td>otpadne tiskarske boje koje sadrže opasne tvari</td>
@@ -6461,7 +6141,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 03 13</td>
 <td>otpadne tiskarske boje koje nisu navedene pod 08 03 12</td>
@@ -6470,7 +6149,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 03 14*</td>
 <td>muljevi od tiskarskih boja koji sadrže opasne tvari</td>
@@ -6479,7 +6157,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 03 15</td>
 <td>muljevi od tiskarskih boja koji nisu navedeni pod 08 03 14</td>
@@ -6488,7 +6165,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 03 16*</td>
 <td>otpadne otopine za graviranje</td>
@@ -6497,7 +6173,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 03 17*</td>
 <td>otpadni tiskarski toneri koji sadrže opasne tvari</td>
@@ -6506,7 +6181,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 03 18</td>
 <td>otpadni tiskarski toneri koji nisu navedeni pod 08 03 17</td>
@@ -6515,7 +6189,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 03 19*</td>
 <td>disperzivno ulje</td>
@@ -6524,7 +6197,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 03 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -6533,7 +6205,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 04</td>
 <td>otpad iz PFDU ljepila i sredstava za brtvljenje (uključujući vodonepropusne proizvode)</td>
@@ -6542,7 +6213,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 04 09*</td>
 <td>otpadna ljepila i sredstva za brtvljenje, koja sadrže organska otapala ili druge opasne tvari</td>
@@ -6551,7 +6221,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 04 10</td>
 <td>otpadna ljepila i sredstva za brtvljenje, koja nisu navedena pod 08 04 09</td>
@@ -6560,7 +6229,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 04 11*</td>
 <td>muljevi od ljepila i sredstava za brtvljenje koji sadrže organska otapala ili druge opasne tvari</td>
@@ -6569,7 +6237,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 04 12</td>
 <td>muljevi od ljepila i sredstava za brtvljenje koji nisu navedeni pod 08 04 11</td>
@@ -6578,7 +6245,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 04 13*</td>
 <td>vodeni muljevi, koji sadrže ljepila ili sredstva za brtvljenje i koji sadrže organska otapala ili druge opasne tvari</td>
@@ -6587,7 +6253,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 04 14</td>
 <td>vodeni muljevi koji sadrže ljepila ili sredstva za brtvljenje, a koji nisu navedeni pod 08 04 13</td>
@@ -6596,7 +6261,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 04 15*</td>
 <td>vodeni tekući otpad, koji sadrži ljepila ili sredstva za brtvljenje i koji sadrži organska otapala ili druge opasne tvari</td>
@@ -6605,7 +6269,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 04 16</td>
 <td>vodeni tekući otpad koji sadrži ljepila ili sredstva za brtvljenje koji nije naveden pod 08 04 15</td>
@@ -6614,7 +6277,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 04 17*</td>
 <td>kolofonij ulje</td>
@@ -6623,7 +6285,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 04 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -6632,7 +6293,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>08 05</td>
 <td>otpad koji nije specificiran na drugi način pod 08</td>
@@ -6641,7 +6301,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>08 05 01*</td>
 <td>otpadni izocijanati</td>
@@ -6650,7 +6309,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09</td>
 <td>OTPAD IZ FOTOGRAFSKE INDUSTRIJE</td>
@@ -6659,7 +6317,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09 01</td>
 <td>otpad iz fotografske industrije</td>
@@ -6668,7 +6325,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09 01 01*</td>
 <td>razvijači i aktivatori na bazi vode</td>
@@ -6677,7 +6333,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09 01 02*</td>
 <td>razvijači za offset ploče na bazi vode</td>
@@ -6686,7 +6341,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09 01 03*</td>
 <td>razvijači na bazi otapala</td>
@@ -6695,7 +6349,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09 01 04*</td>
 <td>otopine za fiksiranje</td>
@@ -6704,7 +6357,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09 01 05*</td>
 <td>otopine za izbjeljivanje i otopine za izbjeljivanje i fiksiranje</td>
@@ -6713,7 +6365,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09 01 06*</td>
 <td>otpad koji sadrži srebro, a potječe od obrade fotografskog otpada na mjestu njegova nastanka</td>
@@ -6722,7 +6373,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09 01 07</td>
 <td>fotografski film i papir, koji sadrže srebro ili spojeve srebra</td>
@@ -6731,7 +6381,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>09 01 08</td>
 <td>fotografski film i papir, koji ne sadrže srebro ili spojeve srebra</td>
@@ -6740,7 +6389,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>09 01 10</td>
 <td>fotografski aparati za jednokratnu uporabu koji ne sadrže baterije</td>
@@ -6749,7 +6397,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>09 01 11*</td>
 <td>fotografski aparati za jednokratnu uporabu, koji sadrže baterije navedene pod 16 06 01, 16 06 02 ili 16 06 03</td>
@@ -6758,7 +6405,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>09 01 12</td>
 <td>fotografski aparati za jednokratnu uporabu koji sadrže baterije, a koji nisu navedeni pod 09 01 11</td>
@@ -6767,7 +6413,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>09 01 13*</td>
 <td>vodeni tekući otpad od regeneracije srebra na mjestu nastanka, koji nije naveden pod 09 01 06</td>
@@ -6776,7 +6421,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>09 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -6785,7 +6429,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10</td>
 <td>OTPAD IZ TERMIČKIH PROCESA</td>
@@ -6794,7 +6437,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 01</td>
 <td>otpad iz termoelektrana i ostalih postrojenja u kojima se odvija sagorijevanje (osim 19)</td>
@@ -6803,7 +6445,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 01 01</td>
 <td>pepeo s rešetke ložišta, talog i prašina iz kotla (osim prašine iz kotla navedene pod 10 01 04)</td>
@@ -6812,7 +6453,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 01 02</td>
 <td>lebdeći pepeo od izgaranja ugljena</td>
@@ -6821,7 +6461,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 03</td>
 <td>lebdeći pepeo od izgaranja treseta i neobrađenog drveta</td>
@@ -6830,7 +6469,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 04*</td>
 <td>lebdeći pepeo od izgaranja ulja i prašina iz kotla</td>
@@ -6839,7 +6477,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 05</td>
 <td>kruti reakcijski otpad na bazi kalcija, koji nastaje pri odsumporavanju dimnih plinova</td>
@@ -6848,7 +6485,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 01 07</td>
 <td>muljeviti reakcijski otpad na bazi kalcija, koji nastaje pri odsumporavanju dimnih plinova</td>
@@ -6857,7 +6493,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 09*</td>
 <td>sulfatna kiselina</td>
@@ -6866,7 +6501,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 01 13*</td>
 <td>lebdeći pepeo od emulgiranih ugljikovodika koji se koriste kao gorivo</td>
@@ -6875,7 +6509,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 14*</td>
 <td>šljaka s rešetki ložišta, šljaka i prašina iz kotla od suspaljivanja, koje sadrže opasne tvari</td>
@@ -6884,7 +6517,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 15</td>
 <td>pepeo s rešetke ložišta, talog i prašina iz kotla od suspaljivanja, koji nisu navedeni pod 10 01 14</td>
@@ -6893,7 +6525,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 01 16*</td>
 <td>lebdeći pepeo od suspaljivanja koji sadrži opasne tvari</td>
@@ -6902,7 +6533,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 17</td>
 <td>lebdeći pepeo od suspaljivanja koji nije naveden pod 10 01 16</td>
@@ -6911,7 +6541,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 18*</td>
 <td>otpad od pročišćavanja plinova koji sadrži opasne tvari</td>
@@ -6920,7 +6549,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 01 19</td>
 <td>otpad od pročišćavanja plinova koji nije naveden pod 10 01 05, 10 01 07 i 10 01 18</td>
@@ -6929,7 +6557,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 01 20*</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji sadrže opasne tvari</td>
@@ -6938,7 +6565,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 21</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji nisu navedeni pod 10 01 20</td>
@@ -6947,7 +6573,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 22*</td>
 <td>vodeni muljevi od čišćenja kotla koji sadrže opasne tvari</td>
@@ -6956,7 +6581,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 23</td>
 <td>vodeni muljevi od čišćenja kotla koji nisu navedeni pod 10 01 22</td>
@@ -6965,7 +6589,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 24</td>
 <td>pijesak iz fluidiziranih slojeva</td>
@@ -6974,7 +6597,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 01 25</td>
 <td>otpad od skladištenja i pripreme goriva u elektranama koje rade na ugljen</td>
@@ -6983,7 +6605,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 01 26</td>
 <td>otpad od obrade rashladne vode</td>
@@ -6992,7 +6613,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -7001,7 +6621,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02</td>
 <td>otpad iz industrije željeza i čelika</td>
@@ -7010,7 +6629,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 02 01</td>
 <td>otpad od prerade šljake</td>
@@ -7019,7 +6637,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02 02</td>
 <td>neprerađena šljaka</td>
@@ -7028,7 +6645,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02 07*</td>
 <td>kruti otpad od obrade plinova koji sadrži opasne tvari</td>
@@ -7037,7 +6653,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02 08</td>
 <td>kruti otpad od obrade plinova koji nije naveden pod 10 02 07</td>
@@ -7046,7 +6661,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02 10</td>
 <td>ogorine</td>
@@ -7055,7 +6669,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02 11*</td>
 <td>otpad od obrade rashladnih voda koji sadrži ulje</td>
@@ -7064,7 +6677,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 02 12</td>
 <td>otpad od obrade rashladnih voda koji nije naveden pod 10 02 11</td>
@@ -7073,7 +6685,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02 13*</td>
 <td>muljevi i filtarski kolači od obrade plina, koji sadrže opasne tvari</td>
@@ -7082,7 +6693,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02 14</td>
 <td>muljevi i filtarski kolači od obrade plina, koji nisu navedeni pod 10 02 13</td>
@@ -7091,7 +6701,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02 15</td>
 <td>ostali muljevi i filtarski kolači</td>
@@ -7100,7 +6709,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 02 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -7109,7 +6717,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03</td>
 <td>otpad iz metalurgije aluminija</td>
@@ -7118,7 +6725,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 03 02</td>
 <td>istrošene anode</td>
@@ -7127,7 +6733,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 03 04</td>
 <td>šljaka iz primarne proizvodnje</td>
@@ -7136,7 +6741,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 03 05</td>
 <td>otpadna glinica</td>
@@ -7145,7 +6749,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 03 08*</td>
 <td>šljaka iz sekundarne proizvodnje, a koja sadrži soli</td>
@@ -7154,7 +6757,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 09*</td>
 <td>crna šljaka iz sekundarne proizvodnje</td>
@@ -7163,7 +6765,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 15*</td>
 <td>plivajuća pjena/šljaka koja je zapaljiva ili koja u dodiru s vodom ispušta zapaljive plinove u opasnim količinama</td>
@@ -7172,7 +6773,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 16</td>
 <td>plivajuća pjena/šljaka koja nije navedena pod 10 03 15</td>
@@ -7181,7 +6781,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 03 17*</td>
 <td>otpad iz proizvodnje anoda koji sadrži katran</td>
@@ -7190,7 +6789,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 18</td>
 <td>otpad iz proizvodnje anoda, koji sadrži ugljik i koji nije naveden pod 10 03 17</td>
@@ -7199,7 +6797,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 03 19*</td>
 <td>prašina iz dimnog plina koja sadrži opasne tvari</td>
@@ -7208,7 +6805,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 20</td>
 <td>prašina iz dimnog plina koja nije navedena po 10 03 19</td>
@@ -7217,7 +6813,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 21*</td>
 <td>ostale čestice i prašina (uključujući prašinu iz kugličnog mlina) koje sadrže opasne tvari</td>
@@ -7226,7 +6821,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 22</td>
 <td>ostale čestice i prašina (uključujući prašinu iz kugličnog mlina) koje nisu navedene pod 10 03 21</td>
@@ -7235,7 +6829,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 23*</td>
 <td>kruti otpad od obrade plina, koji sadrži opasne tvari</td>
@@ -7244,7 +6837,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 24</td>
 <td>kruti otpad od obrade plina, koji nije naveden pod 10 03 23</td>
@@ -7253,7 +6845,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 03 25*</td>
 <td>muljevi i filtarski kolači od obrade plina koji sadrže opasne tvari</td>
@@ -7262,7 +6853,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 26</td>
 <td>muljevi i filtarski kolači od obrade plina koji nisu navedeni pod 10 03 25</td>
@@ -7271,7 +6861,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 27*</td>
 <td>otpad od obrade rashladne vode koji sadrži ulje</td>
@@ -7280,7 +6869,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 03 28</td>
 <td>otpad od obrade rashladne vode koji nije naveden pod 10 03 27</td>
@@ -7289,7 +6877,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 29*</td>
 <td>otpad od obrade šljake koja sadrži soli i obrade crne drozge, a koji sadrži opasne tvari</td>
@@ -7298,7 +6885,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 03 30</td>
 <td>otpad od obrade šljake koja sadrži soli i obrade crne drozge, a koji nije naveden pod 10 03 29</td>
@@ -7307,7 +6893,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 03 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -7316,7 +6901,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 04</td>
 <td>otpad iz metalurgije olova</td>
@@ -7325,7 +6909,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 04 01*</td>
 <td>troska iz primarne i sekundarne proizvodnje</td>
@@ -7334,7 +6917,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 04 02*</td>
 <td>drozga i nečista pjena iz primarne i sekundarne proizvodnje</td>
@@ -7343,7 +6925,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 04 03*</td>
 <td>kalcij arsenat</td>
@@ -7352,7 +6933,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 04 04*</td>
 <td>prašina iz dimnih plinova</td>
@@ -7361,7 +6941,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 04 05*</td>
 <td>ostale čestice i prašina</td>
@@ -7370,7 +6949,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 04 06*</td>
 <td>kruti otpad od obrade plina</td>
@@ -7379,7 +6957,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 04 07*</td>
 <td>muljevi i filtarski kolači od obrade plina</td>
@@ -7388,7 +6965,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 04 09*</td>
 <td>otpad od obrade rashladne vode koji sadrži ulje</td>
@@ -7397,7 +6973,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 04 10</td>
 <td>otpad od obrade rashladne vode koji nije naveden pod 10 04 09</td>
@@ -7406,7 +6981,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 04 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -7415,7 +6989,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 05</td>
 <td>otpad iz metalurgije cinka</td>
@@ -7424,7 +6997,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 05 01</td>
 <td>troska iz primarne i sekundarne proizvodnje</td>
@@ -7433,7 +7005,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 05 03*</td>
 <td>prašina iz dimnih plinova</td>
@@ -7442,7 +7013,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 05 04</td>
 <td>ostale čestice i prašina</td>
@@ -7451,7 +7021,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 05 05*</td>
 <td>kruti otpad od obrade plina</td>
@@ -7460,7 +7029,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 05 06*</td>
 <td>muljevi i filtarski kolači od obrade plina</td>
@@ -7469,7 +7037,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 05 08*</td>
 <td>otpad od obrade rashladne vode koji sadrži ulje</td>
@@ -7478,7 +7045,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 05 09</td>
 <td>otpad od obrade rashladne vode koji nije naveden pod 10 05 08</td>
@@ -7487,7 +7053,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 05 10*</td>
 <td>drozga i nečista pjena koje su zapaljive ili koje u dodiru s vodom ispuštaju zapaljive plinove u opasnim količinama</td>
@@ -7496,7 +7061,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 05 11</td>
 <td>drozga i nečista pjena koje nisu navedene pod 10 05 10</td>
@@ -7505,7 +7069,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 05 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -7514,7 +7077,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 06</td>
 <td>otpad iz metalurgije bakra</td>
@@ -7523,7 +7085,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 06 01</td>
 <td>drozga i nečista pjena iz primarne i sekundarne proizvodnje</td>
@@ -7532,7 +7093,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 06 02</td>
 <td>troska iz primarne i sekundarne proizvodnje</td>
@@ -7541,7 +7101,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 06 03*</td>
 <td>prašina iz dimnih plinova</td>
@@ -7550,7 +7109,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 06 04</td>
 <td>ostale čestice i prašina</td>
@@ -7559,7 +7117,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 06 06*</td>
 <td>kruti otpad od obrade plina</td>
@@ -7568,7 +7125,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 06 07*</td>
 <td>muljevi i filtarski kolači od obrade plina</td>
@@ -7577,7 +7133,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 06 09*</td>
 <td>otpad od obrade rashladne vode koji sadrži ulje</td>
@@ -7586,7 +7141,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 06 10</td>
 <td>otpad od obrade rashladne vode koji nije naveden pod 10 06 09</td>
@@ -7595,7 +7149,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 06 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -7604,7 +7157,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 07</td>
 <td>otpad iz metalurgije srebra, zlata i platine</td>
@@ -7613,7 +7165,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 07 01</td>
 <td>troska iz primarne i sekundarne proizvodnje</td>
@@ -7622,7 +7173,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 07 02</td>
 <td>šljaka i otpadna pjena iz primarne i sekundarne proizvodnje</td>
@@ -7631,7 +7181,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 07 03</td>
 <td>kruti otpad od obrade plina</td>
@@ -7640,7 +7189,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 07 04</td>
 <td>ostale čestice i prašina</td>
@@ -7649,7 +7197,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 07 05</td>
 <td>muljevi i filtarski kolači od obrade plina</td>
@@ -7658,7 +7205,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 07 07*</td>
 <td>otpad od obrade rashladne vode koji sadrži ulje</td>
@@ -7667,7 +7213,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 07 08</td>
 <td>otpad od obrade rashladne vode koji nije naveden pod 10 07 07</td>
@@ -7676,7 +7221,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 07 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -7685,7 +7229,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08</td>
 <td>otpad iz metalurgije ostalih obojenih metala</td>
@@ -7694,7 +7237,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 08 04*</td>
 <td>čestice i prašina</td>
@@ -7703,7 +7245,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 08*</td>
 <td>troska iz primarne i sekundarne proizvodnje, koja sadrži soli</td>
@@ -7712,7 +7253,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 09*</td>
 <td>ostala troska</td>
@@ -7721,7 +7261,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 08 10*</td>
 <td>drozga i nečista pjena koje su zapaljive ili koje u dodiru s vodom ispuštaju zapaljive plinove u opasnim količinama</td>
@@ -7730,7 +7269,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 08 11</td>
 <td>šljaka i nečista pjena koje nisu navedene pod 10 08 10</td>
@@ -7739,7 +7277,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 08 12*</td>
 <td>otpad iz proizvodnje anoda koji sadrži katran</td>
@@ -7748,7 +7285,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 13</td>
 <td>otpad iz proizvodnje anoda koji sadrži ugljik i koji nije naveden pod 10 08 12</td>
@@ -7757,7 +7293,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 14</td>
 <td>otpadne anode</td>
@@ -7766,7 +7301,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 08 15*</td>
 <td>prašina iz dimnih plinova koja sadrži opasne tvari</td>
@@ -7775,7 +7309,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 16</td>
 <td>prašina iz dimnih plinova koja nije navedena pod 10 08 15</td>
@@ -7784,7 +7317,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 17*</td>
 <td>muljevi i filtarski kolači od obrade dimnih plinova, koji sadrže opasne tvari</td>
@@ -7793,7 +7325,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 18</td>
 <td>muljevi i filtarski kolači od obrade dimnih plinova, koji nisu navedeni pod 10 08 17</td>
@@ -7802,7 +7333,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 19*</td>
 <td>otpad od obrade rashladne vode koji sadrži ulje</td>
@@ -7811,7 +7341,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 20</td>
 <td>otpad od obrade rashladne vode koji nije naveden pod 10 08 19</td>
@@ -7820,7 +7349,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 08 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -7829,7 +7357,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 09</td>
 <td>otpad od lijevanja željeza</td>
@@ -7838,7 +7365,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 09 03</td>
 <td>troska iz visoke peći</td>
@@ -7847,7 +7373,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 09 05*</td>
 <td>nekorišteni ljevački pijesak i kalupi, koji sadrže opasne tvari</td>
@@ -7856,7 +7381,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 09 06</td>
 <td>nekorišteni ljevački pijesak i kalupi, koji nisu navedeni pod 10 09 05</td>
@@ -7865,7 +7389,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 09 07*</td>
 <td>korišteni ljevački pijesak i kalupi, koji sadrže opasne tvari</td>
@@ -7874,7 +7397,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 09 08</td>
 <td>korišteni ljevački pijesak i kalupi, koji nisu navedeni pod 10 09 07</td>
@@ -7883,7 +7405,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 09 09*</td>
 <td>prašina iz dimnih plinova koja sadrži opasne tvari</td>
@@ -7892,7 +7413,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 09 10</td>
 <td>prašina iz dimnih plinova koja nije navedena pod 10 09 09</td>
@@ -7901,7 +7421,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 09 11*</td>
 <td>ostale čestice koje sadrže opasne tvari</td>
@@ -7910,7 +7429,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 09 12</td>
 <td>ostale čestice koje nisu navedene pod 10 09 11</td>
@@ -7919,7 +7437,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 09 13*</td>
 <td>otpadna veziva koja sadrže opasne tvari</td>
@@ -7928,7 +7445,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 09 14</td>
 <td>otpadna veziva koja nisu navedena pod 10 09 13</td>
@@ -7937,7 +7453,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 09 15*</td>
 <td>otpadna sredstva za otkrivanje pukotina, koja sadrže opasne tvari</td>
@@ -7946,7 +7461,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 09 16</td>
 <td>otpadna sredstva za otkrivanje pukotina koja nisu navedena pod 10 09 15</td>
@@ -7955,7 +7469,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 09 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -7964,7 +7477,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 10</td>
 <td>otpad od lijevanja obojenih metala</td>
@@ -7973,7 +7485,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 10 03</td>
 <td>troska iz visoke peći</td>
@@ -7982,7 +7493,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 10 05*</td>
 <td>nekorišteni ljevački pijesak i kalupi, koji sadrže opasne tvari</td>
@@ -7991,7 +7501,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 10 06</td>
 <td>nekorišteni ljevački pijesak i kalupi, koji nisu navedeni pod 10 10 05</td>
@@ -8000,7 +7509,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 10 07*</td>
 <td>korišteni ljevački pijesak i kalupi, koji sadrže opasne tvari</td>
@@ -8009,7 +7517,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 10 08</td>
 <td>korišteni ljevački pijesak i kalupi, koji nisu navedeni pod 10 10 07</td>
@@ -8018,7 +7525,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 10 09*</td>
 <td>prašina iz dimnih plinova koja sadrži opasne tvari</td>
@@ -8027,7 +7533,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 10 10</td>
 <td>prašina iz dimnih plinova koja nije navedena pod 10 10 09</td>
@@ -8036,7 +7541,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 10 11*</td>
 <td>ostale čestice koje sadrže opasne tvari</td>
@@ -8045,7 +7549,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 10 12</td>
 <td>ostale čestice koje nisu navedene pod 10 10 11</td>
@@ -8054,7 +7557,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 10 13*</td>
 <td>otpadna veziva koja sadrže opasne tvari</td>
@@ -8063,7 +7565,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 10 14</td>
 <td>otpadna veziva koja nisu navedena pod 10 10 13</td>
@@ -8072,7 +7573,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 10 15*</td>
 <td>otpadna sredstva za otkrivanje pukotina koja sadrže opasne tvari</td>
@@ -8081,7 +7581,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 10 16</td>
 <td>otpadna sredstva za otkrivanje pukotina koja nisu navedena pod 10 10 15</td>
@@ -8090,7 +7589,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 10 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -8099,7 +7597,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11</td>
 <td>otpad od proizvodnje stakla i proizvoda od stakla</td>
@@ -8108,7 +7605,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 11 03</td>
 <td>otpadni vlaknasti materijali na bazi stakla</td>
@@ -8117,7 +7613,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 05</td>
 <td>čestice i prašina</td>
@@ -8126,7 +7621,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 09*</td>
 <td>otpad od pripreme mješavine prije toplinske obrade, koji sadrži opasne tvari</td>
@@ -8135,7 +7629,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 10</td>
 <td>otpad od pripreme mješavine prije toplinske obrade, koji nije naveden pod 10 11 09</td>
@@ -8144,7 +7637,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 11 11*</td>
 <td>otpadno staklo u malim česticama i stakleni prah, koji sadrže teške metale (na primjer od katodnih cijevi)</td>
@@ -8153,7 +7645,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 12</td>
 <td>otpadno staklo koje nije navedeno pod 10 11 11</td>
@@ -8162,7 +7653,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 13*</td>
 <td>mulj od poliranja i brušenja stakla koji sadrži opasne tvari</td>
@@ -8171,7 +7661,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 14</td>
 <td>mulj od poliranja i brušenja stakla koji nije naveden pod 10 11 13</td>
@@ -8180,7 +7669,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 15*</td>
 <td>kruti otpad od obrade dimnih pliova koji sadrži opasne tvari</td>
@@ -8189,7 +7677,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 16</td>
 <td>kruti otpad od obrade dimnih plinova koji nije naveden pod 10 11 15</td>
@@ -8198,7 +7685,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 17*</td>
 <td>muljevi i filtarski kolači od obrade dimnih plinova, koji sadrži opasne tvari</td>
@@ -8207,7 +7693,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 18</td>
 <td>muljevi i filtarski kolači od obrade dimnih plinova, koji nije naveden pod 10 11 17</td>
@@ -8216,7 +7701,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 19*</td>
 <td>kruti otpad od obrade efluenata na mjestu njihova nastanka, koji sadrži opasne tvari</td>
@@ -8225,7 +7709,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 20</td>
 <td>kruti otpad od obrade efluenata na mjestu njihova nastanka, koji nije naveden pod 10 11 19</td>
@@ -8234,7 +7717,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 11 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -8243,7 +7725,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 12</td>
 <td>otpad od proizvodnje keramičke robe, cigle, pločica i građevinskog materijala</td>
@@ -8252,7 +7733,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 12 01</td>
 <td>otpadna mješavina pripremljena prije termičke obrade</td>
@@ -8261,7 +7741,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 12 03</td>
 <td>čestice i prašina</td>
@@ -8270,7 +7749,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 12 05</td>
 <td>muljevi i filtarski kolači od obrade plina</td>
@@ -8279,7 +7757,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 12 06</td>
 <td>odbačeni kalupi</td>
@@ -8288,7 +7765,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 12 08</td>
 <td>otpad od keramike, cigli, crijepa i građevinskog materijala (nakon termičke obrade)</td>
@@ -8297,7 +7773,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 12 09*</td>
 <td>kruti otpad od obrade dimnih plinova koji sadrži opasne tvari</td>
@@ -8306,7 +7781,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 12 10</td>
 <td>kruti otpad od obrade dimnih plinova koji nije naveden pod 10 12 09</td>
@@ -8315,7 +7789,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 12 11*</td>
 <td>otpad od glaziranja koji sadrži teške metale</td>
@@ -8324,7 +7797,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 12 12</td>
 <td>otpad od glaziranja koji nije naveden pod 10 12 11</td>
@@ -8333,7 +7805,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 12 13</td>
 <td>mulj od obrade efluenata na mjestu njihova nastanka</td>
@@ -8342,7 +7813,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 12 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -8351,7 +7821,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 13</td>
 <td>otpad iz proizvodnje cementa, vapna i gipsa te otpadni predmeti i proizvodi napravljeni od njih</td>
@@ -8360,7 +7829,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 13 01</td>
 <td>otpadna mješavina pripremljena prije toplinske obrade</td>
@@ -8369,7 +7837,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 13 04</td>
 <td>otpad od kalciniranja i hidratizacije vapna</td>
@@ -8378,7 +7845,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 13 06</td>
 <td>čestice i prašina (osim pod 10 13 12 i 10 13 13)</td>
@@ -8387,7 +7853,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 13 07</td>
 <td>muljevi i filtarski kolači od obrade plina</td>
@@ -8396,7 +7861,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 13 09*</td>
 <td>otpad iz proizvodnje azbestnog cementa, koji sadrži azbest</td>
@@ -8405,7 +7869,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 13 10</td>
 <td>otpad iz proizvodnje azbestnog cementa, koji nije naveden pod 10 13 09</td>
@@ -8414,7 +7877,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 13 11</td>
 <td>otpad od kompozitnih materijala na bazi cementa, koji nije naveden pod 10 13 09 i 10 13 10</td>
@@ -8423,7 +7885,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 13 12*</td>
 <td>kruti otpad od obrade plina, koji sadrži opasne tvari</td>
@@ -8432,7 +7893,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 13 13</td>
 <td>kruti otpad od obrade plina, koji nije naveden pod 10 13 12</td>
@@ -8441,7 +7901,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>10 13 14</td>
 <td>otpadni beton i betonski mulj</td>
@@ -8450,7 +7909,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 13 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -8459,7 +7917,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>10 14</td>
 <td>otpad iz krematorija</td>
@@ -8468,7 +7925,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>10 14 01*</td>
 <td>otpad od pročišćavanja plina, koji sadrži živu</td>
@@ -8477,7 +7933,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11</td>
 <td>OTPAD OD KEMIJSKE POVRŠINSKE OBRADE I ZAŠTITE METALA I DRUGIH MATERIJALA; HIDROMETALURGIJA NEŽELJEZNIH METALA</td>
@@ -8486,7 +7941,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 01</td>
 <td>otpad od kemijske površinske obrade i zaštite metala i drugih materijala (npr. galvanski procesi, procesi pocinčavanja, dekapiranja, jetkanja, fosfatiranja, odmašćivanja alkalnim sredstvima, anodiziranja)</td>
@@ -8495,7 +7949,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 01 05*</td>
 <td>kiseline za dekapiranje</td>
@@ -8504,7 +7957,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 01 06*</td>
 <td>kiseline koje nisu specificirane na drugi način</td>
@@ -8513,7 +7965,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 01 07*</td>
 <td>lužine za dekapiranje</td>
@@ -8522,7 +7973,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 01 08*</td>
 <td>muljevi od fosfatiranja</td>
@@ -8531,7 +7981,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 01 09*</td>
 <td>muljevi i filtarski kolači, koji sadrže opasne tvari</td>
@@ -8540,7 +7989,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 01 10</td>
 <td>muljevi i filtarski kolači, koji nisu navedeni pod 11 01 09</td>
@@ -8549,7 +7997,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 01 11*</td>
 <td>vodene tekućine za ispiranje koje sadrže opasne tvari</td>
@@ -8558,7 +8005,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 01 12</td>
 <td>vodene tekućine za ispiranje koje nisu navedene pod 11 01 11</td>
@@ -8567,7 +8013,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 01 13*</td>
 <td>otpad od odmašćivanja koji sadrži opasne tvari</td>
@@ -8576,7 +8021,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 01 14</td>
 <td>otpad od odmašćivanja koji nije naveden pod 11 01 13</td>
@@ -8585,7 +8029,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 01 15*</td>
 <td>eluati i muljevi iz membranskih sustava ili sustava ionskih izmjenjivača, koji sadrže opasne tvari</td>
@@ -8594,7 +8037,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 01 16*</td>
 <td>zasićene ili potrošene smole ionskih izmjenjivača</td>
@@ -8603,7 +8045,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 01 98*</td>
 <td>ostali otpad koji sadrži opasne tvari</td>
@@ -8612,7 +8053,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -8621,7 +8061,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 02</td>
 <td>otpad iz procesa hidrometalurgije neželjeznih metala</td>
@@ -8630,7 +8069,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 02 02*</td>
 <td>muljevi iz hidrometalurgije cinka (uključujući jarosit i getit)</td>
@@ -8639,7 +8077,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 02 03</td>
 <td>otpad iz proizvodnje anoda za elektrolitičke procese u vodenom mediju</td>
@@ -8648,7 +8085,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 02 05*</td>
 <td>otpad iz procesa hidrometalurgije bakra, koji sadrži opasne tvari</td>
@@ -8657,7 +8093,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 02 06</td>
 <td>otpad iz procesa hidrometalurgije bakra, koji nije naveden pod 11 02 05</td>
@@ -8666,7 +8101,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 02 07*</td>
 <td>ostali otpad koji sadrži opasne tvari</td>
@@ -8675,7 +8109,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 02 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -8684,7 +8117,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 03</td>
 <td>muljevi i krutine od procesa otvrdnjavanja (temperiranja)</td>
@@ -8693,7 +8125,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 03 01*</td>
 <td>otpad koji sadrži cijanide</td>
@@ -8702,7 +8133,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 03 02*</td>
 <td>ostali otpad</td>
@@ -8711,7 +8141,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 05</td>
 <td>otpad iz procesa vruće galvanizacije</td>
@@ -8720,7 +8149,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 05 01</td>
 <td>tvrdi cink</td>
@@ -8729,7 +8157,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>11 05 02</td>
 <td>cinkov pepeo</td>
@@ -8738,7 +8165,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 05 03*</td>
 <td>kruti otpad od obrade plina</td>
@@ -8747,7 +8173,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>11 05 04*</td>
 <td>iscrpljena kupka</td>
@@ -8756,7 +8181,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>11 05 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -8765,7 +8189,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>12</td>
 <td>OTPAD OD MEHANIČKOG OBLIKOVANJA TE FIZIKALNE I MEHANIČKE POVRŠINSKE OBRADE METALA I PLASTIKE</td>
@@ -8774,7 +8197,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 01</td>
 <td>otpad od oblikovanja te fizikalne i mehaničke obrade metala i plastike</td>
@@ -8783,7 +8205,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 01 01</td>
 <td>strugotine i opiljci koji sadrže željezo</td>
@@ -8792,7 +8213,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>12 01 02</td>
 <td>prašina i čestice koje sadrže željezo</td>
@@ -8801,7 +8221,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 03</td>
 <td>strugotine i opiljci obojenih metala</td>
@@ -8810,7 +8229,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>12 01 04</td>
 <td>prašina i čestice obojenih metala</td>
@@ -8819,7 +8237,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 05</td>
 <td>strugotine od (brušenja i glodanja) plastike</td>
@@ -8828,7 +8245,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 06*</td>
 <td>strojna ulja na mineralnoj bazi koja sadrže halogene (osim emulzija i otopina)</td>
@@ -8837,7 +8253,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 01 07*</td>
 <td>strojna ulja na mineralnoj bazi koja ne sadrže halogene (osim emulzija i otopina)</td>
@@ -8846,7 +8261,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 01 08*</td>
 <td>emulzije i otopine za strojnu obradu, koje sadrže halogene</td>
@@ -8855,7 +8269,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 01 09*</td>
 <td>emulzije i otopine za strojnu obradu, koje ne sadrže halogene</td>
@@ -8864,7 +8277,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 01 10*</td>
 <td>sintetska ulja za strojnu obradu</td>
@@ -8873,7 +8285,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 01 12*</td>
 <td>istrošeni voskovi i masti</td>
@@ -8882,7 +8293,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 01 13</td>
 <td>otpad od zavarivanja</td>
@@ -8891,7 +8301,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>12 01 14*</td>
 <td>muljevi od strojne obrade koji sadrže opasne tvari</td>
@@ -8900,7 +8309,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 15</td>
 <td>muljevi od strojne obrade koji nisu navedeni pod 12 01 14</td>
@@ -8909,7 +8317,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 16*</td>
 <td>otpad od pjeskarenja koji sadrži opasne tvari</td>
@@ -8918,7 +8325,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 17</td>
 <td>otpad od pjeskarenja koji nije naveden pod 12 01 16</td>
@@ -8927,7 +8333,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 18*</td>
 <td>metalni mulj (mulj od brušenja, honiranja i poliranja) koji sadrži ulje</td>
@@ -8936,7 +8341,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 19*</td>
 <td>biološki lako razgradivo strojno ulje</td>
@@ -8945,7 +8349,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 01 20*</td>
 <td>istrošena brusna tijela i brusni materijali, koji sadrže opasne tvari</td>
@@ -8954,7 +8357,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 21</td>
 <td>istrošena brusna tijela i brusni materijali, koji nisu navedeni pod 12 01 20</td>
@@ -8963,7 +8365,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>12 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -8972,7 +8373,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>12 03</td>
 <td>otpad iz procesa odmašćivanja vodom i parom (osim 11)</td>
@@ -8981,7 +8381,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 03 01*</td>
 <td>vodene tekućine za ispiranje</td>
@@ -8990,7 +8389,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>12 03 02*</td>
 <td>otpad od odmašćivanja parom</td>
@@ -8999,7 +8397,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13</td>
 <td>OTPADNA ULJA I OTPAD OD TEKUĆIH GORIVA (osim jestivih ulja i ulja iz poglavlja 05, 12 i 19)</td>
@@ -9008,7 +8405,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 01</td>
 <td>otpadna hidraulična ulja</td>
@@ -9017,7 +8413,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 01 01*</td>
 <td>hidraulična ulja koja sadrže poliklorirane bifenile (PCB)1</td>
@@ -9026,7 +8421,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 01 04*</td>
 <td>klorirane emulzije</td>
@@ -9035,7 +8429,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 01 05*</td>
 <td>neklorirane emulzije</td>
@@ -9044,7 +8437,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 01 09*</td>
 <td>klorirana hidraulična ulja na bazi minerala</td>
@@ -9053,7 +8445,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 01 10*</td>
 <td>neklorirana hidraulična ulja na bazi minerala</td>
@@ -9062,7 +8453,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 01 11*</td>
 <td>sintetska hidraulična ulja</td>
@@ -9071,7 +8461,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 01 12*</td>
 <td>biološki lako razgradiva hidraulična ulja</td>
@@ -9080,7 +8469,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 01 13*</td>
 <td>ostala hidraulična ulja</td>
@@ -9089,7 +8477,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 02</td>
 <td>otpadna maziva ulja za motore i zupčanike</td>
@@ -9098,7 +8485,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 02 04*</td>
 <td>klorirana maziva ulja za motore i zupčanike, na bazi mineralnih ulja</td>
@@ -9107,7 +8493,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 02 05*</td>
 <td>neklorirana maziva ulja za motore i zupčanike, na bazi mineralnih ulja</td>
@@ -9116,7 +8501,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 02 06*</td>
 <td>sintetska maziva ulja za motore i zupčanike</td>
@@ -9125,7 +8509,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 02 07*</td>
 <td>biološki lako razgradiva maziva ulja za motore i zupčanike</td>
@@ -9134,7 +8517,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 02 08*</td>
 <td>ostala maziva ulja za motore i zupčanike</td>
@@ -9143,7 +8525,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 03</td>
 <td>otpadna izolacijska ulja i ulja za prijenos topline</td>
@@ -9152,7 +8533,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 03 01*</td>
 <td>otpadna izolacijska ulja i ulja za prijenos topline, koja sadrže PCB-e</td>
@@ -9161,7 +8541,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 03 06*</td>
 <td>klorirana izolacijska ulja i ulja za prijenos topline na bazi minerala, osim onih navedenih pod 13 03 01</td>
@@ -9170,7 +8549,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 03 07*</td>
 <td>neklorirana izolacijska ulja i ulja za prijenos topline na bazi minerala</td>
@@ -9179,7 +8557,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 03 08*</td>
 <td>sintetska izolacijska ulja i ulja za prijenos topline</td>
@@ -9188,7 +8565,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 03 09*</td>
 <td>biološki lako razgradiva izolacijska ulja i ulja za prijenos topline</td>
@@ -9197,7 +8573,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 03 10*</td>
 <td>ostala izolacijska ulja i ulja za prijenos topline</td>
@@ -9206,7 +8581,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 04</td>
 <td>kaljužna ulja</td>
@@ -9215,7 +8589,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 04 01*</td>
 <td>kaljužna ulja iz riječnih plovila</td>
@@ -9224,7 +8597,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 04 02*</td>
 <td>kaljužna ulja iz odvodnih kanala u pristaništima</td>
@@ -9233,7 +8605,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 04 03*</td>
 <td>kaljužna ulja iz drugih plovila</td>
@@ -9242,7 +8613,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 05</td>
 <td>sadržaj iz separatora ulje/voda</td>
@@ -9251,7 +8621,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 05 01*</td>
 <td>krute tvari iz pješčanih komora i separatora ulje/voda</td>
@@ -9260,7 +8629,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>13 05 02*</td>
 <td>muljevi iz separatora ulje/voda</td>
@@ -9269,7 +8637,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>13 05 03*</td>
 <td>muljevi iz hvatača ulja</td>
@@ -9278,7 +8645,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>13 05 06*</td>
 <td>ulje iz separatora ulje/voda</td>
@@ -9287,7 +8653,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 05 07*</td>
 <td>zauljena voda iz separatora ulje/voda</td>
@@ -9296,7 +8661,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 05 08*</td>
 <td>mješavine otpada iz pješčanih komora i separatora ulje/voda</td>
@@ -9305,7 +8669,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>13 07</td>
 <td>otpad od tekućih goriva</td>
@@ -9314,7 +8677,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 07 01*</td>
 <td>loživo ulje i dizel-gorivo</td>
@@ -9323,7 +8685,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 07 02*</td>
 <td>benzin</td>
@@ -9332,7 +8693,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 07 03*</td>
 <td>ostala goriva (uključujući mješavine)</td>
@@ -9341,7 +8701,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 08</td>
 <td>zauljeni otpad koji nije specificiran na drugi način</td>
@@ -9350,7 +8709,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 08 01*</td>
 <td>muljevi ili emulzije, iz desalinizatora</td>
@@ -9359,7 +8717,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>13 08 02*</td>
 <td>ostale emulzije</td>
@@ -9368,7 +8725,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>13 08 99*</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -9377,7 +8733,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>14</td>
 <td>OTPAD OD ORGANSKIH OTAPALA, RASHLADNIH I POTISNIH MEDIJA (osim 07 i 08)</td>
@@ -9386,7 +8741,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>14 06</td>
 <td>otpadna organska otapala, rashladne tvari i potisni mediji za pjene i aerosole</td>
@@ -9395,7 +8749,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>14 06 01*</td>
 <td>klorofluorougljici, HCFC, HFC</td>
@@ -9404,7 +8757,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>14 06 02*</td>
 <td>ostala halogenirana otapala i mješavine otapala</td>
@@ -9413,7 +8765,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>14 06 03*</td>
 <td>ostala otapala i mješavine otapala</td>
@@ -9422,7 +8773,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>14 06 04*</td>
 <td>muljevi ili kruti otpad, koji sadrže halogenirana otapala</td>
@@ -9431,7 +8781,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>14 06 05*</td>
 <td>muljevi ili kruti otpad, koji sadrže ostala otapala</td>
@@ -9440,7 +8789,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>15</td>
 <td>OTPADNA AMBALAŽA; APSORBENSI, TKANINE I SREDSTVA ZA BRISANJE I UPIJANJE, FILTARSKI MATERIJALI I ZAŠTITNA ODJEĆA KOJA NIJE SPECIFICIRANA NA DRUGI NAČIN</td>
@@ -9449,7 +8797,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>15 01</td>
 <td>ambalaža (uključujući odvojeno skupljenu ambalažu iz komunalnog otpada)</td>
@@ -9458,7 +8805,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>15 01 01</td>
 <td>ambalaža od papira i kartona</td>
@@ -9467,7 +8813,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>15 01 02</td>
 <td>ambalaža od plastike</td>
@@ -9476,7 +8821,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>15 01 03</td>
 <td>ambalaža od drveta</td>
@@ -9485,7 +8829,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>15 01 04</td>
 <td>ambalaža od metala</td>
@@ -9494,7 +8837,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>15 01 05</td>
 <td>višeslojna (kompozitna) ambalaža</td>
@@ -9503,7 +8845,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>15 01 06</td>
 <td>miješana ambalaža</td>
@@ -9512,7 +8853,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>15 01 07</td>
 <td>staklena ambalaža</td>
@@ -9521,7 +8861,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>15 01 09</td>
 <td>tekstilna ambalaža</td>
@@ -9530,7 +8869,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>15 01 10*</td>
 <td>ambalaža koja sadrži ostatke opasnih tvari ili je onečišćena opasnim tvarima</td>
@@ -9539,7 +8877,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>15 01 11*</td>
 <td>metalna ambalaža koja sadrži opasne krute porozne materijale (npr. azbest), uključujući prazne spremnike pod tlakom</td>
@@ -9548,7 +8885,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>15 02</td>
 <td>apsorbensi, filtarski materijali, tkanine i sredstva za brisanje i upijanje i zaštitna odjeća</td>
@@ -9557,7 +8893,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>15 02 02*</td>
 <td>apsorbensi, filtarski materijali (uključujući filtere za ulje koji nisu specificirani na drugi način), tkanine i sredstva za brisanje i upijanje i zaštitna odjeća, onečišćeni opasnim tvarima</td>
@@ -9566,7 +8901,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>15 02 03</td>
 <td>apsorbensi, filtarski materijali, tkanine i sredstva za brisanje i upijanje i zaštitna odjeća, koji nisu navedeni pod 15 02 02</td>
@@ -9575,7 +8909,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16</td>
 <td>OTPAD KOJI NIJE DRUGDJE SPECIFICIRAN U KATALOGU</td>
@@ -9584,7 +8917,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 01</td>
 <td>istrošena vozila iz različitih načina prijevoza (uključujući necestovnu mehanizaciju) i otpad od rastavljanja istrošenih vozila i od održavanja vozila (osim 13, 14, 16 06 i 16 08)</td>
@@ -9593,7 +8925,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 01 03</td>
 <td>istrošene gume</td>
@@ -9602,7 +8933,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 01 04*</td>
 <td>istrošena vozila</td>
@@ -9611,7 +8941,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 01 06</td>
 <td>istrošena vozila koja ne sadrže ni tekućine ni druge opasne komponente</td>
@@ -9620,7 +8949,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 01 07*</td>
 <td>filtri za ulje</td>
@@ -9629,7 +8957,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 01 08*</td>
 <td>komponente koje sadrže živu</td>
@@ -9638,7 +8965,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 01 09*</td>
 <td>komponente koje sadrže PCB-e</td>
@@ -9647,7 +8973,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 01 10*</td>
 <td>eksplozivne komponente (npr. zračni jastuci)</td>
@@ -9656,7 +8981,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 01 11*</td>
 <td>kočne obloge koje sadrže azbest</td>
@@ -9665,7 +8989,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 01 12</td>
 <td>kočne obloge koje nisu navedene pod 16 01 11</td>
@@ -9674,7 +8997,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 01 13*</td>
 <td>tekućine za kočnice</td>
@@ -9683,7 +9005,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 01 14*</td>
 <td>antifriz tekućine koje sadrže opasne tvari</td>
@@ -9692,7 +9013,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 01 15</td>
 <td>antifriz tekućine koje nisu navedene pod 16 01 14</td>
@@ -9701,13 +9021,11 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 01 16</td>
 <td>spremnici za tekući plin</td>
 <td colspan="4">POSEBNA OBRADA</td>
 </tr>
-
 <tr>
 <td>16 01 17</td>
 <td>željezne kovine</td>
@@ -9716,7 +9034,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 01 18</td>
 <td>obojene kovine</td>
@@ -9725,7 +9042,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 01 19</td>
 <td>plastika</td>
@@ -9734,7 +9050,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 01 20</td>
 <td>staklo</td>
@@ -9743,7 +9058,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 01 21*</td>
 <td>opasne komponente koje nisu navedene pod 16 01 07 do 16 01 11 i 16 01 13 i 16 01 14</td>
@@ -9752,7 +9066,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 01 22</td>
 <td>komponente koje nisu specificirane na drugi način</td>
@@ -9761,7 +9074,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -9770,7 +9082,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 02</td>
 <td>otpad iz električne i elektroničke opreme</td>
@@ -9779,7 +9090,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 02 09*</td>
 <td>transformatori i kondenzatori koji sadrže PCB-e</td>
@@ -9788,7 +9098,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 02 10*</td>
 <td>odbačena oprema koja sadrži PCB-e ili je onečišćena istima, a nije navedena pod 16 02 09</td>
@@ -9797,7 +9106,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 02 11*</td>
 <td>odbačena oprema koja sadrži klorofluorougljike, HCFC, HFC</td>
@@ -9806,7 +9114,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 02 12*</td>
 <td>odbačena oprema koja sadrži slobodni azbest</td>
@@ -9815,7 +9122,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 02 13*</td>
 <td>odbačena oprema koja sadrži opasne komponente2, a koja nije navedena pod 16 02 09 do 16 02 12</td>
@@ -9824,7 +9130,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 02 14</td>
 <td>odbačena oprema koja nije navedena pod 16 02 09 do 16 02 13</td>
@@ -9833,7 +9138,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 02 15*</td>
 <td>opasne komponente izvađene iz odbačene opreme</td>
@@ -9842,7 +9146,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 02 16</td>
 <td>komponente izvađene iz odbačene opreme koje nisu navedene pod 16 02 15</td>
@@ -9851,7 +9154,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 03</td>
 <td>šarže koje nisu u skladu sa specifikacijom i nekorišteni proizvodi</td>
@@ -9860,7 +9162,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 03 03*</td>
 <td>anorganski otpad koji sadrži opasne tvari</td>
@@ -9869,7 +9170,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 03 04</td>
 <td>anorganski otpad koji nije naveden pod 16 03 03</td>
@@ -9878,7 +9178,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 03 05*</td>
 <td>organski otpad koji sadrži opasne tvari</td>
@@ -9887,7 +9186,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 03 06</td>
 <td>organski otpad koji nije naveden pod 16 03 05</td>
@@ -9896,7 +9194,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 04</td>
 <td>otpad od eksplozivnih predmeta</td>
@@ -9905,25 +9202,21 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 04 01*</td>
 <td>otpadno streljivo</td>
 <td colspan="4">POSEBAN POSTUPAK</td>
 </tr>
-
 <tr>
 <td>16 04 02*</td>
 <td>pirotehnički otpad</td>
 <td colspan="4">POSEBAN POSTUPAK</td>
 </tr>
-
 <tr>
 <td>16 04 03*</td>
 <td>ostali otpad od eksplozivnih predmeta</td>
 <td colspan="4">POSEBAN POSTUPAK</td>
 </tr>
-
 <tr>
 <td>16 05</td>
 <td>plinovi u posudama pod tlakom i odbačene kemikalije</td>
@@ -9932,19 +9225,16 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 05 04*</td>
 <td>plinovi u posudama pod tlakom (uključujući halone) koji sadrže opasne tvari</td>
 <td colspan="4">POSEBAN POSTUPAK</td>
 </tr>
-
 <tr>
 <td>16 05 05</td>
 <td>plinovi u posudama pod tlakom koji nisu navedeni pod 16 05 04</td>
 <td colspan="4">POSEBAN POSTUPAK</td>
 </tr>
-
 <tr>
 <td>16 05 06*</td>
 <td>laboratorijske kemikalije koje se sastoje od opasnih tvari ili ih sadrže, uključujući mješavine laboratorijskih kemikalija</td>
@@ -9953,7 +9243,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 05 07*</td>
 <td>odbačene anorganske kemikalije koje se sastoje od opasnih tvari ili ih sadrže</td>
@@ -9962,7 +9251,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 05 08*</td>
 <td>odbačene organske kemikalije koje se sastoje od opasnih tvari ili ih sadrže</td>
@@ -9971,7 +9259,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 05 09</td>
 <td>odbačene kemikalije koje nisu navedene pod 16 05 06, 16 05 07 ili 16 05 08</td>
@@ -9980,7 +9267,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 06</td>
 <td>baterije i akumulatori</td>
@@ -9989,7 +9275,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 06 01*</td>
 <td>olovne baterije</td>
@@ -9998,7 +9283,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 06 02*</td>
 <td>nikal-kadmij baterije</td>
@@ -10007,7 +9291,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 06 03*</td>
 <td>baterije koje sadrže živu</td>
@@ -10016,7 +9299,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 06 04</td>
 <td>alkalne baterije (osim 16 06 03)</td>
@@ -10025,7 +9307,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 06 05</td>
 <td>ostale baterije i akumulatori</td>
@@ -10034,7 +9315,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 06 06*</td>
 <td>odvojeno skupljeni elektroliti iz baterija i akumulatora</td>
@@ -10043,7 +9323,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 07</td>
 <td>otpad iz cisterni za prijevoz, spremnika za skladištenje i od čišćenja bačava (osim 05 i 13)</td>
@@ -10052,7 +9331,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 07 08*</td>
 <td>otpad koji sadrži ulja</td>
@@ -10061,7 +9339,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 07 09*</td>
 <td>otpad koji sadrži druge opasne tvari</td>
@@ -10070,7 +9347,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 07 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -10079,7 +9355,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 08</td>
 <td>istrošeni katalizatori</td>
@@ -10088,7 +9363,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 08 01</td>
 <td>istrošeni katalizatori koji sadrže zlato, srebro, renij, rodij, paladij, iridij ili platinu (osim 16 08 07)</td>
@@ -10097,7 +9371,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 08 02*</td>
 <td>istrošeni katalizatori koji sadrže opasne prijelazne kovine33 ili spojeve opasnih prijelaznih kovina</td>
@@ -10106,7 +9379,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 08 03</td>
 <td>istrošeni katalizatori koji sadrže prijelazne kovine ili spojeve prijelaznih kovina, a koji nisu specificirani na drugi način</td>
@@ -10115,7 +9387,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 08 04</td>
 <td>istrošeni katalizatori iz lebdećeg sloja za katalitičko krekiranje (osim 16 08 07)</td>
@@ -10124,7 +9395,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 08 05*</td>
 <td>istrošeni katalizatori koji sadrže fosfatnu kiselinu</td>
@@ -10133,7 +9403,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 08 06*</td>
 <td>istrošene tekućine korištene kao katalizatori</td>
@@ -10142,7 +9411,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 08 07*</td>
 <td>istrošeni katalizatori onečišćeni opasnim tvarima</td>
@@ -10151,7 +9419,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 09</td>
 <td>oksidirajuće tvari</td>
@@ -10160,7 +9427,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 09 01*</td>
 <td>permanganati, npr. kalijev permanganat</td>
@@ -10169,7 +9435,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 09 02*</td>
 <td>kromati, npr. kalijev kromat, kalijev ili natrijev dikromat</td>
@@ -10178,7 +9443,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 09 03*</td>
 <td>peroksidi, npr. vodikov peroksid</td>
@@ -10187,7 +9451,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 09 04*</td>
 <td>oksidirajuće tvari koje nisu specificirane na drugi način</td>
@@ -10196,7 +9459,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 10</td>
 <td>vodeni tekući otpad namijenjen za obradu izvan mjesta nastanka</td>
@@ -10205,7 +9467,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 10 01*</td>
 <td>vodeni tekući otpad koji sadrži opasne tvari</td>
@@ -10214,7 +9475,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 10 02</td>
 <td>vodeni tekući otpad koji nije naveden pod 16 10 01</td>
@@ -10223,7 +9483,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 10 03*</td>
 <td>vodeni koncentrati koji sadrže opasne tvari</td>
@@ -10232,7 +9491,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 10 04</td>
 <td>vodeni koncentrati koji nisu navedeni pod 16 10 03</td>
@@ -10241,7 +9499,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 11</td>
 <td>otpadne obloge i vatrostalni otpad</td>
@@ -10250,7 +9507,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>16 11 01*</td>
 <td>obloge i vatrostalni otpad na bazi ugljika, koji potječe iz metalurških procesa i sadrži opasne tvari</td>
@@ -10259,7 +9515,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 11 02</td>
 <td>obloge i vatrostalni otpad na bazi ugljika, koji potječe iz metalurških procesa i nije naveden pod 16 11 01</td>
@@ -10268,7 +9523,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 11 03*</td>
 <td>ostale obloge i vatrostalni otpad iz metalurških procesa, koji sadrži opasne tvari</td>
@@ -10277,7 +9531,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 11 04</td>
 <td>ostale obloge i vatrostalni otpad iz metalurških procesa, koji nije naveden pod 16 11 03</td>
@@ -10286,7 +9539,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>16 11 05*</td>
 <td>obloge i vatrostalni otpad iz nemetalurških procesa, koji sadrži opasne tvari</td>
@@ -10295,7 +9547,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>16 11 06</td>
 <td>obloge i vatrostalni otpad iz nemetalurških procesa, koji nije naveden pod 16 11 05</td>
@@ -10304,7 +9555,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17</td>
 <td>GRAĐEVINSKI OTPAD I OTPAD OD RUŠENJA OBJEKATA (UKLJUČUJUĆI ISKOPANU ZEMLJU S ONEČIŠĆENIH LOKACIJA)</td>
@@ -10313,7 +9563,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 01</td>
 <td>beton, opeka, crijep/pločice i keramika</td>
@@ -10322,7 +9571,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 01 01</td>
 <td>beton</td>
@@ -10331,7 +9579,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 01 02</td>
 <td>opeka</td>
@@ -10340,7 +9587,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 01 03</td>
 <td>crijep/pločice i keramika</td>
@@ -10349,7 +9595,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 01 06*</td>
 <td>mješavine ili odvojene frakcije betona, opeke, crijepa/pločica i keramike, koje sadrže opasne tvari</td>
@@ -10358,7 +9603,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>17 01 07</td>
 <td>mješavine betona, opeke, crijepa/pločica i keramike koje nisu navedene pod 17 01 06</td>
@@ -10367,7 +9611,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 02</td>
 <td>drvo, staklo i plastika</td>
@@ -10376,7 +9619,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 02 01</td>
 <td>drvo</td>
@@ -10385,7 +9627,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 02 02</td>
 <td>staklo</td>
@@ -10394,7 +9635,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 02 03</td>
 <td>plastika</td>
@@ -10403,7 +9643,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 02 04*</td>
 <td>staklo, plastika i drvo koji sadrže ili su onečišćeni opasnim tvarima</td>
@@ -10412,7 +9651,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 03</td>
 <td>mješavine bitumena, ugljeni katran i proizvodi koji sadrže katran</td>
@@ -10421,7 +9659,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 03 01*</td>
 <td>mješavine bitumena koje sadrže ugljeni katran</td>
@@ -10430,7 +9667,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 03 02</td>
 <td>mješavine bitumena koje nisu navedene pod 17 03 01</td>
@@ -10439,7 +9675,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 03 03*</td>
 <td>ugljeni katran i proizvodi koji sadrže katran</td>
@@ -10448,7 +9683,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04</td>
 <td>metali (uključujući njihove legure)</td>
@@ -10457,7 +9691,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 01</td>
 <td>bakar, bronca, mjed</td>
@@ -10466,7 +9699,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 02</td>
 <td>aluminij</td>
@@ -10475,7 +9707,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 03</td>
 <td>olovo</td>
@@ -10484,7 +9715,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 04</td>
 <td>cink</td>
@@ -10493,7 +9723,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 05</td>
 <td>željezo i čelik</td>
@@ -10502,7 +9731,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 06</td>
 <td>kositar</td>
@@ -10511,7 +9739,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 07</td>
 <td>miješani metali</td>
@@ -10520,7 +9747,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 09*</td>
 <td>metalni otpad onečišćen opasnim tvarima</td>
@@ -10529,7 +9755,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 10*</td>
 <td>kabelski vodiči koji sadrže ulje, ugljeni katran i druge opasne tvari</td>
@@ -10538,7 +9763,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 04 11</td>
 <td>kabelski vodiči koji nisu navedeni pod 17 04 10</td>
@@ -10547,7 +9771,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 05</td>
 <td>zemlja (uključujući iskopanu zemlju s onečišćenih lokacija), kamenje i iskop od rada bagera</td>
@@ -10556,7 +9779,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 05 03*</td>
 <td>zemlja i kamenje koji sadrže opasne tvari</td>
@@ -10565,7 +9787,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>17 05 04</td>
 <td>zemlja i kamenje koji nisu navedeni pod 17 05 03</td>
@@ -10574,7 +9795,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 05 05*</td>
 <td>iskopana zemlja od rada bagera koja sadrži opasne tvari</td>
@@ -10583,7 +9803,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 05 06</td>
 <td>iskopana zemlja koja nije navedena pod 17 05 05</td>
@@ -10592,7 +9811,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 05 07*</td>
 <td>kamen tučenac za nasipavanje pruge koji sadrži opasne tvari</td>
@@ -10601,7 +9819,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>17 05 08</td>
 <td>kamen tučenac za nasipavanje pruge koji nije naveden pod 17 05 07</td>
@@ -10610,7 +9827,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 06</td>
 <td>izolacijski materijali i građevinski materijali, koji sadrže azbest</td>
@@ -10619,7 +9835,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 06 01*</td>
 <td>izolacijski materijali koji sadrže azbest</td>
@@ -10628,7 +9843,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>17 06 03*</td>
 <td>ostali izolacijski materijali, koji se sastoje od ili sadrže opasne tvari</td>
@@ -10637,7 +9851,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>17 06 04</td>
 <td>izolacijski materijali koji nisu navedeni pod 17 06 01 i 17 06 03</td>
@@ -10646,7 +9859,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 06 05*</td>
 <td>građevinski materijali koji sadrže azbest</td>
@@ -10655,7 +9867,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>17 08</td>
 <td>građevinski materijal na bazi gipsa</td>
@@ -10664,7 +9875,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 08 01*</td>
 <td>građevinski materijali na bazi gipsa onečišćeni opasnim tvarima</td>
@@ -10673,7 +9883,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>17 08 02</td>
 <td>građevinski materijali na bazi gipsa koji nisu navedeni pod 17 08 01</td>
@@ -10682,7 +9891,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>17 09</td>
 <td>ostali građevinski otpad i otpad od rušenja objekata</td>
@@ -10691,7 +9899,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 09 01*</td>
 <td>građevinski otpad i otpad od rušenja objekata, koji sadrži živu</td>
@@ -10700,7 +9907,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 09 02*</td>
 <td>građevinski otpad i otpad od rušenja koji sadrži poliklorirane bifenile (PCB) (npr. sredstva za brtvljenje koja sadrže PCB-e, podne obloge na bazi smola koje sadrže PCB-e, nepropusni prozorski elementi od izostakla koji sadrže PCB-e, kondenzatori koji sadrže PCB-e</td>
@@ -10709,7 +9915,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>17 09 03*</td>
 <td>ostali građevinski otpad i otpad od rušenja objekata (uključujući miješani otpad), koji sadrži opasne tvari</td>
@@ -10718,7 +9923,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>17 09 04</td>
 <td>miješani građevinski otpad i otpad od rušenja objekata, koji nije naveden pod 17 09 01, 17 09 02 i 17 09 03</td>
@@ -10727,7 +9931,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>18</td>
 <td>OTPAD KOJI NASTAJE KOD ZAŠTITE ZDRAVLJA LJUDI I ŽIVOTINJA I/ILI SRODNIH ISTRAŽIVANJA (osim otpada iz kuhinja i restorana koji ne potječe iz neposredne zdravstvene zaštite)</td>
@@ -10736,7 +9939,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 01</td>
 <td>otpad od njege novorođenčadi, dijagnosticiranja, liječenja ili prevencije bolesti kod ljudi</td>
@@ -10745,7 +9947,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 01 01</td>
 <td>oštri predmeti (osim 18 01 03)</td>
@@ -10754,7 +9955,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 01 02</td>
 <td>dijelovi ljudskog tijela i organi, uključujući vrećice i konzerve krvi (osim 18 01 03)</td>
@@ -10763,7 +9963,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 01 03*</td>
 <td>otpad čije je skupljanje i odlaganje podvrgnuto specijalnim zahtjevima radi prevencije infekcije</td>
@@ -10772,7 +9971,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 01 04</td>
 <td>otpad čije skupljanje i odlaganje nije podvrgnuto specijalnim zahtjevima radi prevencije infekcije (npr. rublje, zavoji od gipsa, posteljina, odjeća za jednokratnu primjenu, platno, pelene…)</td>
@@ -10781,7 +9979,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 01 06*</td>
 <td>kemikalije koje se sastoje od opasnih tvari ili ih sadrže</td>
@@ -10790,7 +9987,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 01 07</td>
 <td>kemikalije koje nisu navedene pod 18 01 06</td>
@@ -10799,7 +9995,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>18 01 08*</td>
 <td>citotoksici i citostatici</td>
@@ -10808,7 +10003,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 01 09</td>
 <td>lijekovi koji nisu navedeni pod 18 01 08</td>
@@ -10817,7 +10011,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>18 01 10*</td>
 <td>amalgamski otpad iz stomatološke zaštite</td>
@@ -10826,7 +10019,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 02</td>
 <td>otpad od istraživanja, dijagnosticiranja, liječenja ili prevencije bolesti u životinja</td>
@@ -10835,7 +10027,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 02 01</td>
 <td>oštri predmeti (osim 18 02 02)</td>
@@ -10844,7 +10035,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 02 02*</td>
 <td>ostali otpad čije sakupljanje i odlaganje podliježe specijalnim zahtjevima radi prevencije infekcije</td>
@@ -10853,7 +10043,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 02 03</td>
 <td>otpad čije sakupljanje i odlaganje ne podliježe specijalnim zahtjevima radi prevencije infekcije</td>
@@ -10862,7 +10051,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>18 02 05*</td>
 <td>kemikalije koje se sastoje od opasnih tvari ili ih sadrže</td>
@@ -10871,7 +10059,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 02 06</td>
 <td>kemikalije koje nisu navedene pod 18 02 05</td>
@@ -10880,7 +10067,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>18 02 07*</td>
 <td>citotoksici i citostatici</td>
@@ -10889,7 +10075,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>18 02 08</td>
 <td>lijekovi koji nisu navedeni pod 18 02 07</td>
@@ -10898,7 +10083,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19</td>
 <td>OTPAD IZ UREĐAJA ZA POSTUPANJE S OTPADOM, UREĐAJA ZA PROČIŠĆAVANJE GRADSKIH OTPADNIH VODA I PRIPREMU PITKE VODE I VODE ZA INDUSTRIJSKU UPORABU</td>
@@ -10907,7 +10091,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 01</td>
 <td>otpad od spaljivanja ili pirolize otpada</td>
@@ -10916,7 +10099,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 01 02</td>
 <td>željezni materijali izdvojeni iz šljake</td>
@@ -10925,7 +10107,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 01 05*</td>
 <td>filtarski kolači od obrade otpadnih plinova</td>
@@ -10934,7 +10115,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 01 06*</td>
 <td>vodeni tekući otpad od obrade plinova i drugi vodeni tekući otpad</td>
@@ -10943,7 +10123,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 01 07*</td>
 <td>kruti otpad od obrade plinova</td>
@@ -10952,7 +10131,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 01 10*</td>
 <td>istrošeni aktivni ugljen od obrade dimnih plinova</td>
@@ -10961,7 +10139,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 01 11*</td>
 <td>pepeo i šljaka s dna koji sadrže opasne tvari</td>
@@ -10970,7 +10147,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 01 12</td>
 <td>pepeo i šljaka s dna koji nisu navedeni pod 19 01 11</td>
@@ -10979,7 +10155,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 01 13*</td>
 <td>lebdeći pepeo koji sadrži opasne tvari</td>
@@ -10988,7 +10163,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 01 14</td>
 <td>lebdeći pepeo koji nije naveden pod 19 01 13</td>
@@ -10997,7 +10171,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 01 15*</td>
 <td>prašina iz kotlova koja sadrži opasne tvari</td>
@@ -11006,7 +10179,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 01 16</td>
 <td>prašina iz kotlova koja nije navedena pod 19 01 15</td>
@@ -11015,7 +10187,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 01 17*</td>
 <td>otpad od pirolize koji sadrži opasne tvari</td>
@@ -11024,7 +10195,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 01 18</td>
 <td>otpad od pirolize koji nije naveden pod 19 01 17</td>
@@ -11033,7 +10203,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 01 19</td>
 <td>pijesci iz fluidiziranog sloja</td>
@@ -11042,7 +10211,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 01 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -11051,7 +10219,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 02</td>
 <td>otpad od fizikalno/kemijskih obrada otpada (uključujući uklanjanja kroma, uklanjanje cijanida, neutralizaciju)</td>
@@ -11060,7 +10227,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 02 03</td>
 <td>izmiješani otpad sastavljen samo od neopasnog otpada</td>
@@ -11069,7 +10235,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 02 04*</td>
 <td>izmiješani otpad sastavljen od najmanje jedne vrste opasnog otpada</td>
@@ -11078,7 +10243,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 02 05*</td>
 <td>muljevi od fizikalno/kemijske obrade koji sadrže opasne tvari</td>
@@ -11087,7 +10251,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 02 06</td>
 <td>muljevi od fizikalno/kemijske obrade koji nisu navedeni pod 19 02 05</td>
@@ -11096,7 +10259,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 02 07*</td>
 <td>ulja i koncentrati iz procesa odvajanja</td>
@@ -11105,7 +10267,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 02 08*</td>
 <td>tekući gorivi otpad koji sadrži opasne tvari</td>
@@ -11114,7 +10275,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 02 09*</td>
 <td>kruti gorivi otpad koji sadrži opasne tvari</td>
@@ -11123,7 +10283,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 02 10</td>
 <td>gorivi otpad koji nije naveden pod 19 02 08 i 19 02 09</td>
@@ -11132,7 +10291,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 02 11*</td>
 <td>ostali otpad koji sadrži opasne tvari</td>
@@ -11141,7 +10299,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 02 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -11150,7 +10307,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 03</td>
 <td>stabilizirani/solidificirani otpad44</td>
@@ -11159,7 +10315,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 03 04*</td>
 <td>otpad označen kao opasan, dijelom55 stabiliziran</td>
@@ -11168,7 +10323,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 03 05</td>
 <td>stabilizirani otpad koji nije naveden pod 19 03 04</td>
@@ -11177,7 +10331,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 03 06*</td>
 <td>solidificirani otpad, označen kao opasan</td>
@@ -11186,7 +10339,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 03 07</td>
 <td>solidificirani otpad koji nije naveden pod 19 03 06</td>
@@ -11195,7 +10347,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 04</td>
 <td>vitrificirani otpad i otpad od vitrifikacije</td>
@@ -11204,7 +10355,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 04 01</td>
 <td>vitrificirani otpad</td>
@@ -11213,7 +10363,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 04 02*</td>
 <td>lebdeći pepeo i ostali otpad od obrade dimnih plinova</td>
@@ -11222,7 +10371,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 04 03*</td>
 <td>nevitrificirana čvrsta faza</td>
@@ -11231,7 +10379,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 04 04</td>
 <td>vodeni tekući otpad od temperiranja vitrificiranog otpada</td>
@@ -11240,7 +10387,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 05</td>
 <td>otpad od aerobne obrade krutog otpada</td>
@@ -11249,7 +10395,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 05 01</td>
 <td>nekompostirana frakcija komunalnog i sličnog otpada</td>
@@ -11258,7 +10403,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 05 02</td>
 <td>nekompostirana frakcija životinjskog i biljnog otpada</td>
@@ -11267,7 +10411,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 05 03</td>
 <td>kompost koji nije u skladu sa specifikacijom</td>
@@ -11276,7 +10419,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 05 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -11285,7 +10427,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 06</td>
 <td>otpad od anaerobne obrade otpada</td>
@@ -11294,7 +10435,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 06 03</td>
 <td>matičnica od anaerobne obrade komunalnog otpada</td>
@@ -11303,7 +10443,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 06 04</td>
 <td>proizvod digestije od anaerobne obrade komunalnog otpada</td>
@@ -11312,7 +10451,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 06 05</td>
 <td>matičnica od anaerobne obrade životinjskog i biljnog otpada</td>
@@ -11321,7 +10459,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 06 06</td>
 <td>proizvod digestije od anaerobne obrade životinjskog i biljnog otpada</td>
@@ -11330,7 +10467,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 06 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -11339,7 +10475,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 07</td>
 <td>procjedne vode s odlagališta otpada</td>
@@ -11348,7 +10483,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 07 02*</td>
 <td>procjedne vode s odlagališta otpada koje sadrže opasne tvari</td>
@@ -11357,7 +10491,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 07 03</td>
 <td>procjedne vode s odlagališta otpada koje nisu navedene pod 19 07 02</td>
@@ -11366,7 +10499,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 08</td>
 <td>otpad iz uređaja za obradu otpadnih voda koji nije specificiran na drugi način</td>
@@ -11375,7 +10507,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 08 01</td>
 <td>ostaci na sitima i grabljama</td>
@@ -11384,7 +10515,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 08 02</td>
 <td>otpad iz pjeskolova</td>
@@ -11393,7 +10523,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 08 05</td>
 <td>muljevi od obrade komunalnih otpadnih voda</td>
@@ -11402,7 +10531,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 08 06*</td>
 <td>zasićene ili istrošene smole iz ionskih izmjenjivača</td>
@@ -11411,7 +10539,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 08 07*</td>
 <td>otopine i muljevi, od regeneracije ionskih izmjenjivača</td>
@@ -11420,7 +10547,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 08 08*</td>
 <td>otpad iz membranskih sustava koji sadrži teške metale</td>
@@ -11429,7 +10555,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 08 09</td>
 <td>mješavine masti i ulja iz separatora ulje/voda, koje sadrže samo jestivo ulje i masnoće</td>
@@ -11438,7 +10563,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 08 10*</td>
 <td>mješavine masti i ulja iz separatora ulje/voda, koje nisu navedene pod 19 08 09</td>
@@ -11447,7 +10571,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 08 11*</td>
 <td>muljevi iz biološke obrade industrijskih otpadnih voda, koji sadrže opasne tvari</td>
@@ -11456,7 +10579,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 08 12</td>
 <td>muljevi iz biološke obrade industrijskih otpadnih voda, koji nisu navedeni pod 19 08 11</td>
@@ -11465,7 +10587,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 08 13*</td>
 <td>muljevi iz ostalih obrada industrijskih otpadnih voda, koji sadrže opasne tvari</td>
@@ -11474,7 +10595,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 08 14</td>
 <td>muljevi iz ostalih obrada industrijskih otpadnih voda, koji nisu navedeni pod 19 08 13</td>
@@ -11483,7 +10603,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 08 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -11492,7 +10611,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 09</td>
 <td>otpad od pripreme vode za piće ili vode za industrijsku uporabu</td>
@@ -11501,7 +10619,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 09 01</td>
 <td>kruti otpad od primarne filtracije i prosijavanja</td>
@@ -11510,7 +10627,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 09 02</td>
 <td>muljevi od bistrenja voda</td>
@@ -11519,7 +10635,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 09 03</td>
 <td>muljevi od dekarbonizacije</td>
@@ -11528,7 +10643,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 09 04</td>
 <td>istrošeni aktivni ugljen</td>
@@ -11537,7 +10651,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 09 05</td>
 <td>zasićene ili istrošene smole iz ionskih izmjenjivača</td>
@@ -11546,7 +10659,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 09 06</td>
 <td>otopine i muljevi od regeneracije ionskih izmjenjivača</td>
@@ -11555,7 +10667,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 09 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -11564,7 +10675,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 10</td>
 <td>otpad od usitnjavanja otpada koji sadrži metale</td>
@@ -11573,7 +10683,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 10 01</td>
 <td>otpad od željeza i čelika</td>
@@ -11582,7 +10691,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 10 02</td>
 <td>otpad od neželjeznih metala</td>
@@ -11591,7 +10699,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 10 03*</td>
 <td>pahuljasta frakcija i prašina, koja sadrži opasne tvari</td>
@@ -11600,7 +10707,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 10 04</td>
 <td>pahuljasta frakcija i prašina, koja nije navedena pod 19 10 03</td>
@@ -11609,7 +10715,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 10 05*</td>
 <td>ostale frakcije koje sadrže opasne tvari</td>
@@ -11618,7 +10723,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 10 06</td>
 <td>ostale frakcije koje nisu navedene pod 19 10 05</td>
@@ -11627,7 +10731,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 11</td>
 <td>otpad od regeneracije ulja</td>
@@ -11636,7 +10739,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 11 01*</td>
 <td>potrošene filtarske gline</td>
@@ -11645,7 +10747,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 11 02*</td>
 <td>kiseli katrani</td>
@@ -11654,7 +10755,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 11 03*</td>
 <td>vodeni tekući otpad</td>
@@ -11663,7 +10763,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 11 04*</td>
 <td>otpad od pročišćavanja goriva lužinama</td>
@@ -11672,7 +10771,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 11 05*</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji sadrže opasne tvari</td>
@@ -11681,7 +10779,6 @@ KATALOG OTPADA
 <td>K</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 11 06</td>
 <td>muljevi od obrade efluenata na mjestu njihova nastanka, koji nisu navedeni pod 19 11 05</td>
@@ -11690,7 +10787,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 11 07*</td>
 <td>otpad od pročišćavanja dimnih plinova</td>
@@ -11699,7 +10795,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 11 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -11708,7 +10803,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 12</td>
 <td>otpad od mehaničke obrade otpada (npr. od sortiranja, drobljenja, prešanja/zbijanja, peletiranja/granuliranja) koji nije specificiran na drugi način</td>
@@ -11717,7 +10811,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 12 01</td>
 <td>papir i karton</td>
@@ -11726,7 +10819,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 12 02</td>
 <td>željezni metali</td>
@@ -11735,7 +10827,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 12 03</td>
 <td>neželjezni metali</td>
@@ -11744,7 +10835,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 12 04</td>
 <td>plastika i guma</td>
@@ -11753,7 +10843,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 12 05</td>
 <td>staklo</td>
@@ -11762,7 +10851,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 12 06*</td>
 <td>drvo koje sadrži opasne tvari</td>
@@ -11771,7 +10859,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 12 07</td>
 <td>drvo koje nije navedeno pod 19 12 06</td>
@@ -11780,7 +10867,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 12 08</td>
 <td>tekstil</td>
@@ -11789,7 +10875,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 12 09</td>
 <td>minerali (npr. pijesak, kamenje)</td>
@@ -11798,7 +10883,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 12 10</td>
 <td>gorivi otpad (gorivo dobiveno iz otpada)</td>
@@ -11807,7 +10891,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 12 11*</td>
 <td>ostali otpad (uključujući mješavine materijala) od mehaničke obrade otpada, koji sadrži opasne tvari</td>
@@ -11816,7 +10899,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 12 12</td>
 <td>ostali otpad (uključujući mješavine materijala) od mehaničke obrade otpada, koji nije naveden pod 19 12 11</td>
@@ -11825,7 +10907,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 12 99</td>
 <td>otpad koji nije specificiran na drugi način</td>
@@ -11834,7 +10915,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 13</td>
 <td>otpad nastao pri remedijaciji tla i podzemnih voda</td>
@@ -11843,7 +10923,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>19 13 01*</td>
 <td>kruti otpad nastao pri remedijaciji tla koji sadrži opasne tvari</td>
@@ -11852,7 +10931,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 13 02</td>
 <td>kruti otpad nastao pri remedijaciji tla koji nije naveden pod 19 13 01</td>
@@ -11861,7 +10939,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>19 13 03*</td>
 <td>muljevi nastali pri remedijacijii tla koji sadrže opasne tvari</td>
@@ -11870,7 +10947,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 13 04</td>
 <td>muljevi nastali pri remedijaciji tla koji nisu navedeni pod 19 13 03</td>
@@ -11879,7 +10955,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 13 05*</td>
 <td>muljevi nastali pri remedijaciji podzemnih voda koji sadrže opasne tvari</td>
@@ -11888,7 +10963,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 13 06</td>
 <td>muljevi nastali pri remedijaciji podzemnih voda koji nisu navedeni pod 19 13 05</td>
@@ -11897,7 +10971,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 13 07*</td>
 <td>vodeni tekući otpad i vodeni koncentrati nastali pri remedijaciji podzemnih voda, koji sadrže opasne tvari</td>
@@ -11906,7 +10979,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>19 13 08</td>
 <td>vodeni tekući otpad i vodeni koncentrati nastali pri remedijaciji podzemnih voda, koji nisu navedeni pod 19 13 07</td>
@@ -11915,7 +10987,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20</td>
 <td>KOMUNALNI OTPAD (OTPAD IZ KUĆANSTAVA I SLIČNI OTPAD IZ OBRTA, INDUSTRIJE I USTANOVA) UKLJUČUJUĆI ODVOJENO SKUPLJENE SASTOJKE</td>
@@ -11924,7 +10995,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01</td>
 <td>odvojeno skupljeni sastojci (osim 15 01)</td>
@@ -11933,7 +11003,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 01</td>
 <td>papir i karton</td>
@@ -11942,7 +11011,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>20 01 02</td>
 <td>staklo</td>
@@ -11951,7 +11019,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>20 01 08</td>
 <td>biorazgradivi otpad iz kuhinja i iz kantina</td>
@@ -11960,7 +11027,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 01 10</td>
 <td>odjeća</td>
@@ -11969,7 +11035,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>20 01 11</td>
 <td>tekstil</td>
@@ -11978,7 +11043,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>20 01 13*</td>
 <td>otapala</td>
@@ -11987,7 +11051,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 14*</td>
 <td>kiseline</td>
@@ -11996,7 +11059,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 15*</td>
 <td>lužine</td>
@@ -12005,7 +11067,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 17*</td>
 <td>fotografske kemikalije</td>
@@ -12014,7 +11075,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 19*</td>
 <td>pesticidi</td>
@@ -12023,7 +11083,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 21*</td>
 <td>fluorescentne cijevi i ostali otpad koji sadrži živu</td>
@@ -12032,13 +11091,11 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 01 23*</td>
 <td>odbačena oprema koja sadrži klorofluorougljike</td>
 <td colspan="4">POSEBNA OBRADA</td>
 </tr>
-
 <tr>
 <td>20 01 25</td>
 <td>jestiva ulja i masti</td>
@@ -12047,7 +11104,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 26*</td>
 <td>ulja i masti koji nisu navedeni pod 20 01 25</td>
@@ -12056,7 +11112,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 27*</td>
 <td>boje, tiskarske boje, ljepila i smole, koje sadrže opasne tvari</td>
@@ -12065,7 +11120,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 28</td>
 <td>boje, tiskarske boje, ljepila i smole, koje nisu navedene pod 20 01 27</td>
@@ -12074,7 +11128,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 01 29*</td>
 <td>deterdženti koji sadrže opasne tvari</td>
@@ -12083,7 +11136,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 30</td>
 <td>deterdženti koji nisu navedeni pod 20 01 29</td>
@@ -12092,7 +11144,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 01 31*</td>
 <td>citotoksici i citostatici</td>
@@ -12101,7 +11152,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 32</td>
 <td>lijekovi koji nisu navedeni pod 20 01 31</td>
@@ -12110,7 +11160,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 01 33*</td>
 <td>baterije i akumulatori obuhvaćeni pod 16 06 01, 16 06 02 ili 16 06 03 i nesortirane baterije i akumulatori koji sadrže te baterije</td>
@@ -12119,7 +11168,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 34</td>
 <td>baterije i akumulatori, koji nisu navedeni pod 20 01 33</td>
@@ -12128,7 +11176,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 01 35*</td>
 <td>odbačena električna i elektronička oprema koja nije navedena pod 20 01 21 i 20 01 23, koja sadrži opasne komponente6</td>
@@ -12137,7 +11184,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 36</td>
 <td>odbačena električna i elektronička oprema, koja nije navedena pod 20 01 21, 20 01 23 i 20 01 35</td>
@@ -12146,7 +11192,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 01 37*</td>
 <td>drvo koje sadrži opasne tvari</td>
@@ -12155,7 +11200,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 38</td>
 <td>drvo koje nije navedeno pod 20 01 37</td>
@@ -12164,7 +11208,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 39</td>
 <td>plastika</td>
@@ -12173,7 +11216,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 40</td>
 <td>metali</td>
@@ -12182,7 +11224,6 @@ KATALOG OTPADA
 <td>+</td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 01 41</td>
 <td>otpad od čišćenja dimnjaka</td>
@@ -12191,7 +11232,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 01 99</td>
 <td>ostali sastojci koji nisu specificirani na drugi način</td>
@@ -12200,7 +11240,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>20 02</td>
 <td>otpad iz vrtova i parkova (uključujući otpad sa groblja)</td>
@@ -12209,7 +11248,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 02 01</td>
 <td>biorazgradivi otpad</td>
@@ -12218,7 +11256,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 02 02</td>
 <td>zemlja i kamenje</td>
@@ -12227,7 +11264,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>20 02 03</td>
 <td>ostali otpad koji nije biorazgradiv</td>
@@ -12236,7 +11272,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>20 03</td>
 <td>ostali komunalni otpad</td>
@@ -12245,7 +11280,6 @@ KATALOG OTPADA
 <td></td>
 <td></td>
 </tr>
-
 <tr>
 <td>20 03 01</td>
 <td>miješani komunalni otpad</td>
@@ -12254,7 +11288,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>20 03 02</td>
 <td>otpad s tržnica</td>
@@ -12263,7 +11296,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 03 03</td>
 <td>ostaci od čišćenja ulica</td>
@@ -12272,7 +11304,6 @@ KATALOG OTPADA
 <td></td>
 <td>+</td>
 </tr>
-
 <tr>
 <td>20 03 04</td>
 <td>muljevi iz septičkih jama</td>
@@ -12281,7 +11312,6 @@ KATALOG OTPADA
 <td>K</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 03 06</td>
 <td>otpad nastao čišćenjem kanalizacije</td>
@@ -12290,7 +11320,6 @@ KATALOG OTPADA
 <td></td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 03 07</td>
 <td>glomazni otpad</td>
@@ -12299,7 +11328,6 @@ KATALOG OTPADA
 <td>+</td>
 <td>K</td>
 </tr>
-
 <tr>
 <td>20 03 99</td>
 <td>komunalni otpad koji nije specificiran na drugi način</td>
@@ -12309,7 +11337,6 @@ KATALOG OTPADA
 <td>+</td>
 </tr>
 </tbody>
-
 </table>
 
 1 Za potrebe ovog kataloga otpada, PCB-i će se definirati kao u Direktivi 96/59/EC od 16. rujna 1996. o zbrinjavanju polikloriranih bifenila i polikloriranih terfenila (PCB/PCT) (SL L 243, 24.9.1996., str. 31).

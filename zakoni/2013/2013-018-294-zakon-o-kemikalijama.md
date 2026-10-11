@@ -6,11 +6,14 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-02-15
+last_amended: 2020-03-27
 status: in_force
-status_basis: "derived: enacted or amended in 2013 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
-text_version: original
-narodne_novine: "18/13"
-amendments: []
+status_basis: "derived: enacted or amended in 2020 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+text_version: original_with_amendments
+narodne_novine: "18/13, 115/18, 37/20"
+amendments:
+  - "NN 115/2018 (2260) Zakon o izmjenama i dopunama Zakona o kemikalijama"
+  - "NN 37/2020 (780) Zakon o izmjenama i dopuni Zakona o kemikalijama"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/18/294"
 retrieved: 2026-10-12
 ---
@@ -18,6 +21,8 @@ retrieved: 2026-10-12
 # Zakon o kemikalijama
 
 > Izvor: Narodne novine, NN 18/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/18/294).
+>
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 115/2018, NN 37/2020.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -562,3 +567,357 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+---
+
+# Izmjene, dopune i ispravci nakon izvornog teksta
+
+## Zakon o izmjenama i dopunama Zakona o kemikalijama (NN 115/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/115/2260*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O KEMIKALIJAMA
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o kemikalijama, koji je Hrvatski sabor donio na sjednici 7. prosinca 2018.
+
+Klasa: 011-01/18-01/185
+
+Urbroj: 71-06-01/1-18-2
+
+Zagreb, 13. prosinca 2018.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNAMA ZAKONA O KEMIKALIJAMA**
+
+### Članak 1.
+
+U Zakonu o kemikalijama (»Narodne novine«, br. 18/13.) u članku 7. stavak 2. mijenja se i glasi:
+
+»(2) Ministarstvo obavlja upravne i stručne poslove vezano za kemikalije.«.
+
+U stavku 3. riječi: »Hrvatskim zavodom za toksikologiju i antidoping (u daljnjem u tekstu: HZTA)« zamjenjuju se riječima: »Hrvatskim zavodom za javno zdravstvo (u daljnjem u tekstu: HZJZ)«.
+
+### Članak 2.
+
+U članku 8. stavku 2. riječi: »HZTA« zamjenjuju se riječima: »HZJZ«.
+
+### Članak 3.
+
+U članku 11. stavku 3. riječ: »Ministarstva« zamjenjuje se riječima: »Državnog inspektorata«.
+
+U stavku 5. riječi: »sanitarnom inspektoru na granici« zamjenjuju se riječima: »graničnom sanitarnom inspektoru Državnog inspektorata«.
+
+### Članak 4
+
+U članku 24. stavku 2. riječi: »HZTA-u« zamjenjuju se riječima: »HZJZ-u«.
+
+### Članak 5.
+
+U članku 25. stavak 1. mijenja se i glasi:
+
+»(1) Inspekcijski nadzor nad provedbom ovoga Zakona i propisa donesenih na temelju ovoga Zakona obavljaju sanitarni inspektori Državnog inspektorata.«.
+
+U stavku 2. iza riječi: »sanitarnom inspektoru« dodaju se riječi: »Državnog inspektorata«.
+
+U stavku 3. iza riječi: »Sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 6.
+
+U članku 26. stavku 1. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 7.
+
+U članku 27. stavku 1. iza riječi: »Sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 8.
+
+U članku 28. stavku 1. točki 4. riječi: »HZTA« zamjenjuju se riječima: »HZJZ«.
+
+U točki 19. riječi: »HZTA« zamjenjuju se riječima: »HZJZ-u«.
+
+U stavku 5. iza riječi: »sanitarni inspektor« dodaju se riječi: »Državnog inspektorata«.
+
+### Članak 9.
+
+U cijelom tekstu Zakona riječi: »ministarstvo nadležno za zdravlje« i »ministar nadležan za zdravlje«, u određenom padežu, zamjenjuju se riječima: »ministarstvo nadležno za zdravstvo« i »ministar nadležan za zdravstvo«, u odgovarajućem padežu.
+
+### Članak 10.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2019., osim članaka 3., 5., 6., 7. te članka 8. u dijelu koji se odnosi na Državni inspektorat, koji stupaju na snagu 1. travnja 2019.
+
+Klasa: 022-03/18-01/201
+
+Zagreb, 7. prosinca 2018.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o kemikalijama (NN 37/2020)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2020/37/780*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O KEMIKALIJAMA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o kemikalijama, koji je Hrvatski sabor donio na sjednici 19. ožujka 2020.
+
+Klasa: 011-01/20-01/36
+
+Urbroj: 71-06-01/1-20-2
+
+Zagreb, 24. ožujka 2020.
+
+Predsjednik  
+Republike Hrvatske  
+Zoran Milanović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O KEMIKALIJAMA**
+
+#### Članak 1.
+
+U Zakonu o kemikalijama (»Narodne novine«, br. 18/13. i 115/18.) članak 2. mijenja se i glasi:
+
+»(1) Ovim Zakonom u hrvatsko zakonodavstvo preuzimaju se sljedeće direktive Europske unije:
+
+– Direktiva Vijeća od 4. lipnja 1974. o utvrđivanju detaljnih odredaba o prijelaznim mjerama koje se odnose na djelatnosti trgovine i distribucije otrovnih proizvoda i djelatnosti koje obuhvaćaju profesionalnu uporabu takvih proizvoda, uključujući i djelatnosti posrednika (74/556/EEZ) (SL L 307, 18. 11. 1974.),
+
+– Direktiva Vijeća od 4. lipnja 1974. o ostvarivanju slobode poslovnog nastana i slobode pružanja usluga s obzirom na djelatnosti samozaposlenih osoba i posrednika koji obavljaju trgovinu i distribuciju otrovnih proizvoda (74/557/EEZ) (SL L 307, 18. 11. 1974.), kako je posljednji put izmijenjena Direktivom Vijeća 2013/25/EU od 13. svibnja 2013. o prilagođavanju određenih direktiva u području prava poslovnog nastana i slobode pružanja usluga zbog pristupanja Republike Hrvatske (SL L 158, 10. 6. 2013.),
+
+– Direktiva 2004/9/EZ Europskog parlamenta i Vijeća od 11. veljače 2004. o nadzoru i provjeri dobre laboratorijske prakse (DLP) (kodificirana verzija) (Tekst značajan za EGP) (SL L 50, 20. 2. 2004.) kako je posljednji put izmijenjena Uredbom (EZ) br. 219/2009 Europskog parlamenta i Vijeća od 11. ožujka 2009. o prilagodbi većeg broja instrumenata koji podliježu postupku iz članka 251. Ugovora Odluci Vijeća 1999/468/EZ, s obzirom na regulatorni postupak s kontrolom Prilagodba regulatornom postupku s kontrolom – drugi dio (SL L 87, 31. 3. 2009.),
+
+– Direktiva 2004/10/EZ Europskog parlamenta i Vijeća od 11. veljače 2004. o usklađivanju zakona i ostalih propisa u vezi s primjenom načela dobre laboratorijske prakse i provjeri njihove primjene u ispitivanju kemijskih tvari (kodificirana verzija) (Tekst značajan za EGP) (SL L 50, 20. 2. 2004.), kako je posljednji put izmijenjena Uredbom (EZ) br. 219/2009 Europskog parlamenta i Vijeća od 11. ožujka 2009. o prilagodbi većeg broja instrumenata koji podliježu postupku iz članka 251. Ugovora Odluci Vijeća 1999/468/EZ, s obzirom na regulatorni postupak s kontrolom Prilagodba regulatornom postupku s kontrolom – drugi dio (SL L 87, 31. 3. 2009.).
+
+(2) Ovim Zakonom osigurava se provedba sljedećih akata Europske unije:
+
+– Uredbe (EZ) br. 1907/2006 Europskog parlamenta i Vijeća od 18. prosinca 2006. o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (REACH) i osnivanju Europske agencije za kemikalije te o izmjeni Direktive 1999/45/EZ i stavljanju izvan snage Uredbe Vijeća (EEZ) br. 793/93 i Uredbe Komisije (EZ) br. 1488/94 kao i Direktive Vijeća 76/769/EEZ i direktiva Komisije 91/155/EEZ, 93/67/EEZ, 93/105/EZ i 2000/21/EZ (Tekst značajan za EGP) kako je posljednji put izmijenjena Uredbom Komisije (EU) 2018/2005 od 17. prosinca 2018. o izmjeni Priloga XVII. Uredbi (EZ) br. 1907/2006 Europskog parlamenta i Vijeća o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (REACH) u pogledu bis(2-ethilheksil)-ftalata (DEHP), dibutil-ftalata (DBP), benzil-butil-ftalata (BBP) i diizobutil-ftalata (DIBP) (Tekst značajan za EGP) (SL L 322, 18. 12. 2018.; u daljnjem tekstu: Uredba (EZ) br. 1907/2006),
+
+– Uredbe (EZ) br. 1272/2008 Europskog parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označivanju i pakiranju tvari i smjesa, o izmjeni i stavljanju izvan snage Direktive 67/548/EEZ i Direktive 1999/45/EZ i o izmjeni Uredbe (EZ) br. 1907/2006 (Tekst značajan za EGP) (SL L 353, 31. 12. 2008.), kako je posljednji put izmijenjena Uredbom Komisije (EU) 2017/542 оd 22. ožujka 2017. o izmjeni Uredbe (EZ) br. 1272/2008 Europskog parlamenta i Vijeća o razvrstavanju, označivanju i pakiranju tvari i smjesa dodavanjem Priloga o usklađenim informacijama povezanima s hitnim zdravstvenim intervencijama (Tekst značajan za EGP) (SL L 78, 23. 3. 2017.; u daljnjem tekstu: Uredba (EZ) br. 1272/2008),
+
+– Uredbe Komisije (EZ) br. 340/2008 od 16. travnja 2008. o naknadama i pristojbama plativima Europskoj agenciji za kemikalije u skladu s Uredbom (EZ) br. 1907/2006 Europskog parlamenta i Vijeća o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (REACH) (Tekst značajan za EGP) (SL L 107, 17. 4. 2008.), kako je posljednji put izmijenjena Provedbenom uredbom Komisije (EU) 2018/895 od 22. lipnja 2018. o izmjeni Uredbe (EZ) br. 340/2008 o naknadama i pristojbama plativima Europskoj agenciji za kemikalije (Tekst značajan za EGP) (SL L 160, 25. 6. 2018.; u daljnjem tekstu: Uredba (EZ) br. 340/2008),
+
+– Uredbe Komisije (EU) br. 440/2010 od 21. svibnja 2010. o naknadama koje se plaćaju Europskoj agenciji za kemikalije na temelju Uredbe (EZ) br. 1272/2008 Europskog parlamenta i Vijeća o razvrstavanju, označivanju i pakiranju tvari i smjesa (Tekst značajan za EGP) (SL L 126, 22. 5. 2010.; u daljnjem tekstu: Uredba (EU) br. 440/2010),
+
+– Uredbe (EU) br. 649/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o izvozu i uvozu opasnih kemikalija (Tekst značajan za EGP) (SL L 201, 27. 7. 2012.; u daljnjem tekstu: Uredba (EU) br. 649/2012).«.
+
+#### Članak 2.
+
+U članku 3. točka 2. mijenja se i glasi:
+
+»2. Opasne kemikalije, u smislu ovoga Zakona, su tvari i smjese koje ispunjavaju kriterije za fizikalne opasnosti, opasnosti za zdravlje ili okoliš utvrđene u 2. – 5. dijelu Priloga I. Uredbe (EZ) br. 1272/2008.«.
+
+Točka 12. mijenja se i glasi:
+
+»12. Korištenje je potrošnja, skladištenje, obrada ili bilo kakvo drugo rukovanje kemikalijama za vlastite potrebe i potrebe obavljanja djelatnosti.«.
+
+#### Članak 3.
+
+U članku 4. stavku 1. podstavku 6. riječ: »proizvodnje« i riječi: »evidencije o proizvodnji« brišu se.
+
+Iza podstavka 10. dodaje se podstavak 11. koji glasi:
+
+» – duhanske i srodne proizvode, uključujući bezdimne duhanske proizvode, te biljne proizvode za pušenje, elektroničke cigarete, spremnike za ponovno punjenje i uloške za jednokratnu uporabu, osim obveze dostave sigurnosno-tehničkog lista.«.
+
+#### Članak 4.
+
+U članku 7. stavku 4. točki a) riječi: »Uredbe (EZ) br. 689/2008« zamjenjuju se riječima: »Uredbe (EU) br. 649/2012«.
+
+#### Članak 5.
+
+Članak 9. mijenja se i glasi:
+
+»Tvari i smjese moraju biti razvrstane, označene i pakirane u skladu s Uredbom (EZ) br. 1272/2008.«.
+
+#### Članak 6.
+
+Članak 11. mijenja se i glasi:
+
+»Na uvoz i izvoz kemikalija primjenjuju se odredbe međunarodnih ugovora kojih je Republika Hrvatska stranka, odredbe Uredbe (EU) br. 649/2012 te posebni propisi kojima je određena roba koja se uvozi i izvozi na temelju dozvola.«.
+
+#### Članak 7.
+
+U članku 13. stavku 1. točka 4. mijenja se i glasi:
+
+»4. imati radnike iz točke 3. ovoga stavka zdravstveno sposobne za poslove na mjestima rada koja uključuju izloženost opasnim kemikalijama, a za koje je procjenom rizika izrađenom u skladu s propisima o zaštiti na radu utvrđena obveza obavljanja zdravstvenih pregleda,«.
+
+#### Članak 8.
+
+Članak 16. briše se.
+
+#### Članak 9.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Svaki radnik koji na mjestu rada radi s opasnim kemikalijama obvezan je steći znanja o zaštiti od opasnih kemikalija.
+
+(2) Organizaciju stjecanja znanja o zaštiti od opasnih kemikalija prema programu stjecanja znanja o zaštiti od opasnih kemikalija, provedbu i provjeru znanja o zaštiti od opasnih kemikalija te izdavanje potvrde o stečenom znanju provodi HZJZ vodeći računa o potrebama pravnih i fizičkih osoba koje obavljaju poslove s opasnim kemikalijama, kao i o razmjernoj provedbi stjecanja znanja o zaštiti od opasnih kemikalija na razini jedinica područne (regionalne) samouprave, odnosno Grada Zagreba.
+
+(3) HZJZ donosi program stjecanja znanja o zaštiti od opasnih kemikalija iz stavka 2. ovoga članka na temelju prethodno pribavljenog mišljenja Ministarstva.
+
+(4) Sadržaj programa stjecanja znanja o zaštiti od opasnih kemikalija iz stavka 2. ovoga članka HZJZ obvezan je stalno prilagođavati stručnim i znanstvenim spoznajama te odredbama zakona i drugih propisa.
+
+(5) Program stjecanja znanja o zaštiti od opasnih kemikalija iz stavka 2. ovoga članka HZJZ i Ministarstvo objavljuju na svojim mrežnim stranicama.
+
+(6) Troškove provedbe stjecanja znanja iz stavka 1. ovoga članka snosi podnositelj zahtjeva.
+
+(7) Stjecanje znanja o zaštiti od opasnih kemikalija prema odredbama ovoga članka ne isključuje provedbu postupka osposobljavanja radnika za rad na siguran način prema odredbama propisa o zaštiti na radu.
+
+(8) Način stjecanja te provjeru znanja o zaštiti od opasnih kemikalija pravilnikom propisuje ministar.«.
+
+#### Članak 10.
+
+Članak 18. briše se.
+
+#### Članak 11.
+
+U članku 19. stavak 1. mijenja se i glasi:
+
+»(1) Pravna, odnosno fizička osoba ne smije zaposliti radnike za obavljanje poslova na mjestima rada koja uključuju izloženost opasnim kemikalijama bez uvjerenja o obavljenom zdravstvenom pregledu prije početka rada te ih je obvezna upućivati na periodične zdravstvene preglede, ako je za te poslove u procjeni rizika izrađenoj u skladu s propisima o zaštiti na radu utvrđena obveza obavljanja zdravstvenih pregleda.«.
+
+#### Članak 12.
+
+Članak 23. mijenja se i glasi:
+
+»(1) Zabranjeno je stavljanje u prodaju na malo kemikalija razvrstanih sukladno Uredbi (EZ) br. 1272/2008 kao kancerogenih 1.A i 1.B kategorija, mutagenih 1.A i 1.B kategorija i reprotoksičnih 1.A i 1.B kategorija te svih ostalih kemikalija navedenih u prilogu XVII. Uredbe (EZ) br. 1907/2006.
+
+(2) Pravnoj i fizičkoj osobi koja prodaje na malo opasne kemikalije zabranjuje se prodaja kemikalija, razvrstanih sukladno Uredbi (EZ) br. 1272/2008, kao akutno toksičnih kemikalija 1., 2. i 3. kategorije, osobama mlađim od 18 godina.
+
+(3) Pravna ili fizička osoba koja prodaje na malo kemikalije, razvrstane sukladno Uredbi (EZ) br. 1272/2008, kao akutno toksične 1. i 2. kategorije i specifično toksične za ciljne organe – jednokratno izlaganje kategorije 1., mora zabilježiti osobne podatke kupca i zapisati razlog kupnje.
+
+(4) Pravna ili fizička osoba iz stavka 3. ovoga članka obvezna je voditi evidenciju koja sadrži najmanje sljedeće informacije:
+
+a) ime, adresu i identifikacijski broj pojedinca ili tip i broj njegova identifikacijskog dokumenta,
+
+b) naziv tvari ili smjese, uključujući njihovu koncentraciju,
+
+c) količinu tvari ili smjese,
+
+d) namjeravanu uporabu tvari ili smjese kako ju je prijavio kupac,
+
+e) datum i mjesto kupnje,
+
+f) potpis kupca.
+
+(5) Pravna ili fizička osoba iz stavka 3. ovoga članka obvezna je evidenciju iz stavka 4. ovoga članka čuvati pet godina od dana kupnje.
+
+(6) Tijekom vremena iz stavka 5. ovoga članka evidencija mora biti na raspolaganju tijelima iz članka 7. ovoga Zakona i sanitarnom inspektoru Državnog inspektorata.«.
+
+#### Članak 13.
+
+U članku 26. stavku 1. točka 1. mijenja se i glasi:
+
+»1. zabraniti proizvodnju, stavljanje na tržište, odnosno korištenje kemikalija ako nisu ispunjeni uvjeti za proizvodnju, stavljanje na tržište ili korištenje kemikalija,«.
+
+Točka 3. mijenja se i glasi:
+
+»3. narediti uklanjanje nedostataka utvrđenih inspekcijskim nadzorom u vezi s proizvodnjom, stavljanjem na tržište ili korištenjem kemikalija te odrediti rok za njihovo uklanjanje,«.
+
+Točka 8. briše se.
+
+Dosadašnje točke 9. i 10., koje postaju točke 8. i 9., mijenjaju se i glase:
+
+»8. zabraniti stavljanje na tržište kemikalija koje nisu razvrstane, pakirane i označene sukladno odredbama ovoga Zakona,
+
+9. zabraniti uvoz i izvoz opasne kemikalije ako se uvoz i izvoz opasne kemikalije obavlja protivno odredbama međunarodnih ugovora kojih je Republika Hrvatska stranka i odredbama Uredbe (EU) br. 649/2012,«.
+
+Dosadašnja točka 11. postaje točka 10.
+
+#### Članak 14.
+
+Članak 28. mijenja se i glasi:
+
+»(1) Novčanom kaznom u iznosu od 50.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+
+1. postupi protivno članku 5. stavcima 1. i 2. ovoga Zakona,
+
+2. postupi protivno članku 6. ovoga Zakona,
+
+3. STL za kemikalije nije ispunjen na način propisan Uredbom (EZ) br. 1907/2006 (članak 8. stavak 1.),
+
+4. ne dostavi STL za kemikalije prije prvog stavljanja kemikalije na tržište Republike Hrvatske u elektroničkom obliku u HZJZ (članak 8. stavak 2.),
+
+5. naljepnica na pakiranju kemikalije nije u skladu s Uredbom (EZ) br. 1272/2008 (članak 8. stavak 3.),
+
+6. u postupcima ispitivanja kemikalije ne koristi ispitne metode propisane Uredbom (EZ) br. 1907/2006 (članak 8. stavak 5.),
+
+7. tvari i smjese nisu razvrstane, označene i pakirane u skladu s člancima 3. i 4. Uredbe (EZ) br. 1272/2008,
+
+8. obavlja djelatnost proizvodnje, stavljanja na tržište i korištenja kemikalije protivno uvjetima propisanima člancima 12. – 15. ovoga Zakona,
+
+9. za svakog radnika koji na radnom mjestu radi s opasnim kemikalijama ne osigura znanja o zaštiti od opasnih kemikalija (članak 17. stavak 1.),
+
+10. postupi protivno članku 19. stavcima 1. i 2. ovoga Zakona,
+
+11. postupi protivno članku 20. stavcima 1. do 3. ovoga Zakona,
+
+12. postupi protivno članku 21. stavcima 1. do 3. ovoga Zakona,
+
+13. oglašava kemikalije protivno članku 22. ovoga Zakona,
+
+14. obavlja maloprodaju opasnih kemikalija protivno članku 23. stavku 3. ovoga Zakona,
+
+15. ne vodi očevidnike o kemikalijama koje proizvodi, uvozi odnosno unosi (članak 24. stavak 1.),
+
+16. zbirne godišnje podatke iz očevidnika ne dostavi HZJZ-u (članak 24. stavak 2.),
+
+17. onemogući obavljanje inspekcijskog nadzora i ne stavi na raspolaganje potrebnu količinu uzoraka te ne pruži potrebne podatke i obavijesti (članak 25. stavak 2.).
+
+(2) Novčanom kaznom u iznosu od 10.000,00 do 15.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.
+
+(3) Novčanom kaznom u iznosu od 10.000,00 do 15.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba obrtnik.
+
+(4) Za pokušaj prekršaja iz stavka 1. ovoga članka počinitelj će se kazniti.
+
+(5) Novčanom kaznom u iznosu od 5000,00 kuna sanitarni inspektor Državnog inspektorata može kazniti za prekršaj iz stavka 1. ovoga članka na mjestu počinjenja prekršaja odgovornu osobu u pravnoj osobi i fizičku osobu obrtnika.«.
+
+### PRIJELAZNE I ZAVRŠNE ODREDBE
+
+#### Članak 15.
+
+Pravilnik iz članka 17. stavka 8. koji je izmijenjen člankom 9. ovoga Zakona donijet će ministar u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+
+#### Članak 16.
+
+(1) Danom stupanja na snagu ovoga Zakona ostaju na snazi odredbe Pravilnika o uvjetima za obavljanje djelatnosti proizvodnje, stavljanja na tržište i korištenja opasnih kemikalija (»Narodne novine«, br. 99/13., 157/13. i 122/14.), Pravilnika o načinu vođenja očevidnika o kemikalijama te načinu i rokovima dostave podataka iz očevidnika (»Narodne novine«, br. 99/13. i 157/13.), Pravilnika o skladištenju opasnih kemikalija koje djeluju u obliku plina (»Narodne novine«, br. 91/13.) i Pravilnika o uvjetima i načinu stjecanja te provjere znanja o zaštiti od opasnih kemikalija (»Narodne novine«, br. 99/13.).
+
+(2) Danom stupanja na snagu ovoga Zakona prestaju važiti Pravilnik o uvjetima glede posebnih mjera zaštite na radu s otrovima u pravnim osobama koje rabe otrove u znanstvenoistraživačke svrhe (»Narodne novine«, br. 148/99.), Pravilnik o malim količinama otrova namijenjenih za laboratorijske i znanstvene svrhe (»Narodne novine«, br. 39/03.) i Popis otrova namijenjenih održavanju komunalne higijene, za dezinfekciju, deratizaciju, odstranjenje lošeg mirisa i dekontaminaciju (»Narodne novine«, br. 151/02.).
+
+#### Članak 17.
+
+(1) Danom stupanja na snagu ovoga Zakona obustavit će se postupci donošenja rješenja za davanje odobrenja za obavljanje djelatnosti proizvodnje, stavljanja na tržište i korištenja kemikalije započeti na temelju odredbi članka 16. Zakona o kemikalijama (»Narodne novine«, br. 18/13. i 115/18.).
+
+(2) Protiv rješenja o obustavi postupka iz stavka 1. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+
+#### Članak 18.
+
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/19-01/240
+
+Zagreb, 19. ožujka 2020.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

@@ -6,14 +6,15 @@ type: act
 jurisdiction: hr
 language: hr
 date: 2013-10-11
-last_amended: 2014-07-28
+last_amended: 2019-03-29
 status: in_force
-status_basis: "derived: enacted or amended in 2014 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2019 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "125/13, 14/14, 92/14"
+narodne_novine: "125/13, 14/14, 92/14, 32/19"
 amendments:
   - "NN 14/2014 (271) Zakon o izmjenama Zakona o provedbi uredbi Europske unije o zaštiti životinja"
   - "NN 92/2014 (1846) Zakon o izmjenama i dopunama Zakona o provedbi Uredbi Europske unije o zaštiti životinja"
+  - "NN 32/2019 (657) Zakon o izmjenama i dopuni Zakona o provedbi uredbi Europske unije o zaštiti životinja"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2013/125/2676"
 retrieved: 2026-10-12
 ---
@@ -22,7 +23,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 125/2013 (https://narodne-novine.nn.hr/eli/sluzbeni/2013/125/2676).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014, NN 92/2014.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 14/2014, NN 92/2014, NN 32/2019.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -852,3 +853,181 @@ HRVATSKI SABOR
 Predsjednik  
 Hrvatskoga sabora  
 Josip Leko, v. r.
+
+## Zakon o izmjenama i dopuni Zakona o provedbi uredbi Europske unije o zaštiti životinja (NN 32/2019)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2019/32/657*
+
+HRVATSKI SABOR
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBI EUROPSKE UNIJE O ZAŠTITI ŽIVOTINJA
+
+Proglašavam Zakon o izmjenama i dopuni Zakona o provedbi uredbi Europske unije o zaštiti životinja, koji je Hrvatski sabor donio na sjednici 23. ožujka 2019.
+
+Klasa: 011-01/19-01/60
+
+Urbroj: 71-06-01/1-19-2
+
+Zagreb, 27. ožujka 2019.
+
+Predsjednica  
+Republike Hrvatske  
+Kolinda Grabar-Kitarović, v. r.
+
+**ZAKON**
+
+**O IZMJENAMA I DOPUNI ZAKONA O PROVEDBI UREDBI EUROPSKE UNIJE O ZAŠTITI ŽIVOTINJA**
+
+### Članak 1.
+
+U Zakonu o provedbi uredbi Europske unije o zaštiti životinja (»Narodne novine«, br. 125/13., 14/14. i 92/14.) u članku 3. iza stavka 2. dodaje se stavak 3. koji glasi:
+
+»(3) Inspekcijski nadzor za provedbu uredbi Europske unije iz članka 1. ovoga Zakona provodi Državni inspektorat kao središnji državni ured koji obavlja inspekcijske poslove na području Republike Hrvatske (u daljnjem tekstu: Državni inspektorat).«.
+
+### Članak 2.
+
+U članku 5. stavak 2. mijenja se i glasi:
+
+»(2) Udovoljavanje uvjetima iz stavka 1. ovoga članka utvrđuje stručno povjerenstvo koje čine dva službenika Državnog inspektorata, sa završenim preddiplomskim i diplomskim sveučilišnim studijem ili integriranim preddiplomskim i diplomskim sveučilišnim studijem ili specijalističkim diplomskim stručnim studijem veterinarske struke i najmanje tri godine radnog iskustva na odgovarajućim poslovima, a koje imenuje Državni inspektorat.«.
+
+Stavak 5. mijenja se i glasi:
+
+»(5) Ministarstvo po službenoj dužnosti ukida odobrenje iz stavka 1. ovoga članka kada se utvrdi neudovoljavanje odmorišta odredbama Uredbe (EZ) br. 1255/97 u skladu s člankom 3. stavkom 4. Uredbe (EZ) br. 1255/97, a neudovoljavanje utvrđuje veterinarski inspektor u skladu s ovlastima određenim propisom o Državnom inspektoratu.«.
+
+### Članak 3.
+
+Članak 6. mijenja se i glasi:
+
+»Troškove nastale kao posljedica inspekcijskog nadzora veterinarskog inspektora u skladu s ovlastima određenim propisom o Državnom inspektoratu nad pošiljkama životinja na odmorištu snosi prijevoznik.«.
+
+### Članak 4.
+
+Članak 8. mijenja se i glasi:
+
+»(1) Po podnesenom zahtjevu prijevoznika Državni inspektorat izdaje potvrdu o odobravanju vozila prijevoznika koja se koriste za prijevoz životinja na dugim putovanjima, na obrascu iz Priloga III. poglavlja IV. Uredbe (EZ) br. 1/2005, na hrvatskom i engleskom jeziku, za razdoblje do pet godina.
+
+(2) Po podnesenom zahtjevu prijevoznika Državni inspektorat izdaje potvrdu o odobravanju plovila prijevoznika za prijevoz životinja, na hrvatskom i engleskom jeziku, za razdoblje do pet godina.
+
+(3) Veterinarski inspektor, uz ovlasti određene propisom o Državnom inspektoratu, prije izdavanja potvrde iz stavaka 1. i 2. ovoga članka utvrđuje udovoljavanje vozila zahtjevima iz Priloga I. poglavlja II. i VI. Uredbe (EZ) br. 1/2005, odnosno udovoljavanje plovila zahtjevima iz Priloga I. poglavlja IV. odjeljka 1. Uredbe (EZ) br. 1/2005.
+
+(4) Državni inspektorat ukida potvrdu iz stavaka 1. i 2. ovoga članka po službenoj dužnosti:
+
+– kada utvrdi da vozilo, odnosno plovilo ne udovoljava zahtjevima u skladu sa stavkom 3. ovoga članka, a neudovoljavanje zahtjevima utvrđuje veterinarski inspektor u skladu s ovlastima određenim propisom o Državnom inspektoratu
+
+– na temelju obavijesti te podataka, isprava i dokumentacije koje dostavlja kontaktna točka druge države članice iz članka 24. stavka 2. Uredbe (EZ) br. 1/2005 o neudovoljavanju vozila, odnosno plovila odredbama Uredbe (EZ) br. 1/2005 iz stavka 3. ovoga članka.«.
+
+### Članak 5.
+
+U članku 10. stavak 6. mijenja se i glasi:
+
+»(6) Ministarstvo ukida potvrdu iz stavaka 1. i 2. ovoga članka po službenoj dužnosti kada utvrdi da osoblje prijevoznika postupa protivno odredbama Uredbe (EZ) br. 1/2005, a postupanje protivno odredbama Uredbe (EZ) br. 1/2005 utvrđuje veterinarski inspektor u skladu s ovlastima određenim propisom o Državnom inspektoratu.«.
+
+### Članak 6.
+
+U članku 13. stavak 2. mijenja se i glasi:
+
+»(2) U slučaju sumnje u vjerodostojnost ili točnost potvrde iz stavka 1. ovoga članka službenici Ministarstva nadležnog za financije, Carinske uprave obavještavaju Ministarstvo u skladu s člankom 7. stavkom 7. Uredbe (EU) br. 737/2010.«.
+
+### Članak 7.
+
+U članku 15. stavak 5. mijenja se i glasi:
+
+»(5) Ministarstvo ukida potvrdu iz stavka 1. ovoga članka po službenoj dužnosti kada utvrdi da osoblje postupa protivno odredbama Uredbe (EZ) br. 1099/2009, a postupanje protivno odredbama Uredbe (EZ) br. 1099/2009 utvrđuje veterinarski inspektor u skladu s ovlastima određenim propisom o Državnom inspektoratu.«.
+
+### Članak 8.
+
+Članak 16. mijenja se i glasi:
+
+»Inspekcijske i druge poslove u području provedbe uredbi Europske unije o zaštiti životinja provode, na temelju ovlasti danih Zakonom o Državnom inspektoratu, u skladu s ovim Zakonom, propisima donesenim na temelju ovoga Zakona te propisima Europske unije:
+
+1. veterinarski inspektori i granični veterinarski inspektori nad provedbom:
+
+– Uredbe (EZ) br. 1255/97
+
+– Uredbe (EZ) br. 1/2005
+
+– Uredbe (EZ) br. 1099/2009
+
+2. službenici zaduženi za carinske poslove nad provedbom:
+
+– Uredbe (EEZ) br. 3254/91 i Uredbe (EZ) br. 35/97, u dijelu koji se odnosi na unošenje krzna životinjskih vrsta i drugih proizvoda iz Priloga I. i II. Uredbe (EEZ) br. 3254/91
+
+– Uredbe (EZ) br. 1007/2009 i Uredbe (EU) br. 737/2010, u dijelu koji se odnosi na unošenje proizvoda od tuljana
+
+– Uredbe (EZ) br. 1523/2007, u dijelu koji se odnosi na unošenje i izvoz krzna mačaka i pasa
+
+3. lovni inspektori nad provedbom Uredbe (EEZ) br. 3254/91, u dijelu koji se odnosi na nadzor uporabe stupica
+
+4. Ministarstvo nadležno za financije, prema propisima kojima je uređen djelokrug i ovlasti ministarstva nadležnog za financije u području prometa robe nad provedbom:
+
+– Uredbe (EZ) br. 1523/2007, u dijelu koji se odnosi na trgovinu krzna mačaka i pasa
+
+– Uredbe (EZ) br. 1007/2009 i Uredbe (EU) br. 737/2010, u dijelu koji se odnosi na trgovinu proizvoda od tuljana.«.
+
+### Članak 9.
+
+Članak 17. mijenja se i glasi:
+
+»(1) Veterinarski inspektor, u skladu s ovlastima određenim propisom o Državnom inspektoratu, nadležan na mjestu polaska pošiljke životinja ima pravo i obvezu postupiti u skladu s člankom 6. stavkom 1. Uredbe (EZ) br. 1255/97.
+
+(2) Veterinarski inspektor, u skladu s ovlastima određenim propisom o Državnom inspektoratu, ima pravo i obvezu privremeno zabraniti korištenje odmorišta zbog neudovoljavanja odmorišta odredbama Uredbe (EZ) br. 1255/97, a ako se ne otklone nesukladnosti po izvršnom rješenju, trajno zabraniti korištenje odmorišta.«.
+
+### Članak 10.
+
+Članak 18. mijenja se i glasi:
+
+»(1) Veterinarski inspektor, u skladu s ovlastima određenim propisom o Državnom inspektoratu, u obavljanju inspekcijskog nadzora nad postupanjem u skladu s Uredbom (EZ) br. 1/2005 ovlašten je:
+
+– obaviti preglede i poduzeti radnje koje se odnose na dnevnik puta prije prijevoza životinja na dugim putovanjima u skladu s člankom 14. Uredbe (EZ) br. 1/2005
+
+– obaviti preglede u bilo kojem dijelu dugog putovanja u skladu s člankom 15. Uredbe (EZ) br. 1/2005
+
+– obaviti nadzor plovila za prijevoz domaćih vrsta goveda, ovaca, koza, svinja i kopitara, pri utovaru i istovaru u skladu s člankom 20. Uredbe (EZ) br. 1/2005
+
+– poduzeti mjere u slučaju kašnjenja tijekom prijevoza u skladu s člankom 22. Uredbe (EZ) br. 1/2005
+
+– poduzeti mjere potrebne radi osiguranja dobrobiti životinja u skladu s člankom 23. Uredbe (EZ) br. 1/2005
+
+– prijevozniku narediti otklanjanje utvrđenih nedostataka i privremeno zabraniti obavljanje prijevoza do otklanjanja utvrđenih nedostataka
+
+– privremeno zabraniti korištenje vozila, odnosno plovila za prijevoz životinja do otklanjanja utvrđenih nedostataka te privremeno oduzeti potvrdu o odobravanju vozila, odnosno plovila prijevoznika
+
+– osoblju prijevoznika narediti otklanjanje utvrđenih nedostataka, privremeno zabraniti rad do otklanjanja utvrđenih nedostataka te privremeno oduzeti potvrdu o osposobljenosti
+
+– osoblju sabirnog centra i osoblju odmorišta narediti otklanjanje utvrđenih nedostataka, privremeno zabraniti rad do otklanjanja utvrđenih nedostataka te odrediti dodatno osposobljavanje
+
+– privremeno zabraniti da prijevoznik sa sjedištem u drugoj državi članici koji prevozi životinje na području Republike Hrvatske ili vozilo, odnosno plovilo registrirano u drugoj državi članici kojim se prevoze životinje na području Republike Hrvatske prevozi životinje na području Republike Hrvatske, iako je odobrenje za prijevoznika izdala, a vozilo, odnosno plovilo registrirala druga država članica u skladu s člankom 26. stavkom 6. Uredbe (EZ) br. 1/2005.
+
+(2) Veterinarski inspektor u skladu s ovlastima određenim propisom o Državnom inspektoratu ima pravo i obvezu zabraniti prijevozniku obavljanje prijevoza ako ne otkloni nedostatke po izvršnom rješenju, zabraniti prijevozniku korištenje vozila, odnosno plovila za prijevoz životinja ako ne otkloni nedostatke po izvršnom rješenju te zabraniti osoblju prijevoznika rad ako ne otkloni nedostatke po izvršnom rješenju.
+
+(3) Granični veterinarski inspektor u obavljanju inspekcijskog nadzora na graničnim veterinarskim postajama, a granični veterinarski inspektor ili veterinarski inspektor u obavljanju inspekcijskog nadzora na izlaznim točkama na kojima se ne nalaze granične veterinarske postaje u skladu s ovlastima određenim propisom o Državnom inspektoratu ovlašteni su obaviti preglede u skladu s člankom 21. Uredbe (EZ) br. 1/2005.«.
+
+### Članak 11.
+
+Članak 19. mijenja se i glasi:
+
+»Veterinarski inspektor, u skladu s ovlastima određenim propisom o Državnom inspektoratu, u skladu s člankom 54. Uredbe (EZ) br. 882/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o službenim kontrolama koje se provode radi provjeravanja poštivanja propisa o hrani i hrani za životinje te propisa o zdravlju i dobrobiti životinja (SL L 165, 30. 4. 2004.), ako tijekom inspekcijskog nadzora utvrdi nesukladno postupanje, radi otklanjanja nesukladnosti može:
+
+– narediti subjektu u poslovanju postupanje u skladu s člankom 22. stavkom 1. točkama (a) i (b) Uredbe (EZ) br. 1099/2009
+
+– osoblju iz članka 15. stavka 1. ovoga Zakona privremeno zabraniti rad i privremeno oduzeti potvrdu o osposobljenosti do otklanjanja utvrđenih nesukladnosti u skladu s člankom 22. stavkom 1. točkom (c) Uredbe (EZ) br. 1099/2009
+
+– narediti postupanje u skladu s člankom 22. stavkom 1. točkom (e) Uredbe (EZ) br. 1099/2009.«.
+
+### Članak 12.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. travnja 2019.
+
+Klasa: 022-03/19-01/37
+
+Zagreb, 23. ožujka 2019.
+
+HRVATSKI SABOR
+
+Predsjednik  
+Hrvatskoga sabora  
+Gordan Jandroković, v. r.

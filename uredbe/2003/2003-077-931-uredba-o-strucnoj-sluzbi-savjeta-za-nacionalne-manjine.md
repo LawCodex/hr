@@ -6,15 +6,16 @@ type: decree
 jurisdiction: hr
 language: hr
 date: 2003-05-13
-last_amended: 2012-07-16
+last_amended: 2018-09-28
 status: in_force
-status_basis: "derived: enacted or amended in 2012 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
+status_basis: "derived: enacted or amended in 2018 and no later repeal, replacement or expiry detected in Narodne novine (not an official in-force list)"
 text_version: original_with_amendments
-narodne_novine: "77/03, 130/06, 76/11, 79/12"
+narodne_novine: "77/03, 130/06, 76/11, 79/12, 87/18"
 amendments:
   - "NN 130/2006 (2870) Uredba o izmjeni Uredbe o Stručnoj službi Savjeta za nacionalne manjine"
   - "NN 76/2011 (1615) Uredba o izmjenama Uredbe o Stručnoj službi Savjeta za nacionalne manjine"
   - "NN 79/2012 (1860) Uredba o izmjeni i dopuni Uredbe o Stručnoj službi Savjeta za nacionalne manjine"
+  - "NN 87/2018 (1707) Uredba o izmjeni Uredbe o Stručnoj službi Savjeta za nacionalne manjine"
 source: "https://narodne-novine.nn.hr/eli/sluzbeni/2003/77/931"
 retrieved: 2026-10-12
 ---
@@ -23,7 +24,7 @@ retrieved: 2026-10-12
 
 > Izvor: Narodne novine, NN 77/2003 (https://narodne-novine.nn.hr/eli/sluzbeni/2003/77/931).
 >
-> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 130/2006, NN 76/2011, NN 79/2012.
+> Izmjene, dopune i ispravci objavljeni nakon izvornog teksta nisu ugrađeni u tekst; njihov cjeloviti tekst naveden je na kraju dokumenta: NN 130/2006, NN 76/2011, NN 79/2012, NN 87/2018.
 >
 > Ovo nije službeni pročišćeni tekst osim ako je gore navedeno; status je utvrđen automatski.
 
@@ -226,3 +227,48 @@ OKVIRNI BROJ DRŽAVNIH SLUŽBENIKA U STRUČNOJ SLUŽBI SAVJETA ZA NACIONALNE MAN
 | 3. | Savjetnik u Vladi Republike Hrvatske i Vladinom uredu | 2 |
 | 4. | Viši upravni referent | 1 |
 |  | UKUPNO | 5 |
+
+## Uredba o izmjeni Uredbe o Stručnoj službi Savjeta za nacionalne manjine (NN 87/2018)
+
+*Izvor: https://narodne-novine.nn.hr/eli/sluzbeni/2018/87/1707*
+
+VLADA REPUBLIKE HRVATSKE
+
+Na temelju članka 36. stavka 6. Ustavnog zakona o pravima nacionalnih manjina (»Narodne novine«, br. 155/02, 47/10, 80/10 i 93/11), Vlada Republike Hrvatske je na sjednici održanoj 27. rujna 2018. godine donijela
+
+**UREDBU**
+
+**O IZMJENI UREDBE O STRUČNOJ SLUŽBI SAVJETA ZA NACIONALNE MANJINE**
+
+### Članak 1.
+
+U Uredbi o Stručnoj službi Savjeta za nacionalne manjine (»Narodne novine«, br. 77/03, 130/06, 76/11 i 79/12), mijenja se okvirni broj državnih službenika potrebnih za obavljanje poslova iz djelokruga Stručne službe.
+
+Novi okvirni broj državnih službenika potrebnih za obavljanje poslova iz djelokruga Stručne službe sadržan je u tablici koja je sastavni dio ove Uredbe.
+
+### Članak 2.
+
+Pravilnik o unutarnjem redu Stručne službe Savjeta za nacionalne manjine uskladit će se s odredbama ove Uredbe u roku od 30 dana od dana njezina stupanja na snagu.
+
+### Članak 3.
+
+Ova Uredba stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+
+Klasa: 022-03/18-03/70
+
+Urbroj: 50301-23/21-18-2
+
+Zagreb, 27. rujna 2018.
+
+Predsjednik  
+mr. sc. Andrej Plenković, v. r.
+
+OKVIRNI BROJ DRŽAVNIH SLUŽBENIKA U STRUČNOJ SLUŽBI SAVJETA ZA NACIONALNE MANJINE
+
+| Redni broj |  | Broj državnih službenika |
+|---|---|---|
+| 1. | Zamjenik predstojnika Stručne službe | 1 |
+| 2. | Administrativni tajnik | 1 |
+| 3. | Savjetnik u Vladi Republike Hrvatske i Vladinom uredu | 3 |
+| 4. | Viši upravni referent | 1 |
+| UKUPNO |  | 6 |
