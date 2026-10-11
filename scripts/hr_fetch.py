@@ -88,7 +88,7 @@ def read_index():
         if not fn.endswith(".csv"):
             continue
         with open(os.path.join(IDX, fn), encoding="utf-8-sig", newline="") as f:
-            rd = csv.reader(f, delimiter="\t")
+            rd = csv.reader(f, delimiter="\t", quoting=csv.QUOTE_NONE)
             header = next(rd, None)
             for r in rd:
                 if len(r) < 8:
@@ -113,7 +113,17 @@ def wanted(row, with_prav):
         return True
     if t.startswith("ustavni zakon"):
         return True
+    # older acts are sometimes indexed only under their promulgation decision
+    if PROGL_RE.match(t):
+        return True
+    # 2013 referendum amendment of the Constitution (NN 5/2014)
+    if "referendum" in t and "ustava republike hrvatske" in t and "dopunjen" in t:
+        return True
     return False
+
+
+PROGL_RE = __import__("re").compile(
+    r"^(odluk[au]|ukaz)\s+o\s+proglašenju\s+(?:\S+\s+){0,2}?(zakona|zakonika|ustavnog\s+zakona)\b")
 
 
 def html_path(row):
